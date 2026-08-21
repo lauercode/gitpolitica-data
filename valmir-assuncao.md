@@ -1,0 +1,7 @@
+# Valmir Assunção
+
+- **Cargo**: Deputado(a) Federal (BA)
+- **Partido**: PT
+
+## Histórico
+
