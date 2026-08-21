@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-08-11 10:31 UTC]** Conselho de Ética analisa processos contra quatro deputados nesta terça-feira
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1295468-conselho-de-etica-analisa-processos-contra-quatro-deputados-nesta-terca-feira)_
+
