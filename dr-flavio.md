@@ -155,3 +155,6 @@
 - **[2026-08-22 18:30 UTC]** Datafolha: Flávio tem 47%, e Lula, 42% em SP no 2º turno; MG marca empate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-flavio-tem-47-e-lula-42-em-sp-no-2o-turno-mg-marca-empate.shtml)_
 
+- **[2026-08-22 14:47 UTC]** Jornalista investigado no STF por textos contra Dino será julgado em dezembro por esquema de extorsão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/jornalista-investigado-no-stf-por-textos-contra-dino-sera-julgado-em-dezembro-por-esquema-de-extorsao.shtml)_
+
