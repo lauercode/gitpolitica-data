@@ -131,3 +131,6 @@
 - **[2026-08-22 04:00 UTC]** São Paulo deve ter temperaturas de 12°C a 22°C neste sábado (22)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/sao-paulo-deve-ter-temperaturas-de-12c-a-22c-neste-sabado-22.shtml)_
 
+- **[2026-08-22 19:27 UTC]** Corregedoria prende policial civil sob suspeita de ligação com sequestro em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/corregedoria-prende-policial-civil-sob-suspeita-de-ligacao-com-sequestro-em-sao-paulo.shtml)_
+
