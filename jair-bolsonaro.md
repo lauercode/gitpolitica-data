@@ -68,3 +68,6 @@
 - **[2026-08-19 22:31 UTC]** Zema propõe lista tríplice e idade mínima de 60 anos para o STF: 'é para quem teve carreira intocável'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/zema-lista-triplice-idade-minima-60-anos-stf.ghtml)_
 
+- **[2026-08-22 10:00 UTC]** Datafolha: Flávio obtém apoio apenas parcial da direita em segundo turno contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/datafolha-flavio-tem-apoio-parcial-na-direita-em-segundo-turno-contra-lula.shtml)_
+
