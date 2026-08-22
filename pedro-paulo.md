@@ -38,3 +38,6 @@
 - **[2026-08-22 16:28 UTC]** No RJ, Lula diz que, se reeleito, vai retirar facções e devolver território sem 'matar 100, 200'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/no-rj-lula-diz-que-se-reeleito-vai-retirar-faccoes-e-devolver-territorio-ao-povo.ghtml)_
 
+- **[2026-08-22 03:00 UTC]** Datafolha, 1º turno: veja intenção de voto por região, gênero, idade, posição política e religião
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/22/datafolha-1o-turno-veja-intencao-de-voto-por-regiao-genero-idade-posicao-politica-e-religiao.ghtml)_
+
