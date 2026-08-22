@@ -47,3 +47,6 @@
 - **[2026-08-22 15:48 UTC]** Flávio diz que 'narcoterroristas' têm até dezembro para ‘meter o pé’ do Brasil e promete ‘guerra’ contra criminosos
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/22/flavio-bolsonaro-participa-de-evento-no-maracanazinho.ghtml)_
 
+- **[2026-08-22 13:22 UTC]** Tarcísio diz que estará com Flávio Bolsonaro e lamenta possíveis ausências em debates presidenciais: 'Gostaria de vê-los'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/tarcisio-diz-que-estara-com-flavio-bolsonaro-e-lamenta-possiveis-ausencias-em-debates-presidenciais-gostaria-de-ve-los.ghtml)_
+
