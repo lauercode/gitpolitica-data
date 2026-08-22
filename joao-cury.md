@@ -38,3 +38,6 @@
 - **[2026-08-22 03:00 UTC]** Eleições 2026: Só 1 partido tem mais mulheres do que homens entre candidatos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-candidaturas-femininas.ghtml)_
 
+- **[2026-08-21 23:43 UTC]** Entrevistas com os candidatos a presidente: Augusto Cury (Avante)
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/augusto-cury-entrevista-candidatos-presidente.ghtml)_
+
