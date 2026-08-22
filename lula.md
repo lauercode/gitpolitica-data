@@ -128,3 +128,6 @@
 - **[2026-08-21 12:10 UTC]** Mendonça tende a manter no STF inquéritos sobre Lulinha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/21/mendonca-tende-a-manter-no-stf-inqueritos-sobre-lulinha.ghtml)_
 
+- **[2026-08-21 10:33 UTC]** 'Game of Thrones' no STF, caso Lulinha e Master atravessam a eleição de 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/21/game-of-thrones-no-stf-caso-lulinha-e-master-atravessam-a-eleicao-de-2026.ghtml)_
+
