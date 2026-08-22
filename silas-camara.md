@@ -35,3 +35,6 @@
 - **[2026-08-21 19:14 UTC]** STF deve retomar em setembro julgamento sobre mudança na Lei da Ficha Limpa que pode impactar campanhas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/stf-deve-retomar-em-setembro-julgamento-sobre-mudanca-na-lei-da-ficha-limpa-que-pode-impactar-campanhas.ghtml)_
 
+- **[2026-08-21 15:43 UTC]** Marina diz que redução da maioridade penal é proposta populista 'para lacrar' e não resolve violência juvenil
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/marina-diz-que-reducao-da-maioridade-penal-e-proposta-populista-para-lacrar-e-nao-resolve-violencia-juvenil.ghtml)_
+
