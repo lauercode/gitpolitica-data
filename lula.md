@@ -11,3 +11,6 @@
 - **[2026-08-21 20:31 UTC]** Alcolumbre envia PEC do fim da escala 6x1 para CCJ do Senado
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-envia-pec-do-fim-da-escala-6x1-para-ccj-do-senado)_
 
+- **[2026-08-21 09:44 UTC]** Confira a agenda dos candidatos à Presidência nesta sexta-feira
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-sexta-feira)_
+
