@@ -185,3 +185,6 @@
 - **[2026-08-19 23:42 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Fernando Haddad ao 'Globo', 'Valor' e CBN
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/19/veja-o-que-e-fato-ou-fake-na-entrevista-de-fernando-haddad-ao-globo-valor-e-cbn.ghtml)_
 
+- **[2026-08-22 10:00 UTC]** Datafolha: Flávio obtém apoio apenas parcial da direita em segundo turno contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/datafolha-flavio-tem-apoio-parcial-na-direita-em-segundo-turno-contra-lula.shtml)_
+
