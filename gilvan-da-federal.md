@@ -95,3 +95,6 @@
 - **[2026-08-22 15:00 UTC]** Decreto garante isenção fiscal a projetos de hidrogênio verde só até o fim do ano
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/decreto-garante-isencao-fiscal-a-projetos-de-hidrogenio-verde-so-ate-o-fim-do-ano.shtml)_
 
+- **[2026-08-22 12:31 UTC]** Justiça dos EUA derruba restrição de vistos de residência para 75 países, incluindo o Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/justica-dos-eua-derruba-restricao-de-vistos-de-residencia-para-75-paises-incluindo-o-brasil.shtml)_
+
