@@ -134,3 +134,6 @@
 - **[2026-08-21 03:40 UTC]** Lulinha e Marcola nas investigações da PF - O Assunto #1788
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/08/21/lulinha-e-marcola-nas-investigacoes-da-pf-o-assunto-1788.ghtml)_
 
+- **[2026-08-21 01:10 UTC]** Mensagens revelam que Lulinha e Roberta Luchsinger mantinham núcleo de atuação e projetavam ganhos milionários com o poder público
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/20/mensagens-revelam-que-lulinha-e-roberta-luchsinger-mantinham-nucleo-de-atuacao-com-projecao-de-ganhos-milionarios-com-o-poder-publico.ghtml)_
+
