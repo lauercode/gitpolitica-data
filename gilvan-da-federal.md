@@ -50,3 +50,6 @@
 - **[2026-08-21 22:06 UTC]** Caiado fala em 'governo de austeridade' e 'choque de credibilidade' para Brasil ter taxa de juros de 6%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/08/21/caiado-fala-em-governo-de-austeridade-e-choque-de-credibilidade-para-brasil-ter-taxa-de-juros-de-6percent-no-interior-de-sp.ghtml)_
 
+- **[2026-08-21 19:24 UTC]** Otto Alencar acerta com Alcolumbre relatores das PECs da Segurança e do fim da escala 6x1
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/21/otto-alencar-acerta-com-alcolumbre-relatores-das-pecs-da-seguranca-e-fim-da-escala-6-x-1.ghtml)_
+
