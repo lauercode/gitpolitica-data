@@ -95,3 +95,6 @@
 - **[2026-08-21 21:00 UTC]** Datafolha: Popularidade de Lula derrapa e mantém disputa com Flávio equilibrada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-popularidade-de-lula-derrapa-e-mantem-disputa-com-flavio-equilibrada.shtml)_
 
+- **[2026-08-22 12:58 UTC]** Flávio deixa de lado 'Bolsonaro moderado' e defende tirar bandido 'de pé ou deitado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-deixa-de-lado-bolsonaro-moderado-e-defende-tirar-bandido-de-pe-ou-deitado-da-rua.shtml)_
+
