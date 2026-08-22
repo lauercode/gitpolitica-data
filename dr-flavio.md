@@ -119,3 +119,6 @@
 - **[2026-08-21 13:47 UTC]** Mendonça manda PF investigar suspeita de novos vazamentos em caso de Lulinha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/mendonca-determina-investigacao-sobre-suspeita-de-novos-vazamentos-em-investigacao-do-lulinha.ghtml)_
 
+- **[2026-08-21 12:40 UTC]** Datafolha divulga nesta sexta-feira primeira pesquisa da eleição presidencial após início da campanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeira-pesquisa-presidencial-apos-inicio-da-campanha.ghtml)_
+
