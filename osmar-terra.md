@@ -14,3 +14,6 @@
 - **[2026-08-22 07:43 UTC]** Mortes por desnutrição caem 75% em terra yanomami na comparação com 2023
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/mortes-por-desnutricao-caem-75-em-terra-yanomami-na-comparacao-com-2023.shtml)_
 
+- **[2026-08-22 07:00 UTC]** Pegada fóssil de SC revela maior mamífero da Era dos Dinossauros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/08/pegada-fossil-de-sc-revela-maior-mamifero-da-era-dos-dinossauros.shtml)_
+
