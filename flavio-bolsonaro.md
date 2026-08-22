@@ -110,3 +110,6 @@
 - **[2026-08-21 14:32 UTC]** 'Quem são os candidatos': g1 lança ferramenta com dados do TSE e páginas para todos os candidatos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/quem-sao-os-candidatos-nova-ferramenta-g1.ghtml)_
 
+- **[2026-08-21 13:49 UTC]** TSE define tempo de TV dos candidatos a presidente; veja o tempo de cada um
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/tse-define-tempo-de-tv-dos-candidatos-a-presidente-veja-o-tempo-de-cada-um.ghtml)_
+
