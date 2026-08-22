@@ -92,3 +92,6 @@
 - **[2026-08-21 20:51 UTC]** Ministro brasileiro e representante dos EUA retomam conversas após telefonema de Lula e Trump
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/21/ministro-brasileiro-e-americano-reabrem-conversas-apos-telefonema-de-lula-e-trump.ghtml)_
 
+- **[2026-08-21 20:37 UTC]** É #FAKE que PF descobriu 'fábrica de fake news' criada para beneficiar Flávio Bolsonaro; foto foi feita com inteligência artificial
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-pf-descobriu-fabrica-de-fake-news-criada-para-beneficiar-flavio-bolsonaro-foto-foi-feita-com-inteligencia-artificial.ghtml)_
+
