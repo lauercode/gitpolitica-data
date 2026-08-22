@@ -59,3 +59,6 @@
 - **[2026-08-20 03:00 UTC]** Escolas em tempo integral, prontuário eletrônico no SUS e ferrovias: veja propostas em que há convergência de Lula, Flávio Bolsonaro e outros 4 candidatos a presidente
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/propostas-em-comum-candidatos-presidente.ghtml)_
 
+- **[2026-08-20 03:00 UTC]** Lula inicia viagens de campanha nesta quinta com agenda em Natal
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/lula-inicia-viagens-de-campanha-nesta-quinta-com-agenda-em-natal.ghtml)_
+
