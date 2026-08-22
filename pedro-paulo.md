@@ -20,3 +20,6 @@
 - **[2026-08-19 20:21 UTC]** Confira como foi a quarta-feira dos candidatos a presidente
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-quarta-feira-dos-candidatos-presidente)_
 
+- **[2026-08-22 21:41 UTC]** Datafolha em PE: Lula, 56%; Flávio Bolsonaro, 24%; Caiado; 2%; Renan; 2%; Zema, 1%; Cury, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/22/datafolha-pe-presidente-agostoghtml.ghtml)_
+
