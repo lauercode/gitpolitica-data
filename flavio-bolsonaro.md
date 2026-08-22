@@ -26,3 +26,6 @@
 - **[2026-08-22 09:18 UTC]** Veja a agenda dos candidatos à Presidência neste fim de semana
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-neste-fim-de-semana)_
 
+- **[2026-08-22 21:41 UTC]** Datafolha em PE: Lula, 56%; Flávio Bolsonaro, 24%; Caiado; 2%; Renan; 2%; Zema, 1%; Cury, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/22/datafolha-pe-presidente-agostoghtml.ghtml)_
+
