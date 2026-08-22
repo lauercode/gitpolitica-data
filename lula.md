@@ -107,3 +107,6 @@
 - **[2026-08-21 16:12 UTC]** Lula diz a Trump que Brasil não precisa de 'classificação' para combater crime organizado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/lula-diz-a-trump-que-brasil-nao-precisa-de-classificacao-para-combater-crime-organizado.ghtml)_
 
+- **[2026-08-21 16:07 UTC]** Em conversa por telefone, Lula diz a Trump que alegações dos EUA para tarifaço são 'infundadas'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/lula-conversa-com-trump.ghtml)_
+
