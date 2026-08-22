@@ -137,3 +137,6 @@
 - **[2026-08-20 13:02 UTC]** Manifestantes protestam contra Tarcísio durante agenda de Flávio Bolsonaro em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/protestam-contra-tarcisio-agenda-de-flavio-bolsonaro-em-sp.ghtml)_
 
+- **[2026-08-22 18:30 UTC]** Datafolha: Flávio tem 47%, e Lula, 42% em SP no 2º turno; MG marca empate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-flavio-tem-47-e-lula-42-em-sp-no-2o-turno-mg-marca-empate.shtml)_
+
