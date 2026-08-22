@@ -1,0 +1,887 @@
+[
+  {
+    "slug": "alan-rick",
+    "name": "Alan Rick",
+    "role": "Senador(a) (AC)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Alan Rick",
+      "Rick"
+    ],
+    "senado_id": "5672"
+  },
+  {
+    "slug": "alessandro-vieira",
+    "name": "Alessandro Vieira",
+    "role": "Senador(a) (SE)",
+    "party": "MDB",
+    "aliases": [
+      "Alessandro Vieira",
+      "Vieira"
+    ],
+    "senado_id": "5982"
+  },
+  {
+    "slug": "angelo-coronel",
+    "name": "Angelo Coronel",
+    "role": "Senador(a) (BA)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Angelo Coronel",
+      "Coronel"
+    ],
+    "senado_id": "5967"
+  },
+  {
+    "slug": "astronauta-marcos-pontes",
+    "name": "Astronauta Marcos Pontes",
+    "role": "Senador(a) (SP)",
+    "party": "PL",
+    "aliases": [
+      "Astronauta Marcos Pontes",
+      "Pontes"
+    ],
+    "senado_id": "6009"
+  },
+  {
+    "slug": "beto-faro",
+    "name": "Beto Faro",
+    "role": "Senador(a) (PA)",
+    "party": "PT",
+    "aliases": [
+      "Beto Faro",
+      "Faro"
+    ],
+    "senado_id": "4639"
+  },
+  {
+    "slug": "camilo-santana",
+    "name": "Camilo Santana",
+    "role": "Senador(a) (CE)",
+    "party": "PT",
+    "aliases": [
+      "Camilo Santana",
+      "Santana"
+    ],
+    "senado_id": "6336"
+  },
+  {
+    "slug": "carlos-favaro",
+    "name": "Carlos Fávaro",
+    "role": "Senador(a) (MT)",
+    "party": "PSD",
+    "aliases": [
+      "Carlos Fávaro",
+      "Fávaro"
+    ],
+    "senado_id": "6295"
+  },
+  {
+    "slug": "carlos-portinho",
+    "name": "Carlos Portinho",
+    "role": "Senador(a) (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Carlos Portinho",
+      "Portinho"
+    ],
+    "senado_id": "5936"
+  },
+  {
+    "slug": "carlos-viana",
+    "name": "Carlos Viana",
+    "role": "Senador(a) (MG)",
+    "party": "PSD",
+    "aliases": [
+      "Carlos Viana",
+      "Viana"
+    ],
+    "senado_id": "5990"
+  },
+  {
+    "slug": "chico-rodrigues",
+    "name": "Chico Rodrigues",
+    "role": "Senador(a) (RR)",
+    "party": "PSB",
+    "aliases": [
+      "Chico Rodrigues",
+      "Rodrigues"
+    ],
+    "senado_id": "470"
+  },
+  {
+    "slug": "cid-gomes",
+    "name": "Cid Gomes",
+    "role": "Senador(a) (CE)",
+    "party": "PSB",
+    "aliases": [
+      "Cid Gomes",
+      "Gomes"
+    ],
+    "senado_id": "5973"
+  },
+  {
+    "slug": "ciro-nogueira",
+    "name": "Ciro Nogueira",
+    "role": "Senador(a) (PI)",
+    "party": "PP",
+    "aliases": [
+      "Ciro Nogueira",
+      "Nogueira"
+    ],
+    "senado_id": "739"
+  },
+  {
+    "slug": "cleitinho",
+    "name": "Cleitinho",
+    "role": "Senador(a) (MG)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Cleitinho"
+    ],
+    "senado_id": "6337"
+  },
+  {
+    "slug": "confucio-moura",
+    "name": "Confúcio Moura",
+    "role": "Senador(a) (RO)",
+    "party": "MDB",
+    "aliases": [
+      "Confúcio Moura",
+      "Moura"
+    ],
+    "senado_id": "475"
+  },
+  {
+    "slug": "damares-alves",
+    "name": "Damares Alves",
+    "role": "Senador(a) (DF)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Damares Alves",
+      "Alves"
+    ],
+    "senado_id": "6335"
+  },
+  {
+    "slug": "daniella-ribeiro",
+    "name": "Daniella Ribeiro",
+    "role": "Senador(a) (PB)",
+    "party": "PP",
+    "aliases": [
+      "Daniella Ribeiro",
+      "Ribeiro"
+    ],
+    "senado_id": "5998"
+  },
+  {
+    "slug": "davi-alcolumbre",
+    "name": "Davi Alcolumbre",
+    "role": "Senador(a) (AP)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Davi Alcolumbre",
+      "Alcolumbre"
+    ],
+    "senado_id": "3830"
+  },
+  {
+    "slug": "dr-hiran",
+    "name": "Dr. Hiran",
+    "role": "Senador(a) (RR)",
+    "party": "PP",
+    "aliases": [
+      "Dr. Hiran",
+      "Hiran"
+    ],
+    "senado_id": "5793"
+  },
+  {
+    "slug": "dra-eudocia",
+    "name": "Dra. Eudócia",
+    "role": "Senador(a) (AL)",
+    "party": "PSDB",
+    "aliases": [
+      "Dra. Eudócia",
+      "Eudócia"
+    ],
+    "senado_id": "5906"
+  },
+  {
+    "slug": "eduardo-braga",
+    "name": "Eduardo Braga",
+    "role": "Senador(a) (AM)",
+    "party": "MDB",
+    "aliases": [
+      "Eduardo Braga",
+      "Braga"
+    ],
+    "senado_id": "4994"
+  },
+  {
+    "slug": "eduardo-gomes",
+    "name": "Eduardo Gomes",
+    "role": "Senador(a) (TO)",
+    "party": "PL",
+    "aliases": [
+      "Eduardo Gomes",
+      "Gomes"
+    ],
+    "senado_id": "3777"
+  },
+  {
+    "slug": "efraim-filho",
+    "name": "Efraim Filho",
+    "role": "Senador(a) (PB)",
+    "party": "PL",
+    "aliases": [
+      "Efraim Filho",
+      "Filho"
+    ],
+    "senado_id": "4642"
+  },
+  {
+    "slug": "eliziane-gama",
+    "name": "Eliziane Gama",
+    "role": "Senador(a) (MA)",
+    "party": "PSD",
+    "aliases": [
+      "Eliziane Gama",
+      "Gama"
+    ],
+    "senado_id": "5718"
+  },
+  {
+    "slug": "esperidiao-amin",
+    "name": "Esperidião Amin",
+    "role": "Senador(a) (SC)",
+    "party": "PP",
+    "aliases": [
+      "Esperidião Amin",
+      "Amin"
+    ],
+    "senado_id": "22"
+  },
+  {
+    "slug": "fabiano-contarato",
+    "name": "Fabiano Contarato",
+    "role": "Senador(a) (ES)",
+    "party": "PT",
+    "aliases": [
+      "Fabiano Contarato",
+      "Contarato"
+    ],
+    "senado_id": "5953"
+  },
+  {
+    "slug": "fernando-dueire",
+    "name": "Fernando Dueire",
+    "role": "Senador(a) (PE)",
+    "party": "PSD",
+    "aliases": [
+      "Fernando Dueire",
+      "Dueire"
+    ],
+    "senado_id": "5917"
+  },
+  {
+    "slug": "flavio-arns",
+    "name": "Flávio Arns",
+    "role": "Senador(a) (PR)",
+    "party": "PSB",
+    "aliases": [
+      "Flávio Arns",
+      "Arns"
+    ],
+    "senado_id": "345"
+  },
+  {
+    "slug": "flavio-bolsonaro",
+    "name": "Flávio Bolsonaro",
+    "role": "Senador(a) (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Flávio Bolsonaro",
+      "Bolsonaro"
+    ],
+    "senado_id": "5894"
+  },
+  {
+    "slug": "giordano",
+    "name": "Giordano",
+    "role": "Senador(a) (SP)",
+    "party": "PODEMOS",
+    "aliases": [
+      "Giordano"
+    ],
+    "senado_id": "6008"
+  },
+  {
+    "slug": "hamilton-mourao",
+    "name": "Hamilton Mourão",
+    "role": "Senador(a) (RS)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Hamilton Mourão",
+      "Mourão"
+    ],
+    "senado_id": "6341"
+  },
+  {
+    "slug": "hermes-klann",
+    "name": "Hermes Klann",
+    "role": "Senador(a) (SC)",
+    "party": "PL",
+    "aliases": [
+      "Hermes Klann",
+      "Klann"
+    ],
+    "senado_id": "6381"
+  },
+  {
+    "slug": "humberto-costa",
+    "name": "Humberto Costa",
+    "role": "Senador(a) (PE)",
+    "party": "PT",
+    "aliases": [
+      "Humberto Costa",
+      "Costa"
+    ],
+    "senado_id": "5008"
+  },
+  {
+    "slug": "iraja",
+    "name": "Irajá",
+    "role": "Senador(a) (TO)",
+    "party": "PSD",
+    "aliases": [
+      "Irajá"
+    ],
+    "senado_id": "5385"
+  },
+  {
+    "slug": "ivete-da-silveira",
+    "name": "Ivete da Silveira",
+    "role": "Senador(a) (SC)",
+    "party": "MDB",
+    "aliases": [
+      "Ivete da Silveira",
+      "Silveira"
+    ],
+    "senado_id": "6010"
+  },
+  {
+    "slug": "izalci-lucas",
+    "name": "Izalci Lucas",
+    "role": "Senador(a) (DF)",
+    "party": "PL",
+    "aliases": [
+      "Izalci Lucas",
+      "Lucas"
+    ],
+    "senado_id": "4770"
+  },
+  {
+    "slug": "jader-barbalho",
+    "name": "Jader Barbalho",
+    "role": "Senador(a) (PA)",
+    "party": "MDB",
+    "aliases": [
+      "Jader Barbalho",
+      "Barbalho"
+    ],
+    "senado_id": "35"
+  },
+  {
+    "slug": "jaime-bagattoli",
+    "name": "Jaime Bagattoli",
+    "role": "Senador(a) (RO)",
+    "party": "PL",
+    "aliases": [
+      "Jaime Bagattoli",
+      "Bagattoli"
+    ],
+    "senado_id": "6340"
+  },
+  {
+    "slug": "jaques-wagner",
+    "name": "Jaques Wagner",
+    "role": "Senador(a) (BA)",
+    "party": "PT",
+    "aliases": [
+      "Jaques Wagner",
+      "Wagner"
+    ],
+    "senado_id": "581"
+  },
+  {
+    "slug": "jayme-campos",
+    "name": "Jayme Campos",
+    "role": "Senador(a) (MT)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Jayme Campos",
+      "Campos"
+    ],
+    "senado_id": "4531"
+  },
+  {
+    "slug": "jorge-kajuru",
+    "name": "Jorge Kajuru",
+    "role": "Senador(a) (GO)",
+    "party": "PSB",
+    "aliases": [
+      "Jorge Kajuru",
+      "Kajuru"
+    ],
+    "senado_id": "5895"
+  },
+  {
+    "slug": "jussara-lima",
+    "name": "Jussara Lima",
+    "role": "Senador(a) (PI)",
+    "party": "PSD",
+    "aliases": [
+      "Jussara Lima",
+      "Lima"
+    ],
+    "senado_id": "6369"
+  },
+  {
+    "slug": "laercio-oliveira",
+    "name": "Laércio Oliveira",
+    "role": "Senador(a) (SE)",
+    "party": "PP",
+    "aliases": [
+      "Laércio Oliveira",
+      "Oliveira"
+    ],
+    "senado_id": "4811"
+  },
+  {
+    "slug": "leila-barros",
+    "name": "Leila Barros",
+    "role": "Senador(a) (DF)",
+    "party": "PDT",
+    "aliases": [
+      "Leila Barros",
+      "Barros"
+    ],
+    "senado_id": "5979"
+  },
+  {
+    "slug": "lourdinha-pereira",
+    "name": "Lourdinha Pereira",
+    "role": "Senador(a) (MA)",
+    "party": "PSB",
+    "aliases": [
+      "Lourdinha Pereira",
+      "Pereira"
+    ],
+    "senado_id": "6359"
+  },
+  {
+    "slug": "lucas-barreto",
+    "name": "Lucas Barreto",
+    "role": "Senador(a) (AP)",
+    "party": "PSD",
+    "aliases": [
+      "Lucas Barreto",
+      "Barreto"
+    ],
+    "senado_id": "5926"
+  },
+  {
+    "slug": "luis-carlos-heinze",
+    "name": "Luis Carlos Heinze",
+    "role": "Senador(a) (RS)",
+    "party": "PP",
+    "aliases": [
+      "Luis Carlos Heinze",
+      "Heinze"
+    ],
+    "senado_id": "1186"
+  },
+  {
+    "slug": "magno-malta",
+    "name": "Magno Malta",
+    "role": "Senador(a) (ES)",
+    "party": "PL",
+    "aliases": [
+      "Magno Malta",
+      "Malta"
+    ],
+    "senado_id": "631"
+  },
+  {
+    "slug": "mara-gabrilli",
+    "name": "Mara Gabrilli",
+    "role": "Senador(a) (SP)",
+    "party": "PSD",
+    "aliases": [
+      "Mara Gabrilli",
+      "Gabrilli"
+    ],
+    "senado_id": "5376"
+  },
+  {
+    "slug": "marcelo-castro",
+    "name": "Marcelo Castro",
+    "role": "Senador(a) (PI)",
+    "party": "MDB",
+    "aliases": [
+      "Marcelo Castro",
+      "Castro"
+    ],
+    "senado_id": "742"
+  },
+  {
+    "slug": "marcio-bittar",
+    "name": "Marcio Bittar",
+    "role": "Senador(a) (AC)",
+    "party": "PL",
+    "aliases": [
+      "Marcio Bittar",
+      "Bittar"
+    ],
+    "senado_id": "285"
+  },
+  {
+    "slug": "marcos-rogerio",
+    "name": "Marcos Rogério",
+    "role": "Senador(a) (RO)",
+    "party": "PL",
+    "aliases": [
+      "Marcos Rogério",
+      "Rogério"
+    ],
+    "senado_id": "5422"
+  },
+  {
+    "slug": "marcos-do-val",
+    "name": "Marcos do Val",
+    "role": "Senador(a) (ES)",
+    "party": "AVANTE",
+    "aliases": [
+      "Marcos do Val"
+    ],
+    "senado_id": "5942"
+  },
+  {
+    "slug": "nelsinho-trad",
+    "name": "Nelsinho Trad",
+    "role": "Senador(a) (MS)",
+    "party": "PSD",
+    "aliases": [
+      "Nelsinho Trad",
+      "Trad"
+    ],
+    "senado_id": "5985"
+  },
+  {
+    "slug": "omar-aziz",
+    "name": "Omar Aziz",
+    "role": "Senador(a) (AM)",
+    "party": "PSD",
+    "aliases": [
+      "Omar Aziz",
+      "Aziz"
+    ],
+    "senado_id": "5525"
+  },
+  {
+    "slug": "oriovisto-guimaraes",
+    "name": "Oriovisto Guimarães",
+    "role": "Senador(a) (PR)",
+    "party": "PSDB",
+    "aliases": [
+      "Oriovisto Guimarães",
+      "Guimarães"
+    ],
+    "senado_id": "5924"
+  },
+  {
+    "slug": "otto-alencar",
+    "name": "Otto Alencar",
+    "role": "Senador(a) (BA)",
+    "party": "PSD",
+    "aliases": [
+      "Otto Alencar",
+      "Alencar"
+    ],
+    "senado_id": "5523"
+  },
+  {
+    "slug": "paulo-paim",
+    "name": "Paulo Paim",
+    "role": "Senador(a) (RS)",
+    "party": "PT",
+    "aliases": [
+      "Paulo Paim",
+      "Paim"
+    ],
+    "senado_id": "825"
+  },
+  {
+    "slug": "plinio-valerio",
+    "name": "Plínio Valério",
+    "role": "Senador(a) (AM)",
+    "party": "PSDB",
+    "aliases": [
+      "Plínio Valério",
+      "Valério"
+    ],
+    "senado_id": "5502"
+  },
+  {
+    "slug": "professora-dorinha-seabra",
+    "name": "Professora Dorinha Seabra",
+    "role": "Senador(a) (TO)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Professora Dorinha Seabra",
+      "Seabra"
+    ],
+    "senado_id": "5386"
+  },
+  {
+    "slug": "randolfe-rodrigues",
+    "name": "Randolfe Rodrigues",
+    "role": "Senador(a) (AP)",
+    "party": "PT",
+    "aliases": [
+      "Randolfe Rodrigues",
+      "Rodrigues"
+    ],
+    "senado_id": "5012"
+  },
+  {
+    "slug": "renan-calheiros",
+    "name": "Renan Calheiros",
+    "role": "Senador(a) (AL)",
+    "party": "MDB",
+    "aliases": [
+      "Renan Calheiros",
+      "Calheiros"
+    ],
+    "senado_id": "70"
+  },
+  {
+    "slug": "renan-filho",
+    "name": "Renan Filho",
+    "role": "Senador(a) (AL)",
+    "party": "MDB",
+    "aliases": [
+      "Renan Filho",
+      "Filho"
+    ],
+    "senado_id": "5207"
+  },
+  {
+    "slug": "roberta-acioly",
+    "name": "Roberta Acioly",
+    "role": "Senador(a) (RR)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Roberta Acioly",
+      "Acioly"
+    ],
+    "senado_id": "6025"
+  },
+  {
+    "slug": "rodrigo-pacheco",
+    "name": "Rodrigo Pacheco",
+    "role": "Senador(a) (MG)",
+    "party": "PSB",
+    "aliases": [
+      "Rodrigo Pacheco",
+      "Pacheco"
+    ],
+    "senado_id": "5732"
+  },
+  {
+    "slug": "rogerio-marinho",
+    "name": "Rogerio Marinho",
+    "role": "Senador(a) (RN)",
+    "party": "PL",
+    "aliases": [
+      "Rogerio Marinho",
+      "Marinho"
+    ],
+    "senado_id": "4694"
+  },
+  {
+    "slug": "rogerio-carvalho",
+    "name": "Rogério Carvalho",
+    "role": "Senador(a) (SE)",
+    "party": "PT",
+    "aliases": [
+      "Rogério Carvalho",
+      "Carvalho"
+    ],
+    "senado_id": "5352"
+  },
+  {
+    "slug": "romario",
+    "name": "Romário",
+    "role": "Senador(a) (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Romário"
+    ],
+    "senado_id": "5322"
+  },
+  {
+    "slug": "sargento-reginauro",
+    "name": "Sargento Reginauro",
+    "role": "Senador(a) (CE)",
+    "party": "PSDB",
+    "aliases": [
+      "Sargento Reginauro",
+      "Reginauro"
+    ],
+    "senado_id": "5974"
+  },
+  {
+    "slug": "sergio-moro",
+    "name": "Sergio Moro",
+    "role": "Senador(a) (PR)",
+    "party": "PL",
+    "aliases": [
+      "Sergio Moro",
+      "Moro"
+    ],
+    "senado_id": "6331"
+  },
+  {
+    "slug": "soraya-thronicke",
+    "name": "Soraya Thronicke",
+    "role": "Senador(a) (MS)",
+    "party": "PSB",
+    "aliases": [
+      "Soraya Thronicke",
+      "Thronicke"
+    ],
+    "senado_id": "5988"
+  },
+  {
+    "slug": "styvenson-valentim",
+    "name": "Styvenson Valentim",
+    "role": "Senador(a) (RN)",
+    "party": "PODEMOS",
+    "aliases": [
+      "Styvenson Valentim",
+      "Valentim"
+    ],
+    "senado_id": "5959"
+  },
+  {
+    "slug": "sergio-petecao",
+    "name": "Sérgio Petecão",
+    "role": "Senador(a) (AC)",
+    "party": "PSD",
+    "aliases": [
+      "Sérgio Petecão",
+      "Petecão"
+    ],
+    "senado_id": "4560"
+  },
+  {
+    "slug": "teresa-leitao",
+    "name": "Teresa Leitão",
+    "role": "Senador(a) (PE)",
+    "party": "PT",
+    "aliases": [
+      "Teresa Leitão",
+      "Leitão"
+    ],
+    "senado_id": "6338"
+  },
+  {
+    "slug": "tereza-cristina",
+    "name": "Tereza Cristina",
+    "role": "Senador(a) (MS)",
+    "party": "PP",
+    "aliases": [
+      "Tereza Cristina",
+      "Cristina"
+    ],
+    "senado_id": "5736"
+  },
+  {
+    "slug": "vanderlan-cardoso",
+    "name": "Vanderlan Cardoso",
+    "role": "Senador(a) (GO)",
+    "party": "PSD",
+    "aliases": [
+      "Vanderlan Cardoso",
+      "Cardoso"
+    ],
+    "senado_id": "5899"
+  },
+  {
+    "slug": "veneziano-vital-do-rego",
+    "name": "Veneziano Vital do Rêgo",
+    "role": "Senador(a) (PB)",
+    "party": "MDB",
+    "aliases": [
+      "Veneziano Vital do Rêgo",
+      "Rêgo"
+    ],
+    "senado_id": "5748"
+  },
+  {
+    "slug": "wellington-fagundes",
+    "name": "Wellington Fagundes",
+    "role": "Senador(a) (MT)",
+    "party": "PL",
+    "aliases": [
+      "Wellington Fagundes",
+      "Fagundes"
+    ],
+    "senado_id": "1173"
+  },
+  {
+    "slug": "weverton",
+    "name": "Weverton",
+    "role": "Senador(a) (MA)",
+    "party": "PDT",
+    "aliases": [
+      "Weverton"
+    ],
+    "senado_id": "5411"
+  },
+  {
+    "slug": "wilder-morais",
+    "name": "Wilder Morais",
+    "role": "Senador(a) (GO)",
+    "party": "PL",
+    "aliases": [
+      "Wilder Morais",
+      "Morais"
+    ],
+    "senado_id": "5070"
+  },
+  {
+    "slug": "zenaide-maia",
+    "name": "Zenaide Maia",
+    "role": "Senador(a) (RN)",
+    "party": "PSD",
+    "aliases": [
+      "Zenaide Maia",
+      "Maia"
+    ],
+    "senado_id": "5783"
+  },
+  {
+    "slug": "zequinha-marinho",
+    "name": "Zequinha Marinho",
+    "role": "Senador(a) (PA)",
+    "party": "PODEMOS",
+    "aliases": [
+      "Zequinha Marinho",
+      "Marinho"
+    ],
+    "senado_id": "3806"
+  }
+]

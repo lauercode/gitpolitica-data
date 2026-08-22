@@ -1,0 +1,5614 @@
+[
+  {
+    "slug": "acacio-favacho",
+    "name": "Acácio Favacho",
+    "role": "Deputado(a) Federal (AP)",
+    "party": "MDB",
+    "aliases": [
+      "Acácio Favacho",
+      "Favacho"
+    ],
+    "camara_id": 204379
+  },
+  {
+    "slug": "adail-filho",
+    "name": "Adail Filho",
+    "role": "Deputado(a) Federal (AM)",
+    "party": "MDB",
+    "aliases": [
+      "Adail Filho",
+      "Filho"
+    ],
+    "camara_id": 220714
+  },
+  {
+    "slug": "adilson-barroso",
+    "name": "Adilson Barroso",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Adilson Barroso",
+      "Barroso"
+    ],
+    "camara_id": 221328
+  },
+  {
+    "slug": "adolfo-viana",
+    "name": "Adolfo Viana",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PSDB",
+    "aliases": [
+      "Adolfo Viana",
+      "Viana"
+    ],
+    "camara_id": 204560
+  },
+  {
+    "slug": "adriana-ventura",
+    "name": "Adriana Ventura",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "NOVO",
+    "aliases": [
+      "Adriana Ventura",
+      "Ventura"
+    ],
+    "camara_id": 204528
+  },
+  {
+    "slug": "adriano-do-baldy",
+    "name": "Adriano do Baldy",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PP",
+    "aliases": [
+      "Adriano do Baldy",
+      "Baldy"
+    ],
+    "camara_id": 121948
+  },
+  {
+    "slug": "aecio-neves",
+    "name": "Aécio Neves",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PSDB",
+    "aliases": [
+      "Aécio Neves",
+      "Neves"
+    ],
+    "camara_id": 74646
+  },
+  {
+    "slug": "afonso-florence",
+    "name": "Afonso Florence",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PT",
+    "aliases": [
+      "Afonso Florence",
+      "Florence"
+    ],
+    "camara_id": 160508
+  },
+  {
+    "slug": "afonso-hamm",
+    "name": "Afonso Hamm",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PP",
+    "aliases": [
+      "Afonso Hamm",
+      "Hamm"
+    ],
+    "camara_id": 136811
+  },
+  {
+    "slug": "afonso-motta",
+    "name": "Afonso Motta",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PDT",
+    "aliases": [
+      "Afonso Motta",
+      "Motta"
+    ],
+    "camara_id": 178835
+  },
+  {
+    "slug": "aguinaldo-ribeiro",
+    "name": "Aguinaldo Ribeiro",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "PP",
+    "aliases": [
+      "Aguinaldo Ribeiro",
+      "Ribeiro"
+    ],
+    "camara_id": 160527
+  },
+  {
+    "slug": "airton-faleiro",
+    "name": "Airton Faleiro",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PT",
+    "aliases": [
+      "Airton Faleiro",
+      "Faleiro"
+    ],
+    "camara_id": 204495
+  },
+  {
+    "slug": "aj-albuquerque",
+    "name": "AJ Albuquerque",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PP",
+    "aliases": [
+      "AJ Albuquerque",
+      "Albuquerque"
+    ],
+    "camara_id": 204549
+  },
+  {
+    "slug": "alberto-fraga",
+    "name": "Alberto Fraga",
+    "role": "Deputado(a) Federal (DF)",
+    "party": "PL",
+    "aliases": [
+      "Alberto Fraga",
+      "Fraga"
+    ],
+    "camara_id": 73579
+  },
+  {
+    "slug": "albuquerque",
+    "name": "Albuquerque",
+    "role": "Deputado(a) Federal (RR)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Albuquerque"
+    ],
+    "camara_id": 220538
+  },
+  {
+    "slug": "alceu-moreira",
+    "name": "Alceu Moreira",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "MDB",
+    "aliases": [
+      "Alceu Moreira",
+      "Moreira"
+    ],
+    "camara_id": 160559
+  },
+  {
+    "slug": "alencar-santana",
+    "name": "Alencar Santana",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Alencar Santana",
+      "Santana"
+    ],
+    "camara_id": 204501
+  },
+  {
+    "slug": "alex-manente",
+    "name": "Alex Manente",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "CIDADANIA",
+    "aliases": [
+      "Alex Manente",
+      "Manente"
+    ],
+    "camara_id": 178972
+  },
+  {
+    "slug": "alexandre-guimaraes",
+    "name": "Alexandre Guimarães",
+    "role": "Deputado(a) Federal (TO)",
+    "party": "MDB",
+    "aliases": [
+      "Alexandre Guimarães",
+      "Guimarães"
+    ],
+    "camara_id": 220542
+  },
+  {
+    "slug": "alexandre-leite",
+    "name": "Alexandre Leite",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Alexandre Leite",
+      "Leite"
+    ],
+    "camara_id": 160545
+  },
+  {
+    "slug": "alexandre-lindenmeyer",
+    "name": "Alexandre Lindenmeyer",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PT",
+    "aliases": [
+      "Alexandre Lindenmeyer",
+      "Lindenmeyer"
+    ],
+    "camara_id": 220554
+  },
+  {
+    "slug": "alfredinho",
+    "name": "Alfredinho",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Alfredinho"
+    ],
+    "camara_id": 221148
+  },
+  {
+    "slug": "alfredo-gaspar",
+    "name": "Alfredo Gaspar",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "PL",
+    "aliases": [
+      "Alfredo Gaspar",
+      "Gaspar"
+    ],
+    "camara_id": 220576
+  },
+  {
+    "slug": "alice-portugal",
+    "name": "Alice Portugal",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PCdoB",
+    "aliases": [
+      "Alice Portugal",
+      "Portugal"
+    ],
+    "camara_id": 74057
+  },
+  {
+    "slug": "aliel-machado",
+    "name": "Aliel Machado",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PV",
+    "aliases": [
+      "Aliel Machado",
+      "Machado"
+    ],
+    "camara_id": 178927
+  },
+  {
+    "slug": "aline-gurgel",
+    "name": "Aline Gurgel",
+    "role": "Deputado(a) Federal (AP)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Aline Gurgel",
+      "Gurgel"
+    ],
+    "camara_id": 204353
+  },
+  {
+    "slug": "altineu-cortes",
+    "name": "Altineu Côrtes",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Altineu Côrtes",
+      "Côrtes"
+    ],
+    "camara_id": 178937
+  },
+  {
+    "slug": "aluisio-mendes",
+    "name": "Aluisio Mendes",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Aluisio Mendes",
+      "Mendes"
+    ],
+    "camara_id": 178881
+  },
+  {
+    "slug": "amanda-gentil",
+    "name": "Amanda Gentil",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PP",
+    "aliases": [
+      "Amanda Gentil",
+      "Gentil"
+    ],
+    "camara_id": 220707
+  },
+  {
+    "slug": "amaro-neto",
+    "name": "Amaro Neto",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "PP",
+    "aliases": [
+      "Amaro Neto",
+      "Neto"
+    ],
+    "camara_id": 204356
+  },
+  {
+    "slug": "amom-mandel",
+    "name": "Amom Mandel",
+    "role": "Deputado(a) Federal (AM)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Amom Mandel",
+      "Mandel"
+    ],
+    "camara_id": 220715
+  },
+  {
+    "slug": "ana-paula-leao",
+    "name": "Ana Paula Leão",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PP",
+    "aliases": [
+      "Ana Paula Leão",
+      "Leão"
+    ],
+    "camara_id": 107970
+  },
+  {
+    "slug": "ana-paula-lima",
+    "name": "Ana Paula Lima",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "PT",
+    "aliases": [
+      "Ana Paula Lima",
+      "Lima"
+    ],
+    "camara_id": 220556
+  },
+  {
+    "slug": "ana-pimentel",
+    "name": "Ana Pimentel",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Ana Pimentel",
+      "Pimentel"
+    ],
+    "camara_id": 220632
+  },
+  {
+    "slug": "andre-abdon",
+    "name": "André Abdon",
+    "role": "Deputado(a) Federal (AP)",
+    "party": "PP",
+    "aliases": [
+      "André Abdon",
+      "Abdon"
+    ],
+    "camara_id": 178831
+  },
+  {
+    "slug": "andre-fernandes",
+    "name": "André Fernandes",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PL",
+    "aliases": [
+      "André Fernandes",
+      "Fernandes"
+    ],
+    "camara_id": 220657
+  },
+  {
+    "slug": "andre-ferreira",
+    "name": "André Ferreira",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PL",
+    "aliases": [
+      "André Ferreira",
+      "Ferreira"
+    ],
+    "camara_id": 204423
+  },
+  {
+    "slug": "andre-figueiredo",
+    "name": "André Figueiredo",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PDT",
+    "aliases": [
+      "André Figueiredo",
+      "Figueiredo"
+    ],
+    "camara_id": 133439
+  },
+  {
+    "slug": "andre-fufuca",
+    "name": "André Fufuca",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PP",
+    "aliases": [
+      "André Fufuca",
+      "Fufuca"
+    ],
+    "camara_id": 178882
+  },
+  {
+    "slug": "andre-janones",
+    "name": "André Janones",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "REDE",
+    "aliases": [
+      "André Janones",
+      "Janones"
+    ],
+    "camara_id": 204515
+  },
+  {
+    "slug": "andreia-siqueira",
+    "name": "Andreia Siqueira",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PSB",
+    "aliases": [
+      "Andreia Siqueira",
+      "Siqueira"
+    ],
+    "camara_id": 220676
+  },
+  {
+    "slug": "antonia-lucia",
+    "name": "Antônia Lúcia",
+    "role": "Deputado(a) Federal (AC)",
+    "party": "MDB",
+    "aliases": [
+      "Antônia Lúcia",
+      "Lúcia"
+    ],
+    "camara_id": 123756
+  },
+  {
+    "slug": "antonio-andrade",
+    "name": "Antonio Andrade",
+    "role": "Deputado(a) Federal (TO)",
+    "party": "PSDB",
+    "aliases": [
+      "Antonio Andrade",
+      "Andrade"
+    ],
+    "camara_id": 220544
+  },
+  {
+    "slug": "antonio-brito",
+    "name": "Antonio Brito",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PSD",
+    "aliases": [
+      "Antonio Brito",
+      "Brito"
+    ],
+    "camara_id": 160553
+  },
+  {
+    "slug": "antonio-carlos-rodrigues",
+    "name": "Antonio Carlos Rodrigues",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Antonio Carlos Rodrigues",
+      "Rodrigues"
+    ],
+    "camara_id": 220638
+  },
+  {
+    "slug": "antonio-doido",
+    "name": "Antônio Doido",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "MDB",
+    "aliases": [
+      "Antônio Doido",
+      "Doido"
+    ],
+    "camara_id": 220675
+  },
+  {
+    "slug": "any-ortiz",
+    "name": "Any Ortiz",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PP",
+    "aliases": [
+      "Any Ortiz",
+      "Ortiz"
+    ],
+    "camara_id": 220549
+  },
+  {
+    "slug": "arlindo-chinaglia",
+    "name": "Arlindo Chinaglia",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Arlindo Chinaglia",
+      "Chinaglia"
+    ],
+    "camara_id": 73433
+  },
+  {
+    "slug": "arnaldo-jardim",
+    "name": "Arnaldo Jardim",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "CIDADANIA",
+    "aliases": [
+      "Arnaldo Jardim",
+      "Jardim"
+    ],
+    "camara_id": 141391
+  },
+  {
+    "slug": "arthur-lira",
+    "name": "Arthur Lira",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "PP",
+    "aliases": [
+      "Arthur Lira",
+      "Lira"
+    ],
+    "camara_id": 160541
+  },
+  {
+    "slug": "arthur-oliveira-maia",
+    "name": "Arthur Oliveira Maia",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Arthur Oliveira Maia",
+      "Maia"
+    ],
+    "camara_id": 160600
+  },
+  {
+    "slug": "atila-lins",
+    "name": "Átila Lins",
+    "role": "Deputado(a) Federal (AM)",
+    "party": "PSD",
+    "aliases": [
+      "Átila Lins",
+      "Lins"
+    ],
+    "camara_id": 74090
+  },
+  {
+    "slug": "atila-lira",
+    "name": "Átila Lira",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "PP",
+    "aliases": [
+      "Átila Lira",
+      "Lira"
+    ],
+    "camara_id": 123086
+  },
+  {
+    "slug": "augusto-coutinho",
+    "name": "Augusto Coutinho",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Augusto Coutinho",
+      "Coutinho"
+    ],
+    "camara_id": 160665
+  },
+  {
+    "slug": "aureo-ribeiro",
+    "name": "Aureo Ribeiro",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "SOLIDARIEDADE",
+    "aliases": [
+      "Aureo Ribeiro",
+      "Ribeiro"
+    ],
+    "camara_id": 160512
+  },
+  {
+    "slug": "bacelar",
+    "name": "Bacelar",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PV",
+    "aliases": [
+      "Bacelar"
+    ],
+    "camara_id": 69871
+  },
+  {
+    "slug": "baleia-rossi",
+    "name": "Baleia Rossi",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "MDB",
+    "aliases": [
+      "Baleia Rossi",
+      "Rossi"
+    ],
+    "camara_id": 178975
+  },
+  {
+    "slug": "bandeira-de-mello",
+    "name": "Bandeira de Mello",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PV",
+    "aliases": [
+      "Bandeira de Mello",
+      "Mello"
+    ],
+    "camara_id": 220605
+  },
+  {
+    "slug": "bebeto",
+    "name": "Bebeto",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PP",
+    "aliases": [
+      "Bebeto"
+    ],
+    "camara_id": 220612
+  },
+  {
+    "slug": "benedita-da-silva",
+    "name": "Benedita da Silva",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PT",
+    "aliases": [
+      "Benedita da Silva",
+      "Silva"
+    ],
+    "camara_id": 73701
+  },
+  {
+    "slug": "benes-leocadio",
+    "name": "Benes Leocádio",
+    "role": "Deputado(a) Federal (RN)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Benes Leocádio",
+      "Leocádio"
+    ],
+    "camara_id": 109429
+  },
+  {
+    "slug": "beto-pereira",
+    "name": "Beto Pereira",
+    "role": "Deputado(a) Federal (MS)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Beto Pereira",
+      "Pereira"
+    ],
+    "camara_id": 204358
+  },
+  {
+    "slug": "beto-preto",
+    "name": "Beto Preto",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PSD",
+    "aliases": [
+      "Beto Preto",
+      "Preto"
+    ],
+    "camara_id": 220698
+  },
+  {
+    "slug": "beto-richa",
+    "name": "Beto Richa",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PSDB",
+    "aliases": [
+      "Beto Richa",
+      "Richa"
+    ],
+    "camara_id": 220683
+  },
+  {
+    "slug": "bia-kicis",
+    "name": "Bia Kicis",
+    "role": "Deputado(a) Federal (DF)",
+    "party": "PL",
+    "aliases": [
+      "Bia Kicis",
+      "Kicis"
+    ],
+    "camara_id": 204374
+  },
+  {
+    "slug": "bibo-nunes",
+    "name": "Bibo Nunes",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PL",
+    "aliases": [
+      "Bibo Nunes",
+      "Nunes"
+    ],
+    "camara_id": 204388
+  },
+  {
+    "slug": "bohn-gass",
+    "name": "Bohn Gass",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PT",
+    "aliases": [
+      "Bohn Gass",
+      "Gass"
+    ],
+    "camara_id": 160538
+  },
+  {
+    "slug": "bruno-farias",
+    "name": "Bruno Farias",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Bruno Farias",
+      "Farias"
+    ],
+    "camara_id": 210989
+  },
+  {
+    "slug": "bruno-ganem",
+    "name": "Bruno Ganem",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Bruno Ganem",
+      "Ganem"
+    ],
+    "camara_id": 220635
+  },
+  {
+    "slug": "cabo-gilberto-silva",
+    "name": "Cabo Gilberto Silva",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "PL",
+    "aliases": [
+      "Cabo Gilberto Silva",
+      "Silva"
+    ],
+    "camara_id": 220574
+  },
+  {
+    "slug": "camila-jara",
+    "name": "Camila Jara",
+    "role": "Deputado(a) Federal (MS)",
+    "party": "PT",
+    "aliases": [
+      "Camila Jara",
+      "Jara"
+    ],
+    "camara_id": 220548
+  },
+  {
+    "slug": "capitao-alberto-neto",
+    "name": "Capitão Alberto Neto",
+    "role": "Deputado(a) Federal (AM)",
+    "party": "PL",
+    "aliases": [
+      "Capitão Alberto Neto",
+      "Neto"
+    ],
+    "camara_id": 204572
+  },
+  {
+    "slug": "capitao-alden",
+    "name": "Capitão Alden",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PL",
+    "aliases": [
+      "Capitão Alden",
+      "Alden"
+    ],
+    "camara_id": 220690
+  },
+  {
+    "slug": "capitao-augusto",
+    "name": "Capitão Augusto",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Capitão Augusto",
+      "Augusto"
+    ],
+    "camara_id": 178829
+  },
+  {
+    "slug": "carla-dickson",
+    "name": "Carla Dickson",
+    "role": "Deputado(a) Federal (RN)",
+    "party": "PL",
+    "aliases": [
+      "Carla Dickson",
+      "Dickson"
+    ],
+    "camara_id": 213762
+  },
+  {
+    "slug": "carlos-chiodini",
+    "name": "Carlos Chiodini",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "MDB",
+    "aliases": [
+      "Carlos Chiodini",
+      "Chiodini"
+    ],
+    "camara_id": 204361
+  },
+  {
+    "slug": "carlos-gomes",
+    "name": "Carlos Gomes",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Carlos Gomes",
+      "Gomes"
+    ],
+    "camara_id": 178962
+  },
+  {
+    "slug": "carlos-henrique-gaguim",
+    "name": "Carlos Henrique Gaguim",
+    "role": "Deputado(a) Federal (TO)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Carlos Henrique Gaguim",
+      "Gaguim"
+    ],
+    "camara_id": 178993
+  },
+  {
+    "slug": "carlos-jordy",
+    "name": "Carlos Jordy",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Carlos Jordy",
+      "Jordy"
+    ],
+    "camara_id": 204460
+  },
+  {
+    "slug": "carlos-sampaio",
+    "name": "Carlos Sampaio",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSD",
+    "aliases": [
+      "Carlos Sampaio",
+      "Sampaio"
+    ],
+    "camara_id": 74262
+  },
+  {
+    "slug": "carlos-veras",
+    "name": "Carlos Veras",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PT",
+    "aliases": [
+      "Carlos Veras",
+      "Veras"
+    ],
+    "camara_id": 204426
+  },
+  {
+    "slug": "carlos-zarattini",
+    "name": "Carlos Zarattini",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Carlos Zarattini",
+      "Zarattini"
+    ],
+    "camara_id": 141398
+  },
+  {
+    "slug": "carol-dartora",
+    "name": "Carol Dartora",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PT",
+    "aliases": [
+      "Carol Dartora",
+      "Dartora"
+    ],
+    "camara_id": 220704
+  },
+  {
+    "slug": "caroline-de-toni",
+    "name": "Caroline de Toni",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "PL",
+    "aliases": [
+      "Caroline de Toni",
+      "Toni"
+    ],
+    "camara_id": 204369
+  },
+  {
+    "slug": "castro-neto",
+    "name": "Castro Neto",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "MDB",
+    "aliases": [
+      "Castro Neto",
+      "Neto"
+    ],
+    "camara_id": 220699
+  },
+  {
+    "slug": "celia-xakriaba",
+    "name": "Célia Xakriabá",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PSOL",
+    "aliases": [
+      "Célia Xakriabá",
+      "Xakriabá"
+    ],
+    "camara_id": 206018
+  },
+  {
+    "slug": "celio-silveira",
+    "name": "Célio Silveira",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "MDB",
+    "aliases": [
+      "Célio Silveira",
+      "Silveira"
+    ],
+    "camara_id": 178876
+  },
+  {
+    "slug": "celio-studart",
+    "name": "Célio Studart",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PSD",
+    "aliases": [
+      "Célio Studart",
+      "Studart"
+    ],
+    "camara_id": 204488
+  },
+  {
+    "slug": "celso-russomanno",
+    "name": "Celso Russomanno",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Celso Russomanno",
+      "Russomanno"
+    ],
+    "camara_id": 73441
+  },
+  {
+    "slug": "celso-sabino",
+    "name": "Celso Sabino",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PDT",
+    "aliases": [
+      "Celso Sabino",
+      "Sabino"
+    ],
+    "camara_id": 204496
+  },
+  {
+    "slug": "cezinha-de-madureira",
+    "name": "Cezinha de Madureira",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Cezinha de Madureira",
+      "Madureira"
+    ],
+    "camara_id": 204504
+  },
+  {
+    "slug": "charles-fernandes",
+    "name": "Charles Fernandes",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PSD",
+    "aliases": [
+      "Charles Fernandes",
+      "Fernandes"
+    ],
+    "camara_id": 205476
+  },
+  {
+    "slug": "chico-alencar",
+    "name": "Chico Alencar",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSOL",
+    "aliases": [
+      "Chico Alencar",
+      "Alencar"
+    ],
+    "camara_id": 74171
+  },
+  {
+    "slug": "chris-tonietto",
+    "name": "Chris Tonietto",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Chris Tonietto",
+      "Tonietto"
+    ],
+    "camara_id": 204462
+  },
+  {
+    "slug": "clarissa-tercio",
+    "name": "Clarissa Tércio",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PP",
+    "aliases": [
+      "Clarissa Tércio",
+      "Tércio"
+    ],
+    "camara_id": 220665
+  },
+  {
+    "slug": "claudio-cajado",
+    "name": "Claudio Cajado",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PP",
+    "aliases": [
+      "Claudio Cajado",
+      "Cajado"
+    ],
+    "camara_id": 74537
+  },
+  {
+    "slug": "cleber-verde",
+    "name": "Cleber Verde",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "MDB",
+    "aliases": [
+      "Cleber Verde",
+      "Verde"
+    ],
+    "camara_id": 141408
+  },
+  {
+    "slug": "clodoaldo-magalhaes",
+    "name": "Clodoaldo Magalhães",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PV",
+    "aliases": [
+      "Clodoaldo Magalhães",
+      "Magalhães"
+    ],
+    "camara_id": 88256
+  },
+  {
+    "slug": "cobalchini",
+    "name": "Cobalchini",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "MDB",
+    "aliases": [
+      "Cobalchini"
+    ],
+    "camara_id": 98148
+  },
+  {
+    "slug": "coronel-assis",
+    "name": "Coronel Assis",
+    "role": "Deputado(a) Federal (MT)",
+    "party": "PL",
+    "aliases": [
+      "Coronel Assis",
+      "Assis"
+    ],
+    "camara_id": 220594
+  },
+  {
+    "slug": "coronel-chrisostomo",
+    "name": "Coronel Chrisóstomo",
+    "role": "Deputado(a) Federal (RO)",
+    "party": "PL",
+    "aliases": [
+      "Coronel Chrisóstomo",
+      "Chrisóstomo"
+    ],
+    "camara_id": 204378
+  },
+  {
+    "slug": "coronel-fernanda",
+    "name": "Coronel Fernanda",
+    "role": "Deputado(a) Federal (MT)",
+    "party": "PL",
+    "aliases": [
+      "Coronel Fernanda",
+      "Fernanda"
+    ],
+    "camara_id": 220595
+  },
+  {
+    "slug": "coronel-meira",
+    "name": "Coronel Meira",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PL",
+    "aliases": [
+      "Coronel Meira",
+      "Meira"
+    ],
+    "camara_id": 220666
+  },
+  {
+    "slug": "coronel-ulysses",
+    "name": "Coronel Ulysses",
+    "role": "Deputado(a) Federal (AC)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Coronel Ulysses",
+      "Ulysses"
+    ],
+    "camara_id": 220590
+  },
+  {
+    "slug": "covatti-filho",
+    "name": "Covatti Filho",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PP",
+    "aliases": [
+      "Covatti Filho",
+      "Filho"
+    ],
+    "camara_id": 178963
+  },
+  {
+    "slug": "cristiane-lopes",
+    "name": "Cristiane Lopes",
+    "role": "Deputado(a) Federal (RO)",
+    "party": "PODE",
+    "aliases": [
+      "Cristiane Lopes",
+      "Lopes"
+    ],
+    "camara_id": 220608
+  },
+  {
+    "slug": "da-vitoria",
+    "name": "Da Vitoria",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "PP",
+    "aliases": [
+      "Da Vitoria",
+      "Vitoria"
+    ],
+    "camara_id": 204355
+  },
+  {
+    "slug": "dagoberto-nogueira",
+    "name": "Dagoberto Nogueira",
+    "role": "Deputado(a) Federal (MS)",
+    "party": "PP",
+    "aliases": [
+      "Dagoberto Nogueira",
+      "Nogueira"
+    ],
+    "camara_id": 141411
+  },
+  {
+    "slug": "daiana-santos",
+    "name": "Daiana Santos",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PCdoB",
+    "aliases": [
+      "Daiana Santos",
+      "Santos"
+    ],
+    "camara_id": 220555
+  },
+  {
+    "slug": "dal-barreto",
+    "name": "Dal Barreto",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Dal Barreto",
+      "Barreto"
+    ],
+    "camara_id": 220692
+  },
+  {
+    "slug": "damiao-feliciano",
+    "name": "Damião Feliciano",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Damião Feliciano",
+      "Feliciano"
+    ],
+    "camara_id": 74467
+  },
+  {
+    "slug": "dandara",
+    "name": "Dandara",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Dandara"
+    ],
+    "camara_id": 220629
+  },
+  {
+    "slug": "dani-cunha",
+    "name": "Dani Cunha",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Dani Cunha",
+      "Cunha"
+    ],
+    "camara_id": 220603
+  },
+  {
+    "slug": "daniel-agrobom",
+    "name": "Daniel Agrobom",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PSD",
+    "aliases": [
+      "Daniel Agrobom",
+      "Agrobom"
+    ],
+    "camara_id": 220571
+  },
+  {
+    "slug": "daniel-almeida",
+    "name": "Daniel Almeida",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PCdoB",
+    "aliases": [
+      "Daniel Almeida",
+      "Almeida"
+    ],
+    "camara_id": 74060
+  },
+  {
+    "slug": "daniel-barbosa",
+    "name": "Daniel Barbosa",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "PP",
+    "aliases": [
+      "Daniel Barbosa",
+      "Barbosa"
+    ],
+    "camara_id": 220582
+  },
+  {
+    "slug": "daniel-freitas",
+    "name": "Daniel Freitas",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "PL",
+    "aliases": [
+      "Daniel Freitas",
+      "Freitas"
+    ],
+    "camara_id": 204367
+  },
+  {
+    "slug": "daniel-trzeciak",
+    "name": "Daniel Trzeciak",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PSDB",
+    "aliases": [
+      "Daniel Trzeciak",
+      "Trzeciak"
+    ],
+    "camara_id": 204409
+  },
+  {
+    "slug": "daniela-do-waguinho",
+    "name": "Daniela do Waguinho",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Daniela do Waguinho",
+      "Waguinho"
+    ],
+    "camara_id": 204459
+  },
+  {
+    "slug": "daniela-reinehr",
+    "name": "Daniela Reinehr",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "PL",
+    "aliases": [
+      "Daniela Reinehr",
+      "Reinehr"
+    ],
+    "camara_id": 220557
+  },
+  {
+    "slug": "danilo-forte",
+    "name": "Danilo Forte",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PP",
+    "aliases": [
+      "Danilo Forte",
+      "Forte"
+    ],
+    "camara_id": 62881
+  },
+  {
+    "slug": "danrlei-de-deus-hinterholz",
+    "name": "Danrlei de Deus Hinterholz",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PSD",
+    "aliases": [
+      "Danrlei de Deus Hinterholz",
+      "Hinterholz"
+    ],
+    "camara_id": 160552
+  },
+  {
+    "slug": "david-soares",
+    "name": "David Soares",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "David Soares",
+      "Soares"
+    ],
+    "camara_id": 204511
+  },
+  {
+    "slug": "defensor-stelio-dener",
+    "name": "Defensor Stélio Dener",
+    "role": "Deputado(a) Federal (RR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Defensor Stélio Dener",
+      "Dener"
+    ],
+    "camara_id": 220539
+  },
+  {
+    "slug": "delegada-adriana-accorsi",
+    "name": "Delegada Adriana Accorsi",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PT",
+    "aliases": [
+      "Delegada Adriana Accorsi",
+      "Accorsi"
+    ],
+    "camara_id": 220565
+  },
+  {
+    "slug": "delegada-ione",
+    "name": "Delegada Ione",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Delegada Ione",
+      "Ione"
+    ],
+    "camara_id": 220625
+  },
+  {
+    "slug": "delegada-katarina",
+    "name": "Delegada Katarina",
+    "role": "Deputado(a) Federal (SE)",
+    "party": "PSD",
+    "aliases": [
+      "Delegada Katarina",
+      "Katarina"
+    ],
+    "camara_id": 220561
+  },
+  {
+    "slug": "delegado-bruno-lima",
+    "name": "Delegado Bruno Lima",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Delegado Bruno Lima",
+      "Lima"
+    ],
+    "camara_id": 220642
+  },
+  {
+    "slug": "delegado-caveira",
+    "name": "Delegado Caveira",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PL",
+    "aliases": [
+      "Delegado Caveira",
+      "Caveira"
+    ],
+    "camara_id": 220673
+  },
+  {
+    "slug": "delegado-da-cunha",
+    "name": "Delegado da Cunha",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Delegado da Cunha",
+      "Cunha"
+    ],
+    "camara_id": 220649
+  },
+  {
+    "slug": "delegado-eder-mauro",
+    "name": "Delegado Éder Mauro",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PL",
+    "aliases": [
+      "Delegado Éder Mauro",
+      "Mauro"
+    ],
+    "camara_id": 178908
+  },
+  {
+    "slug": "delegado-fabio-costa",
+    "name": "Delegado Fabio Costa",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "PP",
+    "aliases": [
+      "Delegado Fabio Costa",
+      "Costa"
+    ],
+    "camara_id": 220583
+  },
+  {
+    "slug": "delegado-marcelo-freitas",
+    "name": "Delegado Marcelo Freitas",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Delegado Marcelo Freitas",
+      "Freitas"
+    ],
+    "camara_id": 204512
+  },
+  {
+    "slug": "delegado-matheus-laiola",
+    "name": "Delegado Matheus Laiola",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Delegado Matheus Laiola",
+      "Laiola"
+    ],
+    "camara_id": 220701
+  },
+  {
+    "slug": "delegado-palumbo",
+    "name": "Delegado Palumbo",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Delegado Palumbo",
+      "Palumbo"
+    ],
+    "camara_id": 220652
+  },
+  {
+    "slug": "delegado-paulo-bilynskyj",
+    "name": "Delegado Paulo Bilynskyj",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Delegado Paulo Bilynskyj",
+      "Bilynskyj"
+    ],
+    "camara_id": 220654
+  },
+  {
+    "slug": "denise-pessoa",
+    "name": "Denise Pessôa",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PT",
+    "aliases": [
+      "Denise Pessôa",
+      "Pessôa"
+    ],
+    "camara_id": 220553
+  },
+  {
+    "slug": "detinha",
+    "name": "Detinha",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PL",
+    "aliases": [
+      "Detinha"
+    ],
+    "camara_id": 220689
+  },
+  {
+    "slug": "diego-andrade",
+    "name": "Diego Andrade",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PSD",
+    "aliases": [
+      "Diego Andrade",
+      "Andrade"
+    ],
+    "camara_id": 160588
+  },
+  {
+    "slug": "diego-coronel",
+    "name": "Diego Coronel",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Diego Coronel",
+      "Coronel"
+    ],
+    "camara_id": 220691
+  },
+  {
+    "slug": "diego-garcia",
+    "name": "Diego Garcia",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Diego Garcia",
+      "Garcia"
+    ],
+    "camara_id": 178929
+  },
+  {
+    "slug": "dilceu-sperafico",
+    "name": "Dilceu Sperafico",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PP",
+    "aliases": [
+      "Dilceu Sperafico",
+      "Sperafico"
+    ],
+    "camara_id": 73768
+  },
+  {
+    "slug": "dilvanda-faro",
+    "name": "Dilvanda Faro",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PT",
+    "aliases": [
+      "Dilvanda Faro",
+      "Faro"
+    ],
+    "camara_id": 220671
+  },
+  {
+    "slug": "dimas-fabiano",
+    "name": "Dimas Fabiano",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PP",
+    "aliases": [
+      "Dimas Fabiano",
+      "Fabiano"
+    ],
+    "camara_id": 160599
+  },
+  {
+    "slug": "dimas-gadelha",
+    "name": "Dimas Gadelha",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PT",
+    "aliases": [
+      "Dimas Gadelha",
+      "Gadelha"
+    ],
+    "camara_id": 220602
+  },
+  {
+    "slug": "domingos-neto",
+    "name": "Domingos Neto",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PSD",
+    "aliases": [
+      "Domingos Neto",
+      "Neto"
+    ],
+    "camara_id": 143632
+  },
+  {
+    "slug": "domingos-savio",
+    "name": "Domingos Sávio",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Domingos Sávio",
+      "Sávio"
+    ],
+    "camara_id": 160758
+  },
+  {
+    "slug": "dorinaldo-malafaia",
+    "name": "Dorinaldo Malafaia",
+    "role": "Deputado(a) Federal (AP)",
+    "party": "PDT",
+    "aliases": [
+      "Dorinaldo Malafaia",
+      "Malafaia"
+    ],
+    "camara_id": 220573
+  },
+  {
+    "slug": "doutor-luizinho",
+    "name": "Doutor Luizinho",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PP",
+    "aliases": [
+      "Doutor Luizinho",
+      "Luizinho"
+    ],
+    "camara_id": 204450
+  },
+  {
+    "slug": "dr-flavio",
+    "name": "Dr Flávio",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Dr Flávio",
+      "Flávio"
+    ],
+    "camara_id": 227991
+  },
+  {
+    "slug": "dr-daniel-soranz",
+    "name": "Dr. Daniel Soranz",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSD",
+    "aliases": [
+      "Dr. Daniel Soranz",
+      "Soranz"
+    ],
+    "camara_id": 220614
+  },
+  {
+    "slug": "dr-fernando-maximo",
+    "name": "Dr. Fernando Máximo",
+    "role": "Deputado(a) Federal (RO)",
+    "party": "PL",
+    "aliases": [
+      "Dr. Fernando Máximo",
+      "Máximo"
+    ],
+    "camara_id": 220610
+  },
+  {
+    "slug": "dr-francisco",
+    "name": "Dr. Francisco",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "PT",
+    "aliases": [
+      "Dr. Francisco",
+      "Francisco"
+    ],
+    "camara_id": 220688
+  },
+  {
+    "slug": "dr-frederico",
+    "name": "Dr. Frederico",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Dr. Frederico",
+      "Frederico"
+    ],
+    "camara_id": 204518
+  },
+  {
+    "slug": "dr-ismael-alexandrino",
+    "name": "Dr. Ismael Alexandrino",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PSD",
+    "aliases": [
+      "Dr. Ismael Alexandrino",
+      "Alexandrino"
+    ],
+    "camara_id": 220570
+  },
+  {
+    "slug": "dr-jaziel",
+    "name": "Dr. Jaziel",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PL",
+    "aliases": [
+      "Dr. Jaziel",
+      "Jaziel"
+    ],
+    "camara_id": 204481
+  },
+  {
+    "slug": "dr-luiz-ovando",
+    "name": "Dr. Luiz Ovando",
+    "role": "Deputado(a) Federal (MS)",
+    "party": "PP",
+    "aliases": [
+      "Dr. Luiz Ovando",
+      "Ovando"
+    ],
+    "camara_id": 204351
+  },
+  {
+    "slug": "dr-victor-linhalis",
+    "name": "Dr. Victor Linhalis",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "PSB",
+    "aliases": [
+      "Dr. Victor Linhalis",
+      "Linhalis"
+    ],
+    "camara_id": 220528
+  },
+  {
+    "slug": "dr-zacharias-calil",
+    "name": "Dr. Zacharias Calil",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "MDB",
+    "aliases": [
+      "Dr. Zacharias Calil",
+      "Calil"
+    ],
+    "camara_id": 204412
+  },
+  {
+    "slug": "dra-alessandra-haber",
+    "name": "Dra. Alessandra Haber",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PODE",
+    "aliases": [
+      "Dra. Alessandra Haber",
+      "Haber"
+    ],
+    "camara_id": 220674
+  },
+  {
+    "slug": "duarte-jr",
+    "name": "Duarte Jr.",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "AVANTE",
+    "aliases": [
+      "Duarte Jr."
+    ],
+    "camara_id": 220686
+  },
+  {
+    "slug": "duda-ramos",
+    "name": "Duda Ramos",
+    "role": "Deputado(a) Federal (RR)",
+    "party": "PODE",
+    "aliases": [
+      "Duda Ramos",
+      "Ramos"
+    ],
+    "camara_id": 220540
+  },
+  {
+    "slug": "duda-salabert",
+    "name": "Duda Salabert",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PSOL",
+    "aliases": [
+      "Duda Salabert",
+      "Salabert"
+    ],
+    "camara_id": 220623
+  },
+  {
+    "slug": "eduardo-bismarck",
+    "name": "Eduardo Bismarck",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PV",
+    "aliases": [
+      "Eduardo Bismarck",
+      "Bismarck"
+    ],
+    "camara_id": 204541
+  },
+  {
+    "slug": "eduardo-da-fonte",
+    "name": "Eduardo da Fonte",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PP",
+    "aliases": [
+      "Eduardo da Fonte",
+      "Fonte"
+    ],
+    "camara_id": 141421
+  },
+  {
+    "slug": "eduardo-velloso",
+    "name": "Eduardo Velloso",
+    "role": "Deputado(a) Federal (AC)",
+    "party": "SOLIDARIEDADE",
+    "aliases": [
+      "Eduardo Velloso",
+      "Velloso"
+    ],
+    "camara_id": 220589
+  },
+  {
+    "slug": "elcione-barbalho",
+    "name": "Elcione Barbalho",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "MDB",
+    "aliases": [
+      "Elcione Barbalho",
+      "Barbalho"
+    ],
+    "camara_id": 74075
+  },
+  {
+    "slug": "eli-borges",
+    "name": "Eli Borges",
+    "role": "Deputado(a) Federal (TO)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Eli Borges",
+      "Borges"
+    ],
+    "camara_id": 204364
+  },
+  {
+    "slug": "elmar-nascimento",
+    "name": "Elmar Nascimento",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Elmar Nascimento",
+      "Nascimento"
+    ],
+    "camara_id": 178854
+  },
+  {
+    "slug": "emanuel-pinheiro-neto",
+    "name": "Emanuel Pinheiro Neto",
+    "role": "Deputado(a) Federal (MT)",
+    "party": "PSD",
+    "aliases": [
+      "Emanuel Pinheiro Neto",
+      "Neto"
+    ],
+    "camara_id": 198783
+  },
+  {
+    "slug": "emidinho-madeira",
+    "name": "Emidinho Madeira",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Emidinho Madeira",
+      "Madeira"
+    ],
+    "camara_id": 161550
+  },
+  {
+    "slug": "enfermeira-rejane",
+    "name": "Enfermeira Rejane",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PCdoB",
+    "aliases": [
+      "Enfermeira Rejane",
+      "Rejane"
+    ],
+    "camara_id": 230765
+  },
+  {
+    "slug": "eriberto-medeiros",
+    "name": "Eriberto Medeiros",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PSB",
+    "aliases": [
+      "Eriberto Medeiros",
+      "Medeiros"
+    ],
+    "camara_id": 220663
+  },
+  {
+    "slug": "erika-hilton",
+    "name": "Erika Hilton",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSOL",
+    "aliases": [
+      "Erika Hilton",
+      "Hilton"
+    ],
+    "camara_id": 220645
+  },
+  {
+    "slug": "erika-kokay",
+    "name": "Erika Kokay",
+    "role": "Deputado(a) Federal (DF)",
+    "party": "PT",
+    "aliases": [
+      "Erika Kokay",
+      "Kokay"
+    ],
+    "camara_id": 160575
+  },
+  {
+    "slug": "eros-biondini",
+    "name": "Eros Biondini",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Eros Biondini",
+      "Biondini"
+    ],
+    "camara_id": 160640
+  },
+  {
+    "slug": "euclydes-pettersen",
+    "name": "Euclydes Pettersen",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Euclydes Pettersen",
+      "Pettersen"
+    ],
+    "camara_id": 204482
+  },
+  {
+    "slug": "eunicio-oliveira",
+    "name": "Eunício Oliveira",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "MDB",
+    "aliases": [
+      "Eunício Oliveira",
+      "Oliveira"
+    ],
+    "camara_id": 74454
+  },
+  {
+    "slug": "evair-vieira-de-melo",
+    "name": "Evair Vieira de Melo",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Evair Vieira de Melo",
+      "Melo"
+    ],
+    "camara_id": 178871
+  },
+  {
+    "slug": "fabio-garcia",
+    "name": "Fabio Garcia",
+    "role": "Deputado(a) Federal (MT)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Fabio Garcia",
+      "Garcia"
+    ],
+    "camara_id": 178905
+  },
+  {
+    "slug": "fabio-macedo",
+    "name": "Fábio Macedo",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PODE",
+    "aliases": [
+      "Fábio Macedo",
+      "Macedo"
+    ],
+    "camara_id": 220681
+  },
+  {
+    "slug": "fabio-reis",
+    "name": "Fabio Reis",
+    "role": "Deputado(a) Federal (SE)",
+    "party": "PSD",
+    "aliases": [
+      "Fabio Reis",
+      "Reis"
+    ],
+    "camara_id": 171623
+  },
+  {
+    "slug": "fabio-schiochet",
+    "name": "Fabio Schiochet",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Fabio Schiochet",
+      "Schiochet"
+    ],
+    "camara_id": 204368
+  },
+  {
+    "slug": "fabio-teruel",
+    "name": "Fábio Teruel",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "MDB",
+    "aliases": [
+      "Fábio Teruel",
+      "Teruel"
+    ],
+    "camara_id": 220653
+  },
+  {
+    "slug": "fausto-jr",
+    "name": "Fausto Jr.",
+    "role": "Deputado(a) Federal (AM)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Fausto Jr."
+    ],
+    "camara_id": 220712
+  },
+  {
+    "slug": "fausto-pinato",
+    "name": "Fausto Pinato",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Fausto Pinato",
+      "Pinato"
+    ],
+    "camara_id": 66828
+  },
+  {
+    "slug": "felipe-becari",
+    "name": "Felipe Becari",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Felipe Becari",
+      "Becari"
+    ],
+    "camara_id": 220646
+  },
+  {
+    "slug": "felipe-carreras",
+    "name": "Felipe Carreras",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PSB",
+    "aliases": [
+      "Felipe Carreras",
+      "Carreras"
+    ],
+    "camara_id": 72442
+  },
+  {
+    "slug": "felipe-francischini",
+    "name": "Felipe Francischini",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PODE",
+    "aliases": [
+      "Felipe Francischini",
+      "Francischini"
+    ],
+    "camara_id": 204398
+  },
+  {
+    "slug": "felix-mendonca-junior",
+    "name": "Félix Mendonça Júnior",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PDT",
+    "aliases": [
+      "Félix Mendonça Júnior",
+      "Júnior"
+    ],
+    "camara_id": 160666
+  },
+  {
+    "slug": "fernanda-melchionna",
+    "name": "Fernanda Melchionna",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PSOL",
+    "aliases": [
+      "Fernanda Melchionna",
+      "Melchionna"
+    ],
+    "camara_id": 204407
+  },
+  {
+    "slug": "fernanda-pessoa",
+    "name": "Fernanda Pessoa",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PSD",
+    "aliases": [
+      "Fernanda Pessoa",
+      "Pessoa"
+    ],
+    "camara_id": 220656
+  },
+  {
+    "slug": "fernando-coelho-filho",
+    "name": "Fernando Coelho Filho",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Fernando Coelho Filho",
+      "Filho"
+    ],
+    "camara_id": 141431
+  },
+  {
+    "slug": "fernando-mineiro",
+    "name": "Fernando Mineiro",
+    "role": "Deputado(a) Federal (RN)",
+    "party": "PT",
+    "aliases": [
+      "Fernando Mineiro",
+      "Mineiro"
+    ],
+    "camara_id": 204445
+  },
+  {
+    "slug": "fernando-monteiro",
+    "name": "Fernando Monteiro",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PSD",
+    "aliases": [
+      "Fernando Monteiro",
+      "Monteiro"
+    ],
+    "camara_id": 92699
+  },
+  {
+    "slug": "fernando-rodolfo",
+    "name": "Fernando Rodolfo",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PRD",
+    "aliases": [
+      "Fernando Rodolfo",
+      "Rodolfo"
+    ],
+    "camara_id": 204427
+  },
+  {
+    "slug": "filipe-barros",
+    "name": "Filipe Barros",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PL",
+    "aliases": [
+      "Filipe Barros",
+      "Barros"
+    ],
+    "camara_id": 204411
+  },
+  {
+    "slug": "filipe-martins",
+    "name": "Filipe Martins",
+    "role": "Deputado(a) Federal (TO)",
+    "party": "PL",
+    "aliases": [
+      "Filipe Martins",
+      "Martins"
+    ],
+    "camara_id": 220545
+  },
+  {
+    "slug": "flavia-morais",
+    "name": "Flávia Morais",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "MDB",
+    "aliases": [
+      "Flávia Morais",
+      "Morais"
+    ],
+    "camara_id": 160598
+  },
+  {
+    "slug": "flavio-nogueira",
+    "name": "Flávio Nogueira",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "PT",
+    "aliases": [
+      "Flávio Nogueira",
+      "Nogueira"
+    ],
+    "camara_id": 191923
+  },
+  {
+    "slug": "florentino-neto",
+    "name": "Florentino Neto",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "PT",
+    "aliases": [
+      "Florentino Neto",
+      "Neto"
+    ],
+    "camara_id": 220700
+  },
+  {
+    "slug": "franciane-bayer",
+    "name": "Franciane Bayer",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Franciane Bayer",
+      "Bayer"
+    ],
+    "camara_id": 220551
+  },
+  {
+    "slug": "fred-costa",
+    "name": "Fred Costa",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PRD",
+    "aliases": [
+      "Fred Costa",
+      "Costa"
+    ],
+    "camara_id": 204494
+  },
+  {
+    "slug": "fred-linhares",
+    "name": "Fred Linhares",
+    "role": "Deputado(a) Federal (DF)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Fred Linhares",
+      "Linhares"
+    ],
+    "camara_id": 220534
+  },
+  {
+    "slug": "gabriel-mota",
+    "name": "Gabriel Mota",
+    "role": "Deputado(a) Federal (RR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Gabriel Mota",
+      "Mota"
+    ],
+    "camara_id": 224117
+  },
+  {
+    "slug": "gabriel-nunes",
+    "name": "Gabriel Nunes",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PSD",
+    "aliases": [
+      "Gabriel Nunes",
+      "Nunes"
+    ],
+    "camara_id": 220708
+  },
+  {
+    "slug": "general-girao",
+    "name": "General Girão",
+    "role": "Deputado(a) Federal (RN)",
+    "party": "PL",
+    "aliases": [
+      "General Girão",
+      "Girão"
+    ],
+    "camara_id": 204473
+  },
+  {
+    "slug": "general-pazuello",
+    "name": "General Pazuello",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "General Pazuello",
+      "Pazuello"
+    ],
+    "camara_id": 220611
+  },
+  {
+    "slug": "geovania-de-sa",
+    "name": "Geovania de Sá",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Geovania de Sá"
+    ],
+    "camara_id": 178966
+  },
+  {
+    "slug": "geraldo-mendes",
+    "name": "Geraldo Mendes",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Geraldo Mendes",
+      "Mendes"
+    ],
+    "camara_id": 220702
+  },
+  {
+    "slug": "geraldo-resende",
+    "name": "Geraldo Resende",
+    "role": "Deputado(a) Federal (MS)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Geraldo Resende",
+      "Resende"
+    ],
+    "camara_id": 74374
+  },
+  {
+    "slug": "gervasio-maia",
+    "name": "Gervásio Maia",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "PCdoB",
+    "aliases": [
+      "Gervásio Maia",
+      "Maia"
+    ],
+    "camara_id": 204394
+  },
+  {
+    "slug": "gilberto-abramo",
+    "name": "Gilberto Abramo",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Gilberto Abramo",
+      "Abramo"
+    ],
+    "camara_id": 204491
+  },
+  {
+    "slug": "gilberto-nascimento",
+    "name": "Gilberto Nascimento",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Gilberto Nascimento",
+      "Nascimento"
+    ],
+    "camara_id": 74270
+  },
+  {
+    "slug": "gilson-daniel",
+    "name": "Gilson Daniel",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "PODE",
+    "aliases": [
+      "Gilson Daniel",
+      "Daniel"
+    ],
+    "camara_id": 220529
+  },
+  {
+    "slug": "gilson-marques",
+    "name": "Gilson Marques",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "NOVO",
+    "aliases": [
+      "Gilson Marques",
+      "Marques"
+    ],
+    "camara_id": 204365
+  },
+  {
+    "slug": "gilvan-da-federal",
+    "name": "Gilvan da Federal",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "PL",
+    "aliases": [
+      "Gilvan da Federal",
+      "Federal"
+    ],
+    "camara_id": 220526
+  },
+  {
+    "slug": "giovani-cherini",
+    "name": "Giovani Cherini",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PL",
+    "aliases": [
+      "Giovani Cherini",
+      "Cherini"
+    ],
+    "camara_id": 160673
+  },
+  {
+    "slug": "glauber-braga",
+    "name": "Glauber Braga",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSOL",
+    "aliases": [
+      "Glauber Braga",
+      "Braga"
+    ],
+    "camara_id": 152605
+  },
+  {
+    "slug": "glaustin-da-fokus",
+    "name": "Glaustin da Fokus",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PODE",
+    "aliases": [
+      "Glaustin da Fokus",
+      "Fokus"
+    ],
+    "camara_id": 204419
+  },
+  {
+    "slug": "glaycon-franco",
+    "name": "Glaycon Franco",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PSDB",
+    "aliases": [
+      "Glaycon Franco",
+      "Franco"
+    ],
+    "camara_id": 236284
+  },
+  {
+    "slug": "gleisi-hoffmann",
+    "name": "Gleisi Hoffmann",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PT",
+    "aliases": [
+      "Gleisi Hoffmann",
+      "Hoffmann"
+    ],
+    "camara_id": 107283
+  },
+  {
+    "slug": "greyce-elias",
+    "name": "Greyce Elias",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Greyce Elias",
+      "Elias"
+    ],
+    "camara_id": 198197
+  },
+  {
+    "slug": "guilherme-derrite",
+    "name": "Guilherme Derrite",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PP",
+    "aliases": [
+      "Guilherme Derrite",
+      "Derrite"
+    ],
+    "camara_id": 204531
+  },
+  {
+    "slug": "guilherme-uchoa",
+    "name": "Guilherme Uchoa",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PSD",
+    "aliases": [
+      "Guilherme Uchoa",
+      "Uchoa"
+    ],
+    "camara_id": 220664
+  },
+  {
+    "slug": "gustavo-gayer",
+    "name": "Gustavo Gayer",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PL",
+    "aliases": [
+      "Gustavo Gayer",
+      "Gayer"
+    ],
+    "camara_id": 220568
+  },
+  {
+    "slug": "gustinho-ribeiro",
+    "name": "Gustinho Ribeiro",
+    "role": "Deputado(a) Federal (SE)",
+    "party": "PP",
+    "aliases": [
+      "Gustinho Ribeiro",
+      "Ribeiro"
+    ],
+    "camara_id": 204408
+  },
+  {
+    "slug": "gutemberg-reis",
+    "name": "Gutemberg Reis",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "MDB",
+    "aliases": [
+      "Gutemberg Reis",
+      "Reis"
+    ],
+    "camara_id": 204456
+  },
+  {
+    "slug": "heitor-schuch",
+    "name": "Heitor Schuch",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PSD",
+    "aliases": [
+      "Heitor Schuch",
+      "Schuch"
+    ],
+    "camara_id": 178964
+  },
+  {
+    "slug": "helder-salomao",
+    "name": "Helder Salomão",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "PT",
+    "aliases": [
+      "Helder Salomão",
+      "Salomão"
+    ],
+    "camara_id": 178873
+  },
+  {
+    "slug": "helena-lima",
+    "name": "Helena Lima",
+    "role": "Deputado(a) Federal (RR)",
+    "party": "PSD",
+    "aliases": [
+      "Helena Lima",
+      "Lima"
+    ],
+    "camara_id": 220537
+  },
+  {
+    "slug": "helio-lopes",
+    "name": "Helio Lopes",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Helio Lopes",
+      "Lopes"
+    ],
+    "camara_id": 204444
+  },
+  {
+    "slug": "henderson-pinto",
+    "name": "Henderson Pinto",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Henderson Pinto",
+      "Pinto"
+    ],
+    "camara_id": 220672
+  },
+  {
+    "slug": "hercilio-coelho-diniz",
+    "name": "Hercílio Coelho Diniz",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "MDB",
+    "aliases": [
+      "Hercílio Coelho Diniz",
+      "Diniz"
+    ],
+    "camara_id": 204539
+  },
+  {
+    "slug": "hugo-leal",
+    "name": "Hugo Leal",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSD",
+    "aliases": [
+      "Hugo Leal",
+      "Leal"
+    ],
+    "camara_id": 141450
+  },
+  {
+    "slug": "hugo-motta",
+    "name": "Hugo Motta",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Hugo Motta",
+      "Motta"
+    ],
+    "camara_id": 160674
+  },
+  {
+    "slug": "icaro-de-valmir",
+    "name": "Icaro de Valmir",
+    "role": "Deputado(a) Federal (SE)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Icaro de Valmir",
+      "Valmir"
+    ],
+    "camara_id": 220563
+  },
+  {
+    "slug": "idilvan-alencar",
+    "name": "Idilvan Alencar",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PSB",
+    "aliases": [
+      "Idilvan Alencar",
+      "Alencar"
+    ],
+    "camara_id": 204533
+  },
+  {
+    "slug": "igor-timo",
+    "name": "Igor Timo",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Igor Timo",
+      "Timo"
+    ],
+    "camara_id": 204508
+  },
+  {
+    "slug": "inacio-arruda",
+    "name": "Inácio Arruda",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PCdoB",
+    "aliases": [
+      "Inácio Arruda",
+      "Arruda"
+    ],
+    "camara_id": 74295
+  },
+  {
+    "slug": "ismael",
+    "name": "Ismael",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "PL",
+    "aliases": [
+      "Ismael"
+    ],
+    "camara_id": 98615
+  },
+  {
+    "slug": "isnaldo-bulhoes-jr",
+    "name": "Isnaldo Bulhões Jr.",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "MDB",
+    "aliases": [
+      "Isnaldo Bulhões Jr."
+    ],
+    "camara_id": 204436
+  },
+  {
+    "slug": "itamar-paim",
+    "name": "Itamar Paim",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PL",
+    "aliases": [
+      "Itamar Paim",
+      "Paim"
+    ],
+    "camara_id": 225846
+  },
+  {
+    "slug": "ivoneide-caetano",
+    "name": "Ivoneide Caetano",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PT",
+    "aliases": [
+      "Ivoneide Caetano",
+      "Caetano"
+    ],
+    "camara_id": 220696
+  },
+  {
+    "slug": "iza-arruda",
+    "name": "Iza Arruda",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "MDB",
+    "aliases": [
+      "Iza Arruda",
+      "Arruda"
+    ],
+    "camara_id": 220670
+  },
+  {
+    "slug": "jack-rocha",
+    "name": "Jack Rocha",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "PT",
+    "aliases": [
+      "Jack Rocha",
+      "Rocha"
+    ],
+    "camara_id": 220527
+  },
+  {
+    "slug": "jadyel-alencar",
+    "name": "Jadyel Alencar",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Jadyel Alencar",
+      "Alencar"
+    ],
+    "camara_id": 220697
+  },
+  {
+    "slug": "jandira-feghali",
+    "name": "Jandira Feghali",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PCdoB",
+    "aliases": [
+      "Jandira Feghali",
+      "Feghali"
+    ],
+    "camara_id": 74848
+  },
+  {
+    "slug": "jeferson-rodrigues",
+    "name": "Jeferson Rodrigues",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PSDB",
+    "aliases": [
+      "Jeferson Rodrigues",
+      "Rodrigues"
+    ],
+    "camara_id": 220567
+  },
+  {
+    "slug": "jefferson-campos",
+    "name": "Jefferson Campos",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Jefferson Campos",
+      "Campos"
+    ],
+    "camara_id": 74273
+  },
+  {
+    "slug": "jilmar-tatto",
+    "name": "Jilmar Tatto",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Jilmar Tatto",
+      "Tatto"
+    ],
+    "camara_id": 141456
+  },
+  {
+    "slug": "joao-carlos-bacelar",
+    "name": "João Carlos Bacelar",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PL",
+    "aliases": [
+      "João Carlos Bacelar",
+      "Bacelar"
+    ],
+    "camara_id": 141458
+  },
+  {
+    "slug": "joao-cury",
+    "name": "João Cury",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "MDB",
+    "aliases": [
+      "João Cury",
+      "Cury"
+    ],
+    "camara_id": 230957
+  },
+  {
+    "slug": "joao-daniel",
+    "name": "João Daniel",
+    "role": "Deputado(a) Federal (SE)",
+    "party": "PT",
+    "aliases": [
+      "João Daniel",
+      "Daniel"
+    ],
+    "camara_id": 178970
+  },
+  {
+    "slug": "joao-maia",
+    "name": "João Maia",
+    "role": "Deputado(a) Federal (RN)",
+    "party": "PP",
+    "aliases": [
+      "João Maia",
+      "Maia"
+    ],
+    "camara_id": 141459
+  },
+  {
+    "slug": "joaquim-passarinho",
+    "name": "Joaquim Passarinho",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PL",
+    "aliases": [
+      "Joaquim Passarinho",
+      "Passarinho"
+    ],
+    "camara_id": 178910
+  },
+  {
+    "slug": "jonas-donizette",
+    "name": "Jonas Donizette",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSB",
+    "aliases": [
+      "Jonas Donizette",
+      "Donizette"
+    ],
+    "camara_id": 160548
+  },
+  {
+    "slug": "jorge-araujo",
+    "name": "Jorge Araújo",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PP",
+    "aliases": [
+      "Jorge Araújo",
+      "Araújo"
+    ],
+    "camara_id": 235800
+  },
+  {
+    "slug": "jorge-braz",
+    "name": "Jorge Braz",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Jorge Braz",
+      "Braz"
+    ],
+    "camara_id": 205550
+  },
+  {
+    "slug": "jorge-goetten",
+    "name": "Jorge Goetten",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Jorge Goetten",
+      "Goetten"
+    ],
+    "camara_id": 214694
+  },
+  {
+    "slug": "jorge-solla",
+    "name": "Jorge Solla",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PT",
+    "aliases": [
+      "Jorge Solla",
+      "Solla"
+    ],
+    "camara_id": 178857
+  },
+  {
+    "slug": "jose-airton-felix-cirilo",
+    "name": "José Airton Félix Cirilo",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PT",
+    "aliases": [
+      "José Airton Félix Cirilo",
+      "Cirilo"
+    ],
+    "camara_id": 141464
+  },
+  {
+    "slug": "jose-carlos-araujo",
+    "name": "José Carlos Araujo",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "DC",
+    "aliases": [
+      "José Carlos Araujo",
+      "Araujo"
+    ],
+    "camara_id": 74140
+  },
+  {
+    "slug": "jose-medeiros",
+    "name": "José Medeiros",
+    "role": "Deputado(a) Federal (MT)",
+    "party": "PL",
+    "aliases": [
+      "José Medeiros",
+      "Medeiros"
+    ],
+    "camara_id": 204472
+  },
+  {
+    "slug": "jose-nelto",
+    "name": "José Nelto",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "UNIÃO",
+    "aliases": [
+      "José Nelto",
+      "Nelto"
+    ],
+    "camara_id": 204391
+  },
+  {
+    "slug": "jose-priante",
+    "name": "José Priante",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "MDB",
+    "aliases": [
+      "José Priante",
+      "Priante"
+    ],
+    "camara_id": 74079
+  },
+  {
+    "slug": "jose-rocha",
+    "name": "José Rocha",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "UNIÃO",
+    "aliases": [
+      "José Rocha",
+      "Rocha"
+    ],
+    "camara_id": 74554
+  },
+  {
+    "slug": "joseildo-ramos",
+    "name": "Joseildo Ramos",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PT",
+    "aliases": [
+      "Joseildo Ramos",
+      "Ramos"
+    ],
+    "camara_id": 209189
+  },
+  {
+    "slug": "josenildo",
+    "name": "Josenildo",
+    "role": "Deputado(a) Federal (AP)",
+    "party": "PDT",
+    "aliases": [
+      "Josenildo"
+    ],
+    "camara_id": 220578
+  },
+  {
+    "slug": "josimar-maranhaozinho",
+    "name": "Josimar Maranhãozinho",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PL",
+    "aliases": [
+      "Josimar Maranhãozinho",
+      "Maranhãozinho"
+    ],
+    "camara_id": 204563
+  },
+  {
+    "slug": "josivaldo-jp",
+    "name": "Josivaldo JP",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Josivaldo JP"
+    ],
+    "camara_id": 215043
+  },
+  {
+    "slug": "juarez-costa",
+    "name": "Juarez Costa",
+    "role": "Deputado(a) Federal (MT)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Juarez Costa",
+      "Costa"
+    ],
+    "camara_id": 204474
+  },
+  {
+    "slug": "julia-zanatta",
+    "name": "Julia Zanatta",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "PL",
+    "aliases": [
+      "Julia Zanatta",
+      "Zanatta"
+    ],
+    "camara_id": 220559
+  },
+  {
+    "slug": "juliana-cardoso",
+    "name": "Juliana Cardoso",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Juliana Cardoso",
+      "Cardoso"
+    ],
+    "camara_id": 220640
+  },
+  {
+    "slug": "julio-arcoverde",
+    "name": "Julio Arcoverde",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "PP",
+    "aliases": [
+      "Julio Arcoverde",
+      "Arcoverde"
+    ],
+    "camara_id": 66385
+  },
+  {
+    "slug": "julio-cesar",
+    "name": "Júlio Cesar",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "PSD",
+    "aliases": [
+      "Júlio Cesar",
+      "Cesar"
+    ],
+    "camara_id": 74317
+  },
+  {
+    "slug": "julio-cesar-ribeiro",
+    "name": "Julio Cesar Ribeiro",
+    "role": "Deputado(a) Federal (DF)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Julio Cesar Ribeiro",
+      "Ribeiro"
+    ],
+    "camara_id": 204372
+  },
+  {
+    "slug": "julio-lopes",
+    "name": "Julio Lopes",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PP",
+    "aliases": [
+      "Julio Lopes",
+      "Lopes"
+    ],
+    "camara_id": 74253
+  },
+  {
+    "slug": "juninho-do-pneu",
+    "name": "Juninho do Pneu",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSDB",
+    "aliases": [
+      "Juninho do Pneu",
+      "Pneu"
+    ],
+    "camara_id": 204457
+  },
+  {
+    "slug": "junio-amaral",
+    "name": "Junio Amaral",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Junio Amaral",
+      "Amaral"
+    ],
+    "camara_id": 204520
+  },
+  {
+    "slug": "junior-ferrari",
+    "name": "Júnior Ferrari",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PSD",
+    "aliases": [
+      "Júnior Ferrari",
+      "Ferrari"
+    ],
+    "camara_id": 204497
+  },
+  {
+    "slug": "junior-lourenco",
+    "name": "Junior Lourenço",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "MDB",
+    "aliases": [
+      "Junior Lourenço",
+      "Lourenço"
+    ],
+    "camara_id": 204574
+  },
+  {
+    "slug": "junior-mano",
+    "name": "Júnior Mano",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PSB",
+    "aliases": [
+      "Júnior Mano",
+      "Mano"
+    ],
+    "camara_id": 204550
+  },
+  {
+    "slug": "juscelino-filho",
+    "name": "Juscelino Filho",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PSDB",
+    "aliases": [
+      "Juscelino Filho",
+      "Filho"
+    ],
+    "camara_id": 178886
+  },
+  {
+    "slug": "keniston-braga",
+    "name": "Keniston Braga",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "MDB",
+    "aliases": [
+      "Keniston Braga",
+      "Braga"
+    ],
+    "camara_id": 220677
+  },
+  {
+    "slug": "kiko-celeguim",
+    "name": "Kiko Celeguim",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Kiko Celeguim",
+      "Celeguim"
+    ],
+    "camara_id": 162067
+  },
+  {
+    "slug": "kim-kataguiri",
+    "name": "Kim Kataguiri",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "MISSÃO",
+    "aliases": [
+      "Kim Kataguiri",
+      "Kataguiri"
+    ],
+    "camara_id": 204536
+  },
+  {
+    "slug": "lafayette-de-andrada",
+    "name": "Lafayette de Andrada",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Lafayette de Andrada",
+      "Andrada"
+    ],
+    "camara_id": 98057
+  },
+  {
+    "slug": "laura-carneiro",
+    "name": "Laura Carneiro",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSD",
+    "aliases": [
+      "Laura Carneiro",
+      "Carneiro"
+    ],
+    "camara_id": 74856
+  },
+  {
+    "slug": "leandre",
+    "name": "Leandre",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PSD",
+    "aliases": [
+      "Leandre"
+    ],
+    "camara_id": 178832
+  },
+  {
+    "slug": "leda-borges",
+    "name": "Lêda Borges",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Lêda Borges",
+      "Borges"
+    ],
+    "camara_id": 220566
+  },
+  {
+    "slug": "leonardo-gadelha",
+    "name": "Leonardo Gadelha",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "PODE",
+    "aliases": [
+      "Leonardo Gadelha",
+      "Gadelha"
+    ],
+    "camara_id": 122195
+  },
+  {
+    "slug": "leonardo-monteiro",
+    "name": "Leonardo Monteiro",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Leonardo Monteiro",
+      "Monteiro"
+    ],
+    "camara_id": 74156
+  },
+  {
+    "slug": "leur-lomanto-junior",
+    "name": "Leur Lomanto Júnior",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Leur Lomanto Júnior",
+      "Júnior"
+    ],
+    "camara_id": 92102
+  },
+  {
+    "slug": "lidice-da-mata",
+    "name": "Lídice da Mata",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PSB",
+    "aliases": [
+      "Lídice da Mata",
+      "Mata"
+    ],
+    "camara_id": 139285
+  },
+  {
+    "slug": "lincoln-portela",
+    "name": "Lincoln Portela",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Lincoln Portela",
+      "Portela"
+    ],
+    "camara_id": 74585
+  },
+  {
+    "slug": "lindbergh-farias",
+    "name": "Lindbergh Farias",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PT",
+    "aliases": [
+      "Lindbergh Farias",
+      "Farias"
+    ],
+    "camara_id": 74858
+  },
+  {
+    "slug": "lucas-ramos",
+    "name": "Lucas Ramos",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PSB",
+    "aliases": [
+      "Lucas Ramos",
+      "Ramos"
+    ],
+    "camara_id": 220662
+  },
+  {
+    "slug": "lucas-redecker",
+    "name": "Lucas Redecker",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PSD",
+    "aliases": [
+      "Lucas Redecker",
+      "Redecker"
+    ],
+    "camara_id": 204404
+  },
+  {
+    "slug": "luciano-amaral",
+    "name": "Luciano Amaral",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "PSD",
+    "aliases": [
+      "Luciano Amaral",
+      "Amaral"
+    ],
+    "camara_id": 220581
+  },
+  {
+    "slug": "luciano-bivar",
+    "name": "Luciano Bivar",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "MDB",
+    "aliases": [
+      "Luciano Bivar",
+      "Bivar"
+    ],
+    "camara_id": 74478
+  },
+  {
+    "slug": "luciano-ducci",
+    "name": "Luciano Ducci",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PSB",
+    "aliases": [
+      "Luciano Ducci",
+      "Ducci"
+    ],
+    "camara_id": 178931
+  },
+  {
+    "slug": "lucio-mosquini",
+    "name": "Lucio Mosquini",
+    "role": "Deputado(a) Federal (RO)",
+    "party": "PL",
+    "aliases": [
+      "Lucio Mosquini",
+      "Mosquini"
+    ],
+    "camara_id": 178954
+  },
+  {
+    "slug": "luis-tibe",
+    "name": "Luis Tibé",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "AVANTE",
+    "aliases": [
+      "Luis Tibé",
+      "Tibé"
+    ],
+    "camara_id": 160510
+  },
+  {
+    "slug": "luisa-canziani",
+    "name": "Luisa Canziani",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Luisa Canziani",
+      "Canziani"
+    ],
+    "camara_id": 204410
+  },
+  {
+    "slug": "luiz-carlos-busato",
+    "name": "Luiz Carlos Busato",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Luiz Carlos Busato",
+      "Busato"
+    ],
+    "camara_id": 141485
+  },
+  {
+    "slug": "luiz-carlos-hauly",
+    "name": "Luiz Carlos Hauly",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PODE",
+    "aliases": [
+      "Luiz Carlos Hauly",
+      "Hauly"
+    ],
+    "camara_id": 73778
+  },
+  {
+    "slug": "luiz-carlos-motta",
+    "name": "Luiz Carlos Motta",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Luiz Carlos Motta",
+      "Motta"
+    ],
+    "camara_id": 204485
+  },
+  {
+    "slug": "luiz-couto",
+    "name": "Luiz Couto",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "PT",
+    "aliases": [
+      "Luiz Couto",
+      "Couto"
+    ],
+    "camara_id": 74041
+  },
+  {
+    "slug": "luiz-fernando-faria",
+    "name": "Luiz Fernando Faria",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Luiz Fernando Faria",
+      "Faria"
+    ],
+    "camara_id": 141487
+  },
+  {
+    "slug": "luiz-gastao",
+    "name": "Luiz Gastão",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PSD",
+    "aliases": [
+      "Luiz Gastão",
+      "Gastão"
+    ],
+    "camara_id": 220658
+  },
+  {
+    "slug": "luiz-lima",
+    "name": "Luiz Lima",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "NOVO",
+    "aliases": [
+      "Luiz Lima",
+      "Lima"
+    ],
+    "camara_id": 204455
+  },
+  {
+    "slug": "luiz-nishimori",
+    "name": "Luiz Nishimori",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PSD",
+    "aliases": [
+      "Luiz Nishimori",
+      "Nishimori"
+    ],
+    "camara_id": 162332
+  },
+  {
+    "slug": "luiz-philippe-de-orleans-e-braganca",
+    "name": "Luiz Philippe de Orleans e Bragança",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Luiz Philippe de Orleans e Bragança",
+      "Bragança"
+    ],
+    "camara_id": 204526
+  },
+  {
+    "slug": "luiza-erundina",
+    "name": "Luiza Erundina",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSOL",
+    "aliases": [
+      "Luiza Erundina",
+      "Erundina"
+    ],
+    "camara_id": 74784
+  },
+  {
+    "slug": "luizianne-lins",
+    "name": "Luizianne Lins",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "REDE",
+    "aliases": [
+      "Luizianne Lins",
+      "Lins"
+    ],
+    "camara_id": 178866
+  },
+  {
+    "slug": "lula-da-fonte",
+    "name": "Lula da Fonte",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PP",
+    "aliases": [
+      "Lula da Fonte",
+      "Fonte"
+    ],
+    "camara_id": 220669
+  },
+  {
+    "slug": "magda-mofatto",
+    "name": "Magda Mofatto",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PL",
+    "aliases": [
+      "Magda Mofatto",
+      "Mofatto"
+    ],
+    "camara_id": 166402
+  },
+  {
+    "slug": "marangoni",
+    "name": "Marangoni",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Marangoni"
+    ],
+    "camara_id": 220648
+  },
+  {
+    "slug": "marcel-van-hattem",
+    "name": "Marcel van Hattem",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "NOVO",
+    "aliases": [
+      "Marcel van Hattem",
+      "Hattem"
+    ],
+    "camara_id": 156190
+  },
+  {
+    "slug": "marcelo-alvaro-antonio",
+    "name": "Marcelo Álvaro Antônio",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Marcelo Álvaro Antônio",
+      "Antônio"
+    ],
+    "camara_id": 179000
+  },
+  {
+    "slug": "marcelo-crivella",
+    "name": "Marcelo Crivella",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Marcelo Crivella",
+      "Crivella"
+    ],
+    "camara_id": 220599
+  },
+  {
+    "slug": "marcelo-moraes",
+    "name": "Marcelo Moraes",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PL",
+    "aliases": [
+      "Marcelo Moraes",
+      "Moraes"
+    ],
+    "camara_id": 133810
+  },
+  {
+    "slug": "marcelo-nilo",
+    "name": "Marcelo Nilo",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Marcelo Nilo",
+      "Nilo"
+    ],
+    "camara_id": 204558
+  },
+  {
+    "slug": "marcelo-queiroz",
+    "name": "Marcelo Queiroz",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSDB",
+    "aliases": [
+      "Marcelo Queiroz",
+      "Queiroz"
+    ],
+    "camara_id": 160161
+  },
+  {
+    "slug": "marcio-alvino",
+    "name": "Marcio Alvino",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Marcio Alvino",
+      "Alvino"
+    ],
+    "camara_id": 178983
+  },
+  {
+    "slug": "marcio-biolchi",
+    "name": "Márcio Biolchi",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "MDB",
+    "aliases": [
+      "Márcio Biolchi",
+      "Biolchi"
+    ],
+    "camara_id": 179001
+  },
+  {
+    "slug": "marcio-honaiser",
+    "name": "Márcio Honaiser",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "SOLIDARIEDADE",
+    "aliases": [
+      "Márcio Honaiser",
+      "Honaiser"
+    ],
+    "camara_id": 220687
+  },
+  {
+    "slug": "marcio-jerry",
+    "name": "Márcio Jerry",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PCdoB",
+    "aliases": [
+      "Márcio Jerry",
+      "Jerry"
+    ],
+    "camara_id": 81055
+  },
+  {
+    "slug": "marcio-marinho",
+    "name": "Márcio Marinho",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Márcio Marinho",
+      "Marinho"
+    ],
+    "camara_id": 150418
+  },
+  {
+    "slug": "marcon",
+    "name": "Marcon",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PT",
+    "aliases": [
+      "Marcon"
+    ],
+    "camara_id": 160535
+  },
+  {
+    "slug": "marcos-aurelio-sampaio",
+    "name": "Marcos Aurélio Sampaio",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "MDB",
+    "aliases": [
+      "Marcos Aurélio Sampaio",
+      "Sampaio"
+    ],
+    "camara_id": 204431
+  },
+  {
+    "slug": "marcos-braz",
+    "name": "Marcos Braz",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSDB",
+    "aliases": [
+      "Marcos Braz",
+      "Braz"
+    ],
+    "camara_id": 236375
+  },
+  {
+    "slug": "marcos-pereira",
+    "name": "Marcos Pereira",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Marcos Pereira",
+      "Pereira"
+    ],
+    "camara_id": 204506
+  },
+  {
+    "slug": "marcos-pollon",
+    "name": "Marcos Pollon",
+    "role": "Deputado(a) Federal (MS)",
+    "party": "PL",
+    "aliases": [
+      "Marcos Pollon",
+      "Pollon"
+    ],
+    "camara_id": 220547
+  },
+  {
+    "slug": "marcos-soares",
+    "name": "Marcos Soares",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSDB",
+    "aliases": [
+      "Marcos Soares",
+      "Soares"
+    ],
+    "camara_id": 178943
+  },
+  {
+    "slug": "marcos-tavares",
+    "name": "Marcos Tavares",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PDT",
+    "aliases": [
+      "Marcos Tavares",
+      "Tavares"
+    ],
+    "camara_id": 220604
+  },
+  {
+    "slug": "maria-arraes",
+    "name": "Maria Arraes",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PSB",
+    "aliases": [
+      "Maria Arraes",
+      "Arraes"
+    ],
+    "camara_id": 220668
+  },
+  {
+    "slug": "maria-do-rosario",
+    "name": "Maria do Rosário",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PT",
+    "aliases": [
+      "Maria do Rosário",
+      "Rosário"
+    ],
+    "camara_id": 74398
+  },
+  {
+    "slug": "maria-rosas",
+    "name": "Maria Rosas",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Maria Rosas",
+      "Rosas"
+    ],
+    "camara_id": 204540
+  },
+  {
+    "slug": "marina-silva",
+    "name": "Marina Silva",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "REDE",
+    "aliases": [
+      "Marina Silva",
+      "Silva"
+    ],
+    "camara_id": 220637
+  },
+  {
+    "slug": "mario-frias",
+    "name": "Mario Frias",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Mario Frias",
+      "Frias"
+    ],
+    "camara_id": 220655
+  },
+  {
+    "slug": "mario-heringer",
+    "name": "Mário Heringer",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PDT",
+    "aliases": [
+      "Mário Heringer",
+      "Heringer"
+    ],
+    "camara_id": 74158
+  },
+  {
+    "slug": "mario-negromonte-jr",
+    "name": "Mário Negromonte Jr.",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PSB",
+    "aliases": [
+      "Mário Negromonte Jr."
+    ],
+    "camara_id": 178858
+  },
+  {
+    "slug": "marreca-filho",
+    "name": "Marreca Filho",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PRD",
+    "aliases": [
+      "Marreca Filho",
+      "Filho"
+    ],
+    "camara_id": 204566
+  },
+  {
+    "slug": "marussa-boldrin",
+    "name": "Marussa Boldrin",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Marussa Boldrin",
+      "Boldrin"
+    ],
+    "camara_id": 220572
+  },
+  {
+    "slug": "marx-beltrao",
+    "name": "Marx Beltrão",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Marx Beltrão",
+      "Beltrão"
+    ],
+    "camara_id": 178843
+  },
+  {
+    "slug": "matheus-noronha",
+    "name": "Matheus Noronha",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PL",
+    "aliases": [
+      "Matheus Noronha",
+      "Noronha"
+    ],
+    "camara_id": 220661
+  },
+  {
+    "slug": "mauricio-carvalho",
+    "name": "Maurício Carvalho",
+    "role": "Deputado(a) Federal (RO)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Maurício Carvalho",
+      "Carvalho"
+    ],
+    "camara_id": 220609
+  },
+  {
+    "slug": "mauricio-do-volei",
+    "name": "Mauricio do Vôlei",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Mauricio do Vôlei",
+      "Vôlei"
+    ],
+    "camara_id": 220628
+  },
+  {
+    "slug": "mauricio-marcon",
+    "name": "Mauricio Marcon",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PL",
+    "aliases": [
+      "Mauricio Marcon",
+      "Marcon"
+    ],
+    "camara_id": 220550
+  },
+  {
+    "slug": "mauricio-neves",
+    "name": "Mauricio Neves",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PP",
+    "aliases": [
+      "Mauricio Neves",
+      "Neves"
+    ],
+    "camara_id": 220647
+  },
+  {
+    "slug": "mauro-benevides-filho",
+    "name": "Mauro Benevides Filho",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Mauro Benevides Filho",
+      "Filho"
+    ],
+    "camara_id": 204486
+  },
+  {
+    "slug": "max-lemos",
+    "name": "Max Lemos",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Max Lemos",
+      "Lemos"
+    ],
+    "camara_id": 220607
+  },
+  {
+    "slug": "meire-serafim",
+    "name": "Meire Serafim",
+    "role": "Deputado(a) Federal (AC)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Meire Serafim",
+      "Serafim"
+    ],
+    "camara_id": 220591
+  },
+  {
+    "slug": "mendonca-filho",
+    "name": "Mendonça Filho",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PL",
+    "aliases": [
+      "Mendonça Filho",
+      "Filho"
+    ],
+    "camara_id": 74428
+  },
+  {
+    "slug": "merlong-solano",
+    "name": "Merlong Solano",
+    "role": "Deputado(a) Federal (PI)",
+    "party": "PT",
+    "aliases": [
+      "Merlong Solano",
+      "Solano"
+    ],
+    "camara_id": 188097
+  },
+  {
+    "slug": "mersinho-lucena",
+    "name": "Mersinho Lucena",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "PSD",
+    "aliases": [
+      "Mersinho Lucena",
+      "Lucena"
+    ],
+    "camara_id": 220585
+  },
+  {
+    "slug": "messias-donato",
+    "name": "Messias Donato",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Messias Donato",
+      "Donato"
+    ],
+    "camara_id": 220530
+  },
+  {
+    "slug": "miguel-angelo",
+    "name": "Miguel Ângelo",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Miguel Ângelo",
+      "Ângelo"
+    ],
+    "camara_id": 171786
+  },
+  {
+    "slug": "miguel-lombardi",
+    "name": "Miguel Lombardi",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Miguel Lombardi",
+      "Lombardi"
+    ],
+    "camara_id": 178985
+  },
+  {
+    "slug": "milton-vieira",
+    "name": "Milton Vieira",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Milton Vieira",
+      "Vieira"
+    ],
+    "camara_id": 154178
+  },
+  {
+    "slug": "misael-varella",
+    "name": "Misael Varella",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PSD",
+    "aliases": [
+      "Misael Varella",
+      "Varella"
+    ],
+    "camara_id": 178895
+  },
+  {
+    "slug": "missionario-jose-olimpio",
+    "name": "Missionário José Olimpio",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Missionário José Olimpio",
+      "Olimpio"
+    ],
+    "camara_id": 160561
+  },
+  {
+    "slug": "moses-rodrigues",
+    "name": "Moses Rodrigues",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Moses Rodrigues",
+      "Rodrigues"
+    ],
+    "camara_id": 178997
+  },
+  {
+    "slug": "murillo-gouvea",
+    "name": "Murillo Gouvea",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSDB",
+    "aliases": [
+      "Murillo Gouvea",
+      "Gouvea"
+    ],
+    "camara_id": 220617
+  },
+  {
+    "slug": "natalia-bonavides",
+    "name": "Natália Bonavides",
+    "role": "Deputado(a) Federal (RN)",
+    "party": "PT",
+    "aliases": [
+      "Natália Bonavides",
+      "Bonavides"
+    ],
+    "camara_id": 204453
+  },
+  {
+    "slug": "nelson-barbudo",
+    "name": "Nelson Barbudo",
+    "role": "Deputado(a) Federal (MT)",
+    "party": "PODE",
+    "aliases": [
+      "Nelson Barbudo",
+      "Barbudo"
+    ],
+    "camara_id": 204449
+  },
+  {
+    "slug": "nely-aquino",
+    "name": "Nely Aquino",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PODE",
+    "aliases": [
+      "Nely Aquino",
+      "Aquino"
+    ],
+    "camara_id": 220622
+  },
+  {
+    "slug": "neto-carletto",
+    "name": "Neto Carletto",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "AVANTE",
+    "aliases": [
+      "Neto Carletto",
+      "Carletto"
+    ],
+    "camara_id": 220703
+  },
+  {
+    "slug": "newton-cardoso-jr",
+    "name": "Newton Cardoso Jr",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "MDB",
+    "aliases": [
+      "Newton Cardoso Jr"
+    ],
+    "camara_id": 178896
+  },
+  {
+    "slug": "nicoletti",
+    "name": "Nicoletti",
+    "role": "Deputado(a) Federal (RR)",
+    "party": "PL",
+    "aliases": [
+      "Nicoletti"
+    ],
+    "camara_id": 204479
+  },
+  {
+    "slug": "nikolas-ferreira",
+    "name": "Nikolas Ferreira",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Nikolas Ferreira",
+      "Ferreira"
+    ],
+    "camara_id": 209787
+  },
+  {
+    "slug": "nilto-tatto",
+    "name": "Nilto Tatto",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Nilto Tatto",
+      "Tatto"
+    ],
+    "camara_id": 178986
+  },
+  {
+    "slug": "nivaldo-albuquerque",
+    "name": "Nivaldo Albuquerque",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Nivaldo Albuquerque",
+      "Albuquerque"
+    ],
+    "camara_id": 194260
+  },
+  {
+    "slug": "olival-marques",
+    "name": "Olival Marques",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PODE",
+    "aliases": [
+      "Olival Marques",
+      "Marques"
+    ],
+    "camara_id": 204498
+  },
+  {
+    "slug": "orlando-silva",
+    "name": "Orlando Silva",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PCdoB",
+    "aliases": [
+      "Orlando Silva",
+      "Silva"
+    ],
+    "camara_id": 178987
+  },
+  {
+    "slug": "osmar-terra",
+    "name": "Osmar Terra",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PL",
+    "aliases": [
+      "Osmar Terra",
+      "Terra"
+    ],
+    "camara_id": 73692
+  },
+  {
+    "slug": "otoni-de-paula",
+    "name": "Otoni de Paula",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSD",
+    "aliases": [
+      "Otoni de Paula",
+      "Paula"
+    ],
+    "camara_id": 204441
+  },
+  {
+    "slug": "padre-joao",
+    "name": "Padre João",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Padre João",
+      "João"
+    ],
+    "camara_id": 160556
+  },
+  {
+    "slug": "pastor-diniz",
+    "name": "Pastor Diniz",
+    "role": "Deputado(a) Federal (RR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Pastor Diniz",
+      "Diniz"
+    ],
+    "camara_id": 180214
+  },
+  {
+    "slug": "pastor-eurico",
+    "name": "Pastor Eurico",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PSDB",
+    "aliases": [
+      "Pastor Eurico",
+      "Eurico"
+    ],
+    "camara_id": 160642
+  },
+  {
+    "slug": "pastor-gil",
+    "name": "Pastor Gil",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PL",
+    "aliases": [
+      "Pastor Gil"
+    ],
+    "camara_id": 204570
+  },
+  {
+    "slug": "pastor-henrique-vieira",
+    "name": "Pastor Henrique Vieira",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSOL",
+    "aliases": [
+      "Pastor Henrique Vieira",
+      "Vieira"
+    ],
+    "camara_id": 220615
+  },
+  {
+    "slug": "pastor-sargento-isidorio",
+    "name": "Pastor Sargento Isidório",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "AVANTE",
+    "aliases": [
+      "Pastor Sargento Isidório",
+      "Isidório"
+    ],
+    "camara_id": 204553
+  },
+  {
+    "slug": "patrus-ananias",
+    "name": "Patrus Ananias",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Patrus Ananias",
+      "Ananias"
+    ],
+    "camara_id": 74160
+  },
+  {
+    "slug": "paulinho-da-forca",
+    "name": "Paulinho da Força",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "SOLIDARIEDADE",
+    "aliases": [
+      "Paulinho da Força",
+      "Força"
+    ],
+    "camara_id": 141518
+  },
+  {
+    "slug": "paulo-abi-ackel",
+    "name": "Paulo Abi-Ackel",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PSDB",
+    "aliases": [
+      "Paulo Abi-Ackel",
+      "Abi-Ackel"
+    ],
+    "camara_id": 141516
+  },
+  {
+    "slug": "paulo-alexandre-barbosa",
+    "name": "Paulo Alexandre Barbosa",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSD",
+    "aliases": [
+      "Paulo Alexandre Barbosa",
+      "Barbosa"
+    ],
+    "camara_id": 220650
+  },
+  {
+    "slug": "paulo-azi",
+    "name": "Paulo Azi",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Paulo Azi"
+    ],
+    "camara_id": 178860
+  },
+  {
+    "slug": "paulo-folletto",
+    "name": "Paulo Folletto",
+    "role": "Deputado(a) Federal (ES)",
+    "party": "PSB",
+    "aliases": [
+      "Paulo Folletto",
+      "Folletto"
+    ],
+    "camara_id": 160517
+  },
+  {
+    "slug": "paulo-freire-costa",
+    "name": "Paulo Freire Costa",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Paulo Freire Costa",
+      "Costa"
+    ],
+    "camara_id": 160558
+  },
+  {
+    "slug": "paulo-guedes",
+    "name": "Paulo Guedes",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Paulo Guedes",
+      "Guedes"
+    ],
+    "camara_id": 204492
+  },
+  {
+    "slug": "paulo-lemos",
+    "name": "Paulo Lemos",
+    "role": "Deputado(a) Federal (AP)",
+    "party": "PT",
+    "aliases": [
+      "Paulo Lemos",
+      "Lemos"
+    ],
+    "camara_id": 233592
+  },
+  {
+    "slug": "paulo-litro",
+    "name": "Paulo Litro",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Paulo Litro",
+      "Litro"
+    ],
+    "camara_id": 220685
+  },
+  {
+    "slug": "paulo-magalhaes",
+    "name": "Paulo Magalhães",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PSD",
+    "aliases": [
+      "Paulo Magalhães",
+      "Magalhães"
+    ],
+    "camara_id": 74574
+  },
+  {
+    "slug": "paulo-pimenta",
+    "name": "Paulo Pimenta",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PT",
+    "aliases": [
+      "Paulo Pimenta",
+      "Pimenta"
+    ],
+    "camara_id": 74400
+  },
+  {
+    "slug": "paulo-soares",
+    "name": "Paulo Soares",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Paulo Soares",
+      "Soares"
+    ],
+    "camara_id": 154700
+  },
+  {
+    "slug": "paulo-teixeira",
+    "name": "Paulo Teixeira",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Paulo Teixeira",
+      "Teixeira"
+    ],
+    "camara_id": 141488
+  },
+  {
+    "slug": "pedro-aihara",
+    "name": "Pedro Aihara",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PP",
+    "aliases": [
+      "Pedro Aihara",
+      "Aihara"
+    ],
+    "camara_id": 220630
+  },
+  {
+    "slug": "pedro-campos",
+    "name": "Pedro Campos",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PSB",
+    "aliases": [
+      "Pedro Campos",
+      "Campos"
+    ],
+    "camara_id": 220667
+  },
+  {
+    "slug": "pedro-lucas-fernandes",
+    "name": "Pedro Lucas Fernandes",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Pedro Lucas Fernandes",
+      "Fernandes"
+    ],
+    "camara_id": 122974
+  },
+  {
+    "slug": "pedro-lupion",
+    "name": "Pedro Lupion",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Pedro Lupion",
+      "Lupion"
+    ],
+    "camara_id": 204395
+  },
+  {
+    "slug": "pedro-paulo",
+    "name": "Pedro Paulo",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSD",
+    "aliases": [
+      "Pedro Paulo",
+      "Paulo"
+    ],
+    "camara_id": 122158
+  },
+  {
+    "slug": "pedro-uczai",
+    "name": "Pedro Uczai",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "PT",
+    "aliases": [
+      "Pedro Uczai",
+      "Uczai"
+    ],
+    "camara_id": 160604
+  },
+  {
+    "slug": "pedro-westphalen",
+    "name": "Pedro Westphalen",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PP",
+    "aliases": [
+      "Pedro Westphalen",
+      "Westphalen"
+    ],
+    "camara_id": 204406
+  },
+  {
+    "slug": "pezenti",
+    "name": "Pezenti",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "MDB",
+    "aliases": [
+      "Pezenti"
+    ],
+    "camara_id": 161440
+  },
+  {
+    "slug": "pinheirinho",
+    "name": "Pinheirinho",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PP",
+    "aliases": [
+      "Pinheirinho"
+    ],
+    "camara_id": 204524
+  },
+  {
+    "slug": "pompeo-de-mattos",
+    "name": "Pompeo de Mattos",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PDT",
+    "aliases": [
+      "Pompeo de Mattos",
+      "Mattos"
+    ],
+    "camara_id": 73486
+  },
+  {
+    "slug": "pr-marco-feliciano",
+    "name": "Pr. Marco Feliciano",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Pr. Marco Feliciano",
+      "Feliciano"
+    ],
+    "camara_id": 160601
+  },
+  {
+    "slug": "priscila-costa",
+    "name": "Priscila Costa",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PL",
+    "aliases": [
+      "Priscila Costa",
+      "Costa"
+    ],
+    "camara_id": 226075
+  },
+  {
+    "slug": "prof-reginaldo-veras",
+    "name": "Prof. Reginaldo Veras",
+    "role": "Deputado(a) Federal (DF)",
+    "party": "PV",
+    "aliases": [
+      "Prof. Reginaldo Veras",
+      "Veras"
+    ],
+    "camara_id": 220533
+  },
+  {
+    "slug": "professor-alcides",
+    "name": "Professor Alcides",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PSDB",
+    "aliases": [
+      "Professor Alcides",
+      "Alcides"
+    ],
+    "camara_id": 204390
+  },
+  {
+    "slug": "professora-luciene-cavalcante",
+    "name": "Professora Luciene Cavalcante",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSOL",
+    "aliases": [
+      "Professora Luciene Cavalcante",
+      "Cavalcante"
+    ],
+    "camara_id": 221338
+  },
+  {
+    "slug": "professora-marcivania",
+    "name": "Professora Marcivania",
+    "role": "Deputado(a) Federal (AP)",
+    "party": "PCdoB",
+    "aliases": [
+      "Professora Marcivania",
+      "Marcivania"
+    ],
+    "camara_id": 160641
+  },
+  {
+    "slug": "rafael-brito",
+    "name": "Rafael Brito",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "MDB",
+    "aliases": [
+      "Rafael Brito",
+      "Brito"
+    ],
+    "camara_id": 220586
+  },
+  {
+    "slug": "rafael-fera",
+    "name": "Rafael Fera",
+    "role": "Deputado(a) Federal (RO)",
+    "party": "PODE",
+    "aliases": [
+      "Rafael Fera",
+      "Fera"
+    ],
+    "camara_id": 233594
+  },
+  {
+    "slug": "rafael-prudente",
+    "name": "Rafael Prudente",
+    "role": "Deputado(a) Federal (DF)",
+    "party": "MDB",
+    "aliases": [
+      "Rafael Prudente",
+      "Prudente"
+    ],
+    "camara_id": 220532
+  },
+  {
+    "slug": "rafael-simoes",
+    "name": "Rafael Simoes",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Rafael Simoes",
+      "Simoes"
+    ],
+    "camara_id": 220626
+  },
+  {
+    "slug": "raimundo-costa",
+    "name": "Raimundo Costa",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PSD",
+    "aliases": [
+      "Raimundo Costa",
+      "Costa"
+    ],
+    "camara_id": 204567
+  },
+  {
+    "slug": "raimundo-santos",
+    "name": "Raimundo Santos",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "PSD",
+    "aliases": [
+      "Raimundo Santos",
+      "Santos"
+    ],
+    "camara_id": 74084
+  },
+  {
+    "slug": "raniery-paulino",
+    "name": "Raniery Paulino",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Raniery Paulino",
+      "Paulino"
+    ],
+    "camara_id": 115200
+  },
+  {
+    "slug": "reginaldo-lopes",
+    "name": "Reginaldo Lopes",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Reginaldo Lopes",
+      "Lopes"
+    ],
+    "camara_id": 74161
+  },
+  {
+    "slug": "reimont",
+    "name": "Reimont",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PT",
+    "aliases": [
+      "Reimont"
+    ],
+    "camara_id": 220606
+  },
+  {
+    "slug": "renilce-nicodemos",
+    "name": "Renilce Nicodemos",
+    "role": "Deputado(a) Federal (PA)",
+    "party": "MDB",
+    "aliases": [
+      "Renilce Nicodemos",
+      "Nicodemos"
+    ],
+    "camara_id": 153423
+  },
+  {
+    "slug": "renildo-calheiros",
+    "name": "Renildo Calheiros",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PCdoB",
+    "aliases": [
+      "Renildo Calheiros",
+      "Calheiros"
+    ],
+    "camara_id": 73801
+  },
+  {
+    "slug": "ribamar-silva",
+    "name": "Ribamar Silva",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Ribamar Silva",
+      "Silva"
+    ],
+    "camara_id": 175765
+  },
+  {
+    "slug": "ricardo-abrao",
+    "name": "Ricardo Abrão",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSDB",
+    "aliases": [
+      "Ricardo Abrão",
+      "Abrão"
+    ],
+    "camara_id": 221329
+  },
+  {
+    "slug": "ricardo-ayres",
+    "name": "Ricardo Ayres",
+    "role": "Deputado(a) Federal (TO)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Ricardo Ayres",
+      "Ayres"
+    ],
+    "camara_id": 220543
+  },
+  {
+    "slug": "ricardo-barros",
+    "name": "Ricardo Barros",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PP",
+    "aliases": [
+      "Ricardo Barros",
+      "Barros"
+    ],
+    "camara_id": 73788
+  },
+  {
+    "slug": "ricardo-guidi",
+    "name": "Ricardo Guidi",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "PL",
+    "aliases": [
+      "Ricardo Guidi",
+      "Guidi"
+    ],
+    "camara_id": 204362
+  },
+  {
+    "slug": "ricardo-maia",
+    "name": "Ricardo Maia",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "MDB",
+    "aliases": [
+      "Ricardo Maia",
+      "Maia"
+    ],
+    "camara_id": 220694
+  },
+  {
+    "slug": "ricardo-salles",
+    "name": "Ricardo Salles",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "NOVO",
+    "aliases": [
+      "Ricardo Salles",
+      "Salles"
+    ],
+    "camara_id": 220633
+  },
+  {
+    "slug": "roberio-monteiro",
+    "name": "Robério Monteiro",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PSB",
+    "aliases": [
+      "Robério Monteiro",
+      "Monteiro"
+    ],
+    "camara_id": 204489
+  },
+  {
+    "slug": "roberta-roma",
+    "name": "Roberta Roma",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PL",
+    "aliases": [
+      "Roberta Roma",
+      "Roma"
+    ],
+    "camara_id": 220693
+  },
+  {
+    "slug": "roberto-duarte",
+    "name": "Roberto Duarte",
+    "role": "Deputado(a) Federal (AC)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Roberto Duarte",
+      "Duarte"
+    ],
+    "camara_id": 220588
+  },
+  {
+    "slug": "roberto-monteiro-pai",
+    "name": "Roberto Monteiro Pai",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Roberto Monteiro Pai"
+    ],
+    "camara_id": 220613
+  },
+  {
+    "slug": "robinson-faria",
+    "name": "Robinson Faria",
+    "role": "Deputado(a) Federal (RN)",
+    "party": "PP",
+    "aliases": [
+      "Robinson Faria",
+      "Faria"
+    ],
+    "camara_id": 220624
+  },
+  {
+    "slug": "rodolfo-nogueira",
+    "name": "Rodolfo Nogueira",
+    "role": "Deputado(a) Federal (MS)",
+    "party": "PL",
+    "aliases": [
+      "Rodolfo Nogueira",
+      "Nogueira"
+    ],
+    "camara_id": 220546
+  },
+  {
+    "slug": "rodrigo-da-zaeli",
+    "name": "Rodrigo da Zaeli",
+    "role": "Deputado(a) Federal (MT)",
+    "party": "PL",
+    "aliases": [
+      "Rodrigo da Zaeli",
+      "Zaeli"
+    ],
+    "camara_id": 230767
+  },
+  {
+    "slug": "rodrigo-de-castro",
+    "name": "Rodrigo de Castro",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Rodrigo de Castro",
+      "Castro"
+    ],
+    "camara_id": 141531
+  },
+  {
+    "slug": "rodrigo-gambale",
+    "name": "Rodrigo Gambale",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Rodrigo Gambale",
+      "Gambale"
+    ],
+    "camara_id": 220641
+  },
+  {
+    "slug": "rodrigo-rollemberg",
+    "name": "Rodrigo Rollemberg",
+    "role": "Deputado(a) Federal (DF)",
+    "party": "PSB",
+    "aliases": [
+      "Rodrigo Rollemberg",
+      "Rollemberg"
+    ],
+    "camara_id": 141533
+  },
+  {
+    "slug": "rodrigo-valadares",
+    "name": "Rodrigo Valadares",
+    "role": "Deputado(a) Federal (SE)",
+    "party": "PL",
+    "aliases": [
+      "Rodrigo Valadares",
+      "Valadares"
+    ],
+    "camara_id": 165470
+  },
+  {
+    "slug": "rogeria-santos",
+    "name": "Rogéria Santos",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Rogéria Santos",
+      "Santos"
+    ],
+    "camara_id": 220695
+  },
+  {
+    "slug": "rogerio-correia",
+    "name": "Rogério Correia",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Rogério Correia",
+      "Correia"
+    ],
+    "camara_id": 204480
+  },
+  {
+    "slug": "rosana-valle",
+    "name": "Rosana Valle",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Rosana Valle",
+      "Valle"
+    ],
+    "camara_id": 204525
+  },
+  {
+    "slug": "rosangela-gomes",
+    "name": "Rosangela Gomes",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Rosangela Gomes",
+      "Gomes"
+    ],
+    "camara_id": 178945
+  },
+  {
+    "slug": "rosangela-moro",
+    "name": "Rosangela Moro",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Rosangela Moro",
+      "Moro"
+    ],
+    "camara_id": 220644
+  },
+  {
+    "slug": "rosangela-reis",
+    "name": "Rosângela Reis",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Rosângela Reis",
+      "Reis"
+    ],
+    "camara_id": 220620
+  },
+  {
+    "slug": "roseana-sarney",
+    "name": "Roseana Sarney",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "MDB",
+    "aliases": [
+      "Roseana Sarney",
+      "Sarney"
+    ],
+    "camara_id": 73806
+  },
+  {
+    "slug": "rubens-otoni",
+    "name": "Rubens Otoni",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "PT",
+    "aliases": [
+      "Rubens Otoni",
+      "Otoni"
+    ],
+    "camara_id": 74371
+  },
+  {
+    "slug": "rubens-pereira-junior",
+    "name": "Rubens Pereira Júnior",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "PT",
+    "aliases": [
+      "Rubens Pereira Júnior",
+      "Júnior"
+    ],
+    "camara_id": 178887
+  },
+  {
+    "slug": "rui-falcao",
+    "name": "Rui Falcão",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PT",
+    "aliases": [
+      "Rui Falcão",
+      "Falcão"
+    ],
+    "camara_id": 73604
+  },
+  {
+    "slug": "ruy-carneiro",
+    "name": "Ruy Carneiro",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "PODE",
+    "aliases": [
+      "Ruy Carneiro",
+      "Carneiro"
+    ],
+    "camara_id": 160635
+  },
+  {
+    "slug": "samia-bomfim",
+    "name": "Sâmia Bomfim",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSOL",
+    "aliases": [
+      "Sâmia Bomfim",
+      "Bomfim"
+    ],
+    "camara_id": 204535
+  },
+  {
+    "slug": "samuel-viana",
+    "name": "Samuel Viana",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Samuel Viana",
+      "Viana"
+    ],
+    "camara_id": 220631
+  },
+  {
+    "slug": "sanderson",
+    "name": "Sanderson",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PL",
+    "aliases": [
+      "Sanderson"
+    ],
+    "camara_id": 204416
+  },
+  {
+    "slug": "sandro-alex",
+    "name": "Sandro Alex",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PSD",
+    "aliases": [
+      "Sandro Alex",
+      "Alex"
+    ],
+    "camara_id": 160621
+  },
+  {
+    "slug": "santin-roveda",
+    "name": "Santin Roveda",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Santin Roveda",
+      "Roveda"
+    ],
+    "camara_id": 236518
+  },
+  {
+    "slug": "sargento-fahur",
+    "name": "Sargento Fahur",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PL",
+    "aliases": [
+      "Sargento Fahur",
+      "Fahur"
+    ],
+    "camara_id": 204387
+  },
+  {
+    "slug": "sargento-goncalves",
+    "name": "Sargento Gonçalves",
+    "role": "Deputado(a) Federal (RN)",
+    "party": "PL",
+    "aliases": [
+      "Sargento Gonçalves",
+      "Gonçalves"
+    ],
+    "camara_id": 220621
+  },
+  {
+    "slug": "sargento-portugal",
+    "name": "Sargento Portugal",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PODE",
+    "aliases": [
+      "Sargento Portugal",
+      "Portugal"
+    ],
+    "camara_id": 220618
+  },
+  {
+    "slug": "saullo-vianna",
+    "name": "Saullo Vianna",
+    "role": "Deputado(a) Federal (AM)",
+    "party": "MDB",
+    "aliases": [
+      "Saullo Vianna",
+      "Vianna"
+    ],
+    "camara_id": 220713
+  },
+  {
+    "slug": "saulo-pedroso",
+    "name": "Saulo Pedroso",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSD",
+    "aliases": [
+      "Saulo Pedroso",
+      "Pedroso"
+    ],
+    "camara_id": 226837
+  },
+  {
+    "slug": "sergio-brito",
+    "name": "Sérgio Brito",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PSD",
+    "aliases": [
+      "Sérgio Brito",
+      "Brito"
+    ],
+    "camara_id": 73808
+  },
+  {
+    "slug": "sergio-souza",
+    "name": "Sergio Souza",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "MDB",
+    "aliases": [
+      "Sergio Souza",
+      "Souza"
+    ],
+    "camara_id": 178933
+  },
+  {
+    "slug": "sidney-leite",
+    "name": "Sidney Leite",
+    "role": "Deputado(a) Federal (AM)",
+    "party": "PSD",
+    "aliases": [
+      "Sidney Leite",
+      "Leite"
+    ],
+    "camara_id": 204557
+  },
+  {
+    "slug": "silas-camara",
+    "name": "Silas Câmara",
+    "role": "Deputado(a) Federal (AM)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Silas Câmara",
+      "Câmara"
+    ],
+    "camara_id": 74356
+  },
+  {
+    "slug": "silvia-cristina",
+    "name": "Silvia Cristina",
+    "role": "Deputado(a) Federal (RO)",
+    "party": "PP",
+    "aliases": [
+      "Silvia Cristina",
+      "Cristina"
+    ],
+    "camara_id": 204360
+  },
+  {
+    "slug": "silvio-costa-filho",
+    "name": "Silvio Costa Filho",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Silvio Costa Filho",
+      "Filho"
+    ],
+    "camara_id": 204425
+  },
+  {
+    "slug": "silvye-alves",
+    "name": "Silvye Alves",
+    "role": "Deputado(a) Federal (GO)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Silvye Alves",
+      "Alves"
+    ],
+    "camara_id": 220569
+  },
+  {
+    "slug": "simone-marquetto",
+    "name": "Simone Marquetto",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PP",
+    "aliases": [
+      "Simone Marquetto",
+      "Marquetto"
+    ],
+    "camara_id": 220651
+  },
+  {
+    "slug": "socorro-neri",
+    "name": "Socorro Neri",
+    "role": "Deputado(a) Federal (AC)",
+    "party": "PP",
+    "aliases": [
+      "Socorro Neri",
+      "Neri"
+    ],
+    "camara_id": 104552
+  },
+  {
+    "slug": "sonia-guajajara",
+    "name": "Sônia Guajajara",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSOL",
+    "aliases": [
+      "Sônia Guajajara",
+      "Guajajara"
+    ],
+    "camara_id": 220643
+  },
+  {
+    "slug": "soraya-santos",
+    "name": "Soraya Santos",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Soraya Santos",
+      "Santos"
+    ],
+    "camara_id": 178946
+  },
+  {
+    "slug": "sostenes-cavalcante",
+    "name": "Sóstenes Cavalcante",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PL",
+    "aliases": [
+      "Sóstenes Cavalcante",
+      "Cavalcante"
+    ],
+    "camara_id": 178947
+  },
+  {
+    "slug": "stefano-aguiar",
+    "name": "Stefano Aguiar",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PSD",
+    "aliases": [
+      "Stefano Aguiar",
+      "Aguiar"
+    ],
+    "camara_id": 92776
+  },
+  {
+    "slug": "tabata-amaral",
+    "name": "Tabata Amaral",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSB",
+    "aliases": [
+      "Tabata Amaral",
+      "Amaral"
+    ],
+    "camara_id": 204534
+  },
+  {
+    "slug": "tadeu-veneri",
+    "name": "Tadeu Veneri",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PT",
+    "aliases": [
+      "Tadeu Veneri",
+      "Veneri"
+    ],
+    "camara_id": 220682
+  },
+  {
+    "slug": "taliria-petrone",
+    "name": "Talíria Petrone",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSOL",
+    "aliases": [
+      "Talíria Petrone",
+      "Petrone"
+    ],
+    "camara_id": 204464
+  },
+  {
+    "slug": "tarcisio-motta",
+    "name": "Tarcísio Motta",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSOL",
+    "aliases": [
+      "Tarcísio Motta",
+      "Motta"
+    ],
+    "camara_id": 220598
+  },
+  {
+    "slug": "thiago-de-joaldo",
+    "name": "Thiago de Joaldo",
+    "role": "Deputado(a) Federal (SE)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Thiago de Joaldo",
+      "Joaldo"
+    ],
+    "camara_id": 220560
+  },
+  {
+    "slug": "thiago-flores",
+    "name": "Thiago Flores",
+    "role": "Deputado(a) Federal (RO)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Thiago Flores",
+      "Flores"
+    ],
+    "camara_id": 220597
+  },
+  {
+    "slug": "tiago-dimas",
+    "name": "Tiago Dimas",
+    "role": "Deputado(a) Federal (TO)",
+    "party": "PODE",
+    "aliases": [
+      "Tiago Dimas",
+      "Dimas"
+    ],
+    "camara_id": 143084
+  },
+  {
+    "slug": "tiao-medeiros",
+    "name": "Tião Medeiros",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PP",
+    "aliases": [
+      "Tião Medeiros",
+      "Medeiros"
+    ],
+    "camara_id": 220684
+  },
+  {
+    "slug": "tiririca",
+    "name": "Tiririca",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSD",
+    "aliases": [
+      "Tiririca"
+    ],
+    "camara_id": 160976
+  },
+  {
+    "slug": "toninho-wandscheer",
+    "name": "Toninho Wandscheer",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PP",
+    "aliases": [
+      "Toninho Wandscheer",
+      "Wandscheer"
+    ],
+    "camara_id": 178934
+  },
+  {
+    "slug": "tulio-gadelha",
+    "name": "Túlio Gadêlha",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "PSD",
+    "aliases": [
+      "Túlio Gadêlha",
+      "Gadêlha"
+    ],
+    "camara_id": 157130
+  },
+  {
+    "slug": "valdir-trindade",
+    "name": "Valdir Trindade",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Valdir Trindade",
+      "Trindade"
+    ],
+    "camara_id": 236423
+  },
+  {
+    "slug": "valmir-assuncao",
+    "name": "Valmir Assunção",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PT",
+    "aliases": [
+      "Valmir Assunção",
+      "Assunção"
+    ],
+    "camara_id": 160610
+  },
+  {
+    "slug": "vander-loubet",
+    "name": "Vander Loubet",
+    "role": "Deputado(a) Federal (MS)",
+    "party": "PT",
+    "aliases": [
+      "Vander Loubet",
+      "Loubet"
+    ],
+    "camara_id": 74376
+  },
+  {
+    "slug": "vermelho",
+    "name": "Vermelho",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PL",
+    "aliases": [
+      "Vermelho"
+    ],
+    "camara_id": 204396
+  },
+  {
+    "slug": "vicentinho-junior",
+    "name": "Vicentinho Júnior",
+    "role": "Deputado(a) Federal (TO)",
+    "party": "PSDB",
+    "aliases": [
+      "Vicentinho Júnior",
+      "Júnior"
+    ],
+    "camara_id": 137070
+  },
+  {
+    "slug": "vinicius-carvalho",
+    "name": "Vinicius Carvalho",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PL",
+    "aliases": [
+      "Vinicius Carvalho",
+      "Carvalho"
+    ],
+    "camara_id": 141555
+  },
+  {
+    "slug": "vinicius-gurgel",
+    "name": "Vinicius Gurgel",
+    "role": "Deputado(a) Federal (AP)",
+    "party": "PL",
+    "aliases": [
+      "Vinicius Gurgel",
+      "Gurgel"
+    ],
+    "camara_id": 160591
+  },
+  {
+    "slug": "vitor-lippi",
+    "name": "Vitor Lippi",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PSD",
+    "aliases": [
+      "Vitor Lippi",
+      "Lippi"
+    ],
+    "camara_id": 178992
+  },
+  {
+    "slug": "waldemar-oliveira",
+    "name": "Waldemar Oliveira",
+    "role": "Deputado(a) Federal (PE)",
+    "party": "AVANTE",
+    "aliases": [
+      "Waldemar Oliveira",
+      "Oliveira"
+    ],
+    "camara_id": 91228
+  },
+  {
+    "slug": "waldenor-pereira",
+    "name": "Waldenor Pereira",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PT",
+    "aliases": [
+      "Waldenor Pereira",
+      "Pereira"
+    ],
+    "camara_id": 160569
+  },
+  {
+    "slug": "weliton-prado",
+    "name": "Weliton Prado",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PSD",
+    "aliases": [
+      "Weliton Prado",
+      "Prado"
+    ],
+    "camara_id": 160518
+  },
+  {
+    "slug": "wellington-roberto",
+    "name": "Wellington Roberto",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "PSD",
+    "aliases": [
+      "Wellington Roberto",
+      "Roberto"
+    ],
+    "camara_id": 74043
+  },
+  {
+    "slug": "welter",
+    "name": "Welter",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PT",
+    "aliases": [
+      "Welter"
+    ],
+    "camara_id": 224333
+  },
+  {
+    "slug": "yandra-moura",
+    "name": "Yandra Moura",
+    "role": "Deputado(a) Federal (SE)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Yandra Moura",
+      "Moura"
+    ],
+    "camara_id": 220564
+  },
+  {
+    "slug": "yury-do-paredao",
+    "name": "Yury do Paredão",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "MDB",
+    "aliases": [
+      "Yury do Paredão",
+      "Paredão"
+    ],
+    "camara_id": 220660
+  },
+  {
+    "slug": "ze-adriano",
+    "name": "Zé Adriano",
+    "role": "Deputado(a) Federal (AC)",
+    "party": "PP",
+    "aliases": [
+      "Zé Adriano",
+      "Adriano"
+    ],
+    "camara_id": 230768
+  },
+  {
+    "slug": "ze-haroldo-cathedral",
+    "name": "Zé Haroldo Cathedral",
+    "role": "Deputado(a) Federal (RR)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Zé Haroldo Cathedral",
+      "Cathedral"
+    ],
+    "camara_id": 220536
+  },
+  {
+    "slug": "ze-neto",
+    "name": "Zé Neto",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PT",
+    "aliases": [
+      "Zé Neto",
+      "Neto"
+    ],
+    "camara_id": 204559
+  },
+  {
+    "slug": "ze-silva",
+    "name": "Zé Silva",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "UNIÃO",
+    "aliases": [
+      "Zé Silva",
+      "Silva"
+    ],
+    "camara_id": 160632
+  },
+  {
+    "slug": "ze-trovao",
+    "name": "Zé Trovão",
+    "role": "Deputado(a) Federal (SC)",
+    "party": "PL",
+    "aliases": [
+      "Zé Trovão",
+      "Trovão"
+    ],
+    "camara_id": 220558
+  },
+  {
+    "slug": "ze-vitor",
+    "name": "Zé Vitor",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PL",
+    "aliases": [
+      "Zé Vitor",
+      "Vitor"
+    ],
+    "camara_id": 204517
+  },
+  {
+    "slug": "zeca-dirceu",
+    "name": "Zeca Dirceu",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PT",
+    "aliases": [
+      "Zeca Dirceu",
+      "Dirceu"
+    ],
+    "camara_id": 160592
+  },
+  {
+    "slug": "zezinho-barbary",
+    "name": "Zezinho Barbary",
+    "role": "Deputado(a) Federal (AC)",
+    "party": "PP",
+    "aliases": [
+      "Zezinho Barbary",
+      "Barbary"
+    ],
+    "camara_id": 220592
+  },
+  {
+    "slug": "zucco",
+    "name": "Zucco",
+    "role": "Deputado(a) Federal (RS)",
+    "party": "PL",
+    "aliases": [
+      "Zucco"
+    ],
+    "camara_id": 220552
+  }
+]
