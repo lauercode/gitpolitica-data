@@ -35,3 +35,6 @@
 - **[2026-08-22 03:01 UTC]** Disputas internas nos partidos: como o número do candidato na urna é escolhido?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/22/disputas-internas-nos-partidos-como-o-numero-do-candidato-na-urna-e-escolhido.ghtml)_
 
+- **[2026-08-22 03:00 UTC]** Eleições 2026: Só 1 partido tem mais mulheres do que homens entre candidatos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-candidaturas-femininas.ghtml)_
+
