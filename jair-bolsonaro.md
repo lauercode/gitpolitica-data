@@ -35,3 +35,6 @@
 - **[2026-08-21 14:51 UTC]** Passados 30 dias de ordem de Moraes, defesa de Bolsonaro diz ao STF que retomará agendamento de visitas sem cunho eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/passados-30-dias-de-ordem-de-moraes-defesa-informa-ao-stf-que-vai-retomar-agendamento-de-visitas-gerais-a-bolsonaro.ghtml)_
 
+- **[2026-08-21 00:15 UTC]** Haddad defende tornozeleira eletrônica para agressores de mulheres e diz que eles devem arcar com custo
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/haddad-defende-tornozeleira-eletronica-para-agressores-de-mulheres-e-diz-que-eles-devem-arcar-com-custo.ghtml)_
+
