@@ -125,3 +125,6 @@
 - **[2026-08-22 06:00 UTC]** Campanha de Tebet mira apoio de Kassab e de prefeitos do PSD em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-tebet-mira-apoio-de-kassab-e-de-prefeitos-do-psd-em-sao-paulo.shtml)_
 
+- **[2026-08-22 04:00 UTC]** Caí do sétimo andar, perdi a visão e parte da perna após uso de zolpidem, diz médico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cai-do-setimo-andar-perdi-a-visao-e-parte-da-perna-apos-uso-de-zolpidem-diz-medico.shtml)_
+
