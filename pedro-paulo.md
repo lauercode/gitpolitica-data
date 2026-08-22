@@ -119,3 +119,6 @@
 - **[2026-08-22 12:30 UTC]** Estiagem reduz navegabilidade de rios na amazônia, e donos de navios aplicam sobretaxa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/estiagem-reduz-navegabilidade-de-rios-na-amazonia-e-donos-de-navios-aplicam-sobretaxa.shtml)_
 
+- **[2026-08-22 12:00 UTC]** Nova loja de cookies artesanais, Cuki forma filas na galeria Nova Barão, em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/guloseimas/2026/08/nova-loja-de-cookies-artesanais-cuki-forma-filas-na-galeria-nova-barao-em-sao-paulo.shtml)_
+
