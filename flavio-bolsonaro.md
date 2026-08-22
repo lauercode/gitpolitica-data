@@ -62,3 +62,6 @@
 - **[2026-08-21 23:46 UTC]** Entrevistas com os candidatos a presidente: Romeu Zema (Novo)
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/zema-entrevista-candidatos-presidente.ghtml)_
 
+- **[2026-08-21 23:45 UTC]** Entrevistas com os candidatos a presidente: Flávio Bolsonaro (PL)
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente.ghtml)_
+
