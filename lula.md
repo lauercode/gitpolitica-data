@@ -137,3 +137,6 @@
 - **[2026-08-21 01:10 UTC]** Mensagens revelam que Lulinha e Roberta Luchsinger mantinham núcleo de atuação e projetavam ganhos milionários com o poder público
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/20/mensagens-revelam-que-lulinha-e-roberta-luchsinger-mantinham-nucleo-de-atuacao-com-projecao-de-ganhos-milionarios-com-o-poder-publico.ghtml)_
 
+- **[2026-08-20 22:41 UTC]** Caiado defende ampliar prerrogativa dos governadores na segurança pública: 'legislar em alguns crimes'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/ronaldo-caiado-ampliar-prerrogativa-estados-seguranca-publica.ghtml)_
+
