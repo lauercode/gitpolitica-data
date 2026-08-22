@@ -23,3 +23,6 @@
 - **[2026-08-21 21:38 UTC]** Datafolha - 2º turno: Lula, 47%; Flávio Bolsonaro, 43%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-segundo-turno-21-agosto.ghtml)_
 
+- **[2026-08-21 20:37 UTC]** É #FAKE que PF descobriu 'fábrica de fake news' criada para beneficiar Flávio Bolsonaro; foto foi feita com inteligência artificial
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-pf-descobriu-fabrica-de-fake-news-criada-para-beneficiar-flavio-bolsonaro-foto-foi-feita-com-inteligencia-artificial.ghtml)_
+
