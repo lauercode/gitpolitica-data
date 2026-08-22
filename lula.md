@@ -275,3 +275,6 @@
 - **[2026-08-22 18:30 UTC]** Datafolha: Flávio tem 47%, e Lula, 42% em SP no 2º turno; MG marca empate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-flavio-tem-47-e-lula-42-em-sp-no-2o-turno-mg-marca-empate.shtml)_
 
+- **[2026-08-22 21:41 UTC]** Datafolha em PE: Lula, 56%; Flávio Bolsonaro, 24%; Caiado; 2%; Renan; 2%; Zema, 1%; Cury, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/22/datafolha-pe-presidente-agostoghtml.ghtml)_
+
