@@ -17,3 +17,6 @@
 - **[2026-08-21 00:15 UTC]** Haddad defende tornozeleira eletrônica para agressores de mulheres e diz que eles devem arcar com custo
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/haddad-defende-tornozeleira-eletronica-para-agressores-de-mulheres-e-diz-que-eles-devem-arcar-com-custo.ghtml)_
 
+- **[2026-08-20 23:10 UTC]** Mendonça manda remover vídeo com deepfake de Flávio Bolsonaro ao lado de Daniel Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/20/mendonca-manda-remover-video-com-deepfake-de-flavio-bolsonaro-ao-lado-de-daniel-vorcaro.ghtml)_
+
