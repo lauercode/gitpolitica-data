@@ -14,3 +14,6 @@
 - **[2026-08-20 11:34 UTC]** Em nome da campanha de Lula, Durigan acena com ajuste gradual das contas públicas para reduzir taxa de juros
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/20/em-nome-de-lula-durigan-acena-com-ajuste-gradual-das-contas-publicas-para-reduzir-juros.ghtml)_
 
+- **[2026-08-22 04:00 UTC]** São Paulo deve ter temperaturas de 12°C a 22°C neste sábado (22)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/sao-paulo-deve-ter-temperaturas-de-12c-a-22c-neste-sabado-22.shtml)_
+
