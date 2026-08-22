@@ -92,3 +92,6 @@
 - **[2026-08-21 21:21 UTC]** Datafolha: Petistas falam em alívio com estabilidade de Lula, e equipe de Flávio vê insatisfação com governo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-petistas-falam-em-alivio-com-estabilidade-de-lula-e-equipe-de-flavio-ve-insatisfacao-com-governo.shtml)_
 
+- **[2026-08-21 21:00 UTC]** Datafolha: Popularidade de Lula derrapa e mantém disputa com Flávio equilibrada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-popularidade-de-lula-derrapa-e-mantem-disputa-com-flavio-equilibrada.shtml)_
+
