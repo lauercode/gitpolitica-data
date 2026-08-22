@@ -56,3 +56,6 @@
 - **[2026-08-21 19:22 UTC]** Haddad propõe criação de banco 'nos moldes do BNDES' para financiar reindustrialização de SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/haddad-propoe-criacao-de-banco-nos-moldes-do-bndes-para-financiar-reindustrializacao-de-sp.ghtml)_
 
+- **[2026-08-21 19:14 UTC]** STF deve retomar em setembro julgamento sobre mudança na Lei da Ficha Limpa que pode impactar campanhas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/stf-deve-retomar-em-setembro-julgamento-sobre-mudanca-na-lei-da-ficha-limpa-que-pode-impactar-campanhas.ghtml)_
+
