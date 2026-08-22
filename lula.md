@@ -260,3 +260,6 @@
 - **[2026-08-22 21:41 UTC]** Datafolha em PE: Lula, 56%; Flávio Bolsonaro, 24%; Ronaldo Caiado; 2%; Renan Santos; 2%; Zema, 1%; Augusto Cury, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/22/datafolha-pe-presidente-agostoghtml.ghtml)_
 
+- **[2026-08-22 21:38 UTC]** Datafolha no DF: Flávio Bolsonaro, 39%;  Lula, 31%; Ronaldo Caiado; 10%; Renan Santos; 3%; Zema, 2%; Augusto Cury, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/22/datafolha-flavio-bolsonaro-39percent-lula-31percent-ronaldo-caiado-10percent-renan-santos-3percent-zema-2percent-augusto-cury-1percent.ghtml)_
+
