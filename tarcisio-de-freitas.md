@@ -59,3 +59,6 @@
 - **[2026-08-20 13:02 UTC]** Manifestantes protestam contra Tarcísio durante agenda de Flávio Bolsonaro em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/protestam-contra-tarcisio-agenda-de-flavio-bolsonaro-em-sp.ghtml)_
 
+- **[2026-08-19 23:42 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Fernando Haddad ao 'Globo', 'Valor' e CBN
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/19/veja-o-que-e-fato-ou-fake-na-entrevista-de-fernando-haddad-ao-globo-valor-e-cbn.ghtml)_
+
