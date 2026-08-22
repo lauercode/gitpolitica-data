@@ -38,3 +38,6 @@
 - **[2026-08-21 21:38 UTC]** Datafolha - 2º turno: Lula, 47%; Flávio Bolsonaro, 43%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-segundo-turno-21-agosto.ghtml)_
 
+- **[2026-08-21 21:35 UTC]** Datafolha em PE: Raquel Lyra, 47%; João Campos, 40%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/21/datafolha-pe-governo-21-agosto.ghtml)_
+
