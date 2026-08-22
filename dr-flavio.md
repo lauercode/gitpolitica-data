@@ -98,3 +98,6 @@
 - **[2026-08-21 21:35 UTC]** Datafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-governador-21-agosto.ghtml)_
 
+- **[2026-08-21 21:15 UTC]** Em ligação com Lula, Trump quis saber sobre eleições no Brasil e ouviu que processo corre bem e de forma confiável
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/em-ligacao-com-lula-trump-quis-saber-sobre-eleicoes-no-brasil-e-ouviu-que-processo-corre-bem-e-de-forma-confiavel.ghtml)_
+
