@@ -47,3 +47,6 @@
 - **[2026-08-20 15:55 UTC]** Flávio Bolsonaro diz que já prestou contas sobre 'Dark Horse' e tenta colar caso Master a Lula
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/flavio-bolsonaro-campanha-sp-caso-master.ghtml)_
 
+- **[2026-08-20 15:23 UTC]** Tarcísio contraria Flávio Bolsonaro e defende urnas eletrônicas: 'foram elas que me elegeram'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/tarcisio-contraria-flavio-bolsonaro-e-defende-urnas-eletronicas-foram-elas-que-me-elegeram.ghtml)_
+
