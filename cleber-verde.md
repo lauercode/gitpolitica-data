@@ -17,3 +17,6 @@
 - **[2026-08-22 11:00 UTC]** Cores não estão na luz, mas na interpretação que o cérebro faz
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/cores-nao-estao-na-luz-mas-na-interpretacao-que-o-cerebro-faz.shtml)_
 
+- **[2026-08-22 04:00 UTC]** Saiba como usar 5 produtos de k-beauty virais, como o shot de retinal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/saiba-como-usar-5-produtos-de-k-beauty-virais-como-o-shot-de-retinal.shtml)_
+
