@@ -170,3 +170,6 @@
 - **[2026-08-20 12:20 UTC]** Caso Lulinha: o jogo de empurra sobre acesso de lobista ao governo e a preocupação com desgaste para a campanha de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/20/caso-lulinha-bastidores-governo-campanha-lula.ghtml)_
 
+- **[2026-08-20 11:34 UTC]** Em nome da campanha de Lula, Durigan acena com ajuste gradual das contas públicas para reduzir taxa de juros
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/20/em-nome-de-lula-durigan-acena-com-ajuste-gradual-das-contas-publicas-para-reduzir-juros.ghtml)_
+
