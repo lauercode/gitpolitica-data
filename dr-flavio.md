@@ -140,3 +140,6 @@
 - **[2026-08-20 15:23 UTC]** Tarcísio contraria Flávio Bolsonaro e defende urnas eletrônicas: 'foram elas que me elegeram'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/tarcisio-contraria-flavio-bolsonaro-e-defende-urnas-eletronicas-foram-elas-que-me-elegeram.ghtml)_
 
+- **[2026-08-20 13:02 UTC]** Manifestantes protestam contra Tarcísio durante agenda de Flávio Bolsonaro em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/protestam-contra-tarcisio-agenda-de-flavio-bolsonaro-em-sp.ghtml)_
+
