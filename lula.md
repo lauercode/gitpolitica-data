@@ -29,3 +29,6 @@
 - **[2026-08-22 09:18 UTC]** Veja a agenda dos candidatos à Presidência neste fim de semana
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-neste-fim-de-semana)_
 
+- **[2026-08-22 13:22 UTC]** Tarcísio diz que estará com Flávio Bolsonaro e lamenta possíveis ausências em debates presidenciais: 'Gostaria de vê-los'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/tarcisio-diz-que-estara-com-flavio-bolsonaro-e-lamenta-possiveis-ausencias-em-debates-presidenciais-gostaria-de-ve-los.ghtml)_
+
