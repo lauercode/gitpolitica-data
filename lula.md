@@ -32,3 +32,6 @@
 - **[2026-08-22 13:22 UTC]** Tarcísio diz que estará com Flávio Bolsonaro e lamenta possíveis ausências em debates presidenciais: 'Gostaria de vê-los'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/tarcisio-diz-que-estara-com-flavio-bolsonaro-e-lamenta-possiveis-ausencias-em-debates-presidenciais-gostaria-de-ve-los.ghtml)_
 
+- **[2026-08-22 03:01 UTC]** Disputas internas nos partidos: como o número do candidato na urna é escolhido?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/22/disputas-internas-nos-partidos-como-o-numero-do-candidato-na-urna-e-escolhido.ghtml)_
+
