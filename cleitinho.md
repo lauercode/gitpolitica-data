@@ -17,3 +17,6 @@
 - **[2026-08-21 22:26 UTC]** Datafolha em MG: 41% aprovam trabalho de Simões como governador, e 32% desaprovam
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-aprovacao-governo-mg-simoes.ghtml)_
 
+- **[2026-08-21 22:26 UTC]** Datafolha: 50% desaprovam governo Lula, e 47% aprovam
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-aprova-desaprova-governo-21-agosto.ghtml)_
+
