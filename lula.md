@@ -173,3 +173,6 @@
 - **[2026-08-20 11:34 UTC]** Em nome da campanha de Lula, Durigan acena com ajuste gradual das contas públicas para reduzir taxa de juros
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/20/em-nome-de-lula-durigan-acena-com-ajuste-gradual-das-contas-publicas-para-reduzir-juros.ghtml)_
 
+- **[2026-08-20 03:00 UTC]** Apesar de queda na fila no INSS, pessoas relatam espera de até 8 meses por resposta a pedido de benefício
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/20/apesar-de-queda-na-fila-no-inss-pessoas-relatam-espera-de-ate-8-meses-por-resposta-a-pedido-de-beneficio.ghtml)_
+
