@@ -26,3 +26,6 @@
 - **[2026-08-21 21:00 UTC]** Campanha de candidatos a deputado federal se concentra no Instagram
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299588-campanha-de-candidatos-a-deputado-federal-se-concentra-no-instagram)_
 
+- **[2026-08-22 09:18 UTC]** Veja a agenda dos candidatos à Presidência neste fim de semana
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-neste-fim-de-semana)_
+
