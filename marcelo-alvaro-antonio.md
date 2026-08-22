@@ -20,3 +20,6 @@
 - **[2026-08-20 12:29 UTC]** PGR pede que caso Lulinha deixe STF e seja encaminhado para primeira instância
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/20/pgr-pede-que-caso-lulinha-deixe-stf-e-va-pra-1a-instancia-diz-defesa.ghtml)_
 
+- **[2026-08-22 12:00 UTC]** Credencial de lobista era o nome de Lulinha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/credencial-de-lobista-era-o-nome-de-lulinha.shtml)_
+
