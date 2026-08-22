@@ -11,3 +11,6 @@
 - **[2026-08-22 16:00 UTC]** A Terra está passando por um período de maior atividade sísmica?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/a-terra-esta-passando-por-um-periodo-de-maior-atividade-sismica.shtml)_
 
+- **[2026-08-22 07:43 UTC]** Mortes por desnutrição caem 75% em terra yanomami na comparação com 2023
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/mortes-por-desnutricao-caem-75-em-terra-yanomami-na-comparacao-com-2023.shtml)_
+
