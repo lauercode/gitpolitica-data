@@ -209,3 +209,6 @@
 - **[2026-08-21 23:00 UTC]** Deputada dos EUA vê tentativa de Trump de interferir na eleição do Brasil e diz que democratas agirão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/deputada-dos-eua-ve-tentativa-de-trump-de-interferir-na-eleicao-do-brasil-e-diz-que-democratas-agirao.shtml)_
 
+- **[2026-08-21 22:00 UTC]** Presença de militares em cargos civis deveria acabar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/presenca-de-militares-em-cargos-civis-deveria-acabar.shtml)_
+
