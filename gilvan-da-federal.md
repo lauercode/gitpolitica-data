@@ -32,3 +32,6 @@
 - **[2026-08-22 17:36 UTC]** Em eventos de campanha no Rio, Lula defende prender criminosos, e Flávio fala em ‘guerra’ ao crime
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/22/em-campanha-simultanea-no-rio-lula-defende-prender-criminosos-e-flavio-fala-em-guerra-ao-crime.ghtml)_
 
+- **[2026-08-22 17:16 UTC]** De colete à prova de balas, Renan Santos vai a comunidade em SP e promete programa de R$ 1,5 trilhão contra favelização
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/de-colete-a-prova-de-balas-renan-santos-vai-a-comunidade-em-sp-e-promete-programa-de-r-15-trilhao-contra-favelizacao.ghtml)_
+
