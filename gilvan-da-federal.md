@@ -98,3 +98,6 @@
 - **[2026-08-22 12:31 UTC]** Justiça dos EUA derruba restrição de vistos de residência para 75 países, incluindo o Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/justica-dos-eua-derruba-restricao-de-vistos-de-residencia-para-75-paises-incluindo-o-brasil.shtml)_
 
+- **[2026-08-22 12:00 UTC]** Credencial de lobista era o nome de Lulinha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/credencial-de-lobista-era-o-nome-de-lulinha.shtml)_
+
