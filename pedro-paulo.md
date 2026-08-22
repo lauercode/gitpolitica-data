@@ -101,3 +101,6 @@
 - **[2026-08-21 12:40 UTC]** Datafolha divulga nesta sexta-feira primeira pesquisa da eleição presidencial após início da campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeira-pesquisa-presidencial-apos-inicio-da-campanha.ghtml)_
 
+- **[2026-08-22 18:30 UTC]** Datafolha: Flávio tem 47%, e Lula, 42% em SP no 2º turno; MG marca empate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-flavio-tem-47-e-lula-42-em-sp-no-2o-turno-mg-marca-empate.shtml)_
+
