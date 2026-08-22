@@ -164,3 +164,6 @@
 - **[2026-08-20 12:41 UTC]** Lula quer investigação sobre vazamentos de caso envolvendo filho, mas também defende depoimento rápido à PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/lula-quer-investigacao-sobre-vazamentos-de-caso-envolvendo-filho-mas-tambem-defende-depoimento-rapido-a-pf.ghtml)_
 
+- **[2026-08-20 12:29 UTC]** PGR pede que caso Lulinha deixe STF e seja encaminhado para primeira instância
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/20/pgr-pede-que-caso-lulinha-deixe-stf-e-va-pra-1a-instancia-diz-defesa.ghtml)_
+
