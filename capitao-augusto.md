@@ -68,3 +68,6 @@
 - **[2026-08-21 12:40 UTC]** Datafolha divulga nesta sexta-feira primeira pesquisa da eleição presidencial após início da campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeira-pesquisa-presidencial-apos-inicio-da-campanha.ghtml)_
 
+- **[2026-08-20 15:55 UTC]** Flávio Bolsonaro diz que já prestou contas sobre 'Dark Horse' e tenta colar caso Master a Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/flavio-bolsonaro-campanha-sp-caso-master.ghtml)_
+
