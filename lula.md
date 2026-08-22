@@ -257,3 +257,6 @@
 - **[2026-08-22 16:28 UTC]** No RJ, Lula diz que, se reeleito, vai retirar facções e devolver território sem 'matar 100, 200'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/no-rj-lula-diz-que-se-reeleito-vai-retirar-faccoes-e-devolver-territorio-ao-povo.ghtml)_
 
+- **[2026-08-22 21:41 UTC]** Datafolha em PE: Lula, 56%; Flávio Bolsonaro, 24%; Ronaldo Caiado; 2%; Renan Santos; 2%; Zema, 1%; Augusto Cury, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/22/datafolha-pe-presidente-agostoghtml.ghtml)_
+
