@@ -68,3 +68,6 @@
 - **[2026-08-20 22:41 UTC]** Caiado defende ampliar prerrogativa dos governadores na segurança pública: 'legislar em alguns crimes'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/ronaldo-caiado-ampliar-prerrogativa-estados-seguranca-publica.ghtml)_
 
+- **[2026-08-20 19:35 UTC]** Salles se descreve como liberal na economia, conservador nos costumes e diz que 8 de janeiro 'foi uma baderna'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/salles-se-descreve-como-liberal-na-economia-conservador-nos-costumes-e-diz-que-8-de-janeiro-foi-uma-baderna.ghtml)_
+
