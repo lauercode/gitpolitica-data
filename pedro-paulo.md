@@ -107,3 +107,6 @@
 - **[2026-08-22 16:56 UTC]** Alta procura marca o Dia D de Multivacinação em postos de saúde de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/alta-procura-marca-o-dia-d-de-multivacinacao-em-postos-de-saude-de-sao-paulo.shtml)_
 
+- **[2026-08-22 15:30 UTC]** Valentina Herszage vive enfermeira em série: 'Não teria sangue frio para ser uma'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/valentina-herszage-vive-enfermeira-em-serie-nao-teria-sangue-frio-para-ser-uma.shtml)_
+
