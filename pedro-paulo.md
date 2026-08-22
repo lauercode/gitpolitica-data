@@ -80,3 +80,6 @@
 - **[2026-08-21 21:38 UTC]** Datafolha - 2º turno: Lula, 47%; Flávio Bolsonaro, 43%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-segundo-turno-21-agosto.ghtml)_
 
+- **[2026-08-21 21:35 UTC]** Datafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-governador-21-agosto.ghtml)_
+
