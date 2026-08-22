@@ -50,3 +50,6 @@
 - **[2026-08-20 15:23 UTC]** Tarcísio contraria Flávio Bolsonaro e defende urnas eletrônicas: 'foram elas que me elegeram'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/tarcisio-contraria-flavio-bolsonaro-e-defende-urnas-eletronicas-foram-elas-que-me-elegeram.ghtml)_
 
+- **[2026-08-20 12:41 UTC]** Lula quer investigação sobre vazamentos de caso envolvendo filho, mas também defende depoimento rápido à PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/lula-quer-investigacao-sobre-vazamentos-de-caso-envolvendo-filho-mas-tambem-defende-depoimento-rapido-a-pf.ghtml)_
+
