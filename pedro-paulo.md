@@ -95,3 +95,6 @@
 - **[2026-08-21 20:45 UTC]** Caso Master: PF identifica a participação de mais diretores do BRB em supostas irregularidades e pede a prorrogação de inquérito
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/caso-master-pf-identifica-a-participacao-de-mais-diretores-do-brb-em-supostas-irregularidades-e-pede-a-prorrogacao-de-inquerito.ghtml)_
 
+- **[2026-08-21 14:14 UTC]** PF aponta que atuação de Lulinha e lobistas pode ter 'extrapolado limites éticos e legais' junto ao poder público
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/pf-aponta-que-atuacao-de-lulinha-e-lobistas-pode-ter-extrapolado-limites-eticos-e-legais-junto-ao-poder-publico.ghtml)_
+
