@@ -44,3 +44,6 @@
 - **[2026-08-21 13:17 UTC]** Brasil tem candidatos nascidos na China, Bolívia, Síria e mais países nestas eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/brasil-candidatos-estrangeiros-2026-tse.ghtml)_
 
+- **[2026-08-21 03:01 UTC]** Eleições 2026: número de candidaturas a deputado federal cai 28% em relação a 2022
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/eleicoes-2026-numero-de-candidaturas-a-deputado-federal-cai.ghtml)_
+
