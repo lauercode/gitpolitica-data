@@ -62,3 +62,6 @@
 - **[2026-08-21 22:26 UTC]** Datafolha: 50% desaprovam governo Lula, e 47% aprovam
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-aprova-desaprova-governo-21-agosto.ghtml)_
 
+- **[2026-08-21 22:13 UTC]** Datafolha no DF, Senado: Michelle, 19%; Leila, 16%; Erika, 12%; Bia, 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/21/datafolha-df-senador-21-agosto.ghtml)_
+
