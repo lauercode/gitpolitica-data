@@ -35,3 +35,6 @@
 - **[2026-08-22 21:38 UTC]** Datafolha em SP: Flávio Bolsonaro, 37%; Lula, 33%; Renan, 5%; Caiado, 4%; Zema, 3%; Cury, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/datafolha-flavio-bolsonaro-tem-37percent-e-lula-33percent-entre-eleitores-de-sp-no-1o-turno.ghtml)_
 
+- **[2026-08-22 21:33 UTC]** Datafolha em MG: Lula, 37%; Flávio Bolsonaro, 31%; Zema, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/22/datafolha-mg-presidente-agosto.ghtml)_
+
