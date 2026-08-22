@@ -26,3 +26,6 @@
 - **[2026-08-20 13:56 UTC]** Após reportagem do g1, candidato com mandado de prisão renuncia; outros dizem ter quitado dívidas de pensão
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/candidatos-mandato-prisao-renuncia-pagamento.ghtml)_
 
+- **[2026-08-20 12:48 UTC]** Como o g1 identificou 9 candidatos com mandados de prisão em aberto
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/como-o-g1-identificou-9-candidatos-com-mandados-de-prisao-em-aberto.ghtml)_
+
