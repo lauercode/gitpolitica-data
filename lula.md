@@ -131,3 +131,6 @@
 - **[2026-08-21 10:33 UTC]** 'Game of Thrones' no STF, caso Lulinha e Master atravessam a eleição de 2026
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/21/game-of-thrones-no-stf-caso-lulinha-e-master-atravessam-a-eleicao-de-2026.ghtml)_
 
+- **[2026-08-21 03:40 UTC]** Lulinha e Marcola nas investigações da PF - O Assunto #1788
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/08/21/lulinha-e-marcola-nas-investigacoes-da-pf-o-assunto-1788.ghtml)_
+
