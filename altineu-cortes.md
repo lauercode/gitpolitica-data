@@ -26,3 +26,6 @@
 - **[2026-08-20 12:29 UTC]** PGR pede que caso Lulinha deixe STF e seja encaminhado para primeira instância
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/20/pgr-pede-que-caso-lulinha-deixe-stf-e-va-pra-1a-instancia-diz-defesa.ghtml)_
 
+- **[2026-08-22 11:00 UTC]** Cores não estão na luz, mas na interpretação que o cérebro faz
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/cores-nao-estao-na-luz-mas-na-interpretacao-que-o-cerebro-faz.shtml)_
+
