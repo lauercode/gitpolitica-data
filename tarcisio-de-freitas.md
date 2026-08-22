@@ -38,3 +38,6 @@
 - **[2026-08-21 19:22 UTC]** Haddad propõe criação de banco 'nos moldes do BNDES' para financiar reindustrialização de SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/haddad-propoe-criacao-de-banco-nos-moldes-do-bndes-para-financiar-reindustrializacao-de-sp.ghtml)_
 
+- **[2026-08-21 00:28 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Tarcísio de Freitas ao 'Globo', 'Valor' e CBN
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/20/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-tarcisio-de-freitas-ao-globo-valor-e-cbn.ghtml)_
+
