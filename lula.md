@@ -155,3 +155,6 @@
 - **[2026-08-20 15:23 UTC]** Tarcísio contraria Flávio Bolsonaro e defende urnas eletrônicas: 'foram elas que me elegeram'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/tarcisio-contraria-flavio-bolsonaro-e-defende-urnas-eletronicas-foram-elas-que-me-elegeram.ghtml)_
 
+- **[2026-08-20 13:59 UTC]** Articulador político de Lula vai pedir a Alcolumbre para acelerar tramitação de PECs
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/articulador-politico-de-lula-vai-pedir-a-alcolumbre-para-acelerar-tramitacao-de-pecs.ghtml)_
+
