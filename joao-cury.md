@@ -41,3 +41,6 @@
 - **[2026-08-21 23:43 UTC]** Entrevistas com os candidatos a presidente: Augusto Cury (Avante)
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/augusto-cury-entrevista-candidatos-presidente.ghtml)_
 
+- **[2026-08-21 21:38 UTC]** Datafolha - 1º turno: Lula, 39%; Flávio, 33%; Caiado, 5%; Renan, 4%; Zema, 3%; Cury, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml)_
+
