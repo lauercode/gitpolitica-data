@@ -71,3 +71,6 @@
 - **[2026-08-21 23:44 UTC]** Entrevistas com os candidatos a presidente: Renan Santos (Missão)
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/renan-santos-entrevista-candidatos-presidente.ghtml)_
 
+- **[2026-08-21 23:44 UTC]** Entrevistas com os candidatos a presidente: Ronaldo Caiado (PSD)
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/ronaldo-caiado-entrevista-candidatos-presidente.ghtml)_
+
