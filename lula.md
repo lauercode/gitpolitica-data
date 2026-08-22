@@ -50,3 +50,6 @@
 - **[2026-08-22 00:32 UTC]** Lula diz que sugeriu a Trump reunir Xi e Putin em seu resort na Flórida para buscar saída para conflitos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/lula-diz-que-sugeriu-a-trump-reunir-xi-e-putin-em-seu-resort-na-florida-para-buscar-saida-para-conflitos.ghtml)_
 
+- **[2026-08-21 23:46 UTC]** Entrevistas com os candidatos a presidente: Romeu Zema (Novo)
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/zema-entrevista-candidatos-presidente.ghtml)_
+
