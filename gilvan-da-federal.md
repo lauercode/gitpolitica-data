@@ -89,3 +89,6 @@
 - **[2026-08-22 18:30 UTC]** Datafolha: Avaliação positiva de Lula vai de 46% em PE a 27% em SP, RJ e DF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-avaliacao-positiva-de-lula-vai-de-46-em-pe-a-27-em-sp-rj-e-df.shtml)_
 
+- **[2026-08-22 16:23 UTC]** Morre veterinária atacada por cão do Senado em Brasília
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/morre-veterinaria-atacada-por-cao-do-senado-em-brasilia.shtml)_
+
