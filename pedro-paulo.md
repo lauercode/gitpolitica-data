@@ -92,3 +92,6 @@
 - **[2026-08-21 21:32 UTC]** Datafolha em SP: Tarcísio, 45%; Haddad, 27%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/datafolha-sp-governador-21-agosto.ghtml)_
 
+- **[2026-08-21 20:45 UTC]** Caso Master: PF identifica a participação de mais diretores do BRB em supostas irregularidades e pede a prorrogação de inquérito
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/caso-master-pf-identifica-a-participacao-de-mais-diretores-do-brb-em-supostas-irregularidades-e-pede-a-prorrogacao-de-inquerito.ghtml)_
+
