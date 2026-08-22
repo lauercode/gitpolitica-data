@@ -227,3 +227,6 @@
 - **[2026-08-21 20:00 UTC]** Margareth Menezes, ao ignorar Festa de Barretos, desdenha do país sertanejo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/08/margareth-menezes-ao-ignorar-festa-de-barretos-desdenha-do-pais-sertanejo.shtml)_
 
+- **[2026-08-21 19:42 UTC]** Venezuela concede aval a novo embaixador do Brasil em Caracas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/venezuela-concede-aval-a-novo-embaixador-do-brasil-em-caracas.shtml)_
+
