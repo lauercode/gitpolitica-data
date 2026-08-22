@@ -212,3 +212,6 @@
 - **[2026-08-21 22:00 UTC]** Presença de militares em cargos civis deveria acabar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/presenca-de-militares-em-cargos-civis-deveria-acabar.shtml)_
 
+- **[2026-08-21 21:46 UTC]** Em Minas, Lula diz que adversários mentem e chama Zema de 'comedor de banana com casca'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/em-minas-lula-diz-que-adversarios-mentem-e-chama-zema-de-comedor-de-banana-com-casca.shtml)_
+
