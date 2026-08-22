@@ -176,3 +176,6 @@
 - **[2026-08-20 03:00 UTC]** Apesar de queda na fila no INSS, pessoas relatam espera de até 8 meses por resposta a pedido de benefício
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/20/apesar-de-queda-na-fila-no-inss-pessoas-relatam-espera-de-ate-8-meses-por-resposta-a-pedido-de-beneficio.ghtml)_
 
+- **[2026-08-20 03:00 UTC]** Escolas em tempo integral, prontuário eletrônico no SUS e ferrovias: veja propostas em que há convergência de Lula, Flávio Bolsonaro e outros 4 candidatos a presidente
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/propostas-em-comum-candidatos-presidente.ghtml)_
+
