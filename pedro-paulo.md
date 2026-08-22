@@ -122,3 +122,6 @@
 - **[2026-08-22 12:00 UTC]** Nova loja de cookies artesanais, Cuki forma filas na galeria Nova Barão, em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/guloseimas/2026/08/nova-loja-de-cookies-artesanais-cuki-forma-filas-na-galeria-nova-barao-em-sao-paulo.shtml)_
 
+- **[2026-08-22 06:00 UTC]** Campanha de Tebet mira apoio de Kassab e de prefeitos do PSD em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-tebet-mira-apoio-de-kassab-e-de-prefeitos-do-psd-em-sao-paulo.shtml)_
+
