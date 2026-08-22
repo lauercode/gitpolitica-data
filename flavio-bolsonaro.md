@@ -107,3 +107,6 @@
 - **[2026-08-21 14:51 UTC]** Passados 30 dias de ordem de Moraes, defesa de Bolsonaro diz ao STF que retomará agendamento de visitas sem cunho eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/passados-30-dias-de-ordem-de-moraes-defesa-informa-ao-stf-que-vai-retomar-agendamento-de-visitas-gerais-a-bolsonaro.ghtml)_
 
+- **[2026-08-21 14:32 UTC]** 'Quem são os candidatos': g1 lança ferramenta com dados do TSE e páginas para todos os candidatos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/quem-sao-os-candidatos-nova-ferramenta-g1.ghtml)_
+
