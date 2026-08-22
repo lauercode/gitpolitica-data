@@ -17,3 +17,6 @@
 - **[2026-08-20 11:48 UTC]** MP impugna candidatura de Arruda ao governo do DF; Justiça Eleitoral vai analisar
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/20/mp-impugna-candidatura-de-arruda-ao-governo-do-df-justica-eleitoral-vai-analisar.ghtml)_
 
+- **[2026-08-22 13:00 UTC]** Como entender a inteligência artificial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/08/como-entender-a-inteligencia-artificial.shtml)_
+
