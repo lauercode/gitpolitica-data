@@ -113,3 +113,6 @@
 - **[2026-08-21 13:49 UTC]** TSE define tempo de TV dos candidatos a presidente; veja o tempo de cada um
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/tse-define-tempo-de-tv-dos-candidatos-a-presidente-veja-o-tempo-de-cada-um.ghtml)_
 
+- **[2026-08-21 13:47 UTC]** Mendonça manda PF investigar suspeita de novos vazamentos em caso de Lulinha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/mendonca-determina-investigacao-sobre-suspeita-de-novos-vazamentos-em-investigacao-do-lulinha.ghtml)_
+
