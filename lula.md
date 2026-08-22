@@ -197,3 +197,6 @@
 - **[2026-08-22 00:21 UTC]** Datafolha: Lula lidera entre mulheres e mais pobres, e Flávio Bolsonaro, entre evangélicos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-lula-lidera-entre-mulheres-e-mais-pobres-e-flavio-bolsonaro-entre-evangelicos.shtml)_
 
+- **[2026-08-21 23:03 UTC]** Lula diz que sugeriu a Trump encontro com Xi e Putin em resort na Flórida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/lula-diz-que-sugeriu-a-trump-encontro-com-xi-e-putin-em-resort-na-florida.shtml)_
+
