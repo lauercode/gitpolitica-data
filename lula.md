@@ -233,3 +233,6 @@
 - **[2026-08-21 19:38 UTC]** Governo Lula diz que dispensa de exigências em empréstimo do BRB não elimina risco da operação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-lula-diz-que-dispensa-de-exigencias-em-emprestimo-do-brb-nao-elimina-risco-da-operacao.shtml)_
 
+- **[2026-08-22 12:07 UTC]** Direita se organiza, e centro ganha terreno no Nordeste sem confrontar Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/direita-se-organiza-e-centro-ganha-terreno-no-nordeste-sem-confrontar-lula.shtml)_
+
