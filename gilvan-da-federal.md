@@ -83,3 +83,6 @@
 - **[2026-08-20 12:29 UTC]** PGR pede que caso Lulinha deixe STF e seja encaminhado para primeira instância
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/20/pgr-pede-que-caso-lulinha-deixe-stf-e-va-pra-1a-instancia-diz-defesa.ghtml)_
 
+- **[2026-08-20 12:20 UTC]** Caso Lulinha: o jogo de empurra sobre acesso de lobista ao governo e a preocupação com desgaste para a campanha de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/20/caso-lulinha-bastidores-governo-campanha-lula.ghtml)_
+
