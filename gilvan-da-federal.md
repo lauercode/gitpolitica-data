@@ -101,3 +101,6 @@
 - **[2026-08-22 12:00 UTC]** Credencial de lobista era o nome de Lulinha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/credencial-de-lobista-era-o-nome-de-lulinha.shtml)_
 
+- **[2026-08-22 21:38 UTC]** Datafolha no DF: Flávio Bolsonaro, 39%; Lula, 31%; Caiado; 10%; Renan, 3%; Zema, 2%; Cury, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/22/datafolha-flavio-bolsonaro-39percent-lula-31percent-ronaldo-caiado-10percent-renan-santos-3percent-zema-2percent-augusto-cury-1percent.ghtml)_
+
