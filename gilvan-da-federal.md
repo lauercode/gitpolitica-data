@@ -23,3 +23,6 @@
 - **[2026-08-19 12:57 UTC]** Eleições de 2026 registram recorde de candidaturas indígenas
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/eleicoes-de-2026-registram-recorde-de-candidaturas-indigenas)_
 
+- **[2026-08-21 21:00 UTC]** Campanha de candidatos a deputado federal se concentra no Instagram
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299588-campanha-de-candidatos-a-deputado-federal-se-concentra-no-instagram)_
+
