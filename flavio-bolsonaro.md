@@ -98,3 +98,6 @@
 - **[2026-08-21 20:37 UTC]** É #FAKE que PF descobriu 'fábrica de fake news' criada para beneficiar Flávio Bolsonaro; foto foi feita com inteligência artificial
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-pf-descobriu-fabrica-de-fake-news-criada-para-beneficiar-flavio-bolsonaro-foto-foi-feita-com-inteligencia-artificial.ghtml)_
 
+- **[2026-08-21 19:22 UTC]** Haddad propõe criação de banco 'nos moldes do BNDES' para financiar reindustrialização de SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/haddad-propoe-criacao-de-banco-nos-moldes-do-bndes-para-financiar-reindustrializacao-de-sp.ghtml)_
+
