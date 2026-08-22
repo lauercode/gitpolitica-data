@@ -113,3 +113,6 @@
 - **[2026-08-22 14:43 UTC]** Ex-chefe de gabinete de Lula pediu quadro que lobista disse custar ? 100 mil, diz jornal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/ex-chefe-de-gabinete-de-lula-pediu-quadro-que-lobista-disse-custar-eur-100-mil-diz-jornal.shtml)_
 
+- **[2026-08-22 13:00 UTC]** Centro de São Paulo terá museu ao ar livre com trilhos históricos da Light
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/centro-de-sao-paulo-tera-museu-ao-ar-livre-com-trilhos-historicos-da-light.shtml)_
+
