@@ -116,3 +116,6 @@
 - **[2026-08-21 14:14 UTC]** PF aponta que atuação de Lulinha e lobistas pode ter 'extrapolado limites éticos e legais' junto ao poder público
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/pf-aponta-que-atuacao-de-lulinha-e-lobistas-pode-ter-extrapolado-limites-eticos-e-legais-junto-ao-poder-publico.ghtml)_
 
+- **[2026-08-21 13:49 UTC]** TSE define tempo de TV dos candidatos a presidente; veja o tempo de cada um
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/tse-define-tempo-de-tv-dos-candidatos-a-presidente-veja-o-tempo-de-cada-um.ghtml)_
+
