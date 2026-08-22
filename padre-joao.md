@@ -53,3 +53,6 @@
 - **[2026-08-22 15:00 UTC]** Prem Baba foca CEOs e cita 'lavanderia cármica' após acusações de abuso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/prem-baba-foca-ceos-e-cita-lavanderia-carmica-apos-acusacoes-de-abuso.shtml)_
 
+- **[2026-08-22 12:07 UTC]** Direita se organiza, e centro ganha terreno no Nordeste sem confrontar Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/direita-se-organiza-e-centro-ganha-terreno-no-nordeste-sem-confrontar-lula.shtml)_
+
