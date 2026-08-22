@@ -77,3 +77,6 @@
 - **[2026-08-22 06:00 UTC]** Trump não consegue dominar a linguagem da política brasileira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/trump-nao-consegue-dominar-a-linguagem-da-politica-brasileira.shtml)_
 
+- **[2026-08-22 00:21 UTC]** Datafolha: Lula lidera entre mulheres e mais pobres, e Flávio Bolsonaro, entre evangélicos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-lula-lidera-entre-mulheres-e-mais-pobres-e-flavio-bolsonaro-entre-evangelicos.shtml)_
+
