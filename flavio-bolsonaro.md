@@ -92,3 +92,6 @@
 - **[2026-08-21 21:38 UTC]** Datafolha - 2º turno: Lula, 47%; Flávio Bolsonaro, 43%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-segundo-turno-21-agosto.ghtml)_
 
+- **[2026-08-21 21:15 UTC]** Em ligação com Lula, Trump quis saber sobre eleições no Brasil e ouviu que processo corre bem e de forma confiável
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/em-ligacao-com-lula-trump-quis-saber-sobre-eleicoes-no-brasil-e-ouviu-que-processo-corre-bem-e-de-forma-confiavel.ghtml)_
+
