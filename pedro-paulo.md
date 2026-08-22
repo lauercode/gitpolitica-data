@@ -98,3 +98,6 @@
 - **[2026-08-21 14:14 UTC]** PF aponta que atuação de Lulinha e lobistas pode ter 'extrapolado limites éticos e legais' junto ao poder público
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/pf-aponta-que-atuacao-de-lulinha-e-lobistas-pode-ter-extrapolado-limites-eticos-e-legais-junto-ao-poder-publico.ghtml)_
 
+- **[2026-08-21 12:40 UTC]** Datafolha divulga nesta sexta-feira primeira pesquisa da eleição presidencial após início da campanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeira-pesquisa-presidencial-apos-inicio-da-campanha.ghtml)_
+
