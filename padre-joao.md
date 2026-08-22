@@ -11,3 +11,6 @@
 - **[2026-08-20 09:19 UTC]** Confira a agenda dos candidatos à Presidência nesta quinta-feira
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-quinta-feira)_
 
+- **[2026-08-19 20:21 UTC]** Confira como foi a quarta-feira dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-quarta-feira-dos-candidatos-presidente)_
+
