@@ -230,3 +230,6 @@
 - **[2026-08-21 19:42 UTC]** Venezuela concede aval a novo embaixador do Brasil em Caracas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/venezuela-concede-aval-a-novo-embaixador-do-brasil-em-caracas.shtml)_
 
+- **[2026-08-21 19:38 UTC]** Governo Lula diz que dispensa de exigências em empréstimo do BRB não elimina risco da operação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-lula-diz-que-dispensa-de-exigencias-em-emprestimo-do-brb-nao-elimina-risco-da-operacao.shtml)_
+
