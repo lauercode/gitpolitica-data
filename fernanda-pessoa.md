@@ -23,3 +23,6 @@
 - **[2026-08-20 20:40 UTC]** Haddad diz que impeachment de ministro do STF exige cautela e não pode ser usado por 'conveniência política'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/haddad-diz-que-impeachment-de-ministro-do-stf-exige-cautela-e-nao-pode-ser-usado-por-conveniencia-politica.ghtml)_
 
+- **[2026-08-20 13:56 UTC]** Após reportagem do g1, candidato com mandado de prisão renuncia; outros dizem ter quitado dívidas de pensão
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/candidatos-mandato-prisao-renuncia-pagamento.ghtml)_
+
