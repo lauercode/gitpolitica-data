@@ -26,3 +26,6 @@
 - **[2026-08-22 09:18 UTC]** Veja a agenda dos candidatos à Presidência neste fim de semana
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-neste-fim-de-semana)_
 
+- **[2026-08-22 21:33 UTC]** Datafolha em MG: Lula, 37%; Flávio Bolsonaro, 31%; Zema, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/22/datafolha-mg-presidente-agosto.ghtml)_
+
