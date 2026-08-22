@@ -53,3 +53,6 @@
 - **[2026-08-20 12:41 UTC]** Lula quer investigação sobre vazamentos de caso envolvendo filho, mas também defende depoimento rápido à PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/lula-quer-investigacao-sobre-vazamentos-de-caso-envolvendo-filho-mas-tambem-defende-depoimento-rapido-a-pf.ghtml)_
 
+- **[2026-08-20 08:43 UTC]** Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/por-que-impacto-da-ia-em-eleicoes-pode-estar-sendo-exagerado-segundo-pesquisador-de-oxford.ghtml)_
+
