@@ -269,3 +269,6 @@
 - **[2026-08-22 21:33 UTC]** Datafolha em MG: Lula, 37%; Flávio Bolsonaro, 31%; Zema, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/22/datafolha-mg-presidente-agosto.ghtml)_
 
+- **[2026-08-22 18:30 UTC]** Datafolha: Avaliação positiva de Lula vai de 46% em PE a 27% em SP, RJ e DF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-avaliacao-positiva-de-lula-vai-de-46-em-pe-a-27-em-sp-rj-e-df.shtml)_
+
