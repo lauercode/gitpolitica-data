@@ -284,3 +284,6 @@
 - **[2026-08-22 21:38 UTC]** Datafolha em SP: Flávio Bolsonaro, 37%; Lula, 33%; Renan, 5%; Caiado, 4%; Zema, 3%; Cury, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/datafolha-flavio-bolsonaro-tem-37percent-e-lula-33percent-entre-eleitores-de-sp-no-1o-turno.ghtml)_
 
+- **[2026-08-21 21:38 UTC]** Datafolha - 1º turno: Lula, 39%; Flávio, 33%; Caiado, 5%; Renan, 4%; Zema, 3%; Cury, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml)_
+
