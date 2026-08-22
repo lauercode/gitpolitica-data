@@ -122,3 +122,6 @@
 - **[2026-08-21 12:40 UTC]** Datafolha divulga nesta sexta-feira primeira pesquisa da eleição presidencial após início da campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeira-pesquisa-presidencial-apos-inicio-da-campanha.ghtml)_
 
+- **[2026-08-21 03:00 UTC]** Etiqueta de dinheiro, bilhete e foto de carro: autor de homicídio no Maranhão entregou à PF supostas provas contra políticos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/etiqueta-de-dinheiro-bilhete-e-foto-de-carro-autor-de-homicidio-no-maranhao-entregou-a-pf-supostas-provas-contra-politicos.ghtml)_
+
