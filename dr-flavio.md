@@ -101,3 +101,6 @@
 - **[2026-08-21 21:15 UTC]** Em ligação com Lula, Trump quis saber sobre eleições no Brasil e ouviu que processo corre bem e de forma confiável
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/em-ligacao-com-lula-trump-quis-saber-sobre-eleicoes-no-brasil-e-ouviu-que-processo-corre-bem-e-de-forma-confiavel.ghtml)_
 
+- **[2026-08-21 20:37 UTC]** É #FAKE que PF descobriu 'fábrica de fake news' criada para beneficiar Flávio Bolsonaro; foto foi feita com inteligência artificial
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-pf-descobriu-fabrica-de-fake-news-criada-para-beneficiar-flavio-bolsonaro-foto-foi-feita-com-inteligencia-artificial.ghtml)_
+
