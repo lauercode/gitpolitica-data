@@ -251,3 +251,6 @@
 - **[2026-08-22 13:57 UTC]** Lula promete resolver segurança sem pirotecnia e pede a Paes para continuar limpeza de interino no RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-promete-resolver-seguranca-sem-pirotecnia-e-diz-que-paes-vai-continuar-limpeza-de-interino-no-rj.shtml)_
 
+- **[2026-08-22 17:36 UTC]** Em eventos de campanha no Rio, Lula defende prender criminosos, e Flávio fala em ‘guerra’ ao crime
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/22/em-campanha-simultanea-no-rio-lula-defende-prender-criminosos-e-flavio-fala-em-guerra-ao-crime.ghtml)_
+
