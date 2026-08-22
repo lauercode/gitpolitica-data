@@ -17,3 +17,6 @@
 - **[2026-08-20 13:56 UTC]** Após reportagem do g1, candidato com mandado de prisão renuncia; outros dizem ter quitado dívidas de pensão
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/candidatos-mandato-prisao-renuncia-pagamento.ghtml)_
 
+- **[2026-08-20 12:29 UTC]** PGR pede que caso Lulinha deixe STF e seja encaminhado para primeira instância
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/20/pgr-pede-que-caso-lulinha-deixe-stf-e-va-pra-1a-instancia-diz-defesa.ghtml)_
+
