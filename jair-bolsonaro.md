@@ -107,3 +107,6 @@
 - **[2026-08-22 21:33 UTC]** Datafolha em MG: Lula, 37%; Flávio Bolsonaro, 31%; Zema, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/22/datafolha-mg-presidente-agosto.ghtml)_
 
+- **[2026-08-22 18:30 UTC]** Datafolha: Flávio tem 47%, e Lula, 42% em SP no 2º turno; MG marca empate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-flavio-tem-47-e-lula-42-em-sp-no-2o-turno-mg-marca-empate.shtml)_
+
