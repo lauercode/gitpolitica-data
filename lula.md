@@ -140,3 +140,6 @@
 - **[2026-08-20 22:41 UTC]** Caiado defende ampliar prerrogativa dos governadores na segurança pública: 'legislar em alguns crimes'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/ronaldo-caiado-ampliar-prerrogativa-estados-seguranca-publica.ghtml)_
 
+- **[2026-08-20 22:30 UTC]** Lulinha: PGR diz que PF não identificou conclusão de nenhum negócio do Careca do INSS com o governo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/20/lulinha-pgr-diz-que-pf-nao-identificou-conclusao-de-nenhum-negocio-do-careca-do-inss-com-o-governo.ghtml)_
+
