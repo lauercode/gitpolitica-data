@@ -29,3 +29,6 @@
 - **[2026-08-20 12:48 UTC]** Como o g1 identificou 9 candidatos com mandados de prisão em aberto
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/como-o-g1-identificou-9-candidatos-com-mandados-de-prisao-em-aberto.ghtml)_
 
+- **[2026-08-20 12:20 UTC]** Caso Lulinha: o jogo de empurra sobre acesso de lobista ao governo e a preocupação com desgaste para a campanha de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/20/caso-lulinha-bastidores-governo-campanha-lula.ghtml)_
+
