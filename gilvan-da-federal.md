@@ -44,3 +44,6 @@
 - **[2026-08-22 03:01 UTC]** Disputas internas nos partidos: como o número do candidato na urna é escolhido?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/22/disputas-internas-nos-partidos-como-o-numero-do-candidato-na-urna-e-escolhido.ghtml)_
 
+- **[2026-08-22 03:00 UTC]** Eleições 2026: Veja a agenda dos candidatos ao Governo do RJ no sábado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-veja-a-agenda-dos-candidatos-ao-governo-do-rj-no-sabado.ghtml)_
+
