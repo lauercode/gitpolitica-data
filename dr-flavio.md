@@ -80,3 +80,6 @@
 - **[2026-08-21 23:43 UTC]** Entrevistas com os candidatos a presidente: Augusto Cury (Avante)
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/augusto-cury-entrevista-candidatos-presidente.ghtml)_
 
+- **[2026-08-21 23:19 UTC]** 'Dark Horse': PF pede à Ancine informações sobre cinebiografia de Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/dark-horse-pf-pede-a-ancine-informacoes-sobre-cinebiografia-de-jair-bolsonaro.ghtml)_
+
