@@ -14,3 +14,6 @@
 - **[2026-08-21 14:51 UTC]** Passados 30 dias de ordem de Moraes, defesa de Bolsonaro diz ao STF que retomará agendamento de visitas sem cunho eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/passados-30-dias-de-ordem-de-moraes-defesa-informa-ao-stf-que-vai-retomar-agendamento-de-visitas-gerais-a-bolsonaro.ghtml)_
 
+- **[2026-08-21 10:33 UTC]** 'Game of Thrones' no STF, caso Lulinha e Master atravessam a eleição de 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/21/game-of-thrones-no-stf-caso-lulinha-e-master-atravessam-a-eleicao-de-2026.ghtml)_
+
