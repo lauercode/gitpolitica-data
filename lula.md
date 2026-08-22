@@ -143,3 +143,6 @@
 - **[2026-08-20 22:30 UTC]** Lulinha: PGR diz que PF não identificou conclusão de nenhum negócio do Careca do INSS com o governo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/20/lulinha-pgr-diz-que-pf-nao-identificou-conclusao-de-nenhum-negocio-do-careca-do-inss-com-o-governo.ghtml)_
 
+- **[2026-08-20 19:54 UTC]** Advogado diz que se Lulinha não fosse filho do presidente caso teria sido arquivado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/20/advogado-diz-que-se-lulinha-nao-fosse-filho-do-presidente-caso-teria-sido-arquivado.ghtml)_
+
