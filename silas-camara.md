@@ -53,3 +53,6 @@
 - **[2026-08-20 13:42 UTC]** Lula viaja com Motta para agenda no RN uma semana após agenda com Alcolumbre no Amapá
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/lula-viaja-com-motta-para-agenda-no-rn-uma-semana-apos-agenda-com-alcolumbre-no-amapa.ghtml)_
 
+- **[2026-08-22 18:05 UTC]** Fundo pede arbitragem para evitar oferta pública de ações de mais de R$ 6 bilhões da Oncoclínicas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/fundo-pede-arbitragem-para-evitar-ofera-publica-de-acoes-de-mais-de-r-6-bilhoes-da-oncoclinicas.shtml)_
+
