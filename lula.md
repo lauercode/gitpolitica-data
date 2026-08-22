@@ -95,3 +95,6 @@
 - **[2026-08-21 20:37 UTC]** É #FAKE que PF descobriu 'fábrica de fake news' criada para beneficiar Flávio Bolsonaro; foto foi feita com inteligência artificial
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/08/21/e-fake-que-pf-descobriu-fabrica-de-fake-news-criada-para-beneficiar-flavio-bolsonaro-foto-foi-feita-com-inteligencia-artificial.ghtml)_
 
+- **[2026-08-21 19:24 UTC]** Otto Alencar acerta com Alcolumbre relatores das PECs da Segurança e do fim da escala 6x1
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/21/otto-alencar-acerta-com-alcolumbre-relatores-das-pecs-da-seguranca-e-fim-da-escala-6-x-1.ghtml)_
+
