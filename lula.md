@@ -89,3 +89,6 @@
 - **[2026-08-21 21:15 UTC]** Em ligação com Lula, Trump quis saber sobre eleições no Brasil e ouviu que processo corre bem e de forma confiável
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/em-ligacao-com-lula-trump-quis-saber-sobre-eleicoes-no-brasil-e-ouviu-que-processo-corre-bem-e-de-forma-confiavel.ghtml)_
 
+- **[2026-08-21 20:51 UTC]** Ministro brasileiro e representante dos EUA retomam conversas após telefonema de Lula e Trump
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/21/ministro-brasileiro-e-americano-reabrem-conversas-apos-telefonema-de-lula-e-trump.ghtml)_
+
