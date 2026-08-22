@@ -113,3 +113,6 @@
 - **[2026-08-21 14:51 UTC]** Passados 30 dias de ordem de Moraes, defesa de Bolsonaro diz ao STF que retomará agendamento de visitas sem cunho eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/passados-30-dias-de-ordem-de-moraes-defesa-informa-ao-stf-que-vai-retomar-agendamento-de-visitas-gerais-a-bolsonaro.ghtml)_
 
+- **[2026-08-21 13:49 UTC]** TSE define tempo de TV dos candidatos a presidente; veja o tempo de cada um
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/tse-define-tempo-de-tv-dos-candidatos-a-presidente-veja-o-tempo-de-cada-um.ghtml)_
+
