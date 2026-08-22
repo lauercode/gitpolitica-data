@@ -77,3 +77,6 @@
 - **[2026-08-21 22:06 UTC]** Caiado fala em 'governo de austeridade' e 'choque de credibilidade' para Brasil ter taxa de juros de 6%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/08/21/caiado-fala-em-governo-de-austeridade-e-choque-de-credibilidade-para-brasil-ter-taxa-de-juros-de-6percent-no-interior-de-sp.ghtml)_
 
+- **[2026-08-21 21:38 UTC]** Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Ronaldo Caiado; 5%; Renan Santos; 4%; Zema, 3%; Augusto Cury, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml)_
+
