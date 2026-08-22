@@ -113,3 +113,6 @@
 - **[2026-08-21 14:32 UTC]** 'Quem são os candidatos': g1 lança ferramenta com dados do TSE e páginas para todos os candidatos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/quem-sao-os-candidatos-nova-ferramenta-g1.ghtml)_
 
+- **[2026-08-21 14:14 UTC]** PF aponta que atuação de Lulinha e lobistas pode ter 'extrapolado limites éticos e legais' junto ao poder público
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/pf-aponta-que-atuacao-de-lulinha-e-lobistas-pode-ter-extrapolado-limites-eticos-e-legais-junto-ao-poder-publico.ghtml)_
+
