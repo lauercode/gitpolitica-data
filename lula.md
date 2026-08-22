@@ -125,3 +125,6 @@
 - **[2026-08-21 12:40 UTC]** Datafolha divulga nesta sexta-feira primeira pesquisa da eleição presidencial após início da campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeira-pesquisa-presidencial-apos-inicio-da-campanha.ghtml)_
 
+- **[2026-08-21 12:10 UTC]** Mendonça tende a manter no STF inquéritos sobre Lulinha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/21/mendonca-tende-a-manter-no-stf-inqueritos-sobre-lulinha.ghtml)_
+
