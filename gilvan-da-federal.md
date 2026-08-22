@@ -47,3 +47,6 @@
 - **[2026-08-22 03:00 UTC]** Eleições 2026: Veja a agenda dos candidatos ao Governo do RJ no sábado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-veja-a-agenda-dos-candidatos-ao-governo-do-rj-no-sabado.ghtml)_
 
+- **[2026-08-21 22:06 UTC]** Caiado fala em 'governo de austeridade' e 'choque de credibilidade' para Brasil ter taxa de juros de 6%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/eleicoes/2026/noticia/2026/08/21/caiado-fala-em-governo-de-austeridade-e-choque-de-credibilidade-para-brasil-ter-taxa-de-juros-de-6percent-no-interior-de-sp.ghtml)_
+
