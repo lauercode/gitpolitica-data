@@ -17,3 +17,6 @@
 - **[2026-08-21 10:33 UTC]** 'Game of Thrones' no STF, caso Lulinha e Master atravessam a eleição de 2026
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/21/game-of-thrones-no-stf-caso-lulinha-e-master-atravessam-a-eleicao-de-2026.ghtml)_
 
+- **[2026-08-21 00:15 UTC]** Haddad defende tornozeleira eletrônica para agressores de mulheres e diz que eles devem arcar com custo
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/haddad-defende-tornozeleira-eletronica-para-agressores-de-mulheres-e-diz-que-eles-devem-arcar-com-custo.ghtml)_
+
