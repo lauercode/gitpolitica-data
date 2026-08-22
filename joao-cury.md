@@ -47,3 +47,6 @@
 - **[2026-08-21 12:40 UTC]** Datafolha divulga nesta sexta-feira primeira pesquisa da eleição presidencial após início da campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeira-pesquisa-presidencial-apos-inicio-da-campanha.ghtml)_
 
+- **[2026-08-22 21:33 UTC]** Datafolha em MG: Lula, 37%; Flávio Bolsonaro, 31%; Zema, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/22/datafolha-mg-presidente-agosto.ghtml)_
+
