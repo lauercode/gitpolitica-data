@@ -44,3 +44,6 @@
 - **[2026-08-21 00:28 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Tarcísio de Freitas ao 'Globo', 'Valor' e CBN
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/20/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-tarcisio-de-freitas-ao-globo-valor-e-cbn.ghtml)_
 
+- **[2026-08-20 19:35 UTC]** Salles se descreve como liberal na economia, conservador nos costumes e diz que 8 de janeiro 'foi uma baderna'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/salles-se-descreve-como-liberal-na-economia-conservador-nos-costumes-e-diz-que-8-de-janeiro-foi-uma-baderna.ghtml)_
+
