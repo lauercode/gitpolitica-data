@@ -71,3 +71,6 @@
 - **[2026-08-20 19:35 UTC]** Salles se descreve como liberal na economia, conservador nos costumes e diz que 8 de janeiro 'foi uma baderna'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/salles-se-descreve-como-liberal-na-economia-conservador-nos-costumes-e-diz-que-8-de-janeiro-foi-uma-baderna.ghtml)_
 
+- **[2026-08-20 15:23 UTC]** Tarcísio contraria Flávio Bolsonaro e defende urnas eletrônicas: 'foram elas que me elegeram'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/tarcisio-contraria-flavio-bolsonaro-e-defende-urnas-eletronicas-foram-elas-que-me-elegeram.ghtml)_
+
