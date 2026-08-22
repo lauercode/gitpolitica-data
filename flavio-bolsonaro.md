@@ -101,3 +101,6 @@
 - **[2026-08-21 19:22 UTC]** Haddad propõe criação de banco 'nos moldes do BNDES' para financiar reindustrialização de SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/haddad-propoe-criacao-de-banco-nos-moldes-do-bndes-para-financiar-reindustrializacao-de-sp.ghtml)_
 
+- **[2026-08-21 18:43 UTC]** Moraes autoriza Jair Bolsonaro a voltar a receber visitas dos filhos Carlos e Jair Renan na prisão domiciliar
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/moraes-autoriza-jair-bolsonaro-a-voltar-a-receber-na-prisao-domiciliar-as-visitas-dos-filhos-carlos-e-jair-renan.ghtml)_
+
