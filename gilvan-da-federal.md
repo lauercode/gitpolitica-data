@@ -35,3 +35,6 @@
 - **[2026-08-22 17:16 UTC]** De colete à prova de balas, Renan Santos vai a comunidade em SP e promete programa de R$ 1,5 trilhão contra favelização
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/de-colete-a-prova-de-balas-renan-santos-vai-a-comunidade-em-sp-e-promete-programa-de-r-15-trilhao-contra-favelizacao.ghtml)_
 
+- **[2026-08-22 16:28 UTC]** No RJ, Lula diz que, se reeleito, vai retirar facções e devolver território sem 'matar 100, 200'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/no-rj-lula-diz-que-se-reeleito-vai-retirar-faccoes-e-devolver-territorio-ao-povo.ghtml)_
+
