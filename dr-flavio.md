@@ -125,3 +125,6 @@
 - **[2026-08-21 03:00 UTC]** Etiqueta de dinheiro, bilhete e foto de carro: autor de homicídio no Maranhão entregou à PF supostas provas contra políticos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/etiqueta-de-dinheiro-bilhete-e-foto-de-carro-autor-de-homicidio-no-maranhao-entregou-a-pf-supostas-provas-contra-politicos.ghtml)_
 
+- **[2026-08-21 00:15 UTC]** Haddad defende tornozeleira eletrônica para agressores de mulheres e diz que eles devem arcar com custo
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/haddad-defende-tornozeleira-eletronica-para-agressores-de-mulheres-e-diz-que-eles-devem-arcar-com-custo.ghtml)_
+
