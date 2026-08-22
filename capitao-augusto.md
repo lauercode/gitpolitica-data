@@ -50,3 +50,6 @@
 - **[2026-08-21 23:44 UTC]** Entrevistas com os candidatos a presidente: Ronaldo Caiado (PSD)
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/ronaldo-caiado-entrevista-candidatos-presidente.ghtml)_
 
+- **[2026-08-21 23:43 UTC]** Entrevistas com os candidatos a presidente: Augusto Cury (Avante)
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/augusto-cury-entrevista-candidatos-presidente.ghtml)_
+
