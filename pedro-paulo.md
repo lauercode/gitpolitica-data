@@ -110,3 +110,6 @@
 - **[2026-08-22 15:30 UTC]** Valentina Herszage vive enfermeira em série: 'Não teria sangue frio para ser uma'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/valentina-herszage-vive-enfermeira-em-serie-nao-teria-sangue-frio-para-ser-uma.shtml)_
 
+- **[2026-08-22 14:43 UTC]** Ex-chefe de gabinete de Lula pediu quadro que lobista disse custar ? 100 mil, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/ex-chefe-de-gabinete-de-lula-pediu-quadro-que-lobista-disse-custar-eur-100-mil-diz-jornal.shtml)_
+
