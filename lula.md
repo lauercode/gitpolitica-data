@@ -203,3 +203,6 @@
 - **[2026-08-21 23:00 UTC]** Lula cobra maior agilidade de BB e Caixa na liberação de crédito a motoristas de app e táxi
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/lula-cobra-maior-agilidade-de-bb-e-caixa-na-liberacao-de-credito-a-motoristas-de-app-e-taxi.shtml)_
 
+- **[2026-08-21 23:00 UTC]** Na semana da descoberta de petróleo no Brasil, China anuncia plano para reduzir consumo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/08/na-semana-da-descoberta-de-petroleo-no-brasil-china-anuncia-plano-para-reduzir-consumo.shtml)_
+
