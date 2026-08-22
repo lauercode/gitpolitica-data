@@ -239,3 +239,6 @@
 - **[2026-08-22 16:28 UTC]** No RJ, Lula diz que, se reeleito, vai retirar facções e devolver território ao povo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/no-rj-lula-diz-que-se-reeleito-vai-retirar-faccoes-e-devolver-territorio-ao-povo.ghtml)_
 
+- **[2026-08-22 13:57 UTC]** Lula promete resolver segurança sem pirotecnia e diz que Paes vai continuar limpeza de interino no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-promete-resolver-seguranca-sem-pirotecnia-e-diz-que-paes-vai-continuar-limpeza-de-interino-no-rj.shtml)_
+
