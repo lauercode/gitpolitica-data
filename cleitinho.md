@@ -23,3 +23,6 @@
 - **[2026-08-21 22:05 UTC]** Datafolha em MG para o Senado: Marília, 11%; Viana, 8%; Sávio, 6%; Aro, 5%; Ana Luiza, 4%; Superman, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-senado-21-agosto.ghtml)_
 
+- **[2026-08-21 21:38 UTC]** Datafolha - 1º turno: Lula, 39%; Flávio, 33%; Caiado, 5%; Renan, 4%; Zema, 3%; Cury, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml)_
+
