@@ -14,3 +14,6 @@
 - **[2026-08-20 22:41 UTC]** Caiado defende ampliar prerrogativa dos governadores na segurança pública: 'legislar em alguns crimes'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/ronaldo-caiado-ampliar-prerrogativa-estados-seguranca-publica.ghtml)_
 
+- **[2026-08-20 11:48 UTC]** MP impugna candidatura de Arruda ao governo do DF; Justiça Eleitoral vai analisar
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/20/mp-impugna-candidatura-de-arruda-ao-governo-do-df-justica-eleitoral-vai-analisar.ghtml)_
+
