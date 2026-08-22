@@ -47,3 +47,6 @@
 - **[2026-08-21 03:01 UTC]** Eleições 2026: número de candidaturas a deputado federal cai 28% em relação a 2022
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/eleicoes-2026-numero-de-candidaturas-a-deputado-federal-cai.ghtml)_
 
+- **[2026-08-20 19:35 UTC]** Salles se descreve como liberal na economia, conservador nos costumes e diz que 8 de janeiro 'foi uma baderna'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/salles-se-descreve-como-liberal-na-economia-conservador-nos-costumes-e-diz-que-8-de-janeiro-foi-uma-baderna.ghtml)_
+
