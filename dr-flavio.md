@@ -143,3 +143,6 @@
 - **[2026-08-20 13:02 UTC]** Manifestantes protestam contra Tarcísio durante agenda de Flávio Bolsonaro em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/protestam-contra-tarcisio-agenda-de-flavio-bolsonaro-em-sp.ghtml)_
 
+- **[2026-08-20 12:41 UTC]** Lula quer investigação sobre vazamentos de caso envolvendo filho, mas também defende depoimento rápido à PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/lula-quer-investigacao-sobre-vazamentos-de-caso-envolvendo-filho-mas-tambem-defende-depoimento-rapido-a-pf.ghtml)_
+
