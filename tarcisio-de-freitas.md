@@ -62,3 +62,6 @@
 - **[2026-08-19 23:42 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Fernando Haddad ao 'Globo', 'Valor' e CBN
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/19/veja-o-que-e-fato-ou-fake-na-entrevista-de-fernando-haddad-ao-globo-valor-e-cbn.ghtml)_
 
+- **[2026-08-21 21:38 UTC]** Datafolha - 1º turno: Lula, 39%; Flávio, 33%; Caiado, 5%; Renan, 4%; Zema, 3%; Cury, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-primeiro-turno-21-agosto.ghtml)_
+
