@@ -56,3 +56,6 @@
 - **[2026-08-20 08:43 UTC]** Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/por-que-impacto-da-ia-em-eleicoes-pode-estar-sendo-exagerado-segundo-pesquisador-de-oxford.ghtml)_
 
+- **[2026-08-20 03:00 UTC]** Escolas em tempo integral, prontuário eletrônico no SUS e ferrovias: veja propostas em que há convergência de Lula, Flávio Bolsonaro e outros 4 candidatos a presidente
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/propostas-em-comum-candidatos-presidente.ghtml)_
+
