@@ -17,3 +17,6 @@
 - **[2026-08-20 17:12 UTC]** TSE divulga tempo dos candidatos à Presidência no horário eleitoral
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-divulga-tempo-dos-candidatos-presidencia-no-horario-eleitoral)_
 
+- **[2026-08-19 17:45 UTC]** Candidaturas LGBT+ têm recorde em 2026 e se espalham por mais partidos
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-lgbt-tem-recorde-em-2026-e-se-espalham-por-mais-partidos)_
+
