@@ -104,3 +104,6 @@
 - **[2026-08-21 19:14 UTC]** STF deve retomar em setembro julgamento sobre mudança na Lei da Ficha Limpa que pode impactar campanhas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/stf-deve-retomar-em-setembro-julgamento-sobre-mudanca-na-lei-da-ficha-limpa-que-pode-impactar-campanhas.ghtml)_
 
+- **[2026-08-21 16:12 UTC]** Lula diz a Trump que Brasil não precisa de 'classificação' para combater crime organizado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/lula-diz-a-trump-que-brasil-nao-precisa-de-classificacao-para-combater-crime-organizado.ghtml)_
+
