@@ -146,3 +146,6 @@
 - **[2026-08-20 19:54 UTC]** Advogado diz que se Lulinha não fosse filho do presidente caso teria sido arquivado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/20/advogado-diz-que-se-lulinha-nao-fosse-filho-do-presidente-caso-teria-sido-arquivado.ghtml)_
 
+- **[2026-08-20 19:35 UTC]** Salles se descreve como liberal na economia, conservador nos costumes e diz que 8 de janeiro 'foi uma baderna'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/salles-se-descreve-como-liberal-na-economia-conservador-nos-costumes-e-diz-que-8-de-janeiro-foi-uma-baderna.ghtml)_
+
