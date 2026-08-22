@@ -20,3 +20,6 @@
 - **[2026-08-19 17:45 UTC]** Candidaturas LGBT+ têm recorde em 2026 e se espalham por mais partidos
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-lgbt-tem-recorde-em-2026-e-se-espalham-por-mais-partidos)_
 
+- **[2026-08-22 16:28 UTC]** No RJ, Lula diz que, se reeleito, vai retirar facções e devolver território sem 'matar 100, 200'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/no-rj-lula-diz-que-se-reeleito-vai-retirar-faccoes-e-devolver-territorio-ao-povo.ghtml)_
+
