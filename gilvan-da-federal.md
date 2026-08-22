@@ -62,3 +62,6 @@
 - **[2026-08-21 14:32 UTC]** 'Quem são os candidatos': g1 lança ferramenta com dados do TSE e páginas para todos os candidatos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/quem-sao-os-candidatos-nova-ferramenta-g1.ghtml)_
 
+- **[2026-08-21 03:01 UTC]** Eleições 2026: número de candidaturas a deputado federal cai 28% em relação a 2022
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/eleicoes-2026-numero-de-candidaturas-a-deputado-federal-cai.ghtml)_
+
