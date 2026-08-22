@@ -8,3 +8,6 @@
 - **[2026-08-22 17:36 UTC]** Em eventos de campanha no Rio, Lula defende prender criminosos, e Flávio fala em ‘guerra’ ao crime
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/22/em-campanha-simultanea-no-rio-lula-defende-prender-criminosos-e-flavio-fala-em-guerra-ao-crime.ghtml)_
 
+- **[2026-08-22 15:48 UTC]** Flávio diz que 'narcoterroristas' têm até dezembro para ‘meter o pé’ do Brasil e promete ‘guerra’ contra criminosos
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/22/flavio-bolsonaro-participa-de-evento-no-maracanazinho.ghtml)_
+
