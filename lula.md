@@ -59,3 +59,6 @@
 - **[2026-08-21 23:45 UTC]** Entrevistas com os candidatos a presidente: Lula (PT)
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente.ghtml)_
 
+- **[2026-08-21 23:44 UTC]** Entrevistas com os candidatos a presidente: Renan Santos (Missão)
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/renan-santos-entrevista-candidatos-presidente.ghtml)_
+
