@@ -221,3 +221,6 @@
 - **[2026-08-21 21:00 UTC]** Datafolha: Popularidade de Lula derrapa e mantém disputa com Flávio equilibrada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-popularidade-de-lula-derrapa-e-mantem-disputa-com-flavio-equilibrada.shtml)_
 
+- **[2026-08-21 20:18 UTC]** Memes marcam debates eleitorais com 'padre de festa junina' em 2022 e cadeirada em 2024; relembre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/08/memes-marcam-debates-eleitorais-com-padre-de-festa-junina-em-2022-e-cadeirada-em-2024-relembre.shtml)_
+
