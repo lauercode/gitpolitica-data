@@ -35,3 +35,6 @@
 - **[2026-08-22 17:36 UTC]** Em eventos de campanha no Rio, Lula defende prender criminosos, e Flávio fala em ‘guerra’ ao crime
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/22/em-campanha-simultanea-no-rio-lula-defende-prender-criminosos-e-flavio-fala-em-guerra-ao-crime.ghtml)_
 
+- **[2026-08-22 16:28 UTC]** No RJ, Lula diz que, se reeleito, vai retirar facções e devolver território sem 'matar 100, 200'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/no-rj-lula-diz-que-se-reeleito-vai-retirar-faccoes-e-devolver-territorio-ao-povo.ghtml)_
+
