@@ -26,3 +26,6 @@
 - **[2026-08-22 03:00 UTC]** Eleições 2026: Só 1 partido tem mais mulheres do que homens entre candidatos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-candidaturas-femininas.ghtml)_
 
+- **[2026-08-21 22:13 UTC]** Datafolha no DF, Senado: Michelle, 19%; Leila, 16%; Erika, 12%; Bia, 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/21/datafolha-df-senador-21-agosto.ghtml)_
+
