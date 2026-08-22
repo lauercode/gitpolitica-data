@@ -140,3 +140,6 @@
 - **[2026-08-22 18:30 UTC]** Datafolha: Flávio tem 47%, e Lula, 42% em SP no 2º turno; MG marca empate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-flavio-tem-47-e-lula-42-em-sp-no-2o-turno-mg-marca-empate.shtml)_
 
+- **[2026-08-22 12:58 UTC]** Flávio deixa de lado 'Bolsonaro moderado' e defende tirar bandido 'de pé ou deitado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-deixa-de-lado-bolsonaro-moderado-e-defende-tirar-bandido-de-pe-ou-deitado-da-rua.shtml)_
+
