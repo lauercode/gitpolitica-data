@@ -11,3 +11,6 @@
 - **[2026-08-21 09:44 UTC]** Confira a agenda dos candidatos à Presidência nesta sexta-feira
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-sexta-feira)_
 
+- **[2026-08-20 10:31 UTC]** Para 81% dos brasileiros, é fundamental que candidato acredite em Deus
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/para-81-dos-brasileiros-e-fundamental-que-candidato-acredite-em-deus)_
+
