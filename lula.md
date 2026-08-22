@@ -110,3 +110,6 @@
 - **[2026-08-21 16:07 UTC]** Em conversa por telefone, Lula diz a Trump que alegações dos EUA para tarifaço são 'infundadas'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/21/lula-conversa-com-trump.ghtml)_
 
+- **[2026-08-21 14:32 UTC]** 'Quem são os candidatos': g1 lança ferramenta com dados do TSE e páginas para todos os candidatos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/quem-sao-os-candidatos-nova-ferramenta-g1.ghtml)_
+
