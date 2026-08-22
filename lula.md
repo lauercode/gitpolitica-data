@@ -248,3 +248,6 @@
 - **[2026-08-22 14:43 UTC]** Ex-chefe de gabinete de Lula pediu quadro que lobista disse custar ? 100 mil, diz jornal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/ex-chefe-de-gabinete-de-lula-pediu-quadro-que-lobista-disse-custar-eur-100-mil-diz-jornal.shtml)_
 
+- **[2026-08-22 13:57 UTC]** Lula promete resolver segurança sem pirotecnia e pede a Paes para continuar limpeza de interino no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-promete-resolver-seguranca-sem-pirotecnia-e-diz-que-paes-vai-continuar-limpeza-de-interino-no-rj.shtml)_
+
