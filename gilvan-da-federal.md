@@ -59,3 +59,6 @@
 - **[2026-08-21 19:14 UTC]** STF deve retomar em setembro julgamento sobre mudança na Lei da Ficha Limpa que pode impactar campanhas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/stf-deve-retomar-em-setembro-julgamento-sobre-mudanca-na-lei-da-ficha-limpa-que-pode-impactar-campanhas.ghtml)_
 
+- **[2026-08-21 14:32 UTC]** 'Quem são os candidatos': g1 lança ferramenta com dados do TSE e páginas para todos os candidatos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/quem-sao-os-candidatos-nova-ferramenta-g1.ghtml)_
+
