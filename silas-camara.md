@@ -38,3 +38,6 @@
 - **[2026-08-21 15:43 UTC]** Marina diz que redução da maioridade penal é proposta populista 'para lacrar' e não resolve violência juvenil
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/marina-diz-que-reducao-da-maioridade-penal-e-proposta-populista-para-lacrar-e-nao-resolve-violencia-juvenil.ghtml)_
 
+- **[2026-08-21 13:49 UTC]** TSE define tempo de TV dos candidatos a presidente; veja o tempo de cada um
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/tse-define-tempo-de-tv-dos-candidatos-a-presidente-veja-o-tempo-de-cada-um.ghtml)_
+
