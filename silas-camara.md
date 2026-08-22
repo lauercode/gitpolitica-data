@@ -23,3 +23,6 @@
 - **[2026-08-22 16:28 UTC]** No RJ, Lula diz que, se reeleito, vai retirar facções e devolver território sem 'matar 100, 200'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/no-rj-lula-diz-que-se-reeleito-vai-retirar-faccoes-e-devolver-territorio-ao-povo.ghtml)_
 
+- **[2026-08-22 03:00 UTC]** Eleições 2026: Só 1 partido tem mais mulheres do que homens entre candidatos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-candidaturas-femininas.ghtml)_
+
