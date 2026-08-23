@@ -338,3 +338,6 @@
 - **[2026-08-21 15:25 UTC]** Durigan ataca Bolsonaro por medidas “irresponsáveis” adotadas até 2022
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/durigan-ataca-bolsonaro-medidas-irresponsaveis-adotadas-2022/)_
 
+- **[2026-08-21 13:43 UTC]** Lobista amiga de Lulinha projetava receber R$ 100 milhões por negócios em 2024
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lobista-amiga-lulinha-projetava-receber-100-milhoes-negocios-2024/)_
+
