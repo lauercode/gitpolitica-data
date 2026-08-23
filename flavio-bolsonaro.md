@@ -173,3 +173,6 @@
 - **[2026-08-21 16:35 UTC]** Flávio Bolsonaro amplia equipe econômica para elaborar plano de governo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-amplia-equipe-economica-para-elaborar-plano-de-governo/)_
 
+- **[2026-08-21 03:33 UTC]** Flávio reclama de ataques de candidatos da centro-direita e cobra críticas a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-reclama-de-ataques-de-candidatos-da-centro-direita-e-cobra-criticas-a-lula/)_
+
