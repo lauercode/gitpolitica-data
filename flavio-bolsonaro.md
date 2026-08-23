@@ -212,3 +212,6 @@
 - **[2026-08-23 21:39 UTC]** Datafolha: 56% dizem que iriam votar nas eleições de 2026 mesmo se não fosse obrigatório
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/datafolha-se-voto-nao-fosse-obrigatorio.ghtml)_
 
+- **[2026-08-23 21:33 UTC]** Datafolha: para 50% dos eleitores, há chance de outros países interferirem na eleição brasileira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/datafolha-chance-interferirem-eleicao.ghtml)_
+
