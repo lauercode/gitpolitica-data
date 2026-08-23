@@ -329,3 +329,6 @@
 - **[2026-08-21 20:53 UTC]** Alcolumbre envia PEC do fim da escala 6×1 à CCJ após reaproximação com Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-envia-pec-do-fim-da-escala-6x1-a-ccj-apos-reaproximacao-com-lula/)_
 
+- **[2026-08-21 20:15 UTC]** Grupo de Lulinha tentou usar brecha para obrigar governo a comprar composto da maconha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/caso-lulinha-ate-onde-avancou-a-tentativa-compra-de-canabidiol-no-governo-lula/)_
+
