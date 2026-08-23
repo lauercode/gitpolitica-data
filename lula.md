@@ -323,3 +323,6 @@
 - **[2026-08-22 13:28 UTC]** Primeiro debate presidencial terá Lula e Flávio ausentes e Marçal barrado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-debate-presidencial-tera-lula-e-flavio-ausentes-e-marcal-barrado/)_
 
+- **[2026-08-22 00:07 UTC]** Lula aciona Lei da Reciprocidade para responder tarifas de Trump contra o Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-aciona-lei-da-reciprocidade-para-responder-tarifas-de-trump-contra-o-brasil/)_
+
