@@ -131,3 +131,6 @@
 - **[2026-08-21 12:05 UTC]** Entenda por que Jair Bolsonaro não poderá votar nas eleições de 2026
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/entenda-por-que-jair-bolsonaro-nao-podera-votar-nas-eleicoes-de-2026/)_
 
+- **[2026-08-21 00:18 UTC]** Flávio mira redutos de Bolsonaro para ampliar votação no Nordeste
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-mira-redutos-de-bolsonaro-para-ampliar-votacao-no-nordeste/)_
+
