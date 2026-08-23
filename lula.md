@@ -458,3 +458,6 @@
 - **[2026-08-23 21:33 UTC]** Datafolha: para 50% dos eleitores, há chance de outros países interferirem na eleição brasileira
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/datafolha-chance-interferirem-eleicao.ghtml)_
 
+- **[2026-08-23 21:41 UTC]** Lula troca debate da Band por contraponto na Record e responde sobre Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-troca-debate-da-band-por-contraponto-na-record-e-responde-sobre-lulinha/)_
+
