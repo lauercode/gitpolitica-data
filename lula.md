@@ -416,3 +416,6 @@
 - **[2026-08-23 06:00 UTC]** Governo Lula diz que chegará a 266 mil famílias incluídas na reforma agrária até o fim do mandato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-lula-diz-que-chegara-a-266-mil-familias-incluidas-na-reforma-agraria-ate-o-fim-do-mandato.shtml)_
 
+- **[2026-08-23 11:57 UTC]** Ministério Público Eleitoral não vê irregularidade na foto de Lula com chapéu na urna
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/ministerio-publico-eleitoral-nao-ve-irregularidade-na-foto-de-lula-com-chapeu-na-urna.ghtml)_
+
