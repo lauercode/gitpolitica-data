@@ -20,3 +20,6 @@
 - **[2026-08-22 14:47 UTC]** Jornalista investigado no STF por textos contra Dino será julgado em dezembro por esquema de extorsão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/jornalista-investigado-no-stf-por-textos-contra-dino-sera-julgado-em-dezembro-por-esquema-de-extorsao.shtml)_
 
+- **[2026-08-22 23:15 UTC]** Ter tirado as Forças Armadas da frigideira foi a maior proeza de Lula 3
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/ter-tirado-as-forcas-armadas-da-frigideira-foi-a-maior-proeza-de-lula-3.shtml)_
+
