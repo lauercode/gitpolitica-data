@@ -50,3 +50,6 @@
 - **[2026-08-23 11:57 UTC]** Ministério Público Eleitoral não vê irregularidade na foto de Lula com chapéu na urna
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/ministerio-publico-eleitoral-nao-ve-irregularidade-na-foto-de-lula-com-chapeu-na-urna.ghtml)_
 
+- **[2026-08-23 12:00 UTC]** Bom gosto é a nova habilidade cobiçada no Vale do Silício
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/08/bom-gosto-e-a-nova-habilidade-cobicada-no-vale-do-silicio.shtml)_
+
