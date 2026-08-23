@@ -410,3 +410,6 @@
 - **[2026-08-21 23:45 UTC]** Primeiro debate presidencial: o que está em jogo e o que observar
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c89n45wykyeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 03:00 UTC]** Federações partidárias neutras na corrida presidencial reúnem 3,7 mil candidatos nas eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/federacoes-partidarias-neutras-na-corrida-presidencial-reunem-37-mil-candidatos-nas-eleicoes.ghtml)_
+
