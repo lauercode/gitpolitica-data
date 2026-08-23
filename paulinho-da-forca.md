@@ -17,3 +17,6 @@
 - **[2026-08-22 23:00 UTC]** Uma via de mão dupla
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ana-paula-vescovi/2026/08/uma-via-de-mao-dupla.shtml)_
 
+- **[2026-08-17 12:34 UTC]** Revista inglesa diz que força do Congresso é “ameaça à democracia” no Brasil
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/mundo/revista-inglesa-diz-forca-congresso-ameaca-democracia-brasil/)_
+
