@@ -53,3 +53,6 @@
 - **[2026-08-23 12:00 UTC]** Bom gosto é a nova habilidade cobiçada no Vale do Silício
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/08/bom-gosto-e-a-nova-habilidade-cobicada-no-vale-do-silicio.shtml)_
 
+- **[2026-08-23 16:56 UTC]** Jovens eleitores quilombolas defendem voto em defesa de ideais
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais)_
+
