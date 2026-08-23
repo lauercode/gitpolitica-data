@@ -128,3 +128,6 @@
 - **[2026-08-23 10:00 UTC]** PF estima prejuízo de R$ 40 bi à União com afundamento de solo em Maceió ligado à Braskem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pf-estima-prejuizo-de-r-40-bi-a-uniao-com-afundamento-de-solo-em-maceio-ligado-a-braskem.shtml)_
 
+- **[2026-08-23 11:10 UTC]** Confira o resultado do concurso 3048 da Mega-Sena sorteado neste domingo (23)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-o-resultado-do-concurso-3048-da-mega-sena-sorteado-neste-domingo-23.shtml)_
+
