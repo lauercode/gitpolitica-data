@@ -44,3 +44,6 @@
 - **[2026-08-20 15:59 UTC]** Dino e Moraes querem criar classe de jornalistas permitidos e deslegitimar “blogueiros”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/dino-moraes-classe-jornalistas-permitidos-deslegitimar-blogueiros/)_
 
+- **[2026-08-12 16:45 UTC]** Até onde vai essa “defesa da democracia”?
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/ricardo-gomes/defesa-democracia-confusao-estado-autoridade/)_
+
