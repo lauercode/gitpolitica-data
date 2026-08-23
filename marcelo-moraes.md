@@ -38,3 +38,6 @@
 - **[2026-08-21 18:11 UTC]** Defesa de Filipe Martins insiste após Moraes ignorar pedido de visita de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-filipe-martins-insiste-apos-moraes-ignorar-pedido-de-visita-de-flavio-bolsonaro/)_
 
+- **[2026-08-21 21:16 UTC]** Juiz dos EUA diz que registro que baseou ordem de Moraes para prender Filipe Martins é falso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/juiz-eua-registro-baseou-ordem-moraes-prender-filipe-martins-falso/)_
+
