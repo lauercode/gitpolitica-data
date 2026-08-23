@@ -353,3 +353,6 @@
 - **[2026-08-21 01:37 UTC]** Lula anuncia parceria com empresas da China para desenvolver IA no Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/lula-anuncia-parceria-com-empresas-da-china-para-desenvolver-ia-no-brasil/)_
 
+- **[2026-08-21 00:39 UTC]** Lobista Roberta Luchsinger afirma que Lula ofereceu a ela um cargo no governo, diz revista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lobista-roberta-luchsinger-afirma-que-lula-ofereceu-a-ela-um-cargo-no-governo-diz-revista/)_
+
