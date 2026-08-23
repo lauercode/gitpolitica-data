@@ -320,3 +320,6 @@
 - **[2026-08-22 15:54 UTC]** Lula sugere a Trump tomar “um trago” com Xi Jinping e Putin para negociar a paz
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-sugere-a-trump-tomar-um-trago-com-xi-jinping-e-putin-para-negociar-a-paz/)_
 
+- **[2026-08-22 13:28 UTC]** Primeiro debate presidencial terá Lula e Flávio ausentes e Marçal barrado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-debate-presidencial-tera-lula-e-flavio-ausentes-e-marcal-barrado/)_
+
