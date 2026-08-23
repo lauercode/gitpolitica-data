@@ -89,3 +89,6 @@
 - **[2026-08-23 22:45 UTC]** Debate presidencial: Augusto Cury também desiste e confronto da Band terá apenas Renan Santos e Caiado
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 23:13 UTC]** Debate presidencial: Augusto Cury, Renan Santos e Caiado se enfrentam em debate; acompanhe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss)_
+
