@@ -461,3 +461,6 @@
 - **[2026-08-23 21:41 UTC]** Lula troca debate da Band por contraponto na Record e responde sobre Lulinha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-troca-debate-da-band-por-contraponto-na-record-e-responde-sobre-lulinha/)_
 
+- **[2026-08-23 22:23 UTC]** Lula diz que conversas com Trump são 'civilizadas e respeitosas', mas segundo escalão dos EUA 'toma atitudes impensáveis'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/lula-diz-que-conversas-com-trump-sao-civilizadas-e-respeitosas-mas-segundo-escalao-dos-eua-toma-atitudes-impensaveis.ghtml)_
+
