@@ -107,3 +107,6 @@
 - **[2026-08-15 03:52 UTC]** Bancada evangélica trava orçamento federal para derrubar vetos de Lula
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/bancada-evangelica-trava-orcamento-federal-para-derrubar-vetos-de-lula/)_
 
+- **[2026-08-18 18:39 UTC]** Protocolo entre CNBB e governo só é problema se virar propaganda política
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/vozes/marcio-antonio-campos/protocolo-cnbb-boulos-moradia-governo/)_
+
