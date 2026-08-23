@@ -377,3 +377,6 @@
 - **[2026-08-13 16:59 UTC]** Lula reata diálogo com presidente do Senado para destravar pautas
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lula-reata-dialogo-com-presidente-do-senado-para-destravar-pautas/)_
 
+- **[2026-08-12 19:30 UTC]** Após fazer L, Hugo Motta prioriza PL da Gasolina e MP das Blusinhas na Câmara
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/apos-fazer-l-hugo-motta-prioriza-pl-da-gasolina-e-mp-das-blusinhas-na-camara/)_
+
