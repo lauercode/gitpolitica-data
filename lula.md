@@ -296,3 +296,6 @@
 - **[2026-08-22 20:19 UTC]** Presidente da CNI elogia conversa entre Lula e Trump e pede solução técnica para tarifaço
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/presidente-da-cni-elogia-conversa-entre-lula-e-trump-e-pede-solucao-tecnica-para-tarifaco.shtml)_
 
+- **[2026-08-22 23:15 UTC]** Ter tirado as Forças Armadas da frigideira foi a maior proeza de Lula 3
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/ter-tirado-as-forcas-armadas-da-frigideira-foi-a-maior-proeza-de-lula-3.shtml)_
+
