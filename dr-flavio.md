@@ -203,3 +203,6 @@
 - **[2026-08-21 03:33 UTC]** Flávio reclama de ataques de candidatos da centro-direita e cobra críticas a Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-reclama-de-ataques-de-candidatos-da-centro-direita-e-cobra-criticas-a-lula/)_
 
+- **[2026-08-21 00:18 UTC]** Flávio mira redutos de Bolsonaro para ampliar votação no Nordeste
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-mira-redutos-de-bolsonaro-para-ampliar-votacao-no-nordeste/)_
+
