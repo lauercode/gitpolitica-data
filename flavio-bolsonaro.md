@@ -167,3 +167,6 @@
 - **[2026-08-23 00:03 UTC]** Flávio usa “padrão Bukele” para apresentar agenda de segurança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-usa-padrao-bukele-para-apresentar-agenda-de-seguranca/)_
 
+- **[2026-08-21 18:11 UTC]** Defesa de Filipe Martins insiste após Moraes ignorar pedido de visita de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-filipe-martins-insiste-apos-moraes-ignorar-pedido-de-visita-de-flavio-bolsonaro/)_
+
