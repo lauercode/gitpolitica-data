@@ -26,3 +26,6 @@
 - **[2026-08-23 03:00 UTC]** Forças partidárias: o que esperar das eleições deste ano?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/forcas-partidarias-o-que-esperar-das-eleicoes-deste-ano.ghtml)_
 
+- **[2026-08-23 11:00 UTC]** Investimento automático cria disciplina e reduz impulso de gasto; veja como fazer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/investimento-automatico-cria-disciplina-e-reduz-impulso-de-gasto-veja-como-fazer.shtml)_
+
