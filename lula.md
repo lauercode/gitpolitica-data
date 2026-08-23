@@ -347,3 +347,6 @@
 - **[2026-08-21 13:01 UTC]** Ministro de Lula critica sindicatos e reconhece que fim da escala 6×1 pode não avançar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/luiz-marinho-6x1-meta-inflacao/)_
 
+- **[2026-08-21 03:33 UTC]** Flávio reclama de ataques de candidatos da centro-direita e cobra críticas a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-reclama-de-ataques-de-candidatos-da-centro-direita-e-cobra-criticas-a-lula/)_
+
