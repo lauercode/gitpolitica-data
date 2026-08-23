@@ -17,3 +17,6 @@
 - **[2026-08-12 19:30 UTC]** Após fazer L, Hugo Motta prioriza PL da Gasolina e MP das Blusinhas na Câmara
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/apos-fazer-l-hugo-motta-prioriza-pl-da-gasolina-e-mp-das-blusinhas-na-camara/)_
 
+- **[2026-08-23 13:29 UTC]** Dino diz que indicação de emendas por dirigentes é nula e alerta para punição em caso de descumprimento
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/dino-diz-que-indicacao-de-emendas-por-dirigentes-e-nula-e-alerta-para-punicao-em-caso-de-descumprimento.ghtml)_
+
