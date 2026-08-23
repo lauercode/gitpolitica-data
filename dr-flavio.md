@@ -248,3 +248,6 @@
 - **[2026-08-23 17:02 UTC]** Sem Lula, Flávio e Zema, eleição presidencial terá debate de estreia com menor quórum desde 1989
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/sem-lula-flavio-e-zema-eleicao-presidencial-tera-debate-de-estreia-com-menor-quorum-desde-1989.shtml)_
 
+- **[2026-08-23 20:50 UTC]** Ato do 7 de Setembro na Paulista testará apoio popular ao nome de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ato-do-7-de-setembro-na-paulista-testara-apoio-popular-ao-nome-de-flavio-bolsonaro/)_
+
