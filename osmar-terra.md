@@ -17,3 +17,6 @@
 - **[2026-08-22 07:00 UTC]** Pegada fóssil de SC revela maior mamífero da Era dos Dinossauros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/08/pegada-fossil-de-sc-revela-maior-mamifero-da-era-dos-dinossauros.shtml)_
 
+- **[2026-08-23 08:00 UTC]** 'A juventude para mim foi uma roubada', diz Gloria Pires
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/a-juventude-para-mim-foi-uma-roubada-diz-gloria-pires.shtml)_
+
