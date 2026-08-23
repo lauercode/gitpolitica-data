@@ -134,3 +134,6 @@
 - **[2026-08-21 00:18 UTC]** Flávio mira redutos de Bolsonaro para ampliar votação no Nordeste
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-mira-redutos-de-bolsonaro-para-ampliar-votacao-no-nordeste/)_
 
+- **[2026-08-23 13:00 UTC]** Regina Duarte descarta retorno à política como secretária ou ministra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/regina-duarte-descarta-retorno-a-politica-como-secretaria-ou-ministra.shtml)_
+
