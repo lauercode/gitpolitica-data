@@ -425,3 +425,6 @@
 - **[2026-08-23 06:00 UTC]** Governo Lula diz ter incluído 266 mil famílias na reforma agrária e prevê 300 mil até o fim do mandato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-lula-diz-que-chegara-a-266-mil-familias-incluidas-na-reforma-agraria-ate-o-fim-do-mandato.shtml)_
 
+- **[2026-08-23 14:36 UTC]** Lula, Moraes e Alcolumbre tramaram contra Mendonça, diz jornal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-moraes-alcolumbre-tramaram-contra-mendonca-diz-jornal/)_
+
