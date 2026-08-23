@@ -245,3 +245,6 @@
 - **[2026-08-23 18:35 UTC]** Quem ganha e quem perde com a entrada de Pablo Marçal na disputa presidencial
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cre4g2dvrvyo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 17:02 UTC]** Sem Lula, Flávio e Zema, eleição presidencial terá debate de estreia com menor quórum desde 1989
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/sem-lula-flavio-e-zema-eleicao-presidencial-tera-debate-de-estreia-com-menor-quorum-desde-1989.shtml)_
+
