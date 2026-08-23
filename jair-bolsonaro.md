@@ -125,3 +125,6 @@
 - **[2026-08-22 23:07 UTC]** Flávio Bolsonaro diz que voltará à Festa do Peão de Barretos em 2027 com seu pai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-diz-que-voltara-a-festa-do-peao-de-barretos-em-2027-com-seu-pai.shtml)_
 
+- **[2026-08-21 19:50 UTC]** Moraes autoriza Carlos e Jair Renan a visitarem Jair Bolsonaro em casa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-carlos-e-jair-renan-a-visitarem-jair-bolsonaro-em-casa/)_
+
