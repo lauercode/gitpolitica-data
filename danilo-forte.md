@@ -17,3 +17,6 @@
 - **[2026-08-22 04:00 UTC]** São Paulo deve ter temperaturas de 12°C a 22°C neste sábado (22)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/sao-paulo-deve-ter-temperaturas-de-12c-a-22c-neste-sabado-22.shtml)_
 
+- **[2026-08-22 23:00 UTC]** Programa nuclear da Marinha lidera gasto militar brasileiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/programa-nuclear-da-marinha-lidera-gasto-militar-brasileiro.shtml)_
+
