@@ -23,3 +23,6 @@
 - **[2026-08-18 07:14 UTC]** Por que a ideia de que uma terceira guerra mundial já começou está ganhando força
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c20491pqnv8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 03:00 UTC]** Forças partidárias: o que esperar das eleições deste ano?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/forcas-partidarias-o-que-esperar-das-eleicoes-deste-ano.ghtml)_
+
