@@ -179,3 +179,6 @@
 - **[2026-08-20 20:08 UTC]** Lulinha processa Flávio Bolsonaro e pede remoção imediata de vídeo sobre farra do INSS
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lulinha-processa-flavio-bolsonaro-e-pede-remocao-imediata-de-video-sobre-farra-do-inss/)_
 
+- **[2026-08-19 00:50 UTC]** Novas mensagens de Lulinha indicam tráfico de influência e abrem espaço para Flávio crescer
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/novas-mensagens-de-lulinha-indicam-trafico-de-influencia-e-abrem-espaco-para-flavio-crescer/)_
+
