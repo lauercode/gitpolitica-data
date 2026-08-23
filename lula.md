@@ -311,3 +311,6 @@
 - **[2026-08-22 20:40 UTC]** Zema lança jingle com vídeo de IA que mostra Lula e ministros do STF na prisão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/zema-jingle-video-lula-ministros-stf-prisao/)_
 
+- **[2026-08-22 20:11 UTC]** Flávio e Lula fazem atos no Rio com discursos voltados à segurança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-lula-atos-discursos-seguranca/)_
+
