@@ -14,3 +14,6 @@
 - **[2026-08-20 13:42 UTC]** Lula viaja com Motta para agenda no RN uma semana após agenda com Alcolumbre no Amapá
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/lula-viaja-com-motta-para-agenda-no-rn-uma-semana-apos-agenda-com-alcolumbre-no-amapa.ghtml)_
 
+- **[2026-08-12 19:30 UTC]** Após fazer L, Hugo Motta prioriza PL da Gasolina e MP das Blusinhas na Câmara
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/apos-fazer-l-hugo-motta-prioriza-pl-da-gasolina-e-mp-das-blusinhas-na-camara/)_
+
