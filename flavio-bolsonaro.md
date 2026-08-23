@@ -182,3 +182,6 @@
 - **[2026-08-19 00:50 UTC]** Novas mensagens de Lulinha indicam tráfico de influência e abrem espaço para Flávio crescer
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/novas-mensagens-de-lulinha-indicam-trafico-de-influencia-e-abrem-espaco-para-flavio-crescer/)_
 
+- **[2026-08-22 20:54 UTC]** Flávio Bolsonaro fica um ponto atrás de Lula no segundo turno no agregador de pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
