@@ -32,3 +32,6 @@
 - **[2026-08-21 21:48 UTC]** Moraes cassa aposentadoria do ex-diretor da PRF Silvinei Vasques
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-cassa-aposentadoria-do-ex-diretor-da-prf-silvinei-vasques/)_
 
+- **[2026-08-21 19:50 UTC]** Moraes autoriza Carlos e Jair Renan a visitarem Jair Bolsonaro em casa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-carlos-e-jair-renan-a-visitarem-jair-bolsonaro-em-casa/)_
+
