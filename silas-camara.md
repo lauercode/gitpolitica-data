@@ -59,3 +59,6 @@
 - **[2026-08-22 23:00 UTC]** A Câmara é a Casa do povo e o Senado, o clube da elite?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/a-camara-e-a-casa-do-povo-e-o-senado-o-clube-da-elite.shtml)_
 
+- **[2026-08-12 19:30 UTC]** Após fazer L, Hugo Motta prioriza PL da Gasolina e MP das Blusinhas na Câmara
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/apos-fazer-l-hugo-motta-prioriza-pl-da-gasolina-e-mp-das-blusinhas-na-camara/)_
+
