@@ -341,3 +341,6 @@
 - **[2026-08-21 13:43 UTC]** Lobista amiga de Lulinha projetava receber R$ 100 milhões por negócios em 2024
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lobista-amiga-lulinha-projetava-receber-100-milhoes-negocios-2024/)_
 
+- **[2026-08-21 13:18 UTC]** “Pirotecnia eleitoral” tem impacto limitado e campanha de Lula entra em “modo alerta”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pirotecnia-eleitoral-tem-impacto-limitado-e-campanha-de-lula-entra-em-modo-alerta/)_
+
