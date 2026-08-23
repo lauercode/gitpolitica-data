@@ -209,3 +209,6 @@
 - **[2026-08-20 20:08 UTC]** Lulinha processa Flávio Bolsonaro e pede remoção imediata de vídeo sobre farra do INSS
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lulinha-processa-flavio-bolsonaro-e-pede-remocao-imediata-de-video-sobre-farra-do-inss/)_
 
+- **[2026-08-11 19:47 UTC]** Plano de Flávio prevê segurança jurídica para donos de armas
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-flavio-preve-seguranca-juridica-para-donos-de-armas/)_
+
