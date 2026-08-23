@@ -356,3 +356,6 @@
 - **[2026-08-21 00:39 UTC]** Lobista Roberta Luchsinger afirma que Lula ofereceu a ela um cargo no governo, diz revista
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lobista-roberta-luchsinger-afirma-que-lula-ofereceu-a-ela-um-cargo-no-governo-diz-revista/)_
 
+- **[2026-08-20 00:13 UTC]** 5 ações do “sistema” para blindar Lula e o PT de apurações de corrupção
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/5-acoes-do-sistema-para-blindar-lula-e-o-pt-de-apuracoes-de-corrupcao/)_
+
