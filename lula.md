@@ -407,3 +407,6 @@
 - **[2026-08-22 14:49 UTC]** Lula aposta em Trump como 'aliado improvável' para melhorar relação com os EUA, diz Financial Times
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx252n3de0go?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-21 23:45 UTC]** Primeiro debate presidencial: o que está em jogo e o que observar
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c89n45wykyeo?at_medium=RSS&at_campaign=rss)_
+
