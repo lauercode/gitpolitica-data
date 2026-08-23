@@ -122,3 +122,6 @@
 - **[2026-08-23 03:00 UTC]** Eleições 2026: 404 candidatos usam títulos religiosos em nome de urna
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/eleicoes-2026-candidatos-titulos-religiosos-nome-de-urna.ghtml)_
 
+- **[2026-08-23 08:32 UTC]** Conheça as atribuições do presidente e do vice-presidente da República
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica)_
+
