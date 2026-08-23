@@ -47,3 +47,6 @@
 - **[2026-08-12 16:45 UTC]** Até onde vai essa “defesa da democracia”?
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/ricardo-gomes/defesa-democracia-confusao-estado-autoridade/)_
 
+- **[2026-08-11 16:06 UTC]** Foto na piscina e jantar secreto: a “alma podre” de Brasília
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/foto-na-piscina-e-jantar-secreto-a-alma-podre-de-brasilia/)_
+
