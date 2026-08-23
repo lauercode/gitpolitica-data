@@ -35,3 +35,6 @@
 - **[2026-08-23 13:29 UTC]** Dino diz que indicação de emendas por dirigentes é nula e alerta para punição em caso de descumprimento
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/dino-diz-que-indicacao-de-emendas-por-dirigentes-e-nula-e-alerta-para-punicao-em-caso-de-descumprimento.ghtml)_
 
+- **[2026-08-23 14:36 UTC]** Lula, Moraes e Alcolumbre tramaram contra Mendonça, diz jornal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-moraes-alcolumbre-tramaram-contra-mendonca-diz-jornal/)_
+
