@@ -176,3 +176,6 @@
 - **[2026-08-22 23:00 UTC]** Bolsonarinho, Lulinha e o efeito do prestígio de Lula na eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/bolsonarinho-lulinha-e-o-efeito-do-prestigio-de-lula-na-eleicao.shtml)_
 
+- **[2026-08-22 23:00 UTC]** Eleição presidencial tem primeiro debate com provável ausência de Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleicao-presidencial-tem-primeiro-debate-com-provavel-ausencia-de-lula-e-flavio.shtml)_
+
