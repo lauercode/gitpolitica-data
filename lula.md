@@ -449,3 +449,6 @@
 - **[2026-08-23 18:12 UTC]** Veja como foi o domingo (23) dos candidatos a presidente
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-domingo-23-dos-candidatos-presidente)_
 
+- **[2026-08-23 18:40 UTC]** Candidatos começam a chegar para debate; Renan leva fraldas para criticar ausências de Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidatos-comecam-a-chegar-para-debate-renan-leva-fraldas-para-criticar-ausencias-de-lula-e-flavio.shtml)_
+
