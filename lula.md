@@ -404,3 +404,6 @@
 - **[2026-08-22 20:54 UTC]** Flávio Bolsonaro fica um ponto atrás de Lula no segundo turno no agregador de pesquisas da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-22 14:49 UTC]** Lula aposta em Trump como 'aliado improvável' para melhorar relação com os EUA, diz Financial Times
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx252n3de0go?at_medium=RSS&at_campaign=rss)_
+
