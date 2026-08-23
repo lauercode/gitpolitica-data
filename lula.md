@@ -350,3 +350,6 @@
 - **[2026-08-21 03:33 UTC]** Flávio reclama de ataques de candidatos da centro-direita e cobra críticas a Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-reclama-de-ataques-de-candidatos-da-centro-direita-e-cobra-criticas-a-lula/)_
 
+- **[2026-08-21 01:37 UTC]** Lula anuncia parceria com empresas da China para desenvolver IA no Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/lula-anuncia-parceria-com-empresas-da-china-para-desenvolver-ia-no-brasil/)_
+
