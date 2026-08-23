@@ -392,3 +392,6 @@
 - **[2026-08-19 00:50 UTC]** Novas mensagens de Lulinha indicam tráfico de influência e abrem espaço para Flávio crescer
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/novas-mensagens-de-lulinha-indicam-trafico-de-influencia-e-abrem-espaco-para-flavio-crescer/)_
 
+- **[2026-08-18 20:55 UTC]** Mensagens interceptadas apontam que Lulinha orientava e participava de reuniões de lobby
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/mensagens-interceptadas-apontam-que-lulinha-orientava-e-participava-de-reunioes-de-lobby/)_
+
