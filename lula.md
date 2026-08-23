@@ -317,3 +317,6 @@
 - **[2026-08-22 20:03 UTC]** Lulinha é citado como destinatário de pagamentos e mediador de reunião no Planalto
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lulinha-e-citado-como-destinatario-de-pagamentos-e-mediador-de-reuniao-no-planalto/)_
 
+- **[2026-08-22 15:54 UTC]** Lula sugere a Trump tomar “um trago” com Xi Jinping e Putin para negociar a paz
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-sugere-a-trump-tomar-um-trago-com-xi-jinping-e-putin-para-negociar-a-paz/)_
+
