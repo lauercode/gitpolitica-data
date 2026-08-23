@@ -170,3 +170,6 @@
 - **[2026-08-21 18:11 UTC]** Defesa de Filipe Martins insiste após Moraes ignorar pedido de visita de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-filipe-martins-insiste-apos-moraes-ignorar-pedido-de-visita-de-flavio-bolsonaro/)_
 
+- **[2026-08-21 16:35 UTC]** Flávio Bolsonaro amplia equipe econômica para elaborar plano de governo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-amplia-equipe-economica-para-elaborar-plano-de-governo/)_
+
