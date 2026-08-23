@@ -32,3 +32,6 @@
 - **[2026-08-21 21:35 UTC]** Datafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-governador-21-agosto.ghtml)_
 
+- **[2026-08-23 17:06 UTC]** Convenções que já não decidem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/08/convencoes-que-ja-nao-decidem.shtml)_
+
