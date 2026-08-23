@@ -11,3 +11,6 @@
 - **[2026-08-22 08:00 UTC]** 'Sou uma bisnepobaby', brinca Ana Clara Winter, bisneta de Lima Duarte e filha de Palomma Duarte
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/sou-uma-bisnepobaby-brinca-ana-clara-winter-bisneta-de-lima-duarte-e-filha-de-palomma-duarte.shtml)_
 
+- **[2026-08-23 13:00 UTC]** Regina Duarte descarta retorno à política como secretária ou ministra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/regina-duarte-descarta-retorno-a-politica-como-secretaria-ou-ministra.shtml)_
+
