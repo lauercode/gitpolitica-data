@@ -125,3 +125,6 @@
 - **[2026-08-23 08:32 UTC]** Conheça as atribuições do presidente e do vice-presidente da República
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica)_
 
+- **[2026-08-23 10:00 UTC]** PF estima prejuízo de R$ 40 bi à União com afundamento de solo em Maceió ligado à Braskem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pf-estima-prejuizo-de-r-40-bi-a-uniao-com-afundamento-de-solo-em-maceio-ligado-a-braskem.shtml)_
+
