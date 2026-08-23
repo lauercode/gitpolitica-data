@@ -143,3 +143,6 @@
 - **[2026-08-22 23:10 UTC]** Festival de Gramado coroa 'Nosso Segredo' após refletir sobre divisão no mundo hoje
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/festival-de-gramado-coroa-nosso-segredo-apos-refletir-sobre-divisao-no-mundo-hoje.shtml)_
 
+- **[2026-08-22 23:00 UTC]** Hot Chip celebra 20 anos do álbum 'The Warning' em show em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/08/hot-chip-celebra-20-anos-do-album-the-warning-em-show-em-sao-paulo.shtml)_
+
