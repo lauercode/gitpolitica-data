@@ -185,3 +185,6 @@
 - **[2026-08-23 00:03 UTC]** Flávio usa “padrão Bukele” para apresentar agenda de segurança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-usa-padrao-bukele-para-apresentar-agenda-de-seguranca/)_
 
+- **[2026-08-22 20:11 UTC]** Flávio e Lula fazem atos no Rio com discursos voltados à segurança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-lula-atos-discursos-seguranca/)_
+
