@@ -17,3 +17,6 @@
 - **[2026-08-20 13:42 UTC]** Lula viaja com Motta para agenda no RN uma semana após agenda com Alcolumbre no Amapá
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/lula-viaja-com-motta-para-agenda-no-rn-uma-semana-apos-agenda-com-alcolumbre-no-amapa.ghtml)_
 
+- **[2026-08-21 20:53 UTC]** Alcolumbre envia PEC do fim da escala 6×1 à CCJ após reaproximação com Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-envia-pec-do-fim-da-escala-6x1-a-ccj-apos-reaproximacao-com-lula/)_
+
