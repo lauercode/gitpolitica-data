@@ -26,3 +26,6 @@
 - **[2026-08-22 22:30 UTC]** Confusão com juros no caso da Casas Bahia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alexandra-moraes-ombudsman/2026/08/confusao-com-juros-no-caso-da-casas-bahia.shtml)_
 
+- **[2026-08-21 23:53 UTC]** Bolsonaro tem oscilações de pressão; defesa pede que  Moraes amplie duração da fisioterapia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonaro-tem-oscilacoes-de-pressao-defesa-pede-que-moraes-amplie-duracao-da-fisioterapia/)_
+
