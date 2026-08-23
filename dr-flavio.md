@@ -197,3 +197,6 @@
 - **[2026-08-21 16:35 UTC]** Flávio Bolsonaro amplia equipe econômica para elaborar plano de governo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-amplia-equipe-economica-para-elaborar-plano-de-governo/)_
 
+- **[2026-08-21 10:51 UTC]** Mendonça barra vídeo de IA que liga Flávio a Vorcaro e rejeita argumento de sátira
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-barra-video-de-ia-que-liga-flavio-a-vorcaro-e-rejeita-argumento-de-satira/)_
+
