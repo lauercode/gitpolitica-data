@@ -344,3 +344,6 @@
 - **[2026-08-21 13:18 UTC]** “Pirotecnia eleitoral” tem impacto limitado e campanha de Lula entra em “modo alerta”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pirotecnia-eleitoral-tem-impacto-limitado-e-campanha-de-lula-entra-em-modo-alerta/)_
 
+- **[2026-08-21 13:01 UTC]** Ministro de Lula critica sindicatos e reconhece que fim da escala 6×1 pode não avançar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/luiz-marinho-6x1-meta-inflacao/)_
+
