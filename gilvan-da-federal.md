@@ -104,3 +104,6 @@
 - **[2026-08-22 21:38 UTC]** Datafolha no DF: Flávio Bolsonaro, 39%; Lula, 31%; Caiado; 10%; Renan, 3%; Zema, 2%; Cury, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/22/datafolha-flavio-bolsonaro-39percent-lula-31percent-ronaldo-caiado-10percent-renan-santos-3percent-zema-2percent-augusto-cury-1percent.ghtml)_
 
+- **[2026-08-15 03:52 UTC]** Bancada evangélica trava orçamento federal para derrubar vetos de Lula
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/bancada-evangelica-trava-orcamento-federal-para-derrubar-vetos-de-lula/)_
+
