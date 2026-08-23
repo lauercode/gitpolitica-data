@@ -422,3 +422,6 @@
 - **[2026-08-23 07:00 UTC]** Entenda como julgamento no STF sobre a Ficha Limpa pode afetar as eleições no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/23/entenda-como-julgamento-no-stf-sobre-a-ficha-limpa-pode-afetar-as-eleicoes-no-df.ghtml)_
 
+- **[2026-08-23 06:00 UTC]** Governo Lula diz ter incluído 266 mil famílias na reforma agrária e prevê 300 mil até o fim do mandato
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-lula-diz-que-chegara-a-266-mil-familias-incluidas-na-reforma-agraria-ate-o-fim-do-mandato.shtml)_
+
