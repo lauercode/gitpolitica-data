@@ -173,3 +173,6 @@
 - **[2026-08-22 23:07 UTC]** Flávio Bolsonaro diz que voltará à Festa do Peão de Barretos em 2027 com seu pai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-diz-que-voltara-a-festa-do-peao-de-barretos-em-2027-com-seu-pai.shtml)_
 
+- **[2026-08-22 23:00 UTC]** Bolsonarinho, Lulinha e o efeito do prestígio de Lula na eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/bolsonarinho-lulinha-e-o-efeito-do-prestigio-de-lula-na-eleicao.shtml)_
+
