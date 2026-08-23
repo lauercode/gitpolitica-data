@@ -395,3 +395,6 @@
 - **[2026-08-18 20:55 UTC]** Mensagens interceptadas apontam que Lulinha orientava e participava de reuniões de lobby
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/mensagens-interceptadas-apontam-que-lulinha-orientava-e-participava-de-reunioes-de-lobby/)_
 
+- **[2026-08-18 09:00 UTC]** Por que a Faria Lima prefere Lula?
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/vozes/luciano-trigo/por-que-a-faria-lima-prefere-lula/)_
+
