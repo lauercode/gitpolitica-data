@@ -197,3 +197,6 @@
 - **[2026-08-23 09:44 UTC]** Sem Lula e Flávio Bolsonaro, os debates ainda importam? O que dizem os especialistas
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 13:02 UTC]** Casos Master, Dark Horse, INSS e Lulinha atravessam campanhas e põem holofotes sobre PF e tribunais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/casos-master-dark-horse-inss-e-lulinha-atravessam-campanhas-e-poem-holofotes-sobre-pf-e-tribunais.shtml)_
+
