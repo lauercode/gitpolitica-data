@@ -11,3 +11,6 @@
 - **[2026-08-22 22:45 UTC]** Flamengo cede virada para o Cruzeiro e segue vice-líder do Brasileirão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/flamengo-cede-virada-para-o-cruzeiro-e-segue-vice-lider-do-brasileirao.shtml)_
 
+- **[2026-08-23 17:06 UTC]** Convenções que já não decidem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/08/convencoes-que-ja-nao-decidem.shtml)_
+
