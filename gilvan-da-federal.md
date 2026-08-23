@@ -116,3 +116,6 @@
 - **[2026-08-23 03:00 UTC]** Federações partidárias neutras na corrida presidencial reúnem 3,7 mil candidatos nas eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/federacoes-partidarias-neutras-na-corrida-presidencial-reunem-37-mil-candidatos-nas-eleicoes.ghtml)_
 
+- **[2026-08-23 03:00 UTC]** Mais de 900 candidatos mudaram declaração de cor ou raça no TSE entre 2022 e 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/eleicoes-2026-tse-candidatos-mudanca-cor-raca.ghtml)_
+
