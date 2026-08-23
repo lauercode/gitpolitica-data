@@ -41,3 +41,6 @@
 - **[2026-08-21 21:16 UTC]** Juiz dos EUA diz que registro que baseou ordem de Moraes para prender Filipe Martins é falso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/juiz-eua-registro-baseou-ordem-moraes-prender-filipe-martins-falso/)_
 
+- **[2026-08-20 15:59 UTC]** Dino e Moraes querem criar classe de jornalistas permitidos e deslegitimar “blogueiros”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/dino-moraes-classe-jornalistas-permitidos-deslegitimar-blogueiros/)_
+
