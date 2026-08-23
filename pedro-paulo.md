@@ -152,3 +152,6 @@
 - **[2026-08-23 12:01 UTC]** Paralamas, Titãs e Paulo Ricardo embalam público do C6 no Rock em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/paralamas-titas-e-paulo-ricardo-embalam-publico-do-c6-no-rock-em-sao-paulo.shtml)_
 
+- **[2026-08-23 16:54 UTC]** Quatro suspeitos de furto a joalheria em prédio no centro de São Paulo são presos pela polícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/quatro-suspeitos-de-furto-a-joalheria-em-predio-no-centro-de-sao-paulo-sao-presos-pela-policia.shtml)_
+
