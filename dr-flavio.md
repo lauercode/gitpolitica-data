@@ -257,3 +257,6 @@
 - **[2026-08-23 18:40 UTC]** Candidatos começam a chegar para debate; Renan leva fraldas para criticar ausências de Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidatos-comecam-a-chegar-para-debate-renan-leva-fraldas-para-criticar-ausencias-de-lula-e-flavio.shtml)_
 
+- **[2026-08-23 21:39 UTC]** Datafolha: 56% dizem que iriam votar nas eleições de 2026 mesmo se não fosse obrigatório
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/datafolha-se-voto-nao-fosse-obrigatorio.ghtml)_
+
