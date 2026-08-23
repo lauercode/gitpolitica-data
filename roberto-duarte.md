@@ -14,3 +14,6 @@
 - **[2026-08-23 13:00 UTC]** Regina Duarte descarta retorno à política como secretária ou ministra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/regina-duarte-descarta-retorno-a-politica-como-secretaria-ou-ministra.shtml)_
 
+- **[2026-08-23 20:18 UTC]** A imprensa não precisa ser protegida das críticas, diz Gabriela Duarte sobre entrevista à Folha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/a-imprensa-nao-precisa-ser-protegida-das-criticas-diz-gabriela-duarte-sobre-entrevista-a-folha.shtml)_
+
