@@ -29,3 +29,6 @@
 - **[2026-08-21 23:53 UTC]** Bolsonaro tem oscilações de pressão; defesa pede que  Moraes amplie duração da fisioterapia
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonaro-tem-oscilacoes-de-pressao-defesa-pede-que-moraes-amplie-duracao-da-fisioterapia/)_
 
+- **[2026-08-21 21:48 UTC]** Moraes cassa aposentadoria do ex-diretor da PRF Silvinei Vasques
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-cassa-aposentadoria-do-ex-diretor-da-prf-silvinei-vasques/)_
+
