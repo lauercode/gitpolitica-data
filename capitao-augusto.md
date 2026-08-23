@@ -86,3 +86,6 @@
 - **[2026-08-23 13:04 UTC]** Augusto Cury segue Zema e também desiste de debate; 1º debate presidencial terá só Caiado e Renan
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/zema-desiste-e-amplia-esvaziamento-do-primeiro-debate-presidencial-na-tv.shtml)_
 
+- **[2026-08-23 22:45 UTC]** Debate presidencial: Augusto Cury também desiste e confronto da Band terá apenas Renan Santos e Caiado
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss)_
+
