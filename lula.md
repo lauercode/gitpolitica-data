@@ -386,3 +386,6 @@
 - **[2026-08-20 20:10 UTC]** Pedido da PGR para enviar inquérito de Lulinha à 1ª instância é manobra para afastar Mendonça
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/parecer-para-enviar-inquerito-de-lulinha-a-1a-instancia-e-manobra-para-afastar-mendonca/)_
 
+- **[2026-08-19 19:02 UTC]** A história da Petrobras que Lula quer que você esqueça
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/vozes/anne-dias/a-historia-da-petrobras-que-lula-quer-que-voce-esqueca/)_
+
