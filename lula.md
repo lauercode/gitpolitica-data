@@ -389,3 +389,6 @@
 - **[2026-08-19 19:02 UTC]** A história da Petrobras que Lula quer que você esqueça
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/vozes/anne-dias/a-historia-da-petrobras-que-lula-quer-que-voce-esqueca/)_
 
+- **[2026-08-19 00:50 UTC]** Novas mensagens de Lulinha indicam tráfico de influência e abrem espaço para Flávio crescer
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/novas-mensagens-de-lulinha-indicam-trafico-de-influencia-e-abrem-espaco-para-flavio-crescer/)_
+
