@@ -29,3 +29,6 @@
 - **[2026-08-22 11:00 UTC]** Cores não estão na luz, mas na interpretação que o cérebro faz
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/cores-nao-estao-na-luz-mas-na-interpretacao-que-o-cerebro-faz.shtml)_
 
+- **[2026-08-23 22:57 UTC]** Só Renan Santos, Caiado e Augusto Cury vão ao debate da Band: os confrontos ainda importam?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss)_
+
