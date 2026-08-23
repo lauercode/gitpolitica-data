@@ -56,3 +56,6 @@
 - **[2026-08-22 18:05 UTC]** Fundo pede arbitragem para evitar oferta pública de ações de mais de R$ 6 bilhões da Oncoclínicas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/fundo-pede-arbitragem-para-evitar-ofera-publica-de-acoes-de-mais-de-r-6-bilhoes-da-oncoclinicas.shtml)_
 
+- **[2026-08-22 23:00 UTC]** A Câmara é a Casa do povo e o Senado, o clube da elite?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/a-camara-e-a-casa-do-povo-e-o-senado-o-clube-da-elite.shtml)_
+
