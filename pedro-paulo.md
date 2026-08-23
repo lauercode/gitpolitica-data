@@ -158,3 +158,6 @@
 - **[2026-08-23 20:01 UTC]** Viih Tube revela que Eliezer adotou sobrenome dela após casamento: 'Achei tão chique'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/viih-tube-revela-que-eliezer-adotou-sobrenome-dela-apos-casamento-achei-tao-chique.shtml)_
 
+- **[2026-08-23 20:30 UTC]** Leitor vê série de erros de Cuba, mas critica bloqueio dos Estados Unidos ao país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/leitor-ve-serie-de-erros-de-cuba-mas-critica-bloqueio-dos-estados-unidos-ao-pais.shtml)_
+
