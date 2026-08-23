@@ -155,3 +155,6 @@
 - **[2026-08-23 16:54 UTC]** Quatro suspeitos de furto a joalheria em prédio no centro de São Paulo são presos pela polícia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/quatro-suspeitos-de-furto-a-joalheria-em-predio-no-centro-de-sao-paulo-sao-presos-pela-policia.shtml)_
 
+- **[2026-08-23 20:01 UTC]** Viih Tube revela que Eliezer adotou sobrenome dela após casamento: 'Achei tão chique'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/viih-tube-revela-que-eliezer-adotou-sobrenome-dela-apos-casamento-achei-tao-chique.shtml)_
+
