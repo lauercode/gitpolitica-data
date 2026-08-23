@@ -332,3 +332,6 @@
 - **[2026-08-21 20:15 UTC]** Grupo de Lulinha tentou usar brecha para obrigar governo a comprar composto da maconha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/caso-lulinha-ate-onde-avancou-a-tentativa-compra-de-canabidiol-no-governo-lula/)_
 
+- **[2026-08-21 20:05 UTC]** Lula mira soberania na reação a Trump, mas reciprocidade pode elevar custos ao Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-mira-soberania-reacao-trump-reciprocidade-elevar-custos-brasil/)_
+
