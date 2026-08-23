@@ -203,3 +203,6 @@
 - **[2026-08-23 18:35 UTC]** Quem ganha e quem perde com a entrada de Pablo Marçal na disputa presidencial
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cre4g2dvrvyo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 20:50 UTC]** Ato do 7 de Setembro na Paulista testará apoio popular ao nome de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ato-do-7-de-setembro-na-paulista-testara-apoio-popular-ao-nome-de-flavio-bolsonaro/)_
+
