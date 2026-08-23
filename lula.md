@@ -401,3 +401,6 @@
 - **[2026-08-18 01:04 UTC]** Alcolumbre elogia liderança de Lula e critica tutela estrangeira sobre o Brasil
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/cafe-com-a-gazeta/alcolumbre-elogia-lideranca-de-lula-e-critica-tutela-estrangeira-sobre-o-brasil-2/)_
 
+- **[2026-08-22 20:54 UTC]** Flávio Bolsonaro fica um ponto atrás de Lula no segundo turno no agregador de pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
