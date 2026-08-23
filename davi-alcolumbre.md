@@ -20,3 +20,6 @@
 - **[2026-08-21 20:53 UTC]** Alcolumbre envia PEC do fim da escala 6×1 à CCJ após reaproximação com Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-envia-pec-do-fim-da-escala-6x1-a-ccj-apos-reaproximacao-com-lula/)_
 
+- **[2026-08-17 21:48 UTC]** Alcolumbre elogia “liderança” de Lula e critica “tutela” estrangeira sobre o Brasil
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/alcolumbre-elogia-lideranca-de-lula-e-critica-tutela-estrangeira-sobre-o-brasil/)_
+
