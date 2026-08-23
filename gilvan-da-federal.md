@@ -110,3 +110,6 @@
 - **[2026-08-18 18:39 UTC]** Protocolo entre CNBB e governo só é problema se virar propaganda política
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/vozes/marcio-antonio-campos/protocolo-cnbb-boulos-moradia-governo/)_
 
+- **[2026-08-17 21:46 UTC]** Negócios do Planalto: a reveladora conversa entre Lulinha e lobista
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/ultima-analise/negocios-do-planalto-a-reveladora-conversa-entre-lulinha-e-lobista/)_
+
