@@ -446,3 +446,6 @@
 - **[2026-08-23 16:16 UTC]** Lula diz que Lulinha precisa se defender e nega blindagem contra a PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-lulinha-precisa-se-defender-e-nega-blindagem-a-pf.shtml)_
 
+- **[2026-08-23 18:12 UTC]** Veja como foi o domingo (23) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-domingo-23-dos-candidatos-presidente)_
+
