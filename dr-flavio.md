@@ -200,3 +200,6 @@
 - **[2026-08-21 10:51 UTC]** Mendonça barra vídeo de IA que liga Flávio a Vorcaro e rejeita argumento de sátira
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-barra-video-de-ia-que-liga-flavio-a-vorcaro-e-rejeita-argumento-de-satira/)_
 
+- **[2026-08-21 03:33 UTC]** Flávio reclama de ataques de candidatos da centro-direita e cobra críticas a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-reclama-de-ataques-de-candidatos-da-centro-direita-e-cobra-criticas-a-lula/)_
+
