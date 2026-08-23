@@ -47,3 +47,6 @@
 - **[2026-08-22 20:30 UTC]** 'Autorizar a eutanásia a quem sofre é dar um fim digno a ela', opina leitor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/autorizar-a-eutanasia-a-quem-sofre-e-dar-um-fim-digno-a-elas-opina-leitor.shtml)_
 
+- **[2026-08-23 11:57 UTC]** Ministério Público Eleitoral não vê irregularidade na foto de Lula com chapéu na urna
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/ministerio-publico-eleitoral-nao-ve-irregularidade-na-foto-de-lula-com-chapeu-na-urna.ghtml)_
+
