@@ -428,3 +428,6 @@
 - **[2026-08-23 14:36 UTC]** Lula, Moraes e Alcolumbre tramaram contra Mendonça, diz jornal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-moraes-alcolumbre-tramaram-contra-mendonca-diz-jornal/)_
 
+- **[2026-08-23 13:02 UTC]** Casos Master, Dark Horse, INSS e Lulinha atravessam campanhas e põem holofotes sobre PF e tribunais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/casos-master-dark-horse-inss-e-lulinha-atravessam-campanhas-e-poem-holofotes-sobre-pf-e-tribunais.shtml)_
+
