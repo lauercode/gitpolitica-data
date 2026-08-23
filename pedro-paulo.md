@@ -149,3 +149,6 @@
 - **[2026-08-23 04:15 UTC]** Domingo será céu nublado na capital paulista; no interior, máxima pode chegar a 32°C
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/domingo-sera-ceu-nublado-na-capital-paulista-no-interior-maxima-pode-chegar-a-32c.shtml)_
 
+- **[2026-08-23 12:01 UTC]** Paralamas, Titãs e Paulo Ricardo embalam público do C6 no Rock em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/paralamas-titas-e-paulo-ricardo-embalam-publico-do-c6-no-rock-em-sao-paulo.shtml)_
+
