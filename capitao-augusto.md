@@ -92,3 +92,6 @@
 - **[2026-08-23 23:13 UTC]** Debate presidencial: Augusto Cury, Renan Santos e Caiado se enfrentam em debate; acompanhe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 22:57 UTC]** Só Renan Santos, Caiado e Augusto Cury vão ao debate da Band: os confrontos ainda importam?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss)_
+
