@@ -206,3 +206,6 @@
 - **[2026-08-23 20:50 UTC]** Ato do 7 de Setembro na Paulista testará apoio popular ao nome de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ato-do-7-de-setembro-na-paulista-testara-apoio-popular-ao-nome-de-flavio-bolsonaro/)_
 
+- **[2026-08-23 18:12 UTC]** Veja como foi o domingo (23) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-domingo-23-dos-candidatos-presidente)_
+
