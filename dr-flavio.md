@@ -206,3 +206,6 @@
 - **[2026-08-21 00:18 UTC]** Flávio mira redutos de Bolsonaro para ampliar votação no Nordeste
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-mira-redutos-de-bolsonaro-para-ampliar-votacao-no-nordeste/)_
 
+- **[2026-08-20 20:08 UTC]** Lulinha processa Flávio Bolsonaro e pede remoção imediata de vídeo sobre farra do INSS
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lulinha-processa-flavio-bolsonaro-e-pede-remocao-imediata-de-video-sobre-farra-do-inss/)_
+
