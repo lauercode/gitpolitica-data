@@ -140,3 +140,6 @@
 - **[2026-08-22 21:38 UTC]** Violinista Elisa Fukuda tem casa invadida e violinos roubados nesta sexta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/violinista-elisa-fukuda-tem-casa-invadida-e-violinos-roubados-nesta-sexta.shtml)_
 
+- **[2026-08-22 23:10 UTC]** Festival de Gramado coroa 'Nosso Segredo' após refletir sobre divisão no mundo hoje
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/festival-de-gramado-coroa-nosso-segredo-apos-refletir-sobre-divisao-no-mundo-hoje.shtml)_
+
