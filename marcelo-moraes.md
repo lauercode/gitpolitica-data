@@ -35,3 +35,6 @@
 - **[2026-08-21 19:50 UTC]** Moraes autoriza Carlos e Jair Renan a visitarem Jair Bolsonaro em casa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-carlos-e-jair-renan-a-visitarem-jair-bolsonaro-em-casa/)_
 
+- **[2026-08-21 18:11 UTC]** Defesa de Filipe Martins insiste após Moraes ignorar pedido de visita de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-filipe-martins-insiste-apos-moraes-ignorar-pedido-de-visita-de-flavio-bolsonaro/)_
+
