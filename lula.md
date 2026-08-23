@@ -440,3 +440,6 @@
 - **[2026-08-23 16:16 UTC]** Lula diz que Lulinha precisa se defender e nega blindagem à PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-lulinha-precisa-se-defender-e-nega-blindagem-a-pf.shtml)_
 
+- **[2026-08-23 17:02 UTC]** Sem Lula, Flávio e Zema, eleição presidencial terá debate de estreia com menor quórum desde 1989
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/sem-lula-flavio-e-zema-eleicao-presidencial-tera-debate-de-estreia-com-menor-quorum-desde-1989.shtml)_
+
