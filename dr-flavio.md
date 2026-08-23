@@ -191,3 +191,6 @@
 - **[2026-08-22 13:28 UTC]** Primeiro debate presidencial terá Lula e Flávio ausentes e Marçal barrado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-debate-presidencial-tera-lula-e-flavio-ausentes-e-marcal-barrado/)_
 
+- **[2026-08-21 18:11 UTC]** Defesa de Filipe Martins insiste após Moraes ignorar pedido de visita de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-filipe-martins-insiste-apos-moraes-ignorar-pedido-de-visita-de-flavio-bolsonaro/)_
+
