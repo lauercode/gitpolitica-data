@@ -50,3 +50,6 @@
 - **[2026-08-11 16:06 UTC]** Foto na piscina e jantar secreto: a “alma podre” de Brasília
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/foto-na-piscina-e-jantar-secreto-a-alma-podre-de-brasilia/)_
 
+- **[2026-08-23 14:36 UTC]** Lula, Moraes e Alcolumbre tramaram contra Mendonça, diz jornal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-moraes-alcolumbre-tramaram-contra-mendonca-diz-jornal/)_
+
