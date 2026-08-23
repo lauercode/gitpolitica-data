@@ -200,3 +200,6 @@
 - **[2026-08-23 13:02 UTC]** Casos Master, Dark Horse, INSS e Lulinha atravessam campanhas e põem holofotes sobre PF e tribunais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/casos-master-dark-horse-inss-e-lulinha-atravessam-campanhas-e-poem-holofotes-sobre-pf-e-tribunais.shtml)_
 
+- **[2026-08-23 18:35 UTC]** Quem ganha e quem perde com a entrada de Pablo Marçal na disputa presidencial
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cre4g2dvrvyo?at_medium=RSS&at_campaign=rss)_
+
