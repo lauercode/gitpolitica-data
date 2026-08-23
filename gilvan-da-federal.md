@@ -131,3 +131,6 @@
 - **[2026-08-23 11:10 UTC]** Confira o resultado do concurso 3048 da Mega-Sena sorteado neste domingo (23)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-o-resultado-do-concurso-3048-da-mega-sena-sorteado-neste-domingo-23.shtml)_
 
+- **[2026-08-23 11:00 UTC]** Venda de milhares de preservativos defeituosos leva França a recomendar testes de ISTs e de gravidez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/venda-de-milhares-de-preservativos-defeituosos-leva-franca-a-recomendar-testes-de-ists-e-de-gravidez.shtml)_
+
