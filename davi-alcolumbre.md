@@ -32,3 +32,6 @@
 - **[2026-08-18 01:04 UTC]** Alcolumbre elogia liderança de Lula e critica tutela estrangeira sobre o Brasil
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/cafe-com-a-gazeta/alcolumbre-elogia-lideranca-de-lula-e-critica-tutela-estrangeira-sobre-o-brasil-2/)_
 
+- **[2026-08-23 13:29 UTC]** Dino diz que indicação de emendas por dirigentes é nula e alerta para punição em caso de descumprimento
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/dino-diz-que-indicacao-de-emendas-por-dirigentes-e-nula-e-alerta-para-punicao-em-caso-de-descumprimento.ghtml)_
+
