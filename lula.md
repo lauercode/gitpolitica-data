@@ -434,3 +434,6 @@
 - **[2026-08-23 16:18 UTC]** Zema diz que não vai a debate da Band, que não terá Lula nem Flávio: os confrontos ainda importam?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 18:35 UTC]** Quem ganha e quem perde com a entrada de Pablo Marçal na disputa presidencial
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cre4g2dvrvyo?at_medium=RSS&at_campaign=rss)_
+
