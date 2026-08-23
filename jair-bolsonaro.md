@@ -128,3 +128,6 @@
 - **[2026-08-21 19:50 UTC]** Moraes autoriza Carlos e Jair Renan a visitarem Jair Bolsonaro em casa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-carlos-e-jair-renan-a-visitarem-jair-bolsonaro-em-casa/)_
 
+- **[2026-08-21 12:05 UTC]** Entenda por que Jair Bolsonaro não poderá votar nas eleições de 2026
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/entenda-por-que-jair-bolsonaro-nao-podera-votar-nas-eleicoes-de-2026/)_
+
