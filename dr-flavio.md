@@ -236,3 +236,6 @@
 - **[2026-08-23 11:04 UTC]** Dino anula emendas parlamentares solicitadas ou indicadas por presidentes de partidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/dino-anula-emendas-parlamentares-solicitadas-ou-indicadas-por-presidentes-de-partidos.shtml)_
 
+- **[2026-08-23 13:02 UTC]** Casos Master, Dark Horse, INSS e Lulinha atravessam campanhas e põem holofotes sobre PF e tribunais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/casos-master-dark-horse-inss-e-lulinha-atravessam-campanhas-e-poem-holofotes-sobre-pf-e-tribunais.shtml)_
+
