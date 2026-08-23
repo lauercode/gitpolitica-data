@@ -44,3 +44,6 @@
 - **[2026-08-23 03:00 UTC]** Eleições 2026: 404 candidatos usam títulos religiosos em nome de urna
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/eleicoes-2026-candidatos-titulos-religiosos-nome-de-urna.ghtml)_
 
+- **[2026-08-22 20:30 UTC]** 'Autorizar a eutanásia a quem sofre é dar um fim digno a ela', opina leitor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/autorizar-a-eutanasia-a-quem-sofre-e-dar-um-fim-digno-a-elas-opina-leitor.shtml)_
+
