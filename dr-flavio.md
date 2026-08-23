@@ -188,3 +188,6 @@
 - **[2026-08-22 20:11 UTC]** Flávio e Lula fazem atos no Rio com discursos voltados à segurança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-lula-atos-discursos-seguranca/)_
 
+- **[2026-08-22 13:28 UTC]** Primeiro debate presidencial terá Lula e Flávio ausentes e Marçal barrado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-debate-presidencial-tera-lula-e-flavio-ausentes-e-marcal-barrado/)_
+
