@@ -29,3 +29,6 @@
 - **[2026-08-10 20:51 UTC]** Weverton aciona Alcolumbre após vazamento de foto com outros políticos em piscina
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/weverton-aciona-alcolumbre-por-vazamento-de-foto-com-outros-politicos-em-piscina/)_
 
+- **[2026-08-18 01:04 UTC]** Alcolumbre elogia liderança de Lula e critica tutela estrangeira sobre o Brasil
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/cafe-com-a-gazeta/alcolumbre-elogia-lideranca-de-lula-e-critica-tutela-estrangeira-sobre-o-brasil-2/)_
+
