@@ -59,3 +59,6 @@
 - **[2026-08-23 13:04 UTC]** Augusto Cury segue Zema e também desiste de debate; 1º debate presidencial terá só Caiado e Renan
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/zema-desiste-e-amplia-esvaziamento-do-primeiro-debate-presidencial-na-tv.shtml)_
 
+- **[2026-08-23 18:40 UTC]** Debate começa com protestos de Renan e Cury contra ausências de Lula e Flávio; assista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidatos-comecam-a-chegar-para-debate-renan-leva-fraldas-para-criticar-ausencias-de-lula-e-flavio.shtml)_
+
