@@ -62,3 +62,6 @@
 - **[2026-08-12 19:30 UTC]** Após fazer L, Hugo Motta prioriza PL da Gasolina e MP das Blusinhas na Câmara
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/apos-fazer-l-hugo-motta-prioriza-pl-da-gasolina-e-mp-das-blusinhas-na-camara/)_
 
+- **[2026-08-23 03:00 UTC]** Federações partidárias neutras na corrida presidencial reúnem 3,7 mil candidatos nas eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/federacoes-partidarias-neutras-na-corrida-presidencial-reunem-37-mil-candidatos-nas-eleicoes.ghtml)_
+
