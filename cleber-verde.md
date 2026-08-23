@@ -20,3 +20,6 @@
 - **[2026-08-22 04:00 UTC]** Saiba como usar 5 produtos de k-beauty virais, como o shot de retinal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/saiba-como-usar-5-produtos-de-k-beauty-virais-como-o-shot-de-retinal.shtml)_
 
+- **[2026-08-23 13:00 UTC]** Kyle Chandler e Aaron Pierre comentam parceria em 'Lanternas': 'Nos conectamos muito rápido'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/08/kyle-chandler-e-aaron-pierre-comentam-parceria-em-lanternas-nos-conectamos-muito-rapido.shtml)_
+
