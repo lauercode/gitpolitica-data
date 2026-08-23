@@ -413,3 +413,6 @@
 - **[2026-08-23 03:00 UTC]** Federações partidárias neutras na corrida presidencial reúnem 3,7 mil candidatos nas eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/federacoes-partidarias-neutras-na-corrida-presidencial-reunem-37-mil-candidatos-nas-eleicoes.ghtml)_
 
+- **[2026-08-23 06:00 UTC]** Governo Lula diz que chegará a 266 mil famílias incluídas na reforma agrária até o fim do mandato
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-lula-diz-que-chegara-a-266-mil-familias-incluidas-na-reforma-agraria-ate-o-fim-do-mandato.shtml)_
+
