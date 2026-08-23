@@ -230,3 +230,6 @@
 - **[2026-08-23 09:44 UTC]** Sem Lula e Flávio Bolsonaro, os debates ainda importam? O que dizem os especialistas
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 13:29 UTC]** Dino diz que indicação de emendas por dirigentes é nula e alerta para punição em caso de descumprimento
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/dino-diz-que-indicacao-de-emendas-por-dirigentes-e-nula-e-alerta-para-punicao-em-caso-de-descumprimento.ghtml)_
+
