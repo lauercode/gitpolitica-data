@@ -308,3 +308,6 @@
 - **[2026-08-22 22:00 UTC]** Desgastes de Lula e Flávio mantêm a disputa acirrada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/desgastes-de-lula-e-flavio-mantem-a-disputa-acirrada.shtml)_
 
+- **[2026-08-22 20:40 UTC]** Zema lança jingle com vídeo de IA que mostra Lula e ministros do STF na prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/zema-jingle-video-lula-ministros-stf-prisao/)_
+
