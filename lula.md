@@ -398,3 +398,6 @@
 - **[2026-08-18 09:00 UTC]** Por que a Faria Lima prefere Lula?
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/vozes/luciano-trigo/por-que-a-faria-lima-prefere-lula/)_
 
+- **[2026-08-18 01:04 UTC]** Alcolumbre elogia liderança de Lula e critica tutela estrangeira sobre o Brasil
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/cafe-com-a-gazeta/alcolumbre-elogia-lideranca-de-lula-e-critica-tutela-estrangeira-sobre-o-brasil-2/)_
+
