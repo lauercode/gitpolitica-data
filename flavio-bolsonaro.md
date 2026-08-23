@@ -209,3 +209,6 @@
 - **[2026-08-23 18:12 UTC]** Veja como foi o domingo (23) dos candidatos a presidente
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-domingo-23-dos-candidatos-presidente)_
 
+- **[2026-08-23 21:39 UTC]** Datafolha: 56% dizem que iriam votar nas eleições de 2026 mesmo se não fosse obrigatório
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/datafolha-se-voto-nao-fosse-obrigatorio.ghtml)_
+
