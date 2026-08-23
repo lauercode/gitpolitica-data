@@ -335,3 +335,6 @@
 - **[2026-08-21 20:05 UTC]** Lula mira soberania na reação a Trump, mas reciprocidade pode elevar custos ao Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-mira-soberania-reacao-trump-reciprocidade-elevar-custos-brasil/)_
 
+- **[2026-08-21 15:25 UTC]** Durigan ataca Bolsonaro por medidas “irresponsáveis” adotadas até 2022
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/durigan-ataca-bolsonaro-medidas-irresponsaveis-adotadas-2022/)_
+
