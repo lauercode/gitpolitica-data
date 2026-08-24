@@ -365,3 +365,6 @@
 - **[2026-08-23 23:25 UTC]** Quem são os candidatos à Presidência na Eleição 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 20:30 UTC]** Veja como foi a segunda-feira (24) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-segunda-feira-24-dos-candidatos-presidente)_
+
