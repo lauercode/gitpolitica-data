@@ -665,3 +665,6 @@
 - **[2026-08-24 19:59 UTC]** SUS lança teleatendimento psicológico para mulheres vítimas de violência em evento com Janja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/sus-lanca-teleatendimento-psicologico-para-mulheres-vitimas-de-violencia-em-evento-com-janja.shtml)_
 
+- **[2026-08-23 23:25 UTC]** Quem são os candidatos à Presidência na Eleição 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss)_
+
