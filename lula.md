@@ -611,3 +611,6 @@
 - **[2026-08-24 15:31 UTC]** O inadiável, mas inalcançável, ajuste fiscal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/o-inadiavel-mas-inalcancavel-ajuste-fiscal.shtml)_
 
+- **[2026-08-24 14:50 UTC]** Lula associa fim da escala 6x1 a tempo com família em meio a pressão sobre o Congresso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/lula-associa-fim-da-escala-6x1-a-tempo-com-familia-em-meio-pressao-sobre-o-congresso.shtml)_
+
