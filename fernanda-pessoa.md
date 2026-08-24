@@ -62,3 +62,6 @@
 - **[2026-08-23 23:00 UTC]** Vontade de abandonar o mundo se repete na história de diferentes povos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/08/vontade-de-abandonar-o-mundo-se-repete-na-historia-de-diferentes-povos.shtml)_
 
+- **[2026-08-24 07:50 UTC]** Defesa Civil interdita 13 imóveis após explosão de gás na zona norte de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/defesa-civil-interdita-13-imoveis-apos-explosao-de-gas-na-zona-norte-de-sp.shtml)_
+
