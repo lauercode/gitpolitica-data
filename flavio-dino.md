@@ -29,3 +29,6 @@
 - **[2026-08-23 11:04 UTC]** Dino anula emendas parlamentares solicitadas ou indicadas por presidentes de partidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/dino-anula-emendas-parlamentares-solicitadas-ou-indicadas-por-presidentes-de-partidos.shtml)_
 
+- **[2026-08-24 00:35 UTC]** Com Caiado, Renan e Cury, primeiro debate presidencial é marcado por críticas às ausências de Lula e Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/primeiro-debate-presidencial.ghtml)_
+
