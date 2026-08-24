@@ -71,3 +71,6 @@
 - **[2026-08-23 13:29 UTC]** Dino diz que indicação de emendas por dirigentes é nula e alerta para punição em caso de descumprimento
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/dino-diz-que-indicacao-de-emendas-por-dirigentes-e-nula-e-alerta-para-punicao-em-caso-de-descumprimento.ghtml)_
 
+- **[2026-08-24 03:00 UTC]** 23% dos candidatos disputam cargos em estados diferentes daqueles em que nasceram
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/23percent-dos-candidatos-disputam-cargos-em-estados-diferentes-daqueles-em-que-nasceram.ghtml)_
+
