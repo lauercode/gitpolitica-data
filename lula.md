@@ -650,3 +650,6 @@
 - **[2026-08-24 19:45 UTC]** Duvivier e Malafaia estão certos sobre estratégia do PT com evangélicos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/08/duvivier-e-malafaia-estao-certos-sobre-estrategia-do-pt-com-evangelicos.shtml)_
 
+- **[2026-08-24 19:37 UTC]** Governo Lula tenta expandir contratação de MEIs por ministérios e estatais perto da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-lula-tenta-expandir-contratacao-de-meis-por-ministerios-e-estatais-perto-da-eleicao.shtml)_
+
