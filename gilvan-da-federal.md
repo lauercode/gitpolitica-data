@@ -197,3 +197,6 @@
 - **[2026-08-24 20:41 UTC]** Samara Martins, candidata do UP à presidência, defende que políticos busquem atendimento no SUS em vez da rede privada
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/samara-martins-agenda-teresina.ghtml)_
 
+- **[2026-08-24 21:44 UTC]** Moraes diz que Brasil tem ‘trauma’ com política de segurança pública e defende cooperação: ‘precisamos superar vaidades’
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/moraes-diz-que-brasil-tem-trauma-com-politica-de-seguranca-publica-e-defende-cooperacao-precisamos-superar-vaidades.ghtml)_
+
