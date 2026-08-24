@@ -245,3 +245,6 @@
 - **[2026-08-24 09:07 UTC]** BTG/Nexus: Lula e Flávio Bolsonaro mantêm empate técnico no 2º turno, com 46% a 45%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/btgnexus-lula-e-flavio-bolsonaro-mantem-empate-tecnico-no-2o-turno-com-46-a-45.shtml)_
 
+- **[2026-08-24 17:07 UTC]** Alfredo Gaspar chama Lulinha de “estrela da corrupção”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alfredo-gaspar-chama-lulinha-de-estrela-da-corrupcao/)_
+
