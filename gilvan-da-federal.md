@@ -137,3 +137,6 @@
 - **[2026-08-23 13:18 UTC]** Mulher sequestrada por ex é encontrada amordaçada e acorrentada em Goiás
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mulher-sequestrada-por-ex-e-encontrada-amordacada-e-acorrentada-em-goias.shtml)_
 
+- **[2026-08-24 00:35 UTC]** Com Caiado, Renan e Cury, primeiro debate presidencial é marcado por críticas às ausências de Lula e Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/primeiro-debate-presidencial.ghtml)_
+
