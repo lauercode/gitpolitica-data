@@ -551,3 +551,6 @@
 - **[2026-08-24 10:39 UTC]** Lula quer Trump como “aliado improvável” contra Rubio, diz jornal britânico
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/lula-quer-trump-aliado-improvavel-contra-rubio-diz-jornal-britanico/)_
 
+- **[2026-08-24 10:42 UTC]** Quem é Augusto Cury, o escritor que disputa as eleições de 2026 e quer 'aumentar a régua do debate'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
+
