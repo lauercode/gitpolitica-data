@@ -197,3 +197,6 @@
 - **[2026-08-24 10:00 UTC]** Novas regras do Campo de Marte exigiram análise de mais de 1.000 projetos de prédios em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/novas-regras-do-campo-de-marte-exigiram-analise-de-mais-de-1000-projetos-de-predios-em-sp.shtml)_
 
+- **[2026-08-24 10:54 UTC]** Tarcísio cancela participação no Roda Viva desta segunda (24)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/tarcisio-cancela-participacao-no-roda-viva-desta-segunda-24.shtml)_
+
