@@ -281,3 +281,6 @@
 - **[2026-08-24 01:39 UTC]** Flávio Bolsonaro reage a críticas por ausência e diz querer debates contra Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-reage-a-criticas-por-ausencia-e-diz-querer-debates-contra-lula/)_
 
+- **[2026-08-24 01:48 UTC]** Ausência de Lula e Flávio vira munição para ataques e cobranças sobre corrupção em primeiro debate
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-cobram-lula-flavio-suspeitascorrupcao-ausencias-debate-presidente/)_
+
