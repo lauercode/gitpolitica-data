@@ -158,3 +158,6 @@
 - **[2026-08-24 09:14 UTC]** Receita abre consulta ao 4º lote de restituição do Imposto de Renda nesta segunda (24); veja quem recebe
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/receita-abre-consulta-ao-4o-lote-de-restituicao-do-imposto-de-renda-nesta-segunda-24-veja-quem-recebe.shtml)_
 
+- **[2026-08-24 08:43 UTC]** TCU suspende uso de dinheiro esquecido para garantir operações do Novo Desenrola
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/tcu-suspende-uso-de-dinheiro-esquecido-para-garantir-operacoes-do-novo-desenrola.shtml)_
+
