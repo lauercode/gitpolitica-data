@@ -587,3 +587,6 @@
 - **[2026-08-24 15:50 UTC]** Brasil Soberano: governo define plano para aplicar R$ 13,5 bilhões em crédito para empresas afetadas por tarifaço e conflitos
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/24/brasil-soberano-executivo-define-plano-para-aplicar-r-135-bilhoes-em-linhas-de-credito-para-empresas-afetadas-pelo-tarifaco.ghtml)_
 
+- **[2026-08-24 14:11 UTC]** Uma janela para a realidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/08/uma-janela-para-a-realidade.shtml)_
+
