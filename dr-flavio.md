@@ -308,3 +308,6 @@
 - **[2026-08-24 09:11 UTC]** Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24)_
 
+- **[2026-08-24 12:06 UTC]** TSE precisa acabar com dúvidas sobre uso de inteligência artificial antes do início do horário eleitoral, defendem ministros
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/24/tse-precisa-acabar-com-duvidas-sobre-uso-de-inteligencia-artificial-antes-do-inicio-do-horario-eleitoral-defendem-ministros.ghtml)_
+
