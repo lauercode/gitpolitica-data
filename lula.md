@@ -590,3 +590,6 @@
 - **[2026-08-24 14:11 UTC]** Uma janela para a realidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/08/uma-janela-para-a-realidade.shtml)_
 
+- **[2026-08-24 15:14 UTC]** Governo destina R$ 4 bi em crédito subsidiado para fertilizantes e minerais críticos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-destina-r-4-bi-em-credito-subsidiado-para-fertilizantes-e-minerais-criticos.shtml)_
+
