@@ -29,3 +29,6 @@
 - **[2026-08-23 22:23 UTC]** Lula diz que conversas com Trump são 'civilizadas e respeitosas', mas que 2º escalão dos EUA 'toma atitudes impensáveis'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/lula-diz-que-conversas-com-trump-sao-civilizadas-e-respeitosas-mas-segundo-escalao-dos-eua-toma-atitudes-impensaveis.ghtml)_
 
+- **[2026-08-23 22:23 UTC]** Em entrevista, Lula critica 2º escalão de Trump e diz que Lulinha terá que provar inocência: 'Ninguém está impune se cometeu erro'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/lula-diz-que-conversas-com-trump-sao-civilizadas-e-respeitosas-mas-segundo-escalao-dos-eua-toma-atitudes-impensaveis.ghtml)_
+
