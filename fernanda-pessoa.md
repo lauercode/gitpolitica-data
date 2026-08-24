@@ -56,3 +56,6 @@
 - **[2026-08-23 16:56 UTC]** Jovens eleitores quilombolas defendem voto em defesa de ideais
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais)_
 
+- **[2026-08-24 00:35 UTC]** Com Caiado, Renan e Cury, primeiro debate presidencial é marcado por críticas às ausências de Lula e Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/primeiro-debate-presidencial.ghtml)_
+
