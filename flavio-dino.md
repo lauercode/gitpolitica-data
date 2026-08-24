@@ -41,3 +41,6 @@
 - **[2026-08-24 15:07 UTC]** Emendas parlamentares são o maior vetor de corrupção no Brasil hoje, diz Flávio Dino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/emendas-parlamentares-sao-o-maior-vetor-de-corrupcao-no-brasil-hoje-diz-flavio-dino.shtml)_
 
+- **[2026-08-24 19:47 UTC]** PF terá acesso a informações de ONG ligada à produtora do filme sobre Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/pf-tera-acesso-a-informacoes-de-ong-ligada-a-produtora-do-filme-sobre-jair-bolsonaro.ghtml)_
+
