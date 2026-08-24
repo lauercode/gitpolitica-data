@@ -44,3 +44,6 @@
 - **[2026-08-24 19:47 UTC]** PF terá acesso a informações de ONG ligada à produtora do filme sobre Jair Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/pf-tera-acesso-a-informacoes-de-ong-ligada-a-produtora-do-filme-sobre-jair-bolsonaro.ghtml)_
 
+- **[2026-08-24 17:09 UTC]** Dino autoriza PF a acessar provas da Polícia Civil de SP sobre produtora do filme 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/dino-autoriza-pf-a-acessar-provas-da-policia-civil-de-sp-sobre-produtora-do-filme-dark-horse.shtml)_
+
