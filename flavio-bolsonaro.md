@@ -215,3 +215,6 @@
 - **[2026-08-23 21:33 UTC]** Datafolha: para 50% dos eleitores, há chance de outros países interferirem na eleição brasileira
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/datafolha-chance-interferirem-eleicao.ghtml)_
 
+- **[2026-08-24 00:35 UTC]** Com Caiado, Renan e Cury, primeiro debate presidencial é marcado por críticas às ausências de Lula e Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/primeiro-debate-presidencial.ghtml)_
+
