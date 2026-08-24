@@ -176,3 +176,6 @@
 - **[2026-08-24 14:30 UTC]** Michelle fará lives semanais ao lado de Bia Kicis até as eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/michelle-fara-lives-semanais-ao-lado-de-bia-kicis-ate-as-eleicoes.shtml)_
 
+- **[2026-08-24 17:37 UTC]** Erika Hilton ataca Renan depois de ser chamada de “mulher muito grande”: “Fome de carguinho”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/erika-hilton-defende-escala-6x1-depois-de-ser-chamada-de-mulher-grande-por-renan-fome-de-carguinho/)_
+
