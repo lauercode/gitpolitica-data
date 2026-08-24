@@ -596,3 +596,6 @@
 - **[2026-08-24 15:03 UTC]** Relator da escala 6x1 promete texto na quinta (27) e avalia mudança na versão da Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/relator-da-escala-6x1-promete-texto-na-quinta-27-e-avalia-mudanca-na-versao-da-camara.shtml)_
 
+- **[2026-08-24 14:50 UTC]** Lula associa fim da escala 6x1 a tempo com família em meio pressão sobre o Congresso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/lula-associa-fim-da-escala-6x1-a-tempo-com-familia-em-meio-pressao-sobre-o-congresso.shtml)_
+
