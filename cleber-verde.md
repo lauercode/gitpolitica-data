@@ -23,3 +23,6 @@
 - **[2026-08-23 13:00 UTC]** Kyle Chandler e Aaron Pierre comentam parceria em 'Lanternas': 'Nos conectamos muito rápido'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/08/kyle-chandler-e-aaron-pierre-comentam-parceria-em-lanternas-nos-conectamos-muito-rapido.shtml)_
 
+- **[2026-08-24 09:02 UTC]** Braskem tem aval do conselho para pedir recuperação extrajudicial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/braskem-pede-recuperacao-extrajudicial-diz-agencia.shtml)_
+
