@@ -548,3 +548,6 @@
 - **[2026-08-24 08:14 UTC]** Flávio Bolsonaro critica Lula e diz qual seria um de seus 'primeiros atos' caso vença as eleições
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ce3082ey15lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 10:39 UTC]** Lula quer Trump como “aliado improvável” contra Rubio, diz jornal britânico
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/lula-quer-trump-aliado-improvavel-contra-rubio-diz-jornal-britanico/)_
+
