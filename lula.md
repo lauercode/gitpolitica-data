@@ -512,3 +512,6 @@
 - **[2026-08-24 01:48 UTC]** Ausência de Lula e Flávio vira munição para ataques e cobranças sobre corrupção em primeiro debate
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-cobram-lula-flavio-suspeitascorrupcao-ausencias-debate-presidente/)_
 
+- **[2026-08-24 02:19 UTC]** Como foi debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss)_
+
