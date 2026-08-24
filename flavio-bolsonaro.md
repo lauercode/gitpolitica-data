@@ -233,3 +233,6 @@
 - **[2026-08-24 03:00 UTC]** Romeu Zema participa nesta segunda de série de entrevistas da Globo com candidatos a presidente; saiba como assistir
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevistas-globo-como-assistir.ghtml)_
 
+- **[2026-08-24 08:14 UTC]** Flávio Bolsonaro critica Lula e diz qual seria um de seus 'primeiros atos' caso vença as eleições
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ce3082ey15lo?at_medium=RSS&at_campaign=rss)_
+
