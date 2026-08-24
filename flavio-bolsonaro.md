@@ -242,3 +242,6 @@
 - **[2026-08-24 12:06 UTC]** TSE precisa acabar com dúvidas sobre uso de inteligência artificial antes do início do horário eleitoral, defendem ministros
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/24/tse-precisa-acabar-com-duvidas-sobre-uso-de-inteligencia-artificial-antes-do-inicio-do-horario-eleitoral-defendem-ministros.ghtml)_
 
+- **[2026-08-24 09:07 UTC]** BTG/Nexus: Lula e Flávio Bolsonaro mantêm empate técnico no 2º turno, com 46% a 45%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/btgnexus-lula-e-flavio-bolsonaro-mantem-empate-tecnico-no-2o-turno-com-46-a-45.shtml)_
+
