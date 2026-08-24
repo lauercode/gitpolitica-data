@@ -488,3 +488,6 @@
 - **[2026-08-23 23:00 UTC]** Crítica a 'vazamentos seletivos' une petistas sobre caso Lulinha e bolsonaristas quanto a Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/critica-a-vazamentos-seletivos-une-petistas-sobre-caso-lulinha-e-bolsonaristas-quanto-a-vorcaro.shtml)_
 
+- **[2026-08-23 23:00 UTC]** Gasto militar do Brasil desafia promessas de candidatos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/gasto-militar-do-brasil-desafia-promessas-de-candidatos.shtml)_
+
