@@ -344,3 +344,6 @@
 - **[2026-08-24 20:35 UTC]** Eduardo Bolsonaro apoia crítica de Allan dos Santos à candidatura de Michelle
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/distrito-federal/eduardo-bolsonaro-apoia-critica-de-allan-dos-santos-a-candidatura-de-michelle/)_
 
+- **[2026-08-24 21:16 UTC]** Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/zema-entrevista-candidatos-presidente.ghtml)_
+
