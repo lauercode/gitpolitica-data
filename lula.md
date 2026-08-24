@@ -473,3 +473,6 @@
 - **[2026-08-24 00:35 UTC]** Com Caiado, Renan e Cury, primeiro debate presidencial é marcado por críticas às ausências de Lula e Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/primeiro-debate-presidencial.ghtml)_
 
+- **[2026-08-23 22:23 UTC]** Em entrevista, Lula critica 2º escalão de Trump e diz que Lulinha terá que provar inocência: 'Ninguém está impune se cometeu erro'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/lula-diz-que-conversas-com-trump-sao-civilizadas-e-respeitosas-mas-segundo-escalao-dos-eua-toma-atitudes-impensaveis.ghtml)_
+
