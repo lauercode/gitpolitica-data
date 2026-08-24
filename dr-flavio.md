@@ -290,3 +290,6 @@
 - **[2026-08-24 03:00 UTC]** Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml)_
 
+- **[2026-08-24 03:00 UTC]** Romeu Zema participa nesta segunda de série de entrevistas da Globo com candidatos a presidente; saiba como assistir
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevistas-globo-como-assistir.ghtml)_
+
