@@ -212,3 +212,6 @@
 - **[2026-08-24 10:36 UTC]** Tarcísio não vai a entrevista no Roda Viva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/tarcisio-cancela-entrevista-no-roda-viva.shtml)_
 
+- **[2026-08-24 17:09 UTC]** Dino autoriza PF a acessar provas da Polícia Civil de SP sobre produtora do filme 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/dino-autoriza-pf-a-acessar-provas-da-policia-civil-de-sp-sobre-produtora-do-filme-dark-horse.shtml)_
+
