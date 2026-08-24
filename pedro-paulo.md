@@ -206,3 +206,6 @@
 - **[2026-08-24 13:04 UTC]** Em crise, Dorival critica o próprio time e Luís Castro cita Abel Ferreira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/em-crise-dorival-critica-o-proprio-time-e-luis-castro-cita-abel-ferreira.shtml)_
 
+- **[2026-08-24 15:00 UTC]** C6 no Rock promoveu uma catarse musical regada a nostalgia em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/c6-no-rock-promoveu-uma-catarse-musical-regada-a-nostalgia-em-sao-paulo.shtml)_
+
