@@ -155,3 +155,6 @@
 - **[2026-08-24 10:00 UTC]** Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/24/solidariedade-stf-indicacao-de-emendas.ghtml)_
 
+- **[2026-08-24 09:14 UTC]** Receita abre consulta ao 4º lote de restituição do Imposto de Renda nesta segunda (24); veja quem recebe
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/receita-abre-consulta-ao-4o-lote-de-restituicao-do-imposto-de-renda-nesta-segunda-24-veja-quem-recebe.shtml)_
+
