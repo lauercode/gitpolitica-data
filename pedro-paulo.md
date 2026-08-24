@@ -176,3 +176,6 @@
 - **[2026-08-24 07:00 UTC]** Galerias de arte aumentam apostas antes das eleições e de mais uma SP-Arte Rotas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/08/galerias-de-arte-aumentam-apostas-antes-das-eleicoes-e-de-mais-uma-sp-arte-rotas.shtml)_
 
+- **[2026-08-24 08:07 UTC]** Operação da polícia mira 'círculo de fogo' que derretia joias roubadas em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/operacao-da-policia-mira-circulo-de-fogo-que-derretia-joias-roubadas-em-sp.shtml)_
+
