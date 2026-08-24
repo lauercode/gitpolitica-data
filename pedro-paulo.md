@@ -188,3 +188,6 @@
 - **[2026-08-24 09:03 UTC]** Michel Alcoforado recebe convidados em estreia de monólogo em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/michel-alcoforado-recebe-convidados-em-estreia-de-monologo-em-sp.shtml)_
 
+- **[2026-08-24 10:07 UTC]** São Paulo entra de vez na briga contra a queda, e Palmeiras ganha gordura; veja a situação dos 20 times
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/sao-paulo-entra-de-vez-na-briga-contra-a-queda-e-palmeiras-ganha-gordura-veja-a-situacao-dos-20-times.shtml)_
+
