@@ -71,3 +71,6 @@
 - **[2026-08-24 16:38 UTC]** Ministério aponta 40 mil amostras de DNA de desconhecidos fora dos bancos de identificação
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/ministerio-aponta-40-mil-amostras-de-dna-de-desconhecidos-fora-dos-bancos-de-identificacao.ghtml)_
 
+- **[2026-08-24 13:52 UTC]** Ataque de torcida organizada em dia de Ba-Vi termina com um morto em Salvador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/ataque-de-torcida-organizada-em-dia-de-ba-vi-termina-com-um-morto-em-salvador.shtml)_
+
