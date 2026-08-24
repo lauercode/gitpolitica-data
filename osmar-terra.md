@@ -23,3 +23,6 @@
 - **[2026-08-24 06:00 UTC]** Fungos e bactérias podem sobreviver na Lua, mas sem proliferar, sugere estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/fungos-e-bacterias-podem-sobreviver-na-lua-mas-sem-proliferar-sugere-estudo.shtml)_
 
+- **[2026-08-24 13:37 UTC]** Vaca Muerta vira 'terra prometida' para Milei, mas salvará a Argentina?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/vaca-muerta-vira-terra-prometida-para-milei-mas-salvara-a-argentina.shtml)_
+
