@@ -83,3 +83,6 @@
 - **[2026-08-24 03:30 UTC]** Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 10:59 UTC]** Kassab nega ter cochilado em debate com Caiado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/kassab-nega-ter-cochilado-em-debate-com-caiado.shtml)_
+
