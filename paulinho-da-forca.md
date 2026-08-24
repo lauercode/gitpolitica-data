@@ -35,3 +35,6 @@
 - **[2026-08-24 00:35 UTC]** Com Caiado, Renan e Cury, primeiro debate presidencial é marcado por críticas às ausências de Lula e Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/primeiro-debate-presidencial.ghtml)_
 
+- **[2026-08-24 10:00 UTC]** Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/24/solidariedade-stf-indicacao-de-emendas.ghtml)_
+
