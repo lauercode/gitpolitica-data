@@ -236,3 +236,6 @@
 - **[2026-08-24 08:14 UTC]** Flávio Bolsonaro critica Lula e diz qual seria um de seus 'primeiros atos' caso vença as eleições
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ce3082ey15lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 09:11 UTC]** Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24)_
+
