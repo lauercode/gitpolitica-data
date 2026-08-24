@@ -179,3 +179,6 @@
 - **[2026-08-24 17:37 UTC]** Erika Hilton ataca Renan depois de ser chamada de “mulher muito grande”: “Fome de carguinho”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/erika-hilton-defende-escala-6x1-depois-de-ser-chamada-de-mulher-grande-por-renan-fome-de-carguinho/)_
 
+- **[2026-08-24 19:03 UTC]** Joel Rodrigues defende reforço das polícias e investimento em tecnologia durante caminhada em Teresina
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/joel-rodrigues-teresina-caminhada.ghtml)_
+
