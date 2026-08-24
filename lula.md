@@ -656,3 +656,6 @@
 - **[2026-08-24 19:36 UTC]** O mais importante é aquilo de que ninguém fala
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-mais-importante-e-aquilo-de-que-ninguem-fala.shtml)_
 
+- **[2026-08-24 20:13 UTC]** Quaest: Allyson tem 25%, Cadu tem 21% e Álvaro, 19% no Rio Grande do Norte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/quaest-allyson-tem-25-cadu-tem-21-e-alvaro-19-no-rio-grande-do-norte.shtml)_
+
