@@ -11,3 +11,6 @@
 - **[2026-08-22 17:16 UTC]** De colete à prova de balas, Renan Santos vai a comunidade em SP e promete programa de R$ 1,5 trilhão contra favelização
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/de-colete-a-prova-de-balas-renan-santos-vai-a-comunidade-em-sp-e-promete-programa-de-r-15-trilhao-contra-favelizacao.ghtml)_
 
+- **[2026-08-24 03:00 UTC]** Romeu Zema participa nesta segunda de série de entrevistas da Globo com candidatos a presidente; saiba como assistir
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevistas-globo-como-assistir.ghtml)_
+
