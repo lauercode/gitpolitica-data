@@ -161,3 +161,6 @@
 - **[2026-08-24 08:43 UTC]** TCU suspende uso de dinheiro esquecido para garantir operações do Novo Desenrola
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/tcu-suspende-uso-de-dinheiro-esquecido-para-garantir-operacoes-do-novo-desenrola.shtml)_
 
+- **[2026-08-24 11:44 UTC]** INSS libera consignado sem biometria para aposentados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/inss-libera-consignado-sem-biometria-para-aposentados.shtml)_
+
