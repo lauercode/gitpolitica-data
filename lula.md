@@ -572,3 +572,6 @@
 - **[2026-08-24 12:02 UTC]** BRB autoriza ações contra ex-administradores envolvidos no caso Master e Reag
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/brb-autoriza-acoes-contra-ex-administradores-envolvidos-no-caso-master-e-reag.shtml)_
 
+- **[2026-08-24 14:39 UTC]** Contato do grupo de Lulinha no Ministério da Saúde hoje despacha com Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/contato-do-grupo-de-lulinha-no-ministerio-da-saude-hoje-despacha-com-lula/)_
+
