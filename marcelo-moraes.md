@@ -59,3 +59,6 @@
 - **[2026-08-24 11:18 UTC]** Fux critica Receita por ampliar fiscalização do Pix e relaxar controle sobre setor de bebidas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-critica-receita-por-ampliar-fiscalizacao-do-pix-e-relaxar-controle-sobre-setor-de-bebidas/)_
 
+- **[2026-08-24 14:54 UTC]** Bolsonaro pede a Moraes autorização para aulas à filha em casa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonaro-pede-a-moraes-autorizacao-para-professor-dar-aulas-a-filha-em-casa/)_
+
