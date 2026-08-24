@@ -32,3 +32,6 @@
 - **[2026-08-23 18:00 UTC]** Perda de 15% da força muscular já ameaça mobilidade na velhice, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/perda-de-15-da-forca-muscular-ja-ameaca-mobilidade-na-velhice-diz-estudo.shtml)_
 
+- **[2026-08-24 00:35 UTC]** Com Caiado, Renan e Cury, primeiro debate presidencial é marcado por críticas às ausências de Lula e Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/primeiro-debate-presidencial.ghtml)_
+
