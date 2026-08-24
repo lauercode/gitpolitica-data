@@ -146,3 +146,6 @@
 - **[2026-08-24 03:00 UTC]** 23% dos candidatos disputam cargos em estados diferentes daqueles em que nasceram
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/23percent-dos-candidatos-disputam-cargos-em-estados-diferentes-daqueles-em-que-nasceram.ghtml)_
 
+- **[2026-08-24 03:00 UTC]** Quase 3 em cada 10 candidatos de 2026 são estreantes nas urnas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/estreantes-candidatos-eleicoes-2026.ghtml)_
+
