@@ -83,3 +83,6 @@
 - **[2026-08-24 12:37 UTC]** Vendas de imóveis crescem 5,3% no segundo trimestre, apesar de juros altos, aponta Cbic
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/vendas-de-imoveis-crescem-53-no-segundo-trimestre-apesar-de-juros-altos-aponta-cbic.shtml)_
 
+- **[2026-08-24 15:03 UTC]** Relator da escala 6x1 promete texto na quinta (27) e avalia mudança na versão da Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/relator-da-escala-6x1-promete-texto-na-quinta-27-e-avalia-mudanca-na-versao-da-camara.shtml)_
+
