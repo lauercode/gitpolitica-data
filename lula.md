@@ -578,3 +578,6 @@
 - **[2026-08-24 14:36 UTC]** Governo Lula registra 68% de fracasso na aprovação de MPs no Congresso em 2026
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-registra-68-de-fracasso-na-aprovacao-de-mps-no-congresso-em-2026/)_
 
+- **[2026-08-24 13:00 UTC]** Governo libera R$ 7,7 bi em verba extra da Saúde que parlamentares tratam como emenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/governo-libera-r-77-bi-em-verba-extra-da-saude-que-parlamentares-tratam-como-emenda.shtml)_
+
