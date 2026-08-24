@@ -293,3 +293,6 @@
 - **[2026-08-24 03:00 UTC]** Romeu Zema participa nesta segunda de série de entrevistas da Globo com candidatos a presidente; saiba como assistir
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevistas-globo-como-assistir.ghtml)_
 
+- **[2026-08-24 03:30 UTC]** Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss)_
+
