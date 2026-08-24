@@ -227,3 +227,6 @@
 - **[2026-08-24 01:39 UTC]** Flávio Bolsonaro reage a críticas por ausência e diz querer debates contra Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-reage-a-criticas-por-ausencia-e-diz-querer-debates-contra-lula/)_
 
+- **[2026-08-24 03:00 UTC]** Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/presidenciaveis-querem-brasil-proximo-da-asia-e-eua-fortalecer-o-mercosul-e-deixar-o-brics-veja-propostas-para-politica-externa.ghtml)_
+
