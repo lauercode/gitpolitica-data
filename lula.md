@@ -635,3 +635,6 @@
 - **[2026-08-24 22:05 UTC]** Quaest no Paraná: Flávio Bolsonaro, 41%; Lula, 23%;  Ronaldo Caiado, 5%; Romeu Zema, 3%; e Renan Santos, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/24/quaest-pr-presidente-24-agosto.ghtml)_
 
+- **[2026-08-24 21:44 UTC]** Moraes diz que Brasil tem ‘trauma’ com política de segurança pública e defende cooperação: ‘precisamos superar vaidades’
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/moraes-diz-que-brasil-tem-trauma-com-politica-de-seguranca-publica-e-defende-cooperacao-precisamos-superar-vaidades.ghtml)_
+
