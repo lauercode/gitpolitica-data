@@ -563,3 +563,6 @@
 - **[2026-08-24 08:43 UTC]** TCU suspende uso de dinheiro esquecido para garantir operações do Novo Desenrola
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/tcu-suspende-uso-de-dinheiro-esquecido-para-garantir-operacoes-do-novo-desenrola.shtml)_
 
+- **[2026-08-24 12:46 UTC]** Lobista articulou obras do governo Lula no MA através de Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lobista-articulou-obras-governo-lula-ma-atraves-lulinha/)_
+
