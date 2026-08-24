@@ -41,3 +41,6 @@
 - **[2026-08-24 16:45 UTC]** Eleições 2026: ministro da Fazenda defende combater 'pejotização' para conter déficit da Previdência Social
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-ministro-da-fazenda-defende-combater-pejotizacao-para-reduzir-deficit-da-previdencia-social.ghtml)_
 
+- **[2026-08-18 07:14 UTC]** Por que a ideia de que uma terceira guerra mundial já está ganhando força
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c20491pqnv8o?at_medium=RSS&at_campaign=rss)_
+
