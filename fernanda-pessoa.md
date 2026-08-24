@@ -68,3 +68,6 @@
 - **[2026-08-24 11:52 UTC]** Bolsa Família dispara em julho com 3,9 milhões de cadastros unipessoais
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsa-familia-dispara-julho-39-milhoes-cadastros-unipessoais/)_
 
+- **[2026-08-24 16:38 UTC]** Ministério aponta 40 mil amostras de DNA de desconhecidos fora dos bancos de identificação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/ministerio-aponta-40-mil-amostras-de-dna-de-desconhecidos-fora-dos-bancos-de-identificacao.ghtml)_
+
