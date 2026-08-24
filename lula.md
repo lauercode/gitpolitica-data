@@ -569,3 +569,6 @@
 - **[2026-08-24 11:30 UTC]** Fuga de debate denota medo do contraditório
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/fuga-de-debate-denota-medo-do-contraditorio.shtml)_
 
+- **[2026-08-24 12:02 UTC]** BRB autoriza ações contra ex-administradores envolvidos no caso Master e Reag
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/brb-autoriza-acoes-contra-ex-administradores-envolvidos-no-caso-master-e-reag.shtml)_
+
