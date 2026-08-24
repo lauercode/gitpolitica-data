@@ -278,3 +278,6 @@
 - **[2026-08-23 23:14 UTC]** Perdeu o debate? Saiba em 8 pontos como foi o confronto entre Caiado, Renan Santos e Augusto Cury
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/perdeu-o-debate-saiba-em-8-pontos-como-foi-o-confronto-entre-caiado-renan-santos-e-augusto-cury.shtml)_
 
+- **[2026-08-24 01:39 UTC]** Flávio Bolsonaro reage a críticas por ausência e diz querer debates contra Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-reage-a-criticas-por-ausencia-e-diz-querer-debates-contra-lula/)_
+
