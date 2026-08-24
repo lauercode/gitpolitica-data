@@ -173,3 +173,6 @@
 - **[2026-08-24 14:52 UTC]** Polícia do DF investiga morte de veterinária atacada por cão do Senado como acidente de trabalho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/policia-do-df-investiga-morte-de-veterinaria-atacada-por-cao-do-senado-como-acidente-de-trabalho.shtml)_
 
+- **[2026-08-24 14:30 UTC]** Michelle fará lives semanais ao lado de Bia Kicis até as eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/michelle-fara-lives-semanais-ao-lado-de-bia-kicis-ate-as-eleicoes.shtml)_
+
