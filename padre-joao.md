@@ -59,3 +59,6 @@
 - **[2026-08-23 17:06 UTC]** Convenções que já não decidem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/08/convencoes-que-ja-nao-decidem.shtml)_
 
+- **[2026-08-24 17:07 UTC]** Cartão de crédito ainda é 'porta de entrada' para o Mercado Pago, diz CFO do Mercado Livre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/cartao-de-credito-ainda-e-porta-de-entrada-para-o-mercado-pago-diz-cfo-do-mercado-livre.shtml)_
+
