@@ -296,3 +296,6 @@
 - **[2026-08-24 03:30 UTC]** Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 04:36 UTC]** Debate da Band: os principais momentos do primeiro confronto entre candidatos à Presidência
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zgg90pnwo?at_medium=RSS&at_campaign=rss)_
+
