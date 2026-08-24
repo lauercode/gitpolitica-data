@@ -533,3 +533,6 @@
 - **[2026-08-24 04:36 UTC]** Debate da Band: os principais momentos do primeiro confronto entre candidatos à Presidência
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zgg90pnwo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 04:00 UTC]** Longe das promessas de campanha, projetos da sociedade civil avançam na saúde pública
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/longe-das-promessas-de-campanha-projetos-da-sociedade-civil-avancam-na-saude-publica.shtml)_
+
