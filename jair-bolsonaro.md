@@ -140,3 +140,6 @@
 - **[2026-08-23 23:00 UTC]** Beneficiários unipessoais voltam a crescer no Bolsa Família perto da eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/beneficiarios-unipessoais-voltam-a-crescer-no-bolsa-familia-perto-da-eleicao.shtml)_
 
+- **[2026-08-24 12:06 UTC]** TSE precisa acabar com dúvidas sobre uso de inteligência artificial antes do início do horário eleitoral, defendem ministros
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/24/tse-precisa-acabar-com-duvidas-sobre-uso-de-inteligencia-artificial-antes-do-inicio-do-horario-eleitoral-defendem-ministros.ghtml)_
+
