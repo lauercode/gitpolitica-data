@@ -68,3 +68,6 @@
 - **[2026-08-23 23:00 UTC]** Tarcísio encerra mandato com piora gradativa nas contas e aponta investimento maior em PPPs
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/tarcisio-encerra-mandato-com-piora-gradativa-nas-contas-e-aponta-investimento-maior-em-ppps.shtml)_
 
+- **[2026-08-24 10:36 UTC]** Tarcísio cancela entrevista no Roda Viva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/tarcisio-cancela-entrevista-no-roda-viva.shtml)_
+
