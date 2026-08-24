@@ -17,3 +17,6 @@
 - **[2026-08-24 18:44 UTC]** Globo faz série de entrevistas com candidatos à Presidência; veja datas e como assistir
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/globo-faz-serie-de-entrevistas-com-candidatos-a-presidencia-veja-datas-e-como-assistir.ghtml)_
 
+- **[2026-08-24 15:41 UTC]** Bom Jardim da Serra (SC) registra -9,1°C, terceira menor mínima do ano no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/bom-jardim-da-serra-sc-registra-91c-terceira-menor-minima-do-ano-no-brasil.shtml)_
+
