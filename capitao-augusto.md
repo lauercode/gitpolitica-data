@@ -125,3 +125,6 @@
 - **[2026-08-24 18:42 UTC]** Candidatos são obrigados a participar de debates eleitorais? Entenda as regras
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/entenda-candidatos-debates-eleitorais-obrigatoriedade.ghtml)_
 
+- **[2026-08-24 20:13 UTC]** Quem é Augusto Cury, escritor que disputa a Presidência nas eleições 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
+
