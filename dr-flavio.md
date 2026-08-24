@@ -317,3 +317,6 @@
 - **[2026-08-24 16:02 UTC]** Podemos diz ao STF que direção nacional não tem controle sobre emendas e atribui atraso a 'equívoco'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/podemos-diz-ao-stf-que-direcao-nacional-nao-tem-controle-sobre-emendas.ghtml)_
 
+- **[2026-08-24 17:07 UTC]** Alfredo Gaspar chama Lulinha de “estrela da corrupção”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alfredo-gaspar-chama-lulinha-de-estrela-da-corrupcao/)_
+
