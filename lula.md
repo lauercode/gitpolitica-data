@@ -500,3 +500,6 @@
 - **[2026-08-23 22:00 UTC]** Medindo a piora das contas públicas em ano eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/medindo-a-piora-das-contas-publicas-em-ano-eleitoral.shtml)_
 
+- **[2026-08-23 21:54 UTC]** Fim da taxa das blusinhas será anunciado na quarta-feira (26), diz Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/fim-da-taxa-das-blusinhas-sera-anunciado-na-quarta-feira-26-diz-lula.shtml)_
+
