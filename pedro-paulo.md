@@ -203,3 +203,6 @@
 - **[2026-08-24 10:36 UTC]** Tarcísio cancela entrevista no Roda Viva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/tarcisio-cancela-entrevista-no-roda-viva.shtml)_
 
+- **[2026-08-24 13:04 UTC]** Em crise, Dorival critica o próprio time e Luís Castro cita Abel Ferreira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/em-crise-dorival-critica-o-proprio-time-e-luis-castro-cita-abel-ferreira.shtml)_
+
