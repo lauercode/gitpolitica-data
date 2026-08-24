@@ -173,3 +173,6 @@
 - **[2026-08-24 10:00 UTC]** Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/24/solidariedade-stf-indicacao-de-emendas.ghtml)_
 
+- **[2026-08-24 07:00 UTC]** Galerias de arte aumentam apostas antes das eleições e de mais uma SP-Arte Rotas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/08/galerias-de-arte-aumentam-apostas-antes-das-eleicoes-e-de-mais-uma-sp-arte-rotas.shtml)_
+
