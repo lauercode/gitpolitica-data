@@ -17,3 +17,6 @@
 - **[2026-08-22 23:00 UTC]** Livro mostra como o samba também nasceu no Nordeste
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/livro-mostra-como-o-samba-tambem-nasceu-no-nordeste.shtml)_
 
+- **[2026-08-24 19:47 UTC]** PF terá acesso a informações de ONG ligada à produtora do filme sobre Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/pf-tera-acesso-a-informacoes-de-ong-ligada-a-produtora-do-filme-sobre-jair-bolsonaro.ghtml)_
+
