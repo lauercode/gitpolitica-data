@@ -185,3 +185,6 @@
 - **[2026-08-24 18:42 UTC]** Candidatos são obrigados a participar de debates eleitorais? Entenda as regras
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/entenda-candidatos-debates-eleitorais-obrigatoriedade.ghtml)_
 
+- **[2026-08-24 11:44 UTC]** INSS libera consignado sem biometria e barra empréstimo nos primeiros 90 dias; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/inss-libera-consignado-sem-biometria-para-aposentados.shtml)_
+
