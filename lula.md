@@ -527,3 +527,6 @@
 - **[2026-08-24 03:30 UTC]** Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 03:30 UTC]** ESPECIAL ELEIÇÕES: o que esperar das nossas relações com o mundo? - O Assunto #1789
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/08/24/especial-eleicoes-o-que-esperar-das-nossas-relacoes-com-o-mundo-o-assunto-1789.ghtml)_
+
