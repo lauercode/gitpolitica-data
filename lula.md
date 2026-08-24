@@ -566,3 +566,6 @@
 - **[2026-08-24 12:46 UTC]** Lobista articulou obras do governo Lula no MA através de Lulinha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lobista-articulou-obras-governo-lula-ma-atraves-lulinha/)_
 
+- **[2026-08-24 11:30 UTC]** Fuga de debate denota medo do contraditório
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/fuga-de-debate-denota-medo-do-contraditorio.shtml)_
+
