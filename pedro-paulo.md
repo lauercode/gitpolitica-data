@@ -161,3 +161,6 @@
 - **[2026-08-23 20:30 UTC]** Leitor vê série de erros de Cuba, mas critica bloqueio dos Estados Unidos ao país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/leitor-ve-serie-de-erros-de-cuba-mas-critica-bloqueio-dos-estados-unidos-ao-pais.shtml)_
 
+- **[2026-08-23 18:26 UTC]** Palmeiras goleia o Vasco e respira; São Paulo cai para a lanterna Chapecoense
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/palmeiras-goleia-vasco-e-amplia-vantagem-na-lideranca-do-brasileirao.shtml)_
+
