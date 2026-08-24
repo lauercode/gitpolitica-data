@@ -323,3 +323,6 @@
 - **[2026-08-24 15:07 UTC]** Emendas parlamentares são o maior vetor de corrupção no Brasil hoje, diz Flávio Dino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/emendas-parlamentares-sao-o-maior-vetor-de-corrupcao-no-brasil-hoje-diz-flavio-dino.shtml)_
 
+- **[2026-08-24 18:44 UTC]** Globo faz série de entrevistas com candidatos à Presidência; veja datas e como assistir
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/globo-faz-serie-de-entrevistas-com-candidatos-a-presidencia-veja-datas-e-como-assistir.ghtml)_
+
