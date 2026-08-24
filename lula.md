@@ -506,3 +506,6 @@
 - **[2026-08-24 01:39 UTC]** Flávio Bolsonaro reage a críticas por ausência e diz querer debates contra Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-reage-a-criticas-por-ausencia-e-diz-querer-debates-contra-lula/)_
 
+- **[2026-08-24 01:20 UTC]** Lula critica candidatos que apostam na internet para chegar à Presidência
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-critica-candidatos-que-apostam-na-internet-para-chegar-a-presidencia/)_
+
