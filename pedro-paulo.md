@@ -194,3 +194,6 @@
 - **[2026-08-24 10:00 UTC]** Alex Flemming consegue transformar as ruínas do centro de São Paulo em arte
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/alex-flemming-consegue-transformar-as-ruinas-do-centro-de-sao-paulo-em-arte.shtml)_
 
+- **[2026-08-24 10:00 UTC]** Novas regras do Campo de Marte exigiram análise de mais de 1.000 projetos de prédios em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/novas-regras-do-campo-de-marte-exigiram-analise-de-mais-de-1000-projetos-de-predios-em-sp.shtml)_
+
