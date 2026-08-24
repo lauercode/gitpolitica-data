@@ -14,3 +14,6 @@
 - **[2026-08-20 19:35 UTC]** Salles se descreve como liberal na economia, conservador nos costumes e diz que 8 de janeiro 'foi uma baderna'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/20/salles-se-descreve-como-liberal-na-economia-conservador-nos-costumes-e-diz-que-8-de-janeiro-foi-uma-baderna.ghtml)_
 
+- **[2026-08-24 17:31 UTC]** Campanha de Haddad pede que Justiça impeça ônibus com desenho de Lula presidiário de circular
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-haddad-pede-que-justica-impeca-onibus-com-imagem-de-lula-presidiario-de-circular.shtml)_
+
