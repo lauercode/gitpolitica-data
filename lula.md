@@ -599,3 +599,6 @@
 - **[2026-08-24 14:50 UTC]** Lula associa fim da escala 6x1 a tempo com família em meio pressão sobre o Congresso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/lula-associa-fim-da-escala-6x1-a-tempo-com-familia-em-meio-pressao-sobre-o-congresso.shtml)_
 
+- **[2026-08-24 17:59 UTC]** Polêmica em Brasília: relato aponta articulação contra Mendonça em jantar com Lula e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/polemica-em-brasilia-relato-aponta-articulacao-contra-mendonca-em-jantar-com-lula-e-moraes/)_
+
