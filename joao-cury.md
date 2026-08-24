@@ -86,3 +86,6 @@
 - **[2026-08-24 10:59 UTC]** Kassab nega ter cochilado em debate com Caiado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/kassab-nega-ter-cochilado-em-debate-com-caiado.shtml)_
 
+- **[2026-08-24 14:11 UTC]** Uma janela para a realidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/08/uma-janela-para-a-realidade.shtml)_
+
