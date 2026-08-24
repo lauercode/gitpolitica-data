@@ -653,3 +653,6 @@
 - **[2026-08-24 19:37 UTC]** Governo Lula tenta expandir contratação de MEIs por ministérios e estatais perto da eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-lula-tenta-expandir-contratacao-de-meis-por-ministerios-e-estatais-perto-da-eleicao.shtml)_
 
+- **[2026-08-24 19:36 UTC]** O mais importante é aquilo de que ninguém fala
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-mais-importante-e-aquilo-de-que-ninguem-fala.shtml)_
+
