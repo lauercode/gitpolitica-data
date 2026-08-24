@@ -191,3 +191,6 @@
 - **[2026-08-24 10:07 UTC]** São Paulo entra de vez na briga contra a queda, e Palmeiras ganha gordura; veja a situação dos 20 times
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/sao-paulo-entra-de-vez-na-briga-contra-a-queda-e-palmeiras-ganha-gordura-veja-a-situacao-dos-20-times.shtml)_
 
+- **[2026-08-24 10:00 UTC]** Alex Flemming consegue transformar as ruínas do centro de São Paulo em arte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/alex-flemming-consegue-transformar-as-ruinas-do-centro-de-sao-paulo-em-arte.shtml)_
+
