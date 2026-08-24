@@ -119,3 +119,6 @@
 - **[2026-08-24 14:11 UTC]** Uma janela para a realidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/08/uma-janela-para-a-realidade.shtml)_
 
+- **[2026-08-24 18:44 UTC]** Globo faz série de entrevistas com candidatos à Presidência; veja datas e como assistir
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/globo-faz-serie-de-entrevistas-com-candidatos-a-presidencia-veja-datas-e-como-assistir.ghtml)_
+
