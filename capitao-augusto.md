@@ -101,3 +101,6 @@
 - **[2026-08-23 23:14 UTC]** Perdeu o debate? Saiba em 8 pontos como foi o confronto entre Caiado, Renan Santos e Augusto Cury
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/perdeu-o-debate-saiba-em-8-pontos-como-foi-o-confronto-entre-caiado-renan-santos-e-augusto-cury.shtml)_
 
+- **[2026-08-24 03:00 UTC]** Romeu Zema participa nesta segunda de série de entrevistas da Globo com candidatos a presidente; saiba como assistir
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevistas-globo-como-assistir.ghtml)_
+
