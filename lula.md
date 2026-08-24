@@ -602,3 +602,6 @@
 - **[2026-08-24 17:59 UTC]** Polêmica em Brasília: relato aponta articulação contra Mendonça em jantar com Lula e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/polemica-em-brasilia-relato-aponta-articulacao-contra-mendonca-em-jantar-com-lula-e-moraes/)_
 
+- **[2026-08-24 18:44 UTC]** Globo faz série de entrevistas com candidatos à Presidência; veja datas e como assistir
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/globo-faz-serie-de-entrevistas-com-candidatos-a-presidencia-veja-datas-e-como-assistir.ghtml)_
+
