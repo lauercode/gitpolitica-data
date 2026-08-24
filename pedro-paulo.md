@@ -227,3 +227,6 @@
 - **[2026-08-24 20:05 UTC]** PMs são presos por suspeita de roubo e estupro de adolescente na zona leste de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pms-sao-presos-por-suspeita-de-roubo-e-estupro-de-adolescente-na-zona-leste-de-sao-paulo.shtml)_
 
+- **[2026-08-24 20:27 UTC]** Campo de Marte, em SP, terá voos por instrumentos apenas no início da manhã, define Aeronáutica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/campo-de-marte-em-sp-tera-voos-por-instrumentos-apenas-no-inicio-da-manha-define-aeronautica.shtml)_
+
