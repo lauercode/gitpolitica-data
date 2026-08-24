@@ -56,3 +56,6 @@
 - **[2026-08-23 23:00 UTC]** Diploma obrigatório ameaça liberdade de imprensa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lygia-maria/2026/08/diploma-obrigatorio-ameaca-liberdade-de-imprensa.shtml)_
 
+- **[2026-08-24 11:18 UTC]** Fux critica Receita por ampliar fiscalização do Pix e relaxar controle sobre setor de bebidas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-critica-receita-por-ampliar-fiscalizacao-do-pix-e-relaxar-controle-sobre-setor-de-bebidas/)_
+
