@@ -332,3 +332,6 @@
 - **[2026-08-24 19:18 UTC]** Flávio propõe a Tarcísio pacto de um mandato só
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/08/24/flavio-propoe-a-tarcisio-pacto-de-um-mandato-so.ghtml)_
 
+- **[2026-08-24 19:47 UTC]** PF terá acesso a informações de ONG ligada à produtora do filme sobre Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/pf-tera-acesso-a-informacoes-de-ong-ligada-a-produtora-do-filme-sobre-jair-bolsonaro.ghtml)_
+
