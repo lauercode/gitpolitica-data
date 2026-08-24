@@ -65,3 +65,6 @@
 - **[2026-08-24 17:53 UTC]** 'Elis e Eu' e 'O Último Grande Assalto': o que ver na TV e no streaming nesta terça-feira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/elis-e-eu-e-o-ultimo-grande-assalto-o-que-ver-na-tv-e-no-streaming-nesta-terca-feira.shtml)_
 
+- **[2026-08-24 17:52 UTC]** Com lesão no abdômen, João Fonseca desiste de disputar o US Open
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/com-lesao-no-abdomen-joao-fonseca-desiste-de-disputar-o-us-open.shtml)_
+
