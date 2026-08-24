@@ -14,3 +14,6 @@
 - **[2026-08-23 17:14 UTC]** Israel bombardeia Faixa de Gaza, mata duas pessoas e ameaça intensificar ofensiva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/israel-bombardeia-faixa-de-gaza-mata-duas-pessoas-e-ameaca-intensificar-ofensiva.shtml)_
 
+- **[2026-08-24 05:00 UTC]** Vírus letal reduz em 83% população de pererecas em reserva da mata atlântica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/virus-letal-reduz-em-83-populacao-de-pererecas-em-reserva-da-mata-atlantica.shtml)_
+
