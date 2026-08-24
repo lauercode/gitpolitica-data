@@ -65,3 +65,6 @@
 - **[2026-08-24 17:59 UTC]** Polêmica em Brasília: relato aponta articulação contra Mendonça em jantar com Lula e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/polemica-em-brasilia-relato-aponta-articulacao-contra-mendonca-em-jantar-com-lula-e-moraes/)_
 
+- **[2026-08-24 21:44 UTC]** Moraes diz que Brasil tem ‘trauma’ com política de segurança pública e defende cooperação: ‘precisamos superar vaidades’
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/moraes-diz-que-brasil-tem-trauma-com-politica-de-seguranca-publica-e-defende-cooperacao-precisamos-superar-vaidades.ghtml)_
+
