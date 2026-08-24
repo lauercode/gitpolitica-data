@@ -476,3 +476,6 @@
 - **[2026-08-23 22:23 UTC]** Em entrevista, Lula critica 2º escalão de Trump e diz que Lulinha terá que provar inocência: 'Ninguém está impune se cometeu erro'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/lula-diz-que-conversas-com-trump-sao-civilizadas-e-respeitosas-mas-segundo-escalao-dos-eua-toma-atitudes-impensaveis.ghtml)_
 
+- **[2026-08-23 18:40 UTC]** Lula e Flávio viram alvo em debate com Renan franco-atirador e dobradinha de Caiado e Cury
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidatos-comecam-a-chegar-para-debate-renan-leva-fraldas-para-criticar-ausencias-de-lula-e-flavio.shtml)_
+
