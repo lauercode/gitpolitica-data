@@ -494,3 +494,6 @@
 - **[2026-08-23 23:00 UTC]** Dirigente de garimpo em Oiapoque é anti-Lula: 'Brasil é um imenso cabaré'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/dirigente-de-garimpo-em-oiapoque-e-anti-lula-brasil-e-um-imenso-cabare.shtml)_
 
+- **[2026-08-23 22:00 UTC]** Eleitor não é idiota, ainda que o algoritmo diga que sim
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/eleitor-nao-e-idiota-ainda-que-o-algoritmo-diga-que-sim.shtml)_
+
