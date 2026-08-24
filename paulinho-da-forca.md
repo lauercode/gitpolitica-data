@@ -44,3 +44,6 @@
 - **[2026-08-18 07:14 UTC]** Por que a ideia de que uma terceira guerra mundial já está ganhando força
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c20491pqnv8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 18:42 UTC]** Discord recorre de suspensão de lives e diz que ANPD aplicou punição 'desproporcional' à plataforma
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/discord-recorre-de-suspensao-e-diz-que-anpd-aplicou-punicao-desproporcional-a-plataforma.ghtml)_
+
