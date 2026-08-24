@@ -221,3 +221,6 @@
 - **[2026-08-23 18:40 UTC]** Lula e Flávio viram alvo em debate com Renan franco-atirador e dobradinha de Caiado e Cury
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidatos-comecam-a-chegar-para-debate-renan-leva-fraldas-para-criticar-ausencias-de-lula-e-flavio.shtml)_
 
+- **[2026-08-23 23:14 UTC]** Perdeu o debate? Saiba em 8 pontos como foi o confronto entre Caiado, Renan Santos e Augusto Cury
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/perdeu-o-debate-saiba-em-8-pontos-como-foi-o-confronto-entre-caiado-renan-santos-e-augusto-cury.shtml)_
+
