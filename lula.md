@@ -629,3 +629,6 @@
 - **[2026-08-24 17:31 UTC]** Campanha de Haddad pede que Justiça impeça ônibus com desenho de Lula presidiário de circular
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-haddad-pede-que-justica-impeca-onibus-com-imagem-de-lula-presidiario-de-circular.shtml)_
 
+- **[2026-08-24 21:16 UTC]** Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/zema-entrevista-candidatos-presidente.ghtml)_
+
