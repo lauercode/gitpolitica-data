@@ -170,3 +170,6 @@
 - **[2026-08-24 05:00 UTC]** São Paulo deve ter céu nublado nesta segunda (24), e máxima não passa dos 19°C
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/sao-paulo-deve-ter-ceu-nublado-nesta-segunda-24-e-maxima-nao-passa-dos-19c.shtml)_
 
+- **[2026-08-24 10:00 UTC]** Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/24/solidariedade-stf-indicacao-de-emendas.ghtml)_
+
