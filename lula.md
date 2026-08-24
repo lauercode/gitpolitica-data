@@ -575,3 +575,6 @@
 - **[2026-08-24 14:39 UTC]** Contato do grupo de Lulinha no Ministério da Saúde hoje despacha com Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/contato-do-grupo-de-lulinha-no-ministerio-da-saude-hoje-despacha-com-lula/)_
 
+- **[2026-08-24 14:36 UTC]** Governo Lula registra 68% de fracasso na aprovação de MPs no Congresso em 2026
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-registra-68-de-fracasso-na-aprovacao-de-mps-no-congresso-em-2026/)_
+
