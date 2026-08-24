@@ -584,3 +584,6 @@
 - **[2026-08-24 16:45 UTC]** Eleições 2026: ministro da Fazenda defende combater 'pejotização' para conter déficit da Previdência Social
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-ministro-da-fazenda-defende-combater-pejotizacao-para-reduzir-deficit-da-previdencia-social.ghtml)_
 
+- **[2026-08-24 15:50 UTC]** Brasil Soberano: governo define plano para aplicar R$ 13,5 bilhões em crédito para empresas afetadas por tarifaço e conflitos
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/24/brasil-soberano-executivo-define-plano-para-aplicar-r-135-bilhoes-em-linhas-de-credito-para-empresas-afetadas-pelo-tarifaco.ghtml)_
+
