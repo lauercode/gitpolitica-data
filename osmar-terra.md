@@ -20,3 +20,6 @@
 - **[2026-08-23 08:00 UTC]** 'A juventude para mim foi uma roubada', diz Gloria Pires
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/a-juventude-para-mim-foi-uma-roubada-diz-gloria-pires.shtml)_
 
+- **[2026-08-24 06:00 UTC]** Fungos e bactérias podem sobreviver na Lua, mas sem proliferar, sugere estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/fungos-e-bacterias-podem-sobreviver-na-lua-mas-sem-proliferar-sugere-estudo.shtml)_
+
