@@ -638,3 +638,6 @@
 - **[2026-08-24 21:44 UTC]** Moraes diz que Brasil tem ‘trauma’ com política de segurança pública e defende cooperação: ‘precisamos superar vaidades’
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/moraes-diz-que-brasil-tem-trauma-com-politica-de-seguranca-publica-e-defende-cooperacao-precisamos-superar-vaidades.ghtml)_
 
+- **[2026-08-24 19:03 UTC]** Lobista recebeu 'significativas' quantias em espécie e pagou em dinheiro passagens de Lulinha, diz PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lobista-recebeu-significativas-quantias-em-especie-e-pagou-em-dinheiro-passagens-de-lulinha-diz-pf.shtml)_
+
