@@ -71,3 +71,6 @@
 - **[2026-08-24 10:36 UTC]** Tarcísio cancela entrevista no Roda Viva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/tarcisio-cancela-entrevista-no-roda-viva.shtml)_
 
+- **[2026-08-24 10:54 UTC]** Tarcísio cancela participação no Roda Viva desta segunda (24)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/tarcisio-cancela-participacao-no-roda-viva-desta-segunda-24.shtml)_
+
