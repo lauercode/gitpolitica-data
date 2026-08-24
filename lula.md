@@ -557,3 +557,6 @@
 - **[2026-08-24 09:11 UTC]** Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24)_
 
+- **[2026-08-24 09:07 UTC]** BTG/Nexus: Lula e Flávio Bolsonaro mantêm empate técnico no 2º turno, com 46% a 45%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/btgnexus-lula-e-flavio-bolsonaro-mantem-empate-tecnico-no-2o-turno-com-46-a-45.shtml)_
+
