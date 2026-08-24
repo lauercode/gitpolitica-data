@@ -545,3 +545,6 @@
 - **[2026-08-24 07:45 UTC]** Lula diz que Lulinha deve ser investigado e punido se tiver cometido erros
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93vpgw3n4xo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 08:14 UTC]** Flávio Bolsonaro critica Lula e diz qual seria um de seus 'primeiros atos' caso vença as eleições
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ce3082ey15lo?at_medium=RSS&at_campaign=rss)_
+
