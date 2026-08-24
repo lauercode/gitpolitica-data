@@ -62,3 +62,6 @@
 - **[2026-08-24 14:54 UTC]** Bolsonaro pede a Moraes autorização para aulas à filha em casa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonaro-pede-a-moraes-autorizacao-para-professor-dar-aulas-a-filha-em-casa/)_
 
+- **[2026-08-24 17:59 UTC]** Polêmica em Brasília: relato aponta articulação contra Mendonça em jantar com Lula e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/polemica-em-brasilia-relato-aponta-articulacao-contra-mendonca-em-jantar-com-lula-e-moraes/)_
+
