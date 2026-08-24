@@ -617,3 +617,6 @@
 - **[2026-08-24 18:37 UTC]** Congresso Nacional deixa caducar sete em cada dez medidas do governo Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/congresso-nacional-deixa-caducar-sete-em-cada-dez-medidas-do-governo-lula/)_
 
+- **[2026-08-24 20:15 UTC]** Romário não descarta apoiar Lula após saída do PL
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/romario-nao-descarta-apoiar-lula-apos-saida-do-pl/)_
+
