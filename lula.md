@@ -623,3 +623,6 @@
 - **[2026-08-24 19:44 UTC]** Lula sugere que Caixa crie “Desenrola” para clubes de futebol quebrados
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/lula-sugere-que-caixa-crie-desenrola-para-clubes-de-futebol-quebrados/)_
 
+- **[2026-08-24 20:13 UTC]** Quem é Augusto Cury, escritor que disputa a Presidência nas eleições 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
+
