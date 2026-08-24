@@ -131,3 +131,6 @@
 - **[2026-08-24 21:16 UTC]** Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/zema-entrevista-candidatos-presidente.ghtml)_
 
+- **[2026-08-24 20:30 UTC]** Veja como foi a segunda-feira (24) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-segunda-feira-24-dos-candidatos-presidente)_
+
