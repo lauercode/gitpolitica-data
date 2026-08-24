@@ -143,3 +143,6 @@
 - **[2026-08-24 12:06 UTC]** TSE precisa acabar com dúvidas sobre uso de inteligência artificial antes do início do horário eleitoral, defendem ministros
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/24/tse-precisa-acabar-com-duvidas-sobre-uso-de-inteligencia-artificial-antes-do-inicio-do-horario-eleitoral-defendem-ministros.ghtml)_
 
+- **[2026-08-24 19:47 UTC]** PF terá acesso a informações de ONG ligada à produtora do filme sobre Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/pf-tera-acesso-a-informacoes-de-ong-ligada-a-produtora-do-filme-sobre-jair-bolsonaro.ghtml)_
+
