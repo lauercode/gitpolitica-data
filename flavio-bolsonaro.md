@@ -275,3 +275,6 @@
 - **[2026-08-24 20:08 UTC]** 'Vocês vão parar no tempo?', diz Flávio Bolsonaro ao ser questionado sobre 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/voces-vao-parar-no-tempo-diz-flavio-bolsonaro-ao-ser-questionado-sobre-dark-horse.shtml)_
 
+- **[2026-08-23 23:25 UTC]** Quem são os candidatos à Presidência na Eleição 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss)_
+
