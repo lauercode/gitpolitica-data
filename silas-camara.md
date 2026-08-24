@@ -92,3 +92,6 @@
 - **[2026-08-24 20:13 UTC]** Representação feminina: total de candidatas à Câmara cai 24% em 2026
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299890-representacao-feminina-total-de-candidatas-a-camara-cai-24-em-2026)_
 
+- **[2026-08-24 19:18 UTC]** Flávio propõe a Tarcísio pacto de um mandato só
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/08/24/flavio-propoe-a-tarcisio-pacto-de-um-mandato-so.ghtml)_
+
