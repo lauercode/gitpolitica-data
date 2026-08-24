@@ -497,3 +497,6 @@
 - **[2026-08-23 22:00 UTC]** Eleitor não é idiota, ainda que o algoritmo diga que sim
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/eleitor-nao-e-idiota-ainda-que-o-algoritmo-diga-que-sim.shtml)_
 
+- **[2026-08-23 22:00 UTC]** Medindo a piora das contas públicas em ano eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/medindo-a-piora-das-contas-publicas-em-ano-eleitoral.shtml)_
+
