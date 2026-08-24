@@ -509,3 +509,6 @@
 - **[2026-08-24 01:20 UTC]** Lula critica candidatos que apostam na internet para chegar à Presidência
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-critica-candidatos-que-apostam-na-internet-para-chegar-a-presidencia/)_
 
+- **[2026-08-24 01:48 UTC]** Ausência de Lula e Flávio vira munição para ataques e cobranças sobre corrupção em primeiro debate
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-cobram-lula-flavio-suspeitascorrupcao-ausencias-debate-presidente/)_
+
