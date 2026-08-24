@@ -80,3 +80,6 @@
 - **[2026-08-24 16:02 UTC]** Podemos diz ao STF que direção nacional não tem controle sobre emendas e atribui atraso a 'equívoco'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/podemos-diz-ao-stf-que-direcao-nacional-nao-tem-controle-sobre-emendas.ghtml)_
 
+- **[2026-08-24 12:37 UTC]** Vendas de imóveis crescem 5,3% no segundo trimestre, apesar de juros altos, aponta Cbic
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/vendas-de-imoveis-crescem-53-no-segundo-trimestre-apesar-de-juros-altos-aponta-cbic.shtml)_
+
