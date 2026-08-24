@@ -20,3 +20,6 @@
 - **[2026-08-24 05:23 UTC]** Operação no Complexo de Israel (RJ) tem tiroteio intenso e caminhões incendiados na avenida Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/policia-faz-operacao-na-zona-norte-do-rio-com-impacto-na-avenida-brasil.shtml)_
 
+- **[2026-08-24 20:19 UTC]** PM anuncia ocupação do Complexo de Israel, no Rio, por tempo indeterminado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pm-anuncia-ocupacao-do-complexo-de-israel-no-rio-por-tempo-indeterminado.shtml)_
+
