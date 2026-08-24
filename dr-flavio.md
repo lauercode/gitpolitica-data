@@ -347,3 +347,6 @@
 - **[2026-08-24 21:16 UTC]** Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/zema-entrevista-candidatos-presidente.ghtml)_
 
+- **[2026-08-24 22:05 UTC]** Quaest no Paraná: Flávio Bolsonaro, 41%; Lula, 23%;  Ronaldo Caiado, 5%; Romeu Zema, 3%; e Renan Santos, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/24/quaest-pr-presidente-24-agosto.ghtml)_
+
