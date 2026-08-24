@@ -266,3 +266,6 @@
 - **[2026-08-24 22:05 UTC]** Quaest no Paraná: Flávio Bolsonaro, 41%; Lula, 23%;  Ronaldo Caiado, 5%; Romeu Zema, 3%; e Renan Santos, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/24/quaest-pr-presidente-24-agosto.ghtml)_
 
+- **[2026-08-24 22:28 UTC]** Quaest no RS: Flávio Bolsonaro, 34%; Lula, 28%; Ronaldo Caiado, 3%; Renan Santos; 2%; Romeu Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/24/quaest-rs-presidente-24-agosto.ghtml)_
+
