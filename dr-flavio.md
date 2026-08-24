@@ -314,3 +314,6 @@
 - **[2026-08-24 09:07 UTC]** BTG/Nexus: Lula e Flávio Bolsonaro mantêm empate técnico no 2º turno, com 46% a 45%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/btgnexus-lula-e-flavio-bolsonaro-mantem-empate-tecnico-no-2o-turno-com-46-a-45.shtml)_
 
+- **[2026-08-24 16:02 UTC]** Podemos diz ao STF que direção nacional não tem controle sobre emendas e atribui atraso a 'equívoco'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/podemos-diz-ao-stf-que-direcao-nacional-nao-tem-controle-sobre-emendas.ghtml)_
+
