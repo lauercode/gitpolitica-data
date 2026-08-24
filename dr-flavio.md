@@ -320,3 +320,6 @@
 - **[2026-08-24 17:07 UTC]** Alfredo Gaspar chama Lulinha de “estrela da corrupção”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alfredo-gaspar-chama-lulinha-de-estrela-da-corrupcao/)_
 
+- **[2026-08-24 15:07 UTC]** Emendas parlamentares são o maior vetor de corrupção no Brasil hoje, diz Flávio Dino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/emendas-parlamentares-sao-o-maior-vetor-de-corrupcao-no-brasil-hoje-diz-flavio-dino.shtml)_
+
