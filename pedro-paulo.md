@@ -182,3 +182,6 @@
 - **[2026-08-24 07:50 UTC]** Defesa Civil interdita 13 imóveis após explosão de gás na zona norte de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/defesa-civil-interdita-13-imoveis-apos-explosao-de-gas-na-zona-norte-de-sp.shtml)_
 
+- **[2026-08-24 09:11 UTC]** Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24)_
+
