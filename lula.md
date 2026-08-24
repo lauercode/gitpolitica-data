@@ -593,3 +593,6 @@
 - **[2026-08-24 15:14 UTC]** Governo destina R$ 4 bi em crédito subsidiado para fertilizantes e minerais críticos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-destina-r-4-bi-em-credito-subsidiado-para-fertilizantes-e-minerais-criticos.shtml)_
 
+- **[2026-08-24 15:03 UTC]** Relator da escala 6x1 promete texto na quinta (27) e avalia mudança na versão da Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/relator-da-escala-6x1-promete-texto-na-quinta-27-e-avalia-mudanca-na-versao-da-camara.shtml)_
+
