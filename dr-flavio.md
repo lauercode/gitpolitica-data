@@ -302,3 +302,6 @@
 - **[2026-08-24 08:14 UTC]** Flávio Bolsonaro critica Lula e diz qual seria um de seus 'primeiros atos' caso vença as eleições
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ce3082ey15lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 10:00 UTC]** Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/24/solidariedade-stf-indicacao-de-emendas.ghtml)_
+
