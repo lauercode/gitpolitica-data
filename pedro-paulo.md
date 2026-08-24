@@ -164,3 +164,6 @@
 - **[2026-08-23 18:26 UTC]** Palmeiras goleia o Vasco e respira; São Paulo cai para a lanterna Chapecoense
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/palmeiras-goleia-vasco-e-amplia-vantagem-na-lideranca-do-brasileirao.shtml)_
 
+- **[2026-08-23 23:00 UTC]** Tarcísio encerra mandato com piora gradativa nas contas e aponta investimento maior em PPPs
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/tarcisio-encerra-mandato-com-piora-gradativa-nas-contas-e-aponta-investimento-maior-em-ppps.shtml)_
+
