@@ -620,3 +620,6 @@
 - **[2026-08-24 20:15 UTC]** Romário não descarta apoiar Lula após saída do PL
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/romario-nao-descarta-apoiar-lula-apos-saida-do-pl/)_
 
+- **[2026-08-24 19:44 UTC]** Lula sugere que Caixa crie “Desenrola” para clubes de futebol quebrados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/lula-sugere-que-caixa-crie-desenrola-para-clubes-de-futebol-quebrados/)_
+
