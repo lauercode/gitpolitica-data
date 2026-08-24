@@ -128,3 +128,6 @@
 - **[2026-08-24 20:13 UTC]** Quem é Augusto Cury, escritor que disputa a Presidência nas eleições 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 21:16 UTC]** Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/zema-entrevista-candidatos-presidente.ghtml)_
+
