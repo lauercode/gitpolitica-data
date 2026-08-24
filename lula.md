@@ -539,3 +539,6 @@
 - **[2026-08-24 04:00 UTC]** Lulinha coloca governo na defensiva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/08/lulinha-coloca-governo-na-defensiva.shtml)_
 
+- **[2026-08-24 04:00 UTC]** Lula cobra corpo a corpo de aliados em campanha pressionada por revelações sobre Lulinha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-cobra-corpo-a-corpo-de-aliados-em-campanha-pressionada-por-revelacoes-sobre-lulinha.shtml)_
+
