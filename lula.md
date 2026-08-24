@@ -542,3 +542,6 @@
 - **[2026-08-24 04:00 UTC]** Lula cobra corpo a corpo de aliados em campanha pressionada por revelações sobre Lulinha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-cobra-corpo-a-corpo-de-aliados-em-campanha-pressionada-por-revelacoes-sobre-lulinha.shtml)_
 
+- **[2026-08-24 07:45 UTC]** Lula diz que Lulinha deve ser investigado e punido se tiver cometido erros
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93vpgw3n4xo?at_medium=RSS&at_campaign=rss)_
+
