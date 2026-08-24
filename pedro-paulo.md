@@ -224,3 +224,6 @@
 - **[2026-08-24 19:30 UTC]** Referência do trip hop, Tricky anuncia show único em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/referencia-do-trip-hop-tricky-anuncia-show-unico-em-sao-paulo.shtml)_
 
+- **[2026-08-24 20:05 UTC]** PMs são presos por suspeita de roubo e estupro de adolescente na zona leste de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pms-sao-presos-por-suspeita-de-roubo-e-estupro-de-adolescente-na-zona-leste-de-sao-paulo.shtml)_
+
