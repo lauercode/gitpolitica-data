@@ -137,3 +137,6 @@
 - **[2026-08-23 13:00 UTC]** Regina Duarte descarta retorno à política como secretária ou ministra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/regina-duarte-descarta-retorno-a-politica-como-secretaria-ou-ministra.shtml)_
 
+- **[2026-08-23 23:00 UTC]** Beneficiários unipessoais voltam a crescer no Bolsa Família perto da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/beneficiarios-unipessoais-voltam-a-crescer-no-bolsa-familia-perto-da-eleicao.shtml)_
+
