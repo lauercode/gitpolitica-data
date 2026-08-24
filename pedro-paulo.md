@@ -167,3 +167,6 @@
 - **[2026-08-23 23:00 UTC]** Tarcísio encerra mandato com piora gradativa nas contas e aponta investimento maior em PPPs
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/tarcisio-encerra-mandato-com-piora-gradativa-nas-contas-e-aponta-investimento-maior-em-ppps.shtml)_
 
+- **[2026-08-24 05:00 UTC]** São Paulo deve ter céu nublado nesta segunda (24), e máxima não passa dos 19°C
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/sao-paulo-deve-ter-ceu-nublado-nesta-segunda-24-e-maxima-nao-passa-dos-19c.shtml)_
+
