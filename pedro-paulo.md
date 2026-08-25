@@ -233,3 +233,6 @@
 - **[2026-08-24 21:30 UTC]** Panfleto da campanha de candidatas do PSOL deixa Tebet de fora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/panfleto-da-campanha-de-candidatas-do-psol-deixa-tebet-de-fora.shtml)_
 
+- **[2026-08-24 20:55 UTC]** Aneel rejeita pedido de perícia da Enel em processo de anulação da concessão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/aneel-rejeita-pedido-de-pericia-da-enel-em-processo-de-anulacao-da-concessao.shtml)_
+
