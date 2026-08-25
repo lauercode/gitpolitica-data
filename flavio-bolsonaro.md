@@ -290,3 +290,6 @@
 - **[2026-08-25 00:06 UTC]** Zema diz que, se eleito, fará correção do salário mínimo acima da inflação 'se economia estiver indo bem'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
 
+- **[2026-08-24 23:39 UTC]** Quaest em SC: Flávio Bolsonaro, 45%; Lula, 20%; Renan Santos, 4%; Romeu Zema, 3%; Augusto Cury, 3%; Ronaldo Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/24/quaest-santa-catarina-presidente-24-agosto.ghtml)_
+
