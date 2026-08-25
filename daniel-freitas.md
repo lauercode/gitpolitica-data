@@ -14,3 +14,6 @@
 - **[2026-08-24 03:30 UTC]** ESPECIAL ELEIÇÕES: o que esperar das nossas relações com o mundo? - O Assunto #1789
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/08/24/especial-eleicoes-o-que-esperar-das-nossas-relacoes-com-o-mundo-o-assunto-1789.ghtml)_
 
+- **[2026-08-23 03:00 UTC]** Eleições 2026: 404 candidatos usam títulos religiosos em nome de urna
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/eleicoes-2026-candidatos-titulos-religiosos-nome-de-urna.ghtml)_
+
