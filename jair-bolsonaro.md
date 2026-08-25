@@ -158,3 +158,6 @@
 - **[2026-08-24 20:44 UTC]** 'Dark Horse' obtém registro na Ancine em meio a investigações envolvendo produtora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/dark-horse-obtem-registro-na-ancine-em-meio-a-investigacoes-envolvendo-produtora.shtml)_
 
+- **[2026-08-25 00:06 UTC]** Zema propõe ajuste fiscal para baixar juros a 6%, sem detalhar medidas, e defende anistia para condenados do 8 de janeiro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
+
