@@ -236,3 +236,6 @@
 - **[2026-08-24 20:55 UTC]** Aneel rejeita pedido de perícia da Enel em processo de anulação da concessão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/aneel-rejeita-pedido-de-pericia-da-enel-em-processo-de-anulacao-da-concessao.shtml)_
 
+- **[2026-08-24 22:00 UTC]** Às vésperas dos 80 anos, Edwin Luisi apresenta pela 1ª vez em São Paulo monólogo sobre mulher trans
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/as-vesperas-dos-80-anos-edwin-luisi-apresenta-pela-1a-vez-em-sao-paulo-monologo-sobre-mulher-trans.shtml)_
+
