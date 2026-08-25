@@ -134,3 +134,6 @@
 - **[2026-08-24 20:30 UTC]** Veja como foi a segunda-feira (24) dos candidatos a presidente
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-segunda-feira-24-dos-candidatos-presidente)_
 
+- **[2026-08-25 00:06 UTC]** Zema diz que, se eleito, fará correção do salário mínimo acima da inflação 'se economia estiver indo bem'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
+
