@@ -26,3 +26,6 @@
 - **[2026-08-24 15:31 UTC]** O inadiável, mas inalcançável, ajuste fiscal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/o-inadiavel-mas-inalcancavel-ajuste-fiscal.shtml)_
 
+- **[2026-08-25 00:06 UTC]** Zema diz que, se eleito, fará correção do salário mínimo acima da inflação 'se economia estiver indo bem'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
+
