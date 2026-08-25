@@ -212,3 +212,6 @@
 - **[2026-08-24 21:30 UTC]** Panfleto da campanha de candidatas do PSOL deixa Tebet de fora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/panfleto-da-campanha-de-candidatas-do-psol-deixa-tebet-de-fora.shtml)_
 
+- **[2026-08-25 00:06 UTC]** Zema propõe ajuste fiscal para baixar juros a 6%, sem detalhar medidas, e defende anistia para condenados do 8 de janeiro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
+
