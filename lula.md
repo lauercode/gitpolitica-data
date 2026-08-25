@@ -689,3 +689,6 @@
 - **[2026-08-24 21:30 UTC]** Panfleto da campanha de candidatas do PSOL deixa Tebet de fora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/panfleto-da-campanha-de-candidatas-do-psol-deixa-tebet-de-fora.shtml)_
 
+- **[2026-08-25 01:10 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Romeu Zema à Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/24/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-romeu-zema-a-globo.ghtml)_
+
