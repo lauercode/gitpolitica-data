@@ -686,3 +686,6 @@
 - **[2026-08-24 22:05 UTC]** Quaest no Paraná: Sergio Moro, 37%; Requião Filho, 21%; Sandro Alex, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/24/quaest-pr-governador-24-agosto.ghtml)_
 
+- **[2026-08-24 21:30 UTC]** Panfleto da campanha de candidatas do PSOL deixa Tebet de fora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/panfleto-da-campanha-de-candidatas-do-psol-deixa-tebet-de-fora.shtml)_
+
