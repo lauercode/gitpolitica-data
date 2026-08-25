@@ -1,0 +1,7 @@
+# CANTORA LUCIANA GOMES
+
+- **Cargo**: Candidato(a) a Deputado Estadual (PE) — Eleição 2026
+- **Partido**: UNIÃO
+
+## Histórico
+

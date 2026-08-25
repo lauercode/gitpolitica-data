@@ -1,0 +1,7 @@
+# ODAIR YAMAMOTO
+
+- **Cargo**: Candidato(a) a Deputado Estadual (RO) — Eleição 2026
+- **Partido**: DC
+
+## Histórico
+

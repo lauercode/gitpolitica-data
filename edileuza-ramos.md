@@ -1,0 +1,7 @@
+# EDILEUZA RAMOS
+
+- **Cargo**: Candidato(a) a Deputado Federal (RJ) — Eleição 2026
+- **Partido**: PCO
+
+## Histórico
+

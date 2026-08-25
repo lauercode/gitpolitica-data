@@ -1,0 +1,7 @@
+# BETO DOIS A UM
+
+- **Cargo**: Candidato(a) a Deputado Estadual (MT) — Eleição 2026
+- **Partido**: PODE
+
+## Histórico
+

@@ -1,0 +1,7 @@
+# LUCAS MENESES
+
+- **Cargo**: Candidato(a) a Deputado Estadual (SE) — Eleição 2026
+- **Partido**: PP
+
+## Histórico
+
