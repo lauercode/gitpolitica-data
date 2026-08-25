@@ -71,3 +71,6 @@
 - **[2026-08-24 22:31 UTC]** Moraes diz que modelo eleitoral “faliu” e defende voto distrital misto
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-diz-que-modelo-eleitoral-faliu-e-defende-voto-distrital-misto/)_
 
+- **[2026-08-24 23:46 UTC]** Aumento de penas não é suficiente contra o crime organizado, diz Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aumento-de-penas-nao-e-suficiente-contra-o-crime-organizado-diz-moraes/)_
+
