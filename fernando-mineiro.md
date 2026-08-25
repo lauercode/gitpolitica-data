@@ -14,3 +14,6 @@
 - **[2026-08-23 17:06 UTC]** Convenções que já não decidem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/08/convencoes-que-ja-nao-decidem.shtml)_
 
+- **[2026-08-25 00:06 UTC]** Zema diz que, se eleito, fará correção do salário mínimo acima da inflação 'se economia estiver indo bem'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
+
