@@ -683,3 +683,6 @@
 - **[2026-08-24 22:28 UTC]** Quaest no RS: Luciano Zucco, 26%; Juliana Brizola, 23%
   _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/24/quaest-rs-governador-24-agosto.ghtml)_
 
+- **[2026-08-24 22:05 UTC]** Quaest no Paraná: Sergio Moro, 37%; Requião Filho, 21%; Sandro Alex, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/24/quaest-pr-governador-24-agosto.ghtml)_
+
