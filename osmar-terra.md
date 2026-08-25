@@ -26,3 +26,6 @@
 - **[2026-08-24 13:37 UTC]** Vaca Muerta vira 'terra prometida' para Milei, mas salvará a Argentina?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/vaca-muerta-vira-terra-prometida-para-milei-mas-salvara-a-argentina.shtml)_
 
+- **[2026-08-25 00:17 UTC]** Eleições 2026: saiba como foi o dia do candidato Saulo Arcangeli ao governo do Maranhão
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-saulo-arcangeli-ao-governo-do-maranhao.ghtml)_
+
