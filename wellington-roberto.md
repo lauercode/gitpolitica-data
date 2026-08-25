@@ -14,3 +14,6 @@
 - **[2026-08-25 00:17 UTC]** Eleições 2026: saiba como foi o dia do candidato Saulo Arcangeli ao governo do Maranhão
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-saulo-arcangeli-ao-governo-do-maranhao.ghtml)_
 
+- **[2026-08-24 23:49 UTC]** Eleições 2026: saiba como foi o dia do candidato Eduardo Braide ao governo do Maranhão
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-eduardo-braide-ao-governo-do-maranhao.ghtml)_
+
