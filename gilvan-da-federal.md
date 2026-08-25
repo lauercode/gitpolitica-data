@@ -206,3 +206,6 @@
 - **[2026-08-24 20:27 UTC]** SBPC convida candidatos a governador a se comprometerem com a ciência
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/sbpc-convida-candidatos-governador-se-comprometerem-com-ciencia)_
 
+- **[2026-08-25 00:06 UTC]** Zema diz que, se eleito, fará correção do salário mínimo acima da inflação 'se economia estiver indo bem'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
+
