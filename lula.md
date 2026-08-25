@@ -698,3 +698,6 @@
 - **[2026-08-24 22:00 UTC]** Lula e Flávio dão tapa na cara do eleitor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/lula-e-flavio-dao-tapa-na-cara-do-eleitor.shtml)_
 
+- **[2026-08-24 22:00 UTC]** Tratam eleitorado com desrespeito e arrogância, diz leitor sobre ausência de Lula e Flávio em debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/tratam-eleitorado-com-desrespeito-e-arrogancia-diz-leitor-sobre-ausencia-de-lula-e-flavio-em-debate.shtml)_
+
