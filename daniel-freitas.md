@@ -17,3 +17,6 @@
 - **[2026-08-23 03:00 UTC]** Eleições 2026: 404 candidatos usam títulos religiosos em nome de urna
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/eleicoes-2026-candidatos-titulos-religiosos-nome-de-urna.ghtml)_
 
+- **[2026-08-22 15:01 UTC]** Haddad promete mudar uso de plataformas digitais nas escolas de SP: 'Esse terror vai acabar'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/haddad-promete-mudar-uso-de-plataformas-digitais-nas-escolas-de-sp-esse-terror-vai-acabar.ghtml)_
+
