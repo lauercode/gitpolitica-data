@@ -386,3 +386,6 @@
 - **[2026-08-24 22:05 UTC]** Quaest no Paraná: Sergio Moro, 37%; Requião Filho, 21%; Sandro Alex, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/24/quaest-pr-governador-24-agosto.ghtml)_
 
+- **[2026-08-25 01:10 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Romeu Zema à Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/24/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-romeu-zema-a-globo.ghtml)_
+
