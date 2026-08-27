@@ -47,3 +47,6 @@
 - **[2026-08-27 14:38 UTC]** Orlando Bloom deixa filme às vésperas do início das filmagens
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/08/orlando-bloom-deixa-filme-as-vesperas-do-inicio-das-filmagens.shtml)_
 
+- **[2026-08-27 13:44 UTC]** OpenAI diz que demorou 11 dias para detectar ataque de IA a outras empresas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/openai-diz-que-demorou-11-dias-para-detectar-ataque-de-ia-a-outras-empresas.shtml)_
+
