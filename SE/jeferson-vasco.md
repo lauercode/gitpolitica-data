@@ -8,3 +8,6 @@
 - **[2026-08-27 10:36 UTC]** Agência de fair play da CBF instaura procedimento para avaliar venda da SAF do Vasco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/agencia-de-fair-play-da-cbf-instaura-procedimento-para-avaliar-venda-da-saf-do-vasco.shtml)_
 
+- **[2026-08-27 09:18 UTC]** Fantasma do rebaixamento divide Santos e Vasco; Abel Ferreira cobra pés no chão no Palmeiras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/fantasma-do-rebaixamento-divide-santos-e-vasco-abel-ferreira-cobra-pes-no-chao-no-palmeiras.shtml)_
+
