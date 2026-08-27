@@ -80,3 +80,6 @@
 - **[2026-08-25 00:06 UTC]** Zema propõe ajuste fiscal para baixar juros a 6%, sem detalhar medidas, e defende anistia para condenados do 8 de janeiro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
 
+- **[2026-08-27 07:00 UTC]** Dia do Psicólogo: o que cada signo costuma levar para a terapia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/08/dia-do-psicologo-o-que-cada-signo-costuma-levar-para-a-terapia.shtml)_
+
