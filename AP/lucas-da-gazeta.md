@@ -47,3 +47,6 @@
 - **[2026-08-26 11:01 UTC]** Gerp divulga pesquisa para presidente; confira os números
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/gerp-presidente-agosto-2026-2/)_
 
+- **[2026-08-26 10:33 UTC]** Ministro do STJ que participou de degustação com Vorcaro julgará conduta de magistrados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-que-particiou-de-degustacao-de-uisque-com-vorcaro-assume-corregedoria/)_
+
