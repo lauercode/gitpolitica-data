@@ -32,3 +32,6 @@
 - **[2026-08-26 14:13 UTC]** Como Janja comanda e ajuda (ou atrapalha) a campanha de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-janja-comanda-ajuda-ou-atrapalha-campanha-de-lula/)_
 
+- **[2026-08-26 12:35 UTC]** Mendonça chama STF de “ápice do poder” e relata “muita infelicidade” na Corte
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-chama-stf-de-apice-do-poder-e-relata-muita-infelicidade-na-corte/)_
+
