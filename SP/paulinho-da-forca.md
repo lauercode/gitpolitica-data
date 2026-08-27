@@ -47,3 +47,6 @@
 - **[2026-08-24 18:42 UTC]** Discord recorre de suspensão de lives e diz que ANPD aplicou punição 'desproporcional' à plataforma
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/24/discord-recorre-de-suspensao-e-diz-que-anpd-aplicou-punicao-desproporcional-a-plataforma.ghtml)_
 
+- **[2026-08-17 12:34 UTC]** Revista inglesa diz que força do Congresso é “ameaça à democracia” no Brasil
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/mundo/revista-inglesa-diz-forca-congresso-ameaca-democracia-brasil/)_
+
