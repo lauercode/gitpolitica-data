@@ -47,3 +47,6 @@
 - **[2026-08-26 11:01 UTC]** Gerp divulga pesquisa para presidente; confira os números
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/gerp-presidente-agosto-2026-2/)_
 
+- **[2026-08-25 21:29 UTC]** Girão diz que Alcolumbre tem “obsessão” pela liberação dos jogos de azar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/girao-diz-que-alcolumbre-tem-obsessao-pela-liberacao-dos-jogos-de-azar/)_
+
