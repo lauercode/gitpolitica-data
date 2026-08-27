@@ -1,0 +1,7 @@
+# EDILSON DAMIÃO
+
+- **Cargo**: Candidato(a) a Deputado Federal (RR) — Eleição 2026
+- **Partido**: UNIÃO
+
+## Histórico
+
