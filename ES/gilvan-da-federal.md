@@ -239,3 +239,6 @@
 - **[2026-08-27 14:52 UTC]** Justiça do DF barra imposto de exportação a petroleiras após governo prorrogar cobrança
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-prorroga-imposto-de-exportacao-a-petroleiras-mas-justica-barra-cobranca.shtml)_
 
+- **[2026-08-27 14:11 UTC]** Depoimento de Vorcaro à PF é adiado após problema técnico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/depoimento-de-vorcaro-a-pf-e-adiado-apos-problema-tecnico.shtml)_
+
