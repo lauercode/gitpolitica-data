@@ -14,3 +14,6 @@
 - **[2026-08-25 11:30 UTC]** Renan Santos, Ronaldo Caiado e Augusto Cury: uma análise sobre o que uniu os candidatos no primeiro debate presidencial
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1wx7x7vv4lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-26 21:27 UTC]** Documentário BBC: O outro lado da guerra das facções em El Salvador
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cdx0lynj2qgo?at_medium=RSS&at_campaign=rss)_
+
