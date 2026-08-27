@@ -230,3 +230,6 @@
 - **[2026-08-21 21:00 UTC]** Campanha de candidatos a deputado federal se concentra no Instagram
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299588-campanha-de-candidatos-a-deputado-federal-se-concentra-no-instagram)_
 
+- **[2026-08-27 16:30 UTC]** Aécio deve anunciar candidatura ao Senado por MG usando brecha na lei eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/aecio-deve-anunciar-candidatura-ao-senado-por-mg-usando-brecha-na-lei-eleitoral.shtml)_
+
