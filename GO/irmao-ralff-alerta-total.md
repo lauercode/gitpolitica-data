@@ -8,3 +8,6 @@
 - **[2026-08-27 12:54 UTC]** Eclipse lunar quase total poderá ser visto do Brasil nesta quinta: que horas começa e como observar
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 20:13 UTC]** Representação feminina: total de candidatas à Câmara cai 24% em 2026
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299890-representacao-feminina-total-de-candidatas-a-camara-cai-24-em-2026)_
+
