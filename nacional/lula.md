@@ -740,3 +740,6 @@
 - **[2026-08-25 17:37 UTC]** Flávio aposta em caso Lulinha para desgastar candidatura de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-caso-lulinha-para-desgastar-candidatura-lula/)_
 
+- **[2026-08-25 17:14 UTC]** Lula reforça jurídico da campanha com ex-ministros do TSE
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-reforca-juridico-da-campanha-com-ex-ministros-do-tse/)_
+
