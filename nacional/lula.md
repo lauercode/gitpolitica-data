@@ -815,3 +815,6 @@
 - **[2026-08-27 18:59 UTC]** André Mendonça enfrenta direção da PF em inquérito sobre filho de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-enfrenta-direcao-da-pf-em-inquerito-sobre-filho-de-lula/)_
 
+- **[2026-08-27 18:51 UTC]** Congresso antecipa comissão para analisar fim da “taxa das blusinhas”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/congresso-antecipa-comissao-analisar-fim-taxa-blusinhas/)_
+
