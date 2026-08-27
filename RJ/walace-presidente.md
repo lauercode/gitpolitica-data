@@ -65,3 +65,6 @@
 - **[2026-08-21 20:19 UTC]** Fachin lembra que STF “não aguardou Congresso” e reconheceu união homoafetiva
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vida-e-cidadania/fachin-lembra-que-stf-nao-aguardou-congresso-e-reconheceu-uniao-homoafetiva/)_
 
+- **[2026-08-14 13:31 UTC]** Gazeta Agora: Lula diz que crê em Lulinha, mas defesa tenta anular PF
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/gazeta-agora/gazeta-agora/)_
+
