@@ -14,3 +14,6 @@
 - **[2026-08-27 16:00 UTC]** Corregedoria prende três policiais sob suspeita de extorquir motorista em Osasco, na Grande SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/corregedoria-prende-tres-policiais-sob-suspeita-de-extorquir-motorista-em-osasco-na-grande-sp.shtml)_
 
+- **[2026-08-27 14:11 UTC]** Depoimento de Vorcaro à PF é adiado após problema técnico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/depoimento-de-vorcaro-a-pf-e-adiado-apos-problema-tecnico.shtml)_
+
