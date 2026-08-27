@@ -713,3 +713,6 @@
 - **[2026-08-27 14:22 UTC]** Distribuidora de filme sobre Bolsonaro adia lançamento para depois da eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/distribuidora-dark-horse-adia-lancamento-depois-eleicao/)_
 
+- **[2026-08-26 21:56 UTC]** Governo processa Discord após ordem de Lula e pede indenização de R$ 500 milhões
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/governo-processa-discord-apos-ordem-de-lula-e-pede-indenizacao-de-r-500-milhoes/)_
+
