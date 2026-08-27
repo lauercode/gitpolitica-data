@@ -11,3 +11,6 @@
 - **[2026-08-27 04:00 UTC]** Violência online contra mulheres cresce com IA e falhas de regulação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/violencia-online-contra-mulheres-cresce-com-ia-e-falhas-de-regulacao.shtml)_
 
+- **[2026-08-27 04:00 UTC]** A importância da independência financeira para as mulheres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/a-importancia-da-independencia-financeira-para-as-mulheres.shtml)_
+
