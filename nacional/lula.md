@@ -761,3 +761,6 @@
 - **[2026-08-20 00:13 UTC]** 5 ações do “sistema” para blindar Lula e o PT de apurações de corrupção
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/5-acoes-do-sistema-para-blindar-lula-e-o-pt-de-apuracoes-de-corrupcao/)_
 
+- **[2026-08-19 01:52 UTC]** Lula pressiona Congresso por aprovação do fim da taxa das blusinhas: “Questão de justiça”
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/lula-pressiona-congresso-por-aprovacao-do-fim-da-taxa-das-blusinhas-questao-de-justica/)_
+
