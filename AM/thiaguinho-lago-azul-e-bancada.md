@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-08-15 03:52 UTC]** Bancada evangélica trava orçamento federal para derrubar vetos de Lula
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/bancada-evangelica-trava-orcamento-federal-para-derrubar-vetos-de-lula/)_
+
