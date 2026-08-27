@@ -17,3 +17,6 @@
 - **[2026-08-26 08:00 UTC]** Por que mulheres e homens votam cada vez mais diferente — e como isso pode definir eleição entre Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cewr7rp1yppo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 17:02 UTC]** Projeto amplia punição para ataques digitais contra mulheres na política
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299474-projeto-amplia-punicao-para-ataques-digitais-contra-mulheres-na-politica)_
+
