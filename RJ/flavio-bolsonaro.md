@@ -347,3 +347,6 @@
 - **[2026-08-23 23:25 UTC]** Quem são os candidatos à Presidência na Eleição 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 12:30 UTC]** Lula e Flávio Bolsonaro preveem ofensiva em programa eleitoral com 'Dark Horse' e endividamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-partem-para-ofensiva-em-programa-eleitoral-com-dark-horse-e-endividamento.shtml)_
+
