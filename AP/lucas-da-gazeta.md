@@ -17,3 +17,6 @@
 - **[2026-08-27 14:04 UTC]** Advogado de Tagliaferro revela mandado de prisão oculto e defende prisão de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/advogado-de-tagliaferro-revela-mandado-de-prisao-oculto-e-defende-prisao-de-moraes/)_
 
+- **[2026-08-27 00:35 UTC]** Bomba, urânio e submarino nuclear: o que há de real e de retórica no discurso de soberania
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bomba-uranio-e-submarino-nuclear-o-que-ha-de-real-e-de-retorica-no-discurso-de-soberania/)_
+
