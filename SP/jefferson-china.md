@@ -14,3 +14,6 @@
 - **[2026-08-27 15:59 UTC]** Um dia após enchente catastrófica, terremoto de magnitude 5 atinge Tibete
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/um-dia-apos-enchente-catastrofica-terremoto-de-magnitude-5-atinge-tibete.shtml)_
 
+- **[2026-08-27 15:31 UTC]** China lança campanha voltada à qualidade dos veículos após recall de 4,3 milhões de carros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/china-lanca-campanha-voltada-a-qualidade-dos-veiculos-apos-recall-de-43-milhoes-de-carros.shtml)_
+
