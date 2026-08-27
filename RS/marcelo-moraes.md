@@ -77,3 +77,6 @@
 - **[2026-08-25 00:30 UTC]** Resistência contra impeachment de ministros do STF cresce na eleição liderada por Gilmar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/resistencia-contra-impeachment-de-ministros-do-stf-cresce-na-eleicao-liderada-por-gilmar/)_
 
+- **[2026-08-27 14:04 UTC]** Advogado de Tagliaferro revela mandado de prisão oculto e defende prisão de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/advogado-de-tagliaferro-revela-mandado-de-prisao-oculto-e-defende-prisao-de-moraes/)_
+
