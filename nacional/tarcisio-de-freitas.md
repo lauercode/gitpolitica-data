@@ -83,3 +83,6 @@
 - **[2026-08-24 19:44 UTC]** Tarcísio minimiza ausência em agendas de campanha de Flávio em SP e evita falar em Presidência em 2030
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/24/tarcisio-minimiza-ausencia-em-agenda-de-campanha-de-flavio-em-sp-e-evita-falar-em-presidencia-em-2030.ghtml)_
 
+- **[2026-08-26 23:23 UTC]** Justiça condena vice de Tarcísio por dizer que PT é “narcoafetivo”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/sao-paulo/justica-condena-vice-de-tarcisio-por-dizer-que-pt-e-narcoafetivo/)_
+
