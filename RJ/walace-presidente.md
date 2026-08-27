@@ -86,3 +86,6 @@
 - **[2026-08-26 12:38 UTC]** Presidente da Câmara destaca transparência e pluralidade como pilares da democracia
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300276-presidente-da-camara-destaca-transparencia-e-pluralidade-como-pilares-da-democracia)_
 
+- **[2026-08-19 20:20 UTC]** Presidente da República eleito neste ano vai tomar posse no dia 5 de janeiro
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1298895-presidente-da-republica-eleito-neste-ano-vai-tomar-posse-no-dia-5-de-janeiro)_
+
