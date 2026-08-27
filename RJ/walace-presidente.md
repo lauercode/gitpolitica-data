@@ -14,3 +14,6 @@
 - **[2026-08-27 12:30 UTC]** Lula e Flávio Bolsonaro partem para ofensiva em programa eleitoral com 'Dark Horse' e endividamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-partem-para-ofensiva-em-programa-eleitoral-com-dark-horse-e-endividamento.shtml)_
 
+- **[2026-08-27 12:24 UTC]** Presidente do Comitê Olímpico Polonês é detido em investigação por corrupção vinculada a criptomoedas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/presidente-do-comite-olimpico-polones-e-detido-em-investigacao-por-corrupcao-vinculada-a-criptomoedas.shtml)_
+
