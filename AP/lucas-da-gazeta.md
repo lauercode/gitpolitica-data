@@ -56,3 +56,6 @@
 - **[2026-08-25 20:13 UTC]** 11 candidatos adotam “Lula” como parte do nome de urna; escolha pode ser contestada por adversários
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/11-candidatos-adotam-lula-como-parte-do-nome-de-urna-escolha-pode-ser-contestada-por-adversarios/)_
 
+- **[2026-08-25 18:26 UTC]** Lula é questionado sobre Lulinha e deixa entrevista no QG do Exército, em Brasília
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-questionado-sobre-lulinha-e-deixa-entrevista-no-qg-do-exercito-em-brasilia/)_
+
