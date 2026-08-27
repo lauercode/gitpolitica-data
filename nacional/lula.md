@@ -731,3 +731,6 @@
 - **[2026-08-25 20:13 UTC]** 11 candidatos adotam “Lula” como parte do nome de urna; escolha pode ser contestada por adversários
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/11-candidatos-adotam-lula-como-parte-do-nome-de-urna-escolha-pode-ser-contestada-por-adversarios/)_
 
+- **[2026-08-25 18:53 UTC]** Nome de operação da Polícia Federal contra Lulinha causa tensão no Planalto
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nome-de-operacao-da-policia-federal-contra-lulinha-causa-tensao-no-planalto/)_
+
