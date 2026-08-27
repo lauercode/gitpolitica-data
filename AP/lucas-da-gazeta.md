@@ -89,3 +89,6 @@
 - **[2026-08-14 13:31 UTC]** Gazeta Agora: Lula diz que crê em Lulinha, mas defesa tenta anular PF
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/gazeta-agora/gazeta-agora/)_
 
+- **[2026-08-24 10:17 UTC]** Governo prepara novas regras contra pirataria após EUA citarem tema no tarifaço
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/governo-prepara-novas-regras-contra-pirataria-apos-eua-citarem-tema-no-tarifaco/)_
+
