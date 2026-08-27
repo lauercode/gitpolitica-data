@@ -422,3 +422,6 @@
 - **[2026-08-26 00:28 UTC]** Mendonça manda remover deepfake que associa Flávio a Vorcaro e propõe nova regra
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-remover-deepfake-que-associa-flavio-a-vorcaro-e-propoe-nova-regra/)_
 
+- **[2026-08-26 00:15 UTC]** Lula ou Jair Bolsonaro: quem passaria a faixa presidencial para Flávio se ele for eleito?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-ou-jair-bolsonaro-quem-passaria-a-faixa-presidencial-para-flavio-se-ele-for-eleito/)_
+
