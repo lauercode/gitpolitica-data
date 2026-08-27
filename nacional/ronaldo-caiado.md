@@ -14,3 +14,6 @@
 - **[2026-08-22 00:15 UTC]** De terrorismo doméstico a polícia sul-americana, veja as propostas de Caiado para a segurança
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/de-terrorismo-domestico-a-policia-sul-americana-veja-as-propostas-de-caiado-para-a-seguranca/)_
 
+- **[2026-08-26 02:35 UTC]** Ronaldo Caiado fala sobre suas propostas na Globo: o que disse o candidato à Presidência na entrevista à emissora
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1wxnj3wv58o?at_medium=RSS&at_campaign=rss)_
+
