@@ -752,3 +752,6 @@
 - **[2026-08-24 18:37 UTC]** Congresso Nacional deixa caducar sete em cada dez medidas do governo Lula
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/congresso-nacional-deixa-caducar-sete-em-cada-dez-medidas-do-governo-lula/)_
 
+- **[2026-08-24 14:36 UTC]** Governo Lula registra 68% de fracasso na aprovação de MPs no Congresso em 2026
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/governo-lula-registra-68-de-fracasso-na-aprovacao-de-mps-no-congresso-em-2026/)_
+
