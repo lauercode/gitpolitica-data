@@ -11,3 +11,6 @@
 - **[2026-08-25 15:37 UTC]** Relator prevê aprovação no Senado por ampla maioria, apesar de apelos de setores
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/relator-preve-aprovacao-fim-6x1-ampla-maioria-senado/)_
 
+- **[2026-08-27 13:27 UTC]** Senador rejeita emendas, entrega relatório e fim da escala 6x1 fica pronto para votação na CCJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/senador-rejeita-emendas-entrega-relatorio-e-fim-da-escala-6x1-fica-pronta-para-votacao-na-ccj.shtml)_
+
