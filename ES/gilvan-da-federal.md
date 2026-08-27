@@ -242,3 +242,6 @@
 - **[2026-08-27 14:11 UTC]** Depoimento de Vorcaro à PF é adiado após problema técnico
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/depoimento-de-vorcaro-a-pf-e-adiado-apos-problema-tecnico.shtml)_
 
+- **[2026-08-27 13:04 UTC]** 'Teto de 12% é desafiador', aponta Caixa sobre limite no juro habitacional
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/teto-de-12-e-desafiador-aponta-caixa-sobre-limite-no-juro-habitacional.shtml)_
+
