@@ -47,3 +47,6 @@
 - **[2026-08-24 17:09 UTC]** Dino autoriza PF a acessar provas da Polícia Civil de SP sobre produtora do filme 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/dino-autoriza-pf-a-acessar-provas-da-policia-civil-de-sp-sobre-produtora-do-filme-dark-horse.shtml)_
 
+- **[2026-08-26 04:53 UTC]** Alvos de Flávio Dino questionam isenção do ministro em processos no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alvos-de-flavio-dino-questionam-isencao-do-ministro-em-processos-no-stf/)_
+
