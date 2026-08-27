@@ -776,3 +776,6 @@
 - **[2026-08-14 13:31 UTC]** Gazeta Agora: Lula diz que crê em Lulinha, mas defesa tenta anular PF
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/gazeta-agora/gazeta-agora/)_
 
+- **[2026-08-13 16:59 UTC]** Lula reata diálogo com presidente do Senado para destravar pautas
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lula-reata-dialogo-com-presidente-do-senado-para-destravar-pautas/)_
+
