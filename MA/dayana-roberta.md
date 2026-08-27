@@ -14,3 +14,6 @@
 - **[2026-08-22 20:03 UTC]** Lulinha é citado como destinatário de pagamentos e mediador de reunião no Planalto
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/lulinha-e-citado-como-destinatario-de-pagamentos-e-mediador-de-reuniao-no-planalto/)_
 
+- **[2026-08-22 00:40 UTC]** Polícia Federal investiga mensagem sobre suposta sociedade entre lobista e Lulinha
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-mensagem-sobre-suposta-sociedade-entre-lobista-e-lulinha/)_
+
