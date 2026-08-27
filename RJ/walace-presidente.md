@@ -38,3 +38,6 @@
 - **[2026-08-27 14:58 UTC]** Viana cobra apoio à “CPMI do Lulinha” e revela partidos de parlamentares que já assinaram
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/viana-cobra-apoio-a-cpmi-do-lulinha-e-revela-lista-de-partidos/)_
 
+- **[2026-08-26 19:25 UTC]** Alcolumbre promete a Lula encaminhar isenção da “taxa das blusinhas” e PECs da 6×1 e Segurança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-promete-lula-encaminhar-isencao-taxa-blusinhas/)_
+
