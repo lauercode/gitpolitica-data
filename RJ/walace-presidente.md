@@ -59,3 +59,6 @@
 - **[2026-08-26 22:20 UTC]** Motta indica deputado do PT para presidir comissão sobre fim da taxa das blusinhas
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/motta-indica-deputado-do-pt-para-presidir-comissao-sobre-fim-da-taxa-das-blusinhas/)_
 
+- **[2026-08-26 01:53 UTC]** Caiado diz que governo Lula “cooptou” partidos ao explicar falta de apoio no PSD
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/eleicoes/2026/caiado-diz-que-governo-lula-cooptou-partidos-ao-explicar-falta-de-apoio-no-psd/)_
+
