@@ -32,3 +32,6 @@
 - **[2026-08-25 00:06 UTC]** Zema propõe ajuste fiscal para baixar juros a 6%, sem detalhar medidas, e defende anistia para condenados do 8 de janeiro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
 
+- **[2026-08-27 07:00 UTC]** CEO do Hcor defende prova para médicos e cobra regulação de novas escolas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/ceo-do-hcor-defende-prova-para-medicos-e-cobra-regulacao-de-novas-escolas.shtml)_
+
