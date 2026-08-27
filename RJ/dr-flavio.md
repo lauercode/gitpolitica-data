@@ -413,3 +413,6 @@
 - **[2026-08-26 04:53 UTC]** Alvos de Flávio Dino questionam isenção do ministro em processos no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alvos-de-flavio-dino-questionam-isencao-do-ministro-em-processos-no-stf/)_
 
+- **[2026-08-26 02:18 UTC]** Moraes autoriza visitas de Carlos e Flávio Bolsonaro a Filipe Martins na prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visitas-de-carlos-e-flavio-bolsonaro-a-filipe-martins-na-prisao/)_
+
