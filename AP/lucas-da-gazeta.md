@@ -80,3 +80,6 @@
 - **[2026-08-21 20:19 UTC]** Fachin lembra que STF “não aguardou Congresso” e reconheceu união homoafetiva
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vida-e-cidadania/fachin-lembra-que-stf-nao-aguardou-congresso-e-reconheceu-uniao-homoafetiva/)_
 
+- **[2026-08-20 00:13 UTC]** 5 ações do “sistema” para blindar Lula e o PT de apurações de corrupção
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/5-acoes-do-sistema-para-blindar-lula-e-o-pt-de-apuracoes-de-corrupcao/)_
+
