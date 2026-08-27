@@ -68,3 +68,6 @@
 - **[2026-08-25 15:39 UTC]** Flávio Bolsonaro inicia campanha presidencial no Nordeste
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-inicia-campanha-presidencial-no-nordeste/)_
 
+- **[2026-08-25 15:37 UTC]** Relator prevê aprovação no Senado por ampla maioria, apesar de apelos de setores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/relator-preve-aprovacao-fim-6x1-ampla-maioria-senado/)_
+
