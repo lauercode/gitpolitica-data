@@ -74,3 +74,6 @@
 - **[2026-08-25 14:52 UTC]** Elli: nome de operação contra Lulinha gera desconforto no Planalto
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/elli-nome-de-operacao-contra-lulinha-gera-desconforto-no-planalto/)_
 
+- **[2026-08-21 20:54 UTC]** Mensagem atribuída a Roberta diz que ela tinha “sociedade” com Lulinha
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/mensagem-atribuida-a-roberta-diz-que-ela-tinha-sociedade-com-lulinha/)_
+
