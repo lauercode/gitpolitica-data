@@ -218,3 +218,6 @@
 - **[2026-08-27 09:23 UTC]** Usuários relatam falhas no Caixa Tem e dificuldade para acessar contas nesta quinta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/usuarios-relatam-falhas-no-caixa-tem-e-dificuldade-para-acessar-contas-nesta-quinta.shtml)_
 
+- **[2026-08-27 06:00 UTC]** Jair Renan Bolsonaro tem desconto de R$ 4.500 no salário por faltar a sessões na Câmara de Balneário Camboriú
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/jair-renan-bolsonaro-tem-desconto-de-r-4500-no-salario-por-faltar-a-sessoes-na-camara-de-balneario-camboriu.shtml)_
+
