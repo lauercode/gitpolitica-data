@@ -236,3 +236,6 @@
 - **[2026-08-27 16:05 UTC]** Confira a partir das 21h desta quinta (27) o resultado do concurso 3050 da Mega-Sena
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-a-partir-das-21h-desta-quinta-27-o-resultado-do-concurso-3050-da-mega-sena.shtml)_
 
+- **[2026-08-27 14:52 UTC]** Justiça do DF barra imposto de exportação a petroleiras após governo prorrogar cobrança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-prorroga-imposto-de-exportacao-a-petroleiras-mas-justica-barra-cobranca.shtml)_
+
