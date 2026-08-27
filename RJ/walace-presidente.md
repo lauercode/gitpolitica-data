@@ -56,3 +56,6 @@
 - **[2026-08-25 18:26 UTC]** Lula é questionado sobre Lulinha e deixa entrevista no QG do Exército, em Brasília
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-questionado-sobre-lulinha-e-deixa-entrevista-no-qg-do-exercito-em-brasilia/)_
 
+- **[2026-08-26 22:20 UTC]** Motta indica deputado do PT para presidir comissão sobre fim da taxa das blusinhas
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/motta-indica-deputado-do-pt-para-presidir-comissao-sobre-fim-da-taxa-das-blusinhas/)_
+
