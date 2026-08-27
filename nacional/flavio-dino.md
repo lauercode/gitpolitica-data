@@ -50,3 +50,6 @@
 - **[2026-08-26 04:53 UTC]** Alvos de Flávio Dino questionam isenção do ministro em processos no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alvos-de-flavio-dino-questionam-isencao-do-ministro-em-processos-no-stf/)_
 
+- **[2026-08-26 00:50 UTC]** Ações de Dino contra rivais no Maranhão fazem sua atuação no STF ser questionada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-de-dino-contra-rivais-no-maranhao-fazem-sua-atuacao-no-stf-ser-questionada/)_
+
