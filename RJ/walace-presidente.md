@@ -41,3 +41,6 @@
 - **[2026-08-26 19:25 UTC]** Alcolumbre promete a Lula encaminhar isenção da “taxa das blusinhas” e PECs da 6×1 e Segurança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-promete-lula-encaminhar-isencao-taxa-blusinhas/)_
 
+- **[2026-08-26 12:31 UTC]** Os números da pesquisa Indexa/Broadcast para presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/indexa-broadcast-presidente-agosto-2026/)_
+
