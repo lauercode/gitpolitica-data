@@ -749,3 +749,6 @@
 - **[2026-08-26 01:53 UTC]** Caiado diz que governo Lula “cooptou” partidos ao explicar falta de apoio no PSD
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/eleicoes/2026/caiado-diz-que-governo-lula-cooptou-partidos-ao-explicar-falta-de-apoio-no-psd/)_
 
+- **[2026-08-24 18:37 UTC]** Congresso Nacional deixa caducar sete em cada dez medidas do governo Lula
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/congresso-nacional-deixa-caducar-sete-em-cada-dez-medidas-do-governo-lula/)_
+
