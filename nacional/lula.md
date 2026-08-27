@@ -743,3 +743,6 @@
 - **[2026-08-25 17:14 UTC]** Lula reforça jurídico da campanha com ex-ministros do TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-reforca-juridico-da-campanha-com-ex-ministros-do-tse/)_
 
+- **[2026-08-25 16:55 UTC]** Ditadura na Nicarágua: Sergio Ramírez faz carta pública a Lula após decisão de Ortega
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ditadura-na-nicaragua-sergio-ramirez-faz-carta-publica-a-lula-apos-decisao-de-ortega/)_
+
