@@ -788,3 +788,6 @@
 - **[2026-08-21 20:15 UTC]** Grupo de Lulinha tentou usar brecha para obrigar governo a comprar composto da maconha
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/caso-lulinha-ate-onde-avancou-a-tentativa-compra-de-canabidiol-no-governo-lula/)_
 
+- **[2026-08-25 11:08 UTC]** Veja a distância entre Lula e Flávio Bolsonaro segundo o agregador de pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
