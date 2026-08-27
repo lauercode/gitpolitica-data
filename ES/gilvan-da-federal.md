@@ -221,3 +221,6 @@
 - **[2026-08-27 06:00 UTC]** Jair Renan Bolsonaro tem desconto de R$ 4.500 no salário por faltar a sessões na Câmara de Balneário Camboriú
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/jair-renan-bolsonaro-tem-desconto-de-r-4500-no-salario-por-faltar-a-sessoes-na-camara-de-balneario-camboriu.shtml)_
 
+- **[2026-08-26 14:48 UTC]** PF mira sociedade oculta entre Lulinha e dono do sítio de Atibaia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-mira-sociedade-oculta-entre-lulinha-e-dono-do-sitio-de-atibaia/)_
+
