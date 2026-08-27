@@ -329,3 +329,6 @@
 - **[2026-08-25 21:28 UTC]** Justiça nega pedido de Lulinha para derrubar vídeo de Flávio Bolsonaro sobre fraudes no INSS
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-nega-pedido-de-lulinha-para-derrubar-video-de-flavio-bolsonaro-sobre-fraudes-no-inss/)_
 
+- **[2026-08-25 17:37 UTC]** Flávio aposta em caso Lulinha para desgastar candidatura de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-caso-lulinha-para-desgastar-candidatura-lula/)_
+
