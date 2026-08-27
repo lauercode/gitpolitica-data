@@ -443,3 +443,6 @@
 - **[2026-08-26 19:50 UTC]** Coordenador da campanha de Flávio ironiza Lulinha: “Virou craque dos negócios”
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/coordenador-da-campanha-de-flavio-ironiza-lulinha-virou-craque-dos-negocios/)_
 
+- **[2026-08-25 11:08 UTC]** Veja a distância entre Lula e Flávio Bolsonaro segundo o agregador de pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
