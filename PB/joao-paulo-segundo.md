@@ -38,3 +38,6 @@
 - **[2026-08-26 02:35 UTC]** Ronaldo Caiado fala sobre suas propostas na Globo: o que disse o candidato à Presidência na entrevista à emissora
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1wxnj3wv58o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 16:00 UTC]** Augusto Cury doa R$ 150 mil para própria campanha, o triplo do que foi pago pelo partido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/augusto-cury-doa-r-150-mil-para-propria-campanha-o-triplo-do-que-foi-pago-pelo-partido.shtml)_
+
