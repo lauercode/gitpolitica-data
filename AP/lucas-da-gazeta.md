@@ -29,3 +29,6 @@
 - **[2026-08-26 16:37 UTC]** Defesa retoma treinamento com tropas estrangeiras atravessado por crise diplomática com os EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-retoma-treinamento-com-militares-americanos-apos-cancelamento-em-2025/)_
 
+- **[2026-08-26 14:13 UTC]** Como Janja comanda e ajuda (ou atrapalha) a campanha de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-janja-comanda-ajuda-ou-atrapalha-campanha-de-lula/)_
+
