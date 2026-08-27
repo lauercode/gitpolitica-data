@@ -11,3 +11,6 @@
 - **[2026-08-27 14:58 UTC]** Viana cobra apoio à “CPMI do Lulinha” e revela partidos de parlamentares que já assinaram
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/viana-cobra-apoio-a-cpmi-do-lulinha-e-revela-lista-de-partidos/)_
 
+- **[2026-08-27 14:22 UTC]** Distribuidora de filme sobre Bolsonaro adia lançamento para depois da eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/distribuidora-dark-horse-adia-lancamento-depois-eleicao/)_
+
