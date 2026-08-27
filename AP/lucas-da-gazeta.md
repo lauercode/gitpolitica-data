@@ -35,3 +35,6 @@
 - **[2026-08-26 12:35 UTC]** Mendonça chama STF de “ápice do poder” e relata “muita infelicidade” na Corte
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-chama-stf-de-apice-do-poder-e-relata-muita-infelicidade-na-corte/)_
 
+- **[2026-08-26 12:31 UTC]** Os números da pesquisa Indexa/Broadcast para presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/indexa-broadcast-presidente-agosto-2026/)_
+
