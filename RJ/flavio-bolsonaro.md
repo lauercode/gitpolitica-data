@@ -311,3 +311,6 @@
 - **[2026-08-27 10:00 UTC]** Campanha de Flávio Bolsonaro reforça estratégia digital e avalia 'TV própria' 24 horas até o fim da eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/campanha-de-flavio-bolsonaro-reforca-estrategia-digital-e-avalia-tv-propria-24-horas-ate-o-fim-da-eleicao.shtml)_
 
+- **[2026-08-27 08:00 UTC]** 'Dark Horse', estrangeiro onde?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/dark-horse-estrangeiro-onde.shtml)_
+
