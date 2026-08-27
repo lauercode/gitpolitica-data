@@ -71,3 +71,6 @@
 - **[2026-08-13 16:59 UTC]** Lula reata diálogo com presidente do Senado para destravar pautas
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lula-reata-dialogo-com-presidente-do-senado-para-destravar-pautas/)_
 
+- **[2026-08-25 14:52 UTC]** Elli: nome de operação contra Lulinha gera desconforto no Planalto
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/elli-nome-de-operacao-contra-lulinha-gera-desconforto-no-planalto/)_
+
