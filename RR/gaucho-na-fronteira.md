@@ -14,3 +14,6 @@
 - **[2026-08-27 13:36 UTC]** Nepal confirma 359 mortes e busca mais de 900 desaparecidos em meio a risco de nova enchente
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ce3rz25qeqdo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 11:57 UTC]** Colapso glacial: o fenômeno que causou a enchente repentina na fronteira entre Nepal e Tibete
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c70l4jen7qro?at_medium=RSS&at_campaign=rss)_
+
