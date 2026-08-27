@@ -20,3 +20,6 @@
 - **[2026-08-27 09:00 UTC]** UnB amplia Sisu para todos os cursos e reduz vagas do vestibular durante transição; veja mudanças
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/unb-amplia-sisu-para-todos-os-cursos-e-reduz-vagas-do-vestibular-durante-transicao-veja-mudancas.shtml)_
 
+- **[2026-08-27 06:22 UTC]** Socorristas buscam mais de 1.300 desaparecidos no Nepal e no Tibete; número de mortos sobe a 362
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/equipes-de-resgate-procuram-mais-de-1300-desaparecidos-no-nepal-e-no-tibete.shtml)_
+
