@@ -410,3 +410,6 @@
 - **[2026-08-27 04:02 UTC]** O que pesa contra Flávio Bolsonaro nas eleições de 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/o-que-pesa-contra-flavio-bolsonaro-nas-eleicoes-de-2026.shtml)_
 
+- **[2026-08-26 04:53 UTC]** Alvos de Flávio Dino questionam isenção do ministro em processos no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alvos-de-flavio-dino-questionam-isencao-do-ministro-em-processos-no-stf/)_
+
