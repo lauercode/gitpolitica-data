@@ -251,3 +251,6 @@
 - **[2026-08-27 06:00 UTC]** Investigações sobre mau uso de câmeras da PM flagram direção imprudente e disparo desnecessário
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/investigacoes-sobre-mau-uso-de-cameras-da-pm-flagram-direcao-imprudente-e-disparo-desnecessario.shtml)_
 
+- **[2026-08-27 14:04 UTC]** Advogado de Tagliaferro revela mandado de prisão oculto e defende prisão de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/advogado-de-tagliaferro-revela-mandado-de-prisao-oculto-e-defende-prisao-de-moraes/)_
+
