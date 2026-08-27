@@ -20,3 +20,6 @@
 - **[2026-08-27 00:35 UTC]** Bomba, urânio e submarino nuclear: o que há de real e de retórica no discurso de soberania
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bomba-uranio-e-submarino-nuclear-o-que-ha-de-real-e-de-retorica-no-discurso-de-soberania/)_
 
+- **[2026-08-26 23:23 UTC]** Justiça condena vice de Tarcísio por dizer que PT é “narcoafetivo”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/sao-paulo/justica-condena-vice-de-tarcisio-por-dizer-que-pt-e-narcoafetivo/)_
+
