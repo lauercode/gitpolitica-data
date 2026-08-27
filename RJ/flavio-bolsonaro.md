@@ -317,3 +317,6 @@
 - **[2026-08-27 04:02 UTC]** O que pesa contra Flávio Bolsonaro nas eleições de 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/o-que-pesa-contra-flavio-bolsonaro-nas-eleicoes-de-2026.shtml)_
 
+- **[2026-08-26 02:18 UTC]** Moraes autoriza visitas de Carlos e Flávio Bolsonaro a Filipe Martins na prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visitas-de-carlos-e-flavio-bolsonaro-a-filipe-martins-na-prisao/)_
+
