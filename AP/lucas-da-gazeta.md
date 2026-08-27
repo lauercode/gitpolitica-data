@@ -23,3 +23,6 @@
 - **[2026-08-26 23:23 UTC]** Justiça condena vice de Tarcísio por dizer que PT é “narcoafetivo”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/sao-paulo/justica-condena-vice-de-tarcisio-por-dizer-que-pt-e-narcoafetivo/)_
 
+- **[2026-08-26 19:25 UTC]** Alcolumbre promete a Lula encaminhar isenção da “taxa das blusinhas” e PECs da 6×1 e Segurança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-promete-lula-encaminhar-isencao-taxa-blusinhas/)_
+
