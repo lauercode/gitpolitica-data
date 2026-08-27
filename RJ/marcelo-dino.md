@@ -8,3 +8,6 @@
 - **[2026-08-26 15:04 UTC]** Dino x Mendonça: como disputa pode impactar eleição presidencial
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-x-mendonca-como-disputa-pode-impactar-eleicao-presidencial/)_
 
+- **[2026-08-26 00:50 UTC]** Ações de Dino contra rivais no Maranhão fazem sua atuação no STF ser questionada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-de-dino-contra-rivais-no-maranhao-fazem-sua-atuacao-no-stf-ser-questionada/)_
+
