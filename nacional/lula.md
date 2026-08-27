@@ -797,3 +797,6 @@
 - **[2026-08-23 23:25 UTC]** Quem são os candidatos à Presidência na Eleição 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-24 20:13 UTC]** Quem é Augusto Cury, escritor que disputa a Presidência nas eleições 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
+
