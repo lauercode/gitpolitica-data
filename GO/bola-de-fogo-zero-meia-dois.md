@@ -29,3 +29,6 @@
 - **[2026-08-27 14:00 UTC]** Nepal e Tibete estão sob risco de novas enchentes e rompimento de lago
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/nepal-e-tibete-estao-sob-risco-de-novas-enchentes-e-rompimento-de-lago.shtml)_
 
+- **[2026-08-27 13:41 UTC]** PMs do Rio são presos sob suspeita de fornecer armas a milícia e ao TCP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pms-do-rio-sao-presos-sob-suspeita-de-fornecer-armas-a-milicia-e-ao-tcp.shtml)_
+
