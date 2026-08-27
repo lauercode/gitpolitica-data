@@ -50,3 +50,6 @@
 - **[2026-08-26 10:33 UTC]** Ministro do STJ que participou de degustação com Vorcaro julgará conduta de magistrados
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-que-particiou-de-degustacao-de-uisque-com-vorcaro-assume-corregedoria/)_
 
+- **[2026-08-26 03:12 UTC]** TRE-SP derruba uma das condenações que tornava Pablo Marçal inelegível
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tre-sp-derruba-uma-das-condenacoes-que-tornava-pablo-marcal-inelegivel/)_
+
