@@ -98,3 +98,6 @@
 - **[2026-08-27 18:03 UTC]** Por que a Uefa se prepara para processar criminalmente presidente da Fifa, Gianni Infantino
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8r6llnz7e2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 16:24 UTC]** Retaliação do Canadá às tarifas americanas testa os limites do poder de Trump
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5yl8q08prqo?at_medium=RSS&at_campaign=rss)_
+
