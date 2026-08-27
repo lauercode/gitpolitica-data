@@ -122,3 +122,6 @@
 - **[2026-08-27 14:52 UTC]** Justiça do DF barra imposto de exportação a petroleiras após governo prorrogar cobrança
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-prorroga-imposto-de-exportacao-a-petroleiras-mas-justica-barra-cobranca.shtml)_
 
+- **[2026-08-27 14:01 UTC]** Três Poderes se unem num pacto de conveniências mútuas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/tres-poderes-se-unem-num-pacto-de-conveniencias-mutuas.shtml)_
+
