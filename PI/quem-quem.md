@@ -32,3 +32,6 @@
 - **[2026-08-27 15:01 UTC]** Inca alerta que exercício físico não elimina danos do cigarro para quem continua fumando
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/inca-alerta-que-exercicio-fisico-nao-elimina-danos-do-cigarro-para-quem-continua-fumando.shtml)_
 
+- **[2026-08-27 12:40 UTC]** Esposa de Lito Sousa vai ao estádio do Palmeiras e fala sobre tratamento: 'Nunca desistir'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/esposa-de-lito-sousa-vai-ao-estadio-do-palmeiras-e-fala-sobre-tratamento-nunca-desistir.shtml)_
+
