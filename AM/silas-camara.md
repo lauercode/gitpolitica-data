@@ -95,3 +95,6 @@
 - **[2026-08-24 19:18 UTC]** Flávio propõe a Tarcísio pacto de um mandato só
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/08/24/flavio-propoe-a-tarcisio-pacto-de-um-mandato-so.ghtml)_
 
+- **[2026-08-27 12:00 UTC]** Governo considera prorrogar imposto de 12% nas exportações de petróleo, e empresas vão à Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-considera-prorrogar-imposto-de-12-nas-exportacoes-de-petroleo-e-empresas-vao-a-justica.shtml)_
+
