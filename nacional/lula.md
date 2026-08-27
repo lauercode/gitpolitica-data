@@ -782,3 +782,6 @@
 - **[2026-08-25 14:52 UTC]** Elli: nome de operação contra Lulinha gera desconforto no Planalto
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/elli-nome-de-operacao-contra-lulinha-gera-desconforto-no-planalto/)_
 
+- **[2026-08-22 20:03 UTC]** Lulinha é citado como destinatário de pagamentos e mediador de reunião no Planalto
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/lulinha-e-citado-como-destinatario-de-pagamentos-e-mediador-de-reuniao-no-planalto/)_
+
