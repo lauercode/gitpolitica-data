@@ -17,3 +17,6 @@
 - **[2026-08-26 02:35 UTC]** Ronaldo Caiado fala sobre suas propostas na Globo: o que disse o candidato à Presidência na entrevista à emissora
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1wxnj3wv58o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-25 11:30 UTC]** Renan Santos, Ronaldo Caiado e Augusto Cury: uma análise sobre o que uniu os candidatos no primeiro debate presidencial
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1wx7x7vv4lo?at_medium=RSS&at_campaign=rss)_
+
