@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-08-27 06:00 UTC]** Investigações sobre mau uso de câmeras da PM flagram direção imprudente e disparo desnecessário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/investigacoes-sobre-mau-uso-de-cameras-da-pm-flagram-direcao-imprudente-e-disparo-desnecessario.shtml)_
+
