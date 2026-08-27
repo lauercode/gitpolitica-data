@@ -332,3 +332,6 @@
 - **[2026-08-25 17:37 UTC]** Flávio aposta em caso Lulinha para desgastar candidatura de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-caso-lulinha-para-desgastar-candidatura-lula/)_
 
+- **[2026-08-25 15:39 UTC]** Flávio Bolsonaro inicia campanha presidencial no Nordeste
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-inicia-campanha-presidencial-no-nordeste/)_
+
