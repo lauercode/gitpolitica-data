@@ -785,3 +785,6 @@
 - **[2026-08-22 20:03 UTC]** Lulinha é citado como destinatário de pagamentos e mediador de reunião no Planalto
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/lulinha-e-citado-como-destinatario-de-pagamentos-e-mediador-de-reuniao-no-planalto/)_
 
+- **[2026-08-21 20:15 UTC]** Grupo de Lulinha tentou usar brecha para obrigar governo a comprar composto da maconha
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/caso-lulinha-ate-onde-avancou-a-tentativa-compra-de-canabidiol-no-governo-lula/)_
+
