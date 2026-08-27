@@ -320,3 +320,6 @@
 - **[2026-08-26 02:18 UTC]** Moraes autoriza visitas de Carlos e Flávio Bolsonaro a Filipe Martins na prisão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visitas-de-carlos-e-flavio-bolsonaro-a-filipe-martins-na-prisao/)_
 
+- **[2026-08-26 00:15 UTC]** Lula ou Jair Bolsonaro: quem passaria a faixa presidencial para Flávio se ele for eleito?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-ou-jair-bolsonaro-quem-passaria-a-faixa-presidencial-para-flavio-se-ele-for-eleito/)_
+
