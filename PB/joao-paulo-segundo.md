@@ -32,3 +32,6 @@
 - **[2026-08-27 04:00 UTC]** Pedágios free flow devem dobrar no Brasil até o fim de 2027, segundo concessionárias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pedagios-free-flow-devem-dobrar-no-brasil-ate-o-fim-de-2027-segundo-concessionarias.shtml)_
 
+- **[2026-08-25 21:46 UTC]** Site de Flávio Bolsonaro sofre 3.250 ataques em oito dias, diz equipe
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/site-de-flavio-bolsonaro-sofre-3-250-ataques-em-oito-dias-diz-equipe/)_
+
