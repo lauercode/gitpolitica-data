@@ -11,3 +11,6 @@
 - **[2026-08-26 14:13 UTC]** Como Janja comanda e ajuda (ou atrapalha) a campanha de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-janja-comanda-ajuda-ou-atrapalha-campanha-de-lula/)_
 
+- **[2026-08-27 20:11 UTC]** A cirurgia inédita para remover tumor cerebral feita com a ajuda de IA
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cpq0dze4wxlo?at_medium=RSS&at_campaign=rss)_
+
