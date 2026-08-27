@@ -128,3 +128,6 @@
 - **[2026-08-27 13:27 UTC]** Senador rejeita emendas, entrega relatório e fim da escala 6x1 fica pronto para votação na CCJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/senador-rejeita-emendas-entrega-relatorio-e-fim-da-escala-6x1-fica-pronta-para-votacao-na-ccj.shtml)_
 
+- **[2026-08-27 12:00 UTC]** Governo pretende prorrogar por mais 60 dias imposto sobre petroleiras, e empresas vão à Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-considera-prorrogar-imposto-de-12-nas-exportacoes-de-petroleo-e-empresas-vao-a-justica.shtml)_
+
