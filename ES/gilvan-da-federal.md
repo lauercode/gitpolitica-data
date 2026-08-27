@@ -224,3 +224,6 @@
 - **[2026-08-26 14:48 UTC]** PF mira sociedade oculta entre Lulinha e dono do sítio de Atibaia
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-mira-sociedade-oculta-entre-lulinha-e-dono-do-sitio-de-atibaia/)_
 
+- **[2026-08-15 03:52 UTC]** Bancada evangélica trava orçamento federal para derrubar vetos de Lula
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/bancada-evangelica-trava-orcamento-federal-para-derrubar-vetos-de-lula/)_
+
