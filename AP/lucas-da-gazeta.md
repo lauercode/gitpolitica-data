@@ -59,3 +59,6 @@
 - **[2026-08-25 18:26 UTC]** Lula é questionado sobre Lulinha e deixa entrevista no QG do Exército, em Brasília
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-questionado-sobre-lulinha-e-deixa-entrevista-no-qg-do-exercito-em-brasilia/)_
 
+- **[2026-08-25 17:37 UTC]** Flávio aposta em caso Lulinha para desgastar candidatura de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-caso-lulinha-para-desgastar-candidatura-lula/)_
+
