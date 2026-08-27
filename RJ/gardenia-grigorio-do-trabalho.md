@@ -20,3 +20,6 @@
 - **[2026-08-24 18:36 UTC]** Justiça Eleitoral realiza campanha de combate ao assédio de eleitores no trabalho
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299833-justica-eleitoral-realiza-campanha-de-combate-ao-assedio-de-eleitores-no-trabalho)_
 
+- **[2026-08-27 16:00 UTC]** Câncer de ex-comissária de bordo é reconhecido como doença do trabalho na França
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cancer-de-ex-comissaria-de-bordo-e-reconhecido-como-doenca-do-trabalho-na-franca.shtml)_
+
