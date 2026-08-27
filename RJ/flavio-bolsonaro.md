@@ -344,3 +344,6 @@
 - **[2026-08-26 08:00 UTC]** Por que mulheres e homens votam cada vez mais diferente — e como isso pode definir eleição entre Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cewr7rp1yppo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-23 23:25 UTC]** Quem são os candidatos à Presidência na Eleição 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss)_
+
