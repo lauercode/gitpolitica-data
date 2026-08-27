@@ -29,3 +29,6 @@
 - **[2026-08-25 00:17 UTC]** Eleições 2026: saiba como foi o dia do candidato Saulo Arcangeli ao governo do Maranhão
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-saulo-arcangeli-ao-governo-do-maranhao.ghtml)_
 
+- **[2026-08-27 06:00 UTC]** Com corrida à Lua, países vão discutir padrão de horário para o satélite
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/com-corrida-a-lua-paises-vao-discutir-padrao-de-horario-para-o-satelite.shtml)_
+
