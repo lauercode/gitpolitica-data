@@ -77,3 +77,6 @@
 - **[2026-08-24 14:36 UTC]** Governo Lula registra 68% de fracasso na aprovação de MPs no Congresso em 2026
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/governo-lula-registra-68-de-fracasso-na-aprovacao-de-mps-no-congresso-em-2026/)_
 
+- **[2026-08-21 20:19 UTC]** Fachin lembra que STF “não aguardou Congresso” e reconheceu união homoafetiva
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vida-e-cidadania/fachin-lembra-que-stf-nao-aguardou-congresso-e-reconheceu-uniao-homoafetiva/)_
+
