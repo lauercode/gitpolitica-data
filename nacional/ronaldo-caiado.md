@@ -11,3 +11,6 @@
 - **[2026-08-26 01:53 UTC]** Caiado diz que governo Lula “cooptou” partidos ao explicar falta de apoio no PSD
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/eleicoes/2026/caiado-diz-que-governo-lula-cooptou-partidos-ao-explicar-falta-de-apoio-no-psd/)_
 
+- **[2026-08-22 00:15 UTC]** De terrorismo doméstico a polícia sul-americana, veja as propostas de Caiado para a segurança
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/de-terrorismo-domestico-a-policia-sul-americana-veja-as-propostas-de-caiado-para-a-seguranca/)_
+
