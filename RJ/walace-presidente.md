@@ -80,3 +80,6 @@
 - **[2026-08-17 08:55 UTC]** Como é viver em El Salvador após Bukele derrotar facções: 'O medo agora é outro'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckg3k56mdydo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-26 18:59 UTC]** Motta diz que Congresso deve votar na semana que vem fim da taxa das blusinhas
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300443-motta-diz-que-congresso-deve-votar-na-semana-que-vem-fim-da-taxa-das-blusinhas)_
+
