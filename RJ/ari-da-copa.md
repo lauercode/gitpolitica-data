@@ -14,3 +14,6 @@
 - **[2026-08-26 23:24 UTC]** Palmeiras atropela um Santos sem Neymar e abre vantagem nas quartas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/palmeiras-atropela-um-santos-sem-neymar-e-abre-vantagem-nas-quartas.shtml)_
 
+- **[2026-08-27 14:05 UTC]** Uefa suspende ameaça de boicote à Fifa, mas intensifica pressão sobre entidade que comanda futebol mundial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/uefa-suspende-ameaca-de-boicote-a-fifa-mas-intensifica-pressao-sobre-entidade-que-comanda-futebol-mundial.shtml)_
+
