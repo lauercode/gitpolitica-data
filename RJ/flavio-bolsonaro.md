@@ -326,3 +326,6 @@
 - **[2026-08-25 21:46 UTC]** Site de Flávio Bolsonaro sofre 3.250 ataques em oito dias, diz equipe
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/site-de-flavio-bolsonaro-sofre-3-250-ataques-em-oito-dias-diz-equipe/)_
 
+- **[2026-08-25 21:28 UTC]** Justiça nega pedido de Lulinha para derrubar vídeo de Flávio Bolsonaro sobre fraudes no INSS
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-nega-pedido-de-lulinha-para-derrubar-video-de-flavio-bolsonaro-sobre-fraudes-no-inss/)_
+
