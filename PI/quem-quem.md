@@ -17,3 +17,6 @@
 - **[2026-08-26 00:15 UTC]** Lula ou Jair Bolsonaro: quem passaria a faixa presidencial para Flávio se ele for eleito?
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-ou-jair-bolsonaro-quem-passaria-a-faixa-presidencial-para-flavio-se-ele-for-eleito/)_
 
+- **[2026-08-18 11:00 UTC]** Teto do MEI: uma armadilha para quem quer crescer?
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/artigos/o-teto-do-mei-virou-uma-armadilha-para-quem-quer-crescer/)_
+
