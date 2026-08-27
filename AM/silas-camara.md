@@ -104,3 +104,6 @@
 - **[2026-08-27 06:00 UTC]** Jair Renan Bolsonaro tem desconto de R$ 4.500 no salário por faltar a sessões na Câmara de Balneário Camboriú
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/jair-renan-bolsonaro-tem-desconto-de-r-4500-no-salario-por-faltar-a-sessoes-na-camara-de-balneario-camboriu.shtml)_
 
+- **[2026-08-25 19:35 UTC]** Relator sinaliza manter texto do fim da escala 6×1 da Câmara no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/relator-sinaliza-manter-texto-do-fim-da-escala-6x1-da-camara-no-senado/)_
+
