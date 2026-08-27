@@ -62,3 +62,6 @@
 - **[2026-08-26 01:53 UTC]** Caiado diz que governo Lula “cooptou” partidos ao explicar falta de apoio no PSD
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/eleicoes/2026/caiado-diz-que-governo-lula-cooptou-partidos-ao-explicar-falta-de-apoio-no-psd/)_
 
+- **[2026-08-21 20:19 UTC]** Fachin lembra que STF “não aguardou Congresso” e reconheceu união homoafetiva
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vida-e-cidadania/fachin-lembra-que-stf-nao-aguardou-congresso-e-reconheceu-uniao-homoafetiva/)_
+
