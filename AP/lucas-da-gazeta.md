@@ -101,3 +101,6 @@
 - **[2026-08-27 18:51 UTC]** Congresso antecipa comissão para analisar fim da “taxa das blusinhas”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/congresso-antecipa-comissao-analisar-fim-taxa-blusinhas/)_
 
+- **[2026-08-27 18:36 UTC]** Vorcaro tem depoimento à PF adiado por problema técnico
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-tem-depoimento-a-pf-adiado-pela-segunda-vez-por-problema-tecnico/)_
+
