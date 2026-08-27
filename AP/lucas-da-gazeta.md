@@ -26,3 +26,6 @@
 - **[2026-08-26 19:25 UTC]** Alcolumbre promete a Lula encaminhar isenção da “taxa das blusinhas” e PECs da 6×1 e Segurança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-promete-lula-encaminhar-isencao-taxa-blusinhas/)_
 
+- **[2026-08-26 16:37 UTC]** Defesa retoma treinamento com tropas estrangeiras atravessado por crise diplomática com os EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-retoma-treinamento-com-militares-americanos-apos-cancelamento-em-2025/)_
+
