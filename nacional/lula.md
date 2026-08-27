@@ -734,3 +734,6 @@
 - **[2026-08-25 18:53 UTC]** Nome de operação da Polícia Federal contra Lulinha causa tensão no Planalto
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nome-de-operacao-da-policia-federal-contra-lulinha-causa-tensao-no-planalto/)_
 
+- **[2026-08-25 18:26 UTC]** Lula é questionado sobre Lulinha e deixa entrevista no QG do Exército, em Brasília
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-questionado-sobre-lulinha-e-deixa-entrevista-no-qg-do-exercito-em-brasilia/)_
+
