@@ -77,3 +77,6 @@
 - **[2026-08-21 20:54 UTC]** Mensagem atribuída a Roberta diz que ela tinha “sociedade” com Lulinha
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/mensagem-atribuida-a-roberta-diz-que-ela-tinha-sociedade-com-lulinha/)_
 
+- **[2026-08-17 08:55 UTC]** Como é viver em El Salvador após Bukele derrotar facções: 'O medo agora é outro'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckg3k56mdydo?at_medium=RSS&at_campaign=rss)_
+
