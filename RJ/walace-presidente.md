@@ -29,3 +29,6 @@
 - **[2026-08-27 09:42 UTC]** 'Modelo Bukele' usado em El Salvador não derrotaria PCC e CV no Brasil, diz especialista em segurança pública
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/modelo-bukele-usado-em-el-salvador-nao-derrotaria-pcc-e-cv-no-brasil-diz-especialista-em-seguranca-publica.shtml)_
 
+- **[2026-08-27 04:02 UTC]** O que pesa contra Lula nas eleições de 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/o-que-pesa-contra-lula-nas-eleicoes-de-2026.shtml)_
+
