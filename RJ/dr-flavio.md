@@ -440,3 +440,6 @@
 - **[2026-08-20 20:08 UTC]** Lulinha processa Flávio Bolsonaro e pede remoção imediata de vídeo sobre farra do INSS
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lulinha-processa-flavio-bolsonaro-e-pede-remocao-imediata-de-video-sobre-farra-do-inss/)_
 
+- **[2026-08-26 19:50 UTC]** Coordenador da campanha de Flávio ironiza Lulinha: “Virou craque dos negócios”
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/coordenador-da-campanha-de-flavio-ironiza-lulinha-virou-craque-dos-negocios/)_
+
