@@ -17,3 +17,6 @@
 - **[2026-08-24 09:11 UTC]** Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24)_
 
+- **[2026-08-27 09:38 UTC]** Paula Fernandes relembra machismo no sertanejo em volta a Barretos: 'Me deram 5 namorados em uma semana'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4g7lweywzeo?at_medium=RSS&at_campaign=rss)_
+
