@@ -74,3 +74,6 @@
 - **[2026-08-25 01:21 UTC]** Mensagens mostram preocupação de Lulinha com gastos em viagem à Europa
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/cafe-com-a-gazeta/mensagens-mostram-preocupacao-de-lulinha-com-gastos-em-viagem-a-europa/)_
 
+- **[2026-08-24 14:36 UTC]** Governo Lula registra 68% de fracasso na aprovação de MPs no Congresso em 2026
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/governo-lula-registra-68-de-fracasso-na-aprovacao-de-mps-no-congresso-em-2026/)_
+
