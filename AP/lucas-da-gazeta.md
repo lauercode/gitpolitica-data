@@ -86,3 +86,6 @@
 - **[2026-08-14 23:50 UTC]** Evangélicos articulam queda de veto progressista de Lula sobre conselheiros tutelares
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/evangelicos-articulam-queda-de-veto-progressista-de-lula-sobre-conselheiros-tutelares/)_
 
+- **[2026-08-14 13:31 UTC]** Gazeta Agora: Lula diz que crê em Lulinha, mas defesa tenta anular PF
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/gazeta-agora/gazeta-agora/)_
+
