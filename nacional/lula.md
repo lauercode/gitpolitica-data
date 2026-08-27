@@ -800,3 +800,6 @@
 - **[2026-08-24 20:13 UTC]** Quem é Augusto Cury, escritor que disputa a Presidência nas eleições 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 16:30 UTC]** Documentário sobre cozinheiras do MTST na posse de Lula estreia em setembro; veja trailer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/documentario-sobre-cozinheiras-do-mtst-na-posse-de-lula-estreia-em-setembro-veja-trailer.shtml)_
+
