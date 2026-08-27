@@ -17,3 +17,6 @@
 - **[2026-08-24 05:00 UTC]** Vírus letal reduz em 83% população de pererecas em reserva da mata atlântica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/virus-letal-reduz-em-83-populacao-de-pererecas-em-reserva-da-mata-atlantica.shtml)_
 
+- **[2026-08-27 14:59 UTC]** Adolescente de 14 anos mata irmão a facadas em São Paulo, diz polícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/adolescente-de-14-anos-mata-irmao-a-facadas-em-sao-paulo.shtml)_
+
