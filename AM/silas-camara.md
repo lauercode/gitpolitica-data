@@ -113,3 +113,6 @@
 - **[2026-08-26 12:38 UTC]** Presidente da Câmara destaca transparência e pluralidade como pilares da democracia
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300276-presidente-da-camara-destaca-transparencia-e-pluralidade-como-pilares-da-democracia)_
 
+- **[2026-08-24 20:13 UTC]** Representação feminina: total de candidatas à Câmara cai 24% em 2026
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299890-representacao-feminina-total-de-candidatas-a-camara-cai-24-em-2026)_
+
