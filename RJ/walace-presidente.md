@@ -89,3 +89,6 @@
 - **[2026-08-19 20:20 UTC]** Presidente da República eleito neste ano vai tomar posse no dia 5 de janeiro
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1298895-presidente-da-republica-eleito-neste-ano-vai-tomar-posse-no-dia-5-de-janeiro)_
 
+- **[2026-08-27 14:12 UTC]** Fundação ligada ao PT lança livro sobre 10 anos do impeachment de Dilma
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/fundacao-ligada-ao-pt-lanca-livro-sobre-10-anos-do-impeachment-de-dilma.shtml)_
+
