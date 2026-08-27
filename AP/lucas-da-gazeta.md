@@ -44,3 +44,6 @@
 - **[2026-08-26 11:24 UTC]** TST concede penduricalho de 15% para servidores sem desconto de impostos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tst-concede-penduricalho-15-servidores-sem-desconto-impostos/)_
 
+- **[2026-08-26 11:01 UTC]** Gerp divulga pesquisa para presidente; confira os números
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/gerp-presidente-agosto-2026-2/)_
+
