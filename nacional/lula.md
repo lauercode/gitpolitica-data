@@ -806,3 +806,6 @@
 - **[2026-08-27 15:13 UTC]** Entidades que defendem taxar 'super-ricos' se reúnem com coordenador do programa de governo de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/entidades-que-defendem-taxar-super-ricos-se-reunem-com-coordenador-do-programa-de-governo-de-lula.shtml)_
 
+- **[2026-08-27 12:30 UTC]** Lula e Flávio Bolsonaro preveem ofensiva em programa eleitoral com 'Dark Horse' e endividamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-partem-para-ofensiva-em-programa-eleitoral-com-dark-horse-e-endividamento.shtml)_
+
