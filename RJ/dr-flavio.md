@@ -407,3 +407,6 @@
 - **[2026-08-27 08:00 UTC]** 'Dark Horse', estrangeiro onde?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/dark-horse-estrangeiro-onde.shtml)_
 
+- **[2026-08-27 04:02 UTC]** O que pesa contra Flávio Bolsonaro nas eleições de 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/o-que-pesa-contra-flavio-bolsonaro-nas-eleicoes-de-2026.shtml)_
+
