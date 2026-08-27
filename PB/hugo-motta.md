@@ -20,3 +20,6 @@
 - **[2026-08-23 13:29 UTC]** Dino diz que indicação de emendas por dirigentes é nula e alerta para punição em caso de descumprimento
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/23/dino-diz-que-indicacao-de-emendas-por-dirigentes-e-nula-e-alerta-para-punicao-em-caso-de-descumprimento.ghtml)_
 
+- **[2026-08-26 12:38 UTC]** Presidente da Câmara destaca transparência e pluralidade como pilares da democracia
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300276-presidente-da-camara-destaca-transparencia-e-pluralidade-como-pilares-da-democracia)_
+
