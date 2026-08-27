@@ -107,3 +107,6 @@
 - **[2026-08-25 19:35 UTC]** Relator sinaliza manter texto do fim da escala 6×1 da Câmara no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/relator-sinaliza-manter-texto-do-fim-da-escala-6x1-da-camara-no-senado/)_
 
+- **[2026-08-26 18:59 UTC]** Motta diz que Congresso deve votar na semana que vem fim da taxa das blusinhas
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300443-motta-diz-que-congresso-deve-votar-na-semana-que-vem-fim-da-taxa-das-blusinhas)_
+
