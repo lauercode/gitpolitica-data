@@ -86,3 +86,6 @@
 - **[2026-08-26 23:23 UTC]** Justiça condena vice de Tarcísio por dizer que PT é “narcoafetivo”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/sao-paulo/justica-condena-vice-de-tarcisio-por-dizer-que-pt-e-narcoafetivo/)_
 
+- **[2026-08-27 13:47 UTC]** Propaganda no rádio e na TV começa nesta sexta (28) com Haddad pressionado e Tarcísio cauteloso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/propaganda-no-radio-e-na-tv-comeca-nesta-sexta-28-com-haddad-pressionado-e-tarcisio-cauteloso.shtml)_
+
