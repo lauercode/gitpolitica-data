@@ -104,3 +104,6 @@
 - **[2026-08-27 18:36 UTC]** Vorcaro tem depoimento à PF adiado por problema técnico
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-tem-depoimento-a-pf-adiado-pela-segunda-vez-por-problema-tecnico/)_
 
+- **[2026-08-27 17:45 UTC]** Horário eleitoral vira tentativa de capturar atenção dos eleitores desinteressados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/horario-eleitoral-tentativa-atencao-eleitores-desinteressados/)_
+
