@@ -44,3 +44,6 @@
 - **[2026-08-26 12:31 UTC]** Os números da pesquisa Indexa/Broadcast para presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/indexa-broadcast-presidente-agosto-2026/)_
 
+- **[2026-08-26 11:01 UTC]** Gerp divulga pesquisa para presidente; confira os números
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/gerp-presidente-agosto-2026-2/)_
+
