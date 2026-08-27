@@ -11,3 +11,6 @@
 - **[2026-08-26 18:47 UTC]** As imagens de satélite do Nepal que mostram o antes e depois das áreas destruídas pela enxurrada
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3d7vn1l3zgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-20 14:41 UTC]** Eleição 2026: quais são as propostas dos candidatos?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss)_
+
