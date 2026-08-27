@@ -11,3 +11,6 @@
 - **[2026-08-25 10:50 UTC]** Corrupção: a conta que o Brasil não pode mais pagar
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/artigos/corrupcao-a-conta-que-o-brasil-nao-pode-mais-pagar/)_
 
+- **[2026-08-24 23:46 UTC]** Aumento de penas não é suficiente contra o crime organizado, diz Moraes
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/aumento-de-penas-nao-e-suficiente-contra-o-crime-organizado-diz-moraes/)_
+
