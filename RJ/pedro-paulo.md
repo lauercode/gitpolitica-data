@@ -242,3 +242,6 @@
 - **[2026-08-27 12:00 UTC]** Mubi Fest exibe filme premiado em Berlim e destaques de Cannes em SP; veja a programação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/08/mubi-fest-exibe-filme-premiado-em-berlim-e-destaques-de-cannes-em-sp-veja-a-programacao.shtml)_
 
+- **[2026-08-27 10:44 UTC]** Consórcio Rota Mogiana assina com governo de SP concessão de rodovias com investimentos de R$ 9,4 bi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/consorcio-rota-mogiana-assina-com-governo-de-sp-concessao-de-rodovias-com-investimentos-de-r-94-bi.shtml)_
+
