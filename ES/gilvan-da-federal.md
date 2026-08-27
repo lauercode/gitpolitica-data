@@ -227,3 +227,6 @@
 - **[2026-08-15 03:52 UTC]** Bancada evangélica trava orçamento federal para derrubar vetos de Lula
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/bancada-evangelica-trava-orcamento-federal-para-derrubar-vetos-de-lula/)_
 
+- **[2026-08-21 21:00 UTC]** Campanha de candidatos a deputado federal se concentra no Instagram
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299588-campanha-de-candidatos-a-deputado-federal-se-concentra-no-instagram)_
+
