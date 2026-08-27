@@ -791,3 +791,6 @@
 - **[2026-08-25 11:08 UTC]** Veja a distância entre Lula e Flávio Bolsonaro segundo o agregador de pesquisas da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-26 08:00 UTC]** Por que mulheres e homens votam cada vez mais diferente — e como isso pode definir eleição entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cewr7rp1yppo?at_medium=RSS&at_campaign=rss)_
+
