@@ -722,3 +722,6 @@
 - **[2026-08-26 15:37 UTC]** Chanceler e deputados do Paraguai criticam fala “infeliz” de Lula e cobram que canhão seja devolvido
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/chanceler-deputados-paraguai-criticam-fala-infeliz-lula-cobram-canhao-seja-devolvido/)_
 
+- **[2026-08-26 14:13 UTC]** Como Janja comanda e ajuda (ou atrapalha) a campanha de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-janja-comanda-ajuda-ou-atrapalha-campanha-de-lula/)_
+
