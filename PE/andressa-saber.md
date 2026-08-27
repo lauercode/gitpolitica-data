@@ -14,3 +14,6 @@
 - **[2026-08-16 12:22 UTC]** Guia do eleitor: tudo o que você precisa saber sobre as eleições de 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss)_
 
+- **[2024-04-15 11:20 UTC]** CLIQUE PARA SE INSCREVER
+  _fonte: [BBC Brasil - Primeira Página](https://bbc.in/3UkB2wH?at_medium=RSS&at_campaign=rss)_
+
