@@ -419,3 +419,6 @@
 - **[2026-08-26 00:50 UTC]** Ações de Dino contra rivais no Maranhão fazem sua atuação no STF ser questionada
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-de-dino-contra-rivais-no-maranhao-fazem-sua-atuacao-no-stf-ser-questionada/)_
 
+- **[2026-08-26 00:28 UTC]** Mendonça manda remover deepfake que associa Flávio a Vorcaro e propõe nova regra
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-remover-deepfake-que-associa-flavio-a-vorcaro-e-propoe-nova-regra/)_
+
