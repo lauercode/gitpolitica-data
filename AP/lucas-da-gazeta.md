@@ -83,3 +83,6 @@
 - **[2026-08-20 00:13 UTC]** 5 ações do “sistema” para blindar Lula e o PT de apurações de corrupção
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/5-acoes-do-sistema-para-blindar-lula-e-o-pt-de-apuracoes-de-corrupcao/)_
 
+- **[2026-08-14 23:50 UTC]** Evangélicos articulam queda de veto progressista de Lula sobre conselheiros tutelares
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/evangelicos-articulam-queda-de-veto-progressista-de-lula-sobre-conselheiros-tutelares/)_
+
