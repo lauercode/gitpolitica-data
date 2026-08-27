@@ -11,3 +11,6 @@
 - **[2026-08-24 20:35 UTC]** Novo IVA pode ser o maior do mundo e deixa empresas sem saber quanto vão pagar
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/reforma-tributaria-aliquota-iva-2791/)_
 
+- **[2026-08-16 12:22 UTC]** Guia do eleitor: tudo o que você precisa saber sobre as eleições de 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss)_
+
