@@ -266,3 +266,6 @@
 - **[2026-08-27 14:59 UTC]** Adolescente de 14 anos mata irmão a facadas em São Paulo, diz polícia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/adolescente-de-14-anos-mata-irmao-a-facadas-em-sao-paulo.shtml)_
 
+- **[2026-08-27 13:49 UTC]** Beth Gibbons, vocalista do Portishead, vem ao Brasil para o C6 Fest em 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/beth-gibbons-vocalista-do-portishead-vem-ao-brasil-para-o-c6-fest-em-2027.shtml)_
+
