@@ -86,3 +86,6 @@
 - **[2026-08-25 22:53 UTC]** Defesa de Bolsonaro pede prazo a Moraes para transferir titularidade de armas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-bolsonaro-pede-prazo-a-moraes-para-transferir-titularidade-de-armas/)_
 
+- **[2026-08-24 23:46 UTC]** Aumento de penas não é suficiente contra o crime organizado, diz Moraes
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/aumento-de-penas-nao-e-suficiente-contra-o-crime-organizado-diz-moraes/)_
+
