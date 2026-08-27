@@ -14,3 +14,6 @@
 - **[2026-08-26 16:54 UTC]** OAB-SP defende mandato de 12 Anos no STF: saiba quem deixaria o Supremo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-sp-defende-mandato-de-12-anos-no-stf-saiba-quem-deixaria-o-supremo/)_
 
+- **[2026-08-26 00:15 UTC]** Lula ou Jair Bolsonaro: quem passaria a faixa presidencial para Flávio se ele for eleito?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-ou-jair-bolsonaro-quem-passaria-a-faixa-presidencial-para-flavio-se-ele-for-eleito/)_
+
