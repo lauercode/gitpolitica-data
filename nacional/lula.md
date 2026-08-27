@@ -719,3 +719,6 @@
 - **[2026-08-26 19:25 UTC]** Alcolumbre promete a Lula encaminhar isenção da “taxa das blusinhas” e PECs da 6×1 e Segurança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-promete-lula-encaminhar-isencao-taxa-blusinhas/)_
 
+- **[2026-08-26 15:37 UTC]** Chanceler e deputados do Paraguai criticam fala “infeliz” de Lula e cobram que canhão seja devolvido
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/chanceler-deputados-paraguai-criticam-fala-infeliz-lula-cobram-canhao-seja-devolvido/)_
+
