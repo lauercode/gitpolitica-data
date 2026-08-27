@@ -11,3 +11,6 @@
 - **[2026-08-24 17:02 UTC]** Projeto amplia punição para ataques digitais contra mulheres na política
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299474-projeto-amplia-punicao-para-ataques-digitais-contra-mulheres-na-politica)_
 
+- **[2026-08-27 14:05 UTC]** Uefa suspende ameaça de boicote à Fifa, mas intensifica pressão sobre entidade que comanda futebol mundial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/uefa-suspende-ameaca-de-boicote-a-fifa-mas-intensifica-pressao-sobre-entidade-que-comanda-futebol-mundial.shtml)_
+
