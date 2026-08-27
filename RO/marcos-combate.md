@@ -8,3 +8,6 @@
 - **[2026-08-27 04:00 UTC]** Drones de combate, IA e tecnologia de furtividade redesenham o combate aéreo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/drones-de-combate-ia-e-tecnologia-de-furtividade-redesenham-o-combate-aereo.shtml)_
 
+- **[2026-08-25 10:50 UTC]** Corrupção: a conta que o Brasil não pode mais pagar
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/artigos/corrupcao-a-conta-que-o-brasil-nao-pode-mais-pagar/)_
+
