@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-08-26 18:49 UTC]** Polícia Federal investiga Lulinha por suposta sociedade com dono de sítio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-lulinha-por-suposta-sociedade-com-dono-de-sitio/)_
+
