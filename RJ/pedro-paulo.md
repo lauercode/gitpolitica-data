@@ -239,3 +239,6 @@
 - **[2026-08-24 22:00 UTC]** Às vésperas dos 80 anos, Edwin Luisi apresenta pela 1ª vez em São Paulo monólogo sobre mulher trans
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/as-vesperas-dos-80-anos-edwin-luisi-apresenta-pela-1a-vez-em-sao-paulo-monologo-sobre-mulher-trans.shtml)_
 
+- **[2026-08-27 12:00 UTC]** Mubi Fest exibe filme premiado em Berlim e destaques de Cannes em SP; veja a programação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/08/mubi-fest-exibe-filme-premiado-em-berlim-e-destaques-de-cannes-em-sp-veja-a-programacao.shtml)_
+
