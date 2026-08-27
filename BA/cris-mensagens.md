@@ -11,3 +11,6 @@
 - **[2026-08-25 01:21 UTC]** Mensagens mostram preocupação de Lulinha com gastos em viagem à Europa
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/cafe-com-a-gazeta/mensagens-mostram-preocupacao-de-lulinha-com-gastos-em-viagem-a-europa/)_
 
+- **[2026-08-22 00:40 UTC]** Polícia Federal investiga mensagem sobre suposta sociedade entre lobista e Lulinha
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-mensagem-sobre-suposta-sociedade-entre-lobista-e-lulinha/)_
+
