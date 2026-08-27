@@ -92,3 +92,6 @@
 - **[2026-08-24 10:17 UTC]** Governo prepara novas regras contra pirataria após EUA citarem tema no tarifaço
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/governo-prepara-novas-regras-contra-pirataria-apos-eua-citarem-tema-no-tarifaco/)_
 
+- **[2026-08-22 00:15 UTC]** De terrorismo doméstico a polícia sul-americana, veja as propostas de Caiado para a segurança
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/de-terrorismo-domestico-a-policia-sul-americana-veja-as-propostas-de-caiado-para-a-seguranca/)_
+
