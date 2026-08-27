@@ -416,3 +416,6 @@
 - **[2026-08-26 02:18 UTC]** Moraes autoriza visitas de Carlos e Flávio Bolsonaro a Filipe Martins na prisão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visitas-de-carlos-e-flavio-bolsonaro-a-filipe-martins-na-prisao/)_
 
+- **[2026-08-26 00:50 UTC]** Ações de Dino contra rivais no Maranhão fazem sua atuação no STF ser questionada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-de-dino-contra-rivais-no-maranhao-fazem-sua-atuacao-no-stf-ser-questionada/)_
+
