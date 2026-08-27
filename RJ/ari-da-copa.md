@@ -20,3 +20,6 @@
 - **[2026-08-27 12:40 UTC]** Esposa de Lito Sousa vai ao estádio do Palmeiras e fala sobre tratamento: 'Nunca desistir'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/esposa-de-lito-sousa-vai-ao-estadio-do-palmeiras-e-fala-sobre-tratamento-nunca-desistir.shtml)_
 
+- **[2026-08-27 18:03 UTC]** Por que a Uefa se prepara para processar criminalmente presidente da Fifa, Gianni Infantino
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8r6llnz7e2o?at_medium=RSS&at_campaign=rss)_
+
