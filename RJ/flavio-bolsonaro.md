@@ -323,3 +323,6 @@
 - **[2026-08-26 00:15 UTC]** Lula ou Jair Bolsonaro: quem passaria a faixa presidencial para Flávio se ele for eleito?
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-ou-jair-bolsonaro-quem-passaria-a-faixa-presidencial-para-flavio-se-ele-for-eleito/)_
 
+- **[2026-08-25 21:46 UTC]** Site de Flávio Bolsonaro sofre 3.250 ataques em oito dias, diz equipe
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/site-de-flavio-bolsonaro-sofre-3-250-ataques-em-oito-dias-diz-equipe/)_
+
