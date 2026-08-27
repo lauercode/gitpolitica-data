@@ -17,3 +17,6 @@
 - **[2026-08-27 08:00 UTC]** E se todas as mulheres denunciarem a violência doméstica?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/08/e-se-todas-as-mulheres-denunciarem-a-violencia-domestica.shtml)_
 
+- **[2026-08-24 18:36 UTC]** Justiça Eleitoral realiza campanha de combate ao assédio de eleitores no trabalho
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299833-justica-eleitoral-realiza-campanha-de-combate-ao-assedio-de-eleitores-no-trabalho)_
+
