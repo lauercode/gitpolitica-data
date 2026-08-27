@@ -764,3 +764,6 @@
 - **[2026-08-19 01:52 UTC]** Lula pressiona Congresso por aprovação do fim da taxa das blusinhas: “Questão de justiça”
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/lula-pressiona-congresso-por-aprovacao-do-fim-da-taxa-das-blusinhas-questao-de-justica/)_
 
+- **[2026-08-17 21:48 UTC]** Alcolumbre elogia “liderança” de Lula e critica “tutela” estrangeira sobre o Brasil
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/alcolumbre-elogia-lideranca-de-lula-e-critica-tutela-estrangeira-sobre-o-brasil/)_
+
