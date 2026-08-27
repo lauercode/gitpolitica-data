@@ -110,3 +110,6 @@
 - **[2026-08-26 18:59 UTC]** Motta diz que Congresso deve votar na semana que vem fim da taxa das blusinhas
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300443-motta-diz-que-congresso-deve-votar-na-semana-que-vem-fim-da-taxa-das-blusinhas)_
 
+- **[2026-08-26 12:38 UTC]** Presidente da Câmara destaca transparência e pluralidade como pilares da democracia
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300276-presidente-da-camara-destaca-transparencia-e-pluralidade-como-pilares-da-democracia)_
+
