@@ -17,3 +17,6 @@
 - **[2026-08-27 11:57 UTC]** Colapso glacial: o fenômeno que causou a enchente repentina na fronteira entre Nepal e Tibete
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c70l4jen7qro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 15:08 UTC]** As imagens impressionantes da tragédia que matou mais de 300 e deixou centenas de desaparecidos no Nepal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/as-imagens-impressionantes-da-tragedia-que-matou-mais-de-300-e-deixou-centenas-de-desaparecidos-no-nepal.shtml)_
+
