@@ -11,3 +11,6 @@
 - **[2026-08-23 12:01 UTC]** Paralamas, Titãs e Paulo Ricardo embalam público do C6 no Rock em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/paralamas-titas-e-paulo-ricardo-embalam-publico-do-c6-no-rock-em-sao-paulo.shtml)_
 
+- **[2026-08-27 22:59 UTC]** MP pede arquivamento de acusação de racismo contra Fabiana Bolsonaro por “blackface”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/sao-paulo/mp-pede-arquivamento-de-acusacao-de-racismo-contra-fabiana-bolsonaro-por-blackface/)_
+
