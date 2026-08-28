@@ -23,3 +23,6 @@
 - **[2026-08-27 19:39 UTC]** Luana Piovani e Ana Paula Renault se encontram e brincam: 'Duas bravas'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/luana-piovani-e-ana-paula-renault-se-encontram-e-brincam-duas-bravas.shtml)_
 
+- **[2026-08-27 19:31 UTC]** Falência da Oi reforça ação contra fundos de investimento, avaliam credores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/falencia-da-oi-reforca-acao-contra-fundos-de-investimento-avaliam-credores.shtml)_
+
