@@ -845,3 +845,6 @@
 - **[2026-08-27 21:27 UTC]** Lula diz que acusações contra filho ainda são ilações e que ex-chefe de gabinete agiu de modo 'totalmente errado'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-acusacoes-contra-filho-sao-ilacoes-e-chama-lobista-amiga-de-lulinha-de-pilantra.shtml)_
 
+- **[2026-08-27 21:15 UTC]** Lula 3 não entendeu que Lula 4 depende de muito mais do que emprego e renda melhores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/lula-3-nao-entendeu-que-lula-4-depende-de-muito-mais-do-que-emprego-e-renda-melhores.shtml)_
+
