@@ -17,3 +17,6 @@
 - **[2026-08-27 18:55 UTC]** Quem chora o fim do sorvete Häagen-Dazs?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cozinha-bruta/2026/08/quem-chora-o-fim-do-sorvete-haagen-dazs.shtml)_
 
+- **[2026-08-27 20:52 UTC]** Governo Lula tenta resolver vazamentos de mensagens de Lulinha com Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-tenta-resolver-vazamentos-de-mensagens-de-lulinha-com-mendonca/)_
+
