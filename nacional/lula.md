@@ -833,3 +833,6 @@
 - **[2026-08-27 20:52 UTC]** Governo Lula tenta resolver vazamentos de mensagens de Lulinha com Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-tenta-resolver-vazamentos-de-mensagens-de-lulinha-com-mendonca/)_
 
+- **[2026-08-27 22:10 UTC]** Caso Lulinha põe campanha de Lula sob pressão: o que PF investiga sobre filho do presidente e ex-chefe de gabinete
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1w1ypwxz98o?at_medium=RSS&at_campaign=rss)_
+
