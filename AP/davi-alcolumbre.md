@@ -59,3 +59,6 @@
 - **[2026-08-27 18:51 UTC]** Congresso antecipa comissão para analisar fim da “taxa das blusinhas”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/congresso-antecipa-comissao-analisar-fim-taxa-blusinhas/)_
 
+- **[2026-08-27 21:09 UTC]** Fim da escala 6x1 no Senado: quem tentar adiar votação 'vai ficar muito mal com a população', diz relator na CCJ
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c804l54z3p0o?at_medium=RSS&at_campaign=rss)_
+
