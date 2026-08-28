@@ -20,3 +20,6 @@
 - **[2026-08-27 15:31 UTC]** Programa da Novo Nordisk vira política pública em Campinas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/programa-da-novo-nordisk-vira-politica-publica-em-campinas.shtml)_
 
+- **[2026-08-27 20:57 UTC]** Mercado vê efeito limitado em decisão sobre zoneamento, e prefeitura seguirá aprovando prédios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mercado-ve-efeito-limitado-de-decisao-sobre-zoneamento-e-prefeitura-seguira-aprovando-predios.shtml)_
+
