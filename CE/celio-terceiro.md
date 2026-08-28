@@ -14,3 +14,6 @@
 - **[2026-08-27 13:41 UTC]** PMs do Rio são presos sob suspeita de fornecer armas a milícia e ao TCP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pms-do-rio-sao-presos-sob-suspeita-de-fornecer-armas-a-milicia-e-ao-tcp.shtml)_
 
+- **[2026-08-27 20:20 UTC]** SK Hynix iniciará produção de chips de IA nos EUA em 2029 e prevê crise de memória até 2030
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/sk-hynix-iniciara-producao-de-chips-de-ia-nos-eua-em-2029-e-preve-crise-de-memoria-ate-2030.shtml)_
+
