@@ -131,3 +131,6 @@
 - **[2026-08-27 12:00 UTC]** Governo pretende prorrogar por mais 60 dias imposto sobre petroleiras, e empresas vão à Justiça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-considera-prorrogar-imposto-de-12-nas-exportacoes-de-petroleo-e-empresas-vao-a-justica.shtml)_
 
+- **[2026-08-27 19:16 UTC]** Prefeitura de SP avalia impacto de decisão da Justiça sobre zoneamento; Nunes não descarta novo PL
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/prefeitura-de-sp-avalia-impacto-de-decisao-da-justica-sobre-zoneamento-nunes-nao-descarta-novo-pl.shtml)_
+
