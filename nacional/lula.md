@@ -842,3 +842,6 @@
 - **[2026-08-28 00:29 UTC]** Vídeos: Tralli e Renata entrevistam Lula, candidato à reeleição pelo PT
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-lula-candidato-a-reeleicao-pelo-pt.ghtml)_
 
+- **[2026-08-27 21:27 UTC]** Lula diz que acusações contra filho ainda são ilações e que ex-chefe de gabinete agiu de modo 'totalmente errado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-acusacoes-contra-filho-sao-ilacoes-e-chama-lobista-amiga-de-lulinha-de-pilantra.shtml)_
+
