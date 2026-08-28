@@ -23,3 +23,6 @@
 - **[2026-08-27 19:24 UTC]** 'GTA 6' ganha novo trailer extenso que se aprofunda na história e na jogabilidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/gta-6-ganha-novo-trailer-extenso-que-se-aprofunda-na-historia-e-na-jogabilidade.shtml)_
 
+- **[2026-08-27 19:00 UTC]** Será que planejar demais é uma boa escolha para as práticas amorosas e sexuais?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-muller/2026/08/sera-que-planejar-demais-e-uma-boa-escolha-para-as-praticas-amorosas-e-sexuais.shtml)_
+
