@@ -278,3 +278,6 @@
 - **[2026-08-27 20:00 UTC]** Motiva afirma ter tapado 3.000 buracos nos 100 primeiros dias de concessão da Fernão Dias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/motiva-afirma-ter-tapado-3000-buracos-nos-100-primeiros-dias-de-concessao-da-fernao-dias.shtml)_
 
+- **[2026-08-27 19:16 UTC]** Prefeitura de SP avalia impacto de decisão da Justiça sobre zoneamento; Nunes não descarta novo PL
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/prefeitura-de-sp-avalia-impacto-de-decisao-da-justica-sobre-zoneamento-nunes-nao-descarta-novo-pl.shtml)_
+
