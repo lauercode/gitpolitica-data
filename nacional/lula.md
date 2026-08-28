@@ -836,3 +836,6 @@
 - **[2026-08-27 22:10 UTC]** Caso Lulinha põe campanha de Lula sob pressão: o que PF investiga sobre filho do presidente e ex-chefe de gabinete
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1w1ypwxz98o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 21:09 UTC]** Fim da escala 6x1 no Senado: quem tentar adiar votação 'vai ficar muito mal com a população', diz relator na CCJ
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c804l54z3p0o?at_medium=RSS&at_campaign=rss)_
+
