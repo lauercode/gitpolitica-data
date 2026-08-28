@@ -11,3 +11,6 @@
 - **[2026-08-27 22:45 UTC]** Quaest em Roraima: 48% aprovam e 35% desaprovam governo de Soldado Sampaio
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/27/quaest-roraima-avaliacao-governo-27-agosto.ghtml)_
 
+- **[2026-08-27 22:43 UTC]** Quaest no AC: 57% desaprovam e 36% aprovam governo Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-ac-avaliacao-lula-27-agosto.ghtml)_
+
