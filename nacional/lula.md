@@ -821,3 +821,6 @@
 - **[2026-08-27 22:43 UTC]** Quaest no AC: 57% desaprovam e 36% aprovam governo Lula
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-ac-avaliacao-lula-27-agosto.ghtml)_
 
+- **[2026-08-27 19:21 UTC]** Lula vai associar Flávio Bolsonaro a rachadinha, Vorcaro e miliciano em estreia de propaganda eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/lula-vai-associar-flavio-bolsonaro-a-rachadinha-vorcaro-e-miliciano-em-estreia-de-propaganda-eleitoral.shtml)_
+
