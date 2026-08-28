@@ -26,3 +26,6 @@
 - **[2026-08-27 19:31 UTC]** Falência da Oi reforça ação contra fundos de investimento, avaliam credores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/falencia-da-oi-reforca-acao-contra-fundos-de-investimento-avaliam-credores.shtml)_
 
+- **[2026-08-27 21:43 UTC]** Projeto no entorno do Masp vira alvo de inquérito do MP após críticas de moradores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/projeto-no-entorno-do-masp-vira-alvo-de-inquerito-do-mp-apos-criticas-de-moradores.shtml)_
+
