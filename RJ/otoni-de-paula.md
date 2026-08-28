@@ -20,3 +20,6 @@
 - **[2026-08-27 09:38 UTC]** Paula Fernandes relembra machismo no sertanejo em volta a Barretos: 'Me deram 5 namorados em uma semana'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4g7lweywzeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 19:39 UTC]** Luana Piovani e Ana Paula Renault se encontram e brincam: 'Duas bravas'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/luana-piovani-e-ana-paula-renault-se-encontram-e-brincam-duas-bravas.shtml)_
+
