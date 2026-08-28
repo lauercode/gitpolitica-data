@@ -272,3 +272,6 @@
 - **[2026-08-27 13:47 UTC]** Propaganda no rádio e na TV começa nesta sexta (28) com Haddad pressionado e Tarcísio cauteloso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/propaganda-no-radio-e-na-tv-comeca-nesta-sexta-28-com-haddad-pressionado-e-tarcisio-cauteloso.shtml)_
 
+- **[2026-08-27 20:57 UTC]** Mercado vê efeito limitado em decisão sobre zoneamento, e prefeitura seguirá aprovando prédios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mercado-ve-efeito-limitado-de-decisao-sobre-zoneamento-e-prefeitura-seguira-aprovando-predios.shtml)_
+
