@@ -35,3 +35,6 @@
 - **[2026-08-27 07:00 UTC]** CEO do Hcor defende prova para médicos e cobra regulação de novas escolas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/ceo-do-hcor-defende-prova-para-medicos-e-cobra-regulacao-de-novas-escolas.shtml)_
 
+- **[2026-08-27 20:46 UTC]** Cuba registra novo apagão, e 4 de 5 províncias no leste do país ficam no escuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/cuba-registra-novo-apagao-e-4-de-5-provincias-no-leste-do-pais-ficam-no-escuro.shtml)_
+
