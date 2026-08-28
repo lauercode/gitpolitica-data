@@ -14,3 +14,6 @@
 - **[2026-08-27 18:15 UTC]** Justiça nega pedido de empresas de saneamento para suspender flúor na água, que previne cáries
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/justica-nega-pedido-de-empresas-de-saneamento-para-suspender-fluor-na-agua-que-previne-caries.shtml)_
 
+- **[2026-08-27 17:54 UTC]** Sabesp atrai fabricantes globais de hidrômetros inteligentes ao Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/sabesp-atrai-fabricantes-globais-de-hidrometros-inteligentes-ao-brasil.shtml)_
+
