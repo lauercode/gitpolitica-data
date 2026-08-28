@@ -113,3 +113,6 @@
 - **[2026-08-27 22:10 UTC]** Caso Lulinha põe campanha de Lula sob pressão: o que PF investiga sobre filho do presidente e ex-chefe de gabinete
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1w1ypwxz98o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 21:27 UTC]** Lula diz que acusações contra filho ainda são ilações e que ex-chefe de gabinete agiu de modo 'totalmente errado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-acusacoes-contra-filho-sao-ilacoes-e-chama-lobista-amiga-de-lulinha-de-pilantra.shtml)_
+
