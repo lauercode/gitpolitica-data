@@ -38,3 +38,6 @@
 - **[2026-08-27 19:31 UTC]** Falência da Oi reforça ação contra fundos de investimento, avaliam credores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/falencia-da-oi-reforca-acao-contra-fundos-de-investimento-avaliam-credores.shtml)_
 
+- **[2026-08-27 18:55 UTC]** Quem chora o fim do sorvete Häagen-Dazs?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cozinha-bruta/2026/08/quem-chora-o-fim-do-sorvete-haagen-dazs.shtml)_
+
