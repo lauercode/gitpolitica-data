@@ -8,3 +8,6 @@
 - **[2026-08-25 22:23 UTC]** Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/clyely5exwro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 21:15 UTC]** Lula 3 não entendeu que Lula 4 depende de muito mais do que emprego e renda melhores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/lula-3-nao-entendeu-que-lula-4-depende-de-muito-mais-do-que-emprego-e-renda-melhores.shtml)_
+
