@@ -134,3 +134,6 @@
 - **[2026-08-27 19:16 UTC]** Prefeitura de SP avalia impacto de decisão da Justiça sobre zoneamento; Nunes não descarta novo PL
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/prefeitura-de-sp-avalia-impacto-de-decisao-da-justica-sobre-zoneamento-nunes-nao-descarta-novo-pl.shtml)_
 
+- **[2026-08-27 23:31 UTC]** Lula e chefes do Legislativo destravam proposta para acabar com a jornada 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-chefes-do-legislativo-destravam-proposta-para-acabar-com-a-jornada-6x1/)_
+
