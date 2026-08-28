@@ -104,3 +104,6 @@
 - **[2026-08-27 21:02 UTC]** Trump assina decreto que renomeia Lago Ontário como Lago América e irrita Canadá
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/trump-assina-decreto-que-renomeia-lago-ontario-como-lago-america-e-irrita-canada.shtml)_
 
+- **[2026-08-27 18:25 UTC]** TSE marca para terça (1º) julgamento sobre avatar de Bolsonaro e deve fixar tese sobre deepfakes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/tse-marca-para-terca-feira-1o-julgamento-sobre-avatar-de-bolsonaro-e-deve-fixar-tese-sobre-deepfakes.shtml)_
+
