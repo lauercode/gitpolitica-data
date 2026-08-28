@@ -839,3 +839,6 @@
 - **[2026-08-27 21:09 UTC]** Fim da escala 6x1 no Senado: quem tentar adiar votação 'vai ficar muito mal com a população', diz relator na CCJ
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c804l54z3p0o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-28 00:29 UTC]** Vídeos: Tralli e Renata entrevistam Lula, candidato à reeleição pelo PT
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-lula-candidato-a-reeleicao-pelo-pt.ghtml)_
+
