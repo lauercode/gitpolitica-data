@@ -818,3 +818,6 @@
 - **[2026-08-27 18:51 UTC]** Congresso antecipa comissão para analisar fim da “taxa das blusinhas”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/congresso-antecipa-comissao-analisar-fim-taxa-blusinhas/)_
 
+- **[2026-08-27 22:43 UTC]** Quaest no AC: 57% desaprovam e 36% aprovam governo Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-ac-avaliacao-lula-27-agosto.ghtml)_
+
