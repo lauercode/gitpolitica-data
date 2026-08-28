@@ -353,3 +353,6 @@
 - **[2026-08-27 19:21 UTC]** Lula vai associar Flávio Bolsonaro a rachadinha, Vorcaro e miliciano em estreia de propaganda eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/lula-vai-associar-flavio-bolsonaro-a-rachadinha-vorcaro-e-miliciano-em-estreia-de-propaganda-eleitoral.shtml)_
 
+- **[2026-08-27 18:25 UTC]** TSE marca para terça (1º) julgamento sobre avatar de Bolsonaro e deve fixar tese sobre deepfakes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/tse-marca-para-terca-feira-1o-julgamento-sobre-avatar-de-bolsonaro-e-deve-fixar-tese-sobre-deepfakes.shtml)_
+
