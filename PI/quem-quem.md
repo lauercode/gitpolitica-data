@@ -35,3 +35,6 @@
 - **[2026-08-27 12:40 UTC]** Esposa de Lito Sousa vai ao estádio do Palmeiras e fala sobre tratamento: 'Nunca desistir'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/esposa-de-lito-sousa-vai-ao-estadio-do-palmeiras-e-fala-sobre-tratamento-nunca-desistir.shtml)_
 
+- **[2026-08-27 19:31 UTC]** Falência da Oi reforça ação contra fundos de investimento, avaliam credores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/falencia-da-oi-reforca-acao-contra-fundos-de-investimento-avaliam-credores.shtml)_
+
