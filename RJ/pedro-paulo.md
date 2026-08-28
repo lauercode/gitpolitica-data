@@ -275,3 +275,6 @@
 - **[2026-08-27 20:57 UTC]** Mercado vê efeito limitado em decisão sobre zoneamento, e prefeitura seguirá aprovando prédios
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mercado-ve-efeito-limitado-de-decisao-sobre-zoneamento-e-prefeitura-seguira-aprovando-predios.shtml)_
 
+- **[2026-08-27 20:00 UTC]** Motiva afirma ter tapado 3.000 buracos nos 100 primeiros dias de concessão da Fernão Dias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/motiva-afirma-ter-tapado-3000-buracos-nos-100-primeiros-dias-de-concessao-da-fernao-dias.shtml)_
+
