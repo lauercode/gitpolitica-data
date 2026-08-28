@@ -251,3 +251,6 @@
 - **[2026-08-27 18:31 UTC]** MEC corrige prazo e encerra adesão ao Desenrola Fies na próxima segunda (31)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/mec-corrige-prazo-e-encerra-adesao-ao-desenrola-fies-na-proxima-segunda-31.shtml)_
 
+- **[2026-08-27 16:05 UTC]** Confira o resultado do concurso 3050 da Mega-Sena sorteado nesta quinta (27)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-a-partir-das-21h-desta-quinta-27-o-resultado-do-concurso-3050-da-mega-sena.shtml)_
+
