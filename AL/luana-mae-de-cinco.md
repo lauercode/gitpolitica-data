@@ -14,3 +14,6 @@
 - **[2026-08-27 17:30 UTC]** Compare a evolução de patrimônio dos 20,7 mil candidatos em ferramenta interativa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/compare-a-evolucao-de-patrimonio-dos-207-mil-candidatos-em-ferramenta-interativa.shtml)_
 
+- **[2026-08-27 20:46 UTC]** Cuba registra novo apagão, e 4 de 5 províncias no leste do país ficam no escuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/cuba-registra-novo-apagao-e-4-de-5-provincias-no-leste-do-pais-ficam-no-escuro.shtml)_
+
