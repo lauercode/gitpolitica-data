@@ -23,3 +23,6 @@
 - **[2026-08-27 20:57 UTC]** Mercado vê efeito limitado em decisão sobre zoneamento, e prefeitura seguirá aprovando prédios
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mercado-ve-efeito-limitado-de-decisao-sobre-zoneamento-e-prefeitura-seguira-aprovando-predios.shtml)_
 
+- **[2026-08-27 18:37 UTC]** Onda de calor pode fazer temperatura chegar a 36°C na cidade de São Paulo nos próximos dias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/onda-de-calor-pode-fazer-temperatura-chegar-a-36c-na-cidade-de-sao-paulo-nos-proximos-dias.shtml)_
+
