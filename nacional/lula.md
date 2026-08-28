@@ -830,3 +830,6 @@
 - **[2026-08-27 23:31 UTC]** Lula e chefes do Legislativo destravam proposta para acabar com a jornada 6×1
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-chefes-do-legislativo-destravam-proposta-para-acabar-com-a-jornada-6x1/)_
 
+- **[2026-08-27 20:52 UTC]** Governo Lula tenta resolver vazamentos de mensagens de Lulinha com Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-tenta-resolver-vazamentos-de-mensagens-de-lulinha-com-mendonca/)_
+
