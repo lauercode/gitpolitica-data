@@ -17,3 +17,6 @@
 - **[2026-08-27 19:16 UTC]** Prefeitura de SP avalia impacto de decisão da Justiça sobre zoneamento; Nunes não descarta novo PL
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/prefeitura-de-sp-avalia-impacto-de-decisao-da-justica-sobre-zoneamento-nunes-nao-descarta-novo-pl.shtml)_
 
+- **[2026-08-27 21:43 UTC]** Projeto no entorno do Masp vira alvo de inquérito do MP após críticas de moradores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/projeto-no-entorno-do-masp-vira-alvo-de-inquerito-do-mp-apos-criticas-de-moradores.shtml)_
+
