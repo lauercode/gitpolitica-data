@@ -50,3 +50,6 @@
 - **[2026-08-27 13:44 UTC]** OpenAI diz que demorou 11 dias para detectar ataque de IA a outras empresas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/openai-diz-que-demorou-11-dias-para-detectar-ataque-de-ia-a-outras-empresas.shtml)_
 
+- **[2026-08-27 19:28 UTC]** Segundo lugar após primeira barreira, Alison atropela Warholm por recorde
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/segundo-lugar-apos-primeira-barreira-alison-atropela-warholm-por-recorde.shtml)_
+
