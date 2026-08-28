@@ -11,3 +11,6 @@
 - **[2026-08-27 15:31 UTC]** Programa da Novo Nordisk vira política pública em Campinas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/programa-da-novo-nordisk-vira-politica-publica-em-campinas.shtml)_
 
+- **[2026-08-27 19:58 UTC]** Quaest: ACM Neto e Jerônimo estão em empate técnico na disputa na Bahia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/quaest-acm-neto-e-jeronimo-estao-em-empate-tecnico-na-disputa-na-bahia.shtml)_
+
