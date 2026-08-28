@@ -110,3 +110,6 @@
 - **[2026-08-27 22:53 UTC]** Aécio Neves pode ser anunciado nesta sexta-feira como candidato ao Senado Federal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aecio-neves-pode-ser-anunciado-nesta-sexta-feira-como-candidato-ao-senado-federal/)_
 
+- **[2026-08-27 22:10 UTC]** Caso Lulinha põe campanha de Lula sob pressão: o que PF investiga sobre filho do presidente e ex-chefe de gabinete
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1w1ypwxz98o?at_medium=RSS&at_campaign=rss)_
+
