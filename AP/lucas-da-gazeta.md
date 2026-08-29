@@ -137,3 +137,6 @@
 - **[2026-08-28 16:53 UTC]** Em meio a atrito com Mendonça, Andrei fala em defender PF “de qualquer ataque”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/em-meio-a-atrito-com-mendonca-andrei-fala-em-defender-pf-de-qualquer-ataque-nao-importa-de-onde-venha/)_
 
+- **[2026-08-28 16:47 UTC]** Campanha eleitoral 2026: veja o que candidatos podem ou não fazer nas ruas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-eleitoral-2026-veja-o-que-candidatos-podem-ou-nao-fazer-nas-ruas/)_
+
