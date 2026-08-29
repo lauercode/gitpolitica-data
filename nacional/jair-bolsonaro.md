@@ -170,3 +170,6 @@
 - **[2026-08-27 18:25 UTC]** TSE marca para terça (1º) julgamento sobre avatar de Bolsonaro e deve fixar tese sobre deepfakes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/tse-marca-para-terca-feira-1o-julgamento-sobre-avatar-de-bolsonaro-e-deve-fixar-tese-sobre-deepfakes.shtml)_
 
+- **[2026-08-29 02:17 UTC]** Flávio Bolsonaro na Globo: o que disse o candidato à Presidência na entrevista à emissora
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg5973jpn21o?at_medium=RSS&at_campaign=rss)_
+
