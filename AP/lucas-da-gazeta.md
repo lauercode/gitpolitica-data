@@ -161,3 +161,6 @@
 - **[2026-08-28 10:17 UTC]** Qual o plano de Flávio Bolsonaro para o Nordeste do Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/qual-o-plano-de-flavio-bolsonaro-para-o-nordeste-do-brasil/)_
 
+- **[2026-08-28 10:52 UTC]** Justiça barra imposto de 12% sobre petróleo, mas governo anuncia prorrogação horas depois
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/justica-barra-imposto-de-12-mas-governo-anuncia-prorrogacao-horas-depois/)_
+
