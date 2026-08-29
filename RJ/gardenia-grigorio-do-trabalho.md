@@ -38,3 +38,6 @@
 - **[2026-08-29 11:00 UTC]** Homem que ajudou Vorcaro a escolher mulheres para festas lamentou derrocada do Master e pediu trabalho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/homem-que-ajudou-vorcaro-a-escolher-mulheres-para-festa-lamentou-derrocada-do-master-e-pediu-trabalho.shtml)_
 
+- **[2026-08-29 09:37 UTC]** Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y4klql8k9o?at_medium=RSS&at_campaign=rss)_
+
