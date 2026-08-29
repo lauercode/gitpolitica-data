@@ -17,3 +17,6 @@
 - **[2026-08-26 21:27 UTC]** Documentário BBC: O outro lado da guerra das facções em El Salvador
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cdx0lynj2qgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-29 12:00 UTC]** Três Poderes: Renan Santos é o vencedor da semana; lobista, a perdedora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/tres-poderes-renan-santos-e-o-vencedor-da-semana-lobista-a-perdedora.shtml)_
+
