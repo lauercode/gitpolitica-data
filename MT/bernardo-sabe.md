@@ -11,3 +11,6 @@
 - **[2026-08-27 21:15 UTC]** Lula 3 não entendeu que Lula 4 depende de muito mais do que emprego e renda melhores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/lula-3-nao-entendeu-que-lula-4-depende-de-muito-mais-do-que-emprego-e-renda-melhores.shtml)_
 
+- **[2026-08-29 12:00 UTC]** Salada embalada é segura? Entenda como alimento pode ser contaminado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/salada-embalada-e-segura-entenda-como-alimento-pode-ser-contaminado.shtml)_
+
