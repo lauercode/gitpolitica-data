@@ -932,3 +932,6 @@
 - **[2026-08-29 10:34 UTC]** O que Augusto Cury diz sobre ser de esquerda ou de direita
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-29 18:30 UTC]** Lula convida empresários e banqueiros para jantar no Alvorada, e campanha busca aproximação com PIB
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/lula-convida-empresarios-e-banqueiros-para-jantar-no-alvorada-e-campanha-busca-aproximacao-com-pib.shtml)_
+
