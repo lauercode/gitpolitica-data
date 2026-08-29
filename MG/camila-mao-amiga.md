@@ -11,3 +11,6 @@
 - **[2026-08-28 15:29 UTC]** Campanha de Lula nega relação com lobista amiga de Lulinha mesmo após fotos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-nega-relacao-lobista-amiga-lulinha-mesmo-apos-fotos/)_
 
+- **[2026-08-29 20:05 UTC]** Não é só Lula: lobista amiga de Lulinha tem fotos com outras autoridades e ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fotos-roberta-luchsinger-autoridades-ministros-stf/)_
+
