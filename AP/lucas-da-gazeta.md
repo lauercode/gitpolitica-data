@@ -146,3 +146,6 @@
 - **[2026-08-28 14:58 UTC]** Temor de retaliações do STF pesa no cálculo do Centrão sobre apoio a Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temor-de-retaliacoes-do-stf-pesa-no-calculo-do-centrao-sobre-apoio-a-flavio/)_
 
+- **[2026-08-28 13:16 UTC]** TRF4 pune ex-juiz da Lava Jato com perda do cargo por furto de champanhe
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/trf4-pune-ex-juiz-da-lava-jato-com-perda-do-cargo-por-furto-de-champanhe/)_
+
