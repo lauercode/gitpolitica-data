@@ -14,3 +14,6 @@
 - **[2026-08-27 20:11 UTC]** A cirurgia inédita para remover tumor cerebral feita com a ajuda de IA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cpq0dze4wxlo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-29 19:42 UTC]** Mistérios e segredos de textos medievais revelados graças à IA
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss)_
+
