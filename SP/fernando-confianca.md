@@ -14,3 +14,6 @@
 - **[2026-08-27 22:43 UTC]** Quaest no AC: 57% desaprovam e 36% aprovam governo Lula
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-ac-avaliacao-lula-27-agosto.ghtml)_
 
+- **[2026-08-28 10:00 UTC]** Quase 60% dos eleitores dizem estar indecisos sobre candidato ao governo do Acre, diz pesquisa
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/28/quaest-ac-indecisos-governo-27-agosto.ghtml)_
+
