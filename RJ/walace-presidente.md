@@ -155,3 +155,6 @@
 - **[2026-08-29 13:12 UTC]** De saída do Senado, Rodrigo Pacheco pode virar ministro do TCU
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/de-saida-do-senado-rodrigo-pacheco-pode-virar-ministro-do-tcu/)_
 
+- **[2026-08-29 02:51 UTC]** Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgy4rpz5rzo?at_medium=RSS&at_campaign=rss)_
+
