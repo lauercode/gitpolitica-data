@@ -152,3 +152,6 @@
 - **[2026-08-29 14:01 UTC]** Em quais pesquisas Flávio Bolsonaro está à frente de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/em-quais-pesquisas-flavio-bolsonaro-esta-a-frente-de-lula/)_
 
+- **[2026-08-29 13:12 UTC]** De saída do Senado, Rodrigo Pacheco pode virar ministro do TCU
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/de-saida-do-senado-rodrigo-pacheco-pode-virar-ministro-do-tcu/)_
+
