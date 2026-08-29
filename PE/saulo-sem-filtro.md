@@ -11,3 +11,6 @@
 - **[2026-08-27 15:50 UTC]** ONU pede que todas as redes sociais adotem um design seguro para crianças
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/onu-pede-que-todas-as-redes-sociais-adotem-um-design-seguro-para-criancas.shtml)_
 
+- **[2026-08-28 20:08 UTC]** Mendonça dá 24 horas para X explicar filtro que limita recomendação de candidatos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-da-24-horas-para-x-explicar-filtro-que-limita-recomendacao-de-candidatos/)_
+
