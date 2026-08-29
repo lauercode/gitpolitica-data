@@ -140,3 +140,6 @@
 - **[2026-08-29 12:04 UTC]** Lenín Moreno, ex-presidente do Equador, é condenado a 5 anos de prisão por suborno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/lenin-moreno-ex-presidente-do-equador-e-condenado-a-5-anos-de-prisao-por-suborno.shtml)_
 
+- **[2026-08-29 12:00 UTC]** Três Poderes: Renan Santos é o vencedor da semana; lobista, a perdedora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/tres-poderes-renan-santos-e-o-vencedor-da-semana-lobista-a-perdedora.shtml)_
+
