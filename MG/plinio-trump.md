@@ -23,3 +23,6 @@
 - **[2026-08-29 10:43 UTC]** Chevron negocia expandir operações na Venezuela, uma possível vitória para Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/chevron-negocia-expandir-operacoes-na-venezuela-uma-possivel-vitoria-para-trump.shtml)_
 
+- **[2026-08-29 04:00 UTC]** Soberania digital não é autossuficiência nem isolamento tecnológico, diz Esther Dweck
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/soberania-digital-nao-e-autossuficiencia-nem-isolamento-tecnologico-diz-esther-dweck.shtml)_
+
