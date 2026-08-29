@@ -71,3 +71,6 @@
 - **[2026-08-29 17:30 UTC]** Lula “crava” aprovação do fim da escala 6×1 após acordo com Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-crava-aprovacao-do-fim-da-escala-6x1-apos-acordo-com-alcolumbre/)_
 
+- **[2026-08-29 14:52 UTC]** Lula tenta garantir “sobrevida” eleitoral em semana decisiva no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-tenta-garantir-sobrevida-eleitoral-em-semana-decisiva-no-congresso/)_
+
