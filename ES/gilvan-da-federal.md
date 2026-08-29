@@ -266,3 +266,6 @@
 - **[2026-08-28 13:44 UTC]** Mesmo com Desenrola 2.0, inadimplência bancária sobe e bate recorde em julho
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/28/mesmo-com-desenrola-20-inadimplencia-bancaria-sobe-e-bate-recorde-em-julho.ghtml)_
 
+- **[2026-08-28 19:00 UTC]** Aécio confirma candidatura ao Senado por Minas Gerais e nega apoio a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aecio-confirma-candidatura-ao-senado-por-minas-gerais-e-nega-apoio-a-lula/)_
+
