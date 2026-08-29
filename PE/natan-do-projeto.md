@@ -26,3 +26,6 @@
 - **[2026-08-29 08:00 UTC]** Folha Top of Mind mapeia as marcas mais lembradas do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://top-of-mind.folha.uol.com.br/2026/08/folha-top-of-mind-mapeia-as-marcas-mais-lembradas-do-brasil.shtml)_
 
+- **[2026-08-29 17:00 UTC]** 1926: Parlamentares argentinos miram restringir o comércio de álcool
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/08/1926-parlamentares-argentinos-miram-restringir-o-comercio-de-alcool.shtml)_
+
