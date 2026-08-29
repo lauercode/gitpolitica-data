@@ -374,3 +374,6 @@
 - **[2026-08-29 14:01 UTC]** Em quais pesquisas Flávio Bolsonaro está à frente de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/em-quais-pesquisas-flavio-bolsonaro-esta-a-frente-de-lula/)_
 
+- **[2026-08-28 18:59 UTC]** Oposição aponta que medo de punições do STF trava alianças do Centrão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-aponta-que-medo-de-punicoes-do-stf-trava-aliancas-do-centrao/)_
+
