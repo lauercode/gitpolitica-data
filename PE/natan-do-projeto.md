@@ -20,3 +20,6 @@
 - **[2026-08-27 21:43 UTC]** Projeto no entorno do Masp vira alvo de inquérito do MP após críticas de moradores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/projeto-no-entorno-do-masp-vira-alvo-de-inquerito-do-mp-apos-criticas-de-moradores.shtml)_
 
+- **[2026-08-29 03:00 UTC]** VÍDEO: De onde sai o dinheiro das campanhas políticas?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/29/video-de-onde-sai-o-dinheiro-das-campanhas-politicas.ghtml)_
+
