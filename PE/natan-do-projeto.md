@@ -23,3 +23,6 @@
 - **[2026-08-29 03:00 UTC]** VÍDEO: De onde sai o dinheiro das campanhas políticas?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/29/video-de-onde-sai-o-dinheiro-das-campanhas-politicas.ghtml)_
 
+- **[2026-08-29 08:00 UTC]** Folha Top of Mind mapeia as marcas mais lembradas do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://top-of-mind.folha.uol.com.br/2026/08/folha-top-of-mind-mapeia-as-marcas-mais-lembradas-do-brasil.shtml)_
+
