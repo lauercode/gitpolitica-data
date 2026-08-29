@@ -32,3 +32,6 @@
 - **[2026-08-27 06:00 UTC]** Com corrida à Lua, países vão discutir padrão de horário para o satélite
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/com-corrida-a-lua-paises-vao-discutir-padrao-de-horario-para-o-satelite.shtml)_
 
+- **[2026-08-29 16:00 UTC]** Mortes: Devota de Menina Izildinha, gostava de dirigir e de visitar sua terra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mortes-devota-de-menina-izildinha-gostava-de-dirigir-e-de-visitar-sua-terra.shtml)_
+
