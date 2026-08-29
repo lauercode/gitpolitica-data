@@ -299,3 +299,6 @@
 - **[2026-08-29 15:00 UTC]** Agentes de saúde e carro do ovo ajudam a buscar vítimas de violência doméstica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/agentes-de-saude-e-carro-do-ovo-ajudam-a-buscar-vitimas-de-violencia-domestica.shtml)_
 
+- **[2026-08-29 13:32 UTC]** Decisão sobre lei de zoneamento vai parar obras em SP? Confira perguntas e respostas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/decisao-sobre-lei-de-zoneamento-vai-parar-obras-em-sp-confira-perguntas-e-respostas.shtml)_
+
