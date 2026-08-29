@@ -107,3 +107,6 @@
 - **[2026-08-27 17:45 UTC]** Horário eleitoral vira tentativa de capturar atenção dos eleitores desinteressados
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/horario-eleitoral-tentativa-atencao-eleitores-desinteressados/)_
 
+- **[2026-08-29 18:19 UTC]** Entidades do comércio lançam campanha contra fim da escala 6×1 às vésperas da votação
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/entidades-comercio-lancam-campanha-contra-fim-escala-6x1/)_
+
