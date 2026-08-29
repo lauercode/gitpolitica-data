@@ -17,3 +17,6 @@
 - **[2026-08-27 13:32 UTC]** Promotoria de SP denuncia PMs seguranças da Transwolff e pede prisão de tenente-coronel
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/promotoria-de-sp-denuncia-pms-segurancas-da-transwolff-e-pede-prisao-de-tenente-coronel.shtml)_
 
+- **[2026-08-29 14:15 UTC]** Eu, você, nós dois
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2026/08/eu-voce-nos-dois.shtml)_
+
