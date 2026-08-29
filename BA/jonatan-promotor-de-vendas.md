@@ -8,3 +8,6 @@
 - **[2026-08-27 18:55 UTC]** Quem chora o fim do sorvete Häagen-Dazs?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cozinha-bruta/2026/08/quem-chora-o-fim-do-sorvete-haagen-dazs.shtml)_
 
+- **[2026-08-29 14:00 UTC]** 'Construção civil é um dos segmentos mais blindados ao cenário eleitoral', diz co-CEO da MRV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/construcao-civil-e-um-dos-segmentos-mais-blindados-ao-cenario-eleitoral-diz-co-ceo-da-mrv.shtml)_
+
