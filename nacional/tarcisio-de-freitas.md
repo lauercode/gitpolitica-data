@@ -89,3 +89,6 @@
 - **[2026-08-27 13:47 UTC]** Propaganda no rádio e na TV começa nesta sexta (28) com Haddad pressionado e Tarcísio cauteloso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/propaganda-no-radio-e-na-tv-comeca-nesta-sexta-28-com-haddad-pressionado-e-tarcisio-cauteloso.shtml)_
 
+- **[2026-08-29 16:00 UTC]** Justiça de SP nega recurso do governo e mantém agências em contrato de comunicação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/justica-de-sp-nega-recurso-do-governo-e-mantem-agencias-em-contrato-de-comunicacao.shtml)_
+
