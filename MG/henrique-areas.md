@@ -17,3 +17,6 @@
 - **[2026-08-28 22:39 UTC]** g1 passa a publicar reportagens automáticas com dados dos candidatos das Eleições 2026
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/g1-passa-a-publicar-reportagens-automaticas-com-dados-dos-candidatos-das-eleicoes-2026.ghtml)_
 
+- **[2026-08-29 06:00 UTC]** PEC da Segurança pode tirar R$ 500 milhões do esporte, dizem entidades
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/pec-da-seguranca-pode-tirar-r-500-milhoes-do-esporte-dizem-entidades.shtml)_
+
