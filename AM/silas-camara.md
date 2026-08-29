@@ -137,3 +137,6 @@
 - **[2026-08-27 23:31 UTC]** Lula e chefes do Legislativo destravam proposta para acabar com a jornada 6×1
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-chefes-do-legislativo-destravam-proposta-para-acabar-com-a-jornada-6x1/)_
 
+- **[2026-08-29 03:00 UTC]** VÍDEO: De onde sai o dinheiro das campanhas políticas?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/29/video-de-onde-sai-o-dinheiro-das-campanhas-politicas.ghtml)_
+
