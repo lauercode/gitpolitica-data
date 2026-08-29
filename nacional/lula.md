@@ -926,3 +926,6 @@
 - **[2026-08-28 20:55 UTC]** Lula mente com facilidade constrangedora e finge que nunca governou
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/rodrigo-constantino/lula-mente-com-facilidade-e-finge-que-nunca-governou/)_
 
+- **[2026-08-28 15:07 UTC]** Entrevista deixa Lula e PT em pânico
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/sem-rodeios/entrevista-deixa-lula-e-pt-em-panico/)_
+
