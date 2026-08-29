@@ -20,3 +20,6 @@
 - **[2026-08-27 13:29 UTC]** Traficante investigado por ligação com PCC e André do Rap é preso em Santos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/traficante-investigado-por-ligacao-com-pcc-e-andre-do-rap-e-preso-em-santos.shtml)_
 
+- **[2026-08-29 08:00 UTC]** Após desarquivar caso, polícia marca reconstituição da morte de indígena de recente contato em Manaus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/apos-desarquivar-caso-policia-marca-reconstituicao-da-morte-de-indigena-de-recente-contato-em-manaus.shtml)_
+
