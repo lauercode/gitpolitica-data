@@ -77,3 +77,6 @@
 - **[2026-08-29 18:35 UTC]** Com elenco em greve, Ponte Preta relaciona atletas da base para jogo na série B
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/com-elenco-em-greve-ponte-preta-relaciona-atletas-da-base-para-jogo-na-serie-b.shtml)_
 
+- **[2026-08-29 18:12 UTC]** Prejuízo dos Correios cai no 2º trimestre de 2026 e soma R$ 2,4 bilhões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/prejuizo-dos-correios-cai-no-2o-trimestre-de-2026-e-soma-r-24-bilhoes.shtml)_
+
