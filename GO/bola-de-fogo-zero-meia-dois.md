@@ -35,3 +35,6 @@
 - **[2026-08-29 14:15 UTC]** Eu, você, nós dois
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2026/08/eu-voce-nos-dois.shtml)_
 
+- **[2026-08-28 18:00 UTC]** Vorcaro nega corrupção de servidores do BC para informarem sobre liquidação do Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-nega-corrupcao-servidores-banco-central/)_
+
