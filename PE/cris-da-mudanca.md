@@ -26,3 +26,6 @@
 - **[2026-08-28 18:29 UTC]** Gilmar propõe mudança que pode ampliar concentração de poder no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-propoe-mudanca-no-stf-que-pode-ampliar-concentracao-de-poder-dos-ministros/)_
 
+- **[2026-08-29 18:15 UTC]** Breve história das reviravoltas no mês final da eleição para presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/breve-historia-das-reviravoltas-no-mes-final-da-eleicao-para-presidente.shtml)_
+
