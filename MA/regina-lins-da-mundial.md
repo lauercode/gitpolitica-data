@@ -26,3 +26,6 @@
 - **[2026-08-27 19:28 UTC]** Segundo lugar após primeira barreira, Alison atropela Warholm por recorde
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/segundo-lugar-apos-primeira-barreira-alison-atropela-warholm-por-recorde.shtml)_
 
+- **[2026-08-29 11:36 UTC]** O obscuro acordo dos Estados Unidos para garantir um quinto do petróleo da Venezuela
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/o-obscuro-acordo-dos-estados-unidos-para-garantir-um-quinto-do-petroleo-da-venezuela.shtml)_
+
