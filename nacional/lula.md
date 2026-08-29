@@ -917,3 +917,6 @@
 - **[2026-08-28 14:58 UTC]** Temor de retaliações do STF pesa no cálculo do Centrão sobre apoio a Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temor-de-retaliacoes-do-stf-pesa-no-calculo-do-centrao-sobre-apoio-a-flavio/)_
 
+- **[2026-08-28 11:17 UTC]** Moro chama Lula de “mentiroso” por críticas à Lava Jato e sai em defesa de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moro-chama-lula-de-mentiroso-por-criticas-a-lava-jato-e-sai-em-defesa-de-mendonca/)_
+
