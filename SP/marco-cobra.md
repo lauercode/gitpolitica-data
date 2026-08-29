@@ -14,3 +14,6 @@
 - **[2026-08-22 23:56 UTC]** Mais de 400 estatais e uma pergunta: o Brasil precisa delas?
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/mais-de-400-estatais-o-brasil-precisa-delas/)_
 
+- **[2026-08-29 16:43 UTC]** Após ação contra Discord, Justiça marca audiência entre plataforma e governo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/apos-acao-contra-discord-justica-marca-audiencia-entre-plataforma-e-governo/)_
+
