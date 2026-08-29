@@ -893,3 +893,6 @@
 - **[2026-08-29 03:51 UTC]** Supremo Tribunal Federal cobra explicações do governo sobre extradição de espião
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-cobra-explicacoes-do-governo-sobre-extradicao-de-espiao/)_
 
+- **[2026-08-29 01:43 UTC]** “Quem deve explicações é o Lula”, diz Flávio sobre relação com dono do Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-deve-explicacoes-e-o-lula-diz-flavio-sobre-caso-do-banco-master/)_
+
