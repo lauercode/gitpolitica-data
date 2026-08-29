@@ -890,3 +890,6 @@
 - **[2026-08-29 14:01 UTC]** Em quais pesquisas Flávio Bolsonaro está à frente de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/em-quais-pesquisas-flavio-bolsonaro-esta-a-frente-de-lula/)_
 
+- **[2026-08-29 03:51 UTC]** Supremo Tribunal Federal cobra explicações do governo sobre extradição de espião
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-cobra-explicacoes-do-governo-sobre-extradicao-de-espiao/)_
+
