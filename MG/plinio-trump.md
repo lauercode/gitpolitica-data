@@ -20,3 +20,6 @@
 - **[2026-08-29 11:36 UTC]** O obscuro acordo dos Estados Unidos para garantir um quinto do petróleo da Venezuela
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/o-obscuro-acordo-dos-estados-unidos-para-garantir-um-quinto-do-petroleo-da-venezuela.shtml)_
 
+- **[2026-08-29 10:43 UTC]** Chevron negocia expandir operações na Venezuela, uma possível vitória para Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/chevron-negocia-expandir-operacoes-na-venezuela-uma-possivel-vitoria-para-trump.shtml)_
+
