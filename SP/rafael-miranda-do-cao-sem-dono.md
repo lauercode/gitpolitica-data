@@ -20,3 +20,6 @@
 - **[2026-08-29 14:15 UTC]** Eu, você, nós dois
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2026/08/eu-voce-nos-dois.shtml)_
 
+- **[2026-08-29 01:43 UTC]** “Quem deve explicações é o Lula”, diz Flávio sobre relação com dono do Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-deve-explicacoes-e-o-lula-diz-flavio-sobre-caso-do-banco-master/)_
+
