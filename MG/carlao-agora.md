@@ -29,3 +29,6 @@
 - **[2026-08-27 21:43 UTC]** Projeto no entorno do Masp vira alvo de inquérito do MP após críticas de moradores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/projeto-no-entorno-do-masp-vira-alvo-de-inquerito-do-mp-apos-criticas-de-moradores.shtml)_
 
+- **[2026-08-28 13:44 UTC]** Mesmo com Desenrola 2.0, inadimplência bancária sobe e bate recorde em julho
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/28/mesmo-com-desenrola-20-inadimplencia-bancaria-sobe-e-bate-recorde-em-julho.ghtml)_
+
