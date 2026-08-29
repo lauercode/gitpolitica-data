@@ -902,3 +902,6 @@
 - **[2026-08-28 21:11 UTC]** Lula reclama de sabatina no Jornal Nacional e diz que se preparou para falar das ações do governo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-reclama-de-sabatina-no-jornal-nacional-e-diz-que-se-preparou-para-falar-das-acoes-do-governo/)_
 
+- **[2026-08-28 20:33 UTC]** Campanha do PT revida “Lulinha” com “carnificina” contra Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-do-pt-revida-lulinha-com-carnificina-contra-flavio/)_
+
