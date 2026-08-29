@@ -887,3 +887,6 @@
 - **[2026-08-29 14:52 UTC]** Lula tenta garantir “sobrevida” eleitoral em semana decisiva no Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-tenta-garantir-sobrevida-eleitoral-em-semana-decisiva-no-congresso/)_
 
+- **[2026-08-29 14:01 UTC]** Em quais pesquisas Flávio Bolsonaro está à frente de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/em-quais-pesquisas-flavio-bolsonaro-esta-a-frente-de-lula/)_
+
