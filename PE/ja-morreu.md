@@ -17,3 +17,6 @@
 - **[2026-08-27 12:00 UTC]** 'A perda de um filho nos deixa semimortos', diz autor do livro 'Elogio à Saudade'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/08/a-perda-de-um-filho-nos-deixa-semimortos-autor-homenageia-filha-em-elogio-a-saudade.shtml)_
 
+- **[2026-08-29 15:00 UTC]** Série quer ver lado sagrado de Belchior ao estudar sua juventude e maturidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/serie-quer-ver-lado-sagrado-de-belchior-ao-estudar-sua-juventude-e-maturidade.shtml)_
+
