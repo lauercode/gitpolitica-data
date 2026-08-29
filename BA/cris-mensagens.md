@@ -20,3 +20,6 @@
 - **[2026-08-27 20:52 UTC]** Governo Lula tenta resolver vazamentos de mensagens de Lulinha com Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-tenta-resolver-vazamentos-de-mensagens-de-lulinha-com-mendonca/)_
 
+- **[2026-08-29 19:42 UTC]** Mistérios e segredos de textos medievais revelados graças à IA
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss)_
+
