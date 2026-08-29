@@ -14,3 +14,6 @@
 - **[2026-08-28 00:29 UTC]** Vídeos: Tralli e Renata entrevistam Lula, candidato à reeleição pelo PT
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-lula-candidato-a-reeleicao-pelo-pt.ghtml)_
 
+- **[2026-08-29 00:48 UTC]** Vídeos: Tralli e Renata entrevistam Flávio Bolsonaro, candidato a presidente pelo PL
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-flavio-bolsonaro-candidato-a-presidente-pelo-pl.ghtml)_
+
