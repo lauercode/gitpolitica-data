@@ -122,3 +122,6 @@
 - **[2026-08-29 01:48 UTC]** Grupo de Amizade Brasil-Irã é lançado em SP em evento alinhado a Teerã e com apoio do PT
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/grupo-de-amizade-brasil-ira-e-lancado-em-sp-em-evento-alinhado-a-teera-e-com-apoio-do-pt/)_
 
+- **[2026-08-28 23:50 UTC]** STF manda Brasil devolver espião à Rússia e põe à prova discurso de soberania de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/extradicao-espiao-expoe-dilema-lula-entre-russia-eua/)_
+
