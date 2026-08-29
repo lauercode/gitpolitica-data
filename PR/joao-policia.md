@@ -26,3 +26,6 @@
 - **[2026-08-29 07:00 UTC]** Polícia de SP faz ação de coleta de DNA para localizar pessoas desaparecidas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/policia-de-sp-faz-acao-de-coleta-de-dna-para-localizar-pessoas-desaparecidas.shtml)_
 
+- **[2026-08-28 23:41 UTC]** Policial militar de folga é morto durante tentativa de roubo na marginal Tietê, em SP, diz corporação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/policial-militar-de-folga-e-morto-durante-tentativa-de-roubo-na-marginal-tiete-em-sp-diz-corporacao.shtml)_
+
