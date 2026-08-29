@@ -485,3 +485,6 @@
 - **[2026-08-28 20:33 UTC]** Campanha do PT revida “Lulinha” com “carnificina” contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-do-pt-revida-lulinha-com-carnificina-contra-flavio/)_
 
+- **[2026-08-28 18:59 UTC]** Oposição aponta que medo de punições do STF trava alianças do Centrão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-aponta-que-medo-de-punicoes-do-stf-trava-aliancas-do-centrao/)_
+
