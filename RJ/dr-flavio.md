@@ -479,3 +479,6 @@
 - **[2026-08-29 14:01 UTC]** Em quais pesquisas Flávio Bolsonaro está à frente de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/em-quais-pesquisas-flavio-bolsonaro-esta-a-frente-de-lula/)_
 
+- **[2026-08-29 01:43 UTC]** “Quem deve explicações é o Lula”, diz Flávio sobre relação com dono do Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-deve-explicacoes-e-o-lula-diz-flavio-sobre-caso-do-banco-master/)_
+
