@@ -473,3 +473,6 @@
 - **[2026-08-29 14:22 UTC]** Lula diz que enfrenta poderosos, e Flávio Bolsonaro busca voto feminino em primeiro programa na TV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-enfrenta-poderosos-e-flavio-bolsonaro-busca-voto-feminino-em-primeiro-programa-na-tv.shtml)_
 
+- **[2026-08-28 23:52 UTC]** Flávio diz que não é preciso mexer em aposentadorias ou no salário mínimo para fazer ajuste fiscal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/flavio-diz-que-nao-e-preciso-mexer-em-aposentadorias-ou-no-salario-minimo-para-fazer-ajuste-fiscal.shtml)_
+
