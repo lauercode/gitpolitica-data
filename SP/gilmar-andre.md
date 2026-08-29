@@ -20,3 +20,6 @@
 - **[2026-08-27 20:43 UTC]** Produtora de 'Dark Horse' pede a Mendonça que suspenda investigação em SP e leve caso ao STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/produtora-de-dark-horse-pede-a-mendonca-que-suspenda-investigacao-em-sp-e-leve-caso-ao-stf.shtml)_
 
+- **[2026-08-28 20:08 UTC]** Mendonça dá 24 horas para X explicar filtro que limita recomendação de candidatos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-da-24-horas-para-x-explicar-filtro-que-limita-recomendacao-de-candidatos/)_
+
