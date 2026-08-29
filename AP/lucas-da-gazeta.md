@@ -155,3 +155,6 @@
 - **[2026-08-28 11:34 UTC]** Senado faz movimento atípico e se reúne nesta sexta para analisar propostas do governo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senado-sessoes-atipicas-para-analisar-propostas-governo/)_
 
+- **[2026-08-28 11:17 UTC]** Moro chama Lula de “mentiroso” por críticas à Lava Jato e sai em defesa de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moro-chama-lula-de-mentiroso-por-criticas-a-lava-jato-e-sai-em-defesa-de-mendonca/)_
+
