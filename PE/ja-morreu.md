@@ -20,3 +20,6 @@
 - **[2026-08-29 15:00 UTC]** Série quer ver lado sagrado de Belchior ao estudar sua juventude e maturidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/serie-quer-ver-lado-sagrado-de-belchior-ao-estudar-sua-juventude-e-maturidade.shtml)_
 
+- **[2026-08-29 10:28 UTC]** Morre Rubén Rada, cantor uruguaio que misturou o candombe, o rock e o jazz
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/morre-ruben-rada-cantor-uruguaio-que-misturou-o-candombe-o-rock-e-o-jazz.shtml)_
+
