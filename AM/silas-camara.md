@@ -143,3 +143,6 @@
 - **[2026-08-28 22:39 UTC]** g1 passa a publicar reportagens automáticas com dados dos candidatos das Eleições 2026
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/g1-passa-a-publicar-reportagens-automaticas-com-dados-dos-candidatos-das-eleicoes-2026.ghtml)_
 
+- **[2026-08-29 16:19 UTC]** Motta atende a Lula e adianta votação do fim da “taxa das blusinhas” logo após comissão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/motta-atende-lula-adianta-votacao-fim-taxa-das-blusinhas/)_
+
