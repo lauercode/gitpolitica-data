@@ -86,3 +86,6 @@
 - **[2026-08-29 08:00 UTC]** A pulseirinha é como ter a minha mãe constantemente com o dedo no pulso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/08/a-pulseirinha-e-como-ter-a-minha-mae-constantemente-com-o-dedo-no-pulso.shtml)_
 
+- **[2026-08-29 09:37 UTC]** Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y4klql8k9o?at_medium=RSS&at_campaign=rss)_
+
