@@ -158,3 +158,6 @@
 - **[2026-08-29 02:51 UTC]** Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgy4rpz5rzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-28 17:55 UTC]** Eleição 2026: quais são as propostas dos candidatos a presidente?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss)_
+
