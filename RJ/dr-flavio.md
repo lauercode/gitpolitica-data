@@ -482,3 +482,6 @@
 - **[2026-08-29 01:43 UTC]** “Quem deve explicações é o Lula”, diz Flávio sobre relação com dono do Banco Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-deve-explicacoes-e-o-lula-diz-flavio-sobre-caso-do-banco-master/)_
 
+- **[2026-08-28 20:33 UTC]** Campanha do PT revida “Lulinha” com “carnificina” contra Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-do-pt-revida-lulinha-com-carnificina-contra-flavio/)_
+
