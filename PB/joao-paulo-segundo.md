@@ -71,3 +71,6 @@
 - **[2026-08-29 06:00 UTC]** Alta do petróleo impulsiona venda de carros elétricos no mundo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/alta-do-petroleo-impulsiona-venda-de-carros-eletricos-no-mundo.shtml)_
 
+- **[2026-08-28 23:13 UTC]** Justiça proíbe Cinemateca de cobrar custos do depósito legal de obras feitas até 2025
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/justica-proibe-cinemateca-de-cobrar-custos-do-deposito-legal-de-obras-feitas-ate-2025.shtml)_
+
