@@ -68,3 +68,6 @@
 - **[2026-08-29 10:00 UTC]** Confederação diz que fim da escala 6x1 vai aumentar custos até das empresas que já reduziram jornada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/confederacao-diz-que-fim-da-escala-6x1-vai-aumentar-custos-ate-das-empresas-que-ja-reduziram-jornada.shtml)_
 
+- **[2026-08-29 06:00 UTC]** Alta do petróleo impulsiona venda de carros elétricos no mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/alta-do-petroleo-impulsiona-venda-de-carros-eletricos-no-mundo.shtml)_
+
