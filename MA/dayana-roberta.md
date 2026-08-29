@@ -20,3 +20,6 @@
 - **[2026-08-21 20:54 UTC]** Mensagem atribuída a Roberta diz que ela tinha “sociedade” com Lulinha
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/mensagem-atribuida-a-roberta-diz-que-ela-tinha-sociedade-com-lulinha/)_
 
+- **[2026-08-28 15:29 UTC]** Campanha de Lula nega relação com lobista amiga de Lulinha mesmo após fotos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-nega-relacao-lobista-amiga-lulinha-mesmo-apos-fotos/)_
+
