@@ -20,3 +20,6 @@
 - **[2026-08-29 12:00 UTC]** Três Poderes: Renan Santos é o vencedor da semana; lobista, a perdedora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/tres-poderes-renan-santos-e-o-vencedor-da-semana-lobista-a-perdedora.shtml)_
 
+- **[2026-08-29 10:34 UTC]** O que Augusto Cury diz sobre ser de esquerda ou de direita
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
+
