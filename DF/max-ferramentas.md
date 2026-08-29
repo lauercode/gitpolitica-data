@@ -8,3 +8,6 @@
 - **[2026-08-27 08:00 UTC]** Os influenciadores digitais que não existem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/os-influenciadores-digitais-que-nao-existem.shtml)_
 
+- **[2026-08-29 15:54 UTC]** OpenAI vai interromper fornecimento de modelos de IA para Cursor, da SpaceX, intensificando disputa com Musk
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/openai-vai-interromper-fornecimento-de-modelos-de-ia-para-cursor-da-spacex-intensificando-disputa-com-musk.shtml)_
+
