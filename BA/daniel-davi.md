@@ -14,3 +14,6 @@
 - **[2026-08-13 16:59 UTC]** Lula reata diálogo com presidente do Senado para destravar pautas
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lula-reata-dialogo-com-presidente-do-senado-para-destravar-pautas/)_
 
+- **[2026-08-29 17:30 UTC]** Lula “crava” aprovação do fim da escala 6×1 após acordo com Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-crava-aprovacao-do-fim-da-escala-6x1-apos-acordo-com-alcolumbre/)_
+
