@@ -26,3 +26,6 @@
 - **[2026-08-29 13:00 UTC]** Abel Ferreira, como é habitual, foi agressivo e soberbo em entrevista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2026/08/abel-ferreira-como-e-habitual-foi-agressivo-e-soberbo-em-entrevista.shtml)_
 
+- **[2026-08-29 13:00 UTC]** Contrabando e pirataria causam perda de quase R$ 500 bilhões em 2025, indica levantamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/contrabando-e-pirataria-causam-perda-de-quase-r-500-bilhoes-em-2025-indica-levantamento.shtml)_
+
