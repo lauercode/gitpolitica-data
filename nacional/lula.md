@@ -905,3 +905,6 @@
 - **[2026-08-28 20:33 UTC]** Campanha do PT revida “Lulinha” com “carnificina” contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-do-pt-revida-lulinha-com-carnificina-contra-flavio/)_
 
+- **[2026-08-28 19:00 UTC]** Aécio confirma candidatura ao Senado por Minas Gerais e nega apoio a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aecio-confirma-candidatura-ao-senado-por-minas-gerais-e-nega-apoio-a-lula/)_
+
