@@ -23,3 +23,6 @@
 - **[2026-08-29 08:00 UTC]** Após desarquivar caso, polícia marca reconstituição da morte de indígena de recente contato em Manaus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/apos-desarquivar-caso-policia-marca-reconstituicao-da-morte-de-indigena-de-recente-contato-em-manaus.shtml)_
 
+- **[2026-08-29 07:00 UTC]** Polícia de SP faz ação de coleta de DNA para localizar pessoas desaparecidas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/policia-de-sp-faz-acao-de-coleta-de-dna-para-localizar-pessoas-desaparecidas.shtml)_
+
