@@ -158,3 +158,6 @@
 - **[2026-08-28 11:17 UTC]** Moro chama Lula de “mentiroso” por críticas à Lava Jato e sai em defesa de Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moro-chama-lula-de-mentiroso-por-criticas-a-lava-jato-e-sai-em-defesa-de-mendonca/)_
 
+- **[2026-08-28 10:17 UTC]** Qual o plano de Flávio Bolsonaro para o Nordeste do Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/qual-o-plano-de-flavio-bolsonaro-para-o-nordeste-do-brasil/)_
+
