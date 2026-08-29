@@ -131,3 +131,6 @@
 - **[2026-08-28 18:00 UTC]** Vorcaro nega corrupção de servidores do BC para informarem sobre liquidação do Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-nega-corrupcao-servidores-banco-central/)_
 
+- **[2026-08-28 17:49 UTC]** PT abre propaganda de Lula na TV com ataque a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-abre-propaganda-de-lula-na-tv-com-ataque-a-flavio-bolsonaro/)_
+
