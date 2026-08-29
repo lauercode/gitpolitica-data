@@ -908,3 +908,6 @@
 - **[2026-08-28 19:00 UTC]** Aécio confirma candidatura ao Senado por Minas Gerais e nega apoio a Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aecio-confirma-candidatura-ao-senado-por-minas-gerais-e-nega-apoio-a-lula/)_
 
+- **[2026-08-28 17:49 UTC]** PT abre propaganda de Lula na TV com ataque a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-abre-propaganda-de-lula-na-tv-com-ataque-a-flavio-bolsonaro/)_
+
