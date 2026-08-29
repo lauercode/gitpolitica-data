@@ -929,3 +929,6 @@
 - **[2026-08-28 15:07 UTC]** Entrevista deixa Lula e PT em pânico
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/sem-rodeios/entrevista-deixa-lula-e-pt-em-panico/)_
 
+- **[2026-08-29 10:34 UTC]** O que Augusto Cury diz sobre ser de esquerda ou de direita
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
+
