@@ -122,3 +122,6 @@
 - **[2026-08-29 00:48 UTC]** Vídeos: Tralli e Renata entrevistam Flávio Bolsonaro, candidato a presidente pelo PL
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-flavio-bolsonaro-candidato-a-presidente-pelo-pl.ghtml)_
 
+- **[2026-08-28 22:39 UTC]** g1 passa a publicar reportagens automáticas com dados dos candidatos das Eleições 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/g1-passa-a-publicar-reportagens-automaticas-com-dados-dos-candidatos-das-eleicoes-2026.ghtml)_
+
