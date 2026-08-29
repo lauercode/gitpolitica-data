@@ -47,3 +47,6 @@
 - **[2026-08-27 21:09 UTC]** Fim da escala 6x1 no Senado: quem tentar adiar votação 'vai ficar muito mal com a população', diz relator na CCJ
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c804l54z3p0o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-28 22:39 UTC]** g1 passa a publicar reportagens automáticas com dados dos candidatos das Eleições 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/g1-passa-a-publicar-reportagens-automaticas-com-dados-dos-candidatos-das-eleicoes-2026.ghtml)_
+
