@@ -14,3 +14,6 @@
 - **[2026-08-29 10:00 UTC]** Setembro pode vir com surpresas no amor; veja as previsões da numerologia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/08/setembro-pode-vir-com-surpresas-no-amor-veja-as-previsoes-da-numerologia.shtml)_
 
+- **[2026-08-29 08:00 UTC]** É um sonho que tenho vivido, diz Amaury Lorenzo sobre papel em 'Por Você'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/e-um-sonho-que-tenho-vivido-diz-amaury-lorenzo-sobre-papel-em-por-voce.shtml)_
+
