@@ -914,3 +914,6 @@
 - **[2026-08-28 15:29 UTC]** Campanha de Lula nega relação com lobista amiga de Lulinha mesmo após fotos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-nega-relacao-lobista-amiga-lulinha-mesmo-apos-fotos/)_
 
+- **[2026-08-28 14:58 UTC]** Temor de retaliações do STF pesa no cálculo do Centrão sobre apoio a Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temor-de-retaliacoes-do-stf-pesa-no-calculo-do-centrao-sobre-apoio-a-flavio/)_
+
