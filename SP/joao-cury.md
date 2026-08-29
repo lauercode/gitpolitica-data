@@ -98,3 +98,6 @@
 - **[2026-08-29 15:10 UTC]** Com maior patrimônio entre presidenciáveis, Cury defende criar 10 mil 'clubes de empreendedorismo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/com-maior-patrimonio-entre-presidenciaveis-cury-defende-criar-10-mil-clubes-de-empreendedorismo.shtml)_
 
+- **[2026-08-28 13:11 UTC]** Augusto Cury dispara nas redes como “agente da despolarização”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-dispara-nas-redes-como-agente-da-despolarizacao/)_
+
