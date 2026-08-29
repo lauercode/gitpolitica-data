@@ -488,3 +488,6 @@
 - **[2026-08-28 18:59 UTC]** Oposição aponta que medo de punições do STF trava alianças do Centrão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-aponta-que-medo-de-punicoes-do-stf-trava-aliancas-do-centrao/)_
 
+- **[2026-08-28 17:49 UTC]** PT abre propaganda de Lula na TV com ataque a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-abre-propaganda-de-lula-na-tv-com-ataque-a-flavio-bolsonaro/)_
+
