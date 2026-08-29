@@ -68,3 +68,6 @@
 - **[2026-08-29 18:53 UTC]** Governo acelera votações de apelo popular para fortalecer Lula nas eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-acelera-votacoes-de-apelo-popular-para-fortalecer-lula-nas-eleicoes/)_
 
+- **[2026-08-29 17:30 UTC]** Lula “crava” aprovação do fim da escala 6×1 após acordo com Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-crava-aprovacao-do-fim-da-escala-6x1-apos-acordo-com-alcolumbre/)_
+
