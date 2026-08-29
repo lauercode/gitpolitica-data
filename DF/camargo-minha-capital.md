@@ -17,3 +17,6 @@
 - **[2026-08-27 18:37 UTC]** Onda de calor pode fazer temperatura chegar a 36°C na cidade de São Paulo nos próximos dias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/onda-de-calor-pode-fazer-temperatura-chegar-a-36c-na-cidade-de-sao-paulo-nos-proximos-dias.shtml)_
 
+- **[2026-08-29 13:11 UTC]** Katy Perry diz que Justin Trudeau está 'em outro nível' em comparação a ex-namorados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/katy-perry-diz-que-justin-trudeau-esta-em-outro-nivel-em-comparacao-a-ex-namorados.shtml)_
+
