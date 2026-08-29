@@ -38,3 +38,6 @@
 - **[2026-08-29 08:00 UTC]** Indígenas buscam ampliar para Amazônia direitos da natureza que são lei no Equador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/08/indigenas-buscam-ampliar-para-amazonia-direitos-da-natureza-que-sao-lei-no-equador.shtml)_
 
+- **[2026-08-29 08:00 UTC]** Após desarquivar caso, polícia marca reconstituição da morte de indígena de recente contato em Manaus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/apos-desarquivar-caso-policia-marca-reconstituicao-da-morte-de-indigena-de-recente-contato-em-manaus.shtml)_
+
