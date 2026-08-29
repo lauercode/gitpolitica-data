@@ -62,3 +62,6 @@
 - **[2026-08-29 12:00 UTC]** Salada embalada é segura? Entenda como alimento pode ser contaminado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/salada-embalada-e-segura-entenda-como-alimento-pode-ser-contaminado.shtml)_
 
+- **[2026-08-28 13:11 UTC]** Augusto Cury dispara nas redes como “agente da despolarização”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-dispara-nas-redes-como-agente-da-despolarizacao/)_
+
