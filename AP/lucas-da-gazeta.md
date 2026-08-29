@@ -128,3 +128,6 @@
 - **[2026-08-28 18:29 UTC]** Gilmar propõe mudança que pode ampliar concentração de poder no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-propoe-mudanca-no-stf-que-pode-ampliar-concentracao-de-poder-dos-ministros/)_
 
+- **[2026-08-28 18:00 UTC]** Vorcaro nega corrupção de servidores do BC para informarem sobre liquidação do Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-nega-corrupcao-servidores-banco-central/)_
+
