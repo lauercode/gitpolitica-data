@@ -164,3 +164,6 @@
 - **[2026-08-29 18:30 UTC]** Lula convida empresários e banqueiros para jantar no Alvorada, e campanha busca aproximação com PIB
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/lula-convida-empresarios-e-banqueiros-para-jantar-no-alvorada-e-campanha-busca-aproximacao-com-pib.shtml)_
 
+- **[2026-08-29 18:15 UTC]** Breve história das reviravoltas no mês final da eleição para presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/breve-historia-das-reviravoltas-no-mes-final-da-eleicao-para-presidente.shtml)_
+
