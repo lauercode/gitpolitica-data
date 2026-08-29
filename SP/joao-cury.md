@@ -95,3 +95,6 @@
 - **[2026-08-27 16:00 UTC]** Augusto Cury doa R$ 150 mil para própria campanha, o triplo do que foi pago pelo partido
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/augusto-cury-doa-r-150-mil-para-propria-campanha-o-triplo-do-que-foi-pago-pelo-partido.shtml)_
 
+- **[2026-08-29 15:10 UTC]** Com maior patrimônio entre presidenciáveis, Cury defende criar 10 mil 'clubes de empreendedorismo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/com-maior-patrimonio-entre-presidenciaveis-cury-defende-criar-10-mil-clubes-de-empreendedorismo.shtml)_
+
