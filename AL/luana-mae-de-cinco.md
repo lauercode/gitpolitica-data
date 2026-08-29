@@ -26,3 +26,6 @@
 - **[2026-08-29 11:37 UTC]** Nônuplos que entraram para o Guinness Book chegam à fase escolar; veja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/nonuplos-que-entraram-para-o-guinness-book-chegam-a-fase-escolar-veja.shtml)_
 
+- **[2026-08-29 06:00 UTC]** Veja cinco capacidades preocupantes da IA expostas no ataque de agentes da OpenAI
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/veja-cinco-capacidades-preocupantes-da-ia-expostas-no-ataque-de-agentes-da-openai.shtml)_
+
