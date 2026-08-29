@@ -911,3 +911,6 @@
 - **[2026-08-28 17:49 UTC]** PT abre propaganda de Lula na TV com ataque a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-abre-propaganda-de-lula-na-tv-com-ataque-a-flavio-bolsonaro/)_
 
+- **[2026-08-28 15:29 UTC]** Campanha de Lula nega relação com lobista amiga de Lulinha mesmo após fotos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-nega-relacao-lobista-amiga-lulinha-mesmo-apos-fotos/)_
+
