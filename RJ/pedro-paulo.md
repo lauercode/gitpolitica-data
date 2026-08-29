@@ -296,3 +296,6 @@
 - **[2026-08-29 16:00 UTC]** Justiça de SP nega recurso do governo e mantém agências em contrato de comunicação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/justica-de-sp-nega-recurso-do-governo-e-mantem-agencias-em-contrato-de-comunicacao.shtml)_
 
+- **[2026-08-29 15:00 UTC]** Agentes de saúde e carro do ovo ajudam a buscar vítimas de violência doméstica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/agentes-de-saude-e-carro-do-ovo-ajudam-a-buscar-vitimas-de-violencia-domestica.shtml)_
+
