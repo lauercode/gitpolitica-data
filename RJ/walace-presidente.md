@@ -131,3 +131,6 @@
 - **[2026-08-29 15:00 UTC]** Lula cogita editar MP criando Ministério da Segurança para dar sinalização ao eleitorado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/lula-cogita-editar-mp-criando-ministerio-da-seguranca-para-dar-sinalizacao-ao-eleitorado.shtml)_
 
+- **[2026-08-29 14:22 UTC]** Lula diz que enfrenta poderosos, e Flávio Bolsonaro busca voto feminino em primeiro programa na TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-enfrenta-poderosos-e-flavio-bolsonaro-busca-voto-feminino-em-primeiro-programa-na-tv.shtml)_
+
