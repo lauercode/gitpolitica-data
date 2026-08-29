@@ -89,3 +89,6 @@
 - **[2026-08-24 23:46 UTC]** Aumento de penas não é suficiente contra o crime organizado, diz Moraes
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/aumento-de-penas-nao-e-suficiente-contra-o-crime-organizado-diz-moraes/)_
 
+- **[2026-08-29 20:05 UTC]** Não é só Lula: lobista amiga de Lulinha tem fotos com outras autoridades e ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fotos-roberta-luchsinger-autoridades-ministros-stf/)_
+
