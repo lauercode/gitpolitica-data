@@ -491,3 +491,6 @@
 - **[2026-08-28 17:49 UTC]** PT abre propaganda de Lula na TV com ataque a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-abre-propaganda-de-lula-na-tv-com-ataque-a-flavio-bolsonaro/)_
 
+- **[2026-08-28 14:58 UTC]** Temor de retaliações do STF pesa no cálculo do Centrão sobre apoio a Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temor-de-retaliacoes-do-stf-pesa-no-calculo-do-centrao-sobre-apoio-a-flavio/)_
+
