@@ -29,3 +29,6 @@
 - **[2026-08-29 11:36 UTC]** O obscuro acordo dos Estados Unidos para garantir um quinto do petróleo da Venezuela
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/o-obscuro-acordo-dos-estados-unidos-para-garantir-um-quinto-do-petroleo-da-venezuela.shtml)_
 
+- **[2026-08-29 10:36 UTC]** Isaquias Queiroz conquista o ouro no C1 500m no Mundial de Canoagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/isaquias-queiroz-conquista-o-ouro-no-c1-500m-no-mundial-de-canoagem.shtml)_
+
