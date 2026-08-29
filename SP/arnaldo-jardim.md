@@ -20,3 +20,6 @@
 - **[2026-08-24 15:41 UTC]** Bom Jardim da Serra (SC) registra -9,1°C, terceira menor mínima do ano no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/bom-jardim-da-serra-sc-registra-91c-terceira-menor-minima-do-ano-no-brasil.shtml)_
 
+- **[2026-08-29 02:19 UTC]** 'Tanta história, tanto champanhe tomado', diz Luana Piovani ao comemorar 50 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/tanta-historia-tanto-champanhe-tomado-diz-luana-piovani-ao-comemorar-50-anos.shtml)_
+
