@@ -134,3 +134,6 @@
 - **[2026-08-29 14:22 UTC]** Lula diz que enfrenta poderosos, e Flávio Bolsonaro busca voto feminino em primeiro programa na TV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-enfrenta-poderosos-e-flavio-bolsonaro-busca-voto-feminino-em-primeiro-programa-na-tv.shtml)_
 
+- **[2026-08-29 14:09 UTC]** Ex-presidente perdoado por Trump expõe contradição dos EUA na América Latina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/08/ex-presidente-perdoado-por-trump-expoe-contradicao-dos-eua-na-america-latina.shtml)_
+
