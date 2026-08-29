@@ -38,3 +38,6 @@
 - **[2026-08-29 15:10 UTC]** Com maior patrimônio entre presidenciáveis, Cury defende criar 10 mil 'clubes de empreendedorismo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/com-maior-patrimonio-entre-presidenciaveis-cury-defende-criar-10-mil-clubes-de-empreendedorismo.shtml)_
 
+- **[2026-08-29 19:42 UTC]** Mistérios e segredos de textos medievais revelados graças à IA
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss)_
+
