@@ -11,3 +11,6 @@
 - **[2026-08-29 18:30 UTC]** Lula convida empresários e banqueiros para jantar no Alvorada, e campanha busca aproximação com PIB
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/lula-convida-empresarios-e-banqueiros-para-jantar-no-alvorada-e-campanha-busca-aproximacao-com-pib.shtml)_
 
+- **[2026-08-29 17:55 UTC]** Soldados atacam aeroporto em tentativa de golpe no Níger, diz governo militar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/soldados-atacam-aeroporto-em-tentativa-de-golpe-no-niger-diz-governo-militar.shtml)_
+
