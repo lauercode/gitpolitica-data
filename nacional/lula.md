@@ -923,3 +923,6 @@
 - **[2026-08-28 02:53 UTC]** Lula diz que não conhece Roberta Luchsinger, mas fotos mostram os dois juntos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-diz-que-nao-conhece-roberta-luchsinger-mas-fotos-mostram-os-dois-juntos/)_
 
+- **[2026-08-28 20:55 UTC]** Lula mente com facilidade constrangedora e finge que nunca governou
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/rodrigo-constantino/lula-mente-com-facilidade-e-finge-que-nunca-governou/)_
+
