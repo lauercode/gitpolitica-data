@@ -152,3 +152,6 @@
 - **[2026-08-28 12:17 UTC]** Juíza mantém vídeo de Janones como “lagartixa” e cita Flávio Bolsonaro para definir limite da sátira
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiza-mante-video-de-janones-como-lagartixa-e-cita-flavio-bolsonaro-para-definir-limite-de-satira/)_
 
+- **[2026-08-28 11:34 UTC]** Senado faz movimento atípico e se reúne nesta sexta para analisar propostas do governo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senado-sessoes-atipicas-para-analisar-propostas-governo/)_
+
