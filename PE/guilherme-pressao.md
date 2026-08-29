@@ -17,3 +17,6 @@
 - **[2026-08-27 22:10 UTC]** Caso Lulinha põe campanha de Lula sob pressão: o que PF investiga sobre filho do presidente e ex-chefe de gabinete
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1w1ypwxz98o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-28 14:58 UTC]** Temor de retaliações do STF pesa no cálculo do Centrão sobre apoio a Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temor-de-retaliacoes-do-stf-pesa-no-calculo-do-centrao-sobre-apoio-a-flavio/)_
+
