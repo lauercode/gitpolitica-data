@@ -83,3 +83,6 @@
 - **[2026-08-27 07:00 UTC]** Dia do Psicólogo: o que cada signo costuma levar para a terapia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/08/dia-do-psicologo-o-que-cada-signo-costuma-levar-para-a-terapia.shtml)_
 
+- **[2026-08-29 08:00 UTC]** A pulseirinha é como ter a minha mãe constantemente com o dedo no pulso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/08/a-pulseirinha-e-como-ter-a-minha-mae-constantemente-com-o-dedo-no-pulso.shtml)_
+
