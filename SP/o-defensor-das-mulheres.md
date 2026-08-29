@@ -20,3 +20,6 @@
 - **[2026-08-24 17:02 UTC]** Projeto amplia punição para ataques digitais contra mulheres na política
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299474-projeto-amplia-punicao-para-ataques-digitais-contra-mulheres-na-politica)_
 
+- **[2026-08-29 13:00 UTC]** Livro perturbador narra a 'banalidade do mal' em naufrágio de imigrantes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/livro-perturbador-narra-a-banalidade-do-mal-em-naufragio-de-imigrantes.shtml)_
+
