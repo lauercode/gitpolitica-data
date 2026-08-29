@@ -149,3 +149,6 @@
 - **[2026-08-28 13:16 UTC]** TRF4 pune ex-juiz da Lava Jato com perda do cargo por furto de champanhe
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/trf4-pune-ex-juiz-da-lava-jato-com-perda-do-cargo-por-furto-de-champanhe/)_
 
+- **[2026-08-28 12:17 UTC]** Juíza mantém vídeo de Janones como “lagartixa” e cita Flávio Bolsonaro para definir limite da sátira
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiza-mante-video-de-janones-como-lagartixa-e-cita-flavio-bolsonaro-para-definir-limite-de-satira/)_
+
