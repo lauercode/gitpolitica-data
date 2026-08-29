@@ -35,3 +35,6 @@
 - **[2026-08-28 10:00 UTC]** Quase 60% dos eleitores dizem estar indecisos sobre candidato ao governo do Acre, diz pesquisa
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/28/quaest-ac-indecisos-governo-27-agosto.ghtml)_
 
+- **[2026-08-29 11:00 UTC]** Homem que ajudou Vorcaro a escolher mulheres para festas lamentou derrocada do Master e pediu trabalho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/homem-que-ajudou-vorcaro-a-escolher-mulheres-para-festa-lamentou-derrocada-do-master-e-pediu-trabalho.shtml)_
+
