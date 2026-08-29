@@ -134,3 +134,6 @@
 - **[2026-08-28 17:49 UTC]** PT abre propaganda de Lula na TV com ataque a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-abre-propaganda-de-lula-na-tv-com-ataque-a-flavio-bolsonaro/)_
 
+- **[2026-08-28 16:53 UTC]** Em meio a atrito com Mendonça, Andrei fala em defender PF “de qualquer ataque”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/em-meio-a-atrito-com-mendonca-andrei-fala-em-defender-pf-de-qualquer-ataque-nao-importa-de-onde-venha/)_
+
