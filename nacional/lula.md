@@ -884,3 +884,6 @@
 - **[2026-08-29 15:37 UTC]** Lula convoca empresários do “PIB” para discutir investimentos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-convoca-empresarios-do-pib-para-discutir-investimentos/)_
 
+- **[2026-08-29 14:52 UTC]** Lula tenta garantir “sobrevida” eleitoral em semana decisiva no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-tenta-garantir-sobrevida-eleitoral-em-semana-decisiva-no-congresso/)_
+
