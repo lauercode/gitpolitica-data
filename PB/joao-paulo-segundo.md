@@ -59,3 +59,6 @@
 - **[2026-08-29 14:00 UTC]** 'Construção civil é um dos segmentos mais blindados ao cenário eleitoral', diz co-CEO da MRV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/construcao-civil-e-um-dos-segmentos-mais-blindados-ao-cenario-eleitoral-diz-co-ceo-da-mrv.shtml)_
 
+- **[2026-08-29 11:36 UTC]** O obscuro acordo dos Estados Unidos para garantir um quinto do petróleo da Venezuela
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/o-obscuro-acordo-dos-estados-unidos-para-garantir-um-quinto-do-petroleo-da-venezuela.shtml)_
+
