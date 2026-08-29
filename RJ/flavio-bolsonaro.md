@@ -365,3 +365,6 @@
 - **[2026-08-29 14:29 UTC]** Previsíveis, Lula e Flávio correm atrás do eleitor-pêndulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/previsiveis-lula-e-flavio-correm-atras-do-eleitor-pendulo.shtml)_
 
+- **[2026-08-29 14:22 UTC]** Lula diz que enfrenta poderosos, e Flávio Bolsonaro busca voto feminino em primeiro programa na TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-enfrenta-poderosos-e-flavio-bolsonaro-busca-voto-feminino-em-primeiro-programa-na-tv.shtml)_
+
