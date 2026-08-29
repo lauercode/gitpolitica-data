@@ -38,3 +38,6 @@
 - **[2026-08-27 20:46 UTC]** Cuba registra novo apagão, e 4 de 5 províncias no leste do país ficam no escuro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/cuba-registra-novo-apagao-e-4-de-5-provincias-no-leste-do-pais-ficam-no-escuro.shtml)_
 
+- **[2026-08-29 06:00 UTC]** Alta do petróleo impulsiona venda de carros elétricos no mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/alta-do-petroleo-impulsiona-venda-de-carros-eletricos-no-mundo.shtml)_
+
