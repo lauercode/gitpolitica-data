@@ -14,3 +14,6 @@
 - **[2026-08-29 11:00 UTC]** Uso de IA pode causar déficit permanente nas habilidades de crianças, diz pesquisador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/uso-de-ia-pode-causar-deficit-permanente-nas-habilidades-de-criancas-diz-pesquisador.shtml)_
 
+- **[2026-08-29 07:00 UTC]** Com IA, livros escritos por humanos podem se tornar 'produtos premium'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/com-ia-livros-escritos-por-humanos-podem-se-tornar-produtos-premium.shtml)_
+
