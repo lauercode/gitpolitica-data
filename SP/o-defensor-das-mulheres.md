@@ -23,3 +23,6 @@
 - **[2026-08-29 13:00 UTC]** Livro perturbador narra a 'banalidade do mal' em naufrágio de imigrantes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/livro-perturbador-narra-a-banalidade-do-mal-em-naufragio-de-imigrantes.shtml)_
 
+- **[2026-08-29 11:00 UTC]** Homem que ajudou Vorcaro a escolher mulheres para festas lamentou derrocada do Master e pediu trabalho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/homem-que-ajudou-vorcaro-a-escolher-mulheres-para-festa-lamentou-derrocada-do-master-e-pediu-trabalho.shtml)_
+
