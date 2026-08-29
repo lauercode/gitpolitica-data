@@ -29,3 +29,6 @@
 - **[2026-08-28 14:29 UTC]** EUA notificam Brasil sobre incidente envolvendo helicóptero de Trump
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eua-notificam-brasil-incidente-envolvendo-helicoptero-trump/)_
 
+- **[2026-08-29 02:51 UTC]** Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgy4rpz5rzo?at_medium=RSS&at_campaign=rss)_
+
