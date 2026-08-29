@@ -23,3 +23,6 @@
 - **[2026-08-27 18:03 UTC]** Por que a Uefa se prepara para processar criminalmente presidente da Fifa, Gianni Infantino
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8r6llnz7e2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-29 13:00 UTC]** Abel Ferreira, como é habitual, foi agressivo e soberbo em entrevista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2026/08/abel-ferreira-como-e-habitual-foi-agressivo-e-soberbo-em-entrevista.shtml)_
+
