@@ -371,3 +371,6 @@
 - **[2026-08-28 23:52 UTC]** Flávio diz que não é preciso mexer em aposentadorias ou no salário mínimo para fazer ajuste fiscal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/flavio-diz-que-nao-e-preciso-mexer-em-aposentadorias-ou-no-salario-minimo-para-fazer-ajuste-fiscal.shtml)_
 
+- **[2026-08-29 14:01 UTC]** Em quais pesquisas Flávio Bolsonaro está à frente de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/em-quais-pesquisas-flavio-bolsonaro-esta-a-frente-de-lula/)_
+
