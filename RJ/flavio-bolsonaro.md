@@ -386,3 +386,6 @@
 - **[2026-08-28 10:17 UTC]** Qual o plano de Flávio Bolsonaro para o Nordeste do Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/qual-o-plano-de-flavio-bolsonaro-para-o-nordeste-do-brasil/)_
 
+- **[2026-08-29 02:17 UTC]** Flávio Bolsonaro na Globo: o que disse o candidato à Presidência na entrevista à emissora
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg5973jpn21o?at_medium=RSS&at_campaign=rss)_
+
