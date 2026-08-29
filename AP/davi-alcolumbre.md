@@ -65,3 +65,6 @@
 - **[2026-08-29 10:00 UTC]** Confederação diz que fim da escala 6x1 vai aumentar custos até das empresas que já reduziram jornada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/confederacao-diz-que-fim-da-escala-6x1-vai-aumentar-custos-ate-das-empresas-que-ja-reduziram-jornada.shtml)_
 
+- **[2026-08-29 18:53 UTC]** Governo acelera votações de apelo popular para fortalecer Lula nas eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-acelera-votacoes-de-apelo-popular-para-fortalecer-lula-nas-eleicoes/)_
+
