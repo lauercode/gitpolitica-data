@@ -920,3 +920,6 @@
 - **[2026-08-28 11:17 UTC]** Moro chama Lula de “mentiroso” por críticas à Lava Jato e sai em defesa de Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moro-chama-lula-de-mentiroso-por-criticas-a-lava-jato-e-sai-em-defesa-de-mendonca/)_
 
+- **[2026-08-28 02:53 UTC]** Lula diz que não conhece Roberta Luchsinger, mas fotos mostram os dois juntos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-diz-que-nao-conhece-roberta-luchsinger-mas-fotos-mostram-os-dois-juntos/)_
+
