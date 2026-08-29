@@ -167,3 +167,6 @@
 - **[2026-08-29 18:15 UTC]** Breve história das reviravoltas no mês final da eleição para presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/breve-historia-das-reviravoltas-no-mes-final-da-eleicao-para-presidente.shtml)_
 
+- **[2026-08-29 17:09 UTC]** Alckmin reúne ex-secretários de SP que lançam manifesto em apoio a Haddad
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/alckmin-reune-ex-secretarios-de-sp-que-lancam-manifesto-em-apoio-a-haddad.shtml)_
+
