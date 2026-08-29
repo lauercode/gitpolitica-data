@@ -20,3 +20,6 @@
 - **[2026-08-29 13:11 UTC]** Katy Perry diz que Justin Trudeau está 'em outro nível' em comparação a ex-namorados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/katy-perry-diz-que-justin-trudeau-esta-em-outro-nivel-em-comparacao-a-ex-namorados.shtml)_
 
+- **[2026-08-29 12:00 UTC]** Mooca celebra 470 anos com shows gratuitos de Demônios da Garoa e banda Malta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/08/mooca-celebra-470-anos-com-shows-gratuitos-de-demonios-da-garoa-e-banda-malta.shtml)_
+
