@@ -50,3 +50,6 @@
 - **[2026-08-28 22:39 UTC]** g1 passa a publicar reportagens automáticas com dados dos candidatos das Eleições 2026
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/g1-passa-a-publicar-reportagens-automaticas-com-dados-dos-candidatos-das-eleicoes-2026.ghtml)_
 
+- **[2026-08-29 11:00 UTC]** Homem que ajudou Vorcaro a escolher mulheres para festas lamentou derrocada do Master e pediu trabalho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/homem-que-ajudou-vorcaro-a-escolher-mulheres-para-festa-lamentou-derrocada-do-master-e-pediu-trabalho.shtml)_
+
