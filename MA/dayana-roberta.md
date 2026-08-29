@@ -23,3 +23,6 @@
 - **[2026-08-28 15:29 UTC]** Campanha de Lula nega relação com lobista amiga de Lulinha mesmo após fotos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-nega-relacao-lobista-amiga-lulinha-mesmo-apos-fotos/)_
 
+- **[2026-08-28 02:53 UTC]** Lula diz que não conhece Roberta Luchsinger, mas fotos mostram os dois juntos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-diz-que-nao-conhece-roberta-luchsinger-mas-fotos-mostram-os-dois-juntos/)_
+
