@@ -74,3 +74,6 @@
 - **[2026-08-28 23:13 UTC]** Justiça proíbe Cinemateca de cobrar custos do depósito legal de obras feitas até 2025
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/justica-proibe-cinemateca-de-cobrar-custos-do-deposito-legal-de-obras-feitas-ate-2025.shtml)_
 
+- **[2026-08-29 18:35 UTC]** Com elenco em greve, Ponte Preta relaciona atletas da base para jogo na série B
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/com-elenco-em-greve-ponte-preta-relaciona-atletas-da-base-para-jogo-na-serie-b.shtml)_
+
