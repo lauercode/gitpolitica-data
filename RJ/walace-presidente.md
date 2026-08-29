@@ -146,3 +146,6 @@
 - **[2026-08-29 11:36 UTC]** O obscuro acordo dos Estados Unidos para garantir um quinto do petróleo da Venezuela
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/o-obscuro-acordo-dos-estados-unidos-para-garantir-um-quinto-do-petroleo-da-venezuela.shtml)_
 
+- **[2026-08-29 15:37 UTC]** Lula convoca empresários do “PIB” para discutir investimentos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-convoca-empresarios-do-pib-para-discutir-investimentos/)_
+
