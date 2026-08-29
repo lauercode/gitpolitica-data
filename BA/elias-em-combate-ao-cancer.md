@@ -20,3 +20,6 @@
 - **[2026-08-29 15:30 UTC]** Terapia CAR-T humanizada no SUS poderá democratizar tratamento do câncer no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/terapia-car-t-humanizada-no-sus-podera-democratizar-tratamento-do-cancer-no-brasil.shtml)_
 
+- **[2026-08-29 08:43 UTC]** Aeroporto de Nashville, onde Dolly Parton firmou carreira, pode receber o seu nome
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/aeroporto-de-nashville-onde-dolly-parton-firmou-carreira-pode-receber-o-seu-nome.shtml)_
+
