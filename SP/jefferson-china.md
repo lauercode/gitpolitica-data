@@ -23,3 +23,6 @@
 - **[2026-08-29 11:07 UTC]** Por que as imagens das inundações no Nepal e no Tibete não são mostradas na China e se sabe pouco sobre as vítimas no país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/por-que-as-imagens-das-inundacoes-no-nepal-e-no-tibete-nao-sao-mostradas-na-china-e-se-sabe-pouco-sobre-as-vitimas-no-pais.shtml)_
 
+- **[2026-08-29 18:51 UTC]** Como a guerra do Irã reacendeu a disputa pelo Canal do Panamá
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c74e88e9kpeo?at_medium=RSS&at_campaign=rss)_
+
