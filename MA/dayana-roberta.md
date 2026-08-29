@@ -29,3 +29,6 @@
 - **[2026-08-28 15:07 UTC]** Entrevista deixa Lula e PT em pânico
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/sem-rodeios/entrevista-deixa-lula-e-pt-em-panico/)_
 
+- **[2026-08-29 20:05 UTC]** Não é só Lula: lobista amiga de Lulinha tem fotos com outras autoridades e ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fotos-roberta-luchsinger-autoridades-ministros-stf/)_
+
