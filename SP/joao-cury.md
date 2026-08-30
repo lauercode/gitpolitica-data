@@ -107,3 +107,6 @@
 - **[2026-08-30 01:27 UTC]** Augusto Cury defende taxação de 52% sobre bets, corte de ministérios e secretaria de IA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-defende-taxacao-de-52-sobre-bets-corte-de-ministerios-e-secretaria-de-ia/)_
 
+- **[2026-08-29 17:57 UTC]** Primeiro programa eleitoral no rádio e TV tem ataques entre Lula e Flávio; Caiado e Cury completam exibição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-programa-eleitoral-radio-ataques-lula-flavio/)_
+
