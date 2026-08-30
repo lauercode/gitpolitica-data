@@ -20,3 +20,6 @@
 - **[2026-08-29 08:45 UTC]** Cristian Cravinhos é banido de plataforma adulta após vídeo com simulação de pauladas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/cristian-cravinhos-e-banido-de-plataforma-adulta-apos-video-com-simulacao-de-pauladas.shtml)_
 
+- **[2026-08-29 18:55 UTC]** Michelle Obama diz não sentir falta das filhas após saída de casa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/michelle-obama-diz-nao-sentir-falta-das-filhas-apos-saida-de-casa.shtml)_
+
