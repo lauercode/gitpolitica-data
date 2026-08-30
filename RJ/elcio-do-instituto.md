@@ -20,3 +20,6 @@
 - **[2026-08-29 23:00 UTC]** Renda do trabalhador se aproxima do salário mínimo em sete estados do Nordeste, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/renda-do-trabalhador-se-aproxima-do-salario-minimo-em-sete-estados-do-nordeste-diz-estudo.shtml)_
 
+- **[2026-08-29 22:00 UTC]** O mito do modelo Bukele de segurança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/o-mito-do-modelo-bukele-de-seguranca.shtml)_
+
