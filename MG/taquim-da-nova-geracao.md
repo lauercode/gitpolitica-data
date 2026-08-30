@@ -17,3 +17,6 @@
 - **[2026-08-29 16:17 UTC]** Em Angra, Flávio Bolsonaro defende Angra 3 e licenças para obras de resorts
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/em-angra-flavio-bolsonaro-defende-angra-3-e-licencas-para-obras-de-resorts.shtml)_
 
+- **[2026-08-29 22:47 UTC]** Recorde de Piu pode inspirar nova geração do atletismo, dizem dirigentes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/recorde-de-piu-pode-inspirar-nova-geracao-do-atletismo-dizem-dirigentes.shtml)_
+
