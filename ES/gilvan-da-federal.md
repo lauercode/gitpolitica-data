@@ -287,3 +287,6 @@
 - **[2026-08-30 03:00 UTC]** VÍDEO: Qual a diferença entre deputado estadual e federal?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/30/video-a-diferenca-entre-deputado-estadual-e-federal.ghtml)_
 
+- **[2026-08-26 21:32 UTC]** Tarcísio cobra governo federal por corrupção e diz que Flávio já se explicou sobre Dark Horse
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/tarcisio-cobra-governo-federal-por-corrupcao-e-diz-que-flavio-ja-se-explicou-sobre-dark-horse/)_
+
