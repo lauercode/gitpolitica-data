@@ -20,3 +20,6 @@
 - **[2026-08-29 23:00 UTC]** 'Memórias que tenho do meu irmão são de amor', diz Bruno Gagliasso sobre rompimento familiar por política
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/memorias-que-tenho-do-meu-irmao-sao-de-amor-diz-bruno-gagliasso-sobre-rompimento-familiar-por-politica.shtml)_
 
+- **[2026-08-30 08:00 UTC]** Temos que falar de sexo, diz Luisa Arraes, protagonista de filme de humor em motel
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/08/temos-que-falar-de-sexo-diz-luisa-arraes-protagonista-de-filme-de-humor-em-motel.shtml)_
+
