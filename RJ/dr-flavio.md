@@ -551,3 +551,6 @@
 - **[2026-08-29 00:27 UTC]** Flávio Bolsonaro diz que 'não há nada de errado' na relação com Vorcaro e afirma que Eduardo errou no tarifaço
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/flavio-bolsonaro-entrevista-globo.ghtml)_
 
+- **[2026-08-28 15:27 UTC]** TSE deve se dividir sobre multa para Flávio Bolsonaro, mas vai manter proibição a deepfake na campanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/28/tse-deve-se-dividir-sobre-multa-para-flavio-bolsonaro-mas-vai-manter-proibicao-a-deepfake-na-campanha.ghtml)_
+
