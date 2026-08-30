@@ -452,3 +452,6 @@
 - **[2026-08-28 03:00 UTC]** Flávio Bolsonaro participa de entrevista da Globo nesta sexta-feira; saiba como assistir
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/flavio-bolsonaro-entrevista-globo-como-assistir.ghtml)_
 
+- **[2026-08-27 23:34 UTC]** Flávio Bolsonaro diz que vai se encontrar com ministro de Bukele no domingo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/flavio-bolsonaro-ministro-bukele.ghtml)_
+
