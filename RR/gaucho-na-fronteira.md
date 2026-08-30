@@ -32,3 +32,6 @@
 - **[2026-08-30 09:41 UTC]** Mortes no Nepal e na China chegam a quase 800, e autoridades fazem alertas sobre mudanças climáticas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mortes-no-nepal-e-na-china-chegam-a-quase-800-e-autoridades-fazem-alertas-sobre-mudancas-climaticas.shtml)_
 
+- **[2026-08-30 15:54 UTC]** Servidores do INSS pedem inclusão em MP para receber adicional de fronteira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/servidores-do-inss-pedem-inclusao-em-mp-para-receber-adicional-de-fronteira.shtml)_
+
