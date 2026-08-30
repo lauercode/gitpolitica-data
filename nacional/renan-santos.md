@@ -29,3 +29,6 @@
 - **[2026-08-30 15:47 UTC]** Toffoli adia julgamento do registro de candidatura de Renan Santos e aponta indícios de ilicitude
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/30/toffoli-adia-julgamento-do-registro-de-candidatura-de-renan-santos-e-aponta-indicios-de-ilicitude.ghtml)_
 
+- **[2026-08-29 21:32 UTC]** Renan Santos defende tecnologia para reduzir fila do SUS e nova reforma trabalhista
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/29/renan-santos-defende-ia-para-reduzir-fila-do-sus-e-reforma-para-formalizar-trabalho-por-aplicativo.ghtml)_
+
