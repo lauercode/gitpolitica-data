@@ -32,3 +32,6 @@
 - **[2026-08-29 21:32 UTC]** Renan Santos defende tecnologia para reduzir fila do SUS e nova reforma trabalhista
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/29/renan-santos-defende-ia-para-reduzir-fila-do-sus-e-reforma-para-formalizar-trabalho-por-aplicativo.ghtml)_
 
+- **[2026-08-27 22:23 UTC]** Quaest em GO: Ronaldo Caiado, 32%; Flávio Bolsonaro, 27%; Lula, 20%; Renan Santos; 2%; Romeu Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/27/quaest-go-presidente-27-agosto.ghtml)_
+
