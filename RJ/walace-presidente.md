@@ -176,3 +176,6 @@
 - **[2026-08-30 00:59 UTC]** VÍDEOS: Tralli e Renata entrevistam Augusto Cury, candidato a presidente pelo Avante
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-augusto-cury-candidato-a-presidente-pelo-avante.ghtml)_
 
+- **[2026-08-29 23:18 UTC]** Presidente interina da Venezuela diz que acordo energético com os EUA vai durar 25 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/presidente-interina-da-venezuela-diz-que-acordo-energetico-com-os-eua-vai-durar-25-anos.shtml)_
+
