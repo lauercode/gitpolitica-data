@@ -23,3 +23,6 @@
 - **[2026-08-29 18:55 UTC]** Michelle Obama diz não sentir falta das filhas após saída de casa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/michelle-obama-diz-nao-sentir-falta-das-filhas-apos-saida-de-casa.shtml)_
 
+- **[2026-08-29 22:00 UTC]** País das exceções ameaça reforma tributária louvável
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/pais-das-excecoes-ameaca-reforma-tributaria-louvavel.shtml)_
+
