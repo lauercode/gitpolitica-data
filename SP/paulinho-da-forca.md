@@ -65,3 +65,6 @@
 - **[2026-08-28 13:11 UTC]** Augusto Cury dispara nas redes como “agente da despolarização”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-dispara-nas-redes-como-agente-da-despolarizacao/)_
 
+- **[2026-08-29 23:00 UTC]** Agro impulsiona interior e faz produtividade do Brasil mudar de endereço
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/agro-impulsiona-interior-e-faz-produtividade-do-brasil-mudar-de-endereco.shtml)_
+
