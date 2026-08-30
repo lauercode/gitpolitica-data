@@ -14,3 +14,6 @@
 - **[2026-08-30 12:26 UTC]** Entidades do comércio lançam campanha para adiar votação do fim da escala 6×1
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/entidades-comercio-lancam-campanha-contra-fim-escala-6x1/)_
 
+- **[2026-08-30 14:15 UTC]** Comércio, serviços e turismo lançam campanha contra votação da escala 6x1 antes das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/comercio-servicos-e-turismo-lancam-campanha-contra-votacao-da-escala-6x1-antes-das-eleicoes.shtml)_
+
