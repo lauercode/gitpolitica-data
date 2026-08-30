@@ -47,3 +47,6 @@
 - **[2026-08-29 23:00 UTC]** 'Memórias que tenho do meu irmão são de amor', diz Bruno Gagliasso sobre rompimento familiar por política
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/memorias-que-tenho-do-meu-irmao-sao-de-amor-diz-bruno-gagliasso-sobre-rompimento-familiar-por-politica.shtml)_
 
+- **[2026-08-29 22:02 UTC]** Respiração quadrada: como funciona um dos 'truques mais poderosos' para controlar o estresse
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/respiracao-quadrada-como-funciona-um-dos-truques-mais-poderosos-para-controlar-o-estresse.shtml)_
+
