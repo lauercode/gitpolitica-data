@@ -38,3 +38,6 @@
 - **[2026-08-30 17:15 UTC]** Miss capixaba destronada já sabia de gravidez antes de mundial, revela exame
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/08/miss-capixaba-destronada-ja-sabia-de-gravidez-antes-de-mundial-revela-exame.shtml)_
 
+- **[2026-08-30 15:42 UTC]** Brasil conquista mais quatro medalhas no Mundial de Canoagem e Paracanoagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/brasil-conquista-mais-quatro-medalhas-no-mundial-de-canoagem-e-paracanoagem.shtml)_
+
