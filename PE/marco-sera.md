@@ -38,3 +38,6 @@
 - **[2026-08-29 14:59 UTC]** Märtha Louise da Noruega, a princesa 'clarividente' casada com xamã que não será rainha, apesar de ser mais velha que seu irmão Haakon
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62jz534jj0o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-29 23:00 UTC]** A corrupção é e será tema central da campanha eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/a-corrupcao-e-e-sera-tema-central-da-campanha-eleitoral.shtml)_
+
