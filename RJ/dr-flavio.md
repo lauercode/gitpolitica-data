@@ -515,3 +515,6 @@
 - **[2026-08-29 13:02 UTC]** Lula chama Flávio Bolsonaro de amador e aventureiro por entrevista à TV Globo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-amador-aventureiro-entrevista-tv-globo/)_
 
+- **[2026-08-28 18:28 UTC]** Flávio culpa governo por risco de falência do Habib’s: “Não resistiu ao Lula”
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-culpa-governo-por-risco-de-falencia-do-habibs-nao-resistiu-ao-lula/)_
+
