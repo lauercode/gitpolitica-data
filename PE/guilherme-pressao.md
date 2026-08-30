@@ -20,3 +20,6 @@
 - **[2026-08-28 14:58 UTC]** Temor de retaliações do STF pesa no cálculo do Centrão sobre apoio a Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temor-de-retaliacoes-do-stf-pesa-no-calculo-do-centrao-sobre-apoio-a-flavio/)_
 
+- **[2026-08-30 16:00 UTC]** Eleições aumentam volatilidade e colocam Bolsa e real sob pressão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/eleicoes-aumentam-volatilidade-e-colocam-bolsa-e-real-sob-pressao.shtml)_
+
