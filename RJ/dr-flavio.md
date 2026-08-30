@@ -560,3 +560,6 @@
 - **[2026-08-27 23:34 UTC]** Flávio Bolsonaro diz que vai se encontrar com ministro de Bukele no domingo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/flavio-bolsonaro-ministro-bukele.ghtml)_
 
+- **[2026-08-27 23:13 UTC]** Quaest em SE: Lula, 53%; Flávio Bolsonaro 19%
+  _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/27/quaest-se-presidente-27-de-agosto.ghtml)_
+
