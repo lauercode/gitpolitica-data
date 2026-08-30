@@ -434,3 +434,6 @@
 - **[2026-08-29 12:21 UTC]** 'Dark Horse': investigadores rechaçam 'patrocínio' e apuram suspeitas de corrupção e lavagem nos negócios de Flávio Bolsonaro com o filme
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/29/dark-horse-flavio-bolsonaro-filme-vorcaro.ghtml)_
 
+- **[2026-08-29 03:00 UTC]** Lula, Flávio Bolsonaro, Caiado e Augusto Cury iniciam propaganda eleitoral no rádio e na TV
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/lula-flavio-bolsonaro-caiado-e-augusto-cury-iniciam-propaganda-eleitoral-no-radio-e-na-tv-o-que-esperar-da-estreia.ghtml)_
+
