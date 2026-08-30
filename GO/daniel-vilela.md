@@ -11,3 +11,6 @@
 - **[2026-08-27 22:21 UTC]** Quaest em GO: 64% aprovam e 12% desaprovam governo de Daniel Vilela
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/27/quaest-go-avaliacao-governo-27-agosto.ghtml)_
 
+- **[2026-08-27 22:18 UTC]** Quaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/27/quaest-go-27-de-agosto.ghtml)_
+
