@@ -449,3 +449,6 @@
 - **[2026-08-28 15:27 UTC]** TSE deve se dividir sobre multa para Flávio Bolsonaro, mas vai manter proibição a deepfake na campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/28/tse-deve-se-dividir-sobre-multa-para-flavio-bolsonaro-mas-vai-manter-proibicao-a-deepfake-na-campanha.ghtml)_
 
+- **[2026-08-28 03:00 UTC]** Flávio Bolsonaro participa de entrevista da Globo nesta sexta-feira; saiba como assistir
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/flavio-bolsonaro-entrevista-globo-como-assistir.ghtml)_
+
