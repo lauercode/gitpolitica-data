@@ -113,3 +113,6 @@
 - **[2026-08-30 01:47 UTC]** Cury propõe ministério da IA, drones contra feminicídios e treinar embaixadores para serem influencers
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/entrevista-augusto-cury-ministerio-da-ia-drones-contra-feminicidios.ghtml)_
 
+- **[2026-08-30 00:19 UTC]** Cury promete cortar até 10 ministérios, mas não diz quais, e nega conflito ao defender telemedicina no SUS e ser ligado a empresa da área
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/augusto-cury-entrevista-globo.ghtml)_
+
