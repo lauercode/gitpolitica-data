@@ -530,3 +530,6 @@
 - **[2026-08-29 23:26 UTC]** Ex-comandante da FAB rebate Flávio Bolsonaro e nega fazer campanha para Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/ex-comandante-da-fab-rebate-flavio-bolsonaro-e-nega-fazer-campanha-para-lula.ghtml)_
 
+- **[2026-08-29 22:37 UTC]** Quaest no Pará: Lula, 37%; Flávio Bolsonaro, 29%
+  _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-lula-presidente-29-agosto.ghtml)_
+
