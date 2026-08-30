@@ -422,3 +422,6 @@
 - **[2026-08-30 15:43 UTC]** Flávio Bolsonaro encontra ministro de Bukele para tratar sobre segurança pública
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-encontra-ministro-bukele-tratar-seguranca-publica/)_
 
+- **[2026-08-29 23:26 UTC]** Ex-comandante da FAB rebate Flávio Bolsonaro e nega fazer campanha para Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/ex-comandante-da-fab-rebate-flavio-bolsonaro-e-nega-fazer-campanha-para-lula.ghtml)_
+
