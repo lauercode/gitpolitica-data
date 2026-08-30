@@ -281,3 +281,6 @@
 - **[2026-08-30 11:08 UTC]** Confira o resultado do concurso 3051 da Mega-Sena sorteado neste domingo (30)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-o-resultado-do-concurso-3051-da-mega-sena-sorteado-neste-domingo-30.shtml)_
 
+- **[2026-08-30 11:08 UTC]** Mega-Sena 3051 acumula e premiação pode chegar a R$ 36 milhões na terça (1º)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-o-resultado-do-concurso-3051-da-mega-sena-sorteado-neste-domingo-30.shtml)_
+
