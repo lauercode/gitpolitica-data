@@ -77,3 +77,6 @@
 - **[2026-08-30 14:02 UTC]** Propostas para frear STF se multiplicam no Congresso, mas travam sob Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/propostas-para-frear-stf-se-multiplicam-no-congresso-mas-travam-sob-alcolumbre/)_
 
+- **[2026-08-30 03:00 UTC]** Eleições nos estados e comando do Congresso: o que está por trás da reaproximação de Lula com Alcolumbre e Motta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/30/eleicoes-nos-estados-e-comando-do-congresso-o-que-esta-por-tras-da-reaproximacao-de-lula-com-alcolumbre-e-motta.ghtml)_
+
