@@ -20,3 +20,6 @@
 - **[2026-08-27 17:00 UTC]** 1926: Polícia de São Paulo restringe uso de automóvel em diligência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/08/1926-policia-de-sao-paulo-restringe-uso-de-automovel-em-diligencia.shtml)_
 
+- **[2026-08-30 11:16 UTC]** Isis Valverde compra os direitos de Hilda Furacão e planeja musical
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/isis-valverde-compra-os-direitos-de-hilda-furacao-e-planeja-musical.shtml)_
+
