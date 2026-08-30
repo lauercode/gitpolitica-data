@@ -23,3 +23,6 @@
 - **[2026-08-29 08:00 UTC]** A pulseirinha é como ter a minha mãe constantemente com o dedo no pulso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/08/a-pulseirinha-e-como-ter-a-minha-mae-constantemente-com-o-dedo-no-pulso.shtml)_
 
+- **[2026-08-30 04:00 UTC]** Tirar gordura do corpo e colocar no rosto pode rejuvenescer? Veja riscos e benefícios do nanofat
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/tirar-gordura-do-corpo-e-colocar-no-rosto-pode-rejuvenescer-veja-riscos-e-beneficios-do-nanofat.shtml)_
+
