@@ -179,3 +179,6 @@
 - **[2026-08-30 14:15 UTC]** Mulheres do PT dizem ser tratadas como “laranjas” em evento com Lula em MG
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mulheres-pt-dizem-ser-tratadas-laranjas-evento-lula-mg/)_
 
+- **[2026-08-30 12:26 UTC]** Entidades do comércio lançam campanha para adiar votação do fim da escala 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/entidades-comercio-lancam-campanha-contra-fim-escala-6x1/)_
+
