@@ -53,3 +53,6 @@
 - **[2026-08-30 06:00 UTC]** Governo do DF busca empresas para substituir BRB na gestão de pontos turísticos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-do-df-busca-empresas-para-substituir-brb-na-gestao-de-pontos-turisticos.shtml)_
 
+- **[2026-08-30 12:04 UTC]** Islândia rejeita aderir à União Europeia em referendo que revela divisão no país
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgyxj3jkxro?at_medium=RSS&at_campaign=rss)_
+
