@@ -200,3 +200,6 @@
 - **[2026-08-30 13:55 UTC]** Petróleo da Venezuela será usado para reabastecer reservas dos EUA, diz Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/petroleo-da-venezuela-sera-usado-para-reabastecer-reservas-dos-eua-diz-trump.shtml)_
 
+- **[2026-08-30 12:03 UTC]** Veja como foi o fim de semana dos candidatos a presidente da República
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-fim-de-semana-dos-candidatos-presidente-da-republica)_
+
