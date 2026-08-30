@@ -23,3 +23,6 @@
 - **[2026-08-29 22:00 UTC]** O mito do modelo Bukele de segurança
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/o-mito-do-modelo-bukele-de-seguranca.shtml)_
 
+- **[2026-08-30 06:00 UTC]** 'Precisamos nos arriscar mais na ciência', diz Hugo Aguilaniu, que se prepara para deixar o Serrapilheira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/precisamos-nos-arriscar-mais-na-ciencia-diz-hugo-aguilaniu-que-se-prepara-para-deixar-o-serrapilheira.shtml)_
+
