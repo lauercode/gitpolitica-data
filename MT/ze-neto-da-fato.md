@@ -23,3 +23,6 @@
 - **[2026-08-28 20:10 UTC]** Veja o que é #FATO e o que é #FAKE na sabatina de Augusto Cury a 'O Globo', 'Valor' e CBN
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/28/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-augusto-cury-a-o-globo-valor-e-cbn.ghtml)_
 
+- **[2026-08-28 01:55 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Lula à Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/27/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-lula-a-globo.ghtml)_
+
