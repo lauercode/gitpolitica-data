@@ -89,3 +89,6 @@
 - **[2026-08-30 06:08 UTC]** Islândia recusa retomar negociações com a União Europeia, diz TV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml)_
 
+- **[2026-08-30 09:41 UTC]** Mortes no Nepal e na China chegam a quase 800, e autoridades fazem alertas sobre mudanças climáticas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mortes-no-nepal-e-na-china-chegam-a-quase-800-e-autoridades-fazem-alertas-sobre-mudancas-climaticas.shtml)_
+
