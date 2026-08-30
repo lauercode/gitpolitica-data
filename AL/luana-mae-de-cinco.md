@@ -38,3 +38,6 @@
 - **[2026-08-27 16:14 UTC]** TSE aprova envio de tropas federais para cinco estados
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-aprova-envio-de-tropas-federais-para-cinco-estados)_
 
+- **[2026-08-30 16:22 UTC]** Chuva com granizo atinge 23 municípios em SC e deixa cinco cidades em situação de emergência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/chuva-com-granizo-atinge-23-municipios-em-sc-e-deixa-cinco-cidades-em-situacao-de-emergencia.shtml)_
+
