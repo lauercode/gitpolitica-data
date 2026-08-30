@@ -26,3 +26,6 @@
 - **[2026-08-29 23:00 UTC]** Renan Santos e sua bomba atômica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/renan-santos-e-sua-bomba-atomica.shtml)_
 
+- **[2026-08-30 15:47 UTC]** Toffoli adia julgamento do registro de candidatura de Renan Santos e aponta indícios de ilicitude
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/30/toffoli-adia-julgamento-do-registro-de-candidatura-de-renan-santos-e-aponta-indicios-de-ilicitude.ghtml)_
+
