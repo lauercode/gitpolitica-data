@@ -5,3 +5,9 @@
 
 ## Histórico
 
+- **[2026-08-27 20:09 UTC]** Avião sai da pista no aeroporto Santos Dumont, no Rio, e causa cancelamento de voos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/aviao-sai-da-pista-no-aeroporto-santos-dumont-no-rio-e-causa-cancelamento-de-voos.shtml)_
+
+- **[2026-08-27 18:44 UTC]** Mortes: Brilhava os olhos ao falar do teatro, sua grande paixão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mortes-brilhava-os-olhos-ao-falar-do-teatro-sua-grande-paixao.shtml)_
+

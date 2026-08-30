@@ -5,3 +5,39 @@
 
 ## Histórico
 
+- **[2026-08-27 12:00 UTC]** Dólar mais baixo e férias escolares impulsionam gastos de brasileiros no exterior a US$ 2,45 bilhões em julho, recorde em mais de 30 anos
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/27/dolar-mais-baixo-e-ferias-escolares-impulsionam-gastos-de-brasileiros-no-exterior-a-us-245-bilhoes-em-julho-recorde-em-mais-de-30-anos.ghtml)_
+
+- **[2026-08-14 13:31 UTC]** Gazeta Agora: Lula diz que crê em Lulinha, mas defesa tenta anular PF
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/gazeta-agora/gazeta-agora/)_
+
+- **[2026-08-17 08:55 UTC]** Como é viver em El Salvador após Bukele derrotar facções: 'O medo agora é outro'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckg3k56mdydo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-27 18:58 UTC]** Justiça do DF suspende imposto de exportação de 12% sobre petróleo; arrecadação já chega a R$ 7,9 bilhões
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/27/justica-federal-do-df-suspende-imposto-de-exportacao-de-12percent-sobre-petroleo.ghtml)_
+
+- **[2026-08-27 22:43 UTC]** Quaest no AC: 57% desaprovam e 36% aprovam governo Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-ac-avaliacao-lula-27-agosto.ghtml)_
+
+- **[2026-08-27 19:39 UTC]** Luana Piovani e Ana Paula Renault se encontram e brincam: 'Duas bravas'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/luana-piovani-e-ana-paula-renault-se-encontram-e-brincam-duas-bravas.shtml)_
+
+- **[2026-08-27 19:31 UTC]** Falência da Oi reforça ação contra fundos de investimento, avaliam credores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/falencia-da-oi-reforca-acao-contra-fundos-de-investimento-avaliam-credores.shtml)_
+
+- **[2026-08-27 21:43 UTC]** Projeto no entorno do Masp vira alvo de inquérito do MP após críticas de moradores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/projeto-no-entorno-do-masp-vira-alvo-de-inquerito-do-mp-apos-criticas-de-moradores.shtml)_
+
+- **[2026-08-28 13:44 UTC]** Mesmo com Desenrola 2.0, inadimplência bancária sobe e bate recorde em julho
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/28/mesmo-com-desenrola-20-inadimplencia-bancaria-sobe-e-bate-recorde-em-julho.ghtml)_
+
+- **[2026-08-29 15:54 UTC]** OpenAI vai interromper fornecimento de modelos de IA para Cursor, da SpaceX, intensificando disputa com Musk
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/openai-vai-interromper-fornecimento-de-modelos-de-ia-para-cursor-da-spacex-intensificando-disputa-com-musk.shtml)_
+
+- **[2026-08-29 15:10 UTC]** Com maior patrimônio entre presidenciáveis, Cury defende criar 10 mil 'clubes de empreendedorismo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/com-maior-patrimonio-entre-presidenciaveis-cury-defende-criar-10-mil-clubes-de-empreendedorismo.shtml)_
+
+- **[2026-08-29 19:42 UTC]** Mistérios e segredos de textos medievais revelados graças à IA
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss)_
+

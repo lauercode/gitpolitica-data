@@ -5,3 +5,15 @@
 
 ## Histórico
 
+- **[2026-08-27 09:18 UTC]** Fantasma do rebaixamento divide Santos e Vasco; Abel Ferreira cobra pés no chão no Palmeiras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/fantasma-do-rebaixamento-divide-santos-e-vasco-abel-ferreira-cobra-pes-no-chao-no-palmeiras.shtml)_
+
+- **[2026-08-27 07:00 UTC]** CEO do Hcor defende prova para médicos e cobra regulação de novas escolas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/ceo-do-hcor-defende-prova-para-medicos-e-cobra-regulacao-de-novas-escolas.shtml)_
+
+- **[2026-08-22 23:56 UTC]** Mais de 400 estatais e uma pergunta: o Brasil precisa delas?
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/mais-de-400-estatais-o-brasil-precisa-delas/)_
+
+- **[2026-08-29 16:43 UTC]** Após ação contra Discord, Justiça marca audiência entre plataforma e governo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/apos-acao-contra-discord-justica-marca-audiencia-entre-plataforma-e-governo/)_
+

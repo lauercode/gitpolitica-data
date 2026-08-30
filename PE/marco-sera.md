@@ -5,3 +5,36 @@
 
 ## Histórico
 
+- **[2026-08-27 09:14 UTC]** Centaurus tem 60 dias para realizar OPA da Oncoclínicas e preço será corrigido pela Selic
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/centaurus-tem-60-dias-para-realizar-opa-da-oncoclinicas-e-preco-sera-corrigido-pela-selic.shtml)_
+
+- **[2026-08-27 07:00 UTC]** Artesãos da Ilha do Marajó levam coleção brasileira a Milão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/08/artesaos-da-ilha-do-marajo-levam-colecao-brasileira-a-milao.shtml)_
+
+- **[2026-08-27 04:00 UTC]** Correios leiloam veículos em plano de renovação da frota; veja como participar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/correios-leiloam-veiculos-em-plano-de-renovacao-da-frota-veja-como-participar.shtml)_
+
+- **[2026-08-26 22:20 UTC]** Motta indica deputado do PT para presidir comissão sobre fim da taxa das blusinhas
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/motta-indica-deputado-do-pt-para-presidir-comissao-sobre-fim-da-taxa-das-blusinhas/)_
+
+- **[2026-08-27 13:49 UTC]** Beth Gibbons, vocalista do Portishead, vem ao Brasil para o C6 Fest em 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/beth-gibbons-vocalista-do-portishead-vem-ao-brasil-para-o-c6-fest-em-2027.shtml)_
+
+- **[2026-08-27 19:24 UTC]** 'GTA 6' ganha novo trailer extenso que se aprofunda na história e na jogabilidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/gta-6-ganha-novo-trailer-extenso-que-se-aprofunda-na-historia-e-na-jogabilidade.shtml)_
+
+- **[2026-08-27 19:00 UTC]** Será que planejar demais é uma boa escolha para as práticas amorosas e sexuais?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-muller/2026/08/sera-que-planejar-demais-e-uma-boa-escolha-para-as-praticas-amorosas-e-sexuais.shtml)_
+
+- **[2026-08-27 18:37 UTC]** Fernanda Montenegro ganha documentário sobre carreira no cinema e teatro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/fernanda-montenegro-ganha-documentario-sobre-carreira-no-cinema-e-teatro.shtml)_
+
+- **[2026-08-27 18:33 UTC]** Globo define data para evento que reúne mercado publicitário em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/globo-define-data-para-evento-que-reune-mercado-publicitario-em-sp.shtml)_
+
+- **[2026-08-29 15:45 UTC]** William Bonner será sabatinado por Fátima Bernardes e pela filha no YouTube
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/william-bonner-sera-sabatinado-por-fatima-bernardes-e-pela-filha-no-youtube.shtml)_
+
+- **[2026-08-29 14:59 UTC]** Märtha Louise da Noruega, a princesa 'clarividente' casada com xamã que não será rainha, apesar de ser mais velha que seu irmão Haakon
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62jz534jj0o?at_medium=RSS&at_campaign=rss)_
+

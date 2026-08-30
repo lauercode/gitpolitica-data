@@ -77,3 +77,18 @@
 - **[2026-08-25 00:30 UTC]** Resistência contra impeachment de ministros do STF cresce na eleição liderada por Gilmar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/resistencia-contra-impeachment-de-ministros-do-stf-cresce-na-eleicao-liderada-por-gilmar/)_
 
+- **[2026-08-27 14:04 UTC]** Advogado de Tagliaferro revela mandado de prisão oculto e defende prisão de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/advogado-de-tagliaferro-revela-mandado-de-prisao-oculto-e-defende-prisao-de-moraes/)_
+
+- **[2026-08-26 02:18 UTC]** Moraes autoriza visitas de Carlos e Flávio Bolsonaro a Filipe Martins na prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visitas-de-carlos-e-flavio-bolsonaro-a-filipe-martins-na-prisao/)_
+
+- **[2026-08-25 22:53 UTC]** Defesa de Bolsonaro pede prazo a Moraes para transferir titularidade de armas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-bolsonaro-pede-prazo-a-moraes-para-transferir-titularidade-de-armas/)_
+
+- **[2026-08-24 23:46 UTC]** Aumento de penas não é suficiente contra o crime organizado, diz Moraes
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/aumento-de-penas-nao-e-suficiente-contra-o-crime-organizado-diz-moraes/)_
+
+- **[2026-08-29 20:05 UTC]** Não é só Lula: lobista amiga de Lulinha tem fotos com outras autoridades e ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fotos-roberta-luchsinger-autoridades-ministros-stf/)_
+

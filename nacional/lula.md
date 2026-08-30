@@ -701,3 +701,249 @@
 - **[2026-08-24 22:00 UTC]** Tratam eleitorado com desrespeito e arrogância, diz leitor sobre ausência de Lula e Flávio em debate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/tratam-eleitorado-com-desrespeito-e-arrogancia-diz-leitor-sobre-ausencia-de-lula-e-flavio-em-debate.shtml)_
 
+- **[2026-08-27 12:30 UTC]** Lula e Flávio Bolsonaro partem para ofensiva em programa eleitoral com 'Dark Horse' e endividamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-partem-para-ofensiva-em-programa-eleitoral-com-dark-horse-e-endividamento.shtml)_
+
+- **[2026-08-27 12:00 UTC]** Governo considera prorrogar imposto de 12% nas exportações de petróleo, e empresas vão à Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-considera-prorrogar-imposto-de-12-nas-exportacoes-de-petroleo-e-empresas-vao-a-justica.shtml)_
+
+- **[2026-08-27 04:02 UTC]** O que pesa contra Lula nas eleições de 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/o-que-pesa-contra-lula-nas-eleicoes-de-2026.shtml)_
+
+- **[2026-08-27 14:22 UTC]** Distribuidora de filme sobre Bolsonaro adia lançamento para depois da eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/distribuidora-dark-horse-adia-lancamento-depois-eleicao/)_
+
+- **[2026-08-26 21:56 UTC]** Governo processa Discord após ordem de Lula e pede indenização de R$ 500 milhões
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/governo-processa-discord-apos-ordem-de-lula-e-pede-indenizacao-de-r-500-milhoes/)_
+
+- **[2026-08-26 19:25 UTC]** Alcolumbre promete a Lula encaminhar isenção da “taxa das blusinhas” e PECs da 6×1 e Segurança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-promete-lula-encaminhar-isencao-taxa-blusinhas/)_
+
+- **[2026-08-26 15:37 UTC]** Chanceler e deputados do Paraguai criticam fala “infeliz” de Lula e cobram que canhão seja devolvido
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/chanceler-deputados-paraguai-criticam-fala-infeliz-lula-cobram-canhao-seja-devolvido/)_
+
+- **[2026-08-26 14:13 UTC]** Como Janja comanda e ajuda (ou atrapalha) a campanha de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-janja-comanda-ajuda-ou-atrapalha-campanha-de-lula/)_
+
+- **[2026-08-26 00:15 UTC]** Lula ou Jair Bolsonaro: quem passaria a faixa presidencial para Flávio se ele for eleito?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-ou-jair-bolsonaro-quem-passaria-a-faixa-presidencial-para-flavio-se-ele-for-eleito/)_
+
+- **[2026-08-25 20:13 UTC]** 11 candidatos adotam “Lula” como parte do nome de urna; escolha pode ser contestada por adversários
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/11-candidatos-adotam-lula-como-parte-do-nome-de-urna-escolha-pode-ser-contestada-por-adversarios/)_
+
+- **[2026-08-25 18:53 UTC]** Nome de operação da Polícia Federal contra Lulinha causa tensão no Planalto
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nome-de-operacao-da-policia-federal-contra-lulinha-causa-tensao-no-planalto/)_
+
+- **[2026-08-25 18:26 UTC]** Lula é questionado sobre Lulinha e deixa entrevista no QG do Exército, em Brasília
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-questionado-sobre-lulinha-e-deixa-entrevista-no-qg-do-exercito-em-brasilia/)_
+
+- **[2026-08-25 17:37 UTC]** Flávio aposta em caso Lulinha para desgastar candidatura de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-caso-lulinha-para-desgastar-candidatura-lula/)_
+
+- **[2026-08-25 17:14 UTC]** Lula reforça jurídico da campanha com ex-ministros do TSE
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-reforca-juridico-da-campanha-com-ex-ministros-do-tse/)_
+
+- **[2026-08-25 16:55 UTC]** Ditadura na Nicarágua: Sergio Ramírez faz carta pública a Lula após decisão de Ortega
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ditadura-na-nicaragua-sergio-ramirez-faz-carta-publica-a-lula-apos-decisao-de-ortega/)_
+
+- **[2026-08-26 01:53 UTC]** Caiado diz que governo Lula “cooptou” partidos ao explicar falta de apoio no PSD
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/eleicoes/2026/caiado-diz-que-governo-lula-cooptou-partidos-ao-explicar-falta-de-apoio-no-psd/)_
+
+- **[2026-08-24 18:37 UTC]** Congresso Nacional deixa caducar sete em cada dez medidas do governo Lula
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/congresso-nacional-deixa-caducar-sete-em-cada-dez-medidas-do-governo-lula/)_
+
+- **[2026-08-24 14:36 UTC]** Governo Lula registra 68% de fracasso na aprovação de MPs no Congresso em 2026
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/governo-lula-registra-68-de-fracasso-na-aprovacao-de-mps-no-congresso-em-2026/)_
+
+- **[2026-08-21 13:01 UTC]** Ministro de Lula critica sindicatos e reconhece que fim da escala 6×1 pode não avançar
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/luiz-marinho-6x1-meta-inflacao/)_
+
+- **[2026-08-20 00:13 UTC]** 5 ações do “sistema” para blindar Lula e o PT de apurações de corrupção
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/5-acoes-do-sistema-para-blindar-lula-e-o-pt-de-apuracoes-de-corrupcao/)_
+
+- **[2026-08-19 01:52 UTC]** Lula pressiona Congresso por aprovação do fim da taxa das blusinhas: “Questão de justiça”
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/lula-pressiona-congresso-por-aprovacao-do-fim-da-taxa-das-blusinhas-questao-de-justica/)_
+
+- **[2026-08-17 21:48 UTC]** Alcolumbre elogia “liderança” de Lula e critica “tutela” estrangeira sobre o Brasil
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/alcolumbre-elogia-lideranca-de-lula-e-critica-tutela-estrangeira-sobre-o-brasil/)_
+
+- **[2026-08-15 03:52 UTC]** Bancada evangélica trava orçamento federal para derrubar vetos de Lula
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/bancada-evangelica-trava-orcamento-federal-para-derrubar-vetos-de-lula/)_
+
+- **[2026-08-14 23:50 UTC]** Evangélicos articulam queda de veto progressista de Lula sobre conselheiros tutelares
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/evangelicos-articulam-queda-de-veto-progressista-de-lula-sobre-conselheiros-tutelares/)_
+
+- **[2026-08-14 13:31 UTC]** Gazeta Agora: Lula diz que crê em Lulinha, mas defesa tenta anular PF
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/gazeta-agora/gazeta-agora/)_
+
+- **[2026-08-13 16:59 UTC]** Lula reata diálogo com presidente do Senado para destravar pautas
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lula-reata-dialogo-com-presidente-do-senado-para-destravar-pautas/)_
+
+- **[2026-08-25 14:52 UTC]** Elli: nome de operação contra Lulinha gera desconforto no Planalto
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/elli-nome-de-operacao-contra-lulinha-gera-desconforto-no-planalto/)_
+
+- **[2026-08-22 20:03 UTC]** Lulinha é citado como destinatário de pagamentos e mediador de reunião no Planalto
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/lulinha-e-citado-como-destinatario-de-pagamentos-e-mediador-de-reuniao-no-planalto/)_
+
+- **[2026-08-21 20:15 UTC]** Grupo de Lulinha tentou usar brecha para obrigar governo a comprar composto da maconha
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/caso-lulinha-ate-onde-avancou-a-tentativa-compra-de-canabidiol-no-governo-lula/)_
+
+- **[2026-08-25 11:08 UTC]** Veja a distância entre Lula e Flávio Bolsonaro segundo o agregador de pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-26 08:00 UTC]** Por que mulheres e homens votam cada vez mais diferente — e como isso pode definir eleição entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cewr7rp1yppo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-23 23:25 UTC]** Quem são os candidatos à Presidência na Eleição 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-24 20:13 UTC]** Quem é Augusto Cury, escritor que disputa a Presidência nas eleições 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-27 16:30 UTC]** Documentário sobre cozinheiras do MTST na posse de Lula estreia em setembro; veja trailer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/documentario-sobre-cozinheiras-do-mtst-na-posse-de-lula-estreia-em-setembro-veja-trailer.shtml)_
+
+- **[2026-08-27 15:13 UTC]** Entidades que defendem taxar 'super-ricos' se reúnem com coordenador do programa de governo de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/entidades-que-defendem-taxar-super-ricos-se-reunem-com-coordenador-do-programa-de-governo-de-lula.shtml)_
+
+- **[2026-08-27 12:30 UTC]** Lula e Flávio Bolsonaro preveem ofensiva em programa eleitoral com 'Dark Horse' e endividamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-partem-para-ofensiva-em-programa-eleitoral-com-dark-horse-e-endividamento.shtml)_
+
+- **[2026-08-27 12:00 UTC]** Governo pretende prorrogar por mais 60 dias imposto sobre petroleiras, e empresas vão à Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-considera-prorrogar-imposto-de-12-nas-exportacoes-de-petroleo-e-empresas-vao-a-justica.shtml)_
+
+- **[2026-08-27 18:59 UTC]** André Mendonça enfrenta direção da PF em inquérito sobre filho de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-enfrenta-direcao-da-pf-em-inquerito-sobre-filho-de-lula/)_
+
+- **[2026-08-27 18:51 UTC]** Congresso antecipa comissão para analisar fim da “taxa das blusinhas”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/congresso-antecipa-comissao-analisar-fim-taxa-blusinhas/)_
+
+- **[2026-08-27 22:43 UTC]** Quaest no AC: 57% desaprovam e 36% aprovam governo Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-ac-avaliacao-lula-27-agosto.ghtml)_
+
+- **[2026-08-27 19:21 UTC]** Lula vai associar Flávio Bolsonaro a rachadinha, Vorcaro e miliciano em estreia de propaganda eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/lula-vai-associar-flavio-bolsonaro-a-rachadinha-vorcaro-e-miliciano-em-estreia-de-propaganda-eleitoral.shtml)_
+
+- **[2026-08-27 18:19 UTC]** Orçamento de 2027 terá superávit mesmo considerando gastos fora da meta, diz ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/orcamento-de-2027-tera-superavit-mesmo-considerando-gastos-fora-da-meta-diz-ministro.shtml)_
+
+- **[2026-08-27 23:31 UTC]** Lula e chefes do Legislativo destravam proposta para acabar com a jornada 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-chefes-do-legislativo-destravam-proposta-para-acabar-com-a-jornada-6x1/)_
+
+- **[2026-08-27 20:52 UTC]** Governo Lula tenta resolver vazamentos de mensagens de Lulinha com Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-tenta-resolver-vazamentos-de-mensagens-de-lulinha-com-mendonca/)_
+
+- **[2026-08-27 22:10 UTC]** Caso Lulinha põe campanha de Lula sob pressão: o que PF investiga sobre filho do presidente e ex-chefe de gabinete
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1w1ypwxz98o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-27 21:09 UTC]** Fim da escala 6x1 no Senado: quem tentar adiar votação 'vai ficar muito mal com a população', diz relator na CCJ
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c804l54z3p0o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-28 00:29 UTC]** Vídeos: Tralli e Renata entrevistam Lula, candidato à reeleição pelo PT
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-lula-candidato-a-reeleicao-pelo-pt.ghtml)_
+
+- **[2026-08-27 21:27 UTC]** Lula diz que acusações contra filho ainda são ilações e que ex-chefe de gabinete agiu de modo 'totalmente errado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-acusacoes-contra-filho-sao-ilacoes-e-chama-lobista-amiga-de-lulinha-de-pilantra.shtml)_
+
+- **[2026-08-27 21:15 UTC]** Lula 3 não entendeu que Lula 4 depende de muito mais do que emprego e renda melhores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/lula-3-nao-entendeu-que-lula-4-depende-de-muito-mais-do-que-emprego-e-renda-melhores.shtml)_
+
+- **[2026-08-29 15:00 UTC]** Lula cogita editar MP criando Ministério da Segurança para dar sinalização ao eleitorado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/lula-cogita-editar-mp-criando-ministerio-da-seguranca-para-dar-sinalizacao-ao-eleitorado.shtml)_
+
+- **[2026-08-29 14:29 UTC]** Previsíveis, Lula e Flávio correm atrás do eleitor-pêndulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/previsiveis-lula-e-flavio-correm-atras-do-eleitor-pendulo.shtml)_
+
+- **[2026-08-29 14:22 UTC]** Lula diz que enfrenta poderosos, e Flávio Bolsonaro busca voto feminino em primeiro programa na TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-enfrenta-poderosos-e-flavio-bolsonaro-busca-voto-feminino-em-primeiro-programa-na-tv.shtml)_
+
+- **[2026-08-29 14:00 UTC]** 'Construção civil é um dos segmentos mais blindados ao cenário eleitoral', diz co-CEO da MRV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/construcao-civil-e-um-dos-segmentos-mais-blindados-ao-cenario-eleitoral-diz-co-ceo-da-mrv.shtml)_
+
+- **[2026-08-29 13:35 UTC]** Governo Lula quer aval para congelar mais recursos e buscar centro da meta em 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-lula-quer-aval-para-congelar-mais-recursos-e-buscar-centro-da-meta-em-2027.shtml)_
+
+- **[2026-08-29 13:00 UTC]** A náusea no caminho das urnas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/muniz-sodre/2026/08/a-nausea-no-caminho-das-urnas.shtml)_
+
+- **[2026-08-29 10:00 UTC]** Confederação diz que fim da escala 6x1 vai aumentar custos até das empresas que já reduziram jornada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/confederacao-diz-que-fim-da-escala-6x1-vai-aumentar-custos-ate-das-empresas-que-ja-reduziram-jornada.shtml)_
+
+- **[2026-08-29 04:00 UTC]** Soberania digital não é autossuficiência nem isolamento tecnológico, diz Esther Dweck
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/soberania-digital-nao-e-autossuficiencia-nem-isolamento-tecnologico-diz-esther-dweck.shtml)_
+
+- **[2026-08-29 18:53 UTC]** Governo acelera votações de apelo popular para fortalecer Lula nas eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-acelera-votacoes-de-apelo-popular-para-fortalecer-lula-nas-eleicoes/)_
+
+- **[2026-08-29 17:30 UTC]** Lula “crava” aprovação do fim da escala 6×1 após acordo com Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-crava-aprovacao-do-fim-da-escala-6x1-apos-acordo-com-alcolumbre/)_
+
+- **[2026-08-29 16:19 UTC]** Motta atende a Lula e adianta votação do fim da “taxa das blusinhas” logo após comissão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/motta-atende-lula-adianta-votacao-fim-taxa-das-blusinhas/)_
+
+- **[2026-08-29 15:37 UTC]** Lula convoca empresários do “PIB” para discutir investimentos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-convoca-empresarios-do-pib-para-discutir-investimentos/)_
+
+- **[2026-08-29 14:52 UTC]** Lula tenta garantir “sobrevida” eleitoral em semana decisiva no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-tenta-garantir-sobrevida-eleitoral-em-semana-decisiva-no-congresso/)_
+
+- **[2026-08-29 14:01 UTC]** Em quais pesquisas Flávio Bolsonaro está à frente de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/em-quais-pesquisas-flavio-bolsonaro-esta-a-frente-de-lula/)_
+
+- **[2026-08-29 03:51 UTC]** Supremo Tribunal Federal cobra explicações do governo sobre extradição de espião
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-cobra-explicacoes-do-governo-sobre-extradicao-de-espiao/)_
+
+- **[2026-08-29 01:43 UTC]** “Quem deve explicações é o Lula”, diz Flávio sobre relação com dono do Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-deve-explicacoes-e-o-lula-diz-flavio-sobre-caso-do-banco-master/)_
+
+- **[2026-08-28 23:50 UTC]** STF manda Brasil devolver espião à Rússia e põe à prova discurso de soberania de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/extradicao-espiao-expoe-dilema-lula-entre-russia-eua/)_
+
+- **[2026-08-28 21:11 UTC]** Lula reclama de sabatina no Jornal Nacional e diz que se preparou para falar das ações do governo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-reclama-de-sabatina-no-jornal-nacional-e-diz-que-se-preparou-para-falar-das-acoes-do-governo/)_
+
+- **[2026-08-28 20:33 UTC]** Campanha do PT revida “Lulinha” com “carnificina” contra Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-do-pt-revida-lulinha-com-carnificina-contra-flavio/)_
+
+- **[2026-08-28 19:00 UTC]** Aécio confirma candidatura ao Senado por Minas Gerais e nega apoio a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aecio-confirma-candidatura-ao-senado-por-minas-gerais-e-nega-apoio-a-lula/)_
+
+- **[2026-08-28 17:49 UTC]** PT abre propaganda de Lula na TV com ataque a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-abre-propaganda-de-lula-na-tv-com-ataque-a-flavio-bolsonaro/)_
+
+- **[2026-08-28 15:29 UTC]** Campanha de Lula nega relação com lobista amiga de Lulinha mesmo após fotos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-nega-relacao-lobista-amiga-lulinha-mesmo-apos-fotos/)_
+
+- **[2026-08-28 14:58 UTC]** Temor de retaliações do STF pesa no cálculo do Centrão sobre apoio a Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temor-de-retaliacoes-do-stf-pesa-no-calculo-do-centrao-sobre-apoio-a-flavio/)_
+
+- **[2026-08-28 11:17 UTC]** Moro chama Lula de “mentiroso” por críticas à Lava Jato e sai em defesa de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moro-chama-lula-de-mentiroso-por-criticas-a-lava-jato-e-sai-em-defesa-de-mendonca/)_
+
+- **[2026-08-28 02:53 UTC]** Lula diz que não conhece Roberta Luchsinger, mas fotos mostram os dois juntos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-diz-que-nao-conhece-roberta-luchsinger-mas-fotos-mostram-os-dois-juntos/)_
+
+- **[2026-08-28 20:55 UTC]** Lula mente com facilidade constrangedora e finge que nunca governou
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/rodrigo-constantino/lula-mente-com-facilidade-e-finge-que-nunca-governou/)_
+
+- **[2026-08-28 15:07 UTC]** Entrevista deixa Lula e PT em pânico
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/sem-rodeios/entrevista-deixa-lula-e-pt-em-panico/)_
+
+- **[2026-08-29 10:34 UTC]** O que Augusto Cury diz sobre ser de esquerda ou de direita
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-29 18:30 UTC]** Lula convida empresários e banqueiros para jantar no Alvorada, e campanha busca aproximação com PIB
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/lula-convida-empresarios-e-banqueiros-para-jantar-no-alvorada-e-campanha-busca-aproximacao-com-pib.shtml)_
+
+- **[2026-08-29 20:37 UTC]** Lula comete gafe e confunde esposas: “Perdi a Janja depois de 45 anos de casado”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-comete-gafe-e-confunde-esposas-perdi-a-janja-depois-de-45-anos-de-casado/)_
+
+- **[2026-08-29 20:05 UTC]** Não é só Lula: lobista amiga de Lulinha tem fotos com outras autoridades e ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fotos-roberta-luchsinger-autoridades-ministros-stf/)_
+
+- **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
+
+- **[2026-08-29 22:00 UTC]** Nunca me viu? Fotos da lobista expõem mentira de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunca-me-viu-fotos-da-lobista-expoem-mentira-de-lula/)_
+

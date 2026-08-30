@@ -239,3 +239,96 @@
 - **[2026-08-24 22:00 UTC]** Às vésperas dos 80 anos, Edwin Luisi apresenta pela 1ª vez em São Paulo monólogo sobre mulher trans
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/as-vesperas-dos-80-anos-edwin-luisi-apresenta-pela-1a-vez-em-sao-paulo-monologo-sobre-mulher-trans.shtml)_
 
+- **[2026-08-27 12:00 UTC]** Mubi Fest exibe filme premiado em Berlim e destaques de Cannes em SP; veja a programação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/08/mubi-fest-exibe-filme-premiado-em-berlim-e-destaques-de-cannes-em-sp-veja-a-programacao.shtml)_
+
+- **[2026-08-27 10:44 UTC]** Consórcio Rota Mogiana assina com governo de SP concessão de rodovias com investimentos de R$ 9,4 bi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/consorcio-rota-mogiana-assina-com-governo-de-sp-concessao-de-rodovias-com-investimentos-de-r-94-bi.shtml)_
+
+- **[2026-08-27 08:46 UTC]** Estado de SP chega a 26 casos de sarampo em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/estado-de-sp-chega-a-26-casos-de-sarampo-em-2026.shtml)_
+
+- **[2026-08-27 06:00 UTC]** Investigações sobre mau uso de câmeras da PM flagram direção imprudente e disparo desnecessário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/investigacoes-sobre-mau-uso-de-cameras-da-pm-flagram-direcao-imprudente-e-disparo-desnecessario.shtml)_
+
+- **[2026-08-27 14:04 UTC]** Advogado de Tagliaferro revela mandado de prisão oculto e defende prisão de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/advogado-de-tagliaferro-revela-mandado-de-prisao-oculto-e-defende-prisao-de-moraes/)_
+
+- **[2026-08-27 17:00 UTC]** 1926: Polícia de São Paulo restringe uso de automóvel em diligência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/08/1926-policia-de-sao-paulo-restringe-uso-de-automovel-em-diligencia.shtml)_
+
+- **[2026-08-27 16:00 UTC]** Corregedoria prende três policiais sob suspeita de extorquir motorista em Osasco, na Grande SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/corregedoria-prende-tres-policiais-sob-suspeita-de-extorquir-motorista-em-osasco-na-grande-sp.shtml)_
+
+- **[2026-08-27 15:30 UTC]** Redução da pressão da água completa um ano em SP; Sabesp destaca economia, e moradores reclamam
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/reducao-da-pressao-noturna-da-agua-completa-um-ano-e-sabesp-destaca-economia-de-193-bilhoes-de-litros.shtml)_
+
+- **[2026-08-27 14:59 UTC]** Adolescente de 14 anos mata irmão a facadas em São Paulo, diz polícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/adolescente-de-14-anos-mata-irmao-a-facadas-em-sao-paulo.shtml)_
+
+- **[2026-08-27 13:49 UTC]** Beth Gibbons, vocalista do Portishead, vem ao Brasil para o C6 Fest em 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/beth-gibbons-vocalista-do-portishead-vem-ao-brasil-para-o-c6-fest-em-2027.shtml)_
+
+- **[2026-08-27 13:47 UTC]** Propaganda no rádio e na TV começa nesta sexta (28) com Haddad pressionado e Tarcísio cauteloso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/propaganda-no-radio-e-na-tv-comeca-nesta-sexta-28-com-haddad-pressionado-e-tarcisio-cauteloso.shtml)_
+
+- **[2026-08-27 20:57 UTC]** Mercado vê efeito limitado em decisão sobre zoneamento, e prefeitura seguirá aprovando prédios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mercado-ve-efeito-limitado-de-decisao-sobre-zoneamento-e-prefeitura-seguira-aprovando-predios.shtml)_
+
+- **[2026-08-27 20:00 UTC]** Motiva afirma ter tapado 3.000 buracos nos 100 primeiros dias de concessão da Fernão Dias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/motiva-afirma-ter-tapado-3000-buracos-nos-100-primeiros-dias-de-concessao-da-fernao-dias.shtml)_
+
+- **[2026-08-27 19:16 UTC]** Prefeitura de SP avalia impacto de decisão da Justiça sobre zoneamento; Nunes não descarta novo PL
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/prefeitura-de-sp-avalia-impacto-de-decisao-da-justica-sobre-zoneamento-nunes-nao-descarta-novo-pl.shtml)_
+
+- **[2026-08-27 19:03 UTC]** Passageiro filma rato em cima de bebedouro no aeroporto de Guarulhos (SP)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/passageiro-filma-rato-em-cima-de-bebedouro-no-aeroporto-de-guarulhos-sp.shtml)_
+
+- **[2026-08-27 18:37 UTC]** Onda de calor pode fazer temperatura chegar a 36°C na cidade de São Paulo nos próximos dias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/onda-de-calor-pode-fazer-temperatura-chegar-a-36c-na-cidade-de-sao-paulo-nos-proximos-dias.shtml)_
+
+- **[2026-08-27 18:00 UTC]** Ana Cristina Rosa é premiada como melhor executiva de comunicação do Centro-Oeste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/ana-cristina-rosa-e-premiada-como-melhor-executiva-de-comunicacao-do-centro-oeste.shtml)_
+
+- **[2026-08-27 17:54 UTC]** Sabesp atrai fabricantes globais de hidrômetros inteligentes ao Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/sabesp-atrai-fabricantes-globais-de-hidrometros-inteligentes-ao-brasil.shtml)_
+
+- **[2026-08-29 16:00 UTC]** Justiça de SP nega recurso do governo e mantém agências em contrato de comunicação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/justica-de-sp-nega-recurso-do-governo-e-mantem-agencias-em-contrato-de-comunicacao.shtml)_
+
+- **[2026-08-29 15:00 UTC]** Agentes de saúde e carro do ovo ajudam a buscar vítimas de violência doméstica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/agentes-de-saude-e-carro-do-ovo-ajudam-a-buscar-vitimas-de-violencia-domestica.shtml)_
+
+- **[2026-08-29 13:32 UTC]** Decisão sobre lei de zoneamento vai parar obras em SP? Confira perguntas e respostas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/decisao-sobre-lei-de-zoneamento-vai-parar-obras-em-sp-confira-perguntas-e-respostas.shtml)_
+
+- **[2026-08-29 13:00 UTC]** Como a PF chegou a mergulhadores do tráfico acusados de esconder 155 quilos de cocaína em cargueiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/como-a-pf-chegou-a-mergulhadores-do-trafico-acusados-de-esconder-155-quilos-de-cocaina-em-cargueiro.shtml)_
+
+- **[2026-08-29 12:32 UTC]** PM foi morto por quadrilha que usa pedras para roubar motoristas na marginal Tietê, aponta investigação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pm-foi-morto-por-quadrilha-que-usa-pedras-para-roubar-motoristas-na-marginal-tiete-aponta-investigacao.shtml)_
+
+- **[2026-08-29 11:00 UTC]** Uso de IA pode causar déficit permanente nas habilidades de crianças, diz pesquisador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/uso-de-ia-pode-causar-deficit-permanente-nas-habilidades-de-criancas-diz-pesquisador.shtml)_
+
+- **[2026-08-29 11:00 UTC]** Angel Ferreira revive "Sidarta" em montagem íntima no centro de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mise-en-scene/2026/08/angel-ferreira-revive-sidarta-em-montagem-intima-no-centro-de-sao-paulo.shtml)_
+
+- **[2026-08-29 10:00 UTC]** Fechamento de mais uma sinagoga em São Paulo enfraquece a memória judaica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/fechamento-de-mais-uma-sinagoga-em-sao-paulo-enfraquece-a-memoria-judaica.shtml)_
+
+- **[2026-08-29 05:00 UTC]** São Paulo deve ter calor de 35°C e baixa umidade do ar neste sábado (29)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/sao-paulo-deve-ter-calor-de-35c-e-baixa-umidade-do-ar-neste-sabado-29.shtml)_
+
+- **[2026-08-28 23:41 UTC]** Policial militar de folga é morto durante tentativa de roubo na marginal Tietê, em SP, diz corporação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/policial-militar-de-folga-e-morto-durante-tentativa-de-roubo-na-marginal-tiete-em-sp-diz-corporacao.shtml)_
+
+- **[2026-08-29 18:00 UTC]** Belém declara guerra contra o mosquito da dengue
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/belem-declara-guerra-contra-o-mosquito-da-dengue.shtml)_
+
+- **[2026-08-29 17:09 UTC]** Alckmin reúne ex-secretários de SP que lançam manifesto em apoio a Haddad
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/alckmin-reune-ex-secretarios-de-sp-que-lancam-manifesto-em-apoio-a-haddad.shtml)_
+
+- **[2026-08-29 16:17 UTC]** Malik: Nome do filho de Maju Coutinho é raro no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/malik-nome-do-filho-de-maju-coutinho-e-raro-no-brasil.shtml)_
+

@@ -95,3 +95,54 @@
 - **[2026-08-24 19:18 UTC]** Flávio propõe a Tarcísio pacto de um mandato só
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/08/24/flavio-propoe-a-tarcisio-pacto-de-um-mandato-so.ghtml)_
 
+- **[2026-08-27 12:00 UTC]** Governo considera prorrogar imposto de 12% nas exportações de petróleo, e empresas vão à Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-considera-prorrogar-imposto-de-12-nas-exportacoes-de-petroleo-e-empresas-vao-a-justica.shtml)_
+
+- **[2026-08-27 11:31 UTC]** Câmara da Argentina aprova reforma do Banco Central na tentativa de reduzir inflação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/camara-da-argentina-aprova-reforma-do-banco-central-na-tentativa-de-reduzir-inflacao.shtml)_
+
+- **[2026-08-27 06:00 UTC]** Jair Renan Bolsonaro tem desconto de R$ 4.500 no salário por faltar a sessões na Câmara de Balneário Camboriú
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/jair-renan-bolsonaro-tem-desconto-de-r-4500-no-salario-por-faltar-a-sessoes-na-camara-de-balneario-camboriu.shtml)_
+
+- **[2026-08-25 19:35 UTC]** Relator sinaliza manter texto do fim da escala 6×1 da Câmara no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/relator-sinaliza-manter-texto-do-fim-da-escala-6x1-da-camara-no-senado/)_
+
+- **[2026-08-26 18:59 UTC]** Motta diz que Congresso deve votar na semana que vem fim da taxa das blusinhas
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300443-motta-diz-que-congresso-deve-votar-na-semana-que-vem-fim-da-taxa-das-blusinhas)_
+
+- **[2026-08-26 12:38 UTC]** Presidente da Câmara destaca transparência e pluralidade como pilares da democracia
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300276-presidente-da-camara-destaca-transparencia-e-pluralidade-como-pilares-da-democracia)_
+
+- **[2026-08-24 20:13 UTC]** Representação feminina: total de candidatas à Câmara cai 24% em 2026
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299890-representacao-feminina-total-de-candidatas-a-camara-cai-24-em-2026)_
+
+- **[2026-08-27 18:58 UTC]** Justiça do DF suspende imposto de exportação de 12% sobre petróleo; arrecadação já chega a R$ 7,9 bilhões
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/27/justica-federal-do-df-suspende-imposto-de-exportacao-de-12percent-sobre-petroleo.ghtml)_
+
+- **[2026-08-27 14:52 UTC]** Justiça do DF barra imposto de exportação a petroleiras após governo prorrogar cobrança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-prorroga-imposto-de-exportacao-a-petroleiras-mas-justica-barra-cobranca.shtml)_
+
+- **[2026-08-27 14:01 UTC]** Três Poderes se unem num pacto de conveniências mútuas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/tres-poderes-se-unem-num-pacto-de-conveniencias-mutuas.shtml)_
+
+- **[2026-08-27 13:27 UTC]** Senador rejeita emendas, entrega relatório e fim da escala 6x1 fica pronto para votação na CCJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/senador-rejeita-emendas-entrega-relatorio-e-fim-da-escala-6x1-fica-pronta-para-votacao-na-ccj.shtml)_
+
+- **[2026-08-27 12:00 UTC]** Governo pretende prorrogar por mais 60 dias imposto sobre petroleiras, e empresas vão à Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-considera-prorrogar-imposto-de-12-nas-exportacoes-de-petroleo-e-empresas-vao-a-justica.shtml)_
+
+- **[2026-08-27 19:16 UTC]** Prefeitura de SP avalia impacto de decisão da Justiça sobre zoneamento; Nunes não descarta novo PL
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/prefeitura-de-sp-avalia-impacto-de-decisao-da-justica-sobre-zoneamento-nunes-nao-descarta-novo-pl.shtml)_
+
+- **[2026-08-27 23:31 UTC]** Lula e chefes do Legislativo destravam proposta para acabar com a jornada 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-e-chefes-do-legislativo-destravam-proposta-para-acabar-com-a-jornada-6x1/)_
+
+- **[2026-08-29 03:00 UTC]** VÍDEO: De onde sai o dinheiro das campanhas políticas?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/29/video-de-onde-sai-o-dinheiro-das-campanhas-politicas.ghtml)_
+
+- **[2026-08-28 22:39 UTC]** g1 passa a publicar reportagens automáticas com dados dos candidatos das Eleições 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/g1-passa-a-publicar-reportagens-automaticas-com-dados-dos-candidatos-das-eleicoes-2026.ghtml)_
+
+- **[2026-08-29 16:19 UTC]** Motta atende a Lula e adianta votação do fim da “taxa das blusinhas” logo após comissão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/motta-atende-lula-adianta-votacao-fim-taxa-das-blusinhas/)_
+

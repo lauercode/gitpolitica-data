@@ -26,3 +26,9 @@
 - **[2026-08-21 21:16 UTC]** Juiz dos EUA diz que registro que baseou ordem de Moraes para prender Filipe Martins é falso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/juiz-eua-registro-baseou-ordem-moraes-prender-filipe-martins-falso/)_
 
+- **[2026-08-26 02:18 UTC]** Moraes autoriza visitas de Carlos e Flávio Bolsonaro a Filipe Martins na prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visitas-de-carlos-e-flavio-bolsonaro-a-filipe-martins-na-prisao/)_
+
+- **[2026-08-27 16:23 UTC]** Festival do Rio seleciona filmes de Gabriel Martins e Aly Muritiba; veja a lista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/festival-do-rio-seleciona-filmes-de-gabriel-martins-e-aly-muritiba-veja-a-lista.shtml)_
+

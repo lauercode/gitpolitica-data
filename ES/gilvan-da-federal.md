@@ -215,3 +215,60 @@
 - **[2026-08-25 00:06 UTC]** Zema propõe ajuste fiscal para baixar juros a 6%, sem detalhar medidas, e defende anistia para condenados do 8 de janeiro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
 
+- **[2026-08-27 09:23 UTC]** Usuários relatam falhas no Caixa Tem e dificuldade para acessar contas nesta quinta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/usuarios-relatam-falhas-no-caixa-tem-e-dificuldade-para-acessar-contas-nesta-quinta.shtml)_
+
+- **[2026-08-27 06:00 UTC]** Jair Renan Bolsonaro tem desconto de R$ 4.500 no salário por faltar a sessões na Câmara de Balneário Camboriú
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/jair-renan-bolsonaro-tem-desconto-de-r-4500-no-salario-por-faltar-a-sessoes-na-camara-de-balneario-camboriu.shtml)_
+
+- **[2026-08-26 14:48 UTC]** PF mira sociedade oculta entre Lulinha e dono do sítio de Atibaia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-mira-sociedade-oculta-entre-lulinha-e-dono-do-sitio-de-atibaia/)_
+
+- **[2026-08-15 03:52 UTC]** Bancada evangélica trava orçamento federal para derrubar vetos de Lula
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/bancada-evangelica-trava-orcamento-federal-para-derrubar-vetos-de-lula/)_
+
+- **[2026-08-21 21:00 UTC]** Campanha de candidatos a deputado federal se concentra no Instagram
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299588-campanha-de-candidatos-a-deputado-federal-se-concentra-no-instagram)_
+
+- **[2026-08-27 16:30 UTC]** Aécio deve anunciar candidatura ao Senado por MG usando brecha na lei eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/aecio-deve-anunciar-candidatura-ao-senado-por-mg-usando-brecha-na-lei-eleitoral.shtml)_
+
+- **[2026-08-27 16:05 UTC]** Confira a partir das 21h desta quinta (27) o resultado do concurso 3050 da Mega-Sena
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-a-partir-das-21h-desta-quinta-27-o-resultado-do-concurso-3050-da-mega-sena.shtml)_
+
+- **[2026-08-27 14:52 UTC]** Justiça do DF barra imposto de exportação a petroleiras após governo prorrogar cobrança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-prorroga-imposto-de-exportacao-a-petroleiras-mas-justica-barra-cobranca.shtml)_
+
+- **[2026-08-27 14:11 UTC]** Depoimento de Vorcaro à PF é adiado após problema técnico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/depoimento-de-vorcaro-a-pf-e-adiado-apos-problema-tecnico.shtml)_
+
+- **[2026-08-27 13:04 UTC]** 'Teto de 12% é desafiador', aponta Caixa sobre limite no juro habitacional
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/teto-de-12-e-desafiador-aponta-caixa-sobre-limite-no-juro-habitacional.shtml)_
+
+- **[2026-08-27 20:37 UTC]** Quaest mostra Alan Rick com 33%, Mailza com 24% e Bocalom com 15% na disputa pelo Governo do Acre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/quaest-mostra-alan-rick-com-33-mailza-com-24-e-bocalom-com-15-na-disputa-pelo-governo-do-acre.shtml)_
+
+- **[2026-08-27 18:31 UTC]** MEC corrige prazo e encerra adesão ao Desenrola Fies na próxima segunda (31)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/mec-corrige-prazo-e-encerra-adesao-ao-desenrola-fies-na-proxima-segunda-31.shtml)_
+
+- **[2026-08-27 16:05 UTC]** Confira o resultado do concurso 3050 da Mega-Sena sorteado nesta quinta (27)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-a-partir-das-21h-desta-quinta-27-o-resultado-do-concurso-3050-da-mega-sena.shtml)_
+
+- **[2026-08-27 22:53 UTC]** Aécio Neves pode ser anunciado nesta sexta-feira como candidato ao Senado Federal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aecio-neves-pode-ser-anunciado-nesta-sexta-feira-como-candidato-ao-senado-federal/)_
+
+- **[2026-08-27 16:05 UTC]** Mega-Sena 3050 acumula e premiação pode chegar a R$ 30 milhões no domingo (30)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-a-partir-das-21h-desta-quinta-27-o-resultado-do-concurso-3050-da-mega-sena.shtml)_
+
+- **[2026-08-28 20:09 UTC]** Eleição para deputado federal mobiliza R$ 982 milhões em recursos
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1301013-eleicao-para-deputado-federal-mobiliza-r-982-milhoes-em-recursos)_
+
+- **[2026-08-28 13:44 UTC]** Mesmo com Desenrola 2.0, inadimplência bancária sobe e bate recorde em julho
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/28/mesmo-com-desenrola-20-inadimplencia-bancaria-sobe-e-bate-recorde-em-julho.ghtml)_
+
+- **[2026-08-28 19:00 UTC]** Aécio confirma candidatura ao Senado por Minas Gerais e nega apoio a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aecio-confirma-candidatura-ao-senado-por-minas-gerais-e-nega-apoio-a-lula/)_
+
+- **[2026-08-29 18:00 UTC]** Filho de Eymael herda jingle histórico do pai para candidatura a deputado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/filho-de-eymael-herda-jingle-historico-do-pai-para-candidatura-a-deputado.shtml)_
+

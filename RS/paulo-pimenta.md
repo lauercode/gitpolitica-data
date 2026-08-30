@@ -20,3 +20,6 @@
 - **[2026-08-24 22:28 UTC]** Quaest no RS para o Senado: Manuela d'Ávila (PSOL), 12%; Paulo Pimenta (PT), 9%; Marcel van Hattem (Novo), 9%; Ubiratan Sanderson (PL), 8%; Germano Rigotto (MDB), 8%
   _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/24/quaest-rs-senado-24-agosto.ghtml)_
 
+- **[2026-08-29 15:35 UTC]** Candidato pela 4ª vez pelo PCO, Rui Costa Pimenta defende armar população e dissolver PM
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidato-pela-4a-vez-pelo-pco-rui-costa-pimenta-defende-armar-populacao-e-dissolver-pm.shtml)_
+

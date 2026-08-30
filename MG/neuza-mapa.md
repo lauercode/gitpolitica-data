@@ -5,3 +5,9 @@
 
 ## Histórico
 
+- **[2026-08-27 08:00 UTC]** Autismo entra na pauta de cinco presidenciáveis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/vidas-atipicas/2026/08/autismo-entra-na-pauta-de-cinco-presidenciaveis.shtml)_
+
+- **[2026-08-29 13:32 UTC]** Decisão sobre lei de zoneamento vai parar obras em SP? Confira perguntas e respostas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/decisao-sobre-lei-de-zoneamento-vai-parar-obras-em-sp-confira-perguntas-e-respostas.shtml)_
+

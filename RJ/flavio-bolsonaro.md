@@ -305,3 +305,93 @@
 - **[2026-08-25 00:06 UTC]** Zema propõe ajuste fiscal para baixar juros a 6%, sem detalhar medidas, e defende anistia para condenados do 8 de janeiro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
 
+- **[2026-08-27 12:30 UTC]** Lula e Flávio Bolsonaro partem para ofensiva em programa eleitoral com 'Dark Horse' e endividamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-partem-para-ofensiva-em-programa-eleitoral-com-dark-horse-e-endividamento.shtml)_
+
+- **[2026-08-27 10:00 UTC]** Campanha de Flávio Bolsonaro reforça estratégia digital e avalia 'TV própria' 24 horas até o fim da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/campanha-de-flavio-bolsonaro-reforca-estrategia-digital-e-avalia-tv-propria-24-horas-ate-o-fim-da-eleicao.shtml)_
+
+- **[2026-08-27 08:00 UTC]** 'Dark Horse', estrangeiro onde?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/dark-horse-estrangeiro-onde.shtml)_
+
+- **[2026-08-27 04:02 UTC]** O que pesa contra Flávio Bolsonaro nas eleições de 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/o-que-pesa-contra-flavio-bolsonaro-nas-eleicoes-de-2026.shtml)_
+
+- **[2026-08-26 02:18 UTC]** Moraes autoriza visitas de Carlos e Flávio Bolsonaro a Filipe Martins na prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visitas-de-carlos-e-flavio-bolsonaro-a-filipe-martins-na-prisao/)_
+
+- **[2026-08-26 00:15 UTC]** Lula ou Jair Bolsonaro: quem passaria a faixa presidencial para Flávio se ele for eleito?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-ou-jair-bolsonaro-quem-passaria-a-faixa-presidencial-para-flavio-se-ele-for-eleito/)_
+
+- **[2026-08-25 21:46 UTC]** Site de Flávio Bolsonaro sofre 3.250 ataques em oito dias, diz equipe
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/site-de-flavio-bolsonaro-sofre-3-250-ataques-em-oito-dias-diz-equipe/)_
+
+- **[2026-08-25 21:28 UTC]** Justiça nega pedido de Lulinha para derrubar vídeo de Flávio Bolsonaro sobre fraudes no INSS
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-nega-pedido-de-lulinha-para-derrubar-video-de-flavio-bolsonaro-sobre-fraudes-no-inss/)_
+
+- **[2026-08-25 17:37 UTC]** Flávio aposta em caso Lulinha para desgastar candidatura de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-caso-lulinha-para-desgastar-candidatura-lula/)_
+
+- **[2026-08-25 15:39 UTC]** Flávio Bolsonaro inicia campanha presidencial no Nordeste
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-inicia-campanha-presidencial-no-nordeste/)_
+
+- **[2026-08-20 20:08 UTC]** Lulinha processa Flávio Bolsonaro e pede remoção imediata de vídeo sobre farra do INSS
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/lulinha-processa-flavio-bolsonaro-e-pede-remocao-imediata-de-video-sobre-farra-do-inss/)_
+
+- **[2026-08-25 11:08 UTC]** Veja a distância entre Lula e Flávio Bolsonaro segundo o agregador de pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-26 08:00 UTC]** Por que mulheres e homens votam cada vez mais diferente — e como isso pode definir eleição entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cewr7rp1yppo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-23 23:25 UTC]** Quem são os candidatos à Presidência na Eleição 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-27 12:30 UTC]** Lula e Flávio Bolsonaro preveem ofensiva em programa eleitoral com 'Dark Horse' e endividamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-partem-para-ofensiva-em-programa-eleitoral-com-dark-horse-e-endividamento.shtml)_
+
+- **[2026-08-27 19:21 UTC]** Lula vai associar Flávio Bolsonaro a rachadinha, Vorcaro e miliciano em estreia de propaganda eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/lula-vai-associar-flavio-bolsonaro-a-rachadinha-vorcaro-e-miliciano-em-estreia-de-propaganda-eleitoral.shtml)_
+
+- **[2026-08-27 18:25 UTC]** TSE marca para terça (1º) julgamento sobre avatar de Bolsonaro e deve fixar tese sobre deepfakes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/tse-marca-para-terca-feira-1o-julgamento-sobre-avatar-de-bolsonaro-e-deve-fixar-tese-sobre-deepfakes.shtml)_
+
+- **[2026-08-29 00:48 UTC]** Vídeos: Tralli e Renata entrevistam Flávio Bolsonaro, candidato a presidente pelo PL
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-flavio-bolsonaro-candidato-a-presidente-pelo-pl.ghtml)_
+
+- **[2026-08-29 14:41 UTC]** Flávio Bolsonaro renega ajuste fiscal; direita já pode defender a democracia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/08/flavio-bolsonaro-renega-ajuste-fiscal-direita-ja-pode-defender-a-democracia.shtml)_
+
+- **[2026-08-29 14:29 UTC]** Previsíveis, Lula e Flávio correm atrás do eleitor-pêndulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/previsiveis-lula-e-flavio-correm-atras-do-eleitor-pendulo.shtml)_
+
+- **[2026-08-29 14:22 UTC]** Lula diz que enfrenta poderosos, e Flávio Bolsonaro busca voto feminino em primeiro programa na TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-enfrenta-poderosos-e-flavio-bolsonaro-busca-voto-feminino-em-primeiro-programa-na-tv.shtml)_
+
+- **[2026-08-28 23:52 UTC]** Flávio diz que não é preciso mexer em aposentadorias ou no salário mínimo para fazer ajuste fiscal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/flavio-diz-que-nao-e-preciso-mexer-em-aposentadorias-ou-no-salario-minimo-para-fazer-ajuste-fiscal.shtml)_
+
+- **[2026-08-29 14:01 UTC]** Em quais pesquisas Flávio Bolsonaro está à frente de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/em-quais-pesquisas-flavio-bolsonaro-esta-a-frente-de-lula/)_
+
+- **[2026-08-28 18:59 UTC]** Oposição aponta que medo de punições do STF trava alianças do Centrão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-aponta-que-medo-de-punicoes-do-stf-trava-aliancas-do-centrao/)_
+
+- **[2026-08-28 17:49 UTC]** PT abre propaganda de Lula na TV com ataque a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-abre-propaganda-de-lula-na-tv-com-ataque-a-flavio-bolsonaro/)_
+
+- **[2026-08-28 12:17 UTC]** Juíza mantém vídeo de Janones como “lagartixa” e cita Flávio Bolsonaro para definir limite da sátira
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiza-mante-video-de-janones-como-lagartixa-e-cita-flavio-bolsonaro-para-definir-limite-de-satira/)_
+
+- **[2026-08-28 10:17 UTC]** Qual o plano de Flávio Bolsonaro para o Nordeste do Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/qual-o-plano-de-flavio-bolsonaro-para-o-nordeste-do-brasil/)_
+
+- **[2026-08-29 02:17 UTC]** Flávio Bolsonaro na Globo: o que disse o candidato à Presidência na entrevista à emissora
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg5973jpn21o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-29 16:17 UTC]** Em Angra, Flávio Bolsonaro defende Angra 3 e licenças para obras de resorts
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/em-angra-flavio-bolsonaro-defende-angra-3-e-licencas-para-obras-de-resorts.shtml)_
+
+- **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
+

@@ -23,3 +23,6 @@
 - **[2026-08-24 20:19 UTC]** PM anuncia ocupação do Complexo de Israel, no Rio, por tempo indeterminado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/pm-anuncia-ocupacao-do-complexo-de-israel-no-rio-por-tempo-indeterminado.shtml)_
 
+- **[2026-08-29 08:00 UTC]** É um sonho que tenho vivido, diz Amaury Lorenzo sobre papel em 'Por Você'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/e-um-sonho-que-tenho-vivido-diz-amaury-lorenzo-sobre-papel-em-por-voce.shtml)_
+

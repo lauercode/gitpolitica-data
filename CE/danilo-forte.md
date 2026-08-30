@@ -32,3 +32,12 @@
 - **[2026-08-25 00:06 UTC]** Zema propõe ajuste fiscal para baixar juros a 6%, sem detalhar medidas, e defende anistia para condenados do 8 de janeiro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
 
+- **[2026-08-27 07:00 UTC]** CEO do Hcor defende prova para médicos e cobra regulação de novas escolas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/ceo-do-hcor-defende-prova-para-medicos-e-cobra-regulacao-de-novas-escolas.shtml)_
+
+- **[2026-08-27 20:46 UTC]** Cuba registra novo apagão, e 4 de 5 províncias no leste do país ficam no escuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/cuba-registra-novo-apagao-e-4-de-5-provincias-no-leste-do-pais-ficam-no-escuro.shtml)_
+
+- **[2026-08-29 06:00 UTC]** Alta do petróleo impulsiona venda de carros elétricos no mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/alta-do-petroleo-impulsiona-venda-de-carros-eletricos-no-mundo.shtml)_
+

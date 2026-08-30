@@ -5,3 +5,9 @@
 
 ## Histórico
 
+- **[2026-08-27 09:18 UTC]** Fantasma do rebaixamento divide Santos e Vasco; Abel Ferreira cobra pés no chão no Palmeiras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/fantasma-do-rebaixamento-divide-santos-e-vasco-abel-ferreira-cobra-pes-no-chao-no-palmeiras.shtml)_
+
+- **[2026-08-29 13:00 UTC]** Abel Ferreira, como é habitual, foi agressivo e soberbo em entrevista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2026/08/abel-ferreira-como-e-habitual-foi-agressivo-e-soberbo-em-entrevista.shtml)_
+
