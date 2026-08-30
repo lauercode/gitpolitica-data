@@ -17,3 +17,6 @@
 - **[2026-08-27 13:01 UTC]** Presidente da federação de futebol da Nigéria renuncia em meio a acusações de corrupção
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/presidente-da-federacao-de-futebol-da-nigeria-renuncia-em-meio-a-acusacoes-de-corrupcao.shtml)_
 
+- **[2026-08-30 12:32 UTC]** Tiago Leifert sai em defesa de Neymar, e especialista em leitura labial rebate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/tiago-leifert-sai-em-defesa-de-neymar-e-especialista-em-leitura-labial-rebate.shtml)_
+
