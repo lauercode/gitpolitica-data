@@ -23,3 +23,6 @@
 - **[2026-08-29 08:43 UTC]** Aeroporto de Nashville, onde Dolly Parton firmou carreira, pode receber o seu nome
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/aeroporto-de-nashville-onde-dolly-parton-firmou-carreira-pode-receber-o-seu-nome.shtml)_
 
+- **[2026-08-29 20:11 UTC]** Zélia Duncan relembra afastamento de Rita Lee: 'Tristeza que vou levar pra sempre'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/08/zelia-duncan-relembra-afastamento-de-rita-lee-tristeza-que-vou-levar-pra-sempre.shtml)_
+
