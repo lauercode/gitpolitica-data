@@ -14,3 +14,6 @@
 - **[2026-08-28 18:00 UTC]** Vorcaro nega corrupção de servidores do BC para informarem sobre liquidação do Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-nega-corrupcao-servidores-banco-central/)_
 
+- **[2026-08-30 15:54 UTC]** Servidores do INSS pedem inclusão em MP para receber adicional de fronteira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/servidores-do-inss-pedem-inclusao-em-mp-para-receber-adicional-de-fronteira.shtml)_
+
