@@ -20,3 +20,6 @@
 - **[2026-08-29 16:17 UTC]** Em Angra, Flávio Bolsonaro defende Angra 3 e licenças para obras de resorts
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/em-angra-flavio-bolsonaro-defende-angra-3-e-licencas-para-obras-de-resorts.shtml)_
 
+- **[2026-08-30 13:38 UTC]** Flávio Bolsonaro quer retomar obras de Angra 3 e resorts na cidade fluminense
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-retomar-obras-angra-3-resorts-cidade-fluminense/)_
+
