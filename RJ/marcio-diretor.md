@@ -14,3 +14,6 @@
 - **[2026-08-28 14:27 UTC]** PF atua sem proteger nem perseguir investigados e 'livre de qualquer viés político', diz diretor
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/pf-atua-sem-proteger-nem-perseguir-investigados-e-livre-de-qualquer-vies-politico-diz-diretor-geral.ghtml)_
 
+- **[2026-08-30 12:00 UTC]** Diretor de órgão da Prefeitura de SP relatou ameaça de empresa desclassificada de licitação da iluminação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/diretor-de-orgao-da-prefeitura-de-sp-relatou-ameaca-de-empresa-desclassificada-de-licitacao-da-iluminacao.shtml)_
+
