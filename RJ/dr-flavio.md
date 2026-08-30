@@ -566,3 +566,6 @@
 - **[2026-08-27 22:49 UTC]** Flávio Bolsonaro aciona TSE contra Lula por uso do Palácio da Alvorada em período eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/flavio-tse-lula-alvorada.ghtml)_
 
+- **[2026-08-27 22:48 UTC]** Quaest em Roraima: Flávio Bolsonaro, 52%; Lula, 17%
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/27/quaest-roraima-presidente-27-agosto.ghtml)_
+
