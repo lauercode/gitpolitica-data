@@ -14,3 +14,6 @@
 - **[2026-08-29 21:47 UTC]** Após empréstimo de R$ 12 bilhões, governo quer repassar R$ 6 bilhões aos Correios
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/apos-emprestimo-de-r-12-bilhoes-governo-quer-repassar-r-6-bilhoes-aos-correios/)_
 
+- **[2026-08-28 01:14 UTC]** Lula descarta vender Correios e diz que dívida pública não preocupa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/lula-correios-divida-publica.ghtml)_
+
