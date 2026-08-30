@@ -59,3 +59,6 @@
 - **[2026-08-30 12:00 UTC]** Viadutos de acesso à zona leste devem ser demolidos após correção de tombamento no centro histórico de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/viadutos-de-acesso-a-zona-leste-devem-ser-demolidos-apos-correcao-de-tombamento-no-centro-historico-de-sp.shtml)_
 
+- **[2026-08-29 03:01 UTC]** Voto para senador também escolhe dois substitutos; 42 suplentes assumiram o mandato desde 2019
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/voto-para-senador-tambem-escolhe-dois-substitutos-42-suplentes-assumiram-o-mandato-desde-2019.ghtml)_
+
