@@ -17,3 +17,6 @@
 - **[2026-08-30 02:43 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Augusto Cury à Globo
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/29/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-augusto-cury-a-globo.ghtml)_
 
+- **[2026-08-29 02:41 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Flávio Bolsonaro à Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/28/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-flavio-bolsonaro-a-globo.ghtml)_
+
