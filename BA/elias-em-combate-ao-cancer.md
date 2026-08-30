@@ -23,3 +23,6 @@
 - **[2026-08-29 08:43 UTC]** Aeroporto de Nashville, onde Dolly Parton firmou carreira, pode receber o seu nome
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/aeroporto-de-nashville-onde-dolly-parton-firmou-carreira-pode-receber-o-seu-nome.shtml)_
 
+- **[2026-08-30 04:00 UTC]** Hospital em São Paulo usa afeto e diversão para aliviar tratamento de câncer infantil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/hospital-em-sao-paulo-usa-afeto-e-diversao-para-aliviar-tratamento-de-cancer-infantil.shtml)_
+
