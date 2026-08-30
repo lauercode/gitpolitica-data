@@ -29,3 +29,6 @@
 - **[2026-08-29 06:00 UTC]** Veja cinco capacidades preocupantes da IA expostas no ataque de agentes da OpenAI
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/veja-cinco-capacidades-preocupantes-da-ia-expostas-no-ataque-de-agentes-da-openai.shtml)_
 
+- **[2026-08-30 04:32 UTC]** Ataque a tiros em festa rave na Suíça mata uma pessoa e fere cinco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/ataque-a-tiros-em-festa-rave-na-suica-mata-uma-pessoa-e-fere-cinco.shtml)_
+
