@@ -35,3 +35,6 @@
 - **[2026-08-29 21:32 UTC]** Governo Trump não pode deportar estudantes por críticas a Israel, decide juíza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/governo-trump-nao-pode-deportar-estudantes-criticos-a-israel-decide-juiza.shtml)_
 
+- **[2026-08-29 20:30 UTC]** Tarifaço de Trump e Lei Magnitsky já são interferência estrangeira nas eleições, diz leitor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/tarifaco-de-trump-e-lei-magnitsky-ja-sao-interferencia-estrangeira-nas-eleicoes-diz-leitor.shtml)_
+
