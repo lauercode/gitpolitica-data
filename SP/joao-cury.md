@@ -104,3 +104,6 @@
 - **[2026-08-29 22:35 UTC]** Augusto Cury não detalha planos econômicos e fala em taxar bets em mais de 50%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/augusto-cury-nao-detalha-planos-economicos-e-fala-em-taxar-bets-em-mais-de-50.shtml)_
 
+- **[2026-08-30 01:27 UTC]** Augusto Cury defende taxação de 52% sobre bets, corte de ministérios e secretaria de IA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-defende-taxacao-de-52-sobre-bets-corte-de-ministerios-e-secretaria-de-ia/)_
+
