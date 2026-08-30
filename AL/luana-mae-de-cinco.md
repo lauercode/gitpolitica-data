@@ -35,3 +35,6 @@
 - **[2026-08-30 09:00 UTC]** Fusões e aquisições de empresas chegam a US$ 2,4 trilhões entre janeiro e maio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/fusoes-e-aquisicoes-de-empresas-chegam-a-us-24-trilhoes-entre-janeiro-e-maio.shtml)_
 
+- **[2026-08-27 16:14 UTC]** TSE aprova envio de tropas federais para cinco estados
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-aprova-envio-de-tropas-federais-para-cinco-estados)_
+
