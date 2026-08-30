@@ -146,3 +146,6 @@
 - **[2026-08-29 16:19 UTC]** Motta atende a Lula e adianta votação do fim da “taxa das blusinhas” logo após comissão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/motta-atende-lula-adianta-votacao-fim-taxa-das-blusinhas/)_
 
+- **[2026-08-28 13:22 UTC]** Câmara deve votar na próxima segunda MP do fim da taxa das blusinhas; Congresso definiu aliada de Lula como relatora
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/congresso-define-aliados-de-lula-como-presidente-e-relatora-de-comissao-da-mp-do-fim-da-taxa-das-blusinhas.ghtml)_
+
