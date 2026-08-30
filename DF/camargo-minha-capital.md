@@ -29,3 +29,6 @@
 - **[2026-08-29 17:55 UTC]** Soldados atacam aeroporto em tentativa de golpe no Níger, diz governo militar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/soldados-atacam-aeroporto-em-tentativa-de-golpe-no-niger-diz-governo-militar.shtml)_
 
+- **[2026-08-29 22:00 UTC]** Justiça corrigiu a revisão da revisão, mas não o erro de planejamento urbano em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/justica-corrigiu-a-revisao-da-revisao-mas-nao-o-erro-de-planejamento-urbano-em-sp.shtml)_
+
