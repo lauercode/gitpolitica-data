@@ -23,3 +23,6 @@
 - **[2026-08-29 01:43 UTC]** “Quem deve explicações é o Lula”, diz Flávio sobre relação com dono do Banco Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-deve-explicacoes-e-o-lula-diz-flavio-sobre-caso-do-banco-master/)_
 
+- **[2026-08-30 10:00 UTC]** Dono da Troma diz que Hollywood tenta destruir produtora há 50 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/dono-da-troma-diz-que-hollywood-tenta-destruir-produtora-ha-50-anos.shtml)_
+
