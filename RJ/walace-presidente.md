@@ -173,3 +173,6 @@
 - **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
 
+- **[2026-08-30 00:59 UTC]** VÍDEOS: Tralli e Renata entrevistam Augusto Cury, candidato a presidente pelo Avante
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-augusto-cury-candidato-a-presidente-pelo-avante.ghtml)_
+
