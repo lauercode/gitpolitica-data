@@ -458,3 +458,6 @@
 - **[2026-08-27 23:13 UTC]** Quaest em SE: Lula, 53%; Flávio Bolsonaro 19%
   _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/27/quaest-se-presidente-27-de-agosto.ghtml)_
 
+- **[2026-08-27 22:49 UTC]** Flávio Bolsonaro aciona TSE contra Lula por uso do Palácio da Alvorada em período eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/flavio-tse-lula-alvorada.ghtml)_
+
