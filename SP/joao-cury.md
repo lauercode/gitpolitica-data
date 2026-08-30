@@ -101,3 +101,6 @@
 - **[2026-08-28 13:11 UTC]** Augusto Cury dispara nas redes como “agente da despolarização”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-dispara-nas-redes-como-agente-da-despolarizacao/)_
 
+- **[2026-08-29 22:35 UTC]** Augusto Cury não detalha planos econômicos e fala em taxar bets em mais de 50%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/augusto-cury-nao-detalha-planos-economicos-e-fala-em-taxar-bets-em-mais-de-50.shtml)_
+
