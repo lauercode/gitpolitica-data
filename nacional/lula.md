@@ -950,3 +950,6 @@
 - **[2026-08-28 10:00 UTC]** Roberta Luchsinger diz que pediu apoio a Marcola, mas não pagou, e que Lulinha é amigo antes de Lula ser presidente
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/roberta-luchsinger-diz-que-pediu-apoio-a-marcola-mas-nao-pagou-e-que-lulinha-e-amigo-antes-de-lula-ser-presidente.ghtml)_
 
+- **[2026-08-27 19:45 UTC]** PEC da 6×1 une interesses eleitorais de Lula e dos presidentes do Congresso
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/pec-da-6x1-une-interesses-eleitorais-de-lula-e-dos-presidentes-do-congresso/)_
+
