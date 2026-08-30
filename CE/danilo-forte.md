@@ -44,3 +44,6 @@
 - **[2026-08-29 23:00 UTC]** Renda do trabalhador se aproxima do salário mínimo em sete estados do Nordeste, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/renda-do-trabalhador-se-aproxima-do-salario-minimo-em-sete-estados-do-nordeste-diz-estudo.shtml)_
 
+- **[2026-08-30 15:34 UTC]** Defesa Civil emite alerta para chuva, raios, vento forte e granizo na Grande São Paulo neste domingo (30)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/defesa-civil-emite-alerta-para-chuva-raios-vento-forte-e-granizo-na-grande-sao-paulo-neste-domingo-30.shtml)_
+
