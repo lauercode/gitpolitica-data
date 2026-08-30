@@ -44,3 +44,6 @@
 - **[2026-08-27 22:35 UTC]** Quaest no AC: 58% aprovam e 24% desaprovam governo de Mailza Assis
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-no-ac-58percent-aprovam-e-24percent-desaprovam-governo-de-mailza-assis.ghtml)_
 
+- **[2026-08-29 23:00 UTC]** Única mulher negra candidata a presidente promete dobrar salário mínimo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo.shtml)_
+
