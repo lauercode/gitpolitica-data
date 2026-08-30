@@ -77,3 +77,6 @@
 - **[2026-08-29 22:37 UTC]** Lito Sousa diz confiar em tratamento: 'Vou ser o primeiro a controlar essa doença no mundo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/lito-sousa-diz-confiar-em-tratamento-vou-ser-o-primeiro-a-controlar-essa-doenca-no-mundo.shtml)_
 
+- **[2026-08-30 06:00 UTC]** Acordo da Meta frustra quem esperava desfecho similar ao vivido pela indústria do tabaco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/acordo-da-meta-frustra-quem-esperava-desfecho-similar-ao-vivido-pela-industria-do-tabaco.shtml)_
+
