@@ -26,3 +26,15 @@
 - **[2026-08-29 18:51 UTC]** Como a guerra do Irã reacendeu a disputa pelo Canal do Panamá
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c74e88e9kpeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-30 09:18 UTC]** O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9w4j2555qro?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-30 09:41 UTC]** Mortes no Nepal e na China chegam a quase 800, e autoridades fazem alertas sobre mudanças climáticas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mortes-no-nepal-e-na-china-chegam-a-quase-800-e-autoridades-fazem-alertas-sobre-mudancas-climaticas.shtml)_
+
+- **[2026-08-30 09:00 UTC]** Missão chinesa Change-7 ao polo lunar fica para 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mensageiro-sideral/2026/08/missao-chinesa-change-7-ao-polo-lunar-fica-para-2027.shtml)_
+
+- **[2026-08-30 09:00 UTC]** Missão chinesa Chang'e-7 ao polo lunar fica para 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mensageiro-sideral/2026/08/missao-chinesa-change-7-ao-polo-lunar-fica-para-2027.shtml)_
+

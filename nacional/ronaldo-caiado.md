@@ -23,3 +23,6 @@
 - **[2026-08-26 21:27 UTC]** Documentário BBC: O outro lado da guerra das facções em El Salvador
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cdx0lynj2qgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-29 17:57 UTC]** Primeiro programa eleitoral no rádio e TV tem ataques entre Lula e Flávio; Caiado e Cury completam exibição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-programa-eleitoral-radio-ataques-lula-flavio/)_
+

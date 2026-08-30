@@ -35,3 +35,9 @@
 - **[2026-08-29 16:00 UTC]** Mortes: Devota de Menina Izildinha, gostava de dirigir e de visitar sua terra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mortes-devota-de-menina-izildinha-gostava-de-dirigir-e-de-visitar-sua-terra.shtml)_
 
+- **[2026-08-30 09:41 UTC]** Mortes no Nepal e na China chegam a quase 800, e autoridades fazem alertas sobre mudanças climáticas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mortes-no-nepal-e-na-china-chegam-a-quase-800-e-autoridades-fazem-alertas-sobre-mudancas-climaticas.shtml)_
+
+- **[2026-08-30 12:00 UTC]** Podemos em breve ter a tecnologia necessária para alcançar outros sistemas estelares
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/podemos-em-breve-ter-a-tecnologia-necessaria-para-alcancar-outros-sistemas-estelares.shtml)_
+

@@ -11,3 +11,6 @@
 - **[2026-08-23 13:21 UTC]** EUA haviam proposto reduzir taxas sobre produtos do Canadá, diz representante de Trump a jornal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/eua-havia-proposto-reduzir-taxas-sobre-produtos-do-canada-diz-representante-de-trump-a-jornal.shtml)_
 
+- **[2026-08-30 05:00 UTC]** Governo de Mato Grosso tenta mudar acordo para permitir uso de madeira nativa em usina de biodiesel
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/governo-de-mato-grosso-tenta-mudar-acordo-para-permitir-uso-de-madeira-nativa-em-usina-de-biodiesel.shtml)_
+

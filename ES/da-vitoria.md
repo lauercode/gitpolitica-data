@@ -17,3 +17,6 @@
 - **[2026-08-29 10:43 UTC]** Chevron negocia expandir operações na Venezuela, uma possível vitória para Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/chevron-negocia-expandir-operacoes-na-venezuela-uma-possivel-vitoria-para-trump.shtml)_
 
+- **[2026-08-30 00:19 UTC]** Judô estreia no Spaten Fight com vitória de Rafaela Silva e derrota de Bia Souza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/judo-estreia-no-spaten-fight-com-vitoria-de-rafaela-silva-e-derrota-de-bia-souza.shtml)_
+

@@ -32,3 +32,24 @@
 - **[2026-08-29 02:51 UTC]** Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgy4rpz5rzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-29 21:32 UTC]** Governo Trump não pode deportar estudantes por críticas a Israel, decide juíza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/governo-trump-nao-pode-deportar-estudantes-criticos-a-israel-decide-juiza.shtml)_
+
+- **[2026-08-29 20:30 UTC]** Tarifaço de Trump e Lei Magnitsky já são interferência estrangeira nas eleições, diz leitor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/tarifaco-de-trump-e-lei-magnitsky-ja-sao-interferencia-estrangeira-nas-eleicoes-diz-leitor.shtml)_
+
+- **[2026-08-30 06:00 UTC]** Seis meses depois, guerra no Irã vira o atoleiro que Trump prometeu evitar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/seis-meses-depois-guerra-no-ira-vira-o-atoleiro-que-trump-prometeu-evitar.shtml)_
+
+- **[2026-08-30 04:00 UTC]** Parceria petrolífera de Trump na Venezuela depende de empresário controverso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/parceria-petrolifera-de-trump-na-venezuela-depende-de-empresario-controverso.shtml)_
+
+- **[2026-08-30 04:00 UTC]** Acordo de petróleo com os EUA é denunciado por ambos os lados da política venezuelana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/acordo-de-petroleo-com-os-eua-e-denunciado-por-ambos-os-lados-da-politica-venezuelana.shtml)_
+
+- **[2026-08-30 10:39 UTC]** Líder supremo do Irã pede união dos países muçulmanos diante do 'verdadeiro inimigo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/lider-supremo-do-ira-pede-uniao-dos-paises-muculmanos-diante-do-verdadeiro-inimigo.shtml)_
+
+- **[2026-08-30 13:55 UTC]** Petróleo da Venezuela será usado para reabastecer reservas dos EUA, diz Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/petroleo-da-venezuela-sera-usado-para-reabastecer-reservas-dos-eua-diz-trump.shtml)_
+

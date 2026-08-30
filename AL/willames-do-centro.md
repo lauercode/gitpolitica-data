@@ -32,3 +32,18 @@
 - **[2026-08-29 13:00 UTC]** Como memórias da guerra e do passado nazista estão no centro de disputa eleitoral na Alemanha
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c70lz2ky0rvo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-29 23:00 UTC]** Agro impulsiona interior e faz produtividade do Brasil mudar de endereço
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/agro-impulsiona-interior-e-faz-produtividade-do-brasil-mudar-de-endereco.shtml)_
+
+- **[2026-08-29 23:00 UTC]** Carlos Lacerda e sua máquina de ódio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/carlos-lacerda-e-sua-maquina-de-odio.shtml)_
+
+- **[2026-08-30 11:34 UTC]** Flávio Bolsonaro encontra ministro de Bukele, ignora violações e diz que há poucos presos no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-encontra-ministro-de-bukele-ignora-violacoes-e-diz-que-ha-poucos-presos-no-brasil.shtml)_
+
+- **[2026-08-30 11:00 UTC]** Interior ganha impulso com agro, e produtividade do Brasil muda de endereço
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/agro-impulsiona-interior-e-faz-produtividade-do-brasil-mudar-de-endereco.shtml)_
+
+- **[2026-08-30 12:00 UTC]** Viadutos de acesso à zona leste devem ser demolidos após correção de tombamento no centro histórico de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/viadutos-de-acesso-a-zona-leste-devem-ser-demolidos-apos-correcao-de-tombamento-no-centro-historico-de-sp.shtml)_
+

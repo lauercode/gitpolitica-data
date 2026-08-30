@@ -23,3 +23,6 @@
 - **[2026-08-28 20:08 UTC]** Mendonça dá 24 horas para X explicar filtro que limita recomendação de candidatos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-da-24-horas-para-x-explicar-filtro-que-limita-recomendacao-de-candidatos/)_
 
+- **[2026-08-30 14:15 UTC]** Mulheres do PT dizem ser tratadas como “laranjas” em evento com Lula em MG
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mulheres-pt-dizem-ser-tratadas-laranjas-evento-lula-mg/)_
+

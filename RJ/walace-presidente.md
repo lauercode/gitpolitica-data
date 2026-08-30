@@ -173,3 +173,30 @@
 - **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
 
+- **[2026-08-30 00:59 UTC]** VÍDEOS: Tralli e Renata entrevistam Augusto Cury, candidato a presidente pelo Avante
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-tralli-e-renata-entrevistam-augusto-cury-candidato-a-presidente-pelo-avante.ghtml)_
+
+- **[2026-08-29 23:18 UTC]** Presidente interina da Venezuela diz que acordo energético com os EUA vai durar 25 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/presidente-interina-da-venezuela-diz-que-acordo-energetico-com-os-eua-vai-durar-25-anos.shtml)_
+
+- **[2026-08-29 23:00 UTC]** Única mulher negra candidata a presidente promete dobrar salário mínimo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo.shtml)_
+
+- **[2026-08-29 13:02 UTC]** Lula chama Flávio Bolsonaro de amador e aventureiro por entrevista à TV Globo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-amador-aventureiro-entrevista-tv-globo/)_
+
+- **[2026-08-30 06:00 UTC]** Seis meses depois, guerra no Irã vira o atoleiro que Trump prometeu evitar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/seis-meses-depois-guerra-no-ira-vira-o-atoleiro-que-trump-prometeu-evitar.shtml)_
+
+- **[2026-08-30 04:00 UTC]** Bilionário Peter Thiel entra na mira da oposição argentina em reação a Milei
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/bilionario-peter-thiel-entra-na-mira-da-oposicao-argentina-em-reacao-a-milei.shtml)_
+
+- **[2026-08-29 23:18 UTC]** Delcy Rodríguez diz que acordo energético da Venezuela com os EUA vai durar 25 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/presidente-interina-da-venezuela-diz-que-acordo-energetico-com-os-eua-vai-durar-25-anos.shtml)_
+
+- **[2026-08-30 13:22 UTC]** O dia em que o Brasil mudou o sistema de votação… a um mês da eleição presidencial
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cedula-unica-eleitoral-criada-eleicao-jk/)_
+
+- **[2026-08-30 13:55 UTC]** Petróleo da Venezuela será usado para reabastecer reservas dos EUA, diz Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/petroleo-da-venezuela-sera-usado-para-reabastecer-reservas-dos-eua-diz-trump.shtml)_
+

@@ -167,3 +167,21 @@
 - **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
 
+- **[2026-08-29 17:57 UTC]** Primeiro programa eleitoral no rádio e TV tem ataques entre Lula e Flávio; Caiado e Cury completam exibição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-programa-eleitoral-radio-ataques-lula-flavio/)_
+
+- **[2026-08-29 13:02 UTC]** Lula chama Flávio Bolsonaro de amador e aventureiro por entrevista à TV Globo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-amador-aventureiro-entrevista-tv-globo/)_
+
+- **[2026-08-28 18:28 UTC]** Flávio culpa governo por risco de falência do Habib’s: “Não resistiu ao Lula”
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-culpa-governo-por-risco-de-falencia-do-habibs-nao-resistiu-ao-lula/)_
+
+- **[2026-08-30 14:15 UTC]** Mulheres do PT dizem ser tratadas como “laranjas” em evento com Lula em MG
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mulheres-pt-dizem-ser-tratadas-laranjas-evento-lula-mg/)_
+
+- **[2026-08-30 12:26 UTC]** Entidades do comércio lançam campanha para adiar votação do fim da escala 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/entidades-comercio-lancam-campanha-contra-fim-escala-6x1/)_
+
+- **[2026-08-30 15:43 UTC]** Flávio Bolsonaro encontra ministro de Bukele para tratar sobre segurança pública
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-encontra-ministro-bukele-tratar-seguranca-publica/)_
+

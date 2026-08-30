@@ -41,3 +41,6 @@
 - **[2026-08-29 06:00 UTC]** Alta do petróleo impulsiona venda de carros elétricos no mundo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/alta-do-petroleo-impulsiona-venda-de-carros-eletricos-no-mundo.shtml)_
 
+- **[2026-08-29 23:00 UTC]** Renda do trabalhador se aproxima do salário mínimo em sete estados do Nordeste, diz estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/renda-do-trabalhador-se-aproxima-do-salario-minimo-em-sete-estados-do-nordeste-diz-estudo.shtml)_
+

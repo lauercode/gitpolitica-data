@@ -11,3 +11,6 @@
 - **[2026-08-29 09:37 UTC]** Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y4klql8k9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-30 04:00 UTC]** Tirar gordura do corpo e colocar no rosto pode rejuvenescer? Veja riscos e benefícios do nanofat
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/tirar-gordura-do-corpo-e-colocar-no-rosto-pode-rejuvenescer-veja-riscos-e-beneficios-do-nanofat.shtml)_
+

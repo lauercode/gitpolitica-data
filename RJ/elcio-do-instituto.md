@@ -17,3 +17,12 @@
 - **[2026-08-29 08:00 UTC]** Após desarquivar caso, polícia marca reconstituição da morte de indígena de recente contato em Manaus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/apos-desarquivar-caso-policia-marca-reconstituicao-da-morte-de-indigena-de-recente-contato-em-manaus.shtml)_
 
+- **[2026-08-29 23:00 UTC]** Renda do trabalhador se aproxima do salário mínimo em sete estados do Nordeste, diz estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/renda-do-trabalhador-se-aproxima-do-salario-minimo-em-sete-estados-do-nordeste-diz-estudo.shtml)_
+
+- **[2026-08-29 22:00 UTC]** O mito do modelo Bukele de segurança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/o-mito-do-modelo-bukele-de-seguranca.shtml)_
+
+- **[2026-08-30 06:00 UTC]** 'Precisamos nos arriscar mais na ciência', diz Hugo Aguilaniu, que se prepara para deixar o Serrapilheira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/precisamos-nos-arriscar-mais-na-ciencia-diz-hugo-aguilaniu-que-se-prepara-para-deixar-o-serrapilheira.shtml)_
+

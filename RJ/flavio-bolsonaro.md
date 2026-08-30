@@ -395,3 +395,30 @@
 - **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
 
+- **[2026-08-29 23:00 UTC]** Presos, generais do golpe resenham livros, fazem fisioterapia e estudam à distância
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/presos-generais-do-golpe-resenham-livros-fazem-fisioterapia-e-estudam-a-distancia.shtml)_
+
+- **[2026-08-29 23:00 UTC]** Bolsonaro deu sinal de que tentaria golpe ao encher governo de militares, diz pesquisador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/bolsonaro-deu-sinal-de-que-tentaria-golpe-ao-encher-governo-de-militares-diz-pesquisador.shtml)_
+
+- **[2026-08-29 13:00 UTC]** A náusea no caminho das urnas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/muniz-sodre/2026/08/a-nausea-no-caminho-das-urnas.shtml)_
+
+- **[2026-08-29 13:02 UTC]** Lula chama Flávio Bolsonaro de amador e aventureiro por entrevista à TV Globo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-amador-aventureiro-entrevista-tv-globo/)_
+
+- **[2026-08-29 01:43 UTC]** “Quem deve explicações é o Lula”, diz Flávio sobre relação com dono do Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-deve-explicacoes-e-o-lula-diz-flavio-sobre-caso-do-banco-master/)_
+
+- **[2026-08-28 18:28 UTC]** Flávio culpa governo por risco de falência do Habib’s: “Não resistiu ao Lula”
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-culpa-governo-por-risco-de-falencia-do-habibs-nao-resistiu-ao-lula/)_
+
+- **[2026-08-30 11:34 UTC]** Flávio Bolsonaro encontra ministro de Bukele, ignora violações e diz que há poucos presos no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-encontra-ministro-de-bukele-ignora-violacoes-e-diz-que-ha-poucos-presos-no-brasil.shtml)_
+
+- **[2026-08-30 12:36 UTC]** Campanha de Lula faz ofensiva no TSE contra Flávio Bolsonaro, Caiado e Zema por postagens e discursos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/campanha-de-lula-faz-ofensiva-no-tse-contra-flavio-bolsonaro-caiado-e-zema-por-postagens-e-discursos.shtml)_
+
+- **[2026-08-30 15:43 UTC]** Flávio Bolsonaro encontra ministro de Bukele para tratar sobre segurança pública
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-encontra-ministro-bukele-tratar-seguranca-publica/)_
+

@@ -44,3 +44,18 @@
 - **[2026-08-28 15:07 UTC]** Entrevista deixa Lula e PT em pânico
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/sem-rodeios/entrevista-deixa-lula-e-pt-em-panico/)_
 
+- **[2026-08-29 23:00 UTC]** 'Memórias que tenho do meu irmão são de amor', diz Bruno Gagliasso sobre rompimento familiar por política
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/memorias-que-tenho-do-meu-irmao-sao-de-amor-diz-bruno-gagliasso-sobre-rompimento-familiar-por-politica.shtml)_
+
+- **[2026-08-29 22:02 UTC]** Respiração quadrada: como funciona um dos 'truques mais poderosos' para controlar o estresse
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/respiracao-quadrada-como-funciona-um-dos-truques-mais-poderosos-para-controlar-o-estresse.shtml)_
+
+- **[2026-08-30 06:00 UTC]** Governo do DF busca empresas para substituir BRB na gestão de pontos turísticos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-do-df-busca-empresas-para-substituir-brb-na-gestao-de-pontos-turisticos.shtml)_
+
+- **[2026-08-30 12:04 UTC]** Islândia rejeita aderir à União Europeia em referendo que revela divisão no país
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgyxj3jkxro?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-30 12:00 UTC]** Viadutos de acesso à zona leste devem ser demolidos após correção de tombamento no centro histórico de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/viadutos-de-acesso-a-zona-leste-devem-ser-demolidos-apos-correcao-de-tombamento-no-centro-historico-de-sp.shtml)_
+

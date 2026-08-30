@@ -272,3 +272,15 @@
 - **[2026-08-29 18:00 UTC]** Filho de Eymael herda jingle histórico do pai para candidatura a deputado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/filho-de-eymael-herda-jingle-historico-do-pai-para-candidatura-a-deputado.shtml)_
 
+- **[2026-08-29 21:32 UTC]** Governo Trump não pode deportar estudantes por críticas a Israel, decide juíza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/governo-trump-nao-pode-deportar-estudantes-criticos-a-israel-decide-juiza.shtml)_
+
+- **[2026-08-30 06:00 UTC]** Acordo da Meta frustra quem esperava desfecho similar ao vivido pela indústria do tabaco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/acordo-da-meta-frustra-quem-esperava-desfecho-similar-ao-vivido-pela-industria-do-tabaco.shtml)_
+
+- **[2026-08-30 11:08 UTC]** Confira o resultado do concurso 3051 da Mega-Sena sorteado neste domingo (30)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-o-resultado-do-concurso-3051-da-mega-sena-sorteado-neste-domingo-30.shtml)_
+
+- **[2026-08-30 11:08 UTC]** Mega-Sena 3051 acumula e premiação pode chegar a R$ 36 milhões na terça (1º)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-o-resultado-do-concurso-3051-da-mega-sena-sorteado-neste-domingo-30.shtml)_
+

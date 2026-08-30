@@ -41,3 +41,15 @@
 - **[2026-08-29 09:37 UTC]** Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y4klql8k9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-27 22:35 UTC]** Quaest no AC: 58% aprovam e 24% desaprovam governo de Mailza Assis
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-no-ac-58percent-aprovam-e-24percent-desaprovam-governo-de-mailza-assis.ghtml)_
+
+- **[2026-08-29 23:00 UTC]** Única mulher negra candidata a presidente promete dobrar salário mínimo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo.shtml)_
+
+- **[2026-08-30 14:15 UTC]** Comércio, serviços e turismo lançam campanha contra votação da escala 6x1 antes das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/comercio-servicos-e-turismo-lancam-campanha-contra-votacao-da-escala-6x1-antes-das-eleicoes.shtml)_
+
+- **[2026-08-30 14:00 UTC]** O prompt morreu: agora são 'loops' e 'graphs'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/08/o-prompt-morreu-agora-sao-loops-e-graphs.shtml)_
+

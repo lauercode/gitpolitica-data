@@ -83,3 +83,24 @@
 - **[2026-08-29 17:55 UTC]** Soldados atacam aeroporto em tentativa de golpe no Níger, diz governo militar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/soldados-atacam-aeroporto-em-tentativa-de-golpe-no-niger-diz-governo-militar.shtml)_
 
+- **[2026-08-29 22:00 UTC]** O mito do modelo Bukele de segurança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/o-mito-do-modelo-bukele-de-seguranca.shtml)_
+
+- **[2026-08-30 06:08 UTC]** Islândia recusa retomar negociações com a União Europeia, diz TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml)_
+
+- **[2026-08-30 09:41 UTC]** Mortes no Nepal e na China chegam a quase 800, e autoridades fazem alertas sobre mudanças climáticas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mortes-no-nepal-e-na-china-chegam-a-quase-800-e-autoridades-fazem-alertas-sobre-mudancas-climaticas.shtml)_
+
+- **[2026-08-30 08:31 UTC]** Sabatinas: Globo anuncia que Renata Lo Prete substitui Tralli e Renata Vasconcellos se houver 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/sabatinas-globo-anuncia-que-renata-lo-prete-substitui-tralli-e-renata-vasconcellos-se-houver-2o-turno.shtml)_
+
+- **[2026-08-30 06:08 UTC]** Islândia recusa em plebiscito retomar negociações de adesão à União Europeia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml)_
+
+- **[2026-08-30 12:04 UTC]** Islândia rejeita aderir à União Europeia em referendo que revela divisão no país
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgyxj3jkxro?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-30 16:21 UTC]** 'Fui sequestrada pela Coreia do Norte e forçada a casar com um soldado americano'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zwzrlprjo?at_medium=RSS&at_campaign=rss)_
+

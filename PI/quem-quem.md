@@ -71,3 +71,18 @@
 - **[2026-08-29 16:17 UTC]** Malik: Nome do filho de Maju Coutinho é raro no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/malik-nome-do-filho-de-maju-coutinho-e-raro-no-brasil.shtml)_
 
+- **[2026-08-29 23:00 UTC]** Direita no Chile propõe 'Museu da Verdade' para rivalizar com memorial da ditadura de Pinochet
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/direita-no-chile-propoe-museu-da-verdade-para-rivalizar-com-memorial-da-ditadura-de-pinochet.shtml)_
+
+- **[2026-08-29 22:37 UTC]** Lito Sousa diz confiar em tratamento: 'Vou ser o primeiro a controlar essa doença no mundo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/lito-sousa-diz-confiar-em-tratamento-vou-ser-o-primeiro-a-controlar-essa-doenca-no-mundo.shtml)_
+
+- **[2026-08-30 06:00 UTC]** Acordo da Meta frustra quem esperava desfecho similar ao vivido pela indústria do tabaco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/acordo-da-meta-frustra-quem-esperava-desfecho-similar-ao-vivido-pela-industria-do-tabaco.shtml)_
+
+- **[2026-08-30 08:31 UTC]** Sabatinas: Globo anuncia que Renata Lo Prete substitui Tralli e Renata Vasconcellos se houver 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/sabatinas-globo-anuncia-que-renata-lo-prete-substitui-tralli-e-renata-vasconcellos-se-houver-2o-turno.shtml)_
+
+- **[2026-08-30 13:00 UTC]** Famoso Quem: atriz aparece em foto ainda bebê; adivinhe quem é
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/famoso-quem-atriz-aparece-em-foto-ainda-bebe-adivinhe-quem-e.shtml)_
+

@@ -14,3 +14,6 @@
 - **[2026-08-29 16:09 UTC]** Secretário de Tesouro dos EUA diz que oscilações desordenadas do iene podem desestabilizar mercados globais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/secretario-de-tesouro-dos-eua-diz-que-oscilacoes-desordenadas-do-iene-podem-desestabilizar-mercados-globais.shtml)_
 
+- **[2026-08-29 21:00 UTC]** 'Imaginem se cada um decidir resolver conflitos com violência?', diz leitora sobre casos de linchamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/imaginem-se-cada-um-decidir-resolver-conflitos-com-violencia-diz-leitora-sobre-casos-de-linchamento.shtml)_
+

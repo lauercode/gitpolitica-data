@@ -14,3 +14,6 @@
 - **[2026-08-27 19:00 UTC]** Djavan celebra 50 anos de carreira com edição especial de seu primeiro álbum
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/djavan-celebra-50-anos-de-carreira-com-edicao-especial-de-seu-primeiro-album.shtml)_
 
+- **[2026-08-30 14:15 UTC]** Comércio, serviços e turismo lançam campanha contra votação da escala 6x1 antes das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/comercio-servicos-e-turismo-lancam-campanha-contra-votacao-da-escala-6x1-antes-das-eleicoes.shtml)_
+

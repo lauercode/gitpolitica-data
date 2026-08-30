@@ -17,3 +17,6 @@
 - **[2026-08-28 13:16 UTC]** TRF4 pune ex-juiz da Lava Jato com perda do cargo por furto de champanhe
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/trf4-pune-ex-juiz-da-lava-jato-com-perda-do-cargo-por-furto-de-champanhe/)_
 
+- **[2026-08-30 01:27 UTC]** Augusto Cury defende taxação de 52% sobre bets, corte de ministérios e secretaria de IA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-defende-taxacao-de-52-sobre-bets-corte-de-ministerios-e-secretaria-de-ia/)_
+

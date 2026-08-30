@@ -17,3 +17,6 @@
 - **[2026-08-29 17:30 UTC]** Lula “crava” aprovação do fim da escala 6×1 após acordo com Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-crava-aprovacao-do-fim-da-escala-6x1-apos-acordo-com-alcolumbre/)_
 
+- **[2026-08-30 14:02 UTC]** Propostas para frear STF se multiplicam no Congresso, mas travam sob Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/propostas-para-frear-stf-se-multiplicam-no-congresso-mas-travam-sob-alcolumbre/)_
+
