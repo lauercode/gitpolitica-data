@@ -212,3 +212,6 @@
 - **[2026-08-28 03:00 UTC]** Quaest: veja os números da eleição para presidente em 23 estados e no DF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/28/quaest-eleicao-presidente-23-estados-df.ghtml)_
 
+- **[2026-08-30 18:44 UTC]** Carlos Bolsonaro visita o pai e pede que ex-presidente “fique bem”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/carlos-bolsonaro-visita-pai-pede-ex-presidente-fique-bem/)_
+
