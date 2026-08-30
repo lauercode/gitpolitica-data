@@ -14,3 +14,6 @@
 - **[2026-08-28 13:44 UTC]** Mesmo com Desenrola 2.0, inadimplência bancária sobe e bate recorde em julho
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/28/mesmo-com-desenrola-20-inadimplencia-bancaria-sobe-e-bate-recorde-em-julho.ghtml)_
 
+- **[2026-08-30 06:08 UTC]** Islândia recusa em plebiscito retomar negociações de adesão à União Europeia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml)_
+
