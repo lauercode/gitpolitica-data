@@ -38,3 +38,6 @@
 - **[2026-08-29 20:30 UTC]** Tarifaço de Trump e Lei Magnitsky já são interferência estrangeira nas eleições, diz leitor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/tarifaco-de-trump-e-lei-magnitsky-ja-sao-interferencia-estrangeira-nas-eleicoes-diz-leitor.shtml)_
 
+- **[2026-08-30 06:00 UTC]** Seis meses depois, guerra no Irã vira o atoleiro que Trump prometeu evitar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/seis-meses-depois-guerra-no-ira-vira-o-atoleiro-que-trump-prometeu-evitar.shtml)_
+
