@@ -29,3 +29,6 @@
 - **[2026-08-30 11:00 UTC]** Interior ganha impulso com agro, e produtividade do Brasil muda de endereço
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/agro-impulsiona-interior-e-faz-produtividade-do-brasil-mudar-de-endereco.shtml)_
 
+- **[2026-08-28 09:00 UTC]** O acordão por trás do fim da escala 6×1. CPMI do Lulinha ganha força
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/bom-dia/acordao-fim-escala-6-1-cpmi-lulinha/)_
+
