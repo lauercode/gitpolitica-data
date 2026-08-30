@@ -167,3 +167,6 @@
 - **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
 
+- **[2026-08-29 17:57 UTC]** Primeiro programa eleitoral no rádio e TV tem ataques entre Lula e Flávio; Caiado e Cury completam exibição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-programa-eleitoral-radio-ataques-lula-flavio/)_
+
