@@ -11,3 +11,6 @@
 - **[2026-08-30 13:40 UTC]** O diretor de escola que salvou 900 estudantes das inundações no Nepal
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-28 14:27 UTC]** PF atua sem proteger nem perseguir investigados e 'livre de qualquer viés político', diz diretor
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/pf-atua-sem-proteger-nem-perseguir-investigados-e-livre-de-qualquer-vies-politico-diz-diretor-geral.ghtml)_
+
