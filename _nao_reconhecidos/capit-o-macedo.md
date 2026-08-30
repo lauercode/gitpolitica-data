@@ -1,7 +1,0 @@
-# CAPITÃO MACEDO
-
-- **Cargo**: Candidato(a) a Deputado Estadual (RS) — Eleição 2026
-- **Partido**: PODE
-
-## Histórico
-

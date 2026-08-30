@@ -1,7 +1,0 @@
-# EDUARDO PETRARCA LÉO
-
-- **Cargo**: Candidato(a) a Deputado Federal (RS) — Eleição 2026
-- **Partido**: MDB
-
-## Histórico
-

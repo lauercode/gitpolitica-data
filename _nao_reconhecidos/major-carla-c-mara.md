@@ -1,7 +1,0 @@
-# MAJOR CARLA CÂMARA
-
-- **Cargo**: Candidato(a) a Deputado Estadual (RN) — Eleição 2026
-- **Partido**: PP
-
-## Histórico
-
