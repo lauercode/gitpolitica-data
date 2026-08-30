@@ -512,3 +512,6 @@
 - **[2026-08-29 17:57 UTC]** Primeiro programa eleitoral no rádio e TV tem ataques entre Lula e Flávio; Caiado e Cury completam exibição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-programa-eleitoral-radio-ataques-lula-flavio/)_
 
+- **[2026-08-29 13:02 UTC]** Lula chama Flávio Bolsonaro de amador e aventureiro por entrevista à TV Globo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-amador-aventureiro-entrevista-tv-globo/)_
+
