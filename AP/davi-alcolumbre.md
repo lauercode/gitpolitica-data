@@ -74,3 +74,6 @@
 - **[2026-08-29 14:52 UTC]** Lula tenta garantir “sobrevida” eleitoral em semana decisiva no Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-tenta-garantir-sobrevida-eleitoral-em-semana-decisiva-no-congresso/)_
 
+- **[2026-08-30 14:02 UTC]** Propostas para frear STF se multiplicam no Congresso, mas travam sob Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/propostas-para-frear-stf-se-multiplicam-no-congresso-mas-travam-sob-alcolumbre/)_
+
