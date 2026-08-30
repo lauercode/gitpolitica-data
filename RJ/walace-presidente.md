@@ -209,3 +209,6 @@
 - **[2026-08-28 10:00 UTC]** Roberta Luchsinger diz que pediu apoio a Marcola, mas não pagou, e que Lulinha é amigo antes de Lula ser presidente
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/roberta-luchsinger-diz-que-pediu-apoio-a-marcola-mas-nao-pagou-e-que-lulinha-e-amigo-antes-de-lula-ser-presidente.ghtml)_
 
+- **[2026-08-28 03:00 UTC]** Quaest: veja os números da eleição para presidente em 23 estados e no DF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/28/quaest-eleicao-presidente-23-estados-df.ghtml)_
+
