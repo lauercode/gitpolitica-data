@@ -80,3 +80,6 @@
 - **[2026-08-30 06:00 UTC]** Acordo da Meta frustra quem esperava desfecho similar ao vivido pela indústria do tabaco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/acordo-da-meta-frustra-quem-esperava-desfecho-similar-ao-vivido-pela-industria-do-tabaco.shtml)_
 
+- **[2026-08-30 08:31 UTC]** Sabatinas: Globo anuncia que Renata Lo Prete substitui Tralli e Renata Vasconcellos se houver 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/sabatinas-globo-anuncia-que-renata-lo-prete-substitui-tralli-e-renata-vasconcellos-se-houver-2o-turno.shtml)_
+
