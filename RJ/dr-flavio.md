@@ -533,3 +533,6 @@
 - **[2026-08-29 22:37 UTC]** Quaest no Pará: Lula, 37%; Flávio Bolsonaro, 29%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-lula-presidente-29-agosto.ghtml)_
 
+- **[2026-08-29 19:19 UTC]** Lula, Flávio Bolsonaro, Caiado e Augusto Cury estreiam propaganda eleitoral no rádio e na TV; veja estratégias
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/lula-flavio-bolsonaro-caiado-e-augusto-cury-estreiam-propaganda-eleitoral-no-radio-e-na-tv-veja-estrategias.ghtml)_
+
