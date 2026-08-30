@@ -14,3 +14,6 @@
 - **[2026-08-28 15:07 UTC]** Entrevista deixa Lula e PT em pânico
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/sem-rodeios/entrevista-deixa-lula-e-pt-em-panico/)_
 
+- **[2026-08-28 12:20 UTC]** Lula afirma não conhecer Roberta Luchsinger; redes sociais da empresária mostram registros dos dois juntos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/lula-afirma-nao-conhecer-roberta-luchsinger-redes-sociais-da-empresaria-mostram-registros-dos-dois-juntos.ghtml)_
+
