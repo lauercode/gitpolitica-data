@@ -185,3 +185,6 @@
 - **[2026-08-29 13:02 UTC]** Lula chama Flávio Bolsonaro de amador e aventureiro por entrevista à TV Globo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-amador-aventureiro-entrevista-tv-globo/)_
 
+- **[2026-08-30 06:00 UTC]** Seis meses depois, guerra no Irã vira o atoleiro que Trump prometeu evitar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/seis-meses-depois-guerra-no-ira-vira-o-atoleiro-que-trump-prometeu-evitar.shtml)_
+
