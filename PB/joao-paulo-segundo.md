@@ -101,3 +101,6 @@
 - **[2026-08-30 12:04 UTC]** Islândia rejeita aderir à União Europeia em referendo que revela divisão no país
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgyxj3jkxro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-30 16:21 UTC]** 'Fui sequestrada pela Coreia do Norte e forçada a casar com um soldado americano'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zwzrlprjo?at_medium=RSS&at_campaign=rss)_
+
