@@ -278,3 +278,6 @@
 - **[2026-08-30 06:00 UTC]** Acordo da Meta frustra quem esperava desfecho similar ao vivido pela indústria do tabaco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/acordo-da-meta-frustra-quem-esperava-desfecho-similar-ao-vivido-pela-industria-do-tabaco.shtml)_
 
+- **[2026-08-30 11:08 UTC]** Confira o resultado do concurso 3051 da Mega-Sena sorteado neste domingo (30)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-o-resultado-do-concurso-3051-da-mega-sena-sorteado-neste-domingo-30.shtml)_
+
