@@ -17,3 +17,6 @@
 - **[2026-08-29 08:00 UTC]** É um sonho que tenho vivido, diz Amaury Lorenzo sobre papel em 'Por Você'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/e-um-sonho-que-tenho-vivido-diz-amaury-lorenzo-sobre-papel-em-por-voce.shtml)_
 
+- **[2026-08-29 23:00 UTC]** 'Memórias que tenho do meu irmão são de amor', diz Bruno Gagliasso sobre rompimento familiar por política
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/memorias-que-tenho-do-meu-irmao-sao-de-amor-diz-bruno-gagliasso-sobre-rompimento-familiar-por-politica.shtml)_
+
