@@ -26,3 +26,6 @@
 - **[2026-08-29 18:51 UTC]** Como a guerra do Irã reacendeu a disputa pelo Canal do Panamá
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c74e88e9kpeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-30 09:18 UTC]** O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9w4j2555qro?at_medium=RSS&at_campaign=rss)_
+
