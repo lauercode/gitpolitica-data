@@ -395,3 +395,6 @@
 - **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
 
+- **[2026-08-29 23:00 UTC]** Presos, generais do golpe resenham livros, fazem fisioterapia e estudam à distância
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/presos-generais-do-golpe-resenham-livros-fazem-fisioterapia-e-estudam-a-distancia.shtml)_
+
