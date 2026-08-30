@@ -203,3 +203,6 @@
 - **[2026-08-30 12:03 UTC]** Veja como foi o fim de semana dos candidatos a presidente da República
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-fim-de-semana-dos-candidatos-presidente-da-republica)_
 
+- **[2026-08-27 20:17 UTC]** Veja como foi a quinta-feira (27) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-quinta-feira-27-dos-candidatos-presidente)_
+
