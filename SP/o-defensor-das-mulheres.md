@@ -29,3 +29,6 @@
 - **[2026-08-30 14:15 UTC]** Mulheres do PT dizem ser tratadas como “laranjas” em evento com Lula em MG
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mulheres-pt-dizem-ser-tratadas-laranjas-evento-lula-mg/)_
 
+- **[2026-08-30 16:22 UTC]** Busca por 'sugar daddy' termina em prejuízo de até R$ 2.000 para mulheres em SC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/busca-por-sugar-daddy-termina-em-prejuizo-de-ate-r-2000-para-mulheres-em-sc.shtml)_
+
