@@ -545,3 +545,6 @@
 - **[2026-08-29 02:41 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Flávio Bolsonaro à Globo
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/28/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-flavio-bolsonaro-a-globo.ghtml)_
 
+- **[2026-08-29 01:40 UTC]** Flávio Bolsonaro propõe reduzir ministérios para cortar gastos e anuncia médico para a Saúde
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/flavio-bolsonaro-propoe-reduzir-ministerios-para-cortar-gastos-e-anuncia-medico-para-a-saude.ghtml)_
+
