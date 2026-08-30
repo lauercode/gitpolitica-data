@@ -584,3 +584,6 @@
 - **[2026-08-30 13:38 UTC]** Flávio Bolsonaro quer retomar obras de Angra 3 e resorts na cidade fluminense
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-retomar-obras-angra-3-resorts-cidade-fluminense/)_
 
+- **[2026-08-29 18:54 UTC]** Tarcísio faz afago em Flávio Bolsonaro e diz que Brasil sofre “opressão” como Israel
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/tarcisio-afago-flavio-bolsonaro-brasil-sofre-opressao-como-israel/)_
+
