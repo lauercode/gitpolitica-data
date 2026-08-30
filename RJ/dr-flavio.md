@@ -587,3 +587,6 @@
 - **[2026-08-29 18:54 UTC]** Tarcísio faz afago em Flávio Bolsonaro e diz que Brasil sofre “opressão” como Israel
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/tarcisio-afago-flavio-bolsonaro-brasil-sofre-opressao-como-israel/)_
 
+- **[2026-08-26 21:32 UTC]** Tarcísio cobra governo federal por corrupção e diz que Flávio já se explicou sobre Dark Horse
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/tarcisio-cobra-governo-federal-por-corrupcao-e-diz-que-flavio-ja-se-explicou-sobre-dark-horse/)_
+
