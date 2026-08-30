@@ -182,3 +182,6 @@
 - **[2026-08-30 12:26 UTC]** Entidades do comércio lançam campanha para adiar votação do fim da escala 6×1
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/entidades-comercio-lancam-campanha-contra-fim-escala-6x1/)_
 
+- **[2026-08-30 15:43 UTC]** Flávio Bolsonaro encontra ministro de Bukele para tratar sobre segurança pública
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-encontra-ministro-bukele-tratar-seguranca-publica/)_
+
