@@ -20,3 +20,6 @@
 - **[2026-08-30 15:47 UTC]** Confusão entre direita e esquerda em ato na Paulista acaba na delegacia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/confusao-entre-direita-e-esquerda-em-ato-na-paulista-acaba-na-delegacia.shtml)_
 
+- **[2026-08-30 21:09 UTC]** Protesto pelo fim da escala 6×1 termina em confusão entre direita e esquerda em SP
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/protesto-pelo-fim-da-escala-6x1-termina-em-confusao-entre-direita-e-esquerda-em-sp/)_
+
