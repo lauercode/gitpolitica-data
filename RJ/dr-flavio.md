@@ -548,3 +548,6 @@
 - **[2026-08-29 01:40 UTC]** Flávio Bolsonaro propõe reduzir ministérios para cortar gastos e anuncia médico para a Saúde
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/flavio-bolsonaro-propoe-reduzir-ministerios-para-cortar-gastos-e-anuncia-medico-para-a-saude.ghtml)_
 
+- **[2026-08-29 00:27 UTC]** Flávio Bolsonaro diz que 'não há nada de errado' na relação com Vorcaro e afirma que Eduardo errou no tarifaço
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/28/flavio-bolsonaro-entrevista-globo.ghtml)_
+
