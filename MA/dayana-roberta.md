@@ -32,3 +32,6 @@
 - **[2026-08-29 20:05 UTC]** Não é só Lula: lobista amiga de Lulinha tem fotos com outras autoridades e ministros do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fotos-roberta-luchsinger-autoridades-ministros-stf/)_
 
+- **[2026-08-29 22:00 UTC]** Nunca me viu? Fotos da lobista expõem mentira de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunca-me-viu-fotos-da-lobista-expoem-mentira-de-lula/)_
+
