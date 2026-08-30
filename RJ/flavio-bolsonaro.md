@@ -410,3 +410,6 @@
 - **[2026-08-29 01:43 UTC]** “Quem deve explicações é o Lula”, diz Flávio sobre relação com dono do Banco Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-deve-explicacoes-e-o-lula-diz-flavio-sobre-caso-do-banco-master/)_
 
+- **[2026-08-28 18:28 UTC]** Flávio culpa governo por risco de falência do Habib’s: “Não resistiu ao Lula”
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-culpa-governo-por-risco-de-falencia-do-habibs-nao-resistiu-ao-lula/)_
+
