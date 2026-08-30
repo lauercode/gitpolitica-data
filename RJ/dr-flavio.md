@@ -581,3 +581,6 @@
 - **[2026-08-27 22:19 UTC]** Quaest na BA: Lula, 50%; Flávio Bolsonaro, 17%; Ronaldo Caiado, 4%; Augusto Cury, 4%
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/27/quaest-ba-presidente-27-agosto.ghtml)_
 
+- **[2026-08-30 13:38 UTC]** Flávio Bolsonaro quer retomar obras de Angra 3 e resorts na cidade fluminense
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-retomar-obras-angra-3-resorts-cidade-fluminense/)_
+
