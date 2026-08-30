@@ -50,3 +50,6 @@
 - **[2026-08-29 22:02 UTC]** Respiração quadrada: como funciona um dos 'truques mais poderosos' para controlar o estresse
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/respiracao-quadrada-como-funciona-um-dos-truques-mais-poderosos-para-controlar-o-estresse.shtml)_
 
+- **[2026-08-30 06:00 UTC]** Governo do DF busca empresas para substituir BRB na gestão de pontos turísticos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-do-df-busca-empresas-para-substituir-brb-na-gestao-de-pontos-turisticos.shtml)_
+
