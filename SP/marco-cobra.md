@@ -17,3 +17,6 @@
 - **[2026-08-29 16:43 UTC]** Após ação contra Discord, Justiça marca audiência entre plataforma e governo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/apos-acao-contra-discord-justica-marca-audiencia-entre-plataforma-e-governo/)_
 
+- **[2026-08-30 12:30 UTC]** Por que o risco de AVC aumenta após picada de cobra? Estudo investiga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/por-que-o-risco-de-avc-aumenta-apos-picada-de-cobra-estudo-investiga.shtml)_
+
