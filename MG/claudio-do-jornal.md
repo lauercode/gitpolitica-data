@@ -11,3 +11,6 @@
 - **[2026-08-29 23:00 UTC]** Queria que Lula fosse comigo a Israel, diz CEO de grupo pró-Israel
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/queria-que-lula-fosse-comigo-a-israel-diz-ceo-de-grupo-pro-israel.shtml)_
 
+- **[2026-08-30 14:50 UTC]** Nervosismo e generalidades marcam entrevistas de presidenciáveis na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/nervosismo-e-generalidades-marcam-entrevistas-de-presidenciaveis-na-globo.shtml)_
+
