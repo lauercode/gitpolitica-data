@@ -944,3 +944,6 @@
 - **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
 
+- **[2026-08-29 22:00 UTC]** Nunca me viu? Fotos da lobista expõem mentira de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunca-me-viu-fotos-da-lobista-expoem-mentira-de-lula/)_
+
