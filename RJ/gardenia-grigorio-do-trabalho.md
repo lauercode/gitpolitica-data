@@ -47,3 +47,6 @@
 - **[2026-08-29 23:00 UTC]** Única mulher negra candidata a presidente promete dobrar salário mínimo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/unica-mulher-negra-candidata-a-presidente-promete-dobrar-salario-minimo.shtml)_
 
+- **[2026-08-30 14:15 UTC]** Comércio, serviços e turismo lançam campanha contra votação da escala 6x1 antes das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/comercio-servicos-e-turismo-lancam-campanha-contra-votacao-da-escala-6x1-antes-das-eleicoes.shtml)_
+
