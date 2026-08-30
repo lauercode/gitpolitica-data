@@ -32,3 +32,6 @@
 - **[2026-08-29 02:51 UTC]** Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgy4rpz5rzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-29 21:32 UTC]** Governo Trump não pode deportar estudantes por críticas a Israel, decide juíza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/governo-trump-nao-pode-deportar-estudantes-criticos-a-israel-decide-juiza.shtml)_
+
