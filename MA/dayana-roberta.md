@@ -38,3 +38,6 @@
 - **[2026-08-28 14:38 UTC]** Lula diz que foto com Roberta Luchsinger não indica relação pessoal e afirma nunca ter tido interlocução com ela
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/lula-diz-que-foto-com-roberta-luchsinger-nao-indica-relacao-pessoal-e-afirma-nunca-ter-tido-interlocucao-com-ela.ghtml)_
 
+- **[2026-08-28 14:24 UTC]** Quem é Roberta Luchsinger, lobista investigada por tráfico de influência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/quem-e-roberta-luchsinger-lobista-investigada.ghtml)_
+
