@@ -407,3 +407,6 @@
 - **[2026-08-29 13:02 UTC]** Lula chama Flávio Bolsonaro de amador e aventureiro por entrevista à TV Globo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-amador-aventureiro-entrevista-tv-globo/)_
 
+- **[2026-08-29 01:43 UTC]** “Quem deve explicações é o Lula”, diz Flávio sobre relação com dono do Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-deve-explicacoes-e-o-lula-diz-flavio-sobre-caso-do-banco-master/)_
+
