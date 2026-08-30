@@ -35,3 +35,6 @@
 - **[2026-08-27 22:23 UTC]** Quaest em GO: Ronaldo Caiado, 32%; Flávio Bolsonaro, 27%; Lula, 20%; Renan Santos; 2%; Romeu Zema, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/27/quaest-go-presidente-27-agosto.ghtml)_
 
+- **[2026-08-30 15:54 UTC]** Toffoli cita 'indícios de ilicitude' em registro de Renan Santos e adia julgamento de chapa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/toffoli-cita-indicios-de-ilicitude-em-registro-de-renan-santos-e-adia-julgamento-de-chapa.shtml)_
+
