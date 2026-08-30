@@ -437,3 +437,6 @@
 - **[2026-08-29 03:00 UTC]** Lula, Flávio Bolsonaro, Caiado e Augusto Cury iniciam propaganda eleitoral no rádio e na TV
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/lula-flavio-bolsonaro-caiado-e-augusto-cury-iniciam-propaganda-eleitoral-no-radio-e-na-tv-o-que-esperar-da-estreia.ghtml)_
 
+- **[2026-08-29 02:41 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Flávio Bolsonaro à Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/28/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-flavio-bolsonaro-a-globo.ghtml)_
+
