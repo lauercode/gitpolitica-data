@@ -164,3 +164,6 @@
 - **[2026-08-28 10:52 UTC]** Justiça barra imposto de 12% sobre petróleo, mas governo anuncia prorrogação horas depois
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/justica-barra-imposto-de-12-mas-governo-anuncia-prorrogacao-horas-depois/)_
 
+- **[2026-08-29 23:17 UTC]** Os próximos debates na TV com os candidatos a presidente — se eles aparecerem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/proximos-debates-tv-candidatos-presidente/)_
+
