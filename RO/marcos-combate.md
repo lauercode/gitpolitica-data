@@ -17,3 +17,6 @@
 - **[2026-08-24 18:36 UTC]** Justiça Eleitoral realiza campanha de combate ao assédio de eleitores no trabalho
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299833-justica-eleitoral-realiza-campanha-de-combate-ao-assedio-de-eleitores-no-trabalho)_
 
+- **[2026-08-28 07:00 UTC]** Candidatos ao Senado por SP ignoram regulação de redes ao propor combate à violência contra a mulher
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/28/candidatos-ao-senado-por-sp-ignoram-regulacao-de-redes-ao-propor-combate-a-violencia-contra-a-mulher.ghtml)_
+
