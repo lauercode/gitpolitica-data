@@ -62,3 +62,6 @@
 - **[2026-08-29 03:01 UTC]** Voto para senador também escolhe dois substitutos; 42 suplentes assumiram o mandato desde 2019
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/voto-para-senador-tambem-escolhe-dois-substitutos-42-suplentes-assumiram-o-mandato-desde-2019.ghtml)_
 
+- **[2026-08-28 12:20 UTC]** Lula afirma não conhecer Roberta Luchsinger; redes sociais da empresária mostram registros dos dois juntos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/lula-afirma-nao-conhecer-roberta-luchsinger-redes-sociais-da-empresaria-mostram-registros-dos-dois-juntos.ghtml)_
+
