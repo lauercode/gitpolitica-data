@@ -110,3 +110,6 @@
 - **[2026-08-29 17:57 UTC]** Primeiro programa eleitoral no rádio e TV tem ataques entre Lula e Flávio; Caiado e Cury completam exibição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-programa-eleitoral-radio-ataques-lula-flavio/)_
 
+- **[2026-08-30 01:47 UTC]** Cury propõe ministério da IA, drones contra feminicídios e treinar embaixadores para serem influencers
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/entrevista-augusto-cury-ministerio-da-ia-drones-contra-feminicidios.ghtml)_
+
