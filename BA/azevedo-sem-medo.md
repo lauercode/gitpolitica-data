@@ -14,3 +14,6 @@
 - **[2026-08-28 18:59 UTC]** Oposição aponta que medo de punições do STF trava alianças do Centrão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-aponta-que-medo-de-punicoes-do-stf-trava-aliancas-do-centrao/)_
 
+- **[2026-08-29 22:37 UTC]** Lito Sousa diz confiar em tratamento: 'Vou ser o primeiro a controlar essa doença no mundo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/lito-sousa-diz-confiar-em-tratamento-vou-ser-o-primeiro-a-controlar-essa-doenca-no-mundo.shtml)_
+
