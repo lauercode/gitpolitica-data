@@ -44,3 +44,6 @@
 - **[2026-08-30 14:22 UTC]** Ações de farmacêuticas disparam nos EUA com investidores buscando alternativas a 'boom' de IA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/acoes-de-farmaceuticas-disparam-nos-eua-com-investidores-buscando-alternativas-a-boom-de-ia.shtml)_
 
+- **[2026-08-30 14:00 UTC]** O prompt morreu: agora são 'loops' e 'graphs'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/08/o-prompt-morreu-agora-sao-loops-e-graphs.shtml)_
+
