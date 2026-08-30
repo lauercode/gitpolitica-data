@@ -26,3 +26,6 @@
 - **[2026-08-29 04:00 UTC]** 'Dark Horse' tem contradições para justificar dinheiro de Vorcaro e falta de prestação de contas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/dark-horse-tem-contradicoes-para-justificar-dinheiro-de-vorcaro-e-falta-de-prestacao-de-contas.shtml)_
 
+- **[2026-08-29 12:21 UTC]** 'Dark Horse': investigadores rechaçam 'patrocínio' e apuram suspeitas de corrupção e lavagem nos negócios de Flávio Bolsonaro com o filme
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/29/dark-horse-flavio-bolsonaro-filme-vorcaro.ghtml)_
+
