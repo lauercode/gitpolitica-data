@@ -41,3 +41,6 @@
 - **[2026-08-28 14:24 UTC]** Quem é Roberta Luchsinger, lobista investigada por tráfico de influência
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/quem-e-roberta-luchsinger-lobista-investigada.ghtml)_
 
+- **[2026-08-28 12:20 UTC]** Lula afirma não conhecer Roberta Luchsinger; redes sociais da empresária mostram registros dos dois juntos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/lula-afirma-nao-conhecer-roberta-luchsinger-redes-sociais-da-empresaria-mostram-registros-dos-dois-juntos.ghtml)_
+
