@@ -41,3 +41,6 @@
 - **[2026-08-29 19:42 UTC]** Mistérios e segredos de textos medievais revelados graças à IA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-30 14:22 UTC]** Ações de farmacêuticas disparam nos EUA com investidores buscando alternativas a 'boom' de IA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/acoes-de-farmaceuticas-disparam-nos-eua-com-investidores-buscando-alternativas-a-boom-de-ia.shtml)_
+
