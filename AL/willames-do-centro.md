@@ -116,3 +116,6 @@
 - **[2026-08-27 10:29 UTC]** Ex-apresentadora do Globo Esporte que morreu em SC idealizou centro especializado em autismo
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/ex-apresentadora-globo-esporte-tocantins-idealizou-centro-especializado-autismo.ghtml)_
 
+- **[2026-08-31 19:29 UTC]** Trânsito no Centro de Aracaju terá bloqueios e desvios nesta terça para a Corrida do Fogo Simbólico; saiba mais
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/31/transito-no-centro-de-aracaju-tera-bloqueios-e-desvios-nesta-terca-para-a-corrida-do-fogo-simbolico-saiba-mais.ghtml)_
+
