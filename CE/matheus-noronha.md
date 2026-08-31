@@ -50,3 +50,6 @@
 - **[2018-05-08 16:54 UTC]** Trabalho de estudantes de Fernando de Noronha é apresentado na Conferência de Meio Ambiente
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/trabalho-de-estudantes-de-fernando-de-noronha-e-apresentado-na-conferencia-de-meio-ambiente.html)_
 
+- **[2018-05-08 10:22 UTC]** Procuradoria não libera a entrega de terrenos em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/procuradoria-nao-libera-entrega-de-terrenos-em-fernando-de-noronha.html)_
+
