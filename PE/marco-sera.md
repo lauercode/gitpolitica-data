@@ -71,3 +71,6 @@
 - **[2026-08-28 18:45 UTC]** Jaraguá do Sul começa a planejar como será a cidade em 2076
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/prefeitura-municipal-de-jaragua-do-sul/noticia/2026/08/28/jaragua-do-sul-comeca-a-planejar-como-sera-a-cidade-em-2076.ghtml)_
 
+- **[2018-06-07 01:09 UTC]** Croácia x França: saiba quando será a final da Copa do Mundo 2018 e outras perguntas e respostas sobre o Mundial
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/mundo/noticia/perguntas-e-respostas-sobre-a-copa-do-mundo-de-2018-na-russia.ghtml)_
+
