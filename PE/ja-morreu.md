@@ -104,3 +104,6 @@
 - **[2026-08-28 13:17 UTC]** 'Mãe maravilhosa' e 'de atitude', diz apresentadora de TV sobre irmã gêmea que morreu aos 49 anos
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/mae-atitude-apresentadora-irma-morreu.ghtml)_
 
+- **[2026-08-31 17:48 UTC]** Mulher é suspeita de andar na contramão por 2 km, bater em moto e fugir do hospital em SC; motociclista morreu
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-contramao-2-km-bate-moto-sc-401-foge-hospital-motociclista-morreu.ghtml)_
+
