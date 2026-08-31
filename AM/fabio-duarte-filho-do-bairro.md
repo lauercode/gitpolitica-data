@@ -29,3 +29,6 @@
 - **[2018-07-10 09:54 UTC]** Acidente entre ônibus e carros deixa trânsito lento no bairro da Federação, em Salvador
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/transito/noticia/acidente-entre-onibus-e-carro-deixa-transito-lento-na-federacao.ghtml)_
 
+- **[2026-08-29 13:11 UTC]** Incêndio atinge apartamento no último andar de prédio no bairro da Cremação, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/incendio-atinge-apartamento-no-ultimo-andar-de-predio-no-bairro-da-cremacao-em-belem.ghtml)_
+
