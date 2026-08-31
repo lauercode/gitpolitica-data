@@ -20,3 +20,6 @@
 - **[2017-08-10 15:39 UTC]** Conheça histórias de pai e filho que dividem a mesma sala de aula
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/conheca-historias-de-pai-e-filho-que-dividem-mesma-sala-de-aula-3.html)_
 
+- **[2017-10-23 14:12 UTC]** Estudante baleada dentro de sala de aula deixa UTI e segue tratamento na enfermaria de hospital em Goiânia
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/estudante-baleada-dentro-de-sala-de-aula-deixa-uti-e-segue-tratamento-na-enfermaria-de-hospital-em-goiania.ghtml)_
+
