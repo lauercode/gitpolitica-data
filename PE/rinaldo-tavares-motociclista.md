@@ -65,3 +65,6 @@
 - **[2026-08-31 17:48 UTC]** Mulher é suspeita de andar na contramão por 2 km, bater em moto e fugir do hospital em SC; motociclista morreu
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-contramao-2-km-bate-moto-sc-401-foge-hospital-motociclista-morreu.ghtml)_
 
+- **[2026-08-31 21:31 UTC]** Motociclista morre em acidente com carreta na TO-040
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/motociclista-morre-em-acidente-com-carreta-na-to-040.ghtml)_
+
