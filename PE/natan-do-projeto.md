@@ -98,3 +98,6 @@
 - **[2018-04-23 19:33 UTC]** Projeto de Lei propõe cotas de chefia para pessoas com deficiência
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/mao-na-roda/post/projeto-de-lei-propoe-cotas-de-chefia-para-pessoas-com-deficiencia.html)_
 
+- **[2018-05-09 12:02 UTC]** Projeto Tamar realiza soltura de filhotes de tartaruga em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/projeto-tamar-realiza-soltura-de-filhotes-de-tartaruga-em-fernando-de-noronha.html)_
+
