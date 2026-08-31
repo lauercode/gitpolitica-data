@@ -14,3 +14,6 @@
 - **[2018-04-27 17:15 UTC]** Espante o frio com um delicioso caldo de legumes; confira a receita
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/simone-mendes/post/espante-o-frio-com-um-delicioso-caldo-de-legumes-confira-receita.html)_
 
+- **[2026-08-28 09:10 UTC]** 'Van Gogh & Impressionistas', Caminhos do Frio e mais: 'Qual a Boa?' do fim de semana, 28, 29 e 30 de agosto na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/musica/noticia/2026/08/28/van-gogh-and-impressionistas-caminhos-do-frio-e-mais-qual-a-boa-do-fim-de-semana-28-29-e-30-de-agosto-na-pb.ghtml)_
+
