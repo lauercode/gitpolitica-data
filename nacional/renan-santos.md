@@ -47,3 +47,6 @@
 - **[2026-08-31 19:03 UTC]** Renan Santos diz que não vai 'desistir' e que irá 'lutar na justiça'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/renan-santos-pronunciamento.ghtml)_
 
+- **[2026-08-31 19:00 UTC]** 'Eu não vou desistir, eu vou lutar na Justiça', diz Renan Santos após Toffoli impor suspensões na campanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/eu-nao-vou-desistir-eu-vou-lutar-na-justica-diz-renan-santos.ghtml)_
+
