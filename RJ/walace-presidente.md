@@ -227,3 +227,6 @@
 - **[2026-08-31 09:21 UTC]** Nexus/BTG Pactual divulga nova pesquisa para presidente; veja o resultado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/nexus-btg-pactual-presidente-agosto-2026-5/)_
 
+- **[2026-08-31 17:14 UTC]** Augusto Cury chega a 3º lugar: quem está à frente na intenção de voto para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
