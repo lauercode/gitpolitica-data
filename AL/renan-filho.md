@@ -17,3 +17,6 @@
 - **[2026-08-26 20:40 UTC]** Agenda em AL: Renan Filho faz adesivaço e JHC visita hospital
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/26/agenda-em-al-renan-filho-faz-adesivaco-e-jhc-visita-hospital.ghtml)_
 
+- **[2026-08-25 23:09 UTC]** Entrevistas, comício e caminhada: veja a agenda de Renan Filho nesta terça-feira
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/25/entrevistas-comicio-e-caminhada-veja-a-agenda-de-renan-filho-nesta-terca-feira.ghtml)_
+
