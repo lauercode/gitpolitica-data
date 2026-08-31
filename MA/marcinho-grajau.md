@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-08-27 12:47 UTC]** Homem é preso suspeito de envolvimento em tentativa de homicídio contra mulher em Grajaú
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-sul/noticia/2026/08/27/homem-e-preso-suspeito-de-envolvimento-em-tentativa-de-homicidio-contra-mulher-em-grajau.ghtml)_
+
