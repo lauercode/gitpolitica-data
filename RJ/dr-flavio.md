@@ -635,3 +635,6 @@
 - **[2026-08-31 12:58 UTC]** Eleitor pendular segue indefinido entre Lula e Flávio Bolsonaro e sensível ao noticiário, mostra estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleitor-pendular-segue-indefinido-entre-lula-e-flavio-bolsonaro-e-sensivel-ao-noticiario-mostra-estudo.shtml)_
 
+- **[2026-08-31 17:10 UTC]** Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? O que diz analista
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss)_
+
