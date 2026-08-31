@@ -86,3 +86,6 @@
 - **[2026-08-23 17:52 UTC]** Resultado da Mega-Sena 3048: apostas de Sergipe acertam números; veja valores
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/23/resultado-da-mega-sena-3048-apostas-de-sergipe-acertam-numeros-veja-valores.ghtml)_
 
+- **[2026-08-22 09:01 UTC]** Sergipe realiza Dia D de Multivacinação neste sábado
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/22/sergipe-realiza-dia-d-de-multivacinacao-neste-sabado.ghtml)_
+
