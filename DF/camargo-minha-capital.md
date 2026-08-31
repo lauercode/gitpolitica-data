@@ -41,3 +41,6 @@
 - **[2026-08-26 14:42 UTC]** Veja o que abre e fecha em Maceió durante feriado de Nossa Senhora dos Prazeres, padroeira da capital
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/26/veja-o-que-abre-e-fecha-em-maceio-durante-feriado-de-nossa-senhora-dos-prazeres-padroeira-da-capital.ghtml)_
 
+- **[2026-08-29 00:06 UTC]** No 1º guia eleitoral do AP, Dr. Furlan destaca obras na capital e Clécio Luís aposta em histórias de eleitores
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/28/no-1o-guia-eleitoral-do-ap-dr-furlan-destaca-gestao-na-capital-e-clecio-luis-aposta-em-historias-de-eleitores.ghtml)_
+
