@@ -17,3 +17,6 @@
 - **[2026-08-31 15:33 UTC]** Justiça bloqueia plano de previdência de Renan Santos por dívida trabalhista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/justica-bloqueia-plano-de-previdencia-de-renan-santos-por-divida-trabalhista.shtml)_
 
+- **[2017-05-08 12:46 UTC]** Contra reforma da Previdência, servidores do INSS ocupam ministério
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/contra-reforma-da-previdencia-servidores-do-inss-ocupam-ministerio.ghtml)_
+
