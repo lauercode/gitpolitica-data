@@ -23,3 +23,6 @@
 - **[2026-08-26 23:14 UTC]** Clécio Luís participa de caminhada no bairro do Araxá, em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/26/clecio-luis-participa-de-caminhada-no-bairro-do-araxa-em-macapa.ghtml)_
 
+- **[2026-08-25 23:14 UTC]** Quaest no AP: 53% aprovam e 37% desaprovam governo Clécio Luís
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/25/quaest-ap-avaliacao-governo-25-agosto.ghtml)_
+
