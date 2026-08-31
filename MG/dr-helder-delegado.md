@@ -38,3 +38,6 @@
 - **[2026-08-28 06:00 UTC]** 'Praticamente excluída', diz delegado sobre a possibilidade de outra pessoa envolvida na morte de família em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/possibilidade-de-outra-pessoa-morte-de-familia-em-curitiba.ghtml)_
 
+- **[2018-05-14 10:30 UTC]** Houve assalto em Fernando de Noronha? Delegado Rodrigo Maciel esclare a denúncia
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/houve-assalto-em-fernando-de-noronha-delegado-rodrigo-maciel-esclare-denuncia.html)_
+
