@@ -41,3 +41,6 @@
 - **[2026-08-26 17:32 UTC]** Imposto de Renda 2026: 4º lote de restituição vai pagar R$ 4,4 milhões no AP; saiba como receber
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/26/imposto-de-renda-2026-4o-lote-de-restituicao-vai-pagar-r-44-milhoes-no-ap-saiba-como-receber.ghtml)_
 
+- **[2026-08-24 17:54 UTC]** Imposto de Renda 2026: 4º lote vai liberar R$ 13 milhões em Sergipe; veja como consultar
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/imposto-de-renda-2026-4o-lote-vai-liberar-r-13-milhoes-em-sergipe-veja-como-consultar.ghtml)_
+
