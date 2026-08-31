@@ -65,3 +65,6 @@
 - **[2026-08-19 10:33 UTC]** VÍDEO: enfermeira é esfaqueada por colega de trabalho durante discussão em União dos Palmares
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/19/video-enfermeira-e-esfaqueada-por-colega-de-trabalho-durante-discussao-em-uniao-dos-palmares-al.ghtml)_
 
+- **[2026-08-21 08:04 UTC]** Unifap abre inscrições para pós-graduação em Saúde e Segurança do Trabalho com 150 vagas; EDITAIS
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/21/unifap-abre-inscricoes-para-pos-graduacao-em-saude-e-seguranca-do-trabalho-com-150-vagas-editais.ghtml)_
+
