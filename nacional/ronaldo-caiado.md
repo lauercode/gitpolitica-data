@@ -32,3 +32,6 @@
 - **[2026-08-27 22:19 UTC]** Quaest na BA: Lula, 50%; Flávio Bolsonaro, 17%; Ronaldo Caiado, 4%; Augusto Cury, 4%
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/27/quaest-ba-presidente-27-agosto.ghtml)_
 
+- **[2026-08-25 23:01 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 32%; Ronaldo Caiado, 7%; Renan Santos; 3%
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-presidente-25-agosto.ghtml)_
+
