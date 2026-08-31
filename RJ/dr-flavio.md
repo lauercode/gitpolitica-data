@@ -620,3 +620,6 @@
 - **[2026-08-31 15:00 UTC]** Flávio rebate Lula após petista chamar profissão de gari de “muito pobre”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-rebate-lula-apos-petista-chamar-profissao-de-gari-de-muito-pobre/)_
 
+- **[2026-08-31 14:15 UTC]** O primeiro candidato que ultrapassou 10% nas intenções de voto além de Flávio e Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/augusto-cury-primeiro-candidato-que-ultrapassou-10-intencoes-de-voto-alem-de-flavio-lula/)_
+
