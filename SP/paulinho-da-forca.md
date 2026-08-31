@@ -77,3 +77,6 @@
 - **[2017-11-09 20:06 UTC]** Homem é retirado à força de casa e é assassinado no meio de rua em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/homem-e-retirado-a-forca-de-casa-e-e-assassinado-no-meio-de-rua-em-fortaleza.ghtml)_
 
+- **[2018-07-21 16:12 UTC]** Polícia investiga se recém-nascida foi levada à força de MG para MT ou doada pela mãe
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mt/mato-grosso/noticia/2018/07/21/policia-investiga-se-recem-nascida-foi-raptada-em-mg-e-levada-para-mt-ou-doada-pela-mae.ghtml)_
+
