@@ -38,3 +38,6 @@
 - **[2018-05-02 16:22 UTC]** Apresentador do Globo Esporte, George Guilherme,  visita Fernando de Noronha e fala de Copa do Mundo
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/apresentador-do-globo-esporte-george-guilherme-visita-fernando-de-noronha-e-fala-de-copa-do-mundo.html)_
 
+- **[2018-06-07 01:09 UTC]** Croácia x França: saiba quando será a final da Copa do Mundo 2018 e outras perguntas e respostas sobre o Mundial
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/mundo/noticia/perguntas-e-respostas-sobre-a-copa-do-mundo-de-2018-na-russia.ghtml)_
+
