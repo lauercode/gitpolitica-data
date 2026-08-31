@@ -20,3 +20,6 @@
 - **[2017-08-10 15:43 UTC]** Juiz afasta prefeito e secretários suspeitos de usar decreto para cometer fraudes em Apuiarés
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/juiz-afasta-prefeito-e-secretarios-suspeitos-de-usar-decreto-para-cometer-fraudes-em-apuiares.ghtml)_
 
+- **[2017-10-31 08:38 UTC]** TRE nega recurso de prefeito de São Mateus, no ES, sobre cassação de mandato
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/norte-noroeste-es/noticia/tre-nega-recurso-de-prefeito-de-sao-mateus-no-es-sobre-cassacao-de-mandato.ghtml)_
+
