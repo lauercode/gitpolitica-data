@@ -59,3 +59,6 @@
 - **[2026-08-29 16:59 UTC]** Dupla é presa por retirar carga de droga de avião que caiu na Terra Yanomami após sair da Venezuela
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/dupla-e-presa-por-retirar-carga-de-droga-de-aviao-que-caiu-na-terra-yanomami-apos-sair-da-venezuela.ghtml)_
 
+- **[2026-08-26 09:00 UTC]** MPF pede condenação de ex-servidores da Funai e garimpeiros por esquema de propina em ouro na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/mpf-pede-condenacao-de-ex-servidores-da-funai-e-garimpeiros-por-esquema-de-propina-em-ouro-na-terra-yanomami.ghtml)_
+
