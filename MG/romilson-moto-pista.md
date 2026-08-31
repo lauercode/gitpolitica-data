@@ -41,3 +41,6 @@
 - **[2018-07-17 22:56 UTC]** Caminhão derrama tinta na pista e interdita Via Dutra, em Itatiaia, RJ
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/caminhao-derrama-tinta-na-pista-e-interdita-via-dutra-em-itatiaia-rj.ghtml)_
 
+- **[2017-10-17 12:25 UTC]** Polícia diz ter pista de quem é o bandido atendido em ambulância sequestrada no Rio
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/delegado-ja-tem-um-suspeito-que-pode-ter-sido-atendido-por-ambulancia-sequestrada-na-mare.ghtml)_
+
