@@ -17,3 +17,6 @@
 - **[2018-04-24 16:58 UTC]** Casas e terrenos não devem ser entregues este ano em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/casas-e-terrenos-nao-devem-ser-entregues-este-ano-em-fernando-de-noronha.html)_
 
+- **[2026-08-29 12:04 UTC]** Suspeita de vender terrenos que não eram dela é presa no RS por fraude e estelionato no PI
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/pi/piaui/noticia/2026/08/29/suspeita-fraude-venda-lotes.ghtml)_
+
