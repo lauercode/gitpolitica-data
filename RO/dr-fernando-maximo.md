@@ -23,3 +23,6 @@
 - **[2026-08-23 07:00 UTC]** Entenda como julgamento no STF sobre a Ficha Limpa pode afetar as eleições no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/23/entenda-como-julgamento-no-stf-sobre-a-ficha-limpa-pode-afetar-as-eleicoes-no-df.ghtml)_
 
+- **[2026-08-31 17:03 UTC]** Projeto garante valor máximo de insalubridade para coveiros, sepultadores e catadores de lixo
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300436-projeto-garante-valor-maximo-de-insalubridade-para-coveiros-sepultadores-e-catadores-de-lixo)_
+
