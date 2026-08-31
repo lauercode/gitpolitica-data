@@ -14,3 +14,6 @@
 - **[2017-07-21 19:44 UTC]** Bombeiros dão dicas para prevenir incêndios florestais durante tempo seco em MS
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/bombeiros-dao-dicas-para-prevenir-incendios-florestais-durante-tempo-seco-em-ms.ghtml)_
 
+- **[2026-08-30 12:38 UTC]** Com dois alertas de tempo seco no estado, Palmas pode chegar a 39 graus neste domingo (30)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-dois-alertas-de-tempo-seco-no-estado-palmas-pode-chegar-a-39-graus-neste-domingo.ghtml)_
+
