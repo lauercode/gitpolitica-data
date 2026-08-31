@@ -14,3 +14,6 @@
 - **[2017-09-09 09:01 UTC]** Cachorro 'motociclista' chama a atenção em via do DF; vídeo
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/cachorro-motociclista-chama-a-atencao-em-via-do-df-video.ghtml)_
 
+- **[2026-08-26 16:38 UTC]** VÍDEO: homem é flagrado abandonando filhotes de cachorro no meio da rua em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/video-homem-e-flagrado-abandonando-filhotes-de-cachorro-no-meio-da-rua-em-belem.ghtml)_
+
