@@ -14,3 +14,6 @@
 - **[2026-08-26 20:33 UTC]** Efraim Filho participa de sabatinas e defende redução de impostos e apoio a pequenos empreendedores na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/efraim-filho-participa-de-sabatinas-e-defende-reducao-de-impostos-e-apoio-a-pequenos-empreendedores-na-paraiba.ghtml)_
 
+- **[2026-08-26 20:26 UTC]** Nayana Pontes, vice de Efraim Filho, defende interiorizar serviços de saúde e capacitar beneficiários de programas sociais na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/nayana-pontes-vice-de-efraim-filho-defende-interiorizar-servicos-de-saude-e-capacitar-beneficiarios-de-programas-sociais-na-paraiba.ghtml)_
+
