@@ -89,3 +89,6 @@
 - **[2026-08-29 19:31 UTC]** Dois réus são condenados a 196 anos de prisão por mortes em motim na antiga Cadeia Pública de Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/29/dois-reus-sao-condenados-a-196-anos-de-prisao-por-mortes-em-motim-na-antiga-cadeia-publica-de-manaus.ghtml)_
 
+- **[2017-08-12 21:54 UTC]** Troca de tiros entre bandidos e polícia deixa dois suspeitos feridos, no CE; sete armas são apreendidas
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/troca-de-tiros-entre-bandidos-e-policia-deixa-dois-suspeitos-feridos-no-ce-sete-armas-sao-apreendidas.ghtml)_
+
