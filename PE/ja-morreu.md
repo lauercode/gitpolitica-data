@@ -35,3 +35,6 @@
 - **[2026-08-29 14:25 UTC]** Quem era Cássio de Holanda Tavares, defensor público que morreu aos 49 anos em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/quem-era-cassio-de-holanda-tavares-defensor-publico-que-morreu-aos-49-anos-em-rio-branco.ghtml)_
 
+- **[2026-08-30 21:00 UTC]** Trabalhador que morreu ao cair de alegoria do Festival de Cirandas de Manacapuru é velado no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/30/trabalhador-que-morreu-ao-cair-de-alegoria-do-festival-de-cirandas-de-manacapuru-e-velado-no-amazonas.ghtml)_
+
