@@ -20,3 +20,6 @@
 - **[2026-08-28 19:35 UTC]** Motorista que atropelou e matou ciclista em Porto Velho é indiciado por seis crimes
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/28/motorista-que-atropelou-e-matou-ciclista-em-porto-velho-e-indiciado-por-seis-crimes.ghtml)_
 
+- **[2026-08-24 20:58 UTC]** Justiça decreta prisão preventiva de motorista que atropelou e matou ciclista em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/justica-decreta-prisao-preventiva-de-motorista-que-atropelou-e-matou-ciclista-em-porto-velho.ghtml)_
+
