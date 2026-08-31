@@ -23,3 +23,6 @@
 - **[2026-08-29 01:49 UTC]** Eleições 2026: Omar Aziz visita feira na Zona Leste de Manaus e promete valorização dos professores
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-omar-aziz-visita-feira-na-zona-leste-de-manaus-e-promete-valorizacao-dos-professores.ghtml)_
 
+- **[2026-08-28 00:34 UTC]** Eleições 2026: Omar Aziz participa de evento em Manaus e apresenta propostas para educação
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-omar-aziz-participa-de-evento-em-manaus-e-apresenta-propostas-para-educacao.ghtml)_
+
