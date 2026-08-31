@@ -74,3 +74,6 @@
 - **[2017-03-25 14:48 UTC]** Descontos na conta de água para quem economizou em 2016 beneficiam mais de 500 mil moradores do DF
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/descontos-na-conta-de-agua-para-quem-economizou-em-2016-beneficiam-mais-de-500-mil-moradores-do-df.ghtml)_
 
+- **[2018-07-13 21:33 UTC]** Conta de água no ES tem reajuste de 3,89% autorizado a partir de agosto
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/conta-de-agua-no-es-tem-reajuste-de-389-autorizado-a-partir-de-agosto.ghtml)_
+
