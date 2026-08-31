@@ -74,3 +74,6 @@
 - **[2018-06-07 01:09 UTC]** Croácia x França: saiba quando será a final da Copa do Mundo 2018 e outras perguntas e respostas sobre o Mundial
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/mundo/noticia/perguntas-e-respostas-sobre-a-copa-do-mundo-de-2018-na-russia.ghtml)_
 
+- **[2026-08-24 22:56 UTC]** Substituição de empresa de ônibus será avaliada por representantes do Consórcio Metropolitano em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/substituicao-de-empresa-de-onibus-sera-avaliada-por-representantes-do-consorcio-metropolitano-em-sergipe.ghtml)_
+
