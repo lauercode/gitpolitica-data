@@ -14,3 +14,6 @@
 - **[2018-07-21 14:30 UTC]** Ponta Porã amanheceu gelada: Termômetros marcavam 6 graus
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2018/07/21/ponta-pora-amanheceu-gelada-termometros-marcavam-6-graus.ghtml)_
 
+- **[2026-08-30 12:38 UTC]** Com dois alertas de tempo seco no estado, Palmas pode chegar a 39 graus neste domingo (30)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-dois-alertas-de-tempo-seco-no-estado-palmas-pode-chegar-a-39-graus-neste-domingo.ghtml)_
+
