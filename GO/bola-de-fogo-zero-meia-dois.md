@@ -137,3 +137,6 @@
 - **[2018-07-21 19:34 UTC]** Banda Sinfônica do Recife faz dois concertos no Teatro de Santa Isabel
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/musica/noticia/2018/07/21/banda-sinfonica-do-recife-faz-dois-concertos-no-teatro-de-santa-isabel.ghtml)_
 
+- **[2026-08-27 22:11 UTC]** Desembargadora Martha Danyelle assume presidência do TRE-RN para os próximos dois anos
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/27/desembargadora-martha-danyelle-assume-presidencia-do-tre-rn-para-os-proximos-dois-anos.ghtml)_
+
