@@ -65,3 +65,6 @@
 - **[2026-08-26 19:54 UTC]** Jovem tem cabelo raspado e é agredida por três mulheres após receber mensagem de militar do Exército em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/jovem-tem-cabelo-raspado-e-e-agredida-por-tres-mulheres-apos-receber-mensagem-de-militar-do-exercito-em-boa-vista.ghtml)_
 
+- **[2026-08-22 14:49 UTC]** Plantão que atende mulheres vítimas de violência em Roraima pode colapsar por sobrecarga de trabalho, alerta delegada
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/22/plantao-que-atende-mulheres-vitimas-de-violencia-em-roraima-pode-colapsar-por-sobrecarga-de-trabalho-alerta-delegada.ghtml)_
+
