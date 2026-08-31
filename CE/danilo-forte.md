@@ -50,3 +50,6 @@
 - **[2017-07-14 18:56 UTC]** Moradores ficam 'ilhados' após chuva forte alagar rua no recôncavo da Bahia; vídeo
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/rua-alaga-e-moradores-ficam-ilhados-apos-chuva-forte-em-muritiba-na-bahia-video.ghtml)_
 
+- **[2026-08-31 11:30 UTC]** 316 cidades do Paraná têm alerta para chuva forte, granizo e ventos de até 60 km/h; confira quais
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/cidades-do-parana-tem-alerta.ghtml)_
+
