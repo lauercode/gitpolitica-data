@@ -146,3 +146,6 @@
 - **[2026-08-29 21:09 UTC]** Moto avança sinal vermelho, é atingida por carro e dois ficam feridos em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/moto-avanca-sinal-vermelho-e-atingida-por-carro-e-dois-ficam-feridos-em-boa-vista.ghtml)_
 
+- **[2026-08-29 15:07 UTC]** Motorista fica preso às ferragens após colisão entre dois carros na BR-101
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/29/motorista-fica-preso-as-ferragens-apos-colisao-entre-dois-carros-na-br-101.ghtml)_
+
