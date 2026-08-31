@@ -23,3 +23,6 @@
 - **[2026-08-25 21:14 UTC]** MPF investiga 'grave deterioração' na saúde em comunidade Yanomami com leishmaniose
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/25/mpf-investiga-grave-deterioracao-na-saude-em-comunidade-yanomami-com-leishmaniose.ghtml)_
 
+- **[2026-08-24 15:55 UTC]** Mulher fica em estado grave após ser esfaqueada por ex-marido no Vila Jardim, em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/mulher-fica-em-estado-grave-apos-ser-esfaqueada-por-ex-marido-no-vila-jardim-em-boa-vista.ghtml)_
+
