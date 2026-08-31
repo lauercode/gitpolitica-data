@@ -29,3 +29,6 @@
 - **[2026-08-31 10:05 UTC]** Jovem morre e dois irmãos ficam feridos após carro colidir com carreta parada em acostamento, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/jovem-morre-e-dois-irmaos-ficam-feridos-apos-carro-colidir-com-carreta-parada-em-acostamento-em-joao-pessoa.ghtml)_
 
+- **[2026-08-30 07:01 UTC]** Pitágoras, Pitásigma e Pisócrates: os irmãos prodígio de SC que miram prêmio internacional de inteligência
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/30/pitagoras-pitasigma-pisocrates-irmaos-prodigio-sc-miram-premio-internacional-inteligencia.ghtml)_
+
