@@ -11,3 +11,6 @@
 - **[2026-08-31 13:55 UTC]** Gato devolvido para abrigo por ser carente demais teve mais de 100 pedidos de adoção após caso viralizar
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/gato-devolvido-para-abrigo-por-ser-carente-demais-teve-mais-de-100-pedidos-de-adocao-apos-caso-viralizar.ghtml)_
 
+- **[2026-08-31 04:00 UTC]** Antes e depois: gato devolvido para abrigo por ser 'dependente demais' viraliza com cara 'triste' e reaparece 'feliz' com novo tutor no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/antes-e-depois-gato-devolvido-para-abrigo-por-ser-dependente-demais-viraliza-com-cara-triste-e-reaparece-feliz-com-novo-tutor-no-rs.ghtml)_
+
