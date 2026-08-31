@@ -53,3 +53,6 @@
 - **[2026-08-28 14:24 UTC]** Mais de 20 bairros terão fornecimento de água interrompido em Macapá; veja lista
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/mais-de-20-bairros-terao-fornecimento-de-agua-interrompido-em-macapa-veja-lista.ghtml)_
 
+- **[2026-08-27 08:05 UTC]** Casal do AP cruza América do Sul de moto e encara frio nos Andes: 'água congelou nos recipientes'
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/casal-do-ap-cruza-america-do-sul-de-moto-e-encara-frio-nos-andes-agua-congelou-nos-recipientes.ghtml)_
+
