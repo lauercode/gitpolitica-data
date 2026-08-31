@@ -29,3 +29,6 @@
 - **[2018-07-20 22:17 UTC]** Advogado pede afastamento de delegado de inquérito em que Eduardo Costa é investigado
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/minas-gerais/noticia/2018/07/20/advogado-pede-afastamento-de-delegado-de-inquerito-em-que-eduardo-costa-e-investigado.ghtml)_
 
+- **[2026-08-28 12:55 UTC]** Falsa médica presa em João Pessoa pode responder por pelo menos quatro crimes, afirma delegado
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/falsa-medica-presa-em-joao-pessoa-pode-responder-por-pelo-menos-quatro-crimes-afirma-delegado.ghtml)_
+
