@@ -23,3 +23,6 @@
 - **[2018-07-17 20:45 UTC]** 'Dr. Bumbum' tinha diploma, mas não podia trabalhar como cirurgião plástico: saiba contratar um médico com segurança
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/bemestar/noticia/dr-bumbum-tinha-diploma-mas-nao-podia-trabalhar-como-cirurgiao-saiba-contratar-uma-plastica-com-seguranca.ghtml)_
 
+- **[2026-08-28 04:00 UTC]** Marido de mulher com mesma doença de Lito cultiva hobbies que ela tinha antes do diagnóstico: 'Boto música, leio, converso'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/marido-de-mulher-com-mesma-doenca-de-lito-cultiva-hobbies-que-ela-tinha-antes-do-diagnostico.ghtml)_
+
