@@ -59,3 +59,6 @@
 - **[2026-08-25 10:35 UTC]** Polícia Civil investiga fraudes e desvio de verbas públicas em contratos municipais em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/25/policia-civil-investiga-fraudes-e-desvio-de-verbas-publicas-em-contratos-municipais-em-sergipe.ghtml)_
 
+- **[2026-08-25 10:00 UTC]** Eleições 2026: veja propostas de Fábio  para o governo de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-fabio-para-o-governo-de-sergipe.ghtml)_
+
