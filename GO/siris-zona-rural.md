@@ -11,3 +11,6 @@
 - **[2026-08-28 11:09 UTC]** Criminosos matam produtor rural após fazerem motorista refém e invadirem casa no Sertão de AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/28/criminosos-matam-produtor-rural-apos-fazerem-motorista-refem-e-invadirem-casa-no-sertao-de-al.ghtml)_
 
+- **[2018-07-15 10:17 UTC]** Polícia investiga morte de mulher encontrada em estrada rural de MS com facada na nuca
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/policia-investiga-morte-de-mulher-encontrada-em-estrada-rural-de-ms-com-facada-na-nuca.ghtml)_
+
