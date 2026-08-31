@@ -8,3 +8,6 @@
 - **[2026-08-29 18:49 UTC]** A pequena cidade escocesa que procura migrantes para estancar a queda da população
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/a-pequena-cidade-escocesa-que-procura-migrantes-para-estancar-a-queda-da-populacao.shtml)_
 
+- **[2026-08-28 17:56 UTC]** Trio armado invade e assalta loja de eletrodomésticos em Macapá; VÍDEO
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/trio-armado-invade-e-assalta-loja-de-eletrodomesticos-em-macapa-video.ghtml)_
+
