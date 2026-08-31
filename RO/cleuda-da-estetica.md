@@ -11,3 +11,6 @@
 - **[2018-04-23 09:10 UTC]** Estética corporal: Como as gorduras da dieta contribuem para esse benefício?
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/sorocaba-jundiai/blog/5-minutos-com-roberta-cassani/post/estetica-corporal-como-gorduras-da-dieta-contribuem-para-esse-beneficio.html)_
 
+- **[2018-04-19 09:00 UTC]** Nutrição e estética: o que a ciência comprova?
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/sorocaba-jundiai/blog/5-minutos-com-roberta-cassani/post/nutricao-e-estetica-o-que-ciencia-comprova.html)_
+
