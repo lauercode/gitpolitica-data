@@ -20,3 +20,6 @@
 - **[2026-08-27 16:17 UTC]** PF destrói 10 dragas de garimpo ilegal no rio Madeira em Porto Velho
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/pf-destroi-dragas-de-garimpo-ilegal-no-rio-madeira-em-porto-velho.ghtml)_
 
+- **[2026-08-26 12:37 UTC]** PF destrói acampamento de extração ilegal de madeira em Terra Indígena de RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/26/pf-destroi-acampamento-de-extracao-ilegal-de-madeira-em-terra-indigena-de-ro.ghtml)_
+
