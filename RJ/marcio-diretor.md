@@ -17,3 +17,6 @@
 - **[2026-08-30 12:00 UTC]** Diretor de órgão da Prefeitura de SP relatou ameaça de empresa desclassificada de licitação da iluminação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/diretor-de-orgao-da-prefeitura-de-sp-relatou-ameaca-de-empresa-desclassificada-de-licitacao-da-iluminacao.shtml)_
 
+- **[2026-08-29 18:21 UTC]** VÍDEO: diretor de clube joga cadeira contra público em Maceió, após jogo do Campeonato Infantil de Handebol
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/29/video-diretor-de-clube-joga-cadeira-contra-publico-em-maceio-apos-jogo-do-campeonato-infantil-de-handebol.ghtml)_
+
