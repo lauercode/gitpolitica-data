@@ -629,3 +629,6 @@
 - **[2026-08-31 15:16 UTC]** Ex-marqueteiro de Flávio diz que saída da campanha se deu por desconexão com políticos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/ex-marqueteiro-de-flavio-diz-que-saida-da-campanha-se-deu-por-desconexao-com-politicos.shtml)_
 
+- **[2026-08-31 14:45 UTC]** Campanha de Lula deve pedir que TSE reconsidere suspensão de propaganda com 'currículo de Flávio'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/campanha-de-lula-deve-pedir-que-tse-reconsidere-suspensao-de-propaganda-com-curriculo-de-flavio.shtml)_
+
