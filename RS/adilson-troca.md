@@ -29,3 +29,6 @@
 - **[2026-08-29 14:17 UTC]** Cinco homens são presos após troca de tiros com PMs em Marabá
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/cinco-homens-sao-presos-apos-troca-de-tiros-com-pms-em-maraba.ghtml)_
 
+- **[2026-08-29 06:00 UTC]** VÍDEO: jovem troca música de formatura por áudios de familiares e emociona no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/video-jovem-troca-musica-de-formatura-por-audios-de-familiares-e-emociona-no-rs.ghtml)_
+
