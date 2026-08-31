@@ -29,3 +29,6 @@
 - **[2026-08-24 11:18 UTC]** Jornalista Rodrigues Neto, diretor da TV Câmara, morre no dia do aniversário em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/24/jornalista-rodrigues-neto-morre-dia-aniversario-natal.ghtml)_
 
+- **[2026-08-21 10:52 UTC]** Augusto Almeida, diretor da CCTECA, morre aos 61 anos em Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/morre-professor-augusto-almeida-em-aracaju.ghtml)_
+
