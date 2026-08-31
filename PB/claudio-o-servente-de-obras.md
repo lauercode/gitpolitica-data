@@ -47,3 +47,6 @@
 - **[2026-08-29 02:05 UTC]** Eleições 2026: Roberto Cidade visita obras em maternidade e apresenta propostas para educação
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-roberto-cidade-visita-obras-em-maternidade-e-apresenta-propostas-para-educacao.ghtml)_
 
+- **[2026-08-26 12:29 UTC]** Ponte sobre o Rio Maguari tem obras concluídas, mas segue sem liberação em Ananindeua
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/ponte-sobre-o-rio-maguari-tem-obras-concluidas-mas-segue-sem-liberacao-em-ananindeua.ghtml)_
+
