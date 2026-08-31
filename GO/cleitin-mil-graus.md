@@ -8,3 +8,6 @@
 - **[2026-08-29 15:00 UTC]** Candidatos que ocultam verdades criam defuntos insepultos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/candidatos-que-ocultam-verdades-criam-defuntos-insepultos.shtml)_
 
+- **[2026-08-31 15:02 UTC]** Semana começa com temperaturas acima de 40 graus no centro do país
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-08/semana-comeca-com-temperaturas-acima-de-40-graus-no-centro-do-pais)_
+
