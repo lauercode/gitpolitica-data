@@ -107,3 +107,6 @@
 - **[2026-08-28 19:24 UTC]** Modelo de gestão do AraSuper atrai grandes redes varejistas ao Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/arasuper/noticia/2026/08/28/modelo-de-gestao-do-arasuper-atrai-grandes-redes-varejistas-ao-acre.ghtml)_
 
+- **[2026-08-28 16:41 UTC]** Eclipse lunar parcial: veja fotos do fenômeno no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/eclipse-lunar-parcial-veja-fotos-do-fenomeno-no-acre.ghtml)_
+
