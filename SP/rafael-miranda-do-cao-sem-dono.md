@@ -29,3 +29,6 @@
 - **[2026-08-31 11:57 UTC]** Dono do Pão de Açúcar diz que Justiça estipulou prazo para MP-SP apresentar provas sobre retirada de credores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/dono-do-pao-de-acucar-diz-que-justica-estipulou-prazo-para-mp-sp-apresentar-provas-sobre-retirada-de-credores.shtml)_
 
+- **[2017-09-05 16:32 UTC]** Homem é preso suspeito de ser dono de 'disque droga' na Bahia
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/homem-e-preso-suspeito-de-chefiar-disque-droga-na-bahia.ghtml)_
+
