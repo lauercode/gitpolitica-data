@@ -245,3 +245,6 @@
 - **[2017-04-09 16:01 UTC]** Mattogrosso é eleito presidente do PSDB em Campo Grande
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/2017/04/mattogrosso-e-eleito-presidente-do-psdb-em-campo-grande.html)_
 
+- **[2018-07-14 16:09 UTC]** Presidente do STF dá 30 dias para que investigação sobre Aécio seja concluída
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/politica/operacao-lava-jato/noticia/presidente-do-stf-da-30-dias-para-que-investigacao-sobre-aecio-seja-concluida.ghtml)_
+
