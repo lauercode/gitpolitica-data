@@ -29,3 +29,6 @@
 - **[2026-08-31 16:28 UTC]** Ônibus de banda do RS é destruído por incêndio em estrada com vocalista no volante: 'Só deu tempo de ver o fogo'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/onibus-de-banda-do-rs-e-destruido-por-incendio-em-estrada-com-vocalista-no-volante-so-deu-tempo-de-ver-o-fogo.ghtml)_
 
+- **[2026-08-31 15:35 UTC]** Máquina de lavar pega fogo e provoca incêndio em RO; apartamento fica destruído
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/31/incendio-em-apartamento-em-ro.ghtml)_
+
