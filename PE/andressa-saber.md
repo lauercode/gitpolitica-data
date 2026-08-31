@@ -35,3 +35,6 @@
 - **[2026-08-31 21:09 UTC]** 'Quase perdi a boca': mulher tem necrose após receber PMMA sem saber em SC; empresária é condenada
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-necrose-pmma-sem-saber-sc-empresaria-condenada.ghtml)_
 
+- **[2026-08-27 16:14 UTC]** Bancário de SP desaparecido após deixar hostel em Florianópolis: o que se sabe e o que falta saber
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/bancario-de-sp-desaparecido-em-florianopolis-o-que-falta-saber.ghtml)_
+
