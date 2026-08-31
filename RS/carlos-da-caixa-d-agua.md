@@ -44,3 +44,6 @@
 - **[2026-08-28 19:26 UTC]** Falta de água: manutenção afeta bairros de Maceió e Rio Largo; veja locais
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/28/falta-de-agua-manutencao-afeta-bairros-de-maceio-e-rio-largo-veja-locais.ghtml)_
 
+- **[2026-08-17 11:10 UTC]** PM é baleado na cabeça por policial de folga após discussão em Água Preta
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/pe/caruaru-regiao/noticia/2026/08/17/pm-e-baleado-na-cabeca-por-policial-de-folga-apos-discussao-em-agua-preta.ghtml)_
+
