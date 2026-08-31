@@ -29,3 +29,6 @@
 - **[2026-08-31 15:24 UTC]** Brasileiro tem dificuldade em saber seus direitos, aponta pesquisa
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/brasileiro-tem-dificuldade-em-saber-seus-direitos-aponta-pesquisa)_
 
+- **[2017-07-12 18:29 UTC]** Neurologista reforça importância de saber prevenir o AVC e controlar fatores de risco
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/neurologista-reforca-importancia-de-saber-prevenir-o-avc-e-controlar-fatores-de-risco-.html)_
+
