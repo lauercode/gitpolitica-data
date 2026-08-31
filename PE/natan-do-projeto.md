@@ -74,3 +74,6 @@
 - **[2017-07-31 10:51 UTC]** Projeto Recitais de Piano traz concerto de Diogo Monzo em agosto
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/07/recitais-de-piano-traz-concerto-de-diogo-monzo-em-agosto.html)_
 
+- **[2017-10-30 14:11 UTC]** Motoristas do Uber fazem carreata no DF para protestar contra projeto que regulamenta serviço
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/motoristas-do-uber-fazem-carreata-no-df-para-protestar-contra-projeto-que-regulamenta-servico.ghtml)_
+
