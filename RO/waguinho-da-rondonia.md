@@ -17,3 +17,6 @@
 - **[2026-08-28 20:37 UTC]** Socorrista suspeito de matar ex-esposa e balear outra mulher é preso em Rondônia
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/28/socorrista-suspeito-de-matar-ex-esposa-e-balear-outra-mulher-e-preso-em-rondonia.ghtml)_
 
+- **[2026-08-28 13:36 UTC]** Lotofácil: Aposta de Rondônia ganha prêmio de R$ 846 mil
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/28/lotofacil-aposta-de-rondonia-ganha-premio.ghtml)_
+
