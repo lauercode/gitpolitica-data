@@ -17,3 +17,6 @@
 - **[2017-05-17 15:48 UTC]** Espetáculo 'Poracê' tem apresentações gratuitas em Campo Grande
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/espetaculo-inspirado-em-dancas-indigenas-tem-apresentacoes-gratuitas-em-campo-grande.ghtml)_
 
+- **[2026-08-28 20:43 UTC]** Companhia de dança clássica lança espetáculo natalino 'O Quebra-Nozes' em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/28/companhia-de-danca-classica-lanca-espetaculo-natalino-o-quebra-nozes-em-boa-vista.ghtml)_
+
