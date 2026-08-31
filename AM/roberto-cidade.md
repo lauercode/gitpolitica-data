@@ -53,3 +53,6 @@
 - **[2026-08-30 13:38 UTC]** Flávio Bolsonaro quer retomar obras de Angra 3 e resorts na cidade fluminense
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-retomar-obras-angra-3-resorts-cidade-fluminense/)_
 
+- **[2026-08-21 12:06 UTC]** Operação apreende quase 110 kg de explosivos dentro de imóvel na Cidade Universitária, em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/21/operacao-apreende-quase-110-kg-de-explosivos-dentro-de-imovel-na-cidade-universitaria-em-maceio.ghtml)_
+
