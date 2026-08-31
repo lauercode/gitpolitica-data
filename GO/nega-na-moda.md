@@ -14,3 +14,6 @@
 - **[2017-10-19 19:45 UTC]** MUNDO UNIFOR: André Carvalhal defende moda sustentável e com propósitos sociais
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/mundo-unifor-andre-carvalhal-defende-moda-sustentavel-e-com-propositos-sociais.ghtml)_
 
+- **[2018-07-07 19:55 UTC]** Passarela Fenearte tem espaço para produção local de moda
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/passarela-fenearte-tem-espaco-para-producao-local-de-moda.ghtml)_
+
