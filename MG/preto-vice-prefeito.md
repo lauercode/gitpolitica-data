@@ -32,3 +32,6 @@
 - **[2026-08-27 17:01 UTC]** Prefeito, primeira-dama e mais seis pessoas viram réus por fraudes em licitações, no Agreste da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/prefeito-primeira-dama-e-mais-seis-pessoas-viram-reus-por-fraudes-em-licitacoes-no-agreste-da-paraiba.ghtml)_
 
+- **[2026-08-26 16:45 UTC]** Prefeito de João Pessoa sanciona com vetos lei que torna obrigatória mamografia a partir dos 40 anos
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/26/prefeito-de-joao-pessoa-sanciona-com-vetos-lei-que-torna-obrigatoria-mamografia-a-partir-dos-40-anos.ghtml)_
+
