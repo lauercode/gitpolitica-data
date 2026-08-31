@@ -14,3 +14,6 @@
 - **[2018-07-17 09:54 UTC]** Caminhão tomba e explode em estrada que liga Cachoeiro a Vargem Alta no ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/caminhao-tomba-e-explode-em-estrada-que-liga-cachoeiro-a-vargem-alta-no-es.ghtml)_
 
+- **[2018-07-15 10:17 UTC]** Polícia investiga morte de mulher encontrada em estrada rural de MS com facada na nuca
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/policia-investiga-morte-de-mulher-encontrada-em-estrada-rural-de-ms-com-facada-na-nuca.ghtml)_
+
