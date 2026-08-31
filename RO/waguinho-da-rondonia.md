@@ -32,3 +32,6 @@
 - **[2026-08-22 13:06 UTC]** Fazendeiro é preso por furtar energia para irrigar lavoura de café em Rondônia
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/22/fazendeiro-e-preso-por-furto-de-energia-para-irrigar-lavoura-em-rondonia.ghtml)_
 
+- **[2026-08-21 14:24 UTC]** Apostas de Rondônia acertam a quina da Mega-Sena e faturam R$ 33 mil cada
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/concurso-3047-da-mega-sena.ghtml)_
+
