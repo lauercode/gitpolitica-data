@@ -20,3 +20,6 @@
 - **[2017-07-31 11:58 UTC]** Santa Casa da Bahia promove ciclo de palestras sobre compliance na saúde
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/santa-casa-da-bahia-promove-ciclo-de-palestras-sobre-compliance-na-saude.html)_
 
+- **[2018-07-14 14:35 UTC]** Menina que sobreviveu a acidente da BR-060 é transferida para CTI da Santa Casa de Campo Grande
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/menina-que-sobreviveu-a-acidente-da-br-060-e-transferida-para-cti-da-santa-casa-de-campo-grande.ghtml)_
+
