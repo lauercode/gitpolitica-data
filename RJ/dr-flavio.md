@@ -599,3 +599,6 @@
 - **[2026-08-31 01:00 UTC]** Flávio diz que indicará ao STF ministros “contrários ao aborto, drogas e injustiças”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-mudancas-no-stf-para-recuperar-credibilidade-da-corte/)_
 
+- **[2026-08-30 23:26 UTC]** TSE suspende propaganda de Lula que lista acusações contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/tse-suspende-propaganda-de-lula-que-lista-acusacoes-contra-flavio-bolsonaro.shtml)_
+
