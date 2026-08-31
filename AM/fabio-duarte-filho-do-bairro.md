@@ -20,3 +20,6 @@
 - **[2026-08-27 22:06 UTC]** Único campo de lazer de bairro da Zona Norte de Macapá virou 'lixão' e matagal, relatam moradores
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/unico-campo-de-lazer-de-bairro-da-zona-norte-de-macapa-virou-lixao-e-matagal-relatam-moradores.ghtml)_
 
+- **[2026-08-26 23:14 UTC]** Clécio Luís participa de caminhada no bairro do Araxá, em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/26/clecio-luis-participa-de-caminhada-no-bairro-do-araxa-em-macapa.ghtml)_
+
