@@ -65,3 +65,6 @@
 - **[2026-08-28 21:20 UTC]** SENAI-MA abre cinco vagas para instrutores no Maranhão com salários de até R$ 5,7 mil
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/concursos-e-emprego/noticia/2026/08/28/senai-ma-abre-cinco-vagas-para-instrutores-no-maranhao-com-salarios-de-ate-r-57-mil.ghtml)_
 
+- **[2018-07-20 23:26 UTC]** Veja as cinco contradições entre o que disse Dr. Bumbum e os documentos da investigação policial
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/07/20/veja-as-cinco-contradicoes-entre-o-que-disse-dr-bumbum-e-os-documentos-da-investigacao-policial.ghtml)_
+
