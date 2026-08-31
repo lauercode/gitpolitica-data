@@ -299,3 +299,6 @@
 - **[2026-08-31 20:56 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Alagoas
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-alagoas.ghtml)_
 
+- **[2026-08-31 21:14 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-amapa.ghtml)_
+
