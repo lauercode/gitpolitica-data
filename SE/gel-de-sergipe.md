@@ -107,3 +107,6 @@
 - **[2026-08-20 13:39 UTC]** Agências bancárias de Sergipe paralisam atividades nesta quinta
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/agencias-bancarias-de-sergipe-paralisam-atividades-nesta-quinta-feira.ghtml)_
 
+- **[2026-08-19 22:35 UTC]** Técnica de enfermagem é presa suspeita de desviar remédios e insumos de hospital em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/19/tecnica-de-enfermagem-e-presa-suspeita-de-desviar-remedios-e-insumos-de-hospital-publico-em-se.ghtml)_
+
