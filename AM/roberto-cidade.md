@@ -56,3 +56,6 @@
 - **[2026-08-21 12:06 UTC]** Operação apreende quase 110 kg de explosivos dentro de imóvel na Cidade Universitária, em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/21/operacao-apreende-quase-110-kg-de-explosivos-dentro-de-imovel-na-cidade-universitaria-em-maceio.ghtml)_
 
+- **[2026-08-31 21:49 UTC]** Eleições 2026: Roberto Cidade participa de entrevista e defende continuidade de programas de moradia no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-roberto-cidade-participa-de-entrevista-e-defende-continuidade-de-programas-de-moradia-no-am.ghtml)_
+
