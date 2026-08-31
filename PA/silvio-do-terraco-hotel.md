@@ -14,3 +14,6 @@
 - **[2026-08-20 13:45 UTC]** VÍDEO: incêndio atinge cobertura do hotel Ritz Suítes na Cruz das Almas, em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/20/video-incendio-atinge-cobertura-do-hotel-ritz-suites-na-cruz-das-almas-em-maceio.ghtml)_
 
+- **[2018-07-19 10:02 UTC]** Desocupação de terreno de hotel em Igarassu provoca protesto no Grande Recife
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/2018/07/19/protesto-contra-desocupacao-de-terreno-em-igarassu-complica-o-transito-no-grande-recife.ghtml)_
+
