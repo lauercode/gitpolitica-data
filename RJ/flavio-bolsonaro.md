@@ -482,3 +482,6 @@
 - **[2026-08-29 18:54 UTC]** Tarcísio faz afago em Flávio Bolsonaro e diz que Brasil sofre “opressão” como Israel
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/tarcisio-afago-flavio-bolsonaro-brasil-sofre-opressao-como-israel/)_
 
+- **[2026-08-31 00:58 UTC]** Justiça Eleitoral suspende propaganda eleitoral de Lula que chama Flávio Bolsonaro de 'funcionário fantasma'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/30/justica-eleitoral-suspende-propaganda-eleitoral-de-lula-que-chama-flavio-bolsonaro-de-funcionario-fantasma.ghtml)_
+
