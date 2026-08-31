@@ -8,3 +8,6 @@
 - **[2026-08-17 23:12 UTC]** Bombeiros buscam mulher que desapareceu após embarcação virar no Rio São Francisco em Sergipe
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/se/sergipe/noticia/2026/08/17/bombeiros-buscam-mulher-que-desapareceu-apos-embarcacao-virar-no-rio-sao-francisco-em-sergipe.ghtml)_
 
+- **[2017-10-24 18:35 UTC]** Incêndio no Parque Ecológico de Águas Claras, no  DF, mobiliza 36 bombeiros
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/incendio-no-parque-ecologico-de-aguas-claras-no-df-mobiliza-30-bombeiros.ghtml)_
+
