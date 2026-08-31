@@ -35,3 +35,6 @@
 - **[2018-05-10 12:09 UTC]** Regata Recife-Fernando de Noronha conta com 35 embarcações inscritas
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/regata-recife-fernando-de-noronha-conta-com-35-embarcacoes-inscritas.html)_
 
+- **[2018-05-10 11:03 UTC]** Fernando de Noronha deve receber R$ 21 milhões de compensação ambiental
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/fernando-de-noronha-deve-receber-r-21-milhoes-de-compensacao-ambiental.html)_
+
