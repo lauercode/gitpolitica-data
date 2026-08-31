@@ -23,3 +23,6 @@
 - **[2017-07-06 11:54 UTC]** Empresa de tecnologia de MS é a 4ª melhor para trabalhar no Centro-Oeste
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/digix/noticia/2017/07/empresa-de-tecnologia-de-ms-e-4-melhor-para-trabalhar-no-centro-oeste.html)_
 
+- **[2018-05-28 12:47 UTC]** Manifestações chegam ao 8º dia no Centro-Oeste de MG e serviços essenciais seguem afetados
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/centro-oeste/noticia/manifestacoes-chegam-ao-8-dia-no-centro-oeste-de-mg-e-servicos-essenciais-seguem-afetados.ghtml)_
+
