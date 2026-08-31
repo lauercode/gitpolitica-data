@@ -59,3 +59,6 @@
 - **[2017-08-02 13:11 UTC]** Congresso de Radiodifusão Norte-Nordeste ocorre em setembro em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/08/congresso-de-radiodifusao-norte-nordeste-ocorre-em-setembro-em-fortaleza.html)_
 
+- **[2017-07-28 14:46 UTC]** Exposição itinerante chega a Fortaleza e revela as diferentes técnicas e temáticas abordadas
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/07/exposicao-itinerante-chega-fortaleza-e-revela-diferentes-tecnicas-e-tematicas-abordadas.html)_
+
