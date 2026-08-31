@@ -23,3 +23,6 @@
 - **[2018-05-14 06:53 UTC]** Mutirão para construção de casas pode ser realizado em Fernando de Noronha com ajuda da Adra
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/mutirao-para-construcao-de-casas-pode-ser-realizado-em-fernando-de-noronha-com-ajuda-da-adra.html)_
 
+- **[2018-05-13 11:13 UTC]** Dias das Mães tem ensaio fotográfico em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/dias-das-maes-tem-ensaio-fotografico-em-fernando-de-noronha.html)_
+
