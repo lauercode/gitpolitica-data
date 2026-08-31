@@ -11,3 +11,6 @@
 - **[2026-08-28 10:37 UTC]** Indígena morre atropelado na MA-328; motorista é atacado e tem carro incendiado ao tentar prestar socorro
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/28/indigena-morre-atropelado-na-ma-328-motorista-e-atacado-e-tem-carro-incendiado-ao-tentar-prestar-socorro.ghtml)_
 
+- **[2026-08-29 06:00 UTC]** 'Eu tinha medo por causa da minha filha', diz mulher que usou prontuário de hospital do Paraná para escrever pedido de socorro e denunciar marido
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/29/relato-mulher-que-usou-prontuario-de-hospital-do-parana.ghtml)_
+
