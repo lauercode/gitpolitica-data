@@ -44,3 +44,6 @@
 - **[2026-08-28 14:42 UTC]** Servidor da SSP é afastado após bater caminhonete descaracterizada em motociclista que morreu em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/servidor-da-ssp-e-afastado-apos-bater-caminhonete-descaracterizada-em-motociclista-que-morreu-em-manaus.ghtml)_
 
+- **[2018-07-17 00:22 UTC]** 'Vai fazer muita falta', diz amigo de radialista que morreu em toboágua no Beach Park
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/sp/sorocaba-jundiai/noticia/vai-fazer-muita-falta-diz-amigo-de-radialista-que-morreu-em-toboagua-no-beach-park.ghtml)_
+
