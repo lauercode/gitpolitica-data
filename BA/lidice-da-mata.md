@@ -68,3 +68,6 @@
 - **[2018-07-17 12:45 UTC]** Homem morre em acidente com caminhão na BR-232, na Zona da Mata de Pernambuco
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/noticia/homem-morre-em-acidente-com-caminhao-na-br-232-na-zona-da-mata-de-pernambuco.ghtml)_
 
+- **[2026-08-28 13:52 UTC]** Operação identifica 31 hectares de desmatamento ilegal em Mata Atlântica no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/28/operacao-identifica-31-hectares-de-desmatamento-ilegal-em-mata-atlantica-no-rn.ghtml)_
+
