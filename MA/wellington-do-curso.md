@@ -38,3 +38,6 @@
 - **[2026-08-25 18:47 UTC]** Curso gratuito de Libras promove inclusão e acessibilidade em Pimenta Bueno
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/08/25/curso-gratuito-de-libras-promove-inclusao-e-acessibilidade-em-pimenta-bueno.ghtml)_
 
+- **[2026-08-30 18:14 UTC]** Instituto oferta 100 vagas em curso gratuito de inglês em Roraima; veja como se inscrever
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/30/instituto-oferta-100-vagas-em-curso-gratuito-de-ingles-em-roraima-veja-como-se-inscrever.ghtml)_
+
