@@ -62,3 +62,6 @@
 - **[2017-05-17 16:45 UTC]** Empreendedorismo feminino: agora é que são elas
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/empreendedorismo-feminino-agora-e-que-sao-elas.html)_
 
+- **[2018-05-03 16:38 UTC]** Combustível tem reajuste em Fernando de Noronha, a gasolina agora custa R$ 6,79
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/combustivel-tem-reajuste-em-fernando-de-noronha-gasolina-agora-custa-r-679.html)_
+
