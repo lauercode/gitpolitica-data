@@ -53,3 +53,6 @@
 - **[2026-08-26 09:00 UTC]** MPF pede condenação de ex-servidores da Funai e garimpeiros por esquema de propina em ouro na Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/mpf-pede-condenacao-de-ex-servidores-da-funai-e-garimpeiros-por-esquema-de-propina-em-ouro-na-terra-yanomami.ghtml)_
 
+- **[2026-08-24 18:41 UTC]** Servidores participam de capacitação para usar IA no planejamento de compras públicas
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/sebrae-roraima-onde-tem-empreendedor-tem-sebrae/noticia/2026/08/24/servidores-participam-de-capacitacao-para-usar-ia-no-planejamento-de-compras-publicas.ghtml)_
+
