@@ -26,3 +26,6 @@
 - **[2026-08-30 04:00 UTC]** Hospital em São Paulo usa afeto e diversão para aliviar tratamento de câncer infantil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/hospital-em-sao-paulo-usa-afeto-e-diversao-para-aliviar-tratamento-de-cancer-infantil.shtml)_
 
+- **[2026-08-31 17:59 UTC]** SUS terá novos medicamentos de alta tecnologia contra câncer de pulmão
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-08/sus-tera-novos-medicamentos-de-alta-tecnologia-contra-cancer-de-pulmao)_
+
