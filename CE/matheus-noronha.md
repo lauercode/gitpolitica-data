@@ -104,3 +104,6 @@
 - **[2018-04-27 11:11 UTC]** Gol abre novas opções de voos para Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/gol-abre-novas-opcoes-de-voos-para-fernando-de-noronha.html)_
 
+- **[2018-04-26 12:19 UTC]** Transferência de títulos eleitorais está suspensa em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/transferencia-de-titulos-eleitorais-esta-suspensa-em-fernando-de-noronha.html)_
+
