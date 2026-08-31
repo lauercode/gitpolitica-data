@@ -26,3 +26,6 @@
 - **[2026-08-24 19:33 UTC]** Eleições 2026: veja as propostas de Renan Filho ao governo de Alagoas
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-veja-as-propostas-de-renan-filho-ao-governo-de-alagoas.ghtml)_
 
+- **[2026-08-20 20:29 UTC]** Primeiras doações: JHC recebe R$ 200 mil do sogro e Renan Filho doa R$ 100 mil à própria campanha
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/20/primeiras-doacoes-jhc-recebe-r-200-mil-do-sogro-e-renan-filho-coloca-r-100-mil-na-propria-campanha.ghtml)_
+
