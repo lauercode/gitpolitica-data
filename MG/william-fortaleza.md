@@ -38,3 +38,6 @@
 - **[2017-09-11 18:21 UTC]** Vândalos apedrejam ônibus e agridem pedestres no trajeto para estádio em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/vandalos-apedrejam-onibus-e-agridem-pedestres-no-trajeto-para-estadio-em-fortaleza.ghtml)_
 
+- **[2017-09-08 13:40 UTC]** Policial leva cão nos braços no desfile da Independência em Fortaleza; veja vídeo
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/policial-carrega-cao-nos-bracos-no-desfile-da-independencia-em-fortaleza-foto-viraliza-na-internet.ghtml)_
+
