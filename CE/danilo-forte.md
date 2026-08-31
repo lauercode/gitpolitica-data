@@ -59,3 +59,6 @@
 - **[2026-08-31 11:20 UTC]** VÍDEO: Câmera frontal registra batida forte que matou motorista no Noroeste do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/video-camera-frontal-registra-batida-noroeste-rs.ghtml)_
 
+- **[2026-08-28 03:00 UTC]** RS terá mais três dias de chuva forte, granizo e rajadas de vento, aponta previsão; confira
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/rs-dias-chuva-forte-granizo-rajadas-vento-aponta-previsao-confira.ghtml)_
+
