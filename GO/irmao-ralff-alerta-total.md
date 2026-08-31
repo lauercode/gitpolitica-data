@@ -17,3 +17,6 @@
 - **[2026-08-30 06:08 UTC]** Islândia recusa em plebiscito retomar negociações de adesão à União Europeia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml)_
 
+- **[2026-08-26 17:26 UTC]** Eclipse lunar quase total poderá ser visto no Maranhão; UFMA e SAMA promovem observação em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/eclipse-lunar-quase-total-podera-ser-visto-no-ma-ufma-promovera-observacao-publica-em-sao-luis.ghtml)_
+
