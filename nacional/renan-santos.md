@@ -104,3 +104,6 @@
 - **[2026-08-21 00:46 UTC]** Renan Santos, candidato do Missão, defende zonas econômicas especiais no Nordeste
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/20/renan-santos-candidato-do-missao-defende-zonas-economicas-especiais-no-nordeste.ghtml)_
 
+- **[2026-08-25 23:01 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 32%; Ronaldo Caiado, 7%; Renan Santos; 3%
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-presidente-25-agosto.ghtml)_
+
