@@ -35,3 +35,6 @@
 - **[2026-08-31 03:00 UTC]** Jovem sob tortura de colegas no Paraná tentou acessar apartamento vizinho pela sacada antes de cair do 14º andar e morrer, detalha delegado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/31/jovem-tortura-parana-tentou-acessar-apartamento-vizinho.ghtml)_
 
+- **[2026-08-28 06:00 UTC]** 'Praticamente excluída', diz delegado sobre a possibilidade de outra pessoa envolvida na morte de família em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/possibilidade-de-outra-pessoa-morte-de-familia-em-curitiba.ghtml)_
+
