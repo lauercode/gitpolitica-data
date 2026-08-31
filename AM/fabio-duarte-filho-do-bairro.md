@@ -32,3 +32,6 @@
 - **[2026-08-29 13:11 UTC]** Incêndio atinge apartamento no último andar de prédio no bairro da Cremação, em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/incendio-atinge-apartamento-no-ultimo-andar-de-predio-no-bairro-da-cremacao-em-belem.ghtml)_
 
+- **[2026-08-26 14:52 UTC]** Vendedor de cosméticos é morto a tiros durante assalto dentro de casa no bairro Tenoné, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/vendedor-e-morto-a-tiros-durante-assalto-dentro-de-casa-no-bairro-tenone-em-belem.ghtml)_
+
