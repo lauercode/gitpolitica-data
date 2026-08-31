@@ -53,3 +53,6 @@
 - **[2026-08-31 18:22 UTC]** Renan Santos e Missão fazem post após decisão de Toffoli: 'Censurado'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/missao-faz-post-apos-toffoli-suspender-propaganda-digital-de-renan-santos.ghtml)_
 
+- **[2026-08-31 18:15 UTC]** Por que os candidatos devem informar perfis de redes ao TSE, e por que Renan Santos foi punido?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/por-que-os-candidatos-devem-informar-perfis-de-redes-ao-tse-e-por-que-renan-santos-foi-punido.ghtml)_
+
