@@ -86,3 +86,6 @@
 - **[2026-08-31 15:30 UTC]** Homem é preso em flagrante suspeito de matar colega de trabalho em Campina Grande
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/homem-e-preso-em-flagrante-suspeito-de-matar-colega-de-trabalho-em-campina-grande.ghtml)_
 
+- **[2026-08-30 15:36 UTC]** Pesquisadores da UFCG apresentam trabalho em congresso da ONU: 'A Caatinga e o Semiárido têm experiência científica relevante'
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/30/pesquisadores-da-ufcg-apresentam-trabalho-em-congresso-da-onu-a-caatinga-e-o-semiarido-tem-experiencia-cientifica-relevante.ghtml)_
+
