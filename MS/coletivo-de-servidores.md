@@ -26,3 +26,6 @@
 - **[2026-08-27 13:40 UTC]** Servidores da Saúde de Rio Branco denunciam atrasos no pagamento do salário: 'Sempre atrasou'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/servidores-da-saude-de-rio-branco-denunciam-atrasos-no-pagamento-do-salario-sempre-atrasou.ghtml)_
 
+- **[2017-09-01 14:35 UTC]** Governo do DF suspende vistorias em ônibus após prisão de 4 servidores
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/governo-do-df-suspende-vistorias-em-onibus-apos-prisao-de-4-servidores.ghtml)_
+
