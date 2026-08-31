@@ -56,3 +56,6 @@
 - **[2026-08-31 13:24 UTC]** AGU recorre ao TST para validar processo que incluiu mulher de desembargador na lista suja do trabalho escravo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/agu-recorre-ao-tst-para-validar-processo-que-incluiu-mulher-de-desembargador-na-lista-suja-do-trabalho-escravo.ghtml)_
 
+- **[2026-08-31 13:18 UTC]** Justiça do Trabalho condena Droga Raia a pagar R$ 4 mi por assédio e discriminação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/justica-do-trabalho-condena-droga-raia-a-pagar-r-4-mi-por-assedio-e-discriminacao.shtml)_
+
