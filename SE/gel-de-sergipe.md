@@ -29,3 +29,6 @@
 - **[2026-08-29 10:50 UTC]** Bombeiro de Sergipe sofre queda e morre durante curso de operações em árvores em BH
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/mg/minas-gerais/noticia/2026/08/29/bombeiro-sergipe-queda-morre-curso-bh.ghtml)_
 
+- **[2026-08-28 22:06 UTC]** População de Sergipe tem crescimento e alcança 2,3 milhões, aponta IBGE
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/populacao-de-sergipe-tem-crescimento-e-alcanca-23-milhoes-aponta-ibge.ghtml)_
+
