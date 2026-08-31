@@ -20,3 +20,6 @@
 - **[2026-08-29 18:21 UTC]** VÍDEO: diretor de clube joga cadeira contra público em Maceió, após jogo do Campeonato Infantil de Handebol
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/29/video-diretor-de-clube-joga-cadeira-contra-publico-em-maceio-apos-jogo-do-campeonato-infantil-de-handebol.ghtml)_
 
+- **[2018-07-20 23:24 UTC]** Motorista pediu para atuar em resgate de usuário de drogas que o matou a facadas, diz diretor da clínica
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2018/07/20/motorista-pediu-para-atuar-em-resgate-de-usuario-de-drogas-que-o-matou-a-facadas-diz-diretor-da-clinica.ghtml)_
+
