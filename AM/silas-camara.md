@@ -158,3 +158,6 @@
 - **[2026-08-31 11:10 UTC]** Câmara terá semana de esforço concentrado com votações a partir desta segunda-feira
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301089-camara-tera-semana-de-esforco-concentrado-com-votacoes-a-partir-desta-segunda-feira)_
 
+- **[2026-08-17 14:52 UTC]** Eleição para Câmara dos Deputados terá menos candidatos neste ano
+  _fonte: [Agência Câmara - Eleições](https://www.camara.leg.br/noticias/1298079-eleicao-para-camara-dos-deputados-tera-menos-candidatos-neste-ano)_
+
