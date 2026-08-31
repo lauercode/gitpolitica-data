@@ -204,3 +204,6 @@ Diretor
 - **[2026-08-19 13:21 UTC]** Câmara Municipal abre concurso público com salários de até R$ 12 mil em São Miguel do Guaporé, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/19/camara-municipal-abre-concurso-publico-em-sao-miguel-do-guapore-ro.ghtml)_
 
+- **[2026-08-17 23:23 UTC]** Presidente da Câmara de Cacoal cai de cavalo, vai para UTI e recebe alta em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/17/presidente-da-camara-de-cacoal-cai-de-cavalo-vai-para-uti-e-recebe-alta-em-ro.ghtml)_
+
