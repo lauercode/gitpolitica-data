@@ -41,3 +41,6 @@
 - **[2017-09-08 13:40 UTC]** Policial leva cão nos braços no desfile da Independência em Fortaleza; veja vídeo
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/policial-carrega-cao-nos-bracos-no-desfile-da-independencia-em-fortaleza-foto-viraliza-na-internet.ghtml)_
 
+- **[2017-08-22 14:19 UTC]** Fortaleza ganha aplicativo BoraPedalar
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/fortaleza-ganha-aplicativo-borapedalar.html)_
+
