@@ -131,3 +131,6 @@
 - **[2026-08-28 15:55 UTC]** Próximas desde a infância: quem eram as primas que tiveram as ossadas identificadas 4 meses após o assassinato no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/28/primas-desaparecidas-assassinadas-no-parana-quem-eram.ghtml)_
 
+- **[2026-08-28 13:40 UTC]** Médica, engenheiro e estudante: quem era família encontrada morta em apartamento no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/quem-era-familia-encontrada-morta-em-apartamento-no-parana.ghtml)_
+
