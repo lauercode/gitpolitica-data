@@ -17,3 +17,6 @@
 - **[2026-08-28 02:50 UTC]** O que pensam eleitores independentes de MG, estado 'termômetro' de eleições no Brasil? Veja na série 'Voto Pendular', do Jornal da Globo
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-da-globo/noticia/2026/08/27/o-que-pensam-eleitores-independentes-de-mg-estado-termometro-de-eleicoes-no-brasil-veja-na-serie-voto-pendular-do-jornal-da-globo.ghtml)_
 
+- **[2026-08-31 11:57 UTC]** Jornal argentino processa OpenAI e Microsoft por uso não autorizado de conteúdo e concorrência desleal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/jornal-argentino-processa-openai-e-microsoft-por-uso-nao-autorizado-de-conteudo-e-concorrencia-desleal.shtml)_
+
