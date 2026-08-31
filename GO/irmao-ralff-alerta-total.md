@@ -26,3 +26,6 @@
 - **[2026-08-27 09:10 UTC]** Eclipse 'quase' total da Lua acontece nesta quinta-feira (27) e pode ser observado da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/eclipse-quase-total-da-lua-acontece-nesta-quinta-feira-27-e-podera-ser-observado-da-paraiba.ghtml)_
 
+- **[2018-07-17 10:39 UTC]** Veja 13 concursos previstos para o estado de SP este ano; total de vagas chega a quase 22 mil
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/economia/concursos-e-emprego/noticia/veja-13-concursos-previstos-para-o-estado-de-sp-este-ano-total-de-vagas-chega-a-quase-22-mil.ghtml)_
+
