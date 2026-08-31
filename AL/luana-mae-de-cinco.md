@@ -83,3 +83,6 @@
 - **[2026-08-28 12:34 UTC]** Cinco trabalhadores morrem após caminhonete bater de frente com caminhão, no PR; polícia investiga circunstâncias do acidente
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/28/morte-cinco-trabalhadores-acidente-ventania-parana.ghtml)_
 
+- **[2018-07-11 09:53 UTC]** Bandas que tocaram no carnaval esperam cachê da Prefeitura do Rio há cinco meses
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/rio-de-janeiro/noticia/bandas-que-tocaram-no-carnaval-esperam-cache-da-prefeitura-do-rio-ha-cinco-meses.ghtml)_
+
