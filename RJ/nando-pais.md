@@ -29,3 +29,6 @@
 - **[2026-08-30 08:00 UTC]** Socos e canivetes em sala
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/socos-e-canivetes-em-sala.shtml)_
 
+- **[2017-07-13 11:47 UTC]** Viroses infantis exigem atenção redobrada dos pais
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/viroses-infantis-exigem-atencao-redobrada-dos-pais.html)_
+
