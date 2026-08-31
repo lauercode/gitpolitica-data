@@ -32,3 +32,6 @@
 - **[2026-08-29 23:02 UTC]** Vistoria encontra medicamentos vencidos e falta de insumos em estoque da saúde pública no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/vistoria-encontra-medicamentos-vencidos-e-falta-de-insumos-em-estoque-da-saude-publica-no-tocantins.ghtml)_
 
+- **[2026-08-29 15:13 UTC]** Homem desaparece durante festejo religioso no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/homem-desaparece-durante-festejo-religioso-no-interior-do-tocantins.ghtml)_
+
