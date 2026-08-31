@@ -80,3 +80,6 @@
 - **[2026-08-31 18:25 UTC]** Suprema Corte libera construção de salão de festas de Trump na Casa Branca
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/suprema-corte-libera-construcao-de-salao-de-festas-de-trump-na-casa-branca.shtml)_
 
+- **[2026-08-31 18:06 UTC]** Negociação está em novo cenário e Trump orientou a favor de buscar acordo com o Brasil, diz ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/negociacao-esta-em-novo-cenario-e-trump-orientou-a-favor-de-buscar-acordo-com-o-brasil-diz-ministro.shtml)_
+
