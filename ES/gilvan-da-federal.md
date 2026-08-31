@@ -308,3 +308,6 @@
 - **[2026-08-27 20:45 UTC]** Garimpo ilegal no Pará: operação federal flagra extração de ouro sob linhas de transmissão
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/garimpo-ilegal-no-para-operacao-federal-flagra-extracao-de-ouro-sob-linhas-de-transmissao.ghtml)_
 
+- **[2018-07-17 10:14 UTC]** Filho de deputado federal fica ferido e duas pessoas morrem em acidente em Bezerros
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/filho-de-deputado-federal-fica-ferido-e-duas-pessoas-morrem-em-acidente-em-bezerros.ghtml)_
+
