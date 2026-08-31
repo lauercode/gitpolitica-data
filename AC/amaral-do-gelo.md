@@ -17,3 +17,6 @@
 - **[2026-08-31 11:53 UTC]** VÍDEO: temporais de granizo com pedras de gelo do tamanho de ovos de galinha causam estragos no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/31/video-temporais-de-granizo-com-pedras-de-gelo-do-tamanho-de-ovos-de-galinha-causam-estragos-no-parana.ghtml)_
 
+- **[2026-08-31 17:06 UTC]** Como o granizo se forma? Bolas de gelo de até 4 cm danificaram carros e mais de 3 mil casas em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/como-granizo-se-forma-bolas-de-gelo-danificaram-carros-casas-sc.ghtml)_
+
