@@ -32,3 +32,6 @@
 - **[2026-08-25 22:07 UTC]** Clécio Luís participa de reunião, gravação e caminhada em Santana
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/25/clecio-luis-participa-de-reuniao-gravacao-e-uma-caminhada-em-santana.ghtml)_
 
+- **[2026-08-24 22:07 UTC]** Clécio Luís visita empreendimento e participa de caminhada em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/24/clecio-luis-visita-empreendimento-e-participa-de-caminhada-em-macapa.ghtml)_
+
