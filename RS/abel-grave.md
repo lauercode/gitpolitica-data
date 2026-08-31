@@ -14,3 +14,6 @@
 - **[2018-07-16 16:41 UTC]** Menina do ES que perdeu pais em acidente continua em estado grave em MS
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/menina-do-es-que-perdeu-pais-em-acidente-continua-em-estado-grave-em-ms.ghtml)_
 
+- **[2018-07-10 12:25 UTC]** Bebê de 5 meses é internado em estado grave após acidente em creche em Poços de Caldas, MG
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/bebe-de-5-meses-e-internado-em-estado-grave-apos-acidente-em-creche-em-pocos-de-caldas-mg.ghtml)_
+
