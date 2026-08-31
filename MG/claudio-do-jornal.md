@@ -113,3 +113,6 @@
 - **[2026-08-25 00:29 UTC]** VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 24 de agosto de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-24-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-24 17:02 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de segunda-feira, 24 de agosto de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-segunda-feira-24-de-agosto-de-2026.ghtml)_
+
