@@ -11,3 +11,6 @@
 - **[2026-08-25 21:06 UTC]** Motociclista tem pé direito amputado durante colisão com carro no Acre; Veja VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/video-motociclista-tem-pe-amputado-durante-colisao-com-carro-no-acre.ghtml)_
 
+- **[2026-08-30 14:35 UTC]** Homem morre após ser atropelado por motociclista na ponte Jornalista Phelippe Daou, em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/30/homem-morre-apos-ser-atropelado-por-motociclista-na-ponte-jornalista-phelippe-daou-em-manaus.ghtml)_
+
