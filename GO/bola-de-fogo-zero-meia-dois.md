@@ -143,3 +143,6 @@
 - **[2026-08-21 11:58 UTC]** Homem condenado pela morte de dois PRFs em RO é preso em Boa Vista
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/homem-condenado-pela-morte-de-dois-prfs-em-ro-e-preso-em-boa-vista.ghtml)_
 
+- **[2026-08-29 21:09 UTC]** Moto avança sinal vermelho, é atingida por carro e dois ficam feridos em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/moto-avanca-sinal-vermelho-e-atingida-por-carro-e-dois-ficam-feridos-em-boa-vista.ghtml)_
+
