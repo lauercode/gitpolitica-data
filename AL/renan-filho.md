@@ -14,3 +14,6 @@
 - **[2026-08-28 20:34 UTC]** Renan Filho aposta em ‘fazer história de novo’ e JHC fala em mudança no primeiro guia eleitoral em AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-aposta-em-fazer-historia-de-novo-e-jhc-fala-em-mudanca-no-primeiro-guia-eleitoral-em-al.ghtml)_
 
+- **[2026-08-26 20:40 UTC]** Agenda em AL: Renan Filho faz adesivaço e JHC visita hospital
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/26/agenda-em-al-renan-filho-faz-adesivaco-e-jhc-visita-hospital.ghtml)_
+
