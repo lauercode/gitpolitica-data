@@ -107,3 +107,6 @@
 - **[2026-08-27 13:31 UTC]** Acidente entre carreta e caminhonete deixa cinco pessoas mortas na BR-364 em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/acidente-deixa-cinco-pessoas-em-acidente-na-br-364-em-ro.ghtml)_
 
+- **[2026-08-27 14:57 UTC]** Estudante de direito natural do MS é encontrado morto cinco dias após desaparecer em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/estudante-de-direito-do-ms-achado-morto-itapema-sc.ghtml)_
+
