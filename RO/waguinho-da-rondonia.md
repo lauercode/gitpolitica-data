@@ -38,3 +38,6 @@
 - **[2026-08-21 08:03 UTC]** Homem é denunciado por chefiar garimpo ilegal de diamante dentro de terras indígenas de Rondônia
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/homem-e-denunciado-por-chefiar-garimpo-ilegal-de-diamante-dentro-de-terras-indigenas-de-rondonia.ghtml)_
 
+- **[2026-08-20 16:06 UTC]** Agências bancárias paralisam atividades em Rondônia; 89 unidades aderem ao movimento
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/20/agencias-bancarias-paralisam-atividades-em-rondonia.ghtml)_
+
