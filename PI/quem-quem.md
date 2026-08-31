@@ -128,3 +128,6 @@
 - **[2026-08-29 10:00 UTC]** Caso Yasmin Macêdo: 'nada do que foi dito muda a verdade sobre quem ela era', diz mãe em carta aberta
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/caso-yasmin-macedo-nada-do-que-foi-dito-muda-a-verdade-sobre-quem-ela-era-diz-mae-em-carta-aberta.ghtml)_
 
+- **[2026-08-28 15:55 UTC]** Próximas desde a infância: quem eram as primas que tiveram as ossadas identificadas 4 meses após o assassinato no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/28/primas-desaparecidas-assassinadas-no-parana-quem-eram.ghtml)_
+
