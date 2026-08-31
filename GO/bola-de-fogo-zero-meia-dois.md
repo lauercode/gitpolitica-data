@@ -149,3 +149,6 @@
 - **[2026-08-29 15:07 UTC]** Motorista fica preso às ferragens após colisão entre dois carros na BR-101
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/29/motorista-fica-preso-as-ferragens-apos-colisao-entre-dois-carros-na-br-101.ghtml)_
 
+- **[2026-08-20 12:39 UTC]** Dois homens são presos e drogas são apreendidas durante operação da Polícia Civil em Estância
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/duas-pessoas-sao-presas-e-drogas-sao-apreendidas-durante-operacao-da-policia-civil-em-estancia.ghtml)_
+
