@@ -14,3 +14,6 @@
 - **[2026-08-29 13:02 UTC]** Candidatos do concurso da Guarda Civil de Macapá são convocados para etapa prática de músicos
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/29/candidatos-do-concurso-da-guarda-civil-de-macapa-sao-convocados-para-etapa-pratica-de-musicos.ghtml)_
 
+- **[2018-07-20 17:12 UTC]** Presença de guarda-vidas em piscinas de uso coletivo passa a ser obrigatória em BH
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/minas-gerais/noticia/2018/07/20/presenca-de-guarda-vidas-em-piscinas-de-uso-coletivo-passa-a-ser-obrigatoria-em-bh.ghtml)_
+
