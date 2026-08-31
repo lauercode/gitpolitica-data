@@ -11,3 +11,6 @@
 - **[2018-07-08 10:20 UTC]** Após início de inverno quente, frio chega a MS e semana começa com temperaturas abaixo de 10°C
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/apos-inicio-de-inverno-quente-frio-chega-a-ms-e-semana-comeca-com-temperaturas-abaixo-de-10c.ghtml)_
 
+- **[2018-04-27 17:15 UTC]** Espante o frio com um delicioso caldo de legumes; confira a receita
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/simone-mendes/post/espante-o-frio-com-um-delicioso-caldo-de-legumes-confira-receita.html)_
+
