@@ -14,3 +14,6 @@
 - **[2018-07-10 15:23 UTC]** Pastor pregou, fez selfie sorrindo e foi lanchar após morte de irmãos no ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/pastor-pregou-fez-selfie-sorrindo-e-foi-lanchar-apos-morte-de-irmaos-no-es.ghtml)_
 
+- **[2018-07-09 14:55 UTC]** Pastor acusado de matar filho e enteado é indiciado por mais um estupro no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/pastor-acusado-de-matar-filho-e-enteado-e-indiciado-por-mais-um-estupro-no-es.ghtml)_
+
