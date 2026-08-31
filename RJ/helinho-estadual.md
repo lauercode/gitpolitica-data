@@ -41,3 +41,6 @@
 - **[2026-08-26 16:24 UTC]** Professor é investigado por suspeita de estupro de vulnerável contra alunas de 8 anos em escola estadual do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/policia-investiga-professor-suspeito-estupro-cachoeirinha.ghtml)_
 
+- **[2026-08-26 13:22 UTC]** Professores da rede estadual iniciam  paralisação de 48 horas em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/professores-da-rede-estadual-iniciam-paralisacao-de-48-horas-em-sergipe.ghtml)_
+
