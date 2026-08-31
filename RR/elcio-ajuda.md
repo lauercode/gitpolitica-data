@@ -23,3 +23,6 @@
 - **[2026-08-27 23:47 UTC]** Coleta de DNA ajuda na identificação de pessoas desaparecidas no Amapá; saiba como participar
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/coleta-de-dna-ajuda-na-identificacao-de-pessoas-desaparecidas-no-amapa-saiba-como-participar.ghtml)_
 
+- **[2017-10-15 17:23 UTC]** Missionário cearense contrai doença na Guiné-Bissau e família quer ajuda para transferência
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/missionario-cearense-contrai-doenca-na-guine-bissau-e-familia-quer-ajuda-para-transferencia.ghtml)_
+
