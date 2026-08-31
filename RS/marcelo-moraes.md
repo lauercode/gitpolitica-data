@@ -98,3 +98,6 @@
 - **[2026-08-31 18:34 UTC]** Julgamento do 8 de janeiro empata e pode levar a nova derrota de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/julgamento-do-8-de-janeiro-empata-e-pode-levar-a-nova-derrota-de-moraes/)_
 
+- **[2026-08-31 18:44 UTC]** Moraes marca julgamento de ação contra Eduardo Bolsonaro por atuação nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/moraes-marca-julgamento-de-acao-contra-eduardo-bolsonaro-por-atuacao-nos-eua.shtml)_
+
