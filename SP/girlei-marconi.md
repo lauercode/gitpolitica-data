@@ -11,3 +11,6 @@
 - **[2026-08-27 22:18 UTC]** Quaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/27/quaest-go-27-de-agosto.ghtml)_
 
+- **[2017-04-06 22:22 UTC]** STJ arquiva 3 processos contra Marconi após escutas de Demóstenes serem anuladas
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/stj-arquiva-3-processos-contra-marconi-apos-escutas-de-demostenes-serem-anuladas.ghtml)_
+
