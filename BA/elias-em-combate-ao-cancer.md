@@ -32,3 +32,6 @@
 - **[2026-08-31 12:35 UTC]** 'ICMBio é o maior câncer neste país', diz Plínio Valério em sabatina; senador defende Zona Franca e cita projetos
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/icmbio-e-o-maior-cancer-neste-pais-diz-plinio-valerio-em-sabatina-senador-defende-zona-franca-e-cita-projetos.ghtml)_
 
+- **[2017-07-24 19:00 UTC]** MÉDICO ALERTA SOBRE PERIGOS DO CÂNCER DO COLO DO ÚTERO
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/medico-alerta-sobre-perigos-do-cancer-do-colo-do-utero.html)_
+
