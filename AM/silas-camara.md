@@ -210,3 +210,6 @@ Diretor
 - **[2026-08-29 15:43 UTC]** Câmara de Rorainópolis suspende auxílio-transporte de R$ 2,5 mil a vereadores após ação do MP
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/camara-de-rorainopolis-suspende-auxilio-transporte-de-r-25-mil-a-vereadores-apos-acao-do-mp.ghtml)_
 
+- **[2026-08-25 22:47 UTC]** Câmara de Aracaju aprova projeto que regulamenta estações de recarga para veículos elétricos
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/25/camara-de-aracaju-aprova-projeto-que-regulamenta-estacoes-de-recarga-para-veiculos-eletricos.ghtml)_
+
