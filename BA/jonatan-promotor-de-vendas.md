@@ -14,3 +14,6 @@
 - **[2018-07-15 22:02 UTC]** Artesãos comemoram vendas e encomendas realizadas na Fenearte
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/artesaos-comemoram-vendas-e-encomendas-realizadas-na-fenearte.ghtml)_
 
+- **[2018-07-14 20:37 UTC]** Promoções aumentam vendas de rendas e artigos de cama, mesa e banho na Fenearte
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/promocoes-aumentam-vendas-de-rendas-e-artigos-de-cama-mesa-e-banho-na-fenearte.ghtml)_
+
