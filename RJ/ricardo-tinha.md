@@ -26,3 +26,6 @@
 - **[2026-08-28 04:00 UTC]** Marido de mulher com mesma doença de Lito cultiva hobbies que ela tinha antes do diagnóstico: 'Boto música, leio, converso'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/marido-de-mulher-com-mesma-doenca-de-lito-cultiva-hobbies-que-ela-tinha-antes-do-diagnostico.ghtml)_
 
+- **[2026-08-31 14:56 UTC]** Homem morto na frente da esposa e filhos tinha desentendimento anterior com suspeito, diz polícia
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/homem-morto-na-frente-da-esposa-e-filhos-tinha-desentendimento-anterior-com-suspeito-diz-policia.ghtml)_
+
