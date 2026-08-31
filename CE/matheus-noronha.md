@@ -62,3 +62,6 @@
 - **[2018-05-06 09:36 UTC]** Fernando de Noronha terá  1º Encontro Espírita
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/fernando-de-noronha-tera-1-encontro-espirita.html)_
 
+- **[2018-05-05 07:53 UTC]** “Meu Malvado Favorito” será exibido na reabertura do Cine Mabuya, em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/meu-malvado-favorito-sera-exibido-na-reabertura-do-cine-mabuya-em-fernando-de-noronha.html)_
+
