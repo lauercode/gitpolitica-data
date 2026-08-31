@@ -32,3 +32,6 @@
 - **[2026-08-26 10:26 UTC]** PM atira para o alto durante briga de trânsito em frente à escola em Santa Inês
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/pm-atira-briga-de-transito-em-frente-a-escola-em-santa-ines.ghtml)_
 
+- **[2018-07-21 19:34 UTC]** Banda Sinfônica do Recife faz dois concertos no Teatro de Santa Isabel
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/musica/noticia/2018/07/21/banda-sinfonica-do-recife-faz-dois-concertos-no-teatro-de-santa-isabel.ghtml)_
+
