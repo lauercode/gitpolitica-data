@@ -32,3 +32,6 @@
 - **[2026-08-31 14:18 UTC]** Ciclista morre após ser atingido por carro em Mucajaí
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/31/ciclista-morre-apos-ser-atingido-por-carro-em-mucajai.ghtml)_
 
+- **[2026-08-30 21:25 UTC]** Ciclista morre após batida com carro em Nossa Senhora das Dores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/30/ciclista-morre-apos-batida-com-carro-em-sergipe.ghtml)_
+
