@@ -23,3 +23,6 @@
 - **[2017-10-31 08:38 UTC]** TRE nega recurso de prefeito de São Mateus, no ES, sobre cassação de mandato
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/norte-noroeste-es/noticia/tre-nega-recurso-de-prefeito-de-sao-mateus-no-es-sobre-cassacao-de-mandato.ghtml)_
 
+- **[2017-07-26 22:42 UTC]** Prefeito de Goiânia interdita Parque Mutirama após acidente com brinquedo que deixou crianças feridas
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/prefeito-de-goiania-interdita-parque-mutirama-apos-acidente-com-brinquedo-que-deixou-criancas-feridas.ghtml)_
+
