@@ -17,3 +17,6 @@
 - **[2026-08-31 19:59 UTC]** Toffoli suspende campanha de candidato do Democrata à Presidência da República
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-suspende-campanha-de-candidato-do-democrata-a-presidencia-da-republica/)_
 
+- **[2026-08-31 21:19 UTC]** Democrata muda chapa e lança Ruth Reis como candidata ao governo do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/31/democrata-muda-chapa-e-lanca-ruth-reis-como-candidata-ao-governo-do-para.ghtml)_
+
