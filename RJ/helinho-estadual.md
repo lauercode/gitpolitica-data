@@ -23,3 +23,6 @@
 - **[2026-08-30 03:00 UTC]** VÍDEO: Qual a diferença entre deputado estadual e federal?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/30/video-a-diferenca-entre-deputado-estadual-e-federal.ghtml)_
 
+- **[2026-08-31 03:01 UTC]** Eleições 2026: O que faz um deputado estadual?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-o-que-faz-um-deputado-estadual.ghtml)_
+
