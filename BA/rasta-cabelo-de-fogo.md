@@ -41,3 +41,6 @@
 - **[2018-07-14 20:28 UTC]** Caminhão pega fogo e causa lentidão na rodovia Castello Branco, em SP; veja vídeo
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sao-paulo/noticia/caminhao-pega-fogo-e-causa-lentidao-na-castello-branco-veja-video.ghtml)_
 
+- **[2018-07-10 13:31 UTC]** Motorista morre carbonizado após carreta capotar e pegar fogo em rodovia do interior de SP
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/bauru-marilia/noticia/motorista-morre-carbonizado-apos-carreta-capotar-e-pegar-fogo-em-rodovia.ghtml)_
+
