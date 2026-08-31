@@ -626,3 +626,6 @@
 - **[2026-08-31 19:04 UTC]** Fato ou Fake: veja checagens das entrevistas de Zema, Caiado, Renan Santos, Lula, Flávio Bolsonaro e Augusto Cury à Globo
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/31/fato-ou-fake-veja-checagens-das-entrevistas-de-zema-caiado-renan-santos-lula-flavio-bolsonaro-e-augusto-cury-a-globo.ghtml)_
 
+- **[2026-08-31 15:16 UTC]** Ex-marqueteiro de Flávio diz que saída da campanha se deu por desconexão com políticos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/ex-marqueteiro-de-flavio-diz-que-saida-da-campanha-se-deu-por-desconexao-com-politicos.shtml)_
+
