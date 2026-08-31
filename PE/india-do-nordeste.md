@@ -32,3 +32,6 @@
 - **[2026-08-29 19:26 UTC]** João Pessoa é a capital do Nordeste com maior crescimento populacional, aponta IBGE
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/29/joao-pessoa-e-capital-do-nordeste-com-maior-crescimento-populacional-aponta-ibge.ghtml)_
 
+- **[2026-08-28 23:42 UTC]** Paraíba chega a 4,1 milhões de habitantes e lidera crescimento populacional no Nordeste em 2026
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/paraiba-chega-a-41-milhoes-de-habitantes-e-lidera-crescimento-populacional-no-nordeste-2026.ghtml)_
+
