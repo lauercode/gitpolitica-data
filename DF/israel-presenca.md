@@ -17,3 +17,6 @@
 - **[2017-07-10 18:54 UTC]** Detran – GO marca presença em escola públicas e privadas de Goiás.
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/detran-go-marca-presenca-em-escola-publicas-e-privadas-de-goias_.html)_
 
+- **[2018-07-20 17:12 UTC]** Presença de guarda-vidas em piscinas de uso coletivo passa a ser obrigatória em BH
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/minas-gerais/noticia/2018/07/20/presenca-de-guarda-vidas-em-piscinas-de-uso-coletivo-passa-a-ser-obrigatoria-em-bh.ghtml)_
+
