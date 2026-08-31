@@ -11,3 +11,6 @@
 - **[2026-08-27 15:31 UTC]** Programa da Novo Nordisk vira política pública em Campinas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/programa-da-novo-nordisk-vira-politica-publica-em-campinas.shtml)_
 
+- **[2026-08-31 20:28 UTC]** De migrante a líder comunitária: jornalista venezuelana transforma experiência de recomeço em apoio a famílias no Mauazinho
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/de-migrante-a-lider-comunitaria-jornalista-venezuelana-transforma-experiencia-de-recomeco-em-apoio-a-familias-no-mauazinho.ghtml)_
+
