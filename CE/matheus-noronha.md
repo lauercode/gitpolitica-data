@@ -38,3 +38,6 @@
 - **[2018-05-10 11:03 UTC]** Fernando de Noronha deve receber R$ 21 milhões de compensação ambiental
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/fernando-de-noronha-deve-receber-r-21-milhoes-de-compensacao-ambiental.html)_
 
+- **[2018-05-09 12:36 UTC]** É ou não é? Neymar e Bruna Marquezine vão casar em Fernando de Noronha?
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/e-ou-nao-e-neymar-e-bruna-marquezine-vao-casar-em-fernando-de-noronha.html)_
+
