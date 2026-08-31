@@ -62,3 +62,6 @@
 - **[2026-08-21 13:31 UTC]** Enfermeira suspeita de esfaquear colega de trabalho em União dos Palmares se apresenta à polícia
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/21/enfermeira-suspeita-de-esfaquear-colega-de-trabalho-em-uniao-dos-palmares-se-apresenta-a-policia.ghtml)_
 
+- **[2026-08-19 10:33 UTC]** VÍDEO: enfermeira é esfaqueada por colega de trabalho durante discussão em União dos Palmares
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/19/video-enfermeira-e-esfaqueada-por-colega-de-trabalho-durante-discussao-em-uniao-dos-palmares-al.ghtml)_
+
