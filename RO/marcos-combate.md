@@ -41,3 +41,6 @@
 - **[2026-08-27 20:31 UTC]** Maranhense morre em combate na guerra entre Ucrânia e Rússia, diz família
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/27/maranhense-morre-em-combate-na-guerra-entre-ucrania-e-russia-diz-familia.ghtml)_
 
+- **[2017-08-29 10:57 UTC]** Ação da PF combate grupo suspeito de comprar drogas de traficante brasileiro preso no Paraguai
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/acao-da-pf-combate-grupo-suspeito-de-comprar-drogas-de-traficante-brasileiro-preso-no-paraguai.ghtml)_
+
