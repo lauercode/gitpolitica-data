@@ -50,3 +50,6 @@
 - **[2017-04-17 18:14 UTC]** Motociclista que se acidentou em curva está no CTI
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/motociclista-que-se-acidentou-em-curva-esta-no-cti.ghtml)_
 
+- **[2017-04-09 12:44 UTC]** Em MS, motociclista de 35 anos perde controle do veículo, cai e morre
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/2017/04/em-ms-motociclista-de-35-anos-perde-controle-do-veiculo-cai-e-morre.html)_
+
