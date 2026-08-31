@@ -11,3 +11,6 @@
 - **[2026-08-27 22:39 UTC]** Eleições 2026 em SC: João Rodrigues visita obras e participa de caminhadas no Vale do Itajaí
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-e-participa-de-caminhadas-no-vale-do-itajai.ghtml)_
 
+- **[2026-08-26 21:44 UTC]** Eleições 2026 em SC: João Rodrigues faz caminhada e se reúne com apoiadores em Joinville
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-em-sc-joao-rodrigues-faz-caminhada-e-se-reune-com-apoiadores-em-joinville.ghtml)_
+
