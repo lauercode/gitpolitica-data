@@ -17,3 +17,6 @@
 - **[2018-07-11 22:03 UTC]** Irmãos de 3 anos são encontrados trancados dentro de caixote no ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/irmaos-de-3-anos-sao-encontrados-trancados-dentro-de-caixote-no-es.ghtml)_
 
+- **[2018-07-10 15:23 UTC]** Pastor pregou, fez selfie sorrindo e foi lanchar após morte de irmãos no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/pastor-pregou-fez-selfie-sorrindo-e-foi-lanchar-apos-morte-de-irmaos-no-es.ghtml)_
+
