@@ -32,3 +32,6 @@
 - **[2026-08-17 19:27 UTC]** JHC, Renan Filho, Alfredo Gaspar: entenda as reviravoltas nas chapas em Alagoas
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/17/jhc-renan-filho-alfredo-gaspar-entenda-as-reviravoltas-nas-chapas-em-alagoas.ghtml)_
 
+- **[2026-08-16 17:18 UTC]** Eleições 2026: veja a agenda de Renan Filho neste domingo (16)
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/16/eleicoes-2026-veja-a-agenda-de-renan-filho-neste-domingo-16.ghtml)_
+
