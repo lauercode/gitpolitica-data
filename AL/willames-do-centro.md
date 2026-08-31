@@ -53,3 +53,6 @@
 - **[2026-08-27 21:41 UTC]** Eleições 2026: Professora Maria do Carmo faz caminhada pelo Centro de Manaus e propõe aumentar profissionais de saúde no Estado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-professora-maria-do-carmo-faz-caminhada-pelo-centro-de-manaus-e-propoe-aumentar-profissionais-de-saude-no-estado.ghtml)_
 
+- **[2018-07-13 14:48 UTC]** Caminhada no centro de Salvador celebra 28 anos do Estatuto da Criança e do Adolescente
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/noticia/caminhada-em-salvador-celebra-28-anos-do-estatuto-da-crianca-e-do-adolescente.ghtml)_
+
