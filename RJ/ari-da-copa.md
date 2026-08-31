@@ -35,3 +35,6 @@
 - **[2026-08-31 21:43 UTC]** Copa, gols, recordes e lágrimas: os momentos inesquecíveis de Lionel Messi na seleção da Argentina e nos clubes
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/clyk5zr3vxyo?at_medium=RSS&at_campaign=rss)_
 
+- **[2018-05-02 16:22 UTC]** Apresentador do Globo Esporte, George Guilherme,  visita Fernando de Noronha e fala de Copa do Mundo
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/apresentador-do-globo-esporte-george-guilherme-visita-fernando-de-noronha-e-fala-de-copa-do-mundo.html)_
+
