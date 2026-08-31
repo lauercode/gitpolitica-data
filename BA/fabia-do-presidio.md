@@ -17,3 +17,6 @@
 - **[2017-04-02 16:32 UTC]** Detentos usam escada improvisada e fogem de presídio após pular muro
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/detentos-usam-escada-improvisada-e-fogem-de-presidio-apos-pular-muro.html)_
 
+- **[2017-10-24 12:35 UTC]** Cerca de 60 presos diagnosticados com tuberculose no maior presídio de MT são isolados para tratamento
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/cerca-de-60-presos-diagnosticados-com-tuberculose-no-maior-presidio-de-mt-sao-isolados-para-tratamento.ghtml)_
+
