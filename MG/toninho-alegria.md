@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2018-07-07 20:36 UTC]** 'Alegria a mais para continuar na batalha' diz mineira que teve festa de debutante no Hospital do Câncer de Muriaé
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/zona-da-mata/noticia/alegria-a-mais-para-continuar-na-batalha-diz-mineira-que-teve-festa-de-debutante-no-hospital-do-cancer-de-muriae.ghtml)_
+
