@@ -8,3 +8,6 @@
 - **[2026-08-27 10:42 UTC]** Ladrões invadem museu na Espanha e roubam peças de ouro de mais de 3.000 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/ladroes-invadem-museu-na-espanha-e-roubam-pecas-de-ouro-de-mais-de-3000-anos.shtml)_
 
+- **[2026-08-27 12:38 UTC]** Peças encontradas em obra de rodovia do Paraná podem fazer parte da história do Ciclo do Café e chegada de imigrantes na região
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/27/detalhes-pecas-obras-rodovia-parana.ghtml)_
+
