@@ -14,3 +14,6 @@
 - **[2026-08-29 01:00 UTC]** Livro afiado de Ricarto Terto mistura luto com crítica social e sede de vingança
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/08/livro-afiado-de-ricarto-terto-mistura-luto-com-critica-social-e-sede-de-vinganca.shtml)_
 
+- **[2018-07-13 18:47 UTC]** Educador infantil suspeito de estuprar filha no DF é preso em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/df/distrito-federal/noticia/educador-infantil-suspeito-de-estuprar-filha-no-df-e-preso-em-fortaleza.ghtml)_
+
