@@ -32,3 +32,6 @@
 - **[2026-08-29 06:00 UTC]** 'Eu tinha medo por causa da minha filha', diz mulher que usou prontuário de hospital do Paraná para escrever pedido de socorro e denunciar marido
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/29/relato-mulher-que-usou-prontuario-de-hospital-do-parana.ghtml)_
 
+- **[2026-08-28 17:15 UTC]** Estampas sem medo: como usar e combinar padronagens no visual
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/08/28/estampas-sem-medo-como-usar-e-combinar-padronagens-no-visual.ghtml)_
+
