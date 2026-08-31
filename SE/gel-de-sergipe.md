@@ -56,3 +56,6 @@
 - **[2026-08-25 17:35 UTC]** O que dizem os planos de governo dos candidatos ao executivo de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/o-que-dizem-os-planos-de-governo-dos-candidatos-ao-executivo-de-sergipe.ghtml)_
 
+- **[2026-08-25 10:35 UTC]** Polícia Civil investiga fraudes e desvio de verbas públicas em contratos municipais em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/25/policia-civil-investiga-fraudes-e-desvio-de-verbas-publicas-em-contratos-municipais-em-sergipe.ghtml)_
+
