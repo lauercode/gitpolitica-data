@@ -23,3 +23,6 @@
 - **[2026-08-26 21:47 UTC]** Eleições 2026 no RS: Gabriel Souza diz que vai 'integrar uma grande rede de proteção à mulher'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-no-rs-gabriel-souza-diz-que-vai-integrar-uma-grande-rede-de-protecao-a-mulher.ghtml)_
 
+- **[2026-08-26 18:24 UTC]** Justiça Federal determina medidas para proteção do peixe-boi Astro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/justica-federal-determina-medidas-para-protecao-do-peixe-boi-astro.ghtml)_
+
