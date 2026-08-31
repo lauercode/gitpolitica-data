@@ -119,3 +119,6 @@
 - **[2018-04-25 11:48 UTC]** Píer de passageiros do Porto de Fernando de Noronha é interditado
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/pier-de-passageiros-do-porto-de-fernando-de-noronha-e-interditado.html)_
 
+- **[2018-04-24 16:58 UTC]** Casas e terrenos não devem ser entregues este ano em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/casas-e-terrenos-nao-devem-ser-entregues-este-ano-em-fernando-de-noronha.html)_
+
