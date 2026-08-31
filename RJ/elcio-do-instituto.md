@@ -26,3 +26,6 @@
 - **[2026-08-30 06:00 UTC]** 'Precisamos nos arriscar mais na ciência', diz Hugo Aguilaniu, que se prepara para deixar o Serrapilheira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/precisamos-nos-arriscar-mais-na-ciencia-diz-hugo-aguilaniu-que-se-prepara-para-deixar-o-serrapilheira.shtml)_
 
+- **[2026-08-31 18:02 UTC]** Instituto Vladimir Herzog alerta Fachin sobre interferência dos EUA em eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/instituto-vladimir-herzog-alerta-fachin-sobre-interferencia-dos-eua-em-eleicao.shtml)_
+
