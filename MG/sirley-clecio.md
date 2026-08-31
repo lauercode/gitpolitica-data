@@ -17,3 +17,6 @@
 - **[2026-08-28 21:09 UTC]** Clécio Luís participa de reuniões e caminhada em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/28/clecio-luis-participa-de-reunioes-e-caminhada-em-macapa.ghtml)_
 
+- **[2026-08-27 22:25 UTC]** Clécio Luís partipa de caminhada e plenária em Santana
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/27/clecio-luis-partipa-de-caminhada-e-plenaria-em-santana.ghtml)_
+
