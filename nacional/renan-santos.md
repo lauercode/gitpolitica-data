@@ -59,3 +59,6 @@
 - **[2026-08-31 17:39 UTC]** Toffoli suspende parte da campanha digital de Renan Santos, veta repasses de recursos e ida a debates
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/toffoli-suspende-propaganda-eleitoral-de-renan-santos.ghtml)_
 
+- **[2026-08-31 16:14 UTC]** 'STF é a expressão máxima do fim da República brasileira', diz Renan Santos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/renan-santos-stf.ghtml)_
+
