@@ -71,3 +71,6 @@
 - **[2018-03-21 13:56 UTC]** Carro atropela cinco pessoas na calçada, bate em lixeira e derruba árvore em MS
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso-do-sul/noticia/carro-atropela-cinco-pessoas-na-calcada-bate-em-lixeira-e-derruba-arvore-em-ms.ghtml)_
 
+- **[2018-07-18 10:41 UTC]** Caminhoneiro morre carbonizado e cinco pessoas ficam feridas em acidente na BR-135, em Montes Claros
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/grande-minas/noticia/2018/07/18/caminhoneiro-morre-carbonizado-e-cinco-pessoas-ficam-feridas-em-acidente-na-br-135-em-montes-claros.ghtml)_
+
