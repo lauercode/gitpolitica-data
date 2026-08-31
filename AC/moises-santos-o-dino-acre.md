@@ -56,3 +56,6 @@
 - **[2026-08-30 20:36 UTC]** VÍDEO mostra preso por colisão que deixou 3 mortos bebendo em feira agropecuária no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/suspeito-de-causar-colisao-que-deixou-3-mortos-em-rodovia-e-assessor-especial-do-governo-do-ac.ghtml)_
 
+- **[2026-08-30 17:49 UTC]** Colisão entre carro e motocicletas deixa três mortos na BR-364, no interior do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/colisao-entre-carro-e-motocicletas-deixa-tres-mortos-na-br-364-no-interior-do-acre.ghtml)_
+
