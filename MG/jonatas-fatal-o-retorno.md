@@ -14,3 +14,6 @@
 - **[2026-08-27 12:48 UTC]** ‘Coyote vs. Acme’ e ‘Ponto sem Retorno’ estreiam nos cinemas da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/coyote-vs-acme-e-ponto-sem-retorno-estreiam-nos-cinemas-da-paraiba.ghtml)_
 
+- **[2026-08-28 02:00 UTC]** Carnatal confirma retorno de Anitta e anuncia corrida para 2027; veja programação
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/27/carnatal-confirma-retorno-de-anitta-e-anuncia-corrida-para-2027-veja-programacao.ghtml)_
+
