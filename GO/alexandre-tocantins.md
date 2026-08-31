@@ -20,3 +20,6 @@
 - **[2017-06-26 11:48 UTC]** ANTT quer cassar concessão de trecho da BR-153 entre Goiás e Tocantins
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/economia/noticia/antt-quer-cassar-concessao-de-trecho-da-br-153-entre-goias-e-tocantins.ghtml)_
 
+- **[2026-08-31 17:00 UTC]** Eleições 2026: veja todos os candidatos ao governo do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-do-tocantins.ghtml)_
+
