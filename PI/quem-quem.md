@@ -146,3 +146,6 @@
 - **[2026-08-25 17:34 UTC]** Atriz de 'Quem Ama Cuida' prepara chimarrão pela 1ª vez após visita ao RS e comemora resultado: 'Arrasei, guria'; VÍDEO
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/25/atriz-prepara-chimarrao-pela-1a-vez-apos-visita-ao-rs-e-comemora-resultado-arrasei-guria-video.ghtml)_
 
+- **[2026-08-25 19:05 UTC]** Conta de luz terá redução de 10,63% em Rondônia; veja quem é beneficiado
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/25/conta-de-luz-tera-reducao-em-rondonia.ghtml)_
+
