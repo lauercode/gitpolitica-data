@@ -29,3 +29,6 @@
 - **[2017-10-23 17:19 UTC]** Cineasta Rodrigo Aragão dá curso de maquiagem especial e ferimentos em 3D em Cuiabá
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/cineasta-rodrigo-aragao-da-curso-de-maquiagem-especial-e-ferimentos-em-3d-em-cuiaba.ghtml)_
 
+- **[2018-07-12 13:47 UTC]** Secretaria de Educação seleciona estudantes para 112 vagas em curso gratuito de música em Pernambuco
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/secretaria-de-educacao-seleciona-estudantes-para-112-vagas-em-curso-gratuito-de-musica-em-pernambuco.ghtml)_
+
