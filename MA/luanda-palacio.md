@@ -23,3 +23,6 @@
 - **[2017-10-29 22:21 UTC]** Motociclista e pedestre morrem após atropelamento em frente ao Palácio do Planalto
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/motociclista-e-pedestre-morrem-apos-atropelamento-em-frente-ao-palacio-do-planalto.ghtml)_
 
+- **[2017-08-27 14:05 UTC]** Artista faz performance em frente ao Palácio do Planalto com cabeça de porco e Constituição em mãos
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/artista-faz-performance-em-frente-ao-palacio-do-planalto-com-cabeca-de-porco-e-constituicao-em-maos.ghtml)_
+
