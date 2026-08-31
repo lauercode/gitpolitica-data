@@ -26,3 +26,6 @@
 - **[2026-08-30 13:13 UTC]** Bairros de Manaus ficam sem energia nesta segunda-feira; veja locais e horários
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/30/bairros-de-manaus-ficam-sem-energia-nesta-segunda-feira-veja-locais-e-horarios.ghtml)_
 
+- **[2026-08-31 17:40 UTC]** Parada programada da Caema afeta abastecimento de água em bairros de São Luís nesta terça-feira (1º)
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/31/parada-programada-da-caema-afeta-abastecimento-de-agua-em-bairros-de-sao-luis-nesta-terca-feira-1o.ghtml)_
+
