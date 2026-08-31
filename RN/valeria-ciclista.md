@@ -29,3 +29,6 @@
 - **[2026-08-23 17:29 UTC]** Motorista com sinais de embriaguez é preso após matar ciclista atropelada em Porto Velho
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/23/motorista-e-preso-apos-matar-ciclista-atropelada-em-porto-velho.ghtml)_
 
+- **[2026-08-31 14:18 UTC]** Ciclista morre após ser atingido por carro em Mucajaí
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/31/ciclista-morre-apos-ser-atingido-por-carro-em-mucajai.ghtml)_
+
