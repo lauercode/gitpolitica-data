@@ -41,3 +41,6 @@
 - **[2026-08-28 15:02 UTC]** 'Ele dizia 'tia, me ajuda'': vizinha relata tentativa de salvar menino morto após ser atingido por árvore em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/vizinha-menino-casa-poa-arvore-temporal.ghtml)_
 
+- **[2026-08-28 20:10 UTC]** Mulher vai parar debaixo de ônibus após acidente e é resgatada com ajuda de pedestres no TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/mulher-vai-parar-debaixo-de-onibus-apos-acidente-e-e-resgatada-com-ajuda-de-pedestres-no-to-video.ghtml)_
+
