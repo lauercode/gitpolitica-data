@@ -65,3 +65,6 @@
 - **[2026-08-28 08:04 UTC]** Para evitar reincidência no crime, órgão prisional do AP lança 'Projeto de Vida' para detentos
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/para-evitar-reincidencia-no-crime-orgao-prisional-do-ap-lanca-projeto-de-vida-para-detentos.ghtml)_
 
+- **[2018-01-15 13:47 UTC]** Rafa e Pipo Marques comandam 3ª edição do projeto Beira Mar
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/noticia/rafa-e-pipo-marques-comandam-3-edicao-do-projeto-beira-mar.ghtml)_
+
