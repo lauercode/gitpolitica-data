@@ -17,3 +17,6 @@
 - **[2026-08-31 16:50 UTC]** Coordenador da campanha do PT reage à alta de Cury nas pesquisas e pede que parem de falar dele
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/coordenador-da-campanha-do-pt-reage-a-alta-de-cury-nas-pesquisas-e-pede-que-parem-de-falar-dele/)_
 
+- **[2026-08-19 18:34 UTC]** Caso Joba: primeira audiência ouve réus e testemunhas sobre morte de coordenador do CRB
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/19/caso-joba-primeira-audiencia-ouve-reus-e-testemunhas-sobre-morte-de-coordenador-do-crb.ghtml)_
+
