@@ -104,3 +104,6 @@
 - **[2026-08-20 19:13 UTC]** Prisão de técnica de enfermagem suspeita de desviar remédios em Sergipe é convertida em preventiva
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/prisao-de-tecnica-de-enfermagem-suspeita-de-desviar-remedios-em-sergipe-e-convertida-em-preventiva.ghtml)_
 
+- **[2026-08-20 13:39 UTC]** Agências bancárias de Sergipe paralisam atividades nesta quinta
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/agencias-bancarias-de-sergipe-paralisam-atividades-nesta-quinta-feira.ghtml)_
+
