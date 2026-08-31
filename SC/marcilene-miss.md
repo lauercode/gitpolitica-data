@@ -14,3 +14,6 @@
 - **[2026-08-30 17:15 UTC]** Miss capixaba destronada já sabia de gravidez antes de mundial, revela exame
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/08/miss-capixaba-destronada-ja-sabia-de-gravidez-antes-de-mundial-revela-exame.shtml)_
 
+- **[2026-08-31 14:00 UTC]** Após quase 40 anos, SBT volta a transmitir final do Miss Mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/08/apos-quase-40-anos-sbt-volta-a-transmitir-final-do-miss-mundo.shtml)_
+
