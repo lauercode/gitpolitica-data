@@ -38,3 +38,6 @@
 - **[2017-10-10 09:57 UTC]** Câmara do DF quer proibir escolas públicas de liberar alunos se faltar professor
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/camara-do-df-quer-proibir-escolas-publicas-de-liberar-alunos-se-faltar-professor.ghtml)_
 
+- **[2018-07-19 17:44 UTC]** Ufes abre concursos para professor com salário de até R$ 9,5 mil
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/concursos-e-emprego/noticia/2018/07/19/ufes-abre-concursos-para-professor-com-salario-de-ate-r-95-mil.ghtml)_
+
