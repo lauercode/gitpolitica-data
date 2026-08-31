@@ -53,3 +53,6 @@
 - **[2026-08-26 10:57 UTC]** Resultado da Mega-Sena 3049: 16 apostas de Sergipe acertam quadra; veja valores
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/resultado-da-mega-sena-3049-apostas-de-sergipe-acertam-quadra-veja-valores.ghtml)_
 
+- **[2026-08-25 17:35 UTC]** O que dizem os planos de governo dos candidatos ao executivo de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/o-que-dizem-os-planos-de-governo-dos-candidatos-ao-executivo-de-sergipe.ghtml)_
+
