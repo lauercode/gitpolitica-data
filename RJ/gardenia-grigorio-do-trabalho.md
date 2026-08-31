@@ -77,3 +77,6 @@
 - **[2017-11-05 13:45 UTC]** Pelo 8º ano no mesmo local de prova do Enem, ambulante diz faturar em um dia o equivalente a um mês de trabalho
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/pelo-8-ano-no-mesmo-local-de-prova-do-enem-ambulante-diz-faturar-em-um-dia-o-equivalente-a-um-mes-de-trabalho.ghtml)_
 
+- **[2017-06-07 18:52 UTC]** Sebrae e 6º Distrito Naval de Ladário assinam Plano de Trabalho conjunto
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/06/sebrae-e-6-distrito-naval-de-ladario-assinam-plano-de-trabalho-conjunto.html)_
+
