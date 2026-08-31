@@ -77,3 +77,6 @@
 - **[2026-08-29 20:17 UTC]** VÍDEOS: Jornal do Acre 1ª edição deste sábado, 29 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-deste-sabado-29-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-29 19:20 UTC]** Tapioca com mais de 1 metro de diâmetro vence concurso do Festival da Farinha no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/tapioca-com-mais-de-1-metro-de-diametro-vence-concurso-do-festival-da-farinha-no-acre-video.ghtml)_
+
