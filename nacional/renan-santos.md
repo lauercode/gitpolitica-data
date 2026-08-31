@@ -65,3 +65,6 @@
 - **[2026-08-31 15:47 UTC]** Renan Santos nega irregularidade em candidatura apontada por Toffoli no TSE: 'não estou tendo vantagem nenhuma'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/31/renan-santos-nega-irregularidade-em-candidatura-apontada-por-toffoli-no-tse-nao-estou-tendo-vantagem-nenhuma.ghtml)_
 
+- **[2026-08-31 16:28 UTC]** Renan Santos diz que decisão de Toffoli é 'perseguição' e motivada por crítica no caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/renan-santos-chama-decisao-de-toffoli-de-perseguicao.shtml)_
+
