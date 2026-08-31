@@ -218,3 +218,6 @@
 - **[2026-08-30 20:38 UTC]** Vazamento de gás provoca incêndio na casa de Kassio Nunes Marques, presidente do TSE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/vazamento-de-gas-provoca-incendio-na-casa-de-kassio-nunes-marques-presidente-do-tse.shtml)_
 
+- **[2026-08-31 03:00 UTC]** VÍDEO: O que faz o presidente?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/31/video-o-que-faz-o-presidente.ghtml)_
+
