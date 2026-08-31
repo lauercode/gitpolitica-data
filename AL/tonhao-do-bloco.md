@@ -11,3 +11,6 @@
 - **[2026-08-28 20:33 UTC]** Campanha do PT revida “Lulinha” com “carnificina” contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-do-pt-revida-lulinha-com-carnificina-contra-flavio/)_
 
+- **[2018-07-16 16:50 UTC]** Bloco Me Enterra na Quarta homenageia Hermeto e Dominguinhos em festa julina
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/rio-de-janeiro/o-que-fazer-no-rio-de-janeiro/noticia/bloco-me-enterra-na-quarta-homenageia-hermeto-e-dominguinhos-em-festa-julina.ghtml)_
+
