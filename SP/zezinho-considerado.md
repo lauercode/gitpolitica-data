@@ -17,3 +17,6 @@
 - **[2026-08-28 08:12 UTC]** Morto aos 89 anos, rei da Noruega era casado com plebeia e considerado reformista
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crl6n2k93xzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2017-04-05 21:09 UTC]** Aeroporto Internacional Afonso Pena é considerado o melhor do Brasil pelos usuários
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/pr/parana/noticia/aeroporto-internacional-afonso-pena-e-considerado-o-melhor-do-brasil-pelos-usuarios.ghtml)_
+
