@@ -23,3 +23,6 @@
 - **[2026-08-30 21:09 UTC]** Protesto pelo fim da escala 6×1 termina em confusão entre direita e esquerda em SP
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/protesto-pelo-fim-da-escala-6x1-termina-em-confusao-entre-direita-e-esquerda-em-sp/)_
 
+- **[2026-08-31 19:51 UTC]** Augusto Cury é de direita ou de esquerda?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-direita-ou-esquerda/)_
+
