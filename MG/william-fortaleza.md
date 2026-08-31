@@ -35,3 +35,6 @@
 - **[2017-09-30 16:22 UTC]** IFCE oferece 670 vagas de cursos técnicos em Fortaleza e Sobral
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/ifce-oferece-670-vagas-de-cursos-tecnicos-em-fortaleza-e-sobral.ghtml)_
 
+- **[2017-09-11 18:21 UTC]** Vândalos apedrejam ônibus e agridem pedestres no trajeto para estádio em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/vandalos-apedrejam-onibus-e-agridem-pedestres-no-trajeto-para-estadio-em-fortaleza.ghtml)_
+
