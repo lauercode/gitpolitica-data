@@ -23,3 +23,6 @@
 - **[2026-08-31 19:50 UTC]** Drogaria Bom Preço completa 10 anos e consolida presença em bairros de Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/drogarias-bom-preco/noticia/2026/08/31/drogaria-bom-preco-completa-10-anos-e-consolida-presenca-em-bairros-de-manaus.ghtml)_
 
+- **[2026-08-30 13:13 UTC]** Bairros de Manaus ficam sem energia nesta segunda-feira; veja locais e horários
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/30/bairros-de-manaus-ficam-sem-energia-nesta-segunda-feira-veja-locais-e-horarios.ghtml)_
+
