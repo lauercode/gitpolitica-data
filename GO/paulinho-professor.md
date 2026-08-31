@@ -44,3 +44,6 @@
 - **[2017-07-13 17:33 UTC]** Professor de MG perdido no Parque do Caparaó é encontrado no ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/noticia/professor-de-mg-perdido-no-parque-do-caparao-e-encontrado-no-es.ghtml)_
 
+- **[2017-11-07 12:42 UTC]** Professor de educação física morre após passar mal durante corrida em MT
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/professor-de-educacao-fisica-morre-apos-passar-mal-durante-corrida-em-mt.ghtml)_
+
