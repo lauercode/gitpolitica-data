@@ -50,3 +50,6 @@
 - **[2026-08-25 15:31 UTC]** Incêndio atinge Terra Indígena Apyterewa, no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/25/incendio-atinge-terra-indigena-apyterewa-no-para.ghtml)_
 
+- **[2026-08-31 14:10 UTC]** Temperos da terra: os sabores que preservam a cultura do campo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/fag-centro-universitario-city-farm/noticia/2026/08/31/temperos-da-terra-os-sabores-que-preservam-a-cultura-do-campo.ghtml)_
+
