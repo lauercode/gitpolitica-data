@@ -11,3 +11,6 @@
 - **[2026-08-17 23:19 UTC]** PM baleado na cabeça por colega durante ocorrência em Pernambuco é alagoano
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/17/pm-baleado-na-cabeca-por-colega-durante-ocorrencia-em-pernambuco-e-alagoano.ghtml)_
 
+- **[2018-07-23 11:18 UTC]** PM de Pernambuco é preso depois de atirar em irmão de policial civil durante discussão no litoral do RN
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2018/07/23/discussao-em-lanchonete-deixa-dois-homens-baleados-no-litoral-sul-potiguar.ghtml)_
+
