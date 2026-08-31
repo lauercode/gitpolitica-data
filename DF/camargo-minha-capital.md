@@ -47,3 +47,6 @@
 - **[2017-04-21 08:00 UTC]** As outras 'Brasílias': veja como seria a capital dos concorrentes de Lucio Costa
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/as-outras-brasilias-veja-como-seria-a-capital-dos-concorrentes-de-lucio-costa.ghtml)_
 
+- **[2017-04-18 16:12 UTC]** Brasília é a capital que mais consome frutas e verduras, aponta ministério
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/brasilia-e-a-capital-que-mais-consome-frutas-e-verduras-aponta-ministerio-da-saude.ghtml)_
+
