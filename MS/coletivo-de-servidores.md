@@ -35,3 +35,6 @@
 - **[2018-03-21 16:03 UTC]** MPE recomenda à prefeitura que exonere servidores por prática de nepotismo em MS
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso-do-sul/noticia/mpe-recomenda-a-prefeitura-que-exonere-servidores-por-pratica-de-nepotismo-em-ms.ghtml)_
 
+- **[2017-10-21 21:19 UTC]** Servidores de Confresa (MT) ainda não receberam salário de dezembro e 13º de 2016
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/servidores-de-confresa-mt-ainda-nao-receberam-salario-de-dezembro-e-13-de-2016.ghtml)_
+
