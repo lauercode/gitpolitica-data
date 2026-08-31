@@ -17,3 +17,6 @@
 - **[2018-07-13 11:52 UTC]** Monte Verde tem mais uma madrugada com menor temperatura de Minas Gerais, - 0,3º C
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/monte-verde-tem-mais-uma-madrugada-com-a-menor-temperatura-de-minas-gerais-03o-c.ghtml)_
 
+- **[2018-07-12 12:52 UTC]** Monte Verde marca -2,3º e tem menor temperatura de Minas Gerais durante a madrugada
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/monte-verde-marca-23o-e-tem-menor-temperatura-de-minas-gerais-durante-a-madrugada.ghtml)_
+
