@@ -20,3 +20,6 @@
 - **[2017-07-26 08:20 UTC]** No dia dedicado a elas, vovós do DF contam como estão mais ativas e conectadas
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/no-dia-dedicado-a-elas-vovos-do-df-contam-como-estao-mais-ativas-e-conectadas.ghtml)_
 
+- **[2017-05-17 16:45 UTC]** Empreendedorismo feminino: agora é que são elas
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/empreendedorismo-feminino-agora-e-que-sao-elas.html)_
+
