@@ -17,3 +17,6 @@
 - **[2018-07-10 12:25 UTC]** Bebê de 5 meses é internado em estado grave após acidente em creche em Poços de Caldas, MG
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/bebe-de-5-meses-e-internado-em-estado-grave-apos-acidente-em-creche-em-pocos-de-caldas-mg.ghtml)_
 
+- **[2026-08-31 14:53 UTC]** VÍDEO: Homem é atingido no peito por disparo acidental dentro de clube de tiro no Paraná; estado é grave
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/homem-e-atingido-por-disparo.ghtml)_
+
