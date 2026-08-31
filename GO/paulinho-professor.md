@@ -26,3 +26,6 @@
 - **[2017-07-31 10:50 UTC]** Professor da Unifor integra equipe da CIOPAER bicampeã nacional de resgate
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/07/professor-da-unifor-integra-equipe-da-ciopaer-bicampea-nacional-de-resgate.html)_
 
+- **[2018-07-19 15:25 UTC]** Polícia prende em Jataí caseiro suspeito de matar e roubar professor de educação física do DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/noticia/2018/07/19/policia-prende-em-jatai-caseiro-suspeito-de-matar-e-roubar-professor-de-educacao-fisica-do-df.ghtml)_
+
