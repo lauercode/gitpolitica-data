@@ -32,3 +32,6 @@
 - **[2018-07-14 20:53 UTC]** Orquestra Sinfônica do Recife celebra 88 anos de fundação com apresentação gratuita
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/musica/noticia/orquestra-sinfonica-do-recife-celebra-88-anos-de-fundacao-com-apresentacao-gratuita.ghtml)_
 
+- **[2018-07-14 00:34 UTC]** Fernando Anitelli apresenta 'O Teatro Mágico - Voz e Violão' no Recife
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/musica/noticia/fernando-anitelli-apresenta-o-teatro-magico-voz-e-violao-no-recife.ghtml)_
+
