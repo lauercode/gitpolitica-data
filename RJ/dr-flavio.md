@@ -602,3 +602,6 @@
 - **[2026-08-30 23:26 UTC]** TSE suspende propaganda de Lula que lista acusações contra Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/tse-suspende-propaganda-de-lula-que-lista-acusacoes-contra-flavio-bolsonaro.shtml)_
 
+- **[2026-08-30 23:00 UTC]** Flávio Bolsonaro critica, mas também defendeu benefícios na reforma tributária
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/flavio-bolsonaro-critica-mas-tambem-defendeu-beneficios-na-reforma-tributaria.shtml)_
+
