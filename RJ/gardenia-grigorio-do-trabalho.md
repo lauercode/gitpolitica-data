@@ -92,3 +92,6 @@
 - **[2026-08-28 23:17 UTC]** Paraíba registra ganho de mais de 2,3 mil postos de trabalho em julho, aponta Caged
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/paraiba-registra-ganho-de-mais-de-2-mil-postos-de-trabalho-em-julho-aponta-caged.ghtml)_
 
+- **[2018-05-08 16:54 UTC]** Trabalho de estudantes de Fernando de Noronha é apresentado na Conferência de Meio Ambiente
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/trabalho-de-estudantes-de-fernando-de-noronha-e-apresentado-na-conferencia-de-meio-ambiente.html)_
+
