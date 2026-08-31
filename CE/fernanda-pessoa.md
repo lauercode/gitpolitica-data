@@ -114,3 +114,6 @@ direcionado às necessidades de cada pessoa
 - **[2018-07-11 18:13 UTC]** Motorista de carro perde controle, bate em traseira de caminhão parado; acidente deixa uma pessoa morta na GO-080, em Nerópolis
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/video-mostra-batida-que-deixou-homem-morto-e-outras-tres-pessoas-feridas-na-go-080-em-neropolis.ghtml)_
 
+- **[2017-04-02 20:33 UTC]** Bombeiros procuram por pessoa que se afogou em lago de Nerópolis, GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/bombeiros-procuram-por-pessoa-que-se-afogou-em-lago-de-neropolis-go.html)_
+
