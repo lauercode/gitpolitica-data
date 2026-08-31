@@ -65,3 +65,6 @@
 - **[2018-07-16 22:10 UTC]** Anima compra centro de educação superior em Goiás por R$ 31,25 milhões
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/economia/noticia/anima-compra-centro-de-educacao-superior-em-goias-por-r3125-milhoes.ghtml)_
 
+- **[2018-07-18 15:21 UTC]** Quadrilha presa em operação policial usava Uberlândia como centro logístico de drogas
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mg/triangulo-mineiro/noticia/2018/07/18/quadrilha-presa-em-operacao-policial-usava-uberlandia-como-centro-logistico-de-drogas.ghtml)_
+
