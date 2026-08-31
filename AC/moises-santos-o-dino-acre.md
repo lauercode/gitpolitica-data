@@ -38,3 +38,6 @@
 - **[2026-08-31 19:46 UTC]** Mais de 60 seções eleitorais têm local de votação alterado no Acre; veja cidades afetadas
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/mais-de-60-secoes-eleitorais-tem-local-de-votacao-alterado-no-acre-veja-cidades-afetadas.ghtml)_
 
+- **[2026-08-31 19:23 UTC]** Eleições 2026: veja todos os candidatos ao Senado pelo Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-senado-pelo-acre.ghtml)_
+
