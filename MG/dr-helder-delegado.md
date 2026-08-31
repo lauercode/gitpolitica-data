@@ -26,3 +26,6 @@
 - **[2026-08-26 15:16 UTC]** Justiça determina afastamento do delegado Assis Ramos e da ex-mulher por suspeita de enriquecimento ilícito
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/08/26/justica-determina-afastamento-do-delegado-assis-ramos-e-da-ex-mulher-por-suspeita-de-enriquecimento-ilicito.ghtml)_
 
+- **[2018-07-20 22:17 UTC]** Advogado pede afastamento de delegado de inquérito em que Eduardo Costa é investigado
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/minas-gerais/noticia/2018/07/20/advogado-pede-afastamento-de-delegado-de-inquerito-em-que-eduardo-costa-e-investigado.ghtml)_
+
