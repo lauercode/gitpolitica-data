@@ -248,3 +248,6 @@
 - **[2018-07-14 16:09 UTC]** Presidente do STF dá 30 dias para que investigação sobre Aécio seja concluída
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/politica/operacao-lava-jato/noticia/presidente-do-stf-da-30-dias-para-que-investigacao-sobre-aecio-seja-concluida.ghtml)_
 
+- **[2017-12-12 21:56 UTC]** Presidente da Petrobras visita Bacia de Campos e fala de investimentos para os próximos anos
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/regiao-dos-lagos/noticia/presidente-da-petrobras-visita-bacia-de-campos-e-fala-de-investimentos-para-os-proximos-anos.ghtml)_
+
