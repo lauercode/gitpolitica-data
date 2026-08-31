@@ -38,3 +38,6 @@
 - **[2026-08-30 15:54 UTC]** Toffoli cita 'indícios de ilicitude' em registro de Renan Santos e adia julgamento de chapa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/toffoli-cita-indicios-de-ilicitude-em-registro-de-renan-santos-e-adia-julgamento-de-chapa.shtml)_
 
+- **[2026-08-31 13:44 UTC]** ACOMPANHE: Ciclo de sabatinas com candidatos à Presidência da República começa com Renan Santos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/acompanhe-ciclo-de-sabatinas-com-candidatos-a-presidencia-da-republica-comeca-com-renan-santos/)_
+
