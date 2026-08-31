@@ -20,3 +20,6 @@
 - **[2017-08-16 10:10 UTC]** Policial civil do DF é baleado durante troca de tiros no Guará; áudio
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/policial-civil-do-df-e-baleado-durante-troca-de-tiros-no-guara-audio.ghtml)_
 
+- **[2017-04-03 06:12 UTC]** Exames de DNA confirmam troca de bebês em maternidade há 32 anos
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/exames-de-dna-confirmam-troca-de-bebes-em-maternidade-ha-32-anos.html)_
+
