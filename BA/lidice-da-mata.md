@@ -65,3 +65,6 @@
 - **[2026-08-26 21:12 UTC]** Amazônia high-tech: Do Pará, duo Uaná System leva show de carimbó eletrônico, sons da mata e arte digital a festival nacional
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/amazonia-high-tech-do-para-duo-uana-system-leva-show-de-carimbo-eletronico-sons-da-mata-e-arte-digital-ao-rio-de-janeiro.ghtml)_
 
+- **[2018-07-17 12:45 UTC]** Homem morre em acidente com caminhão na BR-232, na Zona da Mata de Pernambuco
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/noticia/homem-morre-em-acidente-com-caminhao-na-br-232-na-zona-da-mata-de-pernambuco.ghtml)_
+
