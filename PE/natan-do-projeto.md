@@ -35,3 +35,6 @@
 - **[2026-08-30 12:00 UTC]** Viadutos de acesso à zona leste devem ser demolidos após correção de tombamento no centro histórico de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/viadutos-de-acesso-a-zona-leste-devem-ser-demolidos-apos-correcao-de-tombamento-no-centro-historico-de-sp.shtml)_
 
+- **[2026-08-31 15:38 UTC]** Portugal substituirá Elevador da Glória após acidente; empresa lançará concurso para novo projeto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/portugal-substituira-elevador-da-gloria-apos-acidente-empresa-lancara-concurso-para-novo-projeto.shtml)_
+
