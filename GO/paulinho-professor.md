@@ -41,3 +41,6 @@
 - **[2018-07-19 17:44 UTC]** Ufes abre concursos para professor com salário de até R$ 9,5 mil
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/concursos-e-emprego/noticia/2018/07/19/ufes-abre-concursos-para-professor-com-salario-de-ate-r-95-mil.ghtml)_
 
+- **[2017-07-13 17:33 UTC]** Professor de MG perdido no Parque do Caparaó é encontrado no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/noticia/professor-de-mg-perdido-no-parque-do-caparao-e-encontrado-no-es.ghtml)_
+
