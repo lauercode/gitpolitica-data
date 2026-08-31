@@ -74,3 +74,6 @@
 - **[2026-08-25 10:00 UTC]** Eleições 2026: veja propostas de Taty Cristina de Jesus para o governo de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-taty-cristina-de-jesus-para-o-governo-de-sergipe.ghtml)_
 
+- **[2026-08-24 22:56 UTC]** Substituição de empresa de ônibus será avaliada por representantes do Consórcio Metropolitano em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/substituicao-de-empresa-de-onibus-sera-avaliada-por-representantes-do-consorcio-metropolitano-em-sergipe.ghtml)_
+
