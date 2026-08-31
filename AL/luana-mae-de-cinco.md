@@ -53,3 +53,6 @@
 - **[2026-08-26 13:32 UTC]** Mais de 370 kg de skunk são apreendidos dentro de embarcação no Acre; cinco fogem
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/policia-apreende-mais-de-370-kg-de-skunk-em-embarcacao-em-ramal-de-rio-branco-cinco-fogem.ghtml)_
 
+- **[2026-08-29 12:58 UTC]** Veja como se inscrever no Casamento na Comunidade em cinco municípios do Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/29/veja-como-se-inscrever-no-casamento-na-comunidade-em-cinco-municipios-do-amapa.ghtml)_
+
