@@ -20,3 +20,6 @@
 - **[2026-08-27 21:41 UTC]** Eleições 2026: Professora Maria do Carmo faz caminhada pelo Centro de Manaus e propõe aumentar profissionais de saúde no Estado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-professora-maria-do-carmo-faz-caminhada-pelo-centro-de-manaus-e-propoe-aumentar-profissionais-de-saude-no-estado.ghtml)_
 
+- **[2026-08-26 21:59 UTC]** Eleições 2026: Professora Maria do Carmo grava programa eleitoral em Manaus e aponta lixões como desafio ao meio ambiente
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-professora-maria-do-carmo-grava-programa-eleitoral-em-manaus-e-aponta-lixoes-como-desafio-ao-meio-ambiente.ghtml)_
+
