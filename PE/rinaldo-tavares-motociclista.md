@@ -77,3 +77,6 @@
 - **[2026-08-24 19:06 UTC]** Drone da TV Anhanguera flagra momento em que motociclista tenta fazer gato e cai em avenida de Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/drone-da-tv-anhanguera-flagra-momento-em-que-motociclista-tenta-fazer-gato-e-cai-em-avenida-de-palmas.ghtml)_
 
+- **[2026-08-24 16:15 UTC]** Motociclista morre após batida frontal entre moto e caminhonete em cruzamento no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/motociclista-morre-apos-batida-frontal-entre-moto-e-caminhonete-em-cruzamento-no-to.ghtml)_
+
