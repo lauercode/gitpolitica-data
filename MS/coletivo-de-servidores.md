@@ -41,3 +41,6 @@
 - **[2018-07-11 10:40 UTC]** Servidores que atuam no HC-UFU entram em greve por tempo indeterminado em Uberlândia
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/triangulo-mineiro/noticia/servidores-do-hc-ufu-entram-em-greve-por-tempo-indeterminado-em-uberlandia.ghtml)_
 
+- **[2017-10-25 18:26 UTC]** Juiz determina suspensão de arrestos para o pagamento de servidores da Uerj
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/juiz-determina-suspensao-de-arrestos-para-o-pagamento-de-servidores-da-uerj.ghtml)_
+
