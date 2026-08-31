@@ -89,3 +89,6 @@
 - **[2026-08-29 12:21 UTC]** Adolescentes capotam caminhonete e são atingidos por caminhão na BR-376, no PR; um morreu e outro ficou ferido
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/29/acidente-adolescentes-caminhonete-caminhao-br-376-parana.ghtml)_
 
+- **[2018-07-17 22:17 UTC]** Corpo de gerente de banco que morreu após procedimento estético no RJ é velado em MT
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/mt/mato-grosso/noticia/corpo-de-gerente-de-banco-que-morreu-apos-procedimento-estetico-no-rj-e-velado-em-mt.ghtml)_
+
