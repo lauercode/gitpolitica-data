@@ -80,3 +80,6 @@
 - **[2026-08-28 18:20 UTC]** Dois ficam feridos após carro capotar e cair em ribanceira na BR-364; condutor é preso por suspeita de embriaguez
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/duas-pessoas-ficam-feridas-apos-carro-capotar-e-cair-em-ribanceira-na-br-364-em-rio-branco.ghtml)_
 
+- **[2026-08-18 14:36 UTC]** PM prende dois suspeitos e apreende 35 quilos de maconha em São Miguel dos Campos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/18/pm-prende-dois-suspeitos-e-apreende-35-quilos-de-maconha-em-sao-miguel-dos-campos.ghtml)_
+
