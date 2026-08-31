@@ -47,3 +47,6 @@
 - **[2026-08-31 19:29 UTC]** Trânsito no Centro de Aracaju terá bloqueios e desvios nesta terça para a Corrida do Fogo Simbólico; saiba mais
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/31/transito-no-centro-de-aracaju-tera-bloqueios-e-desvios-nesta-terca-para-a-corrida-do-fogo-simbolico-saiba-mais.ghtml)_
 
+- **[2026-08-30 20:41 UTC]** Pai e filha escapam ilesos após carro pegar fogo e ser destruído no TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/pai-e-filha-escapam-ilesos-apos-carro-pegar-fogo-e-ser-destruido-no-to-video.ghtml)_
+
