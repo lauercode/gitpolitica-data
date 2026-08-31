@@ -32,3 +32,6 @@
 - **[2026-08-30 16:22 UTC]** Busca por 'sugar daddy' termina em prejuízo de até R$ 2.000 para mulheres em SC
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/busca-por-sugar-daddy-termina-em-prejuizo-de-ate-r-2000-para-mulheres-em-sc.shtml)_
 
+- **[2026-08-30 22:00 UTC]** É preciso uma proteção adequada para as mulheres apostadoras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/e-preciso-uma-protecao-adequada-para-as-mulheres-apostadoras.shtml)_
+
