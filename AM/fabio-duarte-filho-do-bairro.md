@@ -17,3 +17,6 @@
 - **[2026-08-29 22:00 UTC]** O mito do modelo Bukele de segurança
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/o-mito-do-modelo-bukele-de-seguranca.shtml)_
 
+- **[2026-08-27 22:06 UTC]** Único campo de lazer de bairro da Zona Norte de Macapá virou 'lixão' e matagal, relatam moradores
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/unico-campo-de-lazer-de-bairro-da-zona-norte-de-macapa-virou-lixao-e-matagal-relatam-moradores.ghtml)_
+
