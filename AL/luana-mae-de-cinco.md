@@ -68,3 +68,6 @@
 - **[2018-07-20 23:26 UTC]** Veja as cinco contradições entre o que disse Dr. Bumbum e os documentos da investigação policial
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/07/20/veja-as-cinco-contradicoes-entre-o-que-disse-dr-bumbum-e-os-documentos-da-investigacao-policial.ghtml)_
 
+- **[2018-03-21 13:56 UTC]** Carro atropela cinco pessoas na calçada, bate em lixeira e derruba árvore em MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso-do-sul/noticia/carro-atropela-cinco-pessoas-na-calcada-bate-em-lixeira-e-derruba-arvore-em-ms.ghtml)_
+
