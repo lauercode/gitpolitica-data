@@ -53,3 +53,6 @@
 - **[2026-08-25 19:44 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 25 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-terca-feira-25-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-24 23:02 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 24 de agosto fde 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-24-de-agosto-fde-2026.ghtml)_
+
