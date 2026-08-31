@@ -188,3 +188,6 @@
 - **[2026-08-24 22:10 UTC]** Mulher de 60 anos foi morta com fio de telefone por causa de R$ 800 e celular no Acre, diz polícia
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/24/mulher-de-60-anos-foi-morta-com-fio-de-telefone-por-causa-de-r-800-e-celular-no-acre-diz-policia.ghtml)_
 
+- **[2026-08-24 20:47 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 24 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-24-de-agosto-de-2026.ghtml)_
+
