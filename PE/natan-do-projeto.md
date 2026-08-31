@@ -89,3 +89,6 @@
 - **[2017-07-10 19:04 UTC]** DETRAN Goiás realiza 1ª edição do projeto Piloto Consciente
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/detran-goias-realiza-1-edicao-do-projeto-piloto-consciente.html)_
 
+- **[2017-11-12 15:02 UTC]** Integrantes de projeto cultural motivam candidatos no 2º dia de prova do Enem em Cuiabá
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/integrantes-de-projeto-cultural-motivam-candidatos-no-2-dia-de-prova-do-enem-em-cuiaba.ghtml)_
+
