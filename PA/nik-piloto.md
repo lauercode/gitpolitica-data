@@ -26,3 +26,6 @@
 - **[2026-08-31 18:16 UTC]** ‘Pista escorregadia’, diz piloto de avião da Latam que foi parar na lama após pouso no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/aviao-pista-parana.ghtml)_
 
+- **[2026-08-26 03:00 UTC]** Após deixar respirador, piloto de asa-delta volta a ser intubado; homem sofreu queda em acidente no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/respirador-piloto-asa-delta-volta-intubado-homem-queda-acidente-rs.ghtml)_
+
