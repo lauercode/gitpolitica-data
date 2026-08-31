@@ -17,3 +17,6 @@
 - **[2026-08-31 12:00 UTC]** 'Tomava morfina para a dor até que os médicos descobriram que eu tinha endometriose aos 13 anos'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/tomava-morfina-para-a-dor-ate-que-os-medicos-descobriram-que-eu-tinha-endometriose-aos-13-anos.shtml)_
 
+- **[2018-07-03 15:50 UTC]** 'Meus colegas começaram a me zoar, falaram que eu tinha levado um choque', conta menina que teve cabelo alisado
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/vales-mg/noticia/meus-colegas-comecaram-a-me-zoar-falaram-que-eu-tinha-levado-um-choque-conta-menina-que-teve-cabelo-alisado.ghtml)_
+
