@@ -71,3 +71,6 @@
 - **[2026-08-29 05:00 UTC]** Trabalho autônomo, WhatsApp e má-fé: veja pontos levantados por pedreiro em sustentação oral elogiada por magistrados no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/29/trabalho-autonomo-whatsapp-e-ma-fe-veja-pontos-levantados-por-pedreiro-em-sustentacao-oral-elogiada-por-magistrados-no-am.ghtml)_
 
+- **[2017-10-02 14:54 UTC]** Juiz do DF mantém trabalho externo para deputado presidiário
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/noticia/juiz-mantem-trabalho-externo-para-deputado-presidiario.ghtml)_
+
