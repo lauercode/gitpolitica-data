@@ -152,3 +152,6 @@
 - **[2026-08-31 11:04 UTC]** Câmara deve decidir sobre "taxa das blusinhas" nesta segunda
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/camara-deve-decidir-sobre-taxa-das-blusinhas-nesta-segunda)_
 
+- **[2026-08-31 12:22 UTC]** Câmara vota fim da “taxa das blusinhas” em ritmo relâmpago nesta segunda
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/camara-vota-fim-taxa-das-blusinhas-ritmo-relampago-segunda/)_
+
