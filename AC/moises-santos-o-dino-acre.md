@@ -68,3 +68,6 @@
 - **[2026-08-30 13:00 UTC]** Acre tem três cidades entre as que mais desmataram em julho, aponta Imazon
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/acre-tem-tres-cidades-entre-as-que-mais-desmataram-em-julho-aponta-imazon.ghtml)_
 
+- **[2026-08-30 12:37 UTC]** VÍDEOS: Amazônia Agro - Acre deste domingo, 30 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-amazonia-agro-acre-deste-domingo-30-de-agosto-de-2026.ghtml)_
+
