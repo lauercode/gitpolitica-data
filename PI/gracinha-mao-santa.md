@@ -26,3 +26,6 @@
 - **[2026-08-26 17:05 UTC]** Homem é condenado a 16 anos de prisão por feminicídio em Santa Quitéria
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/homem-e-condenado-a-16-anos-de-prisao-por-feminicidio-em-santa-quiteria.ghtml)_
 
+- **[2026-08-26 13:31 UTC]** Jovem é morto a tiros em área conhecida como ‘invasão’ em Santa Inês
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/jovem-e-morto-a-tiros-em-area-conhecida-como-invasao-em-santa-ines.ghtml)_
+
