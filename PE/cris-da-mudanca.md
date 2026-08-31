@@ -44,3 +44,6 @@
 - **[2026-08-29 00:55 UTC]** Mudança, trajetória e promessas: como foi 1° dia de propaganda eleitoral na TV dos candidatos ao governo do AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/mudanca-trajetoria-e-promessas-como-foi-1-dia-de-propaganda-eleitoral-na-tv-dos-candidatos-ao-governo-do-am.ghtml)_
 
+- **[2017-06-13 16:08 UTC]** Mudança faz Escolas Parques funcionarem no improviso, denuncia conselho
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/mudanca-faz-escolas-parques-funcionarem-no-improviso-denuncia-conselho.ghtml)_
+
