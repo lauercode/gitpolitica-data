@@ -14,3 +14,6 @@
 - **[2026-08-24 12:32 UTC]** Pecuaristas adotam estratégia com ração no pasto para evitar perda de peso do gado na seca em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/pecuaristas-adotam-estrategia-com-racao-no-pasto-para-evitar-perda-de-peso-do-gado-na-seca-em-roraima.ghtml)_
 
+- **[2026-08-30 09:00 UTC]** Com rebanho de 11,6 milhões, Tocantins tem quase oito cabeças de gado por pessoa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-rebanho-de-116-milhoes-tocantins-tem-quase-oito-cabecas-de-gado-por-pessoa.ghtml)_
+
