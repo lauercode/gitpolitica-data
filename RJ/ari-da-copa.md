@@ -32,3 +32,6 @@
 - **[2026-08-31 11:27 UTC]** Andarilho, David Corrêa tem dois títulos da Copa do Brasil por Cruzeiro e São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/andarilho-david-correa-tem-dois-titulos-da-copa-do-brasil-por-cruzeiro-e-sao-paulo.shtml)_
 
+- **[2026-08-31 21:43 UTC]** Copa, gols, recordes e lágrimas: os momentos inesquecíveis de Lionel Messi na seleção da Argentina e nos clubes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/clyk5zr3vxyo?at_medium=RSS&at_campaign=rss)_
+
