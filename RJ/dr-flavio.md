@@ -623,3 +623,6 @@
 - **[2026-08-31 14:15 UTC]** O primeiro candidato que ultrapassou 10% nas intenções de voto além de Flávio e Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/augusto-cury-primeiro-candidato-que-ultrapassou-10-intencoes-de-voto-alem-de-flavio-lula/)_
 
+- **[2026-08-31 19:04 UTC]** Fato ou Fake: veja checagens das entrevistas de Zema, Caiado, Renan Santos, Lula, Flávio Bolsonaro e Augusto Cury à Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/31/fato-ou-fake-veja-checagens-das-entrevistas-de-zema-caiado-renan-santos-lula-flavio-bolsonaro-e-augusto-cury-a-globo.ghtml)_
+
