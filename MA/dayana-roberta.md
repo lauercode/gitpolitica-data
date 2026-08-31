@@ -47,3 +47,6 @@
 - **[2026-08-28 10:00 UTC]** Roberta Luchsinger diz que pediu apoio a Marcola, mas não pagou, e que Lulinha é amigo antes de Lula ser presidente
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/roberta-luchsinger-diz-que-pediu-apoio-a-marcola-mas-nao-pagou-e-que-lulinha-e-amigo-antes-de-lula-ser-presidente.ghtml)_
 
+- **[2026-08-31 13:00 UTC]** Lobista ligada a Lulinha, Roberta Luchsinger deve mais de R$ 1 milhão em impostos e acumula processos na Justiça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/apontada-como-lobista-roberta-luchsinger-deve-mais-de-um-milhao-em-impostos-e-acumula-processos-na-justica.ghtml)_
+
