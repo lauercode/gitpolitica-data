@@ -17,3 +17,6 @@
 - **[2026-08-30 05:00 UTC]** Governo de Mato Grosso tenta mudar acordo para permitir uso de madeira nativa em usina de biodiesel
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/governo-de-mato-grosso-tenta-mudar-acordo-para-permitir-uso-de-madeira-nativa-em-usina-de-biodiesel.shtml)_
 
+- **[2026-08-17 22:21 UTC]** Delegado-geral investigado por fraude em concursos públicos reassume Polícia Civil em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/17/delegado-geral-investigado-por-fraude-em-concursos-publicos-reassume-policia-civil-em-al.ghtml)_
+
