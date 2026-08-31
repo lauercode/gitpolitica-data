@@ -11,3 +11,6 @@
 - **[2017-06-10 13:17 UTC]** Floresta Nacional de Brasília ganha maior trilha de mountain bike em unidade de conservação do país
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/maior-trilha-de-mountain-bike-em-unidade-de-conservacao-do-pais-e-inaugurada-no-df.ghtml)_
 
+- **[2017-05-09 12:03 UTC]** Sebrae atende a empreendedores dos bairros com unidade móvel
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/sebrae-atende-empreendedores-dos-bairros-com-unidade-movel.html)_
+
