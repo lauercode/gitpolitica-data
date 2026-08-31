@@ -17,3 +17,6 @@
 - **[2026-08-27 14:38 UTC]** Eleições 2026: TRE leva urna eletrônica ao Ver-o-Peso para treinar eleitores em Belém; veja datas e locais
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-tre-leva-urna-eletronica-ao-ver-o-peso-para-treinar-eleitores-em-belem-veja-datas-e-locais.ghtml)_
 
+- **[2026-08-24 12:32 UTC]** Pecuaristas adotam estratégia com ração no pasto para evitar perda de peso do gado na seca em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/pecuaristas-adotam-estrategia-com-racao-no-pasto-para-evitar-perda-de-peso-do-gado-na-seca-em-roraima.ghtml)_
+
