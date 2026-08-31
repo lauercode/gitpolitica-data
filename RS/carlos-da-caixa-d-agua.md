@@ -59,3 +59,6 @@
 - **[2026-08-31 13:43 UTC]** Vazamento de água causa interdição de faixa da Avenida Rodrigo Otávio, em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/vazamento-de-agua-interdita-faixa-da-avenida-rodrigo-otavio-em-manaus.ghtml)_
 
+- **[2026-08-28 16:49 UTC]** Homem fica pendurado dentro de caixa d’água por 40 minutos em Manaus; veja resgate
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/homem-fica-pendurado-dentro-de-caixa-dagua-por-40-minutos-em-manaus-veja-resgate.ghtml)_
+
