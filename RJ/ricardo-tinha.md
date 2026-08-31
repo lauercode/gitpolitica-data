@@ -20,3 +20,6 @@
 - **[2018-07-03 15:50 UTC]** 'Meus colegas começaram a me zoar, falaram que eu tinha levado um choque', conta menina que teve cabelo alisado
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/vales-mg/noticia/meus-colegas-comecaram-a-me-zoar-falaram-que-eu-tinha-levado-um-choque-conta-menina-que-teve-cabelo-alisado.ghtml)_
 
+- **[2018-07-17 20:45 UTC]** 'Dr. Bumbum' tinha diploma, mas não podia trabalhar como cirurgião plástico: saiba contratar um médico com segurança
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/bemestar/noticia/dr-bumbum-tinha-diploma-mas-nao-podia-trabalhar-como-cirurgiao-saiba-contratar-uma-plastica-com-seguranca.ghtml)_
+
