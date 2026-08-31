@@ -113,3 +113,6 @@
 - **[2018-07-09 16:13 UTC]** Adolescente que morreu após passar mal teria usado lança-perfume, dizem amigos
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/noticia/adolescente-que-morreu-apos-passar-mal-teria-usado-lanca-perfume-dizem-amigos.ghtml)_
 
+- **[2026-08-27 10:28 UTC]** Quem era Thalita Tavares, ex-apresentadora do Globo Esporte TO que morreu vítima de câncer
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/quem-era-thalita-tavares-ex-apresentadora-do-globo-esporte-to-que-morreu-vitima-de-cancer.ghtml)_
+
