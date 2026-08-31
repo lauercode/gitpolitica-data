@@ -14,3 +14,6 @@
 - **[2026-08-27 10:29 UTC]** Ex-apresentadora do Globo Esporte que morreu em SC idealizou centro especializado em autismo
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/ex-apresentadora-globo-esporte-tocantins-idealizou-centro-especializado-autismo.ghtml)_
 
+- **[2026-08-26 22:55 UTC]** Thalita Tavares, ex-apresentadora do Globo Esporte TO, morre aos 46 anos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/to/tocantins/noticia/2026/08/26/ex-apresentadora-do-globo-esporte-to-morre-apos-luta-contra-o-cancer.ghtml)_
+
