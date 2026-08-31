@@ -632,3 +632,6 @@
 - **[2026-08-31 14:45 UTC]** Campanha de Lula deve pedir que TSE reconsidere suspensão de propaganda com 'currículo de Flávio'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/campanha-de-lula-deve-pedir-que-tse-reconsidere-suspensao-de-propaganda-com-curriculo-de-flavio.shtml)_
 
+- **[2026-08-31 12:58 UTC]** Eleitor pendular segue indefinido entre Lula e Flávio Bolsonaro e sensível ao noticiário, mostra estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleitor-pendular-segue-indefinido-entre-lula-e-flavio-bolsonaro-e-sensivel-ao-noticiario-mostra-estudo.shtml)_
+
