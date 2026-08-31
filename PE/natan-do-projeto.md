@@ -92,3 +92,6 @@
 - **[2017-11-12 15:02 UTC]** Integrantes de projeto cultural motivam candidatos no 2º dia de prova do Enem em Cuiabá
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/integrantes-de-projeto-cultural-motivam-candidatos-no-2-dia-de-prova-do-enem-em-cuiaba.ghtml)_
 
+- **[2018-04-26 18:30 UTC]** Surdos unilaterais podem ser considerados Pessoas Com Deficiência, segundo um projeto de lei
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/mao-na-roda/post/surdos-unilaterais-podem-ser-considerados-pessoas-com-deficiencia-segundo-um-projeto-de-l.html)_
+
