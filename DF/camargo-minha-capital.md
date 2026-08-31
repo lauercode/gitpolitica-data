@@ -38,3 +38,6 @@
 - **[2026-08-31 19:10 UTC]** Rio Acre fica abaixo de 2 metros pela 3ª vez em 2026 na capital
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/rio-acre-fica-abaixo-de-2-metros-pela-3a-vez-em-2026-na-capital.ghtml)_
 
+- **[2026-08-26 14:42 UTC]** Veja o que abre e fecha em Maceió durante feriado de Nossa Senhora dos Prazeres, padroeira da capital
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/26/veja-o-que-abre-e-fecha-em-maceio-durante-feriado-de-nossa-senhora-dos-prazeres-padroeira-da-capital.ghtml)_
+
