@@ -14,3 +14,6 @@
 - **[2026-08-31 13:48 UTC]** Alcolumbre quer indicar Pacheco ao TCU sem sabatina e com aprovação em plenário até quarta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/alcolumbre-quer-indicar-pacheco-ao-tcu-sem-sabatina-e-com-aprovacao-em-plenario-ate-quarta.shtml)_
 
+- **[2026-08-31 12:24 UTC]** Bruno Dantas renuncia ao TCU, e Rodrigo Pacheco assumirá cargo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-dantas-renuncia-ao-tcu-e-rodrigo-pacheco-assumira-cargo.shtml)_
+
