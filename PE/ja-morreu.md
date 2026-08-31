@@ -95,3 +95,6 @@
 - **[2026-08-30 16:36 UTC]** Mulher que morreu após ser atingida por raio em praia da Grande Florianópolis tem cerimônia de despedida no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/30/mulher-que-morreu-apos-ser-atingida-por-raio-em-praia-da-grande-florianopolis-sera-velada-na-serra-gaucha.ghtml)_
 
+- **[2026-08-29 22:55 UTC]** Caso Oliver: pai e mãe de menino de 3 anos que morreu após agressões viram réus no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/caso-oliver-pai-e-mae-de-menino-de-3-anos-viram-reus-no-rs.ghtml)_
+
