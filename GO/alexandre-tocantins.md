@@ -50,3 +50,6 @@
 - **[2026-08-26 17:12 UTC]** Governo do Tocantins decreta medidas de contenção de gastos até o fim de 2026; veja o que muda
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/governo-do-tocantins-decreta-medidas-de-contencao-de-gastos-ate-o-fim-de-2026-veja-o-que-muda.ghtml)_
 
+- **[2026-08-25 19:33 UTC]** Tocantins terá redução na tarifa de energia elétrica; veja percentual
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/25/tocantins-tera-reducao-na-tarifa-de-energia-eletrica-veja-percentual.ghtml)_
+
