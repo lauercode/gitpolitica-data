@@ -35,3 +35,6 @@
 - **[2018-07-11 08:14 UTC]** Professor de escola pública do DF é selecionado para expor aquarelas no Museu do Louvre
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/olha-que-legal/noticia/professor-de-escola-publica-do-df-e-selecionado-para-expor-aquarelas-no-museu-do-louvre.ghtml)_
 
+- **[2017-10-10 09:57 UTC]** Câmara do DF quer proibir escolas públicas de liberar alunos se faltar professor
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/camara-do-df-quer-proibir-escolas-publicas-de-liberar-alunos-se-faltar-professor.ghtml)_
+
