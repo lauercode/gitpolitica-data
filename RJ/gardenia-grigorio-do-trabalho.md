@@ -107,3 +107,6 @@
 - **[2026-08-28 03:00 UTC]** CNH categoria C, trabalho pesado e 'cara' de 10 anos: quem é o caminhoneiro que confundiu a PM em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/quem-caminhoneiro-confundiu-pm-crianca-sc.ghtml)_
 
+- **[2026-08-27 03:02 UTC]** Barrado no banco e até no trabalho: caminhoneiro parado pela PM por parecer criança coleciona perrengues
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/caminhoneiro-parado-pm-sc-parecer-crianca-coleciona-perrengues.ghtml)_
+
