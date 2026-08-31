@@ -20,3 +20,6 @@
 - **[2017-07-14 11:30 UTC]** Conheça o percurso do Piloto Consciente – 1º Passeio Motociclístico de Goiás
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/conheca-o-percurso-do-piloto-consciente-1-passeio-motociclistico-de-goias.html)_
 
+- **[2017-07-10 19:04 UTC]** DETRAN Goiás realiza 1ª edição do projeto Piloto Consciente
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/detran-goias-realiza-1-edicao-do-projeto-piloto-consciente.html)_
+
