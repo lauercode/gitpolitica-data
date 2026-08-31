@@ -50,3 +50,6 @@
 - **[2018-07-18 17:12 UTC]** 'Médico fez a cabeça dela', diz filho de gerente de banco de MT que morreu após procedimento com Dr. Bumbum
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/mt/mato-grosso/noticia/2018/07/18/medico-fez-a-cabeca-dela-diz-filho-de-gerente-de-banco-de-mt-que-morreu-apos-procedimento-com-dr-bumbum.ghtml)_
 
+- **[2018-07-18 13:59 UTC]** Corpo de gerente de banco que morreu após procedimento estético no RJ é enterrado em MT
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/mt/mato-grosso/noticia/2018/07/18/corpo-de-gerente-de-banco-que-morreu-apos-procedimento-estetico-no-rj-e-enterrado-em-mt.ghtml)_
+
