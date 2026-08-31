@@ -95,3 +95,6 @@
 - **[2026-08-29 00:03 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 28 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-28-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-28 21:01 UTC]** Renda per capita fica acima de R$ 3,1 mil no Acre, 3ª maior da região Norte
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/renda-per-capita-fica-acima-de-r-31-mil-no-acre-no-3-trimestre-crescimento-e-de-9.ghtml)_
+
