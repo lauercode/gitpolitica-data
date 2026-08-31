@@ -14,3 +14,6 @@
 - **[2017-07-06 11:14 UTC]** Espírito das Águas
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/fibria/a-floresta-sob-um-novo-prisma/noticia/2017/07/espirito-das-aguas.html)_
 
+- **[2018-07-23 13:49 UTC]** Filho estupra mãe na frente da irmã mais nova em Águas Belas, PE
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/2018/07/23/filho-estupra-mae-na-frente-da-irma-mais-nova-em-aguas-belas-pe.ghtml)_
+
