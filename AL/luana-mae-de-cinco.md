@@ -89,3 +89,6 @@
 - **[2026-08-30 16:57 UTC]** Homem é preso após pilotar moto com teor de álcool quase cinco vezes acima do limite na Grande Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/30/homem-e-preso-apos-pilotar-moto-com-teor-de-alcool-quase-cinco-vezes-acima-do-limite-na-grande-natal.ghtml)_
 
+- **[2026-08-28 17:07 UTC]** VÍDEO: Homem tenta fugir com carro furtado, atinge cinco veículos, derruba motoqueiro e acaba preso no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/video-homem-tenta-fugir-com-carro-furtado-atinge-cinco-veiculos-derruba-motoqueiro-e-acaba-preso-no-rs.ghtml)_
+
