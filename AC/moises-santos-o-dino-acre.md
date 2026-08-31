@@ -122,3 +122,6 @@
 - **[2026-08-28 00:40 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 27 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-27-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-28 00:02 UTC]** Homem de 36 anos é encontrado morto no quintal de casa no Acre; suspeita é de mal súbito
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/homem-de-36-anos-e-encontrado-morto-no-quintal-de-casa-no-acre-suspeita-e-de-mal-subito.ghtml)_
+
