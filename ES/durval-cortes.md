@@ -14,3 +14,6 @@
 - **[2026-08-31 14:58 UTC]** Caiado promete cortes, mas diz que não pode detalhar plano porque dados públicos são 'manipulados'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/caiado-cortes-subsidios.ghtml)_
 
+- **[2026-08-25 09:00 UTC]** Diarista sofre cortes no rosto e pescoço por linha de cerol ao andar de moto no Acre: 'Nasci de novo'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/diarista-sofre-cortes-no-rosto-e-pescoco-por-linha-de-pipa-ao-andar-de-moto-no-ac-nasci-de-novo.ghtml)_
+
