@@ -38,3 +38,6 @@
 - **[2026-08-31 11:29 UTC]** Enchente no Grand Canyon, nos EUA, mata duas pessoas e deixa 20 desaparecidas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/enchente-no-grand-canyon-nos-eua-mata-uma-pessoa-e-deixa-15-desaparecidas.shtml)_
 
+- **[2026-08-29 17:11 UTC]** Área de mata pega fogo próximo a cemitério no interior do Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/area-de-mata-pega-fogo-proximo-a-cemiterio-no-interior-do-acre.ghtml)_
+
