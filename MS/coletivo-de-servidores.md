@@ -23,3 +23,6 @@
 - **[2026-08-31 13:42 UTC]** Parlamentares votam parecer sobre indenização para servidores que trabalham em fronteiras
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301207-parlamentares-votam-parecer-sobre-indenizacao-para-servidores-que-trabalham-em-fronteiras)_
 
+- **[2026-08-27 13:40 UTC]** Servidores da Saúde de Rio Branco denunciam atrasos no pagamento do salário: 'Sempre atrasou'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/servidores-da-saude-de-rio-branco-denunciam-atrasos-no-pagamento-do-salario-sempre-atrasou.ghtml)_
+
