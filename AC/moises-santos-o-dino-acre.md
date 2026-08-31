@@ -128,3 +128,6 @@
 - **[2026-08-27 20:01 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 27 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-27-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-27 18:06 UTC]** Acre volta a ter voos direto para Rondônia após seis anos; nº de viagens para SP aumentam
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/acre-volta-a-ter-voos-direto-para-rondonia-apos-seis-anos-no-de-viagens-para-sp-aumentam.ghtml)_
+
