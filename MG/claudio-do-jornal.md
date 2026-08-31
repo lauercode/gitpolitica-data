@@ -74,3 +74,6 @@
 - **[2026-08-25 16:33 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de terça-feira, 25 de agosto de 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/08/25/videos-jornal-do-almoco-florianopolis-de-terca-feira-25-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-31 17:58 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de segunda-feira, 31 de agosto de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-segunda-feira-31-de-agosto-de-2026.ghtml)_
+
