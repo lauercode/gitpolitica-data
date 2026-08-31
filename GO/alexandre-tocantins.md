@@ -53,3 +53,6 @@
 - **[2026-08-25 19:33 UTC]** Tocantins terá redução na tarifa de energia elétrica; veja percentual
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/25/tocantins-tera-reducao-na-tarifa-de-energia-eletrica-veja-percentual.ghtml)_
 
+- **[2026-08-25 19:21 UTC]** Auditor fiscal é preso em flagrante por suspeita de corrupção passiva no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/25/auditor-fiscal-e-preso-em-flagrante-por-suspeita-de-corrupcao-passiva-no-interior-do-tocantins.ghtml)_
+
