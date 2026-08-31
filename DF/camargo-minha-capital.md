@@ -35,3 +35,6 @@
 - **[2026-08-30 05:00 UTC]** Tempo em SP continua abafado com sol entre nuvens neste domingo (30)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/tempo-em-sp-continua-abafado-com-sol-entre-nuvens-neste-domingo-30.shtml)_
 
+- **[2026-08-31 19:10 UTC]** Rio Acre fica abaixo de 2 metros pela 3ª vez em 2026 na capital
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/rio-acre-fica-abaixo-de-2-metros-pela-3a-vez-em-2026-na-capital.ghtml)_
+
