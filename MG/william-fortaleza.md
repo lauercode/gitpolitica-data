@@ -53,3 +53,6 @@
 - **[2017-08-08 16:09 UTC]** Policial civil baleado em assalto não resiste e morre no IJF, em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/policial-civil-baleado-em-assalto-nao-resiste-e-morre-no-ijf-em-fortaleza.ghtml)_
 
+- **[2017-08-05 22:00 UTC]** Médico é preso após atropelar e matar policial militar em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/medico-e-preso-apos-atropelar-e-matar-policial-militar-em-fortaleza.ghtml)_
+
