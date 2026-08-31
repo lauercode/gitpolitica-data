@@ -20,3 +20,6 @@
 - **[2026-08-31 20:38 UTC]** Orçamento 2027: proposta do governo limita reajustes de servidores públicos seguindo 'gatilho' da regra fiscal
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-proposta-do-governo-limita-reajustes-de-servidores-publicos-seguindo-gatilho-da-regra-fiscal.ghtml)_
 
+- **[2026-08-31 13:42 UTC]** Parlamentares votam parecer sobre indenização para servidores que trabalham em fronteiras
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301207-parlamentares-votam-parecer-sobre-indenizacao-para-servidores-que-trabalham-em-fronteiras)_
+
