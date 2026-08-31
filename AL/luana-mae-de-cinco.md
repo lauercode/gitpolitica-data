@@ -80,3 +80,6 @@
 - **[2026-08-27 20:45 UTC]** Acidentes graves deixam dois mortos e cinco feridos no sudeste do Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/acidentes-graves-deixam-dois-mortos-e-cinco-feridos-no-sudeste-do-para.ghtml)_
 
+- **[2026-08-28 12:34 UTC]** Cinco trabalhadores morrem após caminhonete bater de frente com caminhão, no PR; polícia investiga circunstâncias do acidente
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/28/morte-cinco-trabalhadores-acidente-ventania-parana.ghtml)_
+
