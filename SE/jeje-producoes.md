@@ -17,3 +17,6 @@
 - **[2017-10-23 19:04 UTC]** Festival Cine.Ema destaca produções de cinema ambiental em Burarama, ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/noticia/festival-cineema-destaca-producoes-de-cinema-ambiental-em-burarama-es.ghtml)_
 
+- **[2026-08-27 13:32 UTC]** Festival Guarnicê de Cinema premia produções maranhenses e nacionais na 49ª edição; veja os vencedores
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/cultura/noticia/2026/08/27/festival-guarnice-de-cinema-premia-producoes-maranhenses-e-nacionais-na-49a-edicao-veja-os-vencedores.ghtml)_
+
