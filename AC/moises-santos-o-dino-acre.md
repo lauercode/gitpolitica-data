@@ -32,3 +32,6 @@
 - **[2026-08-31 20:03 UTC]** Eleições 2026: veja todos os candidatos ao governo do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-do-acre.ghtml)_
 
+- **[2026-08-31 19:53 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 31 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-31-de-agosto-de-2026.ghtml)_
+
