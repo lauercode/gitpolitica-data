@@ -32,3 +32,6 @@
 - **[2026-08-30 16:29 UTC]** Ciclista é assaltado em rua do Jardim Oceania, em João Pessoa; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/30/ciclista-e-assaltado-em-rua-do-jardim-oceania-em-joao-pessoa-video.ghtml)_
 
+- **[2026-08-27 12:27 UTC]** Redes de água e energia elétrica chegam a mais ruas do Jardim Israelense
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/municipio-de-araucaria/araucaria-noticias/noticia/2026/08/27/redes-de-agua-e-energia-eletrica-chegam-a-mais-ruas-do-jardim-israelense.ghtml)_
+
