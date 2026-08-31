@@ -17,3 +17,6 @@
 - **[2026-08-30 12:00 UTC]** Correr faz mal aos joelhos? Tire dúvidas sobre a atividade física
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/correr-faz-mal-aos-joelhos-tire-duvidas-sobre-a-atividade-fisica.shtml)_
 
+- **[2026-08-29 10:00 UTC]** Caso Yasmin Macêdo: 'nada do que foi dito muda a verdade sobre quem ela era', diz mãe em carta aberta
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/caso-yasmin-macedo-nada-do-que-foi-dito-muda-a-verdade-sobre-quem-ela-era-diz-mae-em-carta-aberta.ghtml)_
+
