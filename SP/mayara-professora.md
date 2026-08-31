@@ -35,3 +35,6 @@
 - **[2018-07-16 15:43 UTC]** Professora do ES morreu com a filha nos braços em acidente no MS
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/professora-do-es-morreu-com-a-filha-nos-bracos-em-acidente-no-ms.ghtml)_
 
+- **[2026-08-27 10:56 UTC]** Professora morre após ser atropelada por caminhão-caçamba na BR-316, em Bacabal
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/27/professora-morre-apos-ser-atropelada-por-caminhao-cacamba-na-br-316-em-bacabal.ghtml)_
+
