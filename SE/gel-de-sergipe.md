@@ -35,3 +35,6 @@
 - **[2026-08-28 18:42 UTC]** Saiba como foi 1° dia de propaganda eleitoral na TV dos candidatos ao governo de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/28/saiba-como-foi-1-dia-de-propaganda-eleitoral-na-tv-dos-candidatos-ao-governo-de-sergipe.ghtml)_
 
+- **[2026-08-28 14:21 UTC]** Resultado da Mega-Sena 3050: apostas de Sergipe acertam números; confira resultado
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/resultado-da-mega-sena-3050-apostas-de-sergipe-acertam-numeros-confira-resultado.ghtml)_
+
