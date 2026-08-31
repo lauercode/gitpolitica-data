@@ -74,3 +74,6 @@
 - **[2018-05-03 16:38 UTC]** Combustível tem reajuste em Fernando de Noronha, a gasolina agora custa R$ 6,79
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/combustivel-tem-reajuste-em-fernando-de-noronha-gasolina-agora-custa-r-679.html)_
 
+- **[2018-05-03 08:19 UTC]** Projeto Tamar celebra em Fernando de Noronha 35 Milhões de tartarugas marinhas protegidas no Brasil
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/projeto-tamar-celebra-em-fernando-de-noronha-35-milhoes-de-tartarugas-marinhas-protegidas-no-brasil.html)_
+
