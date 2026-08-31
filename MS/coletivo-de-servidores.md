@@ -44,3 +44,6 @@
 - **[2017-10-25 18:26 UTC]** Juiz determina suspensão de arrestos para o pagamento de servidores da Uerj
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/juiz-determina-suspensao-de-arrestos-para-o-pagamento-de-servidores-da-uerj.ghtml)_
 
+- **[2026-08-20 19:35 UTC]** Servidores são afastados após flagrante de 'ato íntimo' em carro oficial da prefeitura de Jaru, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/20/servidores-sao-afastados-da-prefeitura-de-jaru-ro.ghtml)_
+
