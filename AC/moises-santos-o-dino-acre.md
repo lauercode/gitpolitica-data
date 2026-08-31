@@ -137,3 +137,6 @@
 - **[2026-08-27 00:06 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 26 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-26-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-26 23:07 UTC]** Justiça do Acre mantém pena de devolução de R$ 4,6 mil por ex-vereador, mas reduz punições
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/justica-do-acre-mantem-pena-de-devolucao-de-r-46-mil-por-ex-vereador-mas-reduz-punicoes.ghtml)_
+
