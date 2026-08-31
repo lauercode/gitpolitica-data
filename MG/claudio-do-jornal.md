@@ -20,3 +20,6 @@
 - **[2026-08-31 11:57 UTC]** Jornal argentino processa OpenAI e Microsoft por uso não autorizado de conteúdo e concorrência desleal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/jornal-argentino-processa-openai-e-microsoft-por-uso-nao-autorizado-de-conteudo-e-concorrencia-desleal.shtml)_
 
+- **[2026-08-31 19:53 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 31 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-31-de-agosto-de-2026.ghtml)_
+
