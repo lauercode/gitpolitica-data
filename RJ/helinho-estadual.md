@@ -35,3 +35,6 @@
 - **[2026-08-31 18:35 UTC]** Filhas de candidato a deputado estadual por SC morrem em acidente de carro no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/filhas-candidato-deputado-estadual-morrem-acidente-carro-parana.ghtml)_
 
+- **[2026-08-26 21:01 UTC]** Professor investigado por suspeita de estupro de vulnerável contra alunas de 8 anos em escola estadual é preso no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/professor-preso-investigado-suspeita-estupro-alunas-escola-estadual-cachoeirinha-rs.ghtml)_
+
