@@ -11,3 +11,6 @@
 - **[2026-08-29 14:00 UTC]** 'Construção civil é um dos segmentos mais blindados ao cenário eleitoral', diz co-CEO da MRV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/construcao-civil-e-um-dos-segmentos-mais-blindados-ao-cenario-eleitoral-diz-co-ceo-da-mrv.shtml)_
 
+- **[2018-07-15 22:02 UTC]** Artesãos comemoram vendas e encomendas realizadas na Fenearte
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/artesaos-comemoram-vendas-e-encomendas-realizadas-na-fenearte.ghtml)_
+
