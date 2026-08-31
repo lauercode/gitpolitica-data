@@ -32,3 +32,6 @@
 - **[2026-08-29 06:00 UTC]** VÍDEO: jovem troca música de formatura por áudios de familiares e emociona no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/video-jovem-troca-musica-de-formatura-por-audios-de-familiares-e-emociona-no-rs.ghtml)_
 
+- **[2026-08-18 22:09 UTC]** Debate entre candidatos ao governo de Rondônia tem troca de acusações e debates sobre saúde e infraestrutura
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/18/debate-entre-candidatos-ao-governo-de-rondonia.ghtml)_
+
