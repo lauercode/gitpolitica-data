@@ -29,3 +29,6 @@
 - **[2026-08-30 14:00 UTC]** O prompt morreu: agora são 'loops' e 'graphs'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/08/o-prompt-morreu-agora-sao-loops-e-graphs.shtml)_
 
+- **[2026-08-31 17:15 UTC]** Homem que morreu ao cair do 14º andar em Londrina (PR) tentava escapar de agressores, diz polícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/homem-que-morreu-ao-cair-do-14o-andar-em-londrina-pr-tentava-escapar-de-agressores-diz-policia.shtml)_
+
