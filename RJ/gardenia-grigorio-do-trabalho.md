@@ -101,3 +101,6 @@
 - **[2026-08-28 13:27 UTC]** Polícia prende suspeito de matar colega de trabalho por demora em devolver TV
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/28/policia-prende-suspeito-de-matar-colega-de-trabalho-por-demora-em-devolver-tv.ghtml)_
 
+- **[2026-08-22 14:49 UTC]** Plantão que atende mulheres vítimas de violência em Roraima pode colapsar por sobrecarga de trabalho, alerta delegada
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/22/plantao-que-atende-mulheres-vitimas-de-violencia-em-roraima-pode-colapsar-por-sobrecarga-de-trabalho-alerta-delegada.ghtml)_
+
