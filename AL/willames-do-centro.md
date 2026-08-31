@@ -95,3 +95,6 @@
 - **[2026-08-28 09:43 UTC]** Centro Comercial de Passagem, em João Pessoa, deve ficar fechado por tempo indeterminado após incêndio
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/centro-comercial-de-passagem-em-joao-pessoa-deve-ficar-fechado-por-tempo-indeterminado-apos-incendio.ghtml)_
 
+- **[2026-08-27 22:37 UTC]** Testemunhas de incêndio no Centro de Passagem relatam correria com as chamas, em João Pessoa: 'As pessoas estavam desesperadas '
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/testemunhas-de-incendio-no-centro-de-passagem-relatam-correria-com-as-chamas-em-joao-pessoa-as-pessoas-estavam-desesperadas.ghtml)_
+
