@@ -14,3 +14,6 @@
 - **[2026-08-22 17:31 UTC]** Primeiro Festival Internacional de Cultura de Maceió será realizado em setembro; veja datas
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/22/primeiro-festival-internacional-de-cultura-da-cidade-sera-realizado-em-setembro-veja-datas.ghtml)_
 
+- **[2026-08-30 16:04 UTC]** Do carimbó ao hip-hop, Afro Maré celebra a cultura negra em Mosqueiro
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/30/festival-afro-mare-estreia-em-mosqueiro-com-carimbo-tecnobrega-hip-hop-e-culturas-de-terreiro.ghtml)_
+
