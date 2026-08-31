@@ -20,3 +20,6 @@
 - **[2026-08-27 22:36 UTC]** Brasileira encontrada na Espanha após mais de 50 dias sem contato não quer falar com a família e irmã lamenta: ‘Não posso controlar’
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/brasileira-encontrada-na-espanha-apos-mais-de-50-dias-sem-contato-nao-quer-falar-com-a-familia-e-irma-lamenta-nao-posso-controlar.ghtml)_
 
+- **[2026-08-27 19:58 UTC]** Brasileira desaparecida na Espanha é encontrada, diz família
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/brasileira-desaparecida-na-espanha-e-encontrada-diz-familia.ghtml)_
+
