@@ -32,3 +32,6 @@
 - **[2026-08-28 19:13 UTC]** 'Não estou acreditando', conta avó de menino morto após ser atingido por árvore em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/nao-estou-acreditando-conta-avo-de-menino-morto-apos-ser-atingido-por-arvore-em-porto-alegre.ghtml)_
 
+- **[2026-08-28 15:57 UTC]** Menino de 11 anos caminha 7 km para pedir ajuda após suposta agressão da mãe
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/menino-de-11-anos-caminha-7-quilometros-para-pedir-ajuda-apos-suposta-agressao-da-mae.ghtml)_
+
