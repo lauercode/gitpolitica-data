@@ -302,3 +302,6 @@
 - **[2026-08-31 21:14 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-amapa.ghtml)_
 
+- **[2026-08-31 21:07 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-amazonas.ghtml)_
+
