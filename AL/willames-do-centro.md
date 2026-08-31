@@ -98,3 +98,6 @@
 - **[2026-08-27 22:37 UTC]** Testemunhas de incêndio no Centro de Passagem relatam correria com as chamas, em João Pessoa: 'As pessoas estavam desesperadas '
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/testemunhas-de-incendio-no-centro-de-passagem-relatam-correria-com-as-chamas-em-joao-pessoa-as-pessoas-estavam-desesperadas.ghtml)_
 
+- **[2026-08-27 21:04 UTC]** Imagens mostram incêndio em área interna do Centro Comercial de Passagem, em João Pessoa; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/imagens-mostram-incendio-em-area-interna-do-centro-comercial-de-passagem-em-joao-pessoa-video.ghtml)_
+
