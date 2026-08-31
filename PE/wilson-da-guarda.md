@@ -20,3 +20,6 @@
 - **[2026-08-27 12:45 UTC]** Guarda municipal de folga é detido suspeito de assediar adolescentes e atirar no padrasto de um deles em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/27/guarda-municipal-detido-tiro-curitiba.ghtml)_
 
+- **[2018-07-15 14:17 UTC]** Família de grávida morta quer guarda do bebê resgatado em favela no RJ
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/familia-de-gravida-morta-quer-guarda-do-bebe-resgatado-em-favela-no-rj.ghtml)_
+
