@@ -107,3 +107,6 @@
 - **[2026-08-29 00:32 UTC]** VÍDEO: Caixa d'água despenca de prédio abandonado e fica suspensa em fios no Centro de Porto Alegre após ventania
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/video-caixa-dagua-despenca-predio-abandonado-fios-centro-porto-alegre-ventania.ghtml)_
 
+- **[2026-08-28 19:36 UTC]** HSJ inaugura nova Unidade de Coleta Laboratorial no Centro Madre Teresa
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/hospital-sao-jose/noticia/2026/08/28/hsj-inaugura-nova-unidade-de-coleta-laboratorial-no-centro-madre-teresa.ghtml)_
+
