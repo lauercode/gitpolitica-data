@@ -107,3 +107,6 @@
 - **[2018-04-26 12:19 UTC]** Transferência de títulos eleitorais está suspensa em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/transferencia-de-titulos-eleitorais-esta-suspensa-em-fernando-de-noronha.html)_
 
+- **[2018-04-25 18:59 UTC]** Presidentes do Conselho Distrital e Assembleia Popular falam sobre possível proibição de entrega de terrenos e casas em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/presidentes-do-conselho-distrital-e-assembleia-popular-falam-sobre-possivel-proibicao-de-entrega-de-terrenos-e-casas-em-fernando-de-noronha.html)_
+
