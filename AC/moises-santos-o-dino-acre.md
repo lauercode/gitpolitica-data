@@ -50,3 +50,6 @@
 - **[2026-08-31 13:00 UTC]** Três em cada 10 mulheres do Acre reconhecem ter vivido violência doméstica, aponta pesquisa
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/tres-em-cada-10-mulheres-do-acre-reconhecem-ter-vivido-violencia-domestica-aponta-pesquisa.ghtml)_
 
+- **[2026-08-31 12:55 UTC]** Assessor especial da Casa Civil é exonerado após ser preso por acidente que matou três no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/assessor-especial-da-casa-civil-e-exonerado-apos-ser-preso-por-acidente-que-matou-tres-no-acre.ghtml)_
+
