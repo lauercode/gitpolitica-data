@@ -95,3 +95,6 @@
 - **[2018-05-08 16:54 UTC]** Trabalho de estudantes de Fernando de Noronha é apresentado na Conferência de Meio Ambiente
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/trabalho-de-estudantes-de-fernando-de-noronha-e-apresentado-na-conferencia-de-meio-ambiente.html)_
 
+- **[2026-08-29 16:32 UTC]** Funcionário de supermercado morre após acidente de trabalho em Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/29/funcionario-morre-acidente-trabalho-mossoro.ghtml)_
+
