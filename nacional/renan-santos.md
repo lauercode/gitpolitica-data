@@ -71,3 +71,6 @@
 - **[2026-08-31 15:33 UTC]** Justiça bloqueia plano de previdência de Renan Santos por dívida trabalhista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/justica-bloqueia-plano-de-previdencia-de-renan-santos-por-divida-trabalhista.shtml)_
 
+- **[2026-08-31 14:48 UTC]** Toffoli proíbe Renan Santos de participar de debates e fazer propaganda eleitoral digital
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/toffoli-proibe-renan-santos-de-participar-de-debates-e-fazer-propaganda-eleitoral.shtml)_
+
