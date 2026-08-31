@@ -17,3 +17,6 @@
 - **[2026-08-27 21:32 UTC]** Relator do fim da escala 6×1 no Senado diz que votar contra a proposta seria “suicídio”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/relator-do-fim-da-escala-6x1-no-senado-diz-que-votar-contra-a-proposta-seria-suicidio/)_
 
+- **[2026-08-31 21:27 UTC]** Eleições 2026: Omar Aziz grava programa eleitoral e promete construir 40 mil moradias no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-omar-aziz-grava-programa-eleitoral-e-promete-construir-40-mil-moradias-no-amazonas.ghtml)_
+
