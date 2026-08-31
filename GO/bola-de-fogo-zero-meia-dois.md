@@ -134,3 +134,6 @@
 - **[2026-08-27 03:01 UTC]** Último contato de família encontrada morta no PR foi dois dias antes de os corpos serem achados, diz polícia
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/27/ultimo-contato-de-familia-encontrada-morta-no-pr.ghtml)_
 
+- **[2018-07-21 19:34 UTC]** Banda Sinfônica do Recife faz dois concertos no Teatro de Santa Isabel
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/musica/noticia/2018/07/21/banda-sinfonica-do-recife-faz-dois-concertos-no-teatro-de-santa-isabel.ghtml)_
+
