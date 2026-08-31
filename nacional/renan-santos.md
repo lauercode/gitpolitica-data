@@ -89,3 +89,6 @@
 - **[2026-08-31 18:37 UTC]** Renan Santos diz que vai pedir liminar contra suspensão de candidatura
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/renan-santos-diz-que-vai-pedir-liminar-contra-suspensao-de-candidatura)_
 
+- **[2026-08-31 14:52 UTC]** Toffoli suspende propaganda de Renan Santos na internet
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/toffoli-suspende-propaganda-de-renan-santos-na-internet)_
+
