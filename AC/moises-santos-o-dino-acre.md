@@ -35,3 +35,6 @@
 - **[2026-08-31 19:53 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 31 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-31-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-31 19:46 UTC]** Mais de 60 seções eleitorais têm local de votação alterado no Acre; veja cidades afetadas
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/mais-de-60-secoes-eleitorais-tem-local-de-votacao-alterado-no-acre-veja-cidades-afetadas.ghtml)_
+
