@@ -20,3 +20,6 @@
 - **[2026-08-27 13:52 UTC]** Vizinho atrai criança dizendo que vai 'benzê-la', a estupra e é flagrado pela própria filha, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/27/vizinho-atrai-crianca-dizendo-que-vai-benze-la-a-estupra-e-e-flagrado-pela-propria-filha-no-parana.ghtml)_
 
+- **[2017-10-11 21:50 UTC]** Autor de foto de Arlindo Cruz no hospital diz que tirou selfie para mãe e enviou por engano para vizinho
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/autor-de-foto-de-arlindo-cruz-no-hospital-disse-que-tirou-selfie-para-mae.ghtml)_
+
