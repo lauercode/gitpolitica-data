@@ -26,3 +26,6 @@
 - **[2026-08-30 10:00 UTC]** Dono da Troma diz que Hollywood tenta destruir produtora há 50 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/dono-da-troma-diz-que-hollywood-tenta-destruir-produtora-ha-50-anos.shtml)_
 
+- **[2026-08-31 11:57 UTC]** Dono do Pão de Açúcar diz que Justiça estipulou prazo para MP-SP apresentar provas sobre retirada de credores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/dono-do-pao-de-acucar-diz-que-justica-estipulou-prazo-para-mp-sp-apresentar-provas-sobre-retirada-de-credores.shtml)_
+
