@@ -23,3 +23,6 @@
 - **[2017-04-02 10:50 UTC]** Avião cai e mata duas pessoas na pista do aeroporto de Aragarças, GO
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/aviao-cai-e-mata-duas-pessoas-na-pista-do-aeroporto-de-aragarcas-go.html)_
 
+- **[2017-04-02 08:09 UTC]** Passageira morre após carro sair da pista e bater contra árvore na BR-153
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/transito/noticia/2017/04/passageira-morre-apos-carro-sair-da-pista-e-bater-contra-arvore-na-br-153.html)_
+
