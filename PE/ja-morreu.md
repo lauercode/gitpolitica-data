@@ -110,3 +110,6 @@
 - **[2026-08-27 10:29 UTC]** Ex-apresentadora do Globo Esporte que morreu em SC idealizou centro especializado em autismo
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/ex-apresentadora-globo-esporte-tocantins-idealizou-centro-especializado-autismo.ghtml)_
 
+- **[2018-07-09 16:13 UTC]** Adolescente que morreu após passar mal teria usado lança-perfume, dizem amigos
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/noticia/adolescente-que-morreu-apos-passar-mal-teria-usado-lanca-perfume-dizem-amigos.ghtml)_
+
