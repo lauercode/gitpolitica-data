@@ -20,3 +20,6 @@
 - **[2018-07-13 14:00 UTC]** Menino de 2 anos morre afogado na piscina de casa um dia após aniversário em MG
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/menino-de-2-anos-morre-afogado-na-piscina-de-casa-um-dia-apos-aniversario-em-mg.ghtml)_
 
+- **[2026-08-28 16:22 UTC]** Menino de 7 anos morre após carro bater em árvore ao voltar de visita à avó no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/28/menino-de-7-anos-morre.ghtml)_
+
