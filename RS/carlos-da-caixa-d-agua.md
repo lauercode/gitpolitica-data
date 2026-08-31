@@ -29,3 +29,6 @@
 - **[2026-08-30 10:55 UTC]** O país que enfrenta a escassez de água com sistemas hídricos abandonados há centenas de anos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c78064pyzdzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-31 12:10 UTC]** Governo Lula exige água gratuita em grandes eventos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-lula-exige-agua-gratuita-em-grandes-eventos.shtml)_
+
