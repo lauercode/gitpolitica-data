@@ -20,3 +20,6 @@
 - **[2018-07-17 19:22 UTC]** Feira de adoção de filhotes recebe inscrições até quinta-feira em Sorocaba
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/feira-de-adocao-de-filhotes-recebe-inscricoes-ate-quinta-feira-em-sorocaba.ghtml)_
 
+- **[2018-07-12 21:54 UTC]** Jovem que sumiu de casa de recuperação para dependentes químicos é encontrado em Sorocaba
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/itapetininga-regiao/noticia/jovem-que-sumiu-de-casa-de-recuperacao-para-dependentes-quimicos-e-encontrado-em-sorocaba.ghtml)_
+
