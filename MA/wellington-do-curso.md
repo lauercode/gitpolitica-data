@@ -26,3 +26,6 @@
 - **[2017-08-24 16:53 UTC]** Construtora oferece curso de reparos domésticos para mulheres, em Goiânia
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/construtora-oferece-curso-de-reparos-domesticos-para-mulheres-em-goiania.ghtml)_
 
+- **[2017-10-23 17:19 UTC]** Cineasta Rodrigo Aragão dá curso de maquiagem especial e ferimentos em 3D em Cuiabá
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/cineasta-rodrigo-aragao-da-curso-de-maquiagem-especial-e-ferimentos-em-3d-em-cuiaba.ghtml)_
+
