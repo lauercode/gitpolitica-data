@@ -155,3 +155,6 @@
 - **[2026-08-31 12:22 UTC]** Câmara vota fim da “taxa das blusinhas” em ritmo relâmpago nesta segunda
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/camara-vota-fim-taxa-das-blusinhas-ritmo-relampago-segunda/)_
 
+- **[2026-08-31 11:10 UTC]** Câmara terá semana de esforço concentrado com votações a partir desta segunda-feira
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301089-camara-tera-semana-de-esforco-concentrado-com-votacoes-a-partir-desta-segunda-feira)_
+
