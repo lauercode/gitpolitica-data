@@ -233,3 +233,6 @@
 - **[2026-08-31 15:29 UTC]** Presidente de comissão mista defende fim da “taxa das blusinhas”; assista a entrevista
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301231-presidente-de-comissao-mista-defende-fim-da-taxa-das-blusinhas-assista-a-entrevista)_
 
+- **[2017-08-21 19:16 UTC]** Vereador José Carneiro Rocha é  eleito novo presidente da Câmara Municipal de Feira de Santana
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/vereador-jose-carneiro-rocha-e-eleito-novo-presidente-da-camara-municipal-de-feira-de-santana.ghtml)_
+
