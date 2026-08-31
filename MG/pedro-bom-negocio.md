@@ -11,3 +11,6 @@
 - **[2026-08-28 20:35 UTC]** “Aqui vira negócio” sintetiza a trajetória de resultados da FECOIMP.
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/especial-publicitario/associacao-comercial-industrial-e-servicos-de-imperatriz-fecoimp-2026-aqui-vira-negocio/noticia/2026/08/28/aqui-vira-negocio-sintetiza-a-trajetoria-de-resultados-da-fecoimp.ghtml)_
 
+- **[2017-05-17 16:39 UTC]** Saiba como usar o e-mail para otimizar o seu negócio
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/saiba-como-usar-o-e-mail-para-otimizar-o-seu-negocio.html)_
+
