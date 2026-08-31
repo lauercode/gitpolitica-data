@@ -83,3 +83,6 @@
 - **[2018-05-02 11:08 UTC]** Especialista avalia que pesca da sardinha na área do Parque Nacional Marinho não causa impacto em  Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/especialista-avalia-que-pesca-da-sardinha-na-area-do-parque-nacional-marinho-nao-causa-impacto-em-fernando-de-noronha.html)_
 
+- **[2018-05-01 15:04 UTC]** Morador de Fernando de Noronha, acusado por furto, é transferido para o Recife
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/morador-de-fernando-de-noronha-acusado-por-furto-e-transferido-para-o-recife.html)_
+
