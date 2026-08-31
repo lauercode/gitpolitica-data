@@ -20,3 +20,6 @@
 - **[2026-08-30 06:08 UTC]** Islândia recusa em plebiscito retomar negociações de adesão à União Europeia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml)_
 
+- **[2018-02-27 09:40 UTC]** Ivete Sangalo confirma participação no Rock In Rio Lisboa em junho
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/musica/noticia/ivete-sangalo-confirma-participacao-no-rock-in-rio-lisboa-em-junho.ghtml)_
+
