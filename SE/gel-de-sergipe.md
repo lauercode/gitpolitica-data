@@ -80,3 +80,6 @@
 - **[2026-08-24 17:54 UTC]** Imposto de Renda 2026: 4º lote vai liberar R$ 13 milhões em Sergipe; veja como consultar
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/imposto-de-renda-2026-4o-lote-vai-liberar-r-13-milhoes-em-sergipe-veja-como-consultar.ghtml)_
 
+- **[2026-08-24 11:05 UTC]** Plataforma digital do NAT oferta mais de mil vagas de emprego em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/plataforma-digital-do-nat-oferta-mais-de-mil-vagas-de-emprego-em-sergipe.ghtml)_
+
