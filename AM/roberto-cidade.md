@@ -71,3 +71,6 @@
 - **[2026-08-28 11:22 UTC]** Bolão do Paraná acerta a quina da Mega-Sena; veja a cidade e valor
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/28/bolao-do-parana-acerta-a-quina-da-mega.ghtml)_
 
+- **[2026-08-29 12:06 UTC]** Granizo destelha mais de 1,6 mil casas no RS; cidade do Norte do estado tem 60% da área atingida
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/granizo-atinge-rs-danifica-casas-tres-palmeiras.ghtml)_
+
