@@ -77,3 +77,6 @@
 - **[2026-08-24 22:56 UTC]** Substituição de empresa de ônibus será avaliada por representantes do Consórcio Metropolitano em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/substituicao-de-empresa-de-onibus-sera-avaliada-por-representantes-do-consorcio-metropolitano-em-sergipe.ghtml)_
 
+- **[2026-08-24 17:54 UTC]** Imposto de Renda 2026: 4º lote vai liberar R$ 13 milhões em Sergipe; veja como consultar
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/imposto-de-renda-2026-4o-lote-vai-liberar-r-13-milhoes-em-sergipe-veja-como-consultar.ghtml)_
+
