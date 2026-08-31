@@ -113,3 +113,6 @@
 - **[2018-07-17 13:10 UTC]** Programa Emprega Bauru oferece novas oportunidades de trabalho
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/programa-emprega-bauru-oferece-novas-oportunidades-de-trabalho.ghtml)_
 
+- **[2026-08-27 14:57 UTC]** Sergipanos estão entre brasileiros vítimas de esquema de tráfico humano e trabalho escravo no Camboja
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/27/sergipanos-estao-entre-brasileiros-vitimas-de-esquema-de-trafico-humano-e-trabalho-escravo-em-madagascar.ghtml)_
+
