@@ -11,3 +11,6 @@
 - **[2018-07-19 20:15 UTC]** Carga de eletrônicos roubada em Sergipe é recuperada pela PM na Bahia
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/se/sergipe/noticia/2018/07/19/carga-de-eletronicos-roubada-em-sergipe-e-recuperada-pela-pm-na-bahia.ghtml)_
 
+- **[2026-08-31 19:57 UTC]** Eleições 2026: veja todos os candidatos ao governo de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-de-sergipe.ghtml)_
+
