@@ -32,3 +32,6 @@
 - **[2026-08-30 16:13 UTC]** Culinária paraense e memória: escritor lança livro com degustação gratuita na Feira do Livro de Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/30/culinaria-paraense-e-memoria-escritor-lanca-livro-com-degustacao-gratuita-na-feira-do-livro-de-belem.ghtml)_
 
+- **[2026-08-28 20:43 UTC]** Companhia de dança clássica lança espetáculo natalino 'O Quebra-Nozes' em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/28/companhia-de-danca-classica-lanca-espetaculo-natalino-o-quebra-nozes-em-boa-vista.ghtml)_
+
