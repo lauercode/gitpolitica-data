@@ -62,3 +62,6 @@
 - **[2026-08-30 16:49 UTC]** VÍDEOS: Jornal do Acre 2ª Edição deste sábado, 29 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-deste-sabado-29-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-30 15:12 UTC]** População do Acre ultrapassa 887 mil pessoas, estima IBGE
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/populacao-do-acre-ultrapassa-887-mil-pessoas-estima-ibge.ghtml)_
+
