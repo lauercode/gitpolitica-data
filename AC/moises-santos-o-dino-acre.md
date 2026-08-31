@@ -53,3 +53,6 @@
 - **[2026-08-31 12:55 UTC]** Assessor especial da Casa Civil é exonerado após ser preso por acidente que matou três no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/assessor-especial-da-casa-civil-e-exonerado-apos-ser-preso-por-acidente-que-matou-tres-no-acre.ghtml)_
 
+- **[2026-08-30 20:36 UTC]** VÍDEO mostra preso por colisão que deixou 3 mortos bebendo em feira agropecuária no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/suspeito-de-causar-colisao-que-deixou-3-mortos-em-rodovia-e-assessor-especial-do-governo-do-ac.ghtml)_
+
