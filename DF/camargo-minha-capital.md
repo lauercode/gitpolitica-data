@@ -50,3 +50,6 @@
 - **[2017-04-18 16:12 UTC]** Brasília é a capital que mais consome frutas e verduras, aponta ministério
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/brasilia-e-a-capital-que-mais-consome-frutas-e-verduras-aponta-ministerio-da-saude.ghtml)_
 
+- **[2026-08-29 19:26 UTC]** João Pessoa é a capital do Nordeste com maior crescimento populacional, aponta IBGE
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/29/joao-pessoa-e-capital-do-nordeste-com-maior-crescimento-populacional-aponta-ibge.ghtml)_
+
