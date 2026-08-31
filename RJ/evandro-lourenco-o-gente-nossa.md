@@ -14,3 +14,6 @@
 - **[2026-08-23 13:41 UTC]** Transladação da imagem de Nossa Senhora de Nazaré terá novo trajeto em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/23/cirio-2026-transladacao-da-imagem-de-nossa-senhora-de-nazare-tera-novo-trajeto-em-macapa.ghtml)_
 
+- **[2026-08-30 13:51 UTC]** Programação da Festividade de Nossa Senhora de Belém tem missas, procissão e shows até 6 de setembro
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/30/programacao-da-festividade-de-nossa-senhora-de-belem-tem-missas-procissao-e-shows-ate-6-de-setembro.ghtml)_
+
