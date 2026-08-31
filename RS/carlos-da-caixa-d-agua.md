@@ -68,3 +68,6 @@
 - **[2018-01-16 21:04 UTC]** Entrevista G1: Um ano de racionamento de água
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/df/distrito-federal/ao-vivo/entrevista-g1-df-um-ano-de-racionamento-de-agua.ghtml)_
 
+- **[2017-08-02 11:19 UTC]** Após vazamento em adutora, corte de água é antecipado na Asa Norte, DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-vazamento-em-adutora-corte-de-agua-e-antecipado-na-asa-norte-df.ghtml)_
+
