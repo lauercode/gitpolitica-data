@@ -17,3 +17,6 @@
 - **[2026-08-24 15:57 UTC]** Amigos fazem cortejo de bicicleta em homenagem a ciclista atropelada em RO: 'Deixou um legado', diz amigo
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/amigos-fazem-cortejo-de-bicicleta-em-homenagem-a-ciclista-atropelada-em-ro-deixou-um-legado-diz-amigo.ghtml)_
 
+- **[2026-08-25 09:00 UTC]** Pai percorre 5 km empurrando filho com deficiência em bicicleta adaptada e emociona público; assista
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/25/pai-percorre-5-km-empurrando-filho-com-deficiencia-em-bicicleta-adaptada-e-emociona-publico-assista.ghtml)_
+
