@@ -23,3 +23,6 @@
 - **[2018-07-15 14:17 UTC]** Família de grávida morta quer guarda do bebê resgatado em favela no RJ
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/familia-de-gravida-morta-quer-guarda-do-bebe-resgatado-em-favela-no-rj.ghtml)_
 
+- **[2026-08-21 13:53 UTC]** Guarda civil do RN suspeito de tentativa de homicídio contra seguranças de casa de shows é preso em João Pessoa
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/pb/paraiba/noticia/2026/08/21/guarda-civil-do-rn-suspeito-de-tentativa-de-homicidio-contra-segurancas-de-casa-de-shows-e-preso-em-joao-pessoa.ghtml)_
+
