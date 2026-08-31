@@ -23,3 +23,6 @@
 - **[2017-04-09 09:24 UTC]** Motorista 'fura' sinal vermelho, colide e foge em Campo Grande
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/2017/04/motorista-fura-sinal-vermelho-colide-e-foge-em-campo-grande.html)_
 
+- **[2026-08-29 10:26 UTC]** Moradores e turistas recebem alerta vermelho durante temporal com granizo na Serra Gaúcha; mais de 100 casas ficam destelhadas
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/aviso-tempestade-celulares-serra-gaucha-canela-gramado.ghtml)_
+
