@@ -14,3 +14,6 @@
 - **[2026-08-30 08:31 UTC]** Sabatinas: Globo anuncia que Renata Lo Prete substitui Tralli e Renata Vasconcellos se houver 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/sabatinas-globo-anuncia-que-renata-lo-prete-substitui-tralli-e-renata-vasconcellos-se-houver-2o-turno.shtml)_
 
+- **[2026-08-31 17:36 UTC]** Rodada do Brasileirão termina nesta segunda-feira com Remo e Coritiba
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-08/rodada-do-brasileirao-termina-nesta-segunda-feira-com-remo-e-coritiba)_
+
