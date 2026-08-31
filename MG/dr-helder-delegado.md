@@ -14,3 +14,6 @@
 - **[2026-08-17 22:21 UTC]** Delegado-geral investigado por fraude em concursos públicos reassume Polícia Civil em AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/17/delegado-geral-investigado-por-fraude-em-concursos-publicos-reassume-policia-civil-em-al.ghtml)_
 
+- **[2026-08-25 14:57 UTC]** Esquema desviava cerca de 100 armas por ano para facção no Amapá, diz delegado
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/25/esquema-desviava-cerca-de-100-armas-por-ano-para-faccao-no-amapa-diz-delegado.ghtml)_
+
