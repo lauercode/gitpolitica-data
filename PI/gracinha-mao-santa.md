@@ -29,3 +29,6 @@
 - **[2026-08-26 13:31 UTC]** Jovem é morto a tiros em área conhecida como ‘invasão’ em Santa Inês
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/jovem-e-morto-a-tiros-em-area-conhecida-como-invasao-em-santa-ines.ghtml)_
 
+- **[2026-08-26 10:26 UTC]** PM atira para o alto durante briga de trânsito em frente à escola em Santa Inês
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/pm-atira-briga-de-transito-em-frente-a-escola-em-santa-ines.ghtml)_
+
