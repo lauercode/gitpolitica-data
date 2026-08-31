@@ -20,3 +20,6 @@
 - **[2026-08-30 15:56 UTC]** Em El Salvador, medo de facções deu lugar a medo do Estado sem limites
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bianca-santana/2026/08/em-el-salvador-medo-de-faccoes-deu-lugar-a-medo-do-estado-sem-limites.shtml)_
 
+- **[2026-08-31 10:17 UTC]** Brasília busca pactos por medo dos escândalos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/brasilia-busca-pactos-por-medo-dos-escandalos.shtml)_
+
