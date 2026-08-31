@@ -53,3 +53,6 @@
 - **[2026-08-30 13:55 UTC]** Petróleo da Venezuela será usado para reabastecer reservas dos EUA, diz Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/petroleo-da-venezuela-sera-usado-para-reabastecer-reservas-dos-eua-diz-trump.shtml)_
 
+- **[2026-08-30 23:00 UTC]** Governo Lula retoma negociação com Trump e teme que tarifaço se torne permanente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-lula-retoma-negociacao-com-trump-e-teme-que-tarifaco-se-torne-permanente.shtml)_
+
