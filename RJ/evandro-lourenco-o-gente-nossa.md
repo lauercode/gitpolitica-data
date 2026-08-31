@@ -20,3 +20,6 @@
 - **[2018-07-15 12:23 UTC]** Eventos e festa de Nossa Senhora do Carmo provocam interdições em vias do Recife
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/eventos-e-festa-de-nossa-senhora-do-carmo-provocam-interdicoes-em-vias-do-recife.ghtml)_
 
+- **[2017-10-23 17:34 UTC]** Nossa covardia militar matou a turista espanhola
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/blog/dodo-azevedo/post/nossa-covardia-militar-matou-turista-espanhola.html)_
+
