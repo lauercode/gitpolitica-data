@@ -174,3 +174,6 @@ Diretor
 - **[2017-08-21 19:16 UTC]** Vereador José Carneiro Rocha é  eleito novo presidente da Câmara Municipal de Feira de Santana
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/vereador-jose-carneiro-rocha-e-eleito-novo-presidente-da-camara-municipal-de-feira-de-santana.ghtml)_
 
+- **[2017-08-02 14:12 UTC]** Câmara de Itarema retoma trabalhos após prisão de vereadores
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/camara-de-itarema-retoma-trabalhos-apos-prisao-de-vereadores.ghtml)_
+
