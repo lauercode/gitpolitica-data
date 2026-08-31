@@ -29,3 +29,6 @@
 - **[2026-08-20 20:29 UTC]** Primeiras doações: JHC recebe R$ 200 mil do sogro e Renan Filho doa R$ 100 mil à própria campanha
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/20/primeiras-doacoes-jhc-recebe-r-200-mil-do-sogro-e-renan-filho-coloca-r-100-mil-na-propria-campanha.ghtml)_
 
+- **[2026-08-17 19:27 UTC]** JHC, Renan Filho, Alfredo Gaspar: entenda as reviravoltas nas chapas em Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/17/jhc-renan-filho-alfredo-gaspar-entenda-as-reviravoltas-nas-chapas-em-alagoas.ghtml)_
+
