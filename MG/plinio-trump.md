@@ -77,3 +77,6 @@
 - **[2026-08-31 14:52 UTC]** Carne bovina americana terá preferência em prisões, hospitais e escolas; veja medidas do pacote de Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/carne-bovina-americana-tera-preferencia-em-prisoes-hospitais-e-escolas-veja-medidas-do-pacote-de-trump.shtml)_
 
+- **[2026-08-31 18:25 UTC]** Suprema Corte libera construção de salão de festas de Trump na Casa Branca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/suprema-corte-libera-construcao-de-salao-de-festas-de-trump-na-casa-branca.shtml)_
+
