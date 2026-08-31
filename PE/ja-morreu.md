@@ -86,3 +86,6 @@
 - **[2026-08-30 10:26 UTC]** Homem que morreu ao cair do 14º andar no Paraná tentava fugir de torturas, diz laudo
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/30/laudo-descarta-que-jovem-torturado-no-pr-foi-jogado-de-predio.ghtml)_
 
+- **[2026-08-29 12:21 UTC]** Adolescentes capotam caminhonete e são atingidos por caminhão na BR-376, no PR; um morreu e outro ficou ferido
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/29/acidente-adolescentes-caminhonete-caminhao-br-376-parana.ghtml)_
+
