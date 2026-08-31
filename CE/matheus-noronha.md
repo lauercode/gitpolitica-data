@@ -86,3 +86,6 @@
 - **[2018-05-01 15:04 UTC]** Morador de Fernando de Noronha, acusado por furto, é transferido para o Recife
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/morador-de-fernando-de-noronha-acusado-por-furto-e-transferido-para-o-recife.html)_
 
+- **[2018-04-30 17:36 UTC]** Fernanda Freitas participa de “ação do bem” em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/fernanda-freitas-participa-de-acao-do-bem-em-fernando-de-noronha.html)_
+
