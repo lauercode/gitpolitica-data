@@ -29,3 +29,6 @@
 - **[2026-08-31 17:59 UTC]** SUS terá novos medicamentos de alta tecnologia contra câncer de pulmão
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-08/sus-tera-novos-medicamentos-de-alta-tecnologia-contra-cancer-de-pulmao)_
 
+- **[2026-08-31 12:35 UTC]** 'ICMBio é o maior câncer neste país', diz Plínio Valério em sabatina; senador defende Zona Franca e cita projetos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/icmbio-e-o-maior-cancer-neste-pais-diz-plinio-valerio-em-sabatina-senador-defende-zona-franca-e-cita-projetos.ghtml)_
+
