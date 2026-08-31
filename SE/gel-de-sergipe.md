@@ -14,3 +14,6 @@
 - **[2026-08-31 19:57 UTC]** Eleições 2026: veja todos os candidatos ao governo de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-de-sergipe.ghtml)_
 
+- **[2026-08-31 18:04 UTC]** Emprego em Sergipe: plataforma digital do NAT oferta mais de 700 vagas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/31/emprego-em-sergipe-plataforma-digital-do-nat-oferta-mais-de-700-vagas.ghtml)_
+
