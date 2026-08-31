@@ -38,3 +38,6 @@
 - **[2026-08-31 15:38 UTC]** Portugal substituirá Elevador da Glória após acidente; empresa lançará concurso para novo projeto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/portugal-substituira-elevador-da-gloria-apos-acidente-empresa-lancara-concurso-para-novo-projeto.shtml)_
 
+- **[2026-08-31 21:21 UTC]** Projeto prevê oferta de coletores menstruais em programa de dignidade menstrual
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301326-projeto-preve-oferta-de-coletores-menstruais-em-programa-de-dignidade-menstrual)_
+
