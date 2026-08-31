@@ -488,3 +488,6 @@
 - **[2026-08-30 21:27 UTC]** Flávio Bolsonaro evita dizer como votará sobre 6x1 e diz que trabalhador deve ter liberdade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-evita-dizer-como-votara-sobre-6x1-e-diz-que-trabalhador-deve-ter-liberdade.shtml)_
 
+- **[2026-08-31 00:17 UTC]** TSE analisa vídeo de Bolsonaro feito por IA e pode definir regras para campanhas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-analisa-video-de-bolsonaro-feito-por-ia-e-pode-definir-regras-para-campanhas/)_
+
