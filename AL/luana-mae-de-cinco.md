@@ -62,3 +62,6 @@
 - **[2018-03-06 11:01 UTC]** Cinco meses após lançamento, emissões de CNH Digital ficam abaixo do esperado pelo Detran-GO
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/cinco-meses-apos-lancamento-emissoes-de-cnh-digital-ficam-abaixo-do-esperado-pelo-detran-go.ghtml)_
 
+- **[2026-08-28 21:20 UTC]** SENAI-MA abre cinco vagas para instrutores no Maranhão com salários de até R$ 5,7 mil
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/concursos-e-emprego/noticia/2026/08/28/senai-ma-abre-cinco-vagas-para-instrutores-no-maranhao-com-salarios-de-ate-r-57-mil.ghtml)_
+
