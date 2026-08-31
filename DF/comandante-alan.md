@@ -14,3 +14,6 @@
 - **[2026-08-31 15:45 UTC]** Alan Rick promete melhorias em mobilidade urbana durante caminhada no Segundo Distrito de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/alan-rick-promete-melhorias-em-mobilidade-urbana-durante-caminhada-no-segundo-distrito-de-rio-branco.ghtml)_
 
+- **[2026-08-28 23:33 UTC]** Primeiro dia de campanha na TV: Alan se coloca como 'acreano do pé rachado' e Mailza destaca mandato
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/28/primeiro-dia-de-campanha-na-tv-acre.ghtml)_
+
