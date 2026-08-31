@@ -50,3 +50,6 @@
 - **[2017-11-06 17:17 UTC]** Ex-namorado mata jovem, tenta se esconder em árvore no quintal da casa da avó e é preso em Cuiabá
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/ex-namorado-mata-jovem-tenta-se-esconder-em-arvore-no-quintal-da-casa-da-avo-e-e-preso-em-cuiaba.ghtml)_
 
+- **[2017-08-04 13:52 UTC]** Homem convida amigo para jantar em casa e mata visitante com golpe de facão, em MS
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/homem-convida-amigo-para-jantar-em-casa-e-mata-visitante-com-golpe-de-facao-em-ms.ghtml)_
+
