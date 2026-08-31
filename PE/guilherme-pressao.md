@@ -23,3 +23,6 @@
 - **[2026-08-30 16:00 UTC]** Eleições aumentam volatilidade e colocam Bolsa e real sob pressão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/eleicoes-aumentam-volatilidade-e-colocam-bolsa-e-real-sob-pressao.shtml)_
 
+- **[2026-08-31 06:00 UTC]** Rendimentos de títulos públicos globais sobem com guerra no Irã e ampliam pressão fiscal no G7
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/rendimentos-de-titulos-publicos-globais-sobem-com-guerra-no-ira-e-ampliam-pressao-fiscal-no-g7.shtml)_
+
