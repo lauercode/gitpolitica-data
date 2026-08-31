@@ -23,3 +23,6 @@
 - **[2018-07-11 12:18 UTC]** Carnaval 2019: União da Ilha vai mostrar o Ceará na visão de poetas; Beija-Flor quer aproximar a cultura e educação
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/rio-de-janeiro/carnaval/2019/noticia/uniao-da-ilha-vai-mostrar-o-ceara-na-visao-de-poetas-e-beija-flor-quer-aproximar-a-cultura-e-educacao-neste-carnaval.ghtml)_
 
+- **[2018-04-06 07:38 UTC]** Festival de cultura japonesa acontece neste final de semana no Memorial da América Latina
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-cultura-japonesa-acontece-neste-final-de-semana-no-memorial-da-america-latina.html)_
+
