@@ -65,3 +65,6 @@
 - **[2026-08-29 03:00 UTC]** Fim de semana será marcado por temporais e volumes elevados de chuva em diversas regiões do RS; confira a previsão do tempo
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/fim-de-semana-temporais-chuva-regioes-rs-confira-previsao-do-tempo.ghtml)_
 
+- **[2026-08-26 04:02 UTC]** Exame toxicológico será obrigatório para tirar CNH no RS a partir de setembro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/exame-toxicologico-sera-obrigatorio-para-tirar-cnh-no-rs-a-partir-de-setembro.ghtml)_
+
