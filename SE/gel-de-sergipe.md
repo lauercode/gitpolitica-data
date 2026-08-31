@@ -41,3 +41,6 @@
 - **[2026-08-27 11:01 UTC]** Emprego em Sergipe: plataforma digital do NAT oferta mais de mil vagas
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/27/emprego-em-sergipe-plataforma-digital-do-nat-oferta-mais-de-mil-vagas.ghtml)_
 
+- **[2026-08-27 10:05 UTC]** Condenado a 17 anos de prisão por tentativa de feminicídio se entrega à polícia em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/27/condenado-a-17-anos-de-prisao-por-tentativa-de-feminicidio-se-entrega-a-policia.ghtml)_
+
