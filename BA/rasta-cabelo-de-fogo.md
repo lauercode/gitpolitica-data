@@ -23,3 +23,6 @@
 - **[2026-08-31 14:06 UTC]** Ônibus bate em carreta e pega fogo na BR-376, no Paraná; 9 pessoas ficaram feridas
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/31/onibus-bate-em-carreta-e-pega-fogo-na-br-376-no-parana-pessoas-ficaram-feridas.ghtml)_
 
+- **[2026-08-27 11:29 UTC]** VÍDEO: Carro fica destruído após pegar fogo na Avenida Felizardo Moura, em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/27/video-carro-destruido-fogo-natal.ghtml)_
+
