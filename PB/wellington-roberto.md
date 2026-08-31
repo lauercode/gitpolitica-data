@@ -35,3 +35,6 @@
 - **[2026-08-28 23:20 UTC]** Eleições 2026: saiba como foi o dia do candidato Roberto Rocha ao governo do Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-roberto-rocha-ao-governo-do-maranhao.ghtml)_
 
+- **[2017-11-08 11:23 UTC]** Roberto Jefferson é internado em hospital do Rio
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/roberto-jefferson-e-internado-em-hospital-do-rio.ghtml)_
+
