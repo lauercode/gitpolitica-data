@@ -17,3 +17,6 @@
 - **[2026-08-26 21:59 UTC]** Eleições 2026: Professora Maria do Carmo grava programa eleitoral em Manaus e aponta lixões como desafio ao meio ambiente
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-professora-maria-do-carmo-grava-programa-eleitoral-em-manaus-e-aponta-lixoes-como-desafio-ao-meio-ambiente.ghtml)_
 
+- **[2018-07-15 12:23 UTC]** Eventos e festa de Nossa Senhora do Carmo provocam interdições em vias do Recife
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/eventos-e-festa-de-nossa-senhora-do-carmo-provocam-interdicoes-em-vias-do-recife.ghtml)_
+
