@@ -23,3 +23,6 @@
 - **[2017-10-23 17:34 UTC]** Nossa covardia militar matou a turista espanhola
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/blog/dodo-azevedo/post/nossa-covardia-militar-matou-turista-espanhola.html)_
 
+- **[2026-08-31 17:24 UTC]** 'O que a gente vai dizer pra nossa filha?': Família teme que corpo de gaúcho morto na Ucrânia nunca seja encontrado
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/gaucho-morto-ucrania-corpo.ghtml)_
+
