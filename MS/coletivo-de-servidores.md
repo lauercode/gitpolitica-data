@@ -50,3 +50,6 @@
 - **[2026-08-28 23:04 UTC]** Arthur Henrique fala em manter salário de servidores em dia para fortalecer comércio em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/28/arthur-henrique-fala-em-manter-salario-de-servidores-em-dia-para-fortalecer-comercio-em-roraima.ghtml)_
 
+- **[2026-08-26 09:00 UTC]** MPF pede condenação de ex-servidores da Funai e garimpeiros por esquema de propina em ouro na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/mpf-pede-condenacao-de-ex-servidores-da-funai-e-garimpeiros-por-esquema-de-propina-em-ouro-na-terra-yanomami.ghtml)_
+
