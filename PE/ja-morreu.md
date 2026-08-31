@@ -47,3 +47,6 @@
 - **[2018-07-17 00:22 UTC]** 'Vai fazer muita falta', diz amigo de radialista que morreu em toboágua no Beach Park
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/sp/sorocaba-jundiai/noticia/vai-fazer-muita-falta-diz-amigo-de-radialista-que-morreu-em-toboagua-no-beach-park.ghtml)_
 
+- **[2018-07-18 17:12 UTC]** 'Médico fez a cabeça dela', diz filho de gerente de banco de MT que morreu após procedimento com Dr. Bumbum
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/mt/mato-grosso/noticia/2018/07/18/medico-fez-a-cabeca-dela-diz-filho-de-gerente-de-banco-de-mt-que-morreu-apos-procedimento-com-dr-bumbum.ghtml)_
+
