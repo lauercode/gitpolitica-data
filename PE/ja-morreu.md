@@ -62,3 +62,6 @@
 - **[2018-07-10 19:32 UTC]** Corpo de PM que morreu afogado após salvar a família no ES é enterrado no RJ
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/corpo-de-pm-que-morreu-afogado-apos-salvar-a-familia-no-es-e-enterrado-no-rj.ghtml)_
 
+- **[2017-04-03 06:53 UTC]** Jovem que morreu após carro bater contra árvore não usava cinto, diz Dict
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/transito/noticia/2017/04/jovem-que-morreu-apos-carro-bater-contra-arvore-nao-usava-cinto-diz-dict.html)_
+
