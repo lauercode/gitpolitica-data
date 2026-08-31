@@ -68,3 +68,6 @@
 - **[2026-08-31 16:28 UTC]** Renan Santos diz que decisão de Toffoli é 'perseguição' e motivada por crítica no caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/renan-santos-chama-decisao-de-toffoli-de-perseguicao.shtml)_
 
+- **[2026-08-31 15:33 UTC]** Justiça bloqueia plano de previdência de Renan Santos por dívida trabalhista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/justica-bloqueia-plano-de-previdencia-de-renan-santos-por-divida-trabalhista.shtml)_
+
