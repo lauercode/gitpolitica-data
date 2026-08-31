@@ -17,3 +17,6 @@
 - **[2026-08-22 12:00 UTC]** Operação fecha garimpos e apreende R$ 19 milhões em madeira e materiais no AP e PA
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/22/operacao-fecha-garimpos-e-apreende-r-19-milhoes-em-madeira-e-materiais-no-ap-e-pa.ghtml)_
 
+- **[2026-08-27 16:17 UTC]** PF destrói 10 dragas de garimpo ilegal no rio Madeira em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/pf-destroi-dragas-de-garimpo-ilegal-no-rio-madeira-em-porto-velho.ghtml)_
+
