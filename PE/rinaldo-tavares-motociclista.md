@@ -23,3 +23,6 @@
 - **[2026-08-28 11:55 UTC]** Servidor da SSP avança sinal vermelho com caminhonete descaracterizada e bate em motociclista que morre em Manaus; VÍDEO
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/caminhonete-avanca-sinal-vermelho-e-bate-em-motociclista-que-morre-em-manaus-video.ghtml)_
 
+- **[2017-10-29 22:21 UTC]** Motociclista e pedestre morrem após atropelamento em frente ao Palácio do Planalto
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/motociclista-e-pedestre-morrem-apos-atropelamento-em-frente-ao-palacio-do-planalto.ghtml)_
+
