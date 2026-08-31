@@ -56,3 +56,6 @@
 - **[2026-08-26 12:37 UTC]** PF destrói acampamento de extração ilegal de madeira em Terra Indígena de RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/26/pf-destroi-acampamento-de-extracao-ilegal-de-madeira-em-terra-indigena-de-ro.ghtml)_
 
+- **[2026-08-29 16:59 UTC]** Dupla é presa por retirar carga de droga de avião que caiu na Terra Yanomami após sair da Venezuela
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/dupla-e-presa-por-retirar-carga-de-droga-de-aviao-que-caiu-na-terra-yanomami-apos-sair-da-venezuela.ghtml)_
+
