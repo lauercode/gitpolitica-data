@@ -38,3 +38,6 @@
 - **[2026-08-21 23:29 UTC]** Dr. Furlan participa de caminhada em Oiapoque e visita espaços públicos em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/21/dr-furlan-participa-de-caminhada-em-oiapoque-e-visita-espacos-publicos-em-macapa.ghtml)_
 
+- **[2026-08-20 23:32 UTC]** Dr. Furlan participa de caminhadas e visita espaços públicos em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/20/dr-furlan-participa-de-caminhadas-e-visita-espacos-publicos-em-macapa.ghtml)_
+
