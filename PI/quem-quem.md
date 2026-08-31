@@ -152,3 +152,6 @@
 - **[2026-08-26 20:39 UTC]** Roubo de R$ 800 mil e ouro em Roraima: veja como foi e quem são policiais e suspeitos envolvidos
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/roubo-de-r-800-mil-e-ouro-em-roraima-veja-como-foi-e-quem-sao-policiais-e-suspeitos-envolvidos.ghtml)_
 
+- **[2026-08-28 17:24 UTC]** Quem é o ‘Rei do Ovo’, que entrou para o top 10 bilionários do Brasil e vendia picolé na praia em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/quem-e-rei-do-ovo-que-entrou-para-top-10-de-bilionarios-brasil.ghtml)_
+
