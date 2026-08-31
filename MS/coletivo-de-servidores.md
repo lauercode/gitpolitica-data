@@ -47,3 +47,6 @@
 - **[2026-08-20 19:35 UTC]** Servidores são afastados após flagrante de 'ato íntimo' em carro oficial da prefeitura de Jaru, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/20/servidores-sao-afastados-da-prefeitura-de-jaru-ro.ghtml)_
 
+- **[2026-08-28 23:04 UTC]** Arthur Henrique fala em manter salário de servidores em dia para fortalecer comércio em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/28/arthur-henrique-fala-em-manter-salario-de-servidores-em-dia-para-fortalecer-comercio-em-roraima.ghtml)_
+
