@@ -11,3 +11,6 @@
 - **[2026-08-28 22:37 UTC]** Renan Filho destaca obras de infraestrutura, saúde e educação durante agenda em Arapiraca
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-destaca-obras-de-infraestrutura-saude-e-educacao-durante-agenda-em-arapiraca.ghtml)_
 
+- **[2026-08-28 20:34 UTC]** Renan Filho aposta em ‘fazer história de novo’ e JHC fala em mudança no primeiro guia eleitoral em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-aposta-em-fazer-historia-de-novo-e-jhc-fala-em-mudanca-no-primeiro-guia-eleitoral-em-al.ghtml)_
+
