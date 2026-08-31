@@ -8,3 +8,6 @@
 - **[2026-08-27 10:44 UTC]** Consórcio Rota Mogiana assina com governo de SP concessão de rodovias com investimentos de R$ 9,4 bi
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/consorcio-rota-mogiana-assina-com-governo-de-sp-concessao-de-rodovias-com-investimentos-de-r-94-bi.shtml)_
 
+- **[2026-08-31 21:43 UTC]** Programação da Rota Cultural Raízes do Brejo 2026, na PB, é divulgada
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/programacao-da-rota-cultural-raizes-do-brejo-2026-na-pb-e-divulgada.ghtml)_
+
