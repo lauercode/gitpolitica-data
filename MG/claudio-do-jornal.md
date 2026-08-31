@@ -80,3 +80,6 @@
 - **[2026-08-30 10:46 UTC]** VÍDEOS: Jornal do Campo-TO deste domingo, 30 de agosto de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-do-campo-to-deste-domingo-30-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-30 01:02 UTC]** VÍDEOS: Jornal Anhanguera ª Edição-TO de sábado, 29 de agosto de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-edicao-to-de-sabado-29-de-agosto-de-2026.ghtml)_
+
