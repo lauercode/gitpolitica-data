@@ -23,3 +23,6 @@
 - **[2026-08-27 10:31 UTC]** Retorno da Avenida Tancredo Neves é interditado em Aracaju
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/27/retorno-da-avenida-tancredo-neves-e-interditado-em-aracaju.ghtml)_
 
+- **[2026-08-24 12:56 UTC]** Retorno da Avenida Tancredo Neves será interditado nesta quinta-feira em Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/retorno-da-avenida-tancredo-neves-sera-interditado-nesta-quinta-feira-em-aracaju.ghtml)_
+
