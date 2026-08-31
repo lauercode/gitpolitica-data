@@ -32,3 +32,6 @@
 - **[2018-05-17 10:39 UTC]** Operação de combate à pornografia infantil prende 251 pessoas no país
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/df/distrito-federal/noticia/operacao-de-combate-a-exploracao-sexual-infantil-cumpre-578-mandados-no-df-e-em-24-estados.ghtml)_
 
+- **[2017-03-21 07:08 UTC]** PF combate em GO, DF e mais três estados fraudes bancárias na web
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/goias/noticia/2017/03/pf-combate-crimes-ciberneticos-em-goias-df-e-mais-tres-estados.html)_
+
