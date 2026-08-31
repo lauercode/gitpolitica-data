@@ -26,3 +26,6 @@
 - **[2026-08-31 04:00 UTC]** Na onda dos vapes, geração Z fuma mais e pode pressionar gastos com saúde nas próximas décadas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/na-onda-dos-vapes-geracao-z-fuma-mais-e-pode-pressionar-gastos-com-saude-nas-proximas-decadas.shtml)_
 
+- **[2018-07-21 21:50 UTC]** Uberlândia e Uberaba têm saldo negativo na geração de empregos em junho
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/triangulo-mineiro/concursos-e-emprego/noticia/2018/07/21/uberlandia-e-uberaba-tem-saldo-negativo-na-geracao-de-empregos-em-junho.ghtml)_
+
