@@ -11,3 +11,6 @@
 - **[2026-08-19 09:31 UTC]** Advogada morre após ser baleada enquanto passeava com cachorro no Benedito Bentes, em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/19/advogada-morre-apos-ser-baleada-enquanto-passeava-com-cachorro-no-benedito-bentes-em-maceio.ghtml)_
 
+- **[2017-09-09 09:01 UTC]** Cachorro 'motociclista' chama a atenção em via do DF; vídeo
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/cachorro-motociclista-chama-a-atencao-em-via-do-df-video.ghtml)_
+
