@@ -11,3 +11,6 @@
 - **[2026-08-27 16:15 UTC]** Superintendente da Polícia Civil da PB diz que há ‘análises pendentes’ em investigação sobre desaparecimento de cabo da PM
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/superintendente-da-policia-civil-da-pb-diz-que-ha-analises-pendentes-em-investigacao-sobre-desaparecimento-de-cabo-da-pm.ghtml)_
 
+- **[2018-07-10 17:04 UTC]** Sebrae promove cursos gratuitos para empreendedores no Cabo de Santo Agostinho
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/sebrae-promove-cursos-gratuitos-para-empreendedores-no-cabo-de-santo-agostinho.ghtml)_
+
