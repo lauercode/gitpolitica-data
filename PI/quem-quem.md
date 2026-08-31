@@ -140,3 +140,6 @@
 - **[2026-08-25 19:24 UTC]** Moto Tartaruga: corrida no RN em que vence quem chega por último viraliza
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/25/moto-tartaruga-corrida-no-rn-em-que-vence-quem-chega-por-ultimo-viraliza.ghtml)_
 
+- **[2026-08-21 12:43 UTC]** Mutirão de Aprendizagem oferece qualificação profissional para jovens em Natal; veja quem pode participar
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/21/mutirao-de-aprendizagem-oferece-qualificacao-profissional-para-jovens-em-natal-veja-quem-pode-participar.ghtml)_
+
