@@ -56,3 +56,6 @@
 - **[2026-08-29 12:58 UTC]** Veja como se inscrever no Casamento na Comunidade em cinco municípios do Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/29/veja-como-se-inscrever-no-casamento-na-comunidade-em-cinco-municipios-do-amapa.ghtml)_
 
+- **[2018-07-14 15:01 UTC]** Acidente com caminhão de empresa terceirizada da Enel mata um funcionário e deixa cinco feridos na GO-237
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/acidente-com-caminhao-de-empresa-terceirizada-da-enel-mata-um-funcionario-e-deixa-cinco-feridos-na-go-237.ghtml)_
+
