@@ -35,3 +35,6 @@
 - **[2026-08-24 10:33 UTC]** Criança de 7 anos com autismo é resgatada após desaparecer em Nossa Senhora do Socorro
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/crianca-de-7-anos-com-autismo-e-resgatada-apos-desaparecer-em-nossa-senhora-do-socorro.ghtml)_
 
+- **[2026-08-20 21:20 UTC]** Concurso público da Câmara Municipal de Nossa Senhora das Dores está com inscrições abertas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/concurso-publico-da-camara-municipal-de-nossa-senhora-das-dores-esta-com-inscricoes-abertas.ghtml)_
+
