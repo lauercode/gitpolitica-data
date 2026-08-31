@@ -11,3 +11,6 @@
 - **[2026-08-30 05:00 UTC]** Tempo em SP continua abafado com sol entre nuvens neste domingo (30)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/tempo-em-sp-continua-abafado-com-sol-entre-nuvens-neste-domingo-30.shtml)_
 
+- **[2018-07-08 10:20 UTC]** Após início de inverno quente, frio chega a MS e semana começa com temperaturas abaixo de 10°C
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/apos-inicio-de-inverno-quente-frio-chega-a-ms-e-semana-comeca-com-temperaturas-abaixo-de-10c.ghtml)_
+
