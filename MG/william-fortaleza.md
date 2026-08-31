@@ -20,3 +20,6 @@
 - **[2018-01-05 19:15 UTC]** Réveillon de Fortaleza 2018
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ce/ceara/ao-vivo/reveillon-de-fortaleza-2018-ao-vivo.ghtml)_
 
+- **[2017-11-09 20:06 UTC]** Homem é retirado à força de casa e é assassinado no meio de rua em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/homem-e-retirado-a-forca-de-casa-e-e-assassinado-no-meio-de-rua-em-fortaleza.ghtml)_
+
