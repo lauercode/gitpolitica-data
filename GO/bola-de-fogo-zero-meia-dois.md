@@ -131,3 +131,6 @@
 - **[2026-08-31 07:01 UTC]** Casal paranaense larga emprego, vende tudo e passa mais de dois anos viajando de bicicleta para cruzar a América, de Ushuaia ao Alasca
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/31/casal-paranaense-larga-emprego-vende-tudo-e-passa-mais-de-dois-anos-viajando-de-bicicleta-para-cruzar-a-america-de-ushuaia-ao-alasca.ghtml)_
 
+- **[2026-08-27 03:01 UTC]** Último contato de família encontrada morta no PR foi dois dias antes de os corpos serem achados, diz polícia
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/27/ultimo-contato-de-familia-encontrada-morta-no-pr.ghtml)_
+
