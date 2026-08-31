@@ -59,3 +59,6 @@
 - **[2026-08-31 13:18 UTC]** Justiça do Trabalho condena Droga Raia a pagar R$ 4 mi por assédio e discriminação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/justica-do-trabalho-condena-droga-raia-a-pagar-r-4-mi-por-assedio-e-discriminacao.shtml)_
 
+- **[2026-08-21 13:31 UTC]** Enfermeira suspeita de esfaquear colega de trabalho em União dos Palmares se apresenta à polícia
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/21/enfermeira-suspeita-de-esfaquear-colega-de-trabalho-em-uniao-dos-palmares-se-apresenta-a-policia.ghtml)_
+
