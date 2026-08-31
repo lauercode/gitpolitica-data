@@ -47,3 +47,6 @@
 - **[2017-04-02 10:50 UTC]** Avião cai e mata duas pessoas na pista do aeroporto de Aragarças, GO
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/aviao-cai-e-mata-duas-pessoas-na-pista-do-aeroporto-de-aragarcas-go.html)_
 
+- **[2017-11-06 17:17 UTC]** Ex-namorado mata jovem, tenta se esconder em árvore no quintal da casa da avó e é preso em Cuiabá
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/ex-namorado-mata-jovem-tenta-se-esconder-em-arvore-no-quintal-da-casa-da-avo-e-e-preso-em-cuiaba.ghtml)_
+
