@@ -17,3 +17,6 @@
 - **[2026-08-31 15:00 UTC]** Parceria de 'Sala Verde' retorna com absoluto fracasso cômico em 'Idiotas'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/parceria-de-sala-verde-retorna-com-absoluto-fracasso-comico-em-idiotas.shtml)_
 
+- **[2017-08-10 15:39 UTC]** Conheça histórias de pai e filho que dividem a mesma sala de aula
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/conheca-historias-de-pai-e-filho-que-dividem-mesma-sala-de-aula-3.html)_
+
