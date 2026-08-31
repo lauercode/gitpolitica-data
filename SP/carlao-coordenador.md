@@ -14,3 +14,6 @@
 - **[2026-08-31 06:00 UTC]** Dizer que há crise fiscal é fake news, diz coordenador do programa de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/dizer-que-ha-crise-fiscal-e-fake-news-diz-coordenador-do-programa-de-lula.shtml)_
 
+- **[2026-08-31 16:50 UTC]** Coordenador da campanha do PT reage à alta de Cury nas pesquisas e pede que parem de falar dele
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/coordenador-da-campanha-do-pt-reage-a-alta-de-cury-nas-pesquisas-e-pede-que-parem-de-falar-dele/)_
+
