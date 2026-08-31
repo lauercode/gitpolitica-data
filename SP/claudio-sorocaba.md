@@ -23,3 +23,6 @@
 - **[2018-07-12 21:54 UTC]** Jovem que sumiu de casa de recuperação para dependentes químicos é encontrado em Sorocaba
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/itapetininga-regiao/noticia/jovem-que-sumiu-de-casa-de-recuperacao-para-dependentes-quimicos-e-encontrado-em-sorocaba.ghtml)_
 
+- **[2018-05-02 19:51 UTC]** Toyota abre mais de 800 vagas com criação do terceiro turno em Sorocaba e Porto Feliz
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/toyota-abre-mais-de-800-vagas-com-criacao-do-terceiro-turno-em-sorocaba-e-porto-feliz.ghtml)_
+
