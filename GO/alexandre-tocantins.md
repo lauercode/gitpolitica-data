@@ -29,3 +29,6 @@
 - **[2026-08-30 09:00 UTC]** Com rebanho de 11,6 milhões, Tocantins tem quase oito cabeças de gado por pessoa
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-rebanho-de-116-milhoes-tocantins-tem-quase-oito-cabecas-de-gado-por-pessoa.ghtml)_
 
+- **[2026-08-29 23:02 UTC]** Vistoria encontra medicamentos vencidos e falta de insumos em estoque da saúde pública no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/vistoria-encontra-medicamentos-vencidos-e-falta-de-insumos-em-estoque-da-saude-publica-no-tocantins.ghtml)_
+
