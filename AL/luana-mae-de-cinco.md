@@ -59,3 +59,6 @@
 - **[2018-07-14 15:01 UTC]** Acidente com caminhão de empresa terceirizada da Enel mata um funcionário e deixa cinco feridos na GO-237
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/acidente-com-caminhao-de-empresa-terceirizada-da-enel-mata-um-funcionario-e-deixa-cinco-feridos-na-go-237.ghtml)_
 
+- **[2018-03-06 11:01 UTC]** Cinco meses após lançamento, emissões de CNH Digital ficam abaixo do esperado pelo Detran-GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/cinco-meses-apos-lancamento-emissoes-de-cnh-digital-ficam-abaixo-do-esperado-pelo-detran-go.ghtml)_
+
