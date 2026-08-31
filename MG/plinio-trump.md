@@ -59,3 +59,6 @@
 - **[2026-08-31 11:05 UTC]** Após conversa entre Lula e Trump, Brasil e EUA iniciam nesta segunda nova fase de negociações sobre o tarifaço
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/apos-conversa-de-lula-e-trump-representantes-de-brasil-e-eua-iniciam-nova-fase-de-negociacoes-do-tarifaco.ghtml)_
 
+- **[2026-08-31 10:06 UTC]** Trump recebe banqueiro André Esteves nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/trump-recebe-banqueiro-andre-esteves-nos-eua.shtml)_
+
