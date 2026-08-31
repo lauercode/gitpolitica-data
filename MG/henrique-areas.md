@@ -32,3 +32,6 @@
 - **[2026-08-30 09:00 UTC]** Einstein está com inscrições abertas para residência médica e de outras áreas da saúde
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/einstein-esta-com-inscricoes-abertas-para-residencia-medica-e-de-outras-areas-da-saude.shtml)_
 
+- **[2026-08-26 13:08 UTC]** PGE identifica risco de colapso e pede interdição de áreas do Estádio Rei Pelé, em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/26/pge-identifica-risco-de-colapso-e-pede-interdicao-de-areas-do-estadio-rei-pele-em-maceio.ghtml)_
+
