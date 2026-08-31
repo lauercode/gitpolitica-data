@@ -77,3 +77,6 @@
 - **[2026-08-31 17:58 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de segunda-feira, 31 de agosto de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-segunda-feira-31-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-30 10:46 UTC]** VÍDEOS: Jornal do Campo-TO deste domingo, 30 de agosto de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-do-campo-to-deste-domingo-30-de-agosto-de-2026.ghtml)_
+
