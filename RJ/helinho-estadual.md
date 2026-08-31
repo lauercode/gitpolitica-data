@@ -26,3 +26,6 @@
 - **[2026-08-31 03:01 UTC]** Eleições 2026: O que faz um deputado estadual?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-o-que-faz-um-deputado-estadual.ghtml)_
 
+- **[2026-08-28 17:30 UTC]** Horário eleitoral começa no MA com destaque para apoio de Lula, gestão estadual e Prefeitura de São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/28/horario-eleitoral-gratuito-na-tv-comeca-no-maranhao.ghtml)_
+
