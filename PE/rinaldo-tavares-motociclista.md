@@ -71,3 +71,6 @@
 - **[2026-08-30 18:02 UTC]** Motociclista morre após acidente entre carro e moto no TO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/motociclista-morre-apos-acidente-entre-carro-e-moto-no-to.ghtml)_
 
+- **[2026-08-29 15:17 UTC]** Motociclista de 48 anos morre após acidente com carreta no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/motociclista-de-48-anos-morre-apos-acidente-com-carreta-no-to.ghtml)_
+
