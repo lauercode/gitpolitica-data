@@ -29,3 +29,6 @@
 - **[2026-08-21 12:11 UTC]** Corpo encontrado em Natal é de professor de futebol que estava desaparecido
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/21/corpo-encontrado-natal-professor-futebol-desaparecido.ghtml)_
 
+- **[2026-08-21 19:09 UTC]** Campo de futebol comprado com dinheiro do tráfico é 'sequestrado' durante operação em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/campo-de-futebol-e-sequestrado-durante-operacao-em-porto-velho.ghtml)_
+
