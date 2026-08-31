@@ -26,3 +26,6 @@
 - **[2017-08-10 15:41 UTC]** Aluno e professora da Unifor criam gel para cicatrização em ferimentos
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/aluno-e-professora-da-unifor-criam-gel-para-cicatrizacao-em-ferimentos-2.html)_
 
+- **[2017-07-24 10:04 UTC]** Professora da Unifor realiza pesquisa inovadora na área de farmacologia
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/07/professora-da-unifor-realiza-pesquisa-inovadora-na-area-de-farmacologia.html)_
+
