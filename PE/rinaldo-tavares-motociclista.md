@@ -38,3 +38,6 @@
 - **[2017-07-10 19:11 UTC]** Motociclista, confira abaixo algumas dicas de segurança no trânsito
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/motociclista-confira-abaixo-algumas-dicas-de-seguranca-no-transito.html)_
 
+- **[2017-07-10 18:59 UTC]** Conheça o perfil do motociclista goiano
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/conheca-o-perfil-do-motociclista-goiano.html)_
+
