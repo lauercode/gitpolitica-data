@@ -11,3 +11,6 @@
 - **[2026-08-27 22:21 UTC]** Quaest em Roraima: Arthur Henrique, 60%; Soldado Sampaio; 27%
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/27/quaest-roraima-governador-27-agosto.ghtml)_
 
+- **[2026-08-31 20:40 UTC]** Justiça proíbe Arthur Henrique de fazer propaganda eleitoral dentro de comércios em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/31/justica-proibe-arthur-henrique-de-fazer-propaganda-eleitoral-dentro-de-comercios-em-roraima.ghtml)_
+
