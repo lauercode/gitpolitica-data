@@ -17,3 +17,6 @@
 - **[2026-08-29 22:26 UTC]** O dia em que Portugal “assinou o divórcio” com o Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/brasil/portugal-reconheceu-independencia-brasil-tres-anos-depois/)_
 
+- **[2026-08-31 15:38 UTC]** Portugal substituirá Elevador da Glória após acidente; empresa lançará concurso para novo projeto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/portugal-substituira-elevador-da-gloria-apos-acidente-empresa-lancara-concurso-para-novo-projeto.shtml)_
+
