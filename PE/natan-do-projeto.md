@@ -95,3 +95,6 @@
 - **[2018-04-26 18:30 UTC]** Surdos unilaterais podem ser considerados Pessoas Com Deficiência, segundo um projeto de lei
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/mao-na-roda/post/surdos-unilaterais-podem-ser-considerados-pessoas-com-deficiencia-segundo-um-projeto-de-l.html)_
 
+- **[2018-04-23 19:33 UTC]** Projeto de Lei propõe cotas de chefia para pessoas com deficiência
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/mao-na-roda/post/projeto-de-lei-propoe-cotas-de-chefia-para-pessoas-com-deficiencia.html)_
+
