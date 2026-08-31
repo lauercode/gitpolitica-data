@@ -71,3 +71,6 @@
 - **[2026-08-25 10:00 UTC]** Eleições 2026: veja propostas de  Valmir de Francisquinho para o governo Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-valmir-de-francisquinho-para-o-governo-sergipe.ghtml)_
 
+- **[2026-08-25 10:00 UTC]** Eleições 2026: veja propostas de Taty Cristina de Jesus para o governo de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-taty-cristina-de-jesus-para-o-governo-de-sergipe.ghtml)_
+
