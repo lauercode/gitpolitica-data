@@ -23,3 +23,6 @@
 - **[2018-07-14 14:35 UTC]** Menina que sobreviveu a acidente da BR-060 é transferida para CTI da Santa Casa de Campo Grande
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/menina-que-sobreviveu-a-acidente-da-br-060-e-transferida-para-cti-da-santa-casa-de-campo-grande.ghtml)_
 
+- **[2026-08-26 17:05 UTC]** Homem é condenado a 16 anos de prisão por feminicídio em Santa Quitéria
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/homem-e-condenado-a-16-anos-de-prisao-por-feminicidio-em-santa-quiteria.ghtml)_
+
