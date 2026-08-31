@@ -104,3 +104,6 @@
 - **[2018-05-03 08:19 UTC]** Projeto Tamar celebra em Fernando de Noronha 35 Milhões de tartarugas marinhas protegidas no Brasil
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/projeto-tamar-celebra-em-fernando-de-noronha-35-milhoes-de-tartarugas-marinhas-protegidas-no-brasil.html)_
 
+- **[2026-08-25 18:34 UTC]** Projeto do Dia  C promoveu inclusão digital para idosos em Castanheiras, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/08/25/projeto-do-dia-c-promoveu-inclusao-digital-para-idosos-em-castanheiras-ro.ghtml)_
+
