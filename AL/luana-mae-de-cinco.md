@@ -77,3 +77,6 @@
 - **[2026-08-29 14:17 UTC]** Cinco homens são presos após troca de tiros com PMs em Marabá
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/cinco-homens-sao-presos-apos-troca-de-tiros-com-pms-em-maraba.ghtml)_
 
+- **[2026-08-27 20:45 UTC]** Acidentes graves deixam dois mortos e cinco feridos no sudeste do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/acidentes-graves-deixam-dois-mortos-e-cinco-feridos-no-sudeste-do-para.ghtml)_
+
