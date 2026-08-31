@@ -92,3 +92,6 @@
 - **[2026-08-31 15:16 UTC]** Bebê de 1 ano morre após ser encontrado dentro de balde com água no interior do RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/31/bebe-morte-encontrado-balde-agua-rn.ghtml)_
 
+- **[2026-08-29 00:32 UTC]** VÍDEO: Caixa d'água despenca de prédio abandonado e fica suspensa em fios no Centro de Porto Alegre após ventania
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/video-caixa-dagua-despenca-predio-abandonado-fios-centro-porto-alegre-ventania.ghtml)_
+
