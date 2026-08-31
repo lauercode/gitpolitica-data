@@ -113,3 +113,6 @@
 - **[2026-08-19 22:00 UTC]** Érico Menezes é escolhido como vice de Ricardo Marques na disputa do PL pelo governo de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/19/erico-menezes-e-escolhido-como-vice-de-ricardo-marques-na-disputa-do-pl-pelo-governo-de-sergipe.ghtml)_
 
+- **[2026-08-19 16:53 UTC]** Resultado da Mega-Sena 3046: apostas de Sergipe acertam números; veja valores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/19/resultado-da-mega-sena-apostas-de-sergipe-acertam-numeros-veja-valores.ghtml)_
+
