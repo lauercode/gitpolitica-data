@@ -20,3 +20,6 @@
 - **[2026-08-29 18:15 UTC]** Breve história das reviravoltas no mês final da eleição para presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/breve-historia-das-reviravoltas-no-mes-final-da-eleicao-para-presidente.shtml)_
 
+- **[2026-08-31 14:32 UTC]** Homens são agredidos por PMs em feira no interior do Acre; VÍDEO mostra momento
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/homens-sao-agredidos-por-pms-em-feira-no-interior-do-acre-video-mostra-momento.ghtml)_
+
