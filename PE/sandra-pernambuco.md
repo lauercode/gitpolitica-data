@@ -20,3 +20,6 @@
 - **[2018-07-18 14:44 UTC]** Artistas denunciam demora no pagamento dos cachês do carnaval 2018 em Pernambuco
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/noticia/2018/07/18/artistas-denunciam-demora-no-pagamento-dos-caches-do-carnaval-2018-em-pernambuco.ghtml)_
 
+- **[2018-07-17 12:45 UTC]** Homem morre em acidente com caminhão na BR-232, na Zona da Mata de Pernambuco
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/noticia/homem-morre-em-acidente-com-caminhao-na-br-232-na-zona-da-mata-de-pernambuco.ghtml)_
+
