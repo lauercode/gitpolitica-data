@@ -23,3 +23,6 @@
 - **[2026-08-24 22:26 UTC]** Quaest em AL: Renan Filho tem 42%; e JHC, 40%
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/24/quaest-al-governador-24-agosto.ghtml)_
 
+- **[2026-08-24 19:33 UTC]** Eleições 2026: veja as propostas de Renan Filho ao governo de Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-veja-as-propostas-de-renan-filho-ao-governo-de-alagoas.ghtml)_
+
