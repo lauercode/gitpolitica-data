@@ -80,3 +80,6 @@
 - **[2017-06-26 21:32 UTC]** Líder do governo é um dos autores do projeto que derrubou lei anti-homofobia no DF
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/lider-do-governo-lidera-projeto-que-derrubou-lei-anti-homofobia-no-df.ghtml)_
 
+- **[2017-07-06 11:40 UTC]** Projeto Saber Viver realiza Encontro de Pais em Barra do Riacho
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/fibria/a-floresta-sob-um-novo-prisma/noticia/2017/07/projeto-saber-viver-realiza-encontro-de-pais-em-barra-do-riacho.html)_
+
