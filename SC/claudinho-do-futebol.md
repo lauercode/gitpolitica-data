@@ -26,3 +26,6 @@
 - **[2026-08-31 18:00 UTC]** Quem é a influenciadora gaúcha que namora David Corrêa, jogador de futebol alvo de investigações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/quem-e-a-influenciadora-gaucha-que-namora-david-correa-jogador-de-futebol-alvo-de-investigacoes.shtml)_
 
+- **[2026-08-21 12:11 UTC]** Corpo encontrado em Natal é de professor de futebol que estava desaparecido
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/21/corpo-encontrado-natal-professor-futebol-desaparecido.ghtml)_
+
