@@ -605,3 +605,6 @@
 - **[2026-08-30 23:00 UTC]** Flávio Bolsonaro critica, mas também defendeu benefícios na reforma tributária
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/flavio-bolsonaro-critica-mas-tambem-defendeu-beneficios-na-reforma-tributaria.shtml)_
 
+- **[2026-08-31 04:54 UTC]** Flávio Dino assume inquérito e fragmenta investigação sobre Lulinha no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-assume-inquerito-e-fragmenta-investigacao-sobre-lulinha-no-stf/)_
+
