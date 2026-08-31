@@ -11,3 +11,6 @@
 - **[2026-08-31 14:14 UTC]** Bruno Dantas decide deixar cargo de ministro do TCU e abre espaço para indicação de Rodrigo Pacheco
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/31/bruno-dantas-decide-deixar-tcu-e-abre-espaco-para-indicacao-de-rodrigo-pacheco.ghtml)_
 
+- **[2026-08-31 12:25 UTC]** Bruno Dantas oficializa saída antecipada do TCU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/bruno-dantas-oficializa-saida-antecipada-do-tcu.shtml)_
+
