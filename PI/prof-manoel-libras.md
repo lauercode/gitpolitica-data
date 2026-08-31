@@ -14,3 +14,6 @@
 - **[2026-08-31 12:03 UTC]** Urna eletrônica terá barra de progresso e intérprete de Libras em 2026
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/urna-eletronica-tera-barra-de-progresso-e-interprete-de-libras-em-2026/)_
 
+- **[2026-08-25 18:47 UTC]** Curso gratuito de Libras promove inclusão e acessibilidade em Pimenta Bueno
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/08/25/curso-gratuito-de-libras-promove-inclusao-e-acessibilidade-em-pimenta-bueno.ghtml)_
+
