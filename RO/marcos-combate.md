@@ -35,3 +35,6 @@
 - **[2017-03-21 07:08 UTC]** PF combate em GO, DF e mais três estados fraudes bancárias na web
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/goias/noticia/2017/03/pf-combate-crimes-ciberneticos-em-goias-df-e-mais-tres-estados.html)_
 
+- **[2017-03-17 06:41 UTC]** Polícia Federal deflagra operação de combate a venda ilegal de carnes
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/pr/parana/noticia/2017/03/policia-federal-deflagra-operacao-de-combate-venda-ilegal-de-carnes.html)_
+
