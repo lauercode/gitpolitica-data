@@ -41,3 +41,6 @@
 - **[2026-08-26 20:51 UTC]** Eleições 2026: mulheres representam 52,8% do eleitorado e número de votantes idosos cresce
   _fonte: [Agência Câmara - Eleições](https://www.camara.leg.br/noticias/1300505-eleicoes-2026-mulheres-representam-528-do-eleitorado-e-numero-de-votantes-idosos-cresce)_
 
+- **[2026-08-31 13:00 UTC]** Três em cada 10 mulheres do Acre reconhecem ter vivido violência doméstica, aponta pesquisa
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/tres-em-cada-10-mulheres-do-acre-reconhecem-ter-vivido-violencia-domestica-aponta-pesquisa.ghtml)_
+
