@@ -38,3 +38,6 @@
 - **[2018-07-19 12:45 UTC]** Quadrilha armada rouba toneladas de carne em frigorífico e ateia fogo no sistema de segurança
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/19/quadrilha-armada-assalta-frigorifico-e-ateia-fogo-em-sistema-de-seguranca-no-interior-de-sp.ghtml)_
 
+- **[2018-07-14 20:28 UTC]** Caminhão pega fogo e causa lentidão na rodovia Castello Branco, em SP; veja vídeo
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sao-paulo/noticia/caminhao-pega-fogo-e-causa-lentidao-na-castello-branco-veja-video.ghtml)_
+
