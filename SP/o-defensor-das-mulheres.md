@@ -44,3 +44,6 @@
 - **[2026-08-31 13:00 UTC]** Três em cada 10 mulheres do Acre reconhecem ter vivido violência doméstica, aponta pesquisa
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/tres-em-cada-10-mulheres-do-acre-reconhecem-ter-vivido-violencia-domestica-aponta-pesquisa.ghtml)_
 
+- **[2017-08-24 16:53 UTC]** Construtora oferece curso de reparos domésticos para mulheres, em Goiânia
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/construtora-oferece-curso-de-reparos-domesticos-para-mulheres-em-goiania.ghtml)_
+
