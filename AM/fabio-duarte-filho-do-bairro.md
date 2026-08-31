@@ -26,3 +26,6 @@
 - **[2018-07-12 00:02 UTC]** Trechos de ruas do bairro de São Cristóvão terão tráfego em mão única a partir de sábado; confira mudanças
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/transito/noticia/trechos-de-ruas-do-bairro-de-sao-cristovao-passam-a-ter-trafego-em-mao-unica-a-partir-de-sabado-confira-mudancas.ghtml)_
 
+- **[2018-07-10 09:54 UTC]** Acidente entre ônibus e carros deixa trânsito lento no bairro da Federação, em Salvador
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/transito/noticia/acidente-entre-onibus-e-carro-deixa-transito-lento-na-federacao.ghtml)_
+
