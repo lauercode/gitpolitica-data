@@ -104,3 +104,6 @@
 - **[2026-08-27 19:57 UTC]** Incêndio atinge Centro Comercial de Passagem, em João Pessoa; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/incendio-centro-comercial-joao-pessoa.ghtml)_
 
+- **[2026-08-29 00:32 UTC]** VÍDEO: Caixa d'água despenca de prédio abandonado e fica suspensa em fios no Centro de Porto Alegre após ventania
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/video-caixa-dagua-despenca-predio-abandonado-fios-centro-porto-alegre-ventania.ghtml)_
+
