@@ -17,3 +17,6 @@
 - **[2026-08-31 03:00 UTC]** Jovem sob tortura de colegas no Paraná tentou acessar apartamento vizinho pela sacada antes de cair do 14º andar e morrer, detalha delegado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/31/jovem-tortura-parana-tentou-acessar-apartamento-vizinho.ghtml)_
 
+- **[2026-08-27 13:52 UTC]** Vizinho atrai criança dizendo que vai 'benzê-la', a estupra e é flagrado pela própria filha, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/27/vizinho-atrai-crianca-dizendo-que-vai-benze-la-a-estupra-e-e-flagrado-pela-propria-filha-no-parana.ghtml)_
+
