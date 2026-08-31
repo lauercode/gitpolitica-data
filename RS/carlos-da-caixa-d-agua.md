@@ -83,3 +83,6 @@
 - **[2018-07-07 16:58 UTC]** Com investimentos de R$ 675 milhões fábrica de MDF, em Água Clara, chega para 'brigar' com gigantes do setor
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/com-investimentos-de-r-675-milhoes-fabrica-de-mdf-em-agua-clara-chega-para-brigar-com-gigantes-do-setor.ghtml)_
 
+- **[2026-08-27 18:13 UTC]** Água quente pode dar caspa? Descubra e aprenda a tratar o problema
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/08/27/agua-quente-pode-dar-caspa-descubra-e-aprenda-a-tratar-o-problema.ghtml)_
+
