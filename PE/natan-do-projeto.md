@@ -110,3 +110,6 @@
 - **[2018-04-23 09:00 UTC]** Projeto social em uma das maiores favelas de SP vira escola de moda certificada pela USP
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/olha-que-legal/noticia/projeto-social-em-uma-das-maiores-favelas-de-sp-vira-escola-de-moda-certificada-pela-usp.ghtml)_
 
+- **[2026-08-25 22:47 UTC]** Câmara de Aracaju aprova projeto que regulamenta estações de recarga para veículos elétricos
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/25/camara-de-aracaju-aprova-projeto-que-regulamenta-estacoes-de-recarga-para-veiculos-eletricos.ghtml)_
+
