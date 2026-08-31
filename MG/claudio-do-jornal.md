@@ -59,3 +59,6 @@
 - **[2026-08-24 20:47 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 24 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-24-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-28 19:42 UTC]** VÍDEOS: Jornal do Amazonas 1ª edição desta terça-feira, 28 de agosto de 2026
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-1-edicao-desta-terca-feira-28-de-agosto-de-2026.ghtml)_
+
