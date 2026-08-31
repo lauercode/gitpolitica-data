@@ -23,3 +23,6 @@
 - **[2018-07-17 18:20 UTC]** Chico Pinheiro abre o 21º Curso de Residência em Jornalismo da Rede Gazeta
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/educacao/noticia/chico-pinheiro-abre-o-21o-curso-de-residencia-em-jornalismo-da-rede-gazeta.ghtml)_
 
+- **[2017-08-24 16:53 UTC]** Construtora oferece curso de reparos domésticos para mulheres, em Goiânia
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/construtora-oferece-curso-de-reparos-domesticos-para-mulheres-em-goiania.ghtml)_
+
