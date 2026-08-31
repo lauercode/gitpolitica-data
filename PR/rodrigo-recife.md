@@ -29,3 +29,6 @@
 - **[2018-07-15 12:23 UTC]** Eventos e festa de Nossa Senhora do Carmo provocam interdições em vias do Recife
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/eventos-e-festa-de-nossa-senhora-do-carmo-provocam-interdicoes-em-vias-do-recife.ghtml)_
 
+- **[2018-07-14 20:53 UTC]** Orquestra Sinfônica do Recife celebra 88 anos de fundação com apresentação gratuita
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/musica/noticia/orquestra-sinfonica-do-recife-celebra-88-anos-de-fundacao-com-apresentacao-gratuita.ghtml)_
+
