@@ -23,3 +23,6 @@
 - **[2026-08-31 15:57 UTC]** Orçamento de 2027 terá aporte de R$ 6 bilhões aos Correios
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/orcamento-de-2027-tera-aporte-de-r-6-bilhoes-aos-correios)_
 
+- **[2018-07-11 19:50 UTC]** Suspeita de comandar roubos aos Correios no ES é presa em Domingos Martins
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/suspeita-de-comandar-roubos-aos-correios-no-es-e-presa-em-domingos-martins.ghtml)_
+
