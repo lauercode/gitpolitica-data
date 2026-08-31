@@ -29,3 +29,6 @@
 - **[2026-08-28 15:08 UTC]** Homem é espancado e preso após estuprar e esfaquear adolescente na zona rural de Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/28/homem-e-espancado-e-preso-apos-estuprar-e-esfaquear-adolescente-na-zona-rural-de-boa-vista.ghtml)_
 
+- **[2026-08-25 21:32 UTC]** Ônibus escolar com 10 crianças cai em ribanceira de 10 metros em área rural de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/25/onibus-escolar-criancas-cai-ribanceira-area-rural-sc.ghtml)_
+
