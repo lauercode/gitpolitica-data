@@ -305,3 +305,6 @@
 - **[2026-08-31 21:07 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-amazonas.ghtml)_
 
+- **[2026-08-27 20:45 UTC]** Garimpo ilegal no Pará: operação federal flagra extração de ouro sob linhas de transmissão
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/garimpo-ilegal-no-para-operacao-federal-flagra-extracao-de-ouro-sob-linhas-de-transmissao.ghtml)_
+
