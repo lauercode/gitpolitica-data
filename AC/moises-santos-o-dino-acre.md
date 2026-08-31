@@ -113,3 +113,6 @@
 - **[2026-08-28 15:31 UTC]** Festival da Farinha: Mandioca de mais de 30 kg e raiz com quase 4 metros vencem concurso no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/festival-da-farinha-mandioca-de-mais-de-30-kg-e-raiz-com-quase-4-metros-vencem-concurso-no-interior-do-ac.ghtml)_
 
+- **[2026-08-28 13:30 UTC]** Morre Cássio de Holanda Tavares, defensor público do Acre, aos 49 anos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/morre-cassio-de-holanda-tavares-defensor-publico-do-acre-aos-49-anos.ghtml)_
+
