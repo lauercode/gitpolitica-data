@@ -11,3 +11,6 @@
 - **[2026-08-30 17:02 UTC]** Amazon Poranga Fashion celebra moda amazônida em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/08/30/amazon-poranga-fashion-celebra-moda-amazonida-em-manaus.ghtml)_
 
+- **[2017-10-19 19:45 UTC]** MUNDO UNIFOR: André Carvalhal defende moda sustentável e com propósitos sociais
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/mundo-unifor-andre-carvalhal-defende-moda-sustentavel-e-com-propositos-sociais.ghtml)_
+
