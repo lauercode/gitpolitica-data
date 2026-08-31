@@ -44,3 +44,6 @@
 - **[2026-08-31 13:59 UTC]** Plataforma na Alameda Cosme Ferreira em Manaus é interditada para obras a partir de terça-feira; veja mudanças
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/08/31/plataforma-na-alameda-cosme-ferreira-em-manaus-e-interditada-para-obras-a-partir-de-terca-feira-veja-mudancas.ghtml)_
 
+- **[2026-08-29 02:05 UTC]** Eleições 2026: Roberto Cidade visita obras em maternidade e apresenta propostas para educação
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-roberto-cidade-visita-obras-em-maternidade-e-apresenta-propostas-para-educacao.ghtml)_
+
