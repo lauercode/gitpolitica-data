@@ -23,3 +23,6 @@
 - **[2026-08-29 07:01 UTC]** Energia de telhado: geração distribuída avança e desafia o equilíbrio do sistema elétrico
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/29/energia-de-telhado-geracao-distribuida-avanca-e-desafia-o-equilibrio-do-sistema-eletrico.ghtml)_
 
+- **[2026-08-31 04:00 UTC]** Na onda dos vapes, geração Z fuma mais e pode pressionar gastos com saúde nas próximas décadas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/na-onda-dos-vapes-geracao-z-fuma-mais-e-pode-pressionar-gastos-com-saude-nas-proximas-decadas.shtml)_
+
