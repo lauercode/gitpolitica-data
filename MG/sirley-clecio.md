@@ -35,3 +35,6 @@
 - **[2026-08-24 22:07 UTC]** Clécio Luís visita empreendimento e participa de caminhada em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/24/clecio-luis-visita-empreendimento-e-participa-de-caminhada-em-macapa.ghtml)_
 
+- **[2026-08-23 19:20 UTC]** Clécio Luís participa de caminhadas na Zona Norte de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/23/clecio-luis-participa-de-caminhadas-na-zona-norte-de-macapa.ghtml)_
+
