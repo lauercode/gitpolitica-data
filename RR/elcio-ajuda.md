@@ -32,3 +32,6 @@
 - **[2026-08-28 20:54 UTC]** Após ex descumprir medida protetiva, mulher pediu ajuda a PMs, que o liberaram e disseram que 'nada poderia ser feito'; vítima foi baleada dias depois
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/medida-protetiva-ajuda-dias-antes-de-feminicidio.ghtml)_
 
+- **[2018-05-14 06:53 UTC]** Mutirão para construção de casas pode ser realizado em Fernando de Noronha com ajuda da Adra
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/mutirao-para-construcao-de-casas-pode-ser-realizado-em-fernando-de-noronha-com-ajuda-da-adra.html)_
+
