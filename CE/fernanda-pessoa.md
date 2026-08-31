@@ -120,3 +120,6 @@ direcionado às necessidades de cada pessoa
 - **[2018-07-17 14:15 UTC]** Caminhões batem de frente em MS e uma pessoa fica presa às ferragens
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/caminhoes-batem-de-frente-em-ms-e-pelo-menos-uma-pessoa-fica-presa-as-ferragens.ghtml)_
 
+- **[2018-04-19 16:59 UTC]** Pessoa com deficiência poderá usar FGTS para aquisição de próteses e órteses
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/mao-na-roda/post/pessoa-com-deficiencia-podera-usar-fgts-para-aquisicao-de-proteses-e-orteses.html)_
+
