@@ -92,3 +92,6 @@
 - **[2017-08-12 21:54 UTC]** Troca de tiros entre bandidos e polícia deixa dois suspeitos feridos, no CE; sete armas são apreendidas
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/troca-de-tiros-entre-bandidos-e-policia-deixa-dois-suspeitos-feridos-no-ce-sete-armas-sao-apreendidas.ghtml)_
 
+- **[2018-07-09 14:16 UTC]** Motorista bebeu antes de acidente que o matou junto com a mulher e dois filhos na BR-080, dizem testemunhas
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/motorista-bebeu-antes-de-acidente-que-o-matou-junto-com-a-mulher-e-dois-filhos-na-br-080-dizem-testemunhas.ghtml)_
+
