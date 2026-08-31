@@ -35,3 +35,6 @@
 - **[2026-08-26 13:08 UTC]** PGE identifica risco de colapso e pede interdição de áreas do Estádio Rei Pelé, em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/26/pge-identifica-risco-de-colapso-e-pede-interdicao-de-areas-do-estadio-rei-pele-em-maceio.ghtml)_
 
+- **[2026-08-25 06:00 UTC]** VÍDEO: gado foge de incêndio que atinge fazendas; fogo avança por áreas rurais de três estados
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/25/video-gado-foge-de-incendio-que-atinge-fazendas-fogo-avanca-por-areas-rurais-de-tres-estados.ghtml)_
+
