@@ -104,3 +104,6 @@
 - **[2026-08-27 18:53 UTC]** Saiba quem são as cinco vítimas do acidente na BR-364 em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/saiba-quem-sao-as-cinco-vitimas-do-acidente-na-br-364-em-ro.ghtml)_
 
+- **[2026-08-27 13:31 UTC]** Acidente entre carreta e caminhonete deixa cinco pessoas mortas na BR-364 em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/acidente-deixa-cinco-pessoas-em-acidente-na-br-364-em-ro.ghtml)_
+
