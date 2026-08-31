@@ -26,3 +26,6 @@
 - **[2017-07-26 22:42 UTC]** Prefeito de Goiânia interdita Parque Mutirama após acidente com brinquedo que deixou crianças feridas
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/prefeito-de-goiania-interdita-parque-mutirama-apos-acidente-com-brinquedo-que-deixou-criancas-feridas.ghtml)_
 
+- **[2026-08-30 13:54 UTC]** Vc viu? Família é assaltada dentro de casa em São Luís, Justiça afasta ex-prefeito de Imperatriz e timelapse registra eclipse lunar nos Lençóis Maranhenses
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/post/2026/08/30/vc-viu-familia-e-assaltada-dentro-de-casa-em-sao-luis-justica-afasta-ex-prefeito-de-imperatriz-e-timelapse-registra-eclipse-lunar-nos-lencois-maranhenses.ghtml)_
+
