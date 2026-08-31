@@ -32,3 +32,6 @@
 - **[2026-08-29 02:05 UTC]** Eleições 2026: Roberto Cidade visita obras em maternidade e apresenta propostas para educação
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-roberto-cidade-visita-obras-em-maternidade-e-apresenta-propostas-para-educacao.ghtml)_
 
+- **[2026-08-28 23:20 UTC]** Eleições 2026: saiba como foi o dia do candidato Roberto Rocha ao governo do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-roberto-rocha-ao-governo-do-maranhao.ghtml)_
+
