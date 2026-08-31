@@ -68,3 +68,6 @@
 - **[2026-08-18 22:37 UTC]** Vídeo: Estrutura metálica é arrastada com vento forte durante chuva em Cujubim, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/18/video-estrutura-metalica-e-arrastada-com-vento-forte-durante-chuva-em-cujubim-ro.ghtml)_
 
+- **[2026-08-31 10:11 UTC]** Cidades de SC voltam a registrar estragos provocados por chuva forte e granizo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/cidades-estragos-chuva-forte-e-granizo.ghtml)_
+
