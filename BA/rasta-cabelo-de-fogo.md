@@ -32,3 +32,6 @@
 - **[2026-08-31 15:35 UTC]** Máquina de lavar pega fogo e provoca incêndio em RO; apartamento fica destruído
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/31/incendio-em-apartamento-em-ro.ghtml)_
 
+- **[2026-08-25 06:00 UTC]** VÍDEO: gado foge de incêndio que atinge fazendas; fogo avança por áreas rurais de três estados
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/25/video-gado-foge-de-incendio-que-atinge-fazendas-fogo-avanca-por-areas-rurais-de-tres-estados.ghtml)_
+
