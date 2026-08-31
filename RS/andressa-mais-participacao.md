@@ -26,3 +26,6 @@
 - **[2017-06-28 11:44 UTC]** Fórum pede mais participação da agricultura familiar na alimentação escolar.
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/prefeitura-de-cachoeiro-de-itapemirim/festa-de-cachoeiro/noticia/2017/06/forum-pede-mais-participacao-da-agricultura-familiar-na-alimentacao-escolar-.html)_
 
+- **[2026-08-28 16:52 UTC]** 'A gente que gosta do esporte não mede esforços para estar aqui', diz Wesley Safadão sobre participação na Vaquejada de Lagarto
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/a-gente-que-gosta-do-esporte-nao-mede-esforcos-para-estar-aqui-diz-wesley-safadao-sobre-participacao-na-vaquejada-de-lagarto.ghtml)_
+
