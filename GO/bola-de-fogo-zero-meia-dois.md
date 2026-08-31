@@ -104,3 +104,6 @@
 - **[2017-04-02 18:46 UTC]** Avião que caiu em aeroporto e matou dois estava apto para voar, diz Anac
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/aviao-que-caiu-em-aeroporto-e-matou-dois-estava-apto-para-voar-diz-anac.html)_
 
+- **[2026-08-29 12:49 UTC]** Dois homens são encontrados mortos a tiros em área do Parque Timbiras, em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/29/dois-homens-sao-encontrados-mortos-a-tiros-em-area-do-parque-timbiras-em-sao-luis.ghtml)_
+
