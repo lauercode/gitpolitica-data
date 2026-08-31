@@ -29,3 +29,6 @@
 - **[2026-08-31 17:58 UTC]** Disparo acidental que atingiu homem no Paraná aconteceu em área de clube onde manuseio de arma não é permitido
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/tiro-acidental-parana.ghtml)_
 
+- **[2026-08-31 14:53 UTC]** VÍDEO: Homem é atingido no peito por disparo acidental dentro de clube de tiro no Paraná; estado é grave
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/homem-e-atingido-por-disparo.ghtml)_
+
