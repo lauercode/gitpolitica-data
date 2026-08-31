@@ -20,3 +20,6 @@
 - **[2026-08-30 12:30 UTC]** Por que o risco de AVC aumenta após picada de cobra? Estudo investiga
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/por-que-o-risco-de-avc-aumenta-apos-picada-de-cobra-estudo-investiga.shtml)_
 
+- **[2026-08-22 16:46 UTC]** Após 10 meses, caminhada cobra Justiça por mulher esquartejada pelo vizinho no interior do AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/22/apos-10-meses-caminhada-cobra-justica-por-mulher-esquartejada-pelo-vizinho-no-interior-do-ap.ghtml)_
+
