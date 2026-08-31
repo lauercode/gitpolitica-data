@@ -23,3 +23,6 @@
 - **[2018-02-27 09:40 UTC]** Ivete Sangalo confirma participação no Rock In Rio Lisboa em junho
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/musica/noticia/ivete-sangalo-confirma-participacao-no-rock-in-rio-lisboa-em-junho.ghtml)_
 
+- **[2017-06-28 11:44 UTC]** Fórum pede mais participação da agricultura familiar na alimentação escolar.
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/prefeitura-de-cachoeiro-de-itapemirim/festa-de-cachoeiro/noticia/2017/06/forum-pede-mais-participacao-da-agricultura-familiar-na-alimentacao-escolar-.html)_
+
