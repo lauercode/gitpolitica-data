@@ -11,3 +11,6 @@
 - **[2017-10-24 18:35 UTC]** Incêndio no Parque Ecológico de Águas Claras, no  DF, mobiliza 36 bombeiros
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/incendio-no-parque-ecologico-de-aguas-claras-no-df-mobiliza-30-bombeiros.ghtml)_
 
+- **[2017-07-06 11:14 UTC]** Espírito das Águas
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/fibria/a-floresta-sob-um-novo-prisma/noticia/2017/07/espirito-das-aguas.html)_
+
