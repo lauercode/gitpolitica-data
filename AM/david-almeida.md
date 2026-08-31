@@ -11,3 +11,6 @@
 - **[2026-08-29 01:36 UTC]** Eleições 2026: David Almeida concede entrevista a programa de TV e promete dobrar valor do Auxílio Estadual
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-david-almeida-concede-entrevista-a-programa-de-tv-e-promete-dobrar-valor-do-auxilio-estadual.ghtml)_
 
+- **[2026-08-27 21:01 UTC]** Eleições 2026: David Almeida se reúne com apoiadores em feira de Manaus e afirma que pretende zerar fila do SisReg
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-david-almeida-se-reune-com-apoiadores-em-feira-de-manaus-e-afirma-que-pretende-zerar-fila-do-sisreg.ghtml)_
+
