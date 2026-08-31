@@ -29,3 +29,6 @@
 - **[2017-05-09 18:09 UTC]** Mãe pede ajuda para encontrar filho que sumiu há 10 anos
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/mae-pede-ajuda-para-encontrar-filho-que-sumiu-ha-10-anos.ghtml)_
 
+- **[2026-08-28 20:54 UTC]** Após ex descumprir medida protetiva, mulher pediu ajuda a PMs, que o liberaram e disseram que 'nada poderia ser feito'; vítima foi baleada dias depois
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/medida-protetiva-ajuda-dias-antes-de-feminicidio.ghtml)_
+
