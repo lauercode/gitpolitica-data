@@ -14,3 +14,6 @@
 - **[2026-08-31 12:02 UTC]** Defesa Civil apura ocorrência de tornado após tempestade em Santa Catarina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/defesa-civil-apura-ocorrencia-de-tornado-apos-tempestade-em-santa-catarina.shtml)_
 
+- **[2026-08-31 14:50 UTC]** Chuvas e granizo voltam a castigar Rio Grande do Sul e Santa Catarina
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-08/chuvas-e-granizo-voltam-castigar-rio-grande-do-sul-e-santa-catarina)_
+
