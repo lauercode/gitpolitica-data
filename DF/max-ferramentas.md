@@ -17,3 +17,6 @@
 - **[2026-08-29 07:00 UTC]** Com IA, livros escritos por humanos podem se tornar 'produtos premium'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/com-ia-livros-escritos-por-humanos-podem-se-tornar-produtos-premium.shtml)_
 
+- **[2026-08-26 09:00 UTC]** É pit stop de Fórmula 1? Borracheiro surpreende pela rapidez ao encaixar pneus sem ferramentas; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/e-pit-stop-de-formula-1-borracheiro-surpreende-pela-rapidez-ao-encaixar-pneus-sem-ferramentas-video.ghtml)_
+
