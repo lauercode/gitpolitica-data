@@ -165,3 +165,6 @@
 Diretor
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
 
+- **[2026-08-24 14:56 UTC]** Estudantes protagonizam debate sobre a Constituição na Câmara de Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/24/estudantes-protagonizam-debate-sobre-a-constituicao-na-camara-de-maceio.ghtml)_
+
