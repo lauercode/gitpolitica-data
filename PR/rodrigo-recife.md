@@ -26,3 +26,6 @@
 - **[2018-07-19 16:36 UTC]** Ambulância tomba em avenida após colisão com carro no Recife
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/noticia/2018/07/19/ambulancia-tomba-em-avenida-apos-colisao-com-carro-no-recife.ghtml)_
 
+- **[2018-07-15 12:23 UTC]** Eventos e festa de Nossa Senhora do Carmo provocam interdições em vias do Recife
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/eventos-e-festa-de-nossa-senhora-do-carmo-provocam-interdicoes-em-vias-do-recife.ghtml)_
+
