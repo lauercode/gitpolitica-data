@@ -32,3 +32,6 @@
 - **[2018-07-18 13:14 UTC]** Professor é encontrado morto e tem picape roubada em fazenda de Cristalina
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/noticia/2018/07/18/professor-e-encontrado-morto-e-tem-picape-roubada-em-fazenda-de-cristalina.ghtml)_
 
+- **[2018-07-11 08:14 UTC]** Professor de escola pública do DF é selecionado para expor aquarelas no Museu do Louvre
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/olha-que-legal/noticia/professor-de-escola-publica-do-df-e-selecionado-para-expor-aquarelas-no-museu-do-louvre.ghtml)_
+
