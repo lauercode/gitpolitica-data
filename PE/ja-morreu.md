@@ -92,3 +92,6 @@
 - **[2018-07-17 22:17 UTC]** Corpo de gerente de banco que morreu após procedimento estético no RJ é velado em MT
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/mt/mato-grosso/noticia/corpo-de-gerente-de-banco-que-morreu-apos-procedimento-estetico-no-rj-e-velado-em-mt.ghtml)_
 
+- **[2026-08-30 16:36 UTC]** Mulher que morreu após ser atingida por raio em praia da Grande Florianópolis tem cerimônia de despedida no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/30/mulher-que-morreu-apos-ser-atingida-por-raio-em-praia-da-grande-florianopolis-sera-velada-na-serra-gaucha.ghtml)_
+
