@@ -50,3 +50,6 @@
 - **[2026-08-31 13:00 UTC]** Lobista ligada a Lulinha, Roberta Luchsinger deve mais de R$ 1 milhão em impostos e acumula processos na Justiça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/apontada-como-lobista-roberta-luchsinger-deve-mais-de-um-milhao-em-impostos-e-acumula-processos-na-justica.ghtml)_
 
+- **[2026-08-31 21:48 UTC]** Não vai cair sozinha: a “bomba-relógio” Roberta Luchsinger
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/nao-vai-cair-sozinha-a-bomba-relogio-roberta-luchsinger/)_
+
