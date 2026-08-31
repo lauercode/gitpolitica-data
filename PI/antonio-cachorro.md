@@ -23,3 +23,6 @@
 - **[2026-08-28 11:25 UTC]** Filhote de cachorro é resgatado após cair em cisterna em Lagarto
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/filhote-de-cachorro-e-resgatado-apos-cair-em-cisterna-em-lagarto.ghtml)_
 
+- **[2026-08-25 13:29 UTC]** Filhote de cachorro é encontrado carbonizado após queimada em terreno baldio no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/25/filhote-de-cachorro-e-encontrado-carbonizado-apos-queimada-em-terreno-baldio-no-to.ghtml)_
+
