@@ -68,3 +68,6 @@
 - **[2026-08-31 21:31 UTC]** Motociclista morre em acidente com carreta na TO-040
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/motociclista-morre-em-acidente-com-carreta-na-to-040.ghtml)_
 
+- **[2026-08-30 18:02 UTC]** Motociclista morre após acidente entre carro e moto no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/motociclista-morre-apos-acidente-entre-carro-e-moto-no-to.ghtml)_
+
