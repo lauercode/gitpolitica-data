@@ -26,3 +26,6 @@
 - **[2017-04-02 08:09 UTC]** Passageira morre após carro sair da pista e bater contra árvore na BR-153
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/transito/noticia/2017/04/passageira-morre-apos-carro-sair-da-pista-e-bater-contra-arvore-na-br-153.html)_
 
+- **[2026-08-31 21:54 UTC]** Vídeo: Passageiros comemoram aliviados pouso de avião que saiu da pista no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/aviao-sai-pista-parana-video-passageiros.ghtml)_
+
