@@ -56,3 +56,6 @@
 - **[2018-05-07 11:03 UTC]** Alojamento considerado irregular na Escola de Fernando de Noronha é denunciado
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/alojamento-considerado-irregular-na-escola-de-fernando-de-noronha-e-denunciado.html)_
 
+- **[2018-05-07 06:51 UTC]** Flávio Canto participa de atividades do Tamar em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/flavio-canto-participa-de-atividades-do-tamar-em-fernando-de-noronha.html)_
+
