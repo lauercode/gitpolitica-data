@@ -32,3 +32,6 @@
 - **[2017-09-05 16:32 UTC]** Homem é preso suspeito de ser dono de 'disque droga' na Bahia
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/homem-e-preso-suspeito-de-chefiar-disque-droga-na-bahia.ghtml)_
 
+- **[2026-08-30 14:44 UTC]** Homem é condenado a 20 anos de prisão por matar dono de bar dentro do próprio estabelecimento em Imperatriz
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/08/30/homem-e-condenado-a-20-anos-de-prisao-por-matar-dono-de-bar-dentro-do-proprio-estabelecimento-em-imperatriz.ghtml)_
+
