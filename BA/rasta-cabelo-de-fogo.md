@@ -44,3 +44,6 @@
 - **[2018-07-10 13:31 UTC]** Motorista morre carbonizado após carreta capotar e pegar fogo em rodovia do interior de SP
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/bauru-marilia/noticia/motorista-morre-carbonizado-apos-carreta-capotar-e-pegar-fogo-em-rodovia.ghtml)_
 
+- **[2026-08-31 19:29 UTC]** Trânsito no Centro de Aracaju terá bloqueios e desvios nesta terça para a Corrida do Fogo Simbólico; saiba mais
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/31/transito-no-centro-de-aracaju-tera-bloqueios-e-desvios-nesta-terca-para-a-corrida-do-fogo-simbolico-saiba-mais.ghtml)_
+
