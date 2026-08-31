@@ -41,3 +41,6 @@
 - **[2026-08-29 00:06 UTC]** No 1º guia eleitoral do AP, Dr. Furlan destaca obras na capital e Clécio Luís aposta em histórias de eleitores
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/28/no-1o-guia-eleitoral-do-ap-dr-furlan-destaca-gestao-na-capital-e-clecio-luis-aposta-em-historias-de-eleitores.ghtml)_
 
+- **[2026-08-31 13:59 UTC]** Plataforma na Alameda Cosme Ferreira em Manaus é interditada para obras a partir de terça-feira; veja mudanças
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/08/31/plataforma-na-alameda-cosme-ferreira-em-manaus-e-interditada-para-obras-a-partir-de-terca-feira-veja-mudancas.ghtml)_
+
