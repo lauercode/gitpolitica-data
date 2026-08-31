@@ -497,3 +497,6 @@
 - **[2026-08-30 23:00 UTC]** Flávio Bolsonaro critica, mas também defendeu benefícios na reforma tributária
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/flavio-bolsonaro-critica-mas-tambem-defendeu-beneficios-na-reforma-tributaria.shtml)_
 
+- **[2026-08-31 11:29 UTC]** Judeus reagem a anúncio de Lottenberg como ministro de Flávio Bolsonaro e divulgam manifesto pró-Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/judeus-reagem-a-anuncio-de-lottenberg-como-ministro-de-flavio-bolsonaro-e-divulgam-manifesto-pro-lula.shtml)_
+
