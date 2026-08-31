@@ -23,3 +23,6 @@
 - **[2018-07-17 12:45 UTC]** Homem morre em acidente com caminhão na BR-232, na Zona da Mata de Pernambuco
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/noticia/homem-morre-em-acidente-com-caminhao-na-br-232-na-zona-da-mata-de-pernambuco.ghtml)_
 
+- **[2018-07-12 13:47 UTC]** Secretaria de Educação seleciona estudantes para 112 vagas em curso gratuito de música em Pernambuco
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/secretaria-de-educacao-seleciona-estudantes-para-112-vagas-em-curso-gratuito-de-musica-em-pernambuco.ghtml)_
+
