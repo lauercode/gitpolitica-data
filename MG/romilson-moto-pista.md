@@ -14,3 +14,6 @@
 - **[2026-08-31 12:20 UTC]** Airbus da Latam sai da pista após pouso no Aeroporto de Cascavel (PR)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/airbus-da-latam-sai-da-pista-apos-pouso-no-aeroporto-de-cascavel-pr.shtml)_
 
+- **[2018-07-21 15:26 UTC]** Caminhoneiro morre após bater em carreta e sair da pista na BR-452, em Itumbiara
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/2018/07/21/caminhoneiro-morre-apos-bater-em-carreta-e-sair-da-pista-na-br-452-em-itumbiara.ghtml)_
+
