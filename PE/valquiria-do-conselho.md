@@ -14,3 +14,6 @@
 - **[2017-10-30 22:49 UTC]** Com rachaduras e ferragens à mostra, pontes de Vitória são vistoriadas pelo Conselho Regional de Engenharia
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/noticia/com-rachaduras-e-ferragens-a-mostra-pontes-de-vitoria-sao-vistoriadas-pelo-conselho-regional-de-engenharia.ghtml)_
 
+- **[2018-07-11 17:21 UTC]** Resultado final do concurso do Conselho Regional de Odontologia de MT é divulgado
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mt/mato-grosso/concursos-e-emprego/noticia/resultado-final-do-concurso-do-conselho-regional-de-odontologia-de-mt-e-divulgado.ghtml)_
+
