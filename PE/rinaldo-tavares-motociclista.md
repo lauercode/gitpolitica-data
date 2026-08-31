@@ -47,3 +47,6 @@
 - **[2017-06-17 17:48 UTC]** Motociclista morre após bater na traseira de caminhão estacionado em MS
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/motociclista-morre-em-ms-apos-bater-em-traseira-de-caminhao-estacionado.ghtml)_
 
+- **[2017-04-17 18:14 UTC]** Motociclista que se acidentou em curva está no CTI
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/motociclista-que-se-acidentou-em-curva-esta-no-cti.ghtml)_
+
