@@ -23,3 +23,6 @@
 - **[2026-08-30 17:04 UTC]** Mega-Sena 3051: 19 apostas de Sergipe acertam quadra; confira números
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/30/mega-sena-3051-apostas-de-sergipe-acertam-quadra-confira-numeros.ghtml)_
 
+- **[2026-08-29 19:06 UTC]** Justiça Eleitoral recebe 59 denúncias de irregularidades eleitorais em Sergipe em duas semanas de campanha
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/29/justica-eleitoral-recebe-59-denuncias-de-irregularidades-eleitorais-em-sergipe-em-duas-semanas-de-campanha.ghtml)_
+
