@@ -23,3 +23,6 @@
 - **[2018-07-20 20:34 UTC]** Poda de árvores causa interdição de rua e muda itinerário de ônibus no Recife
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/2018/07/20/poda-de-arvores-causa-interdicao-de-rua-e-muda-itinerario-de-onibus-no-recife.ghtml)_
 
+- **[2018-07-19 16:36 UTC]** Ambulância tomba em avenida após colisão com carro no Recife
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/noticia/2018/07/19/ambulancia-tomba-em-avenida-apos-colisao-com-carro-no-recife.ghtml)_
+
