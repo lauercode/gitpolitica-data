@@ -23,3 +23,6 @@
 - **[2026-08-28 12:16 UTC]** Fuga de presídio pela porta da frente: policial penal e preso que usou alvará falso são denunciados no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/policial-penal-denunciado-fuga-preso-charqueadas.ghtml)_
 
+- **[2026-08-24 20:04 UTC]** Médicos e enfermeiros são investigados pela morte de jovem no dia que seria libertado de presídio após ser absolvido
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/medicos-e-enfermeiros-sao-investigados-pela-morte-de-jovem-no-dia-que-seria-libertado-de-presidio-apos-ser-absolvido.ghtml)_
+
