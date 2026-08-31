@@ -20,3 +20,6 @@
 - **[2026-08-24 22:05 UTC]** Quaest no Paraná: Sergio Moro, 37%; Requião Filho, 21%; Sandro Alex, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/24/quaest-pr-governador-24-agosto.ghtml)_
 
+- **[2026-08-31 15:55 UTC]** Eleições 2026 no PR: Sandro Alex atende imprensa e confirma presença em evento de universidade
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-no-pr-agenda-sandro-alex-31-agosto.ghtml)_
+
