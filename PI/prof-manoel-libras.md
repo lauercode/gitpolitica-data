@@ -11,3 +11,6 @@
 - **[2026-08-29 22:26 UTC]** O dia em que Portugal “assinou o divórcio” com o Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/brasil/portugal-reconheceu-independencia-brasil-tres-anos-depois/)_
 
+- **[2026-08-31 12:03 UTC]** Urna eletrônica terá barra de progresso e intérprete de Libras em 2026
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/urna-eletronica-tera-barra-de-progresso-e-interprete-de-libras-em-2026/)_
+
