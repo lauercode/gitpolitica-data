@@ -14,3 +14,6 @@
 - **[2017-11-06 17:17 UTC]** Ex-namorado mata jovem, tenta se esconder em árvore no quintal da casa da avó e é preso em Cuiabá
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/ex-namorado-mata-jovem-tenta-se-esconder-em-arvore-no-quintal-da-casa-da-avo-e-e-preso-em-cuiaba.ghtml)_
 
+- **[2026-08-28 20:29 UTC]** VÍDEO: Onça parda assusta moradores ao aparecer em quintal de residência no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/onca-assusta-moradores-ao-aparecer-em-quintal-de-residencia-no-rs.ghtml)_
+
