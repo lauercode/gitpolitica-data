@@ -23,3 +23,6 @@
 - **[2017-07-10 19:04 UTC]** DETRAN Goiás realiza 1ª edição do projeto Piloto Consciente
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/detran-goias-realiza-1-edicao-do-projeto-piloto-consciente.html)_
 
+- **[2026-08-31 18:16 UTC]** ‘Pista escorregadia’, diz piloto de avião da Latam que foi parar na lama após pouso no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/aviao-pista-parana.ghtml)_
+
