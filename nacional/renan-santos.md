@@ -41,3 +41,6 @@
 - **[2026-08-31 13:44 UTC]** ACOMPANHE: Ciclo de sabatinas com candidatos à Presidência da República começa com Renan Santos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/acompanhe-ciclo-de-sabatinas-com-candidatos-a-presidencia-da-republica-comeca-com-renan-santos/)_
 
+- **[2026-08-31 19:04 UTC]** Fato ou Fake: veja checagens das entrevistas de Zema, Caiado, Renan Santos, Lula, Flávio Bolsonaro e Augusto Cury à Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/31/fato-ou-fake-veja-checagens-das-entrevistas-de-zema-caiado-renan-santos-lula-flavio-bolsonaro-e-augusto-cury-a-globo.ghtml)_
+
