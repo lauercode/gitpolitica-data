@@ -68,3 +68,6 @@
 - **[2026-08-26 04:02 UTC]** Exame toxicológico será obrigatório para tirar CNH no RS a partir de setembro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/exame-toxicologico-sera-obrigatorio-para-tirar-cnh-no-rs-a-partir-de-setembro.ghtml)_
 
+- **[2026-08-28 18:45 UTC]** Jaraguá do Sul começa a planejar como será a cidade em 2076
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/prefeitura-municipal-de-jaragua-do-sul/noticia/2026/08/28/jaragua-do-sul-comeca-a-planejar-como-sera-a-cidade-em-2076.ghtml)_
+
