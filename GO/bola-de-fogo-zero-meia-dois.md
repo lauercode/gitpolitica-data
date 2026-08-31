@@ -128,3 +128,6 @@
 - **[2026-08-26 19:00 UTC]** Dois homens ficam feridos após ataque a tiros por suspeitos em moto, na Grande João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/26/dois-homens-ficam-feridos-apos-ataque-a-tiros-por-suspeitos-em-moto-na-grande-joao-pessoa.ghtml)_
 
+- **[2026-08-31 07:01 UTC]** Casal paranaense larga emprego, vende tudo e passa mais de dois anos viajando de bicicleta para cruzar a América, de Ushuaia ao Alasca
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/31/casal-paranaense-larga-emprego-vende-tudo-e-passa-mais-de-dois-anos-viajando-de-bicicleta-para-cruzar-a-america-de-ushuaia-ao-alasca.ghtml)_
+
