@@ -71,3 +71,6 @@
 - **[2018-05-04 09:36 UTC]** Ministro da Educação garante escola integral em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/ministro-da-educacao-garante-escola-integral-em-fernando-de-noronha.html)_
 
+- **[2018-05-03 16:38 UTC]** Combustível tem reajuste em Fernando de Noronha, a gasolina agora custa R$ 6,79
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/combustivel-tem-reajuste-em-fernando-de-noronha-gasolina-agora-custa-r-679.html)_
+
