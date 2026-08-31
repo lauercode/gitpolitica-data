@@ -176,3 +176,6 @@
 - **[2026-08-25 09:00 UTC]** Diarista sofre cortes no rosto e pescoço por linha de cerol ao andar de moto no Acre: 'Nasci de novo'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/diarista-sofre-cortes-no-rosto-e-pescoco-por-linha-de-pipa-ao-andar-de-moto-no-ac-nasci-de-novo.ghtml)_
 
+- **[2026-08-25 00:09 UTC]** Policial penal é afastado do cargo por 60 dias após preso fugir durante escolta no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/24/policial-penal-e-afastado-do-cargo-por-60-dias-apos-preso-fugir-durante-escolta-no-acre.ghtml)_
+
