@@ -17,3 +17,6 @@
 - **[2026-08-29 19:42 UTC]** Mistérios e segredos de textos medievais revelados graças à IA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-26 17:53 UTC]** Motociclista que teve pé amputado ao colidir com carro recebe alta no Acre; amigos pedem ajuda
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/motociclista-que-teve-pe-amputado-ao-colidir-com-carro-passou-por-cirurgia-no-acre.ghtml)_
+
