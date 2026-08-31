@@ -164,3 +164,6 @@
 - **[2026-08-25 22:10 UTC]** Conta de luz tem redução de mais de 5% no Acre a partir desta quarta-feira; Veja quem é beneficiado
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/conta-de-luz-tem-reducao-de-mais-de-5percent-no-acre-a-partir-desta-quarta-feira-veja-quem-e-beneficiado.ghtml)_
 
+- **[2026-08-25 21:06 UTC]** Motociclista tem pé direito amputado durante colisão com carro no Acre; Veja VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/video-motociclista-tem-pe-amputado-durante-colisao-com-carro-no-acre.ghtml)_
+
