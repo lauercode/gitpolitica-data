@@ -32,3 +32,6 @@
 - **[2018-07-10 18:53 UTC]** Instituto divulga vagas de estágio para a Grande Vitória e interior do ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/educacao/noticia/instituto-divulga-vagas-de-estagio-para-a-grande-vitoria-e-interior-do-es.ghtml)_
 
+- **[2026-08-26 20:48 UTC]** Cícero Lucena visita instituto de acolhimento de pessoas com TEA e fala em interiorizar serviços na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/cicero-lucena-visita-instituto-acolhimento-pessoas-tea-interiorizar-servicos-na-pb.ghtml)_
+
