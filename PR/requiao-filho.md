@@ -11,3 +11,6 @@
 - **[2026-08-28 14:05 UTC]** Eleições 2026 no PR: Requião Filho se reúne com empresários, delegados e comunidade
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-no-pr-agenda-requiao-filho-28-de-agosto.ghtml)_
 
+- **[2026-08-27 13:57 UTC]** Eleições 2026 no PR: Requião Filho propõe criação de hospitais regionais da mulher e da infância
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/27/equiao-filho-propoe-criacao-de-hospitais.ghtml)_
+
