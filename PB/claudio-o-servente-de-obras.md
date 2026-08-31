@@ -59,3 +59,6 @@
 - **[2026-08-28 17:59 UTC]** Presidenciáveis, obras e promessas: como foi 1° dia de propaganda eleitoral na TV dos candidatos ao governo de SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/28/como-foi-1-dia-propaganda-eleitoral-tv-candidatos-governo-de-sc.ghtml)_
 
+- **[2026-08-27 22:39 UTC]** Eleições 2026 em SC: João Rodrigues visita obras e participa de caminhadas no Vale do Itajaí
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-e-participa-de-caminhadas-no-vale-do-itajai.ghtml)_
+
