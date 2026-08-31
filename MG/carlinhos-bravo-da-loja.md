@@ -11,3 +11,6 @@
 - **[2026-08-28 17:56 UTC]** Trio armado invade e assalta loja de eletrodomésticos em Macapá; VÍDEO
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/trio-armado-invade-e-assalta-loja-de-eletrodomesticos-em-macapa-video.ghtml)_
 
+- **[2017-06-22 16:08 UTC]** Nascer Bem auxilia empreendedora a abrir loja de presentes de sucesso
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/06/nascer-bem-auxilia-empreendedora-abrir-loja-de-presentes-de-sucesso_.html)_
+
