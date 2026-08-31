@@ -20,3 +20,6 @@
 - **[2018-07-16 19:51 UTC]** Cachorro 'corintiano' adotado após ser resgatado de córrego na Zona Norte de SP faz sucesso na internet
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/olha-que-legal/noticia/cachorro-corintiano-adotado-apos-ser-resgatado-de-corrego-na-zona-norte-de-sp-faz-sucesso-na-internet.ghtml)_
 
+- **[2026-08-28 11:25 UTC]** Filhote de cachorro é resgatado após cair em cisterna em Lagarto
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/filhote-de-cachorro-e-resgatado-apos-cair-em-cisterna-em-lagarto.ghtml)_
+
