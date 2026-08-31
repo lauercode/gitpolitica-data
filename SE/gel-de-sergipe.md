@@ -38,3 +38,6 @@
 - **[2026-08-28 14:21 UTC]** Resultado da Mega-Sena 3050: apostas de Sergipe acertam números; confira resultado
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/resultado-da-mega-sena-3050-apostas-de-sergipe-acertam-numeros-confira-resultado.ghtml)_
 
+- **[2026-08-27 11:01 UTC]** Emprego em Sergipe: plataforma digital do NAT oferta mais de mil vagas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/27/emprego-em-sergipe-plataforma-digital-do-nat-oferta-mais-de-mil-vagas.ghtml)_
+
