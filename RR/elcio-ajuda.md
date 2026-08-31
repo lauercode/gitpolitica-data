@@ -35,3 +35,6 @@
 - **[2018-05-14 06:53 UTC]** Mutirão para construção de casas pode ser realizado em Fernando de Noronha com ajuda da Adra
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/mutirao-para-construcao-de-casas-pode-ser-realizado-em-fernando-de-noronha-com-ajuda-da-adra.html)_
 
+- **[2026-08-28 15:57 UTC]** Menino de 11 anos caminha 7 km para pedir ajuda após suposta agressão da mãe
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/menino-de-11-anos-caminha-7-quilometros-para-pedir-ajuda-apos-suposta-agressao-da-mae.ghtml)_
+
