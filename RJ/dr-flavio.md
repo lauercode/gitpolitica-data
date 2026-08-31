@@ -617,3 +617,6 @@
 - **[2026-08-31 08:36 UTC]** BTG/Nexus: Lula tem 37%, Flávio, 31%, e Augusto Cury sobe 9 pontos e marca 11% no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/btgnexus-lula-tem-37-flavio-31-e-augusto-cury-sobre-9-pontos-e-marca-11-no-1o-turno.shtml)_
 
+- **[2026-08-31 15:00 UTC]** Flávio rebate Lula após petista chamar profissão de gari de “muito pobre”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-rebate-lula-apos-petista-chamar-profissao-de-gari-de-muito-pobre/)_
+
