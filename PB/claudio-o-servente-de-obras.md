@@ -23,3 +23,6 @@
 - **[2026-08-30 13:38 UTC]** Flávio Bolsonaro quer retomar obras de Angra 3 e resorts na cidade fluminense
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-retomar-obras-angra-3-resorts-cidade-fluminense/)_
 
+- **[2026-08-31 15:00 UTC]** Exposição de Tatiana Blass faz cera escorrer e revela detalhes escondidos de obras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/exposicao-de-tatiana-blass-faz-cera-escorrer-e-revela-detalhes-escondidos-de-obras.shtml)_
+
