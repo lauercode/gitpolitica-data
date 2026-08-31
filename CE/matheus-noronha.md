@@ -29,3 +29,6 @@
 - **[2018-05-11 15:10 UTC]** Fernando de Noronha participa da programação da 16ª Semana de Museus
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/fernando-de-noronha-participa-da-programacao-da-16-semana-de-museus.html)_
 
+- **[2018-05-11 14:11 UTC]** Mães serão homenageadas no desembarque em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/maes-serao-homenageadas-no-desembarque-em-fernando-de-noronha.html)_
+
