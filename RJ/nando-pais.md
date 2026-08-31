@@ -44,3 +44,6 @@
 - **[2018-07-11 21:45 UTC]** Mãe biológica pega filha na casa dos pais adotivos em MS, foge para MT e é procurada pela polícia
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mt/mato-grosso/noticia/mae-biologica-retira-crianca-da-casa-dos-pais-adotivos-em-ms-foge-para-mt-e-e-procurada-pela-policia.ghtml)_
 
+- **[2026-08-27 14:08 UTC]** Pais são presos suspeitos de vender bebê de 5 meses por R$ 15 mil e entregá-lo no Paraguai
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/27/pais-sao-presos-suspeitos-de-vender-bebe.ghtml)_
+
