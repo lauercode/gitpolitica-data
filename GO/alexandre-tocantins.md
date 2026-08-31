@@ -44,3 +44,6 @@
 - **[2026-08-28 23:15 UTC]** Trilha no Tocantins tem paisagens de tirar o fôlego e pedra com formato erótico
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/trilha-no-tocantins-tem-paisagens-de-tirar-o-folego-e-pedra-com-formato-erotico.ghtml)_
 
+- **[2026-08-28 09:00 UTC]** Tocantins terá 1º pastor surdo aprovado em banca examinadora; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/tocantins-tera-1o-pastor-surdo-aprovado-em-banca-examinadora-video.ghtml)_
+
