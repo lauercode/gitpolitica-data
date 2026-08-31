@@ -26,3 +26,6 @@
 - **[2017-09-08 10:47 UTC]** Após briga em grupo de mensagens, policial mata vizinho a tiros no DF
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-briga-em-grupo-de-mensagens-policial-mata-vizinho-a-tiros-no-df.ghtml)_
 
+- **[2018-07-18 01:08 UTC]** Aluna vai prestar serviços à comunidade no ES após ofender professora em app de mensagens
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/aluna-vai-prestar-servicos-a-comunidade-no-es-apos-ofender-professora-em-app-de-mensagens.ghtml)_
+
