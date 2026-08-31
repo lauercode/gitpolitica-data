@@ -29,3 +29,6 @@
 - **[2017-10-26 15:36 UTC]** Mãe de menina baleada na Rocinha diz que não viu o momento em que a filha foi atingida
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/mae-de-menina-baleada-na-rocinha-diz-que-nao-viu-o-momento-em-que-a-filha-foi-atingida.ghtml)_
 
+- **[2026-08-29 19:28 UTC]** Barco de pesca naufraga no litoral do RS e momento é registrado em VÍDEO; todos conseguiram se salvar
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/barco-de-pesca-naufraga-no-litoral-do-rs.ghtml)_
+
