@@ -29,3 +29,6 @@
 - **[2026-08-24 09:00 UTC]** O que se sabe sobre influenciador e investigador presos por roubo de R$ 800 mil e ouro em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/o-que-se-sabe-sobre-influenciador-e-investigador-presos-por-roubo-de-r-800-mil-e-ouro-em-roraima.ghtml)_
 
+- **[2026-08-27 16:14 UTC]** Bancário de SP desaparecido após deixar hostel em Florianópolis: o que se sabe e o que falta saber
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/bancario-de-sp-desaparecido-em-florianopolis-o-que-falta-saber.ghtml)_
+
