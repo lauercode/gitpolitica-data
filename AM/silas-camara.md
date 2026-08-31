@@ -168,3 +168,6 @@ Diretor
 - **[2026-08-24 14:56 UTC]** Estudantes protagonizam debate sobre a Constituição na Câmara de Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/24/estudantes-protagonizam-debate-sobre-a-constituicao-na-camara-de-maceio.ghtml)_
 
+- **[2026-08-31 21:02 UTC]** Câmara de Manaus aprova subsídio de até R$ 3 milhões por mês para 'amarelinhos' e transporte executivo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/camara-de-manaus-aprova-subsidio-de-ate-r-3-milhoes-por-mes-para-amarelinhos-e-transporte-executivo.ghtml)_
+
