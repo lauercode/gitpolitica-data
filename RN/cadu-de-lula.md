@@ -14,3 +14,6 @@
 - **[2026-08-26 17:08 UTC]** Justiça Eleitoral rejeita pedido do MPE e autoriza uso de 'Cadu de Lula' e 'Samanda de Lula' nas urnas
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/08/26/justica-eleitoral-rejeita-pedido-do-mpe-e-autoriza-uso-de-cadu-de-lula-e-samanda-de-lula-nas-urnas.ghtml)_
 
+- **[2026-08-25 19:32 UTC]** Cadu de Lula (PT) recebe plataforma com propostas para agricultura familiar no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/08/25/cadu-de-lula-pt-recebe-plataforma-com-propostas-para-agricultura-familiar-no-rn.ghtml)_
+
