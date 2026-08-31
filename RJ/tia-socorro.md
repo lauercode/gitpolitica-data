@@ -20,3 +20,6 @@
 - **[2026-08-27 17:22 UTC]** Mulher usa prontuário de hospital do Paraná para escrever pedido de socorro e denunciar marido: 'Não deixe entrar'
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/27/mulher-ajuda-hospital-parana.ghtml)_
 
+- **[2026-08-24 19:39 UTC]** Rompimento de adutora interrompe abastecimento de água em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/rompimento-de-adutora-interrompe-abastecimento-de-agua-em-nossa-senhora-do-socorro.ghtml)_
+
