@@ -62,3 +62,6 @@
 - **[2026-08-31 16:14 UTC]** 'STF é a expressão máxima do fim da República brasileira', diz Renan Santos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/renan-santos-stf.ghtml)_
 
+- **[2026-08-31 15:47 UTC]** Renan Santos nega irregularidade em candidatura apontada por Toffoli no TSE: 'não estou tendo vantagem nenhuma'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/31/renan-santos-nega-irregularidade-em-candidatura-apontada-por-toffoli-no-tse-nao-estou-tendo-vantagem-nenhuma.ghtml)_
+
