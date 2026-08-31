@@ -35,3 +35,6 @@
 - **[2026-08-31 21:24 UTC]** Bebidas alcoólicas, refrigerantes e cigarros: governo inclui 'imposto do pecado' no orçamento de 2027
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/para-taxar-cigarros-bebidas-alcoolicas-e-refrigerantes-governo-inclui-imposto-do-pecado-no-orcamento-de-2027.ghtml)_
 
+- **[2026-08-31 17:35 UTC]** Restituição do Imposto de Renda: Receita libera R$ 18,7 milhões em Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/31/restituicao-do-ir-receita-libera-r-187-milhoes-em-alagoas.ghtml)_
+
