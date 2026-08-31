@@ -47,3 +47,6 @@
 - **[2026-08-26 18:04 UTC]** TRF1 barra decisão que fragilizava proteção de terra indígena sob invasão no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/trf1-barra-decisao-que-ameacava-protecao-de-terra-indigena-sob-invasao-no-para.ghtml)_
 
+- **[2026-08-25 15:31 UTC]** Incêndio atinge Terra Indígena Apyterewa, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/25/incendio-atinge-terra-indigena-apyterewa-no-para.ghtml)_
+
