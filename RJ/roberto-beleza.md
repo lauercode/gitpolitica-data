@@ -17,3 +17,6 @@
 - **[2026-08-30 12:00 UTC]** Vestir natureza: a beleza dos verdes e tons terrosos no visual
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/08/30/vestir-natureza-a-beleza-dos-verdes-e-tons-terrosos-no-visual.ghtml)_
 
+- **[2018-07-19 11:54 UTC]** Heterocromia em animais chama atenção pela beleza, mas é preciso ter cuidados
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/19/heterocromia-em-animais-chama-atencao-pela-beleza-mas-e-preciso-ter-cuidados.ghtml)_
+
