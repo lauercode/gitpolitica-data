@@ -17,3 +17,6 @@
 - **[2026-08-28 21:18 UTC]** Projeto cria regras para publicidade de anabolizantes e exige alertas sobre riscos à saúde
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299853-projeto-cria-regras-para-publicidade-de-anabolizantes-e-exige-alertas-sobre-riscos-a-saude)_
 
+- **[2026-08-28 18:29 UTC]** Empresas que não inovam podem enfrentar riscos? Entenda os desafios
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/riquezas-da-inovacao/noticia/2026/08/28/empresas-que-nao-inovam-podem-enfrentar-riscos-entenda-os-desafios.ghtml)_
+
