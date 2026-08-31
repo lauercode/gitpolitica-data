@@ -11,3 +11,6 @@
 - **[2018-07-19 11:48 UTC]** Jiboia é flagrada atravessando estrada no litoral de São Mateus, ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/2018/07/19/jiboia-e-flagrada-atravessando-estrada-no-litoral-de-sao-mateus-es.ghtml)_
 
+- **[2018-07-17 09:54 UTC]** Caminhão tomba e explode em estrada que liga Cachoeiro a Vargem Alta no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/caminhao-tomba-e-explode-em-estrada-que-liga-cachoeiro-a-vargem-alta-no-es.ghtml)_
+
