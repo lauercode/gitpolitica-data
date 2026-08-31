@@ -11,3 +11,6 @@
 - **[2026-08-31 15:02 UTC]** Semana começa com temperaturas acima de 40 graus no centro do país
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-08/semana-comeca-com-temperaturas-acima-de-40-graus-no-centro-do-pais)_
 
+- **[2018-07-21 14:30 UTC]** Ponta Porã amanheceu gelada: Termômetros marcavam 6 graus
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2018/07/21/ponta-pora-amanheceu-gelada-termometros-marcavam-6-graus.ghtml)_
+
