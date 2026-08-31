@@ -20,3 +20,6 @@
 - **[2018-07-13 21:08 UTC]** Carreta carregada de milho tomba em pedágio e se arrasta pela pista na BR-060, em Goianápolis; veja vídeo
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/carreta-carregada-de-milho-tomba-em-pedagio-da-br-060-em-goianapolis-veja-video.ghtml)_
 
+- **[2017-04-02 10:50 UTC]** Avião cai e mata duas pessoas na pista do aeroporto de Aragarças, GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/aviao-cai-e-mata-duas-pessoas-na-pista-do-aeroporto-de-aragarcas-go.html)_
+
