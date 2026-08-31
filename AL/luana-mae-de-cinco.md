@@ -50,3 +50,6 @@
 - **[2026-08-31 09:23 UTC]** Dívida bruta brasileira atinge 82,5% do PIB em julho, maior patamar em cinco anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/divida-bruta-brasileira-atinge-825-do-pib-em-julho.shtml)_
 
+- **[2026-08-26 13:32 UTC]** Mais de 370 kg de skunk são apreendidos dentro de embarcação no Acre; cinco fogem
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/policia-apreende-mais-de-370-kg-de-skunk-em-embarcacao-em-ramal-de-rio-branco-cinco-fogem.ghtml)_
+
