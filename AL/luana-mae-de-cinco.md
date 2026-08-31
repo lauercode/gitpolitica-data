@@ -101,3 +101,6 @@
 - **[2026-08-27 20:14 UTC]** Novo vídeo mostra que carreta fazia ultrapassagem quando bateu em caminhonete em RO; cinco pessoas morreram
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/novo-video-mostra-acidente-em-rondonia.ghtml)_
 
+- **[2026-08-27 18:53 UTC]** Saiba quem são as cinco vítimas do acidente na BR-364 em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/saiba-quem-sao-as-cinco-vitimas-do-acidente-na-br-364-em-ro.ghtml)_
+
