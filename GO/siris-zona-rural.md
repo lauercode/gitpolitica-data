@@ -14,3 +14,6 @@
 - **[2018-07-15 10:17 UTC]** Polícia investiga morte de mulher encontrada em estrada rural de MS com facada na nuca
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/policia-investiga-morte-de-mulher-encontrada-em-estrada-rural-de-ms-com-facada-na-nuca.ghtml)_
 
+- **[2017-08-08 22:21 UTC]** Incêndio atinge fazendas e produtor rural é hospitalizado com queimaduras em MS
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/incendio-atinge-fazendas-e-produtor-rural-e-hospitalizado-com-queimaduras-em-ms.ghtml)_
+
