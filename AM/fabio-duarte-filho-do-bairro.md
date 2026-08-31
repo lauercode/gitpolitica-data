@@ -23,3 +23,6 @@
 - **[2026-08-26 23:14 UTC]** Clécio Luís participa de caminhada no bairro do Araxá, em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/26/clecio-luis-participa-de-caminhada-no-bairro-do-araxa-em-macapa.ghtml)_
 
+- **[2018-07-12 00:02 UTC]** Trechos de ruas do bairro de São Cristóvão terão tráfego em mão única a partir de sábado; confira mudanças
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/transito/noticia/trechos-de-ruas-do-bairro-de-sao-cristovao-passam-a-ter-trafego-em-mao-unica-a-partir-de-sabado-confira-mudancas.ghtml)_
+
