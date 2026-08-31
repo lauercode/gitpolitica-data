@@ -29,3 +29,6 @@
 - **[2026-08-31 17:40 UTC]** Parada programada da Caema afeta abastecimento de água em bairros de São Luís nesta terça-feira (1º)
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/31/parada-programada-da-caema-afeta-abastecimento-de-agua-em-bairros-de-sao-luis-nesta-terca-feira-1o.ghtml)_
 
+- **[2017-05-09 12:03 UTC]** Sebrae atende a empreendedores dos bairros com unidade móvel
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/sebrae-atende-empreendedores-dos-bairros-com-unidade-movel.html)_
+
