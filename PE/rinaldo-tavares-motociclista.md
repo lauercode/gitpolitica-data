@@ -59,3 +59,6 @@
 - **[2026-08-25 13:54 UTC]** Motociclista fica ferido após ser atingido por carro em Rorainópolis
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/25/motociclista-fica-ferido-apos-ser-atingido-por-carro-em-rorainopolis.ghtml)_
 
+- **[2026-08-24 22:39 UTC]** Carro fecha motociclista na avenida Carlos Pereira de Melo e causa acidente em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/carro-fecha-motociclista-na-avenida-carlos-pereira-de-melo-e-causa-acidente-em-boa-vista.ghtml)_
+
