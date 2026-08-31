@@ -14,3 +14,6 @@
 - **[2026-08-25 09:36 UTC]** Dupla suspeita de matar ex-jogador do São Paulo morre durante troca de tiros com polícia em AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/25/dupla-suspeita-de-participar-da-morte-de-ex-jogador-do-sp-em-maceio-morre-durante-troca-de-tiros-com-policia.ghtml)_
 
+- **[2017-08-12 21:54 UTC]** Troca de tiros entre bandidos e polícia deixa dois suspeitos feridos, no CE; sete armas são apreendidas
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/troca-de-tiros-entre-bandidos-e-policia-deixa-dois-suspeitos-feridos-no-ce-sete-armas-sao-apreendidas.ghtml)_
+
