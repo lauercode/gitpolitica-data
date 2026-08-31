@@ -17,3 +17,6 @@
 - **[2018-07-11 09:00 UTC]** Ativista celebra patrocínio de Malala: 'O discurso dela é importante para as meninas indígenas'
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/ba/bahia/noticia/ativista-celebra-patrocinio-de-malala-o-discurso-dela-e-importante-para-as-meninas-indigenas.ghtml)_
 
+- **[2026-08-21 08:03 UTC]** Homem é denunciado por chefiar garimpo ilegal de diamante dentro de terras indígenas de Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/homem-e-denunciado-por-chefiar-garimpo-ilegal-de-diamante-dentro-de-terras-indigenas-de-rondonia.ghtml)_
+
