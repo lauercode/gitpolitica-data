@@ -71,3 +71,6 @@
 - **[2017-07-06 11:54 UTC]** Empresa de tecnologia de MS é a 4ª melhor para trabalhar no Centro-Oeste
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/digix/noticia/2017/07/empresa-de-tecnologia-de-ms-e-4-melhor-para-trabalhar-no-centro-oeste.html)_
 
+- **[2018-07-19 22:48 UTC]** População enfrenta medo no centro de Belo Horizonte durante a madrugada
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/minas-gerais/noticia/2018/07/19/populacao-enfrenta-medo-no-centro-de-belo-horizonte-durante-a-madrugada.ghtml)_
+
