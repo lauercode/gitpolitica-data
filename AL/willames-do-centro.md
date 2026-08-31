@@ -89,3 +89,6 @@
 - **[2026-08-28 15:54 UTC]** Laudo deve apontar em 30 dias causa do incêndio no Centro Comercial de Passagem, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/laudo-deve-apontar-em-30-dias-causa-do-incendio-no-centro-comercial-de-passagem-em-joao-pessoa.ghtml)_
 
+- **[2026-08-28 11:41 UTC]** Incêndio deixa quatro lojas do Centro Comercial de Passagem totalmente destruídas, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/incendio-deixa-quatro-lojas-do-centro-comercial-de-passagem-totalmente-destruidas-em-joao-pessoa.ghtml)_
+
