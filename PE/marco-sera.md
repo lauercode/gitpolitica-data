@@ -53,3 +53,6 @@
 - **[2018-07-11 12:59 UTC]** Africano assassinado em bar será sepultado em Uberlândia
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/triangulo-mineiro/noticia/africano-assassinado-em-bar-sera-sepultado-em-uberlandia.ghtml)_
 
+- **[2026-08-27 13:43 UTC]** Eclipse lunar parcial será visível no Paraná nesta quinta (27) e sexta-feira (28); veja os melhores horários
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/27/eclipse-lunar-parcial-visivel-parana.ghtml)_
+
