@@ -11,3 +11,6 @@
 - **[2026-08-27 21:26 UTC]** Paolla Oliveira compartilha perrengues para viver nadadora em novo trabalho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/paolla-oliveira-compartilha-perrengues-para-viver-nadadora-em-novo-trabalho.shtml)_
 
+- **[2018-07-13 14:00 UTC]** Menino de 2 anos morre afogado na piscina de casa um dia após aniversário em MG
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/menino-de-2-anos-morre-afogado-na-piscina-de-casa-um-dia-apos-aniversario-em-mg.ghtml)_
+
