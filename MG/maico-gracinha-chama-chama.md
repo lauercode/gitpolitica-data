@@ -26,3 +26,6 @@
 - **[2017-08-18 21:19 UTC]** Vídeo de nuvem em forma de 'flecha vermelha' viraliza e chama atenção em cidade do interior da Bahia
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/video-de-nuvem-em-forma-de-flecha-vermelha-viraliza-e-chama-atencao-em-cidade-do-interior-da-bahia.ghtml)_
 
+- **[2017-09-09 09:01 UTC]** Cachorro 'motociclista' chama a atenção em via do DF; vídeo
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/cachorro-motociclista-chama-a-atencao-em-via-do-df-video.ghtml)_
+
