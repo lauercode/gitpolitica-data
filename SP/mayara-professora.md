@@ -23,3 +23,6 @@
 - **[2026-08-26 21:59 UTC]** Eleições 2026: Professora Maria do Carmo grava programa eleitoral em Manaus e aponta lixões como desafio ao meio ambiente
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-professora-maria-do-carmo-grava-programa-eleitoral-em-manaus-e-aponta-lixoes-como-desafio-ao-meio-ambiente.ghtml)_
 
+- **[2017-08-10 15:41 UTC]** Aluno e professora da Unifor criam gel para cicatrização em ferimentos
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/aluno-e-professora-da-unifor-criam-gel-para-cicatrizacao-em-ferimentos-2.html)_
+
