@@ -32,3 +32,6 @@
 - **[2017-10-25 23:40 UTC]** Em abrigo, menino encontrado vagando por ruas de Fortaleza pergunta por mãe, que diz chamar-se 'Regina'
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/em-abrigo-menino-encontrado-vagando-por-ruas-de-fortaleza-pergunta-por-mae-que-diz-chamar-se-regina.ghtml)_
 
+- **[2017-09-30 16:22 UTC]** IFCE oferece 670 vagas de cursos técnicos em Fortaleza e Sobral
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/ifce-oferece-670-vagas-de-cursos-tecnicos-em-fortaleza-e-sobral.ghtml)_
+
