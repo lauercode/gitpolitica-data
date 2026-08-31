@@ -20,3 +20,6 @@
 - **[2017-10-24 12:35 UTC]** Cerca de 60 presos diagnosticados com tuberculose no maior presídio de MT são isolados para tratamento
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/cerca-de-60-presos-diagnosticados-com-tuberculose-no-maior-presidio-de-mt-sao-isolados-para-tratamento.ghtml)_
 
+- **[2026-08-28 12:16 UTC]** Fuga de presídio pela porta da frente: policial penal e preso que usou alvará falso são denunciados no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/policial-penal-denunciado-fuga-preso-charqueadas.ghtml)_
+
