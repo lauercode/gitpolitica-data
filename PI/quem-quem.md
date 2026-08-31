@@ -155,3 +155,6 @@
 - **[2026-08-28 17:24 UTC]** Quem é o ‘Rei do Ovo’, que entrou para o top 10 bilionários do Brasil e vendia picolé na praia em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/quem-e-rei-do-ovo-que-entrou-para-top-10-de-bilionarios-brasil.ghtml)_
 
+- **[2026-08-28 11:21 UTC]** Luana Lopes Lara, da Kalshi, é a bilionária mais jovem a construir a própria fortuna; veja quem é
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/economia/noticia/2026/08/28/luana-lopes-lara-da-kalshi-e-a-bilionaria-mais-jovem-do-brasil-a-construir-a-propria-fortuna-veja-quem-e.ghtml)_
+
