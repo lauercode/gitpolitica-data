@@ -62,3 +62,6 @@
 - **[2026-08-26 09:00 UTC]** MPF pede condenação de ex-servidores da Funai e garimpeiros por esquema de propina em ouro na Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/mpf-pede-condenacao-de-ex-servidores-da-funai-e-garimpeiros-por-esquema-de-propina-em-ouro-na-terra-yanomami.ghtml)_
 
+- **[2026-08-25 18:32 UTC]** Galinheiro usado para esconder mais de 100 kg de cocaína e maconha debaixo da terra é descoberto em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/25/galinheiro-esconder-100-kg-cocaina-maconha-descoberto-sc.ghtml)_
+
