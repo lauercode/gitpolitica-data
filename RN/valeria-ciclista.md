@@ -26,3 +26,6 @@
 - **[2026-08-24 15:57 UTC]** Amigos fazem cortejo de bicicleta em homenagem a ciclista atropelada em RO: 'Deixou um legado', diz amigo
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/amigos-fazem-cortejo-de-bicicleta-em-homenagem-a-ciclista-atropelada-em-ro-deixou-um-legado-diz-amigo.ghtml)_
 
+- **[2026-08-23 17:29 UTC]** Motorista com sinais de embriaguez é preso após matar ciclista atropelada em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/23/motorista-e-preso-apos-matar-ciclista-atropelada-em-porto-velho.ghtml)_
+
