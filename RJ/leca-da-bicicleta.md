@@ -14,3 +14,6 @@
 - **[2026-08-25 21:27 UTC]** Homem foragido por romper tornozeleira é localizado em telhado após tentar fugir com bicicleta furtada; VÍDEO
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/25/homem-foragido-romper-tornozeleira-localizado-telhado-bicicleta-video.ghtml)_
 
+- **[2026-08-24 15:57 UTC]** Amigos fazem cortejo de bicicleta em homenagem a ciclista atropelada em RO: 'Deixou um legado', diz amigo
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/amigos-fazem-cortejo-de-bicicleta-em-homenagem-a-ciclista-atropelada-em-ro-deixou-um-legado-diz-amigo.ghtml)_
+
