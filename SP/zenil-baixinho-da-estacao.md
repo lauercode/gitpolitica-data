@@ -20,3 +20,6 @@
 - **[2026-08-30 16:33 UTC]** VÍDEOS: Estação Agrícola, 30 de agosto de 2026
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/edicao/2026/08/30/videos-estacao-agricola-30-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-23 16:25 UTC]** VÍDEOS: Estação Agrícola deste domingo, 23 de agosto
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/edicao/2026/08/23/videos-estacao-agricola-deste-domingo-23-de-agosto.ghtml)_
+
