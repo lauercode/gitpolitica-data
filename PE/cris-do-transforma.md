@@ -14,3 +14,6 @@
 - **[2026-08-31 20:28 UTC]** De migrante a líder comunitária: jornalista venezuelana transforma experiência de recomeço em apoio a famílias no Mauazinho
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/de-migrante-a-lider-comunitaria-jornalista-venezuelana-transforma-experiencia-de-recomeco-em-apoio-a-familias-no-mauazinho.ghtml)_
 
+- **[2026-08-26 21:33 UTC]** BernoTech: tecnologia para todos transforma a experiência em estética em Cacoal
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/tatty-berno-clinica/noticia/2026/08/26/bernotech-tecnologia-para-todos-transforma-a-experiencia-em-estetica-em-cacoal.ghtml)_
+
