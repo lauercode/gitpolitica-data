@@ -29,3 +29,6 @@
 - **[2018-07-11 11:42 UTC]** 'Fizemos por medo do trote', conta caloura de medicina que teve vídeo com perguntas sexuais vazado na internet em MG
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/fizemos-por-medo-do-trote-conta-caloura-de-medicina-que-teve-video-com-perguntas-sexuais-vazado-na-internet-em-mg.ghtml)_
 
+- **[2026-08-29 06:00 UTC]** 'Eu tinha medo por causa da minha filha', diz mulher que usou prontuário de hospital do Paraná para escrever pedido de socorro e denunciar marido
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/29/relato-mulher-que-usou-prontuario-de-hospital-do-parana.ghtml)_
+
