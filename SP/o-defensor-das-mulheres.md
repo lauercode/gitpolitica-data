@@ -68,3 +68,6 @@
 - **[2026-08-22 14:49 UTC]** Plantão que atende mulheres vítimas de violência em Roraima pode colapsar por sobrecarga de trabalho, alerta delegada
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/22/plantao-que-atende-mulheres-vitimas-de-violencia-em-roraima-pode-colapsar-por-sobrecarga-de-trabalho-alerta-delegada.ghtml)_
 
+- **[2018-07-18 09:00 UTC]** Mulheres descobrem talento musical em coral na prisão e tentam refazer a vida fora dela por meio da música
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/olha-que-legal/noticia/2018/07/18/mulheres-descobrem-talento-musical-em-coral-na-prisao-e-tentam-refazer-a-vida-fora-dela-por-meio-da-musica.ghtml)_
+
