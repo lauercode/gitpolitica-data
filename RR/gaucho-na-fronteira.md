@@ -38,3 +38,6 @@
 - **[2026-08-31 14:13 UTC]** Operação entre Brasil e Peru destrói quatro laboratórios clandestinos de drogas na fronteira do Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/operacao-entre-brasil-e-peru-destroi-quatro-laboratorios-clandestinos-de-drogas-na-fronteira-do-amazonas.ghtml)_
 
+- **[2026-08-29 14:41 UTC]** Bois são abandonados sem água e comida na fronteira em Roraima e motorista é multado em R$ 37 mil
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/bois-sao-abandonados-sem-agua-e-comida-na-fronteira-em-roraima-e-motorista-e-multado-em-r-37-mil.ghtml)_
+
