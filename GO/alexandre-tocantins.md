@@ -14,3 +14,6 @@
 - **[2018-07-12 16:21 UTC]** Aeronave que saiu da Bolívia com 300 kg de cocaína é apreendida no Tocantins
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/to/tocantins/noticia/aeronave-com-cocaina-e-apreendida-em-campo-de-pouso-no-interior-do-tocantins.ghtml)_
 
+- **[2018-07-09 22:33 UTC]** Piloto de MT que está desaparecido há 15 dias foi contratado para levar avião para o Tocantins, diz família
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/mt/mato-grosso/noticia/piloto-de-mt-que-esta-desaparecido-ha-15-dias-foi-contratado-para-levar-aviao-para-o-tocantins-diz-familia.ghtml)_
+
