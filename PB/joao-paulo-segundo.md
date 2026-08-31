@@ -125,3 +125,6 @@
 - **[2018-03-07 22:08 UTC]** CNH Social tem 16 mil inscritos no 1º dia, segundo o Detran-ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/cnh-social-tem-16-mil-inscritos-no-1-dia-segundo-o-detran-es.ghtml)_
 
+- **[2017-04-10 18:21 UTC]** PT de Campo Grande tem segundo turno entre grupos de Zeca e Biffi
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/pt-de-campo-grande-tem-segundo-turno-entre-grupos-de-zeca-e-biffi.ghtml)_
+
