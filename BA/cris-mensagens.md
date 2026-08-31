@@ -23,3 +23,6 @@
 - **[2026-08-29 19:42 UTC]** Mistérios e segredos de textos medievais revelados graças à IA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss)_
 
+- **[2017-09-08 10:47 UTC]** Após briga em grupo de mensagens, policial mata vizinho a tiros no DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-briga-em-grupo-de-mensagens-policial-mata-vizinho-a-tiros-no-df.ghtml)_
+
