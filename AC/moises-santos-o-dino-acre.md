@@ -158,3 +158,6 @@
 - **[2026-08-26 00:29 UTC]** g1 Acre e CBN Rio Branco conquistam 1º lugar no Prêmio Sebrae de Jornalismo 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/g1-acre-e-cbn-rio-branco-conquistam-1o-lugar-no-premio-sebrae-de-jornalismo-2026.ghtml)_
 
+- **[2026-08-25 23:38 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 25 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-25-de-agosto-de-2026.ghtml)_
+
