@@ -44,3 +44,6 @@
 - **[2026-08-31 19:35 UTC]** Projeto exige alerta em produtos infantis sobre substâncias que afetam hormônios
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301331-projeto-exige-alerta-em-produtos-infantis-sobre-substancias-que-afetam-hormonios)_
 
+- **[2026-08-31 18:18 UTC]** Projeto responsabiliza governadores e prefeitos por corrupção de subordinados
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301307-projeto-responsabiliza-governadores-e-prefeitos-por-corrupcao-de-subordinados)_
+
