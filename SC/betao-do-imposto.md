@@ -29,3 +29,6 @@
 - **[2026-08-31 04:00 UTC]** Não entrou no último lote do Imposto de Renda 2026? Veja o que fazer
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/nao-entrou-no-ultimo-lote-do-imposto-de-renda-2026-veja-o-que-fazer.shtml)_
 
+- **[2026-08-28 08:55 UTC]** Wilson Grassi propõe Imposto Único Federal de 2% em plano de governo
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/wilson-grassi-propoe-imposto-unico-federal-de-2-em-plano-de-governo)_
+
