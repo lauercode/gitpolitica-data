@@ -38,3 +38,6 @@
 - **[2026-08-31 20:32 UTC]** Renan Calheiros critica JHC e defende mudança no Bolsa Família em primeira sabatina
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/31/renan-calheiros-critica-jhc-e-defende-mudanca-no-bolsa-familia-em-primeira-sabatina.ghtml)_
 
+- **[2026-08-28 20:34 UTC]** Renan Filho aposta em ‘fazer história de novo’ e JHC fala em mudança no primeiro guia eleitoral em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-aposta-em-fazer-historia-de-novo-e-jhc-fala-em-mudanca-no-primeiro-guia-eleitoral-em-al.ghtml)_
+
