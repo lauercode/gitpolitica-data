@@ -47,3 +47,6 @@
 - **[2026-08-17 11:10 UTC]** PM é baleado na cabeça por policial de folga após discussão em Água Preta
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/pe/caruaru-regiao/noticia/2026/08/17/pm-e-baleado-na-cabeca-por-policial-de-folga-apos-discussao-em-agua-preta.ghtml)_
 
+- **[2026-08-17 10:32 UTC]** Manutenção em redes de captação pode deixar conjuntos de Rio Largo e 20 bairros de Maceió sem água
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/17/manutencao-em-redes-de-captacao-pode-deixar-conjuntos-de-rio-largo-e-20-bairros-de-maceio-sem-agua.ghtml)_
+
