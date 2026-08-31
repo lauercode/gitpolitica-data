@@ -62,3 +62,6 @@
 - **[2026-08-24 22:39 UTC]** Carro fecha motociclista na avenida Carlos Pereira de Melo e causa acidente em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/carro-fecha-motociclista-na-avenida-carlos-pereira-de-melo-e-causa-acidente-em-boa-vista.ghtml)_
 
+- **[2026-08-31 17:48 UTC]** Mulher é suspeita de andar na contramão por 2 km, bater em moto e fugir do hospital em SC; motociclista morreu
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-contramao-2-km-bate-moto-sc-401-foge-hospital-motociclista-morreu.ghtml)_
+
