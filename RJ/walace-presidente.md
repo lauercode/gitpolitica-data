@@ -242,3 +242,6 @@
 - **[2026-08-30 21:41 UTC]** Acidente deixa três pessoas mortas na BR-135 em Presidente Dutra, no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/30/acidente-deixa-tres-pessoas-mortas-na-br-135-em-presidente-dutra-no-ma.ghtml)_
 
+- **[2017-04-09 16:01 UTC]** Mattogrosso é eleito presidente do PSDB em Campo Grande
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/2017/04/mattogrosso-e-eleito-presidente-do-psdb-em-campo-grande.html)_
+
