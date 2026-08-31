@@ -113,3 +113,6 @@
 - **[2026-08-27 22:39 UTC]** Eleições 2026 em SC: Marcelo Brigadeiro conversa com eleitores no Centro de Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-em-sc-marcelo-brigadeiro-conversa-com-eleitores-no-centro-de-florianopolis.ghtml)_
 
+- **[2026-08-27 10:29 UTC]** Ex-apresentadora do Globo Esporte que morreu em SC idealizou centro especializado em autismo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/ex-apresentadora-globo-esporte-tocantins-idealizou-centro-especializado-autismo.ghtml)_
+
