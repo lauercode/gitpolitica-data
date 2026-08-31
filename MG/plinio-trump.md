@@ -74,3 +74,6 @@
 - **[2026-08-31 15:11 UTC]** Kalshi multa e bane George Santos por apostar na própria ausência em discurso de Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/kalshi-multa-e-bane-george-santos-por-aposta-em-discurso-de-trump.shtml)_
 
+- **[2026-08-31 14:52 UTC]** Carne bovina americana terá preferência em prisões, hospitais e escolas; veja medidas do pacote de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/carne-bovina-americana-tera-preferencia-em-prisoes-hospitais-e-escolas-veja-medidas-do-pacote-de-trump.shtml)_
+
