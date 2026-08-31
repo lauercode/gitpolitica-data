@@ -122,3 +122,6 @@
 - **[2026-08-27 20:45 UTC]** Acidentes graves deixam dois mortos e cinco feridos no sudeste do Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/acidentes-graves-deixam-dois-mortos-e-cinco-feridos-no-sudeste-do-para.ghtml)_
 
+- **[2026-08-31 10:05 UTC]** Jovem morre e dois irmãos ficam feridos após carro colidir com carreta parada em acostamento, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/jovem-morre-e-dois-irmaos-ficam-feridos-apos-carro-colidir-com-carreta-parada-em-acostamento-em-joao-pessoa.ghtml)_
+
