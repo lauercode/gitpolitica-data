@@ -107,3 +107,6 @@
 - **[2026-08-31 17:48 UTC]** Mulher é suspeita de andar na contramão por 2 km, bater em moto e fugir do hospital em SC; motociclista morreu
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-contramao-2-km-bate-moto-sc-401-foge-hospital-motociclista-morreu.ghtml)_
 
+- **[2026-08-27 10:29 UTC]** Ex-apresentadora do Globo Esporte que morreu em SC idealizou centro especializado em autismo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/ex-apresentadora-globo-esporte-tocantins-idealizou-centro-especializado-autismo.ghtml)_
+
