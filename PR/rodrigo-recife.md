@@ -11,3 +11,6 @@
 - **[2018-07-21 19:34 UTC]** Banda Sinfônica do Recife faz dois concertos no Teatro de Santa Isabel
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/musica/noticia/2018/07/21/banda-sinfonica-do-recife-faz-dois-concertos-no-teatro-de-santa-isabel.ghtml)_
 
+- **[2018-07-21 13:26 UTC]** Jaqueira tem mudanças na circulação de veículos e altera linhas de ônibus, no Recife
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/2018/07/21/jaqueira-tem-mudancas-na-circulacao-de-veiculos-e-altera-linhas-de-onibus-no-recife.ghtml)_
+
