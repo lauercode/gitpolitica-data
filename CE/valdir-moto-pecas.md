@@ -11,3 +11,6 @@
 - **[2026-08-27 12:38 UTC]** Peças encontradas em obra de rodovia do Paraná podem fazer parte da história do Ciclo do Café e chegada de imigrantes na região
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/27/detalhes-pecas-obras-rodovia-parana.ghtml)_
 
+- **[2026-08-22 12:23 UTC]** PM prende quatro suspeitos de furtar 251 peças de roupas de shopping em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/22/pm-prende-quatro-suspeitos-de-furtar-251-pecas-de-roupas-de-shopping-em-natal.ghtml)_
+
