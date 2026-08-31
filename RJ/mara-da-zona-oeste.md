@@ -17,3 +17,6 @@
 - **[2026-08-30 11:00 UTC]** Interior ganha impulso com agro, e produtividade do Brasil muda de endereço
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/agro-impulsiona-interior-e-faz-produtividade-do-brasil-mudar-de-endereco.shtml)_
 
+- **[2018-07-12 20:59 UTC]** ES entra na Justiça para barrar investimento em ferrovia no Centro-Oeste
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/es-entra-na-justica-para-barrar-investimento-em-ferrovia-no-centro-oeste.ghtml)_
+
