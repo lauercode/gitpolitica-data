@@ -117,3 +117,6 @@ direcionado às necessidades de cada pessoa
 - **[2017-04-02 20:33 UTC]** Bombeiros procuram por pessoa que se afogou em lago de Nerópolis, GO
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/bombeiros-procuram-por-pessoa-que-se-afogou-em-lago-de-neropolis-go.html)_
 
+- **[2018-07-17 14:15 UTC]** Caminhões batem de frente em MS e uma pessoa fica presa às ferragens
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/caminhoes-batem-de-frente-em-ms-e-pelo-menos-uma-pessoa-fica-presa-as-ferragens.ghtml)_
+
