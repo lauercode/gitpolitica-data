@@ -104,3 +104,6 @@
 - **[2026-08-30 16:21 UTC]** 'Fui sequestrada pela Coreia do Norte e forçada a casar com um soldado americano'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zwzrlprjo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-31 15:45 UTC]** Alan Rick promete melhorias em mobilidade urbana durante caminhada no Segundo Distrito de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/alan-rick-promete-melhorias-em-mobilidade-urbana-durante-caminhada-no-segundo-distrito-de-rio-branco.ghtml)_
+
