@@ -14,3 +14,6 @@
 - **[2026-08-30 16:29 UTC]** Ciclista é assaltado em rua do Jardim Oceania, em João Pessoa; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/30/ciclista-e-assaltado-em-rua-do-jardim-oceania-em-joao-pessoa-video.ghtml)_
 
+- **[2026-08-30 12:02 UTC]** Ciclista morre após ser atropelado enquanto tentava atravessar via na faixa de pedestres, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/30/ciclista-morre-apos-ser-atropelado-enquanto-tentava-atravessar-via-na-faixa-de-pedestres-em-joao-pessoa.ghtml)_
+
