@@ -38,3 +38,6 @@
 - **[2026-08-31 15:13 UTC]** Comissão debate uso de tecnologias no combate à violência contra mulheres; participe
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301225-comissao-debate-uso-de-tecnologias-no-combate-a-violencia-contra-mulheres-participe)_
 
+- **[2026-08-26 20:51 UTC]** Eleições 2026: mulheres representam 52,8% do eleitorado e número de votantes idosos cresce
+  _fonte: [Agência Câmara - Eleições](https://www.camara.leg.br/noticias/1300505-eleicoes-2026-mulheres-representam-528-do-eleitorado-e-numero-de-votantes-idosos-cresce)_
+
