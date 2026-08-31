@@ -107,3 +107,6 @@
 - **[2026-08-31 15:40 UTC]** Quem foi a astrônoma Nancy Grace Roman, que dá nome a novo telescópio da Nasa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/quem-foi-a-astronoma-nancy-grace-roman-que-da-nome-a-novo-telescopio-da-nasa.shtml)_
 
+- **[2026-08-31 17:14 UTC]** Augusto Cury chega a 3º lugar: quem está à frente na intenção de voto para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
