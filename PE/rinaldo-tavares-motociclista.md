@@ -53,3 +53,6 @@
 - **[2017-04-09 12:44 UTC]** Em MS, motociclista de 35 anos perde controle do veículo, cai e morre
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/2017/04/em-ms-motociclista-de-35-anos-perde-controle-do-veiculo-cai-e-morre.html)_
 
+- **[2026-08-29 13:52 UTC]** Motociclista morre atropelado por 'carreta da alegria' após perder controle da direção e cair na pista em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/29/motociclista-morre-atropelado-por-carreta-da-alegria-em-ro.ghtml)_
+
