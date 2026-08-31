@@ -23,3 +23,6 @@
 - **[2026-08-30 11:08 UTC]** O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/o-plano-bilionario-da-china-para-fazer-uma-nova-revolucao-industrial-com-milhoes-de-robos.shtml)_
 
+- **[2018-07-10 16:44 UTC]** Menino que perdeu a mãe, o pai e os irmãos em acidente na BR-080 segue  internado e ainda não sabe sobre mortes, diz tia
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/menino-que-perdeu-a-mae-o-pai-e-os-irmaos-em-acidente-na-br-080-segue-internado-e-ainda-nao-sabe-sobre-mortes-diz-tia.ghtml)_
+
