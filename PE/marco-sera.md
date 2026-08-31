@@ -59,3 +59,6 @@
 - **[2018-05-15 11:09 UTC]** Depois de quatro meses da inauguração, unidade de saúde será entregue aos moradores de Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/depois-de-quatro-meses-da-inauguracao-unidade-de-saude-sera-entregue-aos-moradores-de-fernando-de-noronha.html)_
 
+- **[2018-05-05 07:53 UTC]** “Meu Malvado Favorito” será exibido na reabertura do Cine Mabuya, em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/meu-malvado-favorito-sera-exibido-na-reabertura-do-cine-mabuya-em-fernando-de-noronha.html)_
+
