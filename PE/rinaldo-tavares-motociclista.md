@@ -20,3 +20,6 @@
 - **[2026-08-28 14:42 UTC]** Servidor da SSP é afastado após bater caminhonete descaracterizada em motociclista que morreu em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/servidor-da-ssp-e-afastado-apos-bater-caminhonete-descaracterizada-em-motociclista-que-morreu-em-manaus.ghtml)_
 
+- **[2026-08-28 11:55 UTC]** Servidor da SSP avança sinal vermelho com caminhonete descaracterizada e bate em motociclista que morre em Manaus; VÍDEO
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/caminhonete-avanca-sinal-vermelho-e-bate-em-motociclista-que-morre-em-manaus-video.ghtml)_
+
