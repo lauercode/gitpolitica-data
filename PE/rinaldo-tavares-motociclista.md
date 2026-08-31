@@ -56,3 +56,6 @@
 - **[2026-08-29 13:52 UTC]** Motociclista morre atropelado por 'carreta da alegria' após perder controle da direção e cair na pista em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/29/motociclista-morre-atropelado-por-carreta-da-alegria-em-ro.ghtml)_
 
+- **[2026-08-25 13:54 UTC]** Motociclista fica ferido após ser atingido por carro em Rorainópolis
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/25/motociclista-fica-ferido-apos-ser-atingido-por-carro-em-rorainopolis.ghtml)_
+
