@@ -44,3 +44,6 @@
 - **[2026-08-29 10:50 UTC]** Bombeiro de Sergipe sofre queda e morre durante curso de operações em árvores em BH
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/mg/minas-gerais/noticia/2026/08/29/bombeiro-sergipe-queda-morre-curso-bh.ghtml)_
 
+- **[2026-08-26 20:02 UTC]** IFS abre 500 vagas para curso gratuito de aperfeiçoamento em relações étnico-raciais e quilombolas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/ifs-abre-500-vagas-para-curso-gratuito-de-aperfeicoamento-em-relacoes-etnico-raciais-e-quilombolas.ghtml)_
+
