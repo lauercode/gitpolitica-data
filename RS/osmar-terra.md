@@ -65,3 +65,6 @@
 - **[2026-08-25 18:32 UTC]** Galinheiro usado para esconder mais de 100 kg de cocaína e maconha debaixo da terra é descoberto em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/25/galinheiro-esconder-100-kg-cocaina-maconha-descoberto-sc.ghtml)_
 
+- **[2026-08-21 22:07 UTC]** Tremor de terra é registrado no interior de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/tremor-de-terra-e-registrado-no-interior-de-sergipe.ghtml)_
+
