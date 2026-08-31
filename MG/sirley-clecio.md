@@ -41,3 +41,6 @@
 - **[2026-08-22 22:42 UTC]** Clécio Luís realiza caminhada em Santana e visita espaços públicos
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/22/clecio-luis-realiza-caminhada-em-santana-e-visita-espacos-publicos.ghtml)_
 
+- **[2026-08-21 23:32 UTC]** Clécio Luís faz gravações e participa de bandeirada em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/21/clecio-luis-faz-gravacoes-e-participa-de-bandeirada-em-macapa.ghtml)_
+
