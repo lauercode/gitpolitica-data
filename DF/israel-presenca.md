@@ -11,3 +11,6 @@
 - **[2026-08-29 23:00 UTC]** Esclerose múltipla também afeta crianças; diagnóstico e tratamento precoces levam a maior controle da doença
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/esclerose-multipla-tambem-afeta-criancas-diagnostico-e-tratamento-precoces-levam-a-maior-controle-da-doenca.shtml)_
 
+- **[2026-08-31 19:50 UTC]** Drogaria Bom Preço completa 10 anos e consolida presença em bairros de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/drogarias-bom-preco/noticia/2026/08/31/drogaria-bom-preco-completa-10-anos-e-consolida-presenca-em-bairros-de-manaus.ghtml)_
+
