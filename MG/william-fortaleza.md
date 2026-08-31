@@ -56,3 +56,6 @@
 - **[2017-08-05 22:00 UTC]** Médico é preso após atropelar e matar policial militar em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/medico-e-preso-apos-atropelar-e-matar-policial-militar-em-fortaleza.ghtml)_
 
+- **[2017-08-02 13:11 UTC]** Congresso de Radiodifusão Norte-Nordeste ocorre em setembro em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/08/congresso-de-radiodifusao-norte-nordeste-ocorre-em-setembro-em-fortaleza.html)_
+
