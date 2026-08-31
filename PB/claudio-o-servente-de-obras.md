@@ -50,3 +50,6 @@
 - **[2026-08-26 12:29 UTC]** Ponte sobre o Rio Maguari tem obras concluídas, mas segue sem liberação em Ananindeua
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/ponte-sobre-o-rio-maguari-tem-obras-concluidas-mas-segue-sem-liberacao-em-ananindeua.ghtml)_
 
+- **[2018-07-07 20:34 UTC]** Votação do público avalia obras de arte popular e religiosa na Fenearte
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/votacao-do-publico-avalia-obras-de-arte-popular-e-religiosa-na-fenearte.ghtml)_
+
