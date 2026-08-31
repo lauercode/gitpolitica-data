@@ -23,3 +23,6 @@
 - **[2017-04-03 06:12 UTC]** Exames de DNA confirmam troca de bebês em maternidade há 32 anos
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/exames-de-dna-confirmam-troca-de-bebes-em-maternidade-ha-32-anos.html)_
 
+- **[2018-07-10 11:58 UTC]** Três suspeitos de roubos em Corumbá são mortos em troca de tiros com a PM
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/corumba-e-regiao/noticia/tres-suspeitos-de-roubos-em-corumba-sao-mortos-em-troca-de-tiros-com-a-pm.ghtml)_
+
