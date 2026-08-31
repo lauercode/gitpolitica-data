@@ -20,3 +20,6 @@
 - **[2018-07-21 12:20 UTC]** Faculdade Senac oferece minicursos gratuitos no Recife
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/2018/07/21/faculdade-senac-oferece-minicursos-gratuitos-no-recife.ghtml)_
 
+- **[2018-07-20 20:34 UTC]** Poda de árvores causa interdição de rua e muda itinerário de ônibus no Recife
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/2018/07/20/poda-de-arvores-causa-interdicao-de-rua-e-muda-itinerario-de-onibus-no-recife.ghtml)_
+
