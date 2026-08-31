@@ -44,3 +44,6 @@
 - **[2017-09-08 10:47 UTC]** Após briga em grupo de mensagens, policial mata vizinho a tiros no DF
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-briga-em-grupo-de-mensagens-policial-mata-vizinho-a-tiros-no-df.ghtml)_
 
+- **[2017-04-02 10:50 UTC]** Avião cai e mata duas pessoas na pista do aeroporto de Aragarças, GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/aviao-cai-e-mata-duas-pessoas-na-pista-do-aeroporto-de-aragarcas-go.html)_
+
