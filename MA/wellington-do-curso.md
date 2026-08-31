@@ -17,3 +17,6 @@
 - **[2018-03-06 14:40 UTC]** Senac/CE está com inscrições abertas para curso de chocolates e ovos para a páscoa
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/sistema-fecomercio/radar-do-comercio/noticia/senacce-esta-com-inscricoes-abertas-para-curso-de-chocolates-e-ovos-para-a-pascoa.ghtml)_
 
+- **[2017-08-02 12:34 UTC]** Curso de Jornalismo da Unifor lança 22ª edição da revista A Ponte
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/08/curso-de-jornalismo-da-unifor-lanca-22-edicao-da-revista-ponte.html)_
+
