@@ -56,3 +56,6 @@
 - **[2018-07-16 15:43 UTC]** Professora do ES morreu com a filha nos braços em acidente no MS
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/professora-do-es-morreu-com-a-filha-nos-bracos-em-acidente-no-ms.ghtml)_
 
+- **[2018-07-14 13:42 UTC]** Casal capixaba que morreu na BR-060 passava férias no Mato Grosso do Sul
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/casal-capixaba-que-morreu-na-br-060-passava-ferias-no-mato-grosso-do-sul.ghtml)_
+
