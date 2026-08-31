@@ -527,3 +527,6 @@
 - **[2026-08-31 13:16 UTC]** Candidata ao Senado em RO, Mariana Carvalho defende anistia a Bolsonaro: 'Condenação passou dos limites'
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/31/candidata-ao-senado-mariana-carvalho-e-entrevistada-no-bom-dia-rondonia.ghtml)_
 
+- **[2026-08-25 23:01 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 32%; Ronaldo Caiado, 7%; Renan Santos; 3%
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-presidente-25-agosto.ghtml)_
+
