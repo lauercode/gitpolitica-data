@@ -17,3 +17,6 @@
 - **[2018-07-11 17:21 UTC]** Resultado final do concurso do Conselho Regional de Odontologia de MT é divulgado
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mt/mato-grosso/concursos-e-emprego/noticia/resultado-final-do-concurso-do-conselho-regional-de-odontologia-de-mt-e-divulgado.ghtml)_
 
+- **[2017-08-03 15:43 UTC]** Com 5 meses de atraso nos repasses da saúde, governo de MS deve R$ 21 milhões a Campo Grande, denuncia conselho
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/com-5-meses-de-atraso-nos-repasses-da-saude-governo-de-ms-deve-r-21-milhoes-a-campo-grande-denuncia-conselho.ghtml)_
+
