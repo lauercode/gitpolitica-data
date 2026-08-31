@@ -101,3 +101,6 @@
 - **[2026-08-29 11:33 UTC]** Menino que morreu após árvore cair sobre casa é velado em Porto Alegre: 'Comprei pra botar no caixão', diz mãe sobre tênis
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/corpo-menino-morto-arvore-velado-porto-alegre.ghtml)_
 
+- **[2026-08-28 13:17 UTC]** 'Mãe maravilhosa' e 'de atitude', diz apresentadora de TV sobre irmã gêmea que morreu aos 49 anos
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/mae-atitude-apresentadora-irma-morreu.ghtml)_
+
