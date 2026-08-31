@@ -14,3 +14,6 @@
 - **[2017-06-03 19:23 UTC]** Mulher acorda com estranho no quarto e denuncia vizinho por invasão de apartamento em MS
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/mulher-acorda-com-estranho-no-quarto-e-denuncia-vizinho-por-invasao-de-apartamento-em-ms.ghtml)_
 
+- **[2026-08-31 03:00 UTC]** Jovem sob tortura de colegas no Paraná tentou acessar apartamento vizinho pela sacada antes de cair do 14º andar e morrer, detalha delegado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/31/jovem-tortura-parana-tentou-acessar-apartamento-vizinho.ghtml)_
+
