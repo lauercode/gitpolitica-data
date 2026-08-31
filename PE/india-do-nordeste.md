@@ -35,3 +35,6 @@
 - **[2026-08-28 23:42 UTC]** Paraíba chega a 4,1 milhões de habitantes e lidera crescimento populacional no Nordeste em 2026
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/paraiba-chega-a-41-milhoes-de-habitantes-e-lidera-crescimento-populacional-no-nordeste-2026.ghtml)_
 
+- **[2026-08-27 19:25 UTC]** Palmas é o 1º município das regiões Norte e Nordeste no top-15 nacional em ranking de competitividade
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/palmas-e-o-1o-municipio-das-regioes-norte-e-nordeste-no-top-15-nacional-em-ranking-de-competitividade.ghtml)_
+
