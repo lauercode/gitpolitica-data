@@ -80,3 +80,6 @@
 - **[2026-08-31 17:40 UTC]** Parada programada da Caema afeta abastecimento de água em bairros de São Luís nesta terça-feira (1º)
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/31/parada-programada-da-caema-afeta-abastecimento-de-agua-em-bairros-de-sao-luis-nesta-terca-feira-1o.ghtml)_
 
+- **[2018-07-07 16:58 UTC]** Com investimentos de R$ 675 milhões fábrica de MDF, em Água Clara, chega para 'brigar' com gigantes do setor
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/com-investimentos-de-r-675-milhoes-fabrica-de-mdf-em-agua-clara-chega-para-brigar-com-gigantes-do-setor.ghtml)_
+
