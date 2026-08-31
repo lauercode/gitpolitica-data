@@ -62,3 +62,6 @@
 - **[2017-07-28 14:46 UTC]** Exposição itinerante chega a Fortaleza e revela as diferentes técnicas e temáticas abordadas
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/07/exposicao-itinerante-chega-fortaleza-e-revela-diferentes-tecnicas-e-tematicas-abordadas.html)_
 
+- **[2017-07-27 16:53 UTC]** Manifestantes fazem protesto em frente à residência do senador Eunício em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/manifestantes-fazem-protesto-em-frente-a-residencia-do-senador-eunicio-em-fortaleza.ghtml)_
+
