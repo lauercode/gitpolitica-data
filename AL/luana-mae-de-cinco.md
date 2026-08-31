@@ -95,3 +95,6 @@
 - **[2026-08-27 08:03 UTC]** Paciente de CAPS estava com três de cinco crânios retirados de sepulturas no RS, aponta investigação
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/27/paciente-caps-cranios-retirados-sepulturas-rs-investigacao.ghtml)_
 
+- **[2026-08-26 11:32 UTC]** Polícia Civil faz operação em cinco estados contra chefes de quadrilha com forte atuação no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/operacao-policia-civil-faccao-rs-cinco-estados.ghtml)_
+
