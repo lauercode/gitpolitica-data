@@ -20,3 +20,6 @@
 - **[2018-07-20 15:53 UTC]** Morador de zona rural pedala 16 km para tratamento de hemodiálise em MG
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/2018/07/20/morador-de-zona-rural-pedala-16-km-para-tratamento-de-hemodialise-em-mg.ghtml)_
 
+- **[2026-08-25 15:22 UTC]** Incêndio atinge duas casas em comunidade quilombola na zona rural de Moju, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/25/incendio-atinge-duas-casas-em-comunidade-quilombola-na-zona-rural-de-moju-no-para.ghtml)_
+
