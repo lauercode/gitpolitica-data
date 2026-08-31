@@ -95,3 +95,6 @@
 - **[2026-08-29 00:32 UTC]** VÍDEO: Caixa d'água despenca de prédio abandonado e fica suspensa em fios no Centro de Porto Alegre após ventania
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/video-caixa-dagua-despenca-predio-abandonado-fios-centro-porto-alegre-ventania.ghtml)_
 
+- **[2026-08-29 14:41 UTC]** Bois são abandonados sem água e comida na fronteira em Roraima e motorista é multado em R$ 37 mil
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/bois-sao-abandonados-sem-agua-e-comida-na-fronteira-em-roraima-e-motorista-e-multado-em-r-37-mil.ghtml)_
+
