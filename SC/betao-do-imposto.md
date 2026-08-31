@@ -38,3 +38,6 @@
 - **[2026-08-31 17:35 UTC]** Restituição do Imposto de Renda: Receita libera R$ 18,7 milhões em Alagoas
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/31/restituicao-do-ir-receita-libera-r-187-milhoes-em-alagoas.ghtml)_
 
+- **[2026-08-26 17:32 UTC]** Imposto de Renda 2026: 4º lote de restituição vai pagar R$ 4,4 milhões no AP; saiba como receber
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/26/imposto-de-renda-2026-4o-lote-de-restituicao-vai-pagar-r-44-milhoes-no-ap-saiba-como-receber.ghtml)_
+
