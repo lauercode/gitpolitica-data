@@ -89,3 +89,6 @@
 - **[2018-04-30 17:36 UTC]** Fernanda Freitas participa de “ação do bem” em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/fernanda-freitas-participa-de-acao-do-bem-em-fernando-de-noronha.html)_
 
+- **[2018-04-30 12:13 UTC]** Voluntários vão construir casas para moradores carentes de Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/voluntarios-vao-construir-casas-para-moradores-carentes-de-fernando-de-noronha.html)_
+
