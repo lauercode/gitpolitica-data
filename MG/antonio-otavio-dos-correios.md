@@ -26,3 +26,6 @@
 - **[2018-07-11 19:50 UTC]** Suspeita de comandar roubos aos Correios no ES é presa em Domingos Martins
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/suspeita-de-comandar-roubos-aos-correios-no-es-e-presa-em-domingos-martins.ghtml)_
 
+- **[2017-11-13 16:46 UTC]** Cartinhas do Natal dos Correios já podem ser adotadas em agências e pela internet
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/cartinhas-do-natal-dos-correios-ja-podem-ser-adotadas-em-agencias-e-pela-internet.ghtml)_
+
