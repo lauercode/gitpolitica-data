@@ -26,3 +26,6 @@
 - **[2017-10-29 22:21 UTC]** Motociclista e pedestre morrem após atropelamento em frente ao Palácio do Planalto
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/motociclista-e-pedestre-morrem-apos-atropelamento-em-frente-ao-palacio-do-planalto.ghtml)_
 
+- **[2017-09-09 09:01 UTC]** Cachorro 'motociclista' chama a atenção em via do DF; vídeo
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/cachorro-motociclista-chama-a-atencao-em-via-do-df-video.ghtml)_
+
