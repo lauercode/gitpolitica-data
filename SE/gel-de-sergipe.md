@@ -44,3 +44,6 @@
 - **[2026-08-27 10:05 UTC]** Condenado a 17 anos de prisão por tentativa de feminicídio se entrega à polícia em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/27/condenado-a-17-anos-de-prisao-por-tentativa-de-feminicidio-se-entrega-a-policia.ghtml)_
 
+- **[2026-08-26 15:16 UTC]** Um mês após ser condenado a 17 anos por tentativa de feminicídio, homem é solto em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/um-mes-apos-ser-condenado-a-17-anos-por-tentativa-de-feminicidio-homem-e-solto-em-sergipe.ghtml)_
+
