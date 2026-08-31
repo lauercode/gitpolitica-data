@@ -83,3 +83,6 @@
 - **[2026-08-31 20:05 UTC]** Por que Renan Santos teve campanha à Presidência suspensa pelo TSE; especialistas veem excesso em decisão de Dias Toffoli
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zq49q2nzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-31 20:20 UTC]** Renan Santos 'não é charlatão', diz The Economist sobre candidato e 'sua visão ousada' para o Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckgx0m38jkzo?at_medium=RSS&at_campaign=rss)_
+
