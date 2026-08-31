@@ -14,3 +14,6 @@
 - **[2026-08-29 00:06 UTC]** No 1º guia eleitoral do AP, Dr. Furlan destaca obras na capital e Clécio Luís aposta em histórias de eleitores
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/28/no-1o-guia-eleitoral-do-ap-dr-furlan-destaca-gestao-na-capital-e-clecio-luis-aposta-em-historias-de-eleitores.ghtml)_
 
+- **[2026-08-28 21:01 UTC]** Dr. Furlan participa de carreata e caminhada em Santana
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/28/dr-furlan-participa-de-carreata-e-caminhada-em-santana.ghtml)_
+
