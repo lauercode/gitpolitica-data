@@ -44,3 +44,6 @@
 - **[2017-08-29 10:57 UTC]** Ação da PF combate grupo suspeito de comprar drogas de traficante brasileiro preso no Paraguai
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/acao-da-pf-combate-grupo-suspeito-de-comprar-drogas-de-traficante-brasileiro-preso-no-paraguai.ghtml)_
 
+- **[2026-08-28 13:54 UTC]** Dia de combate ao escalpelamento tem programação em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/dia-de-combate-ao-escalpelamento-tem-programacao-na-grande-belem.ghtml)_
+
