@@ -26,3 +26,6 @@
 - **[2026-08-28 10:52 UTC]** Justiça barra imposto de 12% sobre petróleo, mas governo anuncia prorrogação horas depois
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/justica-barra-imposto-de-12-mas-governo-anuncia-prorrogacao-horas-depois/)_
 
+- **[2026-08-31 04:00 UTC]** Não entrou no último lote do Imposto de Renda 2026? Veja o que fazer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/nao-entrou-no-ultimo-lote-do-imposto-de-renda-2026-veja-o-que-fazer.shtml)_
+
