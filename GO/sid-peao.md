@@ -20,3 +20,6 @@
 - **[2018-07-10 16:46 UTC]** 'Morreu fazendo o que mais gosta', diz amigo de peão morto pisoteado durante rodeio em MS
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/morreu-fazendo-o-que-mais-gosta-diz-amigo-de-peao-morto-pisoteado-durante-rodeio-em-ms.ghtml)_
 
+- **[2018-07-09 22:34 UTC]** Peão pisoteado por touro em rodeio morreu após parada cardiorrespiratória, diz bombeiro
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/peao-pisoteado-por-touro-em-rodeio-morreu-apos-parada-cardiorrespiratoria-diz-bombeiro.ghtml)_
+
