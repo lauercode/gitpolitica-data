@@ -80,3 +80,6 @@
 - **[2018-07-21 16:12 UTC]** Polícia investiga se recém-nascida foi levada à força de MG para MT ou doada pela mãe
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mt/mato-grosso/noticia/2018/07/21/policia-investiga-se-recem-nascida-foi-raptada-em-mg-e-levada-para-mt-ou-doada-pela-mae.ghtml)_
 
+- **[2026-08-31 14:27 UTC]** Plano Safra transforma investimentos em força para a produção de arroz
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/08/31/plano-safra-transforma-investimentos-em-forca-para-a-producao-de-arroz.ghtml)_
+
