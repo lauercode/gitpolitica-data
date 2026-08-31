@@ -23,3 +23,6 @@
 - **[2026-08-31 15:13 UTC]** Comissão debate uso de tecnologias no combate à violência contra mulheres; participe
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301225-comissao-debate-uso-de-tecnologias-no-combate-a-violencia-contra-mulheres-participe)_
 
+- **[2026-08-21 14:33 UTC]** Amapá reforça combate a queimadas com operação especial durante período de estiagem
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/21/amapa-reforca-combate-a-queimadas-com-operacao-especial-durante-periodo-de-estiagem.ghtml)_
+
