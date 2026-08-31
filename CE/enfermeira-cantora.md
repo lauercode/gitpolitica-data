@@ -26,3 +26,6 @@
 - **[2026-08-29 20:11 UTC]** Zélia Duncan relembra afastamento de Rita Lee: 'Tristeza que vou levar pra sempre'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/08/zelia-duncan-relembra-afastamento-de-rita-lee-tristeza-que-vou-levar-pra-sempre.shtml)_
 
+- **[2018-07-10 16:28 UTC]** Claudia Leitte lança canção inédita no dia em que completa 38 anos; cantora fez produção musical do novo single
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/musica/noticia/claudia-leitte-lanca-cancao-inedita-no-do-dia-em-que-completa-38-anos-cantora-fez-producao-musical-do-novo-single.ghtml)_
+
