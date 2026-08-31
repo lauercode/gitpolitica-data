@@ -29,3 +29,6 @@
 - **[2026-08-31 14:19 UTC]** Governo de SP cria sistema para monitorar obras, plano de metas e emendas parlamentares
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-de-sp-cria-sistema-para-monitorar-obras-plano-de-metas-e-emendas-parlamentares.shtml)_
 
+- **[2026-08-28 00:42 UTC]** Prolongamento de ponte sobre o Rio Tarauacá é concluído após 6 anos de obras no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/prolongamento-de-ponte-sobre-o-rio-tarauaca-e-concluido-apos-6-anos-de-obras-no-acre.ghtml)_
+
