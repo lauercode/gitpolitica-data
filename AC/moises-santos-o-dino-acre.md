@@ -47,3 +47,6 @@
 - **[2026-08-31 14:32 UTC]** Homens são agredidos por PMs em feira no interior do Acre; VÍDEO mostra momento
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/homens-sao-agredidos-por-pms-em-feira-no-interior-do-acre-video-mostra-momento.ghtml)_
 
+- **[2026-08-31 13:00 UTC]** Três em cada 10 mulheres do Acre reconhecem ter vivido violência doméstica, aponta pesquisa
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/tres-em-cada-10-mulheres-do-acre-reconhecem-ter-vivido-violencia-domestica-aponta-pesquisa.ghtml)_
+
