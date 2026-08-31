@@ -17,3 +17,6 @@
 - **[2026-08-30 12:02 UTC]** Ciclista morre após ser atropelado enquanto tentava atravessar via na faixa de pedestres, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/30/ciclista-morre-apos-ser-atropelado-enquanto-tentava-atravessar-via-na-faixa-de-pedestres-em-joao-pessoa.ghtml)_
 
+- **[2026-08-28 19:35 UTC]** Motorista que atropelou e matou ciclista em Porto Velho é indiciado por seis crimes
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/28/motorista-que-atropelou-e-matou-ciclista-em-porto-velho-e-indiciado-por-seis-crimes.ghtml)_
+
