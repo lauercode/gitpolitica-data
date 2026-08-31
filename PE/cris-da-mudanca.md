@@ -41,3 +41,6 @@
 - **[2026-08-28 20:34 UTC]** Renan Filho aposta em ‘fazer história de novo’ e JHC fala em mudança no primeiro guia eleitoral em AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-aposta-em-fazer-historia-de-novo-e-jhc-fala-em-mudanca-no-primeiro-guia-eleitoral-em-al.ghtml)_
 
+- **[2026-08-29 00:55 UTC]** Mudança, trajetória e promessas: como foi 1° dia de propaganda eleitoral na TV dos candidatos ao governo do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/mudanca-trajetoria-e-promessas-como-foi-1-dia-de-propaganda-eleitoral-na-tv-dos-candidatos-ao-governo-do-am.ghtml)_
+
