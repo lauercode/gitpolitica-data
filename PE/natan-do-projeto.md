@@ -71,3 +71,6 @@
 - **[2017-08-29 10:36 UTC]** Universidade lança projeto para orientar alunos do ensino médio
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/universidade-lanca-projeto-para-orientar-alunos-do-ensino-medio.html)_
 
+- **[2017-07-31 10:51 UTC]** Projeto Recitais de Piano traz concerto de Diogo Monzo em agosto
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/07/recitais-de-piano-traz-concerto-de-diogo-monzo-em-agosto.html)_
+
