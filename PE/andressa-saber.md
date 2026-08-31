@@ -32,3 +32,6 @@
 - **[2017-07-12 18:29 UTC]** Neurologista reforça importância de saber prevenir o AVC e controlar fatores de risco
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/neurologista-reforca-importancia-de-saber-prevenir-o-avc-e-controlar-fatores-de-risco-.html)_
 
+- **[2026-08-31 21:09 UTC]** 'Quase perdi a boca': mulher tem necrose após receber PMMA sem saber em SC; empresária é condenada
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-necrose-pmma-sem-saber-sc-empresaria-condenada.ghtml)_
+
