@@ -11,3 +11,6 @@
 - **[2026-08-28 19:47 UTC]** Cícero Lucena defende interiorização do tratamento contra o câncer na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/28/cicero-lucena-defende-interiorizacao-do-tratamento-contra-o-cancer-na-paraiba.ghtml)_
 
+- **[2026-08-26 20:48 UTC]** Cícero Lucena visita instituto de acolhimento de pessoas com TEA e fala em interiorizar serviços na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/cicero-lucena-visita-instituto-acolhimento-pessoas-tea-interiorizar-servicos-na-pb.ghtml)_
+
