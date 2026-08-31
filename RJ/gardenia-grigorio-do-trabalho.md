@@ -74,3 +74,6 @@
 - **[2017-10-02 14:54 UTC]** Juiz do DF mantém trabalho externo para deputado presidiário
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/noticia/juiz-mantem-trabalho-externo-para-deputado-presidiario.ghtml)_
 
+- **[2017-11-05 13:45 UTC]** Pelo 8º ano no mesmo local de prova do Enem, ambulante diz faturar em um dia o equivalente a um mês de trabalho
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/pelo-8-ano-no-mesmo-local-de-prova-do-enem-ambulante-diz-faturar-em-um-dia-o-equivalente-a-um-mes-de-trabalho.ghtml)_
+
