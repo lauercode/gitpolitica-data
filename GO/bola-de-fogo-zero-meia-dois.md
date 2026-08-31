@@ -107,3 +107,6 @@
 - **[2026-08-29 12:49 UTC]** Dois homens são encontrados mortos a tiros em área do Parque Timbiras, em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/29/dois-homens-sao-encontrados-mortos-a-tiros-em-area-do-parque-timbiras-em-sao-luis.ghtml)_
 
+- **[2026-08-27 18:55 UTC]** Dois homens são presos com drogas durante abordagem policial em Buriti
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/27/dois-homens-sao-presos-com-drogas-durante-abordagem-policial-em-buriti.ghtml)_
+
