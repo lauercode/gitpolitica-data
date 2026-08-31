@@ -86,3 +86,6 @@
 - **[2026-08-29 13:00 UTC]** TSE aprova envio de forças federais para reforçar segurança das eleições no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/29/tse-aprova-envio-de-forcas-federais-para-reforcar-seguranca-das-eleicoes-no-acre.ghtml)_
 
+- **[2026-08-29 08:00 UTC]** Expedição de fuscas deve cruzar BR-319 e percorrer mais de 4 mil km entre Acre e Roraima: 'Propósito'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/expedicao-de-fuscas-deve-cruzar-br-319-e-percorrer-mais-de-4-mil-km-entre-acre-e-roraima-proposito.ghtml)_
+
