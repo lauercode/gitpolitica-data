@@ -20,3 +20,6 @@
 - **[2026-08-28 23:04 UTC]** Arthur Henrique fala em manter salário de servidores em dia para fortalecer comércio em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/28/arthur-henrique-fala-em-manter-salario-de-servidores-em-dia-para-fortalecer-comercio-em-roraima.ghtml)_
 
+- **[2026-08-28 17:13 UTC]** Arthur Henrique relembra resultado da eleição suplementar na 1ª propaganda eleitoral na TV em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/28/arthur-henrique-relembra-resultado-da-eleicao-suplementar-na-1a-propaganda-eleitoral-na-tv-em-roraima.ghtml)_
+
