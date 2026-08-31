@@ -29,3 +29,6 @@
 - **[2018-07-19 15:25 UTC]** Polícia prende em Jataí caseiro suspeito de matar e roubar professor de educação física do DF
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/noticia/2018/07/19/policia-prende-em-jatai-caseiro-suspeito-de-matar-e-roubar-professor-de-educacao-fisica-do-df.ghtml)_
 
+- **[2018-07-18 13:14 UTC]** Professor é encontrado morto e tem picape roubada em fazenda de Cristalina
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/noticia/2018/07/18/professor-e-encontrado-morto-e-tem-picape-roubada-em-fazenda-de-cristalina.ghtml)_
+
