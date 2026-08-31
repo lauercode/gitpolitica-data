@@ -29,3 +29,6 @@
 - **[2018-07-10 16:28 UTC]** Claudia Leitte lança canção inédita no dia em que completa 38 anos; cantora fez produção musical do novo single
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/musica/noticia/claudia-leitte-lanca-cancao-inedita-no-do-dia-em-que-completa-38-anos-cantora-fez-producao-musical-do-novo-single.ghtml)_
 
+- **[2026-08-21 19:24 UTC]** Cantora Liene Show relata importunação sexual durante apresentação em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/cantora-liene-show-relata-importunacao-sexual-durante-apresentacao-em-sergipe.ghtml)_
+
