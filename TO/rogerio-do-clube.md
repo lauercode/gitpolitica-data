@@ -26,3 +26,6 @@
 - **[2026-08-29 18:21 UTC]** VÍDEO: diretor de clube joga cadeira contra público em Maceió, após jogo do Campeonato Infantil de Handebol
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/29/video-diretor-de-clube-joga-cadeira-contra-publico-em-maceio-apos-jogo-do-campeonato-infantil-de-handebol.ghtml)_
 
+- **[2026-08-31 17:58 UTC]** Disparo acidental que atingiu homem no Paraná aconteceu em área de clube onde manuseio de arma não é permitido
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/tiro-acidental-parana.ghtml)_
+
