@@ -29,3 +29,6 @@
 - **[2017-10-26 11:20 UTC]** Grupo suspeito de planejar chacina é preso em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/grupo-suspeito-de-planejar-chacina-e-preso-em-fortaleza.ghtml)_
 
+- **[2017-10-25 23:40 UTC]** Em abrigo, menino encontrado vagando por ruas de Fortaleza pergunta por mãe, que diz chamar-se 'Regina'
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/em-abrigo-menino-encontrado-vagando-por-ruas-de-fortaleza-pergunta-por-mae-que-diz-chamar-se-regina.ghtml)_
+
