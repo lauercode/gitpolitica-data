@@ -125,3 +125,6 @@
 - **[2026-08-31 10:05 UTC]** Jovem morre e dois irmãos ficam feridos após carro colidir com carreta parada em acostamento, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/jovem-morre-e-dois-irmaos-ficam-feridos-apos-carro-colidir-com-carreta-parada-em-acostamento-em-joao-pessoa.ghtml)_
 
+- **[2026-08-26 19:00 UTC]** Dois homens ficam feridos após ataque a tiros por suspeitos em moto, na Grande João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/26/dois-homens-ficam-feridos-apos-ataque-a-tiros-por-suspeitos-em-moto-na-grande-joao-pessoa.ghtml)_
+
