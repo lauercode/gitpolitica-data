@@ -11,3 +11,6 @@
 - **[2017-08-25 20:49 UTC]** 'Ficava constrangida em blitz', diz muçulmana do DF que conseguiu direito de usar véu em foto da CNH
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/ficava-constrangida-em-blitz-diz-mulcumana-do-df-que-conseguiu-direito-de-usar-veu-em-foto-da-cnh.ghtml)_
 
+- **[2018-07-18 19:23 UTC]** Foi aprovada lei que proíbe rebocar veículos em blitz? Não é verdade!
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/e-ou-nao-e/noticia/2018/07/18/foi-aprovada-lei-que-proibe-rebocar-veiculos-em-blitze-nao-e-verdade.ghtml)_
+
