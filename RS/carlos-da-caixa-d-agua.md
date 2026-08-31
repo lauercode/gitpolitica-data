@@ -77,3 +77,6 @@
 - **[2018-07-13 21:33 UTC]** Conta de água no ES tem reajuste de 3,89% autorizado a partir de agosto
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/conta-de-agua-no-es-tem-reajuste-de-389-autorizado-a-partir-de-agosto.ghtml)_
 
+- **[2026-08-31 17:40 UTC]** Parada programada da Caema afeta abastecimento de água em bairros de São Luís nesta terça-feira (1º)
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/31/parada-programada-da-caema-afeta-abastecimento-de-agua-em-bairros-de-sao-luis-nesta-terca-feira-1o.ghtml)_
+
