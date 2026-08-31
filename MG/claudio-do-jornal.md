@@ -26,3 +26,6 @@
 - **[2026-08-30 16:49 UTC]** VÍDEOS: Jornal do Acre 2ª Edição deste sábado, 29 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-deste-sabado-29-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-29 20:17 UTC]** VÍDEOS: Jornal do Acre 1ª edição deste sábado, 29 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-deste-sabado-29-de-agosto-de-2026.ghtml)_
+
