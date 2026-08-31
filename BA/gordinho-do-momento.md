@@ -32,3 +32,6 @@
 - **[2026-08-29 19:28 UTC]** Barco de pesca naufraga no litoral do RS e momento é registrado em VÍDEO; todos conseguiram se salvar
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/barco-de-pesca-naufraga-no-litoral-do-rs.ghtml)_
 
+- **[2026-08-30 18:17 UTC]** Henrique canta com fã mirim e inspira nas redes sociais: 'Momento inesquecível'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/henrique-canta-com-fa-mirim-e-inspira-nas-redes-sociais-momento-inesquecivel.ghtml)_
+
