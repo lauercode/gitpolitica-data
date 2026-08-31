@@ -50,3 +50,6 @@
 - **[2026-08-27 11:44 UTC]** UFPB abre inscrições para oficina literária gratuita voltada a mulheres periféricas
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/ufpb-abre-inscricoes-para-oficina-literaria-gratuita-voltada-a-mulheres-perifericas.ghtml)_
 
+- **[2026-08-27 06:00 UTC]** Saiba quais serviços especializados de Curitiba e região dão suporte para mulheres vítimas de violência doméstica
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/27/servicoes-protecao-mulheres-curitiba-e-regiao.ghtml)_
+
