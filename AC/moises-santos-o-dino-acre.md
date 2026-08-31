@@ -89,3 +89,6 @@
 - **[2026-08-29 08:00 UTC]** Expedição de fuscas deve cruzar BR-319 e percorrer mais de 4 mil km entre Acre e Roraima: 'Propósito'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/expedicao-de-fuscas-deve-cruzar-br-319-e-percorrer-mais-de-4-mil-km-entre-acre-e-roraima-proposito.ghtml)_
 
+- **[2026-08-29 00:10 UTC]** VÍDEO: Caminhoneiro é preso pela PRF após dirigir embriagado em zigue-zague no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/video-caminhoneiro-e-preso-pela-prf-apos-dirigir-embriagado-em-zigue-zague-no-acre.ghtml)_
+
