@@ -32,3 +32,6 @@
 - **[2026-08-31 17:15 UTC]** Homem que morreu ao cair do 14º andar em Londrina (PR) tentava escapar de agressores, diz polícia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/homem-que-morreu-ao-cair-do-14o-andar-em-londrina-pr-tentava-escapar-de-agressores-diz-policia.shtml)_
 
+- **[2026-08-29 14:25 UTC]** Quem era Cássio de Holanda Tavares, defensor público que morreu aos 49 anos em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/quem-era-cassio-de-holanda-tavares-defensor-publico-que-morreu-aos-49-anos-em-rio-branco.ghtml)_
+
