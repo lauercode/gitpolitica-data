@@ -11,3 +11,6 @@
 - **[2017-09-08 10:47 UTC]** Após briga em grupo de mensagens, policial mata vizinho a tiros no DF
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-briga-em-grupo-de-mensagens-policial-mata-vizinho-a-tiros-no-df.ghtml)_
 
+- **[2017-06-03 19:23 UTC]** Mulher acorda com estranho no quarto e denuncia vizinho por invasão de apartamento em MS
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/mulher-acorda-com-estranho-no-quarto-e-denuncia-vizinho-por-invasao-de-apartamento-em-ms.ghtml)_
+
