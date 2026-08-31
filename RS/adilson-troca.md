@@ -11,3 +11,6 @@
 - **[2026-08-28 22:31 UTC]** Projeto exige aval da Anac para troca de aviões por modelos menores em rotas regionais
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300590-projeto-exige-aval-da-anac-para-troca-de-avioes-por-modelos-menores-em-rotas-regionais)_
 
+- **[2026-08-25 09:36 UTC]** Dupla suspeita de matar ex-jogador do São Paulo morre durante troca de tiros com polícia em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/25/dupla-suspeita-de-participar-da-morte-de-ex-jogador-do-sp-em-maceio-morre-durante-troca-de-tiros-com-policia.ghtml)_
+
