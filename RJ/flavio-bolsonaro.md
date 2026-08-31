@@ -515,3 +515,6 @@
 - **[2026-08-24 23:04 UTC]** Quaest em AL: Lula, 44%; Flávio Bolsonaro, 29%
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/24/quaest-al-presidente-24-agosto.ghtml)_
 
+- **[2026-08-25 22:50 UTC]** Quaest no Amapá: Lula, 36%; Flávio Bolsonaro, 33%
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/25/quaest-ap-presidente-25-agosto.ghtml)_
+
