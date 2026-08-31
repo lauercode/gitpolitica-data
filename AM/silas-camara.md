@@ -189,3 +189,6 @@ Diretor
 - **[2017-07-05 10:48 UTC]** Cachoeirenses são homenageados em Sessão Solene, na Câmara
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/prefeitura-de-cachoeiro-de-itapemirim/festa-de-cachoeiro/noticia/2017/07/cachoeirenses-sao-homenageados-em-sessao-solene-na-camara.html)_
 
+- **[2018-07-10 10:14 UTC]** Câmara de Confresa (MT) abre concurso público com salário de até R$ 4,8 mil
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mt/mato-grosso/concursos-e-emprego/noticia/camara-de-confresa-mt-abre-concurso-publico-com-salario-de-ate-r-48-mil.ghtml)_
+
