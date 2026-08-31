@@ -41,3 +41,6 @@
 - **[2026-08-30 15:42 UTC]** Brasil conquista mais quatro medalhas no Mundial de Canoagem e Paracanoagem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/brasil-conquista-mais-quatro-medalhas-no-mundial-de-canoagem-e-paracanoagem.shtml)_
 
+- **[2017-10-09 18:22 UTC]** Estudantes do DF embarcam para mundial de profissões técnicas nos Emirados Árabes
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/estudantes-do-df-embarcam-para-mundial-de-profissoes-tecnicas-nos-emirados-arabes.ghtml)_
+
