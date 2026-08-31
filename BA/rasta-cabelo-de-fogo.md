@@ -14,3 +14,6 @@
 - **[2018-07-21 17:55 UTC]** Ônibus de turismo pega fogo na BR-040, na Região Central de Minas
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/minas-gerais/noticia/2018/07/21/onibus-de-turismo-pega-fogo-na-br-040-na-regiao-central-de-minas.ghtml)_
 
+- **[2018-07-13 21:37 UTC]** Ônibus pega fogo na BR-267 em Juiz de Fora
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/zona-da-mata/noticia/onibus-pega-fogo-na-br-267-em-juiz-de-fora.ghtml)_
+
