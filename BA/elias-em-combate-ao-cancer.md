@@ -41,3 +41,6 @@
 - **[2018-07-07 20:36 UTC]** 'Alegria a mais para continuar na batalha' diz mineira que teve festa de debutante no Hospital do Câncer de Muriaé
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/zona-da-mata/noticia/alegria-a-mais-para-continuar-na-batalha-diz-mineira-que-teve-festa-de-debutante-no-hospital-do-cancer-de-muriae.ghtml)_
 
+- **[2026-08-28 19:47 UTC]** Cícero Lucena defende interiorização do tratamento contra o câncer na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/28/cicero-lucena-defende-interiorizacao-do-tratamento-contra-o-cancer-na-paraiba.ghtml)_
+
