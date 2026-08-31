@@ -35,3 +35,6 @@
 - **[2026-08-25 06:00 UTC]** VÍDEO: gado foge de incêndio que atinge fazendas; fogo avança por áreas rurais de três estados
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/25/video-gado-foge-de-incendio-que-atinge-fazendas-fogo-avanca-por-areas-rurais-de-tres-estados.ghtml)_
 
+- **[2018-07-19 12:45 UTC]** Quadrilha armada rouba toneladas de carne em frigorífico e ateia fogo no sistema de segurança
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/19/quadrilha-armada-assalta-frigorifico-e-ateia-fogo-em-sistema-de-seguranca-no-interior-de-sp.ghtml)_
+
