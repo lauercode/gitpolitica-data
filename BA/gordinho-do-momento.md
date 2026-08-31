@@ -35,3 +35,6 @@
 - **[2026-08-30 18:17 UTC]** Henrique canta com fã mirim e inspira nas redes sociais: 'Momento inesquecível'
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/henrique-canta-com-fa-mirim-e-inspira-nas-redes-sociais-momento-inesquecivel.ghtml)_
 
+- **[2026-08-24 19:06 UTC]** Drone da TV Anhanguera flagra momento em que motociclista tenta fazer gato e cai em avenida de Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/drone-da-tv-anhanguera-flagra-momento-em-que-motociclista-tenta-fazer-gato-e-cai-em-avenida-de-palmas.ghtml)_
+
