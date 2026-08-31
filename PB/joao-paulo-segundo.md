@@ -116,3 +116,6 @@
 - **[2026-08-21 07:01 UTC]** Qualidade e densidade do petróleo vão definir próximos passos de exploração na costa do Amapá, segundo Petrobras
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/21/qualidade-e-densidade-do-petroleo-vao-definir-proximos-passos-de-exploracao-na-costa-do-amapa-segundo-petrobras.ghtml)_
 
+- **[2026-08-31 20:01 UTC]** Manaus marca 37,3ºC e atinge novo recorde de temperatura no ano, segundo Inmet
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/manaus-marca-373oc-e-atinge-novo-recorde-de-temperatura-no-ano-segundo-inmet.ghtml)_
+
