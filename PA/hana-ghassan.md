@@ -11,3 +11,6 @@
 - **[2026-08-29 22:31 UTC]** Quaest no Pará: Dr Daniel, 28%; Hana Ghassan, 27%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-governador-29-agosto.ghtml)_
 
+- **[2026-08-27 20:25 UTC]** Eleições 2026: veja as propostas de Hana Ghassan (MDB) ao governo do PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-veja-as-propostas-de-hana-ghassan-mdb-ao-governo-do-pa.ghtml)_
+
