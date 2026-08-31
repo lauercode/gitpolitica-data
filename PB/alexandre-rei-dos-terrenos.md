@@ -11,3 +11,6 @@
 - **[2018-04-27 12:24 UTC]** Terrenos e casas podem ser entregues em Fernando de Noronha?  Confira o que diz a Lei Eleitoral
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/terrenos-e-casas-podem-ser-entregues-em-fernando-de-noronha-confira-o-que-diz-lei-eleitoral.html)_
 
+- **[2018-04-25 18:59 UTC]** Presidentes do Conselho Distrital e Assembleia Popular falam sobre possível proibição de entrega de terrenos e casas em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/presidentes-do-conselho-distrital-e-assembleia-popular-falam-sobre-possivel-proibicao-de-entrega-de-terrenos-e-casas-em-fernando-de-noronha.html)_
+
