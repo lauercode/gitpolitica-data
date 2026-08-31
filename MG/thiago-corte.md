@@ -23,3 +23,6 @@
 - **[2026-08-30 16:00 UTC]** O bobo da corte e o freio nos dentes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/08/o-bobo-da-corte-e-o-freio-nos-dentes.shtml)_
 
+- **[2017-08-02 11:19 UTC]** Após vazamento em adutora, corte de água é antecipado na Asa Norte, DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-vazamento-em-adutora-corte-de-agua-e-antecipado-na-asa-norte-df.ghtml)_
+
