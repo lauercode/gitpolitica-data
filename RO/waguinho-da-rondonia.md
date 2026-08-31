@@ -23,3 +23,6 @@
 - **[2026-08-26 14:22 UTC]** Eclipse lunar em Rondônia: veja horário e onde assistir
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/26/eclipse-lunar-em-rondonia-veja-horario-e-onde-assistir.ghtml)_
 
+- **[2026-08-25 22:37 UTC]** Quaest para o Senado em Rondônia: Máximo, 17%; Cristina, 11%; Sheid, 11%; Mariana, 10%
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/25/quaest-ro-senado-25-de-agosto.ghtml)_
+
