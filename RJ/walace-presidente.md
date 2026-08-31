@@ -215,3 +215,6 @@
 - **[2026-08-30 18:44 UTC]** Carlos Bolsonaro visita o pai e pede que ex-presidente “fique bem”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/carlos-bolsonaro-visita-pai-pede-ex-presidente-fique-bem/)_
 
+- **[2026-08-30 20:38 UTC]** Vazamento de gás provoca incêndio na casa de Kassio Nunes Marques, presidente do TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/vazamento-de-gas-provoca-incendio-na-casa-de-kassio-nunes-marques-presidente-do-tse.shtml)_
+
