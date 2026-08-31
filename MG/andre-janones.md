@@ -14,3 +14,6 @@
 - **[2026-08-28 12:17 UTC]** Juíza mantém vídeo de Janones como “lagartixa” e cita Flávio Bolsonaro para definir limite da sátira
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiza-mante-video-de-janones-como-lagartixa-e-cita-flavio-bolsonaro-para-definir-limite-de-satira/)_
 
+- **[2026-08-31 17:49 UTC]** Assim como Renan, Nikolas e Janones usam perfis não indicados ao TSE em campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/assim-como-renan-nikolas-e-janones-usam-perfis-nao-indicados-ao-tse-em-campanha.shtml)_
+
