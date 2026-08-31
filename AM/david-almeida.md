@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-08-29 23:58 UTC]** Eleições 2026: David Almeida participa de evento com jovens em Manaus e fala sobre necessidade de combate à queima de lixo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/29/eleicoes-2026-david-almeida-participa-de-evento-com-jovens-em-manaus-e-fala-sobre-necessidade-de-combate-a-queima-de-lixo.ghtml)_
+
