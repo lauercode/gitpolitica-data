@@ -608,3 +608,6 @@
 - **[2026-08-31 04:54 UTC]** Flávio Dino assume inquérito e fragmenta investigação sobre Lulinha no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-assume-inquerito-e-fragmenta-investigacao-sobre-lulinha-no-stf/)_
 
+- **[2026-08-31 01:30 UTC]** TSE suspende propaganda de Lula que chama Flávio de “funcionário fantasma”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-suspende-propaganda-de-lula-que-chama-flavio-de-funcionario-fantasma/)_
+
