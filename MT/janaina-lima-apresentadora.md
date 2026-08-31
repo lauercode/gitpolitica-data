@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-08-28 13:17 UTC]** 'Mãe maravilhosa' e 'de atitude', diz apresentadora de TV sobre irmã gêmea que morreu aos 49 anos
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/mae-atitude-apresentadora-irma-morreu.ghtml)_
+
