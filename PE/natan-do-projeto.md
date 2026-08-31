@@ -68,3 +68,6 @@
 - **[2018-01-15 13:47 UTC]** Rafa e Pipo Marques comandam 3ª edição do projeto Beira Mar
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/noticia/rafa-e-pipo-marques-comandam-3-edicao-do-projeto-beira-mar.ghtml)_
 
+- **[2017-08-29 10:36 UTC]** Universidade lança projeto para orientar alunos do ensino médio
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/universidade-lanca-projeto-para-orientar-alunos-do-ensino-medio.html)_
+
