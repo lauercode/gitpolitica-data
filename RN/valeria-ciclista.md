@@ -11,3 +11,6 @@
 - **[2026-08-31 14:34 UTC]** Suspeitos de assaltar ciclista em rua do Jardim Oceania, em João Pessoa, são presos
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/suspeitos-de-assaltar-ciclista-em-rua-do-jardim-oceana-em-joao-pessoa-sao-presos.ghtml)_
 
+- **[2026-08-30 16:29 UTC]** Ciclista é assaltado em rua do Jardim Oceania, em João Pessoa; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/30/ciclista-e-assaltado-em-rua-do-jardim-oceania-em-joao-pessoa-video.ghtml)_
+
