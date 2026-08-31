@@ -29,3 +29,6 @@
 - **[2026-08-31 14:20 UTC]** Títulos de dívida e iene do Japão sofrem pressão após discurso de Warsh em Jackson Hole
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/titulos-de-divida-e-iene-do-japao-sofrem-pressao-apos-discurso-de-warsh-em-jackson-hole.shtml)_
 
+- **[2026-08-24 18:17 UTC]** Bruno Cardoso, do Sorriso Maroto, dá entrada em hospital após queda de pressão em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/24/bruno-cardoso-do-sorriso-maroto-da-entrada-em-hospital-apos-queda-de-pressao-em-natal.ghtml)_
+
