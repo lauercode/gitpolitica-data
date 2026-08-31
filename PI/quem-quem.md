@@ -122,3 +122,6 @@
 - **[2026-08-19 20:50 UTC]** Quem era a advogada morta ao passear com cachorro em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/19/quem-era-a-advogada-morta-ao-passear-com-cachorro-em-maceio.ghtml)_
 
+- **[2017-03-25 14:48 UTC]** Descontos na conta de água para quem economizou em 2016 beneficiam mais de 500 mil moradores do DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/descontos-na-conta-de-agua-para-quem-economizou-em-2016-beneficiam-mais-de-500-mil-moradores-do-df.ghtml)_
+
