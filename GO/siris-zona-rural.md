@@ -26,3 +26,6 @@
 - **[2018-07-16 20:28 UTC]** Homem morre após cair de asa-delta na zona rural de Riacho das Almas
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/homem-morre-apos-cair-de-asa-delta-na-zona-rural-de-riacho-das-almas.ghtml)_
 
+- **[2026-08-28 15:08 UTC]** Homem é espancado e preso após estuprar e esfaquear adolescente na zona rural de Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/28/homem-e-espancado-e-preso-apos-estuprar-e-esfaquear-adolescente-na-zona-rural-de-boa-vista.ghtml)_
+
