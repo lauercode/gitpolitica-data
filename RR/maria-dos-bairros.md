@@ -20,3 +20,6 @@
 - **[2026-08-28 14:24 UTC]** Mais de 20 bairros terão fornecimento de água interrompido em Macapá; veja lista
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/mais-de-20-bairros-terao-fornecimento-de-agua-interrompido-em-macapa-veja-lista.ghtml)_
 
+- **[2026-08-31 19:50 UTC]** Drogaria Bom Preço completa 10 anos e consolida presença em bairros de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/drogarias-bom-preco/noticia/2026/08/31/drogaria-bom-preco-completa-10-anos-e-consolida-presenca-em-bairros-de-manaus.ghtml)_
+
