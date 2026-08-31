@@ -29,3 +29,6 @@
 - **[2026-08-30 21:25 UTC]** Ciclista morre após batida com carro em Nossa Senhora das Dores
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/30/ciclista-morre-apos-batida-com-carro-em-sergipe.ghtml)_
 
+- **[2026-08-24 19:39 UTC]** Rompimento de adutora interrompe abastecimento de água em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/rompimento-de-adutora-interrompe-abastecimento-de-agua-em-nossa-senhora-do-socorro.ghtml)_
+
