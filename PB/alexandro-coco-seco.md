@@ -11,3 +11,6 @@
 - **[2026-08-28 20:05 UTC]** Energisa fortalece monitoramento durante período seco e influência do El Niño
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/energisa-energia-eletrica-informacao-que-ilumina/noticia/2026/08/28/energisa-fortalece-monitoramento-durante-periodo-seco-e-influencia-do-el-nino.ghtml)_
 
+- **[2017-07-21 19:44 UTC]** Bombeiros dão dicas para prevenir incêndios florestais durante tempo seco em MS
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/bombeiros-dao-dicas-para-prevenir-incendios-florestais-durante-tempo-seco-em-ms.ghtml)_
+
