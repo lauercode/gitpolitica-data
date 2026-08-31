@@ -44,3 +44,6 @@
 - **[2026-08-30 16:22 UTC]** Chuva com granizo atinge 24 municípios em SC e deixa cinco cidades em situação de emergência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/chuva-com-granizo-atinge-23-municipios-em-sc-e-deixa-cinco-cidades-em-situacao-de-emergencia.shtml)_
 
+- **[2026-08-31 11:47 UTC]** Contas públicas têm superávit em julho; dívida sobe para 82,5% do PIB, maior nível em mais de cinco anos
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/contas-publicas-tem-superavit-em-julho-divida-sobe-para-825percent-do-pib-maior-nivel-em-mais-de-cinco-anos.ghtml)_
+
