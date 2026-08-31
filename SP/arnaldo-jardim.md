@@ -26,3 +26,6 @@
 - **[2018-01-09 08:31 UTC]** Recém-nascida é abandonada em jardim de casa em Nova Venécia, ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/recem-nascida-e-abandonada-em-jardim-de-casa-em-nova-venecia-es.ghtml)_
 
+- **[2026-08-31 14:34 UTC]** Suspeitos de assaltar ciclista em rua do Jardim Oceania, em João Pessoa, são presos
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/suspeitos-de-assaltar-ciclista-em-rua-do-jardim-oceana-em-joao-pessoa-sao-presos.ghtml)_
+
