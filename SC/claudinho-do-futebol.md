@@ -20,3 +20,6 @@
 - **[2026-08-30 12:32 UTC]** Tiago Leifert sai em defesa de Neymar, e especialista em leitura labial rebate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/tiago-leifert-sai-em-defesa-de-neymar-e-especialista-em-leitura-labial-rebate.shtml)_
 
+- **[2026-08-31 13:04 UTC]** Jogadores de futebol são suspeitos de ligação com tráfico de drogas
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-08/jogadores-de-futebol-sao-suspeitos-de-ligacao-com-trafico-de-drogas)_
+
