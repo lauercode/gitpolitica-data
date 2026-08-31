@@ -50,3 +50,6 @@
 - **[2026-08-26 13:22 UTC]** Professores da rede estadual iniciam  paralisação de 48 horas em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/professores-da-rede-estadual-iniciam-paralisacao-de-48-horas-em-sergipe.ghtml)_
 
+- **[2026-08-26 10:57 UTC]** Resultado da Mega-Sena 3049: 16 apostas de Sergipe acertam quadra; veja valores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/resultado-da-mega-sena-3049-apostas-de-sergipe-acertam-quadra-veja-valores.ghtml)_
+
