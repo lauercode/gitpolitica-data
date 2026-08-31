@@ -11,3 +11,6 @@
 - **[2017-06-13 16:08 UTC]** Mudança faz Escolas Parques funcionarem no improviso, denuncia conselho
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/mudanca-faz-escolas-parques-funcionarem-no-improviso-denuncia-conselho.ghtml)_
 
+- **[2017-10-30 22:49 UTC]** Com rachaduras e ferragens à mostra, pontes de Vitória são vistoriadas pelo Conselho Regional de Engenharia
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/noticia/com-rachaduras-e-ferragens-a-mostra-pontes-de-vitoria-sao-vistoriadas-pelo-conselho-regional-de-engenharia.ghtml)_
+
