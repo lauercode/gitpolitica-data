@@ -38,3 +38,6 @@
 - **[2017-10-11 22:11 UTC]** Curador da mostra 'Queermuseu' envia notificação extrajudicial a prefeito do Rio
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/curador-da-mostra-queermuseu-envia-notificacao-extrajudicial-a-prefeito-do-rio.ghtml)_
 
+- **[2026-08-29 12:18 UTC]** Família cobra respostas oito anos após assassinato de prefeito durante o mandato no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/familia-cobra-respostas-oito-anos-apos-assassinato-de-prefeito-durante-o-mandato-no-tocantins.ghtml)_
+
