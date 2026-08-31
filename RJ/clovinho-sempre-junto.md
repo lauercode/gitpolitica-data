@@ -8,3 +8,6 @@
 - **[2026-08-30 17:39 UTC]** Os milhões de argentinos com dívidas em atraso e o que isso indica sobre a economia do país: 'Não tentamos mais refinanciar porque é impagável'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cdr7jn02g13o?at_medium=RSS&at_campaign=rss)_
 
+- **[2018-07-09 14:16 UTC]** Motorista bebeu antes de acidente que o matou junto com a mulher e dois filhos na BR-080, dizem testemunhas
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/motorista-bebeu-antes-de-acidente-que-o-matou-junto-com-a-mulher-e-dois-filhos-na-br-080-dizem-testemunhas.ghtml)_
+
