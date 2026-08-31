@@ -35,3 +35,6 @@
 - **[2026-08-21 14:24 UTC]** Apostas de Rondônia acertam a quina da Mega-Sena e faturam R$ 33 mil cada
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/concurso-3047-da-mega-sena.ghtml)_
 
+- **[2026-08-21 08:03 UTC]** Homem é denunciado por chefiar garimpo ilegal de diamante dentro de terras indígenas de Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/homem-e-denunciado-por-chefiar-garimpo-ilegal-de-diamante-dentro-de-terras-indigenas-de-rondonia.ghtml)_
+
