@@ -62,3 +62,6 @@
 - **[2026-08-27 21:27 UTC]** Mulher trans é encontrada morta em área de mata em Tracuateua, no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/mulher-trans-e-encontrada-morta-em-area-de-mata-em-tracuateua-no-para.ghtml)_
 
+- **[2026-08-26 21:12 UTC]** Amazônia high-tech: Do Pará, duo Uaná System leva show de carimbó eletrônico, sons da mata e arte digital a festival nacional
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/amazonia-high-tech-do-para-duo-uana-system-leva-show-de-carimbo-eletronico-sons-da-mata-e-arte-digital-ao-rio-de-janeiro.ghtml)_
+
