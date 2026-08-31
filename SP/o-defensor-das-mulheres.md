@@ -35,3 +35,6 @@
 - **[2026-08-30 22:00 UTC]** É preciso uma proteção adequada para as mulheres apostadoras
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/e-preciso-uma-protecao-adequada-para-as-mulheres-apostadoras.shtml)_
 
+- **[2026-08-31 15:13 UTC]** Comissão debate uso de tecnologias no combate à violência contra mulheres; participe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301225-comissao-debate-uso-de-tecnologias-no-combate-a-violencia-contra-mulheres-participe)_
+
