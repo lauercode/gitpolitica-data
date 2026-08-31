@@ -20,3 +20,6 @@
 - **[2026-08-28 12:57 UTC]** Bombeiros quebram para-prisas para resgatar motorista após carro capotar em acidente em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/bombeiros-quebram-para-prisas-para-resgatar-motorista-apos-acidente-em-belem.ghtml)_
 
+- **[2026-08-24 22:50 UTC]** Adolescente morre afogado enquanto nadava em praia de Palmas, dizem bombeiros
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/adolescente-morre-afogado-enquanto-nadava-em-praia-de-palmas-dizem-bombeiros.ghtml)_
+
