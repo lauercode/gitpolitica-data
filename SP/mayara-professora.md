@@ -29,3 +29,6 @@
 - **[2017-07-24 10:04 UTC]** Professora da Unifor realiza pesquisa inovadora na área de farmacologia
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/07/professora-da-unifor-realiza-pesquisa-inovadora-na-area-de-farmacologia.html)_
 
+- **[2018-07-18 01:08 UTC]** Aluna vai prestar serviços à comunidade no ES após ofender professora em app de mensagens
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/aluna-vai-prestar-servicos-a-comunidade-no-es-apos-ofender-professora-em-app-de-mensagens.ghtml)_
+
