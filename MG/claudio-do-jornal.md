@@ -65,3 +65,6 @@
 - **[2026-08-28 19:31 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de sexta-feira, 28 de agosto de 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/08/28/videos-jornal-do-almoco-florianopolis-de-sexta-feira-28-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-27 17:47 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de quinta-feira, 27 de agosto de 2026
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/08/27/videos-jornal-do-almoco-florianopolis-de-quinta-feira-27-de-agosto-de-2026.ghtml)_
+
