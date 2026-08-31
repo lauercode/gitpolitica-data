@@ -32,3 +32,6 @@
 - **[2026-08-26 09:00 UTC]** Caso Yasmin Macedo: entenda, ponto a ponto, a sentença que condenou Lucas Magalhães por crimes com arma e o absolveu de homicídio
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/caso-yasmin-macedo-entenda-ponto-a-ponto-a-sentenca-que-condenou-lucas-magalhaes-por-crimes-com-arma-e-o-absolveu-de-homicidio.ghtml)_
 
+- **[2026-08-26 01:50 UTC]** Caso Yasmin Macêdo: Lucas Magalhães é condenado a 4 anos e 10 meses por porte e disparo de arma, e absolvido de homicídio no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/25/caso-yasmin-macedo-lucas-magalhaes-dono-de-lancha-e-condenado-a-4-anos-e-10-meses-em-regime-semiaberto-no-para.ghtml)_
+
