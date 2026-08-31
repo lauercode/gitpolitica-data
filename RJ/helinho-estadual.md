@@ -29,3 +29,6 @@
 - **[2026-08-28 17:30 UTC]** Horário eleitoral começa no MA com destaque para apoio de Lula, gestão estadual e Prefeitura de São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/28/horario-eleitoral-gratuito-na-tv-comeca-no-maranhao.ghtml)_
 
+- **[2026-08-31 12:25 UTC]** Jovem morre após colisão de moto com carro em rodovia estadual, no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/jovem-morre-apos-colisao-de-moto-com-carro-em-rodovia-estadual-no-sertao-da-paraiba.ghtml)_
+
