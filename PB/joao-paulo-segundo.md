@@ -110,3 +110,6 @@
 - **[2026-08-29 22:56 UTC]** Amapá lidera crescimento proporcional de emprego formal no país, segundo Caged
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/29/amapa-lidera-crescimento-proporcional-de-emprego-formal-no-pais-segundo-caged.ghtml)_
 
+- **[2026-08-27 14:34 UTC]** Praga da vassoura-de-bruxa atinge 15 dos 16 municípios do Amapá, segundo Diagro
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/praga-da-vassoura-de-bruxa-atinge-15-dos-16-municipios-do-amapa-segundo-diagro.ghtml)_
+
