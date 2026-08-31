@@ -611,3 +611,6 @@
 - **[2026-08-31 01:30 UTC]** TSE suspende propaganda de Lula que chama Flávio de “funcionário fantasma”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-suspende-propaganda-de-lula-que-chama-flavio-de-funcionario-fantasma/)_
 
+- **[2026-08-31 11:29 UTC]** Judeus reagem a anúncio de Lottenberg como ministro de Flávio Bolsonaro e divulgam manifesto pró-Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/judeus-reagem-a-anuncio-de-lottenberg-como-ministro-de-flavio-bolsonaro-e-divulgam-manifesto-pro-lula.shtml)_
+
