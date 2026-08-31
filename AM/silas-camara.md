@@ -149,3 +149,6 @@
 - **[2026-08-28 13:22 UTC]** Câmara deve votar na próxima segunda MP do fim da taxa das blusinhas; Congresso definiu aliada de Lula como relatora
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/congresso-define-aliados-de-lula-como-presidente-e-relatora-de-comissao-da-mp-do-fim-da-taxa-das-blusinhas.ghtml)_
 
+- **[2026-08-31 11:04 UTC]** Câmara deve decidir sobre "taxa das blusinhas" nesta segunda
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/camara-deve-decidir-sobre-taxa-das-blusinhas-nesta-segunda)_
+
