@@ -35,3 +35,6 @@
 - **[2026-08-26 20:48 UTC]** Cícero Lucena visita instituto de acolhimento de pessoas com TEA e fala em interiorizar serviços na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/cicero-lucena-visita-instituto-acolhimento-pessoas-tea-interiorizar-servicos-na-pb.ghtml)_
 
+- **[2026-08-30 18:14 UTC]** Instituto oferta 100 vagas em curso gratuito de inglês em Roraima; veja como se inscrever
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/30/instituto-oferta-100-vagas-em-curso-gratuito-de-ingles-em-roraima-veja-como-se-inscrever.ghtml)_
+
