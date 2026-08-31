@@ -116,3 +116,6 @@
 - **[2026-08-29 14:25 UTC]** Quem era Cássio de Holanda Tavares, defensor público que morreu aos 49 anos em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/quem-era-cassio-de-holanda-tavares-defensor-publico-que-morreu-aos-49-anos-em-rio-branco.ghtml)_
 
+- **[2026-08-29 11:01 UTC]** Unidades de saúde em Rio Branco oferecem tratamento para quem quer parar de fumar; saiba mais
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/unidades-de-saude-em-rio-branco-oferecem-tratamento-para-quem-quer-parar-de-fumar-saiba-mais.ghtml)_
+
