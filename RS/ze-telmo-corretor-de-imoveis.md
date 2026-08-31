@@ -11,3 +11,6 @@
 - **[2018-07-16 10:52 UTC]** Imóveis do Minha Casa, Minha Vida quase prontos deixam de ser entregues no ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/imoveis-do-minha-casa-minha-vida-quase-prontos-deixam-de-ser-entregues-no-es.ghtml)_
 
+- **[2026-08-25 16:00 UTC]** Marquise desaba sobre poste e deixa 54 imóveis sem energia na Zona Norte de Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/25/marquise-desaba-sobre-poste-e-deixa-54-imoveis-sem-energia-na-zona-norte-de-natal.ghtml)_
+
