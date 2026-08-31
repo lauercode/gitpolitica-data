@@ -29,3 +29,6 @@
 - **[2026-08-25 19:05 UTC]** Conta de luz terá redução de 10,63% em Rondônia; veja quem é beneficiado
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/25/conta-de-luz-tera-reducao-em-rondonia.ghtml)_
 
+- **[2026-08-22 13:06 UTC]** Fazendeiro é preso por furtar energia para irrigar lavoura de café em Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/22/fazendeiro-e-preso-por-furto-de-energia-para-irrigar-lavoura-em-rondonia.ghtml)_
+
