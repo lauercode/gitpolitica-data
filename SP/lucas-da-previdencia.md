@@ -11,3 +11,6 @@
 - **[2026-08-28 23:52 UTC]** Flávio diz que não é preciso mexer em aposentadorias ou no salário mínimo para fazer ajuste fiscal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/flavio-diz-que-nao-e-preciso-mexer-em-aposentadorias-ou-no-salario-minimo-para-fazer-ajuste-fiscal.shtml)_
 
+- **[2026-08-31 17:05 UTC]** Bancos e seguradoras se preparam para maior mudança na previdência alemã em 20 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/bancos-e-seguradoras-se-preparam-para-maior-mudanca-na-previdencia-alema-em-20-anos.shtml)_
+
