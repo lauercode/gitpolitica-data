@@ -23,3 +23,6 @@
 - **[2026-08-25 15:22 UTC]** Incêndio atinge duas casas em comunidade quilombola na zona rural de Moju, no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/25/incendio-atinge-duas-casas-em-comunidade-quilombola-na-zona-rural-de-moju-no-para.ghtml)_
 
+- **[2018-07-16 20:28 UTC]** Homem morre após cair de asa-delta na zona rural de Riacho das Almas
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/homem-morre-apos-cair-de-asa-delta-na-zona-rural-de-riacho-das-almas.ghtml)_
+
