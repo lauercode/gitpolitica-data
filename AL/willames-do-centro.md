@@ -50,3 +50,6 @@
 - **[2026-08-31 15:02 UTC]** Semana começa com temperaturas acima de 40 graus no centro do país
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-08/semana-comeca-com-temperaturas-acima-de-40-graus-no-centro-do-pais)_
 
+- **[2026-08-27 21:41 UTC]** Eleições 2026: Professora Maria do Carmo faz caminhada pelo Centro de Manaus e propõe aumentar profissionais de saúde no Estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-professora-maria-do-carmo-faz-caminhada-pelo-centro-de-manaus-e-propoe-aumentar-profissionais-de-saude-no-estado.ghtml)_
+
