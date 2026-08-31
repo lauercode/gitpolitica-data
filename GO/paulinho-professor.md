@@ -20,3 +20,6 @@
 - **[2017-08-16 15:16 UTC]** Seminário presta homenagem a professor de Direito da Unifor
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/seminario-presta-homenagem-professor-de-direito-da-unifor.html)_
 
+- **[2017-08-10 15:44 UTC]** Professor da Unifor estuda relação entre população e crime
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/professor-da-unifor-estuda-relacao-entre-populacao-e-crime.html)_
+
