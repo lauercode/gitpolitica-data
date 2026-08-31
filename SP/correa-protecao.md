@@ -17,3 +17,6 @@
 - **[2018-07-11 12:33 UTC]** Jovem embriagado é preso após bater carro de luxo contra proteção de ponto de ônibus em Goiânia, diz polícia
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/motorista-e-preso-apos-dirigir-carro-de-luxo-embriagado-e-bater-contra-protecao-de-ponto-de-onibus-em-goiania.ghtml)_
 
+- **[2026-08-26 18:04 UTC]** TRF1 barra decisão que fragilizava proteção de terra indígena sob invasão no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/trf1-barra-decisao-que-ameacava-protecao-de-terra-indigena-sob-invasao-no-para.ghtml)_
+
