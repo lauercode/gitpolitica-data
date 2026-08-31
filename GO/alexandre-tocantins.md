@@ -23,3 +23,6 @@
 - **[2026-08-31 17:00 UTC]** Eleições 2026: veja todos os candidatos ao governo do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-do-tocantins.ghtml)_
 
+- **[2026-08-31 09:14 UTC]** Tocantins terá feriado prolongado em setembro; veja datas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/tocantins-tera-feriado-prolongado-de-em-setembro-veja-datas.ghtml)_
+
