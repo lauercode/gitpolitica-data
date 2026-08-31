@@ -23,3 +23,6 @@
 - **[2026-08-31 13:04 UTC]** Jogadores de futebol são suspeitos de ligação com tráfico de drogas
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-08/jogadores-de-futebol-sao-suspeitos-de-ligacao-com-trafico-de-drogas)_
 
+- **[2026-08-31 18:00 UTC]** Quem é a influenciadora gaúcha que namora David Corrêa, jogador de futebol alvo de investigações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/quem-e-a-influenciadora-gaucha-que-namora-david-correa-jogador-de-futebol-alvo-de-investigacoes.shtml)_
+
