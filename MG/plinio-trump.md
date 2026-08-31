@@ -68,3 +68,6 @@
 - **[2026-08-31 06:43 UTC]** Trump publica vídeo de IA com ataque à ilha de Kharg; Irã nega e chama publicação de 'risível'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/trump-publica-video-de-ia-sobre-ataque-a-ilha-de-kharg-ira-nega-e-chama-publicacao-de-risivel.shtml)_
 
+- **[2026-08-31 08:53 UTC]** Por que acordo de Trump para assumir 'controle' do petróleo da Venezuela está sendo criticado
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz0zl3ng740o?at_medium=RSS&at_campaign=rss)_
+
