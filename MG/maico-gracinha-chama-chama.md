@@ -29,3 +29,6 @@
 - **[2017-09-09 09:01 UTC]** Cachorro 'motociclista' chama a atenção em via do DF; vídeo
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/cachorro-motociclista-chama-a-atencao-em-via-do-df-video.ghtml)_
 
+- **[2017-04-27 15:00 UTC]** Maio Amarelo no DF chama atenção para alto índice de mortes no trânsito
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/maio-amarelo-promove-passeio-de-motociclistas-ciclistas-e-corridas-para-conscientizar-motoristas.ghtml)_
+
