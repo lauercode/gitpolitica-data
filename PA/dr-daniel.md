@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-08-25 19:56 UTC]** Eleições 2026: veja as propostas de Daniel Santos (Pode) ao governo do PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-as-propostas-de-daniel-santos-pode-ao-governo-do-pa.ghtml)_
+
