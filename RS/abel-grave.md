@@ -20,3 +20,6 @@
 - **[2026-08-31 14:53 UTC]** VÍDEO: Homem é atingido no peito por disparo acidental dentro de clube de tiro no Paraná; estado é grave
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/homem-e-atingido-por-disparo.ghtml)_
 
+- **[2026-08-25 21:14 UTC]** MPF investiga 'grave deterioração' na saúde em comunidade Yanomami com leishmaniose
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/25/mpf-investiga-grave-deterioracao-na-saude-em-comunidade-yanomami-com-leishmaniose.ghtml)_
+
