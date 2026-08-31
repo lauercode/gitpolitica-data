@@ -140,3 +140,6 @@
 - **[2026-08-27 22:11 UTC]** Desembargadora Martha Danyelle assume presidência do TRE-RN para os próximos dois anos
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/27/desembargadora-martha-danyelle-assume-presidencia-do-tre-rn-para-os-proximos-dois-anos.ghtml)_
 
+- **[2026-08-21 11:58 UTC]** Homem condenado pela morte de dois PRFs em RO é preso em Boa Vista
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/homem-condenado-pela-morte-de-dois-prfs-em-ro-e-preso-em-boa-vista.ghtml)_
+
