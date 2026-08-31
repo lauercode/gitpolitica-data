@@ -14,3 +14,6 @@
 - **[2026-08-30 13:00 UTC]** Julia Guedes, neta de Beto Guedes, faz as pazes com o peso do sobrenome em disco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/julia-guedes-neta-de-beto-guedes-faz-as-pazes-com-o-peso-do-sobrenome-em-disco.shtml)_
 
+- **[2026-08-27 14:38 UTC]** Eleições 2026: TRE leva urna eletrônica ao Ver-o-Peso para treinar eleitores em Belém; veja datas e locais
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-tre-leva-urna-eletronica-ao-ver-o-peso-para-treinar-eleitores-em-belem-veja-datas-e-locais.ghtml)_
+
