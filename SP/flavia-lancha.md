@@ -8,3 +8,6 @@
 - **[2017-09-12 19:25 UTC]** Dezenove dias após tragédia com lancha na Bahia, Marinha suspende buscas por vítima
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/dezenove-dias-apos-tragedia-com-lancha-na-bahia-marinha-suspende-busca-por-vitima.ghtml)_
 
+- **[2017-08-25 22:18 UTC]** Vídeo feito em maio mostra passageiros de lancha em pânico após água entrar em embarcação na Bahia
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/video-feito-em-maio-mostra-passageiros-de-lancha-em-panico-apos-agua-entrar-em-embarcacao-na-bahia.ghtml)_
+
