@@ -101,3 +101,6 @@
 - **[2026-08-28 19:41 UTC]** Bajaj chega ao Acre: Tecnologia, desempenho e personalidade sobre duas rodas
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/benn-bajaj/noticia/2026/08/28/bajaj-chega-ao-acre-tecnologia-desempenho-e-personalidade-sobre-duas-rodas.ghtml)_
 
+- **[2026-08-28 19:40 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 28 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-28-de-agosto-de-2026.ghtml)_
+
