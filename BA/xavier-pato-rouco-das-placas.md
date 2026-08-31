@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2018-07-21 17:19 UTC]** Carro com placas do MT é encontrado com 202 quilos de maconha em MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/carro-com-placas-do-mt-e-encontrado-com-202-quilos-de-maconha-em-ms.ghtml)_
+
