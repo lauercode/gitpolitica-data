@@ -180,3 +180,6 @@ Diretor
 - **[2017-11-24 11:12 UTC]** TJ-DF revoga autorização para deputado presidiário trabalhar na Câmara
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/noticia/tj-df-revoga-autorizacao-para-deputado-presidiario-trabalhar-na-camara-durante-o-dia.ghtml)_
 
+- **[2017-10-10 09:57 UTC]** Câmara do DF quer proibir escolas públicas de liberar alunos se faltar professor
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/camara-do-df-quer-proibir-escolas-publicas-de-liberar-alunos-se-faltar-professor.ghtml)_
+
