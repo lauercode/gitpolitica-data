@@ -74,3 +74,6 @@
 - **[2026-08-31 11:27 UTC]** Andarilho, David Corrêa tem dois títulos da Copa do Brasil por Cruzeiro e São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/andarilho-david-correa-tem-dois-titulos-da-copa-do-brasil-por-cruzeiro-e-sao-paulo.shtml)_
 
+- **[2026-08-31 21:01 UTC]** Policial penal afastado suspeito de facilitar fuga de detento é preso com outros dois homens no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/policial-penal-afastado-suspeito-de-facilitar-fuga-de-detento-e-preso-com-outros-dois-homens-no-acre.ghtml)_
+
