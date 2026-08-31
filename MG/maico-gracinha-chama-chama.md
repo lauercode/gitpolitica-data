@@ -14,3 +14,6 @@
 - **[2026-08-31 00:58 UTC]** Justiça Eleitoral suspende propaganda eleitoral de Lula que chama Flávio Bolsonaro de 'funcionário fantasma'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/30/justica-eleitoral-suspende-propaganda-eleitoral-de-lula-que-chama-flavio-bolsonaro-de-funcionario-fantasma.ghtml)_
 
+- **[2026-08-31 01:30 UTC]** TSE suspende propaganda de Lula que chama Flávio de “funcionário fantasma”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-suspende-propaganda-de-lula-que-chama-flavio-de-funcionario-fantasma/)_
+
