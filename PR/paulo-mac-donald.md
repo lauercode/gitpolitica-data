@@ -26,3 +26,6 @@
 - **[2026-08-30 13:55 UTC]** Petróleo da Venezuela será usado para reabastecer reservas dos EUA, diz Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/petroleo-da-venezuela-sera-usado-para-reabastecer-reservas-dos-eua-diz-trump.shtml)_
 
+- **[2026-08-30 23:00 UTC]** Mundo precisa pensar no dia seguinte a Donald Trump, diz ex-conselheiro da ONU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mundo-precisa-pensar-no-dia-seguinte-a-donald-trump-diz-ex-conselheiro-da-onu.shtml)_
+
