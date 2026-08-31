@@ -95,3 +95,6 @@
 - **[2018-04-30 10:41 UTC]** Imunização contra gripe está sendo realizada em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/imunizacao-contra-gripe-esta-sendo-realizada-em-fernando-de-noronha.html)_
 
+- **[2018-04-27 18:06 UTC]** Assembleia de Deus comemora 40 anos em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/assembleia-de-deus-comemora-40-anos-em-fernando-de-noronha.html)_
+
