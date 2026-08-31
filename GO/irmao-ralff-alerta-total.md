@@ -23,3 +23,6 @@
 - **[2026-08-28 12:08 UTC]** Eclipse 'quase' total da Lua: veja FOTOS do fenômeno pela Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/eclipse-quase-total-da-lua-veja-fotos-do-fenomeno-pela-paraiba.ghtml)_
 
+- **[2026-08-27 09:10 UTC]** Eclipse 'quase' total da Lua acontece nesta quinta-feira (27) e pode ser observado da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/eclipse-quase-total-da-lua-acontece-nesta-quinta-feira-27-e-podera-ser-observado-da-paraiba.ghtml)_
+
