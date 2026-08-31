@@ -107,3 +107,6 @@
 - **[2026-08-27 19:54 UTC]** Litros de água jorram para o alto na rua após rompimento de adutora na Grande Florianópolis; VÍDEO
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/litros-agua-jorram-alto-rua-rompimento-adutora-sao-jose-video.ghtml)_
 
+- **[2026-08-24 19:39 UTC]** Rompimento de adutora interrompe abastecimento de água em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/rompimento-de-adutora-interrompe-abastecimento-de-agua-em-nossa-senhora-do-socorro.ghtml)_
+
