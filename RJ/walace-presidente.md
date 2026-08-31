@@ -224,3 +224,6 @@
 - **[2026-08-31 10:00 UTC]** O que revela a nova pesquisa AtlasIntel para presidente da República
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-agosto-2026/)_
 
+- **[2026-08-31 09:21 UTC]** Nexus/BTG Pactual divulga nova pesquisa para presidente; veja o resultado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/nexus-btg-pactual-presidente-agosto-2026-5/)_
+
