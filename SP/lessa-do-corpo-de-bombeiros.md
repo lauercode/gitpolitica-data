@@ -11,3 +11,6 @@
 - **[2017-10-24 18:35 UTC]** Incêndio no Parque Ecológico de Águas Claras, no  DF, mobiliza 36 bombeiros
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/incendio-no-parque-ecologico-de-aguas-claras-no-df-mobiliza-30-bombeiros.ghtml)_
 
+- **[2017-04-02 20:33 UTC]** Bombeiros procuram por pessoa que se afogou em lago de Nerópolis, GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/bombeiros-procuram-por-pessoa-que-se-afogou-em-lago-de-neropolis-go.html)_
+
