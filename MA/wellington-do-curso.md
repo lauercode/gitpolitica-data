@@ -14,3 +14,6 @@
 - **[2026-08-31 11:00 UTC]** Além do gasto, contratar financiamento estudantil exige avaliar qualidade do curso escolhido
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/alem-do-gasto-financiamento-estudantil-exige-analise-de-qualidade-do-curso.shtml)_
 
+- **[2018-03-06 14:40 UTC]** Senac/CE está com inscrições abertas para curso de chocolates e ovos para a páscoa
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/sistema-fecomercio/radar-do-comercio/noticia/senacce-esta-com-inscricoes-abertas-para-curso-de-chocolates-e-ovos-para-a-pascoa.ghtml)_
+
