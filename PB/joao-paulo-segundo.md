@@ -122,3 +122,6 @@
 - **[2018-07-10 14:50 UTC]** Mesmo em isolamento, Geddel mantém indisciplina, segundo presídio; juíza cobra investigação sobre remédios em cela
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/blog/andreia-sadi/post/2018/07/10/mesmo-em-isolamento-geddel-mantem-indisciplina-juiza-cobra-investigacao-sobre-remedios-em-cela.ghtml)_
 
+- **[2018-03-07 22:08 UTC]** CNH Social tem 16 mil inscritos no 1º dia, segundo o Detran-ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/cnh-social-tem-16-mil-inscritos-no-1-dia-segundo-o-detran-es.ghtml)_
+
