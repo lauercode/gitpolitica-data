@@ -35,3 +35,6 @@
 - **[2026-08-18 22:09 UTC]** Debate entre candidatos ao governo de Rondônia tem troca de acusações e debates sobre saúde e infraestrutura
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/18/debate-entre-candidatos-ao-governo-de-rondonia.ghtml)_
 
+- **[2026-08-22 19:53 UTC]** Motoristas pedem demissão após troca de empresa e passageiros relatam demora em ônibus de Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/22/motoristas-pedem-demissao-apos-troca-de-empresa-e-passageiros-relatam-demora-em-onibus-de-aracaju.ghtml)_
+
