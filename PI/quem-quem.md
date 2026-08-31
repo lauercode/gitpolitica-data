@@ -95,3 +95,6 @@
 - **[2026-08-30 23:00 UTC]** 'Voto em quem defende a democracia e a Amazônia', diz líder comunitária do Amapá
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2026/08/voto-em-quem-defende-a-democracia-e-a-amazonia-diz-lider-comunitaria-do-amapa.shtml)_
 
+- **[2026-08-30 23:00 UTC]** Quem age como fascista na UFRJ?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lygia-maria/2026/08/quem-age-como-fascista-na-ufrj.shtml)_
+
