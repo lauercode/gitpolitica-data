@@ -17,3 +17,6 @@
 - **[2026-08-31 14:50 UTC]** Chuvas e granizo voltam a castigar Rio Grande do Sul e Santa Catarina
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-08/chuvas-e-granizo-voltam-castigar-rio-grande-do-sul-e-santa-catarina)_
 
+- **[2017-07-31 11:58 UTC]** Santa Casa da Bahia promove ciclo de palestras sobre compliance na saúde
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/santa-casa-da-bahia-promove-ciclo-de-palestras-sobre-compliance-na-saude.html)_
+
