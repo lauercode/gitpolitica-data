@@ -293,3 +293,6 @@
 - **[2026-08-30 20:38 UTC]** Líder da facção criminosa Cartel do Sul é encontrado morto em penitenciária federal de Brasília
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/30/lider-da-faccao-criminosa-cartel-do-sul-e-encontrado-morto-em-penitenciaria-federal-de-brasilia.ghtml)_
 
+- **[2026-08-31 20:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-acre.ghtml)_
+
