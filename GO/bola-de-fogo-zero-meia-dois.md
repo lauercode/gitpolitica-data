@@ -113,3 +113,6 @@
 - **[2026-08-26 12:34 UTC]** Dois homens são presos suspeitos de roubar clínica odontológica no Cohatrac, em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/dois-homens-sao-presos-suspeitos-de-roubar-clinica-odontologica-no-cohatrac-em-sao-luis.ghtml)_
 
+- **[2026-08-26 11:14 UTC]** Operação contra organização criminosa termina com suspeito preso e dois baleados em Rosário
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/homem-e-preso-e-dois-sao-baleados-em-operacao-contra-suspeitos-de-organizacao-criminosa-em-rosario.ghtml)_
+
