@@ -14,3 +14,6 @@
 - **[2026-08-31 14:17 UTC]** Posso descolorir meu cabelo? Descubra se os fios estão preparados
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/08/31/posso-descolorir-meu-cabelo-descubra-se-os-fios-estao-preparados.ghtml)_
 
+- **[2026-08-26 19:54 UTC]** Jovem tem cabelo raspado e é agredida por três mulheres após receber mensagem de militar do Exército em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/jovem-tem-cabelo-raspado-e-e-agredida-por-tres-mulheres-apos-receber-mensagem-de-militar-do-exercito-em-boa-vista.ghtml)_
+
