@@ -26,3 +26,6 @@
 - **[2026-08-31 17:24 UTC]** 'O que a gente vai dizer pra nossa filha?': Família teme que corpo de gaúcho morto na Ucrânia nunca seja encontrado
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/gaucho-morto-ucrania-corpo.ghtml)_
 
+- **[2026-08-30 21:25 UTC]** Ciclista morre após batida com carro em Nossa Senhora das Dores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/30/ciclista-morre-apos-batida-com-carro-em-sergipe.ghtml)_
+
