@@ -80,3 +80,6 @@
 - **[2026-08-31 13:44 UTC]** Homens torturaram jovem após acusá-lo de furtos, diz investigação; vítima morreu depois de cair do 14º andar no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/31/motivacao-tortura-homem-queda-predio-parana.ghtml)_
 
+- **[2026-08-30 15:35 UTC]** Adolescente que morreu após caminhonete capotar e ser atingida por caminhão na BR-376 no PR é identificado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/30/adolescente-identificado-acidente-caminhonete-parana.ghtml)_
+
