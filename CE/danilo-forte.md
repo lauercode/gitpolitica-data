@@ -47,3 +47,6 @@
 - **[2026-08-30 15:34 UTC]** Defesa Civil emite alerta para chuva, raios, vento forte e granizo na Grande São Paulo neste domingo (30)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/defesa-civil-emite-alerta-para-chuva-raios-vento-forte-e-granizo-na-grande-sao-paulo-neste-domingo-30.shtml)_
 
+- **[2017-07-14 18:56 UTC]** Moradores ficam 'ilhados' após chuva forte alagar rua no recôncavo da Bahia; vídeo
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/rua-alaga-e-moradores-ficam-ilhados-apos-chuva-forte-em-muritiba-na-bahia-video.ghtml)_
+
