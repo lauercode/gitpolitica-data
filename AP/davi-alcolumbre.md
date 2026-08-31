@@ -80,3 +80,6 @@
 - **[2026-08-30 03:00 UTC]** Eleições nos estados e comando do Congresso: o que está por trás da reaproximação de Lula com Alcolumbre e Motta
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/30/eleicoes-nos-estados-e-comando-do-congresso-o-que-esta-por-tras-da-reaproximacao-de-lula-com-alcolumbre-e-motta.ghtml)_
 
+- **[2026-08-31 13:48 UTC]** Alcolumbre quer indicar Pacheco ao TCU sem sabatina e com aprovação em plenário até quarta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/alcolumbre-quer-indicar-pacheco-ao-tcu-sem-sabatina-e-com-aprovacao-em-plenario-ate-quarta.shtml)_
+
