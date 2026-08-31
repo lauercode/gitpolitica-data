@@ -8,3 +8,6 @@
 - **[2026-08-29 03:00 UTC]** VÍDEO: De onde sai o dinheiro das campanhas políticas?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/29/video-de-onde-sai-o-dinheiro-das-campanhas-politicas.ghtml)_
 
+- **[2026-08-22 12:00 UTC]** Operação fecha garimpos e apreende R$ 19 milhões em madeira e materiais no AP e PA
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/22/operacao-fecha-garimpos-e-apreende-r-19-milhoes-em-madeira-e-materiais-no-ap-e-pa.ghtml)_
+
