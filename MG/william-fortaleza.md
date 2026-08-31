@@ -44,3 +44,6 @@
 - **[2017-08-22 14:19 UTC]** Fortaleza ganha aplicativo BoraPedalar
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/fortaleza-ganha-aplicativo-borapedalar.html)_
 
+- **[2017-08-16 15:15 UTC]** Richard Peña ministra Workshop em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/cineasta-richard-pena-ministra-workshop-em-fortaleza.html)_
+
