@@ -14,3 +14,6 @@
 - **[2026-08-27 22:39 UTC]** Eleições 2026 em SC: Jorginho Mello cumpre agenda e participa de evento no Vale do Itajaí
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-em-sc-jorginho-mello-cumpre-agenda-e-participa-de-evento-no-vale-do-itajai.ghtml)_
 
+- **[2026-08-26 21:43 UTC]** Eleições 2026 em SC: Jorginho Mello se reúne com correligionários em Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-sc-jorginho-mello-se-reune-com-correligionarios-em-florianopolis.ghtml)_
+
