@@ -14,3 +14,6 @@
 - **[2017-10-25 23:40 UTC]** Em abrigo, menino encontrado vagando por ruas de Fortaleza pergunta por mãe, que diz chamar-se 'Regina'
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/em-abrigo-menino-encontrado-vagando-por-ruas-de-fortaleza-pergunta-por-mae-que-diz-chamar-se-regina.ghtml)_
 
+- **[2018-07-10 16:44 UTC]** Menino que perdeu a mãe, o pai e os irmãos em acidente na BR-080 segue  internado e ainda não sabe sobre mortes, diz tia
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/menino-que-perdeu-a-mae-o-pai-e-os-irmaos-em-acidente-na-br-080-segue-internado-e-ainda-nao-sabe-sobre-mortes-diz-tia.ghtml)_
+
