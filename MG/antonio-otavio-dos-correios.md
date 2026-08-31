@@ -20,3 +20,6 @@
 - **[2026-08-31 12:33 UTC]** Aporte não é Pix de R$ 6 bilhões aos Correios, diz ministro do Planejamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/aporte-nao-e-pix-de-r-6-bilhoes-aos-correios-diz-ministro-do-planejamento.shtml)_
 
+- **[2026-08-31 15:57 UTC]** Orçamento de 2027 terá aporte de R$ 6 bilhões aos Correios
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/orcamento-de-2027-tera-aporte-de-r-6-bilhoes-aos-correios)_
+
