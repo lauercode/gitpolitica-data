@@ -53,3 +53,6 @@
 - **[2026-08-31 11:30 UTC]** 316 cidades do Paraná têm alerta para chuva forte, granizo e ventos de até 60 km/h; confira quais
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/cidades-do-parana-tem-alerta.ghtml)_
 
+- **[2018-07-17 21:17 UTC]** Homem é baleado após tentativa de assalto a carro-forte em Caruaru
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/homem-e-baleado-apos-tentativa-de-assalto-a-carro-forte-em-caruaru.ghtml)_
+
