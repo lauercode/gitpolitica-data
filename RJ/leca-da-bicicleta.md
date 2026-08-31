@@ -11,3 +11,6 @@
 - **[2026-08-31 07:01 UTC]** Casal paranaense larga emprego, vende tudo e passa mais de dois anos viajando de bicicleta para cruzar a América, de Ushuaia ao Alasca
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/31/casal-paranaense-larga-emprego-vende-tudo-e-passa-mais-de-dois-anos-viajando-de-bicicleta-para-cruzar-a-america-de-ushuaia-ao-alasca.ghtml)_
 
+- **[2026-08-25 21:27 UTC]** Homem foragido por romper tornozeleira é localizado em telhado após tentar fugir com bicicleta furtada; VÍDEO
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/25/homem-foragido-romper-tornozeleira-localizado-telhado-bicicleta-video.ghtml)_
+
