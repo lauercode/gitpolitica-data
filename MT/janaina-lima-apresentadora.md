@@ -17,3 +17,6 @@
 - **[2026-08-26 22:55 UTC]** Thalita Tavares, ex-apresentadora do Globo Esporte TO, morre aos 46 anos
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/to/tocantins/noticia/2026/08/26/ex-apresentadora-do-globo-esporte-to-morre-apos-luta-contra-o-cancer.ghtml)_
 
+- **[2026-08-27 14:56 UTC]** Inspiração e bom humor: jornalistas relembram convívio com Thalita Tavares, ex-apresentadora do Globo Esporte TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/inspiracao-e-bom-humor-jornalistas-relembram-convivio-com-thalita-tavares-ex-apresentadora-do-globo-esporte-to.ghtml)_
+
