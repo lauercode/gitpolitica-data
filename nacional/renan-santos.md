@@ -98,3 +98,6 @@
 - **[2026-08-31 18:29 UTC]** Renan Santos sugere que decisão de Toffoli é represália por críticas sobre Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/renan-santos-sugere-que-decisao-de-toffoli-e-represalia-por-criticas-sobre-master.shtml)_
 
+- **[2026-08-31 18:10 UTC]** Decisão de Toffoli contra Renan Santos é alvo de críticas no TSE, e ministros defendem debate em plenário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/decisao-de-toffoli-contra-renan-santos-e-alvo-de-criticas-no-tse-e-ministros-defendem-debate-em-plenario.shtml)_
+
