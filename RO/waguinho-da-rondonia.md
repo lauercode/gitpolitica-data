@@ -26,3 +26,6 @@
 - **[2026-08-25 22:37 UTC]** Quaest para o Senado em Rondônia: Máximo, 17%; Cristina, 11%; Sheid, 11%; Mariana, 10%
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/25/quaest-ro-senado-25-de-agosto.ghtml)_
 
+- **[2026-08-25 19:05 UTC]** Conta de luz terá redução de 10,63% em Rondônia; veja quem é beneficiado
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/25/conta-de-luz-tera-reducao-em-rondonia.ghtml)_
+
