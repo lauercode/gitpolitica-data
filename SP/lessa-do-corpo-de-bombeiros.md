@@ -14,3 +14,6 @@
 - **[2017-04-02 20:33 UTC]** Bombeiros procuram por pessoa que se afogou em lago de Nerópolis, GO
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/bombeiros-procuram-por-pessoa-que-se-afogou-em-lago-de-neropolis-go.html)_
 
+- **[2017-07-21 19:44 UTC]** Bombeiros dão dicas para prevenir incêndios florestais durante tempo seco em MS
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/bombeiros-dao-dicas-para-prevenir-incendios-florestais-durante-tempo-seco-em-ms.ghtml)_
+
