@@ -77,3 +77,6 @@
 - **[2017-10-30 14:11 UTC]** Motoristas do Uber fazem carreata no DF para protestar contra projeto que regulamenta serviço
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/motoristas-do-uber-fazem-carreata-no-df-para-protestar-contra-projeto-que-regulamenta-servico.ghtml)_
 
+- **[2017-06-26 21:32 UTC]** Líder do governo é um dos autores do projeto que derrubou lei anti-homofobia no DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/lider-do-governo-lidera-projeto-que-derrubou-lei-anti-homofobia-no-df.ghtml)_
+
