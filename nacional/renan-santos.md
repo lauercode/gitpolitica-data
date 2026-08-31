@@ -86,3 +86,6 @@
 - **[2026-08-31 20:20 UTC]** Renan Santos 'não é charlatão', diz The Economist sobre candidato e 'sua visão ousada' para o Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckgx0m38jkzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-31 18:37 UTC]** Renan Santos diz que vai pedir liminar contra suspensão de candidatura
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/renan-santos-diz-que-vai-pedir-liminar-contra-suspensao-de-candidatura)_
+
