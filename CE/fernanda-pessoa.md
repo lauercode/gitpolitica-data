@@ -126,3 +126,6 @@ direcionado às necessidades de cada pessoa
 - **[2026-08-27 19:04 UTC]** Homem é preso após vídeo mostrar tortura contra pessoa em situação de vulnerabilidade no Brejo da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/homem-e-preso-apos-video-mostrar-tortura-contra-pessoa-em-situacao-de-rua-no-brejo-da-pb.ghtml)_
 
+- **[2026-08-28 06:00 UTC]** 'Praticamente excluída', diz delegado sobre a possibilidade de outra pessoa envolvida na morte de família em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/possibilidade-de-outra-pessoa-morte-de-familia-em-curitiba.ghtml)_
+
