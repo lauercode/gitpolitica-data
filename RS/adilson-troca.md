@@ -26,3 +26,6 @@
 - **[2018-07-10 11:58 UTC]** Três suspeitos de roubos em Corumbá são mortos em troca de tiros com a PM
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/corumba-e-regiao/noticia/tres-suspeitos-de-roubos-em-corumba-sao-mortos-em-troca-de-tiros-com-a-pm.ghtml)_
 
+- **[2026-08-29 14:17 UTC]** Cinco homens são presos após troca de tiros com PMs em Marabá
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/cinco-homens-sao-presos-apos-troca-de-tiros-com-pms-em-maraba.ghtml)_
+
