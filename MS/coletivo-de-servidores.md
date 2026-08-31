@@ -32,3 +32,6 @@
 - **[2017-05-08 12:46 UTC]** Contra reforma da Previdência, servidores do INSS ocupam ministério
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/contra-reforma-da-previdencia-servidores-do-inss-ocupam-ministerio.ghtml)_
 
+- **[2018-03-21 16:03 UTC]** MPE recomenda à prefeitura que exonere servidores por prática de nepotismo em MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso-do-sul/noticia/mpe-recomenda-a-prefeitura-que-exonere-servidores-por-pratica-de-nepotismo-em-ms.ghtml)_
+
