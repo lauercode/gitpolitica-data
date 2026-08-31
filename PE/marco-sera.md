@@ -50,3 +50,6 @@
 - **[2017-11-02 16:20 UTC]** Comédia teatral 'Deu a Louca na Branca' será encenada em Cuiabá
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/comedia-teatral-deu-a-louca-na-branca-sera-encenada-em-cuiaba.ghtml)_
 
+- **[2018-07-11 12:59 UTC]** Africano assassinado em bar será sepultado em Uberlândia
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/triangulo-mineiro/noticia/africano-assassinado-em-bar-sera-sepultado-em-uberlandia.ghtml)_
+
