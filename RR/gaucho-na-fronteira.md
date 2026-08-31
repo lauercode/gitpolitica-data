@@ -35,3 +35,6 @@
 - **[2026-08-30 15:54 UTC]** Servidores do INSS pedem inclusão em MP para receber adicional de fronteira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/servidores-do-inss-pedem-inclusao-em-mp-para-receber-adicional-de-fronteira.shtml)_
 
+- **[2026-08-31 14:13 UTC]** Operação entre Brasil e Peru destrói quatro laboratórios clandestinos de drogas na fronteira do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/operacao-entre-brasil-e-peru-destroi-quatro-laboratorios-clandestinos-de-drogas-na-fronteira-do-amazonas.ghtml)_
+
