@@ -29,3 +29,6 @@
 - **[2017-09-09 09:01 UTC]** Cachorro 'motociclista' chama a atenção em via do DF; vídeo
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/cachorro-motociclista-chama-a-atencao-em-via-do-df-video.ghtml)_
 
+- **[2018-07-11 15:35 UTC]** Motociclista morre atropelado na BR-414, em Cocalzinho de Goiás
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/motociclista-morre-atropelado-na-br-414-em-cocalzinho-de-goias.ghtml)_
+
