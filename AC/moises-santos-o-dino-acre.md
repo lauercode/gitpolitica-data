@@ -26,3 +26,6 @@
 - **[2026-08-31 21:01 UTC]** Policial penal afastado suspeito de facilitar fuga de detento é preso com outros dois homens no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/policial-penal-afastado-suspeito-de-facilitar-fuga-de-detento-e-preso-com-outros-dois-homens-no-acre.ghtml)_
 
+- **[2026-08-31 20:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-acre.ghtml)_
+
