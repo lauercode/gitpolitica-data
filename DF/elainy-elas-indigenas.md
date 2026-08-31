@@ -14,3 +14,6 @@
 - **[2018-07-14 15:27 UTC]** Garimpos ilegais em reservas indígenas de RO e MT são desativados
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ro/rondonia/noticia/pf-e-ibama-descobrem-garimpos-ilegais-em-reservas-indigenas-de-ro-e-mt.ghtml)_
 
+- **[2018-07-11 09:00 UTC]** Ativista celebra patrocínio de Malala: 'O discurso dela é importante para as meninas indígenas'
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/ba/bahia/noticia/ativista-celebra-patrocinio-de-malala-o-discurso-dela-e-importante-para-as-meninas-indigenas.ghtml)_
+
