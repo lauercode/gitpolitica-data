@@ -11,3 +11,6 @@
 - **[2026-08-27 15:18 UTC]** Brasileiro que lutava na Ucrânia morre em ataque de drone no dia do aniversário, diz família
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/27/brasileiro-ataque-drones-ucrania-morre-familia.ghtml)_
 
+- **[2026-08-24 19:06 UTC]** Drone da TV Anhanguera flagra momento em que motociclista tenta fazer gato e cai em avenida de Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/drone-da-tv-anhanguera-flagra-momento-em-que-motociclista-tenta-fazer-gato-e-cai-em-avenida-de-palmas.ghtml)_
+
