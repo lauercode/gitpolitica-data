@@ -44,3 +44,6 @@
 - **[2018-07-22 14:10 UTC]** Fiscalização nas redes sociais será desafio para eleições, avalia TRE-DF; leia entrevista
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/df/distrito-federal/eleicoes/2018/noticia/2018/07/22/fiscalizacao-nas-redes-sociais-sera-desafio-para-eleicoes-avalia-tre-df-leia-entrevista.ghtml)_
 
+- **[2018-07-17 08:33 UTC]** Empreendimento residencial de alto padrão será construído no Setor Campinas, em Goiânia
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/mercado-imobiliario/noticia/empreendimento-residencial-de-alto-padrao-sera-construido-no-setor-campinas-em-goiania.ghtml)_
+
