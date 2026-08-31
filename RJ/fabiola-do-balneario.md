@@ -8,3 +8,6 @@
 - **[2026-08-27 06:00 UTC]** Jair Renan Bolsonaro tem desconto de R$ 4.500 no salário por faltar a sessões na Câmara de Balneário Camboriú
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/jair-renan-bolsonaro-tem-desconto-de-r-4500-no-salario-por-faltar-a-sessoes-na-camara-de-balneario-camboriu.shtml)_
 
+- **[2026-08-26 21:45 UTC]** Eleições 2026 em SC: Marcus Sodré se reúne com apoiadores e distribui panfletos em Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-em-sc-marcus-sodre-se-reune-com-apoiadores-balneario-camboriu.ghtml)_
+
