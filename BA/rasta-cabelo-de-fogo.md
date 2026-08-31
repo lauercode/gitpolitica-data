@@ -17,3 +17,6 @@
 - **[2018-07-13 21:37 UTC]** Ônibus pega fogo na BR-267 em Juiz de Fora
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/zona-da-mata/noticia/onibus-pega-fogo-na-br-267-em-juiz-de-fora.ghtml)_
 
+- **[2018-07-10 20:11 UTC]** Carreta carregada com combustíveis pega fogo na MG-265 na Zona da Mata
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/zona-da-mata/noticia/carreta-carregada-com-combustiveis-pega-fogo-na-mg-265-na-zona-da-mata.ghtml)_
+
