@@ -14,3 +14,6 @@
 - **[2026-08-30 14:35 UTC]** Homem morre após ser atropelado por motociclista na ponte Jornalista Phelippe Daou, em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/30/homem-morre-apos-ser-atropelado-por-motociclista-na-ponte-jornalista-phelippe-daou-em-manaus.ghtml)_
 
+- **[2026-08-28 21:22 UTC]** Servidor da SSP-AM é exonerado após acidente que matou motociclista em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/servidor-da-ssp-am-e-exonerado-apos-acidente-que-matou-motociclista-em-manaus.ghtml)_
+
