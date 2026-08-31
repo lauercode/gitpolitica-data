@@ -32,3 +32,6 @@
 - **[2018-07-18 01:08 UTC]** Aluna vai prestar serviços à comunidade no ES após ofender professora em app de mensagens
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/aluna-vai-prestar-servicos-a-comunidade-no-es-apos-ofender-professora-em-app-de-mensagens.ghtml)_
 
+- **[2018-07-16 15:43 UTC]** Professora do ES morreu com a filha nos braços em acidente no MS
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/professora-do-es-morreu-com-a-filha-nos-bracos-em-acidente-no-ms.ghtml)_
+
