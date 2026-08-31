@@ -116,3 +116,6 @@
 - **[2018-04-25 15:28 UTC]** Fernando de Noronha teve 90 saltos de paraquedas
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/fernando-de-noronha-teve-90-saltos-de-paraquedas.html)_
 
+- **[2018-04-25 11:48 UTC]** Píer de passageiros do Porto de Fernando de Noronha é interditado
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/pier-de-passageiros-do-porto-de-fernando-de-noronha-e-interditado.html)_
+
