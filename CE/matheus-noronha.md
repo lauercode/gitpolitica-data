@@ -65,3 +65,6 @@
 - **[2018-05-05 07:53 UTC]** “Meu Malvado Favorito” será exibido na reabertura do Cine Mabuya, em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/meu-malvado-favorito-sera-exibido-na-reabertura-do-cine-mabuya-em-fernando-de-noronha.html)_
 
+- **[2018-05-04 15:54 UTC]** Regulamentação de atividades no Porto de  Fernando de Noronha é apresentada
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/regulamentacao-de-atividades-no-porto-de-fernando-de-noronha-e-apresentada.html)_
+
