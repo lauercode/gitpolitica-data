@@ -50,3 +50,6 @@
 - **[2026-08-18 22:09 UTC]** Debate entre candidatos ao governo de Rondônia tem troca de acusações e debates sobre saúde e infraestrutura
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/18/debate-entre-candidatos-ao-governo-de-rondonia.ghtml)_
 
+- **[2026-08-18 14:30 UTC]** PRF confirma três mortes em acidente com caminhões em chamas na BR-364 em Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/18/acidente-com-caminhoes-em-chamas-na-br-364-deixa-tres-mortos-em-rondonia.ghtml)_
+
