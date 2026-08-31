@@ -14,3 +14,6 @@
 - **[2017-06-22 16:08 UTC]** Nascer Bem auxilia empreendedora a abrir loja de presentes de sucesso
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/06/nascer-bem-auxilia-empreendedora-abrir-loja-de-presentes-de-sucesso_.html)_
 
+- **[2026-08-28 20:00 UTC]** Funcionário é suspeito de furtar loja onde trabalhava e polícia recupera dinheiro e joias no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/funcionario-e-suspeito-de-furtar-loja-onde-trabalhava-e-policia-recupera-dinheiro-e-joias-no-para.ghtml)_
+
