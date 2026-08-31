@@ -161,3 +161,6 @@
 - **[2026-08-25 23:38 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 25 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-25-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-25 22:10 UTC]** Conta de luz tem redução de mais de 5% no Acre a partir desta quarta-feira; Veja quem é beneficiado
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/conta-de-luz-tem-reducao-de-mais-de-5percent-no-acre-a-partir-desta-quarta-feira-veja-quem-e-beneficiado.ghtml)_
+
