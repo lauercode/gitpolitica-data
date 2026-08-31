@@ -201,3 +201,6 @@ Diretor
 - **[2026-08-24 11:18 UTC]** Jornalista Rodrigues Neto, diretor da TV Câmara, morre no dia do aniversário em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/24/jornalista-rodrigues-neto-morre-dia-aniversario-natal.ghtml)_
 
+- **[2026-08-19 13:21 UTC]** Câmara Municipal abre concurso público com salários de até R$ 12 mil em São Miguel do Guaporé, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/19/camara-municipal-abre-concurso-publico-em-sao-miguel-do-guapore-ro.ghtml)_
+
