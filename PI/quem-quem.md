@@ -149,3 +149,6 @@
 - **[2026-08-25 19:05 UTC]** Conta de luz terá redução de 10,63% em Rondônia; veja quem é beneficiado
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/25/conta-de-luz-tera-reducao-em-rondonia.ghtml)_
 
+- **[2026-08-26 20:39 UTC]** Roubo de R$ 800 mil e ouro em Roraima: veja como foi e quem são policiais e suspeitos envolvidos
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/roubo-de-r-800-mil-e-ouro-em-roraima-veja-como-foi-e-quem-sao-policiais-e-suspeitos-envolvidos.ghtml)_
+
