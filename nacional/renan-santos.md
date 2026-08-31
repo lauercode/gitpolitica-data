@@ -74,3 +74,6 @@
 - **[2026-08-31 14:48 UTC]** Toffoli proíbe Renan Santos de participar de debates e fazer propaganda eleitoral digital
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/toffoli-proibe-renan-santos-de-participar-de-debates-e-fazer-propaganda-eleitoral.shtml)_
 
+- **[2026-08-31 18:47 UTC]** Toffoli suspende campanha de Renan Santos à presidência
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-suspende-campanha-renan-santos-presidencia/)_
+
