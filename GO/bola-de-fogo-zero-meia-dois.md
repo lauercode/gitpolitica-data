@@ -101,3 +101,6 @@
 - **[2018-07-21 16:30 UTC]** Homem é suspeito de matar mulher, atirar em dois enteados e se matar, no ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/2018/07/21/homem-e-suspeito-de-matar-mulher-atirar-em-dois-enteados-e-se-matar-no-es.ghtml)_
 
+- **[2017-04-02 18:46 UTC]** Avião que caiu em aeroporto e matou dois estava apto para voar, diz Anac
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/aviao-que-caiu-em-aeroporto-e-matou-dois-estava-apto-para-voar-diz-anac.html)_
+
