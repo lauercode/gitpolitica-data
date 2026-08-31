@@ -185,3 +185,6 @@
 - **[2026-08-30 15:43 UTC]** Flávio Bolsonaro encontra ministro de Bukele para tratar sobre segurança pública
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-encontra-ministro-bukele-tratar-seguranca-publica/)_
 
+- **[2026-08-31 21:41 UTC]** Gazeta do Povo vai a evento do Irã e do PT no Brasil e mostra como é o aliciamento de apoiadores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gazeta-do-povo-vai-a-evento-do-ira-e-do-pt-no-brasil-e-mostra-como-e-o-aliciamento-de-apoiadores/)_
+
