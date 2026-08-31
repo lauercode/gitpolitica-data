@@ -11,3 +11,6 @@
 - **[2026-08-26 13:36 UTC]** Valmir de Francisquinho recebe alta hospitalar em Aracaju
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/valmir-de-francisquinho-recebe-alta-hospitalar-em-aracaju.ghtml)_
 
+- **[2026-08-25 10:00 UTC]** Eleições 2026: veja propostas de  Valmir de Francisquinho para o governo Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-valmir-de-francisquinho-para-o-governo-sergipe.ghtml)_
+
