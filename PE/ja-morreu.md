@@ -83,3 +83,6 @@
 - **[2026-08-30 15:35 UTC]** Adolescente que morreu após caminhonete capotar e ser atingida por caminhão na BR-376 no PR é identificado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/30/adolescente-identificado-acidente-caminhonete-parana.ghtml)_
 
+- **[2026-08-30 10:26 UTC]** Homem que morreu ao cair do 14º andar no Paraná tentava fugir de torturas, diz laudo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/30/laudo-descarta-que-jovem-torturado-no-pr-foi-jogado-de-predio.ghtml)_
+
