@@ -23,3 +23,6 @@
 - **[2026-08-21 00:46 UTC]** Renan Santos, candidato do Missão, defende zonas econômicas especiais no Nordeste
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/20/renan-santos-candidato-do-missao-defende-zonas-economicas-especiais-no-nordeste.ghtml)_
 
+- **[2017-08-24 17:07 UTC]** Ceará ganha programa de tratamento pioneiro no Norte/Nordeste
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/08/ceara-ganha-programa-de-tratamento-pioneiro-no-nortenordeste.html)_
+
