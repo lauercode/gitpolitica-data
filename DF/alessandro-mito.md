@@ -11,3 +11,6 @@
 - **[2018-04-26 09:00 UTC]** 3 verdades e 1 mito sobre as intolerâncias e alergias alimentares!
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/sorocaba-jundiai/blog/5-minutos-com-roberta-cassani/post/3-verdades-e-1-mito-sobre-intolerancias-e-alergias-alimentares.html)_
 
+- **[2018-03-29 09:00 UTC]** 3 verdades e 1 mito sobre o glúten!
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/sorocaba-jundiai/blog/5-minutos-com-roberta-cassani/post/3-verdades-e-1-mito-sobre-o-gluten.html)_
+
