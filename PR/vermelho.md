@@ -20,3 +20,6 @@
 - **[2026-08-28 11:55 UTC]** Servidor da SSP avança sinal vermelho com caminhonete descaracterizada e bate em motociclista que morre em Manaus; VÍDEO
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/caminhonete-avanca-sinal-vermelho-e-bate-em-motociclista-que-morre-em-manaus-video.ghtml)_
 
+- **[2017-04-09 09:24 UTC]** Motorista 'fura' sinal vermelho, colide e foge em Campo Grande
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/2017/04/motorista-fura-sinal-vermelho-colide-e-foge-em-campo-grande.html)_
+
