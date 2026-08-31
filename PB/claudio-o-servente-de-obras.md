@@ -32,3 +32,6 @@
 - **[2026-08-28 00:42 UTC]** Prolongamento de ponte sobre o Rio Tarauacá é concluído após 6 anos de obras no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/prolongamento-de-ponte-sobre-o-rio-tarauaca-e-concluido-apos-6-anos-de-obras-no-acre.ghtml)_
 
+- **[2026-08-28 22:37 UTC]** Renan Filho destaca obras de infraestrutura, saúde e educação durante agenda em Arapiraca
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-destaca-obras-de-infraestrutura-saude-e-educacao-durante-agenda-em-arapiraca.ghtml)_
+
