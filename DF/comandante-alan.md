@@ -11,3 +11,6 @@
 - **[2026-08-27 22:31 UTC]** Quaest no AC: Alan, 33%; Mailza, 24%; Bocalom, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-no-ac-alan-33percent-mailza-24percent-bocalom-15percent-thor-2percent.ghtml)_
 
+- **[2026-08-31 15:45 UTC]** Alan Rick promete melhorias em mobilidade urbana durante caminhada no Segundo Distrito de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/alan-rick-promete-melhorias-em-mobilidade-urbana-durante-caminhada-no-segundo-distrito-de-rio-branco.ghtml)_
+
