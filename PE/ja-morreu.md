@@ -77,3 +77,6 @@
 - **[2017-10-30 11:59 UTC]** Motorista que morreu junto com o filho e a nora em acidente voltava de velório do sogro dele em MT
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/motorista-que-morreu-junto-com-o-filho-e-a-nora-em-acidente-voltava-de-velorio-do-sogro-dele-em-mt.ghtml)_
 
+- **[2026-08-31 13:44 UTC]** Homens torturaram jovem após acusá-lo de furtos, diz investigação; vítima morreu depois de cair do 14º andar no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/31/motivacao-tortura-homem-queda-predio-parana.ghtml)_
+
