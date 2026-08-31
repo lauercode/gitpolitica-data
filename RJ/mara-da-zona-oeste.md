@@ -20,3 +20,6 @@
 - **[2018-07-12 20:59 UTC]** ES entra na Justiça para barrar investimento em ferrovia no Centro-Oeste
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/es-entra-na-justica-para-barrar-investimento-em-ferrovia-no-centro-oeste.ghtml)_
 
+- **[2017-07-06 11:54 UTC]** Empresa de tecnologia de MS é a 4ª melhor para trabalhar no Centro-Oeste
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/digix/noticia/2017/07/empresa-de-tecnologia-de-ms-e-4-melhor-para-trabalhar-no-centro-oeste.html)_
+
