@@ -35,3 +35,6 @@
 - **[2018-01-09 09:36 UTC]** Motociclista multado por não usar cinto de segurança luta há 2 anos para cancelar infração, em Jaraguá
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/motociclista-multado-por-nao-usar-cinto-de-seguranca-luta-ha-2-anos-para-cancelar-infracao-em-jaragua.ghtml)_
 
+- **[2017-07-10 19:11 UTC]** Motociclista, confira abaixo algumas dicas de segurança no trânsito
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/motociclista-confira-abaixo-algumas-dicas-de-seguranca-no-transito.html)_
+
