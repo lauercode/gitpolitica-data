@@ -11,3 +11,6 @@
 - **[2026-08-28 00:02 UTC]** Homem de 36 anos é encontrado morto no quintal de casa no Acre; suspeita é de mal súbito
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/homem-de-36-anos-e-encontrado-morto-no-quintal-de-casa-no-acre-suspeita-e-de-mal-subito.ghtml)_
 
+- **[2017-11-06 17:17 UTC]** Ex-namorado mata jovem, tenta se esconder em árvore no quintal da casa da avó e é preso em Cuiabá
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/ex-namorado-mata-jovem-tenta-se-esconder-em-arvore-no-quintal-da-casa-da-avo-e-e-preso-em-cuiaba.ghtml)_
+
