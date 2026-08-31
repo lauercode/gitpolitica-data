@@ -29,3 +29,6 @@
 - **[2026-08-30 13:54 UTC]** Vc viu? Família é assaltada dentro de casa em São Luís, Justiça afasta ex-prefeito de Imperatriz e timelapse registra eclipse lunar nos Lençóis Maranhenses
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/post/2026/08/30/vc-viu-familia-e-assaltada-dentro-de-casa-em-sao-luis-justica-afasta-ex-prefeito-de-imperatriz-e-timelapse-registra-eclipse-lunar-nos-lencois-maranhenses.ghtml)_
 
+- **[2026-08-27 17:01 UTC]** Prefeito, primeira-dama e mais seis pessoas viram réus por fraudes em licitações, no Agreste da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/prefeito-primeira-dama-e-mais-seis-pessoas-viram-reus-por-fraudes-em-licitacoes-no-agreste-da-paraiba.ghtml)_
+
