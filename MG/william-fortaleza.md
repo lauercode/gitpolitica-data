@@ -65,3 +65,6 @@
 - **[2017-07-27 16:53 UTC]** Manifestantes fazem protesto em frente à residência do senador Eunício em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/manifestantes-fazem-protesto-em-frente-a-residencia-do-senador-eunicio-em-fortaleza.ghtml)_
 
+- **[2017-07-26 16:58 UTC]** MEC disponibiliza vagas do FIES para Universidade de Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/07/mec-disponibiliza-vagas-do-fies-para-universidade-de-fortaleza.html)_
+
