@@ -17,3 +17,6 @@
 - **[2018-07-18 14:57 UTC]** Emprega São Paulo oferece 520 oportunidades em Sorocaba e região
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/18/emprega-sao-paulo-oferece-520-oportunidades-em-sorocaba-e-regiao.ghtml)_
 
+- **[2018-07-17 19:22 UTC]** Feira de adoção de filhotes recebe inscrições até quinta-feira em Sorocaba
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/feira-de-adocao-de-filhotes-recebe-inscricoes-ate-quinta-feira-em-sorocaba.ghtml)_
+
