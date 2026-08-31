@@ -44,3 +44,6 @@
 - **[2018-05-09 12:02 UTC]** Projeto Tamar realiza soltura de filhotes de tartaruga em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/projeto-tamar-realiza-soltura-de-filhotes-de-tartaruga-em-fernando-de-noronha.html)_
 
+- **[2018-05-09 10:32 UTC]** Cruzeiros devem voltar a Fernando de Noronha a partir de outubro
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/cruzeiros-devem-voltar-fernando-de-noronha-partir-de-outubro.html)_
+
