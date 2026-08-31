@@ -98,3 +98,6 @@
 - **[2026-08-29 14:41 UTC]** Bois são abandonados sem água e comida na fronteira em Roraima e motorista é multado em R$ 37 mil
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/bois-sao-abandonados-sem-agua-e-comida-na-fronteira-em-roraima-e-motorista-e-multado-em-r-37-mil.ghtml)_
 
+- **[2026-08-27 13:15 UTC]** Condenado por estuprar vizinha de 12 anos após vítima pedir água é preso em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/27/condenado-por-estuprar-vizinha-de-12-anos-apos-vitima-pedir-agua-e-preso-em-boa-vista.ghtml)_
+
