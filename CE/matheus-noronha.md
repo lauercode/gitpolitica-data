@@ -59,3 +59,6 @@
 - **[2018-05-07 06:51 UTC]** Flávio Canto participa de atividades do Tamar em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/flavio-canto-participa-de-atividades-do-tamar-em-fernando-de-noronha.html)_
 
+- **[2018-05-06 09:36 UTC]** Fernando de Noronha terá  1º Encontro Espírita
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/fernando-de-noronha-tera-1-encontro-espirita.html)_
+
