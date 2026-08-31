@@ -20,3 +20,6 @@
 - **[2026-08-29 13:36 UTC]** Justiça determina retorno da VRS ao transporte coletivo de Aracaju
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/29/justica-determina-retorno-da-vrs-ao-transporte-coletivo-de-aracaju.ghtml)_
 
+- **[2026-08-27 10:31 UTC]** Retorno da Avenida Tancredo Neves é interditado em Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/27/retorno-da-avenida-tancredo-neves-e-interditado-em-aracaju.ghtml)_
+
