@@ -53,3 +53,6 @@
 - **[2018-05-08 10:22 UTC]** Procuradoria não libera a entrega de terrenos em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/procuradoria-nao-libera-entrega-de-terrenos-em-fernando-de-noronha.html)_
 
+- **[2018-05-07 11:03 UTC]** Alojamento considerado irregular na Escola de Fernando de Noronha é denunciado
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/alojamento-considerado-irregular-na-escola-de-fernando-de-noronha-e-denunciado.html)_
+
