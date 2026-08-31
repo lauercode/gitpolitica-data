@@ -86,3 +86,6 @@
 - **[2017-07-17 11:36 UTC]** Projeto Piloto Consciente recebe edição do Daqui é Show
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/projeto-piloto-consciente-recebe-edicao-do-daqui-e-show.html)_
 
+- **[2017-07-10 19:04 UTC]** DETRAN Goiás realiza 1ª edição do projeto Piloto Consciente
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/detran-goias-realiza-1-edicao-do-projeto-piloto-consciente.html)_
+
