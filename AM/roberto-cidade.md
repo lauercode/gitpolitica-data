@@ -68,3 +68,6 @@
 - **[2017-08-18 21:19 UTC]** Vídeo de nuvem em forma de 'flecha vermelha' viraliza e chama atenção em cidade do interior da Bahia
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/video-de-nuvem-em-forma-de-flecha-vermelha-viraliza-e-chama-atencao-em-cidade-do-interior-da-bahia.ghtml)_
 
+- **[2026-08-28 11:22 UTC]** Bolão do Paraná acerta a quina da Mega-Sena; veja a cidade e valor
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/28/bolao-do-parana-acerta-a-quina-da-mega.ghtml)_
+
