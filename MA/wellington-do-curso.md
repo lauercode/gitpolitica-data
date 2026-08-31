@@ -41,3 +41,6 @@
 - **[2026-08-30 18:14 UTC]** Instituto oferta 100 vagas em curso gratuito de inglês em Roraima; veja como se inscrever
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/30/instituto-oferta-100-vagas-em-curso-gratuito-de-ingles-em-roraima-veja-como-se-inscrever.ghtml)_
 
+- **[2026-08-29 10:50 UTC]** Bombeiro de Sergipe sofre queda e morre durante curso de operações em árvores em BH
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/mg/minas-gerais/noticia/2026/08/29/bombeiro-sergipe-queda-morre-curso-bh.ghtml)_
+
