@@ -98,3 +98,6 @@
 - **[2026-08-26 11:32 UTC]** Polícia Civil faz operação em cinco estados contra chefes de quadrilha com forte atuação no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/operacao-policia-civil-faccao-rs-cinco-estados.ghtml)_
 
+- **[2026-08-27 20:14 UTC]** Novo vídeo mostra que carreta fazia ultrapassagem quando bateu em caminhonete em RO; cinco pessoas morreram
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/novo-video-mostra-acidente-em-rondonia.ghtml)_
+
