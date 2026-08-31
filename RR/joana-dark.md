@@ -32,3 +32,6 @@
 - **[2026-08-26 21:32 UTC]** Tarcísio cobra governo federal por corrupção e diz que Flávio já se explicou sobre Dark Horse
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/tarcisio-cobra-governo-federal-por-corrupcao-e-diz-que-flavio-ja-se-explicou-sobre-dark-horse/)_
 
+- **[2026-08-31 05:01 UTC]** Podcast discute uso político da corrupção e dos casos 'Dark Horse' e Lulinha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/08/podcast-discute-uso-politico-da-corrupcao-e-dos-casos-dark-horse-e-lulinha.shtml)_
+
