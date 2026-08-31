@@ -14,3 +14,6 @@
 - **[2026-08-28 18:28 UTC]** Flávio culpa governo por risco de falência do Habib’s: “Não resistiu ao Lula”
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-culpa-governo-por-risco-de-falencia-do-habibs-nao-resistiu-ao-lula/)_
 
+- **[2026-08-26 17:08 UTC]** Justiça Eleitoral rejeita pedido do MPE e autoriza uso de 'Cadu de Lula' e 'Samanda de Lula' nas urnas
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/08/26/justica-eleitoral-rejeita-pedido-do-mpe-e-autoriza-uso-de-cadu-de-lula-e-samanda-de-lula-nas-urnas.ghtml)_
+
