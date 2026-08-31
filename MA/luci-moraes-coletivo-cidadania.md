@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-08-30 17:45 UTC]** Amazonian Youth Summit 2026 reúne jovens, especialistas e lideranças para discutir sustentabilidade, educação e cidadania global
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/30/amazonian-youth-summit-2026-reune-jovens-especialistas-e-liderancas-para-discutir-sustentabilidade-educacao-e-cidadania-global.ghtml)_
+
