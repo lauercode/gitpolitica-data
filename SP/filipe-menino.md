@@ -23,3 +23,6 @@
 - **[2026-08-28 16:22 UTC]** Menino de 7 anos morre após carro bater em árvore ao voltar de visita à avó no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/28/menino-de-7-anos-morre.ghtml)_
 
+- **[2026-08-29 22:55 UTC]** Caso Oliver: pai e mãe de menino de 3 anos que morreu após agressões viram réus no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/caso-oliver-pai-e-mae-de-menino-de-3-anos-viram-reus-no-rs.ghtml)_
+
