@@ -77,3 +77,6 @@
 - **[2026-08-31 18:47 UTC]** Toffoli suspende campanha de Renan Santos à presidência
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-suspende-campanha-renan-santos-presidencia/)_
 
+- **[2026-08-31 16:38 UTC]** Renan Santos cita Ucrânia para defender programa nuclear e ampliar poder de dissuasão do Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-cita-ucrania-para-defender-programa-nuclear-ampliar-poder-de-dissuasao-do-brasil/)_
+
