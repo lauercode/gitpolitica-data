@@ -20,3 +20,6 @@
 - **[2026-08-29 23:00 UTC]** Renda do trabalhador se aproxima do salário mínimo em sete estados do Nordeste, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/renda-do-trabalhador-se-aproxima-do-salario-minimo-em-sete-estados-do-nordeste-diz-estudo.shtml)_
 
+- **[2026-08-21 00:46 UTC]** Renan Santos, candidato do Missão, defende zonas econômicas especiais no Nordeste
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/20/renan-santos-candidato-do-missao-defende-zonas-economicas-especiais-no-nordeste.ghtml)_
+
