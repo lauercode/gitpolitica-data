@@ -14,3 +14,6 @@
 - **[2026-08-27 21:15 UTC]** Lula 3 não entendeu que Lula 4 depende de muito mais do que emprego e renda melhores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/lula-3-nao-entendeu-que-lula-4-depende-de-muito-mais-do-que-emprego-e-renda-melhores.shtml)_
 
+- **[2018-07-13 11:52 UTC]** Monte Verde tem mais uma madrugada com menor temperatura de Minas Gerais, - 0,3º C
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/monte-verde-tem-mais-uma-madrugada-com-a-menor-temperatura-de-minas-gerais-03o-c.ghtml)_
+
