@@ -80,3 +80,6 @@
 - **[2017-06-07 18:52 UTC]** Sebrae e 6º Distrito Naval de Ladário assinam Plano de Trabalho conjunto
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/06/sebrae-e-6-distrito-naval-de-ladario-assinam-plano-de-trabalho-conjunto.html)_
 
+- **[2018-07-12 13:21 UTC]** Após assinatura de convênio, Sine de Uberaba também vai emitir carteira de trabalho
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/triangulo-mineiro/concursos-e-emprego/noticia/apos-assinatura-de-convenio-sine-de-uberaba-tambem-vai-emitir-carteira-de-trabalho.ghtml)_
+
