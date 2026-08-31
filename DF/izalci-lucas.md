@@ -29,3 +29,6 @@
 - **[2026-08-25 22:28 UTC]** Quaest para o Senado no AP: Rayssa Furlan, 27%; Randolfe Rodrigues, 19%; Lucas Barreto, 18%
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/25/quaest-ap-senado-25-agosto.ghtml)_
 
+- **[2026-08-26 09:00 UTC]** Caso Yasmin Macedo: entenda, ponto a ponto, a sentença que condenou Lucas Magalhães por crimes com arma e o absolveu de homicídio
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/caso-yasmin-macedo-entenda-ponto-a-ponto-a-sentenca-que-condenou-lucas-magalhaes-por-crimes-com-arma-e-o-absolveu-de-homicidio.ghtml)_
+
