@@ -50,3 +50,6 @@
 - **[2026-08-31 17:03 UTC]** Projeto garante valor máximo de insalubridade para coveiros, sepultadores e catadores de lixo
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300436-projeto-garante-valor-maximo-de-insalubridade-para-coveiros-sepultadores-e-catadores-de-lixo)_
 
+- **[2026-08-31 16:03 UTC]** Projeto proíbe bloqueio remoto de veículos por falta de pagamento de parcelas
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300599-projeto-proibe-bloqueio-remoto-de-veiculos-por-falta-de-pagamento-de-parcelas)_
+
