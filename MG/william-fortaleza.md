@@ -23,3 +23,6 @@
 - **[2017-11-09 20:06 UTC]** Homem é retirado à força de casa e é assassinado no meio de rua em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/homem-e-retirado-a-forca-de-casa-e-e-assassinado-no-meio-de-rua-em-fortaleza.ghtml)_
 
+- **[2017-11-04 17:39 UTC]** Homem reage a assalto e é morto no estacionamento de supermercado, em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/homem-reage-a-assalto-e-e-morto-no-estacionamento-de-supermercado-em-fortaleza.ghtml)_
+
