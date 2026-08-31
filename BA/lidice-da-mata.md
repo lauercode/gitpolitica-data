@@ -41,3 +41,6 @@
 - **[2026-08-29 17:11 UTC]** Área de mata pega fogo próximo a cemitério no interior do Acre; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/area-de-mata-pega-fogo-proximo-a-cemiterio-no-interior-do-acre.ghtml)_
 
+- **[2017-09-08 10:47 UTC]** Após briga em grupo de mensagens, policial mata vizinho a tiros no DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-briga-em-grupo-de-mensagens-policial-mata-vizinho-a-tiros-no-df.ghtml)_
+
