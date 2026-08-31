@@ -26,3 +26,6 @@
 - **[2026-08-26 19:07 UTC]** Escolher um vinho é escolher o momento que ele vai acompanhar
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/08/26/escolher-um-vinho-e-escolher-o-momento-que-ele-vai-acompanhar.ghtml)_
 
+- **[2017-10-26 15:36 UTC]** Mãe de menina baleada na Rocinha diz que não viu o momento em que a filha foi atingida
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/mae-de-menina-baleada-na-rocinha-diz-que-nao-viu-o-momento-em-que-a-filha-foi-atingida.ghtml)_
+
