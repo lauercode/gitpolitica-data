@@ -29,3 +29,6 @@
 - **[2026-08-31 20:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-acre.ghtml)_
 
+- **[2026-08-31 20:03 UTC]** Eleições 2026: veja todos os candidatos ao governo do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-do-acre.ghtml)_
+
