@@ -26,3 +26,6 @@
 - **[2018-07-20 17:52 UTC]** 'Estamos chocados', diz diretor sobre morte de motorista de clínica esfaqueado por usuário de drogas
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2018/07/20/estamos-chocados-diz-diretor-sobre-morte-de-motorista-de-clinica-esfaqueado-por-usuario-de-drogas.ghtml)_
 
+- **[2026-08-24 11:18 UTC]** Jornalista Rodrigues Neto, diretor da TV Câmara, morre no dia do aniversário em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/24/jornalista-rodrigues-neto-morre-dia-aniversario-natal.ghtml)_
+
