@@ -101,3 +101,6 @@
 - **[2026-08-31 18:10 UTC]** Decisão de Toffoli contra Renan Santos é alvo de críticas no TSE, e ministros defendem debate em plenário
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/decisao-de-toffoli-contra-renan-santos-e-alvo-de-criticas-no-tse-e-ministros-defendem-debate-em-plenario.shtml)_
 
+- **[2026-08-21 00:46 UTC]** Renan Santos, candidato do Missão, defende zonas econômicas especiais no Nordeste
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/20/renan-santos-candidato-do-missao-defende-zonas-economicas-especiais-no-nordeste.ghtml)_
+
