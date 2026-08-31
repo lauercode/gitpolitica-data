@@ -35,3 +35,6 @@
 - **[2026-08-26 01:50 UTC]** Caso Yasmin Macêdo: Lucas Magalhães é condenado a 4 anos e 10 meses por porte e disparo de arma, e absolvido de homicídio no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/25/caso-yasmin-macedo-lucas-magalhaes-dono-de-lancha-e-condenado-a-4-anos-e-10-meses-em-regime-semiaberto-no-para.ghtml)_
 
+- **[2026-08-28 20:00 UTC]** Lucas Ribeiro se reúne com lojistas e defende fortalecimento do comércio de Campina Grande
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/28/lucas-ribeiro-se-reune-com-lojistas-e-defende-fortalecimento-do-comercio-de-campina-grande.ghtml)_
+
