@@ -14,3 +14,6 @@
 - **[2026-08-31 16:31 UTC]** Apenas um quinto das empresas se dedica à proteção de dados pessoais
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/inovacao/audio/2026-08/apenas-um-quinto-das-empresas-se-dedica-protecao-de-dados-pessoais)_
 
+- **[2018-07-11 12:33 UTC]** Jovem embriagado é preso após bater carro de luxo contra proteção de ponto de ônibus em Goiânia, diz polícia
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/motorista-e-preso-apos-dirigir-carro-de-luxo-embriagado-e-bater-contra-protecao-de-ponto-de-onibus-em-goiania.ghtml)_
+
