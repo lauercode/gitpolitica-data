@@ -41,3 +41,6 @@
 - **[2026-08-31 19:23 UTC]** Eleições 2026: veja todos os candidatos ao Senado pelo Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-senado-pelo-acre.ghtml)_
 
+- **[2026-08-31 16:09 UTC]** Caso Géssica: PMs são pronunciados a júri popular após quase 3 anos de morte de enfermeira no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/caso-gessica-pms-sao-pronunciados-a-juri-popular-apos-quase-3-anos-de-morte-de-enfermeira-no-acre.ghtml)_
+
