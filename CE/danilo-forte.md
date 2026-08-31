@@ -65,3 +65,6 @@
 - **[2026-08-26 11:32 UTC]** Polícia Civil faz operação em cinco estados contra chefes de quadrilha com forte atuação no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/operacao-policia-civil-faccao-rs-cinco-estados.ghtml)_
 
+- **[2026-08-18 22:37 UTC]** Vídeo: Estrutura metálica é arrastada com vento forte durante chuva em Cujubim, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/18/video-estrutura-metalica-e-arrastada-com-vento-forte-durante-chuva-em-cujubim-ro.ghtml)_
+
