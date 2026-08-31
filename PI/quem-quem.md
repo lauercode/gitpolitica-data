@@ -119,3 +119,6 @@
 - **[2026-08-29 11:01 UTC]** Unidades de saúde em Rio Branco oferecem tratamento para quem quer parar de fumar; saiba mais
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/unidades-de-saude-em-rio-branco-oferecem-tratamento-para-quem-quer-parar-de-fumar-saiba-mais.ghtml)_
 
+- **[2026-08-19 20:50 UTC]** Quem era a advogada morta ao passear com cachorro em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/19/quem-era-a-advogada-morta-ao-passear-com-cachorro-em-maceio.ghtml)_
+
