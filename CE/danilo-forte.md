@@ -56,3 +56,6 @@
 - **[2018-07-17 21:17 UTC]** Homem é baleado após tentativa de assalto a carro-forte em Caruaru
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/homem-e-baleado-apos-tentativa-de-assalto-a-carro-forte-em-caruaru.ghtml)_
 
+- **[2026-08-31 11:20 UTC]** VÍDEO: Câmera frontal registra batida forte que matou motorista no Noroeste do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/video-camera-frontal-registra-batida-noroeste-rs.ghtml)_
+
