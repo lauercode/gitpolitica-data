@@ -92,3 +92,6 @@
 - **[2026-08-21 22:07 UTC]** Tremor de terra é registrado no interior de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/tremor-de-terra-e-registrado-no-interior-de-sergipe.ghtml)_
 
+- **[2026-08-21 19:24 UTC]** Cantora Liene Show relata importunação sexual durante apresentação em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/cantora-liene-show-relata-importunacao-sexual-durante-apresentacao-em-sergipe.ghtml)_
+
