@@ -26,3 +26,6 @@
 - **[2017-10-15 17:23 UTC]** Missionário cearense contrai doença na Guiné-Bissau e família quer ajuda para transferência
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/missionario-cearense-contrai-doenca-na-guine-bissau-e-familia-quer-ajuda-para-transferencia.ghtml)_
 
+- **[2017-05-09 18:09 UTC]** Mãe pede ajuda para encontrar filho que sumiu há 10 anos
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/mae-pede-ajuda-para-encontrar-filho-que-sumiu-ha-10-anos.ghtml)_
+
