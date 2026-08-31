@@ -170,3 +170,6 @@
 - **[2026-08-25 19:44 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 25 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-terca-feira-25-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-25 18:04 UTC]** VÍDEO: Em oito meses, quase 300 celulares foram apreendidos em presídio do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/video-em-oito-meses-quase-300-celulares-foram-apreendidos-em-presidio-do-acre.ghtml)_
+
