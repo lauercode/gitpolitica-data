@@ -650,3 +650,6 @@
 - **[2018-05-07 06:51 UTC]** Flávio Canto participa de atividades do Tamar em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/flavio-canto-participa-de-atividades-do-tamar-em-fernando-de-noronha.html)_
 
+- **[2026-08-24 22:42 UTC]** Quaest no RN: Lula, 54%; Flávio Bolsonaro, 20%
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/08/24/quaest-no-rn-presidente-24-de-agosto.ghtml)_
+
