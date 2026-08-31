@@ -23,3 +23,6 @@
 - **[2018-07-09 22:34 UTC]** Peão pisoteado por touro em rodeio morreu após parada cardiorrespiratória, diz bombeiro
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/peao-pisoteado-por-touro-em-rodeio-morreu-apos-parada-cardiorrespiratoria-diz-bombeiro.ghtml)_
 
+- **[2018-07-09 16:48 UTC]** Peão do noroeste paulista morre pisoteado por touro em rodeio; vídeo
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/peao-do-noroeste-paulista-morre-pisoteado-por-touro-em-rodeio-video.ghtml)_
+
