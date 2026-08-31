@@ -152,3 +152,6 @@
 - **[2026-08-26 14:57 UTC]** Indígena tira certidão de nascimento tardia aos 19 anos no Acre: 'Quero estudar', diz
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/indigena-tira-certidao-de-nascimento-tardia-aos-19-anos-no-acre-quero-estudar-diz.ghtml)_
 
+- **[2026-08-26 13:32 UTC]** Mais de 370 kg de skunk são apreendidos dentro de embarcação no Acre; cinco fogem
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/policia-apreende-mais-de-370-kg-de-skunk-em-embarcacao-em-ramal-de-rio-branco-cinco-fogem.ghtml)_
+
