@@ -32,3 +32,6 @@
 - **[2017-07-13 11:47 UTC]** Viroses infantis exigem atenção redobrada dos pais
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/viroses-infantis-exigem-atencao-redobrada-dos-pais.html)_
 
+- **[2018-07-17 20:18 UTC]** É estável o quadro de saúde da menina do ES que perdeu os pais em acidente de carro na BR-060
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/e-estavel-o-quadro-de-saude-da-menina-do-es-que-perdeu-os-pais-em-acidente-de-carro-na-br-060.ghtml)_
+
