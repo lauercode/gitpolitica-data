@@ -83,3 +83,6 @@
 - **[2026-08-24 11:05 UTC]** Plataforma digital do NAT oferta mais de mil vagas de emprego em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/plataforma-digital-do-nat-oferta-mais-de-mil-vagas-de-emprego-em-sergipe.ghtml)_
 
+- **[2026-08-23 17:52 UTC]** Resultado da Mega-Sena 3048: apostas de Sergipe acertam números; veja valores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/23/resultado-da-mega-sena-3048-apostas-de-sergipe-acertam-numeros-veja-valores.ghtml)_
+
