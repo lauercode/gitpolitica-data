@@ -251,3 +251,6 @@
 - **[2017-12-12 21:56 UTC]** Presidente da Petrobras visita Bacia de Campos e fala de investimentos para os próximos anos
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/regiao-dos-lagos/noticia/presidente-da-petrobras-visita-bacia-de-campos-e-fala-de-investimentos-para-os-proximos-anos.ghtml)_
 
+- **[2026-08-17 23:23 UTC]** Presidente da Câmara de Cacoal cai de cavalo, vai para UTI e recebe alta em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/17/presidente-da-camara-de-cacoal-cai-de-cavalo-vai-para-uti-e-recebe-alta-em-ro.ghtml)_
+
