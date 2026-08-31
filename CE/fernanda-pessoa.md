@@ -129,3 +129,6 @@ direcionado às necessidades de cada pessoa
 - **[2026-08-28 06:00 UTC]** 'Praticamente excluída', diz delegado sobre a possibilidade de outra pessoa envolvida na morte de família em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/possibilidade-de-outra-pessoa-morte-de-familia-em-curitiba.ghtml)_
 
+- **[2026-08-22 14:35 UTC]** Acidente entre moto e caminhão deixa uma pessoa morta na BR-304, em Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/22/acidente-entre-moto-e-caminhao-deixa-uma-pessoa-morta-na-br-304-em-mossoro.ghtml)_
+
