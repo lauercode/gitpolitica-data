@@ -26,3 +26,6 @@
 - **[2026-08-24 20:04 UTC]** Médicos e enfermeiros são investigados pela morte de jovem no dia que seria libertado de presídio após ser absolvido
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/medicos-e-enfermeiros-sao-investigados-pela-morte-de-jovem-no-dia-que-seria-libertado-de-presidio-apos-ser-absolvido.ghtml)_
 
+- **[2026-08-24 11:29 UTC]** Caso Briner: operação cumpre mandados para investigar morte de jovem em presídio após ser inocentado
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/caso-briner-operacao-cumpre-mandados-para-investigar-morte-de-jovem-em-presidio-apos-ser-inocentado.ghtml)_
+
