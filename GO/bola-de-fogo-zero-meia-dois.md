@@ -65,3 +65,6 @@
 - **[2026-08-28 12:20 UTC]** Lula afirma não conhecer Roberta Luchsinger; redes sociais da empresária mostram registros dos dois juntos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/lula-afirma-nao-conhecer-roberta-luchsinger-redes-sociais-da-empresaria-mostram-registros-dos-dois-juntos.ghtml)_
 
+- **[2026-08-30 23:00 UTC]** Corregedor da Abin tem mandato renovado por mais dois anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/corregedor-da-abin-tem-mandato-renovado-por-mais-dois-anos.shtml)_
+
