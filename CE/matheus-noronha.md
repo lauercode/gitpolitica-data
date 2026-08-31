@@ -41,3 +41,6 @@
 - **[2018-05-09 12:36 UTC]** É ou não é? Neymar e Bruna Marquezine vão casar em Fernando de Noronha?
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/e-ou-nao-e-neymar-e-bruna-marquezine-vao-casar-em-fernando-de-noronha.html)_
 
+- **[2018-05-09 12:02 UTC]** Projeto Tamar realiza soltura de filhotes de tartaruga em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/projeto-tamar-realiza-soltura-de-filhotes-de-tartaruga-em-fernando-de-noronha.html)_
+
