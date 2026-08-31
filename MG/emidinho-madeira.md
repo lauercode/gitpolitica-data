@@ -14,3 +14,6 @@
 - **[2026-08-30 05:00 UTC]** Governo de Mato Grosso tenta mudar acordo para permitir uso de madeira nativa em usina de biodiesel
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/governo-de-mato-grosso-tenta-mudar-acordo-para-permitir-uso-de-madeira-nativa-em-usina-de-biodiesel.shtml)_
 
+- **[2026-08-22 12:00 UTC]** Operação fecha garimpos e apreende R$ 19 milhões em madeira e materiais no AP e PA
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/22/operacao-fecha-garimpos-e-apreende-r-19-milhoes-em-madeira-e-materiais-no-ap-e-pa.ghtml)_
+
