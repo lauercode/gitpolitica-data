@@ -116,3 +116,6 @@
 - **[2026-08-28 13:30 UTC]** Morre Cássio de Holanda Tavares, defensor público do Acre, aos 49 anos
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/morre-cassio-de-holanda-tavares-defensor-publico-do-acre-aos-49-anos.ghtml)_
 
+- **[2026-08-28 00:42 UTC]** Prolongamento de ponte sobre o Rio Tarauacá é concluído após 6 anos de obras no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/prolongamento-de-ponte-sobre-o-rio-tarauaca-e-concluido-apos-6-anos-de-obras-no-acre.ghtml)_
+
