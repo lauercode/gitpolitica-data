@@ -98,3 +98,6 @@
 - **[2026-08-21 15:40 UTC]** Advogado é preso suspeito de abusar sexualmente de pelo menos 10 crianças e adolescentes em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/advogado-e-preso-suspeito-de-abusar-sexualmente-de-pelo-menos-10-criancas-e-adolescentes-em-sergipe.ghtml)_
 
+- **[2026-08-21 14:16 UTC]** Resultado da Mega-Sena 3047: apostas de Sergipe acertam números; veja valores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/resultado-da-mega-sena-3047-apostas-de-sergipe-acertam-numeros-veja-valores.ghtml)_
+
