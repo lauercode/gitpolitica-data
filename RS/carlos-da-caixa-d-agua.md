@@ -104,3 +104,6 @@
 - **[2026-08-28 19:11 UTC]** VÍDEO: 'onda' de água e lama invade loja e assusta funcionários após adutora romper em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/onda-invade-loja-assusta-funcionarios-adutora-romper-sc.ghtml)_
 
+- **[2026-08-27 19:54 UTC]** Litros de água jorram para o alto na rua após rompimento de adutora na Grande Florianópolis; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/litros-agua-jorram-alto-rua-rompimento-adutora-sao-jose-video.ghtml)_
+
