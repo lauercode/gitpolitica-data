@@ -47,3 +47,6 @@
 - **[2026-08-19 14:53 UTC]** Candidaturas de mulheres caem 33% em Rondônia em 2026; só homens disputam o governo
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/19/candidaturas-de-mulheres-caem-em-rondonia-em-2026-so-homens-disputam-o-governo.ghtml)_
 
+- **[2026-08-18 22:09 UTC]** Debate entre candidatos ao governo de Rondônia tem troca de acusações e debates sobre saúde e infraestrutura
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/18/debate-entre-candidatos-ao-governo-de-rondonia.ghtml)_
+
