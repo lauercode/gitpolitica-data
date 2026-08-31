@@ -35,3 +35,6 @@
 - **[2026-08-28 22:37 UTC]** Renan Filho destaca obras de infraestrutura, saúde e educação durante agenda em Arapiraca
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-destaca-obras-de-infraestrutura-saude-e-educacao-durante-agenda-em-arapiraca.ghtml)_
 
+- **[2026-08-19 13:08 UTC]** Escritores de Alagoas, Paraíba e DF vencem o Prêmio Sesc de Literatura 2026; confira as obras
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/19/escritores-de-alagoas-paraiba-e-df-vencem-o-premio-sesc-de-literatura-2026-confira-as-obras.ghtml)_
+
