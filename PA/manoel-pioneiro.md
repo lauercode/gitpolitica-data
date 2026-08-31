@@ -11,3 +11,6 @@
 - **[2017-09-27 16:42 UTC]** Pioneiro do abstracionismo no país, Antonio Bandeira ganha exposição individual no Espaço Cultural Unifor
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/09/pioneiro-do-abstracionismo-no-pais-antonio-bandeira-ganha-exposicao-individual-no-espaco-cultural-unifor.html)_
 
+- **[2017-08-24 17:07 UTC]** Ceará ganha programa de tratamento pioneiro no Norte/Nordeste
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/08/ceara-ganha-programa-de-tratamento-pioneiro-no-nortenordeste.html)_
+
