@@ -74,3 +74,6 @@
 - **[2026-08-29 12:06 UTC]** Granizo destelha mais de 1,6 mil casas no RS; cidade do Norte do estado tem 60% da área atingida
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/granizo-atinge-rs-danifica-casas-tres-palmeiras.ghtml)_
 
+- **[2026-08-28 18:45 UTC]** Jaraguá do Sul começa a planejar como será a cidade em 2076
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/prefeitura-municipal-de-jaragua-do-sul/noticia/2026/08/28/jaragua-do-sul-comeca-a-planejar-como-sera-a-cidade-em-2076.ghtml)_
+
