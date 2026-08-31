@@ -213,3 +213,6 @@ Diretor
 - **[2026-08-25 22:47 UTC]** Câmara de Aracaju aprova projeto que regulamenta estações de recarga para veículos elétricos
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/25/camara-de-aracaju-aprova-projeto-que-regulamenta-estacoes-de-recarga-para-veiculos-eletricos.ghtml)_
 
+- **[2026-08-20 21:20 UTC]** Concurso público da Câmara Municipal de Nossa Senhora das Dores está com inscrições abertas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/concurso-publico-da-camara-municipal-de-nossa-senhora-das-dores-esta-com-inscricoes-abertas.ghtml)_
+
