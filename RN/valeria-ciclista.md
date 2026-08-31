@@ -8,3 +8,6 @@
 - **[2018-07-16 23:03 UTC]** Ladrão empurra ciclista no meio da BR-060 para roubar bicicleta e vítima é atropelada, em Anápolis
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/ladrao-empurra-ciclista-no-meio-da-br-060-para-roubar-bicicleta-e-vitima-e-atropelada-em-anapolis.ghtml)_
 
+- **[2026-08-31 14:34 UTC]** Suspeitos de assaltar ciclista em rua do Jardim Oceania, em João Pessoa, são presos
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/suspeitos-de-assaltar-ciclista-em-rua-do-jardim-oceana-em-joao-pessoa-sao-presos.ghtml)_
+
