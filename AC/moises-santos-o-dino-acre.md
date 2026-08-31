@@ -149,3 +149,6 @@
 - **[2026-08-26 17:53 UTC]** Motociclista que teve pé amputado ao colidir com carro recebe alta no Acre; amigos pedem ajuda
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/motociclista-que-teve-pe-amputado-ao-colidir-com-carro-passou-por-cirurgia-no-acre.ghtml)_
 
+- **[2026-08-26 14:57 UTC]** Indígena tira certidão de nascimento tardia aos 19 anos no Acre: 'Quero estudar', diz
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/indigena-tira-certidao-de-nascimento-tardia-aos-19-anos-no-acre-quero-estudar-diz.ghtml)_
+
