@@ -17,3 +17,6 @@
 - **[2018-07-21 15:26 UTC]** Caminhoneiro morre após bater em carreta e sair da pista na BR-452, em Itumbiara
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/2018/07/21/caminhoneiro-morre-apos-bater-em-carreta-e-sair-da-pista-na-br-452-em-itumbiara.ghtml)_
 
+- **[2018-07-13 21:08 UTC]** Carreta carregada de milho tomba em pedágio e se arrasta pela pista na BR-060, em Goianápolis; veja vídeo
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/carreta-carregada-de-milho-tomba-em-pedagio-da-br-060-em-goianapolis-veja-video.ghtml)_
+
