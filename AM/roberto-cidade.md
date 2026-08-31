@@ -65,3 +65,6 @@
 - **[2026-08-29 02:05 UTC]** Eleições 2026: Roberto Cidade visita obras em maternidade e apresenta propostas para educação
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-roberto-cidade-visita-obras-em-maternidade-e-apresenta-propostas-para-educacao.ghtml)_
 
+- **[2017-08-18 21:19 UTC]** Vídeo de nuvem em forma de 'flecha vermelha' viraliza e chama atenção em cidade do interior da Bahia
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/video-de-nuvem-em-forma-de-flecha-vermelha-viraliza-e-chama-atencao-em-cidade-do-interior-da-bahia.ghtml)_
+
