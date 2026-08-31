@@ -14,3 +14,6 @@
 - **[2018-07-10 16:44 UTC]** Menino que perdeu a mãe, o pai e os irmãos em acidente na BR-080 segue  internado e ainda não sabe sobre mortes, diz tia
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/menino-que-perdeu-a-mae-o-pai-e-os-irmaos-em-acidente-na-br-080-segue-internado-e-ainda-nao-sabe-sobre-mortes-diz-tia.ghtml)_
 
+- **[2018-07-11 22:03 UTC]** Irmãos de 3 anos são encontrados trancados dentro de caixote no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/irmaos-de-3-anos-sao-encontrados-trancados-dentro-de-caixote-no-es.ghtml)_
+
