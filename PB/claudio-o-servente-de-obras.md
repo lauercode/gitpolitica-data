@@ -53,3 +53,6 @@
 - **[2018-07-07 20:34 UTC]** Votação do público avalia obras de arte popular e religiosa na Fenearte
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/votacao-do-publico-avalia-obras-de-arte-popular-e-religiosa-na-fenearte.ghtml)_
 
+- **[2026-08-31 19:38 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras de saúde e reúne com correligionários em Joinville
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-em-sc-jorginho-mello-visita-obras-de-saude-e-reune-com-correligionarios-em-joinville.ghtml)_
+
