@@ -239,3 +239,6 @@
 - **[2017-07-31 10:50 UTC]** Confira entrevista exclusiva com o cientista Tarcísio Pequeno, Presidente da Funcap
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/07/confira-entrevista-exclusiva-com-o-cientista-tarcisio-pequeno-presidente.html)_
 
+- **[2026-08-30 21:41 UTC]** Acidente deixa três pessoas mortas na BR-135 em Presidente Dutra, no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/30/acidente-deixa-tres-pessoas-mortas-na-br-135-em-presidente-dutra-no-ma.ghtml)_
+
