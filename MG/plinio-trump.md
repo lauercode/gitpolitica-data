@@ -62,3 +62,6 @@
 - **[2026-08-31 10:06 UTC]** Trump recebe banqueiro André Esteves nos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/trump-recebe-banqueiro-andre-esteves-nos-eua.shtml)_
 
+- **[2026-08-31 10:00 UTC]** Como é a PokémonXP, feira que mistura euforia, filas e escapismo na era Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/como-e-a-pokemonxp-feira-que-mistura-euforia-filas-e-escapismo-na-era-trump.shtml)_
+
