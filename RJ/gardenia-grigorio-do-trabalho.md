@@ -68,3 +68,6 @@
 - **[2026-08-21 08:04 UTC]** Unifap abre inscrições para pós-graduação em Saúde e Segurança do Trabalho com 150 vagas; EDITAIS
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/21/unifap-abre-inscricoes-para-pos-graduacao-em-saude-e-seguranca-do-trabalho-com-150-vagas-editais.ghtml)_
 
+- **[2026-08-29 05:00 UTC]** Trabalho autônomo, WhatsApp e má-fé: veja pontos levantados por pedreiro em sustentação oral elogiada por magistrados no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/29/trabalho-autonomo-whatsapp-e-ma-fe-veja-pontos-levantados-por-pedreiro-em-sustentacao-oral-elogiada-por-magistrados-no-am.ghtml)_
+
