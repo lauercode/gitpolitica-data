@@ -119,3 +119,6 @@
 - **[2026-08-31 20:01 UTC]** Manaus marca 37,3ºC e atinge novo recorde de temperatura no ano, segundo Inmet
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/manaus-marca-373oc-e-atinge-novo-recorde-de-temperatura-no-ano-segundo-inmet.ghtml)_
 
+- **[2018-07-10 14:50 UTC]** Mesmo em isolamento, Geddel mantém indisciplina, segundo presídio; juíza cobra investigação sobre remédios em cela
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/blog/andreia-sadi/post/2018/07/10/mesmo-em-isolamento-geddel-mantem-indisciplina-juiza-cobra-investigacao-sobre-remedios-em-cela.ghtml)_
+
