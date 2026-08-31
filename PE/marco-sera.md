@@ -41,3 +41,6 @@
 - **[2026-08-29 23:00 UTC]** A corrupção é e será tema central da campanha eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/a-corrupcao-e-e-sera-tema-central-da-campanha-eleitoral.shtml)_
 
+- **[2018-07-22 14:10 UTC]** Fiscalização nas redes sociais será desafio para eleições, avalia TRE-DF; leia entrevista
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/df/distrito-federal/eleicoes/2018/noticia/2018/07/22/fiscalizacao-nas-redes-sociais-sera-desafio-para-eleicoes-avalia-tre-df-leia-entrevista.ghtml)_
+
