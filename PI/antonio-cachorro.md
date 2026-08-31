@@ -17,3 +17,6 @@
 - **[2026-08-26 16:38 UTC]** VÍDEO: homem é flagrado abandonando filhotes de cachorro no meio da rua em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/video-homem-e-flagrado-abandonando-filhotes-de-cachorro-no-meio-da-rua-em-belem.ghtml)_
 
+- **[2018-07-16 19:51 UTC]** Cachorro 'corintiano' adotado após ser resgatado de córrego na Zona Norte de SP faz sucesso na internet
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/olha-que-legal/noticia/cachorro-corintiano-adotado-apos-ser-resgatado-de-corrego-na-zona-norte-de-sp-faz-sucesso-na-internet.ghtml)_
+
