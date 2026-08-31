@@ -23,3 +23,6 @@
 - **[2026-08-31 10:17 UTC]** Brasília busca pactos por medo dos escândalos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/brasilia-busca-pactos-por-medo-dos-escandalos.shtml)_
 
+- **[2018-07-19 22:48 UTC]** População enfrenta medo no centro de Belo Horizonte durante a madrugada
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/minas-gerais/noticia/2018/07/19/populacao-enfrenta-medo-no-centro-de-belo-horizonte-durante-a-madrugada.ghtml)_
+
