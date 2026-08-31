@@ -638,3 +638,6 @@
 - **[2026-08-31 17:10 UTC]** Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? O que diz analista
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-25 14:17 UTC]** Flávio Bolsonaro inicia agenda em AL ao lado de Alfredo Gaspar, mas sem Arthur Lira e JHC
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/25/flavio-bolsonaro-inicia-agenda-em-al-ao-lado-de-alfredo-gaspar-mas-sem-arthur-lira-e-jhc.ghtml)_
+
