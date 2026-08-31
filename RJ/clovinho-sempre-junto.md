@@ -11,3 +11,6 @@
 - **[2018-07-09 14:16 UTC]** Motorista bebeu antes de acidente que o matou junto com a mulher e dois filhos na BR-080, dizem testemunhas
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/motorista-bebeu-antes-de-acidente-que-o-matou-junto-com-a-mulher-e-dois-filhos-na-br-080-dizem-testemunhas.ghtml)_
 
+- **[2017-10-30 11:59 UTC]** Motorista que morreu junto com o filho e a nora em acidente voltava de velório do sogro dele em MT
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/motorista-que-morreu-junto-com-o-filho-e-a-nora-em-acidente-voltava-de-velorio-do-sogro-dele-em-mt.ghtml)_
+
