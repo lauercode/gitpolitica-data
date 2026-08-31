@@ -254,3 +254,6 @@
 - **[2026-08-17 23:23 UTC]** Presidente da Câmara de Cacoal cai de cavalo, vai para UTI e recebe alta em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/17/presidente-da-camara-de-cacoal-cai-de-cavalo-vai-para-uti-e-recebe-alta-em-ro.ghtml)_
 
+- **[2018-07-19 15:11 UTC]** Acidente fatal no Beach Park foi o único da empresa que desenvolveu brinquedo, diz presidente
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/ce/ceara/noticia/2018/07/19/acidente-fatal-no-beach-park-foi-o-unico-da-empresa-que-desenvolveu-brinquedo-diz-presidente.ghtml)_
+
