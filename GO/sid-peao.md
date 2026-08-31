@@ -17,3 +17,6 @@
 - **[2026-08-30 21:55 UTC]** Barretos adota trecho de 'Evidências' como slogan da Festa do Peão de 2027
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/barretos-adota-trecho-de-evidencias-como-slogan-da-festa-do-peao-de-2027.shtml)_
 
+- **[2018-07-10 16:46 UTC]** 'Morreu fazendo o que mais gosta', diz amigo de peão morto pisoteado durante rodeio em MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/morreu-fazendo-o-que-mais-gosta-diz-amigo-de-peao-morto-pisoteado-durante-rodeio-em-ms.ghtml)_
+
