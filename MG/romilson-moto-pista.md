@@ -44,3 +44,6 @@
 - **[2017-10-17 12:25 UTC]** Polícia diz ter pista de quem é o bandido atendido em ambulância sequestrada no Rio
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/delegado-ja-tem-um-suspeito-que-pode-ter-sido-atendido-por-ambulancia-sequestrada-na-mare.ghtml)_
 
+- **[2026-08-29 13:52 UTC]** Motociclista morre atropelado por 'carreta da alegria' após perder controle da direção e cair na pista em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/29/motociclista-morre-atropelado-por-carreta-da-alegria-em-ro.ghtml)_
+
