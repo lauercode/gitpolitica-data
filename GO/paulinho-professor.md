@@ -47,3 +47,6 @@
 - **[2017-11-07 12:42 UTC]** Professor de educação física morre após passar mal durante corrida em MT
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/professor-de-educacao-fisica-morre-apos-passar-mal-durante-corrida-em-mt.ghtml)_
 
+- **[2026-08-21 12:11 UTC]** Corpo encontrado em Natal é de professor de futebol que estava desaparecido
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/21/corpo-encontrado-natal-professor-futebol-desaparecido.ghtml)_
+
