@@ -11,3 +11,6 @@
 - **[2017-10-25 12:28 UTC]** Deputados de MT votam pela soltura e retorno de deputado preso por determinação do STF
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/deputados-de-mt-votam-pela-soltura-e-retorno-de-deputado-preso-por-determinacao-do-stf.ghtml)_
 
+- **[2026-08-27 12:48 UTC]** ‘Coyote vs. Acme’ e ‘Ponto sem Retorno’ estreiam nos cinemas da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/coyote-vs-acme-e-ponto-sem-retorno-estreiam-nos-cinemas-da-paraiba.ghtml)_
+
