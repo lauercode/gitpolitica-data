@@ -53,3 +53,6 @@
 - **[2026-08-31 14:10 UTC]** Temperos da terra: os sabores que preservam a cultura do campo
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/fag-centro-universitario-city-farm/noticia/2026/08/31/temperos-da-terra-os-sabores-que-preservam-a-cultura-do-campo.ghtml)_
 
+- **[2026-08-26 12:37 UTC]** PF destrói acampamento de extração ilegal de madeira em Terra Indígena de RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/26/pf-destroi-acampamento-de-extracao-ilegal-de-madeira-em-terra-indigena-de-ro.ghtml)_
+
