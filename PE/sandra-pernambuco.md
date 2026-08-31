@@ -14,3 +14,6 @@
 - **[2018-07-23 11:18 UTC]** PM de Pernambuco é preso depois de atirar em irmão de policial civil durante discussão no litoral do RN
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2018/07/23/discussao-em-lanchonete-deixa-dois-homens-baleados-no-litoral-sul-potiguar.ghtml)_
 
+- **[2018-07-20 12:46 UTC]** Pernambuco inscreve para cursos profissionalizantes gratuitos com quase 15 mil vagas
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/2018/07/20/pernambuco-abre-inscricoes-para-cursos-profissionalizantes-gratuitos-com-15-mil-vagas.ghtml)_
+
