@@ -98,3 +98,6 @@
 - **[2017-06-16 15:00 UTC]** Dois idosos são atropelados em Taguatinga, no DF
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/dois-idosos-sao-atropelados-em-taguatinga-no-df.ghtml)_
 
+- **[2018-07-21 16:30 UTC]** Homem é suspeito de matar mulher, atirar em dois enteados e se matar, no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/2018/07/21/homem-e-suspeito-de-matar-mulher-atirar-em-dois-enteados-e-se-matar-no-es.ghtml)_
+
