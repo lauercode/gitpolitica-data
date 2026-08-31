@@ -41,3 +41,6 @@
 - **[2026-08-29 09:30 UTC]** Cerrado do Tocantins floresce em meio à seca e transforma paisagem de Palmas; entenda
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/cerrado-do-tocantins-floresce-em-meio-a-seca-e-transforma-paisagem-de-palmas-entenda.ghtml)_
 
+- **[2026-08-28 23:15 UTC]** Trilha no Tocantins tem paisagens de tirar o fôlego e pedra com formato erótico
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/trilha-no-tocantins-tem-paisagens-de-tirar-o-folego-e-pedra-com-formato-erotico.ghtml)_
+
