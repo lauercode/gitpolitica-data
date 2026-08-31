@@ -41,3 +41,6 @@
 - **[2026-08-31 02:56 UTC]** Mortes no Nepal e China sobem para 919; 4.793 estão desaparecidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mortes-no-nepal-e-china-sobem-para-919-4793-estao-desaparecidos.shtml)_
 
+- **[2026-08-31 15:16 UTC]** Novo CEO da Apple, John Ternus terá de lidar com IA e relação com a China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/novo-ceo-da-apple-john-ternus-tera-de-lidar-com-ia-e-relacao-com-a-china.shtml)_
+
