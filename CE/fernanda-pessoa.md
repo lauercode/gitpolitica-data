@@ -132,3 +132,6 @@ direcionado às necessidades de cada pessoa
 - **[2026-08-22 14:35 UTC]** Acidente entre moto e caminhão deixa uma pessoa morta na BR-304, em Mossoró
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/22/acidente-entre-moto-e-caminhao-deixa-uma-pessoa-morta-na-br-304-em-mossoro.ghtml)_
 
+- **[2026-08-30 09:00 UTC]** Com rebanho de 11,6 milhões, Tocantins tem quase oito cabeças de gado por pessoa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-rebanho-de-116-milhoes-tocantins-tem-quase-oito-cabecas-de-gado-por-pessoa.ghtml)_
+
