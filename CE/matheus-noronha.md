@@ -77,3 +77,6 @@
 - **[2018-05-03 08:19 UTC]** Projeto Tamar celebra em Fernando de Noronha 35 Milhões de tartarugas marinhas protegidas no Brasil
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/projeto-tamar-celebra-em-fernando-de-noronha-35-milhoes-de-tartarugas-marinhas-protegidas-no-brasil.html)_
 
+- **[2018-05-02 16:22 UTC]** Apresentador do Globo Esporte, George Guilherme,  visita Fernando de Noronha e fala de Copa do Mundo
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/apresentador-do-globo-esporte-george-guilherme-visita-fernando-de-noronha-e-fala-de-copa-do-mundo.html)_
+
