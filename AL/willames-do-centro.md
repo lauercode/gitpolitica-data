@@ -92,3 +92,6 @@
 - **[2026-08-28 11:41 UTC]** Incêndio deixa quatro lojas do Centro Comercial de Passagem totalmente destruídas, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/incendio-deixa-quatro-lojas-do-centro-comercial-de-passagem-totalmente-destruidas-em-joao-pessoa.ghtml)_
 
+- **[2026-08-28 09:43 UTC]** Centro Comercial de Passagem, em João Pessoa, deve ficar fechado por tempo indeterminado após incêndio
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/centro-comercial-de-passagem-em-joao-pessoa-deve-ficar-fechado-por-tempo-indeterminado-apos-incendio.ghtml)_
+
