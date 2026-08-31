@@ -98,3 +98,6 @@
 - **[2026-08-28 21:01 UTC]** Renda per capita fica acima de R$ 3,1 mil no Acre, 3ª maior da região Norte
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/renda-per-capita-fica-acima-de-r-31-mil-no-acre-no-3-trimestre-crescimento-e-de-9.ghtml)_
 
+- **[2026-08-28 19:41 UTC]** Bajaj chega ao Acre: Tecnologia, desempenho e personalidade sobre duas rodas
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/benn-bajaj/noticia/2026/08/28/bajaj-chega-ao-acre-tecnologia-desempenho-e-personalidade-sobre-duas-rodas.ghtml)_
+
