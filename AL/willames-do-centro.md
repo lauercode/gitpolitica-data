@@ -77,3 +77,6 @@
 - **[2018-05-28 12:47 UTC]** Manifestações chegam ao 8º dia no Centro-Oeste de MG e serviços essenciais seguem afetados
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/centro-oeste/noticia/manifestacoes-chegam-ao-8-dia-no-centro-oeste-de-mg-e-servicos-essenciais-seguem-afetados.ghtml)_
 
+- **[2026-08-28 09:00 UTC]** Um ano de ‘Rock Doido’: conheça os bastidores do filme que levou a aparelhagem para o centro do pop brasileiro
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/um-ano-de-rock-doido-conheca-os-bastidores-do-filme-que-levou-a-aparelhagem-para-o-centro-do-pop-brasileiro.ghtml)_
+
