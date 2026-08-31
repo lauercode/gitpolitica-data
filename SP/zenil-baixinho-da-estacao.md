@@ -11,3 +11,6 @@
 - **[2026-08-27 17:00 UTC]** Abastecimento de água deve ser paralisado para manutenção em estação de tratamento de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/abastecimento-de-agua-deve-ser-paralisado-para-manutencao-em-estacao-de-tratamento-de-rio-branco.ghtml)_
 
+- **[2017-07-26 13:54 UTC]** 'Estação dos ventos' no Ceará pode trazer rajadas acima de 50 km/h
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/estacao-dos-ventos-no-ceara-pode-trazer-rajadas-acima-de-50-kmh.ghtml)_
+
