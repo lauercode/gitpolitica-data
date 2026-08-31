@@ -161,3 +161,6 @@
 - **[2026-08-28 03:00 UTC]** CNH categoria C, trabalho pesado e 'cara' de 10 anos: quem é o caminhoneiro que confundiu a PM em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/quem-caminhoneiro-confundiu-pm-crianca-sc.ghtml)_
 
+- **[2026-08-27 14:10 UTC]** Quem é o motorista que devolveu R$ 131 milhões recebidos por engano e faz planos caso consiga recompensa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/quem-e-o-motorista-que-devolveu-r-131-milhoes-recebidos-por-engano-e-faz-planos-caso-consiga-recompensa.ghtml)_
+
