@@ -230,3 +230,6 @@
 - **[2026-08-31 17:14 UTC]** Augusto Cury chega a 3º lugar: quem está à frente na intenção de voto para presidente no Agregador de Pesquisas da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-31 15:29 UTC]** Presidente de comissão mista defende fim da “taxa das blusinhas”; assista a entrevista
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301231-presidente-de-comissao-mista-defende-fim-da-taxa-das-blusinhas-assista-a-entrevista)_
+
