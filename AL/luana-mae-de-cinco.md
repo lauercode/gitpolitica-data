@@ -86,3 +86,6 @@
 - **[2018-07-11 09:53 UTC]** Bandas que tocaram no carnaval esperam cachê da Prefeitura do Rio há cinco meses
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/rio-de-janeiro/noticia/bandas-que-tocaram-no-carnaval-esperam-cache-da-prefeitura-do-rio-ha-cinco-meses.ghtml)_
 
+- **[2026-08-30 16:57 UTC]** Homem é preso após pilotar moto com teor de álcool quase cinco vezes acima do limite na Grande Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/30/homem-e-preso-apos-pilotar-moto-com-teor-de-alcool-quase-cinco-vezes-acima-do-limite-na-grande-natal.ghtml)_
+
