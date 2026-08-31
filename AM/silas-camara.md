@@ -207,3 +207,6 @@ Diretor
 - **[2026-08-17 23:23 UTC]** Presidente da Câmara de Cacoal cai de cavalo, vai para UTI e recebe alta em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/17/presidente-da-camara-de-cacoal-cai-de-cavalo-vai-para-uti-e-recebe-alta-em-ro.ghtml)_
 
+- **[2026-08-29 15:43 UTC]** Câmara de Rorainópolis suspende auxílio-transporte de R$ 2,5 mil a vereadores após ação do MP
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/camara-de-rorainopolis-suspende-auxilio-transporte-de-r-25-mil-a-vereadores-apos-acao-do-mp.ghtml)_
+
