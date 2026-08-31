@@ -8,3 +8,6 @@
 - **[2026-08-27 03:04 UTC]** Conselheira tutelar trans é encontrada morta em área rural de MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/conselheira-tutelar-trans-e-encontrada-morta-em-area-rural-de-mg.shtml)_
 
+- **[2026-08-28 11:09 UTC]** Criminosos matam produtor rural após fazerem motorista refém e invadirem casa no Sertão de AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/28/criminosos-matam-produtor-rural-apos-fazerem-motorista-refem-e-invadirem-casa-no-sertao-de-al.ghtml)_
+
