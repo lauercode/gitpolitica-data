@@ -74,3 +74,6 @@
 - **[2018-07-09 22:34 UTC]** Peão pisoteado por touro em rodeio morreu após parada cardiorrespiratória, diz bombeiro
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/peao-pisoteado-por-touro-em-rodeio-morreu-apos-parada-cardiorrespiratoria-diz-bombeiro.ghtml)_
 
+- **[2017-10-30 11:59 UTC]** Motorista que morreu junto com o filho e a nora em acidente voltava de velório do sogro dele em MT
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/motorista-que-morreu-junto-com-o-filho-e-a-nora-em-acidente-voltava-de-velorio-do-sogro-dele-em-mt.ghtml)_
+
