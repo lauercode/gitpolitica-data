@@ -17,3 +17,6 @@
 - **[2017-08-12 21:54 UTC]** Troca de tiros entre bandidos e polícia deixa dois suspeitos feridos, no CE; sete armas são apreendidas
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/troca-de-tiros-entre-bandidos-e-policia-deixa-dois-suspeitos-feridos-no-ce-sete-armas-sao-apreendidas.ghtml)_
 
+- **[2017-08-16 10:10 UTC]** Policial civil do DF é baleado durante troca de tiros no Guará; áudio
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/policial-civil-do-df-e-baleado-durante-troca-de-tiros-no-guara-audio.ghtml)_
+
