@@ -653,3 +653,6 @@
 - **[2026-08-24 22:42 UTC]** Quaest no RN: Lula, 54%; Flávio Bolsonaro, 20%
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/08/24/quaest-no-rn-presidente-24-de-agosto.ghtml)_
 
+- **[2026-08-25 22:38 UTC]** Quaest em RO: Flávio, 45%; Lula, 25%; Caiado, 3%; Renan, 3%; Zema, 2%
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/25/quaest-ro-presidente-25-de-agosto.ghtml)_
+
