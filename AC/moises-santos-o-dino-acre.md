@@ -59,3 +59,6 @@
 - **[2026-08-30 17:49 UTC]** Colisão entre carro e motocicletas deixa três mortos na BR-364, no interior do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/colisao-entre-carro-e-motocicletas-deixa-tres-mortos-na-br-364-no-interior-do-acre.ghtml)_
 
+- **[2026-08-30 16:49 UTC]** VÍDEOS: Jornal do Acre 2ª Edição deste sábado, 29 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-deste-sabado-29-de-agosto-de-2026.ghtml)_
+
