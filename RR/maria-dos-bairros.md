@@ -14,3 +14,6 @@
 - **[2026-08-28 19:26 UTC]** Falta de água: manutenção afeta bairros de Maceió e Rio Largo; veja locais
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/28/falta-de-agua-manutencao-afeta-bairros-de-maceio-e-rio-largo-veja-locais.ghtml)_
 
+- **[2026-08-17 10:32 UTC]** Manutenção em redes de captação pode deixar conjuntos de Rio Largo e 20 bairros de Maceió sem água
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/17/manutencao-em-redes-de-captacao-pode-deixar-conjuntos-de-rio-largo-e-20-bairros-de-maceio-sem-agua.ghtml)_
+
