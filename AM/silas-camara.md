@@ -198,3 +198,6 @@ Diretor
 - **[2018-01-03 14:56 UTC]** Câmara dos Deputados exonera 40 funcionários dos gabinetes de Maluf e Celso Jacob
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/politica/noticia/camara-dos-deputados-exonera-40-funcionarios-dos-gabinetes-de-maluf-e-celso-jacob.ghtml)_
 
+- **[2026-08-24 11:18 UTC]** Jornalista Rodrigues Neto, diretor da TV Câmara, morre no dia do aniversário em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/24/jornalista-rodrigues-neto-morre-dia-aniversario-natal.ghtml)_
+
