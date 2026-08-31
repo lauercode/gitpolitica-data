@@ -50,3 +50,6 @@
 - **[2017-08-11 14:33 UTC]** Lei da inspeção predial é adiada por mais 90 dias em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/lei-da-inspecao-predial-e-adiada-por-mais-90-dias-em-fortaleza.ghtml)_
 
+- **[2017-08-08 16:09 UTC]** Policial civil baleado em assalto não resiste e morre no IJF, em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/policial-civil-baleado-em-assalto-nao-resiste-e-morre-no-ijf-em-fortaleza.ghtml)_
+
