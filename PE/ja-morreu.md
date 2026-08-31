@@ -41,3 +41,6 @@
 - **[2026-08-28 22:00 UTC]** Saiba quem era o trabalhador que morreu durante montagem do Festival de Cirandas de Manacapuru
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/saiba-quem-era-o-trabalhador-que-morreu-durante-montagem-do-festival-de-cirandas-de-manacapuru.ghtml)_
 
+- **[2026-08-28 14:42 UTC]** Servidor da SSP é afastado após bater caminhonete descaracterizada em motociclista que morreu em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/servidor-da-ssp-e-afastado-apos-bater-caminhonete-descaracterizada-em-motociclista-que-morreu-em-manaus.ghtml)_
+
