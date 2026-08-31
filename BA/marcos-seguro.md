@@ -14,3 +14,6 @@
 - **[2017-10-30 16:45 UTC]** Mãe de aluno que atirou contra colegas guardava a arma em local seguro, diz advogada
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/mae-de-aluno-que-atirou-contra-colegas-presta-depoimento-em-goiania.ghtml)_
 
+- **[2026-08-30 13:52 UTC]** 'Quero que o seguro agrícola avance': Zema comenta questões do setor em feira do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/30/zema-feira-agro-do-rs.ghtml)_
+
