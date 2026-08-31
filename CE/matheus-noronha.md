@@ -101,3 +101,6 @@
 - **[2018-04-27 12:24 UTC]** Terrenos e casas podem ser entregues em Fernando de Noronha?  Confira o que diz a Lei Eleitoral
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/terrenos-e-casas-podem-ser-entregues-em-fernando-de-noronha-confira-o-que-diz-lei-eleitoral.html)_
 
+- **[2018-04-27 11:11 UTC]** Gol abre novas opções de voos para Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/gol-abre-novas-opcoes-de-voos-para-fernando-de-noronha.html)_
+
