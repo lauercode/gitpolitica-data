@@ -56,3 +56,6 @@
 - **[2026-08-30 23:00 UTC]** Governo Lula retoma negociação com Trump e teme que tarifaço se torne permanente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-lula-retoma-negociacao-com-trump-e-teme-que-tarifaco-se-torne-permanente.shtml)_
 
+- **[2026-08-31 11:05 UTC]** Após conversa entre Lula e Trump, Brasil e EUA iniciam nesta segunda nova fase de negociações sobre o tarifaço
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/apos-conversa-de-lula-e-trump-representantes-de-brasil-e-eua-iniciam-nova-fase-de-negociacoes-do-tarifaco.ghtml)_
+
