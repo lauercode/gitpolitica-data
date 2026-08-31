@@ -20,3 +20,6 @@
 - **[2026-08-24 12:32 UTC]** Pecuaristas adotam estratégia com ração no pasto para evitar perda de peso do gado na seca em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/pecuaristas-adotam-estrategia-com-racao-no-pasto-para-evitar-perda-de-peso-do-gado-na-seca-em-roraima.ghtml)_
 
+- **[2018-07-19 21:48 UTC]** Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml)_
+
