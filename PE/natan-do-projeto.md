@@ -41,3 +41,6 @@
 - **[2026-08-31 21:21 UTC]** Projeto prevê oferta de coletores menstruais em programa de dignidade menstrual
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301326-projeto-preve-oferta-de-coletores-menstruais-em-programa-de-dignidade-menstrual)_
 
+- **[2026-08-31 19:35 UTC]** Projeto exige alerta em produtos infantis sobre substâncias que afetam hormônios
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301331-projeto-exige-alerta-em-produtos-infantis-sobre-substancias-que-afetam-hormonios)_
+
