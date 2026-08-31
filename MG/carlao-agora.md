@@ -59,3 +59,6 @@
 - **[2017-08-17 20:46 UTC]** Governo estuda agora fazer a concessão de 13 aeroportos
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/economia/noticia/governo-estuda-agora-fazer-a-concessao-de-13-aeroportos.ghtml)_
 
+- **[2017-05-17 16:45 UTC]** Empreendedorismo feminino: agora é que são elas
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/empreendedorismo-feminino-agora-e-que-sao-elas.html)_
+
