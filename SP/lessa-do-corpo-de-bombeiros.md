@@ -17,3 +17,6 @@
 - **[2017-07-21 19:44 UTC]** Bombeiros dão dicas para prevenir incêndios florestais durante tempo seco em MS
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/bombeiros-dao-dicas-para-prevenir-incendios-florestais-durante-tempo-seco-em-ms.ghtml)_
 
+- **[2026-08-28 12:57 UTC]** Bombeiros quebram para-prisas para resgatar motorista após carro capotar em acidente em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/bombeiros-quebram-para-prisas-para-resgatar-motorista-apos-acidente-em-belem.ghtml)_
+
