@@ -17,3 +17,6 @@
 - **[2026-08-29 15:14 UTC]** Jovem morre após suposto tiro acidental ao manusear arma com namorada em Rosário, no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/29/jovem-morre-apos-suposto-tiro-acidental-ao-manusear-arma-com-namorada-em-rosario-no-ma.ghtml)_
 
+- **[2026-08-31 14:53 UTC]** VÍDEO: Homem é atingido no peito por disparo acidental dentro de clube de tiro no Paraná; estado é grave
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/homem-e-atingido-por-disparo.ghtml)_
+
