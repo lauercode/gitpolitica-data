@@ -32,3 +32,6 @@
 - **[2017-04-27 15:00 UTC]** Maio Amarelo no DF chama atenção para alto índice de mortes no trânsito
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/maio-amarelo-promove-passeio-de-motociclistas-ciclistas-e-corridas-para-conscientizar-motoristas.ghtml)_
 
+- **[2018-07-19 11:54 UTC]** Heterocromia em animais chama atenção pela beleza, mas é preciso ter cuidados
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/19/heterocromia-em-animais-chama-atencao-pela-beleza-mas-e-preciso-ter-cuidados.ghtml)_
+
