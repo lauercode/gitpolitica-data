@@ -17,3 +17,6 @@
 - **[2026-08-28 20:00 UTC]** Funcionário é suspeito de furtar loja onde trabalhava e polícia recupera dinheiro e joias no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/funcionario-e-suspeito-de-furtar-loja-onde-trabalhava-e-policia-recupera-dinheiro-e-joias-no-para.ghtml)_
 
+- **[2026-08-28 19:11 UTC]** VÍDEO: 'onda' de água e lama invade loja e assusta funcionários após adutora romper em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/onda-invade-loja-assusta-funcionarios-adutora-romper-sc.ghtml)_
+
