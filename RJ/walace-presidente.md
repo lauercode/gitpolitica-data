@@ -236,3 +236,6 @@
 - **[2017-08-21 19:16 UTC]** Vereador José Carneiro Rocha é  eleito novo presidente da Câmara Municipal de Feira de Santana
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/vereador-jose-carneiro-rocha-e-eleito-novo-presidente-da-camara-municipal-de-feira-de-santana.ghtml)_
 
+- **[2017-07-31 10:50 UTC]** Confira entrevista exclusiva com o cientista Tarcísio Pequeno, Presidente da Funcap
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/07/confira-entrevista-exclusiva-com-o-cientista-tarcisio-pequeno-presidente.html)_
+
