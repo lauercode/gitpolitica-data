@@ -596,3 +596,6 @@
 - **[2026-08-30 21:27 UTC]** Flávio Bolsonaro evita dizer como votará sobre 6x1 e diz que trabalhador deve ter liberdade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-evita-dizer-como-votara-sobre-6x1-e-diz-que-trabalhador-deve-ter-liberdade.shtml)_
 
+- **[2026-08-31 01:00 UTC]** Flávio diz que indicará ao STF ministros “contrários ao aborto, drogas e injustiças”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-mudancas-no-stf-para-recuperar-credibilidade-da-corte/)_
+
