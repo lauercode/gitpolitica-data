@@ -62,3 +62,6 @@
 - **[2026-08-28 21:18 UTC]** Projeto cria regras para publicidade de anabolizantes e exige alertas sobre riscos à saúde
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299853-projeto-cria-regras-para-publicidade-de-anabolizantes-e-exige-alertas-sobre-riscos-a-saude)_
 
+- **[2026-08-28 08:04 UTC]** Para evitar reincidência no crime, órgão prisional do AP lança 'Projeto de Vida' para detentos
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/para-evitar-reincidencia-no-crime-orgao-prisional-do-ap-lanca-projeto-de-vida-para-detentos.ghtml)_
+
