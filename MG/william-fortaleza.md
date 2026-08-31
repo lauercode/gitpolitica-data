@@ -17,3 +17,6 @@
 - **[2018-07-13 18:47 UTC]** Educador infantil suspeito de estuprar filha no DF é preso em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/df/distrito-federal/noticia/educador-infantil-suspeito-de-estuprar-filha-no-df-e-preso-em-fortaleza.ghtml)_
 
+- **[2018-01-05 19:15 UTC]** Réveillon de Fortaleza 2018
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ce/ceara/ao-vivo/reveillon-de-fortaleza-2018-ao-vivo.ghtml)_
+
