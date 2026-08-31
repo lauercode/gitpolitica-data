@@ -20,3 +20,6 @@
 - **[2026-08-28 19:11 UTC]** VÍDEO: 'onda' de água e lama invade loja e assusta funcionários após adutora romper em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/onda-invade-loja-assusta-funcionarios-adutora-romper-sc.ghtml)_
 
+- **[2026-08-30 00:59 UTC]** Criminosos invadem loja de construção, arrancam bebedouro e causam alagamento no TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/criminosos-invadem-loja-de-construcao-levam-bebedouro-e-causam-alagamentovideo.ghtml)_
+
