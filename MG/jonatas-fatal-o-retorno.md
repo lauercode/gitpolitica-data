@@ -17,3 +17,6 @@
 - **[2026-08-28 02:00 UTC]** Carnatal confirma retorno de Anitta e anuncia corrida para 2027; veja programação
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/27/carnatal-confirma-retorno-de-anitta-e-anuncia-corrida-para-2027-veja-programacao.ghtml)_
 
+- **[2026-08-29 13:36 UTC]** Justiça determina retorno da VRS ao transporte coletivo de Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/29/justica-determina-retorno-da-vrs-ao-transporte-coletivo-de-aracaju.ghtml)_
+
