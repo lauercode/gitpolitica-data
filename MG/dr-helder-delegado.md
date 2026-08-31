@@ -17,3 +17,6 @@
 - **[2026-08-25 14:57 UTC]** Esquema desviava cerca de 100 armas por ano para facção no Amapá, diz delegado
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/25/esquema-desviava-cerca-de-100-armas-por-ano-para-faccao-no-amapa-diz-delegado.ghtml)_
 
+- **[2017-07-22 20:19 UTC]** Quatro homens mortos no Engenho Velho da Federação tinham passagem pela polícia, diz delegado
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/quatro-homens-mortos-no-engenho-velho-da-federacao-tinham-passagem-pela-policia-diz-delegado.ghtml)_
+
