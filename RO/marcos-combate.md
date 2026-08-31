@@ -38,3 +38,6 @@
 - **[2017-03-17 06:41 UTC]** Polícia Federal deflagra operação de combate a venda ilegal de carnes
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/pr/parana/noticia/2017/03/policia-federal-deflagra-operacao-de-combate-venda-ilegal-de-carnes.html)_
 
+- **[2026-08-27 20:31 UTC]** Maranhense morre em combate na guerra entre Ucrânia e Rússia, diz família
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/27/maranhense-morre-em-combate-na-guerra-entre-ucrania-e-russia-diz-familia.ghtml)_
+
