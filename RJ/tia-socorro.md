@@ -14,3 +14,6 @@
 - **[2026-08-29 06:00 UTC]** 'Eu tinha medo por causa da minha filha', diz mulher que usou prontuário de hospital do Paraná para escrever pedido de socorro e denunciar marido
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/29/relato-mulher-que-usou-prontuario-de-hospital-do-parana.ghtml)_
 
+- **[2026-08-28 17:31 UTC]** Seu couro cabeludo está pedindo socorro? Reconheça os sinais
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/08/28/seu-couro-cabeludo-esta-pedindo-socorro-reconheca-os-sinais.ghtml)_
+
