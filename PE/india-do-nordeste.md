@@ -29,3 +29,6 @@
 - **[2017-08-02 13:11 UTC]** Congresso de Radiodifusão Norte-Nordeste ocorre em setembro em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/08/congresso-de-radiodifusao-norte-nordeste-ocorre-em-setembro-em-fortaleza.html)_
 
+- **[2026-08-29 19:26 UTC]** João Pessoa é a capital do Nordeste com maior crescimento populacional, aponta IBGE
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/29/joao-pessoa-e-capital-do-nordeste-com-maior-crescimento-populacional-aponta-ibge.ghtml)_
+
