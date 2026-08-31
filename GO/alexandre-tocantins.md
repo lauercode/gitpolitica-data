@@ -26,3 +26,6 @@
 - **[2026-08-31 09:14 UTC]** Tocantins terá feriado prolongado em setembro; veja datas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/tocantins-tera-feriado-prolongado-de-em-setembro-veja-datas.ghtml)_
 
+- **[2026-08-30 09:00 UTC]** Com rebanho de 11,6 milhões, Tocantins tem quase oito cabeças de gado por pessoa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-rebanho-de-116-milhoes-tocantins-tem-quase-oito-cabecas-de-gado-por-pessoa.ghtml)_
+
