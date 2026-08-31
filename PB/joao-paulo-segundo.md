@@ -137,3 +137,6 @@
 - **[2018-07-11 16:51 UTC]** IFPE divulga listão de aprovados no  vestibular do segundo semestre de 2018
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/ifpe-divulga-listao-de-aprovados-no-vestibular-do-segundo-semestre-de-2018.ghtml)_
 
+- **[2026-08-21 20:18 UTC]** Homem é preso por homicídio em Porto Velho; segundo suspeito é procurado
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/homem-e-preso-por-homicidio-em-porto-velho-segundo-suspeito-e-procurado.ghtml)_
+
