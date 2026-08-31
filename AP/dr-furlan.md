@@ -32,3 +32,6 @@
 - **[2026-08-23 19:30 UTC]** Dr. Furlan participa de caminhadas e reuniões nos municípios de Porto Grande e Cutias
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/23/dr-furlan-participa-de-caminhadas-e-reunioes-nos-municipios-de-porto-grande-e-cutias.ghtml)_
 
+- **[2026-08-22 22:54 UTC]** Dr. Furlan participa de caminhadas e reuniões em Mazagão e Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/22/dr-furlan-participa-de-caminhadas-e-reunioes-em-mazagao-e-macapa.ghtml)_
+
