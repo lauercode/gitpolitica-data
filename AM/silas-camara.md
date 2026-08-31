@@ -177,3 +177,6 @@ Diretor
 - **[2017-08-02 14:12 UTC]** Câmara de Itarema retoma trabalhos após prisão de vereadores
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/camara-de-itarema-retoma-trabalhos-apos-prisao-de-vereadores.ghtml)_
 
+- **[2017-11-24 11:12 UTC]** TJ-DF revoga autorização para deputado presidiário trabalhar na Câmara
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/noticia/tj-df-revoga-autorizacao-para-deputado-presidiario-trabalhar-na-camara-durante-o-dia.ghtml)_
+
