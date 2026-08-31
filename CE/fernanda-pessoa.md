@@ -123,3 +123,6 @@ direcionado às necessidades de cada pessoa
 - **[2018-04-19 16:59 UTC]** Pessoa com deficiência poderá usar FGTS para aquisição de próteses e órteses
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/mao-na-roda/post/pessoa-com-deficiencia-podera-usar-fgts-para-aquisicao-de-proteses-e-orteses.html)_
 
+- **[2026-08-27 19:04 UTC]** Homem é preso após vídeo mostrar tortura contra pessoa em situação de vulnerabilidade no Brejo da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/homem-e-preso-apos-video-mostrar-tortura-contra-pessoa-em-situacao-de-rua-no-brejo-da-pb.ghtml)_
+
