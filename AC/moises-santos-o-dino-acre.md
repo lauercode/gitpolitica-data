@@ -167,3 +167,6 @@
 - **[2026-08-25 21:06 UTC]** Motociclista tem pé direito amputado durante colisão com carro no Acre; Veja VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/video-motociclista-tem-pe-amputado-durante-colisao-com-carro-no-acre.ghtml)_
 
+- **[2026-08-25 19:44 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 25 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-terca-feira-25-de-agosto-de-2026.ghtml)_
+
