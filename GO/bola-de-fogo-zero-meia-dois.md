@@ -86,3 +86,6 @@
 - **[2026-08-23 16:27 UTC]** Dois homens são presos por porte de substância ilícita durante abordagem policial em Santana
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/23/dois-homens-sao-presos-por-porte-de-substancia-ilicita-durante-abordagem-policial-em-santana.ghtml)_
 
+- **[2026-08-29 19:31 UTC]** Dois réus são condenados a 196 anos de prisão por mortes em motim na antiga Cadeia Pública de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/29/dois-reus-sao-condenados-a-196-anos-de-prisao-por-mortes-em-motim-na-antiga-cadeia-publica-de-manaus.ghtml)_
+
