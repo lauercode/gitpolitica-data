@@ -29,3 +29,6 @@
 - **[2026-08-31 18:02 UTC]** Instituto Vladimir Herzog alerta Fachin sobre interferência dos EUA em eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/instituto-vladimir-herzog-alerta-fachin-sobre-interferencia-dos-eua-em-eleicao.shtml)_
 
+- **[2018-07-10 18:53 UTC]** Instituto divulga vagas de estágio para a Grande Vitória e interior do ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/educacao/noticia/instituto-divulga-vagas-de-estagio-para-a-grande-vitoria-e-interior-do-es.ghtml)_
+
