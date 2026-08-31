@@ -146,3 +146,6 @@
 - **[2026-08-26 20:57 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quarta-feira, 26 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quarta-feira-26-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-26 17:53 UTC]** Motociclista que teve pé amputado ao colidir com carro recebe alta no Acre; amigos pedem ajuda
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/motociclista-que-teve-pe-amputado-ao-colidir-com-carro-passou-por-cirurgia-no-acre.ghtml)_
+
