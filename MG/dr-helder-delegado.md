@@ -20,3 +20,6 @@
 - **[2017-07-22 20:19 UTC]** Quatro homens mortos no Engenho Velho da Federação tinham passagem pela polícia, diz delegado
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/quatro-homens-mortos-no-engenho-velho-da-federacao-tinham-passagem-pela-policia-diz-delegado.ghtml)_
 
+- **[2026-08-28 12:12 UTC]** Delegado é alvo de comentário de teor racista após eleição simulada em Paulino Neves
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/28/delegado-e-alvo-de-comentario-de-teor-racista-apos-eleicao-simulada-em-paulino-neves.ghtml)_
+
