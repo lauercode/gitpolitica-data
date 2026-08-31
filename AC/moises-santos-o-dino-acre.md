@@ -65,3 +65,6 @@
 - **[2026-08-30 15:12 UTC]** População do Acre ultrapassa 887 mil pessoas, estima IBGE
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/populacao-do-acre-ultrapassa-887-mil-pessoas-estima-ibge.ghtml)_
 
+- **[2026-08-30 13:00 UTC]** Acre tem três cidades entre as que mais desmataram em julho, aponta Imazon
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/acre-tem-tres-cidades-entre-as-que-mais-desmataram-em-julho-aponta-imazon.ghtml)_
+
