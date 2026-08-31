@@ -62,3 +62,6 @@
 - **[2018-05-05 07:53 UTC]** “Meu Malvado Favorito” será exibido na reabertura do Cine Mabuya, em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/meu-malvado-favorito-sera-exibido-na-reabertura-do-cine-mabuya-em-fernando-de-noronha.html)_
 
+- **[2026-08-29 03:00 UTC]** Fim de semana será marcado por temporais e volumes elevados de chuva em diversas regiões do RS; confira a previsão do tempo
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/fim-de-semana-temporais-chuva-regioes-rs-confira-previsao-do-tempo.ghtml)_
+
