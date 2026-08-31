@@ -14,3 +14,6 @@
 - **[2026-08-31 17:05 UTC]** Bancos e seguradoras se preparam para maior mudança na previdência alemã em 20 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/bancos-e-seguradoras-se-preparam-para-maior-mudanca-na-previdencia-alema-em-20-anos.shtml)_
 
+- **[2026-08-31 15:33 UTC]** Justiça bloqueia plano de previdência de Renan Santos por dívida trabalhista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/justica-bloqueia-plano-de-previdencia-de-renan-santos-por-divida-trabalhista.shtml)_
+
