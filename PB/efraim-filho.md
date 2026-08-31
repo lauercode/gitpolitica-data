@@ -11,3 +11,6 @@
 - **[2026-08-28 19:34 UTC]** Efraim Filho defende redução de impostos e menos burocracia para microempreendedores na PB durante agenda em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/28/efraim-filho-defende-reducao-de-impostos-e-menos-burocracia-para-microempreendedores-na-pb-durante-agenda-em-joao-pessoa.ghtml)_
 
+- **[2026-08-26 20:33 UTC]** Efraim Filho participa de sabatinas e defende redução de impostos e apoio a pequenos empreendedores na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/efraim-filho-participa-de-sabatinas-e-defende-reducao-de-impostos-e-apoio-a-pequenos-empreendedores-na-paraiba.ghtml)_
+
