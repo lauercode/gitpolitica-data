@@ -20,3 +20,6 @@
 - **[2018-07-10 15:23 UTC]** Pastor pregou, fez selfie sorrindo e foi lanchar após morte de irmãos no ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/pastor-pregou-fez-selfie-sorrindo-e-foi-lanchar-apos-morte-de-irmaos-no-es.ghtml)_
 
+- **[2018-07-08 21:45 UTC]** Familiares de irmãos mortos em Linhares fazem protesto contra violência no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/familiares-de-irmaos-mortos-em-linhares-fazem-protesto-contra-violencia-no-es.ghtml)_
+
