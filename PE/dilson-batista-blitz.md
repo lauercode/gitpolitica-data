@@ -14,3 +14,6 @@
 - **[2018-07-18 19:23 UTC]** Foi aprovada lei que proíbe rebocar veículos em blitz? Não é verdade!
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/e-ou-nao-e/noticia/2018/07/18/foi-aprovada-lei-que-proibe-rebocar-veiculos-em-blitze-nao-e-verdade.ghtml)_
 
+- **[2026-08-19 23:33 UTC]** Detran-RO se prepara para uso de drogômetros em blitz da Lei Seca
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/19/detran-ro-se-prepara-para-uso-de-drogometros-em-blitze-da-lei-seca.ghtml)_
+
