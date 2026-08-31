@@ -167,3 +167,6 @@
 - **[2026-08-27 10:28 UTC]** Quem era Thalita Tavares, ex-apresentadora do Globo Esporte TO que morreu vítima de câncer
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/quem-era-thalita-tavares-ex-apresentadora-do-globo-esporte-to-que-morreu-vitima-de-cancer.ghtml)_
 
+- **[2026-08-26 10:29 UTC]** Trabalhador e apegado à família: quem era o adolescente que morreu afogado em praia de Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/trabalhador-e-apegado-a-familia-quem-era-o-adolescente-que-morreu-afogado-em-praia-de-palmas.ghtml)_
+
