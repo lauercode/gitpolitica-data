@@ -47,3 +47,6 @@
 - **[2018-07-17 08:33 UTC]** Empreendimento residencial de alto padrão será construído no Setor Campinas, em Goiânia
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/mercado-imobiliario/noticia/empreendimento-residencial-de-alto-padrao-sera-construido-no-setor-campinas-em-goiania.ghtml)_
 
+- **[2017-11-02 16:20 UTC]** Comédia teatral 'Deu a Louca na Branca' será encenada em Cuiabá
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/comedia-teatral-deu-a-louca-na-branca-sera-encenada-em-cuiaba.ghtml)_
+
