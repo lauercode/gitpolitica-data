@@ -38,3 +38,6 @@
 - **[2026-08-30 21:00 UTC]** Trabalhador que morreu ao cair de alegoria do Festival de Cirandas de Manacapuru é velado no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/30/trabalhador-que-morreu-ao-cair-de-alegoria-do-festival-de-cirandas-de-manacapuru-e-velado-no-amazonas.ghtml)_
 
+- **[2026-08-28 22:00 UTC]** Saiba quem era o trabalhador que morreu durante montagem do Festival de Cirandas de Manacapuru
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/saiba-quem-era-o-trabalhador-que-morreu-durante-montagem-do-festival-de-cirandas-de-manacapuru.ghtml)_
+
