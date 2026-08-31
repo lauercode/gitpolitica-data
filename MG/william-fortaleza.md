@@ -47,3 +47,6 @@
 - **[2017-08-16 15:15 UTC]** Richard Peña ministra Workshop em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/cineasta-richard-pena-ministra-workshop-em-fortaleza.html)_
 
+- **[2017-08-11 14:33 UTC]** Lei da inspeção predial é adiada por mais 90 dias em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/lei-da-inspecao-predial-e-adiada-por-mais-90-dias-em-fortaleza.ghtml)_
+
