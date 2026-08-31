@@ -26,3 +26,6 @@
 - **[2017-05-25 12:59 UTC]** Famílias de Campo Grande adotam irmãos adolescentes e dão exemplo de amor
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/familias-de-campo-grande-adotam-irmaos-adolescentes-e-dao-exemplo-de-amor.ghtml)_
 
+- **[2026-08-31 10:05 UTC]** Jovem morre e dois irmãos ficam feridos após carro colidir com carreta parada em acostamento, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/jovem-morre-e-dois-irmaos-ficam-feridos-apos-carro-colidir-com-carreta-parada-em-acostamento-em-joao-pessoa.ghtml)_
+
