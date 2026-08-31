@@ -161,3 +161,7 @@
 - **[2026-08-17 14:52 UTC]** Eleição para Câmara dos Deputados terá menos candidatos neste ano
   _fonte: [Agência Câmara - Eleições](https://www.camara.leg.br/noticias/1298079-eleicao-para-camara-dos-deputados-tera-menos-candidatos-neste-ano)_
 
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
