@@ -11,3 +11,6 @@
 - **[2026-08-29 23:00 UTC]** Direita no Chile propõe 'Museu da Verdade' para rivalizar com memorial da ditadura de Pinochet
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/direita-no-chile-propoe-museu-da-verdade-para-rivalizar-com-memorial-da-ditadura-de-pinochet.shtml)_
 
+- **[2026-08-31 14:58 UTC]** Caiado promete cortes, mas diz que não pode detalhar plano porque dados públicos são 'manipulados'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/caiado-cortes-subsidios.ghtml)_
+
