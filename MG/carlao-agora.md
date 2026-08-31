@@ -50,3 +50,6 @@
 - **[2026-08-30 17:04 UTC]** Tom Cruise estrelará novo 'Dias de Trovão', agora ao lado de Anne Hathaway
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/tom-cruise-estrelara-novo-dias-de-trovao-agora-ao-lado-de-anne-hathaway.shtml)_
 
+- **[2026-08-31 10:57 UTC]** A música de IA que plagiou Taylor Swift, viralizou nas redes e agora não para de tocar nas rádios brasileiras
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly7215x3vmo?at_medium=RSS&at_campaign=rss)_
+
