@@ -17,3 +17,6 @@
 - **[2026-08-30 13:51 UTC]** Programação da Festividade de Nossa Senhora de Belém tem missas, procissão e shows até 6 de setembro
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/30/programacao-da-festividade-de-nossa-senhora-de-belem-tem-missas-procissao-e-shows-ate-6-de-setembro.ghtml)_
 
+- **[2018-07-15 12:23 UTC]** Eventos e festa de Nossa Senhora do Carmo provocam interdições em vias do Recife
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/eventos-e-festa-de-nossa-senhora-do-carmo-provocam-interdicoes-em-vias-do-recife.ghtml)_
+
