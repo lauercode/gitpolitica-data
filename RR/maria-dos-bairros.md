@@ -17,3 +17,6 @@
 - **[2026-08-17 10:32 UTC]** Manutenção em redes de captação pode deixar conjuntos de Rio Largo e 20 bairros de Maceió sem água
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/17/manutencao-em-redes-de-captacao-pode-deixar-conjuntos-de-rio-largo-e-20-bairros-de-maceio-sem-agua.ghtml)_
 
+- **[2026-08-28 14:24 UTC]** Mais de 20 bairros terão fornecimento de água interrompido em Macapá; veja lista
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/mais-de-20-bairros-terao-fornecimento-de-agua-interrompido-em-macapa-veja-lista.ghtml)_
+
