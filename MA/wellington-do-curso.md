@@ -20,3 +20,6 @@
 - **[2017-08-02 12:34 UTC]** Curso de Jornalismo da Unifor lança 22ª edição da revista A Ponte
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/08/curso-de-jornalismo-da-unifor-lanca-22-edicao-da-revista-ponte.html)_
 
+- **[2018-07-17 18:20 UTC]** Chico Pinheiro abre o 21º Curso de Residência em Jornalismo da Rede Gazeta
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/educacao/noticia/chico-pinheiro-abre-o-21o-curso-de-residencia-em-jornalismo-da-rede-gazeta.ghtml)_
+
