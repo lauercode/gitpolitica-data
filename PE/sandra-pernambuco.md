@@ -17,3 +17,6 @@
 - **[2018-07-20 12:46 UTC]** Pernambuco inscreve para cursos profissionalizantes gratuitos com quase 15 mil vagas
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/2018/07/20/pernambuco-abre-inscricoes-para-cursos-profissionalizantes-gratuitos-com-15-mil-vagas.ghtml)_
 
+- **[2018-07-18 14:44 UTC]** Artistas denunciam demora no pagamento dos cachês do carnaval 2018 em Pernambuco
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/noticia/2018/07/18/artistas-denunciam-demora-no-pagamento-dos-caches-do-carnaval-2018-em-pernambuco.ghtml)_
+
