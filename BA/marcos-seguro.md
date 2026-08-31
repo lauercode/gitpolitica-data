@@ -11,3 +11,6 @@
 - **[2026-08-29 12:00 UTC]** Salada embalada é segura? Entenda como alimento pode ser contaminado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/salada-embalada-e-segura-entenda-como-alimento-pode-ser-contaminado.shtml)_
 
+- **[2017-10-30 16:45 UTC]** Mãe de aluno que atirou contra colegas guardava a arma em local seguro, diz advogada
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/mae-de-aluno-que-atirou-contra-colegas-presta-depoimento-em-goiania.ghtml)_
+
