@@ -101,3 +101,6 @@
 - **[2026-08-27 21:04 UTC]** Imagens mostram incêndio em área interna do Centro Comercial de Passagem, em João Pessoa; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/imagens-mostram-incendio-em-area-interna-do-centro-comercial-de-passagem-em-joao-pessoa-video.ghtml)_
 
+- **[2026-08-27 19:57 UTC]** Incêndio atinge Centro Comercial de Passagem, em João Pessoa; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/incendio-centro-comercial-joao-pessoa.ghtml)_
+
