@@ -17,3 +17,6 @@
 - **[2026-08-26 21:33 UTC]** BernoTech: tecnologia para todos transforma a experiência em estética em Cacoal
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/tatty-berno-clinica/noticia/2026/08/26/bernotech-tecnologia-para-todos-transforma-a-experiencia-em-estetica-em-cacoal.ghtml)_
 
+- **[2026-08-29 09:30 UTC]** Cerrado do Tocantins floresce em meio à seca e transforma paisagem de Palmas; entenda
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/cerrado-do-tocantins-floresce-em-meio-a-seca-e-transforma-paisagem-de-palmas-entenda.ghtml)_
+
