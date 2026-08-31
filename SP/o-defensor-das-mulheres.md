@@ -59,3 +59,6 @@
 - **[2026-08-19 14:53 UTC]** Candidaturas de mulheres caem 33% em Rondônia em 2026; só homens disputam o governo
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/19/candidaturas-de-mulheres-caem-em-rondonia-em-2026-so-homens-disputam-o-governo.ghtml)_
 
+- **[2026-08-31 09:00 UTC]** Quaest em Roraima: intenção de voto entre homens e mulheres
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/31/quaest-em-roraima-intencao-de-voto-entre-homens-e-mulheres.ghtml)_
+
