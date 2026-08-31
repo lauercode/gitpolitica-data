@@ -89,3 +89,6 @@
 - **[2026-08-30 15:36 UTC]** Pesquisadores da UFCG apresentam trabalho em congresso da ONU: 'A Caatinga e o Semiárido têm experiência científica relevante'
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/30/pesquisadores-da-ufcg-apresentam-trabalho-em-congresso-da-onu-a-caatinga-e-o-semiarido-tem-experiencia-cientifica-relevante.ghtml)_
 
+- **[2026-08-28 23:17 UTC]** Paraíba registra ganho de mais de 2,3 mil postos de trabalho em julho, aponta Caged
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/paraiba-registra-ganho-de-mais-de-2-mil-postos-de-trabalho-em-julho-aponta-caged.ghtml)_
+
