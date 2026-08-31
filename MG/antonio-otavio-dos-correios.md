@@ -17,3 +17,6 @@
 - **[2026-08-28 01:14 UTC]** Lula descarta vender Correios e diz que dívida pública não preocupa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/lula-correios-divida-publica.ghtml)_
 
+- **[2026-08-31 12:33 UTC]** Aporte não é Pix de R$ 6 bilhões aos Correios, diz ministro do Planejamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/aporte-nao-e-pix-de-r-6-bilhoes-aos-correios-diz-ministro-do-planejamento.shtml)_
+
