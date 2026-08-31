@@ -41,3 +41,6 @@
 - **[2026-08-30 12:00 UTC]** Podemos em breve ter a tecnologia necessária para alcançar outros sistemas estelares
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/podemos-em-breve-ter-a-tecnologia-necessaria-para-alcancar-outros-sistemas-estelares.shtml)_
 
+- **[2018-07-17 23:37 UTC]** Tremor de terra é registrado em Poços de Caldas; magnitude foi de 2.2, diz UNB
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/unb-confirma-tremor-de-terra-de-magnitude-22-em-pocos-de-caldas-mg.ghtml)_
+
