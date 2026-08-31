@@ -44,3 +44,6 @@
 - **[2018-07-17 23:37 UTC]** Tremor de terra é registrado em Poços de Caldas; magnitude foi de 2.2, diz UNB
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/unb-confirma-tremor-de-terra-de-magnitude-22-em-pocos-de-caldas-mg.ghtml)_
 
+- **[2026-08-26 18:04 UTC]** TRF1 barra decisão que fragilizava proteção de terra indígena sob invasão no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/trf1-barra-decisao-que-ameacava-protecao-de-terra-indigena-sob-invasao-no-para.ghtml)_
+
