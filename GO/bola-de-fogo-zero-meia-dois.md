@@ -119,3 +119,6 @@
 - **[2018-07-16 12:17 UTC]** Motociclista morre após invadir preferencial e bater em dois carros, diz polícia de MS
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/motociclista-morre-apos-invadir-preferencial-e-bater-em-dois-carros-diz-policia-de-ms.ghtml)_
 
+- **[2026-08-27 20:45 UTC]** Acidentes graves deixam dois mortos e cinco feridos no sudeste do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/acidentes-graves-deixam-dois-mortos-e-cinco-feridos-no-sudeste-do-para.ghtml)_
+
