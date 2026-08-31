@@ -23,3 +23,6 @@
 - **[2026-08-22 16:46 UTC]** Após 10 meses, caminhada cobra Justiça por mulher esquartejada pelo vizinho no interior do AP
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/22/apos-10-meses-caminhada-cobra-justica-por-mulher-esquartejada-pelo-vizinho-no-interior-do-ap.ghtml)_
 
+- **[2018-07-10 14:50 UTC]** Mesmo em isolamento, Geddel mantém indisciplina, segundo presídio; juíza cobra investigação sobre remédios em cela
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/blog/andreia-sadi/post/2018/07/10/mesmo-em-isolamento-geddel-mantem-indisciplina-juiza-cobra-investigacao-sobre-remedios-em-cela.ghtml)_
+
