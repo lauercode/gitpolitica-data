@@ -80,3 +80,6 @@
 - **[2018-04-25 09:26 UTC]** Birigui, a cidade dos calçados e do biribol
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/blog/do-mundo-para-o-interior-paulista-por-valeria-foz/post/birigui-cidade-dos-calcados-e-do-biribol.html)_
 
+- **[2026-08-27 15:29 UTC]** Polícia Civil faz operação contra desvio de recursos públicos em cidade no TO e bloqueia mais de R$ 2 milhões
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/policia-civil-faz-operacao-contra-desvio-de-recursos-publicos-em-cidade-no-to-e-bloqueia-mais-de-r-2-milhoes.ghtml)_
+
