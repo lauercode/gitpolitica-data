@@ -113,3 +113,6 @@
 - **[2018-04-25 17:14 UTC]** Moradores de Fernando de Noronha recebem 30 próteses dentárias
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/moradores-de-fernando-de-noronha-recebem-30-proteses-dentarias.html)_
 
+- **[2018-04-25 15:28 UTC]** Fernando de Noronha teve 90 saltos de paraquedas
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/fernando-de-noronha-teve-90-saltos-de-paraquedas.html)_
+
