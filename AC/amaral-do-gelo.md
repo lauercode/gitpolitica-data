@@ -14,3 +14,6 @@
 - **[2026-08-31 05:00 UTC]** Cientistas usam narvais para descobrir o que está acontecendo sob gelo do Ártico
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/cientistas-usam-narvais-para-descobrir-o-que-esta-acontecendo-sob-gelo-do-artico.shtml)_
 
+- **[2026-08-31 11:53 UTC]** VÍDEO: temporais de granizo com pedras de gelo do tamanho de ovos de galinha causam estragos no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/31/video-temporais-de-granizo-com-pedras-de-gelo-do-tamanho-de-ovos-de-galinha-causam-estragos-no-parana.ghtml)_
+
