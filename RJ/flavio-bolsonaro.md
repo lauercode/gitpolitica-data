@@ -491,3 +491,6 @@
 - **[2026-08-31 00:17 UTC]** TSE analisa vídeo de Bolsonaro feito por IA e pode definir regras para campanhas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-analisa-video-de-bolsonaro-feito-por-ia-e-pode-definir-regras-para-campanhas/)_
 
+- **[2026-08-30 23:26 UTC]** TSE suspende propaganda de Lula que lista acusações contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/tse-suspende-propaganda-de-lula-que-lista-acusacoes-contra-flavio-bolsonaro.shtml)_
+
