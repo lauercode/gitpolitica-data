@@ -111,3 +111,6 @@ direcionado às necessidades de cada pessoa
 - **[2018-07-20 01:13 UTC]** Morador é indenizado no ES após descobrir que imóvel que comprou foi alugado para outra pessoa
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/2018/07/20/morador-e-indenizado-no-es-apos-descobrir-que-imovel-que-comprou-foi-alugado-para-outra-pessoa.ghtml)_
 
+- **[2018-07-11 18:13 UTC]** Motorista de carro perde controle, bate em traseira de caminhão parado; acidente deixa uma pessoa morta na GO-080, em Nerópolis
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/video-mostra-batida-que-deixou-homem-morto-e-outras-tres-pessoas-feridas-na-go-080-em-neropolis.ghtml)_
+
