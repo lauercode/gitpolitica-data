@@ -32,3 +32,6 @@
 - **[2018-07-12 13:47 UTC]** Secretaria de Educação seleciona estudantes para 112 vagas em curso gratuito de música em Pernambuco
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/secretaria-de-educacao-seleciona-estudantes-para-112-vagas-em-curso-gratuito-de-musica-em-pernambuco.ghtml)_
 
+- **[2018-05-15 16:43 UTC]** Curso para professores em unidades de conservação é realizado em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/curso-para-professores-em-unidades-de-conservacao-e-realizado-em-fernando-de-noronha.html)_
+
