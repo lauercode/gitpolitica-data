@@ -32,3 +32,6 @@
 - **[2026-08-28 20:35 UTC]** “Aqui vira negócio” sintetiza a trajetória de resultados da FECOIMP.
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/especial-publicitario/associacao-comercial-industrial-e-servicos-de-imperatriz-fecoimp-2026-aqui-vira-negocio/noticia/2026/08/28/aqui-vira-negocio-sintetiza-a-trajetoria-de-resultados-da-fecoimp.ghtml)_
 
+- **[2026-08-28 16:52 UTC]** 'A gente que gosta do esporte não mede esforços para estar aqui', diz Wesley Safadão sobre participação na Vaquejada de Lagarto
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/a-gente-que-gosta-do-esporte-nao-mede-esforcos-para-estar-aqui-diz-wesley-safadao-sobre-participacao-na-vaquejada-de-lagarto.ghtml)_
+
