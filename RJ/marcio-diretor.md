@@ -23,3 +23,6 @@
 - **[2018-07-20 23:24 UTC]** Motorista pediu para atuar em resgate de usuário de drogas que o matou a facadas, diz diretor da clínica
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2018/07/20/motorista-pediu-para-atuar-em-resgate-de-usuario-de-drogas-que-o-matou-a-facadas-diz-diretor-da-clinica.ghtml)_
 
+- **[2018-07-20 17:52 UTC]** 'Estamos chocados', diz diretor sobre morte de motorista de clínica esfaqueado por usuário de drogas
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2018/07/20/estamos-chocados-diz-diretor-sobre-morte-de-motorista-de-clinica-esfaqueado-por-usuario-de-drogas.ghtml)_
+
