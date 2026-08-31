@@ -29,3 +29,6 @@
 - **[2026-08-25 22:35 UTC]** Quaest no AP: Dr Furlan, 55%; Clécio, 35%
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/25/quaest-ap-governador-25-agosto.ghtml)_
 
+- **[2026-08-25 22:07 UTC]** Clécio Luís participa de reunião, gravação e caminhada em Santana
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/25/clecio-luis-participa-de-reuniao-gravacao-e-uma-caminhada-em-santana.ghtml)_
+
