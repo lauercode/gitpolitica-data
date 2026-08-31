@@ -11,3 +11,6 @@
 - **[2026-08-24 17:59 UTC]** VÍDEO: Pastor alemão é resgatado pela polícia após fugir de casa e ser vendido no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/24/video-pastor-alemao-e-resgatado-pela-policia-apos-fugir-de-casa-e-ser-vendido-no-acre.ghtml)_
 
+- **[2018-07-10 15:23 UTC]** Pastor pregou, fez selfie sorrindo e foi lanchar após morte de irmãos no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/pastor-pregou-fez-selfie-sorrindo-e-foi-lanchar-apos-morte-de-irmaos-no-es.ghtml)_
+
