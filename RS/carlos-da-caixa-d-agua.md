@@ -65,3 +65,6 @@
 - **[2017-08-25 22:18 UTC]** Vídeo feito em maio mostra passageiros de lancha em pânico após água entrar em embarcação na Bahia
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/video-feito-em-maio-mostra-passageiros-de-lancha-em-panico-apos-agua-entrar-em-embarcacao-na-bahia.ghtml)_
 
+- **[2018-01-16 21:04 UTC]** Entrevista G1: Um ano de racionamento de água
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/df/distrito-federal/ao-vivo/entrevista-g1-df-um-ano-de-racionamento-de-agua.ghtml)_
+
