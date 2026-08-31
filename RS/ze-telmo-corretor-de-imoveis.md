@@ -14,3 +14,6 @@
 - **[2026-08-25 16:00 UTC]** Marquise desaba sobre poste e deixa 54 imóveis sem energia na Zona Norte de Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/25/marquise-desaba-sobre-poste-e-deixa-54-imoveis-sem-energia-na-zona-norte-de-natal.ghtml)_
 
+- **[2018-07-10 12:12 UTC]** Advogado explica como funcionam as leis que protegem locatários de imóveis comerciais
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/advogado-explica-como-funcionam-as-leis-que-protegem-locatarios-de-imoveis-comerciais.ghtml)_
+
