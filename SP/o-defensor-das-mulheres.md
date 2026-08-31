@@ -47,3 +47,6 @@
 - **[2017-08-24 16:53 UTC]** Construtora oferece curso de reparos domésticos para mulheres, em Goiânia
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/construtora-oferece-curso-de-reparos-domesticos-para-mulheres-em-goiania.ghtml)_
 
+- **[2026-08-27 11:44 UTC]** UFPB abre inscrições para oficina literária gratuita voltada a mulheres periféricas
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/ufpb-abre-inscricoes-para-oficina-literaria-gratuita-voltada-a-mulheres-perifericas.ghtml)_
+
