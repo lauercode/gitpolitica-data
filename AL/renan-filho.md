@@ -20,3 +20,6 @@
 - **[2026-08-25 23:09 UTC]** Entrevistas, comício e caminhada: veja a agenda de Renan Filho nesta terça-feira
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/25/entrevistas-comicio-e-caminhada-veja-a-agenda-de-renan-filho-nesta-terca-feira.ghtml)_
 
+- **[2026-08-24 22:26 UTC]** Quaest em AL: Renan Filho tem 42%; e JHC, 40%
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/24/quaest-al-governador-24-agosto.ghtml)_
+
