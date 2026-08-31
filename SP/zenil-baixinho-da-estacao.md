@@ -14,3 +14,6 @@
 - **[2017-07-26 13:54 UTC]** 'Estação dos ventos' no Ceará pode trazer rajadas acima de 50 km/h
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/estacao-dos-ventos-no-ceara-pode-trazer-rajadas-acima-de-50-kmh.ghtml)_
 
+- **[2017-10-28 19:10 UTC]** Estação Rio terá show gratuito de Ferrugem e Maria Cecília & Rodolfo em Itaguaí
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/estacao-rio-tera-show-gratuito-de-ferrugem-e-maria-cecilia-rodolfo-em-itaguai.ghtml)_
+
