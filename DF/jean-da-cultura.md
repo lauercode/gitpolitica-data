@@ -17,3 +17,6 @@
 - **[2026-08-30 16:04 UTC]** Do carimbó ao hip-hop, Afro Maré celebra a cultura negra em Mosqueiro
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/30/festival-afro-mare-estreia-em-mosqueiro-com-carimbo-tecnobrega-hip-hop-e-culturas-de-terreiro.ghtml)_
 
+- **[2026-08-31 14:10 UTC]** Temperos da terra: os sabores que preservam a cultura do campo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/fag-centro-universitario-city-farm/noticia/2026/08/31/temperos-da-terra-os-sabores-que-preservam-a-cultura-do-campo.ghtml)_
+
