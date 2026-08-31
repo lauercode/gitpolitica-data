@@ -17,3 +17,6 @@
 - **[2018-07-19 10:02 UTC]** Desocupação de terreno de hotel em Igarassu provoca protesto no Grande Recife
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/2018/07/19/protesto-contra-desocupacao-de-terreno-em-igarassu-complica-o-transito-no-grande-recife.ghtml)_
 
+- **[2026-08-21 13:35 UTC]** Justiça condena hotel por não reembolsar cliente que cancelou viagem por urgência médica da mãe
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/21/justica-condena-hotel-reembolso-cliente-cancelou-viagem.ghtml)_
+
