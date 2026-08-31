@@ -56,3 +56,6 @@
 - **[2026-08-31 09:35 UTC]** O ator diagnosticado com Alzheimer e que agora está à frente de um espetáculo solo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9w45p1pqv5o?at_medium=RSS&at_campaign=rss)_
 
+- **[2017-08-17 20:46 UTC]** Governo estuda agora fazer a concessão de 13 aeroportos
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/economia/noticia/governo-estuda-agora-fazer-a-concessao-de-13-aeroportos.ghtml)_
+
