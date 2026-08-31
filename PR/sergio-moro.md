@@ -20,3 +20,6 @@
 - **[2026-08-31 15:31 UTC]** Eleições 2026 no PR: Sergio Moro cumpre agenda em evento em São Paulo
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-no-pr-agenda-sergio-moro-31-agosto.ghtml)_
 
+- **[2026-08-28 15:38 UTC]** Eleições 2026 no PR: Sergio Moro diz querer enviar feminicidas a presídios estaduais de segurança máxima
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-no-pr-agenda-sergio-moro-28-de-agosto.ghtml)_
+
