@@ -11,3 +11,6 @@
 - **[2026-08-27 19:48 UTC]** TSE autoriza envio de militares para reforçar eleição em 5 estados no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/tse-autoriza-envio-de-militares-para-reforcar-eleicao-em-5-estados-no-1o-turno.shtml)_
 
+- **[2018-07-12 16:21 UTC]** Aeronave que saiu da Bolívia com 300 kg de cocaína é apreendida no Tocantins
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/to/tocantins/noticia/aeronave-com-cocaina-e-apreendida-em-campo-de-pouso-no-interior-do-tocantins.ghtml)_
+
