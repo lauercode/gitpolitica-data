@@ -44,3 +44,6 @@
 - **[2018-07-16 12:17 UTC]** Motociclista morre após invadir preferencial e bater em dois carros, diz polícia de MS
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/motociclista-morre-apos-invadir-preferencial-e-bater-em-dois-carros-diz-policia-de-ms.ghtml)_
 
+- **[2017-06-17 17:48 UTC]** Motociclista morre após bater na traseira de caminhão estacionado em MS
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/motociclista-morre-em-ms-apos-bater-em-traseira-de-caminhao-estacionado.ghtml)_
+
