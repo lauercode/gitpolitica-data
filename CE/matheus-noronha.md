@@ -80,3 +80,6 @@
 - **[2018-05-02 16:22 UTC]** Apresentador do Globo Esporte, George Guilherme,  visita Fernando de Noronha e fala de Copa do Mundo
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/apresentador-do-globo-esporte-george-guilherme-visita-fernando-de-noronha-e-fala-de-copa-do-mundo.html)_
 
+- **[2018-05-02 11:08 UTC]** Especialista avalia que pesca da sardinha na área do Parque Nacional Marinho não causa impacto em  Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/especialista-avalia-que-pesca-da-sardinha-na-area-do-parque-nacional-marinho-nao-causa-impacto-em-fernando-de-noronha.html)_
+
