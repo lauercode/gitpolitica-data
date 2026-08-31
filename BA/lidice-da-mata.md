@@ -59,3 +59,6 @@
 - **[2018-07-10 20:11 UTC]** Carreta carregada com combustíveis pega fogo na MG-265 na Zona da Mata
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/zona-da-mata/noticia/carreta-carregada-com-combustiveis-pega-fogo-na-mg-265-na-zona-da-mata.ghtml)_
 
+- **[2026-08-27 21:27 UTC]** Mulher trans é encontrada morta em área de mata em Tracuateua, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/mulher-trans-e-encontrada-morta-em-area-de-mata-em-tracuateua-no-para.ghtml)_
+
