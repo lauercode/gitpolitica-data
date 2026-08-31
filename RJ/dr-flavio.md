@@ -647,3 +647,6 @@
 - **[2026-08-25 22:50 UTC]** Quaest no Amapá: Lula, 36%; Flávio Bolsonaro, 33%
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/25/quaest-ap-presidente-25-agosto.ghtml)_
 
+- **[2018-05-07 06:51 UTC]** Flávio Canto participa de atividades do Tamar em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/flavio-canto-participa-de-atividades-do-tamar-em-fernando-de-noronha.html)_
+
