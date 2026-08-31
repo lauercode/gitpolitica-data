@@ -14,3 +14,6 @@
 - **[2026-08-31 20:40 UTC]** Justiça proíbe Arthur Henrique de fazer propaganda eleitoral dentro de comércios em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/31/justica-proibe-arthur-henrique-de-fazer-propaganda-eleitoral-dentro-de-comercios-em-roraima.ghtml)_
 
+- **[2026-08-29 14:57 UTC]** TRE-RR manda tirar do ar post de Arthur Henrique e Nicoletti gravado dentro de escola indígena
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/tre-rr-manda-tirar-do-ar-post-de-arthur-henrique-e-nicoletti-gravado-dentro-de-escola-indigena.ghtml)_
+
