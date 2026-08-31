@@ -11,3 +11,6 @@
 - **[2026-08-25 06:00 UTC]** VÍDEO: gado foge de incêndio que atinge fazendas; fogo avança por áreas rurais de três estados
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/25/video-gado-foge-de-incendio-que-atinge-fazendas-fogo-avanca-por-areas-rurais-de-tres-estados.ghtml)_
 
+- **[2026-08-24 12:32 UTC]** Pecuaristas adotam estratégia com ração no pasto para evitar perda de peso do gado na seca em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/pecuaristas-adotam-estrategia-com-racao-no-pasto-para-evitar-perda-de-peso-do-gado-na-seca-em-roraima.ghtml)_
+
