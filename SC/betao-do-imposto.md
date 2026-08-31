@@ -32,3 +32,6 @@
 - **[2026-08-28 08:55 UTC]** Wilson Grassi propõe Imposto Único Federal de 2% em plano de governo
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/wilson-grassi-propoe-imposto-unico-federal-de-2-em-plano-de-governo)_
 
+- **[2026-08-31 21:24 UTC]** Bebidas alcoólicas, refrigerantes e cigarros: governo inclui 'imposto do pecado' no orçamento de 2027
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/para-taxar-cigarros-bebidas-alcoolicas-e-refrigerantes-governo-inclui-imposto-do-pecado-no-orcamento-de-2027.ghtml)_
+
