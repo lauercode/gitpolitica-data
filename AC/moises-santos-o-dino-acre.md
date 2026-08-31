@@ -140,3 +140,6 @@
 - **[2026-08-26 23:07 UTC]** Justiça do Acre mantém pena de devolução de R$ 4,6 mil por ex-vereador, mas reduz punições
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/justica-do-acre-mantem-pena-de-devolucao-de-r-46-mil-por-ex-vereador-mas-reduz-punicoes.ghtml)_
 
+- **[2026-08-26 21:36 UTC]** Estudante que representou o Acre no Programa Jovem Senador 2026 fala de experiência no DF: 'Responsabilidade'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/estudante-que-representou-o-acre-no-programa-jovem-senador-2026-fala-de-experiencia-no-df-responsabilidade.ghtml)_
+
