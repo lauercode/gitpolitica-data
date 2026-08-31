@@ -134,3 +134,6 @@
 - **[2026-08-28 13:40 UTC]** Médica, engenheiro e estudante: quem era família encontrada morta em apartamento no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/quem-era-familia-encontrada-morta-em-apartamento-no-parana.ghtml)_
 
+- **[2017-10-17 12:25 UTC]** Polícia diz ter pista de quem é o bandido atendido em ambulância sequestrada no Rio
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/delegado-ja-tem-um-suspeito-que-pode-ter-sido-atendido-por-ambulancia-sequestrada-na-mare.ghtml)_
+
