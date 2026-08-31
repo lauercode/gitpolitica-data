@@ -359,3 +359,6 @@
 - **[2018-02-09 22:20 UTC]** JN embarca na nave espacial do carnavalesco Paulo Barros
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/jornal-nacional/noticia/2018/02/jn-embarca-na-nave-espacial-do-carnavalesco-paulo-barros.html)_
 
+- **[2026-08-25 22:25 UTC]** Quaest para o Senado no TO: Eduardo Gomes, 14%; Gaguim, 13%; Paulo Mourão, 9%; Alexandre Guimarães, 8%
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-senado-25-de-agosto.ghtml)_
+
