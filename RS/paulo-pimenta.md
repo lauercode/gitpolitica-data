@@ -23,3 +23,6 @@
 - **[2026-08-29 15:35 UTC]** Candidato pela 4ª vez pelo PCO, Rui Costa Pimenta defende armar população e dissolver PM
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidato-pela-4a-vez-pelo-pco-rui-costa-pimenta-defende-armar-populacao-e-dissolver-pm.shtml)_
 
+- **[2026-08-25 18:47 UTC]** Curso gratuito de Libras promove inclusão e acessibilidade em Pimenta Bueno
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/08/25/curso-gratuito-de-libras-promove-inclusao-e-acessibilidade-em-pimenta-bueno.ghtml)_
+
