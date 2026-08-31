@@ -183,3 +183,6 @@ Diretor
 - **[2017-10-10 09:57 UTC]** Câmara do DF quer proibir escolas públicas de liberar alunos se faltar professor
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/camara-do-df-quer-proibir-escolas-publicas-de-liberar-alunos-se-faltar-professor.ghtml)_
 
+- **[2017-07-18 13:38 UTC]** Portal da Câmara Legislativa do DF fica fora do ar e mostra mensagem de erro
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/portal-da-camara-legislativa-do-df-fica-fora-do-ar.ghtml)_
+
