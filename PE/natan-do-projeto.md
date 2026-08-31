@@ -101,3 +101,6 @@
 - **[2018-05-09 12:02 UTC]** Projeto Tamar realiza soltura de filhotes de tartaruga em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/projeto-tamar-realiza-soltura-de-filhotes-de-tartaruga-em-fernando-de-noronha.html)_
 
+- **[2018-05-03 08:19 UTC]** Projeto Tamar celebra em Fernando de Noronha 35 Milhões de tartarugas marinhas protegidas no Brasil
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/projeto-tamar-celebra-em-fernando-de-noronha-35-milhoes-de-tartarugas-marinhas-protegidas-no-brasil.html)_
+
