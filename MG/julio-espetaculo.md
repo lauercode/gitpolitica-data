@@ -11,3 +11,6 @@
 - **[2026-08-31 09:35 UTC]** O ator diagnosticado com Alzheimer e que agora está à frente de um espetáculo solo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9w45p1pqv5o?at_medium=RSS&at_campaign=rss)_
 
+- **[2017-11-07 12:23 UTC]** Espetáculo de dança conta história de guardiões que tentam salvar o mundo encantado
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/espetaculo-de-danca-conta-historia-de-guardioes-que-tentam-salvar-o-mundo-encantado.ghtml)_
+
