@@ -113,3 +113,6 @@
 - **[2026-08-31 13:51 UTC]** Moradora chama atenção ao oferecer água a cavalos durante cavalgada no TO; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/moradora-chama-atencao-ao-oferecer-agua-a-cavalos-durante-cavalgada-no-to-video.ghtml)_
 
+- **[2026-08-26 11:00 UTC]** MPTO aponta falhas no fornecimento de água em Araguaína e pede R$ 1 milhão em danos morais coletivos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/mpto-aponta-falhas-no-fornecimento-de-agua-em-araguaina-e-pede-r-1-milhao-em-danos-morais-coletivos.ghtml)_
+
