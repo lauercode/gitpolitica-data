@@ -83,3 +83,6 @@
 - **[2026-08-18 14:36 UTC]** PM prende dois suspeitos e apreende 35 quilos de maconha em São Miguel dos Campos
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/18/pm-prende-dois-suspeitos-e-apreende-35-quilos-de-maconha-em-sao-miguel-dos-campos.ghtml)_
 
+- **[2026-08-23 16:27 UTC]** Dois homens são presos por porte de substância ilícita durante abordagem policial em Santana
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/23/dois-homens-sao-presos-por-porte-de-substancia-ilicita-durante-abordagem-policial-em-santana.ghtml)_
+
