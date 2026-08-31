@@ -68,3 +68,6 @@
 - **[2018-05-04 15:54 UTC]** Regulamentação de atividades no Porto de  Fernando de Noronha é apresentada
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/regulamentacao-de-atividades-no-porto-de-fernando-de-noronha-e-apresentada.html)_
 
+- **[2018-05-04 09:36 UTC]** Ministro da Educação garante escola integral em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/ministro-da-educacao-garante-escola-integral-em-fernando-de-noronha.html)_
+
