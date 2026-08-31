@@ -35,3 +35,6 @@
 - **[2026-08-26 14:52 UTC]** Vendedor de cosméticos é morto a tiros durante assalto dentro de casa no bairro Tenoné, em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/vendedor-e-morto-a-tiros-durante-assalto-dentro-de-casa-no-bairro-tenone-em-belem.ghtml)_
 
+- **[2026-08-27 12:26 UTC]** Amigos são presos com drogas na casa da avó de um deles no bairro dos Estados, em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/27/amigos-sao-presos-com-drogas-na-casa-da-avo-de-um-deles-no-bairro-dos-estados-em-boa-vista.ghtml)_
+
