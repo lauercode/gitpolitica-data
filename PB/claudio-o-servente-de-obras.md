@@ -56,3 +56,6 @@
 - **[2026-08-31 19:38 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras de saúde e reúne com correligionários em Joinville
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-em-sc-jorginho-mello-visita-obras-de-saude-e-reune-com-correligionarios-em-joinville.ghtml)_
 
+- **[2026-08-28 17:59 UTC]** Presidenciáveis, obras e promessas: como foi 1° dia de propaganda eleitoral na TV dos candidatos ao governo de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/28/como-foi-1-dia-propaganda-eleitoral-tv-candidatos-governo-de-sc.ghtml)_
+
