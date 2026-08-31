@@ -44,3 +44,6 @@
 - **[2026-08-31 16:09 UTC]** Caso Géssica: PMs são pronunciados a júri popular após quase 3 anos de morte de enfermeira no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/caso-gessica-pms-sao-pronunciados-a-juri-popular-apos-quase-3-anos-de-morte-de-enfermeira-no-acre.ghtml)_
 
+- **[2026-08-31 14:32 UTC]** Homens são agredidos por PMs em feira no interior do Acre; VÍDEO mostra momento
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/homens-sao-agredidos-por-pms-em-feira-no-interior-do-acre-video-mostra-momento.ghtml)_
+
