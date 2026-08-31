@@ -77,3 +77,6 @@
 - **[2026-08-31 21:01 UTC]** Policial penal afastado suspeito de facilitar fuga de detento é preso com outros dois homens no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/policial-penal-afastado-suspeito-de-facilitar-fuga-de-detento-e-preso-com-outros-dois-homens-no-acre.ghtml)_
 
+- **[2026-08-28 18:20 UTC]** Dois ficam feridos após carro capotar e cair em ribanceira na BR-364; condutor é preso por suspeita de embriaguez
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/duas-pessoas-ficam-feridas-apos-carro-capotar-e-cair-em-ribanceira-na-br-364-em-rio-branco.ghtml)_
+
