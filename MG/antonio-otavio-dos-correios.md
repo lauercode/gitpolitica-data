@@ -29,3 +29,6 @@
 - **[2017-11-13 16:46 UTC]** Cartinhas do Natal dos Correios já podem ser adotadas em agências e pela internet
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/cartinhas-do-natal-dos-correios-ja-podem-ser-adotadas-em-agencias-e-pela-internet.ghtml)_
 
+- **[2026-08-25 12:30 UTC]** PF realiza operação contra grupo suspeito de enviar drogas pelos Correios no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/25/pf-realiza-operacao-contra-grupo-suspeito-de-enviar-drogas-pelos-correios-no-rn.ghtml)_
+
