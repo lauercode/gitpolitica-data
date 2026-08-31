@@ -62,3 +62,6 @@
 - **[2026-08-28 16:49 UTC]** Homem fica pendurado dentro de caixa d’água por 40 minutos em Manaus; veja resgate
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/homem-fica-pendurado-dentro-de-caixa-dagua-por-40-minutos-em-manaus-veja-resgate.ghtml)_
 
+- **[2017-08-25 22:18 UTC]** Vídeo feito em maio mostra passageiros de lancha em pânico após água entrar em embarcação na Bahia
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/video-feito-em-maio-mostra-passageiros-de-lancha-em-panico-apos-agua-entrar-em-embarcacao-na-bahia.ghtml)_
+
