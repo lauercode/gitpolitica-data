@@ -14,3 +14,6 @@
 - **[2017-05-09 12:03 UTC]** Sebrae atende a empreendedores dos bairros com unidade móvel
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/sebrae-atende-empreendedores-dos-bairros-com-unidade-movel.html)_
 
+- **[2018-05-15 11:09 UTC]** Depois de quatro meses da inauguração, unidade de saúde será entregue aos moradores de Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/depois-de-quatro-meses-da-inauguracao-unidade-de-saude-sera-entregue-aos-moradores-de-fernando-de-noronha.html)_
+
