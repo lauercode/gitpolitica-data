@@ -11,3 +11,6 @@
 - **[2026-08-28 22:24 UTC]** Sul-Americano de Vôlei de Praia coloca João Pessoa rumo a Los Angeles 2028
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/especial-publicitario/grupo-2m/noticia/2026/08/28/sul-americano-de-volei-de-praia-coloca-joao-pessoa-rumo-a-los-angeles-2028.ghtml)_
 
+- **[2018-04-24 11:29 UTC]** Taça Noronha de Vôlei termina com emoção em quadra
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/taca-noronha-de-volei-termina-com-emocao-em-quadra.html)_
+
