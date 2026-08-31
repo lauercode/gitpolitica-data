@@ -20,3 +20,6 @@
 - **[2026-08-26 17:26 UTC]** Eclipse lunar quase total poderá ser visto no Maranhão; UFMA e SAMA promovem observação em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/eclipse-lunar-quase-total-podera-ser-visto-no-ma-ufma-promovera-observacao-publica-em-sao-luis.ghtml)_
 
+- **[2026-08-28 12:08 UTC]** Eclipse 'quase' total da Lua: veja FOTOS do fenômeno pela Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/eclipse-quase-total-da-lua-veja-fotos-do-fenomeno-pela-paraiba.ghtml)_
+
