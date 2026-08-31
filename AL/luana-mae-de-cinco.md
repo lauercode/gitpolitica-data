@@ -47,3 +47,6 @@
 - **[2026-08-31 11:47 UTC]** Contas públicas têm superávit em julho; dívida sobe para 82,5% do PIB, maior nível em mais de cinco anos
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/contas-publicas-tem-superavit-em-julho-divida-sobe-para-825percent-do-pib-maior-nivel-em-mais-de-cinco-anos.ghtml)_
 
+- **[2026-08-31 09:23 UTC]** Dívida bruta brasileira atinge 82,5% do PIB em julho, maior patamar em cinco anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/divida-bruta-brasileira-atinge-825-do-pib-em-julho.shtml)_
+
