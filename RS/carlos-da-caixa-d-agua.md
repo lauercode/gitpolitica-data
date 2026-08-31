@@ -35,3 +35,6 @@
 - **[2026-08-31 17:01 UTC]** Após queda do sistema Cantareira para 33% em agosto, Tarcísio descarta rodízio ou racionamento de água em SP durante estiagem
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/08/31/apos-queda-do-sistema-cantareira-para-33percent-em-agosto-tarcisio-descarta-rodizio-ou-racionamento-de-agua-em-sp-durante-estiagem.ghtml)_
 
+- **[2026-08-31 12:10 UTC]** Governo Lula exigirá água gratuita em grandes eventos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-lula-exige-agua-gratuita-em-grandes-eventos.shtml)_
+
