@@ -17,3 +17,6 @@
 - **[2026-08-31 18:04 UTC]** Emprego em Sergipe: plataforma digital do NAT oferta mais de 700 vagas
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/31/emprego-em-sergipe-plataforma-digital-do-nat-oferta-mais-de-700-vagas.ghtml)_
 
+- **[2026-08-30 18:59 UTC]** Henrique, da dupla com Juliano, participa de vaquejada em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/30/henrique-da-dupla-com-juliano-participa-de-vaquejada-em-sergipe.ghtml)_
+
