@@ -35,3 +35,6 @@
 - **[2026-08-31 17:29 UTC]** ‘Foi um susto’, diz passageiro de avião da Latam que saiu da pista após pouso no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/aviao-saiu-da-pista.ghtml)_
 
+- **[2026-08-31 14:31 UTC]** Avião da Latam com 151 pessoas a bordo sai da pista durante pouso e fica atolado na lama no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/aviao-sai-da-pista.ghtml)_
+
