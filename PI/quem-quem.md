@@ -143,3 +143,6 @@
 - **[2026-08-21 12:43 UTC]** Mutirão de Aprendizagem oferece qualificação profissional para jovens em Natal; veja quem pode participar
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/21/mutirao-de-aprendizagem-oferece-qualificacao-profissional-para-jovens-em-natal-veja-quem-pode-participar.ghtml)_
 
+- **[2026-08-25 17:34 UTC]** Atriz de 'Quem Ama Cuida' prepara chimarrão pela 1ª vez após visita ao RS e comemora resultado: 'Arrasei, guria'; VÍDEO
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/25/atriz-prepara-chimarrao-pela-1a-vez-apos-visita-ao-rs-e-comemora-resultado-arrasei-guria-video.ghtml)_
+
