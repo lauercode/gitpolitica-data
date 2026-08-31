@@ -59,3 +59,6 @@
 - **[2026-08-21 23:41 UTC]** Pf apreende celular de professor suspeito de compartilhar deepfake íntimo de aluna em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/pf-apreende-celular-de-professor-suspeito-de-compartilhar-deepfake-intimo-de-aluna-em-ro.ghtml)_
 
+- **[2026-08-21 16:29 UTC]** Professor de colégio militar é afastado suspeito de divulgar deepfake íntimo de aluna em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/professor-de-colegio-militar-e-afastado-suspeito-de-divulgar-deepfake-de-aluna-em-ro.ghtml)_
+
