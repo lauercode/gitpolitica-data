@@ -116,3 +116,6 @@
 - **[2026-08-30 00:19 UTC]** Cury promete cortar até 10 ministérios, mas não diz quais, e nega conflito ao defender telemedicina no SUS e ser ligado a empresa da área
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/augusto-cury-entrevista-globo.ghtml)_
 
+- **[2026-08-31 13:13 UTC]** Caiado e Renan reagem a avanço de Cury com indiretas sobre inexperiência e 'eleitor despolitizado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/caiado-e-renan-reagem-a-avanco-de-cury-com-indiretas-sobre-inexperiencia-e-eleitor-despolitizado.shtml)_
+
