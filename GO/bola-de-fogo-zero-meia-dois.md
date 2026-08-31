@@ -116,3 +116,6 @@
 - **[2026-08-26 11:14 UTC]** Operação contra organização criminosa termina com suspeito preso e dois baleados em Rosário
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/homem-e-preso-e-dois-sao-baleados-em-operacao-contra-suspeitos-de-organizacao-criminosa-em-rosario.ghtml)_
 
+- **[2018-07-16 12:17 UTC]** Motociclista morre após invadir preferencial e bater em dois carros, diz polícia de MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/motociclista-morre-apos-invadir-preferencial-e-bater-em-dois-carros-diz-policia-de-ms.ghtml)_
+
