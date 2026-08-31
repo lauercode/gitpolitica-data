@@ -62,3 +62,6 @@
 - **[2026-08-28 03:00 UTC]** RS terá mais três dias de chuva forte, granizo e rajadas de vento, aponta previsão; confira
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/rs-dias-chuva-forte-granizo-rajadas-vento-aponta-previsao-confira.ghtml)_
 
+- **[2026-08-26 11:32 UTC]** Polícia Civil faz operação em cinco estados contra chefes de quadrilha com forte atuação no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/operacao-policia-civil-faccao-rs-cinco-estados.ghtml)_
+
