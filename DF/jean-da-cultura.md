@@ -20,3 +20,6 @@
 - **[2026-08-31 14:10 UTC]** Temperos da terra: os sabores que preservam a cultura do campo
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/fag-centro-universitario-city-farm/noticia/2026/08/31/temperos-da-terra-os-sabores-que-preservam-a-cultura-do-campo.ghtml)_
 
+- **[2018-07-11 12:18 UTC]** Carnaval 2019: União da Ilha vai mostrar o Ceará na visão de poetas; Beija-Flor quer aproximar a cultura e educação
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/rio-de-janeiro/carnaval/2019/noticia/uniao-da-ilha-vai-mostrar-o-ceara-na-visao-de-poetas-e-beija-flor-quer-aproximar-a-cultura-e-educacao-neste-carnaval.ghtml)_
+
