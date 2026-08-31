@@ -92,3 +92,6 @@
 - **[2026-08-31 14:52 UTC]** Toffoli suspende propaganda de Renan Santos na internet
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/toffoli-suspende-propaganda-de-renan-santos-na-internet)_
 
+- **[2026-08-31 16:53 UTC]** TSE: Toffoli suspende propaganda de Renan Santos na internet
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-08/tse-toffoli-suspende-propaganda-de-renan-santos-na-internet)_
+
