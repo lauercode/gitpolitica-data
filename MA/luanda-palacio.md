@@ -20,3 +20,6 @@
 - **[2026-08-29 11:36 UTC]** Veja a agenda dos candidatos ao Palácio do Planalto deste sábado (29)
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/confira-agenda-dos-candidatos-ao-palacio-do-planalto-deste-sabado-2)_
 
+- **[2017-10-29 22:21 UTC]** Motociclista e pedestre morrem após atropelamento em frente ao Palácio do Planalto
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/motociclista-e-pedestre-morrem-apos-atropelamento-em-frente-ao-palacio-do-planalto.ghtml)_
+
