@@ -53,3 +53,6 @@
 - **[2018-07-18 13:59 UTC]** Corpo de gerente de banco que morreu após procedimento estético no RJ é enterrado em MT
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/mt/mato-grosso/noticia/2018/07/18/corpo-de-gerente-de-banco-que-morreu-apos-procedimento-estetico-no-rj-e-enterrado-em-mt.ghtml)_
 
+- **[2018-07-16 15:43 UTC]** Professora do ES morreu com a filha nos braços em acidente no MS
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/professora-do-es-morreu-com-a-filha-nos-bracos-em-acidente-no-ms.ghtml)_
+
