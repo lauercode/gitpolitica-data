@@ -32,3 +32,6 @@
 - **[2026-08-31 12:25 UTC]** Jovem morre após colisão de moto com carro em rodovia estadual, no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/jovem-morre-apos-colisao-de-moto-com-carro-em-rodovia-estadual-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-08-31 18:35 UTC]** Filhas de candidato a deputado estadual por SC morrem em acidente de carro no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/filhas-candidato-deputado-estadual-morrem-acidente-carro-parana.ghtml)_
+
