@@ -8,3 +8,6 @@
 - **[2026-08-21 22:13 UTC]** Datafolha no DF, Senado: Michelle, 19%; Leila, 16%; Erika, 12%; Bia, 11%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/21/datafolha-df-senador-21-agosto.ghtml)_
 
+- **[2026-08-28 22:24 UTC]** Sul-Americano de Vôlei de Praia coloca João Pessoa rumo a Los Angeles 2028
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/especial-publicitario/grupo-2m/noticia/2026/08/28/sul-americano-de-volei-de-praia-coloca-joao-pessoa-rumo-a-los-angeles-2028.ghtml)_
+
