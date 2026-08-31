@@ -26,3 +26,6 @@
 - **[2018-07-10 17:37 UTC]** Prefeitura de Tapurah (MT) lança concurso com 93 vagas e salário de até R$ 15 mil
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mt/mato-grosso/concursos-e-emprego/noticia/prefeitura-de-tapurah-mt-lanca-concurso-com-93-vagas-e-salario-de-ate-r-15-mil.ghtml)_
 
+- **[2026-08-31 21:19 UTC]** Democrata muda chapa e lança Ruth Reis como candidata ao governo do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/31/democrata-muda-chapa-e-lanca-ruth-reis-como-candidata-ao-governo-do-para.ghtml)_
+
