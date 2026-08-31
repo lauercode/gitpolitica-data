@@ -23,3 +23,6 @@
 - **[2026-08-24 20:58 UTC]** Justiça decreta prisão preventiva de motorista que atropelou e matou ciclista em Porto Velho
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/justica-decreta-prisao-preventiva-de-motorista-que-atropelou-e-matou-ciclista-em-porto-velho.ghtml)_
 
+- **[2026-08-24 15:57 UTC]** Amigos fazem cortejo de bicicleta em homenagem a ciclista atropelada em RO: 'Deixou um legado', diz amigo
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/amigos-fazem-cortejo-de-bicicleta-em-homenagem-a-ciclista-atropelada-em-ro-deixou-um-legado-diz-amigo.ghtml)_
+
