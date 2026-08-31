@@ -17,3 +17,6 @@
 - **[2026-08-27 19:16 UTC]** Prefeitura de SP avalia impacto de decisão da Justiça sobre zoneamento; Nunes não descarta novo PL
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/prefeitura-de-sp-avalia-impacto-de-decisao-da-justica-sobre-zoneamento-nunes-nao-descarta-novo-pl.shtml)_
 
+- **[2017-08-10 15:43 UTC]** Juiz afasta prefeito e secretários suspeitos de usar decreto para cometer fraudes em Apuiarés
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/juiz-afasta-prefeito-e-secretarios-suspeitos-de-usar-decreto-para-cometer-fraudes-em-apuiares.ghtml)_
+
