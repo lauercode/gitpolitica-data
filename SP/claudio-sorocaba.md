@@ -8,3 +8,6 @@
 - **[2018-07-18 19:21 UTC]** Radialista morto em acidente no Beach Park é enterrado sob silêncio em Sorocaba
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/18/radialista-morto-em-acidente-no-beach-park-e-enterrado-em-sorocaba.ghtml)_
 
+- **[2018-07-18 10:25 UTC]** Radialista morto em acidente no Beach Park é velado em Sorocaba
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/18/radialista-morto-em-acidente-no-beach-park-e-velado-em-sorocaba.ghtml)_
+
