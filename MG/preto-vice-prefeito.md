@@ -35,3 +35,6 @@
 - **[2026-08-26 16:45 UTC]** Prefeito de João Pessoa sanciona com vetos lei que torna obrigatória mamografia a partir dos 40 anos
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/26/prefeito-de-joao-pessoa-sanciona-com-vetos-lei-que-torna-obrigatoria-mamografia-a-partir-dos-40-anos.ghtml)_
 
+- **[2017-10-11 22:11 UTC]** Curador da mostra 'Queermuseu' envia notificação extrajudicial a prefeito do Rio
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/curador-da-mostra-queermuseu-envia-notificacao-extrajudicial-a-prefeito-do-rio.ghtml)_
+
