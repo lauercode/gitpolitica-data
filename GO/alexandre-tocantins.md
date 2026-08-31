@@ -38,3 +38,6 @@
 - **[2026-08-29 12:18 UTC]** Família cobra respostas oito anos após assassinato de prefeito durante o mandato no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/familia-cobra-respostas-oito-anos-apos-assassinato-de-prefeito-durante-o-mandato-no-tocantins.ghtml)_
 
+- **[2026-08-29 09:30 UTC]** Cerrado do Tocantins floresce em meio à seca e transforma paisagem de Palmas; entenda
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/cerrado-do-tocantins-floresce-em-meio-a-seca-e-transforma-paisagem-de-palmas-entenda.ghtml)_
+
