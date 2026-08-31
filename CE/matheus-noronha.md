@@ -47,3 +47,6 @@
 - **[2018-05-09 10:32 UTC]** Cruzeiros devem voltar a Fernando de Noronha a partir de outubro
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/cruzeiros-devem-voltar-fernando-de-noronha-partir-de-outubro.html)_
 
+- **[2018-05-08 16:54 UTC]** Trabalho de estudantes de Fernando de Noronha é apresentado na Conferência de Meio Ambiente
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/trabalho-de-estudantes-de-fernando-de-noronha-e-apresentado-na-conferencia-de-meio-ambiente.html)_
+
