@@ -14,3 +14,6 @@
 - **[2018-07-09 22:33 UTC]** Piloto de MT que está desaparecido há 15 dias foi contratado para levar avião para o Tocantins, diz família
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/mt/mato-grosso/noticia/piloto-de-mt-que-esta-desaparecido-ha-15-dias-foi-contratado-para-levar-aviao-para-o-tocantins-diz-familia.ghtml)_
 
+- **[2017-07-27 16:25 UTC]** Piloto Consciente, o 1º Passeio Motociclístico de Goiás mobiliza mais de 300 pessoas.
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/piloto-consciente-o-1-passeio-motociclistico-de-goias-mobiliza-mais-de-300-pessoas_.html)_
+
