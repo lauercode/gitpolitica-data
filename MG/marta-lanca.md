@@ -23,3 +23,6 @@
 - **[2018-07-14 11:31 UTC]** Jovem do Ceará com síndrome grave realiza sonho de ser escritor e lança o primeiro livro ao sair de UTI; história sensibilizou editora no RJ
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/rj/regiao-serrana/noticia/jovem-do-ceara-com-sindrome-grave-realiza-sonho-de-ser-escritor-e-lanca-o-primeiro-livro-video-sensibilizou-editora-no-rj.ghtml)_
 
+- **[2018-07-10 17:37 UTC]** Prefeitura de Tapurah (MT) lança concurso com 93 vagas e salário de até R$ 15 mil
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mt/mato-grosso/concursos-e-emprego/noticia/prefeitura-de-tapurah-mt-lanca-concurso-com-93-vagas-e-salario-de-ate-r-15-mil.ghtml)_
+
