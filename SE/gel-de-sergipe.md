@@ -116,3 +116,6 @@
 - **[2026-08-19 16:53 UTC]** Resultado da Mega-Sena 3046: apostas de Sergipe acertam números; veja valores
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/19/resultado-da-mega-sena-apostas-de-sergipe-acertam-numeros-veja-valores.ghtml)_
 
+- **[2026-08-19 13:32 UTC]** Cerca de 600 celulares furtados ou roubados devem ser devolvidos aos donos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/19/celulares-furtados-ou-roubados-devem-ser-devolvidos-aos-donos-em-sergipe.ghtml)_
+
