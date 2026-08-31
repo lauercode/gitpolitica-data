@@ -59,3 +59,6 @@
 - **[2026-08-28 21:31 UTC]** Projeto libera venda intermunicipal e interestadual de alimentos artesanais da agricultura familiar
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300585-projeto-libera-venda-intermunicipal-e-interestadual-de-alimentos-artesanais-da-agricultura-familiar)_
 
+- **[2026-08-28 21:18 UTC]** Projeto cria regras para publicidade de anabolizantes e exige alertas sobre riscos à saúde
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299853-projeto-cria-regras-para-publicidade-de-anabolizantes-e-exige-alertas-sobre-riscos-a-saude)_
+
