@@ -20,3 +20,6 @@
 - **[2026-08-30 22:26 UTC]** Detran-RR suspende atendimento em unidade do shopping no Caçari para manutenção
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/30/detran-rr-suspende-atendimento-em-unidade-do-shopping-no-cacari-para-manutencao.ghtml)_
 
+- **[2026-08-28 19:36 UTC]** HSJ inaugura nova Unidade de Coleta Laboratorial no Centro Madre Teresa
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/hospital-sao-jose/noticia/2026/08/28/hsj-inaugura-nova-unidade-de-coleta-laboratorial-no-centro-madre-teresa.ghtml)_
+
