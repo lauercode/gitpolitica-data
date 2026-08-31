@@ -110,3 +110,6 @@
 - **[2026-08-28 19:36 UTC]** HSJ inaugura nova Unidade de Coleta Laboratorial no Centro Madre Teresa
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/hospital-sao-jose/noticia/2026/08/28/hsj-inaugura-nova-unidade-de-coleta-laboratorial-no-centro-madre-teresa.ghtml)_
 
+- **[2026-08-27 22:39 UTC]** Eleições 2026 em SC: Marcelo Brigadeiro conversa com eleitores no Centro de Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-em-sc-marcelo-brigadeiro-conversa-com-eleitores-no-centro-de-florianopolis.ghtml)_
+
