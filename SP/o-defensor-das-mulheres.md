@@ -56,3 +56,6 @@
 - **[2026-08-25 22:33 UTC]** Eleições 2026 no RS: Priscila Voigt defende mais delegacias e casas de referência para mulheres
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-no-rs-priscila-voigt-defende-mais-delegacias-e-casas-de-referencia-para-mulheres.ghtml)_
 
+- **[2026-08-19 14:53 UTC]** Candidaturas de mulheres caem 33% em Rondônia em 2026; só homens disputam o governo
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/19/candidaturas-de-mulheres-caem-em-rondonia-em-2026-so-homens-disputam-o-governo.ghtml)_
+
