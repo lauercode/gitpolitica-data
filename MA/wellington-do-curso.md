@@ -35,3 +35,6 @@
 - **[2018-05-15 16:43 UTC]** Curso para professores em unidades de conservação é realizado em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/curso-para-professores-em-unidades-de-conservacao-e-realizado-em-fernando-de-noronha.html)_
 
+- **[2026-08-25 18:47 UTC]** Curso gratuito de Libras promove inclusão e acessibilidade em Pimenta Bueno
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/08/25/curso-gratuito-de-libras-promove-inclusao-e-acessibilidade-em-pimenta-bueno.ghtml)_
+
