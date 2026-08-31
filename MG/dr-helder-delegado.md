@@ -41,3 +41,6 @@
 - **[2018-05-14 10:30 UTC]** Houve assalto em Fernando de Noronha? Delegado Rodrigo Maciel esclare a denúncia
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/houve-assalto-em-fernando-de-noronha-delegado-rodrigo-maciel-esclare-denuncia.html)_
 
+- **[2017-11-10 17:49 UTC]** Aliado de Rogério 157, traficante Cachorrão era ‘cérebro’ da facção, diz delegado
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/aliado-de-rogerio-157-traficante-cachorrao-era-cerebro-da-faccao-diz-delegado.ghtml)_
+
