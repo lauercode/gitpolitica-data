@@ -14,3 +14,6 @@
 - **[2018-07-10 14:50 UTC]** Mesmo em isolamento, Geddel mantém indisciplina, segundo presídio; juíza cobra investigação sobre remédios em cela
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/blog/andreia-sadi/post/2018/07/10/mesmo-em-isolamento-geddel-mantem-indisciplina-juiza-cobra-investigacao-sobre-remedios-em-cela.ghtml)_
 
+- **[2017-04-02 16:32 UTC]** Detentos usam escada improvisada e fogem de presídio após pular muro
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/detentos-usam-escada-improvisada-e-fogem-de-presidio-apos-pular-muro.html)_
+
