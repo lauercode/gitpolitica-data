@@ -17,3 +17,6 @@
 - **[2018-07-14 20:37 UTC]** Promoções aumentam vendas de rendas e artigos de cama, mesa e banho na Fenearte
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/promocoes-aumentam-vendas-de-rendas-e-artigos-de-cama-mesa-e-banho-na-fenearte.ghtml)_
 
+- **[2018-07-12 12:03 UTC]** Vendas de roupas e acessórios para animais crescem com a chegada do inverno
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/vendas-de-roupas-e-acessorios-para-animais-crescem-com-a-chegada-do-inverno.ghtml)_
+
