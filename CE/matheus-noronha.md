@@ -20,3 +20,6 @@
 - **[2018-05-14 10:30 UTC]** Houve assalto em Fernando de Noronha? Delegado Rodrigo Maciel esclare a denúncia
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/houve-assalto-em-fernando-de-noronha-delegado-rodrigo-maciel-esclare-denuncia.html)_
 
+- **[2018-05-14 06:53 UTC]** Mutirão para construção de casas pode ser realizado em Fernando de Noronha com ajuda da Adra
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/mutirao-para-construcao-de-casas-pode-ser-realizado-em-fernando-de-noronha-com-ajuda-da-adra.html)_
+
