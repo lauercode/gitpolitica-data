@@ -101,3 +101,6 @@
 - **[2026-08-27 13:15 UTC]** Condenado por estuprar vizinha de 12 anos após vítima pedir água é preso em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/27/condenado-por-estuprar-vizinha-de-12-anos-apos-vitima-pedir-agua-e-preso-em-boa-vista.ghtml)_
 
+- **[2026-08-28 19:11 UTC]** VÍDEO: 'onda' de água e lama invade loja e assusta funcionários após adutora romper em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/onda-invade-loja-assusta-funcionarios-adutora-romper-sc.ghtml)_
+
