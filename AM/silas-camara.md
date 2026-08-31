@@ -171,3 +171,6 @@ Diretor
 - **[2026-08-31 21:02 UTC]** Câmara de Manaus aprova subsídio de até R$ 3 milhões por mês para 'amarelinhos' e transporte executivo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/camara-de-manaus-aprova-subsidio-de-ate-r-3-milhoes-por-mes-para-amarelinhos-e-transporte-executivo.ghtml)_
 
+- **[2017-08-21 19:16 UTC]** Vereador José Carneiro Rocha é  eleito novo presidente da Câmara Municipal de Feira de Santana
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/vereador-jose-carneiro-rocha-e-eleito-novo-presidente-da-camara-municipal-de-feira-de-santana.ghtml)_
+
