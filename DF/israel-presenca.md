@@ -23,3 +23,6 @@
 - **[2026-08-31 15:55 UTC]** Eleições 2026 no PR: Sandro Alex atende imprensa e confirma presença em evento de universidade
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-no-pr-agenda-sandro-alex-31-agosto.ghtml)_
 
+- **[2026-08-30 23:06 UTC]** Homem é morto a tiros em balneário de Palmas na presença da esposa e dos filhos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/homem-e-morto-a-tiros-em-balneario-de-palmas-na-presenca-da-esposa-e-dos-filhos.ghtml)_
+
