@@ -98,3 +98,6 @@
 - **[2026-08-29 16:32 UTC]** Funcionário de supermercado morre após acidente de trabalho em Mossoró
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/29/funcionario-morre-acidente-trabalho-mossoro.ghtml)_
 
+- **[2026-08-28 13:27 UTC]** Polícia prende suspeito de matar colega de trabalho por demora em devolver TV
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/28/policia-prende-suspeito-de-matar-colega-de-trabalho-por-demora-em-devolver-tv.ghtml)_
+
