@@ -656,3 +656,6 @@
 - **[2026-08-25 22:38 UTC]** Quaest em RO: Flávio, 45%; Lula, 25%; Caiado, 3%; Renan, 3%; Zema, 2%
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/25/quaest-ro-presidente-25-de-agosto.ghtml)_
 
+- **[2026-08-25 23:01 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 32%; Ronaldo Caiado, 7%; Renan Santos; 3%
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-presidente-25-agosto.ghtml)_
+
