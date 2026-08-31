@@ -29,3 +29,6 @@
 - **[2026-08-26 03:00 UTC]** Após deixar respirador, piloto de asa-delta volta a ser intubado; homem sofreu queda em acidente no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/respirador-piloto-asa-delta-volta-intubado-homem-queda-acidente-rs.ghtml)_
 
+- **[2026-08-25 13:43 UTC]** Piloto de asa-delta sai do coma após acidente durante voo no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/25/piloto-asa-delta-sai-coma-acidente-sapiranga.ghtml)_
+
