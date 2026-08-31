@@ -53,3 +53,6 @@
 - **[2026-08-31 16:03 UTC]** Projeto proíbe bloqueio remoto de veículos por falta de pagamento de parcelas
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300599-projeto-proibe-bloqueio-remoto-de-veiculos-por-falta-de-pagamento-de-parcelas)_
 
+- **[2026-08-28 22:31 UTC]** Projeto exige aval da Anac para troca de aviões por modelos menores em rotas regionais
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300590-projeto-exige-aval-da-anac-para-troca-de-avioes-por-modelos-menores-em-rotas-regionais)_
+
