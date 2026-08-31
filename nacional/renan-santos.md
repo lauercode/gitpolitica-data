@@ -56,3 +56,6 @@
 - **[2026-08-31 18:15 UTC]** Por que os candidatos devem informar perfis de redes ao TSE, e por que Renan Santos foi punido?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/por-que-os-candidatos-devem-informar-perfis-de-redes-ao-tse-e-por-que-renan-santos-foi-punido.ghtml)_
 
+- **[2026-08-31 17:39 UTC]** Toffoli suspende parte da campanha digital de Renan Santos, veta repasses de recursos e ida a debates
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/toffoli-suspende-propaganda-eleitoral-de-renan-santos.ghtml)_
+
