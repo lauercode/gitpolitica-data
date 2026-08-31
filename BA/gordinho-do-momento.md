@@ -23,3 +23,6 @@
 - **[2026-08-31 14:32 UTC]** Homens são agredidos por PMs em feira no interior do Acre; VÍDEO mostra momento
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/homens-sao-agredidos-por-pms-em-feira-no-interior-do-acre-video-mostra-momento.ghtml)_
 
+- **[2026-08-26 19:07 UTC]** Escolher um vinho é escolher o momento que ele vai acompanhar
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/08/26/escolher-um-vinho-e-escolher-o-momento-que-ele-vai-acompanhar.ghtml)_
+
