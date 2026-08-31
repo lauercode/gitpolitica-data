@@ -74,3 +74,6 @@
 - **[2026-08-30 09:00 UTC]** Mais de mil candidatos devem fazer concurso do IBGE neste domingo (30) no Acre; veja horários
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/mais-de-mil-candidatos-devem-fazer-concurso-do-ibge-neste-domingo-30-no-acre-veja-horarios.ghtml)_
 
+- **[2026-08-29 20:17 UTC]** VÍDEOS: Jornal do Acre 1ª edição deste sábado, 29 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-deste-sabado-29-de-agosto-de-2026.ghtml)_
+
