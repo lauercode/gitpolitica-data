@@ -23,3 +23,6 @@
 - **[2018-07-08 21:45 UTC]** Familiares de irmãos mortos em Linhares fazem protesto contra violência no ES
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/familiares-de-irmaos-mortos-em-linhares-fazem-protesto-contra-violencia-no-es.ghtml)_
 
+- **[2017-05-25 12:59 UTC]** Famílias de Campo Grande adotam irmãos adolescentes e dão exemplo de amor
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/familias-de-campo-grande-adotam-irmaos-adolescentes-e-dao-exemplo-de-amor.ghtml)_
+
