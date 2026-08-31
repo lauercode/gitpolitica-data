@@ -128,3 +128,6 @@
 - **[2017-04-10 18:21 UTC]** PT de Campo Grande tem segundo turno entre grupos de Zeca e Biffi
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/pt-de-campo-grande-tem-segundo-turno-entre-grupos-de-zeca-e-biffi.ghtml)_
 
+- **[2018-07-18 12:35 UTC]** Falha geológica pode ter causado tremor em Poços de Caldas, segundo UnB
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/2018/07/18/falha-geologica-pode-ter-causado-tremor-em-pocos-de-caldas-segundo-unb.ghtml)_
+
