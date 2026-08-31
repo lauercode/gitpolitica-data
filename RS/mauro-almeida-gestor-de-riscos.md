@@ -14,3 +14,6 @@
 - **[2026-08-30 04:00 UTC]** Tirar gordura do corpo e colocar no rosto pode rejuvenescer? Veja riscos e benefícios do nanofat
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/tirar-gordura-do-corpo-e-colocar-no-rosto-pode-rejuvenescer-veja-riscos-e-beneficios-do-nanofat.shtml)_
 
+- **[2026-08-28 21:18 UTC]** Projeto cria regras para publicidade de anabolizantes e exige alertas sobre riscos à saúde
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299853-projeto-cria-regras-para-publicidade-de-anabolizantes-e-exige-alertas-sobre-riscos-a-saude)_
+
