@@ -29,3 +29,6 @@
 - **[2017-09-01 14:35 UTC]** Governo do DF suspende vistorias em ônibus após prisão de 4 servidores
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/governo-do-df-suspende-vistorias-em-onibus-apos-prisao-de-4-servidores.ghtml)_
 
+- **[2017-05-08 12:46 UTC]** Contra reforma da Previdência, servidores do INSS ocupam ministério
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/contra-reforma-da-previdencia-servidores-do-inss-ocupam-ministerio.ghtml)_
+
