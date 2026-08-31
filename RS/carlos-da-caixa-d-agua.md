@@ -89,3 +89,6 @@
 - **[2026-08-27 12:27 UTC]** Redes de água e energia elétrica chegam a mais ruas do Jardim Israelense
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/municipio-de-araucaria/araucaria-noticias/noticia/2026/08/27/redes-de-agua-e-energia-eletrica-chegam-a-mais-ruas-do-jardim-israelense.ghtml)_
 
+- **[2026-08-31 15:16 UTC]** Bebê de 1 ano morre após ser encontrado dentro de balde com água no interior do RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/31/bebe-morte-encontrado-balde-agua-rn.ghtml)_
+
