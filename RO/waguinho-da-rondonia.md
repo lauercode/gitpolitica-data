@@ -41,3 +41,6 @@
 - **[2026-08-20 16:06 UTC]** Agências bancárias paralisam atividades em Rondônia; 89 unidades aderem ao movimento
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/20/agencias-bancarias-paralisam-atividades-em-rondonia.ghtml)_
 
+- **[2026-08-19 19:49 UTC]** Escola indígena e Ceeja encerram atividades em Rondônia; governo justifica com falta de alunos
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/19/escola-indigena-e-ceeja-encerram-atividades-em-rondonia-governo-justifica-com-falta-de-alunos.ghtml)_
+
