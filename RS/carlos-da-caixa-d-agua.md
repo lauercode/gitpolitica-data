@@ -41,3 +41,6 @@
 - **[2026-08-27 17:00 UTC]** Abastecimento de água deve ser paralisado para manutenção em estação de tratamento de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/abastecimento-de-agua-deve-ser-paralisado-para-manutencao-em-estacao-de-tratamento-de-rio-branco.ghtml)_
 
+- **[2026-08-28 19:26 UTC]** Falta de água: manutenção afeta bairros de Maceió e Rio Largo; veja locais
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/28/falta-de-agua-manutencao-afeta-bairros-de-maceio-e-rio-largo-veja-locais.ghtml)_
+
