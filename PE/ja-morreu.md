@@ -65,3 +65,6 @@
 - **[2017-04-03 06:53 UTC]** Jovem que morreu após carro bater contra árvore não usava cinto, diz Dict
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/transito/noticia/2017/04/jovem-que-morreu-apos-carro-bater-contra-arvore-nao-usava-cinto-diz-dict.html)_
 
+- **[2017-04-02 14:47 UTC]** Corpo de carpinteiro que morreu em hospital dos EUA é enterrado em GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/corpo-de-carpinteiro-que-morreu-em-hospital-dos-eua-e-enterrado-em-go.html)_
+
