@@ -17,3 +17,6 @@
 - **[2026-08-28 17:31 UTC]** Seu couro cabeludo está pedindo socorro? Reconheça os sinais
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/08/28/seu-couro-cabeludo-esta-pedindo-socorro-reconheca-os-sinais.ghtml)_
 
+- **[2026-08-27 17:22 UTC]** Mulher usa prontuário de hospital do Paraná para escrever pedido de socorro e denunciar marido: 'Não deixe entrar'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/27/mulher-ajuda-hospital-parana.ghtml)_
+
