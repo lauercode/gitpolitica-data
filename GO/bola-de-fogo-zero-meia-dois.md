@@ -95,3 +95,6 @@
 - **[2018-07-09 14:16 UTC]** Motorista bebeu antes de acidente que o matou junto com a mulher e dois filhos na BR-080, dizem testemunhas
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/motorista-bebeu-antes-de-acidente-que-o-matou-junto-com-a-mulher-e-dois-filhos-na-br-080-dizem-testemunhas.ghtml)_
 
+- **[2017-06-16 15:00 UTC]** Dois idosos são atropelados em Taguatinga, no DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/dois-idosos-sao-atropelados-em-taguatinga-no-df.ghtml)_
+
