@@ -23,3 +23,6 @@
 - **[2017-08-10 15:44 UTC]** Professor da Unifor estuda relação entre população e crime
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/professor-da-unifor-estuda-relacao-entre-populacao-e-crime.html)_
 
+- **[2017-07-31 10:50 UTC]** Professor da Unifor integra equipe da CIOPAER bicampeã nacional de resgate
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/07/professor-da-unifor-integra-equipe-da-ciopaer-bicampea-nacional-de-resgate.html)_
+
