@@ -17,3 +17,6 @@
 - **[2017-07-27 16:25 UTC]** Piloto Consciente, o 1º Passeio Motociclístico de Goiás mobiliza mais de 300 pessoas.
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/piloto-consciente-o-1-passeio-motociclistico-de-goias-mobiliza-mais-de-300-pessoas_.html)_
 
+- **[2017-07-14 11:30 UTC]** Conheça o percurso do Piloto Consciente – 1º Passeio Motociclístico de Goiás
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/conheca-o-percurso-do-piloto-consciente-1-passeio-motociclistico-de-goias.html)_
+
