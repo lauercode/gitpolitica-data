@@ -11,3 +11,6 @@
 - **[2026-08-26 00:50 UTC]** Ações de Dino contra rivais no Maranhão fazem sua atuação no STF ser questionada
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-de-dino-contra-rivais-no-maranhao-fazem-sua-atuacao-no-stf-ser-questionada/)_
 
+- **[2026-08-31 00:53 UTC]** Canetada de Dino pode travar investigação sobre Lulinha e enfraquecer Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/canetada-dino-fragmentar-investigacao-lulinha-enfraquecer-mendonca/)_
+
