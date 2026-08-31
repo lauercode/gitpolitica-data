@@ -195,3 +195,6 @@ Diretor
 - **[2018-07-11 02:09 UTC]** Câmara aprova MP que liberou R$ 1,2 bilhão para intervenção no Rio de Janeiro
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/politica/noticia/camara-aprova-mp-que-liberou-r-12-bilhao-para-intervencao-no-rio-de-janeiro.ghtml)_
 
+- **[2018-01-03 14:56 UTC]** Câmara dos Deputados exonera 40 funcionários dos gabinetes de Maluf e Celso Jacob
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/politica/noticia/camara-dos-deputados-exonera-40-funcionarios-dos-gabinetes-de-maluf-e-celso-jacob.ghtml)_
+
