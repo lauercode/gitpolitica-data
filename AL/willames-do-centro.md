@@ -59,3 +59,6 @@
 - **[2018-07-11 12:12 UTC]** Trânsito no Centro Histórico de Salvador terá mudanças para gravações de filme sobre Divaldo Franco; confira
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/noticia/transito-no-centro-historico-de-salvador-tera-mudancas-para-gravacoes-de-filme-sobre-divaldo-franco-confira.ghtml)_
 
+- **[2018-07-12 20:59 UTC]** ES entra na Justiça para barrar investimento em ferrovia no Centro-Oeste
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/es-entra-na-justica-para-barrar-investimento-em-ferrovia-no-centro-oeste.ghtml)_
+
