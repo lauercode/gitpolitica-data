@@ -14,3 +14,6 @@
 - **[2026-08-31 10:32 UTC]** Funcionário da Funac morre após 12 dias internado depois de acidente na BR-222, no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/31/funcionario-da-funac-morre-apos-acidente-na-br-222-no-ma.ghtml)_
 
+- **[2018-07-14 16:09 UTC]** Presidente do STF dá 30 dias para que investigação sobre Aécio seja concluída
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/politica/operacao-lava-jato/noticia/presidente-do-stf-da-30-dias-para-que-investigacao-sobre-aecio-seja-concluida.ghtml)_
+
