@@ -20,3 +20,6 @@
 - **[2026-08-28 07:00 UTC]** Candidatos ao Senado por SP ignoram regulação de redes ao propor combate à violência contra a mulher
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/28/candidatos-ao-senado-por-sp-ignoram-regulacao-de-redes-ao-propor-combate-a-violencia-contra-a-mulher.ghtml)_
 
+- **[2026-08-31 15:13 UTC]** Comissão debate uso de tecnologias no combate à violência contra mulheres; participe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301225-comissao-debate-uso-de-tecnologias-no-combate-a-violencia-contra-mulheres-participe)_
+
