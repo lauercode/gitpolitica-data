@@ -11,3 +11,6 @@
 - **[2026-08-27 04:00 UTC]** Paciente processa Sírio-Libanês após cair sedado de mesa cirúrgica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/paciente-processa-sirio-libanes-apos-cair-sedado-de-mesa-cirurgica.shtml)_
 
+- **[2018-06-16 22:28 UTC]** São João de Irecê terá César Menotti e Fabiano, Adelmário Coelho e Dorgival Dantas; veja programação
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/sao-joao/2018/noticia/sao-joao-de-irece-tera-cesar-menotti-e-fabiano-adelmario-coelho-e-dorgival-dantas-veja-programacao.ghtml)_
+
