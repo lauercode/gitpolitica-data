@@ -56,3 +56,6 @@
 - **[2018-07-13 14:48 UTC]** Caminhada no centro de Salvador celebra 28 anos do Estatuto da Criança e do Adolescente
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/noticia/caminhada-em-salvador-celebra-28-anos-do-estatuto-da-crianca-e-do-adolescente.ghtml)_
 
+- **[2018-07-11 12:12 UTC]** Trânsito no Centro Histórico de Salvador terá mudanças para gravações de filme sobre Divaldo Franco; confira
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/noticia/transito-no-centro-historico-de-salvador-tera-mudancas-para-gravacoes-de-filme-sobre-divaldo-franco-confira.ghtml)_
+
