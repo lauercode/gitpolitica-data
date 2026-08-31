@@ -92,3 +92,6 @@
 - **[2026-08-31 04:00 UTC]** Restituição do IR cai na conta nesta segunda (31); veja quem recebe no quarto e último lote
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/restituicao-do-ir-cai-na-conta-nesta-segunda-31-veja-quem-recebe-no-quarto-e-ultimo-lote.shtml)_
 
+- **[2026-08-30 23:00 UTC]** 'Voto em quem defende a democracia e a Amazônia', diz líder comunitária do Amapá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2026/08/voto-em-quem-defende-a-democracia-e-a-amazonia-diz-lider-comunitaria-do-amapa.shtml)_
+
