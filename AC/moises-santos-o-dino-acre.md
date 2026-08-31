@@ -71,3 +71,6 @@
 - **[2026-08-30 12:37 UTC]** VÍDEOS: Amazônia Agro - Acre deste domingo, 30 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-amazonia-agro-acre-deste-domingo-30-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-30 09:00 UTC]** Mais de mil candidatos devem fazer concurso do IBGE neste domingo (30) no Acre; veja horários
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/mais-de-mil-candidatos-devem-fazer-concurso-do-ibge-neste-domingo-30-no-acre-veja-horarios.ghtml)_
+
