@@ -14,3 +14,6 @@
 - **[2018-06-16 22:28 UTC]** São João de Irecê terá César Menotti e Fabiano, Adelmário Coelho e Dorgival Dantas; veja programação
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/sao-joao/2018/noticia/sao-joao-de-irece-tera-cesar-menotti-e-fabiano-adelmario-coelho-e-dorgival-dantas-veja-programacao.ghtml)_
 
+- **[2018-07-14 16:11 UTC]** Conheça a dupla Marcello e Fabiano, finalista do Brasília Independente 2018
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/df/distrito-federal/noticia/conheca-a-dupla-marcello-e-fabiano-finalista-do-brasilia-independente-2018.ghtml)_
+
