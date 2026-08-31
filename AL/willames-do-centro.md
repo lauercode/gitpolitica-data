@@ -119,3 +119,6 @@
 - **[2026-08-31 19:29 UTC]** Trânsito no Centro de Aracaju terá bloqueios e desvios nesta terça para a Corrida do Fogo Simbólico; saiba mais
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/31/transito-no-centro-de-aracaju-tera-bloqueios-e-desvios-nesta-terca-para-a-corrida-do-fogo-simbolico-saiba-mais.ghtml)_
 
+- **[2026-08-24 15:34 UTC]** Fotógrafo morre após ser atropelado por carro no centro de Miracema
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/fotografo-morre-apos-ser-atropelado-por-carro-no-centro-de-miracema.ghtml)_
+
