@@ -83,3 +83,6 @@
 - **[2018-07-12 13:21 UTC]** Após assinatura de convênio, Sine de Uberaba também vai emitir carteira de trabalho
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/triangulo-mineiro/concursos-e-emprego/noticia/apos-assinatura-de-convenio-sine-de-uberaba-tambem-vai-emitir-carteira-de-trabalho.ghtml)_
 
+- **[2026-08-31 15:30 UTC]** Homem é preso em flagrante suspeito de matar colega de trabalho em Campina Grande
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/homem-e-preso-em-flagrante-suspeito-de-matar-colega-de-trabalho-em-campina-grande.ghtml)_
+
