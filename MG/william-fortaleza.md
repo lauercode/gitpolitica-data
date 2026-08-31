@@ -26,3 +26,6 @@
 - **[2017-11-04 17:39 UTC]** Homem reage a assalto e é morto no estacionamento de supermercado, em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/homem-reage-a-assalto-e-e-morto-no-estacionamento-de-supermercado-em-fortaleza.ghtml)_
 
+- **[2017-10-26 11:20 UTC]** Grupo suspeito de planejar chacina é preso em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/grupo-suspeito-de-planejar-chacina-e-preso-em-fortaleza.ghtml)_
+
