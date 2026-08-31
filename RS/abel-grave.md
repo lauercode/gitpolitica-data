@@ -8,3 +8,6 @@
 - **[2026-08-30 04:32 UTC]** Ataque a tiros em festa rave na Suíça mata uma pessoa e fere cinco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/ataque-a-tiros-em-festa-rave-na-suica-mata-uma-pessoa-e-fere-cinco.shtml)_
 
+- **[2018-07-14 11:31 UTC]** Jovem do Ceará com síndrome grave realiza sonho de ser escritor e lança o primeiro livro ao sair de UTI; história sensibilizou editora no RJ
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/rj/regiao-serrana/noticia/jovem-do-ceara-com-sindrome-grave-realiza-sonho-de-ser-escritor-e-lanca-o-primeiro-livro-video-sensibilizou-editora-no-rj.ghtml)_
+
