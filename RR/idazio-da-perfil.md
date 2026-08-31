@@ -14,3 +14,6 @@
 - **[2026-08-30 13:33 UTC]** Sorridente e com mensagem religiosa, Maduro aparece em fotos na prisão nos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/sorridente-e-com-mensagem-religiosa-maduro-aparece-em-fotos-na-prisao-nos-eua.shtml)_
 
+- **[2017-07-10 18:59 UTC]** Conheça o perfil do motociclista goiano
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/conheca-o-perfil-do-motociclista-goiano.html)_
+
