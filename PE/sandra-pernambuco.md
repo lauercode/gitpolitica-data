@@ -26,3 +26,6 @@
 - **[2018-07-12 13:47 UTC]** Secretaria de Educação seleciona estudantes para 112 vagas em curso gratuito de música em Pernambuco
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/secretaria-de-educacao-seleciona-estudantes-para-112-vagas-em-curso-gratuito-de-musica-em-pernambuco.ghtml)_
 
+- **[2018-07-10 14:07 UTC]** Governo abre matrículas para 40 mil vagas na educação de jovens e adultos em Pernambuco
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/governo-abre-matriculas-para-40-mil-vagas-na-educacao-de-jovens-e-adultos-em-pernambuco.ghtml)_
+
