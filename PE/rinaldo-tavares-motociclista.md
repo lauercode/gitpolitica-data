@@ -41,3 +41,6 @@
 - **[2017-07-10 18:59 UTC]** Conheça o perfil do motociclista goiano
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/conheca-o-perfil-do-motociclista-goiano.html)_
 
+- **[2018-07-16 12:17 UTC]** Motociclista morre após invadir preferencial e bater em dois carros, diz polícia de MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/motociclista-morre-apos-invadir-preferencial-e-bater-em-dois-carros-diz-policia-de-ms.ghtml)_
+
