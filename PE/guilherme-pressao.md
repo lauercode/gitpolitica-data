@@ -26,3 +26,6 @@
 - **[2026-08-31 06:00 UTC]** Rendimentos de títulos públicos globais sobem com guerra no Irã e ampliam pressão fiscal no G7
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/rendimentos-de-titulos-publicos-globais-sobem-com-guerra-no-ira-e-ampliam-pressao-fiscal-no-g7.shtml)_
 
+- **[2026-08-31 14:20 UTC]** Títulos de dívida e iene do Japão sofrem pressão após discurso de Warsh em Jackson Hole
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/titulos-de-divida-e-iene-do-japao-sofrem-pressao-apos-discurso-de-warsh-em-jackson-hole.shtml)_
+
