@@ -221,3 +221,6 @@
 - **[2026-08-31 03:00 UTC]** VÍDEO: O que faz o presidente?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/31/video-o-que-faz-o-presidente.ghtml)_
 
+- **[2026-08-31 10:00 UTC]** O que revela a nova pesquisa AtlasIntel para presidente da República
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-agosto-2026/)_
+
