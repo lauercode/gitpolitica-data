@@ -17,3 +17,6 @@
 - **[2018-07-09 22:33 UTC]** Piloto de MT que está desaparecido há 15 dias foi contratado para levar avião para o Tocantins, diz família
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/mt/mato-grosso/noticia/piloto-de-mt-que-esta-desaparecido-ha-15-dias-foi-contratado-para-levar-aviao-para-o-tocantins-diz-familia.ghtml)_
 
+- **[2017-06-26 11:48 UTC]** ANTT quer cassar concessão de trecho da BR-153 entre Goiás e Tocantins
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/economia/noticia/antt-quer-cassar-concessao-de-trecho-da-br-153-entre-goias-e-tocantins.ghtml)_
+
