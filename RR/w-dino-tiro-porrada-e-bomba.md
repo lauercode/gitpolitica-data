@@ -14,3 +14,6 @@
 - **[2026-08-29 23:00 UTC]** Renan Santos e sua bomba atômica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/renan-santos-e-sua-bomba-atomica.shtml)_
 
+- **[2026-08-31 21:48 UTC]** Não vai cair sozinha: a “bomba-relógio” Roberta Luchsinger
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/nao-vai-cair-sozinha-a-bomba-relogio-roberta-luchsinger/)_
+
