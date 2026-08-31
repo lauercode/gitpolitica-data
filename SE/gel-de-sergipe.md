@@ -32,3 +32,6 @@
 - **[2026-08-28 22:06 UTC]** População de Sergipe tem crescimento e alcança 2,3 milhões, aponta IBGE
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/populacao-de-sergipe-tem-crescimento-e-alcanca-23-milhoes-aponta-ibge.ghtml)_
 
+- **[2026-08-28 18:42 UTC]** Saiba como foi 1° dia de propaganda eleitoral na TV dos candidatos ao governo de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/28/saiba-como-foi-1-dia-de-propaganda-eleitoral-na-tv-dos-candidatos-ao-governo-de-sergipe.ghtml)_
+
