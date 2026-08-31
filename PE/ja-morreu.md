@@ -59,3 +59,6 @@
 - **[2018-07-14 13:42 UTC]** Casal capixaba que morreu na BR-060 passava férias no Mato Grosso do Sul
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/casal-capixaba-que-morreu-na-br-060-passava-ferias-no-mato-grosso-do-sul.ghtml)_
 
+- **[2018-07-10 19:32 UTC]** Corpo de PM que morreu afogado após salvar a família no ES é enterrado no RJ
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/corpo-de-pm-que-morreu-afogado-apos-salvar-a-familia-no-es-e-enterrado-no-rj.ghtml)_
+
