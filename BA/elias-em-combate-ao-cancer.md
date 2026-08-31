@@ -35,3 +35,6 @@
 - **[2017-07-24 19:00 UTC]** MÉDICO ALERTA SOBRE PERIGOS DO CÂNCER DO COLO DO ÚTERO
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/medico-alerta-sobre-perigos-do-cancer-do-colo-do-utero.html)_
 
+- **[2017-07-13 11:41 UTC]** Com atendimento integralizado e humanizado, Hospital Santa Izabel trata câncer com precisão
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/com-atendimento-integralizado-e-humanizado-hospital-santa-izabel-trata-cancer-com-precisao.html)_
+
