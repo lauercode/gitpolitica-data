@@ -32,3 +32,6 @@
 - **[2026-08-28 12:55 UTC]** Falsa médica presa em João Pessoa pode responder por pelo menos quatro crimes, afirma delegado
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/falsa-medica-presa-em-joao-pessoa-pode-responder-por-pelo-menos-quatro-crimes-afirma-delegado.ghtml)_
 
+- **[2026-08-31 03:00 UTC]** Jovem sob tortura de colegas no Paraná tentou acessar apartamento vizinho pela sacada antes de cair do 14º andar e morrer, detalha delegado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/31/jovem-tortura-parana-tentou-acessar-apartamento-vizinho.ghtml)_
+
