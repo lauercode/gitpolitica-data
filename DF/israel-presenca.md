@@ -14,3 +14,6 @@
 - **[2026-08-31 19:50 UTC]** Drogaria Bom Preço completa 10 anos e consolida presença em bairros de Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/drogarias-bom-preco/noticia/2026/08/31/drogaria-bom-preco-completa-10-anos-e-consolida-presenca-em-bairros-de-manaus.ghtml)_
 
+- **[2017-07-10 18:54 UTC]** Detran – GO marca presença em escola públicas e privadas de Goiás.
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/detran-go-marca-presenca-em-escola-publicas-e-privadas-de-goias_.html)_
+
