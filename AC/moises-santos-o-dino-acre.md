@@ -173,3 +173,6 @@
 - **[2026-08-25 18:04 UTC]** VÍDEO: Em oito meses, quase 300 celulares foram apreendidos em presídio do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/video-em-oito-meses-quase-300-celulares-foram-apreendidos-em-presidio-do-acre.ghtml)_
 
+- **[2026-08-25 09:00 UTC]** Diarista sofre cortes no rosto e pescoço por linha de cerol ao andar de moto no Acre: 'Nasci de novo'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/diarista-sofre-cortes-no-rosto-e-pescoco-por-linha-de-pipa-ao-andar-de-moto-no-ac-nasci-de-novo.ghtml)_
+
