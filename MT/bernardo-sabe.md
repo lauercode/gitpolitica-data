@@ -26,3 +26,6 @@
 - **[2018-07-10 16:44 UTC]** Menino que perdeu a mãe, o pai e os irmãos em acidente na BR-080 segue  internado e ainda não sabe sobre mortes, diz tia
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/menino-que-perdeu-a-mae-o-pai-e-os-irmaos-em-acidente-na-br-080-segue-internado-e-ainda-nao-sabe-sobre-mortes-diz-tia.ghtml)_
 
+- **[2026-08-24 09:00 UTC]** O que se sabe sobre influenciador e investigador presos por roubo de R$ 800 mil e ouro em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/o-que-se-sabe-sobre-influenciador-e-investigador-presos-por-roubo-de-r-800-mil-e-ouro-em-roraima.ghtml)_
+
