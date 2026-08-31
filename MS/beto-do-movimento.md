@@ -17,3 +17,6 @@
 - **[2026-08-20 16:06 UTC]** Agências bancárias paralisam atividades em Rondônia; 89 unidades aderem ao movimento
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/20/agencias-bancarias-paralisam-atividades-em-rondonia.ghtml)_
 
+- **[2026-08-27 09:00 UTC]** Mulher com mesma doença de Lito perde movimento e fala, e marido larga emprego para cuidar dela: 'minha esperança é que ela desperte'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/mulher-doenca-creutzfeld-jakob-lito-perde-movimento-fala-marido-larga-emprego-gaspar.ghtml)_
+
