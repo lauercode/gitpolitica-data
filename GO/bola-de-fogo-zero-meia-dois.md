@@ -68,3 +68,6 @@
 - **[2026-08-30 23:00 UTC]** Corregedor da Abin tem mandato renovado por mais dois anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/corregedor-da-abin-tem-mandato-renovado-por-mais-dois-anos.shtml)_
 
+- **[2026-08-31 14:29 UTC]** Governo quer repetir modelo da Operação Carbono Oculto a cada dois meses contra lavagem de dinheiro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/durigan-macroday-btg.ghtml)_
+
