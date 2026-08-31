@@ -14,3 +14,6 @@
 - **[2026-08-29 08:00 UTC]** É um sonho que tenho vivido, diz Amaury Lorenzo sobre papel em 'Por Você'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/e-um-sonho-que-tenho-vivido-diz-amaury-lorenzo-sobre-papel-em-por-voce.shtml)_
 
+- **[2026-08-27 13:24 UTC]** Aluno de 14 anos esfaqueia professor durante aula particular na Zona Centro-Sul de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/27/video-mostra-professor-sendo-esfaqueado-por-aluno-durante-aula-particular-no-am.ghtml)_
+
