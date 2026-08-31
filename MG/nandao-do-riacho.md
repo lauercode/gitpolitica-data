@@ -8,3 +8,6 @@
 - **[2017-07-06 11:40 UTC]** Projeto Saber Viver realiza Encontro de Pais em Barra do Riacho
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/fibria/a-floresta-sob-um-novo-prisma/noticia/2017/07/projeto-saber-viver-realiza-encontro-de-pais-em-barra-do-riacho.html)_
 
+- **[2018-07-16 20:28 UTC]** Homem morre após cair de asa-delta na zona rural de Riacho das Almas
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/homem-morre-apos-cair-de-asa-delta-na-zona-rural-de-riacho-das-almas.ghtml)_
+
