@@ -17,3 +17,6 @@
 - **[2026-08-26 16:32 UTC]** Mulher trans acreana morre após infarto na Espanha e família tenta trazer corpo para o Brasil
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/mulher-trans-acreana-morre-apos-infarto-na-espanha-e-familia-tenta-trazer-corpo-para-o-brasil.ghtml)_
 
+- **[2026-08-27 22:36 UTC]** Brasileira encontrada na Espanha após mais de 50 dias sem contato não quer falar com a família e irmã lamenta: ‘Não posso controlar’
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/brasileira-encontrada-na-espanha-apos-mais-de-50-dias-sem-contato-nao-quer-falar-com-a-familia-e-irma-lamenta-nao-posso-controlar.ghtml)_
+
