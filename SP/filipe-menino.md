@@ -26,3 +26,6 @@
 - **[2026-08-29 22:55 UTC]** Caso Oliver: pai e mãe de menino de 3 anos que morreu após agressões viram réus no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/caso-oliver-pai-e-mae-de-menino-de-3-anos-viram-reus-no-rs.ghtml)_
 
+- **[2026-08-29 11:33 UTC]** Menino que morreu após árvore cair sobre casa é velado em Porto Alegre: 'Comprei pra botar no caixão', diz mãe sobre tênis
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/corpo-menino-morto-arvore-velado-porto-alegre.ghtml)_
+
