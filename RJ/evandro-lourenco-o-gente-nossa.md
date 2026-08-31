@@ -32,3 +32,6 @@
 - **[2026-08-24 19:39 UTC]** Rompimento de adutora interrompe abastecimento de água em Nossa Senhora do Socorro
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/rompimento-de-adutora-interrompe-abastecimento-de-agua-em-nossa-senhora-do-socorro.ghtml)_
 
+- **[2026-08-24 10:33 UTC]** Criança de 7 anos com autismo é resgatada após desaparecer em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/crianca-de-7-anos-com-autismo-e-resgatada-apos-desaparecer-em-nossa-senhora-do-socorro.ghtml)_
+
