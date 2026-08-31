@@ -56,3 +56,6 @@
 - **[2026-08-26 16:24 UTC]** Professor é investigado por suspeita de estupro de vulnerável contra alunas de 8 anos em escola estadual do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/policia-investiga-professor-suspeito-estupro-cachoeirinha.ghtml)_
 
+- **[2026-08-21 23:41 UTC]** Pf apreende celular de professor suspeito de compartilhar deepfake íntimo de aluna em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/pf-apreende-celular-de-professor-suspeito-de-compartilhar-deepfake-intimo-de-aluna-em-ro.ghtml)_
+
