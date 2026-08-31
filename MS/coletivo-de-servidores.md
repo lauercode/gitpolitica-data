@@ -17,3 +17,6 @@
 - **[2026-08-30 15:54 UTC]** Servidores do INSS pedem inclusão em MP para receber adicional de fronteira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/servidores-do-inss-pedem-inclusao-em-mp-para-receber-adicional-de-fronteira.shtml)_
 
+- **[2026-08-31 20:38 UTC]** Orçamento 2027: proposta do governo limita reajustes de servidores públicos seguindo 'gatilho' da regra fiscal
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/orcamento-2027-proposta-do-governo-limita-reajustes-de-servidores-publicos-seguindo-gatilho-da-regra-fiscal.ghtml)_
+
