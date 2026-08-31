@@ -113,3 +113,6 @@
 - **[2026-08-27 14:34 UTC]** Praga da vassoura-de-bruxa atinge 15 dos 16 municípios do Amapá, segundo Diagro
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/praga-da-vassoura-de-bruxa-atinge-15-dos-16-municipios-do-amapa-segundo-diagro.ghtml)_
 
+- **[2026-08-21 07:01 UTC]** Qualidade e densidade do petróleo vão definir próximos passos de exploração na costa do Amapá, segundo Petrobras
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/21/qualidade-e-densidade-do-petroleo-vao-definir-proximos-passos-de-exploracao-na-costa-do-amapa-segundo-petrobras.ghtml)_
+
