@@ -44,3 +44,6 @@
 - **[2026-08-19 19:49 UTC]** Escola indígena e Ceeja encerram atividades em Rondônia; governo justifica com falta de alunos
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/19/escola-indigena-e-ceeja-encerram-atividades-em-rondonia-governo-justifica-com-falta-de-alunos.ghtml)_
 
+- **[2026-08-19 14:53 UTC]** Candidaturas de mulheres caem 33% em Rondônia em 2026; só homens disputam o governo
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/19/candidaturas-de-mulheres-caem-em-rondonia-em-2026-so-homens-disputam-o-governo.ghtml)_
+
