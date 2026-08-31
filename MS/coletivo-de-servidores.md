@@ -38,3 +38,6 @@
 - **[2017-10-21 21:19 UTC]** Servidores de Confresa (MT) ainda não receberam salário de dezembro e 13º de 2016
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/servidores-de-confresa-mt-ainda-nao-receberam-salario-de-dezembro-e-13-de-2016.ghtml)_
 
+- **[2018-07-11 10:40 UTC]** Servidores que atuam no HC-UFU entram em greve por tempo indeterminado em Uberlândia
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/triangulo-mineiro/noticia/servidores-do-hc-ufu-entram-em-greve-por-tempo-indeterminado-em-uberlandia.ghtml)_
+
