@@ -32,3 +32,6 @@
 - **[2026-08-28 09:00 UTC]** O acordão por trás do fim da escala 6×1. CPMI do Lulinha ganha força
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/bom-dia/acordao-fim-escala-6-1-cpmi-lulinha/)_
 
+- **[2017-11-09 20:06 UTC]** Homem é retirado à força de casa e é assassinado no meio de rua em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/homem-e-retirado-a-forca-de-casa-e-e-assassinado-no-meio-de-rua-em-fortaleza.ghtml)_
+
