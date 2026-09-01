@@ -161,3 +161,6 @@
 - **[2026-08-31 23:00 UTC]** Quartas da Copa do Brasil têm Santos em busca de virada e dois clássicos empatados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/quartas-da-copa-do-brasil-tem-santos-em-busca-de-virada-e-dois-classicos-empatados.shtml)_
 
+- **[2026-09-01 14:47 UTC]** Homem é preso suspeito de manter filho de dois meses refém em casa na Cruz das Almas, em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/01/homem-e-preso-suspeito-de-manter-filho-de-dois-meses-refem-em-casa-na-cruz-das-almas-em-maceio.ghtml)_
+
