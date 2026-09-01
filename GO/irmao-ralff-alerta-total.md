@@ -32,3 +32,6 @@
 - **[2026-09-01 17:16 UTC]** Omron planeja que Brasil represente 5% da receita total da multinacional japonesa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/omron-planeja-que-brasil-represente-5-da-receita-total-da-multinacional-japonesa.shtml)_
 
+- **[2026-09-01 16:51 UTC]** SP confirma dois novos casos de sarampo e total chega a 28 no estado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/sp-confirma-dois-novos-casos-de-sarampo-e-total-chega-a-28.shtml)_
+
