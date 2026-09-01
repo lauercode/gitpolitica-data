@@ -671,3 +671,6 @@
 - **[2026-09-01 11:42 UTC]** TSE deve multar campanha de Flávio por avatar de Bolsonaro e definir punição sobre uso de deepfake
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-deve-multar-campanha-de-flavio-por-avatar-de-bolsonaro-e-definir-punicao-sobre-uso-de-deepfake.shtml)_
 
+- **[2026-09-01 14:53 UTC]** Flávio, Zema e Caiado criticam decisão de Toffoli contra Renan Santos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-zema-e-caiado-criticam-decisao-de-toffoli-contra-renan-santos/)_
+
