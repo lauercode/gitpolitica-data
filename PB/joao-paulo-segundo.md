@@ -158,3 +158,6 @@
 - **[2026-09-01 17:49 UTC]** A primeira pesquisa a testar segundo turno com Augusto Cury
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/primeira-pesquisa-a-testar-segundo-turno-com-augusto-cury/)_
 
+- **[2026-09-01 20:38 UTC]** Manaus marca 37,6ºC e bate recorde de temperatura pelo segundo dia consecutivo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/manaus-marca-376oc-e-bate-recorde-de-temperatura-pelo-segundo-dia-consecutivo.ghtml)_
+
