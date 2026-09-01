@@ -272,3 +272,6 @@
 - **[2026-09-01 20:15 UTC]** Como PF recuperou prints apagados de Vorcaro e identificou contato atribuído a ministro Alexandre de Moraes
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c99dnrkvnr1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 19:14 UTC]** As reações no mundo político e jurídico aos diálogos entre Alexandre de Moraes e Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c70lwzn8p5go?at_medium=RSS&at_campaign=rss)_
+
