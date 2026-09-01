@@ -38,3 +38,6 @@
 - **[2026-08-24 19:06 UTC]** Drone da TV Anhanguera flagra momento em que motociclista tenta fazer gato e cai em avenida de Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/drone-da-tv-anhanguera-flagra-momento-em-que-motociclista-tenta-fazer-gato-e-cai-em-avenida-de-palmas.ghtml)_
 
+- **[2026-09-01 09:56 UTC]** Câmera de segurança flagra momento em que motorista atropela e mata ciclista em João Pessoa; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/camera-de-seguranca-flagra-momento-em-que-motorista-atropela-e-mata-ciclista-em-joao-pessoa-video.ghtml)_
+
