@@ -38,3 +38,6 @@
 - **[2018-05-01 15:04 UTC]** Morador de Fernando de Noronha, acusado por furto, é transferido para o Recife
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/morador-de-fernando-de-noronha-acusado-por-furto-e-transferido-para-o-recife.html)_
 
+- **[2026-09-01 17:24 UTC]** Mãe do menino Miguel se forma em direito no Recife e homenageia filho em cerimônia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mae-do-menino-miguel-se-forma-em-direito-no-recife-e-homenageia-filho-em-cerimonia.shtml)_
+
