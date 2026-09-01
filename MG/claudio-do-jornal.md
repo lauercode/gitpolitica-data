@@ -137,3 +137,6 @@
 - **[2026-09-01 20:51 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 1º de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-terca-feira-1-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-01 20:03 UTC]** VÍDEOS: Jornal do Amazonas - 1ª edição, 1º de setembro de 2026
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-1-edicao-1-de-setembro-de-2026.ghtml)_
+
