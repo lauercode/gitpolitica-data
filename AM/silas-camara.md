@@ -219,3 +219,6 @@ Diretor
 - **[2026-08-31 23:57 UTC]** Câmara aprova prazo maior para empresa deduzir doações a entidades de combate ao câncer
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301494-camara-aprova-prazo-maior-para-empresa-deduzir-doacoes-a-entidades-de-combate-ao-cancer)_
 
+- **[2026-08-31 23:41 UTC]** Câmara aprova autonomia de escolas para ajustar calendário na Copa do Mundo Feminina
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301485-camara-aprova-autonomia-de-escolas-para-ajustar-calendario-na-copa-do-mundo-feminina)_
+
