@@ -140,3 +140,6 @@
 - **[2026-09-01 15:05 UTC]** Projeto abre vagas gratuitas em empreendedorismo digital no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/01/projeto-abre-vagas-gratuitas-em-empreendedorismo-digital-no-para.ghtml)_
 
+- **[2026-09-01 20:04 UTC]** Projeto obriga órgãos públicos a criar espaços específicos para atender idosos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300393-projeto-obriga-orgaos-publicos-a-criar-espacos-especificos-para-atender-idosos)_
+
