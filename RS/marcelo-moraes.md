@@ -131,3 +131,6 @@
 - **[2026-09-01 17:37 UTC]** Vorcaro reclamou a sócio que pagamento não foi feito para escritório de esposa de Moraes: 'Contrato mais importante que temos'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-pagamento-escritorio-esposa-moraes.ghtml)_
 
+- **[2026-09-01 17:16 UTC]** Vorcaro diz a Moraes que tem 'dívida de vida' com ministro e agradece por 'tudo', aponta PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-diz-a-moraes-que-tem-divida-de-vida-com-ministro-e-agradece-por-tudo-aponta-pf.ghtml)_
+
