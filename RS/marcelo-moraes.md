@@ -324,3 +324,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 22:34 UTC]** Flávio e Caiado pedem saída de Moraes, Zema defende prisão e Cury propõe mandato no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-saida-de-moraes-zema-defende-prisao-e-cury-propoe-mandato-no-stf/)_
 
+- **[2026-09-01 23:25 UTC]** Moraes no caso Master: o que mostram as mensagens atribuídas ao ministro do STF e Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss)_
+
