@@ -11,3 +11,6 @@
 - **[2026-08-22 20:40 UTC]** Teresa Surita declara mais de R$ 8,4 milhões em bens na disputa ao Senado por Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/22/teresa-surita-declara-mais-de-r-84-milhoes-em-bens-na-disputa-ao-senado-por-roraima.ghtml)_
 
+- **[2026-09-01 12:07 UTC]** Candidata ao Senado, Teresa Surita apoia impeachments no STF e diz que Corte 'ultrapassou limites'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/candidata-ao-senado-teresa-surita-apoia-impeachments-no-stf-e-diz-que-corte-ultrapassou-limites.ghtml)_
+
