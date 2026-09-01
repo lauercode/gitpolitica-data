@@ -77,3 +77,6 @@
 - **[2026-09-01 20:50 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Rio Grande do Sul — de A a J
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-rio-grande-do-sul-de-a-a-j.ghtml)_
 
+- **[2026-09-01 20:47 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-rondonia.ghtml)_
+
