@@ -77,3 +77,6 @@
 - **[2026-09-01 20:36 UTC]** Homem de 59 anos é encontrado morto a tiros dentro de carro em área de mata no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/01/homem-de-59-anos-e-encontrado-morto-a-tiros-dentro-de-carro-em-area-de-mata-no-para.ghtml)_
 
+- **[2026-09-01 23:47 UTC]** Suspeito de estuprar e esfaquear diarista já foi preso por crimes semelhantes em área de mata
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/suspeito-de-estuprar-e-esfaquear-diarista-ja-foi-preso-por-crimes-semelhantes-em-area-de-mata.ghtml)_
+
