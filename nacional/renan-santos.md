@@ -107,3 +107,6 @@
 - **[2026-08-25 23:01 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 32%; Ronaldo Caiado, 7%; Renan Santos; 3%
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-presidente-25-agosto.ghtml)_
 
+- **[2026-08-31 23:51 UTC]** Justiça do Trabalho determina bloqueio em planos de previdência de Renan Santos e outros réus em ação
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/31/justica-do-trabalho-determina-bloqueio-em-planos-de-previdencia-de-renan-santos-e-outros-reus-em-acao.ghtml)_
+
