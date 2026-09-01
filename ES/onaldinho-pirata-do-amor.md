@@ -29,3 +29,6 @@
 - **[2017-05-25 12:59 UTC]** Famílias de Campo Grande adotam irmãos adolescentes e dão exemplo de amor
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/familias-de-campo-grande-adotam-irmaos-adolescentes-e-dao-exemplo-de-amor.ghtml)_
 
+- **[2026-09-01 15:30 UTC]** É forte, mas submissa, diz Rayssa Bratillieri sobre Salma, de 'A Nobreza do Amor'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/e-forte-mas-submissa-diz-rayssa-bratillieri-sobre-salma-de-a-nobreza-do-amor.shtml)_
+
