@@ -164,3 +164,6 @@
 - **[2026-09-01 16:08 UTC]** Tarcísio manifesta solidariedade a Renan Santos após TSE limitar campanha: 'Merece falar, merece ter espaço'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/01/tarcisio-manifesta-solidariedade-a-renan-santos-apos-tse-limitar-campanha-merece-falar-merece-ter-espaco.ghtml)_
 
+- **[2026-09-01 19:38 UTC]** Toffoli libera campanha digital de Renan Santos, repasses de recursos e participação em debates
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/toffoli-libera-campanha-digital-de-renan-santos.ghtml)_
+
