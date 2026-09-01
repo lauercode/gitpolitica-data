@@ -173,3 +173,6 @@
 - **[2026-09-01 18:06 UTC]** Vorcaro perguntou a Moraes se deveria “estar fora” dois dias antes de ser preso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-perguntou-a-moraes-se-deveria-estar-fora-dois-dias-antes-de-ser-preso/)_
 
+- **[2026-09-01 18:00 UTC]** Polícia faz perícia em prédio onde elevador despencou com mãe e dois filhos três meses após acidente
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/policia-faz-pericia-em-predio-onde-elevador-despencou-com-mae-e-dois-filhos-tres-meses-apos-acidente.ghtml)_
+
