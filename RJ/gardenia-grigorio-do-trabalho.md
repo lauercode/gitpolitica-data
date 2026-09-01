@@ -137,3 +137,6 @@
 - **[2026-09-01 18:31 UTC]** Justiça do Trabalho recomenda adaptação para enfrentar El Niño
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/justica-do-trabalho-recomenda-adaptacao-para-enfrentar-el-nino)_
 
+- **[2026-09-01 21:04 UTC]** Homem morre atropelado em frente ao trabalho, no Paraná; motorista disse ter dormido ao volante
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/01/homem-morre-atropelado-em-frente-ao-trabalho-no-parana-motorista-disse-ter-dormido-ao-volante.ghtml)_
+
