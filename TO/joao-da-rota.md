@@ -11,3 +11,6 @@
 - **[2026-08-31 21:43 UTC]** Programação da Rota Cultural Raízes do Brejo 2026, na PB, é divulgada
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/programacao-da-rota-cultural-raizes-do-brejo-2026-na-pb-e-divulgada.ghtml)_
 
+- **[2026-08-31 23:00 UTC]** Dívida a 82,5% do PIB acende sinal de alerta para correção de rota após as eleições, dizem economistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/divida-a-825-do-pib-acende-sinal-de-alerta-para-correcao-de-rota-apos-as-eleicoes-dizem-economistas.shtml)_
+
