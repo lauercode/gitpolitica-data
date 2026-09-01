@@ -23,3 +23,6 @@
 - **[2026-08-27 19:58 UTC]** Brasileira desaparecida na Espanha é encontrada, diz família
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/brasileira-desaparecida-na-espanha-e-encontrada-diz-familia.ghtml)_
 
+- **[2026-09-01 10:39 UTC]** Calor foi responsável por 2.149 mortes na Espanha no mês passado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/calor-foi-responsavel-por-2149-mortes-na-espanha-no-mes-passado)_
+
