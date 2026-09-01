@@ -701,3 +701,6 @@
 - **[2026-09-01 18:05 UTC]** Mendonça atropela rito para beneficiar Flávio Bolsonaro e abrir inferno ao STF, dizem ministros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mendonca-atropela-rito-para-beneficiar-flavio-bolsonaro-e-abrir-inferno-ao-stf-dizem-ministros.shtml)_
 
+- **[2026-09-01 17:03 UTC]** Lindbergh pede ao STF afastamento de Flávio do mandato de senador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lindbergh-pede-ao-stf-afastamento-de-flavio-do-mandato-de-senador.shtml)_
+
