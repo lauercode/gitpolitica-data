@@ -134,3 +134,6 @@
 - **[2026-09-01 14:20 UTC]** Mãe chega em trabalho de parto à UPA de Araguaína e descobre que estava grávida de gêmeos
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/mae-chega-em-trabalho-de-parto-a-upa-de-araguaina-e-descobre-que-estava-gravida-de-gemeos.ghtml)_
 
+- **[2026-09-01 18:31 UTC]** Justiça do Trabalho recomenda adaptação para enfrentar El Niño
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/justica-do-trabalho-recomenda-adaptacao-para-enfrentar-el-nino)_
+
