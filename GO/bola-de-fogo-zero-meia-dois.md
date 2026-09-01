@@ -176,3 +176,6 @@
 - **[2026-09-01 18:00 UTC]** Polícia faz perícia em prédio onde elevador despencou com mãe e dois filhos três meses após acidente
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/policia-faz-pericia-em-predio-onde-elevador-despencou-com-mae-e-dois-filhos-tres-meses-apos-acidente.ghtml)_
 
+- **[2026-09-01 15:49 UTC]** Carro parte ao meio após batida em poste em SC; homem morre e dois ficam feridos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/carro-parte-ao-meio-batida-poste-em-sc-homem-morre.ghtml)_
+
