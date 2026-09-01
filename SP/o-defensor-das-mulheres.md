@@ -71,3 +71,6 @@
 - **[2018-07-18 09:00 UTC]** Mulheres descobrem talento musical em coral na prisão e tentam refazer a vida fora dela por meio da música
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/olha-que-legal/noticia/2018/07/18/mulheres-descobrem-talento-musical-em-coral-na-prisao-e-tentam-refazer-a-vida-fora-dela-por-meio-da-musica.ghtml)_
 
+- **[2026-08-31 20:16 UTC]** Portarias preveem ações de enfrentamento à violência contra mulheres
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-08/portarias-preveem-acoes-de-enfrentamento-violencia-contra-mulheres)_
+
