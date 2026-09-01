@@ -125,3 +125,6 @@
 - **[2026-09-01 10:53 UTC]** Namorada de jovem que morreu após ser torturado e cair do 14º andar no Paraná foi afastada do quarto e não é investigada, diz polícia
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/01/namorada-jovem-queda-predio-parana.ghtml)_
 
+- **[2026-09-01 15:05 UTC]** Saiba quem era ex-vocalista da Banda Calcinha Preta que morreu enquanto aguardava por transplante de rim em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/saiba-quem-era-ex-vocalista-da-banda-calcinha-preta-que-morreu-em-sergipe.ghtml)_
+
