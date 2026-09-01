@@ -11,3 +11,6 @@
 - **[2017-08-21 09:14 UTC]** Em caso raro, vaca dá à luz bezerros gêmeos de sexos diferentes em Goiatuba
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/em-caso-raro-vaca-da-a-luz-bezerros-gemeos-de-sexos-diferentes-em-goiatuba.ghtml)_
 
+- **[2026-09-01 14:20 UTC]** Mãe chega em trabalho de parto à UPA de Araguaína e descobre que estava grávida de gêmeos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/mae-chega-em-trabalho-de-parto-a-upa-de-araguaina-e-descobre-que-estava-gravida-de-gemeos.ghtml)_
+
