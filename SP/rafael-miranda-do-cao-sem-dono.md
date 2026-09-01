@@ -38,3 +38,6 @@
 - **[2018-07-09 10:25 UTC]** Galo vira atração ao passear no teto de carro no interior de SP: 'É um filho que tenho', diz dono
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/galo-vira-atracao-ao-passear-no-teto-de-carro-no-interior-de-sp-e-um-filho-que-tenho-diz-dono.ghtml)_
 
+- **[2026-09-01 17:50 UTC]** Relatório da PF sobre mensagens de Vorcaro aponta vários encontros do dono do Master com Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-sobre-mensagens-de-vorcaro-aponta-varios-encontros-do-dono-do-master-com-moraes.ghtml)_
+
