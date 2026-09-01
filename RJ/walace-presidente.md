@@ -257,3 +257,6 @@
 - **[2018-07-19 15:11 UTC]** Acidente fatal no Beach Park foi o único da empresa que desenvolveu brinquedo, diz presidente
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/ce/ceara/noticia/2018/07/19/acidente-fatal-no-beach-park-foi-o-unico-da-empresa-que-desenvolveu-brinquedo-diz-presidente.ghtml)_
 
+- **[2026-08-31 21:29 UTC]** Confira como foi a segunda-feira (31) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-segunda-feira-31-dos-candidatos-presidente)_
+
