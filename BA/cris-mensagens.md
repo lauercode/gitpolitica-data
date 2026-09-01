@@ -29,3 +29,6 @@
 - **[2018-07-18 01:08 UTC]** Aluna vai prestar serviços à comunidade no ES após ofender professora em app de mensagens
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/aluna-vai-prestar-servicos-a-comunidade-no-es-apos-ofender-professora-em-app-de-mensagens.ghtml)_
 
+- **[2026-09-01 17:50 UTC]** Relatório da PF sobre mensagens de Vorcaro aponta vários encontros do dono do Master com Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-sobre-mensagens-de-vorcaro-aponta-varios-encontros-do-dono-do-master-com-moraes.ghtml)_
+
