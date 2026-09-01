@@ -53,3 +53,6 @@
 - **[2026-09-01 11:05 UTC]** Governo reverte decisão que suspendia imposto de exportação do petróleo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-reverte-decisao-que-suspendia-imposto-de-exportacao-do-petroleo.shtml)_
 
+- **[2026-09-01 15:57 UTC]** Projeto prevê cálculo separado de aposentadoria e salário para o Imposto de Renda
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301311-projeto-preve-calculo-separado-de-aposentadoria-e-salario-para-o-imposto-de-renda)_
+
