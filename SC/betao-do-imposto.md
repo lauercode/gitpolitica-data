@@ -59,3 +59,6 @@
 - **[2026-09-01 13:13 UTC]** TRF libera imposto de 12% sobre exportação de petróleo
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/trf-libera-imposto-de-12-sobre-exportacao-de-petroleo)_
 
+- **[2026-09-01 18:24 UTC]** Desembargador mantém cobrança de imposto de exportação de petróleo
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/desembargador-mantem-cobranca-de-imposto-de-exportacao-de-petroleo)_
+
