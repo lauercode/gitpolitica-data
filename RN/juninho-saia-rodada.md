@@ -20,3 +20,6 @@
 - **[2026-08-31 23:25 UTC]** De virada, Coritiba vence Remo no fim da 25ª rodada do Brasileirão
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/de-virada-coritiba-vence-remo-no-fim-da-25a-rodada-do-brasileirao)_
 
+- **[2026-09-01 14:14 UTC]** Empresa de Donald Trump Jr. lidera rodada de US$ 1 bi da Polymarket
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresa-de-donald-trump-jr-lidera-rodada-de-us-1-bi-da-polymarket.shtml)_
+
