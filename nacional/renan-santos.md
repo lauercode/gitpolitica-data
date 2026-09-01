@@ -161,3 +161,6 @@
 - **[2026-09-01 18:29 UTC]** Defesa de Renan Santos pede ao TSE revogação de decisão de Toffoli que restringiu campanha digital
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/defesa-de-renan-santos-pede-ao-tse-revogacao-de-decisao-de-toffoli-que-restringiu-campanha-digital.ghtml)_
 
+- **[2026-09-01 16:08 UTC]** Tarcísio manifesta solidariedade a Renan Santos após TSE limitar campanha: 'Merece falar, merece ter espaço'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/01/tarcisio-manifesta-solidariedade-a-renan-santos-apos-tse-limitar-campanha-merece-falar-merece-ter-espaco.ghtml)_
+
