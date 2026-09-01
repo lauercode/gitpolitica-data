@@ -110,3 +110,6 @@
 - **[2026-08-31 23:51 UTC]** Justiça do Trabalho determina bloqueio em planos de previdência de Renan Santos e outros réus em ação
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/31/justica-do-trabalho-determina-bloqueio-em-planos-de-previdencia-de-renan-santos-e-outros-reus-em-acao.ghtml)_
 
+- **[2026-08-31 22:55 UTC]** Decisão de Toffoli abre novo capítulo para campanha antissistema de Renan Santos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/suspensao-campanha-renan-santos-reforca-perfil-de-candidato-antissistema/)_
+
