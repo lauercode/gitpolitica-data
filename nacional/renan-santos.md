@@ -155,3 +155,6 @@
 - **[2026-09-01 13:19 UTC]** YouTube e Instagram tiram contas de Renan Santos do ar no Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/youtube-e-instagram-tiram-contas-de-renan-santos-do-ar-no-brasil/)_
 
+- **[2026-09-01 14:26 UTC]** Candidatura de Renan Santos: o que acontece após a suspensão da campanha pelo TSE
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss)_
+
