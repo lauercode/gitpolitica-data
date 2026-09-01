@@ -23,3 +23,6 @@
 - **[2026-08-30 14:00 UTC]** O prompt morreu: agora são 'loops' e 'graphs'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/08/o-prompt-morreu-agora-sao-loops-e-graphs.shtml)_
 
+- **[2026-08-31 19:42 UTC]** Após eliminação precoce no US Open, o futuro de Djokovic se ensombra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/apos-eliminacao-precoce-no-us-open-o-futuro-de-djokovic-se-ensombra.shtml)_
+
