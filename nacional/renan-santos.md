@@ -173,3 +173,6 @@
 - **[2026-09-01 18:04 UTC]** Dias Toffoli libera campanha de Renan Santos pela internet
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dias-toffoli-libera-campanha-de-renan-santos-pela-internet)_
 
+- **[2026-09-01 23:25 UTC]** Redes sociais de Renan Santos voltam ao ar após Toffoli liberar campanha digital
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/redes-sociais-de-renan-santos-voltam-ao-ar-apos-toffoli-liberar-campanha-digital.ghtml)_
+
