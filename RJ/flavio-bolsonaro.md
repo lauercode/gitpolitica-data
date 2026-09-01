@@ -548,3 +548,6 @@
 - **[2026-09-01 16:47 UTC]** Flávio Bolsonaro chama Moraes de 'advogado de Vorcaro' e diz que ministro pode não ter condições de seguir no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/flavio-bolsonaro-chama-moraes-de-advogado-de-vorcaro.ghtml)_
 
+- **[2026-09-01 15:54 UTC]** Moraes determina que armas de Bolsonaro sejam destruídas ou doadas a órgãos de segurança
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-determina-que-armas-de-bolsonaro-sejam-destruidas.ghtml)_
+
