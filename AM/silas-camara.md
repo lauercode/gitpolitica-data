@@ -250,3 +250,7 @@ Diretor
 - **[2026-08-31 22:39 UTC]** Câmara derruba obrigatoriedade de escolas marcarem férias durante Copa do Mundo feminina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/camara-derruba-obrigatoriedade-de-escolas-marcarem-ferias-durante-copa-do-mundo-feminina.shtml)_
 
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
