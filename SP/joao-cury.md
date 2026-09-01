@@ -122,3 +122,6 @@
 - **[2026-08-31 16:50 UTC]** Coordenador da campanha do PT reage à alta de Cury nas pesquisas e pede que parem de falar dele
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/coordenador-da-campanha-do-pt-reage-a-alta-de-cury-nas-pesquisas-e-pede-que-parem-de-falar-dele/)_
 
+- **[2026-08-31 19:08 UTC]** Lula e Flávio Bolsonaro veem Cury atrair voto antissistema e chance de despontar como terceira via
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-veem-cury-se-firmar-como-terceira-via-com-eleitores-insatisfeitos-e-antissistema.shtml)_
+
