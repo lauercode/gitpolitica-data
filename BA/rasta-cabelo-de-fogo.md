@@ -53,3 +53,6 @@
 - **[2026-09-01 16:58 UTC]** Suspeito morre após confronto com BOPE e outro é preso com duas armas de fogo em São José de Ribamar
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/suspeito-morre-apos-confronto-com-bope-e-outro-e-preso-com-duas-armas-de-fogo-em-sao-jose-de-ribamar.ghtml)_
 
+- **[2026-09-01 18:08 UTC]** Criminosos invadem sala-cofre e furtam armas de fogo em loja em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/criminosos-invadem-sala-cofre-furtam-armas-fogo-loja-sc.ghtml)_
+
