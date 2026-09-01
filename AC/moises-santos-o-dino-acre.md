@@ -194,3 +194,6 @@
 - **[2026-08-24 17:59 UTC]** VÍDEO: Pastor alemão é resgatado pela polícia após fugir de casa e ser vendido no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/24/video-pastor-alemao-e-resgatado-pela-policia-apos-fugir-de-casa-e-ser-vendido-no-acre.ghtml)_
 
+- **[2026-08-31 23:39 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 31 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-31-de-agosto-de-2026.ghtml)_
+
