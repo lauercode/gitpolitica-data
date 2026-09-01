@@ -149,3 +149,6 @@
 - **[2026-09-01 15:18 UTC]** Moraes modificou contrato de R$ 130 milhões entre escritório de sua esposa e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-modificou-contrato-de-r-131-milhoes-entre-vorcaro-e-escritorio-da-esposa-do-ministro.ghtml)_
 
+- **[2026-09-01 12:22 UTC]** Mendonça pede explicações à PGR sobre mensagem a Moraes que cita suposta proteção para Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mendonca-pede-explicacoes-a-pgr-sobre-mensagem-a-moraes-que-cita-suposta-protecao-a-vorcaro.ghtml)_
+
