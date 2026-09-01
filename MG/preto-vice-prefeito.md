@@ -47,3 +47,6 @@
 - **[2026-09-01 18:14 UTC]** Prefeito de Granito, no sertão de Pernambuco, é acusado de violência doméstica por ex-mulher
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/prefeito-de-granito-no-sertao-de-pernambuco-e-acusado-de-violencia-domestica-por-ex-mulher.shtml)_
 
+- **[2026-09-01 20:39 UTC]** TJPA suspende cassação e prefeito reassume cargo em Anapu, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/01/tjpa-suspende-cassacao-e-prefeito-reassume-cargo-em-anapu-no-para.ghtml)_
+
