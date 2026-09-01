@@ -530,3 +530,6 @@
 - **[2026-08-25 23:01 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 32%; Ronaldo Caiado, 7%; Renan Santos; 3%
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-presidente-25-agosto.ghtml)_
 
+- **[2026-08-31 20:33 UTC]** Procuradoria pede proibição do uso de imagens de Bolsonaro em propaganda eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/procuradoria-pede-proibicao-do-uso-de-imagens-de-bolsonaro-em-propaganda-eleitoral.shtml)_
+
