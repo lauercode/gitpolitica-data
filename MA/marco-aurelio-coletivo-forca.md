@@ -47,3 +47,6 @@
 - **[2026-09-01 12:48 UTC]** PIB do Brasil perde força no 2º tri: os 3 desafios para o próximo presidente na economia
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 17:05 UTC]** Lavoura e pecuária surpreendem e dão força ao PIB agropecuário no ano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lavoura-e-pecuaria-surpreendem-e-dao-forca-ao-pib-agropecuario-no-ano.shtml)_
+
