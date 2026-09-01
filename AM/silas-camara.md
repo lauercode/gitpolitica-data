@@ -234,3 +234,7 @@ Diretor
 - **[2026-08-31 22:41 UTC]** Câmara aprova criação de vagas para juiz do trabalho em Porto Alegre
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301458-camara-aprova-criacao-de-vagas-para-juiz-do-trabalho-em-porto-alegre)_
 
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
