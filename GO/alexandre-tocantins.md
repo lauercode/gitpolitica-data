@@ -56,3 +56,6 @@
 - **[2026-08-25 19:21 UTC]** Auditor fiscal é preso em flagrante por suspeita de corrupção passiva no interior do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/25/auditor-fiscal-e-preso-em-flagrante-por-suspeita-de-corrupcao-passiva-no-interior-do-tocantins.ghtml)_
 
+- **[2026-08-31 22:29 UTC]** Eleições 2026: veja todos os candidatos ao Senado pelo Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-senado-pelo-tocantins.ghtml)_
+
