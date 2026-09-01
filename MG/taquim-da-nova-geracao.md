@@ -32,3 +32,6 @@
 - **[2026-08-31 22:25 UTC]** Eleições 2026: Fábio do PSD diz que pretende ampliar programas de geração de empregos em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-fabio-do-psd-diz-que-pretende-ampliar-programas-de-geracao-de-emprego-em-sergipe.ghtml)_
 
+- **[2026-09-01 11:00 UTC]** Caged: AC mantém saldo positivo pelo 6º mês seguido, mas julho tem 2ª menor geração de empregos no ano
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/caged-ac-mantem-saldo-positivo-pelo-6o-mes-seguido-mas-julho-tem-2a-menor-geracao-de-empregos-no-ano.ghtml)_
+
