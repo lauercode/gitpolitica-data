@@ -185,3 +185,6 @@
 - **[2026-09-01 17:18 UTC]** Quem é Cíntia Chagas, nova namorada de Rubens Barrichello
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/quem-e-cintia-chagas-nova-namorada-de-rubens-barrichello.shtml)_
 
+- **[2026-09-01 23:28 UTC]** Quem é Ciro Soares, advogado que aparece em relatório da PF como ponte entre Vorcaro e Gonet
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/quem-e-ciro-soares.ghtml)_
+
