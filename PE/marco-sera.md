@@ -86,3 +86,6 @@
 - **[2026-09-01 14:03 UTC]** PND 2026: cartão de confirmação da inscrição será divulgado no dia 9
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-de-confirmacao-da-inscricao-sera-divulgado-no-dia-9)_
 
+- **[2026-09-01 15:13 UTC]** Bolsa Família não deve ter aumento, e reajuste de servidores será limitado em 2027; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bolsa-familia-nao-deve-ter-aumento-e-reajuste-de-servidores-sera-limitado-em-2027-entenda.shtml)_
+
