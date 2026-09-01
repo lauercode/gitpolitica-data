@@ -140,3 +140,6 @@
 - **[2026-09-01 02:28 UTC]** Toffoli censura campanha e põe em risco candidatura de Renan Santos à Presidência
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-censura-campanha-e-poe-em-risco-candidatura-de-renan-santos-a-presidencia/)_
 
+- **[2026-09-01 12:35 UTC]** Meta derruba perfis de Renan Santos a pedido de Toffoli
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/01/meta-derruba-perfis-de-renan-santos-a-pedido-de-toffoli.ghtml)_
+
