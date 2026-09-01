@@ -209,3 +209,6 @@
 - **[2026-09-01 18:29 UTC]** As reações no mundo político aos diálogos entre Alexandre de Moraes e Daniel Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c70lwzn8p5go?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 16:31 UTC]** Mendonça quer levar ao plenário diálogos atribuídos a Vorcaro e Moraes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-que-levar-ao-plenario-conversas-atribuidas-vorcaro-e-moraes)_
+
