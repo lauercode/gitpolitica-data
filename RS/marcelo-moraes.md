@@ -291,3 +291,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 23:06 UTC]** Moraes articulou presença de ministros do STF e STJ em evento de Vorcaro em Londres, diz PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-articulou-presenca-de-ministros-do-stf-e-stj-em-evento-de-vorcaro-em-londres-diz-pf.ghtml)_
 
+- **[2026-09-01 22:52 UTC]** Ex-ministro Fábio Faria atuou para intermediar contatos entre Vorcaro e Moraes, aponta PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/ex-ministro-fabio-faria-atuou-para-intermediar-contatos-entre-vorcaro-e-moraes-aponta-pf.ghtml)_
+
