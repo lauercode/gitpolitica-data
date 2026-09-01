@@ -134,3 +134,6 @@
 - **[2026-09-01 14:27 UTC]** Projeto exige nova intimação de devedor quando cumprimento provisório de sentença se tornar definitivo
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299239-projeto-exige-nova-intimacao-de-devedor-quando-cumprimento-provisorio-de-sentenca-se-tornar-definitivo)_
 
+- **[2026-09-01 13:39 UTC]** Projeto garante acesso gratuito a serviços digitais do governo
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301328-projeto-garante-acesso-gratuito-a-servicos-digitais-do-governo)_
+
