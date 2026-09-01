@@ -32,3 +32,6 @@
 - **[2026-08-21 19:09 UTC]** Campo de futebol comprado com dinheiro do tráfico é 'sequestrado' durante operação em Porto Velho
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/campo-de-futebol-e-sequestrado-durante-operacao-em-porto-velho.ghtml)_
 
+- **[2026-09-01 09:51 UTC]** Despedida de Messi da seleção reverbera fora do futebol e une argentinos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/despedida-de-messi-da-selecao-reverbera-fora-do-futebol-e-une-argentinos.shtml)_
+
