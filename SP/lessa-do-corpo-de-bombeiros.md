@@ -23,3 +23,6 @@
 - **[2026-08-24 22:50 UTC]** Adolescente morre afogado enquanto nadava em praia de Palmas, dizem bombeiros
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/adolescente-morre-afogado-enquanto-nadava-em-praia-de-palmas-dizem-bombeiros.ghtml)_
 
+- **[2026-09-01 23:39 UTC]** Câmara aprova projeto que facilita acesso à aposentadoria integral por PMs e bombeiros
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/camara-aprova-projeto-que-facilita-acesso-a-aposentadoria-integral-por-pms-e-bombeiros.ghtml)_
+
