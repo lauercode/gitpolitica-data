@@ -149,3 +149,6 @@
 - **[2026-09-01 13:01 UTC]** PIB brasileiro tem 5º maior crescimento no segundo trimestre
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-brasileiro-tem-5o-maior-crescimento-no-segundo-trimestre)_
 
+- **[2026-09-01 12:33 UTC]** PIB do Brasil cresce 0,5% no segundo trimestre de 2026
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-de-2026)_
+
