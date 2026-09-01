@@ -38,3 +38,6 @@
 - **[2026-08-20 21:20 UTC]** Concurso público da Câmara Municipal de Nossa Senhora das Dores está com inscrições abertas
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/concurso-publico-da-camara-municipal-de-nossa-senhora-das-dores-esta-com-inscricoes-abertas.ghtml)_
 
+- **[2026-09-01 16:33 UTC]** 'Alegria que conduz a nossa gente': Conheça tema do Círio 2026 da TV Liberal
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/01/alegria-que-conduz-a-nossa-gente-conheca-tema-do-cirio-2026-da-tv-liberal.ghtml)_
+
