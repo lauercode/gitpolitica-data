@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-09-01 14:17 UTC]** Blumenau monitora alta do Rio Itajaí-Açu após cota chegar a 7,57 metros
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/blumenau-monitora-rio-itajai-acu.ghtml)_
+
