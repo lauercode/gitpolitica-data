@@ -83,3 +83,6 @@
 - **[2026-09-01 12:43 UTC]** Pesquisa analisa propostas dirigidas às mulheres em planos de governo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/pesquisa-analisa-propostas-dirigidas-mulheres-em-planos-de-governo)_
 
+- **[2026-09-01 12:27 UTC]** Botão do pânico é utilizado por 538 mulheres no Rio de Janeiro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-09/botao-do-panico-e-utilizado-por-538-mulheres-no-rio-de-janeiro)_
+
