@@ -140,3 +140,6 @@
 - **[2026-09-01 12:03 UTC]** Cury cita em plano de governo doutorado em psicologia que não fez
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml)_
 
+- **[2026-09-01 18:30 UTC]** Flávio pede saída de Moraes, Zema defende prisão e Cury propõe mandato no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-saida-de-moraes-zema-defende-prisao-e-cury-propoe-mandato-no-stf/)_
+
