@@ -710,3 +710,6 @@
 - **[2026-09-01 23:44 UTC]** TSE tem maioria de votos para livrar Flávio de multa por vídeo de Bolsonaro por IA
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/tse-tem-maioria-de-votos-para-livrar-flavio-de-multa-por-video-de-bolsonaro-por-ia.ghtml)_
 
+- **[2026-09-01 18:35 UTC]** Einstein afasta Lottenberg do conselho após anúncio como futuro ministro de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/einstein-afasta-lottenberg-do-conselho-apos-anuncio-como-futuro-ministro-de-flavio.shtml)_
+
