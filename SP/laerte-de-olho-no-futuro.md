@@ -29,3 +29,6 @@
 - **[2026-09-01 20:35 UTC]** Cresol participa do Concred e debate o futuro do cooperativismo no campo e na cidade
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/01/cresol-participa-do-concred-e-debate-o-futuro-do-cooperativismo-no-campo-e-na-cidade.ghtml)_
 
+- **[2026-09-01 18:35 UTC]** Einstein afasta Lottenberg do conselho após anúncio como futuro ministro de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/einstein-afasta-lottenberg-do-conselho-apos-anuncio-como-futuro-ministro-de-flavio.shtml)_
+
