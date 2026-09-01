@@ -265,3 +265,6 @@ Diretor
 Diretor
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
 
+- **[2026-09-01 12:17 UTC]** Câmara aprova medida de Lula de R$ 30 bi em linhas de crédito para motoristas de app
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/camara-aprova-30-bi-linhas-credito-motoristas-app/)_
+
