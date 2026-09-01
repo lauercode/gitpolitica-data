@@ -83,3 +83,6 @@
 - **[2026-09-01 14:08 UTC]** Previsão do tempo para o Paraná: após tempestades e formação de ciclone, destaque será o frio e a possibilidade de geadas
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/previsao-do-tempo-para-o-parana-apos-tempestades-e-formacao-de-ciclone-destaque-sera-o-frio-e-a-possibilidade-de-geadas.ghtml)_
 
+- **[2026-09-01 14:03 UTC]** PND 2026: cartão de confirmação da inscrição será divulgado no dia 9
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-de-confirmacao-da-inscricao-sera-divulgado-no-dia-9)_
+
