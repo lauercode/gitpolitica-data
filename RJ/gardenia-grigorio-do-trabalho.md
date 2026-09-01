@@ -128,3 +128,6 @@
 - **[2026-09-01 04:30 UTC]** Veja regras para trabalho e folga no dia 7 de setembro e lista com os próximos feriados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/veja-regras-para-trabalho-e-folga-no-dia-7-de-setembro-e-lista-com-os-proximos-feriados.shtml)_
 
+- **[2026-09-01 08:54 UTC]** Brasil lidera casos de ansiedade e transtornos mentais no trabalho
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/brasil-lidera-casos-de-ansiedade-e-transtornos-mentais-no-trabalho)_
+
