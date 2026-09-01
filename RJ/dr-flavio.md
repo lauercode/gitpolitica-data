@@ -686,3 +686,6 @@
 - **[2026-09-01 12:07 UTC]** Flávio Bolsonaro se nega a revelar voto em fim da 6x1 e não explica repasses de Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-se-nega-a-revelar-voto-em-fim-da-6x1-e-nao-responde-sobre-repasses-de-vorcaro.shtml)_
 
+- **[2026-09-01 18:30 UTC]** Flávio pede saída de Moraes, Zema defende prisão e Cury propõe mandato no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-saida-de-moraes-zema-defende-prisao-e-cury-propoe-mandato-no-stf/)_
+
