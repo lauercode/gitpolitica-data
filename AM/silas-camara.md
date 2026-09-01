@@ -247,3 +247,6 @@ Diretor
 - **[2026-08-31 23:07 UTC]** Câmara aprova MP que destina R$ 30 bi para motoristas de aplicativos comprarem carros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/camara-aprova-mp-que-destina-r-30-bi-para-motoristas-de-aplicativos-comprarem-carros.shtml)_
 
+- **[2026-08-31 22:39 UTC]** Câmara derruba obrigatoriedade de escolas marcarem férias durante Copa do Mundo feminina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/camara-derruba-obrigatoriedade-de-escolas-marcarem-ferias-durante-copa-do-mundo-feminina.shtml)_
+
