@@ -29,3 +29,6 @@
 - **[2018-07-21 21:50 UTC]** Uberlândia e Uberaba têm saldo negativo na geração de empregos em junho
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/triangulo-mineiro/concursos-e-emprego/noticia/2018/07/21/uberlandia-e-uberaba-tem-saldo-negativo-na-geracao-de-empregos-em-junho.ghtml)_
 
+- **[2026-08-31 22:25 UTC]** Eleições 2026: Fábio do PSD diz que pretende ampliar programas de geração de empregos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-fabio-do-psd-diz-que-pretende-ampliar-programas-de-geracao-de-emprego-em-sergipe.ghtml)_
+
