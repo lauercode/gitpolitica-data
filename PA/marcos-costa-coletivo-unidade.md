@@ -23,3 +23,6 @@
 - **[2026-08-28 19:36 UTC]** HSJ inaugura nova Unidade de Coleta Laboratorial no Centro Madre Teresa
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/hospital-sao-jose/noticia/2026/08/28/hsj-inaugura-nova-unidade-de-coleta-laboratorial-no-centro-madre-teresa.ghtml)_
 
+- **[2026-09-01 21:37 UTC]** Motim é registrado em unidade prisional da PM em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/confusao-e-registrada-em-unidade-prisional-da-pm-em-manaus.ghtml)_
+
