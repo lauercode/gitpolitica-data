@@ -11,3 +11,6 @@
 - **[2017-11-02 16:20 UTC]** Comédia teatral 'Deu a Louca na Branca' será encenada em Cuiabá
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/comedia-teatral-deu-a-louca-na-branca-sera-encenada-em-cuiaba.ghtml)_
 
+- **[2026-08-31 22:17 UTC]** Renan Santos diz que decisão de Toffoli representa “cassação branca” de candidatura
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-diz-que-decisao-de-toffoli-representa-cassacao-branca-de-candidatura/)_
+
