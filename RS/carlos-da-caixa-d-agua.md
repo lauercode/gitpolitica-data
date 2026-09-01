@@ -128,3 +128,6 @@
 - **[2026-09-01 09:40 UTC]** Novas regras para venda de ingressos e acesso à água em eventos
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/novas-regras-para-venda-de-ingressos-e-acesso-agua-em-eventos)_
 
+- **[2026-09-01 18:33 UTC]** Mulher é presa suspeita de falsificar documentos para contratar serviços de água, luz e internet em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/mulher-e-presa-suspeita-de-falsificar-documentos-para-contratar-servicos-de-agua-luz-e-internet-em-manaus.ghtml)_
+
