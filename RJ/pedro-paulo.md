@@ -362,3 +362,6 @@
 - **[2026-08-25 22:25 UTC]** Quaest para o Senado no TO: Eduardo Gomes, 14%; Gaguim, 13%; Paulo Mourão, 9%; Alexandre Guimarães, 8%
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-senado-25-de-agosto.ghtml)_
 
+- **[2026-09-01 14:28 UTC]** Vorcaro disse a diretor do BC que Alexandre de Moraes daria 'aperto no Paulo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/vorcaro-disse-a-diretor-do-bc-que-alexandre-de-moraes-daria-aperto-no-paulo.shtml)_
+
