@@ -17,3 +17,6 @@
 - **[2026-08-31 14:00 UTC]** Após quase 40 anos, SBT volta a transmitir final do Miss Mundo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/08/apos-quase-40-anos-sbt-volta-a-transmitir-final-do-miss-mundo.shtml)_
 
+- **[2026-09-01 11:03 UTC]** Miss Cosmo: Paranaense vence estreia do concurso no Brasil e vai para mundial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/miss-cosmo-paranaense-vence-estreia-do-concurso-no-brasil-e-vai-para-mundial.shtml)_
+
