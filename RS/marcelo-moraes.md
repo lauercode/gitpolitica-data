@@ -146,3 +146,6 @@
 - **[2026-09-01 15:54 UTC]** Moraes determina que armas de Bolsonaro sejam destruídas ou doadas a órgãos de segurança
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-determina-que-armas-de-bolsonaro-sejam-destruidas.ghtml)_
 
+- **[2026-09-01 15:18 UTC]** Moraes modificou contrato de R$ 130 milhões entre escritório de sua esposa e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-modificou-contrato-de-r-131-milhoes-entre-vorcaro-e-escritorio-da-esposa-do-ministro.ghtml)_
+
