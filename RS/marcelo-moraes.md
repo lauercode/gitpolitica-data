@@ -230,3 +230,6 @@
 - **[2026-09-01 16:47 UTC]** Flávio Bolsonaro chama Moraes de 'advogado de Vorcaro'; Zema diz que ministro 'merece cadeia', e Renan, que está 'envolvido até o pescoço'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/flavio-bolsonaro-chama-moraes-de-advogado-de-vorcaro.ghtml)_
 
+- **[2026-09-01 18:25 UTC]** Entenda como a PF ligou mensagens de Vorcaro no WhatsApp a Moraes, mesmo com visualização única
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/entenda-como-a-pf-ligou-mensagens-de-vorcaro-no-whatsapp-a-moraes-mesmo-com-visualizacao-unica.shtml)_
+
