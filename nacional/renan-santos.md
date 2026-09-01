@@ -149,3 +149,6 @@
 - **[2026-09-01 14:03 UTC]** Justiça bloqueia R$ 61,8 mil de Renan Santos por dívida trabalhista
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-bloqueia-r-618-mil-de-renan-santos-por-divida-trabalhista/)_
 
+- **[2026-09-01 13:59 UTC]** “Ilegal, autoritária e ilícita”, diz ex-juiz sobre decisão contra Renan Santos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ilegal-autoritaria-e-ilicita-diz-ex-juiz-sobre-decisao-contra-renan/)_
+
