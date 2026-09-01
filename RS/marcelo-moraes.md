@@ -312,3 +312,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 22:50 UTC]** Além do impeachment de Moraes, oposição pressiona por demissões de Andrei e Gonet
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alem-do-impeachment-de-moraes-oposicao-pressiona-por-demissoes-de-andrei-e-gonet/)_
 
+- **[2026-09-01 22:10 UTC]** “Fora, Moraes” deve ser entoado em manifestações do 7 de Setembro na Paulista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fora-moraes-deve-ser-entoado-em-manifestacoes-do-7-de-setembro-na-paulista/)_
+
