@@ -188,3 +188,6 @@
 - **[2026-09-01 18:18 UTC]** Moraes manda Exército destruir 7 armas de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-manda-exercito-destruir-7-armas-de-bolsonaro/)_
 
+- **[2026-09-01 18:06 UTC]** Vorcaro perguntou a Moraes se deveria “estar fora” dois dias antes de ser preso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-perguntou-a-moraes-se-deveria-estar-fora-dois-dias-antes-de-ser-preso/)_
+
