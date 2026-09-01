@@ -278,3 +278,6 @@
 - **[2026-09-01 14:26 UTC]** Vice-presidente do Bank of America é morta em ataque na Times Square
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/vice-presidente-do-bank-of-america-e-assassinada-em-ataque-na-times-square.shtml)_
 
+- **[2026-09-01 12:48 UTC]** PIB do Brasil perde força no 2º tri: os 3 desafios para o próximo presidente na economia
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss)_
+
