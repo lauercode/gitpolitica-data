@@ -200,3 +200,6 @@
 - **[2026-08-31 23:08 UTC]** Eleições 2026: veja como foi a agenda dos candidatos ao governo do Acre nesta segunda-feira (31)
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-como-foi-a-agenda-dos-candidatos-ao-governo-do-acre-nesta-segunda-feira-31.ghtml)_
 
+- **[2026-09-01 10:00 UTC]** O que se sabe sobre acidente que matou três pessoas em saída de festa no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/o-que-se-sabe-sobre-acidente-que-matou-tres-pessoas-em-saida-de-festa-no-acre.ghtml)_
+
