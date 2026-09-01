@@ -315,3 +315,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 22:10 UTC]** “Fora, Moraes” deve ser entoado em manifestações do 7 de Setembro na Paulista
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fora-moraes-deve-ser-entoado-em-manifestacoes-do-7-de-setembro-na-paulista/)_
 
+- **[2026-09-01 22:00 UTC]** Vorcaro mandava priorizar pagamentos a escritório de esposa de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-mandava-priorizar-pagamentos-escritorio-esposa-moraes/)_
+
