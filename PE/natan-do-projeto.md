@@ -113,3 +113,6 @@
 - **[2026-08-25 22:47 UTC]** Câmara de Aracaju aprova projeto que regulamenta estações de recarga para veículos elétricos
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/25/camara-de-aracaju-aprova-projeto-que-regulamenta-estacoes-de-recarga-para-veiculos-eletricos.ghtml)_
 
+- **[2026-09-01 03:00 UTC]** Orçamento 2027: salário mínimo, previsão de contas no azul, reajuste limitado a servidores e 'imposto do pecado'; veja destaques do projeto
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml)_
+
