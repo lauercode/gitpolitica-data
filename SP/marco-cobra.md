@@ -29,3 +29,6 @@
 - **[2026-08-31 19:27 UTC]** Justiça de SP devolve pedido sobre produtora de 'Dark Horse' e cobra provas da polícia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/justica-de-sp-devolve-pedido-sobre-produtora-de-dark-horse-e-cobra-provas-da-policia.shtml)_
 
+- **[2026-09-01 19:25 UTC]** OAB cobra investigação “rigorosa” sobre relação de Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-cobra-investigacao-rigorosa-sobre-relacao-de-vorcaro-e-moraes/)_
+
