@@ -38,3 +38,6 @@
 - **[2026-08-31 22:00 UTC]** Não se pode enterrar dinheiro do contribuinte nos Correios
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/nao-se-pode-enterrar-dinheiro-do-contribuinte-nos-correios.shtml)_
 
+- **[2026-09-01 11:46 UTC]** Orçamento de 2027 terá R$ 6 bi nos Correios e salário mínimo de R$ 1.741
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/orcamento-2027-6-bi-correios-salario-minimo-1-741/)_
+
