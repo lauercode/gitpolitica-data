@@ -222,3 +222,6 @@ Diretor
 - **[2026-08-31 23:41 UTC]** Câmara aprova autonomia de escolas para ajustar calendário na Copa do Mundo Feminina
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301485-camara-aprova-autonomia-de-escolas-para-ajustar-calendario-na-copa-do-mundo-feminina)_
 
+- **[2026-08-31 23:29 UTC]** Câmara aprova adesão do Brasil a acordo internacional para combater pesca ilegal
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301479-camara-aprova-adesao-do-brasil-a-acordo-internacional-para-combater-pesca-ilegal)_
+
