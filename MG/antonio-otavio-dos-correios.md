@@ -32,3 +32,6 @@
 - **[2026-08-25 12:30 UTC]** PF realiza operação contra grupo suspeito de enviar drogas pelos Correios no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/25/pf-realiza-operacao-contra-grupo-suspeito-de-enviar-drogas-pelos-correios-no-rn.ghtml)_
 
+- **[2026-08-31 23:00 UTC]** Congresso discute exclusividade dos Correios em encomendas isentas da taxa das blusinhas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/congresso-discute-exclusividade-dos-correios-em-encomendas-isentas-da-taxa-das-blusinhas.shtml)_
+
