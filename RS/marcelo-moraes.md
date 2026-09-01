@@ -285,3 +285,6 @@
 plenário do STF analise mensagens entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-01 23:08 UTC]** Após manifestação da PGR, Mendonça deve levar relatório sobre Moraes e Vorcaro ao plenário do STF na próxima semana
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/01/mendonca-moraes-vorcaro-stf.ghtml)_
+
