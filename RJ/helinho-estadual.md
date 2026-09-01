@@ -50,3 +50,6 @@
 - **[2026-09-01 20:00 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-amapa.ghtml)_
 
+- **[2026-09-01 19:56 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-amazonas.ghtml)_
+
