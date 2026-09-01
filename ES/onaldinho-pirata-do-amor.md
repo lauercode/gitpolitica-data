@@ -32,3 +32,6 @@
 - **[2026-09-01 15:30 UTC]** É forte, mas submissa, diz Rayssa Bratillieri sobre Salma, de 'A Nobreza do Amor'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/e-forte-mas-submissa-diz-rayssa-bratillieri-sobre-salma-de-a-nobreza-do-amor.shtml)_
 
+- **[2026-09-01 18:15 UTC]** Veja como fazer morango cravejado, primo do morango do amor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/09/veja-como-fazer-morango-cravejado-primo-do-morango-do-amor.shtml)_
+
