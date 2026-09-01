@@ -107,3 +107,6 @@
 - **[2026-09-01 12:22 UTC]** Mendonça pede explicações à PGR sobre mensagem a Moraes que cita suposta proteção de Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mendonca-pede-explicacoes-a-pgr-sobre-mensagem-a-moraes-que-cita-suposta-protecao-a-vorcaro.ghtml)_
 
+- **[2026-09-01 14:58 UTC]** Moraes teria editado contrato de R$ 131 milhões de Viviane com Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-teria-editado-contrato-de-r-131-milhoes-de-viviane-com-vorcaro/)_
+
