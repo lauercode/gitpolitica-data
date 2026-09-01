@@ -92,3 +92,6 @@
 - **[2026-09-01 08:00 UTC]** Cidade de SC conclui maior alargamento de praias do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cidade-de-santa-catarina-amplia-88-km-de-praias-e-conclui-maior-obra-de-alargamento-de-orla-no-brasil.shtml)_
 
+- **[2026-09-01 06:01 UTC]** Ventos de até 70 km/h causam estragos em cidade no interior de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/capital-paulista-tem-alerta-para-alagamentos-em-todas-as-regioes.shtml)_
+
