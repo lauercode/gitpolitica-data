@@ -23,3 +23,6 @@
 - **[2026-08-26 12:38 UTC]** Presidente da Câmara destaca transparência e pluralidade como pilares da democracia
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300276-presidente-da-camara-destaca-transparencia-e-pluralidade-como-pilares-da-democracia)_
 
+- **[2026-09-01 01:05 UTC]** Lula sela pacto com Hugo Motta e Alcolumbre para destravar projetos no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-sela-pacto-com-hugo-motta-e-alcolumbre-para-destravar-projetos-no-congresso/)_
+
