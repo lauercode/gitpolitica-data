@@ -47,3 +47,6 @@
 - **[2026-09-01 14:22 UTC]** Moraes e Vorcaro se encontraram pelo menos seis vezes, indicam mensagens
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/moraes-e-vorcaro-se-encontraram-pelo-menos-seis-vezes-indicam-mensagens.shtml)_
 
+- **[2026-09-01 18:37 UTC]** Moraes no caso Master: o que mostram as mensagens entre o ministro do STF e Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss)_
+
