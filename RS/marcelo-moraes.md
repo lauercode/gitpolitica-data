@@ -281,3 +281,7 @@
 - **[2026-09-01 23:21 UTC]** Mendonça deve liberar caso de mensagens entre Moraes e Vorcaro para plenário do STF na semana que vem
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/01/mendonca-deve-liberar-caso-de-mensagens-entre-moraes-e-vorcaro-na-semana-que-vem.ghtml)_
 
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insisitir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
