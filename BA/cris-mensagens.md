@@ -32,3 +32,6 @@
 - **[2026-09-01 17:50 UTC]** Relatório da PF sobre mensagens de Vorcaro aponta vários encontros do dono do Master com Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-sobre-mensagens-de-vorcaro-aponta-varios-encontros-do-dono-do-master-com-moraes.ghtml)_
 
+- **[2026-09-01 17:45 UTC]** Mensagens revelam tratativas de Vorcaro para custeio de viagens de Andrei e Gonet a Londres
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mensagens-revelam-tratativas-para-custeio-de-viagens-a-londres.ghtml)_
+
