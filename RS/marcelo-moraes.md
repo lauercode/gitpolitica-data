@@ -269,3 +269,6 @@
 - **[2026-09-01 20:00 UTC]** PF aponta que Vorcaro negociou cotas de jatinho em contrato de R$ 50 milhões com mulher de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-aponta-escritorio-mulher-moraes-teria-negociado-contrato-50-milhoes/)_
 
+- **[2026-09-01 20:15 UTC]** Como PF recuperou prints apagados de Vorcaro e identificou contato atribuído a ministro Alexandre de Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c99dnrkvnr1o?at_medium=RSS&at_campaign=rss)_
+
