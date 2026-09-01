@@ -134,3 +134,6 @@
 - **[2026-09-01 11:24 UTC]** Cury sacode a poeira da disputa engessada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/cury-sacode-a-poeira-da-disputa-engessada.shtml)_
 
+- **[2026-09-01 12:37 UTC]** Cury é a terceira via que veio para ficar?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/cury-e-a-terceira-via-que-veio-para-ficar.shtml)_
+
