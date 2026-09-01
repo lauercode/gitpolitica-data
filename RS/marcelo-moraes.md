@@ -221,3 +221,6 @@
 - **[2026-09-01 20:05 UTC]** Como PF recuperou mensagens de Vorcaro a Moraes mesmo com visualização única
   _fonte: [G1 - Política:](https://g1.globo.com/tecnologia/noticia/2026/09/01/mensagens-visualizacao-unica-vorcaro-moraes.ghtml)_
 
+- **[2026-09-01 19:17 UTC]** Relação entre Vorcaro e Moraes: VEJA LISTA e ENTENDA as principais revelações do relatório da PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-e-moraes-veja-as-principais-revelacoes-do-relatorio-da-pf.ghtml)_
+
