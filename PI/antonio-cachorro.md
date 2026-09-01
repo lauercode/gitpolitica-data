@@ -29,3 +29,6 @@
 - **[2026-08-31 22:20 UTC]** Letícia Sabatella e Daniel Dantas reencontram cachorro após mais de um ano de disputa judicial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/leticia-sabatella-e-daniel-dantas-reencontram-cachorro-apos-mais-de-um-ano-de-disputa-judicial.shtml)_
 
+- **[2026-09-01 14:43 UTC]** Polícia Civil investiga maus-tratos contra cachorro arrastado por moto na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/policia-civil-investiga-maus-tratos-contra-cachorro-arrastado-por-moto-na-paraiba.ghtml)_
+
