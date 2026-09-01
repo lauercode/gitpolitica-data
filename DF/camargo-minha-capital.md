@@ -56,3 +56,6 @@
 - **[2026-08-31 19:55 UTC]** Homicídios e roubos caem em SP em julho; estupros aumentam na capital e no estado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/homicidios-e-roubos-caem-em-sp-em-julho-estupros-aumentam-na-capital-e-no-estado.shtml)_
 
+- **[2026-09-01 06:01 UTC]** Capital paulista tem alerta para alagamentos na madrugada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/capital-paulista-tem-alerta-para-alagamentos-em-todas-as-regioes.shtml)_
+
