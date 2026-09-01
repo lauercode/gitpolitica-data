@@ -128,3 +128,6 @@
 - **[2026-08-31 22:48 UTC]** Omissão como a de Renan Santos e erros em registros de candidatos se repetem e geram distorção nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/omissao-como-a-de-renan-santos-e-erros-em-registros-de-candidatos-se-repetem-e-geram-distorcao-nas-redes.shtml)_
 
+- **[2026-08-31 22:00 UTC]** 'Renan Santos pode ter falas estapafúrdias, mas a proibição soa ditatorial', diz leitor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/renan-santos-pode-ter-falas-estapafurdias-mas-a-proibicao-soa-ditatorial-diz-leitor.shtml)_
+
