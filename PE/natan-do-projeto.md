@@ -137,3 +137,6 @@
 - **[2026-09-01 13:39 UTC]** Projeto garante acesso gratuito a serviços digitais do governo
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301328-projeto-garante-acesso-gratuito-a-servicos-digitais-do-governo)_
 
+- **[2026-09-01 15:05 UTC]** Projeto abre vagas gratuitas em empreendedorismo digital no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/01/projeto-abre-vagas-gratuitas-em-empreendedorismo-digital-no-para.ghtml)_
+
