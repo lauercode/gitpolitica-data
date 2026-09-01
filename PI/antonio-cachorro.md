@@ -32,3 +32,6 @@
 - **[2026-09-01 14:43 UTC]** Polícia Civil investiga maus-tratos contra cachorro arrastado por moto na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/policia-civil-investiga-maus-tratos-contra-cachorro-arrastado-por-moto-na-paraiba.ghtml)_
 
+- **[2026-09-01 16:17 UTC]** VÍDEO: Mulher é atropelada enquanto passeava com cachorro em Mossoró; motorista é preso
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/mulher-e-atropelada-enquanto-passeava-com-cachorro-em-mossoro-motorista-foi-preso-apos-fugir-sem-prestar-socorro.ghtml)_
+
