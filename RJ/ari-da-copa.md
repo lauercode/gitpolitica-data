@@ -44,3 +44,6 @@
 - **[2026-08-31 23:41 UTC]** Câmara aprova autonomia de escolas para ajustar calendário na Copa do Mundo Feminina
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301485-camara-aprova-autonomia-de-escolas-para-ajustar-calendario-na-copa-do-mundo-feminina)_
 
+- **[2026-08-31 23:00 UTC]** Quartas da Copa do Brasil tem Santos em busca de virada e dois clássicos empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/quartas-da-copa-do-brasil-tem-santos-em-busca-de-virada-e-dois-classicos-empatados.shtml)_
+
