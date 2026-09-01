@@ -17,3 +17,6 @@
 - **[2026-08-31 20:32 UTC]** Alerta de ‘tempestade de neve’ no Waze surpreende motoristas em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/31/alerta-de-tempestade-de-neve-no-waze-surpreende-motoristas-em-sao-luis.ghtml)_
 
+- **[2026-09-01 10:55 UTC]** Trabalhador morre após ser atingido por raio durante tempestade, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/trabalhador-morre-apos-ser-atingido-por-raio-durante-tempestade-no-parana.ghtml)_
+
