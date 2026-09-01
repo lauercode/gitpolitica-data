@@ -26,3 +26,6 @@
 - **[2026-09-01 19:49 UTC]** Relatório da PF cita pedido a Gonet para fazer candidato desistir de disputa pelo comando de conselho de procuradores
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-cita-pedido-a-gonet-para-fazer-candidato-desistir-de-disputa-pelo-comando-de-conselho-de-procuradores.ghtml)_
 
+- **[2026-09-01 17:53 UTC]** Conselho veta uso de IA sem supervisão para alunos até o 5º ano do fundamental
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/conselho-veta-uso-de-ia-sem-supervisao-para-alunos-ate-o-5o-ano-do-fundamental.shtml)_
+
