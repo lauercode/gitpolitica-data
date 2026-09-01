@@ -116,3 +116,6 @@
 - **[2026-09-01 03:00 UTC]** Orçamento 2027: salário mínimo, previsão de contas no azul, reajuste limitado a servidores e 'imposto do pecado'; veja destaques do projeto
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml)_
 
+- **[2026-09-01 11:16 UTC]** Bienal do Livro tem novo projeto para incentivar leitura no Brasil
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/bienal-do-livro-tem-novo-projeto-para-incentivar-leitura-no-brasil)_
+
