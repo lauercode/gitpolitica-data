@@ -260,3 +260,6 @@
 - **[2026-08-31 21:29 UTC]** Confira como foi a segunda-feira (31) dos candidatos a presidente
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-segunda-feira-31-dos-candidatos-presidente)_
 
+- **[2026-09-01 03:01 UTC]** VÍDEO: Por que o mandato de senador dura 8 anos, e o de presidente e deputados, 4?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/01/video-tempo-de-mandato-senador-deputado-presidente.ghtml)_
+
