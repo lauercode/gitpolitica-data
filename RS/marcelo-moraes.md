@@ -191,3 +191,6 @@
 - **[2026-09-01 18:06 UTC]** Vorcaro perguntou a Moraes se deveria “estar fora” dois dias antes de ser preso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-perguntou-a-moraes-se-deveria-estar-fora-dois-dias-antes-de-ser-preso/)_
 
+- **[2026-09-01 17:18 UTC]** Bastidores do STF: André Mendonça reúne apoio para investigação contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bastidores-do-stf-andre-mendonca-reune-apoio-para-investigacao-contra-moraes/)_
+
