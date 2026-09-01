@@ -83,3 +83,6 @@
 - **[2026-09-01 20:49 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-roraima.ghtml)_
 
+- **[2026-09-01 20:52 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-santa-catarina.ghtml)_
+
