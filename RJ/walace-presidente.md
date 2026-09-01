@@ -263,3 +263,6 @@
 - **[2026-09-01 03:01 UTC]** VÍDEO: Por que o mandato de senador dura 8 anos, e o de presidente e deputados, 4?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/01/video-tempo-de-mandato-senador-deputado-presidente.ghtml)_
 
+- **[2026-09-01 10:03 UTC]** Pesquisa Real Time Big Data mostra como está eleição para presidente; veja números
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-presidente-setembro-2026/)_
+
