@@ -134,3 +134,6 @@
 - **[2026-09-01 16:56 UTC]** Amigos e familiares se despedem de ex-vocalista da Banda Calcinha Preta em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/amigos-e-familiares-se-despedem-de-ex-vocalista-da-banda-calcinha-preta-em-sergipe.ghtml)_
 
+- **[2026-09-01 15:05 UTC]** Saiba quem era ex-vocalista da Banda Calcinha Preta que morreu enquanto aguardava por transplante de rim em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/saiba-quem-era-ex-vocalista-da-banda-calcinha-preta-que-morreu-em-sergipe.ghtml)_
+
