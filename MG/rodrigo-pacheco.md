@@ -20,3 +20,6 @@
 - **[2026-08-31 18:49 UTC]** Bruno Dantas renuncia ao cargo de ministro do TCU e abre espaço para Rodrigo Pacheco
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bruno-dantas-renuncia-cargo-ministro-tcu-abre-espaco-rodrigo-pacheco/)_
 
+- **[2026-09-01 01:33 UTC]** Alcolumbre indica Rodrigo Pacheco para vaga no TCU após saída de Bruno Dantas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/alcolumbre-indica-pacheco-para-vaga-no-tcu-apos-saida-de-bruno-dantas.ghtml)_
+
