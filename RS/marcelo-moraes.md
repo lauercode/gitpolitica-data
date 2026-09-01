@@ -321,3 +321,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 21:31 UTC]** Mensagens sugerem encontro de Moraes com Vorcaro um dia antes da prisão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-sugerem-encontro-de-moraes-com-vorcaro-um-dia-antes-da-prisao/)_
 
+- **[2026-09-01 22:34 UTC]** Flávio e Caiado pedem saída de Moraes, Zema defende prisão e Cury propõe mandato no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-saida-de-moraes-zema-defende-prisao-e-cury-propoe-mandato-no-stf/)_
+
