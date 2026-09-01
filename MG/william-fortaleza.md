@@ -68,3 +68,6 @@
 - **[2017-07-26 16:58 UTC]** MEC disponibiliza vagas do FIES para Universidade de Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/07/mec-disponibiliza-vagas-do-fies-para-universidade-de-fortaleza.html)_
 
+- **[2026-08-31 22:47 UTC]** Câmara aprova criação de 51 cargos no Tribunal Regional do Trabalho em Fortaleza
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301465-camara-aprova-criacao-de-51-cargos-no-tribunal-regional-do-trabalho-em-fortaleza)_
+
