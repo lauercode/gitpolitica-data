@@ -59,3 +59,6 @@
 - **[2026-09-01 18:32 UTC]** Calor em Rondônia: veja quais as cidades que registraram as maiores temperaturas do ano
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/calor-em-rondonia-veja-quais-as-cidades-que-registraram-as-maiores-temperaturas-do-ano.ghtml)_
 
+- **[2026-09-01 20:47 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-rondonia.ghtml)_
+
