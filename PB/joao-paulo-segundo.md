@@ -140,3 +140,6 @@
 - **[2026-08-21 20:18 UTC]** Homem é preso por homicídio em Porto Velho; segundo suspeito é procurado
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/homem-e-preso-por-homicidio-em-porto-velho-segundo-suspeito-e-procurado.ghtml)_
 
+- **[2026-09-01 09:13 UTC]** PIB do Brasil cresce 0,5% no segundo trimestre, mostra IBGE
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge)_
+
