@@ -50,3 +50,6 @@
 - **[2026-08-26 12:04 UTC]** Delegado e investigador do AM são presos em operação que investiga roubo de R$ 800 mil e ouro em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/delegado-e-investigador-do-am-sao-presos-em-operacao-que-investiga-roubo-de-800-mil-e-ouro-em-roraima.ghtml)_
 
+- **[2026-09-01 00:09 UTC]** MP entra com ação por improbidade administrativa contra delegado e agentes da Polícia Civil presos por tráfico de drogas, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/mp-entra-com-acao-por-improbidade-administrativa-contra-delegado-e-agentes-da-policia-civil-presos-por-trafico-de-drogas-na-pb.ghtml)_
+
