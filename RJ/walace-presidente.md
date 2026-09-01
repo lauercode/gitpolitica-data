@@ -269,3 +269,6 @@
 - **[2026-09-01 08:32 UTC]** Entenda as diferenças entre as funções do presidente e do governador
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/entenda-diferencas-entre-funcoes-do-presidente-e-do-governador)_
 
+- **[2026-09-01 11:09 UTC]** Ex-presidente do STJ César Asfor Rocha lança livro em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/ex-presidente-do-stj-cesar-asfor-rocha-lanca-livro-em-sp.shtml)_
+
