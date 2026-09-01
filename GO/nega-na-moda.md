@@ -23,3 +23,6 @@
 - **[2026-09-01 09:00 UTC]** Grafismo marajoara: artesanato do Pará vira coleção de calçados e estreia na Semana de Moda de Milão
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/01/grafismo-marajoara-artesanato-do-para-vira-colecao-de-calcados-e-estreia-na-semana-de-moda-de-milao.ghtml)_
 
+- **[2026-09-01 19:20 UTC]** A importância de desacelerar e o que a moda tem a ver com isso
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/09/01/a-importancia-de-desacelerar-e-o-que-a-moda-tem-a-ver-com-isso.ghtml)_
+
