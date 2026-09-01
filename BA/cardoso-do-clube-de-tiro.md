@@ -23,3 +23,6 @@
 - **[2026-09-01 03:01 UTC]** Disparo que atingiu homem dentro de clube de tiro no PR foi provocado por 'sequência de falhas nas regras básicas de segurança', aponta delegado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/disparo-que-atingiu-homem-dentro-de-clube-de-tiro-no-pr-foi-provocado-por-sequencia-de-falhas-nas-regras-basicas-de-seguranca-aponta-delegado.ghtml)_
 
+- **[2026-09-01 14:02 UTC]** Homem atingido por disparo acidental em clube de tiro no Paraná era amigo do atirador
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/homem-atingido-por-disparo-acidental.ghtml)_
+
