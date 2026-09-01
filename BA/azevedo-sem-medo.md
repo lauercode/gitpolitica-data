@@ -35,3 +35,6 @@
 - **[2026-08-28 17:15 UTC]** Estampas sem medo: como usar e combinar padronagens no visual
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/08/28/estampas-sem-medo-como-usar-e-combinar-padronagens-no-visual.ghtml)_
 
+- **[2026-09-01 17:48 UTC]** Insegurança leva prejuízo a famílias, e 77% relatam custos adicionais por medo da violência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/inseguranca-leva-prejuizo-a-familias-e-77-relatam-custos-adicionais-por-medo-da-violencia.shtml)_
+
