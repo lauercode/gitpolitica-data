@@ -329,3 +329,6 @@
 - **[2026-09-01 21:21 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Rio Grande do Norte
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-rio-grande-do-norte.ghtml)_
 
+- **[2026-09-01 20:18 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Rio Grande do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-rio-grande-do-sul.ghtml)_
+
