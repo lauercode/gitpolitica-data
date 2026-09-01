@@ -92,3 +92,6 @@
 - **[2026-09-01 05:00 UTC]** Podcast analisa o avanço de Trump sobre o petróleo da Venezuela
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-analisa-o-avanco-de-trump-sobre-o-petroleo-da-venezuela.shtml)_
 
+- **[2026-09-01 11:33 UTC]** Acordo de Trump sobre petróleo da Venezuela reacende temor de neocolonialismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acordo-de-trump-sobre-petroleo-da-venezuela-reacende-temor-de-neocolonialismo.shtml)_
+
