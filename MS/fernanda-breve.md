@@ -17,3 +17,6 @@
 - **[2026-08-30 12:00 UTC]** Podemos em breve ter a tecnologia necessária para alcançar outros sistemas estelares
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/podemos-em-breve-ter-a-tecnologia-necessaria-para-alcancar-outros-sistemas-estelares.shtml)_
 
+- **[2026-09-01 20:15 UTC]** Governo ouve sociedade civil e deve tomar decisão sobre bets em breve
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/governo-ouve-sociedade-civil-e-deve-tomar-decisao-sobre-bets-em-breve)_
+
