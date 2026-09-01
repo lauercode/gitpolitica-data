@@ -110,3 +110,6 @@
 - **[2026-09-01 14:58 UTC]** Moraes teria editado contrato de R$ 131 milhões de Viviane com Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-teria-editado-contrato-de-r-131-milhoes-de-viviane-com-vorcaro/)_
 
+- **[2026-09-01 18:23 UTC]** Esposa de Moraes tinha segundo contrato com empresa de Vorcaro; banqueiro tentou pagar R$ 50 mi com aeronaves
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/esposa-de-moraes-tinha-segundo-contrato-com-empresa-de-vorcaro-banqueiro-tentou-pagar-r-50-mi-com-aeronaves.ghtml)_
+
