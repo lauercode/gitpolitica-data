@@ -38,3 +38,6 @@
 - **[2026-08-27 10:56 UTC]** Professora morre após ser atropelada por caminhão-caçamba na BR-316, em Bacabal
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/27/professora-morre-apos-ser-atropelada-por-caminhao-cacamba-na-br-316-em-bacabal.ghtml)_
 
+- **[2026-09-01 01:59 UTC]** Eleições 2026: Professora Maria do Carmo se reúne com apoiadoras e fala sobre combate à violência contra a mulher
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-professora-maria-do-carmo-se-reune-com-apoiadoras-e-fala-sobre-combate-a-violencia-contra-a-mulher.ghtml)_
+
