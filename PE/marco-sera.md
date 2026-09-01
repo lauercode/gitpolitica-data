@@ -80,3 +80,6 @@
 - **[2026-09-01 07:00 UTC]** Entre os Bolsonaros, a mais longeva na política será Michelle
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-toniol/2026/09/entre-os-bolsonaros-a-mais-longeva-na-politica-sera-michelle.shtml)_
 
+- **[2026-09-01 14:08 UTC]** Previsão do tempo para o Paraná: após tempestades e formação de ciclone, destaque será o frio e a possibilidade de geadas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/previsao-do-tempo-para-o-parana-apos-tempestades-e-formacao-de-ciclone-destaque-sera-o-frio-e-a-possibilidade-de-geadas.ghtml)_
+
