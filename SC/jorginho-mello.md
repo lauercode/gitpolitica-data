@@ -20,3 +20,6 @@
 - **[2026-08-25 22:17 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras em Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-em-sc-jorginho-mello-visita-obras-em-florianopolis.ghtml)_
 
+- **[2026-09-01 22:28 UTC]** Eleições 2026 em SC: Jorginho Mello visita hospital e conversa com funcionários e apoiadores
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-em-sc-jorginho-mello-visita-hospital-e-conversa-com-funcionarios.ghtml)_
+
