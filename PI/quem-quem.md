@@ -182,3 +182,6 @@
 - **[2026-09-01 14:30 UTC]** Delator de irregularidades na compra de vacinas da Covid é quem mais doou para própria campanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/delator-de-irregularidades-na-compra-de-vacinas-da-covid-e-quem-mais-doou-para-propria-campanha.shtml)_
 
+- **[2026-09-01 17:18 UTC]** Quem é Cíntia Chagas, nova namorada de Rubens Barrichello
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/quem-e-cintia-chagas-nova-namorada-de-rubens-barrichello.shtml)_
+
