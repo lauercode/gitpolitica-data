@@ -26,3 +26,6 @@
 - **[2026-08-30 13:51 UTC]** Brasileira faz sucesso nos EUA com padaria sem funcionários, baseada na confiança dos clientes
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/30/brasileira-faz-sucesso-nos-eua-com-padaria-sem-funcionarios-baseada-na-confianca-dos-clientes.ghtml)_
 
+- **[2026-09-01 14:49 UTC]** Mendonça defende código de conduta para magistrados: 'Forma de preservar relação de confiança'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mendonca-defende-codigo-de-conduta-para-magistrados-forma-de-preservar-relacao-de-confianca.ghtml)_
+
