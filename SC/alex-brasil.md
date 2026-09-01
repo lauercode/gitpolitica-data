@@ -14,3 +14,6 @@
 - **[2026-08-28 15:44 UTC]** Fábrica fundada em SC produziu bilionária mais jovem do mundo e domina o top 5 de 'super ricos' do Brasil abaixo dos 30 anos
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/fabrica-de-sc-produziu-bilionaria-mais-jovem-do-mundo.ghtml)_
 
+- **[2026-09-01 08:00 UTC]** Cidade de SC conclui maior alargamento de praias do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cidade-de-santa-catarina-amplia-88-km-de-praias-e-conclui-maior-obra-de-alargamento-de-orla-no-brasil.shtml)_
+
