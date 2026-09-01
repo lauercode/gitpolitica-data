@@ -20,3 +20,6 @@
 - **[2026-08-17 22:21 UTC]** Delegado-geral investigado por fraude em concursos públicos reassume Polícia Civil em AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/17/delegado-geral-investigado-por-fraude-em-concursos-publicos-reassume-policia-civil-em-al.ghtml)_
 
+- **[2026-08-31 19:40 UTC]** Lula discute com Bachelet candidatura em crise para secretaria-geral da ONU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/lula-discute-com-bachelet-candidatura-em-crise-para-secretaria-geral-da-onu.shtml)_
+
