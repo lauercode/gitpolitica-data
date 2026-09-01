@@ -143,3 +143,6 @@
 - **[2026-09-01 16:43 UTC]** ‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes sobre deixar o país a dois dias de operação
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/acha-que-2a-tenho-que-estar-fora-pergunta-vorcaro-a-moraes-sobre-deixar-o-pais-a-dois-dias-de-operacao.ghtml)_
 
+- **[2026-09-01 15:54 UTC]** Moraes determina que armas de Bolsonaro sejam destruídas ou doadas a órgãos de segurança
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-determina-que-armas-de-bolsonaro-sejam-destruidas.ghtml)_
+
