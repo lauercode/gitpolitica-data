@@ -29,3 +29,6 @@
 - **[2026-08-30 23:00 UTC]** Mundo precisa pensar no dia seguinte a Donald Trump, diz ex-conselheiro da ONU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mundo-precisa-pensar-no-dia-seguinte-a-donald-trump-diz-ex-conselheiro-da-onu.shtml)_
 
+- **[2026-09-01 14:14 UTC]** Empresa de Donald Trump Jr. lidera rodada de US$ 1 bi da Polymarket
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresa-de-donald-trump-jr-lidera-rodada-de-us-1-bi-da-polymarket.shtml)_
+
