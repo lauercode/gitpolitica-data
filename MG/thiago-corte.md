@@ -29,3 +29,6 @@
 - **[2026-09-01 13:05 UTC]** Novo pedido de Mendonça explicita guerra no STF e coloca Master no centro da disputa de poder na Corte
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/01/caso-master-stf.ghtml)_
 
+- **[2026-09-01 12:07 UTC]** Candidata ao Senado, Teresa Surita apoia impeachments no STF e diz que Corte 'ultrapassou limites'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/candidata-ao-senado-teresa-surita-apoia-impeachments-no-stf-e-diz-que-corte-ultrapassou-limites.ghtml)_
+
