@@ -125,3 +125,6 @@
 - **[2026-09-01 17:50 UTC]** Relatório da PF sobre mensagens de Vorcaro aponta vários encontros do dono do Master com Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-sobre-mensagens-de-vorcaro-aponta-varios-encontros-do-dono-do-master-com-moraes.ghtml)_
 
+- **[2026-09-01 17:48 UTC]** Inquérito aponta que Moraes vetou participações em eventos em Londres organizados pelo Master; 'Alexandre morre se fizer isso', disse Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/inquerito-aponta-que-moraes-vetou-participacoes-em-eventos-em-londres-organiados-pelo-banco-master-alexandre-morre-se-fizer-isso-disse-vorcaro.ghtml)_
+
