@@ -182,3 +182,6 @@
 - **[2026-09-01 21:03 UTC]** Deputados iniciam votações do Plenário e aprovam urgência para dois projetos; acompanhe
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301835-deputados-iniciam-votacoes-do-plenario-e-aprovam-urgencia-para-dois-projetos-acompanhe)_
 
+- **[2026-09-01 16:51 UTC]** SP confirma dois novos casos de sarampo e total chega a 28 no estado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/sp-confirma-dois-novos-casos-de-sarampo-e-total-chega-a-28.shtml)_
+
