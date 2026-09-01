@@ -122,3 +122,6 @@
 - **[2026-08-31 23:55 UTC]** VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 31 de agosto de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-31-de-agosto-de-2026.ghtml)_
 
+- **[2026-09-01 00:56 UTC]** Joesley Batista influenciou Trump em medidas para conter preço da carne nos EUA, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/joesley-batista-influenciou-trump-em-medidas-para-conter-preco-da-carne-nos-eua-diz-jornal.shtml)_
+
