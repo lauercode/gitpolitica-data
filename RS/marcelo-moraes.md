@@ -254,3 +254,6 @@
 - **[2026-09-01 20:33 UTC]** Advogado de Trump chama de “inacreditáveis” novas revelações sobre Moraes e Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-de-trump-chama-de-inacreditaveis-novas-revelacoes-sobre-moraes-e-vorcaro/)_
 
+- **[2026-09-01 20:30 UTC]** Vorcaro organizou almoço para Moraes em hotel de luxo em Campos do Jordão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-organizou-almoco-moraes-hotel-luxo-campos-do-jordao/)_
+
