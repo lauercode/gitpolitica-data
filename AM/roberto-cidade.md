@@ -101,3 +101,6 @@
 - **[2026-09-01 11:22 UTC]** Justiça suspende gratificações de até 50% para servidores em cidade do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/justica-suspende-gratificacoes-de-ate-50percent-para-servidores-em-cidade-do-tocantins.ghtml)_
 
+- **[2026-09-01 20:35 UTC]** Cresol participa do Concred e debate o futuro do cooperativismo no campo e na cidade
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/01/cresol-participa-do-concred-e-debate-o-futuro-do-cooperativismo-no-campo-e-na-cidade.ghtml)_
+
