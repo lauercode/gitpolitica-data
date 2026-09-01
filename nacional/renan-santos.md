@@ -146,3 +146,6 @@
 - **[2026-09-01 14:53 UTC]** Flávio, Zema e Caiado criticam decisão de Toffoli contra Renan Santos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-zema-e-caiado-criticam-decisao-de-toffoli-contra-renan-santos/)_
 
+- **[2026-09-01 14:03 UTC]** Justiça bloqueia R$ 61,8 mil de Renan Santos por dívida trabalhista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-bloqueia-r-618-mil-de-renan-santos-por-divida-trabalhista/)_
+
