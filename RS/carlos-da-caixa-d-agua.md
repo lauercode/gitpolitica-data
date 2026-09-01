@@ -134,3 +134,6 @@
 - **[2026-09-01 16:01 UTC]** Jovem morre após ser esfaqueada em Água Doce do Maranhão; adolescente supeito do crime foi apreendido
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/jovem-morre-apos-ser-esfaqueada-em-agua-doce-do-maranhao-adolescente-supeito-do-crime-foi-apreendido.ghtml)_
 
+- **[2026-09-01 18:56 UTC]** Sabesp mantém redução noturna da pressão da água em 8 horas em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sabesp-mantem-reducao-noturna-da-pressao-da-agua-em-8-horas-em-sao-paulo.shtml)_
+
