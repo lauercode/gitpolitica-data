@@ -212,3 +212,6 @@
 - **[2026-09-01 16:31 UTC]** Mendonça quer levar ao plenário diálogos atribuídos a Vorcaro e Moraes
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-que-levar-ao-plenario-conversas-atribuidas-vorcaro-e-moraes)_
 
+- **[2026-09-01 15:24 UTC]** PGR deve se manifestar sobre supostas conversas entre Vorcaro e Moraes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pgr-deve-se-manifestar-sobre-supostas-conversas-entre-vorcaro-e-moraes)_
+
