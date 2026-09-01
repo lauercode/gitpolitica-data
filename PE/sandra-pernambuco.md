@@ -29,3 +29,6 @@
 - **[2018-07-10 14:07 UTC]** Governo abre matrículas para 40 mil vagas na educação de jovens e adultos em Pernambuco
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/governo-abre-matriculas-para-40-mil-vagas-na-educacao-de-jovens-e-adultos-em-pernambuco.ghtml)_
 
+- **[2026-09-01 18:14 UTC]** Prefeito de Granito, no sertão de Pernambuco, é acusado de violência doméstica por ex-mulher
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/prefeito-de-granito-no-sertao-de-pernambuco-e-acusado-de-violencia-domestica-por-ex-mulher.shtml)_
+
