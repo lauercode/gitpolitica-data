@@ -218,3 +218,6 @@
 - **[2026-09-01 17:02 UTC]** Grupo Rede Amazônica celebra 54 anos com missa no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/grupo-rede-amazonica-celebra-54-anos-com-missa-no-acre.ghtml)_
 
+- **[2026-09-01 16:26 UTC]** VÍDEO: Carro passa direto em passarela e cai dentro de córrego no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/video-carro-passa-direto-em-passarela-e-cai-dentro-de-corrego-no-acre.ghtml)_
+
