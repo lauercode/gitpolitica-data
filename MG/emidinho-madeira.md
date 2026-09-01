@@ -23,3 +23,6 @@
 - **[2026-08-26 12:37 UTC]** PF destrói acampamento de extração ilegal de madeira em Terra Indígena de RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/26/pf-destroi-acampamento-de-extracao-ilegal-de-madeira-em-terra-indigena-de-ro.ghtml)_
 
+- **[2026-09-01 13:59 UTC]** VÍDEO: incêndio destrói casa de madeira na Zona Norte de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/01/video-incendio-destroi-casa-de-madeira-na-zona-norte-de-macapa.ghtml)_
+
