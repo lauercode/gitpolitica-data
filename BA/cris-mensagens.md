@@ -56,3 +56,6 @@
 - **[2026-09-01 20:05 UTC]** Como PF recuperou mensagens de Vorcaro a Moraes mesmo com visualização única
   _fonte: [G1 - Política:](https://g1.globo.com/tecnologia/noticia/2026/09/01/mensagens-visualizacao-unica-vorcaro-moraes.ghtml)_
 
+- **[2026-09-01 18:25 UTC]** Entenda como a PF ligou mensagens de Vorcaro no WhatsApp a Moraes, mesmo com visualização única
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/entenda-como-a-pf-ligou-mensagens-de-vorcaro-no-whatsapp-a-moraes-mesmo-com-visualizacao-unica.shtml)_
+
