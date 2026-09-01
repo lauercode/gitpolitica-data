@@ -179,3 +179,6 @@
 - **[2026-09-01 15:49 UTC]** Carro parte ao meio após batida em poste em SC; homem morre e dois ficam feridos
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/carro-parte-ao-meio-batida-poste-em-sc-homem-morre.ghtml)_
 
+- **[2026-09-01 21:03 UTC]** Deputados iniciam votações do Plenário e aprovam urgência para dois projetos; acompanhe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301835-deputados-iniciam-votacoes-do-plenario-e-aprovam-urgencia-para-dois-projetos-acompanhe)_
+
