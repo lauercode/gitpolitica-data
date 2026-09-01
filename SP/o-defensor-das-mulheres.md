@@ -86,3 +86,6 @@
 - **[2026-09-01 12:27 UTC]** Botão do pânico é utilizado por 538 mulheres no Rio de Janeiro
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-09/botao-do-panico-e-utilizado-por-538-mulheres-no-rio-de-janeiro)_
 
+- **[2026-09-01 17:57 UTC]** No RS, Augusto Cury defende app para mulheres vítimas de violência, mas não cita uso de drones contra feminicídios
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/no-rs-augusto-cury-app-mulheres-vitimas-de-violencia-drones.ghtml)_
+
