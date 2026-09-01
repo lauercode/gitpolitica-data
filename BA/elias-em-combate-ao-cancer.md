@@ -50,3 +50,6 @@
 - **[2026-08-27 10:28 UTC]** Quem era Thalita Tavares, ex-apresentadora do Globo Esporte TO que morreu vítima de câncer
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/quem-era-thalita-tavares-ex-apresentadora-do-globo-esporte-to-que-morreu-vitima-de-cancer.ghtml)_
 
+- **[2026-08-31 23:57 UTC]** Câmara aprova prazo maior para empresa deduzir doações a entidades de combate ao câncer
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301494-camara-aprova-prazo-maior-para-empresa-deduzir-doacoes-a-entidades-de-combate-ao-cancer)_
+
