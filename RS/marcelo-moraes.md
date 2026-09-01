@@ -179,3 +179,6 @@
 - **[2026-09-01 10:03 UTC]** 'Acha que segunda já tenho que estar fora?', perguntou Vorcaro a Moraes 2 dias antes de prisão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-envia-a-pgr-mensagem-em-que-vorcaro-pede-protecao-de-gonet-e-de-chefe-da-pf.shtml)_
 
+- **[2026-09-01 18:32 UTC]** Vorcaro autorizou cartões de crédito com limite de R$ 300 mil para filhos de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-autorizou-cartoes-de-credito-com-limite-de-r-300-mil-para-filhos-de-moraes/)_
+
