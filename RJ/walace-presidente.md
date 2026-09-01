@@ -266,3 +266,6 @@
 - **[2026-09-01 10:03 UTC]** Pesquisa Real Time Big Data mostra como está eleição para presidente; veja números
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-presidente-setembro-2026/)_
 
+- **[2026-09-01 08:32 UTC]** Entenda as diferenças entre as funções do presidente e do governador
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/entenda-diferencas-entre-funcoes-do-presidente-e-do-governador)_
+
