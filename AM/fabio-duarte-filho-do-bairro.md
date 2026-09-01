@@ -38,3 +38,6 @@
 - **[2026-08-27 12:26 UTC]** Amigos são presos com drogas na casa da avó de um deles no bairro dos Estados, em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/27/amigos-sao-presos-com-drogas-na-casa-da-avo-de-um-deles-no-bairro-dos-estados-em-boa-vista.ghtml)_
 
+- **[2026-09-01 19:59 UTC]** Jovem é morto a tiros e motorista de aplicativo fica ferido no bairro Equatorial
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/01/jovem-e-morto-a-tiros-e-motorista-de-aplicativo-fica-ferido-no-bairro-equatorial.ghtml)_
+
