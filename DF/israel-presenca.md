@@ -26,3 +26,6 @@
 - **[2026-08-30 23:06 UTC]** Homem é morto a tiros em balneário de Palmas na presença da esposa e dos filhos
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/homem-e-morto-a-tiros-em-balneario-de-palmas-na-presenca-da-esposa-e-dos-filhos.ghtml)_
 
+- **[2026-09-01 23:06 UTC]** Moraes articulou presença de ministros do STF e STJ em evento de Vorcaro em Londres, diz PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-articulou-presenca-de-ministros-do-stf-e-stj-em-evento-de-vorcaro-em-londres-diz-pf.ghtml)_
+
