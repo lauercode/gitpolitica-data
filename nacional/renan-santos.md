@@ -152,3 +152,6 @@
 - **[2026-09-01 13:59 UTC]** “Ilegal, autoritária e ilícita”, diz ex-juiz sobre decisão contra Renan Santos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ilegal-autoritaria-e-ilicita-diz-ex-juiz-sobre-decisao-contra-renan/)_
 
+- **[2026-09-01 13:19 UTC]** YouTube e Instagram tiram contas de Renan Santos do ar no Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/youtube-e-instagram-tiram-contas-de-renan-santos-do-ar-no-brasil/)_
+
