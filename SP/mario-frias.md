@@ -11,3 +11,6 @@
 - **[2026-08-21 00:40 UTC]** Frente fria dá trégua ao calor e deixa manhãs e noites mais frias em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/20/frente-fria-da-tregua-ao-calor-e-deixa-manhas-e-noites-mais-frias-em-rondonia.ghtml)_
 
+- **[2026-09-01 01:25 UTC]** Mario Frias pede que caso sobre emendas para filme de Bolsonaro fique com Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-pede-que-caso-sobre-emendas-para-filme-de-bolsonaro-fique-com-mendonca/)_
+
