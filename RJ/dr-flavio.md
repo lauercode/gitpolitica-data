@@ -677,3 +677,6 @@
 - **[2026-09-01 10:25 UTC]** Eduardo Bolsonaro reage a ex-comandante da FAB após resposta a Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-bolsonaro-reage-a-ex-comandante-da-fab-apos-resposta-a-flavio/)_
 
+- **[2026-09-01 16:47 UTC]** Flávio Bolsonaro chama Moraes de 'advogado de Vorcaro' e diz que ministro pode não ter condições de seguir no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/flavio-bolsonaro-chama-moraes-de-advogado-de-vorcaro.ghtml)_
+
