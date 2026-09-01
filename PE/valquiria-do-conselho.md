@@ -29,3 +29,6 @@
 - **[2026-09-01 17:53 UTC]** Conselho veta uso de IA sem supervisão para alunos até o 5º ano do fundamental
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/conselho-veta-uso-de-ia-sem-supervisao-para-alunos-ate-o-5o-ano-do-fundamental.shtml)_
 
+- **[2026-09-01 18:35 UTC]** Einstein afasta Lottenberg do conselho após anúncio como futuro ministro de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/einstein-afasta-lottenberg-do-conselho-apos-anuncio-como-futuro-ministro-de-flavio.shtml)_
+
