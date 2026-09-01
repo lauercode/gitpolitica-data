@@ -20,3 +20,6 @@
 - **[2018-07-15 12:23 UTC]** Eventos e festa de Nossa Senhora do Carmo provocam interdições em vias do Recife
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/transito/noticia/eventos-e-festa-de-nossa-senhora-do-carmo-provocam-interdicoes-em-vias-do-recife.ghtml)_
 
+- **[2026-09-01 01:59 UTC]** Eleições 2026: Professora Maria do Carmo se reúne com apoiadoras e fala sobre combate à violência contra a mulher
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-professora-maria-do-carmo-se-reune-com-apoiadoras-e-fala-sobre-combate-a-violencia-contra-a-mulher.ghtml)_
+
