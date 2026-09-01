@@ -41,3 +41,6 @@
 - **[2026-08-20 23:32 UTC]** Dr. Furlan participa de caminhadas e visita espaços públicos em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/20/dr-furlan-participa-de-caminhadas-e-visita-espacos-publicos-em-macapa.ghtml)_
 
+- **[2026-08-31 22:58 UTC]** Dr. Furlan participa de caminhadas em Macapá e Santana
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/31/dr-furlan-participa-de-caminhadas-em-macapa-e-santana.ghtml)_
+
