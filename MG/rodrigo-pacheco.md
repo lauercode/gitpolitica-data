@@ -29,3 +29,6 @@
 - **[2026-09-01 09:23 UTC]** Alcolumbre oficializa indicação de Pacheco para o TCU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/alcolumbre-oficializa-indicacao-de-pacheco-para-o-tcu.shtml)_
 
+- **[2026-09-01 21:29 UTC]** Senado aprova indicação de Rodrigo Pacheco para o Tribunal de Contas da União
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/senado-aprova-indicacao-de-rodrigo-pacheco-para-o-tribunal-de-contas-da-uniao.ghtml)_
+
