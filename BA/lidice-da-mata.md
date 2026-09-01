@@ -74,3 +74,6 @@
 - **[2026-09-01 09:56 UTC]** Câmera de segurança flagra momento em que motorista atropela e mata ciclista em João Pessoa; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/camera-de-seguranca-flagra-momento-em-que-motorista-atropela-e-mata-ciclista-em-joao-pessoa-video.ghtml)_
 
+- **[2026-09-01 20:36 UTC]** Homem de 59 anos é encontrado morto a tiros dentro de carro em área de mata no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/01/homem-de-59-anos-e-encontrado-morto-a-tiros-dentro-de-carro-em-area-de-mata-no-para.ghtml)_
+
