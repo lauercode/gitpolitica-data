@@ -59,3 +59,6 @@
 - **[2026-09-01 18:25 UTC]** Entenda como a PF ligou mensagens de Vorcaro no WhatsApp a Moraes, mesmo com visualização única
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/entenda-como-a-pf-ligou-mensagens-de-vorcaro-no-whatsapp-a-moraes-mesmo-com-visualizacao-unica.shtml)_
 
+- **[2026-09-01 17:37 UTC]** Ex-ministro de Bolsonaro intermediou contato entre Vorcaro e Moraes: 'dá tempo de tomar um whisky', mostram mensagens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ex-ministro-de-bolsonaro-intermediou-contato-entre-vorcaro-e-moraes-da-tempo-de-tomar-um-whisky-mostram-mensagens.shtml)_
+
