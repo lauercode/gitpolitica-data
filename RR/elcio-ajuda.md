@@ -44,3 +44,6 @@
 - **[2026-08-28 20:10 UTC]** Mulher vai parar debaixo de ônibus após acidente e é resgatada com ajuda de pedestres no TO; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/mulher-vai-parar-debaixo-de-onibus-apos-acidente-e-e-resgatada-com-ajuda-de-pedestres-no-to-video.ghtml)_
 
+- **[2026-09-01 19:32 UTC]** Uso de tecnologia no campo ajuda agricultores na tomada de decisão em tempo real
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/riquezas-da-inovacao/noticia/2026/09/01/uso-de-tecnologia-no-campo-ajuda-agricultores-na-tomada-de-decisao-em-tempo-real.ghtml)_
+
