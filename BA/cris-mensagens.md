@@ -90,3 +90,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 21:31 UTC]** Mensagens sugerem encontro de Moraes com Vorcaro um dia antes da prisão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-sugerem-encontro-de-moraes-com-vorcaro-um-dia-antes-da-prisao/)_
 
+- **[2026-09-01 23:25 UTC]** Moraes no caso Master: o que mostram as mensagens atribuídas ao ministro do STF e Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss)_
+
