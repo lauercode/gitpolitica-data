@@ -80,3 +80,6 @@
 - **[2026-08-24 16:15 UTC]** Motociclista morre após batida frontal entre moto e caminhonete em cruzamento no TO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/motociclista-morre-apos-batida-frontal-entre-moto-e-caminhonete-em-cruzamento-no-to.ghtml)_
 
+- **[2026-09-01 13:00 UTC]** Motociclista fica gravemente ferido após passar por área isolada e ser atingido por árvore em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/01/motociclista-queda-arvore-curitiba.ghtml)_
+
