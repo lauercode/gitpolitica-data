@@ -288,3 +288,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 23:08 UTC]** Após manifestação da PGR, Mendonça deve levar relatório sobre Moraes e Vorcaro ao plenário do STF na próxima semana
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/01/mendonca-moraes-vorcaro-stf.ghtml)_
 
+- **[2026-09-01 23:06 UTC]** Moraes articulou presença de ministros do STF e STJ em evento de Vorcaro em Londres, diz PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-articulou-presenca-de-ministros-do-stf-e-stj-em-evento-de-vorcaro-em-londres-diz-pf.ghtml)_
+
