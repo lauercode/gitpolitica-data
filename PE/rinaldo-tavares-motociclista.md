@@ -83,3 +83,6 @@
 - **[2026-09-01 13:00 UTC]** Motociclista fica gravemente ferido após passar por área isolada e ser atingido por árvore em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/01/motociclista-queda-arvore-curitiba.ghtml)_
 
+- **[2026-09-01 15:36 UTC]** Motociclista morre em acidente com três veículos na BR-364 em Jaru, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/motociclista-morre-em-acidente-que-envolveu-tres-veiculos-na-br-364-em-jaru-ro.ghtml)_
+
