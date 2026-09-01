@@ -62,3 +62,6 @@
 - **[2026-09-01 03:00 UTC]** Orçamento 2027: salário mínimo, previsão de contas no azul, reajuste limitado a servidores e 'imposto do pecado'; veja destaques do projeto
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml)_
 
+- **[2026-09-01 11:22 UTC]** Justiça suspende gratificações de até 50% para servidores em cidade do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/justica-suspende-gratificacoes-de-ate-50percent-para-servidores-em-cidade-do-tocantins.ghtml)_
+
