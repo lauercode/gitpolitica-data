@@ -14,3 +14,6 @@
 - **[2026-08-27 22:21 UTC]** Quaest em Roraima: Arthur Henrique, 60%; Soldado Sampaio; 27%
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/27/quaest-roraima-governador-27-agosto.ghtml)_
 
+- **[2026-09-01 22:19 UTC]** Soldado Sampaio fala em garantir trafegabilidade para escoamento da produção rural em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/soldado-sampaio-fala-em-garantir-trafegabilidade-para-escoamento-da-producao-rural-em-roraima.ghtml)_
+
