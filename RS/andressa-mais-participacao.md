@@ -35,3 +35,6 @@
 - **[2026-09-01 18:22 UTC]** Projeto proíbe participação de crianças e adolescentes em atividades esportivas de alto risco
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300094-projeto-proibe-participacao-de-criancas-e-adolescentes-em-atividades-esportivas-de-alto-risco)_
 
+- **[2026-09-01 19:38 UTC]** Toffoli libera campanha digital de Renan Santos, repasses de recursos e participação em debates
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/toffoli-libera-campanha-digital-de-renan-santos.ghtml)_
+
