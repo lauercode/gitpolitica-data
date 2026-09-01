@@ -41,3 +41,6 @@
 - **[2026-09-01 16:02 UTC]** Familiares protestam na prefeitura de Parnamirim após morte de menino de 2 anos em UPA
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/familiares-protesto-prefeitura-parnamirim-morte-menino-upa.ghtml)_
 
+- **[2026-09-01 17:24 UTC]** Mãe do menino Miguel se forma em direito no Recife e homenageia filho em cerimônia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mae-do-menino-miguel-se-forma-em-direito-no-recife-e-homenageia-filho-em-cerimonia.shtml)_
+
