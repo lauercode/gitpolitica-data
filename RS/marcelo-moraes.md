@@ -263,3 +263,6 @@
 - **[2026-09-01 20:02 UTC]** Mendonça levará pedido de investigação contra Moraes ao plenário mesmo se PGR for contra
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-levara-pedido-de-investigacao-contra-moraes-ao-plenario-mesmo-se-pgr-for-contra/)_
 
+- **[2026-09-01 19:25 UTC]** OAB cobra investigação “rigorosa” sobre relação de Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-cobra-investigacao-rigorosa-sobre-relacao-de-vorcaro-e-moraes/)_
+
