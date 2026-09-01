@@ -56,3 +56,6 @@
 - **[2026-08-24 18:41 UTC]** Servidores participam de capacitação para usar IA no planejamento de compras públicas
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/sebrae-roraima-onde-tem-empreendedor-tem-sebrae/noticia/2026/08/24/servidores-participam-de-capacitacao-para-usar-ia-no-planejamento-de-compras-publicas.ghtml)_
 
+- **[2026-08-31 19:48 UTC]** Orçamento de 2027 limita reajuste real de servidores públicos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/orcamento-de-2027-limita-reajuste-real-de-servidores-publicos)_
+
