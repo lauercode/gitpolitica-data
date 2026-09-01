@@ -32,3 +32,6 @@
 - **[2017-05-09 12:03 UTC]** Sebrae atende a empreendedores dos bairros com unidade móvel
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/sebrae-atende-empreendedores-dos-bairros-com-unidade-movel.html)_
 
+- **[2026-09-01 11:32 UTC]** Vacinação antirrábica porta a porta passa por 5 bairros de Natal nesta semana; veja locais
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/vacinacao-antirrabica-porta-a-porta-passa-por-5-bairros-de-natal-nesta-semana-veja-locais.ghtml)_
+
