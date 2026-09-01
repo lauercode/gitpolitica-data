@@ -8,3 +8,6 @@
 - **[2026-08-25 22:33 UTC]** Eleições 2026 no RS: Juliana Brizola diz que vai priorizar combate à violência contra a mulher
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-no-rs-juliana-brizola-diz-que-vai-priorizar-combate-a-violencia-contra-a-mulher.ghtml)_
 
+- **[2026-08-31 22:14 UTC]** Eleições 2026 no RS: Juliana Brizola diz que programa Pró-Hospitais vai injetar R$ 1 bilhão para 'zerar fila' na Saúde
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-no-rs-juliana-brizola-diz-que-programa-pro-hospitais-vai-injetar-r-1-bilhao-para-zerar-fila-na-saude.ghtml)_
+
