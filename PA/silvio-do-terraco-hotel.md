@@ -20,3 +20,6 @@
 - **[2026-08-21 13:35 UTC]** Justiça condena hotel por não reembolsar cliente que cancelou viagem por urgência médica da mãe
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/21/justica-condena-hotel-reembolso-cliente-cancelou-viagem.ghtml)_
 
+- **[2026-09-01 12:00 UTC]** Vila de Marvão vigia o Alentejo com castelo, museu de arte sacra e Hotel Museu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/vila-de-marvao-vigia-o-alentejo-com-castelo-museu-de-arte-sacra-e-hotel-museu.shtml)_
+
