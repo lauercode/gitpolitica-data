@@ -47,3 +47,6 @@
 - **[2026-09-01 17:26 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-acre.ghtml)_
 
+- **[2026-09-01 20:00 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-amapa.ghtml)_
+
