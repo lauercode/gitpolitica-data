@@ -47,3 +47,6 @@
 - **[2026-09-01 06:29 UTC]** Avalanche entre Nepal e China deixou mais de 1.000 mortos; número de desaparecidos ultrapassa 4.000
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/avalanche-entre-nepal-e-china-deixou-mais-de-1000-mortos-numero-de-desaparecidos-ultrapassa-4000.shtml)_
 
+- **[2026-09-01 18:19 UTC]** Os minutos que antecederam a avalanche de lama na fronteira entre Nepal e China
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy4zvlyxjl7o?at_medium=RSS&at_campaign=rss)_
+
