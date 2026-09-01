@@ -104,3 +104,6 @@
 - **[2026-09-01 14:26 UTC]** Trump diz que acordos de paz com Irã não valem nada, e EUA atacam sul do país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eua-fazem-novo-ataque-contra-o-ira-apos-ameacas-de-trump.shtml)_
 
+- **[2026-09-01 20:33 UTC]** Advogado de Trump chama de “inacreditáveis” novas revelações sobre Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-de-trump-chama-de-inacreditaveis-novas-revelacoes-sobre-moraes-e-vorcaro/)_
+
