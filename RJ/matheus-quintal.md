@@ -17,3 +17,6 @@
 - **[2026-08-28 20:29 UTC]** VÍDEO: Onça parda assusta moradores ao aparecer em quintal de residência no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/onca-assusta-moradores-ao-aparecer-em-quintal-de-residencia-no-rs.ghtml)_
 
+- **[2026-09-01 23:43 UTC]** Homem é morto a tiros em quintal de residência em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/homem-e-morto-a-tiros-em-quintal-de-residencia-em-porto-velho.ghtml)_
+
