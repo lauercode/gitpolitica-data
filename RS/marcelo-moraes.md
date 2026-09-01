@@ -224,3 +224,6 @@
 - **[2026-09-01 19:17 UTC]** Relação entre Vorcaro e Moraes: VEJA LISTA e ENTENDA as principais revelações do relatório da PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-e-moraes-veja-as-principais-revelacoes-do-relatorio-da-pf.ghtml)_
 
+- **[2026-09-01 18:36 UTC]** Entenda o caso Master, as acusações e as conversas de Vorcaro com Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/01/entenda-o-caso-master.ghtml)_
+
