@@ -26,3 +26,6 @@
 - **[2026-09-01 15:26 UTC]** Hotel das Cataratas é eleito um dos 100 melhores do mundo pelo 50 Best
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/hotel-das-cataratas-conquista-mais-um-ano-de-presenca-no-ranking-50-best.shtml)_
 
+- **[2026-09-01 20:30 UTC]** Vorcaro organizou almoço para Moraes em hotel de luxo em Campos do Jordão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-organizou-almoco-moraes-hotel-luxo-campos-do-jordao/)_
+
