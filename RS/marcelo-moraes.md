@@ -251,3 +251,6 @@
 - **[2026-09-01 14:14 UTC]** Flávio, Zema e Caiado cobram afastamento de Moraes do STF após mensagens de Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-moraes-nao-tem-condicoes-de-continuar-no-stf-apos-mensagens-com-vorcaro.shtml)_
 
+- **[2026-09-01 20:33 UTC]** Advogado de Trump chama de “inacreditáveis” novas revelações sobre Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-de-trump-chama-de-inacreditaveis-novas-revelacoes-sobre-moraes-e-vorcaro/)_
+
