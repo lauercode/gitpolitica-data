@@ -41,3 +41,6 @@
 - **[2026-09-01 14:30 UTC]** PF realiza operação contra tráfico e lavagem de dinheiro no Nordeste
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/pf-realiza-operacao-contra-trafico-e-lavagem-de-dinheiro-no-nordeste)_
 
+- **[2026-09-01 13:00 UTC]** Domínio de facções faz da segurança principal preocupação do eleitor do Nordeste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dominio-de-faccoes-faz-da-seguranca-principal-preocupacao-do-eleitor-do-nordeste.shtml)_
+
