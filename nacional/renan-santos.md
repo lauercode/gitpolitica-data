@@ -131,3 +131,6 @@
 - **[2026-08-31 22:00 UTC]** 'Renan Santos pode ter falas estapafúrdias, mas a proibição soa ditatorial', diz leitor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/renan-santos-pode-ter-falas-estapafurdias-mas-a-proibicao-soa-ditatorial-diz-leitor.shtml)_
 
+- **[2026-08-31 21:55 UTC]** YouTube e Instagram derrubam contas de Renan Santos após decisão de Toffoli no TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/youtube-derruba-canal-de-renan-santos-apos-decisao-de-toffoli-no-tse.shtml)_
+
