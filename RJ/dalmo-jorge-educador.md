@@ -14,3 +14,6 @@
 - **[2018-07-13 18:47 UTC]** Educador infantil suspeito de estuprar filha no DF é preso em Fortaleza
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/df/distrito-federal/noticia/educador-infantil-suspeito-de-estuprar-filha-no-df-e-preso-em-fortaleza.ghtml)_
 
+- **[2026-08-31 19:35 UTC]** Conheça projetos finalistas do prêmio Educador Nota 10
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/conheca-projetos-finalistas-do-premio-educador-nota-10)_
+
