@@ -56,3 +56,6 @@
 - **[2026-09-01 16:41 UTC]** Acordo de petróleo com Venezuela dá aos EUA segurança energética e reduz espaço de China e Rússia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acordo-de-petroleo-com-venezuela-da-aos-eua-seguranca-energetica-e-reduz-espaco-de-china-e-russia.shtml)_
 
+- **[2026-09-01 15:44 UTC]** China prepara cúpula entre Xi, Trump e Putin, diz Rússia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/china-prepara-cupula-entre-xi-trump-e-putin-diz-russia.shtml)_
+
