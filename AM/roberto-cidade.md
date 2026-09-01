@@ -95,3 +95,6 @@
 - **[2026-09-01 06:01 UTC]** Ventos de até 70 km/h causam estragos em cidade no interior de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/capital-paulista-tem-alerta-para-alagamentos-em-todas-as-regioes.shtml)_
 
+- **[2026-09-01 13:46 UTC]** Eleições 2026: Roberto Cidade participa de entrevista e propõe reforçar segurança na Tríplice Fronteira
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-roberto-cidade-participa-de-entrevista-e-propoe-reforcar-seguranca-na-triplice-fronteira.ghtml)_
+
