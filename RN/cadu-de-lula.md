@@ -20,3 +20,6 @@
 - **[2026-08-24 22:29 UTC]** Quaest no RN: Allyson, 25%; Cadu de Lula, 21%; Álvaro Dias, 19%
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/08/24/quaest-rn-governador-24-de-agosto.ghtml)_
 
+- **[2026-09-01 21:56 UTC]** Cadu de Lula participa de caminhada e defende investimentos para gerar empregos no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/cadu-de-lula-participa-de-caminhada-e-defende-investimentos-para-gerar-empregos-no-rn.ghtml)_
+
