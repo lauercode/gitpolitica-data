@@ -38,3 +38,6 @@
 - **[2026-09-01 09:56 UTC]** Câmera de segurança flagra momento em que motorista atropela e mata ciclista em João Pessoa; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/camera-de-seguranca-flagra-momento-em-que-motorista-atropela-e-mata-ciclista-em-joao-pessoa-video.ghtml)_
 
+- **[2026-09-01 17:46 UTC]** Família de ciclista atropelado em João Pessoa relembra rotina da vítima e lamentam morte: ‘Eu estou sofrendo’, diz mãe
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/familia-de-ciclista-atropelado-em-joao-pessoa-relembra-rotina-da-vitima-e-lamentam-morte.ghtml)_
+
