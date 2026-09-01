@@ -119,3 +119,6 @@
 - **[2026-08-31 19:17 UTC]** Lula assina decretos para combater cambistas digitais e exigir água gratuita em shows
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/lula-assina-decretos-para-combater-cambistas-digitais-e-exigir-agua-gratuita-em-shows.shtml)_
 
+- **[2026-09-01 03:00 UTC]** Água gratuita, freio ao cambismo e taxa visível: veja o que muda nos ingressos com novo decreto sobre shows
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/agua-gratuita-freio-ao-cambismo-e-taxa-visivel-veja-o-que-muda-nos-ingressos-com-novo-decreto-sobre-shows.ghtml)_
+
