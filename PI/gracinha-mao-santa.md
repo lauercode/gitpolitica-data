@@ -41,3 +41,6 @@
 - **[2026-08-31 22:20 UTC]** Eleições 2026: veja todos os candidatos ao Senado por Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-senado-por-santa-catarina.ghtml)_
 
+- **[2026-09-01 20:52 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-santa-catarina.ghtml)_
+
