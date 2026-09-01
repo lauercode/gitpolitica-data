@@ -116,3 +116,6 @@
 - **[2026-08-31 22:20 UTC]** Renan Santos lembra era Dilma ao comentar decisão de Toffoli: “Retiramos uma quadrilha do poder”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-lembra-era-dilma-ao-comentar-decisao-de-toffoli-retiramos-uma-quadrilha-do-poder/)_
 
+- **[2026-08-31 22:17 UTC]** Renan Santos diz que decisão de Toffoli representa “cassação branca” de candidatura
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-diz-que-decisao-de-toffoli-representa-cassacao-branca-de-candidatura/)_
+
