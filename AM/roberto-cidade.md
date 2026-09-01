@@ -86,3 +86,6 @@
 - **[2026-09-01 00:46 UTC]** Mais de duas toneladas de drogas são apreendidas pela polícia em casa na Cidade das Luzes, em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/mais-de-duas-toneladas-de-drogas-sao-apreendidas-pela-policia-em-casa-na-cidade-das-luzes-em-manaus.ghtml)_
 
+- **[2026-09-01 04:15 UTC]** Cidade de SP tem alta nas ocorrências de roubo e furto de veículos pesados, mostra levantamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cidade-de-sp-tem-alta-nas-ocorrencias-de-roubo-e-furto-de-veiculos-pesados-mostra-levantamento.shtml)_
+
