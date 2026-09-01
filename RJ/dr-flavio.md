@@ -704,3 +704,6 @@
 - **[2026-09-01 17:03 UTC]** Lindbergh pede ao STF afastamento de Flávio do mandato de senador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lindbergh-pede-ao-stf-afastamento-de-flavio-do-mandato-de-senador.shtml)_
 
+- **[2026-09-01 14:14 UTC]** Flávio, Zema e Caiado cobram afastamento de Moraes do STF após mensagens de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-moraes-nao-tem-condicoes-de-continuar-no-stf-apos-mensagens-com-vorcaro.shtml)_
+
