@@ -83,3 +83,6 @@
 - **[2026-08-31 18:06 UTC]** Negociação está em novo cenário e Trump orientou a favor de buscar acordo com o Brasil, diz ministro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/negociacao-esta-em-novo-cenario-e-trump-orientou-a-favor-de-buscar-acordo-com-o-brasil-diz-ministro.shtml)_
 
+- **[2026-08-31 20:35 UTC]** Trump diz estar revisando posição dos EUA sobre soberania das Malvinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/trump-diz-estar-revisando-posicao-dos-eua-sobre-soberania-das-malvinas.shtml)_
+
