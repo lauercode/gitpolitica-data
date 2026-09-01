@@ -341,3 +341,6 @@
 - **[2026-09-01 19:55 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-santa-catarina.ghtml)_
 
+- **[2026-09-01 19:26 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-sergipe.ghtml)_
+
