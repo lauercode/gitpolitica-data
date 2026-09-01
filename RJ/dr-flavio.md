@@ -668,3 +668,6 @@
 - **[2026-08-31 23:19 UTC]** Crescimento de Cury entre cristãos atrapalha Flávio e Renan
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/08/crescimento-de-cury-entre-cristaos-atrapalha-flavio-e-renan.shtml)_
 
+- **[2026-09-01 11:42 UTC]** TSE deve multar campanha de Flávio por avatar de Bolsonaro e definir punição sobre uso de deepfake
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-deve-multar-campanha-de-flavio-por-avatar-de-bolsonaro-e-definir-punicao-sobre-uso-de-deepfake.shtml)_
+
