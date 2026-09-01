@@ -227,3 +227,6 @@
 - **[2026-09-01 18:36 UTC]** Entenda o caso Master, as acusações e as conversas de Vorcaro com Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/01/entenda-o-caso-master.ghtml)_
 
+- **[2026-09-01 16:47 UTC]** Flávio Bolsonaro chama Moraes de 'advogado de Vorcaro'; Zema diz que ministro 'merece cadeia', e Renan, que está 'envolvido até o pescoço'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/flavio-bolsonaro-chama-moraes-de-advogado-de-vorcaro.ghtml)_
+
