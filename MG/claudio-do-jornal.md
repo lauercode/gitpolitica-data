@@ -116,3 +116,6 @@
 - **[2026-08-24 17:02 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de segunda-feira, 24 de agosto de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-segunda-feira-24-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-31 23:39 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 31 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-31-de-agosto-de-2026.ghtml)_
+
