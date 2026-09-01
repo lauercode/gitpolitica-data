@@ -122,3 +122,6 @@
 - **[2026-09-01 18:22 UTC]** Projeto proíbe participação de crianças e adolescentes em atividades esportivas de alto risco
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300094-projeto-proibe-participacao-de-criancas-e-adolescentes-em-atividades-esportivas-de-alto-risco)_
 
+- **[2026-09-01 17:24 UTC]** Projeto fixa jornada de pedagogos em 30 horas semanais
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300096-projeto-fixa-jornada-de-pedagogos-em-30-horas-semanais)_
+
