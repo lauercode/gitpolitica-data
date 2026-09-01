@@ -674,3 +674,6 @@
 - **[2026-09-01 14:53 UTC]** Flávio, Zema e Caiado criticam decisão de Toffoli contra Renan Santos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-zema-e-caiado-criticam-decisao-de-toffoli-contra-renan-santos/)_
 
+- **[2026-09-01 10:25 UTC]** Eduardo Bolsonaro reage a ex-comandante da FAB após resposta a Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-bolsonaro-reage-a-ex-comandante-da-fab-apos-resposta-a-flavio/)_
+
