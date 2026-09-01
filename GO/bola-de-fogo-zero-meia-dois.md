@@ -167,3 +167,6 @@
 - **[2026-09-01 11:44 UTC]** Dois anos depois, mais quatro pessoas são presas  pela morte do dentista Clei Bagattini em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/quatro-pessoas-sao-presas-pela-morte-do-dentista-clei-bagattini-em-ro.ghtml)_
 
+- **[2026-09-01 16:43 UTC]** ‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes sobre deixar o país a dois dias de operação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/acha-que-2a-tenho-que-estar-fora-pergunta-vorcaro-a-moraes-sobre-deixar-o-pais-a-dois-dias-de-operacao.ghtml)_
+
