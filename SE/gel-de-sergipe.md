@@ -140,3 +140,6 @@
 - **[2026-09-01 20:53 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-sergipe.ghtml)_
 
+- **[2026-09-01 19:36 UTC]** Defesa diz que elegibilidade de Valmir de Francisquinho está mantida para disputar as eleições em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/defesa-diz-que-elegibilidade-de-valmir-de-francisquinho-esta-mantida-para-disputar-as-eleicoes-em-sergipe.ghtml)_
+
