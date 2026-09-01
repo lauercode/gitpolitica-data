@@ -23,3 +23,6 @@
 - **[2026-08-30 00:59 UTC]** Criminosos invadem loja de construção, arrancam bebedouro e causam alagamento no TO; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/criminosos-invadem-loja-de-construcao-levam-bebedouro-e-causam-alagamentovideo.ghtml)_
 
+- **[2026-09-01 18:08 UTC]** Criminosos invadem sala-cofre e furtam armas de fogo em loja em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/criminosos-invadem-sala-cofre-furtam-armas-fogo-loja-sc.ghtml)_
+
