@@ -533,3 +533,6 @@
 - **[2026-08-31 20:33 UTC]** Procuradoria pede proibição do uso de imagens de Bolsonaro em propaganda eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/procuradoria-pede-proibicao-do-uso-de-imagens-de-bolsonaro-em-propaganda-eleitoral.shtml)_
 
+- **[2026-08-31 19:08 UTC]** Lula e Flávio Bolsonaro veem Cury atrair voto antissistema e chance de despontar como terceira via
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-veem-cury-se-firmar-como-terceira-via-com-eleitores-insatisfeitos-e-antissistema.shtml)_
+
