@@ -318,3 +318,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 22:00 UTC]** Vorcaro mandava priorizar pagamentos a escritório de esposa de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-mandava-priorizar-pagamentos-escritorio-esposa-moraes/)_
 
+- **[2026-09-01 21:31 UTC]** Mensagens sugerem encontro de Moraes com Vorcaro um dia antes da prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-sugerem-encontro-de-moraes-com-vorcaro-um-dia-antes-da-prisao/)_
+
