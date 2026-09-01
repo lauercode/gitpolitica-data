@@ -158,3 +158,6 @@
 - **[2026-09-01 14:26 UTC]** Candidatura de Renan Santos: o que acontece após a suspensão da campanha pelo TSE
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 18:29 UTC]** Defesa de Renan Santos pede ao TSE revogação de decisão de Toffoli que restringiu campanha digital
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/defesa-de-renan-santos-pede-ao-tse-revogacao-de-decisao-de-toffoli-que-restringiu-campanha-digital.ghtml)_
+
