@@ -38,3 +38,6 @@
 - **[2017-11-08 11:23 UTC]** Roberto Jefferson é internado em hospital do Rio
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/roberto-jefferson-e-internado-em-hospital-do-rio.ghtml)_
 
+- **[2026-09-01 13:46 UTC]** Eleições 2026: Roberto Cidade participa de entrevista e propõe reforçar segurança na Tríplice Fronteira
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-roberto-cidade-participa-de-entrevista-e-propoe-reforcar-seguranca-na-triplice-fronteira.ghtml)_
+
