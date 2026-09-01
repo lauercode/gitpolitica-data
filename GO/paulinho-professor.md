@@ -68,3 +68,6 @@
 - **[2026-08-31 22:23 UTC]** Eleições 2026 em SC: Professor Marcus Sodré assume compromissos com o magistério em Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-em-sc-professor-marcus-sodre-assume-compromissos-com-o-magisterio-em-florianopolis.ghtml)_
 
+- **[2026-09-01 14:12 UTC]** Justiça absolve professor demitido da UFCG após denúncias de assédio
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/justica-absolve-professor-demitido-da-ufcg-apos-denuncias-de-assedio.ghtml)_
+
