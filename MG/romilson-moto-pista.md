@@ -47,3 +47,6 @@
 - **[2026-08-29 13:52 UTC]** Motociclista morre atropelado por 'carreta da alegria' após perder controle da direção e cair na pista em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/29/motociclista-morre-atropelado-por-carreta-da-alegria-em-ro.ghtml)_
 
+- **[2026-09-01 06:00 UTC]** Cenipa investiga o que levou avião da Latam com 151 pessoas a sair da pista durante pouso no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/cenipa-investiga-aviao-que-saiu-da-pista-durante-pouso-no-parana.ghtml)_
+
