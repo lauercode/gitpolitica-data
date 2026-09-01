@@ -35,3 +35,6 @@
 - **[2026-09-01 18:33 UTC]** Senado aprova indicação de Rodrigo Pacheco como ministro do TCU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/senado-aprova-indicacao-de-rodrigo-pacheco-como-ministro-do-tcu.shtml)_
 
+- **[2026-09-01 22:50 UTC]** Quais senadores participaram da votação que aprovou indicação de Pacheco ao TCU
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quais-senadores-participaram-da-votacao-que-aprovou-indicacao-de-pacheco-ao-tcu/)_
+
