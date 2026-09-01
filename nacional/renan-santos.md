@@ -176,3 +176,6 @@
 - **[2026-09-01 23:25 UTC]** Redes sociais de Renan Santos voltam ao ar após Toffoli liberar campanha digital
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/redes-sociais-de-renan-santos-voltam-ao-ar-apos-toffoli-liberar-campanha-digital.ghtml)_
 
+- **[2026-09-01 21:51 UTC]** Por que o TSE recuou e liberou campanha de Renan Santos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss)_
+
