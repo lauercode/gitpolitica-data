@@ -44,3 +44,6 @@
 - **[2026-09-01 15:01 UTC]** MP do fim da taxa das blusinhas: comissão estuda incluir exclusividade de entrega pelos Correios
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mp-do-fim-da-taxa-das-blusinhas-comissao-estuda-incluir-exclusividade-de-entrega-pelos-correios.ghtml)_
 
+- **[2026-09-01 19:03 UTC]** Papel dos Correios e prazo para rever isenção travam votação de MP das blusinhas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/papel-dos-correios-e-prazo-para-rever-isencao-travam-votacao-de-mp-das-blusinhas.shtml)_
+
