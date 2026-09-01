@@ -125,3 +125,6 @@
 - **[2026-08-31 20:09 UTC]** EBC lança Centro de Inovação e Pesquisa em Comunicação Pública
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/ebc-lanca-centro-de-inovacao-e-pesquisa-em-comunicacao-publica)_
 
+- **[2026-09-01 13:05 UTC]** Novo pedido de Mendonça explicita guerra no STF e coloca Master no centro da disputa de poder na Corte
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/01/caso-master-stf.ghtml)_
+
