@@ -233,3 +233,6 @@
 - **[2026-09-01 18:25 UTC]** Entenda como a PF ligou mensagens de Vorcaro no WhatsApp a Moraes, mesmo com visualização única
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/entenda-como-a-pf-ligou-mensagens-de-vorcaro-no-whatsapp-a-moraes-mesmo-com-visualizacao-unica.shtml)_
 
+- **[2026-09-01 18:09 UTC]** Oposição cobra impeachment de Moraes, mas vê resistência de Alcolumbre e centrão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/oposicao-cobra-impeachment-de-moraes-mas-ve-resistencia-de-alcolumbre-e-centrao.shtml)_
+
