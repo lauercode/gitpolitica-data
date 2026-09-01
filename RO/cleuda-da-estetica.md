@@ -14,3 +14,6 @@
 - **[2018-04-19 09:00 UTC]** Nutrição e estética: o que a ciência comprova?
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/sorocaba-jundiai/blog/5-minutos-com-roberta-cassani/post/nutricao-e-estetica-o-que-ciencia-comprova.html)_
 
+- **[2026-09-01 12:20 UTC]** Justiça determina que plano de saúde pague mamoplastia negada sob alegação de ser 'estética'
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/plano-de-saude-e-condenado-apos-negar-cirurgia-reparadora-para-paciente-em-parnamirim.ghtml)_
+
