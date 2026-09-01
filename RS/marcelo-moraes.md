@@ -116,3 +116,6 @@
 - **[2026-09-01 18:19 UTC]** Quem é Viviane Barci de Moraes, mulher do ministro e citada nas investigações do Banco Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/quem-e-viviane-barci-de-moraes-mulher-do-ministro-e-citada-nas-investigacoes-do-banco-master.ghtml)_
 
+- **[2026-09-01 17:54 UTC]** Vorcaro mandou preparar experiência ‘ultra VIP’ para visita de Moraes em Campos do Jordão, diz PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-mandou-preparar-experiencia-ultra-vip-para-visita-de-moraes-em-campos-do-jordao.ghtml)_
+
