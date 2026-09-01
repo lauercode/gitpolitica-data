@@ -26,3 +26,6 @@
 - **[2026-08-21 20:28 UTC]** Rogério Miranda declara R$ 7,4 milhões em bens na disputa ao Senado por Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/21/rogerio-miranda-declara-r-74-milhoes-em-bens-na-disputa-ao-senado-por-roraima.ghtml)_
 
+- **[2026-09-01 13:42 UTC]** Rogério Valença, ex-vocalista da banda Calcinha Preta, morre aos 55 anos
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/morre-o-cantor-rogerio-valenca-ex-vocalista-da-calcinha-preta-aos-55-anos.ghtml)_
+
