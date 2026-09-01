@@ -216,3 +216,6 @@ Diretor
 - **[2026-08-20 21:20 UTC]** Concurso público da Câmara Municipal de Nossa Senhora das Dores está com inscrições abertas
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/concurso-publico-da-camara-municipal-de-nossa-senhora-das-dores-esta-com-inscricoes-abertas.ghtml)_
 
+- **[2026-08-31 23:57 UTC]** Câmara aprova prazo maior para empresa deduzir doações a entidades de combate ao câncer
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301494-camara-aprova-prazo-maior-para-empresa-deduzir-doacoes-a-entidades-de-combate-ao-cancer)_
+
