@@ -95,3 +95,6 @@
 - **[2026-09-01 10:18 UTC]** Governo tenta driblar resistência de Alcolumbre para votar fim da escala 6x1 até 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-tenta-driblar-resistencia-de-alcolumbre-para-votar-fim-da-escala-6x1-ate-2o-turno.shtml)_
 
+- **[2026-09-01 09:23 UTC]** Alcolumbre oficializa indicação de Pacheco para o TCU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/alcolumbre-oficializa-indicacao-de-pacheco-para-o-tcu.shtml)_
+
