@@ -344,3 +344,6 @@
 - **[2026-09-01 19:26 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-sergipe.ghtml)_
 
+- **[2026-09-01 22:01 UTC]** Governo do DF aciona STF contra lei federal que pode gerar corte bilionário no Fundo Constitucional
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/09/01/governo-do-df-aciona-stf-e-diz-que-lei-sancionada-por-lula-que-pode-ter-impacto-bilionario-no-fundo-constitucional-entenda.ghtml)_
+
