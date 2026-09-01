@@ -557,3 +557,6 @@
 - **[2026-09-01 13:26 UTC]** Moraes determina que Exército destrua sete armas de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-determina-que-exercito-destrua-sete-armas-de-bolsonaro.shtml)_
 
+- **[2026-09-01 12:07 UTC]** Flávio Bolsonaro se nega a revelar voto em fim da 6x1 e não explica repasses de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-se-nega-a-revelar-voto-em-fim-da-6x1-e-nao-responde-sobre-repasses-de-vorcaro.shtml)_
+
