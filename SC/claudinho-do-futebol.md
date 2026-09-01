@@ -35,3 +35,6 @@
 - **[2026-09-01 09:51 UTC]** Despedida de Messi da seleção reverbera fora do futebol e une argentinos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/despedida-de-messi-da-selecao-reverbera-fora-do-futebol-e-une-argentinos.shtml)_
 
+- **[2026-09-01 09:00 UTC]** Cabeçadas do futebol
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bruno-gualano/2026/09/cabecadas-do-futebol.shtml)_
+
