@@ -38,3 +38,6 @@
 - **[2026-08-31 19:27 UTC]** Justiça de SP devolve pedido sobre produtora de 'Dark Horse' e cobra provas da polícia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/justica-de-sp-devolve-pedido-sobre-produtora-de-dark-horse-e-cobra-provas-da-policia.shtml)_
 
+- **[2026-09-01 10:03 UTC]** Vorcaro fez repasse adicional de R$ 8,5 milhões a fundo ligado a Dark Horse, diz revista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/vorcaro-fez-repasse-adicional-de-r-85-milhoes-a-fundo-ligado-a-dark-horse-diz-revista.shtml)_
+
