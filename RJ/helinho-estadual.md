@@ -68,3 +68,6 @@
 - **[2026-09-01 20:38 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Paraná — de A a J
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-parana-de-a-a-j.ghtml)_
 
+- **[2026-09-01 20:46 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Rio Grande do Norte
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-rio-grande-do-norte.ghtml)_
+
