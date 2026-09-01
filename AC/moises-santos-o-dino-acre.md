@@ -203,3 +203,6 @@
 - **[2026-09-01 10:00 UTC]** O que se sabe sobre acidente que matou três pessoas em saída de festa no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/o-que-se-sabe-sobre-acidente-que-matou-tres-pessoas-em-saida-de-festa-no-acre.ghtml)_
 
+- **[2026-09-01 08:03 UTC]** Junto há seis anos, trisal do Acre comemora chegada de bebê e anuncia que espera uma menina
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/junto-ha-seis-anos-trisal-do-acre-comemora-chegada-de-bebe-e-anuncia-que-espera-uma-menina.ghtml)_
+
