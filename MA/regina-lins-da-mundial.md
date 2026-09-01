@@ -47,3 +47,6 @@
 - **[2018-06-07 01:09 UTC]** Croácia x França: saiba quando será a final da Copa do Mundo 2018 e outras perguntas e respostas sobre o Mundial
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/mundo/noticia/perguntas-e-respostas-sobre-a-copa-do-mundo-de-2018-na-russia.ghtml)_
 
+- **[2026-08-31 19:00 UTC]** Aos 19 anos, José Antônio Santos é campeão mundial de bocha em Seul
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/aos-19-anos-jose-antonio-santos-e-campeao-mundial-de-bocha-em-seul)_
+
