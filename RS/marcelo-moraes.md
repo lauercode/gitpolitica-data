@@ -197,3 +197,6 @@
 - **[2026-09-01 17:24 UTC]** Mendonça derruba sigilo de ação sobre relação entre Vorcaro e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-derruba-sigilo-de-acao-sobre-relacao-entre-vorcaro-e-moraes/)_
 
+- **[2026-09-01 15:43 UTC]** Parlamentares reagem a novos indícios de envolvimento de Moraes com Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/parlamentares-reagem-novos-indicios-envolvimento-moraes-vorcaro/)_
+
