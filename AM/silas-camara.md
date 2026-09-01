@@ -241,3 +241,6 @@ Diretor
 - **[2026-09-01 00:43 UTC]** Câmara aprova MP que prevê financiamento de veículos para motoristas de aplicativo e taxistas
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301508-camara-aprova-mp-que-preve-financiamento-de-veiculos-para-motoristas-de-aplicativo-e-taxistas)_
 
+- **[2026-09-01 00:25 UTC]** Câmara aprova MP com linhas de crédito para taxistas e motoristas de aplicativo adquirirem veículos novos e sustentáveis
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/camara-aprova-mp-com-linhas-de-credito-para-taxistas-e-motoristas-de-aplicativo-adquirirem-veiculos-novos-e-sustentaveis.ghtml)_
+
