@@ -44,3 +44,6 @@
 - **[2026-08-31 15:16 UTC]** Novo CEO da Apple, John Ternus terá de lidar com IA e relação com a China
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/novo-ceo-da-apple-john-ternus-tera-de-lidar-com-ia-e-relacao-com-a-china.shtml)_
 
+- **[2026-09-01 06:29 UTC]** Avalanche entre Nepal e China deixou mais de 1.000 mortos; número de desaparecidos ultrapassa 4.000
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/avalanche-entre-nepal-e-china-deixou-mais-de-1000-mortos-numero-de-desaparecidos-ultrapassa-4000.shtml)_
+
