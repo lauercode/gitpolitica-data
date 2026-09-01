@@ -128,3 +128,6 @@
 - **[2026-08-31 23:19 UTC]** Crescimento de Cury entre cristãos atrapalha Flávio e Renan
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/08/crescimento-de-cury-entre-cristaos-atrapalha-flavio-e-renan.shtml)_
 
+- **[2026-08-31 23:00 UTC]** Cury inunda redes sociais com influenciadores, dispara em pesquisa e levanta suspeita entre adversários
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/cury-inunda-redes-sociais-com-influenciadores-dispara-em-pesquisa-e-levanta-suspeita-entre-adversarios.shtml)_
+
