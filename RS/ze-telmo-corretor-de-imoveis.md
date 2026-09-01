@@ -17,3 +17,6 @@
 - **[2018-07-10 12:12 UTC]** Advogado explica como funcionam as leis que protegem locatários de imóveis comerciais
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/advogado-explica-como-funcionam-as-leis-que-protegem-locatarios-de-imoveis-comerciais.ghtml)_
 
+- **[2026-09-01 12:24 UTC]** Tempestades deixam 180 mil imóveis sem luz no Paraná; 84 mil permanecem sem energia nesta terça (1º)
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/tempestades-deixam-imoveis-sem-luz-sem-energia-no-parana.ghtml)_
+
