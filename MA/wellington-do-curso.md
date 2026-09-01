@@ -47,3 +47,6 @@
 - **[2026-08-26 20:02 UTC]** IFS abre 500 vagas para curso gratuito de aperfeiçoamento em relações étnico-raciais e quilombolas
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/ifs-abre-500-vagas-para-curso-gratuito-de-aperfeicoamento-em-relacoes-etnico-raciais-e-quilombolas.ghtml)_
 
+- **[2026-09-01 17:31 UTC]** Justiça determina ampliação do efetivo da Polícia Civil com aprovados em curso de formação no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/justica-determina-ampliacao-do-efetivo-da-policia-civil-com-aprovados-em-curso-de-formacao-no-rn.ghtml)_
+
