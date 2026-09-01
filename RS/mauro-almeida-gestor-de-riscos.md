@@ -20,3 +20,6 @@
 - **[2026-08-28 18:29 UTC]** Empresas que não inovam podem enfrentar riscos? Entenda os desafios
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/riquezas-da-inovacao/noticia/2026/08/28/empresas-que-nao-inovam-podem-enfrentar-riscos-entenda-os-desafios.ghtml)_
 
+- **[2026-09-01 13:10 UTC]** Harmonização do bumbum fica popular com famosas; saiba os riscos do procedimento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/harmonizacao-do-bumbum-fica-popular-com-famosas-saiba-os-riscos-do-procedimento.shtml)_
+
