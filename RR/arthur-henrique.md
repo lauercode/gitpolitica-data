@@ -23,3 +23,6 @@
 - **[2026-08-28 17:13 UTC]** Arthur Henrique relembra resultado da eleição suplementar na 1ª propaganda eleitoral na TV em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/28/arthur-henrique-relembra-resultado-da-eleicao-suplementar-na-1a-propaganda-eleitoral-na-tv-em-roraima.ghtml)_
 
+- **[2026-08-31 22:30 UTC]** Arthur Henrique promete implantar botão do pânico para combater violência contra mulher em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/31/arthur-henrique-promete-implantar-botao-do-panico-para-combater-violencia-contra-mulher-em-roraima.ghtml)_
+
