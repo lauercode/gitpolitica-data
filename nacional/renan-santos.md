@@ -143,3 +143,6 @@
 - **[2026-09-01 12:35 UTC]** Meta derruba perfis de Renan Santos a pedido de Toffoli
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/01/meta-derruba-perfis-de-renan-santos-a-pedido-de-toffoli.ghtml)_
 
+- **[2026-09-01 14:53 UTC]** Flávio, Zema e Caiado criticam decisão de Toffoli contra Renan Santos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-zema-e-caiado-criticam-decisao-de-toffoli-contra-renan-santos/)_
+
