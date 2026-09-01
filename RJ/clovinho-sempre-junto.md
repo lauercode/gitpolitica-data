@@ -14,3 +14,6 @@
 - **[2017-10-30 11:59 UTC]** Motorista que morreu junto com o filho e a nora em acidente voltava de velório do sogro dele em MT
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/motorista-que-morreu-junto-com-o-filho-e-a-nora-em-acidente-voltava-de-velorio-do-sogro-dele-em-mt.ghtml)_
 
+- **[2026-09-01 08:03 UTC]** Junto há seis anos, trisal do Acre comemora chegada de bebê e anuncia que espera uma menina
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/junto-ha-seis-anos-trisal-do-acre-comemora-chegada-de-bebe-e-anuncia-que-espera-uma-menina.ghtml)_
+
