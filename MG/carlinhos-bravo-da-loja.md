@@ -26,3 +26,6 @@
 - **[2026-09-01 18:08 UTC]** Criminosos invadem sala-cofre e furtam armas de fogo em loja em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/criminosos-invadem-sala-cofre-furtam-armas-fogo-loja-sc.ghtml)_
 
+- **[2026-09-01 20:05 UTC]** Noivas relatam caos e atrasos em loja de vestidos de São Paulo às vésperas de casamentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/noivas-relatam-caos-e-atrasos-em-loja-de-vestidos-de-sao-paulo-as-vesperas-de-casamentos.shtml)_
+
