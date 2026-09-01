@@ -32,3 +32,6 @@
 - **[2026-08-25 13:43 UTC]** Piloto de asa-delta sai do coma após acidente durante voo no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/25/piloto-asa-delta-sai-coma-acidente-sapiranga.ghtml)_
 
+- **[2026-09-01 14:42 UTC]** Cíntia Chagas confirma namoro com o piloto Rubens Barrichello
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/cintia-chagas-confirma-namoro-com-o-piloto-rubens-barrichello.shtml)_
+
