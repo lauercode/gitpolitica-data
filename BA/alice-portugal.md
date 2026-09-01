@@ -23,3 +23,6 @@
 - **[2026-09-01 12:00 UTC]** Cidades do Alentejo, em Portugal, unem passado e presente com relíquias que desafiam o tempo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/cidades-do-alentejo-em-portugal-unem-passado-e-presente-com-reliquias-que-desafiam-o-tempo.shtml)_
 
+- **[2026-09-01 13:44 UTC]** Festival em Tiradentes celebra laços da cozinha mineira com Portugal
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/festival-de-tiradentes-celebra-lacos-da-cozinha-mineira-com-portugal)_
+
