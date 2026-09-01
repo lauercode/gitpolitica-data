@@ -89,3 +89,6 @@
 - **[2026-08-31 22:21 UTC]** Alcolumbre indica Pacheco para vaga aberta no TCU com saída de Bruno Dantas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/alcolumbre-indica-pacheco-para-vaga-aberta-no-tcu-com-saida-de-bruno-dantas.shtml)_
 
+- **[2026-09-01 01:05 UTC]** Lula sela pacto com Hugo Motta e Alcolumbre para destravar projetos no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-sela-pacto-com-hugo-motta-e-alcolumbre-para-destravar-projetos-no-congresso/)_
+
