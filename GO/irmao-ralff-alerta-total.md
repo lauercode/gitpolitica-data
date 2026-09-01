@@ -29,3 +29,6 @@
 - **[2018-07-17 10:39 UTC]** Veja 13 concursos previstos para o estado de SP este ano; total de vagas chega a quase 22 mil
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/economia/concursos-e-emprego/noticia/veja-13-concursos-previstos-para-o-estado-de-sp-este-ano-total-de-vagas-chega-a-quase-22-mil.ghtml)_
 
+- **[2026-09-01 17:16 UTC]** Omron planeja que Brasil represente 5% da receita total da multinacional japonesa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/omron-planeja-que-brasil-represente-5-da-receita-total-da-multinacional-japonesa.shtml)_
+
