@@ -53,3 +53,6 @@
 - **[2026-08-29 19:26 UTC]** João Pessoa é a capital do Nordeste com maior crescimento populacional, aponta IBGE
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/29/joao-pessoa-e-capital-do-nordeste-com-maior-crescimento-populacional-aponta-ibge.ghtml)_
 
+- **[2026-08-31 19:55 UTC]** Homicídios e roubos caem em SP em julho; estupros aumentam na capital e no estado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/homicidios-e-roubos-caem-em-sp-em-julho-estupros-aumentam-na-capital-e-no-estado.shtml)_
+
