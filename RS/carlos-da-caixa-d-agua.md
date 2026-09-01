@@ -125,3 +125,6 @@
 - **[2026-09-01 05:00 UTC]** Cientistas usam 'impressão digital' da água para mapear alterações nas chuvas da amazônia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/cientistas-usam-impressao-digital-da-agua-para-mapear-alteracoes-nas-chuvas-da-amazonia.shtml)_
 
+- **[2026-09-01 09:40 UTC]** Novas regras para venda de ingressos e acesso à água em eventos
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/novas-regras-para-venda-de-ingressos-e-acesso-agua-em-eventos)_
+
