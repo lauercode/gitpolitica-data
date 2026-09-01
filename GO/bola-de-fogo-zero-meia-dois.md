@@ -185,3 +185,6 @@
 - **[2026-09-01 16:51 UTC]** SP confirma dois novos casos de sarampo e total chega a 28 no estado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/sp-confirma-dois-novos-casos-de-sarampo-e-total-chega-a-28.shtml)_
 
+- **[2026-09-01 21:13 UTC]** Dois homens são presos suspeitos de integrar grupo envolvido em série de roubos em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/dois-homens-sao-presos-suspeitos-de-integrar-grupo-envolvido-em-serie-de-roubos-em-manaus.ghtml)_
+
