@@ -101,3 +101,6 @@
 - **[2026-09-01 15:44 UTC]** China prepara cúpula entre Xi, Trump e Putin, diz Rússia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/china-prepara-cupula-entre-xi-trump-e-putin-diz-russia.shtml)_
 
+- **[2026-09-01 14:26 UTC]** Trump diz que acordos de paz com Irã não valem nada, e EUA atacam sul do país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eua-fazem-novo-ataque-contra-o-ira-apos-ameacas-de-trump.shtml)_
+
