@@ -128,3 +128,6 @@
 - **[2026-09-01 13:05 UTC]** Novo pedido de Mendonça explicita guerra no STF e coloca Master no centro da disputa de poder na Corte
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/01/caso-master-stf.ghtml)_
 
+- **[2026-09-01 13:32 UTC]** Homem morre após ser agredido no Centro de Manaus; polícia investiga caso
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/homem-morre-apos-ser-agredido-no-centro-de-manaus-policia-investiga-caso.ghtml)_
+
