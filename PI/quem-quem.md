@@ -173,3 +173,6 @@
 - **[2026-09-01 02:33 UTC]** Quem é Duane Davis, declarado culpado pelo assassinato do rapper Tupac Shakur há 30 anos (e o papel de um livro na condenação)
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4g79xy0y8xo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 07:01 UTC]** Servidora da Câmara e fisioterapeuta: quem eram as filhas de candidato a deputado por SC que morreram no PR
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/quem-eram-filhas-candidato-deputado-sc-morreram-pr.ghtml)_
+
