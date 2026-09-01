@@ -32,3 +32,6 @@
 - **[2026-08-31 14:53 UTC]** VÍDEO: Homem é atingido no peito por disparo acidental dentro de clube de tiro no Paraná; estado é grave
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/homem-e-atingido-por-disparo.ghtml)_
 
+- **[2026-09-01 03:01 UTC]** Disparo que atingiu homem dentro de clube de tiro no PR foi provocado por 'sequência de falhas nas regras básicas de segurança', aponta delegado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/disparo-que-atingiu-homem-dentro-de-clube-de-tiro-no-pr-foi-provocado-por-sequencia-de-falhas-nas-regras-basicas-de-seguranca-aponta-delegado.ghtml)_
+
