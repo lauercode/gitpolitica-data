@@ -89,3 +89,6 @@
 - **[2026-09-01 00:56 UTC]** Joesley Batista influenciou Trump em medidas para conter preço da carne nos EUA, diz jornal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/joesley-batista-influenciou-trump-em-medidas-para-conter-preco-da-carne-nos-eua-diz-jornal.shtml)_
 
+- **[2026-09-01 05:00 UTC]** Podcast analisa o avanço de Trump sobre o petróleo da Venezuela
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-analisa-o-avanco-de-trump-sobre-o-petroleo-da-venezuela.shtml)_
+
