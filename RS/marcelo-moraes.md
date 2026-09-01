@@ -297,3 +297,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 22:36 UTC]** PGR diz que é nula investigação ordenada por André Mendonça que apontou relação de Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/prg-manifesta-pela-nulidade-da-ordem-do-ministro-andre-mendonca.ghtml)_
 
+- **[2026-09-01 19:43 UTC]** Gonet pede anulação de relatório da PF sobre Moraes e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gonet-pede-anulacao-de-relatorio-da-pf-sobre-moraes-e-vorcaro.shtml)_
+
