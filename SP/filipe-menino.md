@@ -38,3 +38,6 @@
 - **[2026-08-28 15:02 UTC]** 'Ele dizia 'tia, me ajuda'': vizinha relata tentativa de salvar menino morto após ser atingido por árvore em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/vizinha-menino-casa-poa-arvore-temporal.ghtml)_
 
+- **[2026-09-01 16:02 UTC]** Familiares protestam na prefeitura de Parnamirim após morte de menino de 2 anos em UPA
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/familiares-protesto-prefeitura-parnamirim-morte-menino-upa.ghtml)_
+
