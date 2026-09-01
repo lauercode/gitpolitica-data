@@ -89,3 +89,6 @@
 - **[2026-09-01 15:13 UTC]** Bolsa Família não deve ter aumento, e reajuste de servidores será limitado em 2027; entenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bolsa-familia-nao-deve-ter-aumento-e-reajuste-de-servidores-sera-limitado-em-2027-entenda.shtml)_
 
+- **[2026-09-01 12:05 UTC]** Será que o Brasil vai premiar a brasileira expulsa do reality argentino com algum convite?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/09/sera-que-o-brasil-vai-premiar-a-brasileira-expulsa-do-reality-argentino-com-algum-convite.shtml)_
+
