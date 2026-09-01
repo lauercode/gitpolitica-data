@@ -32,3 +32,6 @@
 - **[2026-08-27 16:14 UTC]** Bancário de SP desaparecido após deixar hostel em Florianópolis: o que se sabe e o que falta saber
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/bancario-de-sp-desaparecido-em-florianopolis-o-que-falta-saber.ghtml)_
 
+- **[2026-09-01 10:00 UTC]** O que se sabe sobre acidente que matou três pessoas em saída de festa no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/o-que-se-sabe-sobre-acidente-que-matou-tres-pessoas-em-saida-de-festa-no-acre.ghtml)_
+
