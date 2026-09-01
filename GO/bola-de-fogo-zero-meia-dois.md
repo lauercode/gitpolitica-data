@@ -164,3 +164,6 @@
 - **[2026-09-01 14:47 UTC]** Homem é preso suspeito de manter filho de dois meses refém em casa na Cruz das Almas, em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/01/homem-e-preso-suspeito-de-manter-filho-de-dois-meses-refem-em-casa-na-cruz-das-almas-em-maceio.ghtml)_
 
+- **[2026-09-01 11:44 UTC]** Dois anos depois, mais quatro pessoas são presas  pela morte do dentista Clei Bagattini em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/quatro-pessoas-sao-presas-pela-morte-do-dentista-clei-bagattini-em-ro.ghtml)_
+
