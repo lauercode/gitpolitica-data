@@ -143,3 +143,6 @@
 - **[2026-09-01 09:13 UTC]** PIB do Brasil cresce 0,5% no segundo trimestre, mostra IBGE
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge)_
 
+- **[2026-09-01 09:01 UTC]** PIB do Brasil desacelera e cresce 0,5% no segundo trimestre; consumo recua sob juros altos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pib-do-brasil-desacelera-a-05-no-segundo-trimestre.shtml)_
+
