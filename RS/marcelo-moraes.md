@@ -266,3 +266,6 @@
 - **[2026-09-01 19:25 UTC]** OAB cobra investigação “rigorosa” sobre relação de Vorcaro e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-cobra-investigacao-rigorosa-sobre-relacao-de-vorcaro-e-moraes/)_
 
+- **[2026-09-01 20:00 UTC]** PF aponta que Vorcaro negociou cotas de jatinho em contrato de R$ 50 milhões com mulher de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-aponta-escritorio-mulher-moraes-teria-negociado-contrato-50-milhoes/)_
+
