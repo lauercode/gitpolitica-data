@@ -122,3 +122,6 @@
 - **[2026-08-31 23:03 UTC]** Toffoli suspende campanha digital de Renan Santos à presidência
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-suspende-campanha-renan-santos-presidencia/)_
 
+- **[2026-08-31 22:01 UTC]** O que acontece após TSE suspender campanha de Renan Santos à Presidência?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss)_
+
