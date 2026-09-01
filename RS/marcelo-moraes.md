@@ -134,3 +134,6 @@
 - **[2026-09-01 17:16 UTC]** Vorcaro diz a Moraes que tem 'dívida de vida' com ministro e agradece por 'tudo', aponta PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-diz-a-moraes-que-tem-divida-de-vida-com-ministro-e-agradece-por-tudo-aponta-pf.ghtml)_
 
+- **[2026-09-01 17:06 UTC]** Vorcaro enviou 5 mensagens de visualização única a contato atribuído a Moraes na véspera de prisão, diz PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mensagens-daniel-vorcaro-alexandre-de-moraes-relatorio-pf.ghtml)_
+
