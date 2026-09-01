@@ -137,3 +137,6 @@
 - **[2026-09-01 12:37 UTC]** Cury é a terceira via que veio para ficar?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/cury-e-a-terceira-via-que-veio-para-ficar.shtml)_
 
+- **[2026-09-01 12:03 UTC]** Cury cita em plano de governo doutorado em psicologia que não fez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml)_
+
