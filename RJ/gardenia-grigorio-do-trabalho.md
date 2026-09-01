@@ -116,3 +116,6 @@
 - **[2026-08-27 14:57 UTC]** Sergipanos estão entre brasileiros vítimas de esquema de tráfico humano e trabalho escravo no Camboja
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/27/sergipanos-estao-entre-brasileiros-vitimas-de-esquema-de-trafico-humano-e-trabalho-escravo-em-madagascar.ghtml)_
 
+- **[2026-08-31 22:47 UTC]** Câmara aprova criação de 51 cargos no Tribunal Regional do Trabalho em Fortaleza
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301465-camara-aprova-criacao-de-51-cargos-no-tribunal-regional-do-trabalho-em-fortaleza)_
+
