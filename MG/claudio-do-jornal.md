@@ -131,3 +131,6 @@
 - **[2026-09-01 17:50 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de terça-feira, 1° de setembro de 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/01/videos-jornal-do-almoco-florianopolis-de-terca-feira-1-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-01 16:56 UTC]** VÍDEO: Jornal Anhanguera 1ª Edição-TO de terça-feira, 1º de setembro de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/edicao/2026/09/01/video-jornal-anhanguera-1-edicao-to-de-terca-feira-1-de-setembro-de-2026.ghtml)_
+
