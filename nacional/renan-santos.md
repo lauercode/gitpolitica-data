@@ -125,3 +125,6 @@
 - **[2026-08-31 22:01 UTC]** O que acontece após TSE suspender campanha de Renan Santos à Presidência?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-31 22:48 UTC]** Omissão como a de Renan Santos e erros em registros de candidatos se repetem e geram distorção nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/omissao-como-a-de-renan-santos-e-erros-em-registros-de-candidatos-se-repetem-e-geram-distorcao-nas-redes.shtml)_
+
