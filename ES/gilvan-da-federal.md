@@ -311,3 +311,6 @@
 - **[2018-07-17 10:14 UTC]** Filho de deputado federal fica ferido e duas pessoas morrem em acidente em Bezerros
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/filho-de-deputado-federal-fica-ferido-e-duas-pessoas-morrem-em-acidente-em-bezerros.ghtml)_
 
+- **[2026-09-01 16:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-tocantins.ghtml)_
+
