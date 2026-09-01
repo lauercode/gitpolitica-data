@@ -53,3 +53,6 @@
 - **[2026-09-01 17:14 UTC]** Geração de energia solar ultrapassa carvão em capacidade instalada na China pela 1ª vez
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/geracao-de-energia-solar-ultrapassa-carvao-em-capacidade-instalada-na-china-pela-1a-vez.shtml)_
 
+- **[2026-09-01 16:41 UTC]** Acordo de petróleo com Venezuela dá aos EUA segurança energética e reduz espaço de China e Rússia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acordo-de-petroleo-com-venezuela-da-aos-eua-seguranca-energetica-e-reduz-espaco-de-china-e-russia.shtml)_
+
