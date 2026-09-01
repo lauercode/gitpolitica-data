@@ -26,3 +26,6 @@
 - **[2026-08-27 14:38 UTC]** Eleições 2026 no PR: Sérgio Moro cumpre agenda com produtoras rurais e empresários
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/27/sergio-moro-produtoras-rurais-e-empresarios.ghtml)_
 
+- **[2026-09-01 12:03 UTC]** Eleições 2026 no PR: Sérgio Moro diz que pretende cortar secretarias e reduzir gastos no governo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-no-pr-sergio-moro.ghtml)_
+
