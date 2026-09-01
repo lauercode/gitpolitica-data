@@ -23,3 +23,6 @@
 - **[2026-09-01 12:00 UTC]** Vila de Marvão vigia o Alentejo com castelo, museu de arte sacra e Hotel Museu
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/vila-de-marvao-vigia-o-alentejo-com-castelo-museu-de-arte-sacra-e-hotel-museu.shtml)_
 
+- **[2026-09-01 15:26 UTC]** Hotel das Cataratas é eleito um dos 100 melhores do mundo pelo 50 Best
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/hotel-das-cataratas-conquista-mais-um-ano-de-presenca-no-ranking-50-best.shtml)_
+
