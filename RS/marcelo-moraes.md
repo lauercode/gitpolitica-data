@@ -194,3 +194,6 @@
 - **[2026-09-01 17:18 UTC]** Bastidores do STF: André Mendonça reúne apoio para investigação contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bastidores-do-stf-andre-mendonca-reune-apoio-para-investigacao-contra-moraes/)_
 
+- **[2026-09-01 17:24 UTC]** Mendonça derruba sigilo de ação sobre relação entre Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-derruba-sigilo-de-acao-sobre-relacao-entre-vorcaro-e-moraes/)_
+
