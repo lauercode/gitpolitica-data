@@ -128,3 +128,6 @@
 - **[2026-09-01 17:48 UTC]** Inquérito aponta que Moraes vetou participações em eventos em Londres organizados pelo Master; 'Alexandre morre se fizer isso', disse Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/inquerito-aponta-que-moraes-vetou-participacoes-em-eventos-em-londres-organiados-pelo-banco-master-alexandre-morre-se-fizer-isso-disse-vorcaro.ghtml)_
 
+- **[2026-09-01 17:37 UTC]** Vorcaro reclamou a sócio que pagamento não foi feito para escritório de esposa de Moraes: 'Contrato mais importante que temos'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-pagamento-escritorio-esposa-moraes.ghtml)_
+
