@@ -309,3 +309,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 23:39 UTC]** PGR pede anulação de relatório da PF contra Moraes e acusa Mendonça de atropelar rito do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-aponta-dupla-nulidade-e-pede-extincao-de-investigacao-contra-moraes/)_
 
+- **[2026-09-01 22:50 UTC]** Além do impeachment de Moraes, oposição pressiona por demissões de Andrei e Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alem-do-impeachment-de-moraes-oposicao-pressiona-por-demissoes-de-andrei-e-gonet/)_
+
