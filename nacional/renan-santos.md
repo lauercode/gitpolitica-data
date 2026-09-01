@@ -134,3 +134,6 @@
 - **[2026-08-31 21:55 UTC]** YouTube e Instagram derrubam contas de Renan Santos após decisão de Toffoli no TSE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/youtube-derruba-canal-de-renan-santos-apos-decisao-de-toffoli-no-tse.shtml)_
 
+- **[2026-09-01 03:20 UTC]** Defesa de Renan Santos pede análise urgente de decisão de Toffoli pelo plenário do TSE
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/defesa-de-renan-santos-pede-analise-urgente-decisao-toffoli-pelo-plenario-tse/)_
+
