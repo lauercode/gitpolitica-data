@@ -26,3 +26,6 @@
 - **[2018-07-10 14:50 UTC]** Mesmo em isolamento, Geddel mantém indisciplina, segundo presídio; juíza cobra investigação sobre remédios em cela
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/blog/andreia-sadi/post/2018/07/10/mesmo-em-isolamento-geddel-mantem-indisciplina-juiza-cobra-investigacao-sobre-remedios-em-cela.ghtml)_
 
+- **[2026-08-31 19:27 UTC]** Justiça de SP devolve pedido sobre produtora de 'Dark Horse' e cobra provas da polícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/justica-de-sp-devolve-pedido-sobre-produtora-de-dark-horse-e-cobra-provas-da-policia.shtml)_
+
