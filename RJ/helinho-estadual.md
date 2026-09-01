@@ -92,3 +92,6 @@
 - **[2026-09-01 21:20 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-tocantins.ghtml)_
 
+- **[2026-09-01 21:32 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-alagoas.ghtml)_
+
