@@ -50,3 +50,6 @@
 - **[2026-09-01 06:00 UTC]** Cenipa investiga o que levou avião da Latam com 151 pessoas a sair da pista durante pouso no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/cenipa-investiga-aviao-que-saiu-da-pista-durante-pouso-no-parana.ghtml)_
 
+- **[2026-09-01 15:01 UTC]** Vídeo mostra pouso de avião da Latam que saiu da pista e atolou no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/aviao-saiu-da-pista-1.ghtml)_
+
