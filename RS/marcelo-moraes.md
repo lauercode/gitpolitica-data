@@ -215,3 +215,6 @@
 - **[2026-09-01 15:24 UTC]** PGR deve se manifestar sobre supostas conversas entre Vorcaro e Moraes
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pgr-deve-se-manifestar-sobre-supostas-conversas-entre-vorcaro-e-moraes)_
 
+- **[2026-09-01 21:20 UTC]** PF aponta que Vorcaro mandou ao menos 28 mensagens a telefone atribuído a Moraes na semana em que foi preso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/pf-aponta-que-vorcaro-mandou-mensagens-a-telefone-atribuido-a-moraes-na-semana-em-que-foi-preso.ghtml)_
+
