@@ -317,3 +317,6 @@
 - **[2026-09-01 20:25 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-maranhao.ghtml)_
 
+- **[2026-09-01 21:17 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-para.ghtml)_
+
