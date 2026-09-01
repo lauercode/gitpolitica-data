@@ -83,3 +83,6 @@
 - **[2026-08-27 15:29 UTC]** Polícia Civil faz operação contra desvio de recursos públicos em cidade no TO e bloqueia mais de R$ 2 milhões
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/policia-civil-faz-operacao-contra-desvio-de-recursos-publicos-em-cidade-no-to-e-bloqueia-mais-de-r-2-milhoes.ghtml)_
 
+- **[2026-09-01 00:46 UTC]** Mais de duas toneladas de drogas são apreendidas pela polícia em casa na Cidade das Luzes, em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/mais-de-duas-toneladas-de-drogas-sao-apreendidas-pela-policia-em-casa-na-cidade-das-luzes-em-manaus.ghtml)_
+
