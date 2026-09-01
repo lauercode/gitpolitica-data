@@ -20,3 +20,6 @@
 - **[2026-08-29 09:30 UTC]** Cerrado do Tocantins floresce em meio à seca e transforma paisagem de Palmas; entenda
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/cerrado-do-tocantins-floresce-em-meio-a-seca-e-transforma-paisagem-de-palmas-entenda.ghtml)_
 
+- **[2026-09-01 20:26 UTC]** Da lavoura à pecuária, cooperado CrediSIS transforma desafios em conquistas
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/credisis/credisis-nos-somos-cooperativa/noticia/2026/09/01/da-lavoura-a-pecuaria-cooperado-credisis-transforma-desafios-em-conquistas.ghtml)_
+
