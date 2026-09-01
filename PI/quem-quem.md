@@ -176,3 +176,6 @@
 - **[2026-09-01 07:01 UTC]** Servidora da Câmara e fisioterapeuta: quem eram as filhas de candidato a deputado por SC que morreram no PR
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/quem-eram-filhas-candidato-deputado-sc-morreram-pr.ghtml)_
 
+- **[2026-09-01 18:19 UTC]** Quem é Viviane Barci de Moraes, mulher do ministro e citada nas investigações do Banco Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/quem-e-viviane-barci-de-moraes-mulher-do-ministro-e-citada-nas-investigacoes-do-banco-master.ghtml)_
+
