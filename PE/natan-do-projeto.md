@@ -125,3 +125,6 @@
 - **[2026-09-01 17:24 UTC]** Projeto fixa jornada de pedagogos em 30 horas semanais
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300096-projeto-fixa-jornada-de-pedagogos-em-30-horas-semanais)_
 
+- **[2026-09-01 16:50 UTC]** Projeto em análise na Câmara permite que fisioterapeutas prescrevam medicamentos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300670-projeto-em-analise-na-camara-permite-que-fisioterapeutas-prescrevam-medicamentos)_
+
