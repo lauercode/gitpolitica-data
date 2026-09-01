@@ -20,3 +20,6 @@
 - **[2026-08-31 15:38 UTC]** Portugal substituirá Elevador da Glória após acidente; empresa lançará concurso para novo projeto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/portugal-substituira-elevador-da-gloria-apos-acidente-empresa-lancara-concurso-para-novo-projeto.shtml)_
 
+- **[2026-09-01 12:00 UTC]** Cidades do Alentejo, em Portugal, unem passado e presente com relíquias que desafiam o tempo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/cidades-do-alentejo-em-portugal-unem-passado-e-presente-com-reliquias-que-desafiam-o-tempo.shtml)_
+
