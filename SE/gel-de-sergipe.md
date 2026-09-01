@@ -122,3 +122,6 @@
 - **[2026-08-31 22:27 UTC]** Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta segunda-feira
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-segunda-feira.ghtml)_
 
+- **[2026-08-31 22:25 UTC]** Eleições 2026: Fábio do PSD diz que pretende ampliar programas de geração de empregos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-fabio-do-psd-diz-que-pretende-ampliar-programas-de-geracao-de-emprego-em-sergipe.ghtml)_
+
