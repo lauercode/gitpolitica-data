@@ -146,3 +146,6 @@
 - **[2026-09-01 19:26 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-sergipe.ghtml)_
 
+- **[2026-09-01 23:04 UTC]** Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta terça-feira
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-terca-feira.ghtml)_
+
