@@ -206,3 +206,6 @@
 - **[2026-09-01 08:03 UTC]** Junto há seis anos, trisal do Acre comemora chegada de bebê e anuncia que espera uma menina
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/junto-ha-seis-anos-trisal-do-acre-comemora-chegada-de-bebe-e-anuncia-que-espera-uma-menina.ghtml)_
 
+- **[2026-09-01 08:03 UTC]** Junto há seis anos, trisal do Acre anuncia gravidez e revela que espera uma menina
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/junto-ha-seis-anos-trisal-do-acre-comemora-chegada-de-bebe-e-anuncia-que-espera-uma-menina.ghtml)_
+
