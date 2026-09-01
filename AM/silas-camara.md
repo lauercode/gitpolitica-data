@@ -231,3 +231,6 @@ Diretor
 - **[2026-08-31 22:47 UTC]** Câmara aprova criação de 51 cargos no Tribunal Regional do Trabalho em Fortaleza
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301465-camara-aprova-criacao-de-51-cargos-no-tribunal-regional-do-trabalho-em-fortaleza)_
 
+- **[2026-08-31 22:41 UTC]** Câmara aprova criação de vagas para juiz do trabalho em Porto Alegre
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301458-camara-aprova-criacao-de-vagas-para-juiz-do-trabalho-em-porto-alegre)_
+
