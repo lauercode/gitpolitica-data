@@ -113,3 +113,6 @@
 - **[2026-08-31 22:55 UTC]** Decisão de Toffoli abre novo capítulo para campanha antissistema de Renan Santos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/suspensao-campanha-renan-santos-reforca-perfil-de-candidato-antissistema/)_
 
+- **[2026-08-31 22:20 UTC]** Renan Santos lembra era Dilma ao comentar decisão de Toffoli: “Retiramos uma quadrilha do poder”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-lembra-era-dilma-ao-comentar-decisao-de-toffoli-retiramos-uma-quadrilha-do-poder/)_
+
