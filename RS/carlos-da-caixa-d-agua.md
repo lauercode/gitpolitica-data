@@ -131,3 +131,6 @@
 - **[2026-09-01 18:33 UTC]** Mulher é presa suspeita de falsificar documentos para contratar serviços de água, luz e internet em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/mulher-e-presa-suspeita-de-falsificar-documentos-para-contratar-servicos-de-agua-luz-e-internet-em-manaus.ghtml)_
 
+- **[2026-09-01 16:01 UTC]** Jovem morre após ser esfaqueada em Água Doce do Maranhão; adolescente supeito do crime foi apreendido
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/jovem-morre-apos-ser-esfaqueada-em-agua-doce-do-maranhao-adolescente-supeito-do-crime-foi-apreendido.ghtml)_
+
