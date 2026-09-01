@@ -206,3 +206,6 @@
 - **[2026-09-01 18:37 UTC]** Moraes no caso Master: o que mostram as mensagens entre o ministro do STF e Daniel Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 18:29 UTC]** As reações no mundo político aos diálogos entre Alexandre de Moraes e Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c70lwzn8p5go?at_medium=RSS&at_campaign=rss)_
+
