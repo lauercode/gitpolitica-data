@@ -143,3 +143,6 @@
 - **[2026-09-01 20:04 UTC]** Projeto obriga órgãos públicos a criar espaços específicos para atender idosos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300393-projeto-obriga-orgaos-publicos-a-criar-espacos-especificos-para-atender-idosos)_
 
+- **[2026-09-01 23:39 UTC]** Câmara aprova projeto que facilita acesso à aposentadoria integral por PMs e bombeiros
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/camara-aprova-projeto-que-facilita-acesso-a-aposentadoria-integral-por-pms-e-bombeiros.ghtml)_
+
