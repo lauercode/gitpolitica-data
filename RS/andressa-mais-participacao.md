@@ -29,3 +29,6 @@
 - **[2026-08-28 16:52 UTC]** 'A gente que gosta do esporte não mede esforços para estar aqui', diz Wesley Safadão sobre participação na Vaquejada de Lagarto
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/a-gente-que-gosta-do-esporte-nao-mede-esforcos-para-estar-aqui-diz-wesley-safadao-sobre-participacao-na-vaquejada-de-lagarto.ghtml)_
 
+- **[2026-08-31 23:30 UTC]** Suspeito de participação na morte de jovem torturado e executado com tiros é preso em Parauapebas, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/31/suspeito-de-participacao-na-morte-de-jovem-torturado-e-executado-com-tiros-e-preso-em-parauapebas-no-para.ghtml)_
+
