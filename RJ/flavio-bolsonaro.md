@@ -560,3 +560,6 @@
 - **[2026-09-01 12:07 UTC]** Flávio Bolsonaro se nega a revelar voto em fim da 6x1 e não explica repasses de Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-se-nega-a-revelar-voto-em-fim-da-6x1-e-nao-responde-sobre-repasses-de-vorcaro.shtml)_
 
+- **[2026-09-01 18:18 UTC]** Moraes manda Exército destruir 7 armas de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-manda-exercito-destruir-7-armas-de-bolsonaro/)_
+
