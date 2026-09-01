@@ -50,3 +50,6 @@
 - **[2026-08-31 19:00 UTC]** Aos 19 anos, José Antônio Santos é campeão mundial de bocha em Seul
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/aos-19-anos-jose-antonio-santos-e-campeao-mundial-de-bocha-em-seul)_
 
+- **[2026-09-01 11:03 UTC]** Miss Cosmo: Paranaense vence estreia do concurso no Brasil e vai para mundial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/miss-cosmo-paranaense-vence-estreia-do-concurso-no-brasil-e-vai-para-mundial.shtml)_
+
