@@ -278,3 +278,6 @@
 - **[2026-09-01 19:52 UTC]** PGR pede anulação de investigação sobre conversas de Moraes e Vorcaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pgr-pede-anulacao-de-investigacao-sobre-conversas-de-moraes-e-vorcaro)_
 
+- **[2026-09-01 23:21 UTC]** Mendonça deve liberar caso de mensagens entre Moraes e Vorcaro para plenário do STF na semana que vem
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/01/mendonca-deve-liberar-caso-de-mensagens-entre-moraes-e-vorcaro-na-semana-que-vem.ghtml)_
+
