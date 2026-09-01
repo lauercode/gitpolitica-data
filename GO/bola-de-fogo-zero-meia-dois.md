@@ -152,3 +152,6 @@
 - **[2026-08-20 12:39 UTC]** Dois homens são presos e drogas são apreendidas durante operação da Polícia Civil em Estância
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/duas-pessoas-sao-presas-e-drogas-sao-apreendidas-durante-operacao-da-policia-civil-em-estancia.ghtml)_
 
+- **[2026-08-31 23:00 UTC]** Quartas da Copa do Brasil tem Santos em busca de virada e dois clássicos empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/quartas-da-copa-do-brasil-tem-santos-em-busca-de-virada-e-dois-classicos-empatados.shtml)_
+
