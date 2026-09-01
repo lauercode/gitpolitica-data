@@ -44,3 +44,6 @@
 - **[2026-08-27 19:05 UTC]** Ex-prefeito é preso durante operação contra desvio de recursos públicos no TO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/ex-prefeito-e-preso-durante-operacao-contra-desvio-de-recursos-publicos-no-to.ghtml)_
 
+- **[2026-09-01 18:14 UTC]** Prefeito de Granito, no sertão de Pernambuco, é acusado de violência doméstica por ex-mulher
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/prefeito-de-granito-no-sertao-de-pernambuco-e-acusado-de-violencia-domestica-por-ex-mulher.shtml)_
+
