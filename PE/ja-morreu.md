@@ -122,3 +122,6 @@
 - **[2026-09-01 14:28 UTC]** Empresa de passeio onde turista holandês morreu nas Cataratas entregou imagens editadas à polícia; sede é alvo de busca
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/empresa-de-passeio-alvo-de-busca.ghtml)_
 
+- **[2026-09-01 10:53 UTC]** Namorada de jovem que morreu após ser torturado e cair do 14º andar no Paraná foi afastada do quarto e não é investigada, diz polícia
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/01/namorada-jovem-queda-predio-parana.ghtml)_
+
