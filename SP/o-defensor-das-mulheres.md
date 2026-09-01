@@ -77,3 +77,6 @@
 - **[2026-08-31 23:00 UTC]** Eles preferem mulheres mais velhas; elas não acreditam
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/08/eles-preferem-mulheres-mais-velhas-elas-nao-acreditam.shtml)_
 
+- **[2026-09-01 04:30 UTC]** Idade mínima igual para mulheres e fim do auxílio pago pelo INSS; veja mudanças propostas para a Previdência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/idade-minima-igual-para-mulheres-e-fim-do-auxilio-pago-pelo-inss-veja-mudancas-propostas-para-a-previdencia.shtml)_
+
