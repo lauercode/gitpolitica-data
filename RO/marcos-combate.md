@@ -53,3 +53,6 @@
 - **[2026-08-31 23:57 UTC]** Câmara aprova prazo maior para empresa deduzir doações a entidades de combate ao câncer
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301494-camara-aprova-prazo-maior-para-empresa-deduzir-doacoes-a-entidades-de-combate-ao-cancer)_
 
+- **[2026-09-01 01:59 UTC]** Eleições 2026: Professora Maria do Carmo se reúne com apoiadoras e fala sobre combate à violência contra a mulher
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-professora-maria-do-carmo-se-reune-com-apoiadoras-e-fala-sobre-combate-a-violencia-contra-a-mulher.ghtml)_
+
