@@ -200,3 +200,6 @@
 - **[2026-09-01 15:43 UTC]** Parlamentares reagem a novos indícios de envolvimento de Moraes com Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/parlamentares-reagem-novos-indicios-envolvimento-moraes-vorcaro/)_
 
+- **[2026-09-01 15:03 UTC]** Mendonça cobra PGR sobre mensagem de Vorcaro a Moraes pedindo proteção
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-cobra-pgr-sobre-mensagem-de-vorcaro-a-moraes-pedindo-protecao/)_
+
