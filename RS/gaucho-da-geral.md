@@ -23,3 +23,6 @@
 - **[2026-08-31 19:40 UTC]** Lula discute com Bachelet candidatura em crise para secretaria-geral da ONU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/lula-discute-com-bachelet-candidatura-em-crise-para-secretaria-geral-da-onu.shtml)_
 
+- **[2026-09-01 18:30 UTC]** Vorcaro teria bancado viagem de filho do procurador-geral da República a Londres
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-teria-bancado-viagem-filho-procurador-geral-republica-londres/)_
+
