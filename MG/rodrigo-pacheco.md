@@ -38,3 +38,6 @@
 - **[2026-09-01 22:50 UTC]** Quais senadores participaram da votação que aprovou indicação de Pacheco ao TCU
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quais-senadores-participaram-da-votacao-que-aprovou-indicacao-de-pacheco-ao-tcu/)_
 
+- **[2026-09-01 22:08 UTC]** Senado aprova indicação de Rodrigo Pacheco ao TCU
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senado-aprova-indicacao-de-rodrigo-pacheco-ao-tcu/)_
+
