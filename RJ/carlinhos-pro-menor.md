@@ -20,3 +20,6 @@
 - **[2018-07-12 12:52 UTC]** Monte Verde marca -2,3º e tem menor temperatura de Minas Gerais durante a madrugada
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/monte-verde-marca-23o-e-tem-menor-temperatura-de-minas-gerais-durante-a-madrugada.ghtml)_
 
+- **[2026-09-01 00:26 UTC]** Haddad diz que designação de PCC como terrorista pelos EUA 'é uma questão menor'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-designacao-de-pcc-como-terrorista-pelos-eua-e-uma-questao-menor.shtml)_
+
