@@ -59,3 +59,6 @@
 - **[2026-08-31 19:48 UTC]** Orçamento de 2027 limita reajuste real de servidores públicos
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/orcamento-de-2027-limita-reajuste-real-de-servidores-publicos)_
 
+- **[2026-09-01 03:00 UTC]** Orçamento 2027: salário mínimo, previsão de contas no azul, reajuste limitado a servidores e 'imposto do pecado'; veja destaques do projeto
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml)_
+
