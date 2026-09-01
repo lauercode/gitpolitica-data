@@ -563,3 +563,6 @@
 - **[2026-09-01 18:18 UTC]** Moraes manda Exército destruir 7 armas de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-manda-exercito-destruir-7-armas-de-bolsonaro/)_
 
+- **[2026-09-01 20:28 UTC]** Vorcaro fez mais um repasse de US$ 1,6 milhão para o filme Dark Horse após cobranças de Flávio Bolsonaro, diz revista
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-fez-mais-um-repasse-de-us-16-milhao-para-o-filme-dark-horse-apos-cobrancas-de-flavio-bolsonaro-diz-revista.ghtml)_
+
