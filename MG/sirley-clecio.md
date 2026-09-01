@@ -47,3 +47,6 @@
 - **[2026-08-20 23:31 UTC]** Clécio Luís faz gravações, participa de caminhada e plenária em Santana
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/20/clecio-luis-faz-gravacoes-participa-de-caminhada-e-plenaria-em-santana.ghtml)_
 
+- **[2026-08-31 22:58 UTC]** Clécio Luís visita área comercial e participa de caminhada na Zona Sul de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/31/clecio-luis-visita-area-comercial-e-participa-de-caminhada-na-zona-sul-de-macapa.ghtml)_
+
