@@ -228,3 +228,6 @@ Diretor
 - **[2026-08-31 23:19 UTC]** Câmara aprova exigência de diploma para o exercício profissional da psicopedagogia
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301469-camara-aprova-exigencia-de-diploma-para-o-exercicio-profissional-da-psicopedagogia)_
 
+- **[2026-08-31 22:47 UTC]** Câmara aprova criação de 51 cargos no Tribunal Regional do Trabalho em Fortaleza
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301465-camara-aprova-criacao-de-51-cargos-no-tribunal-regional-do-trabalho-em-fortaleza)_
+
