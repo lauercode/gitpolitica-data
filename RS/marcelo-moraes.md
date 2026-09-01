@@ -245,3 +245,6 @@
 - **[2026-09-01 16:57 UTC]** Alcolumbre descarta dar andamento a novos pedidos de impeachment de Moraes e deve aguardar STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/alcolumbre-descarta-dar-andamento-a-novos-pedidos-de-impeachment-de-moraes-e-deve-aguardar-stf.shtml)_
 
+- **[2026-09-01 16:47 UTC]** OAB defende 'apuração rigorosa' após revelações de mensagens de Vorcaro para Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/oab-defende-apuracao-rigorosa-apos-revelacoes-de-mensagens-de-vorcaro-para-moraes.shtml)_
+
