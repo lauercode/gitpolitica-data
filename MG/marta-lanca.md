@@ -38,3 +38,6 @@
 - **[2018-07-09 16:13 UTC]** Adolescente que morreu após passar mal teria usado lança-perfume, dizem amigos
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/noticia/adolescente-que-morreu-apos-passar-mal-teria-usado-lanca-perfume-dizem-amigos.ghtml)_
 
+- **[2026-08-31 20:09 UTC]** EBC lança Centro de Inovação e Pesquisa em Comunicação Pública
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/ebc-lanca-centro-de-inovacao-e-pesquisa-em-comunicacao-publica)_
+
