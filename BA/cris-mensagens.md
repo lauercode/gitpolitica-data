@@ -38,3 +38,6 @@
 - **[2026-09-01 17:06 UTC]** Vorcaro enviou 5 mensagens de visualização única a contato atribuído a Moraes na véspera de prisão, diz PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mensagens-daniel-vorcaro-alexandre-de-moraes-relatorio-pf.ghtml)_
 
+- **[2026-09-01 15:07 UTC]** Moraes palpitou, aprovou textos e vetou convidados de fórum organizado por Vorcaro, dizem mensagens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/moraes-palpitou-aprovou-textos-e-vetou-convidados-de-forum-organizado-por-vorcaro-dizem-mensagens.shtml)_
+
