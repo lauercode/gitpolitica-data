@@ -38,3 +38,6 @@
 - **[2026-09-01 13:00 UTC]** Andrew Scott sustenta 'Pressão', drama de guerra sobre o Dia D
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/andrew-scott-sustenta-pressao-drama-de-guerra-sobre-o-dia-d.shtml)_
 
+- **[2026-09-01 13:00 UTC]** Em 'Pressão', com Brendan Fraser, meteorologista muda o destino da Segunda Guerra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/em-pressao-com-brendan-fraser-meteorologista-muda-o-destino-da-segunda-guerra.shtml)_
+
