@@ -182,3 +182,6 @@
 - **[2026-09-01 18:32 UTC]** Vorcaro autorizou cartões de crédito com limite de R$ 300 mil para filhos de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-autorizou-cartoes-de-credito-com-limite-de-r-300-mil-para-filhos-de-moraes/)_
 
+- **[2026-09-01 18:30 UTC]** Flávio pede saída de Moraes, Zema defende prisão e Cury propõe mandato no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-saida-de-moraes-zema-defende-prisao-e-cury-propoe-mandato-no-stf/)_
+
