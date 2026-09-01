@@ -23,3 +23,6 @@
 - **[2017-10-23 14:12 UTC]** Estudante baleada dentro de sala de aula deixa UTI e segue tratamento na enfermaria de hospital em Goiânia
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/estudante-baleada-dentro-de-sala-de-aula-deixa-uti-e-segue-tratamento-na-enfermaria-de-hospital-em-goiania.ghtml)_
 
+- **[2026-09-01 18:08 UTC]** Criminosos invadem sala-cofre e furtam armas de fogo em loja em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/criminosos-invadem-sala-cofre-furtam-armas-fogo-loja-sc.ghtml)_
+
