@@ -332,3 +332,6 @@
 - **[2026-09-01 20:18 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Rio Grande do Sul
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-rio-grande-do-sul.ghtml)_
 
+- **[2026-09-01 20:44 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-rondonia.ghtml)_
+
