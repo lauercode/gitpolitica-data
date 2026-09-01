@@ -275,3 +275,6 @@
 - **[2026-09-01 19:14 UTC]** As reações no mundo político e jurídico aos diálogos entre Alexandre de Moraes e Daniel Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c70lwzn8p5go?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 19:52 UTC]** PGR pede anulação de investigação sobre conversas de Moraes e Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pgr-pede-anulacao-de-investigacao-sobre-conversas-de-moraes-e-vorcaro)_
+
