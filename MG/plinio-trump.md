@@ -95,3 +95,6 @@
 - **[2026-09-01 11:33 UTC]** Acordo de Trump sobre petróleo da Venezuela reacende temor de neocolonialismo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acordo-de-trump-sobre-petroleo-da-venezuela-reacende-temor-de-neocolonialismo.shtml)_
 
+- **[2026-09-01 14:26 UTC]** EUA fazem novo ataque contra o Irã após ameaças de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eua-fazem-novo-ataque-contra-o-ira-apos-ameacas-de-trump.shtml)_
+
