@@ -80,3 +80,6 @@
 - **[2026-09-01 04:30 UTC]** Idade mínima igual para mulheres e fim do auxílio pago pelo INSS; veja mudanças propostas para a Previdência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/idade-minima-igual-para-mulheres-e-fim-do-auxilio-pago-pelo-inss-veja-mudancas-propostas-para-a-previdencia.shtml)_
 
+- **[2026-09-01 12:43 UTC]** Pesquisa analisa propostas dirigidas às mulheres em planos de governo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/pesquisa-analisa-propostas-dirigidas-mulheres-em-planos-de-governo)_
+
