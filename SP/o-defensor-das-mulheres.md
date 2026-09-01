@@ -74,3 +74,6 @@
 - **[2026-08-31 20:16 UTC]** Portarias preveem ações de enfrentamento à violência contra mulheres
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-08/portarias-preveem-acoes-de-enfrentamento-violencia-contra-mulheres)_
 
+- **[2026-08-31 23:00 UTC]** Eles preferem mulheres mais velhas; elas não acreditam
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/08/eles-preferem-mulheres-mais-velhas-elas-nao-acreditam.shtml)_
+
