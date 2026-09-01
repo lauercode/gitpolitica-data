@@ -38,3 +38,6 @@
 - **[2026-08-27 19:25 UTC]** Palmas é o 1º município das regiões Norte e Nordeste no top-15 nacional em ranking de competitividade
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/palmas-e-o-1o-municipio-das-regioes-norte-e-nordeste-no-top-15-nacional-em-ranking-de-competitividade.ghtml)_
 
+- **[2026-09-01 14:30 UTC]** PF realiza operação contra tráfico e lavagem de dinheiro no Nordeste
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/pf-realiza-operacao-contra-trafico-e-lavagem-de-dinheiro-no-nordeste)_
+
