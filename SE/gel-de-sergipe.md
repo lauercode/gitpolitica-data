@@ -131,3 +131,6 @@
 - **[2026-09-01 04:32 UTC]** Governo de Sergipe assina contratos de mais de R$ 70 milhões com empresa ligada a político aliado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/governo-de-sergipe-assina-contratos-de-mais-de-r-70-milhoes-com-empresa-ligada-a-politico-aliado.shtml)_
 
+- **[2026-09-01 16:56 UTC]** Amigos e familiares se despedem de ex-vocalista da Banda Calcinha Preta em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/amigos-e-familiares-se-despedem-de-ex-vocalista-da-banda-calcinha-preta-em-sergipe.ghtml)_
+
