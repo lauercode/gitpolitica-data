@@ -692,3 +692,6 @@
 - **[2026-09-01 15:41 UTC]** Flávio interrompe campanha para acompanhar debate sobre escala 6×1 em Brasília
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-faz-interrompe-campanha-para-acompanhar-debate-sobre-escala-6x1-em-brasilia/)_
 
+- **[2026-09-01 20:28 UTC]** Vorcaro fez mais um repasse de US$ 1,6 milhão para o filme Dark Horse após cobranças de Flávio Bolsonaro, diz revista
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-fez-mais-um-repasse-de-us-16-milhao-para-o-filme-dark-horse-apos-cobrancas-de-flavio-bolsonaro-diz-revista.ghtml)_
+
