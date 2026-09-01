@@ -146,3 +146,6 @@
 - **[2026-09-01 23:39 UTC]** Câmara aprova projeto que facilita acesso à aposentadoria integral por PMs e bombeiros
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/camara-aprova-projeto-que-facilita-acesso-a-aposentadoria-integral-por-pms-e-bombeiros.ghtml)_
 
+- **[2026-09-01 22:29 UTC]** Clécio Luís visita projeto em Macapá e participa de caminhada em Santana
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/01/clecio-luis-visita-projeto-em-macapa-e-participa-de-caminhada-em-santana.ghtml)_
+
