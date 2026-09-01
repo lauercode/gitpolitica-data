@@ -197,3 +197,6 @@
 - **[2026-08-31 23:39 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 31 de agosto de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-31-de-agosto-de-2026.ghtml)_
 
+- **[2026-08-31 23:08 UTC]** Eleições 2026: veja como foi a agenda dos candidatos ao governo do Acre nesta segunda-feira (31)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-como-foi-a-agenda-dos-candidatos-ao-governo-do-acre-nesta-segunda-feira-31.ghtml)_
+
