@@ -26,3 +26,6 @@
 - **[2026-08-31 19:51 UTC]** Augusto Cury é de direita ou de esquerda?
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-direita-ou-esquerda/)_
 
+- **[2026-09-01 16:52 UTC]** Espancamento na UFRJ expõe a intolerância de esquerda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/09/espancamento-na-ufrj-expoe-a-intolerancia-de-esquerda.shtml)_
+
