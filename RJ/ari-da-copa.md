@@ -47,3 +47,6 @@
 - **[2026-08-31 23:00 UTC]** Quartas da Copa do Brasil tem Santos em busca de virada e dois clássicos empatados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/quartas-da-copa-do-brasil-tem-santos-em-busca-de-virada-e-dois-classicos-empatados.shtml)_
 
+- **[2026-08-31 22:39 UTC]** Câmara derruba obrigatoriedade de escolas marcarem férias durante Copa do Mundo feminina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/camara-derruba-obrigatoriedade-de-escolas-marcarem-ferias-durante-copa-do-mundo-feminina.shtml)_
+
