@@ -17,3 +17,6 @@
 - **[2026-08-26 21:59 UTC]** Eleições 2026: Professora Maria do Carmo grava programa eleitoral em Manaus e aponta lixões como desafio ao meio ambiente
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-professora-maria-do-carmo-grava-programa-eleitoral-em-manaus-e-aponta-lixoes-como-desafio-ao-meio-ambiente.ghtml)_
 
+- **[2026-09-01 01:59 UTC]** Eleições 2026: Professora Maria do Carmo se reúne com apoiadoras e fala sobre combate à violência contra a mulher
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-professora-maria-do-carmo-se-reune-com-apoiadoras-e-fala-sobre-combate-a-violencia-contra-a-mulher.ghtml)_
+
