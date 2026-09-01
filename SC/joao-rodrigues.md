@@ -17,3 +17,6 @@
 - **[2026-08-25 22:17 UTC]** Eleições 2026 em SC: João Rodrigues faz caminhada em Joinville e reúne com entidades comerciais
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-em-sc-joao-rodrigues-campanha-24-agosto.ghtml)_
 
+- **[2026-08-31 22:21 UTC]** Eleições 2026 em SC: João Rodrigues visita instituições de saúde e de apoio a autistas em Joinville
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-em-sc-joao-rodrigues-visita-instituicoes-de-saude-e-de-apoio-a-autistas-em-joinville.ghtml)_
+
