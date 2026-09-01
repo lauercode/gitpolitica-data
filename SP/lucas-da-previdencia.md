@@ -20,3 +20,6 @@
 - **[2017-05-08 12:46 UTC]** Contra reforma da Previdência, servidores do INSS ocupam ministério
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/contra-reforma-da-previdencia-servidores-do-inss-ocupam-ministerio.ghtml)_
 
+- **[2026-08-31 23:51 UTC]** Justiça do Trabalho determina bloqueio em planos de previdência de Renan Santos e outros réus em ação
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/31/justica-do-trabalho-determina-bloqueio-em-planos-de-previdencia-de-renan-santos-e-outros-reus-em-acao.ghtml)_
+
