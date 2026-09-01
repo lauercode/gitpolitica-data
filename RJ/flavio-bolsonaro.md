@@ -566,3 +566,6 @@
 - **[2026-09-01 20:28 UTC]** Vorcaro fez mais um repasse de US$ 1,6 milhão para o filme Dark Horse após cobranças de Flávio Bolsonaro, diz revista
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-fez-mais-um-repasse-de-us-16-milhao-para-o-filme-dark-horse-apos-cobrancas-de-flavio-bolsonaro-diz-revista.ghtml)_
 
+- **[2026-09-01 16:47 UTC]** Flávio Bolsonaro chama Moraes de 'advogado de Vorcaro'; Zema diz que ministro 'merece cadeia', e Renan, que está 'envolvido até o pescoço'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/flavio-bolsonaro-chama-moraes-de-advogado-de-vorcaro.ghtml)_
+
