@@ -209,3 +209,6 @@
 - **[2026-09-01 08:03 UTC]** Junto há seis anos, trisal do Acre anuncia gravidez e revela que espera uma menina
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/junto-ha-seis-anos-trisal-do-acre-comemora-chegada-de-bebe-e-anuncia-que-espera-uma-menina.ghtml)_
 
+- **[2026-09-01 17:28 UTC]** Homem que matou a ex na frente da filha tem pena aumentada para mais de 58 anos no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/homem-que-matou-a-ex-na-frente-da-filha-tem-pena-aumentada-no-acre.ghtml)_
+
