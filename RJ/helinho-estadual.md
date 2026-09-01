@@ -62,3 +62,6 @@
 - **[2026-09-01 20:35 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-na-paraiba.ghtml)_
 
+- **[2026-09-01 20:40 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Paraná — de J a Z
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-parana-de-j-a-z.ghtml)_
+
