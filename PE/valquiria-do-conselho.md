@@ -23,3 +23,6 @@
 - **[2018-04-25 18:59 UTC]** Presidentes do Conselho Distrital e Assembleia Popular falam sobre possível proibição de entrega de terrenos e casas em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/presidentes-do-conselho-distrital-e-assembleia-popular-falam-sobre-possivel-proibicao-de-entrega-de-terrenos-e-casas-em-fernando-de-noronha.html)_
 
+- **[2026-09-01 19:49 UTC]** Relatório da PF cita pedido a Gonet para fazer candidato desistir de disputa pelo comando de conselho de procuradores
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-cita-pedido-a-gonet-para-fazer-candidato-desistir-de-disputa-pelo-comando-de-conselho-de-procuradores.ghtml)_
+
