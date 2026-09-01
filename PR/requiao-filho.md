@@ -14,3 +14,6 @@
 - **[2026-08-27 13:57 UTC]** Eleições 2026 no PR: Requião Filho propõe criação de hospitais regionais da mulher e da infância
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/27/equiao-filho-propoe-criacao-de-hospitais.ghtml)_
 
+- **[2026-09-01 13:23 UTC]** Eleições 2026 no PR: Requião Filho participa de entrevista e se reúne com policiais civis
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-no-pr-requiao.ghtml)_
+
