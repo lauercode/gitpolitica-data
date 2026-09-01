@@ -122,3 +122,6 @@
 - **[2026-09-01 03:00 UTC]** Água gratuita, freio ao cambismo e taxa visível: veja o que muda nos ingressos com novo decreto sobre shows
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/agua-gratuita-freio-ao-cambismo-e-taxa-visivel-veja-o-que-muda-nos-ingressos-com-novo-decreto-sobre-shows.ghtml)_
 
+- **[2026-09-01 05:00 UTC]** Cientistas usam 'impressão digital' da água para mapear alterações nas chuvas da amazônia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/cientistas-usam-impressao-digital-da-agua-para-mapear-alteracoes-nas-chuvas-da-amazonia.shtml)_
+
