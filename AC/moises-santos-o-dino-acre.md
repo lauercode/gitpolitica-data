@@ -212,3 +212,6 @@
 - **[2026-09-01 17:28 UTC]** Homem que matou a ex na frente da filha tem pena aumentada para mais de 58 anos no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/homem-que-matou-a-ex-na-frente-da-filha-tem-pena-aumentada-no-acre.ghtml)_
 
+- **[2026-09-01 17:26 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-acre.ghtml)_
+
