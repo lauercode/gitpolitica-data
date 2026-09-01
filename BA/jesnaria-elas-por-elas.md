@@ -23,3 +23,6 @@
 - **[2017-05-17 16:45 UTC]** Empreendedorismo feminino: agora é que são elas
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/empreendedorismo-feminino-agora-e-que-sao-elas.html)_
 
+- **[2026-08-31 23:00 UTC]** Eles preferem mulheres mais velhas; elas não acreditam
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/08/eles-preferem-mulheres-mais-velhas-elas-nao-acreditam.shtml)_
+
