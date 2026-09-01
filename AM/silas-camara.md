@@ -279,3 +279,6 @@ Diretor
 - **[2026-09-01 16:50 UTC]** Projeto em análise na Câmara permite que fisioterapeutas prescrevam medicamentos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300670-projeto-em-analise-na-camara-permite-que-fisioterapeutas-prescrevam-medicamentos)_
 
+- **[2026-09-01 12:13 UTC]** Câmara pode votar nesta terça medida provisória que zerou taxa para compras internacionais de até 50 dólares
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301575-camara-pode-votar-nesta-terca-medida-provisoria-que-zerou-taxa-para-compras-internacionais-de-ate-50-dolares)_
+
