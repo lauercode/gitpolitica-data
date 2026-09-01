@@ -107,3 +107,6 @@
 - **[2026-09-01 20:33 UTC]** Advogado de Trump chama de “inacreditáveis” novas revelações sobre Moraes e Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-de-trump-chama-de-inacreditaveis-novas-revelacoes-sobre-moraes-e-vorcaro/)_
 
+- **[2026-09-01 18:35 UTC]** Escapada secreta de Trump no avião Air Force One vira documentário na Netflix
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/escapada-secreta-de-trump-no-aviao-air-force-one-vira-documentario-na-netflix.shtml)_
+
