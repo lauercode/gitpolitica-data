@@ -140,3 +140,6 @@
 - **[2026-09-01 16:47 UTC]** Flávio Bolsonaro chama Moraes de 'advogado de Vorcaro' e diz que ministro pode não ter condições de seguir no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/flavio-bolsonaro-chama-moraes-de-advogado-de-vorcaro.ghtml)_
 
+- **[2026-09-01 16:43 UTC]** ‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes sobre deixar o país a dois dias de operação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/acha-que-2a-tenho-que-estar-fora-pergunta-vorcaro-a-moraes-sobre-deixar-o-pais-a-dois-dias-de-operacao.ghtml)_
+
