@@ -122,3 +122,6 @@
 - **[2026-08-24 15:34 UTC]** Fotógrafo morre após ser atropelado por carro no centro de Miracema
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/fotografo-morre-apos-ser-atropelado-por-carro-no-centro-de-miracema.ghtml)_
 
+- **[2026-08-31 20:09 UTC]** EBC lança Centro de Inovação e Pesquisa em Comunicação Pública
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/ebc-lanca-centro-de-inovacao-e-pesquisa-em-comunicacao-publica)_
+
