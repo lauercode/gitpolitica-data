@@ -179,3 +179,6 @@
 - **[2026-09-01 18:19 UTC]** Quem é Viviane Barci de Moraes, mulher do ministro e citada nas investigações do Banco Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/quem-e-viviane-barci-de-moraes-mulher-do-ministro-e-citada-nas-investigacoes-do-banco-master.ghtml)_
 
+- **[2026-09-01 14:30 UTC]** Delator de irregularidades na compra de vacinas da Covid é quem mais doou para própria campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/delator-de-irregularidades-na-compra-de-vacinas-da-covid-e-quem-mais-doou-para-propria-campanha.shtml)_
+
