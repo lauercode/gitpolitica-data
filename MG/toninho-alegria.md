@@ -14,3 +14,6 @@
 - **[2026-08-31 20:00 UTC]** Hospital da Criança celebra 26 anos com alegria e Sexta Colorida em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/prefeitura-de-boa-vista/boa-vista-a-capital-modelo-da-amazonia/noticia/2026/08/31/hospital-da-crianca-celebra-26-anos-com-alegria-e-sexta-colorida-em-boa-vista.ghtml)_
 
+- **[2026-09-01 16:33 UTC]** 'Alegria que conduz a nossa gente': Conheça tema do Círio 2026 da TV Liberal
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/01/alegria-que-conduz-a-nossa-gente-conheca-tema-do-cirio-2026-da-tv-liberal.ghtml)_
+
