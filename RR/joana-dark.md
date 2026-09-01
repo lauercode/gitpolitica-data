@@ -35,3 +35,6 @@
 - **[2026-08-31 05:01 UTC]** Podcast discute uso político da corrupção e dos casos 'Dark Horse' e Lulinha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/08/podcast-discute-uso-politico-da-corrupcao-e-dos-casos-dark-horse-e-lulinha.shtml)_
 
+- **[2026-08-31 19:27 UTC]** Justiça de SP devolve pedido sobre produtora de 'Dark Horse' e cobra provas da polícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/justica-de-sp-devolve-pedido-sobre-produtora-de-dark-horse-e-cobra-provas-da-policia.shtml)_
+
