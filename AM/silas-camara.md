@@ -261,3 +261,7 @@ Diretor
 - **[2026-09-01 07:01 UTC]** Servidora da Câmara e fisioterapeuta: quem eram as filhas de candidato a deputado por SC que morreram no PR
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/quem-eram-filhas-candidato-deputado-sc-morreram-pr.ghtml)_
 
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
