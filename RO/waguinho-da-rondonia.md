@@ -53,3 +53,6 @@
 - **[2026-08-18 14:30 UTC]** PRF confirma três mortes em acidente com caminhões em chamas na BR-364 em Rondônia
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/18/acidente-com-caminhoes-em-chamas-na-br-364-deixa-tres-mortos-em-rondonia.ghtml)_
 
+- **[2026-08-31 22:09 UTC]** Eleições 2026: veja todos os candidatos ao Senado por Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-senado-por-rondonia.ghtml)_
+
