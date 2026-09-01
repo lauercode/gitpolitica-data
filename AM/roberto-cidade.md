@@ -98,3 +98,6 @@
 - **[2026-09-01 13:46 UTC]** Eleições 2026: Roberto Cidade participa de entrevista e propõe reforçar segurança na Tríplice Fronteira
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-roberto-cidade-participa-de-entrevista-e-propoe-reforcar-seguranca-na-triplice-fronteira.ghtml)_
 
+- **[2026-09-01 11:22 UTC]** Justiça suspende gratificações de até 50% para servidores em cidade do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/justica-suspende-gratificacoes-de-ate-50percent-para-servidores-em-cidade-do-tocantins.ghtml)_
+
