@@ -170,3 +170,6 @@
 - **[2026-09-01 17:00 UTC]** Toffoli recua e libera campanha eleitoral de Renan Santos nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/toffoli-recua-e-libera-campanha-eleitoral-de-renan-santos-nas-redes.shtml)_
 
+- **[2026-09-01 18:04 UTC]** Dias Toffoli libera campanha de Renan Santos pela internet
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dias-toffoli-libera-campanha-de-renan-santos-pela-internet)_
+
