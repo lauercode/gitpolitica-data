@@ -86,3 +86,6 @@
 - **[2026-09-01 01:33 UTC]** Alcolumbre indica Rodrigo Pacheco para vaga no TCU após saída de Bruno Dantas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/alcolumbre-indica-pacheco-para-vaga-no-tcu-apos-saida-de-bruno-dantas.ghtml)_
 
+- **[2026-08-31 22:21 UTC]** Alcolumbre indica Pacheco para vaga aberta no TCU com saída de Bruno Dantas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/alcolumbre-indica-pacheco-para-vaga-aberta-no-tcu-com-saida-de-bruno-dantas.shtml)_
+
