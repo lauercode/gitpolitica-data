@@ -53,3 +53,6 @@
 - **[2026-08-31 23:00 UTC]** Quartas da Copa do Brasil têm Santos em busca de virada e dois clássicos empatados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/quartas-da-copa-do-brasil-tem-santos-em-busca-de-virada-e-dois-classicos-empatados.shtml)_
 
+- **[2026-09-01 18:04 UTC]** Copa do Brasil define primeiro semifinalista nesta terça-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/copa-do-brasil-define-primeiro-semifinalista-nesta-terca-feira)_
+
