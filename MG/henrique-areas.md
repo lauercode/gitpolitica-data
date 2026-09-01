@@ -38,3 +38,6 @@
 - **[2026-08-25 06:00 UTC]** VÍDEO: gado foge de incêndio que atinge fazendas; fogo avança por áreas rurais de três estados
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/25/video-gado-foge-de-incendio-que-atinge-fazendas-fogo-avanca-por-areas-rurais-de-tres-estados.ghtml)_
 
+- **[2026-09-01 22:32 UTC]** Eleições 2026 em SC: João Rodrigues visita moradores e áreas afetadas por fortes chuvas em Biguaçu
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-em-sc-joao-rodrigues-visita-moradores-e-areas-afetadas-por-fortes-chuvas-em-biguacu.ghtml)_
+
