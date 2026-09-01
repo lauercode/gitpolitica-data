@@ -41,3 +41,6 @@
 - **[2026-09-01 13:00 UTC]** Em 'Pressão', com Brendan Fraser, meteorologista muda o destino da Segunda Guerra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/em-pressao-com-brendan-fraser-meteorologista-muda-o-destino-da-segunda-guerra.shtml)_
 
+- **[2026-09-01 17:16 UTC]** Estudante espancado na UFRJ diz temer retorno ao campus, e universidade vive pressão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/estudante-espancado-na-ufrj-diz-temer-retorno-ao-campus-e-universidade-vive-pressao.shtml)_
+
