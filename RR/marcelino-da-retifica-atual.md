@@ -17,3 +17,6 @@
 - **[2026-08-30 14:02 UTC]** Propostas para frear STF se multiplicam no Congresso, mas travam sob Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/propostas-para-frear-stf-se-multiplicam-no-congresso-mas-travam-sob-alcolumbre/)_
 
+- **[2026-09-01 16:36 UTC]** Festival de Veneza começa com filmes que descortinam tensões do mundo atual
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/festival-de-veneza-comeca-com-filmes-que-descortinam-tensoes-do-mundo-atual.shtml)_
+
