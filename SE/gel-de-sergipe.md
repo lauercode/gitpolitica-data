@@ -137,3 +137,6 @@
 - **[2026-09-01 15:05 UTC]** Saiba quem era ex-vocalista da Banda Calcinha Preta que morreu enquanto aguardava por transplante de rim em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/saiba-quem-era-ex-vocalista-da-banda-calcinha-preta-que-morreu-em-sergipe.ghtml)_
 
+- **[2026-09-01 20:53 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-sergipe.ghtml)_
+
