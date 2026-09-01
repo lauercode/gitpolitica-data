@@ -35,3 +35,6 @@
 - **[2026-09-01 10:00 UTC]** O que se sabe sobre acidente que matou três pessoas em saída de festa no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/o-que-se-sabe-sobre-acidente-que-matou-tres-pessoas-em-saida-de-festa-no-acre.ghtml)_
 
+- **[2026-09-01 10:40 UTC]** O que já se sabe sobre o desaparecimento de quatro turistas em cânion do RS; todos foram encontrados com vida
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/01/turistas-desaparecem-trilha-canion-morrinhos-sul.ghtml)_
+
