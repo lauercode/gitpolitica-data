@@ -68,3 +68,6 @@
 - **[2026-08-21 22:07 UTC]** Tremor de terra é registrado no interior de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/tremor-de-terra-e-registrado-no-interior-de-sergipe.ghtml)_
 
+- **[2026-08-31 22:14 UTC]** Empresário, mineradora e mais oito viram réus por garimpo ilegal de ouro e cassiterita na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/31/empresario-mineradora-e-mais-oito-viram-reus-por-garimpo-ilegal-de-ouro-e-cassiterita-na-terra-yanomami.ghtml)_
+
