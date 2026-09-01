@@ -65,3 +65,6 @@
 - **[2026-09-01 11:22 UTC]** Justiça suspende gratificações de até 50% para servidores em cidade do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/justica-suspende-gratificacoes-de-ate-50percent-para-servidores-em-cidade-do-tocantins.ghtml)_
 
+- **[2026-09-01 15:13 UTC]** Bolsa Família não deve ter aumento, e reajuste de servidores será limitado em 2027; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bolsa-familia-nao-deve-ter-aumento-e-reajuste-de-servidores-sera-limitado-em-2027-entenda.shtml)_
+
