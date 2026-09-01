@@ -257,3 +257,6 @@
 - **[2026-09-01 20:30 UTC]** Vorcaro organizou almoço para Moraes em hotel de luxo em Campos do Jordão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-organizou-almoco-moraes-hotel-luxo-campos-do-jordao/)_
 
+- **[2026-09-01 20:11 UTC]** Oposição articula impeachment de Moraes no Congresso e fala em colocar Alcolumbre sob pressão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-articula-impeachment-de-moraes-e-fala-em-colocar-alcolumbre-sob-pressao/)_
+
