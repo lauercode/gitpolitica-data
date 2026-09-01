@@ -320,3 +320,6 @@
 - **[2026-09-01 21:17 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-para.ghtml)_
 
+- **[2026-09-01 21:29 UTC]** Eleições 2026: veja todos os candidatos a deputado federal na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-na-paraiba.ghtml)_
+
