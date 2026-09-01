@@ -26,3 +26,6 @@
 - **[2026-08-26 18:24 UTC]** Justiça Federal determina medidas para proteção do peixe-boi Astro
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/justica-federal-determina-medidas-para-protecao-do-peixe-boi-astro.ghtml)_
 
+- **[2026-09-01 12:22 UTC]** Mendonça pede explicações à PGR sobre mensagem a Moraes que cita suposta proteção de Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mendonca-pede-explicacoes-a-pgr-sobre-mensagem-a-moraes-que-cita-suposta-protecao-a-vorcaro.ghtml)_
+
