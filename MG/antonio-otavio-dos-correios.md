@@ -41,3 +41,6 @@
 - **[2026-09-01 11:46 UTC]** Orçamento de 2027 terá R$ 6 bi nos Correios e salário mínimo de R$ 1.741
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/orcamento-2027-6-bi-correios-salario-minimo-1-741/)_
 
+- **[2026-09-01 15:01 UTC]** MP do fim da taxa das blusinhas: comissão estuda incluir exclusividade de entrega pelos Correios
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mp-do-fim-da-taxa-das-blusinhas-comissao-estuda-incluir-exclusividade-de-entrega-pelos-correios.ghtml)_
+
