@@ -140,3 +140,6 @@
 - **[2026-09-01 21:04 UTC]** Homem morre atropelado em frente ao trabalho, no Paraná; motorista disse ter dormido ao volante
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/01/homem-morre-atropelado-em-frente-ao-trabalho-no-parana-motorista-disse-ter-dormido-ao-volante.ghtml)_
 
+- **[2026-09-01 22:00 UTC]** Agentes de saúde entram em greve em Parauapebas e denunciam que pagam por viagens de trabalho
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/01/agentes-de-saude-entram-em-greve-em-parauapebas-e-denunciam-que-pagam-por-viagens-de-trabalho.ghtml)_
+
