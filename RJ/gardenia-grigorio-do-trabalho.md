@@ -122,3 +122,6 @@
 - **[2026-08-31 22:41 UTC]** Câmara aprova criação de vagas para juiz do trabalho em Porto Alegre
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301458-camara-aprova-criacao-de-vagas-para-juiz-do-trabalho-em-porto-alegre)_
 
+- **[2026-08-31 23:51 UTC]** Justiça do Trabalho determina bloqueio em planos de previdência de Renan Santos e outros réus em ação
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/31/justica-do-trabalho-determina-bloqueio-em-planos-de-previdencia-de-renan-santos-e-outros-reus-em-acao.ghtml)_
+
