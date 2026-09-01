@@ -26,3 +26,6 @@
 - **[2026-08-31 19:42 UTC]** Após eliminação precoce no US Open, o futuro de Djokovic se ensombra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/apos-eliminacao-precoce-no-us-open-o-futuro-de-djokovic-se-ensombra.shtml)_
 
+- **[2026-09-01 20:35 UTC]** Cresol participa do Concred e debate o futuro do cooperativismo no campo e na cidade
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/01/cresol-participa-do-concred-e-debate-o-futuro-do-cooperativismo-no-campo-e-na-cidade.ghtml)_
+
