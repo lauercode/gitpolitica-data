@@ -32,3 +32,6 @@
 - **[2026-08-31 23:30 UTC]** Suspeito de participação na morte de jovem torturado e executado com tiros é preso em Parauapebas, no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/31/suspeito-de-participacao-na-morte-de-jovem-torturado-e-executado-com-tiros-e-preso-em-parauapebas-no-para.ghtml)_
 
+- **[2026-09-01 18:22 UTC]** Projeto proíbe participação de crianças e adolescentes em atividades esportivas de alto risco
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300094-projeto-proibe-participacao-de-criancas-e-adolescentes-em-atividades-esportivas-de-alto-risco)_
+
