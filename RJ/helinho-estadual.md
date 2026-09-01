@@ -89,3 +89,6 @@
 - **[2026-09-01 20:53 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-sergipe.ghtml)_
 
+- **[2026-09-01 21:20 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-tocantins.ghtml)_
+
