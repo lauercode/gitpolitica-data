@@ -41,3 +41,6 @@
 - **[2026-08-31 14:27 UTC]** Plano Safra transforma investimentos em força para a produção de arroz
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/08/31/plano-safra-transforma-investimentos-em-forca-para-a-producao-de-arroz.ghtml)_
 
+- **[2026-09-01 12:48 UTC]** PIB perde força no 2º tri: os 3 desafios para o próximo presidente na economia
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss)_
+
