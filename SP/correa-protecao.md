@@ -35,3 +35,6 @@
 - **[2026-09-01 12:22 UTC]** Mendonça pede explicações à PGR sobre mensagem a Moraes que cita suposta proteção para Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mendonca-pede-explicacoes-a-pgr-sobre-mensagem-a-moraes-que-cita-suposta-protecao-a-vorcaro.ghtml)_
 
+- **[2026-09-01 15:03 UTC]** Mendonça cobra PGR sobre mensagem de Vorcaro a Moraes pedindo proteção
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-cobra-pgr-sobre-mensagem-de-vorcaro-a-moraes-pedindo-protecao/)_
+
