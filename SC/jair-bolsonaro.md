@@ -11,3 +11,6 @@
 - **[2026-08-29 02:17 UTC]** Flávio Bolsonaro na Globo: o que disse o candidato à Presidência na entrevista à emissora
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg5973jpn21o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 18:44 UTC]** Justiça proíbe que candidato a deputado use foto de Jair Bolsonaro em propaganda eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/09/01/justica-candidato-deputado-foto-jair-bolsonaro-propaganda-eleitoral.ghtml)_
+
