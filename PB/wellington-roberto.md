@@ -41,3 +41,6 @@
 - **[2026-09-01 13:46 UTC]** Eleições 2026: Roberto Cidade participa de entrevista e propõe reforçar segurança na Tríplice Fronteira
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-roberto-cidade-participa-de-entrevista-e-propoe-reforcar-seguranca-na-triplice-fronteira.ghtml)_
 
+- **[2026-09-01 19:24 UTC]** Roberto de Carvalho diz que novo amor não apaga dor pela morte de Rita Lee
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/09/roberto-de-carvalho-diz-que-novo-amor-nao-apaga-dor-pela-morte-de-rita-lee.shtml)_
+
