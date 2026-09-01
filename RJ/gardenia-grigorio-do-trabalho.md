@@ -131,3 +131,6 @@
 - **[2026-09-01 08:54 UTC]** Brasil lidera casos de ansiedade e transtornos mentais no trabalho
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/brasil-lidera-casos-de-ansiedade-e-transtornos-mentais-no-trabalho)_
 
+- **[2026-09-01 14:20 UTC]** Mãe chega em trabalho de parto à UPA de Araguaína e descobre que estava grávida de gêmeos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/mae-chega-em-trabalho-de-parto-a-upa-de-araguaina-e-descobre-que-estava-gravida-de-gemeos.ghtml)_
+
