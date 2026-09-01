@@ -56,3 +56,6 @@
 - **[2026-09-01 15:57 UTC]** Projeto prevê cálculo separado de aposentadoria e salário para o Imposto de Renda
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301311-projeto-preve-calculo-separado-de-aposentadoria-e-salario-para-o-imposto-de-renda)_
 
+- **[2026-09-01 13:13 UTC]** TRF libera imposto de 12% sobre exportação de petróleo
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/trf-libera-imposto-de-12-sobre-exportacao-de-petroleo)_
+
