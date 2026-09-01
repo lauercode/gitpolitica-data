@@ -41,3 +41,6 @@
 - **[2026-09-01 10:03 UTC]** Vorcaro fez repasse adicional de R$ 8,5 milhões a fundo ligado a Dark Horse, diz revista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/vorcaro-fez-repasse-adicional-de-r-85-milhoes-a-fundo-ligado-a-dark-horse-diz-revista.shtml)_
 
+- **[2026-09-01 20:28 UTC]** Vorcaro fez mais um repasse de US$ 1,6 milhão para o filme Dark Horse após cobranças de Flávio Bolsonaro, diz revista
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/vorcaro-fez-mais-um-repasse-de-us-16-milhao-para-o-filme-dark-horse-apos-cobrancas-de-flavio-bolsonaro-diz-revista.ghtml)_
+
