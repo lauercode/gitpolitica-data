@@ -44,3 +44,6 @@
 - **[2026-09-01 14:50 UTC]** Mendonça pede a Fachin sessão do STF para discutir mensagens entre Vorcaro e Moraes apontadas pela PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-pede-a-fachin-sessao-do-stf-para-discutir-mensagens-entre-vorcaro-e-moraes-apontadas-pela-pf.shtml)_
 
+- **[2026-09-01 14:22 UTC]** Moraes e Vorcaro se encontraram pelo menos seis vezes, indicam mensagens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/moraes-e-vorcaro-se-encontraram-pelo-menos-seis-vezes-indicam-mensagens.shtml)_
+
