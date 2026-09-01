@@ -314,3 +314,6 @@
 - **[2026-09-01 16:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-tocantins.ghtml)_
 
+- **[2026-09-01 20:25 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-maranhao.ghtml)_
+
