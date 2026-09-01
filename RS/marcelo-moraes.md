@@ -260,3 +260,6 @@
 - **[2026-09-01 20:11 UTC]** Oposição articula impeachment de Moraes no Congresso e fala em colocar Alcolumbre sob pressão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-articula-impeachment-de-moraes-e-fala-em-colocar-alcolumbre-sob-pressao/)_
 
+- **[2026-09-01 20:02 UTC]** Mendonça levará pedido de investigação contra Moraes ao plenário mesmo se PGR for contra
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-levara-pedido-de-investigacao-contra-moraes-ao-plenario-mesmo-se-pgr-for-contra/)_
+
