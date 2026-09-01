@@ -146,3 +146,6 @@
 - **[2026-09-01 09:01 UTC]** PIB do Brasil desacelera e cresce 0,5% no segundo trimestre; consumo recua sob juros altos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pib-do-brasil-desacelera-a-05-no-segundo-trimestre.shtml)_
 
+- **[2026-09-01 13:01 UTC]** PIB brasileiro tem 5º maior crescimento no segundo trimestre
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-brasileiro-tem-5o-maior-crescimento-no-segundo-trimestre)_
+
