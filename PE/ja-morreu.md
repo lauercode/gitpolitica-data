@@ -119,3 +119,6 @@
 - **[2026-08-26 10:29 UTC]** Trabalhador e apegado à família: quem era o adolescente que morreu afogado em praia de Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/trabalhador-e-apegado-a-familia-quem-era-o-adolescente-que-morreu-afogado-em-praia-de-palmas.ghtml)_
 
+- **[2026-09-01 14:28 UTC]** Empresa de passeio onde turista holandês morreu nas Cataratas entregou imagens editadas à polícia; sede é alvo de busca
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/empresa-de-passeio-alvo-de-busca.ghtml)_
+
