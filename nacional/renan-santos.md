@@ -137,3 +137,6 @@
 - **[2026-09-01 03:20 UTC]** Defesa de Renan Santos pede análise urgente de decisão de Toffoli pelo plenário do TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/defesa-de-renan-santos-pede-analise-urgente-decisao-toffoli-pelo-plenario-tse/)_
 
+- **[2026-09-01 02:28 UTC]** Toffoli censura campanha e põe em risco candidatura de Renan Santos à Presidência
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-censura-campanha-e-poe-em-risco-candidatura-de-renan-santos-a-presidencia/)_
+
