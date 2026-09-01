@@ -44,3 +44,6 @@
 - **[2026-09-01 11:47 UTC]** PF mira grupo por transporte clandestino de migrantes na fronteira entre Guiana e Brasil
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/01/pf-mira-grupo-que-atua-no-transporte-clandestino-de-migrantes-na-fronteira-entre-guiana-e-brasil.ghtml)_
 
+- **[2026-09-01 18:19 UTC]** Os minutos que antecederam a avalanche de lama na fronteira entre Nepal e China
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy4zvlyxjl7o?at_medium=RSS&at_campaign=rss)_
+
