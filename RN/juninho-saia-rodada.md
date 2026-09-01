@@ -17,3 +17,6 @@
 - **[2026-08-31 17:36 UTC]** Rodada do Brasileirão termina nesta segunda-feira com Remo e Coritiba
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-08/rodada-do-brasileirao-termina-nesta-segunda-feira-com-remo-e-coritiba)_
 
+- **[2026-08-31 23:25 UTC]** De virada, Coritiba vence Remo no fim da 25ª rodada do Brasileirão
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/de-virada-coritiba-vence-remo-no-fim-da-25a-rodada-do-brasileirao)_
+
