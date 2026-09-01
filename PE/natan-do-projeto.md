@@ -131,3 +131,6 @@
 - **[2026-09-01 15:57 UTC]** Projeto prevê cálculo separado de aposentadoria e salário para o Imposto de Renda
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301311-projeto-preve-calculo-separado-de-aposentadoria-e-salario-para-o-imposto-de-renda)_
 
+- **[2026-09-01 14:27 UTC]** Projeto exige nova intimação de devedor quando cumprimento provisório de sentença se tornar definitivo
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299239-projeto-exige-nova-intimacao-de-devedor-quando-cumprimento-provisorio-de-sentenca-se-tornar-definitivo)_
+
