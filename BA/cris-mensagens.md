@@ -81,3 +81,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 20:06 UTC]** Mensagens indicam ação de Vorcaro para mudar reportagens no Brazil Journal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-indicam-acao-de-vorcaro-para-mudar-reportagens-no-brazil-journal.shtml)_
 
+- **[2026-09-01 18:31 UTC]** 'Clima tenso no STF': Memes já se despedem de Moraes após revelação de mensagens com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/clima-tenso-no-stf-memes-ja-se-despedem-de-moraes-apos-revelacao-de-mensagens-com-vorcaro.shtml)_
+
