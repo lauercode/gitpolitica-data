@@ -268,3 +268,7 @@ Diretor
 - **[2026-09-01 12:17 UTC]** Câmara aprova medida de Lula de R$ 30 bi em linhas de crédito para motoristas de app
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/camara-aprova-30-bi-linhas-credito-motoristas-app/)_
 
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
