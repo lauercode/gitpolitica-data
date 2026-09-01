@@ -203,3 +203,6 @@
 - **[2026-09-01 15:03 UTC]** Mendonça cobra PGR sobre mensagem de Vorcaro a Moraes pedindo proteção
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-cobra-pgr-sobre-mensagem-de-vorcaro-a-moraes-pedindo-protecao/)_
 
+- **[2026-09-01 18:37 UTC]** Moraes no caso Master: o que mostram as mensagens entre o ministro do STF e Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss)_
+
