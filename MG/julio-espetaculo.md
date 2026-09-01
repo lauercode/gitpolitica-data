@@ -20,3 +20,6 @@
 - **[2026-08-28 20:43 UTC]** Companhia de dança clássica lança espetáculo natalino 'O Quebra-Nozes' em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/28/companhia-de-danca-classica-lanca-espetaculo-natalino-o-quebra-nozes-em-boa-vista.ghtml)_
 
+- **[2026-09-01 17:22 UTC]** O ator com Alzheimer que agora está à frente de um espetáculo solo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/o-ator-com-alzheimer-e-que-agora-esta-a-frente-de-um-espetaculo-solo.shtml)_
+
