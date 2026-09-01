@@ -35,3 +35,6 @@
 - **[2026-08-31 23:00 UTC]** Congresso discute exclusividade dos Correios em encomendas isentas da taxa das blusinhas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/congresso-discute-exclusividade-dos-correios-em-encomendas-isentas-da-taxa-das-blusinhas.shtml)_
 
+- **[2026-08-31 22:00 UTC]** Não se pode enterrar dinheiro do contribuinte nos Correios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/nao-se-pode-enterrar-dinheiro-do-contribuinte-nos-correios.shtml)_
+
