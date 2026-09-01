@@ -551,3 +551,6 @@
 - **[2026-09-01 15:54 UTC]** Moraes determina que armas de Bolsonaro sejam destruídas ou doadas a órgãos de segurança
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-determina-que-armas-de-bolsonaro-sejam-destruidas.ghtml)_
 
+- **[2026-09-01 14:14 UTC]** Flávio Bolsonaro diz que Moraes não tem condições de continuar no STF, e Zema pede prisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-moraes-nao-tem-condicoes-de-continuar-no-stf-apos-mensagens-com-vorcaro.shtml)_
+
