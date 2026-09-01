@@ -92,3 +92,6 @@
 - **[2026-09-01 01:05 UTC]** Lula sela pacto com Hugo Motta e Alcolumbre para destravar projetos no Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-sela-pacto-com-hugo-motta-e-alcolumbre-para-destravar-projetos-no-congresso/)_
 
+- **[2026-09-01 10:18 UTC]** Governo tenta driblar resistência de Alcolumbre para votar fim da escala 6x1 até 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-tenta-driblar-resistencia-de-alcolumbre-para-votar-fim-da-escala-6x1-ate-2o-turno.shtml)_
+
