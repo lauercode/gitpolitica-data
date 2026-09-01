@@ -86,3 +86,6 @@
 - **[2026-09-01 12:48 UTC]** PIB perde força no 2º tri: os 3 desafios para o próximo presidente na economia
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 12:48 UTC]** PIB do Brasil perde força no 2º tri: os 3 desafios para o próximo presidente na economia
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss)_
+
