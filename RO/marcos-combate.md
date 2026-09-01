@@ -50,3 +50,6 @@
 - **[2026-08-25 22:33 UTC]** Eleições 2026 no RS: Juliana Brizola diz que vai priorizar combate à violência contra a mulher
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-no-rs-juliana-brizola-diz-que-vai-priorizar-combate-a-violencia-contra-a-mulher.ghtml)_
 
+- **[2026-08-31 23:57 UTC]** Câmara aprova prazo maior para empresa deduzir doações a entidades de combate ao câncer
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301494-camara-aprova-prazo-maior-para-empresa-deduzir-doacoes-a-entidades-de-combate-ao-cancer)_
+
