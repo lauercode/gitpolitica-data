@@ -26,3 +26,6 @@
 - **[2017-08-02 11:19 UTC]** Após vazamento em adutora, corte de água é antecipado na Asa Norte, DF
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-vazamento-em-adutora-corte-de-agua-e-antecipado-na-asa-norte-df.ghtml)_
 
+- **[2026-09-01 13:05 UTC]** Novo pedido de Mendonça explicita guerra no STF e coloca Master no centro da disputa de poder na Corte
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/01/caso-master-stf.ghtml)_
+
