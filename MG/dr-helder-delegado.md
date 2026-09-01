@@ -53,3 +53,6 @@
 - **[2026-09-01 00:09 UTC]** MP entra com ação por improbidade administrativa contra delegado e agentes da Polícia Civil presos por tráfico de drogas, na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/mp-entra-com-acao-por-improbidade-administrativa-contra-delegado-e-agentes-da-policia-civil-presos-por-trafico-de-drogas-na-pb.ghtml)_
 
+- **[2026-09-01 03:01 UTC]** Disparo que atingiu homem dentro de clube de tiro no PR foi provocado por 'sequência de falhas nas regras básicas de segurança', aponta delegado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/disparo-que-atingiu-homem-dentro-de-clube-de-tiro-no-pr-foi-provocado-por-sequencia-de-falhas-nas-regras-basicas-de-seguranca-aponta-delegado.ghtml)_
+
