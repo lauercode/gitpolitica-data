@@ -65,3 +65,6 @@
 - **[2018-05-03 16:38 UTC]** Combustível tem reajuste em Fernando de Noronha, a gasolina agora custa R$ 6,79
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/combustivel-tem-reajuste-em-fernando-de-noronha-gasolina-agora-custa-r-679.html)_
 
+- **[2026-09-01 17:22 UTC]** O ator com Alzheimer que agora está à frente de um espetáculo solo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/o-ator-com-alzheimer-e-que-agora-esta-a-frente-de-um-espetaculo-solo.shtml)_
+
