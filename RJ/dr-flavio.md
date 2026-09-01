@@ -716,3 +716,6 @@
 - **[2026-09-01 18:05 UTC]** Mendonça atropela rito para beneficiar Flávio Bolsonaro e abrir porta do inferno ao STF, dizem ministros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mendonca-atropela-rito-para-beneficiar-flavio-bolsonaro-e-abrir-inferno-ao-stf-dizem-ministros.shtml)_
 
+- **[2026-09-01 22:34 UTC]** Flávio e Caiado pedem saída de Moraes, Zema defende prisão e Cury propõe mandato no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-saida-de-moraes-zema-defende-prisao-e-cury-propoe-mandato-no-stf/)_
+
