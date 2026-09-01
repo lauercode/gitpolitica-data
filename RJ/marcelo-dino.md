@@ -14,3 +14,6 @@
 - **[2026-08-31 00:53 UTC]** Canetada de Dino pode travar investigação sobre Lulinha e enfraquecer Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/canetada-dino-fragmentar-investigacao-lulinha-enfraquecer-mendonca/)_
 
+- **[2026-09-01 19:03 UTC]** Brandão recorre ao STF contra decisão de Toffoli sobre inquérito aberto por Dino
+  _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/brandao-recorre-ao-stf-contra-decisao-de-toffoli-sobre-inquerito-aberto-por-dino.ghtml)_
+
