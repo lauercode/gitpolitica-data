@@ -50,3 +50,6 @@
 - **[2026-08-30 20:41 UTC]** Pai e filha escapam ilesos após carro pegar fogo e ser destruído no TO; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/pai-e-filha-escapam-ilesos-apos-carro-pegar-fogo-e-ser-destruido-no-to-video.ghtml)_
 
+- **[2026-09-01 16:58 UTC]** Suspeito morre após confronto com BOPE e outro é preso com duas armas de fogo em São José de Ribamar
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/suspeito-morre-apos-confronto-com-bope-e-outro-e-preso-com-duas-armas-de-fogo-em-sao-jose-de-ribamar.ghtml)_
+
