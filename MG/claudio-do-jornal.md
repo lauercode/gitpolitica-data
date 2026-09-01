@@ -128,3 +128,6 @@
 - **[2026-09-01 13:54 UTC]** VÍDEOS: Jornal da Manhã Alagoas de terça-feira, 1 de setembro de 2026
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/edicao/2026/09/01/videos-jornal-da-manha-alagoas-de-terca-feira-1-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-01 17:50 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de terça-feira, 1° de setembro de 2026
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/01/videos-jornal-do-almoco-florianopolis-de-terca-feira-1-de-setembro-de-2026.ghtml)_
+
