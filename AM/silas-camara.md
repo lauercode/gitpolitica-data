@@ -225,3 +225,6 @@ Diretor
 - **[2026-08-31 23:29 UTC]** Câmara aprova adesão do Brasil a acordo internacional para combater pesca ilegal
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301479-camara-aprova-adesao-do-brasil-a-acordo-internacional-para-combater-pesca-ilegal)_
 
+- **[2026-08-31 23:19 UTC]** Câmara aprova exigência de diploma para o exercício profissional da psicopedagogia
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301469-camara-aprova-exigencia-de-diploma-para-o-exercicio-profissional-da-psicopedagogia)_
+
