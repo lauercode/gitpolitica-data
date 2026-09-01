@@ -155,3 +155,6 @@
 - **[2026-09-01 18:23 UTC]** Esposa de Moraes tinha segundo contrato com empresa de Vorcaro; banqueiro tentou pagar R$ 50 mi com aeronaves
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/esposa-de-moraes-tinha-segundo-contrato-com-empresa-de-vorcaro-banqueiro-tentou-pagar-r-50-mi-com-aeronaves.ghtml)_
 
+- **[2026-09-01 17:49 UTC]** A primeira pesquisa a testar segundo turno com Augusto Cury
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/primeira-pesquisa-a-testar-segundo-turno-com-augusto-cury/)_
+
