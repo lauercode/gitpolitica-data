@@ -170,3 +170,6 @@
 - **[2026-08-26 10:29 UTC]** Trabalhador e apegado à família: quem era o adolescente que morreu afogado em praia de Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/trabalhador-e-apegado-a-familia-quem-era-o-adolescente-que-morreu-afogado-em-praia-de-palmas.ghtml)_
 
+- **[2026-09-01 02:33 UTC]** Quem é Duane Davis, declarado culpado pelo assassinato do rapper Tupac Shakur há 30 anos (e o papel de um livro na condenação)
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4g79xy0y8xo?at_medium=RSS&at_campaign=rss)_
+
