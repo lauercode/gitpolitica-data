@@ -542,3 +542,6 @@
 - **[2026-09-01 01:25 UTC]** Mario Frias pede que caso sobre emendas para filme de Bolsonaro fique com Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-pede-que-caso-sobre-emendas-para-filme-de-bolsonaro-fique-com-mendonca/)_
 
+- **[2026-09-01 11:42 UTC]** TSE deve multar campanha de Flávio por avatar de Bolsonaro e definir punição sobre uso de deepfake
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-deve-multar-campanha-de-flavio-por-avatar-de-bolsonaro-e-definir-punicao-sobre-uso-de-deepfake.shtml)_
+
