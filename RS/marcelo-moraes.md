@@ -355,3 +355,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 23:00 UTC]** Implicação de Moraes e Gonet é inédita e torna responsabilização incerta, dizem especialistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/implicacao-de-moraes-e-gonet-e-inedita-e-torna-responsabilizacao-incerta-dizem-especialistas.shtml)_
 
+- **[2026-09-01 21:38 UTC]** A Moraes cabe a renúncia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/a-moraes-cabe-a-renuncia.shtml)_
+
