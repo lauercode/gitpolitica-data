@@ -734,3 +734,6 @@
 - **[2026-09-02 07:52 UTC]** Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 09:05 UTC]** TSE decide não multar Flávio Bolsonaro por uso de vídeo feito com IA
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/tse-decide-nao-multar-flavio-bolsonaro-por-uso-de-video-feito-com-ia)_
+
