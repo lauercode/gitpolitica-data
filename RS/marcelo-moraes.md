@@ -485,3 +485,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 03:07 UTC]** A “trilha do print”: como a PF reconstruiu o envio de mensagens secretas entre Vorcaro e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-pf-reconstruiu-o-envio-de-mensagens-secretas-entre-vorcaro-e-moraes/)_
 
+- **[2026-09-02 16:37 UTC]** STF deve blindar Moraes de investigação, diz especialista: 'Ainda não vi ministros do Supremo perderem nada em qualquer cenário'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c7708nnn3g3o?at_medium=RSS&at_campaign=rss)_
+
