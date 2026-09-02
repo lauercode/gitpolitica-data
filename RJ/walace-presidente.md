@@ -284,3 +284,6 @@
 - **[2026-09-01 21:22 UTC]** Confira como foi a terça-feira (1º) dos candidatos a presidente
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-terca-feira-1o-dos-candidatos-presidente)_
 
+- **[2026-09-02 00:24 UTC]** Presidente do Conselho do Einstein, Claudio Lottenberg é afastado do cargo durante o período eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/01/presidente-do-conselho-do-einstein-claudio-lottenberg-e-afastado-do-cargo-durante-o-periodo-eleitoral.ghtml)_
+
