@@ -143,3 +143,6 @@
 - **[2026-09-01 22:00 UTC]** Agentes de saúde entram em greve em Parauapebas e denunciam que pagam por viagens de trabalho
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/01/agentes-de-saude-entram-em-greve-em-parauapebas-e-denunciam-que-pagam-por-viagens-de-trabalho.ghtml)_
 
+- **[2026-09-01 22:01 UTC]** Câmara aprova projeto que reduz tempo de trabalho militar de PMs e bombeiros para aposentadoria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-aprova-projeto-que-reduz-tempo-de-trabalho-militar-de-pms-e-bombeiros-para-aposentadoria.shtml)_
+
