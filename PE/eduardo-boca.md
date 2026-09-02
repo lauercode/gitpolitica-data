@@ -14,3 +14,6 @@
 - **[2026-08-31 21:09 UTC]** 'Quase perdi a boca': mulher tem necrose após receber PMMA sem saber em SC; empresária é condenada
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-necrose-pmma-sem-saber-sc-empresaria-condenada.ghtml)_
 
+- **[2026-09-02 14:43 UTC]** Sessão da 6x1 tem choro de senadores, lembrança de pai morto e bate-boca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/sessao-da-6x1-tem-choro-de-senadores-lembranca-de-pai-morto-e-bate-boca.shtml)_
+
