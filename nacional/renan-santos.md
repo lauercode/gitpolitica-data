@@ -179,3 +179,6 @@
 - **[2026-09-01 21:51 UTC]** Por que o TSE recuou e liberou campanha de Renan Santos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 13:57 UTC]** Renan Santos diz que se rebelou e venceu o sistema
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-diz-que-se-rebelou-e-venceu-o-sistema/)_
+
