@@ -182,3 +182,6 @@
 - **[2026-09-02 13:40 UTC]** Projeto de lei propõe que hospitais comuniquem agressões contra pessoas vulneráveis, na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/projeto-de-lei-obriga-hospitais-a-comunicar-agressoes-contra-pessoas-vulneraveis-na-paraiba.ghtml)_
 
+- **[2026-09-02 20:33 UTC]** Projeto define culpa temerária no Código Penal para punir negligência extrema
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299538-projeto-define-culpa-temeraria-no-codigo-penal-para-punir-negligencia-extrema)_
+
