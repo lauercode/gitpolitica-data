@@ -239,3 +239,6 @@
 - **[2026-09-02 15:07 UTC]** Menino de 4 anos cai de embarcação e desaparece em rio no interior do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/menino-de-4-anos-cai-de-embarcacao-e-desaparece-em-rio-no-interior-do-acre.ghtml)_
 
+- **[2026-09-02 18:10 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 1º de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-1-de-setembro-de-2026.ghtml)_
+
