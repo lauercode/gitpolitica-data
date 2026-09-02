@@ -50,3 +50,6 @@
 - **[2026-09-01 23:59 UTC]** Comissão mista aprova aumento da indenização paga a servidores de fronteira
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301901-comissao-mista-aprova-aumento-da-indenizacao-paga-a-servidores-de-fronteira)_
 
+- **[2026-09-02 19:46 UTC]** Deputados iniciam votações do dia e analisam criação da Universidade Federal da Fronteira Norte; acompanhe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302284-deputados-iniciam-votacoes-do-dia-e-analisam-criacao-da-universidade-federal-da-fronteira-norte-acompanhe)_
+
