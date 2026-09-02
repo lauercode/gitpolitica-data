@@ -35,3 +35,6 @@
 - **[2026-09-01 14:42 UTC]** Cíntia Chagas confirma namoro com o piloto Rubens Barrichello
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/cintia-chagas-confirma-namoro-com-o-piloto-rubens-barrichello.shtml)_
 
+- **[2026-09-01 22:12 UTC]** Rubens Barrichello: relembre a trajetória pessoal e profissional do piloto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rubens-barrichello-relembre-a-trajetoria-pessoal-e-profissional-do-piloto.shtml)_
+
