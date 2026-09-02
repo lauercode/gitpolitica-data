@@ -445,3 +445,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 09:30 UTC]** Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 10:46 UTC]** Os argumentos de Gonet para pedir a anulação de relatório da PF que liga Vorcaro a Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy4zvrpx2gzo?at_medium=RSS&at_campaign=rss)_
+
