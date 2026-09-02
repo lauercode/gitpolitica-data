@@ -113,3 +113,6 @@
 - **[2026-09-02 15:30 UTC]** Homem é preso após esfaquear duas mulheres durante tentativa de estupro em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/02/homem-e-preso-apos-esfaquear-duas-mulheres-durante-tentativa-de-estupro-em-natal.ghtml)_
 
+- **[2026-09-02 16:19 UTC]** MP promove capacitação com agentes de segurança sobre atendimento a mulheres vítimas de violência em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/02/mp-promove-capacitacao-com-agentes-de-seguranca-sobre-atendimento-a-mulheres-vitimas-de-violencia-em-roraima.ghtml)_
+
