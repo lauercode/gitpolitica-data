@@ -44,3 +44,6 @@
 - **[2026-09-01 17:24 UTC]** Mãe do menino Miguel se forma em direito no Recife e homenageia filho em cerimônia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mae-do-menino-miguel-se-forma-em-direito-no-recife-e-homenageia-filho-em-cerimonia.shtml)_
 
+- **[2026-09-02 15:07 UTC]** Menino de 4 anos cai de embarcação e desaparece em rio no interior do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/menino-de-4-anos-cai-de-embarcacao-e-desaparece-em-rio-no-interior-do-acre.ghtml)_
+
