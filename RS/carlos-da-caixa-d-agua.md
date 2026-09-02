@@ -143,3 +143,6 @@
 - **[2026-09-01 16:01 UTC]** Jovem morre após ser esfaqueada em Água Doce do Maranhão; adolescente suspeito do crime foi apreendido
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/jovem-morre-apos-ser-esfaqueada-em-agua-doce-do-maranhao-adolescente-supeito-do-crime-foi-apreendido.ghtml)_
 
+- **[2026-09-02 12:21 UTC]** Anvisa interdita água mineral da marca Vitoriosa por conter coliformes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-interdita-agua-mineral-da-marca-vitoriosa-por-conter-coliformes)_
+
