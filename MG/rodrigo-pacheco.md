@@ -56,3 +56,6 @@
 - **[2026-09-02 15:18 UTC]** Câmara aprova indicação do senador Rodrigo Pacheco para ministro do TCU
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302159-camara-aprova-indicacao-do-senador-rodrigo-pacheco-para-ministro-do-tcu)_
 
+- **[2026-09-02 15:04 UTC]** Câmara dos Deputados aprova indicação, e Rodrigo Pacheco será ministro do TCU
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/camara-dos-deputados-aprova-indicacao-e-rodrigo-pacheco-sera-ministro-do-tcu.ghtml)_
+
