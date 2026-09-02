@@ -335,3 +335,6 @@ Diretor
 - **[2026-09-02 01:06 UTC]** Câmara aprova criação do novo Plano Nacional de Cultura
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301964-camara-aprova-criacao-do-novo-plano-nacional-de-cultura)_
 
+- **[2026-09-01 23:56 UTC]** Câmara aprova criação de 24 cargos de juiz do Trabalho no Rio de Janeiro
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301949-camara-aprova-criacao-de-24-cargos-de-juiz-do-trabalho-no-rio-de-janeiro)_
+
