@@ -101,3 +101,6 @@
 - **[2026-09-02 16:18 UTC]** Rodrigo Pacheco, ex-presidente do Senado, será ministro do TCU
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-ex-presidente-do-senado-sera-ministro-do-tcu)_
 
+- **[2026-09-02 15:15 UTC]** Trabalhadores podem ter até 10 folgas no mês com fim da 6x1; veja como será
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trabalhadores-podem-ter-ate-10-folgas-no-mes-com-fim-da-6x1-veja-como-sera.shtml)_
+
