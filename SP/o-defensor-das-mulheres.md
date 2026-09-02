@@ -98,3 +98,6 @@
 - **[2026-09-02 04:00 UTC]** Morte em cirurgia plástica na Bahia expõe histórico de queixas de mulheres contra médico de Itabuna
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/morte-em-cirurgia-plastica-na-bahia-expoe-historico-de-queixas-de-mulheres-contra-medico-de-itabuna.shtml)_
 
+- **[2026-09-02 08:00 UTC]** Mulheres fazem amizades no trabalho de maneira diferente dos homens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/mulheres-fazem-amizades-no-trabalho-de-maneira-diferente-dos-homens.shtml)_
+
