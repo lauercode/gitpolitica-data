@@ -35,3 +35,6 @@
 - **[2018-07-19 11:54 UTC]** Heterocromia em animais chama atenção pela beleza, mas é preciso ter cuidados
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/19/heterocromia-em-animais-chama-atencao-pela-beleza-mas-e-preciso-ter-cuidados.ghtml)_
 
+- **[2026-09-02 11:47 UTC]** Imprensa internacional chama escândalo envolvendo Moraes de “bomba atômica”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/imprensa-internacional-chama-escandalo-envolvendo-moraes-bomba-atomica/)_
+
