@@ -185,3 +185,6 @@
 - **[2026-09-02 13:05 UTC]** Renan Santos organiza ato na Paulista pelo impeachment de Toffoli e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-organiza-ato-na-paulista-pelo-impeachment-de-toffoli-e-moraes/)_
 
+- **[2026-09-02 21:48 UTC]** Renan Santos protocola pedido de impeachment contra Moraes e Toffoli
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/renan-santos-impeachment-moraes-toffoli.ghtml)_
+
