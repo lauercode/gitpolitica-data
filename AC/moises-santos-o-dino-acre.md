@@ -248,3 +248,6 @@
 - **[2026-09-02 21:00 UTC]** Mulher é achada morta dentro de banheiro de apartamento no Acre; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/corpos-sao-achados-esquartejados-dentro-de-sacos-plasticos-em-apartamento-no-acre.ghtml)_
 
+- **[2026-09-02 20:04 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quarta-feira, 2 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quarta-feira-2-de-setembro-de-2026.ghtml)_
+
