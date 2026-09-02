@@ -140,3 +140,6 @@
 - **[2026-09-01 20:03 UTC]** VÍDEOS: Jornal do Amazonas - 1ª edição, 1º de setembro de 2026
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-1-edicao-1-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-01 23:59 UTC]** VÍDEO: Jornal Anhanguera 2ª Edição-TO de terça-feira, 1º de setembro de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/video-jornal-anhanguera-2-edicao-to-de-terca-feira-1-de-setembro-de-2026.ghtml)_
+
