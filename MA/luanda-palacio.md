@@ -26,3 +26,6 @@
 - **[2017-08-27 14:05 UTC]** Artista faz performance em frente ao Palácio do Planalto com cabeça de porco e Constituição em mãos
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/artista-faz-performance-em-frente-ao-palacio-do-planalto-com-cabeca-de-porco-e-constituicao-em-maos.ghtml)_
 
+- **[2026-09-02 13:59 UTC]** Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Palácio do Planalto
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml)_
+
