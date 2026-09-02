@@ -110,3 +110,6 @@
 - **[2026-09-01 18:35 UTC]** Escapada secreta de Trump no avião Air Force One vira documentário na Netflix
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/escapada-secreta-de-trump-no-aviao-air-force-one-vira-documentario-na-netflix.shtml)_
 
+- **[2026-09-02 01:55 UTC]** Aliado de Trump publica montagem de Moraes com Banco Master e diz que ministro “está com sérios problemas”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/aliado-de-trump-publica-montagem-de-moraes-com-banco-master-e-diz-que-ministro-esta-com-serios-problemas/)_
+
