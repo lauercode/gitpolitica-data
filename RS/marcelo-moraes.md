@@ -522,3 +522,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 16:37 UTC]** STF deve blindar Moraes de investigação, diz especialista: 'Não vi ministros do Supremo perderem nada em qualquer cenário'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c7708nnn3g3o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 17:06 UTC]** Flávio Bolsonaro diz considerar 'inadmissível' Alexandre de Moraes seguir como ministro do STF após conversas com Vorcaro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/02/flavio-bolsonaro-pl-presidencia-porto-alegre-rs.ghtml)_
+
