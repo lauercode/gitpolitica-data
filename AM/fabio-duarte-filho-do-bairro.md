@@ -41,3 +41,6 @@
 - **[2026-09-01 19:59 UTC]** Jovem é morto a tiros e motorista de aplicativo fica ferido no bairro Equatorial
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/01/jovem-e-morto-a-tiros-e-motorista-de-aplicativo-fica-ferido-no-bairro-equatorial.ghtml)_
 
+- **[2026-09-02 11:31 UTC]** Morre aos 91 anos Juracy Palhano, ex-deputado e fundador do bairro das Nações, em Campina Grande
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/morre-aos-91-anos-juracy-palhano-campina-grande-pb.ghtml)_
+
