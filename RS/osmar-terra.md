@@ -74,3 +74,6 @@
 - **[2026-09-01 15:50 UTC]** Meu Ceará é terra da educação e do roubo misterioso de calcinhas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/socorro-acioli/2026/09/meu-ceara-e-terra-da-educacao-e-do-roubo-misterioso-de-calcinhas.shtml)_
 
+- **[2026-09-02 18:45 UTC]** Justiça mantém demarcação de terra indígena de 1,1 milhão de hectares entre MT e PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/mt/mato-grosso/noticia/2026/09/02/justica-mantem-demarcacao-de-terra-indigena-de-11-milhao-de-hectares-entre-mt-e-pa.ghtml)_
+
