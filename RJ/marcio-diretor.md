@@ -44,3 +44,6 @@
 - **[2026-09-02 11:59 UTC]** Ator e diretor Gracindo Jr. morre aos 83 anos no Rio
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/ator-e-diretor-gracindo-jr-morre-aos-83-anos-no-rio)_
 
+- **[2026-09-02 14:29 UTC]** SBT faz nova mudança após saída do diretor de jornalismo no Rio de Janeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-faz-nova-mudanca-apos-saida-do-diretor-de-jornalismo-no-rio-de-janeiro.shtml)_
+
