@@ -152,3 +152,6 @@
 - **[2026-09-02 01:14 UTC]** Câmara aprova reajuste anual de custas da Justiça do Trabalho
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301992-camara-aprova-reajuste-anual-de-custas-da-justica-do-trabalho)_
 
+- **[2026-09-01 23:56 UTC]** Câmara aprova criação de 24 cargos de juiz do Trabalho no Rio de Janeiro
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301949-camara-aprova-criacao-de-24-cargos-de-juiz-do-trabalho-no-rio-de-janeiro)_
+
