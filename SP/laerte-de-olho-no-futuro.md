@@ -35,3 +35,6 @@
 - **[2026-09-02 04:20 UTC]** As mensagens de Vorcaro a Moraes e o futuro do Caso Master no Supremo - O Assunto #1796
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/02/as-mensagens-de-vorcaro-a-moraes-e-o-futuro-do-caso-master-no-supremo-o-assunto-1796.ghtml)_
 
+- **[2026-09-02 15:14 UTC]** Como escândalo entre Moraes e Vorcaro ameaça futuro do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-escandalo-entre-moraes-e-vorcaro-ameaca-futuro-do-stf/)_
+
