@@ -50,3 +50,6 @@
 - **[2026-08-31 12:03 UTC]** Veneziano, candidato ao Senado pela Paraíba, defende mudança da escala 6x1 e fala em transparência de emendas impositivas
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/31/veneziano-candidato-senado-paraiba-mudanca-escala-6x1-transparencia-emendas-impositivas.ghtml)_
 
+- **[2026-09-02 01:53 UTC]** Câmara aprova mudança em cargos na Justiça do Trabalho de Goiás
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302021-camara-aprova-mudanca-em-cargos-na-justica-do-trabalho-de-goias)_
+
