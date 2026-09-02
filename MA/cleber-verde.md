@@ -35,3 +35,6 @@
 - **[2026-09-02 10:00 UTC]** Substâncias presentes em uva, café e chá verde favorecem a microbiota
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/substancias-presentes-em-uva-cafe-e-cha-verde-favorecem-a-microbiota.shtml)_
 
+- **[2026-09-02 16:16 UTC]** Ossada humana é encontrada após queimada em área verde de Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/ossada-humana-e-encontrada-apos-queimada-em-area-verde-de-palmas.ghtml)_
+
