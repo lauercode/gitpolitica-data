@@ -203,3 +203,6 @@
 - **[2026-09-02 10:27 UTC]** Dois homens são presos em Maceió por suspeita de armazenar conteúdos de abuso infantil
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/dois-homens-sao-presos-em-maceio-por-suspeita-de-armazenar-conteudos-de-abuso-sexual-infantil.ghtml)_
 
+- **[2026-09-02 12:50 UTC]** Presos mais dois suspeitos de integrar grupo criminoso responsável por roubos de joias em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/presos-mais-dois-suspeitos-de-integrar-grupo-criminoso-responsavel-por-roubos-de-joias-em-sao-luis.ghtml)_
+
