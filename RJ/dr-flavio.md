@@ -722,3 +722,6 @@
 - **[2026-09-01 23:44 UTC]** TSE rejeita multa a Flávio por vídeo de Jair Bolsonaro por IA em convenção do PL
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/tse-tem-maioria-de-votos-para-livrar-flavio-de-multa-por-video-de-bolsonaro-por-ia.ghtml)_
 
+- **[2026-09-01 23:00 UTC]** Aliados de Lula veem risco à democracia caso Flávio possa nomear substituto de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-lula-veem-risco-a-democracia-caso-flavio-possa-nomear-substituto-de-moraes.shtml)_
+
