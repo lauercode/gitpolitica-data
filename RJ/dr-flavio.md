@@ -758,3 +758,6 @@
 - **[2026-09-02 13:16 UTC]** Quaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 41%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-2-turno-setembro.ghtml)_
 
+- **[2026-09-02 10:21 UTC]** Quaest: Lula tem 37%, e Flávio Bolsonaro, 30% no primeiro turno; Cury chega a 10%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-lula-tem-37-e-flavio-bolsonaro-30-no-primeiro-turno-cury-chega-a-10.shtml)_
+
