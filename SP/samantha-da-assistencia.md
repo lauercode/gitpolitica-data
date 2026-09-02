@@ -11,3 +11,6 @@
 - **[2026-09-01 11:05 UTC]** Comissão discute assistência às pessoas com doenças raras e condições crônicas; participe
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300596-comissao-discute-assistencia-as-pessoas-com-doencas-raras-e-condicoes-cronicas-participe)_
 
+- **[2026-09-02 14:41 UTC]** TSE e DPU ampliam assistência gratuita remota nas eleições
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-e-dpu-ampliam-assistencia-gratuita-nas-eleicoes)_
+
