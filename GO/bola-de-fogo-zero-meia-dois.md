@@ -206,3 +206,6 @@
 - **[2026-09-02 12:50 UTC]** Presos mais dois suspeitos de integrar grupo criminoso responsável por roubos de joias em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/presos-mais-dois-suspeitos-de-integrar-grupo-criminoso-responsavel-por-roubos-de-joias-em-sao-luis.ghtml)_
 
+- **[2026-09-01 12:24 UTC]** Tempestades deixam 180 mil imóveis sem luz no Paraná; 7,5 mil permanecem sem energia há dois dias
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/tempestades-deixam-imoveis-sem-luz-sem-energia-no-parana.ghtml)_
+
