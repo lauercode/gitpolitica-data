@@ -11,3 +11,6 @@
 - **[2026-09-01 11:44 UTC]** Dois anos depois, mais quatro pessoas são presas  pela morte do dentista Clei Bagattini em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/quatro-pessoas-sao-presas-pela-morte-do-dentista-clei-bagattini-em-ro.ghtml)_
 
+- **[2026-09-02 15:24 UTC]** Clei Bagattini: Polícia Civil aponta que morte de dentista foi encomendada a 'escritório do crime' em Vilhena, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/02/clei-bagattini-policia-civil-aponta-que-morte-de-dentista-foi-encomendada-a-escritorio-do-crime-em-vilhena-ro.ghtml)_
+
