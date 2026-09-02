@@ -116,3 +116,6 @@
 - **[2026-09-02 01:59 UTC]** Alcolumbre sinaliza que não pautará impeachment de Moraes e cita 109 pedidos contra STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-sinaliza-que-nao-pautara-impeachment-de-moraes-109-pedidos-contra-stf/)_
 
+- **[2026-09-02 17:45 UTC]** Oposição cobra Alcolumbre e diz querer investigação individualizada de autoridades para preservar instituições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/oposicao-cobra-alcolumbre-e-diz-querer-investigacao-individualizada-de-autoridades-para-preservar-instituicoes.ghtml)_
+
