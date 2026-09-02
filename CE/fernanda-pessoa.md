@@ -183,3 +183,6 @@ direcionado às necessidades de cada pessoa
 direcionado às necessidades de cada pessoa
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
 
+- **[2026-09-02 09:20 UTC]** Paraíba é o 3º estado com maior qualidade de crédito para pessoa física no país, aponta ranking de competitividade
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/paraiba-e-o-3o-estado-com-maior-qualidade-de-credito-para-pessoa-fisica-no-pais-aponta-ranking-de-competitividade.ghtml)_
+
