@@ -62,3 +62,6 @@
 - **[2026-09-02 18:10 UTC]** Deputados governistas veem parcialidade de Mendonça e pedem derrubada de sigilo do caso 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/deputados-governistas-veem-parcialidade-de-mendonca-e-pedem-derrubada-de-sigilo-do-caso-dark-horse.shtml)_
 
+- **[2026-09-02 20:59 UTC]** Governistas pedem a Fachin fim do sigilo de caso Dark Horse e criticam Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governistas-pedem-a-fachin-fim-do-sigilo-de-caso-dark-horse-e-criticam-mendonca/)_
+
