@@ -44,3 +44,6 @@
 - **[2026-09-01 13:00 UTC]** Domínio de facções faz da segurança principal preocupação do eleitor do Nordeste
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dominio-de-faccoes-faz-da-seguranca-principal-preocupacao-do-eleitor-do-nordeste.shtml)_
 
+- **[2026-09-02 08:16 UTC]** Quarta-feira é de chuvas no Sudeste, Centro-Oeste e sul do Nordeste
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/quarta-feira-e-de-chuvas-no-sudeste-centro-oeste-e-sul-do-nordeste)_
+
