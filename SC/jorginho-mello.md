@@ -23,3 +23,6 @@
 - **[2026-09-01 22:28 UTC]** Eleições 2026 em SC: Jorginho Mello visita hospital e conversa com funcionários e apoiadores
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-em-sc-jorginho-mello-visita-hospital-e-conversa-com-funcionarios.ghtml)_
 
+- **[2026-09-02 22:06 UTC]** Eleições 2026 em SC: Jorginho Mello encontra apoiadores e visita clube de tênis no Norte
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-em-sc-jorginho-mello-encontra-apoiadores-e-visita-clube-de-tenis-no-norte.ghtml)_
+
