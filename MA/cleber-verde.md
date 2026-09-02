@@ -32,3 +32,6 @@
 - **[2026-09-02 10:00 UTC]** Criamos uma inteligência artificial verde para prever chuvas intensas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2026/09/criamos-uma-inteligencia-artificial-verde-para-prever-chuvas-intensas.shtml)_
 
+- **[2026-09-02 10:00 UTC]** Substâncias presentes em uva, café e chá verde favorecem a microbiota
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/substancias-presentes-em-uva-cafe-e-cha-verde-favorecem-a-microbiota.shtml)_
+
