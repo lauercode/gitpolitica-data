@@ -442,3 +442,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 11:28 UTC]** Moraes teria ajudado Vorcaro a organizar evento com ministro do STF em Londres
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-teria-ajudado-vorcaro-organizar-evento-ministro-stf-londres/)_
 
+- **[2026-09-02 09:30 UTC]** Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss)_
+
