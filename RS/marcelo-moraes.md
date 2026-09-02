@@ -349,3 +349,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 23:00 UTC]** Aliados de Lula veem risco à democracia caso Flávio possa nomear substituto de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-lula-veem-risco-a-democracia-caso-flavio-possa-nomear-substituto-de-moraes.shtml)_
 
+- **[2026-09-01 23:00 UTC]** Mensagens em poder da PF expõem elos e indicam atuação de Moraes a favor de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-em-poder-da-pf-expoem-elos-e-indicam-atuacao-de-moraes-a-favor-de-vorcaro.shtml)_
+
