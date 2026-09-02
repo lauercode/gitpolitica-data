@@ -29,3 +29,6 @@
 - **[2026-09-01 20:30 UTC]** Vorcaro organizou almoço para Moraes em hotel de luxo em Campos do Jordão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-organizou-almoco-moraes-hotel-luxo-campos-do-jordao/)_
 
+- **[2026-09-02 16:18 UTC]** Adolescente que matou homem em hotel de João Pessoa vai ser internado após determinação da Justiça
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/adolescente-que-matou-homem-em-hotel-de-joao-pessoa-vai-ser-internado-apos-determinacao-da-justica.ghtml)_
+
