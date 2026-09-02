@@ -385,3 +385,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 01:11 UTC]** Tensão no STF: revelações da PF acirram conflito entre Moraes e Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tensao-no-stf-revelacoes-da-pf-acirram-conflito-entre-moraes-e-mendonca/)_
 
+- **[2026-09-02 01:59 UTC]** Como era a relação de amizade e “gratidão de vida” entre Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-era-a-relacao-de-amizade-e-gratidao-de-vida-entre-vorcaro-e-moraes/)_
+
