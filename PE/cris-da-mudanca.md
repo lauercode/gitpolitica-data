@@ -53,3 +53,6 @@
 - **[2026-09-02 01:53 UTC]** Câmara aprova mudança em cargos na Justiça do Trabalho de Goiás
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302021-camara-aprova-mudanca-em-cargos-na-justica-do-trabalho-de-goias)_
 
+- **[2026-09-02 14:29 UTC]** SBT faz nova mudança após saída do diretor de jornalismo no Rio de Janeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-faz-nova-mudanca-apos-saida-do-diretor-de-jornalismo-no-rio-de-janeiro.shtml)_
+
