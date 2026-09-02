@@ -392,3 +392,6 @@ Diretor
 - **[2026-09-02 15:25 UTC]** Comissão aprova fim da 'taxa das blusinhas'; medida segue para votação no plenário da Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/comissao-aprova-fim-da-taxa-das-blusinhas-medida-segue-para-votacao-no-plenario-da-camara.ghtml)_
 
+- **[2026-09-02 15:04 UTC]** Câmara dos Deputados aprova indicação, e Rodrigo Pacheco será ministro do TCU
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/camara-dos-deputados-aprova-indicacao-e-rodrigo-pacheco-sera-ministro-do-tcu.ghtml)_
+
