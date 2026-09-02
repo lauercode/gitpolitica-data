@@ -167,3 +167,6 @@
 - **[2026-09-02 03:00 UTC]** Contratos milionários, experiências de luxo e viagem a Londres: o que Vorcaro ofereceu a Moraes e sua família, segundo a PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/que-vorcaro-ofereceu-a-moraes-e-sua-familia-segundo-a-pf.ghtml)_
 
+- **[2026-09-02 11:52 UTC]** INFOGRÁFICO: veja mensagens que Vorcaro mandou a número atribuído a Moraes antes de ser preso, segundo PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/infografico-mensagens-vorcaro-moraes-segundo-pf.ghtml)_
+
