@@ -382,3 +382,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 00:53 UTC]** 19 mensagens que mostram carinho de Vorcaro com Moraes e Gonet
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/gratidao-da-minha-vida-mensagens-mostram-carinho-de-vorcaro-com-moraes-e-gonet/)_
 
+- **[2026-09-02 01:11 UTC]** Tensão no STF: revelações da PF acirram conflito entre Moraes e Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tensao-no-stf-revelacoes-da-pf-acirram-conflito-entre-moraes-e-mendonca/)_
+
