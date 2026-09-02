@@ -56,3 +56,6 @@
 - **[2026-09-02 09:52 UTC]** Carreta carregada de óleo tomba perto do aeroporto de São Luís e interdita pista
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/carreta-com-carga-de-oleo-tomba-perto-do-aeroporto-de-sao-luis-e-interdita-pista.ghtml)_
 
+- **[2026-09-02 11:03 UTC]** Motorista de caminhonete morre no PR após ser atingido por carro que invadiu pista contrária na BR-277
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/02/motorista-de-caminhonete-morre-no-pr-apos-ser-atingido-por-carro-que-invadiu-pista-contraria-na-br-277.ghtml)_
+
