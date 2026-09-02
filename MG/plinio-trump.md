@@ -116,3 +116,6 @@
 - **[2026-09-02 13:19 UTC]** Trump propõe mudar nome do estreito de Hormuz para estreito de Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-propoe-mudar-nome-do-estreito-de-hormuz-para-estreito-de-trump.shtml)_
 
+- **[2026-09-02 16:30 UTC]** Aliados de Trump encomendam pesquisa e veem empate técnico entre Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-trump-encomendam-pesquisa-e-veem-empate-tecnico-entre-lula-e-flavio.shtml)_
+
