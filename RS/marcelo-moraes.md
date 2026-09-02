@@ -547,3 +547,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 21:21 UTC]** Fiesp exibe bandeira do Brasil em protesto após revelações sobre Moraes e Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fiesp-exibe-bandeira-do-brasil-em-protesto-apos-revelacoes-sobre-moraes-e-vorcaro/)_
 
+- **[2026-09-02 20:59 UTC]** Mensagens de Vorcaro apontam crimes comuns e de responsabilidade de Moraes e Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-de-vorcaro-apontam-crimes-comuns-e-de-responsabilidade-de-moraes-e-gonet/)_
+
