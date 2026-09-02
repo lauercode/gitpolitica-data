@@ -188,3 +188,6 @@
 - **[2026-09-02 21:20 UTC]** Terras raras: Senado aprova projeto com fundo garantidor e crédito de R$ 5 bi para estimular exploração
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/terras-raras-senado-aprova-fundo-garantidor-e-credito-de-r-5-bi-para-estimular-exploracao.ghtml)_
 
+- **[2026-09-02 21:51 UTC]** Sauins-de-coleira, espécie ameaçada de extinção, são levados de Manaus para projeto de preservação no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/sauins-de-coleira-especie-ameacada-de-extincao-sao-levados-de-manaus-para-projeto-de-preservacao-no-para.ghtml)_
+
