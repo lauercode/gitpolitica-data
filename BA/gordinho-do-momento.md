@@ -44,3 +44,6 @@
 - **[2026-09-02 21:01 UTC]** Veja o momento em que cavalo desgovernado é controlado por menina de 12 anos no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/veja-o-momento-em-que-cavalo-desgovernado-e-controlado-por-menina-de-12-anos-no-rs.ghtml)_
 
+- **[2026-09-02 21:42 UTC]** Casal morto a tiros dentro de casa em SC estava dormindo no momento do crime, diz polícia
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/casal-morto-tiros-casa-sc-dormindo-crime-diz-policia.ghtml)_
+
