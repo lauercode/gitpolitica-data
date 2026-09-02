@@ -375,3 +375,6 @@ Diretor
 - **[2026-09-02 12:12 UTC]** Câmara pode votar nesta quarta medida provisória que zerou taxa para compras internacionais de até 50 dólares
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302066-camara-pode-votar-nesta-quarta-medida-provisoria-que-zerou-taxa-para-compras-internacionais-de-ate-50-dolares)_
 
+- **[2026-09-01 19:59 UTC]** Rosângela Moro recebe 34% da verba do PL para candidatas à Câmara dos Deputados no PR
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/rosangela-moro-concentra-22-da-verba-do-pl-para-candidatos-a-deputado-no-pr.shtml)_
+
