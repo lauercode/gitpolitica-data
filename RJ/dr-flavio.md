@@ -764,3 +764,6 @@
 - **[2026-09-02 16:07 UTC]** Flávio sobe à tribuna do Senado e cobra impeachment de Moraes imediatamente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-sobe-a-tribuna-do-senado-e-cobra-impeachment-de-moraes-imediatamente/)_
 
+- **[2026-09-02 16:30 UTC]** Aliados de Trump encomendam pesquisa e veem empate técnico entre Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-trump-encomendam-pesquisa-e-veem-empate-tecnico-entre-lula-e-flavio.shtml)_
+
