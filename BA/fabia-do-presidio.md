@@ -35,3 +35,6 @@
 - **[2026-09-01 21:37 UTC]** Quatro policiais são feitos reféns em motim em presídio da PM em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/confusao-e-registrada-em-unidade-prisional-da-pm-em-manaus.ghtml)_
 
+- **[2026-09-02 18:39 UTC]** Justiça condena seis por plano de atentado a bomba do PCC descoberto em presídio federal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-condena-seis-por-plano-de-atentado-a-bomba-do-pcc-descoberto-em-presidio-federal.shtml)_
+
