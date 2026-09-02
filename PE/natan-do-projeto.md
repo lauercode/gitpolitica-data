@@ -155,3 +155,6 @@
 - **[2026-09-01 22:01 UTC]** Câmara aprova projeto que reduz tempo de trabalho militar de PMs e bombeiros para aposentadoria
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-aprova-projeto-que-reduz-tempo-de-trabalho-militar-de-pms-e-bombeiros-para-aposentadoria.shtml)_
 
+- **[2026-09-02 01:34 UTC]** Câmara aprova projeto que prevê orientação vocacional para estudantes do ensino médio
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302002-camara-aprova-projeto-que-preve-orientacao-vocacional-para-estudantes-do-ensino-medio)_
+
