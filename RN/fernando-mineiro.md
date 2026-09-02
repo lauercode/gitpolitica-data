@@ -20,3 +20,6 @@
 - **[2026-08-25 00:06 UTC]** Zema propõe ajuste fiscal para baixar juros a 6%, sem detalhar medidas, e defende anistia para condenados do 8 de janeiro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/romeu-zema-entrevista-globo.ghtml)_
 
+- **[2026-09-02 17:33 UTC]** Corpo encontrado em riacho pode ser de mineiro desaparecido há 22 dias em SC, diz polícia
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/corpo-riacho-pode-ser-mineiro-desaparecido-sc-diz-policia.ghtml)_
+
