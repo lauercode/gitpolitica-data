@@ -14,3 +14,6 @@
 - **[2026-08-28 19:00 UTC]** Aécio confirma candidatura ao Senado por Minas Gerais e nega apoio a Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aecio-confirma-candidatura-ao-senado-por-minas-gerais-e-nega-apoio-a-lula/)_
 
+- **[2026-09-02 07:00 UTC]** Candidatura de Aécio Neves faz rearranjo na disputa pelo Senado em Minas Gerais
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/02/candidatura-de-aecio-neves-faz-rearranjo-na-disputa-pelo-senado-em-minas-gerais.ghtml)_
+
