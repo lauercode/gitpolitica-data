@@ -29,3 +29,6 @@
 - **[2026-09-01 17:16 UTC]** Estudante espancado na UFRJ diz temer retorno ao campus, e universidade vive pressão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/estudante-espancado-na-ufrj-diz-temer-retorno-ao-campus-e-universidade-vive-pressao.shtml)_
 
+- **[2026-09-02 17:27 UTC]** STF em ponto de não retorno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-em-ponto-de-nao-retorno.shtml)_
+
