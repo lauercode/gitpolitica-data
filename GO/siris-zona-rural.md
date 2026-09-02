@@ -35,3 +35,6 @@
 - **[2026-09-01 22:19 UTC]** Soldado Sampaio fala em garantir trafegabilidade para escoamento da produção rural em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/soldado-sampaio-fala-em-garantir-trafegabilidade-para-escoamento-da-producao-rural-em-roraima.ghtml)_
 
+- **[2026-09-02 19:19 UTC]** Homem é morto a tiros na zona rural de São Francisco do Guaporé, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/02/homem-e-morto-a-tiros-na-zona-rural-de-sao-francisco-do-guapore-ro.ghtml)_
+
