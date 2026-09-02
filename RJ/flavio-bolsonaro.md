@@ -620,3 +620,6 @@
 - **[2026-09-02 13:16 UTC]** Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-presidente-2-setembro.ghtml)_
 
+- **[2026-09-02 13:16 UTC]** Quaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-2-turno-setembro.ghtml)_
+
