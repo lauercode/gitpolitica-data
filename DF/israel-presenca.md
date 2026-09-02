@@ -29,3 +29,6 @@
 - **[2026-09-01 23:06 UTC]** Moraes articulou presença de ministros do STF e STJ em evento de Vorcaro em Londres, diz PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/moraes-articulou-presenca-de-ministros-do-stf-e-stj-em-evento-de-vorcaro-em-londres-diz-pf.ghtml)_
 
+- **[2026-09-02 06:00 UTC]** Datação de sítio que mudou ideia sobre presença de humanos nas Américas volta ao debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/datacao-de-sitio-que-mudou-ideia-sobre-presenca-de-humanos-nas-americas-volta-ao-debate.shtml)_
+
