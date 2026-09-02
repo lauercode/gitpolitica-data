@@ -41,3 +41,6 @@
 - **[2026-09-01 09:56 UTC]** Câmera de segurança flagra momento em que motorista atropela e mata ciclista em João Pessoa; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/camera-de-seguranca-flagra-momento-em-que-motorista-atropela-e-mata-ciclista-em-joao-pessoa-video.ghtml)_
 
+- **[2026-09-02 21:01 UTC]** Veja o momento em que cavalo desgovernado é controlado por menina de 12 anos no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/veja-o-momento-em-que-cavalo-desgovernado-e-controlado-por-menina-de-12-anos-no-rs.ghtml)_
+
