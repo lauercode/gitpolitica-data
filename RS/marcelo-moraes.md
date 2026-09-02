@@ -394,3 +394,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 04:20 UTC]** As mensagens de Vorcaro a Moraes e o futuro do Caso Master no Supremo - O Assunto #1796
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/02/as-mensagens-de-vorcaro-a-moraes-e-o-futuro-do-caso-master-no-supremo-o-assunto-1796.ghtml)_
 
+- **[2026-09-02 03:00 UTC]** Vorcaro e Moraes: veja PRINTS de conversas reveladas em relatório da PF e entenda contexto
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/vorcaro-e-moraes-veja-prints-de-conversas-reveladas-em-relatorio-da-pf.ghtml)_
+
