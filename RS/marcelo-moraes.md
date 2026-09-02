@@ -470,3 +470,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 15:14 UTC]** Como escândalo entre Moraes e Vorcaro ameaça futuro do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-escandalo-entre-moraes-e-vorcaro-ameaca-futuro-do-stf/)_
 
+- **[2026-09-02 15:00 UTC]** Gonet tenta blindar Moraes, mas inquérito pode ser aberto pelo plenário do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-tenta-blindar-moraes-mas-inquerito-pode-ser-aberto-pelo-plenario-do-stf/)_
+
