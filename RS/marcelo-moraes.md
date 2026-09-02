@@ -397,3 +397,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 03:00 UTC]** Vorcaro e Moraes: veja PRINTS de conversas reveladas em relatório da PF e entenda contexto
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/vorcaro-e-moraes-veja-prints-de-conversas-reveladas-em-relatorio-da-pf.ghtml)_
 
+- **[2026-09-02 03:00 UTC]** Contratos milionários, experiências de luxo e viagem a Londres: o que Vorcaro ofereceu a Moraes e sua família, segundo a PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/que-vorcaro-ofereceu-a-moraes-e-sua-familia-segundo-a-pf.ghtml)_
+
