@@ -38,3 +38,6 @@
 - **[2026-08-30 18:14 UTC]** Instituto oferta 100 vagas em curso gratuito de inglês em Roraima; veja como se inscrever
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/30/instituto-oferta-100-vagas-em-curso-gratuito-de-ingles-em-roraima-veja-como-se-inscrever.ghtml)_
 
+- **[2026-09-02 10:00 UTC]** Instituto Bora nasce para impactar pessoas e movimentar R$ 810 mi em renda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/09/instituto-bora-nasce-para-impactar-pessoas-e-movimentar-r-810-mi-em-renda.shtml)_
+
