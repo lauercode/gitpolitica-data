@@ -541,3 +541,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 17:14 UTC]** Viagens, jato e helicóptero: o que Vorcaro ofereceu a Alexandre de Moraes, segundo PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/viagens-jato-e-helicoptero-o-que-vorcaro-ofereceu-a-alexandre-de-moraes-segundo-pf.shtml)_
 
+- **[2026-09-02 21:50 UTC]** Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/impeachment-de-alexandre-de-moraes-qual-e-a-posicao-de-cada-senador/)_
+
