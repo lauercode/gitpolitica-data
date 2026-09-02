@@ -59,3 +59,6 @@
 - **[2026-09-01 23:12 UTC]** Atlético busca virada, elimina o Cruzeiro e avança à semifinal da Copa do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/atletico-busca-virada-elimina-o-cruzeiro-e-avanca-a-semifinal-da-copa-do-brasil.shtml)_
 
+- **[2026-09-02 16:55 UTC]** Seleção brasileira terá 1ª convocação pós-Copa em 9 de setembro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/selecao-brasileira-tera-1a-convocacao-pos-copa-em-9-de-setembro)_
+
