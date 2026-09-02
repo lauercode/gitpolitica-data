@@ -50,3 +50,6 @@
 - **[2026-09-02 09:08 UTC]** Viva Maria: devoção à Santa Raimunda na Amazônia vira tema de livro
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/viva-maria-devocao-santa-raimunda-na-amazonia-vira-tema-de-livro)_
 
+- **[2026-09-02 12:57 UTC]** Homem é preso em Santa Catarina suspeito de racismo, incitação ao crime e pornografia infantil em Volta Redonda
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/02/homem-e-preso-em-santa-catarina-suspeito-de-racismo-incitacao-ao-crime-e-pornografia-infantil-em-volta-redonda.ghtml)_
+
