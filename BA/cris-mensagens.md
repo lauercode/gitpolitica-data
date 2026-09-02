@@ -93,3 +93,7 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 23:25 UTC]** Moraes no caso Master: o que mostram as mensagens atribuídas ao ministro do STF e Daniel Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
