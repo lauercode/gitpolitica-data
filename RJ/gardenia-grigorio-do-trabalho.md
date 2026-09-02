@@ -161,3 +161,6 @@
 - **[2026-09-02 03:01 UTC]** 6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho
   _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/entenda-como-funcionam-as-escalas-de-trabalho.ghtml)_
 
+- **[2026-09-02 03:00 UTC]** Fim da 6x1: CCJ do Senado pode votar nesta quarta proposta que reduz jornada de trabalho
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-ccj-do-senado-pode-votar-nesta-quarta-proposta-que-reduz-jornada-de-trabalho.ghtml)_
+
