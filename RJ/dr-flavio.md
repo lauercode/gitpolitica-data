@@ -728,3 +728,6 @@
 - **[2026-09-01 21:20 UTC]** TSE tem maioria para livrar Flávio de multa por vídeo de Bolsonaro criado com IA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-tem-maioria-para-livrar-flavio-de-multa-por-video-de-bolsonaro-criado-com-ia.shtml)_
 
+- **[2026-09-02 00:55 UTC]** TSE rejeita punir Flávio por vídeo de Bolsonaro com IA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-forma-maioria-para-nao-punir-flavio-por-video-de-bolsonaro-com-ia/)_
+
