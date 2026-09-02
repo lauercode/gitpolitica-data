@@ -179,3 +179,6 @@
 - **[2026-09-02 15:03 UTC]** Lula sanciona projeto que estende para UPAS atendimento a urgências cardiovasculares
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/lula-sanciona-projeto-que-estende-para-as-upas-o-atendimento-a-urgencias-cardiovasculares.ghtml)_
 
+- **[2026-09-02 13:40 UTC]** Projeto de lei propõe que hospitais comuniquem agressões contra pessoas vulneráveis, na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/projeto-de-lei-obriga-hospitais-a-comunicar-agressoes-contra-pessoas-vulneraveis-na-paraiba.ghtml)_
+
