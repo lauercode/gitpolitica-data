@@ -14,3 +14,6 @@
 - **[2026-09-01 12:42 UTC]** Homem é preso suspeito de tentativa de homicídio com golpes de faca em Rosário
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/homem-e-preso-suspeito-de-tentativa-de-homicidio-com-golpes-de-faca-em-rosario.ghtml)_
 
+- **[2026-09-02 21:18 UTC]** Cerâmica de Rosário transforma tradição centenária em patrimônio reconhecido nacionalmente
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/vem-ver-pequeno/noticia/2026/09/02/ceramica-de-rosario-transforma-tradicao-centenaria-em-patrimonio-reconhecido-nacionalmente.ghtml)_
+
