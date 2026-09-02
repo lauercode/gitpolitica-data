@@ -23,3 +23,6 @@
 - **[2026-09-01 01:59 UTC]** Eleições 2026: Professora Maria do Carmo se reúne com apoiadoras e fala sobre combate à violência contra a mulher
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-professora-maria-do-carmo-se-reune-com-apoiadoras-e-fala-sobre-combate-a-violencia-contra-a-mulher.ghtml)_
 
+- **[2026-09-02 02:45 UTC]** Eleições 2026: Professora Maria do Carmo visita feira na Zona Oeste de Manaus e defende educação em tempo integral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-professora-maria-do-carmo-visita-feira-na-zona-oeste-de-manaus-e-defende-educacao-em-tempo-integral.ghtml)_
+
