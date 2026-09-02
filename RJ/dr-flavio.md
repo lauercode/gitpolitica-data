@@ -725,3 +725,6 @@
 - **[2026-09-01 23:00 UTC]** Aliados de Lula veem risco à democracia caso Flávio possa nomear substituto de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-lula-veem-risco-a-democracia-caso-flavio-possa-nomear-substituto-de-moraes.shtml)_
 
+- **[2026-09-01 21:20 UTC]** TSE tem maioria para livrar Flávio de multa por vídeo de Bolsonaro criado com IA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-tem-maioria-para-livrar-flavio-de-multa-por-video-de-bolsonaro-criado-com-ia.shtml)_
+
