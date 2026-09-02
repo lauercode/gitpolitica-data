@@ -166,3 +166,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 17:27 UTC]** Entenda o que pode acontecer com Moraes após revelação de mensagens com Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-pode-acontecer-com-moraes-apos-revelacao-de-mensagens-com-vorcaro.shtml)_
 
+- **[2026-09-02 20:59 UTC]** Mensagens de Vorcaro apontam crimes comuns e de responsabilidade de Moraes e Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-de-vorcaro-apontam-crimes-comuns-e-de-responsabilidade-de-moraes-e-gonet/)_
+
