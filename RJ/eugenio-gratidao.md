@@ -11,3 +11,6 @@
 - **[2026-09-02 01:59 UTC]** Como era a relação de amizade e “gratidão de vida” entre Vorcaro e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-era-a-relacao-de-amizade-e-gratidao-de-vida-entre-vorcaro-e-moraes/)_
 
+- **[2026-09-02 04:01 UTC]** Polícia Federal revela mensagens de gratidão e luxo entre Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-revela-mensagens-de-gratidao-e-luxo-entre-vorcaro-e-moraes/)_
+
