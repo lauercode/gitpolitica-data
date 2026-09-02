@@ -38,3 +38,6 @@
 - **[2026-09-01 09:00 UTC]** Cabeçadas do futebol
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bruno-gualano/2026/09/cabecadas-do-futebol.shtml)_
 
+- **[2026-09-02 15:01 UTC]** SBT e Disney marcam estreia do novo The Voice, que vai competir contra futebol na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-e-disney-marcam-estreia-do-novo-the-voice-que-vai-competir-contra-futebol-na-globo.shtml)_
+
