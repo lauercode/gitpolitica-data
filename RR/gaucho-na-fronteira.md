@@ -47,3 +47,6 @@
 - **[2026-09-01 18:19 UTC]** Os minutos que antecederam a avalanche de lama na fronteira entre Nepal e China
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy4zvlyxjl7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 23:59 UTC]** Comissão mista aprova aumento da indenização paga a servidores de fronteira
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301901-comissao-mista-aprova-aumento-da-indenizacao-paga-a-servidores-de-fronteira)_
+
