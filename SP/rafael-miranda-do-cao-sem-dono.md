@@ -41,3 +41,6 @@
 - **[2026-09-01 17:50 UTC]** Relatório da PF sobre mensagens de Vorcaro aponta vários encontros do dono do Master com Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-sobre-mensagens-de-vorcaro-aponta-varios-encontros-do-dono-do-master-com-moraes.ghtml)_
 
+- **[2026-09-02 17:34 UTC]** Ex-dono da Reag fecha acordo de delação premiada com a PGR com foco em Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ex-dono-da-reag-fecha-acordo-de-delacao-premiada-com-a-pgr-com-foco-em-vorcaro.shtml)_
+
