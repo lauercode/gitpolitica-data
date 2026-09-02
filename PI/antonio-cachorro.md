@@ -35,3 +35,6 @@
 - **[2026-09-01 16:17 UTC]** VÍDEO: Mulher é atropelada enquanto passeava com cachorro em Mossoró; motorista é preso
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/mulher-e-atropelada-enquanto-passeava-com-cachorro-em-mossoro-motorista-foi-preso-apos-fugir-sem-prestar-socorro.ghtml)_
 
+- **[2026-09-02 08:15 UTC]** Rafa Kalimann lamenta morte de cachorro da família: 'Virou estrelinha'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rafa-kalimann-lamenta-morte-de-cachorro-da-familia-virou-estrelinha.shtml)_
+
