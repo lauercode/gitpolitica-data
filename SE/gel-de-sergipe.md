@@ -149,3 +149,6 @@
 - **[2026-09-01 23:04 UTC]** Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta terça-feira
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-terca-feira.ghtml)_
 
+- **[2026-09-02 16:42 UTC]** Suspeitos de fraude bancária de mais de R$ 600 mil em Sergipe são presos em MG
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/02/suspeitos-de-fraude-bancaria-de-mais-de-r-600-mil-em-sergipe-sao-presos-em-mg.ghtml)_
+
