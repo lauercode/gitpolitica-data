@@ -41,3 +41,6 @@
 - **[2026-09-02 01:50 UTC]** Oposição pede prisão de Moraes e afastamento do diretor-geral da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-pede-prisao-de-moraes-e-afastamento-do-diretor-geral-da-pf/)_
 
+- **[2026-09-02 11:59 UTC]** Ator e diretor Gracindo Jr. morre aos 83 anos no Rio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/ator-e-diretor-gracindo-jr-morre-aos-83-anos-no-rio)_
+
