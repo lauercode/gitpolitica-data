@@ -53,3 +53,6 @@
 - **[2026-09-02 20:54 UTC]** DNA liga tio-avô a abuso de menino de 6 anos morto em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/dna-liga-tio-avo-a-abuso-de-menino-de-6-anos-morto-em-maceio.ghtml)_
 
+- **[2026-09-02 20:56 UTC]** Casal que levou bebê morto a UPA em SC será investigado por morte de outro menino de 7 meses
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/casal-levou-bebe-morto-upa-sc-investigado-morte-outro-menino-7-meses.ghtml)_
+
