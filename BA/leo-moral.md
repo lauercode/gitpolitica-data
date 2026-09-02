@@ -11,3 +11,6 @@
 - **[2017-11-08 12:57 UTC]** Mãe de jovem assassinada pelo ex-namorado em Cuiabá diz à polícia que filha sofria violência psicológica e moral
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/mae-de-jovem-assassinada-pelo-ex-namorado-em-cuiaba-diz-a-policia-que-filha-sofria-violencia-psicologica-e-moral.ghtml)_
 
+- **[2026-09-02 15:37 UTC]** Filho é preso por cometer violência moral e ofender a própria mãe em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/02/filho-e-preso-por-cometer-violencia-moral-e-ofender-a-propria-mae-em-boa-vista.ghtml)_
+
