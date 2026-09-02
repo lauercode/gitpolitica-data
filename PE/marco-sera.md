@@ -107,3 +107,6 @@
 - **[2026-09-02 19:10 UTC]** Câmara aprova Pacheco para o TCU e indicação será promulgada pelo Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/camara-aprova-pacheco-tcu-indicacao-sera-promulgada-congresso/)_
 
+- **[2026-09-02 19:27 UTC]** PEC da Segurança: CCJ do Senado aprova proposta, mas não conclui votação; texto não será votado no plenário nesta quarta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/apos-seis-meses-engavetada-pec-da-seguranca-e-aprovada-na-ccj-do-senado.ghtml)_
+
