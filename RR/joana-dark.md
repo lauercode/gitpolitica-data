@@ -59,3 +59,6 @@
 - **[2026-09-02 21:02 UTC]** 'Crise Master' no STF superou casos 'Dark Horse' e Lulinha em postagens nas redes sociais, aponta levantamento
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/crise-master-no-stf-superou-casos-dark-horse-e-lulinha-em-postagens-nas-redes-sociais-aponta-levantamento.ghtml)_
 
+- **[2026-09-02 18:10 UTC]** Deputados governistas veem parcialidade de Mendonça e pedem derrubada de sigilo do caso 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/deputados-governistas-veem-parcialidade-de-mendonca-e-pedem-derrubada-de-sigilo-do-caso-dark-horse.shtml)_
+
