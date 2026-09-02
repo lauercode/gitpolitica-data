@@ -95,3 +95,6 @@
 - **[2026-09-02 01:00 UTC]** Planeta vai exceder limite de 1,5°C e tarefa agora será voltar a ele, diz ONU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/planeta-vai-exceder-limite-de-15c-e-tarefa-agora-sera-voltar-a-ele-diz-onu.shtml)_
 
+- **[2026-09-02 11:41 UTC]** Time Out Market brasileiro será no Conjunto Nacional com cerca de 20 restaurantes e bares
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/09/time-out-market-brasileiro-sera-no-conjunto-nacional-com-cerca-de-20-restaurantes-e-bares.shtml)_
+
