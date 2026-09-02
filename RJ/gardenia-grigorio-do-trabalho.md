@@ -164,3 +164,6 @@
 - **[2026-09-02 03:00 UTC]** Fim da 6x1: CCJ do Senado pode votar nesta quarta proposta que reduz jornada de trabalho
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-ccj-do-senado-pode-votar-nesta-quarta-proposta-que-reduz-jornada-de-trabalho.ghtml)_
 
+- **[2026-09-02 07:52 UTC]** Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss)_
+
