@@ -507,3 +507,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 19:02 UTC]** Mendonça avalia levar ao plenário do STF a investigação contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-avalia-levar-ao-plenario-do-stf-a-investigacao-contra-moraes/)_
 
+- **[2026-09-02 18:47 UTC]** Desgaste de Moraes vira munição para anular condenação de Bolsonaro pelo 8 de janeiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/desgaste-de-moraes-vira-municao-para-anular-condenacao-de-bolsonaro-pelo-8-de-janeiro/)_
+
