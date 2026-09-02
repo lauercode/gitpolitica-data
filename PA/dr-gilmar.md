@@ -14,3 +14,6 @@
 - **[2026-08-29 20:05 UTC]** Não é só Lula: lobista amiga de Lulinha tem fotos com outras autoridades e ministros do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fotos-roberta-luchsinger-autoridades-ministros-stf/)_
 
+- **[2026-09-02 18:28 UTC]** Gilmar procura Lula para cobrar apoio do governo à cúpula da PF em embate entre Moraes e Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-procura-lula-para-cobrar-apoio-do-governo-a-cupula-da-pf-em-embate-entre-moraes-e-mendonca.shtml)_
+
