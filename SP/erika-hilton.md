@@ -14,3 +14,6 @@
 - **[2026-09-01 19:00 UTC]** Erika Hilton pede investigação contra PL por manobra de R$ 31 milhões de fundo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/erika-hilton-pede-investigacao-contra-pl-por-manobra-de-r-31-milhoes-de-fundo.shtml)_
 
+- **[2026-09-02 12:40 UTC]** Justiça manda PL informar se pagou Bolsonaro após prisão em ação de Erika Hilton
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-manda-pl-informar-se-pagou-bolsonaro-apos-prisao-de-erika-hilton/)_
+
