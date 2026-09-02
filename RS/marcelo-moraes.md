@@ -473,3 +473,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 15:00 UTC]** Gonet tenta blindar Moraes, mas inquérito pode ser aberto pelo plenário do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-tenta-blindar-moraes-mas-inquerito-pode-ser-aberto-pelo-plenario-do-stf/)_
 
+- **[2026-09-02 13:37 UTC]** Marco Aurélio Mello reage a revelações sobre Moraes e Vorcaro: “impensável”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-mello-reage-a-revelacoes-sobre-moraes-e-vorcaro-impensavel/)_
+
