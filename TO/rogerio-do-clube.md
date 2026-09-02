@@ -38,3 +38,6 @@
 - **[2026-09-01 14:02 UTC]** Homem atingido por disparo acidental em clube de tiro no Paraná era amigo do atirador
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/homem-atingido-por-disparo-acidental.ghtml)_
 
+- **[2026-09-02 22:06 UTC]** Eleições 2026 em SC: Jorginho Mello encontra apoiadores e visita clube de tênis no Norte
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-em-sc-jorginho-mello-encontra-apoiadores-e-visita-clube-de-tenis-no-norte.ghtml)_
+
