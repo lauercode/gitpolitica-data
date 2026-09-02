@@ -388,3 +388,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 01:59 UTC]** Como era a relação de amizade e “gratidão de vida” entre Vorcaro e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-era-a-relacao-de-amizade-e-gratidao-de-vida-entre-vorcaro-e-moraes/)_
 
+- **[2026-09-02 00:57 UTC]** Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss)_
+
