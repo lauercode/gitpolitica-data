@@ -74,3 +74,6 @@
 - **[2026-09-02 13:51 UTC]** Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 2 de setembro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/fio-do-professor-felipe-nunes-2-de-setembro.ghtml)_
 
+- **[2026-09-02 13:39 UTC]** Professor morre após cair do forro de casa em Colégio Agrícola, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/02/professor-morre-apos-cair-de-forro-de-casa-no-parana.ghtml)_
+
