@@ -140,3 +140,6 @@
 - **[2026-09-02 08:16 UTC]** Quarta-feira é de chuvas no Sudeste, Centro-Oeste e sul do Nordeste
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/quarta-feira-e-de-chuvas-no-sudeste-centro-oeste-e-sul-do-nordeste)_
 
+- **[2026-09-02 12:01 UTC]** Caso Master arrasta Supremo para o centro da crise e expõe impasse sobre resposta da Corte
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/02/caso-master-supremo-crise-resposta.ghtml)_
+
