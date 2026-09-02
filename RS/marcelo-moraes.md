@@ -436,3 +436,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 17:54 UTC]** Sócio de Vorcaro afirma que Moraes e esposa Viviane usaram avião e helicóptero da empresa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/socio-de-vorcaro-afirma-que-moraes-e-esposa-usaram-aviao-e-helicoptero-da-empresa.ghtml)_
 
+- **[2026-09-02 11:47 UTC]** Imprensa internacional chama escândalo envolvendo Moraes de “bomba atômica”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/imprensa-internacional-chama-escandalo-envolvendo-moraes-bomba-atomica/)_
+
