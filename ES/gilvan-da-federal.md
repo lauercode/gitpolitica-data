@@ -350,3 +350,6 @@
 - **[2026-09-02 20:11 UTC]** Câmara aprova criação de universidade federal em Oiapoque (AP)
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302294-camara-aprova-criacao-de-universidade-federal-em-oiapoque-ap)_
 
+- **[2026-09-02 18:39 UTC]** Justiça condena seis por plano de atentado a bomba do PCC descoberto em presídio federal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-condena-seis-por-plano-de-atentado-a-bomba-do-pcc-descoberto-em-presidio-federal.shtml)_
+
