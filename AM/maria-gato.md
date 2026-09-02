@@ -17,3 +17,6 @@
 - **[2026-08-24 19:06 UTC]** Drone da TV Anhanguera flagra momento em que motociclista tenta fazer gato e cai em avenida de Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/drone-da-tv-anhanguera-flagra-momento-em-que-motociclista-tenta-fazer-gato-e-cai-em-avenida-de-palmas.ghtml)_
 
+- **[2026-09-02 07:00 UTC]** 'Me partiu o coração', diz novo tutor de gato que estava triste após ser devolvido por ser 'dependente demais'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/partiu-coracao-novo-tutor-gato-triste-devolvido-dependente.ghtml)_
+
