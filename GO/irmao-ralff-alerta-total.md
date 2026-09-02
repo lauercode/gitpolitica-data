@@ -35,3 +35,6 @@
 - **[2026-09-01 16:51 UTC]** SP confirma dois novos casos de sarampo e total chega a 28 no estado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/sp-confirma-dois-novos-casos-de-sarampo-e-total-chega-a-28.shtml)_
 
+- **[2026-09-02 14:48 UTC]** Anac suspende operações da Total Linhas Aéreas, que presta serviço aos Correios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anac-suspende-operacoes-da-total-linhas-aereas-que-presta-servico-aos-correios.shtml)_
+
