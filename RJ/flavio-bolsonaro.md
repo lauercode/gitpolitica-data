@@ -587,3 +587,6 @@
 - **[2026-09-01 22:52 UTC]** Fábio Faria, ex-ministro de Bolsonaro, atuou para intermediar contatos entre Vorcaro e Moraes, aponta PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/ex-ministro-fabio-faria-atuou-para-intermediar-contatos-entre-vorcaro-e-moraes-aponta-pf.ghtml)_
 
+- **[2026-09-01 21:20 UTC]** TSE tem maioria para livrar Flávio de multa por vídeo de Bolsonaro criado com IA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-tem-maioria-para-livrar-flavio-de-multa-por-video-de-bolsonaro-criado-com-ia.shtml)_
+
