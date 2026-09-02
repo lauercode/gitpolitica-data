@@ -41,3 +41,6 @@
 - **[2026-09-01 22:32 UTC]** Eleições 2026 em SC: João Rodrigues visita moradores e áreas afetadas por fortes chuvas em Biguaçu
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-em-sc-joao-rodrigues-visita-moradores-e-areas-afetadas-por-fortes-chuvas-em-biguacu.ghtml)_
 
+- **[2026-09-02 17:47 UTC]** Incêndios de grandes proporções atingem áreas de vegetação no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/incendios-de-grandes-proporcoes-atingem-areas-de-vegetacao-no-acre.ghtml)_
+
