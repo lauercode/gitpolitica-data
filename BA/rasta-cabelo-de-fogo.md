@@ -59,3 +59,6 @@
 - **[2026-09-02 17:05 UTC]** VÍDEO: Lábrea fica encoberta por fumaça após incêndio em lixão; morador diz que fogo dura mais de um mês
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/video-labrea-fica-encoberta-por-fumaca-apos-incendio-em-lixao-morador-diz-que-fogo-dura-mais-de-um-mes.ghtml)_
 
+- **[2026-09-02 18:55 UTC]** Homem rouba moto, bate em carro durante fuga e fica ferido após veículo pegar fogo em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/02/suspeito-rouba-moto-bate-em-carro-durante-fuga-e-fica-ferido-apos-veiculo-pegar-fogo-em-natal.ghtml)_
+
