@@ -41,3 +41,6 @@
 - **[2026-09-02 11:53 UTC]** Conselho de publicidade abre processo contra influenciadores que promoveram canetas paraguaias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/conselho-de-publicidade-abre-processo-contra-influenciadores-que-promoveram-canetas-paraguaias.shtml)_
 
+- **[2026-09-02 18:36 UTC]** Senado aprova lei dos minerais críticos com R$ 5 bi em subsídios e conselho com poder de veto a estrangeiros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/senado-aprova-lei-dos-minerais-criticos-com-r-5-bi-em-subsidios-e-conselho-com-poder-de-veto-a-estrangeiros.shtml)_
+
