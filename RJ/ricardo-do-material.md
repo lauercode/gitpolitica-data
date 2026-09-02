@@ -14,3 +14,6 @@
 - **[2026-08-27 22:01 UTC]** Rótulos falsos e material diluído: polícia mira laboratório clandestino de canetas emagrecedoras em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/laboratorio-clandestino-canetas-emagrecedoras-sc-casal-preso.ghtml)_
 
+- **[2026-09-02 15:45 UTC]** Homem é preso no AM por armazenar material de abuso sexual infantil; prima de 11 anos está entre vítimas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/homem-e-preso-no-am-por-armazenar-material-de-abuso-sexual-infantil-prima-de-11-anos-esta-entre-vitimas.ghtml)_
+
