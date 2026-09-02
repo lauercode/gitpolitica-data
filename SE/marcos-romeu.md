@@ -17,3 +17,6 @@
 - **[2026-09-02 13:54 UTC]** Sabatinas: Lula tem maior audiência, seguido por Flávio Bolsonaro e Romeu Zema, empatados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sabatinas-lula-tem-maior-audiencia-seguido-por-flavio-bolsonaro-e-romeu-zema-empatados.shtml)_
 
+- **[2026-09-02 21:45 UTC]** TSE forma maioria para aprovar registros de candidatura de Lula, Flávio Bolsonaro e Romeu Zema
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml)_
+
