@@ -143,3 +143,6 @@
 - **[2026-09-02 12:01 UTC]** Caso Master arrasta Supremo para o centro da crise e expõe impasse sobre resposta da Corte
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/02/caso-master-supremo-crise-resposta.ghtml)_
 
+- **[2026-09-02 13:20 UTC]** Comerciantes montam tendas na rua para manter vendas após incêndio no Centro de Passagem, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/comerciantes-montam-tendas-na-rua-para-manter-vendas-apos-incendio-no-centro-de-passagem-em-joao-pessoa.ghtml)_
+
