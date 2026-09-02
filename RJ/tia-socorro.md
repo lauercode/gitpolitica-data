@@ -26,3 +26,6 @@
 - **[2026-08-24 10:33 UTC]** Criança de 7 anos com autismo é resgatada após desaparecer em Nossa Senhora do Socorro
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/crianca-de-7-anos-com-autismo-e-resgatada-apos-desaparecer-em-nossa-senhora-do-socorro.ghtml)_
 
+- **[2026-09-02 15:20 UTC]** Polícia investiga agressões entre profissional da saúde e acompanhante de paciente em pronto-socorro de Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/policia-investiga-agressoes-entre-profissional-da-saude-e-acompanhante-de-paciente-em-pronto-socorro-de-belem.ghtml)_
+
