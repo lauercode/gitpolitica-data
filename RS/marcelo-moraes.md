@@ -448,3 +448,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 10:46 UTC]** Os argumentos de Gonet para pedir a anulação de relatório da PF que liga Vorcaro a Moraes
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy4zvrpx2gzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 11:24 UTC]** O que é o rastro digital que levou a PF ao ministro Alexandre de Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjrxy59rnpro?at_medium=RSS&at_campaign=rss)_
+
