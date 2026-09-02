@@ -391,3 +391,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 00:57 UTC]** Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 04:20 UTC]** As mensagens de Vorcaro a Moraes e o futuro do Caso Master no Supremo - O Assunto #1796
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/02/as-mensagens-de-vorcaro-a-moraes-e-o-futuro-do-caso-master-no-supremo-o-assunto-1796.ghtml)_
+
