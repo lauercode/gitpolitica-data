@@ -376,3 +376,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 01:50 UTC]** Oposição pede prisão de Moraes e afastamento do diretor-geral da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-pede-prisao-de-moraes-e-afastamento-do-diretor-geral-da-pf/)_
 
+- **[2026-09-02 01:31 UTC]** Polícia Federal aponta indícios de encontro entre Alexandre de Moraes e Daniel Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-aponta-indicios-de-encontro-entre-alexandre-de-moraes-e-daniel-vorcaro/)_
+
