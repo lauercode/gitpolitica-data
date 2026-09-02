@@ -343,3 +343,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 23:00 UTC]** Mendonça chamou reunião surpresa para requisitar relatório sobre Moraes, e PF vê excesso de ministro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-chamou-reuniao-surpresa-para-requisitar-relatorio-sobre-moraes-e-pf-ve-excesso-de-ministro.shtml)_
 
+- **[2026-09-01 23:00 UTC]** Campanha de Lula quer usar diálogo entre Moraes e Vorcaro para pedir fim de sigilo no caso 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-quer-usar-dialogo-entre-moraes-e-vorcaro-para-pedir-fim-de-sigilo-no-caso-dark-horse.shtml)_
+
