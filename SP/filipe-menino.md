@@ -47,3 +47,6 @@
 - **[2026-09-02 15:07 UTC]** Menino de 4 anos cai de embarcação e desaparece em rio no interior do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/menino-de-4-anos-cai-de-embarcacao-e-desaparece-em-rio-no-interior-do-acre.ghtml)_
 
+- **[2026-09-02 19:32 UTC]** Menino de bicicleta elétrica fica ferido após ser atingido por moto em Rorainópolis
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/02/menino-de-bicicleta-eletrica-fica-ferido-apos-ser-atingido-por-moto-em-rorainopolis.ghtml)_
+
