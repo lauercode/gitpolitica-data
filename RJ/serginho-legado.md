@@ -14,3 +14,6 @@
 - **[2026-08-24 15:57 UTC]** Amigos fazem cortejo de bicicleta em homenagem a ciclista atropelada em RO: 'Deixou um legado', diz amigo
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/amigos-fazem-cortejo-de-bicicleta-em-homenagem-a-ciclista-atropelada-em-ro-deixou-um-legado-diz-amigo.ghtml)_
 
+- **[2026-09-02 17:40 UTC]** O legado de Alexei Bueno, o poeta que fez da literatura sua profissão de fé
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/09/o-legado-de-alexei-bueno-o-poeta-que-fez-da-literatura-sua-profissao-de-fe.shtml)_
+
