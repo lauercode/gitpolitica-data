@@ -167,3 +167,7 @@ direcionado às necessidades de cada pessoa
 direcionado às necessidades de cada pessoa
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
 
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
