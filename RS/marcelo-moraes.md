@@ -461,3 +461,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 13:09 UTC]** Mendonça confirma depoimento de Vorcaro sem PF e diz que Moraes não foi tema do encontro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-confirma-depoimento-de-vorcaro-sem-pf-mas-nega-ter-tratado-de-moraes.shtml)_
 
+- **[2026-09-02 11:49 UTC]** Lula é pressionado a se pronunciar sobre Alexandre de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lula-e-pressionado-para-se-pronunciar-sobre-alexandre-de-moraes.shtml)_
+
