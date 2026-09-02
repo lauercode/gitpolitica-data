@@ -635,3 +635,6 @@
 - **[2026-09-02 13:54 UTC]** Sabatinas: Lula tem maior audiência, seguido por Flávio Bolsonaro e Romeu Zema, empatados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sabatinas-lula-tem-maior-audiencia-seguido-por-flavio-bolsonaro-e-romeu-zema-empatados.shtml)_
 
+- **[2026-09-02 18:47 UTC]** Desgaste de Moraes vira munição para anular condenação de Bolsonaro pelo 8 de janeiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/desgaste-de-moraes-vira-municao-para-anular-condenacao-de-bolsonaro-pelo-8-de-janeiro/)_
+
