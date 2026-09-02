@@ -47,3 +47,6 @@
 - **[2026-09-01 19:32 UTC]** Uso de tecnologia no campo ajuda agricultores na tomada de decisão em tempo real
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/riquezas-da-inovacao/noticia/2026/09/01/uso-de-tecnologia-no-campo-ajuda-agricultores-na-tomada-de-decisao-em-tempo-real.ghtml)_
 
+- **[2026-09-02 12:22 UTC]** Linha “Mais mobilidade” ajuda motorista a ampliar atuação na estrada
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/02/linha-mais-mobilidade-ajuda-motorista-a-ampliar-atuacao-na-estrada.ghtml)_
+
