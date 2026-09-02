@@ -14,3 +14,6 @@
 - **[2026-08-27 22:23 UTC]** Quaest em GO: Ronaldo Caiado, 32%; Flávio Bolsonaro, 27%; Lula, 20%; Renan Santos; 2%; Romeu Zema, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/27/quaest-go-presidente-27-agosto.ghtml)_
 
+- **[2026-09-02 13:54 UTC]** Sabatinas: Lula tem maior audiência, seguido por Flávio Bolsonaro e Romeu Zema, empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sabatinas-lula-tem-maior-audiencia-seguido-por-flavio-bolsonaro-e-romeu-zema-empatados.shtml)_
+
