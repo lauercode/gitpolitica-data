@@ -200,3 +200,6 @@ direcionado às necessidades de cada pessoa
 direcionado às necessidades de cada pessoa
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
 
+- **[2026-09-02 17:26 UTC]** Justiça condena pessoa no Pará por venda de vídeos na internet com tortura e morte de animais
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/justica-condena-uma-pessoa-no-para-por-venda-de-videos-na-internet-com-tortura-e-morte-de-animais.ghtml)_
+
