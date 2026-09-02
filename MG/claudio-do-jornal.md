@@ -146,3 +146,6 @@
 - **[2026-09-02 15:38 UTC]** VÍDEOS: Jornal da Manhã Alagoas de quarta-feira, 2 de setembro de 2026
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/edicao/2026/09/02/videos-jornal-da-manha-alagoas-de-quarta-feira-2-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-02 18:10 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 1º de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-1-de-setembro-de-2026.ghtml)_
+
