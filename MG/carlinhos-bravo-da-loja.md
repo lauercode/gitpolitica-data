@@ -29,3 +29,6 @@
 - **[2026-09-01 20:05 UTC]** Noivas relatam caos e atrasos em loja de vestidos de São Paulo às vésperas de casamentos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/noivas-relatam-caos-e-atrasos-em-loja-de-vestidos-de-sao-paulo-as-vesperas-de-casamentos.shtml)_
 
+- **[2026-09-02 17:21 UTC]** Loja de autopeças é atingida por incêndio em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/02/incendio-atinge-loja-de-autopecas-em-boa-vista.ghtml)_
+
