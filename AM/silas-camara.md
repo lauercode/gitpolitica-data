@@ -409,3 +409,6 @@ Diretor
 - **[2026-09-02 17:02 UTC]** Comissão mista aprova fim da "taxa das blusinhas"; proposta segue para o Plenário da Câmara
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302214-comissao-mista-aprova-fim-da-taxa-das-blusinhas-proposta-segue-para-o-plenario-da-camara)_
 
+- **[2026-09-02 14:00 UTC]** Câmara confirma indicação de Rodrigo Pacheco para ministro do TCU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/camara-confirma-indicacao-de-rodrigo-pacheco-para-ministro-do-tcu.shtml)_
+
