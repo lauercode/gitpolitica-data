@@ -194,3 +194,6 @@
 - **[2026-09-02 01:05 UTC]** Dois anos após desabamento, rua de Gramado que colapsou durante enchente em 2024 começa a ser reconstruída
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/01/dois-anos-apos-desabamento-rua-de-gramado-colapsou-enchente-2024-reconstruida.ghtml)_
 
+- **[2026-09-02 10:27 UTC]** Dois homens são presos em Maceió por suspeita de armazenar conteúdos de abuso sexual infantil
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/dois-homens-sao-presos-em-maceio-por-suspeita-de-armazenar-conteudos-de-abuso-sexual-infantil.ghtml)_
+
