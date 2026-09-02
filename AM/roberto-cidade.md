@@ -113,3 +113,6 @@
 - **[2026-09-02 20:48 UTC]** Pattaya, a 'cidade do pecado' onde 5 mil militares americanos desembarcaram após oito meses em alto mar
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 21:03 UTC]** Tornado é confirmado em cidade de SC que teve árvores arrancadas pela raiz
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/tornado-confirmado-campo-ere.ghtml)_
+
