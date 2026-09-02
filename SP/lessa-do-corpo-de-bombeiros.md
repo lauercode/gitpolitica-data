@@ -38,3 +38,6 @@
 - **[2026-09-02 03:00 UTC]** 'Tentaram retornar, mas condição estava extrema', dizem bombeiros sobre turistas que ficaram 40 horas desaparecidos em cânion no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/tentaram-retornar-condicao-extrema-bombeiros-turistas-40-horas-desaparecidos-canion-rs.ghtml)_
 
+- **[2026-09-02 15:18 UTC]** Defeito em ventilador teria provocado incêndio que deixou idoso morto em Patos, diz Corpo de Bombeiros
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/defeito-em-ventilador-teria-provocado-incendio-que-deixou-idoso-morto-em-patos-diz-corpo-de-bombeiros.ghtml)_
+
