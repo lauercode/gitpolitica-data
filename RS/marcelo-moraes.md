@@ -358,3 +358,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 21:38 UTC]** A Moraes cabe a renúncia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/a-moraes-cabe-a-renuncia.shtml)_
 
+- **[2026-09-01 21:38 UTC]** Leia íntegra de documento da PF com mensagens de Vorcaro sobre Moraes, Gonet e chefe da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/leia-integra-de-documento-da-pf-com-mensagens-de-vorcaro-sobre-moraes-gonet-e-chefe-da-pf.shtml)_
+
