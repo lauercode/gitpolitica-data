@@ -17,3 +17,6 @@
 - **[2026-08-26 20:26 UTC]** Nayana Pontes, vice de Efraim Filho, defende interiorizar serviços de saúde e capacitar beneficiários de programas sociais na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/nayana-pontes-vice-de-efraim-filho-defende-interiorizar-servicos-de-saude-e-capacitar-beneficiarios-de-programas-sociais-na-paraiba.ghtml)_
 
+- **[2026-09-02 19:25 UTC]** Efraim Filho defende redução de impostos para incentivo ao empreendedorismo na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/efraim-filho-defende-reducao-de-impostos-para-incentivo-ao-empreendedorismo-na-paraiba.ghtml)_
+
