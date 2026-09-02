@@ -242,3 +242,6 @@
 - **[2026-09-02 18:10 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 1º de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-1-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-02 17:47 UTC]** Incêndios de grandes proporções atingem áreas de vegetação no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/incendios-de-grandes-proporcoes-atingem-areas-de-vegetacao-no-acre.ghtml)_
+
