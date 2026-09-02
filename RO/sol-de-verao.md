@@ -14,3 +14,6 @@
 - **[2026-08-27 21:09 UTC]** Vestibular de Verão Udesc 2027 abre mais de 900 vagas; veja cursos, locais de prova e mais
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/vestibular-verao-udesc-2027-mais-900-vagas.ghtml)_
 
+- **[2026-09-02 03:00 UTC]** Aeroporto de Florianópolis terá voo direto para Assunção, no Paraguai, no verão; veja o que se sabe
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/aeroporto-de-florianopolis-tera-voo-direto-para-assuncao-no-paraguai-no-verao-veja-o-que-se-sabe.ghtml)_
+
