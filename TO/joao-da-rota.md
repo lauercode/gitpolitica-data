@@ -17,3 +17,6 @@
 - **[2026-09-02 01:43 UTC]** Câmara aprova criação de rota turística da fé em Cidade Ocidental (GO)
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302015-camara-aprova-criacao-de-rota-turistica-da-fe-em-cidade-ocidental-go)_
 
+- **[2026-09-02 09:17 UTC]** Rota Cultural Caminhos do Frio 2026 chega ao fim com programação em Alagoa Nova a partir desta quarta (2)
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/rota-cultural-caminhos-do-frio-2026-chega-ao-fim-com-programacao-em-alagoa-nova-a-partir-desta-quarta-2.ghtml)_
+
