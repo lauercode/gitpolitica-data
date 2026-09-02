@@ -476,3 +476,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 13:37 UTC]** Marco Aurélio Mello reage a revelações sobre Moraes e Vorcaro: “impensável”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-mello-reage-a-revelacoes-sobre-moraes-e-vorcaro-impensavel/)_
 
+- **[2026-09-02 13:05 UTC]** Renan Santos organiza ato na Paulista pelo impeachment de Toffoli e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-organiza-ato-na-paulista-pelo-impeachment-de-toffoli-e-moraes/)_
+
