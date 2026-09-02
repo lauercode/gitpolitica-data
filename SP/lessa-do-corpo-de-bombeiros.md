@@ -32,3 +32,6 @@
 - **[2026-09-02 00:04 UTC]** Comissão aprova aumento de limite anual para admissão de bombeiros no DF
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301785-comissao-aprova-aumento-de-limite-anual-para-admissao-de-bombeiros-no-df)_
 
+- **[2026-09-01 22:58 UTC]** Câmara aprova novas regras para contagem do tempo de serviço por PMs e bombeiros
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301898-camara-aprova-novas-regras-para-contagem-do-tempo-de-servico-por-pms-e-bombeiros)_
+
