@@ -553,3 +553,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 20:55 UTC]** Campanha de Lula quer distância de Moraes e aponta crise do STF na direção de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/campanha-de-lula-quer-distancia-de-moraes-e-aponta-crise-no-stf-na-direcao-de-flavio/)_
 
+- **[2026-09-02 21:03 UTC]** Moraes e Mendonça ficam lado a lado na primeira sessão do STF após crise das mensagens
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-e-mendonca-ficam-lado-a-lado-na-primeira-sessao-do-stf-apos-crise-das-mensagens/)_
+
