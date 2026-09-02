@@ -761,3 +761,6 @@
 - **[2026-09-02 10:21 UTC]** Quaest: Lula tem 37%, e Flávio Bolsonaro, 30% no primeiro turno; Cury chega a 10%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-lula-tem-37-e-flavio-bolsonaro-30-no-primeiro-turno-cury-chega-a-10.shtml)_
 
+- **[2026-09-02 16:07 UTC]** Flávio sobe à tribuna do Senado e cobra impeachment de Moraes imediatamente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-sobe-a-tribuna-do-senado-e-cobra-impeachment-de-moraes-imediatamente/)_
+
