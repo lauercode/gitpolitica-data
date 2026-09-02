@@ -429,3 +429,6 @@ Diretor
 - **[2026-09-02 21:34 UTC]** Câmara aprova criação da Política Nacional de Agroecologia e Produção Orgânica
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302312-camara-aprova-criacao-da-politica-nacional-de-agroecologia-e-producao-organica)_
 
+- **[2026-09-02 20:48 UTC]** Câmara aprova criação de universidades federais de Ciência e Inovação em Minas e no Rio
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302313-camara-aprova-criacao-de-universidades-federais-de-ciencia-e-inovacao-em-minas-e-no-rio)_
+
