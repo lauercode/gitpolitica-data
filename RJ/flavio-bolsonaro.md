@@ -632,3 +632,6 @@
 - **[2026-09-02 15:27 UTC]** Flávio Bolsonaro chama encontro de Mendonça com Vorcaro de cortina de fumaça e diz que Moraes é 'laranja podre'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-chama-encontro-de-mendonca-com-vorcaro-de-cortina-de-fumaca-e-diz-que-moraes-e-laranja-podre.shtml)_
 
+- **[2026-09-02 13:54 UTC]** Sabatinas: Lula tem maior audiência, seguido por Flávio Bolsonaro e Romeu Zema, empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sabatinas-lula-tem-maior-audiencia-seguido-por-flavio-bolsonaro-e-romeu-zema-empatados.shtml)_
+
