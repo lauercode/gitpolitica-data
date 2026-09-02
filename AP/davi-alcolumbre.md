@@ -107,3 +107,6 @@
 - **[2026-09-01 20:11 UTC]** Oposição articula impeachment de Moraes no Congresso e fala em colocar Alcolumbre sob pressão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-articula-impeachment-de-moraes-e-fala-em-colocar-alcolumbre-sob-pressao/)_
 
+- **[2026-09-02 00:25 UTC]** 'Isso não é normal', diz Alcolumbre sobre os 109 pedidos de impeachment contra ministro do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/isso-nao-e-normal-diz-alcolumbre-sobre-os-109-pedidos-de-impeachment-contra-ministro-do-stf.ghtml)_
+
