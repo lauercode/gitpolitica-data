@@ -26,3 +26,6 @@
 - **[2018-03-23 17:08 UTC]** Campo Grande tem Bruninho e Davi, teatro com Mônica Martelli e DJ Vinne no fim de semana
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso-do-sul/noticia/campo-grande-tem-bruninho-e-davi-teatro-com-monica-martelli-e-dj-vinne-no-fim-de-semana.ghtml)_
 
+- **[2026-09-02 19:39 UTC]** Davi Davino defende tarifa zero e reforma administrativa
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/02/davi-davino-defende-tarifa-zero-e-reforma-administrativa.ghtml)_
+
