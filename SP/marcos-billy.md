@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-09-02 17:00 UTC]** 25 anos de 11 de Setembro e 'Billy the Kid': o que ver na TV e no streaming na quinta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/25-anos-de-11-de-setembro-e-billy-the-kid-o-que-ver-na-tv-e-no-streaming-na-quinta.shtml)_
+
