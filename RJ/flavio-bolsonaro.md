@@ -584,3 +584,6 @@
 - **[2026-09-01 21:16 UTC]** TSE rejeita ação para derrubar imagem de Bolsonaro feita por IA
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-rejeita-acao-para-derrubar-imagem-de-bolsonaro-feita-por-ia)_
 
+- **[2026-09-01 22:52 UTC]** Fábio Faria, ex-ministro de Bolsonaro, atuou para intermediar contatos entre Vorcaro e Moraes, aponta PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/ex-ministro-fabio-faria-atuou-para-intermediar-contatos-entre-vorcaro-e-moraes-aponta-pf.ghtml)_
+
