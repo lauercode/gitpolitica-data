@@ -173,3 +173,6 @@
 - **[2026-09-02 13:21 UTC]** Projeto proíbe bloqueio de gastos de agências reguladoras federais
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302089-projeto-proibe-bloqueio-de-gastos-de-agencias-reguladoras-federais)_
 
+- **[2026-09-02 12:41 UTC]** Projeto cria exceções a restrições fiscais para benefícios e despesas em 2026
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302085-projeto-cria-excecoes-a-restricoes-fiscais-para-beneficios-e-despesas-em-2026)_
+
