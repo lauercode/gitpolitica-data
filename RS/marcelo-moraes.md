@@ -479,3 +479,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 13:05 UTC]** Renan Santos organiza ato na Paulista pelo impeachment de Toffoli e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-organiza-ato-na-paulista-pelo-impeachment-de-toffoli-e-moraes/)_
 
+- **[2026-09-02 14:01 UTC]** Fachin reconhece crise de mensagens entre Moraes e Vorcaro e diz que tomará providências
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-reconhece-crise-mensagens-moraes-vorcaro-tomara-providencias/)_
+
