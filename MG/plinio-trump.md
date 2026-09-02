@@ -125,3 +125,6 @@
 - **[2026-09-02 15:11 UTC]** Tesouro dos EUA emite moeda de US$ 1 com rosto de Trump; veja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/tesouro-dos-eua-emite-moeda-de-us-1-com-rosto-de-trump-veja.shtml)_
 
+- **[2026-09-02 17:31 UTC]** Trump e Delcy afirmam que Venezuela ainda não está pronta para nova eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-e-delcy-afirmam-que-venezuela-ainda-nao-esta-pronta-para-nova-eleicao.shtml)_
+
