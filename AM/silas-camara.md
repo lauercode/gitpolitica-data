@@ -347,3 +347,6 @@ Diretor
 - **[2026-09-01 21:52 UTC]** Câmara aprova adesão do Brasil a acordo para eliminar violência e assédio no trabalho
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301874-camara-aprova-adesao-do-brasil-a-acordo-para-eliminar-violencia-e-assedio-no-trabalho)_
 
+- **[2026-09-01 21:40 UTC]** Câmara vai analisar indicação de Rodrigo Pacheco ao TCU nesta quarta
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301859-camara-vai-analisar-indicacao-de-rodrigo-pacheco-ao-tcu-nesta-quarta)_
+
