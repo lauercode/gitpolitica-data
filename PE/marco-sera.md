@@ -110,3 +110,6 @@
 - **[2026-09-02 19:27 UTC]** PEC da Segurança: CCJ do Senado aprova proposta, mas não conclui votação; texto não será votado no plenário nesta quarta
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/apos-seis-meses-engavetada-pec-da-seguranca-e-aprovada-na-ccj-do-senado.ghtml)_
 
+- **[2026-09-02 20:56 UTC]** Casal que levou bebê morto a UPA em SC será investigado por morte de outro menino de 7 meses
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/casal-levou-bebe-morto-upa-sc-investigado-morte-outro-menino-7-meses.ghtml)_
+
