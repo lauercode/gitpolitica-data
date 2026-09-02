@@ -389,3 +389,6 @@ Diretor
 - **[2026-09-02 15:18 UTC]** Câmara aprova indicação do senador Rodrigo Pacheco para ministro do TCU
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302159-camara-aprova-indicacao-do-senador-rodrigo-pacheco-para-ministro-do-tcu)_
 
+- **[2026-09-02 15:25 UTC]** Comissão aprova fim da 'taxa das blusinhas'; medida segue para votação no plenário da Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/comissao-aprova-fim-da-taxa-das-blusinhas-medida-segue-para-votacao-no-plenario-da-camara.ghtml)_
+
