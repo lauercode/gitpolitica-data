@@ -89,3 +89,6 @@
 - **[2026-09-01 15:36 UTC]** Motociclista vítima de acidente envolvendo três veículos na BR-364, em Jaru, é velado nesta terça (1)
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/motociclista-morre-em-acidente-que-envolveu-tres-veiculos-na-br-364-em-jaru-ro.ghtml)_
 
+- **[2026-09-02 12:12 UTC]** VÍDEO: motociclista é arremessado após ser atingido por carro que furou preferencial, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/02/video-motociclista-e-arremessado-apos-ser-atingido-por-carro-que-furou-preferencial-no-parana.ghtml)_
+
