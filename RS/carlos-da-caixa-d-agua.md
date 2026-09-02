@@ -152,3 +152,6 @@
 - **[2026-09-02 18:02 UTC]** Anvisa interdita lote de água mineral Vitoriosa após detectar coliformes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anvisa-interdita-lote-de-agua-mineral-vitoriosa-apos-detectar-coliformes.shtml)_
 
+- **[2026-09-02 17:59 UTC]** Água invadiu túnel e precisei correr por 20 minutos, diz trabalhador nepalês que sobreviveu à enchente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/agua-invadiu-tunel-e-precisei-correr-por-20-minutos-diz-trabalhador-nepales-que-sobreviveu-a-enchente.shtml)_
+
