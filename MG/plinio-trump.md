@@ -122,3 +122,6 @@
 - **[2026-09-02 16:14 UTC]** Sem nomear Lula, Trump diz ter boa relação com o Brasil e cita influência dos EUA em eleições na América Latina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/sem-nomear-lula-trump-diz-ter-boa-relacao-com-o-brasil-e-cita-influencia-dos-eua-em-eleicoes-na-america-latina.shtml)_
 
+- **[2026-09-02 15:11 UTC]** Tesouro dos EUA emite moeda de US$ 1 com rosto de Trump; veja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/tesouro-dos-eua-emite-moeda-de-us-1-com-rosto-de-trump-veja.shtml)_
+
