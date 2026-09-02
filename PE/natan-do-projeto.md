@@ -164,3 +164,6 @@
 - **[2026-09-02 16:40 UTC]** Projeto limita a compra de alimentos ultraprocessados na merenda escolar
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301696-projeto-limita-a-compra-de-alimentos-ultraprocessados-na-merenda-escolar)_
 
+- **[2026-09-02 16:28 UTC]** Projeto proíbe agente público de receber cortesias de empresas
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300353-projeto-proibe-agente-publico-de-receber-cortesias-de-empresas)_
+
