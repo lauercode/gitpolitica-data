@@ -26,3 +26,6 @@
 - **[2026-08-24 15:55 UTC]** Mulher fica em estado grave após ser esfaqueada por ex-marido no Vila Jardim, em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/mulher-fica-em-estado-grave-apos-ser-esfaqueada-por-ex-marido-no-vila-jardim-em-boa-vista.ghtml)_
 
+- **[2026-09-02 16:05 UTC]** Jovem baleado após sair de academia na Cohama passa por cirurgia e segue em estado grave na UTI em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/jovem-baleado-apos-sair-de-academia-na-cohama-passa-por-cirurgia-e-segue-em-estado-grave-na-uti-em-sao-luis.ghtml)_
+
