@@ -113,3 +113,6 @@
 - **[2026-09-02 01:55 UTC]** Aliado de Trump publica montagem de Moraes com Banco Master e diz que ministro “está com sérios problemas”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/aliado-de-trump-publica-montagem-de-moraes-com-banco-master-e-diz-que-ministro-esta-com-serios-problemas/)_
 
+- **[2026-09-02 13:19 UTC]** Trump propõe mudar nome do estreito de Hormuz para estreito de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-propoe-mudar-nome-do-estreito-de-hormuz-para-estreito-de-trump.shtml)_
+
