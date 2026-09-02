@@ -372,3 +372,6 @@ direitos
 Diretor
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
 
+- **[2026-09-02 12:12 UTC]** Câmara pode votar nesta quarta medida provisória que zerou taxa para compras internacionais de até 50 dólares
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302066-camara-pode-votar-nesta-quarta-medida-provisoria-que-zerou-taxa-para-compras-internacionais-de-ate-50-dolares)_
+
