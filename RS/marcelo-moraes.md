@@ -491,3 +491,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 13:46 UTC]** Fachin diz que STF anunciará medidas sobre conversas entre Moraes e Vorcaro 'nos próximos dias'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgy5jp1y3xo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 12:48 UTC]** 'Qualquer outra pessoa estaria presa', diz Capitão Alberto Neto sobre Moraes em sabatina
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/qualquer-outra-pessoa-estaria-presa-diz-capitao-alberto-neto-sobre-moraes-em-sabatina.ghtml)_
+
