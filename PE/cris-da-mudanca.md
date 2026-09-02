@@ -56,3 +56,6 @@
 - **[2026-09-02 14:29 UTC]** SBT faz nova mudança após saída do diretor de jornalismo no Rio de Janeiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-faz-nova-mudanca-apos-saida-do-diretor-de-jornalismo-no-rio-de-janeiro.shtml)_
 
+- **[2026-09-02 17:10 UTC]** Lenilda Luna defende em sabatina desmilitarização da PM e mudança na formação de policiais em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/lenilda-luna-defende-em-sabatina-desmilitarizacao-da-pm-e-mudanca-na-formacao-de-policiais-em-al.ghtml)_
+
