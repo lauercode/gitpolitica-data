@@ -17,3 +17,6 @@
 - **[2026-09-02 12:02 UTC]** Médico é esfaqueado por ex de enfermeira em estacionamento de hospital de Balneário Camboriú
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/medico-esfaqueado-ex-enfermeira-estacionamento-hospital-balneario-camboriu.ghtml)_
 
+- **[2026-09-02 22:05 UTC]** Eleições 2026 em SC: Marcelo Brigadeiro debate com eleitores em Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-em-sc-marcelo-brigadeiro-debate-com-eleitores-em-balneario-camboriu.ghtml)_
+
