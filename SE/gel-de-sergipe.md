@@ -155,3 +155,6 @@
 - **[2026-09-02 18:09 UTC]** Resultado Mega-Sena 3052: sete apostas de Sergipe acertam números; confira valores
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/02/mega-sena-3052-sete-apostas-de-sergipe-acertam-numeros-confira-resultado.ghtml)_
 
+- **[2026-09-02 22:01 UTC]** Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta quarta-feira
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-quarta-feira.ghtml)_
+
