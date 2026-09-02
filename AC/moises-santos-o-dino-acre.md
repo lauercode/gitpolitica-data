@@ -227,3 +227,6 @@
 - **[2026-09-02 00:04 UTC]** Veja como foi o dia de campanha dos candidatos ao governo do Acre nesta terça-feira (1º)
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/01/veja-como-foi-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-terca-feira-1o.ghtml)_
 
+- **[2026-09-02 10:00 UTC]** Do Legislativo ao governo: como os partidos distribuem as candidaturas de mulheres no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/02/do-legislativo-ao-governo-como-os-partidos-distribuem-as-candidaturas-de-mulheres-no-acre.ghtml)_
+
