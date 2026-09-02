@@ -26,3 +26,6 @@
 - **[2026-09-02 14:19 UTC]** Raia Drogasil vê vendas de protetor solar crescerem não com calor, mas com radiação UV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/raia-drogasil-ve-vendas-de-protetor-solar-crescerem-nao-com-calor-mas-com-radiacao-uv.shtml)_
 
+- **[2026-09-02 18:54 UTC]** Pressionada pela BYD, GM segura terceiro lugar nas vendas de automóveis em agosto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/09/pressionada-pela-byd-gm-segura-terceiro-lugar-nas-vendas-de-automoveis-em-agosto.shtml)_
+
