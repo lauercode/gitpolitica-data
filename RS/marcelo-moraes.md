@@ -352,3 +352,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 23:00 UTC]** Mensagens em poder da PF expõem elos e indicam atuação de Moraes a favor de Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-em-poder-da-pf-expoem-elos-e-indicam-atuacao-de-moraes-a-favor-de-vorcaro.shtml)_
 
+- **[2026-09-01 23:00 UTC]** Implicação de Moraes e Gonet é inédita e torna responsabilização incerta, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/implicacao-de-moraes-e-gonet-e-inedita-e-torna-responsabilizacao-incerta-dizem-especialistas.shtml)_
+
