@@ -737,3 +737,6 @@
 - **[2026-09-02 09:05 UTC]** TSE decide não multar Flávio Bolsonaro por uso de vídeo feito com IA
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/tse-decide-nao-multar-flavio-bolsonaro-por-uso-de-video-feito-com-ia)_
 
+- **[2026-09-02 16:23 UTC]** Nunes Marques mantém peça de campanha de Lula que associa Flávio Bolsonaro ao Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/nunes-marques-rejeita-pedido-de-flavio-contra-campanha-de-lula-que-associou-senador-ao-master.ghtml)_
+
