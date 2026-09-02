@@ -38,3 +38,6 @@
 - **[2026-09-02 13:17 UTC]** Busca por bairros calmos redefine preferências em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/dreamis-incorporadora-novos-olhares-sobre-morar-em-curitiba/noticia/2026/09/02/busca-por-bairros-calmos-redefine-preferencias-em-curitiba.ghtml)_
 
+- **[2026-09-02 19:07 UTC]** Polícia prende cinco suspeitos de tráfico de drogas em três bairros de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/02/policia-prende-cinco-suspeitos-de-trafico-de-drogas-em-tres-bairros-de-macapa.ghtml)_
+
