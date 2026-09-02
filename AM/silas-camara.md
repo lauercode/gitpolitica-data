@@ -320,3 +320,6 @@ direitos
 Diretor
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
 
+- **[2026-09-02 01:53 UTC]** Câmara aprova mudança em cargos na Justiça do Trabalho de Goiás
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302021-camara-aprova-mudanca-em-cargos-na-justica-do-trabalho-de-goias)_
+
