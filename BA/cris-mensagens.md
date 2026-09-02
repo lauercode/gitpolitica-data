@@ -169,3 +169,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 20:59 UTC]** Mensagens de Vorcaro apontam crimes comuns e de responsabilidade de Moraes e Gonet
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-de-vorcaro-apontam-crimes-comuns-e-de-responsabilidade-de-moraes-e-gonet/)_
 
+- **[2026-09-02 21:03 UTC]** Moraes e Mendonça ficam lado a lado na primeira sessão do STF após crise das mensagens
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-e-mendonca-ficam-lado-a-lado-na-primeira-sessao-do-stf-apos-crise-das-mensagens/)_
+
