@@ -299,3 +299,6 @@
 - **[2026-09-02 13:51 UTC]** Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 2 de setembro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/fio-do-professor-felipe-nunes-2-de-setembro.ghtml)_
 
+- **[2026-09-02 12:35 UTC]** Presidente do STF diz que analisará fatos do caso Master e promete anunciar medidas nos próximos dias
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/presidente-do-stf-diz-que-analisara-fatos-do-caso-master-e-promete-anunciar-medidas-nos-proximos-dias.ghtml)_
+
