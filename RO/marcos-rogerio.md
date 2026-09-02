@@ -32,3 +32,6 @@
 - **[2026-09-02 11:38 UTC]** Marido de Rogério Valença faz homenagem ao cantor nas redes sociais
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/02/companheiro-de-rogerio-valenca-faz-homenagem-ao-cantor-nas-redes-sociais.ghtml)_
 
+- **[2026-09-02 14:07 UTC]** Rogério Valença, ex-vocalista da banda Calcinha Preta, é sepultado em Garanhuns (PE)
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/02/rogerio-valenca-ex-vocalista-da-banda-calcinha-preta-e-sepultado-em-garanhuns-pe.ghtml)_
+
