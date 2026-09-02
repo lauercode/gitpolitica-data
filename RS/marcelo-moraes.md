@@ -556,3 +556,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 21:03 UTC]** Moraes e Mendonça ficam lado a lado na primeira sessão do STF após crise das mensagens
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-e-mendonca-ficam-lado-a-lado-na-primeira-sessao-do-stf-apos-crise-das-mensagens/)_
 
+- **[2026-09-02 19:39 UTC]** Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss)_
+
