@@ -14,3 +14,6 @@
 - **[2026-08-30 23:06 UTC]** Homem é morto a tiros em balneário de Palmas na presença da esposa e dos filhos
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/homem-e-morto-a-tiros-em-balneario-de-palmas-na-presenca-da-esposa-e-dos-filhos.ghtml)_
 
+- **[2026-09-02 12:02 UTC]** Médico é esfaqueado por ex de enfermeira em estacionamento de hospital de Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/medico-esfaqueado-ex-enfermeira-estacionamento-hospital-balneario-camboriu.ghtml)_
+
