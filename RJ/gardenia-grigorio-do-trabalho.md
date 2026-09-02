@@ -167,3 +167,6 @@
 - **[2026-09-02 07:52 UTC]** Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 08:00 UTC]** Mulheres fazem amizades no trabalho de maneira diferente dos homens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/mulheres-fazem-amizades-no-trabalho-de-maneira-diferente-dos-homens.shtml)_
+
