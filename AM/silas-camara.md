@@ -344,3 +344,6 @@ Diretor
 - **[2026-09-01 22:14 UTC]** Câmara aprova regras para vigilância sanitária periódica em hospitais públicos e privados
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301877-camara-aprova-regras-para-vigilancia-sanitaria-periodica-em-hospitais-publicos-e-privados)_
 
+- **[2026-09-01 21:52 UTC]** Câmara aprova adesão do Brasil a acordo para eliminar violência e assédio no trabalho
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301874-camara-aprova-adesao-do-brasil-a-acordo-para-eliminar-violencia-e-assedio-no-trabalho)_
+
