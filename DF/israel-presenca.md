@@ -32,3 +32,6 @@
 - **[2026-09-02 06:00 UTC]** Datação de sítio que mudou ideia sobre presença de humanos nas Américas volta ao debate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/datacao-de-sitio-que-mudou-ideia-sobre-presenca-de-humanos-nas-americas-volta-ao-debate.shtml)_
 
+- **[2026-09-02 17:28 UTC]** Vorcaro prestou depoimento a Mendonça sem a presença da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-prestou-depoimento-mendonca-sem-presenca-pf/)_
+
