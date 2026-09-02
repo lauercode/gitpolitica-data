@@ -53,3 +53,6 @@
 - **[2026-09-01 15:01 UTC]** Vídeo mostra pouso de avião da Latam que saiu da pista e atolou no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/aviao-saiu-da-pista-1.ghtml)_
 
+- **[2026-09-02 09:52 UTC]** Carreta carregada de óleo tomba perto do aeroporto de São Luís e interdita pista
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/carreta-com-carga-de-oleo-tomba-perto-do-aeroporto-de-sao-luis-e-interdita-pista.ghtml)_
+
