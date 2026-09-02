@@ -17,3 +17,6 @@
 - **[2026-09-01 00:42 UTC]** Hana Ghassan diz que quer construir doze hospitais no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/31/hana-ghassan-diz-que-quer-construir-doze-hospitais-no-para.ghtml)_
 
+- **[2026-09-02 21:41 UTC]** Hana Ghassan promete pavimentar e asfaltar 4 mil km de vias e exigir garantia de 5 anos no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/hana-ghassan-promete-exigir-garantia-de-5-anos-para-asfaltamento-de-vias-no-para.ghtml)_
+
