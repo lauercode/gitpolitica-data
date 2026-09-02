@@ -26,3 +26,6 @@
 - **[2026-09-01 23:39 UTC]** Câmara aprova projeto que facilita acesso à aposentadoria integral por PMs e bombeiros
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/camara-aprova-projeto-que-facilita-acesso-a-aposentadoria-integral-por-pms-e-bombeiros.ghtml)_
 
+- **[2026-09-01 22:01 UTC]** Câmara aprova projeto que reduz tempo de trabalho militar de PMs e bombeiros para aposentadoria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-aprova-projeto-que-reduz-tempo-de-trabalho-militar-de-pms-e-bombeiros-para-aposentadoria.shtml)_
+
