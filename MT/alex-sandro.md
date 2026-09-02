@@ -17,3 +17,6 @@
 - **[2026-09-01 13:33 UTC]** Eleições 2026 no PR: Sandro Alex se reúne com representantes do cooperativismo e meio ambiente
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-no-pr-sandro-alex.ghtml)_
 
+- **[2026-09-02 12:54 UTC]** Eleições 2026 no PR: Sandro Alex diz que vai abrir concurso público para forças de segurança
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-no-pr-agenda-sandro-alex-2-de-setembro.ghtml)_
+
