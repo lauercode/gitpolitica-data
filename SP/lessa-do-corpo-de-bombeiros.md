@@ -35,3 +35,6 @@
 - **[2026-09-01 22:58 UTC]** Câmara aprova novas regras para contagem do tempo de serviço por PMs e bombeiros
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301898-camara-aprova-novas-regras-para-contagem-do-tempo-de-servico-por-pms-e-bombeiros)_
 
+- **[2026-09-02 03:00 UTC]** 'Tentaram retornar, mas condição estava extrema', dizem bombeiros sobre turistas que ficaram 40 horas desaparecidos em cânion no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/tentaram-retornar-condicao-extrema-bombeiros-turistas-40-horas-desaparecidos-canion-rs.ghtml)_
+
