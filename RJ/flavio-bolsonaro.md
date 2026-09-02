@@ -599,3 +599,6 @@
 - **[2026-09-02 09:05 UTC]** TSE decide não multar Flávio Bolsonaro por uso de vídeo feito com IA
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/tse-decide-nao-multar-flavio-bolsonaro-por-uso-de-video-feito-com-ia)_
 
+- **[2026-09-02 06:00 UTC]** Suplente de Pacheco no Senado apoiou Bolsonaro em 2018
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/suplente-de-pacheco-no-senado-apoiou-bolsonaro-em-2018.shtml)_
+
