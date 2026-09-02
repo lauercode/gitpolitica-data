@@ -340,3 +340,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 18:23 UTC]** PF diz que esposa de Moraes tinha segundo contrato com empresa de Vorcaro, o que ela nega; banqueiro tentou pagar R$ 50 mi com aeronaves
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/esposa-de-moraes-tinha-segundo-contrato-com-empresa-de-vorcaro-banqueiro-tentou-pagar-r-50-mi-com-aeronaves.ghtml)_
 
+- **[2026-09-01 23:00 UTC]** Mendonça chamou reunião surpresa para requisitar relatório sobre Moraes, e PF vê excesso de ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-chamou-reuniao-surpresa-para-requisitar-relatorio-sobre-moraes-e-pf-ve-excesso-de-ministro.shtml)_
+
