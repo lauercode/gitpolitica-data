@@ -287,3 +287,6 @@
 - **[2026-09-02 00:24 UTC]** Presidente do Conselho do Einstein, Claudio Lottenberg é afastado do cargo durante o período eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/01/presidente-do-conselho-do-einstein-claudio-lottenberg-e-afastado-do-cargo-durante-o-periodo-eleitoral.ghtml)_
 
+- **[2026-09-02 10:53 UTC]** O ataque na Times Square que matou a vice-presidente do Bank of America
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cdj4yz1x1wgo?at_medium=RSS&at_campaign=rss)_
+
