@@ -189,3 +189,6 @@ direcionado às necessidades de cada pessoa
 - **[2026-09-02 13:24 UTC]** Por que uma pessoa pode ser 'loira' ou 'loura'? Ou isso é 'cousa de doudo'?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/caetano-w-galindo/2026/09/por-que-uma-pessoa-pode-ser-loira-ou-loura-ou-isso-e-cousa-de-doudo.shtml)_
 
+- **[2026-09-02 12:48 UTC]** 'Qualquer outra pessoa estaria presa', diz Capitão Alberto Neto sobre Moraes em sabatina
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/qualquer-outra-pessoa-estaria-presa-diz-capitao-alberto-neto-sobre-moraes-em-sabatina.ghtml)_
+
