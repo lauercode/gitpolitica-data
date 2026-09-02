@@ -410,3 +410,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 04:01 UTC]** Polícia Federal revela mensagens de gratidão e luxo entre Vorcaro e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-revela-mensagens-de-gratidao-e-luxo-entre-vorcaro-e-moraes/)_
 
+- **[2026-09-02 03:07 UTC]** A “trilha do print”: Como a PF reconstruiu o envio de mensagens secretas entre Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-pf-reconstruiu-o-envio-de-mensagens-secretas-entre-vorcaro-e-moraes/)_
+
