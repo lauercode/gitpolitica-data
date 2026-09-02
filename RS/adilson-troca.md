@@ -44,3 +44,6 @@
 - **[2026-09-02 08:00 UTC]** Comitê do caso Mariana (MG) aprova troca de escritório e abre crise com advogados britânicos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/comite-do-caso-mariana-mg-aprova-troca-de-escritorio-e-abre-crise-com-advogados-britanicos.shtml)_
 
+- **[2026-09-02 21:19 UTC]** Henrique e Juliano são processados em R$ 5 milhões após troca de empresa de ingressos para shows
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/henrique-e-juliano-sao-processados-em-r-5-milhoes-apos-troca-de-empresa-de-ingressos-para-shows.ghtml)_
+
