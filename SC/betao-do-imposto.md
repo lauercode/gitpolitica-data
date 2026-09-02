@@ -65,3 +65,6 @@
 - **[2026-09-02 06:00 UTC]** Famílias poderão concluir inventário em cartório sem pagar imposto sobre herança, diz CNJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/familias-poderao-concluir-inventario-em-cartorio-sem-pagar-imposto-sobre-heranca-diz-cnj.shtml)_
 
+- **[2026-09-02 13:10 UTC]** 'Taxa das blusinhas': comissão analisa relatório para acabar com imposto; Motta convoca sessão para votar MP nesta quarta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/fim-da-taxa-das-blusinhas-comissao-comeca-analise-de-relatorio.ghtml)_
+
