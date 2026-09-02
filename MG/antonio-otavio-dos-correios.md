@@ -50,3 +50,6 @@
 - **[2026-09-02 13:23 UTC]** PF faz operação contra suspeitos de desviar cartões bancários de correspondências nos Correios do MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/pf-faz-operacao-contra-suspeitos-de-desviar-cartoes-bancarios-de-correspondencias-nos-correios-do-ma.ghtml)_
 
+- **[2026-09-02 14:48 UTC]** Anac suspende operações da Total Linhas Aéreas, que presta serviço aos Correios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anac-suspende-operacoes-da-total-linhas-aereas-que-presta-servico-aos-correios.shtml)_
+
