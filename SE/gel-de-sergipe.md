@@ -152,3 +152,6 @@
 - **[2026-09-02 16:42 UTC]** Suspeitos de fraude bancária de mais de R$ 600 mil em Sergipe são presos em MG
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/02/suspeitos-de-fraude-bancaria-de-mais-de-r-600-mil-em-sergipe-sao-presos-em-mg.ghtml)_
 
+- **[2026-09-02 18:09 UTC]** Resultado Mega-Sena 3052: sete apostas de Sergipe acertam números; confira valores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/02/mega-sena-3052-sete-apostas-de-sergipe-acertam-numeros-confira-resultado.ghtml)_
+
