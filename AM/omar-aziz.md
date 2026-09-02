@@ -35,3 +35,6 @@
 - **[2026-08-28 00:34 UTC]** Eleições 2026: Omar Aziz participa de evento em Manaus e apresenta propostas para educação
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-omar-aziz-participa-de-evento-em-manaus-e-apresenta-propostas-para-educacao.ghtml)_
 
+- **[2026-09-01 20:51 UTC]** Aziz articula rito especial para levar PEC da escala 6x1 ao plenário
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/aziz-articula-rito-especial-para-levar-pec-da-escala-6x1-ao-plenario)_
+
