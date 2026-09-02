@@ -11,3 +11,6 @@
 - **[2026-09-01 11:32 UTC]** Comissão sobre redução da maioridade civil e penal vota nesta terça pedidos para realizar debates
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300592-comissao-sobre-reducao-da-maioridade-civil-e-penal-vota-nesta-terca-pedidos-para-realizar-debates)_
 
+- **[2026-09-02 15:08 UTC]** Comissão especial aprova 33 requerimentos para audiências sobre redução da maioridade penal; assista
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302176-comissao-especial-aprova-33-requerimentos-para-audiencias-sobre-reducao-da-maioridade-penal-assista)_
+
