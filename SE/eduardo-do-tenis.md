@@ -14,3 +14,6 @@
 - **[2026-08-29 11:33 UTC]** Menino que morreu após árvore cair sobre casa é velado em Porto Alegre: 'Comprei pra botar no caixão', diz mãe sobre tênis
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/corpo-menino-morto-arvore-velado-porto-alegre.ghtml)_
 
+- **[2026-09-02 22:06 UTC]** Eleições 2026 em SC: Jorginho Mello encontra apoiadores e visita clube de tênis no Norte
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-em-sc-jorginho-mello-encontra-apoiadores-e-visita-clube-de-tenis-no-norte.ghtml)_
+
