@@ -38,3 +38,6 @@
 - **[2026-09-01 14:28 UTC]** Vorcaro disse a diretor do BC que Alexandre de Moraes daria 'aperto no Paulo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/vorcaro-disse-a-diretor-do-bc-que-alexandre-de-moraes-daria-aperto-no-paulo.shtml)_
 
+- **[2026-09-02 01:50 UTC]** Oposição pede prisão de Moraes e afastamento do diretor-geral da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-pede-prisao-de-moraes-e-afastamento-do-diretor-geral-da-pf/)_
+
