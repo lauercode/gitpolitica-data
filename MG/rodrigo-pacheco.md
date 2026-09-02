@@ -65,3 +65,6 @@
 - **[2026-09-02 14:00 UTC]** Câmara confirma indicação de Rodrigo Pacheco para ministro do TCU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/camara-confirma-indicacao-de-rodrigo-pacheco-para-ministro-do-tcu.shtml)_
 
+- **[2026-09-02 19:10 UTC]** Câmara aprova Pacheco para o TCU e indicação será promulgada pelo Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/camara-aprova-pacheco-tcu-indicacao-sera-promulgada-congresso/)_
+
