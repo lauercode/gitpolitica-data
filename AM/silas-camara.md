@@ -329,3 +329,6 @@ Diretor
 - **[2026-09-02 01:34 UTC]** Câmara aprova projeto que prevê orientação vocacional para estudantes do ensino médio
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302002-camara-aprova-projeto-que-preve-orientacao-vocacional-para-estudantes-do-ensino-medio)_
 
+- **[2026-09-02 01:14 UTC]** Câmara aprova reajuste anual de custas da Justiça do Trabalho
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301992-camara-aprova-reajuste-anual-de-custas-da-justica-do-trabalho)_
+
