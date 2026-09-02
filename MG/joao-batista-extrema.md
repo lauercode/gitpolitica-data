@@ -14,3 +14,6 @@
 - **[2026-09-02 03:00 UTC]** 'Tentaram retornar, mas condição estava extrema', dizem bombeiros sobre turistas que ficaram 40 horas desaparecidos em cânion no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/tentaram-retornar-condicao-extrema-bombeiros-turistas-40-horas-desaparecidos-canion-rs.ghtml)_
 
+- **[2026-09-02 20:33 UTC]** Projeto define culpa temerária no Código Penal para punir negligência extrema
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299538-projeto-define-culpa-temeraria-no-codigo-penal-para-punir-negligencia-extrema)_
+
