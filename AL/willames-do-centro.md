@@ -134,3 +134,6 @@
 - **[2026-09-01 23:00 UTC]** Três em cada quatro candidatos de centro que mudaram de ideologia vão para a direita, aponta levantamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/tres-em-cada-quatro-candidatos-de-centro-que-mudaram-de-ideologia-vao-para-a-direita-aponta-levantamento.shtml)_
 
+- **[2026-09-02 04:15 UTC]** Caminhada reúne seguidores de Luiz Gama em lugares históricos do centro de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/caminhada-reune-seguidores-de-luiz-gama-em-lugares-historicos-do-centro-de-sao-paulo.shtml)_
+
