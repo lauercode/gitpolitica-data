@@ -155,3 +155,6 @@
 - **[2026-09-01 23:56 UTC]** Câmara aprova criação de 24 cargos de juiz do Trabalho no Rio de Janeiro
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301949-camara-aprova-criacao-de-24-cargos-de-juiz-do-trabalho-no-rio-de-janeiro)_
 
+- **[2026-09-01 21:52 UTC]** Câmara aprova adesão do Brasil a acordo para eliminar violência e assédio no trabalho
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301874-camara-aprova-adesao-do-brasil-a-acordo-para-eliminar-violencia-e-assedio-no-trabalho)_
+
