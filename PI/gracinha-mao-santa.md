@@ -47,3 +47,6 @@
 - **[2026-09-01 19:55 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-santa-catarina.ghtml)_
 
+- **[2026-09-02 09:08 UTC]** Viva Maria: devoção à Santa Raimunda na Amazônia vira tema de livro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/viva-maria-devocao-santa-raimunda-na-amazonia-vira-tema-de-livro)_
+
