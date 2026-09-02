@@ -17,3 +17,6 @@
 - **[2026-08-31 21:48 UTC]** Não vai cair sozinha: a “bomba-relógio” Roberta Luchsinger
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/nao-vai-cair-sozinha-a-bomba-relogio-roberta-luchsinger/)_
 
+- **[2026-09-02 08:45 UTC]** 'Bomba atômica' e 'terremoto político': o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml)_
+
