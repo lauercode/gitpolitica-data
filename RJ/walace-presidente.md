@@ -302,3 +302,6 @@
 - **[2026-09-02 12:35 UTC]** Presidente do STF diz que analisará fatos do caso Master e promete anunciar medidas nos próximos dias
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/presidente-do-stf-diz-que-analisara-fatos-do-caso-master-e-promete-anunciar-medidas-nos-proximos-dias.ghtml)_
 
+- **[2026-09-02 16:18 UTC]** Rodrigo Pacheco, ex-presidente do Senado, será ministro do TCU
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-ex-presidente-do-senado-sera-ministro-do-tcu)_
+
