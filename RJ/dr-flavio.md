@@ -749,3 +749,6 @@
 - **[2026-09-02 14:11 UTC]** Quaest: 65% dizem que investigação sobre Lulinha prejudica Lula; 64%, que caso Dark Horse prejudica Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-investigacoes-lulinha-dark-horse.ghtml)_
 
+- **[2026-09-02 13:37 UTC]** Quaest: Flávio Bolsonaro tem rejeição de 55%, e Lula, de 53%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/quaest-flavio-bolsonaro-tem-rejeicao-de-55percent-e-lula-de-53percent.ghtml)_
+
