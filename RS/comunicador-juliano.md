@@ -11,3 +11,6 @@
 - **[2026-08-30 18:59 UTC]** Henrique, da dupla com Juliano, participa de vaquejada em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/30/henrique-da-dupla-com-juliano-participa-de-vaquejada-em-sergipe.ghtml)_
 
+- **[2026-09-02 21:19 UTC]** Henrique e Juliano são processados em R$ 5 milhões após troca de empresa de ingressos para shows
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/henrique-e-juliano-sao-processados-em-r-5-milhoes-apos-troca-de-empresa-de-ingressos-para-shows.ghtml)_
+
