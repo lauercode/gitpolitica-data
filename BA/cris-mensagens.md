@@ -126,3 +126,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 11:52 UTC]** INFOGRÁFICO: veja mensagens que Vorcaro mandou a número atribuído a Moraes antes de ser preso, segundo PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/infografico-mensagens-vorcaro-moraes-segundo-pf.ghtml)_
 
+- **[2026-09-02 10:28 UTC]** Mensagens de Moraes podem indicar tráfico de influência e obstrução à Justiça, avaliam advogados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/02/mensagens-de-moraes-vorcaro.ghtml)_
+
