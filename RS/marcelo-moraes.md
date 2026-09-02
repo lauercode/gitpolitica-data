@@ -439,3 +439,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 11:47 UTC]** Imprensa internacional chama escândalo envolvendo Moraes de “bomba atômica”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/imprensa-internacional-chama-escandalo-envolvendo-moraes-bomba-atomica/)_
 
+- **[2026-09-02 11:28 UTC]** Moraes teria ajudado Vorcaro a organizar evento com ministro do STF em Londres
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-teria-ajudado-vorcaro-organizar-evento-ministro-stf-londres/)_
+
