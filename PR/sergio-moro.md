@@ -29,3 +29,6 @@
 - **[2026-09-01 12:03 UTC]** Eleições 2026 no PR: Sérgio Moro diz que pretende cortar secretarias e reduzir gastos no governo
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-no-pr-sergio-moro.ghtml)_
 
+- **[2026-09-02 20:57 UTC]** Eleições 2026 no PR: Sergio Moro diz que não compareceu aos debates por estratégia política
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-no-pr-agenda-sergio-moro-2-de-setembro.ghtml)_
+
