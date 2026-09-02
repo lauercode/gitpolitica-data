@@ -62,3 +62,6 @@
 - **[2026-09-02 16:18 UTC]** Rodrigo Pacheco, ex-presidente do Senado, será ministro do TCU
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-ex-presidente-do-senado-sera-ministro-do-tcu)_
 
+- **[2026-09-02 14:00 UTC]** Câmara confirma indicação de Rodrigo Pacheco para ministro do TCU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/camara-confirma-indicacao-de-rodrigo-pacheco-para-ministro-do-tcu.shtml)_
+
