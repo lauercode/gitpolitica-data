@@ -398,3 +398,7 @@ Diretor
 - **[2026-09-02 11:25 UTC]** MP que acaba com a taxa das blusinhas avança e fica pronta para votação na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/relatora-da-mp-das-blusinhas-rejeita-auxilio-a-empresas-nacionais-e-descarta-exclusividade-dos-correios.shtml)_
 
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
