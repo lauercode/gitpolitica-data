@@ -194,3 +194,6 @@
 - **[2026-09-02 09:00 UTC]** Donos de flutuantes adotam estratégias e se preparam para seca no AM: 'É o rio quem determina quando precisamos parar'
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/donos-de-flutuantes-adotam-estrategias-e-se-preparam-para-seca-no-am-e-o-rio-quem-determina-quando-precisamos-parar.ghtml)_
 
+- **[2026-09-02 16:01 UTC]** Projeto prevê descontos em tarifas para quem fizer coleta seletiva
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301684-projeto-preve-descontos-em-tarifas-para-quem-fizer-coleta-seletiva)_
+
