@@ -62,3 +62,6 @@
 - **[2026-09-02 16:55 UTC]** Seleção brasileira terá 1ª convocação pós-Copa em 9 de setembro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/selecao-brasileira-tera-1a-convocacao-pos-copa-em-9-de-setembro)_
 
+- **[2026-09-02 17:46 UTC]** Copa do Brasil segue definindo semifinalistas nesta quarta-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/copa-do-brasil-segue-definindo-semifinalistas-nesta-quarta-feira)_
+
