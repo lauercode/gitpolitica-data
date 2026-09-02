@@ -188,3 +188,6 @@
 - **[2026-09-01 23:28 UTC]** Quem é Ciro Soares, advogado que aparece em relatório da PF como ponte entre Vorcaro e Gonet
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/quem-e-ciro-soares.ghtml)_
 
+- **[2026-09-02 10:58 UTC]** Quais crimes podem ser investigados e quem pode processar e julgar um ministro do STF? Entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/quais-crimes-podem-ser-investigados-e-quem-pode-processar-e-julgar-um-ministro-do-stf-entenda.ghtml)_
+
