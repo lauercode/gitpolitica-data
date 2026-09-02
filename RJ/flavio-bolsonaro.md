@@ -605,3 +605,6 @@
 - **[2026-09-02 16:23 UTC]** Nunes Marques mantém peça de campanha de Lula que associa Flávio Bolsonaro ao Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/nunes-marques-rejeita-pedido-de-flavio-contra-campanha-de-lula-que-associou-senador-ao-master.ghtml)_
 
+- **[2026-09-02 16:09 UTC]** Quaest: 44% acham que Flávio não é mais moderado que a família Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/flavio-moderacao-bolsonaro.ghtml)_
+
