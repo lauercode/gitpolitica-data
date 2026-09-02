@@ -149,3 +149,6 @@
 - **[2026-09-02 11:59 UTC]** Jovem morta com 21 facadas é sepultada em Água Doce do Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/jovem-morta-a-facadas-apos-deixar-escola-e-sepultada-em-agua-doce-do-maranhao.ghtml)_
 
+- **[2026-09-02 18:02 UTC]** Anvisa interdita lote de água mineral Vitoriosa após detectar coliformes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anvisa-interdita-lote-de-agua-mineral-vitoriosa-apos-detectar-coliformes.shtml)_
+
