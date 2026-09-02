@@ -110,3 +110,6 @@
 - **[2026-08-27 14:57 UTC]** Estudante de direito natural do MS é encontrado morto cinco dias após desaparecer em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/estudante-de-direito-do-ms-achado-morto-itapema-sc.ghtml)_
 
+- **[2026-09-02 19:07 UTC]** Polícia prende cinco suspeitos de tráfico de drogas em três bairros de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/02/policia-prende-cinco-suspeitos-de-trafico-de-drogas-em-tres-bairros-de-macapa.ghtml)_
+
