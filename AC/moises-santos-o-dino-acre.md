@@ -236,3 +236,6 @@
 - **[2026-09-02 16:30 UTC]** CNH Social: Mulheres vítimas de violência doméstica são convocadas para matrícula no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/cnh-social-mulheres-vitimas-de-violencia-domestica-sao-convocadas-para-matricula-no-acre.ghtml)_
 
+- **[2026-09-02 15:07 UTC]** Menino de 4 anos cai de embarcação e desaparece em rio no interior do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/menino-de-4-anos-cai-de-embarcacao-e-desaparece-em-rio-no-interior-do-acre.ghtml)_
+
