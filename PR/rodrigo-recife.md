@@ -41,3 +41,6 @@
 - **[2026-09-01 17:24 UTC]** Mãe do menino Miguel se forma em direito no Recife e homenageia filho em cerimônia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mae-do-menino-miguel-se-forma-em-direito-no-recife-e-homenageia-filho-em-cerimonia.shtml)_
 
+- **[2026-09-02 19:35 UTC]** Voos entre Mossoró e Recife são retomados nesta quinta-feira (3)
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/02/voos-entre-mossoro-e-recife-sao-retomados-nesta-quinta-feira-3.ghtml)_
+
