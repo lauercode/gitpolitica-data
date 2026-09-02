@@ -110,3 +110,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 plenário do STF analise mensagens entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-02 04:01 UTC]** Polícia Federal revela mensagens de gratidão e luxo entre Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-revela-mensagens-de-gratidao-e-luxo-entre-vorcaro-e-moraes/)_
+
