@@ -11,3 +11,6 @@
 - **[2026-09-02 15:00 UTC]** Uso de medicamentos contra obesidade por conta própria é problema crescente de saúde pública
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/uso-de-medicamentos-contra-obesidade-por-conta-propria-e-problema-crescente-de-saude-publica.shtml)_
 
+- **[2026-09-02 18:28 UTC]** O fim da blindagem? Moraes enfrenta crescente desgaste público e pressão aumenta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-fim-da-blindagem-moraes-enfrenta-crescente-desgaste-publico-e-pressao-aumenta/)_
+
