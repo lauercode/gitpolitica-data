@@ -80,3 +80,6 @@
 - **[2026-09-02 18:19 UTC]** Professor é condenado a 7 anos por comparar aluno a chimpanzé em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/professor-e-condenado-a-7-anos-por-comparar-aluno-a-chimpanze-em-maceio.ghtml)_
 
+- **[2026-09-02 17:47 UTC]** 'Isolado e pouco sociável', diz professor sobre adolescente suspeito de matar estudante a facadas no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/isolado-e-pouco-sociavel-diz-professor-sobre-adolescente-suspeito-de-matar-estudante-a-facadas-em-agua-doce-do-maranhao.ghtml)_
+
