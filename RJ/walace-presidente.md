@@ -281,3 +281,6 @@
 - **[2026-09-01 12:48 UTC]** PIB do Brasil perde força no 2º tri: os 3 desafios para o próximo presidente na economia
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 21:22 UTC]** Confira como foi a terça-feira (1º) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-terca-feira-1o-dos-candidatos-presidente)_
+
