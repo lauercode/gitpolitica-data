@@ -41,3 +41,6 @@
 - **[2026-09-02 03:00 UTC]** Aeroporto de Florianópolis terá voo direto para Assunção, no Paraguai, no verão; veja o que se sabe
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/aeroporto-de-florianopolis-tera-voo-direto-para-assuncao-no-paraguai-no-verao-veja-o-que-se-sabe.ghtml)_
 
+- **[2026-09-02 17:37 UTC]** Perseguição e 'ameaças espirituais': veja o que se sabe sobre o líder religioso que responde por 19 crimes
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/perseguicao-e-ameacas-espirituais-veja-o-que-se-sabe-sobre-o-lider-religioso-que-responde-por-19-crimes.ghtml)_
+
