@@ -516,3 +516,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 18:28 UTC]** O fim da blindagem? Moraes enfrenta crescente desgaste público e pressão aumenta
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-fim-da-blindagem-moraes-enfrenta-crescente-desgaste-publico-e-pressao-aumenta/)_
 
+- **[2026-09-02 17:29 UTC]** Senadores ampliam pressão por impeachment de Moraes após relatório da PF sobre Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senadores-ampliam-pressao-por-impeachment-de-moraes-apos-relatorio-da-pf-sobre-vorcaro/)_
+
