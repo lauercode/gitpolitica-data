@@ -14,3 +14,6 @@
 - **[2026-09-02 13:14 UTC]** Pipoca em Cena: curtas produzidos por estudantes se preparam para chegar às telas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/pipoca-em-cena-curtas-produzidos-por-estudantes-se-preparam-para-chegar-as-telas.ghtml)_
 
+- **[2026-09-02 20:07 UTC]** 'Um lugar muito lindo': estudantes do Pipoca em Cena mergulham na história do Teatro Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/um-lugar-muito-lindo-estudantes-do-pipoca-em-cena-mergulham-na-historia-do-teatro-amazonas.ghtml)_
+
