@@ -420,3 +420,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 05:00 UTC]** Podcast analisa impacto de mensagens que expõem relação de Moraes e Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-analisa-impacto-de-mensagens-que-expoem-relacao-de-moraes-e-vorcaro.shtml)_
 
+- **[2026-09-02 11:52 UTC]** INFOGRÁFICO: veja mensagens que Vorcaro mandou a número atribuído a Moraes antes de ser preso, segundo PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/infografico-mensagens-vorcaro-moraes-segundo-pf.ghtml)_
+
