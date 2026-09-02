@@ -602,3 +602,6 @@
 - **[2026-09-02 06:00 UTC]** Suplente de Pacheco no Senado apoiou Bolsonaro em 2018
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/suplente-de-pacheco-no-senado-apoiou-bolsonaro-em-2018.shtml)_
 
+- **[2026-09-02 16:23 UTC]** Nunes Marques mantém peça de campanha de Lula que associa Flávio Bolsonaro ao Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/nunes-marques-rejeita-pedido-de-flavio-contra-campanha-de-lula-que-associou-senador-ao-master.ghtml)_
+
