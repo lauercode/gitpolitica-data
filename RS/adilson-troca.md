@@ -41,3 +41,6 @@
 - **[2026-09-01 17:09 UTC]** DC troca candidato e anuncia Coronel Jonildo ao Senado pelo Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/01/dc-muda-troca-candidato-e-anuncia-coronel-jonildo-ao-senado-pelo-para.ghtml)_
 
+- **[2026-09-02 08:00 UTC]** Comitê do caso Mariana (MG) aprova troca de escritório e abre crise com advogados britânicos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/comite-do-caso-mariana-mg-aprova-troca-de-escritorio-e-abre-crise-com-advogados-britanicos.shtml)_
+
