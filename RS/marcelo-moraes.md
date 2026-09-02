@@ -364,3 +364,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 21:03 UTC]** Alcolumbre diz que quantidade de pedidos de impeachment do STF não é normal e não responde sobre Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-diz-que-quantidade-de-pedidos-de-impeachment-do-stf-nao-e-normal-e-nao-responde-sobre-moraes.shtml)_
 
+- **[2026-09-01 19:43 UTC]** Gonet pede anulação de relatório da PF sobre Moraes e Vorcaro, e Mendonça quer discussão em plenário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gonet-pede-anulacao-de-relatorio-da-pf-sobre-moraes-e-vorcaro.shtml)_
+
