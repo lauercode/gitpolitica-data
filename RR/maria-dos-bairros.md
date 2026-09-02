@@ -35,3 +35,6 @@
 - **[2026-09-01 11:32 UTC]** Vacinação antirrábica porta a porta passa por 5 bairros de Natal nesta semana; veja locais
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/vacinacao-antirrabica-porta-a-porta-passa-por-5-bairros-de-natal-nesta-semana-veja-locais.ghtml)_
 
+- **[2026-09-02 13:17 UTC]** Busca por bairros calmos redefine preferências em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/dreamis-incorporadora-novos-olhares-sobre-morar-em-curitiba/noticia/2026/09/02/busca-por-bairros-calmos-redefine-preferencias-em-curitiba.ghtml)_
+
