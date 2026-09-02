@@ -158,3 +158,6 @@
 - **[2026-09-02 01:34 UTC]** Câmara aprova projeto que prevê orientação vocacional para estudantes do ensino médio
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302002-camara-aprova-projeto-que-preve-orientacao-vocacional-para-estudantes-do-ensino-medio)_
 
+- **[2026-09-02 07:52 UTC]** Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss)_
+
