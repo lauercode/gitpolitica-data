@@ -44,3 +44,6 @@
 - **[2026-09-02 17:47 UTC]** Incêndios de grandes proporções atingem áreas de vegetação no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/incendios-de-grandes-proporcoes-atingem-areas-de-vegetacao-no-acre.ghtml)_
 
+- **[2026-09-02 19:08 UTC]** Lucas Ribeiro defende expansão de áreas industriais e geração de empregos na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/lucas-ribeiro-defende-expansao-de-areas-industriais-e-geracao-de-empregos-na-paraiba.ghtml)_
+
