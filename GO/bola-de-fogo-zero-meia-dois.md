@@ -215,3 +215,6 @@
 - **[2026-09-02 17:53 UTC]** Passageira é presa com dois fuzis dentro de ônibus na BR-316
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/passageira-e-presa-com-dois-fuzis-dentro-de-onibus-na-br-316.ghtml)_
 
+- **[2026-09-02 21:23 UTC]** Lua de mel em Foz do Iguaçu: um roteiro para começar a vida a dois
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/visit-iguassu/visite-foz-do-iguacu/noticia/2026/09/02/lua-de-mel-em-foz-do-iguacu-um-roteiro-para-comecar-a-vida-a-dois.ghtml)_
+
