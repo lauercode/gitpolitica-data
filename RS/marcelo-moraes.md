@@ -544,3 +544,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 21:50 UTC]** Impeachment de Alexandre de Moraes: qual é a posição de cada senador
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/impeachment-de-alexandre-de-moraes-qual-e-a-posicao-de-cada-senador/)_
 
+- **[2026-09-02 21:21 UTC]** Fiesp exibe bandeira do Brasil em protesto após revelações sobre Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fiesp-exibe-bandeira-do-brasil-em-protesto-apos-revelacoes-sobre-moraes-e-vorcaro/)_
+
