@@ -137,3 +137,6 @@
 - **[2026-09-02 04:15 UTC]** Caminhada reúne seguidores de Luiz Gama em lugares históricos do centro de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/caminhada-reune-seguidores-de-luiz-gama-em-lugares-historicos-do-centro-de-sao-paulo.shtml)_
 
+- **[2026-09-02 08:16 UTC]** Quarta-feira é de chuvas no Sudeste, Centro-Oeste e sul do Nordeste
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/quarta-feira-e-de-chuvas-no-sudeste-centro-oeste-e-sul-do-nordeste)_
+
