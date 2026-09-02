@@ -176,3 +176,6 @@
 - **[2026-09-02 12:41 UTC]** Projeto cria exceções a restrições fiscais para benefícios e despesas em 2026
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302085-projeto-cria-excecoes-a-restricoes-fiscais-para-beneficios-e-despesas-em-2026)_
 
+- **[2026-09-02 15:03 UTC]** Lula sanciona projeto que estende para UPAS atendimento a urgências cardiovasculares
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/lula-sanciona-projeto-que-estende-para-as-upas-o-atendimento-a-urgencias-cardiovasculares.ghtml)_
+
