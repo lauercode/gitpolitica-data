@@ -17,3 +17,6 @@
 - **[2017-07-10 18:59 UTC]** Conheça o perfil do motociclista goiano
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/conheca-o-perfil-do-motociclista-goiano.html)_
 
+- **[2026-09-02 07:01 UTC]** Caminhoneiro confundido com criança pela PM já teve perfil na web banido com alerta de 'segurança infantil'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/caminhoneiro-confundido-crianca-pm-perfil-banido-plataforma-seguranca-infantil.ghtml)_
+
