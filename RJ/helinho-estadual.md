@@ -95,3 +95,6 @@
 - **[2026-09-01 21:32 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Alagoas
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-alagoas.ghtml)_
 
+- **[2026-09-02 07:32 UTC]** TRE-RJ cassa registro da candidatura do deputado estadual Val Ceasa
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tre-rj-cassa-registro-da-candidatura-do-deputado-estadual-val-ceasa)_
+
