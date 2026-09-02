@@ -191,3 +191,6 @@
 - **[2026-09-01 19:40 UTC]** Casal é preso após levar dois bebês mortos a UPA em 1 ano e abandonar outro filho dentro de carro em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/casal-preso-levar-bebe-morto-upa-abandonar-filho-carro-sc.ghtml)_
 
+- **[2026-09-02 01:05 UTC]** Dois anos após desabamento, rua de Gramado que colapsou durante enchente em 2024 começa a ser reconstruída
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/01/dois-anos-apos-desabamento-rua-de-gramado-colapsou-enchente-2024-reconstruida.ghtml)_
+
