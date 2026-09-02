@@ -182,3 +182,6 @@
 - **[2026-09-02 13:57 UTC]** Renan Santos diz que se rebelou e venceu o sistema
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-diz-que-se-rebelou-e-venceu-o-sistema/)_
 
+- **[2026-09-02 13:05 UTC]** Renan Santos organiza ato na Paulista pelo impeachment de Toffoli e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-organiza-ato-na-paulista-pelo-impeachment-de-toffoli-e-moraes/)_
+
