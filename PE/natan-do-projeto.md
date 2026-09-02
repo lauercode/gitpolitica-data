@@ -170,3 +170,6 @@
 - **[2026-09-02 16:01 UTC]** Projeto prevê descontos em tarifas para quem fizer coleta seletiva
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301684-projeto-preve-descontos-em-tarifas-para-quem-fizer-coleta-seletiva)_
 
+- **[2026-09-02 13:21 UTC]** Projeto proíbe bloqueio de gastos de agências reguladoras federais
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302089-projeto-proibe-bloqueio-de-gastos-de-agencias-reguladoras-federais)_
+
