@@ -464,3 +464,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 11:49 UTC]** Lula é pressionado a se pronunciar sobre Alexandre de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lula-e-pressionado-para-se-pronunciar-sobre-alexandre-de-moraes.shtml)_
 
+- **[2026-09-02 16:07 UTC]** Flávio sobe à tribuna do Senado e cobra impeachment de Moraes imediatamente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-sobe-a-tribuna-do-senado-e-cobra-impeachment-de-moraes-imediatamente/)_
+
