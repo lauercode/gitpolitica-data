@@ -38,3 +38,6 @@
 - **[2026-09-01 10:40 UTC]** O que já se sabe sobre o desaparecimento de quatro turistas em cânion do RS; todos foram encontrados com vida
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/01/turistas-desaparecem-trilha-canion-morrinhos-sul.ghtml)_
 
+- **[2026-09-02 03:00 UTC]** Aeroporto de Florianópolis terá voo direto para Assunção, no Paraguai, no verão; veja o que se sabe
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/aeroporto-de-florianopolis-tera-voo-direto-para-assuncao-no-paraguai-no-verao-veja-o-que-se-sabe.ghtml)_
+
