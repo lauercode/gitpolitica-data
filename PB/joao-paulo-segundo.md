@@ -161,3 +161,6 @@
 - **[2026-09-01 20:38 UTC]** Manaus marca 37,6ºC e bate recorde de temperatura pelo segundo dia consecutivo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/manaus-marca-376oc-e-bate-recorde-de-temperatura-pelo-segundo-dia-consecutivo.ghtml)_
 
+- **[2026-09-01 18:23 UTC]** PF diz que esposa de Moraes tinha segundo contrato com empresa de Vorcaro, o que ela nega; banqueiro tentou pagar R$ 50 mi com aeronaves
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/esposa-de-moraes-tinha-segundo-contrato-com-empresa-de-vorcaro-banqueiro-tentou-pagar-r-50-mi-com-aeronaves.ghtml)_
+
