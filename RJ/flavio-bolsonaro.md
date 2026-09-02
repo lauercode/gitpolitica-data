@@ -611,3 +611,6 @@
 - **[2026-09-02 14:57 UTC]** Quaest: 60% não veem Flávio Bolsonaro como melhor candidato da direita; 46% não consideram Lula melhor nome da esquerda
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-melhor-candidato-flavio-bolsonaro-lula-2-setembro.ghtml)_
 
+- **[2026-09-02 14:11 UTC]** Quaest: 65% dizem que investigação sobre Lulinha prejudica Lula; 64%, que caso Dark Horse prejudica Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-investigacoes-lulinha-dark-horse.ghtml)_
+
