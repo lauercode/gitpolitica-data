@@ -38,3 +38,6 @@
 - **[2026-09-02 13:05 UTC]** Relatório da PF revela possível interferência de Gonet em eleição de conselho de procuradores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/relatorio-da-pf-revela-possivel-interferencia-de-gonet-em-eleicao-de-conselho-de-procuradores.shtml)_
 
+- **[2026-09-02 11:53 UTC]** Conselho de publicidade abre processo contra influenciadores que promoveram canetas paraguaias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/conselho-de-publicidade-abre-processo-contra-influenciadores-que-promoveram-canetas-paraguaias.shtml)_
+
