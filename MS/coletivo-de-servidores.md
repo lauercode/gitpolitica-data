@@ -68,3 +68,6 @@
 - **[2026-09-01 15:13 UTC]** Bolsa Família não deve ter aumento, e reajuste de servidores será limitado em 2027; entenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bolsa-familia-nao-deve-ter-aumento-e-reajuste-de-servidores-sera-limitado-em-2027-entenda.shtml)_
 
+- **[2026-09-02 00:02 UTC]** Comissão aprova proposta que permite incorporação de servidores de ex-territórios à União
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301778-comissao-aprova-proposta-que-permite-incorporacao-de-servidores-de-ex-territorios-a-uniao)_
+
