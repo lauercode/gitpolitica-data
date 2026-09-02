@@ -92,3 +92,6 @@
 - **[2026-09-01 23:00 UTC]** Atrizes pornô, bebês 'reborn' e mulheres nuas no esgoto marcam a Bienal de Veneza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/atrizes-porno-bebes-reborn-e-mulheres-nuas-no-esgoto-marcam-a-bienal-de-veneza.shtml)_
 
+- **[2026-09-01 21:31 UTC]** Câmara aprova acordo pela igualdade de trabalhadores homens e mulheres com responsabilidade familiar
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301846-camara-aprova-acordo-pela-igualdade-de-trabalhadores-homens-e-mulheres-com-responsabilidade-familiar)_
+
