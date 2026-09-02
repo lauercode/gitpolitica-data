@@ -353,3 +353,6 @@ Diretor
 - **[2026-09-01 21:31 UTC]** Câmara aprova acordo pela igualdade de trabalhadores homens e mulheres com responsabilidade familiar
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301846-camara-aprova-acordo-pela-igualdade-de-trabalhadores-homens-e-mulheres-com-responsabilidade-familiar)_
 
+- **[2026-09-01 23:37 UTC]** Câmara aprova Plano Nacional de Cultura, que prevê financiamento descentralizado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/camara-aprova-plano-nacional-de-cultura-que-preve-financiamento-descentralizado.shtml)_
+
