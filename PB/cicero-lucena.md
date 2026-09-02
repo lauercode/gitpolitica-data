@@ -14,3 +14,6 @@
 - **[2026-08-26 20:48 UTC]** Cícero Lucena visita instituto de acolhimento de pessoas com TEA e fala em interiorizar serviços na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/cicero-lucena-visita-instituto-acolhimento-pessoas-tea-interiorizar-servicos-na-pb.ghtml)_
 
+- **[2026-09-02 13:47 UTC]** Julgamento sobre candidatura de Cícero Lucena é suspenso no TRE-PB, após pedido de vista
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/julgamento-sobre-candidatura-de-cicero-lucena-e-suspenso-no-tre-pb.ghtml)_
+
