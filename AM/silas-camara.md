@@ -435,3 +435,7 @@ Diretor
 - **[2026-09-02 20:11 UTC]** Câmara aprova criação de universidade federal em Oiapoque (AP)
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302294-camara-aprova-criacao-de-universidade-federal-em-oiapoque-ap)_
 
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
