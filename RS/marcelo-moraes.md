@@ -451,3 +451,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 11:24 UTC]** O que é o rastro digital que levou a PF ao ministro Alexandre de Moraes
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjrxy59rnpro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 16:30 UTC]** STF faz hoje a primeira sessão após revelação de mensagens de Vorcaro para Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml)_
+
