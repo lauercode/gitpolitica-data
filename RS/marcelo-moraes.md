@@ -327,3 +327,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 23:25 UTC]** Moraes no caso Master: o que mostram as mensagens atribuídas ao ministro do STF e Daniel Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-01 21:15 UTC]** PGR pede que STF anule investigação de conversa entre Vorcaro e Moraes
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/pgr-pede-que-stf-anule-investigacao-de-conversa-entre-vorcaro-e-moraes)_
+
