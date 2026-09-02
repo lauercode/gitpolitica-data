@@ -140,3 +140,6 @@
 - **[2026-09-02 11:59 UTC]** Jovem morta com 21 facadas após deixar escola é sepultada em Água Doce do Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/jovem-morta-a-facadas-apos-deixar-escola-e-sepultada-em-agua-doce-do-maranhao.ghtml)_
 
+- **[2026-09-01 16:01 UTC]** Jovem morre após ser esfaqueada em Água Doce do Maranhão; adolescente suspeito do crime foi apreendido
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/jovem-morre-apos-ser-esfaqueada-em-agua-doce-do-maranhao-adolescente-supeito-do-crime-foi-apreendido.ghtml)_
+
