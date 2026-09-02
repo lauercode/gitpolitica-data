@@ -20,3 +20,6 @@
 - **[2026-09-01 14:08 UTC]** Previsão do tempo para o Paraná: após tempestades e formação de ciclone, destaque será o frio e a possibilidade de geadas
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/previsao-do-tempo-para-o-parana-apos-tempestades-e-formacao-de-ciclone-destaque-sera-o-frio-e-a-possibilidade-de-geadas.ghtml)_
 
+- **[2026-09-02 09:17 UTC]** Rota Cultural Caminhos do Frio 2026 chega ao fim com programação em Alagoa Nova a partir desta quarta (2)
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/rota-cultural-caminhos-do-frio-2026-chega-ao-fim-com-programacao-em-alagoa-nova-a-partir-desta-quarta-2.ghtml)_
+
