@@ -53,3 +53,6 @@
 - **[2026-09-02 06:00 UTC]** Suplente de Pacheco no Senado apoiou Bolsonaro em 2018
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/suplente-de-pacheco-no-senado-apoiou-bolsonaro-em-2018.shtml)_
 
+- **[2026-09-02 15:18 UTC]** Câmara aprova indicação do senador Rodrigo Pacheco para ministro do TCU
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302159-camara-aprova-indicacao-do-senador-rodrigo-pacheco-para-ministro-do-tcu)_
+
