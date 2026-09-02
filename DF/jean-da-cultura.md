@@ -26,3 +26,6 @@
 - **[2018-04-06 07:38 UTC]** Festival de cultura japonesa acontece neste final de semana no Memorial da América Latina
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-cultura-japonesa-acontece-neste-final-de-semana-no-memorial-da-america-latina.html)_
 
+- **[2026-09-02 01:06 UTC]** Câmara aprova criação do novo Plano Nacional de Cultura
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301964-camara-aprova-criacao-do-novo-plano-nacional-de-cultura)_
+
