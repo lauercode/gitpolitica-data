@@ -56,3 +56,6 @@
 - **[2026-09-02 11:16 UTC]** Produtora de 'Dark Horse' diz que informou à Justiça todos os repasses para filme
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/produtora-de-dark-horse-diz-que-informou-a-justica-sobre-repasse-extra-de-vorcaro.shtml)_
 
+- **[2026-09-02 21:02 UTC]** 'Crise Master' no STF superou casos 'Dark Horse' e Lulinha em postagens nas redes sociais, aponta levantamento
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/crise-master-no-stf-superou-casos-dark-horse-e-lulinha-em-postagens-nas-redes-sociais-aponta-levantamento.ghtml)_
+
