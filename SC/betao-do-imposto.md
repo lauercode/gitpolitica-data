@@ -62,3 +62,6 @@
 - **[2026-09-01 18:24 UTC]** Desembargador mantém cobrança de imposto de exportação de petróleo
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/desembargador-mantem-cobranca-de-imposto-de-exportacao-de-petroleo)_
 
+- **[2026-09-02 06:00 UTC]** Famílias poderão concluir inventário em cartório sem pagar imposto sobre herança, diz CNJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/familias-poderao-concluir-inventario-em-cartorio-sem-pagar-imposto-sobre-heranca-diz-cnj.shtml)_
+
