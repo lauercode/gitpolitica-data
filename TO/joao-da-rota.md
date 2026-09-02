@@ -14,3 +14,6 @@
 - **[2026-08-31 23:00 UTC]** Dívida a 82,5% do PIB acende sinal de alerta para correção de rota após as eleições, dizem economistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/divida-a-825-do-pib-acende-sinal-de-alerta-para-correcao-de-rota-apos-as-eleicoes-dizem-economistas.shtml)_
 
+- **[2026-09-02 01:43 UTC]** Câmara aprova criação de rota turística da fé em Cidade Ocidental (GO)
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302015-camara-aprova-criacao-de-rota-turistica-da-fe-em-cidade-ocidental-go)_
+
