@@ -14,3 +14,6 @@
 - **[2026-09-01 18:44 UTC]** Justiça proíbe que candidato a deputado use foto de Jair Bolsonaro em propaganda eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/09/01/justica-candidato-deputado-foto-jair-bolsonaro-propaganda-eleitoral.ghtml)_
 
+- **[2026-09-01 23:44 UTC]** TSE rejeita multa a Flávio por vídeo de Jair Bolsonaro por IA em convenção do PL
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/tse-tem-maioria-de-votos-para-livrar-flavio-de-multa-por-video-de-bolsonaro-por-ia.ghtml)_
+
