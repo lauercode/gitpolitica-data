@@ -290,3 +290,6 @@
 - **[2026-09-02 10:53 UTC]** O ataque na Times Square que matou a vice-presidente do Bank of America
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cdj4yz1x1wgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 16:40 UTC]** Fim da 6x1: relator lê parecer; presidente da CCJ concede vista de uma hora após pedido da oposição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-relator-le-parecer-presidente-da-ccj-concede-vista-de-uma-hora-apos-pedido-da-oposicao.ghtml)_
+
