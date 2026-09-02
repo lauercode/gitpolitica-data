@@ -20,3 +20,6 @@
 - **[2026-09-01 12:24 UTC]** Tempestades deixam 180 mil imóveis sem luz no Paraná; 84 mil permanecem sem energia nesta terça (1º)
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/tempestades-deixam-imoveis-sem-luz-sem-energia-no-parana.ghtml)_
 
+- **[2026-09-01 12:24 UTC]** Tempestades deixam 180 mil imóveis sem luz no Paraná; 7,5 mil permanecem sem energia há dois dias
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/tempestades-deixam-imoveis-sem-luz-sem-energia-no-parana.ghtml)_
+
