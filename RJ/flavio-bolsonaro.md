@@ -581,3 +581,6 @@
 - **[2026-09-01 18:05 UTC]** Mendonça atropela rito para beneficiar Flávio Bolsonaro e abrir porta do inferno ao STF, dizem ministros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mendonca-atropela-rito-para-beneficiar-flavio-bolsonaro-e-abrir-inferno-ao-stf-dizem-ministros.shtml)_
 
+- **[2026-09-01 21:16 UTC]** TSE rejeita ação para derrubar imagem de Bolsonaro feita por IA
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-rejeita-acao-para-derrubar-imagem-de-bolsonaro-feita-por-ia)_
+
