@@ -143,3 +143,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 plenário do STF analise mensagens entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-02 14:01 UTC]** Fachin reconhece crise de mensagens entre Moraes e Vorcaro e diz que tomará providências
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-reconhece-crise-mensagens-moraes-vorcaro-tomara-providencias/)_
+
