@@ -146,3 +146,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 14:01 UTC]** Fachin reconhece crise de mensagens entre Moraes e Vorcaro e diz que tomará providências
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-reconhece-crise-mensagens-moraes-vorcaro-tomara-providencias/)_
 
+- **[2026-09-02 03:07 UTC]** A “trilha do print”: como a PF reconstruiu o envio de mensagens secretas entre Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-pf-reconstruiu-o-envio-de-mensagens-secretas-entre-vorcaro-e-moraes/)_
+
