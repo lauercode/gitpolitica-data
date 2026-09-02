@@ -494,3 +494,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 12:48 UTC]** 'Qualquer outra pessoa estaria presa', diz Capitão Alberto Neto sobre Moraes em sabatina
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/qualquer-outra-pessoa-estaria-presa-diz-capitao-alberto-neto-sobre-moraes-em-sabatina.ghtml)_
 
+- **[2026-09-02 17:37 UTC]** STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml)_
+
