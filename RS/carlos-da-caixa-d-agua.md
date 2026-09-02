@@ -137,3 +137,6 @@
 - **[2026-09-01 18:56 UTC]** Sabesp mantém redução noturna da pressão da água em 8 horas em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sabesp-mantem-reducao-noturna-da-pressao-da-agua-em-8-horas-em-sao-paulo.shtml)_
 
+- **[2026-09-02 11:59 UTC]** Jovem morta com 21 facadas após deixar escola é sepultada em Água Doce do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/jovem-morta-a-facadas-apos-deixar-escola-e-sepultada-em-agua-doce-do-maranhao.ghtml)_
+
