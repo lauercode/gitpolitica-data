@@ -146,3 +146,6 @@
 - **[2026-09-02 13:20 UTC]** Comerciantes montam tendas na rua para manter vendas após incêndio no Centro de Passagem, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/comerciantes-montam-tendas-na-rua-para-manter-vendas-apos-incendio-no-centro-de-passagem-em-joao-pessoa.ghtml)_
 
+- **[2026-09-02 18:00 UTC]** Tucanos se aproximam de Cury e o veem como alternativa de centro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tucanos-se-aproximam-de-cury-e-o-veem-como-alternativa-de-centro.shtml)_
+
