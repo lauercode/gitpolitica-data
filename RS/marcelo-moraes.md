@@ -433,3 +433,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 plenário do STF analise mensagens entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-01 17:54 UTC]** Sócio de Vorcaro afirma que Moraes e esposa Viviane usaram avião e helicóptero da empresa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/socio-de-vorcaro-afirma-que-moraes-e-esposa-usaram-aviao-e-helicoptero-da-empresa.ghtml)_
+
