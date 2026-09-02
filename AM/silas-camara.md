@@ -338,3 +338,6 @@ Diretor
 - **[2026-09-01 23:56 UTC]** Câmara aprova criação de 24 cargos de juiz do Trabalho no Rio de Janeiro
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301949-camara-aprova-criacao-de-24-cargos-de-juiz-do-trabalho-no-rio-de-janeiro)_
 
+- **[2026-09-01 22:58 UTC]** Câmara aprova novas regras para contagem do tempo de serviço por PMs e bombeiros
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301898-camara-aprova-novas-regras-para-contagem-do-tempo-de-servico-por-pms-e-bombeiros)_
+
