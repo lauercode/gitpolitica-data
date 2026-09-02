@@ -50,3 +50,6 @@
 - **[2026-09-02 14:11 UTC]** Quaest: 65% dizem que investigação sobre Lulinha prejudica Lula; 64%, que caso Dark Horse prejudica Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-investigacoes-lulinha-dark-horse.ghtml)_
 
+- **[2026-09-02 12:42 UTC]** Tarcísio defende fim de sigilo de 'Dark Horse' e diz que crise no STF pode arranhar Estado de Direito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-defende-fim-de-sigilo-de-dark-horse-e-diz-que-crise-no-stf-pode-arranhar-estado-de-direito.shtml)_
+
