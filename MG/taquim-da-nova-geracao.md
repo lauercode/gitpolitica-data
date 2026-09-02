@@ -41,3 +41,6 @@
 - **[2026-09-01 19:21 UTC]** Democracia disfuncional e geração distribuída
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/jerson-kelman/2026/09/democracia-disfuncional-e-geracao-distribuida.shtml)_
 
+- **[2026-09-02 19:08 UTC]** Lucas Ribeiro defende expansão de áreas industriais e geração de empregos na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/lucas-ribeiro-defende-expansao-de-areas-industriais-e-geracao-de-empregos-na-paraiba.ghtml)_
+
