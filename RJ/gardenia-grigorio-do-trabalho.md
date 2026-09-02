@@ -158,3 +158,6 @@
 - **[2026-09-01 21:52 UTC]** Câmara aprova adesão do Brasil a acordo para eliminar violência e assédio no trabalho
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301874-camara-aprova-adesao-do-brasil-a-acordo-para-eliminar-violencia-e-assedio-no-trabalho)_
 
+- **[2026-09-02 03:01 UTC]** 6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho
+  _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/entenda-como-funcionam-as-escalas-de-trabalho.ghtml)_
+
