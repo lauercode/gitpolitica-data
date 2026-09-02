@@ -719,3 +719,6 @@
 - **[2026-09-01 22:34 UTC]** Flávio e Caiado pedem saída de Moraes, Zema defende prisão e Cury propõe mandato no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-saida-de-moraes-zema-defende-prisao-e-cury-propoe-mandato-no-stf/)_
 
+- **[2026-09-01 23:44 UTC]** TSE rejeita multa a Flávio por vídeo de Jair Bolsonaro por IA em convenção do PL
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/tse-tem-maioria-de-votos-para-livrar-flavio-de-multa-por-video-de-bolsonaro-por-ia.ghtml)_
+
