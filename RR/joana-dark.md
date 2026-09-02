@@ -47,3 +47,6 @@
 - **[2026-09-01 23:00 UTC]** Campanha de Lula quer usar diálogo entre Moraes e Vorcaro para pedir fim de sigilo no caso 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-quer-usar-dialogo-entre-moraes-e-vorcaro-para-pedir-fim-de-sigilo-no-caso-dark-horse.shtml)_
 
+- **[2026-09-02 14:11 UTC]** Quaest: 65% dizem que investigação sobre Lulinha prejudica Lula; 64%, que caso Dark Horse prejudica Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-investigacoes-lulinha-dark-horse.ghtml)_
+
