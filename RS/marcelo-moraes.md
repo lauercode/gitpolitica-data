@@ -373,3 +373,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 01:55 UTC]** Aliado de Trump publica montagem de Moraes com Banco Master e diz que ministro “está com sérios problemas”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/aliado-de-trump-publica-montagem-de-moraes-com-banco-master-e-diz-que-ministro-esta-com-serios-problemas/)_
 
+- **[2026-09-02 01:50 UTC]** Oposição pede prisão de Moraes e afastamento do diretor-geral da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-pede-prisao-de-moraes-e-afastamento-do-diretor-geral-da-pf/)_
+
