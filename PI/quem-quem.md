@@ -203,3 +203,6 @@
 - **[2026-09-02 16:47 UTC]** Equipe de 'Quem Ama Cuida' reclama de horário tardio após queixas de telespectadores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/equipe-de-quem-ama-cuida-reclama-de-horario-tardio-apos-queixas-de-telespectadores.shtml)_
 
+- **[2026-09-02 20:46 UTC]** Quem faz a curadoria das suas compras? A escolha certa vale mais do que muitas opções
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/09/02/quem-faz-a-curadoria-das-suas-compras-a-escolha-certa-vale-mais-do-que-muitas-opcoes.ghtml)_
+
