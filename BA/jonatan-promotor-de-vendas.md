@@ -20,3 +20,6 @@
 - **[2018-07-12 12:03 UTC]** Vendas de roupas e acessórios para animais crescem com a chegada do inverno
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/vendas-de-roupas-e-acessorios-para-animais-crescem-com-a-chegada-do-inverno.ghtml)_
 
+- **[2026-09-02 13:20 UTC]** Comerciantes montam tendas na rua para manter vendas após incêndio no Centro de Passagem, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/comerciantes-montam-tendas-na-rua-para-manter-vendas-apos-incendio-no-centro-de-passagem-em-joao-pessoa.ghtml)_
+
