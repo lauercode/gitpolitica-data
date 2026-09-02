@@ -379,3 +379,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 01:31 UTC]** Polícia Federal aponta indícios de encontro entre Alexandre de Moraes e Daniel Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-aponta-indicios-de-encontro-entre-alexandre-de-moraes-e-daniel-vorcaro/)_
 
+- **[2026-09-02 00:53 UTC]** 19 mensagens que mostram carinho de Vorcaro com Moraes e Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/gratidao-da-minha-vida-mensagens-mostram-carinho-de-vorcaro-com-moraes-e-gonet/)_
+
