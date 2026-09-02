@@ -2542,6 +2542,17 @@
     "camara_id": 204539
   },
   {
+    "slug": "hildo-rocha",
+    "name": "Hildo Rocha",
+    "role": "Deputado(a) Federal (MA)",
+    "party": "MDB",
+    "aliases": [
+      "Hildo Rocha",
+      "Rocha"
+    ],
+    "camara_id": 178884
+  },
+  {
     "slug": "hugo-leal",
     "name": "Hugo Leal",
     "role": "Deputado(a) Federal (RJ)",
@@ -4892,17 +4903,6 @@
       "Reis"
     ],
     "camara_id": 220620
-  },
-  {
-    "slug": "roseana-sarney",
-    "name": "Roseana Sarney",
-    "role": "Deputado(a) Federal (MA)",
-    "party": "MDB",
-    "aliases": [
-      "Roseana Sarney",
-      "Sarney"
-    ],
-    "camara_id": 73806
   },
   {
     "slug": "rubens-otoni",
