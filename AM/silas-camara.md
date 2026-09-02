@@ -350,3 +350,6 @@ Diretor
 - **[2026-09-01 21:40 UTC]** Câmara vai analisar indicação de Rodrigo Pacheco ao TCU nesta quarta
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301859-camara-vai-analisar-indicacao-de-rodrigo-pacheco-ao-tcu-nesta-quarta)_
 
+- **[2026-09-01 21:31 UTC]** Câmara aprova acordo pela igualdade de trabalhadores homens e mulheres com responsabilidade familiar
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301846-camara-aprova-acordo-pela-igualdade-de-trabalhadores-homens-e-mulheres-com-responsabilidade-familiar)_
+
