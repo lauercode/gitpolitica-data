@@ -77,3 +77,6 @@
 - **[2026-09-02 12:30 UTC]** Com novo olhar sobre o gênero serial killer, 'Fúria' é a melhor série do ano (até agora)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/thiagostivaletti/2026/09/com-novo-olhar-sobre-o-genero-serial-killer-furia-e-a-melhor-serie-do-ano-ate-agora.shtml)_
 
+- **[2026-09-02 18:14 UTC]** Escala 6x1: o que acontece agora? O que muda para empresas e trabalhadores? Entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/escala-6x1-o-que-acontece-agora-o-que-muda-entenda.ghtml)_
+
