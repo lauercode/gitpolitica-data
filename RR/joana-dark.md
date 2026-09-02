@@ -53,3 +53,6 @@
 - **[2026-09-02 12:42 UTC]** Tarcísio defende fim de sigilo de 'Dark Horse' e diz que crise no STF pode arranhar Estado de Direito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-defende-fim-de-sigilo-de-dark-horse-e-diz-que-crise-no-stf-pode-arranhar-estado-de-direito.shtml)_
 
+- **[2026-09-02 11:16 UTC]** Produtora de 'Dark Horse' diz que informou à Justiça todos os repasses para filme
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/produtora-de-dark-horse-diz-que-informou-a-justica-sobre-repasse-extra-de-vorcaro.shtml)_
+
