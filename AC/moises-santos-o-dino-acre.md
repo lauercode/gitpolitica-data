@@ -233,3 +233,6 @@
 - **[2026-09-02 10:00 UTC]** Acre tem alta de mais de 760% nos focos de queimadas em agosto, aponta Inpe
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/acre-tem-alta-de-mais-de-760percent-nos-focos-de-queimadas-em-agosto-aponta-inpe.ghtml)_
 
+- **[2026-09-02 16:30 UTC]** CNH Social: Mulheres vítimas de violência doméstica são convocadas para matrícula no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/cnh-social-mulheres-vitimas-de-violencia-domestica-sao-convocadas-para-matricula-no-acre.ghtml)_
+
