@@ -146,3 +146,6 @@
 - **[2026-09-02 12:21 UTC]** Anvisa interdita água mineral da marca Vitoriosa por conter coliformes
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-interdita-agua-mineral-da-marca-vitoriosa-por-conter-coliformes)_
 
+- **[2026-09-02 11:59 UTC]** Jovem morta com 21 facadas é sepultada em Água Doce do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/jovem-morta-a-facadas-apos-deixar-escola-e-sepultada-em-agua-doce-do-maranhao.ghtml)_
+
