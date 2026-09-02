@@ -17,3 +17,6 @@
 - **[2026-09-01 02:05 UTC]** Eleições 2026: David Almeida participa de caminhada e promete recuperar rodovias e ramais no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-david-almeida-participa-de-caminhada-e-promete-recuperar-rodovias-e-ramais-no-amazonas.ghtml)_
 
+- **[2026-09-02 02:22 UTC]** Eleições 2026: David Almeida visita feirantes em Manaus e diz que vai aumentar vagas em escolas de tempo integral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-david-almeida-visita-feirantes-em-manaus-e-diz-que-vai-aumentar-vagas-em-escolas-de-tempo-integral.ghtml)_
+
