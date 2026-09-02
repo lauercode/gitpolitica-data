@@ -47,3 +47,6 @@
 - **[2026-09-01 20:45 UTC]** Senado aprova nome de Rodrigo Pacheco para ministro do TCU
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/senado-aprova-nome-de-rodrigo-pacheco-para-ministro-do-tcu)_
 
+- **[2026-09-01 21:40 UTC]** Câmara vai analisar indicação de Rodrigo Pacheco ao TCU nesta quarta
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301859-camara-vai-analisar-indicacao-de-rodrigo-pacheco-ao-tcu-nesta-quarta)_
+
