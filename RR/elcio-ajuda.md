@@ -50,3 +50,6 @@
 - **[2026-09-02 12:22 UTC]** Linha “Mais mobilidade” ajuda motorista a ampliar atuação na estrada
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/02/linha-mais-mobilidade-ajuda-motorista-a-ampliar-atuacao-na-estrada.ghtml)_
 
+- **[2026-09-02 18:54 UTC]** Brasileiro investigado diz que teve ajuda de consulado para fugir dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/brasileiro-investigado-diz-que-teve-ajuda-de-consulado-para-fugir-dos-eua.shtml)_
+
