@@ -50,3 +50,6 @@
 - **[2026-09-01 21:40 UTC]** Câmara vai analisar indicação de Rodrigo Pacheco ao TCU nesta quarta
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301859-camara-vai-analisar-indicacao-de-rodrigo-pacheco-ao-tcu-nesta-quarta)_
 
+- **[2026-09-02 06:00 UTC]** Suplente de Pacheco no Senado apoiou Bolsonaro em 2018
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/suplente-de-pacheco-no-senado-apoiou-bolsonaro-em-2018.shtml)_
+
