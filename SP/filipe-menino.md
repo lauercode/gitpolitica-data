@@ -50,3 +50,6 @@
 - **[2026-09-02 19:32 UTC]** Menino de bicicleta elétrica fica ferido após ser atingido por moto em Rorainópolis
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/02/menino-de-bicicleta-eletrica-fica-ferido-apos-ser-atingido-por-moto-em-rorainopolis.ghtml)_
 
+- **[2026-09-02 20:54 UTC]** DNA liga tio-avô a abuso de menino de 6 anos morto em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/dna-liga-tio-avo-a-abuso-de-menino-de-6-anos-morto-em-maceio.ghtml)_
+
