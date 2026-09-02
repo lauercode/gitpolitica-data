@@ -113,3 +113,6 @@
 - **[2026-09-01 21:03 UTC]** Alcolumbre diz que quantidade de pedidos de impeachment do STF não é normal e não responde sobre Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-diz-que-quantidade-de-pedidos-de-impeachment-do-stf-nao-e-normal-e-nao-responde-sobre-moraes.shtml)_
 
+- **[2026-09-02 01:59 UTC]** Alcolumbre sinaliza que não pautará impeachment de Moraes e cita 109 pedidos contra STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-sinaliza-que-nao-pautara-impeachment-de-moraes-109-pedidos-contra-stf/)_
+
