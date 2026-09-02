@@ -26,3 +26,6 @@
 - **[2026-09-01 18:30 UTC]** Vorcaro teria bancado viagem de filho do procurador-geral da República a Londres
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-teria-bancado-viagem-filho-procurador-geral-republica-londres/)_
 
+- **[2026-09-02 01:50 UTC]** Oposição pede prisão de Moraes e afastamento do diretor-geral da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-pede-prisao-de-moraes-e-afastamento-do-diretor-geral-da-pf/)_
+
