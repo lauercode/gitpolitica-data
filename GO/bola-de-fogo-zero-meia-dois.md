@@ -212,3 +212,6 @@
 - **[2026-09-02 18:54 UTC]** Homem é preso por suspeita de tentar matar dois irmãos durante festa em Tuntum
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/homem-e-preso-por-suspeita-de-tentar-matar-dois-irmaos-durante-festa-em-tuntum.ghtml)_
 
+- **[2026-09-02 17:53 UTC]** Passageira é presa com dois fuzis dentro de ônibus na BR-316
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/passageira-e-presa-com-dois-fuzis-dentro-de-onibus-na-br-316.ghtml)_
+
