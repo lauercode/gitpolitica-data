@@ -29,3 +29,6 @@
 - **[2026-09-01 22:01 UTC]** Câmara aprova projeto que reduz tempo de trabalho militar de PMs e bombeiros para aposentadoria
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-aprova-projeto-que-reduz-tempo-de-trabalho-militar-de-pms-e-bombeiros-para-aposentadoria.shtml)_
 
+- **[2026-09-02 00:04 UTC]** Comissão aprova aumento de limite anual para admissão de bombeiros no DF
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301785-comissao-aprova-aumento-de-limite-anual-para-admissao-de-bombeiros-no-df)_
+
