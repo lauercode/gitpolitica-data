@@ -71,3 +71,6 @@
 - **[2026-09-02 00:02 UTC]** Comissão aprova proposta que permite incorporação de servidores de ex-territórios à União
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301778-comissao-aprova-proposta-que-permite-incorporacao-de-servidores-de-ex-territorios-a-uniao)_
 
+- **[2026-09-01 23:59 UTC]** Comissão mista aprova aumento da indenização paga a servidores de fronteira
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301901-comissao-mista-aprova-aumento-da-indenizacao-paga-a-servidores-de-fronteira)_
+
