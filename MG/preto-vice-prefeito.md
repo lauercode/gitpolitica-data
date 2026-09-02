@@ -50,3 +50,6 @@
 - **[2026-09-01 20:39 UTC]** TJPA suspende cassação e prefeito reassume cargo em Anapu, no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/01/tjpa-suspende-cassacao-e-prefeito-reassume-cargo-em-anapu-no-para.ghtml)_
 
+- **[2026-09-02 14:05 UTC]** Polícia Civil investiga assalto à casa de prefeito de Boqueirão, na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/policia-civil-investiga-assalto-a-casa-de-prefeito-de-boqueirao-na-paraiba.ghtml)_
+
