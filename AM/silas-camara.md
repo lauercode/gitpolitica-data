@@ -432,3 +432,6 @@ Diretor
 - **[2026-09-02 20:48 UTC]** Câmara aprova criação de universidades federais de Ciência e Inovação em Minas e no Rio
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302313-camara-aprova-criacao-de-universidades-federais-de-ciencia-e-inovacao-em-minas-e-no-rio)_
 
+- **[2026-09-02 20:11 UTC]** Câmara aprova criação de universidade federal em Oiapoque (AP)
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302294-camara-aprova-criacao-de-universidade-federal-em-oiapoque-ap)_
+
