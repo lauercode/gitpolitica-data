@@ -209,3 +209,6 @@
 - **[2026-09-01 12:24 UTC]** Tempestades deixam 180 mil imóveis sem luz no Paraná; 7,5 mil permanecem sem energia há dois dias
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/tempestades-deixam-imoveis-sem-luz-sem-energia-no-parana.ghtml)_
 
+- **[2026-09-02 18:54 UTC]** Homem é preso por suspeita de tentar matar dois irmãos durante festa em Tuntum
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/homem-e-preso-por-suspeita-de-tentar-matar-dois-irmaos-durante-festa-em-tuntum.ghtml)_
+
