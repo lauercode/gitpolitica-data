@@ -149,3 +149,6 @@
 - **[2026-09-01 22:29 UTC]** Clécio Luís visita projeto em Macapá e participa de caminhada em Santana
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/01/clecio-luis-visita-projeto-em-macapa-e-participa-de-caminhada-em-santana.ghtml)_
 
+- **[2026-09-01 21:48 UTC]** Senado aprova projeto que cria incentivos para data centers no Brasil
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-aprova-projeto-que-cria-incentivos-para-data-centers-no-brasil)_
+
