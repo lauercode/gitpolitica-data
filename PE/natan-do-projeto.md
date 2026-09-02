@@ -167,3 +167,6 @@
 - **[2026-09-02 16:28 UTC]** Projeto proíbe agente público de receber cortesias de empresas
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300353-projeto-proibe-agente-publico-de-receber-cortesias-de-empresas)_
 
+- **[2026-09-02 16:01 UTC]** Projeto prevê descontos em tarifas para quem fizer coleta seletiva
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301684-projeto-preve-descontos-em-tarifas-para-quem-fizer-coleta-seletiva)_
+
