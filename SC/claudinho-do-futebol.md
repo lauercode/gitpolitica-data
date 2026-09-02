@@ -41,3 +41,6 @@
 - **[2026-09-02 15:01 UTC]** SBT e Disney marcam estreia do novo The Voice, que vai competir contra futebol na Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-e-disney-marcam-estreia-do-novo-the-voice-que-vai-competir-contra-futebol-na-globo.shtml)_
 
+- **[2026-09-02 16:44 UTC]** Veto a propaganda de bets avança no Senado e mira TV, futebol e influenciadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/veto-a-propaganda-de-bets-avanca-no-senado-e-mira-tv-futebol-e-influenciadores.shtml)_
+
