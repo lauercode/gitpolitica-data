@@ -191,3 +191,6 @@
 - **[2026-09-02 10:58 UTC]** Quais crimes podem ser investigados e quem pode processar e julgar um ministro do STF? Entenda
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/quais-crimes-podem-ser-investigados-e-quem-pode-processar-e-julgar-um-ministro-do-stf-entenda.ghtml)_
 
+- **[2026-09-02 09:00 UTC]** Donos de flutuantes adotam estratégias e se preparam para seca no AM: 'É o rio quem determina quando precisamos parar'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/donos-de-flutuantes-adotam-estrategias-e-se-preparam-para-seca-no-am-e-o-rio-quem-determina-quando-precisamos-parar.ghtml)_
+
