@@ -29,3 +29,6 @@
 - **[2026-08-24 11:29 UTC]** Caso Briner: operação cumpre mandados para investigar morte de jovem em presídio após ser inocentado
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/caso-briner-operacao-cumpre-mandados-para-investigar-morte-de-jovem-em-presidio-apos-ser-inocentado.ghtml)_
 
+- **[2026-09-02 10:48 UTC]** Motim em presídio da PM termina após policiais presos manterem agentes reféns em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/motim-em-unidade-prisional-da-pm-com-refens-termina-apos-intervencao-do-batalhao-de-choque-em-manaus.ghtml)_
+
