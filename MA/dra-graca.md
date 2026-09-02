@@ -11,3 +11,6 @@
 - **[2026-09-01 19:11 UTC]** Expoema, show de Oswaldo Montenegro e mais: veja o que curtir de graça em São Luís em setembro
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/cultura/noticia/2026/09/01/veja-o-que-curtir-de-graca-em-sao-luis-em-setembro.ghtml)_
 
+- **[2026-09-02 13:09 UTC]** Belém Animal: ação itinerante atende cães e gatos de graça no Jurunas
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/belem-animal-acao-itinerante-atende-caes-e-gatos-de-graca-no-jurunas.ghtml)_
+
