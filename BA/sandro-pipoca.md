@@ -11,3 +11,6 @@
 - **[2026-08-26 17:58 UTC]** Pipoca em Cena volta a Manaus e inicia oficinas de audiovisual com estudantes da rede pública
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/08/26/pipoca-em-cena-volta-a-manaus-e-inicia-oficinas-de-audiovisual-com-estudantes-da-rede-publica.ghtml)_
 
+- **[2026-09-02 13:14 UTC]** Pipoca em Cena: curtas produzidos por estudantes se preparam para chegar às telas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/pipoca-em-cena-curtas-produzidos-por-estudantes-se-preparam-para-chegar-as-telas.ghtml)_
+
