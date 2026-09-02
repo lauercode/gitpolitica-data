@@ -44,3 +44,6 @@
 - **[2026-08-31 22:31 UTC]** Lucas Ribeiro defende criação de novos leitos de UTI pediátrica e materna em Campina Grande
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/31/lucas-ribeiro-defende-criacao-de-novos-leitos-de-uti-pediatrica-e-materna-durante-agenda-em-campina-grande.ghtml)_
 
+- **[2026-09-02 19:08 UTC]** Lucas Ribeiro defende expansão de áreas industriais e geração de empregos na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/lucas-ribeiro-defende-expansao-de-areas-industriais-e-geracao-de-empregos-na-paraiba.ghtml)_
+
