@@ -41,3 +41,6 @@
 - **[2026-09-01 22:08 UTC]** Senado aprova indicação de Rodrigo Pacheco ao TCU
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senado-aprova-indicacao-de-rodrigo-pacheco-ao-tcu/)_
 
+- **[2026-09-01 21:40 UTC]** Senado aprova indicação de Rodrigo Pacheco para o TCU
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-aprova-indicacao-de-rodrigo-pacheco-para-o-tcu)_
+
