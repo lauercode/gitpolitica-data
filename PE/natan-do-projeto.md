@@ -185,3 +185,6 @@
 - **[2026-09-02 20:33 UTC]** Projeto define culpa temerária no Código Penal para punir negligência extrema
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299538-projeto-define-culpa-temeraria-no-codigo-penal-para-punir-negligencia-extrema)_
 
+- **[2026-09-02 21:20 UTC]** Terras raras: Senado aprova projeto com fundo garantidor e crédito de R$ 5 bi para estimular exploração
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/terras-raras-senado-aprova-fundo-garantidor-e-credito-de-r-5-bi-para-estimular-exploracao.ghtml)_
+
