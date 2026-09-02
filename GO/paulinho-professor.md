@@ -77,3 +77,6 @@
 - **[2026-09-02 13:39 UTC]** Professor morre após cair do forro de casa em Colégio Agrícola, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/02/professor-morre-apos-cair-de-forro-de-casa-no-parana.ghtml)_
 
+- **[2026-09-02 18:19 UTC]** Professor é condenado a 7 anos por comparar aluno a chimpanzé em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/professor-e-condenado-a-7-anos-por-comparar-aluno-a-chimpanze-em-maceio.ghtml)_
+
