@@ -641,3 +641,6 @@
 - **[2026-09-02 17:06 UTC]** Flávio Bolsonaro diz considerar 'inadmissível' Alexandre de Moraes seguir como ministro do STF após conversas com Vorcaro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/02/flavio-bolsonaro-pl-presidencia-porto-alegre-rs.ghtml)_
 
+- **[2026-09-02 21:45 UTC]** TSE forma maioria para aprovar registros de candidatura de Lula, Flávio Bolsonaro e Romeu Zema
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml)_
+
