@@ -56,3 +56,6 @@
 - **[2026-09-01 18:08 UTC]** Criminosos invadem sala-cofre e furtam armas de fogo em loja em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/criminosos-invadem-sala-cofre-furtam-armas-fogo-loja-sc.ghtml)_
 
+- **[2026-09-02 17:05 UTC]** VÍDEO: Lábrea fica encoberta por fumaça após incêndio em lixão; morador diz que fogo dura mais de um mês
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/video-labrea-fica-encoberta-por-fumaca-apos-incendio-em-lixao-morador-diz-que-fogo-dura-mais-de-um-mes.ghtml)_
+
