@@ -638,3 +638,6 @@
 - **[2026-09-02 18:47 UTC]** Desgaste de Moraes vira munição para anular condenação de Bolsonaro pelo 8 de janeiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/desgaste-de-moraes-vira-municao-para-anular-condenacao-de-bolsonaro-pelo-8-de-janeiro/)_
 
+- **[2026-09-02 17:06 UTC]** Flávio Bolsonaro diz considerar 'inadmissível' Alexandre de Moraes seguir como ministro do STF após conversas com Vorcaro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/02/flavio-bolsonaro-pl-presidencia-porto-alegre-rs.ghtml)_
+
