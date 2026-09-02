@@ -110,3 +110,6 @@
 - **[2026-09-02 00:25 UTC]** 'Isso não é normal', diz Alcolumbre sobre os 109 pedidos de impeachment contra ministro do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/isso-nao-e-normal-diz-alcolumbre-sobre-os-109-pedidos-de-impeachment-contra-ministro-do-stf.ghtml)_
 
+- **[2026-09-01 21:03 UTC]** Alcolumbre diz que quantidade de pedidos de impeachment do STF não é normal e não responde sobre Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-diz-que-quantidade-de-pedidos-de-impeachment-do-stf-nao-e-normal-e-nao-responde-sobre-moraes.shtml)_
+
