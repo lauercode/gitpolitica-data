@@ -731,3 +731,6 @@
 - **[2026-09-02 00:55 UTC]** TSE rejeita punir Flávio por vídeo de Bolsonaro com IA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-forma-maioria-para-nao-punir-flavio-por-video-de-bolsonaro-com-ia/)_
 
+- **[2026-09-02 07:52 UTC]** Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss)_
+
