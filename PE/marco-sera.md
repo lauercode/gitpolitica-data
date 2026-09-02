@@ -92,3 +92,6 @@
 - **[2026-09-01 12:05 UTC]** Será que o Brasil vai premiar a brasileira expulsa do reality argentino com algum convite?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/09/sera-que-o-brasil-vai-premiar-a-brasileira-expulsa-do-reality-argentino-com-algum-convite.shtml)_
 
+- **[2026-09-02 01:00 UTC]** Planeta vai exceder limite de 1,5°C e tarefa agora será voltar a ele, diz ONU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/planeta-vai-exceder-limite-de-15c-e-tarefa-agora-sera-voltar-a-ele-diz-onu.shtml)_
+
