@@ -426,3 +426,6 @@ Diretor
 - **[2026-09-02 21:39 UTC]** Câmara adia para esta quinta-feira votação de fim da "taxa das blusinhas"
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302353-camara-adia-para-esta-quinta-feira-votacao-de-fim-da-taxa-das-blusinhas)_
 
+- **[2026-09-02 21:34 UTC]** Câmara aprova criação da Política Nacional de Agroecologia e Produção Orgânica
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302312-camara-aprova-criacao-da-politica-nacional-de-agroecologia-e-producao-organica)_
+
