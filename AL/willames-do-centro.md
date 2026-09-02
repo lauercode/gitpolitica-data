@@ -131,3 +131,6 @@
 - **[2026-09-01 13:32 UTC]** Homem morre após ser agredido no Centro de Manaus; polícia investiga caso
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/homem-morre-apos-ser-agredido-no-centro-de-manaus-policia-investiga-caso.ghtml)_
 
+- **[2026-09-01 23:00 UTC]** Três em cada quatro candidatos de centro que mudaram de ideologia vão para a direita, aponta levantamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/tres-em-cada-quatro-candidatos-de-centro-que-mudaram-de-ideologia-vao-para-a-direita-aponta-levantamento.shtml)_
+
