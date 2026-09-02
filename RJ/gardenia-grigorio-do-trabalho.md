@@ -149,3 +149,6 @@
 - **[2026-09-02 01:53 UTC]** Câmara aprova mudança em cargos na Justiça do Trabalho de Goiás
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302021-camara-aprova-mudanca-em-cargos-na-justica-do-trabalho-de-goias)_
 
+- **[2026-09-02 01:14 UTC]** Câmara aprova reajuste anual de custas da Justiça do Trabalho
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301992-camara-aprova-reajuste-anual-de-custas-da-justica-do-trabalho)_
+
