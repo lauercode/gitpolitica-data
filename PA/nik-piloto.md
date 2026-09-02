@@ -38,3 +38,6 @@
 - **[2026-09-01 22:12 UTC]** Rubens Barrichello: relembre a trajetória pessoal e profissional do piloto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rubens-barrichello-relembre-a-trajetoria-pessoal-e-profissional-do-piloto.shtml)_
 
+- **[2026-09-02 06:00 UTC]** Piloto que caiu com asa-delta segue internado 10 dias após o acidente
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/piloto-que-caiu-com-asa-delta-segue-internado-10-dias-apos-o-acidente.ghtml)_
+
