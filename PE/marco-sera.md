@@ -98,3 +98,6 @@
 - **[2026-09-02 11:41 UTC]** Time Out Market brasileiro será no Conjunto Nacional com cerca de 20 restaurantes e bares
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/09/time-out-market-brasileiro-sera-no-conjunto-nacional-com-cerca-de-20-restaurantes-e-bares.shtml)_
 
+- **[2026-09-02 16:18 UTC]** Rodrigo Pacheco, ex-presidente do Senado, será ministro do TCU
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-ex-presidente-do-senado-sera-ministro-do-tcu)_
+
