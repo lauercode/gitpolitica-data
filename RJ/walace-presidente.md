@@ -293,3 +293,6 @@
 - **[2026-09-02 16:40 UTC]** Fim da 6x1: relator lê parecer; presidente da CCJ concede vista de uma hora após pedido da oposição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/fim-da-6x1-relator-le-parecer-presidente-da-ccj-concede-vista-de-uma-hora-apos-pedido-da-oposicao.ghtml)_
 
+- **[2026-09-02 14:38 UTC]** Propostas dos candidatos definem voto para presidente de 45% dos eleitores, diz Quaest
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-propostas-candidatos-voto-presidente-2-setembro.ghtml)_
+
