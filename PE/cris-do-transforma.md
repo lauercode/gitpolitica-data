@@ -23,3 +23,6 @@
 - **[2026-09-01 20:26 UTC]** Da lavoura à pecuária, cooperado CrediSIS transforma desafios em conquistas
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/credisis/credisis-nos-somos-cooperativa/noticia/2026/09/01/da-lavoura-a-pecuaria-cooperado-credisis-transforma-desafios-em-conquistas.ghtml)_
 
+- **[2026-09-02 21:47 UTC]** Dia C reúne parceiros e transforma cooperação em serviços para a comunidade
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/cooperativa-educacional-de-vilhena-favoo-divulga-novidades-e-programacao-de-2026/noticia/2026/09/02/dia-c-reune-parceiros-e-transforma-cooperacao-em-servicos-para-a-comunidade.ghtml)_
+
