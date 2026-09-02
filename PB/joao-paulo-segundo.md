@@ -170,3 +170,6 @@
 - **[2026-09-02 11:52 UTC]** INFOGRÁFICO: veja mensagens que Vorcaro mandou a número atribuído a Moraes antes de ser preso, segundo PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/infografico-mensagens-vorcaro-moraes-segundo-pf.ghtml)_
 
+- **[2026-09-02 15:56 UTC]** Alemanha registra segundo ato de sabotagem em semana de eleições decisivas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/alemanha-registra-segundo-ato-de-sabotagem-em-semana-de-eleicoes-decisivas.shtml)_
+
