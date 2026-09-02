@@ -519,3 +519,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 17:29 UTC]** Senadores ampliam pressão por impeachment de Moraes após relatório da PF sobre Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senadores-ampliam-pressao-por-impeachment-de-moraes-apos-relatorio-da-pf-sobre-vorcaro/)_
 
+- **[2026-09-02 16:37 UTC]** STF deve blindar Moraes de investigação, diz especialista: 'Não vi ministros do Supremo perderem nada em qualquer cenário'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c7708nnn3g3o?at_medium=RSS&at_campaign=rss)_
+
