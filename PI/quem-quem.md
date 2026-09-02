@@ -200,3 +200,6 @@
 - **[2026-09-02 11:51 UTC]** Quem são os quatro filhos de Gracindo Júnior; três seguiram carreira na TV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/quem-sao-os-quatro-filhos-de-gracindo-junior-tres-seguiram-carreira-na-tv.shtml)_
 
+- **[2026-09-02 16:47 UTC]** Equipe de 'Quem Ama Cuida' reclama de horário tardio após queixas de telespectadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/equipe-de-quem-ama-cuida-reclama-de-horario-tardio-apos-queixas-de-telespectadores.shtml)_
+
