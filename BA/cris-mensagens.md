@@ -120,3 +120,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 plenário do STF analise mensagens entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-02 05:00 UTC]** Podcast analisa impacto de mensagens que expõem relação de Moraes e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-analisa-impacto-de-mensagens-que-expoem-relacao-de-moraes-e-vorcaro.shtml)_
+
