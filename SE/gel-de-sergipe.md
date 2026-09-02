@@ -158,3 +158,6 @@
 - **[2026-09-02 22:01 UTC]** Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta quarta-feira
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-quarta-feira.ghtml)_
 
+- **[2026-09-02 16:58 UTC]** Uma pessoa é presa durante operação contra abuso sexual infantojuvenil em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/02/pf-cumpre-mandado-em-itabaianinha-durante-operacao-contra-abuso-sexual-infantojuvenil.ghtml)_
+
