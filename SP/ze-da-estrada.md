@@ -20,3 +20,6 @@
 - **[2026-08-31 16:28 UTC]** Ônibus de banda do RS é destruído por incêndio em estrada com vocalista no volante: 'Só deu tempo de ver o fogo'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/onibus-de-banda-do-rs-e-destruido-por-incendio-em-estrada-com-vocalista-no-volante-so-deu-tempo-de-ver-o-fogo.ghtml)_
 
+- **[2026-09-02 12:22 UTC]** Linha “Mais mobilidade” ajuda motorista a ampliar atuação na estrada
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/02/linha-mais-mobilidade-ajuda-motorista-a-ampliar-atuacao-na-estrada.ghtml)_
+
