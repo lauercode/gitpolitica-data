@@ -17,3 +17,6 @@
 - **[2026-08-29 21:00 UTC]** 'Imaginem se cada um decidir resolver conflitos com violência?', diz leitora sobre casos de linchamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/imaginem-se-cada-um-decidir-resolver-conflitos-com-violencia-diz-leitora-sobre-casos-de-linchamento.shtml)_
 
+- **[2026-09-02 15:11 UTC]** Tesouro dos EUA emite moeda de US$ 1 com rosto de Trump; veja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/tesouro-dos-eua-emite-moeda-de-us-1-com-rosto-de-trump-veja.shtml)_
+
