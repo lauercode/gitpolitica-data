@@ -101,3 +101,6 @@
 - **[2026-09-02 08:00 UTC]** Mulheres fazem amizades no trabalho de maneira diferente dos homens
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/mulheres-fazem-amizades-no-trabalho-de-maneira-diferente-dos-homens.shtml)_
 
+- **[2026-09-02 10:00 UTC]** Do Legislativo ao governo: como os partidos distribuem as candidaturas de mulheres no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/02/do-legislativo-ao-governo-como-os-partidos-distribuem-as-candidaturas-de-mulheres-no-acre.ghtml)_
+
