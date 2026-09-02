@@ -29,3 +29,6 @@
 - **[2026-09-01 13:42 UTC]** Rogério Valença, ex-vocalista da banda Calcinha Preta, morre aos 55 anos
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/morre-o-cantor-rogerio-valenca-ex-vocalista-da-calcinha-preta-aos-55-anos.ghtml)_
 
+- **[2026-09-02 11:38 UTC]** Marido de Rogério Valença faz homenagem ao cantor nas redes sociais
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/02/companheiro-de-rogerio-valenca-faz-homenagem-ao-cantor-nas-redes-sociais.ghtml)_
+
