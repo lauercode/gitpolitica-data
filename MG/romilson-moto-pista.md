@@ -59,3 +59,6 @@
 - **[2026-09-02 11:03 UTC]** Motorista de caminhonete morre no PR após ser atingido por carro que invadiu pista contrária na BR-277
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/02/motorista-de-caminhonete-morre-no-pr-apos-ser-atingido-por-carro-que-invadiu-pista-contraria-na-br-277.ghtml)_
 
+- **[2026-09-02 12:00 UTC]** Cientistas em busca da matéria escura identificam uma possível pista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/cientistas-em-busca-da-materia-escura-identificam-uma-possivel-pista.shtml)_
+
