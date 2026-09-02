@@ -550,3 +550,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 20:59 UTC]** Mensagens de Vorcaro apontam crimes comuns e de responsabilidade de Moraes e Gonet
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-de-vorcaro-apontam-crimes-comuns-e-de-responsabilidade-de-moraes-e-gonet/)_
 
+- **[2026-09-02 20:55 UTC]** Campanha de Lula quer distância de Moraes e aponta crise do STF na direção de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/campanha-de-lula-quer-distancia-de-moraes-e-aponta-crise-no-stf-na-direcao-de-flavio/)_
+
