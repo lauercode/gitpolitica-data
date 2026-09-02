@@ -44,3 +44,6 @@
 - **[2026-09-02 11:31 UTC]** Morre aos 91 anos Juracy Palhano, ex-deputado e fundador do bairro das Nações, em Campina Grande
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/morre-aos-91-anos-juracy-palhano-campina-grande-pb.ghtml)_
 
+- **[2026-09-02 14:06 UTC]** Monitorado é encontrado morto a facadas e com mãos amarradas em bairro de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/monitorado-e-morto-a-facadas-e-encontrado-com-maos-amarradas-em-bairro-de-rio-branco.ghtml)_
+
