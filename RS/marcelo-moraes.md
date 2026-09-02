@@ -330,3 +330,7 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-01 21:15 UTC]** PGR pede que STF anule investigação de conversa entre Vorcaro e Moraes
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/pgr-pede-que-stf-anule-investigacao-de-conversa-entre-vorcaro-e-moraes)_
 
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
