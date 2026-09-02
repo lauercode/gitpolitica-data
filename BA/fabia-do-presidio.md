@@ -32,3 +32,6 @@
 - **[2026-09-02 10:48 UTC]** Motim em presídio da PM termina após policiais presos manterem agentes reféns em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/motim-em-unidade-prisional-da-pm-com-refens-termina-apos-intervencao-do-batalhao-de-choque-em-manaus.ghtml)_
 
+- **[2026-09-01 21:37 UTC]** Quatro policiais são feitos reféns em motim em presídio da PM em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/confusao-e-registrada-em-unidade-prisional-da-pm-em-manaus.ghtml)_
+
