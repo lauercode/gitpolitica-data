@@ -230,3 +230,6 @@
 - **[2026-09-02 10:00 UTC]** Do Legislativo ao governo: como os partidos distribuem as candidaturas de mulheres no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/02/do-legislativo-ao-governo-como-os-partidos-distribuem-as-candidaturas-de-mulheres-no-acre.ghtml)_
 
+- **[2026-09-02 10:00 UTC]** Acre tem alta de mais de 760% nos focos de queimadas em agosto, aponta Inpe
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/acre-tem-alta-de-mais-de-760percent-nos-focos-de-queimadas-em-agosto-aponta-inpe.ghtml)_
+
