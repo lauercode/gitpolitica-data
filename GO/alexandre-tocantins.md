@@ -71,3 +71,6 @@
 - **[2026-09-01 21:20 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-tocantins.ghtml)_
 
+- **[2026-09-02 00:40 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta terça-feira (1º)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-terca-feira-1o.ghtml)_
+
