@@ -400,3 +400,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 03:00 UTC]** Contratos milionários, experiências de luxo e viagem a Londres: o que Vorcaro ofereceu a Moraes e sua família, segundo a PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/que-vorcaro-ofereceu-a-moraes-e-sua-familia-segundo-a-pf.ghtml)_
 
+- **[2026-09-02 03:00 UTC]** PF aponta oito encontros de Daniel Vorcaro com Alexandre de Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/pf-aponta-oito-encontros-de-daniel-vorcaro-com-alexandre-de-moraes.ghtml)_
+
