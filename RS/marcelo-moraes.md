@@ -513,3 +513,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 19:10 UTC]** Escândalo envolvendo Moraes não paralisa agenda governista e Senado segue com escala 6×1
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/escandalo-envolvendo-moraes-nao-paralisa-agenda-governista-e-senado-segue-com-escala-6-x-1/)_
 
+- **[2026-09-02 18:28 UTC]** O fim da blindagem? Moraes enfrenta crescente desgaste público e pressão aumenta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-fim-da-blindagem-moraes-enfrenta-crescente-desgaste-publico-e-pressao-aumenta/)_
+
