@@ -89,3 +89,6 @@
 - **[2026-09-01 17:57 UTC]** No RS, Augusto Cury defende app para mulheres vítimas de violência, mas não cita uso de drones contra feminicídios
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/no-rs-augusto-cury-app-mulheres-vitimas-de-violencia-drones.ghtml)_
 
+- **[2026-09-01 23:00 UTC]** Atrizes pornô, bebês 'reborn' e mulheres nuas no esgoto marcam a Bienal de Veneza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/atrizes-porno-bebes-reborn-e-mulheres-nuas-no-esgoto-marcam-a-bienal-de-veneza.shtml)_
+
