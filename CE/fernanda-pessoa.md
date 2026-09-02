@@ -186,3 +186,6 @@ direcionado às necessidades de cada pessoa
 - **[2026-09-02 09:20 UTC]** Paraíba é o 3º estado com maior qualidade de crédito para pessoa física no país, aponta ranking de competitividade
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/paraiba-e-o-3o-estado-com-maior-qualidade-de-credito-para-pessoa-fisica-no-pais-aponta-ranking-de-competitividade.ghtml)_
 
+- **[2026-09-02 13:24 UTC]** Por que uma pessoa pode ser 'loira' ou 'loura'? Ou isso é 'cousa de doudo'?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/caetano-w-galindo/2026/09/por-que-uma-pessoa-pode-ser-loira-ou-loura-ou-isso-e-cousa-de-doudo.shtml)_
+
