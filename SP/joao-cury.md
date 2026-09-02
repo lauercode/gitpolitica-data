@@ -155,3 +155,6 @@
 - **[2026-09-02 15:53 UTC]** Quaest: Cury se isola em 3º lugar e dobra potencial de voto; veja números
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-veja-o-desempenho-de-augusto-cury-por-segmentos-do-eleitorado.ghtml)_
 
+- **[2026-09-02 18:00 UTC]** Tucanos se aproximam de Cury e o veem como alternativa de centro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tucanos-se-aproximam-de-cury-e-o-veem-como-alternativa-de-centro.shtml)_
+
