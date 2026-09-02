@@ -110,3 +110,6 @@
 - **[2026-09-02 14:47 UTC]** Candidata ao Senado no AP, Alliny Serrão defende fim da violência contra as mulheres: ‘leis severas’
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/02/candidata-ao-senado-no-ap-alliny-serrao-defende-fim-da-violencia-contra-as-mulheres-leis-severas.ghtml)_
 
+- **[2026-09-02 15:30 UTC]** Homem é preso após esfaquear duas mulheres durante tentativa de estupro em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/02/homem-e-preso-apos-esfaquear-duas-mulheres-durante-tentativa-de-estupro-em-natal.ghtml)_
+
