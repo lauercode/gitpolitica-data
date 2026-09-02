@@ -525,3 +525,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 17:06 UTC]** Flávio Bolsonaro diz considerar 'inadmissível' Alexandre de Moraes seguir como ministro do STF após conversas com Vorcaro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/02/flavio-bolsonaro-pl-presidencia-porto-alegre-rs.ghtml)_
 
+- **[2026-09-02 21:48 UTC]** Renan Santos protocola pedido de impeachment contra Moraes e Toffoli
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/renan-santos-impeachment-moraes-toffoli.ghtml)_
+
