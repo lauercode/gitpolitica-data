@@ -71,3 +71,6 @@
 - **[2026-09-01 14:12 UTC]** Justiça absolve professor demitido da UFCG após denúncias de assédio
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/justica-absolve-professor-demitido-da-ufcg-apos-denuncias-de-assedio.ghtml)_
 
+- **[2026-09-02 13:51 UTC]** Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 2 de setembro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/fio-do-professor-felipe-nunes-2-de-setembro.ghtml)_
+
