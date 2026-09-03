@@ -648,3 +648,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 11:33 UTC]** Caso Vorcaro-Moraes pode alimentar onda antipolítica e favorecer Cury e Renan Santos nas eleições 2026, diz cientista política
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn5d2grd55zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-03 16:54 UTC]** Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta ordem democrática'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/caiado-defende-renuncia-de-alexandre-de-moraes-para-evitar-insurgencias-contra-o-stf-coloca-em-risco-esta-ordem-democratica.ghtml)_
+
