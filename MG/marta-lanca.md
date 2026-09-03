@@ -41,3 +41,6 @@
 - **[2026-08-31 20:09 UTC]** EBC lança Centro de Inovação e Pesquisa em Comunicação Pública
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/ebc-lanca-centro-de-inovacao-e-pesquisa-em-comunicacao-publica)_
 
+- **[2026-09-03 13:00 UTC]** Festival inspirado em carta de Chico Mendes aos jovens lança programação no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/festival-inspirado-em-carta-de-chico-mendes-aos-jovens-lanca-programacao-no-acre.ghtml)_
+
