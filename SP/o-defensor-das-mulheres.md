@@ -128,3 +128,6 @@
 - **[2026-09-03 13:00 UTC]** 'As Troianas' vira metáfora nos palcos para dor das mulheres na ditadura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/as-troianas-vira-metafora-nos-palcos-para-dor-das-mulheres-na-ditadura.shtml)_
 
+- **[2026-09-03 19:22 UTC]** Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss)_
+
