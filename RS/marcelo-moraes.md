@@ -654,3 +654,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 15:09 UTC]** Zema elogia Mendonça e chama Moraes de 'consultor jurídico' de Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/zema-stf-mendonca-moraes.ghtml)_
 
+- **[2026-09-03 13:45 UTC]** 'Decisões de Moraes não devem ser reconhecidas pelo Estado', diz Renan Santos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/renan-santos-entrevista.ghtml)_
+
