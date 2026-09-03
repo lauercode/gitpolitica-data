@@ -29,3 +29,6 @@
 - **[2026-09-02 18:54 UTC]** Pressionada pela BYD, GM segura terceiro lugar nas vendas de automóveis em agosto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/09/pressionada-pela-byd-gm-segura-terceiro-lugar-nas-vendas-de-automoveis-em-agosto.shtml)_
 
+- **[2026-09-03 19:00 UTC]** Usinas de etanol descredenciadas em SP sobem vendas em 46%, mostra levantamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/usinas-de-etanol-descredenciadas-em-sp-sobem-vendas-em-46-mostra-levantamento.shtml)_
+
