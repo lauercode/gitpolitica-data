@@ -83,3 +83,6 @@
 - **[2026-09-02 17:47 UTC]** 'Isolado e pouco sociável', diz professor sobre adolescente suspeito de matar estudante a facadas no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/isolado-e-pouco-sociavel-diz-professor-sobre-adolescente-suspeito-de-matar-estudante-a-facadas-em-agua-doce-do-maranhao.ghtml)_
 
+- **[2026-09-03 09:01 UTC]** Plano de Governo: Professor Witer Naves propõe fusão de secretarias e reorganização administrativa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-witer-naves-propoe-fusao-de-secretarias-e-reorganizacao-administrativa-para-o-tocantins.ghtml)_
+
