@@ -332,3 +332,6 @@
 - **[2026-09-03 22:16 UTC]** Os números da nova pesquisa Datafolha para presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026/)_
 
+- **[2026-09-03 22:39 UTC]** Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
