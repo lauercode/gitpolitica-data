@@ -29,3 +29,6 @@
 - **[2026-09-02 13:59 UTC]** Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Palácio do Planalto
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml)_
 
+- **[2026-09-03 14:01 UTC]** 'A Nobreza do Amor': Jendal é levado para o palácio, e Kênia ajuda o pai
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/03/13/6442-a-nobreza-do-amor-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466788)_
+
