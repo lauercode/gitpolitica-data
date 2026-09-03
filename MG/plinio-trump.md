@@ -134,3 +134,6 @@
 - **[2026-09-02 19:36 UTC]** Trump comemora saída de Harry e Meghan dos Estados Unidos: 'Eu não era fã'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/trump-comemora-saida-de-harry-e-meghan-dos-estados-unidos-eu-nao-era-fa.shtml)_
 
+- **[2026-09-03 09:00 UTC]** Associações médicas dos EUA publicam recomendações de vacinas ante ofensiva de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/associacoes-medicas-dos-eua-publicam-recomendacoes-de-vacinas-ante-ofensiva-de-trump.shtml)_
+
