@@ -44,3 +44,6 @@
 - **[2026-09-03 00:15 UTC]** VÍDEO: cachorra recebe oxigênio de bombeiros após ser resgatada de incêndio em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/video-cachorra-oxigenio-bombeiros-resgatada-incendio-laguna.ghtml)_
 
+- **[2026-09-03 11:36 UTC]** Incêndio atinge casa em Imperatriz, no MA; bombeiros controlam chamas
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/09/03/incendio-atinge-casa-em-imperatriz-no-ma-bombeiros-controlam-chamas.ghtml)_
+
