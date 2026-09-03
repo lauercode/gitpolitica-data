@@ -92,3 +92,6 @@
 - **[2026-09-02 12:12 UTC]** VÍDEO: motociclista é arremessado após ser atingido por carro que furou preferencial, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/02/video-motociclista-e-arremessado-apos-ser-atingido-por-carro-que-furou-preferencial-no-parana.ghtml)_
 
+- **[2026-09-03 09:00 UTC]** Condutor é indiciado por omissão de socorro em acidente que matou motociclista no AC
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
+
