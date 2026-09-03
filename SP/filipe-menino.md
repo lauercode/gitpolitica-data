@@ -56,3 +56,6 @@
 - **[2026-09-02 20:56 UTC]** Casal que levou bebê morto a UPA em SC será investigado por morte de outro menino de 7 meses
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/casal-levou-bebe-morto-upa-sc-investigado-morte-outro-menino-7-meses.ghtml)_
 
+- **[2026-09-03 16:28 UTC]** Buscas por menino de 4 anos que caiu de embarcação em rio no Acre chegam ao terceiro dia
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/buscas-por-menino-de-4-anos-que-caiu-de-embarcacao-em-rio-no-acre-chegam-ao-terceiro-dia.ghtml)_
+
