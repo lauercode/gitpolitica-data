@@ -17,3 +17,6 @@
 - **[2026-08-25 18:47 UTC]** Curso gratuito de Libras promove inclusão e acessibilidade em Pimenta Bueno
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/08/25/curso-gratuito-de-libras-promove-inclusao-e-acessibilidade-em-pimenta-bueno.ghtml)_
 
+- **[2026-09-03 13:15 UTC]** Apple enfrenta ação de 2 bilhões de libras por regras de rastreamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/apple-enfrenta-acao-de-2-bilhoes-de-libras-por-regras-de-rastreamento.shtml)_
+
