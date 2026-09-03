@@ -56,3 +56,6 @@
 - **[2026-09-02 17:29 UTC]** Senadores ampliam pressão por impeachment de Moraes após relatório da PF sobre Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senadores-ampliam-pressao-por-impeachment-de-moraes-apos-relatorio-da-pf-sobre-vorcaro/)_
 
+- **[2026-09-02 19:41 UTC]** Alcolumbre cita dinheiro para 'Dark Horse' para responder à pressão por impeachment de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-cita-dinheiro-para-dark-horse-para-responder-a-pressao-por-impeachment-de-moraes.shtml)_
+
