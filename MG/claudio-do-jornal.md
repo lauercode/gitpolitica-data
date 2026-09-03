@@ -176,3 +176,6 @@
 - **[2026-09-03 18:18 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de quinta-feira, 03 de setembro de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-quinta-feira-03-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-03 20:37 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 3 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-3-de-setembro-de-2026.ghtml)_
+
