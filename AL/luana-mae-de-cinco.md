@@ -116,3 +116,6 @@
 - **[2026-09-02 18:55 UTC]** Cinco são denunciados por tráfico internacional de pessoas e por tentar matar testemunhas, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/02/trafico-internacional-de-pessoas-parana.ghtml)_
 
+- **[2026-09-02 23:47 UTC]** Eleições 2026: Omar Aziz cumpre agenda em Brasília e promete concurso com cinco mil vagas para segurança pública
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-omar-aziz-cumpre-agenda-em-brasilia-e-promete-concurso-com-cinco-mil-vagas-para-seguranca-publica.ghtml)_
+
