@@ -14,3 +14,6 @@
 - **[2026-09-03 12:03 UTC]** Tarcísio exonera Delegado da Cunha, deputado youtuber
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tarcisio-exonera-delegado-da-cunha-deputado-youtuber.shtml)_
 
+- **[2026-09-03 18:50 UTC]** Impugnações de Arruda, Cunha e Garotinho testam novas regras da Ficha Limpa enquanto STF analisa validade das mudanças
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/lei-ficha-limpa-inelegibilidade-eleicoes-2026.ghtml)_
+
