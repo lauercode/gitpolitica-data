@@ -161,3 +161,6 @@
 - **[2026-09-03 15:56 UTC]** Incêndio destrói antigo prédio do Banco da Amazônia no Centro de Manaus; VÍDEO
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/incendio-e-registrado-no-antigo-banco-da-amazonia-no-centro-de-manaus.ghtml)_
 
+- **[2026-09-03 22:16 UTC]** Centro Comercial de Passagem vai reabrir na sexta-feira (4) após incêndio, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/centro-comercial-de-passagem-vai-reabrir-na-sexta-feira-4-apos-incendio-em-joao-pessoa.ghtml)_
+
