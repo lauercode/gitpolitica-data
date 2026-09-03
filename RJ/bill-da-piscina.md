@@ -14,3 +14,6 @@
 - **[2018-07-13 14:00 UTC]** Menino de 2 anos morre afogado na piscina de casa um dia após aniversário em MG
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/menino-de-2-anos-morre-afogado-na-piscina-de-casa-um-dia-apos-aniversario-em-mg.ghtml)_
 
+- **[2026-09-03 09:11 UTC]** 'Compartilhamos a casa com uma família de ursos que toma banho vários dias por semana na nossa piscina'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93enjwy7d5o?at_medium=RSS&at_campaign=rss)_
+
