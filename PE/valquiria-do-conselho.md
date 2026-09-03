@@ -44,3 +44,6 @@
 - **[2026-09-02 18:36 UTC]** Senado aprova lei dos minerais críticos com R$ 5 bi em subsídios e conselho com poder de veto a estrangeiros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/senado-aprova-lei-dos-minerais-criticos-com-r-5-bi-em-subsidios-e-conselho-com-poder-de-veto-a-estrangeiros.shtml)_
 
+- **[2026-09-03 12:45 UTC]** Gonet dirá a conselho da PGR que nunca manteve relação com Vorcaro nem pediu viagem ao filho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gonet-dira-a-conselho-da-pgr-que-nunca-manteve-relacao-com-vorcaro.shtml)_
+
