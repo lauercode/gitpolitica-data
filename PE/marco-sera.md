@@ -125,3 +125,6 @@
 - **[2026-09-03 21:10 UTC]** Operador de Vorcaro que fez repasses ao 'Dark Horse' será ouvido pelo gabinete de Mendonça na próxima terça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/03/delator-master-stf.ghtml)_
 
+- **[2026-09-03 21:06 UTC]** Fim da 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/fim-da-6x1-alcolumbre-indica-que-proposta-que-reduz-jornada-de-trabalho-sera-votada-apos-as-eleicoes.ghtml)_
+
