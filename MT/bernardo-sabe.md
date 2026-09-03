@@ -44,3 +44,6 @@
 - **[2026-09-02 17:37 UTC]** Perseguição e 'ameaças espirituais': veja o que se sabe sobre o líder religioso que responde por 19 crimes
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/perseguicao-e-ameacas-espirituais-veja-o-que-se-sabe-sobre-o-lider-religioso-que-responde-por-19-crimes.ghtml)_
 
+- **[2026-09-03 21:14 UTC]** O que se sabe sobre acidente que matou músico Diego Sanches a caminho de show em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/o-que-se-sabe-sobre-acidente-que-matou-musico-diego-sanches-a-caminho-de-show-em-porto-alegre.ghtml)_
+
