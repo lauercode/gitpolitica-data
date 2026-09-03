@@ -125,3 +125,6 @@
 - **[2026-09-03 12:38 UTC]** Governo Federal autoriza verba de R$ 174 mil para cidade afetada por chuvas, na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/governo-federal-autoriza-verba-de-r-174-mil-para-cidade-afetada-por-chuvas-na-pb.ghtml)_
 
+- **[2026-09-03 17:04 UTC]** Investigação apura desvios de doações para vítimas de tornado que destruiu 90% de cidade do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/03/investigacao-apura-desvios-de-doacoes-para-vitimas-de-tornado-que-destruiu-90percent-de-cidade-do-parana.ghtml)_
+
