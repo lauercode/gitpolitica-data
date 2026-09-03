@@ -254,3 +254,6 @@
 - **[2026-09-03 00:13 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta quarta-feira (2)
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/02/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quinta-feira-3.ghtml)_
 
+- **[2026-09-02 22:55 UTC]** Autorizações para queima controlada são suspensas devido emergência ambiental no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/autorizacoes-para-queima-controlada-sao-suspensas-devido-emergencia-ambiental-no-acre.ghtml)_
+
