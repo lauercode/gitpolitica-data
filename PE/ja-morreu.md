@@ -134,3 +134,6 @@
 - **[2026-09-03 11:33 UTC]** Músico que morreu a caminho de show tinha mais de 20 anos de carreira: 'Ia tocar no meu aniversário sem cobrar', diz amigo
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/quem-era-musico-que-morreu-a-caminho-de-show-no-rs.ghtml)_
 
+- **[2026-09-03 09:00 UTC]** Agricultor é indiciado por não socorrer jovem que morreu em acidente de moto no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
+
