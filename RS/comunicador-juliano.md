@@ -17,3 +17,6 @@
 - **[2026-09-03 12:10 UTC]** Entenda o processo de R$ 5 milhões contra Henrique e Juliano após troca de empresa de ingressos
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/entenda-o-processo-de-r-5-milhoes-contra-henrique-e-juliano-apos-troca-de-empresa-de-ingressos.ghtml)_
 
+- **[2026-09-03 17:18 UTC]** Ex-colega de aula de Henrique, da dupla com Juliano, tem pedido atendido e refaz foto antiga com o cantor
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/ex-colega-de-aula-de-henrique-da-dupla-com-juliano-tem-pedido-atendido-e-refaz-foto-antiga-com-o-cantor.ghtml)_
+
