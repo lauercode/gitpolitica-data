@@ -122,3 +122,6 @@
 - **[2026-09-03 10:55 UTC]** VÍDEO: Cataratas do Iguaçu registram vazão cinco vezes maior do que o normal
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/03/cataratas-do-iguacu-vazao.ghtml)_
 
+- **[2026-09-03 12:08 UTC]** Cataratas do Iguaçu registram vazão cinco vezes maior que a média
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cataratas-do-iguacu-registram-vazao-cinco-vezes-maior-que-a-media.shtml)_
+
