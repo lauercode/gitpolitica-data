@@ -74,3 +74,6 @@
 - **[2026-09-03 09:24 UTC]** Leilão de novo terminal em porto de Fortaleza é liberado pelo TCU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/leilao-de-novo-terminal-em-porto-de-fortaleza-e-liberado-pelo-tcu.shtml)_
 
+- **[2026-09-03 15:22 UTC]** Irmão de atacante do Fortaleza morre após partida amadora no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/irmao-de-atacante-do-fortaleza-morre-durante-partida-amadora-no-to.ghtml)_
+
