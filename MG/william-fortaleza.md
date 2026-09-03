@@ -77,3 +77,6 @@
 - **[2026-09-03 15:22 UTC]** Irmão de atacante do Fortaleza morre após partida amadora no TO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/irmao-de-atacante-do-fortaleza-morre-durante-partida-amadora-no-to.ghtml)_
 
+- **[2026-09-03 19:10 UTC]** Fortaleza recebe oitava edição do Fenacce a partir desta sexta-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/fortaleza-recebe-oitava-edicao-do-fenacce-partir-desta-sexta-feira)_
+
