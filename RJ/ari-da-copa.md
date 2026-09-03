@@ -65,3 +65,6 @@
 - **[2026-09-02 17:46 UTC]** Copa do Brasil segue definindo semifinalistas nesta quarta-feira
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/copa-do-brasil-segue-definindo-semifinalistas-nesta-quarta-feira)_
 
+- **[2026-09-02 23:32 UTC]** Palmeiras segura pressão do Santos, elimina rival e avança na Copa do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-segura-pressao-do-santos-elimina-rival-e-avanca-na-copa-do-brasil.shtml)_
+
