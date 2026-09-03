@@ -20,3 +20,6 @@
 - **[2026-08-27 09:00 UTC]** Mulher com mesma doença de Lito perde movimento e fala, e marido larga emprego para cuidar dela: 'minha esperança é que ela desperte'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/mulher-doenca-creutzfeld-jakob-lito-perde-movimento-fala-marido-larga-emprego-gaspar.ghtml)_
 
+- **[2026-09-02 19:57 UTC]** Augusto Cury atribui alta em pesquisa a 'movimento de pacificação' do país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/augusto-cury-atribui-alta-em-pesquisa-a-movimento-de-pacificacao-do-pais.shtml)_
+
