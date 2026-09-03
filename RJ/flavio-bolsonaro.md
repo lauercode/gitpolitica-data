@@ -662,3 +662,6 @@
 - **[2026-09-03 15:24 UTC]** TRE-SP determina que imagem de Bolsonaro não pode ser usada em propaganda eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tre-sp-determina-que-imagem-de-bolsonaro-nao-pode-ser-usada-em-propaganda-eleitoral.shtml)_
 
+- **[2026-09-03 19:08 UTC]** Lula culpa Flávio Bolsonaro por atraso na votação do fim da escala 6×1 no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-culpa-flavio-bolsonaro-atraso-votacao-fim-escala-6x1-senado/)_
+
