@@ -35,3 +35,6 @@
 - **[2026-09-02 12:54 UTC]** Eleições 2026 no PR: Sandro Alex diz que vai abrir concurso público para forças de segurança
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-no-pr-agenda-sandro-alex-2-de-setembro.ghtml)_
 
+- **[2026-09-02 23:00 UTC]** Alex Atala terá curso de gastronomia na CasaFolha; Ana Claudia Quintana Arantes faz live
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alex-atala-tera-curso-de-gastronomia-na-casafolha-ana-claudia-quintana-arantes-faz-live.shtml)_
+
