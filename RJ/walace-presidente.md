@@ -311,3 +311,6 @@
 - **[2026-09-02 20:53 UTC]** Veja como foi a quarta-feira (2) dos candidatos a presidente
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-2-dos-candidatos-presidente)_
 
+- **[2026-09-02 22:23 UTC]** Presidente da Câmara comemora aprovação da Política Nacional de Minerais Críticos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302392-presidente-da-camara-comemora-aprovacao-da-politica-nacional-de-minerais-criticos)_
+
