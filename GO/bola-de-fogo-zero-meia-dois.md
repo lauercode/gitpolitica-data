@@ -221,3 +221,6 @@
 - **[2026-09-03 02:00 UTC]** Relação Moraes e Vorcaro: veja os possíveis caminhos no STF do relatório que revelou diálogos entre os dois
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/relacao-moraes-e-vorcaro-veja-os-possiveis-caminhos-no-stf-do-relatorio-que-revelou-dialogos-entre-os-dois.ghtml)_
 
+- **[2026-09-03 08:03 UTC]** VÍDEO: Onça invade propriedade, ataca dois cães e mata um deles no interior do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/video-onca-invade-propriedade-ataca-dois-caes-e-mata-um-deles-no-interior-do-am.ghtml)_
+
