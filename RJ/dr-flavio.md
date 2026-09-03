@@ -806,3 +806,6 @@
 - **[2026-09-03 10:00 UTC]** Voto em Flávio Bolsonaro expressa ideia perdida de nação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bernardo-carvalho/2026/09/voto-em-flavio-bolsonaro-expressa-ideia-perdida-de-nacao.shtml)_
 
+- **[2026-09-03 09:59 UTC]** TSE aprova registros de candidatura de Lula, Flávio e Zema
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-aprova-registros-de-candidatura-de-lula-flavio-e-zema/)_
+
