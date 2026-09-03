@@ -647,3 +647,6 @@
 - **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
 
+- **[2026-09-03 10:37 UTC]** Lula busca desgastar Flávio Bolsonaro e diz que oposição tentou travar fim da 6x1 na CCJ do Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-busca-desgastar-flavio-bolsonaro-e-diz-que-oposicao-tentou-travar-fim-da-6x1-na-ccj-do-senado.shtml)_
+
