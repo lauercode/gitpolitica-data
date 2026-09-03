@@ -26,3 +26,6 @@
 - **[2026-09-01 14:02 UTC]** Homem atingido por disparo acidental em clube de tiro no Paraná era amigo do atirador
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/homem-atingido-por-disparo-acidental.ghtml)_
 
+- **[2026-09-03 18:56 UTC]** Jovem ferido por tiro é resgatado de helicóptero após seca impedir acesso por rio em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/03/jovem-ferido-por-tiro-e-resgatado-de-helicoptero-apos-seca-impedir-acesso-por-rio-em-ro.ghtml)_
+
