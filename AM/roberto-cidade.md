@@ -128,3 +128,6 @@
 - **[2026-09-03 17:04 UTC]** Investigação apura desvios de doações para vítimas de tornado que destruiu 90% de cidade do Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/03/investigacao-apura-desvios-de-doacoes-para-vitimas-de-tornado-que-destruiu-90percent-de-cidade-do-parana.ghtml)_
 
+- **[2026-09-02 20:48 UTC]** Pattaya, a 'cidade do pecado' da Tailândia onde milhares de militares americanos desembarcaram após 8 meses em alto mar
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss)_
+
