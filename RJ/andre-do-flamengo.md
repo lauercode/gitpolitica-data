@@ -14,3 +14,6 @@
 - **[2026-09-02 14:29 UTC]** Zagueiro do Flamengo e MC Hariel também foram alvo de golpista que se passava por treinador do Grêmio
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/zagueiro-cantor-golpista-luis-castro-policia-rs-rio-de-janeiro-preso.ghtml)_
 
+- **[2026-09-02 22:03 UTC]** Flamengo vence e fica a um ponto do Palmeiras, líder do Brasileirão
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flamengo-vence-e-fica-um-ponto-do-palmeiras-lider-do-brasileirao)_
+
