@@ -26,3 +26,6 @@
 - **[2026-09-01 01:05 UTC]** Lula sela pacto com Hugo Motta e Alcolumbre para destravar projetos no Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-sela-pacto-com-hugo-motta-e-alcolumbre-para-destravar-projetos-no-congresso/)_
 
+- **[2026-09-03 19:40 UTC]** Hugo Motta destaca aumento do poder de compra da população com fim da "taxa das blusinhas"
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302672-hugo-motta-destaca-aumento-do-poder-de-compra-da-populacao-com-fim-da-taxa-das-blusinhas)_
+
