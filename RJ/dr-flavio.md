@@ -827,3 +827,6 @@
 - **[2026-09-03 22:02 UTC]** Datafolha, 1º turno: Lula, 38%; Flávio Bolsonaro, 33%; Cury, 8%; Caiado, 4%; Renan, 3%; Zema, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-presidente-3-setembro.ghtml)_
 
+- **[2026-09-03 22:02 UTC]** Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-2o-turno-presidente-3-setembro.ghtml)_
+
