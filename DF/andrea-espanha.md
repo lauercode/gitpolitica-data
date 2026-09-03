@@ -26,3 +26,6 @@
 - **[2026-09-01 10:39 UTC]** Calor foi responsável por 2.149 mortes na Espanha no mês passado
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/calor-foi-responsavel-por-2149-mortes-na-espanha-no-mes-passado)_
 
+- **[2026-09-03 09:30 UTC]** Crise migratória em Ceuta provoca atos em várias cidades da Espanha e amplia pressão sobre Sánchez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/crise-migratoria-em-ceuta-provoca-atos-em-varias-cidades-da-espanha-e-amplia-pressao-sobre-sanchez.shtml)_
+
