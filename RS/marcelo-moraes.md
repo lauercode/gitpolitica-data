@@ -680,3 +680,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 plenário do STF analise mensagens entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-03 17:48 UTC]** OAB-PR defende afastamento de Moraes e suspeição de Gonet; nota será enviada a Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-pr-defende-afastamento-de-moraes-e-suspeicao-de-gonet/)_
+
