@@ -56,3 +56,6 @@
 - **[2026-09-03 09:34 UTC]** Nikolas pediu ajuda a Vorcaro para liberar minério, e banqueiro afirmou bancar voos dele, diz site
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/nikolas-pediu-ajuda-a-vorcaro-para-liberar-minerio-e-banqueiro-afirmou-bancar-voos-dele-diz-site.shtml)_
 
+- **[2026-09-03 12:46 UTC]** Em áudio, Nikolas pede ajuda a Vorcaro para liberar ativo de minério
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/em-audio-nikolas-pede-ajuda-vorcaro-para-liberar-ativo-de-minerio)_
+
