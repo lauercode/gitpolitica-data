@@ -47,3 +47,6 @@
 - **[2026-09-02 19:47 UTC]** O futebol doente não aceita ser contrariado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcelo-bechler/2026/09/o-futebol-doente-nao-aceita-ser-contrariado.shtml)_
 
+- **[2026-09-03 11:07 UTC]** Futebol mundial movimenta R$ 50 bilhões na janela; Brasil fatura quase R$ 1,1 bi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/futebol-mundial-movimenta-r-50-bilhoes-na-janela-brasil-fatura-quase-r-11-bi.shtml)_
+
