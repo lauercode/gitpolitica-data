@@ -17,3 +17,6 @@
 - **[2026-09-02 12:43 UTC]** Flamengo contrata dois atacantes e tem equatoriano devolvido; Santos e Vasco se reforçam
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-contrata-dois-atacantes-e-tem-equatoriano-devolvido-santos-e-vasco-se-reforcam.shtml)_
 
+- **[2026-09-03 07:12 UTC]** Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-palmeiras-avancam-e-se-enfrentam-na-semi-da-copa-do-brasil)_
+
