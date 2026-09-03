@@ -661,3 +661,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 plenário do STF analise mensagens entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-03 12:11 UTC]** Gilmar propõe a Fachin vetar delegados da PF em gabinetes do STF após crise entre Mendonça e Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-propoe-a-fachin-vetar-delegados-da-pf-em-gabinetes-do-stf-apos-crise-entre-mendonca-e-moraes.shtml)_
+
