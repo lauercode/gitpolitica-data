@@ -809,3 +809,6 @@
 - **[2026-09-03 09:59 UTC]** TSE aprova registros de candidatura de Lula, Flávio e Zema
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-aprova-registros-de-candidatura-de-lula-flavio-e-zema/)_
 
+- **[2026-09-03 14:18 UTC]** Lula cobra votação da PEC do fim da 6x1 no Senado e culpa oposição liderada por Flávio por atraso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/lula-cobra-votacao-de-pec-do-fim-da-escala-6x1-no-senado-e-culpa-oposicao-liderada-por-flavio-bolsonaro.ghtml)_
+
