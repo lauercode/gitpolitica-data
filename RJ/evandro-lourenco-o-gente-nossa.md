@@ -41,3 +41,6 @@
 - **[2026-09-01 16:33 UTC]** 'Alegria que conduz a nossa gente': Conheça tema do Círio 2026 da TV Liberal
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/01/alegria-que-conduz-a-nossa-gente-conheca-tema-do-cirio-2026-da-tv-liberal.ghtml)_
 
+- **[2026-09-03 09:11 UTC]** 'Compartilhamos a casa com uma família de ursos que toma banho vários dias por semana na nossa piscina'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93enjwy7d5o?at_medium=RSS&at_campaign=rss)_
+
