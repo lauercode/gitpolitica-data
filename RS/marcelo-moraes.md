@@ -575,3 +575,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 00:12 UTC]** O que Moraes já disse sobre as mensagens de Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-moraes-ja-disse-sobre-as-mensagens-de-vorcaro/)_
 
+- **[2026-09-02 23:55 UTC]** Embate histórico de Mendonça e Moraes pode definir rumos da República
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/embate-historico-de-mendonca-e-moraes-pode-definir-rumos-da-republica/)_
+
