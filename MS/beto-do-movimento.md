@@ -23,3 +23,6 @@
 - **[2026-09-02 19:57 UTC]** Augusto Cury atribui alta em pesquisa a 'movimento de pacificação' do país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/augusto-cury-atribui-alta-em-pesquisa-a-movimento-de-pacificacao-do-pais.shtml)_
 
+- **[2026-09-03 18:22 UTC]** Giro de Saia Roraimense: movimento das quadrilhas vira patrimônio de Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/prefeitura-de-boa-vista/boa-vista-a-capital-modelo-da-amazonia/noticia/2026/09/03/giro-de-saia-roraimense-movimento-das-quadrilhas-vira-patrimonio-de-boa-vista.ghtml)_
+
