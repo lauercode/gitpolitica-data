@@ -158,3 +158,6 @@
 - **[2026-09-02 20:38 UTC]** Anvisa determina interdição de água mineral sem gás da marca Vitoriosa
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/anvisa-determina-interdicao-da-agua-mineral-sem-gas-da-marca-vitoriosa)_
 
+- **[2026-09-03 09:00 UTC]** Lagoa conhecida como ‘Espelho d’Água’ encanta pelas belezas naturais no interior do TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/lagoa-conhecida-como-espelho-dagua-encanta-pelas-belezas-naturais-no-interior-do-to-video.ghtml)_
+
