@@ -673,3 +673,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 16:50 UTC]** PF aponta almoço entre Moraes e Vorcaro que antecedeu contrato de R$ 131 milhões
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-aponta-almoco-entre-moraes-e-vorcaro-que-antecedeu-contrato-de-r-131-milhoes/)_
 
+- **[2026-09-03 15:42 UTC]** “Chance não pode ser desperdiçada”, diz Lacombe sobre impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/chance-unica-diz-lacombe-sobre-impeachment-de-moraes/)_
+
