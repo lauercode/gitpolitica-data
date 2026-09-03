@@ -584,3 +584,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 23:07 UTC]** Gilmar Mendes visitou Lula no dia em que Mendonça tirou sigilo de mensagens para Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-visitou-lula-no-dia-em-que-mendonca-tirou-sigilo-de-mensagens-para-moraes/)_
 
+- **[2026-09-03 03:30 UTC]** Mendonça vs. Moraes: as reações do Supremo ao Caso Master - O Assunto #1797
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/03/mendonca-vs-moraes-as-reacoes-do-supremo-ao-caso-master-o-assunto-1797.ghtml)_
+
