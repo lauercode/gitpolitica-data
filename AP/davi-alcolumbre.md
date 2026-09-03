@@ -149,3 +149,6 @@
 - **[2026-09-03 22:04 UTC]** Sob pressão por Moraes, Alcolumbre reclama de ataques de colegas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sob-pressao-alcolumbre-diz-que-colegas-o-atacam-para-ganhar-voto/)_
 
+- **[2026-09-03 20:33 UTC]** Viana pede afastamento de Alcolumbre por não pautar impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/viana-pede-afastamento-de-alcolumbre-por-nao-pautar-impeachment-de-moraes/)_
+
