@@ -794,3 +794,6 @@
 - **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
 
+- **[2026-09-03 08:40 UTC]** Após Quaest, Cury se firma em 3º lugar e Lula e Flávio aparecem empatados no 2º turno: como está a intenção de voto para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
