@@ -224,3 +224,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 16:07 UTC]** Mensagens com Vorcaro mostram que Alexandre não é mais Xandão; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mensagens-com-vorcaro-mostram-que-alexandre-nao-e-mais-xandao-veja-video.shtml)_
 
+- **[2026-09-03 15:10 UTC]** 'Nikolas peleleco'; deputado é ironizado nas redes após troca de mensagens com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/nikolas-peleleco-deputado-e-ironizado-nas-redes-apos-troca-de-mensagens-com-vorcaro.shtml)_
+
