@@ -104,3 +104,6 @@
 - **[2026-09-03 07:50 UTC]** Eleições: entenda o papel dos deputados federal e estadual
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/eleicoes-entenda-o-papel-dos-deputados-federal-e-estadual)_
 
+- **[2026-09-03 15:05 UTC]** Márcio Jambo promete em sabatina enxugar máquina pública e criar banco estadual em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/noticia/2026/09/03/marcio-jambo-promete-em-sabatina-enxugar-maquina-publica-e-criar-banco-estadual-em-al.ghtml)_
+
