@@ -161,3 +161,6 @@
 - **[2026-09-03 09:00 UTC]** Lagoa conhecida como ‘Espelho d’Água’ encanta pelas belezas naturais no interior do TO; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/lagoa-conhecida-como-espelho-dagua-encanta-pelas-belezas-naturais-no-interior-do-to-video.ghtml)_
 
+- **[2026-09-03 12:56 UTC]** Rio Tietê fica com a água escura na região de Salto (SP)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/rio-tiete-fica-com-a-agua-escura-na-regiao-de-salto-sp.shtml)_
+
