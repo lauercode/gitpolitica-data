@@ -113,3 +113,6 @@
 - **[2026-09-02 20:56 UTC]** Casal que levou bebê morto a UPA em SC será investigado por morte de outro menino de 7 meses
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/casal-levou-bebe-morto-upa-sc-investigado-morte-outro-menino-7-meses.ghtml)_
 
+- **[2026-09-03 07:00 UTC]** Augusto Cury: será a vez do outsider terapêutico?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/augusto-cury-sera-a-vez-do-outsider-terapeutico.shtml)_
+
