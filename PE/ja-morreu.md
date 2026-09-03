@@ -131,3 +131,6 @@
 - **[2026-09-03 09:00 UTC]** Mãe de jovem assassinado por empresário na saída de motel cobra Justiça quatro anos depois: 'Um pedaço de mim morreu'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/mae-de-jovem-assassinado-por-empresario-na-saida-de-motel-cobra-justica-quatro-anos-depois-um-pedaco-de-mim-morreu.ghtml)_
 
+- **[2026-09-03 11:33 UTC]** Músico que morreu a caminho de show tinha mais de 20 anos de carreira: 'Ia tocar no meu aniversário sem cobrar', diz amigo
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/quem-era-musico-que-morreu-a-caminho-de-show-no-rs.ghtml)_
+
