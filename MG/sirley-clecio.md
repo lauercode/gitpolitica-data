@@ -53,3 +53,6 @@
 - **[2026-09-01 22:29 UTC]** Clécio Luís visita projeto em Macapá e participa de caminhada em Santana
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/01/clecio-luis-visita-projeto-em-macapa-e-participa-de-caminhada-em-santana.ghtml)_
 
+- **[2026-09-02 22:32 UTC]** Clécio Luís participa de caminhada e plenária em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/02/clecio-luis-participa-de-caminhada-e-plenaria-em-macapa.ghtml)_
+
