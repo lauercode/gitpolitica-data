@@ -632,3 +632,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 07:38 UTC]** 'É a maior crise do STF': Gonet deveria se afastar do caso Master e Moraes precisa ser investigado, afirma ex-PGR Claudio Fonteles
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zgjg308ko?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-03 13:10 UTC]** Para blindar Moraes, Alcolumbre manda recado para Flávio em tom de ameaça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/03/para-blindar-moraes-alcolumbre-manda-recado-para-flavio-em-tom-de-ameaca.ghtml)_
+
