@@ -194,3 +194,6 @@
 - **[2026-09-02 22:34 UTC]** Projeto amplia transparência sobre presentes e benefícios recebidos por agentes públicos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299906-projeto-amplia-transparencia-sobre-presentes-e-beneficios-recebidos-por-agentes-publicos)_
 
+- **[2026-09-03 13:40 UTC]** Projeto prevê a instalação de 12 quadras esportivas na faixa de areia em Ponta Negra
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/projeto-preve-a-instalacao-de-12-quadras-esportivas-na-faixa-de-areia-em-ponta-negra.ghtml)_
+
