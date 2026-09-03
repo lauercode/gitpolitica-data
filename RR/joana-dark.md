@@ -80,3 +80,6 @@
 - **[2026-09-03 07:59 UTC]** PGR fecha delação com empresário que fez pagamentos a fundo que financiaria 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pgr-fecha-delacao-com-empresario-que-fez-pagamentos-a-fundo-que-financiaria-dark-horse.shtml)_
 
+- **[2026-09-03 21:10 UTC]** Operador de Vorcaro que fez repasses ao 'Dark Horse' será ouvido pelo gabinete de Mendonça na próxima terça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/03/delator-master-stf.ghtml)_
+
