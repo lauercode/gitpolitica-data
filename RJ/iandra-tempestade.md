@@ -20,3 +20,6 @@
 - **[2026-09-01 10:55 UTC]** Trabalhador morre após ser atingido por raio durante tempestade, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/trabalhador-morre-apos-ser-atingido-por-raio-durante-tempestade-no-parana.ghtml)_
 
+- **[2026-09-03 04:00 UTC]** Com chuva e aviso de tempestade, parte do RS tem virada no tempo nesta quinta-feira; veja previsão
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/chuva-tempestade-rs-tempo-nesta-quinta-feira-veja-previsao.ghtml)_
+
