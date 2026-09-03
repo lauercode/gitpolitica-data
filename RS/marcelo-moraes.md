@@ -664,3 +664,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 12:11 UTC]** Gilmar propõe a Fachin vetar delegados da PF em gabinetes do STF após crise entre Mendonça e Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-propoe-a-fachin-vetar-delegados-da-pf-em-gabinetes-do-stf-apos-crise-entre-mendonca-e-moraes.shtml)_
 
+- **[2026-09-03 12:00 UTC]** OAB-PR pede afastamento de Moraes e suspeição de Gonet
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/oab-pr-pede-afastamento-de-moraes-e-suspeicao-de-gonet.shtml)_
+
