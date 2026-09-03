@@ -644,3 +644,6 @@
 - **[2026-09-02 21:45 UTC]** TSE forma maioria para aprovar registros de candidatura de Lula, Flávio Bolsonaro e Romeu Zema
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml)_
 
+- **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
+
