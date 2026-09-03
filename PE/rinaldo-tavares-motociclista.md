@@ -95,3 +95,6 @@
 - **[2026-09-03 09:00 UTC]** Condutor é indiciado por omissão de socorro em acidente que matou motociclista no AC
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
 
+- **[2026-09-03 10:51 UTC]** Caminhoneiro matou motociclista dirigindo a 148 km/h em rodovia do PR com máxima permitida de 60 km/h, conclui polícia
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/03/caminhoneiro-148-kmh-morte-motociclista-pr-151-parana.ghtml)_
+
