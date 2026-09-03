@@ -170,3 +170,6 @@
 - **[2026-09-03 15:20 UTC]** VÍDEOS: Jornal da Manhã Alagoas de quinta-feira, 3 de setembro de 2026
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/edicao/2026/09/03/videos-jornal-da-manha-alagoas-de-quinta-feira-3-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-03 19:04 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de quinta-feira, 3 de setembro de 2026
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/03/videos-jornal-do-almoco-florianopolis-de-quinta-feira-3-de-setembro-de-2026.ghtml)_
+
