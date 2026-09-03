@@ -47,3 +47,6 @@
 - **[2026-09-02 20:00 UTC]** Casas Bahia pede proteção contra corte de mais contratos essenciais e cita ameaça de fornecedores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/casas-bahia-pede-protecao-contra-corte-de-mais-contratos-essenciais-e-cita-ameaca-de-fornecedores.shtml)_
 
+- **[2026-09-02 22:00 UTC]** Após acordo da Meta, Brasil precisa avançar na proteção de crianças e adolescentes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/apos-acordo-da-meta-brasil-precisa-avancar-na-protecao-de-criancas-e-adolescentes.shtml)_
+
