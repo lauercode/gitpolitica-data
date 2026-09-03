@@ -656,3 +656,6 @@
 - **[2026-09-03 11:58 UTC]** Flávio Bolsonaro usa crise de Moraes para tentar impulsionar ato de 7 de Setembro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-usa-crise-com-moraes-para-tentar-impulsionar-ato-de-7-de-setembro.shtml)_
 
+- **[2026-09-03 15:46 UTC]** Equipe de Flávio Bolsonaro prepara desregulamentação de setores da economia, diz Sachsida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/equipe-de-flavio-bolsonaro-prepara-desregulamentacao-de-setores-da-economia-diz-sachsida.shtml)_
+
