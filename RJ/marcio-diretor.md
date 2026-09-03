@@ -47,3 +47,6 @@
 - **[2026-09-02 14:29 UTC]** SBT faz nova mudança após saída do diretor de jornalismo no Rio de Janeiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-faz-nova-mudanca-apos-saida-do-diretor-de-jornalismo-no-rio-de-janeiro.shtml)_
 
+- **[2026-09-03 07:51 UTC]** Advogado e ex-diretor da Fazenda de SP são presos em ofensiva contra esquema de fraudes do ICMS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/advogado-e-ex-diretor-da-fazenda-de-sp-sao-presos-em-ofensiva-contra-esquema-de-fraudes-do-icms.shtml)_
+
