@@ -35,3 +35,6 @@
 - **[2026-09-02 20:00 UTC]** RJ: Cultura nos Territórios abre inscrições para 260 oficinas
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/rj-cultura-nos-territorios-abre-inscricoes-para-260-oficinas)_
 
+- **[2026-09-03 15:05 UTC]** Lavagem de Madeleine exalta cultura afro-brasileira em Paris
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/lavagem-de-madeleine-exalta-cultura-afro-brasileira-em-paris)_
+
