@@ -189,3 +189,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 23:00 UTC]** Mensagens para Moraes abrem margem para investigação de suspeita de corrupção e advocacia administrativa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-para-moraes-abrem-margem-para-investigacao-de-suspeita-de-corrupcao-e-advocacia-administrativa.shtml)_
 
+- **[2026-09-03 01:00 UTC]** Mensagens de ex-banqueiro sugerem crimes de Moraes e Gonet em relatório da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-de-ex-banqueiro-sugerem-crimes-de-moraes-e-gonet-em-relatorio-da-pf/)_
+
