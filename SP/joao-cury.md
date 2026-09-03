@@ -164,3 +164,6 @@
 - **[2026-09-03 06:00 UTC]** Mesmo com avanço de Cury nas pesquisas, adversários evitam partir para o enfrentamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mesmo-com-avanco-de-cury-nas-pesquisas-adversarios-evitam-partir-para-o-enfrentamento.shtml)_
 
+- **[2026-09-03 08:40 UTC]** Após Quaest, Cury se firma em 3º lugar e Lula e Flávio aparecem empatados no 2º turno: como está a intenção de voto para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
