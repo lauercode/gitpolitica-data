@@ -59,3 +59,6 @@
 - **[2026-09-03 15:28 UTC]** Suspeito de mandar matar filho de ex-prefeito de Itabi é preso
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/03/suspeito-de-mandar-matar-filho-de-ex-prefeito-de-itabi-e-preso-em-nossa-senhora-da-gloria.ghtml)_
 
+- **[2026-09-03 21:43 UTC]** Equipe de campanha de ex-prefeito e candidato a deputado federal sofre acidente no Uiramutã
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/equipe-de-campanha-de-ex-prefeito-e-candidato-a-deputado-federal-sofre-acidente-no-uiramuta.ghtml)_
+
