@@ -818,3 +818,6 @@
 - **[2026-09-03 15:46 UTC]** Equipe de Flávio Bolsonaro prepara desregulamentação de setores da economia, diz Sachsida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/equipe-de-flavio-bolsonaro-prepara-desregulamentacao-de-setores-da-economia-diz-sachsida.shtml)_
 
+- **[2026-09-03 19:08 UTC]** Lula culpa Flávio Bolsonaro por atraso na votação do fim da escala 6×1 no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-culpa-flavio-bolsonaro-atraso-votacao-fim-escala-6x1-senado/)_
+
