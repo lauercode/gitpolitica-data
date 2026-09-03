@@ -29,3 +29,6 @@
 - **[2026-09-02 08:16 UTC]** Quarta-feira é de chuvas no Sudeste, Centro-Oeste e sul do Nordeste
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/quarta-feira-e-de-chuvas-no-sudeste-centro-oeste-e-sul-do-nordeste)_
 
+- **[2026-09-03 08:05 UTC]** Frente fria leva chuva ao Centro-Oeste e parte do Norte do país
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/frente-fria-leva-chuva-ao-centro-oeste-e-parte-do-norte-do-pais)_
+
