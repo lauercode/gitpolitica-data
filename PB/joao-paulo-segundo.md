@@ -179,3 +179,6 @@
 - **[2026-09-03 00:01 UTC]** SP e RJ têm a pior percepção de melhoria da educação em 4 anos, segundo pesquisa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/sp-e-rj-tem-a-pior-percepcao-de-melhoria-da-educacao-em-4-anos-segundo-pesquisa.shtml)_
 
+- **[2026-09-03 04:00 UTC]** 85% das notas fiscais estão adaptadas à reforma tributária, segundo a Receita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/85-das-notas-fiscais-estao-adaptadas-a-reforma-tributaria-segundo-a-receita.shtml)_
+
