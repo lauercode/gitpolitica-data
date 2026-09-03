@@ -56,3 +56,6 @@
 - **[2026-09-03 09:12 UTC]** Justiça dá 10 dias para Discord criar plano de proteção a menores
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/discord-tem-10-dias-para-apresentar-plano-de-protecao-justica)_
 
+- **[2026-09-03 17:32 UTC]** Governo federal vai apoiar Rio na retomada de territórios e proteção de vias como a avenida Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/governo-federal-vai-apoiar-rio-na-retomada-de-territorios-e-protecao-de-vias-como-a-avenida-brasil.shtml)_
+
