@@ -218,3 +218,6 @@
 - **[2026-09-03 14:37 UTC]** Quem ganha e quem perde com o fim da “taxa das blusinhas”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/taxa-das-blusinhas-quem-ganha-perde-fim-imposto/)_
 
+- **[2026-09-03 16:45 UTC]** Viúva, sem filhos e reservada: quem era a mulher encontrada morta em casa após pelo menos um ano em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/viuva-sem-filhos-e-reservada-quem-era-a-mulher-encontrada-morta-em-casa-apos-pelo-menos-um-ano-em-joao-pessoa.ghtml)_
+
