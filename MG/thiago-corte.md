@@ -38,3 +38,6 @@
 - **[2026-09-02 12:01 UTC]** Caso Master arrasta Supremo para o centro da crise e expõe impasse sobre resposta da Corte
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/02/caso-master-supremo-crise-resposta.ghtml)_
 
+- **[2026-09-02 20:00 UTC]** Casas Bahia pede proteção contra corte de mais contratos essenciais e cita ameaça de fornecedores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/casas-bahia-pede-protecao-contra-corte-de-mais-contratos-essenciais-e-cita-ameaca-de-fornecedores.shtml)_
+
