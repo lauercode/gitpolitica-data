@@ -41,3 +41,6 @@
 - **[2026-09-03 07:00 UTC]** A crise dos sete anos tem um cronômetro, e ele se chama Saturno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/a-crise-dos-sete-anos-tem-um-cronometro-e-ele-se-chama-saturno.shtml)_
 
+- **[2026-09-03 15:09 UTC]** Zema elogia Mendonça e chama Moraes de 'consultor jurídico' de Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/zema-stf-mendonca-moraes.ghtml)_
+
