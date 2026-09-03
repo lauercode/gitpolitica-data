@@ -221,3 +221,6 @@
 - **[2026-09-03 16:45 UTC]** Viúva, sem filhos e reservada: quem era a mulher encontrada morta em casa após pelo menos um ano em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/viuva-sem-filhos-e-reservada-quem-era-a-mulher-encontrada-morta-em-casa-apos-pelo-menos-um-ano-em-joao-pessoa.ghtml)_
 
+- **[2026-09-03 16:37 UTC]** Mortes: Nordestina fazia da casa no Tatuapé abrigo para quem chegasse
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-nordestina-fazia-da-casa-no-tatuape-abrigo-para-quem-chegasse.shtml)_
+
