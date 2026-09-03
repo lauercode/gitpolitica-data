@@ -164,3 +164,6 @@
 - **[2026-09-03 00:59 UTC]** VÍDEO: Jornal Anhanguera 2ª Edição-TO de quarta-feira, 2 de setembro de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/video-jornal-anhanguera-2-edicao-to-de-quarta-feira-2-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-03 07:00 UTC]** As perguntas que não são feitas aos candidatos no Jornal Nacional
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2026/09/as-perguntas-que-nao-sao-feitas-aos-candidatos-no-jornal-nacional.shtml)_
+
