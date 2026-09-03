@@ -14,3 +14,6 @@
 - **[2026-09-03 19:24 UTC]** 'Conversas irrelevantes', diz Nikolas Ferreira sobre áudios com Daniel Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/conversas-irrelevantes-diz-nikolas-ferreira-sobre-audios-com-daniel-vorcaro.ghtml)_
 
+- **[2026-09-03 17:27 UTC]** Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/nikolas-ferreira-confirma-pedido-a-daniel-vorcaro-em-favor-de-ex-assessor-e-diz-que-nao-houve-irregularidade.ghtml)_
+
