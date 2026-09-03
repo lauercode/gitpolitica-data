@@ -569,3 +569,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 19:44 UTC]** Lula fala com Fachin sobre crise no STF, se distancia de Moraes e define discurso do 'ninguém acima da lei'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-fala-com-fachin-sobre-crise-no-stf-se-distancia-de-moraes-e-define-discurso-do-ninguem-acima-da-lei.shtml)_
 
+- **[2026-09-02 19:41 UTC]** Alcolumbre cita dinheiro para 'Dark Horse' para responder à pressão por impeachment de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-cita-dinheiro-para-dark-horse-para-responder-a-pressao-por-impeachment-de-moraes.shtml)_
+
