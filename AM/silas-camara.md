@@ -446,3 +446,7 @@ Diretor
 - **[2026-09-02 22:23 UTC]** Presidente da Câmara comemora aprovação da Política Nacional de Minerais Críticos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302392-presidente-da-camara-comemora-aprovacao-da-politica-nacional-de-minerais-criticos)_
 
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
