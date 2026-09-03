@@ -500,3 +500,6 @@ Diretor
 - **[2026-09-03 19:55 UTC]** Câmara aprova MP que amplia programa para diminuir fila do INSS
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302682-camara-aprova-mp-que-amplia-programa-para-diminuir-fila-do-inss)_
 
+- **[2026-09-03 19:21 UTC]** Câmara aprova MP que acaba com a "taxa das blusinhas"; texto vai ao Senado
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302664-camara-aprova-mp-que-acaba-com-a-taxa-das-blusinhas-texto-vai-ao-senado)_
+
