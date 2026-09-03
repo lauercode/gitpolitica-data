@@ -128,3 +128,6 @@
 - **[2026-09-02 19:38 UTC]** Governistas pressionam por fim da 6x1, mas evitam ataques a Alcolumbre após retomada de relação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governistas-pressionam-por-fim-da-6x1-mas-evitam-ataques-a-alcolumbre-apos-retomada-de-relacao.shtml)_
 
+- **[2026-09-03 00:05 UTC]** Lei dá à Mesa do Senado, e não a Alcolumbre, poder sobre pedido de impeachment
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/lei-da-a-mesa-do-senado-e-nao-a-alcolumbre-poder-sobre-pedido-de-impeachment/)_
+
