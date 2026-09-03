@@ -119,3 +119,6 @@
 - **[2026-09-02 23:47 UTC]** Eleições 2026: Omar Aziz cumpre agenda em Brasília e promete concurso com cinco mil vagas para segurança pública
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-omar-aziz-cumpre-agenda-em-brasilia-e-promete-concurso-com-cinco-mil-vagas-para-seguranca-publica.ghtml)_
 
+- **[2026-09-03 10:55 UTC]** VÍDEO: Cataratas do Iguaçu registram vazão cinco vezes maior do que o normal
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/03/cataratas-do-iguacu-vazao.ghtml)_
+
