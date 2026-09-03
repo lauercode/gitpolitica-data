@@ -134,3 +134,6 @@
 - **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
 
+- **[2026-09-03 04:00 UTC]** Alcolumbre frustra governo Lula e deixa fim da 6x1 para depois do 1º turno da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/alcolumbre-frustra-governo-lula-e-deixa-fim-da-6x1-para-depois-do-1o-turno-da-eleicao.shtml)_
+
