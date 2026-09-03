@@ -155,3 +155,6 @@
 - **[2026-09-02 17:59 UTC]** Água invadiu túnel e precisei correr por 20 minutos, diz trabalhador nepalês que sobreviveu à enchente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/agua-invadiu-tunel-e-precisei-correr-por-20-minutos-diz-trabalhador-nepales-que-sobreviveu-a-enchente.shtml)_
 
+- **[2026-09-02 20:38 UTC]** Anvisa determina interdição de água mineral sem gás da marca Vitoriosa
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/anvisa-determina-interdicao-da-agua-mineral-sem-gas-da-marca-vitoriosa)_
+
