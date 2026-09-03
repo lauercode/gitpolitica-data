@@ -44,3 +44,6 @@
 - **[2026-09-02 23:30 UTC]** Discord terá 10 dias úteis para apresentar proposta ao governo sobre proteção de usuários
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/discord-tera-10-dias-uteis-para-apresentar-proposta-ao-governo-sobre-protecao-de-usuarios.ghtml)_
 
+- **[2026-09-02 20:00 UTC]** Casas Bahia pede proteção contra corte de mais contratos essenciais e cita ameaça de fornecedores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/casas-bahia-pede-protecao-contra-corte-de-mais-contratos-essenciais-e-cita-ameaca-de-fornecedores.shtml)_
+
