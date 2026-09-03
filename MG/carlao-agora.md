@@ -80,3 +80,6 @@
 - **[2026-09-02 18:14 UTC]** Escala 6x1: o que acontece agora? O que muda para empresas e trabalhadores? Entenda
   _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/escala-6x1-o-que-acontece-agora-o-que-muda-entenda.ghtml)_
 
+- **[2026-09-02 22:43 UTC]** Alcolumbre diz que pedido de 'R$ 130 milhões' para filme é esquecido: 'Agora o culpado só é o Moraes'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/alcolumbre-diz-que-tem-sofrido-agressoes-e-r-130-milhoes-de-filme-sao-esquecidos-agora-o-culpado-sou-eu-e-o-ministro-moraes.ghtml)_
+
