@@ -152,3 +152,6 @@
 - **[2026-09-03 08:05 UTC]** Frente fria leva chuva ao Centro-Oeste e parte do Norte do país
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/frente-fria-leva-chuva-ao-centro-oeste-e-parte-do-norte-do-pais)_
 
+- **[2026-09-03 08:45 UTC]** UFMG terá primeiro centro de competência em terapias e vacinas com RNA
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/ufmg-tera-primeiro-centro-de-competencia-em-terapias-e-vacinas-com-rna)_
+
