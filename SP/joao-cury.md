@@ -161,3 +161,6 @@
 - **[2026-09-03 03:01 UTC]** Cury avança, Lula e Flávio empatam no 2º turno: 10 pontos da nova Quaest
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/10-pontos-da-nova-pesquisa-quaest.ghtml)_
 
+- **[2026-09-03 06:00 UTC]** Mesmo com avanço de Cury nas pesquisas, adversários evitam partir para o enfrentamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mesmo-com-avanco-de-cury-nas-pesquisas-adversarios-evitam-partir-para-o-enfrentamento.shtml)_
+
