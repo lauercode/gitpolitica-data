@@ -146,3 +146,6 @@
 - **[2026-09-03 21:06 UTC]** Fim da 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/fim-da-6x1-alcolumbre-indica-que-proposta-que-reduz-jornada-de-trabalho-sera-votada-apos-as-eleicoes.ghtml)_
 
+- **[2026-09-03 22:04 UTC]** Sob pressão por Moraes, Alcolumbre reclama de ataques de colegas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sob-pressao-alcolumbre-diz-que-colegas-o-atacam-para-ganhar-voto/)_
+
