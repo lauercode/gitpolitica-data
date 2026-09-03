@@ -11,3 +11,6 @@
 - **[2026-09-03 14:39 UTC]** Nikolas Ferreira nega relação de proximidade com Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-ferreira-nega-relacao-proximidade-vorcaro/)_
 
+- **[2026-09-03 19:24 UTC]** 'Conversas irrelevantes', diz Nikolas Ferreira sobre áudios com Daniel Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/conversas-irrelevantes-diz-nikolas-ferreira-sobre-audios-com-daniel-vorcaro.ghtml)_
+
