@@ -20,3 +20,6 @@
 - **[2026-09-02 21:38 UTC]** Flamengo vence jogo atrasado e cola no Palmeiras na ponta do Brasileiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-vence-jogo-atrasado-e-cola-no-palmeiras-na-ponta-do-brasileiro.shtml)_
 
+- **[2026-09-03 11:56 UTC]** Flamengo cola de vez no Palmeiras e coloca fogo no Brasileirão; veja a situação de cada time
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-cola-de-vez-no-palmeiras-e-coloca-fogo-no-brasileirao-veja-a-situacao-de-cada-time.shtml)_
+
