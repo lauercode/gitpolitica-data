@@ -74,3 +74,6 @@
 - **[2026-09-02 20:59 UTC]** Governistas pedem que Fachin retire sigilo do caso Dark Horse e avalie suspeição de Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governistas-pedem-a-fachin-fim-do-sigilo-de-caso-dark-horse-e-criticam-mendonca/)_
 
+- **[2026-09-03 13:20 UTC]** PGR envia ao STF proposta de delação premiada de empresário que fez repasses ao filme 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/pgr-envia-ao-stf-proposta-de-delacao-premiada-de-empresario-que-fez-repasses-ao-filme-dark-horse.ghtml)_
+
