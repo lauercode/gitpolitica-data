@@ -17,3 +17,6 @@
 - **[2026-09-02 22:03 UTC]** Flamengo vence e fica a um ponto do Palmeiras, líder do Brasileirão
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flamengo-vence-e-fica-um-ponto-do-palmeiras-lider-do-brasileirao)_
 
+- **[2026-09-02 21:38 UTC]** Flamengo vence jogo atrasado e cola no Palmeiras na ponta do Brasileiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-vence-jogo-atrasado-e-cola-no-palmeiras-na-ponta-do-brasileiro.shtml)_
+
