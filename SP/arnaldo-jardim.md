@@ -35,3 +35,6 @@
 - **[2026-08-27 12:27 UTC]** Redes de água e energia elétrica chegam a mais ruas do Jardim Israelense
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/municipio-de-araucaria/araucaria-noticias/noticia/2026/08/27/redes-de-agua-e-energia-eletrica-chegam-a-mais-ruas-do-jardim-israelense.ghtml)_
 
+- **[2026-09-03 16:07 UTC]** Com quantas plantas se faz um jardim? Leitora reflete sobre relação de cuidado com flor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/praca-do-leitor/2026/09/com-quantas-plantas-se-faz-um-jardim-leitora-reflete-sobre-relacao-de-cuidado-com-flor.shtml)_
+
