@@ -137,3 +137,6 @@
 - **[2026-09-03 09:00 UTC]** Associações médicas dos EUA publicam recomendações de vacinas ante ofensiva de Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/associacoes-medicas-dos-eua-publicam-recomendacoes-de-vacinas-ante-ofensiva-de-trump.shtml)_
 
+- **[2026-09-03 12:32 UTC]** Trump tenta baixar preço da carne e desagrada pecuaristas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-tenta-baixar-preco-da-carne-e-desagrada-pecuaristas.shtml)_
+
