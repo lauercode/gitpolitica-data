@@ -47,3 +47,6 @@
 - **[2026-08-27 14:08 UTC]** Pais são presos suspeitos de vender bebê de 5 meses por R$ 15 mil e entregá-lo no Paraguai
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/27/pais-sao-presos-suspeitos-de-vender-bebe.ghtml)_
 
+- **[2026-09-03 12:48 UTC]** Correr com carrinho é mais seguro para pais, indica estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/maternar/2026/09/correr-com-carrinho-e-mais-seguro-para-pais-indica-estudo.shtml)_
+
