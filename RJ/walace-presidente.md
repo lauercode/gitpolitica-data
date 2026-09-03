@@ -326,3 +326,6 @@
 - **[2026-09-03 19:01 UTC]** Futura Inteligência divulga pesquisa para presidente; veja os números
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/futura-inteligencia-presidente-setembro-2026/)_
 
+- **[2026-09-03 22:20 UTC]** Datafolha: 71% estão totalmente decididos sobre voto para presidente, e 28% ainda podem mudar; veja números por candidato
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/datafolha-decisao-de-voto-presidente-3-setembro.ghtml)_
+
