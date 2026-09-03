@@ -44,3 +44,6 @@
 - **[2026-09-01 19:24 UTC]** Roberto de Carvalho diz que novo amor não apaga dor pela morte de Rita Lee
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/09/roberto-de-carvalho-diz-que-novo-amor-nao-apaga-dor-pela-morte-de-rita-lee.shtml)_
 
+- **[2026-09-03 02:23 UTC]** Eleições 2026: Roberto Cidade realiza comício na Zona Oeste de Manaus e promete ampliar ações de inteligência
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-roberto-cidade-realiza-comicio-na-zona-oeste-de-manaus-e-promete-ampliar-acoes-de-inteligencia.ghtml)_
+
