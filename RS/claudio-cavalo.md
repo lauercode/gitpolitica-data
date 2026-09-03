@@ -17,3 +17,6 @@
 - **[2026-09-02 21:01 UTC]** Veja o momento em que cavalo desgovernado é controlado por menina de 12 anos no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/veja-o-momento-em-que-cavalo-desgovernado-e-controlado-por-menina-de-12-anos-no-rs.ghtml)_
 
+- **[2026-09-03 14:30 UTC]** 'Cavalo Selvagem Nove', com John Malkovich, estreia em Veneza mirando o Oscar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/cavalo-selvagem-nove-com-john-malkovich-estreia-em-veneza-mirando-o-oscar.shtml)_
+
