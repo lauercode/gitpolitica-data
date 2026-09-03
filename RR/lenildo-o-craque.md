@@ -11,3 +11,6 @@
 - **[2026-09-03 07:01 UTC]** 'Neymar, amo o Corinthians, mas sou seu fã': torcedor mirim do Timão é hostilizado após ganhar camisa do craque
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/torcedor-mirim-do-corinthians-hostilizado-apos-ganhar-camisa-jogador.ghtml)_
 
+- **[2026-09-03 07:01 UTC]** 'Neymar, amo o Corinthians, mas sou seu fã': torcedor mirim é hostilizado e deixa estádio escoltado após ganhar camisa do craque
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/torcedor-mirim-do-corinthians-hostilizado-apos-ganhar-camisa-jogador.ghtml)_
+
