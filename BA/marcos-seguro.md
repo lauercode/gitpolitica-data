@@ -17,3 +17,6 @@
 - **[2026-08-30 13:52 UTC]** 'Quero que o seguro agrícola avance': Zema comenta questões do setor em feira do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/30/zema-feira-agro-do-rs.ghtml)_
 
+- **[2026-09-03 12:48 UTC]** Correr com carrinho é mais seguro para pais, indica estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/maternar/2026/09/correr-com-carrinho-e-mais-seguro-para-pais-indica-estudo.shtml)_
+
