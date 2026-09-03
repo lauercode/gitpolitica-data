@@ -35,3 +35,6 @@
 - **[2026-09-02 18:54 UTC]** Homem é preso por suspeita de tentar matar dois irmãos durante festa em Tuntum
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/homem-e-preso-por-suspeita-de-tentar-matar-dois-irmaos-durante-festa-em-tuntum.ghtml)_
 
+- **[2026-09-03 14:07 UTC]** 'Por Você': Peixe afirma a Bela que ele e seus irmãos não ficarão por muito tempo em seu prédio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/08/10/6557-por-voce-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466790)_
+
