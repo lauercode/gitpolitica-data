@@ -23,3 +23,6 @@
 - **[2026-09-03 12:11 UTC]** Gilmar propõe a Fachin vetar delegados da PF em gabinetes do STF após crise entre Mendonça e Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-propoe-a-fachin-vetar-delegados-da-pf-em-gabinetes-do-stf-apos-crise-entre-mendonca-e-moraes.shtml)_
 
+- **[2026-09-03 19:38 UTC]** Gilmar propõe a Fachin proibir delegados da PF como funcionários de gabinetes de ministros do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/03/gilmar-propoe-a-fachin-proibir-delegados-da-pf-como-funcionarios-de-gabinetes-de-ministros-do-stf.ghtml)_
+
