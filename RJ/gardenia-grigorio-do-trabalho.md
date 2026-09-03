@@ -176,3 +176,6 @@
 - **[2026-09-03 13:01 UTC]** Como Gloria Steinem impulsionou debates sobre aborto, trabalho e violência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/como-gloria-steinem-impulsionou-debates-sobre-aborto-trabalho-e-violencia.shtml)_
 
+- **[2026-09-03 16:23 UTC]** Fachin vota por ampliar Justiça do Trabalho gratuita e Gilmar Mendes quer limitar; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fachin-vota-por-ampliar-justica-do-trabalho-gratuita-e-gilmar-mendes-quer-limitar.shtml)_
+
