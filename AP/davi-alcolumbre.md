@@ -131,3 +131,6 @@
 - **[2026-09-03 00:05 UTC]** Lei dá à Mesa do Senado, e não a Alcolumbre, poder sobre pedido de impeachment
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/lei-da-a-mesa-do-senado-e-nao-a-alcolumbre-poder-sobre-pedido-de-impeachment/)_
 
+- **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
+
