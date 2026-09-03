@@ -77,3 +77,6 @@
 - **[2026-09-02 04:00 UTC]** Desigualdade de renda entre servidores supera a observada no Brasil, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/desigualdade-de-renda-entre-servidores-supera-a-observada-no-brasil-diz-estudo.shtml)_
 
+- **[2026-09-03 15:06 UTC]** Polícia prende no Ceará suspeito de invadir sistema de órgão de AL e cobrar servidores indevidamente
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/03/policia-prende-no-ceara-suspeito-de-invadir-sistema-de-orgao-de-al-e-cobrar-servidores-indevidamente.ghtml)_
+
