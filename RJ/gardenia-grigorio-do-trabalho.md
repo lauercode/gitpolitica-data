@@ -182,3 +182,6 @@
 - **[2026-09-03 19:22 UTC]** Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-03 21:06 UTC]** Fim da 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/fim-da-6x1-alcolumbre-indica-que-proposta-que-reduz-jornada-de-trabalho-sera-votada-apos-as-eleicoes.ghtml)_
+
