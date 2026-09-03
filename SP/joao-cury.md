@@ -173,3 +173,6 @@
 - **[2026-09-03 15:25 UTC]** Em evento na Assembleia de Deus, Cury nega ter pedido votos e diz já ser próximo de evangélicos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-evento-na-assembleia-de-deus-cury-nega-ter-pedido-votos-e-diz-ja-ser-proximo-de-evangelicos.shtml)_
 
+- **[2026-09-03 22:02 UTC]** Datafolha, 1º turno: Lula, 38%; Flávio Bolsonaro, 33%; Cury, 8%; Caiado, 4%; Renan, 3%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-presidente-3-setembro.ghtml)_
+
