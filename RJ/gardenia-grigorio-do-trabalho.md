@@ -179,3 +179,6 @@
 - **[2026-09-03 16:23 UTC]** Fachin vota por ampliar Justiça do Trabalho gratuita e Gilmar Mendes quer limitar; entenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fachin-vota-por-ampliar-justica-do-trabalho-gratuita-e-gilmar-mendes-quer-limitar.shtml)_
 
+- **[2026-09-03 19:22 UTC]** Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss)_
+
