@@ -17,3 +17,6 @@
 - **[2026-09-03 17:27 UTC]** Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/nikolas-ferreira-confirma-pedido-a-daniel-vorcaro-em-favor-de-ex-assessor-e-diz-que-nao-houve-irregularidade.ghtml)_
 
+- **[2026-09-03 18:40 UTC]** Nikolas Ferreira descarta intimidade com empresário acusado de fraude
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-ferreira-descarta-intimidade-com-empresario-acusado-de-fraude/)_
+
