@@ -20,3 +20,6 @@
 - **[2026-09-01 11:03 UTC]** Miss Cosmo: Paranaense vence estreia do concurso no Brasil e vai para mundial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/miss-cosmo-paranaense-vence-estreia-do-concurso-no-brasil-e-vai-para-mundial.shtml)_
 
+- **[2026-09-03 13:14 UTC]** Miss morre aos 42 anos em SC e filho revela um dos últimos pedidos dela: 'Toquei no piano do hospital'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/miss-morre-42-anos-sc-filho-revela-um-dos-ultimos-pedidos.ghtml)_
+
