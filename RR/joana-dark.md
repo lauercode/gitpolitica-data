@@ -71,3 +71,6 @@
 - **[2026-09-03 03:14 UTC]** Vorcaro diz que proposta de delação se resume a pessoas do 'atual governo', sem citar financiamento de 'Dark Horse' e envolvimento com políticos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/03/vorcaro-diz-que-proposta-de-delacao-se-resume-a-pessoas-do-atual-governo-sem-citar-financiamento-de-dark-horse-e-envolvimento-com-politicos.ghtml)_
 
+- **[2026-09-02 20:59 UTC]** Governistas pedem que Fachin retire sigilo do caso Dark Horse e avalie suspeição de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governistas-pedem-a-fachin-fim-do-sigilo-de-caso-dark-horse-e-criticam-mendonca/)_
+
