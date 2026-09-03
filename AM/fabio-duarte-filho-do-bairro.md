@@ -50,3 +50,6 @@
 - **[2026-09-02 22:16 UTC]** Incêndio atinge área de mata em terreno no bairro Aurora, em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/incendio-atinge-area-de-mata-em-terreno-no-bairro-aurora-em-sao-luis.ghtml)_
 
+- **[2026-09-03 17:30 UTC]** Lei desmembra Nova Descoberta e cria novo bairro na Zona Sul de Natal; entenda
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/lei-desmembra-nova-descoberta-e-cria-novo-bairro-na-zona-sul-de-natal-entenda.ghtml)_
+
