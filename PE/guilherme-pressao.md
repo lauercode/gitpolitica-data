@@ -71,3 +71,6 @@
 - **[2026-09-03 11:15 UTC]** Líder comunitária de 38 anos morre após choque elétrico com lavadora de alta pressão em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/lider-comunitaria-morre-choque-eletrico-lavadora-alta-pressao-sc.ghtml)_
 
+- **[2026-09-03 20:12 UTC]** Vorcaro diz que sofreu pressão para não delatar diretor da PF e membros do governo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-diz-que-sofreu-pressao-para-nao-delatar-diretor-da-pf-e-membros-do-governo/)_
+
