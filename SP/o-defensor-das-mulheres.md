@@ -125,3 +125,6 @@
 - **[2026-09-03 15:37 UTC]** Nova lei assegura check-up anual para mulheres no SUS
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302495-nova-lei-assegura-check-up-anual-para-mulheres-no-sus)_
 
+- **[2026-09-03 13:00 UTC]** 'As Troianas' vira metáfora nos palcos para dor das mulheres na ditadura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/as-troianas-vira-metafora-nos-palcos-para-dor-das-mulheres-na-ditadura.shtml)_
+
