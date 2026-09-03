@@ -122,3 +122,6 @@
 - **[2026-09-03 02:23 UTC]** Eleições 2026: Roberto Cidade realiza comício na Zona Oeste de Manaus e promete ampliar ações de inteligência
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-roberto-cidade-realiza-comicio-na-zona-oeste-de-manaus-e-promete-ampliar-acoes-de-inteligencia.ghtml)_
 
+- **[2026-09-03 12:38 UTC]** Governo Federal autoriza verba de R$ 174 mil para cidade afetada por chuvas, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/governo-federal-autoriza-verba-de-r-174-mil-para-cidade-afetada-por-chuvas-na-pb.ghtml)_
+
