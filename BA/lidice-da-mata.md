@@ -83,3 +83,6 @@
 - **[2026-09-02 22:16 UTC]** Incêndio atinge área de mata em terreno no bairro Aurora, em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/incendio-atinge-area-de-mata-em-terreno-no-bairro-aurora-em-sao-luis.ghtml)_
 
+- **[2026-09-03 08:03 UTC]** VÍDEO: Onça invade propriedade, ataca dois cães e mata um deles no interior do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/video-onca-invade-propriedade-ataca-dois-caes-e-mata-um-deles-no-interior-do-am.ghtml)_
+
