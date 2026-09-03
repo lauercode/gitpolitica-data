@@ -35,3 +35,6 @@
 - **[2026-09-02 17:28 UTC]** Vorcaro prestou depoimento a Mendonça sem a presença da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-prestou-depoimento-mendonca-sem-presenca-pf/)_
 
+- **[2026-09-02 20:17 UTC]** Mendonça confirma que Vorcaro foi ouvido sem a presença da PF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/mendonca-confirma-que-vorcaro-foi-ouvido-sem-presenca-da-pf)_
+
