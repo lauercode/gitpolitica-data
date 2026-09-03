@@ -800,3 +800,6 @@
 - **[2026-09-03 13:10 UTC]** Para blindar Moraes, Alcolumbre manda recado para Flávio em tom de ameaça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/03/para-blindar-moraes-alcolumbre-manda-recado-para-flavio-em-tom-de-ameaca.ghtml)_
 
+- **[2026-09-03 10:37 UTC]** Lula busca desgastar Flávio Bolsonaro e diz que oposição tentou travar fim da 6x1 na CCJ do Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-busca-desgastar-flavio-bolsonaro-e-diz-que-oposicao-tentou-travar-fim-da-6x1-na-ccj-do-senado.shtml)_
+
