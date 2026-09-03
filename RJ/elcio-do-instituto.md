@@ -50,3 +50,6 @@
 - **[2026-09-03 08:46 UTC]** Mendonça decide deixar sociedade em instituto privado que virou alvo de questionamentos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mendonca-decide-deixar-sociedade-em-instituto-privado-que.shtml)_
 
+- **[2026-09-03 12:48 UTC]** Mendonça diz que deixará sociedade no Instituto Iter
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-que-deixara-sociedade-no-instituto-iter)_
+
