@@ -353,3 +353,6 @@
 - **[2026-09-02 18:39 UTC]** Justiça condena seis por plano de atentado a bomba do PCC descoberto em presídio federal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-condena-seis-por-plano-de-atentado-a-bomba-do-pcc-descoberto-em-presidio-federal.shtml)_
 
+- **[2026-09-03 03:01 UTC]** Eleições 2026: O que faz um deputado federal?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-o-que-faz-um-deputado-federal.ghtml)_
+
