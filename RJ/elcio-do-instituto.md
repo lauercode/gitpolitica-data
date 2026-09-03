@@ -47,3 +47,6 @@
 - **[2026-09-03 12:32 UTC]** André Mendonça deixa sociedade em instituto privado e diz que nunca teve lucro com a entidade
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/andre-mendonca-deixa-sociedade-em-instituto-privado-e-diz-que-entidade-sera-transformada-em-organizacao-sem-fins-lucrativos.ghtml)_
 
+- **[2026-09-03 08:46 UTC]** Mendonça decide deixar sociedade em instituto privado que virou alvo de questionamentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mendonca-decide-deixar-sociedade-em-instituto-privado-que.shtml)_
+
