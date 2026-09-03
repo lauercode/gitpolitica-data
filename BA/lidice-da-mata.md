@@ -80,3 +80,6 @@
 - **[2026-09-01 23:47 UTC]** Suspeito de estuprar e esfaquear diarista já foi preso por crimes semelhantes em área de mata
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/suspeito-de-estuprar-e-esfaquear-diarista-ja-foi-preso-por-crimes-semelhantes-em-area-de-mata.ghtml)_
 
+- **[2026-09-02 22:16 UTC]** Incêndio atinge área de mata em terreno no bairro Aurora, em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/incendio-atinge-area-de-mata-em-terreno-no-bairro-aurora-em-sao-luis.ghtml)_
+
