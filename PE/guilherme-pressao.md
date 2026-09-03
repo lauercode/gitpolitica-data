@@ -68,3 +68,6 @@
 - **[2026-09-03 09:30 UTC]** Crise migratória em Ceuta provoca atos em várias cidades da Espanha e amplia pressão sobre Sánchez
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/crise-migratoria-em-ceuta-provoca-atos-em-varias-cidades-da-espanha-e-amplia-pressao-sobre-sanchez.shtml)_
 
+- **[2026-09-03 11:15 UTC]** Líder comunitária de 38 anos morre após choque elétrico com lavadora de alta pressão em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/lider-comunitaria-morre-choque-eletrico-lavadora-alta-pressao-sc.ghtml)_
+
