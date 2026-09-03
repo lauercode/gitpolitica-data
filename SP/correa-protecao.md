@@ -41,3 +41,6 @@
 - **[2026-09-02 20:22 UTC]** Discord terá dez dias para apresentar proposta de proteção a usuários
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/discord-tera-dez-dias-para-apresentar-proposta-de-protecao-usuarios)_
 
+- **[2026-09-02 23:30 UTC]** Discord terá 10 dias úteis para apresentar proposta ao governo sobre proteção de usuários
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/discord-tera-10-dias-uteis-para-apresentar-proposta-ao-governo-sobre-protecao-de-usuarios.ghtml)_
+
