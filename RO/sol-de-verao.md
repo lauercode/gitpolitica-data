@@ -17,3 +17,6 @@
 - **[2026-09-02 03:00 UTC]** Aeroporto de Florianópolis terá voo direto para Assunção, no Paraguai, no verão; veja o que se sabe
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/aeroporto-de-florianopolis-tera-voo-direto-para-assuncao-no-paraguai-no-verao-veja-o-que-se-sabe.ghtml)_
 
+- **[2026-09-03 10:00 UTC]** Calor extremo no verão francês antecipa colheita de uvas em Champanhe
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/09/calor-extremo-no-verao-frances-antecipa-colheita-de-uvas-em-champanhe.shtml)_
+
