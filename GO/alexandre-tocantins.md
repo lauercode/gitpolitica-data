@@ -80,3 +80,6 @@
 - **[2026-09-02 22:46 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quarta-feira (2)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quarta-feira-2.ghtml)_
 
+- **[2026-09-03 09:01 UTC]** Plano de Governo: Witer Naves propõe fusão de secretarias e reorganização administrativa para o Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-witer-naves-propoe-fusao-de-secretarias-e-reorganizacao-administrativa-para-o-tocantins.ghtml)_
+
