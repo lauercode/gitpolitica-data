@@ -317,3 +317,6 @@
 - **[2026-09-02 21:47 UTC]** Toffoli libera propaganda digital do candidato a presidente Grassi
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/toffoli-libera-propaganda-digital-do-candidato-presidente-grassi)_
 
+- **[2026-09-03 08:40 UTC]** Após Quaest, Cury se firma em 3º lugar e Lula e Flávio aparecem empatados no 2º turno: como está a intenção de voto para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
