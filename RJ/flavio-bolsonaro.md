@@ -665,3 +665,6 @@
 - **[2026-09-03 19:08 UTC]** Lula culpa Flávio Bolsonaro por atraso na votação do fim da escala 6×1 no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-culpa-flavio-bolsonaro-atraso-votacao-fim-escala-6x1-senado/)_
 
+- **[2026-09-03 22:14 UTC]** Datafolha: 47% rejeitam Flávio Bolsonaro, e 45%, Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-rejeicao-candidatos-3-setembro.ghtml)_
+
