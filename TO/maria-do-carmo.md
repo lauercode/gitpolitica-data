@@ -23,3 +23,6 @@
 - **[2026-09-02 02:45 UTC]** Eleições 2026: Professora Maria do Carmo visita feira na Zona Oeste de Manaus e defende educação em tempo integral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-professora-maria-do-carmo-visita-feira-na-zona-oeste-de-manaus-e-defende-educacao-em-tempo-integral.ghtml)_
 
+- **[2026-09-02 23:56 UTC]** Eleições 2026: Professora Maria do Carmo participa de entrevista e promete construir via interligando Ponta Negra a Zona Sul de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-professora-maria-do-carmo-participa-de-entrevista-e-promete-construir-via-interligando-ponta-negra-a-zona-sul-de-manaus.ghtml)_
+
