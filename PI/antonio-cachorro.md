@@ -38,3 +38,6 @@
 - **[2026-09-02 08:15 UTC]** Rafa Kalimann lamenta morte de cachorro da família: 'Virou estrelinha'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rafa-kalimann-lamenta-morte-de-cachorro-da-familia-virou-estrelinha.shtml)_
 
+- **[2026-09-03 15:08 UTC]** Morte de cachorro em Canindé de São Francisco é investigada
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/03/morte-de-cachorro-em-caninde-de-sao-francisco-e-investigada.ghtml)_
+
