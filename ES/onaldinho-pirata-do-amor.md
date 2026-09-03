@@ -41,3 +41,6 @@
 - **[2026-09-03 14:01 UTC]** 'A Nobreza do Amor': Jendal é levado para o palácio, e Kênia ajuda o pai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/03/13/6442-a-nobreza-do-amor-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466788)_
 
+- **[2026-09-03 21:14 UTC]** 'Golpe do amor': polícia procura ex-namorado suspeito de extorquir R$ 27 mil e levar carro de vítima em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/golpe-amor-policia-procura-ex-namorado-extorquir-levar-carro-vitima.ghtml)_
+
