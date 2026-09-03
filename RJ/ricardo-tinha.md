@@ -29,3 +29,6 @@
 - **[2026-08-31 14:56 UTC]** Homem morto na frente da esposa e filhos tinha desentendimento anterior com suspeito, diz polícia
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/homem-morto-na-frente-da-esposa-e-filhos-tinha-desentendimento-anterior-com-suspeito-diz-policia.ghtml)_
 
+- **[2026-09-03 11:55 UTC]** Adolescente suspeito de matar estudante no MA tinha caderno com desenhos nazistas, diz polícia
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/adolescente-suspeito-de-matar-estudante-no-ma-tinha-caderno-com-desenhos-nazistas-diz-policia.ghtml)_
+
