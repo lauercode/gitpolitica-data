@@ -71,3 +71,6 @@
 - **[2026-09-03 07:12 UTC]** Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-palmeiras-avancam-e-se-enfrentam-na-semi-da-copa-do-brasil)_
 
+- **[2026-09-03 15:51 UTC]** Fora do US Open e sob mistério, João Fonseca confirma que vai jogar a Copa Davis no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/fora-do-us-open-e-sob-misterio-joao-fonseca-confirma-que-vai-jogar-a-copa-davis-no-rio.shtml)_
+
