@@ -578,3 +578,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 23:55 UTC]** Embate histórico de Mendonça e Moraes pode definir rumos da República
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/embate-historico-de-mendonca-e-moraes-pode-definir-rumos-da-republica/)_
 
+- **[2026-09-02 23:51 UTC]** Celular atribuído a Moraes aparece no TikTok com usuário “Xandao”, diz site
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/celular-atribuido-a-moraes-aparece-no-tiktok-com-usuario-xandao-diz-bbc/)_
+
