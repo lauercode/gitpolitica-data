@@ -782,3 +782,6 @@
 - **[2026-09-02 20:55 UTC]** Campanha de Lula quer distância de Moraes e aponta crise do STF na direção de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/campanha-de-lula-quer-distancia-de-moraes-e-aponta-crise-no-stf-na-direcao-de-flavio/)_
 
+- **[2026-09-02 23:01 UTC]** Pacote de decisões de Nunes Marques censura críticas ao PT e mantém associação de Flávio a Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pacote-de-decisoes-de-nunes-marques-censura-criticas-ao-pt-e-mantem-associacao-de-flavio-a-vorcaro/)_
+
