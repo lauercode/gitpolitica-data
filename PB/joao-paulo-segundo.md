@@ -182,3 +182,6 @@
 - **[2026-09-03 04:00 UTC]** 85% das notas fiscais estão adaptadas à reforma tributária, segundo a Receita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/85-das-notas-fiscais-estao-adaptadas-a-reforma-tributaria-segundo-a-receita.shtml)_
 
+- **[2026-08-10 18:14 UTC]** 'Fino', dinheiro e coragem: como apps exploram 'provas de masculinidade' dos entregadores, segundo sociólogo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cd0mx921jyeo?at_medium=RSS&at_campaign=rss)_
+
