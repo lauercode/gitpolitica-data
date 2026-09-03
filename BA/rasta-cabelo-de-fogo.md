@@ -62,3 +62,6 @@
 - **[2026-09-02 18:55 UTC]** Homem rouba moto, bate em carro durante fuga e fica ferido após veículo pegar fogo em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/02/suspeito-rouba-moto-bate-em-carro-durante-fuga-e-fica-ferido-apos-veiculo-pegar-fogo-em-natal.ghtml)_
 
+- **[2026-09-03 11:56 UTC]** Flamengo cola de vez no Palmeiras e coloca fogo no Brasileirão; veja a situação de cada time
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-cola-de-vez-no-palmeiras-e-coloca-fogo-no-brasileirao-veja-a-situacao-de-cada-time.shtml)_
+
