@@ -119,3 +119,6 @@
 - **[2026-09-03 17:48 UTC]** OAB-PR defende afastamento de Moraes e suspeição de Gonet; nota será enviada a Fachin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-pr-defende-afastamento-de-moraes-e-suspeicao-de-gonet/)_
 
+- **[2026-09-03 18:05 UTC]** Obra de reconstrução da ponte do Estreito dos Mosquitos terá início no dia 10; tráfego será restrito no feriado
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/obra-de-reconstrucao-da-ponte-do-estreito-dos-mosquitos-tera-inicio-no-dia-10-trafego-sera-restrito-no-feriado.ghtml)_
+
