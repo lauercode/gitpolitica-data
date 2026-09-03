@@ -179,3 +179,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 00:12 UTC]** O que Moraes já disse sobre as mensagens de Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-moraes-ja-disse-sobre-as-mensagens-de-vorcaro/)_
 
+- **[2026-09-02 23:07 UTC]** Gilmar Mendes visitou Lula no dia em que Mendonça tirou sigilo de mensagens para Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-visitou-lula-no-dia-em-que-mendonca-tirou-sigilo-de-mensagens-para-moraes/)_
+
