@@ -53,3 +53,6 @@
 - **[2026-09-03 09:01 UTC]** Plano de governo: Vicentinho Júnior propõe investimento industrial, integração regional e proteção às mulheres
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-vicentinho-junior-propoe-investimento-industrial-integracao-regional-e-protecao-as-mulheres.ghtml)_
 
+- **[2026-09-03 09:12 UTC]** Justiça dá 10 dias para Discord criar plano de proteção a menores
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/discord-tem-10-dias-para-apresentar-plano-de-protecao-justica)_
+
