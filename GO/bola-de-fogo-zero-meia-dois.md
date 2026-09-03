@@ -218,3 +218,6 @@
 - **[2026-09-02 21:23 UTC]** Lua de mel em Foz do Iguaçu: um roteiro para começar a vida a dois
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/visit-iguassu/visite-foz-do-iguacu/noticia/2026/09/02/lua-de-mel-em-foz-do-iguacu-um-roteiro-para-comecar-a-vida-a-dois.ghtml)_
 
+- **[2026-09-03 02:00 UTC]** Relação Moraes e Vorcaro: veja os possíveis caminhos no STF do relatório que revelou diálogos entre os dois
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/relacao-moraes-e-vorcaro-veja-os-possiveis-caminhos-no-stf-do-relatorio-que-revelou-dialogos-entre-os-dois.ghtml)_
+
