@@ -38,3 +38,6 @@
 - **[2026-09-02 15:14 UTC]** Como escândalo entre Moraes e Vorcaro ameaça futuro do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-escandalo-entre-moraes-e-vorcaro-ameaca-futuro-do-stf/)_
 
+- **[2026-09-03 12:53 UTC]** Lei do Combustível do Futuro impulsiona investimentos, avaliam debatedores
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302402-lei-do-combustivel-do-futuro-impulsiona-investimentos-avaliam-debatedores)_
+
