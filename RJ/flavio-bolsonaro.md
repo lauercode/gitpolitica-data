@@ -680,3 +680,6 @@
 - **[2026-09-03 19:05 UTC]** Datafolha: Lula tem 38% e Flávio Bolsonaro, 33% no 1º turno; Cury vai a 8%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-38-e-flavio-bolsonaro-33-no-1o-turno-cury-vai-a-8.shtml)_
 
+- **[2026-09-03 21:47 UTC]** Justiça proíbe Hélio de usar sobrenome Bolsonaro na disputa ao Senado em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/justica-proibe-helio-de-usar-sobrenome-bolsonaro-na-disputa-ao-senado-em-roraima.ghtml)_
+
