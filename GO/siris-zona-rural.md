@@ -38,3 +38,6 @@
 - **[2026-09-02 19:19 UTC]** Homem é morto a tiros na zona rural de São Francisco do Guaporé, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/02/homem-e-morto-a-tiros-na-zona-rural-de-sao-francisco-do-guapore-ro.ghtml)_
 
+- **[2026-09-03 14:10 UTC]** Alambique roubado de engenho é encontrado dentro de carro abandonado na zona rural de Ceará-Mirim
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/alambique-roubado-de-engenho-e-encontrado-dentro-de-carro-abandonado-na-zona-rural-de-ceara-mirim.ghtml)_
+
