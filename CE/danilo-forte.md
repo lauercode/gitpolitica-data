@@ -74,3 +74,6 @@
 - **[2026-09-01 15:30 UTC]** É forte, mas submissa, diz Rayssa Bratillieri sobre Salma, de 'A Nobreza do Amor'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/e-forte-mas-submissa-diz-rayssa-bratillieri-sobre-salma-de-a-nobreza-do-amor.shtml)_
 
+- **[2026-09-02 20:03 UTC]** Probabilidade de o El Niño ser muito forte neste trimestre é de 90%
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/probabilidade-de-o-el-nino-ser-muito-forte-neste-trimestre-e-de-90)_
+
