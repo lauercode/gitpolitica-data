@@ -645,3 +645,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 11:07 UTC]** Senador da base de Lula assina pedido de impeachment contra Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-da-base-de-lula-assina-pedido-de-impeachment-contra-alexandre-de-moraes/)_
 
+- **[2026-09-03 11:33 UTC]** Caso Vorcaro-Moraes pode alimentar onda antipolítica e favorecer Cury e Renan Santos nas eleições 2026, diz cientista política
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn5d2grd55zo?at_medium=RSS&at_campaign=rss)_
+
