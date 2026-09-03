@@ -86,3 +86,6 @@
 - **[2026-09-03 08:03 UTC]** VÍDEO: Onça invade propriedade, ataca dois cães e mata um deles no interior do AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/video-onca-invade-propriedade-ataca-dois-caes-e-mata-um-deles-no-interior-do-am.ghtml)_
 
+- **[2026-09-03 13:09 UTC]** Após fuga pela mata, suspeito é preso por arremessar drogas em drone para presídio no AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/03/apos-fuga-pela-mata-suspeito-e-preso-por-arremessar-drogas-em-drone-para-presidio-no-ap.ghtml)_
+
