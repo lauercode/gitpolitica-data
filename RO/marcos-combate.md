@@ -62,3 +62,6 @@
 - **[2026-09-03 08:17 UTC]** Procurador defende asfixia financeira no combate ao crime organizado
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/procurador-defende-asfixia-financeira-no-combate-ao-crime-organizado)_
 
+- **[2026-09-03 18:28 UTC]** PRF inicia Operação Independência com foco no combate à embriaguez ao volante nas rodovias
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/prf-inicia-operacao-independencia-com-foco-no-combate-a-embriaguez-ao-volante-nas-rodovias.ghtml)_
+
