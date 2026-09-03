@@ -683,3 +683,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 17:48 UTC]** OAB-PR defende afastamento de Moraes e suspeição de Gonet; nota será enviada a Fachin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-pr-defende-afastamento-de-moraes-e-suspeicao-de-gonet/)_
 
+- **[2026-09-03 17:17 UTC]** Mendonça fala em honrar confiança do povo no Judiciário em meio a crise com Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-fala-em-honrar-confianca-do-povo-no-judiciario-em-meio-a-crise-com-moraes.shtml)_
+
