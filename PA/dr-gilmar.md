@@ -26,3 +26,6 @@
 - **[2026-09-03 19:38 UTC]** Gilmar propõe a Fachin proibir delegados da PF como funcionários de gabinetes de ministros do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/03/gilmar-propoe-a-fachin-proibir-delegados-da-pf-como-funcionarios-de-gabinetes-de-ministros-do-stf.ghtml)_
 
+- **[2026-09-03 16:23 UTC]** Fachin vota por ampliar Justiça do Trabalho gratuita e Gilmar Mendes quer limitar; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fachin-vota-por-ampliar-justica-do-trabalho-gratuita-e-gilmar-mendes-quer-limitar.shtml)_
+
