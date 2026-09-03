@@ -29,3 +29,6 @@
 - **[2026-09-01 14:49 UTC]** Mendonça defende código de conduta para magistrados: 'Forma de preservar relação de confiança'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mendonca-defende-codigo-de-conduta-para-magistrados-forma-de-preservar-relacao-de-confianca.ghtml)_
 
+- **[2026-09-03 04:00 UTC]** Superempregados e cargos de confiança poderão trabalhar mais de 40 horas após fim da 6x1; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/superempregados-e-cargos-de-confianca-poderao-trabalhar-mais-de-40-horas-apos-fim-da-6x1-entenda.shtml)_
+
