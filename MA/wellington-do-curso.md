@@ -53,3 +53,6 @@
 - **[2026-09-02 23:00 UTC]** Alex Atala terá curso de gastronomia na CasaFolha; Ana Claudia Quintana Arantes faz live
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alex-atala-tera-curso-de-gastronomia-na-casafolha-ana-claudia-quintana-arantes-faz-live.shtml)_
 
+- **[2026-09-03 11:00 UTC]** Ufac prevê 1ª turma de Farmácia para 2028; VEJA vagas, forma de ingresso e estrutura do curso
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/ufac-preve-1a-turma-de-farmacia-para-2028-veja-vagas-forma-de-ingresso-e-estrutura-do-curso.ghtml)_
+
