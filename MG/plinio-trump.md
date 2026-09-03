@@ -143,3 +143,6 @@
 - **[2026-09-03 12:32 UTC]** Trump tenta baixar preço da carne e desagrada a pecuaristas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-tenta-baixar-preco-da-carne-e-desagrada-pecuaristas.shtml)_
 
+- **[2026-09-03 19:24 UTC]** Não sei, pergunte aos iranianos, diz vice de Trump sobre fim da guerra no Irã
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/nao-sei-pergunte-aos-iranianos-diz-vice-de-trump-sobre-fim-da-guerra-no-ira.shtml)_
+
