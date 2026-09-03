@@ -512,3 +512,7 @@ Diretor
 - **[2026-09-03 19:56 UTC]** Câmara aprova MP do fim da taxa das blusinhas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/camara-aprova-mp-do-fim-da-taxa-das-blusinhas/)_
 
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
