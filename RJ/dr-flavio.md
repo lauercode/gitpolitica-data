@@ -812,3 +812,6 @@
 - **[2026-09-03 14:18 UTC]** Lula cobra votação da PEC do fim da 6x1 no Senado e culpa oposição liderada por Flávio por atraso
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/lula-cobra-votacao-de-pec-do-fim-da-escala-6x1-no-senado-e-culpa-oposicao-liderada-por-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-03 11:58 UTC]** Flávio Bolsonaro usa crise de Moraes para tentar impulsionar ato de 7 de Setembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-usa-crise-com-moraes-para-tentar-impulsionar-ato-de-7-de-setembro.shtml)_
+
