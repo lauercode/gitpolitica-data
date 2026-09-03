@@ -11,3 +11,6 @@
 - **[2017-08-25 22:18 UTC]** Vídeo feito em maio mostra passageiros de lancha em pânico após água entrar em embarcação na Bahia
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/video-feito-em-maio-mostra-passageiros-de-lancha-em-panico-apos-agua-entrar-em-embarcacao-na-bahia.ghtml)_
 
+- **[2026-09-03 11:20 UTC]** Vereador morre após ser arremessado de lancha que bateu em banco de areia no Rio Solimões
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/vereador-de-alvaraes-morre-apos-lancha-bater-em-banco-de-areia-no-rio-solimoes.ghtml)_
+
