@@ -26,3 +26,6 @@
 - **[2026-09-02 21:06 UTC]** Iphan impõe regras para resgate arqueológico e diz que obra de estação no Bixiga pode continuar em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/iphan-impoe-regras-para-resgate-arqueologico-e-diz-que-obra-de-estacao-no-bixiga-pode-continuar-em-sp.shtml)_
 
+- **[2026-09-03 06:00 UTC]** Famílias resistem a deixar favela demolida para obra de estação do metrô de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/familias-resistem-a-deixar-favela-demolida-para-obra-de-estacao-do-metro-de-sao-paulo.shtml)_
+
