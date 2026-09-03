@@ -32,3 +32,6 @@
 - **[2026-09-01 18:14 UTC]** Prefeito de Granito, no sertão de Pernambuco, é acusado de violência doméstica por ex-mulher
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/prefeito-de-granito-no-sertao-de-pernambuco-e-acusado-de-violencia-domestica-por-ex-mulher.shtml)_
 
+- **[2026-09-03 15:20 UTC]** Veja o que é #FATO e o que é #FAKE no debate de candidatos ao Senado por Pernambuco no g1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/03/veja-o-que-e-fato-e-o-que-e-fake-no-debate-de-candidatos-ao-senado-por-pernambuco-no-g1.ghtml)_
+
