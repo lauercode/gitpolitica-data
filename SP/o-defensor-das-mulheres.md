@@ -122,3 +122,6 @@
 - **[2026-09-03 09:01 UTC]** Plano de governo: Vicentinho Júnior propõe investimento industrial, integração regional e proteção às mulheres
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-vicentinho-junior-propoe-investimento-industrial-integracao-regional-e-protecao-as-mulheres.ghtml)_
 
+- **[2026-09-03 15:37 UTC]** Nova lei assegura check-up anual para mulheres no SUS
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302495-nova-lei-assegura-check-up-anual-para-mulheres-no-sus)_
+
