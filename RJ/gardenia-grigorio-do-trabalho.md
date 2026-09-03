@@ -173,3 +173,6 @@
 - **[2026-09-03 04:00 UTC]** As melhores, piores e mais estranhas formas de usar IA no trabalho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/as-melhores-piores-e-mais-estranhas-formas-de-usar-ia-no-trabalho.shtml)_
 
+- **[2026-09-03 13:01 UTC]** Como Gloria Steinem impulsionou debates sobre aborto, trabalho e violência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/como-gloria-steinem-impulsionou-debates-sobre-aborto-trabalho-e-violencia.shtml)_
+
