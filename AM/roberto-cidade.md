@@ -131,3 +131,6 @@
 - **[2026-09-02 20:48 UTC]** Pattaya, a 'cidade do pecado' da Tailândia onde milhares de militares americanos desembarcaram após 8 meses em alto mar
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-03 14:15 UTC]** Pattaya, a 'cidade do pecado' onde 5.000 militares americanos desembarcaram após oito meses em alto mar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/pattaya-a-cidade-do-pecado-onde-5-mil-militares-americanos-desembarcaram-apos-oito-meses-em-alto-mar.shtml)_
+
