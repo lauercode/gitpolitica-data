@@ -71,3 +71,6 @@
 - **[2026-08-31 22:47 UTC]** Câmara aprova criação de 51 cargos no Tribunal Regional do Trabalho em Fortaleza
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301465-camara-aprova-criacao-de-51-cargos-no-tribunal-regional-do-trabalho-em-fortaleza)_
 
+- **[2026-09-03 09:24 UTC]** Leilão de novo terminal em porto de Fortaleza é liberado pelo TCU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/leilao-de-novo-terminal-em-porto-de-fortaleza-e-liberado-pelo-tcu.shtml)_
+
