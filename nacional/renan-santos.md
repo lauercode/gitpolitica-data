@@ -191,3 +191,6 @@
 - **[2026-09-03 11:33 UTC]** Caso Vorcaro-Moraes pode alimentar onda antipolítica e favorecer Cury e Renan Santos nas eleições 2026, diz cientista política
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn5d2grd55zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-03 13:45 UTC]** 'Decisões de Moraes não devem ser reconhecidas pelo Estado', diz Renan Santos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/renan-santos-entrevista.ghtml)_
+
