@@ -23,3 +23,6 @@
 - **[2026-09-02 09:17 UTC]** Rota Cultural Caminhos do Frio 2026 chega ao fim com programação em Alagoa Nova a partir desta quarta (2)
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/rota-cultural-caminhos-do-frio-2026-chega-ao-fim-com-programacao-em-alagoa-nova-a-partir-desta-quarta-2.ghtml)_
 
+- **[2026-09-03 05:00 UTC]** Feriado de 7 de Setembro deve ser frio e chuvoso em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/feriado-de-7-de-setembro-deve-ser-frio-e-chuvoso-em-sao-paulo.shtml)_
+
