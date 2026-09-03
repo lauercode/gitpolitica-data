@@ -230,3 +230,6 @@
 - **[2026-09-03 15:01 UTC]** Dois homens roubam armas, R$ 10 mil e objetos em transportadora de Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/dois-homens-roubam-armas-r-10-mil-e-objetos-em-transportadora-de-boa-vista.ghtml)_
 
+- **[2026-09-03 22:09 UTC]** Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1j4xxn88d5o?at_medium=RSS&at_campaign=rss)_
+
