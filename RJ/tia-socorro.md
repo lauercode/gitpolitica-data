@@ -29,3 +29,6 @@
 - **[2026-09-02 15:20 UTC]** Polícia investiga agressões entre profissional da saúde e acompanhante de paciente em pronto-socorro de Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/policia-investiga-agressoes-entre-profissional-da-saude-e-acompanhante-de-paciente-em-pronto-socorro-de-belem.ghtml)_
 
+- **[2026-09-03 09:00 UTC]** Condutor é indiciado por omissão de socorro em acidente que matou motociclista no AC
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
+
