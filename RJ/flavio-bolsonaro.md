@@ -650,3 +650,6 @@
 - **[2026-09-03 10:37 UTC]** Lula busca desgastar Flávio Bolsonaro e diz que oposição tentou travar fim da 6x1 na CCJ do Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-busca-desgastar-flavio-bolsonaro-e-diz-que-oposicao-tentou-travar-fim-da-6x1-na-ccj-do-senado.shtml)_
 
+- **[2026-09-03 10:00 UTC]** Voto em Flávio Bolsonaro expressa ideia perdida de nação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bernardo-carvalho/2026/09/voto-em-flavio-bolsonaro-expressa-ideia-perdida-de-nacao.shtml)_
+
