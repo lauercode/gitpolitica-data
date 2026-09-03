@@ -356,3 +356,6 @@
 - **[2026-09-03 03:01 UTC]** Eleições 2026: O que faz um deputado federal?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-o-que-faz-um-deputado-federal.ghtml)_
 
+- **[2026-09-03 07:50 UTC]** Eleições: entenda o papel dos deputados federal e estadual
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/eleicoes-entenda-o-papel-dos-deputados-federal-e-estadual)_
+
