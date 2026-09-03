@@ -308,3 +308,6 @@
 - **[2026-09-02 17:51 UTC]** Todos os Filhos do Presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/09/todos-os-filhos-do-presidente.shtml)_
 
+- **[2026-09-02 20:53 UTC]** Veja como foi a quarta-feira (2) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-2-dos-candidatos-presidente)_
+
