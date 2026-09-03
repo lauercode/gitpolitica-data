@@ -44,3 +44,6 @@
 - **[2026-09-02 17:34 UTC]** Ex-dono da Reag fecha acordo de delação premiada com a PGR com foco em Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ex-dono-da-reag-fecha-acordo-de-delacao-premiada-com-a-pgr-com-foco-em-vorcaro.shtml)_
 
+- **[2026-09-02 19:30 UTC]** Ex-dono da Reag reuniu filhos para contar sobre delação e disse que tentaria preservá-los
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/ex-dono-da-reag-reuniu-filhos-para-contar-sobre-delacao-e-disse-que-tentaria-preserva-los.shtml)_
+
