@@ -609,3 +609,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
 
+- **[2026-09-03 01:00 UTC]** Mensagens de ex-banqueiro sugerem crimes de Moraes e Gonet em relatório da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-de-ex-banqueiro-sugerem-crimes-de-moraes-e-gonet-em-relatorio-da-pf/)_
+
