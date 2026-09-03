@@ -212,3 +212,6 @@
 - **[2026-09-03 14:17 UTC]** 'Quem Ama Cuida': Pedro se preocupa com a condicional de Adriana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466791)_
 
+- **[2026-09-03 11:27 UTC]** Quem é Mauricio Quadrado, da Trustee, e qual a relação do empresário com o Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/quem-e-mauricio-quadrado-da-trustee-e-qual-a-relacao-do-empresario-com-o-master.shtml)_
+
