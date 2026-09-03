@@ -191,3 +191,6 @@
 - **[2026-09-02 21:51 UTC]** Sauins-de-coleira, espécie ameaçada de extinção, são levados de Manaus para projeto de preservação no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/sauins-de-coleira-especie-ameacada-de-extincao-sao-levados-de-manaus-para-projeto-de-preservacao-no-para.ghtml)_
 
+- **[2026-09-02 22:34 UTC]** Projeto amplia transparência sobre presentes e benefícios recebidos por agentes públicos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299906-projeto-amplia-transparencia-sobre-presentes-e-beneficios-recebidos-por-agentes-publicos)_
+
