@@ -17,3 +17,6 @@
 - **[2026-09-02 20:33 UTC]** Projeto define culpa temerária no Código Penal para punir negligência extrema
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299538-projeto-define-culpa-temeraria-no-codigo-penal-para-punir-negligencia-extrema)_
 
+- **[2026-09-03 16:33 UTC]** Vitória ou derrota da extrema direita em eleição no fim de semana preocupa polícia da Alemanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/vitoria-ou-derrota-da-afd-no-fim-de-semana-preocupa-policia-alema.shtml)_
+
