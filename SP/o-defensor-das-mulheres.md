@@ -116,3 +116,6 @@
 - **[2026-09-02 16:19 UTC]** MP promove capacitação com agentes de segurança sobre atendimento a mulheres vítimas de violência em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/02/mp-promove-capacitacao-com-agentes-de-seguranca-sobre-atendimento-a-mulheres-vitimas-de-violencia-em-roraima.ghtml)_
 
+- **[2026-09-02 23:09 UTC]** Novas tecnologias facilitam atendimento a mulheres vítimas de violência
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302374-novas-tecnologias-facilitam-atendimento-a-mulheres-vitimas-de-violencia)_
+
