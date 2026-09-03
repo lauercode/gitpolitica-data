@@ -173,3 +173,6 @@
 - **[2026-09-03 19:04 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de quinta-feira, 3 de setembro de 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/03/videos-jornal-do-almoco-florianopolis-de-quinta-feira-3-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-03 18:18 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de quinta-feira, 03 de setembro de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-quinta-feira-03-de-setembro-de-2026.ghtml)_
+
