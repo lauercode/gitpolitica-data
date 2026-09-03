@@ -143,3 +143,6 @@
 - **[2026-09-03 11:40 UTC]** Alcolumbre frustra planos de Lula e adia votação do fim da 6×1
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-frustra-planos-de-lula-e-adia-votacao-do-fim-da-6x1/)_
 
+- **[2026-09-03 21:06 UTC]** Fim da 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/fim-da-6x1-alcolumbre-indica-que-proposta-que-reduz-jornada-de-trabalho-sera-votada-apos-as-eleicoes.ghtml)_
+
