@@ -210,3 +210,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 08:00 UTC]** Se não der em nada, vamos para a rua, diz fundador da Petz após mensagens de Vorcaro a Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/se-nao-der-em-nada-vamos-para-a-rua-diz-fundador-da-petz-apos-mensagens-de-vorcaro-a-moraes.shtml)_
 
+- **[2026-09-03 12:38 UTC]** Mensagens mostram conversas entre Daniel Vorcaro e Nikolas Ferreira
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/mensagens-mostram-conversas-entre-daniel-vorcaro-e-nikolas-ferreira)_
+
