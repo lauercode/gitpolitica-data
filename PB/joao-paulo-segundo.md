@@ -176,3 +176,6 @@
 - **[2026-09-02 17:14 UTC]** Viagens, jato e helicóptero: o que Vorcaro ofereceu a Alexandre de Moraes, segundo PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/viagens-jato-e-helicoptero-o-que-vorcaro-ofereceu-a-alexandre-de-moraes-segundo-pf.shtml)_
 
+- **[2026-09-03 00:01 UTC]** SP e RJ têm a pior percepção de melhoria da educação em 4 anos, segundo pesquisa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/sp-e-rj-tem-a-pior-percepcao-de-melhoria-da-educacao-em-4-anos-segundo-pesquisa.shtml)_
+
