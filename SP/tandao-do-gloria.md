@@ -8,3 +8,6 @@
 - **[2026-09-01 17:36 UTC]** Gloria Groove diz que relação aberta a fez amadurecer: 'Ia sair uma pamonha'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/gloria-groove-diz-que-relacao-aberta-a-fez-amadurecer-ia-sair-uma-pamonha.shtml)_
 
+- **[2026-09-03 19:22 UTC]** Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss)_
+
