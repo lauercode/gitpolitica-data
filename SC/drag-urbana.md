@@ -11,3 +11,6 @@
 - **[2026-08-31 15:45 UTC]** Alan Rick promete melhorias em mobilidade urbana durante caminhada no Segundo Distrito de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/alan-rick-promete-melhorias-em-mobilidade-urbana-durante-caminhada-no-segundo-distrito-de-rio-branco.ghtml)_
 
+- **[2026-09-03 19:38 UTC]** Allyson Bezerra destaca propostas para mobilidade urbana em Natal e Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/03/allyson-bezerra-destaca-propostas-para-mobilidade-urbana-em-natal-e-mossoro.ghtml)_
+
