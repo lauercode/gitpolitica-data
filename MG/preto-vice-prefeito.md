@@ -56,3 +56,6 @@
 - **[2026-09-03 13:22 UTC]** Suspeito de envolvimento no assalto à casa do prefeito de Boqueirão, na PB, é preso
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/suspeito-de-assalto-a-casa-de-prefeito-de-boqueirao-na-pb-e-preso.ghtml)_
 
+- **[2026-09-03 15:28 UTC]** Suspeito de mandar matar filho de ex-prefeito de Itabi é preso
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/03/suspeito-de-mandar-matar-filho-de-ex-prefeito-de-itabi-e-preso-em-nossa-senhora-da-gloria.ghtml)_
+
