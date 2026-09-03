@@ -224,3 +224,6 @@
 - **[2026-09-03 16:37 UTC]** Mortes: Nordestina fazia da casa no Tatuapé abrigo para quem chegasse
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-nordestina-fazia-da-casa-no-tatuape-abrigo-para-quem-chegasse.shtml)_
 
+- **[2026-09-03 15:02 UTC]** Veja quem chamou Daniel Vorcaro de 'irmão' e quem foi chamado da mesma forma pelo ex-banqueiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-quem-chamou-daniel-vorcaro-de-irmao-e-quem-foi-chamado-da-mesma-forma-pelo-ex-banqueiro.shtml)_
+
