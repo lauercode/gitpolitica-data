@@ -8,3 +8,6 @@
 - **[2026-09-03 04:00 UTC]** Companhias aéreas barram embarque de medicamentos de Cannabis dos EUA para o Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/companhias-aereas-barram-embarque-de-medicamentos-de-cannabis-dos-eua-para-o-brasil.shtml)_
 
+- **[2026-09-03 15:39 UTC]** Osmar Terra critica lobby da cannabis e cobra Congresso após caso envolvendo Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/osmar-terra-critica-lobby-cannabis-cobra-congresso-caso-envolvendo-lulinha/)_
+
