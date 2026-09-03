@@ -20,3 +20,6 @@
 - **[2026-09-03 18:40 UTC]** Nikolas Ferreira descarta intimidade com empresário acusado de fraude
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-ferreira-descarta-intimidade-com-empresario-acusado-de-fraude/)_
 
+- **[2026-09-03 19:16 UTC]** Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zvgr7pr1o?at_medium=RSS&at_campaign=rss)_
+
