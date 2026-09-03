@@ -17,3 +17,6 @@
 - **[2018-07-23 13:49 UTC]** Filho estupra mãe na frente da irmã mais nova em Águas Belas, PE
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/2018/07/23/filho-estupra-mae-na-frente-da-irma-mais-nova-em-aguas-belas-pe.ghtml)_
 
+- **[2026-09-03 13:41 UTC]** 'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2q5nl0pg3o?at_medium=RSS&at_campaign=rss)_
+
