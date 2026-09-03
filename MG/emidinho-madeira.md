@@ -26,3 +26,6 @@
 - **[2026-09-01 13:59 UTC]** VÍDEO: incêndio destrói casa de madeira na Zona Norte de Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/01/video-incendio-destroi-casa-de-madeira-na-zona-norte-de-macapa.ghtml)_
 
+- **[2026-09-03 19:35 UTC]** PF destrói 15 dragas durante operação contra garimpo ilegal no rio Madeira em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/03/pf-destroi-15-dragas-durante-operacao-contra-garimpo-ilegal-no-rio-madeira-em-ro.ghtml)_
+
