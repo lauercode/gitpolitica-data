@@ -35,3 +35,6 @@
 - **[2026-08-27 22:19 UTC]** Quaest para o Senado no ES: Casagrande, 28%; Meneguelli, 10%; Contarato, 9%; Rose de Freitas, 9%
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/08/27/quaest-espirito-santo-senado-27-agosto.ghtml)_
 
+- **[2026-09-03 18:57 UTC]** Datafolha: Ciro Gomes lidera com 46% no Ceará, ante 37% de Elmano de Freitas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-ciro-gomes-lidera-com-46-no-ceara-ante-37-de-elmano-de-freitas.shtml)_
+
