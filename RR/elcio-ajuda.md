@@ -59,3 +59,6 @@
 - **[2026-09-03 12:46 UTC]** Em áudio, Nikolas pede ajuda a Vorcaro para liberar ativo de minério
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/em-audio-nikolas-pede-ajuda-vorcaro-para-liberar-ativo-de-minerio)_
 
+- **[2026-09-03 19:16 UTC]** Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zvgr7pr1o?at_medium=RSS&at_campaign=rss)_
+
