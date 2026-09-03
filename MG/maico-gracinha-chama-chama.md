@@ -38,3 +38,6 @@
 - **[2026-09-02 11:47 UTC]** Imprensa internacional chama escândalo envolvendo Moraes de “bomba atômica”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/imprensa-internacional-chama-escandalo-envolvendo-moraes-bomba-atomica/)_
 
+- **[2026-09-03 07:00 UTC]** A crise dos sete anos tem um cronômetro, e ele se chama Saturno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/a-crise-dos-sete-anos-tem-um-cronometro-e-ele-se-chama-saturno.shtml)_
+
