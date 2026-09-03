@@ -80,3 +80,6 @@
 - **[2026-09-03 19:10 UTC]** Fortaleza recebe oitava edição do Fenacce a partir desta sexta-feira
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/fortaleza-recebe-oitava-edicao-do-fenacce-partir-desta-sexta-feira)_
 
+- **[2026-09-03 17:32 UTC]** Palco Brasil: Festival reúne grandes nomes da MPB em Fortaleza
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/palco-brasil-festival-reune-grandes-nomes-da-mpb-em-fortaleza)_
+
