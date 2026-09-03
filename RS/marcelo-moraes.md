@@ -626,3 +626,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 05:00 UTC]** Podcast discute primeiras reações e impactos de crise das mensagens entre Vorcaro e Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-discute-primeiras-reacoes-e-impactos-de-crise-das-mensagens-entre-vorcaro-e-moraes.shtml)_
 
+- **[2026-09-03 09:00 UTC]** Senado vai se levantar contra Moraes? Pauta governista avança no Congresso
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/bom-dia/senado-moraes-pauta-governista-avanca/)_
+
