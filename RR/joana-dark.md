@@ -65,3 +65,6 @@
 - **[2026-09-02 20:59 UTC]** Governistas pedem a Fachin fim do sigilo de caso Dark Horse e criticam Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governistas-pedem-a-fachin-fim-do-sigilo-de-caso-dark-horse-e-criticam-mendonca/)_
 
+- **[2026-09-02 19:41 UTC]** Alcolumbre cita dinheiro para 'Dark Horse' para responder à pressão por impeachment de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-cita-dinheiro-para-dark-horse-para-responder-a-pressao-por-impeachment-de-moraes.shtml)_
+
