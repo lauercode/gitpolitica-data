@@ -686,3 +686,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 17:17 UTC]** Mendonça fala em honrar confiança do povo no Judiciário em meio a crise com Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-fala-em-honrar-confianca-do-povo-no-judiciario-em-meio-a-crise-com-moraes.shtml)_
 
+- **[2026-09-03 22:04 UTC]** Sob pressão por Moraes, Alcolumbre reclama de ataques de colegas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sob-pressao-alcolumbre-diz-que-colegas-o-atacam-para-ganhar-voto/)_
+
