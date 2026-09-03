@@ -314,3 +314,6 @@
 - **[2026-09-02 22:23 UTC]** Presidente da Câmara comemora aprovação da Política Nacional de Minerais Críticos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302392-presidente-da-camara-comemora-aprovacao-da-politica-nacional-de-minerais-criticos)_
 
+- **[2026-09-02 21:47 UTC]** Toffoli libera propaganda digital do candidato a presidente Grassi
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/toffoli-libera-propaganda-digital-do-candidato-presidente-grassi)_
+
