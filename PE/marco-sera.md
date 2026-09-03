@@ -122,3 +122,6 @@
 - **[2026-09-03 18:05 UTC]** Obra de reconstrução da ponte do Estreito dos Mosquitos terá início no dia 10; tráfego será restrito no feriado
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/obra-de-reconstrucao-da-ponte-do-estreito-dos-mosquitos-tera-inicio-no-dia-10-trafego-sera-restrito-no-feriado.ghtml)_
 
+- **[2026-09-03 21:10 UTC]** Operador de Vorcaro que fez repasses ao 'Dark Horse' será ouvido pelo gabinete de Mendonça na próxima terça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/03/delator-master-stf.ghtml)_
+
