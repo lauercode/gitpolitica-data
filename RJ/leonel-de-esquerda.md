@@ -32,3 +32,6 @@
 - **[2026-09-02 14:57 UTC]** Quaest: 60% não veem Flávio Bolsonaro como melhor candidato da direita; 46% não consideram Lula melhor nome da esquerda
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-melhor-candidato-flavio-bolsonaro-lula-2-setembro.ghtml)_
 
+- **[2026-09-03 04:00 UTC]** 'Socialista champagne' é a nova esperança da esquerda para eleição na França
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/socialista-champagne-e-a-nova-esperanca-da-esquerda-para-eleicao-na-franca.shtml)_
+
