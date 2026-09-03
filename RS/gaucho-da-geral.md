@@ -35,3 +35,6 @@
 - **[2026-09-03 15:10 UTC]** Mercadante sai em defesa de diretor-geral da PF e diz que questionamentos são inaceitáveis
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mercadante-sai-em-defesa-de-diretor-geral-da-pf-e-diz-que-questionamentos-sao-inaceitaveis.shtml)_
 
+- **[2026-09-03 18:15 UTC]** Andrei Rodrigues: conheça o diretor-geral da PF alvo de suspeitas no caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-rodrigues-conheca-o-diretor-geral-da-pf-alvo-de-suspeitas-no-caso-master/)_
+
