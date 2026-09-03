@@ -119,3 +119,6 @@
 - **[2026-09-02 17:45 UTC]** Oposição cobra Alcolumbre e diz querer investigação individualizada de autoridades para preservar instituições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/oposicao-cobra-alcolumbre-e-diz-querer-investigacao-individualizada-de-autoridades-para-preservar-instituicoes.ghtml)_
 
+- **[2026-09-02 22:43 UTC]** Alcolumbre diz que pedido de 'R$ 130 milhões' para filme é esquecido: 'Agora o culpado só é o Moraes'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/alcolumbre-diz-que-tem-sofrido-agressoes-e-r-130-milhoes-de-filme-sao-esquecidos-agora-o-culpado-sou-eu-e-o-ministro-moraes.ghtml)_
+
