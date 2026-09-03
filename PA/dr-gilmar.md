@@ -29,3 +29,6 @@
 - **[2026-09-03 16:23 UTC]** Fachin vota por ampliar Justiça do Trabalho gratuita e Gilmar Mendes quer limitar; entenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fachin-vota-por-ampliar-justica-do-trabalho-gratuita-e-gilmar-mendes-quer-limitar.shtml)_
 
+- **[2026-09-03 21:54 UTC]** Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-sugere-a-fachin-vetar-delegados-da-pf-em-gabinetes-do-stf/)_
+
