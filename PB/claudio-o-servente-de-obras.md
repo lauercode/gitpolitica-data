@@ -68,3 +68,6 @@
 - **[2026-09-03 07:01 UTC]** Obras em rodovia no Amapá revelam antigo cemitério indígena com urnas e ossos de até mil anos
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/03/obras-em-rodovia-no-amapa-revelam-antigo-cemiterio-indigena-com-urnas-e-ossos-de-ate-mil-anos.ghtml)_
 
+- **[2026-09-03 18:27 UTC]** Consórcio suspende obras de restaurante no Trianon após Promotoria questionar corte de árvores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/consorcio-suspende-obras-de-restaurante-no-trianon-apos-promotoria-questionar-corte-de-arvores.shtml)_
+
