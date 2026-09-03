@@ -32,3 +32,6 @@
 - **[2026-09-01 23:37 UTC]** Câmara aprova Plano Nacional de Cultura, que prevê financiamento descentralizado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/camara-aprova-plano-nacional-de-cultura-que-preve-financiamento-descentralizado.shtml)_
 
+- **[2026-09-02 20:00 UTC]** RJ: Cultura nos Territórios abre inscrições para 260 oficinas
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/rj-cultura-nos-territorios-abre-inscricoes-para-260-oficinas)_
+
