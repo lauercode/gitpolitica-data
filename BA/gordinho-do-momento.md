@@ -47,3 +47,6 @@
 - **[2026-09-02 21:42 UTC]** Casal morto a tiros dentro de casa em SC estava dormindo no momento do crime, diz polícia
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/casal-morto-tiros-casa-sc-dormindo-crime-diz-policia.ghtml)_
 
+- **[2026-09-03 18:43 UTC]** VÍDEO mostra momento do acidente que matou músico Diego Sanches a caminho de show em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/video-acidente-morte-musico-porto-alegre.ghtml)_
+
