@@ -68,3 +68,6 @@
 - **[2026-09-02 13:10 UTC]** 'Taxa das blusinhas': comissão analisa relatório para acabar com imposto; Motta convoca sessão para votar MP nesta quarta
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/fim-da-taxa-das-blusinhas-comissao-comeca-analise-de-relatorio.ghtml)_
 
+- **[2026-09-03 21:11 UTC]** Taxa das blusinhas: calculadora do g1 mostra quanto você pagaria com ou sem o imposto
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/03/calculadora-do-g1-taxa-das-blusinhas.ghtml)_
+
