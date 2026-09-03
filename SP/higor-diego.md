@@ -14,3 +14,6 @@
 - **[2026-09-03 17:23 UTC]** Polícia investiga acidente que matou músico Diego Sanches a caminho de show em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/policia-investiga-acidente-que-matou-musico-a-caminho-de-show-em-porto-alegre.ghtml)_
 
+- **[2026-09-03 21:14 UTC]** O que se sabe sobre acidente que matou músico Diego Sanches a caminho de show em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/o-que-se-sabe-sobre-acidente-que-matou-musico-diego-sanches-a-caminho-de-show-em-porto-alegre.ghtml)_
+
