@@ -86,3 +86,6 @@
 - **[2026-09-03 13:22 UTC]** Ventos fortes derrubam tendas e árvores durante temporal em Colinas do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/ventos-fortes-derrubam-tendas-e-arvores-durante-temporal-em-colinas-do-tocantins.ghtml)_
 
+- **[2026-09-03 18:47 UTC]** Tribunal indefere registro da chapa do subtenente Luiz Carlos para disputar o governo do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/tribunal-indefere-registro-da-chapa-do-subtenente-luiz-carlos-para-disputa-ao-governo-do-tocantins.ghtml)_
+
