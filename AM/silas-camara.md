@@ -503,3 +503,6 @@ Diretor
 - **[2026-09-03 19:21 UTC]** Câmara aprova MP que acaba com a "taxa das blusinhas"; texto vai ao Senado
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302664-camara-aprova-mp-que-acaba-com-a-taxa-das-blusinhas-texto-vai-ao-senado)_
 
+- **[2026-09-03 18:59 UTC]** Câmara aprova fim da taxa das blusinhas; MP segue para o Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/camara-aprova-fim-da-taxa-das-blusinhas-mp-segue-para-o-senado.ghtml)_
+
