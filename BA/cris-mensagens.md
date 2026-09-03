@@ -213,3 +213,7 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 12:38 UTC]** Mensagens mostram conversas entre Daniel Vorcaro e Nikolas Ferreira
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/mensagens-mostram-conversas-entre-daniel-vorcaro-e-nikolas-ferreira)_
 
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
