@@ -128,3 +128,6 @@
 - **[2026-09-02 17:31 UTC]** Trump e Delcy afirmam que Venezuela ainda não está pronta para nova eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-e-delcy-afirmam-que-venezuela-ainda-nao-esta-pronta-para-nova-eleicao.shtml)_
 
+- **[2026-09-02 20:09 UTC]** Juíza nos EUA suspende novo decreto de Trump que restringe cidadania
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiza-nos-eua-suspende-novo-decreto-de-trump-que-restringe-cidadania.shtml)_
+
