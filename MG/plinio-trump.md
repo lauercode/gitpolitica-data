@@ -131,3 +131,6 @@
 - **[2026-09-02 20:09 UTC]** Juíza nos EUA suspende novo decreto de Trump que restringe cidadania
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiza-nos-eua-suspende-novo-decreto-de-trump-que-restringe-cidadania.shtml)_
 
+- **[2026-09-02 19:36 UTC]** Trump comemora saída de Harry e Meghan dos Estados Unidos: 'Eu não era fã'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/trump-comemora-saida-de-harry-e-meghan-dos-estados-unidos-eu-nao-era-fa.shtml)_
+
