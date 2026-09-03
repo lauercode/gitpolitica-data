@@ -77,3 +77,6 @@
 - **[2026-09-02 14:38 UTC]** Com vestido e salto alto, influenciadora do Tocantins faz embaixadinhas e viraliza; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/com-vestido-e-salto-alto-influenciadora-do-tocantins-faz-embaixadinhas-e-viraliza-video.ghtml)_
 
+- **[2026-09-02 22:46 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quarta-feira (2)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quarta-feira-2.ghtml)_
+
