@@ -20,3 +20,6 @@
 - **[2026-09-02 12:54 UTC]** Eleições 2026 no PR: Sandro Alex diz que vai abrir concurso público para forças de segurança
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-no-pr-agenda-sandro-alex-2-de-setembro.ghtml)_
 
+- **[2026-09-03 21:22 UTC]** Eleições 2026 no PR: Sandro Alex fala sobre preparar o estado para mudança de ICMS para IBS, aprovada na reforma tributária
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-no-pr-agenda-sandro-alex-3-setembro.ghtml)_
+
