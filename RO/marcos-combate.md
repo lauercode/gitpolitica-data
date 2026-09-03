@@ -59,3 +59,6 @@
 - **[2026-09-01 23:57 UTC]** Comissão aprova relatório que propõe criação de Agência Antimáfia e combate a prejuízo com pirataria
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301895-comissao-aprova-relatorio-que-propoe-criacao-de-agencia-antimafia-e-combate-a-prejuizo-com-pirataria)_
 
+- **[2026-09-03 08:17 UTC]** Procurador defende asfixia financeira no combate ao crime organizado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/procurador-defende-asfixia-financeira-no-combate-ao-crime-organizado)_
+
