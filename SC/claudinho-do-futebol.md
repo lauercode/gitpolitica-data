@@ -44,3 +44,6 @@
 - **[2026-09-02 16:44 UTC]** Veto a propaganda de bets avança no Senado e mira TV, futebol e influenciadores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/veto-a-propaganda-de-bets-avanca-no-senado-e-mira-tv-futebol-e-influenciadores.shtml)_
 
+- **[2026-09-02 19:47 UTC]** O futebol doente não aceita ser contrariado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcelo-bechler/2026/09/o-futebol-doente-nao-aceita-ser-contrariado.shtml)_
+
