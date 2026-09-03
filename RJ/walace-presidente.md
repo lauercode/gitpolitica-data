@@ -323,3 +323,6 @@
 - **[2026-09-03 10:37 UTC]** PoderData divulga pesquisa para presidente; veja os números
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/poderdata-presidente-setembro-2026/)_
 
+- **[2026-09-03 19:01 UTC]** Futura Inteligência divulga pesquisa para presidente; veja os números
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/futura-inteligencia-presidente-setembro-2026/)_
+
