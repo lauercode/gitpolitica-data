@@ -365,3 +365,6 @@
 - **[2026-09-03 21:43 UTC]** Equipe de campanha de ex-prefeito e candidato a deputado federal sofre acidente no Uiramutã
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/equipe-de-campanha-de-ex-prefeito-e-candidato-a-deputado-federal-sofre-acidente-no-uiramuta.ghtml)_
 
+- **[2026-09-03 22:22 UTC]** Eleições 2026: Fábio diz que pretende construir unidades habitacionais em parceria com o governo federal
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-fabio-diz-que-pretende-construir-unidades-habitacionais-em-parceria-com-o-governo-federal.ghtml)_
+
