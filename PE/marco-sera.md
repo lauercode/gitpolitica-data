@@ -116,3 +116,6 @@
 - **[2026-09-03 07:00 UTC]** Augusto Cury: será a vez do outsider terapêutico?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/augusto-cury-sera-a-vez-do-outsider-terapeutico.shtml)_
 
+- **[2026-09-03 17:48 UTC]** OAB-PR defende afastamento de Moraes e suspeição de Gonet; nota será enviada a Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-pr-defende-afastamento-de-moraes-e-suspeicao-de-gonet/)_
+
