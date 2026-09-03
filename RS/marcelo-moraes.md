@@ -629,3 +629,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 09:00 UTC]** Senado vai se levantar contra Moraes? Pauta governista avança no Congresso
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/bom-dia/senado-moraes-pauta-governista-avanca/)_
 
+- **[2026-09-03 07:38 UTC]** 'É a maior crise do STF': Gonet deveria se afastar do caso Master e Moraes precisa ser investigado, afirma ex-PGR Claudio Fonteles
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zgjg308ko?at_medium=RSS&at_campaign=rss)_
+
