@@ -53,3 +53,6 @@
 - **[2026-09-02 14:05 UTC]** Polícia Civil investiga assalto à casa de prefeito de Boqueirão, na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/policia-civil-investiga-assalto-a-casa-de-prefeito-de-boqueirao-na-paraiba.ghtml)_
 
+- **[2026-09-03 13:22 UTC]** Suspeito de envolvimento no assalto à casa do prefeito de Boqueirão, na PB, é preso
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/suspeito-de-assalto-a-casa-de-prefeito-de-boqueirao-na-pb-e-preso.ghtml)_
+
