@@ -953,3 +953,6 @@
 - **[2026-08-27 19:45 UTC]** PEC da 6×1 une interesses eleitorais de Lula e dos presidentes do Congresso
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/pec-da-6x1-une-interesses-eleitorais-de-lula-e-dos-presidentes-do-congresso/)_
 
+- **[2026-09-03 22:39 UTC]** Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
