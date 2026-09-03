@@ -275,3 +275,6 @@
 - **[2026-09-03 15:15 UTC]** Suspeito de degolar jovem no Acre foi condenado por assassinar esposa grávida em Roraima há 8 anos
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/ac/acre/noticia/2026/09/03/suspeito-de-matar-jovem-em-apartamento-no-ac-foi-condenado-por-assassinar-esposa-gravida-em-roraima.ghtml)_
 
+- **[2026-09-03 20:37 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 3 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-3-de-setembro-de-2026.ghtml)_
+
