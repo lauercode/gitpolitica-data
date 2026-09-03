@@ -14,3 +14,6 @@
 - **[2017-05-17 16:39 UTC]** Saiba como usar o e-mail para otimizar o seu negócio
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/saiba-como-usar-o-e-mail-para-otimizar-o-seu-negocio.html)_
 
+- **[2026-09-03 20:24 UTC]** O que é 'ativo minerário', negócio citado por Nikolas Ferreira a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/03/o-que-e-ativo-minerario-citado-por-nikolas-ferreira-a-vorcaro.ghtml)_
+
