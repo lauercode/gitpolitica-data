@@ -509,3 +509,6 @@ Diretor
 - **[2026-09-03 16:13 UTC]** Câmara aprova fim da taxa das blusinhas em vitória para Lula a quase 1 mês da eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fim-da-taxa-das-blusinhas-avanca-na-camara-em-vitoria-para-lula-a-quase-1-mes-da-eleicao.shtml)_
 
+- **[2026-09-03 19:56 UTC]** Câmara aprova MP do fim da taxa das blusinhas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/camara-aprova-mp-do-fim-da-taxa-das-blusinhas/)_
+
