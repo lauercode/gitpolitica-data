@@ -59,3 +59,6 @@
 - **[2026-09-01 06:01 UTC]** Capital paulista tem alerta para alagamentos na madrugada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/capital-paulista-tem-alerta-para-alagamentos-em-todas-as-regioes.shtml)_
 
+- **[2026-09-03 13:45 UTC]** Déficit comercial dos EUA cresce 24,4% em julho, com recorde nas importações de bens de capital
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/deficit-comercial-dos-eua-cresce-244-em-julho-com-recorde-nas-importacoes-de-bens-de-capital.shtml)_
+
