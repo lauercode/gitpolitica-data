@@ -65,3 +65,6 @@
 - **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
 
+- **[2026-09-03 09:30 UTC]** Crise migratória em Ceuta provoca atos em várias cidades da Espanha e amplia pressão sobre Sánchez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/crise-migratoria-em-ceuta-provoca-atos-em-varias-cidades-da-espanha-e-amplia-pressao-sobre-sanchez.shtml)_
+
