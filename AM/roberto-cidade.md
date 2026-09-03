@@ -116,3 +116,6 @@
 - **[2026-09-02 21:03 UTC]** Tornado é confirmado em cidade de SC que teve árvores arrancadas pela raiz
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/tornado-confirmado-campo-ere.ghtml)_
 
+- **[2026-09-02 23:00 UTC]** Chicago: o que fazer na cidade que se reconstruiu para o alto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/chicago-o-que-fazer-na-cidade-que-se-reconstruiu-para-o-alto.shtml)_
+
