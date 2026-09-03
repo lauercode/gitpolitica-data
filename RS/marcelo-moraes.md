@@ -572,3 +572,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 19:41 UTC]** Alcolumbre cita dinheiro para 'Dark Horse' para responder à pressão por impeachment de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-cita-dinheiro-para-dark-horse-para-responder-a-pressao-por-impeachment-de-moraes.shtml)_
 
+- **[2026-09-03 00:12 UTC]** O que Moraes já disse sobre as mensagens de Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-moraes-ja-disse-sobre-as-mensagens-de-vorcaro/)_
+
