@@ -597,3 +597,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 23:00 UTC]** Ministros do STF vivem impasse sobre elo Moraes-Vorcaro, e decisão inédita desafia alianças internas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ministros-do-stf-vivem-impasse-sobre-elo-moraes-vorcaro-e-decisao-inedita-desafia-aliancas-internas.shtml)_
 
+- **[2026-09-02 23:00 UTC]** PL briga por 24 vagas no Senado e reabilita bandeira anti-STF após crise de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pl-briga-por-24-vagas-no-senado-e-reabilita-bandeira-anti-stf-apos-crise-de-moraes.shtml)_
+
