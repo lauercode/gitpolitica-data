@@ -14,3 +14,6 @@
 - **[2018-04-24 11:29 UTC]** Taça Noronha de Vôlei termina com emoção em quadra
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/taca-noronha-de-volei-termina-com-emocao-em-quadra.html)_
 
+- **[2026-09-03 18:01 UTC]** Globo contrata Carol Gattaz, medalhista olímpica, para reforçar transmissões de vôlei
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/globo-contrata-carol-gattaz-medalhista-olimpica-para-reforcar-transmissoes-de-volei.shtml)_
+
