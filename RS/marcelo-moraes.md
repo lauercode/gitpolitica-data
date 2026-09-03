@@ -600,3 +600,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 23:00 UTC]** PL briga por 24 vagas no Senado e reabilita bandeira anti-STF após crise de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pl-briga-por-24-vagas-no-senado-e-reabilita-bandeira-anti-stf-apos-crise-de-moraes.shtml)_
 
+- **[2026-09-03 04:13 UTC]** Perícia da Polícia Federal contradiz nota oficial de Alexandre de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pericia-da-policia-federal-contradiz-nota-oficial-de-alexandre-de-moraes/)_
+
