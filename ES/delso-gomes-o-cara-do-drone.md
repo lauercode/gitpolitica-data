@@ -17,3 +17,6 @@
 - **[2026-09-01 22:03 UTC]** Arma, faca e relógios são lançados por drone na Penitenciária Masculina, no Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/01/arma-faca-e-relogios-sao-lancados-por-drone-na-penitenciaria-masculina-no-amapa.ghtml)_
 
+- **[2026-09-03 13:09 UTC]** Após fuga pela mata, suspeito é preso por arremessar drogas em drone para presídio no AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/03/apos-fuga-pela-mata-suspeito-e-preso-por-arremessar-drogas-em-drone-para-presidio-no-ap.ghtml)_
+
