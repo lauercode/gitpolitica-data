@@ -23,3 +23,6 @@
 - **[2026-09-03 19:16 UTC]** Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zvgr7pr1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-03 20:24 UTC]** O que é 'ativo minerário', negócio citado por Nikolas Ferreira a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/03/o-que-e-ativo-minerario-citado-por-nikolas-ferreira-a-vorcaro.ghtml)_
+
