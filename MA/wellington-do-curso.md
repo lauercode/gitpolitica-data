@@ -50,3 +50,6 @@
 - **[2026-09-01 17:31 UTC]** Justiça determina ampliação do efetivo da Polícia Civil com aprovados em curso de formação no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/01/justica-determina-ampliacao-do-efetivo-da-policia-civil-com-aprovados-em-curso-de-formacao-no-rn.ghtml)_
 
+- **[2026-09-02 23:00 UTC]** Alex Atala terá curso de gastronomia na CasaFolha; Ana Claudia Quintana Arantes faz live
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alex-atala-tera-curso-de-gastronomia-na-casafolha-ana-claudia-quintana-arantes-faz-live.shtml)_
+
