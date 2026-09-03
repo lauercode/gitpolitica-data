@@ -140,3 +140,6 @@
 - **[2026-09-03 13:10 UTC]** Para blindar Moraes, Alcolumbre manda recado para Flávio em tom de ameaça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/03/para-blindar-moraes-alcolumbre-manda-recado-para-flavio-em-tom-de-ameaca.ghtml)_
 
+- **[2026-09-03 11:40 UTC]** Alcolumbre frustra planos de Lula e adia votação do fim da 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-frustra-planos-de-lula-e-adia-votacao-do-fim-da-6x1/)_
+
