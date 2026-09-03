@@ -200,3 +200,6 @@
 - **[2026-09-03 19:06 UTC]** Comissão aprova projeto que obriga comércio a relatar crimes em até 24 horas
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302550-comissao-aprova-projeto-que-obriga-comercio-a-relatar-crimes-em-ate-24-horas)_
 
+- **[2026-09-03 18:41 UTC]** Comissão aprova projeto com regras sobre atuação do INPI em ações de nulidade de patentes ou de marcas
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302528-comissao-aprova-projeto-com-regras-sobre-atuacao-do-inpi-em-acoes-de-nulidade-de-patentes-ou-de-marcas)_
+
