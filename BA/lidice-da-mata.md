@@ -89,3 +89,6 @@
 - **[2026-09-03 13:09 UTC]** Após fuga pela mata, suspeito é preso por arremessar drogas em drone para presídio no AP
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/03/apos-fuga-pela-mata-suspeito-e-preso-por-arremessar-drogas-em-drone-para-presidio-no-ap.ghtml)_
 
+- **[2026-09-03 16:38 UTC]** MP pede paralisação de obra por possíveis danos à Mata Atlântica e investiga construtora na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/mp-pede-paralisacao-de-obra-por-possiveis-danos-a-mata-atlantica-na-pb.ghtml)_
+
