@@ -26,3 +26,6 @@
 - **[2026-08-28 00:34 UTC]** Eleições 2026: Omar Aziz participa de evento em Manaus e apresenta propostas para educação
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-omar-aziz-participa-de-evento-em-manaus-e-apresenta-propostas-para-educacao.ghtml)_
 
+- **[2026-09-02 23:47 UTC]** Eleições 2026: Omar Aziz cumpre agenda em Brasília e promete concurso com cinco mil vagas para segurança pública
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-omar-aziz-cumpre-agenda-em-brasilia-e-promete-concurso-com-cinco-mil-vagas-para-seguranca-publica.ghtml)_
+
