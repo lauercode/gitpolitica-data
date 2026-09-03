@@ -167,3 +167,6 @@
 - **[2026-09-03 07:00 UTC]** As perguntas que não são feitas aos candidatos no Jornal Nacional
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2026/09/as-perguntas-que-nao-sao-feitas-aos-candidatos-no-jornal-nacional.shtml)_
 
+- **[2026-09-03 15:20 UTC]** VÍDEOS: Jornal da Manhã Alagoas de quinta-feira, 3 de setembro de 2026
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/edicao/2026/09/03/videos-jornal-da-manha-alagoas-de-quinta-feira-3-de-setembro-de-2026.ghtml)_
+
