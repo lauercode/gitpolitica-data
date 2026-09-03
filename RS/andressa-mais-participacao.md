@@ -38,3 +38,6 @@
 - **[2026-09-01 19:38 UTC]** Toffoli libera campanha digital de Renan Santos, repasses de recursos e participação em debates
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/toffoli-libera-campanha-digital-de-renan-santos.ghtml)_
 
+- **[2026-09-03 19:30 UTC]** Gil do Vigor lê poema de Gregório de Matos em participação em peça no Sesc Belenzinho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gil-do-vigor-le-poema-de-gregorio-de-matos-em-participacao-em-peca-no-sesc-belenzinho.shtml)_
+
