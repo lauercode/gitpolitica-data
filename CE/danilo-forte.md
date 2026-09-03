@@ -77,3 +77,6 @@
 - **[2026-09-02 20:03 UTC]** Probabilidade de o El Niño ser muito forte neste trimestre é de 90%
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/probabilidade-de-o-el-nino-ser-muito-forte-neste-trimestre-e-de-90)_
 
+- **[2026-09-03 08:42 UTC]** ONU prevê El Niño "muito forte" com duração até fevereiro de 2027
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-preve-el-nino-muito-forte-com-duracao-ate-fevereiro-de-2027)_
+
