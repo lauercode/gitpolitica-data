@@ -32,3 +32,6 @@
 - **[2026-09-02 20:57 UTC]** Eleições 2026 no PR: Sergio Moro diz que não compareceu aos debates por estratégia política
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-no-pr-agenda-sergio-moro-2-de-setembro.ghtml)_
 
+- **[2026-09-03 21:29 UTC]** Eleições 2026 no PR: Sergio Moro diz que é a favor da privatização da Copel, mas promete cobrar plano de investimentos da empresa
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-no-pr-agenda-sergio-moro-3-setembro.ghtml)_
+
