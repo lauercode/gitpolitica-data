@@ -29,3 +29,6 @@
 - **[2026-08-31 19:04 UTC]** Fato ou Fake: veja checagens das entrevistas de Zema, Caiado, Renan Santos, Lula, Flávio Bolsonaro e Augusto Cury à Globo
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/31/fato-ou-fake-veja-checagens-das-entrevistas-de-zema-caiado-renan-santos-lula-flavio-bolsonaro-e-augusto-cury-a-globo.ghtml)_
 
+- **[2026-09-03 15:20 UTC]** Veja o que é #FATO e o que é #FAKE no debate de candidatos ao Senado por Pernambuco no g1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/03/veja-o-que-e-fato-e-o-que-e-fake-no-debate-de-candidatos-ao-senado-por-pernambuco-no-g1.ghtml)_
+
