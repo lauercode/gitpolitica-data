@@ -38,3 +38,6 @@
 - **[2026-09-02 18:39 UTC]** Justiça condena seis por plano de atentado a bomba do PCC descoberto em presídio federal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-condena-seis-por-plano-de-atentado-a-bomba-do-pcc-descoberto-em-presidio-federal.shtml)_
 
+- **[2026-09-03 13:09 UTC]** Após fuga pela mata, suspeito é preso por arremessar drogas em drone para presídio no AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/03/apos-fuga-pela-mata-suspeito-e-preso-por-arremessar-drogas-em-drone-para-presidio-no-ap.ghtml)_
+
