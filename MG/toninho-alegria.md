@@ -17,3 +17,6 @@
 - **[2026-09-01 16:33 UTC]** 'Alegria que conduz a nossa gente': Conheça tema do Círio 2026 da TV Liberal
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/01/alegria-que-conduz-a-nossa-gente-conheca-tema-do-cirio-2026-da-tv-liberal.ghtml)_
 
+- **[2026-09-03 12:10 UTC]** 'Eu vejo a morte como parte natural da vida; acho ótimo poder falar disso com alegria', diz Guida Vianna
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/09/eu-vejo-a-morte-como-parte-natural-da-vida-acho-otimo-poder-falar-disso-com-alegria-diz-guida-vianna.shtml)_
+
