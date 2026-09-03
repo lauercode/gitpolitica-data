@@ -209,3 +209,6 @@
 - **[2026-09-03 15:27 UTC]** Câmara aprova projeto de data centers com jabuti que facilita envio de emendas a 5.000 cidades
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/relator-de-projeto-sobre-data-centers-propoe-afrouxar-lei-para-facilitar-envio-de-emendas-a-municipios.shtml)_
 
+- **[2026-09-03 20:32 UTC]** Casa d'Arraia é inaugurada em Manaus; projeto busca 'desvilanizar' arraias por meio do conhecimento
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/casa-darraia-e-inaugurada-em-manaus-projeto-busca-desvilanizar-arraias-por-meio-do-conhecimento.ghtml)_
+
