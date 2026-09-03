@@ -41,3 +41,6 @@
 - **[2026-09-03 08:15 UTC]** Alex Escobar atualiza estado de saúde: 'Preciso de tempo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/alex-escobar-atualiza-estado-de-saude-preciso-de-tempo.shtml)_
 
+- **[2026-09-03 21:22 UTC]** Eleições 2026 no PR: Sandro Alex fala sobre preparar o estado para mudança de ICMS para IBS, aprovada na reforma tributária
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-no-pr-agenda-sandro-alex-3-setembro.ghtml)_
+
