@@ -791,3 +791,6 @@
 - **[2026-09-02 22:00 UTC]** 'Vai rodar todo mundo: espero que Lula e Flávio também', diz leitor sobre caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/vai-rodar-todo-mundo-espero-que-lula-e-flavio-tambem-diz-leitor-sobre-caso-master.shtml)_
 
+- **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
+
