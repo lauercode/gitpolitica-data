@@ -14,3 +14,6 @@
 - **[2026-09-01 11:29 UTC]** Mais de 5 mil atendimentos gratuitos em saúde e cidadania acontecem em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/09/01/mais-de-5-mil-atendimentos-gratuitos-em-saude-e-cidadania-comecam-em-manaus.ghtml)_
 
+- **[2026-09-02 20:09 UTC]** Juíza nos EUA suspende novo decreto de Trump que restringe cidadania
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiza-nos-eua-suspende-novo-decreto-de-trump-que-restringe-cidadania.shtml)_
+
