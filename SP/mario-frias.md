@@ -14,3 +14,6 @@
 - **[2026-09-01 01:25 UTC]** Mario Frias pede que caso sobre emendas para filme de Bolsonaro fique com Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-pede-que-caso-sobre-emendas-para-filme-de-bolsonaro-fique-com-mendonca/)_
 
+- **[2026-09-03 17:13 UTC]** Sem vagas em cemitérios, seis corpos não podem ser enterrados e aguardam em câmaras frias em Foz do Iguaçu
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/03/sem-vagas-em-cemiterios-foz-do-iguacu.ghtml)_
+
