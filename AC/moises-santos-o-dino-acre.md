@@ -272,3 +272,6 @@
 - **[2026-09-03 09:00 UTC]** Agricultor é indiciado por não socorrer jovem que morreu em acidente de moto no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
 
+- **[2026-09-03 15:15 UTC]** Suspeito de degolar jovem no Acre foi condenado por assassinar esposa grávida em Roraima há 8 anos
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/ac/acre/noticia/2026/09/03/suspeito-de-matar-jovem-em-apartamento-no-ac-foi-condenado-por-assassinar-esposa-gravida-em-roraima.ghtml)_
+
