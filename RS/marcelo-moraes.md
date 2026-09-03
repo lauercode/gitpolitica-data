@@ -603,3 +603,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 04:13 UTC]** Perícia da Polícia Federal contradiz nota oficial de Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pericia-da-policia-federal-contradiz-nota-oficial-de-alexandre-de-moraes/)_
 
+- **[2026-09-03 01:47 UTC]** Ministros do STF articulam saída de Moraes da crise e Vorcaro implica Andrei
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministros-do-stf-articulam-saida-de-moraes-da-crise-e-vorcaro-implica-andrei/)_
+
