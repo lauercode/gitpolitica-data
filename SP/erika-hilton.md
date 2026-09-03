@@ -17,3 +17,6 @@
 - **[2026-09-02 12:40 UTC]** Justiça manda PL informar se pagou Bolsonaro após prisão em ação de Erika Hilton
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-manda-pl-informar-se-pagou-bolsonaro-apos-prisao-de-erika-hilton/)_
 
+- **[2026-09-03 14:15 UTC]** Erika Hilton entra na Justiça contra Ratinho pela segunda vez por transfobia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/erika-hilton-entra-na-justica-contra-ratinho-pela-segunda-vez-por-transfobia.shtml)_
+
