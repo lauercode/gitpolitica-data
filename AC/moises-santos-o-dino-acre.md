@@ -278,3 +278,6 @@
 - **[2026-09-03 20:37 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 3 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-3-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-03 20:13 UTC]** TCE vê gasto acima do limite e barra nomeação de comissionados e cargos de confiança no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/tce-ve-gasto-acima-do-limite-e-barra-nomeacao-de-comissionados-e-cargos-de-confianca-no-acre.ghtml)_
+
