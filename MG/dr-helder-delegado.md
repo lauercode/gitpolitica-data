@@ -56,3 +56,6 @@
 - **[2026-09-01 03:01 UTC]** Disparo que atingiu homem dentro de clube de tiro no PR foi provocado por 'sequência de falhas nas regras básicas de segurança', aponta delegado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/disparo-que-atingiu-homem-dentro-de-clube-de-tiro-no-pr-foi-provocado-por-sequencia-de-falhas-nas-regras-basicas-de-seguranca-aponta-delegado.ghtml)_
 
+- **[2026-09-03 13:47 UTC]** Caso de encenação em cativeiro faz delegado Da Cunha ser demitido da Polícia Civil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/caso-de-encenacao-em-cativeiro-faz-delegado-da-cunha-ser-demitido-da-policia-civil.shtml)_
+
