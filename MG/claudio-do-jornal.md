@@ -158,3 +158,6 @@
 - **[2026-09-02 22:42 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 2 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-2-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-03 02:26 UTC]** Vorcaro afirma a Mendonça que quer delatar integrantes do governo Lula, diz jornal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-afirma-a-mendonca-que-quer-delatar-integrantes-do-governo-lula-diz-jornal/)_
+
