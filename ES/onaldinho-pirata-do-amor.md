@@ -38,3 +38,6 @@
 - **[2026-09-01 19:24 UTC]** Roberto de Carvalho diz que novo amor não apaga dor pela morte de Rita Lee
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/09/roberto-de-carvalho-diz-que-novo-amor-nao-apaga-dor-pela-morte-de-rita-lee.shtml)_
 
+- **[2026-09-03 14:01 UTC]** 'A Nobreza do Amor': Jendal é levado para o palácio, e Kênia ajuda o pai
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/03/13/6442-a-nobreza-do-amor-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466788)_
+
