@@ -176,3 +176,6 @@
 - **[2026-09-03 22:02 UTC]** Datafolha, 1º turno: Lula, 38%; Flávio Bolsonaro, 33%; Cury, 8%; Caiado, 4%; Renan, 3%; Zema, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-presidente-3-setembro.ghtml)_
 
+- **[2026-09-03 20:05 UTC]** Cury defende fim de mandato vitalício no STF, com trocas a cada 8 anos
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/03/cury-defende-fim-de-mandato-vitalicio-no-stf-com-trocas-a-cada-8-anos.ghtml)_
+
