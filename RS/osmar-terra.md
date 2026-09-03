@@ -77,3 +77,6 @@
 - **[2026-09-02 18:45 UTC]** Justiça mantém demarcação de terra indígena de 1,1 milhão de hectares entre MT e PA
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/mt/mato-grosso/noticia/2026/09/02/justica-mantem-demarcacao-de-terra-indigena-de-11-milhao-de-hectares-entre-mt-e-pa.ghtml)_
 
+- **[2026-09-03 15:39 UTC]** Osmar Terra critica lobby da cannabis e cobra Congresso após caso envolvendo Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/osmar-terra-critica-lobby-cannabis-cobra-congresso-caso-envolvendo-lulinha/)_
+
