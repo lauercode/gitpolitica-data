@@ -38,3 +38,6 @@
 - **[2026-09-03 09:00 UTC]** Mãe de jovem assassinado por empresário na saída de motel cobra Justiça quatro anos depois: 'Um pedaço de mim morreu'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/mae-de-jovem-assassinado-por-empresario-na-saida-de-motel-cobra-justica-quatro-anos-depois-um-pedaco-de-mim-morreu.ghtml)_
 
+- **[2026-09-03 15:39 UTC]** Osmar Terra critica lobby da cannabis e cobra Congresso após caso envolvendo Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/osmar-terra-critica-lobby-cannabis-cobra-congresso-caso-envolvendo-lulinha/)_
+
