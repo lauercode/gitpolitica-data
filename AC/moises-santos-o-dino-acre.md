@@ -260,3 +260,6 @@
 - **[2026-09-02 22:42 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 2 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-2-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-03 13:36 UTC]** Músico é encontrado morto dentro de casa no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/musico-e-encontrado-morto-dentro-de-casa-no-acre.ghtml)_
+
