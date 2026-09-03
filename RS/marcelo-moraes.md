@@ -581,3 +581,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 23:51 UTC]** Celular atribuído a Moraes aparece no TikTok com usuário “Xandao”, diz site
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/celular-atribuido-a-moraes-aparece-no-tiktok-com-usuario-xandao-diz-bbc/)_
 
+- **[2026-09-02 23:07 UTC]** Gilmar Mendes visitou Lula no dia em que Mendonça tirou sigilo de mensagens para Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-visitou-lula-no-dia-em-que-mendonca-tirou-sigilo-de-mensagens-para-moraes/)_
+
