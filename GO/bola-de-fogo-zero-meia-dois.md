@@ -227,3 +227,6 @@
 - **[2026-09-03 13:03 UTC]** Dois suspeitos são presos após roubo de celular e perseguição policial em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/dois-suspeitos-sao-presos-apos-roubo-de-celular-e-perseguicao-policial-em-sao-luis.ghtml)_
 
+- **[2026-09-03 15:01 UTC]** Dois homens roubam armas, R$ 10 mil e objetos em transportadora de Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/dois-homens-roubam-armas-r-10-mil-e-objetos-em-transportadora-de-boa-vista.ghtml)_
+
