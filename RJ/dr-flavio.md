@@ -785,3 +785,6 @@
 - **[2026-09-02 23:01 UTC]** Pacote de decisões de Nunes Marques censura críticas ao PT e mantém associação de Flávio a Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pacote-de-decisoes-de-nunes-marques-censura-criticas-ao-pt-e-mantem-associacao-de-flavio-a-vorcaro/)_
 
+- **[2026-09-03 03:01 UTC]** Cury avança, Lula e Flávio empatam no 2º turno: 10 pontos da nova Quaest
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/10-pontos-da-nova-pesquisa-quaest.ghtml)_
+
