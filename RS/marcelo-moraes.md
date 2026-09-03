@@ -559,3 +559,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-02 19:39 UTC]** Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 22:43 UTC]** Alcolumbre diz que pedido de 'R$ 130 milhões' para filme é esquecido: 'Agora o culpado só é o Moraes'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/alcolumbre-diz-que-tem-sofrido-agressoes-e-r-130-milhoes-de-filme-sao-esquecidos-agora-o-culpado-sou-eu-e-o-ministro-moraes.ghtml)_
+
