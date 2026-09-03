@@ -266,3 +266,6 @@
 - **[2026-09-03 13:00 UTC]** Festival inspirado em carta de Chico Mendes aos jovens lança programação no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/festival-inspirado-em-carta-de-chico-mendes-aos-jovens-lanca-programacao-no-acre.ghtml)_
 
+- **[2026-09-03 16:28 UTC]** Buscas por menino de 4 anos que caiu de embarcação em rio no Acre chegam ao terceiro dia
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/buscas-por-menino-de-4-anos-que-caiu-de-embarcacao-em-rio-no-acre-chegam-ao-terceiro-dia.ghtml)_
+
