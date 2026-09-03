@@ -53,3 +53,6 @@
 - **[2026-09-03 12:48 UTC]** Mendonça diz que deixará sociedade no Instituto Iter
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-que-deixara-sociedade-no-instituto-iter)_
 
+- **[2026-09-03 13:14 UTC]** André Mendonça afirma que deixará sociedade do Instituto Iter
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/andre-mendonca-afirma-que-deixara-sociedade-do-instituto-iter)_
+
