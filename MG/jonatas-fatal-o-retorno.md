@@ -32,3 +32,6 @@
 - **[2026-09-02 17:27 UTC]** STF em ponto de não retorno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-em-ponto-de-nao-retorno.shtml)_
 
+- **[2026-09-03 16:07 UTC]** Após decisão judicial, SMTT confirma retorno da empresa VRS ao transporte coletivo de Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/03/apos-decisao-judicial-smtt-confirma-retorno-da-empresa-vrs-ao-transporte-coletivo-em-aracaju.ghtml)_
+
