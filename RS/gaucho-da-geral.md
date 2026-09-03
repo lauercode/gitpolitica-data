@@ -32,3 +32,6 @@
 - **[2026-09-02 04:00 UTC]** Secretário-geral da ONU diz que guerras expõem limites das superpotências
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/secretario-geral-da-onu-diz-que-guerras-expoem-limites-das-superpotencias.shtml)_
 
+- **[2026-09-03 15:10 UTC]** Mercadante sai em defesa de diretor-geral da PF e diz que questionamentos são inaceitáveis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mercadante-sai-em-defesa-de-diretor-geral-da-pf-e-diz-que-questionamentos-sao-inaceitaveis.shtml)_
+
