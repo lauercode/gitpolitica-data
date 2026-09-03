@@ -161,3 +161,6 @@
 - **[2026-09-03 02:26 UTC]** Vorcaro afirma a Mendonça que quer delatar integrantes do governo Lula, diz jornal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-afirma-a-mendonca-que-quer-delatar-integrantes-do-governo-lula-diz-jornal/)_
 
+- **[2026-09-03 00:59 UTC]** VÍDEO: Jornal Anhanguera 2ª Edição-TO de quarta-feira, 2 de setembro de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/video-jornal-anhanguera-2-edicao-to-de-quarta-feira-2-de-setembro-de-2026.ghtml)_
+
