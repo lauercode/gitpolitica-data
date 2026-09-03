@@ -68,3 +68,6 @@
 - **[2026-09-02 23:32 UTC]** Palmeiras segura pressão do Santos, elimina rival e avança na Copa do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-segura-pressao-do-santos-elimina-rival-e-avanca-na-copa-do-brasil.shtml)_
 
+- **[2026-09-03 07:12 UTC]** Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-palmeiras-avancam-e-se-enfrentam-na-semi-da-copa-do-brasil)_
+
