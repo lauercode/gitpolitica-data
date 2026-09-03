@@ -56,3 +56,6 @@
 - **[2026-09-03 18:15 UTC]** Andrei Rodrigues: conheça o diretor-geral da PF alvo de suspeitas no caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-rodrigues-conheca-o-diretor-geral-da-pf-alvo-de-suspeitas-no-caso-master/)_
 
+- **[2026-09-03 20:12 UTC]** Vorcaro diz que sofreu pressão para não delatar diretor da PF e membros do governo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-diz-que-sofreu-pressao-para-nao-delatar-diretor-da-pf-e-membros-do-governo/)_
+
