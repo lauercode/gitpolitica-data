@@ -587,3 +587,7 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 03:30 UTC]** Mendonça vs. Moraes: as reações do Supremo ao Caso Master - O Assunto #1797
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/03/mendonca-vs-moraes-as-reacoes-do-supremo-ao-caso-master-o-assunto-1797.ghtml)_
 
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
