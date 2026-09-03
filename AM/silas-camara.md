@@ -520,3 +520,6 @@ direitos
 Diretor
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
 
+- **[2026-09-03 20:43 UTC]** Câmara aprova exceções às regras fiscais para benefícios e despesas de 2026
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302681-camara-aprova-excecoes-as-regras-fiscais-para-beneficios-e-despesas-de-2026)_
+
