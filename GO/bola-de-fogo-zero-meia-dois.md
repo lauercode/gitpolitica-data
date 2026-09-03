@@ -224,3 +224,6 @@
 - **[2026-09-03 08:03 UTC]** VÍDEO: Onça invade propriedade, ataca dois cães e mata um deles no interior do AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/video-onca-invade-propriedade-ataca-dois-caes-e-mata-um-deles-no-interior-do-am.ghtml)_
 
+- **[2026-09-03 13:03 UTC]** Dois suspeitos são presos após roubo de celular e perseguição policial em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/dois-suspeitos-sao-presos-apos-roubo-de-celular-e-perseguicao-policial-em-sao-luis.ghtml)_
+
