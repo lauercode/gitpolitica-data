@@ -128,3 +128,6 @@
 - **[2026-09-01 15:05 UTC]** Saiba quem era ex-vocalista da Banda Calcinha Preta que morreu enquanto aguardava por transplante de rim em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/saiba-quem-era-ex-vocalista-da-banda-calcinha-preta-que-morreu-em-sergipe.ghtml)_
 
+- **[2026-09-03 09:00 UTC]** Mãe de jovem assassinado por empresário na saída de motel cobra Justiça quatro anos depois: 'Um pedaço de mim morreu'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/mae-de-jovem-assassinado-por-empresario-na-saida-de-motel-cobra-justica-quatro-anos-depois-um-pedaco-de-mim-morreu.ghtml)_
+
