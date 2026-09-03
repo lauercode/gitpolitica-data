@@ -203,3 +203,6 @@
 - **[2026-09-03 18:41 UTC]** Comissão aprova projeto com regras sobre atuação do INPI em ações de nulidade de patentes ou de marcas
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302528-comissao-aprova-projeto-com-regras-sobre-atuacao-do-inpi-em-acoes-de-nulidade-de-patentes-ou-de-marcas)_
 
+- **[2026-09-03 15:27 UTC]** Relator de projeto sobre data centers propõe afrouxar lei para facilitar envio de emendas a municípios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/relator-de-projeto-sobre-data-centers-propoe-afrouxar-lei-para-facilitar-envio-de-emendas-a-municipios.shtml)_
+
