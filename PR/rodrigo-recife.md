@@ -44,3 +44,6 @@
 - **[2026-09-02 19:35 UTC]** Voos entre Mossoró e Recife são retomados nesta quinta-feira (3)
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/02/voos-entre-mossoro-e-recife-sao-retomados-nesta-quinta-feira-3.ghtml)_
 
+- **[2026-09-03 14:16 UTC]** Festival Internacional de Dança do Recife tem mais de 30 atividades
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/festival-internacional-de-danca-do-recife-tem-mais-de-30-atividades)_
+
