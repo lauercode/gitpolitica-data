@@ -606,3 +606,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 01:47 UTC]** Ministros do STF articulam saída de Moraes da crise e Vorcaro implica Andrei
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministros-do-stf-articulam-saida-de-moraes-da-crise-e-vorcaro-implica-andrei/)_
 
+- **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
+
