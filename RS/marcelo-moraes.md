@@ -670,3 +670,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 11:58 UTC]** Flávio Bolsonaro usa crise de Moraes para tentar impulsionar ato de 7 de Setembro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-usa-crise-com-moraes-para-tentar-impulsionar-ato-de-7-de-setembro.shtml)_
 
+- **[2026-09-03 16:50 UTC]** PF aponta almoço entre Moraes e Vorcaro que antecedeu contrato de R$ 131 milhões
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-aponta-almoco-entre-moraes-e-vorcaro-que-antecedeu-contrato-de-r-131-milhoes/)_
+
