@@ -209,3 +209,6 @@
 - **[2026-09-03 03:00 UTC]** Ex-jogador da base do Grêmio e investigado por golpe do PIX: quem é o suspeito preso no RJ por se passar por técnico do clube gaúcho
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/ex-jogador-base-gremio-investigado-golpe-pix-quem-e-o-suspeito-preso-no-rj-tecnico-clube.ghtml)_
 
+- **[2026-09-03 14:17 UTC]** 'Quem Ama Cuida': Pedro se preocupa com a condicional de Adriana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466791)_
+
