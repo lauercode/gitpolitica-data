@@ -824,3 +824,6 @@
 - **[2026-09-03 22:14 UTC]** Datafolha: 47% rejeitam Flávio Bolsonaro, e 45%, Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-rejeicao-candidatos-3-setembro.ghtml)_
 
+- **[2026-09-03 22:02 UTC]** Datafolha, 1º turno: Lula, 38%; Flávio Bolsonaro, 33%; Cury, 8%; Caiado, 4%; Renan, 3%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-presidente-3-setembro.ghtml)_
+
