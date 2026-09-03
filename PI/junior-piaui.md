@@ -14,3 +14,6 @@
 - **[2018-07-11 00:02 UTC]** Artesãos do Piauí levam joias de opala, pedra semipreciosa rara, para a Fenearte
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/artesaos-do-piaui-levam-joias-de-opala-pedra-semipreciosa-rara-para-a-fenearte.ghtml)_
 
+- **[2026-09-02 21:48 UTC]** Avô é preso sob suspeita de espancar neta após tentar estuprá-la no Piauí
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/avo-e-preso-sob-suspeita-de-espancar-neta-apos-tentar-estupra-la-no-piaui.shtml)_
+
