@@ -704,3 +704,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 21:26 UTC]** André Mendonça trata caso de Lulinha de forma diferente do de ACM Neto, diz PF em relatório a Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/andre-mendonca-trata-caso-de-lulinha-de-forma-diferente-do-de-acm-neto-diz-pf-em-relatorio-a-moraes.shtml)_
 
+- **[2026-09-03 21:10 UTC]** Fachin manda Mendonça, Moraes, Gonet e chefe da PF prestarem informações sobre diálogos com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-manda-mendonca-moraes-gonet-e-chefe-da-pf-prestarem-informacoes-sobre-dialogos-com-vorcaro.shtml)_
+
