@@ -23,3 +23,6 @@
 - **[2026-09-01 16:19 UTC]** Após denúncias de invasão por homens armados, Defensoria Pública da União pede segurança para indígenas no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/apos-denuncias-de-invasao-por-homens-armados-defensoria-publica-da-uniao-pede-seguranca-para-indigenas-no-am.ghtml)_
 
+- **[2026-09-04 14:59 UTC]** Filme produzido por jovens indígenas retrata relação de mulheres com espaço sagrado no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/filme-produzido-por-jovens-indigenas-retrata-relacao-de-mulheres-com-espaco-sagrado-no-acre.ghtml)_
+
