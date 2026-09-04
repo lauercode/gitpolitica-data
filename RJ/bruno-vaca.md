@@ -14,3 +14,6 @@
 - **[2026-09-03 05:01 UTC]** O que faz uma vaca custar mais de meio milhão de reais? Veja como é o animal que bateu preço recorde no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/o-que-faz-uma-vaca-custar-mais-de-meio-milhao-de-reais-veja-como-e-o-animal-que-bateu-preco-recorde-no-rs.ghtml)_
 
+- **[2026-09-04 16:14 UTC]** Vaca é resgatada após atolar em área de mangue em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/vaca-e-resgatada-apos-atolar-em-area-de-mangue-em-nossa-senhora-do-socorro.ghtml)_
+
