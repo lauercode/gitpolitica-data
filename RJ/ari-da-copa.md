@@ -86,3 +86,6 @@
 - **[2026-09-03 23:08 UTC]** Leis viabilizam a Copa Feminina de 2027 e propostas reforçam o protagonismo das mulheres no futebol
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302724-leis-viabilizam-a-copa-feminina-de-2027-e-propostas-reforcam-o-protagonismo-das-mulheres-no-futebol)_
 
+- **[2026-09-04 06:00 UTC]** SBT faz proposta de R$ 150 milhões para retomar direitos da Copa do Brasil até 2030
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-faz-proposta-de-r-150-milhoes-para-retomar-direitos-da-copa-do-brasil-ate-2030.shtml)_
+
