@@ -137,3 +137,6 @@
 - **[2026-09-04 14:38 UTC]** 'Crise Master' no STF: Fachin diz que nenhuma autoridade está acima da Constituição e que resposta a fatos 'graves' será 'firme'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/em-meio-a-crise-master-no-stf-fachin-defende-dialogo-entre-instituicoes-durante-evento-no-planalto.ghtml)_
 
+- **[2026-09-04 19:14 UTC]** Alcolumbre sinaliza que Mendonça também será alvo em caso de abertura de impeachment contra Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/04/a-senadores-alcolumbre-sinaliza-abertura-de-processo-de-impeachment-cruzado-de-moraes-e-mendonca.ghtml)_
+
