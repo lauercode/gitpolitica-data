@@ -845,3 +845,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 16:51 UTC]** Transparência Internacional pede afastamento de Moraes para evitar interferência em investigações
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/transparencia-internacional-pede-afastamento-de-moraes-para-evitar-interferencia-em-investigacao/)_
 
+- **[2026-09-04 15:13 UTC]** Lula procura se afastar de Moraes enquanto investe em enfraquecer Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-procura-se-afastar-de-moraes-enquanto-investe-enfraquecer-mendonca/)_
+
