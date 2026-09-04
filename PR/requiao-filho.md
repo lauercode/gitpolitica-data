@@ -20,3 +20,6 @@
 - **[2026-09-02 21:42 UTC]** Eleições 2026 no PR: Requião Filho visita hospital e participa de encontro sobre meio ambiente
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-no-pr-requiao-filho-visita-hospitais-e-participa-de-encontro-sobre-meio-ambiente.ghtml)_
 
+- **[2026-09-04 16:11 UTC]** Eleições 2026 no PR: Requião Filho propõe zerar imposto de pequenas e microempresas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-requiao-filho.ghtml)_
+
