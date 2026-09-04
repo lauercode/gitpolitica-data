@@ -44,3 +44,6 @@
 - **[2026-09-03 19:40 UTC]** Osmar Terra denuncia lobby da maconha e cobra apuração sobre Lulinha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/osmar-terra-denuncia-lobby-da-maconha-e-cobra-apuracao-sobre-lulinha/)_
 
+- **[2026-09-03 20:45 UTC]** Lula diz que todos devem ser investigados e cobra PGR e STF por resolução de caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-todos-devem-ser-investigados-e-cobra-pgr-e-stf-por-resolucao-de-caso-master.shtml)_
+
