@@ -38,3 +38,6 @@
 - **[2026-09-03 15:05 UTC]** Lavagem de Madeleine exalta cultura afro-brasileira em Paris
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/lavagem-de-madeleine-exalta-cultura-afro-brasileira-em-paris)_
 
+- **[2026-09-04 09:00 UTC]** Corrida de canoa e subida no açaizeiro: jogos escolares valorizam cultura ribeirinha em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/corrida-de-canoa-e-subida-no-acaizeiro-jogos-escolares-valorizam-cultura-ribeirinha-em-belem.ghtml)_
+
