@@ -62,3 +62,6 @@
 - **[2026-09-04 15:34 UTC]** Conselho do MPF abre procedimento sobre Gonet, que deve negar interferência no caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/conselho-do-mpf-abre-procedimento-sobre-gonet-que-deve-negar-interferencia-no-caso-master.shtml)_
 
+- **[2026-09-04 18:12 UTC]** Gonet vira alvo de procedimento em conselho que ele mesmo preside; irmão de Dino é o vice-presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-vira-alvo-de-procedimento-em-conselho-que-ele-mesmo-preside/)_
+
