@@ -29,3 +29,6 @@
 - **[2026-09-04 00:12 UTC]** Guarda Municipal usa spray de pimenta contra mulher durante blitz em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/guarda-municipal-usa-spray-de-pimenta-contra-mulher-durante-blitz-em-belem.ghtml)_
 
+- **[2026-09-04 10:00 UTC]** Paula Pimenta quer atrair jovens com série do universo de 'Fazendo Meu Filme'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/paula-pimenta-quer-atrair-jovens-com-serie-do-universo-de-fazendo-meu-filme.shtml)_
+
