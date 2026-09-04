@@ -152,3 +152,6 @@
 - **[2026-09-03 22:19 UTC]** Trump pede a Suprema Corte poder para restringir voto por correio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-pede-a-suprema-corte-pode-para-restringir-voto-por-correio.shtml)_
 
+- **[2026-09-04 13:36 UTC]** Ação de Trump sobre petróleo venezuelano ameaça dívida bilionária com a China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acao-de-trump-sobre-petroleo-venezuelano-ameaca-divida-bilionaria-com-a-china.shtml)_
+
