@@ -59,3 +59,6 @@
 - **[2026-09-03 16:28 UTC]** Buscas por menino de 4 anos que caiu de embarcação em rio no Acre chegam ao terceiro dia
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/buscas-por-menino-de-4-anos-que-caiu-de-embarcacao-em-rio-no-acre-chegam-ao-terceiro-dia.ghtml)_
 
+- **[2026-09-04 14:48 UTC]** Menino de 4 anos morre em hospital do Paraná, e equipe médica é indiciada por homicídio por erros em avaliação de quadro de influenza
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/04/morte-crianca-joaquim-tavora-parana.ghtml)_
+
