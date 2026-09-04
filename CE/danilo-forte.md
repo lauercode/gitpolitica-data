@@ -83,3 +83,6 @@
 - **[2026-09-03 22:58 UTC]** Acidente entre carro-forte e veículo de escolta deixa motorista ferido, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/acidente-entre-carro-forte-e-veiculo-de-escolta-deixa-motorista-ferido-em-joao-pessoa.ghtml)_
 
+- **[2026-09-04 10:12 UTC]** Dólar abre em alta com mercado de trabalho forte nos EUA e cenário eleitoral no radar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-alta-com-mercado-de-trabalho-forte-nos-eua-e-cenario-eleitoral-no-radar.shtml)_
+
