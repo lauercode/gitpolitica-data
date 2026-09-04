@@ -86,3 +86,6 @@
 - **[2026-09-03 18:55 UTC]** Empresário que fez repasses a 'Dark Horse' diz que movimentava malas de dinheiro a mando de Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/empresario-que-fez-repasses-a-dark-horse-diz-que-movimentava-malas-de-dinheiro-a-mando-de-vorcaro.shtml)_
 
+- **[2026-09-03 22:50 UTC]** Empresário que fez repasses para Dark Horse disse em delação que 'gerava' dinheiro vivo para Vorcaro e entregava em malas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/03/empresario-que-fez-repasses-para-dark-horse-disse-em-delacao-que-gerava-dinheiro-vivo-para-vorcaro-e-entregava-em-malas.ghtml)_
+
