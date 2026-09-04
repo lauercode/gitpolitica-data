@@ -20,3 +20,6 @@
 - **[2026-09-02 02:22 UTC]** Eleições 2026: David Almeida visita feirantes em Manaus e diz que vai aumentar vagas em escolas de tempo integral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-david-almeida-visita-feirantes-em-manaus-e-diz-que-vai-aumentar-vagas-em-escolas-de-tempo-integral.ghtml)_
 
+- **[2026-09-04 02:17 UTC]** Eleições 2026: David Almeida participa de reunião partidária e promete acabar com déficit de habitações no estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-david-almeida-participa-de-reuniao-partidaria-e-promete-acabar-com-deficit-de-habitacoes-no-estado.ghtml)_
+
