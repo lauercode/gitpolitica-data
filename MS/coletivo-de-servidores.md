@@ -80,3 +80,6 @@
 - **[2026-09-03 15:06 UTC]** Polícia prende no Ceará suspeito de invadir sistema de órgão de AL e cobrar servidores indevidamente
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/03/policia-prende-no-ceara-suspeito-de-invadir-sistema-de-orgao-de-al-e-cobrar-servidores-indevidamente.ghtml)_
 
+- **[2026-09-04 21:37 UTC]** Comissão aprova ampliação do porte de arma para servidores
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302914-comissao-aprova-ampliacao-do-porte-de-arma-para-servidores)_
+
