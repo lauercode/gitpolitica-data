@@ -266,3 +266,6 @@
 - **[2026-09-04 20:53 UTC]** Polícia prende dois suspeitos de matar jovem no Porto da Balsa, em Imperatriz
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/09/04/policia-prende-dois-suspeitos-de-matar-jovem-no-porto-da-balsa-em-imperatriz.ghtml)_
 
+- **[2026-09-04 20:21 UTC]** Batida entre dois caminhões deixa motorista morto e mulher e crianças feridas na BR-282 em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/batida-caminhoes-motorista-morto-mulher-criancas-feridas-ponte-serrada.ghtml)_
+
