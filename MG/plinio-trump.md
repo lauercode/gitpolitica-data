@@ -146,3 +146,6 @@
 - **[2026-09-03 19:24 UTC]** Não sei, pergunte aos iranianos, diz vice de Trump sobre fim da guerra no Irã
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/nao-sei-pergunte-aos-iranianos-diz-vice-de-trump-sobre-fim-da-guerra-no-ira.shtml)_
 
+- **[2026-09-03 19:49 UTC]** Avião sobrevoa Paramount com faixa que alfineta relação do CEO com Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/aviao-sobrevoa-paramount-com-faixa-que-alfineta-relacao-do-ceo-com-trump.shtml)_
+
