@@ -68,3 +68,6 @@
 - **[2026-09-04 14:38 UTC]** TJ-AL determina que delegado Daniel Mayer retorne ao cargo após ser afastado por suspeita de crimes
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/04/tj-al-determina-que-delegado-daniel-mayer-retorne-ao-cargo-apos-ser-afastado-por-suspeita-de-crimes.ghtml)_
 
+- **[2026-09-04 17:17 UTC]** Lutador do Paraná fica sem movimentos após golpe: testemunhas relataram que técnica usada por adversário é ilegal, diz delegado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/04/investigacao-golpe-lutador-parana.ghtml)_
+
