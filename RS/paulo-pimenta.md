@@ -26,3 +26,6 @@
 - **[2026-08-25 18:47 UTC]** Curso gratuito de Libras promove inclusão e acessibilidade em Pimenta Bueno
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/08/25/curso-gratuito-de-libras-promove-inclusao-e-acessibilidade-em-pimenta-bueno.ghtml)_
 
+- **[2026-09-04 00:12 UTC]** Guarda Municipal usa spray de pimenta contra mulher durante blitz em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/guarda-municipal-usa-spray-de-pimenta-contra-mulher-durante-blitz-em-belem.ghtml)_
+
