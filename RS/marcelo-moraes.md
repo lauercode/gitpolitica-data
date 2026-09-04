@@ -884,3 +884,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 20:46 UTC]** Zema defende prisão de Alexandre de Moraes após revelações sobre relação com Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/04/zema-moraes-vorcaro.ghtml)_
 
+- **[2026-09-04 19:14 UTC]** Alcolumbre sinaliza que Mendonça também será alvo em caso de abertura de impeachment contra Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/04/a-senadores-alcolumbre-sinaliza-abertura-de-processo-de-impeachment-cruzado-de-moraes-e-mendonca.ghtml)_
+
