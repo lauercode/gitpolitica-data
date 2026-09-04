@@ -773,3 +773,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 09:00 UTC]** Moraes quer Mendonça no inquérito das fake news. Perde e ganha de Lula no Congresso
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/bom-dia/moraes-mendonca-inquerito-fake-news-perde-ganha-lula/)_
 
+- **[2026-09-04 08:22 UTC]** Caso Master: Fachin cobra explicações de Moraes, Mendonça, PGR e PF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/caso-master-fachin-cobra-explicacoes-de-moraes-mendonca-pgr-e-pf)_
+
