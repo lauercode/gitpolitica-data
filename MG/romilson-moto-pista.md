@@ -62,3 +62,6 @@
 - **[2026-09-02 12:00 UTC]** Cientistas em busca da matéria escura identificam uma possível pista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/cientistas-em-busca-da-materia-escura-identificam-uma-possivel-pista.shtml)_
 
+- **[2026-09-04 15:08 UTC]** VÍDEO: van carregada de cigarros contrabandeados perde o controle e roda na pista durante perseguição na BR-163, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/04/video-van-carregada-de-cigarros-contrabandeados.ghtml)_
+
