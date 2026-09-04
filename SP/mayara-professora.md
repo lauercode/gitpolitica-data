@@ -53,3 +53,6 @@
 - **[2026-09-03 09:01 UTC]** Plano de governo: Professora Dorinha propõe aproveitar recursos do TO para buscar desenvolvimento equilibrado
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-professora-dorinha-propoe-aproveitar-recursos-do-to-para-buscar-desenvolvimento-equilibrado.ghtml)_
 
+- **[2026-09-04 01:42 UTC]** Eleições 2026: Professora Maria do Carmo participa de café com apoiadores em Manaus e promete construção de moradias
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-professora-maria-do-carmo-participa-de-cafe-com-apoiadores-em-manaus-e-promete-construcao-de-moradias.ghtml)_
+
