@@ -254,3 +254,6 @@
 - **[2026-09-04 16:25 UTC]** Dois acusados de envolvimento em morte de menina em Patos são presos novamente
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/dois-acusados-de-envolvimento-em-morte-de-menina-de-5-anos-em-patos-sao-presos-novamente.ghtml)_
 
+- **[2026-09-04 14:35 UTC]** Suspeito de dar 60 facadas em indígena é preso uma semana após dois inocentes serem detidos por falsa acusação no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/04/suspeito-de-dar-60-facadas-em-indigena.ghtml)_
+
