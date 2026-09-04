@@ -815,3 +815,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 11:08 UTC]** Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-da-5-dias-para-mendonca-e-gonet-responderem-acusacao-de-moraes)_
 
+- **[2026-09-04 13:03 UTC]** STF: PGR e Mendonça têm 5 dias para responderem acusações de Moraes
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-pgr-e-mendonca-tem-5-dias-para-responderem-acusacoes-de-moraes)_
+
