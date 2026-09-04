@@ -242,3 +242,6 @@
 - **[2026-09-04 11:56 UTC]** STF garante Justiça gratuita para quem ganha até R$ 5 mil por mês
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/stf-garante-justica-gratuita-para-quem-ganha-ate-r-5-mil-por-mes)_
 
+- **[2026-09-04 15:52 UTC]** Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss)_
+
