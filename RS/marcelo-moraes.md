@@ -701,3 +701,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 23:07 UTC]** Moraes encaminha a Fachin pedido de investigação contra Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/moraes-encaminha-a-fachin-pedido-de-investigacao-contra-mendonca.ghtml)_
 
+- **[2026-09-03 21:26 UTC]** André Mendonça trata caso de Lulinha de forma diferente do de ACM Neto, diz PF em relatório a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/andre-mendonca-trata-caso-de-lulinha-de-forma-diferente-do-de-acm-neto-diz-pf-em-relatorio-a-moraes.shtml)_
+
