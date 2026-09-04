@@ -80,3 +80,6 @@
 - **[2026-09-03 20:50 UTC]** Fifa abre inscrição para voluntários da Copa do Mundo Feminina
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/fifa-abre-inscricao-para-voluntarios-da-copa-do-mundo-feminina)_
 
+- **[2026-09-03 23:12 UTC]** Globo demite três executivos após erros da Copa, na maior mudança da década em sua direção
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/gglobo-demite-tres-executivos-apos-erros-da-copa-na-maior-mudanca-da-decada-em-sua-direcao.shtml)_
+
