@@ -245,3 +245,6 @@
 - **[2026-09-04 15:52 UTC]** Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 15:07 UTC]** Quem é Billy Barratt, novo Voldemort de 'Harry Potter'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/quem-e-billy-barratt-novo-voldemort-de-harry-potter.shtml)_
+
