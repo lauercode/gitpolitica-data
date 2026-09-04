@@ -833,3 +833,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 12:34 UTC]** Cargo não pode ser usado para benefício pessoal em nome da democracia, diz Lula sem citar Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cargo-nao-pode-ser-usado-para-beneficio-pessoal-em-nome-da-democracia-diz-lula-sem-citar-moraes.shtml)_
 
+- **[2026-09-04 11:47 UTC]** Senadores articulam pedido de impeachment de Mendonça com base em relatório de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/senadores-devem-pedir-impeachment-de-mendonca-com-base-em-relatorio-de-moraes.shtml)_
+
