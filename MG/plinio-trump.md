@@ -158,3 +158,6 @@
 - **[2026-09-04 19:08 UTC]** Lula afirma ter dito a Trump que Brasil não aceita 'ingerência de ninguém nas eleições'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/lula-afirma-ter-dito-a-trump-que-brasil-nao-aceita-ingerencia-de-ninguem-nas-eleicoes.ghtml)_
 
+- **[2026-09-04 18:27 UTC]** Trump amplia influência na América Latina com petróleo e ataques
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-amplia-influencia-na-america-latina-com-petroleo-e-ataques.shtml)_
+
