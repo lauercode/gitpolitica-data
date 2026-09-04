@@ -35,3 +35,6 @@
 - **[2026-09-03 11:33 UTC]** Músico que morreu a caminho de show tinha mais de 20 anos de carreira: 'Ia tocar no meu aniversário sem cobrar', diz amigo
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/quem-era-musico-que-morreu-a-caminho-de-show-no-rs.ghtml)_
 
+- **[2026-09-04 20:39 UTC]** Adolescente envolvido em acidente que matou mãe e filha em Macapá já tinha histórico de colisões
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/04/adolescente-envolvido-em-acidente-que-matou-mae-e-filha-em-macapa-ja-tinha-historico-de-colisoes.ghtml)_
+
