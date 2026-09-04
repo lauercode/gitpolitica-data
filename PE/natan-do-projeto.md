@@ -212,3 +212,6 @@
 - **[2026-09-03 20:32 UTC]** Casa d'Arraia é inaugurada em Manaus; projeto busca 'desvilanizar' arraias por meio do conhecimento
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/casa-darraia-e-inaugurada-em-manaus-projeto-busca-desvilanizar-arraias-por-meio-do-conhecimento.ghtml)_
 
+- **[2026-09-04 15:54 UTC]** Projeto cria auxílio-alimentação para pessoas idosas em situação de vulnerabilidade
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301710-projeto-cria-auxilio-alimentacao-para-pessoas-idosas-em-situacao-de-vulnerabilidade)_
+
