@@ -29,3 +29,6 @@
 - **[2026-09-03 23:05 UTC]** Revista em presídio do RJ localiza 30 celulares com presos do Terceiro Comando Puro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/revista-em-presidio-do-rj-localiza-30-celulares-com-presos-do-terceiro-comando-puro.shtml)_
 
+- **[2026-09-03 23:05 UTC]** Terceiro primeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/09/terceiro-primeiro.shtml)_
+
