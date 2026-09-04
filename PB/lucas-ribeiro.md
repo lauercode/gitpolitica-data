@@ -17,3 +17,6 @@
 - **[2026-09-02 19:08 UTC]** Lucas Ribeiro defende expansão de áreas industriais e geração de empregos na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/lucas-ribeiro-defende-expansao-de-areas-industriais-e-geracao-de-empregos-na-paraiba.ghtml)_
 
+- **[2026-09-04 21:03 UTC]** Lucas Ribeiro promete ampliação do atendimento de saúde no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/lucas-ribeiro-promete-ampliacao-do-atendimento-de-saude-no-sertao-da-paraiba.ghtml)_
+
