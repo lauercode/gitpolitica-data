@@ -17,3 +17,6 @@
 - **[2026-09-03 18:50 UTC]** Impugnações de Arruda, Cunha e Garotinho testam novas regras da Ficha Limpa enquanto STF analisa validade das mudanças
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/lei-ficha-limpa-inelegibilidade-eleicoes-2026.ghtml)_
 
+- **[2026-09-03 18:50 UTC]** Candidaturas de Arruda, Cunha e Garotinho testam novas regras da Ficha Limpa enquanto STF analisa mudanças na lei
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/lei-ficha-limpa-inelegibilidade-eleicoes-2026.ghtml)_
+
