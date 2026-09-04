@@ -53,3 +53,6 @@
 - **[2026-09-03 15:10 UTC]** 'Nikolas peleleco'; deputado é ironizado nas redes após troca de mensagens com Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/nikolas-peleleco-deputado-e-ironizado-nas-redes-apos-troca-de-mensagens-com-vorcaro.shtml)_
 
+- **[2026-09-04 16:57 UTC]** Suspeito de roubo de cargas morre em troca de tiros com a Polícia Civil em Itabaiana
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/suspeito-de-roubo-de-cargas-morre-em-troca-de-tiros-com-a-policia-civil-em-itabaiana.ghtml)_
+
