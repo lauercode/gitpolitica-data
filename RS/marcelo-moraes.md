@@ -749,3 +749,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 02:26 UTC]** Oposição reforça convocação para o 7 de Setembro após ofensiva de Moraes contra Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-reforca-convocacao-para-o-7-de-setembro-apos-ofensiva-de-moraes-contra-mendonca/)_
 
+- **[2026-09-04 02:24 UTC]** Imprensa internacional vê crise no STF após revelações envolvendo Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/imprensa-internacional-aponta-crise-no-stf-apos-revelacoes-envolvendo-moraes-e-vorcaro/)_
+
