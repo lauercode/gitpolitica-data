@@ -842,3 +842,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 17:04 UTC]** Conflito entre Moraes e Mendonça faz Fachin defender o fim do inquérito das fake news
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/conflito-entre-moraes-e-mendonca-faz-fachin-defender-o-fim-do-inquerito-das-fake-news/)_
 
+- **[2026-09-04 16:51 UTC]** Transparência Internacional pede afastamento de Moraes para evitar interferência em investigações
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/transparencia-internacional-pede-afastamento-de-moraes-para-evitar-interferencia-em-investigacao/)_
+
