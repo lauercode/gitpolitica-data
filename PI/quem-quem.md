@@ -236,3 +236,6 @@
 - **[2026-09-03 23:02 UTC]** 'Quem Ama Cuida': Adriana arma flagrante e faz Ademir perder Dora de vez
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/quem-ama-cuida-adriana-arma-flagrante-e-faz-ademir-perder-dora-de-vez.shtml)_
 
+- **[2026-09-03 23:00 UTC]** Renato Góes posa caracterizado como filho desaparecido de Arthur em 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/renato-goes-posa-caracterizado-como-filho-desaparecido-de-arthur-em-quem-ama-cuida.shtml)_
+
