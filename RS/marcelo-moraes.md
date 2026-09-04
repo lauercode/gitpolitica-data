@@ -761,3 +761,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 00:05 UTC]** Lula evita falar de Moraes e grava vídeo para faturar com Caso Master e prisão de Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-para-si-merito-por-investigacao-do-master-e-prisao-de-vorcaro/)_
 
+- **[2026-09-04 05:07 UTC]** Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss)_
+
