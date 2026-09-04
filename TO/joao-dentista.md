@@ -14,3 +14,6 @@
 - **[2026-09-02 15:24 UTC]** Clei Bagattini: Polícia Civil aponta que morte de dentista foi encomendada a 'escritório do crime' em Vilhena, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/02/clei-bagattini-policia-civil-aponta-que-morte-de-dentista-foi-encomendada-a-escritorio-do-crime-em-vilhena-ro.ghtml)_
 
+- **[2026-09-04 16:37 UTC]** VÍDEO: Homem depreda unidade de saúde por falta de dentista em Canoas, no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/homem-depreda-unidade-de-saude-por-falta-de-dentista-em-canoas-no-rs.ghtml)_
+
