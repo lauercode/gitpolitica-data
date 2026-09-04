@@ -56,3 +56,6 @@
 - **[2026-09-02 11:30 UTC]** As engrenagens da ordem mundial dos EUA estão se soltando
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2026/09/as-engrenagens-da-ordem-mundial-dos-eua-estao-se-soltando.shtml)_
 
+- **[2026-09-04 11:20 UTC]** China será concorrente do Brasil no mercado mundial de frango, diz Rabobank
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/china-sera-concorrente-do-brasil-no-mercado-mundial-de-frango-diz-rabobank.shtml)_
+
