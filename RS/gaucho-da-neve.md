@@ -11,3 +11,6 @@
 - **[2026-08-31 20:32 UTC]** Alerta de ‘tempestade de neve’ no Waze surpreende motoristas em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/31/alerta-de-tempestade-de-neve-no-waze-surpreende-motoristas-em-sao-luis.ghtml)_
 
+- **[2026-09-04 19:37 UTC]** Neve no feriadão? SC terá frio de até -8°C, geada ampla e chance de chuva congelada
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/neve-no-feriadao-sc-tera-frio-de-ate-8c.ghtml)_
+
