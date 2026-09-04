@@ -782,3 +782,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 12:22 UTC]** Fachin retira do inquérito das fake news pedido de Moraes para investigar Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/fachin-manda-pgr-e-mendonca-se-manifestarem-sobre-pedido-de-investigacao-feito-por-moraes.ghtml)_
 
+- **[2026-09-04 03:00 UTC]** Relatório da PF usado por Moraes indica assimetria em ações de Mendonça, mas não tem valor probatório
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/em-relatorio-pf-indica-assimetria-em-acoes-de-mendonca-contra-politicos-e-ve-alcolumbre-como-provavel-alvo-estrategico.ghtml)_
+
