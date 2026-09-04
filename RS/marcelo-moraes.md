@@ -731,3 +731,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 01:26 UTC]** Crise escala no STF, e aliados de Mendonça veem ofensiva de Moraes para tirá-lo da relatoria do Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/03/crise-stf-mendonca-moraes-relatoria-master.ghtml)_
 
+- **[2026-09-04 00:40 UTC]** PF diz que Mendonça determinou ações 'sem autorização específica' contra Moraes; decisões causaram crise no tribunal
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/pf-diz-que-mendonca-determinou-acoes-sem-autorizacao-especifica-contra-moraes-decisoes-causaram-crise-no-tribunal.ghtml)_
+
