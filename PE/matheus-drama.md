@@ -14,3 +14,6 @@
 - **[2026-09-02 15:31 UTC]** Conheça a lenda por trás de 'O Rato', k-drama da Netflix sobre roubo de identidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/conheca-a-lenda-por-tras-de-o-rato-k-drama-da-netflix-sobre-roubo-de-identidade.shtml)_
 
+- **[2026-09-03 23:03 UTC]** 'Emergência 53' leva drama hospitalar às ruas e sacode limites do gênero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2026/09/emergencia-53-leva-drama-hospitalar-as-ruas-e-sacode-limites-do-genero.shtml)_
+
