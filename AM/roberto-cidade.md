@@ -134,3 +134,6 @@
 - **[2026-09-03 14:15 UTC]** Pattaya, a 'cidade do pecado' onde 5.000 militares americanos desembarcaram após oito meses em alto mar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/pattaya-a-cidade-do-pecado-onde-5-mil-militares-americanos-desembarcaram-apos-oito-meses-em-alto-mar.shtml)_
 
+- **[2026-09-04 10:43 UTC]** Aposta paranaense acerta a quina da Mega-Sena e prêmio principal acumula em R$ 48 milhões; veja a cidade
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/04/aposta-paranaense-quina-mega-sena.ghtml)_
+
