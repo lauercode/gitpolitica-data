@@ -692,3 +692,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 20:33 UTC]** Viana pede afastamento de Alcolumbre por não pautar impeachment de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/viana-pede-afastamento-de-alcolumbre-por-nao-pautar-impeachment-de-moraes/)_
 
+- **[2026-09-03 23:44 UTC]** PF diz a Moraes em relatório que Mendonça manifestou intenção de afastar diretor da corporação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/pf-diz-a-moraes-em-relatorio-que-mendonca-manifestou-intencao-de-afastar-diretor-da-corporacao.ghtml)_
+
