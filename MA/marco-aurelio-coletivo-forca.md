@@ -50,3 +50,6 @@
 - **[2026-09-01 17:05 UTC]** Lavoura e pecuária surpreendem e dão força ao PIB agropecuário no ano
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lavoura-e-pecuaria-surpreendem-e-dao-forca-ao-pib-agropecuario-no-ano.shtml)_
 
+- **[2026-09-04 12:36 UTC]** Emprego nos EUA ganha força, mas desemprego permanece em 4,1%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/emprego-nos-eua-ganha-forca-mas-desemprego-permanece-em-41.shtml)_
+
