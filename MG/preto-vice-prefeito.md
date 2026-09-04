@@ -62,3 +62,6 @@
 - **[2026-09-03 21:43 UTC]** Equipe de campanha de ex-prefeito e candidato a deputado federal sofre acidente no Uiramutã
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/equipe-de-campanha-de-ex-prefeito-e-candidato-a-deputado-federal-sofre-acidente-no-uiramuta.ghtml)_
 
+- **[2026-09-04 17:56 UTC]** Após cassação, TRE-MA marca eleição suplementar para prefeito e vice em Nova Olinda do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/apos-cassacao-tre-ma-marca-eleicao-suplementar-para-prefeito-e-vice-em-nova-olinda-do-maranhao.ghtml)_
+
