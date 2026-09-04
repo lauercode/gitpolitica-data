@@ -32,3 +32,6 @@
 - **[2026-09-03 23:05 UTC]** Terceiro primeiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/09/terceiro-primeiro.shtml)_
 
+- **[2026-09-04 14:31 UTC]** Evento reúne especialistas para debater captação de recursos no terceiro setor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/09/evento-reune-especialistas-para-debater-captacao-de-recursos-no-terceiro-setor.shtml)_
+
