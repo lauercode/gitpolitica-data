@@ -62,3 +62,6 @@
 - **[2026-09-04 13:36 UTC]** Ação de Trump sobre petróleo venezuelano ameaça dívida bilionária com a China
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acao-de-trump-sobre-petroleo-venezuelano-ameaca-divida-bilionaria-com-a-china.shtml)_
 
+- **[2026-09-04 11:20 UTC]** China será concorrente do Brasil no mercado mundial de frango, diz Rabobank
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/china-sera-concorrente-do-brasil-no-mercado-mundial-de-frango-diz-rabobank.shtml)_
+
