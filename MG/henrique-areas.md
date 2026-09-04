@@ -50,3 +50,6 @@
 - **[2026-09-04 07:40 UTC]** Seca na Amazônia atingiu 38% das áreas habitadas no último El Niño
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/seca-na-amazonia-atingiu-38-das-areas-habitadas-no-ultimo-el-nino)_
 
+- **[2026-09-04 18:16 UTC]** Dia da Amazônia destaca desafio de levar saneamento para áreas de igarapés em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/aguas-de-manaus/aguas-de-manaus/noticia/2026/09/04/dia-da-amazonia-destaca-desafio-de-levar-saneamento-para-areas-de-igarapes-em-manaus.ghtml)_
+
