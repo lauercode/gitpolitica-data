@@ -134,3 +134,6 @@
 - **[2026-09-03 23:08 UTC]** Leis viabilizam a Copa Feminina de 2027 e propostas reforçam o protagonismo das mulheres no futebol
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302724-leis-viabilizam-a-copa-feminina-de-2027-e-propostas-reforcam-o-protagonismo-das-mulheres-no-futebol)_
 
+- **[2026-09-04 14:59 UTC]** Filme produzido por jovens indígenas retrata relação de mulheres com espaço sagrado no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/filme-produzido-por-jovens-indigenas-retrata-relacao-de-mulheres-com-espaco-sagrado-no-acre.ghtml)_
+
