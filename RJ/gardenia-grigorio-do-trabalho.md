@@ -206,3 +206,6 @@
 - **[2026-09-04 10:12 UTC]** Dólar sobe com mercado de trabalho forte nos EUA e cenário eleitoral; Bolsa ronda a estabilidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-alta-com-mercado-de-trabalho-forte-nos-eua-e-cenario-eleitoral-no-radar.shtml)_
 
+- **[2026-09-04 15:48 UTC]** Motorista de ônibus suspeito de matar colega de trabalho a facadas após discussão é preso em Manaus; VÍDEO
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/04/suspeito-de-matar-motorista-de-transporte-publico-durante-expediente-e-preso-em-manaus.ghtml)_
+
