@@ -17,3 +17,6 @@
 - **[2026-08-26 19:54 UTC]** Jovem tem cabelo raspado e é agredida por três mulheres após receber mensagem de militar do Exército em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/jovem-tem-cabelo-raspado-e-e-agredida-por-tres-mulheres-apos-receber-mensagem-de-militar-do-exercito-em-boa-vista.ghtml)_
 
+- **[2026-09-04 08:15 UTC]** Kendall Jenner elogia cabelo de Marina Ruy Barbosa em Veneza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/kendall-jenner-elogia-cabelo-de-marina-ruy-barbosa-em-veneza.shtml)_
+
