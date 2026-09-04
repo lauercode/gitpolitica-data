@@ -32,3 +32,6 @@
 - **[2026-09-04 10:00 UTC]** Paula Pimenta quer atrair jovens com série do universo de 'Fazendo Meu Filme'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/paula-pimenta-quer-atrair-jovens-com-serie-do-universo-de-fazendo-meu-filme.shtml)_
 
+- **[2026-09-04 19:42 UTC]** Mulher morre após batida frontal entre motocicleta e carro na BR-364 em Pimenta Bueno, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/04/mulher-morre-apos-batida-frontal-entre-motocicleta-e-carro-na-br-364-em-pimenta-bueno-ro.ghtml)_
+
