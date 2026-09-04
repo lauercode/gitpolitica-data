@@ -580,3 +580,7 @@ Diretor
 - **[2026-09-04 11:00 UTC]** Sob impasses, Câmara de BH aprova projeto com incentivos à verticalização da região central
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sob-impasses-camara-de-bh-aprova-projeto-com-incentivos-a-verticalizacao-da-regiao-central.shtml)_
 
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
