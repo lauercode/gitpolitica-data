@@ -38,3 +38,6 @@
 - **[2026-09-03 18:15 UTC]** Andrei Rodrigues: conheça o diretor-geral da PF alvo de suspeitas no caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-rodrigues-conheca-o-diretor-geral-da-pf-alvo-de-suspeitas-no-caso-master/)_
 
+- **[2026-09-03 21:15 UTC]** PF relata desconfiança de Mendonça sobre diretor-geral da corporação por proximidade com Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-relata-desconfianca-de-mendonca-sobre-seu-diretor-geral-por-proximidade-com-lula.shtml)_
+
