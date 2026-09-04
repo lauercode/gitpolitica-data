@@ -878,3 +878,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 18:33 UTC]** Oposição questiona imparcialidade de Moraes e pede revisão de condenações no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-questiona-imparcialidade-de-moraes-e-pede-revisao-de-condenacoes-no-stf/)_
 
+- **[2026-09-04 19:27 UTC]** Os novos indícios que ligam o número de telefone salvo por Daniel Vorcaro a Alexandre de Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4gk300l15eo?at_medium=RSS&at_campaign=rss)_
+
