@@ -59,3 +59,6 @@
 - **[2026-09-04 15:08 UTC]** Novo presidente da Colômbia posa ao lado de cadáveres em demonstração de força contra narcotráfico
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/novo-presidente-da-colombia-posa-ao-lado-de-cadaveres-em-demonstracao-de-forca-contra-narcotrafico.shtml)_
 
+- **[2026-09-04 14:28 UTC]** Lula vai usar mote 'A Força que Une o Brasil' para desfile de 7 de setembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-vai-usar-mote-a-forca-que-une-o-brasil-para-desfile-de-7-de-setembro.shtml)_
+
