@@ -71,3 +71,6 @@
 - **[2026-09-03 18:27 UTC]** Consórcio suspende obras de restaurante no Trianon após Promotoria questionar corte de árvores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/consorcio-suspende-obras-de-restaurante-no-trianon-apos-promotoria-questionar-corte-de-arvores.shtml)_
 
+- **[2026-09-03 23:00 UTC]** Masp atualiza exposição sobre a história da América Latina com obras dos países da região
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/masp-atualiza-exposicao-sobre-a-historia-da-america-latina-com-obras-dos-paises-da-regiao.shtml)_
+
