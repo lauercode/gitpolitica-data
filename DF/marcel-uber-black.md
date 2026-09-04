@@ -14,3 +14,6 @@
 - **[2026-09-03 18:00 UTC]** Recém-adquirida, Ri Happy promete melhor Dia das Crianças, Black Friday e Natal 'da história'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/recem-adquirida-ri-happy-promete-melhor-dia-das-criancas-black-friday-e-natal-da-historia.shtml)_
 
+- **[2026-09-04 07:00 UTC]** Serasa Experian avalia que 23,5 milhões estão dispostos a comprar na Black Friday
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/serasa-experian-avalia-que-235-milhoes-estao-dispostos-a-comprar-na-black-friday.shtml)_
+
