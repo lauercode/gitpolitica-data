@@ -872,3 +872,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 18:48 UTC]** Sem citar Moraes, Lula diz que ninguém pode usar cargo “em nome da democracia”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sem-citar-moraes-lula-diz-que-ninguem-pode-usar-cargo-em-nome-da-democracia/)_
 
+- **[2026-09-04 18:45 UTC]** Lula mantém apoio irrestrito a Moraes há anos e o defendeu em crises
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/lula-mantem-apoio-irrestrito-a-moraes-ha-anos-e-o-defendeu-em-crises/)_
+
