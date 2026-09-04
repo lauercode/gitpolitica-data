@@ -14,3 +14,6 @@
 - **[2026-09-03 19:38 UTC]** Allyson Bezerra destaca propostas para mobilidade urbana em Natal e Mossoró
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/03/allyson-bezerra-destaca-propostas-para-mobilidade-urbana-em-natal-e-mossoro.ghtml)_
 
+- **[2026-09-04 19:37 UTC]** Allyson apresenta propostas para a saúde durante visita a hospital em Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/04/alysson-apresenta-propostas-para-a-saude-durante-visita-a-hospital-em-mossoro.ghtml)_
+
