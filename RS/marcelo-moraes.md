@@ -848,3 +848,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 15:13 UTC]** Lula procura se afastar de Moraes enquanto investe em enfraquecer Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-procura-se-afastar-de-moraes-enquanto-investe-enfraquecer-mendonca/)_
 
+- **[2026-09-04 15:11 UTC]** Mendonça enfrenta sozinho blindagem do sistema e vingança de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-enfrenta-sozinho-blindagem-do-sistema-e-vinganca-de-moraes/)_
+
