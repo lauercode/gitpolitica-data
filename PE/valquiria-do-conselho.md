@@ -47,3 +47,6 @@
 - **[2026-09-03 12:45 UTC]** Gonet dirá a conselho da PGR que nunca manteve relação com Vorcaro nem pediu viagem ao filho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gonet-dira-a-conselho-da-pgr-que-nunca-manteve-relacao-com-vorcaro.shtml)_
 
+- **[2026-09-03 21:20 UTC]** Conselho da Volkswagen aprova reestruturação, confirmando corte de até 100 mil empregos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/conselho-da-volkswagen-aprova-reestruturacao-confirmando-corte-de-ate-100-mil-empregos.shtml)_
+
