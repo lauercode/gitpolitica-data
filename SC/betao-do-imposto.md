@@ -71,3 +71,6 @@
 - **[2026-09-03 21:11 UTC]** Taxa das blusinhas: calculadora do g1 mostra quanto você pagaria com ou sem o imposto
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/03/calculadora-do-g1-taxa-das-blusinhas.ghtml)_
 
+- **[2026-09-04 16:11 UTC]** Eleições 2026 no PR: Requião Filho propõe zerar imposto de pequenas e microempresas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-requiao-filho.ghtml)_
+
