@@ -188,3 +188,6 @@
 - **[2026-09-04 00:17 UTC]** Datafolha: Lula mantém dianteira entre nordestinos, e Flávio entre sulistas; Cury avança entre jovens
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-mantem-dianteira-entre-nordestinos-e-flavio-entre-sulistas-cury-avanca-entre-jovens.shtml)_
 
+- **[2026-09-03 23:00 UTC]** Campanha de Lula busca ponte com Cury e tenta evitar que ele se alie a Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-busca-ponte-com-cury-e-tenta-evitar-que-ele-se-alie-a-flavio.shtml)_
+
