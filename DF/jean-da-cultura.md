@@ -41,3 +41,6 @@
 - **[2026-09-04 09:00 UTC]** Corrida de canoa e subida no açaizeiro: jogos escolares valorizam cultura ribeirinha em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/corrida-de-canoa-e-subida-no-acaizeiro-jogos-escolares-valorizam-cultura-ribeirinha-em-belem.ghtml)_
 
+- **[2026-09-04 12:36 UTC]** Festival da Cultura Japonesa de Salvador começa nesta sexta-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/festival-da-cultura-japonesa-de-salvador-comeca-nesta-sexta-feira)_
+
