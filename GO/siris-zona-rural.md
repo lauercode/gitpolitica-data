@@ -44,3 +44,6 @@
 - **[2026-09-03 21:56 UTC]** Senado aprova novas regras para seguro rural
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/senado-aprova-novas-regras-para-seguro-rural.shtml)_
 
+- **[2026-09-04 19:15 UTC]** Cícero Lucena defende assistência rural para famílias da agricultura familiar na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/cicero-lucena-defende-assistencia-rural-para-familias-da-agricultura-familiar-na-paraiba.ghtml)_
+
