@@ -851,3 +851,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 15:11 UTC]** Mendonça enfrenta sozinho blindagem do sistema e vingança de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-enfrenta-sozinho-blindagem-do-sistema-e-vinganca-de-moraes/)_
 
+- **[2026-09-04 17:03 UTC]** Fachin defende fim do inquérito das fake news em meio a embate de Moraes com Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-defende-fim-do-inquerito-das-fake-news-em-meio-a-embate-de-moraes-com-mendonca/)_
+
