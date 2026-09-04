@@ -188,3 +188,6 @@
 - **[2026-09-04 07:00 UTC]** Rock in Rio 2026: os melhores e os piores dias segundo a astrologia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/rock-in-rio-2026-os-melhores-e-os-piores-dias-segundo-a-astrologia.shtml)_
 
+- **[2026-09-04 18:38 UTC]** Alcolumbre considera votar fim da 6x1 antes do segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/alcolumbre-considera-votar-fim-da-6x1-antes-do-segundo-turno.shtml)_
+
