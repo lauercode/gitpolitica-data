@@ -29,3 +29,6 @@
 - **[2026-09-04 02:20 UTC]** Militância e afoxé: banda Afro Axé Dudu, cria do movimento negro, faz show gratuito na orla de Mosqueiro
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/militancia-e-afoxe-banda-afro-axe-dudu-cria-do-movimento-negro-faz-show-gratuito-na-orla-de-mosqueiro.ghtml)_
 
+- **[2026-09-04 08:28 UTC]** Movimento Alcoólicos Anônimos no Rio comemora 79 anos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/alcoolicos-anonimos-no-rio-comemora-79-anos)_
+
