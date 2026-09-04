@@ -35,3 +35,6 @@
 - **[2026-09-03 21:29 UTC]** Eleições 2026 no PR: Sergio Moro diz que é a favor da privatização da Copel, mas promete cobrar plano de investimentos da empresa
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-no-pr-agenda-sergio-moro-3-setembro.ghtml)_
 
+- **[2026-09-04 11:41 UTC]** Eleições 2026 no PR: Sérgio Moro propõe plataforma para acompanhar pedágios e obras nas rodovias
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-sergio-moro.ghtml)_
+
