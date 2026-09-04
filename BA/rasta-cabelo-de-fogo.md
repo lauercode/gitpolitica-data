@@ -74,3 +74,6 @@
 - **[2026-09-04 12:04 UTC]** Dois homens são mortos a tiros após casa ser invadida em Pedras de Fogo, na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/dois-homens-sao-mortos-a-tiros-apos-casa-ser-invadida-em-pedras-de-fogo-na-pb.ghtml)_
 
+- **[2026-09-04 14:04 UTC]** Idoso morre ao cair em câmara de defumação de linguiça artesanal em SC; casa pegou fogo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/idoso-morre-cair-camara-defumacao-linguica-artesanal-sc-casa-pegou-fogo.ghtml)_
+
