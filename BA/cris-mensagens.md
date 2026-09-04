@@ -236,3 +236,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 03:00 UTC]** Nikolas Ferreira e Daniel Vorcaro: ouça ÁUDIO, leia transcrição e veja o que deputado falou sobre mensagens
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml)_
 
+- **[2026-09-04 10:06 UTC]** Empresários discutem novo manifesto para pressionar STF após mensagens de Vorcaro e Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresarios-discutem-novo-manifesto-para-pressionar-stf-apos-mensagens-de-vorcaro-e-moraes.shtml)_
+
