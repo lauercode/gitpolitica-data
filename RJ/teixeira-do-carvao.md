@@ -11,3 +11,6 @@
 - **[2026-09-04 06:00 UTC]** Carvão que acende ‘sozinho’ abre franquias e pretende expandir para todo o país
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/carvao-que-acende-sozinho-abre-franquias-e-pretende-expandir-para-todo-o-pais.ghtml)_
 
+- **[2026-09-04 06:00 UTC]** Carvão que acende 'sozinho' abre franquias e pretende expandir para todo o país
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/carvao-que-acende-sozinho-abre-franquias-e-pretende-expandir-para-todo-o-pais.ghtml)_
+
