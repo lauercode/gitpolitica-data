@@ -239,3 +239,6 @@
 - **[2026-09-03 23:00 UTC]** Renato Góes posa caracterizado como filho desaparecido de Arthur em 'Quem Ama Cuida'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/renato-goes-posa-caracterizado-como-filho-desaparecido-de-arthur-em-quem-ama-cuida.shtml)_
 
+- **[2026-09-04 11:56 UTC]** STF garante Justiça gratuita para quem ganha até R$ 5 mil por mês
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/stf-garante-justica-gratuita-para-quem-ganha-ate-r-5-mil-por-mes)_
+
