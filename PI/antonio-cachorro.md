@@ -47,3 +47,6 @@
 - **[2026-09-04 12:49 UTC]** Homem é preso suspeito de abusar sexualmente de cachorro em Aracaju
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/homem-e-preso-suspeito-de-abusar-sexualmente-de-cachorro-em-aracaju.ghtml)_
 
+- **[2026-09-04 10:31 UTC]** Homem é preso suspeito de maus-tratos contra cachorro em Queimadas
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/homem-e-preso-suspeito-de-maus-tratos-contra-cachorro-em-queimadas.ghtml)_
+
