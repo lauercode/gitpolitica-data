@@ -32,3 +32,6 @@
 - **[2026-09-04 16:26 UTC]** CPM 22, Caminhos do Frio e mais: 'Qual a Boa?' do fim de semana, 4, 5 e 6 de setembro na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/musica/noticia/2026/09/04/cpm-22-caminhos-do-frio-e-mais-qual-a-boa-do-fim-de-semana-4-5-e-6-de-setembro-na-pb.ghtml)_
 
+- **[2026-09-04 19:37 UTC]** Neve no feriadão? SC terá frio de até -8°C, geada ampla e chance de chuva congelada
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/neve-no-feriadao-sc-tera-frio-de-ate-8c.ghtml)_
+
