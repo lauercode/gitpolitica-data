@@ -695,3 +695,6 @@
 - **[2026-09-04 14:32 UTC]** Oposição tenta anular julgamentos de Bolsonaro e 8 de janeiro com revelações sobre Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-tenta-anular-julgamentos-de-bolsonaro-e-8-de-janeiro-com-revelacoes-sobre-moraes/)_
 
+- **[2026-09-04 19:33 UTC]** Caiado sobre Flávio Bolsonaro: 'Personagem criado para disputar uma eleição'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/04/caiado-flavio-stf.ghtml)_
+
