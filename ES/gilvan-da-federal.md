@@ -374,3 +374,6 @@
 - **[2026-09-04 14:27 UTC]** É #FAKE que norma do governo federal proíbe uso de estribos em caminhões de coleta de lixo
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/04/e-fake-que-norma-do-governo-federal-proibe-uso-de-estribos-em-caminhoes-de-coleta-de-lixo.ghtml)_
 
+- **[2026-09-04 19:19 UTC]** Cidade do AC recebe mais de R$ 1,7 milhão do governo federal para ações de proteção
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/cidade-do-ac-recebe-mais-de-r-17-milhao-do-governo-federal-para-acoes-de-protecao.ghtml)_
+
