@@ -20,3 +20,6 @@
 - **[2026-09-04 10:36 UTC]** Dino diz que 'STF é maior que qualquer um que o integra' após escalada da tensão entre Moraes e Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/dino-diz-que-stf-e-maior-que-qualquer-um-que-o-integra-apos-escalada-da-tensa-entre-moraes-e-mendonca.shtml)_
 
+- **[2026-09-04 11:24 UTC]** Dino reconhece crise no STF e defende “seguir julgando”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-reconhece-crise-no-stf-e-defende-seguir-julgando/)_
+
