@@ -128,3 +128,6 @@
 - **[2026-09-03 21:06 UTC]** Fim da 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/fim-da-6x1-alcolumbre-indica-que-proposta-que-reduz-jornada-de-trabalho-sera-votada-apos-as-eleicoes.ghtml)_
 
+- **[2026-09-04 09:00 UTC]** Festival do Abacaxi: tráfego de veículos pesados será restrito nas BR-156 e BR-210; veja horários
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/04/festival-do-abacaxi-trafego-de-veiculos-pesados-sera-restrito-nas-br-156-e-br-210-veja-horarios.ghtml)_
+
