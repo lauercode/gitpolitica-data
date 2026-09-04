@@ -26,3 +26,6 @@
 - **[2026-09-03 05:00 UTC]** Feriado de 7 de Setembro deve ser frio e chuvoso em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/feriado-de-7-de-setembro-deve-ser-frio-e-chuvoso-em-sao-paulo.shtml)_
 
+- **[2026-09-04 05:00 UTC]** Sexta (4) é o último dia de calor em São Paulo antes da chegada do frio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sexta-4-e-o-ultimo-dia-de-calor-em-sao-paulo-antes-da-chegada-do-frio.shtml)_
+
