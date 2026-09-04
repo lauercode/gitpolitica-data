@@ -869,3 +869,6 @@
 - **[2026-09-04 19:08 UTC]** Em gesto ao STF, coordenador da campanha de Flávio se reúne com Gilmar Mendes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/04/em-gesto-ao-stf-coordenador-da-campanha-de-flavio-se-reune-com-gilmar-mendes.ghtml)_
 
+- **[2026-09-04 15:54 UTC]** Alcolumbre e Moraes buscam autoproteção, diz Flávio Bolsonaro em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-e-moraes-buscam-autoprotecao-diz-flavio-bolsonaro-em-sp.shtml)_
+
