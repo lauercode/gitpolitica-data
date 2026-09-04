@@ -758,3 +758,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 01:06 UTC]** Oposição reage a pedido de Moraes para investigar Mendonça: “Está fora de si”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-reage-a-pedido-de-moraes-para-investigar-mendonca-esta-fora-de-si/)_
 
+- **[2026-09-04 00:05 UTC]** Lula evita falar de Moraes e grava vídeo para faturar com Caso Master e prisão de Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-para-si-merito-por-investigacao-do-master-e-prisao-de-vorcaro/)_
+
