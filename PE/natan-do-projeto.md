@@ -221,3 +221,6 @@
 - **[2026-09-04 19:12 UTC]** Comissão aprova projeto que estabelece prazo para início de buscas por desaparecidos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302594-comissao-aprova-projeto-que-estabelece-prazo-para-inicio-de-buscas-por-desaparecidos)_
 
+- **[2026-09-04 21:43 UTC]** Comissão aprova projeto que autoriza extensão de estágio após conclusão de curso superior
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302980-comissao-aprova-projeto-que-autoriza-extensao-de-estagio-apos-conclusao-de-curso-superior)_
+
