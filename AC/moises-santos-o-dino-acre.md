@@ -293,3 +293,6 @@
 - **[2026-09-04 08:00 UTC]** Mãe e irmã de homem torturado por PMs devem ganhar R$ 45 mil de indenização no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/mae-e-irma-de-homem-torturado-por-pms-devem-ganhar-r-45-mil-de-indenizacao-no-acre.ghtml)_
 
+- **[2026-09-04 15:55 UTC]** Para driblar calor intenso, professor coloca barra de gelo em caixa d’água no Acre; veja VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/para-driblar-calor-intenso-professor-coloca-barra-de-gelo-em-caixa-dagua-no-acre-veja-video.ghtml)_
+
