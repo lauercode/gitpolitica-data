@@ -842,3 +842,6 @@
 - **[2026-09-03 21:30 UTC]** Sem discurso novo e com avaliação pior, Lula vê Flávio na cola na eleição da sujeira judicial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/sem-discurso-novo-e-com-avaliacao-pior-lula-ve-flavio-na-cola-na-eleicao-da-sujeira-judicial.shtml)_
 
+- **[2026-09-04 00:17 UTC]** Datafolha: Lula mantém dianteira entre nordestinos, e Flávio entre sulistas; Cury avança entre jovens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-mantem-dianteira-entre-nordestinos-e-flavio-entre-sulistas-cury-avanca-entre-jovens.shtml)_
+
