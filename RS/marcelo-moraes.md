@@ -707,3 +707,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 21:10 UTC]** Fachin manda Mendonça, Moraes, Gonet e chefe da PF prestarem informações sobre diálogos com Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-manda-mendonca-moraes-gonet-e-chefe-da-pf-prestarem-informacoes-sobre-dialogos-com-vorcaro.shtml)_
 
+- **[2026-09-03 20:21 UTC]** Alexandre de Moraes envia a Fachin pedido de investigação contra André Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/alexandre-de-moraes-envia-a-fachin-pedido-de-investigacao-contra-andre-mendonca.shtml)_
+
