@@ -371,3 +371,6 @@
 - **[2026-09-04 00:12 UTC]** Daniel Vorcaro denuncia ameaças e pressão para omitir nomes do governo federal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/daniel-vorcaro-denuncia-ameacas-e-pressao-para-omitir-nomes-do-governo-federal/)_
 
+- **[2026-09-04 14:27 UTC]** É #FAKE que norma do governo federal proíbe uso de estribos em caminhões de coleta de lixo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/04/e-fake-que-norma-do-governo-federal-proibe-uso-de-estribos-em-caminhoes-de-coleta-de-lixo.ghtml)_
+
