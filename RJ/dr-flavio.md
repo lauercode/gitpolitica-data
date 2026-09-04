@@ -854,3 +854,6 @@
 - **[2026-09-03 23:00 UTC]** Campanha de Lula busca ponte com Cury e tenta evitar que ele se alie a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-busca-ponte-com-cury-e-tenta-evitar-que-ele-se-alie-a-flavio.shtml)_
 
+- **[2026-09-04 13:07 UTC]** Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y75qky1zgo?at_medium=RSS&at_campaign=rss)_
+
