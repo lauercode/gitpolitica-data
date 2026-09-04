@@ -296,3 +296,6 @@
 - **[2026-09-04 15:55 UTC]** Para driblar calor intenso, professor coloca barra de gelo em caixa d’água no Acre; veja VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/para-driblar-calor-intenso-professor-coloca-barra-de-gelo-em-caixa-dagua-no-acre-veja-video.ghtml)_
 
+- **[2026-09-04 14:59 UTC]** Filme produzido por jovens indígenas retrata relação de mulheres com espaço sagrado no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/filme-produzido-por-jovens-indigenas-retrata-relacao-de-mulheres-com-espaco-sagrado-no-acre.ghtml)_
+
