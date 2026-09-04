@@ -44,3 +44,6 @@
 - **[2026-09-04 12:36 UTC]** Festival da Cultura Japonesa de Salvador começa nesta sexta-feira
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/festival-da-cultura-japonesa-de-salvador-comeca-nesta-sexta-feira)_
 
+- **[2026-09-04 11:17 UTC]** Morre o diretor Tony Gatlif, que explorou a cultura cigana nos cinemas, aos 77
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/morre-o-diretor-tony-gatlif-que-explorou-a-cultura-cigana-nos-cinemas-aos-77.shtml)_
+
