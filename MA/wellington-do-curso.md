@@ -56,3 +56,6 @@
 - **[2026-09-03 11:00 UTC]** Ufac prevê 1ª turma de Farmácia para 2028; VEJA vagas, forma de ingresso e estrutura do curso
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/ufac-preve-1a-turma-de-farmacia-para-2028-veja-vagas-forma-de-ingresso-e-estrutura-do-curso.ghtml)_
 
+- **[2026-09-04 21:43 UTC]** Comissão aprova projeto que autoriza extensão de estágio após conclusão de curso superior
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302980-comissao-aprova-projeto-que-autoriza-extensao-de-estagio-apos-conclusao-de-curso-superior)_
+
