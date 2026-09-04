@@ -20,3 +20,6 @@
 - **[2026-08-31 17:06 UTC]** Como o granizo se forma? Bolas de gelo de até 4 cm danificaram carros e mais de 3 mil casas em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/como-granizo-se-forma-bolas-de-gelo-danificaram-carros-casas-sc.ghtml)_
 
+- **[2026-09-04 15:55 UTC]** Para driblar calor intenso, professor coloca barra de gelo em caixa d’água no Acre; veja VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/para-driblar-calor-intenso-professor-coloca-barra-de-gelo-em-caixa-dagua-no-acre-veja-video.ghtml)_
+
