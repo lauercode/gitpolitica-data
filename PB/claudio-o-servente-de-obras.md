@@ -80,3 +80,6 @@
 - **[2026-09-04 17:02 UTC]** Especialista em obras complexas reforça posicionamento com a Lovatel Agência
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/lovatel-agencia-marca-e-negocio/noticia/2026/09/04/especialista-em-obras-complexas-reforca-posicionamento-com-a-lovatel-agencia.ghtml)_
 
+- **[2026-09-04 17:50 UTC]** BR-163 terá obras de modernização para ampliar segurança e fluidez
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/via-campo-via-campo-conectando-caminhos/noticia/2026/09/04/br-163-tera-obras-de-modernizacao-para-ampliar-seguranca-e-fluidez.ghtml)_
+
