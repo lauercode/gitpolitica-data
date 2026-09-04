@@ -77,3 +77,6 @@
 - **[2026-09-04 11:41 UTC]** Eleições 2026 no PR: Sérgio Moro propõe plataforma para acompanhar pedágios e obras nas rodovias
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-sergio-moro.ghtml)_
 
+- **[2026-09-04 17:02 UTC]** Especialista em obras complexas reforça posicionamento com a Lovatel Agência
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/lovatel-agencia-marca-e-negocio/noticia/2026/09/04/especialista-em-obras-complexas-reforca-posicionamento-com-a-lovatel-agencia.ghtml)_
+
