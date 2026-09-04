@@ -17,3 +17,6 @@
 - **[2026-09-02 21:48 UTC]** Avô é preso sob suspeita de espancar neta após tentar estuprá-la no Piauí
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/avo-e-preso-sob-suspeita-de-espancar-neta-apos-tentar-estupra-la-no-piaui.shtml)_
 
+- **[2026-09-04 14:00 UTC]** Lula planeja ato de campanha no Piauí e contraria expectativa de Ciro Nogueira por neutralidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-planeja-ato-de-campanha-no-piaui-e-contraria-expectativa-de-ciro-nogueira-por-neutralidade.shtml)_
+
