@@ -23,3 +23,6 @@
 - **[2026-09-04 02:17 UTC]** Eleições 2026: David Almeida participa de reunião partidária e promete acabar com déficit de habitações no estado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-david-almeida-participa-de-reuniao-partidaria-e-promete-acabar-com-deficit-de-habitacoes-no-estado.ghtml)_
 
+- **[2026-09-04 15:12 UTC]** Eleições 2026: David Almeida participa de caminhada em Manaus e apresenta propostas para pequenos negócios
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-david-almeida-participa-de-caminhada-em-manaus-e-apresenta-propostas-para-pequenos-negocios.ghtml)_
+
