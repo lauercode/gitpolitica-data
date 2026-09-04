@@ -92,3 +92,6 @@
 - **[2026-09-03 23:52 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quinta-feira (3)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quinta-feira-3.ghtml)_
 
+- **[2026-09-04 01:58 UTC]** Temporais são registrados no interior do Tocantins; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/temporais-sao-registrados-no-interior-do-tocantins-video.ghtml)_
+
