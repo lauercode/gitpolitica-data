@@ -38,3 +38,6 @@
 - **[2026-08-31 17:16 UTC]** Cleitinho Azevedo propõe IPVA para aviões e revisão de pedágios em MG
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/cleitinho-defende-cobrar-ipva-de-avioes-e-rever-contratos-de-pedagio-em-mg.ghtml)_
 
+- **[2026-09-04 13:00 UTC]** Cleitinho aposta em agendas no interior e mobilização digital como estratégia de campanha em MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cleitinho-aposta-em-agendas-no-interior-e-mobilizacao-digital-como-estrategia-de-campanha-em-mg.shtml)_
+
