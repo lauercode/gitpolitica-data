@@ -215,3 +215,6 @@
 - **[2026-09-04 15:54 UTC]** Projeto cria auxílio-alimentação para pessoas idosas em situação de vulnerabilidade
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301710-projeto-cria-auxilio-alimentacao-para-pessoas-idosas-em-situacao-de-vulnerabilidade)_
 
+- **[2026-09-04 11:00 UTC]** Sob impasses, Câmara de BH aprova projeto com incentivos à verticalização da região central
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sob-impasses-camara-de-bh-aprova-projeto-com-incentivos-a-verticalizacao-da-regiao-central.shtml)_
+
