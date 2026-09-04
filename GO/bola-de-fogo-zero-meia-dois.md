@@ -239,3 +239,6 @@
 - **[2026-09-04 04:07 UTC]** Equipes resgatam dois trabalhadores presos em túnel no Nepal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/equipes-resgatam-dois-trabalhadores-presos-em-tunel-no-nepal.shtml)_
 
+- **[2026-09-04 13:44 UTC]** Como Nepal resgatou dois sobreviventes em túnel nove dias após  avalanche que deixou mais de 1,3 mil mortos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c86xjey5155o?at_medium=RSS&at_campaign=rss)_
+
