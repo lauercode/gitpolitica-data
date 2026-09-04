@@ -53,3 +53,6 @@
 - **[2026-09-03 17:30 UTC]** Lei desmembra Nova Descoberta e cria novo bairro na Zona Sul de Natal; entenda
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/lei-desmembra-nova-descoberta-e-cria-novo-bairro-na-zona-sul-de-natal-entenda.ghtml)_
 
+- **[2026-09-04 11:30 UTC]** Moradores fazem abaixo-assinado para cobrar fim da falta de água em bairro e escola de Uiramutã
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/04/moradores-fazem-abaixo-assinado-para-cobrar-fim-da-falta-de-agua-em-bairro-e-escola-de-uiramuta.ghtml)_
+
