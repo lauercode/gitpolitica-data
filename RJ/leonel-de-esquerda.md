@@ -35,3 +35,6 @@
 - **[2026-09-03 04:00 UTC]** 'Socialista champagne' é a nova esperança da esquerda para eleição na França
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/socialista-champagne-e-a-nova-esperanca-da-esquerda-para-eleicao-na-franca.shtml)_
 
+- **[2026-09-04 10:51 UTC]** Adversários veem Tebet muito 'azulzinha' e querem reforçar aliança dela com a esquerda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/adversarios-veem-tebet-muito-azulzinha-e-querem-reforcar-alianca-dela-com-a-esquerda.shtml)_
+
