@@ -710,3 +710,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 20:21 UTC]** Alexandre de Moraes envia a Fachin pedido de investigação contra André Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/alexandre-de-moraes-envia-a-fachin-pedido-de-investigacao-contra-andre-mendonca.shtml)_
 
+- **[2026-09-03 20:14 UTC]** Moraes pede a Fachin investigação de André Mendonça por abuso de autoridade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-pede-a-fachin-investigacao-de-andre-mendonca-por-abuso-de-autoridade.shtml)_
+
