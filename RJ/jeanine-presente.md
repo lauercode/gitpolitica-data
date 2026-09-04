@@ -14,3 +14,6 @@
 - **[2026-09-01 12:00 UTC]** Cidades do Alentejo, em Portugal, unem passado e presente com relíquias que desafiam o tempo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/cidades-do-alentejo-em-portugal-unem-passado-e-presente-com-reliquias-que-desafiam-o-tempo.shtml)_
 
+- **[2026-09-04 01:36 UTC]** Mendonça apresenta notas de ternos para rebater suspeita de presente de Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-apresenta-notas-de-ternos-para-rebater-suspeita-de-presente-de-vorcaro/)_
+
