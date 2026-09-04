@@ -185,3 +185,6 @@
 - **[2026-09-03 18:01 UTC]** Cury foi conselheiro de Marina Silva quando ela disputou a Presidência pela primeira vez
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cury-foi-conselheiro-de-marina-silva-quando-ela-disputou-a-presidencia-pela-primeira-vez.shtml)_
 
+- **[2026-09-04 00:17 UTC]** Datafolha: Lula mantém dianteira entre nordestinos, e Flávio entre sulistas; Cury avança entre jovens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-mantem-dianteira-entre-nordestinos-e-flavio-entre-sulistas-cury-avanca-entre-jovens.shtml)_
+
