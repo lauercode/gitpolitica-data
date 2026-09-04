@@ -14,3 +14,6 @@
 - **[2026-09-04 19:08 UTC]** Lula afirma ter dito a Trump que Brasil não aceita 'ingerência de ninguém nas eleições'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/lula-afirma-ter-dito-a-trump-que-brasil-nao-aceita-ingerencia-de-ninguem-nas-eleicoes.ghtml)_
 
+- **[2026-09-04 20:13 UTC]** Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-afirma-ter-dito-a-trump-que-brasil-nao-aceita-interferencia-nas-eleicoes/)_
+
