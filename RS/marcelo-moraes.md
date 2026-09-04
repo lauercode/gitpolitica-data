@@ -776,3 +776,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 08:22 UTC]** Caso Master: Fachin cobra explicações de Moraes, Mendonça, PGR e PF
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/caso-master-fachin-cobra-explicacoes-de-moraes-mendonca-pgr-e-pf)_
 
+- **[2026-09-04 13:26 UTC]** Moraes pediu à PF relatórios de inteligência que citavam ministros do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/04/moraes-pf-relatorios-stf.ghtml)_
+
