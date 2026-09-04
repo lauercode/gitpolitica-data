@@ -65,3 +65,6 @@
 - **[2026-09-04 18:12 UTC]** Gonet vira alvo de procedimento em conselho que ele mesmo preside; irmão de Dino é o vice-presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-vira-alvo-de-procedimento-em-conselho-que-ele-mesmo-preside/)_
 
+- **[2026-09-04 18:27 UTC]** Novos membros do Conselho Fiscal da Sicoob Credisul tomam posse
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credisul/noticia/2026/09/04/novos-membros-do-conselho-fiscal-da-sicoob-credisul-tomam-posse.ghtml)_
+
