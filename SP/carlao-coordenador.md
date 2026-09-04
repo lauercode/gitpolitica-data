@@ -26,3 +26,6 @@
 - **[2026-09-04 19:08 UTC]** Em gesto ao STF, coordenador da campanha de Flávio se reúne com Gilmar Mendes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/04/em-gesto-ao-stf-coordenador-da-campanha-de-flavio-se-reune-com-gilmar-mendes.ghtml)_
 
+- **[2026-09-04 16:35 UTC]** Coordenador do grupo Prerrogativas defende reforma do Judiciário e volta do decoro entre os Poderes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/coordenador-do-grupo-prerrogativas-defende-reforma-do-judiciario-e-volta-do-decoro-entre-os-poderes.shtml)_
+
