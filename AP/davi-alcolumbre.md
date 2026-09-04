@@ -155,3 +155,6 @@
 - **[2026-09-04 03:00 UTC]** Em relatório, PF indica assimetria em ações de Mendonça contra políticos e vê Alcolumbre como 'provável alvo estratégico'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/em-relatorio-pf-indica-assimetria-em-acoes-de-mendonca-contra-politicos-e-ve-alcolumbre-como-provavel-alvo-estrategico.ghtml)_
 
+- **[2026-09-04 02:34 UTC]** PF diz que Alcolumbre seria alvo de Mendonça em plano para recompor forças no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-diz-que-alcolumbre-seria-alvo-de-mendonca-em-plano-para-recompor-forcas-no-stf/)_
+
