@@ -35,3 +35,6 @@
 - **[2026-09-04 19:37 UTC]** Neve no feriadão? SC terá frio de até -8°C, geada ampla e chance de chuva congelada
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/neve-no-feriadao-sc-tera-frio-de-ate-8c.ghtml)_
 
+- **[2026-09-04 20:33 UTC]** Fim de semana será marcado por frio e geada em diferentes regiões no RS; mínima pode chegar a 0°C
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/fim-de-semana-marcado-por-frio-geada-no-rs-minima-0c.ghtml)_
+
