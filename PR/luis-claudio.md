@@ -20,3 +20,6 @@
 - **[2026-09-03 07:38 UTC]** 'É a maior crise do STF': Gonet deveria se afastar do caso Master e Moraes precisa ser investigado, afirma ex-PGR Claudio Fonteles
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zgjg308ko?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-03 21:04 UTC]** PF descreve gastos de Claudio Castro com caviar, adega e imóveis em inquérito sobre Refit
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pf-descreve-gastos-de-claudio-castro-com-caviar-adega-e-imoveis-em-inquerito-sobre-refit.shtml)_
+
