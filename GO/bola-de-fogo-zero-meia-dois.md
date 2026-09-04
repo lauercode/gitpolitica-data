@@ -251,3 +251,6 @@
 - **[2026-09-04 14:20 UTC]** Dois homens são presos suspeitos de envolvimento em ataque a capitão da PM em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/04/dois-homens-sao-presos-suspeitos-de-envolvimento-em-ataque-a-capitao-da-pm-em-manaus.ghtml)_
 
+- **[2026-09-04 16:25 UTC]** Dois acusados de envolvimento em morte de menina em Patos são presos novamente
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/dois-acusados-de-envolvimento-em-morte-de-menina-de-5-anos-em-patos-sao-presos-novamente.ghtml)_
+
