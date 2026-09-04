@@ -263,3 +263,6 @@
 - **[2026-09-04 16:20 UTC]** Abel Ferreira é punido com dois jogos de suspensão por chutar microfone
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/abel-ferreira-e-punido-com-dois-jogos-de-suspensao-por-chutar-microfone.shtml)_
 
+- **[2026-09-04 20:53 UTC]** Polícia prende dois suspeitos de matar jovem no Porto da Balsa, em Imperatriz
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/09/04/policia-prende-dois-suspeitos-de-matar-jovem-no-porto-da-balsa-em-imperatriz.ghtml)_
+
