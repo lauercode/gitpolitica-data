@@ -860,3 +860,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 17:08 UTC]** 'Ou o Supremo julga Moraes ou o Congresso julga', diz jurista Joaquim Falcão
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0m39rw19keo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 19:14 UTC]** A senadores, Alcolumbre sinaliza abertura de processo de impeachment cruzado de Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/04/a-senadores-alcolumbre-sinaliza-abertura-de-processo-de-impeachment-cruzado-de-moraes-e-mendonca.ghtml)_
+
