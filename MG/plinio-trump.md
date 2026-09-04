@@ -149,3 +149,6 @@
 - **[2026-09-03 19:49 UTC]** Avião sobrevoa Paramount com faixa que alfineta relação do CEO com Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/aviao-sobrevoa-paramount-com-faixa-que-alfineta-relacao-do-ceo-com-trump.shtml)_
 
+- **[2026-09-03 22:19 UTC]** Trump pede a Suprema Corte poder para restringir voto por correio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-pede-a-suprema-corte-pode-para-restringir-voto-por-correio.shtml)_
+
