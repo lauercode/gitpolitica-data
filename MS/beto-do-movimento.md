@@ -26,3 +26,6 @@
 - **[2026-09-03 18:22 UTC]** Giro de Saia Roraimense: movimento das quadrilhas vira patrimônio de Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/prefeitura-de-boa-vista/boa-vista-a-capital-modelo-da-amazonia/noticia/2026/09/03/giro-de-saia-roraimense-movimento-das-quadrilhas-vira-patrimonio-de-boa-vista.ghtml)_
 
+- **[2026-09-04 02:20 UTC]** Militância e afoxé: banda Afro Axé Dudu, cria do movimento negro, faz show gratuito na orla de Mosqueiro
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/militancia-e-afoxe-banda-afro-axe-dudu-cria-do-movimento-negro-faz-show-gratuito-na-orla-de-mosqueiro.ghtml)_
+
