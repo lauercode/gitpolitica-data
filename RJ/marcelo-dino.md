@@ -23,3 +23,6 @@
 - **[2026-09-04 11:24 UTC]** Dino reconhece crise no STF e defende “seguir julgando”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-reconhece-crise-no-stf-e-defende-seguir-julgando/)_
 
+- **[2026-09-04 18:12 UTC]** Gonet vira alvo de procedimento em conselho que ele mesmo preside; irmão de Dino é o vice-presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-vira-alvo-de-procedimento-em-conselho-que-ele-mesmo-preside/)_
+
