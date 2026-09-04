@@ -764,3 +764,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 05:07 UTC]** Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 06:45 UTC]** O contra-ataque de Moraes a Mendonça: a crise inédita na história do Supremo - O Assunto #1798
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/04/o-contra-ataque-de-moraes-a-mendonca-a-crise-inedita-na-historia-do-supremo-o-assunto-1798.ghtml)_
+
