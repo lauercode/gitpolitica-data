@@ -191,3 +191,6 @@
 - **[2026-09-03 18:08 UTC]** Supremo derruba tese do TST e limita acesso à Justiça do Trabalho gratuita a quem ganha até R$ 5.000
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fachin-vota-por-ampliar-justica-do-trabalho-gratuita-e-gilmar-mendes-quer-limitar.shtml)_
 
+- **[2026-09-04 10:12 UTC]** Dólar abre em alta com mercado de trabalho forte nos EUA e cenário eleitoral no radar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-alta-com-mercado-de-trabalho-forte-nos-eua-e-cenario-eleitoral-no-radar.shtml)_
+
