@@ -779,3 +779,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 13:26 UTC]** Moraes pediu à PF relatórios de inteligência que citavam ministros do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/04/moraes-pf-relatorios-stf.ghtml)_
 
+- **[2026-09-04 12:22 UTC]** Fachin retira do inquérito das fake news pedido de Moraes para investigar Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/fachin-manda-pgr-e-mendonca-se-manifestarem-sobre-pedido-de-investigacao-feito-por-moraes.ghtml)_
+
