@@ -836,3 +836,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 11:47 UTC]** Senadores articulam pedido de impeachment de Mendonça com base em relatório de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/senadores-devem-pedir-impeachment-de-mendonca-com-base-em-relatorio-de-moraes.shtml)_
 
+- **[2026-09-04 11:26 UTC]** Doutrina militar russa de Moraes contamina eleição de vez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/doutrina-militar-russa-de-moraes-contamina-eleicao-de-vez.shtml)_
+
