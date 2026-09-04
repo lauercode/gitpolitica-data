@@ -44,3 +44,6 @@
 - **[2026-09-03 15:09 UTC]** Zema elogia Mendonça e chama Moraes de 'consultor jurídico' de Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/zema-stf-mendonca-moraes.ghtml)_
 
+- **[2026-09-04 16:36 UTC]** VÍDEO: Pequeno tornado chama a atenção no interior do RN; entenda fenômeno
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/04/video-tornado-interior-rn-entenda-fenomeno.ghtml)_
+
