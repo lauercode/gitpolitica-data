@@ -800,3 +800,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 13:13 UTC]** Fachin tira ofensiva de Moraes contra Mendonça do inquérito das fake news e manda PGR se manifestar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-da-5-dias-para-pgr-se-manifestar-sobre-acusacoes-de-moraes-contra-mendonca/)_
 
+- **[2026-09-04 12:17 UTC]** Mendonça fala em “honrar a confiança do povo” em meio a crise envolvendo Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-fala-em-honrar-a-confianca-do-povo-em-meio-a-crise-envolvendo-moraes/)_
+
