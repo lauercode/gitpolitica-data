@@ -830,3 +830,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 14:15 UTC]** Moraes ataca Mendonça e acerta a República
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/moraes-ataca-mendonca-e-acerta-a-republica.shtml)_
 
+- **[2026-09-04 12:34 UTC]** Cargo não pode ser usado para benefício pessoal em nome da democracia, diz Lula sem citar Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cargo-nao-pode-ser-usado-para-beneficio-pessoal-em-nome-da-democracia-diz-lula-sem-citar-moraes.shtml)_
+
