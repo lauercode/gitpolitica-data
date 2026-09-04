@@ -23,3 +23,6 @@
 - **[2026-09-03 17:21 UTC]** VÍDEO: mulher prende cão em grade de casa e abandona filhote durante caminhada em Balneário Camboriú
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/video-mulher-cao-grade-casa-abandona-filhote-balneario-camboriu.ghtml)_
 
+- **[2026-09-04 09:50 UTC]** Mega-Sena: Aposta de Balneário Camboriú fica a um número de faturar prêmio de R$ 48 milhões
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/mega-sena-aposta-balneario-camboriu-quase-vence-premio-milionario.ghtml)_
+
