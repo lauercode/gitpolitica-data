@@ -11,3 +11,6 @@
 - **[2026-09-02 19:39 UTC]** Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 10:01 UTC]** Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-tem-2-milhoes-de-pessoas-que-trabalham-por-meio-de-aplicativos)_
+
