@@ -26,3 +26,6 @@
 - **[2026-09-01 21:37 UTC]** Motim é registrado em unidade prisional da PM em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/confusao-e-registrada-em-unidade-prisional-da-pm-em-manaus.ghtml)_
 
+- **[2026-09-04 16:37 UTC]** VÍDEO: Homem depreda unidade de saúde por falta de dentista em Canoas, no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/homem-depreda-unidade-de-saude-por-falta-de-dentista-em-canoas-no-rs.ghtml)_
+
