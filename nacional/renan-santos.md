@@ -197,3 +197,6 @@
 - **[2026-09-03 17:33 UTC]** Renan Santos anuncia ministro da Educação negro e contra cotas raciais para eventual governo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/renan-santos-anuncia-ministro-da-educacao-negro-e-contra-cotas-raciais-para-eventual-governo.shtml)_
 
+- **[2026-09-04 01:13 UTC]** Renan Santos defende discutir nova Constituição como resposta à crise no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/renan-santos-crise-stf-nova-constituicao.ghtml)_
+
