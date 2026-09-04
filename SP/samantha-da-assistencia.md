@@ -17,3 +17,6 @@
 - **[2026-09-04 14:08 UTC]** Locadora é condenada após cliente ficar sem assistência com carro alugado em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/04/locadora-e-condenada-apos-cliente-ficar-sem-assistencia-com-carro-alugado-em-natal.ghtml)_
 
+- **[2026-09-04 19:15 UTC]** Cícero Lucena defende assistência rural para famílias da agricultura familiar na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/cicero-lucena-defende-assistencia-rural-para-familias-da-agricultura-familiar-na-paraiba.ghtml)_
+
