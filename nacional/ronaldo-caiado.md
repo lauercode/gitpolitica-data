@@ -38,3 +38,6 @@
 - **[2026-09-04 04:00 UTC]** Ronaldo Caiado participa de sabatina da Folha/UOL nesta sexta (4)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ronaldo-caiado-participa-de-sabatina-da-folhauol-nesta-sexta-4.shtml)_
 
+- **[2026-09-04 15:47 UTC]** Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-presidente-4-setembro.ghtml)_
+
