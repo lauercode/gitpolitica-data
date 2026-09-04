@@ -17,3 +17,6 @@
 - **[2026-09-03 23:38 UTC]** Homem é preso em flagrante em Marabá, no PA, após invadir casa da ex e descumprir medida protetiva
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/homem-e-preso-em-flagrante-em-maraba-no-pa-apos-invadir-casa-da-ex-e-descumprir-medida-protetiva.ghtml)_
 
+- **[2026-09-04 17:12 UTC]** Caso José Arthur: Delegacia em Marabá assume investigação
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/caso-jose-arthur-investigacao.ghtml)_
+
