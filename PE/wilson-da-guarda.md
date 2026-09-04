@@ -29,3 +29,6 @@
 - **[2026-09-04 00:12 UTC]** Guarda Municipal usa spray de pimenta contra mulher durante blitz em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/guarda-municipal-usa-spray-de-pimenta-contra-mulher-durante-blitz-em-belem.ghtml)_
 
+- **[2026-09-04 20:12 UTC]** Concurso da Guarda Municipal de Aracaju: veja como consultar local de prova e horários
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/concurso-da-guarda-municipal-de-aracaju-veja-como-consultar-local-de-prova-e-horarios.ghtml)_
+
