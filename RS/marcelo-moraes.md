@@ -767,3 +767,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 06:45 UTC]** O contra-ataque de Moraes a Mendonça: a crise inédita na história do Supremo - O Assunto #1798
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/04/o-contra-ataque-de-moraes-a-mendonca-a-crise-inedita-na-historia-do-supremo-o-assunto-1798.ghtml)_
 
+- **[2026-09-04 06:38 UTC]** Alexandre de Moraes pede investigação contra André Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-pede-investigacao-contra-andre-mendonca-no-stf/)_
+
