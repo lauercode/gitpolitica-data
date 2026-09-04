@@ -14,3 +14,6 @@
 - **[2026-09-02 14:41 UTC]** TSE e DPU ampliam assistência gratuita remota nas eleições
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-e-dpu-ampliam-assistencia-gratuita-nas-eleicoes)_
 
+- **[2026-09-04 14:08 UTC]** Locadora é condenada após cliente ficar sem assistência com carro alugado em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/04/locadora-e-condenada-apos-cliente-ficar-sem-assistencia-com-carro-alugado-em-natal.ghtml)_
+
