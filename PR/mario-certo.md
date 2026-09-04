@@ -11,3 +11,6 @@
 - **[2026-09-04 09:49 UTC]** 'Não tem ninguém certo nessa história': analistas apontam crise sem precedentes e enraizada no STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cgrvgd7j7k8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 14:43 UTC]** Quando todo mundo está certo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/quando-todo-mundo-esta-certo.shtml)_
+
