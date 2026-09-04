@@ -14,3 +14,6 @@
 - **[2026-09-03 21:37 UTC]** Promotoria do Rio denuncia nova cúpula do bicho sob acusação de lavar R$ 5,2 mi em bet autorizada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/promotoria-do-rio-denuncia-nova-cupula-do-bicho-sob-acusacao-de-lavar-r-52-mi-em-bet-autorizada.shtml)_
 
+- **[2026-09-04 09:00 UTC]** MPF investiga DSEI Yanomami por irregularidades em tratamento para 'bicho-de-pé'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/04/mpf-investiga-dsei-yanomami-por-irregularidades-em-tratamento-para-bicho-de-pe.ghtml)_
+
