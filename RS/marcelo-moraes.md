@@ -728,3 +728,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 00:36 UTC]** Crise no STF: Fachin quebra silêncio e Moraes acusa Mendonça de crime; entenda novos capítulos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 01:26 UTC]** Crise escala no STF, e aliados de Mendonça veem ofensiva de Moraes para tirá-lo da relatoria do Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/03/crise-stf-mendonca-moraes-relatoria-master.ghtml)_
+
