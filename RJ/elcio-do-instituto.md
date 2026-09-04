@@ -59,3 +59,6 @@
 - **[2026-09-03 14:07 UTC]** Mendonça decide deixar sociedade de instituto jurídico privado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-decide-deixar-sociedade-instituto-juridico-privado/)_
 
+- **[2026-09-03 23:00 UTC]** Instituto do qual Mendonça se afastou recebeu R$ 11,5 milhões de órgãos públicos sem licitação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/instituto-do-qual-mendonca-se-afastou-recebeu-r-115-milhoes-de-orgaos-publicos-sem-licitacao.shtml)_
+
