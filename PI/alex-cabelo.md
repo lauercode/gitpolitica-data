@@ -20,3 +20,6 @@
 - **[2026-09-04 08:15 UTC]** Kendall Jenner elogia cabelo de Marina Ruy Barbosa em Veneza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/kendall-jenner-elogia-cabelo-de-marina-ruy-barbosa-em-veneza.shtml)_
 
+- **[2026-09-04 18:58 UTC]** Cuidados com o cabelo masculino podem ser simples e rápidos
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/09/04/cuidados-com-o-cabelo-masculino-podem-ser-simples-e-rapidos.ghtml)_
+
