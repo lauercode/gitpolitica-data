@@ -869,3 +869,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 19:12 UTC]** André Mendonça desafia isolamento no STF e expõe provas contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-desafia-isolamento-no-stf-e-expoe-provas-contra-moraes/)_
 
+- **[2026-09-04 18:48 UTC]** Sem citar Moraes, Lula diz que ninguém pode usar cargo “em nome da democracia”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sem-citar-moraes-lula-diz-que-ninguem-pode-usar-cargo-em-nome-da-democracia/)_
+
