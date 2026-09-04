@@ -29,3 +29,6 @@
 - **[2026-09-04 05:00 UTC]** Sexta (4) é o último dia de calor em São Paulo antes da chegada do frio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sexta-4-e-o-ultimo-dia-de-calor-em-sao-paulo-antes-da-chegada-do-frio.shtml)_
 
+- **[2026-09-04 16:26 UTC]** CPM 22, Caminhos do Frio e mais: 'Qual a Boa?' do fim de semana, 4, 5 e 6 de setembro na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/musica/noticia/2026/09/04/cpm-22-caminhos-do-frio-e-mais-qual-a-boa-do-fim-de-semana-4-5-e-6-de-setembro-na-pb.ghtml)_
+
