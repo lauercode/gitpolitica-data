@@ -53,3 +53,6 @@
 - **[2026-09-03 23:08 UTC]** Leis viabilizam a Copa Feminina de 2027 e propostas reforçam o protagonismo das mulheres no futebol
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302724-leis-viabilizam-a-copa-feminina-de-2027-e-propostas-reforcam-o-protagonismo-das-mulheres-no-futebol)_
 
+- **[2026-09-04 10:12 UTC]** Vendas do futebol feminino saltam 19%; Brasil tem recorde histórico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/vendas-do-futebol-feminino-saltam-19-brasil-tem-recorde-historico.shtml)_
+
