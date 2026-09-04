@@ -104,3 +104,6 @@
 - **[2026-09-04 13:07 UTC]** Motociclista morre e duas pessoas ficam feridas em acidente grave no centro de Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/motociclista-morre-e-duas-pessoas-ficam-feridas-em-acidente-grave-no-centro-de-belem.ghtml)_
 
+- **[2026-09-04 16:32 UTC]** Família de motociclista morto após acidente na BR-364 chega ao AC para funeral: 'Estamos desolados'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/familia-de-motociclista-morto-apos-acidente-na-br-364-chega-ao-ac-para-funeral-estamos-desolados.ghtml)_
+
