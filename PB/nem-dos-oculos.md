@@ -11,3 +11,6 @@
 - **[2026-09-03 21:03 UTC]** Vorcaro relata ter usado “óculos do Maduro” e sido ameaçado de ser jogado de helicóptero da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-relata-ter-usado-oculos-do-maduro-e-sido-ameacado-de-ser-jogado-de-helicoptero-da-pf/)_
 
+- **[2026-09-03 21:03 UTC]** Vorcaro relata ter usado “óculos do Maduro”e denuncia abusos da PF durante operação do Caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-relata-ter-usado-oculos-do-maduro-e-sido-ameacado-de-ser-jogado-de-helicoptero-da-pf/)_
+
