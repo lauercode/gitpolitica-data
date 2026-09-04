@@ -200,3 +200,6 @@
 - **[2026-09-04 12:00 UTC]** Eu lido com sonhos, diz vendedora que viralizou ao mostrar trabalho em loja de vestidos de noiva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/eu-lido-com-sonhos-diz-vendedora-que-viralizou-ao-mostrar-trabalho-em-loja-de-vestidos-de-noiva.shtml)_
 
+- **[2026-09-04 10:12 UTC]** Dólar e Bolsa sobem com mercado de trabalho forte nos EUA e cenário eleitoral no radar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-alta-com-mercado-de-trabalho-forte-nos-eua-e-cenario-eleitoral-no-radar.shtml)_
+
