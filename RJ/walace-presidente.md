@@ -347,3 +347,6 @@
 - **[2026-09-04 14:44 UTC]** Presidente do STF diz que gravidade dos fatos não autoriza atalhos
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/presidente-do-stf-diz-que-gravidade-dos-fatos-nao-autoriza-atalhos)_
 
+- **[2026-09-04 15:02 UTC]** "Gravidade dos fatos não autoriza atalhos", diz presidente do STF
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/gravidade-dos-fatos-nao-autoriza-atalhos-diz-presidente-do-stf)_
+
