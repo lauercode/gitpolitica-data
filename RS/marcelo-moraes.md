@@ -890,3 +890,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 17:39 UTC]** Podcast analisa medidas de Fachin e reação de Moraes contra Mendonça na crise do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-analisa-medidas-de-fachin-e-reacao-de-moraes-contra-mendonca-na-crise-do-stf.shtml)_
 
+- **[2026-09-04 21:59 UTC]** Os mistérios, fragilidades e especulações do relatório de Moraes contra Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/os-misterios-fragilidades-e-especulacoes-do-relatorio-de-moraes-contra-mendonca/)_
+
