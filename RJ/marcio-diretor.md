@@ -74,3 +74,6 @@
 - **[2026-09-04 20:46 UTC]** Em depoimento, Vorcaro admite 'agrado' a diretor do BC em viagem para a Disney; veja vídeo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/em-depoimento-vorcaro-admite-agrado-a-diretor-do-bc-em-viagem-para-a-disney.ghtml)_
 
+- **[2026-09-04 16:45 UTC]** Diretor Paul Schrader exibe em Veneza filme áspero que trata de repressão sexual
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/diretor-paul-schrader-exibe-em-veneza-filme-aspero-que-trata-de-repressao-sexual.shtml)_
+
