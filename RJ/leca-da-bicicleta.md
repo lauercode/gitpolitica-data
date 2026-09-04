@@ -23,3 +23,6 @@
 - **[2026-09-02 19:32 UTC]** Menino de bicicleta elétrica fica ferido após ser atingido por moto em Rorainópolis
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/02/menino-de-bicicleta-eletrica-fica-ferido-apos-ser-atingido-por-moto-em-rorainopolis.ghtml)_
 
+- **[2026-09-04 21:59 UTC]** Homem morre após colisão entre bicicleta motorizada e ônibus, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/homem-morre-apos-colisao-entre-bicicleta-motorizada-e-onibus-em-joao-pessoa.ghtml)_
+
