@@ -821,3 +821,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 15:46 UTC]** Inquérito das fake news tem mais de sete anos, pressiona Moraes e ampliou crise no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/inquerito-das-fake-news-tem-mais-de-sete-anos-pressiona-moraes-e-ampliou-crise-no-stf.ghtml)_
 
+- **[2026-09-04 14:41 UTC]** Fachin promete fim do inquérito das fake news, aberto no STF há 7 anos sob relatoria de Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/fachin-anuncia-fim-do-inquerito-das-fake-news.ghtml)_
+
