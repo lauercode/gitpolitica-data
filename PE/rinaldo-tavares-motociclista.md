@@ -101,3 +101,6 @@
 - **[2026-09-04 00:41 UTC]** Motociclista de aplicativo morre após colisão entre motos na BR-364, em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/motociclista-de-aplicativo-morre-apos-colisao-entre-motos-na-br-364-em-rio-branco.ghtml)_
 
+- **[2026-09-04 13:07 UTC]** Motociclista morre e duas pessoas ficam feridas em acidente grave no centro de Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/motociclista-morre-e-duas-pessoas-ficam-feridas-em-acidente-grave-no-centro-de-belem.ghtml)_
+
