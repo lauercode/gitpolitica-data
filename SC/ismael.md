@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-09-03 23:00 UTC]** Autorretratos de Ismael Nery em corpo de mulher e Jesus estão em cartaz na Pinacoteca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/autorretratos-de-ismael-nery-em-corpo-de-mulher-e-jesus-estao-em-cartaz-na-pinacoteca.shtml)_
+
