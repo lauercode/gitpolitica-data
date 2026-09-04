@@ -809,3 +809,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 13:07 UTC]** Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y75qky1zgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 10:27 UTC]** 'Crise no STF se agrava': o que diz imprensa internacional sobre disputa entre Moraes e Mendonça
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cgrvgzj74w4o?at_medium=RSS&at_campaign=rss)_
+
