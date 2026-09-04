@@ -26,3 +26,6 @@
 - **[2026-09-02 22:06 UTC]** Eleições 2026 em SC: Jorginho Mello encontra apoiadores e visita clube de tênis no Norte
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-em-sc-jorginho-mello-encontra-apoiadores-e-visita-clube-de-tenis-no-norte.ghtml)_
 
+- **[2026-09-03 22:38 UTC]** Eleições 2026 em SC: Jorginho Mello participa de encontro em clube de tiros em Blumenau
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-em-sc-jorginho-mello-participa-de-encontro-em-clube-de-tiros-em-blumenau.ghtml)_
+
