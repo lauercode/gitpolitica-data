@@ -233,3 +233,6 @@
 - **[2026-09-03 22:09 UTC]** Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1j4xxn88d5o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-03 22:47 UTC]** Superlotação deixa pacientes em corredores no Complexo Hospitalar Sul; pai pode perder o pé e mulher esperou dois dias para remover feto
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/superlotacao-deixa-pacientes-em-corredores-no-complexo-hospitalar-sul-pai-pode-perder-o-pe-e-mulher-esperou-dois-dias-para-remover-feto.ghtml)_
+
