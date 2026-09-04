@@ -89,3 +89,6 @@
 - **[2026-09-04 06:00 UTC]** SBT faz proposta de R$ 150 milhões para retomar direitos da Copa do Brasil até 2030
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-faz-proposta-de-r-150-milhoes-para-retomar-direitos-da-copa-do-brasil-ate-2030.shtml)_
 
+- **[2026-09-04 12:21 UTC]** Copa do Brasil reúne líder, candidato à Libertadores e times em crise no Brasileiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/copa-do-brasil-reune-lider-candidato-a-libertadores-e-times-em-crise-no-brasileiro.shtml)_
+
