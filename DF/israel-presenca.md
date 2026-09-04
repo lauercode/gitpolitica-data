@@ -38,3 +38,6 @@
 - **[2026-09-02 20:17 UTC]** Mendonça confirma que Vorcaro foi ouvido sem a presença da PF
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/mendonca-confirma-que-vorcaro-foi-ouvido-sem-presenca-da-pf)_
 
+- **[2026-09-04 17:32 UTC]** Mais de 1.500 sites: Lovatel Agência transforma presença digital em negócios
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/lovatel-agencia-marca-e-negocio/noticia/2026/09/04/mais-de-1500-sites-lovatel-agencia-transforma-presenca-digital-em-negocios.ghtml)_
+
