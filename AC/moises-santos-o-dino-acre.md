@@ -290,3 +290,6 @@
 - **[2026-09-03 23:03 UTC]** VÍDEO: 'Homem-Aranha' é furtado em frente a estúdio de tatuagem no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/video-homem-aranha-e-furtado-em-frente-a-estudio-de-tatuagem-no-acre.ghtml)_
 
+- **[2026-09-04 08:00 UTC]** Mãe e irmã de homem torturado por PMs devem ganhar R$ 45 mil de indenização no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/mae-e-irma-de-homem-torturado-por-pms-devem-ganhar-r-45-mil-de-indenizacao-no-acre.ghtml)_
+
