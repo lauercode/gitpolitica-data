@@ -74,3 +74,6 @@
 - **[2026-09-03 23:00 UTC]** Masp atualiza exposição sobre a história da América Latina com obras dos países da região
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/masp-atualiza-exposicao-sobre-a-historia-da-america-latina-com-obras-dos-paises-da-regiao.shtml)_
 
+- **[2026-09-04 11:41 UTC]** Eleições 2026 no PR: Sérgio Moro propõe plataforma para acompanhar pedágios e obras nas rodovias
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-sergio-moro.ghtml)_
+
