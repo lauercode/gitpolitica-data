@@ -167,3 +167,6 @@
 - **[2026-09-04 17:22 UTC]** Trump retoma negociações e diz ter plano para paz na Ucrânia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-retoma-negociacoes-e-diz-ter-plano-para-paz-na-ucrania.shtml)_
 
+- **[2026-09-04 20:13 UTC]** Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-afirma-ter-dito-a-trump-que-brasil-nao-aceita-interferencia-nas-eleicoes/)_
+
