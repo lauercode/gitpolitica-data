@@ -110,3 +110,6 @@
 - **[2026-09-04 15:32 UTC]** VÍDEO: Motorista de jipe é presa após avançar preferencial e causar acidente que matou motociclista em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/04/acidente-entre-jipe-e-motociclista-em-porto-velho.ghtml)_
 
+- **[2026-09-04 16:32 UTC]** Família de motociclista morto após acidente na BR-364 chega ao Acre para funeral: 'Estamos desolados'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/familia-de-motociclista-morto-apos-acidente-na-br-364-chega-ao-ac-para-funeral-estamos-desolados.ghtml)_
+
