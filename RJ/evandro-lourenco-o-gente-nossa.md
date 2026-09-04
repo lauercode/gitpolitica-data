@@ -44,3 +44,6 @@
 - **[2026-09-03 09:11 UTC]** 'Compartilhamos a casa com uma família de ursos que toma banho vários dias por semana na nossa piscina'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93enjwy7d5o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 16:14 UTC]** Vaca é resgatada após atolar em área de mangue em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/vaca-e-resgatada-apos-atolar-em-area-de-mangue-em-nossa-senhora-do-socorro.ghtml)_
+
