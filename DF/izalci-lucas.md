@@ -50,3 +50,6 @@
 - **[2026-09-03 17:17 UTC]** Candidato ao Senado no AP, Lucas Barreto defende exploração de petróleo: ‘traz o desenvolvimento’
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/03/candidato-ao-senado-no-ap-lucas-barreto-defende-exploracao-de-petroleo-traz-o-desenvolvimento.ghtml)_
 
+- **[2026-09-04 21:03 UTC]** Lucas Ribeiro promete ampliação do atendimento de saúde no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/lucas-ribeiro-promete-ampliacao-do-atendimento-de-saude-no-sertao-da-paraiba.ghtml)_
+
