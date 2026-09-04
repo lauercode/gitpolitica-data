@@ -89,3 +89,6 @@
 - **[2026-09-03 18:47 UTC]** Tribunal indefere registro da chapa do subtenente Luiz Carlos para disputar o governo do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/tribunal-indefere-registro-da-chapa-do-subtenente-luiz-carlos-para-disputa-ao-governo-do-tocantins.ghtml)_
 
+- **[2026-09-03 23:52 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quinta-feira (3)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quinta-feira-3.ghtml)_
+
