@@ -26,3 +26,6 @@
 - **[2026-08-21 13:53 UTC]** Guarda civil do RN suspeito de tentativa de homicídio contra seguranças de casa de shows é preso em João Pessoa
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/pb/paraiba/noticia/2026/08/21/guarda-civil-do-rn-suspeito-de-tentativa-de-homicidio-contra-segurancas-de-casa-de-shows-e-preso-em-joao-pessoa.ghtml)_
 
+- **[2026-09-04 00:12 UTC]** Guarda Municipal usa spray de pimenta contra mulher durante blitz em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/guarda-municipal-usa-spray-de-pimenta-contra-mulher-durante-blitz-em-belem.ghtml)_
+
