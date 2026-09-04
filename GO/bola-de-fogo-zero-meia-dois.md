@@ -257,3 +257,6 @@
 - **[2026-09-04 14:35 UTC]** Suspeito de dar 60 facadas em indígena é preso uma semana após dois inocentes serem detidos por falsa acusação no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/04/suspeito-de-dar-60-facadas-em-indigena.ghtml)_
 
+- **[2026-09-04 14:46 UTC]** Dois jovens morrem após acidente entre moto e caminhão no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/04/morte-acidente-moto-caminhao.ghtml)_
+
