@@ -188,3 +188,6 @@
 - **[2026-08-31 21:41 UTC]** Gazeta do Povo vai a evento do Irã e do PT no Brasil e mostra como é o aliciamento de apoiadores
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gazeta-do-povo-vai-a-evento-do-ira-e-do-pt-no-brasil-e-mostra-como-e-o-aliciamento-de-apoiadores/)_
 
+- **[2026-09-04 12:05 UTC]** TV Gazeta escala ex-diretor do SBT para assumir emissora após saída de executiva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/tv-gazeta-escala-ex-diretor-do-sbt-para-assumir-emissora-apos-saida-de-executiva.shtml)_
+
