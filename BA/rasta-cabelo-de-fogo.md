@@ -68,3 +68,6 @@
 - **[2026-09-04 08:40 UTC]** BBC entra em área do Líbano onde Israel avança com tropas e demolições apesar de cessar-fogo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgyp5xpmmlo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 12:46 UTC]** Homem que ateou fogo na companheira é condenado a mais de 32 anos de prisão no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/homem-que-ateou-fogo-na-companheira-e-condenado-a-mais-de-32-anos-no-maranhao.ghtml)_
+
