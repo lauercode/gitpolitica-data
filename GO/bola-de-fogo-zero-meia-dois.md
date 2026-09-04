@@ -245,3 +245,6 @@
 - **[2026-09-04 12:59 UTC]** Suspeito de matar carcereiro em São Bernardo é preso com dois mandados em aberto em Timon
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/suspeito-de-matar-carcereiro-em-sao-bernardo-e-preso-com-dois-mandados-em-aberto-em-timon.ghtml)_
 
+- **[2026-09-04 12:04 UTC]** Dois homens são mortos a tiros após casa ser invadida em Pedras de Fogo, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/dois-homens-sao-mortos-a-tiros-apos-casa-ser-invadida-em-pedras-de-fogo-na-pb.ghtml)_
+
