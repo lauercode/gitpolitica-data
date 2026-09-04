@@ -32,3 +32,6 @@
 - **[2026-09-03 21:54 UTC]** Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-sugere-a-fachin-vetar-delegados-da-pf-em-gabinetes-do-stf/)_
 
+- **[2026-09-04 02:02 UTC]** Delegados da PF dizem que Gilmar desvia foco de problemas reais do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/delegados-da-pf-dizem-que-gilmar-desvia-foco-de-problemas-reais-do-stf/)_
+
