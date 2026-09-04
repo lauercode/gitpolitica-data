@@ -863,3 +863,6 @@
 - **[2026-09-04 15:25 UTC]** Flávio Dino prega união e cautela institucional diante de nova crise no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-prega-uniao-e-cautela-institucional-diante-de-nova-crise-no-stf/)_
 
+- **[2026-09-04 19:33 UTC]** Caiado sobre Flávio Bolsonaro: 'Personagem criado para disputar uma eleição'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/04/caiado-flavio-stf.ghtml)_
+
