@@ -26,3 +26,6 @@
 - **[2026-09-01 04:30 UTC]** Idade mínima igual para mulheres e fim do auxílio pago pelo INSS; veja mudanças propostas para a Previdência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/idade-minima-igual-para-mulheres-e-fim-do-auxilio-pago-pelo-inss-veja-mudancas-propostas-para-a-previdencia.shtml)_
 
+- **[2026-09-04 10:37 UTC]** Durigan diz que reforma da Previdência não está em discussão agora, mas admite debate futuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/durigan-diz-que-reforma-da-previdencia-nao-esta-em-discussao-agora-mas-admite-debate-futuro.shtml)_
+
