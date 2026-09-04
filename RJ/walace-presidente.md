@@ -341,3 +341,6 @@
 - **[2026-09-04 14:10 UTC]** Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/04/fachin-precisa-propor-algum-tipo-de-punicao-para-moraes-e-mendonca-dizem-interlocutores-do-presidente-do-stf.ghtml)_
 
+- **[2026-09-04 11:23 UTC]** Presidente do Cade pede nova análise e atrasa acordo entre Maersk e MSC na disputa pelo Tecon 10
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/presidente-do-cade-pede-nova-analise-e-atrasa-acordo-entre-maersk-e-msc-na-disputa-pelo-tecon-10.shtml)_
+
