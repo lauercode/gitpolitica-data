@@ -41,3 +41,6 @@
 - **[2026-09-03 12:53 UTC]** Lei do Combustível do Futuro impulsiona investimentos, avaliam debatedores
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302402-lei-do-combustivel-do-futuro-impulsiona-investimentos-avaliam-debatedores)_
 
+- **[2026-09-04 10:37 UTC]** Durigan diz que reforma da Previdência não está em discussão agora, mas admite debate futuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/durigan-diz-que-reforma-da-previdencia-nao-esta-em-discussao-agora-mas-admite-debate-futuro.shtml)_
+
