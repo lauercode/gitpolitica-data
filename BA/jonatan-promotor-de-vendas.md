@@ -38,3 +38,6 @@
 - **[2026-09-04 15:59 UTC]** Exportação brasileira de carne bovina perde força em agosto com redução de vendas à China
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/exportacao-brasileira-de-carne-bovina-perde-forca-em-agosto-com-reducao-de-vendas-a-china.shtml)_
 
+- **[2026-09-04 18:49 UTC]** Solução criada no Amazonas leva TVLar Motos ao 1º lugar no Brasil em vendas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/tvlar-motos/noticia/2026/09/04/solucao-criada-no-amazonas-leva-tvlar-motos-ao-1o-lugar-no-brasil-em-vendas.ghtml)_
+
