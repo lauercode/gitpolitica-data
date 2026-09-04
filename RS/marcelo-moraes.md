@@ -806,3 +806,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 11:55 UTC]** Augusto Cury diz que Moraes tem que “provar que não deve” e propõe mandato de 8 anos no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-diz-que-moraes-tem-que-provar-que-nao-deve-e-propoe-mandato-de-8-anos-no-stf/)_
 
+- **[2026-09-04 13:07 UTC]** Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y75qky1zgo?at_medium=RSS&at_campaign=rss)_
+
