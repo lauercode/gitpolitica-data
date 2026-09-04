@@ -803,3 +803,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 12:17 UTC]** Mendonça fala em “honrar a confiança do povo” em meio a crise envolvendo Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-fala-em-honrar-a-confianca-do-povo-em-meio-a-crise-envolvendo-moraes/)_
 
+- **[2026-09-04 11:55 UTC]** Augusto Cury diz que Moraes tem que “provar que não deve” e propõe mandato de 8 anos no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-diz-que-moraes-tem-que-provar-que-nao-deve-e-propoe-mandato-de-8-anos-no-stf/)_
+
