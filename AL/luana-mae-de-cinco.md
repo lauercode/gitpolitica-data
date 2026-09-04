@@ -128,3 +128,6 @@
 - **[2026-09-03 17:00 UTC]** Cinco dias após decisão do STF, Maria da Penha é usada em briga de vizinhos em Cuiabá
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cinco-dias-apos-decisao-do-stf-maria-da-penha-e-usada-em-briga-de-vizinhos-em-cuiaba.shtml)_
 
+- **[2026-09-03 23:00 UTC]** No Dia do Irmão, veja cinco dicas de filmes e séries sobre ou produzidos por irmãos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/no-dia-do-irmao-veja-cinco-dicas-de-filmes-e-series-sobre-ou-produzidos-por-irmaos.shtml)_
+
