@@ -242,3 +242,6 @@
 - **[2026-09-04 13:44 UTC]** Como Nepal resgatou dois sobreviventes em túnel nove dias após  avalanche que deixou mais de 1,3 mil mortos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c86xjey5155o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 12:59 UTC]** Suspeito de matar carcereiro em São Bernardo é preso com dois mandados em aberto em Timon
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/suspeito-de-matar-carcereiro-em-sao-bernardo-e-preso-com-dois-mandados-em-aberto-em-timon.ghtml)_
+
