@@ -98,3 +98,6 @@
 - **[2026-09-03 10:51 UTC]** Caminhoneiro matou motociclista dirigindo a 148 km/h em rodovia do PR com máxima permitida de 60 km/h, conclui polícia
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/03/caminhoneiro-148-kmh-morte-motociclista-pr-151-parana.ghtml)_
 
+- **[2026-09-04 00:41 UTC]** Motociclista de aplicativo morre após colisão entre motos na BR-364, em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/motociclista-de-aplicativo-morre-apos-colisao-entre-motos-na-br-364-em-rio-branco.ghtml)_
+
