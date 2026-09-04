@@ -65,3 +65,6 @@
 - **[2026-09-03 18:28 UTC]** PRF inicia Operação Independência com foco no combate à embriaguez ao volante nas rodovias
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/prf-inicia-operacao-independencia-com-foco-no-combate-a-embriaguez-ao-volante-nas-rodovias.ghtml)_
 
+- **[2026-09-04 12:09 UTC]** PF combate fraudes em registros de CACs no RJ e Espírito Santo
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/pf-combate-fraudes-em-registros-de-cacs-no-rio-e-espirito-santo)_
+
