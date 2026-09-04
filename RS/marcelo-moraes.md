@@ -740,3 +740,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 05:07 UTC]** Parlamentares criticam decisão de Alexandre de Moraes contra André Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/parlamentares-criticam-decisao-de-alexandre-de-moraes-contra-andre-mendonca/)_
 
+- **[2026-09-04 03:19 UTC]** Moraes usou relatório da PF “sem valor probatório” para pedir investigação contra Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-usou-relatorio-da-pf-sem-valor-probatorio-contra-mendonca/)_
+
