@@ -591,3 +591,7 @@ Diretor
 - **[2026-09-04 14:04 UTC]** Idoso morre ao cair em câmara de defumação de linguiça artesanal em SC; casa pegou fogo
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/idoso-morre-cair-camara-defumacao-linguica-artesanal-sc-casa-pegou-fogo.ghtml)_
 
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
