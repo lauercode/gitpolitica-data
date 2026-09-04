@@ -80,3 +80,6 @@
 - **[2026-09-03 08:42 UTC]** ONU prevê El Niño "muito forte" com duração até fevereiro de 2027
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-preve-el-nino-muito-forte-com-duracao-ate-fevereiro-de-2027)_
 
+- **[2026-09-03 22:58 UTC]** Acidente entre carro-forte e veículo de escolta deixa motorista ferido, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/acidente-entre-carro-forte-e-veiculo-de-escolta-deixa-motorista-ferido-em-joao-pessoa.ghtml)_
+
