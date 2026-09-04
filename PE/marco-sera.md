@@ -131,3 +131,6 @@
 - **[2026-09-04 09:00 UTC]** Festival do Abacaxi: tráfego de veículos pesados será restrito nas BR-156 e BR-210; veja horários
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/04/festival-do-abacaxi-trafego-de-veiculos-pesados-sera-restrito-nas-br-156-e-br-210-veja-horarios.ghtml)_
 
+- **[2026-09-04 11:57 UTC]** 3ª edição do Casamento Comunitário LGBTQIAPN+ será realizada nesta sexta-feira em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/3a-edicao-do-casamento-comunitario-lgbtqiapn-sera-realizada-nesta-sexta-feira-em-sao-luis.ghtml)_
+
