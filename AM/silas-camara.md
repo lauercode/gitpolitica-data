@@ -577,3 +577,6 @@ Diretor
 - **[2026-09-04 16:14 UTC]** Veículos de comunicação da Câmara e do Senado farão cobertura integrada das eleições
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1302595-veiculos-de-comunicacao-da-camara-e-do-senado-farao-cobertura-integrada-das-eleicoes)_
 
+- **[2026-09-04 11:00 UTC]** Sob impasses, Câmara de BH aprova projeto com incentivos à verticalização da região central
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sob-impasses-camara-de-bh-aprova-projeto-com-incentivos-a-verticalizacao-da-regiao-central.shtml)_
+
