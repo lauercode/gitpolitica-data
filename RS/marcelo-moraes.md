@@ -896,3 +896,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 20:52 UTC]** Transparência Internacional defende saída de Alexandre de Moraes do cargo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/transparencia-internacional-defende-saida-de-alexandre-de-moraes-do-cargo/)_
 
+- **[2026-09-04 20:20 UTC]** 7 de Setembro: atos da direita ganham força com caso Master e reação de Moraes contra Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/7-de-setembro-atos-da-direita-ganham-forca-com-caso-master-e-reacao-de-moraes-contra-mendonca/)_
+
