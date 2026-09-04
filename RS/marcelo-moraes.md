@@ -743,3 +743,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 03:19 UTC]** Moraes usou relatório da PF “sem valor probatório” para pedir investigação contra Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-usou-relatorio-da-pf-sem-valor-probatorio-contra-mendonca/)_
 
+- **[2026-09-04 03:02 UTC]** Moraes deflagra guerra no STF ao acusar Mendonça no inquérito das fake news
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-deflagra-guerra-no-stf-ao-acusar-mendonca-no-inquerito-das-fake-news/)_
+
