@@ -11,3 +11,6 @@
 - **[2026-08-28 14:12 UTC]** Operação cumpre mandados contra facção criminosa suspeita de cobrar taxas ilegais e agir contra candidatos em Abaetetuba
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/operacao-cumpre-mandados-contra-faccao-criminosa-suspeita-de-cobrar-taxas-ilegais-e-agir-contra-candidatos-em-abaetetuba.ghtml)_
 
+- **[2026-09-04 05:07 UTC]** Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss)_
+
