@@ -59,3 +59,6 @@
 - **[2026-09-03 17:32 UTC]** Governo federal vai apoiar Rio na retomada de territórios e proteção de vias como a avenida Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/governo-federal-vai-apoiar-rio-na-retomada-de-territorios-e-protecao-de-vias-como-a-avenida-brasil.shtml)_
 
+- **[2026-09-04 19:19 UTC]** Cidade do AC recebe mais de R$ 1,7 milhão do governo federal para ações de proteção
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/cidade-do-ac-recebe-mais-de-r-17-milhao-do-governo-federal-para-acoes-de-protecao.ghtml)_
+
