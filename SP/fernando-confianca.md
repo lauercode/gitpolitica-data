@@ -38,3 +38,6 @@
 - **[2026-09-03 20:13 UTC]** TCE vê gasto acima do limite e barra nomeação de comissionados e cargos de confiança no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/tce-ve-gasto-acima-do-limite-e-barra-nomeacao-de-comissionados-e-cargos-de-confianca-no-acre.ghtml)_
 
+- **[2026-09-04 02:44 UTC]** 'Ninguém deve ser poupado', diz Augusto Cury sobre Supremo e perda de confiança nas instituições
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/09/03/ninguem-deve-ser-poupado-diz-augusto-cury-sobre-supremo-e-perda-de-confianca-nas-instituicoes.ghtml)_
+
