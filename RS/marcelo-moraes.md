@@ -785,3 +785,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 03:00 UTC]** Relatório da PF usado por Moraes indica assimetria em ações de Mendonça, mas não tem valor probatório
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/em-relatorio-pf-indica-assimetria-em-acoes-de-mendonca-contra-politicos-e-ve-alcolumbre-como-provavel-alvo-estrategico.ghtml)_
 
+- **[2026-09-04 10:36 UTC]** Dino diz que 'STF é maior que qualquer um que o integra' após escalada da tensão entre Moraes e Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/dino-diz-que-stf-e-maior-que-qualquer-um-que-o-integra-apos-escalada-da-tensa-entre-moraes-e-mendonca.shtml)_
+
