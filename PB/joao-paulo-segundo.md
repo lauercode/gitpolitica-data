@@ -185,3 +185,6 @@
 - **[2026-08-10 18:14 UTC]** 'Fino', dinheiro e coragem: como apps exploram 'provas de masculinidade' dos entregadores, segundo sociólogo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cd0mx921jyeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 07:00 UTC]** Rock in Rio 2026: os melhores e os piores dias segundo a astrologia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/rock-in-rio-2026-os-melhores-e-os-piores-dias-segundo-a-astrologia.shtml)_
+
