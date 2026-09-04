@@ -23,3 +23,6 @@
 - **[2026-09-04 18:58 UTC]** Cuidados com o cabelo masculino podem ser simples e rápidos
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/09/04/cuidados-com-o-cabelo-masculino-podem-ser-simples-e-rapidos.ghtml)_
 
+- **[2026-09-04 18:54 UTC]** Policial penal é investigado por agredir namorada com empurrões e puxões de cabelo em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/04/policial-penal-e-investigado-por-agredir-namorada-com-empurroes-e-puxoes-de-cabelo-em-boa-vista.ghtml)_
+
