@@ -17,3 +17,6 @@
 - **[2026-09-04 11:03 UTC]** Brasil tem 2 milhões de trabalhadores por aplicativos, diz IBGE
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/brasil-tem-2-milhoes-de-trabalhadores-por-aplicativos-diz-ibge)_
 
+- **[2026-09-04 13:07 UTC]** Argentinos recorrem a aplicativos para obter empréstimos em meio a dívidas recordes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/argentinos-recorrem-a-aplicativos-para-obter-emprestimos-em-meio-a-dividas-recordes.shtml)_
+
