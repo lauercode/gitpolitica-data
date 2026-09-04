@@ -797,3 +797,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 08:44 UTC]** Moraes usa documento da PF apócrifo e sem valor probatório contra André Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-usa-documento-da-pf-apocrifo-e-sem-valor-probatorio-contra-andre-mendonca.shtml)_
 
+- **[2026-09-04 13:13 UTC]** Fachin tira ofensiva de Moraes contra Mendonça do inquérito das fake news e manda PGR se manifestar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-da-5-dias-para-pgr-se-manifestar-sobre-acusacoes-de-moraes-contra-mendonca/)_
+
