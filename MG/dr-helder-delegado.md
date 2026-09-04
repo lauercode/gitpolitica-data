@@ -65,3 +65,6 @@
 - **[2026-09-03 17:03 UTC]** Justiça de SP concede liminar e suspende demissão de delegado Da Cunha da Polícia Civil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-concede-liminar-e-suspende-demissao-de-delegado-da-cunha-da-policia-civil.shtml)_
 
+- **[2026-09-04 14:38 UTC]** TJ-AL determina que delegado Daniel Mayer retorne ao cargo após ser afastado por suspeita de crimes
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/04/tj-al-determina-que-delegado-daniel-mayer-retorne-ao-cargo-apos-ser-afastado-por-suspeita-de-crimes.ghtml)_
+
