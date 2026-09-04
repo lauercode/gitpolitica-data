@@ -716,3 +716,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 00:12 UTC]** Entidades do Paraná cobram apuração sobre Moraes e Gonet no caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/entidades-do-parana-cobram-apuracao-sobre-moraes-e-gonet-no-caso-master/)_
 
+- **[2026-09-04 00:17 UTC]** Fachin cobra informações de Mendonça, Moraes, PF e PGR sobre crise no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cobra-informacoes-de-mendonca-moraes-pf-e-pgr-sobre-crise-no-stf/)_
+
