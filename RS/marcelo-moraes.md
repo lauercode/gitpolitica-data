@@ -713,3 +713,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 20:14 UTC]** Moraes pede a Fachin investigação de André Mendonça por abuso de autoridade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-pede-a-fachin-investigacao-de-andre-mendonca-por-abuso-de-autoridade.shtml)_
 
+- **[2026-09-04 00:12 UTC]** Entidades do Paraná cobram apuração sobre Moraes e Gonet no caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/entidades-do-parana-cobram-apuracao-sobre-moraes-e-gonet-no-caso-master/)_
+
