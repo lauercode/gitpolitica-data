@@ -152,3 +152,6 @@
 - **[2026-09-03 20:33 UTC]** Viana pede afastamento de Alcolumbre por não pautar impeachment de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/viana-pede-afastamento-de-alcolumbre-por-nao-pautar-impeachment-de-moraes/)_
 
+- **[2026-09-04 03:00 UTC]** Em relatório, PF indica assimetria em ações de Mendonça contra políticos e vê Alcolumbre como 'provável alvo estratégico'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/em-relatorio-pf-indica-assimetria-em-acoes-de-mendonca-contra-politicos-e-ve-alcolumbre-como-provavel-alvo-estrategico.ghtml)_
+
