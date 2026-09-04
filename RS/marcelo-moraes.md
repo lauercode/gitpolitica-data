@@ -698,3 +698,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 23:41 UTC]** Fachin dá 5 dias para que Mendonça, Moraes, PGR e Polícia Federal prestem informações sobre crise no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/fachin-da-5-dias-para-que-mendonca-moraes-pgr-e-policia-federal-prestem-informacoes-sobre-crise-no-stf.ghtml)_
 
+- **[2026-09-03 23:07 UTC]** Moraes encaminha a Fachin pedido de investigação contra Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/moraes-encaminha-a-fachin-pedido-de-investigacao-contra-mendonca.ghtml)_
+
