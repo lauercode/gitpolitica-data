@@ -62,3 +62,6 @@
 - **[2026-09-04 19:19 UTC]** Cidade do AC recebe mais de R$ 1,7 milhão do governo federal para ações de proteção
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/cidade-do-ac-recebe-mais-de-r-17-milhao-do-governo-federal-para-acoes-de-protecao.ghtml)_
 
+- **[2026-09-04 18:23 UTC]** Trump assina decretos para facilitar proteção de rebanhos e processamento de carne por pecuaristas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-assina-decretos-para-facilitar-protecao-de-rebanhos-e-processamento-de-carne-por-pecuaristas.shtml)_
+
