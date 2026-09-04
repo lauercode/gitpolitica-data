@@ -302,3 +302,6 @@
 - **[2026-09-04 19:31 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 4 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-4-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-04 19:58 UTC]** Caso Maria Ramona: o que se sabe sobre assassinato de jovem em apartamento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/caso-maria-ramona-o-que-se-sabe-sobre-assassinato-de-jovem-em-apartamento-no-acre.ghtml)_
+
