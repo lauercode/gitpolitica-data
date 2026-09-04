@@ -164,3 +164,6 @@
 - **[2026-09-03 22:24 UTC]** Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta quinta-feira
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-quinta-feira.ghtml)_
 
+- **[2026-09-04 11:09 UTC]** Mega-Sena 3053: dezessete apostas de Sergipe acertam quadra; confira números
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/mega-sena-3053-dezessete-apostas-de-sergipe-acertam-quadra-confira-numeros.ghtml)_
+
