@@ -284,3 +284,6 @@
 - **[2026-09-03 23:43 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta quinta-feira (3)
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/03/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quinta-feira-3.ghtml)_
 
+- **[2026-09-03 23:07 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 3 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-3-de-setembro-de-2026.ghtml)_
+
