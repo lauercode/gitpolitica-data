@@ -893,3 +893,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 21:59 UTC]** Os mistérios, fragilidades e especulações do relatório de Moraes contra Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/os-misterios-fragilidades-e-especulacoes-do-relatorio-de-moraes-contra-mendonca/)_
 
+- **[2026-09-04 20:52 UTC]** Transparência Internacional defende saída de Alexandre de Moraes do cargo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/transparencia-internacional-defende-saida-de-alexandre-de-moraes-do-cargo/)_
+
