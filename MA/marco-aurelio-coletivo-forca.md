@@ -62,3 +62,6 @@
 - **[2026-09-04 14:28 UTC]** Lula vai usar mote 'A Força que Une o Brasil' para desfile de 7 de setembro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-vai-usar-mote-a-forca-que-une-o-brasil-para-desfile-de-7-de-setembro.shtml)_
 
+- **[2026-09-04 20:20 UTC]** 7 de Setembro: atos da direita ganham força com caso Master e reação de Moraes contra Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/7-de-setembro-atos-da-direita-ganham-forca-com-caso-master-e-reacao-de-moraes-contra-mendonca/)_
+
