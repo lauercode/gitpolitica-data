@@ -20,3 +20,6 @@
 - **[2026-09-02 19:25 UTC]** Efraim Filho defende redução de impostos para incentivo ao empreendedorismo na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/efraim-filho-defende-reducao-de-impostos-para-incentivo-ao-empreendedorismo-na-paraiba.ghtml)_
 
+- **[2026-09-04 21:19 UTC]** Efraim Filho propõe parceria com rede privada para reduzir filas na saúde da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/efraim-filho-propoe-parceria-com-rede-privada-para-reduzir-filas-na-saude-da-paraiba.ghtml)_
+
