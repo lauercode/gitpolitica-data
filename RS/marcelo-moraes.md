@@ -854,3 +854,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 17:03 UTC]** Fachin defende fim do inquérito das fake news em meio a embate de Moraes com Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-defende-fim-do-inquerito-das-fake-news-em-meio-a-embate-de-moraes-com-mendonca/)_
 
+- **[2026-09-04 14:32 UTC]** Oposição tenta anular julgamentos de Bolsonaro e 8 de janeiro com revelações sobre Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-tenta-anular-julgamentos-de-bolsonaro-e-8-de-janeiro-com-revelacoes-sobre-moraes/)_
+
