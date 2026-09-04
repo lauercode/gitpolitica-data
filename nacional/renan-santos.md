@@ -203,3 +203,6 @@
 - **[2026-09-04 15:47 UTC]** Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-presidente-4-setembro.ghtml)_
 
+- **[2026-09-04 18:50 UTC]** Ministério Público Eleitoral abre apuração sobre eventual abuso de poder de Renan Santos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/04/ministerio-publico-eleitoral-abre-apuracao-sobre-eventual-abuso-de-poder-de-renan-santos.ghtml)_
+
