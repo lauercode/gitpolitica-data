@@ -68,3 +68,6 @@
 - **[2026-09-03 23:12 UTC]** Globo demite três executivos após erros da Copa, na maior mudança da década em sua direção
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/gglobo-demite-tres-executivos-apos-erros-da-copa-na-maior-mudanca-da-decada-em-sua-direcao.shtml)_
 
+- **[2026-09-04 10:29 UTC]** STF fixa R$ 5 mil como parâmetro para Justiça gratuita; entenda a mudança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-fixa-5-mil-como-parametro-para-justica-gratuita-entenda-a-mudanca/)_
+
