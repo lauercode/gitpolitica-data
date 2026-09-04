@@ -29,3 +29,6 @@
 - **[2026-09-04 03:00 UTC]** Nikolas Ferreira e Daniel Vorcaro: ouça ÁUDIO, leia transcrição e veja o que deputado falou sobre mensagens
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml)_
 
+- **[2026-09-04 16:14 UTC]** Lulistas disputam com Nikolas Ferreira narrativa do caso Master, mas opositor tem mais alcance nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lulistas-disputam-com-nikolas-ferreira-narrativa-do-caso-master-mas-opositor-tem-mais-alcance-nas-redes.shtml)_
+
