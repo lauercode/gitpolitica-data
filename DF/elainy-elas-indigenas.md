@@ -26,3 +26,6 @@
 - **[2026-09-04 14:59 UTC]** Filme produzido por jovens indígenas retrata relação de mulheres com espaço sagrado no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/filme-produzido-por-jovens-indigenas-retrata-relacao-de-mulheres-com-espaco-sagrado-no-acre.ghtml)_
 
+- **[2026-09-04 21:55 UTC]** Dr. Daniel diz que pode recorrer ao STF para contestar demarcações de terras indígenas, se for eleito no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/04/dr-daniel-propoe-parceria-entre-estado-e-incra-para-regularizacao-fundiaria-se-for-eleito-no-para.ghtml)_
+
