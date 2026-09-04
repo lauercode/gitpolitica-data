@@ -68,3 +68,6 @@
 - **[2026-09-04 12:05 UTC]** TV Gazeta escala ex-diretor do SBT para assumir emissora após saída de executiva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/tv-gazeta-escala-ex-diretor-do-sbt-para-assumir-emissora-apos-saida-de-executiva.shtml)_
 
+- **[2026-09-04 11:17 UTC]** Morre o diretor Tony Gatlif, que explorou a cultura cigana nos cinemas, aos 77
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/morre-o-diretor-tony-gatlif-que-explorou-a-cultura-cigana-nos-cinemas-aos-77.shtml)_
+
