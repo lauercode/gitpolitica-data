@@ -686,3 +686,6 @@
 - **[2026-09-03 19:42 UTC]** Em delação rejeitada, Vorcaro diz que doação a Bolsonaro e Tarcísio era propina articulada por Kassab
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-delacao-rejeitada-vorcaro-diz-que-doacao-a-bolsonaro-e-tarcisio-era-propina-articulada-por-kassab.shtml)_
 
+- **[2026-09-03 23:02 UTC]** Datafolha: Campanha de Lula vê disputa indefinida, e Flávio Bolsonaro aposta em rua e crise do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-disputa-indefinida-e-flavio-bolsonaro-aposta-em-rua-e-crise-do-stf.shtml)_
+
