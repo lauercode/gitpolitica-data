@@ -26,3 +26,6 @@
 - **[2026-09-01 13:44 UTC]** Festival em Tiradentes celebra laços da cozinha mineira com Portugal
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/festival-de-tiradentes-celebra-lacos-da-cozinha-mineira-com-portugal)_
 
+- **[2026-09-04 15:48 UTC]** Portugal divulga que abriu negociações com Air France-KLM e Lufthansa para privatização da TAP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/portugal-divulga-que-abriu-negociacoes-com-air-france-klm-e-lufthansa-para-privatizacao-da-tap.shtml)_
+
