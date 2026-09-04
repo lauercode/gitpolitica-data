@@ -683,3 +683,6 @@
 - **[2026-09-03 21:47 UTC]** Justiça proíbe Hélio de usar sobrenome Bolsonaro na disputa ao Senado em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/justica-proibe-helio-de-usar-sobrenome-bolsonaro-na-disputa-ao-senado-em-roraima.ghtml)_
 
+- **[2026-09-03 19:42 UTC]** Em delação rejeitada, Vorcaro diz que doação a Bolsonaro e Tarcísio era propina articulada por Kassab
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-delacao-rejeitada-vorcaro-diz-que-doacao-a-bolsonaro-e-tarcisio-era-propina-articulada-por-kassab.shtml)_
+
