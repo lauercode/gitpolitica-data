@@ -47,3 +47,6 @@
 - **[2026-09-02 19:08 UTC]** Lucas Ribeiro defende expansão de áreas industriais e geração de empregos na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/lucas-ribeiro-defende-expansao-de-areas-industriais-e-geracao-de-empregos-na-paraiba.ghtml)_
 
+- **[2026-09-04 07:40 UTC]** Seca na Amazônia atingiu 38% das áreas habitadas no último El Niño
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/seca-na-amazonia-atingiu-38-das-areas-habitadas-no-ultimo-el-nino)_
+
