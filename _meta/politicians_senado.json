@@ -310,7 +310,7 @@
     "slug": "giordano",
     "name": "Giordano",
     "role": "Senador(a) (SP)",
-    "party": "PODEMOS",
+    "party": "PODE",
     "aliases": [
       "Giordano"
     ],
@@ -326,17 +326,6 @@
       "Mourão"
     ],
     "senado_id": "6341"
-  },
-  {
-    "slug": "hermes-klann",
-    "name": "Hermes Klann",
-    "role": "Senador(a) (SC)",
-    "party": "PL",
-    "aliases": [
-      "Hermes Klann",
-      "Klann"
-    ],
-    "senado_id": "6381"
   },
   {
     "slug": "humberto-costa",
@@ -435,6 +424,17 @@
       "Kajuru"
     ],
     "senado_id": "5895"
+  },
+  {
+    "slug": "jorge-seif",
+    "name": "Jorge Seif",
+    "role": "Senador(a) (SC)",
+    "party": "PL",
+    "aliases": [
+      "Jorge Seif",
+      "Seif"
+    ],
+    "senado_id": "6342"
   },
   {
     "slug": "jussara-lima",
@@ -766,7 +766,7 @@
     "slug": "styvenson-valentim",
     "name": "Styvenson Valentim",
     "role": "Senador(a) (RN)",
-    "party": "PODEMOS",
+    "party": "PODE",
     "aliases": [
       "Styvenson Valentim",
       "Valentim"
@@ -875,7 +875,7 @@
     "slug": "zequinha-marinho",
     "name": "Zequinha Marinho",
     "role": "Senador(a) (PA)",
-    "party": "PODEMOS",
+    "party": "PODE",
     "aliases": [
       "Zequinha Marinho",
       "Marinho"
