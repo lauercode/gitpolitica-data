@@ -35,3 +35,6 @@
 - **[2026-09-04 02:02 UTC]** Delegados da PF dizem que Gilmar desvia foco de problemas reais do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/delegados-da-pf-dizem-que-gilmar-desvia-foco-de-problemas-reais-do-stf/)_
 
+- **[2026-09-04 19:08 UTC]** Em gesto ao STF, coordenador da campanha de Flávio se reúne com Gilmar Mendes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/04/em-gesto-ao-stf-coordenador-da-campanha-de-flavio-se-reune-com-gilmar-mendes.ghtml)_
+
