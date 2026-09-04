@@ -131,3 +131,6 @@
 - **[2026-09-03 23:00 UTC]** No Dia do Irmão, veja cinco dicas de filmes e séries sobre ou produzidos por irmãos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/no-dia-do-irmao-veja-cinco-dicas-de-filmes-e-series-sobre-ou-produzidos-por-irmaos.shtml)_
 
+- **[2026-09-04 21:23 UTC]** Bando de cinco criminosos assalta joalheria em Castanhal
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/bando-de-cinco-criminosos-assalta-joalheria-em-castanhal.ghtml)_
+
