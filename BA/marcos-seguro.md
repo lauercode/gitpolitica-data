@@ -20,3 +20,6 @@
 - **[2026-09-03 12:48 UTC]** Correr com carrinho é mais seguro para pais, indica estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/maternar/2026/09/correr-com-carrinho-e-mais-seguro-para-pais-indica-estudo.shtml)_
 
+- **[2026-09-03 21:56 UTC]** Senado aprova novas regras para seguro rural
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/senado-aprova-novas-regras-para-seguro-rural.shtml)_
+
