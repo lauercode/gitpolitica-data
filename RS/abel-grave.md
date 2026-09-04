@@ -29,3 +29,6 @@
 - **[2026-09-02 16:05 UTC]** Jovem baleado após sair de academia na Cohama passa por cirurgia e segue em estado grave na UTI em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/jovem-baleado-apos-sair-de-academia-na-cohama-passa-por-cirurgia-e-segue-em-estado-grave-na-uti-em-sao-luis.ghtml)_
 
+- **[2026-09-04 13:07 UTC]** Motociclista morre e duas pessoas ficam feridas em acidente grave no centro de Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/motociclista-morre-e-duas-pessoas-ficam-feridas-em-acidente-grave-no-centro-de-belem.ghtml)_
+
