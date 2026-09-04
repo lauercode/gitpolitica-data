@@ -755,3 +755,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 01:51 UTC]** Ofensiva de Moraes contra Mendonça surpreende advogados: “Sem precedentes”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ofensiva-de-moraes-contra-mendonca-surpreende-advogados-sem-precedentes/)_
 
+- **[2026-09-04 01:06 UTC]** Oposição reage a pedido de Moraes para investigar Mendonça: “Está fora de si”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-reage-a-pedido-de-moraes-para-investigar-mendonca-esta-fora-de-si/)_
+
