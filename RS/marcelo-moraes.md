@@ -875,3 +875,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 18:45 UTC]** Lula mantém apoio irrestrito a Moraes há anos e o defendeu em crises
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/lula-mantem-apoio-irrestrito-a-moraes-ha-anos-e-o-defendeu-em-crises/)_
 
+- **[2026-09-04 18:33 UTC]** Oposição questiona imparcialidade de Moraes e pede revisão de condenações no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-questiona-imparcialidade-de-moraes-e-pede-revisao-de-condenacoes-no-stf/)_
+
