@@ -44,3 +44,6 @@
 - **[2026-09-01 17:46 UTC]** Família de ciclista atropelado em João Pessoa relembra rotina da vítima e lamenta morte: ‘Eu estou sofrendo’, diz mãe
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/familia-de-ciclista-atropelado-em-joao-pessoa-relembra-rotina-da-vitima-e-lamentam-morte.ghtml)_
 
+- **[2026-09-04 16:06 UTC]** Ciclista de 45 anos é atropelado e morto em São Vicente, no litoral de SP; polícia pede prisão de suspeito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/ciclista-de-45-anos-e-atropelado-e-morto-em-sao-vicente-no-litoral-de-sp-policia-pede-prisao-de-suspeito.shtml)_
+
