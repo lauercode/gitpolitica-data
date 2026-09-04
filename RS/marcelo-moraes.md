@@ -812,3 +812,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 10:27 UTC]** 'Crise no STF se agrava': o que diz imprensa internacional sobre disputa entre Moraes e Mendonça
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cgrvgzj74w4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 11:08 UTC]** Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-da-5-dias-para-mendonca-e-gonet-responderem-acusacao-de-moraes)_
+
