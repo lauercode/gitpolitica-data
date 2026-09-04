@@ -26,3 +26,6 @@
 - **[2026-09-03 20:24 UTC]** O que é 'ativo minerário', negócio citado por Nikolas Ferreira a Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/03/o-que-e-ativo-minerario-citado-por-nikolas-ferreira-a-vorcaro.ghtml)_
 
+- **[2026-09-04 03:00 UTC]** Nikolas Ferreira e Daniel Vorcaro: ouça ÁUDIO, leia transcrição e veja o que deputado falou sobre mensagens
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml)_
+
