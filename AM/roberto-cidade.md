@@ -137,3 +137,6 @@
 - **[2026-09-04 10:43 UTC]** Aposta paranaense acerta a quina da Mega-Sena e prêmio principal acumula em R$ 48 milhões; veja a cidade
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/04/aposta-paranaense-quina-mega-sena.ghtml)_
 
+- **[2026-09-04 19:19 UTC]** Cidade do AC recebe mais de R$ 1,7 milhão do governo federal para ações de proteção
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/cidade-do-ac-recebe-mais-de-r-17-milhao-do-governo-federal-para-acoes-de-protecao.ghtml)_
+
