@@ -92,3 +92,6 @@
 - **[2026-09-03 19:14 UTC]** Homem é preso suspeito de sequestrar, torturar e agredir professor no Cariri da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/homem-e-preso-suspeito-de-sequestrar-torturar-e-agredir-professor-no-cariri-da-paraiba.ghtml)_
 
+- **[2026-09-04 15:55 UTC]** Para driblar calor intenso, professor coloca barra de gelo em caixa d’água no Acre; veja VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/para-driblar-calor-intenso-professor-coloca-barra-de-gelo-em-caixa-dagua-no-acre-veja-video.ghtml)_
+
