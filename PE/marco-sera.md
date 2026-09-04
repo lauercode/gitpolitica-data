@@ -134,3 +134,6 @@
 - **[2026-09-04 11:57 UTC]** 3ª edição do Casamento Comunitário LGBTQIAPN+ será realizada nesta sexta-feira em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/3a-edicao-do-casamento-comunitario-lgbtqiapn-sera-realizada-nesta-sexta-feira-em-sao-luis.ghtml)_
 
+- **[2026-09-04 14:38 UTC]** 'Crise Master' no STF: Fachin diz que nenhuma autoridade está acima da Constituição e que resposta a fatos 'graves' será 'firme'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/em-meio-a-crise-master-no-stf-fachin-defende-dialogo-entre-instituicoes-durante-evento-no-planalto.ghtml)_
+
