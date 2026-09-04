@@ -35,3 +35,6 @@
 - **[2026-09-03 14:56 UTC]** Homem é esfaqueado após treino e corre de volta para academia para pedir socorro em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/homem-esfaqueado-treino-corre-academia-pedir-socorro-sc.ghtml)_
 
+- **[2026-09-04 16:14 UTC]** Vaca é resgatada após atolar em área de mangue em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/vaca-e-resgatada-apos-atolar-em-area-de-mangue-em-nossa-senhora-do-socorro.ghtml)_
+
