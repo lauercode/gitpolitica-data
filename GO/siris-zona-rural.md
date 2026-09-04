@@ -41,3 +41,6 @@
 - **[2026-09-03 14:10 UTC]** Alambique roubado de engenho é encontrado dentro de carro abandonado na zona rural de Ceará-Mirim
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/alambique-roubado-de-engenho-e-encontrado-dentro-de-carro-abandonado-na-zona-rural-de-ceara-mirim.ghtml)_
 
+- **[2026-09-03 21:56 UTC]** Senado aprova novas regras para seguro rural
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/senado-aprova-novas-regras-para-seguro-rural.shtml)_
+
