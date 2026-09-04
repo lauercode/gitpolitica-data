@@ -236,3 +236,6 @@
 - **[2026-09-03 22:47 UTC]** Superlotação deixa pacientes em corredores no Complexo Hospitalar Sul; pai pode perder o pé e mulher esperou dois dias para remover feto
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/superlotacao-deixa-pacientes-em-corredores-no-complexo-hospitalar-sul-pai-pode-perder-o-pe-e-mulher-esperou-dois-dias-para-remover-feto.ghtml)_
 
+- **[2026-09-04 04:07 UTC]** Equipes resgatam dois trabalhadores presos em túnel no Nepal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/equipes-resgatam-dois-trabalhadores-presos-em-tunel-no-nepal.shtml)_
+
