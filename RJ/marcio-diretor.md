@@ -59,3 +59,6 @@
 - **[2026-09-03 20:12 UTC]** Vorcaro diz que sofreu pressão para não delatar diretor da PF e membros do governo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-diz-que-sofreu-pressao-para-nao-delatar-diretor-da-pf-e-membros-do-governo/)_
 
+- **[2026-09-03 23:44 UTC]** PF diz a Moraes em relatório que Mendonça manifestou intenção de afastar diretor da corporação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/pf-diz-a-moraes-em-relatorio-que-mendonca-manifestou-intencao-de-afastar-diretor-da-corporacao.ghtml)_
+
