@@ -857,3 +857,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 14:32 UTC]** Oposição tenta anular julgamentos de Bolsonaro e 8 de janeiro com revelações sobre Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-tenta-anular-julgamentos-de-bolsonaro-e-8-de-janeiro-com-revelacoes-sobre-moraes/)_
 
+- **[2026-09-04 17:08 UTC]** 'Ou o Supremo julga Moraes ou o Congresso julga', diz jurista Joaquim Falcão
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0m39rw19keo?at_medium=RSS&at_campaign=rss)_
+
