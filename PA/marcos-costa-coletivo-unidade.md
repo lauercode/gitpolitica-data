@@ -29,3 +29,6 @@
 - **[2026-09-04 16:37 UTC]** VÍDEO: Homem depreda unidade de saúde por falta de dentista em Canoas, no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/homem-depreda-unidade-de-saude-por-falta-de-dentista-em-canoas-no-rs.ghtml)_
 
+- **[2026-09-04 18:05 UTC]** Falta de profissionais de limpeza e necessidade de reforma levam MP a cobrar providências em unidade de saúde do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/04/falta-de-profissionais-de-limpeza-e-necessidade-de-reforma-levam-mp-a-cobrar-providencias-em-unidade-de-saude-do-am.ghtml)_
+
