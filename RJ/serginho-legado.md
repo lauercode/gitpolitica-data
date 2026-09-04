@@ -17,3 +17,6 @@
 - **[2026-09-02 17:40 UTC]** O legado de Alexei Bueno, o poeta que fez da literatura sua profissão de fé
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/09/o-legado-de-alexei-bueno-o-poeta-que-fez-da-literatura-sua-profissao-de-fe.shtml)_
 
+- **[2026-09-04 08:00 UTC]** Legado de Chico Mendes impulsiona empreendedorismo verde no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/legado-de-chico-mendes-impulsiona-empreendedorismo-verde-no-brasil.shtml)_
+
