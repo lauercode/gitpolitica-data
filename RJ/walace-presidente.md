@@ -350,3 +350,6 @@
 - **[2026-09-04 15:02 UTC]** "Gravidade dos fatos não autoriza atalhos", diz presidente do STF
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/gravidade-dos-fatos-nao-autoriza-atalhos-diz-presidente-do-stf)_
 
+- **[2026-09-04 18:12 UTC]** Gonet vira alvo de procedimento em conselho que ele mesmo preside; irmão de Dino é o vice-presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-vira-alvo-de-procedimento-em-conselho-que-ele-mesmo-preside/)_
+
