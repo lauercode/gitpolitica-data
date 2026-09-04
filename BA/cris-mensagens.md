@@ -227,3 +227,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-03 15:10 UTC]** 'Nikolas peleleco'; deputado é ironizado nas redes após troca de mensagens com Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/nikolas-peleleco-deputado-e-ironizado-nas-redes-apos-troca-de-mensagens-com-vorcaro.shtml)_
 
+- **[2026-09-04 03:00 UTC]** Nikolas e Vorcaro: ouça ÁUDIO, leia transcrição e veja o que ex-deputado falou sobre as mensagens
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml)_
+
