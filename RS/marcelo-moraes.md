@@ -839,3 +839,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 11:26 UTC]** Doutrina militar russa de Moraes contamina eleição de vez
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/doutrina-militar-russa-de-moraes-contamina-eleicao-de-vez.shtml)_
 
+- **[2026-09-04 17:04 UTC]** Conflito entre Moraes e Mendonça faz Fachin defender o fim do inquérito das fake news
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/conflito-entre-moraes-e-mendonca-faz-fachin-defender-o-fim-do-inquerito-das-fake-news/)_
+
