@@ -92,3 +92,6 @@
 - **[2026-09-03 16:38 UTC]** MP pede paralisação de obra por possíveis danos à Mata Atlântica e investiga construtora na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/mp-pede-paralisacao-de-obra-por-possiveis-danos-a-mata-atlantica-na-pb.ghtml)_
 
+- **[2026-09-04 12:55 UTC]** Ataque de abelhas mata cerca de dez aves e deixa homem ferido em Santa Inês
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/ataque-de-abelhas-mata-cerca-de-dez-aves-e-deixa-homem-ferido-em-santa-ines.ghtml)_
+
