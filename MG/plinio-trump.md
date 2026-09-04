@@ -164,3 +164,6 @@
 - **[2026-09-04 18:23 UTC]** Trump assina decretos para facilitar proteção de rebanhos e processamento de carne por pecuaristas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-assina-decretos-para-facilitar-protecao-de-rebanhos-e-processamento-de-carne-por-pecuaristas.shtml)_
 
+- **[2026-09-04 17:22 UTC]** Trump retoma negociações e diz ter plano para paz na Ucrânia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-retoma-negociacoes-e-diz-ter-plano-para-paz-na-ucrania.shtml)_
+
