@@ -71,3 +71,6 @@
 - **[2026-09-04 12:46 UTC]** Homem que ateou fogo na companheira é condenado a mais de 32 anos de prisão no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/homem-que-ateou-fogo-na-companheira-e-condenado-a-mais-de-32-anos-no-maranhao.ghtml)_
 
+- **[2026-09-04 12:04 UTC]** Dois homens são mortos a tiros após casa ser invadida em Pedras de Fogo, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/dois-homens-sao-mortos-a-tiros-apos-casa-ser-invadida-em-pedras-de-fogo-na-pb.ghtml)_
+
