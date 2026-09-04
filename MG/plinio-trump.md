@@ -161,3 +161,6 @@
 - **[2026-09-04 18:27 UTC]** Trump amplia influência na América Latina com petróleo e ataques
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-amplia-influencia-na-america-latina-com-petroleo-e-ataques.shtml)_
 
+- **[2026-09-04 18:23 UTC]** Trump assina decretos para facilitar proteção de rebanhos e processamento de carne por pecuaristas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-assina-decretos-para-facilitar-protecao-de-rebanhos-e-processamento-de-carne-por-pecuaristas.shtml)_
+
