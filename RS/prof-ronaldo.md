@@ -35,3 +35,6 @@
 - **[2026-09-03 20:55 UTC]** Ronaldo Lessa renuncia à suplência de Marina JHC no Senado
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/03/ronaldo-lessa-renuncia-a-suplencia-de-marina-jhc-no-senado.ghtml)_
 
+- **[2026-09-04 04:00 UTC]** Ronaldo Caiado participa de sabatina da Folha/UOL nesta sexta (4)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ronaldo-caiado-participa-de-sabatina-da-folhauol-nesta-sexta-4.shtml)_
+
