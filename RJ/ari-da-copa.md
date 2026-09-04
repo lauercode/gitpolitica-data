@@ -77,3 +77,6 @@
 - **[2026-09-03 17:48 UTC]** Copa do Brasil define último semifinalista nesta quinta-feira
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/copa-do-brasil-define-ultimo-semifinalista-nesta-quinta-feira)_
 
+- **[2026-09-03 20:50 UTC]** Fifa abre inscrição para voluntários da Copa do Mundo Feminina
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/fifa-abre-inscricao-para-voluntarios-da-copa-do-mundo-feminina)_
+
