@@ -335,3 +335,6 @@
 - **[2026-09-03 22:39 UTC]** Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-03 22:20 UTC]** Datafolha: 71% estão decididos sobre voto para presidente e 28% ainda podem mudar; veja números por candidato
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/datafolha-decisao-de-voto-presidente-3-setembro.ghtml)_
+
