@@ -200,3 +200,6 @@
 - **[2026-09-04 01:13 UTC]** Renan Santos defende discutir nova Constituição como resposta à crise no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/renan-santos-crise-stf-nova-constituicao.ghtml)_
 
+- **[2026-09-04 15:47 UTC]** Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-presidente-4-setembro.ghtml)_
+
