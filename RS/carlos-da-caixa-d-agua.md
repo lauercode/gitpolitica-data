@@ -167,3 +167,6 @@
 - **[2026-09-03 22:30 UTC]** Araceli Lemos promete rever contrato com concessionária de água e criar nova companhia estadual, se for eleita no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/03/araceli-lemos-promete-rever-contrato-com-concessionaria-de-agua-e-criar-nova-companhia-estadual-se-for-eleita-no-para.ghtml)_
 
+- **[2026-09-04 00:40 UTC]** Polícia encontra punhal que teria sido usado no assassinato da adolescente Bruna Loiola em Água Doce
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/policia-encontra-punhal-que-teria-sido-usado-no-assassinato-da-adolescente-bruna-loiola-em-agua-doce.ghtml)_
+
