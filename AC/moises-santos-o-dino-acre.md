@@ -287,3 +287,6 @@
 - **[2026-09-03 23:07 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 3 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-3-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-03 23:03 UTC]** VÍDEO: 'Homem-Aranha' é furtado em frente a estúdio de tatuagem no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/video-homem-aranha-e-furtado-em-frente-a-estudio-de-tatuagem-no-acre.ghtml)_
+
