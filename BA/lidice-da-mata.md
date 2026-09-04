@@ -95,3 +95,6 @@
 - **[2026-09-04 12:55 UTC]** Ataque de abelhas mata cerca de dez aves e deixa homem ferido em Santa Inês
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/ataque-de-abelhas-mata-cerca-de-dez-aves-e-deixa-homem-ferido-em-santa-ines.ghtml)_
 
+- **[2026-09-04 11:00 UTC]** Vanessa da Mata se apresenta nesta sexta-feira no Festival Gastronômico de Taquaruçu; veja programação
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/vanessa-da-mata-se-apresenta-nesta-sexta-feira-no-festival-gastronomico-de-taquarucu-veja-programacao.ghtml)_
+
