@@ -23,3 +23,6 @@
 - **[2026-09-01 12:24 UTC]** Tempestades deixam 180 mil imóveis sem luz no Paraná; 7,5 mil permanecem sem energia há dois dias
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/tempestades-deixam-imoveis-sem-luz-sem-energia-no-parana.ghtml)_
 
+- **[2026-09-03 21:04 UTC]** PF descreve gastos de Claudio Castro com caviar, adega e imóveis em inquérito sobre Refit
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pf-descreve-gastos-de-claudio-castro-com-caviar-adega-e-imoveis-em-inquerito-sobre-refit.shtml)_
+
