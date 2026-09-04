@@ -23,3 +23,6 @@
 - **[2026-09-01 13:00 UTC]** Caiado quer trava temporária em aposentadorias para fazer ajuste, diz coordenador de plano político
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/caiado-quer-trava-temporaria-em-aposentadorias-para-fazer-ajuste-diz-coordenador-de-plano-politico.shtml)_
 
+- **[2026-09-04 19:08 UTC]** Em gesto ao STF, coordenador da campanha de Flávio se reúne com Gilmar Mendes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/04/em-gesto-ao-stf-coordenador-da-campanha-de-flavio-se-reune-com-gilmar-mendes.ghtml)_
+
