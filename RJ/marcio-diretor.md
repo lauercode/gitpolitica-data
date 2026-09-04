@@ -62,3 +62,6 @@
 - **[2026-09-03 23:44 UTC]** PF diz a Moraes em relatório que Mendonça manifestou intenção de afastar diretor da corporação
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/pf-diz-a-moraes-em-relatorio-que-mendonca-manifestou-intencao-de-afastar-diretor-da-corporacao.ghtml)_
 
+- **[2026-09-03 21:15 UTC]** PF relata desconfiança de Mendonça sobre diretor-geral da corporação por proximidade com Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-relata-desconfianca-de-mendonca-sobre-seu-diretor-geral-por-proximidade-com-lula.shtml)_
+
