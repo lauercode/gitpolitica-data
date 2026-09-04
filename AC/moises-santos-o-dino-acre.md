@@ -305,3 +305,6 @@
 - **[2026-09-04 19:58 UTC]** Caso Maria Ramona: o que se sabe sobre assassinato de jovem em apartamento no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/caso-maria-ramona-o-que-se-sabe-sobre-assassinato-de-jovem-em-apartamento-no-acre.ghtml)_
 
+- **[2026-09-04 16:32 UTC]** Família de motociclista morto após acidente na BR-364 chega ao Acre para funeral: 'Estamos desolados'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/familia-de-motociclista-morto-apos-acidente-na-br-364-chega-ao-ac-para-funeral-estamos-desolados.ghtml)_
+
