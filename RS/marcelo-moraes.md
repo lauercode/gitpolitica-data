@@ -824,3 +824,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 14:41 UTC]** Fachin promete fim do inquérito das fake news, aberto no STF há 7 anos sob relatoria de Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/fachin-anuncia-fim-do-inquerito-das-fake-news.ghtml)_
 
+- **[2026-09-04 14:10 UTC]** Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/04/fachin-precisa-propor-algum-tipo-de-punicao-para-moraes-e-mendonca-dizem-interlocutores-do-presidente-do-stf.ghtml)_
+
