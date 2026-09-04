@@ -140,3 +140,6 @@
 - **[2026-09-04 19:14 UTC]** Alcolumbre sinaliza que Mendonça também será alvo em caso de abertura de impeachment contra Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/04/a-senadores-alcolumbre-sinaliza-abertura-de-processo-de-impeachment-cruzado-de-moraes-e-mendonca.ghtml)_
 
+- **[2026-09-04 20:33 UTC]** Fim de semana será marcado por frio e geada em diferentes regiões no RS; mínima pode chegar a 0°C
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/fim-de-semana-marcado-por-frio-geada-no-rs-minima-0c.ghtml)_
+
