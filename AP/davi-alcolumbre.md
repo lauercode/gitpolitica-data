@@ -158,3 +158,6 @@
 - **[2026-09-04 02:34 UTC]** PF diz que Alcolumbre seria alvo de Mendonça em plano para recompor forças no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-diz-que-alcolumbre-seria-alvo-de-mendonca-em-plano-para-recompor-forcas-no-stf/)_
 
+- **[2026-09-04 19:14 UTC]** A senadores, Alcolumbre sinaliza abertura de processo de impeachment cruzado de Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/04/a-senadores-alcolumbre-sinaliza-abertura-de-processo-de-impeachment-cruzado-de-moraes-e-mendonca.ghtml)_
+
