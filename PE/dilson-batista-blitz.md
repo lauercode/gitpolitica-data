@@ -17,3 +17,6 @@
 - **[2026-08-19 23:33 UTC]** Detran-RO se prepara para uso de drogômetros em blitz da Lei Seca
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/19/detran-ro-se-prepara-para-uso-de-drogometros-em-blitze-da-lei-seca.ghtml)_
 
+- **[2026-09-04 00:12 UTC]** Guarda Municipal usa spray de pimenta contra mulher durante blitz em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/guarda-municipal-usa-spray-de-pimenta-contra-mulher-durante-blitz-em-belem.ghtml)_
+
