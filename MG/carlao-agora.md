@@ -83,3 +83,6 @@
 - **[2026-09-02 22:43 UTC]** Alcolumbre diz que pedido de 'R$ 130 milhões' para filme é esquecido: 'Agora o culpado só é o Moraes'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/alcolumbre-diz-que-tem-sofrido-agressoes-e-r-130-milhoes-de-filme-sao-esquecidos-agora-o-culpado-sou-eu-e-o-ministro-moraes.ghtml)_
 
+- **[2026-09-04 03:16 UTC]** Arruda pode seguir fazendo campanha no DF? Pode recorrer? Entenda o que acontece agora
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/04/arruda-pode-seguir-fazendo-campanha-no-df-pode-recorrer-entenda-o-que-acontece-agora.ghtml)_
+
