@@ -338,3 +338,6 @@
 - **[2026-09-03 22:20 UTC]** Datafolha: 71% estão decididos sobre voto para presidente e 28% ainda podem mudar; veja números por candidato
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/datafolha-decisao-de-voto-presidente-3-setembro.ghtml)_
 
+- **[2026-09-04 14:10 UTC]** Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/04/fachin-precisa-propor-algum-tipo-de-punicao-para-moraes-e-mendonca-dizem-interlocutores-do-presidente-do-stf.ghtml)_
+
