@@ -344,3 +344,6 @@
 - **[2026-09-04 11:23 UTC]** Presidente do Cade pede nova análise e atrasa acordo entre Maersk e MSC na disputa pelo Tecon 10
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/presidente-do-cade-pede-nova-analise-e-atrasa-acordo-entre-maersk-e-msc-na-disputa-pelo-tecon-10.shtml)_
 
+- **[2026-09-04 14:44 UTC]** Presidente do STF diz que gravidade dos fatos não autoriza atalhos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/presidente-do-stf-diz-que-gravidade-dos-fatos-nao-autoriza-atalhos)_
+
