@@ -574,3 +574,6 @@ direitos
 Diretor
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
 
+- **[2026-09-04 16:14 UTC]** Veículos de comunicação da Câmara e do Senado farão cobertura integrada das eleições
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1302595-veiculos-de-comunicacao-da-camara-e-do-senado-farao-cobertura-integrada-das-eleicoes)_
+
