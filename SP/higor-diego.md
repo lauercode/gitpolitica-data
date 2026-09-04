@@ -17,3 +17,6 @@
 - **[2026-09-03 21:14 UTC]** O que se sabe sobre acidente que matou músico Diego Sanches a caminho de show em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/o-que-se-sabe-sobre-acidente-que-matou-musico-diego-sanches-a-caminho-de-show-em-porto-alegre.ghtml)_
 
+- **[2026-09-04 03:00 UTC]** 'Vai ter pagode no céu': Diego Sanches, morto a caminho de show no RS, viveu sonho na música, dizem amigos
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/vai-ter-pagode-no-ceu-diego-sanches-morto-caminho-de-show-rs-sonho-musica.ghtml)_
+
