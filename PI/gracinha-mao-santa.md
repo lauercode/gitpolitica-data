@@ -53,3 +53,6 @@
 - **[2026-09-02 12:57 UTC]** Homem é preso em Santa Catarina suspeito de racismo, incitação ao crime e pornografia infantil em Volta Redonda
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/02/homem-e-preso-em-santa-catarina-suspeito-de-racismo-incitacao-ao-crime-e-pornografia-infantil-em-volta-redonda.ghtml)_
 
+- **[2026-09-04 12:55 UTC]** Ataque de abelhas mata cerca de dez aves e deixa homem ferido em Santa Inês
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/ataque-de-abelhas-mata-cerca-de-dez-aves-e-deixa-homem-ferido-em-santa-ines.ghtml)_
+
