@@ -866,3 +866,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 15:54 UTC]** Alcolumbre e Moraes buscam autoproteção, diz Flávio Bolsonaro em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-e-moraes-buscam-autoprotecao-diz-flavio-bolsonaro-em-sp.shtml)_
 
+- **[2026-09-04 19:12 UTC]** André Mendonça desafia isolamento no STF e expõe provas contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-desafia-isolamento-no-stf-e-expoe-provas-contra-moraes/)_
+
