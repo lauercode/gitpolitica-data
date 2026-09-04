@@ -827,3 +827,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 14:10 UTC]** Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/04/fachin-precisa-propor-algum-tipo-de-punicao-para-moraes-e-mendonca-dizem-interlocutores-do-presidente-do-stf.ghtml)_
 
+- **[2026-09-04 14:15 UTC]** Moraes ataca Mendonça e acerta a República
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/moraes-ataca-mendonca-e-acerta-a-republica.shtml)_
+
