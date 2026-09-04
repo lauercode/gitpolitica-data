@@ -14,3 +14,6 @@
 - **[2026-09-04 10:01 UTC]** Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-tem-2-milhoes-de-pessoas-que-trabalham-por-meio-de-aplicativos)_
 
+- **[2026-09-04 11:03 UTC]** Brasil tem 2 milhões de trabalhadores por aplicativos, diz IBGE
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/brasil-tem-2-milhoes-de-trabalhadores-por-aplicativos-diz-ibge)_
+
