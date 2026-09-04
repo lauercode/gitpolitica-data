@@ -164,3 +164,6 @@
 - **[2026-09-04 15:54 UTC]** Alcolumbre e Moraes buscam autoproteção, diz Flávio Bolsonaro em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-e-moraes-buscam-autoprotecao-diz-flavio-bolsonaro-em-sp.shtml)_
 
+- **[2026-09-04 19:14 UTC]** Alcolumbre sinaliza que Mendonça também será alvo em caso de abertura de impeachment contra Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/04/a-senadores-alcolumbre-sinaliza-abertura-de-processo-de-impeachment-cruzado-de-moraes-e-mendonca.ghtml)_
+
