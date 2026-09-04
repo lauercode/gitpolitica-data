@@ -65,3 +65,6 @@
 - **[2026-09-01 20:44 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Rondônia
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-rondonia.ghtml)_
 
+- **[2026-09-04 11:07 UTC]** Festivais de praia: confira datas e shows dos eventos em Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/04/festivais-de-praia-confira-datas-e-shows-dos-eventos-em-rondonia.ghtml)_
+
