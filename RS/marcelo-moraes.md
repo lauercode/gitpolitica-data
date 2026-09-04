@@ -746,3 +746,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 03:02 UTC]** Moraes deflagra guerra no STF ao acusar Mendonça no inquérito das fake news
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-deflagra-guerra-no-stf-ao-acusar-mendonca-no-inquerito-das-fake-news/)_
 
+- **[2026-09-04 02:26 UTC]** Oposição reforça convocação para o 7 de Setembro após ofensiva de Moraes contra Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-reforca-convocacao-para-o-7-de-setembro-apos-ofensiva-de-moraes-contra-mendonca/)_
+
