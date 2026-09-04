@@ -95,3 +95,6 @@
 - **[2026-09-04 01:58 UTC]** Temporais são registrados no interior do Tocantins; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/temporais-sao-registrados-no-interior-do-tocantins-video.ghtml)_
 
+- **[2026-09-04 12:56 UTC]** Corpo carbonizado é encontrado às margens de rodovia no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/corpo-carbonizado-e-encontrado-as-margens-de-rodovia-no-tocantins.ghtml)_
+
