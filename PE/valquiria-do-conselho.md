@@ -56,3 +56,6 @@
 - **[2026-09-04 12:52 UTC]** Inscrições para disputar Conselho de Política Cultural vão até dia 22
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/inscricoes-para-disputar-conselho-de-politica-cultural-vao-ate-dia-22)_
 
+- **[2026-09-04 14:01 UTC]** Conselho Superior do MPF abre procedimento para analisar citações a Gonet em mensagens atribuídas a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/conselho-superior-do-mpf-abre-procedimento-para-analisar-citacoes-a-paulo-gonet-em-mensagens-atribuidas-a-daniel-vorcaro.ghtml)_
+
