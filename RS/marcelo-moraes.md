@@ -752,3 +752,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 02:24 UTC]** Imprensa internacional vê crise no STF após revelações envolvendo Moraes e Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/imprensa-internacional-aponta-crise-no-stf-apos-revelacoes-envolvendo-moraes-e-vorcaro/)_
 
+- **[2026-09-04 01:51 UTC]** Ofensiva de Moraes contra Mendonça surpreende advogados: “Sem precedentes”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ofensiva-de-moraes-contra-mendonca-surpreende-advogados-sem-precedentes/)_
+
