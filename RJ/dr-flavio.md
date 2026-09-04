@@ -848,3 +848,6 @@
 - **[2026-09-03 23:02 UTC]** Bolsonaristas saem em defesa de Mendonça contra Moraes; Flávio fala em derrota de 'ministro de Lula'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/bolsonaristas-saem-em-defesa-de-mendonca-contra-moraes-flavio-fala-em-derrota-de-ministro-de-lula.shtml)_
 
+- **[2026-09-03 23:02 UTC]** Datafolha: Campanha de Lula vê disputa indefinida, e Flávio Bolsonaro aposta em rua e crise do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-disputa-indefinida-e-flavio-bolsonaro-aposta-em-rua-e-crise-do-stf.shtml)_
+
