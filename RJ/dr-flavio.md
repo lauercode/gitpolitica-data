@@ -857,3 +857,6 @@
 - **[2026-09-04 13:07 UTC]** Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y75qky1zgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-04 15:47 UTC]** Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-presidente-4-setembro.ghtml)_
+
