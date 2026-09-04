@@ -599,3 +599,6 @@ direitos
 Diretor
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
 
+- **[2026-09-04 17:00 UTC]** 1926: Júlio Prestes é indicado para ser o líder da maioria na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-julio-prestes-e-indicado-para-ser-o-lider-da-maioria-na-camara.shtml)_
+
