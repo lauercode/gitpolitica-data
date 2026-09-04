@@ -170,3 +170,6 @@
 - **[2026-09-04 00:40 UTC]** Polícia encontra punhal que teria sido usado no assassinato da adolescente Bruna Loiola em Água Doce
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/policia-encontra-punhal-que-teria-sido-usado-no-assassinato-da-adolescente-bruna-loiola-em-agua-doce.ghtml)_
 
+- **[2026-09-04 11:30 UTC]** Moradores fazem abaixo-assinado para cobrar fim da falta de água em bairro e escola de Uiramutã
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/04/moradores-fazem-abaixo-assinado-para-cobrar-fim-da-falta-de-agua-em-bairro-e-escola-de-uiramuta.ghtml)_
+
