@@ -818,3 +818,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 13:03 UTC]** STF: PGR e Mendonça têm 5 dias para responderem acusações de Moraes
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-pgr-e-mendonca-tem-5-dias-para-responderem-acusacoes-de-moraes)_
 
+- **[2026-09-04 15:46 UTC]** Inquérito das fake news tem mais de sete anos, pressiona Moraes e ampliou crise no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/inquerito-das-fake-news-tem-mais-de-sete-anos-pressiona-moraes-e-ampliou-crise-no-stf.ghtml)_
+
