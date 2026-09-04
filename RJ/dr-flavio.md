@@ -860,3 +860,6 @@
 - **[2026-09-04 15:47 UTC]** Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-presidente-4-setembro.ghtml)_
 
+- **[2026-09-04 15:25 UTC]** Flávio Dino prega união e cautela institucional diante de nova crise no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-prega-uniao-e-cautela-institucional-diante-de-nova-crise-no-stf/)_
+
