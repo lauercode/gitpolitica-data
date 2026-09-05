@@ -23,3 +23,6 @@
 - **[2026-09-03 20:13 UTC]** Confusão marca abertura de evento da extrema direita no Chile
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/confusao-marca-abertura-de-evento-da-extrema-direita-no-chile)_
 
+- **[2026-09-05 06:00 UTC]** Conheça o líder da extrema direita que pode chegar ao poder na Alemanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/conheca-o-lider-da-extrema-direita-que-pode-chegar-ao-poder-na-alemanha.shtml)_
+
