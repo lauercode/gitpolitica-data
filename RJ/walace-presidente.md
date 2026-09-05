@@ -353,3 +353,6 @@
 - **[2026-09-04 18:12 UTC]** Gonet vira alvo de procedimento em conselho que ele mesmo preside; irmão de Dino é o vice-presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-vira-alvo-de-procedimento-em-conselho-que-ele-mesmo-preside/)_
 
+- **[2026-09-04 23:43 UTC]** TSE autoriza pronunciamento de Lula sobre 7 de setembro; presidente dirá que Brasil 'não é colônia' e defenderá soberania
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/tse-autoriza-pronunciamento-de-lula-sobre-7-de-setembro-presidente-dira-que-brasil-nao-e-colonia-e-defendera-soberania.ghtml)_
+
