@@ -44,3 +44,6 @@
 - **[2026-09-02 19:08 UTC]** Lucas Ribeiro defende expansão de áreas industriais e geração de empregos na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/lucas-ribeiro-defende-expansao-de-areas-industriais-e-geracao-de-empregos-na-paraiba.ghtml)_
 
+- **[2026-09-05 15:26 UTC]** Dário Barbosa participa de reunião com apoiadores em Natal e defende geração de emprego e renda
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/05/dario-barbosa-participa-de-reuniao-com-apoiadores-em-natal-e-defende-geracao-de-emprego-e-renda.ghtml)_
+
