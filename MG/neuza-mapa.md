@@ -23,3 +23,6 @@
 - **[2026-09-05 11:06 UTC]** Por que Brasil 'cresceu' em novo mapa  aprovado pela ONU
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgyv1v5xjno?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-05 08:07 UTC]** Por que Brasil 'cresceu' em novo mapa aprovado pela ONU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/por-que-brasil-cresceu-em-novo-mapa-aprovado-pela-onu.shtml)_
+
