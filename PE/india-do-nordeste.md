@@ -47,3 +47,6 @@
 - **[2026-09-02 08:16 UTC]** Quarta-feira é de chuvas no Sudeste, Centro-Oeste e sul do Nordeste
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/quarta-feira-e-de-chuvas-no-sudeste-centro-oeste-e-sul-do-nordeste)_
 
+- **[2026-09-05 03:00 UTC]** De olho no público jovem e no Nordeste, Augusto Cury gastou R$ 116 mil nas redes sociais em 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/impulsionamento-augusto-cury-redes-sociais.ghtml)_
+
