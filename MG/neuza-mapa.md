@@ -26,3 +26,6 @@
 - **[2026-09-05 08:07 UTC]** Por que Brasil 'cresceu' em novo mapa aprovado pela ONU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/por-que-brasil-cresceu-em-novo-mapa-aprovado-pela-onu.shtml)_
 
+- **[2026-09-05 15:53 UTC]** ONU aprova correção da representação do mapa-múndi
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/onu-aprova-correcao-da-representacao-do-mapa-mundi)_
+
