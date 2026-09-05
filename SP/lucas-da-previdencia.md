@@ -38,3 +38,6 @@
 - **[2026-09-05 12:30 UTC]** Renan Santos diz que Previdência quebrará em três anos; o que mostram os números
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/reforma-previdencia-alerta-quebra/)_
 
+- **[2026-09-05 16:31 UTC]** Renan Santos propõe nova reforma para evitar colapso da Previdência
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/renan-santos-propoe-nova-reforma-para-evitar-colapso-da-previdencia/)_
+
