@@ -707,3 +707,6 @@
 - **[2026-09-05 03:00 UTC]** Datafolha: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/05/datafolha-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml)_
 
+- **[2026-09-05 15:27 UTC]** Rodrigo de Bolsonaro visita Redinha Nova e apresenta propostas para reciclagem, educação e saneamento
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/05/rodrigo-de-bolsonaro-visita-redinha-nova-e-apresenta-propostas-para-reciclagem-educacao-e-saneamento.ghtml)_
+
