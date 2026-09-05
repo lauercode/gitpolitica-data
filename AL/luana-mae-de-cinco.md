@@ -137,3 +137,6 @@
 - **[2026-09-05 04:00 UTC]** Dia da Barba: veja cinco dicas para manter os pelos limpos, hidratados e livres de bactérias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/dia-da-barba-veja-cinco-dicas-para-manter-os-pelos-limpos-hidratados-e-livres-de-bacterias.shtml)_
 
+- **[2026-09-05 08:00 UTC]** No Dia da Amazônia, conheça cinco dos grandes predadores da maior floresta tropical do mundo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/no-dia-da-amazonia-conheca-cinco-dos-grandes-predadores-da-maior-floresta-tropical-do-mundo.ghtml)_
+
