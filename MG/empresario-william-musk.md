@@ -17,3 +17,6 @@
 - **[2026-08-30 11:47 UTC]** Laura Dern vai entregar Leão de Ouro a George Clooney no Festival de Cinema de Veneza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/laura-dern-vai-entregar-leao-de-ouro-a-george-clooney-no-festival-de-cinema-de-veneza.shtml)_
 
+- **[2026-09-04 20:00 UTC]** Musk perde tentativa na Justiça de barrar lei contra imagens sexuais geradas por IA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/musk-perde-tentativa-na-justica-de-barrar-lei-contra-imagens-sexuais-geradas-por-ia.shtml)_
+
