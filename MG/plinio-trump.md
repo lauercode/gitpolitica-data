@@ -170,3 +170,6 @@
 - **[2026-09-04 20:13 UTC]** Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-afirma-ter-dito-a-trump-que-brasil-nao-aceita-interferencia-nas-eleicoes/)_
 
+- **[2026-09-04 19:16 UTC]** Trump diz que guerra no Irã é 'fichinha' para os EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-diz-que-guerra-no-ira-e-fichinha-para-os-eua.shtml)_
+
