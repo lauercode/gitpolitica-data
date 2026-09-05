@@ -149,3 +149,6 @@
 - **[2026-09-05 12:42 UTC]** Cinco suspeitos são presos por esquema de furto de carros de luxo em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/suspeitos-sao-presos-por-esquema-de-furto-de-carros-de-luxo-em-natal.ghtml)_
 
+- **[2026-09-05 14:29 UTC]** Peru declara estado de emergência em cinco presídios de alta segurança
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/peru-declara-estado-de-emergencia-em-cinco-presidios-de-alta-seguranca)_
+
