@@ -323,3 +323,6 @@
 - **[2026-09-05 14:21 UTC]** Escombros seguem em rio três meses após queda de ponte de R$ 36 milhões no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/escombros-seguem-em-rio-tres-meses-apos-queda-de-ponte-no-acre.ghtml)_
 
+- **[2026-09-05 15:47 UTC]** Casas próximas a comércio que pegou fogo no Acre passam por vistorias da Defesa Civil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/casas-proximas-a-comercio-que-pegou-fogo-no-acre-passam-por-vistorias-da-defesa-civil.ghtml)_
+
