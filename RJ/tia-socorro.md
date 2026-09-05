@@ -38,3 +38,6 @@
 - **[2026-09-04 16:14 UTC]** Vaca é resgatada após atolar em área de mangue em Nossa Senhora do Socorro
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/vaca-e-resgatada-apos-atolar-em-area-de-mangue-em-nossa-senhora-do-socorro.ghtml)_
 
+- **[2026-09-04 21:55 UTC]** Homem é preso após companheira pedir socorro por bilhetes enviados pelo filho a escola na Bahia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/homem-e-preso-apos-companheira-pedir-socorro-por-bilhetes-enviados-pelo-filho-a-escola-na-bahia.shtml)_
+
