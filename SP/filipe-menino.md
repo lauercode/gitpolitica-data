@@ -62,3 +62,6 @@
 - **[2026-09-04 14:48 UTC]** Menino de 4 anos morre em hospital do Paraná, e equipe médica é indiciada por homicídio por erros em avaliação de quadro de influenza
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/04/morte-crianca-joaquim-tavora-parana.ghtml)_
 
+- **[2026-09-05 18:28 UTC]** Morte de menino autista no Paraná: polícia conclui que queda da criança em tanque para decomposição de resíduos foi acidente e arquiva o caso
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/05/conclui-investigacao-morte-menino-autista-parana.ghtml)_
+
