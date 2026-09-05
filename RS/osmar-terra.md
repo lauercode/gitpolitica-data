@@ -86,3 +86,6 @@
 - **[2026-09-05 07:00 UTC]** Brasil testa 'laboratório espacial' que vai a 100 km de altitude e volta à Terra de paraquedas
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/brasil-testa-laboratorio-espacial-que-vai-a-100-km-de-altitude-e-volta-a-terra-de-paraquedas.ghtml)_
 
+- **[2026-09-05 07:00 UTC]** Quem conhece a própria terra sente nos ossos a crise climática
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/09/quem-conhece-a-propria-terra-sente-nos-ossos-a-crise-climatica.shtml)_
+
