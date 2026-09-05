@@ -23,3 +23,6 @@
 - **[2026-09-05 14:00 UTC]** 'Foi puro impulso', diz menina de 12 anos que controlou cavalo desgovernado na Expointer
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/foi-puro-impulso-diz-menina-de-12-anos-que-controlou-cavalo-desgovernado-na-expointer.ghtml)_
 
+- **[2026-09-05 18:01 UTC]** 'Quando vi, ela pegou ele', relata mãe de menina de 12 anos que controlou cavalo desgovernado no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/menina-contem-cavalo-desgovernado-expointer-mae.ghtml)_
+
