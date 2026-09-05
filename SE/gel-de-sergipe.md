@@ -173,3 +173,6 @@
 - **[2026-09-04 22:56 UTC]** Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta sexta-feira
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-sexta-feira.ghtml)_
 
+- **[2026-09-05 12:19 UTC]** Saiba o que abre e fecha no feriado de 7 de setembro em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/saiba-o-que-abre-e-fecha-no-feriado-de-7-de-setembro-em-sergipe.ghtml)_
+
