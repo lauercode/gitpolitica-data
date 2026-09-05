@@ -947,3 +947,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 12:00 UTC]** Três Poderes: Cury é o vencedor da semana e Moraes, o perdedor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tres-poderes-cury-e-o-vencedor-da-semana-e-moraes-o-perdedor.shtml)_
 
+- **[2026-09-05 11:18 UTC]** Alexandre de Moraes acordou evangélicos de direita para a eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/09/alexandre-de-moraes-acordou-evangelicos-de-direita-para-a-eleicao.shtml)_
+
