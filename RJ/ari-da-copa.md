@@ -95,3 +95,6 @@
 - **[2026-09-05 15:14 UTC]** Brasil goleia Tanzânia na estreia na Copa do Mundo sub-20 feminina
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-goleia-tanzania-na-estreia-na-copa-do-mundo-sub-20-feminina)_
 
+- **[2026-09-05 16:40 UTC]** Brasil leva ouro na Copa do Mundo de paratriatlo e no parabadminton
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-leva-ouro-na-copa-do-mundo-de-paratriatlo-e-no-parabadminton)_
+
