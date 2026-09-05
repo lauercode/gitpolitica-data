@@ -146,3 +146,6 @@
 - **[2026-09-05 04:00 UTC]** Edwin Luisi encara estreia de peça em São Paulo como reencontro com a sua cidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/edwin-luisi-encara-estreia-de-peca-em-sao-paulo-como-reencontro-com-a-sua-cidade.shtml)_
 
+- **[2026-09-05 14:25 UTC]** Idosa é morta por touro de rodeio após animal fugir durante festa de aniversário de cidade do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/05/idosa-morta-touro-barbosa-ferraz-parana.ghtml)_
+
