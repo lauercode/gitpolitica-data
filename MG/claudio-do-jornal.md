@@ -206,3 +206,6 @@
 - **[2026-09-05 00:54 UTC]** VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 4 de setembro de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sexta-feira-4-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-05 15:44 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sábado, 5 de setembro de 2026.
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/edicao/2026/09/05/videos-jornal-anhanguera-1-edicao-to-de-sabado-5-de-setembro-de-2026.ghtml)_
+
