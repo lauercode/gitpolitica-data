@@ -17,3 +17,6 @@
 - **[2026-08-29 19:20 UTC]** Tapioca com mais de 1 metro de diâmetro vence concurso do Festival da Farinha no Acre; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/tapioca-com-mais-de-1-metro-de-diametro-vence-concurso-do-festival-da-farinha-no-acre-video.ghtml)_
 
+- **[2026-09-05 13:22 UTC]** Maceió tem o metro quadrado mais caro do Nordeste; veja ranking
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/05/maceio-tem-metro-quadrado-mais-caro-nordeste-fipezap.ghtml)_
+
