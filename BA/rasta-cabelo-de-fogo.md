@@ -77,3 +77,6 @@
 - **[2026-09-04 14:04 UTC]** Idoso morre ao cair em câmara de defumação de linguiça artesanal em SC; casa pegou fogo
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/idoso-morre-cair-camara-defumacao-linguica-artesanal-sc-casa-pegou-fogo.ghtml)_
 
+- **[2026-09-05 15:47 UTC]** Casas próximas a comércio que pegou fogo no Acre passam por vistorias da Defesa Civil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/casas-proximas-a-comercio-que-pegou-fogo-no-acre-passam-por-vistorias-da-defesa-civil.ghtml)_
+
