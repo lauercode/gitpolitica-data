@@ -137,3 +137,6 @@
 - **[2026-09-04 14:59 UTC]** Filme produzido por jovens indígenas retrata relação de mulheres com espaço sagrado no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/filme-produzido-por-jovens-indigenas-retrata-relacao-de-mulheres-com-espaco-sagrado-no-acre.ghtml)_
 
+- **[2026-09-04 20:00 UTC]** Astrid Fontenelle lança plataforma de conteúdo para mulheres 45+
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/astrid-fontenelle-lanca-plataforma-de-conteudo-para-mulheres-45.shtml)_
+
