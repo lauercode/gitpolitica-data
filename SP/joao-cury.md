@@ -197,3 +197,6 @@
 - **[2026-09-05 12:00 UTC]** Três Poderes: Cury é o vencedor da semana e Moraes, o perdedor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tres-poderes-cury-e-o-vencedor-da-semana-e-moraes-o-perdedor.shtml)_
 
+- **[2026-09-05 13:35 UTC]** João Amoêdo vê Cury em alta, critica silêncio do Supremo no caso Moraes e ainda não define voto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpzy7lggo?at_medium=RSS&at_campaign=rss)_
+
