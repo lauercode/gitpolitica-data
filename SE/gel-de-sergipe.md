@@ -170,3 +170,6 @@
 - **[2026-09-04 21:09 UTC]** Paulinho da União Tur desiste de candidatura ao senado por Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/04/paulinho-da-uniao-tur-desiste-de-candidatura-ao-senado-por-sergipe.ghtml)_
 
+- **[2026-09-04 22:56 UTC]** Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta sexta-feira
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-sexta-feira.ghtml)_
+
