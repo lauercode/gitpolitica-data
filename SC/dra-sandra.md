@@ -11,3 +11,6 @@
 - **[2026-08-26 17:38 UTC]** Sandra Sá é confirmada no Fecant em Altamira, no Pará; inscrições vão até 30 de agosto
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/sandra-sa-e-confirmada-no-fecant-em-altamira-no-para.ghtml)_
 
+- **[2026-09-05 15:30 UTC]** 'Nos conhecemos muitas vidas atrás', diz Nicole Kidman sobre Sandra Bullock
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/nos-conhecemos-muitas-vidas-atras-diz-nicole-kidman-sobre-sandra-bullock.shtml)_
+
