@@ -44,3 +44,6 @@
 - **[2026-09-03 21:14 UTC]** 'Golpe do amor': polícia procura ex-namorado suspeito de extorquir R$ 27 mil e levar carro de vítima em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/golpe-amor-policia-procura-ex-namorado-extorquir-levar-carro-vitima.ghtml)_
 
+- **[2026-09-05 15:12 UTC]** Hospital de Amor em Barretos inaugura ala de reabilitação oncológica
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/hospital-de-amor-em-barretos-inaugura-ala-de-reabilitacao-oncologica)_
+
