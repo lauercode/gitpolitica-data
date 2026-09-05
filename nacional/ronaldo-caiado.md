@@ -44,3 +44,6 @@
 - **[2026-09-05 15:20 UTC]** Ronaldo Caiado, candidato do PSD à Presidência da República, visita a Expointer durante agenda no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/ronaldo-caiado-candidato-presidencia-republica-visita-rs-expointer.ghtml)_
 
+- **[2026-09-05 15:20 UTC]** Ronaldo Caiado defende fim do sigilo nos inquéritos do STF em meio à crise entre Moraes e Mendonça
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/ronaldo-caiado-candidato-presidencia-republica-visita-rs-expointer.ghtml)_
+
