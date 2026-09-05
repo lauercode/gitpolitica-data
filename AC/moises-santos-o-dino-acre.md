@@ -308,3 +308,6 @@
 - **[2026-09-04 16:32 UTC]** Família de motociclista morto após acidente na BR-364 chega ao Acre para funeral: 'Estamos desolados'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/familia-de-motociclista-morto-apos-acidente-na-br-364-chega-ao-ac-para-funeral-estamos-desolados.ghtml)_
 
+- **[2026-09-04 23:34 UTC]** VÍDEO: Médicos retiram bateria de lítio do estômago de criança de 1 ano e 9 meses no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/video-medicos-retiram-bateria-de-litio-do-estomago-de-crianca-no-acre.ghtml)_
+
