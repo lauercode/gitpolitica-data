@@ -20,3 +20,6 @@
 - **[2026-09-03 18:49 UTC]** Luana Piovani e a difícil tarefa de criar filhos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/09/luana-piovani-e-a-dificil-tarefa-de-criar-filhos.shtml)_
 
+- **[2026-09-04 23:00 UTC]** Luana Vitra reflete a disputa por metais de terras raras em instalação na Pinacoteca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/luana-vitra-reflete-a-disputa-por-metais-de-terras-raras-em-instalacao-na-pinacoteca.shtml)_
+
