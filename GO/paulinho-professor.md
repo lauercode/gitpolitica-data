@@ -95,3 +95,6 @@
 - **[2026-09-04 15:55 UTC]** Para driblar calor intenso, professor coloca barra de gelo em caixa d’água no Acre; veja VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/para-driblar-calor-intenso-professor-coloca-barra-de-gelo-em-caixa-dagua-no-acre-veja-video.ghtml)_
 
+- **[2026-09-05 09:00 UTC]** Professor pega bebê no colo para ajudar aluna durante aula no AC: 'Ensinar vai além dos livros'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/professor-pega-bebe-no-colo-para-ajudar-aluna-durante-aula-no-ac-ensinar-vai-alem-dos-livros.ghtml)_
+
