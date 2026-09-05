@@ -149,3 +149,6 @@
 - **[2026-09-05 07:00 UTC]** Mulheres pobres adoram Lula, mas só Michelle fala de igual para igual, diz Renato Meirelles
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/09/mulheres-pobres-adoram-lula-mas-so-michelle-fala-de-igual-para-igual-diz-renato-meirelles.shtml)_
 
+- **[2026-09-05 09:00 UTC]** Dia do açaí: como mulheres negras e mestiças do século XIX construíram a história da fruta em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/05/dia-do-acai-como-mulheres-negras-e-mesticas-do-seculo-xix-construiram-a-historia-da-fruta-em-belem.ghtml)_
+
