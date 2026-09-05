@@ -143,3 +143,6 @@
 - **[2026-09-04 20:33 UTC]** Fim de semana será marcado por frio e geada em diferentes regiões no RS; mínima pode chegar a 0°C
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/fim-de-semana-marcado-por-frio-geada-no-rs-minima-0c.ghtml)_
 
+- **[2026-09-05 15:05 UTC]** Feriado prolongado será de chuva em parte do país
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/feriado-prolongado-sera-de-chuva-em-parte-do-pais)_
+
