@@ -932,3 +932,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 01:31 UTC]** Moraes usa relatórios frágeis da Polícia Federal para investigar Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-usa-relatorios-frageis-da-policia-federal-para-investigar-mendonca/)_
 
+- **[2026-09-05 01:04 UTC]** PGR manda investigar se houve interferência em relatório da PF sobre Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-manda-investigar-se-houve-interferencia-em-relatorio-da-pf-sobre-moraes-e-vorcaro/)_
+
