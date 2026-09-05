@@ -926,3 +926,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 22:31 UTC]** Fachin conversa com Lula e indica que levará casos de Moraes e Mendonça ao plenário do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-conversa-com-lula-e-indica-que-levara-casos-de-moraes-e-mendonca-ao-plenario-do-stf.shtml)_
 
+- **[2026-09-05 02:12 UTC]** Marco Aurélio Mello condena tentativa de Moraes de investigar Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-mello-condena-tentativa-de-moraes-de-investigar-mendonca-no-stf/)_
+
