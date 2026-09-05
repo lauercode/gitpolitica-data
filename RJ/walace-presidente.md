@@ -359,3 +359,6 @@
 - **[2026-09-04 20:55 UTC]** Confira como foi a sexta-feira (4) dos candidatos a presidente
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-sexta-feira-4-dos-candidatos-presidente)_
 
+- **[2026-09-05 14:00 UTC]** Focamos no futuro financeiro do Instituto Inhotim, diz diretora-presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/focamos-no-futuro-financeiro-do-instituto-inhotim-diz-diretora-presidente.shtml)_
+
