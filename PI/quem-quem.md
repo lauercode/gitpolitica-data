@@ -275,3 +275,6 @@
 - **[2026-09-05 17:16 UTC]** Ator de 'Quem Ama Cuida' cobra segurança no Rock in Rio e aponta homofobia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ator-de-quem-ama-cuida-cobra-seguranca-no-rock-in-rio-e-aponta-homofobia.shtml)_
 
+- **[2026-09-05 21:11 UTC]** Alegre e divertida: quem era a empresária esposa de ex-secretário de Saúde do TO que morreu em acidente na TO-070
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/alegre-e-divertida-quem-era-a-empresaria-esposa-de-ex-secretario-de-saude-do-to-que-morreu-em-acidente-na-to-070.ghtml)_
+
