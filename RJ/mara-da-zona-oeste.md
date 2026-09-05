@@ -35,3 +35,6 @@
 - **[2026-09-03 08:05 UTC]** Frente fria leva chuva ao Sudeste e parte do Centro-Oeste
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/frente-fria-leva-chuva-ao-sudeste-e-parte-do-centro-oeste)_
 
+- **[2026-09-05 12:30 UTC]** No céu das lavouras: drones transformam o agro do Oeste do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/fag-centro-universitario-city-farm/noticia/2026/09/05/no-ceu-das-lavouras-drones-transformam-o-agro-do-oeste-do-parana.ghtml)_
+
