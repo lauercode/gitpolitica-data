@@ -878,3 +878,6 @@
 - **[2026-09-05 03:00 UTC]** Datafolha: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/05/datafolha-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml)_
 
+- **[2026-09-05 13:32 UTC]** Flávio diz que Alcolumbre blinda Moraes e trava impeachment
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-diz-que-alcolumbre-blinda-moraes-e-trava-impeachment/)_
+
