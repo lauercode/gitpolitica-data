@@ -884,3 +884,6 @@
 - **[2026-09-05 19:40 UTC]** Flávio Bolsonaro visita ex-assessor do pai preso no Paraná e chama Moraes de 'laranja podre' no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/flavio-bolsonaro-campanha-parana.ghtml)_
 
+- **[2026-09-05 17:30 UTC]** Flávio Bolsonaro chama Moraes de 'laranja podre do STF' em visita a condenado por trama golpista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-chama-moraes-de-laranja-podre-do-stf-em-visita-a-condenado-por-trama-golpista.shtml)_
+
