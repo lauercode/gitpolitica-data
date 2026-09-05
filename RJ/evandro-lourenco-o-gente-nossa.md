@@ -47,3 +47,6 @@
 - **[2026-09-04 16:14 UTC]** Vaca é resgatada após atolar em área de mangue em Nossa Senhora do Socorro
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/vaca-e-resgatada-apos-atolar-em-area-de-mangue-em-nossa-senhora-do-socorro.ghtml)_
 
+- **[2026-09-05 12:56 UTC]** Motociclista morre após acidente envolvendo caminhonete em Nossa Senhora da Glória
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/acidente-envolvendo-caminhonete-em-nossa-senhora-da-gloria.ghtml)_
+
