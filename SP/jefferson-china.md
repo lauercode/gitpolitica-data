@@ -68,3 +68,6 @@
 - **[2026-09-04 15:59 UTC]** Exportação brasileira de carne bovina perde força em agosto com redução de vendas à China
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/exportacao-brasileira-de-carne-bovina-perde-forca-em-agosto-com-reducao-de-vendas-a-china.shtml)_
 
+- **[2026-09-04 23:00 UTC]** China começa a regular atendimento ao consumidor feito por IA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/09/china-comeca-a-regular-atendimento-ao-consumidor-feito-por-ia.shtml)_
+
