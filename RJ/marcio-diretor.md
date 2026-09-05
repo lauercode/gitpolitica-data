@@ -77,3 +77,6 @@
 - **[2026-09-04 16:45 UTC]** Diretor Paul Schrader exibe em Veneza filme áspero que trata de repressão sexual
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/diretor-paul-schrader-exibe-em-veneza-filme-aspero-que-trata-de-repressao-sexual.shtml)_
 
+- **[2026-09-05 06:00 UTC]** Preso por corrupção, ex-diretor da Fazenda de SP recebeu bônus e promoção mesmo após afastamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/preso-por-corrupcao-ex-diretor-da-fazenda-de-sp-recebeu-bonus-e-promocao-mesmo-apos-afastamento.shtml)_
+
