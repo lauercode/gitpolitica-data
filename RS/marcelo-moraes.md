@@ -941,3 +941,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 11:13 UTC]** Inquérito das fake news: relembre decisões que marcaram a investigação sob relatoria de Moraes no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/05/inquerito-das-fake-news-relembre-decisoes-que-marcaram-a-investigacao-sob-relatoria-de-moraes-no-stf.ghtml)_
 
+- **[2026-09-05 12:55 UTC]** Fachin indica intenção de levar ao plenário crise envolvendo Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/05/fachin-indica-intencao-de-levar-ao-plenario-crise-envolvendo-moraes-e-mendonca.ghtml)_
+
