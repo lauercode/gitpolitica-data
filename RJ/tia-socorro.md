@@ -41,3 +41,6 @@
 - **[2026-09-04 21:55 UTC]** Homem é preso após companheira pedir socorro por bilhetes enviados pelo filho a escola na Bahia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/homem-e-preso-apos-companheira-pedir-socorro-por-bilhetes-enviados-pelo-filho-a-escola-na-bahia.shtml)_
 
+- **[2026-09-05 14:25 UTC]** Adolescente morre após ter moto atingida por caminhonete e motorista foge sem prestar socorro em Rorianópolis
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/05/adolescente-morre-apos-ter-moto-atingida-por-caminhonete-e-motorista-foge-sem-prestar-socorro-em-rorianopolis.ghtml)_
+
