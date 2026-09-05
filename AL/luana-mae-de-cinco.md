@@ -134,3 +134,6 @@
 - **[2026-09-04 21:23 UTC]** Bando de cinco criminosos assalta joalheria em Castanhal
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/bando-de-cinco-criminosos-assalta-joalheria-em-castanhal.ghtml)_
 
+- **[2026-09-05 04:00 UTC]** Dia da Barba: veja cinco dicas para manter os pelos limpos, hidratados e livres de bactérias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/dia-da-barba-veja-cinco-dicas-para-manter-os-pelos-limpos-hidratados-e-livres-de-bacterias.shtml)_
+
