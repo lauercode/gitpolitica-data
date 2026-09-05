@@ -230,3 +230,6 @@
 - **[2026-09-04 23:00 UTC]** Projeto parado no Congresso proíbe uso de relatórios de inteligência em investigações criminais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/projeto-parado-no-congresso-proibe-uso-de-relatorios-de-inteligencia-em-investigacoes-criminais.shtml)_
 
+- **[2026-09-05 19:06 UTC]** Projeto leva educação ambiental para escolas na Grande João Pessoa; saiba como funciona
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/projeto-leva-educacao-ambiental-para-escolas-na-grande-joao-pessoa-saiba-como-funciona.ghtml)_
+
