@@ -173,3 +173,6 @@
 - **[2026-09-04 19:16 UTC]** Trump diz que guerra no Irã é 'fichinha' para os EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-diz-que-guerra-no-ira-e-fichinha-para-os-eua.shtml)_
 
+- **[2026-09-04 22:00 UTC]** Trump e Venezuela fazem acordo esdrúxulo por petróleo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/trump-e-venezuela-fazem-acordo-esdruxulo-por-petroleo.shtml)_
+
