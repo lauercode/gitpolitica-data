@@ -11,3 +11,6 @@
 - **[2026-09-04 17:17 UTC]** Lutador do Paraná fica sem movimentos após golpe: testemunhas relataram que técnica usada por adversário é ilegal, diz delegado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/04/investigacao-golpe-lutador-parana.ghtml)_
 
+- **[2026-09-04 17:17 UTC]** Lutador do Paraná fica sem movimentos após golpe: testemunhas relataram que técnica usada por adversário é irregular, diz delegado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/04/investigacao-golpe-lutador-parana.ghtml)_
+
