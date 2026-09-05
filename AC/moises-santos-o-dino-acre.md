@@ -311,3 +311,6 @@
 - **[2026-09-04 23:34 UTC]** VÍDEO: Médicos retiram bateria de lítio do estômago de criança de 1 ano e 9 meses no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/video-medicos-retiram-bateria-de-litio-do-estomago-de-crianca-no-acre.ghtml)_
 
+- **[2026-09-04 23:32 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 4 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-4-de-setembro-de-2026.ghtml)_
+
