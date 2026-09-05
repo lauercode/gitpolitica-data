@@ -92,3 +92,6 @@
 - **[2026-09-04 12:21 UTC]** Copa do Brasil reúne líder, candidato à Libertadores e times em crise no Brasileiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/copa-do-brasil-reune-lider-candidato-a-libertadores-e-times-em-crise-no-brasileiro.shtml)_
 
+- **[2026-09-05 15:14 UTC]** Brasil goleia Tanzânia na estreia na Copa do Mundo sub-20 feminina
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-goleia-tanzania-na-estreia-na-copa-do-mundo-sub-20-feminina)_
+
