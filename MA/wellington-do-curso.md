@@ -59,3 +59,6 @@
 - **[2026-09-04 21:43 UTC]** Comissão aprova projeto que autoriza extensão de estágio após conclusão de curso superior
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302980-comissao-aprova-projeto-que-autoriza-extensao-de-estagio-apos-conclusao-de-curso-superior)_
 
+- **[2026-09-04 22:10 UTC]** Professora que viralizou ao cuidar de criança durante aula diz que mãe teve que trancar curso: ‘Por um momento’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/professora-que-viralizou-ao-cuidar-de-crianca-durante-aula-diz-que-mae-teve-que-trancar-curso-por-um-momento.ghtml)_
+
