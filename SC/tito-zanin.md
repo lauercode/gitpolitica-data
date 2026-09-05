@@ -17,3 +17,6 @@
 - **[2026-09-05 22:15 UTC]** Zanin pede que Deltan Dallagnoll seja responsabilizado por abrir seu sigilo fiscal
   _fonte: [G1 - Política:](https://g1.globo.com/politica/politico/noticia/2026/09/05/zanin-pede-que-deltan-dallagnoll-seja-responsabilizado-por-abrir-seu-sigilo-fiscal.ghtml)_
 
+- **[2026-09-05 19:54 UTC]** Deltan anexa dados de sigilo fiscal de Zanin na Justiça Eleitoral, e ministro pede responsabilização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/deltan-anexa-dados-de-sigilo-fiscal-de-zanin-na-justica-eleitoral-e-ministro-pede-responsabilizacao.shtml)_
+
