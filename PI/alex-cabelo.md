@@ -26,3 +26,6 @@
 - **[2026-09-04 18:54 UTC]** Policial penal é investigado por agredir namorada com empurrões e puxões de cabelo em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/04/policial-penal-e-investigado-por-agredir-namorada-com-empurroes-e-puxoes-de-cabelo-em-boa-vista.ghtml)_
 
+- **[2026-09-05 15:42 UTC]** Homem é preso por tentar matar mulher e agredi-la com tapas e puxões de cabelo em Iracema
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/05/homem-e-preso-por-tentar-matar-mulher-e-agredi-la-com-tapas-e-puxoes-de-cabelo-em-iracema.ghtml)_
+
