@@ -47,3 +47,6 @@
 - **[2026-09-04 11:17 UTC]** Morre o diretor Tony Gatlif, que explorou a cultura cigana nos cinemas, aos 77
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/morre-o-diretor-tony-gatlif-que-explorou-a-cultura-cigana-nos-cinemas-aos-77.shtml)_
 
+- **[2026-09-05 16:21 UTC]** Maestro Chico Pinheiro, referência da cultura popular maranhense, morre aos 71 anos
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/05/maestro-chico-pinheiro-referencia-na-musica-maranhense-morre-aos-71-anos.ghtml)_
+
