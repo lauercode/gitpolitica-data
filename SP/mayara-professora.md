@@ -59,3 +59,6 @@
 - **[2026-09-04 22:32 UTC]** Eleições 2026: Professora Maria do Carmo grava programa eleitoral e propõe descentralizar governo no interior do AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-maria-do-carmo-grava-programa-eleitoral-e-propoe-descentralizar-governo-no-interior-do-am.ghtml)_
 
+- **[2026-09-04 22:10 UTC]** Professora que viralizou ao cuidar de criança durante aula diz que mãe teve que trancar curso: ‘Por um momento’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/professora-que-viralizou-ao-cuidar-de-crianca-durante-aula-diz-que-mae-teve-que-trancar-curso-por-um-momento.ghtml)_
+
