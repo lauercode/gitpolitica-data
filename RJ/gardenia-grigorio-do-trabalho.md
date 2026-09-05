@@ -209,3 +209,6 @@
 - **[2026-09-04 15:48 UTC]** Motorista de ônibus suspeito de matar colega de trabalho a facadas após discussão é preso em Manaus; VÍDEO
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/04/suspeito-de-matar-motorista-de-transporte-publico-durante-expediente-e-preso-em-manaus.ghtml)_
 
+- **[2026-09-05 20:59 UTC]** Acreano transforma curiosidade e paixão por aves em trabalho na Amazônia: ‘É uma terapia’
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/acreano-transforma-curiosidade-e-paixao-por-aves-em-trabalho-na-amazonia-e-uma-terapia.ghtml)_
+
