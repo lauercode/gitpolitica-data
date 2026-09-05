@@ -41,3 +41,6 @@
 - **[2026-09-03 21:15 UTC]** PF relata desconfiança de Mendonça sobre diretor-geral da corporação por proximidade com Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-relata-desconfianca-de-mendonca-sobre-seu-diretor-geral-por-proximidade-com-lula.shtml)_
 
+- **[2026-09-05 14:15 UTC]** Rodrigo Cavalcante é eleito novo defensor público-geral de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/rodrigo-cavalcante-e-eleito-novo-defensor-publico-geral-de-sergipe.ghtml)_
+
