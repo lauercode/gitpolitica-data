@@ -710,3 +710,6 @@
 - **[2026-09-05 15:27 UTC]** Rodrigo de Bolsonaro visita Redinha Nova e apresenta propostas para reciclagem, educação e saneamento
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/05/rodrigo-de-bolsonaro-visita-redinha-nova-e-apresenta-propostas-para-reciclagem-educacao-e-saneamento.ghtml)_
 
+- **[2026-09-05 19:40 UTC]** Flávio Bolsonaro visita ex-assessor do pai preso no Paraná e chama Moraes de 'laranja podre' no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/flavio-bolsonaro-campanha-parana.ghtml)_
+
