@@ -29,3 +29,6 @@
 - **[2026-09-04 15:48 UTC]** Portugal divulga que abriu negociações com Air France-KLM e Lufthansa para privatização da TAP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/portugal-divulga-que-abriu-negociacoes-com-air-france-klm-e-lufthansa-para-privatizacao-da-tap.shtml)_
 
+- **[2026-09-04 22:32 UTC]** Fafá de Belém lança projeto em Portugal e destaca impacto econômico do Círio de Nazaré no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/04/fafa-de-belem-lanca-projeto-em-portugal-e-destaca-impacto-economico-do-cirio-de-nazare-no-para.ghtml)_
+
