@@ -143,3 +143,6 @@
 - **[2026-09-04 22:50 UTC]** Eleições 2026: Ricardo Marques diz que tem programa de habitação para mulheres chefes de família
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-ricardo-marques-diz-que-tem-programa-de-habitacao-para-mulheres-chefes-de-familia.ghtml)_
 
+- **[2026-09-05 05:00 UTC]** Alcoolismo e violência afastam mulheres, diz indígena que fugiu de território no Equador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/09/alcoolismo-e-violencia-afastam-mulheres-diz-indigena-que-fugiu-de-territorio-no-equador.shtml)_
+
