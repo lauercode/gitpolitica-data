@@ -53,3 +53,6 @@
 - **[2026-09-03 15:53 UTC]** Socorristas são filmados acalmando pais que perderam filha de 7 anos em acidente de carro no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/03/samu-acalma-pais-acidente-parana.ghtml)_
 
+- **[2026-09-05 03:00 UTC]** 'Impossível não se colocar no lugar do outro com tanto sofrimento', diz socorrista filmada acalmando pais que perderam filha no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/05/impossivel-nao-se-colocar-no-lugar-do-outro-com-tanto-sofrimento-diz-socorrista-filmada-acalmando-pais-que-perderam-filha-no-parana.ghtml)_
+
