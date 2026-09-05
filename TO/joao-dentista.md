@@ -17,3 +17,6 @@
 - **[2026-09-04 16:37 UTC]** VÍDEO: Homem depreda unidade de saúde por falta de dentista em Canoas, no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/homem-depreda-unidade-de-saude-por-falta-de-dentista-em-canoas-no-rs.ghtml)_
 
+- **[2026-09-04 22:48 UTC]** Dentista sem habilitação para cirurgia é indiciado por homicídio após morte de empresária de 70 anos em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/dentista-sem-habilitacao-indiciado-homicidio-morte-empresaria-lages.ghtml)_
+
