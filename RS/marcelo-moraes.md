@@ -905,3 +905,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 23:16 UTC]** Relatório usado por Moraes recomenda 'monitoramento e coleta dirigida' sobre Mendonça e Messias
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/04/relatorio-usado-por-moraes-recomenda-monitoramento-e-coleta-dirigida-sobre-mendonca-e-messias.ghtml)_
 
+- **[2026-09-04 20:14 UTC]** Moraes vai pra debaixo do tapete?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/moraes-vai-pra-debaixo-do-tapete.shtml)_
+
