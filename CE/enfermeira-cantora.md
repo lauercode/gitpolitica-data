@@ -35,3 +35,6 @@
 - **[2026-09-03 15:30 UTC]** Cantora de death metal e miss com alopecia estão no elenco do Miss Mundo 2026 ; veja fotos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/cantora-de-death-metal-e-miss-com-alopecia-estao-no-elenco-do-miss-mundo-2026-veja-fotos.shtml)_
 
+- **[2026-09-05 21:11 UTC]** VÍDEO: Fã de Joelma surpreende em dança no palco e emoldura dinheiro recebido da cantora no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/video-fa-de-joelma-surpreende-em-danca-no-palco-e-emoldura-dinheiro-recebido-da-cantora-no-am.ghtml)_
+
