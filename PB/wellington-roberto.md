@@ -47,3 +47,6 @@
 - **[2026-09-03 02:23 UTC]** Eleições 2026: Roberto Cidade realiza comício na Zona Oeste de Manaus e promete ampliar ações de inteligência
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-roberto-cidade-realiza-comicio-na-zona-oeste-de-manaus-e-promete-ampliar-acoes-de-inteligencia.ghtml)_
 
+- **[2026-09-05 00:25 UTC]** Eleições 2026: Roberto Cidade faz carreata em Tabatinga e promete expandir Polo Industrial de Manaus para a rodovia AM-010
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-roberto-cidade-faz-carreata-em-tabatinga-e-promete-expandir-polo-industrial-de-manaus-para-a-rodovia-am-010.ghtml)_
+
