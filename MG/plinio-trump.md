@@ -176,3 +176,6 @@
 - **[2026-09-04 22:00 UTC]** Trump e Venezuela fazem acordo esdrúxulo por petróleo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/trump-e-venezuela-fazem-acordo-esdruxulo-por-petroleo.shtml)_
 
+- **[2026-09-05 12:37 UTC]** Trump faz aliança improvável com o chavismo visando petróleo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/09/trump-da-guinada-ideologica-ao-fazer-alianca-com-o-chavismo.shtml)_
+
