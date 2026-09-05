@@ -326,3 +326,6 @@
 - **[2026-09-05 15:47 UTC]** Casas próximas a comércio que pegou fogo no Acre passam por vistorias da Defesa Civil
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/casas-proximas-a-comercio-que-pegou-fogo-no-acre-passam-por-vistorias-da-defesa-civil.ghtml)_
 
+- **[2026-09-05 10:00 UTC]** MPF tenta reverter decisão e pede retirada de homenagens ligadas à ditadura em espaços no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/mpf-tenta-reverter-decisao-e-pede-retirada-de-homenagens-ligadas-a-ditadura-em-espacos-no-ac.ghtml)_
+
