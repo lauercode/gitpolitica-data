@@ -41,3 +41,6 @@
 - **[2026-09-05 20:12 UTC]** Gilmar Mendes protocola proposta para proibir policiais e militares como funcionários de gabinetes de ministros do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/05/gilmar-propoe-a-fachin-proibir-delegados-da-pf-como-funcionarios-de-gabinetes-de-ministros-do-stf.ghtml)_
 
+- **[2026-09-05 18:01 UTC]** Gilmar formaliza proposta para vetar membros da PF e das Forças Armadas em gabinetes do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-formaliza-proposta-para-vetar-membros-da-pf-e-das-forcas-armadas-em-gabinetes-do-stf.shtml)_
+
