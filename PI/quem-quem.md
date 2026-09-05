@@ -257,3 +257,6 @@
 - **[2026-09-05 09:00 UTC]** João Victor Gonçalves, ator de 'Quem Ama Cuida', é hostilizado na rua
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/joao-victor-goncalves-ator-de-quem-ama-cuida-e-hostilizado-na-rua.shtml)_
 
+- **[2026-09-05 07:00 UTC]** Quem conhece a própria terra sente nos ossos a crise climática
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/09/quem-conhece-a-propria-terra-sente-nos-ossos-a-crise-climatica.shtml)_
+
