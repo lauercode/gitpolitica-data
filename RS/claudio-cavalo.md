@@ -20,3 +20,6 @@
 - **[2026-09-03 14:30 UTC]** 'Cavalo Selvagem Nove', com John Malkovich, estreia em Veneza mirando o Oscar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/cavalo-selvagem-nove-com-john-malkovich-estreia-em-veneza-mirando-o-oscar.shtml)_
 
+- **[2026-09-05 14:00 UTC]** 'Foi puro impulso', diz menina de 12 anos que controlou cavalo desgovernado na Expointer
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/foi-puro-impulso-diz-menina-de-12-anos-que-controlou-cavalo-desgovernado-na-expointer.ghtml)_
+
