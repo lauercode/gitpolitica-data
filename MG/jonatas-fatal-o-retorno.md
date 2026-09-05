@@ -35,3 +35,6 @@
 - **[2026-09-03 16:07 UTC]** Após decisão judicial, SMTT confirma retorno da empresa VRS ao transporte coletivo de Aracaju
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/03/apos-decisao-judicial-smtt-confirma-retorno-da-empresa-vrs-ao-transporte-coletivo-em-aracaju.ghtml)_
 
+- **[2026-09-05 10:00 UTC]** Pesquisa da AWS diz que 33% das empresas confiam na capacidade de medir o retorno da IA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/pesquisa-da-aws-diz-que-33-das-empresas-confiam-na-capacidade-de-medir-o-retorno-da-ia.shtml)_
+
