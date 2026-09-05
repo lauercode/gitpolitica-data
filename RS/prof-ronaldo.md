@@ -41,3 +41,6 @@
 - **[2026-09-04 15:47 UTC]** Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-presidente-4-setembro.ghtml)_
 
+- **[2026-09-05 15:20 UTC]** Ronaldo Caiado, candidato do PSD à Presidência da República, visita a Expointer durante agenda no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/ronaldo-caiado-candidato-presidencia-republica-visita-rs-expointer.ghtml)_
+
