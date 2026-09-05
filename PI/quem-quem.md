@@ -260,3 +260,6 @@
 - **[2026-09-05 07:00 UTC]** Quem conhece a própria terra sente nos ossos a crise climática
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/09/quem-conhece-a-propria-terra-sente-nos-ossos-a-crise-climatica.shtml)_
 
+- **[2026-09-05 09:50 UTC]** 'Quem Ama Cuida' é reclassificada pelo governo por causa de violência e trama de Ulisses
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/quem-ama-cuida-e-reclassificada-pelo-governo-por-causa-de-violencia-e-trama-de-ulisses.shtml)_
+
