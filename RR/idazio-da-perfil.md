@@ -20,3 +20,6 @@
 - **[2026-09-02 07:01 UTC]** Caminhoneiro confundido com criança pela PM já teve perfil na web banido com alerta de 'segurança infantil'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/caminhoneiro-confundido-crianca-pm-perfil-banido-plataforma-seguranca-infantil.ghtml)_
 
+- **[2026-09-05 06:00 UTC]** John Ternus assume cargo de CEO da Apple com perfil discreto e desafio de renovar produtos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/john-ternus-assume-cargo-de-ceo-da-apple-com-perfil-discreto-e-desafio-de-renovar-produtos.shtml)_
+
