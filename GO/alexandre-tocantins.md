@@ -107,3 +107,6 @@
 - **[2026-09-05 09:30 UTC]** Parque estadual no Tocantins tem cachoeiras, dunas e fervedouros onde é impossível afundar
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/parque-estadual-no-tocantins-tem-cachoeiras-dunas-e-fervedouros-onde-e-impossivel-afundar.ghtml)_
 
+- **[2026-09-05 13:14 UTC]** Ex-secretário de Saúde do Tocantins segue internado após acidente que matou esposa na TO-070
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/ex-secretario-de-saude-do-tocantins-segue-internado-apos-acidente-que-matou-esposa-na-to-070.ghtml)_
+
