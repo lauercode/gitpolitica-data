@@ -920,3 +920,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 23:17 UTC]** PGR investigará relatório da PF que revelou mensagens de Vorcaro a Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pgr-investigara-relatorio-da-pf-que-revelou-mensagens-de-vorcaro-a-moraes.shtml)_
 
+- **[2026-09-04 23:00 UTC]** Ala pró-Mendonça vê tentativa de Moraes de contaminar todo o STF para se blindar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ala-pro-mendonca-ve-tentativa-de-moraes-de-contaminar-todo-o-stf-para-se-blindar.shtml)_
+
