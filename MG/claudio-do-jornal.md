@@ -203,3 +203,6 @@
 - **[2026-09-04 23:32 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 4 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-4-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-05 00:54 UTC]** VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 4 de setembro de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sexta-feira-4-de-setembro-de-2026.ghtml)_
+
