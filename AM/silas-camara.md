@@ -677,3 +677,6 @@ direitos
 Diretor
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
 
+- **[2026-09-05 18:17 UTC]** Concurso da Câmara de São José do Sabugi, PB, tem edital lançado com 11 vagas e salários de R$ 1,6 mil
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/concurso-camara-sao-jose-do-sabugi-2026.ghtml)_
+
