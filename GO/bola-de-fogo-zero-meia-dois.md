@@ -281,3 +281,6 @@
 - **[2026-09-05 14:58 UTC]** Neymar ficará dois meses sem jogar após lesão na coxa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/neymar-ficara-dois-meses-sem-jogar-apos-lesao-na-coxa.shtml)_
 
+- **[2026-09-05 19:36 UTC]** Procon pesquisa preços em churrascarias de Aracaju: prato para dois vai de R$ 75 a R$ 120
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/procon-pesquisa-precos-em-churrascarias-de-aracaju.ghtml)_
+
