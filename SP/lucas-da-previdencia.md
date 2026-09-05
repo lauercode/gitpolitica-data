@@ -35,3 +35,6 @@
 - **[2026-09-04 22:00 UTC]** O Brasil tem urgência em fazer uma nova reforma da Previdência? SIM
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-brasil-tem-urgencia-em-fazer-uma-nova-reforma-da-previdencia-sim.shtml)_
 
+- **[2026-09-05 12:30 UTC]** Renan Santos diz que Previdência quebrará em três anos; o que mostram os números
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/reforma-previdencia-alerta-quebra/)_
+
