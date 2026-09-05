@@ -251,3 +251,6 @@
 - **[2026-09-04 23:16 UTC]** Rock in Rio 2026: Otaviano Costa fala sobre cenas quentes de Flávia Alessandra em Quem Ama Cuida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-otaviano-costa-fala-sobre-cenas-quentes-de-flavia-alessandra-em-quem-ama-cuida.shtml)_
 
+- **[2026-09-04 17:36 UTC]** Rock in Rio inaugura cercadinho mais caro e mira quem quer evitar filas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/rock-in-rio-comeca-com-show-esvaziado-e-inaugura-cercadinho-mais-caro.shtml)_
+
