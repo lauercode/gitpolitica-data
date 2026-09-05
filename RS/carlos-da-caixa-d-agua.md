@@ -179,3 +179,6 @@
 - **[2026-09-05 04:00 UTC]** ANP quer licitar área onde agricultor achou petróleo ao buscar água no Ceará
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anp-quer-licitar-area-onde-agricultor-achou-petroleo-ao-buscar-agua-no-ceara.shtml)_
 
+- **[2026-09-05 19:40 UTC]** ‘Muito gratificante’, diz brigadista que resgatou filhote de veado de incêndio e deu água ao animal; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/muito-gratificante-diz-brigadista-que-resgatou-filhote-de-veado-de-incendio-e-deu-agua-ao-animal-video.ghtml)_
+
