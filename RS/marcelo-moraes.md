@@ -968,3 +968,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 17:47 UTC]** “Se arrependimento matasse” diz ex-ministro Marco Aurélio sobre apoio a Moraes no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/se-arrependimento-matasse-diz-ex-ministro-marco-aurelio-sobre-apoio-a-moraes-no-stf/)_
 
+- **[2026-09-05 19:40 UTC]** Flávio Bolsonaro visita ex-assessor do pai preso no Paraná e chama Moraes de 'laranja podre' no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/flavio-bolsonaro-campanha-parana.ghtml)_
+
