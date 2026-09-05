@@ -242,3 +242,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 14:01 UTC]** Conselho Superior do MPF abre procedimento para analisar citações a Gonet em mensagens atribuídas a Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/conselho-superior-do-mpf-abre-procedimento-para-analisar-citacoes-a-paulo-gonet-em-mensagens-atribuidas-a-daniel-vorcaro.ghtml)_
 
+- **[2026-09-04 23:17 UTC]** PGR investigará relatório da PF que revelou mensagens de Vorcaro a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pgr-investigara-relatorio-da-pf-que-revelou-mensagens-de-vorcaro-a-moraes.shtml)_
+
