@@ -20,3 +20,6 @@
 - **[2026-09-04 19:15 UTC]** Cícero Lucena defende assistência rural para famílias da agricultura familiar na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/cicero-lucena-defende-assistencia-rural-para-familias-da-agricultura-familiar-na-paraiba.ghtml)_
 
+- **[2026-09-05 00:13 UTC]** Marconi Perillo fala em retomar programas de crédito e reforçar assistência técnica a produtores rurais
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-4.ghtml)_
+
