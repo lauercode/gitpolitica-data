@@ -143,3 +143,6 @@
 - **[2026-09-05 00:25 UTC]** Eleições 2026: Roberto Cidade faz carreata em Tabatinga e promete expandir Polo Industrial de Manaus para a rodovia AM-010
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-roberto-cidade-faz-carreata-em-tabatinga-e-promete-expandir-polo-industrial-de-manaus-para-a-rodovia-am-010.ghtml)_
 
+- **[2026-09-05 04:00 UTC]** Edwin Luisi encara estreia de peça em São Paulo como reencontro com a sua cidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/edwin-luisi-encara-estreia-de-peca-em-sao-paulo-como-reencontro-com-a-sua-cidade.shtml)_
+
