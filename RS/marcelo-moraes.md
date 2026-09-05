@@ -944,3 +944,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 12:55 UTC]** Fachin indica intenção de levar ao plenário crise envolvendo Moraes e Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/05/fachin-indica-intencao-de-levar-ao-plenario-crise-envolvendo-moraes-e-mendonca.ghtml)_
 
+- **[2026-09-05 12:00 UTC]** Três Poderes: Cury é o vencedor da semana e Moraes, o perdedor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tres-poderes-cury-e-o-vencedor-da-semana-e-moraes-o-perdedor.shtml)_
+
