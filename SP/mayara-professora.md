@@ -56,3 +56,6 @@
 - **[2026-09-04 01:42 UTC]** Eleições 2026: Professora Maria do Carmo participa de café com apoiadores em Manaus e promete construção de moradias
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-professora-maria-do-carmo-participa-de-cafe-com-apoiadores-em-manaus-e-promete-construcao-de-moradias.ghtml)_
 
+- **[2026-09-04 22:32 UTC]** Eleições 2026: Professora Maria do Carmo grava programa eleitoral e propõe descentralizar governo no interior do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-maria-do-carmo-grava-programa-eleitoral-e-propoe-descentralizar-governo-no-interior-do-am.ghtml)_
+
