@@ -929,3 +929,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 02:12 UTC]** Marco Aurélio Mello condena tentativa de Moraes de investigar Mendonça no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-mello-condena-tentativa-de-moraes-de-investigar-mendonca-no-stf/)_
 
+- **[2026-09-05 01:31 UTC]** Moraes usa relatórios frágeis da Polícia Federal para investigar Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-usa-relatorios-frageis-da-policia-federal-para-investigar-mendonca/)_
+
