@@ -50,3 +50,6 @@
 - **[2026-09-03 18:43 UTC]** VÍDEO mostra momento do acidente que matou músico Diego Sanches a caminho de show em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/video-acidente-morte-musico-porto-alegre.ghtml)_
 
+- **[2026-09-04 22:10 UTC]** Professora que viralizou ao cuidar de criança durante aula diz que mãe teve que trancar curso: ‘Por um momento’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/professora-que-viralizou-ao-cuidar-de-crianca-durante-aula-diz-que-mae-teve-que-trancar-curso-por-um-momento.ghtml)_
+
