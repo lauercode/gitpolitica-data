@@ -224,3 +224,6 @@
 - **[2026-09-04 21:43 UTC]** Comissão aprova projeto que autoriza extensão de estágio após conclusão de curso superior
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302980-comissao-aprova-projeto-que-autoriza-extensao-de-estagio-apos-conclusao-de-curso-superior)_
 
+- **[2026-09-04 22:32 UTC]** Fafá de Belém lança projeto em Portugal e destaca impacto econômico do Círio de Nazaré no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/04/fafa-de-belem-lanca-projeto-em-portugal-e-destaca-impacto-economico-do-cirio-de-nazare-no-para.ghtml)_
+
