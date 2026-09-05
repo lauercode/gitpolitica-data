@@ -170,3 +170,6 @@
 - **[2026-09-04 13:07 UTC]** Motociclista morre e duas pessoas ficam feridas em acidente grave no centro de Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/motociclista-morre-e-duas-pessoas-ficam-feridas-em-acidente-grave-no-centro-de-belem.ghtml)_
 
+- **[2026-09-05 15:27 UTC]** Robério Paulino faz caminhada no Alecrim e defende revitalização do Centro Histórico e moradias populares
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/05/roberio-paulino-faz-caminhada-no-alecrim-e-defende-revitalizacao-do-centro-historico-e-moradias-populares.ghtml)_
+
