@@ -65,3 +65,6 @@
 - **[2026-09-04 15:08 UTC]** VÍDEO: van carregada de cigarros contrabandeados perde o controle e roda na pista durante perseguição na BR-163, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/04/video-van-carregada-de-cigarros-contrabandeados.ghtml)_
 
+- **[2026-09-05 18:34 UTC]** Companhias aéreas restringem pousos e decolagens com pista molhada em aeroporto do Paraná após avião da Latam sair da pista
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/05/companhias-aereas-restringem-pousos-e-decolagens.ghtml)_
+
