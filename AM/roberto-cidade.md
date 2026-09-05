@@ -140,3 +140,6 @@
 - **[2026-09-04 19:19 UTC]** Cidade do AC recebe mais de R$ 1,7 milhão do governo federal para ações de proteção
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/cidade-do-ac-recebe-mais-de-r-17-milhao-do-governo-federal-para-acoes-de-protecao.ghtml)_
 
+- **[2026-09-05 00:25 UTC]** Eleições 2026: Roberto Cidade faz carreata em Tabatinga e promete expandir Polo Industrial de Manaus para a rodovia AM-010
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-roberto-cidade-faz-carreata-em-tabatinga-e-promete-expandir-polo-industrial-de-manaus-para-a-rodovia-am-010.ghtml)_
+
