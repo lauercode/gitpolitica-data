@@ -14,3 +14,6 @@
 - **[2017-04-06 22:22 UTC]** STJ arquiva 3 processos contra Marconi após escutas de Demóstenes serem anuladas
   _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/stj-arquiva-3-processos-contra-marconi-apos-escutas-de-demostenes-serem-anuladas.ghtml)_
 
+- **[2026-09-05 00:13 UTC]** Marconi Perillo fala em retomar programas de crédito e reforçar assistência técnica a produtores rurais
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-4.ghtml)_
+
