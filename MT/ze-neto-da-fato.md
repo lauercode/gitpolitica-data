@@ -32,3 +32,6 @@
 - **[2026-09-03 15:20 UTC]** Veja o que é #FATO e o que é #FAKE no debate de candidatos ao Senado por Pernambuco no g1
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/03/veja-o-que-e-fato-e-o-que-e-fake-no-debate-de-candidatos-ao-senado-por-pernambuco-no-g1.ghtml)_
 
+- **[2026-09-05 16:54 UTC]** 'Fato mais triste que já vi': denúncia revela descarte de mais de 18 quilos de carne em rio de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/05/denuncia-revela-descarte-18-quilos-de-carne-rio-de-sc.ghtml)_
+
