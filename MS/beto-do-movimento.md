@@ -32,3 +32,6 @@
 - **[2026-09-04 08:28 UTC]** Movimento Alcoólicos Anônimos no Rio comemora 79 anos
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/alcoolicos-anonimos-no-rio-comemora-79-anos)_
 
+- **[2026-09-05 13:12 UTC]** Movimento contra violência sexual lança site para facilitar denúncias
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/movimento-contra-violencia-sexual-lanca-site-para-facilitar-denuncias)_
+
