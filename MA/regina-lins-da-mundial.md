@@ -59,3 +59,6 @@
 - **[2026-09-04 11:20 UTC]** China será concorrente do Brasil no mercado mundial de frango, diz Rabobank
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/china-sera-concorrente-do-brasil-no-mercado-mundial-de-frango-diz-rabobank.shtml)_
 
+- **[2026-09-04 19:32 UTC]** WSL exclui etapa de Abu Dhabi do circuito mundial de surfe deste ano
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/wsl-exclui-etapa-de-abu-dhabi-do-circuito-mundial-de-surfe-deste-ano)_
+
