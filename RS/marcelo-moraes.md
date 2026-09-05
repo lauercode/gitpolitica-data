@@ -914,3 +914,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 22:11 UTC]** Marco Aurélio critica Moraes por tentar incluir Mendonça no “inquérito do fim do mundo”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-critica-moraes-por-tentar-incluir-mendonca-no-inquerito-do-fim-do-mundo/)_
 
+- **[2026-09-04 23:47 UTC]** PGR diz a Fachin que vai apurar possível interferência em relatório da PF pedido por Mendonça que apontou relação entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/pgr-informa-fachin-que-vai-apurar-conduta-da-pf-na-producao-do-relatorio-que-apontou-uma-relacao-entre-moraes-e-vorcaro.ghtml)_
+
