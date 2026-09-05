@@ -317,3 +317,6 @@
 - **[2026-09-04 22:03 UTC]** Combate a incêndio que destruiu mercado no Acre acaba após 10h e famílias são retiradas da região
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/combate-a-incendio-que-destruiu-mercado-em-rio-branco-acaba-apos-9h-e-familias-sao-retiradas-da-regiao.ghtml)_
 
+- **[2026-09-05 00:56 UTC]** Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta sexta-feira (4)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/04/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-sexta-feira-4.ghtml)_
+
