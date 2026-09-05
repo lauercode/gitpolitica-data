@@ -59,3 +59,6 @@
 - **[2026-09-05 09:00 UTC]** Pais que expulsaram adolescente após revelar orientação sexual precisam apagar posts discriminatórios, além de pagar indenização
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/05/pais-expulsaram-adolescente-orientacao-sexual-apagar-posts-discriminatorios.ghtml)_
 
+- **[2026-09-05 16:10 UTC]** Justiça condena pais a indenizar filho expulso por orientação sexual
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-condena-pais-indenizar-filho-expulso-por-orientacao-sexual)_
+
