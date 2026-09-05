@@ -272,3 +272,6 @@
 - **[2026-09-05 15:56 UTC]** Famosos apoiam ator de "Quem Ama Cuida" após denunciar ataque no Rock in Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/famosos-apoiam-ator-de-quem-ama-cuida-apos-denunciar-ataque-no-rock-in-rio.shtml)_
 
+- **[2026-09-05 17:16 UTC]** Ator de 'Quem Ama Cuida' cobra segurança no Rock in Rio e aponta homofobia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ator-de-quem-ama-cuida-cobra-seguranca-no-rock-in-rio-e-aponta-homofobia.shtml)_
+
