@@ -17,3 +17,6 @@
 - **[2026-09-02 20:09 UTC]** Juíza nos EUA suspende novo decreto de Trump que restringe cidadania
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiza-nos-eua-suspende-novo-decreto-de-trump-que-restringe-cidadania.shtml)_
 
+- **[2026-09-04 19:40 UTC]** Tucano faz evento com Prado e Derrite, ignora Soninha e gera crise na federação com Cidadania
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tucano-faz-evento-com-prado-e-derrite-ignora-soninha-e-gera-crise-na-federacao-com-cidadania.shtml)_
+
