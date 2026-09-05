@@ -17,3 +17,6 @@
 - **[2026-09-04 20:42 UTC]** Esposa de ex-secretário morreu em acidente na TO-070 enquanto viajava com a família para Goiânia, diz amiga
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/esposa-de-ex-secretario-que-morreu-em-acidente-viajava-com-a-familia-para-goiania-diz-amiga.ghtml)_
 
+- **[2026-09-04 23:42 UTC]** ‘Como uma despedida’, diz amiga sobre visita de esposa de ex-secretário morta em acidente na TO-070
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/como-uma-despedida-diz-amiga-sobre-visita-de-esposa-de-ex-secretario-morta-em-acidente-na-to-070.ghtml)_
+
