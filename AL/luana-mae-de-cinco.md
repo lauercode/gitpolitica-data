@@ -140,3 +140,6 @@
 - **[2026-09-05 08:00 UTC]** No Dia da Amazônia, conheça cinco dos grandes predadores da maior floresta tropical do mundo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/no-dia-da-amazonia-conheca-cinco-dos-grandes-predadores-da-maior-floresta-tropical-do-mundo.ghtml)_
 
+- **[2026-09-05 09:00 UTC]** Paraíba tem cinco trechos de praia impróprios para banho no feriadão de  7 de Setembro; saiba quais
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/paraiba-tem-cinco-trechos-de-praia-improprios-para-banho-no-feriadao-de-7-de-setembro-saiba-quais.ghtml)_
+
