@@ -11,3 +11,6 @@
 - **[2026-08-27 22:18 UTC]** Quaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/27/quaest-go-27-de-agosto.ghtml)_
 
+- **[2026-09-05 00:13 UTC]** Marconi Perillo fala em retomar programas de crédito e reforçar assistência técnica a produtores rurais
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-4.ghtml)_
+
