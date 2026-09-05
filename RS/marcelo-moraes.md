@@ -899,3 +899,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 20:20 UTC]** 7 de Setembro: atos da direita ganham força com caso Master e reação de Moraes contra Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/7-de-setembro-atos-da-direita-ganham-forca-com-caso-master-e-reacao-de-moraes-contra-mendonca/)_
 
+- **[2026-09-04 23:47 UTC]** PGR informa Fachin que vai apurar conduta da PF na produção do relatório que apontou uma relação entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/pgr-informa-fachin-que-vai-apurar-conduta-da-pf-na-producao-do-relatorio-que-apontou-uma-relacao-entre-moraes-e-vorcaro.ghtml)_
+
