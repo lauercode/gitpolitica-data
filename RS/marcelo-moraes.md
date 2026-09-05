@@ -959,3 +959,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 15:50 UTC]** Alexandre de Moraes acumula mais de 70% de menções negativas nas redes sociais
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-acumula-mais-de-70-de-mencoes-negativas-nas-redes-sociais/)_
 
+- **[2026-09-05 16:43 UTC]** João Amoêdo vê Cury crescendo mais, critica silêncio do Supremo no caso Moraes e ainda não define voto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpzy7lggo?at_medium=RSS&at_campaign=rss)_
+
