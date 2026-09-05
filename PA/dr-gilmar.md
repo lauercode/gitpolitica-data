@@ -38,3 +38,6 @@
 - **[2026-09-04 19:08 UTC]** Em gesto ao STF, coordenador da campanha de Flávio se reúne com Gilmar Mendes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/04/em-gesto-ao-stf-coordenador-da-campanha-de-flavio-se-reune-com-gilmar-mendes.ghtml)_
 
+- **[2026-09-05 20:12 UTC]** Gilmar Mendes protocola proposta para proibir policiais e militares como funcionários de gabinetes de ministros do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/05/gilmar-propoe-a-fachin-proibir-delegados-da-pf-como-funcionarios-de-gabinetes-de-ministros-do-stf.ghtml)_
+
