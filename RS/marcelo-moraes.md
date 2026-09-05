@@ -911,3 +911,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 00:00 UTC]** Por que Moraes, Toffoli e Gonet deveriam se afastar do caso Moraes-Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/por-que-moraes-toffoli-gonet-afastar-caso-moraes-vorcaro/)_
 
+- **[2026-09-04 22:11 UTC]** Marco Aurélio critica Moraes por tentar incluir Mendonça no “inquérito do fim do mundo”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-critica-moraes-por-tentar-incluir-mendonca-no-inquerito-do-fim-do-mundo/)_
+
