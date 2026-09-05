@@ -116,3 +116,6 @@
 - **[2026-09-05 14:09 UTC]** Velório de motociclista atropelado por jipe acontece neste sábado(5) em Porto Velho
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/05/velorio-de-motociclista-atropelado-por-jipe-acontece-neste-sabado5-em-porto-velho.ghtml)_
 
+- **[2026-09-05 12:56 UTC]** Motociclista morre após acidente envolvendo caminhonete em Nossa Senhora da Glória
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/acidente-envolvendo-caminhonete-em-nossa-senhora-da-gloria.ghtml)_
+
