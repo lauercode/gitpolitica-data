@@ -977,3 +977,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 15:20 UTC]** Caiado diz que é 'insustentável' a permanência e que Moraes deveria 'se autoafastar' do STF
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/ronaldo-caiado-candidato-presidencia-republica-visita-rs-expointer.ghtml)_
 
+- **[2026-09-05 22:01 UTC]** Novo Nero? Moraes põe fogo e tenta arrastar todos às chamas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-nero-moraes-poe-fogo-e-tenta-arrastar-todos-as-chamas/)_
+
