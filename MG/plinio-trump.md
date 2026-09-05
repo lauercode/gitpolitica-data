@@ -182,3 +182,6 @@
 - **[2026-09-05 17:32 UTC]** 'EUA em primeiro lugar': como Trump troca diplomacia por aliados políticos e tensiona a relação com o Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cd9w5yk7wxdo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-05 20:00 UTC]** Rock in Rio: 'Dane-se o Trump', diz influenciadora após visto americano sair com gênero masculino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-dane-se-o-trump-diz-influenciadora-apos-visto-americano-sair-com-genero-masculino.shtml)_
+
