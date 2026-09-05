@@ -14,3 +14,6 @@
 - **[2026-09-02 13:09 UTC]** Belém Animal: ação itinerante atende cães e gatos de graça no Jurunas
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/belem-animal-acao-itinerante-atende-caes-e-gatos-de-graca-no-jurunas.ghtml)_
 
+- **[2026-09-05 13:44 UTC]** DIU no SUS: veja como colocar o dispositivo de graça em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/05/diu-no-sus-veja-como-colocar-o-dispositivo-de-graca-em-maceio.ghtml)_
+
