@@ -11,3 +11,6 @@
 - **[2026-09-02 13:37 UTC]** Marco Aurélio Mello reage a revelações sobre Moraes e Vorcaro: “impensável”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-mello-reage-a-revelacoes-sobre-moraes-e-vorcaro-impensavel/)_
 
+- **[2026-09-04 22:11 UTC]** Marco Aurélio critica Moraes por tentar incluir Mendonça no “inquérito do fim do mundo”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-critica-moraes-por-tentar-incluir-mendonca-no-inquerito-do-fim-do-mundo/)_
+
