@@ -26,3 +26,6 @@
 - **[2026-09-03 15:30 UTC]** Cantora de death metal e miss com alopecia estão no elenco do Miss Mundo 2026 ; veja fotos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/cantora-de-death-metal-e-miss-com-alopecia-estao-no-elenco-do-miss-mundo-2026-veja-fotos.shtml)_
 
+- **[2026-09-05 16:27 UTC]** Miss Mundo 2026: República Dominicana vence pela 2ª vez; Brasil é Top 12
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/miss-mundo-2026-republica-dominicana-vence-pela-2a-vez-brasil-e-top-12.shtml)_
+
