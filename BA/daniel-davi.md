@@ -29,3 +29,6 @@
 - **[2026-09-02 19:39 UTC]** Davi Davino defende tarifa zero e reforma administrativa
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/02/davi-davino-defende-tarifa-zero-e-reforma-administrativa.ghtml)_
 
+- **[2026-09-05 20:00 UTC]** Lagosta, camarão e decoração de R$ 240 mil: veja fotos do casamento de Davi Brito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/lagosta-camarao-e-decoracao-de-r-240-mil-veja-fotos-do-casamento-de-davi-brito.shtml)_
+
