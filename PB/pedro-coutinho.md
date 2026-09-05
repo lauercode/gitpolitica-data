@@ -8,3 +8,6 @@
 - **[2026-08-29 20:18 UTC]** Pedro Coutinho defende parceria com prefeitura para a revitalização do Centro Histórico de João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/29/pedro-coutinho-defende-parceria-com-prefeitura-para-a-revitalizacao-do-centro-historico-de-joao-pessoa.ghtml)_
 
+- **[2026-09-05 20:14 UTC]** Pedro Coutinho promete deixar Paraíba livre de facções e defende polo industrial em Lucena
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/05/pedro-coutinho-promete-deixar-paraiba-livre-de-faccoes-e-defende-polo-industrial-em-lucena.ghtml)_
+
