@@ -11,3 +11,6 @@
 - **[2026-08-30 17:00 UTC]** Roda Viva com Fernando Haddad e novela turca: o que ver na TV e no streaming
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/roda-viva-com-fernando-haddad-e-novela-turca-o-que-ver-na-tv-e-no-streaming.shtml)_
 
+- **[2026-09-05 13:51 UTC]** Lula critica Tarcísio em SP, e Haddad associa governador a 'máfia do Master'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-critica-tarcisio-em-sp-e-haddad-associa-governador-a-mafia-do-master.shtml)_
+
