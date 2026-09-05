@@ -965,3 +965,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 15:20 UTC]** Ronaldo Caiado defende fim do sigilo nos inquéritos do STF em meio à crise entre Moraes e Mendonça
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/ronaldo-caiado-candidato-presidencia-republica-visita-rs-expointer.ghtml)_
 
+- **[2026-09-05 17:47 UTC]** “Se arrependimento matasse” diz ex-ministro Marco Aurélio sobre apoio a Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/se-arrependimento-matasse-diz-ex-ministro-marco-aurelio-sobre-apoio-a-moraes-no-stf/)_
+
