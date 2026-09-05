@@ -11,3 +11,6 @@
 - **[2018-07-15 12:22 UTC]** O estigma enfrentado nas periferias pelas pessoas com depressão: 'Pobre não pode se dar ao luxo de não sair da cama'
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/bemestar/noticia/o-estigma-enfrentado-nas-periferias-pelas-pessoas-com-depressao-pobre-nao-pode-se-dar-ao-luxo-de-nao-sair-da-cama.ghtml)_
 
+- **[2026-09-05 01:28 UTC]** Rock in Rio 2026: Isabeli Fontana revela medo de ficar pobre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-isabeli-fontana-revela-medo-de-ficar-pobre.shtml)_
+
