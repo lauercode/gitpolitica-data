@@ -146,3 +146,6 @@
 - **[2026-09-05 05:00 UTC]** Alcoolismo e violência afastam mulheres, diz indígena que fugiu de território no Equador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/09/alcoolismo-e-violencia-afastam-mulheres-diz-indigena-que-fugiu-de-territorio-no-equador.shtml)_
 
+- **[2026-09-05 07:00 UTC]** Mulheres pobres adoram Lula, mas só Michelle fala de igual para igual, diz Renato Meirelles
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/09/mulheres-pobres-adoram-lula-mas-so-michelle-fala-de-igual-para-igual-diz-renato-meirelles.shtml)_
+
