@@ -962,3 +962,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 16:43 UTC]** João Amoêdo vê Cury crescendo mais, critica silêncio do Supremo no caso Moraes e ainda não define voto
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpzy7lggo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-05 15:20 UTC]** Ronaldo Caiado defende fim do sigilo nos inquéritos do STF em meio à crise entre Moraes e Mendonça
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/ronaldo-caiado-candidato-presidencia-republica-visita-rs-expointer.ghtml)_
+
