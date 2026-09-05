@@ -278,3 +278,6 @@
 - **[2026-09-05 16:37 UTC]** Dois homens são presos suspeitos de dupla tentativa de homicídio em Itaporanga, na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/dois-homens-sao-presos-suspeitos-de-dupla-tentativa-de-homicidio-em-itaporanga-na-pb.ghtml)_
 
+- **[2026-09-05 14:58 UTC]** Neymar ficará dois meses sem jogar após lesão na coxa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/neymar-ficara-dois-meses-sem-jogar-apos-lesao-na-coxa.shtml)_
+
