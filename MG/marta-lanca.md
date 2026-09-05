@@ -44,3 +44,6 @@
 - **[2026-09-03 13:00 UTC]** Festival inspirado em carta de Chico Mendes aos jovens lança programação no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/festival-inspirado-em-carta-de-chico-mendes-aos-jovens-lanca-programacao-no-acre.ghtml)_
 
+- **[2026-09-05 13:12 UTC]** Movimento contra violência sexual lança site para facilitar denúncias
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/movimento-contra-violencia-sexual-lanca-site-para-facilitar-denuncias)_
+
