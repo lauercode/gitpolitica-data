@@ -113,3 +113,6 @@
 - **[2026-09-04 16:32 UTC]** Família de motociclista morto após acidente na BR-364 chega ao Acre para funeral: 'Estamos desolados'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/familia-de-motociclista-morto-apos-acidente-na-br-364-chega-ao-ac-para-funeral-estamos-desolados.ghtml)_
 
+- **[2026-09-05 14:09 UTC]** Velório de motociclista atropelado por jipe acontece neste sábado(5) em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/05/velorio-de-motociclista-atropelado-por-jipe-acontece-neste-sabado5-em-porto-velho.ghtml)_
+
