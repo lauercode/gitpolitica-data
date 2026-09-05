@@ -269,3 +269,6 @@
 - **[2026-09-04 20:21 UTC]** Batida entre dois caminhões deixa motorista morto e mulher e crianças feridas na BR-282 em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/batida-caminhoes-motorista-morto-mulher-criancas-feridas-ponte-serrada.ghtml)_
 
+- **[2026-09-05 04:01 UTC]** Ataque guerrilheiro com drones deixa dois soldados mortos na Colômbia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ataque-guerrilheiro-com-drones-deixa-dois-soldados-mortos-na-colombia.shtml)_
+
