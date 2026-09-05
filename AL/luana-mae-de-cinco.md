@@ -143,3 +143,6 @@
 - **[2026-09-05 09:00 UTC]** Paraíba tem cinco trechos de praia impróprios para banho no feriadão de  7 de Setembro; saiba quais
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/paraiba-tem-cinco-trechos-de-praia-improprios-para-banho-no-feriadao-de-7-de-setembro-saiba-quais.ghtml)_
 
+- **[2026-09-05 10:02 UTC]** Eleições 2026: candidaturas de autistas aumentam mais de cinco vezes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleicoes-2026-candidaturas-de-autistas-aumentam-mais-de-cinco-vezes)_
+
