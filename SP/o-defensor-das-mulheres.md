@@ -152,3 +152,6 @@
 - **[2026-09-05 09:00 UTC]** Dia do açaí: como mulheres negras e mestiças do século XIX construíram a história da fruta em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/05/dia-do-acai-como-mulheres-negras-e-mesticas-do-seculo-xix-construiram-a-historia-da-fruta-em-belem.ghtml)_
 
+- **[2026-09-05 10:21 UTC]** Mulheres indígenas reivindicam protagonismo como guardiãs da Amazônia
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/mulheres-indigenas-reivindicam-protagonismo-como-guardias-da-amazonia)_
+
