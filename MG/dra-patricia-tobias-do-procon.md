@@ -11,3 +11,6 @@
 - **[2026-09-01 18:20 UTC]** MP-Procon autua seis postos de combustíveis por irregularidades no Brejo da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/mp-procon-autua-seis-postos-de-combustiveis-por-irregularidades-no-brejo-da-paraiba.ghtml)_
 
+- **[2026-09-05 19:36 UTC]** Procon pesquisa preços em churrascarias de Aracaju: prato para dois vai de R$ 75 a R$ 120
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/procon-pesquisa-precos-em-churrascarias-de-aracaju.ghtml)_
+
