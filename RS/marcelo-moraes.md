@@ -917,3 +917,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 23:47 UTC]** PGR diz a Fachin que vai apurar possível interferência em relatório da PF pedido por Mendonça que apontou relação entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/pgr-informa-fachin-que-vai-apurar-conduta-da-pf-na-producao-do-relatorio-que-apontou-uma-relacao-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-04 23:17 UTC]** PGR investigará relatório da PF que revelou mensagens de Vorcaro a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pgr-investigara-relatorio-da-pf-que-revelou-mensagens-de-vorcaro-a-moraes.shtml)_
+
