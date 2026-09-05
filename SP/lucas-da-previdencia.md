@@ -29,3 +29,6 @@
 - **[2026-09-04 10:37 UTC]** Durigan diz que reforma da Previdência não está em discussão agora, mas admite debate futuro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/durigan-diz-que-reforma-da-previdencia-nao-esta-em-discussao-agora-mas-admite-debate-futuro.shtml)_
 
+- **[2026-09-04 22:00 UTC]** O Brasil tem urgência em fazer uma nova reforma da Previdência? NÃO
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-brasil-tem-urgencia-em-fazer-uma-nova-reforma-da-previdencia-nao.shtml)_
+
