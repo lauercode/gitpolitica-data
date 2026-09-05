@@ -83,3 +83,6 @@
 - **[2026-09-03 19:40 UTC]** Osmar Terra denuncia lobby da maconha e cobra apuração sobre Lulinha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/osmar-terra-denuncia-lobby-da-maconha-e-cobra-apuracao-sobre-lulinha/)_
 
+- **[2026-09-05 07:00 UTC]** Brasil testa 'laboratório espacial' que vai a 100 km de altitude e volta à Terra de paraquedas
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/brasil-testa-laboratorio-espacial-que-vai-a-100-km-de-altitude-e-volta-a-terra-de-paraquedas.ghtml)_
+
