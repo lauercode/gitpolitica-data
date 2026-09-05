@@ -14,3 +14,6 @@
 - **[2026-09-04 22:11 UTC]** Marco Aurélio critica Moraes por tentar incluir Mendonça no “inquérito do fim do mundo”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-critica-moraes-por-tentar-incluir-mendonca-no-inquerito-do-fim-do-mundo/)_
 
+- **[2026-09-05 02:12 UTC]** Marco Aurélio Mello condena tentativa de Moraes de investigar Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-mello-condena-tentativa-de-moraes-de-investigar-mendonca-no-stf/)_
+
