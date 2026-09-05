@@ -275,3 +275,6 @@
 - **[2026-09-05 12:15 UTC]** Acidente entre carros deixa dois motoristas mortos, no Cariri da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/acidente-entre-carros-deixa-dois-motoristas-mortos-no-cariri-da-pb.ghtml)_
 
+- **[2026-09-05 16:37 UTC]** Dois homens são presos suspeitos de dupla tentativa de homicídio em Itaporanga, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/dois-homens-sao-presos-suspeitos-de-dupla-tentativa-de-homicidio-em-itaporanga-na-pb.ghtml)_
+
