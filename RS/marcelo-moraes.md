@@ -935,3 +935,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 01:04 UTC]** PGR manda investigar se houve interferência em relatório da PF sobre Moraes e Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-manda-investigar-se-houve-interferencia-em-relatorio-da-pf-sobre-moraes-e-vorcaro/)_
 
+- **[2026-09-05 00:32 UTC]** Caso Master: o que pode acontecer com Moraes após supostas mensagens que revelam sua ligação com Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz0z10j4rd7o?at_medium=RSS&at_campaign=rss)_
+
