@@ -206,3 +206,6 @@
 - **[2026-09-04 18:50 UTC]** Ministério Público Eleitoral abre apuração sobre eventual abuso de poder de Renan Santos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/04/ministerio-publico-eleitoral-abre-apuracao-sobre-eventual-abuso-de-poder-de-renan-santos.ghtml)_
 
+- **[2026-09-05 12:30 UTC]** Renan Santos diz que Previdência quebrará em três anos; o que mostram os números
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/reforma-previdencia-alerta-quebra/)_
+
