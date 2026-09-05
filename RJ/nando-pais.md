@@ -56,3 +56,6 @@
 - **[2026-09-05 03:00 UTC]** 'Impossível não se colocar no lugar do outro com tanto sofrimento', diz socorrista filmada acalmando pais que perderam filha no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/05/impossivel-nao-se-colocar-no-lugar-do-outro-com-tanto-sofrimento-diz-socorrista-filmada-acalmando-pais-que-perderam-filha-no-parana.ghtml)_
 
+- **[2026-09-05 09:00 UTC]** Pais que expulsaram adolescente após revelar orientação sexual precisam apagar posts discriminatórios, além de pagar indenização
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/05/pais-expulsaram-adolescente-orientacao-sexual-apagar-posts-discriminatorios.ghtml)_
+
