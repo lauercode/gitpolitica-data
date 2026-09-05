@@ -14,3 +14,6 @@
 - **[2026-09-04 02:20 UTC]** Militância e afoxé: banda Afro Axé Dudu, cria do movimento negro, faz show gratuito na orla de Mosqueiro
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/militancia-e-afoxe-banda-afro-axe-dudu-cria-do-movimento-negro-faz-show-gratuito-na-orla-de-mosqueiro.ghtml)_
 
+- **[2026-09-05 20:06 UTC]** Belém reforça frota de ônibus para Mosqueiro durante feriado de 7 de setembro
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/05/belem-reforca-frota-de-onibus-para-mosqueiro-no-feriado-desta-segunda-feira-7.ghtml)_
+
