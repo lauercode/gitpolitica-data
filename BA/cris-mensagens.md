@@ -245,3 +245,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 23:17 UTC]** PGR investigará relatório da PF que revelou mensagens de Vorcaro a Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pgr-investigara-relatorio-da-pf-que-revelou-mensagens-de-vorcaro-a-moraes.shtml)_
 
+- **[2026-09-05 00:32 UTC]** Caso Master: o que pode acontecer com Moraes após supostas mensagens que revelam sua ligação com Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz0z10j4rd7o?at_medium=RSS&at_campaign=rss)_
+
