@@ -875,3 +875,6 @@
 - **[2026-09-05 03:00 UTC]** Quaest: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/05/quaest-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml)_
 
+- **[2026-09-05 03:00 UTC]** Datafolha: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/05/datafolha-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml)_
+
