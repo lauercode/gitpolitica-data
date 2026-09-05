@@ -50,3 +50,6 @@
 - **[2026-09-04 19:58 UTC]** Caso Maria Ramona: o que se sabe sobre assassinato de jovem em apartamento no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/caso-maria-ramona-o-que-se-sabe-sobre-assassinato-de-jovem-em-apartamento-no-acre.ghtml)_
 
+- **[2026-09-05 12:00 UTC]** O que se sabe sobre explosão na Bolívia que deixou ao menos 2 mortos e 81 feridos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss)_
+
