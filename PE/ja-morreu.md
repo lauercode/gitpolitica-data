@@ -140,3 +140,6 @@
 - **[2026-09-04 20:42 UTC]** Esposa de ex-secretário morreu em acidente na TO-070 enquanto viajava com a família para Goiânia, diz amiga
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/esposa-de-ex-secretario-que-morreu-em-acidente-viajava-com-a-familia-para-goiania-diz-amiga.ghtml)_
 
+- **[2026-09-05 18:00 UTC]** Por que meu pai divorciado continua procurando os parentes da minha mãe, que já morreu?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/por-que-meu-pai-divorciado-continua-procurando-os-parentes-da-minha-mae-que-ja-morreu.shtml)_
+
