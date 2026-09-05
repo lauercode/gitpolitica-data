@@ -68,3 +68,6 @@
 - **[2026-09-04 12:09 UTC]** PF combate fraudes em registros de CACs no RJ e Espírito Santo
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/pf-combate-fraudes-em-registros-de-cacs-no-rio-e-espirito-santo)_
 
+- **[2026-09-04 22:03 UTC]** Combate a incêndio que destruiu mercado no Acre acaba após 10h e famílias são retiradas da região
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/combate-a-incendio-que-destruiu-mercado-em-rio-branco-acaba-apos-9h-e-familias-sao-retiradas-da-regiao.ghtml)_
+
