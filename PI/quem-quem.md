@@ -269,3 +269,6 @@
 - **[2026-09-05 13:03 UTC]** Ministério Público vai investigar ação de hostilidade contra ator de 'Quem Ama Cuida'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/ministerio-publico-vai-investigar-acao-de-hostilidade-contra-ator-de-quem-ama-cuida.shtml)_
 
+- **[2026-09-05 15:56 UTC]** Famosos apoiam ator de "Quem Ama Cuida" após denunciar ataque no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/famosos-apoiam-ator-de-quem-ama-cuida-apos-denunciar-ataque-no-rock-in-rio.shtml)_
+
