@@ -8,3 +8,6 @@
 - **[2026-08-28 22:27 UTC]** Eleições 2026 em SC: Bruno Pedreiro do PCO se reúne com apoiadores em Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-em-sc-bruno-pedreiro-do-pco-se-reune-com-apoiadores-no-centro-de-florianopolis.ghtml)_
 
+- **[2026-09-04 22:36 UTC]** Eleições 2026 em SC: Bruno Pedreiro do PCO faz panfletagem com apoiadores em Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-em-sc-bruno-pedreiro-do-pco-faz-panfletagem-com-apoiadores-em-florianopolis.ghtml)_
+
