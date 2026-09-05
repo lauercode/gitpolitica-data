@@ -47,3 +47,6 @@
 - **[2026-09-02 19:30 UTC]** Ex-dono da Reag reuniu filhos para contar sobre delação e disse que tentaria preservá-los
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/ex-dono-da-reag-reuniu-filhos-para-contar-sobre-delacao-e-disse-que-tentaria-preserva-los.shtml)_
 
+- **[2026-09-05 15:35 UTC]** Dono de açougue é morto a tiros ao chegar para abrir estabelecimento em Davinópolis, no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/09/05/dono-de-acougue-e-morto-a-tiros-no-proprio-estabelecimento-em-davinopolis-no-ma.ghtml)_
+
