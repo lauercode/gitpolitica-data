@@ -101,3 +101,6 @@
 - **[2026-09-04 17:43 UTC]** Esposa morre, e ex-secretário de Saúde do Tocantins e filho ficam feridos em acidente na TO-070
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/ex-secretario-de-saude-do-tocantins-e-filho-ficam-feridos-e-esposa-morre-em-acidente-na-to-070.ghtml)_
 
+- **[2026-09-05 00:41 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta sexta-feira (4)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-sexta-feira-4.ghtml)_
+
