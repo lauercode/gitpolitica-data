@@ -26,3 +26,6 @@
 - **[2018-05-02 19:51 UTC]** Toyota abre mais de 800 vagas com criação do terceiro turno em Sorocaba e Porto Feliz
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/toyota-abre-mais-de-800-vagas-com-criacao-do-terceiro-turno-em-sorocaba-e-porto-feliz.ghtml)_
 
+- **[2026-09-04 22:23 UTC]** Avião monomotor faz pouso de barriga e fecha aeroporto de Sorocaba (SP) por duas horas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/aviao-monomotor-faz-pouso-de-barriga-e-fecha-aeroporto-de-sorocaba-sp-por-duas-horas.shtml)_
+
