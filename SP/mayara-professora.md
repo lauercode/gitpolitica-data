@@ -62,3 +62,6 @@
 - **[2026-09-04 22:10 UTC]** Professora que viralizou ao cuidar de criança durante aula diz que mãe teve que trancar curso: ‘Por um momento’
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/professora-que-viralizou-ao-cuidar-de-crianca-durante-aula-diz-que-mae-teve-que-trancar-curso-por-um-momento.ghtml)_
 
+- **[2026-09-04 21:57 UTC]** Laudo liga morte de professora a falha no diagnóstico em hospital do Rio de Janeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/laudo-liga-morte-de-professora-a-falha-no-diagnostico-em-hospital-do-rio.shtml)_
+
