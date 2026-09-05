@@ -65,3 +65,6 @@
 - **[2026-09-04 18:23 UTC]** Trump assina decretos para facilitar proteção de rebanhos e processamento de carne por pecuaristas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-assina-decretos-para-facilitar-protecao-de-rebanhos-e-processamento-de-carne-por-pecuaristas.shtml)_
 
+- **[2026-09-04 23:11 UTC]** Amazonas tem pior nota entre estados da Amazônia Legal na proteção a defensores ambientais, revela estudo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/04/amazonas-tem-pior-nota-entre-estados-da-amazonia-legal-na-protecao-a-defensores-ambientais-revela-estudo.ghtml)_
+
