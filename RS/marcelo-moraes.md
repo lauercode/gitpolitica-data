@@ -974,3 +974,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 17:30 UTC]** Flávio Bolsonaro chama Moraes de 'laranja podre do STF' em visita a condenado por trama golpista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-chama-moraes-de-laranja-podre-do-stf-em-visita-a-condenado-por-trama-golpista.shtml)_
 
+- **[2026-09-05 15:20 UTC]** Caiado diz que é 'insustentável' a permanência e que Moraes deveria 'se autoafastar' do STF
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/ronaldo-caiado-candidato-presidencia-republica-visita-rs-expointer.ghtml)_
+
