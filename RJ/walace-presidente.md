@@ -356,3 +356,6 @@
 - **[2026-09-04 23:43 UTC]** TSE autoriza pronunciamento de Lula sobre 7 de setembro; presidente dirá que Brasil 'não é colônia' e defenderá soberania
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/tse-autoriza-pronunciamento-de-lula-sobre-7-de-setembro-presidente-dira-que-brasil-nao-e-colonia-e-defendera-soberania.ghtml)_
 
+- **[2026-09-04 20:55 UTC]** Confira como foi a sexta-feira (4) dos candidatos a presidente
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-sexta-feira-4-dos-candidatos-presidente)_
+
