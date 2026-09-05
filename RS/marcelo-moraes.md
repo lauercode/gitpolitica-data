@@ -902,3 +902,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-04 23:47 UTC]** PGR informa Fachin que vai apurar conduta da PF na produção do relatório que apontou uma relação entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/pgr-informa-fachin-que-vai-apurar-conduta-da-pf-na-producao-do-relatorio-que-apontou-uma-relacao-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-04 23:16 UTC]** Relatório usado por Moraes recomenda 'monitoramento e coleta dirigida' sobre Mendonça e Messias
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/04/relatorio-usado-por-moraes-recomenda-monitoramento-e-coleta-dirigida-sobre-mendonca-e-messias.ghtml)_
+
