@@ -149,3 +149,6 @@
 - **[2026-09-05 14:25 UTC]** Idosa é morta por touro de rodeio após animal fugir durante festa de aniversário de cidade do Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/05/idosa-morta-touro-barbosa-ferraz-parana.ghtml)_
 
+- **[2026-09-05 20:30 UTC]** Primeira princesa de cidade de SC morre atropelada por carro desgovernado em saída de festa
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/05/primeira-princesa-de-cidade-de-sc-morre-atropelada.ghtml)_
+
