@@ -155,3 +155,6 @@
 - **[2026-09-05 10:21 UTC]** Mulheres indígenas reivindicam protagonismo como guardiãs da Amazônia
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/mulheres-indigenas-reivindicam-protagonismo-como-guardias-da-amazonia)_
 
+- **[2026-09-05 17:21 UTC]** Homens da machosfera estão deixando de tomar banho para tentar atrair mulheres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/homens-da-machosfera-estao-deixando-de-tomar-banho-para-tentar-atrair-mulheres.shtml)_
+
