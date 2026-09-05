@@ -146,3 +146,6 @@
 - **[2026-09-05 15:05 UTC]** Feriado prolongado será de chuva em parte do país
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/feriado-prolongado-sera-de-chuva-em-parte-do-pais)_
 
+- **[2026-09-05 19:04 UTC]** Servidor que passava expediente sentado em barracão sem fazer nada será indenizado em R$ 10 mil em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/05/servidor-passava-expediente-sentado-em-barracao-sem-fazer-nada-sera-indenizado.ghtml)_
+
