@@ -53,3 +53,6 @@
 - **[2026-08-31 23:57 UTC]** Câmara aprova prazo maior para empresa deduzir doações a entidades de combate ao câncer
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301494-camara-aprova-prazo-maior-para-empresa-deduzir-doacoes-a-entidades-de-combate-ao-cancer)_
 
+- **[2026-09-05 15:30 UTC]** Aprovação de medicamento nos EUA marca novo passo contra câncer de pâncreas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/aprovacao-de-medicamento-nos-eua-marca-novo-passo-contra-cancer-de-pancreas.shtml)_
+
