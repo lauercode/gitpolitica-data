@@ -266,3 +266,6 @@
 - **[2026-09-05 12:46 UTC]** Quem era a jovem assassinada pelo ex-companheiro em Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/quem-era-a-jovem-assassinada-pelo-ex-companheiro-em-palmas.ghtml)_
 
+- **[2026-09-05 13:03 UTC]** Ministério Público vai investigar ação de hostilidade contra ator de 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/ministerio-publico-vai-investigar-acao-de-hostilidade-contra-ator-de-quem-ama-cuida.shtml)_
+
