@@ -53,3 +53,6 @@
 - **[2026-09-04 18:16 UTC]** Dia da Amazônia destaca desafio de levar saneamento para áreas de igarapés em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/aguas-de-manaus/aguas-de-manaus/noticia/2026/09/04/dia-da-amazonia-destaca-desafio-de-levar-saneamento-para-areas-de-igarapes-em-manaus.ghtml)_
 
+- **[2026-09-05 11:00 UTC]** Com vegetação fragilizada devido a estiagem, áreas verdes podem sofrer durante campanhas em Rio Branco: 'Período crítico'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/05/com-vegetacao-fragilizada-devido-a-estiagem-areas-verdes-podem-sofrer-durante-campanhas-em-rio-branco-periodo-critico.ghtml)_
+
