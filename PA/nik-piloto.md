@@ -41,3 +41,6 @@
 - **[2026-09-02 06:00 UTC]** Piloto que caiu com asa-delta segue internado 10 dias após o acidente
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/piloto-que-caiu-com-asa-delta-segue-internado-10-dias-apos-o-acidente.ghtml)_
 
+- **[2026-09-05 16:52 UTC]** Anvisa aprova importação de remédio experimental para piloto Lito
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-importacao-de-remedio-experimental-para-piloto-lito)_
+
