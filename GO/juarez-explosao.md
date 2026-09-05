@@ -11,3 +11,6 @@
 - **[2026-08-26 20:33 UTC]** Explosão em apartamento no Paraná que matou personal trainer foi causada por vazamento de gás na cozinha, conclui polícia
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/26/explosao-em-apartamento-no-parana.ghtml)_
 
+- **[2026-09-04 21:44 UTC]** Explosão mata ao menos 2 e fere 59 em instalação militar na Bolívia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/explosao-deixa-ao-menos-58-feridos-em-instalacao-militar-na-bolivia.shtml)_
+
