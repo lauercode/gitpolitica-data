@@ -83,3 +83,6 @@
 - **[2026-09-05 21:08 UTC]** VÍDEO: Carro pega fogo e fica destruído após incêndio em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/05/video-carro-pega-fogo-e-fica-destruido-apos-incendio-em-macapa.ghtml)_
 
+- **[2026-09-05 21:20 UTC]** Carro pega fogo e duas pessoas morrem após colisão com caminhão na BR-290
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/acidente-carro-caminhao-mortos-butia.ghtml)_
+
