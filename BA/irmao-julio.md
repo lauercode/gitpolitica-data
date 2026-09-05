@@ -11,3 +11,6 @@
 - **[2026-09-04 17:00 UTC]** 1926: Júlio Prestes é indicado para ser o líder da maioria na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-julio-prestes-e-indicado-para-ser-o-lider-da-maioria-na-camara.shtml)_
 
+- **[2026-09-05 14:29 UTC]** Conselheiro de instituto ligado ao padre Júlio Lancellotti é suspeito de tentativa de latrocínio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/conselheiro-de-instituto-ligado-ao-padre-julio-lancellotti-e-suspeito-de-tentativa-de-latrocinio.shtml)_
+
