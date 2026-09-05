@@ -65,3 +65,6 @@
 - **[2026-09-04 16:25 UTC]** Mulher que foi espancada pelo marido no PR e pediu para filho filmar a violência postou vídeo nas redes sociais para pedir ajuda
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/04/mulher-que-foi-espancada-pelo-marido-no-pr-e-pediu-para-filho-filmar-a-violencia-postou-video-nas-redes-sociais-para-pedir-ajuda.ghtml)_
 
+- **[2026-09-05 15:00 UTC]** Cão farejador ajuda polícia a apreender 90 kg de pasta base de cocaína em embarcação no interior do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/cao-farejador-ajuda-policia-a-apreender-90-kg-de-pasta-base-de-cocaina-em-embarcacao-no-interior-do-amazonas.ghtml)_
+
