@@ -14,3 +14,6 @@
 - **[2026-09-04 14:48 UTC]** Menino de 4 anos morre em hospital do Paraná, e equipe médica é indiciada por homicídio por erros em avaliação de quadro de influenza
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/04/morte-crianca-joaquim-tavora-parana.ghtml)_
 
+- **[2026-09-05 06:00 UTC]** Artista do Paraná vê encomendas 'explodirem' após quadro dela viralizar nas redes e fecha agenda até 2028: 'Não estava esperando'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/05/artista-do-parana-viraliza.ghtml)_
+
