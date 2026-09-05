@@ -176,3 +176,6 @@
 - **[2026-09-05 12:19 UTC]** Saiba o que abre e fecha no feriado de 7 de setembro em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/saiba-o-que-abre-e-fecha-no-feriado-de-7-de-setembro-em-sergipe.ghtml)_
 
+- **[2026-09-05 14:15 UTC]** Rodrigo Cavalcante é eleito novo defensor público-geral de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/rodrigo-cavalcante-e-eleito-novo-defensor-publico-geral-de-sergipe.ghtml)_
+
