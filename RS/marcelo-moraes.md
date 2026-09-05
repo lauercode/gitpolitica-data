@@ -953,3 +953,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 13:32 UTC]** Flávio diz que Alcolumbre blinda Moraes e trava impeachment
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-diz-que-alcolumbre-blinda-moraes-e-trava-impeachment/)_
 
+- **[2026-09-05 13:35 UTC]** João Amoêdo vê Cury em alta, critica silêncio do Supremo no caso Moraes e ainda não define voto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpzy7lggo?at_medium=RSS&at_campaign=rss)_
+
