@@ -32,3 +32,6 @@
 - **[2026-09-04 22:00 UTC]** O Brasil tem urgência em fazer uma nova reforma da Previdência? NÃO
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-brasil-tem-urgencia-em-fazer-uma-nova-reforma-da-previdencia-nao.shtml)_
 
+- **[2026-09-04 22:00 UTC]** O Brasil tem urgência em fazer uma nova reforma da Previdência? SIM
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-brasil-tem-urgencia-em-fazer-uma-nova-reforma-da-previdencia-sim.shtml)_
+
