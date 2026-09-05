@@ -65,3 +65,6 @@
 - **[2026-09-04 17:56 UTC]** Após cassação, TRE-MA marca eleição suplementar para prefeito e vice em Nova Olinda do Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/apos-cassacao-tre-ma-marca-eleicao-suplementar-para-prefeito-e-vice-em-nova-olinda-do-maranhao.ghtml)_
 
+- **[2026-09-05 12:32 UTC]** Morre aos 59 anos Alexandre Vieira, prefeito Mormaço (RS), que estava internado
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/morre-prefeito-mormaco-rs-que-estava-internado.ghtml)_
+
