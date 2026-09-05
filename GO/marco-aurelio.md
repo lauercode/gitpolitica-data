@@ -17,3 +17,6 @@
 - **[2026-09-05 02:12 UTC]** Marco Aurélio Mello condena tentativa de Moraes de investigar Mendonça no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marco-aurelio-mello-condena-tentativa-de-moraes-de-investigar-mendonca-no-stf/)_
 
+- **[2026-09-05 17:47 UTC]** “Se arrependimento matasse” diz ex-ministro Marco Aurélio sobre apoio a Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/se-arrependimento-matasse-diz-ex-ministro-marco-aurelio-sobre-apoio-a-moraes-no-stf/)_
+
