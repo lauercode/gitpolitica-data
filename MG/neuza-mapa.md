@@ -20,3 +20,6 @@
 - **[2026-09-05 02:57 UTC]** ONU aprova novo mapa-múndi mais fiel ao tamanho real da África
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3058301rl8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-05 11:06 UTC]** Por que Brasil 'cresceu' em novo mapa  aprovado pela ONU
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvgyv1v5xjno?at_medium=RSS&at_campaign=rss)_
+
