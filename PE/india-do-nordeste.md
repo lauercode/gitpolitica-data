@@ -50,3 +50,6 @@
 - **[2026-09-05 03:00 UTC]** De olho no público jovem e no Nordeste, Augusto Cury gastou R$ 116 mil nas redes sociais em 2026
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/impulsionamento-augusto-cury-redes-sociais.ghtml)_
 
+- **[2026-09-05 13:22 UTC]** Maceió tem o metro quadrado mais caro do Nordeste; veja ranking
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/05/maceio-tem-metro-quadrado-mais-caro-nordeste-fipezap.ghtml)_
+
