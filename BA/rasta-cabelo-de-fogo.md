@@ -89,3 +89,6 @@
 - **[2026-09-05 22:01 UTC]** Novo Nero? Moraes põe fogo e tenta arrastar todos às chamas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-nero-moraes-poe-fogo-e-tenta-arrastar-todos-as-chamas/)_
 
+- **[2026-09-05 21:08 UTC]** VÍDEO: carro pega fogo e fica destruído em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/05/video-carro-pega-fogo-e-fica-destruido-apos-incendio-em-macapa.ghtml)_
+
