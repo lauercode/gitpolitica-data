@@ -1001,3 +1001,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 12:54 UTC]** Flávio visita Filipe Martins na prisão e acusa Moraes de comandar “gabinete da perseguição”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-visita-filipe-martins-na-prisao-e-acusa-moraes-de-comandar-gabinete-da-perseguicao/)_
 
+- **[2026-09-06 18:35 UTC]** Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/06/mendonca-libera-para-plenario-do-stf-caso-de-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
