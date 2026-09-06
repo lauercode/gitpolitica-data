@@ -89,3 +89,6 @@
 - **[2026-09-05 07:00 UTC]** Quem conhece a própria terra sente nos ossos a crise climática
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/09/quem-conhece-a-propria-terra-sente-nos-ossos-a-crise-climatica.shtml)_
 
+- **[2026-09-06 16:10 UTC]** Tremor de terra de magnitude 3,7 é registrado na região sul do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/tremor-de-terra-de-magnitude-37-e-registrado-na-regiao-sul-do-tocantins.ghtml)_
+
