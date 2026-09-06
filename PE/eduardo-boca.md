@@ -17,3 +17,6 @@
 - **[2026-09-02 14:43 UTC]** Sessão da 6x1 tem choro de senadores, lembrança de pai morto e bate-boca
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/sessao-da-6x1-tem-choro-de-senadores-lembranca-de-pai-morto-e-bate-boca.shtml)_
 
+- **[2026-09-05 23:45 UTC]** Como proteger as boas bactérias da sua boca
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c780ev8nvyqo?at_medium=RSS&at_campaign=rss)_
+
