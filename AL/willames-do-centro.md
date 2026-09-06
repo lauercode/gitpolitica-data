@@ -179,3 +179,6 @@
 - **[2026-09-06 10:00 UTC]** Tradicional desfile de 7 de Setembro interdita ruas no Centro de Boa Vista; veja trechos
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/06/tradicional-desfile-de-7-de-setembro-interdita-ruas-no-centro-de-boa-vista-veja-trechos.ghtml)_
 
+- **[2026-09-06 13:26 UTC]** Por que disputa pelas Malvinas voltou ao centro da política na Argentina? A resposta tem a ver com petróleo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3058em249no?at_medium=RSS&at_campaign=rss)_
+
