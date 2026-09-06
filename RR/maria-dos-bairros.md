@@ -44,3 +44,6 @@
 - **[2026-09-04 11:07 UTC]** Moradores de bairros de Manaus relatam falta de energia na noite de quinta-feira (3)
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/04/moradores-de-bairros-de-manaus-relatam-falta-de-energia-na-noite-de-quinta-feira-3.ghtml)_
 
+- **[2026-09-06 12:33 UTC]** Manaus terá interrupção de energia em  bairros neste domingo (6); veja locais e horários
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/06/manaus-tera-interrupcao-de-energia-em-bairros-neste-domingo-6-veja-locais-e-horarios.ghtml)_
+
