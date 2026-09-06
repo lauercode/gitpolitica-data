@@ -284,3 +284,6 @@
 - **[2026-09-06 06:00 UTC]** 'Cheia de atitude': Quem é a menina de 12 anos que controlou cavalo desgovernado no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/quem-e-a-menina-de-12-anos-que-controlou-cavalo-desgovernado-no-rs.ghtml)_
 
+- **[2026-09-06 10:12 UTC]** Quem é Alejandro Betancourt, o polêmico bilionário por trás do acordo de petróleo entre EUA e Venezuela
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c23x42j85zxo?at_medium=RSS&at_campaign=rss)_
+
