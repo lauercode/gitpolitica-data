@@ -20,3 +20,6 @@
 - **[2026-09-04 07:18 UTC]** Festival de Dança de Cabo Frio chega à 20ª edição
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/festival-de-danca-de-cabo-frio-chega-20a-edicao)_
 
+- **[2026-09-06 12:02 UTC]** Acidente com ônibus de excursão infantil mata ao menos 25 em Cabo Verde
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/acidente-com-onibus-de-excursao-infantil-mata-ao-menos-25-em-cabo-verde.shtml)_
+
