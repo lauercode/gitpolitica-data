@@ -50,3 +50,6 @@
 - **[2026-09-06 01:07 UTC]** Gilmar propõe barrar policiais e militares em gabinetes de ministros do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-propoe-barrar-policiais-e-militares-em-gabinetes-de-ministros-do-stf/)_
 
+- **[2026-09-06 11:42 UTC]** Gilmar Mendes quer proibir policiais assessorando ministros do STF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/gilmar-mendes-quer-proibir-policiais-assessorando-ministros-do-stf)_
+
