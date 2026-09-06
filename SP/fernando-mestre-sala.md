@@ -26,3 +26,6 @@
 - **[2026-09-01 18:08 UTC]** Criminosos invadem sala-cofre e furtam armas de fogo em loja em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/criminosos-invadem-sala-cofre-furtam-armas-fogo-loja-sc.ghtml)_
 
+- **[2026-09-05 23:51 UTC]** 'Sem peso do ego', Luiza Possi grava disco gospel na Sala São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/evangelicos/2026/09/sem-peso-do-ego-luiza-possi-grava-disco-gospel-na-sala-sao-paulo.shtml)_
+
