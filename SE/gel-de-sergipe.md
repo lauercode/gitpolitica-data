@@ -182,3 +182,6 @@
 - **[2026-09-06 16:40 UTC]** Mega-Sena 3054: apostas de Sergipe acertam quadra; veja valores
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/06/mega-sena-3054-apostas-de-sergipe-acertam-quadra.ghtml)_
 
+- **[2026-09-06 21:01 UTC]** Emprego em Sergipe: plataforma digital do NAT oferta vagas para diversas áreas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/06/emprego-em-sergipe-plataforma-digital-do-nat-oferta-vagas-para-diversas-areas.ghtml)_
+
