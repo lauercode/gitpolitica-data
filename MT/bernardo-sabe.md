@@ -56,3 +56,6 @@
 - **[2026-09-06 04:00 UTC]** O que se sabe sobre o potencial anti-inflamatório das canetas emagrecedoras
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/o-que-se-sabe-sobre-o-potencial-anti-inflamatorio-das-canetas-emagrecedoras.shtml)_
 
+- **[2026-09-05 12:00 UTC]** O que se sabe sobre explosão na Bolívia que deixou ao menos 3 mortos e 81 feridos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss)_
+
