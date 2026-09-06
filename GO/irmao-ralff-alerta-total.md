@@ -38,3 +38,6 @@
 - **[2026-09-02 14:48 UTC]** Anac suspende operações da Total Linhas Aéreas, que presta serviço aos Correios
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anac-suspende-operacoes-da-total-linhas-aereas-que-presta-servico-aos-correios.shtml)_
 
+- **[2026-09-06 03:00 UTC]** Governo federal projeta receita total de R$ 3,24 trilhões em 2026; número é recorde e equivale a 23,7% do PIB
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/06/governo-federal-projeta-receita-total-de-r-324-trilhoes-em-2026-numero-e-recorde-e-equivale-a-237percent-do-pib.ghtml)_
+
