@@ -17,3 +17,6 @@
 - **[2026-09-06 19:49 UTC]** VÍDEO: Serra do RS registra neve neste domingo
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/serra-do-rs-registra-neve-neste-domingo.ghtml)_
 
+- **[2026-09-06 19:20 UTC]** Frio intenso segue na noite deste domingo e manhã de segunda em SC, com chance de neve
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/frio-intenso-domingo-e-manha-segunda-neve-sc.ghtml)_
+
