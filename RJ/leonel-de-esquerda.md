@@ -41,3 +41,6 @@
 - **[2026-09-05 04:00 UTC]** Esquerda chegou atrasada na comunicação digital e é 'cringe', diz Jones Manoel
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/esquerda-chegou-atrasada-na-comunicacao-digital-e-e-cringe-diz-jones-manoel.shtml)_
 
+- **[2026-09-06 22:44 UTC]** TRE-MG manda site de esquerda tirar do ar reportagens sobre Nikolas chamando Vorcaro de “lindão”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-manda-icl-tirar-do-ar-reportagens-sobre-nikolas-chamando-vorcaro-de-lindao/)_
+
