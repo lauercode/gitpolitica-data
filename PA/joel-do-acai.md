@@ -14,3 +14,6 @@
 - **[2026-09-06 11:00 UTC]** Estudo da Ueap cria iogurte de açaí sem açúcar voltado para pessoas com diabetes
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/06/estudo-da-ueap-cria-iogurte-de-acai-sem-acucar-voltado-para-pessoas-com-diabetes.ghtml)_
 
+- **[2026-09-06 13:50 UTC]** Açaí de Roraima pode ganhar selo de Indicação Geográfica e valorizar produção
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/rr/roraima/noticia/2026/09/06/acai-de-roraima-pode-ganhar-selo-de-indicacao-geografica-e-valorizar-producao.ghtml)_
+
