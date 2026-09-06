@@ -41,3 +41,6 @@
 - **[2026-09-06 19:06 UTC]** VÍDEO: Confusão entre PM e apoiadores termina com spray de pimenta e xingamentos em delegacia no PA
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/06/video-confusao-entre-pm-e-apoiadores-termina-com-spray-de-pimenta-e-xingamentos-em-delegacia-no-pa.ghtml)_
 
+- **[2026-09-06 19:06 UTC]** VÍDEO: Confusão entre PM e apoiadores de Dr. Daniel termina com spray de pimenta e xingamentos na delegacia no PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/06/video-confusao-entre-pm-e-apoiadores-termina-com-spray-de-pimenta-e-xingamentos-em-delegacia-no-pa.ghtml)_
+
