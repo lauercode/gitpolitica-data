@@ -32,3 +32,6 @@
 - **[2026-09-06 09:40 UTC]** Rádio Nacional transmite Remo e Flamengo pelo Brasileirão hoje
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/radio-nacional-transmite-remo-e-flamengo-pelo-brasileirao-hoje)_
 
+- **[2026-09-06 18:18 UTC]** Flamengo martela até superar o Remo e coloca pressão no Palmeiras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-martela-ate-superar-o-remo-e-coloca-pressao-no-palmeiras.shtml)_
+
