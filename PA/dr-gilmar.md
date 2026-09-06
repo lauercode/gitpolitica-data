@@ -47,3 +47,6 @@
 - **[2026-09-05 23:23 UTC]** Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg49vnnk606o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-06 01:07 UTC]** Gilmar propõe barrar policiais e militares em gabinetes de ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-propoe-barrar-policiais-e-militares-em-gabinetes-de-ministros-do-stf/)_
+
