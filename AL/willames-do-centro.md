@@ -182,3 +182,6 @@
 - **[2026-09-06 13:26 UTC]** Por que disputa pelas Malvinas voltou ao centro da política na Argentina? A resposta tem a ver com petróleo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3058em249no?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-06 12:53 UTC]** Adolescente envolvido em acidente fatal em Macapá é levado para Centro de Internação Provisória
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/06/adolescente-envolvido-em-acidente-fatal-em-macapa-e-levado-para-centro-de-internacao-provisorio.ghtml)_
+
