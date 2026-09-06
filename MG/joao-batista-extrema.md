@@ -44,3 +44,6 @@
 - **[2026-09-06 19:07 UTC]** Na TV alemã, líder de extrema direita vencedor da eleição é interrompido em quase todas as respostas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/na-tv-alema-lider-de-extrema-direita-vencedor-da-eleicao-e-interrompido-em-quase-todas-as-respostas.shtml)_
 
+- **[2026-09-06 13:11 UTC]** Extrema direita vence eleição estadual na Alemanha, mas terá que negociar maioria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/extrema-direita-lidera-eleicao-estadual-na-alemanha-aponta-boca-de-urna.shtml)_
+
