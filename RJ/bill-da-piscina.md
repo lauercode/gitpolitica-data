@@ -17,3 +17,6 @@
 - **[2026-09-03 09:11 UTC]** 'Compartilhamos a casa com uma família de ursos que toma banho vários dias por semana na nossa piscina'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93enjwy7d5o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-05 23:00 UTC]** Veja o que fazer no feriado prolongado, com cinema na piscina e concerto em tributo a Beethoven
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/veja-o-que-fazer-no-feriado-prolongado-com-cinema-na-piscina-e-concerto-em-tributo-a-beethoven.shtml)_
+
