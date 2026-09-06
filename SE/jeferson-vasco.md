@@ -20,3 +20,6 @@
 - **[2026-09-03 07:12 UTC]** Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-palmeiras-avancam-e-se-enfrentam-na-semi-da-copa-do-brasil)_
 
+- **[2026-09-06 14:10 UTC]** Mirassol vence e mantém Vasco e Internacional na zona de rebaixamento
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/mirassol-vence-e-mantem-vasco-e-internacional-na-zona-de-rebaixamento)_
+
