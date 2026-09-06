@@ -53,3 +53,6 @@
 - **[2026-09-05 13:22 UTC]** Maceió tem o metro quadrado mais caro do Nordeste; veja ranking
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/05/maceio-tem-metro-quadrado-mais-caro-nordeste-fipezap.ghtml)_
 
+- **[2026-09-06 03:00 UTC]** Data centers, 5G e valorização da Caatinga: as propostas dos candidatos a presidente para o Nordeste
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/06/propostas-dos-candidatos-presidente-nordeste.ghtml)_
+
