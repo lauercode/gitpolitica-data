@@ -221,3 +221,6 @@
 - **[2026-09-06 11:00 UTC]** VÍDEOS: Jornal do Campo-TO deste domingo, 6 de setembro de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/edicao/2026/09/06/videos-jornal-do-campo-to-deste-domingo-6-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-06 14:21 UTC]** VÍDEOS: Jornal do Acre 2ª edição deste sábado, 5 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-deste-sabado-5-de-setembro-de-2026.ghtml)_
+
