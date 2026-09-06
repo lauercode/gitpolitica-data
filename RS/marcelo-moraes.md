@@ -1004,3 +1004,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 18:35 UTC]** Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/06/mendonca-libera-para-plenario-do-stf-caso-de-mensagens-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-06 15:58 UTC]** Mendonça libera para julgamento relatório da PF que aponta elo entre Moraes e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-libera-para-julgamento-relatorio-da-pf-que-aponta-elo-entre-moraes-e-vorcaro.shtml)_
+
