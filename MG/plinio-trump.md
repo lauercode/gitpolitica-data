@@ -194,3 +194,6 @@
 - **[2026-09-06 11:48 UTC]** Países islâmicos afirmam que planos de Israel para expulsão de Gaza ameaçam paz apoiada por Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/paises-islamicos-afirmam-que-planos-de-israel-para-expulsao-de-gaza-ameacam-paz-apoiada-por-trump.shtml)_
 
+- **[2026-09-06 14:18 UTC]** Aprovação de Trump cai para 33%, menor nível já registrado em pesquisa do Financial Times
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aprovacao-de-trump-cai-para-33-menor-nivel-ja-registrado-em-pesquisa-do-financial-times.shtml)_
+
