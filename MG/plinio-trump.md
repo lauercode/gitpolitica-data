@@ -188,3 +188,6 @@
 - **[2026-09-05 23:00 UTC]** É justo rir do comentarista de extrema direita deportado por Trump?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/09/e-justo-rir-do-comentarista-de-extrema-direita-deportado-por-trump.shtml)_
 
+- **[2026-09-06 08:44 UTC]** Enviados de Trump chegam a Kiev para negociar fim da guerra após reunião com Putin em Moscou
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/enviados-de-trump-chegam-a-kiev-para-negociar-fim-da-guerra-apos-reuniao-com-putin-em-moscou.shtml)_
+
