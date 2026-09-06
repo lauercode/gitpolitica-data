@@ -56,3 +56,6 @@
 - **[2026-09-04 12:55 UTC]** Ataque de abelhas mata cerca de dez aves e deixa homem ferido em Santa Inês
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/ataque-de-abelhas-mata-cerca-de-dez-aves-e-deixa-homem-ferido-em-santa-ines.ghtml)_
 
+- **[2026-09-06 16:03 UTC]** Adolescente morre afogado em balneário de Santa Luzia d'Oeste, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/06/adolescente-morre-afogado-em-balneario-de-santa-luzia-doeste-ro.ghtml)_
+
