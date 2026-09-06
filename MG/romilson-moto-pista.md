@@ -74,3 +74,6 @@
 - **[2026-09-06 17:22 UTC]** Avião de carga da Amazon sai da pista e mata 5 em aeroporto de Miami
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aviao-de-carga-da-amazon-sai-da-pista-em-aeroporto-de-miami-e-atinge-veiculos.shtml)_
 
+- **[2026-09-06 22:27 UTC]** Avião de carga da Amazon deixa pelo menos 5 mortos ao sair da pista em aeroporto de Miami
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz0z9m31kmyo?at_medium=RSS&at_campaign=rss)_
+
