@@ -80,3 +80,6 @@
 - **[2026-09-06 17:36 UTC]** Dino defende decisões monocráticas do STF e questiona pressão por fim de inquéritos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-defende-decisoes-monocraticas-do-stf-e-questiona-pressao-por-fim-de-inqueritos/)_
 
+- **[2026-09-06 18:18 UTC]** Flamengo martela até superar o Remo e coloca pressão no Palmeiras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-martela-ate-superar-o-remo-e-coloca-pressao-no-palmeiras.shtml)_
+
