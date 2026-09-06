@@ -368,3 +368,6 @@
 - **[2026-09-06 05:00 UTC]** RS é o estado com mais indecisos na eleição para presidente, segundo a Quaest
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/06/rs-e-o-estado-com-mais-indecisos-na-eleicao-para-presidente-segundo-a-quaest.ghtml)_
 
+- **[2026-09-06 10:48 UTC]** Ataques israelenses matam quatro no sul do Líbano; presidente pede ajuda dos EUA para conter escalada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ataques-israelenses-matam-quatro-no-sul-do-libano-presidente-pede-ajuda-dos-eua-para-conter-escalada.shtml)_
+
