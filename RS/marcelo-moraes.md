@@ -995,3 +995,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 10:44 UTC]** Flávio Bolsonaro cobra voto de Cármen contra Moraes e diz que ela deve se preocupar com biografia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-cobra-voto-de-carmen-contra-moraes-e-diz-que-ela-deve-se-preocupar-com-biografia.shtml)_
 
+- **[2026-09-06 13:46 UTC]** Narrativa sobre Mendonça “fora do rito” vira cortina de fumaça e álibi para Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/narrativa-sobre-mendonca-fora-do-rito-vira-cortina-de-fumaca-e-alibi-para-moraes/)_
+
