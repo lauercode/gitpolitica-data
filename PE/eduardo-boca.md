@@ -23,3 +23,6 @@
 - **[2026-09-06 13:11 UTC]** Extrema direita lidera eleição estadual na Alemanha, aponta boca de urna
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/extrema-direita-lidera-eleicao-estadual-na-alemanha-aponta-boca-de-urna.shtml)_
 
+- **[2026-09-06 16:44 UTC]** Pesquisas de boca de urna apontam grande vitória da direita radical em Estado da Alemanha
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss)_
+
