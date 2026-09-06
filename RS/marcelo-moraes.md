@@ -1007,3 +1007,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 15:58 UTC]** Mendonça libera para julgamento relatório da PF que aponta elo entre Moraes e Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-libera-para-julgamento-relatorio-da-pf-que-aponta-elo-entre-moraes-e-vorcaro.shtml)_
 
+- **[2026-09-06 18:01 UTC]** Líder da oposição não assina pedido de impeachment de Moraes e alega riscos de nulidade
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lider-da-oposicao-nao-assina-pedido-de-impeachment-de-moraes-e-alega-riscos-de-nulidade/)_
+
