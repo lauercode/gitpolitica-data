@@ -173,3 +173,6 @@
 - **[2026-09-05 15:27 UTC]** Robério Paulino faz caminhada no Alecrim e defende revitalização do Centro Histórico e moradias populares
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/05/roberio-paulino-faz-caminhada-no-alecrim-e-defende-revitalizacao-do-centro-historico-e-moradias-populares.ghtml)_
 
+- **[2026-09-05 20:30 UTC]** Bukele colocou criminosos na defensiva e população no centro da segurança, diz leitor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/bukele-colocou-criminosos-na-defensiva-e-populacao-no-centro-da-seguranca-diz-leitor.shtml)_
+
