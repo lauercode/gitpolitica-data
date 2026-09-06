@@ -35,3 +35,6 @@
 - **[2026-09-06 18:18 UTC]** Flamengo martela até superar o Remo e coloca pressão no Palmeiras
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-martela-ate-superar-o-remo-e-coloca-pressao-no-palmeiras.shtml)_
 
+- **[2026-09-06 21:00 UTC]** Vídeos mostram briga entre torcedores de Remo e Flamengo momentos antes do jogo no Mangueirão, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/06/videos-mostram-briga-entre-torcedores-de-remo-e-flamengo-antes-do-jogo-no-mangueirao.ghtml)_
+
