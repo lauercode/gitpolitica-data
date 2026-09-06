@@ -119,3 +119,6 @@
 - **[2026-09-05 12:56 UTC]** Motociclista morre após acidente envolvendo caminhonete em Nossa Senhora da Glória
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/acidente-envolvendo-caminhonete-em-nossa-senhora-da-gloria.ghtml)_
 
+- **[2026-09-06 19:22 UTC]** Motociclista bate em caminhonete e diz à polícia que ingeriu bebida alcoólica em Rorainópolis
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/06/motociclista-bate-em-caminhonete-e-diz-a-policia-que-ingeriu-bebida-alcoolica-em-rorainopolis.ghtml)_
+
