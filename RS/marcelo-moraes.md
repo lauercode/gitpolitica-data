@@ -998,3 +998,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 13:46 UTC]** Narrativa sobre Mendonça “fora do rito” vira cortina de fumaça e álibi para Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/narrativa-sobre-mendonca-fora-do-rito-vira-cortina-de-fumaca-e-alibi-para-moraes/)_
 
+- **[2026-09-06 12:54 UTC]** Flávio visita Filipe Martins na prisão e acusa Moraes de comandar “gabinete da perseguição”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-visita-filipe-martins-na-prisao-e-acusa-moraes-de-comandar-gabinete-da-perseguicao/)_
+
