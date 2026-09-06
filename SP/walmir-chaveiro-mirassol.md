@@ -11,3 +11,6 @@
 - **[2026-08-30 20:33 UTC]** Palmeiras empata com Mirassol e vê Flamengo se aproximar no Brasileirão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/palmeiras-empata-com-mirassol-e-ve-flamengo-se-aproximar-no-brasileirao.shtml)_
 
+- **[2026-09-06 14:10 UTC]** Mirassol vence e mantém Vasco e Internacional na zona de rebaixamento
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/mirassol-vence-e-mantem-vasco-e-internacional-na-zona-de-rebaixamento)_
+
