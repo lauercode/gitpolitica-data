@@ -107,3 +107,6 @@
 - **[2026-09-06 12:02 UTC]** Acidente com ônibus de excursão infantil mata ao menos 25 em Cabo Verde
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/acidente-com-onibus-de-excursao-infantil-mata-ao-menos-25-em-cabo-verde.shtml)_
 
+- **[2026-09-06 15:47 UTC]** Ataque a tiros mata homem e deixa mulher e duas crianças feridas em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/ataque-a-tiros-mata-homem-e-deixa-mulher-e-duas-criancas-feridas-em-rio-branco.ghtml)_
+
