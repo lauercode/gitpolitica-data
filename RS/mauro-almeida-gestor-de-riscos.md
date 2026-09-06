@@ -26,3 +26,6 @@
 - **[2026-09-05 17:17 UTC]** Putin nega que convocação esteja a caminho, mas russos não querem correr riscos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/putin-nega-que-convocacao-esteja-a-caminho-mas-russos-nao-querem-correr-riscos.shtml)_
 
+- **[2026-09-06 07:00 UTC]** Comunidades ribeirinhas no PA temem explosões para abrir hidrovia no Pedral do Lourenção; cientistas apontam riscos
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/06/comunidades-ribeirinhas-no-pa-temem-explosoes-para-abrir-hidrovia-no-pedral-do-lourencao-cientistas-apontam-riscos.ghtml)_
+
