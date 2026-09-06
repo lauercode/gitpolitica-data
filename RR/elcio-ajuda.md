@@ -68,3 +68,6 @@
 - **[2026-09-05 15:00 UTC]** Cão farejador ajuda polícia a apreender 90 kg de pasta base de cocaína em embarcação no interior do Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/cao-farejador-ajuda-policia-a-apreender-90-kg-de-pasta-base-de-cocaina-em-embarcacao-no-interior-do-amazonas.ghtml)_
 
+- **[2026-09-06 10:48 UTC]** Ataques israelenses matam quatro no sul do Líbano; presidente pede ajuda dos EUA para conter escalada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ataques-israelenses-matam-quatro-no-sul-do-libano-presidente-pede-ajuda-dos-eua-para-conter-escalada.shtml)_
+
