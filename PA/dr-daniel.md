@@ -14,3 +14,6 @@
 - **[2026-09-04 21:55 UTC]** Dr. Daniel diz que pode recorrer ao STF para contestar demarcações de terras indígenas, se for eleito no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/04/dr-daniel-propoe-parceria-entre-estado-e-incra-para-regularizacao-fundiaria-se-for-eleito-no-para.ghtml)_
 
+- **[2026-09-06 19:06 UTC]** VÍDEO: Confusão entre PM e apoiadores de Dr. Daniel termina com spray de pimenta e xingamentos na delegacia no PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/06/video-confusao-entre-pm-e-apoiadores-termina-com-spray-de-pimenta-e-xingamentos-em-delegacia-no-pa.ghtml)_
+
