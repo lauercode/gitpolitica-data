@@ -56,3 +56,6 @@
 - **[2026-09-05 11:00 UTC]** Com vegetação fragilizada devido a estiagem, áreas verdes podem sofrer durante campanhas em Rio Branco: 'Período crítico'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/05/com-vegetacao-fragilizada-devido-a-estiagem-areas-verdes-podem-sofrer-durante-campanhas-em-rio-branco-periodo-critico.ghtml)_
 
+- **[2026-09-06 21:01 UTC]** Emprego em Sergipe: plataforma digital do NAT oferta vagas para diversas áreas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/06/emprego-em-sergipe-plataforma-digital-do-nat-oferta-vagas-para-diversas-areas.ghtml)_
+
