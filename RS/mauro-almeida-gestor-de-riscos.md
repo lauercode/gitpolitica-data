@@ -29,3 +29,6 @@
 - **[2026-09-06 07:00 UTC]** Comunidades ribeirinhas no PA temem explosões para abrir hidrovia no Pedral do Lourenção; cientistas apontam riscos
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/06/comunidades-ribeirinhas-no-pa-temem-explosoes-para-abrir-hidrovia-no-pedral-do-lourencao-cientistas-apontam-riscos.ghtml)_
 
+- **[2026-09-06 11:00 UTC]** Ibama recomenda análise de riscos do El Niño em licenças de hidrelétricas, portos e linhas de transmissão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ibama-recomenda-analise-de-riscos-do-el-nino-em-licencas-de-hidreletricas-portos-e-linhas-de-transmissao.shtml)_
+
