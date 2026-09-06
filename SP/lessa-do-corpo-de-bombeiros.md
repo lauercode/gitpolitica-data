@@ -47,3 +47,6 @@
 - **[2026-09-03 11:36 UTC]** Incêndio atinge casa em Imperatriz, no MA; bombeiros controlam chamas
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/09/03/incendio-atinge-casa-em-imperatriz-no-ma-bombeiros-controlam-chamas.ghtml)_
 
+- **[2026-09-06 10:00 UTC]** Repórter mergulha com bombeiros e acompanha treinamento em veículos submersos em lago no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/reporter-mergulha-com-bombeiros-e-acompanha-treinamento-em-veiculos-submersos-em-lago-no-to.ghtml)_
+
