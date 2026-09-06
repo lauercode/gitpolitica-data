@@ -44,3 +44,6 @@
 - **[2026-09-04 17:26 UTC]** Incorporadora reposiciona presença digital com estratégia da Lovatel Agência
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/lovatel-agencia-marca-e-negocio/noticia/2026/09/04/incorporadora-reposiciona-presenca-digital-com-estrategia-da-lovatel-agencia.ghtml)_
 
+- **[2026-09-06 11:30 UTC]** Grávida, Sabrina Sato aposta em pedrinhas coloridas e confirma presença no Carnaval 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/09/gravida-sabrina-sato-aposta-em-pedrinhas-coloridas-e-confirma-presenca-no-carnaval-2027.shtml)_
+
