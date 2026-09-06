@@ -992,3 +992,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 23:00 UTC]** Entenda o que diz o relatório usado por Moraes em contra-ataque a Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-diz-o-relatorio-usado-por-moraes-em-contra-ataque-a-mendonca.shtml)_
 
+- **[2026-09-06 10:44 UTC]** Flávio Bolsonaro cobra voto de Cármen contra Moraes e diz que ela deve se preocupar com biografia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-cobra-voto-de-carmen-contra-moraes-e-diz-que-ela-deve-se-preocupar-com-biografia.shtml)_
+
