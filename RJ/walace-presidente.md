@@ -377,3 +377,6 @@
 - **[2026-09-06 18:05 UTC]** Veja como foi o fim de semana (5 e 6) dos candidatos a presidente
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-o-fim-de-semana-dos-candidatos-presidente)_
 
+- **[2026-09-03 19:54 UTC]** Veja como foi a quinta-feira (3) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quinta-feira-3-dos-candidatos-presidente)_
+
