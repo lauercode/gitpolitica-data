@@ -35,3 +35,6 @@
 - **[2026-09-04 22:32 UTC]** Eleições 2026: Professora Maria do Carmo grava programa eleitoral e propõe descentralizar governo no interior do AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-maria-do-carmo-grava-programa-eleitoral-e-propoe-descentralizar-governo-no-interior-do-am.ghtml)_
 
+- **[2026-09-06 00:40 UTC]** Eleições 2026: Maria do Carmo defende fortalecimento do setor primário para gerar emprego e renda no interior do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/05/eleicoes-2026-maria-do-carmo-defende-fortalecimento-do-setor-primario-para-gerar-emprego-e-renda-no-interior-do-am.ghtml)_
+
