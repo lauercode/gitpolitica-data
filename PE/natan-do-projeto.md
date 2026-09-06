@@ -236,3 +236,6 @@
 - **[2026-09-05 21:55 UTC]** Justiça suspende licenças da Sigma e paralisa projeto no Vale do Lítio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/justica-suspende-licencas-da-sigma-e-paralisa-projeto-no-vale-do-litio.shtml)_
 
+- **[2026-09-06 10:00 UTC]** Projeto de US$ 1 bilhão do cineasta George Lucas vira museu em Los Angeles
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/projeto-de-us-1-bilhao-do-cineasta-george-lucas-vira-museu-em-los-angeles.shtml)_
+
