@@ -50,3 +50,6 @@
 - **[2026-09-06 10:00 UTC]** Repórter mergulha com bombeiros e acompanha treinamento em veículos submersos em lago no TO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/reporter-mergulha-com-bombeiros-e-acompanha-treinamento-em-veiculos-submersos-em-lago-no-to.ghtml)_
 
+- **[2026-09-06 17:38 UTC]** VÍDEO: cachorro cai na galeria de macrodrenagem da praia alargada de Balneário Camboriú e resgate mobiliza bombeiros
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/video-cachorro-cai-galeria-macrodrenagem-praia-alargada-balneario-camboriu.ghtml)_
+
