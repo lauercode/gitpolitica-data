@@ -203,3 +203,6 @@
 - **[2026-09-05 16:43 UTC]** João Amoêdo vê Cury crescendo mais, critica silêncio do Supremo no caso Moraes e ainda não define voto
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpzy7lggo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-05 22:00 UTC]** Com alta de Cury, Datafolha traz más notícias para Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/com-alta-de-cury-datafolha-traz-mas-noticias-para-lula.shtml)_
+
