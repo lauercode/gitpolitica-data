@@ -983,3 +983,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 21:00 UTC]** 'Moraes errou e tem que pagar por seu erro', diz leitor sobre crise no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/moraes-errou-e-tem-que-pagar-por-seu-erro-diz-leitor-sobre-crise-no-stf.shtml)_
 
+- **[2026-09-06 00:09 UTC]** Gonet acusa Mendonça do que sempre tolerou em Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/gonet-acusa-mendonca-do-que-sempre-tolerou-em-moraes/)_
+
