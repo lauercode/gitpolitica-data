@@ -44,3 +44,6 @@
 - **[2026-09-05 18:01 UTC]** Gilmar formaliza proposta para vetar membros da PF e das Forças Armadas em gabinetes do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-formaliza-proposta-para-vetar-membros-da-pf-e-das-forcas-armadas-em-gabinetes-do-stf.shtml)_
 
+- **[2026-09-05 23:23 UTC]** Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg49vnnk606o?at_medium=RSS&at_campaign=rss)_
+
