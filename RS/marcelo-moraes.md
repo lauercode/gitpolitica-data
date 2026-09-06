@@ -986,3 +986,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 00:09 UTC]** Gonet acusa Mendonça do que sempre tolerou em Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/gonet-acusa-mendonca-do-que-sempre-tolerou-em-moraes/)_
 
+- **[2026-09-05 23:00 UTC]** Cármen Lúcia vê erros tanto de Moraes quanto de Mendonça e vira peça-chave na disputa por hegemonia no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carmen-lucia-ve-erros-tanto-de-moraes-quanto-de-mendonca-e-vira-peca-chave-na-disputa-por-hegemonia-no-stf.shtml)_
+
