@@ -26,3 +26,6 @@
 - **[2026-09-01 11:00 UTC]** Caged: AC mantém saldo positivo pelo 6º mês seguido, mas julho tem 2ª menor geração de empregos no ano
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/caged-ac-mantem-saldo-positivo-pelo-6o-mes-seguido-mas-julho-tem-2a-menor-geracao-de-empregos-no-ano.ghtml)_
 
+- **[2026-09-06 14:18 UTC]** Aprovação de Trump cai para 33%, menor nível já registrado em pesquisa do Financial Times
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aprovacao-de-trump-cai-para-33-menor-nivel-ja-registrado-em-pesquisa-do-financial-times.shtml)_
+
