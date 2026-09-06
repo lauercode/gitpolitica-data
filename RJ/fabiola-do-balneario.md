@@ -26,3 +26,6 @@
 - **[2026-09-04 09:50 UTC]** Mega-Sena: Aposta de Balneário Camboriú fica a um número de faturar prêmio de R$ 48 milhões
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/mega-sena-aposta-balneario-camboriu-quase-vence-premio-milionario.ghtml)_
 
+- **[2026-09-06 16:03 UTC]** Adolescente morre afogado em balneário de Santa Luzia d'Oeste, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/06/adolescente-morre-afogado-em-balneario-de-santa-luzia-doeste-ro.ghtml)_
+
