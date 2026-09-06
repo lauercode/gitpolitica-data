@@ -20,3 +20,6 @@
 - **[2026-09-03 13:41 UTC]** 'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2q5nl0pg3o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-06 14:04 UTC]** Arcon determina suspensão de cobranças e reativações de cadastros sem vistoria da Águas do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/06/arcon-determina-suspensao-de-cobrancas-e-reativacoes-de-cadastros-sem-vistoria-da-aguas-do-para.ghtml)_
+
