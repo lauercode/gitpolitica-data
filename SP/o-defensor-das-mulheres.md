@@ -167,3 +167,6 @@
 - **[2026-09-06 11:21 UTC]** Prêmio para mulheres e meninas cientistas abre inscrições até outubro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-para-mulheres-e-meninas-cientistas-abre-inscricoes-ate-outubro)_
 
+- **[2026-09-06 14:54 UTC]** Grito dos Excluídos no Amapá defende mulheres, Amazônia e protesta contra injustiças sociais
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/06/grito-dos-excluidos-defende-mulheres-amazonia-e-protesta-contra-injusticas-sociais.ghtml)_
+
