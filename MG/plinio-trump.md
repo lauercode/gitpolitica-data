@@ -191,3 +191,6 @@
 - **[2026-09-06 08:44 UTC]** Enviados de Trump chegam a Kiev para negociar fim da guerra após reunião com Putin em Moscou
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/enviados-de-trump-chegam-a-kiev-para-negociar-fim-da-guerra-apos-reuniao-com-putin-em-moscou.shtml)_
 
+- **[2026-09-06 11:48 UTC]** Países islâmicos afirmam que planos de Israel para expulsão de Gaza ameaçam paz apoiada por Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/paises-islamicos-afirmam-que-planos-de-israel-para-expulsao-de-gaza-ameacam-paz-apoiada-por-trump.shtml)_
+
