@@ -152,3 +152,6 @@
 - **[2026-09-05 20:30 UTC]** Primeira princesa de cidade de SC morre atropelada por carro desgovernado em saída de festa
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/05/primeira-princesa-de-cidade-de-sc-morre-atropelada.ghtml)_
 
+- **[2026-09-06 14:58 UTC]** Mulher morta por touro de rodeio no Paraná estava na cidade para visitar amigas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/06/amigas-idosa-morta-touro-parana.ghtml)_
+
