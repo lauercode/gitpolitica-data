@@ -1010,3 +1010,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 18:01 UTC]** Líder da oposição não assina pedido de impeachment de Moraes e alega riscos de nulidade
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lider-da-oposicao-nao-assina-pedido-de-impeachment-de-moraes-e-alega-riscos-de-nulidade/)_
 
+- **[2026-09-06 17:20 UTC]** Flávio cobra voto de Cármen Lúcia para abertura de investigação contra Alexandre de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-cobra-voto-de-carmen-lucia-para-abertura-de-investigacao-contra-alexandre-de-moraes/)_
+
