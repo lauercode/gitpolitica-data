@@ -287,3 +287,6 @@
 - **[2026-09-06 11:00 UTC]** Com menos de dois anos de vida, Planalto-GO conquista Feminino A3
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/com-menos-de-dois-anos-de-vida-planalto-go-conquista-feminino-a3)_
 
+- **[2026-09-06 19:12 UTC]** Mais de 90% da chuva de agosto caiu em apenas dois dias na capital, diz Defesa Civil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/mais-de-90percent-da-chuva-de-agosto-caiu-em-apenas-dois-dias-na-capital-diz-defesa-civil.ghtml)_
+
