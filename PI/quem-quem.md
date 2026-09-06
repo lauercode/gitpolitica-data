@@ -287,3 +287,6 @@
 - **[2026-09-06 10:12 UTC]** Quem é Alejandro Betancourt, o polêmico bilionário por trás do acordo de petróleo entre EUA e Venezuela
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c23x42j85zxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-06 13:00 UTC]** Quem é a nova Miss Mundo? Conheça a dominicana Joheirry Mola
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/quem-e-a-nova-miss-mundo-conheca-a-dominicana-joheirry-mola.shtml)_
+
