@@ -26,3 +26,6 @@
 - **[2026-09-05 06:00 UTC]** Conheça o líder da extrema direita que pode chegar ao poder na Alemanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/conheca-o-lider-da-extrema-direita-que-pode-chegar-ao-poder-na-alemanha.shtml)_
 
+- **[2026-09-05 23:00 UTC]** Chefe regional de inteligência defende proibição de partido de extrema direita na Alemanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/chefe-regional-de-inteligencia-defende-proibicao-de-partido-de-extrema-direita-na-alemanha.shtml)_
+
