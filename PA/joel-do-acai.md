@@ -11,3 +11,6 @@
 - **[2026-09-05 09:00 UTC]** Dia do açaí: como mulheres negras e mestiças do século XIX construíram a história da fruta em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/05/dia-do-acai-como-mulheres-negras-e-mesticas-do-seculo-xix-construiram-a-historia-da-fruta-em-belem.ghtml)_
 
+- **[2026-09-06 11:00 UTC]** Estudo da Ueap cria iogurte de açaí sem açúcar voltado para pessoas com diabetes
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/06/estudo-da-ueap-cria-iogurte-de-acai-sem-acucar-voltado-para-pessoas-com-diabetes.ghtml)_
+
