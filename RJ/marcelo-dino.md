@@ -26,3 +26,6 @@
 - **[2026-09-04 18:12 UTC]** Gonet vira alvo de procedimento em conselho que ele mesmo preside; irmão de Dino é o vice-presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-vira-alvo-de-procedimento-em-conselho-que-ele-mesmo-preside/)_
 
+- **[2026-09-06 14:27 UTC]** Dino questiona promessa de fim de inquérito das fake news, sem citar Fachin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/sem-citar-fachin-dino-questiona-promessa-de-fim-de-inquerito-das-fake-news.shtml)_
+
