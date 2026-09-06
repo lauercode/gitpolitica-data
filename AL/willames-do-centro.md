@@ -188,3 +188,6 @@
 - **[2026-09-06 19:24 UTC]** Homem sofre choque elétrico em telhado de empresa no Centro de Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/06/homem-sofre-choque-eletrico-em-telhado-de-empresa-no-centro-de-manaus.ghtml)_
 
+- **[2026-09-06 19:58 UTC]** Antes de se apresentar no Rock in Rio, Ne-Yo curte balada no centro da cidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/antes-de-se-apresentar-no-rock-in-rio-ne-yo-curte-balada-no-centro-da-cidade.shtml)_
+
