@@ -341,3 +341,6 @@
 - **[2026-09-06 14:21 UTC]** VÍDEOS: Jornal do Acre 2ª edição deste sábado, 5 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-deste-sabado-5-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-06 20:46 UTC]** Inmet emite alerta amarelo para chuvas e queda de temperaturas no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/inmet-emite-alerta-amarelo-de-chuvas-e-queda-de-temperaturas-no-acre.ghtml)_
+
