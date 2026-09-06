@@ -71,3 +71,6 @@
 - **[2026-09-04 22:03 UTC]** Combate a incêndio que destruiu mercado no Acre acaba após 10h e famílias são retiradas da região
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/combate-a-incendio-que-destruiu-mercado-em-rio-branco-acaba-apos-9h-e-familias-sao-retiradas-da-regiao.ghtml)_
 
+- **[2026-09-06 06:49 UTC]** Corrupção, defesa da democracia, combate ao crime: Quaest mostra o que mais pesa na escolha do eleitor
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/06/corrupcao-defesa-da-democracia-combate-ao-crime-quaest-mostra-o-que-mais-pesa-na-escolha-do-eleitor.ghtml)_
+
