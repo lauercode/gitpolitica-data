@@ -182,3 +182,6 @@
 - **[2026-09-05 19:40 UTC]** ‘Muito gratificante’, diz brigadista que resgatou filhote de veado de incêndio e deu água ao animal; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/muito-gratificante-diz-brigadista-que-resgatou-filhote-de-veado-de-incendio-e-deu-agua-ao-animal-video.ghtml)_
 
+- **[2026-09-06 12:28 UTC]** Sem luz, água, nem transporte: as frustrações da minha vida em Cuba e seus apagões
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c74ekv4emn9o?at_medium=RSS&at_campaign=rss)_
+
