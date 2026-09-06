@@ -32,3 +32,6 @@
 - **[2026-09-05 23:00 UTC]** Extrema direita promete zerar passado da Alemanha se voltar ao poder após um século
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/extrema-direita-promete-zerar-passado-da-alemanha-se-voltar-ao-poder-apos-um-seculo.shtml)_
 
+- **[2026-09-05 23:00 UTC]** É justo rir do comentarista de extrema direita deportado por Trump?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/09/e-justo-rir-do-comentarista-de-extrema-direita-deportado-por-trump.shtml)_
+
