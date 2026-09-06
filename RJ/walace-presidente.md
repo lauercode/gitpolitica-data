@@ -362,3 +362,6 @@
 - **[2026-09-05 14:00 UTC]** Focamos no futuro financeiro do Instituto Inhotim, diz diretora-presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/focamos-no-futuro-financeiro-do-instituto-inhotim-diz-diretora-presidente.shtml)_
 
+- **[2026-09-06 03:00 UTC]** Data centers, 5G e valorização da Caatinga: as propostas dos candidatos a presidente para o Nordeste
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/06/propostas-dos-candidatos-presidente-nordeste.ghtml)_
+
