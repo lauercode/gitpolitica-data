@@ -71,3 +71,6 @@
 - **[2026-09-06 10:48 UTC]** Ataques israelenses matam quatro no sul do Líbano; presidente pede ajuda dos EUA para conter escalada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ataques-israelenses-matam-quatro-no-sul-do-libano-presidente-pede-ajuda-dos-eua-para-conter-escalada.shtml)_
 
+- **[2026-09-06 10:48 UTC]** Ataques israelenses matam sete no sul do Líbano; presidente pede ajuda dos EUA para conter escalada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ataques-israelenses-matam-quatro-no-sul-do-libano-presidente-pede-ajuda-dos-eua-para-conter-escalada.shtml)_
+
