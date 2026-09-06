@@ -26,3 +26,6 @@
 - **[2026-09-02 19:02 UTC]** Faria Lima aguarda nova rodada de investigações após delação de fundador da Reag
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/faria-lima-aguarda-nova-rodada-de-investigacoes-apos-delacao-de-fundador-da-reag.shtml)_
 
+- **[2026-09-05 18:51 UTC]** Bahia abre 26ª rodada do Brasileirão com triunfo sobre o Bragantino
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/bahia-abre-26a-rodada-do-brasileirao-com-triunfo-sobre-o-bragantino)_
+
