@@ -176,3 +176,6 @@
 - **[2026-09-05 20:30 UTC]** Bukele colocou criminosos na defensiva e população no centro da segurança, diz leitor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/bukele-colocou-criminosos-na-defensiva-e-populacao-no-centro-da-seguranca-diz-leitor.shtml)_
 
+- **[2026-09-06 10:00 UTC]** Tradicional desfile de 7 de Setembro interdita ruas no Centro de Boa Vista; veja trechos
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/06/tradicional-desfile-de-7-de-setembro-interdita-ruas-no-centro-de-boa-vista-veja-trechos.ghtml)_
+
