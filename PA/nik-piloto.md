@@ -44,3 +44,6 @@
 - **[2026-09-05 16:52 UTC]** Anvisa aprova importação de remédio experimental para piloto Lito
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-importacao-de-remedio-experimental-para-piloto-lito)_
 
+- **[2026-09-06 01:16 UTC]** Piloto resgata colega de carro em chamas após acidente em prova no China GT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/piloto-resgata-colega-de-carro-em-chamas-apos-acidente-em-prova-no-china-gt.shtml)_
+
