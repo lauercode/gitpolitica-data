@@ -155,3 +155,6 @@
 - **[2026-09-06 14:58 UTC]** Mulher morta por touro de rodeio no Paraná estava na cidade para visitar amigas
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/06/amigas-idosa-morta-touro-parana.ghtml)_
 
+- **[2026-09-06 19:58 UTC]** Antes de se apresentar no Rock in Rio, Ne-Yo curte balada no centro da cidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/antes-de-se-apresentar-no-rock-in-rio-ne-yo-curte-balada-no-centro-da-cidade.shtml)_
+
