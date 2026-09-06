@@ -281,3 +281,6 @@
 - **[2026-09-05 15:56 UTC]** Famosos apoiam ator de 'Quem Ama Cuida' após denunciar ataque no Rock in Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/famosos-apoiam-ator-de-quem-ama-cuida-apos-denunciar-ataque-no-rock-in-rio.shtml)_
 
+- **[2026-09-06 06:00 UTC]** 'Cheia de atitude': Quem é a menina de 12 anos que controlou cavalo desgovernado no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/quem-e-a-menina-de-12-anos-que-controlou-cavalo-desgovernado-no-rs.ghtml)_
+
