@@ -374,3 +374,6 @@
 - **[2026-09-06 15:36 UTC]** Na véspera do 7 de Setembro, candidatos a presidente usam redes e participam de atos públicos para mobilizar eleitores
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/06/na-vespera-do-7-de-setembro-candidatos-a-presidente-usam-redes-e-participam-de-atos-publicos-para-mobilizar-eleitores.ghtml)_
 
+- **[2026-09-06 18:05 UTC]** Veja como foi o fim de semana (5 e 6) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-o-fim-de-semana-dos-candidatos-presidente)_
+
