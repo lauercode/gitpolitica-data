@@ -65,3 +65,6 @@
 - **[2026-09-04 21:57 UTC]** Laudo liga morte de professora a falha no diagnóstico em hospital do Rio de Janeiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/laudo-liga-morte-de-professora-a-falha-no-diagnostico-em-hospital-do-rio.shtml)_
 
+- **[2026-09-06 15:58 UTC]** Professora impedida de assumir vaga por suposta falta de estrutura de saúde já lecionava no mesmo campus quando recebeu diagnóstico
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/professora-impedida-de-assumir-vaga-por-suposta-falta-de-estrutura-de-saude-ja-lecionava-no-mesmo-campus-quando-recebeu-diagnostico.ghtml)_
+
