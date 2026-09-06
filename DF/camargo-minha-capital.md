@@ -68,3 +68,6 @@
 - **[2026-09-05 05:00 UTC]** Calor extremo ameaça a capital da pimenta do Paquistão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/calor-extremo-ameaca-a-capital-da-pimenta-do-paquistao.shtml)_
 
+- **[2026-09-06 19:12 UTC]** Mais de 90% da chuva de agosto caiu em apenas dois dias na capital, diz Defesa Civil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/mais-de-90percent-da-chuva-de-agosto-caiu-em-apenas-dois-dias-na-capital-diz-defesa-civil.ghtml)_
+
