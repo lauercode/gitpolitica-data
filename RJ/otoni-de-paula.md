@@ -29,3 +29,6 @@
 - **[2026-09-04 10:00 UTC]** Paula Pimenta quer atrair jovens com série do universo de 'Fazendo Meu Filme'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/paula-pimenta-quer-atrair-jovens-com-serie-do-universo-de-fazendo-meu-filme.shtml)_
 
+- **[2026-09-06 01:56 UTC]** Paula Burlamaqui diz que envelhecimento é 'castigo do ser humano'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/paula-burlamaqui-diz-que-envelhecimento-e-castigo-do-ser-humano.shtml)_
+
