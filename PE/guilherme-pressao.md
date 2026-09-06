@@ -77,3 +77,6 @@
 - **[2026-09-04 00:12 UTC]** Daniel Vorcaro denuncia ameaças e pressão para omitir nomes do governo federal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/daniel-vorcaro-denuncia-ameacas-e-pressao-para-omitir-nomes-do-governo-federal/)_
 
+- **[2026-09-06 17:36 UTC]** Dino defende decisões monocráticas do STF e questiona pressão por fim de inquéritos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-defende-decisoes-monocraticas-do-stf-e-questiona-pressao-por-fim-de-inqueritos/)_
+
