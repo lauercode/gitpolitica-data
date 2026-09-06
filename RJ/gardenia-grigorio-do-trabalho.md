@@ -212,3 +212,6 @@
 - **[2026-09-05 20:59 UTC]** Acreano transforma curiosidade e paixão por aves em trabalho na Amazônia: ‘É uma terapia’
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/acreano-transforma-curiosidade-e-paixao-por-aves-em-trabalho-na-amazonia-e-uma-terapia.ghtml)_
 
+- **[2026-09-06 13:00 UTC]** Com seca, catraieiro relata dificuldade em manter trabalho no Rio Acre: ‘Estamos na luta’
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/com-seca-catraieiro-relata-dificuldade-em-manter-trabalho-no-rio-acre-estamos-na-luta.ghtml)_
+
