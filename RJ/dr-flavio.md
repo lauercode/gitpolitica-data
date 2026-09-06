@@ -893,3 +893,6 @@
 - **[2026-09-06 12:54 UTC]** Flávio visita Filipe Martins na prisão e acusa Moraes de comandar “gabinete da perseguição”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-visita-filipe-martins-na-prisao-e-acusa-moraes-de-comandar-gabinete-da-perseguicao/)_
 
+- **[2026-09-06 17:18 UTC]** Crise STF: 'problemas reais e graves estão sendo misturados com interesses eleitorais', diz Flávio Dino em postagem
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/06/crise-stf-problemas-reais-e-graves-estao-sendo-misturados-com-intereses-eleitorais-diz-flavio-dino-em-postagem.ghtml)_
+
