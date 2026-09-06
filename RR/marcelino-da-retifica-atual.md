@@ -23,3 +23,6 @@
 - **[2026-09-03 03:14 UTC]** Vorcaro diz que proposta de delação se resume a pessoas do 'atual governo', sem citar financiamento de 'Dark Horse' e envolvimento com políticos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/03/vorcaro-diz-que-proposta-de-delacao-se-resume-a-pessoas-do-atual-governo-sem-citar-financiamento-de-dark-horse-e-envolvimento-com-politicos.ghtml)_
 
+- **[2026-09-06 15:30 UTC]** Batom vermelho continua atual no trabalho, mas pede ajustes de tom
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/batom-vermelho-continua-atual-no-trabalho-mas-pede-ajustes-de-tom.shtml)_
+
