@@ -17,3 +17,6 @@
 - **[2026-09-06 09:25 UTC]** Michelle Bolsonaro chama Mendonça de 'ungido do Senhor' em meio a crise no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/michelle-bolsonaro-chama-mendonca-de-ungido-do-senhor-em-meio-a-crise-no-stf.shtml)_
 
+- **[2026-09-06 13:48 UTC]** Michelle manda recado a Mendonça: “Você é um escolhido e ungido do Senhor”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-manda-recado-a-mendonca-voce-e-um-escolhido-e-ungido-do-senhor/)_
+
