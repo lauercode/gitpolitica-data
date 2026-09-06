@@ -719,3 +719,6 @@
 - **[2026-09-06 00:35 UTC]** Zanin acompanha Cármen Lúcia e vota contra liberdade de Bolsonaro no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-acompanha-carmen-lucia-e-vota-contra-liberdade-de-bolsonaro-no-stf/)_
 
+- **[2026-09-06 10:44 UTC]** Flávio Bolsonaro cobra voto de Cármen contra Moraes e diz que ela deve se preocupar com biografia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-cobra-voto-de-carmen-contra-moraes-e-diz-que-ela-deve-se-preocupar-com-biografia.shtml)_
+
