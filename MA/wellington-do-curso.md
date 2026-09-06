@@ -62,3 +62,6 @@
 - **[2026-09-04 22:10 UTC]** Professora que viralizou ao cuidar de criança durante aula diz que mãe teve que trancar curso: ‘Por um momento’
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/professora-que-viralizou-ao-cuidar-de-crianca-durante-aula-diz-que-mae-teve-que-trancar-curso-por-um-momento.ghtml)_
 
+- **[2026-09-06 13:52 UTC]** Justiça anula posse de servidora que assumiu cargo sem curso exigido em edital
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/servidora-perde-cargo-apos-assumir-funcao-sem-curso-exigido-em-porto-nacional.ghtml)_
+
