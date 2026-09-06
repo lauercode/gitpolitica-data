@@ -14,3 +14,6 @@
 - **[2026-09-02 17:05 UTC]** VÍDEO: Lábrea fica encoberta por fumaça após incêndio em lixão; morador diz que fogo dura mais de um mês
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/video-labrea-fica-encoberta-por-fumaca-apos-incendio-em-lixao-morador-diz-que-fogo-dura-mais-de-um-mes.ghtml)_
 
+- **[2026-09-06 13:46 UTC]** Narrativa sobre Mendonça “fora do rito” vira cortina de fumaça e álibi para Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/narrativa-sobre-mendonca-fora-do-rito-vira-cortina-de-fumaca-e-alibi-para-moraes/)_
+
