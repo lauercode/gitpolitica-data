@@ -32,3 +32,6 @@
 - **[2026-09-04 13:07 UTC]** Motociclista morre e duas pessoas ficam feridas em acidente grave no centro de Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/motociclista-morre-e-duas-pessoas-ficam-feridas-em-acidente-grave-no-centro-de-belem.ghtml)_
 
+- **[2026-09-05 23:51 UTC]** Após acidente grave, bebê de 3 meses é levado para hospital em helicóptero da PRF
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/bebe-ferido-acidente-resgate-helicoptero-rs.ghtml)_
+
