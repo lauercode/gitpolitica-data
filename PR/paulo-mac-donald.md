@@ -32,3 +32,6 @@
 - **[2026-09-01 14:14 UTC]** Empresa de Donald Trump Jr. lidera rodada de US$ 1 bi da Polymarket
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresa-de-donald-trump-jr-lidera-rodada-de-us-1-bi-da-polymarket.shtml)_
 
+- **[2026-09-06 19:36 UTC]** Donald Trump escurece o cabelo e novo visual vira piada nas redes sociais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/donald-trump-escurece-o-cabelo-e-novo-visual-vira-piada-nas-redes-sociais.shtml)_
+
