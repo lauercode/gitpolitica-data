@@ -26,3 +26,6 @@
 - **[2026-09-06 00:09 UTC]** Apresentadora de TV egípcia é condenada à morte por tráfico de drogas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/apresentadora-de-tv-egipcia-e-condenada-a-morte-por-trafico-de-drogas.shtml)_
 
+- **[2026-09-06 14:06 UTC]** A apresentadora de TV condenada à morte por tráfico de drogas no Egito
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2l8k4ydd11o?at_medium=RSS&at_campaign=rss)_
+
