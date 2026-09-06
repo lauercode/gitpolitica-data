@@ -104,3 +104,6 @@
 - **[2026-09-06 05:00 UTC]** SOS Mata Atlântica completa 40 anos tentando reacender mobilização popular
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/sos-mata-atlantica-completa-40-anos-tentando-reacender-mobilizacao-popular.shtml)_
 
+- **[2026-09-06 12:02 UTC]** Acidente com ônibus de excursão infantil mata ao menos 25 em Cabo Verde
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/acidente-com-onibus-de-excursao-infantil-mata-ao-menos-25-em-cabo-verde.shtml)_
+
