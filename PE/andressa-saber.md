@@ -38,3 +38,6 @@
 - **[2026-08-27 16:14 UTC]** Bancário de SP desaparecido após deixar hostel em Florianópolis: o que se sabe e o que falta saber
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/bancario-de-sp-desaparecido-em-florianopolis-o-que-falta-saber.ghtml)_
 
+- **[2026-09-05 22:00 UTC]** O direito de saber sobre o caso Master antes de votar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-direito-de-saber-sobre-o-caso-master-antes-de-votar.shtml)_
+
