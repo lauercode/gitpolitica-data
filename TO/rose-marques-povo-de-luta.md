@@ -11,3 +11,6 @@
 - **[2026-09-06 13:00 UTC]** Com seca, catraieiro relata dificuldade em manter trabalho no Rio Acre: ‘Estamos na luta’
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/com-seca-catraieiro-relata-dificuldade-em-manter-trabalho-no-rio-acre-estamos-na-luta.ghtml)_
 
+- **[2026-09-06 17:10 UTC]** Judoca alemão é agredido com socos por rival após vencer luta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/judoca-alemao-e-agredido-com-socos-por-rival-apos-vencer-luta.shtml)_
+
