@@ -1013,3 +1013,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 17:20 UTC]** Flávio cobra voto de Cármen Lúcia para abertura de investigação contra Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-cobra-voto-de-carmen-lucia-para-abertura-de-investigacao-contra-alexandre-de-moraes/)_
 
+- **[2026-09-06 20:47 UTC]** Defesa de Tagliaferro pede desagravo à OAB e acusa Moraes de violar prerrogativas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-tagliaferro-pede-desagravo-a-oab-e-acusa-moraes-de-violar-prerrogativas/)_
+
