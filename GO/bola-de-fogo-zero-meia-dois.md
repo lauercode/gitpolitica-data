@@ -290,3 +290,6 @@
 - **[2026-09-06 19:12 UTC]** Mais de 90% da chuva de agosto caiu em apenas dois dias na capital, diz Defesa Civil
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/mais-de-90percent-da-chuva-de-agosto-caiu-em-apenas-dois-dias-na-capital-diz-defesa-civil.ghtml)_
 
+- **[2026-09-06 19:58 UTC]** Briga entre dois casais em festa termina com quatro pessoas feridas e espingarda apreendida no Cantá
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/06/briga-entre-dois-casais-em-festa-termina-com-quatro-pessoas-feridas-e-espingarda-apreendida-no-canta.ghtml)_
+
