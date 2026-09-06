@@ -50,3 +50,6 @@
 - **[2026-09-06 18:05 UTC]** Frio deve continuar em São Paulo em feriado de 7 de Setembro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/frio-deve-continuar-em-sao-paulo-em-feriado-de-7-de-setembro.shtml)_
 
+- **[2026-09-06 19:20 UTC]** Frio intenso segue na noite deste domingo e manhã de segunda em SC, com chance de neve
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/frio-intenso-domingo-e-manha-segunda-neve-sc.ghtml)_
+
