@@ -29,3 +29,6 @@
 - **[2026-09-05 19:16 UTC]** Brasileiro Feminino: Flamengo encara São Paulo em uma das semifinais
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-flamengo-encara-sao-paulo-em-uma-das-semifinais)_
 
+- **[2026-09-06 09:40 UTC]** Rádio Nacional transmite Remo e Flamengo pelo Brasileirão hoje
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/radio-nacional-transmite-remo-e-flamengo-pelo-brasileirao-hoje)_
+
