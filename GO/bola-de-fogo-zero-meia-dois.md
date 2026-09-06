@@ -284,3 +284,6 @@
 - **[2026-09-05 19:36 UTC]** Procon pesquisa preços em churrascarias de Aracaju: prato para dois vai de R$ 75 a R$ 120
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/procon-pesquisa-precos-em-churrascarias-de-aracaju.ghtml)_
 
+- **[2026-09-06 11:00 UTC]** Com menos de dois anos de vida, Planalto-GO conquista Feminino A3
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/com-menos-de-dois-anos-de-vida-planalto-go-conquista-feminino-a3)_
+
