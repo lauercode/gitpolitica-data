@@ -53,3 +53,6 @@
 - **[2026-09-06 19:20 UTC]** Frio intenso segue na noite deste domingo e manhã de segunda em SC, com chance de neve
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/frio-intenso-domingo-e-manha-segunda-neve-sc.ghtml)_
 
+- **[2026-09-06 20:04 UTC]** Neva na Serra Gaúcha neste domingo (6); frio também atinge o Sudeste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/neva-na-serra-gaucha-neste-domingo-6-frio-tambem-atinge-o-sudeste.shtml)_
+
