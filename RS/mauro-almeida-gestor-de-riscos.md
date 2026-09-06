@@ -32,3 +32,6 @@
 - **[2026-09-06 11:00 UTC]** Ibama recomenda análise de riscos do El Niño em licenças de hidrelétricas, portos e linhas de transmissão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ibama-recomenda-analise-de-riscos-do-el-nino-em-licencas-de-hidreletricas-portos-e-linhas-de-transmissao.shtml)_
 
+- **[2026-09-06 18:01 UTC]** Líder da oposição não assina pedido de impeachment de Moraes e alega riscos de nulidade
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lider-da-oposicao-nao-assina-pedido-de-impeachment-de-moraes-e-alega-riscos-de-nulidade/)_
+
