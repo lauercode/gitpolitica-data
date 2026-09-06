@@ -152,3 +152,6 @@
 - **[2026-09-05 14:29 UTC]** Peru declara estado de emergência em cinco presídios de alta segurança
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/peru-declara-estado-de-emergencia-em-cinco-presidios-de-alta-seguranca)_
 
+- **[2026-09-06 03:00 UTC]** Telefone fixo, disquetes e cinco 'ninjas': os bastidores da criação da urna eletrônica
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/06/telefone-fixo-disquetes-e-cinco-ninjas-os-bastidores-da-criacao-da-urna-eletronica.ghtml)_
+
