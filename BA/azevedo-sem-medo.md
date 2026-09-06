@@ -41,3 +41,6 @@
 - **[2026-09-05 01:28 UTC]** Rock in Rio 2026: Isabeli Fontana revela medo de ficar pobre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-isabeli-fontana-revela-medo-de-ficar-pobre.shtml)_
 
+- **[2026-09-06 06:00 UTC]** 'Eles abriram a porta e nos arrastaram para fora': operação do ICE amplia medo em Nova Jersey
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eles-abriram-a-porta-e-nos-arrastaram-para-fora-operacao-do-ice-amplia-medo-em-nova-jersey.shtml)_
+
