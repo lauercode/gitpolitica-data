@@ -50,3 +50,6 @@
 - **[2026-09-05 00:25 UTC]** Eleições 2026: Roberto Cidade faz carreata em Tabatinga e promete expandir Polo Industrial de Manaus para a rodovia AM-010
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-roberto-cidade-faz-carreata-em-tabatinga-e-promete-expandir-polo-industrial-de-manaus-para-a-rodovia-am-010.ghtml)_
 
+- **[2026-09-05 23:00 UTC]** Obra de Roberto Schwarz, 88, concebe a literatura brasileira como espelho de sociedade desigual
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/09/obra-de-roberto-schwarz-88-concebe-a-literatura-brasileira-como-espelho-de-sociedade-desigual.shtml)_
+
