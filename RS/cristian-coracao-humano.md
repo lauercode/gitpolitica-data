@@ -11,3 +11,6 @@
 - **[2026-08-27 14:57 UTC]** Sergipanos estão entre brasileiros vítimas de esquema de tráfico humano e trabalho escravo no Camboja
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/27/sergipanos-estao-entre-brasileiros-vitimas-de-esquema-de-trafico-humano-e-trabalho-escravo-em-madagascar.ghtml)_
 
+- **[2026-09-06 01:56 UTC]** Paula Burlamaqui diz que envelhecimento é 'castigo do ser humano'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/paula-burlamaqui-diz-que-envelhecimento-e-castigo-do-ser-humano.shtml)_
+
