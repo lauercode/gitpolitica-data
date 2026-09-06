@@ -14,3 +14,6 @@
 - **[2026-09-04 19:37 UTC]** Neve no feriadão? SC terá frio de até -8°C, geada ampla e chance de chuva congelada
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/neve-no-feriadao-sc-tera-frio-de-ate-8c.ghtml)_
 
+- **[2026-09-06 19:49 UTC]** VÍDEO: Serra do RS registra neve neste domingo
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/serra-do-rs-registra-neve-neste-domingo.ghtml)_
+
