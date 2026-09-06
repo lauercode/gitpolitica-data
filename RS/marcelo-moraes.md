@@ -989,3 +989,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 23:00 UTC]** Cármen Lúcia vê erros tanto de Moraes quanto de Mendonça e vira peça-chave na disputa por hegemonia no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carmen-lucia-ve-erros-tanto-de-moraes-quanto-de-mendonca-e-vira-peca-chave-na-disputa-por-hegemonia-no-stf.shtml)_
 
+- **[2026-09-05 23:00 UTC]** Entenda o que diz o relatório usado por Moraes em contra-ataque a Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-diz-o-relatorio-usado-por-moraes-em-contra-ataque-a-mendonca.shtml)_
+
