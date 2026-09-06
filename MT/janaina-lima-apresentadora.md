@@ -23,3 +23,6 @@
 - **[2026-08-27 10:28 UTC]** Quem era Thalita Tavares, ex-apresentadora do Globo Esporte TO que morreu vítima de câncer
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/quem-era-thalita-tavares-ex-apresentadora-do-globo-esporte-to-que-morreu-vitima-de-cancer.ghtml)_
 
+- **[2026-09-06 00:09 UTC]** Apresentadora de TV egípcia é condenada à morte por tráfico de drogas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/apresentadora-de-tv-egipcia-e-condenada-a-morte-por-trafico-de-drogas.shtml)_
+
