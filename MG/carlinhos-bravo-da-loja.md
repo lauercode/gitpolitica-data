@@ -38,3 +38,6 @@
 - **[2026-09-05 21:54 UTC]** VÍDEO: motorista embriagado invade loja de roupas infantis no Paraná, destrói vitrine e foge a pé
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/05/motorista-embriagado-invade-loja.ghtml)_
 
+- **[2026-09-06 14:00 UTC]** Loja de eletrônicos é condenada após vender celular de 256 GB e entregar versão de 128 GB no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/06/loja-eletronicos-condenada-apos-vender-celular-entregar-versao-diferente.ghtml)_
+
