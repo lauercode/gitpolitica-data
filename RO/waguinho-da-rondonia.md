@@ -68,3 +68,6 @@
 - **[2026-09-04 11:07 UTC]** Festivais de praia: confira datas e shows dos eventos em Rondônia
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/04/festivais-de-praia-confira-datas-e-shows-dos-eventos-em-rondonia.ghtml)_
 
+- **[2026-09-06 15:03 UTC]** Processo seletivo em Campo Novo de Rondônia com salário de até R$ 5,2 mil termina nesta segunda
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/06/processo-seletivo-em-campo-novo-de-rondonia-com-salario-de-ate-r-52-mil-termina-nesta-segunda.ghtml)_
+
