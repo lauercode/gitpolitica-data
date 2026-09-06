@@ -14,3 +14,6 @@
 - **[2026-09-04 08:57 UTC]** Reino Unido reafirma soberania sobre as Malvinas após Milei anunciar construção de base naval
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/reino-unido-reafirma-soberania-sobre-as-malvinas-apos-milei-anunciar-construcao-de-base-naval.shtml)_
 
+- **[2026-09-06 13:26 UTC]** Por que disputa pelas Malvinas voltou ao centro da política na Argentina? A resposta tem a ver com petróleo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3058em249no?at_medium=RSS&at_campaign=rss)_
+
