@@ -68,3 +68,6 @@
 - **[2026-09-05 18:34 UTC]** Companhias aéreas restringem pousos e decolagens com pista molhada em aeroporto do Paraná após avião da Latam sair da pista
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/05/companhias-aereas-restringem-pousos-e-decolagens.ghtml)_
 
+- **[2026-09-06 17:22 UTC]** Avião de carga da Amazon sai da pista em aeroporto de Miami e atinge veículos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aviao-de-carga-da-amazon-sai-da-pista-em-aeroporto-de-miami-e-atinge-veiculos.shtml)_
+
