@@ -11,3 +11,6 @@
 - **[2026-09-05 16:21 UTC]** Maestro Chico Pinheiro, referência da cultura popular maranhense, morre aos 71 anos
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/05/maestro-chico-pinheiro-referencia-na-musica-maranhense-morre-aos-71-anos.ghtml)_
 
+- **[2026-09-05 23:00 UTC]** O maestro da barulheira no Supremo chama-se Daniel Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/o-maestro-da-barulheira-no-supremo-chama-se-daniel-vorcaro.shtml)_
+
