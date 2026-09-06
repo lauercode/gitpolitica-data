@@ -185,3 +185,6 @@
 - **[2026-09-05 20:00 UTC]** Rock in Rio: 'Dane-se o Trump', diz influenciadora após visto americano sair com gênero masculino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-dane-se-o-trump-diz-influenciadora-apos-visto-americano-sair-com-genero-masculino.shtml)_
 
+- **[2026-09-05 23:00 UTC]** É justo rir do comentarista de extrema direita deportado por Trump?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/09/e-justo-rir-do-comentarista-de-extrema-direita-deportado-por-trump.shtml)_
+
