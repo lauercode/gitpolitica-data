@@ -29,3 +29,6 @@
 - **[2026-09-06 14:27 UTC]** Dino questiona promessa de fim de inquérito das fake news, sem citar Fachin
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/sem-citar-fachin-dino-questiona-promessa-de-fim-de-inquerito-das-fake-news.shtml)_
 
+- **[2026-09-06 17:36 UTC]** Dino defende decisões monocráticas do STF e questiona pressão por fim de inquéritos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-defende-decisoes-monocraticas-do-stf-e-questiona-pressao-por-fim-de-inqueritos/)_
+
