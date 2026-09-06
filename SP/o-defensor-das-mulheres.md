@@ -164,3 +164,6 @@
 - **[2026-09-06 13:29 UTC]** Mulheres são filmadas dentro de banheiro de shopping em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/06/mulheres-sao-filmadas-dentro-de-banheiro-de-shopping-em-joao-pessoa.ghtml)_
 
+- **[2026-09-06 11:21 UTC]** Prêmio para mulheres e meninas cientistas abre inscrições até outubro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-para-mulheres-e-meninas-cientistas-abre-inscricoes-ate-outubro)_
+
