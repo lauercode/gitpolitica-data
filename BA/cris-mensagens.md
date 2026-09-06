@@ -248,3 +248,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-05 00:32 UTC]** Caso Master: o que pode acontecer com Moraes após supostas mensagens que revelam sua ligação com Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz0z10j4rd7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-06 18:35 UTC]** Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/06/mendonca-libera-para-plenario-do-stf-caso-de-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
