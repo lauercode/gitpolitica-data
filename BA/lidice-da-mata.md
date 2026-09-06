@@ -98,3 +98,6 @@
 - **[2026-09-04 11:00 UTC]** Vanessa da Mata se apresenta nesta sexta-feira no Festival Gastronômico de Taquaruçu; veja programação
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/vanessa-da-mata-se-apresenta-nesta-sexta-feira-no-festival-gastronomico-de-taquarucu-veja-programacao.ghtml)_
 
+- **[2026-09-06 06:00 UTC]** Expedição na mata atlântica busca microrganismos para construir banco de moléculas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/expedicao-na-mata-atlantica-busca-microrganismos-para-construir-banco-de-moleculas.shtml)_
+
