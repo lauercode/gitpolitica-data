@@ -50,3 +50,6 @@
 - **[2026-09-05 15:35 UTC]** Dono de açougue é morto a tiros ao chegar para abrir estabelecimento em Davinópolis, no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/09/05/dono-de-acougue-e-morto-a-tiros-no-proprio-estabelecimento-em-davinopolis-no-ma.ghtml)_
 
+- **[2026-09-05 23:00 UTC]** Explode no Brasil o número de fundos que podem ocultar o dono do dinheiro, como no Master e na Carbono Oculto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/explode-no-brasil-o-numero-de-fundos-que-podem-ocultar-o-dono-do-dinheiro-como-no-master-e-na-carbono-oculto.shtml)_
+
