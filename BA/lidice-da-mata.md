@@ -101,3 +101,6 @@
 - **[2026-09-06 06:00 UTC]** Expedição na mata atlântica busca microrganismos para construir banco de moléculas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/expedicao-na-mata-atlantica-busca-microrganismos-para-construir-banco-de-moleculas.shtml)_
 
+- **[2026-09-06 05:00 UTC]** SOS Mata Atlântica completa 40 anos tentando reacender mobilização popular
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/sos-mata-atlantica-completa-40-anos-tentando-reacender-mobilizacao-popular.shtml)_
+
