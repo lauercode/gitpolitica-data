@@ -335,3 +335,6 @@
 - **[2026-09-06 09:00 UTC]** Da cozinha de casa, confeiteira do Acre fatura R$ 1,5 mil com morango cravejado: 'Clientela aumentou'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/da-cozinha-de-casa-confeiteira-do-acre-fatura-r-15-mil-com-morango-cravejado-clientela-aumentou.ghtml)_
 
+- **[2026-09-06 14:22 UTC]** VÍDEOS: Amazônia Agro - Acre deste domingo, 6 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-amazonia-agro-acre-deste-domingo-6-de-setembro-de-2026.ghtml)_
+
