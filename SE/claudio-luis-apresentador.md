@@ -14,3 +14,6 @@
 - **[2026-09-03 12:43 UTC]** Ex-apresentador de TV preso por receber fotos íntimas de bebês é indiciado por estupro, assédio e extorsão contra funcionários, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/03/ex-apresentador-indiciado.ghtml)_
 
+- **[2026-09-06 20:21 UTC]** Lázaro Ramos fala sobre voltar a ser apresentador na Globo: 'Só precisei me divertir'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/lazaro-ramos-fala-sobre-voltar-a-ser-apresentador-na-globo-so-precisei-me-divertir.shtml)_
+
