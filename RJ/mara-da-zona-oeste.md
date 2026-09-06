@@ -38,3 +38,6 @@
 - **[2026-09-05 12:30 UTC]** No céu das lavouras: drones transformam o agro do Oeste do Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/fag-centro-universitario-city-farm/noticia/2026/09/05/no-ceu-das-lavouras-drones-transformam-o-agro-do-oeste-do-parana.ghtml)_
 
+- **[2026-09-06 16:03 UTC]** Adolescente morre afogado em balneário de Santa Luzia d'Oeste, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/06/adolescente-morre-afogado-em-balneario-de-santa-luzia-doeste-ro.ghtml)_
+
