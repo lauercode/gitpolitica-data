@@ -35,3 +35,6 @@
 - **[2026-09-05 19:57 UTC]** Após motim, familiares de PMs presos denunciam ameaças e pedem transferência de unidade no Compaj
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/apos-motim-familiares-de-pms-presos-denunciam-ameacas-e-pedem-transferencia-de-unidade-no-compaj.ghtml)_
 
+- **[2026-09-06 23:26 UTC]** Doação de órgãos começa com conversa em família, diz chefe da Unidade de Transplantes do HU-UFMA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/06/doacao-de-orgaos-comeca-com-conversa-em-familia-diz-chefe-da-unidade-de-transplantes-do-hu-ufma.ghtml)_
+
