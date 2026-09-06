@@ -50,3 +50,6 @@
 - **[2026-09-04 10:31 UTC]** Homem é preso suspeito de maus-tratos contra cachorro em Queimadas
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/homem-e-preso-suspeito-de-maus-tratos-contra-cachorro-em-queimadas.ghtml)_
 
+- **[2026-09-06 17:38 UTC]** VÍDEO: cachorro cai na galeria de macrodrenagem da praia alargada de Balneário Camboriú e resgate mobiliza bombeiros
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/video-cachorro-cai-galeria-macrodrenagem-praia-alargada-balneario-camboriu.ghtml)_
+
