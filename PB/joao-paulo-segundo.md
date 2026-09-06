@@ -191,3 +191,6 @@
 - **[2026-09-04 18:38 UTC]** Alcolumbre considera votar fim da 6x1 antes do segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/alcolumbre-considera-votar-fim-da-6x1-antes-do-segundo-turno.shtml)_
 
+- **[2026-09-06 05:00 UTC]** RS é o estado com mais indecisos na eleição para presidente, segundo a Quaest
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/06/rs-e-o-estado-com-mais-indecisos-na-eleicao-para-presidente-segundo-a-quaest.ghtml)_
+
