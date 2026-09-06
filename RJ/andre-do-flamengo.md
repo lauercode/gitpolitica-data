@@ -26,3 +26,6 @@
 - **[2026-09-05 15:00 UTC]** TV Brasil transmite Ferroviária e Flamengo pelo Brasileirão Feminino
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/tv-brasil-transmite-ferroviaria-e-flamengo-pelo-brasileirao-feminino)_
 
+- **[2026-09-05 19:16 UTC]** Brasileiro Feminino: Flamengo encara São Paulo em uma das semifinais
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-flamengo-encara-sao-paulo-em-uma-das-semifinais)_
+
