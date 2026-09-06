@@ -29,3 +29,6 @@
 - **[2026-09-06 14:18 UTC]** Aprovação de Trump cai para 33%, menor nível já registrado em pesquisa do Financial Times
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aprovacao-de-trump-cai-para-33-menor-nivel-ja-registrado-em-pesquisa-do-financial-times.shtml)_
 
+- **[2026-09-06 17:36 UTC]** Idosos podem ter menor oxigenação cerebral e muscular em exercícios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/idosos-podem-ter-menor-oxigenacao-cerebral-e-muscular-em-exercicios.shtml)_
+
