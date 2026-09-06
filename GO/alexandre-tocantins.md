@@ -110,3 +110,6 @@
 - **[2026-09-05 13:14 UTC]** Ex-secretário de Saúde do Tocantins segue internado após acidente que matou esposa na TO-070
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/ex-secretario-de-saude-do-tocantins-segue-internado-apos-acidente-que-matou-esposa-na-to-070.ghtml)_
 
+- **[2026-09-06 16:10 UTC]** Tremor de terra de magnitude 3,7 é registrado na região sul do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/tremor-de-terra-de-magnitude-37-e-registrado-na-regiao-sul-do-tocantins.ghtml)_
+
