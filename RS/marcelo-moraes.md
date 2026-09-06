@@ -1016,3 +1016,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 20:47 UTC]** Defesa de Tagliaferro pede desagravo à OAB e acusa Moraes de violar prerrogativas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-tagliaferro-pede-desagravo-a-oab-e-acusa-moraes-de-violar-prerrogativas/)_
 
+- **[2026-09-06 23:05 UTC]** “Fora, Moraes” leva manifestantes às ruas para pressionar Senado e STF no 7 de Setembro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fora-moraes-leva-manifestantes-as-ruas-para-pressionar-senado-e-stf-no-7-de-setembro/)_
+
