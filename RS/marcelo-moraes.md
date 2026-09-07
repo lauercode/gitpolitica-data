@@ -1028,3 +1028,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 06:00 UTC]** Crítico do STF, jurista pede saída de Alexandre de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/critico-do-stf-jurista-pede-saida-de-alexandre-de-moraes.shtml)_
 
+- **[2026-09-07 12:44 UTC]** Ato em Brasília reúne manifestantes em defesa do impeachment de Moraes e contra Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-em-brasilia-reune-manifestantes-em-defesa-do-impeachment-de-moraes-e-contra-alcolumbre/)_
+
