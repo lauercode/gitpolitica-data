@@ -59,3 +59,6 @@
 - **[2026-09-06 20:04 UTC]** Frio atinge Sul e Sudeste, e neva na Serra Gaúcha; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/neva-na-serra-gaucha-neste-domingo-6-frio-tambem-atinge-o-sudeste.shtml)_
 
+- **[2026-09-07 03:00 UTC]** Semana começa com frio intenso e chance de neve na madrugada de segunda no RS; veja a previsão
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/semana-comeca-com-frio-intenso-e-chance-de-neve-na-madrugada-de-segunda-no-rs-veja-a-previsao.ghtml)_
+
