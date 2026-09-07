@@ -56,3 +56,6 @@
 - **[2026-09-04 16:57 UTC]** Suspeito de roubo de cargas morre em troca de tiros com a Polícia Civil em Itabaiana
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/suspeito-de-roubo-de-cargas-morre-em-troca-de-tiros-com-a-policia-civil-em-itabaiana.ghtml)_
 
+- **[2026-09-07 12:31 UTC]** Chacina de Pioz: jovem que denunciou troca de mensagens entre acusados relembra o crime que deixou família da PB morta na Espanha
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/chacina-de-pioz-jovem-que-denunciou-troca-de-mensagens-entre-acusados-relembra-o-crime-que-deixou-familia-da-pb-morta-na-espanha.ghtml)_
+
