@@ -389,3 +389,6 @@
 - **[2026-09-07 21:30 UTC]** O que mostra a nova pesquisa Quaest para presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-setembro-2026-2/)_
 
+- **[2026-09-07 22:22 UTC]** Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 7 de setembro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/fio-do-professor-felipe-nunes-7-de-setembro.ghtml)_
+
