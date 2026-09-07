@@ -95,3 +95,6 @@
 - **[2026-09-05 05:00 UTC]** Defesa Civil alerta para chuva forte em São Paulo neste sábado (5)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/defesa-civil-alerta-para-chuva-forte-em-sao-paulo-neste-sabado-5.shtml)_
 
+- **[2026-09-06 22:11 UTC]** João Gordo faz show no Rock in Rio para público esvaziado e sob forte chuva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/joao-gordo-faz-show-no-rock-in-rio-para-publico-esvaziado-e-sob-forte-chuva.shtml)_
+
