@@ -227,3 +227,6 @@
 - **[2026-09-07 15:53 UTC]** VÍDEOS: Jornal da Manhã Alagoas de segunda-feira, 7 de setembro de 2026
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/edicao/2026/09/07/videos-jornal-da-manha-alagoas-de-segunda-feira-7-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-07 20:09 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 7 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-7-de-setembro-de-2026.ghtml)_
+
