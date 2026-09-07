@@ -11,3 +11,6 @@
 - **[2026-09-04 12:03 UTC]** VÍDEO: Coruja resgatada com linha de pipa na asa é devolvida à natureza no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/video-coruja-resgatada-com-linha-de-pipa-na-asa-e-devolvida-a-natureza.ghtml)_
 
+- **[2026-09-07 15:03 UTC]** Turistas são assaltados por grupo armado após festa em Pipa
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/07/turistas-sao-assaltados-por-grupo-armado-apos-festa-em-pipa.ghtml)_
+
