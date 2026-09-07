@@ -41,3 +41,6 @@
 - **[2026-09-07 12:31 UTC]** Chacina de Pioz: jovem que denunciou troca de mensagens entre acusados relembra o crime que deixou família da PB morta na Espanha
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/chacina-de-pioz-jovem-que-denunciou-troca-de-mensagens-entre-acusados-relembra-o-crime-que-deixou-familia-da-pb-morta-na-espanha.ghtml)_
 
+- **[2026-09-07 16:29 UTC]** Coco de roda paraibano ganha palcos na Europa em projeto que leva cultura popular a Espanha e Portugal
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/coco-de-roda-paraibano-ganha-palcos-na-europa-em-projeto-que-leva-cultura-popular-a-espanha-e-portugal.ghtml)_
+
