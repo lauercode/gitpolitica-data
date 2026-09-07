@@ -17,3 +17,6 @@
 - **[2026-09-03 18:01 UTC]** Globo contrata Carol Gattaz, medalhista olímpica, para reforçar transmissões de vôlei
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/globo-contrata-carol-gattaz-medalhista-olimpica-para-reforcar-transmissoes-de-volei.shtml)_
 
+- **[2026-09-06 20:51 UTC]** Vôlei de praia: Brasil assegura duas vagas olímpicas para Los Angeles
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/volei-de-praia-brasil-assegura-duas-vagas-olimpicas-para-los-angeles)_
+
