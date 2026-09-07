@@ -119,3 +119,6 @@
 - **[2026-09-07 01:08 UTC]** Direita radical na Alemanha caminha para vitória estadual inédita desde a 2ª Guerra Mundial
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 07:04 UTC]** Direita radical na Alemanha tem vitória estadual inédita desde a 2ª Guerra Mundial, mas não consegue maioria para formar governo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss)_
+
