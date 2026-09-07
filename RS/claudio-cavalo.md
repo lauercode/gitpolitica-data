@@ -29,3 +29,6 @@
 - **[2026-09-06 06:00 UTC]** 'Cheia de atitude': Quem é a menina de 12 anos que controlou cavalo desgovernado no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/quem-e-a-menina-de-12-anos-que-controlou-cavalo-desgovernado-no-rs.ghtml)_
 
+- **[2026-09-07 11:50 UTC]** Adolescente de 16 anos morre após cair de cavalo durante 'pega de boi' em Poço Redondo
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/adolescente-de-16-anos-morre-apos-cair-de-cavalo-durante-pega-de-boi-em-poco-redondo.ghtml)_
+
