@@ -29,3 +29,6 @@
 - **[2026-09-07 11:31 UTC]** Frio intenso no RS: após neve, estado tem amanhecer congelante com mínima de -3,8°C
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/frio-neve-chuva-congelada-serra-rs.ghtml)_
 
+- **[2026-09-07 07:00 UTC]** 'Sensação inexplicável', diz turista que cavalgou em meio à neve no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/sensacao-inexplicavel-diz-turista-que-cavalgou-em-meio-a-neve-no-rs.ghtml)_
+
