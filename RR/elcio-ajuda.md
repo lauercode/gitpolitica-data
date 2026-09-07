@@ -77,3 +77,6 @@
 - **[2026-09-06 20:52 UTC]** Botafogo segura Palmeiras e ajuda Flamengo, novo líder do Brasileirão
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/botafogo-segura-palmeiras-e-ajuda-flamengo-novo-lider-do-brasileirao)_
 
+- **[2026-09-07 11:50 UTC]** Moradores pedem ajuda para combater incêndio que ameaça casas e plantações em Manacapuru, no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/07/moradores-pedem-ajuda-para-combater-incendio-que-ameaca-casas-e-plantacoes-em-manacapuru-no-am.ghtml)_
+
