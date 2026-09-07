@@ -50,3 +50,6 @@
 - **[2026-09-06 22:15 UTC]** Palmeiras tropeça, Flamengo vence e assume a liderança do Brasileiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-tropeca-flamengo-vence-e-assume-a-lideranca-do-brasileiro.shtml)_
 
+- **[2026-09-07 21:15 UTC]** Pancadaria entre torcedores de Remo e Flamengo no Mangueirão termina com 11 pessoas na delegacia
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/confusao-entre-torcedores-de-remo-e-flamengo-no-mangueirao-termina-com-11-pessoas-na-delegacia.ghtml)_
+
