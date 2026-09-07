@@ -1085,3 +1085,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 19:50 UTC]** Crise entre Moraes e Mendonça põe legitimidade do STF em risco em meio a eleição acirrada, diz cientista política
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 19:33 UTC]** STF: Fachin espera manifestações de Moraes e Mendonça até sexta
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/stf-fachin-espera-manifestacoes-de-moraes-e-mendonca-ate-sexta)_
+
