@@ -899,3 +899,6 @@
 - **[2026-09-06 17:20 UTC]** Flávio cobra voto de Cármen Lúcia para abertura de investigação contra Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-cobra-voto-de-carmen-lucia-para-abertura-de-investigacao-contra-alexandre-de-moraes/)_
 
+- **[2026-09-06 23:00 UTC]** Flávio Bolsonaro bate recorde de desempenho digital mesmo sob pressão do Master, diz Datrix
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/flavio-bolsonaro-bate-recorde-de-desempenho-digital-mesmo-sob-pressao-do-master-diz-datrix.shtml)_
+
