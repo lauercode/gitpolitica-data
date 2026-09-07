@@ -59,3 +59,6 @@
 - **[2026-09-06 16:03 UTC]** Adolescente morre afogado em balneário de Santa Luzia d'Oeste, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/06/adolescente-morre-afogado-em-balneario-de-santa-luzia-doeste-ro.ghtml)_
 
+- **[2026-09-07 12:00 UTC]** Mulher é morta a facadas em Santa Inês; suspeito diz que houve discussão por R$ 10
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/07/mulher-e-morta-a-facadas-em-santa-ines-suspeito-diz-que-houve-discussao-por-r-10.ghtml)_
+
