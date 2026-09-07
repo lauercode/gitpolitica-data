@@ -44,3 +44,6 @@
 - **[2026-09-05 13:50 UTC]** Irmãos Gallagher faltam à coletiva de imprensa de filme do Oasis em Veneza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/irmaos-gallagher-faltam-a-coletiva-de-imprensa-de-filme-do-oasis-em-veneza.shtml)_
 
+- **[2026-09-07 11:26 UTC]** Irmãos são encontrados mortos a tiros ao lado de moto na zona rural de Aldeias Altas
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/07/dois-irmaos-sao-encontrados-mortos-a-tiros-ao-lado-de-moto-na-zona-rural-de-aldeias-altas.ghtml)_
+
