@@ -38,3 +38,6 @@
 - **[2026-09-06 21:00 UTC]** Vídeos mostram briga entre torcedores de Remo e Flamengo momentos antes do jogo no Mangueirão, em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/06/videos-mostram-briga-entre-torcedores-de-remo-e-flamengo-antes-do-jogo-no-mangueirao.ghtml)_
 
+- **[2026-09-06 20:52 UTC]** Botafogo segura Palmeiras e ajuda Flamengo, novo líder do Brasileirão
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/botafogo-segura-palmeiras-e-ajuda-flamengo-novo-lider-do-brasileirao)_
+
