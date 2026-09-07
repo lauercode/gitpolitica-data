@@ -44,3 +44,6 @@
 - **[2026-09-06 18:33 UTC]** Flamengo supera Remo em Belém e vira líder provisório do Brasileirão
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flamengo-supera-remo-em-belem-e-vira-lider-provisorio-do-brasileirao)_
 
+- **[2026-09-06 20:28 UTC]** Palmeiras tropeça contra o Botafogo e perde a liderança do Brasileiro para o Flamengo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-empata-com-botafogo-e-ve-flamengo-assumir-a-ponta-do-brasileiro.shtml)_
+
