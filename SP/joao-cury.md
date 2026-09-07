@@ -206,3 +206,6 @@
 - **[2026-09-05 22:00 UTC]** Com alta de Cury, Datafolha traz más notícias para Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/com-alta-de-cury-datafolha-traz-mas-noticias-para-lula.shtml)_
 
+- **[2026-09-07 14:26 UTC]** Cury faz ato em Copacabana, promete financiar 10 milhões de microempresas em favelas e manda ‘abraço muito especial’ a Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/07/augusto-cury-faz-ato-na-praia-de-copacabana.ghtml)_
+
