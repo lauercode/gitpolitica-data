@@ -38,3 +38,6 @@
 - **[2026-09-05 10:00 UTC]** Pesquisa da AWS diz que 33% das empresas confiam na capacidade de medir o retorno da IA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/pesquisa-da-aws-diz-que-33-das-empresas-confiam-na-capacidade-de-medir-o-retorno-da-ia.shtml)_
 
+- **[2026-09-07 15:30 UTC]** Tive que ir relembrando como fazer, diz Paulo Vilhena sobre retorno às novelas após oito anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/tive-que-ir-relembrando-como-fazer-diz-paulo-vilhena-sobre-retorno-as-novelas-apos-oito-anos.shtml)_
+
