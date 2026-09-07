@@ -1046,3 +1046,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 10:51 UTC]** Manifestantes em Brasília pedem saída de Moraes e Lula no 7 de Setembro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/manifestantes-em-brasilia-pedem-saida-de-moraes-e-lula-no-7-de-setembro.shtml)_
 
+- **[2026-09-07 17:54 UTC]** OAB nacional defende apuração rigorosa e regionais pressionam por afastamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-nacional-defende-apuracao-rigorosa-e-regionais-pressionam-por-afastamento-de-moraes/)_
+
