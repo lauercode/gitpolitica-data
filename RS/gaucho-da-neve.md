@@ -23,3 +23,6 @@
 - **[2026-09-07 03:00 UTC]** Semana começa com frio intenso e chance de neve na madrugada de segunda no RS; veja a previsão
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/semana-comeca-com-frio-intenso-e-chance-de-neve-na-madrugada-de-segunda-no-rs-veja-a-previsao.ghtml)_
 
+- **[2026-09-07 07:00 UTC]** ‘Sensação inexplicável’, diz turista que cavalgou em meio à neve no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/sensacao-inexplicavel-diz-turista-que-cavalgou-em-meio-a-neve-no-rs.ghtml)_
+
