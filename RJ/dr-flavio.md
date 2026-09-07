@@ -926,3 +926,6 @@
 - **[2026-09-07 20:56 UTC]** No ápice, ato com Flávio Bolsonaro reúne 28,5 mil pessoas na Paulista, aponta metodologia da USP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/no-apice-ato-com-flavio-bolsonaro-reune-285-mil-pessoas-na-paulista-aponta-metodologia-da-usp.ghtml)_
 
+- **[2026-09-07 16:58 UTC]** Flávio Bolsonaro chama 8 de janeiro de farsa, diz que STF não é Alexandre de Moraes e que 'povo quer mudança' em ato na Paulista
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/flavio-bolsonaro-avenida-paulista.ghtml)_
+
