@@ -749,3 +749,6 @@
 - **[2026-09-07 20:56 UTC]** No ápice, ato com Flávio Bolsonaro reúne 28,5 mil pessoas na Paulista, aponta metodologia da USP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/no-apice-ato-com-flavio-bolsonaro-reune-285-mil-pessoas-na-paulista-aponta-metodologia-da-usp.ghtml)_
 
+- **[2026-09-07 19:19 UTC]** Campanha de Lula cita tarifaço, defende soberania e critica família Bolsonaro em nova propaganda eleitoral na TV
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/07/campanha-lula-propaganda-eleitoral-tv.ghtml)_
+
