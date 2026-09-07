@@ -1025,3 +1025,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 03:06 UTC]** Brasileiros protestam pelo impeachment de Moraes neste 7 de Setembro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/brasileiros-protestam-pelo-impeachment-de-moraes-neste-7-de-setembro/)_
 
+- **[2026-09-07 06:00 UTC]** Crítico do STF, jurista pede saída de Alexandre de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/critico-do-stf-jurista-pede-saida-de-alexandre-de-moraes.shtml)_
+
