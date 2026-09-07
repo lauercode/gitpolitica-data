@@ -1076,3 +1076,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 19:06 UTC]** Damares atribui a Moraes ausência de Michelle em atos do 7 de Setembro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-atribui-a-moraes-ausencia-de-michelle-em-atos-do-7-de-setembro/)_
 
+- **[2026-09-07 18:42 UTC]** Moraes se declara impedido de votar recurso sobre liberdade de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-se-declara-impedido-de-votar-recurso-sobre-liberdade-de-bolsonaro/)_
+
