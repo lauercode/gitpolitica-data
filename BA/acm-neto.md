@@ -17,3 +17,6 @@
 - **[2026-09-03 21:26 UTC]** André Mendonça trata caso de Lulinha de forma diferente do de ACM Neto, diz PF em relatório a Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/andre-mendonca-trata-caso-de-lulinha-de-forma-diferente-do-de-acm-neto-diz-pf-em-relatorio-a-moraes.shtml)_
 
+- **[2026-09-07 11:16 UTC]** Atos do 7 de Setembro em Salvador têm ACM Neto e Flávio Bolsonaro na mesma bandeira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/atos-do-7-de-setembro-em-salvador-tem-acm-neto-e-flavio-bolsonaro-na-mesma-bandeira.shtml)_
+
