@@ -17,3 +17,6 @@
 - **[2026-09-04 19:37 UTC]** Allyson apresenta propostas para a saúde durante visita a hospital em Mossoró
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/04/alysson-apresenta-propostas-para-a-saude-durante-visita-a-hospital-em-mossoro.ghtml)_
 
+- **[2026-09-07 21:26 UTC]** Allyson Bezerra faz carreata na Zona Norte de Natal e promete fortalecer Hospital Santa Catarina
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/07/allyson-bezerra-faz-carreata-na-zona-norte-de-natal-e-promete-fortalecer-hospital-santa-catarina.ghtml)_
+
