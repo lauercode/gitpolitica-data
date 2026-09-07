@@ -35,3 +35,6 @@
 - **[2026-09-07 12:46 UTC]** Meteorologistas confirmam neve em três cidades da Serra Gaúcha e explicam diferença para chuva congelada de Gramado
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/neve-cidades-serra-rio-grande-sul-previsao-tempo.ghtml)_
 
+- **[2026-09-07 14:24 UTC]** Santa Catarina registra 1ª neve do inverno de 2026
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/neve-santa-catarina-inverno-2026.ghtml)_
+
