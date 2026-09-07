@@ -74,3 +74,6 @@
 - **[2026-09-06 01:16 UTC]** Piloto resgata colega de carro em chamas após acidente em prova no China GT
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/piloto-resgata-colega-de-carro-em-chamas-apos-acidente-em-prova-no-china-gt.shtml)_
 
+- **[2026-09-07 06:00 UTC]** China se esforça para promover robôs humanoides, mas demanda real ainda é pequena
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/china-se-esforca-para-promover-robos-humanoides-mas-demanda-real-ainda-e-pequena.shtml)_
+
