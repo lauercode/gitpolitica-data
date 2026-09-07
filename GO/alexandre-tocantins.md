@@ -116,3 +116,6 @@
 - **[2026-09-07 17:22 UTC]** Barco com passageiros afunda no rio Tocantins, em Marabá, no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/barco-com-passageiros-afunda-no-rio-tocantins-em-maraba-no-para.ghtml)_
 
+- **[2026-09-07 14:32 UTC]** Ex-secretário da Saúde do Tocantins é transferido para hospital particular em Brasília
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/ex-secretario-da-saude-do-tocantins-e-transferido-para-hospital-particular-em-brasilia.ghtml)_
+
