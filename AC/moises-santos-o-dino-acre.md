@@ -353,3 +353,6 @@
 - **[2026-09-07 14:05 UTC]** Homem é preso suspeito de abuso sexual após atrair menina de 5 anos com picolé no Acre; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/homem-e-preso-suspeito-de-abuso-sexual-apos-atrair-menina-de-5-anos-com-picole-no-acre.ghtml)_
 
+- **[2026-09-07 13:44 UTC]** Agricultor atropelado por advogado em saída de feira agropecuária recebe alta no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/agricultor-atropelado-por-advogado-em-saida-de-feira-agropecuaria-recebe-alta-no-acre.ghtml)_
+
