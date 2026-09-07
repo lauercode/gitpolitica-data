@@ -125,3 +125,6 @@
 - **[2026-09-07 16:06 UTC]** Duas pessoas morrem após caminhão atingir veículos que pararam para ajudar motociclista caído na pista em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/07/dois-morrem-acidente-linha-verde-curitiba.ghtml)_
 
+- **[2026-09-07 18:09 UTC]** Motociclista perde controle e sofre acidente em rodovia de acesso a Mazagão, no Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/motociclista-perde-controle-e-sofre-acidente-em-rodovia-de-acesso-a-mazagao-no-amapa.ghtml)_
+
