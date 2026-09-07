@@ -86,3 +86,6 @@
 - **[2026-09-06 23:00 UTC]** Flávio Bolsonaro bate recorde de desempenho digital mesmo sob pressão do Master, diz Datrix
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/flavio-bolsonaro-bate-recorde-de-desempenho-digital-mesmo-sob-pressao-do-master-diz-datrix.shtml)_
 
+- **[2026-09-07 07:31 UTC]** Assédio eleitoral: trabalhador pode denunciar pressão por voto
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/assedio-eleitoral-trabalhador-pode-denunciar-pressao-por-voto)_
+
