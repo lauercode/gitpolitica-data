@@ -1052,3 +1052,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 17:14 UTC]** Direita realiza atos em ao menos 15 cidades pelo impeachment de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/direita-realiza-atos-em-ao-menos-15-cidades-pelo-impeachment-de-moraes/)_
 
+- **[2026-09-07 15:26 UTC]** Zema exibe painel com Moraes atrás das grades em ato na Paulista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/zema-exibe-painel-com-moraes-atras-das-grades-em-ato-na-paulista/)_
+
