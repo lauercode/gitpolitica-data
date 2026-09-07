@@ -92,3 +92,6 @@
 - **[2026-09-06 16:10 UTC]** Tremor de terra de magnitude 3,7 é registrado na região sul do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/tremor-de-terra-de-magnitude-37-e-registrado-na-regiao-sul-do-tocantins.ghtml)_
 
+- **[2026-09-07 20:00 UTC]** Grito dos Excluídos pede direito à terra, moradia e fim do feminicídio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/grito-dos-excluidos-pede-direito-terra-moradia-e-fim-do-feminicidio)_
+
