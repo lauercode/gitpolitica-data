@@ -185,3 +185,6 @@
 - **[2026-09-06 21:01 UTC]** Emprego em Sergipe: plataforma digital do NAT oferta vagas para diversas áreas
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/06/emprego-em-sergipe-plataforma-digital-do-nat-oferta-vagas-para-diversas-areas.ghtml)_
 
+- **[2026-09-07 17:33 UTC]** Sergipe tem maior presença feminina entre candidatos no Brasil nas Eleições 2026
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/07/sergipe-tem-maior-presenca-feminina-entre-candidatos-no-brasil-nas-eleicoes-2026.ghtml)_
+
