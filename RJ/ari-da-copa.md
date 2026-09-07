@@ -98,3 +98,6 @@
 - **[2026-09-05 16:40 UTC]** Brasil leva ouro na Copa do Mundo de paratriatlo e no parabadminton
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-leva-ouro-na-copa-do-mundo-de-paratriatlo-e-no-parabadminton)_
 
+- **[2026-09-07 06:31 UTC]** Sete de setembro: soberania, Copa e combate ao feminicídio serão temas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/sete-de-setembro-soberania-copa-e-combate-ao-feminicidio-serao-temas)_
+
