@@ -176,3 +176,6 @@
 - **[2026-09-07 10:29 UTC]** Lula participa de 7 de setembro com Motta, Alcolumbre e Fachin; evento terá recados sobre soberania e violência contra a mulher
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/lula-participa-de-desfile-de-7-de-setembro-com-recados-a-soberania-nacional-e-ao-enfrentamento-a-violencia-contra-mulheres.ghtml)_
 
+- **[2026-09-07 12:44 UTC]** Ato em Brasília reúne manifestantes em defesa do impeachment de Moraes e contra Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-em-brasilia-reune-manifestantes-em-defesa-do-impeachment-de-moraes-e-contra-alcolumbre/)_
+
