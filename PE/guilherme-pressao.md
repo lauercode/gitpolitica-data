@@ -83,3 +83,6 @@
 - **[2026-09-06 18:18 UTC]** Flamengo martela até superar o Remo e coloca pressão no Palmeiras
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-martela-ate-superar-o-remo-e-coloca-pressao-no-palmeiras.shtml)_
 
+- **[2026-09-06 23:00 UTC]** Flávio Bolsonaro bate recorde de desempenho digital mesmo sob pressão do Master, diz Datrix
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/flavio-bolsonaro-bate-recorde-de-desempenho-digital-mesmo-sob-pressao-do-master-diz-datrix.shtml)_
+
