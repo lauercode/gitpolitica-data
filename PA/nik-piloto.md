@@ -50,3 +50,6 @@
 - **[2026-09-07 16:42 UTC]** Piloto e influenciador Lito Sousa ganha homenagem em parque temático de Gramado
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/piloto-e-influenciador-lito-sousa-ganha-homenagem-em-parque-tematico-de-gramado.ghtml)_
 
+- **[2026-09-07 18:32 UTC]** Homem morre em acidente de paraglider no mesmo local em que piloto de asa-delta caiu há duas semanas no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/acidente-paraglider-sapiranga.ghtml)_
+
