@@ -950,3 +950,6 @@
 - **[2026-09-07 22:01 UTC]** Quaest: Flávio Bolsonaro tem 55% de rejeição e Lula, 53%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-flavio-bolsonaro-tem-55percent-de-rejeicao-e-lula-53percent.ghtml)_
 
+- **[2026-09-07 19:36 UTC]** Flávio e a moralização do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/flavio-e-a-moralizacao-do-stf.shtml)_
+
