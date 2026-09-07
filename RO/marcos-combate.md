@@ -77,3 +77,6 @@
 - **[2026-09-06 21:26 UTC]** Genética de morcegos pode revolucionar combate ao câncer
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/genetica-de-morcegos-pode-revolucionar-combate-ao-cancer.shtml)_
 
+- **[2026-09-07 06:31 UTC]** Sete de setembro: soberania, Copa e combate ao feminicídio serão temas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/sete-de-setembro-soberania-copa-e-combate-ao-feminicidio-serao-temas)_
+
