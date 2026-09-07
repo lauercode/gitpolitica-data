@@ -62,3 +62,6 @@
 - **[2026-09-05 16:10 UTC]** Justiça condena pais a indenizar filho expulso por orientação sexual
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-condena-pais-indenizar-filho-expulso-por-orientacao-sexual)_
 
+- **[2026-09-07 16:58 UTC]** Socorrista filmada acalmando pais que perderam filha no Paraná considera que atitude devia 'ser o comum' entre as pessoas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/07/socorristas-video-acidente-pais-parana.ghtml)_
+
