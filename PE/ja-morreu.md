@@ -149,3 +149,6 @@
 - **[2026-09-06 14:32 UTC]** Ex-secretário de Saúde do TO chega ao 3º dia na UTI após acidente de carro em que a esposa morreu
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/ex-secretario-de-saude-do-to-chega-ao-3o-dia-na-uti-apos-acidente-de-carro-em-que-a-esposa-morreu.ghtml)_
 
+- **[2026-09-07 20:02 UTC]** ‘Estava feliz e realizado’, diz professor sobre aluno soldado da PM do AP que morreu em acidente
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/estava-feliz-e-realizado-diz-professor-sobre-aluno-soldado-da-pm-do-ap-que-morreu-em-acidente.ghtml)_
+
