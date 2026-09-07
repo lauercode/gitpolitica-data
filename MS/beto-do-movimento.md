@@ -35,3 +35,6 @@
 - **[2026-09-05 13:12 UTC]** Movimento contra violência sexual lança site para facilitar denúncias
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/movimento-contra-violencia-sexual-lanca-site-para-facilitar-denuncias)_
 
+- **[2026-09-07 11:55 UTC]** Adolescente salta de carro em movimento e escapa de suposto sequestro no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/adolescente-salta-de-carro-em-movimento-e-escapa-de-suposto-sequestro-no-rj.shtml)_
+
