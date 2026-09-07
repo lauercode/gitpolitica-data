@@ -182,3 +182,6 @@
 - **[2026-09-07 10:29 UTC]** Lula participa de 7 de setembro com Fachin, Alcolumbre e Motta; evento tem soberania como tema
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/lula-participa-de-desfile-de-7-de-setembro-com-recados-a-soberania-nacional-e-ao-enfrentamento-a-violencia-contra-mulheres.ghtml)_
 
+- **[2026-09-07 09:56 UTC]** Lula reúne Fachin, Alcolumbre e Motta em 7 de Setembro com gritos do público pelo fim da escala 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-reune-fachin-alcolumbre-e-motta-em-7-de-setembro-com-gritos-do-publico-pelo-fim-da-escala-6x1.shtml)_
+
