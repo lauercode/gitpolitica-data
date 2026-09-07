@@ -35,3 +35,6 @@
 - **[2026-09-05 23:51 UTC]** Após acidente grave, bebê de 3 meses é levado para hospital em helicóptero da PRF
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/bebe-ferido-acidente-resgate-helicoptero-rs.ghtml)_
 
+- **[2026-09-07 14:34 UTC]** Idoso é resgatado em estado grave após entrar no mar da Praia do Seixas, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/idoso-e-resgatado-em-estado-grave-apos-entrar-no-mar-da-praia-do-seixas-em-joao-pessoa.ghtml)_
+
