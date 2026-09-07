@@ -29,3 +29,6 @@
 - **[2026-09-05 18:51 UTC]** Bahia abre 26ª rodada do Brasileirão com triunfo sobre o Bragantino
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/bahia-abre-26a-rodada-do-brasileirao-com-triunfo-sobre-o-bragantino)_
 
+- **[2026-09-07 16:53 UTC]** Brasileirão encerra 26ª rodada nesta segunda com Vitória e Grêmio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/brasileirao-encerra-26a-rodada-nesta-segunda-com-vitoria-e-gremio)_
+
