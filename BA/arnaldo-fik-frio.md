@@ -74,3 +74,6 @@
 - **[2026-09-07 10:21 UTC]** Feriado começa com frio, geada e temperaturas negativas na Serra de SC; VÍDEO
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/gelou-feriado-frio-temperaturas-negativas-serra-santa-catarina.ghtml)_
 
+- **[2026-09-07 18:06 UTC]** Desfiles de 7 de Setembro reúnem milhares de pessoas no RS apesar do frio
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/desfiles-de-7-de-setembro-reunem-milhares-de-pessoas-no-rs-apesar-do-frio.ghtml)_
+
