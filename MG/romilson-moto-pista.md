@@ -77,3 +77,6 @@
 - **[2026-09-06 22:27 UTC]** Avião de carga da Amazon deixa pelo menos 5 mortos ao sair da pista em aeroporto de Miami
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz0z9m31kmyo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 16:06 UTC]** Duas pessoas morrem após caminhão atingir veículos que pararam para ajudar motociclista caído na pista em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/07/dois-morrem-acidente-linha-verde-curitiba.ghtml)_
+
