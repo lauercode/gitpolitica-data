@@ -83,3 +83,6 @@
 - **[2026-09-04 17:50 UTC]** BR-163 terá obras de modernização para ampliar segurança e fluidez
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/via-campo-via-campo-conectando-caminhos/noticia/2026/09/04/br-163-tera-obras-de-modernizacao-para-ampliar-seguranca-e-fluidez.ghtml)_
 
+- **[2026-09-06 22:01 UTC]** Bienal do Livro tem domingo marcado por filas, lotação e debate sobre obras eróticas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/bienal-do-livro-tem-domingo-marcado-por-filas-lotacao-e-debate-sobre-obras-eroticas.shtml)_
+
