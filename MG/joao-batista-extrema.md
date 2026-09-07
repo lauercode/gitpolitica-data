@@ -59,3 +59,6 @@
 - **[2026-09-07 18:30 UTC]** João Gabriel de Lima lança livro sobre extrema direita em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/joao-gabriel-de-lima-lanca-livro-sobre-extrema-direita-em-sao-paulo.shtml)_
 
+- **[2026-09-07 18:05 UTC]** Partido nanico e difícil de rotular é peça-chave para extrema direita na Alemanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/partido-nanico-e-dificil-de-rotular-e-peca-chave-para-extrema-direita-na-alemanha.shtml)_
+
