@@ -47,3 +47,6 @@
 - **[2026-09-05 15:26 UTC]** Dário Barbosa participa de reunião com apoiadores em Natal e defende geração de emprego e renda
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/05/dario-barbosa-participa-de-reuniao-com-apoiadores-em-natal-e-defende-geracao-de-emprego-e-renda.ghtml)_
 
+- **[2026-09-07 05:00 UTC]** Aos 30 anos, geração acompanhada desde o nascimento tem alta da obesidade e dos transtornos mentais comuns, diz pesquisa no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/aos-30-anos-geracao-acompanhada-desde-o-nascimento-tem-alta-da-obesidade-e-dos-transtornos-mentais-comuns-diz-pesquisa-no-rs.ghtml)_
+
