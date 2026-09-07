@@ -203,3 +203,6 @@
 - **[2026-09-07 14:27 UTC]** Trump cogita rebatizar Novo México de Nova América e provoca reação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-cogita-rebatizar-novo-mexico-de-nova-america-e-provoca-reacao.shtml)_
 
+- **[2026-09-07 17:26 UTC]** Trump diz que canadense Bombardier só poderá vender nos EUA se fabricar no país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-diz-que-canadense-bombardier-so-podera-vender-nos-eua-se-fabricar-no-pais.shtml)_
+
