@@ -917,3 +917,6 @@
 - **[2026-09-07 10:00 UTC]** Lula foca controle da polícia, e Flávio Bolsonaro promete redução da maioridade e castração química
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/lula-foca-no-controle-da-policia-e-flavio-bolsonaro-promete-reducao-da-maioridade-e-castracao-quimica.shtml)_
 
+- **[2026-09-07 21:01 UTC]** Quaest, 2º turno: Lula, 41%; Flávio Bolsonaro, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-2-turno-7-de-setembro.ghtml)_
+
