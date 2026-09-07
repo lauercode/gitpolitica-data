@@ -32,3 +32,6 @@
 - **[2026-09-06 19:36 UTC]** Donald Trump escurece o cabelo e novo visual vira piada nas redes sociais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/donald-trump-escurece-o-cabelo-e-novo-visual-vira-piada-nas-redes-sociais.shtml)_
 
+- **[2026-09-07 12:30 UTC]** Entenda por que seu cabelo quebra e como fortalecer os fios
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/09/07/entenda-por-que-seu-cabelo-quebra-e-como-fortalecer-os-fios.ghtml)_
+
