@@ -56,3 +56,6 @@
 - **[2026-09-06 20:04 UTC]** Neva na Serra Gaúcha neste domingo (6); frio também atinge o Sudeste
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/neva-na-serra-gaucha-neste-domingo-6-frio-tambem-atinge-o-sudeste.shtml)_
 
+- **[2026-09-06 20:04 UTC]** Frio atinge Sul e Sudeste, e neva na Serra Gaúcha; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/neva-na-serra-gaucha-neste-domingo-6-frio-tambem-atinge-o-sudeste.shtml)_
+
