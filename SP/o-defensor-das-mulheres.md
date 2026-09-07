@@ -173,3 +173,6 @@
 - **[2026-09-07 04:00 UTC]** Organizações estão pagando mulheres negras para viajar e descansar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/organizacoes-estao-pagando-mulheres-negras-para-viajar-e-descansar.shtml)_
 
+- **[2026-09-07 04:00 UTC]** Mais homens brancos e menos mulheres negras estão entre jovens que disputam Legislativo em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mais-homens-brancos-e-menos-mulheres-negras-estao-entre-jovens-que-disputam-legislativo-em-2026.shtml)_
+
