@@ -68,3 +68,6 @@
 - **[2026-09-07 10:38 UTC]** Frio marca início do feriado de 7 de Setembro no Paraná, com temperaturas abaixo de 0°C, segundo o Simepar; veja a previsão
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/07/frio-feriado-parana-tempo.ghtml)_
 
+- **[2026-09-07 11:31 UTC]** Frio intenso no RS: após neve, estado tem amanhecer congelante com mínima de -3,8°C
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/frio-neve-chuva-congelada-serra-rs.ghtml)_
+
