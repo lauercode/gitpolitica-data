@@ -17,3 +17,6 @@
 - **[2026-09-04 14:20 UTC]** Dois homens são presos suspeitos de envolvimento em ataque a capitão da PM em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/04/dois-homens-sao-presos-suspeitos-de-envolvimento-em-ataque-a-capitao-da-pm-em-manaus.ghtml)_
 
+- **[2026-09-07 20:53 UTC]** Democrata inscreve nova chapa para disputar o governo do TO com Siqueira Campos Jr. e Capitão Osmar
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/07/democrata-inscreve-nova-chapa-para-disputar-o-governo-do-to-com-siqueira-campos-jr-e-capitao-osmar.ghtml)_
+
