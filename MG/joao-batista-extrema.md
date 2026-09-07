@@ -62,3 +62,6 @@
 - **[2026-09-07 18:05 UTC]** Partido nanico e difícil de rotular é peça-chave para extrema direita na Alemanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/partido-nanico-e-dificil-de-rotular-e-peca-chave-para-extrema-direita-na-alemanha.shtml)_
 
+- **[2026-09-07 15:49 UTC]** Ex-integrante de grupo de extrema direita admite ter matado astro argentino do rugby
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/ex-integrante-de-grupo-de-extrema-direita-admite-ter-matado-astro-argentino-do-rugby.shtml)_
+
