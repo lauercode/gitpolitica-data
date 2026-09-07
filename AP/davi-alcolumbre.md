@@ -173,3 +173,6 @@
 - **[2026-09-05 13:32 UTC]** Flávio diz que Alcolumbre blinda Moraes e trava impeachment
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-diz-que-alcolumbre-blinda-moraes-e-trava-impeachment/)_
 
+- **[2026-09-07 10:29 UTC]** Lula participa de 7 de setembro com Motta, Alcolumbre e Fachin; evento terá recados sobre soberania e violência contra a mulher
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/lula-participa-de-desfile-de-7-de-setembro-com-recados-a-soberania-nacional-e-ao-enfrentamento-a-violencia-contra-mulheres.ghtml)_
+
