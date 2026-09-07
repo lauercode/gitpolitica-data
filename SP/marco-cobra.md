@@ -56,3 +56,6 @@
 - **[2026-09-06 18:00 UTC]** MPF reforça pedido do governo federal e cobra medidas urgentes do Discord
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mpf-reforca-pedido-do-governo-federal-e-cobra-medidas-urgentes-do-discord.shtml)_
 
+- **[2026-09-07 15:31 UTC]** Em ato no Rio, Cury manda abraço para Mendonça e cobra investigação do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-ato-no-rio-cury-manda-abraco-para-mendonca-e-cobra-investigacao-ao-stf-ninguem-deve-ser-poupado.shtml)_
+
