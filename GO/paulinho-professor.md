@@ -98,3 +98,6 @@
 - **[2026-09-05 09:00 UTC]** Professor pega bebê no colo para ajudar aluna durante aula no AC: 'Ensinar vai além dos livros'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/professor-pega-bebe-no-colo-para-ajudar-aluna-durante-aula-no-ac-ensinar-vai-alem-dos-livros.ghtml)_
 
+- **[2026-09-07 20:02 UTC]** ‘Estava feliz e realizado’, diz professor sobre aluno soldado da PM do AP que morreu em acidente
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/estava-feliz-e-realizado-diz-professor-sobre-aluno-soldado-da-pm-do-ap-que-morreu-em-acidente.ghtml)_
+
