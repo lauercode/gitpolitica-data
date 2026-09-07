@@ -17,3 +17,6 @@
 - **[2026-08-30 12:38 UTC]** Com dois alertas de tempo seco no estado, Palmas pode chegar a 39 graus neste domingo (30)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-dois-alertas-de-tempo-seco-no-estado-palmas-pode-chegar-a-39-graus-neste-domingo.ghtml)_
 
+- **[2026-09-07 13:14 UTC]** Tempestade e baixa umidade: TO deve registrar chuvas e temperaturas de até 37 graus durante feriados
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/tempestade-e-baixa-umidade-to-deve-registrar-chuvas-e-temperaturas-de-ate-37-graus-durante-feriados.ghtml)_
+
