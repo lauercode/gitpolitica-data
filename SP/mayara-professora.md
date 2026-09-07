@@ -68,3 +68,6 @@
 - **[2026-09-06 15:58 UTC]** Professora impedida de assumir vaga por suposta falta de estrutura de saúde já lecionava no mesmo campus quando recebeu diagnóstico
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/professora-impedida-de-assumir-vaga-por-suposta-falta-de-estrutura-de-saude-ja-lecionava-no-mesmo-campus-quando-recebeu-diagnostico.ghtml)_
 
+- **[2026-09-07 15:12 UTC]** Candidata do Psol ao Senado pelo AM, Professora Evany quer ampliar voz do Amazonas nas decisões nacionais
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/candidata-do-psol-ao-senado-pelo-am-professora-evany-quer-ampliar-voz-do-amazonas-nas-decisoes-nacionais.ghtml)_
+
