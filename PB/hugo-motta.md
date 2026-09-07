@@ -29,3 +29,6 @@
 - **[2026-09-03 19:40 UTC]** Hugo Motta destaca aumento do poder de compra da população com fim da "taxa das blusinhas"
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302672-hugo-motta-destaca-aumento-do-poder-de-compra-da-populacao-com-fim-da-taxa-das-blusinhas)_
 
+- **[2026-09-07 13:33 UTC]** Desfile de 7 de Setembro em Brasília reúne Lula, Fachin, Alcolumbre e Hugo Motta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/desfile-de-7-de-setembro-em-brasilia-reune-lula-fachin-alcolumbre-e-hugo-motta/)_
+
