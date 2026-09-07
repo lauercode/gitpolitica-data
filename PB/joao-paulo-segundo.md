@@ -194,3 +194,6 @@
 - **[2026-09-06 05:00 UTC]** RS é o estado com mais indecisos na eleição para presidente, segundo a Quaest
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/06/rs-e-o-estado-com-mais-indecisos-na-eleicao-para-presidente-segundo-a-quaest.ghtml)_
 
+- **[2026-09-07 10:38 UTC]** Frio marca início do feriado de 7 de Setembro no Paraná, com temperaturas abaixo de 0°C, segundo o Simepar; veja a previsão
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/07/frio-feriado-parana-tempo.ghtml)_
+
