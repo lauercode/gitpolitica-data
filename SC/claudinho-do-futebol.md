@@ -62,3 +62,6 @@
 - **[2026-09-06 20:30 UTC]** Brasileiro trata política como jogo de futebol, diz leitor, ao comentar disputa no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/brasileiro-trata-politica-como-jogo-de-futebol-diz-leitor-ao-comentar-disputa-no-stf.shtml)_
 
+- **[2026-09-07 08:26 UTC]** Desfile de 7 de Setembro homenageia pioneiras do futebol feminino
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/desfile-de-7-de-setembro-homenageia-pioneiras-do-futebol-feminino)_
+
