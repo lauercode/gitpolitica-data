@@ -62,3 +62,6 @@
 - **[2026-09-07 12:00 UTC]** Mulher é morta a facadas em Santa Inês; suspeito diz que houve discussão por R$ 10
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/07/mulher-e-morta-a-facadas-em-santa-ines-suspeito-diz-que-houve-discussao-por-r-10.ghtml)_
 
+- **[2026-09-07 14:24 UTC]** Santa Catarina registra 1ª neve do inverno de 2026
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/neve-santa-catarina-inverno-2026.ghtml)_
+
