@@ -197,3 +197,6 @@
 - **[2026-09-06 14:18 UTC]** Aprovação de Trump cai para 33%, menor nível já registrado em pesquisa do Financial Times
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aprovacao-de-trump-cai-para-33-menor-nivel-ja-registrado-em-pesquisa-do-financial-times.shtml)_
 
+- **[2026-09-06 23:43 UTC]** Lula faz discurso de soberania com recados a Trump na véspera do 7 de setembro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-faz-discurso-de-soberania-cheio-de-recados-a-trump-na-vespera-do-7-de-setembro/)_
+
