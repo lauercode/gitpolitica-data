@@ -41,3 +41,6 @@
 - **[2026-09-06 14:00 UTC]** Loja de eletrônicos é condenada após vender celular de 256 GB e entregar versão de 128 GB no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/06/loja-eletronicos-condenada-apos-vender-celular-entregar-versao-diferente.ghtml)_
 
+- **[2026-09-07 15:42 UTC]** VÍDEO: Incêndio destrói loja de açaí em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/07/video-incendio-destroi-loja-de-acai-em-porto-velho.ghtml)_
+
