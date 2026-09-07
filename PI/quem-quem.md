@@ -299,3 +299,6 @@
 - **[2026-09-07 12:18 UTC]** Polícia do Rio intima streamer que hostilizou ator de 'Quem Ama Cuida'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/policia-do-rio-intima-streamer-que-hostilizou-ator-de-quem-ama-cuida.shtml)_
 
+- **[2026-09-07 15:16 UTC]** Mulher tem orelha cortada com faca após companheiro perguntar 'para quem ela estava se arrumando' no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/07/mulher-atacada-companheiro-parana.ghtml)_
+
