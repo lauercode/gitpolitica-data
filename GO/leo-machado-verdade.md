@@ -26,3 +26,6 @@
 - **[2018-07-12 14:33 UTC]** Tigres escaparam do RioZoo? Não é verdade!
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/e-ou-nao-e/noticia/tigres-escaparam-do-riozoo-nao-e-verdade.ghtml)_
 
+- **[2026-09-06 21:00 UTC]** Audiência da Comissão Nacional Indígena da Verdade é marcada para 17 de novembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/audiencia-da-comissao-nacional-indigena-da-verdade-e-marcada-para-17-de-novembro.shtml)_
+
