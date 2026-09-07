@@ -938,3 +938,6 @@
 - **[2026-09-07 16:23 UTC]** Augusto Cury é analfabeto político, e Flávio errou ao insistir com Vorcaro por filme, diz Malafaia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/augusto-cury-e-analfabeto-politico-e-flavio-errou-ao-insistir-com-vorcaro-por-filme-diz-malafaia.shtml)_
 
+- **[2026-09-07 16:20 UTC]** Tarcísio diz em ato com Flávio que Senado não pode se omitir em crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-diz-em-ato-com-flavio-que-senado-nao-pode-se-omitir-em-crise-no-stf.shtml)_
+
