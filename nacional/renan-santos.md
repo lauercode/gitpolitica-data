@@ -212,3 +212,6 @@
 - **[2026-09-05 16:31 UTC]** Renan Santos propõe nova reforma para evitar colapso da Previdência
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/renan-santos-propoe-nova-reforma-para-evitar-colapso-da-previdencia/)_
 
+- **[2026-09-07 17:23 UTC]** Renan Santos faz ato no Ibirapuera e pede afastamento de Toffoli e Moraes do STF, de Andrei da PF e de Gonet da PGR
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/renan-santos-faz-ato-no-ibirapuera-e-pede-afastamento-de-toffoli-e-moraes-do-stf-de-andrei-da-pf-e-de-gonet-da-pgr.ghtml)_
+
