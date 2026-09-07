@@ -362,3 +362,6 @@
 - **[2026-09-07 20:09 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 7 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-7-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-07 19:35 UTC]** Eleições 2026: Eduardo Velloso disputa vaga no Senado com foco em saúde e fortalecimento do agro no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-eduardo-velloso-disputa-vaga-no-senado-com-foco-em-saude-e-fortalecimento-do-agro-no-acre.ghtml)_
+
