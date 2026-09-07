@@ -11,3 +11,6 @@
 - **[2026-09-03 09:01 UTC]** Plano de governo: Vicentinho Júnior propõe investimento industrial, integração regional e proteção às mulheres
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-vicentinho-junior-propoe-investimento-industrial-integracao-regional-e-protecao-as-mulheres.ghtml)_
 
+- **[2026-09-07 17:32 UTC]** Chanceler alemão se diz chocado com vitória regional da ultradireita
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/na-alemanha-extrema-direita-vence-eleicao-regional-e-choca-chanceler)_
+
