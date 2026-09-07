@@ -74,3 +74,6 @@
 - **[2026-09-07 10:17 UTC]** Combater poluição e mudança climática pode elevar PIB global em 2,8% até 2035, diz ONU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/combater-poluicao-e-mudanca-climatica-pode-elevar-pib-global-em-28-ate-2035-diz-onu.shtml)_
 
+- **[2026-09-07 16:58 UTC]** Flávio Bolsonaro chama 8 de janeiro de farsa, diz que STF não é Alexandre de Moraes e que 'povo quer mudança' em ato na Paulista
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/flavio-bolsonaro-avenida-paulista.ghtml)_
+
