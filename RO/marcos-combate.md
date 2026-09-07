@@ -74,3 +74,6 @@
 - **[2026-09-06 06:49 UTC]** Corrupção, defesa da democracia, combate ao crime: Quaest mostra o que mais pesa na escolha do eleitor
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/06/corrupcao-defesa-da-democracia-combate-ao-crime-quaest-mostra-o-que-mais-pesa-na-escolha-do-eleitor.ghtml)_
 
+- **[2026-09-06 21:26 UTC]** Genética de morcegos pode revolucionar combate ao câncer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/genetica-de-morcegos-pode-revolucionar-combate-ao-cancer.shtml)_
+
