@@ -230,3 +230,6 @@
 - **[2026-09-07 20:09 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 7 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-7-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-07 18:37 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de segunda-feira, 7 de setembro de 2026
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/07/videos-jornal-do-almoco-florianopolis-de-segunda-feira-7-de-setembro-de-2026.ghtml)_
+
