@@ -152,3 +152,6 @@
 - **[2026-09-07 20:02 UTC]** ‘Estava feliz e realizado’, diz professor sobre aluno soldado da PM do AP que morreu em acidente
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/estava-feliz-e-realizado-diz-professor-sobre-aluno-soldado-da-pm-do-ap-que-morreu-em-acidente.ghtml)_
 
+- **[2026-09-07 19:40 UTC]** Amigos e familiares se despedem de adolescente que morreu durante 'pega de boi' em Poço Redondo
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/corpo-de-adolescente-que-morreu-durante-pega-de-boi-e-velado-em-poco-redondo.ghtml)_
+
