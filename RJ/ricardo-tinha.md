@@ -38,3 +38,6 @@
 - **[2026-09-04 20:39 UTC]** Adolescente envolvido em acidente que matou mãe e filha em Macapá já tinha histórico de colisões
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/04/adolescente-envolvido-em-acidente-que-matou-mae-e-filha-em-macapa-ja-tinha-historico-de-colisoes.ghtml)_
 
+- **[2026-09-07 16:12 UTC]** Mortes: Tinha a curiosidade como método e a ciência como norte e legado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-tinha-a-curiosidade-como-metodo-e-a-ciencia-como-norte-e-legado.shtml)_
+
