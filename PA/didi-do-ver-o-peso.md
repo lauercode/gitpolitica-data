@@ -23,3 +23,6 @@
 - **[2018-07-19 21:48 UTC]** Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml)_
 
+- **[2026-09-07 03:00 UTC]** VÍDEO: entenda o que são votos em branco e nulos e o peso deles no resultado da eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/07/video-voto-em-branco-voto-nulo.ghtml)_
+
