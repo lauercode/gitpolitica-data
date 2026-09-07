@@ -47,3 +47,6 @@
 - **[2026-09-06 20:28 UTC]** Palmeiras tropeça contra o Botafogo e perde a liderança do Brasileiro para o Flamengo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-empata-com-botafogo-e-ve-flamengo-assumir-a-ponta-do-brasileiro.shtml)_
 
+- **[2026-09-06 22:15 UTC]** Palmeiras tropeça, Flamengo vence e assume a liderança do Brasileiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-tropeca-flamengo-vence-e-assume-a-lideranca-do-brasileiro.shtml)_
+
