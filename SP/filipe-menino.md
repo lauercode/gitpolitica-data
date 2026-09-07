@@ -71,3 +71,6 @@
 - **[2026-09-07 15:48 UTC]** Buscas por menino de 4 anos que caiu de embarcação são encerradas no interior do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/buscas-por-menino-de-4-anos-que-caiu-de-embarcacao-sao-encerradas-no-interior-do-acre.ghtml)_
 
+- **[2026-09-07 17:51 UTC]** Menino de 4 anos desaparece e comportas de barragem são fechadas para buscas em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/menino-4-anos-desaparece-comportas-barragem-fechadas-buscas-sc.ghtml)_
+
