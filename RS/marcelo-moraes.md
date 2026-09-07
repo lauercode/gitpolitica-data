@@ -1043,3 +1043,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 13:55 UTC]** Renan Santos lança manifesto em ato no Ibirapuera e pede prisão de Moraes e Toffoli
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/renan-santos-lanca-manifesto-em-ato-no-ibirapuera-e-pede-prisao-de-moraes-toffoli-e-chefe-da-pf.shtml)_
 
+- **[2026-09-07 10:51 UTC]** Manifestantes em Brasília pedem saída de Moraes e Lula no 7 de Setembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/manifestantes-em-brasilia-pedem-saida-de-moraes-e-lula-no-7-de-setembro.shtml)_
+
