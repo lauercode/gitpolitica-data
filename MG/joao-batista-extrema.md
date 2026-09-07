@@ -65,3 +65,6 @@
 - **[2026-09-07 15:49 UTC]** Ex-integrante de grupo de extrema direita admite ter matado astro argentino do rugby
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/ex-integrante-de-grupo-de-extrema-direita-admite-ter-matado-astro-argentino-do-rugby.shtml)_
 
+- **[2026-09-07 14:34 UTC]** 'Profundamente chocado' com vitória da extrema direita, premiê da Alemanha diz que não deixa o cargo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/profundamente-chocado-com-vitoria-da-afd-merz-diz-que-nao-sai.shtml)_
+
