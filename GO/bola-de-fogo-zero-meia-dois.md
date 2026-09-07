@@ -299,3 +299,6 @@
 - **[2026-09-07 11:01 UTC]** Acidente envolvendo dois carros deixa uma pessoa morta no sul do Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/acidente-envolvendo-dois-carros-deixa-uma-pessoa-morta-no-sul-do-amapa.ghtml)_
 
+- **[2026-09-07 11:16 UTC]** Acidentes de trânsito deixam cinco mortos e dois feridos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/duas-pessoas-morrem-e-duas-ficam-feridas-em-colisao-entre-tres-motos-na-se-290-em-itabaianinha.ghtml)_
+
