@@ -296,3 +296,6 @@
 - **[2026-09-07 08:09 UTC]** Jaguar Land Rover anuncia corte de 4.000 empregos nos próximos dois anos para reduzir custos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/jaguar-land-rover-anuncia-corte-de-4000-empregos-nos-proximos-dois-anos-para-reduzir-custos.shtml)_
 
+- **[2026-09-07 11:01 UTC]** Acidente envolvendo dois carros deixa uma pessoa morta no sul do Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/acidente-envolvendo-dois-carros-deixa-uma-pessoa-morta-no-sul-do-amapa.ghtml)_
+
