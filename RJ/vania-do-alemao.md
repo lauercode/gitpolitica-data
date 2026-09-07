@@ -14,3 +14,6 @@
 - **[2026-09-07 10:46 UTC]** União Europeia apura invasão de modelos de IA da OpenAI a site alemão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/uniao-europeia-apura-invasao-de-modelos-de-ia-da-openai-a-site-alemao.shtml)_
 
+- **[2026-09-07 15:22 UTC]** Rússia fecha consulado alemão em São Petersburgo em retaliação a Berlim
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/russia-fecha-consulado-alemao-em-sao-petersburgo-em-retaliacao-a-berlim.shtml)_
+
