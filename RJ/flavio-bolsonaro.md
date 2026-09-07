@@ -770,3 +770,6 @@
 - **[2026-09-07 22:01 UTC]** Quaest: Flávio Bolsonaro tem 55% de rejeição e Lula, 53%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-flavio-bolsonaro-tem-55percent-de-rejeicao-e-lula-53percent.ghtml)_
 
+- **[2026-09-07 21:20 UTC]** Quaest: 32% dizem que Lula e PT vencerem é o melhor resultado da eleição presidencial; para 24%, a volta da família Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-melhor-resultado-eleitor-7-de-setembro.ghtml)_
+
