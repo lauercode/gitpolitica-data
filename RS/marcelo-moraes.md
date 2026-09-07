@@ -1061,3 +1061,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 16:53 UTC]** Ato na orla de Maceió critica Alexandre de Moraes e apoia André Mendonça, ministros do STF
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/07/ato-na-orla-de-maceio-critica-alexandre-de-moraes-e-apoia-andre-mendonca-ministros-do-stf.ghtml)_
 
+- **[2026-09-07 17:34 UTC]** Partidos de direita fazem manifestações com críticas ao STF e ao ministro Alexandre de Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/capitais-registram-manifestacoes.ghtml)_
+
