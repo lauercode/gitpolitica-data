@@ -242,3 +242,6 @@
 - **[2026-09-07 09:00 UTC]** Projeto de créditos de carbono evita desmatamento e protege onças, tamanduás e outros animais da Amazônia
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/07/projeto-de-creditos-de-carbono-evita-desmatamento-e-protege-oncas-tamanduas-e-outros-animais-da-amazonia.ghtml)_
 
+- **[2026-09-07 16:29 UTC]** Coco de roda paraibano ganha palcos na Europa em projeto que leva cultura popular a Espanha e Portugal
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/coco-de-roda-paraibano-ganha-palcos-na-europa-em-projeto-que-leva-cultura-popular-a-espanha-e-portugal.ghtml)_
+
