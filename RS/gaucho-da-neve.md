@@ -20,3 +20,6 @@
 - **[2026-09-06 19:20 UTC]** Frio intenso segue na noite deste domingo e manhã de segunda em SC, com chance de neve
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/frio-intenso-domingo-e-manha-segunda-neve-sc.ghtml)_
 
+- **[2026-09-07 03:00 UTC]** Semana começa com frio intenso e chance de neve na madrugada de segunda no RS; veja a previsão
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/semana-comeca-com-frio-intenso-e-chance-de-neve-na-madrugada-de-segunda-no-rs-veja-a-previsao.ghtml)_
+
