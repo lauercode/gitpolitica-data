@@ -1082,3 +1082,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 21:11 UTC]** Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 19:50 UTC]** Crise entre Moraes e Mendonça põe legitimidade do STF em risco em meio a eleição acirrada, diz cientista política
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss)_
+
