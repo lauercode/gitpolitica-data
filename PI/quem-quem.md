@@ -293,3 +293,6 @@
 - **[2026-09-06 18:36 UTC]** Quem é a mulher que estudou com Henrique e refez foto com o cantor 13 anos depois
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/quem-e-a-mulher-que-estudou-com-henrique-e-refez-foto-com-o-cantor-13-anos-depois.ghtml)_
 
+- **[2026-09-07 04:00 UTC]** Quem ganha com a crise do Supremo?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/quem-ganha-com-a-crise-do-supremo.shtml)_
+
