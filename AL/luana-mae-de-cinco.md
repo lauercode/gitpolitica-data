@@ -155,3 +155,6 @@
 - **[2026-09-06 03:00 UTC]** Telefone fixo, disquetes e cinco 'ninjas': os bastidores da criação da urna eletrônica
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/06/telefone-fixo-disquetes-e-cinco-ninjas-os-bastidores-da-criacao-da-urna-eletronica.ghtml)_
 
+- **[2026-09-07 11:16 UTC]** Acidentes de trânsito deixam cinco mortos e dois feridos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/duas-pessoas-morrem-e-duas-ficam-feridas-em-colisao-entre-tres-motos-na-se-290-em-itabaianinha.ghtml)_
+
