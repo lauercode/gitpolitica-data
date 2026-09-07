@@ -359,3 +359,6 @@
 - **[2026-09-07 20:40 UTC]** Mecânico acusado de matar homem a tiros no Canal da Maternidade vai a júri no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/mecanico-acusado-de-matar-homem-a-tiros-no-canal-da-maternidade-vai-a-juri-no-acre.ghtml)_
 
+- **[2026-09-07 20:09 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 7 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-7-de-setembro-de-2026.ghtml)_
+
