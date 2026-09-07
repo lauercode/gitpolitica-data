@@ -41,3 +41,6 @@
 - **[2026-09-06 20:52 UTC]** Botafogo segura Palmeiras e ajuda Flamengo, novo líder do Brasileirão
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/botafogo-segura-palmeiras-e-ajuda-flamengo-novo-lider-do-brasileirao)_
 
+- **[2026-09-06 18:33 UTC]** Flamengo supera Remo em Belém e vira líder provisório do Brasileirão
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flamengo-supera-remo-em-belem-e-vira-lider-provisorio-do-brasileirao)_
+
