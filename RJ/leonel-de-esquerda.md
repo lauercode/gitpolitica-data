@@ -47,3 +47,6 @@
 - **[2026-09-06 22:00 UTC]** Direita e esquerda premiam o corporativismo policial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/direita-e-esquerda-premiam-o-corporativismo-policial.shtml)_
 
+- **[2026-09-06 23:00 UTC]** Novo e PL são as siglas mais à direita; PSTU e UP, as mais à esquerda, mostra GPS Partidário 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/novo-e-pl-sao-as-siglas-mais-a-direita-pstu-e-up-as-mais-a-esquerda-mostra-gps-partidario-2026.shtml)_
+
