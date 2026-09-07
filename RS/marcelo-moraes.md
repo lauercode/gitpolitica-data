@@ -1058,3 +1058,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 12:44 UTC]** Atos em Brasília reúnem manifestantes em defesa do impeachment de Moraes e contra Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-em-brasilia-reune-manifestantes-em-defesa-do-impeachment-de-moraes-e-contra-alcolumbre/)_
 
+- **[2026-09-07 16:53 UTC]** Ato na orla de Maceió critica Alexandre de Moraes e apoia André Mendonça, ministros do STF
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/07/ato-na-orla-de-maceio-critica-alexandre-de-moraes-e-apoia-andre-mendonca-ministros-do-stf.ghtml)_
+
