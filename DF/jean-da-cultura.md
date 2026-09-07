@@ -50,3 +50,6 @@
 - **[2026-09-05 16:21 UTC]** Maestro Chico Pinheiro, referência da cultura popular maranhense, morre aos 71 anos
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/05/maestro-chico-pinheiro-referencia-na-musica-maranhense-morre-aos-71-anos.ghtml)_
 
+- **[2026-09-06 23:00 UTC]** Exposição grátis sobre a cultura coreana explica as origens do k-pop em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/exposicao-gratis-sobre-a-cultura-coreana-explica-as-origens-do-k-pop-em-sp.shtml)_
+
