@@ -1049,3 +1049,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 17:54 UTC]** OAB nacional defende apuração rigorosa e regionais pressionam por afastamento de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-nacional-defende-apuracao-rigorosa-e-regionais-pressionam-por-afastamento-de-moraes/)_
 
+- **[2026-09-07 17:14 UTC]** Direita realiza atos em ao menos 15 cidades pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/direita-realiza-atos-em-ao-menos-15-cidades-pelo-impeachment-de-moraes/)_
+
