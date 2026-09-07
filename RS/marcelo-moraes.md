@@ -1055,3 +1055,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 15:26 UTC]** Zema exibe painel com Moraes atrás das grades em ato na Paulista
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/zema-exibe-painel-com-moraes-atras-das-grades-em-ato-na-paulista/)_
 
+- **[2026-09-07 12:44 UTC]** Atos em Brasília reúnem manifestantes em defesa do impeachment de Moraes e contra Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-em-brasilia-reune-manifestantes-em-defesa-do-impeachment-de-moraes-e-contra-alcolumbre/)_
+
