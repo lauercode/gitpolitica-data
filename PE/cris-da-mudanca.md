@@ -71,3 +71,6 @@
 - **[2026-09-04 10:29 UTC]** STF fixa R$ 5 mil como parâmetro para Justiça gratuita; entenda a mudança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-fixa-5-mil-como-parametro-para-justica-gratuita-entenda-a-mudanca/)_
 
+- **[2026-09-07 10:17 UTC]** Combater poluição e mudança climática pode elevar PIB global em 2,8% até 2035, diz ONU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/combater-poluicao-e-mudanca-climatica-pode-elevar-pib-global-em-28-ate-2035-diz-onu.shtml)_
+
