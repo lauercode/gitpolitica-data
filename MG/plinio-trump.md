@@ -200,3 +200,6 @@
 - **[2026-09-06 23:43 UTC]** Lula faz discurso de soberania com recados a Trump na véspera do 7 de setembro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-faz-discurso-de-soberania-cheio-de-recados-a-trump-na-vespera-do-7-de-setembro/)_
 
+- **[2026-09-07 14:27 UTC]** Trump cogita rebatizar Novo México de Nova América e provoca reação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-cogita-rebatizar-novo-mexico-de-nova-america-e-provoca-reacao.shtml)_
+
