@@ -185,3 +185,6 @@
 - **[2026-09-07 09:56 UTC]** Lula reúne Fachin, Alcolumbre e Motta em 7 de Setembro com gritos do público pelo fim da escala 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-reune-fachin-alcolumbre-e-motta-em-7-de-setembro-com-gritos-do-publico-pelo-fim-da-escala-6x1.shtml)_
 
+- **[2026-09-07 13:33 UTC]** Desfile de 7 de Setembro em Brasília reúne Lula, Fachin, Alcolumbre e Hugo Motta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/desfile-de-7-de-setembro-em-brasilia-reune-lula-fachin-alcolumbre-e-hugo-motta/)_
+
