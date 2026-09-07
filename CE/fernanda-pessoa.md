@@ -374,3 +374,6 @@ direcionado às necessidades de cada pessoa
 direcionado às necessidades de cada pessoa
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
 
+- **[2026-09-07 20:00 UTC]** Natália Lage e Emilio Orciollo Netto estrelam peça sobre Fernando Pessoa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/natalia-lage-e-emilio-orciollo-netto-estrelam-peca-sobre-fernando-pessoa.shtml)_
+
