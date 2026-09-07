@@ -215,3 +215,6 @@
 - **[2026-09-07 21:01 UTC]** Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml)_
 
+- **[2026-09-07 14:26 UTC]** Em ato em Copacabana, Cury cobra investigação do STF e manda ‘abraço especial’ a André Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/07/augusto-cury-faz-ato-na-praia-de-copacabana.ghtml)_
+
