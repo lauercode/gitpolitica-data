@@ -122,3 +122,6 @@
 - **[2026-09-07 07:04 UTC]** Direita radical na Alemanha tem vitória estadual inédita desde a 2ª Guerra Mundial, mas não consegue maioria para formar governo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 07:58 UTC]** Alemanha: partido de extrema direita tem vitória estadual histórica
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/alemanha-partido-de-extrema-direita-tem-vitoria-estadual-historica)_
+
