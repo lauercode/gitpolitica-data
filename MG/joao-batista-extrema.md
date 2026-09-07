@@ -47,3 +47,6 @@
 - **[2026-09-06 13:11 UTC]** Extrema direita vence eleição estadual na Alemanha, mas terá que negociar maioria
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/extrema-direita-lidera-eleicao-estadual-na-alemanha-aponta-boca-de-urna.shtml)_
 
+- **[2026-09-07 04:00 UTC]** Vitória da extrema direita na Alemanha revela desejo de voltar ao passado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2026/09/vitoria-da-extrema-direita-na-alemanha-revela-desejo-de-voltar-ao-passado.shtml)_
+
