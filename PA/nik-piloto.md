@@ -47,3 +47,6 @@
 - **[2026-09-06 01:16 UTC]** Piloto resgata colega de carro em chamas após acidente em prova no China GT
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/piloto-resgata-colega-de-carro-em-chamas-apos-acidente-em-prova-no-china-gt.shtml)_
 
+- **[2026-09-07 16:42 UTC]** Piloto e influenciador Lito Sousa ganha homenagem em parque temático de Gramado
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/piloto-e-influenciador-lito-sousa-ganha-homenagem-em-parque-tematico-de-gramado.ghtml)_
+
