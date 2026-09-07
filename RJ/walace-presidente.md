@@ -386,3 +386,6 @@
 - **[2026-09-07 19:33 UTC]** Quaest: 79% dizem que opinião de liderança religiosa não influencia escolha de voto para presidente
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-lideranca-religiosa-influencia-voto-presidente.ghtml)_
 
+- **[2026-09-07 21:30 UTC]** O que mostra a nova pesquisa Quaest para presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-setembro-2026-2/)_
+
