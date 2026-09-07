@@ -14,3 +14,6 @@
 - **[2026-09-07 16:58 UTC]** Ônibus com estudantes e professores tomba em rodovia no Acre; não há feridos graves
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/onibus-com-estudantes-e-professores-tomba-em-rodovia-do-acre.ghtml)_
 
+- **[2026-09-07 16:58 UTC]** Ônibus com estudantes e professores tomba em rodovia no Acre; aluna machucou o braço
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/onibus-com-estudantes-e-professores-tomba-em-rodovia-do-acre.ghtml)_
+
