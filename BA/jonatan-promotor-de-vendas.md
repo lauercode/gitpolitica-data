@@ -41,3 +41,6 @@
 - **[2026-09-04 18:49 UTC]** Solução criada no Amazonas leva TVLar Motos ao 1º lugar no Brasil em vendas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/tvlar-motos/noticia/2026/09/04/solucao-criada-no-amazonas-leva-tvlar-motos-ao-1o-lugar-no-brasil-em-vendas.ghtml)_
 
+- **[2026-09-07 11:16 UTC]** Morango cravejado: na Capital do Doce, sucesso de vendas faz produtores buscarem até forno industrial para aumentar produção
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/morango-cravejado-na-capital-do-doce-sucesso-de-vendas-faz-produtores-buscarem-ate-forno-industrial-para-aumentar-producao.ghtml)_
+
