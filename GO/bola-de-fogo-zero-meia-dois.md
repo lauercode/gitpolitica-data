@@ -302,3 +302,6 @@
 - **[2026-09-07 11:16 UTC]** Acidentes de trânsito deixam cinco mortos e dois feridos em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/duas-pessoas-morrem-e-duas-ficam-feridas-em-colisao-entre-tres-motos-na-se-290-em-itabaianinha.ghtml)_
 
+- **[2026-09-07 18:00 UTC]** Governo e setor produtivo esperam voltar a exportar frango e mel em até dois meses
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governo-e-setor-produtivo-esperam-voltar-a-exportar-frango-e-mel-em-ate-dois-meses.shtml)_
+
