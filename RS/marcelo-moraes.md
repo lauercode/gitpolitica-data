@@ -1040,3 +1040,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 13:59 UTC]** Zema estende painel em prédio na Avenida Paulista com boneco de Moraes preso
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/zema-faz-ato-de-campanha-esvaziado-na-avenida-paulista.ghtml)_
 
+- **[2026-09-07 13:55 UTC]** Renan Santos lança manifesto em ato no Ibirapuera e pede prisão de Moraes e Toffoli
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/renan-santos-lanca-manifesto-em-ato-no-ibirapuera-e-pede-prisao-de-moraes-toffoli-e-chefe-da-pf.shtml)_
+
