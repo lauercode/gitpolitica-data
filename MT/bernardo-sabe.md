@@ -62,3 +62,6 @@
 - **[2026-09-07 18:40 UTC]** Jovem morta pelo ex-companheiro no TO foi atraída com promessa de divisão de bens; veja o que se sabe
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/jovem-morta-pelo-ex-companheiro-no-to-foi-atraida-com-promessa-de-divisao-de-bens-veja-o-que-se-sabe.ghtml)_
 
+- **[2026-09-07 19:32 UTC]** Pessoas continuam entrando em bueiros de Nova York e ninguém sabe por quê
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/pessoas-continuam-entrando-em-bueiros-de-nova-york-e-ninguem-sabe-por-que.shtml)_
+
