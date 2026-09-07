@@ -14,3 +14,6 @@
 - **[2026-09-03 19:15 UTC]** Boni diz que vendeu cartas enviadas a Xuxa na Globo para reciclagem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/boni-conta-o-que-aconteceu-com-as-cartas-enviadas-para-xuxa-na-globo.shtml)_
 
+- **[2026-09-07 15:12 UTC]** Candidato do Mobiliza ao Senado pelo AM, Xuxa do Amazonas propõe descentralizar saúde
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/candidato-do-mobiliza-ao-senado-pelo-am-xuxa-do-amazonas-propoe-descentralizar-saude.ghtml)_
+
