@@ -365,3 +365,6 @@
 - **[2026-09-01 14:28 UTC]** Vorcaro disse a diretor do BC que Alexandre de Moraes daria 'aperto no Paulo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/vorcaro-disse-a-diretor-do-bc-que-alexandre-de-moraes-daria-aperto-no-paulo.shtml)_
 
+- **[2026-09-07 15:30 UTC]** Tive que ir relembrando como fazer, diz Paulo Vilhena sobre retorno às novelas após oito anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/tive-que-ir-relembrando-como-fazer-diz-paulo-vilhena-sobre-retorno-as-novelas-apos-oito-anos.shtml)_
+
