@@ -50,3 +50,6 @@
 - **[2026-09-07 04:00 UTC]** Vitória da extrema direita na Alemanha revela desejo de voltar ao passado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2026/09/vitoria-da-extrema-direita-na-alemanha-revela-desejo-de-voltar-ao-passado.shtml)_
 
+- **[2026-09-07 07:58 UTC]** Alemanha: partido de extrema direita tem vitória estadual histórica
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/alemanha-partido-de-extrema-direita-tem-vitoria-estadual-historica)_
+
