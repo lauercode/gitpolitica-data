@@ -740,3 +740,6 @@
 - **[2026-09-07 21:20 UTC]** Quaest: 32% dizem que Lula e PT vencerem é o melhor resultado da eleição; para 24%, a volta da família Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-melhor-resultado-eleitor-7-de-setembro.ghtml)_
 
+- **[2026-09-07 21:01 UTC]** Quaest, 2º turno: Lula, 41%; Flávio Bolsonaro, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-2-turno-7-de-setembro.ghtml)_
+
