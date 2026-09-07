@@ -932,3 +932,6 @@
 - **[2026-09-07 18:17 UTC]** Quaest: Lula e Flávio Bolsonaro empatam numericamente em cenário de 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-lula-e-flavio-bolsonaro-empatam-numericamente-em-cenario-de-2o-turno.shtml)_
 
+- **[2026-09-07 17:55 UTC]** Duelo do 7/9 traz Flávio no ataque e Lula na defesa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/duelo-do-79-traz-flavio-no-ataque-e-lula-na-defesa.shtml)_
+
