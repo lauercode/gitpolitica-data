@@ -1064,3 +1064,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 17:34 UTC]** Partidos de direita fazem manifestações com críticas ao STF e ao ministro Alexandre de Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/capitais-registram-manifestacoes.ghtml)_
 
+- **[2026-09-07 16:58 UTC]** Flávio Bolsonaro chama 8 de janeiro de farsa, diz que STF não é Alexandre de Moraes e que 'povo quer mudança' em ato na Paulista
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/flavio-bolsonaro-avenida-paulista.ghtml)_
+
