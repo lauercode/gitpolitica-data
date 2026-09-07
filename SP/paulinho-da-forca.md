@@ -113,3 +113,6 @@
 - **[2026-09-07 12:30 UTC]** Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia)_
 
+- **[2026-09-07 14:40 UTC]** Paulinho da Força declara voto a Cury: 'não aguento mais essa polarização'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/paulinho-da-forca-declara-voto-a-cury-nao-aguento-mais-essa-polarizacao.shtml)_
+
