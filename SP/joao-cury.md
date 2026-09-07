@@ -218,3 +218,6 @@
 - **[2026-09-07 14:26 UTC]** Em ato em Copacabana, Cury cobra investigação do STF e manda ‘abraço especial’ a André Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/07/augusto-cury-faz-ato-na-praia-de-copacabana.ghtml)_
 
+- **[2026-09-07 15:31 UTC]** Em ato no Rio, Cury manda abraço para Mendonça e cobra investigação do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-ato-no-rio-cury-manda-abraco-para-mendonca-e-cobra-investigacao-ao-stf-ninguem-deve-ser-poupado.shtml)_
+
