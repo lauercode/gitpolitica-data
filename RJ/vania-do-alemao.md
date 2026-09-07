@@ -11,3 +11,6 @@
 - **[2026-09-04 15:30 UTC]** Modelos de IA fogem do controle e invadem site alemão; OpenIA manteve caso em segredo, diz agência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/modelos-de-ia-fogem-do-controle-e-invadem-site-alemao-openia-manteve-caso-em-segredo-diz-agencia.shtml)_
 
+- **[2026-09-07 10:46 UTC]** União Europeia apura invasão de modelos de IA da OpenAI a site alemão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/uniao-europeia-apura-invasao-de-modelos-de-ia-da-openai-a-site-alemao.shtml)_
+
