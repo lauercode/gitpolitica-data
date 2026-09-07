@@ -17,3 +17,6 @@
 - **[2026-09-06 13:46 UTC]** Narrativa sobre Mendonça “fora do rito” vira cortina de fumaça e álibi para Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/narrativa-sobre-mendonca-fora-do-rito-vira-cortina-de-fumaca-e-alibi-para-moraes/)_
 
+- **[2026-09-07 14:17 UTC]** Caso Master: briga pelo controle da investigação tem acusações de 'cortina de fumaça' e operação abafa no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/07/caso-master-briga-pelo-controle-da-investigacao-tem-acusacoes-de-cortina-de-fumaca-e-operacao-abafa-no-stf.ghtml)_
+
