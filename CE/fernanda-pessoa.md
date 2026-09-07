@@ -359,3 +359,6 @@ direcionado às necessidades de cada pessoa
 direcionado às necessidades de cada pessoa
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
 
+- **[2026-09-07 11:01 UTC]** Acidente envolvendo dois carros deixa uma pessoa morta no sul do Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/acidente-envolvendo-dois-carros-deixa-uma-pessoa-morta-no-sul-do-amapa.ghtml)_
+
