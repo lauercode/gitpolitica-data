@@ -59,3 +59,6 @@
 - **[2026-09-05 12:00 UTC]** O que se sabe sobre explosão na Bolívia que deixou ao menos 3 mortos e 81 feridos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 18:40 UTC]** Jovem morta pelo ex-companheiro no TO foi atraída com promessa de divisão de bens; veja o que se sabe
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/jovem-morta-pelo-ex-companheiro-no-to-foi-atraida-com-promessa-de-divisao-de-bens-veja-o-que-se-sabe.ghtml)_
+
