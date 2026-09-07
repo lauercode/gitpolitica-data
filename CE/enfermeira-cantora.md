@@ -38,3 +38,6 @@
 - **[2026-09-05 21:11 UTC]** VÍDEO: Fã de Joelma surpreende em dança no palco e emoldura dinheiro recebido da cantora no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/video-fa-de-joelma-surpreende-em-danca-no-palco-e-emoldura-dinheiro-recebido-da-cantora-no-am.ghtml)_
 
+- **[2026-09-07 10:30 UTC]** Cantora Yasmin Santos afirma ter sido vítima de assalto; 'Estouraram o vidro e pegaram o celular'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/cantora-yasmin-santos-afirma-ter-sido-vitima-de-assalto-estouraram-o-vidro-e-pegaram-o-celular.shtml)_
+
