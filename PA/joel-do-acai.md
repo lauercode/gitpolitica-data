@@ -17,3 +17,6 @@
 - **[2026-09-06 13:50 UTC]** Açaí de Roraima pode ganhar selo de Indicação Geográfica e valorizar produção
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/rr/roraima/noticia/2026/09/06/acai-de-roraima-pode-ganhar-selo-de-indicacao-geografica-e-valorizar-producao.ghtml)_
 
+- **[2026-09-07 15:42 UTC]** VÍDEO: Incêndio destrói loja de açaí em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/07/video-incendio-destroi-loja-de-acai-em-porto-velho.ghtml)_
+
