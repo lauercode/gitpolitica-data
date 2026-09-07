@@ -20,3 +20,6 @@
 - **[2026-08-31 22:45 UTC]** Manaus tem agosto mais seco dos últimos 40 anos e previsão aponta mais calor
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/manaus-tem-o-mes-de-agosto-mais-seco-dos-ultimos-40-anos-segundo-inmet.ghtml)_
 
+- **[2026-09-07 19:55 UTC]** Pancadas de chuva são registradas em diferentes zonas de Manaus após 16 dias de tempo seco
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/07/pancadas-de-chuva-sao-registradas-em-diferentes-zonas-de-manaus-apos-16-dias-de-tempo-seco.ghtml)_
+
