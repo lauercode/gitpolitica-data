@@ -362,3 +362,7 @@ direcionado às necessidades de cada pessoa
 - **[2026-09-07 11:01 UTC]** Acidente envolvendo dois carros deixa uma pessoa morta no sul do Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/acidente-envolvendo-dois-carros-deixa-uma-pessoa-morta-no-sul-do-amapa.ghtml)_
 
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
