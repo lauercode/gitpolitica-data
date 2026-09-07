@@ -71,3 +71,6 @@
 - **[2026-09-06 19:12 UTC]** Mais de 90% da chuva de agosto caiu em apenas dois dias na capital, diz Defesa Civil
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/mais-de-90percent-da-chuva-de-agosto-caiu-em-apenas-dois-dias-na-capital-diz-defesa-civil.ghtml)_
 
+- **[2026-09-07 11:16 UTC]** Morango cravejado: na Capital do Doce, sucesso de vendas faz produtores buscarem até forno industrial para aumentar produção
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/morango-cravejado-na-capital-do-doce-sucesso-de-vendas-faz-produtores-buscarem-ate-forno-industrial-para-aumentar-producao.ghtml)_
+
