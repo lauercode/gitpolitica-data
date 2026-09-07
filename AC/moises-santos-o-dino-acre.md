@@ -347,3 +347,6 @@
 - **[2026-09-07 16:58 UTC]** Ônibus com estudantes e professores tomba em rodovia no Acre; não há feridos graves
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/onibus-com-estudantes-e-professores-tomba-em-rodovia-do-acre.ghtml)_
 
+- **[2026-09-07 15:48 UTC]** Buscas por menino de 4 anos que caiu de embarcação são encerradas no interior do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/buscas-por-menino-de-4-anos-que-caiu-de-embarcacao-sao-encerradas-no-interior-do-acre.ghtml)_
+
