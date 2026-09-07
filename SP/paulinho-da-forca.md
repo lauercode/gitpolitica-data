@@ -110,3 +110,6 @@
 - **[2026-09-07 07:54 UTC]** Crise do STF embala 7 de setembro e vira trunfo para Flávio Bolsonaro tentar recuperar força eleitoral
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpnpel9jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 12:30 UTC]** Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia)_
+
