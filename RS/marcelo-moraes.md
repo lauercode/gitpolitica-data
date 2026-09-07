@@ -1031,3 +1031,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 12:44 UTC]** Ato em Brasília reúne manifestantes em defesa do impeachment de Moraes e contra Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-em-brasilia-reune-manifestantes-em-defesa-do-impeachment-de-moraes-e-contra-alcolumbre/)_
 
+- **[2026-09-07 17:34 UTC]** Capitais registram manifestações contra Alexandre de Moraes, do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/capitais-registram-manifestacoes.ghtml)_
+
