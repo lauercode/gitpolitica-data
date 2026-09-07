@@ -221,3 +221,6 @@
 - **[2026-09-06 23:00 UTC]** Endividamento e crédito caro reduzem empolgação do brasileiro com mercado de trabalho e renda em alta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/endividamento-e-credito-caro-reduzem-empolgacao-do-brasileiro-com-mercado-de-trabalho-e-renda-em-alta.shtml)_
 
+- **[2026-09-07 17:39 UTC]** Grupo de trabalho se reúne pela última vez e empresas veem cartada final por Tecon 10 em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/grupo-de-trabalho-se-reune-pela-ultima-vez-e-empresas-veem-cartada-final-por-tecon-10-em-2026.shtml)_
+
