@@ -47,3 +47,6 @@
 - **[2026-09-04 19:15 UTC]** Cícero Lucena defende assistência rural para famílias da agricultura familiar na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/cicero-lucena-defende-assistencia-rural-para-familias-da-agricultura-familiar-na-paraiba.ghtml)_
 
+- **[2026-09-07 11:26 UTC]** Irmãos são encontrados mortos a tiros ao lado de moto na zona rural de Aldeias Altas
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/07/dois-irmaos-sao-encontrados-mortos-a-tiros-ao-lado-de-moto-na-zona-rural-de-aldeias-altas.ghtml)_
+
