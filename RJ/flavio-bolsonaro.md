@@ -731,3 +731,6 @@
 - **[2026-09-07 16:58 UTC]** Apoiadores de Flávio Bolsonaro se reúnem para ato na Avenida Paulista
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/flavio-bolsonaro-avenida-paulista.ghtml)_
 
+- **[2026-09-07 11:16 UTC]** Atos do 7 de Setembro em Salvador têm ACM Neto e Flávio Bolsonaro na mesma bandeira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/atos-do-7-de-setembro-em-salvador-tem-acm-neto-e-flavio-bolsonaro-na-mesma-bandeira.shtml)_
+
