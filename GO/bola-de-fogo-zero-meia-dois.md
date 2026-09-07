@@ -293,3 +293,6 @@
 - **[2026-09-06 19:58 UTC]** Briga entre dois casais em festa termina com quatro pessoas feridas e espingarda apreendida no Cantá
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/06/briga-entre-dois-casais-em-festa-termina-com-quatro-pessoas-feridas-e-espingarda-apreendida-no-canta.ghtml)_
 
+- **[2026-09-07 08:09 UTC]** Jaguar Land Rover anuncia corte de 4.000 empregos nos próximos dois anos para reduzir custos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/jaguar-land-rover-anuncia-corte-de-4000-empregos-nos-proximos-dois-anos-para-reduzir-custos.shtml)_
+
