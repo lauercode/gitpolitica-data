@@ -1022,3 +1022,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 21:41 UTC]** Mendonça libera caso Moraes para julgamento no plenário do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-libera-caso-moraes-para-julgamento-no-plenario-do-stf/)_
 
+- **[2026-09-07 03:06 UTC]** Brasileiros protestam pelo impeachment de Moraes neste 7 de Setembro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/brasileiros-protestam-pelo-impeachment-de-moraes-neste-7-de-setembro/)_
+
