@@ -182,3 +182,6 @@
 - **[2026-09-07 12:30 UTC]** Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia)_
 
+- **[2026-09-07 12:54 UTC]** A rede de propaganda pró-Rússia que explora violência sexual e usa mulheres do Exército ucraniano como isca
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93ekydj3q1o?at_medium=RSS&at_campaign=rss)_
+
