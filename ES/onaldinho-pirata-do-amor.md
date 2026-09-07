@@ -50,3 +50,6 @@
 - **[2026-09-07 13:49 UTC]** Flávio visita igreja com Tarcísio, ora pela 'nação' e ouve declaração de amor de Valdemiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-visita-igreja-com-tarcisio-reza-pela-nacao-e-ouve-declaracao-de-amor-de-valdemiro.shtml)_
 
+- **[2026-09-07 19:55 UTC]** Rock in Rio 2026: Eduardo Leite diz que não procura novo amor após separação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-eduardo-leite-diz-que-nao-procura-novo-amor-apos-separacao.shtml)_
+
