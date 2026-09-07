@@ -17,3 +17,6 @@
 - **[2026-09-04 01:36 UTC]** Mendonça apresenta notas de ternos para rebater suspeita de presente de Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-apresenta-notas-de-ternos-para-rebater-suspeita-de-presente-de-vorcaro/)_
 
+- **[2026-09-07 21:17 UTC]** Paixão por Marina Sena faz fãs enfrentarem horas de espera e até corrida por presente em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/paixao-por-marina-sena-faz-fas-enfrentarem-horas-de-espera-e-ate-corrida-por-presente-em-palmas.ghtml)_
+
