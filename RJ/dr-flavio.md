@@ -935,3 +935,6 @@
 - **[2026-09-07 17:55 UTC]** Duelo do 7/9 traz Flávio no ataque e Lula na defesa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/duelo-do-79-traz-flavio-no-ataque-e-lula-na-defesa.shtml)_
 
+- **[2026-09-07 16:23 UTC]** Augusto Cury é analfabeto político, e Flávio errou ao insistir com Vorcaro por filme, diz Malafaia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/augusto-cury-e-analfabeto-politico-e-flavio-errou-ao-insistir-com-vorcaro-por-filme-diz-malafaia.shtml)_
+
