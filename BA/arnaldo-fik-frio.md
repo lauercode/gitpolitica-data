@@ -65,3 +65,6 @@
 - **[2026-09-07 05:00 UTC]** Feriado de 7 de Setembro deve ter frio e chuva em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/feriado-de-7-de-setembro-deve-ter-frio-e-chuva-em-sao-paulo.shtml)_
 
+- **[2026-09-07 10:38 UTC]** Frio marca início do feriado de 7 de Setembro no Paraná, com temperaturas abaixo de 0°C, segundo o Simepar; veja a previsão
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/07/frio-feriado-parana-tempo.ghtml)_
+
