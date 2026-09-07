@@ -23,3 +23,6 @@
 - **[2026-09-06 14:10 UTC]** Mirassol vence e mantém Vasco e Internacional na zona de rebaixamento
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/mirassol-vence-e-mantem-vasco-e-internacional-na-zona-de-rebaixamento)_
 
+- **[2026-09-07 14:03 UTC]** Vasco e Atlético-PI decidem vaga para final do Brasileirão Feminino A2
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-atletico-pi-decidem-vaga-para-final-do-brasileirao-feminino-a2)_
+
