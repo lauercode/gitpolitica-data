@@ -41,3 +41,6 @@
 - **[2026-09-03 19:30 UTC]** Gil do Vigor lê poema de Gregório de Matos em participação em peça no Sesc Belenzinho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gil-do-vigor-le-poema-de-gregorio-de-matos-em-participacao-em-peca-no-sesc-belenzinho.shtml)_
 
+- **[2026-09-07 20:59 UTC]** Suspeitos de torturar jovem que caiu do 14º andar no PR são soltos após laudo descartar participação direta na queda
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/07/suspeitos-soltos-queda-morte-londrina.ghtml)_
+
