@@ -44,3 +44,6 @@
 - **[2026-09-06 22:44 UTC]** TRE-MG manda site de esquerda tirar do ar reportagens sobre Nikolas chamando Vorcaro de “lindão”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-manda-icl-tirar-do-ar-reportagens-sobre-nikolas-chamando-vorcaro-de-lindao/)_
 
+- **[2026-09-06 22:00 UTC]** Direita e esquerda premiam o corporativismo policial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/direita-e-esquerda-premiam-o-corporativismo-policial.shtml)_
+
