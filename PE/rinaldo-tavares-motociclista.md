@@ -122,3 +122,6 @@
 - **[2026-09-06 19:22 UTC]** Motociclista bate em caminhonete e diz à polícia que ingeriu bebida alcoólica em Rorainópolis
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/06/motociclista-bate-em-caminhonete-e-diz-a-policia-que-ingeriu-bebida-alcoolica-em-rorainopolis.ghtml)_
 
+- **[2026-09-07 16:06 UTC]** Duas pessoas morrem após caminhão atingir veículos que pararam para ajudar motociclista caído na pista em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/07/dois-morrem-acidente-linha-verde-curitiba.ghtml)_
+
