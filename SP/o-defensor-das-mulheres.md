@@ -179,3 +179,6 @@
 - **[2026-09-07 12:04 UTC]** Apesar de decisivas nas eleições, mulheres ainda são minoria nas campanhas dos presidenciáveis
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/07/apesar-de-decisivas-nas-eleicoes-mulheres-ainda-sao-minorias-nas-campanhas-dos-presidenciaveis.ghtml)_
 
+- **[2026-09-07 12:30 UTC]** Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia)_
+
