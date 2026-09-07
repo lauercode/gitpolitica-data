@@ -101,3 +101,6 @@
 - **[2026-09-07 20:02 UTC]** ‘Estava feliz e realizado’, diz professor sobre aluno soldado da PM do AP que morreu em acidente
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/estava-feliz-e-realizado-diz-professor-sobre-aluno-soldado-da-pm-do-ap-que-morreu-em-acidente.ghtml)_
 
+- **[2026-09-07 22:22 UTC]** Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 7 de setembro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/fio-do-professor-felipe-nunes-7-de-setembro.ghtml)_
+
