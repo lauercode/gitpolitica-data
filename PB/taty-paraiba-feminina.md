@@ -17,3 +17,6 @@
 - **[2026-09-05 15:14 UTC]** Brasil goleia Tanzânia na estreia na Copa do Mundo sub-20 feminina
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-goleia-tanzania-na-estreia-na-copa-do-mundo-sub-20-feminina)_
 
+- **[2026-09-07 17:33 UTC]** Sergipe tem maior presença feminina entre candidatos no Brasil nas Eleições 2026
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/07/sergipe-tem-maior-presenca-feminina-entre-candidatos-no-brasil-nas-eleicoes-2026.ghtml)_
+
