@@ -14,3 +14,6 @@
 - **[2026-09-06 17:10 UTC]** Judoca alemão é agredido com socos por rival após vencer luta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/judoca-alemao-e-agredido-com-socos-por-rival-apos-vencer-luta.shtml)_
 
+- **[2026-09-07 07:00 UTC]** Jurema Batista relembra luta pela autoestima negra
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-09/jurema-batista-relembra-luta-pela-autoestima-negra)_
+
