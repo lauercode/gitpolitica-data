@@ -20,3 +20,6 @@
 - **[2026-09-03 14:15 UTC]** Erika Hilton entra na Justiça contra Ratinho pela segunda vez por transfobia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/erika-hilton-entra-na-justica-contra-ratinho-pela-segunda-vez-por-transfobia.shtml)_
 
+- **[2026-09-07 18:46 UTC]** Candidato ao Senado, Hilton Xavier defende regularização da produção: 'beneficiar sociedade'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-hilton-xavier-defende-regularizacao-da-producao-beneficiar-sociedade.ghtml)_
+
