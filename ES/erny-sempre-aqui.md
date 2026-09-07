@@ -35,3 +35,6 @@
 - **[2026-08-28 16:52 UTC]** 'A gente que gosta do esporte não mede esforços para estar aqui', diz Wesley Safadão sobre participação na Vaquejada de Lagarto
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/a-gente-que-gosta-do-esporte-nao-mede-esforcos-para-estar-aqui-diz-wesley-safadao-sobre-participacao-na-vaquejada-de-lagarto.ghtml)_
 
+- **[2026-09-07 21:11 UTC]** Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss)_
+
