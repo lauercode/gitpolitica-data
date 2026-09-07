@@ -344,3 +344,6 @@
 - **[2026-09-06 20:46 UTC]** Inmet emite alerta amarelo para chuvas e queda de temperaturas no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/inmet-emite-alerta-amarelo-de-chuvas-e-queda-de-temperaturas-no-acre.ghtml)_
 
+- **[2026-09-07 16:58 UTC]** Ônibus com estudantes e professores tomba em rodovia no Acre; não há feridos graves
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/onibus-com-estudantes-e-professores-tomba-em-rodovia-do-acre.ghtml)_
+
