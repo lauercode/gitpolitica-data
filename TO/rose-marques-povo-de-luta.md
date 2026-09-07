@@ -17,3 +17,6 @@
 - **[2026-09-07 07:00 UTC]** Jurema Batista relembra luta pela autoestima negra
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-09/jurema-batista-relembra-luta-pela-autoestima-negra)_
 
+- **[2026-09-07 08:11 UTC]** Como o Dia da Independência apagou a memória da luta negra por independência e abolição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0j3ppkk054o?at_medium=RSS&at_campaign=rss)_
+
