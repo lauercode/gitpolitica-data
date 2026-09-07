@@ -1079,3 +1079,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 18:42 UTC]** Moraes se declara impedido de votar recurso sobre liberdade de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-se-declara-impedido-de-votar-recurso-sobre-liberdade-de-bolsonaro/)_
 
+- **[2026-09-07 21:11 UTC]** Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss)_
+
