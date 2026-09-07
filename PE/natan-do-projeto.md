@@ -239,3 +239,6 @@
 - **[2026-09-06 10:00 UTC]** Projeto de US$ 1 bilhão do cineasta George Lucas vira museu em Los Angeles
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/projeto-de-us-1-bilhao-do-cineasta-george-lucas-vira-museu-em-los-angeles.shtml)_
 
+- **[2026-09-07 09:00 UTC]** Projeto de créditos de carbono evita desmatamento e protege onças, tamanduás e outros animais da Amazônia
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/07/projeto-de-creditos-de-carbono-evita-desmatamento-e-protege-oncas-tamanduas-e-outros-animais-da-amazonia.ghtml)_
+
