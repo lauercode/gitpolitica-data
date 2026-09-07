@@ -32,3 +32,6 @@
 - **[2026-09-04 22:32 UTC]** Fafá de Belém lança projeto em Portugal e destaca impacto econômico do Círio de Nazaré no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/04/fafa-de-belem-lanca-projeto-em-portugal-e-destaca-impacto-economico-do-cirio-de-nazare-no-para.ghtml)_
 
+- **[2026-09-07 08:58 UTC]** Dia da independência do Brasil: a mulher que assinou separação de Portugal e foi a primeira a governar o país
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93v9l32r3ko?at_medium=RSS&at_campaign=rss)_
+
