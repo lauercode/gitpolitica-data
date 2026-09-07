@@ -911,3 +911,6 @@
 - **[2026-09-07 13:49 UTC]** Flávio visita igreja com Tarcísio, ora pela 'nação' e ouve declaração de amor de Valdemiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-visita-igreja-com-tarcisio-reza-pela-nacao-e-ouve-declaracao-de-amor-de-valdemiro.shtml)_
 
+- **[2026-09-07 11:16 UTC]** Atos do 7 de Setembro em Salvador têm ACM Neto e Flávio Bolsonaro na mesma bandeira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/atos-do-7-de-setembro-em-salvador-tem-acm-neto-e-flavio-bolsonaro-na-mesma-bandeira.shtml)_
+
