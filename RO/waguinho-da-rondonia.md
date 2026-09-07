@@ -71,3 +71,6 @@
 - **[2026-09-06 15:03 UTC]** Processo seletivo em Campo Novo de Rondônia com salário de até R$ 5,2 mil termina nesta segunda
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/06/processo-seletivo-em-campo-novo-de-rondonia-com-salario-de-ate-r-52-mil-termina-nesta-segunda.ghtml)_
 
+- **[2026-09-06 22:30 UTC]** Jovem de Rondônia é vítima de linchamento durante festa no interior do Ceará; três suspeitos são presos
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ce/ceara/noticia/2026/09/06/jovem-morto-em-festa-de-iguatu-no-ceara.ghtml)_
+
