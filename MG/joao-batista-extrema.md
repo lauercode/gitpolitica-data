@@ -53,3 +53,6 @@
 - **[2026-09-07 07:58 UTC]** Alemanha: partido de extrema direita tem vitória estadual histórica
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/alemanha-partido-de-extrema-direita-tem-vitoria-estadual-historica)_
 
+- **[2026-09-07 14:21 UTC]** Extrema-direita da Alemanha tenta apoio para montar governo
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/extrema-direita-da-alemanha-tenta-apoio-para-montar-governo)_
+
