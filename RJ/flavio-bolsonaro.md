@@ -725,3 +725,6 @@
 - **[2026-09-06 23:00 UTC]** Flávio Bolsonaro bate recorde de desempenho digital mesmo sob pressão do Master, diz Datrix
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/flavio-bolsonaro-bate-recorde-de-desempenho-digital-mesmo-sob-pressao-do-master-diz-datrix.shtml)_
 
+- **[2026-09-07 07:54 UTC]** Crise do STF embala 7 de setembro e vira trunfo para Flávio Bolsonaro tentar recuperar força eleitoral
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpnpel9jo?at_medium=RSS&at_campaign=rss)_
+
