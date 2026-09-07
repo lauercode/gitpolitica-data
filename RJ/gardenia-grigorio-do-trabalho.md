@@ -224,3 +224,6 @@
 - **[2026-09-07 17:39 UTC]** Grupo de trabalho se reúne pela última vez e empresas veem cartada final por Tecon 10 em 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/grupo-de-trabalho-se-reune-pela-ultima-vez-e-empresas-veem-cartada-final-por-tecon-10-em-2026.shtml)_
 
+- **[2026-09-07 17:31 UTC]** Discussão política no trabalho exige cuidado também fora do escritório
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/sobretudo/carreiras/2026/09/discussao-politica-no-trabalho-exige-cuidado-tambem-fora-do-escritorio.shtml)_
+
