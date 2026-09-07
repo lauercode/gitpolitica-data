@@ -20,3 +20,6 @@
 - **[2026-08-28 09:00 UTC]** Tocantins terá 1º pastor surdo aprovado em banca examinadora; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/tocantins-tera-1o-pastor-surdo-aprovado-em-banca-examinadora-video.ghtml)_
 
+- **[2026-09-07 21:06 UTC]** Candidato ao Senado, Pastor Isamar planeja construir ponte que dá acesso ao Passarão: 'buscar recursos'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-pastor-isamar-planeja-construir-ponte-que-da-acesso-ao-passarao-buscar-recursos.ghtml)_
+
