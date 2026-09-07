@@ -185,3 +185,6 @@
 - **[2026-09-07 12:54 UTC]** A rede de propaganda pró-Rússia que explora violência sexual e usa mulheres do Exército ucraniano como isca
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93ekydj3q1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 17:58 UTC]** Torre Eiffel fecha em protesto após visitantes hindus pedirem afastamento de funcionárias mulheres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/torre-eiffel-fecha-em-protesto-apos-visitantes-hindus-pedirem-afastamento-de-funcionarias-mulheres.shtml)_
+
