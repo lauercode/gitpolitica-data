@@ -47,3 +47,6 @@
 - **[2026-09-05 15:12 UTC]** Hospital de Amor em Barretos inaugura ala de reabilitação oncológica
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/hospital-de-amor-em-barretos-inaugura-ala-de-reabilitacao-oncologica)_
 
+- **[2026-09-07 13:49 UTC]** Flávio visita igreja com Tarcísio, ora pela 'nação' e ouve declaração de amor de Valdemiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-visita-igreja-com-tarcisio-reza-pela-nacao-e-ouve-declaracao-de-amor-de-valdemiro.shtml)_
+
