@@ -29,3 +29,6 @@
 - **[2026-09-03 18:56 UTC]** Jovem ferido por tiro é resgatado de helicóptero após seca impedir acesso por rio em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/03/jovem-ferido-por-tiro-e-resgatado-de-helicoptero-apos-seca-impedir-acesso-por-rio-em-ro.ghtml)_
 
+- **[2026-09-07 15:23 UTC]** PM é preso após esposa ser encontrada morta com tiro na casa em que moravam em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/esposa-de-pm-e-encontrada-morta-com-arma-do-marido-embaixo-do-corpo.shtml)_
+
