@@ -233,3 +233,6 @@
 - **[2026-09-07 18:37 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de segunda-feira, 7 de setembro de 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/07/videos-jornal-do-almoco-florianopolis-de-segunda-feira-7-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-07 19:24 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de segunda-feira, 7 de setembro de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-segunda-feira-7-de-setembro-de-2026.ghtml)_
+
