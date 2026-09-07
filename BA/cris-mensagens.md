@@ -251,3 +251,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-06 18:35 UTC]** Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/06/mendonca-libera-para-plenario-do-stf-caso-de-mensagens-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-07 12:31 UTC]** Chacina de Pioz: jovem que denunciou troca de mensagens entre acusados relembra o crime que deixou família da PB morta na Espanha
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/chacina-de-pioz-jovem-que-denunciou-troca-de-mensagens-entre-acusados-relembra-o-crime-que-deixou-familia-da-pb-morta-na-espanha.ghtml)_
+
