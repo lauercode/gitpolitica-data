@@ -1073,3 +1073,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 15:17 UTC]** Flávio Bolsonaro liga Lula a Moraes em ato na Paulista com defesa de Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-reune-apoiadores-na-paulista-para-ato-do-7-de-setembro.shtml)_
 
+- **[2026-09-07 19:06 UTC]** Damares atribui a Moraes ausência de Michelle em atos do 7 de Setembro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-atribui-a-moraes-ausencia-de-michelle-em-atos-do-7-de-setembro/)_
+
