@@ -947,3 +947,6 @@
 - **[2026-09-07 21:11 UTC]** Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 22:01 UTC]** Quaest: Flávio Bolsonaro tem 55% de rejeição e Lula, 53%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-flavio-bolsonaro-tem-55percent-de-rejeicao-e-lula-53percent.ghtml)_
+
