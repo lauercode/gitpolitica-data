@@ -44,3 +44,6 @@
 - **[2026-09-06 06:00 UTC]** 'Eles abriram a porta e nos arrastaram para fora': operação do ICE amplia medo em Nova Jersey
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eles-abriram-a-porta-e-nos-arrastaram-para-fora-operacao-do-ice-amplia-medo-em-nova-jersey.shtml)_
 
+- **[2026-09-07 04:00 UTC]** Passa mal ao tirar sangue? Veja sete dicas para lidar com o medo de agulha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/passa-mal-ao-tirar-sangue-veja-sete-dicas-para-lidar-com-o-medo-de-agulha.shtml)_
+
