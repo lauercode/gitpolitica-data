@@ -1034,3 +1034,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 17:34 UTC]** Capitais registram manifestações contra Alexandre de Moraes, do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/capitais-registram-manifestacoes.ghtml)_
 
+- **[2026-09-07 17:23 UTC]** Renan Santos faz ato no Ibirapuera e pede afastamento de Toffoli e Moraes do STF, de Andrei da PF e de Gonet da PGR
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/renan-santos-faz-ato-no-ibirapuera-e-pede-afastamento-de-toffoli-e-moraes-do-stf-de-andrei-da-pf-e-de-gonet-da-pgr.ghtml)_
+
