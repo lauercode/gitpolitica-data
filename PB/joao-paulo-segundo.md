@@ -197,3 +197,6 @@
 - **[2026-09-07 10:38 UTC]** Frio marca início do feriado de 7 de Setembro no Paraná, com temperaturas abaixo de 0°C, segundo o Simepar; veja a previsão
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/07/frio-feriado-parana-tempo.ghtml)_
 
+- **[2026-09-07 14:15 UTC]** Augusto Cury diz que é o pesadelo de Lula e promete “aposentar” o petista se chegar ao segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-diz-que-e-o-pesadelo-de-lula-e-promete-aposentar-o-petista-se-chegar-ao-segundo-turno/)_
+
