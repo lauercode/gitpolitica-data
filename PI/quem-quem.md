@@ -296,3 +296,6 @@
 - **[2026-09-07 04:00 UTC]** Quem ganha com a crise do Supremo?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/quem-ganha-com-a-crise-do-supremo.shtml)_
 
+- **[2026-09-07 12:18 UTC]** Polícia do Rio intima streamer que hostilizou ator de 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/policia-do-rio-intima-streamer-que-hostilizou-ator-de-quem-ama-cuida.shtml)_
+
