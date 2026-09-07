@@ -20,3 +20,6 @@
 - **[2026-09-04 17:12 UTC]** Caso José Arthur: Delegacia em Marabá assume investigação
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/caso-jose-arthur-investigacao.ghtml)_
 
+- **[2026-09-07 17:22 UTC]** Barco com passageiros afunda no rio Tocantins, em Marabá, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/barco-com-passageiros-afunda-no-rio-tocantins-em-maraba-no-para.ghtml)_
+
