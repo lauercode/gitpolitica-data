@@ -962,3 +962,6 @@
 - **[2026-09-08 00:41 UTC]** Claudio Lottenberg: quem é o “Posto Ipiranga” de Flávio para a Saúde
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/claudio-lottenberg-quem-e-posto-ipiranga-de-flavio-para-saude/)_
 
+- **[2026-09-08 11:50 UTC]** ‘Se o Flávio Bolsonaro for eleito, o Vorcaro não fica na cadeia. Eles vão combinar o que fazer com os R$ 40 bilhões que estão fora do Brasil’, diz Haddad em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/08/se-o-flavio-bolsonaro-for-eleito-o-vorcaro-nao-fica-na-cadeia-eles-vao-combinar-o-que-fazer-com-os-r-40-bilhoes-que-estao-fora-do-brasil-diz-haddad-em-sp.ghtml)_
+
