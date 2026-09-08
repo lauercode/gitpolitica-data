@@ -14,3 +14,6 @@
 - **[2026-09-05 19:36 UTC]** Procon pesquisa preços em churrascarias de Aracaju: prato para dois vai de R$ 75 a R$ 120
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/procon-pesquisa-precos-em-churrascarias-de-aracaju.ghtml)_
 
+- **[2026-09-08 18:45 UTC]** Procon Natal realiza feirão para renegociar dívidas na Zona Norte; veja como participar
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/procon-natal-realiza-feirao-para-renegociar-dividas-na-zona-norte-veja-como-participar.ghtml)_
+
