@@ -92,3 +92,6 @@
 - **[2026-09-07 23:00 UTC]** Toyota Corolla chega aos 60 anos sob pressão de rivais chineses
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/toyota-corolla-chega-aos-60-anos-sob-pressao-de-rivais-chineses.shtml)_
 
+- **[2026-09-08 15:35 UTC]** Decisão de afastar Andrei do comando da PF amplia pressão e STF busca saída para crise
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/crise-stf-pf-moraes.ghtml)_
+
