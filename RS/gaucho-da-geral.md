@@ -53,3 +53,6 @@
 - **[2026-09-08 11:52 UTC]** Mendonça determina afastamento de diretor-geral da PF, Andrei Rodrigues
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/mendonca-afastamento-de-diretor-geral-da-pf-andrei-rodrigues.ghtml)_
 
+- **[2026-09-08 12:35 UTC]** Mendonça afasta diretor-geral da PF, Andrei Rodrigues
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss)_
+
