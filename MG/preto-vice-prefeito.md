@@ -68,3 +68,6 @@
 - **[2026-09-05 12:32 UTC]** Morre aos 59 anos Alexandre Vieira, prefeito Mormaço (RS), que estava internado
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/morre-prefeito-mormaco-rs-que-estava-internado.ghtml)_
 
+- **[2026-09-08 14:32 UTC]** Vereador afirma que prefeito deve 'obrigar' votos de servidores contratados na PB: 'Chame um por um'; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/vereador-afirma-que-prefeito-deve-obrigar-votos-de-servidores-contratados-na-pb-chame-um-por-um.ghtml)_
+
