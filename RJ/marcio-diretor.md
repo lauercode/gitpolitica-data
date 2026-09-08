@@ -92,3 +92,6 @@
 - **[2026-09-08 11:09 UTC]** Segunda Turma do STF forma maioria para afastar diretor-geral da PF
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/segunda-turma-do-stf-forma-maioria-para-afastar-diretor-geral-da-pf)_
 
+- **[2026-09-08 15:18 UTC]** Livro '1984', citado por Mendonça em decisão que afasta diretor da PF, mostra vigilância em mundo distópico
+  _fonte: [G1 - Política:](https://g1.globo.com/pop-arte/noticia/2026/09/08/livro-1984-citado-por-mendonca-em-decisao-que-afasta-diretor-da-pf-mostra-vigilancia-em-mundo-distopico.ghtml)_
+
