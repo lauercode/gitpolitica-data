@@ -233,3 +233,6 @@
 - **[2026-09-08 20:12 UTC]** Quaest no DF: Flávio, 31%; Lula, 28%; Caiado, 12%; Cury, 8%; Zema, 2%; Renan, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/08/quaest-df-presidente-8-setembro.ghtml)_
 
+- **[2026-09-08 20:05 UTC]** Quaest em MG: Lula, 31%; Flávio Bolsonaro, 27%; Cury, 8%;  Zema, 6%; Caiado, 3%; Renan, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-presidente-8-setembro.ghtml)_
+
