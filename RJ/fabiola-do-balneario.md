@@ -32,3 +32,6 @@
 - **[2026-09-06 17:38 UTC]** VÍDEO: cachorro cai na galeria de macrodrenagem da praia alargada de Balneário Camboriú e resgate mobiliza bombeiros
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/video-cachorro-cai-galeria-macrodrenagem-praia-alargada-balneario-camboriu.ghtml)_
 
+- **[2026-09-08 03:00 UTC]** Morre cachorro que caiu em galeria de macrodrenagem da praia alargada de Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/08/morre-cachorro-caiu-macrodrenagem-praia-balneario-camboriu.ghtml)_
+
