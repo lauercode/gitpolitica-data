@@ -125,3 +125,6 @@
 - **[2026-09-07 07:58 UTC]** Alemanha: partido de extrema direita tem vitória estadual histórica
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/alemanha-partido-de-extrema-direita-tem-vitoria-estadual-historica)_
 
+- **[2026-09-07 22:40 UTC]** Eleições 2026: Fábio diz que vai implantar universidade estadual
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-fabio-diz-que-vai-implantar-universidade-estadual-e-reformar-escolas.ghtml)_
+
