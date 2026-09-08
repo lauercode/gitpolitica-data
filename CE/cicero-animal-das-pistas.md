@@ -11,3 +11,6 @@
 - **[2026-09-06 18:00 UTC]** Doenças raras da América do Sul dão pistas sobre a próxima pandemia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/doencas-raras-da-america-do-sul-dao-pistas-sobre-a-proxima-pandemia.shtml)_
 
+- **[2026-09-08 06:00 UTC]** Lagartixas têm pistas-chave para origem dos cromossomos sexuais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/lagartixas-tem-pistas-chave-para-origem-dos-cromossomos-sexuais.shtml)_
+
