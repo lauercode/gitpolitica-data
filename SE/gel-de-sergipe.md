@@ -194,3 +194,6 @@
 - **[2026-09-08 11:56 UTC]** Professores da rede pública de Sergipe iniciam greve por tempo indeterminado
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/08/professores-da-rede-publica-de-sergipe-iniciam-greve-por-tempo-indeterminado.ghtml)_
 
+- **[2026-09-08 16:26 UTC]** Seca e estiagem afetam mais de 69 mil pessoas em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/08/seca-e-estiagem-em-sergipe.ghtml)_
+
