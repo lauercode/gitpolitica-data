@@ -44,3 +44,6 @@
 - **[2026-09-05 14:15 UTC]** Rodrigo Cavalcante é eleito novo defensor público-geral de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/rodrigo-cavalcante-e-eleito-novo-defensor-publico-geral-de-sergipe.ghtml)_
 
+- **[2026-09-08 02:40 UTC]** Candidato ao Senado, Hiperion de Oliveira quer melhorias na saúde: 'não tem clínico geral'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-hiperion-de-oliveira-quer-melhorias-na-saude-nao-tem-clinico-geral.ghtml)_
+
