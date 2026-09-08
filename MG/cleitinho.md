@@ -41,3 +41,6 @@
 - **[2026-09-04 13:00 UTC]** Cleitinho aposta em agendas no interior e mobilização digital como estratégia de campanha em MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cleitinho-aposta-em-agendas-no-interior-e-mobilizacao-digital-como-estrategia-de-campanha-em-mg.shtml)_
 
+- **[2026-09-08 20:05 UTC]** Quaest em MG: Cleitinho, 32%; Patrus, 11%; Kalil, 11%; Simões, 8%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-governador-8-setembro.ghtml)_
+
