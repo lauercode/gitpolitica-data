@@ -215,3 +215,6 @@
 - **[2026-09-08 09:45 UTC]** Trump publica mapa que inclui Canadá, México e Groenlândia sob bandeira dos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-publica-mapa-que-inclui-canada-mexico-e-groenlandia-sob-bandeira-dos-eua.shtml)_
 
+- **[2026-09-08 18:59 UTC]** Possível uniforme de força espacial de Trump gera comparação com farda nazista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/possivel-uniforme-de-forca-espacial-de-trump-gera-comparacao-com-farda-nazista.shtml)_
+
