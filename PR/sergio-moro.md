@@ -38,3 +38,6 @@
 - **[2026-09-04 11:41 UTC]** Eleições 2026 no PR: Sérgio Moro propõe plataforma para acompanhar pedágios e obras nas rodovias
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-sergio-moro.ghtml)_
 
+- **[2026-09-07 23:25 UTC]** Eleições 2026 no PR: Sérgio Moro participa de Desfile Cívico-Militar e outros compromissos de campanha
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-no-pr-sergio-moro-desfile.ghtml)_
+
