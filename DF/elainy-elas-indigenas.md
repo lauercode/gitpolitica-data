@@ -29,3 +29,6 @@
 - **[2026-09-04 21:55 UTC]** Dr. Daniel diz que pode recorrer ao STF para contestar demarcações de terras indígenas, se for eleito no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/04/dr-daniel-propoe-parceria-entre-estado-e-incra-para-regularizacao-fundiaria-se-for-eleito-no-para.ghtml)_
 
+- **[2026-09-08 13:40 UTC]** Nicoletti quer regularizar garimpos em terras indígenas caso seja eleito senador por Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/08/nicoletti-quer-regularizar-garimpos-em-terras-indigenas-caso-seja-eleito-senador-por-roraima.ghtml)_
+
