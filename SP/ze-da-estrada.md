@@ -26,3 +26,6 @@
 - **[2026-09-07 20:17 UTC]** Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas)_
 
+- **[2026-09-08 06:00 UTC]** Transporte sofre com estrada sem asfalto e falta de trens e corredores de ônibus, diz CNT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/transporte-sofre-com-estrada-sem-asfalto-e-falta-de-trens-e-corredores-de-onibus-diz-cnt.shtml)_
+
