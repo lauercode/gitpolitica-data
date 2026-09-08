@@ -1109,3 +1109,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 15:56 UTC]** Vorcaro antecipou voo a Dubai após conversa e encontro com Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-antecipou-voo-dubai-apos-conversa-encontro-moraes/)_
 
+- **[2026-09-08 14:57 UTC]** Mendonça cita precedentes de Moraes em decisão crítica ao ministro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-cita-precedentes-de-moraes-em-decisao-critica-ao-ministro/)_
+
