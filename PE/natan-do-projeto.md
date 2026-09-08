@@ -260,3 +260,6 @@
 - **[2026-09-07 23:00 UTC]** Projeto de Flávio Bolsonaro para resorts em Angra beneficia amigo do senador alvo da PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/projeto-de-flavio-para-resorts-em-angra-beneficia-amigo-do-senador-alvo-da-pf.shtml)_
 
+- **[2026-09-08 14:49 UTC]** Comissão aprova projeto que prevê isenção de impostos para equipamentos de tecnologia assistiva
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302934-comissao-aprova-projeto-que-preve-isencao-de-impostos-para-equipamentos-de-tecnologia-assistiva)_
+
