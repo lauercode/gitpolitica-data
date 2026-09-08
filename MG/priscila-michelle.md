@@ -23,3 +23,6 @@
 - **[2026-09-07 19:06 UTC]** Damares atribui a Moraes ausência de Michelle em atos do 7 de Setembro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-atribui-a-moraes-ausencia-de-michelle-em-atos-do-7-de-setembro/)_
 
+- **[2026-09-08 20:07 UTC]** Quaest para o Senado no DF: Michelle, 26%; Leila, 17%; Erika, 13%; Bia, 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/08/quaest-df-senado-8-setembro.ghtml)_
+
