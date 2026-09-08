@@ -53,3 +53,6 @@
 - **[2026-09-04 22:10 UTC]** Professora que viralizou ao cuidar de criança durante aula diz que mãe teve que trancar curso: ‘Por um momento’
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/professora-que-viralizou-ao-cuidar-de-crianca-durante-aula-diz-que-mae-teve-que-trancar-curso-por-um-momento.ghtml)_
 
+- **[2026-09-08 15:42 UTC]** VÍDEO: Mãe e filha dançam juntas em hospital para comemorar avanço de tratamento e momento emocionante é flagrado por médica e viraliza
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/video-mae-e-filha-dancam-juntas-em-hospital.ghtml)_
+
