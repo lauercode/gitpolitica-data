@@ -1136,3 +1136,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 20:15 UTC]** Moraes foi mais longe ao interferir na PF com Ramagem do que Mendonça com Andrei
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-foi-mais-longe-ao-interferir-na-pf-com-ramagem-do-que-mendonca-com-andrei/)_
 
+- **[2026-09-08 21:43 UTC]** Mendonça investe contra Moraes e arrasta Lula para crise no STF
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/mendonca-investe-contra-moraes-e-arrasta-lula-para-crise-no-stf/)_
+
