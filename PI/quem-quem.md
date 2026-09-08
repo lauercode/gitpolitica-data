@@ -326,3 +326,6 @@
 - **[2026-09-08 12:00 UTC]** Por que quem já tem tanto ainda quer mais?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/09/por-que-quem-ja-tem-tanto-ainda-quer-mais.shtml)_
 
+- **[2026-09-08 16:02 UTC]** Careiro tem saque calamidade do FGTS liberado; veja quem pode receber
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/09/08/careiro-tem-saque-calamidade-do-fgts-liberado-veja-quem-pode-receber.ghtml)_
+
