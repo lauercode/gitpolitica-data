@@ -965,3 +965,6 @@
 - **[2026-09-08 11:50 UTC]** ‘Se o Flávio Bolsonaro for eleito, o Vorcaro não fica na cadeia. Eles vão combinar o que fazer com os R$ 40 bilhões que estão fora do Brasil’, diz Haddad em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/08/se-o-flavio-bolsonaro-for-eleito-o-vorcaro-nao-fica-na-cadeia-eles-vao-combinar-o-que-fazer-com-os-r-40-bilhoes-que-estao-fora-do-brasil-diz-haddad-em-sp.ghtml)_
 
+- **[2026-09-08 08:27 UTC]** BTG/Nexus: Flávio Bolsonaro (46%) e Lula (45%) mantêm empate técnico no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-flavio-bolsonaro-46-e-lula-45-mantem-empate-tecnico-no-2o-turno.shtml)_
+
