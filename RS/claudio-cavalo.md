@@ -32,3 +32,6 @@
 - **[2026-09-07 11:50 UTC]** Adolescente de 16 anos morre após cair de cavalo durante 'pega de boi' em Poço Redondo
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/adolescente-de-16-anos-morre-apos-cair-de-cavalo-durante-pega-de-boi-em-poco-redondo.ghtml)_
 
+- **[2026-09-08 08:45 UTC]** Bebê deixa maternidade a cavalo e vestindo traje típico no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/blog/reporter-farroupilha/noticia/2026/09/08/bebe-deixa-maternidade-a-cavalo-e-vestindo-traje-tipico-no-rs.ghtml)_
+
