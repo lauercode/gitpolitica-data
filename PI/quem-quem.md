@@ -314,3 +314,6 @@
 - **[2026-09-07 22:35 UTC]** Renato Góes rejeita possível mal-estar com Tata Werneck em 'Quem Ama Cuida'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/renato-goes-rejeita-possivel-mal-estar-com-tata-werneck-em-quem-ama-cuida.shtml)_
 
+- **[2026-09-08 00:41 UTC]** Claudio Lottenberg: quem é o “Posto Ipiranga” de Flávio para a Saúde
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/claudio-lottenberg-quem-e-posto-ipiranga-de-flavio-para-saude/)_
+
