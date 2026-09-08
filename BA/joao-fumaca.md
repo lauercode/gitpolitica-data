@@ -20,3 +20,6 @@
 - **[2026-09-07 14:17 UTC]** Caso Master: briga pelo controle da investigação tem acusações de 'cortina de fumaça' e operação abafa no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/07/caso-master-briga-pelo-controle-da-investigacao-tem-acusacoes-de-cortina-de-fumaca-e-operacao-abafa-no-stf.ghtml)_
 
+- **[2026-09-08 14:01 UTC]** Manaus amanhece encoberta por fumaça e registra qualidade do ar moderada nesta terça-feira (8)
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/08/manaus-amanhece-encoberta-por-fumaca-e-registra-qualidade-do-ar-moderada-nesta-terca-feira-8.ghtml)_
+
