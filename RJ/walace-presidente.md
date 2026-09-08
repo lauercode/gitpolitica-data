@@ -392,3 +392,6 @@
 - **[2026-09-07 22:22 UTC]** Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 7 de setembro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/fio-do-professor-felipe-nunes-7-de-setembro.ghtml)_
 
+- **[2026-09-07 21:35 UTC]** Vida nababesca é normal para filhos de presidente e de ex, diz leitora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/vida-nababesca-e-normal-para-filhos-de-presidente-e-de-ex-diz-leitora.shtml)_
+
