@@ -194,3 +194,6 @@
 - **[2026-09-07 22:29 UTC]** Grito dos Excluídos reúne manifestantes a favor da paz, moradia e direito das mulheres
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/07/grito-dos-excluidos-reune-manifestantes-a-favor-da-paz-moradia-e-direito-das-mulheres.ghtml)_
 
+- **[2026-09-08 04:00 UTC]** Violência doméstica interna 15 mulheres por dia com quadro de politraumatismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/violencia-domestica-interna-15-mulheres-por-dia-com-quadro-de-politraumatismo.shtml)_
+
