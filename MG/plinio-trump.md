@@ -206,3 +206,6 @@
 - **[2026-09-07 17:26 UTC]** Trump diz que canadense Bombardier só poderá vender nos EUA se fabricar no país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-diz-que-canadense-bombardier-so-podera-vender-nos-eua-se-fabricar-no-pais.shtml)_
 
+- **[2026-09-07 23:00 UTC]** Economia e Trump em baixa pressionam republicanos a 2 meses das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/economia-e-trump-em-baixa-pressionam-republicanos-a-2-meses-das-eleicoes.shtml)_
+
