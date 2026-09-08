@@ -11,3 +11,6 @@
 - **[2026-09-07 09:00 UTC]** Sou Manaus 2026: Ferrugem, Gustavo Mioto e MC Hariel na programação desta segunda-feira (7); veja horários
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/09/07/sou-manaus-2026-ferrugem-gustavo-mioto-e-mc-hariel-na-programacao-desta-segunda-feira-7-veja-horarios.ghtml)_
 
+- **[2026-09-08 05:08 UTC]** Sou Manaus termina com mistura de ritmos e shows de Ferrugem, Gustavo Mioto, Natanzinho Lima e MC Hariel
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/09/08/sou-manaus-termina-com-mistura-de-ritmos-e-shows-de-ferrugem-gustavo-mioto-natanzinho-lima-e-mc-hariel.ghtml)_
+
