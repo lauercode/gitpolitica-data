@@ -59,3 +59,6 @@
 - **[2026-09-08 12:39 UTC]** Ponto no bairro Perdizes foi comparado à colina onde Jesus se transfigurou
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2026/09/ponto-no-bairro-perdizes-foi-comparado-a-colina-onde-jesus-se-transfigurou.shtml)_
 
+- **[2026-09-08 19:25 UTC]** Rompimento de adutora afeta abastecimento de água em bairro de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/rompimento-de-adutora-afeta-abastecimento-de-agua-em-bairro-de-rio-branco.ghtml)_
+
