@@ -395,3 +395,6 @@
 - **[2026-09-08 17:29 UTC]** Em visita a fábricas, Tião Bocalom defende ambiente favorável para atrair empresas ao Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/em-visita-a-fabricas-tiao-bocalom-defende-ambiente-favoravel-para-atrair-empresas-ao-acre.ghtml)_
 
+- **[2026-09-08 21:34 UTC]** Cidade do Acre recebe mais de R$ 1,2 milhão para ações de proteção durante seca
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/cidade-do-ac-recebe-mais-de-r-12-milhao-do-governo-federal-para-acoes-de-protecao-durante-seca.ghtml)_
+
