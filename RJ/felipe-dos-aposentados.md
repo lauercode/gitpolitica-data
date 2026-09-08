@@ -14,3 +14,6 @@
 - **[2026-09-08 03:36 UTC]** Em carta a Fachin, ministros aposentados manifestam apoio e cobram apuração 'pública' e 'rigorosa' diante de crise no STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 11:09 UTC]** A carta de 13 ministros aposentados do STF para Edison Fachin: 'mais aguda crise' e 'imediata e rigorosa apuração'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss)_
+
