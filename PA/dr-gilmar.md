@@ -59,3 +59,6 @@
 - **[2026-09-08 10:12 UTC]** STF tem maioria para manter ordem de Mendonça de afastar diretor-geral da PF; Gilmar pede vista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-mendes-suspende-sessao-do-supremo-que-julga-afastamento-de-chefe-da-pf.shtml)_
 
+- **[2026-09-08 14:33 UTC]** Segunda Turma adianta votos após vista de Gilmar Mendes e mantém afastamento de Andrei Rodrigues
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-suspende-julgamento-de-afastamento-de-andrei-determinado-por-mendonca/)_
+
