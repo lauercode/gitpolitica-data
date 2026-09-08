@@ -125,3 +125,6 @@
 - **[2026-09-08 10:12 UTC]** STF tem maioria para manter ordem de Mendonça de afastar diretor-geral da PF; Gilmar pede vista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-mendes-suspende-sessao-do-supremo-que-julga-afastamento-de-chefe-da-pf.shtml)_
 
+- **[2026-09-08 17:02 UTC]** STF tem maioria pelo afastamento de diretor-geral da PF a pedido de Mendonça, mas Gilmar Mendes suspende julgamento; acompanhe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss)_
+
