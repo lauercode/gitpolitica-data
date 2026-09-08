@@ -59,3 +59,6 @@
 - **[2026-09-06 21:26 UTC]** Genética de morcegos pode revolucionar combate ao câncer
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/genetica-de-morcegos-pode-revolucionar-combate-ao-cancer.shtml)_
 
+- **[2026-09-08 18:12 UTC]** Comissão aprova justiça gratuita para pessoas com câncer ou com deficiência
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302975-comissao-aprova-justica-gratuita-para-pessoas-com-cancer-ou-com-deficiencia)_
+
