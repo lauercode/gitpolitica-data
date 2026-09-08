@@ -236,3 +236,6 @@
 - **[2026-09-07 19:24 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de segunda-feira, 7 de setembro de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-segunda-feira-7-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-07 22:39 UTC]** VÍDEOS: Jornal Liberal 2ª edição, 7 de setembro de 2026
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/playlist/videos-jornal-liberal-2-edicao-7-de-setembro-de-2026.ghtml)_
+
