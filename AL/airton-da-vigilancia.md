@@ -20,3 +20,6 @@
 - **[2026-09-08 13:14 UTC]** PF autua Remo, Paysandu e empresa de vigilância por falhas na segurança de jogos no Mangueirão
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/pf-autua-remo-paysandu-e-empresa-de-vigilancia-por-falhas-na-seguranca-de-jogos-no-mangueirao.ghtml)_
 
+- **[2026-09-08 18:03 UTC]** Mendonça cita ‘1984’ para descrever monitoramento da PF e alerta para cenário de vigilância institucional
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-cita-1984-para-descrever-monitoramento-da-pf-e-alerta-para-cenario-de-vigilancia-institucional/)_
+
