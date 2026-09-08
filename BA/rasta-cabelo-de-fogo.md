@@ -101,3 +101,6 @@
 - **[2026-09-08 14:29 UTC]** Aposentado é suspeito de ameaçar ex-mulher com faca e atear fogo nos pertences dela após término
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/08/aposentado-e-suspeito-de-ameacar-ex-mulher-com-faca-e-atear-fogo-nos-pertences-dela-apos-termino.ghtml)_
 
+- **[2026-09-08 15:20 UTC]** Advogado é preso por porte ilegal de arma de fogo em Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/08/advogado-e-preso-por-porte-ilegal-de-arma-de-fogo-em-aracaju.ghtml)_
+
