@@ -47,3 +47,6 @@
 - **[2026-09-08 02:40 UTC]** Candidato ao Senado, Hiperion de Oliveira quer melhorias na saúde: 'não tem clínico geral'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-hiperion-de-oliveira-quer-melhorias-na-saude-nao-tem-clinico-geral.ghtml)_
 
+- **[2026-09-08 08:44 UTC]** Assembleia-Geral da ONU começa nesta terça-feira (8), em Nova York
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/assembleia-geral-da-onu-comeca-nesta-terca-feira-8-em-nova-york)_
+
