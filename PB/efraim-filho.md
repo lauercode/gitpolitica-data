@@ -26,3 +26,6 @@
 - **[2026-09-08 14:09 UTC]** Homem é preso após filho de 10 anos denunciar maus-tratos contra irmão mais novo no Sertão da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/homem-e-preso-apos-filho-de-10-anos-denunciar-maus-tratos-contra-irmao-mais-novo-no-sertao-da-pb.ghtml)_
 
+- **[2026-09-08 22:24 UTC]** Efraim Filho fala em reabertura de delegacias 24 horas e tirar presídios de bairro, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/efraim-filho-fala-em-reabertura-de-delegacias-24-horas-e-tirar-presidios-de-bairro-em-joao-pessoa.ghtml)_
+
