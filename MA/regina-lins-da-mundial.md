@@ -65,3 +65,6 @@
 - **[2026-09-07 21:35 UTC]** Professor do RS dá aula por 80 horas seguidas e supera recorde mundial da Índia
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/professor-rs-da-aula-80-horas-supera-recorde-mundial.ghtml)_
 
+- **[2026-09-07 20:17 UTC]** Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas)_
+
