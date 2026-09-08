@@ -404,3 +404,6 @@
 - **[2026-09-08 11:17 UTC]** Jovem morre após acidente de moto na zona rural de Presidente Dutra
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/jovem-morre-apos-acidente-de-moto-na-zona-rural-de-presidente-dutra.ghtml)_
 
+- **[2026-09-08 10:45 UTC]** Carreta desgovernada sai da pista e atinge estabelecimentos comerciais em Presidente Dutra
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/carreta-desgovernada-sai-da-pista-e-atinge-estabelecimentos-comerciais-em-presidente-dutra-no-ma.ghtml)_
+
