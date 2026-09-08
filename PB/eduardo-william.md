@@ -11,3 +11,6 @@
 - **[2026-08-29 15:45 UTC]** William Bonner será sabatinado por Fátima Bernardes e pela filha no YouTube
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/william-bonner-sera-sabatinado-por-fatima-bernardes-e-pela-filha-no-youtube.shtml)_
 
+- **[2026-09-08 15:51 UTC]** William Marcel Murad assume interinamente direção-geral da PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/cupula-da-pf-e-notificada-de-afastamento-do-stf-e-numero-2-assume-a-direcao-geral-da-corporacao.ghtml)_
+
