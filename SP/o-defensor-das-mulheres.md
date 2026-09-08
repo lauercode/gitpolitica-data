@@ -197,3 +197,6 @@
 - **[2026-09-08 04:00 UTC]** Violência doméstica interna 15 mulheres por dia com quadro de politraumatismo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/violencia-domestica-interna-15-mulheres-por-dia-com-quadro-de-politraumatismo.shtml)_
 
+- **[2026-09-08 08:38 UTC]** Torre Eiffel reabre após protesto contra afastamento de mulheres em visita hindu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/torre-eiffel-reabre-apos-protesto-contra-afastamento-de-mulheres-em-visita-hindu.shtml)_
+
