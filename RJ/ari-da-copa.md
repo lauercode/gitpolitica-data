@@ -104,3 +104,6 @@
 - **[2026-09-08 13:55 UTC]** Sem jogos ao vivo, Band tentar faturar R$ 10 milhões com Copa do Mundo feminina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sem-jogos-ao-vivo-band-tentar-faturar-r-10-milhoes-com-copa-do-mundo-feminina.shtml)_
 
+- **[2026-09-08 19:15 UTC]** Três meninos pegam figurinhas da Copa do Mundo sem autorização em shopping e vão parar no Conselho Tutelar
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/08/tres-meninos-pegam-figurinhas-da-copa-do-mundo-sem-autorizacao-em-shopping-e-vao-parar-no-conselho-tutelar.ghtml)_
+
