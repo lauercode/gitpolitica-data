@@ -107,3 +107,6 @@
 - **[2026-09-08 19:15 UTC]** Três meninos pegam figurinhas da Copa do Mundo sem autorização em shopping e vão parar no Conselho Tutelar
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/08/tres-meninos-pegam-figurinhas-da-copa-do-mundo-sem-autorizacao-em-shopping-e-vao-parar-no-conselho-tutelar.ghtml)_
 
+- **[2026-09-08 19:08 UTC]** Brasileiras são vice-campeãs da Copa América de futebol de cegas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiras-sao-vice-campeas-da-copa-america-de-futebol-de-cegas)_
+
