@@ -29,3 +29,6 @@
 - **[2026-09-07 23:00 UTC]** Estudiosos deveriam ter previsto a crise democrática atual, diz cientista política americana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/estudiosos-deveriam-ter-previsto-a-crise-democratica-atual-diz-cientista-politica-americana.shtml)_
 
+- **[2026-09-08 12:31 UTC]** Marcelo Queiroga, candidato a senador pela Paraíba, diz ser contra o fim da escala 6x1 e a favor da legislação atual sobre aborto
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/marcelo-queiroga-candidato-a-senador-pela-paraiba-diz-ser-contra-o-fim-da-escala-6x1-a-favor-legislacao-atual-aborto.ghtml)_
+
