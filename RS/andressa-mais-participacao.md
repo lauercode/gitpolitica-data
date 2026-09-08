@@ -44,3 +44,6 @@
 - **[2026-09-07 20:59 UTC]** Suspeitos de torturar jovem que caiu do 14º andar no PR são soltos após laudo descartar participação direta na queda
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/07/suspeitos-soltos-queda-morte-londrina.ghtml)_
 
+- **[2026-09-07 23:59 UTC]** Rock in Rio 2026: 'Sou perna de pau', diz Junno Andrade sobre participação na Dança dos Famosos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-sou-perna-de-pau-diz-junno-andrade-sobre-participacao-na-danca-dos-famosos.shtml)_
+
