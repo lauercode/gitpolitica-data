@@ -47,3 +47,6 @@
 - **[2026-09-05 13:12 UTC]** Movimento contra violência sexual lança site para facilitar denúncias
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/movimento-contra-violencia-sexual-lanca-site-para-facilitar-denuncias)_
 
+- **[2026-09-08 20:09 UTC]** Grupo RBS lança série sobre desafios do RS e expectativas dos eleitores
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/grupo-rbs-serie-desafios-do-rs.ghtml)_
+
