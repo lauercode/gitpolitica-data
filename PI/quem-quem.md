@@ -329,3 +329,6 @@
 - **[2026-09-08 16:02 UTC]** Careiro tem saque calamidade do FGTS liberado; veja quem pode receber
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/09/08/careiro-tem-saque-calamidade-do-fgts-liberado-veja-quem-pode-receber.ghtml)_
 
+- **[2026-09-08 13:50 UTC]** Cabo do Exército e empresário: quem são as vítimas atingidas por caminhão-tanque na Linha Verde, em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/08/vitimas-acidente-linha-verde-curitiba.ghtml)_
+
