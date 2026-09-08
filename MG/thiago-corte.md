@@ -53,3 +53,6 @@
 - **[2026-09-07 08:09 UTC]** Jaguar Land Rover anuncia corte de 4.000 empregos nos próximos dois anos para reduzir custos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/jaguar-land-rover-anuncia-corte-de-4000-empregos-nos-proximos-dois-anos-para-reduzir-custos.shtml)_
 
+- **[2026-09-07 23:57 UTC]** Ex-presidentes do STF pedem ação de Fachin e falam em 'mais aguda crise' da corte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ex-presidentes-do-stf-pedem-acao-de-fachin-e-falam-em-mais-aguda-crise-da-corte.shtml)_
+
