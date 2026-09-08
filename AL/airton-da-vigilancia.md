@@ -14,3 +14,6 @@
 - **[2026-09-06 04:00 UTC]** Arranha-céu de vigilância no México vira foco de tensão bilateral com os Estados Unidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/arranha-ceu-de-vigilancia-no-mexico-vira-foco-de-tensao-bilateral-com-os-estados-unidos.shtml)_
 
+- **[2026-09-08 15:18 UTC]** Livro '1984', citado por Mendonça em decisão que afasta diretor da PF, mostra vigilância em mundo distópico
+  _fonte: [G1 - Política:](https://g1.globo.com/pop-arte/noticia/2026/09/08/livro-1984-citado-por-mendonca-em-decisao-que-afasta-diretor-da-pf-mostra-vigilancia-em-mundo-distopico.ghtml)_
+
