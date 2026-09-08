@@ -41,3 +41,6 @@
 - **[2026-09-06 03:00 UTC]** Governo federal projeta receita total de R$ 3,24 trilhões em 2026; número é recorde e equivale a 23,7% do PIB
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/06/governo-federal-projeta-receita-total-de-r-324-trilhoes-em-2026-numero-e-recorde-e-equivale-a-237percent-do-pib.ghtml)_
 
+- **[2026-09-08 17:03 UTC]** Onze diretores da PF colocam cargos à disposição e manifestam 'total apoio' a Andrei Rodrigues após afastamento
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/nota-diretores-pf-andrei-rodrigues.ghtml)_
+
