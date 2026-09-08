@@ -107,3 +107,6 @@
 - **[2026-09-08 13:31 UTC]** Diretor da PF afastado: aliados de Lula defendem cumprir decisão de Mendonça e não repetir discurso de bolsonaristas contra o STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/08/governo-tem-que-cumprir-decisao-de-mendonca-que-afasta-diretor-da-pf-e-precisa-recorrer-dizem-aliados-de-lula.ghtml)_
 
+- **[2026-09-08 13:05 UTC]** Quem é Andrei Rodrigues, diretor-geral da PF afastado por decisão de André Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/quem-e-andrei-rodrigues-diretor-geral-da-pf-afastado-por-decisao-de-andre-mendonca.ghtml)_
+
