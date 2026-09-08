@@ -80,3 +80,6 @@
 - **[2026-09-05 06:00 UTC]** Preso por corrupção, ex-diretor da Fazenda de SP recebeu bônus e promoção mesmo após afastamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/preso-por-corrupcao-ex-diretor-da-fazenda-de-sp-recebeu-bonus-e-promocao-mesmo-apos-afastamento.shtml)_
 
+- **[2026-09-08 12:29 UTC]** Em decisão para afastar diretor da PF, André Mendonça cita 1984, de George Orwell
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/mendonca-stf-afasta-andrei.ghtml)_
+
