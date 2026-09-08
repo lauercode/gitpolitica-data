@@ -62,3 +62,6 @@
 - **[2026-09-08 09:27 UTC]** Mendonça afasta Andrei Rodrigues da direção-geral da Polícia Federal
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-afasta-andrei-rodrigues-da-direcao-geral-da-policia-federal)_
 
+- **[2026-09-08 15:51 UTC]** William Marcel Murad assume interinamente direção-geral da PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/cupula-da-pf-e-notificada-de-afastamento-do-stf-e-numero-2-assume-a-direcao-geral-da-corporacao.ghtml)_
+
