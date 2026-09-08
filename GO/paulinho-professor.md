@@ -104,3 +104,6 @@
 - **[2026-09-07 22:22 UTC]** Fio do Professor Felipe Nunes: análise da pesquisa Quaest para presidente de 7 de setembro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/fio-do-professor-felipe-nunes-7-de-setembro.ghtml)_
 
+- **[2026-09-07 21:35 UTC]** Professor do RS dá aula por 80 horas seguidas e supera recorde mundial da Índia
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/professor-rs-da-aula-80-horas-supera-recorde-mundial.ghtml)_
+
