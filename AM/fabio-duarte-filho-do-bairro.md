@@ -62,3 +62,6 @@
 - **[2026-09-08 19:25 UTC]** Rompimento de adutora afeta abastecimento de água em bairro de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/rompimento-de-adutora-afeta-abastecimento-de-agua-em-bairro-de-rio-branco.ghtml)_
 
+- **[2026-09-08 22:24 UTC]** Efraim Filho fala em reabertura de delegacias 24 horas e tirar presídios de bairro, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/efraim-filho-fala-em-reabertura-de-delegacias-24-horas-e-tirar-presidios-de-bairro-em-joao-pessoa.ghtml)_
+
