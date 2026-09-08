@@ -71,3 +71,6 @@
 - **[2026-09-08 14:27 UTC]** Autoridades e políticos repercutem decisão de Mendonça de afastar diretor-geral da PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/autoridades-e-politicos-repercutem-decisao-de-mendonca-de-afastar-diretor-geral-da-pf.ghtml)_
 
+- **[2026-09-08 13:05 UTC]** Quem é Andrei Rodrigues, diretor-geral da PF afastado por decisão de André Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/quem-e-andrei-rodrigues-diretor-geral-da-pf-afastado-por-decisao-de-andre-mendonca.ghtml)_
+
