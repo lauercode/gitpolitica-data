@@ -167,3 +167,6 @@
 - **[2026-09-08 13:13 UTC]** Cidade cenográfica abandonada de 'O Tempo e o Vento' passa por revitalização para receber turistas; veja como está o local
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/cidade-cenografica-abandonada-de-o-tempo-e-o-vento-passa-por-revitalizacao-para-receber-turistas-veja-como-esta-o-local.ghtml)_
 
+- **[2026-09-08 21:34 UTC]** Cidade do Acre recebe mais de R$ 1,2 milhão para ações de proteção durante seca
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/cidade-do-ac-recebe-mais-de-r-12-milhao-do-governo-federal-para-acoes-de-protecao-durante-seca.ghtml)_
+
