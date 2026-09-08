@@ -311,3 +311,6 @@
 - **[2026-09-08 09:01 UTC]** Economistas sobem previsão do PIB pela primeira vez após dois meses
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/economistas-sobem-previsao-do-pib-pela-primeira-vez-apos-dois-meses.shtml)_
 
+- **[2026-09-08 10:58 UTC]** Ex-banqueiro suíço é condenado a dois anos de prisão por pagar US$ 101 mi em propinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ex-banqueiro-suico-e-condenado-a-dois-anos-de-prisao-por-pagar-us-101-mi-em-propinas.shtml)_
+
