@@ -371,3 +371,6 @@
 - **[2026-09-08 11:05 UTC]** Após sucesso de 'Pablo e Luisão', Globo muda programa de Paulo Vieira para as terças-feiras
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/apos-sucesso-de-pablo-e-luisao-globo-muda-programa-de-paulo-vieira-para-as-tercas-feiras.shtml)_
 
+- **[2026-09-08 16:39 UTC]** Paulo Miklos anuncia show em SP de seu álbum solo, com covers de 'Evidências' e 'Saudosa Maloca'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/09/paulo-miklos-anuncia-show-em-sp-de-seu-album-solo-com-covers-de-evidencias-e-saudosa-maloca.shtml)_
+
