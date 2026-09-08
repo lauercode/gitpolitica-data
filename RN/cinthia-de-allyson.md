@@ -20,3 +20,6 @@
 - **[2026-09-07 21:26 UTC]** Allyson Bezerra faz carreata na Zona Norte de Natal e promete fortalecer Hospital Santa Catarina
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/07/allyson-bezerra-faz-carreata-na-zona-norte-de-natal-e-promete-fortalecer-hospital-santa-catarina.ghtml)_
 
+- **[2026-09-08 19:50 UTC]** Allyson Bezerra apresenta propostas para pessoas com deficiência e TEA
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/08/allyson-bezerra-apresenta-propostas-para-pessoas-com-deficiencia-e-tea.ghtml)_
+
