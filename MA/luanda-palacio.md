@@ -32,3 +32,6 @@
 - **[2026-09-03 14:01 UTC]** 'A Nobreza do Amor': Jendal é levado para o palácio, e Kênia ajuda o pai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/03/13/6442-a-nobreza-do-amor-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466788)_
 
+- **[2026-09-08 14:44 UTC]** Lula recebe Messias e ministro da Justiça para reunião de emergência no Palácio da Alvorada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-recebe-auxiliares-para-reuniao-de-emergencia-no-palacio-da-alvorada.shtml)_
+
