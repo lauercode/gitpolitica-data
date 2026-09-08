@@ -35,3 +35,6 @@
 - **[2026-09-07 22:40 UTC]** Eleições 2026 em SC: Jorginho Mello faz caminhada e discursa em caminhão de som em Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-em-sc-jorginho-mello-faz-caminhada-e-discursa-em-caminhao-de-som-em-florianopolis.ghtml)_
 
+- **[2026-09-08 22:42 UTC]** Eleições 2026 em SC: Jorginho Mello visita feira de construção civil em Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-jorginho-mello-visita-feira-de-construcao-civil-em-balneario-camboriu.ghtml)_
+
