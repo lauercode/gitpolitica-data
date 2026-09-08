@@ -71,3 +71,6 @@
 - **[2026-09-08 18:38 UTC]** Marabraz pede manutenção de serviços essenciais e proteção de 180 dias contra cobrança de credores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/marabraz-pede-manutencao-de-servicos-essenciais-e-protecao-de-180-dias-contra-cobranca-de-credores.shtml)_
 
+- **[2026-09-08 21:34 UTC]** Cidade do Acre recebe mais de R$ 1,2 milhão para ações de proteção durante seca
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/cidade-do-ac-recebe-mais-de-r-12-milhao-do-governo-federal-para-acoes-de-protecao-durante-seca.ghtml)_
+
