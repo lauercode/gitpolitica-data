@@ -134,3 +134,6 @@
 - **[2026-09-08 15:18 UTC]** Motociclista de 50 anos morre após bater em traseira de carreta estacionada no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/motociclista-de-50-anos-morre-apos-bater-em-traseira-de-carreta-estacionada-no-acre.ghtml)_
 
+- **[2026-09-08 19:45 UTC]** Motociclista morre e crianças ficam feridas em acidente na PA-415, em Altamira
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/08/motociclista-morre-e-criancas-ficam-feridas-em-acidente-na-pa-415-em-altamira.ghtml)_
+
