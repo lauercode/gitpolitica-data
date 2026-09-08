@@ -11,3 +11,6 @@
 - **[2026-09-08 01:55 UTC]** Joaquim Barbosa, Rosa Weber, Ayres Britto e outros 10 ministros aposentados pedem a Fachin 'imediata e rigorosa' apuração de crise no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/ministros-aposentados-apuracao-crise-stf.ghtml)_
 
+- **[2026-09-08 03:36 UTC]** Em carta a Fachin, ministros aposentados manifestam apoio e cobram apuração 'pública' e 'rigorosa' diante de crise no STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss)_
+
