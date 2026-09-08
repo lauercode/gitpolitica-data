@@ -71,3 +71,6 @@
 - **[2026-09-08 17:43 UTC]** Gilmar diz ver risco de decisão de André Mendonça desequilibrar a eleição e pede que caso da PF vá a plenário
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gilmar-diz-ver-risco-de-decisao-de-andre-mendonca-desequilibrar-a-eleicao-presidencial.shtml)_
 
+- **[2026-09-08 21:21 UTC]** Gilmar Mendes cita risco às eleições e quer que plenário decida afastamento do diretor da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-contesta-ordem-de-mendonca-e-cita-risco-de-desequilibrio-nas-eleicoes/)_
+
