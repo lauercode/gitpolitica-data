@@ -101,3 +101,6 @@
 - **[2026-09-08 17:51 UTC]** Diretores da PF colocam cargos à disposição após Mendonça afastar diretor-geral
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/diretores-pf-colocam-cargos-aisposicao-apos-mendonca-afastar-diretor-geral/)_
 
+- **[2026-09-08 18:56 UTC]** AGU pede a Fachin que suspenda afastamento de diretor-geral da PF decidido por Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/agu-pede-a-fachin-que-suspenda-afastamento-de-diretor-geral-da-pf.shtml)_
+
