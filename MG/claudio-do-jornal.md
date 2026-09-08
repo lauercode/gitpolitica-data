@@ -260,3 +260,6 @@
 - **[2026-09-08 18:02 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de terça-feira, 8 de setembro de 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/08/videos-jornal-do-almoco-florianopolis-de-terca-feira-8-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-08 18:25 UTC]** Netanyahu foi avisado sobre 7 de Outubro, diz jornal, e oposição pressiona premiê
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/natanyahu-foi-avisado-sobre-7-de-outubro-diz-jornal-e-oposicao-pressiona-premie.shtml)_
+
