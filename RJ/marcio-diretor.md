@@ -95,3 +95,6 @@
 - **[2026-09-08 15:18 UTC]** Livro '1984', citado por Mendonça em decisão que afasta diretor da PF, mostra vigilância em mundo distópico
   _fonte: [G1 - Política:](https://g1.globo.com/pop-arte/noticia/2026/09/08/livro-1984-citado-por-mendonca-em-decisao-que-afasta-diretor-da-pf-mostra-vigilancia-em-mundo-distopico.ghtml)_
 
+- **[2026-09-08 14:53 UTC]** Diretor da PF afastado: veja os principais argumentos de Mendonça na decisão contra Andrei Rodrigues
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/diretor-da-pf-afastado-veja-os-principais-argumentos-de-mendonca-na-decisao-contra-andrei-rodrigues.ghtml)_
+
