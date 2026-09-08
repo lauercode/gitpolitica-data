@@ -989,3 +989,6 @@
 - **[2026-09-08 16:06 UTC]** Campanha de Lula lança site para rebater acusações de Flávio sobre economia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-lanca-site-para-rebater-acusacoes-de-flavio-sobre-economia.shtml)_
 
+- **[2026-09-08 14:20 UTC]** Eleitor de Flávio não acredita em Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/eleitor-de-flavio-nao-acredita-em-flavio.shtml)_
+
