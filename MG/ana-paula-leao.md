@@ -20,3 +20,6 @@
 - **[2026-09-02 18:14 UTC]** George Clooney recebe Leão de Ouro e critica autoritarismo político hoje
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/george-clooney-recebe-leao-de-ouro-e-critica-autoritarismo-politico-hoje.shtml)_
 
+- **[2026-09-08 16:09 UTC]** Novo bispo de Porto Nacional é escolhido pelo papa Leão XIV; veja quem é
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/novo-bispo-de-porto-nacional-e-escolhido-pelo-papa-leao-xiv-veja-quem-e.ghtml)_
+
