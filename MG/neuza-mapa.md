@@ -32,3 +32,6 @@
 - **[2026-09-07 07:00 UTC]** O que o mapa astral do Brasil diz sobre o país que completa 204 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/o-que-o-mapa-astral-do-brasil-diz-sobre-o-pais-que-completa-204-anos.shtml)_
 
+- **[2026-09-08 09:45 UTC]** Trump publica mapa que inclui Canadá, México e Groenlândia sob bandeira dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-publica-mapa-que-inclui-canada-mexico-e-groenlandia-sob-bandeira-dos-eua.shtml)_
+
