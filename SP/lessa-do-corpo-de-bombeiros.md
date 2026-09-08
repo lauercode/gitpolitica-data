@@ -56,3 +56,6 @@
 - **[2026-09-08 09:00 UTC]** Perícia de incêndio em comércio de Rio Branco deve ser concluída em 30 dias, diz Bombeiros
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/pericia-de-incendio-em-comercio-de-rio-branco-deve-ser-concluida-em-30-dias-diz-bombeiro.ghtml)_
 
+- **[2026-09-08 15:13 UTC]** Égua cai em fossa e fica presa por oito horas antes de ser resgatada por bombeiros em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/08/egua-cai-em-fossa-e-fica-presa-por-oito-horas-antes-de-ser-resgatada-por-bombeiros-em-ro.ghtml)_
+
