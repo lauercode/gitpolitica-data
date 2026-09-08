@@ -68,3 +68,6 @@
 - **[2026-09-08 14:39 UTC]** Peritos da PF defendem que afastamento de diretor-geral seja decidido pelo plenário do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/08/peritos-da-pf-defendem-que-afastamento-de-andrei-seja-decidido-pelo-plenario.ghtml)_
 
+- **[2026-09-08 14:27 UTC]** Autoridades e políticos repercutem decisão de Mendonça de afastar diretor-geral da PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/autoridades-e-politicos-repercutem-decisao-de-mendonca-de-afastar-diretor-geral-da-pf.ghtml)_
+
