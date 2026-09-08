@@ -29,3 +29,6 @@
 - **[2026-09-07 04:00 UTC]** Rede de acordos transforma Nvidia em banco central da inteligência artificial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/rede-de-acordos-transforma-nvidia-em-banco-central-da-inteligencia-artificial.shtml)_
 
+- **[2026-09-08 19:52 UTC]** Como a comunicação digital transforma a experiência do consumidor
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/amazon-copy/noticia/2026/09/08/como-a-comunicacao-digital-transforma-a-experiencia-do-consumidor.ghtml)_
+
