@@ -74,3 +74,6 @@
 - **[2026-09-07 22:14 UTC]** Eleições 2026: Professora Maria do Carmo participa de carreata com apoiadores e fala sobre redução da máquina pública para conter gastos
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-professora-maria-do-carmo-participa-de-carreata-com-apoiadores-e-fala-sobre-reducao-da-maquina-publica-para-conter-gastos.ghtml)_
 
+- **[2026-09-08 12:57 UTC]** Projeto oferece aulas gratuitas para adultos e idosos aprenderem a ler no RN; 'Autonomia', diz professora
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/projeto-educacao-leitura-adultos-idosos.ghtml)_
+
