@@ -98,3 +98,6 @@
 - **[2026-09-07 16:30 UTC]** Criminosos atiram contra casa e ateiam fogo ao imóvel em São Miguel dos Campos, AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/07/criminosos-atiram-contra-casa-e-ateiam-fogo-ao-imovel-em-sao-miguel-dos-campos-al.ghtml)_
 
+- **[2026-09-08 14:29 UTC]** Aposentado é suspeito de ameaçar ex-mulher com faca e atear fogo nos pertences dela após término
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/08/aposentado-e-suspeito-de-ameacar-ex-mulher-com-faca-e-atear-fogo-nos-pertences-dela-apos-termino.ghtml)_
+
