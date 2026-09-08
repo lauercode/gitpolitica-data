@@ -23,3 +23,6 @@
 - **[2026-09-04 19:40 UTC]** Tucano faz evento com Prado e Derrite, ignora Soninha e gera crise na federação com Cidadania
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tucano-faz-evento-com-prado-e-derrite-ignora-soninha-e-gera-crise-na-federacao-com-cidadania.shtml)_
 
+- **[2026-09-08 20:05 UTC]** Quaest para o Senado em SP: Marina Silva, 14%; Derrite, 14%; Simone Tebet, 12%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/08/quaest-sp-senado-8-setembro.ghtml)_
+
