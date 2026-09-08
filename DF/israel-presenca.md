@@ -50,3 +50,6 @@
 - **[2026-09-07 17:33 UTC]** Sergipe tem maior presença feminina entre candidatos no Brasil nas Eleições 2026
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/07/sergipe-tem-maior-presenca-feminina-entre-candidatos-no-brasil-nas-eleicoes-2026.ghtml)_
 
+- **[2026-09-07 22:51 UTC]** Desfile cívico, inauguração de comitê e presença em ato: veja como foi o dia dos candidatos ao governo da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/07/veja-como-foi-o-dia-dos-candidatos-ao-governo-da-paraiba-nesta-segunda-feira-7.ghtml)_
+
