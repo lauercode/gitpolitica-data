@@ -71,3 +71,6 @@
 - **[2026-09-07 15:12 UTC]** Candidata do Psol ao Senado pelo AM, Professora Evany quer ampliar voz do Amazonas nas decisões nacionais
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/candidata-do-psol-ao-senado-pelo-am-professora-evany-quer-ampliar-voz-do-amazonas-nas-decisoes-nacionais.ghtml)_
 
+- **[2026-09-07 22:14 UTC]** Eleições 2026: Professora Maria do Carmo participa de carreata com apoiadores e fala sobre redução da máquina pública para conter gastos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-professora-maria-do-carmo-participa-de-carreata-com-apoiadores-e-fala-sobre-reducao-da-maquina-publica-para-conter-gastos.ghtml)_
+
