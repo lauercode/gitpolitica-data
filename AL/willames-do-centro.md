@@ -197,3 +197,6 @@
 - **[2026-09-08 00:53 UTC]** Desfile de 7 de Setembro reúne multidão no Centro da capital do Acre; VÍDEOS
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/desfile-de-7-de-setembro-reune-multidao-no-centro-da-capital-do-acre-videos.ghtml)_
 
+- **[2026-09-08 12:06 UTC]** Mendonça traz Lula para o centro da crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-traz-lula-para-o-centro-da-crise-no-stf.shtml)_
+
