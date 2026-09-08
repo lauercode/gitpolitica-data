@@ -68,3 +68,6 @@
 - **[2026-09-04 23:11 UTC]** Amazonas tem pior nota entre estados da Amazônia Legal na proteção a defensores ambientais, revela estudo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/04/amazonas-tem-pior-nota-entre-estados-da-amazonia-legal-na-protecao-a-defensores-ambientais-revela-estudo.ghtml)_
 
+- **[2026-09-08 18:38 UTC]** Marabraz pede manutenção de serviços essenciais e proteção de 180 dias contra cobrança de credores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/marabraz-pede-manutencao-de-servicos-essenciais-e-protecao-de-180-dias-contra-cobranca-de-credores.shtml)_
+
