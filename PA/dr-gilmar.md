@@ -56,3 +56,6 @@
 - **[2026-09-08 13:09 UTC]** Segunda Turma tem maioria para manter cúpula da PF afastada, mas Gilmar Mendes pede vista
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/stf-pedido-de-vista-de-gilmar-mendes-suspende-sessao-sobre-afastamento-de-cupula-da-pf.ghtml)_
 
+- **[2026-09-08 10:12 UTC]** STF tem maioria para manter ordem de Mendonça de afastar diretor-geral da PF; Gilmar pede vista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-mendes-suspende-sessao-do-supremo-que-julga-afastamento-de-chefe-da-pf.shtml)_
+
