@@ -263,3 +263,6 @@
 - **[2026-09-08 14:49 UTC]** Comissão aprova projeto que prevê isenção de impostos para equipamentos de tecnologia assistiva
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302934-comissao-aprova-projeto-que-preve-isencao-de-impostos-para-equipamentos-de-tecnologia-assistiva)_
 
+- **[2026-09-08 12:57 UTC]** Projeto oferece aulas gratuitas para adultos e idosos aprenderem a ler no RN; 'Autonomia', diz professora
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/projeto-educacao-leitura-adultos-idosos.ghtml)_
+
