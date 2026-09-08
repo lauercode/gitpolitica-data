@@ -203,3 +203,6 @@
 - **[2026-09-08 09:30 UTC]** As mais de 250 mil mulheres solteiras forçadas a dar seus filhos em adoção no Reino Unido em meados do século passado
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckgwrwr9k97o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 19:01 UTC]** Comissão aprova prazo para repasse de recursos a candidaturas de mulheres negras e indígenas
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1302918-comissao-aprova-prazo-para-repasse-de-recursos-a-candidaturas-de-mulheres-negras-e-indigenas)_
+
