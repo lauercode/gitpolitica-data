@@ -44,3 +44,6 @@
 - **[2026-09-03 23:05 UTC]** Revista em presídio do RJ localiza 30 celulares com presos do Terceiro Comando Puro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/revista-em-presidio-do-rj-localiza-30-celulares-com-presos-do-terceiro-comando-puro.shtml)_
 
+- **[2026-09-08 14:30 UTC]** Detento abre buraco em cela e é pego ao tentar fugir de presídio pela 2ª vez no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/detento-abre-buraco-em-cela-e-e-pego-ao-tentar-fugir-de-presidio-pela-2a-vez-no-acre.ghtml)_
+
