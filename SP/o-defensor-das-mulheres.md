@@ -191,3 +191,6 @@
 - **[2026-09-07 23:01 UTC]** Grito dos Excluídos faz defesa de moradia e valorização dos direitos das mulheres no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/grito-dos-excluidos-faz-defesa-de-moradia-e-valorizacao-dos-direitos-das-mulheres-no-acre.ghtml)_
 
+- **[2026-09-07 22:29 UTC]** Grito dos Excluídos reúne manifestantes a favor da paz, moradia e direito das mulheres
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/07/grito-dos-excluidos-reune-manifestantes-a-favor-da-paz-moradia-e-direito-das-mulheres.ghtml)_
+
