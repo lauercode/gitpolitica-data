@@ -14,3 +14,6 @@
 - **[2026-09-04 12:31 UTC]** Rayssa Furlan não comparece a entrevista com candidatos ao Senado no Bom Dia Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/04/rayssa-furlan-nao-comparece-a-entrevista-com-candidatos-ao-senado-no-bom-dia-amapa.ghtml)_
 
+- **[2026-09-08 16:13 UTC]** Rayssa Bratillieri é pedida em casamento e responde: 'Claro'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rayssa-bratillieri-e-pedida-em-casamento-e-surpreende-ao-responder-claro.shtml)_
+
