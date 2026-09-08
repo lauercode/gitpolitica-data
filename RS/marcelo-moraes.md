@@ -1091,3 +1091,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 23:35 UTC]** Manifestantes protestam contra STF e Alexandre de Moraes no Busto de Tamandaré, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/protesto-contra-stf-e-alexandre-de-moraes-no-busto-de-tamandare-em-joao-pessoa.ghtml)_
 
+- **[2026-09-07 22:30 UTC]** Lula pagará o preço da blindagem a Alexandre de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/09/lula-pagara-o-preco-da-blindagem-a-alexandre-de-moraes.shtml)_
+
