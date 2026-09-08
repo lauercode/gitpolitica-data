@@ -977,3 +977,6 @@
 - **[2026-09-08 13:29 UTC]** Flávio Bolsonaro associa Lula a crise no STF e diz que grupo do petista na PF foi desmascarado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-associa-lula-a-crise-no-stf-e-diz-que-grupo-do-petista-na-pf-foi-desmascarado.shtml)_
 
+- **[2026-09-08 08:27 UTC]** BTG/Nexus: Lula tem 39%, e Flávio Bolsonaro, 34% no primeiro turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-flavio-bolsonaro-46-e-lula-45-mantem-empate-tecnico-no-2o-turno.shtml)_
+
