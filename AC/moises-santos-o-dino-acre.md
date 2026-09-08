@@ -380,3 +380,6 @@
 - **[2026-09-03 00:13 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta segunda-feira (7)
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/02/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quinta-feira-3.ghtml)_
 
+- **[2026-09-08 15:18 UTC]** Motociclista de 50 anos morre após bater em traseira de carreta estacionada no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/motociclista-de-50-anos-morre-apos-bater-em-traseira-de-carreta-estacionada-no-acre.ghtml)_
+
