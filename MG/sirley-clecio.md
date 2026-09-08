@@ -68,3 +68,6 @@
 - **[2026-09-06 22:55 UTC]** Clécio Luís participa de caminhada e plenárias no Sul do Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/06/clecio-luis-participa-de-caminhada-e-plenarias-no-sul-do-amapa.ghtml)_
 
+- **[2026-09-07 22:29 UTC]** Clécio Luís participa de reuniões em Laranjal do Jari e Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/07/clecio-luis-participa-de-reunioes-em-laranjal-do-jari-e-macapa.ghtml)_
+
