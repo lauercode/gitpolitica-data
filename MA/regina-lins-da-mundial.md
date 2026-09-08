@@ -62,3 +62,6 @@
 - **[2026-09-04 19:32 UTC]** WSL exclui etapa de Abu Dhabi do circuito mundial de surfe deste ano
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/wsl-exclui-etapa-de-abu-dhabi-do-circuito-mundial-de-surfe-deste-ano)_
 
+- **[2026-09-07 21:35 UTC]** Professor do RS dá aula por 80 horas seguidas e supera recorde mundial da Índia
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/professor-rs-da-aula-80-horas-supera-recorde-mundial.ghtml)_
+
