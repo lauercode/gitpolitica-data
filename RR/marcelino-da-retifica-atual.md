@@ -26,3 +26,6 @@
 - **[2026-09-06 15:30 UTC]** Batom vermelho continua atual no trabalho, mas pede ajustes de tom
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/batom-vermelho-continua-atual-no-trabalho-mas-pede-ajustes-de-tom.shtml)_
 
+- **[2026-09-07 23:00 UTC]** Estudiosos deveriam ter previsto a crise democrática atual, diz cientista política americana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/estudiosos-deveriam-ter-previsto-a-crise-democratica-atual-diz-cientista-politica-americana.shtml)_
+
