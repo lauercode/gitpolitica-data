@@ -23,3 +23,6 @@
 - **[2026-09-04 15:52 UTC]** Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 19:15 UTC]** Meta lança agente de IA capaz de acessar outros aplicativos para enviar emails e fazer pagamentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/meta-lanca-agente-de-ia-capaz-de-acessar-outros-aplicativos-para-enviar-emails-e-fazer-pagamentos.shtml)_
+
