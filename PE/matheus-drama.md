@@ -17,3 +17,6 @@
 - **[2026-09-03 23:03 UTC]** 'Emergência 53' leva drama hospitalar às ruas e sacode limites do gênero
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2026/09/emergencia-53-leva-drama-hospitalar-as-ruas-e-sacode-limites-do-genero.shtml)_
 
+- **[2026-09-08 00:00 UTC]** Fãs brasileiros de k-drama se concentram no Norte e Nordeste, diz pesquisa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/fas-brasileiros-de-k-drama-se-concentram-no-norte-e-nordeste-diz-pesquisa.shtml)_
+
