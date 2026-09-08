@@ -59,3 +59,6 @@
 - **[2026-09-08 11:09 UTC]** Segunda Turma do STF forma maioria para afastar diretor-geral da PF
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/segunda-turma-do-stf-forma-maioria-para-afastar-diretor-geral-da-pf)_
 
+- **[2026-09-08 09:27 UTC]** Mendonça afasta Andrei Rodrigues da direção-geral da Polícia Federal
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-afasta-andrei-rodrigues-da-direcao-geral-da-policia-federal)_
+
