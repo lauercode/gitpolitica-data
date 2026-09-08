@@ -152,3 +152,6 @@
 - **[2026-09-08 19:38 UTC]** Quem é William Murad, que assumiu interinamente comando da PF após afastamento de diretor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quem-e-william-murad-que-assumiu-interinamente-comando-da-pf-apos-afastamento-de-diretor.shtml)_
 
+- **[2026-09-08 18:56 UTC]** AGU pede a Fachin que suspenda afastamento de diretor-geral da PF decidido por Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/agu-pede-a-fachin-que-suspenda-afastamento-de-diretor-geral-da-pf.shtml)_
+
