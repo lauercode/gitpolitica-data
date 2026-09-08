@@ -254,3 +254,6 @@
 - **[2026-09-07 22:00 UTC]** Extremismo alemão impõe derrota ao projeto europeu
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/extremismo-alemao-impoe-derrota-ao-projeto-europeu.shtml)_
 
+- **[2026-09-04 11:44 UTC]** Projeto de lei protege a autonomia de universidades estaduais e municipais
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302619-projeto-de-lei-protege-a-autonomia-de-universidades-estaduais-e-municipais)_
+
