@@ -341,3 +341,6 @@
 - **[2026-09-08 17:57 UTC]** Quem é Andrei Rodrigues, da PF, e como ele aparece nas mensagens de Vorcaro e na guerra Moraes-Mendonça
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckg8exwg94jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 18:55 UTC]** Quem são os diretores da PF que colocaram os cargos à disposição após afastamento de Andrei Rodrigues
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cp30ez2zgl2o?at_medium=RSS&at_campaign=rss)_
+
