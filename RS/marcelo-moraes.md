@@ -1127,3 +1127,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 17:57 UTC]** Quem é Andrei Rodrigues, da PF, e como ele aparece nas mensagens de Vorcaro e na guerra Moraes-Mendonça
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckg8exwg94jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 21:17 UTC]** Fachin é aconselhado a assumir relatorias dos casos Master, INSS e Fake News; inquéritos estão com Mendonça e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/08/fachin-e-aconselhado-a-assumir-relatorias-dos-casos-master-e-fake-news-inqueritos-estao-com-mendonca-e-moraes.ghtml)_
+
