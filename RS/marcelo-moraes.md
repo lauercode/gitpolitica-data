@@ -1100,3 +1100,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 13:29 UTC]** Lula criticou decisão de Moraes que barrou indicação de Bolsonaro para PF em 2020
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-criticou-decisao-de-moraes-que-barrou-indicacao-de-bolsonaro-para-pf-em-2020.shtml)_
 
+- **[2026-09-08 12:46 UTC]** Temer sugere a Moraes pacificação com Mendonça, mas avalia que nova decisão impede trégua
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/temer-sugere-a-moraes-pacificacao-com-mendonca-mas-avalia-que-nova-decisao-impede-tregua.shtml)_
+
