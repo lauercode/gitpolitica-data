@@ -305,3 +305,6 @@
 - **[2026-09-07 18:00 UTC]** Governo e setor produtivo esperam voltar a exportar frango e mel em até dois meses
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governo-e-setor-produtivo-esperam-voltar-a-exportar-frango-e-mel-em-ate-dois-meses.shtml)_
 
+- **[2026-09-07 23:08 UTC]** Acidentes em rodovias deixam dois mortos e cinco feridos durante feriado prolongado no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/acidentes-em-rodovias-deixam-dois-mortos-e-cinco-feridos-durante-feriado-prolongado-no-para.ghtml)_
+
