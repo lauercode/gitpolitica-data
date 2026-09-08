@@ -374,3 +374,6 @@
 - **[2026-09-08 00:53 UTC]** Desfile de 7 de Setembro reúne multidão no Centro da capital do Acre; VÍDEOS
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/desfile-de-7-de-setembro-reune-multidao-no-centro-da-capital-do-acre-videos.ghtml)_
 
+- **[2026-09-08 00:10 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 7 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-7-de-setembro-de-2026.ghtml)_
+
