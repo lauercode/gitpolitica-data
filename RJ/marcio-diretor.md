@@ -83,3 +83,6 @@
 - **[2026-09-08 12:29 UTC]** Em decisão para afastar diretor da PF, André Mendonça cita 1984, de George Orwell
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/mendonca-stf-afasta-andrei.ghtml)_
 
+- **[2026-09-08 11:52 UTC]** Mendonça determina afastamento de diretor-geral da PF, Andrei Rodrigues
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/mendonca-afastamento-de-diretor-geral-da-pf-andrei-rodrigues.ghtml)_
+
