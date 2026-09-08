@@ -56,3 +56,6 @@
 - **[2026-09-07 16:29 UTC]** Coco de roda paraibano ganha palcos na Europa em projeto que leva cultura popular a Espanha e Portugal
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/coco-de-roda-paraibano-ganha-palcos-na-europa-em-projeto-que-leva-cultura-popular-a-espanha-e-portugal.ghtml)_
 
+- **[2026-09-08 16:28 UTC]** Mortes: Fortaleceu resistência da cultura negra em Curitiba
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-fortaleceu-resistencia-da-cultura-negra-em-curitiba.shtml)_
+
