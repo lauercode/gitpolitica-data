@@ -95,3 +95,6 @@
 - **[2026-09-08 12:29 UTC]** Maré e Alemão receberão obras de urbanização no Rio
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/mare-e-alemao-receberao-obras-de-urbanizacao-no-rio)_
 
+- **[2026-09-08 14:38 UTC]** Serra da Esperança terá novo desvio devido a obras na BR-277, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/08/desvio-serra-da-esperanca-obras-br-277-parana.ghtml)_
+
