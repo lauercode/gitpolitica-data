@@ -59,3 +59,6 @@
 - **[2026-09-07 12:31 UTC]** Chacina de Pioz: jovem que denunciou troca de mensagens entre acusados relembra o crime que deixou família da PB morta na Espanha
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/chacina-de-pioz-jovem-que-denunciou-troca-de-mensagens-entre-acusados-relembra-o-crime-que-deixou-familia-da-pb-morta-na-espanha.ghtml)_
 
+- **[2026-09-08 12:01 UTC]** Polícia apreende 4,5 toneladas de skunk e armamento de guerra após troca de tiros no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/08/policia-apreende-45-toneladas-de-skunk-e-armamento-de-guerra-apos-troca-de-tiros-no-amazonas.ghtml)_
+
