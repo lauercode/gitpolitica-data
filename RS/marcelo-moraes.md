@@ -1121,3 +1121,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 18:58 UTC]** André Mendonça utiliza decisões de Moraes para afastar cúpula da Polícia Federal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-utiliza-decisoes-de-moraes-para-afastar-cupula-da-policia-federal/)_
 
+- **[2026-09-08 18:07 UTC]** Fux cancela sessão da Segunda Turma após escalada da crise envolvendo Mendonça e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-cancela-sessao-da-segunda-turma-apos-escalada-da-crise-envolvendo-mendonca-e-moraes/)_
+
