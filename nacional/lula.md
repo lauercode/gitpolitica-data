@@ -959,3 +959,6 @@
 - **[2026-09-04 23:43 UTC]** TSE autoriza pronunciamento de Lula sobre 7 de setembro; presidente dirá que Brasil 'não é colônia' e defenderá soberania
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/tse-autoriza-pronunciamento-de-lula-sobre-7-de-setembro-presidente-dira-que-brasil-nao-e-colonia-e-defendera-soberania.ghtml)_
 
+- **[2026-09-08 15:54 UTC]** Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
