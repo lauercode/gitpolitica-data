@@ -89,3 +89,6 @@
 - **[2026-09-07 07:31 UTC]** Assédio eleitoral: trabalhador pode denunciar pressão por voto
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/assedio-eleitoral-trabalhador-pode-denunciar-pressao-por-voto)_
 
+- **[2026-09-07 23:00 UTC]** Toyota Corolla chega aos 60 anos sob pressão de rivais chineses
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/toyota-corolla-chega-aos-60-anos-sob-pressao-de-rivais-chineses.shtml)_
+
