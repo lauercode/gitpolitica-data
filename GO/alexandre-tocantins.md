@@ -119,3 +119,6 @@
 - **[2026-09-07 14:32 UTC]** Ex-secretário da Saúde do Tocantins é transferido para hospital particular em Brasília
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/ex-secretario-da-saude-do-tocantins-e-transferido-para-hospital-particular-em-brasilia.ghtml)_
 
+- **[2026-09-08 00:49 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta segunda-feira (7)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-segunda-feira-7.ghtml)_
+
