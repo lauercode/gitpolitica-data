@@ -65,3 +65,6 @@
 - **[2026-09-06 13:52 UTC]** Justiça anula posse de servidora que assumiu cargo sem curso exigido em edital
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/servidora-perde-cargo-apos-assumir-funcao-sem-curso-exigido-em-porto-nacional.ghtml)_
 
+- **[2026-09-08 07:00 UTC]** Quando a Lua está fora de curso e o que isso costuma indicar no dia a dia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/quando-a-lua-esta-fora-de-curso-e-o-que-isso-costuma-indicar-no-dia-a-dia.shtml)_
+
