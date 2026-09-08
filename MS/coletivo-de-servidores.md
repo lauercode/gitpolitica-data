@@ -83,3 +83,6 @@
 - **[2026-09-04 21:37 UTC]** Comissão aprova ampliação do porte de arma para servidores
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302914-comissao-aprova-ampliacao-do-porte-de-arma-para-servidores)_
 
+- **[2026-09-08 14:32 UTC]** Vereador afirma que prefeito deve 'obrigar' votos de servidores contratados na PB: 'Chame um por um'; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/vereador-afirma-que-prefeito-deve-obrigar-votos-de-servidores-contratados-na-pb-chame-um-por-um.ghtml)_
+
