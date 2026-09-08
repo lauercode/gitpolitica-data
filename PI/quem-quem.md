@@ -320,3 +320,6 @@
 - **[2026-09-08 13:05 UTC]** Quem é Andrei Rodrigues, diretor-geral da PF afastado por decisão de André Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/quem-e-andrei-rodrigues-diretor-geral-da-pf-afastado-por-decisao-de-andre-mendonca.ghtml)_
 
+- **[2026-09-08 12:26 UTC]** Quem é Andrei Rodrigues, diretor-geral da PF afastado por ordem de Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quem-e-andrei-rodrigues-diretor-geral-da-pf-afastado-por-ordem-de-mendonca.shtml)_
+
