@@ -68,3 +68,6 @@
 - **[2026-09-08 20:13 UTC]** Gilmar Mendes defende análise pelo plenário do afastamento de Andrei e cita risco de 'desequilíbrio da disputa político-eleitoral'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/gilmar-mendes-defende-analise-pelo-plenario-do-afastamento-de-andrei-e-cita-risco-de-desequilibrio-da-disputa-politico-eleitoral.ghtml)_
 
+- **[2026-09-08 17:43 UTC]** Gilmar diz ver risco de decisão de André Mendonça desequilibrar a eleição e pede que caso da PF vá a plenário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gilmar-diz-ver-risco-de-decisao-de-andre-mendonca-desequilibrar-a-eleicao-presidencial.shtml)_
+
