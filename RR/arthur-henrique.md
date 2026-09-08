@@ -26,3 +26,6 @@
 - **[2026-08-31 22:30 UTC]** Arthur Henrique promete implantar botão do pânico para combater violência contra mulher em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/31/arthur-henrique-promete-implantar-botao-do-panico-para-combater-violencia-contra-mulher-em-roraima.ghtml)_
 
+- **[2026-09-08 19:05 UTC]** TRE derruba liminar e libera Arthur Henrique a fazer campanha em comércios de Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/08/tre-derruba-liminar-e-libera-arthur-henrique-a-fazer-campanha-em-comercios-de-roraima.ghtml)_
+
