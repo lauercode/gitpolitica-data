@@ -50,3 +50,6 @@
 - **[2026-09-08 08:44 UTC]** Assembleia-Geral da ONU começa nesta terça-feira (8), em Nova York
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/assembleia-geral-da-onu-comeca-nesta-terca-feira-8-em-nova-york)_
 
+- **[2026-09-08 11:52 UTC]** Mendonça determina afastamento de diretor-geral da PF, Andrei Rodrigues
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/mendonca-afastamento-de-diretor-geral-da-pf-andrei-rodrigues.ghtml)_
+
