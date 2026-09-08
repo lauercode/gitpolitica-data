@@ -137,3 +137,6 @@
 - **[2026-09-08 17:53 UTC]** Após Mendonça afastar diretor-geral da PF, Fachin se reúne com ministro da Justiça e advogado-geral da União
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/apos-mendonca-afastar-diretor-geral-da-pf-fachin-se-reune-com-ministro-da-justica-e-advogado-geral-da-uniao.ghtml)_
 
+- **[2026-09-08 19:17 UTC]** Nunes Marques e Motta evitam comentar sobre afastamento do diretor-geral da PF em evento na Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-motta-silenciam-decisao-mendonca-contra-diretor-geral-pf/)_
+
