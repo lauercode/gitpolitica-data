@@ -350,3 +350,6 @@
 - **[2026-09-08 19:59 UTC]** Apaixonada por viagens, mãe amorosa: quem era a médica encontrada morta em apartamento do Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/08/quem-era-a-medica-encontrada-morta-em-apartamento-do-parana.ghtml)_
 
+- **[2026-09-08 19:38 UTC]** Quem é William Murad, que assumiu interinamente comando da PF após afastamento de diretor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quem-e-william-murad-que-assumiu-interinamente-comando-da-pf-apos-afastamento-de-diretor.shtml)_
+
