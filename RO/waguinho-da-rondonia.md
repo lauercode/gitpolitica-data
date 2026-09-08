@@ -77,3 +77,6 @@
 - **[2026-09-07 19:24 UTC]** Quando é o próximo feriado? Veja o calendário oficial de Rondônia
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/07/quando-e-o-proximo-feriado-veja-o-calendario-oficial-de-rondonia.ghtml)_
 
+- **[2026-09-08 18:51 UTC]** Inmet emite alerta de tempestades com possibilidade de granizo em Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/08/inmet-emite-alerta-de-tempestades-com-possibilidade-de-granizo-em-rondonia.ghtml)_
+
