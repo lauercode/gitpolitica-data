@@ -395,3 +395,6 @@
 - **[2026-09-07 21:35 UTC]** Vida nababesca é normal para filhos de presidente e de ex, diz leitora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/vida-nababesca-e-normal-para-filhos-de-presidente-e-de-ex-diz-leitora.shtml)_
 
+- **[2026-09-08 01:14 UTC]** Presidente da OAB pede “respostas rápidas e claras” do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/presidente-oab-respostas-rapidas-claras-stf/)_
+
