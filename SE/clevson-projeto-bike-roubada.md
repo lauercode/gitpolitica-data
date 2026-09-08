@@ -17,3 +17,6 @@
 - **[2017-04-09 08:52 UTC]** Jovem tem moto roubada após perseguição e tiros em MS
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/2017/04/jovem-tem-moto-roubada-apos-perseguicao-e-tiros-em-ms.html)_
 
+- **[2026-09-08 14:30 UTC]** Mototaxista é agredido com capacete após ter moto roubada, no Sertão; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/mototaxista-e-agredido-com-capacete-apos-ter-moto-roubada-no-sertao-video.ghtml)_
+
