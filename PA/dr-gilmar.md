@@ -53,3 +53,6 @@
 - **[2026-09-06 11:42 UTC]** Gilmar Mendes quer proibir policiais assessorando ministros do STF
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/gilmar-mendes-quer-proibir-policiais-assessorando-ministros-do-stf)_
 
+- **[2026-09-08 13:09 UTC]** Segunda Turma tem maioria para manter cúpula da PF afastada, mas Gilmar Mendes pede vista
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/stf-pedido-de-vista-de-gilmar-mendes-suspende-sessao-sobre-afastamento-de-cupula-da-pf.ghtml)_
+
