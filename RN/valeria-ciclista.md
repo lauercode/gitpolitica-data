@@ -47,3 +47,6 @@
 - **[2026-09-04 16:06 UTC]** Ciclista de 45 anos é atropelado e morto em São Vicente, no litoral de SP; polícia pede prisão de suspeito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/ciclista-de-45-anos-e-atropelado-e-morto-em-sao-vicente-no-litoral-de-sp-policia-pede-prisao-de-suspeito.shtml)_
 
+- **[2026-09-08 11:43 UTC]** Polícia do Rio indicia 13 sob suspeita de envolvimento no caso do ciclista linchado em Copacabana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-do-rio-indicia-13-sob-suspeita-de-envolvimento-no-caso-do-ciclista-linchado-em-copacabana.shtml)_
+
