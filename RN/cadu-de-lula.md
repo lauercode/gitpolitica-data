@@ -26,3 +26,6 @@
 - **[2026-09-05 13:51 UTC]** Lula critica Tarcísio em SP, e Haddad associa governador a 'máfia do Master'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-critica-tarcisio-em-sp-e-haddad-associa-governador-a-mafia-do-master.shtml)_
 
+- **[2026-09-08 19:35 UTC]** Cadu de Lula participa de sabatina com setor produtivo e defende desburocratização
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/08/cadu-de-lula-participa-de-sabatina-com-setor-produtivo-e-defende-desburocratizacao.ghtml)_
+
