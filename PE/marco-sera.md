@@ -152,3 +152,6 @@
 - **[2026-09-08 15:16 UTC]** Crise no STF exige cartas na mesa, ou será guerra sem fim
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/crise-no-stf-exige-cartas-na-mesa-ou-sera-guerra-sem-fim.shtml)_
 
+- **[2026-09-08 22:12 UTC]** ANTT aprova concessão de rodovias entre RO e MT por 30 anos; investimento será de R$ 6,1 bilhões
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/08/antt-aprova-concessao-de-rodovias-entre-ro-e-mt-por-30-anos-investimento-sera-de-r-61-bilhoes.ghtml)_
+
