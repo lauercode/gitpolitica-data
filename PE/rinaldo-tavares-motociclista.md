@@ -128,3 +128,6 @@
 - **[2026-09-07 18:09 UTC]** Motociclista perde controle e sofre acidente em rodovia de acesso a Mazagão, no Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/motociclista-perde-controle-e-sofre-acidente-em-rodovia-de-acesso-a-mazagao-no-amapa.ghtml)_
 
+- **[2026-09-08 12:03 UTC]** Motociclista morre após bater na traseira de carro na BR-406 em João Câmara; motorista fugiu
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/motociclista-morre-apos-bater-na-traseira-de-carro-na-br-406-em-joao-camara-motorista-fugiu.ghtml)_
+
