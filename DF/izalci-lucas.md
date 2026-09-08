@@ -53,3 +53,6 @@
 - **[2026-09-04 21:03 UTC]** Lucas Ribeiro promete ampliação do atendimento de saúde no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/lucas-ribeiro-promete-ampliacao-do-atendimento-de-saude-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-09-08 21:42 UTC]** Lucas Ribeiro defende incentivo a startups e iniciativas de tecnologia e inovação na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/lucas-ribeiro-defende-incentivo-a-startups-e-iniciativas-de-tecnologia-e-inovacao-na-paraiba.ghtml)_
+
