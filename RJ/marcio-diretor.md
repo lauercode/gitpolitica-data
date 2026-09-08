@@ -104,3 +104,6 @@
 - **[2026-09-08 14:27 UTC]** Autoridades e políticos repercutem decisão de Mendonça de afastar diretor-geral da PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/autoridades-e-politicos-repercutem-decisao-de-mendonca-de-afastar-diretor-geral-da-pf.ghtml)_
 
+- **[2026-09-08 13:31 UTC]** Diretor da PF afastado: aliados de Lula defendem cumprir decisão de Mendonça e não repetir discurso de bolsonaristas contra o STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/08/governo-tem-que-cumprir-decisao-de-mendonca-que-afasta-diretor-da-pf-e-precisa-recorrer-dizem-aliados-de-lula.ghtml)_
+
