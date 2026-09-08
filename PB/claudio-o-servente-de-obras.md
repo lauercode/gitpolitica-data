@@ -92,3 +92,6 @@
 - **[2026-09-08 06:23 UTC]** Obras de Auguste Renoir são roubadas de museu no sul da França
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ladroes-roubam-quatro-obras-do-museu-renoir-na-franca.shtml)_
 
+- **[2026-09-08 12:29 UTC]** Maré e Alemão receberão obras de urbanização no Rio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/mare-e-alemao-receberao-obras-de-urbanizacao-no-rio)_
+
