@@ -56,3 +56,6 @@
 - **[2026-09-04 11:30 UTC]** Moradores fazem abaixo-assinado para cobrar fim da falta de água em bairro e escola de Uiramutã
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/04/moradores-fazem-abaixo-assinado-para-cobrar-fim-da-falta-de-agua-em-bairro-e-escola-de-uiramuta.ghtml)_
 
+- **[2026-09-08 12:39 UTC]** Ponto no bairro Perdizes foi comparado à colina onde Jesus se transfigurou
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2026/09/ponto-no-bairro-perdizes-foi-comparado-a-colina-onde-jesus-se-transfigurou.shtml)_
+
