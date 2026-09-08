@@ -1094,3 +1094,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 22:30 UTC]** Lula pagará o preço da blindagem a Alexandre de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/09/lula-pagara-o-preco-da-blindagem-a-alexandre-de-moraes.shtml)_
 
+- **[2026-09-08 00:39 UTC]** Direita leva protestos pelo impeachment de Moraes a 15 cidades
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/cafe-com-a-gazeta/direita-leva-protestos-pelo-impeachment-de-moraes-a-15-cidades/)_
+
