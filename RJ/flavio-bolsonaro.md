@@ -803,3 +803,6 @@
 - **[2026-09-08 21:15 UTC]** Quaest: veja como está o 2º turno entre Lula e Flávio Bolsonaro em SP, MG, RJ, PE e DF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/08/quaest-presidente-segundo-turno-estados.ghtml)_
 
+- **[2026-09-08 20:05 UTC]** Quaest em MG: Lula, 31%; Flávio Bolsonaro, 27%; Cury, 8%;  Zema, 6%; Caiado, 3%; Renan, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-presidente-8-setembro.ghtml)_
+
