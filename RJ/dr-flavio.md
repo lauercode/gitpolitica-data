@@ -995,3 +995,6 @@
 - **[2026-09-08 21:15 UTC]** Quaest: veja como está o 2º turno entre Lula e Flávio Bolsonaro em SP, MG, RJ, PE e DF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/08/quaest-presidente-segundo-turno-estados.ghtml)_
 
+- **[2026-09-08 21:06 UTC]** Flávio aparece numericamente à frente de Lula pela 1ª vez em 'estado termômetro'; veja análise de Felipe Nunes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/08/pesquisa-quaest-analise-de-felipe-nunes-2-turno-presidente.ghtml)_
+
