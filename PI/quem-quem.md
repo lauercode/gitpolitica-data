@@ -347,3 +347,6 @@
 - **[2026-09-08 19:56 UTC]** Educador físico, servidor municipal e jogador amador: quem era homem morto a tiros no Agreste da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/educador-fisico-servidor-municipal-e-jogador-amador-quem-era-homem-morto-a-tiros-no-agreste-da-paraiba.ghtml)_
 
+- **[2026-09-08 19:59 UTC]** Apaixonada por viagens, mãe amorosa: quem era a médica encontrada morta em apartamento do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/08/quem-era-a-medica-encontrada-morta-em-apartamento-do-parana.ghtml)_
+
