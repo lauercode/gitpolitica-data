@@ -401,3 +401,6 @@
 - **[2026-09-08 11:23 UTC]** Pesquisas para presidente: Como Lula, Flávio Bolsonaro e Cury aparecem no Agregador de Pesquisas eleitorais da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 11:17 UTC]** Jovem morre após acidente de moto na zona rural de Presidente Dutra
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/jovem-morre-apos-acidente-de-moto-na-zona-rural-de-presidente-dutra.ghtml)_
+
