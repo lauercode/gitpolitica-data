@@ -146,3 +146,6 @@
 - **[2026-09-08 17:51 UTC]** Diretores da PF colocam cargos à disposição após Mendonça afastar diretor-geral
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/diretores-pf-colocam-cargos-aisposicao-apos-mendonca-afastar-diretor-geral/)_
 
+- **[2026-09-08 21:58 UTC]** AGU pede a Fachin suspensão do afastamento do diretor da PF e aponta invasão de prerrogativa de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/agu-pede-a-fachin-suspensao-do-afastamento-de-andrei-rodrigues-e-aponta-invasao-de-prerrogativa-do-presidente.ghtml)_
+
