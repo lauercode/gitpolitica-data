@@ -368,3 +368,6 @@
 - **[2026-09-07 16:58 UTC]** Ônibus com estudantes e professores tomba em rodovia no Acre; aluna machucou o braço
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/onibus-com-estudantes-e-professores-tomba-em-rodovia-do-acre.ghtml)_
 
+- **[2026-09-07 23:01 UTC]** Grito dos Excluídos faz defesa de moradia e valorização dos direitos das mulheres no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/grito-dos-excluidos-faz-defesa-de-moradia-e-valorizacao-dos-direitos-das-mulheres-no-acre.ghtml)_
+
