@@ -77,3 +77,6 @@
 - **[2026-09-07 22:22 UTC]** Corpo de menino de 4 anos desaparecido é localizado após quase 29 horas de buscas em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/corpo-menino-4-anos-desaparecido-localizado-29-horas-buscas-sc.ghtml)_
 
+- **[2026-09-08 16:07 UTC]** Polícia investiga desafio na internet após morte de menino 7 anos em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-investiga-desafio-na-internet-apos-morte-de-menino-7-anos-em-sp.shtml)_
+
