@@ -1130,3 +1130,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 21:17 UTC]** Fachin é aconselhado a assumir relatorias dos casos Master, INSS e Fake News; inquéritos estão com Mendonça e Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/08/fachin-e-aconselhado-a-assumir-relatorias-dos-casos-master-e-fake-news-inqueritos-estao-com-mendonca-e-moraes.ghtml)_
 
+- **[2026-09-08 18:31 UTC]** Mendonça planejou por um mês afastar chefe da PF, e relatório divulgado por Moraes selou decisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-planejou-por-um-mes-afastar-chefe-da-pf-e-relatorio-divulgado-por-moraes-selou-decisao.shtml)_
+
