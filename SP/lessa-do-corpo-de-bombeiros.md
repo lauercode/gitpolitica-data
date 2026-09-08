@@ -53,3 +53,6 @@
 - **[2026-09-06 17:38 UTC]** VÍDEO: cachorro cai na galeria de macrodrenagem da praia alargada de Balneário Camboriú e resgate mobiliza bombeiros
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/video-cachorro-cai-galeria-macrodrenagem-praia-alargada-balneario-camboriu.ghtml)_
 
+- **[2026-09-08 09:00 UTC]** Perícia de incêndio em comércio de Rio Branco deve ser concluída em 30 dias, diz Bombeiros
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/pericia-de-incendio-em-comercio-de-rio-branco-deve-ser-concluida-em-30-dias-diz-bombeiro.ghtml)_
+
