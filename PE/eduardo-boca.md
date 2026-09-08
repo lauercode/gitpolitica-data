@@ -26,3 +26,6 @@
 - **[2026-09-06 16:44 UTC]** Pesquisas de boca de urna apontam grande vitória da direita radical em Estado da Alemanha
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-07 23:10 UTC]** São Paulo embala e quer encarar o Boca com força máxima pela Sul-Americana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/sao-paulo-embala-e-quer-encarar-o-boca-com-forca-maxima-pela-sul-americana.shtml)_
+
