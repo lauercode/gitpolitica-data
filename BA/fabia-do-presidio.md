@@ -47,3 +47,6 @@
 - **[2026-09-08 14:30 UTC]** Detento abre buraco em cela e é pego ao tentar fugir de presídio pela 2ª vez no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/detento-abre-buraco-em-cela-e-e-pego-ao-tentar-fugir-de-presidio-pela-2a-vez-no-acre.ghtml)_
 
+- **[2026-09-08 22:32 UTC]** Drogas, celulares e até picanha com açaí são arremessados por drones em presídio no Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/08/drogas-celulares-e-ate-picanha-com-acai-sao-arremessados-por-drones-em-presidio-no-amapa.ghtml)_
+
