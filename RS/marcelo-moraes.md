@@ -1142,3 +1142,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 21:04 UTC]** Delegados da PF temem 'efeito cascata' e impacto duradouro da guerra Moraes-Mendonça na corporação
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c2l8704v88zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 22:52 UTC]** AGU pede a Fachin que suspenda afastamento de Andrei Rodrigues da PF: o que aconteceu na guerra Mendonça x Moraes nesta terça
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss)_
+
