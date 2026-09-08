@@ -68,3 +68,6 @@
 - **[2026-09-07 20:17 UTC]** Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas)_
 
+- **[2026-09-08 17:35 UTC]** Seleção feminina derrota Canadá e avança às oitavas do Mundial Sub-20
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/selecao-feminina-derrota-canada-e-avanca-oitavas-do-mundial-sub-20)_
+
