@@ -206,3 +206,6 @@
 - **[2026-09-08 19:01 UTC]** Comissão aprova prazo para repasse de recursos a candidaturas de mulheres negras e indígenas
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1302918-comissao-aprova-prazo-para-repasse-de-recursos-a-candidaturas-de-mulheres-negras-e-indigenas)_
 
+- **[2026-09-08 15:55 UTC]** Quem tem coragem de defender as mulheres (além de nós mesmas)?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joanna-moura/2026/09/quem-tem-coragem-de-defender-as-mulheres-alem-de-nos-mesmas.shtml)_
+
