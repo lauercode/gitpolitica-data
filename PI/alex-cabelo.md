@@ -35,3 +35,6 @@
 - **[2026-09-07 12:30 UTC]** Entenda por que seu cabelo quebra e como fortalecer os fios
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/09/07/entenda-por-que-seu-cabelo-quebra-e-como-fortalecer-os-fios.ghtml)_
 
+- **[2026-09-08 19:12 UTC]** 'Não nos importamos com cabelo arrumado', diz cantora que registrou chuva em congresso evangélico no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/nao-nos-importamos-com-cabelo-arrumado-diz-cantora-que-registrou-congresso-evangelico-atingido-por-chuva-no-to.ghtml)_
+
