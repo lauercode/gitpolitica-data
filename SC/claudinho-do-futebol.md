@@ -71,3 +71,6 @@
 - **[2026-09-08 12:10 UTC]** Entidade europeia denuncia Fifa por suposta 'conduta abusiva' no calendário do futebol feminino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/entidade-europeia-denuncia-fifa-por-suposta-conduta-abusiva-no-calendario-do-futebol-feminino.shtml)_
 
+- **[2026-09-08 19:08 UTC]** Brasileiras são vice-campeãs da Copa América de futebol de cegas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiras-sao-vice-campeas-da-copa-america-de-futebol-de-cegas)_
+
