@@ -53,3 +53,6 @@
 - **[2026-09-02 19:46 UTC]** Deputados iniciam votações do dia e analisam criação da Universidade Federal da Fronteira Norte; acompanhe
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302284-deputados-iniciam-votacoes-do-dia-e-analisam-criacao-da-universidade-federal-da-fronteira-norte-acompanhe)_
 
+- **[2026-09-08 15:40 UTC]** Petecão defende reforço da segurança na fronteira e explica crescimento do patrimônio durante mandatos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/petecao-defende-reforco-da-seguranca-na-fronteira-e-explica-crescimento-do-patrimonio-durante-mandatos.ghtml)_
+
