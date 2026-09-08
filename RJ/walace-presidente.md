@@ -407,3 +407,6 @@
 - **[2026-09-08 10:45 UTC]** Carreta desgovernada sai da pista e atinge estabelecimentos comerciais em Presidente Dutra
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/carreta-desgovernada-sai-da-pista-e-atinge-estabelecimentos-comerciais-em-presidente-dutra-no-ma.ghtml)_
 
+- **[2026-09-08 15:54 UTC]** Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
