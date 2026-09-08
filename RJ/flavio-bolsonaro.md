@@ -788,3 +788,6 @@
 - **[2026-09-08 11:50 UTC]** Haddad diz que Banco Master é escândalo do governo Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/08/se-o-flavio-bolsonaro-for-eleito-o-vorcaro-nao-fica-na-cadeia-eles-vao-combinar-o-que-fazer-com-os-r-40-bilhoes-que-estao-fora-do-brasil-diz-haddad-em-sp.ghtml)_
 
+- **[2026-09-08 13:29 UTC]** Flávio Bolsonaro associa Lula a crise no STF e diz que grupo do petista na PF foi desmascarado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-associa-lula-a-crise-no-stf-e-diz-que-grupo-do-petista-na-pf-foi-desmascarado.shtml)_
+
