@@ -32,3 +32,6 @@
 - **[2026-09-07 08:29 UTC]** Guia Alimentar completa 20 anos de incentivo à comida de verdade
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/guia-alimentar-completa-20-anos-de-incentivo-comida-de-verdade)_
 
+- **[2026-09-08 14:16 UTC]** "Verdade prevalecerá", diz número 2 da PF após afastamento de Andrei
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/verdade-prevalecera-diz-numero-2-da-pf-apos-afastamento-de-andrei)_
+
