@@ -53,3 +53,6 @@
 - **[2026-09-06 17:38 UTC]** VÍDEO: cachorro cai na galeria de macrodrenagem da praia alargada de Balneário Camboriú e resgate mobiliza bombeiros
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/video-cachorro-cai-galeria-macrodrenagem-praia-alargada-balneario-camboriu.ghtml)_
 
+- **[2026-09-08 07:30 UTC]** VÍDEO: cachorro é jogado no lixo preso dentro de caixa de papelão, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/08/video-cachorro-e-jogado-no-lixo-preso-dentro-de-caixa-de-papelao-no-parana.ghtml)_
+
