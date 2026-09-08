@@ -164,3 +164,6 @@
 - **[2026-09-08 10:00 UTC]** Ideb: Cidade isolada é única a não atingir meta de alfabetização nos anos iniciais do ensino fundamental no AC
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/ideb-cidade-isolada-e-unica-a-nao-atingir-meta-de-alfabetizacao-nos-anos-iniciais-do-ensino-fundamental-no-ac.ghtml)_
 
+- **[2026-09-08 13:13 UTC]** Cidade cenográfica abandonada de 'O Tempo e o Vento' passa por revitalização para receber turistas; veja como está o local
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/cidade-cenografica-abandonada-de-o-tempo-e-o-vento-passa-por-revitalizacao-para-receber-turistas-veja-como-esta-o-local.ghtml)_
+
