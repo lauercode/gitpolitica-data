@@ -20,3 +20,6 @@
 - **[2026-09-01 20:15 UTC]** Governo ouve sociedade civil e deve tomar decisão sobre bets em breve
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/governo-ouve-sociedade-civil-e-deve-tomar-decisao-sobre-bets-em-breve)_
 
+- **[2026-09-08 08:32 UTC]** Rússia ataca Kiev após breve pausa para visita de enviados dos EUA
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/russia-ataca-kiev-apos-breve-pausa-para-visita-de-enviados-dos-eua)_
+
