@@ -248,3 +248,6 @@
 - **[2026-09-07 23:57 UTC]** VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 7 de setembro de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-7-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-08 14:55 UTC]** VÍDEOS: Jornal da Manhã Alagoas de terça-feira, 8 de setembro
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/edicao/2026/09/08/videos-jornal-da-manha-alagoas-de-terca-feira-8-de-setembro.ghtml)_
+
