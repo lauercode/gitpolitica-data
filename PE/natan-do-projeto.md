@@ -251,3 +251,6 @@
 - **[2026-09-07 23:00 UTC]** Projeto de Flávio para resorts em Angra beneficia amigo do senador alvo da PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/projeto-de-flavio-para-resorts-em-angra-beneficia-amigo-do-senador-alvo-da-pf.shtml)_
 
+- **[2026-09-07 22:00 UTC]** Extremismo alemão impõe derrota ao projeto europeu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/extremismo-alemao-impoe-derrota-ao-projeto-europeu.shtml)_
+
