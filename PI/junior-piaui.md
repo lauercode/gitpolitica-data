@@ -23,3 +23,6 @@
 - **[2026-09-08 13:45 UTC]** Incêndio atinge vegetação da região de Picos, no Piauí
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/incendio-atinge-vegetacao-da-regiao-de-picos-no-piaui)_
 
+- **[2026-09-08 15:36 UTC]** Corpo de criança é encontrado após suposto afogamento no Rio Parnaíba, entre o Piauí e o Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/pi/piaui/noticia/2026/09/08/corpo-encontrado-rio.ghtml)_
+
