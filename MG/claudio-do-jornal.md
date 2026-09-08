@@ -257,3 +257,6 @@
 - **[2026-09-08 19:33 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 8 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-terca-feira-8-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-08 18:02 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de terça-feira, 8 de setembro de 2026
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/08/videos-jornal-do-almoco-florianopolis-de-terca-feira-8-de-setembro-de-2026.ghtml)_
+
