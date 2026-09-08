@@ -323,3 +323,6 @@
 - **[2026-09-08 12:26 UTC]** Quem é Andrei Rodrigues, diretor-geral da PF afastado por ordem de Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quem-e-andrei-rodrigues-diretor-geral-da-pf-afastado-por-ordem-de-mendonca.shtml)_
 
+- **[2026-09-08 12:00 UTC]** Por que quem já tem tanto ainda quer mais?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/09/por-que-quem-ja-tem-tanto-ainda-quer-mais.shtml)_
+
