@@ -23,3 +23,6 @@
 - **[2026-09-03 21:04 UTC]** PF descreve gastos de Claudio Castro com caviar, adega e imóveis em inquérito sobre Refit
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pf-descreve-gastos-de-claudio-castro-com-caviar-adega-e-imoveis-em-inquerito-sobre-refit.shtml)_
 
+- **[2026-09-08 00:41 UTC]** Claudio Lottenberg: quem é o “Posto Ipiranga” de Flávio para a Saúde
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/claudio-lottenberg-quem-e-posto-ipiranga-de-flavio-para-saude/)_
+
