@@ -77,3 +77,6 @@
 - **[2026-09-08 00:53 UTC]** Desfile de 7 de Setembro reúne multidão no Centro da capital do Acre; VÍDEOS
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/desfile-de-7-de-setembro-reune-multidao-no-centro-da-capital-do-acre-videos.ghtml)_
 
+- **[2026-09-08 10:06 UTC]** São Luís completa 414 anos; veja o antes e depois de pontos históricos da capital
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/sao-luis-completa-414-anos-veja-o-antes-e-depois-de-pontos-historicos-da-capital.ghtml)_
+
