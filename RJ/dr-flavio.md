@@ -968,3 +968,6 @@
 - **[2026-09-08 08:27 UTC]** BTG/Nexus: Flávio Bolsonaro (46%) e Lula (45%) mantêm empate técnico no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-flavio-bolsonaro-46-e-lula-45-mantem-empate-tecnico-no-2o-turno.shtml)_
 
+- **[2026-09-07 23:00 UTC]** Projeto de Flávio Bolsonaro para resorts em Angra beneficia amigo do senador alvo da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/projeto-de-flavio-para-resorts-em-angra-beneficia-amigo-do-senador-alvo-da-pf.shtml)_
+
