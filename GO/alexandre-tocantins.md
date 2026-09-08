@@ -122,3 +122,6 @@
 - **[2026-09-08 00:49 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta segunda-feira (7)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-segunda-feira-7.ghtml)_
 
+- **[2026-09-08 11:04 UTC]** Tocantins terá mais cinco feriados prolongados até dezembro; veja datas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/tocantins-tera-mais-cinco-feriados-prolongados-ate-dezembro-veja-datas.ghtml)_
+
