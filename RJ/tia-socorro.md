@@ -44,3 +44,6 @@
 - **[2026-09-05 14:25 UTC]** Adolescente morre após ter moto atingida por caminhonete e motorista foge sem prestar socorro em Rorianópolis
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/05/adolescente-morre-apos-ter-moto-atingida-por-caminhonete-e-motorista-foge-sem-prestar-socorro-em-rorianopolis.ghtml)_
 
+- **[2026-09-08 11:42 UTC]** Mulher mantida em cárcere por 8 dias pede socorro escondido pelo celular e é resgatada no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/mulher-mantida-carcere-socorro-celular-resgatada.ghtml)_
+
