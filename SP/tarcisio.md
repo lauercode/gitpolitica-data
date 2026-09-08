@@ -17,3 +17,6 @@
 - **[2026-09-05 13:51 UTC]** Lula critica Tarcísio em SP, e Haddad associa governador a 'máfia do Master'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-critica-tarcisio-em-sp-e-haddad-associa-governador-a-mafia-do-master.shtml)_
 
+- **[2026-09-08 20:05 UTC]** Quaest em SP: Tarcísio, 42%; Haddad, 27%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/08/quaest-sp-governador-8-setembro.ghtml)_
+
