@@ -17,3 +17,6 @@
 - **[2026-09-08 15:18 UTC]** Livro '1984', citado por Mendonça em decisão que afasta diretor da PF, mostra vigilância em mundo distópico
   _fonte: [G1 - Política:](https://g1.globo.com/pop-arte/noticia/2026/09/08/livro-1984-citado-por-mendonca-em-decisao-que-afasta-diretor-da-pf-mostra-vigilancia-em-mundo-distopico.ghtml)_
 
+- **[2026-09-08 13:14 UTC]** PF autua Remo, Paysandu e empresa de vigilância por falhas na segurança de jogos no Mangueirão
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/pf-autua-remo-paysandu-e-empresa-de-vigilancia-por-falhas-na-seguranca-de-jogos-no-mangueirao.ghtml)_
+
