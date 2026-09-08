@@ -155,3 +155,6 @@
 - **[2026-09-08 18:56 UTC]** AGU pede a Fachin que suspenda afastamento de diretor-geral da PF decidido por Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/agu-pede-a-fachin-que-suspenda-afastamento-de-diretor-geral-da-pf.shtml)_
 
+- **[2026-09-08 22:44 UTC]** AGU aciona Fachin para derrubar decisão de Mendonça que afastou diretor da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/agu-aciona-fachin-para-derrubar-decisao-de-mendonca-que-afastou-diretor-da-pf/)_
+
