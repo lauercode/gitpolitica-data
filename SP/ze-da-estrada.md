@@ -23,3 +23,6 @@
 - **[2026-09-02 12:22 UTC]** Linha “Mais mobilidade” ajuda motorista a ampliar atuação na estrada
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/02/linha-mais-mobilidade-ajuda-motorista-a-ampliar-atuacao-na-estrada.ghtml)_
 
+- **[2026-09-07 20:17 UTC]** Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas)_
+
