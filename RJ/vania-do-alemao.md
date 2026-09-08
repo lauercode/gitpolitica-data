@@ -17,3 +17,6 @@
 - **[2026-09-07 15:22 UTC]** Rússia fecha consulado alemão em São Petersburgo em retaliação a Berlim
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/russia-fecha-consulado-alemao-em-sao-petersburgo-em-retaliacao-a-berlim.shtml)_
 
+- **[2026-09-08 12:29 UTC]** Maré e Alemão receberão obras de urbanização no Rio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/mare-e-alemao-receberao-obras-de-urbanizacao-no-rio)_
+
