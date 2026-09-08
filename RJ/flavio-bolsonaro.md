@@ -800,3 +800,6 @@
 - **[2026-09-08 15:54 UTC]** Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 21:15 UTC]** Quaest: veja como está o 2º turno entre Lula e Flávio Bolsonaro em SP, MG, RJ, PE e DF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/08/quaest-presidente-segundo-turno-estados.ghtml)_
+
