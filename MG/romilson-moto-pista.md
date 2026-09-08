@@ -80,3 +80,6 @@
 - **[2026-09-07 16:06 UTC]** Duas pessoas morrem após caminhão atingir veículos que pararam para ajudar motociclista caído na pista em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/07/dois-morrem-acidente-linha-verde-curitiba.ghtml)_
 
+- **[2026-09-08 10:45 UTC]** Carreta desgovernada sai da pista e atinge estabelecimentos comerciais em Presidente Dutra
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/carreta-desgovernada-sai-da-pista-e-atinge-estabelecimentos-comerciais-em-presidente-dutra-no-ma.ghtml)_
+
