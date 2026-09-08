@@ -92,3 +92,6 @@
 - **[2026-09-08 14:26 UTC]** Mendonça usou pedido do partido Novo para afastar diretor-geral da PF
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-usou-pedido-do-partido-novo-para-afastar-diretor-geral-da-pf)_
 
+- **[2026-09-08 17:53 UTC]** Após Mendonça afastar diretor-geral da PF, Fachin se reúne com ministro da Justiça e advogado-geral da União
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/apos-mendonca-afastar-diretor-geral-da-pf-fachin-se-reune-com-ministro-da-justica-e-advogado-geral-da-uniao.ghtml)_
+
