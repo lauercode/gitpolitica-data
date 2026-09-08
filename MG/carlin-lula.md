@@ -8,3 +8,6 @@
 - **[2026-08-30 14:15 UTC]** Mulheres do PT dizem ser tratadas como “laranjas” em evento com Lula em MG
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mulheres-pt-dizem-ser-tratadas-laranjas-evento-lula-mg/)_
 
+- **[2026-09-08 20:05 UTC]** Quaest em MG: Lula, 31%; Flávio Bolsonaro, 27%; Cury, 8%;  Zema, 6%; Caiado, 3%; Renan, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-presidente-8-setembro.ghtml)_
+
