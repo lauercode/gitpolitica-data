@@ -17,3 +17,6 @@
 - **[2026-09-05 06:00 UTC]** Artista do Paraná vê encomendas 'explodirem' após quadro dela viralizar nas redes e fecha agenda até 2028: 'Não estava esperando'
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/05/artista-do-parana-viraliza.ghtml)_
 
+- **[2026-09-08 04:00 UTC]** Violência doméstica interna 15 mulheres por dia com quadro de politraumatismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/violencia-domestica-interna-15-mulheres-por-dia-com-quadro-de-politraumatismo.shtml)_
+
