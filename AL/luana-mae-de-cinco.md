@@ -164,3 +164,6 @@
 - **[2026-09-07 20:17 UTC]** Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas)_
 
+- **[2026-09-08 11:04 UTC]** Tocantins terá mais cinco feriados prolongados até dezembro; veja datas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/tocantins-tera-mais-cinco-feriados-prolongados-ate-dezembro-veja-datas.ghtml)_
+
