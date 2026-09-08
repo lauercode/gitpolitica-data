@@ -14,3 +14,6 @@
 - **[2026-09-03 12:55 UTC]** Candidato ao Senado, Nicoletti quer barrar benefícios a migrantes e diz que garimpo 'não é crime'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/candidato-ao-senado-nicoletti-quer-barrar-beneficios-a-migrantes-e-diz-que-garimpo-nao-e-crime.ghtml)_
 
+- **[2026-09-08 13:40 UTC]** Nicoletti quer regularizar garimpos em terras indígenas caso seja eleito senador por Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/08/nicoletti-quer-regularizar-garimpos-em-terras-indigenas-caso-seja-eleito-senador-por-roraima.ghtml)_
+
