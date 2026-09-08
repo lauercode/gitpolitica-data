@@ -17,3 +17,6 @@
 - **[2026-09-04 20:06 UTC]** ‘Maior do Brasil’, xis salada gigante leva 200 quilos de pão, 130 quilos de hambúrguer e 300 ovos
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/maior-do-brasil-xis-salada-gigante.ghtml)_
 
+- **[2026-09-08 16:56 UTC]** Investigação expõe trituração de pintinhos na indústria de ovos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/investigacao-expoe-trituracao-de-pintinhos-na-industria-de-ovos)_
+
