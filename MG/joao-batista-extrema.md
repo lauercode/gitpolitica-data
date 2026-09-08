@@ -68,3 +68,6 @@
 - **[2026-09-07 14:34 UTC]** 'Profundamente chocado' com vitória da extrema direita, premiê da Alemanha diz que não deixa o cargo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/profundamente-chocado-com-vitoria-da-afd-merz-diz-que-nao-sai.shtml)_
 
+- **[2026-09-07 23:00 UTC]** Vitória da extrema direita em estado da Alemanha envia sinal à Europa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/vitoria-da-extrema-direita-em-estado-da-alemanha-envia-sinal-a-europa.shtml)_
+
