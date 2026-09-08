@@ -53,3 +53,6 @@
 - **[2026-09-07 19:55 UTC]** Rock in Rio 2026: Eduardo Leite diz que não procura novo amor após separação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-eduardo-leite-diz-que-nao-procura-novo-amor-apos-separacao.shtml)_
 
+- **[2026-09-08 18:57 UTC]** Vítima de acidente entre motos na BR-364 recebe mais de 40 bolsas de sangue no AC: 'Gesto de amor'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/vitima-de-acidente-entre-motos-na-br-364-recebe-mais-de-40-bolsas-de-sangue-no-ac-gesto-de-amor.ghtml)_
+
