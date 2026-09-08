@@ -239,3 +239,6 @@
 - **[2026-09-07 22:39 UTC]** VÍDEOS: Jornal Liberal 2ª edição, 7 de setembro de 2026
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/playlist/videos-jornal-liberal-2-edicao-7-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-07 22:02 UTC]** VÍDEOS: Jornal Liberal 1ª edição, 7 de setembro de 2026
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/playlist/videos-jornal-liberal-1-edicao-7-de-setembro-de-2026.ghtml)_
+
