@@ -1103,3 +1103,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 12:46 UTC]** Temer sugere a Moraes pacificação com Mendonça, mas avalia que nova decisão impede trégua
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/temer-sugere-a-moraes-pacificacao-com-mendonca-mas-avalia-que-nova-decisao-impede-tregua.shtml)_
 
+- **[2026-09-08 16:34 UTC]** Inquérito das Fake News: entenda as acusações de censura contra o STF e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/inquerito-das-fake-news-entenda-as-acusacoes-de-censura-contra-o-stf-e-moraes/)_
+
