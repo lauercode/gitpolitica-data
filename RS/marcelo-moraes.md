@@ -1112,3 +1112,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 14:57 UTC]** Mendonça cita precedentes de Moraes em decisão crítica ao ministro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-cita-precedentes-de-moraes-em-decisao-critica-ao-ministro/)_
 
+- **[2026-09-08 18:49 UTC]** Ala no STF defende análise de informações sobre crise entre Moraes e Mendonça somente após as eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/ala-no-stf-defende-analise-de-informacoes-sobre-crise-entre-moraes-e-mendonca-somente-apos-as-eleicoes.ghtml)_
+
