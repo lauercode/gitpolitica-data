@@ -209,3 +209,6 @@
 - **[2026-09-07 23:00 UTC]** Economia e Trump em baixa pressionam republicanos a 2 meses das eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/economia-e-trump-em-baixa-pressionam-republicanos-a-2-meses-das-eleicoes.shtml)_
 
+- **[2026-09-08 13:02 UTC]** Fim da guerra vai restaurar laços EUA-Rússia, diz Trump a Putin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/fim-da-guerra-vai-restaurar-lacos-eua-russia-diz-trump-a-putin.shtml)_
+
