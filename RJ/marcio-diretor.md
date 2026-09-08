@@ -119,3 +119,6 @@
 - **[2026-09-08 11:22 UTC]** Autor de ação que levou ao afastamento do diretor da PF, Novo diz que instituições 'ainda respiram'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/autor-de-acao-que-levou-ao-afastamento-do-diretor-da-pf-novo-diz-que-instituicoes-ainda-respiram.shtml)_
 
+- **[2026-09-08 10:56 UTC]** Mendonça faz aceno a Cármen, vista como fiel da balança no STF, em decisão que afastou diretor da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mendonca-faz-aceno-a-carmen-vista-como-fiel-da-balanca-no-stf-em-decisao-que-afastou-diretor-da-pf.shtml)_
+
