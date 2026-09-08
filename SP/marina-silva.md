@@ -50,3 +50,6 @@
 - **[2026-09-04 19:57 UTC]** Marina Silva defende fim de emendas impositivas e diz que recursos deveriam priorizar transformação ecológica
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/04/marina-silva-defende-fim-de-emendas-impositivas-e-diz-que-recursos-deveriam-priorizar-transformacao-ecologica.ghtml)_
 
+- **[2026-09-08 20:05 UTC]** Quaest para o Senado em SP: Marina Silva, 14%; Derrite, 14%; Simone Tebet, 12%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/08/quaest-sp-senado-8-setembro.ghtml)_
+
