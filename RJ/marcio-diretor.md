@@ -140,3 +140,6 @@
 - **[2026-09-08 19:17 UTC]** Nunes Marques e Motta evitam comentar sobre afastamento do diretor-geral da PF em evento na Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-motta-silenciam-decisao-mendonca-contra-diretor-geral-pf/)_
 
+- **[2026-09-08 17:23 UTC]** Presidenciáveis elogiam afastamento de diretor da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/presidenciaveis-elogiam-afastamento-de-diretor-da-pf/)_
+
