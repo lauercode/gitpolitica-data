@@ -44,3 +44,6 @@
 - **[2026-09-04 12:17 UTC]** Mendonça fala em “honrar a confiança do povo” em meio a crise envolvendo Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-fala-em-honrar-a-confianca-do-povo-em-meio-a-crise-envolvendo-moraes/)_
 
+- **[2026-09-08 10:23 UTC]** Número 2 da PF diz ter confiança em Andrei, e cúpula vê decisão política
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/andrei-cancela-participacao-em-evento-da-pf-apos-mendonca-determinar-seu-afastamento.shtml)_
+
