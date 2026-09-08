@@ -68,3 +68,6 @@
 - **[2026-09-08 07:00 UTC]** Quando a Lua está fora de curso e o que isso costuma indicar no dia a dia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/quando-a-lua-esta-fora-de-curso-e-o-que-isso-costuma-indicar-no-dia-a-dia.shtml)_
 
+- **[2026-09-08 14:00 UTC]** IFPA abre 23 vagas remanescentes para curso técnico em Agropecuária em Bragança
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/08/ifpa-abre-23-vagas-remanescentes-para-curso-tecnico-em-agropecuaria-em-braganca.ghtml)_
+
