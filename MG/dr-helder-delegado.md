@@ -77,3 +77,6 @@
 - **[2026-09-08 14:23 UTC]** Decisão de Mendonça afasta também delegado que investigou morte de Marielle Franco
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg7kj85xgkro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 18:20 UTC]** Além de chefia da PF, Mendonça afasta Andrei do cargo de delegado da corporação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/alem-de-chefia-da-pf-mendonca-afasta-andrei-do-cargo-de-delegado-da-corporacao.shtml)_
+
