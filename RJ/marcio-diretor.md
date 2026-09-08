@@ -158,3 +158,6 @@
 - **[2026-09-08 22:44 UTC]** AGU aciona Fachin para derrubar decisão de Mendonça que afastou diretor da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/agu-aciona-fachin-para-derrubar-decisao-de-mendonca-que-afastou-diretor-da-pf/)_
 
+- **[2026-09-08 21:21 UTC]** Gilmar Mendes cita risco às eleições e quer que plenário decida afastamento do diretor da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-contesta-ordem-de-mendonca-e-cita-risco-de-desequilibrio-nas-eleicoes/)_
+
