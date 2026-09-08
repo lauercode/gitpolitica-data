@@ -110,3 +110,6 @@
 - **[2026-09-08 13:05 UTC]** Quem é Andrei Rodrigues, diretor-geral da PF afastado por decisão de André Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/quem-e-andrei-rodrigues-diretor-geral-da-pf-afastado-por-decisao-de-andre-mendonca.ghtml)_
 
+- **[2026-09-08 13:38 UTC]** Caiado, Renan e Zema elogiam afastamento de diretor-geral da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/caiado-renan-e-zema-elogiam-afastamento-de-diretor-geral-da-pf.shtml)_
+
