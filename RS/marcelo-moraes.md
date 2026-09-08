@@ -1088,3 +1088,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-07 19:33 UTC]** STF: Fachin espera manifestações de Moraes e Mendonça até sexta
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/stf-fachin-espera-manifestacoes-de-moraes-e-mendonca-ate-sexta)_
 
+- **[2026-09-07 23:35 UTC]** Manifestantes protestam contra STF e Alexandre de Moraes no Busto de Tamandaré, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/protesto-contra-stf-e-alexandre-de-moraes-no-busto-de-tamandare-em-joao-pessoa.ghtml)_
+
