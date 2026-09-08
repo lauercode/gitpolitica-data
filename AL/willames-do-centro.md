@@ -194,3 +194,6 @@
 - **[2026-09-07 11:06 UTC]** IBGE disponibiliza série de mapas-múndi com Brasil no centro
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/ibge-disponibiliza-serie-de-mapas-mundi-com-brasil-no-centro)_
 
+- **[2026-09-08 00:53 UTC]** Desfile de 7 de Setembro reúne multidão no Centro da capital do Acre; VÍDEOS
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/desfile-de-7-de-setembro-reune-multidao-no-centro-da-capital-do-acre-videos.ghtml)_
+
