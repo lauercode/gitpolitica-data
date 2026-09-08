@@ -161,3 +161,6 @@
 - **[2026-09-07 23:08 UTC]** Acidentes em rodovias deixam dois mortos e cinco feridos durante feriado prolongado no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/acidentes-em-rodovias-deixam-dois-mortos-e-cinco-feridos-durante-feriado-prolongado-no-para.ghtml)_
 
+- **[2026-09-07 20:17 UTC]** Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas)_
+
