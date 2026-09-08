@@ -59,3 +59,6 @@
 - **[2026-09-08 15:13 UTC]** Égua cai em fossa e fica presa por oito horas antes de ser resgatada por bombeiros em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/08/egua-cai-em-fossa-e-fica-presa-por-oito-horas-antes-de-ser-resgatada-por-bombeiros-em-ro.ghtml)_
 
+- **[2026-09-08 18:32 UTC]** Concursos PM e Bombeiros AL reabrem inscrições; veja cronograma
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/08/concursos-pm-e-bombeiros-al-reabrem-inscricoes-veja-cronograma.ghtml)_
+
