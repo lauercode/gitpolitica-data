@@ -98,3 +98,6 @@
 - **[2026-09-08 14:38 UTC]** Serra da Esperança terá novo desvio devido a obras na BR-277, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/08/desvio-serra-da-esperanca-obras-br-277-parana.ghtml)_
 
+- **[2026-09-08 22:44 UTC]** Eleições 2026 em SC: João Rodrigues visita obras na BR-282 e participa de sabatina com entidades do estado
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-na-br-282-e-participa-de-sabatina-com-entidades-do-estado.ghtml)_
+
