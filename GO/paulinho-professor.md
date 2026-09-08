@@ -107,3 +107,6 @@
 - **[2026-09-07 21:35 UTC]** Professor do RS dá aula por 80 horas seguidas e supera recorde mundial da Índia
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/professor-rs-da-aula-80-horas-supera-recorde-mundial.ghtml)_
 
+- **[2026-09-08 22:39 UTC]** Eleições 2026 em SC: Professor Marcus Sodré discute demandas dos trabalhadores da Celesc
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-professor-marcus-sodre-discute-demandas-dos-trabalhadores-da-celesc.ghtml)_
+
