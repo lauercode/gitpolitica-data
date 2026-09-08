@@ -26,3 +26,6 @@
 - **[2026-09-04 19:15 UTC]** Cícero Lucena defende assistência rural para famílias da agricultura familiar na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/cicero-lucena-defende-assistencia-rural-para-familias-da-agricultura-familiar-na-paraiba.ghtml)_
 
+- **[2026-09-08 21:52 UTC]** Cícero Lucena defende investimentos em tecnologia e valorização de policiais na segurança pública da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/cicero-lucena-defende-investimentos-em-tecnologia-e-valorizacao-de-policiais-na-seguranca-publica-da-paraiba.ghtml)_
+
