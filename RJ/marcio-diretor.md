@@ -128,3 +128,6 @@
 - **[2026-09-08 17:02 UTC]** STF tem maioria pelo afastamento de diretor-geral da PF a pedido de Mendonça, mas Gilmar Mendes suspende julgamento; acompanhe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 13:39 UTC]** Por que André Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss)_
+
