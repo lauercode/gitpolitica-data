@@ -149,3 +149,6 @@
 - **[2026-09-05 19:04 UTC]** Servidor que passava expediente sentado em barracão sem fazer nada será indenizado em R$ 10 mil em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/05/servidor-passava-expediente-sentado-em-barracao-sem-fazer-nada-sera-indenizado.ghtml)_
 
+- **[2026-09-08 15:16 UTC]** Crise no STF exige cartas na mesa, ou será guerra sem fim
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/crise-no-stf-exige-cartas-na-mesa-ou-sera-guerra-sem-fim.shtml)_
+
