@@ -23,3 +23,6 @@
 - **[2026-09-04 21:19 UTC]** Efraim Filho propõe parceria com rede privada para reduzir filas na saúde da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/efraim-filho-propoe-parceria-com-rede-privada-para-reduzir-filas-na-saude-da-paraiba.ghtml)_
 
+- **[2026-09-08 14:09 UTC]** Homem é preso após filho de 10 anos denunciar maus-tratos contra irmão mais novo no Sertão da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/homem-e-preso-apos-filho-de-10-anos-denunciar-maus-tratos-contra-irmao-mais-novo-no-sertao-da-pb.ghtml)_
+
