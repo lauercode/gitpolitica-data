@@ -101,3 +101,6 @@
 - **[2026-09-07 06:31 UTC]** Sete de setembro: soberania, Copa e combate ao feminicídio serão temas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/sete-de-setembro-soberania-copa-e-combate-ao-feminicidio-serao-temas)_
 
+- **[2026-09-08 13:55 UTC]** Sem jogos ao vivo, Band tentar faturar R$ 10 milhões com Copa do Mundo feminina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sem-jogos-ao-vivo-band-tentar-faturar-r-10-milhoes-com-copa-do-mundo-feminina.shtml)_
+
