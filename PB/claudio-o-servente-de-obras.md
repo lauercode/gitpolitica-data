@@ -89,3 +89,6 @@
 - **[2026-09-07 08:59 UTC]** Trecho da BR-230 em Cabedelo é interditado para obras a partir desta terça-feira (8)
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/trecho-da-br-230-em-cabedelo-e-interditado-para-obras-a-partir-desta-terca-feira-8.ghtml)_
 
+- **[2026-09-08 06:23 UTC]** Obras de Auguste Renoir são roubadas de museu no sul da França
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ladroes-roubam-quatro-obras-do-museu-renoir-na-franca.shtml)_
+
