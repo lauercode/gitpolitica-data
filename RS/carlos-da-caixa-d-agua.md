@@ -185,3 +185,6 @@
 - **[2026-09-06 12:28 UTC]** Sem luz, água, nem transporte: as frustrações da minha vida em Cuba e seus apagões
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c74ekv4emn9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 19:25 UTC]** Rompimento de adutora afeta abastecimento de água em bairro de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/rompimento-de-adutora-afeta-abastecimento-de-agua-em-bairro-de-rio-branco.ghtml)_
+
