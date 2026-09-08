@@ -1097,3 +1097,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 00:39 UTC]** Direita leva protestos pelo impeachment de Moraes a 15 cidades
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/cafe-com-a-gazeta/direita-leva-protestos-pelo-impeachment-de-moraes-a-15-cidades/)_
 
+- **[2026-09-08 13:29 UTC]** Lula criticou decisão de Moraes que barrou indicação de Bolsonaro para PF em 2020
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-criticou-decisao-de-moraes-que-barrou-indicacao-de-bolsonaro-para-pf-em-2020.shtml)_
+
