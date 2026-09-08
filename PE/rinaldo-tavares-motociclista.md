@@ -131,3 +131,6 @@
 - **[2026-09-08 12:03 UTC]** Motociclista morre após bater na traseira de carro na BR-406 em João Câmara; motorista fugiu
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/motociclista-morre-apos-bater-na-traseira-de-carro-na-br-406-em-joao-camara-motorista-fugiu.ghtml)_
 
+- **[2026-09-08 15:18 UTC]** Motociclista de 50 anos morre após bater em traseira de carreta estacionada no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/motociclista-de-50-anos-morre-apos-bater-em-traseira-de-carreta-estacionada-no-acre.ghtml)_
+
