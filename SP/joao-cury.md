@@ -221,3 +221,6 @@
 - **[2026-09-07 15:31 UTC]** Em ato no Rio, Cury manda abraço para Mendonça e cobra investigação do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-ato-no-rio-cury-manda-abraco-para-mendonca-e-cobra-investigacao-ao-stf-ninguem-deve-ser-poupado.shtml)_
 
+- **[2026-09-07 23:00 UTC]** Alta de Cury reflete desgaste com Lula e Flávio, mas falta de propostas é entrave, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alta-de-cury-reflete-desgaste-com-lula-e-flavio-mas-falta-de-propostas-e-entrave-dizem-especialistas.shtml)_
+
