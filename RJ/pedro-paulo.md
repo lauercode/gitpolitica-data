@@ -368,3 +368,6 @@
 - **[2026-09-07 15:30 UTC]** Tive que ir relembrando como fazer, diz Paulo Vilhena sobre retorno às novelas após oito anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/tive-que-ir-relembrando-como-fazer-diz-paulo-vilhena-sobre-retorno-as-novelas-apos-oito-anos.shtml)_
 
+- **[2026-09-08 11:05 UTC]** Após sucesso de 'Pablo e Luisão', Globo muda programa de Paulo Vieira para as terças-feiras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/apos-sucesso-de-pablo-e-luisao-globo-muda-programa-de-paulo-vieira-para-as-tercas-feiras.shtml)_
+
