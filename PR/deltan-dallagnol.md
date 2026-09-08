@@ -14,3 +14,6 @@
 - **[2026-09-05 18:18 UTC]** Dallagnol divulga sigilo fiscal de Zanin, que pede responsabilização
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dallagnol-expoe-sigilo-fiscal-de-zanin-que-pede-responsabilizacao)_
 
+- **[2026-09-08 18:26 UTC]** Juíza do TRE-PR vota a favor de candidatura de Deltan Dallagnol ao Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/juiza-do-tre-pr-vota-a-favor-de-candidatura-de-deltan-dallagnol-ao-senado.shtml)_
+
