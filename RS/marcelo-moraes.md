@@ -1133,3 +1133,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 18:31 UTC]** Mendonça planejou por um mês afastar chefe da PF, e relatório divulgado por Moraes selou decisão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-planejou-por-um-mes-afastar-chefe-da-pf-e-relatorio-divulgado-por-moraes-selou-decisao.shtml)_
 
+- **[2026-09-08 20:15 UTC]** Moraes foi mais longe ao interferir na PF com Ramagem do que Mendonça com Andrei
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-foi-mais-longe-ao-interferir-na-pf-com-ramagem-do-que-mendonca-com-andrei/)_
+
