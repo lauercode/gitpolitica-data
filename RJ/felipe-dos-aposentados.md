@@ -20,3 +20,6 @@
 - **[2026-09-08 14:41 UTC]** Lewandowski diz não ter sido procurado para assinar manifesto de ministros aposentados sobre crise no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/octavio-guedes/post/2026/09/08/lewandowski-manifesto-ministros-aposentados-stf.ghtml)_
 
+- **[2026-09-08 11:09 UTC]** A carta de 13 ministros aposentados do STF para Edson Fachin: 'mais aguda crise' e 'imediata e rigorosa apuração'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss)_
+
