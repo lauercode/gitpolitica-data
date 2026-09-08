@@ -389,3 +389,6 @@
 - **[2026-09-08 19:50 UTC]** Thor Dantas propõe comprar alimentos de produtores do Acre para melhorar merenda escolar
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/thor-dantas-propoe-comprar-alimentos-de-produtores-do-acre-para-melhorar-merenda-escolar.ghtml)_
 
+- **[2026-09-08 19:33 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 8 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-terca-feira-8-de-setembro-de-2026.ghtml)_
+
