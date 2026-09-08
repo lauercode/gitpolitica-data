@@ -308,3 +308,6 @@
 - **[2026-09-07 23:08 UTC]** Acidentes em rodovias deixam dois mortos e cinco feridos durante feriado prolongado no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/acidentes-em-rodovias-deixam-dois-mortos-e-cinco-feridos-durante-feriado-prolongado-no-para.ghtml)_
 
+- **[2026-09-08 09:01 UTC]** Economistas sobem previsão do PIB pela primeira vez após dois meses
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/economistas-sobem-previsao-do-pib-pela-primeira-vez-apos-dois-meses.shtml)_
+
