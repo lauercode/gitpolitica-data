@@ -128,3 +128,6 @@
 - **[2026-09-07 22:40 UTC]** Eleições 2026: Fábio diz que vai implantar universidade estadual
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-fabio-diz-que-vai-implantar-universidade-estadual-e-reformar-escolas.ghtml)_
 
+- **[2026-09-08 17:26 UTC]** TRE-RJ veta candidatura de deputado estadual do PT por suspeita de vínculo com o crime organizado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tre-rj-veta-candidatura-de-deputado-estadual-do-pt-por-suspeita-de-vinculo-com-o-crime-organizado.shtml)_
+
