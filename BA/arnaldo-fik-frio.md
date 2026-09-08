@@ -77,3 +77,6 @@
 - **[2026-09-07 18:06 UTC]** Desfiles de 7 de Setembro reúnem milhares de pessoas no RS apesar do frio
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/desfiles-de-7-de-setembro-reunem-milhares-de-pessoas-no-rs-apesar-do-frio.ghtml)_
 
+- **[2026-09-08 08:30 UTC]** Frente fria traz chuva, frio intenso e risco de geada no país
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/frente-fria-traz-chuva-frio-intenso-e-risco-de-geada-no-pais)_
+
