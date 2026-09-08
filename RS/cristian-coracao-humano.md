@@ -14,3 +14,6 @@
 - **[2026-09-06 01:56 UTC]** Paula Burlamaqui diz que envelhecimento é 'castigo do ser humano'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/paula-burlamaqui-diz-que-envelhecimento-e-castigo-do-ser-humano.shtml)_
 
+- **[2026-09-07 23:00 UTC]** Brasileiros dizem ser vítimas de tráfico humano em Madagascar e pedem auxílio do governo para repatriação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/brasileiros-dizem-ser-vitimas-de-trafico-humano-em-madagascar-e-pedem-auxilio-do-governo-para-repatriacao.shtml)_
+
