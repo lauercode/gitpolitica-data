@@ -410,3 +410,6 @@
 - **[2026-09-08 15:54 UTC]** Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 17:57 UTC]** Renan Santos diz que próximo presidente da República 'deverá ir para o enfrentamento contra STF'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/08/renan-stf-enfrentamento.ghtml)_
+
