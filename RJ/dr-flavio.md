@@ -983,3 +983,6 @@
 - **[2026-09-08 15:54 UTC]** Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 16:15 UTC]** Crise não para de atropelar Fachin, Lula está sem ação, Flávio e Vorcaro surfam na lama
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/crise-nao-para-de-atropelar-fachin-lula-esta-sem-acao-flavio-e-vorcaro-surfam-na-lama.shtml)_
+
