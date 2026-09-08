@@ -65,3 +65,6 @@
 - **[2026-09-08 17:02 UTC]** STF tem maioria pelo afastamento de diretor-geral da PF a pedido de Mendonça, mas Gilmar Mendes suspende julgamento; acompanhe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 20:13 UTC]** Gilmar Mendes defende análise pelo plenário do afastamento de Andrei e cita risco de 'desequilíbrio da disputa político-eleitoral'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/gilmar-mendes-defende-analise-pelo-plenario-do-afastamento-de-andrei-e-cita-risco-de-desequilibrio-da-disputa-politico-eleitoral.ghtml)_
+
