@@ -20,3 +20,6 @@
 - **[2026-09-08 10:27 UTC]** Foo Fighters e Elton John incendiaram o Rock in Rio; veja como foram os shows
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/foo-fighters-e-elton-john-incendiaram-o-rock-in-rio-veja-como-foram-os-shows.shtml)_
 
+- **[2026-09-08 14:51 UTC]** Jão encontra Elton John no Rock in Rio e ganha resposta do britânico: 'Maravilhoso conhecê-lo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/jao-encontra-elton-john-no-rock-in-rio-e-ganha-resposta-do-britanico-maravilhoso-conhece-lo.shtml)_
+
