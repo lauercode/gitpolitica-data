@@ -14,3 +14,6 @@
 - **[2026-09-04 22:50 UTC]** Eleições 2026: Ricardo Marques diz que tem programa de habitação para mulheres chefes de família
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-ricardo-marques-diz-que-tem-programa-de-habitacao-para-mulheres-chefes-de-familia.ghtml)_
 
+- **[2026-09-08 01:55 UTC]** Joaquim Barbosa, Rosa Weber, Ayres Britto e outros 10 ministros aposentados pedem a Fachin 'imediata e rigorosa' apuração de crise no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/ministros-aposentados-apuracao-crise-stf.ghtml)_
+
