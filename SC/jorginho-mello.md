@@ -32,3 +32,6 @@
 - **[2026-09-04 22:36 UTC]** Eleições 2026 em SC: Jorginho Mello se encontra com lideranças femininas da Grande Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-em-sc-jorginho-mello-se-encontra-com-liderancas-femininas-da-grande-florianopolis.ghtml)_
 
+- **[2026-09-07 22:40 UTC]** Eleições 2026 em SC: Jorginho Mello faz caminhada e discursa em caminhão de som em Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-em-sc-jorginho-mello-faz-caminhada-e-discursa-em-caminhao-de-som-em-florianopolis.ghtml)_
+
