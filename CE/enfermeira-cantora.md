@@ -41,3 +41,6 @@
 - **[2026-09-07 10:30 UTC]** Cantora Yasmin Santos afirma ter sido vítima de assalto; 'Estouraram o vidro e pegaram o celular'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/cantora-yasmin-santos-afirma-ter-sido-vitima-de-assalto-estouraram-o-vidro-e-pegaram-o-celular.shtml)_
 
+- **[2026-09-08 19:12 UTC]** 'Não nos importamos com cabelo arrumado', diz cantora que registrou chuva em congresso evangélico no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/nao-nos-importamos-com-cabelo-arrumado-diz-cantora-que-registrou-congresso-evangelico-atingido-por-chuva-no-to.ghtml)_
+
