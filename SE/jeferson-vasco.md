@@ -26,3 +26,6 @@
 - **[2026-09-07 14:03 UTC]** Vasco e Atlético-PI decidem vaga para final do Brasileirão Feminino A2
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-atletico-pi-decidem-vaga-para-final-do-brasileirao-feminino-a2)_
 
+- **[2026-09-08 07:48 UTC]** Vasco vai à final e decide título do Feminino A2 contra Itabirito
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-vai-final-e-decide-titulo-do-feminino-a2-contra-itabirito)_
+
