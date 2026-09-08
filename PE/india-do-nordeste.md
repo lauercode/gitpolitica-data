@@ -56,3 +56,6 @@
 - **[2026-09-06 03:00 UTC]** Data centers, 5G e valorização da Caatinga: as propostas dos candidatos a presidente para o Nordeste
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/06/propostas-dos-candidatos-presidente-nordeste.ghtml)_
 
+- **[2026-09-08 00:00 UTC]** Fãs brasileiros de k-drama se concentram no Norte e Nordeste, diz pesquisa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/fas-brasileiros-de-k-drama-se-concentram-no-norte-e-nordeste-diz-pesquisa.shtml)_
+
