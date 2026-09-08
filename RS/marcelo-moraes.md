@@ -1106,3 +1106,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 16:34 UTC]** Inquérito das Fake News: entenda as acusações de censura contra o STF e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/inquerito-das-fake-news-entenda-as-acusacoes-de-censura-contra-o-stf-e-moraes/)_
 
+- **[2026-09-08 15:56 UTC]** Vorcaro antecipou voo a Dubai após conversa e encontro com Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-antecipou-voo-dubai-apos-conversa-encontro-moraes/)_
+
