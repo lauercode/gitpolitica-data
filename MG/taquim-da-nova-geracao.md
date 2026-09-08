@@ -50,3 +50,6 @@
 - **[2026-09-07 05:00 UTC]** Aos 30 anos, geração acompanhada desde o nascimento tem alta da obesidade e dos transtornos mentais comuns, diz pesquisa no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/aos-30-anos-geracao-acompanhada-desde-o-nascimento-tem-alta-da-obesidade-e-dos-transtornos-mentais-comuns-diz-pesquisa-no-rs.ghtml)_
 
+- **[2026-09-08 18:23 UTC]** Aneel propõe ampliar controle sobre geração distribuída de energia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/aneel-propoe-ampliar-controle-sobre-geracao-distribuida-de-energia.shtml)_
+
