@@ -14,3 +14,6 @@
 - **[2026-09-08 15:51 UTC]** William Marcel Murad assume interinamente direção-geral da PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/cupula-da-pf-e-notificada-de-afastamento-do-stf-e-numero-2-assume-a-direcao-geral-da-corporacao.ghtml)_
 
+- **[2026-09-08 19:38 UTC]** Quem é William Murad, que assumiu interinamente comando da PF após afastamento de diretor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quem-e-william-murad-que-assumiu-interinamente-comando-da-pf-apos-afastamento-de-diretor.shtml)_
+
