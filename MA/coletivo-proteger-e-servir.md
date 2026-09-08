@@ -11,3 +11,6 @@
 - **[2026-09-07 00:50 UTC]** Ideia de que nossos líderes deveriam servir de exemplo é uma letra morta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/09/ideia-de-que-nossos-lideres-deveriam-servir-de-exemplo-e-uma-letra-morta.shtml)_
 
+- **[2026-09-08 11:06 UTC]** STF não pode servir de escudo para desvios individuais, diz Celso de Mello
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/stf-nao-pode-servir-de-escudo-para-desvios-individuais-diz-celso-de-mello.shtml)_
+
