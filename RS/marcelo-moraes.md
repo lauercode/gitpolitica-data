@@ -1118,3 +1118,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 15:18 UTC]** Tarcísio cobra ação do Senado contra Moraes, mas se recusa a comentar fala sobre 'ditador' feita em 2025
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-cobra-acao-do-senado-contra-moraes-mas-se-recusa-a-comentar-fala-sobre-ditador-feita-em-2025.shtml)_
 
+- **[2026-09-08 18:58 UTC]** André Mendonça utiliza decisões de Moraes para afastar cúpula da Polícia Federal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-utiliza-decisoes-de-moraes-para-afastar-cupula-da-policia-federal/)_
+
