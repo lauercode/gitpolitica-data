@@ -50,3 +50,6 @@
 - **[2026-09-07 11:26 UTC]** Irmãos são encontrados mortos a tiros ao lado de moto na zona rural de Aldeias Altas
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/07/dois-irmaos-sao-encontrados-mortos-a-tiros-ao-lado-de-moto-na-zona-rural-de-aldeias-altas.ghtml)_
 
+- **[2026-09-08 11:17 UTC]** Jovem morre após acidente de moto na zona rural de Presidente Dutra
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/jovem-morre-apos-acidente-de-moto-na-zona-rural-de-presidente-dutra.ghtml)_
+
