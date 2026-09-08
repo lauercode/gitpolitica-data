@@ -257,3 +257,6 @@
 - **[2026-09-04 11:44 UTC]** Projeto de lei protege a autonomia de universidades estaduais e municipais
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302619-projeto-de-lei-protege-a-autonomia-de-universidades-estaduais-e-municipais)_
 
+- **[2026-09-07 23:00 UTC]** Projeto de Flávio Bolsonaro para resorts em Angra beneficia amigo do senador alvo da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/projeto-de-flavio-para-resorts-em-angra-beneficia-amigo-do-senador-alvo-da-pf.shtml)_
+
