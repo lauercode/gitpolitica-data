@@ -200,3 +200,6 @@
 - **[2026-09-07 14:15 UTC]** Augusto Cury diz que é o pesadelo de Lula e promete “aposentar” o petista se chegar ao segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-diz-que-e-o-pesadelo-de-lula-e-promete-aposentar-o-petista-se-chegar-ao-segundo-turno/)_
 
+- **[2026-09-08 11:45 UTC]** Quais países da América Latina têm educação melhor do que o Brasil, segundo o ranking Pisa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/quais-paises-da-america-latina-tem-educacao-melhor-do-que-o-brasil-segundo-o-ranking-pisa.shtml)_
+
