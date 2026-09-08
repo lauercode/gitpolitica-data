@@ -161,3 +161,6 @@
 - **[2026-09-07 08:54 UTC]** Convivência da cidade e vida selvagem é tema do Caminhos da Reportagem
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/convivencia-da-cidade-e-vida-selvagem-e-tema-do-caminhos-da-reportagem)_
 
+- **[2026-09-08 10:00 UTC]** Ideb: Cidade isolada é única a não atingir meta de alfabetização nos anos iniciais do ensino fundamental no AC
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/ideb-cidade-isolada-e-unica-a-nao-atingir-meta-de-alfabetizacao-nos-anos-iniciais-do-ensino-fundamental-no-ac.ghtml)_
+
