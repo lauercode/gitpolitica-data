@@ -1115,3 +1115,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 18:49 UTC]** Ala no STF defende análise de informações sobre crise entre Moraes e Mendonça somente após as eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/ala-no-stf-defende-analise-de-informacoes-sobre-crise-entre-moraes-e-mendonca-somente-apos-as-eleicoes.ghtml)_
 
+- **[2026-09-08 15:18 UTC]** Tarcísio cobra ação do Senado contra Moraes, mas se recusa a comentar fala sobre 'ditador' feita em 2025
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-cobra-acao-do-senado-contra-moraes-mas-se-recusa-a-comentar-fala-sobre-ditador-feita-em-2025.shtml)_
+
