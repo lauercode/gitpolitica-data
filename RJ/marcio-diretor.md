@@ -161,3 +161,6 @@
 - **[2026-09-08 21:21 UTC]** Gilmar Mendes cita risco às eleições e quer que plenário decida afastamento do diretor da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-contesta-ordem-de-mendonca-e-cita-risco-de-desequilibrio-nas-eleicoes/)_
 
+- **[2026-09-08 20:28 UTC]** Parlamentares da esquerda repudiam afastamento de diretor da PF por Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/parlamentares-esquerda-repudiam-afastamento-diretor-pf-mendonca/)_
+
