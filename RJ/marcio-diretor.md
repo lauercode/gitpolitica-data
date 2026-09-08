@@ -131,3 +131,6 @@
 - **[2026-09-08 13:39 UTC]** Por que André Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 14:26 UTC]** Mendonça usou pedido do partido Novo para afastar diretor-geral da PF
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-usou-pedido-do-partido-novo-para-afastar-diretor-geral-da-pf)_
+
