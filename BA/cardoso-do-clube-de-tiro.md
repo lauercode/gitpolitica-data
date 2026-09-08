@@ -32,3 +32,6 @@
 - **[2026-09-07 15:23 UTC]** PM é preso após esposa ser encontrada morta com tiro na casa em que moravam em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/esposa-de-pm-e-encontrada-morta-com-arma-do-marido-embaixo-do-corpo.shtml)_
 
+- **[2026-09-08 10:50 UTC]** Trajetória de tiro embasa prisão de PM após morte da mulher em Embu das Artes, na Grande SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/trajetoria-de-tiro-embasa-prisao-de-pm-apos-morte-da-mulher-em-embu-das-artes-na-grande-sp.shtml)_
+
