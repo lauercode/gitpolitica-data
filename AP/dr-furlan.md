@@ -53,3 +53,6 @@
 - **[2026-09-06 22:58 UTC]** Dr. Furlan faz caminhadas na Zona Sul e Norte de Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/06/dr-furlan-faz-caminhadas-na-zona-sul-e-norte-de-macapa.ghtml)_
 
+- **[2026-09-07 22:31 UTC]** Dr. Furlan participa de caminhada e comício no Sul do Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/07/dr-furlan-participa-de-caminhada-e-comicio-no-sul-do-amapa.ghtml)_
+
