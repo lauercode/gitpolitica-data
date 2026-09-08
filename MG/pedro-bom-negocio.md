@@ -17,3 +17,6 @@
 - **[2026-09-03 20:24 UTC]** O que é 'ativo minerário', negócio citado por Nikolas Ferreira a Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/03/o-que-e-ativo-minerario-citado-por-nikolas-ferreira-a-vorcaro.ghtml)_
 
+- **[2026-09-08 21:01 UTC]** Advogado transforma experiência em negócio de R$ 980 milhões
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/sebrae-roraima-onde-tem-empreendedor-tem-sebrae/noticia/2026/09/08/advogado-transforma-experiencia-em-negocio-de-r-980-milhoes.ghtml)_
+
