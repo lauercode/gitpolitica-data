@@ -68,3 +68,6 @@
 - **[2026-09-04 18:27 UTC]** Novos membros do Conselho Fiscal da Sicoob Credisul tomam posse
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credisul/noticia/2026/09/04/novos-membros-do-conselho-fiscal-da-sicoob-credisul-tomam-posse.ghtml)_
 
+- **[2026-09-08 19:38 UTC]** O que é o Conselho da República e por que aliado de Lula quer acioná-lo após decisão de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-e-o-conselho-da-republica-e-por-que-aliado-de-lula-quer-aciona-lo-apos-decisao-de-mendonca/)_
+
