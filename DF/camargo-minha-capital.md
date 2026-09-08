@@ -80,3 +80,6 @@
 - **[2026-09-08 10:06 UTC]** São Luís completa 414 anos; veja o antes e depois de pontos históricos da capital
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/sao-luis-completa-414-anos-veja-o-antes-e-depois-de-pontos-historicos-da-capital.ghtml)_
 
+- **[2026-09-08 10:04 UTC]** São Luís 414 anos: como a capital maranhense virou a ‘Jamaica Brasileira’
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/sao-luis-414-anos-como-a-capital-maranhense-virou-a-jamaica-brasileira.ghtml)_
+
