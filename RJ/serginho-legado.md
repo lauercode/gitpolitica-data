@@ -23,3 +23,6 @@
 - **[2026-09-07 16:12 UTC]** Mortes: Tinha a curiosidade como método e a ciência como norte e legado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-tinha-a-curiosidade-como-metodo-e-a-ciencia-como-norte-e-legado.shtml)_
 
+- **[2026-09-08 18:34 UTC]** Me Leva Festival Belém: Belo, Pixote e O Legado fazem show no domingo, 13, no Mangueirão
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/08/me-leva-festival-belem-belo-pixote-e-o-legado-fazem-show-no-domingo-13-no-mangueirao.ghtml)_
+
