@@ -98,3 +98,6 @@
 - **[2026-09-08 19:17 UTC]** Nunes Marques e Motta evitam comentar sobre afastamento do diretor-geral da PF em evento na Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-motta-silenciam-decisao-mendonca-contra-diretor-geral-pf/)_
 
+- **[2026-09-08 17:51 UTC]** Diretores da PF colocam cargos à disposição após Mendonça afastar diretor-geral
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/diretores-pf-colocam-cargos-aisposicao-apos-mendonca-afastar-diretor-geral/)_
+
