@@ -32,3 +32,6 @@
 - **[2026-09-08 13:40 UTC]** Nicoletti quer regularizar garimpos em terras indígenas caso seja eleito senador por Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/08/nicoletti-quer-regularizar-garimpos-em-terras-indigenas-caso-seja-eleito-senador-por-roraima.ghtml)_
 
+- **[2026-09-08 19:01 UTC]** Comissão aprova prazo para repasse de recursos a candidaturas de mulheres negras e indígenas
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1302918-comissao-aprova-prazo-para-repasse-de-recursos-a-candidaturas-de-mulheres-negras-e-indigenas)_
+
