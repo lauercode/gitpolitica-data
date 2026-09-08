@@ -338,3 +338,6 @@
 - **[2026-09-08 15:55 UTC]** Quem tem coragem de defender as mulheres (além de nós mesmas)?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joanna-moura/2026/09/quem-tem-coragem-de-defender-as-mulheres-alem-de-nos-mesmas.shtml)_
 
+- **[2026-09-08 17:57 UTC]** Quem é Andrei Rodrigues, da PF, e como ele aparece nas mensagens de Vorcaro e na guerra Moraes-Mendonça
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckg8exwg94jo?at_medium=RSS&at_campaign=rss)_
+
