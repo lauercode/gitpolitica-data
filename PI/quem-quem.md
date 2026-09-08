@@ -308,3 +308,6 @@
 - **[2026-09-07 20:52 UTC]** Tragédia em Capanema: quem eram as quatro vítimas da mesma família que morreram em incêndio
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/tragedia-em-capanema-quem-eram-as-quatro-vitimas-da-mesma-familia-que-morreram-em-incendio.ghtml)_
 
+- **[2026-09-07 23:00 UTC]** Quem disse que eu quero fazer a coisa certa?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/09/quem-disse-que-eu-quero-fazer-a-coisa-certa.shtml)_
+
