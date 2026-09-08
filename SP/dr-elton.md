@@ -14,3 +14,6 @@
 - **[2026-09-08 00:09 UTC]** Elton John faz exigência e Globo é obrigada a transmitir show no Rock in Rio com delay
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/elton-john-faz-exigencia-e-globo-e-obrigada-a-transmitir-show-no-rock-in-rio-com-delay.shtml)_
 
+- **[2026-09-08 13:53 UTC]** Gilberto Gil e Elton John se encontram nos bastidores do Rock in Rio e trocam elogios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/gilberto-gil-e-elton-john-se-encontram-nos-bastidores-do-rock-in-rio-e-trocam-elogios.shtml)_
+
