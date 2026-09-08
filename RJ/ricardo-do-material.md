@@ -17,3 +17,6 @@
 - **[2026-09-02 15:45 UTC]** Homem é preso no AM por armazenar material de abuso sexual infantil; prima de 11 anos está entre vítimas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/homem-e-preso-no-am-por-armazenar-material-de-abuso-sexual-infantil-prima-de-11-anos-esta-entre-vitimas.ghtml)_
 
+- **[2026-09-08 19:21 UTC]** Parente de Maluf tem material de campanha vandalizado na Paulista; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/parente-de-maluf-tem-material-de-campanha-vandalizado-na-paulista.shtml)_
+
