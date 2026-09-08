@@ -1124,3 +1124,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 18:07 UTC]** Fux cancela sessão da Segunda Turma após escalada da crise envolvendo Mendonça e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-cancela-sessao-da-segunda-turma-apos-escalada-da-crise-envolvendo-mendonca-e-moraes/)_
 
+- **[2026-09-08 17:57 UTC]** Quem é Andrei Rodrigues, da PF, e como ele aparece nas mensagens de Vorcaro e na guerra Moraes-Mendonça
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckg8exwg94jo?at_medium=RSS&at_campaign=rss)_
+
