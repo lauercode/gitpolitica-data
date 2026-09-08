@@ -14,3 +14,6 @@
 - **[2026-08-31 18:00 UTC]** Nissan e Honda vão desenvolver juntas sistemas para carros definidos por software
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/nissan-e-honda-vao-desenvolver-juntas-sistemas-para-carros-definidos-por-software.shtml)_
 
+- **[2026-09-08 15:42 UTC]** VÍDEO: Mãe e filha dançam juntas em hospital para comemorar avanço de tratamento e momento emocionante é flagrado por médica e viraliza
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/video-mae-e-filha-dancam-juntas-em-hospital.ghtml)_
+
