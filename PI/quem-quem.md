@@ -344,3 +344,6 @@
 - **[2026-09-08 18:55 UTC]** Quem são os diretores da PF que colocaram os cargos à disposição após afastamento de Andrei Rodrigues
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cp30ez2zgl2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 19:56 UTC]** Educador físico, servidor municipal e jogador amador: quem era homem morto a tiros no Agreste da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/educador-fisico-servidor-municipal-e-jogador-amador-quem-era-homem-morto-a-tiros-no-agreste-da-paraiba.ghtml)_
+
