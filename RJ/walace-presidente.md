@@ -398,3 +398,6 @@
 - **[2026-09-08 01:14 UTC]** Presidente da OAB pede “respostas rápidas e claras” do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/presidente-oab-respostas-rapidas-claras-stf/)_
 
+- **[2026-09-08 11:23 UTC]** Pesquisas para presidente: Como Lula, Flávio Bolsonaro e Cury aparecem no Agregador de Pesquisas eleitorais da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
