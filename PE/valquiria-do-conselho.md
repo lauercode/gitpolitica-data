@@ -71,3 +71,6 @@
 - **[2026-09-08 19:38 UTC]** O que é o Conselho da República e por que aliado de Lula quer acioná-lo após decisão de Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-e-o-conselho-da-republica-e-por-que-aliado-de-lula-quer-aciona-lo-apos-decisao-de-mendonca/)_
 
+- **[2026-09-08 19:15 UTC]** Três meninos pegam figurinhas da Copa do Mundo sem autorização em shopping e vão parar no Conselho Tutelar
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/08/tres-meninos-pegam-figurinhas-da-copa-do-mundo-sem-autorizacao-em-shopping-e-vao-parar-no-conselho-tutelar.ghtml)_
+
