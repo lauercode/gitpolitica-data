@@ -20,3 +20,6 @@
 - **[2026-09-07 12:59 UTC]** Educador físico é morto a tiros em Logradouro, no Agreste da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/educador-fisico-e-morto-a-tiros-em-logradouro-no-agreste-da-pb.ghtml)_
 
+- **[2026-09-08 19:56 UTC]** Educador físico, servidor municipal e jogador amador: quem era homem morto a tiros no Agreste da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/educador-fisico-servidor-municipal-e-jogador-amador-quem-era-homem-morto-a-tiros-no-agreste-da-paraiba.ghtml)_
+
