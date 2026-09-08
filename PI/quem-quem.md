@@ -332,3 +332,6 @@
 - **[2026-09-08 13:50 UTC]** Cabo do Exército e empresário: quem são as vítimas atingidas por caminhão-tanque na Linha Verde, em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/08/vitimas-acidente-linha-verde-curitiba.ghtml)_
 
+- **[2026-09-08 16:09 UTC]** Novo bispo de Porto Nacional é escolhido pelo papa Leão XIV; veja quem é
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/novo-bispo-de-porto-nacional-e-escolhido-pelo-papa-leao-xiv-veja-quem-e.ghtml)_
+
