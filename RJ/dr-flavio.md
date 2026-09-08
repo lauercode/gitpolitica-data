@@ -986,3 +986,6 @@
 - **[2026-09-08 16:15 UTC]** Crise não para de atropelar Fachin, Lula está sem ação, Flávio e Vorcaro surfam na lama
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/crise-nao-para-de-atropelar-fachin-lula-esta-sem-acao-flavio-e-vorcaro-surfam-na-lama.shtml)_
 
+- **[2026-09-08 16:06 UTC]** Campanha de Lula lança site para rebater acusações de Flávio sobre economia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-lanca-site-para-rebater-acusacoes-de-flavio-sobre-economia.shtml)_
+
