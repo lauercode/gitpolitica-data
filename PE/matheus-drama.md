@@ -20,3 +20,6 @@
 - **[2026-09-08 00:00 UTC]** Fãs brasileiros de k-drama se concentram no Norte e Nordeste, diz pesquisa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/fas-brasileiros-de-k-drama-se-concentram-no-norte-e-nordeste-diz-pesquisa.shtml)_
 
+- **[2026-09-08 18:39 UTC]** Thiago Lacerda vai interpretar viúvo em drama ambientado em Cuba
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/thiago-lacerda-vai-interpretar-viuvo-em-drama-ambientado-em-cuba.shtml)_
+
