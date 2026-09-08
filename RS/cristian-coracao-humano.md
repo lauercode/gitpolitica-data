@@ -17,3 +17,6 @@
 - **[2026-09-07 23:00 UTC]** Brasileiros dizem ser vítimas de tráfico humano em Madagascar e pedem auxílio do governo para repatriação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/brasileiros-dizem-ser-vitimas-de-trafico-humano-em-madagascar-e-pedem-auxilio-do-governo-para-repatriacao.shtml)_
 
+- **[2026-09-08 13:18 UTC]** Pela primeira vez, rim de porco mantém paciente vivo até recebimento de órgão humano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/pela-primeira-vez-rim-de-porco-mantem-paciente-vivo-ate-receber-orgao-humano.shtml)_
+
