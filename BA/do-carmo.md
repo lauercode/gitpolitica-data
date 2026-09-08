@@ -38,3 +38,6 @@
 - **[2026-09-06 00:40 UTC]** Eleições 2026: Maria do Carmo defende fortalecimento do setor primário para gerar emprego e renda no interior do AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/05/eleicoes-2026-maria-do-carmo-defende-fortalecimento-do-setor-primario-para-gerar-emprego-e-renda-no-interior-do-am.ghtml)_
 
+- **[2026-09-07 22:14 UTC]** Eleições 2026: Professora Maria do Carmo participa de carreata com apoiadores e fala sobre redução da máquina pública para conter gastos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-professora-maria-do-carmo-participa-de-carreata-com-apoiadores-e-fala-sobre-reducao-da-maquina-publica-para-conter-gastos.ghtml)_
+
