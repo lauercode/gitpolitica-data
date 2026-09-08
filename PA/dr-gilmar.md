@@ -62,3 +62,6 @@
 - **[2026-09-08 14:33 UTC]** Segunda Turma adianta votos após vista de Gilmar Mendes e mantém afastamento de Andrei Rodrigues
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-suspende-julgamento-de-afastamento-de-andrei-determinado-por-mendonca/)_
 
+- **[2026-09-08 17:02 UTC]** STF tem maioria pelo afastamento de diretor-geral da PF a pedido de Mendonça, mas Gilmar Mendes suspende julgamento; acompanhe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss)_
+
