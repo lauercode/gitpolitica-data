@@ -860,3 +860,6 @@ Diretor
 direitos
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
 
+- **[2026-09-08 19:17 UTC]** Nunes Marques e Motta evitam comentar sobre afastamento do diretor-geral da PF em evento na Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-motta-silenciam-decisao-mendonca-contra-diretor-geral-pf/)_
+
