@@ -317,3 +317,6 @@
 - **[2026-09-08 15:54 UTC]** Pai é preso após manter filho de dois anos refém na Grande Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/08/pai-suspeito-manter-filho-refem-carro-grande-curitiba.ghtml)_
 
+- **[2026-09-08 16:09 UTC]** UFRN cria dois novos cursos de graduação; veja quais
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/ufrn-cria-novos-cursos-graduacao-veja-quais.ghtml)_
+
