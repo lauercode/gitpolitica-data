@@ -74,3 +74,6 @@
 - **[2026-09-04 17:17 UTC]** Lutador do Paraná fica sem movimentos após golpe: testemunhas relataram que técnica usada por adversário é irregular, diz delegado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/04/investigacao-golpe-lutador-parana.ghtml)_
 
+- **[2026-09-08 14:23 UTC]** Decisão de Mendonça afasta também delegado que investigou morte de Marielle Franco
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg7kj85xgkro?at_medium=RSS&at_campaign=rss)_
+
