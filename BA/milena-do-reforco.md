@@ -11,3 +11,6 @@
 - **[2026-09-04 23:00 UTC]** Lula restringe núcleo de campanha e planeja reforço após se queixar de resultados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-restringe-nucleo-de-campanha-e-planeja-reforco-apos-se-queixar-de-resultados.shtml)_
 
+- **[2026-09-08 15:40 UTC]** Petecão defende reforço da segurança na fronteira e explica crescimento do patrimônio durante mandatos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/petecao-defende-reforco-da-seguranca-na-fronteira-e-explica-crescimento-do-patrimonio-durante-mandatos.ghtml)_
+
