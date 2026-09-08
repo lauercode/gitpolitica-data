@@ -791,3 +791,6 @@
 - **[2026-09-08 13:29 UTC]** Flávio Bolsonaro associa Lula a crise no STF e diz que grupo do petista na PF foi desmascarado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-associa-lula-a-crise-no-stf-e-diz-que-grupo-do-petista-na-pf-foi-desmascarado.shtml)_
 
+- **[2026-09-08 13:29 UTC]** Lula criticou decisão de Moraes que barrou indicação de Bolsonaro para PF em 2020
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-criticou-decisao-de-moraes-que-barrou-indicacao-de-bolsonaro-para-pf-em-2020.shtml)_
+
