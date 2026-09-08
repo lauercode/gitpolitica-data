@@ -191,3 +191,6 @@
 - **[2026-09-07 12:44 UTC]** Atos em Brasília reúnem manifestantes em defesa do impeachment de Moraes e contra Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-em-brasilia-reune-manifestantes-em-defesa-do-impeachment-de-moraes-e-contra-alcolumbre/)_
 
+- **[2026-09-07 23:00 UTC]** Senadores admitem chance de impeachment no STF e veem Alcolumbre à espera das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/senadores-admitem-chance-de-impeachment-no-stf-e-veem-alcolumbre-a-espera-das-eleicoes.shtml)_
+
