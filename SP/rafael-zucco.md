@@ -11,3 +11,6 @@
 - **[2026-09-01 22:18 UTC]** Eleições 2026 no RS: Zucco diz que vai 'potencializar' atenção básica para 'acabar' com filas na saúde
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-no-rs-zucco-diz-que-vai-potencializar-atencao-basica-para-acabar-com-filas-na-saude.ghtml)_
 
+- **[2026-09-08 22:16 UTC]** Eleições 2026 no RS: 'Precisamos fazer um pacto com as prefeituras', diz Zucco sobre educação
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-no-rs-precisamos-fazer-um-pacto-com-as-prefeituras-diz-zucco-sobre-educacao.ghtml)_
+
