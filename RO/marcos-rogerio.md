@@ -35,3 +35,6 @@
 - **[2026-09-02 14:07 UTC]** Rogério Valença, ex-vocalista da banda Calcinha Preta, é sepultado em Garanhuns (PE)
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/02/rogerio-valenca-ex-vocalista-da-banda-calcinha-preta-e-sepultado-em-garanhuns-pe.ghtml)_
 
+- **[2026-09-07 23:46 UTC]** Homem joga ovo em Rogério Marinho durante manifestação em Natal e é conduzido à delegacia
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/07/homem-joga-ovo-em-rogerio-marinho-durante-manifestacao-em-natal-e-e-conduzido-a-delegacia.ghtml)_
+
