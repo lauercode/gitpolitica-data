@@ -200,3 +200,6 @@
 - **[2026-09-08 12:06 UTC]** Mendonça traz Lula para o centro da crise no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-traz-lula-para-o-centro-da-crise-no-stf.shtml)_
 
+- **[2026-09-08 11:00 UTC]** Crise e campanhas põem STF no centro da luta eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/crise-e-campanhas-poem-stf-no-centro-da-luta-eleitoral.shtml)_
+
