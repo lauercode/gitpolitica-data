@@ -11,3 +11,6 @@
 - **[2026-09-01 22:18 UTC]** Eleições 2026 no RS: Priscila Voigt diz que 'todos os políticos devem usar o SUS'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-no-rs-priscila-voigt-diz-que-todos-os-politicos-devem-usar-o-sus.ghtml)_
 
+- **[2026-09-08 22:16 UTC]** Eleições 2026 no RS: Priscila Voigt defende 'educação 100% pública, gratuita e de qualidade'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-no-rs-priscila-voigt-defende-educacao-100percent-publica-gratuita-e-de-qualidade.ghtml)_
+
