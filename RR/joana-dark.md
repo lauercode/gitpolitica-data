@@ -95,3 +95,6 @@
 - **[2026-09-07 18:58 UTC]** Feriado de Bienal do Livro de São Paulo vai de sucesso infantil a 'dark romance'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/feriado-de-bienal-do-livro-de-sao-paulo-vai-de-sucesso-infantil-a-dark-romance.shtml)_
 
+- **[2026-09-08 18:22 UTC]** Empresário que fez repasses para 'Dark Horse' passa por audiência com auxiliar de Mendonça e diz que delação sobre Master foi voluntária
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/empresario-repasses-dark-horse-delacao-master.ghtml)_
+
