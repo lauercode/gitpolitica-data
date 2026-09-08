@@ -47,3 +47,6 @@
 - **[2026-09-07 23:59 UTC]** Rock in Rio 2026: 'Sou perna de pau', diz Junno Andrade sobre participação na Dança dos Famosos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-sou-perna-de-pau-diz-junno-andrade-sobre-participacao-na-danca-dos-famosos.shtml)_
 
+- **[2026-09-08 18:07 UTC]** TVs cancelam debates após Lula, Flávio Bolsonaro e Tarcísio não confirmarem participação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tvs-cancelam-debates-apos-lula-flavio-bolsonaro-e-tarcisio-nao-confirmarem-participacao.shtml)_
+
