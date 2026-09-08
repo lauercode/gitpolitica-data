@@ -200,3 +200,6 @@
 - **[2026-09-08 08:38 UTC]** Torre Eiffel reabre após protesto contra afastamento de mulheres em visita hindu
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/torre-eiffel-reabre-apos-protesto-contra-afastamento-de-mulheres-em-visita-hindu.shtml)_
 
+- **[2026-09-08 09:30 UTC]** As mais de 250 mil mulheres solteiras forçadas a dar seus filhos em adoção no Reino Unido em meados do século passado
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckgwrwr9k97o?at_medium=RSS&at_campaign=rss)_
+
