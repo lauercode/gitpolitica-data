@@ -14,3 +14,6 @@
 - **[2026-09-03 19:06 UTC]** HU de João Pessoa abre inscrições para 40 vagas em mutirão de cirurgias reparadoras de mama
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/hu-de-joao-pessoa-abre-inscricoes-para-40-vagas-em-mutirao-de-cirurgias-reparadoras-de-mama.ghtml)_
 
+- **[2026-09-08 14:15 UTC]** Jessie J anuncia pausa nas redes após câncer de mama
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/jessie-j-anuncia-pausa-nas-redes-apos-cancer-de-mama.shtml)_
+
