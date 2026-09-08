@@ -371,3 +371,6 @@
 - **[2026-09-07 23:01 UTC]** Grito dos Excluídos faz defesa de moradia e valorização dos direitos das mulheres no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/grito-dos-excluidos-faz-defesa-de-moradia-e-valorizacao-dos-direitos-das-mulheres-no-acre.ghtml)_
 
+- **[2026-09-08 00:53 UTC]** Desfile de 7 de Setembro reúne multidão no Centro da capital do Acre; VÍDEOS
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/desfile-de-7-de-setembro-reune-multidao-no-centro-da-capital-do-acre-videos.ghtml)_
+
