@@ -80,3 +80,6 @@
 - **[2026-09-07 11:50 UTC]** Moradores pedem ajuda para combater incêndio que ameaça casas e plantações em Manacapuru, no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/07/moradores-pedem-ajuda-para-combater-incendio-que-ameaca-casas-e-plantacoes-em-manacapuru-no-am.ghtml)_
 
+- **[2026-09-08 20:14 UTC]** Como a locação de tecnologia ajuda empresas a crescer com mais economia
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/amazon-copy/noticia/2026/09/08/como-a-locacao-de-tecnologia-ajuda-empresas-a-crescer-com-mais-economia.ghtml)_
+
