@@ -314,3 +314,6 @@
 - **[2026-09-08 10:58 UTC]** Ex-banqueiro suíço é condenado a dois anos de prisão por pagar US$ 101 mi em propinas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ex-banqueiro-suico-e-condenado-a-dois-anos-de-prisao-por-pagar-us-101-mi-em-propinas.shtml)_
 
+- **[2026-09-08 15:54 UTC]** Pai é preso após manter filho de dois anos refém na Grande Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/08/pai-suspeito-manter-filho-refem-carro-grande-curitiba.ghtml)_
+
