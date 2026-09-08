@@ -20,3 +20,6 @@
 - **[2026-09-07 08:11 UTC]** Como o Dia da Independência apagou a memória da luta negra por independência e abolição
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0j3ppkk054o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 11:00 UTC]** Crise e campanhas põem STF no centro da luta eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/crise-e-campanhas-poem-stf-no-centro-da-luta-eleitoral.shtml)_
+
