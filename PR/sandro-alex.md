@@ -47,3 +47,6 @@
 - **[2026-09-04 16:20 UTC]** Eleições 2026 no PR: Sandro Alex participa de gravações e eventos de campanha
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-sandro-alex.ghtml)_
 
+- **[2026-09-07 23:24 UTC]** Eleições 2026 no PR: Sandro Alex participa de desfile de 7 de Setembro e evento da Igreja Católica
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-no-pr-sandro-alex-segunda.ghtml)_
+
