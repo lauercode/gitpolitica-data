@@ -224,3 +224,6 @@
 - **[2026-09-07 23:00 UTC]** Alta de Cury reflete desgaste com Lula e Flávio, mas falta de propostas é entrave, dizem especialistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alta-de-cury-reflete-desgaste-com-lula-e-flavio-mas-falta-de-propostas-e-entrave-dizem-especialistas.shtml)_
 
+- **[2026-09-08 11:23 UTC]** Pesquisas para presidente: Como Lula, Flávio Bolsonaro e Cury aparecem no Agregador de Pesquisas eleitorais da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
