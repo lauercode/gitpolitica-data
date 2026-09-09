@@ -17,3 +17,6 @@
 - **[2026-09-06 13:26 UTC]** Por que disputa pelas Malvinas voltou ao centro da política na Argentina? A resposta tem a ver com petróleo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3058em249no?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-08 23:00 UTC]** Milei escolhe Malvinas em batalha contra queda de popularidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/milei-escolhe-malvinas-em-batalha-contra-queda-de-popularidade.shtml)_
+
