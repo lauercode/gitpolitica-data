@@ -77,3 +77,6 @@
 - **[2026-09-08 12:57 UTC]** Projeto oferece aulas gratuitas para adultos e idosos aprenderem a ler no RN; 'Autonomia', diz professora
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/projeto-educacao-leitura-adultos-idosos.ghtml)_
 
+- **[2026-09-08 23:29 UTC]** Eleições 2026: Professora Maria do Carmo promete ampliar efetivo de bombeiros para combater queimadas no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-professora-maria-do-carmo-promete-ampliar-efetivo-de-bombeiros-para-combater-queimadas-no-am.ghtml)_
+
