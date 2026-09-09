@@ -1154,3 +1154,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 22:22 UTC]** OAB-DF abre processo ético-disciplinar contra escritório de mulher de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/oab-df-abre-processo-etico-disciplinar-contra-escritorio-de-mulher-de-moraes.shtml)_
 
+- **[2026-09-09 01:51 UTC]** Associação de imprensa que acionou Moraes contra dosimetria apoia reeleição de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/associacao-de-imprensa-que-acionou-moraes-contra-dosimetria-apoia-reeleicao-de-lula/)_
+
