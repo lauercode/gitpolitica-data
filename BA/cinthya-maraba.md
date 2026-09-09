@@ -23,3 +23,6 @@
 - **[2026-09-07 17:22 UTC]** Barco com passageiros afunda no rio Tocantins, em Marabá, no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/barco-com-passageiros-afunda-no-rio-tocantins-em-maraba-no-para.ghtml)_
 
+- **[2026-09-09 14:09 UTC]** Homem investigado por série de furtos em Marabá, no PA, é preso
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/homem-investigado-por-serie-de-furtos-em-maraba-no-pa-e-preso.ghtml)_
+
