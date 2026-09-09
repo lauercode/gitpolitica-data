@@ -1031,3 +1031,6 @@
 - **[2026-09-09 11:55 UTC]** Flávio Dino reverte afastamento de cúpula da PF, critica 'decisão em causa própria' e aponta risco a investigações do caso 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-reintegracao-andrei.ghtml)_
 
+- **[2026-09-09 10:01 UTC]** Lula e Flávio Bolsonaro empatam no primeiro e no segundo turno, diz pesquisa Meio/Ideia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-e-flavio-bolsonaro-empatam-no-primeiro-e-no-segundo-turno-diz-pesquisa-meioideia.shtml)_
+
