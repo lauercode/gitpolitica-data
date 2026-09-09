@@ -95,3 +95,6 @@
 - **[2026-09-09 16:24 UTC]** Eleições 2026: Professora Maria do Carmo defende integração de rios e estradas para garantir logística no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/eleicoes-2026-professora-maria-do-carmo-defende-integracao-de-rios-e-estradas-para-garantir-logistica-no-am.ghtml)_
 
+- **[2026-09-09 16:37 UTC]** 'Por favor, me ajuda': adolescente usa carta para contar à professora que pais eram pagos para permitir que tio a estuprasse, no PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/por-favor-me-ajuda-adolescente-usa-carta-para-contar-a-professora-que-pais-eram-pagos-para-permitir-que-tio-a-estuprasse-no-pr.ghtml)_
+
