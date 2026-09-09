@@ -14,3 +14,6 @@
 - **[2026-09-04 18:35 UTC]** MIS exibe filme 'O Convite' em sessão gratuita seguida de debate com Carol Tilkian
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/mis-exibe-filme-o-convite-em-sessao-gratuita-seguida-de-debate-com-carol-tilkian.shtml)_
 
+- **[2026-09-09 10:30 UTC]** Carol Lekker pede demissão do SBT após seis meses por salário baixo e deixa Fofocalizando
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/carol-lekker-pede-demissao-do-sbt-apos-seis-meses-por-salario-baixo-e-deixa-fofocalizando.shtml)_
+
