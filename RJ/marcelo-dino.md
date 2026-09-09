@@ -50,3 +50,6 @@
 - **[2026-09-09 13:33 UTC]** Dino cita impacto em investigação do filme 'Dark Horse' ao reconduzir chefe da PF; entenda o caso
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-cita-impacto-em-investigacao-do-filme-dark-horse-ao-reconduzir-chefe-da-pf-entenda-o-caso.ghtml)_
 
+- **[2026-09-09 12:58 UTC]** Veja o que disseram os presidenciáveis sobre a decisão de Dino que devolveu Andrei à direção-geral da PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-decisao-dino-andrei-direcao-pf.ghtml)_
+
