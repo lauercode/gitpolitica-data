@@ -32,3 +32,6 @@
 - **[2026-09-04 20:12 UTC]** Concurso da Guarda Municipal de Aracaju: veja como consultar local de prova e horários
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/concurso-da-guarda-municipal-de-aracaju-veja-como-consultar-local-de-prova-e-horarios.ghtml)_
 
+- **[2026-09-09 18:53 UTC]** Justiça dá 15 dias para desembargador pagar indenização a guarda humilhado na pandemia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-da-15-dias-para-desembargador-pagar-indenizacao-a-guarda-humilhado-na-pandemia.shtml)_
+
