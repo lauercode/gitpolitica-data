@@ -59,3 +59,6 @@
 - **[2026-09-09 11:18 UTC]** Fachin cancela sessão do STF após Dino reintegrar Andrei ao comando da PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/fachin-cancela-sessao-do-stf-apos-dino-reintegrar-andrei-ao-comando-da-pf.shtml)_
 
+- **[2026-09-09 09:02 UTC]** Dino reconduz diretor-geral da PF no cargo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dino-reintegra-diretor-geral-da-pf-no-cargo.shtml)_
+
