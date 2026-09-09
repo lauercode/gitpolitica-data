@@ -1166,3 +1166,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 10:12 UTC]** Temer telefona a Moraes e aconselha diálogo com Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temer-telefona-a-moraes-e-aconselha-dialogo-com-mendonca/)_
 
+- **[2026-09-09 13:46 UTC]** STF cancela sessão do plenário em meio a crise entre Dino, Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/stf-cancela-sessao-em-meio-a-crise-envolvendo-dino-moraes-e-mendonca.ghtml)_
+
