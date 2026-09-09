@@ -125,3 +125,6 @@
 - **[2026-09-09 19:53 UTC]** Mendonça homologa delação de empresário ligado ao financiamento do filme Dark Horse
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-homologa-delacao-de-empresario-ligado-ao-financiamento-do-filme-dark-horse/)_
 
+- **[2026-09-09 20:54 UTC]** 'Dark horse' e emendas: o 'arsenal' nas mãos de Flávio Dino no STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0e39y3p293o?at_medium=RSS&at_campaign=rss)_
+
