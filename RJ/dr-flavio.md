@@ -1016,3 +1016,6 @@
 - **[2026-09-08 19:58 UTC]** Conselheiros de Lula e Flávio para a Saúde apresentam planos semelhantes para o SUS
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/conselheiros-de-lula-e-flavio-para-a-saude-apresentam-planos-semelhantes-para-o-sus.shtml)_
 
+- **[2026-09-09 03:00 UTC]** Campanha de Flávio pede cassação da chapa Lula-Alckmin por suposto abuso de poder em desfile na Sapucaí
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/campanha-de-flavio-pede-cassacao-da-chapa-lula-alckmin-por-suposto-abuso-de-poder-em-desfile-na-sapucai.ghtml)_
+
