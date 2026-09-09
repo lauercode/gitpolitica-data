@@ -29,3 +29,6 @@
 - **[2026-09-08 22:24 UTC]** Efraim Filho fala em reabertura de delegacias 24 horas e tirar presídios de bairro, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/efraim-filho-fala-em-reabertura-de-delegacias-24-horas-e-tirar-presidios-de-bairro-em-joao-pessoa.ghtml)_
 
+- **[2026-09-09 20:05 UTC]** Efraim Filho defende valorização policial e reabertura de delegacias 24 horas na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/09/efraim-filho-defende-valorizacao-policial-e-reabertura-de-delegacias-24-horas-na-paraiba.ghtml)_
+
