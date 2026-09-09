@@ -11,3 +11,6 @@
 - **[2026-09-04 23:00 UTC]** Um mês após revogação de visto, embaixadora do Brasil nos EUA trabalha em Washington fora dos holofotes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/um-mes-apos-revogacao-de-visto-embaixadora-do-brasil-nos-eua-trabalha-em-washington-fora-dos-holofotes.shtml)_
 
+- **[2026-09-09 14:54 UTC]** Relações com os EUA passam por período incomum que contradiz séculos de amizade, diz embaixadora em Washington
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/relacoes-com-os-eua-passam-por-periodo-incomum-que-contradiz-seculos-de-amizade-diz-embaixadora-em-washington.shtml)_
+
