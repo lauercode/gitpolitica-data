@@ -1025,3 +1025,6 @@
 - **[2026-09-08 22:00 UTC]** Flávio explora crise no STF com leviandade e cinismo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/flavio-explora-crise-no-stf-com-leviandade-e-cinismo.shtml)_
 
+- **[2026-09-09 07:00 UTC]** Quaest em MG: Flávio Bolsonaro aparece numericamente à frente de Lula no 2º turno; veja números por perfil do eleitorado
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/09/quaest-em-mg-flavio-bolsonaro-aparece-numericamente-a-frente-de-lula-no-2o-turno-veja-numeros-por-perfil-do-eleitorado.ghtml)_
+
