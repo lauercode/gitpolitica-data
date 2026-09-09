@@ -326,3 +326,6 @@
 - **[2026-09-09 15:22 UTC]** Antes de fazer filho de dois anos refém na Grande Curitiba, pai agrediu esposa e filha, diz polícia
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/pai-filho-refem-esposa-agredida-grande-curitiba.ghtml)_
 
+- **[2026-09-09 16:16 UTC]** São Paulo confirma dois novos casos de sarampo; total chega a 30
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-dois-novos-casos-de-sarampo)_
+
