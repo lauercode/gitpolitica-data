@@ -377,3 +377,6 @@
 - **[2026-09-09 17:05 UTC]** Quem é o empresário que doou R$ 500 mil para Lula e R$ 500 mil para Flávio Bolsonaro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/09/erasmo-battistella-doacoes-lula-flavio.ghtml)_
 
+- **[2026-09-09 14:58 UTC]** Adolescente de 12 anos foi quem dirigiu carro 0 km flagrado em alta velocidade após furto em SC, diz PM
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/adolescente-12-anos-suspeito-dirigir-carro-apos-furto-sc-diz-pm.ghtml)_
+
