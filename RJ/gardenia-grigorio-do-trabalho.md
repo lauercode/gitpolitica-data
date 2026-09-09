@@ -233,3 +233,6 @@
 - **[2026-09-09 04:00 UTC]** SP lidera ações na Justiça por assédio eleitoral no trabalho; veja ranking
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/sp-lidera-acoes-na-justica-por-assedio-eleitoral-no-trabalho-veja-ranking.shtml)_
 
+- **[2026-09-09 11:04 UTC]** Andrei Rodrigues deve voltar ao trabalho na PF ainda nesta quarta (9)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/andrei-rodrigues-deve-voltar-ao-trabalho-na-pf-ainda-nesta-quarta-9.shtml)_
+
