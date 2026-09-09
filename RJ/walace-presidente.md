@@ -446,3 +446,6 @@
 - **[2026-09-09 18:26 UTC]** “O Brasil está sem presidente, virou várzea”, diz Flávio após Dino reintegrar chefe da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-brasil-esta-sem-presidente-virou-varzea-diz-flavio-pos-dino-reintegrar-chefe-da-pf/)_
 
+- **[2026-09-09 19:40 UTC]** Cidadania afasta presidente do partido preso em operação contra tráfico de drogas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cidadania-afasta-presidente-do-partido-preso-em-operacao-contra-trafico-de-drogas.shtml)_
+
