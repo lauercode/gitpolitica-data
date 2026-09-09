@@ -41,3 +41,6 @@
 - **[2026-09-09 12:04 UTC]** Veja o que é #FATO e o que é #FAKE nos debates de candidatos ao Senado por Minas Gerais no g1
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/09/veja-o-que-e-fato-e-o-que-e-fake-nos-debates-de-candidatos-ao-senado-por-minas-gerais-no-g1.ghtml)_
 
+- **[2026-09-09 17:50 UTC]** Diretoria do Iapen diz que confusão que resultou em 14 feridos e um morto foi fato isolado no AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/09/diretoria-do-iapen-diz-que-confusao-que-resultou-em-14-feridos-e-um-morto-foi-fato-isolado-no-ap.ghtml)_
+
