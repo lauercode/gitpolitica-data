@@ -56,3 +56,6 @@
 - **[2026-09-08 15:42 UTC]** VÍDEO: Mãe e filha dançam juntas em hospital para comemorar avanço de tratamento e momento emocionante é flagrado por médica e viraliza
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/video-mae-e-filha-dancam-juntas-em-hospital.ghtml)_
 
+- **[2026-09-09 14:28 UTC]** Alto da Glória ganha nova perspectiva em momento de valorização urbana
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/gadens-incorporadora/noticia/2026/09/09/alto-da-gloria-ganha-nova-perspectiva-em-momento-de-valorizacao-urbana.ghtml)_
+
