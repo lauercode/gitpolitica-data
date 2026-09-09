@@ -98,3 +98,6 @@
 - **[2026-09-09 13:37 UTC]** Tocantins teve 34 tremores de terra nos últimos 30 anos; veja cidades com mais registros
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/tocantins-teve-34-tremores-de-terras-nos-ultimos-30-anos-veja-cidades-com-mais-registros.ghtml)_
 
+- **[2026-09-09 21:55 UTC]** Trabalhadores resgatados em fazenda dormiam em chão de terra e sem proteção contra animais no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/trabalhadores-resgatados-de-situacao-analoga-a-escravidao-dormiam-em-chao-de-terra-e-sem-protecao-contra-animais-no-para.ghtml)_
+
