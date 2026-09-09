@@ -23,3 +23,6 @@
 - **[2026-09-08 14:01 UTC]** Manaus amanhece encoberta por fumaça e registra qualidade do ar moderada nesta terça-feira (8)
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/08/manaus-amanhece-encoberta-por-fumaca-e-registra-qualidade-do-ar-moderada-nesta-terca-feira-8.ghtml)_
 
+- **[2026-09-09 12:04 UTC]** VÍDEO: Queimadas fazem Manaus amanhecer encoberta de fumaça pelo 2º dia seguido; qualidade do ar chegou a nível 'muito ruim'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/qualidade-do-ar-fica-ruim-em-manaus-pelo-segundo-dia-seguido-apos-fumaca-encobrir-a-cidade.ghtml)_
+
