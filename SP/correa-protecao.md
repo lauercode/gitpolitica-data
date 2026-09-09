@@ -74,3 +74,6 @@
 - **[2026-09-08 21:34 UTC]** Cidade do Acre recebe mais de R$ 1,2 milhão para ações de proteção durante seca
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/cidade-do-ac-recebe-mais-de-r-12-milhao-do-governo-federal-para-acoes-de-protecao-durante-seca.ghtml)_
 
+- **[2026-09-09 21:55 UTC]** Trabalhadores resgatados em fazenda dormiam em chão de terra e sem proteção contra animais no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/trabalhadores-resgatados-de-situacao-analoga-a-escravidao-dormiam-em-chao-de-terra-e-sem-protecao-contra-animais-no-para.ghtml)_
+
