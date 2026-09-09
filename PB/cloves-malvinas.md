@@ -20,3 +20,6 @@
 - **[2026-09-08 23:00 UTC]** Milei escolhe Malvinas em batalha contra queda de popularidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/milei-escolhe-malvinas-em-batalha-contra-queda-de-popularidade.shtml)_
 
+- **[2026-09-09 15:15 UTC]** Milei surfa em aceno de Trump e agora quer Malvinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/milei-surfa-em-aceno-de-trump-e-agora-quer-malvinas.shtml)_
+
