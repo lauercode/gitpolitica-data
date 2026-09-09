@@ -1055,3 +1055,6 @@
 - **[2026-09-09 18:05 UTC]** Flávio repete trajeto de facada sofrida por Bolsonaro no ombro do povo em Juiz de Fora (MG)
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-repete-trajeto-de-facada-sofrida-por-bolsonaro-no-ombro-do-povo-em-juiz-de-fora-mg/)_
 
+- **[2026-09-09 17:19 UTC]** Flávio Dino anula afastamento do diretor-geral da Polícia Federal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-anula-afastamento-do-diretor-geral-da-policia-federal/)_
+
