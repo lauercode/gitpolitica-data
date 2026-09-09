@@ -32,3 +32,6 @@
 - **[2026-09-06 13:00 UTC]** Quem é a nova Miss Mundo? Conheça a dominicana Joheirry Mola
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/quem-e-a-nova-miss-mundo-conheca-a-dominicana-joheirry-mola.shtml)_
 
+- **[2026-09-09 15:59 UTC]** Com problemas cardíacos, Miss Áustria morre aos 22 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/com-problemas-cardiacos-miss-austria-morre-aos-22-anos.shtml)_
+
