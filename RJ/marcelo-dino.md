@@ -80,3 +80,6 @@
 - **[2026-09-09 13:08 UTC]** Dino reintegra diretor-geral da PF afastado por Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-reintegra-diretor-geral-pf-afastado-mendonca/)_
 
+- **[2026-09-09 16:39 UTC]** Impasse no STF: por que a decisão de Dino que reconduziu chefe da PF é a que está valendo? Entenda o conflito
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/impasse-no-stf-por-que-a-decisao-de-dino-que-reconduziu-chefe-da-pf-e-a-que-esta-valendo-entenda-o-conflito.ghtml)_
+
