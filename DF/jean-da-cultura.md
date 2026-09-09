@@ -59,3 +59,6 @@
 - **[2026-09-08 16:28 UTC]** Mortes: Fortaleceu resistência da cultura negra em Curitiba
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-fortaleceu-resistencia-da-cultura-negra-em-curitiba.shtml)_
 
+- **[2026-09-09 13:00 UTC]** András Schiff vai ao Cultura Artística e revê o clássico com o seu piano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/andras-schiff-vai-ao-cultura-artistica-e-reve-o-classico-com-o-seu-piano.shtml)_
+
