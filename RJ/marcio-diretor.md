@@ -191,3 +191,6 @@
 - **[2026-09-09 10:02 UTC]** 'Escalada da guerra interna no tribunal politizado': o que disse a imprensa internacional sobre afastamento do diretor da PF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj9xw7mz1d4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 09:53 UTC]** Fachin dá 72h para Mendonça responder sobre diretor da PF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-da-72h-para-mendonca-responder-sobre-diretor-da-pf)_
+
