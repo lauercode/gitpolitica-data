@@ -59,3 +59,6 @@
 - **[2026-09-09 04:03 UTC]** Crise no STF reflete politização da corte e problema estrutural, dizem especialistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/crise-no-stf-reflete-politizacao-da-corte-e-problema-estrutural-dizem-especialistas.shtml)_
 
+- **[2026-09-09 17:09 UTC]** Crise no STF pode antecipar dupla indicada por Bolsonaro no comando da Corte
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-pode-antecipar-dupla-indicada-por-bolsonaro-no-comando-da-corte/)_
+
