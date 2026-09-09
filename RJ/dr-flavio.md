@@ -1046,3 +1046,6 @@
 - **[2026-09-09 14:33 UTC]** Flávio Bolsonaro critica decisão de Dino no STF e diz que Lula quer vencer no tapetão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-critica-decisao-de-dino-no-stf-e-diz-que-lula-quer-vencer-no-tapetao.shtml)_
 
+- **[2026-09-09 12:16 UTC]** 'Rei do biodiesel' doa R$ 1 milhão às campanhas de Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/rei-do-biodiesel-doa-r-1-milhao-as-campanhas-de-lula-e-flavio.shtml)_
+
