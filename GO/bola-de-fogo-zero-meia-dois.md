@@ -332,3 +332,6 @@
 - **[2026-09-09 17:55 UTC]** São Paulo confirma mais dois casos de sarampo e chega a 30 em 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/sao-paulo-confirma-mais-dois-casos-de-sarampo-e-chega-a-30-em-2026.shtml)_
 
+- **[2026-09-09 20:31 UTC]** OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos — e a acusação feita por dois pesquisadores sobre a empresa
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cnvl794g7l3o?at_medium=RSS&at_campaign=rss)_
+
