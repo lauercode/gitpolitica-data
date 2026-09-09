@@ -122,3 +122,6 @@
 - **[2026-09-09 16:08 UTC]** Mendonça homologa delação de empresário que fez repasses para 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mendonca-homologa-delacao-de-empresario-que-fez-repasses-para-dark-horse.shtml)_
 
+- **[2026-09-09 19:53 UTC]** Mendonça homologa delação de empresário ligado ao financiamento do filme Dark Horse
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-homologa-delacao-de-empresario-ligado-ao-financiamento-do-filme-dark-horse/)_
+
