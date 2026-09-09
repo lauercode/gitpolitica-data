@@ -281,3 +281,6 @@
 - **[2026-09-09 18:38 UTC]** VÍDEOS: Jornal do Amazonas - 1ª edição - 9 de setembro de 2026
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-1-edicao-9-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-09 19:20 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de quarta-feira, 9 de setembro de 2026
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/09/videos-jornal-do-almoco-florianopolis-de-quarta-feira-9-de-setembro-de-2026.ghtml)_
+
