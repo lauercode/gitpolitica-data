@@ -104,3 +104,6 @@
 - **[2026-09-08 15:20 UTC]** Advogado é preso por porte ilegal de arma de fogo em Aracaju
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/08/advogado-e-preso-por-porte-ilegal-de-arma-de-fogo-em-aracaju.ghtml)_
 
+- **[2026-09-09 03:00 UTC]** Quatro homens são denunciados por latrocínio em caso de empresário morto após carro roubado capotar e pegar fogo no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quatro-homens-denunciados-empresario-morto-carro-roubado-capotar-pegar-fogo-rs.ghtml)_
+
