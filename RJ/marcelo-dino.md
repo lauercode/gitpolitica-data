@@ -44,3 +44,6 @@
 - **[2026-09-09 14:28 UTC]** Dino determina 'código único' para rastrear emendas e dá 30 dias para estados informarem sobre medidas corretivas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-determina-codigo-unico-para-rastrear-emendas-e-da-30-dias-para-estados-informarem-sobre-medidas-corretivas.ghtml)_
 
+- **[2026-09-09 13:46 UTC]** STF cancela sessão do plenário em meio a crise entre Dino, Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/stf-cancela-sessao-em-meio-a-crise-envolvendo-dino-moraes-e-mendonca.ghtml)_
+
