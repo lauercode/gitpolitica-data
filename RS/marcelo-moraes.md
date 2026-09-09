@@ -1169,3 +1169,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 13:46 UTC]** STF cancela sessão do plenário em meio a crise entre Dino, Moraes e Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/stf-cancela-sessao-em-meio-a-crise-envolvendo-dino-moraes-e-mendonca.ghtml)_
 
+- **[2026-09-09 11:44 UTC]** Disputa no STF puxa governo Lula para crise, e ala da campanha defende tomar distância de Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/disputa-no-stf-puxa-governo-lula-para-crise.ghtml)_
+
