@@ -1223,3 +1223,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 21:43 UTC]** Presidenciáveis reagem à decisão de Fachin que mantém Andrei na PF e tira Moraes do inquérito das fake news
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-reacao-decisao-de-fachin-andrei-pf-moraes.ghtml)_
 
+- **[2026-09-09 18:50 UTC]** Fachin marca para dia 15 julgamento sobre diálogos entre Moraes e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-marca-para-dia-15-julgamento-sobre-dialogos-entre-moraes-e-vorcaro.shtml)_
+
