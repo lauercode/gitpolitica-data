@@ -194,3 +194,6 @@
 - **[2026-09-09 12:21 UTC]** Indígenas denunciam contaminação na água que abastece aldeia no TO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/indigenas-denunciam-contaminacao-na-agua-que-abastece-aldeia-no-to.ghtml)_
 
+- **[2026-09-09 20:36 UTC]** Abastecimento de água em Nossa Senhora do Socorro é comprometido após rompimento de adutora
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/abastecimento-de-agua-em-nossa-senhora-do-socorro-e-comprometido-apos-rompimento-de-adutora.ghtml)_
+
