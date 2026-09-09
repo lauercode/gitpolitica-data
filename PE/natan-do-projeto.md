@@ -272,3 +272,6 @@
 - **[2026-09-09 09:00 UTC]** Club Vittar, projeto de Pabllo Vittar como DJ, anuncia temporada de verão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/club-vittar-projeto-de-pabllo-vittar-como-dj-anuncia-temporada-de-verao.shtml)_
 
+- **[2026-09-09 14:45 UTC]** Em Veneza, 'Dau' conclui projeto monumental sobre a vida no auge do stalinismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/em-veneza-dau-conclui-projeto-monumental-sobre-a-vida-no-auge-do-stalinismo.shtml)_
+
