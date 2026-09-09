@@ -1187,3 +1187,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 16:49 UTC]** Alexandre de Moraes sob pressão: OAB-DF abre procedimento contra escritório da família
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-sob-pressao-oab-df-abre-procedimento-contra-escritorio-da-familia/)_
 
+- **[2026-09-09 15:02 UTC]** Campanha quer descolar Lula de Moraes sem confrontar Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-quer-descolar-lula-de-moraes-sem-confrontar-mendonca/)_
+
