@@ -173,3 +173,6 @@
 - **[2026-09-09 04:00 UTC]** Escolas ribeirinhas de cidade do Amazonas ganham banheiros e estrutura sustentável
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/escolas-ribeirinhas-de-cidade-do-amazonas-ganham-banheiros-e-estrutura-sustentavel.shtml)_
 
+- **[2026-09-09 06:00 UTC]** Por que o sol 'muda de lugar' em Curitiba ao longo do ano? Entenda como a latitude da cidade afeta casas, apartamentos e até o varal de roupas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/por-que-o-sol-muda-de-lugar-em-curitiba-ao-longo-do-ano-entenda-como-a-latitude-da-cidade-afeta-casas-apartamentos-e-ate-o-varal-de-roupas.ghtml)_
+
