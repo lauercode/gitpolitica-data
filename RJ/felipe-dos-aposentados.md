@@ -23,3 +23,6 @@
 - **[2026-09-08 11:09 UTC]** A carta de 13 ministros aposentados do STF para Edson Fachin: 'mais aguda crise' e 'imediata e rigorosa apuração'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 06:00 UTC]** STJ retoma julgamento para decidir valor dos atrasados pagos a aposentados na Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/stj-retoma-julgamento-para-decidir-valor-dos-atrasados-pagos-a-aposentados-na-justica.shtml)_
+
