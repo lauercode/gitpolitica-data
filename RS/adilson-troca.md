@@ -62,3 +62,6 @@
 - **[2026-09-08 12:01 UTC]** Polícia apreende 4,5 toneladas de skunk e armamento de guerra após troca de tiros no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/08/policia-apreende-45-toneladas-de-skunk-e-armamento-de-guerra-apos-troca-de-tiros-no-amazonas.ghtml)_
 
+- **[2026-09-09 02:28 UTC]** Delegado Alessandro fala sobre desafios do Senado, apoio a Caiado e troca de partidos durante mandato
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/delegado-alessandro-entrevista-fm-sergipe.ghtml)_
+
