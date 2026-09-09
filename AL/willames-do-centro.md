@@ -212,3 +212,6 @@
 - **[2026-09-09 11:52 UTC]** Chuvas e trovoadas no centro-sul estão previstas para esta quarta
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/chuvas-e-trovoadas-no-centro-sul-estao-previstas-para-esta-quarta)_
 
+- **[2026-09-09 16:50 UTC]** Sou Manaus 2026 segue com programação cultural no Centro Histórico; confira
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/09/09/sou-manaus-2026-segue-com-programacao-cultural-no-centro-historico-confira.ghtml)_
+
