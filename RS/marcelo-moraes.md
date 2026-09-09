@@ -1175,3 +1175,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 14:15 UTC]** OAB-DF pedirá impeachment de Moraes e Toffoli
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-df-pedira-impeachment-de-moraes-e-toffoli/)_
 
+- **[2026-09-09 14:17 UTC]** Fachin cancela sessão do plenário do STF em meio à crise entre Moraes, Mendonça e Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cancela-sessao-plenario-stf-meio-a-crise/)_
+
