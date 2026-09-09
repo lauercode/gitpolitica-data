@@ -47,3 +47,6 @@
 - **[2026-09-08 11:42 UTC]** Mulher mantida em cárcere por 8 dias pede socorro escondido pelo celular e é resgatada no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/mulher-mantida-carcere-socorro-celular-resgatada.ghtml)_
 
+- **[2026-09-09 20:36 UTC]** Abastecimento de água em Nossa Senhora do Socorro é comprometido após rompimento de adutora
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/abastecimento-de-agua-em-nossa-senhora-do-socorro-e-comprometido-apos-rompimento-de-adutora.ghtml)_
+
