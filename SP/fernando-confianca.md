@@ -47,3 +47,6 @@
 - **[2026-09-08 10:23 UTC]** Número 2 da PF diz ter confiança em Andrei, e cúpula vê decisão política
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/andrei-cancela-participacao-em-evento-da-pf-apos-mendonca-determinar-seu-afastamento.shtml)_
 
+- **[2026-09-09 00:15 UTC]** Como Andrei Rodrigues se tornou o homem de confiança de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-andrei-rodrigues-se-tornou-o-homem-de-confianca-de-lula/)_
+
