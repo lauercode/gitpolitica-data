@@ -116,3 +116,6 @@
 - **[2026-09-09 18:28 UTC]** Dino reintegra Andrei à direção da PF; Lula pede quebra de sigilo do Master e Flávio acusa ministro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 20:02 UTC]** Fachin suspende decisão de Mendonça que afastou Andrei Rodrigues da PF e decisão de Dino que reintegrou diretor
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-suspende-decisao-de-mendonca-que-afastou-andrei-rodrigues-da-policia-federal.ghtml)_
+
