@@ -32,3 +32,6 @@
 - **[2026-09-08 23:00 UTC]** Blue Note abre nova sala para ampliar programação de shows e receber eventos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/09/blue-note-abre-nova-sala-para-ampliar-programacao-de-shows-e-receber-eventos.shtml)_
 
+- **[2026-09-09 17:50 UTC]** FECOIMP 2026 terá primeira Sala Sensorial para ampliar inclusão na feira
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/especial-publicitario/associacao-comercial-industrial-e-servicos-de-imperatriz-fecoimp-2026-aqui-vira-negocio/noticia/2026/09/09/fecoimp-2026-tera-primeira-sala-sensorial-para-ampliar-inclusao-na-feira.ghtml)_
+
