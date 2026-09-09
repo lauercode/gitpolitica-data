@@ -50,3 +50,6 @@
 - **[2026-09-07 17:52 UTC]** Festival reúne jovens para debater preservação ambiental em Rio Branco: 'Futuro sem devastação da natureza'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/festival-em-rio-branco-reune-jovens-para-debater-preservacao-ambiental-futuro-sem-devastacao-da-natureza.ghtml)_
 
+- **[2026-09-09 15:30 UTC]** Em Veneza, 'Musk', documentário ambicioso, faz público temer pelo futuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/em-veneza-musk-documentario-ambicioso-faz-publico-temer-pelo-futuro.shtml)_
+
