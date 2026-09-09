@@ -95,3 +95,6 @@
 - **[2026-09-09 11:33 UTC]** Secretário do Tesouro dos EUA desafia quem apostar contra o iene: 'Agora, a banca sou eu'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/secretario-do-tesouro-dos-eua-desafia-quem-apostar-contra-o-iene-agora-a-banca-sou-eu.shtml)_
 
+- **[2026-09-09 11:25 UTC]** O Estatuto da Cidade fez 25 anos, e agora?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/o-estatuto-da-cidade-fez-25-anos-e-agora.shtml)_
+
