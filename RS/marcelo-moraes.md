@@ -1199,3 +1199,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 20:20 UTC]** Fachin convoca plenário do STF para analisar decisão de Mendonça sobre suposta relação de Moraes com Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-convoca-plenario-do-stf-para-analisar-decisao-de-mendonca-sobre-suposta-relacao-de-moraes-com-vorcaro.ghtml)_
 
+- **[2026-09-09 17:07 UTC]** Críticos à escolha de Moraes como relator do golpe não veem contradição em Mendonça no caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/criticos-a-escolha-de-moraes-como-relator-do-golpe-nao-veem-contradicao-em-mendonca-no-caso-master.shtml)_
+
