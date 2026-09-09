@@ -113,3 +113,6 @@
 - **[2026-09-08 23:00 UTC]** Com AfD no poder, Alemanha entra em território desconhecido, diz professor de história alemã
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/com-afd-no-poder-alemanha-entra-em-territorio-desconhecido-diz-professor-de-historia-alema.shtml)_
 
+- **[2026-09-09 17:26 UTC]** Professor de Direito suspeito de crimes contra 10 mulheres segue solto após nova decisão da Justiça do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/professor-de-direito-suspeito-de-crimes-sexuais-solto-apos-nova-decisao.ghtml)_
+
