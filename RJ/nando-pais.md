@@ -68,3 +68,6 @@
 - **[2026-09-09 16:37 UTC]** 'Por favor, me ajuda': adolescente usa carta para contar à professora que pais eram pagos para permitir que tio a estuprasse, no PR
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/por-favor-me-ajuda-adolescente-usa-carta-para-contar-a-professora-que-pais-eram-pagos-para-permitir-que-tio-a-estuprasse-no-pr.ghtml)_
 
+- **[2026-09-09 16:48 UTC]** Pais vão poder acompanhar ao vivo viagens de adolescentes no Uber
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/pais-vao-poder-acompanhar-ao-vivo-viagens-de-adolescentes-no-uber.shtml)_
+
