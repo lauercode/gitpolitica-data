@@ -20,3 +20,6 @@
 - **[2026-09-09 22:38 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de William Siri a 'O Globo', 'Extra', 'Valor' e CBN
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/09/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-william-siri-a-o-globo-extra-valor-e-cbn.ghtml)_
 
+- **[2026-09-09 18:38 UTC]** William Bonner fala de timidez na adolescência: 'Não chegava nas meninas, era muito travado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/william-bonner-fala-de-timidez-na-adolescencia-nao-chegava-nas-meninas-era-muito-travado.shtml)_
+
