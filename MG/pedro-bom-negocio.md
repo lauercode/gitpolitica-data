@@ -20,3 +20,6 @@
 - **[2026-09-08 21:01 UTC]** Advogado transforma experiência em negócio de R$ 980 milhões
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/sebrae-roraima-onde-tem-empreendedor-tem-sebrae/noticia/2026/09/08/advogado-transforma-experiencia-em-negocio-de-r-980-milhoes.ghtml)_
 
+- **[2026-09-08 23:30 UTC]** Banco argentino controlado pelo BB compra negócio de varejo do rival Bind
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/banco-argentino-controlado-pelo-bb-compra-negocio-de-varejo-do-rival-bind.shtml)_
+
