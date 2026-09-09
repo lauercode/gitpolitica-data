@@ -98,3 +98,6 @@
 - **[2026-09-09 12:22 UTC]** Mendonça procura Fachin e vê decisão de Dino como ilegal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mendonca-procura-fachin-e-ve-decisao-de-dino-como-ilegal.shtml)_
 
+- **[2026-09-09 11:04 UTC]** Andrei Rodrigues reúne equipe e volta a comandar PF após decisão de Dino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/andrei-rodrigues-deve-voltar-ao-trabalho-na-pf-ainda-nesta-quarta-9.shtml)_
+
