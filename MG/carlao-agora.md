@@ -98,3 +98,6 @@
 - **[2026-09-09 11:25 UTC]** O Estatuto da Cidade fez 25 anos, e agora?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/o-estatuto-da-cidade-fez-25-anos-e-agora.shtml)_
 
+- **[2026-09-09 10:00 UTC]** O gargalo da infraestrutura agora é gente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/09/o-gargalo-da-infraestrutura-agora-e-gente.shtml)_
+
