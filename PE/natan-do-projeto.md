@@ -266,3 +266,6 @@
 - **[2026-09-08 12:57 UTC]** Projeto oferece aulas gratuitas para adultos e idosos aprenderem a ler no RN; 'Autonomia', diz professora
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/projeto-educacao-leitura-adultos-idosos.ghtml)_
 
+- **[2026-09-09 10:57 UTC]** Atlas Lithium contrata 71% do orçamento do Projeto Neves; 16% abaixo do previsto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/atlas-lithium-contrata-71-do-orcamento-do-projeto-neves-16-abaixo-do-previsto.shtml)_
+
