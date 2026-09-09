@@ -80,3 +80,6 @@
 - **[2026-09-08 21:33 UTC]** Mendonça manda soltar suspeitos de desvios no INSS em meio a discussões sobre mudança de relator no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/mendonca-manda-soltar-suspeitos-de-desvios-no-inss-em-meio-a-discussoes-sobre-mudanca-de-relator-no-stf.shtml)_
 
+- **[2026-09-09 16:29 UTC]** Alan Rick promete mudança no governo e diz que saúde será prioridade se eleito
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/alan-rick-promete-mudanca-no-governo-e-diz-que-saude-sera-prioridade-se-eleito.ghtml)_
+
