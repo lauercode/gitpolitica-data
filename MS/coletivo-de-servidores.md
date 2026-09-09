@@ -89,3 +89,6 @@
 - **[2026-09-08 21:43 UTC]** Sindicato de servidores da PF manifesta apoio a diretores afastados
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/sindicato-de-servidores-da-pf-manifesta-apoio-diretores-afastados)_
 
+- **[2026-09-09 20:23 UTC]** MP Eleitoral abre investigação contra vereador que disse que prefeito deve 'obrigar' votos de servidores contratados na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/mp-eleitoral-investigacao-vereador-disse-que-prefeito-obrigar-votos-servidores-contratados-pb.ghtml)_
+
