@@ -50,3 +50,6 @@
 - **[2026-09-08 18:07 UTC]** TVs cancelam debates após Lula, Flávio Bolsonaro e Tarcísio não confirmarem participação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tvs-cancelam-debates-apos-lula-flavio-bolsonaro-e-tarcisio-nao-confirmarem-participacao.shtml)_
 
+- **[2026-09-09 16:58 UTC]** Cresol consolida participação estratégica na rede de negócios da Expointer
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/09/cresol-consolida-participacao-estrategica-na-rede-de-negocios-da-expointer.ghtml)_
+
