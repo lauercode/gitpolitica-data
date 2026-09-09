@@ -17,3 +17,6 @@
 - **[2026-08-30 09:00 UTC]** Com rebanho de 11,6 milhões, Tocantins tem quase oito cabeças de gado por pessoa
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-rebanho-de-116-milhoes-tocantins-tem-quase-oito-cabecas-de-gado-por-pessoa.ghtml)_
 
+- **[2026-09-09 14:10 UTC]** Grupo criminoso que furtou mais de 2 mil cabeças de gado no Paraná desde 2019 é alvo de operação
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/operacao-furto-gado-parana.ghtml)_
+
