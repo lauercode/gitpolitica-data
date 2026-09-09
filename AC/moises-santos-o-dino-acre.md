@@ -416,3 +416,6 @@
 - **[2026-09-09 14:05 UTC]** Mãe e padrasto são presos suspeitos de espancar e matar menino de 3 anos no Acre; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/mae-e-padrasto-sao-presos-suspeitos-de-espancar-e-matar-menino-de-3-anos-no-interior-do-acre.ghtml)_
 
+- **[2026-09-09 18:02 UTC]** Caso Maria Ramona: Escola onde vítima de feminicídio estudava faz passeata e pede justiça no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/caso-maria-ramona-escola-onde-vitima-estudava-faz-passeata-contra-feminicidio-no-acre.ghtml)_
+
