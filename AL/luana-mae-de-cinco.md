@@ -173,3 +173,6 @@
 - **[2026-09-09 10:25 UTC]** Agenda dos presidenciáveis: cinco candidatos estão em São Paulo hoje
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/agenda-dos-presidenciaveis-cinco-candidatos-estao-em-sao-paulo-hoje)_
 
+- **[2026-09-09 15:34 UTC]** PF cumpre 18 mandados contra grupo suspeito de fraudar pensões do INSS em cinco cidades de AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/09/pf-cumpre-18-mandados-contra-grupo-suspeito-de-fraudar-pensoes-do-inss-em-cinco-cidades-de-al.ghtml)_
+
