@@ -107,3 +107,6 @@
 - **[2026-09-09 13:18 UTC]** Fachin sob pressão: por que presidente do STF não consegue debelar crise às vésperas de eleição
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 16:49 UTC]** Alexandre de Moraes sob pressão: OAB-DF abre procedimento contra escritório da família
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-sob-pressao-oab-df-abre-procedimento-contra-escritorio-da-familia/)_
+
