@@ -107,3 +107,6 @@
 - **[2026-09-09 13:44 UTC]** Obras da ponte de Palmas chegam a 87,49% de execução
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/obras-da-ponte-de-palmas-chegam-a-8749percent-de-execucao.ghtml)_
 
+- **[2026-09-09 15:47 UTC]** 41 trabalhadores são resgatados de condições análogas à escravidão em obras e canil de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/41-trabalhadores-sao-resgatados-de-condicoes-analogas-a-escravidao-em-obras-e-canil-de-manaus.ghtml)_
+
