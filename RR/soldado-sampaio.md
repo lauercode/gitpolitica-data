@@ -17,3 +17,6 @@
 - **[2026-09-01 22:19 UTC]** Soldado Sampaio fala em garantir trafegabilidade para escoamento da produção rural em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/soldado-sampaio-fala-em-garantir-trafegabilidade-para-escoamento-da-producao-rural-em-roraima.ghtml)_
 
+- **[2026-09-09 15:19 UTC]** TRE multa Soldado Sampaio em R$ 5 mil por propaganda antecipada durante convenção em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/09/tre-multa-soldado-sampaio-em-r-5-mil-por-propaganda-antecipada-durante-convencao-em-roraima.ghtml)_
+
