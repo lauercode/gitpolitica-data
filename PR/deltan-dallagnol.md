@@ -20,3 +20,6 @@
 - **[2026-09-08 18:26 UTC]** Por 4 votos a 3, TRE-PR aprova registro de candidatura de Deltan Dallagnol ao Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/juiza-do-tre-pr-vota-a-favor-de-candidatura-de-deltan-dallagnol-ao-senado.shtml)_
 
+- **[2026-09-09 09:21 UTC]** TRE-PR valida candidatura de Deltan Dallagnol ao Senado; decisão final pode caber ao TSE
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/candidatura-deltan-dallgnol.ghtml)_
+
