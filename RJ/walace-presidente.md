@@ -443,3 +443,6 @@
 - **[2026-09-09 15:30 UTC]** Kevin Warsh ainda pode ser um bom presidente do Fed
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2026/09/kevin-warsh-ainda-pode-ser-um-bom-presidente-do-fed.shtml)_
 
+- **[2026-09-09 18:26 UTC]** “O Brasil está sem presidente, virou várzea”, diz Flávio após Dino reintegrar chefe da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-brasil-esta-sem-presidente-virou-varzea-diz-flavio-pos-dino-reintegrar-chefe-da-pf/)_
+
