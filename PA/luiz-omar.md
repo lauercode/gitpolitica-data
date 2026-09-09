@@ -32,3 +32,6 @@
 - **[2026-09-08 17:17 UTC]** Eleições 2026: Omar Aziz propõe cursos de inteligência artificial no Cetam durante entrevista em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-omar-aziz-propoe-cursos-de-inteligencia-artificial-no-cetam-durante-entrevista-em-manaus.ghtml)_
 
+- **[2026-09-09 21:03 UTC]** Eleições 2026: plano de governo de Omar Aziz defende zoneamento ecológico e assistência técnica
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-plano-de-governo-de-omar-aziz-defende-zoneamento-ecologico-e-assistencia-tecnica.ghtml)_
+
