@@ -86,3 +86,6 @@
 - **[2026-09-09 15:09 UTC]** Guerra de liminares no STF: ministros ligam para Fachin e cobram providências; Mendonça vê ilegalidade em decisão de Dino
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/guerra-de-liminares-eleva-pressao-sobre-fachin-por-anuncio-de-medida-concreta-para-conter-crise-master-no-stf.ghtml)_
 
+- **[2026-09-09 14:28 UTC]** Dino exige código único para emendas e dá 30 dias para estados informarem sobre transparência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-determina-codigo-unico-para-rastrear-emendas-e-da-30-dias-para-estados-informarem-sobre-medidas-corretivas.ghtml)_
+
