@@ -92,3 +92,6 @@
 - **[2026-09-09 14:33 UTC]** Flávio Bolsonaro critica decisão de Dino no STF e diz que Lula quer vencer no tapetão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-critica-decisao-de-dino-no-stf-e-diz-que-lula-quer-vencer-no-tapetao.shtml)_
 
+- **[2026-09-09 12:36 UTC]** Dino cita encontro de Mendonça e Vorcaro e questiona se colega age como 'juiz de si mesmo'; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-cita-encontro-de-mendonca-e-vorcaro-e-questiona-se-colega-age-como-juiz-de-si-mesmo-entenda.shtml)_
+
