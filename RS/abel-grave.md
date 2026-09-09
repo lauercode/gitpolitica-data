@@ -41,3 +41,6 @@
 - **[2026-09-09 21:06 UTC]** Fachin derruba decisões de ministros sobre PF e retira inquéritos de Moraes e Mendonça: 'É grave quando decisões são desafiadas'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 18:48 UTC]** Fachin diz que decisões de Mendonça e Dino sobre a PF representam 'grave lesão à ordem pública'; leia íntegra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-diz-que-decisoes-de-mendonca-e-dino-sobre-a-pf-representam-grave-lesao-a-ordem-publica-leia-integra.shtml)_
+
