@@ -407,3 +407,6 @@
 - **[2026-09-08 23:33 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 8 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-8-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-08 23:21 UTC]** VÍDEO: Caminhão com 80 porcos tomba após falha mecânica em rodovia do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/video-caminhao-com-porcos-tomba-apos-falha-mecanica-em-rodovia-do-acre.ghtml)_
+
