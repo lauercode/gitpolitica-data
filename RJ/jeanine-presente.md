@@ -20,3 +20,6 @@
 - **[2026-09-07 21:17 UTC]** Paixão por Marina Sena faz fãs enfrentarem horas de espera e até corrida por presente em Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/paixao-por-marina-sena-faz-fas-enfrentarem-horas-de-espera-e-ate-corrida-por-presente-em-palmas.ghtml)_
 
+- **[2026-09-09 15:05 UTC]** Trump dá US$ 45 mil de presente a assessora apelidada de 'impressora humana'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-da-us-45-mil-de-presente-a-assessora-apelidada-de-impressora-humana.shtml)_
+
