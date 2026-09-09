@@ -155,3 +155,6 @@
 - **[2026-09-08 22:12 UTC]** ANTT aprova concessão de rodovias entre RO e MT por 30 anos; investimento será de R$ 6,1 bilhões
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/08/antt-aprova-concessao-de-rodovias-entre-ro-e-mt-por-30-anos-investimento-sera-de-r-61-bilhoes.ghtml)_
 
+- **[2026-09-09 00:01 UTC]** Após ataque de três pit bulls que deixou um homem morto em praia do RS, saiba qual será o destino dos animais
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/ataque-tres-pit-bulls-homem-morto-praia-rs-saiba-qual-sera-destino-animais.ghtml)_
+
