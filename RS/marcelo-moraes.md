@@ -1220,3 +1220,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 23:13 UTC]** Fachin tenta retomar controle do STF, freia Mendonça e Dino e impõe revés a Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/fachin-controle-stf-medonca-dino-moraes.ghtml)_
 
+- **[2026-09-09 21:43 UTC]** Presidenciáveis reagem à decisão de Fachin que mantém Andrei na PF e tira Moraes do inquérito das fake news
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-reacao-decisao-de-fachin-andrei-pf-moraes.ghtml)_
+
