@@ -179,3 +179,6 @@
 - **[2026-09-09 00:52 UTC]** Associação de delegados critica ordem de Mendonça contra diretor da PF e cobra análise do plenário
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/associacao-de-delegados-critica-ordem-de-mendonca-contra-diretor-da-pf-e-cobra-analise-do-plenario/)_
 
+- **[2026-09-08 23:18 UTC]** Senador pede impeachment de Moraes, prisão do diretor da PF e afastamento de Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-pede-impeachment-de-moraes-prisao-do-diretor-da-pf-e-afastamento-de-alcolumbre/)_
+
