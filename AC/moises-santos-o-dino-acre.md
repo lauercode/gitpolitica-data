@@ -428,3 +428,6 @@
 - **[2026-09-09 23:11 UTC]** Polícia investiga legítima defesa em morte de homem na zona rural de município do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/policia-investiga-legitima-defesa-em-morte-de-homem-na-zona-rural-de-municipio-do-acre.ghtml)_
 
+- **[2026-09-09 22:56 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 9 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-9-de-setembro-de-2026.ghtml)_
+
