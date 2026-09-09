@@ -50,3 +50,6 @@
 - **[2026-09-08 22:39 UTC]** Interpol oferece apoio nas buscas por irmãos desaparecidos em Bacabal, diz advogada da família
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/interpol-oferece-apoio-nas-buscas-por-irmaos-desaparecidos-em-bacabal-diz-advogada-da-familia.ghtml)_
 
+- **[2026-09-09 11:47 UTC]** Relembre o desaparecimento de irmãos em Bacabal até a oferta da Interpol para ajudar nas buscas
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/relembre-o-desaparecimento-de-irmaos-em-bacabal-ate-a-oferta-da-interpol-para-ajudar-nas-buscas.ghtml)_
+
