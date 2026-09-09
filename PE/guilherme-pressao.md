@@ -104,3 +104,6 @@
 - **[2026-09-09 11:04 UTC]** Irã sinaliza disposição para intensificar confronto ante pressão crescente dos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ira-sinaliza-disposicao-para-intensificar-confronto-ante-pressao-crescente-dos-eua.shtml)_
 
+- **[2026-09-09 13:18 UTC]** Fachin sob pressão: por que presidente do STF não consegue debelar crise às vésperas de eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
+
