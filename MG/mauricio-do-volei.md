@@ -20,3 +20,6 @@
 - **[2026-09-06 20:51 UTC]** Vôlei de praia: Brasil assegura duas vagas olímpicas para Los Angeles
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/volei-de-praia-brasil-assegura-duas-vagas-olimpicas-para-los-angeles)_
 
+- **[2026-09-08 21:46 UTC]** Brasil supera Venezuela em estreia no Sul-Americano de vôlei feminino
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-supera-venezuela-em-estreia-no-sul-americano-de-volei-feminino)_
+
