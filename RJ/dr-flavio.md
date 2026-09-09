@@ -1073,3 +1073,6 @@
 - **[2026-09-09 19:00 UTC]** Consórcio cancela debates após Lula, Flávio e Tarcísio não confirmarem presença
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/consorcio-cancela-debates-apos-lula-flavio-e-tarcisio-nao-confirmarem-presenca/)_
 
+- **[2026-09-09 18:26 UTC]** “O Brasil está sem presidente, virou várzea”, diz Flávio após Dino reintegrar chefe da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-brasil-esta-sem-presidente-virou-varzea-diz-flavio-pos-dino-reintegrar-chefe-da-pf/)_
+
