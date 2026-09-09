@@ -1163,3 +1163,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 10:29 UTC]** André Mendonça recorre a precedentes de Moraes para justificar afastamento na PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/09/andre-mendonca-recorre-a-precedentes-de-moraes-para-justificar-afastamento-na-pf.ghtml)_
 
+- **[2026-09-09 10:12 UTC]** Temer telefona a Moraes e aconselha diálogo com Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temer-telefona-a-moraes-e-aconselha-dialogo-com-mendonca/)_
+
