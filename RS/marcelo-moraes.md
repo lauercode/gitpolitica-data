@@ -1193,3 +1193,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 20:42 UTC]** Inquérito das fake news: relembre decisões que marcaram a investigação que passa de Moraes para Fachin
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/inquerito-das-fake-news-relembre-decisoes-que-marcaram-a-investigacao-que-passa-de-moraes-para-fachin.ghtml)_
 
+- **[2026-09-09 20:21 UTC]** Fachin tira Moraes da relatoria do inquérito das Fake News e assume caso em meio à crise no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-assume-relatoria-do-inquerito-das-fake-news.ghtml)_
+
