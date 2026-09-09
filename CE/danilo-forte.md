@@ -98,3 +98,6 @@
 - **[2026-09-06 22:11 UTC]** João Gordo faz show no Rock in Rio para público esvaziado e sob forte chuva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/joao-gordo-faz-show-no-rock-in-rio-para-publico-esvaziado-e-sob-forte-chuva.shtml)_
 
+- **[2026-09-09 05:00 UTC]** Defesa Civil alerta para chuva forte quarta (9) e quinta (10) em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/defesa-civil-alerta-para-chuva-forte-quarta-9-e-quinta-10-em-sao-paulo.shtml)_
+
