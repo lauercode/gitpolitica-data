@@ -65,3 +65,6 @@
 - **[2026-09-07 16:58 UTC]** Socorrista filmada acalmando pais que perderam filha no Paraná considera que atitude devia 'ser o comum' entre as pessoas
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/07/socorristas-video-acidente-pais-parana.ghtml)_
 
+- **[2026-09-09 16:37 UTC]** 'Por favor, me ajuda': adolescente usa carta para contar à professora que pais eram pagos para permitir que tio a estuprasse, no PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/por-favor-me-ajuda-adolescente-usa-carta-para-contar-a-professora-que-pais-eram-pagos-para-permitir-que-tio-a-estuprasse-no-pr.ghtml)_
+
