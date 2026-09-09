@@ -38,3 +38,6 @@
 - **[2026-09-07 14:34 UTC]** Idoso é resgatado em estado grave após entrar no mar da Praia do Seixas, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/idoso-e-resgatado-em-estado-grave-apos-entrar-no-mar-da-praia-do-seixas-em-joao-pessoa.ghtml)_
 
+- **[2026-09-09 21:06 UTC]** Fachin derruba decisões de ministros sobre PF e retira inquéritos de Moraes e Mendonça: 'É grave quando decisões são desafiadas'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
+
