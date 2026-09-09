@@ -17,3 +17,6 @@
 - **[2026-08-28 23:33 UTC]** Primeiro dia de campanha na TV: Alan se coloca como 'acreano do pé rachado' e Mailza destaca mandato
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/28/primeiro-dia-de-campanha-na-tv-acre.ghtml)_
 
+- **[2026-09-09 16:29 UTC]** Alan Rick promete mudança no governo e diz que saúde será prioridade se eleito
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/alan-rick-promete-mudanca-no-governo-e-diz-que-saude-sera-prioridade-se-eleito.ghtml)_
+
