@@ -218,3 +218,6 @@
 - **[2026-09-09 17:26 UTC]** Professor de Direito suspeito de crimes contra 10 mulheres segue solto após nova decisão da Justiça do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/professor-de-direito-suspeito-de-crimes-sexuais-solto-apos-nova-decisao.ghtml)_
 
+- **[2026-09-09 22:04 UTC]** Justiça decreta nova prisão de homem acusado de transmitir HIV para mulheres em RO; entenda
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/09/justica-decreta-nova-prisao-de-homem-acusado-de-transmitir-hiv-para-mulheres-em-ro-entenda.ghtml)_
+
