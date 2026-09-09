@@ -11,3 +11,6 @@
 - **[2026-08-31 12:07 UTC]** Candidato à reeleição no Senado, Chico Rodrigues defende garimpo: 'paranoia dos ambientalistas'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/31/candidato-a-reeleicao-no-senado-chico-rodrigues-defende-garimpo-paranoia-dos-ambientalistas.ghtml)_
 
+- **[2026-09-09 12:17 UTC]** Chico Rodrigues falta a entrevista com candidatos ao Senado em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/09/chico-rodrigues-falta-a-entrevista-com-candidatos-ao-senado-em-roraima.ghtml)_
+
