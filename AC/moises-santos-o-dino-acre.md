@@ -419,3 +419,6 @@
 - **[2026-09-09 18:02 UTC]** Caso Maria Ramona: Escola onde vítima de feminicídio estudava faz passeata e pede justiça no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/caso-maria-ramona-escola-onde-vitima-estudava-faz-passeata-contra-feminicidio-no-acre.ghtml)_
 
+- **[2026-09-09 17:09 UTC]** Idosa de 77 anos morre após sofrer mal súbito em clínica de fisioterapia no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/idosa-de-77-anos-morre-apos-sofrer-mal-subito-em-clinica-de-fisioterapia-no-acre.ghtml)_
+
