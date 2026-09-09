@@ -380,3 +380,6 @@
 - **[2026-09-09 14:58 UTC]** Adolescente de 12 anos foi quem dirigiu carro 0 km flagrado em alta velocidade após furto em SC, diz PM
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/adolescente-12-anos-suspeito-dirigir-carro-apos-furto-sc-diz-pm.ghtml)_
 
+- **[2026-09-09 16:46 UTC]** Ameaça a Cássio e um veterano no Coritiba; quem são os goleiros convocados por Ancelotti
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/ameaca-a-cassio-e-um-veterano-no-coritiba-quem-sao-os-goleiros-convocados-por-ancelotti.shtml)_
+
