@@ -1178,3 +1178,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 14:17 UTC]** Fachin cancela sessão do plenário do STF em meio à crise entre Moraes, Mendonça e Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cancela-sessao-plenario-stf-meio-a-crise/)_
 
+- **[2026-09-09 13:34 UTC]** PT acusa oposição de disseminar desinformação e politizar crise entre Mendonça e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-acusa-oposicao-disseminar-desinformacao-politizar-crise-stf/)_
+
