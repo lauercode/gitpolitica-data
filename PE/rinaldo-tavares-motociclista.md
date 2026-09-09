@@ -137,3 +137,6 @@
 - **[2026-09-08 19:45 UTC]** Motociclista morre e crianças ficam feridas em acidente na PA-415, em Altamira
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/08/motociclista-morre-e-criancas-ficam-feridas-em-acidente-na-pa-415-em-altamira.ghtml)_
 
+- **[2026-09-09 13:05 UTC]** Motociclista morre após bater de frente com caminhonete na BR-101 no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/09/motociclista-morre-acidente-br-101-rn.ghtml)_
+
