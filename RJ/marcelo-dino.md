@@ -125,3 +125,6 @@
 - **[2026-09-09 17:06 UTC]** Fachin suspende decisões de Mendonça e Dino sobre chefia da PF e tira Moraes do inquérito das fake news
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-decisoes-de-dino-e-mendonca-sobre-chefia-da-pf-e-investigacoes-sobre-ministros.shtml)_
 
+- **[2026-09-09 20:29 UTC]** Fachin suspende decisões de Mendonça e Dino sobre diretor da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-suspende-decisoes-de-mendonca-e-dino-sobre-diretor-da-pf/)_
+
