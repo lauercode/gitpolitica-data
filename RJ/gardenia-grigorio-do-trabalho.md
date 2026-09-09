@@ -236,3 +236,6 @@
 - **[2026-09-09 11:04 UTC]** Andrei Rodrigues deve voltar ao trabalho na PF ainda nesta quarta (9)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/andrei-rodrigues-deve-voltar-ao-trabalho-na-pf-ainda-nesta-quarta-9.shtml)_
 
+- **[2026-09-09 14:04 UTC]** Auditoria-Fiscal do Trabalho resgata trabalhadores em condição análoga à de escravo em fazenda no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/auditoria-fiscal-do-trabalho-resgata-trabalhadores-em-condicao-analoga-a-de-escravo-em-fazenda-no-maranhao.ghtml)_
+
