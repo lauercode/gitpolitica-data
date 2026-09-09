@@ -29,3 +29,6 @@
 - **[2026-09-09 08:02 UTC]** 90 anos Rádio Nacional: o legado do Repórter Esso no radiojornalismo
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/90-anos-radio-nacional-o-legado-do-reporter-esso-no-radiojornalismo)_
 
+- **[2026-09-09 16:44 UTC]** Mortes: Antropólogo deixa um legado ao Brasil e aos seus povos originários
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-antropologo-deixa-um-legado-ao-brasil-e-aos-seus-povos-originarios.shtml)_
+
