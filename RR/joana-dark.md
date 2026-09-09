@@ -107,3 +107,6 @@
 - **[2026-09-09 13:18 UTC]** Andrei usou caso Dark Horse para direcionar pedido de reintegração a Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-usou-caso-dark-horse-para-direcionar-pedido-de-reintegracao-a-dino/)_
 
+- **[2026-09-09 17:38 UTC]** Delator do caso Master detalha pagamentos a fundo de 'Dark Horse' e revela uso de empresa nas Bahamas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/delator-do-caso-master-detalha-pagamentos-a-fundo-de-dark-horse.ghtml)_
+
