@@ -449,3 +449,6 @@
 - **[2026-09-09 19:40 UTC]** Cidadania afasta presidente do partido preso em operação contra tráfico de drogas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cidadania-afasta-presidente-do-partido-preso-em-operacao-contra-trafico-de-drogas.shtml)_
 
+- **[2026-09-09 23:13 UTC]** PF pede oitiva com presidente e ex-presidente do Banco Central
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/pf-pede-oitiva-com-presidente-e-ex-presidente-do-banco-central/)_
+
