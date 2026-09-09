@@ -26,3 +26,6 @@
 - **[2026-09-07 23:23 UTC]** Eleições 2026 no PR: Requião Filho participa de conversa com eleitores e visita Feira da Louça na Grande Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-no-pr-requiao-filho-7-setembro.ghtml)_
 
+- **[2026-09-08 23:02 UTC]** Eleições 2026 no PR: Requião Filho propõe centralizar processo para abertura e expansão de empresas no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-no-pr-requiao-filho-propoe-centralizar-processo-para-abertura-e-expansao-de-empresas-no-parana.ghtml)_
+
