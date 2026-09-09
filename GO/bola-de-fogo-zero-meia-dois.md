@@ -335,3 +335,6 @@
 - **[2026-09-09 20:31 UTC]** OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos — e a acusação feita por dois pesquisadores sobre a empresa
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cnvl794g7l3o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 20:31 UTC]** Policial que matou dois colegas em AL passará por perícia para avaliar possível surto psicótico
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/09/policial-que-matou-dois-colegas-em-al-passara-por-pericia-para-avaliar-possivel-surto-psicotico.ghtml)_
+
