@@ -290,3 +290,6 @@
 - **[2026-09-09 22:56 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 9 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-9-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-09 22:38 UTC]** VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quarta-feira, 9 de setembro de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quarta-feira-9-de-setembro-de-2026.ghtml)_
+
