@@ -104,3 +104,6 @@
 - **[2026-09-09 11:55 UTC]** Flávio Dino reverte afastamento de cúpula da PF, critica 'decisão em causa própria' e aponta risco a investigações do caso 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-reintegracao-andrei.ghtml)_
 
+- **[2026-09-09 13:18 UTC]** Andrei usou caso Dark Horse para direcionar pedido de reintegração a Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-usou-caso-dark-horse-para-direcionar-pedido-de-reintegracao-a-dino/)_
+
