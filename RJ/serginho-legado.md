@@ -26,3 +26,6 @@
 - **[2026-09-08 18:34 UTC]** Me Leva Festival Belém: Belo, Pixote e O Legado fazem show no domingo, 13, no Mangueirão
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/08/me-leva-festival-belem-belo-pixote-e-o-legado-fazem-show-no-domingo-13-no-mangueirao.ghtml)_
 
+- **[2026-09-09 08:02 UTC]** 90 anos Rádio Nacional: o legado do Repórter Esso no radiojornalismo
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/90-anos-radio-nacional-o-legado-do-reporter-esso-no-radiojornalismo)_
+
