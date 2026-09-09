@@ -353,3 +353,6 @@
 - **[2026-09-08 19:38 UTC]** Quem é William Murad, que assumiu interinamente comando da PF após afastamento de diretor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quem-e-william-murad-que-assumiu-interinamente-comando-da-pf-apos-afastamento-de-diretor.shtml)_
 
+- **[2026-09-08 20:40 UTC]** 'Quem Ama Cuida': Ademir flagra Dora na cama com André; veja fotos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/quem-ama-cuida-ademir-flagra-dora-na-cama-com-andre-veja-fotos.shtml)_
+
