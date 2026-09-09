@@ -119,3 +119,6 @@
 - **[2026-09-09 20:02 UTC]** Fachin suspende decisão de Mendonça que afastou Andrei Rodrigues da PF e decisão de Dino que reintegrou diretor
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-suspende-decisao-de-mendonca-que-afastou-andrei-rodrigues-da-policia-federal.ghtml)_
 
+- **[2026-09-09 17:22 UTC]** PL vai explorar contra-ataque de Dino a Mendonça para argumentar que Lula interfere em investigações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pl-vai-explorar-contra-ataque-de-dino-a-mendonca-para-argumentar-que-lula-interfere-em-investigacoes.shtml)_
+
