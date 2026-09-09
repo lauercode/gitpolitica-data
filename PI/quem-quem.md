@@ -374,3 +374,6 @@
 - **[2026-09-09 12:59 UTC]** Ator de 'Quem Ama Cuida' ganha 400 mil seguidores após ataques por look no Rock in Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/ator-de-quem-ama-cuida-ganha-400-mil-seguidores-apos-ataques-por-look-no-rock-in-rio.shtml)_
 
+- **[2026-09-09 17:05 UTC]** Quem é o empresário que doou R$ 500 mil para Lula e R$ 500 mil para Flávio Bolsonaro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/09/erasmo-battistella-doacoes-lula-flavio.ghtml)_
+
