@@ -191,3 +191,6 @@
 - **[2026-09-09 00:31 UTC]** Well Macedo, do PSTU, propõe reestatizar a Cosanpa e tarifa zero de água no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/08/well-macedo-do-pstu-propoe-reestatizar-a-cosanpa-e-tarifa-zero-de-agua-no-para.ghtml)_
 
+- **[2026-09-09 12:21 UTC]** Indígenas denunciam contaminação na água que abastece aldeia no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/indigenas-denunciam-contaminacao-na-agua-que-abastece-aldeia-no-to.ghtml)_
+
