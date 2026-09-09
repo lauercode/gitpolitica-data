@@ -134,3 +134,6 @@
 - **[2026-09-09 19:01 UTC]** Fachin suspende decisões de Mendonça e Dino no caso Andrei Rodrigues
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-suspende-decisoes-de-mendonca-e-dino-no-caso-andrei-rodrigues)_
 
+- **[2026-09-09 23:13 UTC]** Fachin tenta retomar controle do STF, freia Mendonça e Dino e impõe revés a Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/fachin-controle-stf-medonca-dino-moraes.ghtml)_
+
