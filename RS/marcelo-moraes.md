@@ -1214,3 +1214,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 21:01 UTC]** STF vai decidir no dia 15 sobre 'guerra aberta' entre Moraes e Mendonça
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y423dne20o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 18:54 UTC]** Fachin decide tirar Moraes da relatoria do inquérito das fake news
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-decide-tirar-moraes-da-relatoria-do-inquerito-das-fake-news)_
+
