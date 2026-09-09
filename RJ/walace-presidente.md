@@ -437,3 +437,6 @@
 - **[2026-09-09 10:59 UTC]** Gerp divulga pesquisa de intenção de voto para presidente; confira os números
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/gerp-presidente-setembro-2026/)_
 
+- **[2026-09-09 13:18 UTC]** Fachin sob pressão: por que presidente do STF não consegue debelar crise às vésperas de eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
+
