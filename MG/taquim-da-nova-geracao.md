@@ -53,3 +53,6 @@
 - **[2026-09-08 18:23 UTC]** Aneel propõe ampliar controle sobre geração distribuída de energia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/aneel-propoe-ampliar-controle-sobre-geracao-distribuida-de-energia.shtml)_
 
+- **[2026-09-09 21:03 UTC]** Eleições 2026: Omar Aziz participa de entrevista e defende desenvolvimento sustentável para geração de empregos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-plano-de-governo-de-omar-aziz-defende-zoneamento-ecologico-e-assistencia-tecnica.ghtml)_
+
