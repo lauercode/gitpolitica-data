@@ -413,3 +413,6 @@
 - **[2026-09-09 10:00 UTC]** Mulher é condenada a mais de 25 anos de prisão por mandar matar adolescente no Acre em 2019
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/mulher-e-condenada-a-mais-de-25-anos-de-prisao-por-mandar-matar-adolescente-no-acre-em-2019.ghtml)_
 
+- **[2026-09-09 14:05 UTC]** Mãe e padrasto são presos suspeitos de espancar e matar menino de 3 anos no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/mae-e-padrasto-sao-presos-suspeitos-de-espancar-e-matar-menino-de-3-anos-no-interior-do-acre.ghtml)_
+
