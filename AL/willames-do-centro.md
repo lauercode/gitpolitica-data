@@ -209,3 +209,6 @@
 - **[2026-09-09 11:53 UTC]** Prefeitura oferece crédito de até R$ 20 mil para comerciantes afetados por incêndio no Centro Comercial de Passagem, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/prefeitura-oferece-credito-de-ate-r-20-mil-para-comerciantes-afetados-por-incendio-no-centro-comercial-de-passagem-em-joao-pessoa.ghtml)_
 
+- **[2026-09-09 11:52 UTC]** Chuvas e trovoadas no centro-sul estão previstas para esta quarta
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/chuvas-e-trovoadas-no-centro-sul-estao-previstas-para-esta-quarta)_
+
