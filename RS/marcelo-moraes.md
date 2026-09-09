@@ -1181,3 +1181,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 13:34 UTC]** PT acusa oposição de disseminar desinformação e politizar crise entre Mendonça e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-acusa-oposicao-disseminar-desinformacao-politizar-crise-stf/)_
 
+- **[2026-09-09 15:02 UTC]** 'Guerra' Mendonça x Moraes escalou; relembre tudo o que aconteceu
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss)_
+
