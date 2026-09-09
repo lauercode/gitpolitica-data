@@ -71,3 +71,6 @@
 - **[2026-09-08 14:32 UTC]** Vereador afirma que prefeito deve 'obrigar' votos de servidores contratados na PB: 'Chame um por um'; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/vereador-afirma-que-prefeito-deve-obrigar-votos-de-servidores-contratados-na-pb-chame-um-por-um.ghtml)_
 
+- **[2026-09-09 14:28 UTC]** Câmara de Parauapebas abre processo de impeachment contra prefeito por suposto racismo religioso
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/camara-de-parauapebas-abre-processo-de-impeachment-contra-prefeito-por-suposto-racismo-religioso.ghtml)_
+
