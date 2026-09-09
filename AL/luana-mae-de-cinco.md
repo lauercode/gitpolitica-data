@@ -167,3 +167,6 @@
 - **[2026-09-08 11:04 UTC]** Tocantins terá mais cinco feriados prolongados até dezembro; veja datas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/tocantins-tera-mais-cinco-feriados-prolongados-ate-dezembro-veja-datas.ghtml)_
 
+- **[2026-09-09 11:02 UTC]** Um em cada cinco estudantes já fez apostas online, mostra pesquisa
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/um-em-cada-cinco-estudantes-ja-fez-apostas-online-mostra-pesquisa)_
+
