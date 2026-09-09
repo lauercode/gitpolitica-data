@@ -50,3 +50,6 @@
 - **[2026-09-08 22:32 UTC]** Drogas, celulares e até picanha com açaí são arremessados por drones em presídio no Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/08/drogas-celulares-e-ate-picanha-com-acai-sao-arremessados-por-drones-em-presidio-no-amapa.ghtml)_
 
+- **[2026-09-09 10:36 UTC]** Indígena de recente contato que desapareceu após soltura de presídio é reencontrado em Manaus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/indigena-de-recente-contato-que-desapareceu-apos-soltura-de-presidio-e-reencontrado-em-manaus.shtml)_
+
