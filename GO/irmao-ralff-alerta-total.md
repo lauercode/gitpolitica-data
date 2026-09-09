@@ -50,3 +50,6 @@
 - **[2026-09-09 14:42 UTC]** Lula pede quebra total de sigilo em investigações do caso Master e diz que 'vazamentos seletivos' afetam eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml)_
 
+- **[2026-09-09 16:16 UTC]** São Paulo confirma dois novos casos de sarampo; total chega a 30
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-dois-novos-casos-de-sarampo)_
+
