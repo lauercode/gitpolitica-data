@@ -218,3 +218,6 @@
 - **[2026-09-08 18:59 UTC]** Possível uniforme de força espacial de Trump gera comparação com farda nazista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/possivel-uniforme-de-forca-espacial-de-trump-gera-comparacao-com-farda-nazista.shtml)_
 
+- **[2026-09-09 01:57 UTC]** 'South Park' satiriza Trump e muda nome para 'South America'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/south-park-satiriza-trump-e-muda-nome-para-south-america.shtml)_
+
