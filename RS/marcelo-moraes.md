@@ -1229,3 +1229,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 17:06 UTC]** Fachin tira Moraes do inquérito das fake news e suspende decisões de Mendonça e Dino sobre chefia da PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-decisoes-de-dino-e-mendonca-sobre-chefia-da-pf-e-investigacoes-sobre-ministros.shtml)_
 
+- **[2026-09-09 22:06 UTC]** Como a crise entre Mendonça e a PF se agravou no governo Lula e envolveu Moraes, Dino e Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-crise-entre-mendonca-e-a-pf-se-agravou-no-governo-lula-e-envolveu-moraes-dino-e-fachin/)_
+
