@@ -92,3 +92,6 @@
 - **[2026-09-06 21:00 UTC]** Aespa volta ao Brasil para show após três anos, agora como divas do k-pop
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/k-cultura/2026/09/aespa-volta-ao-brasil-para-show-apos-tres-anos-agora-como-divas-do-k-pop.shtml)_
 
+- **[2026-09-09 11:33 UTC]** Secretário do Tesouro dos EUA desafia quem apostar contra o iene: 'Agora, a banca sou eu'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/secretario-do-tesouro-dos-eua-desafia-quem-apostar-contra-o-iene-agora-a-banca-sou-eu.shtml)_
+
