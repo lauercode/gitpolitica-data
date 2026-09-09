@@ -203,3 +203,6 @@
 - **[2026-09-08 11:45 UTC]** Quais países da América Latina têm educação melhor do que o Brasil, segundo o ranking Pisa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/quais-paises-da-america-latina-tem-educacao-melhor-do-que-o-brasil-segundo-o-ranking-pisa.shtml)_
 
+- **[2026-09-09 10:01 UTC]** Lula e Flávio Bolsonaro empatam no primeiro e no segundo turno, diz pesquisa Meio/Ideia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-e-flavio-bolsonaro-empatam-no-primeiro-e-no-segundo-turno-diz-pesquisa-meioideia.shtml)_
+
