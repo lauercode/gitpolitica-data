@@ -83,3 +83,6 @@
 - **[2026-09-08 23:39 UTC]** Defesa jurídica de Lula sugere convocação do Conselho da República para conter crise
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-juridica-de-lula-sugere-convocacao-do-conselho-da-republica-para-conter-crise/)_
 
+- **[2026-09-09 16:00 UTC]** Agência nuclear da ONU denuncia Irã ao Conselho de Segurança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/agencia-nuclear-da-onu-denuncia-ira-ao-conselho-de-seguranca.shtml)_
+
