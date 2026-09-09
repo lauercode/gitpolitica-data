@@ -188,3 +188,6 @@
 - **[2026-09-09 05:00 UTC]** Podcast explica por que Mendonça mandou afastar diretor da PF e discute impactos da medida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-explica-por-que-mendonca-mandou-afastar-diretor-da-pf-e-discute-impactos-da-medida.shtml)_
 
+- **[2026-09-09 10:02 UTC]** 'Escalada da guerra interna no tribunal politizado': o que disse a imprensa internacional sobre afastamento do diretor da PF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj9xw7mz1d4o?at_medium=RSS&at_campaign=rss)_
+
