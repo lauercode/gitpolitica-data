@@ -38,3 +38,6 @@
 - **[2026-09-09 10:17 UTC]** Dino determina reintegração de Andrei Rodrigues ao comando da PF
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/dino-determina-reintegracao-de-andrei-rodrigues-ao-comando-da-pf)_
 
+- **[2026-09-09 14:29 UTC]** Dino diz que juízes devem evitar vídeos que alimentem comícios: 'Recato deve ser ainda maior em tempos eleitorais'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-diz-que-juizes-devem-evitar-videos-que-alimentem-propagandas-e-comicios-recato-deve-ser-ainda-maior-em-tempos-eleitorais.ghtml)_
+
