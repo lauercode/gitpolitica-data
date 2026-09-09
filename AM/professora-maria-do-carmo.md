@@ -38,3 +38,6 @@
 - **[2026-09-08 23:29 UTC]** Eleições 2026: Professora Maria do Carmo promete ampliar efetivo de bombeiros para combater queimadas no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-professora-maria-do-carmo-promete-ampliar-efetivo-de-bombeiros-para-combater-queimadas-no-am.ghtml)_
 
+- **[2026-09-09 16:24 UTC]** Eleições 2026: Professora Maria do Carmo defende integração de rios e estradas para garantir logística no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/eleicoes-2026-professora-maria-do-carmo-defende-integracao-de-rios-e-estradas-para-garantir-logistica-no-am.ghtml)_
+
