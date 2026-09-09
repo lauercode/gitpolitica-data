@@ -1070,3 +1070,6 @@
 - **[2026-09-09 20:10 UTC]** Flávio Dino anula afastamento da cúpula da PF e gera tensão no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-anula-afastamento-da-cupula-da-pf-e-gera-tensao-no-stf/)_
 
+- **[2026-09-09 19:00 UTC]** Consórcio cancela debates após Lula, Flávio e Tarcísio não confirmarem presença
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/consorcio-cancela-debates-apos-lula-flavio-e-tarcisio-nao-confirmarem-presenca/)_
+
