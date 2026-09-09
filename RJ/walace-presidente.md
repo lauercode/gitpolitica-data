@@ -428,3 +428,6 @@
 - **[2026-09-09 07:54 UTC]** Fachin sob pressão e 'sem ferramentas': por que presidente do STF não consegue debelar crise às vésperas de eleição
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 10:39 UTC]** Presidente do Smithsonian deixará cargo após choques entre instituto e Casa Branca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/presidente-do-smithsonian-deixara-cargo-apos-choques-entre-instituto-e-casa-branca.shtml)_
+
