@@ -110,3 +110,6 @@
 - **[2026-09-09 18:01 UTC]** Decisão de Dino para blindar cúpula da PF tem falhas graves e atropela Mendonça e Fachin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/decisao-dino-blindar-cupula-pf-falhas-graves-atropela-mendonca-fachin/)_
 
+- **[2026-09-09 15:54 UTC]** Dino endurece regras e determina código de rastreio de emendas parlamentares
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-endurece-regras-determina-codigo-rastreio-emendas-parlamentares/)_
+
