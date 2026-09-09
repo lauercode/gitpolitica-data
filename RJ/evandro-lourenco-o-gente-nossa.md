@@ -50,3 +50,6 @@
 - **[2026-09-05 12:56 UTC]** Motociclista morre após acidente envolvendo caminhonete em Nossa Senhora da Glória
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/acidente-envolvendo-caminhonete-em-nossa-senhora-da-gloria.ghtml)_
 
+- **[2026-09-09 07:13 UTC]** Fé e devoção marcam peregrinações de Nossa Senhora de Nazaré
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/fe-e-devocao-marcam-peregrinacoes-de-nossa-senhora-de-nazare)_
+
