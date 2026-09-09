@@ -38,3 +38,6 @@
 - **[2026-09-08 22:50 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Douglas Ruas a 'O Globo', 'Extra', 'Valor' e CBN
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/08/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-douglas-ruas-a-o-globo-extra-valor-e-cbn.ghtml)_
 
+- **[2026-09-09 12:04 UTC]** Veja o que é #FATO e o que é #FAKE nos debates de candidatos ao Senado por Minas Gerais no g1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/09/veja-o-que-e-fato-e-o-que-e-fake-nos-debates-de-candidatos-ao-senado-por-minas-gerais-no-g1.ghtml)_
+
