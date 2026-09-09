@@ -1022,3 +1022,6 @@
 - **[2026-09-08 23:00 UTC]** Campanha de Flávio descarta pedir prisão de Andrei após afastamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-descarta-pedir-prisao-de-andrei-apos-afastamento.shtml)_
 
+- **[2026-09-08 22:00 UTC]** Flávio explora crise no STF com leviandade e cinismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/flavio-explora-crise-no-stf-com-leviandade-e-cinismo.shtml)_
+
