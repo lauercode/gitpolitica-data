@@ -278,3 +278,6 @@
 - **[2026-09-09 20:20 UTC]** Horizon Trade Center marca nova fase da Praia da Avenida com projeto corporativo de alto padrão
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/markup-incorporacoes/noticia/2026/09/09/horizon-trade-center-marca-nova-fase-da-praia-da-avenida-com-projeto-corporativo-de-alto-padrao.ghtml)_
 
+- **[2026-09-09 18:30 UTC]** Guardião da Constituição, STF transforma sua crise em grande projeto de poder
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/09/guardiao-da-constituicao-stf-transforma-sua-crise-em-grande-projeto-de-poder.shtml)_
+
