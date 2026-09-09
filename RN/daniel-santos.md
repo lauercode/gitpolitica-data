@@ -11,3 +11,6 @@
 - **[2026-08-31 23:31 UTC]** Daniel Santos propõe fortalecer o atendimento materno-infantil no interior do Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/31/daniel-santos-propoe-fortalecer-o-atendimento-materno-infantil-no-interior-do-para.ghtml)_
 
+- **[2026-09-09 00:16 UTC]** Daniel Santos propõe usinas de tratamento de resíduos e parcerias municipais para saneamento no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/08/daniel-santos-propoe-usinas-de-tratamento-de-residuos-e-parcerias-municipais-para-saneamento-no-para.ghtml)_
+
