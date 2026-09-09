@@ -62,3 +62,6 @@
 - **[2026-09-09 15:18 UTC]** 'Sonhei com esse momento todos os dias', afirma o novo Papai Noel do Natal Luz de Gramado
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/novo-papai-noel-do-natal-luz-de-gramado.ghtml)_
 
+- **[2026-09-09 18:38 UTC]** FAVOO fortalece a formação cidadã por meio do Momento Cívico
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/cooperativa-educacional-de-vilhena-favoo-divulga-novidades-e-programacao-de-2026/noticia/2026/09/09/favoo-fortalece-a-formacao-cidada-por-meio-do-momento-civico.ghtml)_
+
