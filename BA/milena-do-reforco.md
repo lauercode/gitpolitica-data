@@ -14,3 +14,6 @@
 - **[2026-09-08 15:40 UTC]** Petecão defende reforço da segurança na fronteira e explica crescimento do patrimônio durante mandatos
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/petecao-defende-reforco-da-seguranca-na-fronteira-e-explica-crescimento-do-patrimonio-durante-mandatos.ghtml)_
 
+- **[2026-09-09 09:13 UTC]** Oito estados terão reforço na segurança no 1º turno das eleições
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/8-estados-terao-reforco-na-seguranca-no-primeiro-turno-das-eleicoes)_
+
