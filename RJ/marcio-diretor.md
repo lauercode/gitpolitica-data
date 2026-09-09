@@ -167,3 +167,6 @@
 - **[2026-09-08 20:17 UTC]** AGU pede suspensão imediata do afastamento de diretor-geral da PF
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/agu-pede-suspensao-imediata-do-afastamento-de-diretor-geral-da-pf)_
 
+- **[2026-09-08 20:32 UTC]** AGU pede que Fachin suspenda decisão que afastou diretor da PF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/agu-pede-que-fachin-suspenda-decisao-que-afastou-diretor-da-pf)_
+
