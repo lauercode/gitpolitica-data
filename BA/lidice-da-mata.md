@@ -116,3 +116,6 @@
 - **[2026-09-08 23:18 UTC]** Acidente entre carro e moto mata policial militar no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/acidente-entre-carro-e-moto-mata-policial-militar-no-tocantins.ghtml)_
 
+- **[2026-09-09 16:59 UTC]** Corpo encontrado em mata de João Pessoa é de jovem desaparecida, confirmam Bombeiros
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/corpo-encontrado-em-mata-de-joao-pessoa-e-de-jovem-desaparecida-diz-corpo-de-bombeiros.ghtml)_
+
