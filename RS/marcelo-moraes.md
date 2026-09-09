@@ -1226,3 +1226,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 18:50 UTC]** Fachin marca para dia 15 julgamento sobre diálogos entre Moraes e Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-marca-para-dia-15-julgamento-sobre-dialogos-entre-moraes-e-vorcaro.shtml)_
 
+- **[2026-09-09 17:06 UTC]** Fachin tira Moraes do inquérito das fake news e suspende decisões de Mendonça e Dino sobre chefia da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-decisoes-de-dino-e-mendonca-sobre-chefia-da-pf-e-investigacoes-sobre-ministros.shtml)_
+
