@@ -1235,3 +1235,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 22:14 UTC]** Fachin convoca sessão no STF para analisar pedido de investigação contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-convoca-para-dia-15-reuniao-extraordinaria-presencial-no-stf/)_
 
+- **[2026-09-09 22:15 UTC]** Fachin afasta Moraes da relatoria do inquérito das fake news
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-tira-moraes-da-relatoria-do-inquerito-das-fake-news/)_
+
