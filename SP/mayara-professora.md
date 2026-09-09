@@ -92,3 +92,6 @@
 - **[2026-09-09 14:42 UTC]** Da aprovação à disputa na Justiça: veja cronologia do caso da professora do RS que passou em concurso mas foi impedida de assumir
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/da-aprovacao-a-disputa-na-justica-veja-cronologia-do-caso-da-professora-do-rs-que-passou-em-concurso-mas-foi-impedida-de-assumir.ghtml)_
 
+- **[2026-09-09 16:24 UTC]** Eleições 2026: Professora Maria do Carmo defende integração de rios e estradas para garantir logística no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/eleicoes-2026-professora-maria-do-carmo-defende-integracao-de-rios-e-estradas-para-garantir-logistica-no-am.ghtml)_
+
