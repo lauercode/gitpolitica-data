@@ -1067,3 +1067,6 @@
 - **[2026-09-09 17:05 UTC]** Quem é o empresário que doou R$ 500 mil para Lula e R$ 500 mil para Flávio Bolsonaro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/09/erasmo-battistella-doacoes-lula-flavio.ghtml)_
 
+- **[2026-09-09 20:10 UTC]** Flávio Dino anula afastamento da cúpula da PF e gera tensão no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-anula-afastamento-da-cupula-da-pf-e-gera-tensao-no-stf/)_
+
