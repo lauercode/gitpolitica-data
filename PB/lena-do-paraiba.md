@@ -8,3 +8,6 @@
 - **[2026-09-04 13:22 UTC]** TRE-PB forma maioria para liberar candidatura de Cícero Lucena ao Governo da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/tre-pb-forma-maioria-para-liberar-candidatura-de-cicero-lucena-ao-governo-da-paraiba.ghtml)_
 
+- **[2026-09-09 12:32 UTC]** TRE-PB libera candidatura de Cícero Lucena ao Governo da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/09/tre-pb-libera-candidatura-de-cicero-lucena-ao-governo-da-paraiba.ghtml)_
+
