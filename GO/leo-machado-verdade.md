@@ -38,3 +38,6 @@
 - **[2026-09-09 08:45 UTC]** Comissão da Verdade Indígena será tema de audiência na Câmara
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/comissao-da-verdade-indigena-sera-tema-de-audiencia-na-camara)_
 
+- **[2026-09-09 22:09 UTC]** Após guerra de liminares do STF, ministro da Justiça diz que PF busca a verdade “doa a quem doer”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-guerra-de-liminares-do-stf-ministro-da-justica-diz-que-pf-busca-a-verdade-doa-a-quem-doer/)_
+
