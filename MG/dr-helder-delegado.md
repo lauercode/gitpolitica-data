@@ -80,3 +80,6 @@
 - **[2026-09-08 18:20 UTC]** Além de chefia da PF, Mendonça afasta Andrei do cargo de delegado da corporação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/alem-de-chefia-da-pf-mendonca-afasta-andrei-do-cargo-de-delegado-da-corporacao.shtml)_
 
+- **[2026-09-09 02:28 UTC]** Delegado Alessandro fala sobre desafios do Senado, apoio a Caiado e troca de partidos durante mandato
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/delegado-alessandro-entrevista-fm-sergipe.ghtml)_
+
