@@ -209,3 +209,6 @@
 - **[2026-09-08 15:55 UTC]** Quem tem coragem de defender as mulheres (além de nós mesmas)?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joanna-moura/2026/09/quem-tem-coragem-de-defender-as-mulheres-alem-de-nos-mesmas.shtml)_
 
+- **[2026-09-09 00:40 UTC]** Gal Leite, da UP, quer integrar secretarias para qualificar mulheres e combater violência no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/08/gal-da-up-quer-integrar-secretarias-para-qualificar-mulheres-e-combater-violencia-no-para.ghtml)_
+
