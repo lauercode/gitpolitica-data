@@ -20,3 +20,6 @@
 - **[2026-09-05 13:22 UTC]** Maceió tem o metro quadrado mais caro do Nordeste; veja ranking
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/05/maceio-tem-metro-quadrado-mais-caro-nordeste-fipezap.ghtml)_
 
+- **[2026-09-09 22:49 UTC]** Rio Negro acelera vazante e recua 1,25 metro nos primeiros nove dias de setembro em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/rio-negro-acelera-vazante-e-recua-125-metro-nos-primeiros-nove-dias-de-setembro-em-manaus.ghtml)_
+
