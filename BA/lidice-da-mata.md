@@ -119,3 +119,6 @@
 - **[2026-09-09 16:59 UTC]** Corpo encontrado em mata de João Pessoa é de jovem desaparecida, confirmam Bombeiros
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/corpo-encontrado-em-mata-de-joao-pessoa-e-de-jovem-desaparecida-diz-corpo-de-bombeiros.ghtml)_
 
+- **[2026-09-09 15:45 UTC]** Corpo é encontrado em região de mata, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/corpo-e-encontrado-em-regiao-de-mata-em-joao-pessoa.ghtml)_
+
