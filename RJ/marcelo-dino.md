@@ -56,3 +56,6 @@
 - **[2026-09-09 12:37 UTC]** Reintegração de diretor da PF: veja os principais argumentos de Dino para reverter decisão de Mendonça sobre Andrei Rodrigues
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/reintegracao-de-diretor-da-pf-veja-os-principais-argumentos-de-dino-para-reverter-decisao-de-mendonca-sobre-andrei-rodrigues.ghtml)_
 
+- **[2026-09-09 11:18 UTC]** Fachin cancela sessão do STF após Dino reintegrar Andrei ao comando da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/fachin-cancela-sessao-do-stf-apos-dino-reintegrar-andrei-ao-comando-da-pf.shtml)_
+
