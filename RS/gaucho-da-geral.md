@@ -116,3 +116,6 @@
 - **[2026-09-09 13:08 UTC]** Dino reintegra diretor-geral da PF afastado por Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-reintegra-diretor-geral-pf-afastado-mendonca/)_
 
+- **[2026-09-09 18:18 UTC]** Augusto Cury defende lista tríplice para escolha do diretor-geral da Polícia Federal
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/09/augusto-cury-defende-lista-triplice-para-escolha-do-diretor-geral-da-policia-federal.ghtml)_
+
