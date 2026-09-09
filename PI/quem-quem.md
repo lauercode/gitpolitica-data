@@ -356,3 +356,6 @@
 - **[2026-09-08 20:40 UTC]** 'Quem Ama Cuida': Ademir flagra Dora na cama com André; veja fotos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/quem-ama-cuida-ademir-flagra-dora-na-cama-com-andre-veja-fotos.shtml)_
 
+- **[2026-09-09 03:00 UTC]** 2ª doutora mais jovem do Brasil e sonho de ser professora: quem é a estudante impedida de assumir vaga em concurso público
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quem-e-professora-impedida-assumir-concurso-doenca-ifrs-rs.ghtml)_
+
