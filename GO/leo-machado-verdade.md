@@ -35,3 +35,6 @@
 - **[2026-09-08 14:16 UTC]** "Verdade prevalecerá", diz número 2 da PF após afastamento de Andrei
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/verdade-prevalecera-diz-numero-2-da-pf-apos-afastamento-de-andrei)_
 
+- **[2026-09-09 08:45 UTC]** Comissão da Verdade Indígena será tema de audiência na Câmara
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/comissao-da-verdade-indigena-sera-tema-de-audiencia-na-camara)_
+
