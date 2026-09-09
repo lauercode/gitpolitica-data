@@ -59,3 +59,6 @@
 - **[2026-09-09 15:33 UTC]** PF recebe pedido de inclusão de irmãos desaparecidos em Bacabal na Difusão Amarela da Interpol
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/pf-recebe-pedido-de-inclusao-de-irmaos-desaparecidos-em-bacabal-na-difusao-amarela-da-interpol.ghtml)_
 
+- **[2026-09-09 22:35 UTC]** Delegado diz que irmãos desaparecidos do MA não estão entre os localizados em operação nos EUA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/delegado-diz-que-irmaos-desaparecidos-do-ma-nao-estao-entre-os-localizados-em-operacao-nos-eua.ghtml)_
+
