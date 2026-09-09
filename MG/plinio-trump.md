@@ -224,3 +224,6 @@
 - **[2026-09-08 23:12 UTC]** Trump proíbe importação de laticínios, bebidas alcoólicas e motocicletas do Canadá
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-proibe-importacao-de-laticinios-bebidas-alcoolicas-e-motocicletas-do-canada.shtml)_
 
+- **[2026-09-09 09:27 UTC]** Trump celebra vitória da extrema direita na Alemanha, e ligação com Merz é adiada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-celebra-vitoria-da-extrema-direita-na-alemanha-e-ligacao-com-merz-e-adiada.shtml)_
+
