@@ -53,3 +53,6 @@
 - **[2026-09-09 11:47 UTC]** Relembre o desaparecimento de irmãos em Bacabal até a oferta da Interpol para ajudar nas buscas
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/relembre-o-desaparecimento-de-irmaos-em-bacabal-ate-a-oferta-da-interpol-para-ajudar-nas-buscas.ghtml)_
 
+- **[2026-09-09 14:24 UTC]** PF pedirá inclusão de irmãos desaparecidos no MA em lista da Interpol
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/pf-pedira-inclusao-de-irmaos-desaparecidos-no-ma-em-lista-da-interpol)_
+
