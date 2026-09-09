@@ -200,3 +200,6 @@
 - **[2026-09-09 12:28 UTC]** Professores mantêm greve em Sergipe e ocupam sede da Secretaria da Educação pelo segundo dia
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/professores-mantem-greve-em-sergipe-e-ocupam-sede-da-secretaria-da-educacao-pelo-segundo-dia.ghtml)_
 
+- **[2026-09-09 17:28 UTC]** Resultado Mega-Sena 3055: apostas de Sergipe acertam quadra; veja valores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/resultado-mega-sena-3055-apostas-de-sergipe-acertam-quadra-veja-valores.ghtml)_
+
