@@ -35,3 +35,6 @@
 - **[2026-09-08 10:50 UTC]** Trajetória de tiro embasa prisão de PM após morte da mulher em Embu das Artes, na Grande SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/trajetoria-de-tiro-embasa-prisao-de-pm-apos-morte-da-mulher-em-embu-das-artes-na-grande-sp.shtml)_
 
+- **[2026-09-09 09:25 UTC]** Médico escala prédio, invade apartamento de ex e é socorrido com ferimentos de tiro em Bauru
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/medico-escala-predio-invade-apartamento-de-ex-e-e-socorrido-com-ferimentos-de-tiro-em-bauru.shtml)_
+
