@@ -44,3 +44,6 @@
 - **[2026-09-09 17:50 UTC]** Diretoria do Iapen diz que confusão que resultou em 14 feridos e um morto foi fato isolado no AP
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/09/diretoria-do-iapen-diz-que-confusao-que-resultou-em-14-feridos-e-um-morto-foi-fato-isolado-no-ap.ghtml)_
 
+- **[2026-09-09 22:38 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de William Siri a 'O Globo', 'Extra', 'Valor' e CBN
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/09/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-william-siri-a-o-globo-extra-valor-e-cbn.ghtml)_
+
