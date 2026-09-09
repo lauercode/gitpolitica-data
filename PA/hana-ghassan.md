@@ -23,3 +23,6 @@
 - **[2026-09-04 23:07 UTC]** Hana Ghassan promete política de incentivos fiscais para atrair indústrias ao Pará, se for eleita
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/04/hana-ghassan-promete-politica-de-incentivos-fiscais-para-atrair-industrias-ao-para-se-for-eleita.ghtml)_
 
+- **[2026-09-09 00:09 UTC]** Hana Ghassan propõe ampliar uso de tecnologia e combater a violência contra a mulher no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/08/hana-ghassan-propoe-ampliar-uso-de-tecnologia-e-combater-a-violencia-contra-a-mulher-no-para.ghtml)_
+
