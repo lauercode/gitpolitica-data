@@ -44,3 +44,6 @@
 - **[2026-09-08 19:12 UTC]** 'Não nos importamos com cabelo arrumado', diz cantora que registrou chuva em congresso evangélico no TO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/nao-nos-importamos-com-cabelo-arrumado-diz-cantora-que-registrou-congresso-evangelico-atingido-por-chuva-no-to.ghtml)_
 
+- **[2026-09-08 20:00 UTC]** Malu Galli estreia como cantora em tributo a Luiz Melodia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/malu-galli-estreia-como-cantora-em-tributo-a-luiz-melodia.shtml)_
+
