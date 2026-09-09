@@ -56,3 +56,6 @@
 - **[2026-09-08 07:30 UTC]** VÍDEO: cachorro é jogado no lixo preso dentro de caixa de papelão, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/08/video-cachorro-e-jogado-no-lixo-preso-dentro-de-caixa-de-papelao-no-parana.ghtml)_
 
+- **[2026-09-08 22:42 UTC]** Cachorro é resgatado de bueiro após passar três dias preso em Manaus; VÍDEO
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/08/cachorro-e-resgatado-de-bueiro-apos-passar-tres-dias-preso-em-manaus-video.ghtml)_
+
