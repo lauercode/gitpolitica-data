@@ -131,3 +131,6 @@
 - **[2026-09-09 18:26 UTC]** “O Brasil está sem presidente, virou várzea”, diz Flávio após Dino reintegrar chefe da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-brasil-esta-sem-presidente-virou-varzea-diz-flavio-pos-dino-reintegrar-chefe-da-pf/)_
 
+- **[2026-09-09 19:01 UTC]** Fachin suspende decisões de Mendonça e Dino no caso Andrei Rodrigues
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-suspende-decisoes-de-mendonca-e-dino-no-caso-andrei-rodrigues)_
+
