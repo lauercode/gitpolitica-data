@@ -113,3 +113,6 @@
 - **[2026-09-09 15:54 UTC]** Dino endurece regras e determina código de rastreio de emendas parlamentares
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-endurece-regras-determina-codigo-rastreio-emendas-parlamentares/)_
 
+- **[2026-09-09 18:28 UTC]** Dino reintegra Andrei à direção da PF; Lula pede quebra de sigilo do Master e Flávio acusa ministro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
+
