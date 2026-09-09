@@ -224,3 +224,6 @@
 - **[2026-09-09 18:00 UTC]** Caiado e Renan Santos organizam 'debate paralelo' com adversários na próxima segunda-feira
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/caiado-renan-debate-paralelo.ghtml)_
 
+- **[2026-09-09 15:47 UTC]** Pablo Marçal, Augusto Cury e Renan Santos aguardam julgamento de candidatura no TSE
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marcal-cury-renan-santos-aguardam-julgamento-de-candidatura-tse/)_
+
