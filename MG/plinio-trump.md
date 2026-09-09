@@ -227,3 +227,6 @@
 - **[2026-09-09 09:27 UTC]** Trump celebra vitória da extrema direita na Alemanha, e ligação com Merz é adiada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-celebra-vitoria-da-extrema-direita-na-alemanha-e-ligacao-com-merz-e-adiada.shtml)_
 
+- **[2026-09-09 15:15 UTC]** Milei surfa em aceno de Trump e agora quer Malvinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/milei-surfa-em-aceno-de-trump-e-agora-quer-malvinas.shtml)_
+
