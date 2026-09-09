@@ -107,3 +107,6 @@
 - **[2026-09-09 03:00 UTC]** Quatro homens são denunciados por latrocínio em caso de empresário morto após carro roubado capotar e pegar fogo no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quatro-homens-denunciados-empresario-morto-carro-roubado-capotar-pegar-fogo-rs.ghtml)_
 
+- **[2026-09-09 19:42 UTC]** Áreas atingidas por fogo em Palmas aumentam 20% comparado com 2025
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/areas-atingidas-por-fogo-em-palmas-aumentam-20-comparado-com-2025)_
+
