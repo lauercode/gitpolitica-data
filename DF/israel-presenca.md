@@ -53,3 +53,6 @@
 - **[2026-09-07 22:51 UTC]** Desfile cívico, inauguração de comitê e presença em ato: veja como foi o dia dos candidatos ao governo da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/07/veja-como-foi-o-dia-dos-candidatos-ao-governo-da-paraiba-nesta-segunda-feira-7.ghtml)_
 
+- **[2026-09-09 19:00 UTC]** Consórcio cancela debates após Lula, Flávio e Tarcísio não confirmarem presença
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/consorcio-cancela-debates-apos-lula-flavio-e-tarcisio-nao-confirmarem-presenca/)_
+
