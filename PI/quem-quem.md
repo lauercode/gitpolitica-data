@@ -371,3 +371,6 @@
 - **[2026-09-09 13:28 UTC]** Lula pede quebra completa de sigilo do caso Master "doa a quem doer"
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lula-pede-quebra-completa-de-sigilo-do-caso-master-doa-quem-doer)_
 
+- **[2026-09-09 12:59 UTC]** Ator de 'Quem Ama Cuida' ganha 400 mil seguidores após ataques por look no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/ator-de-quem-ama-cuida-ganha-400-mil-seguidores-apos-ataques-por-look-no-rock-in-rio.shtml)_
+
