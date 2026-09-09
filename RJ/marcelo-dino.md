@@ -35,3 +35,6 @@
 - **[2026-09-09 09:25 UTC]** Dino determina reintegração de Andrei Rodrigues no comando da PF
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-determina-reintegracao-de-andrei-rodrigues-no-comando-da-pf)_
 
+- **[2026-09-09 10:17 UTC]** Dino determina reintegração de Andrei Rodrigues ao comando da PF
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/dino-determina-reintegracao-de-andrei-rodrigues-ao-comando-da-pf)_
+
