@@ -359,3 +359,6 @@
 - **[2026-09-09 03:00 UTC]** 2ª doutora mais jovem do Brasil e sonho de ser professora: quem é a estudante impedida de assumir vaga em concurso público
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quem-e-professora-impedida-assumir-concurso-doenca-ifrs-rs.ghtml)_
 
+- **[2026-09-09 12:00 UTC]** Com 'trairagem', Adriana entrega a coroa de vítima a Dora em 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/thiagostivaletti/2026/09/com-trairagem-adriana-entrega-a-coroa-de-vitima-a-dora-em-quem-ama-cuida.shtml)_
+
