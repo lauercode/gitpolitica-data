@@ -278,3 +278,6 @@
 - **[2026-09-09 20:09 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quarta-feira, 9 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quarta-feira-9-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-09 18:38 UTC]** VÍDEOS: Jornal do Amazonas - 1ª edição - 9 de setembro de 2026
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-1-edicao-9-de-setembro-de-2026.ghtml)_
+
