@@ -1076,3 +1076,6 @@
 - **[2026-09-09 18:26 UTC]** “O Brasil está sem presidente, virou várzea”, diz Flávio após Dino reintegrar chefe da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-brasil-esta-sem-presidente-virou-varzea-diz-flavio-pos-dino-reintegrar-chefe-da-pf/)_
 
+- **[2026-09-09 20:54 UTC]** 'Dark horse' e emendas: o 'arsenal' nas mãos de Flávio Dino no STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0e39y3p293o?at_medium=RSS&at_campaign=rss)_
+
