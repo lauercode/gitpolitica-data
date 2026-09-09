@@ -101,3 +101,6 @@
 - **[2026-09-09 21:55 UTC]** Trabalhadores resgatados em fazenda dormiam em chão de terra e sem proteção contra animais no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/trabalhadores-resgatados-de-situacao-analoga-a-escravidao-dormiam-em-chao-de-terra-e-sem-protecao-contra-animais-no-para.ghtml)_
 
+- **[2026-09-09 21:33 UTC]** MPF investiga empresa Voare por queda de helicóptero que matou dois indígenas na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/09/mpf-investiga-empresa-voare-por-queda-de-helicoptero-que-matou-dois-indigenas-na-terra-yanomami.ghtml)_
+
