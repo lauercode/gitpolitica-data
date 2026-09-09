@@ -221,3 +221,6 @@
 - **[2026-09-09 01:57 UTC]** 'South Park' satiriza Trump e muda nome para 'South America'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/south-park-satiriza-trump-e-muda-nome-para-south-america.shtml)_
 
+- **[2026-09-08 23:12 UTC]** Trump proíbe importação de laticínios, bebidas alcoólicas e motocicletas do Canadá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-proibe-importacao-de-laticinios-bebidas-alcoolicas-e-motocicletas-do-canada.shtml)_
+
