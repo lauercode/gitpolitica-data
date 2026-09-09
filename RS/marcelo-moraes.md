@@ -1172,3 +1172,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 11:44 UTC]** Disputa no STF puxa governo Lula para crise, e ala da campanha defende tomar distância de Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/disputa-no-stf-puxa-governo-lula-para-crise.ghtml)_
 
+- **[2026-09-09 14:15 UTC]** OAB-DF pedirá impeachment de Moraes e Toffoli
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-df-pedira-impeachment-de-moraes-e-toffoli/)_
+
