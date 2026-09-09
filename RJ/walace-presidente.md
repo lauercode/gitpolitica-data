@@ -413,3 +413,6 @@
 - **[2026-09-08 17:57 UTC]** Renan Santos diz que próximo presidente da República 'deverá ir para o enfrentamento contra STF'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/08/renan-stf-enfrentamento.ghtml)_
 
+- **[2026-09-08 21:17 UTC]** Veja como foi a terça-feira (8) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-terca-feira-8-dos-candidatos-presidente)_
+
