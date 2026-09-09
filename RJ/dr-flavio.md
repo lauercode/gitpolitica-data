@@ -1040,3 +1040,6 @@
 - **[2026-09-09 15:02 UTC]** Flávio Dino determina a volta de Andrei Rodrigues à direção da PF; acompanhe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 12:31 UTC]** Os argumentos de Flávio Dino para reconduzir Andrei Rodrigues à PF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8e31506l5yo?at_medium=RSS&at_campaign=rss)_
+
