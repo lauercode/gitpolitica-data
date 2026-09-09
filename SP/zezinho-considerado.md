@@ -20,3 +20,6 @@
 - **[2017-04-05 21:09 UTC]** Aeroporto Internacional Afonso Pena é considerado o melhor do Brasil pelos usuários
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/pr/parana/noticia/aeroporto-internacional-afonso-pena-e-considerado-o-melhor-do-brasil-pelos-usuarios.ghtml)_
 
+- **[2026-09-09 12:05 UTC]** Operação prende foragido considerado de alta periculosidade e suspeitos de tráfico de drogas em Sapé, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/operacao-prende-foragido-de-alta-periculosidade-e-suspeitos-de-trafico-de-drogas-em-sape-na-pb.ghtml)_
+
