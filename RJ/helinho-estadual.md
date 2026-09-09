@@ -134,3 +134,6 @@
 - **[2026-09-09 13:54 UTC]** Renan Filho propõe criar 5 mil casas e pagar até R$ 1 mil para alunos da rede estadual
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/09/renan-filho-propoe-criacao-de-5-mil-casas-e-pagamento-de-ate-r-1-mil-para-alunos-da-rede-estadual.ghtml)_
 
+- **[2026-09-09 12:58 UTC]** Assessor de deputada estadual é alvo de mandado em operação da PF contra crimes eleitorais em RR
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/09/pf-cumpre-mandado-de-busca-e-apreensao-durante-operacao-contra-crimes-eleitorais-em-roraima.ghtml)_
+
