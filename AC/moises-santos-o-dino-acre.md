@@ -410,3 +410,6 @@
 - **[2026-09-08 23:21 UTC]** VÍDEO: Caminhão com 80 porcos tomba após falha mecânica em rodovia do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/video-caminhao-com-porcos-tomba-apos-falha-mecanica-em-rodovia-do-acre.ghtml)_
 
+- **[2026-09-09 10:00 UTC]** Mulher é condenada a mais de 25 anos de prisão por mandar matar adolescente no Acre em 2019
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/mulher-e-condenada-a-mais-de-25-anos-de-prisao-por-mandar-matar-adolescente-no-acre-em-2019.ghtml)_
+
