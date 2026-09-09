@@ -44,3 +44,6 @@
 - **[2026-09-07 15:42 UTC]** VÍDEO: Incêndio destrói loja de açaí em Porto Velho
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/07/video-incendio-destroi-loja-de-acai-em-porto-velho.ghtml)_
 
+- **[2026-09-09 17:15 UTC]** Apple sobe preços de iPhones após lançamentos e retira três modelos da loja oficial; veja valores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/apple-sobe-precos-de-iphones-apos-lancamentos-e-retira-tres-modelos-da-loja-oficial-veja-valores.shtml)_
+
