@@ -77,3 +77,6 @@
 - **[2026-09-07 16:58 UTC]** Flávio Bolsonaro chama 8 de janeiro de farsa, diz que STF não é Alexandre de Moraes e que 'povo quer mudança' em ato na Paulista
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/flavio-bolsonaro-avenida-paulista.ghtml)_
 
+- **[2026-09-08 21:33 UTC]** Mendonça manda soltar suspeitos de desvios no INSS em meio a discussões sobre mudança de relator no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/mendonca-manda-soltar-suspeitos-de-desvios-no-inss-em-meio-a-discussoes-sobre-mudanca-de-relator-no-stf.shtml)_
+
