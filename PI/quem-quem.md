@@ -386,3 +386,6 @@
 - **[2026-09-09 22:09 UTC]** Após guerra de liminares do STF, ministro da Justiça diz que PF busca a verdade “doa a quem doer”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-guerra-de-liminares-do-stf-ministro-da-justica-diz-que-pf-busca-a-verdade-doa-a-quem-doer/)_
 
+- **[2026-09-09 21:49 UTC]** Quem era o vereador que morreu esmagado por carga de 1 tonelada de batatas em SC: 'Adeus, meu melhor amigo'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/quem-era-vereador-esmagado-batatas-nivaldo-magagnin.ghtml)_
+
