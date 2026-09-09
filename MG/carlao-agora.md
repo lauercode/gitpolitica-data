@@ -101,3 +101,6 @@
 - **[2026-09-09 10:00 UTC]** O gargalo da infraestrutura agora é gente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/09/o-gargalo-da-infraestrutura-agora-e-gente.shtml)_
 
+- **[2026-09-09 15:15 UTC]** Milei surfa em aceno de Trump e agora quer Malvinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/milei-surfa-em-aceno-de-trump-e-agora-quer-malvinas.shtml)_
+
