@@ -110,3 +110,6 @@
 - **[2026-09-09 15:47 UTC]** 41 trabalhadores são resgatados de condições análogas à escravidão em obras e canil de Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/41-trabalhadores-sao-resgatados-de-condicoes-analogas-a-escravidao-em-obras-e-canil-de-manaus.ghtml)_
 
+- **[2026-09-09 22:32 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras da SC-408 e participa de sabatina em Jaraguá do Sul
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-em-sc-jorginho-mello-visita-obras-da-sc-408-e-participa-de-sabatina-em-jaragua-do-sul.ghtml)_
+
