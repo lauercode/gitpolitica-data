@@ -89,3 +89,6 @@
 - **[2026-09-09 14:28 UTC]** Dino exige código único para emendas e dá 30 dias para estados informarem sobre transparência
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-determina-codigo-unico-para-rastrear-emendas-e-da-30-dias-para-estados-informarem-sobre-medidas-corretivas.ghtml)_
 
+- **[2026-09-09 14:33 UTC]** Flávio Bolsonaro critica decisão de Dino no STF e diz que Lula quer vencer no tapetão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-critica-decisao-de-dino-no-stf-e-diz-que-lula-quer-vencer-no-tapetao.shtml)_
+
