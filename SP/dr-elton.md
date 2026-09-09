@@ -23,3 +23,6 @@
 - **[2026-09-08 14:51 UTC]** Jão encontra Elton John no Rock in Rio e ganha resposta do britânico: 'Maravilhoso conhecê-lo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/jao-encontra-elton-john-no-rock-in-rio-e-ganha-resposta-do-britanico-maravilhoso-conhece-lo.shtml)_
 
+- **[2026-09-09 15:46 UTC]** Por que Elton John utilizou cadeira de rodas ao sair do Rio de Janeiro?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/por-que-elton-john-utilizou-cadeira-de-rodas-ao-sair-do-rio-de-janeiro.shtml)_
+
