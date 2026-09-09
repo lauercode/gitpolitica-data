@@ -32,3 +32,6 @@
 - **[2026-09-06 17:36 UTC]** Idosos podem ter menor oxigenação cerebral e muscular em exercícios
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/idosos-podem-ter-menor-oxigenacao-cerebral-e-muscular-em-exercicios.shtml)_
 
+- **[2026-09-08 19:50 UTC]** Dólar cai a R$ 5,08 e atinge menor valor em um mês
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-cai-r-508-e-atinge-menor-valor-em-um-mes)_
+
