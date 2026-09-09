@@ -14,3 +14,6 @@
 - **[2026-09-05 10:02 UTC]** Chacina de Pioz: tio de assassino de família da PB morta na Espanha diz que perdoa sobrinho e cobra justiça por suposto auxílio
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/chacina-de-pioz-tio-de-assassino-de-familia-da-pb-morta-na-espanha-diz-que-perdoa-sobrinho-e-cobra-justica-por-suposto-auxilio.ghtml)_
 
+- **[2026-09-09 16:18 UTC]** CazéTV contrata sobrinho de Fernando Meligeni para comandar programa sobre tênis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/cazetv-contrata-sobrinho-de-fernando-meligeni-para-comandar-programa-sobre-tenis.shtml)_
+
