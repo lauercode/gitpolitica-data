@@ -383,3 +383,6 @@
 - **[2026-09-09 16:46 UTC]** Ameaça a Cássio e um veterano no Coritiba; quem são os goleiros convocados por Ancelotti
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/ameaca-a-cassio-e-um-veterano-no-coritiba-quem-sao-os-goleiros-convocados-por-ancelotti.shtml)_
 
+- **[2026-09-09 22:09 UTC]** Após guerra de liminares do STF, ministro da Justiça diz que PF busca a verdade “doa a quem doer”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-guerra-de-liminares-do-stf-ministro-da-justica-diz-que-pf-busca-a-verdade-doa-a-quem-doer/)_
+
