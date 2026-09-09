@@ -38,3 +38,6 @@
 - **[2026-09-09 12:21 UTC]** Indígenas denunciam contaminação na água que abastece aldeia no TO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/indigenas-denunciam-contaminacao-na-agua-que-abastece-aldeia-no-to.ghtml)_
 
+- **[2026-09-09 12:35 UTC]** Comissão aprova inclusão de povos indígenas e comunidades tradicionais na agricultura familiar
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303188-comissao-aprova-inclusao-de-povos-indigenas-e-comunidades-tradicionais-na-agricultura-familiar)_
+
