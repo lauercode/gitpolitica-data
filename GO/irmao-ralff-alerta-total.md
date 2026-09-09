@@ -44,3 +44,6 @@
 - **[2026-09-08 17:03 UTC]** Onze diretores da PF colocam cargos à disposição e manifestam 'total apoio' a Andrei Rodrigues após afastamento
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/nota-diretores-pf-andrei-rodrigues.ghtml)_
 
+- **[2026-09-09 14:42 UTC]** Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml)_
+
