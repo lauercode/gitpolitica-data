@@ -71,3 +71,6 @@
 - **[2026-09-09 14:17 UTC]** Fachin cancela sessão do plenário do STF em meio à crise entre Moraes, Mendonça e Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cancela-sessao-plenario-stf-meio-a-crise/)_
 
+- **[2026-09-09 13:18 UTC]** Andrei usou caso Dark Horse para direcionar pedido de reintegração a Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-usou-caso-dark-horse-para-direcionar-pedido-de-reintegracao-a-dino/)_
+
