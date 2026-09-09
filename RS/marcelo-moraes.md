@@ -1157,3 +1157,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 01:51 UTC]** Associação de imprensa que acionou Moraes contra dosimetria apoia reeleição de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/associacao-de-imprensa-que-acionou-moraes-contra-dosimetria-apoia-reeleicao-de-lula/)_
 
+- **[2026-09-09 01:46 UTC]** OAB-DF abre processo disciplinar contra escritório da esposa de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-df-abre-processo-disciplinar-contra-escritorio-da-esposa-de-moraes/)_
+
