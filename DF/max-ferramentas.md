@@ -20,3 +20,6 @@
 - **[2026-08-26 09:00 UTC]** É pit stop de Fórmula 1? Borracheiro surpreende pela rapidez ao encaixar pneus sem ferramentas; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/e-pit-stop-de-formula-1-borracheiro-surpreende-pela-rapidez-ao-encaixar-pneus-sem-ferramentas-video.ghtml)_
 
+- **[2026-09-09 07:54 UTC]** Fachin sob pressão e 'sem ferramentas': por que presidente do STF não consegue debelar crise às vésperas de eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
+
