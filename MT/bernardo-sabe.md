@@ -65,3 +65,6 @@
 - **[2026-09-07 19:32 UTC]** Pessoas continuam entrando em bueiros de Nova York e ninguém sabe por quê
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/pessoas-continuam-entrando-em-bueiros-de-nova-york-e-ninguem-sabe-por-que.shtml)_
 
+- **[2026-09-09 03:00 UTC]** Médica morta no Paraná e marido preso por feminicídio: o que se sabe e o que falta esclarecer sobre o caso
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/medica-morta-no-parana-e-marido-preso-por-feminicidio-o-que-se-sabe-e-o-que-falta-esclarecer-sobre-o-caso.ghtml)_
+
