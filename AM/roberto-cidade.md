@@ -170,3 +170,6 @@
 - **[2026-09-08 21:34 UTC]** Cidade do Acre recebe mais de R$ 1,2 milhão para ações de proteção durante seca
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/cidade-do-ac-recebe-mais-de-r-12-milhao-do-governo-federal-para-acoes-de-protecao-durante-seca.ghtml)_
 
+- **[2026-09-09 04:00 UTC]** Escolas ribeirinhas de cidade do Amazonas ganham banheiros e estrutura sustentável
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/escolas-ribeirinhas-de-cidade-do-amazonas-ganham-banheiros-e-estrutura-sustentavel.shtml)_
+
