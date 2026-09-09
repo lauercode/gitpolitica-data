@@ -401,3 +401,6 @@
 - **[2026-09-09 00:39 UTC]** Homem é esfaqueado e morre à espera de transporte aéreo para atendimento no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/homem-e-esfaqueado-e-morre-a-espera-de-transporte-aereo-para-atendimento-no-acre.ghtml)_
 
+- **[2026-09-09 00:03 UTC]** Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta terça-feira (8)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-terca-feira-8.ghtml)_
+
