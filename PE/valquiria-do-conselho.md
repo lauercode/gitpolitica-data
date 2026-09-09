@@ -80,3 +80,6 @@
 - **[2026-09-08 21:43 UTC]** Convocação do Conselho da República foi tratada como ameaça golpista no governo Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/convocacao-conselho-republica-tratada-ameaca-golpista-governo-bolsonaro/)_
 
+- **[2026-09-08 23:39 UTC]** Defesa jurídica de Lula sugere convocação do Conselho da República para conter crise
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-juridica-de-lula-sugere-convocacao-do-conselho-da-republica-para-conter-crise/)_
+
