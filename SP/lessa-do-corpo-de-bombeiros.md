@@ -65,3 +65,6 @@
 - **[2026-09-08 23:29 UTC]** Eleições 2026: Professora Maria do Carmo promete ampliar efetivo de bombeiros para combater queimadas no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-professora-maria-do-carmo-promete-ampliar-efetivo-de-bombeiros-para-combater-queimadas-no-am.ghtml)_
 
+- **[2026-09-09 16:59 UTC]** Corpo encontrado em mata de João Pessoa é de jovem desaparecida, confirmam Bombeiros
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/corpo-encontrado-em-mata-de-joao-pessoa-e-de-jovem-desaparecida-diz-corpo-de-bombeiros.ghtml)_
+
