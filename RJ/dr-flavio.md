@@ -1037,3 +1037,6 @@
 - **[2026-09-09 09:00 UTC]** Pesquisa Palver mostra Lula e Flávio empatados no primeiro turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pesquisa-palver-mostra-lula-e-flavio-empatados-no-primeiro-turno.shtml)_
 
+- **[2026-09-09 15:02 UTC]** Flávio Dino determina a volta de Andrei Rodrigues à direção da PF; acompanhe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
+
