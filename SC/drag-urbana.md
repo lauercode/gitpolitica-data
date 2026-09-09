@@ -14,3 +14,6 @@
 - **[2026-09-03 19:38 UTC]** Allyson Bezerra destaca propostas para mobilidade urbana em Natal e Mossoró
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/03/allyson-bezerra-destaca-propostas-para-mobilidade-urbana-em-natal-e-mossoro.ghtml)_
 
+- **[2026-09-09 14:28 UTC]** Alto da Glória ganha nova perspectiva em momento de valorização urbana
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/gadens-incorporadora/noticia/2026/09/09/alto-da-gloria-ganha-nova-perspectiva-em-momento-de-valorizacao-urbana.ghtml)_
+
