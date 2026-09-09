@@ -56,3 +56,6 @@
 - **[2026-09-09 10:22 UTC]** Vítima e suspeito morrem após tentativa de roubo de espingarda na zona rural de Aldeias Altas
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/vitima-e-suspeito-morrem-apos-tentativa-de-roubo-de-espingarda-na-zona-rural-de-aldeias-altas.ghtml)_
 
+- **[2026-09-09 23:11 UTC]** Polícia investiga legítima defesa em morte de homem na zona rural de município do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/policia-investiga-legitima-defesa-em-morte-de-homem-na-zona-rural-de-municipio-do-acre.ghtml)_
+
