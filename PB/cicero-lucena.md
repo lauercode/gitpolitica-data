@@ -32,3 +32,6 @@
 - **[2026-09-09 12:32 UTC]** TRE-PB libera candidatura de Cícero Lucena ao Governo da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/09/tre-pb-libera-candidatura-de-cicero-lucena-ao-governo-da-paraiba.ghtml)_
 
+- **[2026-09-09 22:00 UTC]** Cícero Lucena defende lei de apoio ao São João de Campina Grande e novas ações para o turismo na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/09/cicero-lucena-fala-em-criar-lei-de-apoio-ao-sao-joao-de-campina-grande-em-agenda-sobre-turismo-na-paraiba.ghtml)_
+
