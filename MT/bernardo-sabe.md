@@ -68,3 +68,6 @@
 - **[2026-09-09 03:00 UTC]** Médica morta no Paraná e marido preso por feminicídio: o que se sabe e o que falta esclarecer sobre o caso
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/medica-morta-no-parana-e-marido-preso-por-feminicidio-o-que-se-sabe-e-o-que-falta-esclarecer-sobre-o-caso.ghtml)_
 
+- **[2026-09-09 19:39 UTC]** Recursos para 'Dark Horse', malas para dinheiro vivo e repasses nas Bahamas: o que se sabe da delação de empresário ligado a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/recursos-para-dark-horse-malas-para-dinheiro-vivo-e-repasses-nas-bahamas-o-que-se-sabe-da-delacao-de-empresario-ligado-a-vorcaro.ghtml)_
+
