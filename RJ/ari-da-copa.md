@@ -110,3 +110,6 @@
 - **[2026-09-08 19:08 UTC]** Brasileiras são vice-campeãs da Copa América de futebol de cegas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiras-sao-vice-campeas-da-copa-america-de-futebol-de-cegas)_
 
+- **[2026-09-09 15:00 UTC]** Ancelotti abre ciclo para Copa de 2030 com novidades; acompanhe entrevista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/ancelotti-faz-primeira-convocacao-da-selecao-no-pos-copa-veja-ao-vivo.shtml)_
+
