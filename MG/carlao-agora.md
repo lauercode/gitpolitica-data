@@ -107,3 +107,6 @@
 - **[2026-09-09 20:43 UTC]** O que é o inquérito das fake news, que agora tem relatoria de Fachin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-e-o-inquerito-das-fake-news-que-agora-tem-relatoria-de-fachin/)_
 
+- **[2026-09-09 21:34 UTC]** Guerra Moraes x Mendonça: o que Fachin decidiu e o que acontece agora com os ministros do STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y423dne20o?at_medium=RSS&at_campaign=rss)_
+
