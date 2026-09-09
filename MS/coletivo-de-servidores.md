@@ -86,3 +86,6 @@
 - **[2026-09-08 14:32 UTC]** Vereador afirma que prefeito deve 'obrigar' votos de servidores contratados na PB: 'Chame um por um'; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/vereador-afirma-que-prefeito-deve-obrigar-votos-de-servidores-contratados-na-pb-chame-um-por-um.ghtml)_
 
+- **[2026-09-08 21:43 UTC]** Sindicato de servidores da PF manifesta apoio a diretores afastados
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/sindicato-de-servidores-da-pf-manifesta-apoio-diretores-afastados)_
+
