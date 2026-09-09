@@ -1148,3 +1148,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 00:18 UTC]** OAB abre processo disciplinar no DF contra escritório da esposa de Alexandre de Moraes em Brasília
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/09/08/oab-df-abre-processo-disciplinar-contra-socios-do-escritorio-barci-de-moraes.ghtml)_
 
+- **[2026-09-08 23:18 UTC]** Senador pede impeachment de Moraes, prisão do diretor da PF e afastamento de Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-pede-impeachment-de-moraes-prisao-do-diretor-da-pf-e-afastamento-de-alcolumbre/)_
+
