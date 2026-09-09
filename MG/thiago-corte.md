@@ -56,3 +56,6 @@
 - **[2026-09-07 23:57 UTC]** Ex-presidentes do STF pedem ação de Fachin e falam em 'mais aguda crise' da corte
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ex-presidentes-do-stf-pedem-acao-de-fachin-e-falam-em-mais-aguda-crise-da-corte.shtml)_
 
+- **[2026-09-09 04:03 UTC]** Crise no STF reflete politização da corte e problema estrutural, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/crise-no-stf-reflete-politizacao-da-corte-e-problema-estrutural-dizem-especialistas.shtml)_
+
