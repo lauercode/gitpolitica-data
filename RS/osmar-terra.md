@@ -95,3 +95,6 @@
 - **[2026-09-07 20:00 UTC]** Grito dos Excluídos pede direito à terra, moradia e fim do feminicídio
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/grito-dos-excluidos-pede-direito-terra-moradia-e-fim-do-feminicidio)_
 
+- **[2026-09-09 13:37 UTC]** Tocantins teve 34 tremores de terra nos últimos 30 anos; veja cidades com mais registros
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/tocantins-teve-34-tremores-de-terras-nos-ultimos-30-anos-veja-cidades-com-mais-registros.ghtml)_
+
