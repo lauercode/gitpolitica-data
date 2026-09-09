@@ -23,3 +23,6 @@
 - **[2026-09-05 00:13 UTC]** Marconi Perillo fala em retomar programas de crédito e reforçar assistência técnica a produtores rurais
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-4.ghtml)_
 
+- **[2026-09-09 21:03 UTC]** Eleições 2026: plano de governo de Omar Aziz defende zoneamento ecológico e assistência técnica
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-plano-de-governo-de-omar-aziz-defende-zoneamento-ecologico-e-assistencia-tecnica.ghtml)_
+
