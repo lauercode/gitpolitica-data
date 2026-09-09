@@ -194,3 +194,6 @@
 - **[2026-09-09 09:53 UTC]** Fachin dá 72h para Mendonça responder sobre diretor da PF
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-da-72h-para-mendonca-responder-sobre-diretor-da-pf)_
 
+- **[2026-09-09 12:37 UTC]** Reintegração de diretor da PF: veja os principais argumentos de Dino para reverter decisão de Mendonça sobre Andrei Rodrigues
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/reintegracao-de-diretor-da-pf-veja-os-principais-argumentos-de-dino-para-reverter-decisao-de-mendonca-sobre-andrei-rodrigues.ghtml)_
+
