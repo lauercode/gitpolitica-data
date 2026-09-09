@@ -281,3 +281,6 @@
 - **[2026-09-09 18:30 UTC]** Guardião da Constituição, STF transforma sua crise em grande projeto de poder
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/09/guardiao-da-constituicao-stf-transforma-sua-crise-em-grande-projeto-de-poder.shtml)_
 
+- **[2026-09-09 22:14 UTC]** Eleições 2026 no RS: Rejane de Oliveira defende construção de 'projeto pedagógico com a comunidade escolar'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-no-rs-rejane-de-oliveira-defende-construcao-de-projeto-pedagogico-com-a-comunidade-escolar.ghtml)_
+
