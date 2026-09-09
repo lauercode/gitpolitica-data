@@ -101,3 +101,6 @@
 - **[2026-09-09 16:37 UTC]** 'Por favor, me ajuda': adolescente usa carta para contar à professora que pais eram pagos para permitirem que cunhado a estuprasse, no PR
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/por-favor-me-ajuda-adolescente-usa-carta-para-contar-a-professora-que-pais-eram-pagos-para-permitir-que-tio-a-estuprasse-no-pr.ghtml)_
 
+- **[2026-09-09 14:42 UTC]** Concurso, histórico e tratamento: o que está por trás da disputa pela posse de professora aprovada em concurso e impedida de assumir vaga
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/da-aprovacao-a-disputa-na-justica-veja-cronologia-do-caso-da-professora-do-rs-que-passou-em-concurso-mas-foi-impedida-de-assumir.ghtml)_
+
