@@ -14,3 +14,6 @@
 - **[2026-09-04 22:50 UTC]** Eleições 2026: Ricardo Marques diz que tem programa de habitação para mulheres chefes de família
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-ricardo-marques-diz-que-tem-programa-de-habitacao-para-mulheres-chefes-de-familia.ghtml)_
 
+- **[2026-09-08 22:49 UTC]** Eleições 2026: Ricardo Marques diz que pretende promover a alfabetização na idade certa
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-ricardo-marques-diz-que-pretende-promover-a-alfabetizacao-na-idade-certa.ghtml)_
+
