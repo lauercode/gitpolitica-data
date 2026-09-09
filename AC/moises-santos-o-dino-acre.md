@@ -398,3 +398,6 @@
 - **[2026-09-08 21:34 UTC]** Cidade do Acre recebe mais de R$ 1,2 milhão para ações de proteção durante seca
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/cidade-do-ac-recebe-mais-de-r-12-milhao-do-governo-federal-para-acoes-de-protecao-durante-seca.ghtml)_
 
+- **[2026-09-09 00:39 UTC]** Homem é esfaqueado e morre à espera de transporte aéreo para atendimento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/homem-e-esfaqueado-e-morre-a-espera-de-transporte-aereo-para-atendimento-no-acre.ghtml)_
+
