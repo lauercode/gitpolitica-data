@@ -68,3 +68,6 @@
 - **[2026-09-09 13:32 UTC]** Assalto com reféns termina com três suspeitos mortos em troca de tiros com a polícia em Castanhal
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/assalto-com-refens-termina-com-tres-suspeitos-mortos-em-troca-de-tiros-com-a-policia-em-castanhal.ghtml)_
 
+- **[2026-09-09 17:57 UTC]** Troca de fios de energia por cabos de alumínio em Manaus é investigada pelo MP após reclamações de consumidores
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/troca-de-fios-de-energia-por-cabos-de-aluminio-em-manaus-e-investigada-pelo-mp-apos-reclamacoes-de-consumidores.ghtml)_
+
