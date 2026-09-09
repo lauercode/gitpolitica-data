@@ -68,3 +68,6 @@
 - **[2026-09-09 14:52 UTC]** Novo contesta Dino e diz que decisão expõe problemas no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-contesta-decisao-de-dino-e-diz-que-decisao-expoe-problemas-do-stf/)_
 
+- **[2026-09-09 14:17 UTC]** Fachin cancela sessão do plenário do STF em meio à crise entre Moraes, Mendonça e Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cancela-sessao-plenario-stf-meio-a-crise/)_
+
