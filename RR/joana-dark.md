@@ -101,3 +101,6 @@
 - **[2026-09-09 13:33 UTC]** Dino cita impacto em investigação do filme 'Dark Horse' ao reconduzir chefe da PF; entenda o caso
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-cita-impacto-em-investigacao-do-filme-dark-horse-ao-reconduzir-chefe-da-pf-entenda-o-caso.ghtml)_
 
+- **[2026-09-09 11:55 UTC]** Flávio Dino reverte afastamento de cúpula da PF, critica 'decisão em causa própria' e aponta risco a investigações do caso 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-reintegracao-andrei.ghtml)_
+
