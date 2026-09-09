@@ -425,3 +425,6 @@
 - **[2026-09-09 09:22 UTC]** Meio/Ideia divulga nova pesquisa para presidente; veja os números
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/meio-ideia-presidente-setembro-2026/)_
 
+- **[2026-09-09 07:54 UTC]** Fachin sob pressão e 'sem ferramentas': por que presidente do STF não consegue debelar crise às vésperas de eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
+
