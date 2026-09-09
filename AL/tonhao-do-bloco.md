@@ -14,3 +14,6 @@
 - **[2018-07-16 16:50 UTC]** Bloco Me Enterra na Quarta homenageia Hermeto e Dominguinhos em festa julina
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/rio-de-janeiro/o-que-fazer-no-rio-de-janeiro/noticia/bloco-me-enterra-na-quarta-homenageia-hermeto-e-dominguinhos-em-festa-julina.ghtml)_
 
+- **[2026-09-09 16:59 UTC]** Aeroporto de Brasília terá novo leilão em dezembro, em bloco com mais dez terminais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/aeroporto-de-brasilia-tera-novo-leilao-em-dezembro-em-bloco-com-mais-dez-terminais.shtml)_
+
