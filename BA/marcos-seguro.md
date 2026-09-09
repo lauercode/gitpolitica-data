@@ -23,3 +23,6 @@
 - **[2026-09-03 21:56 UTC]** Senado aprova novas regras para seguro rural
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/senado-aprova-novas-regras-para-seguro-rural.shtml)_
 
+- **[2026-09-09 17:40 UTC]** Demitidos das Casas Bahia não conseguem receber rescisão, FGTS e seguro-desemprego, diz entidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/demitidos-das-casas-bahia-nao-conseguem-receber-rescisao-fgts-e-seguro-desemprego-diz-entidade.shtml)_
+
