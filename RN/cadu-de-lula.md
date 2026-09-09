@@ -29,3 +29,6 @@
 - **[2026-09-08 19:35 UTC]** Cadu de Lula participa de sabatina com setor produtivo e defende desburocratização
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/08/cadu-de-lula-participa-de-sabatina-com-setor-produtivo-e-defende-desburocratizacao.ghtml)_
 
+- **[2026-09-09 19:04 UTC]** Cadu de Lula defende cirurgias eletivas em hospitais regionais e telemedicina durante agenda em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/09/cadu-de-lula-defende-cirurgias-eletivas-em-hospitais-regionais-e-telemedicina-durante-agenda-em-natal.ghtml)_
+
