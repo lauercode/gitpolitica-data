@@ -104,3 +104,6 @@
 - **[2026-09-09 15:15 UTC]** Milei surfa em aceno de Trump e agora quer Malvinas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/milei-surfa-em-aceno-de-trump-e-agora-quer-malvinas.shtml)_
 
+- **[2026-09-09 20:43 UTC]** O que é o inquérito das fake news, que agora tem relatoria de Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-e-o-inquerito-das-fake-news-que-agora-tem-relatoria-de-fachin/)_
+
