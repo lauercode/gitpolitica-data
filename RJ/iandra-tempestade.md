@@ -26,3 +26,6 @@
 - **[2026-09-07 13:14 UTC]** Tempestade e baixa umidade: TO deve registrar chuvas e temperaturas de até 37 graus durante feriados
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/tempestade-e-baixa-umidade-to-deve-registrar-chuvas-e-temperaturas-de-ate-37-graus-durante-feriados.ghtml)_
 
+- **[2026-09-09 16:42 UTC]** Paraná tem 265 cidades sob alerta vermelho de tempestade; veja lista
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/alerta-vermelho-parana-tempestade.ghtml)_
+
