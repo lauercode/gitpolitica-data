@@ -1184,3 +1184,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 15:02 UTC]** 'Guerra' Mendonça x Moraes escalou; relembre tudo o que aconteceu
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 16:49 UTC]** Alexandre de Moraes sob pressão: OAB-DF abre procedimento contra escritório da família
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-sob-pressao-oab-df-abre-procedimento-contra-escritorio-da-familia/)_
+
