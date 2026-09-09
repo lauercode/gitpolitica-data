@@ -323,3 +323,6 @@
 - **[2026-09-09 13:57 UTC]** Dois suspeitos morrem em confronto com a Polícia Militar durante operação contra organização criminosa no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/dois-suspeitos-morrem-em-confronto-com-a-policia-militar-durante-operacao-contra-organizacao-criminosa-no-ma.ghtml)_
 
+- **[2026-09-09 15:22 UTC]** Antes de fazer filho de dois anos refém na Grande Curitiba, pai agrediu esposa e filha, diz polícia
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/pai-filho-refem-esposa-agredida-grande-curitiba.ghtml)_
+
