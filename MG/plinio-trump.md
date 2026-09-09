@@ -233,3 +233,6 @@
 - **[2026-09-09 15:05 UTC]** Trump dá US$ 45 mil de presente a assessora apelidada de 'impressora humana'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-da-us-45-mil-de-presente-a-assessora-apelidada-de-impressora-humana.shtml)_
 
+- **[2026-09-09 17:24 UTC]** Trump diz que guerra no Irã terminará logo após eleição de meio de mandato nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-diz-que-guerra-no-ira-terminara-logo-apos-eleicao-de-meio-de-mandato-nos-eua.shtml)_
+
