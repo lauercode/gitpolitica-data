@@ -62,3 +62,6 @@
 - **[2026-09-08 18:32 UTC]** Concursos PM e Bombeiros AL reabrem inscrições; veja cronograma
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/08/concursos-pm-e-bombeiros-al-reabrem-inscricoes-veja-cronograma.ghtml)_
 
+- **[2026-09-08 23:29 UTC]** Eleições 2026: Professora Maria do Carmo promete ampliar efetivo de bombeiros para combater queimadas no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-professora-maria-do-carmo-promete-ampliar-efetivo-de-bombeiros-para-combater-queimadas-no-am.ghtml)_
+
