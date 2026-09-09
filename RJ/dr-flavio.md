@@ -1019,3 +1019,6 @@
 - **[2026-09-09 03:00 UTC]** Campanha de Flávio pede cassação da chapa Lula-Alckmin por suposto abuso de poder em desfile na Sapucaí
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/campanha-de-flavio-pede-cassacao-da-chapa-lula-alckmin-por-suposto-abuso-de-poder-em-desfile-na-sapucai.ghtml)_
 
+- **[2026-09-08 23:00 UTC]** Campanha de Flávio descarta pedir prisão de Andrei após afastamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-descarta-pedir-prisao-de-andrei-apos-afastamento.shtml)_
+
