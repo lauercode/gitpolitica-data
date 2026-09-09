@@ -128,3 +128,6 @@
 - **[2026-09-09 20:29 UTC]** Fachin suspende decisões de Mendonça e Dino sobre diretor da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-suspende-decisoes-de-mendonca-e-dino-sobre-diretor-da-pf/)_
 
+- **[2026-09-09 18:26 UTC]** “O Brasil está sem presidente, virou várzea”, diz Flávio após Dino reintegrar chefe da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-brasil-esta-sem-presidente-virou-varzea-diz-flavio-pos-dino-reintegrar-chefe-da-pf/)_
+
