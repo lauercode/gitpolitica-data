@@ -131,3 +131,6 @@
 - **[2026-09-08 23:18 UTC]** Acidente entre carro e moto mata policial militar no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/acidente-entre-carro-e-moto-mata-policial-militar-no-tocantins.ghtml)_
 
+- **[2026-09-09 13:37 UTC]** Tocantins teve 34 tremores de terra nos últimos 30 anos; veja cidades com mais registros
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/tocantins-teve-34-tremores-de-terras-nos-ultimos-30-anos-veja-cidades-com-mais-registros.ghtml)_
+
