@@ -1208,3 +1208,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 20:54 UTC]** Fachin tira Moraes da relatoria do inquérito das fake news
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-tira-moraes-da-relatoria-do-inquerito-das-fake-news/)_
 
+- **[2026-09-09 21:06 UTC]** Fachin derruba decisões de ministros sobre PF e retira inquéritos de Moraes e Mendonça: 'É grave quando decisões são desafiadas'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
+
