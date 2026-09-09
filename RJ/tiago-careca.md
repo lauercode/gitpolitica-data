@@ -14,3 +14,6 @@
 - **[2026-09-09 16:23 UTC]** André Mendonça revoga prisão do filho do Careca do INSS
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/andre-mendonca-revoga-prisao-do-filho-do-careca-do-inss.shtml)_
 
+- **[2026-09-09 20:21 UTC]** André Mendonça manda soltar filho do “Careca do INSS”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-manda-soltar-filho-do-careca-do-inss/)_
+
