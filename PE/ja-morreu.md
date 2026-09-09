@@ -167,3 +167,6 @@
 - **[2026-09-09 16:46 UTC]** Avós tentaram criar menino de 3 anos que morreu com sinais de maus-tratos no AC: 'Fazia tudo por ele'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/avos-tentaram-criar-menino-de-3-anos-que-morreu-com-sinais-de-maus-tratos-no-ac-fazia-de-tudo-por-ele.ghtml)_
 
+- **[2026-09-09 21:49 UTC]** Quem era o vereador que morreu esmagado por carga de 1 tonelada de batatas em SC: 'Adeus, meu melhor amigo'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/quem-era-vereador-esmagado-batatas-nivaldo-magagnin.ghtml)_
+
