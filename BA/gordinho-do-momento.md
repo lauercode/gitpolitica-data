@@ -59,3 +59,6 @@
 - **[2026-09-09 14:28 UTC]** Alto da Glória ganha nova perspectiva em momento de valorização urbana
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/gadens-incorporadora/noticia/2026/09/09/alto-da-gloria-ganha-nova-perspectiva-em-momento-de-valorizacao-urbana.ghtml)_
 
+- **[2026-09-09 15:18 UTC]** 'Sonhei com esse momento todos os dias', afirma o novo Papai Noel do Natal Luz de Gramado
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/novo-papai-noel-do-natal-luz-de-gramado.ghtml)_
+
