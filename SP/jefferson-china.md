@@ -77,3 +77,6 @@
 - **[2026-09-07 06:00 UTC]** China se esforça para promover robôs humanoides, mas demanda real ainda é pequena
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/china-se-esforca-para-promover-robos-humanoides-mas-demanda-real-ainda-e-pequena.shtml)_
 
+- **[2026-09-09 14:00 UTC]** Brasil vê China como potencial compradora de créditos de carbono
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/brasil-ve-china-como-potencial-compradora-de-creditos-de-carbono.shtml)_
+
