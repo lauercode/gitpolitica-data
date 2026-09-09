@@ -1241,3 +1241,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 23:27 UTC]** Fachin derruba decisões de ministros sobre PF e retira inquérito das Fake News de Moraes
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 22:24 UTC]** Alexandre de Moraes valida provas usadas em investigações contra médica acusada de antecipar mortes em UTI de hospital de Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/alexandre-de-moraes-valida-provas-usadas-em-investigacoes-contra-medica-acusada-de-antecipar-mortes-em-uti-de-hospital-de-curitiba.ghtml)_
+
