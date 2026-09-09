@@ -83,3 +83,6 @@
 - **[2026-09-08 20:14 UTC]** Como a locação de tecnologia ajuda empresas a crescer com mais economia
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/amazon-copy/noticia/2026/09/08/como-a-locacao-de-tecnologia-ajuda-empresas-a-crescer-com-mais-economia.ghtml)_
 
+- **[2026-09-09 16:37 UTC]** 'Por favor, me ajuda': adolescente usa carta para contar à professora que pais eram pagos para permitir que tio a estuprasse, no PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/por-favor-me-ajuda-adolescente-usa-carta-para-contar-a-professora-que-pais-eram-pagos-para-permitir-que-tio-a-estuprasse-no-pr.ghtml)_
+
