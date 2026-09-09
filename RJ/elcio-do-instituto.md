@@ -71,3 +71,6 @@
 - **[2026-09-09 10:39 UTC]** Presidente do Smithsonian deixará cargo após choques entre instituto e Casa Branca
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/presidente-do-smithsonian-deixara-cargo-apos-choques-entre-instituto-e-casa-branca.shtml)_
 
+- **[2026-09-09 15:46 UTC]** Instituto Barla afirma que alíquota de 12% sobre exportação de petróleo atinge elo errado da cadeia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/instituto-barla-afirma-que-aliquota-de-12-sobre-exportacao-de-petroleo-atinge-elo-errado-da-cadeia.shtml)_
+
