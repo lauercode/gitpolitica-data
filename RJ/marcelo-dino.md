@@ -65,3 +65,6 @@
 - **[2026-09-09 08:59 UTC]** Dino reverte decisão de Mendonça e reintegra Andrei Rodrigues ao comando da PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-reintegra-andrei-rodrigues-no-comando-da-pf.shtml)_
 
+- **[2026-09-09 14:52 UTC]** Novo contesta Dino e diz que decisão expõe problemas no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-contesta-decisao-de-dino-e-diz-que-decisao-expoe-problemas-do-stf/)_
+
