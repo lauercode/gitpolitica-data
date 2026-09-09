@@ -11,3 +11,6 @@
 - **[2026-09-02 21:59 UTC]** Eleições 2026: Dr. Helton diz que vai incentivar a agricultura familiar
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-dr-helton-diz-que-vai-incentivar-a-agricultura-familiar.ghtml)_
 
+- **[2026-09-09 22:26 UTC]** Eleições 2026: Dr. Helton fala sobre importância da transparência nos gastos com merenda escolar
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-dr-helton-fala-sobre-importancia-da-transparencia-nos-gastos-com-merenda-escolar.ghtml)_
+
