@@ -158,3 +158,6 @@
 - **[2026-09-09 12:25 UTC]** Detentos fazem motim em penitenciária do Amapá; um morreu
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/09/detentos-fazem-motim-em-presidio-no-ap-e-grupo-tatico-intervem-para-conter-revolta.ghtml)_
 
+- **[2026-09-09 11:49 UTC]** Condutor de jet ski envolvido em acidente na Grande Natal se apresenta à polícia; engenheiro morreu
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/09/condutor-jet-ski-envolvido-acidente-grande-natal-se-apresenta-a-policia.ghtml)_
+
