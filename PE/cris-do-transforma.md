@@ -32,3 +32,6 @@
 - **[2026-09-08 19:52 UTC]** Como a comunicação digital transforma a experiência do consumidor
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/amazon-copy/noticia/2026/09/08/como-a-comunicacao-digital-transforma-a-experiencia-do-consumidor.ghtml)_
 
+- **[2026-09-09 18:30 UTC]** Guardião da Constituição, STF transforma sua crise em grande projeto de poder
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/09/guardiao-da-constituicao-stf-transforma-sua-crise-em-grande-projeto-de-poder.shtml)_
+
