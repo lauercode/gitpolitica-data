@@ -110,3 +110,6 @@
 - **[2026-09-09 12:58 UTC]** Veja o que disseram os presidenciáveis sobre a decisão de Dino que devolveu Andrei à direção-geral da PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-decisao-dino-andrei-direcao-pf.ghtml)_
 
+- **[2026-09-09 09:02 UTC]** Dino reconduz diretor-geral da PF no cargo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dino-reintegra-diretor-geral-da-pf-no-cargo.shtml)_
+
