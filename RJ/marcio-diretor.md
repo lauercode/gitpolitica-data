@@ -185,3 +185,6 @@
 - **[2026-09-08 23:00 UTC]** Mendonça acirra crise institucional ao afastar diretor da PF e colocar Lula sob pressão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-acirra-crise-institucional-ao-afastar-diretor-da-pf-e-colocar-lula-sob-pressao.shtml)_
 
+- **[2026-09-09 05:00 UTC]** Podcast explica por que Mendonça mandou afastar diretor da PF e discute impactos da medida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-explica-por-que-mendonca-mandou-afastar-diretor-da-pf-e-discute-impactos-da-medida.shtml)_
+
