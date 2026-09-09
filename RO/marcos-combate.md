@@ -80,3 +80,6 @@
 - **[2026-09-07 06:31 UTC]** Sete de setembro: soberania, Copa e combate ao feminicídio serão temas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/sete-de-setembro-soberania-copa-e-combate-ao-feminicidio-serao-temas)_
 
+- **[2026-09-09 12:08 UTC]** Comissão aprova destinação de recursos públicos para combate a crimes financeiros virtuais
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302915-comissao-aprova-destinacao-de-recursos-publicos-para-combate-a-crimes-financeiros-virtuais)_
+
