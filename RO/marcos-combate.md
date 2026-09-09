@@ -83,3 +83,6 @@
 - **[2026-09-09 12:08 UTC]** Comissão aprova destinação de recursos públicos para combate a crimes financeiros virtuais
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302915-comissao-aprova-destinacao-de-recursos-publicos-para-combate-a-crimes-financeiros-virtuais)_
 
+- **[2026-09-09 16:53 UTC]** Hospitais no interior e combate às filas: veja as principais propostas dos candidatos ao governo do AM para saúde
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/hospitais-no-interior-e-combate-as-filas-veja-as-principais-propostas-dos-candidatos-ao-governo-do-am-para-saude.ghtml)_
+
