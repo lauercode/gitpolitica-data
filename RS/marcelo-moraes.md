@@ -1196,3 +1196,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 20:21 UTC]** Fachin tira Moraes da relatoria do inquérito das Fake News e assume caso em meio à crise no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-assume-relatoria-do-inquerito-das-fake-news.ghtml)_
 
+- **[2026-09-09 20:20 UTC]** Fachin convoca plenário do STF para analisar decisão de Mendonça sobre suposta relação de Moraes com Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-convoca-plenario-do-stf-para-analisar-decisao-de-mendonca-sobre-suposta-relacao-de-moraes-com-vorcaro.ghtml)_
+
