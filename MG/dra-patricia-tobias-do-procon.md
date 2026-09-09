@@ -17,3 +17,6 @@
 - **[2026-09-08 18:45 UTC]** Procon Natal realiza feirão para renegociar dívidas na Zona Norte; veja como participar
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/procon-natal-realiza-feirao-para-renegociar-dividas-na-zona-norte-veja-como-participar.ghtml)_
 
+- **[2026-09-09 20:05 UTC]** Gasolina comum tem preço médio de R$ 6,94 em Natal, aponta Procon
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/09/gasolina-comum-tem-preco-medio-de-r-694-em-natal-aponta-procon.ghtml)_
+
