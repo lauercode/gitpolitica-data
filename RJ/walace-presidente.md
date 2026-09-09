@@ -419,3 +419,6 @@
 - **[2026-09-09 03:00 UTC]** Lula silencia sobre afastamento de Andrei; presidente cumpre agenda no Piauí nesta quarta
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-silencia-sobre-afastamento-de-andrei-presidente-cumpre-agenda-no-piaui-nesta-quarta.ghtml)_
 
+- **[2026-09-09 10:23 UTC]** Presidente do PT defende apuração de denúncias no STF e afirma que país vive crise institucional
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/presidente-do-pt-defende-apuracao-de-denuncias-no-stf-e-afirma-que-pais-vive-crise-institucional.ghtml)_
+
