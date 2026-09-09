@@ -107,3 +107,6 @@
 - **[2026-09-09 18:06 UTC]** Novo tenta devolver a Mendonça disputa sobre Andrei após derrubada de Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-tenta-devolver-a-mendonca-disputa-sobre-andrei-apos-derrubada-de-dino/)_
 
+- **[2026-09-09 18:01 UTC]** Decisão de Dino para blindar cúpula da PF tem falhas graves e atropela Mendonça e Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/decisao-dino-blindar-cupula-pf-falhas-graves-atropela-mendonca-fachin/)_
+
