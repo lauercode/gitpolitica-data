@@ -74,3 +74,6 @@
 - **[2026-09-08 19:08 UTC]** Brasileiras são vice-campeãs da Copa América de futebol de cegas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiras-sao-vice-campeas-da-copa-america-de-futebol-de-cegas)_
 
+- **[2026-09-09 11:21 UTC]** Jovem de RO morto em festa no Ceará era apaixonado por futebol e fazia planos para ajudar a família, diz irmão
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/09/jovem-de-ro-morto-em-festa-no-ceara-era-apaixonado-por-futebol-e-fazia-planos-para-ajudar-a-familia-diz-irmao.ghtml)_
+
