@@ -32,3 +32,6 @@
 - **[2026-09-06 17:36 UTC]** Dino defende decisões monocráticas do STF e questiona pressão por fim de inquéritos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-defende-decisoes-monocraticas-do-stf-e-questiona-pressao-por-fim-de-inqueritos/)_
 
+- **[2026-09-09 09:25 UTC]** Dino determina reintegração de Andrei Rodrigues no comando da PF
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-determina-reintegracao-de-andrei-rodrigues-no-comando-da-pf)_
+
