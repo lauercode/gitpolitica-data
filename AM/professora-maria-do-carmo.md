@@ -35,3 +35,6 @@
 - **[2026-09-07 22:14 UTC]** Eleições 2026: Professora Maria do Carmo participa de carreata com apoiadores e fala sobre redução da máquina pública para conter gastos
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-professora-maria-do-carmo-participa-de-carreata-com-apoiadores-e-fala-sobre-reducao-da-maquina-publica-para-conter-gastos.ghtml)_
 
+- **[2026-09-08 23:29 UTC]** Eleições 2026: Professora Maria do Carmo promete ampliar efetivo de bombeiros para combater queimadas no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-professora-maria-do-carmo-promete-ampliar-efetivo-de-bombeiros-para-combater-queimadas-no-am.ghtml)_
+
