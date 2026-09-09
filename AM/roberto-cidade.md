@@ -179,3 +179,6 @@
 - **[2026-09-09 11:25 UTC]** O Estatuto da Cidade fez 25 anos, e agora?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/o-estatuto-da-cidade-fez-25-anos-e-agora.shtml)_
 
+- **[2026-09-09 10:36 UTC]** A um número do prêmio principal, aposta do Paraná fatura R$ 34 mil na Mega-Sena; veja cidade
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/aposta-parana-quina-mega-sena.ghtml)_
+
