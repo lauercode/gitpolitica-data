@@ -275,3 +275,6 @@
 - **[2026-09-09 15:31 UTC]** Netanyahu diz que vai processar jornal por reportagem sobre premiê ter ignorado alerta de ataque do Hamas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/netanyahu-diz-que-vai-processar-jornal-por-reportagem-sobre-premie-ter-ignorado-alerta-de-ataque-do-hamas.shtml)_
 
+- **[2026-09-09 20:09 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quarta-feira, 9 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quarta-feira-9-de-setembro-de-2026.ghtml)_
+
