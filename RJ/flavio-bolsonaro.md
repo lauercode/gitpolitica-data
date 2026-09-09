@@ -833,3 +833,6 @@
 - **[2026-09-09 18:05 UTC]** Flávio repete trajeto de facada sofrida por Bolsonaro no ombro do povo em Juiz de Fora (MG)
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-repete-trajeto-de-facada-sofrida-por-bolsonaro-no-ombro-do-povo-em-juiz-de-fora-mg/)_
 
+- **[2026-09-09 17:09 UTC]** Crise no STF pode antecipar dupla indicada por Bolsonaro no comando da Corte
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-pode-antecipar-dupla-indicada-por-bolsonaro-no-comando-da-corte/)_
+
