@@ -104,3 +104,6 @@
 - **[2026-09-09 09:02 UTC]** Dino reconduz Andrei Rodrigues, diretor-geral da PF, no cargo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dino-reintegra-diretor-geral-da-pf-no-cargo.shtml)_
 
+- **[2026-09-09 18:06 UTC]** Novo tenta devolver a Mendonça disputa sobre Andrei após derrubada de Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-tenta-devolver-a-mendonca-disputa-sobre-andrei-apos-derrubada-de-dino/)_
+
