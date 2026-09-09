@@ -362,3 +362,6 @@
 - **[2026-09-09 12:00 UTC]** Com 'trairagem', Adriana entrega a coroa de vítima a Dora em 'Quem Ama Cuida'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/thiagostivaletti/2026/09/com-trairagem-adriana-entrega-a-coroa-de-vitima-a-dora-em-quem-ama-cuida.shtml)_
 
+- **[2026-09-09 11:33 UTC]** Secretário do Tesouro dos EUA desafia quem apostar contra o iene: 'Agora, a banca sou eu'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/secretario-do-tesouro-dos-eua-desafia-quem-apostar-contra-o-iene-agora-a-banca-sou-eu.shtml)_
+
