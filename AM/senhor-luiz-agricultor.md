@@ -14,3 +14,6 @@
 - **[2026-09-07 13:44 UTC]** Agricultor atropelado por advogado em saída de feira agropecuária recebe alta no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/agricultor-atropelado-por-advogado-em-saida-de-feira-agropecuaria-recebe-alta-no-acre.ghtml)_
 
+- **[2026-09-09 19:56 UTC]** Polícia conclui inquérito e indicia sete PMs por morte de agricultor a tiros dentro de casa no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/policia-conclui-inquerito-indicia-pms-morte-agricultor-tiros-casa-pelotas-rs.ghtml)_
+
