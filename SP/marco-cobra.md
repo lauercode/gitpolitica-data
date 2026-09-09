@@ -59,3 +59,6 @@
 - **[2026-09-07 15:31 UTC]** Em ato no Rio, Cury manda abraço para Mendonça e cobra investigação do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-ato-no-rio-cury-manda-abraco-para-mendonca-e-cobra-investigacao-ao-stf-ninguem-deve-ser-poupado.shtml)_
 
+- **[2026-09-09 00:52 UTC]** Associação de delegados critica ordem de Mendonça contra diretor da PF e cobra análise do plenário
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/associacao-de-delegados-critica-ordem-de-mendonca-contra-diretor-da-pf-e-cobra-analise-do-plenario/)_
+
