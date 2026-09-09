@@ -176,3 +176,6 @@
 - **[2026-09-09 06:00 UTC]** Por que o sol 'muda de lugar' em Curitiba ao longo do ano? Entenda como a latitude da cidade afeta casas, apartamentos e até o varal de roupas
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/por-que-o-sol-muda-de-lugar-em-curitiba-ao-longo-do-ano-entenda-como-a-latitude-da-cidade-afeta-casas-apartamentos-e-ate-o-varal-de-roupas.ghtml)_
 
+- **[2026-09-09 11:25 UTC]** O Estatuto da Cidade fez 25 anos, e agora?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/o-estatuto-da-cidade-fez-25-anos-e-agora.shtml)_
+
