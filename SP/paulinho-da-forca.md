@@ -122,3 +122,6 @@
 - **[2026-09-08 18:59 UTC]** Possível uniforme de força espacial de Trump gera comparação com farda nazista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/possivel-uniforme-de-forca-espacial-de-trump-gera-comparacao-com-farda-nazista.shtml)_
 
+- **[2026-09-09 18:07 UTC]** Rio recebe base da Força Nacional do SUS para enfrentar El Niño
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/rio-recebe-base-da-forca-nacional-do-sus-para-enfrentar-el-nino)_
+
