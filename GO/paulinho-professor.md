@@ -110,3 +110,6 @@
 - **[2026-09-08 22:39 UTC]** Eleições 2026 em SC: Professor Marcus Sodré discute demandas dos trabalhadores da Celesc
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-professor-marcus-sodre-discute-demandas-dos-trabalhadores-da-celesc.ghtml)_
 
+- **[2026-09-08 23:00 UTC]** Com AfD no poder, Alemanha entra em território desconhecido, diz professor de história alemã
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/com-afd-no-poder-alemanha-entra-em-territorio-desconhecido-diz-professor-de-historia-alema.shtml)_
+
