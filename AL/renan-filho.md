@@ -41,3 +41,6 @@
 - **[2026-09-04 14:28 UTC]** Renan Filho promete em sabatina 80 Clínicas da Família e novos hospitais em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/04/renan-filho-promete-em-sabatina-construir-80-clinicas-da-familia-e-novos-hospitais-em-maceio.ghtml)_
 
+- **[2026-09-09 13:54 UTC]** Renan Filho propõe criar 5 mil casas e pagar até R$ 1 mil para alunos da rede estadual
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/09/renan-filho-propoe-criacao-de-5-mil-casas-e-pagamento-de-ate-r-1-mil-para-alunos-da-rede-estadual.ghtml)_
+
