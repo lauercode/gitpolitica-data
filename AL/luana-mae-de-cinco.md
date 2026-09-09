@@ -176,3 +176,6 @@
 - **[2026-09-09 15:34 UTC]** PF cumpre 18 mandados contra grupo suspeito de fraudar pensões do INSS em cinco cidades de AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/09/pf-cumpre-18-mandados-contra-grupo-suspeito-de-fraudar-pensoes-do-inss-em-cinco-cidades-de-al.ghtml)_
 
+- **[2026-09-09 15:50 UTC]** Cinco pessoas são baleadas durante aniversário em São Luís; policial penal e sargento estão entre as vítimas
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/cinco-pessoas-sao-baleadas-durante-aniversario-em-sao-luis-policial-penal-e-sargento-estao-entre-as-vitimas.ghtml)_
+
