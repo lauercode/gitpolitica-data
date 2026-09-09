@@ -89,3 +89,6 @@
 - **[2026-09-09 16:46 UTC]** Avós tentaram criar menino de 3 anos que morreu com sinais de maus-tratos no AC: 'Fazia tudo por ele'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/avos-tentaram-criar-menino-de-3-anos-que-morreu-com-sinais-de-maus-tratos-no-ac-fazia-de-tudo-por-ele.ghtml)_
 
+- **[2026-09-09 18:48 UTC]** Menino desfila com viatura de papelão no RS: 'Ele sempre gostou da polícia'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/menino-desfila-com-viatura-de-papelao-no-rs-ele-sempre-gostou-da-policia.ghtml)_
+
