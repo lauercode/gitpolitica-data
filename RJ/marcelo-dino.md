@@ -83,3 +83,6 @@
 - **[2026-09-09 16:39 UTC]** Impasse no STF: por que a decisão de Dino que reconduziu chefe da PF é a que está valendo? Entenda o conflito
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/impasse-no-stf-por-que-a-decisao-de-dino-que-reconduziu-chefe-da-pf-e-a-que-esta-valendo-entenda-o-conflito.ghtml)_
 
+- **[2026-09-09 15:09 UTC]** Guerra de liminares no STF: ministros ligam para Fachin e cobram providências; Mendonça vê ilegalidade em decisão de Dino
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/guerra-de-liminares-eleva-pressao-sobre-fachin-por-anuncio-de-medida-concreta-para-conter-crise-master-no-stf.ghtml)_
+
