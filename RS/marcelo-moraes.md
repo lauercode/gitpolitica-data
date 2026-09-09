@@ -1211,3 +1211,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 21:06 UTC]** Fachin derruba decisões de ministros sobre PF e retira inquéritos de Moraes e Mendonça: 'É grave quando decisões são desafiadas'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 21:01 UTC]** STF vai decidir no dia 15 sobre 'guerra aberta' entre Moraes e Mendonça
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y423dne20o?at_medium=RSS&at_campaign=rss)_
+
