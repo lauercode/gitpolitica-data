@@ -110,3 +110,6 @@
 - **[2026-09-09 17:38 UTC]** Delator do caso Master detalha pagamentos a fundo de 'Dark Horse' e revela uso de empresa nas Bahamas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/delator-do-caso-master-detalha-pagamentos-a-fundo-de-dark-horse.ghtml)_
 
+- **[2026-09-09 19:39 UTC]** Recursos para 'Dark Horse', malas para dinheiro vivo e repasses nas Bahamas: o que se sabe da delação de empresário ligado a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/recursos-para-dark-horse-malas-para-dinheiro-vivo-e-repasses-nas-bahamas-o-que-se-sabe-da-delacao-de-empresario-ligado-a-vorcaro.ghtml)_
+
