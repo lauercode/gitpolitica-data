@@ -74,3 +74,6 @@
 - **[2026-09-09 13:18 UTC]** Andrei usou caso Dark Horse para direcionar pedido de reintegração a Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-usou-caso-dark-horse-para-direcionar-pedido-de-reintegracao-a-dino/)_
 
+- **[2026-09-09 13:07 UTC]** Dino acusa Mendonça de “divergências” com PF e encontro com Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-acusa-mendonca-divergencias-pf-encontro-vorcaro/)_
+
