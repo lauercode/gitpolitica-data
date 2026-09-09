@@ -164,3 +164,6 @@
 - **[2026-09-08 20:28 UTC]** Parlamentares da esquerda repudiam afastamento de diretor da PF por Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/parlamentares-esquerda-repudiam-afastamento-diretor-pf-mendonca/)_
 
+- **[2026-09-08 20:17 UTC]** AGU pede suspensão imediata do afastamento de diretor-geral da PF
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/agu-pede-suspensao-imediata-do-afastamento-de-diretor-geral-da-pf)_
+
