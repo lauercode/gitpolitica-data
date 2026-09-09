@@ -11,3 +11,6 @@
 - **[2026-09-01 04:30 UTC]** Empresas do Simples Nacional podem fazer opção da reforma tributária a partir desta terça (1º)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresas-do-simples-nacional-podem-fazer-opcao-da-reforma-tributaria-a-partir-desta-terca-1o.shtml)_
 
+- **[2026-09-09 04:00 UTC]** Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/mesmo-com-caneta-emagrecedora-cirurgia-bariatrica-pode-ser-melhor-opcao-para-alguns-pacientes.shtml)_
+
