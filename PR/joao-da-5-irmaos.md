@@ -56,3 +56,6 @@
 - **[2026-09-09 14:24 UTC]** PF pedirá inclusão de irmãos desaparecidos no MA em lista da Interpol
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/pf-pedira-inclusao-de-irmaos-desaparecidos-no-ma-em-lista-da-interpol)_
 
+- **[2026-09-09 15:33 UTC]** PF recebe pedido de inclusão de irmãos desaparecidos em Bacabal na Difusão Amarela da Interpol
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/pf-recebe-pedido-de-inclusao-de-irmaos-desaparecidos-em-bacabal-na-difusao-amarela-da-interpol.ghtml)_
+
