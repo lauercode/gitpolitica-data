@@ -98,3 +98,6 @@
 - **[2026-09-08 18:22 UTC]** Empresário que fez repasses para 'Dark Horse' passa por audiência com auxiliar de Mendonça e diz que delação sobre Master foi voluntária
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/empresario-repasses-dark-horse-delacao-master.ghtml)_
 
+- **[2026-09-09 13:33 UTC]** Dino cita impacto em investigação do filme 'Dark Horse' ao reconduzir chefe da PF; entenda o caso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-cita-impacto-em-investigacao-do-filme-dark-horse-ao-reconduzir-chefe-da-pf-entenda-o-caso.ghtml)_
+
