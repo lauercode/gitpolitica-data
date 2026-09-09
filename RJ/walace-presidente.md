@@ -422,3 +422,6 @@
 - **[2026-09-09 10:23 UTC]** Presidente do PT defende apuração de denúncias no STF e afirma que país vive crise institucional
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/presidente-do-pt-defende-apuracao-de-denuncias-no-stf-e-afirma-que-pais-vive-crise-institucional.ghtml)_
 
+- **[2026-09-09 09:22 UTC]** Meio/Ideia divulga nova pesquisa para presidente; veja os números
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/meio-ideia-presidente-setembro-2026/)_
+
