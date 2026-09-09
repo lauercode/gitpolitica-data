@@ -1145,3 +1145,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-08 22:52 UTC]** AGU pede a Fachin que suspenda afastamento de Andrei Rodrigues da PF: o que aconteceu na guerra Mendonça x Moraes nesta terça
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 00:18 UTC]** OAB abre processo disciplinar no DF contra escritório da esposa de Alexandre de Moraes em Brasília
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/09/08/oab-df-abre-processo-disciplinar-contra-socios-do-escritorio-barci-de-moraes.ghtml)_
+
