@@ -47,3 +47,6 @@
 - **[2026-09-03 22:38 UTC]** Eleições 2026 em SC: Jorginho Mello participa de encontro em clube de tiros em Blumenau
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-em-sc-jorginho-mello-participa-de-encontro-em-clube-de-tiros-em-blumenau.ghtml)_
 
+- **[2026-09-09 18:56 UTC]** 'As Amigas do Clube' e 'A Rainha do Bisturi': o que ver na TV e no streaming quinta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/as-amigas-do-clube-e-a-rainha-do-bisturi-o-que-ver-na-tv-e-no-streaming-quinta.shtml)_
+
