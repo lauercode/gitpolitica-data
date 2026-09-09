@@ -128,3 +128,6 @@
 - **[2026-09-08 23:28 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta terça-feira (8)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-terca-feira-8.ghtml)_
 
+- **[2026-09-08 23:18 UTC]** Acidente entre carro e moto mata policial militar no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/acidente-entre-carro-e-moto-mata-policial-militar-no-tocantins.ghtml)_
+
