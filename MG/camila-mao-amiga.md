@@ -20,3 +20,6 @@
 - **[2026-09-04 23:42 UTC]** ‘Como uma despedida’, diz amiga sobre visita de esposa de ex-secretário morta em acidente na TO-070
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/como-uma-despedida-diz-amiga-sobre-visita-de-esposa-de-ex-secretario-morta-em-acidente-na-to-070.ghtml)_
 
+- **[2026-09-09 15:31 UTC]** Advogado do Paraná se torna réu por estupro de adolescente e importunação sexual de amiga dela dentro de carro
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/advogado-parana-reu-estupro-adolescente-importunacao-sexual-amiga.ghtml)_
+
