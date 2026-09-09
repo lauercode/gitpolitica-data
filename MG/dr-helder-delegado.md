@@ -83,3 +83,6 @@
 - **[2026-09-09 02:28 UTC]** Delegado Alessandro fala sobre desafios do Senado, apoio a Caiado e troca de partidos durante mandato
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/delegado-alessandro-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-09 22:35 UTC]** Delegado diz que irmãos desaparecidos do MA não estão entre os localizados em operação nos EUA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/delegado-diz-que-irmaos-desaparecidos-do-ma-nao-estao-entre-os-localizados-em-operacao-nos-eua.ghtml)_
+
