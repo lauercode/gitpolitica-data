@@ -1232,3 +1232,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 22:06 UTC]** Como a crise entre Mendonça e a PF se agravou no governo Lula e envolveu Moraes, Dino e Fachin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-crise-entre-mendonca-e-a-pf-se-agravou-no-governo-lula-e-envolveu-moraes-dino-e-fachin/)_
 
+- **[2026-09-09 22:14 UTC]** Fachin convoca sessão no STF para analisar pedido de investigação contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-convoca-para-dia-15-reuniao-extraordinaria-presencial-no-stf/)_
+
