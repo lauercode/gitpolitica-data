@@ -29,3 +29,6 @@
 - **[2026-09-07 23:24 UTC]** Eleições 2026 no PR: Sandro Alex participa de desfile de 7 de Setembro e evento da Igreja Católica
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-no-pr-sandro-alex-segunda.ghtml)_
 
+- **[2026-09-08 23:03 UTC]** Eleições 2026 no PR: Sandro Alex diz que quer unificar telefones de serviços de emergência com auxílio de inteligência artificial
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-no-pr-sandro-alex-diz-que-quer-unificar-telefones-de-servicos-de-emergencia-com-auxilio-de-inteligencia-artificial.ghtml)_
+
