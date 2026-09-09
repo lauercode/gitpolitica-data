@@ -440,3 +440,6 @@
 - **[2026-09-09 13:18 UTC]** Fachin sob pressão: por que presidente do STF não consegue debelar crise às vésperas de eleição
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 15:30 UTC]** Kevin Warsh ainda pode ser um bom presidente do Fed
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2026/09/kevin-warsh-ainda-pode-ser-um-bom-presidente-do-fed.shtml)_
+
