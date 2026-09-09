@@ -20,3 +20,6 @@
 - **[2026-09-05 12:00 UTC]** O que se sabe sobre explosão na Bolívia que deixou ao menos 3 mortos e 81 feridos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 13:35 UTC]** Vazamento de gás seguido de explosão deixa três vítimas em prédio na Zona Sul de Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/vazamento-de-gas-seguido-de-explosao-deixa-vitimas-em-predio-na-zona-sul-de-aracaju.ghtml)_
+
