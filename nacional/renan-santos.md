@@ -221,3 +221,6 @@
 - **[2026-09-08 17:57 UTC]** Renan Santos diz que próximo presidente da República 'deverá ir para o enfrentamento contra STF'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/08/renan-stf-enfrentamento.ghtml)_
 
+- **[2026-09-09 18:00 UTC]** Caiado e Renan Santos organizam 'debate paralelo' com adversários na próxima segunda-feira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/caiado-renan-debate-paralelo.ghtml)_
+
