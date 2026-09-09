@@ -263,3 +263,6 @@
 - **[2026-09-08 18:25 UTC]** Netanyahu foi avisado sobre 7 de Outubro, diz jornal, e oposição pressiona premiê
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/natanyahu-foi-avisado-sobre-7-de-outubro-diz-jornal-e-oposicao-pressiona-premie.shtml)_
 
+- **[2026-09-08 23:33 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 8 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-8-de-setembro-de-2026.ghtml)_
+
