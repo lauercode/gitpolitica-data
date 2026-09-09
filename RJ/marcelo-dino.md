@@ -41,3 +41,6 @@
 - **[2026-09-09 14:29 UTC]** Dino diz que juízes devem evitar vídeos que alimentem comícios: 'Recato deve ser ainda maior em tempos eleitorais'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-diz-que-juizes-devem-evitar-videos-que-alimentem-propagandas-e-comicios-recato-deve-ser-ainda-maior-em-tempos-eleitorais.ghtml)_
 
+- **[2026-09-09 14:28 UTC]** Dino determina 'código único' para rastrear emendas e dá 30 dias para estados informarem sobre medidas corretivas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-determina-codigo-unico-para-rastrear-emendas-e-da-30-dias-para-estados-informarem-sobre-medidas-corretivas.ghtml)_
+
