@@ -962,3 +962,6 @@
 - **[2026-09-08 15:54 UTC]** Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 03:00 UTC]** Lula silencia sobre afastamento de Andrei; presidente cumpre agenda no Piauí nesta quarta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-silencia-sobre-afastamento-de-andrei-presidente-cumpre-agenda-no-piaui-nesta-quarta.ghtml)_
+
