@@ -32,3 +32,6 @@
 - **[2026-09-08 23:27 UTC]** Boca abre vantagem mínima sobre São Paulo nas quartas de final da Sul-Americana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/boca-abre-vantagem-minima-sobre-sao-paulo-nas-quartas-de-final-da-sul-americana.shtml)_
 
+- **[2026-09-09 06:45 UTC]** Ex-Palmeiras marca e São Paulo perde do Boca Juniors na Sul-Americana
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ex-palmeiras-marca-e-sao-paulo-perde-do-boca-juniors-na-sul-americana)_
+
