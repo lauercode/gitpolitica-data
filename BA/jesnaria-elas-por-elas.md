@@ -26,3 +26,6 @@
 - **[2026-08-31 23:00 UTC]** Eles preferem mulheres mais velhas; elas não acreditam
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/08/eles-preferem-mulheres-mais-velhas-elas-nao-acreditam.shtml)_
 
+- **[2026-09-09 17:23 UTC]** Elas conseguiram celebrar o primeiro casamento homossexual na Bolívia, um país onde ele não é legalizado
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c86x0d1gveyo?at_medium=RSS&at_campaign=rss)_
+
