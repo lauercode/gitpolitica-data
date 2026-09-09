@@ -206,3 +206,6 @@
 - **[2026-09-09 18:18 UTC]** Augusto Cury defende lista tríplice para escolha do diretor-geral da Polícia Federal
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/09/augusto-cury-defende-lista-triplice-para-escolha-do-diretor-geral-da-policia-federal.ghtml)_
 
+- **[2026-09-09 09:02 UTC]** Dino reconduz Andrei Rodrigues, diretor-geral da PF, no cargo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dino-reintegra-diretor-geral-da-pf-no-cargo.shtml)_
+
