@@ -206,3 +206,6 @@
 - **[2026-09-09 10:00 UTC]** ANPD prepara centro de inteligência artificial e mira rolagem infinita, diz diretora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/anpd-prepara-centro-de-inteligencia-artificial-e-mira-rolagem-infinita-diz-diretora.shtml)_
 
+- **[2026-09-09 11:53 UTC]** Prefeitura oferece crédito de até R$ 20 mil para comerciantes afetados por incêndio no Centro Comercial de Passagem, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/prefeitura-oferece-credito-de-ate-r-20-mil-para-comerciantes-afetados-por-incendio-no-centro-comercial-de-passagem-em-joao-pessoa.ghtml)_
+
