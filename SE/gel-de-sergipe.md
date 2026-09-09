@@ -197,3 +197,6 @@
 - **[2026-09-08 16:26 UTC]** Seca e estiagem afetam mais de 69 mil pessoas em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/08/seca-e-estiagem-em-sergipe.ghtml)_
 
+- **[2026-09-09 12:28 UTC]** Professores mantêm greve em Sergipe e ocupam sede da Secretaria da Educação pelo segundo dia
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/professores-mantem-greve-em-sergipe-e-ocupam-sede-da-secretaria-da-educacao-pelo-segundo-dia.ghtml)_
+
