@@ -17,3 +17,6 @@
 - **[2026-09-08 01:55 UTC]** Joaquim Barbosa, Rosa Weber, Ayres Britto e outros 10 ministros aposentados pedem a Fachin 'imediata e rigorosa' apuração de crise no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/ministros-aposentados-apuracao-crise-stf.ghtml)_
 
+- **[2026-09-08 22:49 UTC]** Eleições 2026: Ricardo Marques diz que pretende promover a alfabetização na idade certa
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-ricardo-marques-diz-que-pretende-promover-a-alfabetizacao-na-idade-certa.ghtml)_
+
