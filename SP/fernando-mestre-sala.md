@@ -29,3 +29,6 @@
 - **[2026-09-05 23:51 UTC]** 'Sem peso do ego', Luiza Possi grava disco gospel na Sala São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/evangelicos/2026/09/sem-peso-do-ego-luiza-possi-grava-disco-gospel-na-sala-sao-paulo.shtml)_
 
+- **[2026-09-08 23:00 UTC]** Blue Note abre nova sala para ampliar programação de shows e receber eventos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/09/blue-note-abre-nova-sala-para-ampliar-programacao-de-shows-e-receber-eventos.shtml)_
+
