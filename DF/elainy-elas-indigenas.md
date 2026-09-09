@@ -41,3 +41,6 @@
 - **[2026-09-09 12:35 UTC]** Comissão aprova inclusão de povos indígenas e comunidades tradicionais na agricultura familiar
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303188-comissao-aprova-inclusao-de-povos-indigenas-e-comunidades-tradicionais-na-agricultura-familiar)_
 
+- **[2026-09-09 21:33 UTC]** MPF investiga empresa Voare por queda de helicóptero que matou dois indígenas na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/09/mpf-investiga-empresa-voare-por-queda-de-helicoptero-que-matou-dois-indigenas-na-terra-yanomami.ghtml)_
+
