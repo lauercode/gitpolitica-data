@@ -206,3 +206,6 @@
 - **[2026-09-09 20:20 UTC]** Documento de maternidade ajuda filho a encontrar a mãe biológica após quase 40 anos em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/documento-de-maternidade-ajuda-filho-a-encontrar-a-mae-biologica-apos-quase-40-anos-em-sergipe.ghtml)_
 
+- **[2026-09-09 21:06 UTC]** Eleições 2026: Delegado André David e André Moura cancelam participação em entrevista na FM Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-cancelamento-entrevista-fm-sergipe.ghtml)_
+
