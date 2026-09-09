@@ -32,3 +32,6 @@
 - **[2026-09-08 12:31 UTC]** Marcelo Queiroga, candidato a senador pela Paraíba, diz ser contra o fim da escala 6x1 e a favor da legislação atual sobre aborto
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/marcelo-queiroga-candidato-a-senador-pela-paraiba-diz-ser-contra-o-fim-da-escala-6x1-a-favor-legislacao-atual-aborto.ghtml)_
 
+- **[2026-09-09 04:00 UTC]** MAM de São Paulo reabre com espaços renovados e comunicação visual atual
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/mam-de-sao-paulo-reabre-com-espacos-renovados-e-comunicacao-visual-atual.shtml)_
+
