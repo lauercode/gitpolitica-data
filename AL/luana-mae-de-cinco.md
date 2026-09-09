@@ -170,3 +170,6 @@
 - **[2026-09-09 11:02 UTC]** Um em cada cinco estudantes já fez apostas online, mostra pesquisa
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/um-em-cada-cinco-estudantes-ja-fez-apostas-online-mostra-pesquisa)_
 
+- **[2026-09-09 10:25 UTC]** Agenda dos presidenciáveis: cinco candidatos estão em São Paulo hoje
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/agenda-dos-presidenciaveis-cinco-candidatos-estao-em-sao-paulo-hoje)_
+
