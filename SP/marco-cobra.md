@@ -65,3 +65,6 @@
 - **[2026-09-09 11:55 UTC]** AGU cobra YouTube sobre remoção de vídeos com falsos médicos de IA
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/agu-cobra-youtube-sobre-remocao-de-videos-com-falsos-medicos-de-ia)_
 
+- **[2026-09-09 14:42 UTC]** Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml)_
+
