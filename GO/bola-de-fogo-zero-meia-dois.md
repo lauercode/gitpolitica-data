@@ -320,3 +320,6 @@
 - **[2026-09-08 16:09 UTC]** UFRN cria dois novos cursos de graduação; veja quais
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/ufrn-cria-novos-cursos-graduacao-veja-quais.ghtml)_
 
+- **[2026-09-09 13:57 UTC]** Dois suspeitos morrem em confronto com a Polícia Militar durante operação contra organização criminosa no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/dois-suspeitos-morrem-em-confronto-com-a-policia-militar-durante-operacao-contra-organizacao-criminosa-no-ma.ghtml)_
+
