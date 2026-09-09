@@ -20,3 +20,6 @@
 - **[2026-09-03 10:00 UTC]** Calor extremo no verão francês antecipa colheita de uvas em Champanhe
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/09/calor-extremo-no-verao-frances-antecipa-colheita-de-uvas-em-champanhe.shtml)_
 
+- **[2026-09-09 09:00 UTC]** Club Vittar, projeto de Pabllo Vittar como DJ, anuncia temporada de verão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/club-vittar-projeto-de-pabllo-vittar-como-dj-anuncia-temporada-de-verao.shtml)_
+
