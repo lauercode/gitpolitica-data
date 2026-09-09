@@ -269,3 +269,6 @@
 - **[2026-09-09 10:57 UTC]** Atlas Lithium contrata 71% do orçamento do Projeto Neves; 16% abaixo do previsto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/atlas-lithium-contrata-71-do-orcamento-do-projeto-neves-16-abaixo-do-previsto.shtml)_
 
+- **[2026-09-09 09:00 UTC]** Club Vittar, projeto de Pabllo Vittar como DJ, anuncia temporada de verão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/club-vittar-projeto-de-pabllo-vittar-como-dj-anuncia-temporada-de-verao.shtml)_
+
