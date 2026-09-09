@@ -903,3 +903,6 @@ direitos
 - **[2026-09-09 14:28 UTC]** Câmara de Parauapebas abre processo de impeachment contra prefeito por suposto racismo religioso
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/camara-de-parauapebas-abre-processo-de-impeachment-contra-prefeito-por-suposto-racismo-religioso.ghtml)_
 
+- **[2026-09-09 17:06 UTC]** Câmara dos Deputados anuncia novo concurso público com mais de 150 vagas
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303542-camara-dos-deputados-anuncia-novo-concurso-publico-com-mais-de-150-vagas)_
+
