@@ -158,3 +158,6 @@
 - **[2026-09-09 00:01 UTC]** Após ataque de três pit bulls que deixou um homem morto em praia do RS, saiba qual será o destino dos animais
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/ataque-tres-pit-bulls-homem-morto-praia-rs-saiba-qual-sera-destino-animais.ghtml)_
 
+- **[2026-09-09 16:29 UTC]** Alan Rick promete mudança no governo e diz que saúde será prioridade se eleito
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/alan-rick-promete-mudanca-no-governo-e-diz-que-saude-sera-prioridade-se-eleito.ghtml)_
+
