@@ -1049,3 +1049,6 @@
 - **[2026-09-09 12:16 UTC]** 'Rei do biodiesel' doa R$ 1 milhão às campanhas de Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/rei-do-biodiesel-doa-r-1-milhao-as-campanhas-de-lula-e-flavio.shtml)_
 
+- **[2026-09-09 12:04 UTC]** Flávio Bolsonaro lidera doações eleitorais com R$ 44 mi; Lula recebeu R$ 35,9 mi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-lidera-doacoes-eleitorais-com-r-44-mi-cury-recebe-menos-entre-melhores-colocados.shtml)_
+
