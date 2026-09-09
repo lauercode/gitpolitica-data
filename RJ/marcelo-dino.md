@@ -53,3 +53,6 @@
 - **[2026-09-09 12:58 UTC]** Veja o que disseram os presidenciáveis sobre a decisão de Dino que devolveu Andrei à direção-geral da PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-decisao-dino-andrei-direcao-pf.ghtml)_
 
+- **[2026-09-09 12:37 UTC]** Reintegração de diretor da PF: veja os principais argumentos de Dino para reverter decisão de Mendonça sobre Andrei Rodrigues
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/reintegracao-de-diretor-da-pf-veja-os-principais-argumentos-de-dino-para-reverter-decisao-de-mendonca-sobre-andrei-rodrigues.ghtml)_
+
