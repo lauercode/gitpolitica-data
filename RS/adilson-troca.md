@@ -65,3 +65,6 @@
 - **[2026-09-09 02:28 UTC]** Delegado Alessandro fala sobre desafios do Senado, apoio a Caiado e troca de partidos durante mandato
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/delegado-alessandro-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-09 13:32 UTC]** Assalto com reféns termina com três suspeitos mortos em troca de tiros com a polícia em Castanhal
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/assalto-com-refens-termina-com-tres-suspeitos-mortos-em-troca-de-tiros-com-a-policia-em-castanhal.ghtml)_
+
