@@ -80,3 +80,6 @@
 - **[2026-09-08 16:07 UTC]** Polícia investiga desafio na internet após morte de menino 7 anos em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-investiga-desafio-na-internet-apos-morte-de-menino-7-anos-em-sp.shtml)_
 
+- **[2026-09-09 14:05 UTC]** Mãe e padrasto são presos suspeitos de espancar e matar menino de 3 anos no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/mae-e-padrasto-sao-presos-suspeitos-de-espancar-e-matar-menino-de-3-anos-no-interior-do-acre.ghtml)_
+
