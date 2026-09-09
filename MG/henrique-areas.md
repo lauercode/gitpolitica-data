@@ -59,3 +59,6 @@
 - **[2026-09-06 21:01 UTC]** Emprego em Sergipe: plataforma digital do NAT oferta vagas para diversas áreas
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/06/emprego-em-sergipe-plataforma-digital-do-nat-oferta-vagas-para-diversas-areas.ghtml)_
 
+- **[2026-09-09 19:42 UTC]** Áreas atingidas por fogo em Palmas aumentam 20% comparado com 2025
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/areas-atingidas-por-fogo-em-palmas-aumentam-20-comparado-com-2025)_
+
