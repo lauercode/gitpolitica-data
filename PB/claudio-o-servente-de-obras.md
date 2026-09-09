@@ -101,3 +101,6 @@
 - **[2026-09-08 22:44 UTC]** Eleições 2026 em SC: João Rodrigues visita obras na BR-282 e participa de sabatina com entidades do estado
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-na-br-282-e-participa-de-sabatina-com-entidades-do-estado.ghtml)_
 
+- **[2026-09-09 02:16 UTC]** Edvaldo Nogueira afirma que PDT não está isolado, defende fim da escala 6x1 e diz que vai atuar para destravar obras
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/edvaldo-nogueira-entrevista-fm-sergipe.ghtml)_
+
