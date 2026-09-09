@@ -452,3 +452,6 @@
 - **[2026-09-09 23:13 UTC]** PF pede oitiva com presidente e ex-presidente do Banco Central
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/pf-pede-oitiva-com-presidente-e-ex-presidente-do-banco-central/)_
 
+- **[2026-09-09 21:33 UTC]** Fachin sob pressão: como presidente do STF tenta debelar crise às vésperas de eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
+
