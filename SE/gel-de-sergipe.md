@@ -203,3 +203,6 @@
 - **[2026-09-09 17:28 UTC]** Resultado Mega-Sena 3055: apostas de Sergipe acertam quadra; veja valores
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/resultado-mega-sena-3055-apostas-de-sergipe-acertam-quadra-veja-valores.ghtml)_
 
+- **[2026-09-09 20:20 UTC]** Documento de maternidade ajuda filho a encontrar a mãe biológica após quase 40 anos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/documento-de-maternidade-ajuda-filho-a-encontrar-a-mae-biologica-apos-quase-40-anos-em-sergipe.ghtml)_
+
