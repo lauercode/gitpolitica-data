@@ -17,3 +17,6 @@
 - **[2026-09-09 20:21 UTC]** André Mendonça manda soltar filho do “Careca do INSS”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-manda-soltar-filho-do-careca-do-inss/)_
 
+- **[2026-09-09 18:23 UTC]** André Mendonça manda soltar filho do "Careca do INSS"
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/andre-mendonca-manda-soltar-filho-do-careca-do-inss)_
+
