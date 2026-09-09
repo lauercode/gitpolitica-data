@@ -104,3 +104,6 @@
 - **[2026-09-09 02:16 UTC]** Edvaldo Nogueira afirma que PDT não está isolado, defende fim da escala 6x1 e diz que vai atuar para destravar obras
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/edvaldo-nogueira-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-09 13:44 UTC]** Obras da ponte de Palmas chegam a 87,49% de execução
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/obras-da-ponte-de-palmas-chegam-a-8749percent-de-execucao.ghtml)_
+
