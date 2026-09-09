@@ -161,3 +161,6 @@
 - **[2026-09-09 11:49 UTC]** Condutor de jet ski envolvido em acidente na Grande Natal se apresenta à polícia; engenheiro morreu
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/09/condutor-jet-ski-envolvido-acidente-grande-natal-se-apresenta-a-policia.ghtml)_
 
+- **[2026-09-09 16:46 UTC]** Avós tentaram criar menino de 3 anos que morreu com sinais de maus-tratos no AC: 'Fazia de tudo por ele'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/avos-tentaram-criar-menino-de-3-anos-que-morreu-com-sinais-de-maus-tratos-no-ac-fazia-de-tudo-por-ele.ghtml)_
+
