@@ -89,3 +89,6 @@
 - **[2026-09-09 13:31 UTC]** Quem foi Zélia Amador, professora emérita da UFPA e referência na luta antirracista na Amazônia
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/quem-foi-zelia-amador-professora-emerita-da-ufpa-e-referencia-na-luta-antirracista-na-amazonia.ghtml)_
 
+- **[2026-09-09 14:42 UTC]** Da aprovação à disputa na Justiça: veja cronologia do caso da professora do RS que passou em concurso mas foi impedida de assumir
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/da-aprovacao-a-disputa-na-justica-veja-cronologia-do-caso-da-professora-do-rs-que-passou-em-concurso-mas-foi-impedida-de-assumir.ghtml)_
+
