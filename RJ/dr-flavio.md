@@ -1061,3 +1061,6 @@
 - **[2026-09-09 17:08 UTC]** Flávio Dino anula decisão de André Mendonça e devolve comando da Polícia Federal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-anula-decisao-de-andre-mendonca-e-devolve-comando-da-policia-federal/)_
 
+- **[2026-09-09 18:28 UTC]** Dino reintegra Andrei à direção da PF; Lula pede quebra de sigilo do Master e Flávio acusa ministro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
+
