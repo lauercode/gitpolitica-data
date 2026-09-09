@@ -404,3 +404,6 @@
 - **[2026-09-09 00:03 UTC]** Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta terça-feira (8)
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-terca-feira-8.ghtml)_
 
+- **[2026-09-08 23:33 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 8 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-8-de-setembro-de-2026.ghtml)_
+
