@@ -230,3 +230,6 @@
 - **[2026-09-08 20:31 UTC]** Senac pesquisa egressos para avaliar impacto dos cursos no mercado de trabalho
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/fecomercio-ac-transformando-vidas-fortalecendo-empresas-e-construindo-futuros/noticia/2026/09/08/senac-pesquisa-egressos-para-avaliar-impacto-dos-cursos-no-mercado-de-trabalho.ghtml)_
 
+- **[2026-09-09 04:00 UTC]** SP lidera ações na Justiça por assédio eleitoral no trabalho; veja ranking
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/sp-lidera-acoes-na-justica-por-assedio-eleitoral-no-trabalho-veja-ranking.shtml)_
+
