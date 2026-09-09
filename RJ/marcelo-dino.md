@@ -140,3 +140,6 @@
 - **[2026-09-09 19:56 UTC]** Decisões de Dino e de Mendonça sobre chefe da PF anuladas por Fachin tinham hierarquia? Entenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decisoes-de-dino-e-de-mendonca-sobre-chefe-da-pf-anuladas-por-fachin-tinham-hierarquia-entenda.shtml)_
 
+- **[2026-09-09 18:48 UTC]** Fachin diz que decisões de Mendonça e Dino sobre a PF representam 'grave lesão à ordem pública'; leia íntegra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-diz-que-decisoes-de-mendonca-e-dino-sobre-a-pf-representam-grave-lesao-a-ordem-publica-leia-integra.shtml)_
+
