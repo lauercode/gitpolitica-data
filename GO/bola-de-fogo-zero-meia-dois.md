@@ -329,3 +329,6 @@
 - **[2026-09-09 16:16 UTC]** São Paulo confirma dois novos casos de sarampo; total chega a 30
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-dois-novos-casos-de-sarampo)_
 
+- **[2026-09-09 17:55 UTC]** São Paulo confirma mais dois casos de sarampo e chega a 30 em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/sao-paulo-confirma-mais-dois-casos-de-sarampo-e-chega-a-30-em-2026.shtml)_
+
