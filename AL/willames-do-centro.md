@@ -203,3 +203,6 @@
 - **[2026-09-08 11:00 UTC]** Crise e campanhas põem STF no centro da luta eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/crise-e-campanhas-poem-stf-no-centro-da-luta-eleitoral.shtml)_
 
+- **[2026-09-09 10:00 UTC]** ANPD prepara centro de inteligência artificial e mira rolagem infinita, diz diretora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/anpd-prepara-centro-de-inteligencia-artificial-e-mira-rolagem-infinita-diz-diretora.shtml)_
+
