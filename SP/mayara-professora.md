@@ -83,3 +83,6 @@
 - **[2026-09-09 03:00 UTC]** 2ª doutora mais jovem do Brasil e sonho de ser professora: quem é a estudante impedida de assumir vaga em concurso público
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quem-e-professora-impedida-assumir-concurso-doenca-ifrs-rs.ghtml)_
 
+- **[2026-09-09 09:25 UTC]** Crise aprofundada no STF ameaça repetir 'estrago' da Lava Jato nas instituições e na campanha eleitoral, diz professora da FGV
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn4k321em39o?at_medium=RSS&at_campaign=rss)_
+
