@@ -17,3 +17,6 @@
 - **[2026-09-07 16:58 UTC]** Ônibus com estudantes e professores tomba em rodovia no Acre; aluna machucou o braço
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/onibus-com-estudantes-e-professores-tomba-em-rodovia-do-acre.ghtml)_
 
+- **[2026-09-08 23:21 UTC]** VÍDEO: Caminhão com 80 porcos tomba após falha mecânica em rodovia do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/video-caminhao-com-porcos-tomba-apos-falha-mecanica-em-rodovia-do-acre.ghtml)_
+
