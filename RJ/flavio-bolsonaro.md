@@ -818,3 +818,6 @@
 - **[2026-09-08 23:00 UTC]** Afastamento de Andrei Rodrigues por Mendonça remete a interferências de Bolsonaro na PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/afastamento-de-andrei-rodrigues-por-mendonca-remete-a-interferencias-de-bolsonaro-na-pf.shtml)_
 
+- **[2026-09-09 07:00 UTC]** Quaest em MG: Flávio Bolsonaro aparece numericamente à frente de Lula no 2º turno; veja números por perfil do eleitorado
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/09/quaest-em-mg-flavio-bolsonaro-aparece-numericamente-a-frente-de-lula-no-2o-turno-veja-numeros-por-perfil-do-eleitorado.ghtml)_
+
