@@ -194,3 +194,6 @@
 - **[2026-09-07 23:00 UTC]** Senadores admitem chance de impeachment no STF e veem Alcolumbre à espera das eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/senadores-admitem-chance-de-impeachment-no-stf-e-veem-alcolumbre-a-espera-das-eleicoes.shtml)_
 
+- **[2026-09-08 23:18 UTC]** Senador pede impeachment de Moraes, prisão do diretor da PF e afastamento de Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-pede-impeachment-de-moraes-prisao-do-diretor-da-pf-e-afastamento-de-alcolumbre/)_
+
