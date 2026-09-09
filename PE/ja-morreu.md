@@ -155,3 +155,6 @@
 - **[2026-09-07 19:40 UTC]** Amigos e familiares se despedem de adolescente que morreu durante 'pega de boi' em Poço Redondo
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/corpo-de-adolescente-que-morreu-durante-pega-de-boi-e-velado-em-poco-redondo.ghtml)_
 
+- **[2026-09-09 12:25 UTC]** Detentos fazem motim em penitenciária do Amapá; um morreu
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/09/detentos-fazem-motim-em-presidio-no-ap-e-grupo-tatico-intervem-para-conter-revolta.ghtml)_
+
