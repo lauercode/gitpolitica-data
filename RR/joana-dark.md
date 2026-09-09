@@ -113,3 +113,6 @@
 - **[2026-09-09 19:39 UTC]** Recursos para 'Dark Horse', malas para dinheiro vivo e repasses nas Bahamas: o que se sabe da delação de empresário ligado a Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/recursos-para-dark-horse-malas-para-dinheiro-vivo-e-repasses-nas-bahamas-o-que-se-sabe-da-delacao-de-empresario-ligado-a-vorcaro.ghtml)_
 
+- **[2026-09-09 18:59 UTC]** Mendonça homologa delação de empresário responsável por pagamentos a fundo que bancou 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/mendonca-homologa-delacao-de-mineiro.ghtml)_
+
