@@ -173,3 +173,6 @@
 - **[2026-09-08 23:58 UTC]** Fachin dá 72 horas para Mendonça se manifestar sobre pedido da AGU para suspender afastamento do diretor da PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/fachin-da-72-horas-para-mendonca-se-manifestar-sobre-pedido-da-agu-para-suspender-afastamento-do-diretor-da-pf.ghtml)_
 
+- **[2026-09-08 23:02 UTC]** Delegados dizem que diretor da PF não pode ser afastado por decisão monocrática e defendem análise pelo plenário do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/nota-delegados-pf-afastamento-andrei.ghtml)_
+
