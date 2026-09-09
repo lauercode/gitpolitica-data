@@ -176,3 +176,6 @@
 - **[2026-09-08 23:02 UTC]** Delegados dizem que diretor da PF não pode ser afastado por decisão monocrática e defendem análise pelo plenário do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/nota-delegados-pf-afastamento-andrei.ghtml)_
 
+- **[2026-09-09 00:52 UTC]** Associação de delegados critica ordem de Mendonça contra diretor da PF e cobra análise do plenário
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/associacao-de-delegados-critica-ordem-de-mendonca-contra-diretor-da-pf-e-cobra-analise-do-plenario/)_
+
