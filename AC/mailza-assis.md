@@ -11,3 +11,6 @@
 - **[2026-09-02 14:36 UTC]** Mailza Assis participa de bandeiraço e promete investir em saneamento e arborização
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/02/mailza-assis-participa-de-bandeiraco-e-promete-investir-em-saneamento-e-arborizacao.ghtml)_
 
+- **[2026-09-09 18:56 UTC]** Mailza Assis diz que pretende ouvir demandas da população para definir políticas públicas se reeleita
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/mailza-assis-diz-que-pretende-ouvir-demandas-da-populacao-para-definir-politicas-publicas-se-reeleita.ghtml)_
+
