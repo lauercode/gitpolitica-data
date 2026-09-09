@@ -215,3 +215,6 @@
 - **[2026-09-09 18:19 UTC]** Comissão aprova direito de mulheres e idosos desembarcarem fora da parada de ônibus à noite
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303283-comissao-aprova-direito-de-mulheres-e-idosos-desembarcarem-fora-da-parada-de-onibus-a-noite)_
 
+- **[2026-09-09 17:26 UTC]** Professor de Direito suspeito de crimes contra 10 mulheres segue solto após nova decisão da Justiça do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/professor-de-direito-suspeito-de-crimes-sexuais-solto-apos-nova-decisao.ghtml)_
+
