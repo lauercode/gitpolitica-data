@@ -86,3 +86,6 @@
 - **[2026-09-09 22:35 UTC]** Delegado diz que irmãos desaparecidos do MA não estão entre os localizados em operação nos EUA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/delegado-diz-que-irmaos-desaparecidos-do-ma-nao-estao-entre-os-localizados-em-operacao-nos-eua.ghtml)_
 
+- **[2026-09-09 21:06 UTC]** Eleições 2026: Delegado André David e André Moura cancelam participação em entrevista na FM Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-cancelamento-entrevista-fm-sergipe.ghtml)_
+
