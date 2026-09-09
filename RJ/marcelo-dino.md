@@ -137,3 +137,6 @@
 - **[2026-09-09 23:13 UTC]** Fachin tenta retomar controle do STF, freia Mendonça e Dino e impõe revés a Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/fachin-controle-stf-medonca-dino-moraes.ghtml)_
 
+- **[2026-09-09 19:56 UTC]** Decisões de Dino e de Mendonça sobre chefe da PF anuladas por Fachin tinham hierarquia? Entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decisoes-de-dino-e-de-mendonca-sobre-chefe-da-pf-anuladas-por-fachin-tinham-hierarquia-entenda.shtml)_
+
