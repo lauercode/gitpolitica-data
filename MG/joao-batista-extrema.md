@@ -71,3 +71,6 @@
 - **[2026-09-07 23:00 UTC]** Vitória da extrema direita em estado da Alemanha envia sinal à Europa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/vitoria-da-extrema-direita-em-estado-da-alemanha-envia-sinal-a-europa.shtml)_
 
+- **[2026-09-08 23:00 UTC]** Vitória da extrema direita na Alemanha confronta a Europa com os seus fantasmas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rui-tavares/2026/09/vitoria-da-extrema-direita-na-alemanha-confronta-a-europa-com-os-seus-fantasmas.shtml)_
+
