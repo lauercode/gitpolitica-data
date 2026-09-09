@@ -56,3 +56,6 @@
 - **[2026-09-08 14:45 UTC]** Piloto de asa-delta que sofreu acidente há duas semanas sai do coma, respira sem aparelhos e deve ter alta da UTI 'em breve', diz hospital
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/piloto-de-asa-delta-que-sofreu-acidente-ha-duas-semanas-sai-do-coma-respira-sem-aparelhos-e-deve-ter-alta-da-uti-em-breve-diz-hospital.ghtml)_
 
+- **[2026-09-09 18:23 UTC]** Piloto de paramotor fica preso em árvore ao tentar passar por fenda na Serra do Corvo Branco; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/piloto-paramotor-preso-arvore-fenda-serra-do-corvo-branco-video.ghtml)_
+
