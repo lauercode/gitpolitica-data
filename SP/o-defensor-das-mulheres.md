@@ -212,3 +212,6 @@
 - **[2026-09-09 00:40 UTC]** Gal Leite, da UP, quer integrar secretarias para qualificar mulheres e combater violência no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/08/gal-da-up-quer-integrar-secretarias-para-qualificar-mulheres-e-combater-violencia-no-para.ghtml)_
 
+- **[2026-09-09 18:19 UTC]** Comissão aprova direito de mulheres e idosos desembarcarem fora da parada de ônibus à noite
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303283-comissao-aprova-direito-de-mulheres-e-idosos-desembarcarem-fora-da-parada-de-onibus-a-noite)_
+
