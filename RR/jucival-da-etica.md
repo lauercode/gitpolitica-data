@@ -14,3 +14,6 @@
 - **[2026-09-08 12:29 UTC]** Entidade empresarial defende em carta ética e apuração dos fatos no STF em meio ao caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/entidade-empresarial-defende-em-carta-etica-e-apuracao-dos-fatos-no-stf-em-meio-ao-caso-master.shtml)_
 
+- **[2026-09-08 21:13 UTC]** Representantes de empresas e da sociedade civil lançam manifestos e cobram ética e urgência do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/representantes-de-empresas-e-da-sociedade-civil-lancam-manifestos-e-cobram-etica-e-urgencia-do-stf.shtml)_
+
