@@ -29,3 +29,6 @@
 - **[2026-08-29 21:09 UTC]** Moto avança sinal vermelho, é atingida por carro e dois ficam feridos em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/moto-avanca-sinal-vermelho-e-atingida-por-carro-e-dois-ficam-feridos-em-boa-vista.ghtml)_
 
+- **[2026-09-09 16:42 UTC]** Paraná tem 265 cidades sob alerta vermelho de tempestade; veja lista
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/alerta-vermelho-parana-tempestade.ghtml)_
+
