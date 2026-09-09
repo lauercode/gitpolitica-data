@@ -116,3 +116,6 @@
 - **[2026-09-09 18:59 UTC]** Mendonça homologa delação de empresário responsável por pagamentos a fundo que bancou 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/mendonca-homologa-delacao-de-mineiro.ghtml)_
 
+- **[2026-09-09 16:12 UTC]** Delação homologada por Mendonça envolve operador de Vorcaro que fez repasses ao 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-homologa-delacao-de-empresario-que-fez-repasses-ao-dark-horse.shtml)_
+
