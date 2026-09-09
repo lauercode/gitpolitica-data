@@ -86,3 +86,6 @@
 - **[2026-09-09 09:25 UTC]** Crise aprofundada no STF ameaça repetir 'estrago' da Lava Jato nas instituições e na campanha eleitoral, diz professora da FGV
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn4k321em39o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 13:31 UTC]** Quem foi Zélia Amador, professora emérita da UFPA e referência na luta antirracista na Amazônia
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/quem-foi-zelia-amador-professora-emerita-da-ufpa-e-referencia-na-luta-antirracista-na-amazonia.ghtml)_
+
