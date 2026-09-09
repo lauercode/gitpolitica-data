@@ -830,3 +830,6 @@
 - **[2026-09-09 12:04 UTC]** Flávio Bolsonaro lidera doações eleitorais com R$ 44 mi; Lula recebeu R$ 35,9 mi
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-lidera-doacoes-eleitorais-com-r-44-mi-cury-recebe-menos-entre-melhores-colocados.shtml)_
 
+- **[2026-09-09 18:05 UTC]** Flávio repete trajeto de facada sofrida por Bolsonaro no ombro do povo em Juiz de Fora (MG)
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-repete-trajeto-de-facada-sofrida-por-bolsonaro-no-ombro-do-povo-em-juiz-de-fora-mg/)_
+
