@@ -26,3 +26,6 @@
 - **[2026-09-09 12:04 UTC]** VÍDEO: Queimadas fazem Manaus amanhecer encoberta de fumaça pelo 2º dia seguido; qualidade do ar chegou a nível 'muito ruim'
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/qualidade-do-ar-fica-ruim-em-manaus-pelo-segundo-dia-seguido-apos-fumaca-encobrir-a-cidade.ghtml)_
 
+- **[2026-09-09 20:35 UTC]** Saiba de onde pode estar vindo a fumaça que encobre Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/saiba-de-onde-pode-estar-vindo-a-fumaca-que-encobre-manaus.ghtml)_
+
