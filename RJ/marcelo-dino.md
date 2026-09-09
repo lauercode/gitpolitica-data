@@ -77,3 +77,6 @@
 - **[2026-09-09 13:07 UTC]** Dino acusa Mendonça de “divergências” com PF e encontro com Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-acusa-mendonca-divergencias-pf-encontro-vorcaro/)_
 
+- **[2026-09-09 13:08 UTC]** Dino reintegra diretor-geral da PF afastado por Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-reintegra-diretor-geral-pf-afastado-mendonca/)_
+
