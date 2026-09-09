@@ -17,3 +17,6 @@
 - **[2026-09-02 22:06 UTC]** Eleições 2026 em SC: Jorginho Mello encontra apoiadores e visita clube de tênis no Norte
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-em-sc-jorginho-mello-encontra-apoiadores-e-visita-clube-de-tenis-no-norte.ghtml)_
 
+- **[2026-09-09 16:18 UTC]** CazéTV contrata sobrinho de Fernando Meligeni para comandar programa sobre tênis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/cazetv-contrata-sobrinho-de-fernando-meligeni-para-comandar-programa-sobre-tenis.shtml)_
+
