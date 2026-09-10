@@ -224,3 +224,6 @@
 - **[2026-09-09 23:39 UTC]** Fachin dá 48 horas para Andrei prestar informações; presidente ainda vai decidir se diretor fica no cargo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-da-48-horas-para-andrei-prestar-informacoes-presidente-ainda-vai-decidir-se-diretor-fica-no-cargo.ghtml)_
 
+- **[2026-09-09 23:00 UTC]** PT, diretor de subsidiária da Petrobras e doutoranda da USP estão entre maiores doadores de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pt-diretor-de-subsidiaria-da-petrobras-e-doutoranda-da-usp-estao-entre-maiores-doadores-de-lula.shtml)_
+
