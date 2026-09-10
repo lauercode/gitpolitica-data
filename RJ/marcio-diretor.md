@@ -227,3 +227,6 @@
 - **[2026-09-09 23:00 UTC]** PT, diretor de subsidiária da Petrobras e doutoranda da USP estão entre maiores doadores de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pt-diretor-de-subsidiaria-da-petrobras-e-doutoranda-da-usp-estao-entre-maiores-doadores-de-lula.shtml)_
 
+- **[2026-09-10 13:16 UTC]** Diretor da PF promete apontar 'erros' da decisão que o afastou e Planalto espera resposta esclarecedora ao STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/diretor-da-pf-promete-apontar-erros-da-decisao-que-o-afastou-e-planalto-espera-resposta-esclarecedora-ao-stf.shtml)_
+
