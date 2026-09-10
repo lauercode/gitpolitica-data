@@ -68,3 +68,6 @@
 - **[2026-09-10 04:01 UTC]** 'Momento mais triste da vida': o relato da mulher que denunciou o namorado por transmissão intencional de HIV em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/10/momento-mais-triste-da-vida-o-relato-da-mulher-que-denunciou-o-namorado-por-transmissao-intencional-de-hiv-em-ro.ghtml)_
 
+- **[2026-09-10 14:35 UTC]** Considerado melhor show do Rock in Rio, Jota Quest foi 'batizado' por Tim Maia em festival no RS nos anos 1990; veja VÍDEO do momento
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/jota-quest-batizado-tim-maia-festival-rs.ghtml)_
+
