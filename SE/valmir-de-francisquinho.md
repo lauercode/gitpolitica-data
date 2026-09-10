@@ -23,3 +23,6 @@
 - **[2026-09-07 22:40 UTC]** Eleições 2026: Valmir de Francisquinho diz que índice de alfabetização precisa melhorar
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-valmir-de-francisquinho-diz-que-indice-de-alfabetizacao-precisa-melhorar.ghtml)_
 
+- **[2026-09-10 22:41 UTC]** Eleições 2026: Valmir de Francisquinho diz que Sergipe precisa ter lei de incentivo à cultura
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-valmir-de-francisquinho-diz-que-sergipe-precisa-ter-lei-de-incentivo-a-cultura.ghtml)_
+
