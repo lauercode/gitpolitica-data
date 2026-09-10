@@ -59,3 +59,6 @@
 - **[2026-09-08 22:42 UTC]** Cachorro é resgatado de bueiro após passar três dias preso em Manaus; VÍDEO
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/08/cachorro-e-resgatado-de-bueiro-apos-passar-tres-dias-preso-em-manaus-video.ghtml)_
 
+- **[2026-09-10 13:17 UTC]** Cachorro-quente, o lanche com latidos regionais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/nacao-churrasqueira/2026/09/cachorro-quente-o-lanche-com-latidos-regionais.shtml)_
+
