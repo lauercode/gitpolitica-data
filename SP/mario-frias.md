@@ -56,3 +56,6 @@
 - **[2026-09-10 13:48 UTC]** Dino cita risco de evasão e proíbe deputado Mario Frias de deixar país
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-cita-risco-de-evasao-e-proibe-deputado-mario-frias-de-deixar-pais)_
 
+- **[2026-09-10 15:35 UTC]** Ministro do STF Flávio Dino proíbe Mario Frias de sair do país
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/ministro-do-stf-flavio-dino-proibe-mario-frias-de-sair-do-pais)_
+
