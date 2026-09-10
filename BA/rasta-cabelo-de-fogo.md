@@ -131,3 +131,6 @@
 - **[2026-09-10 20:07 UTC]** Casa é destruída por incêndio após morador esquecer panela no fogo em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/10/casa-e-destruida-por-incendio-apos-morador-esquecer-panela-no-fogo-em-ro.ghtml)_
 
+- **[2026-09-10 22:19 UTC]** Carreta pega fogo na Br-174 em Pacaraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/carreta-pega-fogo-na-br-174-em-pacaraima.ghtml)_
+
