@@ -77,3 +77,6 @@
 - **[2026-09-10 13:53 UTC]** Caso 'Dark Horse': Dino proíbe Mario Frias de sair do país e ter contato com outros investigados
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml)_
 
+- **[2026-09-10 17:59 UTC]** Dino diz haver indícios de desvio de recursos por Frias a organizações ligadas a “Dark Horse”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-indicios-desvio-recursos-frias-dark-horse/)_
+
