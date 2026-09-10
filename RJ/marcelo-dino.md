@@ -167,3 +167,6 @@
 - **[2026-09-10 01:26 UTC]** Fachin suspende ordens de Mendonça e Dino sobre o comando da Polícia Federal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-suspende-ordens-de-mendonca-e-dino-sobre-o-comando-da-policia-federal/)_
 
+- **[2026-09-10 10:52 UTC]** PF faz operação sobre filme Dark Horse autorizada por Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-faz-operacao-sobre-filme-dark-horse-autorizada-por-dino/)_
+
