@@ -17,3 +17,6 @@
 - **[2026-09-08 14:15 UTC]** Jessie J anuncia pausa nas redes após câncer de mama
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/jessie-j-anuncia-pausa-nas-redes-apos-cancer-de-mama.shtml)_
 
+- **[2026-09-10 11:20 UTC]** Anvisa aprova novas indicações para remédio que trata câncer de mama
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-novas-indicacoes-para-rem%C3%A9dio-que-trata-cancer-de-mama)_
+
