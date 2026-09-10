@@ -62,3 +62,6 @@
 - **[2026-09-09 17:09 UTC]** Crise no STF pode antecipar dupla indicada por Bolsonaro no comando da Corte
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-pode-antecipar-dupla-indicada-por-bolsonaro-no-comando-da-corte/)_
 
+- **[2026-09-10 03:00 UTC]** 'Zelar pela integridade da Corte': Fachin envia recados em meio à crise no STF; veja o que pode acontecer
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/zelar-pela-integridade-da-corte-fachin-envia-recados-em-meio-a-crise-no-stf-veja-o-que-pode-acontecer.ghtml)_
+
