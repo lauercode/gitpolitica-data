@@ -1268,3 +1268,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 06:05 UTC]** OAB exige que Paulo Gonet deixe investigação sobre Alexandre de Moraes no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-exige-que-paulo-gonet-deixe-investigacao-sobre-alexandre-de-moraes-no-stf/)_
 
+- **[2026-09-10 04:26 UTC]** Edson Fachin assume inquérito das fake news e marca julgamento sobre Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/edson-fachin-assume-inquerito-das-fake-news-e-marca-julgamento-sobre-moraes/)_
+
