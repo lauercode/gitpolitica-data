@@ -170,3 +170,6 @@
 - **[2026-09-10 10:52 UTC]** PF faz operação sobre filme Dark Horse autorizada por Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-faz-operacao-sobre-filme-dark-horse-autorizada-por-dino/)_
 
+- **[2026-09-10 13:53 UTC]** Dino proíbe Mario Frias de sair do país e ter contato com outros investigados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml)_
+
