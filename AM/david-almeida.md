@@ -32,3 +32,6 @@
 - **[2026-09-10 00:19 UTC]** Eleições 2026: David Almeida participa de entrevista e propõe programa de asfaltamento de vias no interior
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-programa-de-asfaltamento-de-vias-no-interior.ghtml)_
 
+- **[2026-09-10 18:08 UTC]** Eleições 2026: David Almeida participa de entrevista e defende investimento em tecnologia policial
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-david-almeida-participa-de-entrevista-e-defende-investimento-em-tecnologia-policial.ghtml)_
+
