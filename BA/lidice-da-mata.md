@@ -125,3 +125,6 @@
 - **[2026-09-09 23:48 UTC]** VÍDEO: fogo atinge área de mata perto de rodovia no interior do Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/09/video-fogo-atinge-area-de-mata-perto-de-rodovia-no-interior-do-amapa.ghtml)_
 
+- **[2026-09-10 09:48 UTC]** Causa da morte de jovem encontrada em área de mata em João Pessoa é indeterminada, diz perícia
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/causa-da-morte-de-jovem-encontrada-em-area-de-mata-em-joao-pessoa-e-indeterminada-diz-pericia.ghtml)_
+
