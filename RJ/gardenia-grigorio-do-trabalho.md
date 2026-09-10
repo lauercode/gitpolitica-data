@@ -242,3 +242,6 @@
 - **[2026-09-10 19:40 UTC]** Operação liberta quase 500 pessoas em trabalho análogo à escravidão
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-09/operacao-liberta-quase-500-pessoas-em-trabalho-analogo-escravidao)_
 
+- **[2026-09-10 21:29 UTC]** Homem morre em acidente de trabalho no município de Bragança, nordeste do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/homem-morre-em-acidente-de-trabalho-no-municipio-de-braganca-nordeste-do-para.ghtml)_
+
