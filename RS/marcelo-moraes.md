@@ -1349,3 +1349,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 19:48 UTC]** Escândalo envolvendo Moraes e o STF é uma ameaça à democracia do Brasil, diz The Economist
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/escandalo-envolvendo-moraes-e-o-stf-e-uma-ameaca-a-democracia-do-brasil-diz-the-economist/)_
 
+- **[2026-09-10 22:57 UTC]** Fachin faz nova rodada de consultas internas e alas do STF discutem cenários para relatório sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/fachin-faz-nova-rodada-de-consultas-internas-e-alas-do-stf-discutem-cenarios-para-relatorio-sobre-moraes.ghtml)_
+
