@@ -11,3 +11,6 @@
 - **[2026-09-08 18:25 UTC]** Santos encaminha contratação de Everton Cebolinha e avalia Coutinho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/santos-encaminha-contratacao-de-everton-cebolinha-e-avalia-coutinho.shtml)_
 
+- **[2026-09-10 17:00 UTC]** Santos encaminha contratação de Coutinho após pedido de Neymar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/santos-encaminha-contratacao-de-coutinho-apos-pedido-de-neymar.shtml)_
+
