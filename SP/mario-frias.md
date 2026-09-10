@@ -83,3 +83,6 @@
 - **[2026-09-10 16:35 UTC]** Entenda as duas investigações sobre 'Dark Horse': uma envolve Daniel Vorcaro, e a outra, Mario Frias
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj9xz29p70eo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 20:43 UTC]** PF identifica R$ 1,4 milhão de Frias e empresa investigada para produtora de filme sobre Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-identifica-r-14-milhao-de-frias-e-empresa-investigada-para-produtora-de-filme-sobre-bolsonaro.ghtml)_
+
