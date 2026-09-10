@@ -71,3 +71,6 @@
 - **[2026-09-10 16:03 UTC]** Caso 'Dark Horse': veja argumentos de Dino para puxar apuração de SP contra Mario Frias para STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-veja-argumentos-de-dino-para-puxar-apuracao-de-sp-contra-mario-frias-para-o-stf.ghtml)_
 
+- **[2026-09-10 15:07 UTC]** Gastos com filme 'Dark Horse' coincidem com envio de emendas de Mario Frias para produtora, aponta PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-aponta-coincidencia-entre-gastos-durante-gravacoes-de-filme-sobre-bolsonaro-e-transferencias-para-produtora.ghtml)_
+
