@@ -32,3 +32,6 @@
 - **[2026-09-07 16:53 UTC]** Brasileirão encerra 26ª rodada nesta segunda com Vitória e Grêmio
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/brasileirao-encerra-26a-rodada-nesta-segunda-com-vitoria-e-gremio)_
 
+- **[2026-09-10 22:57 UTC]** Fachin faz nova rodada de consultas internas e alas do STF discutem cenários para relatório sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/fachin-faz-nova-rodada-de-consultas-internas-e-alas-do-stf-discutem-cenarios-para-relatorio-sobre-moraes.ghtml)_
+
