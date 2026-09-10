@@ -128,3 +128,6 @@
 - **[2026-09-10 14:01 UTC]** Presos ateiam fogo em delegacia do AM durante motim após policiais encontrarem buraco em cela; VÍDEO
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/10/presos-ateiam-fogo-em-delegacia-do-am-durante-motim-apos-policiais-encontrarem-buraco-em-cela-video.ghtml)_
 
+- **[2026-09-10 20:07 UTC]** Casa é destruída por incêndio após morador esquecer panela no fogo em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/10/casa-e-destruida-por-incendio-apos-morador-esquecer-panela-no-fogo-em-ro.ghtml)_
+
