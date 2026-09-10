@@ -455,3 +455,6 @@
 - **[2026-09-10 19:27 UTC]** Thor Dantas defende fortalecimento do cooperativismo para ampliar produção e exportações do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/10/thor-dantas-defende-fortalecimento-do-cooperativismo-para-ampliar-producao-e-exportacoes-do-acre.ghtml)_
 
+- **[2026-09-10 21:55 UTC]** Nova CNH: Acre aparece entre estados com maiores aumentos de emissão
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/nova-cnh-acre-aparece-entre-estados-com-maiores-aumentos-de-emissao.ghtml)_
+
