@@ -1325,3 +1325,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 13:19 UTC]** Moraes cancela pronunciamento no STF após crise na Corte
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/moraes-cancela-pronunciamento-no-stf-apos-crise-na-corte)_
 
+- **[2026-09-10 13:37 UTC]** Moraes e Toffoli não podem votar no dia 15
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/moraes-e-toffoli-nao-podem-votar-no-dia-15.shtml)_
+
