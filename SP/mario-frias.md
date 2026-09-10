@@ -59,3 +59,6 @@
 - **[2026-09-10 15:35 UTC]** Ministro do STF Flávio Dino proíbe Mario Frias de sair do país
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/ministro-do-stf-flavio-dino-proibe-mario-frias-de-sair-do-pais)_
 
+- **[2026-09-10 17:04 UTC]** PF aponta que projeto financiado com emenda de Mário Frias pagou R$ 300 mil por curso online com poucos acessos e apura elo com 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/emenda-de-mario-frias-para-curso-online-elo-com-dark-horse.ghtml)_
+
