@@ -176,3 +176,6 @@
 - **[2026-09-10 13:44 UTC]** Flávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-campanha-setembro-2026-roraima.ghtml)_
 
+- **[2026-09-10 18:44 UTC]** Augusto Cury diz que pode apoiar Flávio no 2º turno se ele 'provar que não tem corrupção' em Dark Horse
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/augusto-cury-diz-que-pode-apoiar-flavio-no-2o-turno-se-ele-provar-que-nao-tem-corrupcao-em-dark-horse.ghtml)_
+
