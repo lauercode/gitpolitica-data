@@ -56,3 +56,6 @@
 - **[2026-09-09 21:03 UTC]** Eleições 2026: Omar Aziz participa de entrevista e defende desenvolvimento sustentável para geração de empregos
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-plano-de-governo-de-omar-aziz-defende-zoneamento-ecologico-e-assistencia-tecnica.ghtml)_
 
+- **[2026-09-10 09:06 UTC]** Eleições 2026: saiba quais são as propostas dos candidatos ao governo da Paraíba para geração de emprego
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-saiba-quais-sao-as-propostas-dos-candidatos-ao-governo-da-paraiba-para-geracao-de-emprego.ghtml)_
+
