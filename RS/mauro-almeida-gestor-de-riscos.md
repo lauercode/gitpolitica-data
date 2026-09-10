@@ -35,3 +35,6 @@
 - **[2026-09-06 18:01 UTC]** Líder da oposição não assina pedido de impeachment de Moraes e alega riscos de nulidade
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lider-da-oposicao-nao-assina-pedido-de-impeachment-de-moraes-e-alega-riscos-de-nulidade/)_
 
+- **[2026-09-10 16:46 UTC]** FMI diz que economia global resiste à guerra, mas riscos seguem elevados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fmi-diz-que-economia-global-resiste-a-guerra-mas-riscos-seguem-elevados.shtml)_
+
