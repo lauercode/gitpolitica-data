@@ -35,3 +35,6 @@
 - **[2026-09-10 12:13 UTC]** Paraná tem novos alertas da Defesa Civil para tempestade, granizo e vendaval; veja onde e previsão do tempo
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/10/parana-tem-novos-alertas.ghtml)_
 
+- **[2026-09-09 16:42 UTC]** Paraná tem 312 cidades sob alerta vermelho de tempestade após atualização do Inmet; veja lista
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/alerta-vermelho-parana-tempestade.ghtml)_
+
