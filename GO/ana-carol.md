@@ -23,3 +23,6 @@
 - **[2026-09-10 14:46 UTC]** Após sair do SBT por baixo salário, Carol Lekker é contratada pela Record
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/apos-sair-do-sbt-por-baixo-salario-carol-lekker-e-contratada-pela-record.shtml)_
 
+- **[2026-09-10 14:46 UTC]** Após sair do SBT por considerar salário baixo, Carol Lekker é contratada pela Record
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/apos-sair-do-sbt-por-baixo-salario-carol-lekker-e-contratada-pela-record.shtml)_
+
