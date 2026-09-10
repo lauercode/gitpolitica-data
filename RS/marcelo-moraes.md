@@ -1337,3 +1337,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 16:58 UTC]** Moraes autoriza visita de familiares a Bolsonaro durante campanha de Michelle
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visita-de-familiares-a-bolsonaro-durante-campanha-de-michelle/)_
 
+- **[2026-09-10 16:25 UTC]** Fachin cancela sessão do STF pela 2ª vez antes de análise do caso Moraes-Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cancela-sessao-do-stf-pela-2a-vez-antes-de-analise-do-caso-moraes-vorcaro/)_
+
