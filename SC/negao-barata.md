@@ -11,3 +11,6 @@
 - **[2026-09-10 14:51 UTC]** Cesta básica de Natal cai e é a 2ª mais barata do país, diz Dieese
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/10/cesta-basica-de-natal-cai-e-e-a-2a-mais-barata-do-pais-diz-dieese.ghtml)_
 
+- **[2026-09-10 13:55 UTC]** Cesta básica ficou mais barata em 25 capitais em agosto
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/cesta-basica-ficou-mais-barata-em-25-capitais-brasileiras-em-agosto)_
+
