@@ -296,3 +296,6 @@
 - **[2026-09-10 07:00 UTC]** As perguntas que não são feitas no Jornal Nacional, parte 2
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2026/09/as-perguntas-que-nao-sao-feitas-no-jornal-nacional-parte-2.shtml)_
 
+- **[2026-09-10 08:59 UTC]** FMI descartou crítico de tarifas de Trump para ser economista-chefe, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fmi-descartou-critico-de-tarifas-de-trump-para-ser-economista-chefe-diz-jornal.shtml)_
+
