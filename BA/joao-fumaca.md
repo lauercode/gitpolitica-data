@@ -29,3 +29,6 @@
 - **[2026-09-09 20:35 UTC]** Saiba de onde pode estar vindo a fumaça que encobre Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/saiba-de-onde-pode-estar-vindo-a-fumaca-que-encobre-manaus.ghtml)_
 
+- **[2026-09-10 21:29 UTC]** Mário Frias chama operação da PF de 'cortina de fumaça'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/mario-frias-chama-operacao-da-pf-de-cortina-de-fumaca-e-diz-que-investigacao-sera-arquivada.ghtml)_
+
