@@ -59,3 +59,6 @@
 - **[2026-09-09 23:11 UTC]** Polícia investiga legítima defesa em morte de homem na zona rural de município do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/policia-investiga-legitima-defesa-em-morte-de-homem-na-zona-rural-de-municipio-do-acre.ghtml)_
 
+- **[2026-09-10 15:03 UTC]** Com apoio da prefeitura, colheita de milho inicia na zona rural de Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/prefeitura-de-boa-vista/boa-vista-a-capital-modelo-da-amazonia/noticia/2026/09/10/com-apoio-da-prefeitura-colheita-de-milho-inicia-na-zona-rural-de-boa-vista.ghtml)_
+
