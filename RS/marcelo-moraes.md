@@ -1313,3 +1313,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 13:58 UTC]** Zema convoca ato no dia de sessão do STF sobre conversas de Moraes e Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/zema-convoca-ato-no-dia-de-sessao-do-stf-sobre-conversas-de-moraes-e-vorcaro/)_
 
+- **[2026-09-10 12:00 UTC]** Pronunciamento de Moraes é cancelado e será remarcado, informa STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pronunciamento-de-moraes-e-cancelado-e-sera-remarcado-informa-stf/)_
+
