@@ -86,3 +86,6 @@
 - **[2026-09-09 16:00 UTC]** Agência nuclear da ONU denuncia Irã ao Conselho de Segurança
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/agencia-nuclear-da-onu-denuncia-ira-ao-conselho-de-seguranca.shtml)_
 
+- **[2026-09-10 13:32 UTC]** Conselho do FGTS aumenta subsídios do Minha Casa, Minha Vida para 2026
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/conselho-do-fgts-aumenta-subsidios-do-minha-casa-minha-vida-para-2026)_
+
