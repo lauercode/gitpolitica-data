@@ -53,3 +53,6 @@
 - **[2026-09-05 23:00 UTC]** Explode no Brasil o número de fundos que podem ocultar o dono do dinheiro, como no Master e na Carbono Oculto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/explode-no-brasil-o-numero-de-fundos-que-podem-ocultar-o-dono-do-dinheiro-como-no-master-e-na-carbono-oculto.shtml)_
 
+- **[2026-09-09 23:00 UTC]** Ex-dono da Reag relata propinas de Vorcaro para autoridades públicas em delação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ex-dono-da-reag-relata-propinas-de-vorcaro-para-autoridades-publicas-em-delacao.shtml)_
+
