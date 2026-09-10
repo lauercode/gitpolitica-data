@@ -290,3 +290,6 @@
 - **[2026-09-09 22:03 UTC]** Comissão aprova projeto que amplia possibilidades de embarque armado para agentes de segurança pública
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303311-comissao-aprova-projeto-que-amplia-possibilidades-de-embarque-armado-para-agentes-de-seguranca-publica)_
 
+- **[2026-09-10 11:53 UTC]** Comissão aprova projeto que exige separação de torcidas nos estádios
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303642-comissao-aprova-projeto-que-exige-separacao-de-torcidas-nos-estadios)_
+
