@@ -26,3 +26,6 @@
 - **[2026-09-10 10:32 UTC]** Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 10:28 UTC]** Operação da PF mira deputado Mário Frias e produtora do filme
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/operacao-da-pf-mira-deputado-mario-frias-e-produtora-do-filme)_
+
