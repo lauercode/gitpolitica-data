@@ -152,3 +152,6 @@
 - **[2026-09-10 09:30 UTC]** Mendonça homologa delação de doleiro ligado a repasses para Dark Horse
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/mendonca-homologa-delacao-do-doleiro-ligado-repasses-para-dark-horse)_
 
+- **[2026-09-10 15:07 UTC]** PF aponta coincidência entre gastos durante gravações de filme 'Dark Horse' e envio de emendas para produtora
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-aponta-coincidencia-entre-gastos-durante-gravacoes-de-filme-sobre-bolsonaro-e-transferencias-para-produtora.ghtml)_
+
