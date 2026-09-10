@@ -53,3 +53,6 @@
 - **[2026-09-02 14:48 UTC]** Anac suspende operações da Total Linhas Aéreas, que presta serviço aos Correios
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anac-suspende-operacoes-da-total-linhas-aereas-que-presta-servico-aos-correios.shtml)_
 
+- **[2026-09-10 13:28 UTC]** Correios formalizam pedido de novo empréstimo de R$ 7 bi com quatro bancos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/correios-formalizam-pedido-de-novo-emprestimo-de-r-7-bi-com-quatro-bancos.shtml)_
+
