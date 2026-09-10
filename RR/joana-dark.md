@@ -227,3 +227,6 @@
 - **[2026-09-10 17:35 UTC]** Documento assinado por produtora de Dark Horse relata pressões para fazer delação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/documento-assinado-por-produtora-de-dark-horse-relata-pressoes-para-fazer-delacao.shtml)_
 
+- **[2026-09-10 17:05 UTC]** CGU apontou R$ 2,5 milhões em emendas de Zambelli e Ramagem para produtora de 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cgu-apontou-r-25-milhoes-em-emendas-de-zambelli-e-ramagem-para-produtora-de-dark-horse.shtml)_
+
