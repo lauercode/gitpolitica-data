@@ -56,3 +56,6 @@
 - **[2026-09-10 13:28 UTC]** Correios formalizam pedido de novo empréstimo de R$ 7 bi com quatro bancos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/correios-formalizam-pedido-de-novo-emprestimo-de-r-7-bi-com-quatro-bancos.shtml)_
 
+- **[2026-09-10 21:59 UTC]** Correios esperam novo empréstimo até o dia 15; consórcio de bancos conta com três instituições estrangeiras
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/10/correios-aguardam-novo-emprestimo-ate-o-dia-15-consorcio-de-bancos-conta-com-tres-instituicoes-estrangeiras.ghtml)_
+
