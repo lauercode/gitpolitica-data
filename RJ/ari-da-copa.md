@@ -128,3 +128,6 @@
 - **[2026-09-10 11:59 UTC]** Casablanca receberá final da Copa de 2030, diz presidente da federação marroquina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/casablanca-recebera-final-da-copa-de-2030-diz-presidente-da-federacao-marroquina.shtml)_
 
+- **[2026-09-10 11:24 UTC]** CBF vende Copa do Brasil para Globo, Amazon e ESPN até 2030 por mais de R$ 4 bilhões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/cbf-vende-copa-do-brasil-para-globo-amazon-e-espn-ate-2030-por-mais-de-r-4-bilhoes.shtml)_
+
