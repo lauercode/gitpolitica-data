@@ -47,3 +47,6 @@
 - **[2026-09-10 14:40 UTC]** Oposição pressiona Senado por impeachment de Dino após operação contra Frias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-pressiona-senado-por-impeachment-de-dino-apos-operacao-contra-frias/)_
 
+- **[2026-09-10 13:09 UTC]** PF apreende armas ligadas a Mário Frias em operação do caso Dark Horse
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-apreende-armas-ligadas-a-frias-em-operacao-do-caso-dark-horse/)_
+
