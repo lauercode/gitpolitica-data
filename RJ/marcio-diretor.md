@@ -221,3 +221,6 @@
 - **[2026-09-09 20:29 UTC]** Fachin suspende decisões de Mendonça e Dino sobre diretor da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-suspende-decisoes-de-mendonca-e-dino-sobre-diretor-da-pf/)_
 
+- **[2026-09-09 23:39 UTC]** Fachin dá 48 horas para Andrei prestar informações; presidente ainda vai decidir se diretor fica no cargo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-da-48-horas-para-andrei-prestar-informacoes-presidente-ainda-vai-decidir-se-diretor-fica-no-cargo.ghtml)_
+
