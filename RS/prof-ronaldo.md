@@ -50,3 +50,6 @@
 - **[2026-09-10 17:44 UTC]** Ronaldo Caiado é internado em hospital de SP para tratar faringite aguda
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/ronaldo-caiado-e-internado-em-hospital-de-sp-para-tratar-faringite-aguda.ghtml)_
 
+- **[2026-09-10 16:17 UTC]** Ronaldo Caiado é internado em São Paulo com faringite aguda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ronaldo-caiado-e-internado-em-sao-paulo-com-faringite-aguda.shtml)_
+
