@@ -389,3 +389,6 @@
 - **[2026-09-09 21:49 UTC]** Quem era o vereador que morreu esmagado por carga de 1 tonelada de batatas em SC: 'Adeus, meu melhor amigo'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/quem-era-vereador-esmagado-batatas-nivaldo-magagnin.ghtml)_
 
+- **[2026-09-10 03:00 UTC]** Eleições 2026: veja quem são os candidatos a presidente, governador, senador e deputados em todo o Brasil
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-veja-quem-sao-os-candidatos-a-presidente-governador-senador-e-deputados-em-todo-o-brasil.ghtml)_
+
