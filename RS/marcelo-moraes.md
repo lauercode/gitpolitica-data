@@ -1265,3 +1265,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 22:24 UTC]** OAB descarta pedir impeachment de Moraes e Toffoli, mas vai analisar conduta de ministros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/oab-descarta-pedir-impeachment-de-moraes-e-toffoli-mas-vai-analisar-conduta-de-ministros.shtml)_
 
+- **[2026-09-10 06:05 UTC]** OAB exige que Paulo Gonet deixe investigação sobre Alexandre de Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-exige-que-paulo-gonet-deixe-investigacao-sobre-alexandre-de-moraes-no-stf/)_
+
