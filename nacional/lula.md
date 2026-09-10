@@ -965,3 +965,6 @@
 - **[2026-09-09 03:00 UTC]** Lula silencia sobre afastamento de Andrei; presidente cumpre agenda no Piauí nesta quarta
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-silencia-sobre-afastamento-de-andrei-presidente-cumpre-agenda-no-piaui-nesta-quarta.ghtml)_
 
+- **[2026-09-10 15:41 UTC]** Presidente Lula sanciona lei que acaba com "taxa das blusinhas"
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-sanciona-lei-que-acaba-com-taxa-das-blusinhas)_
+
