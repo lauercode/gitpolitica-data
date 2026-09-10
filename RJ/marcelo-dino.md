@@ -188,3 +188,6 @@
 - **[2026-09-10 13:48 UTC]** Dino cita risco de evasão e proíbe deputado Mario Frias de deixar país
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-cita-risco-de-evasao-e-proibe-deputado-mario-frias-de-deixar-pais)_
 
+- **[2026-09-10 16:03 UTC]** Caso 'Dark Horse': veja argumentos de Dino para puxar apuração de SP contra Mario Frias para STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-veja-argumentos-de-dino-para-puxar-apuracao-de-sp-contra-mario-frias-para-o-stf.ghtml)_
+
