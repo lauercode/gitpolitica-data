@@ -416,3 +416,6 @@
 - **[2026-09-10 19:55 UTC]** Suely será ofendida por Ademir ao relatar assédio no tribunal em 'Quem Ama Cuida'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/suely-sera-ofendida-por-ademir-ao-relatar-assedio-no-tribunal-em-quem-ama-cuida.shtml)_
 
+- **[2026-09-10 18:47 UTC]** 'Quem Ama Cuida': Ademir e Adriana trocam ameaças
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466806)_
+
