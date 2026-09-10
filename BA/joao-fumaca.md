@@ -32,3 +32,6 @@
 - **[2026-09-10 21:29 UTC]** Mário Frias chama operação da PF de 'cortina de fumaça'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/mario-frias-chama-operacao-da-pf-de-cortina-de-fumaca-e-diz-que-investigacao-sera-arquivada.ghtml)_
 
+- **[2026-09-10 18:54 UTC]** Mario Frias chama operação da PF de 'cortina de fumaça' em ano de eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mario-frias-chama-operacao-da-pf-de-cortina-de-fumaca-em-ano-de-eleicao.shtml)_
+
