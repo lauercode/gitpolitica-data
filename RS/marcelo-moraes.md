@@ -1307,3 +1307,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 08:34 UTC]** Alexandre de Moraes anuncia e depois cancela pronunciamento em meio a crise no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alexandre-de-moraes-fara-pronunciamento-apos-perder-a-relatoria-do-inquerito-das-fake-news.shtml)_
 
+- **[2026-09-10 14:39 UTC]** OAB e elite jurídica diluem escândalo Moraes em discurso de “crise” no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/oab-pressao-explicacoes-moraes-discurso-crise-stf/)_
+
