@@ -197,3 +197,6 @@
 - **[2026-09-09 20:36 UTC]** Abastecimento de água em Nossa Senhora do Socorro é comprometido após rompimento de adutora
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/abastecimento-de-agua-em-nossa-senhora-do-socorro-e-comprometido-apos-rompimento-de-adutora.ghtml)_
 
+- **[2026-09-10 00:35 UTC]** Hana Ghassan promete ampliar saneamento e cobrar metas de concessionária de água no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/09/hana-ghassan-promete-ampliar-saneamento-e-cobrar-metas-de-concessionaria-de-agua-no-para.ghtml)_
+
