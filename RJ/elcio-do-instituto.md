@@ -74,3 +74,6 @@
 - **[2026-09-09 15:46 UTC]** Instituto Barla afirma que alíquota de 12% sobre exportação de petróleo atinge elo errado da cadeia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/instituto-barla-afirma-que-aliquota-de-12-sobre-exportacao-de-petroleo-atinge-elo-errado-da-cadeia.shtml)_
 
+- **[2026-09-10 16:21 UTC]** Instituto de produtora de ‘Dark Horse’ usou emendas de Mario Frias para comprar quimonos, uniformes e tatames não entregues para projeto esportivo em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/emendas-mario-frias-instituto-karina-gama-projetos-investigados-pf-cgu.ghtml)_
+
