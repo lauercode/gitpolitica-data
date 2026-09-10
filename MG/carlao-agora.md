@@ -110,3 +110,6 @@
 - **[2026-09-09 21:34 UTC]** Guerra Moraes x Mendonça: o que Fachin decidiu e o que acontece agora com os ministros do STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y423dne20o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 21:30 UTC]** 'Agora falta quebrar os sigilos de todos os envolvidos', diz leitora sobre decisão de Fachin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/agora-falta-quebrar-os-sigilos-de-todos-os-envolvidos-diz-leitora-sobre-decisao-de-fachin.shtml)_
+
