@@ -1343,3 +1343,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 16:22 UTC]** Fachin reage à crise no STF e toma decisão histórica sobre Moraes e o inquérito das fake news
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-reage-a-crise-no-stf-e-toma-decisao-historica-sobre-moraes-e-o-inquerito-das-fake-news/)_
 
+- **[2026-09-10 20:50 UTC]** Crise no STF e protestos aumentam pressão sobre Alcolumbre pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-e-protestos-aumentam-pressao-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
+
