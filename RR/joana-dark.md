@@ -155,3 +155,6 @@
 - **[2026-09-10 15:07 UTC]** PF aponta coincidência entre gastos durante gravações de filme 'Dark Horse' e envio de emendas para produtora
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-aponta-coincidencia-entre-gastos-durante-gravacoes-de-filme-sobre-bolsonaro-e-transferencias-para-produtora.ghtml)_
 
+- **[2026-09-10 12:36 UTC]** Governo Lula torce para STF sair da agenda e investigação da PF sobre financiamento do filme 'Dark Horse' dominar as atenções
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/10/governo-lula-torce-para-stf-sair-da-agenda-e-investigacao-da-pf-sobre-financiamento-do-filme-dark-horse-dominar-as-atencoes.ghtml)_
+
