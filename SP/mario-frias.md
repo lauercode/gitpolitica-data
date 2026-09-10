@@ -20,3 +20,6 @@
 - **[2026-09-10 10:13 UTC]** Quem é Mario Frias, ator que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml)_
 
+- **[2026-09-10 08:32 UTC]** PF cumpre mandado de busca e apreensão contra Mário Frias em operação sobre 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-cumpre-mandado-de-busca-e-apreensao-contra-mario-frias-em-operacao-sobre-dark-horse.shtml)_
+
