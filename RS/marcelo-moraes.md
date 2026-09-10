@@ -1274,3 +1274,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 02:04 UTC]** OAB pede afastamento de Gonet de caso que envolve Moraes e Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-pede-afastamento-de-gonet-de-caso-que-envolve-moraes-e-vorcaro/)_
 
+- **[2026-09-10 06:18 UTC]** Fachin derruba decisões de ministros sobre PF e retira inquérito das Fake News de Moraes; entenda o mais recente episódio da crise no STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
+
