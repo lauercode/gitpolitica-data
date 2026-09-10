@@ -899,3 +899,6 @@
 - **[2026-09-10 22:54 UTC]** 'Faltam 24 dias para a eleição, precisam inventar algo contra mim', diz Flávio Bolsonaro sobre ação da PF envolvendo 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-operacao-dark-horse-pf.ghtml)_
 
+- **[2026-09-10 21:36 UTC]** PF suspeita que ao menos R$ 750 mil de verbas públicas foram desviadas para produtora que fez filme sobre Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-suspeita-que-ao-menos-r-750-mil-de-verbas-publicas-foram-desviadas-para-produtora-que-fez-filme-sobre-bolsonaro.ghtml)_
+
