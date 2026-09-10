@@ -122,3 +122,6 @@
 - **[2026-09-10 16:15 UTC]** Entidades alertam TCU sobre paralisação das obras do canal do porto de Santos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/entidades-alertam-tcu-sobre-paralisacao-das-obras-do-canal-do-porto-de-santos.shtml)_
 
+- **[2026-09-10 22:25 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras e reúne com apoiadores no Vale do Itajaí
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-jorginho-mello-visita-obras-e-reune-com-apoiadores-no-vale-do-itajai.ghtml)_
+
