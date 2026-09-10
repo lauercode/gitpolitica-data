@@ -17,3 +17,6 @@
 - **[2026-09-05 00:13 UTC]** Marconi Perillo fala em retomar programas de crédito e reforçar assistência técnica a produtores rurais
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-4.ghtml)_
 
+- **[2026-09-09 23:43 UTC]** Eleições 2026: Marconi Perillo fala em desburocratização no setor empresarial e em atração de investimentos durante sabatina na Acieg
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-agenda-de-marconi-perillo-de-quarta-feira-9.ghtml)_
+
