@@ -854,3 +854,6 @@
 - **[2026-09-10 03:00 UTC]** Crise do STF nas campanhas: Flávio Bolsonaro intensifica ataques a Moraes, e parte da campanha de Lula defende distância do ministro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/crise-no-stf-campanhas-flavio-bolsonaro-e-lula.ghtml)_
 
+- **[2026-09-10 10:13 UTC]** Quem é Mario Frias, ator que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml)_
+
