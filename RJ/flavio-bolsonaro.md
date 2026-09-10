@@ -875,3 +875,6 @@
 - **[2026-09-10 10:13 UTC]** Quem é Mario Frias, ator de 'Malhação' que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml)_
 
+- **[2026-09-10 17:08 UTC]** Produtora de filme sobre Bolsonaro comprou carro SUV com R$ 100 mil em dinheiro vivo e disparou alerta do Coaf
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/produtora-de-filme-sobre-bolsonaro-comprou-carro-suv-com-r-100-mil-em-dinheiro-vivo-e-disparou-alerta-do-coaf.ghtml)_
+
