@@ -26,3 +26,6 @@
 - **[2026-09-10 07:00 UTC]** No dia do aniversário de 67 anos, morador de SC reencontra irmãs que não via há mais de 50 anos: 'presente de Deus'; VÍDEO
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/aniversario-reencontra-irmas-que-nao-via-ha-mais-de-50-anos.ghtml)_
 
+- **[2026-09-10 07:00 UTC]** No aniversário de 67 anos, catarinense reencontra irmãs que não via há mais de 50 anos: 'Presente de Deus'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/aniversario-reencontra-irmas-que-nao-via-ha-mais-de-50-anos.ghtml)_
+
