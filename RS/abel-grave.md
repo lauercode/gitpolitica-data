@@ -47,3 +47,6 @@
 - **[2026-09-10 00:54 UTC]** Fachin cita “grave lesão à ordem pública” ao travar investigações de Mendonça, Moraes e PGR
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cita-grave-lesao-a-ordem-publica-ao-travar-investigacoes-de-mendonca-moraes-e-pgr/)_
 
+- **[2026-09-10 17:42 UTC]** Morre bebê de três meses transferido de hospital por helicóptero após acidente grave no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/morre-bebe-vitima-acidente-vista-alegre-prata.ghtml)_
+
