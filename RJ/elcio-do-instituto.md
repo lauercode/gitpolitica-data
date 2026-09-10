@@ -77,3 +77,6 @@
 - **[2026-09-10 16:21 UTC]** Instituto de produtora de ‘Dark Horse’ usou emendas de Mario Frias para comprar quimonos, uniformes e tatames não entregues para projeto esportivo em SP
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/emendas-mario-frias-instituto-karina-gama-projetos-investigados-pf-cgu.ghtml)_
 
+- **[2026-09-10 17:11 UTC]** Instituto Santos Dumont abre inscrições para Feira de Ciências em Macaíba; veja como participar
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/10/instituto-santos-dumont-abre-inscricoes-para-feira-de-ciencias-em-macaiba-veja-como-participar.ghtml)_
+
