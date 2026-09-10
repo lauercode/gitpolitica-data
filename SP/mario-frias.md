@@ -53,3 +53,6 @@
 - **[2026-09-10 13:03 UTC]** Quem é Mario Frias, alvo da PF em operação que investiga suspeita de desvio de emendas e o financiamento de 'Dark Horse'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4gv7ww9p4do?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 13:48 UTC]** Dino cita risco de evasão e proíbe deputado Mario Frias de deixar país
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-cita-risco-de-evasao-e-proibe-deputado-mario-frias-de-deixar-pais)_
+
