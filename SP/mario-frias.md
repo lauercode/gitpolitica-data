@@ -50,3 +50,6 @@
 - **[2026-09-10 13:09 UTC]** PF apreende armas ligadas a Mário Frias em operação do caso Dark Horse
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-apreende-armas-ligadas-a-frias-em-operacao-do-caso-dark-horse/)_
 
+- **[2026-09-10 13:03 UTC]** Quem é Mario Frias, alvo da PF em operação que investiga suspeita de desvio de emendas e o financiamento de 'Dark Horse'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4gv7ww9p4do?at_medium=RSS&at_campaign=rss)_
+
