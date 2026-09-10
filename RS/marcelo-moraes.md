@@ -1352,3 +1352,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 22:57 UTC]** Fachin faz nova rodada de consultas internas e alas do STF discutem cenários para relatório sobre Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/fachin-faz-nova-rodada-de-consultas-internas-e-alas-do-stf-discutem-cenarios-para-relatorio-sobre-moraes.ghtml)_
 
+- **[2026-09-10 23:00 UTC]** Fachin recebe Mendonça e Gonet para definir rito de julgamento contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-recebe-mendonca-e-gonet-para-definir-rito-de-julgamento-contra-moraes/)_
+
