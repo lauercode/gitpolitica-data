@@ -152,3 +152,6 @@
 - **[2026-09-09 20:51 UTC]** PT pede a Dino e Mendonça a quebra dos sigilos do caso Master no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pt-pede-a-dino-e-mendonca-a-quebra-dos-sigilos-do-caso-master-no-stf.shtml)_
 
+- **[2026-09-09 20:48 UTC]** Decisão de Dino é manobra jurídica questionável que sucede erros de Mendonça, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decisao-de-dino-e-manobra-juridica-questionavel-que-sucede-erros-de-mendonca-dizem-especialistas.shtml)_
+
