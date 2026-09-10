@@ -26,3 +26,6 @@
 - **[2026-09-09 23:00 UTC]** Parque das Águas é a estrela de São Lourenço, no sul de Minas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/parque-das-aguas-e-a-estrela-de-sao-lourenco-no-sul-de-minas.shtml)_
 
+- **[2026-09-09 22:56 UTC]** Caldas, no sul de Minas, encanta pelas águas e pela natureza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/caldas-no-sul-de-minas-encanta-pelas-aguas-e-pela-natureza.shtml)_
+
