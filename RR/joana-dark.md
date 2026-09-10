@@ -215,3 +215,6 @@
 - **[2026-09-10 12:52 UTC]** Moraes preparou defesa pública, mas adiou fala após conselho de aliados e operação sobre 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-preparou-defesa-publica-mas-adiou-fala-apos-conselho-de-aliados-e-operacao-sobre-dark-horse.shtml)_
 
+- **[2026-09-10 17:59 UTC]** Dino diz haver indícios de desvio de recursos por Frias a organizações ligadas a “Dark Horse”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-indicios-desvio-recursos-frias-dark-horse/)_
+
