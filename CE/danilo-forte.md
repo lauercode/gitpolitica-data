@@ -101,3 +101,6 @@
 - **[2026-09-09 05:00 UTC]** Defesa Civil alerta para chuva forte quarta (9) e quinta (10) em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/defesa-civil-alerta-para-chuva-forte-quarta-9-e-quinta-10-em-sao-paulo.shtml)_
 
+- **[2026-09-10 10:40 UTC]** Chance de El Niño muito forte a partir de setembro sobe para 97%, diz agência dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/chance-de-el-nino-muito-forte-a-partir-de-setembro-sobe-para-97-diz-agencia-dos-eua.shtml)_
+
