@@ -934,3 +934,6 @@ direitos
 direitos
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
 
+- **[2026-09-10 11:56 UTC]** Operação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/operacao-da-pf-contra-mario-frias-atinge-ex-chefe-de-gabinete-e-dois-assessores-que-atuam-hoje-na-camara-veja-lista-de-alvos.ghtml)_
+
