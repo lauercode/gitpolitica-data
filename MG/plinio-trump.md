@@ -254,3 +254,6 @@
 - **[2026-09-10 09:22 UTC]** Pressão de Trump faz Jimmy Kimmel cancelar entrevista com democrata na televisão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/pressao-de-trump-faz-jimmy-kimmel-cancelar-entrevista-com-democrata-na-televisao.shtml)_
 
+- **[2026-09-10 08:59 UTC]** FMI descartou crítico de tarifas de Trump para ser economista-chefe, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fmi-descartou-critico-de-tarifas-de-trump-para-ser-economista-chefe-diz-jornal.shtml)_
+
