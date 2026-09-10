@@ -65,3 +65,6 @@
 - **[2026-09-10 03:00 UTC]** 'Zelar pela integridade da Corte': Fachin envia recados em meio à crise no STF; veja o que pode acontecer
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/zelar-pela-integridade-da-corte-fachin-envia-recados-em-meio-a-crise-no-stf-veja-o-que-pode-acontecer.ghtml)_
 
+- **[2026-09-10 13:19 UTC]** Moraes cancela pronunciamento no STF após crise na Corte
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/moraes-cancela-pronunciamento-no-stf-apos-crise-na-corte)_
+
