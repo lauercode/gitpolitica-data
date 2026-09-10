@@ -221,3 +221,6 @@
 - **[2026-09-10 12:02 UTC]** Funcionários do Banco do Brasil e da Caixa entram em greve por tempo indeterminado em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/10/agencias-bancarias-entram-em-greve-por-tempo-indeterminado-em-sergipe.ghtml)_
 
+- **[2026-09-09 20:23 UTC]** Mulher morre após acidente envolvendo três veículos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/mulher-morre-apos-acidente-em-laranjeiras.ghtml)_
+
