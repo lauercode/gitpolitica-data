@@ -1256,3 +1256,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 03:54 UTC]** Mendonça, Moraes, Dino e Fachin: o STF em rota de colisão - O Assunto #1801
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/10/mendonca-moraes-dino-e-fachin-o-stf-em-rota-de-colisao-o-assunto-1801.ghtml)_
 
+- **[2026-09-10 03:00 UTC]** Crise do STF nas campanhas: Flávio Bolsonaro intensifica ataques a Moraes, e parte da campanha de Lula defende distância do ministro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/crise-no-stf-campanhas-flavio-bolsonaro-e-lula.ghtml)_
+
