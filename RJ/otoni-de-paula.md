@@ -32,3 +32,6 @@
 - **[2026-09-06 01:56 UTC]** Paula Burlamaqui diz que envelhecimento é 'castigo do ser humano'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/paula-burlamaqui-diz-que-envelhecimento-e-castigo-do-ser-humano.shtml)_
 
+- **[2026-09-10 09:40 UTC]** Marina Lima critica Paula Burlamaqui por fala sobre envelhecimento: 'Me dá pena'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/marina-lima-critica-paula-burlamaqui-por-fala-sobre-envelhecimento-me-da-pena.shtml)_
+
