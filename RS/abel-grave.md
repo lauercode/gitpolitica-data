@@ -44,3 +44,6 @@
 - **[2026-09-09 18:48 UTC]** Fachin diz que decisões de Mendonça e Dino sobre a PF representam 'grave lesão à ordem pública'; leia íntegra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-diz-que-decisoes-de-mendonca-e-dino-sobre-a-pf-representam-grave-lesao-a-ordem-publica-leia-integra.shtml)_
 
+- **[2026-09-10 00:54 UTC]** Fachin cita “grave lesão à ordem pública” ao travar investigações de Mendonça, Moraes e PGR
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cita-grave-lesao-a-ordem-publica-ao-travar-investigacoes-de-mendonca-moraes-e-pgr/)_
+
