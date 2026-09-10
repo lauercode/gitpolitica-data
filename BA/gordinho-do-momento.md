@@ -65,3 +65,6 @@
 - **[2026-09-09 18:38 UTC]** FAVOO fortalece a formação cidadã por meio do Momento Cívico
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/cooperativa-educacional-de-vilhena-favoo-divulga-novidades-e-programacao-de-2026/noticia/2026/09/09/favoo-fortalece-a-formacao-cidada-por-meio-do-momento-civico.ghtml)_
 
+- **[2026-09-10 04:01 UTC]** 'Momento mais triste da vida': o relato da mulher que denunciou o namorado por transmissão intencional de HIV em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/10/momento-mais-triste-da-vida-o-relato-da-mulher-que-denunciou-o-namorado-por-transmissao-intencional-de-hiv-em-ro.ghtml)_
+
