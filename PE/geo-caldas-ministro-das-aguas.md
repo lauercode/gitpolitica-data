@@ -23,3 +23,6 @@
 - **[2026-09-06 14:04 UTC]** Arcon determina suspensão de cobranças e reativações de cadastros sem vistoria da Águas do Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/06/arcon-determina-suspensao-de-cobrancas-e-reativacoes-de-cadastros-sem-vistoria-da-aguas-do-para.ghtml)_
 
+- **[2026-09-09 23:00 UTC]** Parque das Águas é a estrela de São Lourenço, no sul de Minas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/parque-das-aguas-e-a-estrela-de-sao-lourenco-no-sul-de-minas.shtml)_
+
