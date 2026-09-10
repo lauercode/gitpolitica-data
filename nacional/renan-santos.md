@@ -230,3 +230,6 @@
 - **[2026-09-10 19:15 UTC]** Renan Santos defende fim da autonomia nas universidades e critica gestão das instituições públicas
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/renan-santos-defende-fim-da-autonomia-nas-universidades-e-critica-gestao-das-instituicoes-publicas.ghtml)_
 
+- **[2026-09-10 17:27 UTC]** Campanha de Renan Santos pede fim do sigilo de inquérito das fake news e caso INSS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/campanha-de-renan-santos-pede-fim-do-sigilo-de-inquerito-das-fake-news-e-caso-inss.shtml)_
+
