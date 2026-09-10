@@ -8,3 +8,6 @@
 - **[2026-09-08 17:29 UTC]** Em visita a fábricas, Tião Bocalom defende ambiente favorável para atrair empresas ao Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/em-visita-a-fabricas-tiao-bocalom-defende-ambiente-favoravel-para-atrair-empresas-ao-acre.ghtml)_
 
+- **[2026-09-10 16:08 UTC]** Tião Bocalom defende produção local para reduzir dependência de recursos de Brasília
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/10/tiao-bocalom-defende-producao-local-para-reduzir-dependencia-de-recursos-de-brasilia.ghtml)_
+
