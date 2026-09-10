@@ -38,3 +38,6 @@
 - **[2026-09-07 11:55 UTC]** Adolescente salta de carro em movimento e escapa de suposto sequestro no RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/adolescente-salta-de-carro-em-movimento-e-escapa-de-suposto-sequestro-no-rj.shtml)_
 
+- **[2026-09-10 22:27 UTC]** Eleições 2026 em SC: Laís Chaud conversa com movimento de mulheres e panfleta em Joinville
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-lais-chaud-conversa-com-movimento-de-mulheres-e-panfleta-em-joinville.ghtml)_
+
