@@ -113,3 +113,6 @@
 - **[2026-09-09 22:32 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras da SC-408 e participa de sabatina em Jaraguá do Sul
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-em-sc-jorginho-mello-visita-obras-da-sc-408-e-participa-de-sabatina-em-jaragua-do-sul.ghtml)_
 
+- **[2026-09-10 07:00 UTC]** Obras roubadas de Matisse voltarão a ser exibidas na Biblioteca Mário de Andrade após serem recuperadas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/obras-roubadas-de-matisse-voltarao-a-ser-exibidas-na-biblioteca-mario-de-andrade-apos-serem-recuperadas.shtml)_
+
