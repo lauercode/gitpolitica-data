@@ -26,3 +26,6 @@
 - **[2026-09-07 20:53 UTC]** Democrata inscreve nova chapa para disputar o governo do TO com Siqueira Campos Jr. e Capitão Osmar
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/07/democrata-inscreve-nova-chapa-para-disputar-o-governo-do-to-com-siqueira-campos-jr-e-capitao-osmar.ghtml)_
 
+- **[2026-09-10 09:22 UTC]** Pressão de Trump faz Jimmy Kimmel cancelar entrevista com democrata na televisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/pressao-de-trump-faz-jimmy-kimmel-cancelar-entrevista-com-democrata-na-televisao.shtml)_
+
