@@ -14,3 +14,6 @@
 - **[2026-09-07 17:32 UTC]** Chanceler alemão se diz chocado com vitória regional da ultradireita
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/na-alemanha-extrema-direita-vence-eleicao-regional-e-choca-chanceler)_
 
+- **[2026-09-10 17:15 UTC]** Plano de governo: Siqueira Campos Jr. propõe criar condições para o desenvolvimento regional
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/10/plano-de-governo-siqueira-campos-jr-propoe-criar-condicoes-para-o-desenvolvimento-regional.ghtml)_
+
