@@ -1124,3 +1124,6 @@
 - **[2026-09-10 22:54 UTC]** 'Faltam 24 dias para a eleição, precisam inventar algo contra mim', diz Flávio Bolsonaro sobre ação da PF envolvendo 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-operacao-dark-horse-pf.ghtml)_
 
+- **[2026-09-10 18:21 UTC]** Caos no STF tira favoritismo de Lula e pode turbinar onda Flávio; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/caos-no-stf-tira-favoritismo-de-lula-e-pode-turbinar-onda-flavio-veja-video.shtml)_
+
