@@ -38,3 +38,6 @@
 - **[2026-09-09 16:42 UTC]** Paraná tem 312 cidades sob alerta vermelho de tempestade após atualização do Inmet; veja lista
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/alerta-vermelho-parana-tempestade.ghtml)_
 
+- **[2026-09-10 13:00 UTC]** Rashid volta às raízes do rap em 'Cumulonimbus' e faz do novo disco uma tempestade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/rashid-volta-as-raizes-do-rap-em-cumulonimbus-e-faz-do-novo-disco-uma-tempestade.shtml)_
+
