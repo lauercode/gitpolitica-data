@@ -452,3 +452,6 @@
 - **[2026-09-10 20:40 UTC]** VÍDEO: Indígenas encontram sucuri de mais de 2 metros durante banho em açude no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/video-indigenas-encontram-sucuri-estimada-em-2-metros-em-acude-no-acre.ghtml)_
 
+- **[2026-09-10 19:27 UTC]** Thor Dantas defende fortalecimento do cooperativismo para ampliar produção e exportações do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/10/thor-dantas-defende-fortalecimento-do-cooperativismo-para-ampliar-producao-e-exportacoes-do-acre.ghtml)_
+
