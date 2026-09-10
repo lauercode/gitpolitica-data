@@ -311,3 +311,6 @@
 - **[2026-09-10 19:30 UTC]** VÍDEOS: Jornal do Amazonas - 1ª edição - 10 de setembro de 2026
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-1-edicao-10-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-10 19:00 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de quinta-feira, 10 de setembro de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-quinta-feira-10-de-setembro-de-2026.ghtml)_
+
