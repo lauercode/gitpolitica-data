@@ -308,3 +308,6 @@
 - **[2026-09-10 15:45 UTC]** Projeto permite transferência gratuita de titularidade de passagem aérea
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303529-projeto-permite-transferencia-gratuita-de-titularidade-de-passagem-aerea)_
 
+- **[2026-09-10 18:22 UTC]** EDP entrega no Piauí seu maior projeto de transmissão no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/edp-entrega-no-piaui-seu-maior-projeto-de-transmissao-no-brasil.shtml)_
+
