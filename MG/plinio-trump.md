@@ -245,3 +245,6 @@
 - **[2026-09-10 06:00 UTC]** Canadá atrai cientistas que querem deixar ciência dos EUA sob Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/canada-atrai-cientistas-que-querem-deixar-ciencia-dos-eua-sob-trump.shtml)_
 
+- **[2026-09-09 23:08 UTC]** Trump promete dar R$ 25 mil a cada americano caso os republicanos vençam as eleições de novembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-ataca-democratas-e-repete-discursos-de-comicio-em-convencao-republicana.shtml)_
+
