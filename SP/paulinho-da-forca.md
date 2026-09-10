@@ -131,3 +131,6 @@
 - **[2026-09-10 09:13 UTC]** Ministério da Saúde instala base da Força Nacional do SUS no Rio
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/ministerio-da-saude-instala-base-da-forca-nacional-do-sus-no-rio)_
 
+- **[2026-09-10 13:29 UTC]** Estupro coletivo é investigado após mulher relatar ter sido colocada à força em carro por 4 homens em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/estupro-coletivo-mulher-colocada-dentro-de-carro-criciuma.ghtml)_
+
