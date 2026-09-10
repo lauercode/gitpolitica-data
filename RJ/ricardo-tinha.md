@@ -44,3 +44,6 @@
 - **[2026-09-10 08:00 UTC]** Menino de 3 anos morreu de traumatismo craniano e tinha lesões no rosto e pescoço; mãe e padrasto seguem presos
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/menino-de-3-anos-morreu-de-traumatismo-craniano-e-tinha-lesoes-no-rosto-e-pescoco-mae-e-padrasto-seguem-presos.ghtml)_
 
+- **[2026-09-10 21:48 UTC]** Estudante de medicina é indiciado por homicídio após atropelar e matar motoboy que fazia entregas no PR; motorista tinha sinais de embriaguez
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/10/estudante-de-medicina-e-indiciado-por-homicidio-apos-atropelar-e-matar-motoboy-que-fazia-entregas-no-pr-motorista-tinha-sinais-de-embriaguez.ghtml)_
+
