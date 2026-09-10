@@ -155,3 +155,6 @@
 - **[2026-09-09 20:48 UTC]** Decisão de Dino é manobra jurídica questionável que sucede erros de Mendonça, dizem especialistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decisao-de-dino-e-manobra-juridica-questionavel-que-sucede-erros-de-mendonca-dizem-especialistas.shtml)_
 
+- **[2026-09-10 00:47 UTC]** Escândalo Moraes sai do foco com ajuda de Dino e Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/escandalo-moraes-sai-do-foco-com-ajuda-de-dino-e-fachin/)_
+
