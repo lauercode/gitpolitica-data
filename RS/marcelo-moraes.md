@@ -1244,3 +1244,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-09 22:24 UTC]** Alexandre de Moraes valida provas usadas em investigações contra médica acusada de antecipar mortes em UTI de hospital de Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/alexandre-de-moraes-valida-provas-usadas-em-investigacoes-contra-medica-acusada-de-antecipar-mortes-em-uti-de-hospital-de-curitiba.ghtml)_
 
+- **[2026-09-09 20:40 UTC]** Fachin reage, tira poder de Moraes e fica a dúvida sobre a tentativa de criar Xandão da extrema direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/fachin-reage-tira-poder-de-moraes-e-fica-a-duvida-sobre-a-tentativa-de-criar-xandao-da-extrema-direita.shtml)_
+
