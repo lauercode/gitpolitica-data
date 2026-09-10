@@ -185,3 +185,6 @@
 - **[2026-09-10 16:40 UTC]** ONG de produtora de Dark Horse repassou R$ 8,5 milhões a firma que abasteceu empresas 'laranja' em nome de cuidadora de idosos e servente de obras, diz PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/ong-de-dark-horse-repassou-r-85-milhoes-a-firma-que-abasteceu-empresas-laranja-em-nome-de-cuidadora-de-idosos-e-servente-de-obras-diz-pf.ghtml)_
 
+- **[2026-09-10 16:40 UTC]** Caso 'Dark Horse': ex-marqueteiro de Flávio Bolsonaro enviou R$ 1 milhão a produtora do filme
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-ex-marqueteiro-de-flavio-bolsonaro-enviou-r-1-milhao-a-produtora.ghtml)_
+
