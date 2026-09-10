@@ -242,3 +242,6 @@
 - **[2026-09-09 04:00 UTC]** Avante tenta sustentar alta de Cury para ampliar bancada e avalia mais financiamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avante-tenta-sustentar-alta-de-cury-para-ampliar-bancada-e-avalia-mais-financiamento.shtml)_
 
+- **[2026-09-10 12:00 UTC]** Anúncios pró-Cury ferem legislação eleitoral com impulsionamento irregular
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/anuncios-pro-cury-ferem-legislacao-eleitoral-com-impulsionamento-irregular.shtml)_
+
