@@ -149,3 +149,6 @@
 - **[2026-09-10 10:02 UTC]** O que Flávio Bolsonaro ainda precisa esclarecer sobre 'Dark Horse' — e por que o filme não sai antes das eleições
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy9zvqle2r0o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 09:30 UTC]** Mendonça homologa delação de doleiro ligado a repasses para Dark Horse
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/mendonca-homologa-delacao-do-doleiro-ligado-repasses-para-dark-horse)_
+
