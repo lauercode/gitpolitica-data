@@ -83,3 +83,6 @@
 - **[2026-09-10 19:24 UTC]** Instituto e produtora de 'Dark Horse' enviaram R$ 100 mil a entidade evangélica, aponta PF em investigação sobre desvio de emendas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/opercao-dark-horse-envios-entidade-evangelica.ghtml)_
 
+- **[2026-09-10 22:22 UTC]** PF diz que produtora de 'Dark Horse' que recebeu emendas de Frias pagou R$ 300 mil a instituto que funcionava em loja de roupas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-diz-que-produtora-de-dark-horse-que-recebeu-emendas-de-frias-pagou-r-300-mil-a-instituto-que-funcionava-em-loja-de-roupas.ghtml)_
+
