@@ -374,3 +374,6 @@
 - **[2026-09-08 16:39 UTC]** Paulo Miklos anuncia show em SP de seu álbum solo, com covers de 'Evidências' e 'Saudosa Maloca'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/09/paulo-miklos-anuncia-show-em-sp-de-seu-album-solo-com-covers-de-evidencias-e-saudosa-maloca.shtml)_
 
+- **[2026-09-10 06:05 UTC]** OAB exige que Paulo Gonet deixe investigação sobre Alexandre de Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-exige-que-paulo-gonet-deixe-investigacao-sobre-alexandre-de-moraes-no-stf/)_
+
