@@ -239,3 +239,6 @@
 - **[2026-09-09 23:08 UTC]** Trump ataca democratas e repete discursos de comício em convenção republicana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-ataca-democratas-e-repete-discursos-de-comicio-em-convencao-republicana.shtml)_
 
+- **[2026-09-10 08:00 UTC]** Gatorade troca corantes artificiais por naturais nos EUA após pressão do governo Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/gatorade-troca-corantes-artificiais-por-naturais-nos-eua-apos-pressao-do-governo-trump.shtml)_
+
