@@ -35,3 +35,6 @@
 - **[2026-09-10 12:16 UTC]** PF apreende 7 armas durante operação que mira Mario Frias e produtora do filme 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-apreende-7-armas-durante-operacao-que-mira-mario-frias-e-produtora-do-filme-dark-horse.ghtml)_
 
+- **[2026-09-10 11:56 UTC]** Operação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/operacao-da-pf-contra-mario-frias-atinge-ex-chefe-de-gabinete-e-dois-assessores-que-atuam-hoje-na-camara-veja-lista-de-alvos.ghtml)_
+
