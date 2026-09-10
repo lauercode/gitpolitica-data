@@ -56,3 +56,6 @@
 - **[2026-09-09 22:40 UTC]** Harry Styles deixa futuro da carreira em aberto: 'Não sei o que vem para mim'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/09/harry-styles-deixa-futuro-da-carreira-em-aberto-nao-sei-o-que-vem-para-mim.shtml)_
 
+- **[2026-09-10 14:31 UTC]** Com déficit projetado de professores, educação gaúcha busca soluções para o futuro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/educacao-gaucha-busca-solucoes-para-o-futuro.ghtml)_
+
