@@ -869,3 +869,6 @@
 - **[2026-09-10 10:32 UTC]** Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 10:02 UTC]** O que Flávio Bolsonaro ainda precisa esclarecer sobre 'Dark Horse' — e por que o filme não sai antes das eleições
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy9zvqle2r0o?at_medium=RSS&at_campaign=rss)_
+
