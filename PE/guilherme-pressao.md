@@ -116,3 +116,6 @@
 - **[2026-09-10 08:00 UTC]** Gatorade troca corantes artificiais por naturais nos EUA após pressão do governo Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/gatorade-troca-corantes-artificiais-por-naturais-nos-eua-apos-pressao-do-governo-trump.shtml)_
 
+- **[2026-09-10 09:22 UTC]** Pressão de Trump faz Jimmy Kimmel cancelar entrevista com democrata na televisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/pressao-de-trump-faz-jimmy-kimmel-cancelar-entrevista-com-democrata-na-televisao.shtml)_
+
