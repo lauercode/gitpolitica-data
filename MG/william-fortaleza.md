@@ -83,3 +83,6 @@
 - **[2026-09-03 17:32 UTC]** Palco Brasil: Festival reúne grandes nomes da MPB em Fortaleza
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/palco-brasil-festival-reune-grandes-nomes-da-mpb-em-fortaleza)_
 
+- **[2026-09-10 03:59 UTC]** Polícia Civil investiga ataques a lojas religiosas no centro de Fortaleza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-civil-investiga-ataques-a-lojas-religiosas-no-centro-de-fortaleza.shtml)_
+
