@@ -896,3 +896,6 @@
 - **[2026-09-10 21:08 UTC]** 'Cruzada' de Mendonça no STF traz eleitor evangélico de volta pra Flávio Bolsonaro, diz Renato Meirelles
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 22:54 UTC]** 'Faltam 24 dias para a eleição, precisam inventar algo contra mim', diz Flávio Bolsonaro sobre ação da PF envolvendo 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-operacao-dark-horse-pf.ghtml)_
+
