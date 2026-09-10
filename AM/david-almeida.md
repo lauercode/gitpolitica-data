@@ -29,3 +29,6 @@
 - **[2026-09-08 20:18 UTC]** Eleições 2026: David Almeida participa de entrevista em Manaus e propõe produção sem queimadas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-david-almeida-participa-de-entrevista-em-manaus-e-propoe-producao-sem-queimadas.ghtml)_
 
+- **[2026-09-10 00:19 UTC]** Eleições 2026: David Almeida participa de entrevista e propõe programa de asfaltamento de vias no interior
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-programa-de-asfaltamento-de-vias-no-interior.ghtml)_
+
