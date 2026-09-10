@@ -86,3 +86,6 @@
 - **[2026-09-10 04:15 UTC]** Corregedoria de SP investiga mudança em morte ligada a seguro de R$ 85 mi
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corregedoria-de-sp-investiga-mudanca-em-morte-ligada-a-seguro-de-r-85-mi.shtml)_
 
+- **[2026-09-10 15:00 UTC]** Canetas para emagrecer exigem mudança de hábitos para manter efeito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/canetas-para-emagrecer-exigem-mudanca-de-habitos-para-manter-efeito.shtml)_
+
