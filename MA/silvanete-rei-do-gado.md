@@ -23,3 +23,6 @@
 - **[2026-09-10 09:00 UTC]** Trabalhador é resgatado de condição análoga à escravidão após um ano em fazenda de gado no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/trabalhador-e-resgatado-de-condicao-analoga-a-escravidao-apos-um-ano-em-fazenda-de-gado-no-acre.ghtml)_
 
+- **[2026-09-10 11:51 UTC]** Gado vendido sem nota e fazenda de fachada: esquema de R$ 30 milhões é alvo de operação em MT e RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/mt/mato-grosso/noticia/2026/09/10/operacao-mira-esquema-de-sonegacao-de-impostos-na-venda-de-gado-entre-mt-e-ro.ghtml)_
+
