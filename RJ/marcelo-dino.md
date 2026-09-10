@@ -185,3 +185,6 @@
 - **[2026-09-10 13:44 UTC]** Flávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-campanha-setembro-2026-roraima.ghtml)_
 
+- **[2026-09-10 13:48 UTC]** Dino cita risco de evasão e proíbe deputado Mario Frias de deixar país
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-cita-risco-de-evasao-e-proibe-deputado-mario-frias-de-deixar-pais)_
+
