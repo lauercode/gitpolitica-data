@@ -167,3 +167,6 @@
 - **[2026-09-10 10:27 UTC]** Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 09:31 UTC]** Lei que extingue taxa das blusinhas será sancionada hoje, 10/9
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/lei-que-extingue-taxa-das-blusinhas-sera-sancionada-hoje-109)_
+
