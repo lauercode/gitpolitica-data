@@ -410,3 +410,6 @@
 - **[2026-09-10 20:13 UTC]** Quem é Vanderlei Natividade, alvo da PF e tesoureiro da ONG de Karina Gama que movimentou R$ 83 milhões
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-vanderlei-natividade-alvo-da-pf-e-tesoureiro-da-ong-de-karina-gama-que-movimentou-r-83-milhoes.ghtml)_
 
+- **[2026-09-10 19:25 UTC]** UFS abre inscrições para mais de 650 vagas ociosas em cursos de graduação presenciais; veja quem pode participar
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/10/ufs-abre-inscricoes-para-mais-de-650-vagas-ociosas-em-cursos-de-graduacao-presenciais-veja-quem-pode-participar.ghtml)_
+
