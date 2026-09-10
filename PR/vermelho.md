@@ -38,3 +38,6 @@
 - **[2026-09-09 16:42 UTC]** Paraná tem 312 cidades sob alerta vermelho de tempestade após atualização do Inmet; veja lista
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/alerta-vermelho-parana-tempestade.ghtml)_
 
+- **[2026-09-10 15:20 UTC]** SC entra em alerta vermelho para tempestades com ventos acima de 100 km/h e queda de granizo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/sc-alerta-vermelho-tempestades-ventos-acima-de-100-quilometros-granizo.ghtml)_
+
