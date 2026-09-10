@@ -218,3 +218,6 @@
 - **[2026-09-10 13:46 UTC]** Sebrae em Sergipe abre credenciamento para consultores e instrutores
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/especial-publicitario/sebrae-sergipe/sebrae-sergipe/noticia/2026/09/10/sebrae-em-sergipe-abre-credenciamento-para-consultores-e-instrutores.ghtml)_
 
+- **[2026-09-10 12:02 UTC]** Funcionários do Banco do Brasil e da Caixa entram em greve por tempo indeterminado em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/10/agencias-bancarias-entram-em-greve-por-tempo-indeterminado-em-sergipe.ghtml)_
+
