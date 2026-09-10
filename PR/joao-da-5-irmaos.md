@@ -65,3 +65,6 @@
 - **[2026-09-09 22:02 UTC]** Juíza decide que irmãos Tate devem continuar presos nos EUA até decisão sobre extradição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiza-decide-que-irmaos-tate-devem-continuar-presos-nos-eua-ate-decisao-sobre-extradicao.shtml)_
 
+- **[2026-09-10 04:00 UTC]** Filme mergulha na turnê de reunião do Oasis e na trégua entre os irmãos Gallagher
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/filme-mergulha-na-turne-de-reuniao-do-oasis-e-na-tregua-entre-os-irmaos-gallagher.shtml)_
+
