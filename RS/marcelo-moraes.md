@@ -1292,3 +1292,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 11:36 UTC]** Alexandre de Moraes fará pronunciamento após perder relatoria do inquérito das Fake News
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9qrn7rpy47o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 10:27 UTC]** Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss)_
+
