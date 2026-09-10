@@ -116,3 +116,6 @@
 - **[2026-09-10 07:00 UTC]** Obras roubadas de Matisse voltarão a ser exibidas na Biblioteca Mário de Andrade após serem recuperadas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/obras-roubadas-de-matisse-voltarao-a-ser-exibidas-na-biblioteca-mario-de-andrade-apos-serem-recuperadas.shtml)_
 
+- **[2026-09-10 16:40 UTC]** ONG de produtora de Dark Horse repassou R$ 8,5 milhões a firma que abasteceu empresas 'laranja' em nome de cuidadora de idosos e servente de obras, diz PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/ong-de-dark-horse-repassou-r-85-milhoes-a-firma-que-abasteceu-empresas-laranja-em-nome-de-cuidadora-de-idosos-e-servente-de-obras-diz-pf.ghtml)_
+
