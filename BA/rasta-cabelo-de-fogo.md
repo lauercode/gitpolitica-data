@@ -116,3 +116,6 @@
 - **[2026-09-10 03:01 UTC]** Influenciador César Rincon tinha 329 munições em rancho mesmo sem registro para arma de fogo
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/influenciador-cesar-rincon-municoes-sem-registro-arma-de-fogo.ghtml)_
 
+- **[2026-09-10 10:58 UTC]** Ônibus escolar fica destruído após pegar fogo no RN; motorista consegue tirar estudantes antes das chamas
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/10/onibus-escolar-fica-destruido-apos-pegar-fogo-no-rn-motorista-consegue-tirar-estudantes-antes-das-chamas.ghtml)_
+
