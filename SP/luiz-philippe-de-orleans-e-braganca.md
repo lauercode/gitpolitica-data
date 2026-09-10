@@ -11,3 +11,6 @@
 - **[2026-09-09 00:01 UTC]** Criminosos rendem funcionários e clientes durante assalto a posto de combustíveis em Bragança
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/08/criminosos-rendem-funcionarios-e-clientes-durante-assalto-a-posto-de-combustiveis-em-braganca.ghtml)_
 
+- **[2026-09-10 21:29 UTC]** Homem morre em acidente de trabalho no município de Bragança, nordeste do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/homem-morre-em-acidente-de-trabalho-no-municipio-de-braganca-nordeste-do-para.ghtml)_
+
