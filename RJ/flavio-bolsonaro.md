@@ -845,3 +845,6 @@
 - **[2026-09-09 22:12 UTC]** Carlos e ala radical voltam a cobrar conexão de Flávio Bolsonaro com o pai e criticar Daniella Marques
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carlos-e-ala-radical-voltam-a-cobrar-conexao-de-flavio-bolsonaro-com-o-pai-e-criticar-daniella-marques.shtml)_
 
+- **[2026-09-09 21:00 UTC]** Casal Estevam e Sonia Hernandes, da Renascer, fecha apoio a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/casal-estevam-e-sonia-hernandes-da-renascer-fecha-apoio-a-flavio-bolsonaro.shtml)_
+
