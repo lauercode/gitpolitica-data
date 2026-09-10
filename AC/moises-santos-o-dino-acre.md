@@ -440,3 +440,6 @@
 - **[2026-09-10 09:00 UTC]** Trabalhador é resgatado de condição análoga à escravidão após um ano em fazenda de gado no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/trabalhador-e-resgatado-de-condicao-analoga-a-escravidao-apos-um-ano-em-fazenda-de-gado-no-acre.ghtml)_
 
+- **[2026-09-10 10:00 UTC]** MPF no Acre recomenda revisão legal da ayahuasca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/virada-psicodelica/2026/09/mpf-no-acre-recomenda-revisao-legal-da-ayahuasca.shtml)_
+
