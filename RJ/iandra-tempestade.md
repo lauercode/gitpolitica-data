@@ -29,3 +29,6 @@
 - **[2026-09-09 16:42 UTC]** Paraná tem 265 cidades sob alerta vermelho de tempestade; veja lista
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/alerta-vermelho-parana-tempestade.ghtml)_
 
+- **[2026-09-10 05:00 UTC]** SP tem alertas de tempestade no litoral e de tornados no sudoeste nesta quinta (10)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sp-tem-alertas-de-tempestade-no-litoral-e-de-tornados-no-sudoeste-nesta-quinta-10.shtml)_
+
