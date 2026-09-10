@@ -17,3 +17,6 @@
 - **[2026-09-05 13:44 UTC]** DIU no SUS: veja como colocar o dispositivo de graça em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/05/diu-no-sus-veja-como-colocar-o-dispositivo-de-graca-em-maceio.ghtml)_
 
+- **[2026-09-10 11:00 UTC]** Streaming exibe k-dramas de graça por uma semana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/k-cultura/2026/09/streaming-exibe-k-dramas-de-graca-por-uma-semana.shtml)_
+
