@@ -203,3 +203,6 @@
 - **[2026-09-10 13:53 UTC]** Caso 'Dark Horse': Dino proíbe Mario Frias de sair do país e ter contato com outros investigados
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml)_
 
+- **[2026-09-10 15:40 UTC]** PF suspeita de desvio de R$ 750 mil para produtora de 'Dark Horse' e de uso de verba pública em filme
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-suspeita-de-desvio-de-r-750-mil-para-produtora-de-dark-horse-e-de-uso-de-verba-publica-em-filme.shtml)_
+
