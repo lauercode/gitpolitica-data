@@ -215,3 +215,6 @@
 - **[2026-09-10 13:30 UTC]** Lula x Rubio? EUA não parabenizam Brasil pelo 7 de Setembro pelo segundo ano seguido
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/lula-x-rubio-eua-nao-parabenizam-brasil-7-setembro-segundo-ano-seguido/)_
 
+- **[2026-09-10 15:24 UTC]** Faturamento da indústria cai 2% em julho, segundo CNI
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/faturamento-da-industria-cai-2-em-julho-segundo-cni)_
+
