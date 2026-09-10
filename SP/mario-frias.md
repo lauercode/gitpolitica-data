@@ -101,3 +101,6 @@
 - **[2026-09-10 18:54 UTC]** Mario Frias chama operação da PF de 'cortina de fumaça' em ano de eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mario-frias-chama-operacao-da-pf-de-cortina-de-fumaca-em-ano-de-eleicao.shtml)_
 
+- **[2026-09-10 18:52 UTC]** PF cita envio de R$ 645 mil de Mario Frias a produtora de 'Dark Horse' e questiona origem de recursos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-cita-envio-de-r-645-mil-de-mario-frias-a-produtora-de-dark-horse-e-questiona-origem-de-recursos.shtml)_
+
