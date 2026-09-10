@@ -14,3 +14,6 @@
 - **[2026-09-07 14:26 UTC]** Cury faz ato em Copacabana, promete financiar 10 milhões de microempresas em favelas e manda ‘abraço muito especial’ a Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/07/augusto-cury-faz-ato-na-praia-de-copacabana.ghtml)_
 
+- **[2026-09-10 07:02 UTC]** Educação é prioridade para moradores de favelas do Rio nas eleições
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/educacao-e-prioridade-para-moradores-de-favelas-do-rio-nas-eleicoes)_
+
