@@ -851,3 +851,6 @@
 - **[2026-09-09 23:02 UTC]** Mendonça homologa delação sobre repasses a filme acerca de Bolsonaro
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/mendonca-homologa-delacao-sobre-repasses-filme-acerca-de-bolsonaro)_
 
+- **[2026-09-10 03:00 UTC]** Crise do STF nas campanhas: Flávio Bolsonaro intensifica ataques a Moraes, e parte da campanha de Lula defende distância do ministro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/crise-no-stf-campanhas-flavio-bolsonaro-e-lula.ghtml)_
+
