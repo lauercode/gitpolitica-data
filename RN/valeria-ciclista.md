@@ -50,3 +50,6 @@
 - **[2026-09-08 11:43 UTC]** Polícia do Rio indicia 13 sob suspeita de envolvimento no caso do ciclista linchado em Copacabana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-do-rio-indicia-13-sob-suspeita-de-envolvimento-no-caso-do-ciclista-linchado-em-copacabana.shtml)_
 
+- **[2026-09-10 13:36 UTC]** MPRJ denuncia cinco pessoas por morte de ciclista em Copacabana
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mprj-denuncia-cinco-pessoas-por-morte-de-ciclista-em-copacabana)_
+
