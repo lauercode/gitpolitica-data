@@ -29,3 +29,6 @@
 - **[2026-09-09 22:56 UTC]** Caldas, no sul de Minas, encanta pelas águas e pela natureza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/caldas-no-sul-de-minas-encanta-pelas-aguas-e-pela-natureza.shtml)_
 
+- **[2026-09-10 19:17 UTC]** Águas de Manaus lança programa sobre descarte correto de óleo de cozinha
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/aguas-de-manaus/aguas-de-manaus/noticia/2026/09/10/aguas-de-manaus-lanca-programa-sobre-descarte-correto-de-oleo-de-cozinha.ghtml)_
+
