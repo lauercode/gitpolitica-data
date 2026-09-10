@@ -260,3 +260,6 @@
 - **[2026-09-10 11:43 UTC]** 4 pontos da fala de Trump em evento eleitoral: 'US$ 5 mil para cada americano' e guerra do Irã vai acabar 'após eleição'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crl6587p7n2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 16:57 UTC]** Em busca de votos, Trump tenta reciclar velha promessa de dinheiro grátis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/em-busca-de-votos-trump-tenta-reciclar-velha-promessa-de-dinheiro-gratis.shtml)_
+
