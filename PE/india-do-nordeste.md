@@ -59,3 +59,6 @@
 - **[2026-09-08 00:00 UTC]** Fãs brasileiros de k-drama se concentram no Norte e Nordeste, diz pesquisa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/fas-brasileiros-de-k-drama-se-concentram-no-norte-e-nordeste-diz-pesquisa.shtml)_
 
+- **[2026-09-10 21:29 UTC]** Homem morre em acidente de trabalho no município de Bragança, nordeste do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/homem-morre-em-acidente-de-trabalho-no-municipio-de-braganca-nordeste-do-para.ghtml)_
+
