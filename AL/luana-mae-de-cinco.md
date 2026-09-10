@@ -179,3 +179,6 @@
 - **[2026-09-09 15:50 UTC]** Cinco pessoas são baleadas durante aniversário em São Luís; policial penal e sargento estão entre as vítimas
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/cinco-pessoas-sao-baleadas-durante-aniversario-em-sao-luis-policial-penal-e-sargento-estao-entre-as-vitimas.ghtml)_
 
+- **[2026-09-10 13:36 UTC]** MPRJ denuncia cinco pessoas por morte de ciclista em Copacabana
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mprj-denuncia-cinco-pessoas-por-morte-de-ciclista-em-copacabana)_
+
