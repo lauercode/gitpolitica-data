@@ -407,3 +407,6 @@
 - **[2026-09-10 13:03 UTC]** Quem é Mario Frias, alvo da PF em operação que investiga suspeita de desvio de emendas e o financiamento de 'Dark Horse'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4gv7ww9p4do?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 20:13 UTC]** Quem é Vanderlei Natividade, alvo da PF e tesoureiro da ONG de Karina Gama que movimentou R$ 83 milhões
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-vanderlei-natividade-alvo-da-pf-e-tesoureiro-da-ong-de-karina-gama-que-movimentou-r-83-milhoes.ghtml)_
+
