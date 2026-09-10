@@ -952,3 +952,7 @@ direitos
 - **[2026-09-10 19:55 UTC]** Concurso da Câmara de São José de Sabugi, PB, abre inscrições com mais de 10 vagas; veja cargos e salários
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/concurso-da-camara-de-sao-jose-de-sabugi-pb-inscricoes-2026.ghtml)_
 
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
