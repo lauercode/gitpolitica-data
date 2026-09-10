@@ -59,3 +59,6 @@
 - **[2026-09-10 09:06 UTC]** Eleições 2026: saiba quais são as propostas dos candidatos ao governo da Paraíba para geração de emprego
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-saiba-quais-sao-as-propostas-dos-candidatos-ao-governo-da-paraiba-para-geracao-de-emprego.ghtml)_
 
+- **[2026-09-10 10:28 UTC]** Jovem cria plataforma para ajudar nova geração de eleitores nas urnas
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/jovem-cria-plataforma-para-ajudar-nova-geracao-de-eleitores-nas-urnas)_
+
