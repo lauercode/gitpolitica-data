@@ -1250,3 +1250,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 00:54 UTC]** Fachin cita “grave lesão à ordem pública” ao travar investigações de Mendonça, Moraes e PGR
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cita-grave-lesao-a-ordem-publica-ao-travar-investigacoes-de-mendonca-moraes-e-pgr/)_
 
+- **[2026-09-10 00:25 UTC]** Fachin intervém na crise, prepara fim do inquérito das fake news e enfraquece Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-intervem-na-crise-prepara-fim-do-inquerito-das-fake-news-e-enfraquece-moraes/)_
+
