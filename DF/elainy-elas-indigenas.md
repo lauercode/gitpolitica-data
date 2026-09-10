@@ -44,3 +44,6 @@
 - **[2026-09-09 21:33 UTC]** MPF investiga empresa Voare por queda de helicóptero que matou dois indígenas na Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/09/mpf-investiga-empresa-voare-por-queda-de-helicoptero-que-matou-dois-indigenas-na-terra-yanomami.ghtml)_
 
+- **[2026-09-10 00:32 UTC]** Indígenas do Acre não precisam apresentar RG e CPF para acesso ao Tratamento Fora de Domicílio, diz MPF
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/indigenas-do-acre-nao-precisam-apresentar-rg-e-cpf-para-acesso-ao-tratamento-fora-de-domicilio-diz-mpf.ghtml)_
+
