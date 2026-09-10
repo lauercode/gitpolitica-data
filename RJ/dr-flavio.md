@@ -1100,3 +1100,6 @@
 - **[2026-09-10 13:44 UTC]** Flávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-campanha-setembro-2026-roraima.ghtml)_
 
+- **[2026-09-10 15:35 UTC]** Ministro do STF Flávio Dino proíbe Mario Frias de sair do país
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/ministro-do-stf-flavio-dino-proibe-mario-frias-de-sair-do-pais)_
+
