@@ -59,3 +59,6 @@
 - **[2026-09-09 21:24 UTC]** Lucas Ribeiro defende ampliação da rede de saúde e interiorização de atendimentos na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/09/lucas-ribeiro-defende-ampliacao-da-rede-de-saude-e-interiorizacao-de-atendimentos-na-paraiba.ghtml)_
 
+- **[2026-09-10 19:59 UTC]** Cícero Lucena entra com ação no TRE-PB contra Lucas Ribeiro por suposto aumento na folha em ano eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/10/cicero-lucena-acao-tre-pb-contra-lucas-ribeiro-suposto-aumento-folha-ano-eleitoral.ghtml)_
+
