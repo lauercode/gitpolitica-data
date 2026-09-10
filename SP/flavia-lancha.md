@@ -14,3 +14,6 @@
 - **[2026-09-03 11:20 UTC]** Vereador morre após ser arremessado de lancha que bateu em banco de areia no Rio Solimões
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/vereador-de-alvaraes-morre-apos-lancha-bater-em-banco-de-areia-no-rio-solimoes.ghtml)_
 
+- **[2026-09-10 22:12 UTC]** VÍDEO: Embarcação bate em lancha atracada durante manobra em terminal de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/10/video-embarcacao-bate-em-lancha-atracada-durante-manobra-em-terminal-de-manaus.ghtml)_
+
