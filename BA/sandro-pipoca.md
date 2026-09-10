@@ -17,3 +17,6 @@
 - **[2026-09-02 20:07 UTC]** 'Um lugar muito lindo': estudantes do Pipoca em Cena mergulham na história do Teatro Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/um-lugar-muito-lindo-estudantes-do-pipoca-em-cena-mergulham-na-historia-do-teatro-amazonas.ghtml)_
 
+- **[2026-09-10 00:55 UTC]** 'Deu pra dar aquela emoção': estudantes exibem filmes produzidos no Pipoca em Cena
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/deu-pra-dar-aquela-emocao-estudantes-exibem-filmes-produzidos-no-pipoca-em-cena.ghtml)_
+
