@@ -302,3 +302,6 @@
 - **[2026-09-10 16:17 UTC]** VÍDEOS: Jornal da Manhã Alagoas de quinta-feira, 10 de setembro de 2026
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/edicao/2026/09/10/videos-jornal-da-manha-alagoas-de-quinta-feira-10-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-10 17:52 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de quinta-feira, 10 de setembro de 2026
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/10/videos-jornal-do-almoco-florianopolis-de-quinta-feira-10-de-setembro-de-2026.ghtml)_
+
