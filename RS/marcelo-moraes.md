@@ -1328,3 +1328,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 13:37 UTC]** Moraes e Toffoli não podem votar no dia 15
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/moraes-e-toffoli-nao-podem-votar-no-dia-15.shtml)_
 
+- **[2026-09-10 13:14 UTC]** Tarcísio elogia ação de Fachin sobre crise do STF e diz não ter como interpretar silêncio de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-elogia-acao-de-fachin-sobre-crise-do-stf-e-diz-nao-ter-como-interpretar-silencio-de-moraes.shtml)_
+
