@@ -464,3 +464,6 @@
 - **[2026-09-10 03:00 UTC]** Eleições 2026: O que faz o presidente?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-o-que-faz-o-presidente.ghtml)_
 
+- **[2026-09-09 23:00 UTC]** Financiamento do SUS, filas de consultas e efeito das bets desafiam novo presidente na área da saúde
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/financiamento-do-sus-filas-de-consultas-e-efeito-das-bets-desafiam-novo-presidente-na-area-da-saude.shtml)_
+
