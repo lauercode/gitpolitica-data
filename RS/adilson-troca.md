@@ -77,3 +77,6 @@
 - **[2026-09-10 12:21 UTC]** Debate entre Ciro e Elmano no Ceará tem dedo em riste e troca de acusações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/debate-entre-ciro-e-elmano-no-ceara-tem-dedo-em-riste-e-troca-de-acusacoes.shtml)_
 
+- **[2026-09-10 16:44 UTC]** Crise no STF teve decisões conflitantes, troca de acusações e operação policial em 10 dias; veja cronologia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/crise-no-stf-teve-decisoes-conflitantes-troca-de-acusacoes-e-operacao-policial-em-10-dias-veja-cronologia.shtml)_
+
