@@ -239,3 +239,6 @@
 - **[2026-09-09 14:04 UTC]** Auditoria-Fiscal do Trabalho resgata trabalhadores em condição análoga à de escravo em fazenda no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/auditoria-fiscal-do-trabalho-resgata-trabalhadores-em-condicao-analoga-a-de-escravo-em-fazenda-no-maranhao.ghtml)_
 
+- **[2026-09-10 19:40 UTC]** Operação liberta quase 500 pessoas em trabalho análogo à escravidão
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-09/operacao-liberta-quase-500-pessoas-em-trabalho-analogo-escravidao)_
+
