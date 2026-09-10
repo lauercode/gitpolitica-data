@@ -1304,3 +1304,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 12:10 UTC]** Fachin foi pressionado por governo e ministros do STF para limitar munição de Moraes e Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-foi-pressionado-por-governo-e-ministros-do-stf-para-limitar-municao-de-moraes-e-mendonca.shtml)_
 
+- **[2026-09-10 08:34 UTC]** Alexandre de Moraes anuncia e depois cancela pronunciamento em meio a crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alexandre-de-moraes-fara-pronunciamento-apos-perder-a-relatoria-do-inquerito-das-fake-news.shtml)_
+
