@@ -197,3 +197,6 @@
 - **[2026-09-08 23:18 UTC]** Senador pede impeachment de Moraes, prisão do diretor da PF e afastamento de Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-pede-impeachment-de-moraes-prisao-do-diretor-da-pf-e-afastamento-de-alcolumbre/)_
 
+- **[2026-09-10 20:50 UTC]** Crise no STF e protestos aumentam pressão sobre Alcolumbre pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-e-protestos-aumentam-pressao-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
+
