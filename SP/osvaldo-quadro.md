@@ -23,3 +23,6 @@
 - **[2026-09-09 12:45 UTC]** Globo cria novo quadro no Mais Você para revelar participantes do Chef de Alto Nível
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/globo-cria-novo-quadro-no-mais-voce-para-revelar-participantes-do-chef-de-alto-nivel.shtml)_
 
+- **[2026-09-10 18:34 UTC]** Julio Casares é expulso do quadro associativo do São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/julio-casares-e-expulso-do-quadro-associativo-do-sao-paulo.shtml)_
+
