@@ -35,3 +35,6 @@
 - **[2026-09-09 06:45 UTC]** Ex-Palmeiras marca e São Paulo perde do Boca Juniors na Sul-Americana
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ex-palmeiras-marca-e-sao-paulo-perde-do-boca-juniors-na-sul-americana)_
 
+- **[2026-09-10 12:54 UTC]** Ciro e Elmano batem boca e apontam dedos em debate no Ceará
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ceara/ciro-e-elmano-batem-boca-e-apontam-dedos-em-debate-no-ceara/)_
+
