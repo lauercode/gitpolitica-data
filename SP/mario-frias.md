@@ -89,3 +89,6 @@
 - **[2026-09-10 20:07 UTC]** Flávio Dino aponta indícios de desvios em emendas parlamentares de Mário Frias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-aponta-indicios-de-desvios-em-emendas-parlamentares-de-mario-frias/)_
 
+- **[2026-09-10 22:22 UTC]** PF diz que produtora de 'Dark Horse' que recebeu emendas de Frias pagou R$ 300 mil a instituto que funcionava em loja de roupas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-diz-que-produtora-de-dark-horse-que-recebeu-emendas-de-frias-pagou-r-300-mil-a-instituto-que-funcionava-em-loja-de-roupas.ghtml)_
+
