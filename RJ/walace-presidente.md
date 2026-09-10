@@ -470,3 +470,6 @@
 - **[2026-09-09 23:00 UTC]** Folha lança série com os desafios que o próximo presidente vai enfrentar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/folha-lanca-serie-com-os-desafios-que-o-proximo-presidente-vai-enfrentar.shtml)_
 
+- **[2026-09-10 04:00 UTC]** Presidente da Colômbia revoga decreto que restringia porte de armas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/presidente-da-colombia-revoga-decreto-que-restringia-porte-de-armas.shtml)_
+
