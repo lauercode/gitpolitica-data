@@ -29,3 +29,6 @@
 - **[2026-09-10 10:28 UTC]** Operação da PF mira deputado Mário Frias e produtora do filme
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/operacao-da-pf-mira-deputado-mario-frias-e-produtora-do-filme)_
 
+- **[2026-09-10 13:53 UTC]** Dino proíbe Mario Frias de sair do país e ter contato com outros investigados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml)_
+
