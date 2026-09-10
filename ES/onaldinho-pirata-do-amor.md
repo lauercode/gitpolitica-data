@@ -62,3 +62,6 @@
 - **[2026-09-10 09:08 UTC]** 'Da Magia à Sedução: Feitiço de Amor', com Sandra Bullock, estreia nos cinemas da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/da-magia-a-seducao-feitico-de-amor-com-sandra-bullock-estreia-nos-cinemas-da-paraiba.ghtml)_
 
+- **[2026-09-10 14:31 UTC]** Sharon Stone diz que aderiu ao celibato e que ainda não encontrou o grande amor de sua vida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/sharon-stone-diz-que-aderiu-ao-celibato-e-que-ainda-nao-encontrou-o-grande-amor-de-sua-vida.shtml)_
+
