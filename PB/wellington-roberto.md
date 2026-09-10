@@ -56,3 +56,6 @@
 - **[2026-09-10 01:56 UTC]** Eleições 2026: Roberto Cidade faz caminhada em Manaus e propõe aumentar brigadistas para combater queimadas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-roberto-cidade-faz-caminhada-em-manaus-e-propoe-aumentar-brigadistas-para-combater-queimadas.ghtml)_
 
+- **[2026-09-10 10:25 UTC]** Jamiroquai, Demi Lovato e Roberto Carlos fazem shows em SP; veja agenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/09/jamiroquai-demi-lovato-e-roberto-carlos-fazem-shows-em-sp-veja-agenda.shtml)_
+
