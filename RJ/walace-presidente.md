@@ -485,3 +485,6 @@
 - **[2026-09-10 10:28 UTC]** Juiz ordena que presidente da Colômbia oculte das redes vídeos ao lado de cadáveres
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiz-ordena-que-presidente-da-colombia-oculte-das-redes-videos-ao-lado-de-cadaveres.shtml)_
 
+- **[2026-09-10 09:00 UTC]** Presidente do Paraguai convida brasileiros a investirem no país e anuncia fórum com empresários
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/presidente-do-paraguai-convida-brasileiros-a-investirem-no-pais-e-anuncia-forum-com-empresarios.shtml)_
+
