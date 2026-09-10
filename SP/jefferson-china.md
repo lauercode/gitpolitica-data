@@ -86,3 +86,6 @@
 - **[2026-09-10 10:53 UTC]** China acelera internacionalização do yuan e amplia liquidez fora do país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/china-acelera-internacionalizacao-do-yuan-e-amplia-liquidez-fora-do-pais.shtml)_
 
+- **[2026-09-10 18:21 UTC]** Incêndio em navio deixa 25 mortos no China
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/incendio-em-navio-deixa-25-mortos-no-china)_
+
