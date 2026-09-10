@@ -128,3 +128,6 @@
 - **[2026-09-10 09:48 UTC]** Causa da morte de jovem encontrada em área de mata em João Pessoa é indeterminada, diz perícia
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/causa-da-morte-de-jovem-encontrada-em-area-de-mata-em-joao-pessoa-e-indeterminada-diz-pericia.ghtml)_
 
+- **[2026-09-10 19:38 UTC]** Queda de avião mata três pessoas em área rural de Mato Grosso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/queda-de-aviao-mata-tres-pessoas-em-area-rural-de-mato-grosso.shtml)_
+
