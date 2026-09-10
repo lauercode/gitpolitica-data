@@ -83,3 +83,6 @@
 - **[2026-09-10 13:20 UTC]** Anvisa aprova novas indicações de medicamento contra câncer de mama
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/anvisa-aprova-novas-indicacoes-de-medicamento-contra-cancer-de-mama)_
 
+- **[2026-09-10 20:18 UTC]** Médica é condenada por dar falsos diagnósticos de câncer de pele e solicitar cirurgias desnecessárias no PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/10/medica-e-condenada-por-falsos-diagnosticos-de-cancer-de-pele-pr.ghtml)_
+
