@@ -1271,3 +1271,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 04:26 UTC]** Edson Fachin assume inquérito das fake news e marca julgamento sobre Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/edson-fachin-assume-inquerito-das-fake-news-e-marca-julgamento-sobre-moraes/)_
 
+- **[2026-09-10 02:04 UTC]** OAB pede afastamento de Gonet de caso que envolve Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-pede-afastamento-de-gonet-de-caso-que-envolve-moraes-e-vorcaro/)_
+
