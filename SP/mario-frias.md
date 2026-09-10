@@ -104,3 +104,6 @@
 - **[2026-09-10 18:52 UTC]** PF cita envio de R$ 645 mil de Mario Frias a produtora de 'Dark Horse' e questiona origem de recursos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-cita-envio-de-r-645-mil-de-mario-frias-a-produtora-de-dark-horse-e-questiona-origem-de-recursos.shtml)_
 
+- **[2026-09-10 22:36 UTC]** Mario Frias diz que operação da PF é “cortina de fumaça” e nega irregularidades
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-diz-que-operacao-da-pf-e-cortina-de-fumaca-e-nega-irregularidades/)_
+
