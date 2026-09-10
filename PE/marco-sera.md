@@ -170,3 +170,6 @@
 - **[2026-09-10 09:31 UTC]** Lei que extingue taxa das blusinhas será sancionada hoje, 10/9
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/lei-que-extingue-taxa-das-blusinhas-sera-sancionada-hoje-109)_
 
+- **[2026-09-10 12:00 UTC]** Pronunciamento de Moraes é cancelado e será remarcado, informa STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pronunciamento-de-moraes-e-cancelado-e-sera-remarcado-informa-stf/)_
+
