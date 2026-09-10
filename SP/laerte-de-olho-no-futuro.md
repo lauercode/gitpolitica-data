@@ -53,3 +53,6 @@
 - **[2026-09-09 15:30 UTC]** Em Veneza, 'Musk', documentário ambicioso, faz público temer pelo futuro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/em-veneza-musk-documentario-ambicioso-faz-publico-temer-pelo-futuro.shtml)_
 
+- **[2026-09-09 22:40 UTC]** Harry Styles deixa futuro da carreira em aberto: 'Não sei o que vem para mim'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/09/harry-styles-deixa-futuro-da-carreira-em-aberto-nao-sei-o-que-vem-para-mim.shtml)_
+
