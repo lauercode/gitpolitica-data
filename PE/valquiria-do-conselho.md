@@ -95,3 +95,6 @@
 - **[2026-09-10 15:36 UTC]** Minha Casa, Minha Vida: conselho do FGTS aumenta subsídios para 2026
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/minha-casa-minha-vida-conselho-do-fgts-aumenta-subsidios-para-2026)_
 
+- **[2026-09-10 18:32 UTC]** Conselho de trânsito proíbe agentes da SPTrans de multar quem invade corredor e faixa de ônibus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/conselho-de-transito-proibe-agentes-da-sptrans-de-multar-quem-invade-corredor-e-faixa-de-onibus.shtml)_
+
