@@ -17,3 +17,6 @@
 - **[2026-09-07 04:00 UTC]** STJ paralisa ações e vai discutir abuso em cartão do consignado e dano moral presumido
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/stj-paralisa-acoes-e-vai-discutir-abuso-em-cartao-do-consignado-e-dano-moral-presumido.shtml)_
 
+- **[2026-09-10 15:56 UTC]** Servidora de hospital denuncia assédio moral por farmacêutico investigado no AC: 'Anos de sofrimento'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/servidora-de-hospital-denuncia-assedio-moral-por-biomedico-investigado-no-ac-anos-de-sofrimento.ghtml)_
+
