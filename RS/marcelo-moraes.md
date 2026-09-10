@@ -1331,3 +1331,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 13:14 UTC]** Tarcísio elogia ação de Fachin sobre crise do STF e diz não ter como interpretar silêncio de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-elogia-acao-de-fachin-sobre-crise-do-stf-e-diz-nao-ter-como-interpretar-silencio-de-moraes.shtml)_
 
+- **[2026-09-10 12:52 UTC]** Moraes preparou defesa pública, mas adiou fala após conselho de aliados e operação sobre 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-preparou-defesa-publica-mas-adiou-fala-apos-conselho-de-aliados-e-operacao-sobre-dark-horse.shtml)_
+
