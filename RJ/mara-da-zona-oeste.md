@@ -41,3 +41,6 @@
 - **[2026-09-06 16:03 UTC]** Adolescente morre afogado em balneário de Santa Luzia d'Oeste, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/06/adolescente-morre-afogado-em-balneario-de-santa-luzia-doeste-ro.ghtml)_
 
+- **[2026-09-10 13:48 UTC]** Homem de 54 anos é preso sob suspeita de estuprar adolescente por três dias na zona oeste do RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/homem-de-54-anos-e-preso-sob-suspeita-de-estuprar-adolescente-por-tres-dias-na-zona-oeste-do-rj.shtml)_
+
