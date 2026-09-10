@@ -341,3 +341,6 @@
 - **[2026-09-09 21:33 UTC]** MPF investiga empresa Voare por queda de helicóptero que matou dois indígenas na Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/09/mpf-investiga-empresa-voare-por-queda-de-helicoptero-que-matou-dois-indigenas-na-terra-yanomami.ghtml)_
 
+- **[2026-09-10 11:56 UTC]** Operação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/operacao-da-pf-contra-mario-frias-atinge-ex-chefe-de-gabinete-e-dois-assessores-que-atuam-hoje-na-camara-veja-lista-de-alvos.ghtml)_
+
