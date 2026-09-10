@@ -71,3 +71,6 @@
 - **[2026-09-10 14:35 UTC]** Considerado melhor show do Rock in Rio, Jota Quest foi 'batizado' por Tim Maia em festival no RS nos anos 1990; veja VÍDEO do momento
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/jota-quest-batizado-tim-maia-festival-rs.ghtml)_
 
+- **[2026-09-10 11:59 UTC]** Após alta, mãe de jovem com síndrome rara que viralizou dançando em hospital celebra momento: 'Como se estivesse dando os primeiros passos'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/apos-alta-mae-de-jovem-com-sindrome-rara-que-viralizou-dancando-em-hospital-celebra-momento-como-se-estivesse-dando-os-primeiros-passos.ghtml)_
+
