@@ -221,3 +221,6 @@
 - **[2026-09-10 16:35 UTC]** Entenda as duas investigações sobre 'Dark Horse': uma envolve Daniel Vorcaro, e a outra, Mario Frias
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj9xz29p70eo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 19:24 UTC]** Instituto e produtora de 'Dark Horse' enviaram R$ 100 mil a entidade evangélica, aponta PF em investigação sobre desvio de emendas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/opercao-dark-horse-envios-entidade-evangelica.ghtml)_
+
