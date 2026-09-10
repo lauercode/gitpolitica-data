@@ -11,3 +11,6 @@
 - **[2026-09-04 15:07 UTC]** Quem é Billy Barratt, novo Voldemort de 'Harry Potter'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/quem-e-billy-barratt-novo-voldemort-de-harry-potter.shtml)_
 
+- **[2026-09-10 09:44 UTC]** Billy Joel passa por cirurgia no cérebro após cancelar shows e relata recuperação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/billy-joel-passa-por-cirurgia-no-cerebro-apos-cancelar-shows-e-relata-recuperacao.shtml)_
+
