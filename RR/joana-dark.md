@@ -137,3 +137,6 @@
 - **[2026-09-10 08:00 UTC]** Do homem da mala para 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/09/do-homem-da-mala-para-dark-horse.shtml)_
 
+- **[2026-09-10 07:04 UTC]** PF deflagra operação sobre financiamento de 'Dark Horse', filme de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-deflagra-operacao-sobre-dinheiro-de-vorcaro-para-filme-de-bolsonaro.shtml)_
+
