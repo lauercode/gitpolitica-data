@@ -437,3 +437,6 @@
 - **[2026-09-09 23:58 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta quarta-feira (9)
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quarta-feira-9.ghtml)_
 
+- **[2026-09-10 09:00 UTC]** Trabalhador é resgatado de condição análoga à escravidão após um ano em fazenda de gado no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/trabalhador-e-resgatado-de-condicao-analoga-a-escravidao-apos-um-ano-em-fazenda-de-gado-no-acre.ghtml)_
+
