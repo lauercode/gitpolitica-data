@@ -17,3 +17,6 @@
 - **[2026-09-04 09:00 UTC]** MPF investiga DSEI Yanomami por irregularidades em tratamento para 'bicho-de-pé'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/04/mpf-investiga-dsei-yanomami-por-irregularidades-em-tratamento-para-bicho-de-pe.ghtml)_
 
+- **[2026-09-10 20:11 UTC]** MPF dá 30 dias para governo federal comprar remédio contra bicho-de-pé para Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/mpf-da-30-dias-para-governo-federal-comprar-remedio-contra-bicho-de-pe-para-terra-yanomami.ghtml)_
+
