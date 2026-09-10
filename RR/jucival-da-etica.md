@@ -17,3 +17,6 @@
 - **[2026-09-08 21:13 UTC]** Representantes de empresas e da sociedade civil lançam manifestos e cobram ética e urgência do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/representantes-de-empresas-e-da-sociedade-civil-lancam-manifestos-e-cobram-etica-e-urgencia-do-stf.shtml)_
 
+- **[2026-09-10 18:30 UTC]** Conselho de Direitos Humanos cobra revisão ética no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/conselho-de-direitos-humanos-cobra-revisao-etica-no-stf.shtml)_
+
