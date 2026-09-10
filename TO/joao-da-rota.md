@@ -23,3 +23,6 @@
 - **[2026-09-10 03:54 UTC]** Mendonça, Moraes, Dino e Fachin: o STF em rota de colisão - O Assunto #1801
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/10/mendonca-moraes-dino-e-fachin-o-stf-em-rota-de-colisao-o-assunto-1801.ghtml)_
 
+- **[2026-09-10 09:20 UTC]** Rota do celular roubado em SP inclui rua Guaianases, região da 25 de Março e Shopping Mundo Oriental, diz Promotoria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/rota-do-celular-roubado-em-sp-inclui-rua-guaianases-regiao-da-25-de-marco-e-shopping-mundo-oriental-diz-promotoria.shtml)_
+
