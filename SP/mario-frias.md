@@ -44,3 +44,6 @@
 - **[2026-09-10 12:22 UTC]** Dino proíbe Mário Frias de sair do país e critica fuga de parlamentares investigados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-proibe-mario-frias-de-sair-do-pais-e-critica-evasao-internacional-de-parlamentares-investigados.shtml)_
 
+- **[2026-09-10 14:40 UTC]** Oposição pressiona Senado por impeachment de Dino após operação contra Frias
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-pressiona-senado-por-impeachment-de-dino-apos-operacao-contra-frias/)_
+
