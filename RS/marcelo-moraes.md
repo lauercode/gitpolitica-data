@@ -1322,3 +1322,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 11:55 UTC]** Alexandre de Moraes cancela pronunciamento uma hora depois de anunciar que falaria no Supremo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9qrn7rpy47o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 13:19 UTC]** Moraes cancela pronunciamento no STF após crise na Corte
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/moraes-cancela-pronunciamento-no-stf-apos-crise-na-corte)_
+
