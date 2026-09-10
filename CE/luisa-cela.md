@@ -11,3 +11,6 @@
 - **[2026-09-08 14:30 UTC]** Detento abre buraco em cela e é pego ao tentar fugir de presídio pela 2ª vez no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/detento-abre-buraco-em-cela-e-e-pego-ao-tentar-fugir-de-presidio-pela-2a-vez-no-acre.ghtml)_
 
+- **[2026-09-10 14:01 UTC]** Presos ateiam fogo em delegacia do AM durante motim após policiais encontrarem buraco em cela; VÍDEO
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/10/presos-ateiam-fogo-em-delegacia-do-am-durante-motim-apos-policiais-encontrarem-buraco-em-cela-video.ghtml)_
+
