@@ -14,3 +14,6 @@
 - **[2026-09-05 15:30 UTC]** 'Nos conhecemos muitas vidas atrás', diz Nicole Kidman sobre Sandra Bullock
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/nos-conhecemos-muitas-vidas-atras-diz-nicole-kidman-sobre-sandra-bullock.shtml)_
 
+- **[2026-09-09 23:00 UTC]** Nicole Kidman e Sandra Bullock voltam a ser bruxas em 'Da Magia à Sedução: Feitiço de Amor'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/09/nicole-kidman-e-sandra-bullock-voltam-a-ser-bruxas-em-da-magia-a-seducao-feitico-de-amor.shtml)_
+
