@@ -239,3 +239,6 @@
 - **[2026-09-10 22:54 UTC]** 'Faltam 24 dias para a eleição, precisam inventar algo contra mim', diz Flávio Bolsonaro sobre ação da PF envolvendo 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-operacao-dark-horse-pf.ghtml)_
 
+- **[2026-09-10 22:22 UTC]** PF diz que produtora de 'Dark Horse' que recebeu emendas de Frias pagou R$ 300 mil a instituto que funcionava em loja de roupas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-diz-que-produtora-de-dark-horse-que-recebeu-emendas-de-frias-pagou-r-300-mil-a-instituto-que-funcionava-em-loja-de-roupas.ghtml)_
+
