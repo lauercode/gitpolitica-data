@@ -305,3 +305,6 @@
 - **[2026-09-10 18:13 UTC]** Projeto obriga postos a trocar bombas de combustíveis flagradas em fraude
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303080-projeto-obriga-postos-a-trocar-bombas-de-combustiveis-flagradas-em-fraude)_
 
+- **[2026-09-10 15:45 UTC]** Projeto permite transferência gratuita de titularidade de passagem aérea
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303529-projeto-permite-transferencia-gratuita-de-titularidade-de-passagem-aerea)_
+
