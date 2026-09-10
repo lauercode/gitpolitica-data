@@ -20,3 +20,6 @@
 - **[2026-09-02 21:45 UTC]** TSE forma maioria para aprovar registros de candidatura de Lula, Flávio Bolsonaro e Romeu Zema
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml)_
 
+- **[2026-09-09 20:45 UTC]** Mendonça manda soltar Romeu Antunes, filho do "Careca do INSS"
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/mendonca-manda-soltar-romeu-antunes-filho-do-careca-do-inss)_
+
