@@ -59,3 +59,6 @@
 - **[2026-09-10 14:31 UTC]** Com déficit projetado de professores, educação gaúcha busca soluções para o futuro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/educacao-gaucha-busca-solucoes-para-o-futuro.ghtml)_
 
+- **[2026-09-10 16:59 UTC]** Trainees da Folha simulam cirurgia robótica e exploram futuro da medicina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/09/trainees-da-folha-simulam-cirurgia-robotica-e-exploram-futuro-da-medicina.shtml)_
+
