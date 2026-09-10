@@ -77,3 +77,6 @@
 - **[2026-09-09 20:23 UTC]** MP Eleitoral abre investigação contra vereador que disse que prefeito deve 'obrigar' votos de servidores contratados na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/mp-eleitoral-investigacao-vereador-disse-que-prefeito-obrigar-votos-servidores-contratados-pb.ghtml)_
 
+- **[2026-09-10 15:22 UTC]** TRE confirma que prefeito e vice de Porto da Folha vão retornar aos cargos
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/10/tre-confirma-que-prefeito-e-vice-de-porto-da-folha-vao-retornar-aos-cargos.ghtml)_
+
