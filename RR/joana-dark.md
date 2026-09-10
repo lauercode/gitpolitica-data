@@ -242,3 +242,6 @@
 - **[2026-09-10 22:22 UTC]** PF diz que produtora de 'Dark Horse' que recebeu emendas de Frias pagou R$ 300 mil a instituto que funcionava em loja de roupas
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-diz-que-produtora-de-dark-horse-que-recebeu-emendas-de-frias-pagou-r-300-mil-a-instituto-que-funcionava-em-loja-de-roupas.ghtml)_
 
+- **[2026-09-10 18:52 UTC]** PF cita envio de R$ 645 mil de Mario Frias a produtora de 'Dark Horse' e questiona origem de recursos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-cita-envio-de-r-645-mil-de-mario-frias-a-produtora-de-dark-horse-e-questiona-origem-de-recursos.shtml)_
+
