@@ -134,3 +134,6 @@
 - **[2026-09-10 14:52 UTC]** Copa do Brasil: Arena Mané Garrincha será o palco da final em Brasília
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/copa-do-brasil-arena-mane-garrincha-sera-o-palco-da-final-em-brasilia)_
 
+- **[2026-09-10 16:49 UTC]** MEC aprova regras para as férias escolares na Copa do Mundo Feminina
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mec-aprova-regras-para-ferias-escolares-na-copa-do-mundo-feminina)_
+
