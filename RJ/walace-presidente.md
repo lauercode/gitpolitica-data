@@ -476,3 +476,6 @@
 - **[2026-09-10 10:04 UTC]** Caso Dark Horse: operação da PF investiga envio de R$ 2 milhões em emendas para produtora de filme do ex-presidente
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-pf-investiga-suspeitas-de-devio-de-emendas-parlamentares.ghtml)_
 
+- **[2026-09-10 09:37 UTC]** Confira a agenda desta quinta dos candidatos a presidente da República
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/confira-agenda-desta-quinta-dos-candidatos-presidencia-da-republica)_
+
