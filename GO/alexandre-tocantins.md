@@ -134,3 +134,6 @@
 - **[2026-09-09 13:37 UTC]** Tocantins teve 34 tremores de terra nos últimos 30 anos; veja cidades com mais registros
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/tocantins-teve-34-tremores-de-terras-nos-ultimos-30-anos-veja-cidades-com-mais-registros.ghtml)_
 
+- **[2026-09-09 23:54 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao Governo do Tocantins nesta quarta-feira (9)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quarta-feira-9.ghtml)_
+
