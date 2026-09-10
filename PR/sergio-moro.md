@@ -44,3 +44,6 @@
 - **[2026-09-08 23:04 UTC]** Eleições 2026 no PR: Sergio Moro participa de celebrações religiosas
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-no-pr-sergio-moro-participa-de-celebracoes-religiosas.ghtml)_
 
+- **[2026-09-09 23:25 UTC]** Eleições 2026 no PR: Sérgio Moro faz carreatas em seis cidades da Grande Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-no-pr-sergio-moro.ghtml)_
+
