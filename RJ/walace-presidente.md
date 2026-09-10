@@ -473,3 +473,6 @@
 - **[2026-09-10 04:00 UTC]** Presidente da Colômbia revoga decreto que restringia porte de armas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/presidente-da-colombia-revoga-decreto-que-restringia-porte-de-armas.shtml)_
 
+- **[2026-09-10 10:04 UTC]** Caso Dark Horse: operação da PF investiga envio de R$ 2 milhões em emendas para produtora de filme do ex-presidente
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-pf-investiga-suspeitas-de-devio-de-emendas-parlamentares.ghtml)_
+
