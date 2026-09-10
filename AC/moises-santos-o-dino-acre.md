@@ -431,3 +431,6 @@
 - **[2026-09-09 22:56 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 9 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-9-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-10 00:32 UTC]** Indígenas do Acre não precisam apresentar RG e CPF para acesso ao Tratamento Fora de Domicílio, diz MPF
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/indigenas-do-acre-nao-precisam-apresentar-rg-e-cpf-para-acesso-ao-tratamento-fora-de-domicilio-diz-mpf.ghtml)_
+
