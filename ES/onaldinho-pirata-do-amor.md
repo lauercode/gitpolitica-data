@@ -65,3 +65,6 @@
 - **[2026-09-10 14:31 UTC]** Sharon Stone diz que aderiu ao celibato e que ainda não encontrou o grande amor de sua vida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/sharon-stone-diz-que-aderiu-ao-celibato-e-que-ainda-nao-encontrou-o-grande-amor-de-sua-vida.shtml)_
 
+- **[2026-09-10 20:30 UTC]** ‘Da Magia à Sedução: Feitiço de Amor’ e mais três filmes estreiam nos cinemas de Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/da-magia-a-seducao-feitico-de-amor-e-mais-tres-filmes-estreiam-nos-cinemas-de-boa-vista.ghtml)_
+
