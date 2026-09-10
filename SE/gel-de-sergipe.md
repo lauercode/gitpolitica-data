@@ -209,3 +209,6 @@
 - **[2026-09-09 21:06 UTC]** Eleições 2026: Delegado André David e André Moura cancelam participação em entrevista na FM Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-cancelamento-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-10 10:20 UTC]** Orquestra Sinfônica de Sergipe apresenta concerto com músicas de K-pop e doramas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/10/orquestra-sinfonica-de-sergipe-apresenta-concerto-com-musicas-de-k-pop-e-doramas.ghtml)_
+
