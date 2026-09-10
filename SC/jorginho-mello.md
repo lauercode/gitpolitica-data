@@ -41,3 +41,6 @@
 - **[2026-09-09 22:32 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras da SC-408 e participa de sabatina em Jaraguá do Sul
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-em-sc-jorginho-mello-visita-obras-da-sc-408-e-participa-de-sabatina-em-jaragua-do-sul.ghtml)_
 
+- **[2026-09-10 22:25 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras e reúne com apoiadores no Vale do Itajaí
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-jorginho-mello-visita-obras-e-reune-com-apoiadores-no-vale-do-itajai.ghtml)_
+
