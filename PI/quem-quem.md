@@ -404,3 +404,6 @@
 - **[2026-09-10 10:13 UTC]** Quem é Mario Frias, ator de 'Malhação' que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml)_
 
+- **[2026-09-10 13:03 UTC]** Quem é Mario Frias, alvo da PF em operação que investiga suspeita de desvio de emendas e o financiamento de 'Dark Horse'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4gv7ww9p4do?at_medium=RSS&at_campaign=rss)_
+
