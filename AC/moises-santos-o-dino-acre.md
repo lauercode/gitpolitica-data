@@ -443,3 +443,6 @@
 - **[2026-09-10 10:00 UTC]** MPF no Acre recomenda revisão legal da ayahuasca
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/virada-psicodelica/2026/09/mpf-no-acre-recomenda-revisao-legal-da-ayahuasca.shtml)_
 
+- **[2026-09-10 17:42 UTC]** Mais de 100 profissionais devem atuar na segurança da 20ª Parada do Orgulho LGBT+ no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/mais-de-100-profissionais-devem-atuar-na-seguranca-da-20a-parada-do-orgulho-lgbt-no-acre.ghtml)_
+
