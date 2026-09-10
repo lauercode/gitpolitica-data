@@ -350,3 +350,6 @@
 - **[2026-09-10 19:23 UTC]** Número de lares com idosos em insegurança alimentar cai em dois anos
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/numero-de-lares-com-idosos-em-inseguranca-alimentar-cai-em-dois-anos)_
 
+- **[2026-09-10 21:30 UTC]** Dois supermercados são autuados após fiscalização identificar produtos vencidos na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/dois-supermercados-sao-autuados-apos-fiscalizacao-identificar-produtos-vencidos-na-paraiba.ghtml)_
+
