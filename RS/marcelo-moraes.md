@@ -1340,3 +1340,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 16:25 UTC]** Fachin cancela sessão do STF pela 2ª vez antes de análise do caso Moraes-Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cancela-sessao-do-stf-pela-2a-vez-antes-de-analise-do-caso-moraes-vorcaro/)_
 
+- **[2026-09-10 16:22 UTC]** Fachin reage à crise no STF e toma decisão histórica sobre Moraes e o inquérito das fake news
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-reage-a-crise-no-stf-e-toma-decisao-historica-sobre-moraes-e-o-inquerito-das-fake-news/)_
+
