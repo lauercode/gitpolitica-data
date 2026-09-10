@@ -71,3 +71,6 @@
 - **[2026-09-09 19:42 UTC]** Árvore cai sobre carrinho de lanches em Macapá; Bombeiros orientam como pedir vistoria
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/09/arvore-cai-sobre-carrinho-de-lanches-em-macapa-bombeiros-orientam-como-pedir-vistoria.ghtml)_
 
+- **[2026-09-10 14:33 UTC]** Bombeiros publicam regras para instalação de carregadores de carros elétricos no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/10/bombeiros-publicam-regras-para-instalacao-de-carregadores-de-carros-eletricos-no-to.ghtml)_
+
