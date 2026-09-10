@@ -305,3 +305,6 @@
 - **[2026-09-10 17:52 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de quinta-feira, 10 de setembro de 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/10/videos-jornal-do-almoco-florianopolis-de-quinta-feira-10-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-10 20:48 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 10 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-10-de-setembro-de-2026.ghtml)_
+
