@@ -446,3 +446,6 @@
 - **[2026-09-10 17:42 UTC]** Mais de 100 profissionais devem atuar na segurança da 20ª Parada do Orgulho LGBT+ no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/mais-de-100-profissionais-devem-atuar-na-seguranca-da-20a-parada-do-orgulho-lgbt-no-acre.ghtml)_
 
+- **[2026-09-10 20:48 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 10 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-10-de-setembro-de-2026.ghtml)_
+
