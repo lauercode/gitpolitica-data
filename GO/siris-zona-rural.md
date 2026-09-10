@@ -62,3 +62,6 @@
 - **[2026-09-10 15:03 UTC]** Com apoio da prefeitura, colheita de milho inicia na zona rural de Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/prefeitura-de-boa-vista/boa-vista-a-capital-modelo-da-amazonia/noticia/2026/09/10/com-apoio-da-prefeitura-colheita-de-milho-inicia-na-zona-rural-de-boa-vista.ghtml)_
 
+- **[2026-09-10 16:52 UTC]** Homem é preso em flagrante suspeito de provocar incêndio em área rural de Porto Grande, no AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/10/homem-e-preso-em-flagrante-suspeito-de-provocar-incendio-em-area-rural-de-porto-grande-no-ap.ghtml)_
+
