@@ -182,3 +182,6 @@
 - **[2026-09-09 10:36 UTC]** A um número do prêmio principal, aposta do Paraná fatura R$ 34 mil na Mega-Sena; veja cidade
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/aposta-parana-quina-mega-sena.ghtml)_
 
+- **[2026-09-10 01:56 UTC]** Eleições 2026: Roberto Cidade faz caminhada em Manaus e propõe aumentar brigadistas para combater queimadas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-roberto-cidade-faz-caminhada-em-manaus-e-propoe-aumentar-brigadistas-para-combater-queimadas.ghtml)_
+
