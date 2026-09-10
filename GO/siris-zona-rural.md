@@ -65,3 +65,6 @@
 - **[2026-09-10 16:52 UTC]** Homem é preso em flagrante suspeito de provocar incêndio em área rural de Porto Grande, no AP
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/10/homem-e-preso-em-flagrante-suspeito-de-provocar-incendio-em-area-rural-de-porto-grande-no-ap.ghtml)_
 
+- **[2026-09-10 16:52 UTC]** Pai e filho são baleados dentro de casa na zona rural de Buriti
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/10/pai-e-filho-sao-baleados-dentro-de-casa-na-zona-rural-de-buriti.ghtml)_
+
