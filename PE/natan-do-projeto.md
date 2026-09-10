@@ -284,3 +284,6 @@
 - **[2026-09-09 22:14 UTC]** Eleições 2026 no RS: Rejane de Oliveira defende construção de 'projeto pedagógico com a comunidade escolar'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-no-rs-rejane-de-oliveira-defende-construcao-de-projeto-pedagogico-com-a-comunidade-escolar.ghtml)_
 
+- **[2026-09-09 22:34 UTC]** Projeto limita a rolagem contínua de vídeos em redes sociais para proteger saúde mental
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302968-projeto-limita-a-rolagem-continua-de-videos-em-redes-sociais-para-proteger-saude-mental)_
+
