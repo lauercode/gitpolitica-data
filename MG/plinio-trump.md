@@ -257,3 +257,6 @@
 - **[2026-09-10 08:59 UTC]** FMI descartou crítico de tarifas de Trump para ser economista-chefe, diz jornal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fmi-descartou-critico-de-tarifas-de-trump-para-ser-economista-chefe-diz-jornal.shtml)_
 
+- **[2026-09-10 11:43 UTC]** 4 pontos da fala de Trump em evento eleitoral: 'US$ 5 mil para cada americano' e guerra do Irã vai acabar 'após eleição'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crl6587p7n2o?at_medium=RSS&at_campaign=rss)_
+
