@@ -26,3 +26,6 @@
 - **[2026-09-09 21:45 UTC]** Allyson Bezerra defende convocação de aprovados em concursos da segurança no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/09/allyson-bezerra-defende-convocacao-de-aprovados-em-concursos-da-seguranca-no-rn.ghtml)_
 
+- **[2026-09-10 21:41 UTC]** Allyson Bezerra faz carreata em Natal e apresenta proposta para capacitar jovens
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/10/allyson-bezerra-faz-carreata-em-natal-e-apresenta-proposta-para-capacitar-jovens.ghtml)_
+
