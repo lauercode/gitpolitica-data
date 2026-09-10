@@ -41,3 +41,6 @@
 - **[2026-09-10 08:00 UTC]** Conectar capitais transforma territórios
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/conectar-capitais-transforma-territorios.shtml)_
 
+- **[2026-09-10 07:47 UTC]** Operação mira esquema que transforma celulares roubados em produtos para revenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-mira-esquema-que-transforma-celulares-roubados-em-produtos-para-revenda.shtml)_
+
