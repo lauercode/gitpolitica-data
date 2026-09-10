@@ -68,3 +68,6 @@
 - **[2026-09-10 16:21 UTC]** Instituto de produtora de ‘Dark Horse’ usou emendas de Mario Frias para comprar quimonos, uniformes e tatames não entregues para projeto esportivo em SP
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/emendas-mario-frias-instituto-karina-gama-projetos-investigados-pf-cgu.ghtml)_
 
+- **[2026-09-10 16:03 UTC]** Caso 'Dark Horse': veja argumentos de Dino para puxar apuração de SP contra Mario Frias para STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-veja-argumentos-de-dino-para-puxar-apuracao-de-sp-contra-mario-frias-para-o-stf.ghtml)_
+
