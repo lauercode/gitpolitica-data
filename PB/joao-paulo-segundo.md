@@ -218,3 +218,6 @@
 - **[2026-09-10 15:24 UTC]** Faturamento da indústria cai 2% em julho, segundo CNI
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/faturamento-da-industria-cai-2-em-julho-segundo-cni)_
 
+- **[2026-09-10 17:48 UTC]** Fachin cancela, pelo segundo dia consecutivo, sessão plenária do STF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-cancela-pelo-segundo-dia-consecutivo-sessao-plenaria-do-stf)_
+
