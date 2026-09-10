@@ -1346,3 +1346,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 20:50 UTC]** Crise no STF e protestos aumentam pressão sobre Alcolumbre pelo impeachment de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-e-protestos-aumentam-pressao-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
 
+- **[2026-09-10 19:48 UTC]** Escândalo envolvendo Moraes e o STF é uma ameaça à democracia do Brasil, diz The Economist
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/escandalo-envolvendo-moraes-e-o-stf-e-uma-ameaca-a-democracia-do-brasil-diz-the-economist/)_
+
