@@ -185,3 +185,6 @@
 - **[2026-09-10 01:56 UTC]** Eleições 2026: Roberto Cidade faz caminhada em Manaus e propõe aumentar brigadistas para combater queimadas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-roberto-cidade-faz-caminhada-em-manaus-e-propoe-aumentar-brigadistas-para-combater-queimadas.ghtml)_
 
+- **[2026-09-10 16:13 UTC]** Cidade do interior paulista registra ventos de quase 90 km/h; Defesa Civil prepara gabinete de crise
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cidade-do-interior-paulista-registra-ventos-de-quase-90-kmh-defesa-civil-prepara-gabinete-de-crise.shtml)_
+
