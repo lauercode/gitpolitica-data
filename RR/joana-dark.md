@@ -167,3 +167,6 @@
 - **[2026-09-10 08:32 UTC]** Operação sobre 'Dark Horse' mira emendas para filme e apreende armas, diz PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-cumpre-mandado-de-busca-e-apreensao-contra-mario-frias-em-operacao-sobre-dark-horse.shtml)_
 
+- **[2026-09-10 13:09 UTC]** PF apreende armas ligadas a Mário Frias em operação do caso Dark Horse
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-apreende-armas-ligadas-a-frias-em-operacao-do-caso-dark-horse/)_
+
