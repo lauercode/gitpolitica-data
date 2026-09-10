@@ -80,3 +80,6 @@
 - **[2026-09-09 19:35 UTC]** Brasil encara Costa Rica na semi da Copa América de futebol de cegos
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encara-costa-rica-na-semi-da-copa-america-de-futebol-de-cegos)_
 
+- **[2026-09-10 19:18 UTC]** Futebol de cegos: Brasil vai à final da Copa América contra Colômbia
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-de-cegos-brasil-vai-final-da-copa-america-contra-colombia)_
+
