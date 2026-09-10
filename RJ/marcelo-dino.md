@@ -158,3 +158,6 @@
 - **[2026-09-10 00:47 UTC]** Escândalo Moraes sai do foco com ajuda de Dino e Fachin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/escandalo-moraes-sai-do-foco-com-ajuda-de-dino-e-fachin/)_
 
+- **[2026-09-10 00:07 UTC]** Em meio à crise institucional, Dino consagra sua imagem de soldado de Lula no STF
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/silvio-ribas/em-meio-a-crise-institucional-dino-consagra-sua-imagem-de-soldado-de-lula-no-stf/)_
+
