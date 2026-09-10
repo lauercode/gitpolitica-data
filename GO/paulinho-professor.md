@@ -119,3 +119,6 @@
 - **[2026-09-10 08:50 UTC]** Professor da rede municipal é preso suspeito de crimes sexuais contra alunas no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/professor-rede-municipal-preso-suspeito-crimes-sexuais-contra-alunas-dois-irmaos-rs.ghtml)_
 
+- **[2026-09-10 14:45 UTC]** Professor da rede municipal de Ponta Grossa ganha R$ 100 mil no sorteio do Nota Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/10/morador-ponta-grossa-nota-parana.ghtml)_
+
