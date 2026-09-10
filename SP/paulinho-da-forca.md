@@ -125,3 +125,6 @@
 - **[2026-09-09 18:07 UTC]** Rio recebe base da Força Nacional do SUS para enfrentar El Niño
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/rio-recebe-base-da-forca-nacional-do-sus-para-enfrentar-el-nino)_
 
+- **[2026-09-10 08:00 UTC]** Instabilidade ganha força em regiões do RS com risco de tempestades, granizo e rajadas de vento nesta quinta-feira
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/instabilidade-regioes-rs-tempestades-granizo-rajadas-de-vento-quinta-feira.ghtml)_
+
