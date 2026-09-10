@@ -14,3 +14,6 @@
 - **[2026-09-07 15:03 UTC]** Turistas são assaltados por grupo armado após festa em Pipa
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/07/turistas-sao-assaltados-por-grupo-armado-apos-festa-em-pipa.ghtml)_
 
+- **[2026-09-10 12:46 UTC]** Justiça determina nova perícia sobre pousada em área de preservação na Praia de Pipa
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/10/justica-determina-nova-pericia-sobre-pousada-em-area-de-preservacao-na-praia-de-pipa.ghtml)_
+
