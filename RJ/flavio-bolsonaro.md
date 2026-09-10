@@ -890,3 +890,6 @@
 - **[2026-09-10 16:58 UTC]** Moraes autoriza visita de familiares a Bolsonaro durante campanha de Michelle
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visita-de-familiares-a-bolsonaro-durante-campanha-de-michelle/)_
 
+- **[2026-09-10 20:43 UTC]** PF identifica R$ 1,4 milhão de Frias e empresa investigada para produtora de filme sobre Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-identifica-r-14-milhao-de-frias-e-empresa-investigada-para-produtora-de-filme-sobre-bolsonaro.ghtml)_
+
