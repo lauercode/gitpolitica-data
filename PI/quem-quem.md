@@ -413,3 +413,6 @@
 - **[2026-09-10 19:25 UTC]** UFS abre inscrições para mais de 650 vagas ociosas em cursos de graduação presenciais; veja quem pode participar
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/10/ufs-abre-inscricoes-para-mais-de-650-vagas-ociosas-em-cursos-de-graduacao-presenciais-veja-quem-pode-participar.ghtml)_
 
+- **[2026-09-10 19:55 UTC]** Suely será ofendida por Ademir ao relatar assédio no tribunal em 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/suely-sera-ofendida-por-ademir-ao-relatar-assedio-no-tribunal-em-quem-ama-cuida.shtml)_
+
