@@ -23,3 +23,6 @@
 - **[2026-09-09 15:05 UTC]** Trump dá US$ 45 mil de presente a assessora apelidada de 'impressora humana'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-da-us-45-mil-de-presente-a-assessora-apelidada-de-impressora-humana.shtml)_
 
+- **[2026-09-10 07:00 UTC]** No dia do aniversário de 67 anos, morador de SC reencontra irmãs que não via há mais de 50 anos: 'presente de Deus'; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/aniversario-reencontra-irmas-que-nao-via-ha-mais-de-50-anos.ghtml)_
+
