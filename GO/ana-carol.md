@@ -20,3 +20,6 @@
 - **[2026-09-10 04:00 UTC]** Carol Lekker perdeu três contratos de publicidade antes de sair do SBT por polêmicas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/carol-lekker-perdeu-tres-contratos-de-publicidade-antes-de-sair-do-sbt-por-polemicas.shtml)_
 
+- **[2026-09-10 14:46 UTC]** Após sair do SBT por baixo salário, Carol Lekker é contratada pela Record
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/apos-sair-do-sbt-por-baixo-salario-carol-lekker-e-contratada-pela-record.shtml)_
+
