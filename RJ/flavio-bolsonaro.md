@@ -839,3 +839,6 @@
 - **[2026-09-09 17:05 UTC]** Quem é o empresário que doou R$ 500 mil para Lula e R$ 500 mil para Flávio Bolsonaro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/09/erasmo-battistella-doacoes-lula-flavio.ghtml)_
 
+- **[2026-09-09 20:22 UTC]** Mendonça homologa delação sobre financiamento do filme sobre Bolsonaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-homologa-delacao-sobre-financiamento-do-filme-sobre-bolsonaro)_
+
