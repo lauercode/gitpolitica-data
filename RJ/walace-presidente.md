@@ -482,3 +482,6 @@
 - **[2026-09-10 11:59 UTC]** Casablanca receberá final da Copa de 2030, diz presidente da federação marroquina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/casablanca-recebera-final-da-copa-de-2030-diz-presidente-da-federacao-marroquina.shtml)_
 
+- **[2026-09-10 10:28 UTC]** Juiz ordena que presidente da Colômbia oculte das redes vídeos ao lado de cadáveres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiz-ordena-que-presidente-da-colombia-oculte-das-redes-videos-ao-lado-de-cadaveres.shtml)_
+
