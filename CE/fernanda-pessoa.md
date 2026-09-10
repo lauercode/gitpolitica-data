@@ -444,3 +444,7 @@ direcionado às necessidades de cada pessoa
 - **[2026-09-09 21:36 UTC]** Ônibus de transporte de pacientes sofre acidente na PA-151, deixa feridos e uma pessoa presa às ferragens
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/onibus-de-transporte-de-pacientes-sofre-acidente-na-pa-151-deixa-feridos-e-uma-pessoa-presa-as-ferragens.ghtml)_
 
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
