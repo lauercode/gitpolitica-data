@@ -878,3 +878,6 @@
 - **[2026-09-10 17:08 UTC]** Produtora de filme sobre Bolsonaro comprou carro SUV com R$ 100 mil em dinheiro vivo e disparou alerta do Coaf
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/produtora-de-filme-sobre-bolsonaro-comprou-carro-suv-com-r-100-mil-em-dinheiro-vivo-e-disparou-alerta-do-coaf.ghtml)_
 
+- **[2026-09-10 16:40 UTC]** Caso 'Dark Horse': ex-marqueteiro de Flávio Bolsonaro enviou R$ 1 milhão a produtora do filme
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-ex-marqueteiro-de-flavio-bolsonaro-enviou-r-1-milhao-a-produtora.ghtml)_
+
