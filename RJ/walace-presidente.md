@@ -458,3 +458,6 @@
 - **[2026-09-09 23:39 UTC]** Fachin dá 48 horas para Andrei prestar informações; presidente ainda vai decidir se diretor fica no cargo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-da-48-horas-para-andrei-prestar-informacoes-presidente-ainda-vai-decidir-se-diretor-fica-no-cargo.ghtml)_
 
+- **[2026-09-10 03:00 UTC]** Eleições 2026: veja quem são os candidatos a presidente, governador, senador e deputados em todo o Brasil
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-veja-quem-sao-os-candidatos-a-presidente-governador-senador-e-deputados-em-todo-o-brasil.ghtml)_
+
