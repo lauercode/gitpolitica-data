@@ -398,3 +398,6 @@
 - **[2026-09-10 10:13 UTC]** Quem é Mario Frias, ator que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml)_
 
+- **[2026-09-10 06:00 UTC]** Globo aumenta publicidade de 'Quem Ama Cuida' para tentar conter queda de ibope
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/globo-aumenta-publicidade-de-quem-ama-cuida-para-tentar-conter-queda-de-ibope.shtml)_
+
