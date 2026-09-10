@@ -221,3 +221,6 @@
 - **[2026-09-09 22:04 UTC]** Justiça decreta nova prisão de homem acusado de transmitir HIV para mulheres em RO; entenda
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/09/justica-decreta-nova-prisao-de-homem-acusado-de-transmitir-hiv-para-mulheres-em-ro-entenda.ghtml)_
 
+- **[2026-09-09 23:13 UTC]** Comissão aprova atendimento acessível a mulheres com deficiência vítimas de violência doméstica
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303636-comissao-aprova-atendimento-acessivel-a-mulheres-com-deficiencia-vitimas-de-violencia-domestica)_
+
