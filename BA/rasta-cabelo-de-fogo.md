@@ -122,3 +122,6 @@
 - **[2026-09-10 14:01 UTC]** Presos ateiam fogo dentro de delegacia durante motim no interior do Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/10/presos-ateiam-fogo-em-delegacia-do-am-durante-motim-apos-policiais-encontrarem-buraco-em-cela-video.ghtml)_
 
+- **[2026-09-10 14:56 UTC]** Suspeito que fugiu do Hospital de Trauma de João Pessoa é preso em Pedras de Fogo
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/suspeito-que-fugiu-do-hospital-de-trauma-de-joao-pessoa-e-preso-em-pedras-de-fogo.ghtml)_
+
