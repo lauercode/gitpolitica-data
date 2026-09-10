@@ -23,3 +23,6 @@
 - **[2026-09-09 12:05 UTC]** Operação prende foragido considerado de alta periculosidade e suspeitos de tráfico de drogas em Sapé, na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/operacao-prende-foragido-de-alta-periculosidade-e-suspeitos-de-trafico-de-drogas-em-sape-na-pb.ghtml)_
 
+- **[2026-09-10 14:35 UTC]** Considerado melhor show do Rock in Rio, Jota Quest foi 'batizado' por Tim Maia em festival no RS nos anos 1990; veja VÍDEO do momento
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/jota-quest-batizado-tim-maia-festival-rs.ghtml)_
+
