@@ -92,3 +92,6 @@
 - **[2026-09-10 22:22 UTC]** PF diz que produtora de 'Dark Horse' que recebeu emendas de Frias pagou R$ 300 mil a instituto que funcionava em loja de roupas
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-diz-que-produtora-de-dark-horse-que-recebeu-emendas-de-frias-pagou-r-300-mil-a-instituto-que-funcionava-em-loja-de-roupas.ghtml)_
 
+- **[2026-09-10 21:29 UTC]** Mário Frias chama operação da PF de 'cortina de fumaça'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/mario-frias-chama-operacao-da-pf-de-cortina-de-fumaca-e-diz-que-investigacao-sera-arquivada.ghtml)_
+
