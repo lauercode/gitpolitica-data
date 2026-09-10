@@ -23,3 +23,6 @@
 - **[2026-09-07 21:06 UTC]** Candidato ao Senado, Pastor Isamar planeja construir ponte que dá acesso ao Passarão: 'buscar recursos'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-pastor-isamar-planeja-construir-ponte-que-da-acesso-ao-passarao-buscar-recursos.ghtml)_
 
+- **[2026-09-10 20:26 UTC]** Pastor investigado por crimes sexuais contra mulheres no Pará é preso no Rio de Janeiro
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/pastor-investigado-por-crimes-sexuais-contra-mulheres-no-para-e-preso-no-rio-de-janeiro.ghtml)_
+
