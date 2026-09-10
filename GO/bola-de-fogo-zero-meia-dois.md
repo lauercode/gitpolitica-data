@@ -347,3 +347,6 @@
 - **[2026-09-10 13:23 UTC]** Paraná registra dois tornados em menos de 24 horas; vídeo mostra estragos
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/10/tornado-parana-video.ghtml)_
 
+- **[2026-09-10 19:23 UTC]** Número de lares com idosos em insegurança alimentar cai em dois anos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/numero-de-lares-com-idosos-em-inseguranca-alimentar-cai-em-dois-anos)_
+
