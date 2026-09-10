@@ -149,3 +149,6 @@
 - **[2026-09-09 22:06 UTC]** Como a crise entre Mendonça e a PF se agravou no governo Lula e envolveu Moraes, Dino e Fachin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-crise-entre-mendonca-e-a-pf-se-agravou-no-governo-lula-e-envolveu-moraes-dino-e-fachin/)_
 
+- **[2026-09-09 20:51 UTC]** PT pede a Dino e Mendonça a quebra dos sigilos do caso Master no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pt-pede-a-dino-e-mendonca-a-quebra-dos-sigilos-do-caso-master-no-stf.shtml)_
+
