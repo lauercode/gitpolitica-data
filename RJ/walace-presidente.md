@@ -488,3 +488,6 @@
 - **[2026-09-10 09:00 UTC]** Presidente do Paraguai convida brasileiros a investirem no país e anuncia fórum com empresários
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/presidente-do-paraguai-convida-brasileiros-a-investirem-no-pais-e-anuncia-forum-com-empresarios.shtml)_
 
+- **[2026-09-10 15:41 UTC]** Presidente Lula sanciona lei que acaba com "taxa das blusinhas"
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-sanciona-lei-que-acaba-com-taxa-das-blusinhas)_
+
