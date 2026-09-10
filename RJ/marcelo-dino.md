@@ -182,3 +182,6 @@
 - **[2026-09-10 14:40 UTC]** Oposição pressiona Senado por impeachment de Dino após operação contra Frias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-pressiona-senado-por-impeachment-de-dino-apos-operacao-contra-frias/)_
 
+- **[2026-09-10 13:44 UTC]** Flávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-campanha-setembro-2026-roraima.ghtml)_
+
