@@ -68,3 +68,6 @@
 - **[2026-09-10 04:00 UTC]** Filme mergulha na turnê de reunião do Oasis e na trégua entre os irmãos Gallagher
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/filme-mergulha-na-turne-de-reuniao-do-oasis-e-na-tregua-entre-os-irmaos-gallagher.shtml)_
 
+- **[2026-09-10 16:25 UTC]** Irmãos desparecidos no MA não estão entre crianças resgatadas nos EUA
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/irmaos-desparecidos-no-ma-nao-estao-entre-criancas-resgatadas-nos-eua)_
+
