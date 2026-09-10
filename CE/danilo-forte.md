@@ -104,3 +104,6 @@
 - **[2026-09-10 10:40 UTC]** Chance de El Niño muito forte a partir de setembro sobe para 97%, diz agência dos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/chance-de-el-nino-muito-forte-a-partir-de-setembro-sobe-para-97-diz-agencia-dos-eua.shtml)_
 
+- **[2026-09-10 19:17 UTC]** Forte, corajosa, leal: amigos e colegas homenageiam advogada que morreu em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/forte-corajosa-leal-amigos-e-colegas-homenageiam-advogada-que-morreu-em-boa-vista.ghtml)_
+
