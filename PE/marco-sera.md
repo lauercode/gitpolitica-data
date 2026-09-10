@@ -173,3 +173,6 @@
 - **[2026-09-10 12:00 UTC]** Pronunciamento de Moraes é cancelado e será remarcado, informa STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pronunciamento-de-moraes-e-cancelado-e-sera-remarcado-informa-stf/)_
 
+- **[2026-09-10 18:41 UTC]** Obra da nova ponte do Estreito dos Mosquitos começa nesta quinta; estrutura antiga será demolida em 30 dias
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/10/obra-da-nova-ponte-do-estreito-dos-mosquitos-comeca-nesta-quinta-estrutura-antiga-sera-demolida-em-30-dias.ghtml)_
+
