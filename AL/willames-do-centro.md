@@ -215,3 +215,6 @@
 - **[2026-09-09 16:50 UTC]** Sou Manaus 2026 segue com programação cultural no Centro Histórico; confira
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/09/09/sou-manaus-2026-segue-com-programacao-cultural-no-centro-historico-confira.ghtml)_
 
+- **[2026-09-10 03:59 UTC]** Polícia Civil investiga ataques a lojas religiosas no centro de Fortaleza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-civil-investiga-ataques-a-lojas-religiosas-no-centro-de-fortaleza.shtml)_
+
