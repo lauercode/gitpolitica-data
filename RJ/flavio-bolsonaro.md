@@ -902,3 +902,6 @@
 - **[2026-09-10 21:36 UTC]** PF suspeita que ao menos R$ 750 mil de verbas públicas foram desviadas para produtora que fez filme sobre Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-suspeita-que-ao-menos-r-750-mil-de-verbas-publicas-foram-desviadas-para-produtora-que-fez-filme-sobre-bolsonaro.ghtml)_
 
+- **[2026-09-10 20:43 UTC]** PF identifica R$ 1,4 milhão de Frias e de empresa investigada para produtora de filme sobre Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-identifica-r-14-milhao-de-frias-e-empresa-investigada-para-produtora-de-filme-sobre-bolsonaro.ghtml)_
+
