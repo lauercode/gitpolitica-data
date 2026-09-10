@@ -59,3 +59,6 @@
 - **[2026-09-09 23:00 UTC]** Nicole Kidman e Sandra Bullock voltam a ser bruxas em 'Da Magia à Sedução: Feitiço de Amor'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/09/nicole-kidman-e-sandra-bullock-voltam-a-ser-bruxas-em-da-magia-a-seducao-feitico-de-amor.shtml)_
 
+- **[2026-09-10 09:08 UTC]** 'Da Magia à Sedução: Feitiço de Amor', com Sandra Bullock, estreia nos cinemas da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/da-magia-a-seducao-feitico-de-amor-com-sandra-bullock-estreia-nos-cinemas-da-paraiba.ghtml)_
+
