@@ -884,3 +884,6 @@
 - **[2026-09-10 16:40 UTC]** PF suspeita de 'circuito fechado' e fragmentação proposital de valores para ocultar verbas públicas em filme sobre Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-suspeita-de-circuito-fechado-e-fragmentacao-proposital-de-valores-para-ocultar-verbas-publicas-em-filme-sobre-bolsonaro.ghtml)_
 
+- **[2026-09-10 13:26 UTC]** Flávio Bolsonaro diz que operação que mira filme 'Dark Horse' é interferência política de Flávio Dino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-operacao-que-mira-filme-dark-horse-e-interferencia-politica-de-flavio-dino.shtml)_
+
