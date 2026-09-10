@@ -287,3 +287,6 @@
 - **[2026-09-09 22:34 UTC]** Projeto limita a rolagem contínua de vídeos em redes sociais para proteger saúde mental
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302968-projeto-limita-a-rolagem-continua-de-videos-em-redes-sociais-para-proteger-saude-mental)_
 
+- **[2026-09-09 22:03 UTC]** Comissão aprova projeto que amplia possibilidades de embarque armado para agentes de segurança pública
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303311-comissao-aprova-projeto-que-amplia-possibilidades-de-embarque-armado-para-agentes-de-seguranca-publica)_
+
