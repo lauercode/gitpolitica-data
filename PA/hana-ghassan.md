@@ -26,3 +26,6 @@
 - **[2026-09-09 00:09 UTC]** Hana Ghassan propõe ampliar uso de tecnologia e combater a violência contra a mulher no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/08/hana-ghassan-propoe-ampliar-uso-de-tecnologia-e-combater-a-violencia-contra-a-mulher-no-para.ghtml)_
 
+- **[2026-09-10 00:35 UTC]** Hana Ghassan promete ampliar saneamento e cobrar metas de concessionária de água no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/09/hana-ghassan-promete-ampliar-saneamento-e-cobrar-metas-de-concessionaria-de-agua-no-para.ghtml)_
+
