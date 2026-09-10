@@ -35,3 +35,6 @@
 - **[2026-09-10 12:07 UTC]** Até quando vão as chuvas no Paraná? Estado está sob alerta vermelho de tempestades severas com chances de tornados e granizo
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/10/ate-quando-vao-as-chuvas-no-parana-estado-esta-sob-alerta-vermelho-de-tempestades-severas-com-chances-de-tornados-e-granizo.ghtml)_
 
+- **[2026-09-09 16:42 UTC]** Paraná tem 312 cidades sob alerta vermelho de tempestade após atualização do Inmet; veja lista
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/alerta-vermelho-parana-tempestade.ghtml)_
+
