@@ -128,3 +128,6 @@
 - **[2026-09-09 20:54 UTC]** 'Dark horse' e emendas: o 'arsenal' nas mãos de Flávio Dino no STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c0e39y3p293o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 09:52 UTC]** PF faz operação para investigar suposto desvio de emendas para filme 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/10/pf-operacao-dark-horse.ghtml)_
+
