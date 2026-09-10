@@ -881,3 +881,6 @@
 - **[2026-09-10 16:40 UTC]** Caso 'Dark Horse': ex-marqueteiro de Flávio Bolsonaro enviou R$ 1 milhão a produtora do filme
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-ex-marqueteiro-de-flavio-bolsonaro-enviou-r-1-milhao-a-produtora.ghtml)_
 
+- **[2026-09-10 16:40 UTC]** PF suspeita de 'circuito fechado' e fragmentação proposital de valores para ocultar verbas públicas em filme sobre Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-suspeita-de-circuito-fechado-e-fragmentacao-proposital-de-valores-para-ocultar-verbas-publicas-em-filme-sobre-bolsonaro.ghtml)_
+
