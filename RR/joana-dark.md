@@ -158,3 +158,6 @@
 - **[2026-09-10 12:36 UTC]** Governo Lula torce para STF sair da agenda e investigação da PF sobre financiamento do filme 'Dark Horse' dominar as atenções
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/10/governo-lula-torce-para-stf-sair-da-agenda-e-investigacao-da-pf-sobre-financiamento-do-filme-dark-horse-dominar-as-atencoes.ghtml)_
 
+- **[2026-09-10 12:16 UTC]** PF apreende 7 armas durante operação que mira Mario Frias e produtora do filme 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-apreende-7-armas-durante-operacao-que-mira-mario-frias-e-produtora-do-filme-dark-horse.ghtml)_
+
