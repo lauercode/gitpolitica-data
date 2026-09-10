@@ -32,3 +32,6 @@
 - **[2026-09-08 23:03 UTC]** Eleições 2026 no PR: Sandro Alex diz que quer unificar telefones de serviços de emergência com auxílio de inteligência artificial
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-no-pr-sandro-alex-diz-que-quer-unificar-telefones-de-servicos-de-emergencia-com-auxilio-de-inteligencia-artificial.ghtml)_
 
+- **[2026-09-09 23:25 UTC]** Eleições 2026 no PR: Sandro Alex diz que pretende ampliar escolas cívico-militares no estado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-no-pr-sandro-alex-diz-que-pretende-ampliar-escolas-civico-militares-no-estado.ghtml)_
+
