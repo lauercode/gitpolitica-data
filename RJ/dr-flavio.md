@@ -1115,3 +1115,6 @@
 - **[2026-09-10 20:07 UTC]** Flávio Dino aponta indícios de desvios em emendas parlamentares de Mário Frias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-aponta-indicios-de-desvios-em-emendas-parlamentares-de-mario-frias/)_
 
+- **[2026-09-10 21:08 UTC]** 'Cruzada' de Mendonça no STF traz eleitor evangélico de volta pra Flávio Bolsonaro, diz Renato Meirelles
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss)_
+
