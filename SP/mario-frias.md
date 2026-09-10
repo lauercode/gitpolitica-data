@@ -32,3 +32,6 @@
 - **[2026-09-10 13:53 UTC]** Dino proíbe Mario Frias de sair do país e ter contato com outros investigados
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml)_
 
+- **[2026-09-10 12:16 UTC]** PF apreende 7 armas durante operação que mira Mario Frias e produtora do filme 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-apreende-7-armas-durante-operacao-que-mira-mario-frias-e-produtora-do-filme-dark-horse.ghtml)_
+
