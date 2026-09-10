@@ -140,3 +140,6 @@
 - **[2026-09-10 07:04 UTC]** PF deflagra operação sobre financiamento de 'Dark Horse', filme de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-deflagra-operacao-sobre-dinheiro-de-vorcaro-para-filme-de-bolsonaro.shtml)_
 
+- **[2026-09-10 10:52 UTC]** PF faz operação sobre filme Dark Horse autorizada por Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-faz-operacao-sobre-filme-dark-horse-autorizada-por-dino/)_
+
