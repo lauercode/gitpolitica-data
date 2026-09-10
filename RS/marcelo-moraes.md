@@ -1259,3 +1259,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 03:00 UTC]** Crise do STF nas campanhas: Flávio Bolsonaro intensifica ataques a Moraes, e parte da campanha de Lula defende distância do ministro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/crise-no-stf-campanhas-flavio-bolsonaro-e-lula.ghtml)_
 
+- **[2026-09-09 23:00 UTC]** Aliados aconselham Lula a se afastar de Moraes e o veem como 'zumbi'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-aconselham-lula-a-se-afastar-de-moraes-e-o-veem-como-zumbi.shtml)_
+
