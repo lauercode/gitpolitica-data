@@ -212,3 +212,6 @@
 - **[2026-09-09 18:19 UTC]** Houthis atacam cidades do sul da Arábia Saudita pelo segundo dia consecutivo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/houthis-atacam-cidades-do-sul-da-arabia-saudita-pelo-segundo-dia-consecutivo.shtml)_
 
+- **[2026-09-10 13:30 UTC]** Lula x Rubio? EUA não parabenizam Brasil pelo 7 de Setembro pelo segundo ano seguido
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/lula-x-rubio-eua-nao-parabenizam-brasil-7-setembro-segundo-ano-seguido/)_
+
