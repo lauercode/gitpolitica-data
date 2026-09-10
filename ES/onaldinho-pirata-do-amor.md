@@ -56,3 +56,6 @@
 - **[2026-09-08 18:57 UTC]** Vítima de acidente entre motos na BR-364 recebe mais de 40 bolsas de sangue no AC: 'Gesto de amor'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/vitima-de-acidente-entre-motos-na-br-364-recebe-mais-de-40-bolsas-de-sangue-no-ac-gesto-de-amor.ghtml)_
 
+- **[2026-09-09 23:00 UTC]** Nicole Kidman e Sandra Bullock voltam a ser bruxas em 'Da Magia à Sedução: Feitiço de Amor'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/09/nicole-kidman-e-sandra-bullock-voltam-a-ser-bruxas-em-da-magia-a-seducao-feitico-de-amor.shtml)_
+
