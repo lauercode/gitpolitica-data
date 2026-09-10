@@ -32,3 +32,6 @@
 - **[2026-09-09 23:24 UTC]** Eleições 2026 no PR: Requião Filho pretende firmar parcerias com santas casas e hospitais filantrópicos para ampliar atendimentos
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-no-pr-requiao-filho-pretende-firmar-parcerias-com-santas-casas-e-hospitais-filantropicos-para-ampliar-atendimentos.ghtml)_
 
+- **[2026-09-10 22:52 UTC]** Eleições 2026 no PR: Requião Filho propõe isenção de IPVA para motoristas de carros elétricos que trabalhem por aplicativos
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-agenda-requiao-filho-10-setembro.ghtml)_
+
