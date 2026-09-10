@@ -47,3 +47,6 @@
 - **[2026-09-08 14:59 UTC]** Morango cravejado: 'Entramos na trend para alavancar as vendas', diz doceira que chega a comercializar 200 unidades por dia no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/morango-cravejado-entramos-na-trend-para-alavancar-as-vendas-diz-doceira.ghtml)_
 
+- **[2026-09-10 11:41 UTC]** Círio 2026: ingressos gratuitos para arquibancadas esgotam 30 minutos após abertura das vendas em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/cirio-2026-aberto-o-cadastro-para-ingressos-gratuitos-das-arquibancadas-em-belem.ghtml)_
+
