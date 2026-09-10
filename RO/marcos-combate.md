@@ -86,3 +86,6 @@
 - **[2026-09-09 16:53 UTC]** Hospitais no interior e combate às filas: veja as principais propostas dos candidatos ao governo do AM para saúde
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/hospitais-no-interior-e-combate-as-filas-veja-as-principais-propostas-dos-candidatos-ao-governo-do-am-para-saude.ghtml)_
 
+- **[2026-09-10 19:13 UTC]** Operação de combate a roubo de celular em SP teve cães farejadores, campanas e perícias digitais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-de-combate-a-roubo-de-celular-em-sp-teve-caes-farejadores-campanas-e-pericias-digitais.shtml)_
+
