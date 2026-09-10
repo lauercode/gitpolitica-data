@@ -227,3 +227,6 @@
 - **[2026-09-09 15:47 UTC]** Pablo Marçal, Augusto Cury e Renan Santos aguardam julgamento de candidatura no TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marcal-cury-renan-santos-aguardam-julgamento-de-candidatura-tse/)_
 
+- **[2026-09-10 19:15 UTC]** Renan Santos defende fim da autonomia nas universidades e critica gestão das instituições públicas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/renan-santos-defende-fim-da-autonomia-nas-universidades-e-critica-gestao-das-instituicoes-publicas.ghtml)_
+
