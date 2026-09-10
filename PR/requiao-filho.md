@@ -29,3 +29,6 @@
 - **[2026-09-08 23:02 UTC]** Eleições 2026 no PR: Requião Filho propõe centralizar processo para abertura e expansão de empresas no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-no-pr-requiao-filho-propoe-centralizar-processo-para-abertura-e-expansao-de-empresas-no-parana.ghtml)_
 
+- **[2026-09-09 23:24 UTC]** Eleições 2026 no PR: Requião Filho pretende firmar parcerias com santas casas e hospitais filantrópicos para ampliar atendimentos
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-no-pr-requiao-filho-pretende-firmar-parcerias-com-santas-casas-e-hospitais-filantropicos-para-ampliar-atendimentos.ghtml)_
+
