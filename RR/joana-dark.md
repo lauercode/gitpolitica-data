@@ -143,3 +143,6 @@
 - **[2026-09-10 10:52 UTC]** PF faz operação sobre filme Dark Horse autorizada por Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-faz-operacao-sobre-filme-dark-horse-autorizada-por-dino/)_
 
+- **[2026-09-10 11:38 UTC]** PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss)_
+
