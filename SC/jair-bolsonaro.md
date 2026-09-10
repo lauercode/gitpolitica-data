@@ -17,3 +17,6 @@
 - **[2026-09-01 23:44 UTC]** TSE rejeita multa a Flávio por vídeo de Jair Bolsonaro por IA em convenção do PL
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/tse-tem-maioria-de-votos-para-livrar-flavio-de-multa-por-video-de-bolsonaro-por-ia.ghtml)_
 
+- **[2026-09-10 11:38 UTC]** PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss)_
+
