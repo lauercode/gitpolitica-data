@@ -41,3 +41,6 @@
 - **[2026-09-05 22:00 UTC]** O direito de saber sobre o caso Master antes de votar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-direito-de-saber-sobre-o-caso-master-antes-de-votar.shtml)_
 
+- **[2026-09-10 17:53 UTC]** Tudo o que você precisa saber antes de ir às urnas em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tudo-o-que-voce-precisa-saber-antes-de-ir-as-urnas-em-2026.shtml)_
+
