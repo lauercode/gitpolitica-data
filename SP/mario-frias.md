@@ -17,3 +17,6 @@
 - **[2026-09-03 17:13 UTC]** Sem vagas em cemitérios, seis corpos não podem ser enterrados e aguardam em câmaras frias em Foz do Iguaçu
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/03/sem-vagas-em-cemiterios-foz-do-iguacu.ghtml)_
 
+- **[2026-09-10 10:13 UTC]** Quem é Mario Frias, ator que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml)_
+
