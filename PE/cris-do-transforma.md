@@ -35,3 +35,6 @@
 - **[2026-09-09 18:30 UTC]** Guardião da Constituição, STF transforma sua crise em grande projeto de poder
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/09/guardiao-da-constituicao-stf-transforma-sua-crise-em-grande-projeto-de-poder.shtml)_
 
+- **[2026-09-10 04:00 UTC]** Narcisismo conversacional transforma diálogo em monólogo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/narcisismo-conversacional-transforma-dialogo-em-monologo.shtml)_
+
