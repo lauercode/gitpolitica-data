@@ -1310,3 +1310,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 14:39 UTC]** OAB e elite jurídica diluem escândalo Moraes em discurso de “crise” no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/oab-pressao-explicacoes-moraes-discurso-crise-stf/)_
 
+- **[2026-09-10 13:58 UTC]** Zema convoca ato no dia de sessão do STF sobre conversas de Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/zema-convoca-ato-no-dia-de-sessao-do-stf-sobre-conversas-de-moraes-e-vorcaro/)_
+
