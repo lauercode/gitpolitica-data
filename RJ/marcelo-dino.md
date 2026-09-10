@@ -161,3 +161,6 @@
 - **[2026-09-10 00:07 UTC]** Em meio à crise institucional, Dino consagra sua imagem de soldado de Lula no STF
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/silvio-ribas/em-meio-a-crise-institucional-dino-consagra-sua-imagem-de-soldado-de-lula-no-stf/)_
 
+- **[2026-09-10 03:54 UTC]** Mendonça, Moraes, Dino e Fachin: o STF em rota de colisão - O Assunto #1801
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/10/mendonca-moraes-dino-e-fachin-o-stf-em-rota-de-colisao-o-assunto-1801.ghtml)_
+
