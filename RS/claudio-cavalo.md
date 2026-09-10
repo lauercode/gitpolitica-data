@@ -35,3 +35,6 @@
 - **[2026-09-08 08:45 UTC]** Bebê deixa maternidade a cavalo e vestindo traje típico no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/blog/reporter-farroupilha/noticia/2026/09/08/bebe-deixa-maternidade-a-cavalo-e-vestindo-traje-tipico-no-rs.ghtml)_
 
+- **[2026-09-10 06:00 UTC]** Nova paixão à vista: famoso Cavalo Caramelo, símbolo da enchente, ganha companheira para tentar gerar potrinho
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/nova-paixao-famoso-cavalo-caramelo-simbolo-enchente-ganha-companheira-gerar-potrinho.ghtml)_
+
