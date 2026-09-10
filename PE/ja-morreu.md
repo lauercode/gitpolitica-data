@@ -170,3 +170,6 @@
 - **[2026-09-09 21:49 UTC]** Quem era o vereador que morreu esmagado por carga de 1 tonelada de batatas em SC: 'Adeus, meu melhor amigo'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/quem-era-vereador-esmagado-batatas-nivaldo-magagnin.ghtml)_
 
+- **[2026-09-10 08:00 UTC]** Menino de 3 anos morreu de traumatismo craniano e tinha lesões no rosto e pescoço; mãe e padrasto seguem presos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/menino-de-3-anos-morreu-de-traumatismo-craniano-e-tinha-lesoes-no-rosto-e-pescoco-mae-e-padrasto-seguem-presos.ghtml)_
+
