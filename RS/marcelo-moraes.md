@@ -1298,3 +1298,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 02:31 UTC]** Por que inquérito das Fake News gerou tanta polêmica — e o que acontece após Fachin retirar a relatoria de Alexandre de Moraes
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c74k1gkl14eo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 11:09 UTC]** Moraes cancela pronunciamento convocado após decisões de Fachin em meio à crise no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/alexandre-de-moraes-fara-pronunciamento-apos-decisoes-de-fachin-em-meio-a-crise-no-stf.ghtml)_
+
