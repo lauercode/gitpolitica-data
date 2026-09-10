@@ -434,3 +434,6 @@
 - **[2026-09-10 00:32 UTC]** Indígenas do Acre não precisam apresentar RG e CPF para acesso ao Tratamento Fora de Domicílio, diz MPF
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/indigenas-do-acre-nao-precisam-apresentar-rg-e-cpf-para-acesso-ao-tratamento-fora-de-domicilio-diz-mpf.ghtml)_
 
+- **[2026-09-09 23:58 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta quarta-feira (9)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quarta-feira-9.ghtml)_
+
