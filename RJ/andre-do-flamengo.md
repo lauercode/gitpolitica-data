@@ -53,3 +53,6 @@
 - **[2026-09-07 21:15 UTC]** Pancadaria entre torcedores de Remo e Flamengo no Mangueirão termina com 11 pessoas na delegacia
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/confusao-entre-torcedores-de-remo-e-flamengo-no-mangueirao-termina-com-11-pessoas-na-delegacia.ghtml)_
 
+- **[2026-09-10 10:01 UTC]** Rádio Nacional transmite Independiente del Valle x Flamengo
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/radio-nacional-transmite-independiente-del-valle-x-flamengo)_
+
