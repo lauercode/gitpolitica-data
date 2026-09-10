@@ -1103,3 +1103,6 @@
 - **[2026-09-10 15:35 UTC]** Ministro do STF Flávio Dino proíbe Mario Frias de sair do país
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/ministro-do-stf-flavio-dino-proibe-mario-frias-de-sair-do-pais)_
 
+- **[2026-09-10 18:44 UTC]** Augusto Cury diz que pode apoiar Flávio no 2º turno se ele 'provar que não tem corrupção' em Dark Horse
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/augusto-cury-diz-que-pode-apoiar-flavio-no-2o-turno-se-ele-provar-que-nao-tem-corrupcao-em-dark-horse.ghtml)_
+
