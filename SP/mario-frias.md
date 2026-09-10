@@ -38,3 +38,6 @@
 - **[2026-09-10 11:56 UTC]** Operação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/operacao-da-pf-contra-mario-frias-atinge-ex-chefe-de-gabinete-e-dois-assessores-que-atuam-hoje-na-camara-veja-lista-de-alvos.ghtml)_
 
+- **[2026-09-10 10:13 UTC]** Quem é Mario Frias, ator de 'Malhação' que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml)_
+
