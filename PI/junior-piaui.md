@@ -29,3 +29,6 @@
 - **[2026-09-09 03:00 UTC]** Lula silencia sobre afastamento de Andrei; presidente cumpre agenda no Piauí nesta quarta
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-silencia-sobre-afastamento-de-andrei-presidente-cumpre-agenda-no-piaui-nesta-quarta.ghtml)_
 
+- **[2026-09-10 18:22 UTC]** EDP entrega no Piauí seu maior projeto de transmissão no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/edp-entrega-no-piaui-seu-maior-projeto-de-transmissao-no-brasil.shtml)_
+
