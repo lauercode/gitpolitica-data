@@ -11,3 +11,6 @@
 - **[2026-09-02 11:26 UTC]** Candidata ao Senado, Helena da Asatur cancela entrevista na Rede Amazônica 'por motivos de saúde'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/02/candidata-ao-senado-helena-da-asatur-cancela-entrevista-na-rede-amazonica-por-motivos-de-saude.ghtml)_
 
+- **[2026-09-10 12:16 UTC]** Helena da Asatur falta a entrevista com candidatos ao Senado em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/10/helena-da-asatur-falta-a-entrevista-com-candidatos-ao-senado-em-roraima.ghtml)_
+
