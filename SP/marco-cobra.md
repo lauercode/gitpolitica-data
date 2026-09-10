@@ -68,3 +68,6 @@
 - **[2026-09-09 14:42 UTC]** Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml)_
 
+- **[2026-09-10 02:58 UTC]** Temer diz que STF está acima de disputas individuais e cobra solução rápida para crise
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temer-diz-que-stf-esta-acima-de-disputas-individuais-e-cobra-solucao-rapida-para-crise/)_
+
