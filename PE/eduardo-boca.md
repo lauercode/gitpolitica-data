@@ -38,3 +38,6 @@
 - **[2026-09-10 12:54 UTC]** Ciro e Elmano batem boca e apontam dedos em debate no Ceará
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ceara/ciro-e-elmano-batem-boca-e-apontam-dedos-em-debate-no-ceara/)_
 
+- **[2026-09-10 13:01 UTC]** 'Baixa o dedinho'; debate no Ceará entre Ciro e Elmano viraliza após bate-boca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/baixa-o-dedinho-debate-no-ceara-entre-ciro-e-elmano-viraliza-apos-bate-boca.shtml)_
+
