@@ -80,3 +80,6 @@
 - **[2026-09-10 17:11 UTC]** Instituto Santos Dumont abre inscrições para Feira de Ciências em Macaíba; veja como participar
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/10/instituto-santos-dumont-abre-inscricoes-para-feira-de-ciencias-em-macaiba-veja-como-participar.ghtml)_
 
+- **[2026-09-10 19:24 UTC]** Instituto e produtora de 'Dark Horse' enviaram R$ 100 mil a entidade evangélica, aponta PF em investigação sobre desvio de emendas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/opercao-dark-horse-envios-entidade-evangelica.ghtml)_
+
