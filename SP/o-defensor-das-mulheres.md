@@ -224,3 +224,6 @@
 - **[2026-09-09 23:13 UTC]** Comissão aprova atendimento acessível a mulheres com deficiência vítimas de violência doméstica
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303636-comissao-aprova-atendimento-acessivel-a-mulheres-com-deficiencia-vitimas-de-violencia-domestica)_
 
+- **[2026-09-10 08:03 UTC]** Viva Maria homenageia mulheres que marcaram sua história
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/viva-maria-homenageia-mulheres-que-marcaram-sua-historia)_
+
