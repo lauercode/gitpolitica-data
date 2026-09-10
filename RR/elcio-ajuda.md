@@ -95,3 +95,6 @@
 - **[2026-09-10 00:47 UTC]** Escândalo Moraes sai do foco com ajuda de Dino e Fachin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/escandalo-moraes-sai-do-foco-com-ajuda-de-dino-e-fachin/)_
 
+- **[2026-09-10 16:02 UTC]** Cofundador da Anthropic prevê que PIB dos EUA pode crescer 15% em 2030 com ajuda da IA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/cofundador-da-anthropic-preve-que-pib-dos-eua-pode-crescer-15-em-2030-com-ajuda-da-ia.shtml)_
+
