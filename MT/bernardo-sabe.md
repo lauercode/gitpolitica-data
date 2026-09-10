@@ -71,3 +71,6 @@
 - **[2026-09-09 19:39 UTC]** Recursos para 'Dark Horse', malas para dinheiro vivo e repasses nas Bahamas: o que se sabe da delação de empresário ligado a Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/recursos-para-dark-horse-malas-para-dinheiro-vivo-e-repasses-nas-bahamas-o-que-se-sabe-da-delacao-de-empresario-ligado-a-vorcaro.ghtml)_
 
+- **[2026-09-10 18:46 UTC]** Entenda o que se sabe sobre o caso 'Dark Horse' e a relação com o Banco Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-se-sabe-sobre-o-caso-dark-horse-e-a-relacao-com-o-banco-master.shtml)_
+
