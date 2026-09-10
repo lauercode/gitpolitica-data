@@ -74,3 +74,6 @@
 - **[2026-09-09 23:36 UTC]** Debate entre candidatos ao Senado tem troca de ataques entre bolsonaristas em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/debate-entre-candidatos-ao-senado-tem-troca-de-ataques-entre-bolsonaristas-em-sp.shtml)_
 
+- **[2026-09-10 12:21 UTC]** Debate entre Ciro e Elmano no Ceará tem dedo em riste e troca de acusações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/debate-entre-ciro-e-elmano-no-ceara-tem-dedo-em-riste-e-troca-de-acusacoes.shtml)_
+
