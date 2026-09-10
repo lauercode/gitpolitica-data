@@ -1280,3 +1280,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 04:00 UTC]** Moraes e Mendonça devem satisfações, e resposta para crise é no próprio STF, dizem ex-ministros da Justiça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-e-mendonca-devem-satisfacoes-e-resposta-para-crise-e-no-proprio-stf-dizem-ex-ministros-da-justica.shtml)_
 
+- **[2026-09-10 11:09 UTC]** Alexandre de Moraes fará pronunciamento após decisões de Fachin em meio à crise no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/alexandre-de-moraes-fara-pronunciamento-apos-decisoes-de-fachin-em-meio-a-crise-no-stf.ghtml)_
+
