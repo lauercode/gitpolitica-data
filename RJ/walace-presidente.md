@@ -455,3 +455,6 @@
 - **[2026-09-09 21:33 UTC]** Fachin sob pressão: como presidente do STF tenta debelar crise às vésperas de eleição
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-09 23:39 UTC]** Fachin dá 48 horas para Andrei prestar informações; presidente ainda vai decidir se diretor fica no cargo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-da-48-horas-para-andrei-prestar-informacoes-presidente-ainda-vai-decidir-se-diretor-fica-no-cargo.ghtml)_
+
