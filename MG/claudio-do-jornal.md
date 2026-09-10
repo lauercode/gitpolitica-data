@@ -293,3 +293,6 @@
 - **[2026-09-09 22:38 UTC]** VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quarta-feira, 9 de setembro de 2026
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quarta-feira-9-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-10 07:00 UTC]** As perguntas que não são feitas no Jornal Nacional, parte 2
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/jorge-abrahao/2026/09/as-perguntas-que-nao-sao-feitas-no-jornal-nacional-parte-2.shtml)_
+
