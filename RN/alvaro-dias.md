@@ -14,3 +14,6 @@
 - **[2026-09-04 20:02 UTC]** Álvaro Dias visita empresas em Mossoró e defende facilitação de licenças para indústria no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/04/alvaro-dias-visita-empresas-em-mossoro-e-defende-facilitacao-de-licencas-para-industria-no-rn.ghtml)_
 
+- **[2026-09-10 19:59 UTC]** Álvaro Dias apresenta plano para contas do Estado em sabatina com empresários
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/10/alvaro-dias-apresenta-plano-para-contas-do-estado-em-sabatina-com-empresarios.ghtml)_
+
