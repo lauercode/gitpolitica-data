@@ -866,3 +866,6 @@
 - **[2026-09-10 10:04 UTC]** Michelle convoca “exército rosa” para eleger Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/michelle-convoca-exercito-rosa-para-eleger-flavio-bolsonaro/)_
 
+- **[2026-09-10 10:32 UTC]** Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss)_
+
