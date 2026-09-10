@@ -62,3 +62,6 @@
 - **[2026-09-09 22:35 UTC]** Delegado diz que irmãos desaparecidos do MA não estão entre os localizados em operação nos EUA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/delegado-diz-que-irmaos-desaparecidos-do-ma-nao-estao-entre-os-localizados-em-operacao-nos-eua.ghtml)_
 
+- **[2026-09-09 22:02 UTC]** Juíza decide que irmãos Tate devem continuar presos nos EUA até decisão sobre extradição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiza-decide-que-irmaos-tate-devem-continuar-presos-nos-eua-ate-decisao-sobre-extradicao.shtml)_
+
