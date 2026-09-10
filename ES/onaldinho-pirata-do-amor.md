@@ -68,3 +68,6 @@
 - **[2026-09-10 20:30 UTC]** ‘Da Magia à Sedução: Feitiço de Amor’ e mais três filmes estreiam nos cinemas de Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/da-magia-a-seducao-feitico-de-amor-e-mais-tres-filmes-estreiam-nos-cinemas-de-boa-vista.ghtml)_
 
+- **[2026-09-10 18:30 UTC]** 'A Nobreza do Amor': Chinua descobre que Binta e Pascoal são amantes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/03/13/6442-a-nobreza-do-amor-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466804)_
+
