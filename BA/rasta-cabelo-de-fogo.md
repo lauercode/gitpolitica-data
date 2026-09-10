@@ -113,3 +113,6 @@
 - **[2026-09-09 23:48 UTC]** VÍDEO: fogo atinge área de mata perto de rodovia no interior do Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/09/video-fogo-atinge-area-de-mata-perto-de-rodovia-no-interior-do-amapa.ghtml)_
 
+- **[2026-09-10 03:01 UTC]** Influenciador César Rincon tinha 329 munições em rancho mesmo sem registro para arma de fogo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/influenciador-cesar-rincon-municoes-sem-registro-arma-de-fogo.ghtml)_
+
