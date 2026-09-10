@@ -26,3 +26,6 @@
 - **[2026-09-08 00:41 UTC]** Claudio Lottenberg: quem é o “Posto Ipiranga” de Flávio para a Saúde
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/claudio-lottenberg-quem-e-posto-ipiranga-de-flavio-para-saude/)_
 
+- **[2026-09-10 10:55 UTC]** Morre aos 93 anos Claudio Carsughi, figura marcante do jornalismo esportivo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/morre-aos-93-anos-claudio-carsughi-figura-marcante-do-jornalismo-esportivo.shtml)_
+
