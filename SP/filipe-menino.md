@@ -92,3 +92,6 @@
 - **[2026-09-09 18:48 UTC]** Menino desfila com viatura de papelão no RS: 'Ele sempre gostou da polícia'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/menino-desfila-com-viatura-de-papelao-no-rs-ele-sempre-gostou-da-policia.ghtml)_
 
+- **[2026-09-10 08:00 UTC]** Menino de 3 anos morreu de traumatismo craniano e tinha lesões no rosto e pescoço; mãe e padrasto seguem presos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/menino-de-3-anos-morreu-de-traumatismo-craniano-e-tinha-lesoes-no-rosto-e-pescoco-mae-e-padrasto-seguem-presos.ghtml)_
+
