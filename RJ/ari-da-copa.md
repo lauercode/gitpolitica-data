@@ -131,3 +131,6 @@
 - **[2026-09-10 11:24 UTC]** CBF vende Copa do Brasil para Globo, Amazon e ESPN até 2030 por mais de R$ 4 bilhões
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/cbf-vende-copa-do-brasil-para-globo-amazon-e-espn-ate-2030-por-mais-de-r-4-bilhoes.shtml)_
 
+- **[2026-09-10 14:52 UTC]** Copa do Brasil: Arena Mané Garrincha será o palco da final em Brasília
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/copa-do-brasil-arena-mane-garrincha-sera-o-palco-da-final-em-brasilia)_
+
