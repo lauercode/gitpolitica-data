@@ -224,3 +224,6 @@
 - **[2026-09-10 19:24 UTC]** Instituto e produtora de 'Dark Horse' enviaram R$ 100 mil a entidade evangélica, aponta PF em investigação sobre desvio de emendas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/opercao-dark-horse-envios-entidade-evangelica.ghtml)_
 
+- **[2026-09-10 17:35 UTC]** Documento assinado por produtora de Dark Horse relata pressões para fazer delação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/documento-assinado-por-produtora-de-dark-horse-relata-pressoes-para-fazer-delacao.shtml)_
+
