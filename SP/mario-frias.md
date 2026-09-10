@@ -95,3 +95,6 @@
 - **[2026-09-10 21:29 UTC]** Mário Frias chama operação da PF de 'cortina de fumaça'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/mario-frias-chama-operacao-da-pf-de-cortina-de-fumaca-e-diz-que-investigacao-sera-arquivada.ghtml)_
 
+- **[2026-09-10 20:43 UTC]** PF identifica R$ 1,4 milhão de Frias e de empresa investigada para produtora de filme sobre Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-identifica-r-14-milhao-de-frias-e-empresa-investigada-para-produtora-de-filme-sobre-bolsonaro.ghtml)_
+
