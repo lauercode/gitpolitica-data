@@ -161,3 +161,6 @@
 - **[2026-09-09 16:29 UTC]** Alan Rick promete mudança no governo e diz que saúde será prioridade se eleito
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/alan-rick-promete-mudanca-no-governo-e-diz-que-saude-sera-prioridade-se-eleito.ghtml)_
 
+- **[2026-09-10 05:00 UTC]** Rompimento de cabo de aço será investigado em caso de morte de vereador atingido por carga de 1 tonelada de batatas em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/rompimento-cabo-aco-investigado-morte-vereador-batatas-treze-maio.ghtml)_
+
