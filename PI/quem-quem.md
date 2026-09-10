@@ -422,3 +422,6 @@
 - **[2026-09-10 18:32 UTC]** Conselho de trânsito proíbe agentes da SPTrans de multar quem invade corredor e faixa de ônibus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/conselho-de-transito-proibe-agentes-da-sptrans-de-multar-quem-invade-corredor-e-faixa-de-onibus.shtml)_
 
+- **[2026-09-10 22:06 UTC]** Quem é Antônio Carlos Freixo Júnior, o “Mineiro”, operador financeiro de Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-antonio-carlos-freixo-junior-o-mineiro-operador-financeiro-de-vorcaro/)_
+
