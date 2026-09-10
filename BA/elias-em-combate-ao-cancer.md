@@ -77,3 +77,6 @@
 - **[2026-09-09 18:10 UTC]** Novo exame clínico marca um avanço para detectar o câncer que afeta o intestino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2026/09/um-avanco-na-deteccao-do-cancer-de-intestino.shtml)_
 
+- **[2026-09-10 11:20 UTC]** Anvisa aprova novas indicações para remédio que trata câncer de mama
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-novas-indicacoes-para-rem%C3%A9dio-que-trata-cancer-de-mama)_
+
