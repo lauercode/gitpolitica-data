@@ -98,3 +98,6 @@
 - **[2026-09-10 20:43 UTC]** PF identifica R$ 1,4 milhão de Frias e de empresa investigada para produtora de filme sobre Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-identifica-r-14-milhao-de-frias-e-empresa-investigada-para-produtora-de-filme-sobre-bolsonaro.ghtml)_
 
+- **[2026-09-10 18:54 UTC]** Mario Frias chama operação da PF de 'cortina de fumaça' em ano de eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mario-frias-chama-operacao-da-pf-de-cortina-de-fumaca-em-ano-de-eleicao.shtml)_
+
