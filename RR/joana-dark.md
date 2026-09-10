@@ -161,3 +161,6 @@
 - **[2026-09-10 12:16 UTC]** PF apreende 7 armas durante operação que mira Mario Frias e produtora do filme 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-apreende-7-armas-durante-operacao-que-mira-mario-frias-e-produtora-do-filme-dark-horse.ghtml)_
 
+- **[2026-09-10 11:04 UTC]** Produtora de 'Dark Horse' diz que foi ameaçada e, se presa, não tem nada para delatar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/produtora-de-dark-horse-diz-que-foi-ameacada-e-se-presa-nao-tem-nada-para-delatar.shtml)_
+
