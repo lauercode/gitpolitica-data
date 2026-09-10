@@ -218,3 +218,6 @@
 - **[2026-09-10 17:59 UTC]** Dino diz haver indícios de desvio de recursos por Frias a organizações ligadas a “Dark Horse”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-indicios-desvio-recursos-frias-dark-horse/)_
 
+- **[2026-09-10 16:35 UTC]** Entenda as duas investigações sobre 'Dark Horse': uma envolve Daniel Vorcaro, e a outra, Mario Frias
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj9xz29p70eo?at_medium=RSS&at_campaign=rss)_
+
