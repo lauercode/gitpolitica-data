@@ -419,3 +419,6 @@
 - **[2026-09-10 18:47 UTC]** 'Quem Ama Cuida': Ademir e Adriana trocam ameaças
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466806)_
 
+- **[2026-09-10 18:32 UTC]** Conselho de trânsito proíbe agentes da SPTrans de multar quem invade corredor e faixa de ônibus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/conselho-de-transito-proibe-agentes-da-sptrans-de-multar-quem-invade-corredor-e-faixa-de-onibus.shtml)_
+
