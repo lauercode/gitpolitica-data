@@ -26,3 +26,6 @@
 - **[2026-09-08 13:50 UTC]** Cabo do Exército e empresário: quem são as vítimas atingidas por caminhão-tanque na Linha Verde, em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/08/vitimas-acidente-linha-verde-curitiba.ghtml)_
 
+- **[2026-09-10 05:00 UTC]** Rompimento de cabo de aço será investigado em caso de morte de vereador atingido por carga de 1 tonelada de batatas em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/rompimento-cabo-aco-investigado-morte-vereador-batatas-treze-maio.ghtml)_
+
