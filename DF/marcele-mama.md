@@ -20,3 +20,6 @@
 - **[2026-09-10 11:20 UTC]** Anvisa aprova novas indicações para remédio que trata câncer de mama
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-novas-indicacoes-para-rem%C3%A9dio-que-trata-cancer-de-mama)_
 
+- **[2026-09-10 13:20 UTC]** Anvisa aprova novas indicações de medicamento contra câncer de mama
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/anvisa-aprova-novas-indicacoes-de-medicamento-contra-cancer-de-mama)_
+
