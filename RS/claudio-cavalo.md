@@ -38,3 +38,6 @@
 - **[2026-09-10 06:00 UTC]** Nova paixão à vista: famoso Cavalo Caramelo, símbolo da enchente, ganha companheira para tentar gerar potrinho
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/nova-paixao-famoso-cavalo-caramelo-simbolo-enchente-ganha-companheira-gerar-potrinho.ghtml)_
 
+- **[2026-09-10 21:24 UTC]** 'Se mostrou bastante interessado', diz veterinária sobre primeiro encontro do Cavalo Caramelo com égua escolhida para reprodução
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/bastante-interessado-como-foi-primeiro-encontro-cavalo-caramelo-egua-reproducao-rs.ghtml)_
+
