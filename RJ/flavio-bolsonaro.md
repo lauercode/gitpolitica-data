@@ -863,3 +863,6 @@
 - **[2026-09-10 06:00 UTC]** Bolsonaro melhora de crises de soluço em prisão domiciliar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/bolsonaro-melhora-de-crises-de-soluco-em-prisao-domiciliar.shtml)_
 
+- **[2026-09-10 10:04 UTC]** Michelle convoca “exército rosa” para eleger Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/michelle-convoca-exercito-rosa-para-eleger-flavio-bolsonaro/)_
+
