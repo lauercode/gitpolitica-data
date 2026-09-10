@@ -164,3 +164,6 @@
 - **[2026-09-10 05:00 UTC]** Rompimento de cabo de aço será investigado em caso de morte de vereador atingido por carga de 1 tonelada de batatas em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/rompimento-cabo-aco-investigado-morte-vereador-batatas-treze-maio.ghtml)_
 
+- **[2026-09-10 10:27 UTC]** Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss)_
+
