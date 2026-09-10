@@ -50,3 +50,6 @@
 - **[2026-09-09 20:36 UTC]** Abastecimento de água em Nossa Senhora do Socorro é comprometido após rompimento de adutora
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/abastecimento-de-agua-em-nossa-senhora-do-socorro-e-comprometido-apos-rompimento-de-adutora.ghtml)_
 
+- **[2026-09-10 11:24 UTC]** Fux dá 15 dias para governo Lula, Banco Central e FGC se manifestarem sobre socorro ao BRB
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fux-da-15-dias-para-governo-lula-banco-central-e-fgc-se-manifestarem-sobre-socorro-ao-brb.shtml)_
+
