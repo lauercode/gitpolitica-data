@@ -449,3 +449,6 @@
 - **[2026-09-10 20:48 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 10 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-10-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-10 20:40 UTC]** VÍDEO: Indígenas encontram sucuri de mais de 2 metros durante banho em açude no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/video-indigenas-encontram-sucuri-estimada-em-2-metros-em-acude-no-acre.ghtml)_
+
