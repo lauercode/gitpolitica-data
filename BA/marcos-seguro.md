@@ -32,3 +32,6 @@
 - **[2026-09-09 17:40 UTC]** Demitidos da Casas Bahia não conseguem receber rescisão, FGTS e seguro-desemprego, diz entidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/demitidos-das-casas-bahia-nao-conseguem-receber-rescisao-fgts-e-seguro-desemprego-diz-entidade.shtml)_
 
+- **[2026-09-10 04:15 UTC]** Corregedoria de SP investiga mudança em morte ligada a seguro de R$ 85 mi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corregedoria-de-sp-investiga-mudanca-em-morte-ligada-a-seguro-de-r-85-mi.shtml)_
+
