@@ -11,3 +11,6 @@
 - **[2026-09-09 15:46 UTC]** Por que Elton John utilizou cadeira de rodas ao sair do Rio de Janeiro?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/por-que-elton-john-utilizou-cadeira-de-rodas-ao-sair-do-rio-de-janeiro.shtml)_
 
+- **[2026-09-10 22:13 UTC]** Câmera flagra agressão após briga por cadeira em faculdade de AL; VÍDEO
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/10/camera-flagra-agressao-apos-briga-por-cadeira-em-faculdade-de-al-video.ghtml)_
+
