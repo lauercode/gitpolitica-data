@@ -893,3 +893,6 @@
 - **[2026-09-10 20:43 UTC]** PF identifica R$ 1,4 milhão de Frias e empresa investigada para produtora de filme sobre Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-identifica-r-14-milhao-de-frias-e-empresa-investigada-para-produtora-de-filme-sobre-bolsonaro.ghtml)_
 
+- **[2026-09-10 21:08 UTC]** 'Cruzada' de Mendonça no STF traz eleitor evangélico de volta pra Flávio Bolsonaro, diz Renato Meirelles
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss)_
+
