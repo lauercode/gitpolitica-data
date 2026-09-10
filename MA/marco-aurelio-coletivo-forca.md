@@ -86,3 +86,6 @@
 - **[2026-09-10 08:00 UTC]** Instabilidade ganha força em regiões do RS com risco de tempestades, granizo e rajadas de vento nesta quinta-feira
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/instabilidade-regioes-rs-tempestades-granizo-rajadas-de-vento-quinta-feira.ghtml)_
 
+- **[2026-09-10 09:13 UTC]** Ministério da Saúde instala base da Força Nacional do SUS no Rio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/ministerio-da-saude-instala-base-da-forca-nacional-do-sus-no-rio)_
+
