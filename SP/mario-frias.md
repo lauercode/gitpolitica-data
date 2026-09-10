@@ -23,3 +23,6 @@
 - **[2026-09-10 08:32 UTC]** PF cumpre mandado de busca e apreensão contra Mário Frias em operação sobre 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-cumpre-mandado-de-busca-e-apreensao-contra-mario-frias-em-operacao-sobre-dark-horse.shtml)_
 
+- **[2026-09-10 10:32 UTC]** Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss)_
+
