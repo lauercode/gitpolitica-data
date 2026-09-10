@@ -32,3 +32,6 @@
 - **[2026-09-04 16:14 UTC]** Lulistas disputam com Nikolas Ferreira narrativa do caso Master, mas opositor tem mais alcance nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lulistas-disputam-com-nikolas-ferreira-narrativa-do-caso-master-mas-opositor-tem-mais-alcance-nas-redes.shtml)_
 
+- **[2026-09-10 08:00 UTC]** É #FAKE foto de relatório da PF dizendo não ver crime em conversas de Nikolas Ferreira com Vorcaro; imagem foi criada com IA
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/10/e-fake-foto-de-relatorio-da-pf-dizendo-nao-ver-crime-em-conversas-de-nikolas-ferreira-com-vorcaro-imagem-foi-criada-com-ia.ghtml)_
+
