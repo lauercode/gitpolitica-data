@@ -233,3 +233,6 @@
 - **[2026-09-10 16:20 UTC]** Nikolas pediu prestação de contas três dias antes de operação da PF sobre 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/nikolas-pediu-prestacao-de-contas-tres-dias-antes-de-operacao-da-pf-sobre-dark-horse.shtml)_
 
+- **[2026-09-10 19:34 UTC]** Flávio Dino retira sigilo de processo sobre filme Dark Horse
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/flavio-dino-retira-sigilo-de-processo-sobre-filme-dark-horse)_
+
