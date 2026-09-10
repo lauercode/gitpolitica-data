@@ -68,3 +68,6 @@
 - **[2026-09-10 16:52 UTC]** Pai e filho são baleados dentro de casa na zona rural de Buriti
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/10/pai-e-filho-sao-baleados-dentro-de-casa-na-zona-rural-de-buriti.ghtml)_
 
+- **[2026-09-10 19:38 UTC]** Queda de avião mata três pessoas em área rural de Mato Grosso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/queda-de-aviao-mata-tres-pessoas-em-area-rural-de-mato-grosso.shtml)_
+
