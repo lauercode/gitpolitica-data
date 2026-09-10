@@ -74,3 +74,6 @@
 - **[2026-09-09 18:10 UTC]** Um avanço na detecção do câncer de intestino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2026/09/um-avanco-na-deteccao-do-cancer-de-intestino.shtml)_
 
+- **[2026-09-09 18:10 UTC]** Novo exame clínico marca um avanço para detectar o câncer que afeta o intestino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/drauziovarella/2026/09/um-avanco-na-deteccao-do-cancer-de-intestino.shtml)_
+
