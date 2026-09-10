@@ -200,3 +200,6 @@
 - **[2026-09-10 15:07 UTC]** Gastos com filme 'Dark Horse' coincidem com envio de emendas de Mario Frias para produtora, aponta PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-aponta-coincidencia-entre-gastos-durante-gravacoes-de-filme-sobre-bolsonaro-e-transferencias-para-produtora.ghtml)_
 
+- **[2026-09-10 13:53 UTC]** Caso 'Dark Horse': Dino proíbe Mario Frias de sair do país e ter contato com outros investigados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml)_
+
