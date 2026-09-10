@@ -17,3 +17,6 @@
 - **[2026-09-04 14:48 UTC]** Pai se assusta durante chá-revelação, leva a mão à cabeça e questiona: ‘É gêmeos mesmo?’; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/pai-se-assusta-durante-cha-revelacao-leva-a-mao-a-cabeca-e-questiona-e-gemeos-mesmo-video.ghtml)_
 
+- **[2026-09-10 07:00 UTC]** Urano fica retrógrado em gêmeos e põe a checagem de fonte no centro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/urano-fica-retrogrado-em-gemeos-e-poe-a-checagem-de-fonte-no-centro.shtml)_
+
