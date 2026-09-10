@@ -23,3 +23,6 @@
 - **[2026-09-08 21:56 UTC]** Morre, aos 76 anos, Zélia Amador de Deus, referência da luta antirracista na Amazônia
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/08/zelia-amador-de-deus-referencia-da-luta-antirracista-na-amazonia-morre-aos-74-anos-no-para.ghtml)_
 
+- **[2026-09-10 14:17 UTC]** Zélia Amador nos braços de Nanã
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2026/09/zelia-amador-nos-bracos-de-nana.shtml)_
+
