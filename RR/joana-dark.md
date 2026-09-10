@@ -179,3 +179,6 @@
 - **[2026-09-10 18:44 UTC]** Augusto Cury diz que pode apoiar Flávio no 2º turno se ele 'provar que não tem corrupção' em Dark Horse
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/augusto-cury-diz-que-pode-apoiar-flavio-no-2o-turno-se-ele-provar-que-nao-tem-corrupcao-em-dark-horse.ghtml)_
 
+- **[2026-09-10 17:04 UTC]** PF aponta que projeto financiado com emenda de Mário Frias pagou R$ 300 mil por curso online com poucos acessos e apura elo com 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/emenda-de-mario-frias-para-curso-online-elo-com-dark-horse.ghtml)_
+
