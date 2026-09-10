@@ -248,3 +248,6 @@
 - **[2026-09-09 23:08 UTC]** Trump promete dar R$ 25 mil a cada americano caso os republicanos vençam as eleições de novembro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-ataca-democratas-e-repete-discursos-de-comicio-em-convencao-republicana.shtml)_
 
+- **[2026-09-10 09:31 UTC]** Trump promete US$ 5 mil a cada americano se vencer eleições
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/trump-promete-us-5-mil-cada-americano-se-vencer-eleicoes)_
+
