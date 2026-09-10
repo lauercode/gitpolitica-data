@@ -1253,3 +1253,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 00:25 UTC]** Fachin intervém na crise, prepara fim do inquérito das fake news e enfraquece Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-intervem-na-crise-prepara-fim-do-inquerito-das-fake-news-e-enfraquece-moraes/)_
 
+- **[2026-09-10 03:54 UTC]** Mendonça, Moraes, Dino e Fachin: o STF em rota de colisão - O Assunto #1801
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/10/mendonca-moraes-dino-e-fachin-o-stf-em-rota-de-colisao-o-assunto-1801.ghtml)_
+
