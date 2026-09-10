@@ -164,3 +164,6 @@
 - **[2026-09-10 03:54 UTC]** Mendonça, Moraes, Dino e Fachin: o STF em rota de colisão - O Assunto #1801
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/10/mendonca-moraes-dino-e-fachin-o-stf-em-rota-de-colisao-o-assunto-1801.ghtml)_
 
+- **[2026-09-10 01:26 UTC]** Fachin suspende ordens de Mendonça e Dino sobre o comando da Polícia Federal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-suspende-ordens-de-mendonca-e-dino-sobre-o-comando-da-policia-federal/)_
+
