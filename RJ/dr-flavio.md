@@ -1088,3 +1088,6 @@
 - **[2026-09-10 03:00 UTC]** Crise do STF nas campanhas: Flávio Bolsonaro intensifica ataques a Moraes, e parte da campanha de Lula defende distância do ministro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/crise-no-stf-campanhas-flavio-bolsonaro-e-lula.ghtml)_
 
+- **[2026-09-09 23:00 UTC]** Ex-ministro de Geisel condenado por fraude está entre maiores doadores da campanha de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ex-ministro-de-geisel-condenado-por-fraude-esta-entre-maiores-doadores-da-campanha-de-flavio.shtml)_
+
