@@ -236,3 +236,6 @@
 - **[2026-09-09 17:24 UTC]** Trump diz que guerra no Irã terminará logo após eleição de meio de mandato nos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-diz-que-guerra-no-ira-terminara-logo-apos-eleicao-de-meio-de-mandato-nos-eua.shtml)_
 
+- **[2026-09-09 23:08 UTC]** Trump ataca democratas e repete discursos de comício em convenção republicana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-ataca-democratas-e-repete-discursos-de-comicio-em-convencao-republicana.shtml)_
+
