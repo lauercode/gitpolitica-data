@@ -20,3 +20,6 @@
 - **[2026-09-09 14:10 UTC]** Grupo criminoso que furtou mais de 2 mil cabeças de gado no Paraná desde 2019 é alvo de operação
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/operacao-furto-gado-parana.ghtml)_
 
+- **[2026-09-10 09:00 UTC]** Trabalhador é resgatado de condição análoga à escravidão após um ano em fazenda de gado no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/trabalhador-e-resgatado-de-condicao-analoga-a-escravidao-apos-um-ano-em-fazenda-de-gado-no-acre.ghtml)_
+
