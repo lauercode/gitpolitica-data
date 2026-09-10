@@ -302,3 +302,6 @@
 - **[2026-09-10 20:08 UTC]** Projeto amplia mecanismos para regularização de dívidas com a União
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303527-projeto-amplia-mecanismos-para-regularizacao-de-dividas-com-a-uniao)_
 
+- **[2026-09-10 18:13 UTC]** Projeto obriga postos a trocar bombas de combustíveis flagradas em fraude
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303080-projeto-obriga-postos-a-trocar-bombas-de-combustiveis-flagradas-em-fraude)_
+
