@@ -1316,3 +1316,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 12:00 UTC]** Pronunciamento de Moraes é cancelado e será remarcado, informa STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pronunciamento-de-moraes-e-cancelado-e-sera-remarcado-informa-stf/)_
 
+- **[2026-09-10 11:16 UTC]** Moraes anuncia pronunciamento após perder relatoria do inquérito das fake news
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-fara-pronunciamento-apos-perder-relatoria-do-inquerito-das-fake-news/)_
+
