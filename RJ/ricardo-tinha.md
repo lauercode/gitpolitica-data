@@ -41,3 +41,6 @@
 - **[2026-09-07 16:12 UTC]** Mortes: Tinha a curiosidade como método e a ciência como norte e legado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-tinha-a-curiosidade-como-metodo-e-a-ciencia-como-norte-e-legado.shtml)_
 
+- **[2026-09-10 08:00 UTC]** Menino de 3 anos morreu de traumatismo craniano e tinha lesões no rosto e pescoço; mãe e padrasto seguem presos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/menino-de-3-anos-morreu-de-traumatismo-craniano-e-tinha-lesoes-no-rosto-e-pescoco-mae-e-padrasto-seguem-presos.ghtml)_
+
