@@ -227,3 +227,6 @@
 - **[2026-09-10 08:03 UTC]** Viva Maria homenageia mulheres que marcaram sua história
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/viva-maria-homenageia-mulheres-que-marcaram-sua-historia)_
 
+- **[2026-09-09 22:04 UTC]** Justiça decreta nova prisão a homem acusado de transmitir HIV para mulheres em RO; entenda
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/09/justica-decreta-nova-prisao-de-homem-acusado-de-transmitir-hiv-para-mulheres-em-ro-entenda.ghtml)_
+
