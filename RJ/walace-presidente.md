@@ -461,3 +461,6 @@
 - **[2026-09-10 03:00 UTC]** Eleições 2026: veja quem são os candidatos a presidente, governador, senador e deputados em todo o Brasil
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-veja-quem-sao-os-candidatos-a-presidente-governador-senador-e-deputados-em-todo-o-brasil.ghtml)_
 
+- **[2026-09-10 03:00 UTC]** Eleições 2026: O que faz o presidente?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-o-que-faz-o-presidente.ghtml)_
+
