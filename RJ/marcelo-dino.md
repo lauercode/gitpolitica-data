@@ -191,3 +191,6 @@
 - **[2026-09-10 16:03 UTC]** Caso 'Dark Horse': veja argumentos de Dino para puxar apuração de SP contra Mario Frias para STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-veja-argumentos-de-dino-para-puxar-apuracao-de-sp-contra-mario-frias-para-o-stf.ghtml)_
 
+- **[2026-09-10 13:53 UTC]** Caso 'Dark Horse': Dino proíbe Mario Frias de sair do país e ter contato com outros investigados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml)_
+
