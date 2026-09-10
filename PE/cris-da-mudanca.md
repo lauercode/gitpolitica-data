@@ -83,3 +83,6 @@
 - **[2026-09-09 16:29 UTC]** Alan Rick promete mudança no governo e diz que saúde será prioridade se eleito
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/alan-rick-promete-mudanca-no-governo-e-diz-que-saude-sera-prioridade-se-eleito.ghtml)_
 
+- **[2026-09-10 04:15 UTC]** Corregedoria de SP investiga mudança em morte ligada a seguro de R$ 85 mi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corregedoria-de-sp-investiga-mudanca-em-morte-ligada-a-seguro-de-r-85-mi.shtml)_
+
