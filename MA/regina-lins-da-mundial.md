@@ -71,3 +71,6 @@
 - **[2026-09-08 17:35 UTC]** Seleção feminina derrota Canadá e avança às oitavas do Mundial Sub-20
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/selecao-feminina-derrota-canada-e-avanca-oitavas-do-mundial-sub-20)_
 
+- **[2026-09-10 15:30 UTC]** Pela 1ª vez, França tem vitórias consecutivas em mundial de misters; Brasil não se classifica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/pela-1a-vez-franca-tem-vitorias-consecutivas-em-mundial-de-misters-brasil-nao-se-classifica.shtml)_
+
