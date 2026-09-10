@@ -56,3 +56,6 @@
 - **[2026-09-08 22:06 UTC]** Zema diz que Mendonça não cometeu excesso e que esquerda e direita se omitem em caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/zema-diz-que-mendonca-nao-cometeu-excesso-e-que-esquerda-e-direita-se-omitem-em-caso-master.shtml)_
 
+- **[2026-09-10 13:57 UTC]** Evangélicos de esquerda pedem que Mendonça retire sigilo do caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/evangelicos-de-esquerda-pedem-que-mendonca-retire-sigilo-do-caso-master-e-falam-em-vazamentos-seletivos/)_
+
