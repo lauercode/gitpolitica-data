@@ -32,3 +32,6 @@
 - **[2026-09-10 05:00 UTC]** SP tem alertas de tempestade no litoral e de tornados no sudoeste nesta quinta (10)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sp-tem-alertas-de-tempestade-no-litoral-e-de-tornados-no-sudoeste-nesta-quinta-10.shtml)_
 
+- **[2026-09-10 12:13 UTC]** Paraná tem novos alertas da Defesa Civil para tempestade, granizo e vendaval; veja onde e previsão do tempo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/10/parana-tem-novos-alertas.ghtml)_
+
