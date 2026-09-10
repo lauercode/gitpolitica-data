@@ -197,3 +197,6 @@
 - **[2026-09-10 17:59 UTC]** Dino diz haver indícios de desvio de recursos por Frias a organizações ligadas a “Dark Horse”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-indicios-desvio-recursos-frias-dark-horse/)_
 
+- **[2026-09-10 19:50 UTC]** Dino convoca audiência pública sobre responsabilização de parlamentares por emendas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/dino-convoca-audiencia-publica-sobre-responsabilizacao-de-parlamentares-por-emendas/)_
+
