@@ -14,3 +14,6 @@
 - **[2026-08-25 18:52 UTC]** Ação de Reconhecimento promove aprendizado e conexão no Espírito Santo
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/08/25/acao-de-reconhecimento-promove-aprendizado-e-conexao-no-espirito-santo.ghtml)_
 
+- **[2026-09-09 22:12 UTC]** Carlos e ala radical voltam a cobrar conexão de Flávio Bolsonaro com o pai e criticar Daniella Marques
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carlos-e-ala-radical-voltam-a-cobrar-conexao-de-flavio-bolsonaro-com-o-pai-e-criticar-daniella-marques.shtml)_
+
