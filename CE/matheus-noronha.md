@@ -122,3 +122,6 @@
 - **[2018-04-24 16:58 UTC]** Casas e terrenos não devem ser entregues este ano em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/casas-e-terrenos-nao-devem-ser-entregues-este-ano-em-fernando-de-noronha.html)_
 
+- **[2026-09-10 15:46 UTC]** Polícia Civil cumpre mandados na Paraíba contra grupo suspeito de aplicar golpes em turistas de Fernando de Noronha
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/policia-civil-cumpre-mandados-na-paraiba-contra-grupo-suspeito-de-aplicar-golpes-em-turistas-de-fernando-de-noronha.ghtml)_
+
