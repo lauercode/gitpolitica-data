@@ -41,3 +41,6 @@
 - **[2026-09-10 13:00 UTC]** Rashid volta às raízes do rap em 'Cumulonimbus' e faz do novo disco uma tempestade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/rashid-volta-as-raizes-do-rap-em-cumulonimbus-e-faz-do-novo-disco-uma-tempestade.shtml)_
 
+- **[2026-09-10 19:57 UTC]** Com chuva acima da média e alerta de tempestade, SP cancela aulas em parte da rede
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/com-chuva-acima-da-media-e-alerta-de-tempestade-sp-cancela-aulas-em-parte-da-rede.shtml)_
+
