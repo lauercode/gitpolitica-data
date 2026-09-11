@@ -1136,3 +1136,6 @@
 - **[2026-09-10 23:47 UTC]** Governadores decididos no 1º turno ameaçam mobilização de eleitores de Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governadores-decididos-no-1o-turno-ameacam-mobilizacao-de-eleitores-de-lula-e-flavio/)_
 
+- **[2026-09-10 21:08 UTC]** 'Cruzada' de Mendonça no STF traz eleitor evangélico de volta para Flávio Bolsonaro, diz Renato Meirelles
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss)_
+
