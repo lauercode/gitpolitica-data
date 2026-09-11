@@ -1154,3 +1154,6 @@
 - **[2026-09-11 13:00 UTC]** Campanha de Lula vai explorar na TV investigação no STF de Flávio Bolsonaro no financiamento de 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/11/campanha-de-lula-vai-explorar-na-tv-investigacao-no-stf-de-flavio-bolsonaro-no-financiamento-de-dark-horse.ghtml)_
 
+- **[2026-09-11 11:39 UTC]** Flávio Bolsonaro é investigado em inquérito no STF aberto para apurar financiamento do filme 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/flavio-bolsonaro-e-investigado-em-inquerito-da-pf-aberto-para-apurar-financiamento-do-filme-dark-horse.ghtml)_
+
