@@ -20,3 +20,6 @@
 - **[2026-09-10 11:38 UTC]** PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 03:30 UTC]** 'Dark Horse': as emendas parlamentares e o filme sobre Jair Bolsonaro - O Assunto #1802
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/11/dark-horse-as-emendas-parlamentares-e-o-filme-sobre-jair-bolsonaro-o-assunto-1802.ghtml)_
+
