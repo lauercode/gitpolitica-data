@@ -188,3 +188,6 @@
 - **[2026-09-11 15:42 UTC]** Justiça federal transforma TH Joias e mais cinco em réus por esquema com o CV no Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-federal-transforma-th-joias-e-mais-cinco-em-reus-por-esquema-com-o-cv-no-rio.shtml)_
 
+- **[2026-09-11 16:02 UTC]** 'Rei do Gás' faz doações eleitorais de R$ 4,7 milhões para cinco partidos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/rei-do-gas-faz-doacoes-eleitorais-de-r-47-milhoes-para-cinco-partidos.shtml)_
+
