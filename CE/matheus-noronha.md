@@ -125,3 +125,6 @@
 - **[2026-09-10 15:46 UTC]** Polícia Civil cumpre mandados na Paraíba contra grupo suspeito de aplicar golpes em turistas de Fernando de Noronha
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/policia-civil-cumpre-mandados-na-paraiba-contra-grupo-suspeito-de-aplicar-golpes-em-turistas-de-fernando-de-noronha.ghtml)_
 
+- **[2026-09-11 18:19 UTC]** Operação mira quadrilha que fraudava sites de hotéis para aplicar golpes em Fernando de Noronha
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pe/pernambuco/noticia/2026/09/11/operacao-antillia-fernando-de-noronha.ghtml)_
+
