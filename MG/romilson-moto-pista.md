@@ -83,3 +83,6 @@
 - **[2026-09-08 10:45 UTC]** Carreta desgovernada sai da pista e atinge estabelecimentos comerciais em Presidente Dutra
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/carreta-desgovernada-sai-da-pista-e-atinge-estabelecimentos-comerciais-em-presidente-dutra-no-ma.ghtml)_
 
+- **[2026-09-11 12:15 UTC]** Alok aposta na geração Z para manter a pista viva no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/alok-aposta-na-geracao-z-para-manter-a-pista-viva-no-rock-in-rio.shtml)_
+
