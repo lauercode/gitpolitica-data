@@ -20,3 +20,6 @@
 - **[2026-09-09 21:29 UTC]** Homem é procurado após furto de equipamentos de som em igreja em Itacoatiara; VÍDEO
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/homem-e-procurado-apos-furto-de-equipamentos-de-som-em-igreja-em-itacoatiara-video.ghtml)_
 
+- **[2026-09-11 17:10 UTC]** Igreja Presbiteriana de Pinheiros fecha acordo após acusação de assédio e 'abuso espiritual'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/igreja-presbiteriana-de-pinheiros-fecha-acordo-apos-acusacao-de-assedio-e-abuso-espiritual.shtml)_
+
