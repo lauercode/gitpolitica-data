@@ -140,3 +140,6 @@
 - **[2026-09-11 14:51 UTC]** TRE do Rio veta candidatura de Garotinho ao governo estadual
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tre-do-rio-indefere-candidatura-de-garotinho-ao-governo-estadual.shtml)_
 
+- **[2026-09-11 18:51 UTC]** TRE-PB barra candidatura de Dinho Dowsley a deputado estadual
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/tre-pb-barra-candidatura-de-dinho-dowsley-a-deputado-estadual.ghtml)_
+
