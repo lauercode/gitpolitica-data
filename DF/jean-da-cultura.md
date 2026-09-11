@@ -68,3 +68,6 @@
 - **[2026-09-10 22:40 UTC]** Eleições 2026: Fábio diz que pretende intensificar investimentos em cultura
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-fabio-diz-que-pretende-intensificar-investimentos-em-cultura.ghtml)_
 
+- **[2026-09-11 15:35 UTC]** Terras indígenas representam preservação e cultura para o Cerrado
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/terras-indigenas-representam-preservacao-e-cultura-para-o-cerrado)_
+
