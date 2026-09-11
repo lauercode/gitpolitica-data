@@ -56,3 +56,6 @@
 - **[2026-09-11 14:49 UTC]** PF e Ibama destroem equipamentos de garimpo ilegal em terras indígenas de RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/11/pf-e-ibama-destroem-equipamentos-de-garimpo-ilegal-em-terras-indigenas-de-ro.ghtml)_
 
+- **[2026-09-11 20:25 UTC]** 258 indígenas assassinados - a omissão do Estado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/txai-surui/2026/09/258-indigenas-assassinados-a-omissao-do-estado.shtml)_
+
