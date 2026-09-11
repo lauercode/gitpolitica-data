@@ -1436,3 +1436,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 18:46 UTC]** Vieira considera “abraço de afogado” tentativa de Moraes de envolver Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vieira-considera-abraco-de-afogado-tentativa-de-moraes-de-envolver-mendonca/)_
 
+- **[2026-09-11 17:58 UTC]** STF decide se fecha sessão que vai discutir caso Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-decide-se-fecha-sessao-que-vai-discutir-caso-moraes/)_
+
