@@ -89,3 +89,6 @@
 - **[2026-09-11 00:55 UTC]** Araceli Lemos propõe reduzir tempo de espera para exames e descentralizar tratamento de câncer no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/araceli-lemos-propoe-reduzir-tempo-de-espera-para-exames-e-descentralizar-tratamento-de-cancer-no-para.ghtml)_
 
+- **[2026-09-10 23:00 UTC]** Casos de câncer relacionados ao 11/9 crescem nos EUA 25 anos após atentados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/casos-de-cancer-relacionados-ao-119-crescem-nos-eua-25-anos-apos-atentados.shtml)_
+
