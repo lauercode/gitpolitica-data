@@ -224,3 +224,6 @@
 - **[2026-09-11 04:00 UTC]** Livro elege o Oriente Médio como centro de gravidade da literatura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/livro-elege-o-oriente-medio-como-centro-de-gravidade-da-literatura.shtml)_
 
+- **[2026-09-11 05:00 UTC]** Sexta (11) tem previsão de chuva forte e risco de tornado no centro-sul de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sexta-11-tem-previsao-de-chuva-forte-e-risco-de-tornado-no-centro-sul-de-sao-paulo.shtml)_
+
