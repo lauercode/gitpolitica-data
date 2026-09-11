@@ -140,3 +140,6 @@
 - **[2026-09-09 13:05 UTC]** Motociclista morre após bater de frente com caminhonete na BR-101 no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/09/motociclista-morre-acidente-br-101-rn.ghtml)_
 
+- **[2026-09-11 15:08 UTC]** Motociclista morre em acidente entre moto e carro na BR-010, em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/motociclista-morre-em-acidente-entre-moto-e-carro-na-br-010-em-palmas.ghtml)_
+
