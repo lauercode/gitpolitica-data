@@ -47,3 +47,6 @@
 - **[2026-09-11 08:29 UTC]** Rebeldes pró-Irã tomam costa do mar Vermelho no Iêmen
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aliados-do-ira-avancam-no-mar-vermelho-oleoduto-saudita-pega-fogo.shtml)_
 
+- **[2026-09-11 13:35 UTC]** Paraná tem apenas três cidades fora do alerta vermelho de tempestade; veja quais
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/alerta-vermelho-de-tempestade-parana.ghtml)_
+
