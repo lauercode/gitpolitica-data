@@ -434,3 +434,6 @@
 - **[2026-09-11 12:07 UTC]** Quem é médica condenada por dar falsos diagnósticos de câncer de pele e solicitar cirurgias desnecessárias no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/quem-e-medica-condenada-por-falsos-diagnosticos.ghtml)_
 
+- **[2026-09-09 03:00 UTC]** Doutora antes dos 25 anos e sonho de ser professora: quem é a estudante impedida de assumir vaga em concurso público
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quem-e-professora-impedida-assumir-concurso-doenca-ifrs-rs.ghtml)_
+
