@@ -35,3 +35,6 @@
 - **[2026-09-10 22:52 UTC]** Eleições 2026 no PR: Requião Filho propõe isenção de IPVA para motoristas de carros elétricos que trabalhem por aplicativos
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-agenda-requiao-filho-10-setembro.ghtml)_
 
+- **[2026-09-11 19:12 UTC]** Eleições 2026: Requião Filho diz que parte da malha ferroviária do Paraná está abandonada e que pretende 'retomar estradas de ferro'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-requiao-filho-diz-que-parte-da-malha-ferroviaria-do-parana-esta-abandonada-e-que-pretende-retomar-estradas-de-ferro.ghtml)_
+
