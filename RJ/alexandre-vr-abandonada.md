@@ -14,3 +14,6 @@
 - **[2026-09-08 17:43 UTC]** Tamanduá-bandeira é resgatado após ser encontrado ferido em obra abandonada em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/08/tamandua-bandeira-e-resgatado-apos-ser-encontrado-ferido-em-obra-abandonada-em-boa-vista.ghtml)_
 
+- **[2026-09-11 19:12 UTC]** Eleições 2026: Requião Filho diz que parte da malha ferroviária do Paraná está abandonada e que pretende 'retomar estradas de ferro'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-requiao-filho-diz-que-parte-da-malha-ferroviaria-do-parana-esta-abandonada-e-que-pretende-retomar-estradas-de-ferro.ghtml)_
+
