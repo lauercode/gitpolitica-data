@@ -467,3 +467,6 @@
 - **[2026-09-10 23:50 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 10 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-10-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-11 11:00 UTC]** Professor do Acre lança livro sobre teatro e saberes da floresta na Bienal do Livro em SP: 'Riqueza cultural'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/professor-do-acre-lanca-livro-sobre-teatro-e-saberes-da-floresta-na-bienal-do-livro-em-sp-riqueza-cultural.ghtml)_
+
