@@ -911,3 +911,6 @@
 - **[2026-09-10 23:00 UTC]** Condenação de Bolsonaro completa um ano com STF em crise e clã na disputa pela Presidência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/condenacao-de-bolsonaro-completa-um-ano-com-stf-em-crise-e-cla-na-disputa-pela-presidencia.shtml)_
 
+- **[2026-09-10 21:08 UTC]** 'Cruzada' de Mendonça no STF traz eleitor evangélico de volta para Flávio Bolsonaro, diz Renato Meirelles
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss)_
+
