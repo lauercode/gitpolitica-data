@@ -92,3 +92,6 @@
 - **[2026-09-10 23:00 UTC]** Casos de câncer relacionados ao 11/9 crescem nos EUA 25 anos após atentados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/casos-de-cancer-relacionados-ao-119-crescem-nos-eua-25-anos-apos-atentados.shtml)_
 
+- **[2026-09-11 12:07 UTC]** Quem é médica condenada por dar falsos diagnósticos de câncer de pele e solicitar cirurgias desnecessárias no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/quem-e-medica-condenada-por-falsos-diagnosticos.ghtml)_
+
