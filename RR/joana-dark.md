@@ -311,3 +311,6 @@
 - **[2026-09-11 14:59 UTC]** Em mensagem, Eduardo Bolsonaro cita que dinheiro para 'Dark Horse' vindo do Brasil seria 'problemático': 'Ideal seria haver recursos já nos EUA'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/em-mensagem-eduardo-bolsonaro-orientou-gestao-de-recursos-de-dark-horse-nos-eua-diz-documento-da-pgr.ghtml)_
 
+- **[2026-09-11 14:15 UTC]** Plano de negócios de 'Dark Horse' previa bilheteria maior que a de 'Minha Mãe é uma Peça 3', recorde no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/plano-de-negocios-de-dark-horse-previa-bilheteria-maior-que-a-de-minha-mae-e-uma-peca-3-recorde-no-brasil.shtml)_
+
