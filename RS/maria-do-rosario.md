@@ -17,3 +17,6 @@
 - **[2026-09-02 21:18 UTC]** Cerâmica de Rosário transforma tradição centenária em patrimônio reconhecido nacionalmente
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/vem-ver-pequeno/noticia/2026/09/02/ceramica-de-rosario-transforma-tradicao-centenaria-em-patrimonio-reconhecido-nacionalmente.ghtml)_
 
+- **[2026-09-11 14:42 UTC]** Senai-MA abre 100 vagas para cursos gratuitos em Rosário; veja como se inscrever
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/11/senai-ma-abre-100-vagas-para-cursos-gratuitos-em-rosario-veja-como-se-inscrever.ghtml)_
+
