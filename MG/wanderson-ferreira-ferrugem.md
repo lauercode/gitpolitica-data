@@ -14,3 +14,6 @@
 - **[2026-09-08 05:08 UTC]** Sou Manaus termina com mistura de ritmos e shows de Ferrugem, Gustavo Mioto, Natanzinho Lima e MC Hariel
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/09/08/sou-manaus-termina-com-mistura-de-ritmos-e-shows-de-ferrugem-gustavo-mioto-natanzinho-lima-e-mc-hariel.ghtml)_
 
+- **[2026-09-11 20:51 UTC]** Ferrugem e Jonas Esticado fazem shows gratuitos em Alagoas; veja programação
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/ferrugem-e-jonas-esticado-fazem-shows-gratuitos-em-alagoas-veja-programacao.ghtml)_
+
