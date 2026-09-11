@@ -65,3 +65,6 @@
 - **[2026-09-11 11:33 UTC]** Trabalhadores dos Correios aprovam greve nacional por tempo indeterminado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trabalhadores-dos-correios-aprovam-greve-nacional-por-tempo-indeterminado.shtml)_
 
+- **[2026-09-11 16:32 UTC]** Funcionários dos Correios entram em greve por tempo indeterminado em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/funcionarios-dos-correios-entram-em-greve-em-alagoas-por-tempo-indeterminado-paralisacao-e-nacional.ghtml)_
+
