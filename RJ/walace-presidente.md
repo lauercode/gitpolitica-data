@@ -494,3 +494,6 @@
 - **[2026-09-10 20:25 UTC]** Confira como foi a quinta-feira (10) dos candidatos a presidente
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-quinta-feira-10-dos-candidatos-presidente)_
 
+- **[2026-09-10 20:17 UTC]** Lula diz que Fachin colocou 'um pouco de ordem na casa', mas que espera mais de presidente do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-fachin-colocou-um-pouco-de-ordem-na-casa-mas-que-espera-mais-de-presidente-do-stf.shtml)_
+
