@@ -230,3 +230,6 @@
 - **[2026-09-10 13:16 UTC]** Diretor da PF promete apontar 'erros' da decisão que o afastou e Planalto espera resposta esclarecedora ao STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/diretor-da-pf-promete-apontar-erros-da-decisao-que-o-afastou-e-planalto-espera-resposta-esclarecedora-ao-stf.shtml)_
 
+- **[2026-09-11 12:21 UTC]** Termina nesta sexta prazo para diretor da PF se manifestar sobre ação que pede afastamento dele do cargo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/termina-nesta-sexta-prazo-para-diretor-da-pf-se-manifestar-sobre-acao-que-pede-afastamento-dele-do-cargo.ghtml)_
+
