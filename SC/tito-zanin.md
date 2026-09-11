@@ -47,3 +47,6 @@
 - **[2026-09-11 18:26 UTC]** Zanin reforça pedido de acesso a celular de Vorcaro após Mendonça dizer que dados estão lacrados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-que-dados-de-celular-de-vorcaro-estao-intocados-e-nao-atende-zanin.shtml)_
 
+- **[2026-09-11 23:03 UTC]** Moraes e Zanin voltam a confrontar Mendonça em guerra de ofícios no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-e-zanin-voltam-a-confrontar-mendonca-em-guerra-de-oficios-no-stf/)_
+
