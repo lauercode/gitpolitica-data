@@ -389,3 +389,6 @@
 - **[2026-09-11 18:34 UTC]** Ex-secretário de Educação, político e mais dois são indiciados por fraude em licitação de R$ 4,3 milhões em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/ex-secretario-de-educacao-politico-e-mais-dois-sao-indiciados-por-fraude-em-licitacao-de-r-43-milhoes-em-roraima.ghtml)_
 
+- **[2026-09-11 16:38 UTC]** Amazonas confirma três casos de sarampo; outros dois são investigados
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/amazonas-confirma-tres-casos-de-sarampo-outros-dois-sao-investigados)_
+
