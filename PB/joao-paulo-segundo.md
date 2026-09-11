@@ -227,3 +227,6 @@
 - **[2026-09-11 20:11 UTC]** Datafolha no DF: veja as intenções de voto para o segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/11/datafolha-df-governador-segundo-turno-11-setembro.ghtml)_
 
+- **[2026-09-11 19:14 UTC]** Master 'NUNCA deixará de ser o SEU banco', disse ex-presidente do BRB a Vorcaro, segundo relatório da PF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/noticia/2026/09/11/o-master-nunca-deixara-de-ser-o-seu-banco-disse-ex-presidente-do-brb-a-vorcaro-segundo-relatorio-da-pf.ghtml)_
+
