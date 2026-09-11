@@ -311,3 +311,6 @@
 - **[2026-09-10 18:22 UTC]** EDP entrega no Piauí seu maior projeto de transmissão no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/edp-entrega-no-piaui-seu-maior-projeto-de-transmissao-no-brasil.shtml)_
 
+- **[2026-09-10 22:51 UTC]** Projeto pago com emenda de Mario Frias não teve execução comprovada
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/projeto-pago-com-emenda-de-mario-frias-nao-teve-execucao-comprovada)_
+
