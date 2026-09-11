@@ -1181,3 +1181,6 @@
 - **[2026-09-11 13:26 UTC]** Lula perdeu a vantagem sobre Flávio no 2º turno, dizem pesquisas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/lula-perdeu-vantagem-sobre-flavio-segundo-turno-pesquisas-eleitorais-presidente/)_
 
+- **[2026-09-11 12:22 UTC]** Flávio nega dinheiro público em Dark Horse antes de investigação autorizada por Mendonça ser revelada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-nega-dinheiro-publico-em-dark-horse-antes-de-investigacao-autorizada-por-mendonca-ser-revelada/)_
+
