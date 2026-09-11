@@ -323,3 +323,6 @@
 - **[2026-09-11 12:52 UTC]** VÍDEOS: Jornal da Manhã Alagoas de sexta-feira, 11 de setembro de 2026
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/edicao/2026/09/11/videos-jornal-da-manha-alagoas-de-sexta-feira-11-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-11 18:15 UTC]** VÍDEOS: Jornal do Amazonas - 1ª edição - 11 de setembro de 2026
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-1-edicao-11-de-setembro-de-2026.ghtml)_
+
