@@ -38,3 +38,6 @@
 - **[2026-09-10 16:46 UTC]** FMI diz que economia global resiste à guerra, mas riscos seguem elevados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fmi-diz-que-economia-global-resiste-a-guerra-mas-riscos-seguem-elevados.shtml)_
 
+- **[2026-09-11 07:28 UTC]** Dia do Cerrado: Guimarães Rosa denunciou riscos ao bioma, diz bióloga
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/dia-do-cerrado-guimaraes-rosa-denunciou-riscos-ao-bioma-diz-biologa)_
+
