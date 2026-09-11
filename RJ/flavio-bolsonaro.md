@@ -905,3 +905,6 @@
 - **[2026-09-10 20:43 UTC]** PF identifica R$ 1,4 milhão de Frias e de empresa investigada para produtora de filme sobre Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/pf-identifica-r-14-milhao-de-frias-e-empresa-investigada-para-produtora-de-filme-sobre-bolsonaro.ghtml)_
 
+- **[2026-09-10 21:21 UTC]** A odisseia de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/a-odisseia-de-flavio-bolsonaro.shtml)_
+
