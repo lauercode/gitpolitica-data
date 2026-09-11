@@ -335,3 +335,6 @@
 - **[2026-09-11 23:01 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 11 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-11-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-11 22:40 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 11 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-11-de-setembro-de-2026.ghtml)_
+
