@@ -56,3 +56,6 @@
 - **[2026-09-10 10:01 UTC]** Rádio Nacional transmite Independiente del Valle x Flamengo
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/radio-nacional-transmite-independiente-del-valle-x-flamengo)_
 
+- **[2026-09-10 23:29 UTC]** Flamengo vence no Equador e dá um salto rumo à semifinal da Libertadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-vence-no-equador-e-da-um-salto-rumo-a-semifinal-da-libertadores.shtml)_
+
