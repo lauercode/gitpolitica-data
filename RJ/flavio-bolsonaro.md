@@ -944,3 +944,6 @@
 - **[2026-09-11 08:59 UTC]** Flávio Bolsonaro é investigado no STF em inquérito sobre 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-investigado-no-stf-em-inquerito-sobre-dark-horse.shtml)_
 
+- **[2026-09-11 13:26 UTC]** Lula ataca Bolsonaro ao atribuir enriquecimento de Vorcaro ao governo do ex-presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-ataca-bolsonaro-enriquecimento-vorcaro-governo-ex-presidente/)_
+
