@@ -383,3 +383,6 @@
 - **[2026-09-11 15:40 UTC]** Dois filmes acreanos são selecionados para a IX Mostra Sesc de Cinema
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/fecomercio-ac-transformando-vidas-fortalecendo-empresas-e-construindo-futuros/noticia/2026/09/11/dois-filmes-acreanos-sao-selecionados-para-a-ix-mostra-sesc-de-cinema.ghtml)_
 
+- **[2026-09-11 18:24 UTC]** Dois postos de combustíveis são autuados após fiscalização identificar irregularidades, no Agreste da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/dois-postos-de-combustiveis-sao-autuados-apos-fiscalizacao-identificar-irregularidades-no-agreste-da-paraiba.ghtml)_
+
