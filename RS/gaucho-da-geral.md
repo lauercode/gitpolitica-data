@@ -128,3 +128,6 @@
 - **[2026-09-11 06:00 UTC]** Secretário-geral da OAB-DF publica post que associa Lula a Alexandre de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/secretario-geral-da-oab-df-publica-post-que-associa-lula-a-alexandre-de-moraes.shtml)_
 
+- **[2026-09-11 22:45 UTC]** Mendonça defende afastamento do diretor-geral da PF e nega lesão à ordem pública
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/mendonca-defende-afastamento-do-diretor-geral-da-pf-e-nega-lesao-a-ordem-publica.ghtml)_
+
