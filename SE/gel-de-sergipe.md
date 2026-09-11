@@ -242,3 +242,6 @@
 - **[2026-09-11 16:36 UTC]** Resultado Mega-Sena 3056: apostas de Sergipe acertam quadra; veja valores
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/resultado-mega-sena-3056-apostas-de-sergipe-acertam-quadra-veja-valores.ghtml)_
 
+- **[2026-09-11 19:12 UTC]** Trabalhadores dos Correios em Sergipe aderem à greve nacional
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/trabalhadores-dos-correios-em-sergipe-aderem-a-greve-nacional.ghtml)_
+
