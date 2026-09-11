@@ -152,3 +152,6 @@
 - **[2026-09-11 12:13 UTC]** Entenda por que o Tocantins pode entrar na rota do urânio brasileiro
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/entenda-por-que-o-tocantins-pode-entrar-na-rota-do-uranio-brasileiro.ghtml)_
 
+- **[2026-09-11 20:16 UTC]** Conheça influencer 'Bebinha' que conquistou 1 bilhão de visualizações com vídeos humorados no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/conheca-influencer-bebinha-que-conquistou-1-bilhao-de-visualizacoes-com-videos-humorados-no-tocantins.ghtml)_
+
