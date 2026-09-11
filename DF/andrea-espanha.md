@@ -44,3 +44,6 @@
 - **[2026-09-07 16:29 UTC]** Coco de roda paraibano ganha palcos na Europa em projeto que leva cultura popular a Espanha e Portugal
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/coco-de-roda-paraibano-ganha-palcos-na-europa-em-projeto-que-leva-cultura-popular-a-espanha-e-portugal.ghtml)_
 
+- **[2026-09-11 16:23 UTC]** Final da Copa do Mundo de 2030 vira batalha entre Marrocos e Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/final-da-copa-do-mundo-de-2030-vira-batalha-entre-marrocos-e-espanha.shtml)_
+
