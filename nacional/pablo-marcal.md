@@ -32,3 +32,6 @@
 - **[2026-09-11 20:19 UTC]** TSE forma maioria para rejeitar registro da candidatura de Pablo Marçal à Presidência
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/tse-forma-maioria-para-rejeitar-registro-da-candidatura-de-pablo-marcal-a-presidencia.ghtml)_
 
+- **[2026-09-11 19:39 UTC]** TSE rejeita por unanimidade o registro de candidatura de Pablo Marçal
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-rejeita-por-unanimidade-o-registro-de-candidatura-de-pablo-marcal)_
+
