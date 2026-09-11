@@ -74,3 +74,6 @@
 - **[2026-09-10 14:33 UTC]** Bombeiros publicam regras para instalação de carregadores de carros elétricos no TO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/10/bombeiros-publicam-regras-para-instalacao-de-carregadores-de-carros-eletricos-no-to.ghtml)_
 
+- **[2026-09-11 11:30 UTC]** Restaurante explode em Belém; bombeiros suspeitam de vazamento de gás
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/11/restaurante-explode-em-belem-bombeiros-suspeitam-de-vazamento-de-gas.ghtml)_
+
