@@ -1433,3 +1433,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 12:36 UTC]** Moraes cobra Fachin, critica 'escolha seletiva' de Mendonça e pede retirada de sigilo integral sobre Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-cobra-fachin-e-diz-que-mendonca-nao-retirou-sigilo-integral-de-caso-master.shtml)_
 
+- **[2026-09-11 18:46 UTC]** Vieira considera “abraço de afogado” tentativa de Moraes de envolver Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vieira-considera-abraco-de-afogado-tentativa-de-moraes-de-envolver-mendonca/)_
+
