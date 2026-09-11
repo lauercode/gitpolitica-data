@@ -53,3 +53,6 @@
 - **[2026-09-09 16:16 UTC]** São Paulo confirma dois novos casos de sarampo; total chega a 30
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-dois-novos-casos-de-sarampo)_
 
+- **[2026-09-10 23:31 UTC]** Lula sai em defesa de Andrei: 'é da minha total confiança'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/lula-sai-em-defesa-de-andrei-e-da-minha-total-confianca.ghtml)_
+
