@@ -92,3 +92,6 @@
 - **[2026-09-09 20:23 UTC]** MP Eleitoral abre investigação contra vereador que disse que prefeito deve 'obrigar' votos de servidores contratados na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/mp-eleitoral-investigacao-vereador-disse-que-prefeito-obrigar-votos-servidores-contratados-pb.ghtml)_
 
+- **[2026-09-11 02:11 UTC]** Vorcaro bancou viagens de servidores do BC para o exterior, diz PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/vorcaro-bancou-viagens-de-servidores-do-bc-para-o-exterior-diz-pf.shtml)_
+
