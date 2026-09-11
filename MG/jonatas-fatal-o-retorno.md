@@ -41,3 +41,6 @@
 - **[2026-09-07 15:30 UTC]** Tive que ir relembrando como fazer, diz Paulo Vilhena sobre retorno às novelas após oito anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/tive-que-ir-relembrando-como-fazer-diz-paulo-vilhena-sobre-retorno-as-novelas-apos-oito-anos.shtml)_
 
+- **[2026-09-11 17:00 UTC]** 'Retorno a Buenos Aires', em Veneza, examina lado que sobreviveu à ditadura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/retorno-a-buenos-aires-em-veneza-examina-lado-que-sobreviveu-a-ditadura.shtml)_
+
