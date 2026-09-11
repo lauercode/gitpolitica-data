@@ -71,3 +71,6 @@
 - **[2026-09-10 02:58 UTC]** Temer diz que STF está acima de disputas individuais e cobra solução rápida para crise
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temer-diz-que-stf-esta-acima-de-disputas-individuais-e-cobra-solucao-rapida-para-crise/)_
 
+- **[2026-09-11 00:48 UTC]** CNBB cobra solução da crise no STF pelo plenário e diz que “ninguém está acima da lei”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cnbb-cobra-solucao-da-crise-no-stf-pelo-plenario-e-diz-que-ninguem-esta-acima-da-lei/)_
+
