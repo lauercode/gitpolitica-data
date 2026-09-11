@@ -32,3 +32,6 @@
 - **[2026-09-09 20:05 UTC]** Efraim Filho defende valorização policial e reabertura de delegacias 24 horas na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/09/efraim-filho-defende-valorizacao-policial-e-reabertura-de-delegacias-24-horas-na-paraiba.ghtml)_
 
+- **[2026-09-11 20:03 UTC]** Efraim Filho defende fortalecimento de turismo em mercados públicos e incentivo à agricultura na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/11/efraim-filho-defende-fortalecimento-de-turismo-em-mercados-publicos-e-incentivo-a-agricultura-na-paraiba.ghtml)_
+
