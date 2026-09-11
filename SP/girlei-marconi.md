@@ -20,3 +20,6 @@
 - **[2026-09-09 23:43 UTC]** Eleições 2026: Marconi Perillo fala em desburocratização no setor empresarial e em atração de investimentos durante sabatina na Acieg
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-agenda-de-marconi-perillo-de-quarta-feira-9.ghtml)_
 
+- **[2026-09-11 23:26 UTC]** Eleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial em visita a Aparecida de Goiânia
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-11ghtml.ghtml)_
+
