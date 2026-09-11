@@ -50,3 +50,6 @@
 - **[2026-09-11 13:35 UTC]** Paraná tem apenas três cidades fora do alerta vermelho de tempestade; veja quais
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/alerta-vermelho-de-tempestade-parana.ghtml)_
 
+- **[2026-09-11 16:18 UTC]** Após alerta vermelho de tempestades e tornados, como fica o tempo no Paraná? Veja previsão
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/apos-alerta-vermelho-de-tempestades-e-tornados-como-fica-o-tempo-no-parana-veja-previsao.ghtml)_
+
