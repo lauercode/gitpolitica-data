@@ -29,3 +29,6 @@
 - **[2026-09-11 13:08 UTC]** No X, perfil reconstitui ataques de 11/9 tuíte a tuíte
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/no-x-perfil-reconstitui-ataques-de-119-tuite-a-tuite.shtml)_
 
+- **[2026-09-11 18:28 UTC]** TRE-MG apura elo entre perfil de Nikolas e conta que difundiu relatório falsamente atribuído à PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/tre-mg-apura-elo-entre-perfil-de-nikolas-e-conta-que-difundiu-relatorio-falsamente-atribuido-a-pf.shtml)_
+
