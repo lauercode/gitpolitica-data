@@ -35,3 +35,6 @@
 - **[2026-09-10 16:58 UTC]** Moraes autoriza visita de familiares a Bolsonaro durante campanha de Michelle
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-visita-de-familiares-a-bolsonaro-durante-campanha-de-michelle/)_
 
+- **[2026-09-11 20:14 UTC]** Datafolha no DF, Senado: Michelle, 21%; Leila, 18%; Bia, 15%; Erika, 14%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/11/datafolha-df-senador-11-setembro.ghtml)_
+
