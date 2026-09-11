@@ -1232,3 +1232,6 @@
 - **[2026-09-11 20:39 UTC]** PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 22:47 UTC]** Mendonça libera sigilo de novos documentos do caso Master sobre Flávio Bolsonaro, Ciro Nogueira e Jaques Wagner
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/mendonca-libera-sigilo-de-mais-documentos-do-caso-master.ghtml)_
+
