@@ -41,3 +41,6 @@
 - **[2026-09-11 07:28 UTC]** Dia do Cerrado: Guimarães Rosa denunciou riscos ao bioma, diz bióloga
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/dia-do-cerrado-guimaraes-rosa-denunciou-riscos-ao-bioma-diz-biologa)_
 
+- **[2026-09-11 12:01 UTC]** Influenciador morre após aumento peniano com ácido hialurônico na Tailândia; entenda os riscos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/influenciador-morre-apos-aumento-peniano-com-acido-hialuronico-na-tailandia-entenda-os-riscos.shtml)_
+
