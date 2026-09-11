@@ -1472,3 +1472,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 18:56 UTC]** Gilmar sugere adiar sessão do STF sobre Moraes e juntar caso a relatório que mira Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-sugere-adiar-sessao-do-stf-sobre-moraes-e-juntar-caso-a-relatorio-que-mira-mendonca.shtml)_
 
+- **[2026-09-11 16:38 UTC]** Chefe da PF diz a Fachin que entrega de relatório sobre Mendonça foi determinação de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/chefe-da-pf-diz-a-fachin-que-relatorio-sobre-mendonca-foi-determinacao-de-moraes.shtml)_
+
