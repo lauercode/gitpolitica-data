@@ -80,3 +80,6 @@
 - **[2026-09-11 14:04 UTC]** Gilmar Mendes dá palestra em universidade na Itália em meio à crise no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-da-palestra-em-universidade-na-italia-em-meio-a-crise-no-stf/)_
 
+- **[2026-09-11 12:50 UTC]** STF retoma julgamento da Ficha Limpa com voto de Gilmar Mendes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/stf-retoma-julgamento-da-ficha-limpa-com-voto-de-gilmar-mendes/)_
+
