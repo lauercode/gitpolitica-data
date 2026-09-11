@@ -203,3 +203,6 @@
 - **[2026-09-11 00:51 UTC]** Oposição senatorial intensifica cobrança sobre Alcolumbre pelo impeachment de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
 
+- **[2026-09-11 00:51 UTC]** Senadores da oposição intensificam cobrança sobre Alcolumbre pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
+
