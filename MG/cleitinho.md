@@ -53,3 +53,6 @@
 - **[2026-09-11 20:05 UTC]** Datafolha em MG: Cleitinho, 37%; Patrus, 13%; Kalil, 11%; Simões, 4; Roscoe, 4%; Gabriel, 4%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-mg-governador-11-setembro.ghtml)_
 
+- **[2026-09-11 17:12 UTC]** Datafolha: Cleitinho mantém liderança em MG com 37%; Patrus tem 13%, Kalil, 11%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-cletinho-tem-37-e-mantem-lideranca-em-corrida-pelo-governo-de-mg.shtml)_
+
