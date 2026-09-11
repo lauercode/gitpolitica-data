@@ -53,3 +53,6 @@
 - **[2026-09-11 23:17 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Eduardo Paes a 'O Globo', 'Extra', 'Valor' e CBN
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/11/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-eduardo-paes-a-o-globo-extra-valor-e-cbn.ghtml)_
 
+- **[2026-09-11 22:58 UTC]** Veja o que é #FATO e o que é #FAKE no debate de candidatos ao Senado pelo Distrito Federal no g1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/11/veja-o-que-e-fato-e-o-que-e-fake-no-debate-de-candidatos-ao-senado-pelo-distrito-federal-no-g1.ghtml)_
+
