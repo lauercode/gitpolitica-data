@@ -326,3 +326,6 @@
 - **[2026-09-11 14:23 UTC]** Projeto prioriza doadores frequentes de sangue em campanhas de vacinação
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303641-projeto-prioriza-doadores-frequentes-de-sangue-em-campanhas-de-vacinacao)_
 
+- **[2026-09-11 13:07 UTC]** Comissão de Constituição e Justiça aprova projeto que proíbe o uso do termo "elefantíase" em documentos públicos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303928-comissao-de-constituicao-e-justica-aprova-projeto-que-proibe-o-uso-do-termo-elefantiase-em-documentos-publicos)_
+
