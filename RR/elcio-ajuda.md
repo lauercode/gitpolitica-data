@@ -98,3 +98,6 @@
 - **[2026-09-10 16:02 UTC]** Cofundador da Anthropic prevê que PIB dos EUA pode crescer 15% em 2030 com ajuda da IA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/cofundador-da-anthropic-preve-que-pib-dos-eua-pode-crescer-15-em-2030-com-ajuda-da-ia.shtml)_
 
+- **[2026-09-11 20:37 UTC]** Deputados britânicos rejeitam legalização da ajuda para morrer na Inglaterra e País de Gales
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/deputados-britanicos-rejeitam-legalizacao-da-ajuda-para-morrer-na-inglaterra-e-pais-de-gales.shtml)_
+
