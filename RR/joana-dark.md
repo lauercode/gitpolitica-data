@@ -323,3 +323,6 @@
 - **[2026-09-11 18:18 UTC]** Por que o caso “Dark Horse” está dividido entre Dino e Mendonça no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dark-horse-stf-dino-mendonca/)_
 
+- **[2026-09-11 15:11 UTC]** Investigado em inquérito no STF sobre financiamento de 'Dark Horse', Flávio diz que é 'positivo tirar o sigilo de tudo'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/flavio-bolsonaro-campanha-setembro-2026-amazonas.ghtml)_
+
