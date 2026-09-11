@@ -71,3 +71,6 @@
 - **[2026-09-11 15:35 UTC]** Terras indígenas representam preservação e cultura para o Cerrado
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/terras-indigenas-representam-preservacao-e-cultura-para-o-cerrado)_
 
+- **[2026-09-11 17:00 UTC]** O futuro incerto do Ministério da Cultura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/09/o-futuro-incerto-do-ministerio-da-cultura.shtml)_
+
