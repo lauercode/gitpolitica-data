@@ -29,3 +29,6 @@
 - **[2026-09-09 16:10 UTC]** Ministério Público pede demolição de imóveis construídos no meio de rua há mais de 25 anos em Araguaína
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/ministerio-publico-pede-demolicao-de-imoveis-construidos-em-rua-ha-mais-de-25-anos-em-araguaina.ghtml)_
 
+- **[2026-09-11 11:20 UTC]** Casa é interditada após desabamento, granizo danifica imóveis e comunidades ficam isoladas durante temporais no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/desabamento-granizo-estragos-parana.ghtml)_
+
