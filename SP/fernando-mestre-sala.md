@@ -35,3 +35,6 @@
 - **[2026-09-09 17:50 UTC]** FECOIMP 2026 terá primeira Sala Sensorial para ampliar inclusão na feira
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/especial-publicitario/associacao-comercial-industrial-e-servicos-de-imperatriz-fecoimp-2026-aqui-vira-negocio/noticia/2026/09/09/fecoimp-2026-tera-primeira-sala-sensorial-para-ampliar-inclusao-na-feira.ghtml)_
 
+- **[2026-09-11 06:46 UTC]** Sala de Concerto, da Rádio MEC, apresenta ópera Vênus e Adônis
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/sala-de-concerto-da-radio-mec-apresenta-opera-venus-e-adonis)_
+
