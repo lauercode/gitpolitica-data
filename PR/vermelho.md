@@ -53,3 +53,6 @@
 - **[2026-09-11 16:18 UTC]** Após alerta vermelho de tempestades e tornados, como fica o tempo no Paraná? Veja previsão
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/apos-alerta-vermelho-de-tempestades-e-tornados-como-fica-o-tempo-no-parana-veja-previsao.ghtml)_
 
+- **[2026-09-11 17:53 UTC]** Ciclone extratropical deixa região Sul do país em alerta vermelho
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/ciclone-extratropical-deixa-regiao-sul-do-pais-em-alerta-vermelho)_
+
