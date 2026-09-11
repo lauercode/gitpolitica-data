@@ -425,3 +425,6 @@
 - **[2026-09-10 22:06 UTC]** Quem é Antônio Carlos Freixo Júnior, o “Mineiro”, operador financeiro de Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-antonio-carlos-freixo-junior-o-mineiro-operador-financeiro-de-vorcaro/)_
 
+- **[2026-09-11 08:44 UTC]** Quem é quem nas mensagens que desencadearam a maior crise da história do STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c7708dpmmg7o?at_medium=RSS&at_campaign=rss)_
+
