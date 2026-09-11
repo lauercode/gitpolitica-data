@@ -50,3 +50,6 @@
 - **[2026-09-08 20:09 UTC]** Grupo RBS lança série sobre desafios do RS e expectativas dos eleitores
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/grupo-rbs-serie-desafios-do-rs.ghtml)_
 
+- **[2026-09-10 22:40 UTC]** OpenAI lança ChatGPT para setor de serviços financeiros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/openai-lanca-chatgpt-para-setor-de-servicos-financeiros.shtml)_
+
