@@ -1427,3 +1427,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 15:12 UTC]** Moraes fala em 'escolha seletiva' de Mendonça e pede a Fachin retirada de sigilo de todos os documentos do caso Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/moraes-fala-em-escolha-seletiva-e-pede-a-fachin-retirada-de-sigilo-de-todos-documentos-do-caso-master.ghtml)_
 
+- **[2026-09-11 14:56 UTC]** Ministros do STF ameaçam debater 'podres' de colegas se apenas Moraes for julgado na sessão de 15/9
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/ministros-do-stf-ameacam-debater-podres-de-colegas-se-apenas-moraes-for-julgado-na-sessao-de-159.shtml)_
+
