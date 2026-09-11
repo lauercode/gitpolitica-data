@@ -41,3 +41,6 @@
 - **[2026-09-11 19:46 UTC]** Zanin reitera pedido de acesso a dados de celular de Vorcaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-reitera-pedido-de-acesso-dados-de-celular-de-vorcaro)_
 
+- **[2026-09-11 21:54 UTC]** Zanin insiste em pedido de acesso a celular de Vorcaro e diz que conteúdo lacrado não impede compartilhamento por Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/zanin-reitera-pedido-de-acesso-a-celular-de-vorcaro-e-que-conteudo-lacrado-nao-impede-compartilhamento.ghtml)_
+
