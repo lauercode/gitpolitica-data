@@ -140,3 +140,6 @@
 - **[2026-09-11 08:29 UTC]** Aliados do Irã avançam no mar Vermelho; oleoduto saudita pega fogo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aliados-do-ira-avancam-no-mar-vermelho-oleoduto-saudita-pega-fogo.shtml)_
 
+- **[2026-09-11 09:52 UTC]** Entenda a crise no STF e o fogo cruzado entre Moraes e Mendonça
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c24jr88lvqlo?at_medium=RSS&at_campaign=rss)_
+
