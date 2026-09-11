@@ -95,3 +95,6 @@
 - **[2026-09-11 12:07 UTC]** Quem é médica condenada por dar falsos diagnósticos de câncer de pele e solicitar cirurgias desnecessárias no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/quem-e-medica-condenada-por-falsos-diagnosticos.ghtml)_
 
+- **[2026-09-11 15:00 UTC]** Alteração no DNA pode explicar progressão de câncer cerebral em jovens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/alteracao-no-dna-pode-explicar-progressao-de-cancer-cerebral-em-jovens.shtml)_
+
