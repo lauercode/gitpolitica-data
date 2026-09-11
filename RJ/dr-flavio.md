@@ -1187,3 +1187,6 @@
 - **[2026-09-11 11:49 UTC]** Decisão de Flávio Dino em ação contra Mário Frias tem falhas graves e punições extensas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/decisao-de-flavio-dino-em-acao-contra-mario-frias-tem-falhas-graves-e-punicoes-extensas/)_
 
+- **[2026-09-11 12:38 UTC]** Flávio Bolsonaro é investigado pela PF desde julho com autorização de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-investigado-pf-julho-autorizacao-mendonca/)_
+
