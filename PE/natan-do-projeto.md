@@ -338,3 +338,6 @@
 - **[2026-09-11 16:34 UTC]** Projeto prevê exibição obrigatória nos cinemas de campanhas sobre vacina contra o HPV
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304043-projeto-preve-exibicao-obrigatoria-nos-cinemas-de-campanhas-sobre-vacina-contra-o-hpv)_
 
+- **[2026-09-11 20:06 UTC]** Projeto 7 Leituras apresenta 'O Deus da Carnificina', da francesa Yasmina Reza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/projeto-7-leituras-apresenta-o-deus-da-carnificina-da-francesa-yasmina-reza.shtml)_
+
