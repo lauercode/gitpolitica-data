@@ -56,3 +56,6 @@
 - **[2026-09-09 23:00 UTC]** Ex-dono da Reag relata propinas de Vorcaro para autoridades públicas em delação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ex-dono-da-reag-relata-propinas-de-vorcaro-para-autoridades-publicas-em-delacao.shtml)_
 
+- **[2026-09-11 20:46 UTC]** PF suspeita que Toffoli seja dono de dinheiro de Vorcaro depositado em paraíso fiscal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-suspeita-que-toffoli-mantenha-dinheiro-de-vorcaro-em-paraiso-fiscal/)_
+
