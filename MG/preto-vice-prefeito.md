@@ -83,3 +83,6 @@
 - **[2026-09-10 19:17 UTC]** Prefeito de Manaus, Renato Junior faz balanço de gestão em entrevista ao JAM1
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/10/renato-junior-faz-balanco-de-gestao-em-entrevista-ao-jam1.ghtml)_
 
+- **[2026-09-11 13:09 UTC]** Vereador admite erro ao pedir que prefeito obrigue servidores a votar em candidatos apoiados pela gestão, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/vereador-admite-erro-ao-pedir-que-prefeito-obrigue-servidores-a-votar-em-candidatos-apoiados-pela-gestao-na-pb.ghtml)_
+
