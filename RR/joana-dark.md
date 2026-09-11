@@ -254,3 +254,6 @@
 - **[2026-09-10 20:26 UTC]** Flávio diz que operação sobre 'Dark Horse' é tentativa de golpe e fala em acionar Fachin contra Dino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-diz-que-operacao-sobre-dark-horse-e-tentativa-de-golpe-e-fala-em-acionar-fachin-contra-dino.shtml)_
 
+- **[2026-09-11 03:30 UTC]** 'Dark Horse': as emendas parlamentares e o filme sobre Jair Bolsonaro - O Assunto #1802
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/11/dark-horse-as-emendas-parlamentares-e-o-filme-sobre-jair-bolsonaro-o-assunto-1802.ghtml)_
+
