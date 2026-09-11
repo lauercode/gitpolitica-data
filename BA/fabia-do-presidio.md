@@ -53,3 +53,6 @@
 - **[2026-09-09 10:36 UTC]** Indígena de recente contato que desapareceu após soltura de presídio é reencontrado em Manaus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/indigena-de-recente-contato-que-desapareceu-apos-soltura-de-presidio-e-reencontrado-em-manaus.shtml)_
 
+- **[2026-09-11 15:05 UTC]** Detento foge de presídio em Mossoró após pedir para ir ao banheiro durante trabalho na unidade
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/11/detento-foge-presidio-mossoro.ghtml)_
+
