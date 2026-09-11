@@ -23,3 +23,6 @@
 - **[2026-09-08 21:46 UTC]** Brasil supera Venezuela em estreia no Sul-Americano de vôlei feminino
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-supera-venezuela-em-estreia-no-sul-americano-de-volei-feminino)_
 
+- **[2026-09-11 17:31 UTC]** Datafolha: Michelle Bolsonaro (PL) e Leila do Vôlei (PDT) lideram disputa ao Senado pelo DF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-michelle-bolsonaro-e-leila-do-volei-lideram-disputa-ao-senado-pelo-df.shtml)_
+
