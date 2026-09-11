@@ -1190,3 +1190,6 @@
 - **[2026-09-11 12:38 UTC]** Flávio Bolsonaro é investigado pela PF desde julho com autorização de Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-investigado-pf-julho-autorizacao-mendonca/)_
 
+- **[2026-09-10 18:08 UTC]** “Nenhuma armação vai nos parar”, diz Flávio após operação do caso Dark Horse
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nenhuma-armacao-vai-nos-parar-diz-flavio-apos-operacao-do-caso-dark-horse/)_
+
