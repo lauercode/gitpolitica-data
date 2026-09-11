@@ -965,3 +965,6 @@
 - **[2026-09-11 13:13 UTC]** Flávio Bolsonaro defende em Manaus fim de sigilo sobre 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-defende-em-manaus-fim-de-sigilo-sobre-dark-horse.shtml)_
 
+- **[2026-09-11 19:49 UTC]** Inquérito sobre Flávio Bolsonaro apura lavagem de dinheiro, evasão de divisas e corrupção; entenda os crimes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/inquerito-sobre-flavio-bolsonaro-entenda-os-crimes.ghtml)_
+
