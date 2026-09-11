@@ -74,3 +74,6 @@
 - **[2026-09-11 00:48 UTC]** CNBB cobra solução da crise no STF pelo plenário e diz que “ninguém está acima da lei”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cnbb-cobra-solucao-da-crise-no-stf-pelo-plenario-e-diz-que-ninguem-esta-acima-da-lei/)_
 
+- **[2026-09-10 23:00 UTC]** Observatório do STF cobra de Fachin proteção à corte e critica ministros que querem influenciar eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/observatorio-do-stf-cobra-de-fachin-protecao-a-corte-e-critica-ministros-que-querem-influenciar-eleicao.shtml)_
+
