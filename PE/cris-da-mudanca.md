@@ -95,3 +95,6 @@
 - **[2026-09-11 13:41 UTC]** Vorcaro acionou ex-diretor do BC, seu 'anjo na vida', contra mudança em fundo de pensão, mostra PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/vorcaro-acionou-ex-diretor-do-bc-seu-anjo-na-vida-contra-mudanca-em-fundo-de-pensao-mostra-pf.shtml)_
 
+- **[2026-09-11 17:57 UTC]** Desconfianças em série levaram comitê a trocar escritório do caso Mariana, mudança que vai à Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/desconfiancas-em-serie-levaram-comite-a-trocar-escritorio-do-caso-mariana-mudanca-que-vai-a-justica.shtml)_
+
