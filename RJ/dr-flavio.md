@@ -1169,3 +1169,6 @@
 - **[2026-09-11 10:22 UTC]** Eduardo Bolsonaro apoia ex-banqueiro Marcelo Kayath para ministro da Fazenda de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/eduardo-bolsonaro-apoia-ex-banqueiro-marcelo-kayath-para-ministro-da-fazenda-de-flavio.shtml)_
 
+- **[2026-09-11 10:00 UTC]** Flávio Bolsonaro almeja grande pátria transnacional liderada por Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2026/09/flavio-bolsonaro-almeja-grande-patria-transnacional-liderada-por-trump.shtml)_
+
