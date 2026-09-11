@@ -41,3 +41,6 @@
 - **[2026-09-07 22:07 UTC]** Candidato ao Senado, Rogério Miranda critica classe política de Roraima: 'pessoas fracas'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-rogerio-miranda-critica-classe-politica-de-roraima-pessoas-fracas.ghtml)_
 
+- **[2026-09-11 15:41 UTC]** Eleições 2026: Eduardo Amorim e Rogério Carvalho cancelam participação em entrevista na FM Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/candidatos-ao-senado-cancelam-entrevista-fm-sergipe.ghtml)_
+
