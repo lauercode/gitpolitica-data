@@ -71,3 +71,6 @@
 - **[2026-09-11 16:47 UTC]** Trabalhadores dos Correios estão em greve por tempo indeterminado
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/trabalhadores-dos-correios-estao-em-greve-por-tempo-indeterminado)_
 
+- **[2026-09-11 19:12 UTC]** Trabalhadores dos Correios em Sergipe aderem à greve nacional
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/trabalhadores-dos-correios-em-sergipe-aderem-a-greve-nacional.ghtml)_
+
