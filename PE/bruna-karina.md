@@ -11,3 +11,6 @@
 - **[2026-09-10 20:13 UTC]** Quem é Vanderlei Natividade, alvo da PF e tesoureiro da ONG de Karina Gama que movimentou R$ 83 milhões
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-vanderlei-natividade-alvo-da-pf-e-tesoureiro-da-ong-de-karina-gama-que-movimentou-r-83-milhoes.ghtml)_
 
+- **[2026-09-11 19:19 UTC]** Quem é Karina da Gama, produtora de “Dark Horse” investigada pela PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-karina-da-gama-produtora-de-dark-horse-investigada-pela-pf/)_
+
