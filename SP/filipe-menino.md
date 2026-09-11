@@ -95,3 +95,6 @@
 - **[2026-09-10 08:00 UTC]** Menino de 3 anos morreu de traumatismo craniano e tinha lesões no rosto e pescoço; mãe e padrasto seguem presos
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/menino-de-3-anos-morreu-de-traumatismo-craniano-e-tinha-lesoes-no-rosto-e-pescoco-mae-e-padrasto-seguem-presos.ghtml)_
 
+- **[2026-09-11 09:00 UTC]** Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml)_
+
