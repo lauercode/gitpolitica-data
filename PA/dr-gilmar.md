@@ -89,3 +89,6 @@
 - **[2026-09-11 21:33 UTC]** Gilmar Mendes pede que Fachin assuma caso envolvendo Moraes e relatório contra Mendonça seja analisado em conjunto
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/gilmar-mendes-pede-que-fachin-analise-conjunta-no-plenario-de-relatorio-sobre-mendonca.ghtml)_
 
+- **[2026-09-11 18:56 UTC]** Gilmar sugere adiar sessão do STF sobre Moraes e juntar caso a relatório que mira Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-sugere-adiar-sessao-do-stf-sobre-moraes-e-juntar-caso-a-relatorio-que-mira-mendonca.shtml)_
+
