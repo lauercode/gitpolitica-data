@@ -1406,3 +1406,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 15:18 UTC]** O que a queda do sigilo do Master revela sobre Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-a-queda-do-sigilo-do-master-revela-sobre-moraes/)_
 
+- **[2026-09-11 13:55 UTC]** Em meio a aproximação com Moraes, Vorcaro ameaça colocar site em “processo fake news”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/em-meio-a-aproximacao-com-moraes-vorcaro-ameaca-colocar-site-em-processo-fake-news/)_
+
