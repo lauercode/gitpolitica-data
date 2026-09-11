@@ -20,3 +20,6 @@
 - **[2026-09-11 12:28 UTC]** CE: peças teatrais de todo o Nordeste ocupam ruas de Guaramiranga
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/ce-pecas-teatrais-de-todo-o-nordeste-ocupam-ruas-de-guaramiranga)_
 
+- **[2026-09-11 18:00 UTC]** Quarks e férmions: as pequenas peças que constroem o Universo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bibi-bailas/2026/09/quarks-e-fermions-as-pequenas-pecas-que-constroem-o-universo.shtml)_
+
