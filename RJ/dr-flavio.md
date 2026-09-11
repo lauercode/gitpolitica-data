@@ -1145,3 +1145,6 @@
 - **[2026-09-11 07:00 UTC]** Menções ao Banco Master caem e favorecem Flávio Bolsonaro contra Lula, diz Datrix
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mencoes-ao-banco-master-caem-e-favorecem-flavio-bolsonaro-contra-lula-diz-datrix.shtml)_
 
+- **[2026-09-11 09:44 UTC]** Mendonça incluiu Flávio Bolsonaro como investigado no caso Dark Horse
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse)_
+
