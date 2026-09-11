@@ -17,3 +17,6 @@
 - **[2026-09-09 16:18 UTC]** CazéTV contrata sobrinho de Fernando Meligeni para comandar programa sobre tênis
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/cazetv-contrata-sobrinho-de-fernando-meligeni-para-comandar-programa-sobre-tenis.shtml)_
 
+- **[2026-09-11 19:13 UTC]** Homem é preso suspeito de matar irmão e sobrinho durante discussão no Agreste do RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/11/homem-e-preso-suspeito-de-matar-irmao-e-sobrinho-durante-discussao-no-agreste-do-rn.ghtml)_
+
