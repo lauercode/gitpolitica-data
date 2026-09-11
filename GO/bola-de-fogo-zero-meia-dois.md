@@ -380,3 +380,6 @@
 - **[2026-09-11 14:15 UTC]** Dois brasileiros do 11 de Setembro estão fora da lista oficial de mortos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/dois-brasileiros-do-11-de-setembro-estao-fora-da-lista-oficial-de-mortos.shtml)_
 
+- **[2026-09-11 15:40 UTC]** Dois filmes acreanos são selecionados para a IX Mostra Sesc de Cinema
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/fecomercio-ac-transformando-vidas-fortalecendo-empresas-e-construindo-futuros/noticia/2026/09/11/dois-filmes-acreanos-sao-selecionados-para-a-ix-mostra-sesc-de-cinema.ghtml)_
+
