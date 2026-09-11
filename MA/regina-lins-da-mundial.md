@@ -77,3 +77,6 @@
 - **[2026-09-10 19:58 UTC]** Brasil continua sem vitória no mundial de basquete em cadeira de rodas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-continua-sem-vitoria-no-mundial-de-basquete-em-cadeira-de-rodas)_
 
+- **[2026-09-11 17:34 UTC]** Santos e Vasco perto do Mundial de Clubes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sandromacedo/2026/09/santos-e-vasco-perto-do-mundial-de-clubes.shtml)_
+
