@@ -29,3 +29,6 @@
 - **[2026-09-08 07:48 UTC]** Vasco vai à final e decide título do Feminino A2 contra Itabirito
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-vai-final-e-decide-titulo-do-feminino-a2-contra-itabirito)_
 
+- **[2026-09-11 17:34 UTC]** Santos e Vasco perto do Mundial de Clubes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sandromacedo/2026/09/santos-e-vasco-perto-do-mundial-de-clubes.shtml)_
+
