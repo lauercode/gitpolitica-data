@@ -203,3 +203,6 @@
 - **[2026-09-10 20:26 UTC]** Flávio diz que operação sobre 'Dark Horse' é tentativa de golpe e fala em acionar Fachin contra Dino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-diz-que-operacao-sobre-dark-horse-e-tentativa-de-golpe-e-fala-em-acionar-fachin-contra-dino.shtml)_
 
+- **[2026-09-10 23:00 UTC]** Operação da PF com aval de Dino põe 'Dark Horse' e Mario Frias no alvo em meio a crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/operacao-da-pf-com-aval-de-dino-poe-dark-horse-e-mario-frias-no-alvo-em-meio-a-crise-no-stf.shtml)_
+
