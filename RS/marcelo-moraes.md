@@ -1409,3 +1409,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 13:55 UTC]** Em meio a aproximação com Moraes, Vorcaro ameaça colocar site em “processo fake news”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/em-meio-a-aproximacao-com-moraes-vorcaro-ameaca-colocar-site-em-processo-fake-news/)_
 
+- **[2026-09-11 12:50 UTC]** Contrato de esposa de Moraes e Master previa “consultoria estratégica”, aponta PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/contrato-esposa-moraes-master-previa-consultoria-estrategica/)_
+
