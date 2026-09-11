@@ -29,3 +29,6 @@
 - **[2026-09-10 00:35 UTC]** Hana Ghassan promete ampliar saneamento e cobrar metas de concessionária de água no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/09/hana-ghassan-promete-ampliar-saneamento-e-cobrar-metas-de-concessionaria-de-agua-no-para.ghtml)_
 
+- **[2026-09-11 22:57 UTC]** Hana Ghassan propõe construir mais 40 Usinas da Paz e descentralizar atendimento de saúde no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/11/hana-ghassan-propoe-construir-mais-40-usinas-da-paz-e-descentralizar-atendimento-de-saude-no-para.ghtml)_
+
