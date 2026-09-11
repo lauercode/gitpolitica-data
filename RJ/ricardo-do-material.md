@@ -20,3 +20,6 @@
 - **[2026-09-08 19:21 UTC]** Parente de Maluf tem material de campanha vandalizado na Paulista; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/parente-de-maluf-tem-material-de-campanha-vandalizado-na-paulista.shtml)_
 
+- **[2026-09-11 14:20 UTC]** STF: Zanin pede a Fachin acesso a todo material de celular de Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-zanin-pede-fachin-acesso-todo-material-de-celular-de-vorcaro)_
+
