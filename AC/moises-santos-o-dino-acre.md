@@ -476,3 +476,6 @@
 - **[2026-09-11 12:00 UTC]** Com apoio de até R$ 300 mil, edital abre inscrições para ONGs e coletivos de periferias no Acre; VEJA
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/com-apoio-de-ate-r-300-mil-edital-abre-inscricoes-para-ongs-e-coletivos-de-periferias-no-acre-veja.ghtml)_
 
+- **[2026-09-11 18:17 UTC]** Autor de 'Café com Deus Pai' faz primeiro encontro da nova turnê no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/autor-de-cafe-com-deus-pai-faz-primeiro-encontro-da-nova-turne-no-acre.ghtml)_
+
