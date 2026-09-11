@@ -308,3 +308,6 @@
 - **[2026-09-11 16:05 UTC]** Flávio Bolsonaro é investigado: 5 pontos que a PF quer esclarecer sobre o financiamento de 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/flavio-bolsonaro-e-investigado-5-pontos-que-a-pf-quer-esclarecer-sobre-o-financiamento-de-dark-horse.ghtml)_
 
+- **[2026-09-11 14:59 UTC]** Em mensagem, Eduardo Bolsonaro cita que dinheiro para 'Dark Horse' vindo do Brasil seria 'problemático': 'Ideal seria haver recursos já nos EUA'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/em-mensagem-eduardo-bolsonaro-orientou-gestao-de-recursos-de-dark-horse-nos-eua-diz-documento-da-pgr.ghtml)_
+
