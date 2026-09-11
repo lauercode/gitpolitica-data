@@ -116,3 +116,6 @@
 - **[2026-09-11 15:55 UTC]** Fim de semana na capital paulista terá chuva forte e rajadas de vento
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/fim-de-semana-na-capital-paulista-tera-chuva-forte-e-rajadas-de-vento)_
 
+- **[2026-09-11 15:38 UTC]** Probabilidade do El Niño ser muito forte passa de 90%
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/probabilidade-do-el-nino-ser-muito-forte-passa-de-90)_
+
