@@ -65,3 +65,6 @@
 - **[2026-09-07 14:24 UTC]** Santa Catarina registra 1ª neve do inverno de 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/neve-santa-catarina-inverno-2026.ghtml)_
 
+- **[2026-09-11 11:48 UTC]** Corpo de homem com marcas de tiros é encontrado em Santa Rita, na Grande João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/corpo-de-homem-com-marcas-de-tiros-e-encontrado-em-santa-rita-na-grande-joao-pessoa.ghtml)_
+
