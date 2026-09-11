@@ -221,3 +221,6 @@
 - **[2026-09-10 17:48 UTC]** Fachin cancela, pelo segundo dia consecutivo, sessão plenária do STF
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-cancela-pelo-segundo-dia-consecutivo-sessao-plenaria-do-stf)_
 
+- **[2026-09-11 12:42 UTC]** Júri de acusados de envolvimento na morte de comerciante em Aracaju entra no segundo dia
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/juri-de-acusados-de-envolvimento-na-morte-de-comerciante-em-aracaju-entra-no-segundo-dia.ghtml)_
+
