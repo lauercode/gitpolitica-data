@@ -77,3 +77,6 @@
 - **[2026-09-10 23:00 UTC]** Observatório do STF cobra de Fachin proteção à corte e critica ministros que querem influenciar eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/observatorio-do-stf-cobra-de-fachin-protecao-a-corte-e-critica-ministros-que-querem-influenciar-eleicao.shtml)_
 
+- **[2026-09-11 13:11 UTC]** CNBB cobra esclarecimentos sobre a crise no STF e diz que ninguém está acima da lei: 'Justiça sem privilégios'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/11/cnbb-cobra-esclarecimentos-sobre-a-crise-no-stf-e-diz-que-ninguem-esta-acima-da-lei-justica-sem-privilegios.ghtml)_
+
