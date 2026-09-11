@@ -62,3 +62,6 @@
 - **[2026-09-10 13:17 UTC]** Cachorro-quente, o lanche com latidos regionais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/nacao-churrasqueira/2026/09/cachorro-quente-o-lanche-com-latidos-regionais.shtml)_
 
+- **[2026-09-11 14:12 UTC]** Conheça espécie de cachorro-do-mato com genética rara vista na Ilha do Bananal
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/conheca-especie-de-cachorro-do-mato-com-genetica-rara-vista-na-ilha-do-bananal.ghtml)_
+
