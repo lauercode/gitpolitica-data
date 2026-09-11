@@ -1463,3 +1463,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 19:08 UTC]** Documentos do caso Master detalham relação de Daniel Vorcaro com Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/documentos-do-caso-master-detalham-relacao-de-daniel-vorcaro-com-alexandre-de-moraes/)_
 
+- **[2026-09-11 22:19 UTC]** Moraes diz que Mendonça direciona derrubada de sigilos para proteger 'grupo político'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/moraes-insiste-que-mendonca-faz-levantamento-de-sigilo-seletivo-e-fala-em-protecao-de-grupo-politico.ghtml)_
+
