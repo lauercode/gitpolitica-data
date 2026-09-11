@@ -86,3 +86,6 @@
 - **[2026-09-11 13:09 UTC]** Vereador admite erro ao pedir que prefeito obrigue servidores a votar em candidatos apoiados pela gestão, na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/vereador-admite-erro-ao-pedir-que-prefeito-obrigue-servidores-a-votar-em-candidatos-apoiados-pela-gestao-na-pb.ghtml)_
 
+- **[2026-09-11 19:10 UTC]** Ministério Público investiga prefeito no TO por suspeita de nepotismo após nomeação da esposa e de seis sobrinhos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/mpto-investiga-prefeito-no-to-por-suspeita-de-nepotismo-apos-nomeacao-da-esposa-e-de-seis-sobrinhos.ghtml)_
+
