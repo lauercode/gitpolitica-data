@@ -47,3 +47,6 @@
 - **[2026-09-08 17:57 UTC]** Quaest: Cleitinho lidera com 32% em Minas Gerais; Patrus, Kalil e Simões disputam 2º lugar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-cleitinho-lidera-com-32-em-minas-gerais-patrus-kalil-e-simoes-disputam-2o-lugar.shtml)_
 
+- **[2026-09-11 20:08 UTC]** Datafolha em MG, 2º turno: Cleitinho lidera em todos os cenários da disputa ao governo
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-governo-mg-segundo-turno-11-setembro.ghtml)_
+
