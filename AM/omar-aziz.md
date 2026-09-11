@@ -50,3 +50,6 @@
 - **[2026-09-09 21:03 UTC]** Eleições 2026: Omar Aziz participa de entrevista e defende desenvolvimento sustentável para geração de empregos
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-plano-de-governo-de-omar-aziz-defende-zoneamento-ecologico-e-assistencia-tecnica.ghtml)_
 
+- **[2026-09-11 00:47 UTC]** Eleições 2026: Omar Aziz participa de evento e promete construir três maternidades em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-omar-aziz-participa-de-evento-e-promete-construir-tres-maternidades-em-manaus.ghtml)_
+
