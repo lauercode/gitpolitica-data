@@ -176,3 +176,6 @@
 - **[2026-09-10 18:41 UTC]** Obra da nova ponte do Estreito dos Mosquitos começa nesta quinta; estrutura antiga será demolida em 30 dias
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/10/obra-da-nova-ponte-do-estreito-dos-mosquitos-comeca-nesta-quinta-estrutura-antiga-sera-demolida-em-30-dias.ghtml)_
 
+- **[2026-09-10 23:00 UTC]** Sesc faz 80 anos e prepara abertura de unidade que será das maiores de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/sesc-faz-80-anos-e-prepara-abertura-de-unidade-que-sera-das-maiores-de-sao-paulo.shtml)_
+
