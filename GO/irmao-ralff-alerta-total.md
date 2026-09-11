@@ -59,3 +59,6 @@
 - **[2026-09-11 12:23 UTC]** São Paulo confirma mais dois casos de sarampo e total chega a 32
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-mais-dois-casos-de-sarampo-e-total-chega-32)_
 
+- **[2026-09-11 15:44 UTC]** Fachin determina quebra total do sigilo das investigações do Master
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-determina-quebra-total-do-sigilo-das-investigacoes-do-master)_
+
