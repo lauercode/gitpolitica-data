@@ -257,3 +257,6 @@
 - **[2026-09-11 03:30 UTC]** 'Dark Horse': as emendas parlamentares e o filme sobre Jair Bolsonaro - O Assunto #1802
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/11/dark-horse-as-emendas-parlamentares-e-o-filme-sobre-jair-bolsonaro-o-assunto-1802.ghtml)_
 
+- **[2026-09-10 23:00 UTC]** Operação da PF com aval de Dino põe 'Dark Horse' e Mario Frias no alvo em meio a crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/operacao-da-pf-com-aval-de-dino-poe-dark-horse-e-mario-frias-no-alvo-em-meio-a-crise-no-stf.shtml)_
+
