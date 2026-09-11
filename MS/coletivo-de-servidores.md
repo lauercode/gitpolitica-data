@@ -95,3 +95,6 @@
 - **[2026-09-11 02:11 UTC]** Vorcaro bancou viagens de servidores do BC para o exterior, diz PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/vorcaro-bancou-viagens-de-servidores-do-bc-para-o-exterior-diz-pf.shtml)_
 
+- **[2026-09-11 08:15 UTC]** Assessoria informal, grupo de mensagens, cobrança de pagamento: PF detalha relação de Vorcaro com servidores do BC
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/assessoria-informal-grupo-de-mensagens-cobranca-de-pagamento-pf-detalha-relacao-de-vorcaro-com-servidores-do-bc.ghtml)_
+
