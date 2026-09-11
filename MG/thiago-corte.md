@@ -71,3 +71,6 @@
 - **[2026-09-10 16:34 UTC]** PT defenderá mandato para ministros do STF após crise na corte pressionar campanha de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pt-defendera-mandato-para-ministros-do-stf-apos-crise-na-corte-pressionar-campanha-de-lula.shtml)_
 
+- **[2026-09-10 23:00 UTC]** Observatório do STF cobra de Fachin proteção à corte e critica ministros que querem influenciar eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/observatorio-do-stf-cobra-de-fachin-protecao-a-corte-e-critica-ministros-que-querem-influenciar-eleicao.shtml)_
+
