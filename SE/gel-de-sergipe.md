@@ -233,3 +233,6 @@
 - **[2026-09-11 11:07 UTC]** Operação contra tráfico de drogas, extorsão e homicídio deixa dois mortos  no interior de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/operacao-contra-trafico-de-drogas-extorsao-e-homicidio-deixa-dois-mortos-no-interior-de-sergipe.ghtml)_
 
+- **[2026-09-11 10:26 UTC]** Agenda g1 Sergipe tem Corrida do Jegue de Itabi, Festival do Camarão, concerto de k-pop, humor e mais
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/agenda-g1-sergipe-tem-corrida-do-jegue-de-itabi-festival-do-camarao-concerto-de-k-pop-humor-e-mais.ghtml)_
+
