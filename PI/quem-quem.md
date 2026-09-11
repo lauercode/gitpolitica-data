@@ -437,3 +437,6 @@
 - **[2026-09-09 03:00 UTC]** Doutora antes dos 25 anos e sonho de ser professora: quem é a estudante impedida de assumir vaga em concurso público
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quem-e-professora-impedida-assumir-concurso-doenca-ifrs-rs.ghtml)_
 
+- **[2026-09-11 19:19 UTC]** Quem é Karina da Gama, produtora de “Dark Horse” investigada pela PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-karina-da-gama-produtora-de-dark-horse-investigada-pela-pf/)_
+
