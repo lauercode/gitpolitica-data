@@ -947,3 +947,6 @@
 - **[2026-09-11 13:26 UTC]** Lula ataca Bolsonaro ao atribuir enriquecimento de Vorcaro ao governo do ex-presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-ataca-bolsonaro-enriquecimento-vorcaro-governo-ex-presidente/)_
 
+- **[2026-09-11 12:38 UTC]** Flávio Bolsonaro é investigado pela PF desde julho com autorização de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-investigado-pf-julho-autorizacao-mendonca/)_
+
