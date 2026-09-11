@@ -1481,3 +1481,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 23:03 UTC]** Moraes e Zanin voltam a confrontar Mendonça em guerra de ofícios no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-e-zanin-voltam-a-confrontar-mendonca-em-guerra-de-oficios-no-stf/)_
 
+- **[2026-09-11 23:13 UTC]** Moraes acusa Mendonça de manter sigilo do caso Master para proteger “grupo político”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-acusa-mendonca-de-manter-sigilo-do-caso-master-para-proteger-grupo-politico/)_
+
