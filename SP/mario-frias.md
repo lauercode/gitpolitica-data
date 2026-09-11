@@ -110,3 +110,6 @@
 - **[2026-09-10 21:39 UTC]** PF investiga produtora de 'Dark Horse' e Mario Frias por suspeita de fraude e organização criminosa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-investiga-produtora-de-dark-horse-e-mario-frias-por-suspeita-de-fraude-e-organizacao-criminosa.shtml)_
 
+- **[2026-09-10 22:51 UTC]** Projeto pago com emenda de Mario Frias não teve execução comprovada
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/projeto-pago-com-emenda-de-mario-frias-nao-teve-execucao-comprovada)_
+
