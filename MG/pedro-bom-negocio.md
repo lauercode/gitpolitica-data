@@ -23,3 +23,6 @@
 - **[2026-09-08 23:30 UTC]** Banco argentino controlado pelo BB compra negócio de varejo do rival Bind
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/banco-argentino-controlado-pelo-bb-compra-negocio-de-varejo-do-rival-bind.shtml)_
 
+- **[2026-09-11 00:48 UTC]** Eleições 2026 no RS: Cesar Pontes diz educação 'não deve ser transformado em negócio que vise lucro'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-no-rs-cesar-pontes-diz-educacao-nao-deve-ser-transformado-em-negocio-que-vise-lucro.ghtml)_
+
