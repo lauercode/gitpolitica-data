@@ -125,3 +125,6 @@
 - **[2026-09-11 09:32 UTC]** Por que Mario Frias e a produtora do filme 'Dark Horse', sobre Bolsonaro, são alvo da PF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 15:01 UTC]** PGR atende à PF para investigar propostas de Flávio e Frias no Congresso de interesse do Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-atende-pf-investigar-propostas-flavio-frias-congresso-interesse-master/)_
+
