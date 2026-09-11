@@ -17,3 +17,6 @@
 - **[2026-09-05 12:20 UTC]** São Luís ganha museu dedicado à memória do teatro de bonecos, com acervo de 300 peças
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/cultura/noticia/2026/09/05/sao-luis-ganha-museu-dedicado-a-memoria-do-teatro-de-bonecos-com-acervo-de-300-pecas.ghtml)_
 
+- **[2026-09-11 12:28 UTC]** CE: peças teatrais de todo o Nordeste ocupam ruas de Guaramiranga
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/ce-pecas-teatrais-de-todo-o-nordeste-ocupam-ruas-de-guaramiranga)_
+
