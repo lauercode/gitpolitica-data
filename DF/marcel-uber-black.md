@@ -23,3 +23,6 @@
 - **[2026-09-06 22:41 UTC]** Will.i.am diz que 'cruza os dedos' por show do Black Eyed Peas no Carnaval do Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/william-diz-que-cruza-os-dedos-por-show-do-black-eyed-peas-no-carnaval-do-rio.shtml)_
 
+- **[2026-09-11 19:07 UTC]** Os Garotin faz balada black na entressafra de k-pop na segunda sexta de Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/os-garotin-faz-balada-black-na-entressafra-de-k-pop-na-segunda-sexta-de-rock-in-rio.shtml)_
+
