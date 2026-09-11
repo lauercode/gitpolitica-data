@@ -1235,3 +1235,6 @@
 - **[2026-09-11 22:47 UTC]** Mendonça libera sigilo de novos documentos do caso Master sobre Flávio Bolsonaro, Ciro Nogueira e Jaques Wagner
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/mendonca-libera-sigilo-de-mais-documentos-do-caso-master.ghtml)_
 
+- **[2026-09-11 22:20 UTC]** Datafolha: Flávio Bolsonaro e Lula têm índice de rejeição de 46%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-11-setembro-rejeicao.ghtml)_
+
