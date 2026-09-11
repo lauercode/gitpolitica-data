@@ -41,3 +41,6 @@
 - **[2026-09-05 16:31 UTC]** Renan Santos propõe nova reforma para evitar colapso da Previdência
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/renan-santos-propoe-nova-reforma-para-evitar-colapso-da-previdencia/)_
 
+- **[2026-09-11 13:56 UTC]** Tribunal de Contas do Paraná propôs ressarcimento de R$ 4 milhões de previdência municipal aplicados no Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/caso-master-previdencia-imbituva-investimento-tce.ghtml)_
+
