@@ -122,3 +122,6 @@
 - **[2026-09-10 14:45 UTC]** Professor da rede municipal de Ponta Grossa ganha R$ 100 mil no sorteio do Nota Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/10/morador-ponta-grossa-nota-parana.ghtml)_
 
+- **[2026-09-11 11:00 UTC]** Professor do Acre lança livro sobre teatro e saberes da floresta na Bienal do Livro em SP: 'Riqueza cultural'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/professor-do-acre-lanca-livro-sobre-teatro-e-saberes-da-floresta-na-bienal-do-livro-em-sp-riqueza-cultural.ghtml)_
+
