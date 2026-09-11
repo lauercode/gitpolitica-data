@@ -491,3 +491,6 @@
 - **[2026-09-10 15:41 UTC]** Presidente Lula sanciona lei que acaba com "taxa das blusinhas"
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-sanciona-lei-que-acaba-com-taxa-das-blusinhas)_
 
+- **[2026-09-10 20:25 UTC]** Confira como foi a quinta-feira (10) dos candidatos a presidente
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-quinta-feira-10-dos-candidatos-presidente)_
+
