@@ -290,3 +290,6 @@
 - **[2026-09-11 11:39 UTC]** Flávio Bolsonaro é investigado em inquérito no STF aberto para apurar financiamento do filme 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/flavio-bolsonaro-e-investigado-em-inquerito-da-pf-aberto-para-apurar-financiamento-do-filme-dark-horse.ghtml)_
 
+- **[2026-09-11 08:59 UTC]** Flávio Bolsonaro é investigado no STF em inquérito sobre 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-investigado-no-stf-em-inquerito-sobre-dark-horse.shtml)_
+
