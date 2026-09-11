@@ -1418,3 +1418,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 13:07 UTC]** Moraes aponta “escolha seletiva” e pede divulgação de todo caso Master
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-aponta-escolha-seletiva-e-pede-divulgacao-de-todo-caso-master)_
 
+- **[2026-09-11 14:00 UTC]** Moraes aponta seletividade de Mendonça em caso Master
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/moraes-acusa-mendonca-de-seletividade-em-caso-master)_
+
