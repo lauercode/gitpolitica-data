@@ -461,3 +461,6 @@
 - **[2026-09-11 00:10 UTC]** Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta quinta-feira (10)
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/10/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quinta-feira-10.ghtml)_
 
+- **[2026-09-10 23:50 UTC]** Atração da Parada LGBT+ no Acre, Gaby Amarantos chama fãs para show: 'A mamãe vai chegar'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/atracao-da-parada-lgbt-no-acre-gaby-amarantos-chama-fas-para-show-a-mamae-vai-chegar.ghtml)_
+
