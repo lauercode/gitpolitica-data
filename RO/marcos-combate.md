@@ -89,3 +89,6 @@
 - **[2026-09-10 19:13 UTC]** Operação de combate a roubo de celular em SP teve cães farejadores, campanas e perícias digitais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-de-combate-a-roubo-de-celular-em-sp-teve-caes-farejadores-campanas-e-pericias-digitais.shtml)_
 
+- **[2026-09-11 15:01 UTC]** Projeto prevê uso de recursos do Fundo Social no combate à malária na Amazônia Legal
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304022-projeto-preve-uso-de-recursos-do-fundo-social-no-combate-a-malaria-na-amazonia-legal)_
+
