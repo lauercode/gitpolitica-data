@@ -14,3 +14,6 @@
 - **[2026-09-10 01:06 UTC]** Eleições 2026: saiba como foi o dia do candidato felipe Camarão ao governo do Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-felipe-camarao-ao-governo-do-maranhao.ghtml)_
 
+- **[2026-09-11 10:26 UTC]** Agenda g1 Sergipe tem Corrida do Jegue de Itabi, Festival do Camarão, concerto de k-pop, humor e mais
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/agenda-g1-sergipe-tem-corrida-do-jegue-de-itabi-festival-do-camarao-concerto-de-k-pop-humor-e-mais.ghtml)_
+
