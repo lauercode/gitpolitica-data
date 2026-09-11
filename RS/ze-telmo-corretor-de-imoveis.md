@@ -38,3 +38,6 @@
 - **[2026-09-11 16:40 UTC]** Ventania deixa mais de 100 mil imóveis sem luz na Grande São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/ventania-deixa-mais-de-100-mil-imoveis-sem-luz-na-grande-sao-paulo.shtml)_
 
+- **[2026-09-11 16:40 UTC]** Ventania passa de 80 km/h e deixa mais de 120 mil imóveis sem luz na Grande São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/ventania-deixa-mais-de-100-mil-imoveis-sem-luz-na-grande-sao-paulo.shtml)_
+
