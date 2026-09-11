@@ -59,3 +59,6 @@
 - **[2026-09-10 21:59 UTC]** Correios esperam novo empréstimo até o dia 15; consórcio de bancos conta com três instituições estrangeiras
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/10/correios-aguardam-novo-emprestimo-ate-o-dia-15-consorcio-de-bancos-conta-com-tres-instituicoes-estrangeiras.ghtml)_
 
+- **[2026-09-11 11:33 UTC]** Trabalhadores dos Correios na Paraíba entram em greve, diz sindicato
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/trabalhadores-dos-correios-na-paraiba-entram-em-greve-diz-sindicato.ghtml)_
+
