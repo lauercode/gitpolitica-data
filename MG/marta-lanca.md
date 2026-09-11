@@ -53,3 +53,6 @@
 - **[2026-09-10 22:40 UTC]** OpenAI lança ChatGPT para setor de serviços financeiros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/openai-lanca-chatgpt-para-setor-de-servicos-financeiros.shtml)_
 
+- **[2026-09-11 06:00 UTC]** O Universo está cheio de estranhos pequenos pontos vermelhos, e um novo estudo lança luz sobre sua possível natureza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/o-universo-esta-cheio-de-estranhos-pequenos-pontos-vermelhos-e-um-novo-estudo-lanca-luz-sobre-sua-possivel-natureza.shtml)_
+
