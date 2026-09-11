@@ -86,3 +86,6 @@
 - **[2026-09-11 18:04 UTC]** STF retoma julgamento da Lei da Ficha Limpa com voto de Gilmar Mendes
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-retoma-julgamento-da-lei-da-ficha-limpa-com-voto-de-gilmar-mendes)_
 
+- **[2026-09-11 21:33 UTC]** Gilmar Mendes pede que Fachin assuma caso envolvendo Moraes e relatório contra Mendonça seja analisado em conjunto
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/gilmar-mendes-pede-que-fachin-analise-conjunta-no-plenario-de-relatorio-sobre-mendonca.ghtml)_
+
