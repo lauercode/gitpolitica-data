@@ -50,3 +50,6 @@
 - **[2026-09-09 00:15 UTC]** Como Andrei Rodrigues se tornou o homem de confiança de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-andrei-rodrigues-se-tornou-o-homem-de-confianca-de-lula/)_
 
+- **[2026-09-10 23:31 UTC]** Lula sai em defesa de Andrei: 'é da minha total confiança'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/lula-sai-em-defesa-de-andrei-e-da-minha-total-confianca.ghtml)_
+
