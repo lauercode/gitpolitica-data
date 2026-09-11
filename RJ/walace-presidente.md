@@ -503,3 +503,6 @@
 - **[2026-09-11 19:14 UTC]** Master 'NUNCA deixará de ser o SEU banco', disse ex-presidente do BRB a Vorcaro, segundo relatório da PF
   _fonte: [G1 - Política:](https://g1.globo.com/df/noticia/2026/09/11/o-master-nunca-deixara-de-ser-o-seu-banco-disse-ex-presidente-do-brb-a-vorcaro-segundo-relatorio-da-pf.ghtml)_
 
+- **[2026-09-11 22:32 UTC]** Datafolha: 75% estão decididos sobre voto para presidente e 25% ainda podem mudar; veja números por candidato
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/datafolha-decisao-de-voto-presidente-11-setembro.ghtml)_
+
