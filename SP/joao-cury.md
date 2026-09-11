@@ -245,3 +245,6 @@
 - **[2026-09-10 12:00 UTC]** Anúncios pró-Cury ferem legislação eleitoral com impulsionamento irregular
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/anuncios-pro-cury-ferem-legislacao-eleitoral-com-impulsionamento-irregular.shtml)_
 
+- **[2026-09-11 21:39 UTC]** Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 35%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-presidente-11-setembro.ghtml)_
+
