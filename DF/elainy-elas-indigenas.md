@@ -50,3 +50,6 @@
 - **[2026-09-10 20:40 UTC]** VÍDEO: Indígenas encontram sucuri de mais de 2 metros durante banho em açude no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/video-indigenas-encontram-sucuri-estimada-em-2-metros-em-acude-no-acre.ghtml)_
 
+- **[2026-09-10 23:16 UTC]** MPF quer ação urgente contra tuberculose entre indígenas Kayapó em 9 municípios do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/mpf-pede-acao-urgente-contra-tuberculose-entre-indigenas-kayapo-em-nove-municipios-do-para.ghtml)_
+
