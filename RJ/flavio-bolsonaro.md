@@ -968,3 +968,6 @@
 - **[2026-09-11 19:49 UTC]** Inquérito sobre Flávio Bolsonaro apura lavagem de dinheiro, evasão de divisas e corrupção; entenda os crimes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/inquerito-sobre-flavio-bolsonaro-entenda-os-crimes.ghtml)_
 
+- **[2026-09-11 20:34 UTC]** 6 perguntas para entender inquérito contra Flávio Bolsonaro — e o o que falta ser esclarecido
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss)_
+
