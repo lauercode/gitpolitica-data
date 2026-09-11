@@ -1394,3 +1394,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 15:12 UTC]** Moraes fala em 'escolha seletiva' de Mendonça e pede a Fachin retirada de sigilo de todos documentos do caso Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/moraes-fala-em-escolha-seletiva-e-pede-a-fachin-retirada-de-sigilo-de-todos-documentos-do-caso-master.ghtml)_
 
+- **[2026-09-11 12:45 UTC]** Fachin pressiona Gonet a não participar de sessão do STF sobre caso Moraes e escalar nº 2 da PGR
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-pressiona-gonet-a-nao-participar-de-sessao-do-stf-sobre-caso-moraes-e-escalar-no-2-da-pgr.shtml)_
+
