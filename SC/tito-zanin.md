@@ -26,3 +26,6 @@
 - **[2026-09-11 14:20 UTC]** STF: Zanin pede a Fachin acesso a todo material de celular de Vorcaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-zanin-pede-fachin-acesso-todo-material-de-celular-de-vorcaro)_
 
+- **[2026-09-11 13:48 UTC]** Zanin pede liberação integral de dados de celular de Vorcaro após quebra de sigilo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/zanin-pede-liberacao-integral-de-dados-de-celular-de-vorcaro-apos-quebra-de-sigilo.shtml)_
+
