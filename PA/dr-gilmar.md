@@ -74,3 +74,6 @@
 - **[2026-09-08 21:21 UTC]** Gilmar Mendes cita risco às eleições e quer que plenário decida afastamento do diretor da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-contesta-ordem-de-mendonca-e-cita-risco-de-desequilibrio-nas-eleicoes/)_
 
+- **[2026-09-11 09:41 UTC]** Gilmar Mendes dá palestra na Itália em meio à crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-mendes-da-palestra-na-italia-em-meio-a-crise-no-stf.shtml)_
+
