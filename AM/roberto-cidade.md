@@ -200,3 +200,6 @@
 - **[2026-09-11 17:40 UTC]** Eleições 2026: Roberto Cidade defende incentivos fiscais e novas matrizes econômicas para o Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-roberto-cidade-defende-incentivos-fiscais-e-novas-matrizes-economicas-para-o-amazonas.ghtml)_
 
+- **[2026-09-11 17:09 UTC]** Justiça manda cidade no Sertão da Paraíba mudar nome de avenida em alusão à ditadura militar
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/justica-manda-cidade-no-sertao-da-paraiba-mudar-nome-de-avenida-em-alusao-a-ditadura-militar.ghtml)_
+
