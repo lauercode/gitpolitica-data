@@ -233,3 +233,6 @@
 - **[2026-09-10 17:27 UTC]** Campanha de Renan Santos pede fim do sigilo de inquérito das fake news e caso INSS
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/campanha-de-renan-santos-pede-fim-do-sigilo-de-inquerito-das-fake-news-e-caso-inss.shtml)_
 
+- **[2026-09-11 04:00 UTC]** Renan Santos participa de sabatina da Folha/UOL nesta sexta (11)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/renan-santos-participa-de-sabatina-da-folhauol-nesta-sexta-11.shtml)_
+
