@@ -77,3 +77,6 @@
 - **[2026-09-09 21:55 UTC]** Trabalhadores resgatados em fazenda dormiam em chão de terra e sem proteção contra animais no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/trabalhadores-resgatados-de-situacao-analoga-a-escravidao-dormiam-em-chao-de-terra-e-sem-protecao-contra-animais-no-para.ghtml)_
 
+- **[2026-09-11 19:15 UTC]** Abraji lança guia de proteção para jornalistas na cobertura eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/09/abraji-lanca-guia-de-protecao-para-jornalistas-na-cobertura-eleitoral.shtml)_
+
