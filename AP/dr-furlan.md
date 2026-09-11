@@ -62,3 +62,6 @@
 - **[2026-09-10 23:24 UTC]** Dr. Furlan participa de reunião com empreendedores em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/10/dr-furlan-participa-de-reuniao-com-empreendedores-em-macapa.ghtml)_
 
+- **[2026-09-11 23:12 UTC]** Dr. Furlan participa de carreata e caminhada em Calçoene
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/11/dr-furlan-participa-de-carreata-e-caminhada-em-calcoene.ghtml)_
+
