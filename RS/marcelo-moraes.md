@@ -1370,3 +1370,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 23:04 UTC]** STF teme que vídeos de sessão sobre crise Moraes-Mendonça virem munição para campanhas nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-teme-que-videos-de-sessao-sobre-crise-moraes-mendonca-virem-municao-para-campanhas-nas-redes.shtml)_
 
+- **[2026-09-10 22:33 UTC]** Governo Trump monitora crise no STF e considera novas sanções contra Moraes e aliados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/governo-trump-monitora-crise-no-stf-e-considera-novas-sancoes-contra-moraes-e-aliados.shtml)_
+
