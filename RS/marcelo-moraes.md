@@ -1442,3 +1442,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 17:33 UTC]** Eduardo e Figueiredo apontam “evidências mais que suficientes” para sanções contra Moraes e terão conversas em Washington
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eduardo-figueiredo-apontam-evidencias-mais-suficientes-sancoes-contra-moraes-terao-conversas-washington/)_
 
+- **[2026-09-11 16:51 UTC]** Polícia Federal identifica pagamentos milionários em contrato de esposa de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-identifica-pagamentos-milionarios-em-contrato-de-esposa-de-moraes/)_
+
