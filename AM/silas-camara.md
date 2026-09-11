@@ -979,3 +979,7 @@ direitos
 - **[2026-09-11 17:31 UTC]** Após Lula defender reforma do Judiciário, deputado do PT apresenta proposta na Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/apos-lula-defender-reforma-do-judiciario-deputado-do-pt-apresenta-proposta-na-camara.ghtml)_
 
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
