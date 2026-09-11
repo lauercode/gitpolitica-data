@@ -1400,3 +1400,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 12:36 UTC]** Moraes cobra Fachin e diz que Mendonça não retirou sigilo integral de caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-cobra-fachin-e-diz-que-mendonca-nao-retirou-sigilo-integral-de-caso-master.shtml)_
 
+- **[2026-09-11 15:39 UTC]** Moraes acusa Mendonça de “escolha seletiva” do caso Master e pede julgamento conjunto com ministro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-acusa-mendonca-escolha-seletiva-caso-master-pede-julgamento-conjunto/)_
+
