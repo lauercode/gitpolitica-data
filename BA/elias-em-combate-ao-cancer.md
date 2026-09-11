@@ -86,3 +86,6 @@
 - **[2026-09-10 20:18 UTC]** Médica é condenada por dar falsos diagnósticos de câncer de pele e solicitar cirurgias desnecessárias no PR
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/10/medica-e-condenada-por-falsos-diagnosticos-de-cancer-de-pele-pr.ghtml)_
 
+- **[2026-09-11 00:55 UTC]** Araceli Lemos propõe reduzir tempo de espera para exames e descentralizar tratamento de câncer no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/araceli-lemos-propoe-reduzir-tempo-de-espera-para-exames-e-descentralizar-tratamento-de-cancer-no-para.ghtml)_
+
