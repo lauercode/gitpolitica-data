@@ -143,3 +143,6 @@
 - **[2026-09-11 00:07 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quinta-feira (10)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quinta-feira-10.ghtml)_
 
+- **[2026-09-11 08:30 UTC]** Golpistas usam dados pessoais para conquistar confiança e aplicar golpes em vítimas no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/golpistas-usam-dados-pessoais-para-conquistar-confianca-e-aplicar-golpes-em-vitimas-no-tocantins.ghtml)_
+
