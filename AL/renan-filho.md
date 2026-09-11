@@ -44,3 +44,6 @@
 - **[2026-09-09 13:54 UTC]** Renan Filho propõe criar 5 mil casas e pagar até R$ 1 mil para alunos da rede estadual
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/09/renan-filho-propoe-criacao-de-5-mil-casas-e-pagamento-de-ate-r-1-mil-para-alunos-da-rede-estadual.ghtml)_
 
+- **[2026-09-11 22:05 UTC]** Renan Filho faz campanha no Litoral Sul; JHC não divulga agenda nesta sexta
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/11/renan-filho-faz-campanha-no-litoral-sul-jhc-nao-divulga-agenda-nesta-sexta.ghtml)_
+
