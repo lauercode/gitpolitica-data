@@ -131,3 +131,6 @@
 - **[2026-09-11 11:49 UTC]** Decisão de Flávio Dino em ação contra Mário Frias tem falhas graves e punições extensas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/decisao-de-flavio-dino-em-acao-contra-mario-frias-tem-falhas-graves-e-punicoes-extensas/)_
 
+- **[2026-09-11 15:49 UTC]** Especialistas apontam erros jurídicos em decisão de Flávio Dino contra Mário Frias
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/especialistas-apontam-erros-juridicos-em-decisao-de-flavio-dino-contra-mario-frias/)_
+
