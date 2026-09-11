@@ -26,3 +26,6 @@
 - **[2026-09-11 20:09 UTC]** Datafolha: 46% avaliam a gestão Tarcísio como positiva e 21% como negativa em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/11/datafolha-sp-avaliacao-governador-11-setembro.ghtml)_
 
+- **[2026-09-11 20:04 UTC]** Datafolha em SP: Tarcísio, 49%; Haddad, 29%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/11/datafolha-sp-governador-11-setembro.ghtml)_
+
