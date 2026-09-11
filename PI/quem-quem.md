@@ -428,3 +428,6 @@
 - **[2026-09-11 08:44 UTC]** Quem é quem nas mensagens que desencadearam a maior crise da história do STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c7708dpmmg7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 11:34 UTC]** Quem era a família que morreu soterrada enquanto dormia após barranco desabar em cima de casa durante temporal, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/quem-era-a-familia-que-morreu-soterrada-enquanto-dormia-apos-barranco-desabar-em-cima-de-casa-durante-temporal-no-parana.ghtml)_
+
