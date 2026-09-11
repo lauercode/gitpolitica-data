@@ -20,3 +20,6 @@
 - **[2026-09-09 16:29 UTC]** Alan Rick promete mudança no governo e diz que saúde será prioridade se eleito
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/alan-rick-promete-mudanca-no-governo-e-diz-que-saude-sera-prioridade-se-eleito.ghtml)_
 
+- **[2026-09-11 19:05 UTC]** Alan Rick defende apoio a comerciantes e produtores para fortalecer economia local
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/11/alan-rick-defende-apoio-a-comerciantes-e-produtores-para-fortalecer-economia-local.ghtml)_
+
