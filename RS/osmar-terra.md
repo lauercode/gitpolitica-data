@@ -107,3 +107,6 @@
 - **[2026-09-10 20:11 UTC]** MPF dá 30 dias para governo federal comprar remédio contra bicho-de-pé para Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/mpf-da-30-dias-para-governo-federal-comprar-remedio-contra-bicho-de-pe-para-terra-yanomami.ghtml)_
 
+- **[2026-09-11 17:34 UTC]** Deslizamento de terra destrói casas em Campo Bom, no RS; moradores não estavam no local
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/deslizamento-de-terra-destroi-casas-em-campo-bom.ghtml)_
+
