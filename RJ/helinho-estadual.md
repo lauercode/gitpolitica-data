@@ -137,3 +137,6 @@
 - **[2026-09-09 12:58 UTC]** Assessor de deputada estadual é alvo de mandado em operação da PF contra crimes eleitorais em RR
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/09/pf-cumpre-mandado-de-busca-e-apreensao-durante-operacao-contra-crimes-eleitorais-em-roraima.ghtml)_
 
+- **[2026-09-11 14:51 UTC]** TRE do Rio veta candidatura de Garotinho ao governo estadual
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tre-do-rio-indefere-candidatura-de-garotinho-ao-governo-estadual.shtml)_
+
