@@ -293,3 +293,6 @@
 - **[2026-09-11 08:59 UTC]** Flávio Bolsonaro é investigado no STF em inquérito sobre 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-investigado-no-stf-em-inquerito-sobre-dark-horse.shtml)_
 
+- **[2026-09-11 12:22 UTC]** Flávio nega dinheiro público em Dark Horse antes de investigação autorizada por Mendonça ser revelada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-nega-dinheiro-publico-em-dark-horse-antes-de-investigacao-autorizada-por-mendonca-ser-revelada/)_
+
