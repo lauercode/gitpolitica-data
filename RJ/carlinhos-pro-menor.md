@@ -35,3 +35,6 @@
 - **[2026-09-08 19:50 UTC]** Dólar cai a R$ 5,08 e atinge menor valor em um mês
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-cai-r-508-e-atinge-menor-valor-em-um-mes)_
 
+- **[2026-09-11 10:09 UTC]** Inflação oficial de agosto fecha em -0,32%, menor taxa em quatro anos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/inflacao-oficial-de-agosto-fecha-em-032-menor-taxa-em-quatro-anos)_
+
