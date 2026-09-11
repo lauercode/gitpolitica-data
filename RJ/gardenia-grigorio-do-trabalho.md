@@ -245,3 +245,6 @@
 - **[2026-09-10 21:29 UTC]** Homem morre em acidente de trabalho no município de Bragança, nordeste do Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/homem-morre-em-acidente-de-trabalho-no-municipio-de-braganca-nordeste-do-para.ghtml)_
 
+- **[2026-09-11 09:33 UTC]** 'Sobrevivi ao 11 de Setembro porque cheguei mais tarde ao trabalho. Às vezes me sinto culpado'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c20ve8egnl4o?at_medium=RSS&at_campaign=rss)_
+
