@@ -26,3 +26,6 @@
 - **[2026-09-08 20:05 UTC]** Quaest para o Senado em SP: Marina Silva, 14%; Derrite, 14%; Simone Tebet, 12%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/08/quaest-sp-senado-8-setembro.ghtml)_
 
+- **[2026-09-11 20:04 UTC]** Datafolha para o Senado em SP: Marina Silva, 13%; Simone Tebet, 13%; André do Prado, 11% e Derrite, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/11/datafolha-sp-senado-11-setembro.ghtml)_
+
