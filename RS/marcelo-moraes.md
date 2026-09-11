@@ -1385,3 +1385,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 19:44 UTC]** Inquérito das Fake News: a linha do tempo da investigação que saiu das mãos de Moraes por decisão de Fachin
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2z07z1zy6o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 09:52 UTC]** Entenda a crise no STF e o fogo cruzado entre Moraes e Mendonça
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c24jr88lvqlo?at_medium=RSS&at_campaign=rss)_
+
