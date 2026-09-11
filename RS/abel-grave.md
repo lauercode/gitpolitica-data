@@ -50,3 +50,6 @@
 - **[2026-09-10 17:42 UTC]** Morre bebê de três meses transferido de hospital por helicóptero após acidente grave no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/morre-bebe-vitima-acidente-vista-alegre-prata.ghtml)_
 
+- **[2026-09-11 04:00 UTC]** Diretriz global para pneumonia grave se apoia em pacientes brancos e de países ricos, diz estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/diretriz-global-para-pneumonia-grave-se-apoia-em-pacientes-brancos-e-de-paises-ricos-diz-estudo.shtml)_
+
