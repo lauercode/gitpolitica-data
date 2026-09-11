@@ -56,3 +56,6 @@
 - **[2026-09-08 15:40 UTC]** Petecão defende reforço da segurança na fronteira e explica crescimento do patrimônio durante mandatos
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/petecao-defende-reforco-da-seguranca-na-fronteira-e-explica-crescimento-do-patrimonio-durante-mandatos.ghtml)_
 
+- **[2026-09-11 01:39 UTC]** Amazonas confirma três casos de sarampo em Tabatinga, na fronteira com Peru e Colômbia
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/10/amazonas-confirma-tres-casos-de-sarampo-em-tabatinga-na-fronteira-com-peru-e-colombia.ghtml)_
+
