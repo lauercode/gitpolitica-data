@@ -239,3 +239,6 @@
 - **[2026-09-11 15:41 UTC]** Eleições 2026: Eduardo Amorim e Rogério Carvalho cancelam participação em entrevista na FM Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/candidatos-ao-senado-cancelam-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-11 16:36 UTC]** Resultado Mega-Sena 3056: apostas de Sergipe acertam quadra; veja valores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/resultado-mega-sena-3056-apostas-de-sergipe-acertam-quadra-veja-valores.ghtml)_
+
