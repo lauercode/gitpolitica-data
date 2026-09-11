@@ -119,3 +119,6 @@
 - **[2026-09-10 22:35 UTC]** Deputados de PSOL e Rede pedem cassação do mandato de Mario Frias por caso 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/deputados-de-psol-e-rede-pedem-cassacao-do-mandato-de-mario-frias-por-caso-dark-horse.shtml)_
 
+- **[2026-09-11 05:00 UTC]** Podcast explica operação que mirou 'Dark Horse' e emendas de Mario Frias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-explica-operacao-que-mirou-dark-horse-e-emendas-de-mario-frias.shtml)_
+
