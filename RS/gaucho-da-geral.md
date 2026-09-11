@@ -125,3 +125,6 @@
 - **[2026-09-09 17:19 UTC]** Flávio Dino anula afastamento do diretor-geral da Polícia Federal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-anula-afastamento-do-diretor-geral-da-policia-federal/)_
 
+- **[2026-09-11 06:00 UTC]** Secretário-geral da OAB-DF publica post que associa Lula a Alexandre de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/secretario-geral-da-oab-df-publica-post-que-associa-lula-a-alexandre-de-moraes.shtml)_
+
