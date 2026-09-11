@@ -83,3 +83,6 @@
 - **[2026-09-11 12:50 UTC]** STF retoma julgamento da Ficha Limpa com voto de Gilmar Mendes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/stf-retoma-julgamento-da-ficha-limpa-com-voto-de-gilmar-mendes/)_
 
+- **[2026-09-11 18:04 UTC]** STF retoma julgamento da Lei da Ficha Limpa com voto de Gilmar Mendes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-retoma-julgamento-da-lei-da-ficha-limpa-com-voto-de-gilmar-mendes)_
+
