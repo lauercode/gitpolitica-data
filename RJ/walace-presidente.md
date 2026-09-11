@@ -506,3 +506,6 @@
 - **[2026-09-11 22:32 UTC]** Datafolha: 75% estão decididos sobre voto para presidente e 25% ainda podem mudar; veja números por candidato
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/datafolha-decisao-de-voto-presidente-11-setembro.ghtml)_
 
+- **[2026-09-11 19:33 UTC]** Advogados de ex-presidente do INSS preso pedem mesmo tratamento dado por Mendonça a outros acusados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/advogados-de-ex-presidente-do-inss-preso-pedem-mesmo-tratamento-dado-por-mendonca-a-outros-acusados.shtml)_
+
