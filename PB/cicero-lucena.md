@@ -38,3 +38,6 @@
 - **[2026-09-10 19:59 UTC]** Cícero Lucena entra com ação no TRE-PB contra Lucas Ribeiro por suposto aumento na folha em ano eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/10/cicero-lucena-acao-tre-pb-contra-lucas-ribeiro-suposto-aumento-folha-ano-eleitoral.ghtml)_
 
+- **[2026-09-11 20:53 UTC]** Cícero Lucena defende ampliar segurança hídrica e produção agrícola no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/11/cicero-lucena-defende-ampliar-seguranca-hidrica-e-producao-agricola-no-sertao-da-paraiba.ghtml)_
+
