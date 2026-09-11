@@ -488,3 +488,6 @@
 - **[2026-09-11 23:30 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta sexta-feira (11)
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/11/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-sexta-feira-11.ghtml)_
 
+- **[2026-09-11 23:01 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 11 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-11-de-setembro-de-2026.ghtml)_
+
