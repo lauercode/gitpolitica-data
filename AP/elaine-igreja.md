@@ -23,3 +23,6 @@
 - **[2026-09-11 17:10 UTC]** Igreja Presbiteriana de Pinheiros fecha acordo após acusação de assédio e 'abuso espiritual'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/igreja-presbiteriana-de-pinheiros-fecha-acordo-apos-acusacao-de-assedio-e-abuso-espiritual.shtml)_
 
+- **[2026-09-11 17:09 UTC]** Igreja da Lagoinha gerida por cunhado de Vorcaro teve movimentação atípica de R$ 57 mi, diz Coaf
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/igreja-da-lagoinha-gerida-por-cunhado-de-vorcaro-teve-movimentacao-atipica-de-r-57-mi-diz-coaf.shtml)_
+
