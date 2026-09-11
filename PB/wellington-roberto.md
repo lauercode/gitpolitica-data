@@ -65,3 +65,6 @@
 - **[2026-09-10 22:56 UTC]** Eleições 2026: Roberto Cidade participa de caminhada e defende políticas para conscientização ambiental
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-roberto-cidade-participa-de-caminhada-e-defende-politicas-para-conscientizacao-ambiental.ghtml)_
 
+- **[2026-09-11 17:40 UTC]** Eleições 2026: Roberto Cidade defende incentivos fiscais e novas matrizes econômicas para o Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-roberto-cidade-defende-incentivos-fiscais-e-novas-matrizes-economicas-para-o-amazonas.ghtml)_
+
