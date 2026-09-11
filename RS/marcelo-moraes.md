@@ -1403,3 +1403,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 15:39 UTC]** Moraes acusa Mendonça de “escolha seletiva” do caso Master e pede julgamento conjunto com ministro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-acusa-mendonca-escolha-seletiva-caso-master-pede-julgamento-conjunto/)_
 
+- **[2026-09-11 15:18 UTC]** O que a queda do sigilo do Master revela sobre Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-a-queda-do-sigilo-do-master-revela-sobre-moraes/)_
+
