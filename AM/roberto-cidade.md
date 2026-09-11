@@ -197,3 +197,6 @@
 - **[2026-09-11 09:41 UTC]** Cidade de São Paulo confirma dois novos casos de sarampo; estado vai a 32
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/cidade-de-sao-paulo-confirma-dois-novos-casos-de-sarampo-estado-vai-a-32.shtml)_
 
+- **[2026-09-11 17:40 UTC]** Eleições 2026: Roberto Cidade defende incentivos fiscais e novas matrizes econômicas para o Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-roberto-cidade-defende-incentivos-fiscais-e-novas-matrizes-economicas-para-o-amazonas.ghtml)_
+
