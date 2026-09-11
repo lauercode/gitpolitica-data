@@ -1388,3 +1388,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 09:52 UTC]** Entenda a crise no STF e o fogo cruzado entre Moraes e Mendonça
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c24jr88lvqlo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 15:32 UTC]** Moraes vota para rejeitar recurso e manter condenação de Eduardo Bolsonaro por coação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/moraes-vota-para-rejeitar-recurso-e-manter-condenacao-de-eduardo-bolsonaro-por-coacao.ghtml)_
+
