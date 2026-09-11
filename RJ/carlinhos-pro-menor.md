@@ -38,3 +38,6 @@
 - **[2026-09-11 10:09 UTC]** Inflação oficial de agosto fecha em -0,32%, menor taxa em quatro anos
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/inflacao-oficial-de-agosto-fecha-em-032-menor-taxa-em-quatro-anos)_
 
+- **[2026-09-11 11:47 UTC]** Lula 3 acumula menor inflação às vésperas das eleições no Plano Real
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-3-acumula-menor-inflacao-as-vesperas-das-eleicoes-no-plano-real.shtml)_
+
