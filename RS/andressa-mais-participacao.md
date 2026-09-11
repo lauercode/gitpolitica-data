@@ -56,3 +56,6 @@
 - **[2026-09-09 21:06 UTC]** Eleições 2026: Delegado André David e André Moura cancelam participação em entrevista na FM Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-cancelamento-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-11 15:41 UTC]** Eleições 2026: Eduardo Amorim e Rogério Carvalho cancelam participação em entrevista na FM Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/candidatos-ao-senado-cancelam-entrevista-fm-sergipe.ghtml)_
+
