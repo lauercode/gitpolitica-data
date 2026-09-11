@@ -74,3 +74,6 @@
 - **[2026-09-10 18:46 UTC]** Entenda o que se sabe sobre o caso 'Dark Horse' e a relação com o Banco Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-se-sabe-sobre-o-caso-dark-horse-e-a-relacao-com-o-banco-master.shtml)_
 
+- **[2026-09-11 07:00 UTC]** Crianças e adolescente furtam carro e dirigem por Florianópolis: o que se sabe e o que falta saber
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/criancas-adolescente-furtam-carro-dirigem-florianopolis-o-que-se-sabe-o-que-falta-saber.ghtml)_
+
