@@ -356,3 +356,6 @@
 - **[2026-09-10 22:00 UTC]** Dois erros não fazem um acerto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/dois-erros-nao-fazem-um-acerto.shtml)_
 
+- **[2026-09-10 23:00 UTC]** Masp inaugura passagem subterrânea que conecta dois edifícios do museu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/masp-inaugura-passagem-subterranea-que-conecta-dois-edificios-do-museu.shtml)_
+
