@@ -134,3 +134,6 @@
 - **[2026-09-10 22:19 UTC]** Carreta pega fogo na Br-174 em Pacaraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/carreta-pega-fogo-na-br-174-em-pacaraima.ghtml)_
 
+- **[2026-09-10 23:00 UTC]** Vi uma enorme bola de fogo, mas não entendi que estava acontecendo o 11 de Setembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/vi-uma-enorme-bola-de-fogo-mas-nao-entendi-que-estava-acontecendo-o-11-de-setembro.shtml)_
+
