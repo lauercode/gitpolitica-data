@@ -284,3 +284,6 @@
 - **[2026-09-11 14:59 UTC]** Em mensagem, Eduardo Bolsonaro cita que dinheiro para 'Dark Horse' vindo do Brasil seria 'problemático': 'ideal seria haver recursos já nos EUA'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/em-mensagem-eduardo-bolsonaro-orientou-gestao-de-recursos-de-dark-horse-nos-eua-diz-documento-da-pgr.ghtml)_
 
+- **[2026-09-11 13:00 UTC]** Campanha de Lula vai explorar na TV investigação no STF de Flávio Bolsonaro no financiamento de 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/11/campanha-de-lula-vai-explorar-na-tv-investigacao-no-stf-de-flavio-bolsonaro-no-financiamento-de-dark-horse.ghtml)_
+
