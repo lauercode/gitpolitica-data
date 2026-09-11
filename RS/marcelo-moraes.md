@@ -1484,3 +1484,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 23:13 UTC]** Moraes acusa Mendonça de manter sigilo do caso Master para proteger “grupo político”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-acusa-mendonca-de-manter-sigilo-do-caso-master-para-proteger-grupo-politico/)_
 
+- **[2026-09-11 21:58 UTC]** Dias Toffoli diz que foi a jantar com degustação de Macallan em Londres a convite de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dias-toffoli-diz-que-foi-a-jantar-com-degustacao-de-macallan-em-londres-a-convite-de-moraes/)_
+
