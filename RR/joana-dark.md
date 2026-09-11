@@ -248,3 +248,6 @@
 - **[2026-09-10 18:46 UTC]** Entenda o que se sabe sobre o caso 'Dark Horse' e a relação com o Banco Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-se-sabe-sobre-o-caso-dark-horse-e-a-relacao-com-o-banco-master.shtml)_
 
+- **[2026-09-10 21:39 UTC]** PF investiga produtora de 'Dark Horse' e Mario Frias por suspeita de fraude e organização criminosa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-investiga-produtora-de-dark-horse-e-mario-frias-por-suspeita-de-fraude-e-organizacao-criminosa.shtml)_
+
