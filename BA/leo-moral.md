@@ -20,3 +20,6 @@
 - **[2026-09-10 15:56 UTC]** Servidora de hospital denuncia assédio moral por farmacêutico investigado no AC: 'Anos de sofrimento'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/servidora-de-hospital-denuncia-assedio-moral-por-biomedico-investigado-no-ac-anos-de-sofrimento.ghtml)_
 
+- **[2026-09-11 16:35 UTC]** Funcionária acusa vereador de assédio sexual e moral em São Luiz; Polícia Civil abre investigação
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/funcionaria-vereador-assedio-saoluiz-roraima.ghtml)_
+
