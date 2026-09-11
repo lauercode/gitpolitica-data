@@ -68,3 +68,6 @@
 - **[2026-09-11 11:48 UTC]** Corpo de homem com marcas de tiros é encontrado em Santa Rita, na Grande João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/corpo-de-homem-com-marcas-de-tiros-e-encontrado-em-santa-rita-na-grande-joao-pessoa.ghtml)_
 
+- **[2026-09-11 19:13 UTC]** Eleições 2026 no PR: Sandro Alex se reúne com empresários, visita Santa Casa e se encontra com apoiadores
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-sandro-alex.ghtml)_
+
