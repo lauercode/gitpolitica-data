@@ -1397,3 +1397,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 12:45 UTC]** Fachin pressiona Gonet a não participar de sessão do STF sobre caso Moraes e escalar nº 2 da PGR
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-pressiona-gonet-a-nao-participar-de-sessao-do-stf-sobre-caso-moraes-e-escalar-no-2-da-pgr.shtml)_
 
+- **[2026-09-11 12:36 UTC]** Moraes cobra Fachin e diz que Mendonça não retirou sigilo integral de caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-cobra-fachin-e-diz-que-mendonca-nao-retirou-sigilo-integral-de-caso-master.shtml)_
+
