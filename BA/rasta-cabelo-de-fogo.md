@@ -149,3 +149,6 @@
 - **[2026-09-11 16:30 UTC]** VÍDEO: Comércio que pegou fogo é alvo de invasão e furto após reinauguração em novo ponto no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/video-comercio-que-pegou-fogo-e-alvo-de-invasao-e-furto-apos-reinauguracao-em-novo-ponto-no-acre.ghtml)_
 
+- **[2026-09-11 10:26 UTC]** Agenda g1 Sergipe tem Yasmin Sensação, Mikael Santos, Zé Vaqueiro, Fogo na Saia,  circo, teatro e mais
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/agenda-g1-sergipe-tem-corrida-do-jegue-de-itabi-festival-do-camarao-concerto-de-k-pop-humor-e-mais.ghtml)_
+
