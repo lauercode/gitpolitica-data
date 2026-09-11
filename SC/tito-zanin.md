@@ -29,3 +29,6 @@
 - **[2026-09-11 13:48 UTC]** Zanin pede liberação integral de dados de celular de Vorcaro após quebra de sigilo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/zanin-pede-liberacao-integral-de-dados-de-celular-de-vorcaro-apos-quebra-de-sigilo.shtml)_
 
+- **[2026-09-11 17:14 UTC]** Zanin pede que Fachin envie dados do celular de Vorcaro em separado para “otimizar análise”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-pede-que-fachin-envie-dados-do-celular-de-vorcaro-em-separado-para-otimizar-analise/)_
+
