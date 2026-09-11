@@ -953,3 +953,6 @@
 - **[2026-09-11 13:31 UTC]** Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso 'Dark Horse'; Mendonça mantém inquérito sob sigilo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4g5ky0r25jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 16:05 UTC]** Flávio Bolsonaro é investigado: 5 pontos que a PF quer esclarecer sobre o financiamento de 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/flavio-bolsonaro-e-investigado-5-pontos-que-a-pf-quer-esclarecer-sobre-o-financiamento-de-dark-horse.ghtml)_
+
