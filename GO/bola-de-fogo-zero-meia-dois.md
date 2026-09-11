@@ -362,3 +362,6 @@
 - **[2026-09-11 11:07 UTC]** Operação contra tráfico de drogas, extorsão e homicídio deixa dois mortos  no interior de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/operacao-contra-trafico-de-drogas-extorsao-e-homicidio-deixa-dois-mortos-no-interior-de-sergipe.ghtml)_
 
+- **[2026-09-11 09:41 UTC]** Cidade de São Paulo confirma dois novos casos de sarampo; estado vai a 32
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/cidade-de-sao-paulo-confirma-dois-novos-casos-de-sarampo-estado-vai-a-32.shtml)_
+
