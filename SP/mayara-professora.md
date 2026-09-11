@@ -104,3 +104,6 @@
 - **[2026-09-09 14:42 UTC]** Concurso, histórico e tratamento: o que está por trás da disputa pela posse de professora aprovada em concurso e impedida de assumir vaga
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/da-aprovacao-a-disputa-na-justica-veja-cronologia-do-caso-da-professora-do-rs-que-passou-em-concurso-mas-foi-impedida-de-assumir.ghtml)_
 
+- **[2026-09-09 03:00 UTC]** Doutora antes dos 25 anos e sonho de ser professora: quem é a estudante impedida de assumir vaga em concurso público
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quem-e-professora-impedida-assumir-concurso-doenca-ifrs-rs.ghtml)_
+
