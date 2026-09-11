@@ -23,3 +23,6 @@
 - **[2026-09-06 00:35 UTC]** Zanin acompanha Cármen Lúcia e vota contra liberdade de Bolsonaro no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-acompanha-carmen-lucia-e-vota-contra-liberdade-de-bolsonaro-no-stf/)_
 
+- **[2026-09-11 14:20 UTC]** STF: Zanin pede a Fachin acesso a todo material de celular de Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-zanin-pede-fachin-acesso-todo-material-de-celular-de-vorcaro)_
+
