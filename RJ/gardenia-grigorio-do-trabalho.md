@@ -257,3 +257,6 @@
 - **[2026-09-11 15:05 UTC]** Detento foge de presídio em Mossoró após pedir para ir ao banheiro durante trabalho na unidade
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/11/detento-foge-presidio-mossoro.ghtml)_
 
+- **[2026-09-11 20:05 UTC]** Datafolha em MG: 37% aprovam trabalho de Simões como governador, e 38% desaprovam
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-avaliacao-governo-mg-11-setembro.ghtml)_
+
