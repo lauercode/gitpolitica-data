@@ -239,3 +239,6 @@
 - **[2026-09-10 22:27 UTC]** Eleições 2026 em SC: Laís Chaud conversa com movimento de mulheres e panfleta em Joinville
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-lais-chaud-conversa-com-movimento-de-mulheres-e-panfleta-em-joinville.ghtml)_
 
+- **[2026-09-11 13:54 UTC]** Teresa Surita fala em ampliar políticas públicas para mulheres caso seja eleita senadora por RR
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/11/teresa-surita-fala-em-ampliar-politicas-publicas-para-mulheres-caso-seja-eleita-senadora-por-rr.ghtml)_
+
