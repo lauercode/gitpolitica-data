@@ -368,3 +368,6 @@
 - **[2026-09-11 11:38 UTC]** Dois acidentes são registrados em menos de 24h no mesmo cruzamento em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/11/dois-acidentes-sao-registrados-em-menos-de-24h-no-mesmo-cruzamento-em-macapa.ghtml)_
 
+- **[2026-09-11 15:14 UTC]** PRF apreende dois fuzis escondidos em compartimento de veículo em Barra do Corda
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-sul/noticia/2026/09/11/prf-apreende-dois-fuzis-escondidos-em-compartimento-de-veiculo-em-barra-do-corda.ghtml)_
+
