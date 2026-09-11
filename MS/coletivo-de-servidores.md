@@ -98,3 +98,6 @@
 - **[2026-09-11 08:15 UTC]** Assessoria informal, grupo de mensagens, cobrança de pagamento: PF detalha relação de Vorcaro com servidores do BC
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/assessoria-informal-grupo-de-mensagens-cobranca-de-pagamento-pf-detalha-relacao-de-vorcaro-com-servidores-do-bc.ghtml)_
 
+- **[2026-09-11 14:36 UTC]** Vorcaro pagou viagens a Paris e Disney para servidores do BC que atuavam em favor do Master, diz PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-servidores-bc-master-pf/)_
+
