@@ -203,3 +203,6 @@
 - **[2026-09-09 20:36 UTC]** Abastecimento de água na Grande Aracaju é comprometido após rompimento de adutora
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/abastecimento-de-agua-em-nossa-senhora-do-socorro-e-comprometido-apos-rompimento-de-adutora.ghtml)_
 
+- **[2026-09-11 17:05 UTC]** Moradores usam aspirador de pó e até a boca para sugar água da tubulação por falhas no abastecimento em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/moradores-aspirador-po-sugar-agua-tubulacao-sem-abastecimento-palhoca.ghtml)_
+
