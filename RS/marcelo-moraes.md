@@ -1421,3 +1421,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 14:00 UTC]** Moraes aponta seletividade de Mendonça em caso Master
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/moraes-acusa-mendonca-de-seletividade-em-caso-master)_
 
+- **[2026-09-11 15:32 UTC]** Moraes vota para rejeitar recurso da defesa e manter condenação de Eduardo Bolsonaro por coação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/moraes-vota-para-rejeitar-recurso-e-manter-condenacao-de-eduardo-bolsonaro-por-coacao.ghtml)_
+
