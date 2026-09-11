@@ -1127,3 +1127,6 @@
 - **[2026-09-10 18:21 UTC]** Caos no STF tira favoritismo de Lula e pode turbinar onda Flávio; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/caos-no-stf-tira-favoritismo-de-lula-e-pode-turbinar-onda-flavio-veja-video.shtml)_
 
+- **[2026-09-10 21:21 UTC]** A odisseia de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/a-odisseia-de-flavio-bolsonaro.shtml)_
+
