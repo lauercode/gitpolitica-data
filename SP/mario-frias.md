@@ -128,3 +128,6 @@
 - **[2026-09-11 15:01 UTC]** PGR atende à PF para investigar propostas de Flávio e Frias no Congresso de interesse do Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-atende-pf-investigar-propostas-flavio-frias-congresso-interesse-master/)_
 
+- **[2026-09-11 11:49 UTC]** Decisão de Flávio Dino em ação contra Mário Frias tem falhas graves e punições extensas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/decisao-de-flavio-dino-em-acao-contra-mario-frias-tem-falhas-graves-e-punicoes-extensas/)_
+
