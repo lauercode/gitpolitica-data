@@ -1376,3 +1376,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 03:01 UTC]** Fachin organiza rito de julgamento que pode investigar Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-organiza-rito-de-julgamento-que-pode-investigar-alexandre-de-moraes/)_
 
+- **[2026-09-11 00:51 UTC]** Senadores da oposição intensificam cobrança sobre Alcolumbre pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
+
