@@ -11,3 +11,6 @@
 - **[2026-08-22 15:48 UTC]** Flávio diz que 'narcoterroristas' têm até dezembro para ‘meter o pé’ do Brasil e promete ‘guerra’ contra criminosos
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/22/flavio-bolsonaro-participa-de-evento-no-maracanazinho.ghtml)_
 
+- **[2026-09-11 20:12 UTC]** Datafolha para o Senado no RJ: Benedita, 18%; Carlos Jordy, 10%; Carlos Portinho, 10%; Pedro Paulo, 7%; Marcelo Crivella, 7%; Mônica Benício, 6%
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/11/datafolha-no-rj-senado-11-setembro.ghtml)_
+
