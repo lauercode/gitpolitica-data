@@ -29,3 +29,6 @@
 - **[2026-09-09 15:47 UTC]** Pablo Marçal, Augusto Cury e Renan Santos aguardam julgamento de candidatura no TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marcal-cury-renan-santos-aguardam-julgamento-de-candidatura-tse/)_
 
+- **[2026-09-11 20:19 UTC]** TSE forma maioria para rejeitar registro da candidatura de Pablo Marçal à Presidência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/tse-forma-maioria-para-rejeitar-registro-da-candidatura-de-pablo-marcal-a-presidencia.ghtml)_
+
