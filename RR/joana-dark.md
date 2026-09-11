@@ -278,3 +278,6 @@
 - **[2026-09-11 09:32 UTC]** Por que Mario Frias e a produtora do filme 'Dark Horse', sobre Bolsonaro, são alvo da PF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 09:44 UTC]** Mendonça incluiu Flávio Bolsonaro como investigado no caso Dark Horse
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse)_
+
