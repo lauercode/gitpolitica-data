@@ -329,3 +329,6 @@
 - **[2026-09-11 13:07 UTC]** Comissão de Constituição e Justiça aprova projeto que proíbe o uso do termo "elefantíase" em documentos públicos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303928-comissao-de-constituicao-e-justica-aprova-projeto-que-proibe-o-uso-do-termo-elefantiase-em-documentos-publicos)_
 
+- **[2026-09-11 10:46 UTC]** Comissão aprova projeto que proíbe ruas com nomes iguais no mesmo município
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303923-comissao-aprova-projeto-que-proibe-ruas-com-nomes-iguais-no-mesmo-municipio)_
+
