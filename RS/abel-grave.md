@@ -53,3 +53,6 @@
 - **[2026-09-11 04:00 UTC]** Diretriz global para pneumonia grave se apoia em pacientes brancos e de países ricos, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/diretriz-global-para-pneumonia-grave-se-apoia-em-pacientes-brancos-e-de-paises-ricos-diz-estudo.shtml)_
 
+- **[2026-09-11 10:52 UTC]** Cinco estados estão em alerta para síndrome respiratória aguda grave
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/cinco-estados-estao-em-alerta-para-sindrome-respiratoria-aguda-grave)_
+
