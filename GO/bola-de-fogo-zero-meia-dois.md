@@ -386,3 +386,6 @@
 - **[2026-09-11 18:24 UTC]** Dois postos de combustíveis são autuados após fiscalização identificar irregularidades, no Agreste da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/dois-postos-de-combustiveis-sao-autuados-apos-fiscalizacao-identificar-irregularidades-no-agreste-da-paraiba.ghtml)_
 
+- **[2026-09-11 18:34 UTC]** Ex-secretário de Educação, político e mais dois são indiciados por fraude em licitação de R$ 4,3 milhões em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/ex-secretario-de-educacao-politico-e-mais-dois-sao-indiciados-por-fraude-em-licitacao-de-r-43-milhoes-em-roraima.ghtml)_
+
