@@ -53,3 +53,6 @@
 - **[2026-09-10 23:00 UTC]** Empresa que intermediou recurso a produtora de 'Dark Horse' funciona em loja de noivas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/empresa-que-intermediou-recurso-a-produtora-de-dark-horse-funciona-em-loja-de-noivas.shtml)_
 
+- **[2026-09-11 13:17 UTC]** Fãs lotam loja oficial do Stray Kids horas antes do show no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/k-cultura/2026/09/fas-lotam-loja-oficial-do-stray-kids-horas-antes-do-show-no-rock-in-rio.shtml)_
+
