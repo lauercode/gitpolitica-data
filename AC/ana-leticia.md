@@ -17,3 +17,6 @@
 - **[2026-09-06 21:13 UTC]** Rock in Rio 2026: Letícia Colin é tietada e se surpreende com torcida por Adriana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-leticia-colin-e-tietada-e-se-surpreende-com-torcida-por-adriana.shtml)_
 
+- **[2026-09-11 04:00 UTC]** Plataformas ampliam radicalização misógina e atraem jovens para espiral, diz Letícia Cesarino em novo livro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/plataformas-ampliam-radicalizacao-misogina-e-atraem-jovens-para-espiral-diz-leticia-cesarino-em-novo-livro.shtml)_
+
