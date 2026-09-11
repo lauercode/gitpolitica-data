@@ -983,3 +983,6 @@ direitos
 direitos
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
 
+- **[2026-09-11 23:04 UTC]** Concurso da Câmara de Rio Branco abre inscrições; salários chegam a R$ 6 mil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/concurso-da-camara-de-rio-branco-abre-inscricoes-salarios-chegam-a-r-6-mil.ghtml)_
+
