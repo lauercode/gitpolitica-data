@@ -157,8 +157,7 @@
     "party": "REDE",
     "aliases": [
       "ENFERMEIRA MÔNICA",
-      "MONICA PIOTZ",
-      "MÔNICA"
+      "MONICA PIOTZ"
     ],
     "tse_sequencial": "80002549482"
   },
@@ -712,6 +711,7 @@
     "party": "PSB",
     "aliases": [
       "DILCEA MARVILA DE OLIVEIRA",
+      "MARVILA",
       "PROFESSORA DILCÉA MARVILA"
     ],
     "tse_sequencial": "80002541004"
@@ -910,6 +910,7 @@
     "role": "Candidato(a) a Deputado Estadual (ES) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "BAHIENSE",
       "DANILO BAHIENSE MOREIRA",
       "DELEGADO DANILO BAHIENSE"
     ],
@@ -993,7 +994,8 @@
     "party": "PODE",
     "aliases": [
       "DELEGADO LEANDRO SPERANDIO",
-      "LEANDRO COMPER SPERANDIO"
+      "LEANDRO COMPER SPERANDIO",
+      "SPERANDIO"
     ],
     "tse_sequencial": "80002537484"
   },
@@ -1588,7 +1590,6 @@
     "party": "AGIR",
     "aliases": [
       "DR JONHSON",
-      "JONHSON",
       "LINDON JONHSON ARRUDA PEREIRA"
     ],
     "tse_sequencial": "80002535772"
@@ -1717,7 +1718,8 @@
     "party": "PL",
     "aliases": [
       "EVANDRO DE SOUZA FERREIRA BRAGA",
-      "PASTOR DINHO SOUZA"
+      "PASTOR DINHO SOUZA",
+      "SOUZA"
     ],
     "tse_sequencial": "80002549412"
   },
@@ -2010,7 +2012,6 @@
     "party": "DC",
     "aliases": [
       "MISSIONARIA ROSE",
-      "ROSE",
       "ROSIMERI GONÇALVES DA COSTA SIMOES"
     ],
     "tse_sequencial": "80002551799"
@@ -2033,6 +2034,7 @@
     "role": "Candidato(a) a Deputado Estadual (ES) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "MARTINS",
       "PROFESSOR ROBERTO MARTINS",
       "ROBERTO MARTINS DE OLIVEIRA"
     ],
@@ -2463,6 +2465,7 @@
     "role": "Candidato(a) a Deputado Estadual (ES) — Eleição 2026",
     "party": "PSDB",
     "aliases": [
+      "MOURA",
       "OSEIAS DE MOURA",
       "PASTOR OSEIAS DE MOURA"
     ],
@@ -2629,7 +2632,6 @@
     "party": "PP",
     "aliases": [
       "DR HERCULES",
-      "HERCULES",
       "HERCULES SILVEIRA"
     ],
     "tse_sequencial": "80002549448"
@@ -3321,7 +3323,6 @@
     "party": "PL",
     "aliases": [
       "ENFERMEIRA LARYSSA",
-      "LARYSSA",
       "LARYSSA RODRIGUES PEREIRA"
     ],
     "tse_sequencial": "80002549431"
@@ -3604,7 +3605,8 @@
     "party": "NOVO",
     "aliases": [
       "DELEGADO JORGE MEYER",
-      "JORGE PAULO MEYER"
+      "JORGE PAULO MEYER",
+      "MEYER"
     ],
     "tse_sequencial": "80002531675"
   },
@@ -3790,6 +3792,7 @@
     "role": "Candidato(a) a Deputado Federal (ES) — Eleição 2026",
     "party": "PRD",
     "aliases": [
+      "BAZILIO",
       "PROFESSORA SABRINE BAZILIO",
       "SABRINE CECILIA BAZILIO DOS REIS"
     ],
@@ -3838,7 +3841,6 @@
     "party": "MDB",
     "aliases": [
       "DR PELAES",
-      "PELAES",
       "SEBASTIÃO LEITE PELAES"
     ],
     "tse_sequencial": "80002549104"
@@ -3955,6 +3957,7 @@
     "party": "PT",
     "aliases": [
       "ELIANE GOMES DA SILVA",
+      "GOMES",
       "PROFESSORA ELIANE GOMES"
     ],
     "tse_sequencial": "80002549067"
@@ -4024,6 +4027,7 @@
     "party": "MISSÃO",
     "aliases": [
       "CABO ROGÉRIO PERESTELO",
+      "PERESTELO",
       "ROGERIO LUIZ PERESTELO SILVA FILHO"
     ],
     "tse_sequencial": "80002540553"
@@ -4153,8 +4157,7 @@
     "party": "PL",
     "aliases": [
       "DR FELIPINHO",
-      "FELIPE DOS SANTOS ALVES",
-      "FELIPINHO"
+      "FELIPE DOS SANTOS ALVES"
     ],
     "tse_sequencial": "80002549427"
   },
@@ -4235,6 +4238,7 @@
     "role": "Candidato(a) a Deputado Estadual (ES) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "BERÇACO",
       "PROFESSOR ÉRITON BERÇACO",
       "ÉRITON BERNARDES BERÇACO"
     ],
@@ -4683,7 +4687,8 @@
     "party": "PSB",
     "aliases": [
       "NICOLAS DO ESPÍRITO SANTO TRANCHO",
-      "PROFESSOR NICOLAS TRANCHO"
+      "PROFESSOR NICOLAS TRANCHO",
+      "TRANCHO"
     ],
     "tse_sequencial": "80002541028"
   },
@@ -4933,6 +4938,7 @@
     "party": "PSB",
     "aliases": [
       "JADIR JOSE PELA",
+      "PELLA",
       "PROFESSOR JADIR PELLA"
     ],
     "tse_sequencial": "80002541010"
@@ -5337,6 +5343,7 @@
     "role": "Candidato(a) a Deputado Estadual (ES) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
+      "CAMPAGNARO",
       "OTAVIANO CAMPAGNARO",
       "POLICIAL OTAVIANO CAMPAGNARO"
     ],
@@ -5665,6 +5672,7 @@
     "party": "PODE",
     "aliases": [
       "CÁSSIA CRISTINA DA SILVA GUIMARÃES",
+      "ENFERMEIRA",
       "MAJOR CASSIA ENFERMEIRA"
     ],
     "tse_sequencial": "80002536279"
@@ -5942,6 +5950,7 @@
     "role": "Candidato(a) a Deputado Estadual (ES) — Eleição 2026",
     "party": "PSDB",
     "aliases": [
+      "CARMO",
       "ROSEANA DO CARMO GOMES",
       "SARGENTO DO CARMO"
     ],
@@ -6037,7 +6046,8 @@
     "party": "REDE",
     "aliases": [
       "PASTOR PAULO RIBEIRO",
-      "PAULO SERGIO RIBEIRO DE SOUZA"
+      "PAULO SERGIO RIBEIRO DE SOUZA",
+      "RIBEIRO"
     ],
     "tse_sequencial": "80002549488"
   },
@@ -6128,7 +6138,6 @@
     "role": "Candidato(a) a Deputado Estadual (ES) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "ALVES",
       "BENEDITO ALVES COSTA",
       "BISPO ALVES"
     ],
@@ -6223,7 +6232,8 @@
     "party": "NOVO",
     "aliases": [
       "DELEGADA GLÓRIA PESSOTTI",
-      "MARIA DA GLÓRIA PESSOTTI"
+      "MARIA DA GLÓRIA PESSOTTI",
+      "PESSOTTI"
     ],
     "tse_sequencial": "80002531659"
   },
@@ -6233,6 +6243,7 @@
     "role": "Candidato(a) a Deputado Estadual (ES) — Eleição 2026",
     "party": "DC",
     "aliases": [
+      "EX-PERERECA",
       "JEFFERSON DE JESUS PINHEIRO",
       "PASTOR JEFFERSON EX-PERERECA"
     ],
@@ -6304,7 +6315,6 @@
     "party": "PSD",
     "aliases": [
       "DR HUMBERTO",
-      "HUMBERTO",
       "HUMBERTO SIMOES GONÇALVES"
     ],
     "tse_sequencial": "80002552166"
@@ -6408,6 +6418,7 @@
     "role": "Candidato(a) a Deputado Estadual (ES) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "CARLOS",
       "PROFESSOR ROBERTO CARLOS",
       "ROBERTO CARLOS TELES BRAGA"
     ],
@@ -6466,8 +6477,7 @@
     "party": "MISSÃO",
     "aliases": [
       "BOMBEIRO OLIVEIRA",
-      "FELIPE OLIVEIRA DOS SANTOS",
-      "OLIVEIRA"
+      "FELIPE OLIVEIRA DOS SANTOS"
     ],
     "tse_sequencial": "80002540555"
   },
@@ -7502,6 +7512,7 @@
     "role": "Candidato(a) a Senador (AP) — Eleição 2026",
     "party": "DC",
     "aliases": [
+      "PINTO",
       "PROFESSOR UZIAN PINTO",
       "UZIAN PINTO MACHADO"
     ],
@@ -7582,7 +7593,6 @@
     "role": "Candidato(a) a Deputado Estadual (AP) — Eleição 2026",
     "party": "PL",
     "aliases": [
-      "ACHILES",
       "ACHILES EDUARDO PONTES CAMPOS",
       "DR ACHILES"
     ],
@@ -8067,7 +8077,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ANDRE LUIZ DIAS DA COSTA",
-      "CORONEL ANDRÉ DIAS"
+      "CORONEL ANDRÉ DIAS",
+      "DIAS"
     ],
     "tse_sequencial": "30002549891"
   },
@@ -8398,7 +8409,6 @@
     "party": "NOVO",
     "aliases": [
       "DR SATH",
-      "SATH",
       "SATH FALCONY VAZ LEITE DOS SANTOS"
     ],
     "tse_sequencial": "30002530078"
@@ -8609,6 +8619,7 @@
     "party": "PV",
     "aliases": [
       "CAPITÃO N MIRANDA",
+      "MIRANDA",
       "NATANAEL DA SILVA MIRANDA"
     ],
     "tse_sequencial": "30002533099"
@@ -9078,7 +9089,8 @@
     "party": "NOVO",
     "aliases": [
       "PROFESSORA RILANY SILVA",
-      "RILANY RAFAELA MIRANDA SILVA"
+      "RILANY RAFAELA MIRANDA SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "30002530020"
   },
@@ -9228,6 +9240,7 @@
     "role": "Candidato(a) a Deputado Estadual (AP) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "JESUS",
       "MARIA DE JESUS MENDES",
       "PASTORA MARIA DE JESUS"
     ],
@@ -9366,7 +9379,6 @@
     "party": "MDB",
     "aliases": [
       "IRMÃ MARIA",
-      "MARIA",
       "MARIENE RODRIGUES DE SOUSA"
     ],
     "tse_sequencial": "30002549846"
@@ -9550,6 +9562,7 @@
     "role": "Candidato(a) a Deputado Estadual (AP) — Eleição 2026",
     "party": "REDE",
     "aliases": [
+      "ANTONIO",
       "MARCO ANTÔNIO PELAES COSTA",
       "PROFESSOR MARCO ANTONIO"
     ],
@@ -9562,7 +9575,8 @@
     "party": "PCDOB",
     "aliases": [
       "PROFESSOR RAUDISON SENA",
-      "RAUDISON SENA DOS SANTOS"
+      "RAUDISON SENA DOS SANTOS",
+      "SENA"
     ],
     "tse_sequencial": "30002533120"
   },
@@ -9619,7 +9633,6 @@
     "role": "Candidato(a) a Deputado Estadual (AP) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
-      "ANGELO",
       "ANGELO VICTOR RODRIGUES DOS SANTOS",
       "ENGENHEIRO ANGELO"
     ],
@@ -9656,6 +9669,7 @@
     "party": "PDT",
     "aliases": [
       "PASTORA LÉIA PELAES",
+      "PELAES",
       "ROSILEIA DOS SANTOS DE OLIVEIRA PELAES"
     ],
     "tse_sequencial": "30002533719"
@@ -9890,6 +9904,7 @@
     "party": "PDT",
     "aliases": [
       "KÁTIA PAULINO DOS SANTOS",
+      "PAULINO",
       "PROFESSORA KATIA PAULINO"
     ],
     "tse_sequencial": "30002532846"
@@ -9959,6 +9974,7 @@
     "role": "Candidato(a) a Deputado Federal (AP) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "MARQUES",
       "RONDINELE MARQUES DOS SANTOS",
       "TENENTE CORONEL MARQUES"
     ],
@@ -10168,6 +10184,7 @@
     "party": "PT",
     "aliases": [
       "ANTONIO MENEZES DA SILVA",
+      "MENEZES",
       "PADRE ANTONIO MENEZES"
     ],
     "tse_sequencial": "10002544596"
@@ -10857,6 +10874,7 @@
     "role": "Candidato(a) a Deputado Estadual (AC) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
+      "AGLEISON",
       "AGLEISON ALEXANDRINO CORREIA",
       "TENENTE CORONEL AGLEISON"
     ],
@@ -10880,6 +10898,7 @@
     "role": "Candidato(a) a Deputado Estadual (AC) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "BADER",
       "CLARA ELIZABETH SIMAO BADER",
       "PROFESSORA CLARA BADER"
     ],
@@ -11417,6 +11436,7 @@
     "role": "Candidato(a) a Deputado Estadual (AC) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "BARROS",
       "JOSE ARNALDO DA SILVA BARROS",
       "PASTOR ARNALDO BARROS"
     ],
@@ -12663,6 +12683,7 @@
     "party": "PSOL",
     "aliases": [
       "INACIO ALVES MOREIRA NETTO",
+      "MOREIRA",
       "PROFESSOR INACIO MOREIRA"
     ],
     "tse_sequencial": "10002544110"
@@ -12823,6 +12844,7 @@
     "role": "Candidato(a) a Deputado Estadual (AC) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
+      "HENRIQUE",
       "PAULO HENRIQUE OLIVEIRA DA SILVA",
       "PROFESSOR PAULO HENRIQUE"
     ],
@@ -12847,6 +12869,7 @@
     "party": "PL",
     "aliases": [
       "DELEGADO SÉRGIO LOPES",
+      "LOPES",
       "SERGIO LOPES DE SOUZA"
     ],
     "tse_sequencial": "10002545661"
@@ -13353,6 +13376,7 @@
     "party": "PL",
     "aliases": [
       "ELIANE GONCALVES DA SILVA NERES",
+      "NERES",
       "PROFESSORA ELIANE NERES"
     ],
     "tse_sequencial": "10002545658"
@@ -13875,6 +13899,7 @@
     "role": "Candidato(a) a Deputado Estadual (AC) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "ABREU",
       "PASTOR PEDRO ABREU",
       "PEDRO ABREU DE LIMA"
     ],
@@ -14252,8 +14277,7 @@
     "party": "SOLIDARIEDADE",
     "aliases": [
       "IRMÃO JÚLIO",
-      "JULIO BOMFIM SANTANA DE JESUS",
-      "JÚLIO"
+      "JULIO BOMFIM SANTANA DE JESUS"
     ],
     "tse_sequencial": "50002535420"
   },
@@ -15546,7 +15570,8 @@
     "party": "PSD",
     "aliases": [
       "JORGE SALES E SILVA NETO",
-      "PROFESSOR JORGE SALES"
+      "PROFESSOR JORGE SALES",
+      "SALES"
     ],
     "tse_sequencial": "50002532692"
   },
@@ -16000,7 +16025,6 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "SOLIDARIEDADE",
     "aliases": [
-      "BERNADETH",
       "BERNADETH ALVES DA SILVA",
       "MISSIONÁRIA BERNADETH"
     ],
@@ -16035,6 +16059,7 @@
     "party": "PODE",
     "aliases": [
       "ANTONIO CARLOS GOMES DE CERQUEIRA",
+      "GOMES",
       "PASTOR CARLINHOS GOMES"
     ],
     "tse_sequencial": "50002534964"
@@ -16259,7 +16284,8 @@
     "party": "PL",
     "aliases": [
       "DOUTORA RAISSA SOARES",
-      "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES"
+      "RAISSA OLIVEIRA AZEVEDO DE MELO SOARES",
+      "SOARES"
     ],
     "tse_sequencial": "50002532883"
   },
@@ -16829,6 +16855,7 @@
     "party": "DC",
     "aliases": [
       "IGOR DA MOTA SOARES",
+      "MANDACARU",
       "SARGENTO IGOR MANDACARU"
     ],
     "tse_sequencial": "50002543972"
@@ -16924,8 +16951,7 @@
     "party": "CIDADANIA",
     "aliases": [
       "GENIVALDO LEAL VITÓRIO",
-      "IRMÃO NIEL",
-      "NIEL"
+      "IRMÃO NIEL"
     ],
     "tse_sequencial": "50002533145"
   },
@@ -17511,6 +17537,7 @@
     "party": "PSB",
     "aliases": [
       "JOSÉ MÁRIO DIAS SOARES JÚNIOR",
+      "MARINHO",
       "PROFESSOR CAPITÃO MARINHO"
     ],
     "tse_sequencial": "50002538665"
@@ -17558,7 +17585,8 @@
     "party": "PL",
     "aliases": [
       "PAULO TARSO MASCARENHAS PEDREIRA",
-      "SARGENTO PAULO TARSO"
+      "SARGENTO PAULO TARSO",
+      "TARSO"
     ],
     "tse_sequencial": "50002535092"
   },
@@ -17850,6 +17878,7 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "JUNIOR",
       "PEDRO FERREIRA BATISTA JUNIOR",
       "PROFESSOR PEDRO JUNIOR"
     ],
@@ -18254,6 +18283,7 @@
     "party": "UNIÃO",
     "aliases": [
       "DAYANE JAMILLE CARNEIRO DOS SANTOS PIMENTEL",
+      "PIMENTEL",
       "PROFESSORA DAYANE PIMENTEL"
     ],
     "tse_sequencial": "50002534985"
@@ -18572,6 +18602,7 @@
     "party": "PSDB",
     "aliases": [
       "CLEONICE SANTOS MONTEIRO CRUZ",
+      "MONTEIRO",
       "PROFESSORA CLEONICE MONTEIRO"
     ],
     "tse_sequencial": "50002533153"
@@ -18747,7 +18778,6 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "PT",
     "aliases": [
-      "CLEBER",
       "CLÉBER CARVALHO SANTANA",
       "IRMÃO CLEBER"
     ],
@@ -18865,6 +18895,7 @@
     "role": "Candidato(a) a Deputado Estadual (BA) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "AURÉLIO",
       "MARCO AURELIO SILVA FARIAS",
       "PROFESSOR MARCO AURÉLIO"
     ],
@@ -19554,6 +19585,7 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "EMILIO",
       "PASTOR SERGIO EMILIO",
       "SÉRGIO EMÍLIO MEIRA SANTOS"
     ],
@@ -19577,6 +19609,7 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "ALVES",
       "PROFESSOR REGINALDO ALVES",
       "REGINALDO OLIVEIRA ALVES"
     ],
@@ -20330,6 +20363,7 @@
     "party": "DC",
     "aliases": [
       "IGOR DA MOTA SOARES",
+      "MANDACARU",
       "SARGENTO IGOR MANDACARU"
     ],
     "tse_sequencial": "50002550348"
@@ -20455,6 +20489,7 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "PSDB",
     "aliases": [
+      "BRANDÃO",
       "JOSUÉ BRANDÃO AMORIM",
       "PASTOR JOSUÉ BRANDÃO"
     ],
@@ -20698,6 +20733,7 @@
     "role": "Candidato(a) a Deputado Estadual (BA) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "ARAÚJO",
       "CORONEL VALTER ARAÚJO",
       "VALTER SANTOS DE ARAUJO"
     ],
@@ -20935,7 +20971,6 @@
     "role": "Candidato(a) a Deputado Estadual (BA) — Eleição 2026",
     "party": "PDT",
     "aliases": [
-      "DART",
       "DART CLAIR CARVALHO DAS VIRGENS CERQUEIRA",
       "ENFERMEIRA DART"
     ],
@@ -21355,7 +21390,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ARTHUR JOSÉ PEDREIRA GALLAS E SOUZA",
-      "DELEGADO ARTHUR GALLAS"
+      "DELEGADO ARTHUR GALLAS",
+      "GALLAS"
     ],
     "tse_sequencial": "50002531451"
   },
@@ -21544,6 +21580,7 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "FRANÇA",
       "PROFESSOR ÍCARO FRANÇA",
       "ÍCARO DAS VIRGENS FRANÇA"
     ],
@@ -21885,7 +21922,8 @@
     "party": "UNIÃO",
     "aliases": [
       "CAPITÃO LUIS VASCONCELOS",
-      "LUIS VASCONCELOS MELO"
+      "LUIS VASCONCELOS MELO",
+      "VASCONCELOS"
     ],
     "tse_sequencial": "50002534980"
   },
@@ -22621,7 +22659,8 @@
     "party": "PL",
     "aliases": [
       "JUIZ RICARDO D ÁVILA",
-      "MANOEL RICARDO CALHEIROS DAVILA"
+      "MANOEL RICARDO CALHEIROS DAVILA",
+      "ÁVILA"
     ],
     "tse_sequencial": "50002535131"
   },
@@ -22927,7 +22966,8 @@
     "party": "AVANTE",
     "aliases": [
       "CABO MARCIO PATRIOTA",
-      "MARCIO DE JESUS BEZERRA"
+      "MARCIO DE JESUS BEZERRA",
+      "PATRIOTA"
     ],
     "tse_sequencial": "50002534743"
   },
@@ -22950,7 +22990,6 @@
     "party": "MDB",
     "aliases": [
       "IRMÃ JOSILENE",
-      "JOSILENE",
       "JOSILENE SANTANA CARVALHO LUCAS"
     ],
     "tse_sequencial": "50002536653"
@@ -23328,6 +23367,7 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "FAVELA",
       "MARCIO LIMA DE OLIVEIRA",
       "PASTOR DA FAVELA"
     ],
@@ -23955,7 +23995,6 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "MISSIONARIA REIS",
-      "REIS",
       "REISONILDA FERREIRA DOS SANTOS"
     ],
     "tse_sequencial": "50002532528"
@@ -24336,7 +24375,8 @@
     "party": "PL",
     "aliases": [
       "PROFESSOR RICHI ÁTILA",
-      "RICHI ÁTILA PALMEIRA DIAS"
+      "RICHI ÁTILA PALMEIRA DIAS",
+      "ÁTILA"
     ],
     "tse_sequencial": "50002535080"
   },
@@ -24417,6 +24457,7 @@
     "party": "PRD",
     "aliases": [
       "ADRIANA MARIA SOUZA SANTOS",
+      "MARIA",
       "PASTORA ADRIANA MARIA"
     ],
     "tse_sequencial": "50002535419"
@@ -24451,7 +24492,8 @@
     "party": "PODE",
     "aliases": [
       "LUCIANO SILVA SANTOS",
-      "PASTOR LUCIANO SILVA"
+      "PASTOR LUCIANO SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "50002534962"
   },
@@ -24474,7 +24516,6 @@
     "party": "PODE",
     "aliases": [
       "JOSELICE DE JESUS SILVA BATISTA",
-      "LICE",
       "MISSIONÁRIA LICE"
     ],
     "tse_sequencial": "50002534975"
@@ -24601,6 +24642,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ALAN DE CASTRO DAYUBE",
+      "CASTRO",
       "DOUTOR ALAN CASTRO"
     ],
     "tse_sequencial": "50002532520"
@@ -24694,6 +24736,7 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "CONCEIÇÃO",
       "JANILTON DA SILVA CONCEICAO",
       "PASTOR JANILTON CONCEIÇÃO"
     ],
@@ -25485,7 +25528,8 @@
     "party": "PT",
     "aliases": [
       "PAULO JOSÉ RIELA TRANZILO",
-      "PROFESSOR PAULO RIELA"
+      "PROFESSOR PAULO RIELA",
+      "RIELA"
     ],
     "tse_sequencial": "50002538782"
   },
@@ -25541,6 +25585,7 @@
     "party": "AVANTE",
     "aliases": [
       "JUSSILVIO QUEIROZ PENA",
+      "PENA",
       "PROFESSOR JUSSILVIO PENA"
     ],
     "tse_sequencial": "50002535540"
@@ -26504,6 +26549,7 @@
     "party": "AVANTE",
     "aliases": [
       "ANA CARINA DE ARAUJO LASSE",
+      "LASSE",
       "PROFESSORA CARINA LASSE"
     ],
     "tse_sequencial": "50002534746"
@@ -26526,6 +26572,7 @@
     "role": "Candidato(a) a Deputado Federal (BA) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "ISIDÓRIO",
       "MANOEL ISIDORIO DE SANTANA JUNIOR",
       "PASTOR SARGENTO ISIDÓRIO"
     ],
@@ -27237,7 +27284,8 @@
     "party": "PSDB",
     "aliases": [
       "JUAREZ SANTANA ANDRADE",
-      "PASTOR JUAREZ DO REVIVER"
+      "PASTOR JUAREZ DO REVIVER",
+      "REVIVER"
     ],
     "tse_sequencial": "50002533174"
   },
@@ -27659,8 +27707,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "DRA ZEFA",
-      "JOSEFA PEREIRA DOS SANTOS",
-      "ZEFA"
+      "JOSEFA PEREIRA DOS SANTOS"
     ],
     "tse_sequencial": "50002532539"
   },
@@ -27705,6 +27752,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ANTONIO ROQUE BISPO DE ARAUJO",
+      "BISPO",
       "CAPITÃO ROQUE BISPO"
     ],
     "tse_sequencial": "50002532582"
@@ -27716,6 +27764,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "AMÉLIA PEDRA OLIVEIRA",
+      "PEDRA",
       "PROFESSORA AMÉLIA PEDRA"
     ],
     "tse_sequencial": "50002532563"
@@ -28569,6 +28618,7 @@
     "party": "REDE",
     "aliases": [
       "FRANCISCA MARGARETE NEVES OLIVEIRA SANTOS",
+      "LEITE",
       "PROFESSORA MARGARETE LEITE"
     ],
     "tse_sequencial": "60002538642"
@@ -30518,7 +30568,6 @@
     "role": "Candidato(a) a Deputado Federal (CE) — Eleição 2026",
     "party": "PDT",
     "aliases": [
-      "AGAMENON",
       "AGAMENON CORREIA GARCEZ",
       "IRMÃO AGAMENON"
     ],
@@ -30531,7 +30580,6 @@
     "party": "DC",
     "aliases": [
       "MISSIONÁRIA TANIELE",
-      "TANIELE",
       "TANIELI TEIXEIRA DE OLIVEIRA CAMPOS"
     ],
     "tse_sequencial": "60002549971"
@@ -30907,7 +30955,6 @@
     "party": "PL",
     "aliases": [
       "DRA SILVANA",
-      "SILVANA",
       "SILVANA OLIVEIRA DE SOUSA"
     ],
     "tse_sequencial": "60002542832"
@@ -31039,6 +31086,7 @@
     "party": "UNIÃO",
     "aliases": [
       "DEBORA LUCIA LIMA LEITE MENDES",
+      "LEITE",
       "PROFESSORA DÉBORA LEITE"
     ],
     "tse_sequencial": "60002536181"
@@ -31098,8 +31146,7 @@
     "party": "MDB",
     "aliases": [
       "ENFERMEIRA VIRGÍNIA",
-      "VIRGINIA MARIA NAZARIO BARBOSA",
-      "VIRGÍNIA"
+      "VIRGINIA MARIA NAZARIO BARBOSA"
     ],
     "tse_sequencial": "60002542454"
   },
@@ -32075,8 +32122,7 @@
     "party": "PV",
     "aliases": [
       "DRA PRISCILLA",
-      "FRANCISCA PRICILLA DUARTE DE FIGUEIREDO",
-      "PRISCILLA"
+      "FRANCISCA PRICILLA DUARTE DE FIGUEIREDO"
     ],
     "tse_sequencial": "60002540722"
   },
@@ -32109,6 +32155,7 @@
     "party": "PT",
     "aliases": [
       "ADRIANA DE SOUSA ALMEIDA",
+      "ALMEIDA",
       "PROFESSORA ADRIANA ALMEIDA"
     ],
     "tse_sequencial": "60002540728"
@@ -32452,7 +32499,6 @@
     "party": "PL",
     "aliases": [
       "DR JAZIEL",
-      "JAZIEL",
       "JAZIEL PEREIRA DE SOUSA"
     ],
     "tse_sequencial": "60002536967"
@@ -32900,7 +32946,6 @@
     "role": "Candidato(a) a Deputado Estadual (CE) — Eleição 2026",
     "party": "MOBILIZA",
     "aliases": [
-      "CILENE",
       "GESSILENE PEREIRA ALVES",
       "MISSIONÁRIA CILENE"
     ],
@@ -33240,6 +33285,7 @@
     "role": "Candidato(a) a Deputado Federal (CE) — Eleição 2026",
     "party": "REDE",
     "aliases": [
+      "ALVES",
       "MARGARIDA MARIA ALVES VIEIRA",
       "PROFESSORA MARGARIDA ALVES"
     ],
@@ -33311,6 +33357,7 @@
     "role": "Candidato(a) a Deputado Federal (CE) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "AUTISTA",
       "DELEGADO GELSON AUTISTA",
       "GELSON LUIZ ALMEIDA PINTO"
     ],
@@ -33583,7 +33630,6 @@
     "party": "NOVO",
     "aliases": [
       "CARLOS EMANUEL ARAÚJO MENDONÇA DE ALENCAR",
-      "EMANUEL",
       "ENGENHEIRO EMANUEL"
     ],
     "tse_sequencial": "60002538311"
@@ -33833,6 +33879,7 @@
     "party": "PL",
     "aliases": [
       "FRANCISCO GOMES DA SILVA",
+      "GOMES",
       "PASTOR FRANCISCO GOMES"
     ],
     "tse_sequencial": "60002542835"
@@ -33902,8 +33949,7 @@
     "party": "MDB",
     "aliases": [
       "DRA ZUÍLA",
-      "ZUILA ASSUNCAO DA SILVA",
-      "ZUÍLA"
+      "ZUILA ASSUNCAO DA SILVA"
     ],
     "tse_sequencial": "60002542462"
   },
@@ -35048,6 +35094,7 @@
     "role": "Candidato(a) a Deputado Estadual (CE) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "ELIZ",
       "MAYA ELIZ SOUSA LIMA",
       "PROFESSORA MAYA ELIZ"
     ],
@@ -35297,7 +35344,6 @@
     "role": "Candidato(a) a Deputado Federal (CE) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "CERIS",
       "ENFERMEIRA CERIS",
       "FRANCISCA CERISLANDIA PIRES RODRIGUES DE SOUSA"
     ],
@@ -35489,7 +35535,6 @@
     "party": "MDB",
     "aliases": [
       "ENFERMEIRA LILI",
-      "LILI",
       "LILIANE LIMA DA SILVA"
     ],
     "tse_sequencial": "60002542438"
@@ -35573,7 +35618,6 @@
     "party": "NOVO",
     "aliases": [
       "IRMÃO JOAIS",
-      "JOAIS",
       "JOAIS LIMA DE PAULA"
     ],
     "tse_sequencial": "60002538307"
@@ -35776,6 +35820,7 @@
     "party": "NOVO",
     "aliases": [
       "JOAO LUIS ALMEIDA PINHEIRO",
+      "LUÍS",
       "PASTOR JOÃO LUÍS"
     ],
     "tse_sequencial": "60002540342"
@@ -36190,6 +36235,7 @@
     "role": "Candidato(a) a Deputado Estadual (CE) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "NONATO",
       "PASTOR RAIMUNDO NONATO",
       "RAIMUNDO NONATO MACHADO DE LIMA"
     ],
@@ -36247,7 +36293,6 @@
     "role": "Candidato(a) a Deputado Estadual (CE) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "CANTORA",
       "CRISTIANE COLARES MUNIZ",
       "ENFERMEIRA CANTORA"
     ],
@@ -36424,6 +36469,7 @@
     "role": "Candidato(a) a Deputado Distrital (DF) — Eleição 2026",
     "party": "DC",
     "aliases": [
+      "COMUNIDADE",
       "PROFESSOR WILLIAN COMUNIDADE",
       "WILLIAN MARTINS DE SOUZA"
     ],
@@ -36552,7 +36598,8 @@
     "party": "PDT",
     "aliases": [
       "FERNANDO SANTOS SOUSA",
-      "PROFESSOR FERNANDO SOUSA"
+      "PROFESSOR FERNANDO SOUSA",
+      "SOUSA"
     ],
     "tse_sequencial": "70002547151"
   },
@@ -36764,6 +36811,7 @@
     "party": "PODE",
     "aliases": [
       "PAULO ROBERTO SANTOS DA CUNHA",
+      "ROBERTO",
       "SARGENTO PAULO ROBERTO"
     ],
     "tse_sequencial": "70002541278"
@@ -36926,6 +36974,7 @@
     "role": "Candidato(a) a Deputado Distrital (DF) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "CORDEIRO",
       "DACIO CORDEIRO ROCHA",
       "PASTOR DÁCIO CORDEIRO"
     ],
@@ -37150,6 +37199,7 @@
     "party": "PSDB",
     "aliases": [
       "LEIRSON TRIGUEIRO MATOS",
+      "MATOS",
       "PROFESSOR LÉO MATOS"
     ],
     "tse_sequencial": "70002551191"
@@ -37347,7 +37397,6 @@
     "party": "NOVO",
     "aliases": [
       "DR JACINTO",
-      "JACINTO",
       "JACINTO DE SOUSA"
     ],
     "tse_sequencial": "70002531344"
@@ -37418,6 +37467,7 @@
     "role": "Candidato(a) a Deputado Distrital (DF) — Eleição 2026",
     "party": "PSB",
     "aliases": [
+      "DIVO",
       "DOUGLAS APARECIDO DA SILVA GOMES",
       "PROFESSOR DOUGLAS GOMES/O DIVO"
     ],
@@ -37462,6 +37512,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "DELEGADO FERNANDO FERNANDES",
+      "FERNANDES",
       "FERNANDO BATISTA FERNANDES"
     ],
     "tse_sequencial": "70002540822"
@@ -37721,6 +37772,7 @@
     "party": "PSD",
     "aliases": [
       "IVAN CANDIDO DE MORAES",
+      "MORAES",
       "PROFESSOR IVAN MORAES"
     ],
     "tse_sequencial": "70002537383"
@@ -38353,7 +38405,8 @@
     "party": "PL",
     "aliases": [
       "JOÃO RENATO BORGES ABREU",
-      "POLICIAL JOÃO RENATO"
+      "POLICIAL JOÃO RENATO",
+      "RENATO"
     ],
     "tse_sequencial": "70002550012"
   },
@@ -38458,7 +38511,8 @@
     "party": "PSDB",
     "aliases": [
       "GUSTAVO VITORIA SALES",
-      "PROFESSOR GUSTAVO SALLES"
+      "PROFESSOR GUSTAVO SALLES",
+      "SALLES"
     ],
     "tse_sequencial": "70002550981"
   },
@@ -38692,6 +38746,7 @@
     "role": "Candidato(a) a Senador (DF) — Eleição 2026",
     "party": "UP",
     "aliases": [
+      "AMORIM",
       "GUILHERME DE AMORIM LINO",
       "PROFESSOR GUILHERME AMORIM"
     ],
@@ -38784,6 +38839,7 @@
     "role": "Candidato(a) a Deputado Federal (DF) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "PARENTE",
       "PROFESSOR RAFAEL PARENTE",
       "RAFAEL DE CARVALHO PULLEN PARENTE"
     ],
@@ -38912,6 +38968,7 @@
     "role": "Candidato(a) a Governador (DF) — Eleição 2026",
     "party": "UP",
     "aliases": [
+      "MINEIRO",
       "PROFESSORA SAMARA MINEIRO",
       "SAMARA MINEIRO OLIVEIRA"
     ],
@@ -39826,6 +39883,7 @@
     "role": "Candidato(a) a Deputado Distrital (DF) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
+      "DOMINGUES",
       "PROFESSOR ÁLVARO DOMINGUES",
       "ÁLVARO MOREIRA DOMINGUES JÚNIOR"
     ],
@@ -40225,7 +40283,6 @@
     "party": "PSD",
     "aliases": [
       "ENFERMEIRA LIDIA",
-      "LIDIA",
       "LIDIA CAMARA PERES"
     ],
     "tse_sequencial": "70002537377"
@@ -40249,7 +40306,8 @@
     "party": "PODE",
     "aliases": [
       "ADERIVALDO MARTINS CARDOSO",
-      "CAPITÃO ADERIVALDO CARDOSO"
+      "CAPITÃO ADERIVALDO CARDOSO",
+      "CARDOSO"
     ],
     "tse_sequencial": "70002541284"
   },
@@ -40488,6 +40546,7 @@
     "party": "NOVO",
     "aliases": [
       "CORONEL AVIADOR LUIZ GAMA",
+      "GAMA",
       "LUIZ XAVIER GAMA"
     ],
     "tse_sequencial": "70002532007"
@@ -40546,7 +40605,6 @@
     "party": "PSOL",
     "aliases": [
       "ENFERMEIRA KARINE",
-      "KARINE",
       "KARINE RODRIGUES AFONSECA"
     ],
     "tse_sequencial": "70002533382"
@@ -40580,6 +40638,7 @@
     "party": "PODE",
     "aliases": [
       "MAURICIO ALVES DA SILVA",
+      "PARDAL",
       "SARGENTO MAURÍCIO PARDAL"
     ],
     "tse_sequencial": "70002540846"
@@ -40946,6 +41005,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "DELEGADA DOUTORA JANE",
+      "JANE",
       "JANE KLEBIA DO NASCIMENTO SILVA"
     ],
     "tse_sequencial": "70002540813"
@@ -41118,6 +41178,7 @@
     "role": "Candidato(a) a Deputado Distrital (DF) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "AGUIAR",
       "DELEGADO PABLO AGUIAR",
       "PABLO AGUIAR TAVARES DE PAULA GOMES"
     ],
@@ -41208,7 +41269,6 @@
     "role": "Candidato(a) a Deputado Distrital (DF) — Eleição 2026",
     "party": "MOBILIZA",
     "aliases": [
-      "EUDES",
       "EUDES JUDITH MERCES DE OLIVEIRA FELIX",
       "MISSIONÁRIA EUDES"
     ],
@@ -41256,6 +41316,7 @@
     "role": "Candidato(a) a Deputado Distrital (DF) — Eleição 2026",
     "party": "PP",
     "aliases": [
+      "CASTRO",
       "DANIEL DE CASTRO SOUSA",
       "PASTOR DANIEL DE CASTRO"
     ],
@@ -41456,6 +41517,7 @@
     "role": "Candidato(a) a Deputado Federal (DF) — Eleição 2026",
     "party": "MOBILIZA",
     "aliases": [
+      "ALVES",
       "JULIANA ALVES SERPA",
       "PROFESSORA JULIANA ALVES"
     ],
@@ -41468,6 +41530,7 @@
     "party": "DEMOCRATA",
     "aliases": [
       "ANTHONY COUTO",
+      "COUTO",
       "PROFESSOR ANTHONY COUTO"
     ],
     "tse_sequencial": "70002546413"
@@ -41479,6 +41542,7 @@
     "party": "DEMOCRATA",
     "aliases": [
       "JOSE FRANCISCO DE LIMA NETO",
+      "NETO",
       "PASTOR LIMA NETO"
     ],
     "tse_sequencial": "70002546417"
@@ -41679,8 +41743,7 @@
     "party": "DC",
     "aliases": [
       "BISPO WELDON",
-      "WELDO GONÇALVES DA SILVA AMORIM",
-      "WELDON"
+      "WELDO GONÇALVES DA SILVA AMORIM"
     ],
     "tse_sequencial": "70002543439"
   },
@@ -41727,6 +41790,7 @@
     "party": "PSB",
     "aliases": [
       "JÉSSICA DE GOIS MOTTA",
+      "MOTTA",
       "PROFESSORA JÉSSICA MOTTA"
     ],
     "tse_sequencial": "70002542502"
@@ -41795,6 +41859,7 @@
     "party": "PDT",
     "aliases": [
       "FERNANDO MOURA DOS SANTOS",
+      "MOURA",
       "PROFESSOR FERNANDO MOURA"
     ],
     "tse_sequencial": "70002547147"
@@ -41805,7 +41870,6 @@
     "role": "Candidato(a) a Deputado Distrital (DF) — Eleição 2026",
     "party": "PL",
     "aliases": [
-      "CRIS",
       "CRISTIANE GOMES DA COSTA",
       "DRA CRIS"
     ],
@@ -41937,7 +42001,8 @@
     "party": "PSD",
     "aliases": [
       "ANDERSON JOSE DA SILVA TEIXEIRA",
-      "PASTOR ANDERSON SILVA"
+      "PASTOR ANDERSON SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "70002537378"
   },
@@ -42314,6 +42379,7 @@
     "party": "AVANTE",
     "aliases": [
       "ANA LIMA VIANA FILHA",
+      "LIMA",
       "PASTORA ANA LIMA"
     ],
     "tse_sequencial": "70002544466"
@@ -42764,6 +42830,7 @@
     "party": "PSDB",
     "aliases": [
       "DIEGO GOMES CLAUDINO",
+      "GOMES",
       "PROFESSOR DIEGO GOMES"
     ],
     "tse_sequencial": "70002550985"
@@ -43320,6 +43387,7 @@
     "party": "PDT",
     "aliases": [
       "ISMAEL GOUVEIA LOPES DA SILVA",
+      "LOPES",
       "PASTOR ISMAEL LOPES"
     ],
     "tse_sequencial": "70002547159"
@@ -43967,6 +44035,7 @@
     "role": "Candidato(a) a Deputado Estadual (RR) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "MACUXI",
       "PROFESSOR TELMO MACUXI",
       "TELMO RIBEIRO PAULINO"
     ],
@@ -44166,7 +44235,6 @@
     "party": "MDB",
     "aliases": [
       "ENFERMEIRO JOSIMAR",
-      "JOSIMAR",
       "JOSIMAR GOMES RIBEIRO"
     ],
     "tse_sequencial": "230002552748"
@@ -44740,6 +44808,7 @@
     "party": "PDT",
     "aliases": [
       "DIANE MARY DA SILVA VIANA",
+      "MARY",
       "SARGENTO DIANE MARY"
     ],
     "tse_sequencial": "230002552037"
@@ -45160,7 +45229,6 @@
     "party": "MDB",
     "aliases": [
       "DR METON",
-      "METON",
       "METON MELO MACIEL"
     ],
     "tse_sequencial": "230002552760"
@@ -45171,7 +45239,6 @@
     "role": "Candidato(a) a Deputado Estadual (RR) — Eleição 2026",
     "party": "MDB",
     "aliases": [
-      "ALYNELSON",
       "ALYNELSON FARIAS PEREIRA",
       "ENFERMEIRO ALYNELSON"
     ],
@@ -45388,6 +45455,7 @@
     "party": "PL",
     "aliases": [
       "AELTON BENICIO DE SOUZA",
+      "BENÍCIO",
       "PASTOR AELTON BENÍCIO"
     ],
     "tse_sequencial": "230002533362"
@@ -46279,7 +46347,6 @@
     "role": "Candidato(a) a Deputado Federal (RR) — Eleição 2026",
     "party": "MDB",
     "aliases": [
-      "ALESSANDRA",
       "ALESSANDRA SOUZA CAVALCANTE",
       "ENFERMEIRA ALESSANDRA"
     ],
@@ -46552,7 +46619,6 @@
     "party": "PL",
     "aliases": [
       "APÓSTOLO HELTON",
-      "HELTON",
       "HELTON SEBASTIÃO QUEIROZ DE SOUZA"
     ],
     "tse_sequencial": "230002533360"
@@ -46634,7 +46700,8 @@
     "party": "UNIÃO",
     "aliases": [
       "MARIA DE NAZARÉ SODRÉ RAMALHO",
-      "PASTORA NAZARE RAMALHO"
+      "PASTORA NAZARE RAMALHO",
+      "RAMALHO"
     ],
     "tse_sequencial": "230002549337"
   },
@@ -47097,8 +47164,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ENFERMEIRO YURI",
-      "HENNYD YURI CARVALHO DA SILVA",
-      "YURI"
+      "HENNYD YURI CARVALHO DA SILVA"
     ],
     "tse_sequencial": "230002549247"
   },
@@ -47343,6 +47409,7 @@
     "role": "Candidato(a) a Deputado Federal (RR) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "GIRÃO",
       "HELDER GIRÃO BARRETO",
       "JUIZ HELDER GIRÃO"
     ],
@@ -47720,6 +47787,7 @@
     "role": "Candidato(a) a Deputado Estadual (RR) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "LICA",
       "MARIA GORETE LICÁ DE OLIVEIRA",
       "PROFESSORA GORETE LICA"
     ],
@@ -49090,6 +49158,7 @@
     "party": "PSOL",
     "aliases": [
       "DANIELLE DOS SANTOS KROEFF",
+      "KROEFF",
       "PROFESSORA DANI KROEFF"
     ],
     "tse_sequencial": "210002533937"
@@ -49147,7 +49216,8 @@
     "party": "PSD",
     "aliases": [
       "NEUZA MARTINS RUFATTO",
-      "PROFESSORA NEUZA RUFATTO"
+      "PROFESSORA NEUZA RUFATTO",
+      "RUFATTO"
     ],
     "tse_sequencial": "210002540638"
   },
@@ -49241,6 +49311,7 @@
     "role": "Candidato(a) a Deputado Federal (RS) — Eleição 2026",
     "party": "MISSÃO",
     "aliases": [
+      "FURTADO",
       "ORLANDO VIEIRA FURTADO FILHO",
       "PROFESSOR DR ORLANDO FURTADO"
     ],
@@ -50221,6 +50292,7 @@
     "role": "Candidato(a) a Deputado Estadual (RS) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "BRANCHIERI",
       "CLAUDIO MAXIMILIANO BRANCHIERI",
       "PROFESSOR CLÁUDIO BRANCHIERI"
     ],
@@ -50268,6 +50340,7 @@
     "role": "Candidato(a) a Deputado Estadual (RS) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "CORUJA",
       "EVANDRO RODRIGO CORUJA CARDOSO",
       "POLICIAL EVANDRO CORUJA"
     ],
@@ -50302,6 +50375,7 @@
     "role": "Candidato(a) a Deputado Estadual (RS) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "CECHINATO",
       "FERNANDO CECHINATO MACIEL",
       "PROFESSOR FERNANDO CECHINATO"
     ],
@@ -51240,7 +51314,6 @@
     "party": "PSD",
     "aliases": [
       "ENGENHEIRO NILTON",
-      "NILTON",
       "NILTON JOSE SICA MAGALHAES"
     ],
     "tse_sequencial": "210002538551"
@@ -52177,6 +52250,7 @@
     "party": "PSD",
     "aliases": [
       "PASTOR VALMIR RAMOS",
+      "RAMOS",
       "VALMIR RIBAS RAMOS"
     ],
     "tse_sequencial": "210002540646"
@@ -52188,7 +52262,8 @@
     "party": "PSD",
     "aliases": [
       "ANA LUIZA MOURA TAROUCO",
-      "DELEGADA ANA TAROUCO"
+      "DELEGADA ANA TAROUCO",
+      "TAROUCO"
     ],
     "tse_sequencial": "210002540640"
   },
@@ -52358,7 +52433,8 @@
     "party": "NOVO",
     "aliases": [
       "CORONEL MARCO SANTOS",
-      "MARCO ANTONIO MOURA DOS SANTOS"
+      "MARCO ANTONIO MOURA DOS SANTOS",
+      "SANTOS"
     ],
     "tse_sequencial": "210002533003"
   },
@@ -52429,6 +52505,7 @@
     "party": "AVANTE",
     "aliases": [
       "CAPITÃO RODRIGO GOMES",
+      "GOMES",
       "RODRIGO GOMES"
     ],
     "tse_sequencial": "210002544226"
@@ -52451,6 +52528,7 @@
     "role": "Candidato(a) a Deputado Federal (RS) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "BRIZOLA",
       "DOUTORA MEL BRIZOLA",
       "MELISSA RICCIARDI DOS SANTOS GALERY"
     ],
@@ -53009,7 +53087,6 @@
     "party": "NOVO",
     "aliases": [
       "DENTISTA ELISA",
-      "ELISA",
       "ELISA MARIA GIANLUPI"
     ],
     "tse_sequencial": "210002533058"
@@ -53033,6 +53110,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ALESSANDRO NUNES DA COSTA",
+      "COSTA",
       "PROFESSOR ALESSANDRO COSTA"
     ],
     "tse_sequencial": "210002539098"
@@ -54615,6 +54693,7 @@
     "party": "PSB",
     "aliases": [
       "ADILSON KUHN",
+      "KUHN",
       "PROFESSOR ADILSON KUHN"
     ],
     "tse_sequencial": "210002537532"
@@ -55128,7 +55207,6 @@
     "role": "Candidato(a) a Deputado Estadual (RS) — Eleição 2026",
     "party": "PODE",
     "aliases": [
-      "IVANETE",
       "IVANETE RODRIGUES DA ROCHA",
       "MISSIONÁRIA IVANETE"
     ],
@@ -55806,7 +55884,6 @@
     "role": "Candidato(a) a Deputado Federal (RS) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "BIRA",
       "BOMBEIRO BIRA",
       "UBIRAJARA PEREIRA RAMOS"
     ],
@@ -55947,7 +56024,6 @@
     "role": "Candidato(a) a Deputado Estadual (RS) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
-      "FRANCINEIDE",
       "FRANCINEIDE SIMOES DE SOUZA",
       "MÍSSIONARIA FRANCINEIDE"
     ],
@@ -56078,7 +56154,6 @@
     "role": "Candidato(a) a Deputado Estadual (RS) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "BATISTA",
       "BOMBEIRO BATISTA",
       "JOÃO BATISTA PIRES MARTINS"
     ],
@@ -56992,7 +57067,6 @@
     "party": "PODE",
     "aliases": [
       "DR LEVI",
-      "LEVI",
       "LEVI LORENZO MELO"
     ],
     "tse_sequencial": "210002534297"
@@ -58606,6 +58680,7 @@
     "role": "Candidato(a) a Deputado Federal (RS) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "GALVÃO",
       "JEAN MARCOS DE MELO GALVAO",
       "PASTOR JEAN GALVÃO"
     ],
@@ -58723,7 +58798,8 @@
     "party": "PL",
     "aliases": [
       "JANICE QUINZEN WILLRICH",
-      "POLICIAL PENAL JANICE QUINZEN"
+      "POLICIAL PENAL JANICE QUINZEN",
+      "QUINZEN"
     ],
     "tse_sequencial": "210002534663"
   },
@@ -60713,6 +60789,7 @@
     "party": "PODE",
     "aliases": [
       "PROFESSORA SANDRA RAMOS",
+      "RAMOS",
       "SANDRA LIMA DE VASCONCELOS RAMOS"
     ],
     "tse_sequencial": "180002541691"
@@ -60736,7 +60813,8 @@
     "party": "MOBILIZA",
     "aliases": [
       "MAJOR PAULO ROBERTO",
-      "PAULO ROBERTO BEZERRA DE OLIVEIRA"
+      "PAULO ROBERTO BEZERRA DE OLIVEIRA",
+      "ROBERTO"
     ],
     "tse_sequencial": "180002544457"
   },
@@ -60794,6 +60872,7 @@
     "party": "MDB",
     "aliases": [
       "GESSIVALDO ISAIAS DE CARVALHO SILVA",
+      "ISAIAS",
       "PASTOR GESSIVALDO ISAIAS"
     ],
     "tse_sequencial": "180002536229"
@@ -61205,7 +61284,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "DOUTORA ELISVANIA RODRIGUES",
-      "ELISVANIA RODRIGUES DA SILVA"
+      "ELISVANIA RODRIGUES DA SILVA",
+      "RODRIGUES"
     ],
     "tse_sequencial": "180002544102"
   },
@@ -61215,6 +61295,7 @@
     "role": "Candidato(a) a Deputado Federal (PI) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
+      "ABREU",
       "CAPITÃO FABIO ABREU",
       "FABIO ABREU COSTA"
     ],
@@ -61296,6 +61377,7 @@
     "role": "Candidato(a) a Deputado Federal (PI) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "ARAÚJO",
       "JOAO PAULO DA COSTA ARAUJO ALVES",
       "MAJOR COSTA ARAÚJO"
     ],
@@ -61951,7 +62033,6 @@
     "party": "PSD",
     "aliases": [
       "ENFERMEIRA TATIANA",
-      "TATIANA",
       "TATIANA MARIA MELO GUIMARÃES"
     ],
     "tse_sequencial": "180002534814"
@@ -62045,6 +62126,7 @@
     "role": "Candidato(a) a Deputado Federal (PI) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
+      "CARVALHO",
       "PASTORA DIANA CARVALHO",
       "UYARA DIANA CARVALHO CIPRIANO"
     ],
@@ -62748,7 +62830,8 @@
     "party": "PODE",
     "aliases": [
       "CALEBE OLIVEIRA TEMPORAL DE SOUZA",
-      "PROFESSOR CALEBE TEMPORAL"
+      "PROFESSOR CALEBE TEMPORAL",
+      "TEMPORAL"
     ],
     "tse_sequencial": "180002541696"
   },
@@ -62920,7 +63003,6 @@
     "role": "Candidato(a) a Deputado Estadual (PI) — Eleição 2026",
     "party": "PL",
     "aliases": [
-      "FRANCISCA",
       "FRANCISCA MARIA DOS REIS LIMA SOUSA",
       "IRMÃ FRANCISCA"
     ],
@@ -63167,8 +63249,7 @@
     "party": "PSDB",
     "aliases": [
       "ALBINATO VELOSO DA SILVA",
-      "IRMÃO VELOSO",
-      "VELOSO"
+      "IRMÃO VELOSO"
     ],
     "tse_sequencial": "180002548571"
   },
@@ -63250,6 +63331,7 @@
     "role": "Candidato(a) a Deputado Federal (PI) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "AURÉLIO",
       "MARCOS AURELIO DA FONSECA",
       "PROFESSOR MARCOS AURÉLIO"
     ],
@@ -63524,6 +63606,7 @@
     "role": "Candidato(a) a Deputado Federal (PI) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "ANCHIETA",
       "ETNIEL RODRIGUES DO MONTE ANCHIETA",
       "SARGENTO ETNIEL ANCHIETA"
     ],
@@ -63674,6 +63757,7 @@
     "role": "Candidato(a) a Deputado Federal (PI) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "AURÉLIO",
       "MARCOS AURELIO DA FONSECA",
       "PROFESSOR MARCOS AURÉLIO"
     ],
@@ -63961,6 +64045,7 @@
     "party": "PSDB",
     "aliases": [
       "HEID KARLA PEREIRA DE OLIVEIRA",
+      "KARLA",
       "PROFESSORA HEID KARLA"
     ],
     "tse_sequencial": "270002542168"
@@ -64280,6 +64365,7 @@
     "role": "Candidato(a) a Deputado Estadual (TO) — Eleição 2026",
     "party": "PRD",
     "aliases": [
+      "AZEVEDO",
       "BRUNO SOUSA AZEVEDO",
       "DELEGADO BRUNO AZEVEDO"
     ],
@@ -64657,6 +64743,7 @@
     "role": "Candidato(a) a Deputado Federal (TO) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "DOMINGUES",
       "PROFESSORA VALÉRIA DOMINGUES",
       "VALERIA DOMINGUES SOARES"
     ],
@@ -66195,6 +66282,7 @@
     "role": "Candidato(a) a Deputado Estadual (TO) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "BORGES",
       "CLEBER BORGES DE MORAIS",
       "PROFESSOR CLEBER BORGES"
     ],
@@ -66207,8 +66295,7 @@
     "party": "NOVO",
     "aliases": [
       "ENFERMEIRA VANI",
-      "MARIA VANI BRITO SOARES NOGUEIRA",
-      "VANI"
+      "MARIA VANI BRITO SOARES NOGUEIRA"
     ],
     "tse_sequencial": "270002550622"
   },
@@ -67532,7 +67619,6 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ENFERMEIRA REJANE",
-      "REJANE",
       "REJANE ARAUJO DA SILVA"
     ],
     "tse_sequencial": "270002550091"
@@ -67568,7 +67654,8 @@
     "party": "PP",
     "aliases": [
       "JANAD MARQUES DE FREITAS VALCARI",
-      "PROFESSORA JANAD VALCARI"
+      "PROFESSORA JANAD VALCARI",
+      "VALCARI"
     ],
     "tse_sequencial": "270002548403"
   },
@@ -67578,6 +67665,7 @@
     "role": "Candidato(a) a Deputado Federal (TO) — Eleição 2026",
     "party": "PP",
     "aliases": [
+      "BOMBEIRA",
       "DAIANE LIMA",
       "SARGENTO DAIANE BOMBEIRA"
     ],
@@ -67750,7 +67838,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "DELEGADO ASSIS RAMOS",
-      "FRANCISCO DE ASSIS ANDRADE RAMOS"
+      "FRANCISCO DE ASSIS ANDRADE RAMOS",
+      "RAMOS"
     ],
     "tse_sequencial": "100002535493"
   },
@@ -67889,6 +67978,7 @@
     "party": "PCDOB",
     "aliases": [
       "ANTONIO JULIO GOMES PINHEIRO",
+      "PINHEIRO",
       "PROFESSOR JÚLIO PINHEIRO"
     ],
     "tse_sequencial": "100002545260"
@@ -67959,6 +68049,7 @@
     "role": "Candidato(a) a Deputado Estadual (MA) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "HENRIQUE",
       "JOSE MARIO CELIO HENRIQUE CHAGAS",
       "PASTOR CÉLIO HENRIQUE"
     ],
@@ -68042,7 +68133,6 @@
     "party": "PSD",
     "aliases": [
       "DRA VIVIANNE",
-      "VIVIANNE",
       "VIVIANNE MARTINS COELHO E SILVA"
     ],
     "tse_sequencial": "100002550344"
@@ -68442,7 +68532,6 @@
     "role": "Candidato(a) a Deputado Federal (MA) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
-      "ALECIANE",
       "ALECIANE DO NASCIMENTO LOPES",
       "CANTORA ALECIANE"
     ],
@@ -69514,7 +69603,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "MARIA DO SOCORRO ALMEIDA WAQUIM",
-      "PROFESSORA SOCORRO WAQUIM"
+      "PROFESSORA SOCORRO WAQUIM",
+      "WAQUIM"
     ],
     "tse_sequencial": "100002535494"
   },
@@ -71147,7 +71237,6 @@
     "role": "Candidato(a) a Deputado Estadual (MA) — Eleição 2026",
     "party": "PL",
     "aliases": [
-      "ELIZIANE",
       "ELIZIANE DOS SANTOS MENDES",
       "ENFERMEIRA ELIZIANE"
     ],
@@ -71361,6 +71450,7 @@
     "party": "PSD",
     "aliases": [
       "DELEGADO CESAR FERRO",
+      "FERRO",
       "JANIO CESAR FERRO VILELA"
     ],
     "tse_sequencial": "100002550323"
@@ -71702,7 +71792,6 @@
     "party": "PSD",
     "aliases": [
       "DR JOEL",
-      "JOEL",
       "JOEL NICOLAU NOGUEIRA NUNES JUNIOR"
     ],
     "tse_sequencial": "100002544447"
@@ -72203,7 +72292,8 @@
     "party": "NOVO",
     "aliases": [
       "MARIA SILVANA DA SILVA RIBEIRO",
-      "PASTORA SILVANA RIBEIRO"
+      "PASTORA SILVANA RIBEIRO",
+      "RIBEIRO"
     ],
     "tse_sequencial": "100002545691"
   },
@@ -72250,7 +72340,6 @@
     "party": "MDB",
     "aliases": [
       "DRA GISELE",
-      "GISELE",
       "GISELE LIMA BEZERRA"
     ],
     "tse_sequencial": "100002536091"
@@ -73120,7 +73209,8 @@
     "party": "CIDADANIA",
     "aliases": [
       "ANTONIO MARCOS SOUSA DA SILVA",
-      "PASTOR MARCOS SILVA"
+      "PASTOR MARCOS SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "100002548251"
   },
@@ -73131,7 +73221,6 @@
     "party": "PSDB",
     "aliases": [
       "DR GLAUDSON",
-      "GLAUDSON",
       "GLAUDSON DE OLIVEIRA MORAES"
     ],
     "tse_sequencial": "100002548239"
@@ -73143,7 +73232,6 @@
     "party": "PSDB",
     "aliases": [
       "DR ERIK",
-      "ERIK",
       "ERIK AUGUSTO COSTA E SILVA"
     ],
     "tse_sequencial": "100002548234"
@@ -73460,7 +73548,6 @@
     "party": "PSD",
     "aliases": [
       "DR LEOBERTH",
-      "LEOBERTH",
       "LEOBERTH SILVA ARAUJO"
     ],
     "tse_sequencial": "100002544451"
@@ -74250,6 +74337,7 @@
     "party": "NOVO",
     "aliases": [
       "CARLOS LAIRON MORAIS DOS SANTOS",
+      "LAIRON",
       "PROFESSOR CARLOS LAIRON"
     ],
     "tse_sequencial": "100002545715"
@@ -74545,7 +74633,8 @@
     "party": "NOVO",
     "aliases": [
       "DELEGADO HUMBERTO TEÓFILO",
-      "HUMBERTO TEÓFILO DE MENEZES NETO"
+      "HUMBERTO TEÓFILO DE MENEZES NETO",
+      "TEÓFILO"
     ],
     "tse_sequencial": "90002540944"
   },
@@ -74600,7 +74689,6 @@
     "role": "Candidato(a) a Deputado Federal (GO) — Eleição 2026",
     "party": "PDT",
     "aliases": [
-      "LUIZA",
       "LUIZA APARECIDA DA CRUZ",
       "MISSIONÁRIA LUIZA"
     ],
@@ -74648,7 +74736,6 @@
     "role": "Candidato(a) a Deputado Federal (GO) — Eleição 2026",
     "party": "SOLIDARIEDADE",
     "aliases": [
-      "CRISTINA",
       "CRISTINA LOPES AFONSO",
       "DRA CRISTINA"
     ],
@@ -75087,6 +75174,7 @@
     "party": "MDB",
     "aliases": [
       "CAPITÃO WILSON DE OLIVEIRA",
+      "OLIVEIRA",
       "WILSON SILVA DE OLIVEIRA"
     ],
     "tse_sequencial": "90002553738"
@@ -75469,6 +75557,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "PSB",
     "aliases": [
+      "COELHO",
       "JOAO BATISTA COELHO CUNHA",
       "PROFESSOR JOÃO COELHO"
     ],
@@ -75504,6 +75593,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "REDE",
     "aliases": [
+      "CEZAR",
       "JULIO CEZAR SANTOS GRACA",
       "PASTOR JULIO CEZAR"
     ],
@@ -75684,7 +75774,8 @@
     "party": "PODE",
     "aliases": [
       "GIZELLE TELES SIMOES",
-      "PASTORA GIZELLE TELES"
+      "PASTORA GIZELLE TELES",
+      "TELES"
     ],
     "tse_sequencial": "90002552720"
   },
@@ -75695,7 +75786,8 @@
     "party": "UNIÃO",
     "aliases": [
       "CAPITÃO RODOLDO SOUZA",
-      "RODOLFO DE SOUZA SILVA"
+      "RODOLFO DE SOUZA SILVA",
+      "SOUZA"
     ],
     "tse_sequencial": "90002543250"
   },
@@ -76114,6 +76206,7 @@
     "party": "MOBILIZA",
     "aliases": [
       "CLEIDOMAR FERREIRA DOS SANTOS",
+      "ENFERMEIRO",
       "PROFESSOR CLEIDOMAR ENFERMEIRO"
     ],
     "tse_sequencial": "90002543143"
@@ -76159,7 +76252,8 @@
     "party": "PSD",
     "aliases": [
       "CORONEL EDSON RAIADO",
-      "EDSON LUIS SOUZA MELO ROCHA"
+      "EDSON LUIS SOUZA MELO ROCHA",
+      "RAIADO"
     ],
     "tse_sequencial": "90002547115"
   },
@@ -76505,6 +76599,7 @@
     "party": "PRD",
     "aliases": [
       "CARLOS AUGUSTO OZORIO DOURADO",
+      "DOURADO",
       "PROFESSOR CARLOS DOURADO"
     ],
     "tse_sequencial": "90002548677"
@@ -76598,6 +76693,7 @@
     "party": "PL",
     "aliases": [
       "ALEX CORREIA DA SILVA NEPOMOCENO",
+      "NEPOMOCENO",
       "PASTOR ALEX NEPOMOCENO"
     ],
     "tse_sequencial": "90002543776"
@@ -77178,6 +77274,7 @@
     "party": "PSD",
     "aliases": [
       "APARECIDA DE FÁTIMA GAVIOLI SOARES PEREIRA",
+      "GAVIOLI",
       "PROFESSORA FÁTIMA GAVIOLI"
     ],
     "tse_sequencial": "90002543474"
@@ -77377,7 +77474,8 @@
     "party": "MOBILIZA",
     "aliases": [
       "MARIA LUCIA VASCONCELOS",
-      "PROFESSORA LÚCIA VASCONCELOS"
+      "PROFESSORA LÚCIA VASCONCELOS",
+      "VASCONCELOS"
     ],
     "tse_sequencial": "90002543133"
   },
@@ -77504,6 +77602,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "(FEIJÃO)",
       "EDVALDO DE FRANCA MARTINS JUNIOR",
       "SARGENTO MARTINS (FEIJÃO)"
     ],
@@ -77724,6 +77823,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "CARVALHO",
       "LUIZ DO NASCIMENTO CARVALHO",
       "PROFESSOR LUIZ CARVALHO"
     ],
@@ -78563,7 +78663,8 @@
     "party": "PDT",
     "aliases": [
       "JUAREZ PEREIRA",
-      "PASTOR JUAREZ DA SAÚDE"
+      "PASTOR JUAREZ DA SAÚDE",
+      "SAÚDE"
     ],
     "tse_sequencial": "90002550215"
   },
@@ -78966,6 +79067,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
+      "ABADIA",
       "EDNA ABADIA DA SILVA",
       "PASTORA EDNA ABADIA"
     ],
@@ -79025,6 +79127,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "FRANCISCO",
       "MARCIEL FRANCISCO DA SILVA",
       "PASTOR MACIEL FRANCISCO"
     ],
@@ -79534,8 +79637,7 @@
     "party": "REDE",
     "aliases": [
       "MISSIONÁRIA THAMYRES",
-      "TAMIRES CAREN CARNEIRO DE ARAUJO",
-      "THAMYRES"
+      "TAMIRES CAREN CARNEIRO DE ARAUJO"
     ],
     "tse_sequencial": "90002543830"
   },
@@ -79779,6 +79881,7 @@
     "party": "PL",
     "aliases": [
       "POLICIAL FEDERAL SUENDER",
+      "SUENDER",
       "SUENDER TEODORO DA SILVA"
     ],
     "tse_sequencial": "90002542611"
@@ -80204,7 +80307,6 @@
     "party": "MOBILIZA",
     "aliases": [
       "CLAUDEMIR SOCORRO LUDUGERIO",
-      "DANÇARINO",
       "MOTORISTA DANÇARINO"
     ],
     "tse_sequencial": "90002543150"
@@ -80274,6 +80376,7 @@
     "party": "PSD",
     "aliases": [
       "ANA PAULA TEODORO OLIVEIRA",
+      "PAULA",
       "SARGENTO ANA PAULA"
     ],
     "tse_sequencial": "90002547122"
@@ -80438,6 +80541,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "MICHELLA",
       "MICHELLA RODRIGUES PIRES BANDEIRA",
       "TENENTE CORONEL MICHELLA"
     ],
@@ -80531,7 +80635,6 @@
     "party": "DC",
     "aliases": [
       "ENFERMEIRA MICHELLY",
-      "MICHELLY",
       "MICHELLY MARIA ELIAS SILVA"
     ],
     "tse_sequencial": "90002552472"
@@ -80542,6 +80645,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "PCDOB",
     "aliases": [
+      "BRAÚNA",
       "EDINAN LOPES BRAUNA",
       "PROFESSOR EDINAN BRAÚNA"
     ],
@@ -81020,6 +81124,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "JUNIOR",
       "MARCOS JERONIMO DIAS JUNIOR",
       "PROFESSOR MARCOS JUNIOR"
     ],
@@ -81222,6 +81327,7 @@
     "party": "PP",
     "aliases": [
       "ALEX DE ARAUJO MARTINS",
+      "MARTINS",
       "PROFESSOR ALEX MARTINS"
     ],
     "tse_sequencial": "90002543251"
@@ -81268,6 +81374,7 @@
     "role": "Candidato(a) a Deputado Federal (GO) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "HUGO",
       "MAJOR VITOR HUGO",
       "VITOR HUGO DE ARAUJO ALMEIDA"
     ],
@@ -81649,7 +81756,6 @@
     "party": "MOBILIZA",
     "aliases": [
       "MISSIONÁRIA ROSANE",
-      "ROSANE",
       "ROSANE APARECIDA CARLOS MARQUES"
     ],
     "tse_sequencial": "90002543139"
@@ -81709,6 +81815,7 @@
     "party": "UNIÃO",
     "aliases": [
       "CLAYTON FERNANDO DE ARAUJO RESENDE",
+      "FERNANDO",
       "TENENTE CORONEL FERNANDO"
     ],
     "tse_sequencial": "90002547044"
@@ -81906,7 +82013,6 @@
     "party": "AGIR",
     "aliases": [
       "ANTONIO DE ARAUJO DE OLIVEIRA",
-      "ANTÔNIO",
       "IRMÃO ANTÔNIO"
     ],
     "tse_sequencial": "90002543176"
@@ -82095,6 +82201,7 @@
     "role": "Candidato(a) a Deputado Estadual (GO) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "CHRISTIANI",
       "HUGO MENDONÇA CHRISTIANI",
       "MAJOR HUGO CHRISTIANI"
     ],
@@ -82213,6 +82320,7 @@
     "party": "PODE",
     "aliases": [
       "CESAR SALUSTIANO RIBEIRO",
+      "SALUSTIANO",
       "TENENTE CESAR SALUSTIANO"
     ],
     "tse_sequencial": "90002537435"
@@ -82414,6 +82522,7 @@
     "role": "Candidato(a) a Deputado Federal (GO) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "ACCORSI",
       "ADRIANA SAUTHIER ACCORSI",
       "DELEGADA ADRIANA ACCORSI"
     ],
@@ -82764,6 +82873,7 @@
     "party": "PSD",
     "aliases": [
       "ANA PAULA RIBEIRO",
+      "PAULA",
       "TENENTE ANA PAULA"
     ],
     "tse_sequencial": "90002547116"
@@ -82799,7 +82909,8 @@
     "party": "DEMOCRATA",
     "aliases": [
       "ANTONIO DE OLIVEIRA AVILA JUNIOR",
-      "PROFESSOR ANTÔNIO ÁVILA"
+      "PROFESSOR ANTÔNIO ÁVILA",
+      "ÁVILA"
     ],
     "tse_sequencial": "90002543496"
   },
@@ -83597,6 +83708,7 @@
     "party": "PSD",
     "aliases": [
       "ELIO ARMANDO NUNES DE LIMA",
+      "LIMA",
       "PROFESSOR ÉLIO LIMA"
     ],
     "tse_sequencial": "90002543466"
@@ -84439,7 +84551,6 @@
     "party": "REDE",
     "aliases": [
       "IRMÃ MARI",
-      "MARI",
       "RAIMUNDA MARIA SOARES DA SILVA FRANCA"
     ],
     "tse_sequencial": "90002543824"
@@ -84719,6 +84830,7 @@
     "role": "Candidato(a) a Deputado Estadual (MS) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "MODESTO",
       "PROFESSOR RINALDO MODESTO",
       "RINALDO MODESTO DE OLIVEIRA"
     ],
@@ -84860,7 +84972,8 @@
     "party": "MDB",
     "aliases": [
       "GIANE MARTINS TALGATTI",
-      "PROFESSORA GIANE TALGATTI"
+      "PROFESSORA GIANE TALGATTI",
+      "TALGATTI"
     ],
     "tse_sequencial": "120002544711"
   },
@@ -85306,6 +85419,7 @@
     "party": "PP",
     "aliases": [
       "MARCELO FERREIRA MIRANDA",
+      "MIRANDA",
       "PROFESSOR MARCELO MIRANDA"
     ],
     "tse_sequencial": "120002539692"
@@ -85524,6 +85638,7 @@
     "role": "Candidato(a) a Deputado Federal (MS) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "MARA",
       "PROFESSORA RÚBIA MARA",
       "RUBIA MARA LOPES VIEIRA"
     ],
@@ -85971,6 +86086,7 @@
     "party": "DC",
     "aliases": [
       "CLAUDIO DOMINGOS DA SILVA",
+      "DOMINGOS",
       "PASTOR CLÁUDIO DOMINGOS"
     ],
     "tse_sequencial": "120002553248"
@@ -85981,7 +86097,6 @@
     "role": "Candidato(a) a Deputado Estadual (MS) — Eleição 2026",
     "party": "MDB",
     "aliases": [
-      "DANIEL",
       "DANIEL CASTRO LIMA DELBONI",
       "ENFERMEIRO DANIEL"
     ],
@@ -86912,6 +87027,7 @@
     "party": "AVANTE",
     "aliases": [
       "BARBARA CRISTINA FERNANDES RODRIGUES DE MESQUITA",
+      "MESQUITA",
       "PASTORA BARBARA MESQUITA"
     ],
     "tse_sequencial": "120002549567"
@@ -86970,7 +87086,6 @@
     "role": "Candidato(a) a Deputado Estadual (MS) — Eleição 2026",
     "party": "PDT",
     "aliases": [
-      "JANE",
       "JANICE APARECIDA GALHARDO",
       "MISSIONARIA JANE"
     ],
@@ -87315,7 +87430,8 @@
     "party": "PP",
     "aliases": [
       "ANDRÉ MATSUSHITA GONCALVES",
-      "DELEGADO ANDRÉ MATSUSHITA"
+      "DELEGADO ANDRÉ MATSUSHITA",
+      "MATSUSHITA"
     ],
     "tse_sequencial": "120002538792"
   },
@@ -87386,6 +87502,7 @@
     "party": "PT",
     "aliases": [
       "GLEICE JANE BARBOSA",
+      "JANE",
       "PROFESSORA GLEICE JANE"
     ],
     "tse_sequencial": "120002547068"
@@ -87666,7 +87783,6 @@
     "role": "Candidato(a) a Deputado Estadual (MS) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
-      "FRANCISCO",
       "FRANCISCO GONÇALVES DE CARVALHO",
       "VETERINÁRIO FRANCISCO"
     ],
@@ -88154,6 +88270,7 @@
     "party": "DC",
     "aliases": [
       "ADILSON ALVES DE OLIVEIRA",
+      "OLIVEIRA",
       "PASTOR ADILSON OLIVEIRA"
     ],
     "tse_sequencial": "120002553247"
@@ -88534,6 +88651,7 @@
     "role": "Candidato(a) a Deputado Estadual (MS) — Eleição 2026",
     "party": "PRD",
     "aliases": [
+      "ARAUJO",
       "FERNANDA SOUZA ARAUJO",
       "PROFESSORA FERNANDA ARAUJO"
     ],
@@ -88581,7 +88699,6 @@
     "party": "AVANTE",
     "aliases": [
       "DR LUCIANO",
-      "LUCIANO",
       "LUCIANO WAGNER RODRIGUES"
     ],
     "tse_sequencial": "120002549578"
@@ -88778,6 +88895,7 @@
     "party": "PP",
     "aliases": [
       "ANA PAULA CORREIA DA SILVA BACELAR",
+      "PAULA",
       "SARGENTO ANA PAULA"
     ],
     "tse_sequencial": "120002539707"
@@ -90229,7 +90347,8 @@
     "party": "UNIÃO",
     "aliases": [
       "DELEGADA LIA VALECHI",
-      "LIA EUNICE VALECHI DA SILVA"
+      "LIA EUNICE VALECHI DA SILVA",
+      "VALECHI"
     ],
     "tse_sequencial": "130002542723"
   },
@@ -90252,6 +90371,7 @@
     "party": "UNIÃO",
     "aliases": [
       "DELEGADO MARCELO FREITAS",
+      "FREITAS",
       "MARCELO EDUARDO FREITAS"
     ],
     "tse_sequencial": "130002542730"
@@ -90309,6 +90429,7 @@
     "role": "Candidato(a) a Deputado Federal (MG) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "CUNHA",
       "JOSE GERALDO DA CUNHA",
       "PROFESSOR CABO CUNHA"
     ],
@@ -90580,6 +90701,7 @@
     "party": "DEMOCRATA",
     "aliases": [
       "CABO GREGORIO SILVA",
+      "SILVA",
       "THIAGO GREGORIO CEZARIO DA SILVA"
     ],
     "tse_sequencial": "130002533517"
@@ -90790,6 +90912,7 @@
     "party": "PL",
     "aliases": [
       "DELEGADO HELI GRILO",
+      "GRILO",
       "HELI GERALDO DE ANDRADE"
     ],
     "tse_sequencial": "130002542091"
@@ -91763,6 +91886,7 @@
     "party": "AVANTE",
     "aliases": [
       "GERALDO MAGELO AUDRIANO",
+      "MAGELO",
       "PASTOR GERALDO MAGELO"
     ],
     "tse_sequencial": "130002544406"
@@ -91786,7 +91910,8 @@
     "party": "AVANTE",
     "aliases": [
       "DELEGADO  IVAN LOPES",
-      "IVAN JOSÉ LOPES"
+      "IVAN JOSÉ LOPES",
+      "LOPES"
     ],
     "tse_sequencial": "130002544128"
   },
@@ -91911,7 +92036,8 @@
     "party": "MOBILIZA",
     "aliases": [
       "JULIAO DA CONCEICAO RIBEIRO",
-      "PASTOR JULIÃO VIGILANTE"
+      "PASTOR JULIÃO VIGILANTE",
+      "VIGILANTE"
     ],
     "tse_sequencial": "130002552440"
   },
@@ -92717,7 +92843,8 @@
     "party": "PL",
     "aliases": [
       "DELEGADO EDSON MOREIRA",
-      "EDSON MOREIRA DA SILVA"
+      "EDSON MOREIRA DA SILVA",
+      "MOREIRA"
     ],
     "tse_sequencial": "130002542033"
   },
@@ -92752,6 +92879,7 @@
     "party": "PODE",
     "aliases": [
       "DELEGADO RAFAEL FARIA",
+      "FARIA",
       "RAFAEL DE FREITAS FARIA"
     ],
     "tse_sequencial": "130002548804"
@@ -93219,6 +93347,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "CEBOLA",
       "JOAO BATISTA FERREIRA",
       "PROFESSOR BATISTA CEBOLA"
     ],
@@ -93373,7 +93502,8 @@
     "party": "PSOL",
     "aliases": [
       "JANAEL DA SILVA ALVES",
-      "PROFESSOR JANAEL SARGENTO"
+      "PROFESSOR JANAEL SARGENTO",
+      "SARGENTO"
     ],
     "tse_sequencial": "130002539527"
   },
@@ -93658,6 +93788,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "BATISTA",
       "DOUTOR WILSON BATISTA",
       "WILSON ROBERTO BATISTA"
     ],
@@ -93933,6 +94064,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "AGIR",
     "aliases": [
+      "ICH/UFJF",
       "JOVELINO APARECIDO FERREIRA",
       "PASTOR JOVELINO ICH/UFJF"
     ],
@@ -94213,6 +94345,7 @@
     "party": "PODE",
     "aliases": [
       "CABO BORGES GEPAR",
+      "GEPAR",
       "RONIVON BORGES MAIA"
     ],
     "tse_sequencial": "130002548736"
@@ -94493,6 +94626,7 @@
     "role": "Candidato(a) a Governador (MG) — Eleição 2026",
     "party": "PCB",
     "aliases": [
+      "LOPES",
       "PROFESSOR TÚLIO LOPES",
       "TULIO CESAR DIAS LOPES"
     ],
@@ -95665,6 +95799,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "PCB",
     "aliases": [
+      "MARIANO",
       "MARIO MARIANO RUIZ CARDOSO",
       "PROFESSOR MÁRIO MARIANO"
     ],
@@ -95852,6 +95987,7 @@
     "party": "PL",
     "aliases": [
       "IRACI LEMOS BRAGA",
+      "LEMOS",
       "SARGENTO IRACI LEMOS"
     ],
     "tse_sequencial": "130002542070"
@@ -96588,7 +96724,6 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "PSB",
     "aliases": [
-      "ADRIADNA",
       "ARIADNA BORGES MUNIZ",
       "DRA ADRIADNA"
     ],
@@ -97315,6 +97450,7 @@
     "party": "DC",
     "aliases": [
       "JUÍZ RAMON MOREIRA",
+      "MOREIRA",
       "RAMON MOREIRA"
     ],
     "tse_sequencial": "130002551265"
@@ -97913,7 +98049,8 @@
     "party": "PDT",
     "aliases": [
       "ILTON SARAIVA DA SILVA FILHO",
-      "PROFESSOR HILTON SARAIVA"
+      "PROFESSOR HILTON SARAIVA",
+      "SARAIVA"
     ],
     "tse_sequencial": "130002538303"
   },
@@ -99027,6 +99164,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "EVANGELISTA",
       "PROFESSORA VALÉRIA EVANGELISTA",
       "VALERIA EVANGELISTA OLIVEIRA"
     ],
@@ -99141,7 +99279,8 @@
     "party": "PSD",
     "aliases": [
       "CHRISTIANO AUGUSTO XAVIER FERREIRA",
-      "DELEGADO CHRISTIANO XAVIER"
+      "DELEGADO CHRISTIANO XAVIER",
+      "XAVIER"
     ],
     "tse_sequencial": "130002549948"
   },
@@ -99331,6 +99470,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "MESQUITA",
       "PROFESSOR WENDEL MESQUITA",
       "WENDEL CRISTIANO SOARES DE MESQUITA"
     ],
@@ -99448,6 +99588,7 @@
     "party": "PRD",
     "aliases": [
       "ADVOGADO RÔMULO BRASIL",
+      "BRASIL",
       "ROMULO BRASIL DE AVELAR CAMPOS"
     ],
     "tse_sequencial": "130002532931"
@@ -99815,6 +99956,7 @@
     "party": "PODE",
     "aliases": [
       "JULIANO LOPES LOBATO",
+      "LOPES",
       "PROFESSOR JULIANO LOPES"
     ],
     "tse_sequencial": "130002548730"
@@ -101128,7 +101270,8 @@
     "party": "PP",
     "aliases": [
       "LUCIANA DE OLIVEIRA RAMPI",
-      "PROFESSORA LUCIANA RAMPI"
+      "PROFESSORA LUCIANA RAMPI",
+      "RAMPI"
     ],
     "tse_sequencial": "130002542718"
   },
@@ -101454,6 +101597,7 @@
     "party": "PSOL",
     "aliases": [
       "LUCIANA DE SOUZA MATIAS",
+      "MATIAS",
       "PROFESSORA LUCIANA MATIAS"
     ],
     "tse_sequencial": "130002539491"
@@ -101570,7 +101714,8 @@
     "party": "PL",
     "aliases": [
       "PASTOR RINALDO SILVA",
-      "RINALDO DANIEL DA SILVA"
+      "RINALDO DANIEL DA SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "130002542098"
   },
@@ -101976,7 +102121,8 @@
     "party": "PRD",
     "aliases": [
       "DIVINO SOARES PEREIRA",
-      "PASTOR DIVINO PEREIRA"
+      "PASTOR DIVINO PEREIRA",
+      "PEREIRA"
     ],
     "tse_sequencial": "130002532937"
   },
@@ -102105,6 +102251,7 @@
     "party": "NOVO",
     "aliases": [
       "ALIPIO JOSÉ SOUZA SILVA",
+      "POLICARPO",
       "PROFESSOR ALÍPIO POLICARPO"
     ],
     "tse_sequencial": "130002534530"
@@ -102883,7 +103030,8 @@
     "party": "PSD",
     "aliases": [
       "ANTONIO ALEXANDRE FERREIRA DOS SANTOS",
-      "PROFESSOR ALEXANDRE SANTOS"
+      "PROFESSOR ALEXANDRE SANTOS",
+      "SANTOS"
     ],
     "tse_sequencial": "130002545564"
   },
@@ -103072,8 +103220,7 @@
     "party": "PRD",
     "aliases": [
       "ENFERMEIRA ÉRIKA",
-      "ERIKA DE OLIVEIRA SANTOS",
-      "ÉRIKA"
+      "ERIKA DE OLIVEIRA SANTOS"
     ],
     "tse_sequencial": "130002533236"
   },
@@ -105097,6 +105244,7 @@
     "role": "Candidato(a) a Deputado Federal (MG) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "FREIRE",
       "PROFESSOR WESLEY FREIRE",
       "WESLEY DAIMLER FREIRE MARQUES"
     ],
@@ -105179,7 +105327,6 @@
     "role": "Candidato(a) a Deputado Federal (MG) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
-      "MARIA",
       "MARIA RODRIGUES FERNANDES",
       "MISSIONÁRIA MARIA"
     ],
@@ -105789,7 +105936,8 @@
     "party": "PT",
     "aliases": [
       "JOAQUIM FLORISVALDO TEÓFILO",
-      "PROFESSOR JOAQUIM TEÓFILO"
+      "PROFESSOR JOAQUIM TEÓFILO",
+      "TEÓFILO"
     ],
     "tse_sequencial": "130002535311"
   },
@@ -106198,6 +106346,7 @@
     "party": "PV",
     "aliases": [
       "GABRIEL MENDES DE ALMEIDA CARVALHO",
+      "MENDES",
       "PROFESSOR GABRIEL MENDES"
     ],
     "tse_sequencial": "130002535368"
@@ -106337,6 +106486,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
+      "JORDÃO",
       "LIDIA MARIA DE OLIVEIRA JORDAO ROCHA DA CUNHA",
       "PROFESSORA LIDIA JORDÃO"
     ],
@@ -106548,6 +106698,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "ALVARENGA",
       "CABO WAGNER ALVARENGA",
       "WAGNER ALVARENGA SIMOES"
     ],
@@ -106679,7 +106830,8 @@
     "party": "PDT",
     "aliases": [
       "MARIA JOSE ROBERTO PEREIRA",
-      "PASTORA MARIA DO POVO"
+      "PASTORA MARIA DO POVO",
+      "POVO"
     ],
     "tse_sequencial": "130002540060"
   },
@@ -106750,7 +106902,6 @@
     "party": "MDB",
     "aliases": [
       "BISPO RENATO",
-      "RENATO",
       "RENATO PEREIRA DOS SANTOS"
     ],
     "tse_sequencial": "130002550128"
@@ -107306,6 +107457,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "LUCIA",
       "LUCIA MARIA DE FATIMA ALMEIDA COSTA",
       "PROFESSORA TIA LUCIA"
     ],
@@ -107580,6 +107732,7 @@
     "role": "Candidato(a) a Deputado Estadual (MG) — Eleição 2026",
     "party": "MOBILIZA",
     "aliases": [
+      "CALIXTO",
       "EDIMILSON CALIXTO DA SILVA",
       "PASTOR EDIMILSON CALIXTO"
     ],
@@ -107872,6 +108025,7 @@
     "party": "NOVO",
     "aliases": [
       "ABIGAIL DOS PASSOS DE CARVALHO",
+      "CARVALHO",
       "PROFESSORA ABIGAIL CARVALHO"
     ],
     "tse_sequencial": "130002534491"
@@ -107918,6 +108072,7 @@
     "role": "Candidato(a) a Deputado Federal (MG) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "CÉSAR",
       "JÚLIO CÉSAR DE SOUZA",
       "PASTOR JÚLIO CÉSAR"
     ],
@@ -108107,6 +108262,7 @@
     "role": "Candidato(a) a Deputado Federal (MG) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "LADEIRA",
       "MARCIO MACHADO LADEIRA",
       "PROFESSOR MÁRCIO LADEIRA"
     ],
@@ -108416,6 +108572,7 @@
     "party": "PT",
     "aliases": [
       "IARA DE FATIMA PIMENTEL VELOSO",
+      "PIMENTEL",
       "PROFESSORA IARA PIMENTEL"
     ],
     "tse_sequencial": "130002535291"
@@ -109258,7 +109415,6 @@
     "party": "MDB",
     "aliases": [
       "DRA MARTHA",
-      "MARTHA",
       "MARTHA ISABEL ARTETA ALBA"
     ],
     "tse_sequencial": "130002550163"
@@ -109815,7 +109971,8 @@
     "party": "PSDB",
     "aliases": [
       "PROFESSORA ROSY SOARES",
-      "ROSILENE SOARES PEGO"
+      "ROSILENE SOARES PEGO",
+      "SOARES"
     ],
     "tse_sequencial": "130002540611"
   },
@@ -110081,6 +110238,7 @@
     "role": "Candidato(a) a Deputado Federal (MT) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "NEIDE",
       "PROFESSORA ROSA NEIDE",
       "ROSA NEIDE SANDES DE ALMEIDA"
     ],
@@ -110294,6 +110452,7 @@
     "party": "PODE",
     "aliases": [
       "ALLAN KARDEC PINTO ACOSTA BENITEZ",
+      "KARDEC",
       "PROFESSOR ALLAN KARDEC"
     ],
     "tse_sequencial": "110002542634"
@@ -110577,6 +110736,7 @@
     "role": "Candidato(a) a Governador (MT) — Eleição 2026",
     "party": "AGIR",
     "aliases": [
+      "(LAU)",
       "LAUDICERIO AGUIAR MACHADO",
       "SARGENTO LAUDICÉRIO (LAU)"
     ],
@@ -110646,6 +110806,7 @@
     "role": "Candidato(a) a Deputado Federal (MT) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
+      "ANDRADE",
       "ANDREIA SOARES DA SILVA ANDRADE",
       "SARGENTO ANDRÉIA ANDRADE"
     ],
@@ -110961,6 +111122,7 @@
     "role": "Candidato(a) a Deputado Estadual (MT) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
+      "FERREIRA",
       "PASTOR SAMUEL FERREIRA",
       "SAMUEL FERREIRA DOS SANTOS"
     ],
@@ -111161,7 +111323,8 @@
     "party": "REDE",
     "aliases": [
       "ANTONIO DE PADUA SILVA",
-      "PASTOR TONINHO DA SUCATA"
+      "PASTOR TONINHO DA SUCATA",
+      "SUCATA"
     ],
     "tse_sequencial": "110002548620"
   },
@@ -111220,7 +111383,8 @@
     "party": "PODE",
     "aliases": [
       "DELEGADO FRED MURTA",
-      "FERDINANDO FREDERICO MURTA"
+      "FERDINANDO FREDERICO MURTA",
+      "MURTA"
     ],
     "tse_sequencial": "110002540124"
   },
@@ -111511,7 +111675,6 @@
     "role": "Candidato(a) a Deputado Estadual (MT) — Eleição 2026",
     "party": "PL",
     "aliases": [
-      "GEREMIAS",
       "GEREMIAS DA SILVA LIMA",
       "IRMÃO GEREMIAS"
     ],
@@ -111556,6 +111719,7 @@
     "role": "Candidato(a) a Deputado Estadual (MT) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
+      "GUALTERNEY",
       "GUALTERNEY CAMPOS DE MORAIS",
       "PASTOR SARGENTO GUALTERNEY"
     ],
@@ -111615,7 +111779,6 @@
     "role": "Candidato(a) a Deputado Estadual (MT) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
-      "APARECIDO",
       "APARECIDO PAULINO DA SILVA",
       "IRMÃO APARECIDO"
     ],
@@ -112115,6 +112278,7 @@
     "party": "PV",
     "aliases": [
       "KATIA LORRAYNE MORAIS SILVA",
+      "MORAIS",
       "PASTORA KATIA MORAIS"
     ],
     "tse_sequencial": "110002543193"
@@ -112150,6 +112314,7 @@
     "party": "AGIR",
     "aliases": [
       "APARECIDO CLAUDINEI RIBEIRO DOS SANTOS",
+      "RIBEIRO",
       "SARGENTO CLAUDINEI RIBEIRO"
     ],
     "tse_sequencial": "110002553700"
@@ -112459,6 +112624,7 @@
     "role": "Candidato(a) a Senador (MT) — Eleição 2026",
     "party": "AGIR",
     "aliases": [
+      "FERREIRA",
       "NELSON CARLOS FERREIRA JUNIOR",
       "PROFESSOR NELSON FERREIRA"
     ],
@@ -112940,6 +113106,7 @@
     "role": "Candidato(a) a Deputado Estadual (MT) — Eleição 2026",
     "party": "AGIR",
     "aliases": [
+      "ANTONIO",
       "CAPITÃO MARCO ANTONIO",
       "MARCO ANTONIO SOUZA E SILVA"
     ],
@@ -113307,6 +113474,7 @@
     "role": "Candidato(a) a Deputado Federal (MT) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "GOMES",
       "JERONIMO GOMES DE SOUZA",
       "PASTOR JERONIMO GOMES"
     ],
@@ -113567,8 +113735,7 @@
     "party": "PDT",
     "aliases": [
       "DR PABLO",
-      "ORCILON DUARTE ALVES",
-      "PABLO"
+      "ORCILON DUARTE ALVES"
     ],
     "tse_sequencial": "110002549773"
   },
@@ -113707,7 +113874,8 @@
     "party": "AGIR",
     "aliases": [
       "CABO LUÍS ROBERTO",
-      "LUIS ROBERTO DE SOUZA"
+      "LUIS ROBERTO DE SOUZA",
+      "ROBERTO"
     ],
     "tse_sequencial": "110002551939"
   },
@@ -113718,7 +113886,8 @@
     "party": "PODE",
     "aliases": [
       "MARCOS ROBERTO LESSA RITELA",
-      "PASTOR MARCOS RITELA"
+      "PASTOR MARCOS RITELA",
+      "RITELA"
     ],
     "tse_sequencial": "110002540129"
   },
@@ -113932,7 +114101,6 @@
     "party": "PSDB",
     "aliases": [
       "DR ODENILSON",
-      "ODENILSON",
       "ODENILSON JOSE DA SILVA"
     ],
     "tse_sequencial": "110002541756"
@@ -114413,7 +114581,8 @@
     "party": "PSDB",
     "aliases": [
       "AGNALDO PEREIRA DE SOUZA",
-      "CORONEL AGNALDO PEREIRA"
+      "CORONEL AGNALDO PEREIRA",
+      "PEREIRA"
     ],
     "tse_sequencial": "110002541759"
   },
@@ -115090,7 +115259,6 @@
     "role": "Candidato(a) a Deputado Federal (PE) — Eleição 2026",
     "party": "PL",
     "aliases": [
-      "ISLAYNE",
       "ISLAYNE SILVA OLIVEIRA",
       "MISSIONARIA ISLAYNE"
     ],
@@ -115259,7 +115427,8 @@
     "party": "NOVO",
     "aliases": [
       "ANTONIO FERREIRA ROSA JÚNIOR",
-      "PROFESSOR ANTÔNIO ROSA"
+      "PROFESSOR ANTÔNIO ROSA",
+      "ROSA"
     ],
     "tse_sequencial": "170002530334"
   },
@@ -115520,6 +115689,7 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
+      "GALVÃO",
       "LEONARDO DE LIMA GALVÃO",
       "PASTOR LEONARDO GALVÃO"
     ],
@@ -115874,6 +116044,7 @@
     "party": "PP",
     "aliases": [
       "CLEITON GONÇALVES DA SILVA",
+      "COLLINS",
       "PASTOR CLEITON COLLINS"
     ],
     "tse_sequencial": "170002543722"
@@ -115897,7 +116068,6 @@
     "party": "PP",
     "aliases": [
       "IRMÃ ROSELMA",
-      "ROSELMA",
       "ROSELMA MARIA DA SILVA"
     ],
     "tse_sequencial": "170002543730"
@@ -115908,6 +116078,7 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "CAETANO",
       "IVETE CAETANO DE OLIVEIRA",
       "PROFESSORA IVETE CAETANO"
     ],
@@ -116167,7 +116338,6 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "IOLANDA",
       "IOLANDA MARIA DA SILVA",
       "IRMÃ IOLANDA"
     ],
@@ -116190,6 +116360,7 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
+      "FELIX",
       "GIUSEPPE FABIANNI FELIX DA SILVA",
       "PASTOR FABIANNI FELIX"
     ],
@@ -116896,6 +117067,7 @@
     "party": "NOVO",
     "aliases": [
       "ALISSON AURÉLIO MADEIRO",
+      "MADEIRO",
       "PROFESSOR ALISSON MADEIRO"
     ],
     "tse_sequencial": "170002532012"
@@ -116906,6 +117078,7 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
+      "ALVES",
       "CABO DANI ALVES",
       "DANIELLY ALVES DOS MARTIRES"
     ],
@@ -117069,6 +117242,7 @@
     "party": "PL",
     "aliases": [
       "EDSON FERREIRA DA SILVA JÚNIOR",
+      "JÚNIOR",
       "SARGENTO EDSON JÚNIOR"
     ],
     "tse_sequencial": "170002539480"
@@ -117527,6 +117701,7 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "REDE",
     "aliases": [
+      "LEAL",
       "PROFESSORA THAYNAH LEAL",
       "THAYNAH LEAL SIMAS"
     ],
@@ -117749,6 +117924,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "PASTOR CABRAL SILVA",
+      "SILVA",
       "WAGNER CABRAL DA SILVA"
     ],
     "tse_sequencial": "170002532390"
@@ -117937,6 +118113,7 @@
     "role": "Candidato(a) a Deputado Federal (PE) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "CAETANO",
       "JADSON CAETANO DA SILVA",
       "PROFESSOR JADSON CAETANO"
     ],
@@ -118053,7 +118230,8 @@
     "party": "PL",
     "aliases": [
       "CORONEL FABIO MENEZES",
-      "FABIO DOS SANTOS MENEZES"
+      "FABIO DOS SANTOS MENEZES",
+      "MENEZES"
     ],
     "tse_sequencial": "170002539163"
   },
@@ -118476,8 +118654,7 @@
     "party": "NOVO",
     "aliases": [
       "IRMÃO NADO",
-      "LINDINALDO TOMÉ DE LIMA",
-      "NADO"
+      "LINDINALDO TOMÉ DE LIMA"
     ],
     "tse_sequencial": "170002532286"
   },
@@ -118535,6 +118712,7 @@
     "party": "MDB",
     "aliases": [
       "ANDRE JOSE DE OLIVEIRA",
+      "OLIVEIRA",
       "PASTOR ANDRÉ OLIVEIRA"
     ],
     "tse_sequencial": "170002535822"
@@ -118805,7 +118983,6 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "PSB",
     "aliases": [
-      "LALA",
       "MARIA JOSÉ SILVA DE ANDRADE",
       "MISSIONÁRIA LALA"
     ],
@@ -118914,7 +119091,6 @@
     "party": "PSD",
     "aliases": [
       "IRMÃ JUNINHA",
-      "JUNINHA",
       "VALDETE DE SOUZA SANTANA BARROS"
     ],
     "tse_sequencial": "170002540362"
@@ -119149,6 +119325,7 @@
     "role": "Candidato(a) a Senador (PE) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
+      "COSTA",
       "GILVAN OLIVEIRA COSTA",
       "PASTOR GILVAN COSTA"
     ],
@@ -119292,8 +119469,7 @@
     "party": "PSDB",
     "aliases": [
       "ANTONIO MAURO DA COSTA",
-      "DR MAURO",
-      "MAURO"
+      "DR MAURO"
     ],
     "tse_sequencial": "170002552554"
   },
@@ -119364,8 +119540,7 @@
     "party": "PSDB",
     "aliases": [
       "DR MARQUINHOS",
-      "MARCOS ANTONIO PEIXOTO DE SIQUEIRA FILHO",
-      "MARQUINHOS"
+      "MARCOS ANTONIO PEIXOTO DE SIQUEIRA FILHO"
     ],
     "tse_sequencial": "170002552545"
   },
@@ -119435,6 +119610,7 @@
     "party": "AVANTE",
     "aliases": [
       "ALYNE ANNE SOARES DE OLIVEIRA",
+      "ANNE",
       "POLICIAL ALYNE ANNE"
     ],
     "tse_sequencial": "170002538976"
@@ -119529,7 +119705,8 @@
     "party": "NOVO",
     "aliases": [
       "ISLA MARIA SOARES DE SOUSA",
-      "PROFESSORA ISLA SOARES"
+      "PROFESSORA ISLA SOARES",
+      "SOARES"
     ],
     "tse_sequencial": "170002530335"
   },
@@ -119823,7 +120000,6 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "PL",
     "aliases": [
-      "FABINHO",
       "FÁBIO JOSÉ DA SILVA",
       "IRMÃO FABINHO"
     ],
@@ -119919,7 +120095,6 @@
     "party": "MDB",
     "aliases": [
       "IRMÃ JAILZA",
-      "JAILZA",
       "JAILZA CHRISTINE SILVA REIS"
     ],
     "tse_sequencial": "170002535824"
@@ -120092,7 +120267,6 @@
     "party": "PP",
     "aliases": [
       "IRMÃ ROSE",
-      "ROSE",
       "ROSIMERE DOS SANTOS QUIRINO OLIVEIRA"
     ],
     "tse_sequencial": "170002543741"
@@ -120562,7 +120736,6 @@
     "role": "Candidato(a) a Deputado Federal (PE) — Eleição 2026",
     "party": "MISSÃO",
     "aliases": [
-      "FERNANDO",
       "IRMÃO FERNANDO",
       "JOSE FERNANDO GOMES"
     ],
@@ -120917,7 +121090,8 @@
     "party": "NOVO",
     "aliases": [
       "JUIZ LUIZ ROCHA",
-      "LUIZ GOMES DA ROCHA NETO"
+      "LUIZ GOMES DA ROCHA NETO",
+      "ROCHA"
     ],
     "tse_sequencial": "170002530105"
   },
@@ -121177,7 +121351,8 @@
     "party": "NOVO",
     "aliases": [
       "ICARO VINICIUS DA SILVA TABOSA",
-      "PASTOR ÍCARO TABOSA"
+      "PASTOR ÍCARO TABOSA",
+      "TABOSA"
     ],
     "tse_sequencial": "170002532277"
   },
@@ -121319,6 +121494,7 @@
     "party": "MDB",
     "aliases": [
       "DELEGADA NATASHA DOLCI",
+      "DOLCI",
       "NATASHA DOLCI"
     ],
     "tse_sequencial": "170002535805"
@@ -121449,6 +121625,7 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "MOBILIZA",
     "aliases": [
+      "EDUARDO",
       "LUIZ EDUARDO DE OLIVEIRA",
       "PASTOR LUIZ EDUARDO"
     ],
@@ -121460,6 +121637,7 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "MOBILIZA",
     "aliases": [
+      "OTAVIO",
       "PASTOR RODRIGO OTAVIO",
       "RODRIGO OTAVIO DE ARAUJO"
     ],
@@ -121637,7 +121815,8 @@
     "party": "PV",
     "aliases": [
       "MARIA ZÉLIA DE SANTANA",
-      "PROFESSORA ZÉLIA SANTANA"
+      "PROFESSORA ZÉLIA SANTANA",
+      "SANTANA"
     ],
     "tse_sequencial": "170002533334"
   },
@@ -121768,6 +121947,7 @@
     "party": "PSD",
     "aliases": [
       "ANA LÚCIA BARBOSA DOS SANTOS PAES DE SOUZA",
+      "LÚCIA",
       "PROFESSORA ANA LÚCIA"
     ],
     "tse_sequencial": "170002540364"
@@ -122385,6 +122565,7 @@
     "role": "Candidato(a) a Governador (PE) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
+      "BANCO",
       "JEREMIAS COSMO SILVA DOS SANTOS",
       "PROFESSOR JEREMIAS DO BANCO"
     ],
@@ -122692,7 +122873,8 @@
     "party": "PP",
     "aliases": [
       "JOSE IVANILDO DE MOURA JÚNIOR",
-      "PASTOR JÚNIOR TÉRCIO"
+      "PASTOR JÚNIOR TÉRCIO",
+      "TÉRCIO"
     ],
     "tse_sequencial": "170002543737"
   },
@@ -123237,6 +123419,7 @@
     "party": "PODE",
     "aliases": [
       "CORONEL PAULO MATOS",
+      "MATOS",
       "PAULO FERNANDO ANDRADE MATOS"
     ],
     "tse_sequencial": "170002534912"
@@ -123727,6 +123910,7 @@
     "party": "NOVO",
     "aliases": [
       "ESDRAS NOBERTO DA SILVA",
+      "NOBERTO",
       "PASTOR ESDRAS NOBERTO"
     ],
     "tse_sequencial": "170002532308"
@@ -123976,7 +124160,8 @@
     "party": "PV",
     "aliases": [
       "JOSÉ FERNANDO SANTOS DE SOUZA",
-      "JUIZ FERNANDO SANTOS"
+      "JUIZ FERNANDO SANTOS",
+      "SANTOS"
     ],
     "tse_sequencial": "170002533331"
   },
@@ -124575,6 +124760,7 @@
     "role": "Candidato(a) a Deputado Federal (PE) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "GALVÃO",
       "JERÔNIMO ADELINO PEREIRA CISNEIROS GALVÃO",
       "PROFESSOR JERÔNIMO GALVÃO"
     ],
@@ -124910,6 +125096,7 @@
     "party": "NOVO",
     "aliases": [
       "DELEGADO VICTOR LEITE",
+      "LEITE",
       "VICTOR LEITE MORAES"
     ],
     "tse_sequencial": "170002532321"
@@ -124992,6 +125179,7 @@
     "party": "NOVO",
     "aliases": [
       "DELEGADA TEREZA NOGUEIRA",
+      "NOGUEIRA",
       "TEREZA MARIA BARBOSA NOGUEIRA"
     ],
     "tse_sequencial": "170002532311"
@@ -125050,6 +125238,7 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "JORGE",
       "JORGE ANTONIO MACIEL",
       "PASTOR CAPELAO JORGE"
     ],
@@ -125095,6 +125284,7 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "ARAGÃO",
       "CORONEL RENATO ARAGÃO",
       "RENATO PINTO ARAGÃO"
     ],
@@ -125153,7 +125343,6 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "PODE",
     "aliases": [
-      "CLEBER",
       "CLEBER ALVES DO NASCIMENTO",
       "DR CLEBER"
     ],
@@ -125483,7 +125672,6 @@
     "role": "Candidato(a) a Deputado Estadual (PE) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
-      "CLAUDIA",
       "CLAUDIA MARIA DA COSTA",
       "IRMÃ CLAUDIA"
     ],
@@ -125532,6 +125720,7 @@
     "party": "PSD",
     "aliases": [
       "DELEGADO ROMERO LEAL",
+      "LEAL",
       "ROMERO LEAL FERREIRA"
     ],
     "tse_sequencial": "170002540388"
@@ -125626,6 +125815,7 @@
     "party": "SOLIDARIEDADE",
     "aliases": [
       "HILDEBERTO ALVES DA SILVA JUNIOR",
+      "JÚNIOR",
       "PASTOR HILDEBERTO JÚNIOR"
     ],
     "tse_sequencial": "170002553603"
@@ -126600,6 +126790,7 @@
     "role": "Candidato(a) a Deputado Estadual (PB) — Eleição 2026",
     "party": "REDE",
     "aliases": [
+      "GARRINCHA",
       "IVALDO FRANCISCO MARTINS",
       "SARGENTO IVALDO GARRINCHA"
     ],
@@ -127155,7 +127346,8 @@
     "party": "PL",
     "aliases": [
       "CABO GILBERTO SILVA",
-      "GILBERTO GOMES DA SILVA"
+      "GILBERTO GOMES DA SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "150002538457"
   },
@@ -127201,6 +127393,7 @@
     "role": "Candidato(a) a Deputado Federal (PB) — Eleição 2026",
     "party": "PSB",
     "aliases": [
+      "COBRA",
       "SARGENTO WELLINGTON COBRA",
       "WELLINGTON SILVA BARBOSA"
     ],
@@ -127791,6 +127984,7 @@
     "party": "PL",
     "aliases": [
       "JOSIAS MENDES DE OLIVEIRA",
+      "MENDES",
       "PROFESSOR JOSIAS MENDES"
     ],
     "tse_sequencial": "150002541203"
@@ -127918,6 +128112,7 @@
     "party": "PT",
     "aliases": [
       "EDILEUDO DE LUCENA MEDEIROS",
+      "LUCENA",
       "PROFESSOR EDILEUDO LUCENA"
     ],
     "tse_sequencial": "150002544160"
@@ -128986,6 +129181,7 @@
     "role": "Candidato(a) a Deputado Estadual (PB) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "ANDRADE",
       "ANTONIO RONISMAR DE ANDRADE",
       "PROFESSOR RONI ANDRADE"
     ],
@@ -129543,6 +129739,7 @@
     "role": "Candidato(a) a Deputado Federal (PB) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "FONSECA",
       "LEILA DE CASSIA TAVARES",
       "PROFESSORA LEILA FONSECA"
     ],
@@ -129909,6 +130106,7 @@
     "role": "Candidato(a) a Deputado Estadual (PB) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "ARAUJO",
       "SARGENTO SÉRGIO ARAUJO",
       "SERGIO RICARDO GOMES DE ARAUJO"
     ],
@@ -130293,7 +130491,6 @@
     "party": "PL",
     "aliases": [
       "ENGENHEIRO JOAB",
-      "JOAB",
       "JOAB ALMEIDA CALIXTO"
     ],
     "tse_sequencial": "150002541199"
@@ -130396,6 +130593,7 @@
     "party": "PSB",
     "aliases": [
       "TENENTE CORONEL VIVIANE",
+      "VIVIANE",
       "VIVIANE VIEIRA DE SOUSA"
     ],
     "tse_sequencial": "150002544661"
@@ -130704,7 +130902,8 @@
     "party": "MDB",
     "aliases": [
       "PROFESSORA SANDRA SOETHE",
-      "SANDRA APARECIDA KOGELISKI SOETHE"
+      "SANDRA APARECIDA KOGELISKI SOETHE",
+      "SOETHE"
     ],
     "tse_sequencial": "160002547677"
   },
@@ -131281,6 +131480,7 @@
     "party": "PL",
     "aliases": [
       "JENIFER LIMA",
+      "LIMA",
       "PROFESSORA JENIFER LIMA"
     ],
     "tse_sequencial": "160002547623"
@@ -131292,6 +131492,7 @@
     "party": "PL",
     "aliases": [
       "DELEGADA TATHIANA GUZELLA",
+      "GUZELLA",
       "TATHIANA LAIZ GUZELLA"
     ],
     "tse_sequencial": "160002547648"
@@ -131407,6 +131608,7 @@
     "role": "Candidato(a) a Deputado Estadual (PR) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "BASTOS",
       "MAURICIO BASTOS",
       "PROFESSOR MAURICIO BASTOS"
     ],
@@ -131515,8 +131717,7 @@
     "party": "PT",
     "aliases": [
       "DR ROSINHA",
-      "FLORISVALDO FIER",
-      "ROSINHA"
+      "FLORISVALDO FIER"
     ],
     "tse_sequencial": "160002547658"
   },
@@ -131705,7 +131906,6 @@
     "party": "PRD",
     "aliases": [
       "DR NASSIB",
-      "NASSIB",
       "NASSIB KASSEM HAMMAD"
     ],
     "tse_sequencial": "160002553362"
@@ -131836,6 +132036,7 @@
     "role": "Candidato(a) a Deputado Federal (PR) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "GUERREIRO",
       "SARGENTO TÂNIA GUERREIRO",
       "TANIA MARA ABRAO GUERREIRO"
     ],
@@ -132026,6 +132227,7 @@
     "role": "Candidato(a) a Deputado Federal (PR) — Eleição 2026",
     "party": "PSB",
     "aliases": [
+      "GONÇALVES",
       "MARLI DIAS GONÇALVES",
       "PROFESSORA MARLI GONÇALVES"
     ],
@@ -132347,6 +132549,7 @@
     "role": "Candidato(a) a Deputado Estadual (PR) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "AUGUSTO",
       "CABO CESAR AUGUSTO",
       "CESAR AUGUSTO DE OLIVEIRA"
     ],
@@ -132554,6 +132757,7 @@
     "role": "Candidato(a) a Deputado Estadual (PR) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
+      "ACAMPAMENTO",
       "CABO LUZ DO ACAMPAMENTO",
       "MARCOS DE OLIVEIRA LUZ"
     ],
@@ -132908,6 +133112,7 @@
     "role": "Candidato(a) a Deputado Estadual (PR) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "JAMILK",
       "PABLO JAMILK FLORES",
       "PROFESSOR PABLO JAMILK"
     ],
@@ -133230,7 +133435,6 @@
     "party": "NOVO",
     "aliases": [
       "DR MAGNO",
-      "MAGNO",
       "MAGNO ZANELLATO"
     ],
     "tse_sequencial": "160002542301"
@@ -133490,7 +133694,8 @@
     "party": "PL",
     "aliases": [
       "DELEGADO TITO XERIFÃO",
-      "TITO LIVIO BARICHELLO"
+      "TITO LIVIO BARICHELLO",
+      "XERIFÃO"
     ],
     "tse_sequencial": "160002547591"
   },
@@ -133520,6 +133725,7 @@
     "role": "Candidato(a) a Deputado Federal (PR) — Eleição 2026",
     "party": "PSB",
     "aliases": [
+      "AGUERA",
       "GUSTAVO HENRIQUE APOLONI AGUERA",
       "PROFESSOR GUSTAVO AGUERA"
     ],
@@ -134754,7 +134960,6 @@
     "party": "NOVO",
     "aliases": [
       "DRA DRIELLI",
-      "DRIELLI",
       "DRIELLI DE SOUZA"
     ],
     "tse_sequencial": "160002542305"
@@ -134975,6 +135180,7 @@
     "role": "Candidato(a) a Deputado Federal (PR) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "EZEQUIEL",
       "EZEQUIEL MARCOS FERREIRA BUENO",
       "SOLDADO PASTOR EZEQUIEL"
     ],
@@ -135184,6 +135390,7 @@
     "party": "PDT",
     "aliases": [
       "ANA LUCIA RODRIGUES",
+      "LÚCIA",
       "PROFESSORA ANA LÚCIA"
     ],
     "tse_sequencial": "160002541989"
@@ -135819,6 +136026,7 @@
     "role": "Candidato(a) a Deputado Estadual (PR) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "BERNARDES",
       "MARIA INEZ BERNARDES",
       "PROFESSORA INÊZ BERNARDES"
     ],
@@ -135983,6 +136191,7 @@
     "party": "PSD",
     "aliases": [
       "ADRIANO JOSÉ DA SILVA",
+      "JOSÉ",
       "SOLDADO ADRIANO JOSÉ"
     ],
     "tse_sequencial": "160002546822"
@@ -136006,7 +136215,6 @@
     "party": "DEMOCRATA",
     "aliases": [
       "ENFERMEIRA MARISLEIDY",
-      "MARISLEIDY",
       "MARISLEIDY APARECIDA FERREIRA RAMA"
     ],
     "tse_sequencial": "160002553675"
@@ -136018,6 +136226,7 @@
     "party": "DEMOCRATA",
     "aliases": [
       "JUREMA BARBOSA PINTO LEYSEN",
+      "LEYSEN",
       "PROFESSORA JUREMA LEYSEN"
     ],
     "tse_sequencial": "160002553670"
@@ -136757,7 +136966,6 @@
     "party": "MDB",
     "aliases": [
       "DR KOSMOS",
-      "KOSMOS",
       "KOSMOS PANAYOTIS NICOLAOU"
     ],
     "tse_sequencial": "160002547700"
@@ -137072,7 +137280,8 @@
     "party": "UNIÃO",
     "aliases": [
       "AMIR ROBERTO SALMEN",
-      "DELEGADO AMIR SALMEN"
+      "DELEGADO AMIR SALMEN",
+      "SALMEN"
     ],
     "tse_sequencial": "160002533480"
   },
@@ -137584,6 +137793,7 @@
     "role": "Candidato(a) a Deputado Federal (PR) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
+      "SANTOS",
       "SARGENTO DOS SANTOS",
       "THYAGO ROLAO DOS SANTOS"
     ],
@@ -137855,6 +138065,7 @@
     "party": "PODE",
     "aliases": [
       "DELEGADO GUILHERME DIAS",
+      "DIAS",
       "GUILHERME LUIZ DIAS"
     ],
     "tse_sequencial": "160002546898"
@@ -138072,7 +138283,6 @@
     "party": "MDB",
     "aliases": [
       "DRA PATRICIA",
-      "PATRICIA",
       "PATRICIA LUCIANE SANTOS DE LIMA"
     ],
     "tse_sequencial": "160002540804"
@@ -138485,7 +138695,8 @@
     "party": "UNIÃO",
     "aliases": [
       "DELEGADO EDGAR SANTANA",
-      "EDGAR DIAS SANTANA"
+      "EDGAR DIAS SANTANA",
+      "SANTANA"
     ],
     "tse_sequencial": "160002533492"
   },
@@ -138603,8 +138814,7 @@
     "party": "PODE",
     "aliases": [
       "CANTOR KALEBE",
-      "JOAO CALEBE DE OLIVEIRA RODRIGUES",
-      "KALEBE"
+      "JOAO CALEBE DE OLIVEIRA RODRIGUES"
     ],
     "tse_sequencial": "160002547507"
   },
@@ -138843,6 +139053,7 @@
     "party": "DEMOCRATA",
     "aliases": [
       "JUREMA BARBOSA PINTO LEYSEN",
+      "LEYSEN",
       "PROFESSORA JUREMA LEYSEN"
     ],
     "tse_sequencial": "160002553961"
@@ -138926,6 +139137,7 @@
     "party": "SOLIDARIEDADE",
     "aliases": [
       "ANGELA GARCIA",
+      "GARCIA",
       "PROFESSORA ANGELA GARCIA"
     ],
     "tse_sequencial": "160002553357"
@@ -139196,6 +139408,7 @@
     "party": "PSD",
     "aliases": [
       "CABO NILSON FERREIRA",
+      "FERREIRA",
       "NILSON FERREIRA"
     ],
     "tse_sequencial": "160002542339"
@@ -139413,7 +139626,6 @@
     "party": "PSB",
     "aliases": [
       "DR HAROLDO",
-      "HAROLDO",
       "HAROLDO RODRIGUES FERREIRA"
     ],
     "tse_sequencial": "160002532617"
@@ -140036,6 +140248,7 @@
     "role": "Candidato(a) a Deputado Estadual (PR) — Eleição 2026",
     "party": "MOBILIZA",
     "aliases": [
+      "GUILHEN",
       "ODAIR GUILHEN",
       "PROFESSOR ODAIR GUILHEN"
     ],
@@ -140155,7 +140368,6 @@
     "role": "Candidato(a) a Deputado Estadual (PR) — Eleição 2026",
     "party": "PL",
     "aliases": [
-      "BATISTA",
       "DR BATISTA",
       "MANOEL BATISTA DA SILVA JUNIOR"
     ],
@@ -140309,7 +140521,8 @@
     "party": "PDT",
     "aliases": [
       "GRASIELY TEIXEIRA DE MELLO TAKANO",
-      "PROFESSORA GRASY TAKANO"
+      "PROFESSORA GRASY TAKANO",
+      "TAKANO"
     ],
     "tse_sequencial": "160002546858"
   },
@@ -140565,6 +140778,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "CARLOS EDUARDO NERES LOURENCO",
+      "EDUARDO",
       "PASTOR CARLOS EDUARDO"
     ],
     "tse_sequencial": "160002540763"
@@ -140706,6 +140920,7 @@
     "role": "Candidato(a) a Deputado Federal (PR) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "ALAMINO",
       "DELEGADO FEDERAL ALAMINO",
       "VAGNER DE MORAES ALAMINO"
     ],
@@ -140718,7 +140933,8 @@
     "party": "PT",
     "aliases": [
       "JULIO CESAR DE PAULA RODRIGUES",
-      "PROFESSOR JULIO RODRIGUES"
+      "PROFESSOR JULIO RODRIGUES",
+      "RODRIGUES"
     ],
     "tse_sequencial": "160002536500"
   },
@@ -141457,7 +141673,6 @@
     "party": "NOVO",
     "aliases": [
       "ENFERMEIRO VALDOMIRO",
-      "VALDOMIRO",
       "VALDOMIRO RODRIGUES DE LIMA"
     ],
     "tse_sequencial": "160002542359"
@@ -141620,6 +141835,7 @@
     "party": "PP",
     "aliases": [
       "DOUTORA LOUISE LIMA",
+      "LIMA",
       "LOUISE PAULA DE LIMA CELESTE"
     ],
     "tse_sequencial": "160002533455"
@@ -141642,7 +141858,8 @@
     "party": "MOBILIZA",
     "aliases": [
       "FRANCISCO JOSE DE SOUZA",
-      "PROFESSOR CHICO SOUZA"
+      "PROFESSOR CHICO SOUZA",
+      "SOUZA"
     ],
     "tse_sequencial": "160002549513"
   },
@@ -141687,7 +141904,6 @@
     "party": "PODE",
     "aliases": [
       "DR MAICOL",
-      "MAICOL",
       "MAICOL GEISON CALLEGARI RODRIGUES BARBOSA"
     ],
     "tse_sequencial": "160002547510"
@@ -142023,6 +142239,7 @@
     "role": "Candidato(a) a Deputado Estadual (PR) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "MIRANDA",
       "PROFESSORA SANDRA MIRANDA",
       "SANDRA ALVES DE MIRANDA"
     ],
@@ -142068,6 +142285,7 @@
     "role": "Candidato(a) a Deputado Estadual (PR) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "ARCHANJO",
       "GLORIA SANTANA ARCANJO",
       "PASTORA GLORIA ARCHANJO"
     ],
@@ -142339,7 +142557,8 @@
     "party": "MISSÃO",
     "aliases": [
       "DELEGADO EDUARDO KRUGER",
-      "EDUARDO KRUGER COSTA"
+      "EDUARDO KRUGER COSTA",
+      "KRUGER"
     ],
     "tse_sequencial": "160002551029"
   },
@@ -142489,6 +142708,7 @@
     "party": "UNIÃO",
     "aliases": [
       "DELEGADO MATHEUS LAIOLA",
+      "LAIOLA",
       "MATHEUS ARAUJO LAIOLA"
     ],
     "tse_sequencial": "160002532878"
@@ -142744,7 +142964,6 @@
     "party": "PSB",
     "aliases": [
       "ENFERMEIRA MARILU",
-      "MARILU",
       "MARILU CAROLESKI DO PRADO"
     ],
     "tse_sequencial": "160002532611"
@@ -142839,7 +143058,6 @@
     "party": "PDT",
     "aliases": [
       "ANTONIA MACEDO DE SOUSA",
-      "ANTÔNIA",
       "IRMÃ ANTÔNIA"
     ],
     "tse_sequencial": "140002538479"
@@ -142934,6 +143152,7 @@
     "role": "Candidato(a) a Deputado Federal (PA) — Eleição 2026",
     "party": "SOLIDARIEDADE",
     "aliases": [
+      "CAVALCANTE",
       "JACKSON CLAUDIO PAZ CAVALCANTE",
       "PASTOR JACKSON CAVALCANTE"
     ],
@@ -143515,6 +143734,7 @@
     "role": "Candidato(a) a Deputado Estadual (PA) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "LIMA",
       "MARIA DA CONCEICAO DA SILVA LIMA",
       "PROFESSORA CONCEIÇÃO LIMA"
     ],
@@ -143646,6 +143866,7 @@
     "party": "NOVO",
     "aliases": [
       "EDENILSON MORAES SILVA",
+      "MORAES",
       "SARGENTO DENILSON MORAES"
     ],
     "tse_sequencial": "140002551344"
@@ -143751,7 +143972,8 @@
     "party": "PL",
     "aliases": [
       "DELEGADO ÉDER MAURO",
-      "EDER MAURO CARDOSO BARRA"
+      "EDER MAURO CARDOSO BARRA",
+      "MAURO"
     ],
     "tse_sequencial": "140002544855"
   },
@@ -143820,7 +144042,8 @@
     "party": "DC",
     "aliases": [
       "CESAR ALVES DE ALMEIDA COSTA",
-      "CORONEL ALMEIDA COSTA"
+      "CORONEL ALMEIDA COSTA",
+      "COSTA"
     ],
     "tse_sequencial": "140002531066"
   },
@@ -143831,7 +144054,8 @@
     "party": "DC",
     "aliases": [
       "JACIRENE SIQUEIRA DO ESPIRITO SANTO",
-      "PROFESSORA JACE SIQUEIRA"
+      "PROFESSORA JACE SIQUEIRA",
+      "SIQUEIRA"
     ],
     "tse_sequencial": "140002531072"
   },
@@ -143997,6 +144221,7 @@
     "role": "Candidato(a) a Deputado Federal (PA) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "ANTONIO",
       "CORONEL MARCO ANTONIO",
       "MARCO ANTONIO GOMES"
     ],
@@ -144080,7 +144305,8 @@
     "party": "PODE",
     "aliases": [
       "AMANDA DE SOUZA SILVA",
-      "DELEGADA AMANDA SOUZA"
+      "DELEGADA AMANDA SOUZA",
+      "SOUZA"
     ],
     "tse_sequencial": "140002547296"
   },
@@ -144370,7 +144596,6 @@
     "role": "Candidato(a) a Deputado Estadual (PA) — Eleição 2026",
     "party": "PODE",
     "aliases": [
-      "GEISA",
       "GEISA DA SILVA SAMPAIO FEITOSA",
       "IRMÃ GEISA"
     ],
@@ -144815,6 +145040,7 @@
     "role": "Candidato(a) a Deputado Federal (PA) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "BARROS",
       "ELIAS BARROS DOS REIS",
       "PASTOR ELIAS BARROS"
     ],
@@ -144839,8 +145065,7 @@
     "party": "PL",
     "aliases": [
       "DR MARINHO",
-      "FERNANDO DE FREITAS MARINHO",
-      "MARINHO"
+      "FERNANDO DE FREITAS MARINHO"
     ],
     "tse_sequencial": "140002546714"
   },
@@ -144850,7 +145075,6 @@
     "role": "Candidato(a) a Deputado Federal (PA) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
-      "DIOGO",
       "DIOGO DO SOCORRO DE ANDRADE PEREIRA",
       "ENGENHEIRO DIOGO"
     ],
@@ -144875,6 +145099,7 @@
     "party": "UNIÃO",
     "aliases": [
       "CLAUDIO MARIANO SILVA",
+      "MARIANO",
       "PASTOR CLAUDIO MARIANO"
     ],
     "tse_sequencial": "140002540473"
@@ -144993,6 +145218,7 @@
     "party": "PV",
     "aliases": [
       "ANTONIO CARLOS PEREIRA MORAIS",
+      "MORAIS",
       "PROFESSOR ANTONIO MORAIS"
     ],
     "tse_sequencial": "140002548345"
@@ -145099,7 +145325,6 @@
     "role": "Candidato(a) a Deputado Estadual (PA) — Eleição 2026",
     "party": "PRD",
     "aliases": [
-      "BRENO",
       "BRENO SIMÃO TAVARES DE TAVARES",
       "ENFERMEIRO BRENO"
     ],
@@ -145584,6 +145809,7 @@
     "party": "UNIÃO",
     "aliases": [
       "ANA CLEIDE SOUZA DE OLIVEIRA",
+      "CLEIDE",
       "SARGENTO ANA CLEIDE"
     ],
     "tse_sequencial": "140002551132"
@@ -146589,6 +146815,7 @@
     "party": "PDT",
     "aliases": [
       "MARCIO IVAN LOPES PONTE DE SOUZA",
+      "PONTE",
       "PROFESSOR MÁRCIO PONTE"
     ],
     "tse_sequencial": "140002538483"
@@ -146870,6 +147097,7 @@
     "role": "Candidato(a) a Deputado Federal (PA) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "BASTOS",
       "PROFESSORA ROSANA BASTOS",
       "ROSANA DO SOCORRO RIBEIRO BASTOS"
     ],
@@ -147035,6 +147263,7 @@
     "party": "PT",
     "aliases": [
       "ALFREDO CARDOSO COSTA",
+      "COSTA",
       "PROFESSOR ALFREDO COSTA"
     ],
     "tse_sequencial": "140002548347"
@@ -147260,6 +147489,7 @@
     "role": "Candidato(a) a Deputado Estadual (PA) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "CORRÊA",
       "MARIA NUBIA CORREA DA SILVA",
       "PROFESSORA NÚBIA CORRÊA"
     ],
@@ -147549,8 +147779,7 @@
     "party": "PL",
     "aliases": [
       "DR RUFINO",
-      "JOSE RUFINO COSTA DOS SANTOS",
-      "RUFINO"
+      "JOSE RUFINO COSTA DOS SANTOS"
     ],
     "tse_sequencial": "140002549274"
   },
@@ -147693,6 +147922,7 @@
     "party": "UNIÃO",
     "aliases": [
       "ELISANGELA MESQUITA DOS SANTOS",
+      "SANTOS",
       "SARGENTO ELIS SANTOS"
     ],
     "tse_sequencial": "140002551133"
@@ -148210,6 +148440,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "DELEGADO FEDERAL EGUCHI",
+      "EGUCHI",
       "EVERALDO JORGE MARTINS EGUCHI"
     ],
     "tse_sequencial": "140002536954"
@@ -148461,7 +148692,6 @@
     "party": "PT",
     "aliases": [
       "DR JAQUES",
-      "JAQUES",
       "JAQUES DA SILVA NEVES"
     ],
     "tse_sequencial": "140002548982"
@@ -148568,6 +148798,7 @@
     "party": "PSOL",
     "aliases": [
       "AUGUSTO CEZAR FREITAS DE HOLANDA",
+      "CEZAR",
       "PROFESSOR AUGUSTO CEZAR"
     ],
     "tse_sequencial": "140002544300"
@@ -148626,6 +148857,7 @@
     "role": "Candidato(a) a Deputado Estadual (PA) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "BARATA",
       "SARGENTO SIDNEY BARATA",
       "SIDNEY WILLIAMS CARNEIRO BARATA"
     ],
@@ -148638,6 +148870,7 @@
     "party": "PL",
     "aliases": [
       "DELEGADO PAULO HENRIQUE",
+      "HENRIQUE",
       "PAULO HENRIQUE RIBEIRO SOARES JUNIOR"
     ],
     "tse_sequencial": "140002549261"
@@ -149144,8 +149377,7 @@
     "party": "PSOL",
     "aliases": [
       "ENFERMEIRA NAZARÉ",
-      "MARIA DE NAZARE ALVES DE LIMA",
-      "NAZARÉ"
+      "MARIA DE NAZARE ALVES DE LIMA"
     ],
     "tse_sequencial": "140002548125"
   },
@@ -149319,6 +149551,7 @@
     "party": "PDT",
     "aliases": [
       "MARCIO IVAN LOPES PONTE DE SOUZA",
+      "PONTE",
       "PROFESSOR MÁRCIO PONTE"
     ],
     "tse_sequencial": "140002553665"
@@ -149624,7 +149857,6 @@
     "party": "PL",
     "aliases": [
       "DR WANDERLEY",
-      "WANDERLEY",
       "WANDERLEY DIAS VIEIRA"
     ],
     "tse_sequencial": "140002549293"
@@ -149636,7 +149868,6 @@
     "party": "PL",
     "aliases": [
       "DR EMANOEL",
-      "EMANOEL",
       "EMANOEL DE OLIVEIRA MOREIRA"
     ],
     "tse_sequencial": "140002549279"
@@ -150251,6 +150482,7 @@
     "role": "Candidato(a) a Deputado Estadual (PA) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "HOLANDA",
       "OSMAR PEREIRA DA SILVA FILHO",
       "PROFESSOR OSMAR HOLANDA"
     ],
@@ -150299,7 +150531,8 @@
     "party": "SOLIDARIEDADE",
     "aliases": [
       "PROFESSOR RAIMUNDO SOUSA",
-      "RAIMUNDO SOUSA"
+      "RAIMUNDO SOUSA",
+      "SOUSA"
     ],
     "tse_sequencial": "140002552350"
   },
@@ -150488,7 +150721,6 @@
     "party": "MDB",
     "aliases": [
       "DR WANDERLAN",
-      "WANDERLAN",
       "WANDERLAN AUGUSTO BRANDAO QUARESMA"
     ],
     "tse_sequencial": "140002541712"
@@ -150524,7 +150756,8 @@
     "party": "MDB",
     "aliases": [
       "ANTONIO VICENTE DA SILVA NETO",
-      "CORONEL VICENTE NETO"
+      "CORONEL VICENTE NETO",
+      "NETO"
     ],
     "tse_sequencial": "140002541737"
   },
@@ -150583,6 +150816,7 @@
     "party": "PODE",
     "aliases": [
       "DOUTOR MARDOCK DAS LATINHAS",
+      "LATINHAS",
       "PAULO AFONSO DA SILVA MARDOCK"
     ],
     "tse_sequencial": "140002544256"
@@ -150901,6 +151135,7 @@
     "party": "PSD",
     "aliases": [
       "DELEGADO NILTON NEVES",
+      "NEVES",
       "NILTON SILVA DAS NEVES"
     ],
     "tse_sequencial": "140002536866"
@@ -151103,7 +151338,6 @@
     "party": "MOBILIZA",
     "aliases": [
       "BISPO JORGE",
-      "JORGE",
       "JORGE LUIZ LINO DOS SANTOS DE OLIVEIRA"
     ],
     "tse_sequencial": "190002547246"
@@ -151329,7 +151563,6 @@
     "party": "PL",
     "aliases": [
       "DR MAURILIO",
-      "MAURILIO",
       "MAURÍLIO RIBEIRO SCHIAVO"
     ],
     "tse_sequencial": "190002532832"
@@ -151701,6 +151934,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
+      "BOMBEIRO",
       "GILBERTO DE OLIVEIRA SEPULVEDA",
       "SARGENTO GILBERTO BOMBEIRO"
     ],
@@ -151749,7 +151983,6 @@
     "party": "DEMOCRATA",
     "aliases": [
       "BISPO PAULO",
-      "PAULO",
       "PAULO JOSÉ DOS SANTOS DE OLIVEIRA"
     ],
     "tse_sequencial": "190002551521"
@@ -152120,7 +152353,8 @@
     "party": "PDT",
     "aliases": [
       "DELEGADA MARTHA ROCHA",
-      "MARTHA MESQUITA DA ROCHA"
+      "MARTHA MESQUITA DA ROCHA",
+      "ROCHA"
     ],
     "tse_sequencial": "190002539672"
   },
@@ -152319,7 +152553,8 @@
     "party": "AVANTE",
     "aliases": [
       "CORONEL GUILHERME MORAES",
-      "JOSE GUILHERME DE MORAES NETO"
+      "JOSE GUILHERME DE MORAES NETO",
+      "MORAES"
     ],
     "tse_sequencial": "190002537171"
   },
@@ -152472,7 +152707,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "JANAINA RIBEIRO GONÇALVES",
-      "PROFESSORA JANAINA RIBEIRO"
+      "PROFESSORA JANAINA RIBEIRO",
+      "RIBEIRO"
     ],
     "tse_sequencial": "190002543012"
   },
@@ -152710,6 +152946,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "GONZAGA",
       "PASTOR SAMUEL GONZAGA",
       "SAMUEL GONZAGA DE SOUZA"
     ],
@@ -152827,7 +153064,8 @@
     "party": "AGIR",
     "aliases": [
       "DAVI JERONIMO DA SILVA",
-      "PROFESSOR DAVI SILVA"
+      "PROFESSOR DAVI SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "190002537116"
   },
@@ -152921,6 +153159,7 @@
     "party": "MDB",
     "aliases": [
       "CRISTIANE MARA MARCELINO",
+      "MARCELINO",
       "PROFESSORA CRISTIANE MARCELINO"
     ],
     "tse_sequencial": "190002538852"
@@ -153298,6 +153537,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "BASTOS",
       "PAULO MAURÍCIO RABELLO BASTOS",
       "POLICIAL PAULO BASTOS"
     ],
@@ -153465,6 +153705,7 @@
     "party": "PSD",
     "aliases": [
       "ALEXANDRE HENRIQUE NOGUEIRA",
+      "NOGUEIRA",
       "PROFESSOR ALEXANDRE NOGUEIRA"
     ],
     "tse_sequencial": "190002538012"
@@ -153593,6 +153834,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
+      "ANDRADE",
       "PASTOR SEBASTIÃO ANDRADE",
       "SEBASTIAO JOSE DE ANDRADE"
     ],
@@ -153629,7 +153871,6 @@
     "party": "DEMOCRATA",
     "aliases": [
       "ENFERMEIRA FLOR",
-      "FLOR",
       "FLOR AMÉRICA HUANGAL BAZAN"
     ],
     "tse_sequencial": "190002552229"
@@ -153724,6 +153965,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "SOLIDARIEDADE",
     "aliases": [
+      "GUIMARÃES",
       "JANAINA GUIMARAES ALVES DOS SANTOS",
       "PASTORA JANAÍNA GUIMARÃES"
     ],
@@ -154140,6 +154382,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "AGUIAR",
       "DELEGADA PATRÍCIA AGUIAR",
       "PATRÍCIA DE PAIVA AGUIAR"
     ],
@@ -154342,7 +154585,8 @@
     "party": "NOVO",
     "aliases": [
       "DELEGADO FELÍCIO LATERÇA",
-      "FELÍCIO LATERÇA DE ALMEIDA"
+      "FELÍCIO LATERÇA DE ALMEIDA",
+      "LATERÇA"
     ],
     "tse_sequencial": "190002534611"
   },
@@ -154519,7 +154763,6 @@
     "party": "MDB",
     "aliases": [
       "ENGENHEIRO MARCAO",
-      "MARCAO",
       "MARCO ANTONIO BARBOSA"
     ],
     "tse_sequencial": "190002539359"
@@ -154555,7 +154798,8 @@
     "party": "SOLIDARIEDADE",
     "aliases": [
       "HEITOR DE SOUZA QUEIROZ FILHO",
-      "PROFESSOR HEITOR QUEIROZ"
+      "PROFESSOR HEITOR QUEIROZ",
+      "QUEIROZ"
     ],
     "tse_sequencial": "190002534855"
   },
@@ -155410,6 +155654,7 @@
     "party": "DC",
     "aliases": [
       "NILTON CESAR PATRICIO VIANA",
+      "PATRICIO",
       "PROFESSOR NILTON PATRICIO"
     ],
     "tse_sequencial": "190002548314"
@@ -155785,6 +156030,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "CAMARA",
       "EDSON CAMARA",
       "PASTOR EDSON CAMARA"
     ],
@@ -155797,7 +156043,8 @@
     "party": "MDB",
     "aliases": [
       "DELEGADO MARCUS VINICIUS",
-      "MARCUS VINICIUS DE ALMEIDA BRAGA"
+      "MARCUS VINICIUS DE ALMEIDA BRAGA",
+      "VINICIUS"
     ],
     "tse_sequencial": "190002538826"
   },
@@ -156077,7 +156324,8 @@
     "party": "PL",
     "aliases": [
       "ELITUSALEM GOMES DE FREITAS",
-      "MAJOR ELITUSALEM SILVEIRA"
+      "MAJOR ELITUSALEM SILVEIRA",
+      "SILVEIRA"
     ],
     "tse_sequencial": "190002533701"
   },
@@ -156207,6 +156455,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "PSB",
     "aliases": [
+      "GOMES",
       "LUIZ DA SILVA GOMES",
       "PASTOR LUIZ GOMES"
     ],
@@ -156493,6 +156742,7 @@
     "party": "PODE",
     "aliases": [
       "LIVIA APARECIDA MEDEIROS",
+      "MEDEIROS",
       "PROFESSORA LÍVIA MEDEIROS"
     ],
     "tse_sequencial": "190002544923"
@@ -156961,6 +157211,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "MOBILIZA",
     "aliases": [
+      "LOPES",
       "PASTOR WILLIAM LOPES",
       "WILLIAM LOPES DOS SANTOS"
     ],
@@ -157487,6 +157738,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ALEX DOS SANTOS SILVA GONCALVES",
+      "GONÇALVES",
       "PASTOR ALEX GONÇALVES"
     ],
     "tse_sequencial": "190002543367"
@@ -157591,6 +157843,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "SOLIDARIEDADE",
     "aliases": [
+      "COSTA",
       "EDGAR JESUS COSTA",
       "PASTOR EDGAR COSTA"
     ],
@@ -157638,7 +157891,8 @@
     "party": "PODE",
     "aliases": [
       "CRISTINA RITINS GONCALVES VALERIO",
-      "PROFESSORA CRISTINA RITINS"
+      "PROFESSORA CRISTINA RITINS",
+      "RITINS"
     ],
     "tse_sequencial": "190002543277"
   },
@@ -158275,6 +158529,7 @@
     "party": "PSOL",
     "aliases": [
       "ANTONIO AUGUSTO BRAZ",
+      "AUGUSTO",
       "PROFESSOR ANTONIO AUGUSTO"
     ],
     "tse_sequencial": "190002536125"
@@ -158319,8 +158574,7 @@
     "party": "DC",
     "aliases": [
       "ANTONIO MACHADO EVANGELHO",
-      "ENGENHEIRO MACHADO",
-      "MACHADO"
+      "ENGENHEIRO MACHADO"
     ],
     "tse_sequencial": "190002548302"
   },
@@ -158985,6 +159239,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "AUGUSTO",
       "CARLOS AUGUSTO NOGUEIRA PINTO",
       "DELEGADO CARLOS AUGUSTO"
     ],
@@ -159258,7 +159513,8 @@
     "party": "PP",
     "aliases": [
       "BERNARDO LEAL ANNES DIAS",
-      "DELEGADO BERNARDO LEAL"
+      "DELEGADO BERNARDO LEAL",
+      "LEAL"
     ],
     "tse_sequencial": "190002541675"
   },
@@ -160049,7 +160305,8 @@
     "party": "PL",
     "aliases": [
       "ANTONIO DA LUZ FURTADO",
-      "DELEGADO ANTONIO FURTADO"
+      "DELEGADO ANTONIO FURTADO",
+      "FURTADO"
     ],
     "tse_sequencial": "190002532818"
   },
@@ -160316,7 +160573,8 @@
     "party": "MDB",
     "aliases": [
       "JUNIOR TROVÃO ALVES PEREIRA",
-      "PASTOR JUNIOR TROVÃO"
+      "PASTOR JUNIOR TROVÃO",
+      "TROVÃO"
     ],
     "tse_sequencial": "190002539341"
   },
@@ -160949,8 +161207,7 @@
     "party": "AVANTE",
     "aliases": [
       "BOMBEIRO SARMENTO",
-      "JOSE AUGUSTO RODRIGUES SARMENTO",
-      "SARMENTO"
+      "JOSE AUGUSTO RODRIGUES SARMENTO"
     ],
     "tse_sequencial": "190002537161"
   },
@@ -161091,7 +161348,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "DANIEL RAMOS DA SILVA",
-      "PASTOR DANIEL RAMOS"
+      "PASTOR DANIEL RAMOS",
+      "RAMOS"
     ],
     "tse_sequencial": "190002543041"
   },
@@ -161174,6 +161432,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "DELEGADA TATIANA QUEIROZ",
+      "QUEIROZ",
       "TATIANA RIBEIRO QUEIROZ DE OLIVEIRA"
     ],
     "tse_sequencial": "190002542986"
@@ -161314,6 +161573,7 @@
     "party": "DC",
     "aliases": [
       "PASTOR TAQUARACI RODRIGUES",
+      "RODRIGUES",
       "TAQUARACI NUNES RODRIGUES"
     ],
     "tse_sequencial": "190002548311"
@@ -161552,6 +161812,7 @@
     "party": "AGIR",
     "aliases": [
       "CORONEL LENISE DURÃO",
+      "DURÃO",
       "LENISE DURAO UCHOA"
     ],
     "tse_sequencial": "190002536561"
@@ -161664,7 +161925,6 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "AGIR",
     "aliases": [
-      "CURY-HABIB",
       "DR CURY-HABIB",
       "REGINALDO SILVA ARAUJO CURY"
     ],
@@ -161792,7 +162052,6 @@
     "party": "PT",
     "aliases": [
       "MISSIONÁRIO THIAGO",
-      "THIAGO",
       "THIAGO MOTHÉ AGUIAR"
     ],
     "tse_sequencial": "190002543299"
@@ -162100,7 +162359,8 @@
     "party": "PL",
     "aliases": [
       "HEITOR DE SOUZA QUEIROZ FILHO",
-      "PROFESSOR HEITOR QUEIROZ"
+      "PROFESSOR HEITOR QUEIROZ",
+      "QUEIROZ"
     ],
     "tse_sequencial": "190002543381"
   },
@@ -162183,8 +162443,7 @@
     "party": "PL",
     "aliases": [
       "ANA PAULA DA SILVA CASTRO OLIVEIRA",
-      "MISSIONÁRIA PAULINHA",
-      "PAULINHA"
+      "MISSIONÁRIA PAULINHA"
     ],
     "tse_sequencial": "190002543382"
   },
@@ -162302,8 +162561,7 @@
     "party": "PSB",
     "aliases": [
       "DR SÉRGIO",
-      "SERGIO LUIZ LOPES DOS SANTOS",
-      "SÉRGIO"
+      "SERGIO LUIZ LOPES DOS SANTOS"
     ],
     "tse_sequencial": "190002537758"
   },
@@ -162324,7 +162582,8 @@
     "party": "PSB",
     "aliases": [
       "CARLOS ALBERTO DA SILVA",
-      "PASTOR CARLOS SILVA"
+      "PASTOR CARLOS SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "190002537753"
   },
@@ -162416,6 +162675,7 @@
     "party": "PSD",
     "aliases": [
       "MARCIA DE SOUZA MACHADO MARTINS",
+      "MARTINS",
       "PROFESSORA MARCIA MARTINS"
     ],
     "tse_sequencial": "190002538016"
@@ -162546,6 +162806,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "FILHO",
       "OTACILIO DE SOUSA FILHO",
       "TENENTE OTACILIO FILHO"
     ],
@@ -162593,6 +162854,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "OLIVEIRA",
       "PASTOR RAFAEL OLIVEIRA",
       "RAFAEL DE OLIVEIRA LOPEZ"
     ],
@@ -162743,7 +163005,8 @@
     "party": "SOLIDARIEDADE",
     "aliases": [
       "MARIA DA GLORIA VIDAL FELISMINO DOS SANTOS",
-      "PASTORA GLÓRIA THIENGO"
+      "PASTORA GLÓRIA THIENGO",
+      "THIENGO"
     ],
     "tse_sequencial": "190002534124"
   },
@@ -162765,6 +163028,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "SOLIDARIEDADE",
     "aliases": [
+      "FERREIRA",
       "JONATHAN FERREIRA DA SILVA",
       "PASTOR JONATHAN FERREIRA"
     ],
@@ -163186,6 +163450,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "DC",
     "aliases": [
+      "AGUIAR",
       "PASTORA VANIA AGUIAR",
       "VANIA DE AGUIAR MUNIZ"
     ],
@@ -163469,7 +163734,6 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "CARLA",
       "CARLA DA SILVA",
       "MISSIONARIA CARLA"
     ],
@@ -163729,6 +163993,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
+      "DIAS",
       "GILSON ARAUJO DIAS PEREIRA GONCALVES",
       "PROFESSOR  GILSON DIAS"
     ],
@@ -163740,6 +164005,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "SOLIDARIEDADE",
     "aliases": [
+      "BOTTO",
       "CORONEL LAURO BOTTO",
       "LAURO CESAR BOTTO MAIA"
     ],
@@ -164376,6 +164642,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "CORONEL WILLIAM  SODRE",
+      "SODRE",
       "WILLIAM OLINDA SODRE"
     ],
     "tse_sequencial": "190002542993"
@@ -164997,6 +165264,7 @@
     "party": "PDT",
     "aliases": [
       "EDSON PAIVA DE OLIVEIRA",
+      "PAIVA",
       "PROFESSOR EDSON PAIVA"
     ],
     "tse_sequencial": "190002541795"
@@ -165007,6 +165275,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "HELENA",
       "MARIA HELENA VIEIRA MARTINS",
       "PROFESSORA MARIA HELENA"
     ],
@@ -165391,7 +165660,6 @@
     "party": "PP",
     "aliases": [
       "ENFERMEIRA LUCIENE",
-      "LUCIENE",
       "LUCIENE MANGANELLO VELLOSO"
     ],
     "tse_sequencial": "190002541656"
@@ -165427,7 +165695,6 @@
     "party": "UNIÃO",
     "aliases": [
       "ENGENHEIRO URUAN",
-      "URUAN",
       "URUAN CINTRA DE ANDRADE"
     ],
     "tse_sequencial": "190002541659"
@@ -166093,7 +166360,8 @@
     "party": "PSOL",
     "aliases": [
       "HENRIQUE DOS SANTOS VIEIRA LIMA",
-      "PASTOR HENRIQUE VIEIRA"
+      "PASTOR HENRIQUE VIEIRA",
+      "VIEIRA"
     ],
     "tse_sequencial": "190002536145"
   },
@@ -166256,7 +166524,8 @@
     "party": "NOVO",
     "aliases": [
       "KELLY CRISTINA SILVA DE FARIA",
-      "PASTORA KELLY SILVA"
+      "PASTORA KELLY SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "190002534622"
   },
@@ -166871,6 +167140,7 @@
     "party": "PSDB",
     "aliases": [
       "ALINE PIRES MATTOS",
+      "PIRES",
       "PROFESSORA ALINE PIRES"
     ],
     "tse_sequencial": "190002550306"
@@ -166966,6 +167236,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ADRIANA PINTO DE ARRUDA DA FRANÇA",
+      "FRANÇA",
       "PROFESSORA ADRIANA FRANÇA"
     ],
     "tse_sequencial": "190002542999"
@@ -167270,7 +167541,8 @@
     "party": "AVANTE",
     "aliases": [
       "GLORIA SANTOS CORREA",
-      "PASTORA GLORINHA SANTOS"
+      "PASTORA GLORINHA SANTOS",
+      "SANTOS"
     ],
     "tse_sequencial": "190002538629"
   },
@@ -167305,6 +167577,7 @@
     "party": "AVANTE",
     "aliases": [
       "DOUTOR LUISINHO JUNIOR",
+      "JUNIOR",
       "LUIS EDUARDO ALMEIDA DE OLIVEIRA JÚNIOR"
     ],
     "tse_sequencial": "190002538617"
@@ -167671,6 +167944,7 @@
     "party": "MOBILIZA",
     "aliases": [
       "JOSE ONIX GOMES DA SILVA",
+      "ONIX",
       "PROFESSOR JOSE ONIX"
     ],
     "tse_sequencial": "190002547200"
@@ -168597,6 +168871,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "MISSÃO",
     "aliases": [
+      "BORGES",
       "ESMERALDA BORGES DA SILVA PAZ",
       "PASTORA ESMERALDA BORGES"
     ],
@@ -168748,6 +169023,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "PP",
     "aliases": [
+      "CURI",
       "DELEGADO FELIPE CURI",
       "FELIPE LOBATO CURI"
     ],
@@ -169370,7 +169646,8 @@
     "party": "PODE",
     "aliases": [
       "PASTOR RENATO ROCHA",
-      "RENATO ROCHA"
+      "RENATO ROCHA",
+      "ROCHA"
     ],
     "tse_sequencial": "190002543255"
   },
@@ -169426,7 +169703,8 @@
     "party": "PODE",
     "aliases": [
       "PROFESSOR RUBENS DA SAÚDE",
-      "RUBENS DA COSTA MOURA"
+      "RUBENS DA COSTA MOURA",
+      "SAÚDE"
     ],
     "tse_sequencial": "190002543281"
   },
@@ -169670,7 +169948,8 @@
     "party": "PSB",
     "aliases": [
       "CARLOS ALBERTO IVANIR DOS SANTOS",
-      "PROFESSOR IVANIR DOS SANTOS"
+      "PROFESSOR IVANIR DOS SANTOS",
+      "SANTOS"
     ],
     "tse_sequencial": "190002538429"
   },
@@ -170096,7 +170375,6 @@
     "party": "AVANTE",
     "aliases": [
       "BISPO MARCELO",
-      "MARCELO",
       "MARCELO DE OLIVEIRA"
     ],
     "tse_sequencial": "190002538611"
@@ -170156,6 +170434,7 @@
     "party": "AGIR",
     "aliases": [
       "BARBARA TEIXEIRA DA SILVA DE OLIVEIRA",
+      "OLIVEIRA",
       "PROFESSORA BÁRBARA OLIVEIRA"
     ],
     "tse_sequencial": "190002537114"
@@ -170214,7 +170493,8 @@
     "party": "AGIR",
     "aliases": [
       "JOSE CARLOS DIAS DOS SANTOS",
-      "PASTOR DO PEIXE"
+      "PASTOR DO PEIXE",
+      "PEIXE"
     ],
     "tse_sequencial": "190002536547"
   },
@@ -171060,6 +171340,7 @@
     "party": "PODE",
     "aliases": [
       "PAULO CESAR ANTUNES PEREIRA",
+      "PEREIRA",
       "PROFESSOR PAULO PEREIRA"
     ],
     "tse_sequencial": "190002544949"
@@ -171873,6 +172154,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
+      "AZEVEDO",
       "LEANDRO DE AZEVEDO",
       "PROFESSOR LEANDRO AZEVEDO"
     ],
@@ -171884,6 +172166,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "ANDERSON",
       "PASTOR PAULO ANDERSON",
       "PAULO ANDERSON LIMA E SILVA"
     ],
@@ -171907,6 +172190,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "PATROCÍNIO",
       "PROFESSORA RUTH PATROCÍNIO",
       "RUTH CILENE DO PATROCINIO CRUZ RIBAS"
     ],
@@ -171943,6 +172227,7 @@
     "party": "DEMOCRATA",
     "aliases": [
       "JONAS DE LIMA",
+      "LIMA",
       "PASTOR JONAS DE LIMA"
     ],
     "tse_sequencial": "190002551527"
@@ -172180,7 +172465,6 @@
     "party": "PCDOB",
     "aliases": [
       "ENFERMEIRA REJANE",
-      "REJANE",
       "REJANE DE ALMEIDA"
     ],
     "tse_sequencial": "190002543077"
@@ -172191,6 +172475,7 @@
     "role": "Candidato(a) a Deputado Federal (RJ) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "AVELLAR",
       "PASTOR WAGNER AVELLAR",
       "WAGNER PAULO CORRÊA AVELLAR"
     ],
@@ -172542,7 +172827,8 @@
     "party": "PSDB",
     "aliases": [
       "DOUTORA MARCIA VALERIA",
-      "MARCIA VALERIA DE CARVALHO PAIVA"
+      "MARCIA VALERIA DE CARVALHO PAIVA",
+      "VALERIA"
     ],
     "tse_sequencial": "190002550035"
   },
@@ -172941,6 +173227,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "MARTINS",
       "PROFESSOR ROGÉRIO MARTINS",
       "ROGERIO GOMES MARTINS"
     ],
@@ -173184,6 +173471,7 @@
     "role": "Candidato(a) a Deputado Estadual (RJ) — Eleição 2026",
     "party": "PT",
     "aliases": [
+      "CARNEIRO",
       "PROFESSOR WALDECK CARNEIRO",
       "WALDECK CARNEIRO DA SILVA"
     ],
@@ -173810,6 +174098,7 @@
     "party": "PP",
     "aliases": [
       "FLAVIA ALVES PEDRA LOUZADA",
+      "LOUZADA",
       "SARGENTO FLAVIA LOUZADA"
     ],
     "tse_sequencial": "190002541660"
@@ -175309,7 +175598,6 @@
     "role": "Candidato(a) a Deputado Federal (RN) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
-      "DANIEL",
       "DANIEL LIMA SAMPAIO",
       "DR DANIEL"
     ],
@@ -175841,6 +176129,7 @@
     "party": "MDB",
     "aliases": [
       "LUIS CARLOS NORONHA E SOUSA",
+      "NORONHA",
       "PROFESSOR LUIS CARLOS NORONHA"
     ],
     "tse_sequencial": "200002534352"
@@ -176400,7 +176689,6 @@
     "party": "MISSÃO",
     "aliases": [
       "DR SALOMÃO",
-      "SALOMÃO",
       "SALOMÃO ISRAEL MONTEIRO LOURENÇO QUEIROZ"
     ],
     "tse_sequencial": "200002547284"
@@ -176483,7 +176771,6 @@
     "party": "PSDB",
     "aliases": [
       "DRA ROSEMARIA",
-      "ROSEMARIA",
       "ROSEMARIA DOS SANTOS AZEVEDO"
     ],
     "tse_sequencial": "200002538221"
@@ -176863,6 +177150,7 @@
     "role": "Candidato(a) a Governador (RN) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "PAULINO",
       "PROFESSOR ROBERIO PAULINO",
       "ROBERIO PAULINO RODRIGUES"
     ],
@@ -176992,6 +177280,7 @@
     "party": "DC",
     "aliases": [
       "JULIO ROGERIO DA SILVA NETO",
+      "NETO",
       "PASTOR JÚLIO NETO"
     ],
     "tse_sequencial": "200002552145"
@@ -177087,6 +177376,7 @@
     "party": "PSTU",
     "aliases": [
       "ANA CELIA SIQUEIRA FERREIRA",
+      "CELIA",
       "PROFESSORA ANA CELIA"
     ],
     "tse_sequencial": "200002542489"
@@ -177649,6 +177939,7 @@
     "party": "PP",
     "aliases": [
       "CARLA KALINE FERNANDES CAMARA",
+      "CÂMARA",
       "MAJOR CARLA CÂMARA"
     ],
     "tse_sequencial": "200002535737"
@@ -178169,6 +178460,7 @@
     "role": "Candidato(a) a Deputado Estadual (SC) — Eleição 2026",
     "party": "PSTU",
     "aliases": [
+      "FERNANDES",
       "NADIR FERNANDES",
       "PROFESSORA NADIR FERNANDES"
     ],
@@ -178181,6 +178473,7 @@
     "party": "PSTU",
     "aliases": [
       "CRISTIANO RAFAEL FLORENCIO",
+      "FLORÊNCIO",
       "PROFESSOR CRISTIANO FLORÊNCIO"
     ],
     "tse_sequencial": "240002538100"
@@ -178662,6 +178955,7 @@
     "role": "Candidato(a) a Deputado Estadual (SC) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "BONAPARTE",
       "JOSÉ NAPOLEÃO BONAPARTE MAIA RODRIGUES",
       "PASTOR NAPOLEÃO BONAPARTE"
     ],
@@ -178674,6 +178968,7 @@
     "party": "UNIÃO",
     "aliases": [
       "EMILY ROSANE PEREIRA",
+      "PEREIRA",
       "POLICIAL EMILY PEREIRA"
     ],
     "tse_sequencial": "240002543414"
@@ -179361,7 +179656,8 @@
     "party": "PT",
     "aliases": [
       "PEDRO FRANCISCO UCZAI",
-      "PROFESSOR PEDRO UCZAI"
+      "PROFESSOR PEDRO UCZAI",
+      "UCZAI"
     ],
     "tse_sequencial": "240002533833"
   },
@@ -180360,7 +180656,8 @@
     "party": "PT",
     "aliases": [
       "PROFESSOR VITOR XUXA",
-      "VITOR ROLLIN PRUDÊNCIO"
+      "VITOR ROLLIN PRUDÊNCIO",
+      "XUXA"
     ],
     "tse_sequencial": "240002540091"
   },
@@ -181139,6 +181436,7 @@
     "party": "PDT",
     "aliases": [
       "ADVOGADO MARCO BUZZI",
+      "BUZZI",
       "MARCO ANTÔNIO BUZZI"
     ],
     "tse_sequencial": "240002533814"
@@ -181750,7 +182048,8 @@
     "party": "PSDB",
     "aliases": [
       "CORONEL JEFFERSON SCHMIDT",
-      "JEFFERSON SCHMIDT"
+      "JEFFERSON SCHMIDT",
+      "SCHMIDT"
     ],
     "tse_sequencial": "240002537089"
   },
@@ -182257,8 +182556,7 @@
     "party": "MDB",
     "aliases": [
       "DR NATEL",
-      "JOAO NATEL POLLONIO MACHADO",
-      "NATEL"
+      "JOAO NATEL POLLONIO MACHADO"
     ],
     "tse_sequencial": "240002541370"
   },
@@ -182303,6 +182601,7 @@
     "role": "Candidato(a) a Deputado Estadual (SC) — Eleição 2026",
     "party": "PP",
     "aliases": [
+      "ALEMÃO",
       "LEANDRO PUTTKAMMER",
       "SARGENTO PUTTKAMMER O ALEMÃO"
     ],
@@ -182474,6 +182773,7 @@
     "party": "PL",
     "aliases": [
       "DELEGADO ULISSES GABRIEL",
+      "GABRIEL",
       "ULISSES GABRIEL"
     ],
     "tse_sequencial": "240002539990"
@@ -182640,6 +182940,7 @@
     "party": "PSOL",
     "aliases": [
       "ANDREW LEAL",
+      "LEAL",
       "PROFESSOR ANDREW LEAL"
     ],
     "tse_sequencial": "240002537806"
@@ -183217,7 +183518,8 @@
     "party": "MDB",
     "aliases": [
       "DELEGADO JORGE KOCH",
-      "JORGE LUIZ KOCH"
+      "JORGE LUIZ KOCH",
+      "KOCH"
     ],
     "tse_sequencial": "240002541376"
   },
@@ -183275,6 +183577,7 @@
     "party": "PT",
     "aliases": [
       "ANA LUCIA MARTINS ROSSKAMP",
+      "MARTINS",
       "PROFESSORA ANA LUCIA MARTINS"
     ],
     "tse_sequencial": "240002540096"
@@ -184361,7 +184664,8 @@
     "party": "PSTU",
     "aliases": [
       "MARCUS ALEXANDRE SODRE",
-      "PROFESSOR MARCUS SODRÉ"
+      "PROFESSOR MARCUS SODRÉ",
+      "SODRÉ"
     ],
     "tse_sequencial": "240002541913"
   },
@@ -185284,6 +185588,7 @@
     "party": "PSD",
     "aliases": [
       "ASCENDINO BATISTA OLIVEIRA",
+      "BATISTA",
       "PASTOR ASCENDINO BATISTA"
     ],
     "tse_sequencial": "240002548538"
@@ -185366,7 +185671,8 @@
     "party": "PODE",
     "aliases": [
       "EUMA MENDONÇA TOURINHO",
-      "JUÍZA EUMA TOURINHO"
+      "JUÍZA EUMA TOURINHO",
+      "TOURINHO"
     ],
     "tse_sequencial": "220002536034"
   },
@@ -185484,7 +185790,6 @@
     "party": "MISSÃO",
     "aliases": [
       "ENGENHEIRO THULIO",
-      "THULIO",
       "THULIO SANTIAGO CASTRO"
     ],
     "tse_sequencial": "220002541944"
@@ -185672,7 +185977,8 @@
     "party": "PT",
     "aliases": [
       "LIONILDA SIMÃO DE SOUZA",
-      "PROFESSORA LÉO SIMÃO"
+      "PROFESSORA LÉO SIMÃO",
+      "SIMÃO"
     ],
     "tse_sequencial": "220002539763"
   },
@@ -186273,6 +186579,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "PASTORA WÂNIA SALES",
+      "SALES",
       "WANIA PAULA DOS SANTOS SALES"
     ],
     "tse_sequencial": "220002547359"
@@ -186390,6 +186697,7 @@
     "party": "PSD",
     "aliases": [
       "LIANA SILVA DE ALMEIDA LIMA",
+      "LIMA",
       "PROFESSORA LIANA LIMA"
     ],
     "tse_sequencial": "220002542920"
@@ -186459,8 +186767,7 @@
     "party": "UNIÃO",
     "aliases": [
       "DEVONILDO DE JESUS SANTANA",
-      "DR SANTANA",
-      "SANTANA"
+      "DR SANTANA"
     ],
     "tse_sequencial": "220002547323"
   },
@@ -186672,7 +186979,6 @@
     "party": "AVANTE",
     "aliases": [
       "DR FERRARI",
-      "FERRARI",
       "LUIZ CARLOS FERRARI"
     ],
     "tse_sequencial": "220002537588"
@@ -186957,7 +187263,6 @@
     "party": "NOVO",
     "aliases": [
       "DR SILMAR",
-      "SILMAR",
       "SILMAR RÉGIS CAMARINI"
     ],
     "tse_sequencial": "220002536005"
@@ -187076,7 +187381,6 @@
     "party": "DC",
     "aliases": [
       "DR PATRICK",
-      "PATRICK",
       "PATRICK DE LIMA OLIVEIRA MORAES"
     ],
     "tse_sequencial": "220002550686"
@@ -188000,7 +188304,6 @@
     "role": "Candidato(a) a Deputado Estadual (RO) — Eleição 2026",
     "party": "SOLIDARIEDADE",
     "aliases": [
-      "CIRLEIDE",
       "CIRLEIDE DOS SANTOS SILVA OLIVEIRA",
       "MISSIONÁRIA CIRLEIDE"
     ],
@@ -188275,7 +188578,8 @@
     "party": "PL",
     "aliases": [
       "DELEGADO LUCAS TORRES",
-      "LUCAS TORRES RIBEIRO"
+      "LUCAS TORRES RIBEIRO",
+      "TORRES"
     ],
     "tse_sequencial": "220002537549"
   },
@@ -188477,7 +188781,8 @@
     "party": "PT",
     "aliases": [
       "MARCIA REGINA DE SOUZA SILVA",
-      "PROFESSORA MÁRCIA REGINA"
+      "PROFESSORA MÁRCIA REGINA",
+      "REGINA"
     ],
     "tse_sequencial": "220002539745"
   },
@@ -188735,7 +189040,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "IVANILDO DOS SANTOS GONÇALVES",
-      "PASTOR IVANILDO DOS SANTOS"
+      "PASTOR IVANILDO DOS SANTOS",
+      "SANTOS"
     ],
     "tse_sequencial": "220002547364"
   },
@@ -188827,7 +189133,6 @@
     "party": "MOBILIZA",
     "aliases": [
       "BOMBEIRO GERENILDO",
-      "GERENILDO",
       "GERENILDO JOSE DE OLIVEIRA"
     ],
     "tse_sequencial": "220002550895"
@@ -189098,7 +189403,8 @@
     "party": "PDT",
     "aliases": [
       "ELESSANDRA REIS BATISTA",
-      "PROFESSORA ELESSANDRA REIS"
+      "PROFESSORA ELESSANDRA REIS",
+      "REIS"
     ],
     "tse_sequencial": "220002541485"
   },
@@ -189406,7 +189712,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ADRIANO FRANÇA DA SILVA",
-      "DELEGADO ADRIANO FRANÇA"
+      "DELEGADO ADRIANO FRANÇA",
+      "FRANÇA"
     ],
     "tse_sequencial": "220002547363"
   },
@@ -189476,6 +189783,7 @@
     "party": "PODE",
     "aliases": [
       "GLÁUCIA LOPES NEGREIROS",
+      "NEGREIROS",
       "PROFESSORA GLÁUCIA NEGREIROS"
     ],
     "tse_sequencial": "220002554101"
@@ -189570,6 +189878,7 @@
     "role": "Candidato(a) a Deputado Estadual (RO) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "FRANÇA",
       "FÁBIO FRANÇA DOS SANTOS",
       "TENENTE FÁBIO FRANÇA"
     ],
@@ -189606,8 +189915,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "MISSIONÁRIA MÔNICA",
-      "MONICA DE CASTRO MELO DA SILVA",
-      "MÔNICA"
+      "MONICA DE CASTRO MELO DA SILVA"
     ],
     "tse_sequencial": "220002547349"
   },
@@ -189759,7 +190067,6 @@
     "party": "AVANTE",
     "aliases": [
       "BOMBEIRO GALDINO",
-      "GALDINO",
       "JOLIAN INÁCIO GALDINO"
     ],
     "tse_sequencial": "220002537572"
@@ -189982,7 +190289,6 @@
     "party": "MOBILIZA",
     "aliases": [
       "DR FARIAS",
-      "FARIAS",
       "SAMUEL FARIAS DA COSTA"
     ],
     "tse_sequencial": "220002550890"
@@ -190018,7 +190324,6 @@
     "party": "PODE",
     "aliases": [
       "DRA MARLI",
-      "MARLI",
       "MARLI SALVAGNINI"
     ],
     "tse_sequencial": "220002542197"
@@ -190042,7 +190347,8 @@
     "party": "PSD",
     "aliases": [
       "MARCELO PEREIRA DA SILVA",
-      "PASTOR MARCELO PEREIRA"
+      "PASTOR MARCELO PEREIRA",
+      "PEREIRA"
     ],
     "tse_sequencial": "220002542928"
   },
@@ -190063,6 +190369,7 @@
     "role": "Candidato(a) a Deputado Estadual (RO) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "MARUM",
       "PROFESSORA ROSANGELA MARUM",
       "ROSANGELA APARECIDA MARUM CANDIDO"
     ],
@@ -190428,6 +190735,7 @@
     "role": "Candidato(a) a Deputado Estadual (SE) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "MANUELA",
       "MANUELA GOMES DE OLIVEIRA",
       "TENENTE CORONEL MANUELA"
     ],
@@ -190524,8 +190832,7 @@
     "party": "PP",
     "aliases": [
       "ENFERMEIRO MÁRCIO",
-      "MARCIO BARBOSA DA SILVA",
-      "MÁRCIO"
+      "MARCIO BARBOSA DA SILVA"
     ],
     "tse_sequencial": "260002549393"
   },
@@ -190726,6 +191033,7 @@
     "party": "NOVO",
     "aliases": [
       "EDUARDO DE OLIVEIRA SANTOS",
+      "PITBULL",
       "PROFESSOR EDUARDO PITBULL"
     ],
     "tse_sequencial": "260002533087"
@@ -190829,7 +191137,6 @@
     "party": "DC",
     "aliases": [
       "IRMÃ MICHELI",
-      "MICHELI",
       "MICHELI SILVA DOS SANTOS"
     ],
     "tse_sequencial": "260002552342"
@@ -190922,7 +191229,6 @@
     "party": "PL",
     "aliases": [
       "DRA RAYZA",
-      "RAYZA",
       "RAYZA PRADO BARRETO LIMA"
     ],
     "tse_sequencial": "260002550755"
@@ -190957,7 +191263,8 @@
     "party": "PSB",
     "aliases": [
       "CLEVER FARIAS DE OLIVEIRA FILHO",
-      "DELEGADO CLEVER FARIAS"
+      "DELEGADO CLEVER FARIAS",
+      "FARIAS"
     ],
     "tse_sequencial": "260002540224"
   },
@@ -191766,6 +192073,7 @@
     "party": "NOVO",
     "aliases": [
       "GENILTON GOIS DOS SANTOS",
+      "GÓIS",
       "PROFESSOR GENILTON GÓIS"
     ],
     "tse_sequencial": "260002533089"
@@ -191844,7 +192152,6 @@
     "party": "MISSÃO",
     "aliases": [
       "ENGENHEIRO ISAAC",
-      "ISAAC",
       "ISAAC GOMES DE SANTANA JUNIOR"
     ],
     "tse_sequencial": "260002541270"
@@ -191879,7 +192186,8 @@
     "party": "PL",
     "aliases": [
       "DELEGADO MARCELO PAES",
-      "MARCELO PAIS DOS SANTOS"
+      "MARCELO PAIS DOS SANTOS",
+      "PAES"
     ],
     "tse_sequencial": "260002550758"
   },
@@ -191960,8 +192268,7 @@
     "party": "PSB",
     "aliases": [
       "CARLOS ALBERTO PALMEIRA SARMENTO",
-      "DR SARMENTO",
-      "SARMENTO"
+      "DR SARMENTO"
     ],
     "tse_sequencial": "260002540215"
   },
@@ -192472,6 +192779,7 @@
     "role": "Candidato(a) a Deputado Estadual (SE) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "MEIRE",
       "PROFESSORA SÔNIA MEIRE",
       "SONIA MEIRE SANTOS AZEVEDO DE JESUS"
     ],
@@ -192590,7 +192898,6 @@
     "party": "MDB",
     "aliases": [
       "APOSTOLO JORGE",
-      "JORGE",
       "JORGE SANTOS GOMES"
     ],
     "tse_sequencial": "260002535747"
@@ -192602,8 +192909,7 @@
     "party": "MDB",
     "aliases": [
       "ENFERMEIRA VÂNIA",
-      "VANIA OLIVEIRA LIMA",
-      "VÂNIA"
+      "VANIA OLIVEIRA LIMA"
     ],
     "tse_sequencial": "260002535748"
   },
@@ -192671,6 +192977,7 @@
     "role": "Candidato(a) a Deputado Estadual (SE) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
+      "FILHO",
       "MANOEL DOS SANTOS FILHO",
       "SARGENTO M. FILHO"
     ],
@@ -192848,7 +193155,6 @@
     "role": "Candidato(a) a Deputado Federal (SE) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "GISELE",
       "GISELIA FERNANDA GIMENES CARVALHO",
       "MISSIONÁRIA GISELE"
     ],
@@ -192885,6 +193191,7 @@
     "party": "PSOL",
     "aliases": [
       "DELEGADO MÁRIO LEONY",
+      "LEONY",
       "MARIO DE CARVALHO LEONY"
     ],
     "tse_sequencial": "260002547420"
@@ -193003,7 +193310,8 @@
     "party": "PSOL",
     "aliases": [
       "OTAVIO DOMINGOS SALES",
-      "PROFESSOR OTÁVIO SALES"
+      "PROFESSOR OTÁVIO SALES",
+      "SALES"
     ],
     "tse_sequencial": "260002547422"
   },
@@ -193134,7 +193442,8 @@
     "party": "MDB",
     "aliases": [
       "FABIA VALADARES DE ANDRADE",
-      "PASTORA FÁBIA VALADARES"
+      "PASTORA FÁBIA VALADARES",
+      "VALADARES"
     ],
     "tse_sequencial": "260002535761"
   },
@@ -193285,7 +193594,6 @@
     "party": "PODE",
     "aliases": [
       "DRA LYLIAN",
-      "LYLIAN",
       "LYLIAN CARMOZA SANTOS MELO"
     ],
     "tse_sequencial": "260002550437"
@@ -193697,6 +194005,7 @@
     "role": "Candidato(a) a Deputado Estadual (SE) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "ALVES",
       "JADSON ALVES DO NASCIMENTO",
       "PASTOR JADSON ALVES"
     ],
@@ -194070,6 +194379,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "ANDRÉ DAVID CALDAS ROSA RODRIGUES",
+      "DAVID",
       "DELEGADO ANDRÉ DAVID"
     ],
     "tse_sequencial": "260002549130"
@@ -194093,6 +194403,7 @@
     "party": "PL",
     "aliases": [
       "AUGUSTO CESAR MENDES OLIVEIRA",
+      "CÉSAR",
       "DELEGADO AUGUSTO CÉSAR"
     ],
     "tse_sequencial": "260002549708"
@@ -194223,7 +194534,6 @@
     "party": "MDB",
     "aliases": [
       "IRMÃ MABEL",
-      "MABEL",
       "MARIA MABEL DE LUNA MELO"
     ],
     "tse_sequencial": "260002536291"
@@ -195308,6 +195618,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "LIMA",
       "PROFESSORA REVYEUX LIMA",
       "REVYEUX DOS SANTOS LIMA"
     ],
@@ -195379,6 +195690,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "ABRANCHES",
       "DANIEL ABRANCHES DOS REIS BARROS",
       "PROFESSOR DANIEL ABRANCHES"
     ],
@@ -195391,6 +195703,7 @@
     "party": "PODE",
     "aliases": [
       "CABO JÚ FIGUEIREDO",
+      "FIGUEIREDO",
       "JUCIMARA FIGUEIREDO MASCARENHAS"
     ],
     "tse_sequencial": "250002545136"
@@ -195683,7 +195996,6 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "DR THIAGO",
-      "THIAGO",
       "THIAGO SOUZA SANTOS"
     ],
     "tse_sequencial": "250002541881"
@@ -195704,7 +196016,6 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "CRISTIANY",
       "CRISTIANY DE CASTRO",
       "DRA CRISTIANY"
     ],
@@ -195972,6 +196283,7 @@
     "party": "MDB",
     "aliases": [
       "DELEGADA OLÍVIA FONSECA",
+      "FONSECA",
       "OLÍVIA DOS SANTOS FONSECA"
     ],
     "tse_sequencial": "250002534224"
@@ -196813,6 +197125,7 @@
     "party": "DEMOCRATA",
     "aliases": [
       "LUCAS MÁXIMO DE JESUS",
+      "MÁXIMO",
       "PASTOR LUCAS MÁXIMO"
     ],
     "tse_sequencial": "250002554011"
@@ -197036,6 +197349,7 @@
     "party": "PT",
     "aliases": [
       "DOUGLAS MARTINS IZZO",
+      "IZZO",
       "PROFESSOR DOUGLAS IZZO"
     ],
     "tse_sequencial": "250002536730"
@@ -197376,6 +197690,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
+      "DANIEL",
       "EDILAINE DANIEL CARVALHO",
       "PROFESSORA LAINE DANIEL"
     ],
@@ -197686,7 +198001,8 @@
     "party": "AVANTE",
     "aliases": [
       "MARLI SILVA PEREIRA",
-      "PROFESSORA MARLI SILVA"
+      "PROFESSORA MARLI SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "250002551070"
   },
@@ -197696,6 +198012,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "ANTONIO",
       "MARCO ANTONIO DE PAULA",
       "PASTOR MARCO ANTONIO"
     ],
@@ -197803,6 +198120,7 @@
     "party": "PODE",
     "aliases": [
       "PAULO SERGIO OLIVEIRA",
+      "PROERD",
       "SARGENTO PAULO DO PROERD"
     ],
     "tse_sequencial": "250002544353"
@@ -197862,7 +198180,8 @@
     "party": "PODE",
     "aliases": [
       "CAPITÃO AMÉRICA DE PAULA",
-      "LUIZ CARLOS DE PAULA"
+      "LUIZ CARLOS DE PAULA",
+      "PAULA"
     ],
     "tse_sequencial": "250002544344"
   },
@@ -198051,6 +198370,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "PRD",
     "aliases": [
+      "ABDALA",
       "CABO RENATO ABDALA",
       "RENATO DE SOUZA OLIVEIRA"
     ],
@@ -198213,7 +198533,8 @@
     "party": "PSD",
     "aliases": [
       "CESAR EDUARDO FERNANDES",
-      "DOUTOR CESAR FERNANDES"
+      "DOUTOR CESAR FERNANDES",
+      "FERNANDES"
     ],
     "tse_sequencial": "250002541095"
   },
@@ -198503,6 +198824,7 @@
     "party": "DC",
     "aliases": [
       "LUIZ ROBERTO MORAES",
+      "MORAES",
       "TENENTE CORONEL MORAES"
     ],
     "tse_sequencial": "250002553830"
@@ -198582,6 +198904,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PP",
     "aliases": [
+      "ASSIS",
       "MARIA LETÍCIA DE FREITAS ASSIS",
       "SOLDADO LETÍCIA ASSIS"
     ],
@@ -198698,6 +199021,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "LOPES",
       "PROFESSORA RÔ LOPES",
       "ROSANGELA MARIA LOPES"
     ],
@@ -198733,6 +199057,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "CORSATO",
       "DELEGADA MARIA CORSATO",
       "MARIA APARECIDA REZENDE CORSATO"
     ],
@@ -198931,7 +199256,6 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PDT",
     "aliases": [
-      "ANDRÉ",
       "ANDRÉ LUIZ BARBOSA",
       "DR ANDRÉ"
     ],
@@ -199589,7 +199913,8 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "PAULO SERGIO DA ROCHA",
-      "POLICIAL MAJOR SÉRGIO"
+      "POLICIAL MAJOR SÉRGIO",
+      "SÉRGIO"
     ],
     "tse_sequencial": "250002541853"
   },
@@ -199635,6 +199960,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "AGIR",
     "aliases": [
+      "GOULART",
       "MAURICIO EDUARDO GOULART",
       "PROFESSOR MAURICIO GOULART"
     ],
@@ -199646,6 +199972,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "AGIR",
     "aliases": [
+      "LOURDES",
       "MARIA DE LOURDES SOARES DO NASCIMENTO",
       "PROFESSORA MARIA DE LOURDES"
     ],
@@ -199990,7 +200317,8 @@
     "party": "MDB",
     "aliases": [
       "PROFESSORA ROSIANE SANTOS",
-      "ROSIANE ARIANE DOS SANTOS"
+      "ROSIANE ARIANE DOS SANTOS",
+      "SANTOS"
     ],
     "tse_sequencial": "250002534200"
   },
@@ -200118,6 +200446,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "LAURENTINO",
       "PROFESSOR SEVERINO LAURENTINO",
       "SEVERINO DOS RAMOS LAURENTINO DOS SANTOS ROSA"
     ],
@@ -200423,7 +200752,8 @@
     "party": "PSD",
     "aliases": [
       "IOLANDA GOMES RUAS",
-      "PROFESSORA IOLANDA RUAS"
+      "PROFESSORA IOLANDA RUAS",
+      "RUAS"
     ],
     "tse_sequencial": "250002540925"
   },
@@ -200562,6 +200892,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "ARRAIS",
       "CORONEL JOÃO ARRAIS",
       "JOÃO ARRAIS SERODIO NETO"
     ],
@@ -200888,6 +201219,7 @@
     "party": "PDT",
     "aliases": [
       "DANIEL JOSÉ DO NASCIMENTO",
+      "NASCIMENTO",
       "PASTOR DANIEL NASCIMENTO"
     ],
     "tse_sequencial": "250002548469"
@@ -201281,7 +201613,6 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "REDE",
     "aliases": [
-      "ALEXANDRA",
       "ALEXANDRA ASSUMPÇÃO FONSECA",
       "DRA ALEXANDRA"
     ],
@@ -201482,7 +201813,8 @@
     "party": "PODE",
     "aliases": [
       "CABO DEYCON SILVA",
-      "DEYCON FRANCISCO DA SILVA"
+      "DEYCON FRANCISCO DA SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "250002544837"
   },
@@ -201795,6 +202127,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "PRD",
     "aliases": [
+      "CIPRIANO",
       "PROFESSOR WAGNER CIPRIANO",
       "WAGNER CIPRIANO ARAÚJO"
     ],
@@ -201934,6 +202267,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "GARCIA",
       "LUCILA RUIZ GARCIA",
       "PROFESSORA LUCILA GARCIA"
     ],
@@ -202101,7 +202435,8 @@
     "party": "PL",
     "aliases": [
       "ADRIANO DA COSTA E SILVA",
-      "CORONEL COSTA E SILVA"
+      "CORONEL COSTA E SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "250002535990"
   },
@@ -202255,7 +202590,6 @@
     "party": "DC",
     "aliases": [
       "DRA MARILZA",
-      "MARILZA",
       "MARILZA NAGASAWA"
     ],
     "tse_sequencial": "250002553828"
@@ -202337,6 +202671,7 @@
     "party": "UNIÃO",
     "aliases": [
       "DELEGADA LILIANE DORETTO",
+      "DORETTO",
       "LILIANE LOPES DORETTO"
     ],
     "tse_sequencial": "250002533742"
@@ -202735,6 +203070,7 @@
     "party": "PSOL",
     "aliases": [
       "EDVALDO GOMES SILVA",
+      "GOMES",
       "PASTOR EDVALDO GOMES"
     ],
     "tse_sequencial": "250002538897"
@@ -202745,6 +203081,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "LIMA",
       "NIDIA LIMA QUEIROZ DOS SANTOS",
       "PROFESSORA NIDIA LIMA"
     ],
@@ -202766,6 +203103,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "NEDSON",
       "PROFESSOR RILDO NEDSON",
       "RILDO NEDSON MOTA DE SOUSA"
     ],
@@ -203479,6 +203817,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "FARIAS",
       "KELLER FARIAS ANDRE GOMES",
       "PASTORA KELLER FARIAS"
     ],
@@ -203699,7 +204038,8 @@
     "party": "PSD",
     "aliases": [
       "ANDRE SANTOS PEREIRA",
-      "DELEGADO ANDRÉ PEREIRA"
+      "DELEGADO ANDRÉ PEREIRA",
+      "PEREIRA"
     ],
     "tse_sequencial": "250002540566"
   },
@@ -203734,7 +204074,8 @@
     "party": "PSD",
     "aliases": [
       "CORONEL HELENA REIS",
-      "HELENA DOS SANTOS REIS"
+      "HELENA DOS SANTOS REIS",
+      "REIS"
     ],
     "tse_sequencial": "250002540883"
   },
@@ -203899,6 +204240,7 @@
     "party": "PSB",
     "aliases": [
       "ALEXANDRE SIMOES PIMENTEL",
+      "PIMENTEL",
       "PROFESSOR ALEXANDRE PIMENTEL"
     ],
     "tse_sequencial": "250002539281"
@@ -204323,6 +204665,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "PSDB",
     "aliases": [
+      "CHAVES",
       "ERLON CHAVES DE CASTRO",
       "PROFESSOR ERLON CHAVES"
     ],
@@ -204955,7 +205298,6 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
-      "CAIVANO",
       "CLAUDIO LUIS CAIVANO",
       "DR CAIVANO"
     ],
@@ -205027,6 +205369,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "PSOL",
     "aliases": [
+      "CAVALCANTE",
       "LUCIENE CAVALCANTE DA SILVA",
       "PROFESSORA LUCIENE CAVALCANTE"
     ],
@@ -205166,6 +205509,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "BRASIL",
       "IVONE SILVA SANTANA FERNANDES",
       "PASTORA IVONE BRASIL"
     ],
@@ -205188,8 +205532,7 @@
     "party": "AVANTE",
     "aliases": [
       "BISPO SALES",
-      "JOSÉ AUDIDUDIMA SALES DA SILVA",
-      "SALES"
+      "JOSÉ AUDIDUDIMA SALES DA SILVA"
     ],
     "tse_sequencial": "250002551051"
   },
@@ -205235,6 +205578,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
+      "ANDREI",
       "PADRE SILVIO ANDREI",
       "SILVIO ANDREI RODRIGUES"
     ],
@@ -205292,6 +205636,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "HELENA",
       "LAIS HELENA ANTONIO DOS SANTOS ALOISE",
       "PROFESSORA LAIS HELENA"
     ],
@@ -205419,6 +205764,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "DC",
     "aliases": [
+      "MARCIA",
       "PROFESSORA REGINA MARCIA",
       "REGINA MARCIA DE ALMEIDA"
     ],
@@ -205584,6 +205930,7 @@
     "party": "UNIÃO",
     "aliases": [
       "CARLOS ALBERTO DA CUNHA",
+      "CUNHA",
       "DELEGADO DA CUNHA"
     ],
     "tse_sequencial": "250002532368"
@@ -206211,6 +206558,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PCDOB",
     "aliases": [
+      "COSTA",
       "NAJARA LIMA COSTA",
       "PROFESSORA NAJARA COSTA"
     ],
@@ -206408,7 +206756,8 @@
     "party": "PSOL",
     "aliases": [
       "PROFESSOR RUI TORQUATO",
-      "RUI TORQUATO OLIVEIRA"
+      "RUI TORQUATO OLIVEIRA",
+      "TORQUATO"
     ],
     "tse_sequencial": "250002538895"
   },
@@ -206632,6 +206981,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PRD",
     "aliases": [
+      "REGINA",
       "SARGENTO VANIA REGINA",
       "VANIA REGINA DE ALMEIDA"
     ],
@@ -206679,7 +207029,6 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PRD",
     "aliases": [
-      "ANGELA",
       "ANGELA GISELDA RUSSO PUCCIA DE LIMA",
       "DRA ANGELA"
     ],
@@ -206764,7 +207113,8 @@
     "party": "AGIR",
     "aliases": [
       "ELIANE MARCIA DOS SANTOS SILVA",
-      "PASTORA ELI SANTOS"
+      "PASTORA ELI SANTOS",
+      "SANTOS"
     ],
     "tse_sequencial": "250002548164"
   },
@@ -207047,7 +207397,6 @@
     "party": "MDB",
     "aliases": [
       "DRA VERUSKA",
-      "VERUSKA",
       "VERUSKA GHENDOV"
     ],
     "tse_sequencial": "250002534241"
@@ -207641,6 +207990,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PSB",
     "aliases": [
+      "LUIZ",
       "PROFESSOR RONALDO LUIZ",
       "RONALDO LUCIANO LUIZ"
     ],
@@ -207758,6 +208108,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "AMBIENTAL",
       "CAPITÃO CACCIARI AMBIENTAL",
       "JULIO CESAR CACCIARI DE MOURA"
     ],
@@ -207873,6 +208224,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "NOVO",
     "aliases": [
+      "MIRANDA",
       "PEDRO RODRIGUES DE MIRANDA NETO",
       "TENENTE PEDRO MIRANDA"
     ],
@@ -208122,7 +208474,6 @@
     "party": "PDT",
     "aliases": [
       "IRMÃO LOPES",
-      "LOPES",
       "TEHUAN REIS FERNANDES ALVES LOPES"
     ],
     "tse_sequencial": "250002548518"
@@ -208374,7 +208725,8 @@
     "party": "MDB",
     "aliases": [
       "MARCO ANTONIO VILLA",
-      "PROFESSOR MARCO ANTONIO VILLA"
+      "PROFESSOR MARCO ANTONIO VILLA",
+      "VILLA"
     ],
     "tse_sequencial": "250002533642"
   },
@@ -208808,7 +209160,8 @@
     "party": "PODE",
     "aliases": [
       "BRUNO MARCELLO DE OLIVEIRA LIMA",
-      "DELEGADO BRUNO LIMA"
+      "DELEGADO BRUNO LIMA",
+      "LIMA"
     ],
     "tse_sequencial": "250002544341"
   },
@@ -208843,7 +209196,6 @@
     "party": "DC",
     "aliases": [
       "BISPO BRUNO",
-      "BRUNO",
       "BRUNO ALEX COSTA DE ALMEIDA"
     ],
     "tse_sequencial": "250002552644"
@@ -208927,7 +209279,6 @@
     "party": "DC",
     "aliases": [
       "DR ERNESTO",
-      "ERNESTO",
       "ERNESTO ANTONIO MATTOS"
     ],
     "tse_sequencial": "250002552670"
@@ -209068,6 +209419,7 @@
     "party": "SOLIDARIEDADE",
     "aliases": [
       "FERNANDO SILVA MOREIRA DOS SANTOS",
+      "MOREIRA",
       "PROFESSOR FERNANDO MOREIRA"
     ],
     "tse_sequencial": "250002534927"
@@ -209138,6 +209490,7 @@
     "party": "PP",
     "aliases": [
       "ANDERSON FERREIRA NUNES",
+      "BATALHAPELAVIDA",
       "MAJOR ANDERSON BATALHAPELAVIDA"
     ],
     "tse_sequencial": "250002532347"
@@ -209421,7 +209774,6 @@
     "party": "DC",
     "aliases": [
       "BISPO JOABE",
-      "JOABE",
       "JOABE ALMEIDA DOS SANTOS"
     ],
     "tse_sequencial": "250002553815"
@@ -209584,6 +209936,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PP",
     "aliases": [
+      "KOBAYASHI",
       "PAULO SUSSUMU KOBAYASHI",
       "TENENTE PAULO KOBAYASHI"
     ],
@@ -210162,6 +210515,7 @@
     "party": "PODE",
     "aliases": [
       "LUCIANE MAGALHAES DE CARVALHO",
+      "MAGALHAES",
       "PROFESSORA LU MAGALHAES"
     ],
     "tse_sequencial": "250002545191"
@@ -210395,6 +210749,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "REPUBLICANOS",
     "aliases": [
+      "PÁDUA",
       "ROGERIO PEDROSO DE PADUA JUNIOR",
       "SARGENTO ROGÉRIO PÁDUA"
     ],
@@ -210499,7 +210854,8 @@
     "party": "NOVO",
     "aliases": [
       "DELEGADO DEL POENTE",
-      "FRANCISCO CARLOS AGUIAR DEL POENTE"
+      "FRANCISCO CARLOS AGUIAR DEL POENTE",
+      "POENTE"
     ],
     "tse_sequencial": "250002530223"
   },
@@ -211073,6 +211429,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "CIDADANIA",
     "aliases": [
+      "DONETTI",
       "POLICIAL RODOLFO DONETTI",
       "RODOLFO SILVA DONETTI"
     ],
@@ -211180,6 +211537,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "CAMACHO",
       "DELEGADA ROSSANA CAMACHO",
       "ROSSANA RODRIGUES ROSSINI CAMACHO"
     ],
@@ -211700,7 +212058,6 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "CIDADANIA",
     "aliases": [
-      "CLAUDETE",
       "CLAUDETE FERREIRA DA SILVA",
       "ENFERMEIRA CLAUDETE"
     ],
@@ -211892,6 +212249,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "PDT",
     "aliases": [
+      "ANDRADE",
       "FRANKLIN ANDRADE DA SILVA",
       "PROFESSOR FRANKLIN ANDRADE"
     ],
@@ -211975,6 +212333,7 @@
     "party": "PT",
     "aliases": [
       "ADRIANA MARTINS DE SOUZA",
+      "MARTINS",
       "PROFESSORA ADRIANA MARTINS"
     ],
     "tse_sequencial": "250002536740"
@@ -212398,7 +212757,8 @@
     "party": "PODE",
     "aliases": [
       "GEOVANI ROGÉRIO RUFINO VIEIRA",
-      "PROFESSOR GEOVANI VIEIRA"
+      "PROFESSOR GEOVANI VIEIRA",
+      "VIEIRA"
     ],
     "tse_sequencial": "250002544348"
   },
@@ -212571,6 +212931,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "DC",
     "aliases": [
+      "FERREIRA",
       "PASTORA SANDRA FERREIRA",
       "SANDRA APARECIDA FERREIRA SILVA"
     ],
@@ -212594,7 +212955,6 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "DC",
     "aliases": [
-      "ALBERY",
       "ALBERY MARTINS E SILVA",
       "DR ALBERY"
     ],
@@ -212606,7 +212966,6 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "DC",
     "aliases": [
-      "CANNABIS",
       "DR CANNABIS",
       "MARCILIO DO VALE ALBUQUERQUE"
     ],
@@ -213220,6 +213579,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "DC",
     "aliases": [
+      "DAHER",
       "FABIO DAHER",
       "TENENTE FABIO DAHER"
     ],
@@ -213890,6 +214250,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PRD",
     "aliases": [
+      "BRUNO",
       "DOUTOR JOSÉ BRUNO",
       "JOSE BRUNO GEMAQUE COSTA"
     ],
@@ -214405,7 +214766,6 @@
     "party": "AVANTE",
     "aliases": [
       "BOMBEIRO GUARACY",
-      "GUARACY",
       "GUARACY RIBEIRO FILHO"
     ],
     "tse_sequencial": "250002550249"
@@ -214545,6 +214905,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PSDB",
     "aliases": [
+      "CALVO",
       "JANAINA MACEDO CALVO",
       "PROFESSORA JANAINA CALVO"
     ],
@@ -214722,6 +215083,7 @@
     "party": "PSB",
     "aliases": [
       "CLAUDIO BARBOSA VENTURA",
+      "MUNDO",
       "PROFESSOR DO FIM DO MUNDO"
     ],
     "tse_sequencial": "250002539255"
@@ -215242,7 +215604,8 @@
     "party": "PT",
     "aliases": [
       "LUIZ ROQUE EIGLMEIER",
-      "PROFESSOR LUIZ ROQUE"
+      "PROFESSOR LUIZ ROQUE",
+      "ROQUE"
     ],
     "tse_sequencial": "250002536754"
   },
@@ -215974,7 +216337,6 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "DC",
     "aliases": [
-      "ANGELA",
       "ANGELA MARIA DOS SANTOS SILVA",
       "MISSIONARIA ANGELA"
     ],
@@ -215987,7 +216349,6 @@
     "party": "DC",
     "aliases": [
       "DRA MARISTELA",
-      "MARISTELA",
       "MARISTELA MACHADO LEITE GOMES"
     ],
     "tse_sequencial": "250002552628"
@@ -216367,6 +216728,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "UNIÃO",
     "aliases": [
+      "ALVES",
       "PASTORA SANDRA ALVES",
       "SANDRA APARECIDA DE SOUZA ALVES"
     ],
@@ -216415,7 +216777,6 @@
     "party": "UNIÃO",
     "aliases": [
       "DR ELTON",
-      "ELTON",
       "ELTON ALVES RIBEIRO DE CARVALHO JUNIOR"
     ],
     "tse_sequencial": "250002532326"
@@ -216543,6 +216904,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "BILYNSKYJ",
       "DELEGADO PAULO BILYNSKYJ",
       "PAULO FRANCISCO MUNIZ BILYNSKYJ"
     ],
@@ -216759,7 +217121,6 @@
     "party": "DC",
     "aliases": [
       "IRMÃ PAULINA",
-      "PAULINA",
       "PAULINA ROSA DE SOUZA JACINTO"
     ],
     "tse_sequencial": "250002553788"
@@ -216877,8 +217238,7 @@
     "party": "PP",
     "aliases": [
       "DR RAFU",
-      "JOSEPH RAFFOUL JUNIOR",
-      "RAFU"
+      "JOSEPH RAFFOUL JUNIOR"
     ],
     "tse_sequencial": "250002533749"
   },
@@ -217036,6 +217396,7 @@
     "party": "MOBILIZA",
     "aliases": [
       "JULIANA DE OLIVEIRA MARTINS MACHADO",
+      "MACHADO",
       "PROFESSORA JULIANA MACHADO"
     ],
     "tse_sequencial": "250002552900"
@@ -217427,7 +217788,6 @@
     "party": "PODE",
     "aliases": [
       "ENGENHEIRO PAULINHO",
-      "PAULINHO",
       "PAULO HENRIQUE DO NASCIMENTO"
     ],
     "tse_sequencial": "250002545215"
@@ -217651,6 +218011,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "CELSO NEULAND RUSSOMANNO",
+      "RUSSOMANNO",
       "TENENTE CELSINHO RUSSOMANNO"
     ],
     "tse_sequencial": "250002541907"
@@ -218038,7 +218399,8 @@
     "party": "MDB",
     "aliases": [
       "EDIMAR RIBEIRO DA SILVA",
-      "PASTOR EDIMAR RIBEIRO"
+      "PASTOR EDIMAR RIBEIRO",
+      "RIBEIRO"
     ],
     "tse_sequencial": "250002534196"
   },
@@ -218359,6 +218721,7 @@
     "party": "PSDB",
     "aliases": [
       "ALESSANDRO HIRATA",
+      "HIRATA",
       "PROFESSOR ALESSANDRO HIRATA"
     ],
     "tse_sequencial": "250002550045"
@@ -218441,6 +218804,7 @@
     "party": "PSD",
     "aliases": [
       "ANDERSON DA SILVA GUIMARAES",
+      "GUIMARAES",
       "PROFESSOR ANDERSON GUIMARAES"
     ],
     "tse_sequencial": "250002540568"
@@ -218463,7 +218827,8 @@
     "party": "PSD",
     "aliases": [
       "DELEGADA JÚLIA NUNES",
-      "JULIA NUNES MACHADO"
+      "JULIA NUNES MACHADO",
+      "NUNES"
     ],
     "tse_sequencial": "250002540590"
   },
@@ -218711,6 +219076,7 @@
     "party": "PL",
     "aliases": [
       "DELEGADO SANDRO MONTANARI",
+      "MONTANARI",
       "SANDRO MONTANARI RAMOS DE VASCONCELLOS"
     ],
     "tse_sequencial": "250002536382"
@@ -218816,6 +219182,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "BRESSAN",
       "DELEGADO HELIO BRESSAN",
       "HELIO BRESSAN"
     ],
@@ -218946,6 +219313,7 @@
     "party": "NOVO",
     "aliases": [
       "CHRISTIAN LOHBAUER",
+      "LOHBAUER",
       "PROFESSOR CHRISTIAN LOHBAUER"
     ],
     "tse_sequencial": "250002530170"
@@ -219249,7 +219617,6 @@
     "party": "PDT",
     "aliases": [
       "DRA KENIA",
-      "KENIA",
       "KENIA LIRA SCIASCIO"
     ],
     "tse_sequencial": "250002548464"
@@ -219261,8 +219628,7 @@
     "party": "PDT",
     "aliases": [
       "DRA NÉIA",
-      "IVONEIA DOS SANTOS CABRAL LEMES",
-      "NÉIA"
+      "IVONEIA DOS SANTOS CABRAL LEMES"
     ],
     "tse_sequencial": "250002548488"
   },
@@ -219681,6 +220047,7 @@
     "party": "REPUBLICANOS",
     "aliases": [
       "FLAVIO MARTINS ALVES NUNES JUNIOR",
+      "MARTINS",
       "PROFESSOR FLAVIO MARTINS"
     ],
     "tse_sequencial": "250002537965"
@@ -219883,6 +220250,7 @@
     "party": "MISSÃO",
     "aliases": [
       "JONATHAN DE OLIVEIRA CAMPOS",
+      "OLIVEIRA",
       "PROFESSOR JONATHAN OLIVEIRA"
     ],
     "tse_sequencial": "250002546649"
@@ -220288,6 +220656,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "SOLIDARIEDADE",
     "aliases": [
+      "BOMBEIRO",
       "FABIO DEL MONTE SOBRINHO",
       "PASTOR FABIO BOMBEIRO"
     ],
@@ -220561,6 +220930,7 @@
     "party": "PSD",
     "aliases": [
       "ALMIR BASTOS DE ARAUJO",
+      "ARAUJO",
       "PASTOR ALMIR ARAUJO"
     ],
     "tse_sequencial": "250002541121"
@@ -220738,7 +221108,8 @@
     "party": "PL",
     "aliases": [
       "KATIA DA SILVA SASTRE",
-      "POLICIAL KATIA SASTRE"
+      "POLICIAL KATIA SASTRE",
+      "SASTRE"
     ],
     "tse_sequencial": "250002535976"
   },
@@ -221050,8 +221421,7 @@
     "party": "MOBILIZA",
     "aliases": [
       "DR LUIZINHO",
-      "LUIZ CARLOS DA SILVA",
-      "LUIZINHO"
+      "LUIZ CARLOS DA SILVA"
     ],
     "tse_sequencial": "250002552874"
   },
@@ -221158,7 +221528,8 @@
     "party": "PT",
     "aliases": [
       "JOÃO PAULO SOUZA DE ALENCAR",
-      "PROFESSOR JOÃO TODY"
+      "PROFESSOR JOÃO TODY",
+      "TODY"
     ],
     "tse_sequencial": "250002536252"
   },
@@ -221253,6 +221624,7 @@
     "party": "PSOL",
     "aliases": [
       "AUSTRIQUILIANO LUCENA MARTINS",
+      "LUCENA",
       "PROFESSOR AUSTRIQUI LUCENA"
     ],
     "tse_sequencial": "250002538902"
@@ -221985,6 +222357,7 @@
     "party": "MISSÃO",
     "aliases": [
       "ADVOGADA PALOMA NADAL",
+      "NADAL",
       "PALOMA KAREN LUCIANO BALBINO"
     ],
     "tse_sequencial": "250002545049"
@@ -222124,6 +222497,7 @@
     "party": "MDB",
     "aliases": [
       "PASTOR ROGERIO DA QUITANDA",
+      "QUITANDA",
       "ROGERIO PEREIRA MARQUES"
     ],
     "tse_sequencial": "250002533949"
@@ -222147,7 +222521,6 @@
     "party": "DEMOCRATA",
     "aliases": [
       "MISSIONÁRIA THAINA",
-      "THAINA",
       "THAINA FRANCIELE THOMAZ RODRIGUES"
     ],
     "tse_sequencial": "250002554057"
@@ -222565,6 +222938,7 @@
     "party": "PSD",
     "aliases": [
       "FERNANDA GABRIELA WINDER MARTINS",
+      "GABRIELA",
       "PROFESSORA FERNANDA GABRIELA"
     ],
     "tse_sequencial": "250002540585"
@@ -222706,6 +223080,7 @@
     "role": "Candidato(a) a Deputado Estadual (SP) — Eleição 2026",
     "party": "PSB",
     "aliases": [
+      "BARROS",
       "CARLOS PINTO FERREIRA BARROS",
       "PROFESSOR CARLOS DE BARROS"
     ],
@@ -222754,7 +223129,8 @@
     "party": "PSB",
     "aliases": [
       "ISABEL CRISTINA RODRIGUES",
-      "PROFESSORA ISABEL RODRIGUES"
+      "PROFESSORA ISABEL RODRIGUES",
+      "RODRIGUES"
     ],
     "tse_sequencial": "250002539292"
   },
@@ -223031,7 +223407,6 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "DEMOCRATA",
     "aliases": [
-      "CIDO",
       "ENGENHEIRO CIDO",
       "JOSE APARECIDO ROSA FILHO"
     ],
@@ -223186,7 +223561,8 @@
     "party": "PT",
     "aliases": [
       "PROFESSORA RUTH SILVA",
-      "RUTH MARY DA SILVA"
+      "RUTH MARY DA SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "250002536713"
   },
@@ -223337,7 +223713,8 @@
     "party": "PSB",
     "aliases": [
       "ADOLPHO HENRIQUE DE PAULA RAMOS",
-      "DELEGADO ADOLPHO HENRIQUE"
+      "DELEGADO ADOLPHO HENRIQUE",
+      "HENRIQUE"
     ],
     "tse_sequencial": "250002539423"
   },
@@ -223834,6 +224211,7 @@
     "party": "PODE",
     "aliases": [
       "ANDERSON FIGUEIRA LOPES",
+      "FIGUEIRA",
       "PROFESSOR ANDERSON FIGUEIRA"
     ],
     "tse_sequencial": "250002544335"
@@ -224558,6 +224936,7 @@
     "role": "Candidato(a) a Deputado Federal (SP) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "FELICIANO",
       "MARCO ANTONIO FELICIANO",
       "PASTOR MARCO FELICIANO"
     ],
@@ -224593,6 +224972,7 @@
     "party": "PL",
     "aliases": [
       "MAJOR VITOR SANTOS",
+      "SANTOS",
       "VITOR LEONARDO SANTOS VARCILIO"
     ],
     "tse_sequencial": "250002535960"
@@ -224882,6 +225262,7 @@
     "party": "PSDB",
     "aliases": [
       "JOAO LUIZ ROCHA",
+      "LUIZ",
       "PASTOR JOÃO LUIZ"
     ],
     "tse_sequencial": "20002553595"
@@ -225271,8 +225652,7 @@
     "party": "UNIÃO",
     "aliases": [
       "IRMÃ NAZARÉ",
-      "MARIA NAZARÉ ALVES PEREIRA",
-      "NAZARÉ"
+      "MARIA NAZARÉ ALVES PEREIRA"
     ],
     "tse_sequencial": "20002548337"
   },
@@ -225376,6 +225756,7 @@
     "party": "PL",
     "aliases": [
       "CORONEL DO VALLE",
+      "VALLE",
       "WALTER DO VALLE DE MELO JÚNIOR"
     ],
     "tse_sequencial": "20002550554"
@@ -225468,6 +225849,7 @@
     "role": "Candidato(a) a Deputado Federal (AL) — Eleição 2026",
     "party": "PP",
     "aliases": [
+      "COSTA",
       "DELEGADO FABIO COSTA",
       "FABIO MICHEY COSTA DA SILVA"
     ],
@@ -226237,7 +226619,6 @@
     "role": "Candidato(a) a Deputado Estadual (AL) — Eleição 2026",
     "party": "PRD",
     "aliases": [
-      "DEBORA",
       "DEBORA DA SILVA BARBOSA LIMA",
       "ENFERMEIRA DEBORA"
     ],
@@ -226261,6 +226642,7 @@
     "role": "Candidato(a) a Deputado Estadual (AL) — Eleição 2026",
     "party": "UP",
     "aliases": [
+      "JOSÉ",
       "MARIA JOSE DOS SANTOS",
       "PROFESSORA MARIA JOSÉ"
     ],
@@ -226461,7 +226843,6 @@
     "role": "Candidato(a) a Deputado Estadual (AL) — Eleição 2026",
     "party": "DC",
     "aliases": [
-      "ALBERTO",
       "IRMÃO ALBERTO",
       "JOSE ALBERTO DOS SANTOS"
     ],
@@ -226497,6 +226878,7 @@
     "party": "PCDOB",
     "aliases": [
       "MAJOR PAULO NUNES",
+      "NUNES",
       "PAULO ROBERTO NUNES CALAÇA"
     ],
     "tse_sequencial": "20002540112"
@@ -226854,7 +227236,8 @@
     "party": "PL",
     "aliases": [
       "ANTONIO MARCOS DA ROCHA LIMA",
-      "CORONEL ROCHA LIMA"
+      "CORONEL ROCHA LIMA",
+      "LIMA"
     ],
     "tse_sequencial": "20002550916"
   },
@@ -227123,7 +227506,6 @@
     "party": "DC",
     "aliases": [
       "BISPO FILHO",
-      "FILHO",
       "JOSÉ BISPO DA SILVA FILHO"
     ],
     "tse_sequencial": "20002552713"
@@ -227284,6 +227666,7 @@
     "role": "Candidato(a) a Deputado Estadual (AL) — Eleição 2026",
     "party": "MDB",
     "aliases": [
+      "ALVES",
       "KAROL DIAS ALVES",
       "TENENTE KAROL ALVES"
     ],
@@ -227426,6 +227809,7 @@
     "party": "PT",
     "aliases": [
       "PASTOR WELLINGTON DO PINHEIRO",
+      "PINHEIRO",
       "WELLINGTON SANTOS"
     ],
     "tse_sequencial": "20002540677"
@@ -227590,6 +227974,7 @@
     "role": "Candidato(a) a Deputado Estadual (AL) — Eleição 2026",
     "party": "PSDB",
     "aliases": [
+      "BRITO",
       "PROFESSOR BETO BRITO",
       "VALBERTSON DE BRITO LYRA SANTOS"
     ],
@@ -227887,7 +228272,8 @@
     "party": "MOBILIZA",
     "aliases": [
       "ALICE MAFRA CAVALCANTE REIS PENAFORT",
-      "DOUTORA ALICE MAFRA"
+      "DOUTORA ALICE MAFRA",
+      "MAFRA"
     ],
     "tse_sequencial": "40002549918"
   },
@@ -228184,7 +228570,8 @@
     "party": "PSD",
     "aliases": [
       "DELEGADO LÁZARO MENDES",
-      "LAZARO SEBASTIAO SANTIAGO MENDES NETO"
+      "LAZARO SEBASTIAO SANTIAGO MENDES NETO",
+      "MENDES"
     ],
     "tse_sequencial": "40002532764"
   },
@@ -228548,7 +228935,8 @@
     "party": "PL",
     "aliases": [
       "ALBERTO BARROS CAVALCANTE NETO",
-      "CAPITÃO ALBERTO NETO"
+      "CAPITÃO ALBERTO NETO",
+      "NETO"
     ],
     "tse_sequencial": "40002542686"
   },
@@ -228738,7 +229126,8 @@
     "party": "AVANTE",
     "aliases": [
       "ANTONIO DALMIR BEZERRA SALAZAR",
-      "PROFESSOR DALMIR SALAZAR"
+      "PROFESSOR DALMIR SALAZAR",
+      "SALAZAR"
     ],
     "tse_sequencial": "40002536436"
   },
@@ -229068,7 +229457,6 @@
     "role": "Candidato(a) a Deputado Estadual (AM) — Eleição 2026",
     "party": "AVANTE",
     "aliases": [
-      "ALCINETE",
       "ALCINETE FEITOSA DOS SANTOS",
       "DRA ALCINETE"
     ],
@@ -229521,7 +229909,8 @@
     "party": "PL",
     "aliases": [
       "DELEGADO COSTA E SILVA",
-      "RAFAEL AMARAL DA COSTA E SILVA"
+      "RAFAEL AMARAL DA COSTA E SILVA",
+      "SILVA"
     ],
     "tse_sequencial": "40002540485"
   },
@@ -229816,7 +230205,6 @@
     "party": "AVANTE",
     "aliases": [
       "ENFERMEIRA JUCINARA",
-      "JUCINARA",
       "JUCINARA OLIVEIRA DA SILVA RODRIGUES"
     ],
     "tse_sequencial": "40002537348"
@@ -229935,6 +230323,7 @@
     "role": "Candidato(a) a Governador (AM) — Eleição 2026",
     "party": "PL",
     "aliases": [
+      "CARMO",
       "MARIA DO CARMO SEFFAIR LINS DE ALBUQUERQUE",
       "PROFESSORA MARIA DO CARMO"
     ],
@@ -230099,6 +230488,7 @@
     "party": "UNIÃO",
     "aliases": [
       "PROFESSORA THEREZINHA RUIZ",
+      "RUIZ",
       "THEREZINHA RUIZ DE OLIVEIRA"
     ],
     "tse_sequencial": "40002542671"
@@ -230237,7 +230627,8 @@
     "party": "PSD",
     "aliases": [
       "DELEGADA DÉBORA MAFRA",
-      "DÉBORA CRISTINA PEREIRA MAFRA"
+      "DÉBORA CRISTINA PEREIRA MAFRA",
+      "MAFRA"
     ],
     "tse_sequencial": "40002532765"
   },
@@ -230354,6 +230745,7 @@
     "role": "Candidato(a) a Deputado Federal (AM) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "COSTA",
       "PASTORA RUTH COSTA",
       "RUTH DA COSTA CONCEIÇÃO DA ROCHA"
     ],
@@ -230709,6 +231101,7 @@
     "role": "Candidato(a) a Deputado Estadual (AM) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "ALMEIDA",
       "CORONEL VINICIUS ALMEIDA",
       "MARCUS VINICIUS OLIVEIRA DE ALMEIDA"
     ],
@@ -230805,6 +231198,7 @@
     "party": "MDB",
     "aliases": [
       "CORONEL WILSON MARQUES",
+      "MARQUES",
       "WILSON DOS SANTOS MARQUES FILHO"
     ],
     "tse_sequencial": "40002532735"
@@ -231054,7 +231448,8 @@
     "party": "PSD",
     "aliases": [
       "ANA MARIA OLIVEIRA DA SILVA",
-      "DELEGADA ANA OLIVEIRA"
+      "DELEGADA ANA OLIVEIRA",
+      "OLIVEIRA"
     ],
     "tse_sequencial": "40002532785"
   },
@@ -231125,6 +231520,7 @@
     "party": "AGIR",
     "aliases": [
       "DOUTOR JOÃO FERNANDES",
+      "FERNANDES",
       "JOÃO FERNANDES DE AZEVEDO"
     ],
     "tse_sequencial": "40002536479"
@@ -231172,6 +231568,7 @@
     "party": "AGIR",
     "aliases": [
       "CAPITÃO DILSON CASTRO",
+      "CASTRO",
       "DILSON CASTRO PEREIRA"
     ],
     "tse_sequencial": "40002541628"
@@ -231265,6 +231662,7 @@
     "party": "AVANTE",
     "aliases": [
       "DELEGADO PAULO MAVIGNIER",
+      "MAVIGNIER",
       "PAULO MAVIGNIER NOGUEIRA"
     ],
     "tse_sequencial": "40002537347"
@@ -231608,6 +232006,7 @@
     "party": "DC",
     "aliases": [
       "JOSILENE VASCONCELOS MAIA",
+      "MAIA",
       "PROFESSORA LENE MAIA"
     ],
     "tse_sequencial": "40002536084"
@@ -231701,6 +232100,7 @@
     "party": "PODE",
     "aliases": [
       "AMILTON BEZERRA GADELHA",
+      "GADELHA",
       "PROFESSOR AMILTON GADELHA"
     ],
     "tse_sequencial": "40002541591"
@@ -231986,7 +232386,6 @@
     "party": "PODE",
     "aliases": [
       "ENFERMEIRA LILI",
-      "LILI",
       "LILIANE OLIVEIRA DA SILVA"
     ],
     "tse_sequencial": "40002541592"
@@ -232044,6 +232443,7 @@
     "role": "Candidato(a) a Deputado Federal (AM) — Eleição 2026",
     "party": "PP",
     "aliases": [
+      "ADRIANA",
       "ADRIANA SALES GOMES",
       "TENENTE CORONEL ADRIANA"
     ],
@@ -232067,6 +232467,7 @@
     "role": "Candidato(a) a Deputado Federal (AM) — Eleição 2026",
     "party": "DC",
     "aliases": [
+      "LANE",
       "PROFESSOR ROQUE LANE",
       "ROQUE LANE WILKENS MARINHO"
     ],
@@ -232079,7 +232480,8 @@
     "party": "DC",
     "aliases": [
       "AMANDA TEREZA NASCIMENTO DE SOUZA",
-      "DOUTORA AMANDA SOUZA"
+      "DOUTORA AMANDA SOUZA",
+      "SOUZA"
     ],
     "tse_sequencial": "40002536080"
   },
@@ -232090,7 +232492,8 @@
     "party": "MDB",
     "aliases": [
       "CABO JONAS NATARIO",
-      "JONAS DO NASCIMENTO NATARIO"
+      "JONAS DO NASCIMENTO NATARIO",
+      "NATARIO"
     ],
     "tse_sequencial": "40002532739"
   },
@@ -232575,6 +232978,7 @@
     "role": "Candidato(a) a Deputado Estadual (AM) — Eleição 2026",
     "party": "PODE",
     "aliases": [
+      "FALCÃO",
       "MARIA EDITH DE MEDEIROS FALCÃO",
       "PROFESSORA EDITH FALCÃO"
     ],
@@ -232950,6 +233354,7 @@
     "role": "Candidato(a) a Deputado Estadual (AM) — Eleição 2026",
     "party": "PSD",
     "aliases": [
+      "COELHO",
       "DELEGADA JOYCE COELHO",
       "JOYCE COELHO VIANA"
     ],
@@ -232974,7 +233379,8 @@
     "party": "PSD",
     "aliases": [
       "AYSLAN CHRISTENNES CARVALHO MARQUES",
-      "DELEGADO  AYSLAN MARQUES"
+      "DELEGADO  AYSLAN MARQUES",
+      "MARQUES"
     ],
     "tse_sequencial": "40002532789"
   },
