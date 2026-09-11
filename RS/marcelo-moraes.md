@@ -1487,3 +1487,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 21:58 UTC]** Dias Toffoli diz que foi a jantar com degustação de Macallan em Londres a convite de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dias-toffoli-diz-que-foi-a-jantar-com-degustacao-de-macallan-em-londres-a-convite-de-moraes/)_
 
+- **[2026-09-11 23:34 UTC]** Gilmar pede a Fachin para adiar sessão sobre Moraes e incluir relatório sobre Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-pede-a-fachin-para-adiar-sessao-sobre-moraes-e-incluir-relatorio-sobre-mendonca/)_
+
