@@ -182,3 +182,6 @@
 - **[2026-09-10 13:36 UTC]** MPRJ denuncia cinco pessoas por morte de ciclista em Copacabana
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mprj-denuncia-cinco-pessoas-por-morte-de-ciclista-em-copacabana)_
 
+- **[2026-09-11 10:52 UTC]** Cinco estados estão em alerta para síndrome respiratória aguda grave
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/cinco-estados-estao-em-alerta-para-sindrome-respiratoria-aguda-grave)_
+
