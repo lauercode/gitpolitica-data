@@ -482,3 +482,6 @@
 - **[2026-09-11 16:30 UTC]** VÍDEO: Comércio que pegou fogo é alvo de invasão e furto após reinauguração em novo ponto no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/video-comercio-que-pegou-fogo-e-alvo-de-invasao-e-furto-apos-reinauguracao-em-novo-ponto-no-acre.ghtml)_
 
+- **[2026-09-11 20:06 UTC]** Caseiro de fazenda atravessa rio de trator durante estiagem intensa no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caseiro-de-fazenda-atravessa-rio-de-trator-durante-estiagem-intensa-no-acre-video.ghtml)_
+
