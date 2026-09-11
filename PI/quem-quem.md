@@ -440,3 +440,6 @@
 - **[2026-09-11 19:19 UTC]** Quem é Karina da Gama, produtora de “Dark Horse” investigada pela PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-karina-da-gama-produtora-de-dark-horse-investigada-pela-pf/)_
 
+- **[2026-09-11 19:06 UTC]** Maioria dos deputados em exercício busca a reeleição, mas cresce o número de quem concorre a outros cargos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304085-maioria-dos-deputados-em-exercicio-busca-a-reeleicao-mas-cresce-o-numero-de-quem-concorre-a-outros-cargos)_
+
