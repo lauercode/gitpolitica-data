@@ -62,3 +62,6 @@
 - **[2026-09-10 21:29 UTC]** Homem morre em acidente de trabalho no município de Bragança, nordeste do Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/homem-morre-em-acidente-de-trabalho-no-municipio-de-braganca-nordeste-do-para.ghtml)_
 
+- **[2026-09-11 12:28 UTC]** CE: peças teatrais de todo o Nordeste ocupam ruas de Guaramiranga
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/ce-pecas-teatrais-de-todo-o-nordeste-ocupam-ruas-de-guaramiranga)_
+
