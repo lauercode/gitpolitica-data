@@ -1361,3 +1361,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 00:51 UTC]** Oposição senatorial intensifica cobrança sobre Alcolumbre pelo impeachment de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
 
+- **[2026-09-11 00:20 UTC]** Moraes mantém poder no STF mesmo após perder inquérito das fake news
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-mantem-poder-no-stf-mesmo-apos-perder-inquerito-das-fake-news/)_
+
