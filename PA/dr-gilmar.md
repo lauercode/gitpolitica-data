@@ -92,3 +92,6 @@
 - **[2026-09-11 18:56 UTC]** Gilmar sugere adiar sessão do STF sobre Moraes e juntar caso a relatório que mira Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-sugere-adiar-sessao-do-stf-sobre-moraes-e-juntar-caso-a-relatorio-que-mira-mendonca.shtml)_
 
+- **[2026-09-11 23:34 UTC]** Gilmar pede a Fachin para adiar sessão sobre Moraes e incluir relatório sobre Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-pede-a-fachin-para-adiar-sessao-sobre-moraes-e-incluir-relatorio-sobre-mendonca/)_
+
