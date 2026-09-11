@@ -1382,3 +1382,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 06:00 UTC]** Secretário-geral da OAB-DF publica post que associa Lula a Alexandre de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/secretario-geral-da-oab-df-publica-post-que-associa-lula-a-alexandre-de-moraes.shtml)_
 
+- **[2026-09-10 19:44 UTC]** Inquérito das Fake News: a linha do tempo da investigação que saiu das mãos de Moraes por decisão de Fachin
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2z07z1zy6o?at_medium=RSS&at_campaign=rss)_
+
