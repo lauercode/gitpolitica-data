@@ -101,3 +101,6 @@
 - **[2026-09-11 14:36 UTC]** Vorcaro pagou viagens a Paris e Disney para servidores do BC que atuavam em favor do Master, diz PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-servidores-bc-master-pf/)_
 
+- **[2026-09-11 14:03 UTC]** Vorcaro tinha grupo de WhatsApp com servidores do Banco Central para pedir orientação, diz PF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj067g86l9lo?at_medium=RSS&at_campaign=rss)_
+
