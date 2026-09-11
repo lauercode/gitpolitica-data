@@ -1151,3 +1151,6 @@
 - **[2026-09-11 11:18 UTC]** Caso Dark Horse: documentos mostram Flávio Bolsonaro como investigado
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/dark-horse-documentos-mostram-flavio-bolsonaro-como-investigado)_
 
+- **[2026-09-11 13:00 UTC]** Campanha de Lula vai explorar na TV investigação no STF de Flávio Bolsonaro no financiamento de 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/11/campanha-de-lula-vai-explorar-na-tv-investigacao-no-stf-de-flavio-bolsonaro-no-financiamento-de-dark-horse.ghtml)_
+
