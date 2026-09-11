@@ -176,3 +176,6 @@
 - **[2026-09-10 19:17 UTC]** Forte, corajosa, leal: amigos e colegas homenageiam advogada que morreu em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/forte-corajosa-leal-amigos-e-colegas-homenageiam-advogada-que-morreu-em-boa-vista.ghtml)_
 
+- **[2026-09-11 09:00 UTC]** Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml)_
+
