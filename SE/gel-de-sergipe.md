@@ -230,3 +230,6 @@
 - **[2026-09-11 02:03 UTC]** Rodrigo Valadares minimiza divergências no PL em Sergipe e faz críticas ao STF
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/10/rodrigo-valadares-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-11 11:07 UTC]** Operação contra tráfico de drogas, extorsão e homicídio deixa dois mortos  no interior de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/operacao-contra-trafico-de-drogas-extorsao-e-homicidio-deixa-dois-mortos-no-interior-de-sergipe.ghtml)_
+
