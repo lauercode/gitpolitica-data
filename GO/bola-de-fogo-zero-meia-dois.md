@@ -377,3 +377,6 @@
 - **[2026-09-11 12:23 UTC]** São Paulo confirma mais dois casos de sarampo e total chega a 32
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-mais-dois-casos-de-sarampo-e-total-chega-32)_
 
+- **[2026-09-11 14:15 UTC]** Dois brasileiros do 11 de Setembro estão fora da lista oficial de mortos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/dois-brasileiros-do-11-de-setembro-estao-fora-da-lista-oficial-de-mortos.shtml)_
+
