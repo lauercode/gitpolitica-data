@@ -80,3 +80,6 @@
 - **[2026-09-11 13:11 UTC]** CNBB cobra esclarecimentos sobre a crise no STF e diz que ninguém está acima da lei: 'Justiça sem privilégios'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/11/cnbb-cobra-esclarecimentos-sobre-a-crise-no-stf-e-diz-que-ninguem-esta-acima-da-lei-justica-sem-privilegios.ghtml)_
 
+- **[2026-09-11 17:37 UTC]** PGR cobra de Fachin fim do sigilo de todos os documentos do Caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-cobra-de-fachin-fim-do-sigilo-de-todos-os-documentos-do-caso-master/)_
+
