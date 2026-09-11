@@ -41,3 +41,6 @@
 - **[2026-09-11 00:47 UTC]** Eleições 2026: Omar Aziz participa de evento e promete construir três maternidades em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-omar-aziz-participa-de-evento-e-promete-construir-tres-maternidades-em-manaus.ghtml)_
 
+- **[2026-09-11 17:58 UTC]** Eleições 2026: Omar Aziz defende incentivos para micro e pequenas empresas e estágio remunerado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-omar-aziz-defende-incentivos-para-micro-e-pequenas-empresas-e-estagio-remunerado.ghtml)_
+
