@@ -1220,3 +1220,6 @@
 - **[2026-09-11 15:49 UTC]** Especialistas apontam erros jurídicos em decisão de Flávio Dino contra Mário Frias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/especialistas-apontam-erros-juridicos-em-decisao-de-flavio-dino-contra-mario-frias/)_
 
+- **[2026-09-11 15:11 UTC]** Investigado em inquérito no STF sobre financiamento de 'Dark Horse', Flávio diz que é 'positivo tirar o sigilo de tudo'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/flavio-bolsonaro-campanha-setembro-2026-amazonas.ghtml)_
+
