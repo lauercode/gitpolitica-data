@@ -50,3 +50,6 @@
 - **[2026-09-10 23:04 UTC]** Eleições 2026 no PR: Sergio Moro propõe aumentar quantidade de horas de aulas em colégios
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-agenda-sergio-moro-10-setembro.ghtml)_
 
+- **[2026-09-11 19:14 UTC]** Eleições 2026 no PR: Sergio Moro diz que quer criar agência anticorrupção no estado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-no-pr-sergio-moro-11-setembro.ghtml)_
+
