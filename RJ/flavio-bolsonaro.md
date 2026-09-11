@@ -917,3 +917,6 @@
 - **[2026-09-11 11:39 UTC]** Flávio Bolsonaro é investigado em inquérito da PF aberto para apurar financiamento do filme 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/flavio-bolsonaro-e-investigado-em-inquerito-da-pf-aberto-para-apurar-financiamento-do-filme-dark-horse.ghtml)_
 
+- **[2026-09-11 07:00 UTC]** Menções ao Banco Master caem e favorecem Flávio Bolsonaro contra Lula, diz Datrix
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mencoes-ao-banco-master-caem-e-favorecem-flavio-bolsonaro-contra-lula-diz-datrix.shtml)_
+
