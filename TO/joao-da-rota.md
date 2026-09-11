@@ -26,3 +26,6 @@
 - **[2026-09-10 09:20 UTC]** Rota do celular roubado em SP inclui rua Guaianases, região da 25 de Março e Shopping Mundo Oriental, diz Promotoria
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/rota-do-celular-roubado-em-sp-inclui-rua-guaianases-regiao-da-25-de-marco-e-shopping-mundo-oriental-diz-promotoria.shtml)_
 
+- **[2026-09-11 12:13 UTC]** Entenda por que o Tocantins pode entrar na rota do urânio brasileiro
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/entenda-por-que-o-tocantins-pode-entrar-na-rota-do-uranio-brasileiro.ghtml)_
+
