@@ -254,3 +254,6 @@
 - **[2026-09-11 09:33 UTC]** 'Sobrevivi ao 11 de Setembro porque cheguei mais tarde ao trabalho': sobrevivente relembra os ataques
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c20ve8egnl4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 15:05 UTC]** Detento foge de presídio em Mossoró após pedir para ir ao banheiro durante trabalho na unidade
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/11/detento-foge-presidio-mossoro.ghtml)_
+
