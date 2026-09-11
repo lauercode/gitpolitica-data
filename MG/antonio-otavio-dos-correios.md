@@ -68,3 +68,6 @@
 - **[2026-09-11 16:32 UTC]** Funcionários dos Correios entram em greve por tempo indeterminado em AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/funcionarios-dos-correios-entram-em-greve-em-alagoas-por-tempo-indeterminado-paralisacao-e-nacional.ghtml)_
 
+- **[2026-09-11 16:47 UTC]** Trabalhadores dos Correios estão em greve por tempo indeterminado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/trabalhadores-dos-correios-estao-em-greve-por-tempo-indeterminado)_
+
