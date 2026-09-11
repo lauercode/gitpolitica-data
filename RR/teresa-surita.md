@@ -14,3 +14,6 @@
 - **[2026-09-01 12:07 UTC]** Candidata ao Senado, Teresa Surita apoia impeachments no STF e diz que Corte 'ultrapassou limites'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/candidata-ao-senado-teresa-surita-apoia-impeachments-no-stf-e-diz-que-corte-ultrapassou-limites.ghtml)_
 
+- **[2026-09-11 13:54 UTC]** Teresa Surita fala em ampliar políticas públicas para mulheres caso seja eleita senadora por RR
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/11/teresa-surita-fala-em-ampliar-politicas-publicas-para-mulheres-caso-seja-eleita-senadora-por-rr.ghtml)_
+
