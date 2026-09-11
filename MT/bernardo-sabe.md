@@ -77,3 +77,6 @@
 - **[2026-09-11 07:00 UTC]** Crianças e adolescente furtam carro e dirigem por Florianópolis: o que se sabe e o que falta saber
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/criancas-adolescente-furtam-carro-dirigem-florianopolis-o-que-se-sabe-o-que-falta-saber.ghtml)_
 
+- **[2026-09-11 09:00 UTC]** Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml)_
+
