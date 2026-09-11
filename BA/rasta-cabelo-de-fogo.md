@@ -146,3 +146,6 @@
 - **[2026-09-10 22:19 UTC]** Carreta pega fogo na BR-174 em Pacaraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/carreta-pega-fogo-na-br-174-em-pacaraima.ghtml)_
 
+- **[2026-09-11 16:30 UTC]** VÍDEO: Comércio que pegou fogo é alvo de invasão e furto após reinauguração em novo ponto no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/video-comercio-que-pegou-fogo-e-alvo-de-invasao-e-furto-apos-reinauguracao-em-novo-ponto-no-acre.ghtml)_
+
