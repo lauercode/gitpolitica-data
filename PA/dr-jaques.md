@@ -14,3 +14,6 @@
 - **[2026-09-11 22:47 UTC]** Mendonça libera sigilo de novos documentos do caso Master sobre Flávio Bolsonaro, Ciro Nogueira e Jaques Wagner
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/mendonca-libera-sigilo-de-mais-documentos-do-caso-master.ghtml)_
 
+- **[2026-09-11 23:40 UTC]** Mendonça derruba sigilo do caso Dark Horse e dos que envolvem Ciro Nogueira e Jaques Wagner
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-derruba-sigilo-do-caso-dark-horse-e-dos-que-envolvem-ciro-nogueira-e-jaques-wagner/)_
+
