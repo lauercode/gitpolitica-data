@@ -35,3 +35,6 @@
 - **[2026-09-11 20:35 UTC]** Após pedido de Zanin, Mendonça diz que celular de Vorcaro está com a PF e que gabinete possui apenas cópia 'lacrada' de conteúdo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/em-resposta-a-fachin-mendonca-diz-que-celular-de-vorcaro-esta-com-a-policia-federal.ghtml)_
 
+- **[2026-09-11 18:26 UTC]** Mendonça diz que dados de celular de Vorcaro estão intocados e não atende Zanin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-que-dados-de-celular-de-vorcaro-estao-intocados-e-nao-atende-zanin.shtml)_
+
