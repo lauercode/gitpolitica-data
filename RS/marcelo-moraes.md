@@ -1379,3 +1379,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 00:51 UTC]** Senadores da oposição intensificam cobrança sobre Alcolumbre pelo impeachment de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
 
+- **[2026-09-11 06:00 UTC]** Secretário-geral da OAB-DF publica post que associa Lula a Alexandre de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/secretario-geral-da-oab-df-publica-post-que-associa-lula-a-alexandre-de-moraes.shtml)_
+
