@@ -296,3 +296,6 @@
 - **[2026-09-11 12:22 UTC]** Flávio nega dinheiro público em Dark Horse antes de investigação autorizada por Mendonça ser revelada
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-nega-dinheiro-publico-em-dark-horse-antes-de-investigacao-autorizada-por-mendonca-ser-revelada/)_
 
+- **[2026-09-10 18:08 UTC]** “Nenhuma armação vai nos parar”, diz Flávio após operação do caso Dark Horse
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nenhuma-armacao-vai-nos-parar-diz-flavio-apos-operacao-do-caso-dark-horse/)_
+
