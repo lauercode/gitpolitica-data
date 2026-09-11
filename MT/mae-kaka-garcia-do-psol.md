@@ -14,3 +14,6 @@
 - **[2026-09-09 02:20 UTC]** Iran Barbosa fala de candidatura do PSOL mantida, divergências políticas e agricultura familiar
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/iran-barbosa-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-10 22:35 UTC]** Deputados de PSOL e Rede pedem cassação do mandato de Mario Frias por caso 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/deputados-de-psol-e-rede-pedem-cassacao-do-mandato-de-mario-frias-por-caso-dark-horse.shtml)_
+
