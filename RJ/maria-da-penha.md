@@ -14,3 +14,6 @@
 - **[2026-09-03 17:00 UTC]** Cinco dias após decisão do STF, Maria da Penha é usada em briga de vizinhos em Cuiabá
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cinco-dias-apos-decisao-do-stf-maria-da-penha-e-usada-em-briga-de-vizinhos-em-cuiaba.shtml)_
 
+- **[2026-09-11 21:50 UTC]** Justiça Eleitoral concede medida protetiva da Maria da Penha a candidata no RN em caso inédito no país, diz MP
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/11/justica-eleitoral-concede-medida-protetiva-da-maria-da-penha-a-candidata-no-rn-em-caso-inedito-no-pais-diz-mp.ghtml)_
+
