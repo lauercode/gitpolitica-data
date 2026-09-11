@@ -14,3 +14,6 @@
 - **[2026-09-06 14:42 UTC]** Onça-parda atravessa quintais de casas, foge para garagem de prédio e é capturada após 10 horas de operação em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/onca-parda-quintais-casas-garagem-predio-capturada-campos-novos.ghtml)_
 
+- **[2026-09-11 18:05 UTC]** Cheia de rio alaga casas e deixa mais de 100 desabrigados em Três Barras (SC)
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/cheia-rio-alaga-casas-desabrigados-tres-barras.ghtml)_
+
