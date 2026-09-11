@@ -98,3 +98,6 @@
 - **[2026-09-11 09:00 UTC]** Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml)_
 
+- **[2026-09-11 13:06 UTC]** Após mãe se acorrentar, hospital do TO emite relatório e aponta urgência na transferência de menino para SP
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/apos-mae-se-acorrentar-hospital-do-to-emite-relatorio-e-aponta-urgencia-na-transferencia-de-menino-para-sp.ghtml)_
+
