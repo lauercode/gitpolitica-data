@@ -20,3 +20,6 @@
 - **[2026-09-11 14:30 UTC]** Depois do 11 de Setembro, Washington confundiu o desejável com o possível
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2026/09/depois-do-11-de-setembro-washington-confundiu-o-desejavel-com-o-possivel.shtml)_
 
+- **[2026-09-11 17:33 UTC]** Eduardo e Figueiredo apontam “evidências mais que suficientes” para sanções contra Moraes e terão conversas em Washington
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eduardo-figueiredo-apontam-evidencias-mais-suficientes-sancoes-contra-moraes-terao-conversas-washington/)_
+
