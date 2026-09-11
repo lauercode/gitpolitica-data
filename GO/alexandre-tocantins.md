@@ -146,3 +146,6 @@
 - **[2026-09-11 08:30 UTC]** Golpistas usam dados pessoais para conquistar confiança e aplicar golpes em vítimas no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/golpistas-usam-dados-pessoais-para-conquistar-confianca-e-aplicar-golpes-em-vitimas-no-tocantins.ghtml)_
 
+- **[2026-09-11 13:15 UTC]** Imóveis vão a leilão no Tocantins com lances a partir de R$ 150 mil; veja opções
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/imoveis-vao-a-leilao-no-tocantins-com-lances-a-partir-de-r-150-mil-veja-opcoes.ghtml)_
+
