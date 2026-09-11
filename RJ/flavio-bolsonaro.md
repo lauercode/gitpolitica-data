@@ -956,3 +956,6 @@
 - **[2026-09-11 16:05 UTC]** Flávio Bolsonaro é investigado: 5 pontos que a PF quer esclarecer sobre o financiamento de 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/flavio-bolsonaro-e-investigado-5-pontos-que-a-pf-quer-esclarecer-sobre-o-financiamento-de-dark-horse.ghtml)_
 
+- **[2026-09-11 14:09 UTC]** Flávio Bolsonaro negociava recursos para 'Dark Horse' com Vorcaro, e Eduardo era gestor do dinheiro, diz PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-negociava-recursos-para-dark-horse-com-vorcaro-e-eduardo-era-gestor-do-dinheiro-diz-pf.shtml)_
+
