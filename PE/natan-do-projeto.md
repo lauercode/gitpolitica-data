@@ -335,3 +335,6 @@
 - **[2026-09-11 15:13 UTC]** Jovens de Baía Formosa representam o RN na Olimpíada Brasileira de Robótica com o Projeto Swell
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/11/jovens-de-baia-formosa-representam-o-rn-na-olimpiada-brasileira-de-robotica-com-o-projeto-swell.ghtml)_
 
+- **[2026-09-11 16:34 UTC]** Projeto prevê exibição obrigatória nos cinemas de campanhas sobre vacina contra o HPV
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304043-projeto-preve-exibicao-obrigatoria-nos-cinemas-de-campanhas-sobre-vacina-contra-o-hpv)_
+
