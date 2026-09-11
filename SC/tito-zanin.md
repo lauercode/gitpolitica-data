@@ -32,3 +32,6 @@
 - **[2026-09-11 17:14 UTC]** Zanin pede que Fachin envie dados do celular de Vorcaro em separado para “otimizar análise”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-pede-que-fachin-envie-dados-do-celular-de-vorcaro-em-separado-para-otimizar-analise/)_
 
+- **[2026-09-11 20:35 UTC]** Após pedido de Zanin, Mendonça diz que celular de Vorcaro está com a PF e que gabinete possui apenas cópia 'lacrada' de conteúdo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/em-resposta-a-fachin-mendonca-diz-que-celular-de-vorcaro-esta-com-a-policia-federal.ghtml)_
+
