@@ -11,3 +11,6 @@
 - **[2026-09-11 17:18 UTC]** Datafolha: Celina Leão (PP) lidera com 40% das intenções ao governo do DF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-celina-leao-lidera-com-40-das-intencoes-ao-governo-do-df-jose-roberto-arruda-tem-17.shtml)_
 
+- **[2026-09-11 17:18 UTC]** Datafolha: Celina Leão (PP) lidera com 40% das intenções ao Governo do DF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-celina-leao-lidera-com-40-das-intencoes-ao-governo-do-df-jose-roberto-arruda-tem-17.shtml)_
+
