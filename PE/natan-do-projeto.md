@@ -332,3 +332,6 @@
 - **[2026-09-11 10:46 UTC]** Comissão aprova projeto que proíbe ruas com nomes iguais no mesmo município
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303923-comissao-aprova-projeto-que-proibe-ruas-com-nomes-iguais-no-mesmo-municipio)_
 
+- **[2026-09-11 15:13 UTC]** Jovens de Baía Formosa representam o RN na Olimpíada Brasileira de Robótica com o Projeto Swell
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/11/jovens-de-baia-formosa-representam-o-rn-na-olimpiada-brasileira-de-robotica-com-o-projeto-swell.ghtml)_
+
