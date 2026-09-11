@@ -44,3 +44,6 @@
 - **[2026-09-11 21:54 UTC]** Zanin insiste em pedido de acesso a celular de Vorcaro e diz que conteúdo lacrado não impede compartilhamento por Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/zanin-reitera-pedido-de-acesso-a-celular-de-vorcaro-e-que-conteudo-lacrado-nao-impede-compartilhamento.ghtml)_
 
+- **[2026-09-11 18:26 UTC]** Zanin reforça pedido de acesso a celular de Vorcaro após Mendonça dizer que dados estão lacrados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-que-dados-de-celular-de-vorcaro-estao-intocados-e-nao-atende-zanin.shtml)_
+
