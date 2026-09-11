@@ -53,3 +53,6 @@
 - **[2026-09-10 11:24 UTC]** Fux dá 15 dias para governo Lula, Banco Central e FGC se manifestarem sobre socorro ao BRB
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fux-da-15-dias-para-governo-lula-banco-central-e-fgc-se-manifestarem-sobre-socorro-ao-brb.shtml)_
 
+- **[2026-09-11 20:04 UTC]** Lula diz que socorro na enchente do RS será padrão para 'qualquer desastre' no Brasil
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-diz-que-socorro-na-enchente-do-rs-sera-padrao-para-qualquer-desastre-no-brasil.ghtml)_
+
