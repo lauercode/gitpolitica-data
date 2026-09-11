@@ -125,3 +125,6 @@
 - **[2026-09-11 11:00 UTC]** Professor do Acre lança livro sobre teatro e saberes da floresta na Bienal do Livro em SP: 'Riqueza cultural'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/professor-do-acre-lanca-livro-sobre-teatro-e-saberes-da-floresta-na-bienal-do-livro-em-sp-riqueza-cultural.ghtml)_
 
+- **[2026-09-11 20:48 UTC]** Professor é preso no Amapá suspeito de aliciar menores em esquema de tráfico de drogas
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/11/professor-e-preso-no-amapa-suspeito-de-aliciar-menores-em-esquema-de-trafico-de-drogas.ghtml)_
+
