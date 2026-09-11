@@ -1223,3 +1223,6 @@
 - **[2026-09-11 15:11 UTC]** Investigado em inquérito no STF sobre financiamento de 'Dark Horse', Flávio diz que é 'positivo tirar o sigilo de tudo'
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/flavio-bolsonaro-campanha-setembro-2026-amazonas.ghtml)_
 
+- **[2026-09-11 19:49 UTC]** Inquérito sobre Flávio Bolsonaro apura lavagem de dinheiro, evasão de divisas e corrupção; entenda os crimes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/inquerito-sobre-flavio-bolsonaro-entenda-os-crimes.ghtml)_
+
