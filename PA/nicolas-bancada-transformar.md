@@ -17,3 +17,6 @@
 - **[2026-09-02 08:00 UTC]** Como a inteligência artificial pode transformar o caos fiscal em caixa para as empresas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://top-of-mind.folha.uol.com.br/2026/09/como-a-inteligencia-artificial-pode-transformar-o-caos-fiscal-em-caixa-para-as-empresas.shtml)_
 
+- **[2026-09-11 15:30 UTC]** Internauta viraliza ao transformar abertura do Globo Rural e aviso do metrô em dança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/internauta-viraliza-ao-transformar-abertura-do-globo-rural-e-aviso-do-metro-em-danca.shtml)_
+
