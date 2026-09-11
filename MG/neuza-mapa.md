@@ -35,3 +35,6 @@
 - **[2026-09-08 09:45 UTC]** Trump publica mapa que inclui Canadá, México e Groenlândia sob bandeira dos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-publica-mapa-que-inclui-canada-mexico-e-groenlandia-sob-bandeira-dos-eua.shtml)_
 
+- **[2026-09-11 11:02 UTC]** Japão pede alteração em novo mapa da ONU por representação de ilhas disputadas com a Rússia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/japao-pede-alteracao-em-novo-mapa-da-onu-por-representacao-de-ilhas-disputadas-com-a-russia.shtml)_
+
