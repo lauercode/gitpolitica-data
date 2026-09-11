@@ -53,3 +53,6 @@
 - **[2026-09-10 23:31 UTC]** Lula sai em defesa de Andrei: 'é da minha total confiança'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/lula-sai-em-defesa-de-andrei-e-da-minha-total-confianca.ghtml)_
 
+- **[2026-09-11 08:30 UTC]** Golpistas usam dados pessoais para conquistar confiança e aplicar golpes em vítimas no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/golpistas-usam-dados-pessoais-para-conquistar-confianca-e-aplicar-golpes-em-vitimas-no-tocantins.ghtml)_
+
