@@ -89,3 +89,6 @@
 - **[2026-09-10 15:00 UTC]** Canetas para emagrecer exigem mudança de hábitos para manter efeito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/canetas-para-emagrecer-exigem-mudanca-de-habitos-para-manter-efeito.shtml)_
 
+- **[2026-09-10 23:00 UTC]** Cheiro de Nova York, 25 anos após o 11 de Setembro, é o da mudança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/cheiro-de-nova-york-25-anos-apos-o-11-de-setembro-e-o-da-mudanca.shtml)_
+
