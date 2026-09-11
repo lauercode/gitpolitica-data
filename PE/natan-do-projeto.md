@@ -317,3 +317,6 @@
 - **[2026-09-10 23:00 UTC]** Por que o projeto da ultradireita na Europa ganha tração
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-greenhalgh/2026/09/por-que-o-projeto-da-ultradireita-na-europa-ganha-tracao.shtml)_
 
+- **[2026-09-11 04:00 UTC]** Derrota na Copa do Brasil faz SBT temer fim de projeto esportivo se não renovar Champions
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/derrota-na-copa-do-brasil-faz-sbt-temer-fim-de-projeto-esportivo-se-nao-renovar-champions.shtml)_
+
