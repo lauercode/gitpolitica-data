@@ -104,3 +104,6 @@
 - **[2026-09-11 14:03 UTC]** Vorcaro tinha grupo de WhatsApp com servidores do Banco Central para pedir orientação, diz PF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj067g86l9lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 13:09 UTC]** Vereador admite erro ao pedir que prefeito obrigue servidores a votar em candidatos apoiados pela gestão, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/vereador-admite-erro-ao-pedir-que-prefeito-obrigue-servidores-a-votar-em-candidatos-apoiados-pela-gestao-na-pb.ghtml)_
+
