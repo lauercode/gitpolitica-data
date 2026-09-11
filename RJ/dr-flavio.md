@@ -1163,3 +1163,6 @@
 - **[2026-09-11 12:00 UTC]** Flávio Bolsonaro faz inflexão no discurso sobre STF e fala em proteger corte, mas mantém contradições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-faz-inflexao-no-discurso-sobre-stf-e-fala-em-proteger-corte-mas-mantem-contradicoes.shtml)_
 
+- **[2026-09-11 10:35 UTC]** Flávio investigado e viagens de diretores do BC às custas de Vorcaro: o que há nos documentos do caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-investigado-e-viagens-de-diretores-do-bc-as-custas-de-vorcaro-o-que-ha-nos-documentos-do-caso-master.shtml)_
+
