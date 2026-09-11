@@ -950,3 +950,6 @@
 - **[2026-09-11 12:38 UTC]** Flávio Bolsonaro é investigado pela PF desde julho com autorização de Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-investigado-pf-julho-autorizacao-mendonca/)_
 
+- **[2026-09-11 13:31 UTC]** Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso 'Dark Horse'; Mendonça mantém inquérito sob sigilo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4g5ky0r25jo?at_medium=RSS&at_campaign=rss)_
+
