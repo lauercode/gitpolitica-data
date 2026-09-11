@@ -110,3 +110,6 @@
 - **[2026-09-11 13:12 UTC]** PF aponta viagens pagas por Vorcaro a servidores do Banco Central
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/pf-aponta-viagens-pagas-por-vorcaro-servidores-do-banco-central)_
 
+- **[2026-09-11 17:30 UTC]** PF afirma que Daniel Vorcaro bancou viagens de luxo para servidores do BC
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-afirma-que-daniel-vorcaro-bancou-viagens-de-luxo-para-servidores-do-bc/)_
+
