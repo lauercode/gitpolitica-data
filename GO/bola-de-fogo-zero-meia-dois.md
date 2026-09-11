@@ -359,3 +359,6 @@
 - **[2026-09-10 23:00 UTC]** Masp inaugura passagem subterrânea que conecta dois edifícios do museu
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/masp-inaugura-passagem-subterranea-que-conecta-dois-edificios-do-museu.shtml)_
 
+- **[2026-09-11 11:07 UTC]** Operação contra tráfico de drogas, extorsão e homicídio deixa dois mortos  no interior de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/operacao-contra-trafico-de-drogas-extorsao-e-homicidio-deixa-dois-mortos-no-interior-de-sergipe.ghtml)_
+
