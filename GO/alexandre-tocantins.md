@@ -140,3 +140,6 @@
 - **[2026-09-10 16:34 UTC]** Chuvas no Tocantins: entenda por que setembro teve temporais atípicos
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/10/chuvas-no-tocantins-entenda-por-que-setembro-teve-temporais-atipicos.ghtml)_
 
+- **[2026-09-11 00:07 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quinta-feira (10)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quinta-feira-10.ghtml)_
+
