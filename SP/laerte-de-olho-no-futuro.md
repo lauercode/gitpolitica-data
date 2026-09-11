@@ -62,3 +62,6 @@
 - **[2026-09-10 16:59 UTC]** Trainees da Folha simulam cirurgia robótica e exploram futuro da medicina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/09/trainees-da-folha-simulam-cirurgia-robotica-e-exploram-futuro-da-medicina.shtml)_
 
+- **[2026-09-11 12:58 UTC]** TSE julga candidatura presidencial de Marçal e define futuro político de empresário
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-julga-candidatura-pablo-marcal/)_
+
