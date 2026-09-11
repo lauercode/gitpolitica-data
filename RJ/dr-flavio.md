@@ -1196,3 +1196,6 @@
 - **[2026-09-11 13:31 UTC]** Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso 'Dark Horse'; Mendonça mantém inquérito sob sigilo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4g5ky0r25jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 15:11 UTC]** Investigado em inquérito no STF sobre financiamento de ‘Dark Horse’, Flávio diz que é ‘positivo tirar o sigilo de tudo’
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/flavio-bolsonaro-campanha-setembro-2026-amazonas.ghtml)_
+
