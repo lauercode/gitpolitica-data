@@ -20,3 +20,6 @@
 - **[2026-09-10 09:08 UTC]** 'Da Magia à Sedução: Feitiço de Amor', com Sandra Bullock, estreia nos cinemas da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/da-magia-a-seducao-feitico-de-amor-com-sandra-bullock-estreia-nos-cinemas-da-paraiba.ghtml)_
 
+- **[2026-09-11 17:05 UTC]** Grupo Tapa estreia 'Filumena Marturano' com Sandra Corveloni
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/grupo-tapa-estreia-filumena-marturano-com-sandra-corveloni.shtml)_
+
