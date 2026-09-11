@@ -143,3 +143,6 @@
 - **[2026-09-11 09:52 UTC]** Entenda a crise no STF e o fogo cruzado entre Moraes e Mendonça
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c24jr88lvqlo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-10 22:19 UTC]** Carreta pega fogo na BR-174 em Pacaraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/carreta-pega-fogo-na-br-174-em-pacaraima.ghtml)_
+
