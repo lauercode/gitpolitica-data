@@ -74,3 +74,6 @@
 - **[2026-09-10 23:00 UTC]** Observatório do STF cobra de Fachin proteção à corte e critica ministros que querem influenciar eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/observatorio-do-stf-cobra-de-fachin-protecao-a-corte-e-critica-ministros-que-querem-influenciar-eleicao.shtml)_
 
+- **[2026-09-11 12:00 UTC]** Flávio Bolsonaro faz inflexão no discurso sobre STF e fala em proteger corte, mas mantém contradições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-faz-inflexao-no-discurso-sobre-stf-e-fala-em-proteger-corte-mas-mantem-contradicoes.shtml)_
+
