@@ -35,3 +35,6 @@
 - **[2026-09-10 18:08 UTC]** Eleições 2026: David Almeida participa de entrevista e defende investimento em tecnologia policial
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-david-almeida-participa-de-entrevista-e-defende-investimento-em-tecnologia-policial.ghtml)_
 
+- **[2026-09-11 22:51 UTC]** Ministério Público Eleitoral defende que PF ouça David Almeida em investigação sobre suposta compra de votos em 2024
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/11/ministerio-publico-eleitoral-defende-que-pf-ouca-david-almeida-em-investigacao-sobre-suposta-compra-de-votos-em-2024.ghtml)_
+
