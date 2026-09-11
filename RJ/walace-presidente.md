@@ -497,3 +497,6 @@
 - **[2026-09-10 20:17 UTC]** Lula diz que Fachin colocou 'um pouco de ordem na casa', mas que espera mais de presidente do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-fachin-colocou-um-pouco-de-ordem-na-casa-mas-que-espera-mais-de-presidente-do-stf.shtml)_
 
+- **[2026-09-11 13:26 UTC]** Lula ataca Bolsonaro ao atribuir enriquecimento de Vorcaro ao governo do ex-presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-ataca-bolsonaro-enriquecimento-vorcaro-governo-ex-presidente/)_
+
