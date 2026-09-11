@@ -179,3 +179,6 @@
 - **[2026-09-10 23:00 UTC]** Sesc faz 80 anos e prepara abertura de unidade que será das maiores de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/sesc-faz-80-anos-e-prepara-abertura-de-unidade-que-sera-das-maiores-de-sao-paulo.shtml)_
 
+- **[2026-09-11 20:04 UTC]** Lula diz que socorro na enchente do RS será padrão para 'qualquer desastre' no Brasil
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-diz-que-socorro-na-enchente-do-rs-sera-padrao-para-qualquer-desastre-no-brasil.ghtml)_
+
