@@ -221,3 +221,6 @@
 - **[2026-09-10 07:00 UTC]** Urano fica retrógrado em gêmeos e põe a checagem de fonte no centro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/urano-fica-retrogrado-em-gemeos-e-poe-a-checagem-de-fonte-no-centro.shtml)_
 
+- **[2026-09-11 04:00 UTC]** Livro elege o Oriente Médio como centro de gravidade da literatura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/livro-elege-o-oriente-medio-como-centro-de-gravidade-da-literatura.shtml)_
+
