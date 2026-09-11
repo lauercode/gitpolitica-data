@@ -140,3 +140,6 @@
 - **[2026-09-10 19:18 UTC]** Futebol de cegos: Brasil vai à final da Copa América contra Colômbia
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-de-cegos-brasil-vai-final-da-copa-america-contra-colombia)_
 
+- **[2026-09-11 04:00 UTC]** Derrota na Copa do Brasil faz SBT temer fim de projeto esportivo se não renovar Champions
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/derrota-na-copa-do-brasil-faz-sbt-temer-fim-de-projeto-esportivo-se-nao-renovar-champions.shtml)_
+
