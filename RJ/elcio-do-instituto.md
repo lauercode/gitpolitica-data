@@ -86,3 +86,6 @@
 - **[2026-09-10 22:22 UTC]** PF diz que produtora de 'Dark Horse' que recebeu emendas de Frias pagou R$ 300 mil a instituto que funcionava em loja de roupas
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-diz-que-produtora-de-dark-horse-que-recebeu-emendas-de-frias-pagou-r-300-mil-a-instituto-que-funcionava-em-loja-de-roupas.ghtml)_
 
+- **[2026-09-11 17:05 UTC]** Deputado do PT pede quebra de sigilo de instituto fundado por Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/deputado-do-pt-pede-quebra-de-sigilo-de-instituto-fundado-por-mendonca.shtml)_
+
