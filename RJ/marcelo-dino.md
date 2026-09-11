@@ -200,3 +200,6 @@
 - **[2026-09-10 19:50 UTC]** Dino convoca audiência pública sobre responsabilização de parlamentares por emendas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/dino-convoca-audiencia-publica-sobre-responsabilizacao-de-parlamentares-por-emendas/)_
 
+- **[2026-09-10 20:26 UTC]** Flávio diz que operação sobre 'Dark Horse' é tentativa de golpe e fala em acionar Fachin contra Dino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-diz-que-operacao-sobre-dark-horse-e-tentativa-de-golpe-e-fala-em-acionar-fachin-contra-dino.shtml)_
+
