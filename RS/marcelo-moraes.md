@@ -1415,3 +1415,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 11:57 UTC]** Vorcaro sondou proximidade com juiz que o prendeu e confirmou nome com Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-sondou-proximidade-com-juiz-que-o-prendeu-apos-confirmar-nome-com-moraes/)_
 
+- **[2026-09-11 13:07 UTC]** Moraes aponta “escolha seletiva” e pede divulgação de todo caso Master
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-aponta-escolha-seletiva-e-pede-divulgacao-de-todo-caso-master)_
+
