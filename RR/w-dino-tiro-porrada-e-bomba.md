@@ -29,3 +29,6 @@
 - **[2026-09-02 16:49 UTC]** Tribunal de Malta absolve magnata acusado de encomendar assassinato de jornalista morta por bomba
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/tribunal-de-malta-absolve-magnata-acusado-de-encomendar-assassinato-de-jornalista-morta-por-bomba.shtml)_
 
+- **[2026-09-11 17:00 UTC]** 1926: Mussolini sai ileso de atentado a bomba; polícia prende anarquista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-mussolini-sai-ileso-de-atentado-a-bomba-policia-prende-anarquista.shtml)_
+
