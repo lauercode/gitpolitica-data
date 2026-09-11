@@ -65,3 +65,6 @@
 - **[2026-09-11 14:13 UTC]** Lucas Veloso se pronuncia após ter Instagram retirado do ar por decisão judicial; VÍDEO
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/lucas-veloso-se-pronuncia-apos-ter-instagram-retirado-do-ar-por-decisao-judicial-video.ghtml)_
 
+- **[2026-09-11 17:51 UTC]** Lucas Ribeiro defende ampliação do passe livre estudantil para universitários na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/11/lucas-ribeiro-defende-ampliacao-do-passe-livre-estudantil-para-universitarios-na-paraiba.ghtml)_
+
