@@ -206,3 +206,6 @@
 - **[2026-09-11 17:05 UTC]** Moradores usam aspirador de pó e até a boca para sugar água da tubulação por falhas no abastecimento em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/moradores-aspirador-po-sugar-agua-tubulacao-sem-abastecimento-palhoca.ghtml)_
 
+- **[2026-09-11 20:05 UTC]** VÍDEOS flagram carros arrastados e supermercado 'debaixo d'água' durante temporal em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/videos-carros-arrastados-supermercado-debaixo-dagua-emporal-joacaba.ghtml)_
+
