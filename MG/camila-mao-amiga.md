@@ -23,3 +23,6 @@
 - **[2026-09-09 15:31 UTC]** Advogado do Paraná se torna réu por estupro de adolescente e importunação sexual de amiga dela dentro de carro
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/advogado-parana-reu-estupro-adolescente-importunacao-sexual-amiga.ghtml)_
 
+- **[2026-09-11 14:24 UTC]** 'Alegre e atenciosa', diz amiga de mulher morta a tiros na frente de casa em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/alegre-e-atenciosa-diz-amiga-de-mulher-morta-a-tiros-na-frente-de-casa-em-rio-branco.ghtml)_
+
