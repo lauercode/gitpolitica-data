@@ -14,3 +14,6 @@
 - **[2026-08-27 22:36 UTC]** Quaest para o Senado em SE: Delegado André David, 11%; Rogério Carvalho, 11%; André Moura, 9%; Delegado Alessandro, 8%
   _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/27/quaest-para-o-senado-em-se-delegado-andre-david-11percent-rogerio-carvalho-11percent-andre-moura-9percent-delegado-alessandro-8percent.ghtml)_
 
+- **[2026-09-11 15:41 UTC]** Eleições 2026: Eduardo Amorim e Rogério Carvalho cancelam participação em entrevista na FM Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/candidatos-ao-senado-cancelam-entrevista-fm-sergipe.ghtml)_
+
