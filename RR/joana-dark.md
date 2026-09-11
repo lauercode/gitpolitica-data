@@ -263,3 +263,6 @@
 - **[2026-09-10 23:00 UTC]** Empresa que intermediou recurso a produtora de 'Dark Horse' funciona em loja de noivas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/empresa-que-intermediou-recurso-a-produtora-de-dark-horse-funciona-em-loja-de-noivas.shtml)_
 
+- **[2026-09-10 22:35 UTC]** Deputados de PSOL e Rede pedem cassação do mandato de Mario Frias por caso 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/deputados-de-psol-e-rede-pedem-cassacao-do-mandato-de-mario-frias-por-caso-dark-horse.shtml)_
+
