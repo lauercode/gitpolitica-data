@@ -83,3 +83,6 @@
 - **[2026-09-10 19:18 UTC]** Futebol de cegos: Brasil vai à final da Copa América contra Colômbia
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-de-cegos-brasil-vai-final-da-copa-america-contra-colombia)_
 
+- **[2026-09-11 16:26 UTC]** Sobrevivente brasileiro do 11 de setembro é filho de ídolo do futebol e desceu 25 andares de escada
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/quem-e-sobrevivente-brasileiro-do-11-de-setembro.ghtml)_
+
