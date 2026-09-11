@@ -179,3 +179,6 @@
 - **[2026-09-11 09:00 UTC]** Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml)_
 
+- **[2026-09-11 10:59 UTC]** Jovem é apreendido suspeito de violentar homem com pedaço de madeira em AL; vítima morreu
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/jovem-e-apreendido-suspeito-de-violentar-homem-com-pedaco-de-madeira-em-al-vitima-morreu.ghtml)_
+
