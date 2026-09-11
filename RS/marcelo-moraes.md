@@ -1412,3 +1412,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 12:50 UTC]** Contrato de esposa de Moraes e Master previa “consultoria estratégica”, aponta PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/contrato-esposa-moraes-master-previa-consultoria-estrategica/)_
 
+- **[2026-09-11 11:57 UTC]** Vorcaro sondou proximidade com juiz que o prendeu e confirmou nome com Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-sondou-proximidade-com-juiz-que-o-prendeu-apos-confirmar-nome-com-moraes/)_
+
