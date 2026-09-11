@@ -14,3 +14,6 @@
 - **[2026-09-11 20:05 UTC]** Datafolha em MG: 37% aprovam trabalho de Simões como governador, e 38% desaprovam
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-avaliacao-governo-mg-11-setembro.ghtml)_
 
+- **[2026-09-11 20:05 UTC]** Datafolha em MG: 38% desaprovam trabalho de Simões como governador, e 37% aprovam
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-avaliacao-governo-mg-11-setembro.ghtml)_
+
