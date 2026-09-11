@@ -107,3 +107,6 @@
 - **[2026-09-11 13:09 UTC]** Vereador admite erro ao pedir que prefeito obrigue servidores a votar em candidatos apoiados pela gestão, na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/vereador-admite-erro-ao-pedir-que-prefeito-obrigue-servidores-a-votar-em-candidatos-apoiados-pela-gestao-na-pb.ghtml)_
 
+- **[2026-09-11 13:12 UTC]** PF aponta viagens pagas por Vorcaro a servidores do Banco Central
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/pf-aponta-viagens-pagas-por-vorcaro-servidores-do-banco-central)_
+
