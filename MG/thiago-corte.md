@@ -77,3 +77,6 @@
 - **[2026-09-11 12:00 UTC]** Flávio Bolsonaro faz inflexão no discurso sobre STF e fala em proteger corte, mas mantém contradições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-faz-inflexao-no-discurso-sobre-stf-e-fala-em-proteger-corte-mas-mantem-contradicoes.shtml)_
 
+- **[2026-09-11 13:59 UTC]** Deflação do IPCA reforça expectativa de novo corte de juros na próxima reunião do Copom
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/deflacao-do-ipca-reforca-expectativa-de-novo-corte-de-juros-na-proxima-reuniao-do-copom.shtml)_
+
