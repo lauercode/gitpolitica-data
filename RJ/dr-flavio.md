@@ -1205,3 +1205,6 @@
 - **[2026-09-11 14:09 UTC]** Flávio Bolsonaro negociava recursos para 'Dark Horse' com Vorcaro, e Eduardo era gestor do dinheiro, diz PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-negociava-recursos-para-dark-horse-com-vorcaro-e-eduardo-era-gestor-do-dinheiro-diz-pf.shtml)_
 
+- **[2026-09-11 13:46 UTC]** Lindbergh pede ao STF que investigue acusação de Renan sobre financiamento estrangeiro a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lindbergh-pede-ao-stf-que-investigue-acusacao-de-renan-sobre-financiamento-estrangeiro-a-flavio-bolsonaro.shtml)_
+
