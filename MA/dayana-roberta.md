@@ -53,3 +53,6 @@
 - **[2026-08-31 21:48 UTC]** Não vai cair sozinha: a “bomba-relógio” Roberta Luchsinger
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/nao-vai-cair-sozinha-a-bomba-relogio-roberta-luchsinger/)_
 
+- **[2026-09-11 11:00 UTC]** Roberta Miranda revela que descobriu não ser filha da mulher que a criou
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/roberta-miranda-revela-que-descobriu-nao-ser-filha-da-mulher-que-a-criou.shtml)_
+
