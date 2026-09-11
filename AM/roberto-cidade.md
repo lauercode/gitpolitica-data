@@ -194,3 +194,6 @@
 - **[2026-09-11 08:30 UTC]** Rock in Rio 2026: Joelma, Viviane Batidão, Félix Robatto e Zaynara levam o 'molho paraense' à Cidade do Rock
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/11/rock-in-rio-2026-joelma-viviane-batidao-felix-robatto-e-zaynara-levam-o-molho-paraense-a-cidade-do-rock.ghtml)_
 
+- **[2026-09-11 09:41 UTC]** Cidade de São Paulo confirma dois novos casos de sarampo; estado vai a 32
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/cidade-de-sao-paulo-confirma-dois-novos-casos-de-sarampo-estado-vai-a-32.shtml)_
+
