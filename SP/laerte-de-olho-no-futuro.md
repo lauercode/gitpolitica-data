@@ -65,3 +65,6 @@
 - **[2026-09-11 12:58 UTC]** TSE julga candidatura presidencial de Marçal e define futuro político de empresário
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-julga-candidatura-pablo-marcal/)_
 
+- **[2026-09-11 17:00 UTC]** O futuro incerto do Ministério da Cultura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/09/o-futuro-incerto-do-ministerio-da-cultura.shtml)_
+
