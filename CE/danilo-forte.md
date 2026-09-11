@@ -113,3 +113,6 @@
 - **[2026-09-11 05:00 UTC]** Sexta (11) tem previsão de chuva forte e risco de tornado no centro-sul de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sexta-11-tem-previsao-de-chuva-forte-e-risco-de-tornado-no-centro-sul-de-sao-paulo.shtml)_
 
+- **[2026-09-11 15:55 UTC]** Fim de semana na capital paulista terá chuva forte e rajadas de vento
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/fim-de-semana-na-capital-paulista-tera-chuva-forte-e-rajadas-de-vento)_
+
