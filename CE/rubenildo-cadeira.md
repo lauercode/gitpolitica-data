@@ -14,3 +14,6 @@
 - **[2026-09-10 22:13 UTC]** Câmera flagra agressão após briga por cadeira em faculdade de AL; VÍDEO
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/10/camera-flagra-agressao-apos-briga-por-cadeira-em-faculdade-de-al-video.ghtml)_
 
+- **[2026-09-10 19:58 UTC]** Brasil continua sem vitória no mundial de basquete em cadeira de rodas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-continua-sem-vitoria-no-mundial-de-basquete-em-cadeira-de-rodas)_
+
