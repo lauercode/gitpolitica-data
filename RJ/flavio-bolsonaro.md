@@ -992,3 +992,6 @@
 - **[2026-09-11 23:19 UTC]** Polícia Federal investiga produtora do filme sobre Bolsonaro por desvios
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-produtora-do-filme-sobre-bolsonaro-por-desvios/)_
 
+- **[2026-09-11 15:11 UTC]** Investigado em inquérito no STF sobre financiamento de 'Dark Horse', Flávio Bolsonaro diz que é 'positivo tirar o sigilo de tudo'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/flavio-bolsonaro-campanha-setembro-2026-amazonas.ghtml)_
+
