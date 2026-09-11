@@ -182,3 +182,6 @@
 - **[2026-09-11 20:04 UTC]** Lula diz que socorro na enchente do RS será padrão para 'qualquer desastre' no Brasil
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-diz-que-socorro-na-enchente-do-rs-sera-padrao-para-qualquer-desastre-no-brasil.ghtml)_
 
+- **[2026-09-11 18:39 UTC]** Enamed 2026: prova que avalia formação médica será neste domingo
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enamed-2026-prova-que-avalia-formacao-medica-sera-neste-domingo)_
+
