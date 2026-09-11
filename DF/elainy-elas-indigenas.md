@@ -53,3 +53,6 @@
 - **[2026-09-10 23:16 UTC]** MPF quer ação urgente contra tuberculose entre indígenas Kayapó em 9 municípios do Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/mpf-pede-acao-urgente-contra-tuberculose-entre-indigenas-kayapo-em-nove-municipios-do-para.ghtml)_
 
+- **[2026-09-11 14:49 UTC]** PF e Ibama destroem equipamentos de garimpo ilegal em terras indígenas de RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/11/pf-e-ibama-destroem-equipamentos-de-garimpo-ilegal-em-terras-indigenas-de-ro.ghtml)_
+
