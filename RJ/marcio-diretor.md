@@ -233,3 +233,6 @@
 - **[2026-09-11 12:21 UTC]** Termina nesta sexta prazo para diretor da PF se manifestar sobre ação que pede afastamento dele do cargo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/termina-nesta-sexta-prazo-para-diretor-da-pf-se-manifestar-sobre-acao-que-pede-afastamento-dele-do-cargo.ghtml)_
 
+- **[2026-09-11 13:41 UTC]** Vorcaro acionou ex-diretor do BC, seu 'anjo na vida', contra mudança em fundo de pensão, mostra PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/vorcaro-acionou-ex-diretor-do-bc-seu-anjo-na-vida-contra-mudanca-em-fundo-de-pensao-mostra-pf.shtml)_
+
