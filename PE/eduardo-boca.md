@@ -41,3 +41,6 @@
 - **[2026-09-10 13:01 UTC]** 'Baixa o dedinho'; debate no Ceará entre Ciro e Elmano viraliza após bate-boca
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/baixa-o-dedinho-debate-no-ceara-entre-ciro-e-elmano-viraliza-apos-bate-boca.shtml)_
 
+- **[2026-09-11 17:05 UTC]** Moradores usam aspirador de pó e até a boca para sugar água da tubulação por falhas no abastecimento em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/moradores-aspirador-po-sugar-agua-tubulacao-sem-abastecimento-palhoca.ghtml)_
+
