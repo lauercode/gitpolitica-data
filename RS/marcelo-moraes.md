@@ -1466,3 +1466,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 22:19 UTC]** Moraes diz que Mendonça direciona derrubada de sigilos para proteger 'grupo político'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/moraes-insiste-que-mendonca-faz-levantamento-de-sigilo-seletivo-e-fala-em-protecao-de-grupo-politico.ghtml)_
 
+- **[2026-09-11 21:33 UTC]** Gilmar Mendes pede que Fachin assuma caso envolvendo Moraes e relatório contra Mendonça seja analisado em conjunto
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/gilmar-mendes-pede-que-fachin-analise-conjunta-no-plenario-de-relatorio-sobre-mendonca.ghtml)_
+
