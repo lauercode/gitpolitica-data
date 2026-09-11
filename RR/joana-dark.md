@@ -281,3 +281,6 @@
 - **[2026-09-11 09:44 UTC]** Mendonça incluiu Flávio Bolsonaro como investigado no caso Dark Horse
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse)_
 
+- **[2026-09-11 14:59 UTC]** Em mensagem, Eduardo Bolsonaro cita que dinheiro para 'Dark Horse' vindo do Brasil seria 'problemático': 'ideal seria haver recursos já nos EUA'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/em-mensagem-eduardo-bolsonaro-orientou-gestao-de-recursos-de-dark-horse-nos-eua-diz-documento-da-pgr.ghtml)_
+
