@@ -926,3 +926,6 @@
 - **[2026-09-11 09:44 UTC]** Mendonça incluiu Flávio Bolsonaro como investigado no caso Dark Horse
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse)_
 
+- **[2026-09-11 11:18 UTC]** Caso Dark Horse: documentos mostram Flávio Bolsonaro como investigado
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/dark-horse-documentos-mostram-flavio-bolsonaro-como-investigado)_
+
