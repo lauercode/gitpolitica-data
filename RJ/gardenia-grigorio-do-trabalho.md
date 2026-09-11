@@ -251,3 +251,6 @@
 - **[2026-09-11 09:16 UTC]** Lá Vem o Enem: resolva questões de sociologia sobre plataformização do trabalho
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/09/11/la-vem-o-enem-resolva-questoes-de-sociologia-sobre-plataformizacao-do-trabalho.ghtml)_
 
+- **[2026-09-11 09:33 UTC]** 'Sobrevivi ao 11 de Setembro porque cheguei mais tarde ao trabalho': sobrevivente relembra os ataques
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c20ve8egnl4o?at_medium=RSS&at_campaign=rss)_
+
