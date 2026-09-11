@@ -1367,3 +1367,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 02:33 UTC]** Contrato de mulher de Moraes com Master fala em consultoria estratégica perante a PF; leia a íntegra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/contrato-de-mulher-de-moraes-com-master-fala-em-consultoria-estrategica-perante-a-pf-leia-a-integra.shtml)_
 
+- **[2026-09-10 23:04 UTC]** STF teme que vídeos de sessão sobre crise Moraes-Mendonça virem munição para campanhas nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-teme-que-videos-de-sessao-sobre-crise-moraes-mendonca-virem-municao-para-campanhas-nas-redes.shtml)_
+
