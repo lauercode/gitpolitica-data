@@ -77,3 +77,6 @@
 - **[2026-09-11 09:41 UTC]** Gilmar Mendes dá palestra na Itália em meio à crise no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-mendes-da-palestra-na-italia-em-meio-a-crise-no-stf.shtml)_
 
+- **[2026-09-11 14:04 UTC]** Gilmar Mendes dá palestra em universidade na Itália em meio à crise no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-da-palestra-em-universidade-na-italia-em-meio-a-crise-no-stf/)_
+
