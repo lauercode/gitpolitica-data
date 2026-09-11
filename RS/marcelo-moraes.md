@@ -1451,3 +1451,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 16:49 UTC]** Gonet diz que estará em sessão do STF que vai discutir inquérito contra Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/gonet-diz-que-estara-em-sessao-do-stf-que-vai-discutir-inquerito-contra-moraes.shtml)_
 
+- **[2026-09-11 16:38 UTC]** Chefe da PF diz a Fachin que relatório sobre Mendonça foi determinação de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/chefe-da-pf-diz-a-fachin-que-relatorio-sobre-mendonca-foi-determinacao-de-moraes.shtml)_
+
