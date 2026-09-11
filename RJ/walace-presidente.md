@@ -500,3 +500,6 @@
 - **[2026-09-11 13:26 UTC]** Lula ataca Bolsonaro ao atribuir enriquecimento de Vorcaro ao governo do ex-presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-ataca-bolsonaro-enriquecimento-vorcaro-governo-ex-presidente/)_
 
+- **[2026-09-11 19:14 UTC]** Master 'NUNCA deixará de ser o SEU banco', disse ex-presidente do BRB a Vorcaro, segundo relatório da PF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/noticia/2026/09/11/o-master-nunca-deixara-de-ser-o-seu-banco-disse-ex-presidente-do-brb-a-vorcaro-segundo-relatorio-da-pf.ghtml)_
+
