@@ -38,3 +38,6 @@
 - **[2026-09-09 09:25 UTC]** Médico escala prédio, invade apartamento de ex e é socorrido com ferimentos de tiro em Bauru
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/medico-escala-predio-invade-apartamento-de-ex-e-e-socorrido-com-ferimentos-de-tiro-em-bauru.shtml)_
 
+- **[2026-09-11 13:09 UTC]** Trio é preso suspeito de tráfico de drogas após perseguição com tiro disparado em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/trio-e-preso-suspeito-de-trafico-de-drogas-apos-perseguicao-com-tiro-disparado-em-boa-vista.ghtml)_
+
