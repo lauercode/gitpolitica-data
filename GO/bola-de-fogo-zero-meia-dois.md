@@ -353,3 +353,6 @@
 - **[2026-09-10 21:30 UTC]** Dois supermercados são autuados após fiscalização identificar produtos vencidos na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/dois-supermercados-sao-autuados-apos-fiscalizacao-identificar-produtos-vencidos-na-paraiba.ghtml)_
 
+- **[2026-09-10 22:00 UTC]** Dois erros não fazem um acerto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/dois-erros-nao-fazem-um-acerto.shtml)_
+
