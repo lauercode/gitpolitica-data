@@ -323,3 +323,6 @@
 - **[2026-09-11 15:01 UTC]** Projeto prevê uso de recursos do Fundo Social no combate à malária na Amazônia Legal
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304022-projeto-preve-uso-de-recursos-do-fundo-social-no-combate-a-malaria-na-amazonia-legal)_
 
+- **[2026-09-11 14:23 UTC]** Projeto prioriza doadores frequentes de sangue em campanhas de vacinação
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303641-projeto-prioriza-doadores-frequentes-de-sangue-em-campanhas-de-vacinacao)_
+
