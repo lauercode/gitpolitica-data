@@ -11,3 +11,6 @@
 - **[2026-09-05 18:28 UTC]** Morte de menino autista no Paraná: polícia conclui que queda da criança em tanque para decomposição de resíduos foi acidente e arquiva o caso
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/05/conclui-investigacao-morte-menino-autista-parana.ghtml)_
 
+- **[2026-09-11 08:00 UTC]** Quando a escola fecha as portas para uma criança autista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/vidas-atipicas/2026/09/quando-a-escola-fecha-as-portas-para-uma-crianca-autista.shtml)_
+
