@@ -53,3 +53,6 @@
 - **[2026-09-10 16:17 UTC]** Ronaldo Caiado é internado em São Paulo com faringite aguda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ronaldo-caiado-e-internado-em-sao-paulo-com-faringite-aguda.shtml)_
 
+- **[2026-09-11 11:26 UTC]** Internado em SP, Ronaldo Caiado recebe diagnóstico de pneumonia
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/internado-em-sp-ronaldo-caiado-recebe-diagnostico-de-pneumonia)_
+
