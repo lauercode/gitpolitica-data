@@ -269,3 +269,6 @@
 - **[2026-09-11 10:00 UTC]** Flávio Bolsonaro almeja grande pátria transnacional liderada por Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2026/09/flavio-bolsonaro-almeja-grande-patria-transnacional-liderada-por-trump.shtml)_
 
+- **[2026-09-11 09:00 UTC]** Para bolsonaristas, Mendonça vale mais que Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/09/para-bolsonaristas-mendonca-vale-mais-que-trump.shtml)_
+
