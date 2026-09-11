@@ -125,3 +125,6 @@
 - **[2026-09-10 22:25 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras e reúne com apoiadores no Vale do Itajaí
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-jorginho-mello-visita-obras-e-reune-com-apoiadores-no-vale-do-itajai.ghtml)_
 
+- **[2026-09-11 14:10 UTC]** Dnit interdita parcialmente trecho da BR-156 no AP para obras em pontes; veja alterações
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/11/dnit-interdita-parcialmente-trecho-da-br-156-no-ap-para-obras-em-pontes-veja-alteracoes.ghtml)_
+
