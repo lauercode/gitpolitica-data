@@ -38,3 +38,6 @@
 - **[2026-09-10 22:57 UTC]** Eleições 2026 no PR: Sandro Alex se reúne com empresários, médicos e comparece a evento
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-agenda-sandro-alex-10-setembro.ghtml)_
 
+- **[2026-09-11 19:13 UTC]** Eleições 2026 no PR: Sandro Alex se reúne com empresários, visita Santa Casa e se encontra com apoiadores
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-sandro-alex.ghtml)_
+
