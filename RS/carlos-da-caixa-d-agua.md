@@ -209,3 +209,6 @@
 - **[2026-09-11 20:05 UTC]** VÍDEOS flagram carros arrastados e supermercado 'debaixo d'água' durante temporal em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/videos-carros-arrastados-supermercado-debaixo-dagua-emporal-joacaba.ghtml)_
 
+- **[2026-09-11 21:36 UTC]** Justiça suspende reajuste de 5,52% na tarifa de água em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/11/justica-suspende-reajuste-de-552percent-na-tarifa-de-agua-em-manaus.ghtml)_
+
