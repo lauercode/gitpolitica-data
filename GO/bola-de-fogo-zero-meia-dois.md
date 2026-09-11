@@ -374,3 +374,6 @@
 - **[2026-09-11 14:19 UTC]** Onde mais choveu no Paraná nesta semana? Algumas cidades registraram média do mês inteiro em apenas dois dias; veja quais
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/onde-mais-choveu-no-parana-nesta-semana-algumas-cidades-registraram-media-do-mes-inteiro-em-apenas-dois-dias-veja-quais.ghtml)_
 
+- **[2026-09-11 12:23 UTC]** São Paulo confirma mais dois casos de sarampo e total chega a 32
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-mais-dois-casos-de-sarampo-e-total-chega-32)_
+
