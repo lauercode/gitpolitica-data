@@ -101,3 +101,6 @@
 - **[2026-09-10 18:30 UTC]** Conselho de Direitos Humanos cobra revisão ética no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/conselho-de-direitos-humanos-cobra-revisao-etica-no-stf.shtml)_
 
+- **[2026-09-11 20:34 UTC]** Conselho de Comunicação Social debate regulação das redes sociais nesta segunda-feira; participe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304206-conselho-de-comunicacao-social-debate-regulacao-das-redes-sociais-nesta-segunda-feira-participe)_
+
