@@ -56,3 +56,6 @@
 - **[2026-09-10 23:31 UTC]** Lula sai em defesa de Andrei: 'é da minha total confiança'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/lula-sai-em-defesa-de-andrei-e-da-minha-total-confianca.ghtml)_
 
+- **[2026-09-11 12:23 UTC]** São Paulo confirma mais dois casos de sarampo e total chega a 32
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-mais-dois-casos-de-sarampo-e-total-chega-32)_
+
