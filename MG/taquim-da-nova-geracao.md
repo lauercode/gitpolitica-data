@@ -62,3 +62,6 @@
 - **[2026-09-10 10:28 UTC]** Jovem cria plataforma para ajudar nova geração de eleitores nas urnas
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/jovem-cria-plataforma-para-ajudar-nova-geracao-de-eleitores-nas-urnas)_
 
+- **[2026-09-11 12:15 UTC]** Alok aposta na geração Z para manter a pista viva no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/alok-aposta-na-geracao-z-para-manter-a-pista-viva-no-rock-in-rio.shtml)_
+
