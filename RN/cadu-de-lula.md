@@ -32,3 +32,6 @@
 - **[2026-09-09 19:04 UTC]** Cadu de Lula defende cirurgias eletivas em hospitais regionais e telemedicina durante agenda em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/09/cadu-de-lula-defende-cirurgias-eletivas-em-hospitais-regionais-e-telemedicina-durante-agenda-em-natal.ghtml)_
 
+- **[2026-09-10 23:47 UTC]** Governadores decididos no 1º turno ameaçam mobilização de eleitores de Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governadores-decididos-no-1o-turno-ameacam-mobilizacao-de-eleitores-de-lula-e-flavio/)_
+
