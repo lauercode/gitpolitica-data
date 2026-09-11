@@ -77,3 +77,6 @@
 - **[2026-09-11 15:29 UTC]** VÍDEO: veja o momento exato das explosões em restaurante de Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/11/video-veja-o-momento-exato-das-explosoes-em-restaurante-de-belem.ghtml)_
 
+- **[2026-09-11 04:00 UTC]** Sobrevivente brasileiro do 11 de Setembro lembra momento do atentado: 'Se tivesse caído na minha direção, eu teria morrido'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/historia-brasileiro-sobreviveu-primeira-torre-atingida-11-de-setembro.ghtml)_
+
