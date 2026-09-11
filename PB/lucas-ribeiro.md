@@ -29,3 +29,6 @@
 - **[2026-09-10 19:59 UTC]** Cícero Lucena entra com ação no TRE-PB contra Lucas Ribeiro por suposto aumento na folha em ano eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/10/cicero-lucena-acao-tre-pb-contra-lucas-ribeiro-suposto-aumento-folha-ano-eleitoral.ghtml)_
 
+- **[2026-09-11 17:51 UTC]** Lucas Ribeiro defende ampliação do passe livre estudantil para universitários na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/11/lucas-ribeiro-defende-ampliacao-do-passe-livre-estudantil-para-universitarios-na-paraiba.ghtml)_
+
