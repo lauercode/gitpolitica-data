@@ -26,3 +26,6 @@
 - **[2026-09-01 19:20 UTC]** A importância de desacelerar e o que a moda tem a ver com isso
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/09/01/a-importancia-de-desacelerar-e-o-que-a-moda-tem-a-ver-com-isso.ghtml)_
 
+- **[2026-09-11 07:46 UTC]** 'Criei do nada um império da moda que me deixou multimilionária, mas cresceu tanto que abri falência'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3eq7vj1pv8o?at_medium=RSS&at_campaign=rss)_
+
