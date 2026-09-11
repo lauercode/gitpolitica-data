@@ -47,3 +47,6 @@
 - **[2026-09-11 13:35 UTC]** Paraná tem apenas três cidades fora do alerta vermelho de tempestade; veja quais
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/alerta-vermelho-de-tempestade-parana.ghtml)_
 
+- **[2026-09-11 13:49 UTC]** Granizo e tempestade causam estragos, queda de muro e alagamentos em cidades de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/granizo-tempestade-causam-estragos-cidades-de-sc.ghtml)_
+
