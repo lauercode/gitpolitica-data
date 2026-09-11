@@ -41,3 +41,6 @@
 - **[2026-09-10 15:20 UTC]** SC entra em alerta vermelho para tempestades com ventos acima de 100 km/h e queda de granizo
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/sc-alerta-vermelho-tempestades-ventos-acima-de-100-quilometros-granizo.ghtml)_
 
+- **[2026-09-11 08:29 UTC]** Aliados do Irã avançam no mar Vermelho; oleoduto saudita pega fogo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aliados-do-ira-avancam-no-mar-vermelho-oleoduto-saudita-pega-fogo.shtml)_
+
