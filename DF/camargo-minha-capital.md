@@ -86,3 +86,6 @@
 - **[2026-09-08 23:00 UTC]** Aperto de regras do BC para capital de bancos entra no radar para conter endividamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/aperto-de-regras-do-bc-para-capital-de-bancos-entra-no-radar-para-conter-endividamento.shtml)_
 
+- **[2026-09-11 15:55 UTC]** Fim de semana na capital paulista terá chuva forte e rajadas de vento
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/fim-de-semana-na-capital-paulista-tera-chuva-forte-e-rajadas-de-vento)_
+
