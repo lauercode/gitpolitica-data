@@ -239,3 +239,6 @@
 - **[2026-09-11 17:47 UTC]** Diretor da PF diz que não monitorou o ministro André Mendonça
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/diretor-da-pf-diz-que-nao-monitorou-o-ministro-andre-mendonca)_
 
+- **[2026-09-11 22:45 UTC]** Mendonça defende afastamento do diretor-geral da PF e nega lesão à ordem pública
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/mendonca-defende-afastamento-do-diretor-geral-da-pf-e-nega-lesao-a-ordem-publica.ghtml)_
+
