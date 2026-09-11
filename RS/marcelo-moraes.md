@@ -1358,3 +1358,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-10 20:58 UTC]** STF debate rito para sessão sobre conversas de Vorcaro com Moraes; leia perguntas e respostas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-debate-rito-para-sessao-sobre-conversas-de-vorcaro-com-moraes-leia-perguntas-e-respostas.shtml)_
 
+- **[2026-09-11 00:51 UTC]** Oposição senatorial intensifica cobrança sobre Alcolumbre pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
+
