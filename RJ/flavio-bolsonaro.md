@@ -989,3 +989,6 @@
 - **[2026-09-11 18:33 UTC]** Datafolha: Lula tem 39%, e Flávio Bolsonaro, 35% no 1º turno; rivais empatam no 2º
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-39-e-flavio-bolsonaro-35-em-primeiro-turno.shtml)_
 
+- **[2026-09-11 23:19 UTC]** Polícia Federal investiga produtora do filme sobre Bolsonaro por desvios
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-produtora-do-filme-sobre-bolsonaro-por-desvios/)_
+
