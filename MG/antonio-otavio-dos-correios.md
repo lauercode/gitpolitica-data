@@ -74,3 +74,6 @@
 - **[2026-09-11 19:12 UTC]** Trabalhadores dos Correios em Sergipe aderem à greve nacional
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/trabalhadores-dos-correios-em-sergipe-aderem-a-greve-nacional.ghtml)_
 
+- **[2026-09-11 22:27 UTC]** Greve nos Correios: funcionários decretam paralisação por tempo indeterminado
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/greve-nos-correios-funcionarios-decretam-paralisacao-por-tempo-indeterminado/)_
+
