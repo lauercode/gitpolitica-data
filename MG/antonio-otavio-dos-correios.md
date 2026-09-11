@@ -62,3 +62,6 @@
 - **[2026-09-11 11:33 UTC]** Trabalhadores dos Correios na Paraíba entram em greve, diz sindicato
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/trabalhadores-dos-correios-na-paraiba-entram-em-greve-diz-sindicato.ghtml)_
 
+- **[2026-09-11 11:33 UTC]** Trabalhadores dos Correios aprovam greve nacional por tempo indeterminado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trabalhadores-dos-correios-aprovam-greve-nacional-por-tempo-indeterminado.shtml)_
+
