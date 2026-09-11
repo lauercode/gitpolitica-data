@@ -38,3 +38,6 @@
 - **[2026-09-11 18:26 UTC]** Mendonça diz que dados de celular de Vorcaro estão intocados e não atende Zanin
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-que-dados-de-celular-de-vorcaro-estao-intocados-e-nao-atende-zanin.shtml)_
 
+- **[2026-09-11 19:46 UTC]** Zanin reitera pedido de acesso a dados de celular de Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-reitera-pedido-de-acesso-dados-de-celular-de-vorcaro)_
+
