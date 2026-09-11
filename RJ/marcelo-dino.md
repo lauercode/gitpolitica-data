@@ -209,3 +209,6 @@
 - **[2026-09-11 17:23 UTC]** Dino leva ao plenário presencial do STF julgamento sobre alteração na Lei da Ficha Limpa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/dino-leva-ao-plenario-presencial-do-stf-julgamento-sobre-alteracao-na-lei-da-ficha-limpa.ghtml)_
 
+- **[2026-09-11 18:18 UTC]** Por que o caso “Dark Horse” está dividido entre Dino e Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dark-horse-stf-dino-mendonca/)_
+
