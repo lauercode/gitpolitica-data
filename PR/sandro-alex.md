@@ -62,3 +62,6 @@
 - **[2026-09-11 13:40 UTC]** Alex Escobar vai ao Fantástico e revela quando volta à Globo após descobrir tumor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/alex-escobar-vai-ao-fantastico-e-revela-quando-volta-a-globo-apos-descobrir-tumor.shtml)_
 
+- **[2026-09-11 19:13 UTC]** Eleições 2026 no PR: Sandro Alex se reúne com empresários, visita Santa Casa e se encontra com apoiadores
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-sandro-alex.ghtml)_
+
