@@ -29,3 +29,6 @@
 - **[2026-09-03 19:35 UTC]** PF destrói 15 dragas durante operação contra garimpo ilegal no rio Madeira em RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/03/pf-destroi-15-dragas-durante-operacao-contra-garimpo-ilegal-no-rio-madeira-em-ro.ghtml)_
 
+- **[2026-09-11 10:59 UTC]** Jovem é apreendido suspeito de violentar homem com pedaço de madeira em AL; vítima morreu
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/jovem-e-apreendido-suspeito-de-violentar-homem-com-pedaco-de-madeira-em-al-vitima-morreu.ghtml)_
+
