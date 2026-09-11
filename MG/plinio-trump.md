@@ -263,3 +263,6 @@
 - **[2026-09-10 16:57 UTC]** Em busca de votos, Trump tenta reciclar velha promessa de dinheiro grátis
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/em-busca-de-votos-trump-tenta-reciclar-velha-promessa-de-dinheiro-gratis.shtml)_
 
+- **[2026-09-11 12:06 UTC]** Trump usa ato de 25 anos do 11 de Setembro para defender guerra no Irã
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-usa-ato-de-25-anos-do-11-de-setembro-para-defender-guerra-no-ira.shtml)_
+
