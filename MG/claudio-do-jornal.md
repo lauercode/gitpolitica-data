@@ -329,3 +329,6 @@
 - **[2026-09-11 18:11 UTC]** VÍDEOS: Jornal do Almoço Florianópolis de sexta-feira, 11 de setembro de 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/edicao/2026/09/11/videos-jornal-do-almoco-florianopolis-de-sexta-feira-11-de-setembro-de-2026.ghtml)_
 
+- **[2026-09-11 16:36 UTC]** VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sexta-feira, 11 de setembro de 2026
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-sexta-feira-11-de-setembro-de-2026.ghtml)_
+
