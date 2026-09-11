@@ -191,3 +191,6 @@
 - **[2026-09-10 22:56 UTC]** Eleições 2026: Roberto Cidade participa de caminhada e defende políticas para conscientização ambiental
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-roberto-cidade-participa-de-caminhada-e-defende-politicas-para-conscientizacao-ambiental.ghtml)_
 
+- **[2026-09-11 08:30 UTC]** Rock in Rio 2026: Joelma, Viviane Batidão, Félix Robatto e Zaynara levam o 'molho paraense' à Cidade do Rock
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/11/rock-in-rio-2026-joelma-viviane-batidao-felix-robatto-e-zaynara-levam-o-molho-paraense-a-cidade-do-rock.ghtml)_
+
