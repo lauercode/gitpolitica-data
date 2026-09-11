@@ -320,3 +320,6 @@
 - **[2026-09-11 13:13 UTC]** Flávio Bolsonaro defende em Manaus fim de sigilo sobre 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-defende-em-manaus-fim-de-sigilo-sobre-dark-horse.shtml)_
 
+- **[2026-09-11 18:18 UTC]** Por que o caso “Dark Horse” está dividido entre Dino e Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dark-horse-stf-dino-mendonca/)_
+
