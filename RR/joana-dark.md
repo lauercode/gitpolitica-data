@@ -251,3 +251,6 @@
 - **[2026-09-10 21:39 UTC]** PF investiga produtora de 'Dark Horse' e Mario Frias por suspeita de fraude e organização criminosa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-investiga-produtora-de-dark-horse-e-mario-frias-por-suspeita-de-fraude-e-organizacao-criminosa.shtml)_
 
+- **[2026-09-10 20:26 UTC]** Flávio diz que operação sobre 'Dark Horse' é tentativa de golpe e fala em acionar Fachin contra Dino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-diz-que-operacao-sobre-dark-horse-e-tentativa-de-golpe-e-fala-em-acionar-fachin-contra-dino.shtml)_
+
