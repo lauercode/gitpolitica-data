@@ -44,3 +44,6 @@
 - **[2026-09-10 17:53 UTC]** Tudo o que você precisa saber antes de ir às urnas em 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tudo-o-que-voce-precisa-saber-antes-de-ir-as-urnas-em-2026.shtml)_
 
+- **[2026-09-11 07:00 UTC]** Crianças e adolescente furtam carro e dirigem por Florianópolis: o que se sabe e o que falta saber
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/criancas-adolescente-furtam-carro-dirigem-florianopolis-o-que-se-sabe-o-que-falta-saber.ghtml)_
+
