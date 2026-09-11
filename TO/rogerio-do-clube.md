@@ -50,3 +50,6 @@
 - **[2026-09-09 18:56 UTC]** 'As Amigas do Clube' e 'A Rainha do Bisturi': o que ver na TV e no streaming quinta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/as-amigas-do-clube-e-a-rainha-do-bisturi-o-que-ver-na-tv-e-no-streaming-quinta.shtml)_
 
+- **[2026-09-11 04:00 UTC]** Jovens leitores saem do TikTok e criam clube de livro presencial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/jovens-leitores-saem-do-tiktok-e-criam-clube-de-livro-presencial.shtml)_
+
