@@ -314,3 +314,6 @@
 - **[2026-09-10 22:51 UTC]** Projeto pago com emenda de Mario Frias não teve execução comprovada
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/projeto-pago-com-emenda-de-mario-frias-nao-teve-execucao-comprovada)_
 
+- **[2026-09-10 23:00 UTC]** Por que o projeto da ultradireita na Europa ganha tração
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-greenhalgh/2026/09/por-que-o-projeto-da-ultradireita-na-europa-ganha-tracao.shtml)_
+
