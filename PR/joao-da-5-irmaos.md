@@ -71,3 +71,6 @@
 - **[2026-09-10 16:25 UTC]** Irmãos desparecidos no MA não estão entre crianças resgatadas nos EUA
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/irmaos-desparecidos-no-ma-nao-estao-entre-criancas-resgatadas-nos-eua)_
 
+- **[2026-09-10 21:39 UTC]** Na eleição, a notícia importante da economia deve vir da finança bandida de Vorcaro e irmãos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/na-eleicao-a-noticia-importante-da-economia-deve-vir-da-financa-bandida-de-vorcaro-e-irmaos.shtml)_
+
