@@ -236,3 +236,6 @@
 - **[2026-09-11 04:00 UTC]** Renan Santos participa de sabatina da Folha/UOL nesta sexta (11)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/renan-santos-participa-de-sabatina-da-folhauol-nesta-sexta-11.shtml)_
 
+- **[2026-09-11 16:56 UTC]** Renan Santos diz que campanha 2026 é 'a mais estranha' que já viu desde 2010
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/renan-santos-sabatina-uol-folha.ghtml)_
+
