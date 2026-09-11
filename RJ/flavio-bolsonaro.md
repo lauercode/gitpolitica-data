@@ -971,3 +971,6 @@
 - **[2026-09-11 20:34 UTC]** 6 perguntas para entender inquérito contra Flávio Bolsonaro — e o o que falta ser esclarecido
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 20:39 UTC]** PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss)_
+
