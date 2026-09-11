@@ -1457,3 +1457,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 21:31 UTC]** Mendonça rebate Moraes e nega sigilo parcial no caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-rebate-moraes-e-nega-sigilo-parcial-no-caso-master/)_
 
+- **[2026-09-11 19:14 UTC]** Andrei diz que cumpriu ordem de Moraes nos relatórios contra Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-diz-a-fachin-que-cumpriu-ordem-de-moraes-e-defende-relatorios-contra-mendonca/)_
+
