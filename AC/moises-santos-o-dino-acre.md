@@ -473,3 +473,6 @@
 - **[2026-09-11 09:00 UTC]** Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml)_
 
+- **[2026-09-11 12:00 UTC]** Com apoio de até R$ 300 mil, edital abre inscrições para ONGs e coletivos de periferias no Acre; VEJA
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/com-apoio-de-ate-r-300-mil-edital-abre-inscricoes-para-ongs-e-coletivos-de-periferias-no-acre-veja.ghtml)_
+
