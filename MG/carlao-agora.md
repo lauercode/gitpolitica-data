@@ -116,3 +116,6 @@
 - **[2026-09-10 21:16 UTC]** STF salvou a democracia brasileira, mas agora a está sufocando, diz The Economist
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg492rdelyxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 18:31 UTC]** Fim 'taxa das blusinhas' para compras até US$ 50 agora é lei
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304183-fim-taxa-das-blusinhas-para-compras-ate-us-50-agora-e-lei)_
+
