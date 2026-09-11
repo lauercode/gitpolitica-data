@@ -314,3 +314,6 @@
 - **[2026-09-11 14:15 UTC]** Plano de negócios de 'Dark Horse' previa bilheteria maior que a de 'Minha Mãe é uma Peça 3', recorde no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/plano-de-negocios-de-dark-horse-previa-bilheteria-maior-que-a-de-minha-mae-e-uma-peca-3-recorde-no-brasil.shtml)_
 
+- **[2026-09-11 14:09 UTC]** Flávio Bolsonaro negociava recursos para 'Dark Horse' com Vorcaro, e Eduardo era gestor do dinheiro, diz PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-negociava-recursos-para-dark-horse-com-vorcaro-e-eduardo-era-gestor-do-dinheiro-diz-pf.shtml)_
+
