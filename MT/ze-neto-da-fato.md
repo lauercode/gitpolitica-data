@@ -50,3 +50,6 @@
 - **[2026-09-10 22:51 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Anthony Garotinho a 'O Globo', 'Extra', 'Valor' e CBN
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/10/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-anthony-garotinho-a-o-globo-extra-valor-e-cbn.ghtml)_
 
+- **[2026-09-11 23:17 UTC]** Veja o que é #FATO e o que é #FAKE na entrevista de Eduardo Paes a 'O Globo', 'Extra', 'Valor' e CBN
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/11/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-eduardo-paes-a-o-globo-extra-valor-e-cbn.ghtml)_
+
