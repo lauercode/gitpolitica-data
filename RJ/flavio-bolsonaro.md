@@ -1118,3 +1118,6 @@
 - **[2026-09-12 13:48 UTC]** Michelle contesta decisão de Moraes sobre visitas a Bolsonaro e diz que campanha ao Senado foi prejudicada
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-contesta-decisao-de-moraes-sobre-visitas-a-bolsonaro/)_
 
+- **[2026-09-12 13:07 UTC]** Defesa de Flávio pediu quatro vezes para transferir investigação de Dark Horse de Dino para Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-flavio-pediu-quatro-vezes-para-transferir-investigacao-de-dark-horse-de-dino-para-mendonca/)_
+
