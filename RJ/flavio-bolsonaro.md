@@ -1052,3 +1052,6 @@
 - **[2026-09-12 01:39 UTC]** No RS, Lula vincula Vorcaro a Bolsonaro e diz que combateu fraude no Master: 'No meu mandato, ele virou prisioneiro'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-bolsonaro-vorcaro-master-rs.ghtml)_
 
+- **[2026-09-10 13:44 UTC]** Flávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-campanha-setembro-2026-roraima.ghtml)_
+
