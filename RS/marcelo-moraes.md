@@ -1553,3 +1553,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 17:32 UTC]** Em ato no RJ, Flávio Bolsonaro ataca Moraes e diz que fim do sigilo do caso Master terá 'impacto zero'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/em-ato-no-rj-flavio-bolsonaro-ataca-moraes-e-diz-que-fim-do-sigilo-do-caso-master-tera-impacto-zero.ghtml)_
 
+- **[2026-09-12 20:22 UTC]** Datafolha: 34% dizem que Moraes deveria ser afastado; 28% defendem impeachment
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/datafolha-moraes-impeachment.ghtml)_
+
