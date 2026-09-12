@@ -1547,3 +1547,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 18:06 UTC]** Ações de Moraes na Polícia Federal acendem alerta sobre uso político da corporação
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-de-moraes-na-policia-federal-acendem-alerta-sobre-uso-politico-da-corporacao/)_
 
+- **[2026-09-12 18:01 UTC]** Sessão do STF que decidirá sobre investigação contra Moraes terá segurança reforçada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sessao-do-stf-que-decidira-sobre-investigacao-contra-moraes-tera-seguranca-reforcada/)_
+
