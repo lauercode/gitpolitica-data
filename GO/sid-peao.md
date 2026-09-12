@@ -26,3 +26,6 @@
 - **[2018-07-09 16:48 UTC]** Peão do noroeste paulista morre pisoteado por touro em rodeio; vídeo
   _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/peao-do-noroeste-paulista-morre-pisoteado-por-touro-em-rodeio-video.ghtml)_
 
+- **[2026-09-11 22:42 UTC]** 'Livramento': peão de rodeio é arremessado para fora da arena durante montaria em RO; veja vídeo
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/11/livramento-peao-de-rodeio-e-arremessado-para-fora-da-arena-durante-montaria-em-ro-veja-video.ghtml)_
+
