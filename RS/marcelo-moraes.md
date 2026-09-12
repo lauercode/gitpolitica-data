@@ -1529,3 +1529,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 14:05 UTC]** Ações de Moraes expõem risco da PF virar uma polícia política protetora do “sistema”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-vira-campo-batalha-ministros-stf-expoe-risco-policia-politica/)_
 
+- **[2026-09-12 13:48 UTC]** Michelle contesta decisão de Moraes sobre visitas a Bolsonaro e diz que campanha ao Senado foi prejudicada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-contesta-decisao-de-moraes-sobre-visitas-a-bolsonaro/)_
+
