@@ -53,3 +53,6 @@
 - **[2026-09-12 03:00 UTC]** Datafolha 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião no cenário com Pablo Marçal
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/12/datafolha-1o-turno-11-setembro-recortes-cenario2.ghtml)_
 
+- **[2026-09-12 11:00 UTC]** TSE rejeita por unanimidade candidatura de Pablo Marçal à presidência
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/tse-rejeita-por-unanimidade-candidatura-de-pablo-marcal-presidencia)_
+
