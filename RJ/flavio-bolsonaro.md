@@ -1016,3 +1016,6 @@
 - **[2026-09-11 16:39 UTC]** Flávio reage à investigação da PF e elogia a atuação de Mendonça no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-reage-a-investigacao-da-pf-e-elogia-a-atuacao-de-mendonca-no-stf/)_
 
+- **[2026-09-11 15:49 UTC]** Especialistas apontam erros jurídicos em decisão de Flávio Dino contra Mário Frias
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/especialistas-apontam-erros-juridicos-em-decisao-de-flavio-dino-contra-mario-frias/)_
+
