@@ -257,3 +257,6 @@
 - **[2026-09-12 11:48 UTC]** Lula, Caiado, Cury e Zema reagem à quebra de sigilo das investigações do Caso Master
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/lula-caiado-cury-e-zema-reagem-quebra-de-sigilo-das-investigaes-do-caso-master.ghtml)_
 
+- **[2026-09-12 20:29 UTC]** Datafolha em PE: Lula, 55%; Flávio Bolsonaro, 24%; Cury, 4%; Renan, 2%; Caiado; 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/12/datafolha-pe-presidente-setembro.ghtml)_
+
