@@ -1571,3 +1571,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 22:48 UTC]** STF confirma transmissão ao vivo de sessão que vai julgar Alexandre de Moraes; veja como assistir
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-transmissao-ao-vivo-sessao-alexandre-de-moraes-veja-como-assistir/)_
 
+- **[2026-09-12 21:05 UTC]** Pedidos de vista em sessão do STF sobre Moraes serão respondidos com antecipação de votos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pedidos-de-vista-em-sessao-do-stf-sobre-moraes-serao-respondidos-com-antecipacao-de-votos.ghtml)_
+
