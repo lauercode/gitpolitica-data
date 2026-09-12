@@ -1520,3 +1520,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 14:15 UTC]** Fachin nega julgar Moraes e Mendonça juntos e marca sessão do relator do Master para 23 de setembro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/fachin-mantem-sessao-extraordinaria-para-peticao-de-mendonca-e-rejeita-julgamento-simultaneo-com-processo-de-moraes.ghtml)_
 
+- **[2026-09-12 11:43 UTC]** Fachin nega pedido para julgar Mendonça junto com Moraes e marca outra sessão para o dia 23
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-nega-pedido-de-gilmar-e-mantem-apenas-investigacao-contra-moraes-na-pauta-do-stf.shtml)_
+
