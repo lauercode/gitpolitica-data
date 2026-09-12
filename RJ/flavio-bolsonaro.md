@@ -1142,3 +1142,6 @@
 - **[2026-09-12 13:26 UTC]** Flávio e Moraes receberam a mesma grana do mesmo esquema
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/09/flavio-e-moraes-receberam-a-mesma-grana-do-mesmo-esquema.shtml)_
 
+- **[2026-09-12 17:32 UTC]** Em ato no RJ, Flávio Bolsonaro ataca Moraes e diz que fim do sigilo do caso Master terá 'impacto zero'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/em-ato-no-rj-flavio-bolsonaro-ataca-moraes-e-diz-que-fim-do-sigilo-do-caso-master-tera-impacto-zero.ghtml)_
+
