@@ -17,3 +17,6 @@
 - **[2026-09-11 23:17 UTC]** Veja o que é #FATO ou #FAKE na sabatina de Eduardo Paes ao Valor, Globo, Extra e CBN
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/veja-o-que-e-fato-ou-fake-na-sabatina-de-eduardo-paes-ao-valor-globo-extra-e-cbn.ghtml)_
 
+- **[2026-09-11 20:44 UTC]** Datafolha: No RJ, Eduardo Paes tem 43%; Douglas Ruas, 25%; e Garotinho, 10%
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/11/datafolha-no-rj-eduardo-paes-tem-43-pontos-percentuais-douglas-ruas-25-e-garotinho-10.ghtml)_
+
