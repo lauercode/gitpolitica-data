@@ -1508,3 +1508,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 22:01 UTC]** Gilmar sugere que Fachin assuma casos sobre Moraes e Mendonça
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/gilmar-sugere-que-fachin-assuma-casos-sobre-moraes-e-mendonca.ghtml)_
 
+- **[2026-09-11 22:00 UTC]** Cury cobra que análise do STF sobre Moraes seja televisionada
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/cury-cobra-que-analise-do-stf-sobre-moraes-seja-televisionada.ghtml)_
+
