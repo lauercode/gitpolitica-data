@@ -1079,3 +1079,6 @@
 - **[2026-09-12 05:02 UTC]** PF citou Flávio como "interlocutor direto" de Vorcaro para justificar abertura de investigação
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pf-citou-flvio-como-interlocutor-direto-de-vorcaro-para-justificar-abertura-de-investigao.ghtml)_
 
+- **[2026-09-12 04:21 UTC]** Relatório da PF sobre “Dark Horse” mostra mensagens de Flávio cobrando Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/relatrio-da-pf-sobre-dark-horse-mostra-mensagens-de-flvio-cobrando-vorcaro.ghtml)_
+
