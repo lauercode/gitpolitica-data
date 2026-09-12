@@ -1100,3 +1100,6 @@
 - **[2026-09-12 06:47 UTC]** Defesa de Flávio tentou 4 vezes tirar de Dino investigação sobre 'Dark Horse'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/defesa-de-flvio-tentou-4-vezes-tirar-de-dino-investigao-sobre-dark-horse.ghtml)_
 
+- **[2026-09-12 11:48 UTC]** PF aponta cobranças de Flávio a Vorcaro por filme Dark Horse
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pf-aponta-cobrancas-de-flavio-vorcaro-por-filme-dark-horse)_
+
