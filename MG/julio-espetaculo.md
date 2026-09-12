@@ -26,3 +26,6 @@
 - **[2026-09-10 13:47 UTC]** Palco Giratório Sesc apresenta espetáculo “Infinito” em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/fecomercio-ac-transformando-vidas-fortalecendo-empresas-e-construindo-futuros/noticia/2026/09/10/palco-giratorio-sesc-apresenta-espetaculo-infinito-em-rio-branco.ghtml)_
 
+- **[2026-09-11 23:20 UTC]** Companhia de dança apresenta músicas de Roberto Carlos e espetáculo infantil no Mormaço
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/companhia-de-danca-apresenta-musicas-de-roberto-carlos-e-espetaculo-infantil-no-mormaco.ghtml)_
+
