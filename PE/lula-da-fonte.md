@@ -11,3 +11,6 @@
 - **[2026-09-10 15:41 UTC]** Presidente Lula sanciona lei que acaba com "taxa das blusinhas"
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-sanciona-lei-que-acaba-com-taxa-das-blusinhas)_
 
+- **[2026-09-12 20:29 UTC]** Datafolha em PE: Lula, 55%; Flávio Bolsonaro, 24%; Cury, 4%; Renan, 2%; Caiado; 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/12/datafolha-pe-presidente-setembro.ghtml)_
+
