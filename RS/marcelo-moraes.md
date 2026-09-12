@@ -1562,3 +1562,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 15:52 UTC]** Flávio e Moraes ganham apoios de quem tem memória e ideias seletivas sobre democracia e república
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/flavio-e-moraes-ganham-apoios-de-quem-tem-memoria-e-ideias-seletivas-sobre-democracia-e-republica.shtml)_
 
+- **[2026-09-12 19:25 UTC]** Julgamento sobre relação de Moraes com Vorcaro será transmitido pela TV Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/julgamento-sobre-relacao-de-moraes-com-vorcaro-sera-transmitido-pela-tv-justica.shtml)_
+
