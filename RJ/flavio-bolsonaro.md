@@ -1049,3 +1049,6 @@
 - **[2018-05-07 06:51 UTC]** Flávio Canto participa de atividades do Tamar em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/flavio-canto-participa-de-atividades-do-tamar-em-fernando-de-noronha.html)_
 
+- **[2026-09-12 01:39 UTC]** No RS, Lula vincula Vorcaro a Bolsonaro e diz que combateu fraude no Master: 'No meu mandato, ele virou prisioneiro'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-bolsonaro-vorcaro-master-rs.ghtml)_
+
