@@ -11,3 +11,6 @@
 - **[2026-09-05 20:58 UTC]** Yuri Ezequiel defende destinação de 10% do orçamento do Estado para a educação na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/05/yuri-ezequiel-defende-destinacao-de-10percent-do-orcamento-do-estado-para-a-educacao-na-paraiba.ghtml)_
 
+- **[2026-09-12 19:46 UTC]** Yuri Ezequiel propõe estímulo ao desenvolvimento industrial a partir de empresas públicas e mudança na política de isenção fiscal na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/12/yuri-ezequiel-propoe-estimulo-ao-desenvolvimento-industrial-a-partir-de-empresas-publicas-e-mudanca-na-politica-de-isencao-fiscal-na-paraiba.ghtml)_
+
