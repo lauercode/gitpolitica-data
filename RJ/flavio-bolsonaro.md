@@ -1124,3 +1124,6 @@
 - **[2026-09-12 13:56 UTC]** Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito — e o que falta ser esclarecido
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-12 15:06 UTC]** Lula e Flávio Bolsonaro voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
