@@ -26,3 +26,6 @@
 - **[2026-09-12 06:46 UTC]** Perucas, figurino, hospedagens: veja gastos de 'Dark Horse', filme sobre Jair Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/perucas-figurino-hospedagens-veja-gastos-de-dark-horse-filme-sobre-jair-bolsonaro.ghtml)_
 
+- **[2026-09-12 03:34 UTC]** 'Dark Horse': produtor dos EUA de filme sobre Jair Bolsonaro diz que só entrega documentos à PF com ordem da Justiça americana
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/dark-horse-produtor-dos-eua-de-filme-sobre-jair-bolsonaro-diz-que-so-entrega-documentos-a-pf-com-ordem-da-justica-americana.ghtml)_
+
