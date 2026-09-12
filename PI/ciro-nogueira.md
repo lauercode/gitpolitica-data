@@ -23,3 +23,6 @@
 - **[2026-09-12 16:47 UTC]** PF encontrou lista intitulada 'Câmara', com 'nomes' de deputados e 'valores', na churrasqueira de Ciro Nogueira
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/pf-encontrou-lista-intitulada-camara-com-nomes-de-deputados-e-valores-na-churrasqueira-de-ciro-nogueira.ghtml)_
 
+- **[2026-09-12 18:13 UTC]** PF encontrou na churrasqueira de Ciro Nogueira rascunho com nomes de parlamentares e valores
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pf-encontrou-na-churrasqueira-de-ciro-nogueira-rascunho-com-nomes-de-parlamentares-e-valores.ghtml)_
+
