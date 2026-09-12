@@ -1526,3 +1526,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 15:05 UTC]** Fachin decide não julgar Moraes e Mendonça juntos; atuação do relator do Master será analisada em 23 de setembro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-decide-nao-julgar-moraes-e-mendonca-juntos-acoes-do-relator-do-master-serao-analisadas-em-23-de-setembro/)_
 
+- **[2026-09-12 14:05 UTC]** Ações de Moraes expõem risco da PF virar uma polícia política protetora do “sistema”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-vira-campo-batalha-ministros-stf-expoe-risco-policia-politica/)_
+
