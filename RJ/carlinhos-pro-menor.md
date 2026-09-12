@@ -14,3 +14,30 @@
 - **[2026-08-27 21:15 UTC]** Lula 3 não entendeu que Lula 4 depende de muito mais do que emprego e renda melhores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/lula-3-nao-entendeu-que-lula-4-depende-de-muito-mais-do-que-emprego-e-renda-melhores.shtml)_
 
+- **[2018-07-13 11:52 UTC]** Monte Verde tem mais uma madrugada com menor temperatura de Minas Gerais, - 0,3º C
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/monte-verde-tem-mais-uma-madrugada-com-a-menor-temperatura-de-minas-gerais-03o-c.ghtml)_
+
+- **[2018-07-12 12:52 UTC]** Monte Verde marca -2,3º e tem menor temperatura de Minas Gerais durante a madrugada
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/monte-verde-marca-23o-e-tem-menor-temperatura-de-minas-gerais-durante-a-madrugada.ghtml)_
+
+- **[2026-09-01 00:26 UTC]** Haddad diz que designação de PCC como terrorista pelos EUA 'é uma questão menor'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-designacao-de-pcc-como-terrorista-pelos-eua-e-uma-questao-menor.shtml)_
+
+- **[2026-09-01 11:00 UTC]** Caged: AC mantém saldo positivo pelo 6º mês seguido, mas julho tem 2ª menor geração de empregos no ano
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/caged-ac-mantem-saldo-positivo-pelo-6o-mes-seguido-mas-julho-tem-2a-menor-geracao-de-empregos-no-ano.ghtml)_
+
+- **[2026-09-06 14:18 UTC]** Aprovação de Trump cai para 33%, menor nível já registrado em pesquisa do Financial Times
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aprovacao-de-trump-cai-para-33-menor-nivel-ja-registrado-em-pesquisa-do-financial-times.shtml)_
+
+- **[2026-09-06 17:36 UTC]** Idosos podem ter menor oxigenação cerebral e muscular em exercícios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/idosos-podem-ter-menor-oxigenacao-cerebral-e-muscular-em-exercicios.shtml)_
+
+- **[2026-09-08 19:50 UTC]** Dólar cai a R$ 5,08 e atinge menor valor em um mês
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-cai-r-508-e-atinge-menor-valor-em-um-mes)_
+
+- **[2026-09-11 10:09 UTC]** Inflação oficial de agosto fecha em -0,32%, menor taxa em quatro anos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/inflacao-oficial-de-agosto-fecha-em-032-menor-taxa-em-quatro-anos)_
+
+- **[2026-09-11 11:47 UTC]** Lula 3 acumula menor inflação às vésperas das eleições no Plano Real
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-3-acumula-menor-inflacao-as-vesperas-das-eleicoes-no-plano-real.shtml)_
+

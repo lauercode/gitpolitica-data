@@ -5,3 +5,33 @@
 
 ## Histórico
 
+- **[2026-09-03 12:38 UTC]** Mensagens mostram conversas entre Daniel Vorcaro e Nikolas Ferreira
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/mensagens-mostram-conversas-entre-daniel-vorcaro-e-nikolas-ferreira)_
+
+- **[2026-09-03 14:39 UTC]** Nikolas Ferreira nega relação de proximidade com Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-ferreira-nega-relacao-proximidade-vorcaro/)_
+
+- **[2026-09-03 19:24 UTC]** 'Conversas irrelevantes', diz Nikolas Ferreira sobre áudios com Daniel Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/conversas-irrelevantes-diz-nikolas-ferreira-sobre-audios-com-daniel-vorcaro.ghtml)_
+
+- **[2026-09-03 17:27 UTC]** Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/nikolas-ferreira-confirma-pedido-a-daniel-vorcaro-em-favor-de-ex-assessor-e-diz-que-nao-houve-irregularidade.ghtml)_
+
+- **[2026-09-03 18:40 UTC]** Nikolas Ferreira descarta intimidade com empresário acusado de fraude
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-ferreira-descarta-intimidade-com-empresario-acusado-de-fraude/)_
+
+- **[2026-09-03 19:16 UTC]** Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zvgr7pr1o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-03 20:24 UTC]** O que é 'ativo minerário', negócio citado por Nikolas Ferreira a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/03/o-que-e-ativo-minerario-citado-por-nikolas-ferreira-a-vorcaro.ghtml)_
+
+- **[2026-09-04 03:00 UTC]** Nikolas Ferreira e Daniel Vorcaro: ouça ÁUDIO, leia transcrição e veja o que deputado falou sobre mensagens
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml)_
+
+- **[2026-09-04 16:14 UTC]** Lulistas disputam com Nikolas Ferreira narrativa do caso Master, mas opositor tem mais alcance nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lulistas-disputam-com-nikolas-ferreira-narrativa-do-caso-master-mas-opositor-tem-mais-alcance-nas-redes.shtml)_
+
+- **[2026-09-10 08:00 UTC]** É #FAKE foto de relatório da PF dizendo não ver crime em conversas de Nikolas Ferreira com Vorcaro; imagem foi criada com IA
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/10/e-fake-foto-de-relatorio-da-pf-dizendo-nao-ver-crime-em-conversas-de-nikolas-ferreira-com-vorcaro-imagem-foi-criada-com-ia.ghtml)_
+

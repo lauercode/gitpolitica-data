@@ -14,3 +14,66 @@
 - **[2026-08-29 21:47 UTC]** Após empréstimo de R$ 12 bilhões, governo quer repassar R$ 6 bilhões aos Correios
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/apos-emprestimo-de-r-12-bilhoes-governo-quer-repassar-r-6-bilhoes-aos-correios/)_
 
+- **[2026-08-28 01:14 UTC]** Lula descarta vender Correios e diz que dívida pública não preocupa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/lula-correios-divida-publica.ghtml)_
+
+- **[2026-08-31 12:33 UTC]** Aporte não é Pix de R$ 6 bilhões aos Correios, diz ministro do Planejamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/aporte-nao-e-pix-de-r-6-bilhoes-aos-correios-diz-ministro-do-planejamento.shtml)_
+
+- **[2026-08-31 15:57 UTC]** Orçamento de 2027 terá aporte de R$ 6 bilhões aos Correios
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/orcamento-de-2027-tera-aporte-de-r-6-bilhoes-aos-correios)_
+
+- **[2018-07-11 19:50 UTC]** Suspeita de comandar roubos aos Correios no ES é presa em Domingos Martins
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/suspeita-de-comandar-roubos-aos-correios-no-es-e-presa-em-domingos-martins.ghtml)_
+
+- **[2017-11-13 16:46 UTC]** Cartinhas do Natal dos Correios já podem ser adotadas em agências e pela internet
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/cartinhas-do-natal-dos-correios-ja-podem-ser-adotadas-em-agencias-e-pela-internet.ghtml)_
+
+- **[2026-08-25 12:30 UTC]** PF realiza operação contra grupo suspeito de enviar drogas pelos Correios no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/25/pf-realiza-operacao-contra-grupo-suspeito-de-enviar-drogas-pelos-correios-no-rn.ghtml)_
+
+- **[2026-08-31 23:00 UTC]** Congresso discute exclusividade dos Correios em encomendas isentas da taxa das blusinhas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/congresso-discute-exclusividade-dos-correios-em-encomendas-isentas-da-taxa-das-blusinhas.shtml)_
+
+- **[2026-08-31 22:00 UTC]** Não se pode enterrar dinheiro do contribuinte nos Correios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/08/nao-se-pode-enterrar-dinheiro-do-contribuinte-nos-correios.shtml)_
+
+- **[2026-09-01 11:46 UTC]** Orçamento de 2027 terá R$ 6 bi nos Correios e salário mínimo de R$ 1.741
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/orcamento-2027-6-bi-correios-salario-minimo-1-741/)_
+
+- **[2026-09-01 15:01 UTC]** MP do fim da taxa das blusinhas: comissão estuda incluir exclusividade de entrega pelos Correios
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mp-do-fim-da-taxa-das-blusinhas-comissao-estuda-incluir-exclusividade-de-entrega-pelos-correios.ghtml)_
+
+- **[2026-09-01 19:03 UTC]** Papel dos Correios e prazo para rever isenção travam votação de MP das blusinhas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/papel-dos-correios-e-prazo-para-rever-isencao-travam-votacao-de-mp-das-blusinhas.shtml)_
+
+- **[2026-09-02 13:23 UTC]** PF faz operação contra suspeitos de desviar cartões bancários de correspondências nos Correios do MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/pf-faz-operacao-contra-suspeitos-de-desviar-cartoes-bancarios-de-correspondencias-nos-correios-do-ma.ghtml)_
+
+- **[2026-09-02 14:48 UTC]** Anac suspende operações da Total Linhas Aéreas, que presta serviço aos Correios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anac-suspende-operacoes-da-total-linhas-aereas-que-presta-servico-aos-correios.shtml)_
+
+- **[2026-09-10 13:28 UTC]** Correios formalizam pedido de novo empréstimo de R$ 7 bi com quatro bancos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/correios-formalizam-pedido-de-novo-emprestimo-de-r-7-bi-com-quatro-bancos.shtml)_
+
+- **[2026-09-10 21:59 UTC]** Correios esperam novo empréstimo até o dia 15; consórcio de bancos conta com três instituições estrangeiras
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/10/correios-aguardam-novo-emprestimo-ate-o-dia-15-consorcio-de-bancos-conta-com-tres-instituicoes-estrangeiras.ghtml)_
+
+- **[2026-09-11 11:33 UTC]** Trabalhadores dos Correios na Paraíba entram em greve, diz sindicato
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/trabalhadores-dos-correios-na-paraiba-entram-em-greve-diz-sindicato.ghtml)_
+
+- **[2026-09-11 11:33 UTC]** Trabalhadores dos Correios aprovam greve nacional por tempo indeterminado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trabalhadores-dos-correios-aprovam-greve-nacional-por-tempo-indeterminado.shtml)_
+
+- **[2026-09-11 16:32 UTC]** Funcionários dos Correios entram em greve por tempo indeterminado em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/funcionarios-dos-correios-entram-em-greve-em-alagoas-por-tempo-indeterminado-paralisacao-e-nacional.ghtml)_
+
+- **[2026-09-11 16:47 UTC]** Trabalhadores dos Correios estão em greve por tempo indeterminado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/trabalhadores-dos-correios-estao-em-greve-por-tempo-indeterminado)_
+
+- **[2026-09-11 19:12 UTC]** Trabalhadores dos Correios em Sergipe aderem à greve nacional
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/trabalhadores-dos-correios-em-sergipe-aderem-a-greve-nacional.ghtml)_
+
+- **[2026-09-11 22:27 UTC]** Greve nos Correios: funcionários decretam paralisação por tempo indeterminado
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/greve-nos-correios-funcionarios-decretam-paralisacao-por-tempo-indeterminado/)_
+

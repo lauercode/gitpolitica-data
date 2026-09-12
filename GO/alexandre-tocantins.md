@@ -11,3 +11,147 @@
 - **[2026-08-27 19:48 UTC]** TSE autoriza envio de militares para reforçar eleição em 5 estados no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/tse-autoriza-envio-de-militares-para-reforcar-eleicao-em-5-estados-no-1o-turno.shtml)_
 
+- **[2018-07-12 16:21 UTC]** Aeronave que saiu da Bolívia com 300 kg de cocaína é apreendida no Tocantins
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/to/tocantins/noticia/aeronave-com-cocaina-e-apreendida-em-campo-de-pouso-no-interior-do-tocantins.ghtml)_
+
+- **[2018-07-09 22:33 UTC]** Piloto de MT que está desaparecido há 15 dias foi contratado para levar avião para o Tocantins, diz família
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/mt/mato-grosso/noticia/piloto-de-mt-que-esta-desaparecido-ha-15-dias-foi-contratado-para-levar-aviao-para-o-tocantins-diz-familia.ghtml)_
+
+- **[2017-06-26 11:48 UTC]** ANTT quer cassar concessão de trecho da BR-153 entre Goiás e Tocantins
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/economia/noticia/antt-quer-cassar-concessao-de-trecho-da-br-153-entre-goias-e-tocantins.ghtml)_
+
+- **[2026-08-31 17:00 UTC]** Eleições 2026: veja todos os candidatos ao governo do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-do-tocantins.ghtml)_
+
+- **[2026-08-31 09:14 UTC]** Tocantins terá feriado prolongado em setembro; veja datas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/tocantins-tera-feriado-prolongado-de-em-setembro-veja-datas.ghtml)_
+
+- **[2026-08-30 09:00 UTC]** Com rebanho de 11,6 milhões, Tocantins tem quase oito cabeças de gado por pessoa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-rebanho-de-116-milhoes-tocantins-tem-quase-oito-cabecas-de-gado-por-pessoa.ghtml)_
+
+- **[2026-08-29 23:02 UTC]** Vistoria encontra medicamentos vencidos e falta de insumos em estoque da saúde pública no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/vistoria-encontra-medicamentos-vencidos-e-falta-de-insumos-em-estoque-da-saude-publica-no-tocantins.ghtml)_
+
+- **[2026-08-29 15:13 UTC]** Homem desaparece durante festejo religioso no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/homem-desaparece-durante-festejo-religioso-no-interior-do-tocantins.ghtml)_
+
+- **[2026-08-29 12:18 UTC]** Família cobra respostas oito anos após assassinato de prefeito durante o mandato no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/familia-cobra-respostas-oito-anos-apos-assassinato-de-prefeito-durante-o-mandato-no-tocantins.ghtml)_
+
+- **[2026-08-29 09:30 UTC]** Cerrado do Tocantins floresce em meio à seca e transforma paisagem de Palmas; entenda
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/cerrado-do-tocantins-floresce-em-meio-a-seca-e-transforma-paisagem-de-palmas-entenda.ghtml)_
+
+- **[2026-08-28 23:15 UTC]** Trilha no Tocantins tem paisagens de tirar o fôlego e pedra com formato erótico
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/trilha-no-tocantins-tem-paisagens-de-tirar-o-folego-e-pedra-com-formato-erotico.ghtml)_
+
+- **[2026-08-28 09:00 UTC]** Tocantins terá 1º pastor surdo aprovado em banca examinadora; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/tocantins-tera-1o-pastor-surdo-aprovado-em-banca-examinadora-video.ghtml)_
+
+- **[2026-08-26 17:12 UTC]** Governo do Tocantins decreta medidas de contenção de gastos até o fim de 2026; veja o que muda
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/governo-do-tocantins-decreta-medidas-de-contencao-de-gastos-ate-o-fim-de-2026-veja-o-que-muda.ghtml)_
+
+- **[2026-08-25 19:33 UTC]** Tocantins terá redução na tarifa de energia elétrica; veja percentual
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/25/tocantins-tera-reducao-na-tarifa-de-energia-eletrica-veja-percentual.ghtml)_
+
+- **[2026-08-25 19:21 UTC]** Auditor fiscal é preso em flagrante por suspeita de corrupção passiva no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/25/auditor-fiscal-e-preso-em-flagrante-por-suspeita-de-corrupcao-passiva-no-interior-do-tocantins.ghtml)_
+
+- **[2026-08-31 22:29 UTC]** Eleições 2026: veja todos os candidatos ao Senado pelo Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-senado-pelo-tocantins.ghtml)_
+
+- **[2026-09-01 01:24 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta segunda-feira (31)
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-segunda-feira-31.ghtml)_
+
+- **[2026-09-01 11:22 UTC]** Justiça suspende gratificações de até 50% para servidores em cidade do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/justica-suspende-gratificacoes-de-ate-50percent-para-servidores-em-cidade-do-tocantins.ghtml)_
+
+- **[2026-09-01 16:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-tocantins.ghtml)_
+
+- **[2026-09-01 21:20 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-tocantins.ghtml)_
+
+- **[2026-09-02 00:40 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta terça-feira (1º)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-terca-feira-1o.ghtml)_
+
+- **[2026-09-02 14:38 UTC]** Com vestido e salto alto, influenciadora do Tocantins faz embaixadinhas e viraliza; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/com-vestido-e-salto-alto-influenciadora-do-tocantins-faz-embaixadinhas-e-viraliza-video.ghtml)_
+
+- **[2026-09-02 22:46 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quarta-feira (2)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quarta-feira-2.ghtml)_
+
+- **[2026-09-03 09:01 UTC]** Plano de Governo: Witer Naves propõe fusão de secretarias e reorganização administrativa para o Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-witer-naves-propoe-fusao-de-secretarias-e-reorganizacao-administrativa-para-o-tocantins.ghtml)_
+
+- **[2026-09-03 13:22 UTC]** Ventos fortes derrubam tendas e árvores durante temporal em Colinas do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/ventos-fortes-derrubam-tendas-e-arvores-durante-temporal-em-colinas-do-tocantins.ghtml)_
+
+- **[2026-09-03 18:47 UTC]** Tribunal indefere registro da chapa do subtenente Luiz Carlos para disputar o governo do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/tribunal-indefere-registro-da-chapa-do-subtenente-luiz-carlos-para-disputa-ao-governo-do-tocantins.ghtml)_
+
+- **[2026-09-03 23:52 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quinta-feira (3)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quinta-feira-3.ghtml)_
+
+- **[2026-09-04 01:58 UTC]** Temporais são registrados no interior do Tocantins; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/temporais-sao-registrados-no-interior-do-tocantins-video.ghtml)_
+
+- **[2026-09-04 12:56 UTC]** Corpo carbonizado é encontrado às margens de rodovia no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/corpo-carbonizado-e-encontrado-as-margens-de-rodovia-no-tocantins.ghtml)_
+
+- **[2026-09-04 17:43 UTC]** Esposa morre, e ex-secretário de Saúde do Tocantins e filho ficam feridos em acidente na TO-070
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/ex-secretario-de-saude-do-tocantins-e-filho-ficam-feridos-e-esposa-morre-em-acidente-na-to-070.ghtml)_
+
+- **[2026-09-05 00:41 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta sexta-feira (4)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-sexta-feira-4.ghtml)_
+
+- **[2026-09-05 09:30 UTC]** Parque estadual no Tocantins tem cachoeiras, dunas e fervedouros onde é impossível afundar
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/parque-estadual-no-tocantins-tem-cachoeiras-dunas-e-fervedouros-onde-e-impossivel-afundar.ghtml)_
+
+- **[2026-09-05 13:14 UTC]** Ex-secretário de Saúde do Tocantins segue internado após acidente que matou esposa na TO-070
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/ex-secretario-de-saude-do-tocantins-segue-internado-apos-acidente-que-matou-esposa-na-to-070.ghtml)_
+
+- **[2026-09-06 16:10 UTC]** Tremor de terra de magnitude 3,7 é registrado na região sul do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/tremor-de-terra-de-magnitude-37-e-registrado-na-regiao-sul-do-tocantins.ghtml)_
+
+- **[2026-09-07 17:22 UTC]** Barco com passageiros afunda no rio Tocantins, em Marabá, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/barco-com-passageiros-afunda-no-rio-tocantins-em-maraba-no-para.ghtml)_
+
+- **[2026-09-07 14:32 UTC]** Ex-secretário da Saúde do Tocantins é transferido para hospital particular em Brasília
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/ex-secretario-da-saude-do-tocantins-e-transferido-para-hospital-particular-em-brasilia.ghtml)_
+
+- **[2026-09-08 00:49 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta segunda-feira (7)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-segunda-feira-7.ghtml)_
+
+- **[2026-09-08 11:04 UTC]** Tocantins terá mais cinco feriados prolongados até dezembro; veja datas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/tocantins-tera-mais-cinco-feriados-prolongados-ate-dezembro-veja-datas.ghtml)_
+
+- **[2026-09-08 23:28 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta terça-feira (8)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-terca-feira-8.ghtml)_
+
+- **[2026-09-08 23:18 UTC]** Acidente entre carro e moto mata policial militar no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/acidente-entre-carro-e-moto-mata-policial-militar-no-tocantins.ghtml)_
+
+- **[2026-09-09 13:37 UTC]** Tocantins teve 34 tremores de terra nos últimos 30 anos; veja cidades com mais registros
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/tocantins-teve-34-tremores-de-terras-nos-ultimos-30-anos-veja-cidades-com-mais-registros.ghtml)_
+
+- **[2026-09-09 23:54 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao Governo do Tocantins nesta quarta-feira (9)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quarta-feira-9.ghtml)_
+
+- **[2026-09-10 16:34 UTC]** Chuvas no Tocantins: entenda por que setembro teve temporais atípicos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/10/chuvas-no-tocantins-entenda-por-que-setembro-teve-temporais-atipicos.ghtml)_
+
+- **[2026-09-11 00:07 UTC]** Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quinta-feira (10)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quinta-feira-10.ghtml)_
+
+- **[2026-09-11 08:30 UTC]** Golpistas usam dados pessoais para conquistar confiança e aplicar golpes em vítimas no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/golpistas-usam-dados-pessoais-para-conquistar-confianca-e-aplicar-golpes-em-vitimas-no-tocantins.ghtml)_
+
+- **[2026-09-11 13:15 UTC]** Imóveis vão a leilão no Tocantins com lances a partir de R$ 150 mil; veja opções
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/imoveis-vao-a-leilao-no-tocantins-com-lances-a-partir-de-r-150-mil-veja-opcoes.ghtml)_
+
+- **[2026-09-11 12:13 UTC]** Entenda por que o Tocantins pode entrar na rota do urânio brasileiro
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/entenda-por-que-o-tocantins-pode-entrar-na-rota-do-uranio-brasileiro.ghtml)_
+
+- **[2026-09-11 20:16 UTC]** Conheça influencer 'Bebinha' que conquistou 1 bilhão de visualizações com vídeos humorados no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/conheca-influencer-bebinha-que-conquistou-1-bilhao-de-visualizacoes-com-videos-humorados-no-tocantins.ghtml)_
+

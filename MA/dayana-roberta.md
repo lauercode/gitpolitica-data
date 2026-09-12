@@ -35,3 +35,24 @@
 - **[2026-08-29 22:00 UTC]** Nunca me viu? Fotos da lobista expõem mentira de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunca-me-viu-fotos-da-lobista-expoem-mentira-de-lula/)_
 
+- **[2026-08-28 14:38 UTC]** Lula diz que foto com Roberta Luchsinger não indica relação pessoal e afirma nunca ter tido interlocução com ela
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/lula-diz-que-foto-com-roberta-luchsinger-nao-indica-relacao-pessoal-e-afirma-nunca-ter-tido-interlocucao-com-ela.ghtml)_
+
+- **[2026-08-28 14:24 UTC]** Quem é Roberta Luchsinger, lobista investigada por tráfico de influência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/quem-e-roberta-luchsinger-lobista-investigada.ghtml)_
+
+- **[2026-08-28 12:20 UTC]** Lula afirma não conhecer Roberta Luchsinger; redes sociais da empresária mostram registros dos dois juntos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/lula-afirma-nao-conhecer-roberta-luchsinger-redes-sociais-da-empresaria-mostram-registros-dos-dois-juntos.ghtml)_
+
+- **[2026-08-28 10:00 UTC]** Roberta Luchsinger diz que pediu apoio a Marcola, mas não pagou, e que Lulinha é amigo antes de Lula ser presidente
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/roberta-luchsinger-diz-que-pediu-apoio-a-marcola-mas-nao-pagou-e-que-lulinha-e-amigo-antes-de-lula-ser-presidente.ghtml)_
+
+- **[2026-08-31 13:00 UTC]** Lobista ligada a Lulinha, Roberta Luchsinger deve mais de R$ 1 milhão em impostos e acumula processos na Justiça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/apontada-como-lobista-roberta-luchsinger-deve-mais-de-um-milhao-em-impostos-e-acumula-processos-na-justica.ghtml)_
+
+- **[2026-08-31 21:48 UTC]** Não vai cair sozinha: a “bomba-relógio” Roberta Luchsinger
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/nao-vai-cair-sozinha-a-bomba-relogio-roberta-luchsinger/)_
+
+- **[2026-09-11 11:00 UTC]** Roberta Miranda revela que descobriu não ser filha da mulher que a criou
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/roberta-miranda-revela-que-descobriu-nao-ser-filha-da-mulher-que-a-criou.shtml)_
+

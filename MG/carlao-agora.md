@@ -47,3 +47,81 @@
 - **[2026-08-30 14:00 UTC]** O prompt morreu: agora são 'loops' e 'graphs'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/08/o-prompt-morreu-agora-sao-loops-e-graphs.shtml)_
 
+- **[2026-08-30 17:04 UTC]** Tom Cruise estrelará novo 'Dias de Trovão', agora ao lado de Anne Hathaway
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/tom-cruise-estrelara-novo-dias-de-trovao-agora-ao-lado-de-anne-hathaway.shtml)_
+
+- **[2026-08-31 10:57 UTC]** A música de IA que plagiou Taylor Swift, viralizou nas redes e agora não para de tocar nas rádios brasileiras
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cly7215x3vmo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-31 09:35 UTC]** O ator diagnosticado com Alzheimer e que agora está à frente de um espetáculo solo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9w45p1pqv5o?at_medium=RSS&at_campaign=rss)_
+
+- **[2017-08-17 20:46 UTC]** Governo estuda agora fazer a concessão de 13 aeroportos
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/economia/noticia/governo-estuda-agora-fazer-a-concessao-de-13-aeroportos.ghtml)_
+
+- **[2017-05-17 16:45 UTC]** Empreendedorismo feminino: agora é que são elas
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/empreendedorismo-feminino-agora-e-que-sao-elas.html)_
+
+- **[2018-05-03 16:38 UTC]** Combustível tem reajuste em Fernando de Noronha, a gasolina agora custa R$ 6,79
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/combustivel-tem-reajuste-em-fernando-de-noronha-gasolina-agora-custa-r-679.html)_
+
+- **[2026-09-01 17:22 UTC]** O ator com Alzheimer que agora está à frente de um espetáculo solo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/o-ator-com-alzheimer-e-que-agora-esta-a-frente-de-um-espetaculo-solo.shtml)_
+
+- **[2026-09-02 00:57 UTC]** Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-02 01:00 UTC]** Planeta vai exceder limite de 1,5°C e tarefa agora será voltar a ele, diz ONU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/planeta-vai-exceder-limite-de-15c-e-tarefa-agora-sera-voltar-a-ele-diz-onu.shtml)_
+
+- **[2026-09-02 12:30 UTC]** Com novo olhar sobre o gênero serial killer, 'Fúria' é a melhor série do ano (até agora)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/thiagostivaletti/2026/09/com-novo-olhar-sobre-o-genero-serial-killer-furia-e-a-melhor-serie-do-ano-ate-agora.shtml)_
+
+- **[2026-09-02 18:14 UTC]** Escala 6x1: o que acontece agora? O que muda para empresas e trabalhadores? Entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/02/escala-6x1-o-que-acontece-agora-o-que-muda-entenda.ghtml)_
+
+- **[2026-09-02 22:43 UTC]** Alcolumbre diz que pedido de 'R$ 130 milhões' para filme é esquecido: 'Agora o culpado só é o Moraes'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/alcolumbre-diz-que-tem-sofrido-agressoes-e-r-130-milhoes-de-filme-sao-esquecidos-agora-o-culpado-sou-eu-e-o-ministro-moraes.ghtml)_
+
+- **[2026-09-04 03:16 UTC]** Arruda pode seguir fazendo campanha no DF? Pode recorrer? Entenda o que acontece agora
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/04/arruda-pode-seguir-fazendo-campanha-no-df-pode-recorrer-entenda-o-que-acontece-agora.ghtml)_
+
+- **[2026-09-04 10:37 UTC]** Durigan diz que reforma da Previdência não está em discussão agora, mas admite debate futuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/durigan-diz-que-reforma-da-previdencia-nao-esta-em-discussao-agora-mas-admite-debate-futuro.shtml)_
+
+- **[2026-09-06 21:00 UTC]** Aespa volta ao Brasil para show após três anos, agora como divas do k-pop
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/k-cultura/2026/09/aespa-volta-ao-brasil-para-show-apos-tres-anos-agora-como-divas-do-k-pop.shtml)_
+
+- **[2026-09-09 11:33 UTC]** Secretário do Tesouro dos EUA desafia quem apostar contra o iene: 'Agora, a banca sou eu'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/secretario-do-tesouro-dos-eua-desafia-quem-apostar-contra-o-iene-agora-a-banca-sou-eu.shtml)_
+
+- **[2026-09-09 11:25 UTC]** O Estatuto da Cidade fez 25 anos, e agora?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/o-estatuto-da-cidade-fez-25-anos-e-agora.shtml)_
+
+- **[2026-09-09 10:00 UTC]** O gargalo da infraestrutura agora é gente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/09/o-gargalo-da-infraestrutura-agora-e-gente.shtml)_
+
+- **[2026-09-09 15:15 UTC]** Milei surfa em aceno de Trump e agora quer Malvinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/milei-surfa-em-aceno-de-trump-e-agora-quer-malvinas.shtml)_
+
+- **[2026-09-09 20:43 UTC]** O que é o inquérito das fake news, que agora tem relatoria de Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-e-o-inquerito-das-fake-news-que-agora-tem-relatoria-de-fachin/)_
+
+- **[2026-09-09 21:34 UTC]** Guerra Moraes x Mendonça: o que Fachin decidiu e o que acontece agora com os ministros do STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5y423dne20o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-09 21:30 UTC]** 'Agora falta quebrar os sigilos de todos os envolvidos', diz leitora sobre decisão de Fachin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/agora-falta-quebrar-os-sigilos-de-todos-os-envolvidos-diz-leitora-sobre-decisao-de-fachin.shtml)_
+
+- **[2026-09-10 21:16 UTC]** STF salvou a democracia brasileira, mas agora a está sufocando, diz The Economist
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cg492rdelyxo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-11 18:31 UTC]** Fim 'taxa das blusinhas' para compras até US$ 50 agora é lei
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304183-fim-taxa-das-blusinhas-para-compras-ate-us-50-agora-e-lei)_
+
+- **[2026-09-11 18:31 UTC]** Fim da 'taxa das blusinhas' para compras até US$ 50 agora é lei
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304183-fim-da-taxa-das-blusinhas-para-compras-ate-us-50-agora-e-lei)_
+
+- **[2026-09-11 18:53 UTC]** A história do 'vestido da vingança', usado pela princesa Diana após confissão de traição do rei Charles 3°, que agora vai a leilão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/estilo/2026/09/a-historia-do-vestido-da-vinganca-usado-pela-princesa-diana-apos-confissao-de-traicao-do-rei-charles-3-que-agora-vai-a-leilao.shtml)_
+

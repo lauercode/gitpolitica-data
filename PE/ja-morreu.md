@@ -29,3 +29,159 @@
 - **[2026-08-30 14:00 UTC]** O prompt morreu: agora são 'loops' e 'graphs'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/08/o-prompt-morreu-agora-sao-loops-e-graphs.shtml)_
 
+- **[2026-08-31 17:15 UTC]** Homem que morreu ao cair do 14º andar em Londrina (PR) tentava escapar de agressores, diz polícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/homem-que-morreu-ao-cair-do-14o-andar-em-londrina-pr-tentava-escapar-de-agressores-diz-policia.shtml)_
+
+- **[2026-08-29 14:25 UTC]** Quem era Cássio de Holanda Tavares, defensor público que morreu aos 49 anos em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/quem-era-cassio-de-holanda-tavares-defensor-publico-que-morreu-aos-49-anos-em-rio-branco.ghtml)_
+
+- **[2026-08-30 21:00 UTC]** Trabalhador que morreu ao cair de alegoria do Festival de Cirandas de Manacapuru é velado no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/30/trabalhador-que-morreu-ao-cair-de-alegoria-do-festival-de-cirandas-de-manacapuru-e-velado-no-amazonas.ghtml)_
+
+- **[2026-08-28 22:00 UTC]** Saiba quem era o trabalhador que morreu durante montagem do Festival de Cirandas de Manacapuru
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/saiba-quem-era-o-trabalhador-que-morreu-durante-montagem-do-festival-de-cirandas-de-manacapuru.ghtml)_
+
+- **[2026-08-28 14:42 UTC]** Servidor da SSP é afastado após bater caminhonete descaracterizada em motociclista que morreu em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/servidor-da-ssp-e-afastado-apos-bater-caminhonete-descaracterizada-em-motociclista-que-morreu-em-manaus.ghtml)_
+
+- **[2018-07-17 00:22 UTC]** 'Vai fazer muita falta', diz amigo de radialista que morreu em toboágua no Beach Park
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/sp/sorocaba-jundiai/noticia/vai-fazer-muita-falta-diz-amigo-de-radialista-que-morreu-em-toboagua-no-beach-park.ghtml)_
+
+- **[2018-07-18 17:12 UTC]** 'Médico fez a cabeça dela', diz filho de gerente de banco de MT que morreu após procedimento com Dr. Bumbum
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/mt/mato-grosso/noticia/2018/07/18/medico-fez-a-cabeca-dela-diz-filho-de-gerente-de-banco-de-mt-que-morreu-apos-procedimento-com-dr-bumbum.ghtml)_
+
+- **[2018-07-18 13:59 UTC]** Corpo de gerente de banco que morreu após procedimento estético no RJ é enterrado em MT
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/mt/mato-grosso/noticia/2018/07/18/corpo-de-gerente-de-banco-que-morreu-apos-procedimento-estetico-no-rj-e-enterrado-em-mt.ghtml)_
+
+- **[2018-07-16 15:43 UTC]** Professora do ES morreu com a filha nos braços em acidente no MS
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/professora-do-es-morreu-com-a-filha-nos-bracos-em-acidente-no-ms.ghtml)_
+
+- **[2018-07-14 13:42 UTC]** Casal capixaba que morreu na BR-060 passava férias no Mato Grosso do Sul
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/casal-capixaba-que-morreu-na-br-060-passava-ferias-no-mato-grosso-do-sul.ghtml)_
+
+- **[2018-07-10 19:32 UTC]** Corpo de PM que morreu afogado após salvar a família no ES é enterrado no RJ
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/corpo-de-pm-que-morreu-afogado-apos-salvar-a-familia-no-es-e-enterrado-no-rj.ghtml)_
+
+- **[2017-04-03 06:53 UTC]** Jovem que morreu após carro bater contra árvore não usava cinto, diz Dict
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/transito/noticia/2017/04/jovem-que-morreu-apos-carro-bater-contra-arvore-nao-usava-cinto-diz-dict.html)_
+
+- **[2017-04-02 14:47 UTC]** Corpo de carpinteiro que morreu em hospital dos EUA é enterrado em GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/corpo-de-carpinteiro-que-morreu-em-hospital-dos-eua-e-enterrado-em-go.html)_
+
+- **[2018-07-10 16:46 UTC]** 'Morreu fazendo o que mais gosta', diz amigo de peão morto pisoteado durante rodeio em MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/morreu-fazendo-o-que-mais-gosta-diz-amigo-de-peao-morto-pisoteado-durante-rodeio-em-ms.ghtml)_
+
+- **[2018-07-09 22:34 UTC]** Peão pisoteado por touro em rodeio morreu após parada cardiorrespiratória, diz bombeiro
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/peao-pisoteado-por-touro-em-rodeio-morreu-apos-parada-cardiorrespiratoria-diz-bombeiro.ghtml)_
+
+- **[2017-10-30 11:59 UTC]** Motorista que morreu junto com o filho e a nora em acidente voltava de velório do sogro dele em MT
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso/noticia/motorista-que-morreu-junto-com-o-filho-e-a-nora-em-acidente-voltava-de-velorio-do-sogro-dele-em-mt.ghtml)_
+
+- **[2026-08-31 13:44 UTC]** Homens torturaram jovem após acusá-lo de furtos, diz investigação; vítima morreu depois de cair do 14º andar no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/31/motivacao-tortura-homem-queda-predio-parana.ghtml)_
+
+- **[2026-08-30 15:35 UTC]** Adolescente que morreu após caminhonete capotar e ser atingida por caminhão na BR-376 no PR é identificado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/30/adolescente-identificado-acidente-caminhonete-parana.ghtml)_
+
+- **[2026-08-30 10:26 UTC]** Homem que morreu ao cair do 14º andar no Paraná tentava fugir de torturas, diz laudo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/30/laudo-descarta-que-jovem-torturado-no-pr-foi-jogado-de-predio.ghtml)_
+
+- **[2026-08-29 12:21 UTC]** Adolescentes capotam caminhonete e são atingidos por caminhão na BR-376, no PR; um morreu e outro ficou ferido
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/29/acidente-adolescentes-caminhonete-caminhao-br-376-parana.ghtml)_
+
+- **[2018-07-17 22:17 UTC]** Corpo de gerente de banco que morreu após procedimento estético no RJ é velado em MT
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/mt/mato-grosso/noticia/corpo-de-gerente-de-banco-que-morreu-apos-procedimento-estetico-no-rj-e-velado-em-mt.ghtml)_
+
+- **[2026-08-30 16:36 UTC]** Mulher que morreu após ser atingida por raio em praia da Grande Florianópolis tem cerimônia de despedida no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/30/mulher-que-morreu-apos-ser-atingida-por-raio-em-praia-da-grande-florianopolis-sera-velada-na-serra-gaucha.ghtml)_
+
+- **[2026-08-29 22:55 UTC]** Caso Oliver: pai e mãe de menino de 3 anos que morreu após agressões viram réus no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/caso-oliver-pai-e-mae-de-menino-de-3-anos-viram-reus-no-rs.ghtml)_
+
+- **[2026-08-29 11:33 UTC]** Menino que morreu após árvore cair sobre casa é velado em Porto Alegre: 'Comprei pra botar no caixão', diz mãe sobre tênis
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/corpo-menino-morto-arvore-velado-porto-alegre.ghtml)_
+
+- **[2026-08-28 13:17 UTC]** 'Mãe maravilhosa' e 'de atitude', diz apresentadora de TV sobre irmã gêmea que morreu aos 49 anos
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/mae-atitude-apresentadora-irma-morreu.ghtml)_
+
+- **[2026-08-31 17:48 UTC]** Mulher é suspeita de andar na contramão por 2 km, bater em moto e fugir do hospital em SC; motociclista morreu
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-contramao-2-km-bate-moto-sc-401-foge-hospital-motociclista-morreu.ghtml)_
+
+- **[2026-08-27 10:29 UTC]** Ex-apresentadora do Globo Esporte que morreu em SC idealizou centro especializado em autismo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/ex-apresentadora-globo-esporte-tocantins-idealizou-centro-especializado-autismo.ghtml)_
+
+- **[2018-07-09 16:13 UTC]** Adolescente que morreu após passar mal teria usado lança-perfume, dizem amigos
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/noticia/adolescente-que-morreu-apos-passar-mal-teria-usado-lanca-perfume-dizem-amigos.ghtml)_
+
+- **[2026-08-27 10:28 UTC]** Quem era Thalita Tavares, ex-apresentadora do Globo Esporte TO que morreu vítima de câncer
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/quem-era-thalita-tavares-ex-apresentadora-do-globo-esporte-to-que-morreu-vitima-de-cancer.ghtml)_
+
+- **[2026-08-26 10:29 UTC]** Trabalhador e apegado à família: quem era o adolescente que morreu afogado em praia de Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/trabalhador-e-apegado-a-familia-quem-era-o-adolescente-que-morreu-afogado-em-praia-de-palmas.ghtml)_
+
+- **[2026-09-01 14:28 UTC]** Empresa de passeio onde turista holandês morreu nas Cataratas entregou imagens editadas à polícia; sede é alvo de busca
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/01/empresa-de-passeio-alvo-de-busca.ghtml)_
+
+- **[2026-09-01 10:53 UTC]** Namorada de jovem que morreu após ser torturado e cair do 14º andar no Paraná foi afastada do quarto e não é investigada, diz polícia
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/01/namorada-jovem-queda-predio-parana.ghtml)_
+
+- **[2026-09-01 15:05 UTC]** Saiba quem era ex-vocalista da Banda Calcinha Preta que morreu enquanto aguardava por transplante de rim em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/saiba-quem-era-ex-vocalista-da-banda-calcinha-preta-que-morreu-em-sergipe.ghtml)_
+
+- **[2026-09-03 09:00 UTC]** Mãe de jovem assassinado por empresário na saída de motel cobra Justiça quatro anos depois: 'Um pedaço de mim morreu'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/mae-de-jovem-assassinado-por-empresario-na-saida-de-motel-cobra-justica-quatro-anos-depois-um-pedaco-de-mim-morreu.ghtml)_
+
+- **[2026-09-03 11:33 UTC]** Músico que morreu a caminho de show tinha mais de 20 anos de carreira: 'Ia tocar no meu aniversário sem cobrar', diz amigo
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/quem-era-musico-que-morreu-a-caminho-de-show-no-rs.ghtml)_
+
+- **[2026-09-03 09:00 UTC]** Agricultor é indiciado por não socorrer jovem que morreu em acidente de moto no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
+
+- **[2026-09-04 20:42 UTC]** Esposa de ex-secretário morreu em acidente na TO-070 enquanto viajava com a família para Goiânia, diz amiga
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/esposa-de-ex-secretario-que-morreu-em-acidente-viajava-com-a-familia-para-goiania-diz-amiga.ghtml)_
+
+- **[2026-09-05 18:00 UTC]** Por que meu pai divorciado continua procurando os parentes da minha mãe, que já morreu?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/por-que-meu-pai-divorciado-continua-procurando-os-parentes-da-minha-mae-que-ja-morreu.shtml)_
+
+- **[2026-09-05 21:11 UTC]** Alegre e divertida: quem era a empresária esposa de ex-secretário de Saúde do TO que morreu em acidente na TO-070
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/alegre-e-divertida-quem-era-a-empresaria-esposa-de-ex-secretario-de-saude-do-to-que-morreu-em-acidente-na-to-070.ghtml)_
+
+- **[2026-09-06 14:32 UTC]** Ex-secretário de Saúde do TO chega ao 3º dia na UTI após acidente de carro em que a esposa morreu
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/ex-secretario-de-saude-do-to-chega-ao-3o-dia-na-uti-apos-acidente-de-carro-em-que-a-esposa-morreu.ghtml)_
+
+- **[2026-09-07 20:02 UTC]** ‘Estava feliz e realizado’, diz professor sobre aluno soldado da PM do AP que morreu em acidente
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/estava-feliz-e-realizado-diz-professor-sobre-aluno-soldado-da-pm-do-ap-que-morreu-em-acidente.ghtml)_
+
+- **[2026-09-07 19:40 UTC]** Amigos e familiares se despedem de adolescente que morreu durante 'pega de boi' em Poço Redondo
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/corpo-de-adolescente-que-morreu-durante-pega-de-boi-e-velado-em-poco-redondo.ghtml)_
+
+- **[2026-09-09 12:25 UTC]** Detentos fazem motim em penitenciária do Amapá; um morreu
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/09/detentos-fazem-motim-em-presidio-no-ap-e-grupo-tatico-intervem-para-conter-revolta.ghtml)_
+
+- **[2026-09-09 11:49 UTC]** Condutor de jet ski envolvido em acidente na Grande Natal se apresenta à polícia; engenheiro morreu
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/09/condutor-jet-ski-envolvido-acidente-grande-natal-se-apresenta-a-policia.ghtml)_
+
+- **[2026-09-09 16:46 UTC]** Avós tentaram criar menino de 3 anos que morreu com sinais de maus-tratos no AC: 'Fazia de tudo por ele'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/avos-tentaram-criar-menino-de-3-anos-que-morreu-com-sinais-de-maus-tratos-no-ac-fazia-de-tudo-por-ele.ghtml)_
+
+- **[2026-09-09 16:46 UTC]** Avós tentaram criar menino de 3 anos que morreu com sinais de maus-tratos no AC: 'Fazia tudo por ele'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/avos-tentaram-criar-menino-de-3-anos-que-morreu-com-sinais-de-maus-tratos-no-ac-fazia-de-tudo-por-ele.ghtml)_
+
+- **[2026-09-09 21:49 UTC]** Quem era o vereador que morreu esmagado por carga de 1 tonelada de batatas em SC: 'Adeus, meu melhor amigo'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/quem-era-vereador-esmagado-batatas-nivaldo-magagnin.ghtml)_
+
+- **[2026-09-10 08:00 UTC]** Menino de 3 anos morreu de traumatismo craniano e tinha lesões no rosto e pescoço; mãe e padrasto seguem presos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/menino-de-3-anos-morreu-de-traumatismo-craniano-e-tinha-lesoes-no-rosto-e-pescoco-mae-e-padrasto-seguem-presos.ghtml)_
+
+- **[2026-09-10 19:17 UTC]** Forte, corajosa, leal: amigos e colegas homenageiam advogada que morreu em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/forte-corajosa-leal-amigos-e-colegas-homenageiam-advogada-que-morreu-em-boa-vista.ghtml)_
+
+- **[2026-09-11 09:00 UTC]** Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml)_
+
+- **[2026-09-11 10:59 UTC]** Jovem é apreendido suspeito de violentar homem com pedaço de madeira em AL; vítima morreu
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/jovem-e-apreendido-suspeito-de-violentar-homem-com-pedaco-de-madeira-em-al-vitima-morreu.ghtml)_
+
+- **[2026-09-11 11:34 UTC]** Quem era a família que morreu soterrada enquanto dormia após barranco desabar em cima de casa durante temporal, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/quem-era-a-familia-que-morreu-soterrada-enquanto-dormia-apos-barranco-desabar-em-cima-de-casa-durante-temporal-no-parana.ghtml)_
+

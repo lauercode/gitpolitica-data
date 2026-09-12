@@ -11,3 +11,42 @@
 - **[2026-08-29 14:00 UTC]** 'Construção civil é um dos segmentos mais blindados ao cenário eleitoral', diz co-CEO da MRV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/construcao-civil-e-um-dos-segmentos-mais-blindados-ao-cenario-eleitoral-diz-co-ceo-da-mrv.shtml)_
 
+- **[2018-07-15 22:02 UTC]** Artesãos comemoram vendas e encomendas realizadas na Fenearte
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/artesaos-comemoram-vendas-e-encomendas-realizadas-na-fenearte.ghtml)_
+
+- **[2018-07-14 20:37 UTC]** Promoções aumentam vendas de rendas e artigos de cama, mesa e banho na Fenearte
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/promocoes-aumentam-vendas-de-rendas-e-artigos-de-cama-mesa-e-banho-na-fenearte.ghtml)_
+
+- **[2018-07-12 12:03 UTC]** Vendas de roupas e acessórios para animais crescem com a chegada do inverno
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/vendas-de-roupas-e-acessorios-para-animais-crescem-com-a-chegada-do-inverno.ghtml)_
+
+- **[2026-09-02 13:20 UTC]** Comerciantes montam tendas na rua para manter vendas após incêndio no Centro de Passagem, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/comerciantes-montam-tendas-na-rua-para-manter-vendas-apos-incendio-no-centro-de-passagem-em-joao-pessoa.ghtml)_
+
+- **[2026-09-02 14:19 UTC]** Raia Drogasil vê vendas de protetor solar crescerem não com calor, mas com radiação UV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/raia-drogasil-ve-vendas-de-protetor-solar-crescerem-nao-com-calor-mas-com-radiacao-uv.shtml)_
+
+- **[2026-09-02 18:54 UTC]** Pressionada pela BYD, GM segura terceiro lugar nas vendas de automóveis em agosto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/09/pressionada-pela-byd-gm-segura-terceiro-lugar-nas-vendas-de-automoveis-em-agosto.shtml)_
+
+- **[2026-09-03 19:00 UTC]** Usinas de etanol descredenciadas em SP sobem vendas em 46%, mostra levantamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/usinas-de-etanol-descredenciadas-em-sp-sobem-vendas-em-46-mostra-levantamento.shtml)_
+
+- **[2026-09-04 10:12 UTC]** Vendas do futebol feminino saltam 19%; Brasil tem recorde histórico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/vendas-do-futebol-feminino-saltam-19-brasil-tem-recorde-historico.shtml)_
+
+- **[2026-09-04 15:59 UTC]** Exportação brasileira de carne bovina perde força em agosto com redução de vendas à China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/exportacao-brasileira-de-carne-bovina-perde-forca-em-agosto-com-reducao-de-vendas-a-china.shtml)_
+
+- **[2026-09-04 18:49 UTC]** Solução criada no Amazonas leva TVLar Motos ao 1º lugar no Brasil em vendas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/tvlar-motos/noticia/2026/09/04/solucao-criada-no-amazonas-leva-tvlar-motos-ao-1o-lugar-no-brasil-em-vendas.ghtml)_
+
+- **[2026-09-07 11:16 UTC]** Morango cravejado: na Capital do Doce, sucesso de vendas faz produtores buscarem até forno industrial para aumentar produção
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/morango-cravejado-na-capital-do-doce-sucesso-de-vendas-faz-produtores-buscarem-ate-forno-industrial-para-aumentar-producao.ghtml)_
+
+- **[2026-09-08 14:59 UTC]** Morango cravejado: 'Entramos na trend para alavancar as vendas', diz doceira que chega a comercializar 200 unidades por dia no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/morango-cravejado-entramos-na-trend-para-alavancar-as-vendas-diz-doceira.ghtml)_
+
+- **[2026-09-10 11:41 UTC]** Círio 2026: ingressos gratuitos para arquibancadas esgotam 30 minutos após abertura das vendas em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/cirio-2026-aberto-o-cadastro-para-ingressos-gratuitos-das-arquibancadas-em-belem.ghtml)_
+

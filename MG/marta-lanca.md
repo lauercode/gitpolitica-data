@@ -17,3 +17,42 @@
 - **[2026-08-30 14:15 UTC]** Comércio, serviços e turismo lançam campanha contra votação da escala 6x1 antes das eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/comercio-servicos-e-turismo-lancam-campanha-contra-votacao-da-escala-6x1-antes-das-eleicoes.shtml)_
 
+- **[2026-08-28 08:04 UTC]** Para evitar reincidência no crime, órgão prisional do AP lança 'Projeto de Vida' para detentos
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/para-evitar-reincidencia-no-crime-orgao-prisional-do-ap-lanca-projeto-de-vida-para-detentos.ghtml)_
+
+- **[2018-07-14 11:31 UTC]** Jovem do Ceará com síndrome grave realiza sonho de ser escritor e lança o primeiro livro ao sair de UTI; história sensibilizou editora no RJ
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/rj/regiao-serrana/noticia/jovem-do-ceara-com-sindrome-grave-realiza-sonho-de-ser-escritor-e-lanca-o-primeiro-livro-video-sensibilizou-editora-no-rj.ghtml)_
+
+- **[2018-07-10 17:37 UTC]** Prefeitura de Tapurah (MT) lança concurso com 93 vagas e salário de até R$ 15 mil
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mt/mato-grosso/concursos-e-emprego/noticia/prefeitura-de-tapurah-mt-lanca-concurso-com-93-vagas-e-salario-de-ate-r-15-mil.ghtml)_
+
+- **[2026-08-31 21:19 UTC]** Democrata muda chapa e lança Ruth Reis como candidata ao governo do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/31/democrata-muda-chapa-e-lanca-ruth-reis-como-candidata-ao-governo-do-para.ghtml)_
+
+- **[2026-08-30 16:13 UTC]** Culinária paraense e memória: escritor lança livro com degustação gratuita na Feira do Livro de Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/30/culinaria-paraense-e-memoria-escritor-lanca-livro-com-degustacao-gratuita-na-feira-do-livro-de-belem.ghtml)_
+
+- **[2026-08-28 20:43 UTC]** Companhia de dança clássica lança espetáculo natalino 'O Quebra-Nozes' em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/28/companhia-de-danca-classica-lanca-espetaculo-natalino-o-quebra-nozes-em-boa-vista.ghtml)_
+
+- **[2018-07-09 16:13 UTC]** Adolescente que morreu após passar mal teria usado lança-perfume, dizem amigos
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/noticia/adolescente-que-morreu-apos-passar-mal-teria-usado-lanca-perfume-dizem-amigos.ghtml)_
+
+- **[2026-08-31 20:09 UTC]** EBC lança Centro de Inovação e Pesquisa em Comunicação Pública
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/ebc-lanca-centro-de-inovacao-e-pesquisa-em-comunicacao-publica)_
+
+- **[2026-09-03 13:00 UTC]** Festival inspirado em carta de Chico Mendes aos jovens lança programação no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/festival-inspirado-em-carta-de-chico-mendes-aos-jovens-lanca-programacao-no-acre.ghtml)_
+
+- **[2026-09-05 13:12 UTC]** Movimento contra violência sexual lança site para facilitar denúncias
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/movimento-contra-violencia-sexual-lanca-site-para-facilitar-denuncias)_
+
+- **[2026-09-08 20:09 UTC]** Grupo RBS lança série sobre desafios do RS e expectativas dos eleitores
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/grupo-rbs-serie-desafios-do-rs.ghtml)_
+
+- **[2026-09-10 22:40 UTC]** OpenAI lança ChatGPT para setor de serviços financeiros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/openai-lanca-chatgpt-para-setor-de-servicos-financeiros.shtml)_
+
+- **[2026-09-11 06:00 UTC]** O Universo está cheio de estranhos pequenos pontos vermelhos, e um novo estudo lança luz sobre sua possível natureza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/o-universo-esta-cheio-de-estranhos-pequenos-pontos-vermelhos-e-um-novo-estudo-lanca-luz-sobre-sua-possivel-natureza.shtml)_
+

@@ -32,3 +32,6 @@
 - **[2026-08-27 16:23 UTC]** Festival do Rio seleciona filmes de Gabriel Martins e Aly Muritiba; veja a lista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/festival-do-rio-seleciona-filmes-de-gabriel-martins-e-aly-muritiba-veja-a-lista.shtml)_
 
+- **[2026-09-06 12:54 UTC]** Flávio visita Filipe Martins na prisão e acusa Moraes de comandar “gabinete da perseguição”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-visita-filipe-martins-na-prisao-e-acusa-moraes-de-comandar-gabinete-da-perseguicao/)_
+

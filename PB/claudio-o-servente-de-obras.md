@@ -20,3 +20,111 @@
 - **[2026-08-29 16:17 UTC]** Em Angra, Flávio Bolsonaro defende Angra 3 e licenças para obras de resorts
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/em-angra-flavio-bolsonaro-defende-angra-3-e-licencas-para-obras-de-resorts.shtml)_
 
+- **[2026-08-30 13:38 UTC]** Flávio Bolsonaro quer retomar obras de Angra 3 e resorts na cidade fluminense
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-retomar-obras-angra-3-resorts-cidade-fluminense/)_
+
+- **[2026-08-31 15:00 UTC]** Exposição de Tatiana Blass faz cera escorrer e revela detalhes escondidos de obras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/exposicao-de-tatiana-blass-faz-cera-escorrer-e-revela-detalhes-escondidos-de-obras.shtml)_
+
+- **[2026-08-31 14:19 UTC]** Governo de SP cria sistema para monitorar obras, plano de metas e emendas parlamentares
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-de-sp-cria-sistema-para-monitorar-obras-plano-de-metas-e-emendas-parlamentares.shtml)_
+
+- **[2026-08-28 00:42 UTC]** Prolongamento de ponte sobre o Rio Tarauacá é concluído após 6 anos de obras no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/prolongamento-de-ponte-sobre-o-rio-tarauaca-e-concluido-apos-6-anos-de-obras-no-acre.ghtml)_
+
+- **[2026-08-28 22:37 UTC]** Renan Filho destaca obras de infraestrutura, saúde e educação durante agenda em Arapiraca
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-destaca-obras-de-infraestrutura-saude-e-educacao-durante-agenda-em-arapiraca.ghtml)_
+
+- **[2026-08-19 13:08 UTC]** Escritores de Alagoas, Paraíba e DF vencem o Prêmio Sesc de Literatura 2026; confira as obras
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/19/escritores-de-alagoas-paraiba-e-df-vencem-o-premio-sesc-de-literatura-2026-confira-as-obras.ghtml)_
+
+- **[2026-08-29 00:06 UTC]** No 1º guia eleitoral do AP, Dr. Furlan destaca obras na capital e Clécio Luís aposta em histórias de eleitores
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/28/no-1o-guia-eleitoral-do-ap-dr-furlan-destaca-gestao-na-capital-e-clecio-luis-aposta-em-historias-de-eleitores.ghtml)_
+
+- **[2026-08-31 13:59 UTC]** Plataforma na Alameda Cosme Ferreira em Manaus é interditada para obras a partir de terça-feira; veja mudanças
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/08/31/plataforma-na-alameda-cosme-ferreira-em-manaus-e-interditada-para-obras-a-partir-de-terca-feira-veja-mudancas.ghtml)_
+
+- **[2026-08-29 02:05 UTC]** Eleições 2026: Roberto Cidade visita obras em maternidade e apresenta propostas para educação
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-roberto-cidade-visita-obras-em-maternidade-e-apresenta-propostas-para-educacao.ghtml)_
+
+- **[2026-08-26 12:29 UTC]** Ponte sobre o Rio Maguari tem obras concluídas, mas segue sem liberação em Ananindeua
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/ponte-sobre-o-rio-maguari-tem-obras-concluidas-mas-segue-sem-liberacao-em-ananindeua.ghtml)_
+
+- **[2018-07-07 20:34 UTC]** Votação do público avalia obras de arte popular e religiosa na Fenearte
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/votacao-do-publico-avalia-obras-de-arte-popular-e-religiosa-na-fenearte.ghtml)_
+
+- **[2026-08-31 19:38 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras de saúde e reúne com correligionários em Joinville
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-em-sc-jorginho-mello-visita-obras-de-saude-e-reune-com-correligionarios-em-joinville.ghtml)_
+
+- **[2026-08-28 17:59 UTC]** Presidenciáveis, obras e promessas: como foi 1° dia de propaganda eleitoral na TV dos candidatos ao governo de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/28/como-foi-1-dia-propaganda-eleitoral-tv-candidatos-governo-de-sc.ghtml)_
+
+- **[2026-08-27 22:39 UTC]** Eleições 2026 em SC: João Rodrigues visita obras e participa de caminhadas no Vale do Itajaí
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-e-participa-de-caminhadas-no-vale-do-itajai.ghtml)_
+
+- **[2026-08-25 22:17 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras em Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-em-sc-jorginho-mello-visita-obras-em-florianopolis.ghtml)_
+
+- **[2026-09-03 07:01 UTC]** Obras em rodovia no Amapá revelam antigo cemitério indígena com urnas e ossos de até mil anos
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/03/obras-em-rodovia-no-amapa-revelam-antigo-cemiterio-indigena-com-urnas-e-ossos-de-ate-mil-anos.ghtml)_
+
+- **[2026-09-03 18:27 UTC]** Consórcio suspende obras de restaurante no Trianon após Promotoria questionar corte de árvores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/consorcio-suspende-obras-de-restaurante-no-trianon-apos-promotoria-questionar-corte-de-arvores.shtml)_
+
+- **[2026-09-03 23:00 UTC]** Masp atualiza exposição sobre a história da América Latina com obras dos países da região
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/masp-atualiza-exposicao-sobre-a-historia-da-america-latina-com-obras-dos-paises-da-regiao.shtml)_
+
+- **[2026-09-04 11:41 UTC]** Eleições 2026 no PR: Sérgio Moro propõe plataforma para acompanhar pedágios e obras nas rodovias
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-sergio-moro.ghtml)_
+
+- **[2026-09-04 17:02 UTC]** Especialista em obras complexas reforça posicionamento com a Lovatel Agência
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/lovatel-agencia-marca-e-negocio/noticia/2026/09/04/especialista-em-obras-complexas-reforca-posicionamento-com-a-lovatel-agencia.ghtml)_
+
+- **[2026-09-04 17:50 UTC]** BR-163 terá obras de modernização para ampliar segurança e fluidez
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/via-campo-via-campo-conectando-caminhos/noticia/2026/09/04/br-163-tera-obras-de-modernizacao-para-ampliar-seguranca-e-fluidez.ghtml)_
+
+- **[2026-09-06 22:01 UTC]** Bienal do Livro tem domingo marcado por filas, lotação e debate sobre obras eróticas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/bienal-do-livro-tem-domingo-marcado-por-filas-lotacao-e-debate-sobre-obras-eroticas.shtml)_
+
+- **[2026-09-07 08:59 UTC]** Trecho da BR-230 em Cabedelo é interditado para obras a partir desta terça-feira (8)
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/trecho-da-br-230-em-cabedelo-e-interditado-para-obras-a-partir-desta-terca-feira-8.ghtml)_
+
+- **[2026-09-08 06:23 UTC]** Obras de Auguste Renoir são roubadas de museu no sul da França
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ladroes-roubam-quatro-obras-do-museu-renoir-na-franca.shtml)_
+
+- **[2026-09-08 12:29 UTC]** Maré e Alemão receberão obras de urbanização no Rio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/mare-e-alemao-receberao-obras-de-urbanizacao-no-rio)_
+
+- **[2026-09-08 14:38 UTC]** Serra da Esperança terá novo desvio devido a obras na BR-277, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/08/desvio-serra-da-esperanca-obras-br-277-parana.ghtml)_
+
+- **[2026-09-08 22:44 UTC]** Eleições 2026 em SC: João Rodrigues visita obras na BR-282 e participa de sabatina com entidades do estado
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-na-br-282-e-participa-de-sabatina-com-entidades-do-estado.ghtml)_
+
+- **[2026-09-09 02:16 UTC]** Edvaldo Nogueira afirma que PDT não está isolado, defende fim da escala 6x1 e diz que vai atuar para destravar obras
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/edvaldo-nogueira-entrevista-fm-sergipe.ghtml)_
+
+- **[2026-09-09 13:44 UTC]** Obras da ponte de Palmas chegam a 87,49% de execução
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/obras-da-ponte-de-palmas-chegam-a-8749percent-de-execucao.ghtml)_
+
+- **[2026-09-09 15:47 UTC]** 41 trabalhadores são resgatados de condições análogas à escravidão em obras e canil de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/41-trabalhadores-sao-resgatados-de-condicoes-analogas-a-escravidao-em-obras-e-canil-de-manaus.ghtml)_
+
+- **[2026-09-09 22:32 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras da SC-408 e participa de sabatina em Jaraguá do Sul
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-em-sc-jorginho-mello-visita-obras-da-sc-408-e-participa-de-sabatina-em-jaragua-do-sul.ghtml)_
+
+- **[2026-09-10 07:00 UTC]** Obras roubadas de Matisse voltarão a ser exibidas na Biblioteca Mário de Andrade após serem recuperadas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/obras-roubadas-de-matisse-voltarao-a-ser-exibidas-na-biblioteca-mario-de-andrade-apos-serem-recuperadas.shtml)_
+
+- **[2026-09-10 16:40 UTC]** ONG de produtora de Dark Horse repassou R$ 8,5 milhões a firma que abasteceu empresas 'laranja' em nome de cuidadora de idosos e servente de obras, diz PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/ong-de-dark-horse-repassou-r-85-milhoes-a-firma-que-abasteceu-empresas-laranja-em-nome-de-cuidadora-de-idosos-e-servente-de-obras-diz-pf.ghtml)_
+
+- **[2026-09-10 16:15 UTC]** Entidades alertam TCU sobre paralisação das obras do canal do porto de Santos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/entidades-alertam-tcu-sobre-paralisacao-das-obras-do-canal-do-porto-de-santos.shtml)_
+
+- **[2026-09-10 22:25 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras e reúne com apoiadores no Vale do Itajaí
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-jorginho-mello-visita-obras-e-reune-com-apoiadores-no-vale-do-itajai.ghtml)_
+
+- **[2026-09-11 14:10 UTC]** Dnit interdita parcialmente trecho da BR-156 no AP para obras em pontes; veja alterações
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/11/dnit-interdita-parcialmente-trecho-da-br-156-no-ap-para-obras-em-pontes-veja-alteracoes.ghtml)_
+

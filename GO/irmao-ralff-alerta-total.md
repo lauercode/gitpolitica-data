@@ -17,3 +17,48 @@
 - **[2026-08-30 06:08 UTC]** Islândia recusa em plebiscito retomar negociações de adesão à União Europeia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml)_
 
+- **[2026-08-26 17:26 UTC]** Eclipse lunar quase total poderá ser visto no Maranhão; UFMA e SAMA promovem observação em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/eclipse-lunar-quase-total-podera-ser-visto-no-ma-ufma-promovera-observacao-publica-em-sao-luis.ghtml)_
+
+- **[2026-08-28 12:08 UTC]** Eclipse 'quase' total da Lua: veja FOTOS do fenômeno pela Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/28/eclipse-quase-total-da-lua-veja-fotos-do-fenomeno-pela-paraiba.ghtml)_
+
+- **[2026-08-27 09:10 UTC]** Eclipse 'quase' total da Lua acontece nesta quinta-feira (27) e pode ser observado da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/eclipse-quase-total-da-lua-acontece-nesta-quinta-feira-27-e-podera-ser-observado-da-paraiba.ghtml)_
+
+- **[2018-07-17 10:39 UTC]** Veja 13 concursos previstos para o estado de SP este ano; total de vagas chega a quase 22 mil
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/economia/concursos-e-emprego/noticia/veja-13-concursos-previstos-para-o-estado-de-sp-este-ano-total-de-vagas-chega-a-quase-22-mil.ghtml)_
+
+- **[2026-09-01 17:16 UTC]** Omron planeja que Brasil represente 5% da receita total da multinacional japonesa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/omron-planeja-que-brasil-represente-5-da-receita-total-da-multinacional-japonesa.shtml)_
+
+- **[2026-09-01 16:51 UTC]** SP confirma dois novos casos de sarampo e total chega a 28 no estado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/sp-confirma-dois-novos-casos-de-sarampo-e-total-chega-a-28.shtml)_
+
+- **[2026-09-02 14:48 UTC]** Anac suspende operações da Total Linhas Aéreas, que presta serviço aos Correios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anac-suspende-operacoes-da-total-linhas-aereas-que-presta-servico-aos-correios.shtml)_
+
+- **[2026-09-06 03:00 UTC]** Governo federal projeta receita total de R$ 3,24 trilhões em 2026; número é recorde e equivale a 23,7% do PIB
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/06/governo-federal-projeta-receita-total-de-r-324-trilhoes-em-2026-numero-e-recorde-e-equivale-a-237percent-do-pib.ghtml)_
+
+- **[2026-09-08 17:03 UTC]** Onze diretores da PF colocam cargos à disposição e manifestam 'total apoio' a Andrei Rodrigues após afastamento
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/nota-diretores-pf-andrei-rodrigues.ghtml)_
+
+- **[2026-09-09 14:42 UTC]** Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml)_
+
+- **[2026-09-09 14:42 UTC]** Lula pede quebra total de sigilo em investigações do caso Master e diz que 'vazamentos seletivos' afetam eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml)_
+
+- **[2026-09-09 16:16 UTC]** São Paulo confirma dois novos casos de sarampo; total chega a 30
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-dois-novos-casos-de-sarampo)_
+
+- **[2026-09-10 23:31 UTC]** Lula sai em defesa de Andrei: 'é da minha total confiança'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/lula-sai-em-defesa-de-andrei-e-da-minha-total-confianca.ghtml)_
+
+- **[2026-09-11 12:23 UTC]** São Paulo confirma mais dois casos de sarampo e total chega a 32
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-mais-dois-casos-de-sarampo-e-total-chega-32)_
+
+- **[2026-09-11 15:44 UTC]** Fachin determina quebra total do sigilo das investigações do Master
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-determina-quebra-total-do-sigilo-das-investigacoes-do-master)_
+

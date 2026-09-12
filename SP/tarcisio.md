@@ -5,3 +5,30 @@
 
 ## Histórico
 
+- **[2026-08-31 17:01 UTC]** Após queda do sistema Cantareira para 33% em agosto, Tarcísio descarta rodízio ou racionamento de água em SP durante estiagem
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/08/31/apos-queda-do-sistema-cantareira-para-33percent-em-agosto-tarcisio-descarta-rodizio-ou-racionamento-de-agua-em-sp-durante-estiagem.ghtml)_
+
+- **[2026-08-31 16:55 UTC]** Tarcísio promete renovar benefício fiscal para transporte de cargas em SP e defende pedágio free flow
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/31/tarcisio-promete-renovar-beneficio-fiscal-para-transporte-de-cargas-em-sp-e-defende-pedagio-free-flow.ghtml)_
+
+- **[2026-09-04 19:44 UTC]** Tarcísio promete criar hubs de inovação conforme vocação de cada região de SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/04/tarcisio-promete-criar-hubs-de-inovacao-conforme-vocacao-de-cada-regiao-de-sp.ghtml)_
+
+- **[2026-09-05 13:51 UTC]** Lula critica Tarcísio em SP, e Haddad associa governador a 'máfia do Master'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-critica-tarcisio-em-sp-e-haddad-associa-governador-a-mafia-do-master.shtml)_
+
+- **[2026-09-08 20:05 UTC]** Quaest em SP: Tarcísio, 42%; Haddad, 27%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/08/quaest-sp-governador-8-setembro.ghtml)_
+
+- **[2026-09-08 17:12 UTC]** Quaest: Tarcísio tem 42% no 1º turno para Governo de SP, contra 27% de Haddad
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-tarcisio-tem-42-no-1o-turno-para-governo-de-sp-contra-27-de-haddad.shtml)_
+
+- **[2026-09-11 20:09 UTC]** Datafolha: 46% avaliam a gestão Tarcísio como positiva e 21% como negativa em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/11/datafolha-sp-avaliacao-governador-11-setembro.ghtml)_
+
+- **[2026-09-11 20:04 UTC]** Datafolha em SP: Tarcísio, 49%; Haddad, 29%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/11/datafolha-sp-governador-11-setembro.ghtml)_
+
+- **[2026-09-11 17:05 UTC]** Datafolha: Tarcísio lidera em SP contra Haddad e poderia vencer disputa em primeiro turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-tarcisio-lidera-em-sp-contra-haddad-e-poderia-vencer-disputa-em-primeiro-turno.shtml)_
+

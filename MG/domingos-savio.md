@@ -14,3 +14,9 @@
 - **[2026-08-21 21:35 UTC]** Datafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-governador-21-agosto.ghtml)_
 
+- **[2026-09-08 20:05 UTC]** Quaest para o Senado em MG: Marília, 13%; Aécio, 10%; Viana, 8%; Sávio, 6%; Aro, 4%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-senado-8-setembro.ghtml)_
+
+- **[2026-09-11 20:05 UTC]** Datafolha em MG para o Senado: Marília, 12%; Viana, 10%; Aécio, 10%; Sávio, 8%; Aro, 6%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-senado-mg-11-setembro.ghtml)_
+

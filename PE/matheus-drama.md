@@ -8,3 +8,18 @@
 - **[2026-08-27 19:00 UTC]** Drama judicial nos EUA opõe gestante e mãe biológica por guarda de bebê
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/drama-judicial-nos-eua-opoe-gestante-e-mae-biologica-por-guarda-de-bebe.shtml)_
 
+- **[2026-09-01 13:00 UTC]** Andrew Scott sustenta 'Pressão', drama de guerra sobre o Dia D
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/andrew-scott-sustenta-pressao-drama-de-guerra-sobre-o-dia-d.shtml)_
+
+- **[2026-09-02 15:31 UTC]** Conheça a lenda por trás de 'O Rato', k-drama da Netflix sobre roubo de identidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/conheca-a-lenda-por-tras-de-o-rato-k-drama-da-netflix-sobre-roubo-de-identidade.shtml)_
+
+- **[2026-09-03 23:03 UTC]** 'Emergência 53' leva drama hospitalar às ruas e sacode limites do gênero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2026/09/emergencia-53-leva-drama-hospitalar-as-ruas-e-sacode-limites-do-genero.shtml)_
+
+- **[2026-09-08 00:00 UTC]** Fãs brasileiros de k-drama se concentram no Norte e Nordeste, diz pesquisa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/fas-brasileiros-de-k-drama-se-concentram-no-norte-e-nordeste-diz-pesquisa.shtml)_
+
+- **[2026-09-08 18:39 UTC]** Thiago Lacerda vai interpretar viúvo em drama ambientado em Cuba
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/thiago-lacerda-vai-interpretar-viuvo-em-drama-ambientado-em-cuba.shtml)_
+

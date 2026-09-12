@@ -5,3 +5,18 @@
 
 ## Histórico
 
+- **[2026-08-30 22:27 UTC]** Filha de Juliano Cazarré é internada em UTI após quatro dias doente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/filha-de-juliano-cazarre-e-internada-em-uti-apos-quatro-dias-doente.shtml)_
+
+- **[2026-08-30 18:59 UTC]** Henrique, da dupla com Juliano, participa de vaquejada em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/30/henrique-da-dupla-com-juliano-participa-de-vaquejada-em-sergipe.ghtml)_
+
+- **[2026-09-02 21:19 UTC]** Henrique e Juliano são processados em R$ 5 milhões após troca de empresa de ingressos para shows
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/henrique-e-juliano-sao-processados-em-r-5-milhoes-apos-troca-de-empresa-de-ingressos-para-shows.ghtml)_
+
+- **[2026-09-03 12:10 UTC]** Entenda o processo de R$ 5 milhões contra Henrique e Juliano após troca de empresa de ingressos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/entenda-o-processo-de-r-5-milhoes-contra-henrique-e-juliano-apos-troca-de-empresa-de-ingressos.ghtml)_
+
+- **[2026-09-03 17:18 UTC]** Ex-colega de aula de Henrique, da dupla com Juliano, tem pedido atendido e refaz foto antiga com o cantor
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/ex-colega-de-aula-de-henrique-da-dupla-com-juliano-tem-pedido-atendido-e-refaz-foto-antiga-com-o-cantor.ghtml)_
+

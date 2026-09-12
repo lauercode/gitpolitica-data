@@ -8,3 +8,15 @@
 - **[2026-08-29 10:39 UTC]** Atriz de 'Avenida Brasil' relembra experiência de quase morte: 'Trauma'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/atriz-de-avenida-brasil-relembra-experiencia-de-quase-morte-trauma.shtml)_
 
+- **[2018-05-19 16:38 UTC]** Guida Vianna e Letícia Isnard estão no elenco da peça 'Agosto'  no Teatro Carlos Gomes
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/rio-de-janeiro/o-que-fazer-no-rio-de-janeiro/noticia/guida-vianna-e-leticia-isnard-estao-no-elenco-da-peca-agosto-no-teatro-carlos-gomes.ghtml)_
+
+- **[2026-08-31 22:20 UTC]** Letícia Sabatella e Daniel Dantas reencontram cachorro após mais de um ano de disputa judicial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/leticia-sabatella-e-daniel-dantas-reencontram-cachorro-apos-mais-de-um-ano-de-disputa-judicial.shtml)_
+
+- **[2026-09-06 21:13 UTC]** Rock in Rio 2026: Letícia Colin é tietada e se surpreende com torcida por Adriana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-leticia-colin-e-tietada-e-se-surpreende-com-torcida-por-adriana.shtml)_
+
+- **[2026-09-11 04:00 UTC]** Plataformas ampliam radicalização misógina e atraem jovens para espiral, diz Letícia Cesarino em novo livro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/plataformas-ampliam-radicalizacao-misogina-e-atraem-jovens-para-espiral-diz-leticia-cesarino-em-novo-livro.shtml)_
+

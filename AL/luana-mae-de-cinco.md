@@ -35,3 +35,162 @@
 - **[2026-08-30 09:00 UTC]** Fusões e aquisições de empresas chegam a US$ 2,4 trilhões entre janeiro e maio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/fusoes-e-aquisicoes-de-empresas-chegam-a-us-24-trilhoes-entre-janeiro-e-maio.shtml)_
 
+- **[2026-08-27 16:14 UTC]** TSE aprova envio de tropas federais para cinco estados
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-aprova-envio-de-tropas-federais-para-cinco-estados)_
+
+- **[2026-08-30 16:22 UTC]** Chuva com granizo atinge 23 municípios em SC e deixa cinco cidades em situação de emergência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/chuva-com-granizo-atinge-23-municipios-em-sc-e-deixa-cinco-cidades-em-situacao-de-emergencia.shtml)_
+
+- **[2026-08-30 16:22 UTC]** Chuva com granizo atinge 24 municípios em SC e deixa cinco cidades em situação de emergência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/chuva-com-granizo-atinge-23-municipios-em-sc-e-deixa-cinco-cidades-em-situacao-de-emergencia.shtml)_
+
+- **[2026-08-31 11:47 UTC]** Contas públicas têm superávit em julho; dívida sobe para 82,5% do PIB, maior nível em mais de cinco anos
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/contas-publicas-tem-superavit-em-julho-divida-sobe-para-825percent-do-pib-maior-nivel-em-mais-de-cinco-anos.ghtml)_
+
+- **[2026-08-31 09:23 UTC]** Dívida bruta brasileira atinge 82,5% do PIB em julho, maior patamar em cinco anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/divida-bruta-brasileira-atinge-825-do-pib-em-julho.shtml)_
+
+- **[2026-08-26 13:32 UTC]** Mais de 370 kg de skunk são apreendidos dentro de embarcação no Acre; cinco fogem
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/policia-apreende-mais-de-370-kg-de-skunk-em-embarcacao-em-ramal-de-rio-branco-cinco-fogem.ghtml)_
+
+- **[2026-08-29 12:58 UTC]** Veja como se inscrever no Casamento na Comunidade em cinco municípios do Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/29/veja-como-se-inscrever-no-casamento-na-comunidade-em-cinco-municipios-do-amapa.ghtml)_
+
+- **[2018-07-14 15:01 UTC]** Acidente com caminhão de empresa terceirizada da Enel mata um funcionário e deixa cinco feridos na GO-237
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/acidente-com-caminhao-de-empresa-terceirizada-da-enel-mata-um-funcionario-e-deixa-cinco-feridos-na-go-237.ghtml)_
+
+- **[2018-03-06 11:01 UTC]** Cinco meses após lançamento, emissões de CNH Digital ficam abaixo do esperado pelo Detran-GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/cinco-meses-apos-lancamento-emissoes-de-cnh-digital-ficam-abaixo-do-esperado-pelo-detran-go.ghtml)_
+
+- **[2026-08-28 21:20 UTC]** SENAI-MA abre cinco vagas para instrutores no Maranhão com salários de até R$ 5,7 mil
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/concursos-e-emprego/noticia/2026/08/28/senai-ma-abre-cinco-vagas-para-instrutores-no-maranhao-com-salarios-de-ate-r-57-mil.ghtml)_
+
+- **[2018-07-20 23:26 UTC]** Veja as cinco contradições entre o que disse Dr. Bumbum e os documentos da investigação policial
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/07/20/veja-as-cinco-contradicoes-entre-o-que-disse-dr-bumbum-e-os-documentos-da-investigacao-policial.ghtml)_
+
+- **[2018-03-21 13:56 UTC]** Carro atropela cinco pessoas na calçada, bate em lixeira e derruba árvore em MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso-do-sul/noticia/carro-atropela-cinco-pessoas-na-calcada-bate-em-lixeira-e-derruba-arvore-em-ms.ghtml)_
+
+- **[2018-07-18 10:41 UTC]** Caminhoneiro morre carbonizado e cinco pessoas ficam feridas em acidente na BR-135, em Montes Claros
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/grande-minas/noticia/2018/07/18/caminhoneiro-morre-carbonizado-e-cinco-pessoas-ficam-feridas-em-acidente-na-br-135-em-montes-claros.ghtml)_
+
+- **[2026-08-29 14:17 UTC]** Cinco homens são presos após troca de tiros com PMs em Marabá
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/cinco-homens-sao-presos-apos-troca-de-tiros-com-pms-em-maraba.ghtml)_
+
+- **[2026-08-27 20:45 UTC]** Acidentes graves deixam dois mortos e cinco feridos no sudeste do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/acidentes-graves-deixam-dois-mortos-e-cinco-feridos-no-sudeste-do-para.ghtml)_
+
+- **[2026-08-28 12:34 UTC]** Cinco trabalhadores morrem após caminhonete bater de frente com caminhão, no PR; polícia investiga circunstâncias do acidente
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/28/morte-cinco-trabalhadores-acidente-ventania-parana.ghtml)_
+
+- **[2018-07-11 09:53 UTC]** Bandas que tocaram no carnaval esperam cachê da Prefeitura do Rio há cinco meses
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/rio-de-janeiro/noticia/bandas-que-tocaram-no-carnaval-esperam-cache-da-prefeitura-do-rio-ha-cinco-meses.ghtml)_
+
+- **[2026-08-30 16:57 UTC]** Homem é preso após pilotar moto com teor de álcool quase cinco vezes acima do limite na Grande Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/30/homem-e-preso-apos-pilotar-moto-com-teor-de-alcool-quase-cinco-vezes-acima-do-limite-na-grande-natal.ghtml)_
+
+- **[2026-08-28 17:07 UTC]** VÍDEO: Homem tenta fugir com carro furtado, atinge cinco veículos, derruba motoqueiro e acaba preso no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/video-homem-tenta-fugir-com-carro-furtado-atinge-cinco-veiculos-derruba-motoqueiro-e-acaba-preso-no-rs.ghtml)_
+
+- **[2026-08-27 08:03 UTC]** Paciente de CAPS estava com três de cinco crânios retirados de sepulturas no RS, aponta investigação
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/27/paciente-caps-cranios-retirados-sepulturas-rs-investigacao.ghtml)_
+
+- **[2026-08-26 11:32 UTC]** Polícia Civil faz operação em cinco estados contra chefes de quadrilha com forte atuação no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/operacao-policia-civil-faccao-rs-cinco-estados.ghtml)_
+
+- **[2026-08-27 20:14 UTC]** Novo vídeo mostra que carreta fazia ultrapassagem quando bateu em caminhonete em RO; cinco pessoas morreram
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/novo-video-mostra-acidente-em-rondonia.ghtml)_
+
+- **[2026-08-27 18:53 UTC]** Saiba quem são as cinco vítimas do acidente na BR-364 em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/saiba-quem-sao-as-cinco-vitimas-do-acidente-na-br-364-em-ro.ghtml)_
+
+- **[2026-08-27 13:31 UTC]** Acidente entre carreta e caminhonete deixa cinco pessoas mortas na BR-364 em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/acidente-deixa-cinco-pessoas-em-acidente-na-br-364-em-ro.ghtml)_
+
+- **[2026-08-27 14:57 UTC]** Estudante de direito natural do MS é encontrado morto cinco dias após desaparecer em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/estudante-de-direito-do-ms-achado-morto-itapema-sc.ghtml)_
+
+- **[2026-09-02 19:07 UTC]** Polícia prende cinco suspeitos de tráfico de drogas em três bairros de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/02/policia-prende-cinco-suspeitos-de-trafico-de-drogas-em-tres-bairros-de-macapa.ghtml)_
+
+- **[2026-09-02 18:55 UTC]** Cinco são denunciados por tráfico internacional de pessoas e por tentar matar testemunhas, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/02/trafico-internacional-de-pessoas-parana.ghtml)_
+
+- **[2026-09-02 23:47 UTC]** Eleições 2026: Omar Aziz cumpre agenda em Brasília e promete concurso com cinco mil vagas para segurança pública
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-omar-aziz-cumpre-agenda-em-brasilia-e-promete-concurso-com-cinco-mil-vagas-para-seguranca-publica.ghtml)_
+
+- **[2026-09-03 10:55 UTC]** VÍDEO: Cataratas do Iguaçu registram vazão cinco vezes maior do que o normal
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/03/cataratas-do-iguacu-vazao.ghtml)_
+
+- **[2026-09-03 12:08 UTC]** Cataratas do Iguaçu registram vazão cinco vezes maior que a média
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cataratas-do-iguacu-registram-vazao-cinco-vezes-maior-que-a-media.shtml)_
+
+- **[2026-09-03 17:00 UTC]** Cinco dias após decisão do STF, Maria da Penha é usada em briga de vizinhos em Cuiabá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cinco-dias-apos-decisao-do-stf-maria-da-penha-e-usada-em-briga-de-vizinhos-em-cuiaba.shtml)_
+
+- **[2026-09-03 23:00 UTC]** No Dia do Irmão, veja cinco dicas de filmes e séries sobre ou produzidos por irmãos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/no-dia-do-irmao-veja-cinco-dicas-de-filmes-e-series-sobre-ou-produzidos-por-irmaos.shtml)_
+
+- **[2026-09-04 21:23 UTC]** Bando de cinco criminosos assalta joalheria em Castanhal
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/bando-de-cinco-criminosos-assalta-joalheria-em-castanhal.ghtml)_
+
+- **[2026-09-05 04:00 UTC]** Dia da Barba: veja cinco dicas para manter os pelos limpos, hidratados e livres de bactérias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/dia-da-barba-veja-cinco-dicas-para-manter-os-pelos-limpos-hidratados-e-livres-de-bacterias.shtml)_
+
+- **[2026-09-05 08:00 UTC]** No Dia da Amazônia, conheça cinco dos grandes predadores da maior floresta tropical do mundo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/no-dia-da-amazonia-conheca-cinco-dos-grandes-predadores-da-maior-floresta-tropical-do-mundo.ghtml)_
+
+- **[2026-09-05 09:00 UTC]** Paraíba tem cinco trechos de praia impróprios para banho no feriadão de  7 de Setembro; saiba quais
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/paraiba-tem-cinco-trechos-de-praia-improprios-para-banho-no-feriadao-de-7-de-setembro-saiba-quais.ghtml)_
+
+- **[2026-09-05 10:02 UTC]** Eleições 2026: candidaturas de autistas aumentam mais de cinco vezes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleicoes-2026-candidaturas-de-autistas-aumentam-mais-de-cinco-vezes)_
+
+- **[2026-09-05 12:42 UTC]** Cinco suspeitos são presos por esquema de furto de carros de luxo em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/suspeitos-sao-presos-por-esquema-de-furto-de-carros-de-luxo-em-natal.ghtml)_
+
+- **[2026-09-05 14:29 UTC]** Peru declara estado de emergência em cinco presídios de alta segurança
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/peru-declara-estado-de-emergencia-em-cinco-presidios-de-alta-seguranca)_
+
+- **[2026-09-06 03:00 UTC]** Telefone fixo, disquetes e cinco 'ninjas': os bastidores da criação da urna eletrônica
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/06/telefone-fixo-disquetes-e-cinco-ninjas-os-bastidores-da-criacao-da-urna-eletronica.ghtml)_
+
+- **[2026-09-07 11:16 UTC]** Acidentes de trânsito deixam cinco mortos e dois feridos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/duas-pessoas-morrem-e-duas-ficam-feridas-em-colisao-entre-tres-motos-na-se-290-em-itabaianinha.ghtml)_
+
+- **[2026-09-07 23:08 UTC]** Acidentes em rodovias deixam dois mortos e cinco feridos durante feriado prolongado no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/acidentes-em-rodovias-deixam-dois-mortos-e-cinco-feridos-durante-feriado-prolongado-no-para.ghtml)_
+
+- **[2026-09-07 20:17 UTC]** Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas)_
+
+- **[2026-09-08 11:04 UTC]** Tocantins terá mais cinco feriados prolongados até dezembro; veja datas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/tocantins-tera-mais-cinco-feriados-prolongados-ate-dezembro-veja-datas.ghtml)_
+
+- **[2026-09-09 11:02 UTC]** Um em cada cinco estudantes já fez apostas online, mostra pesquisa
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/um-em-cada-cinco-estudantes-ja-fez-apostas-online-mostra-pesquisa)_
+
+- **[2026-09-09 10:25 UTC]** Agenda dos presidenciáveis: cinco candidatos estão em São Paulo hoje
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/agenda-dos-presidenciaveis-cinco-candidatos-estao-em-sao-paulo-hoje)_
+
+- **[2026-09-09 15:34 UTC]** PF cumpre 18 mandados contra grupo suspeito de fraudar pensões do INSS em cinco cidades de AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/09/pf-cumpre-18-mandados-contra-grupo-suspeito-de-fraudar-pensoes-do-inss-em-cinco-cidades-de-al.ghtml)_
+
+- **[2026-09-09 15:50 UTC]** Cinco pessoas são baleadas durante aniversário em São Luís; policial penal e sargento estão entre as vítimas
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/cinco-pessoas-sao-baleadas-durante-aniversario-em-sao-luis-policial-penal-e-sargento-estao-entre-as-vitimas.ghtml)_
+
+- **[2026-09-10 13:36 UTC]** MPRJ denuncia cinco pessoas por morte de ciclista em Copacabana
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mprj-denuncia-cinco-pessoas-por-morte-de-ciclista-em-copacabana)_
+
+- **[2026-09-11 10:52 UTC]** Cinco estados estão em alerta para síndrome respiratória aguda grave
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/cinco-estados-estao-em-alerta-para-sindrome-respiratoria-aguda-grave)_
+
+- **[2026-09-11 15:42 UTC]** Justiça federal transforma TH Joias e mais cinco em réus por esquema com o CV no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-federal-transforma-th-joias-e-mais-cinco-em-reus-por-esquema-com-o-cv-no-rio.shtml)_
+
+- **[2026-09-11 16:02 UTC]** 'Rei do Gás' faz doações eleitorais de R$ 4,7 milhões para cinco partidos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/rei-do-gas-faz-doacoes-eleitorais-de-r-47-milhoes-para-cinco-partidos.shtml)_
+
+- **[2026-09-11 22:43 UTC]** Relatório aponta que credenciais de servidora do MPF do MA foram usadas ao menos cinco vezes por grupo ligado a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/noticia/2026/09/11/relatorio-aponta-que-credenciais-de-servidora-do-mpf-do-ma-foram-usadas-ao-menos-cinco-vezes-por-grupo-ligado-a-vorcaro.ghtml)_
+

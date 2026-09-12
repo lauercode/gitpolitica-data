@@ -29,3 +29,120 @@
 - **[2026-08-29 13:00 UTC]** Contrabando e pirataria causam perda de quase R$ 500 bilhões em 2025, indica levantamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/contrabando-e-pirataria-causam-perda-de-quase-r-500-bilhoes-em-2025-indica-levantamento.shtml)_
 
+- **[2026-08-31 11:27 UTC]** Andarilho, David Corrêa tem dois títulos da Copa do Brasil por Cruzeiro e São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/andarilho-david-correa-tem-dois-titulos-da-copa-do-brasil-por-cruzeiro-e-sao-paulo.shtml)_
+
+- **[2026-08-31 21:43 UTC]** Copa, gols, recordes e lágrimas: os momentos inesquecíveis de Lionel Messi na seleção da Argentina e nos clubes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/clyk5zr3vxyo?at_medium=RSS&at_campaign=rss)_
+
+- **[2018-05-02 16:22 UTC]** Apresentador do Globo Esporte, George Guilherme,  visita Fernando de Noronha e fala de Copa do Mundo
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/apresentador-do-globo-esporte-george-guilherme-visita-fernando-de-noronha-e-fala-de-copa-do-mundo.html)_
+
+- **[2018-06-07 01:09 UTC]** Croácia x França: saiba quando será a final da Copa do Mundo 2018 e outras perguntas e respostas sobre o Mundial
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/mundo/noticia/perguntas-e-respostas-sobre-a-copa-do-mundo-de-2018-na-russia.ghtml)_
+
+- **[2026-08-31 23:41 UTC]** Câmara aprova autonomia de escolas para ajustar calendário na Copa do Mundo Feminina
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301485-camara-aprova-autonomia-de-escolas-para-ajustar-calendario-na-copa-do-mundo-feminina)_
+
+- **[2026-08-31 23:00 UTC]** Quartas da Copa do Brasil tem Santos em busca de virada e dois clássicos empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/quartas-da-copa-do-brasil-tem-santos-em-busca-de-virada-e-dois-classicos-empatados.shtml)_
+
+- **[2026-08-31 22:39 UTC]** Câmara derruba obrigatoriedade de escolas marcarem férias durante Copa do Mundo feminina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/camara-derruba-obrigatoriedade-de-escolas-marcarem-ferias-durante-copa-do-mundo-feminina.shtml)_
+
+- **[2026-08-31 23:00 UTC]** Quartas da Copa do Brasil têm Santos em busca de virada e dois clássicos empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/quartas-da-copa-do-brasil-tem-santos-em-busca-de-virada-e-dois-classicos-empatados.shtml)_
+
+- **[2026-09-01 18:04 UTC]** Copa do Brasil define primeiro semifinalista nesta terça-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/copa-do-brasil-define-primeiro-semifinalista-nesta-terca-feira)_
+
+- **[2026-09-01 23:12 UTC]** Atlético busca virada, elimina o Cruzeiro e avança à semifinal da Copa do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/atletico-busca-virada-elimina-o-cruzeiro-e-avanca-a-semifinal-da-copa-do-brasil.shtml)_
+
+- **[2026-09-02 16:55 UTC]** Seleção brasileira terá 1ª convocação pós-Copa em 9 de setembro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/selecao-brasileira-tera-1a-convocacao-pos-copa-em-9-de-setembro)_
+
+- **[2026-09-02 17:46 UTC]** Copa do Brasil segue definindo semifinalistas nesta quarta-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/copa-do-brasil-segue-definindo-semifinalistas-nesta-quarta-feira)_
+
+- **[2026-09-02 23:32 UTC]** Palmeiras segura pressão do Santos, elimina rival e avança na Copa do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-segura-pressao-do-santos-elimina-rival-e-avanca-na-copa-do-brasil.shtml)_
+
+- **[2026-09-03 07:12 UTC]** Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-palmeiras-avancam-e-se-enfrentam-na-semi-da-copa-do-brasil)_
+
+- **[2026-09-03 15:51 UTC]** Fora do US Open e sob mistério, João Fonseca confirma que vai jogar a Copa Davis no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/fora-do-us-open-e-sob-misterio-joao-fonseca-confirma-que-vai-jogar-a-copa-davis-no-rio.shtml)_
+
+- **[2026-09-03 17:48 UTC]** Copa do Brasil define último semifinalista nesta quinta-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/copa-do-brasil-define-ultimo-semifinalista-nesta-quinta-feira)_
+
+- **[2026-09-03 20:50 UTC]** Fifa abre inscrição para voluntários da Copa do Mundo Feminina
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/fifa-abre-inscricao-para-voluntarios-da-copa-do-mundo-feminina)_
+
+- **[2026-09-03 23:12 UTC]** Globo demite três executivos após erros da Copa, na maior mudança da década em sua direção
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/gglobo-demite-tres-executivos-apos-erros-da-copa-na-maior-mudanca-da-decada-em-sua-direcao.shtml)_
+
+- **[2026-09-03 23:08 UTC]** Leis viabilizam a Copa Feminina de 2027 e propostas reforçam o protagonismo das mulheres no futebol
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302724-leis-viabilizam-a-copa-feminina-de-2027-e-propostas-reforcam-o-protagonismo-das-mulheres-no-futebol)_
+
+- **[2026-09-04 06:00 UTC]** SBT faz proposta de R$ 150 milhões para retomar direitos da Copa do Brasil até 2030
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-faz-proposta-de-r-150-milhoes-para-retomar-direitos-da-copa-do-brasil-ate-2030.shtml)_
+
+- **[2026-09-04 12:21 UTC]** Copa do Brasil reúne líder, candidato à Libertadores e times em crise no Brasileiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/copa-do-brasil-reune-lider-candidato-a-libertadores-e-times-em-crise-no-brasileiro.shtml)_
+
+- **[2026-09-05 15:14 UTC]** Brasil goleia Tanzânia na estreia na Copa do Mundo sub-20 feminina
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-goleia-tanzania-na-estreia-na-copa-do-mundo-sub-20-feminina)_
+
+- **[2026-09-05 16:40 UTC]** Brasil leva ouro na Copa do Mundo de paratriatlo e no parabadminton
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-leva-ouro-na-copa-do-mundo-de-paratriatlo-e-no-parabadminton)_
+
+- **[2026-09-07 06:31 UTC]** Sete de setembro: soberania, Copa e combate ao feminicídio serão temas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/sete-de-setembro-soberania-copa-e-combate-ao-feminicidio-serao-temas)_
+
+- **[2026-09-08 13:55 UTC]** Sem jogos ao vivo, Band tentar faturar R$ 10 milhões com Copa do Mundo feminina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sem-jogos-ao-vivo-band-tentar-faturar-r-10-milhoes-com-copa-do-mundo-feminina.shtml)_
+
+- **[2026-09-08 19:15 UTC]** Três meninos pegam figurinhas da Copa do Mundo sem autorização em shopping e vão parar no Conselho Tutelar
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/08/tres-meninos-pegam-figurinhas-da-copa-do-mundo-sem-autorizacao-em-shopping-e-vao-parar-no-conselho-tutelar.ghtml)_
+
+- **[2026-09-08 19:08 UTC]** Brasileiras são vice-campeãs da Copa América de futebol de cegas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiras-sao-vice-campeas-da-copa-america-de-futebol-de-cegas)_
+
+- **[2026-09-09 15:00 UTC]** Ancelotti abre ciclo para Copa de 2030 com novidades; acompanhe entrevista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/ancelotti-faz-primeira-convocacao-da-selecao-no-pos-copa-veja-ao-vivo.shtml)_
+
+- **[2026-09-09 15:00 UTC]** Pelé e seu exemplo: Leitor lembra Copa 2026 e compara atletas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/praca-do-leitor/2026/09/pele-e-seu-exemplo-leitor-lembra-copa-2026-e-compara-atletas.shtml)_
+
+- **[2026-09-09 15:00 UTC]** Ancelotti abre ciclo para Copa de 2030 com oito estreantes na seleção
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/ancelotti-faz-primeira-convocacao-da-selecao-no-pos-copa-veja-ao-vivo.shtml)_
+
+- **[2026-09-09 19:35 UTC]** Brasil encara Costa Rica na semi da Copa América de futebol de cegos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encara-costa-rica-na-semi-da-copa-america-de-futebol-de-cegos)_
+
+- **[2026-09-10 12:25 UTC]** CBF define Brasília como sede da final da Copa do Brasil em jogo único
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/cbf-define-brasilia-como-sede-da-final-da-copa-do-brasil-em-jogo-unico.shtml)_
+
+- **[2026-09-10 11:59 UTC]** Casablanca receberá final da Copa de 2030, diz presidente da federação marroquina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/casablanca-recebera-final-da-copa-de-2030-diz-presidente-da-federacao-marroquina.shtml)_
+
+- **[2026-09-10 11:24 UTC]** CBF vende Copa do Brasil para Globo, Amazon e ESPN até 2030 por mais de R$ 4 bilhões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/cbf-vende-copa-do-brasil-para-globo-amazon-e-espn-ate-2030-por-mais-de-r-4-bilhoes.shtml)_
+
+- **[2026-09-10 14:52 UTC]** Copa do Brasil: Arena Mané Garrincha será o palco da final em Brasília
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/copa-do-brasil-arena-mane-garrincha-sera-o-palco-da-final-em-brasilia)_
+
+- **[2026-09-10 16:49 UTC]** MEC aprova regras para as férias escolares na Copa do Mundo Feminina
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mec-aprova-regras-para-ferias-escolares-na-copa-do-mundo-feminina)_
+
+- **[2026-09-10 19:18 UTC]** Futebol de cegos: Brasil vai à final da Copa América contra Colômbia
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-de-cegos-brasil-vai-final-da-copa-america-contra-colombia)_
+
+- **[2026-09-11 04:00 UTC]** Derrota na Copa do Brasil faz SBT temer fim de projeto esportivo se não renovar Champions
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/derrota-na-copa-do-brasil-faz-sbt-temer-fim-de-projeto-esportivo-se-nao-renovar-champions.shtml)_
+
+- **[2026-09-11 16:23 UTC]** Final da Copa do Mundo de 2030 vira batalha entre Marrocos e Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/final-da-copa-do-mundo-de-2030-vira-batalha-entre-marrocos-e-espanha.shtml)_
+

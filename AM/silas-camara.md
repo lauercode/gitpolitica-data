@@ -146,3 +146,843 @@
 - **[2026-08-29 16:19 UTC]** Motta atende a Lula e adianta votação do fim da “taxa das blusinhas” logo após comissão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/motta-atende-lula-adianta-votacao-fim-taxa-das-blusinhas/)_
 
+- **[2026-08-28 13:22 UTC]** Câmara deve votar na próxima segunda MP do fim da taxa das blusinhas; Congresso definiu aliada de Lula como relatora
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/congresso-define-aliados-de-lula-como-presidente-e-relatora-de-comissao-da-mp-do-fim-da-taxa-das-blusinhas.ghtml)_
+
+- **[2026-08-31 11:04 UTC]** Câmara deve decidir sobre "taxa das blusinhas" nesta segunda
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/camara-deve-decidir-sobre-taxa-das-blusinhas-nesta-segunda)_
+
+- **[2026-08-31 12:22 UTC]** Câmara vota fim da “taxa das blusinhas” em ritmo relâmpago nesta segunda
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/camara-vota-fim-taxa-das-blusinhas-ritmo-relampago-segunda/)_
+
+- **[2026-08-31 11:10 UTC]** Câmara terá semana de esforço concentrado com votações a partir desta segunda-feira
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301089-camara-tera-semana-de-esforco-concentrado-com-votacoes-a-partir-desta-segunda-feira)_
+
+- **[2026-08-17 14:52 UTC]** Eleição para Câmara dos Deputados terá menos candidatos neste ano
+  _fonte: [Agência Câmara - Eleições](https://www.camara.leg.br/noticias/1298079-eleicao-para-camara-dos-deputados-tera-menos-candidatos-neste-ano)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-08-24 14:56 UTC]** Estudantes protagonizam debate sobre a Constituição na Câmara de Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/24/estudantes-protagonizam-debate-sobre-a-constituicao-na-camara-de-maceio.ghtml)_
+
+- **[2026-08-31 21:02 UTC]** Câmara de Manaus aprova subsídio de até R$ 3 milhões por mês para 'amarelinhos' e transporte executivo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/camara-de-manaus-aprova-subsidio-de-ate-r-3-milhoes-por-mes-para-amarelinhos-e-transporte-executivo.ghtml)_
+
+- **[2017-08-21 19:16 UTC]** Vereador José Carneiro Rocha é  eleito novo presidente da Câmara Municipal de Feira de Santana
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/vereador-jose-carneiro-rocha-e-eleito-novo-presidente-da-camara-municipal-de-feira-de-santana.ghtml)_
+
+- **[2017-08-02 14:12 UTC]** Câmara de Itarema retoma trabalhos após prisão de vereadores
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/camara-de-itarema-retoma-trabalhos-apos-prisao-de-vereadores.ghtml)_
+
+- **[2017-11-24 11:12 UTC]** TJ-DF revoga autorização para deputado presidiário trabalhar na Câmara
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/noticia/tj-df-revoga-autorizacao-para-deputado-presidiario-trabalhar-na-camara-durante-o-dia.ghtml)_
+
+- **[2017-10-10 09:57 UTC]** Câmara do DF quer proibir escolas públicas de liberar alunos se faltar professor
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/camara-do-df-quer-proibir-escolas-publicas-de-liberar-alunos-se-faltar-professor.ghtml)_
+
+- **[2017-07-18 13:38 UTC]** Portal da Câmara Legislativa do DF fica fora do ar e mostra mensagem de erro
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/portal-da-camara-legislativa-do-df-fica-fora-do-ar.ghtml)_
+
+- **[2017-07-05 10:48 UTC]** Cachoeirenses são homenageados em Sessão Solene, na Câmara
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/prefeitura-de-cachoeiro-de-itapemirim/festa-de-cachoeiro/noticia/2017/07/cachoeirenses-sao-homenageados-em-sessao-solene-na-camara.html)_
+
+- **[2018-07-10 10:14 UTC]** Câmara de Confresa (MT) abre concurso público com salário de até R$ 4,8 mil
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mt/mato-grosso/concursos-e-emprego/noticia/camara-de-confresa-mt-abre-concurso-publico-com-salario-de-ate-r-48-mil.ghtml)_
+
+- **[2018-07-11 02:09 UTC]** Câmara aprova MP que liberou R$ 1,2 bilhão para intervenção no Rio de Janeiro
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/politica/noticia/camara-aprova-mp-que-liberou-r-12-bilhao-para-intervencao-no-rio-de-janeiro.ghtml)_
+
+- **[2018-01-03 14:56 UTC]** Câmara dos Deputados exonera 40 funcionários dos gabinetes de Maluf e Celso Jacob
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/politica/noticia/camara-dos-deputados-exonera-40-funcionarios-dos-gabinetes-de-maluf-e-celso-jacob.ghtml)_
+
+- **[2026-08-24 11:18 UTC]** Jornalista Rodrigues Neto, diretor da TV Câmara, morre no dia do aniversário em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/24/jornalista-rodrigues-neto-morre-dia-aniversario-natal.ghtml)_
+
+- **[2026-08-19 13:21 UTC]** Câmara Municipal abre concurso público com salários de até R$ 12 mil em São Miguel do Guaporé, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/19/camara-municipal-abre-concurso-publico-em-sao-miguel-do-guapore-ro.ghtml)_
+
+- **[2026-08-17 23:23 UTC]** Presidente da Câmara de Cacoal cai de cavalo, vai para UTI e recebe alta em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/17/presidente-da-camara-de-cacoal-cai-de-cavalo-vai-para-uti-e-recebe-alta-em-ro.ghtml)_
+
+- **[2026-08-29 15:43 UTC]** Câmara de Rorainópolis suspende auxílio-transporte de R$ 2,5 mil a vereadores após ação do MP
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/camara-de-rorainopolis-suspende-auxilio-transporte-de-r-25-mil-a-vereadores-apos-acao-do-mp.ghtml)_
+
+- **[2026-08-25 22:47 UTC]** Câmara de Aracaju aprova projeto que regulamenta estações de recarga para veículos elétricos
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/25/camara-de-aracaju-aprova-projeto-que-regulamenta-estacoes-de-recarga-para-veiculos-eletricos.ghtml)_
+
+- **[2026-08-20 21:20 UTC]** Concurso público da Câmara Municipal de Nossa Senhora das Dores está com inscrições abertas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/concurso-publico-da-camara-municipal-de-nossa-senhora-das-dores-esta-com-inscricoes-abertas.ghtml)_
+
+- **[2026-08-31 23:57 UTC]** Câmara aprova prazo maior para empresa deduzir doações a entidades de combate ao câncer
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301494-camara-aprova-prazo-maior-para-empresa-deduzir-doacoes-a-entidades-de-combate-ao-cancer)_
+
+- **[2026-08-31 23:41 UTC]** Câmara aprova autonomia de escolas para ajustar calendário na Copa do Mundo Feminina
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301485-camara-aprova-autonomia-de-escolas-para-ajustar-calendario-na-copa-do-mundo-feminina)_
+
+- **[2026-08-31 23:29 UTC]** Câmara aprova adesão do Brasil a acordo internacional para combater pesca ilegal
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301479-camara-aprova-adesao-do-brasil-a-acordo-internacional-para-combater-pesca-ilegal)_
+
+- **[2026-08-31 23:19 UTC]** Câmara aprova exigência de diploma para o exercício profissional da psicopedagogia
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301469-camara-aprova-exigencia-de-diploma-para-o-exercicio-profissional-da-psicopedagogia)_
+
+- **[2026-08-31 22:47 UTC]** Câmara aprova criação de 51 cargos no Tribunal Regional do Trabalho em Fortaleza
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301465-camara-aprova-criacao-de-51-cargos-no-tribunal-regional-do-trabalho-em-fortaleza)_
+
+- **[2026-08-31 22:41 UTC]** Câmara aprova criação de vagas para juiz do trabalho em Porto Alegre
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301458-camara-aprova-criacao-de-vagas-para-juiz-do-trabalho-em-porto-alegre)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 00:43 UTC]** Câmara aprova MP que prevê financiamento de veículos para motoristas de aplicativo e taxistas
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301508-camara-aprova-mp-que-preve-financiamento-de-veiculos-para-motoristas-de-aplicativo-e-taxistas)_
+
+- **[2026-09-01 00:25 UTC]** Câmara aprova MP com linhas de crédito para taxistas e motoristas de aplicativo adquirirem veículos novos e sustentáveis
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/camara-aprova-mp-com-linhas-de-credito-para-taxistas-e-motoristas-de-aplicativo-adquirirem-veiculos-novos-e-sustentaveis.ghtml)_
+
+- **[2026-08-31 23:07 UTC]** Câmara aprova MP que destina R$ 30 bi para motoristas de aplicativos comprarem carros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/camara-aprova-mp-que-destina-r-30-bi-para-motoristas-de-aplicativos-comprarem-carros.shtml)_
+
+- **[2026-08-31 22:39 UTC]** Câmara derruba obrigatoriedade de escolas marcarem férias durante Copa do Mundo feminina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/camara-derruba-obrigatoriedade-de-escolas-marcarem-ferias-durante-copa-do-mundo-feminina.shtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 07:01 UTC]** Servidora da Câmara e fisioterapeuta: quem eram as filhas de candidato a deputado por SC que morreram no PR
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/quem-eram-filhas-candidato-deputado-sc-morreram-pr.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 12:17 UTC]** Câmara aprova medida de Lula de R$ 30 bi em linhas de crédito para motoristas de app
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/camara-aprova-30-bi-linhas-credito-motoristas-app/)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 16:50 UTC]** Projeto em análise na Câmara permite que fisioterapeutas prescrevam medicamentos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300670-projeto-em-analise-na-camara-permite-que-fisioterapeutas-prescrevam-medicamentos)_
+
+- **[2026-09-01 12:13 UTC]** Câmara pode votar nesta terça medida provisória que zerou taxa para compras internacionais de até 50 dólares
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301575-camara-pode-votar-nesta-terca-medida-provisoria-que-zerou-taxa-para-compras-internacionais-de-ate-50-dolares)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 23:39 UTC]** Câmara aprova projeto que facilita acesso à aposentadoria integral por PMs e bombeiros
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/camara-aprova-projeto-que-facilita-acesso-a-aposentadoria-integral-por-pms-e-bombeiros.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 22:01 UTC]** Câmara aprova projeto que reduz tempo de trabalho militar de PMs e bombeiros para aposentadoria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-aprova-projeto-que-reduz-tempo-de-trabalho-militar-de-pms-e-bombeiros-para-aposentadoria.shtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-02 01:53 UTC]** Câmara aprova mudança em cargos na Justiça do Trabalho de Goiás
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302021-camara-aprova-mudanca-em-cargos-na-justica-do-trabalho-de-goias)_
+
+- **[2026-09-02 01:43 UTC]** Câmara aprova criação de rota turística da fé em Cidade Ocidental (GO)
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302015-camara-aprova-criacao-de-rota-turistica-da-fe-em-cidade-ocidental-go)_
+
+- **[2026-09-02 01:34 UTC]** Câmara aprova projeto que prevê orientação vocacional para estudantes do ensino médio
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302002-camara-aprova-projeto-que-preve-orientacao-vocacional-para-estudantes-do-ensino-medio)_
+
+- **[2026-09-02 01:14 UTC]** Câmara aprova reajuste anual de custas da Justiça do Trabalho
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301992-camara-aprova-reajuste-anual-de-custas-da-justica-do-trabalho)_
+
+- **[2026-09-02 01:06 UTC]** Câmara aprova criação do novo Plano Nacional de Cultura
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301964-camara-aprova-criacao-do-novo-plano-nacional-de-cultura)_
+
+- **[2026-09-01 23:56 UTC]** Câmara aprova criação de 24 cargos de juiz do Trabalho no Rio de Janeiro
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301949-camara-aprova-criacao-de-24-cargos-de-juiz-do-trabalho-no-rio-de-janeiro)_
+
+- **[2026-09-01 22:58 UTC]** Câmara aprova novas regras para contagem do tempo de serviço por PMs e bombeiros
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301898-camara-aprova-novas-regras-para-contagem-do-tempo-de-servico-por-pms-e-bombeiros)_
+
+- **[2026-09-01 22:14 UTC]** Câmara aprova regras para vigilância sanitária periódica em hospitais públicos e privados
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301877-camara-aprova-regras-para-vigilancia-sanitaria-periodica-em-hospitais-publicos-e-privados)_
+
+- **[2026-09-01 21:52 UTC]** Câmara aprova adesão do Brasil a acordo para eliminar violência e assédio no trabalho
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301874-camara-aprova-adesao-do-brasil-a-acordo-para-eliminar-violencia-e-assedio-no-trabalho)_
+
+- **[2026-09-01 21:40 UTC]** Câmara vai analisar indicação de Rodrigo Pacheco ao TCU nesta quarta
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301859-camara-vai-analisar-indicacao-de-rodrigo-pacheco-ao-tcu-nesta-quarta)_
+
+- **[2026-09-01 21:31 UTC]** Câmara aprova acordo pela igualdade de trabalhadores homens e mulheres com responsabilidade familiar
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301846-camara-aprova-acordo-pela-igualdade-de-trabalhadores-homens-e-mulheres-com-responsabilidade-familiar)_
+
+- **[2026-09-01 23:37 UTC]** Câmara aprova Plano Nacional de Cultura, que prevê financiamento descentralizado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/camara-aprova-plano-nacional-de-cultura-que-preve-financiamento-descentralizado.shtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-02 12:12 UTC]** Câmara pode votar nesta quarta medida provisória que zerou taxa para compras internacionais de até 50 dólares
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302066-camara-pode-votar-nesta-quarta-medida-provisoria-que-zerou-taxa-para-compras-internacionais-de-ate-50-dolares)_
+
+- **[2026-09-01 19:59 UTC]** Rosângela Moro recebe 34% da verba do PL para candidatas à Câmara dos Deputados no PR
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/rosangela-moro-concentra-22-da-verba-do-pl-para-candidatos-a-deputado-no-pr.shtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-02 15:18 UTC]** Câmara aprova indicação do senador Rodrigo Pacheco para ministro do TCU
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302159-camara-aprova-indicacao-do-senador-rodrigo-pacheco-para-ministro-do-tcu)_
+
+- **[2026-09-02 15:25 UTC]** Comissão aprova fim da 'taxa das blusinhas'; medida segue para votação no plenário da Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/comissao-aprova-fim-da-taxa-das-blusinhas-medida-segue-para-votacao-no-plenario-da-camara.ghtml)_
+
+- **[2026-09-02 15:04 UTC]** Câmara dos Deputados aprova indicação, e Rodrigo Pacheco será ministro do TCU
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/camara-dos-deputados-aprova-indicacao-e-rodrigo-pacheco-sera-ministro-do-tcu.ghtml)_
+
+- **[2026-09-02 11:25 UTC]** MP que acaba com a taxa das blusinhas avança e fica pronta para votação na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/relatora-da-mp-das-blusinhas-rejeita-auxilio-a-empresas-nacionais-e-descarta-exclusividade-dos-correios.shtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-02 17:02 UTC]** Comissão mista aprova fim da "taxa das blusinhas"; proposta segue para o Plenário da Câmara
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302214-comissao-mista-aprova-fim-da-taxa-das-blusinhas-proposta-segue-para-o-plenario-da-camara)_
+
+- **[2026-09-02 14:00 UTC]** Câmara confirma indicação de Rodrigo Pacheco para ministro do TCU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/camara-confirma-indicacao-de-rodrigo-pacheco-para-ministro-do-tcu.shtml)_
+
+- **[2026-09-02 19:10 UTC]** Câmara aprova Pacheco para o TCU e indicação será promulgada pelo Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/camara-aprova-pacheco-tcu-indicacao-sera-promulgada-congresso/)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-02 21:39 UTC]** Câmara adia para esta quinta-feira votação de fim da "taxa das blusinhas"
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302353-camara-adia-para-esta-quinta-feira-votacao-de-fim-da-taxa-das-blusinhas)_
+
+- **[2026-09-02 21:34 UTC]** Câmara aprova criação da Política Nacional de Agroecologia e Produção Orgânica
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302312-camara-aprova-criacao-da-politica-nacional-de-agroecologia-e-producao-organica)_
+
+- **[2026-09-02 20:48 UTC]** Câmara aprova criação de universidades federais de Ciência e Inovação em Minas e no Rio
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302313-camara-aprova-criacao-de-universidades-federais-de-ciencia-e-inovacao-em-minas-e-no-rio)_
+
+- **[2026-09-02 20:11 UTC]** Câmara aprova criação de universidade federal em Oiapoque (AP)
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302294-camara-aprova-criacao-de-universidade-federal-em-oiapoque-ap)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-02 22:23 UTC]** Presidente da Câmara comemora aprovação da Política Nacional de Minerais Críticos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302392-presidente-da-camara-comemora-aprovacao-da-politica-nacional-de-minerais-criticos)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-03 11:08 UTC]** Câmara pode decidir nesta quinta sobre MP que zera taxa para compras de até 50 dólares
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302462-camara-pode-decidir-nesta-quinta-sobre-mp-que-zera-taxa-para-compras-de-ate-50-dolares)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-03 19:55 UTC]** Câmara aprova MP que amplia programa para diminuir fila do INSS
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302682-camara-aprova-mp-que-amplia-programa-para-diminuir-fila-do-inss)_
+
+- **[2026-09-03 19:21 UTC]** Câmara aprova MP que acaba com a "taxa das blusinhas"; texto vai ao Senado
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302664-camara-aprova-mp-que-acaba-com-a-taxa-das-blusinhas-texto-vai-ao-senado)_
+
+- **[2026-09-03 18:59 UTC]** Câmara aprova fim da taxa das blusinhas; MP segue para o Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/camara-aprova-fim-da-taxa-das-blusinhas-mp-segue-para-o-senado.ghtml)_
+
+- **[2026-09-03 16:13 UTC]** Câmara aprova fim da taxa das blusinhas em vitória para Lula a quase 1 mês da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fim-da-taxa-das-blusinhas-avanca-na-camara-em-vitoria-para-lula-a-quase-1-mes-da-eleicao.shtml)_
+
+- **[2026-09-03 19:56 UTC]** Câmara aprova MP do fim da taxa das blusinhas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/camara-aprova-mp-do-fim-da-taxa-das-blusinhas/)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-03 20:43 UTC]** Câmara aprova exceções às regras fiscais para benefícios e despesas de 2026
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302681-camara-aprova-excecoes-as-regras-fiscais-para-beneficios-e-despesas-de-2026)_
+
+- **[2026-09-03 15:27 UTC]** Câmara aprova projeto de data centers com jabuti que facilita envio de emendas a 5.000 cidades
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/relator-de-projeto-sobre-data-centers-propoe-afrouxar-lei-para-facilitar-envio-de-emendas-a-municipios.shtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-04 16:14 UTC]** Veículos de comunicação da Câmara e do Senado farão cobertura integrada das eleições
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1302595-veiculos-de-comunicacao-da-camara-e-do-senado-farao-cobertura-integrada-das-eleicoes)_
+
+- **[2026-09-04 11:00 UTC]** Sob impasses, Câmara de BH aprova projeto com incentivos à verticalização da região central
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sob-impasses-camara-de-bh-aprova-projeto-com-incentivos-a-verticalizacao-da-regiao-central.shtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-04 14:04 UTC]** Idoso morre ao cair em câmara de defumação de linguiça artesanal em SC; casa pegou fogo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/idoso-morre-cair-camara-defumacao-linguica-artesanal-sc-casa-pegou-fogo.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-04 17:00 UTC]** 1926: Júlio Prestes é indicado para ser o líder da maioria na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-julio-prestes-e-indicado-para-ser-o-lider-da-maioria-na-camara.shtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-05 12:00 UTC]** Câmara de São Paulo aprovou regras contra pessoas negras perto da abolição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-de-sao-paulo-aprovou-regras-contra-pessoas-negras-perto-da-abolicao.shtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-05 18:17 UTC]** Concurso da Câmara de São José do Sabugi, PB, tem edital lançado com 11 vagas e salários de R$ 1,6 mil
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/concurso-camara-sao-jose-do-sabugi-2026.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** Câmara vai estabelecer diretrizes para avançar com as discussões do Plano 
+Diretor
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/08/26/camara-vai-estabelecer-diretrizes-para-avancar-com-as-discussoes-do-plano-diretor.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-08 19:17 UTC]** Nunes Marques e Motta evitam comentar sobre afastamento do diretor-geral da PF em evento na Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-motta-silenciam-decisao-mendonca-contra-diretor-geral-pf/)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-08 17:42 UTC]** Sessão da Câmara de Bayeux, na Grande João Pessoa, é marcada por confusão; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/sessao-da-camara-de-bayeux-na-grande-joao-pessoa-e-marcada-por-confusao-video.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-09 08:45 UTC]** Comissão da Verdade Indígena será tema de audiência na Câmara
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/comissao-da-verdade-indigena-sera-tema-de-audiencia-na-camara)_
+
+- **[2026-09-09 10:16 UTC]** Presidente da Câmara de Sumaré (SP) é preso em operação contra tráfico de drogas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/presidente-da-camara-de-sumare-sp-e-preso-em-operacao-contra-trafico-de-drogas.shtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-09 14:28 UTC]** Câmara de Parauapebas abre processo de impeachment contra prefeito por suposto racismo religioso
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/camara-de-parauapebas-abre-processo-de-impeachment-contra-prefeito-por-suposto-racismo-religioso.ghtml)_
+
+- **[2026-09-09 17:06 UTC]** Câmara dos Deputados anuncia novo concurso público com mais de 150 vagas
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1303542-camara-dos-deputados-anuncia-novo-concurso-publico-com-mais-de-150-vagas)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-10 11:56 UTC]** Operação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/operacao-da-pf-contra-mario-frias-atinge-ex-chefe-de-gabinete-e-dois-assessores-que-atuam-hoje-na-camara-veja-lista-de-alvos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-10 19:55 UTC]** Concurso da Câmara de São José de Sabugi, PB, abre inscrições com mais de 10 vagas; veja cargos e salários
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/concurso-da-camara-de-sao-jose-de-sabugi-pb-inscricoes-2026.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-11 17:31 UTC]** Após Lula defender reforma do Judiciário, deputado do PT apresenta proposta na Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/apos-lula-defender-reforma-do-judiciario-deputado-do-pt-apresenta-proposta-na-camara.ghtml)_
+
+- **[2026-09-01 13:37 UTC]** 'Na Tribuna': Alunos são premiados em iniciativa da Câmara sobre leis e
+direitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/especial-publicitario/camara-de-municipal-de-maceio-a-camara-e-feita-por-voce-e-para-voce/noticia/2026/09/01/na-tribuna-alunos-sao-premiados-em-iniciativa-da-camara-sobre-leis-e-direitos.ghtml)_
+
+- **[2026-09-11 23:04 UTC]** Concurso da Câmara de Rio Branco abre inscrições; salários chegam a R$ 6 mil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/concurso-da-camara-de-rio-branco-abre-inscricoes-salarios-chegam-a-r-6-mil.ghtml)_
+

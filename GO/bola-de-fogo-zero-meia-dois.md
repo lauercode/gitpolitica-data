@@ -59,3 +59,336 @@
 - **[2026-08-30 12:00 UTC]** Viadutos de acesso à zona leste devem ser demolidos após correção de tombamento no centro histórico de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/viadutos-de-acesso-a-zona-leste-devem-ser-demolidos-apos-correcao-de-tombamento-no-centro-historico-de-sp.shtml)_
 
+- **[2026-08-29 03:01 UTC]** Voto para senador também escolhe dois substitutos; 42 suplentes assumiram o mandato desde 2019
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/voto-para-senador-tambem-escolhe-dois-substitutos-42-suplentes-assumiram-o-mandato-desde-2019.ghtml)_
+
+- **[2026-08-28 12:20 UTC]** Lula afirma não conhecer Roberta Luchsinger; redes sociais da empresária mostram registros dos dois juntos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/lula-afirma-nao-conhecer-roberta-luchsinger-redes-sociais-da-empresaria-mostram-registros-dos-dois-juntos.ghtml)_
+
+- **[2026-08-30 23:00 UTC]** Corregedor da Abin tem mandato renovado por mais dois anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/corregedor-da-abin-tem-mandato-renovado-por-mais-dois-anos.shtml)_
+
+- **[2026-08-31 14:29 UTC]** Governo quer repetir modelo da Operação Carbono Oculto a cada dois meses contra lavagem de dinheiro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/durigan-macroday-btg.ghtml)_
+
+- **[2026-08-31 11:27 UTC]** Andarilho, David Corrêa tem dois títulos da Copa do Brasil por Cruzeiro e São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/andarilho-david-correa-tem-dois-titulos-da-copa-do-brasil-por-cruzeiro-e-sao-paulo.shtml)_
+
+- **[2026-08-31 21:01 UTC]** Policial penal afastado suspeito de facilitar fuga de detento é preso com outros dois homens no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/policial-penal-afastado-suspeito-de-facilitar-fuga-de-detento-e-preso-com-outros-dois-homens-no-acre.ghtml)_
+
+- **[2026-08-28 18:20 UTC]** Dois ficam feridos após carro capotar e cair em ribanceira na BR-364; condutor é preso por suspeita de embriaguez
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/duas-pessoas-ficam-feridas-apos-carro-capotar-e-cair-em-ribanceira-na-br-364-em-rio-branco.ghtml)_
+
+- **[2026-08-18 14:36 UTC]** PM prende dois suspeitos e apreende 35 quilos de maconha em São Miguel dos Campos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/18/pm-prende-dois-suspeitos-e-apreende-35-quilos-de-maconha-em-sao-miguel-dos-campos.ghtml)_
+
+- **[2026-08-23 16:27 UTC]** Dois homens são presos por porte de substância ilícita durante abordagem policial em Santana
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/23/dois-homens-sao-presos-por-porte-de-substancia-ilicita-durante-abordagem-policial-em-santana.ghtml)_
+
+- **[2026-08-29 19:31 UTC]** Dois réus são condenados a 196 anos de prisão por mortes em motim na antiga Cadeia Pública de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/29/dois-reus-sao-condenados-a-196-anos-de-prisao-por-mortes-em-motim-na-antiga-cadeia-publica-de-manaus.ghtml)_
+
+- **[2017-08-12 21:54 UTC]** Troca de tiros entre bandidos e polícia deixa dois suspeitos feridos, no CE; sete armas são apreendidas
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/troca-de-tiros-entre-bandidos-e-policia-deixa-dois-suspeitos-feridos-no-ce-sete-armas-sao-apreendidas.ghtml)_
+
+- **[2018-07-09 14:16 UTC]** Motorista bebeu antes de acidente que o matou junto com a mulher e dois filhos na BR-080, dizem testemunhas
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/motorista-bebeu-antes-de-acidente-que-o-matou-junto-com-a-mulher-e-dois-filhos-na-br-080-dizem-testemunhas.ghtml)_
+
+- **[2017-06-16 15:00 UTC]** Dois idosos são atropelados em Taguatinga, no DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/dois-idosos-sao-atropelados-em-taguatinga-no-df.ghtml)_
+
+- **[2018-07-21 16:30 UTC]** Homem é suspeito de matar mulher, atirar em dois enteados e se matar, no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/2018/07/21/homem-e-suspeito-de-matar-mulher-atirar-em-dois-enteados-e-se-matar-no-es.ghtml)_
+
+- **[2017-04-02 18:46 UTC]** Avião que caiu em aeroporto e matou dois estava apto para voar, diz Anac
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/aviao-que-caiu-em-aeroporto-e-matou-dois-estava-apto-para-voar-diz-anac.html)_
+
+- **[2026-08-29 12:49 UTC]** Dois homens são encontrados mortos a tiros em área do Parque Timbiras, em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/29/dois-homens-sao-encontrados-mortos-a-tiros-em-area-do-parque-timbiras-em-sao-luis.ghtml)_
+
+- **[2026-08-27 18:55 UTC]** Dois homens são presos com drogas durante abordagem policial em Buriti
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/27/dois-homens-sao-presos-com-drogas-durante-abordagem-policial-em-buriti.ghtml)_
+
+- **[2026-08-26 12:34 UTC]** Dois homens são presos suspeitos de roubar clínica odontológica no Cohatrac, em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/dois-homens-sao-presos-suspeitos-de-roubar-clinica-odontologica-no-cohatrac-em-sao-luis.ghtml)_
+
+- **[2026-08-26 11:14 UTC]** Operação contra organização criminosa termina com suspeito preso e dois baleados em Rosário
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/homem-e-preso-e-dois-sao-baleados-em-operacao-contra-suspeitos-de-organizacao-criminosa-em-rosario.ghtml)_
+
+- **[2018-07-16 12:17 UTC]** Motociclista morre após invadir preferencial e bater em dois carros, diz polícia de MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/motociclista-morre-apos-invadir-preferencial-e-bater-em-dois-carros-diz-policia-de-ms.ghtml)_
+
+- **[2026-08-27 20:45 UTC]** Acidentes graves deixam dois mortos e cinco feridos no sudeste do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/acidentes-graves-deixam-dois-mortos-e-cinco-feridos-no-sudeste-do-para.ghtml)_
+
+- **[2026-08-31 10:05 UTC]** Jovem morre e dois irmãos ficam feridos após carro colidir com carreta parada em acostamento, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/jovem-morre-e-dois-irmaos-ficam-feridos-apos-carro-colidir-com-carreta-parada-em-acostamento-em-joao-pessoa.ghtml)_
+
+- **[2026-08-26 19:00 UTC]** Dois homens ficam feridos após ataque a tiros por suspeitos em moto, na Grande João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/26/dois-homens-ficam-feridos-apos-ataque-a-tiros-por-suspeitos-em-moto-na-grande-joao-pessoa.ghtml)_
+
+- **[2026-08-31 07:01 UTC]** Casal paranaense larga emprego, vende tudo e passa mais de dois anos viajando de bicicleta para cruzar a América, de Ushuaia ao Alasca
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/31/casal-paranaense-larga-emprego-vende-tudo-e-passa-mais-de-dois-anos-viajando-de-bicicleta-para-cruzar-a-america-de-ushuaia-ao-alasca.ghtml)_
+
+- **[2026-08-27 03:01 UTC]** Último contato de família encontrada morta no PR foi dois dias antes de os corpos serem achados, diz polícia
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/27/ultimo-contato-de-familia-encontrada-morta-no-pr.ghtml)_
+
+- **[2018-07-21 19:34 UTC]** Banda Sinfônica do Recife faz dois concertos no Teatro de Santa Isabel
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/musica/noticia/2018/07/21/banda-sinfonica-do-recife-faz-dois-concertos-no-teatro-de-santa-isabel.ghtml)_
+
+- **[2026-08-27 22:11 UTC]** Desembargadora Martha Danyelle assume presidência do TRE-RN para os próximos dois anos
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/27/desembargadora-martha-danyelle-assume-presidencia-do-tre-rn-para-os-proximos-dois-anos.ghtml)_
+
+- **[2026-08-21 11:58 UTC]** Homem condenado pela morte de dois PRFs em RO é preso em Boa Vista
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/homem-condenado-pela-morte-de-dois-prfs-em-ro-e-preso-em-boa-vista.ghtml)_
+
+- **[2026-08-29 21:09 UTC]** Moto avança sinal vermelho, é atingida por carro e dois ficam feridos em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/moto-avanca-sinal-vermelho-e-atingida-por-carro-e-dois-ficam-feridos-em-boa-vista.ghtml)_
+
+- **[2026-08-29 15:07 UTC]** Motorista fica preso às ferragens após colisão entre dois carros na BR-101
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/29/motorista-fica-preso-as-ferragens-apos-colisao-entre-dois-carros-na-br-101.ghtml)_
+
+- **[2026-08-20 12:39 UTC]** Dois homens são presos e drogas são apreendidas durante operação da Polícia Civil em Estância
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/20/duas-pessoas-sao-presas-e-drogas-sao-apreendidas-durante-operacao-da-policia-civil-em-estancia.ghtml)_
+
+- **[2026-08-31 23:00 UTC]** Quartas da Copa do Brasil tem Santos em busca de virada e dois clássicos empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/quartas-da-copa-do-brasil-tem-santos-em-busca-de-virada-e-dois-classicos-empatados.shtml)_
+
+- **[2026-09-01 09:55 UTC]** Pai é preso suspeito de espancar e matar bebê de dois meses em Senador Rui Palmeira, em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/01/pai-e-preso-suspeito-de-espancar-e-matar-bebe-de-dois-meses-em-senador-rui-palmeira-em-al.ghtml)_
+
+- **[2026-08-31 23:00 UTC]** Quartas da Copa do Brasil têm Santos em busca de virada e dois clássicos empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/quartas-da-copa-do-brasil-tem-santos-em-busca-de-virada-e-dois-classicos-empatados.shtml)_
+
+- **[2026-09-01 14:47 UTC]** Homem é preso suspeito de manter filho de dois meses refém em casa na Cruz das Almas, em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/01/homem-e-preso-suspeito-de-manter-filho-de-dois-meses-refem-em-casa-na-cruz-das-almas-em-maceio.ghtml)_
+
+- **[2026-09-01 11:44 UTC]** Dois anos depois, mais quatro pessoas são presas  pela morte do dentista Clei Bagattini em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/quatro-pessoas-sao-presas-pela-morte-do-dentista-clei-bagattini-em-ro.ghtml)_
+
+- **[2026-09-01 16:43 UTC]** ‘Acha que 2ª tenho que estar fora?’, pergunta Vorcaro a Moraes sobre deixar o país a dois dias de operação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/acha-que-2a-tenho-que-estar-fora-pergunta-vorcaro-a-moraes-sobre-deixar-o-pais-a-dois-dias-de-operacao.ghtml)_
+
+- **[2026-09-01 18:06 UTC]** Vorcaro perguntou a Moraes se deveria “estar fora” dois dias antes de ser preso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-perguntou-a-moraes-se-deveria-estar-fora-dois-dias-antes-de-ser-preso/)_
+
+- **[2026-09-01 18:00 UTC]** Polícia faz perícia em prédio onde elevador despencou com mãe e dois filhos três meses após acidente
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/policia-faz-pericia-em-predio-onde-elevador-despencou-com-mae-e-dois-filhos-tres-meses-apos-acidente.ghtml)_
+
+- **[2026-09-01 15:49 UTC]** Carro parte ao meio após batida em poste em SC; homem morre e dois ficam feridos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/carro-parte-ao-meio-batida-poste-em-sc-homem-morre.ghtml)_
+
+- **[2026-09-01 21:03 UTC]** Deputados iniciam votações do Plenário e aprovam urgência para dois projetos; acompanhe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301835-deputados-iniciam-votacoes-do-plenario-e-aprovam-urgencia-para-dois-projetos-acompanhe)_
+
+- **[2026-09-01 16:51 UTC]** SP confirma dois novos casos de sarampo e total chega a 28 no estado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/sp-confirma-dois-novos-casos-de-sarampo-e-total-chega-a-28.shtml)_
+
+- **[2026-09-01 21:13 UTC]** Dois homens são presos suspeitos de integrar grupo envolvido em série de roubos em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/dois-homens-sao-presos-suspeitos-de-integrar-grupo-envolvido-em-serie-de-roubos-em-manaus.ghtml)_
+
+- **[2026-09-01 19:40 UTC]** Casal é preso após levar dois bebês mortos a UPA em 1 ano e abandonar outro filho dentro de carro em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/casal-preso-levar-bebe-morto-upa-abandonar-filho-carro-sc.ghtml)_
+
+- **[2026-09-02 01:05 UTC]** Dois anos após desabamento, rua de Gramado que colapsou durante enchente em 2024 começa a ser reconstruída
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/01/dois-anos-apos-desabamento-rua-de-gramado-colapsou-enchente-2024-reconstruida.ghtml)_
+
+- **[2026-09-02 10:27 UTC]** Dois homens são presos em Maceió por suspeita de armazenar conteúdos de abuso sexual infantil
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/dois-homens-sao-presos-em-maceio-por-suspeita-de-armazenar-conteudos-de-abuso-sexual-infantil.ghtml)_
+
+- **[2026-09-02 12:43 UTC]** Flamengo contrata dois atacantes e tem equatoriano devolvido; Santos e Vasco se reforçam
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-contrata-dois-atacantes-e-tem-equatoriano-devolvido-santos-e-vasco-se-reforcam.shtml)_
+
+- **[2026-09-02 10:27 UTC]** Dois homens são presos em Maceió por suspeita de armazenar conteúdos de abuso infantil
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/dois-homens-sao-presos-em-maceio-por-suspeita-de-armazenar-conteudos-de-abuso-sexual-infantil.ghtml)_
+
+- **[2026-09-02 12:50 UTC]** Presos mais dois suspeitos de integrar grupo criminoso responsável por roubos de joias em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/presos-mais-dois-suspeitos-de-integrar-grupo-criminoso-responsavel-por-roubos-de-joias-em-sao-luis.ghtml)_
+
+- **[2026-09-01 12:24 UTC]** Tempestades deixam 180 mil imóveis sem luz no Paraná; 7,5 mil permanecem sem energia há dois dias
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/tempestades-deixam-imoveis-sem-luz-sem-energia-no-parana.ghtml)_
+
+- **[2026-09-02 18:54 UTC]** Homem é preso por suspeita de tentar matar dois irmãos durante festa em Tuntum
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/homem-e-preso-por-suspeita-de-tentar-matar-dois-irmaos-durante-festa-em-tuntum.ghtml)_
+
+- **[2026-09-02 17:53 UTC]** Passageira é presa com dois fuzis dentro de ônibus na BR-316
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/passageira-e-presa-com-dois-fuzis-dentro-de-onibus-na-br-316.ghtml)_
+
+- **[2026-09-02 21:23 UTC]** Lua de mel em Foz do Iguaçu: um roteiro para começar a vida a dois
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/visit-iguassu/visite-foz-do-iguacu/noticia/2026/09/02/lua-de-mel-em-foz-do-iguacu-um-roteiro-para-comecar-a-vida-a-dois.ghtml)_
+
+- **[2026-09-03 02:00 UTC]** Relação Moraes e Vorcaro: veja os possíveis caminhos no STF do relatório que revelou diálogos entre os dois
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/relacao-moraes-e-vorcaro-veja-os-possiveis-caminhos-no-stf-do-relatorio-que-revelou-dialogos-entre-os-dois.ghtml)_
+
+- **[2026-09-03 08:03 UTC]** VÍDEO: Onça invade propriedade, ataca dois cães e mata um deles no interior do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/video-onca-invade-propriedade-ataca-dois-caes-e-mata-um-deles-no-interior-do-am.ghtml)_
+
+- **[2026-09-03 13:03 UTC]** Dois suspeitos são presos após roubo de celular e perseguição policial em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/dois-suspeitos-sao-presos-apos-roubo-de-celular-e-perseguicao-policial-em-sao-luis.ghtml)_
+
+- **[2026-09-03 15:01 UTC]** Dois homens roubam armas, R$ 10 mil e objetos em transportadora de Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/dois-homens-roubam-armas-r-10-mil-e-objetos-em-transportadora-de-boa-vista.ghtml)_
+
+- **[2026-09-03 22:09 UTC]** Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c1j4xxn88d5o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-03 22:47 UTC]** Superlotação deixa pacientes em corredores no Complexo Hospitalar Sul; pai pode perder o pé e mulher esperou dois dias para remover feto
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/03/superlotacao-deixa-pacientes-em-corredores-no-complexo-hospitalar-sul-pai-pode-perder-o-pe-e-mulher-esperou-dois-dias-para-remover-feto.ghtml)_
+
+- **[2026-09-04 04:07 UTC]** Equipes resgatam dois trabalhadores presos em túnel no Nepal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/equipes-resgatam-dois-trabalhadores-presos-em-tunel-no-nepal.shtml)_
+
+- **[2026-09-04 13:44 UTC]** Como Nepal resgatou dois sobreviventes em túnel nove dias após  avalanche que deixou mais de 1,3 mil mortos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c86xjey5155o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-04 12:59 UTC]** Suspeito de matar carcereiro em São Bernardo é preso com dois mandados em aberto em Timon
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/04/suspeito-de-matar-carcereiro-em-sao-bernardo-e-preso-com-dois-mandados-em-aberto-em-timon.ghtml)_
+
+- **[2026-09-04 12:04 UTC]** Dois homens são mortos a tiros após casa ser invadida em Pedras de Fogo, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/dois-homens-sao-mortos-a-tiros-apos-casa-ser-invadida-em-pedras-de-fogo-na-pb.ghtml)_
+
+- **[2026-09-04 14:20 UTC]** Dois homens são presos suspeitos de envolvimento em ataque a capitão da PM em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/04/dois-homens-sao-presos-suspeitos-de-envolvimento-em-ataque-a-capitao-da-pm-em-manaus.ghtml)_
+
+- **[2026-09-04 16:25 UTC]** Dois acusados de envolvimento em morte de menina em Patos são presos novamente
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/04/dois-acusados-de-envolvimento-em-morte-de-menina-de-5-anos-em-patos-sao-presos-novamente.ghtml)_
+
+- **[2026-09-04 14:35 UTC]** Suspeito de dar 60 facadas em indígena é preso uma semana após dois inocentes serem detidos por falsa acusação no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/04/suspeito-de-dar-60-facadas-em-indigena.ghtml)_
+
+- **[2026-09-04 14:46 UTC]** Dois jovens morrem após acidente entre moto e caminhão no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/04/morte-acidente-moto-caminhao.ghtml)_
+
+- **[2026-09-04 16:20 UTC]** Abel Ferreira é punido com dois jogos de suspensão por chutar microfone
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/abel-ferreira-e-punido-com-dois-jogos-de-suspensao-por-chutar-microfone.shtml)_
+
+- **[2026-09-04 20:53 UTC]** Polícia prende dois suspeitos de matar jovem no Porto da Balsa, em Imperatriz
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/09/04/policia-prende-dois-suspeitos-de-matar-jovem-no-porto-da-balsa-em-imperatriz.ghtml)_
+
+- **[2026-09-04 20:21 UTC]** Batida entre dois caminhões deixa motorista morto e mulher e crianças feridas na BR-282 em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/batida-caminhoes-motorista-morto-mulher-criancas-feridas-ponte-serrada.ghtml)_
+
+- **[2026-09-05 04:01 UTC]** Ataque guerrilheiro com drones deixa dois soldados mortos na Colômbia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ataque-guerrilheiro-com-drones-deixa-dois-soldados-mortos-na-colombia.shtml)_
+
+- **[2026-09-05 12:15 UTC]** Acidente entre carros deixa dois motoristas mortos, no Cariri da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/acidente-entre-carros-deixa-dois-motoristas-mortos-no-cariri-da-pb.ghtml)_
+
+- **[2026-09-05 16:37 UTC]** Dois homens são presos suspeitos de dupla tentativa de homicídio em Itaporanga, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/dois-homens-sao-presos-suspeitos-de-dupla-tentativa-de-homicidio-em-itaporanga-na-pb.ghtml)_
+
+- **[2026-09-05 14:58 UTC]** Neymar ficará dois meses sem jogar após lesão na coxa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/neymar-ficara-dois-meses-sem-jogar-apos-lesao-na-coxa.shtml)_
+
+- **[2026-09-05 19:36 UTC]** Procon pesquisa preços em churrascarias de Aracaju: prato para dois vai de R$ 75 a R$ 120
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/procon-pesquisa-precos-em-churrascarias-de-aracaju.ghtml)_
+
+- **[2026-09-06 11:00 UTC]** Com menos de dois anos de vida, Planalto-GO conquista Feminino A3
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/com-menos-de-dois-anos-de-vida-planalto-go-conquista-feminino-a3)_
+
+- **[2026-09-06 19:12 UTC]** Mais de 90% da chuva de agosto caiu em apenas dois dias na capital, diz Defesa Civil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/mais-de-90percent-da-chuva-de-agosto-caiu-em-apenas-dois-dias-na-capital-diz-defesa-civil.ghtml)_
+
+- **[2026-09-06 19:58 UTC]** Briga entre dois casais em festa termina com quatro pessoas feridas e espingarda apreendida no Cantá
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/06/briga-entre-dois-casais-em-festa-termina-com-quatro-pessoas-feridas-e-espingarda-apreendida-no-canta.ghtml)_
+
+- **[2026-09-07 08:09 UTC]** Jaguar Land Rover anuncia corte de 4.000 empregos nos próximos dois anos para reduzir custos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/jaguar-land-rover-anuncia-corte-de-4000-empregos-nos-proximos-dois-anos-para-reduzir-custos.shtml)_
+
+- **[2026-09-07 11:01 UTC]** Acidente envolvendo dois carros deixa uma pessoa morta no sul do Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/acidente-envolvendo-dois-carros-deixa-uma-pessoa-morta-no-sul-do-amapa.ghtml)_
+
+- **[2026-09-07 11:16 UTC]** Acidentes de trânsito deixam cinco mortos e dois feridos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/07/duas-pessoas-morrem-e-duas-ficam-feridas-em-colisao-entre-tres-motos-na-se-290-em-itabaianinha.ghtml)_
+
+- **[2026-09-07 18:00 UTC]** Governo e setor produtivo esperam voltar a exportar frango e mel em até dois meses
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governo-e-setor-produtivo-esperam-voltar-a-exportar-frango-e-mel-em-ate-dois-meses.shtml)_
+
+- **[2026-09-07 23:08 UTC]** Acidentes em rodovias deixam dois mortos e cinco feridos durante feriado prolongado no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/acidentes-em-rodovias-deixam-dois-mortos-e-cinco-feridos-durante-feriado-prolongado-no-para.ghtml)_
+
+- **[2026-09-08 09:01 UTC]** Economistas sobem previsão do PIB pela primeira vez após dois meses
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/economistas-sobem-previsao-do-pib-pela-primeira-vez-apos-dois-meses.shtml)_
+
+- **[2026-09-08 10:58 UTC]** Ex-banqueiro suíço é condenado a dois anos de prisão por pagar US$ 101 mi em propinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ex-banqueiro-suico-e-condenado-a-dois-anos-de-prisao-por-pagar-us-101-mi-em-propinas.shtml)_
+
+- **[2026-09-08 15:54 UTC]** Pai é preso após manter filho de dois anos refém na Grande Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/08/pai-suspeito-manter-filho-refem-carro-grande-curitiba.ghtml)_
+
+- **[2026-09-08 16:09 UTC]** UFRN cria dois novos cursos de graduação; veja quais
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/ufrn-cria-novos-cursos-graduacao-veja-quais.ghtml)_
+
+- **[2026-09-09 13:57 UTC]** Dois suspeitos morrem em confronto com a Polícia Militar durante operação contra organização criminosa no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/dois-suspeitos-morrem-em-confronto-com-a-policia-militar-durante-operacao-contra-organizacao-criminosa-no-ma.ghtml)_
+
+- **[2026-09-09 15:22 UTC]** Antes de fazer filho de dois anos refém na Grande Curitiba, pai agrediu esposa e filha, diz polícia
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/pai-filho-refem-esposa-agredida-grande-curitiba.ghtml)_
+
+- **[2026-09-09 16:16 UTC]** São Paulo confirma dois novos casos de sarampo; total chega a 30
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-dois-novos-casos-de-sarampo)_
+
+- **[2026-09-09 17:55 UTC]** São Paulo confirma mais dois casos de sarampo e chega a 30 em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/sao-paulo-confirma-mais-dois-casos-de-sarampo-e-chega-a-30-em-2026.shtml)_
+
+- **[2026-09-09 20:31 UTC]** OpenAI diz ter resolvido em 88h problema matemático sem resposta há 90 anos — e a acusação feita por dois pesquisadores sobre a empresa
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cnvl794g7l3o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-09 20:31 UTC]** Policial que matou dois colegas em AL passará por perícia para avaliar possível surto psicótico
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/09/policial-que-matou-dois-colegas-em-al-passara-por-pericia-para-avaliar-possivel-surto-psicotico.ghtml)_
+
+- **[2026-09-09 21:33 UTC]** MPF investiga empresa Voare por queda de helicóptero que matou dois indígenas na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/09/mpf-investiga-empresa-voare-por-queda-de-helicoptero-que-matou-dois-indigenas-na-terra-yanomami.ghtml)_
+
+- **[2026-09-10 11:56 UTC]** Operação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/operacao-da-pf-contra-mario-frias-atinge-ex-chefe-de-gabinete-e-dois-assessores-que-atuam-hoje-na-camara-veja-lista-de-alvos.ghtml)_
+
+- **[2026-09-10 13:23 UTC]** Paraná registra dois tornados em menos de 24 horas; vídeo mostra estragos
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/10/tornado-parana-video.ghtml)_
+
+- **[2026-09-10 19:23 UTC]** Número de lares com idosos em insegurança alimentar cai em dois anos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/numero-de-lares-com-idosos-em-inseguranca-alimentar-cai-em-dois-anos)_
+
+- **[2026-09-10 21:30 UTC]** Dois supermercados são autuados após fiscalização identificar produtos vencidos na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/dois-supermercados-sao-autuados-apos-fiscalizacao-identificar-produtos-vencidos-na-paraiba.ghtml)_
+
+- **[2026-09-10 22:00 UTC]** Dois erros não fazem um acerto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/dois-erros-nao-fazem-um-acerto.shtml)_
+
+- **[2026-09-10 23:00 UTC]** Masp inaugura passagem subterrânea que conecta dois edifícios do museu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/masp-inaugura-passagem-subterranea-que-conecta-dois-edificios-do-museu.shtml)_
+
+- **[2026-09-11 11:07 UTC]** Operação contra tráfico de drogas, extorsão e homicídio deixa dois mortos  no interior de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/operacao-contra-trafico-de-drogas-extorsao-e-homicidio-deixa-dois-mortos-no-interior-de-sergipe.ghtml)_
+
+- **[2026-09-11 09:41 UTC]** Cidade de São Paulo confirma dois novos casos de sarampo; estado vai a 32
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/cidade-de-sao-paulo-confirma-dois-novos-casos-de-sarampo-estado-vai-a-32.shtml)_
+
+- **[2026-09-11 11:38 UTC]** Dois acidentes são registrados em menos de 24h no mesmo cruzamento em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/11/dois-acidentes-sao-registrados-em-menos-de-24h-no-mesmo-cruzamento-em-macapa.ghtml)_
+
+- **[2026-09-11 15:14 UTC]** PRF apreende dois fuzis escondidos em compartimento de veículo em Barra do Corda
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-sul/noticia/2026/09/11/prf-apreende-dois-fuzis-escondidos-em-compartimento-de-veiculo-em-barra-do-corda.ghtml)_
+
+- **[2026-09-11 14:19 UTC]** Onde mais choveu no Paraná nesta semana? Algumas cidades registraram média do mês inteiro em apenas dois dias; veja quais
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/onde-mais-choveu-no-parana-nesta-semana-algumas-cidades-registraram-media-do-mes-inteiro-em-apenas-dois-dias-veja-quais.ghtml)_
+
+- **[2026-09-11 12:23 UTC]** São Paulo confirma mais dois casos de sarampo e total chega a 32
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-confirma-mais-dois-casos-de-sarampo-e-total-chega-32)_
+
+- **[2026-09-11 14:15 UTC]** Dois brasileiros do 11 de Setembro estão fora da lista oficial de mortos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/dois-brasileiros-do-11-de-setembro-estao-fora-da-lista-oficial-de-mortos.shtml)_
+
+- **[2026-09-11 15:40 UTC]** Dois filmes acreanos são selecionados para a IX Mostra Sesc de Cinema
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/fecomercio-ac-transformando-vidas-fortalecendo-empresas-e-construindo-futuros/noticia/2026/09/11/dois-filmes-acreanos-sao-selecionados-para-a-ix-mostra-sesc-de-cinema.ghtml)_
+
+- **[2026-09-11 18:24 UTC]** Dois postos de combustíveis são autuados após fiscalização identificar irregularidades, no Agreste da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/dois-postos-de-combustiveis-sao-autuados-apos-fiscalizacao-identificar-irregularidades-no-agreste-da-paraiba.ghtml)_
+
+- **[2026-09-11 18:34 UTC]** Ex-secretário de Educação, político e mais dois são indiciados por fraude em licitação de R$ 4,3 milhões em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/ex-secretario-de-educacao-politico-e-mais-dois-sao-indiciados-por-fraude-em-licitacao-de-r-43-milhoes-em-roraima.ghtml)_
+
+- **[2026-09-11 16:38 UTC]** Amazonas confirma três casos de sarampo; outros dois são investigados
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/amazonas-confirma-tres-casos-de-sarampo-outros-dois-sao-investigados)_
+

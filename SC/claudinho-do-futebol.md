@@ -20,3 +20,69 @@
 - **[2026-08-30 12:32 UTC]** Tiago Leifert sai em defesa de Neymar, e especialista em leitura labial rebate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/tiago-leifert-sai-em-defesa-de-neymar-e-especialista-em-leitura-labial-rebate.shtml)_
 
+- **[2026-08-31 13:04 UTC]** Jogadores de futebol são suspeitos de ligação com tráfico de drogas
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-08/jogadores-de-futebol-sao-suspeitos-de-ligacao-com-trafico-de-drogas)_
+
+- **[2026-08-31 18:00 UTC]** Quem é a influenciadora gaúcha que namora David Corrêa, jogador de futebol alvo de investigações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/quem-e-a-influenciadora-gaucha-que-namora-david-correa-jogador-de-futebol-alvo-de-investigacoes.shtml)_
+
+- **[2026-08-21 12:11 UTC]** Corpo encontrado em Natal é de professor de futebol que estava desaparecido
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/21/corpo-encontrado-natal-professor-futebol-desaparecido.ghtml)_
+
+- **[2026-08-21 19:09 UTC]** Campo de futebol comprado com dinheiro do tráfico é 'sequestrado' durante operação em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/campo-de-futebol-e-sequestrado-durante-operacao-em-porto-velho.ghtml)_
+
+- **[2026-09-01 09:51 UTC]** Despedida de Messi da seleção reverbera fora do futebol e une argentinos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/despedida-de-messi-da-selecao-reverbera-fora-do-futebol-e-une-argentinos.shtml)_
+
+- **[2026-09-01 09:00 UTC]** Cabeçadas do futebol
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bruno-gualano/2026/09/cabecadas-do-futebol.shtml)_
+
+- **[2026-09-02 15:01 UTC]** SBT e Disney marcam estreia do novo The Voice, que vai competir contra futebol na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-e-disney-marcam-estreia-do-novo-the-voice-que-vai-competir-contra-futebol-na-globo.shtml)_
+
+- **[2026-09-02 16:44 UTC]** Veto a propaganda de bets avança no Senado e mira TV, futebol e influenciadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/veto-a-propaganda-de-bets-avanca-no-senado-e-mira-tv-futebol-e-influenciadores.shtml)_
+
+- **[2026-09-02 19:47 UTC]** O futebol doente não aceita ser contrariado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcelo-bechler/2026/09/o-futebol-doente-nao-aceita-ser-contrariado.shtml)_
+
+- **[2026-09-03 11:07 UTC]** Futebol mundial movimenta R$ 50 bilhões na janela; Brasil fatura quase R$ 1,1 bi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/futebol-mundial-movimenta-r-50-bilhoes-na-janela-brasil-fatura-quase-r-11-bi.shtml)_
+
+- **[2026-09-03 23:08 UTC]** Leis viabilizam a Copa Feminina de 2027 e propostas reforçam o protagonismo das mulheres no futebol
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302724-leis-viabilizam-a-copa-feminina-de-2027-e-propostas-reforcam-o-protagonismo-das-mulheres-no-futebol)_
+
+- **[2026-09-04 10:12 UTC]** Vendas do futebol feminino saltam 19%; Brasil tem recorde histórico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/vendas-do-futebol-feminino-saltam-19-brasil-tem-recorde-historico.shtml)_
+
+- **[2026-09-05 17:00 UTC]** 1926: Companhia teatral portuguesa homenageia futebol de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-companhia-teatral-portuguesa-homenageia-futebol-de-sao-paulo.shtml)_
+
+- **[2026-09-06 20:30 UTC]** Brasileiro trata política como jogo de futebol, diz leitor, ao comentar disputa no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/brasileiro-trata-politica-como-jogo-de-futebol-diz-leitor-ao-comentar-disputa-no-stf.shtml)_
+
+- **[2026-09-07 08:26 UTC]** Desfile de 7 de Setembro homenageia pioneiras do futebol feminino
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/desfile-de-7-de-setembro-homenageia-pioneiras-do-futebol-feminino)_
+
+- **[2026-09-08 11:27 UTC]** Futebol, radionovelas e humor fazem parte da história da Nacional
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/futebol-radionovelas-e-humor-fazem-parte-da-historia-da-nacional)_
+
+- **[2026-09-08 12:10 UTC]** Entidade europeia denuncia Fifa por suposta 'conduta abusiva' no calendário do futebol feminino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/entidade-europeia-denuncia-fifa-por-suposta-conduta-abusiva-no-calendario-do-futebol-feminino.shtml)_
+
+- **[2026-09-08 19:08 UTC]** Brasileiras são vice-campeãs da Copa América de futebol de cegas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiras-sao-vice-campeas-da-copa-america-de-futebol-de-cegas)_
+
+- **[2026-09-09 11:21 UTC]** Jovem de RO morto em festa no Ceará era apaixonado por futebol e fazia planos para ajudar a família, diz irmão
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/09/jovem-de-ro-morto-em-festa-no-ceara-era-apaixonado-por-futebol-e-fazia-planos-para-ajudar-a-familia-diz-irmao.ghtml)_
+
+- **[2026-09-09 19:35 UTC]** Brasil encara Costa Rica na semi da Copa América de futebol de cegos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encara-costa-rica-na-semi-da-copa-america-de-futebol-de-cegos)_
+
+- **[2026-09-10 19:18 UTC]** Futebol de cegos: Brasil vai à final da Copa América contra Colômbia
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/futebol-de-cegos-brasil-vai-final-da-copa-america-contra-colombia)_
+
+- **[2026-09-11 16:26 UTC]** Sobrevivente brasileiro do 11 de setembro é filho de ídolo do futebol e desceu 25 andares de escada
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/quem-e-sobrevivente-brasileiro-do-11-de-setembro.ghtml)_
+

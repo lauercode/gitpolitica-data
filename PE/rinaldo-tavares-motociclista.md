@@ -5,3 +5,141 @@
 
 ## Histórico
 
+- **[2026-08-26 17:53 UTC]** Motociclista que teve pé amputado ao colidir com carro recebe alta no Acre; amigos pedem ajuda
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/motociclista-que-teve-pe-amputado-ao-colidir-com-carro-passou-por-cirurgia-no-acre.ghtml)_
+
+- **[2026-08-25 21:06 UTC]** Motociclista tem pé direito amputado durante colisão com carro no Acre; Veja VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/video-motociclista-tem-pe-amputado-durante-colisao-com-carro-no-acre.ghtml)_
+
+- **[2026-08-30 14:35 UTC]** Homem morre após ser atropelado por motociclista na ponte Jornalista Phelippe Daou, em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/30/homem-morre-apos-ser-atropelado-por-motociclista-na-ponte-jornalista-phelippe-daou-em-manaus.ghtml)_
+
+- **[2026-08-28 21:22 UTC]** Servidor da SSP-AM é exonerado após acidente que matou motociclista em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/servidor-da-ssp-am-e-exonerado-apos-acidente-que-matou-motociclista-em-manaus.ghtml)_
+
+- **[2026-08-28 14:42 UTC]** Servidor da SSP é afastado após bater caminhonete descaracterizada em motociclista que morreu em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/servidor-da-ssp-e-afastado-apos-bater-caminhonete-descaracterizada-em-motociclista-que-morreu-em-manaus.ghtml)_
+
+- **[2026-08-28 11:55 UTC]** Servidor da SSP avança sinal vermelho com caminhonete descaracterizada e bate em motociclista que morre em Manaus; VÍDEO
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/caminhonete-avanca-sinal-vermelho-e-bate-em-motociclista-que-morre-em-manaus-video.ghtml)_
+
+- **[2017-10-29 22:21 UTC]** Motociclista e pedestre morrem após atropelamento em frente ao Palácio do Planalto
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/motociclista-e-pedestre-morrem-apos-atropelamento-em-frente-ao-palacio-do-planalto.ghtml)_
+
+- **[2017-09-09 09:01 UTC]** Cachorro 'motociclista' chama a atenção em via do DF; vídeo
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/cachorro-motociclista-chama-a-atencao-em-via-do-df-video.ghtml)_
+
+- **[2018-07-11 15:35 UTC]** Motociclista morre atropelado na BR-414, em Cocalzinho de Goiás
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/motociclista-morre-atropelado-na-br-414-em-cocalzinho-de-goias.ghtml)_
+
+- **[2018-01-09 09:36 UTC]** Motociclista multado por não usar cinto de segurança luta há 2 anos para cancelar infração, em Jaraguá
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/motociclista-multado-por-nao-usar-cinto-de-seguranca-luta-ha-2-anos-para-cancelar-infracao-em-jaragua.ghtml)_
+
+- **[2017-07-10 19:11 UTC]** Motociclista, confira abaixo algumas dicas de segurança no trânsito
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/motociclista-confira-abaixo-algumas-dicas-de-seguranca-no-transito.html)_
+
+- **[2017-07-10 18:59 UTC]** Conheça o perfil do motociclista goiano
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/conheca-o-perfil-do-motociclista-goiano.html)_
+
+- **[2018-07-16 12:17 UTC]** Motociclista morre após invadir preferencial e bater em dois carros, diz polícia de MS
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/motociclista-morre-apos-invadir-preferencial-e-bater-em-dois-carros-diz-policia-de-ms.ghtml)_
+
+- **[2017-06-17 17:48 UTC]** Motociclista morre após bater na traseira de caminhão estacionado em MS
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/motociclista-morre-em-ms-apos-bater-em-traseira-de-caminhao-estacionado.ghtml)_
+
+- **[2017-04-17 18:14 UTC]** Motociclista que se acidentou em curva está no CTI
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/motociclista-que-se-acidentou-em-curva-esta-no-cti.ghtml)_
+
+- **[2017-04-09 12:44 UTC]** Em MS, motociclista de 35 anos perde controle do veículo, cai e morre
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/2017/04/em-ms-motociclista-de-35-anos-perde-controle-do-veiculo-cai-e-morre.html)_
+
+- **[2026-08-29 13:52 UTC]** Motociclista morre atropelado por 'carreta da alegria' após perder controle da direção e cair na pista em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/29/motociclista-morre-atropelado-por-carreta-da-alegria-em-ro.ghtml)_
+
+- **[2026-08-25 13:54 UTC]** Motociclista fica ferido após ser atingido por carro em Rorainópolis
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/25/motociclista-fica-ferido-apos-ser-atingido-por-carro-em-rorainopolis.ghtml)_
+
+- **[2026-08-24 22:39 UTC]** Carro fecha motociclista na avenida Carlos Pereira de Melo e causa acidente em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/carro-fecha-motociclista-na-avenida-carlos-pereira-de-melo-e-causa-acidente-em-boa-vista.ghtml)_
+
+- **[2026-08-31 17:48 UTC]** Mulher é suspeita de andar na contramão por 2 km, bater em moto e fugir do hospital em SC; motociclista morreu
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-contramao-2-km-bate-moto-sc-401-foge-hospital-motociclista-morreu.ghtml)_
+
+- **[2026-08-31 21:31 UTC]** Motociclista morre em acidente com carreta na TO-040
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/motociclista-morre-em-acidente-com-carreta-na-to-040.ghtml)_
+
+- **[2026-08-30 18:02 UTC]** Motociclista morre após acidente entre carro e moto no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/motociclista-morre-apos-acidente-entre-carro-e-moto-no-to.ghtml)_
+
+- **[2026-08-29 15:17 UTC]** Motociclista de 48 anos morre após acidente com carreta no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/motociclista-de-48-anos-morre-apos-acidente-com-carreta-no-to.ghtml)_
+
+- **[2026-08-24 19:06 UTC]** Drone da TV Anhanguera flagra momento em que motociclista tenta fazer gato e cai em avenida de Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/drone-da-tv-anhanguera-flagra-momento-em-que-motociclista-tenta-fazer-gato-e-cai-em-avenida-de-palmas.ghtml)_
+
+- **[2026-08-24 16:15 UTC]** Motociclista morre após batida frontal entre moto e caminhonete em cruzamento no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/motociclista-morre-apos-batida-frontal-entre-moto-e-caminhonete-em-cruzamento-no-to.ghtml)_
+
+- **[2026-09-01 13:00 UTC]** Motociclista fica gravemente ferido após passar por área isolada e ser atingido por árvore em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/01/motociclista-queda-arvore-curitiba.ghtml)_
+
+- **[2026-09-01 15:36 UTC]** Motociclista morre em acidente com três veículos na BR-364 em Jaru, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/motociclista-morre-em-acidente-que-envolveu-tres-veiculos-na-br-364-em-jaru-ro.ghtml)_
+
+- **[2026-09-01 15:36 UTC]** Motociclista vítima de acidente envolvendo três veículos na BR-364, em Jaru, é velado nesta terça (1)
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/01/motociclista-morre-em-acidente-que-envolveu-tres-veiculos-na-br-364-em-jaru-ro.ghtml)_
+
+- **[2026-09-02 12:12 UTC]** VÍDEO: motociclista é arremessado após ser atingido por carro que furou preferencial, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/02/video-motociclista-e-arremessado-apos-ser-atingido-por-carro-que-furou-preferencial-no-parana.ghtml)_
+
+- **[2026-09-03 09:00 UTC]** Condutor é indiciado por omissão de socorro em acidente que matou motociclista no AC
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
+
+- **[2026-09-03 10:51 UTC]** Caminhoneiro matou motociclista dirigindo a 148 km/h em rodovia do PR com máxima permitida de 60 km/h, conclui polícia
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/03/caminhoneiro-148-kmh-morte-motociclista-pr-151-parana.ghtml)_
+
+- **[2026-09-04 00:41 UTC]** Motociclista de aplicativo morre após colisão entre motos na BR-364, em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/motociclista-de-aplicativo-morre-apos-colisao-entre-motos-na-br-364-em-rio-branco.ghtml)_
+
+- **[2026-09-04 13:07 UTC]** Motociclista morre e duas pessoas ficam feridas em acidente grave no centro de Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/motociclista-morre-e-duas-pessoas-ficam-feridas-em-acidente-grave-no-centro-de-belem.ghtml)_
+
+- **[2026-09-04 16:32 UTC]** Família de motociclista morto após acidente na BR-364 chega ao AC para funeral: 'Estamos desolados'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/familia-de-motociclista-morto-apos-acidente-na-br-364-chega-ao-ac-para-funeral-estamos-desolados.ghtml)_
+
+- **[2026-09-04 15:32 UTC]** VÍDEO: Motorista de jipe é presa após avançar preferencial e causar acidente que matou motociclista em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/04/acidente-entre-jipe-e-motociclista-em-porto-velho.ghtml)_
+
+- **[2026-09-04 16:32 UTC]** Família de motociclista morto após acidente na BR-364 chega ao Acre para funeral: 'Estamos desolados'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/familia-de-motociclista-morto-apos-acidente-na-br-364-chega-ao-ac-para-funeral-estamos-desolados.ghtml)_
+
+- **[2026-09-05 14:09 UTC]** Velório de motociclista atropelado por jipe acontece neste sábado(5) em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/05/velorio-de-motociclista-atropelado-por-jipe-acontece-neste-sabado5-em-porto-velho.ghtml)_
+
+- **[2026-09-05 12:56 UTC]** Motociclista morre após acidente envolvendo caminhonete em Nossa Senhora da Glória
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/acidente-envolvendo-caminhonete-em-nossa-senhora-da-gloria.ghtml)_
+
+- **[2026-09-06 19:22 UTC]** Motociclista bate em caminhonete e diz à polícia que ingeriu bebida alcoólica em Rorainópolis
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/06/motociclista-bate-em-caminhonete-e-diz-a-policia-que-ingeriu-bebida-alcoolica-em-rorainopolis.ghtml)_
+
+- **[2026-09-07 16:06 UTC]** Duas pessoas morrem após caminhão atingir veículos que pararam para ajudar motociclista caído na pista em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/07/dois-morrem-acidente-linha-verde-curitiba.ghtml)_
+
+- **[2026-09-07 18:09 UTC]** Motociclista perde controle e sofre acidente em rodovia de acesso a Mazagão, no Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/motociclista-perde-controle-e-sofre-acidente-em-rodovia-de-acesso-a-mazagao-no-amapa.ghtml)_
+
+- **[2026-09-08 12:03 UTC]** Motociclista morre após bater na traseira de carro na BR-406 em João Câmara; motorista fugiu
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/motociclista-morre-apos-bater-na-traseira-de-carro-na-br-406-em-joao-camara-motorista-fugiu.ghtml)_
+
+- **[2026-09-08 15:18 UTC]** Motociclista de 50 anos morre após bater em traseira de carreta estacionada no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/motociclista-de-50-anos-morre-apos-bater-em-traseira-de-carreta-estacionada-no-acre.ghtml)_
+
+- **[2026-09-08 19:45 UTC]** Motociclista morre e crianças ficam feridas em acidente na PA-415, em Altamira
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/08/motociclista-morre-e-criancas-ficam-feridas-em-acidente-na-pa-415-em-altamira.ghtml)_
+
+- **[2026-09-09 13:05 UTC]** Motociclista morre após bater de frente com caminhonete na BR-101 no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/09/motociclista-morre-acidente-br-101-rn.ghtml)_
+
+- **[2026-09-11 15:08 UTC]** Motociclista morre em acidente entre moto e carro na BR-010, em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/motociclista-morre-em-acidente-entre-moto-e-carro-na-br-010-em-palmas.ghtml)_
+

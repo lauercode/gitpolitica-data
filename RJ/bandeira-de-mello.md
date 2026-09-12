@@ -11,3 +11,6 @@
 - **[2026-08-29 13:02 UTC]** Lula chama Flávio Bolsonaro de amador e aventureiro por entrevista à TV Globo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-amador-aventureiro-entrevista-tv-globo/)_
 
+- **[2026-09-08 11:06 UTC]** STF não pode servir de escudo para desvios individuais, diz Celso de Mello
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/stf-nao-pode-servir-de-escudo-para-desvios-individuais-diz-celso-de-mello.shtml)_
+

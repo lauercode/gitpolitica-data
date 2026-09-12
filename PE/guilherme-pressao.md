@@ -20,3 +20,108 @@
 - **[2026-08-28 14:58 UTC]** Temor de retaliações do STF pesa no cálculo do Centrão sobre apoio a Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temor-de-retaliacoes-do-stf-pesa-no-calculo-do-centrao-sobre-apoio-a-flavio/)_
 
+- **[2026-08-30 16:00 UTC]** Eleições aumentam volatilidade e colocam Bolsa e real sob pressão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/eleicoes-aumentam-volatilidade-e-colocam-bolsa-e-real-sob-pressao.shtml)_
+
+- **[2026-08-31 06:00 UTC]** Rendimentos de títulos públicos globais sobem com guerra no Irã e ampliam pressão fiscal no G7
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/rendimentos-de-titulos-publicos-globais-sobem-com-guerra-no-ira-e-ampliam-pressao-fiscal-no-g7.shtml)_
+
+- **[2026-08-31 14:20 UTC]** Títulos de dívida e iene do Japão sofrem pressão após discurso de Warsh em Jackson Hole
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/titulos-de-divida-e-iene-do-japao-sofrem-pressao-apos-discurso-de-warsh-em-jackson-hole.shtml)_
+
+- **[2026-08-24 18:17 UTC]** Bruno Cardoso, do Sorriso Maroto, dá entrada em hospital após queda de pressão em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/24/bruno-cardoso-do-sorriso-maroto-da-entrada-em-hospital-apos-queda-de-pressao-em-natal.ghtml)_
+
+- **[2026-09-01 13:00 UTC]** Serra da Chapadinha, na Bahia, vira área protegida após enfrentar pressão de mineradoras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/serra-da-chapadinha-na-bahia-vira-area-protegida-apos-enfrentar-pressao-de-mineradoras.shtml)_
+
+- **[2026-09-01 13:00 UTC]** Andrew Scott sustenta 'Pressão', drama de guerra sobre o Dia D
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/andrew-scott-sustenta-pressao-drama-de-guerra-sobre-o-dia-d.shtml)_
+
+- **[2026-09-01 13:00 UTC]** Em 'Pressão', com Brendan Fraser, meteorologista muda o destino da Segunda Guerra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/em-pressao-com-brendan-fraser-meteorologista-muda-o-destino-da-segunda-guerra.shtml)_
+
+- **[2026-09-01 17:16 UTC]** Estudante espancado na UFRJ diz temer retorno ao campus, e universidade vive pressão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/estudante-espancado-na-ufrj-diz-temer-retorno-ao-campus-e-universidade-vive-pressao.shtml)_
+
+- **[2026-09-01 20:11 UTC]** Oposição articula impeachment de Moraes no Congresso e fala em colocar Alcolumbre sob pressão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-articula-impeachment-de-moraes-e-fala-em-colocar-alcolumbre-sob-pressao/)_
+
+- **[2026-09-01 18:56 UTC]** Sabesp mantém redução noturna da pressão da água em 8 horas em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sabesp-mantem-reducao-noturna-da-pressao-da-agua-em-8-horas-em-sao-paulo.shtml)_
+
+- **[2026-09-02 18:28 UTC]** O fim da blindagem? Moraes enfrenta crescente desgaste público e pressão aumenta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-fim-da-blindagem-moraes-enfrenta-crescente-desgaste-publico-e-pressao-aumenta/)_
+
+- **[2026-09-02 17:29 UTC]** Senadores ampliam pressão por impeachment de Moraes após relatório da PF sobre Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senadores-ampliam-pressao-por-impeachment-de-moraes-apos-relatorio-da-pf-sobre-vorcaro/)_
+
+- **[2026-09-02 19:41 UTC]** Alcolumbre cita dinheiro para 'Dark Horse' para responder à pressão por impeachment de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-cita-dinheiro-para-dark-horse-para-responder-a-pressao-por-impeachment-de-moraes.shtml)_
+
+- **[2026-09-02 23:32 UTC]** Palmeiras segura pressão do Santos, elimina rival e avança na Copa do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-segura-pressao-do-santos-elimina-rival-e-avanca-na-copa-do-brasil.shtml)_
+
+- **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
+
+- **[2026-09-03 09:30 UTC]** Crise migratória em Ceuta provoca atos em várias cidades da Espanha e amplia pressão sobre Sánchez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/crise-migratoria-em-ceuta-provoca-atos-em-varias-cidades-da-espanha-e-amplia-pressao-sobre-sanchez.shtml)_
+
+- **[2026-09-03 11:15 UTC]** Líder comunitária de 38 anos morre após choque elétrico com lavadora de alta pressão em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/lider-comunitaria-morre-choque-eletrico-lavadora-alta-pressao-sc.ghtml)_
+
+- **[2026-09-03 20:12 UTC]** Vorcaro diz que sofreu pressão para não delatar diretor da PF e membros do governo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-diz-que-sofreu-pressao-para-nao-delatar-diretor-da-pf-e-membros-do-governo/)_
+
+- **[2026-09-04 00:12 UTC]** Daniel Vorcaro denuncia ameaças e pressão para omitir nomes do governo federal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/daniel-vorcaro-denuncia-ameacas-e-pressao-para-omitir-nomes-do-governo-federal/)_
+
+- **[2026-09-06 17:36 UTC]** Dino defende decisões monocráticas do STF e questiona pressão por fim de inquéritos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-defende-decisoes-monocraticas-do-stf-e-questiona-pressao-por-fim-de-inqueritos/)_
+
+- **[2026-09-06 18:18 UTC]** Flamengo martela até superar o Remo e coloca pressão no Palmeiras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-martela-ate-superar-o-remo-e-coloca-pressao-no-palmeiras.shtml)_
+
+- **[2026-09-06 23:00 UTC]** Flávio Bolsonaro bate recorde de desempenho digital mesmo sob pressão do Master, diz Datrix
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/flavio-bolsonaro-bate-recorde-de-desempenho-digital-mesmo-sob-pressao-do-master-diz-datrix.shtml)_
+
+- **[2026-09-07 07:31 UTC]** Assédio eleitoral: trabalhador pode denunciar pressão por voto
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/assedio-eleitoral-trabalhador-pode-denunciar-pressao-por-voto)_
+
+- **[2026-09-07 23:00 UTC]** Toyota Corolla chega aos 60 anos sob pressão de rivais chineses
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/toyota-corolla-chega-aos-60-anos-sob-pressao-de-rivais-chineses.shtml)_
+
+- **[2026-09-08 15:35 UTC]** Decisão de afastar Andrei do comando da PF amplia pressão e STF busca saída para crise
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/08/crise-stf-pf-moraes.ghtml)_
+
+- **[2026-09-08 23:00 UTC]** Mendonça acirra crise institucional ao afastar diretor da PF e colocar Lula sob pressão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-acirra-crise-institucional-ao-afastar-diretor-da-pf-e-colocar-lula-sob-pressao.shtml)_
+
+- **[2026-09-09 07:54 UTC]** Fachin sob pressão e 'sem ferramentas': por que presidente do STF não consegue debelar crise às vésperas de eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-09 11:04 UTC]** Irã sinaliza disposição para intensificar confronto ante pressão crescente dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ira-sinaliza-disposicao-para-intensificar-confronto-ante-pressao-crescente-dos-eua.shtml)_
+
+- **[2026-09-09 13:18 UTC]** Fachin sob pressão: por que presidente do STF não consegue debelar crise às vésperas de eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-09 16:49 UTC]** Alexandre de Moraes sob pressão: OAB-DF abre procedimento contra escritório da família
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-sob-pressao-oab-df-abre-procedimento-contra-escritorio-da-familia/)_
+
+- **[2026-09-09 21:33 UTC]** Fachin sob pressão: como presidente do STF tenta debelar crise às vésperas de eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-10 08:00 UTC]** Gatorade troca corantes artificiais por naturais nos EUA após pressão do governo Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/gatorade-troca-corantes-artificiais-por-naturais-nos-eua-apos-pressao-do-governo-trump.shtml)_
+
+- **[2026-09-10 09:22 UTC]** Pressão de Trump faz Jimmy Kimmel cancelar entrevista com democrata na televisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/pressao-de-trump-faz-jimmy-kimmel-cancelar-entrevista-com-democrata-na-televisao.shtml)_
+
+- **[2026-09-10 20:50 UTC]** Crise no STF e protestos aumentam pressão sobre Alcolumbre pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-e-protestos-aumentam-pressao-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
+
+- **[2026-09-11 17:58 UTC]** Ala pró-Moraes articula adiar sessão do STF com pressão para incluir Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ala-pro-moraes-articula-adiar-sessao-do-stf-com-pressao-para-incluir-mendonca.shtml)_
+

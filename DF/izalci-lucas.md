@@ -26,3 +26,45 @@
 - **[2026-08-29 08:00 UTC]** É um sonho que tenho vivido, diz Amaury Lorenzo sobre papel em 'Por Você'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/e-um-sonho-que-tenho-vivido-diz-amaury-lorenzo-sobre-papel-em-por-voce.shtml)_
 
+- **[2026-08-25 22:28 UTC]** Quaest para o Senado no AP: Rayssa Furlan, 27%; Randolfe Rodrigues, 19%; Lucas Barreto, 18%
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/25/quaest-ap-senado-25-agosto.ghtml)_
+
+- **[2026-08-26 09:00 UTC]** Caso Yasmin Macedo: entenda, ponto a ponto, a sentença que condenou Lucas Magalhães por crimes com arma e o absolveu de homicídio
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/caso-yasmin-macedo-entenda-ponto-a-ponto-a-sentenca-que-condenou-lucas-magalhaes-por-crimes-com-arma-e-o-absolveu-de-homicidio.ghtml)_
+
+- **[2026-08-26 01:50 UTC]** Caso Yasmin Macêdo: Lucas Magalhães é condenado a 4 anos e 10 meses por porte e disparo de arma, e absolvido de homicídio no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/25/caso-yasmin-macedo-lucas-magalhaes-dono-de-lancha-e-condenado-a-4-anos-e-10-meses-em-regime-semiaberto-no-para.ghtml)_
+
+- **[2026-08-28 20:00 UTC]** Lucas Ribeiro se reúne com lojistas e defende fortalecimento do comércio de Campina Grande
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/28/lucas-ribeiro-se-reune-com-lojistas-e-defende-fortalecimento-do-comercio-de-campina-grande.ghtml)_
+
+- **[2026-08-26 19:46 UTC]** Lucas Ribeiro encontra alunos intercambistas e fala em continuidade de projetos na educação na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/lucas-ribeiro-encontra-intercambistas-fala-continuidade-projetos-educacao-paraiba.ghtml)_
+
+- **[2026-08-31 22:31 UTC]** Lucas Ribeiro defende criação de novos leitos de UTI pediátrica e materna em Campina Grande
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/31/lucas-ribeiro-defende-criacao-de-novos-leitos-de-uti-pediatrica-e-materna-durante-agenda-em-campina-grande.ghtml)_
+
+- **[2026-09-02 19:08 UTC]** Lucas Ribeiro defende expansão de áreas industriais e geração de empregos na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/lucas-ribeiro-defende-expansao-de-areas-industriais-e-geracao-de-empregos-na-paraiba.ghtml)_
+
+- **[2026-09-03 17:17 UTC]** Candidato ao Senado no AP, Lucas Barreto defende exploração de petróleo: ‘traz o desenvolvimento’
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/03/candidato-ao-senado-no-ap-lucas-barreto-defende-exploracao-de-petroleo-traz-o-desenvolvimento.ghtml)_
+
+- **[2026-09-04 21:03 UTC]** Lucas Ribeiro promete ampliação do atendimento de saúde no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/lucas-ribeiro-promete-ampliacao-do-atendimento-de-saude-no-sertao-da-paraiba.ghtml)_
+
+- **[2026-09-08 21:42 UTC]** Lucas Ribeiro defende incentivo a startups e iniciativas de tecnologia e inovação na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/lucas-ribeiro-defende-incentivo-a-startups-e-iniciativas-de-tecnologia-e-inovacao-na-paraiba.ghtml)_
+
+- **[2026-09-09 21:24 UTC]** Lucas Ribeiro defende ampliação da rede de saúde e interiorização de atendimentos na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/09/lucas-ribeiro-defende-ampliacao-da-rede-de-saude-e-interiorizacao-de-atendimentos-na-paraiba.ghtml)_
+
+- **[2026-09-10 19:59 UTC]** Cícero Lucena entra com ação no TRE-PB contra Lucas Ribeiro por suposto aumento na folha em ano eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/10/cicero-lucena-acao-tre-pb-contra-lucas-ribeiro-suposto-aumento-folha-ano-eleitoral.ghtml)_
+
+- **[2026-09-11 14:13 UTC]** Lucas Veloso se pronuncia após ter Instagram retirado do ar por decisão judicial; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/lucas-veloso-se-pronuncia-apos-ter-instagram-retirado-do-ar-por-decisao-judicial-video.ghtml)_
+
+- **[2026-09-11 17:51 UTC]** Lucas Ribeiro defende ampliação do passe livre estudantil para universitários na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/11/lucas-ribeiro-defende-ampliacao-do-passe-livre-estudantil-para-universitarios-na-paraiba.ghtml)_
+

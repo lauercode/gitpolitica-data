@@ -8,3 +8,6 @@
 - **[2026-08-22 18:03 UTC]** Bayern supera Dortmund por 2 a 1 e conquista a Supercopa da Alemanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/bayern-supera-dortmund-por-2-a-1-e-conquista-a-supercopa-da-alemanha.shtml)_
 
+- **[2026-09-10 07:00 UTC]** Bayer aposta em remédio não hormonal para menopausa no Brasil, afirma executivo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bayer-aposta-em-remedio-nao-hormonal-para-menopausa-no-brasil-afirma-executivo.shtml)_
+

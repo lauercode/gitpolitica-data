@@ -32,3 +32,33 @@
 - **[2026-08-30 09:00 UTC]** Einstein está com inscrições abertas para residência médica e de outras áreas da saúde
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/einstein-esta-com-inscricoes-abertas-para-residencia-medica-e-de-outras-areas-da-saude.shtml)_
 
+- **[2026-08-26 13:08 UTC]** PGE identifica risco de colapso e pede interdição de áreas do Estádio Rei Pelé, em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/26/pge-identifica-risco-de-colapso-e-pede-interdicao-de-areas-do-estadio-rei-pele-em-maceio.ghtml)_
+
+- **[2026-08-25 06:00 UTC]** VÍDEO: gado foge de incêndio que atinge fazendas; fogo avança por áreas rurais de três estados
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/25/video-gado-foge-de-incendio-que-atinge-fazendas-fogo-avanca-por-areas-rurais-de-tres-estados.ghtml)_
+
+- **[2026-09-01 22:32 UTC]** Eleições 2026 em SC: João Rodrigues visita moradores e áreas afetadas por fortes chuvas em Biguaçu
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-em-sc-joao-rodrigues-visita-moradores-e-areas-afetadas-por-fortes-chuvas-em-biguacu.ghtml)_
+
+- **[2026-09-02 17:47 UTC]** Incêndios de grandes proporções atingem áreas de vegetação no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/incendios-de-grandes-proporcoes-atingem-areas-de-vegetacao-no-acre.ghtml)_
+
+- **[2026-09-02 19:08 UTC]** Lucas Ribeiro defende expansão de áreas industriais e geração de empregos na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/lucas-ribeiro-defende-expansao-de-areas-industriais-e-geracao-de-empregos-na-paraiba.ghtml)_
+
+- **[2026-09-04 07:40 UTC]** Seca na Amazônia atingiu 38% das áreas habitadas no último El Niño
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/seca-na-amazonia-atingiu-38-das-areas-habitadas-no-ultimo-el-nino)_
+
+- **[2026-09-04 18:16 UTC]** Dia da Amazônia destaca desafio de levar saneamento para áreas de igarapés em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/aguas-de-manaus/aguas-de-manaus/noticia/2026/09/04/dia-da-amazonia-destaca-desafio-de-levar-saneamento-para-areas-de-igarapes-em-manaus.ghtml)_
+
+- **[2026-09-05 11:00 UTC]** Com vegetação fragilizada devido a estiagem, áreas verdes podem sofrer durante campanhas em Rio Branco: 'Período crítico'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/05/com-vegetacao-fragilizada-devido-a-estiagem-areas-verdes-podem-sofrer-durante-campanhas-em-rio-branco-periodo-critico.ghtml)_
+
+- **[2026-09-06 21:01 UTC]** Emprego em Sergipe: plataforma digital do NAT oferta vagas para diversas áreas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/06/emprego-em-sergipe-plataforma-digital-do-nat-oferta-vagas-para-diversas-areas.ghtml)_
+
+- **[2026-09-09 19:42 UTC]** Áreas atingidas por fogo em Palmas aumentam 20% comparado com 2025
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/areas-atingidas-por-fogo-em-palmas-aumentam-20-comparado-com-2025)_
+

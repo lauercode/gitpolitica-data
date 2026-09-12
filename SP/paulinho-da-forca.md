@@ -71,3 +71,66 @@
 - **[2026-08-30 11:00 UTC]** Interior ganha impulso com agro, e produtividade do Brasil muda de endereço
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/agro-impulsiona-interior-e-faz-produtividade-do-brasil-mudar-de-endereco.shtml)_
 
+- **[2026-08-28 09:00 UTC]** O acordão por trás do fim da escala 6×1. CPMI do Lulinha ganha força
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/bom-dia/acordao-fim-escala-6-1-cpmi-lulinha/)_
+
+- **[2017-11-09 20:06 UTC]** Homem é retirado à força de casa e é assassinado no meio de rua em Fortaleza
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/homem-e-retirado-a-forca-de-casa-e-e-assassinado-no-meio-de-rua-em-fortaleza.ghtml)_
+
+- **[2018-07-21 16:12 UTC]** Polícia investiga se recém-nascida foi levada à força de MG para MT ou doada pela mãe
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mt/mato-grosso/noticia/2018/07/21/policia-investiga-se-recem-nascida-foi-raptada-em-mg-e-levada-para-mt-ou-doada-pela-mae.ghtml)_
+
+- **[2026-08-31 14:27 UTC]** Plano Safra transforma investimentos em força para a produção de arroz
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/08/31/plano-safra-transforma-investimentos-em-forca-para-a-producao-de-arroz.ghtml)_
+
+- **[2026-09-01 12:48 UTC]** PIB perde força no 2º tri: os 3 desafios para o próximo presidente na economia
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-01 12:48 UTC]** PIB do Brasil perde força no 2º tri: os 3 desafios para o próximo presidente na economia
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c62m7637g9ro?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-01 17:05 UTC]** Lavoura e pecuária surpreendem e dão força ao PIB agropecuário no ano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lavoura-e-pecuaria-surpreendem-e-dao-forca-ao-pib-agropecuario-no-ano.shtml)_
+
+- **[2026-09-04 12:36 UTC]** Emprego nos EUA ganha força, mas desemprego permanece em 4,1%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/emprego-nos-eua-ganha-forca-mas-desemprego-permanece-em-41.shtml)_
+
+- **[2026-09-04 15:59 UTC]** Exportação brasileira de carne bovina perde força em agosto com redução de vendas à China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/exportacao-brasileira-de-carne-bovina-perde-forca-em-agosto-com-reducao-de-vendas-a-china.shtml)_
+
+- **[2026-09-04 15:08 UTC]** Novo presidente da Colômbia posa ao lado de cadáveres em demonstração de força contra narcotráfico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/novo-presidente-da-colombia-posa-ao-lado-de-cadaveres-em-demonstracao-de-forca-contra-narcotrafico.shtml)_
+
+- **[2026-09-04 14:28 UTC]** Lula vai usar mote 'A Força que Une o Brasil' para desfile de 7 de setembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-vai-usar-mote-a-forca-que-une-o-brasil-para-desfile-de-7-de-setembro.shtml)_
+
+- **[2026-09-04 20:20 UTC]** 7 de Setembro: atos da direita ganham força com caso Master e reação de Moraes contra Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/7-de-setembro-atos-da-direita-ganham-forca-com-caso-master-e-reacao-de-moraes-contra-mendonca/)_
+
+- **[2026-09-07 07:54 UTC]** Crise do STF embala 7 de setembro e vira trunfo para Flávio Bolsonaro tentar recuperar força eleitoral
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpnpel9jo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-07 12:30 UTC]** Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia)_
+
+- **[2026-09-07 14:40 UTC]** Paulinho da Força declara voto a Cury: 'não aguento mais essa polarização'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/paulinho-da-forca-declara-voto-a-cury-nao-aguento-mais-essa-polarizacao.shtml)_
+
+- **[2026-09-07 23:10 UTC]** São Paulo embala e quer encarar o Boca com força máxima pela Sul-Americana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/sao-paulo-embala-e-quer-encarar-o-boca-com-forca-maxima-pela-sul-americana.shtml)_
+
+- **[2026-09-08 18:59 UTC]** Possível uniforme de força espacial de Trump gera comparação com farda nazista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/possivel-uniforme-de-forca-espacial-de-trump-gera-comparacao-com-farda-nazista.shtml)_
+
+- **[2026-09-09 18:07 UTC]** Rio recebe base da Força Nacional do SUS para enfrentar El Niño
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/rio-recebe-base-da-forca-nacional-do-sus-para-enfrentar-el-nino)_
+
+- **[2026-09-10 08:00 UTC]** Instabilidade ganha força em regiões do RS com risco de tempestades, granizo e rajadas de vento nesta quinta-feira
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/instabilidade-regioes-rs-tempestades-granizo-rajadas-de-vento-quinta-feira.ghtml)_
+
+- **[2026-09-10 09:13 UTC]** Ministério da Saúde instala base da Força Nacional do SUS no Rio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/ministerio-da-saude-instala-base-da-forca-nacional-do-sus-no-rio)_
+
+- **[2026-09-10 13:29 UTC]** Estupro coletivo é investigado após mulher relatar ter sido colocada à força em carro por 4 homens em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/estupro-coletivo-mulher-colocada-dentro-de-carro-criciuma.ghtml)_
+

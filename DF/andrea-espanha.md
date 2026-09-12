@@ -11,3 +11,39 @@
 - **[2026-08-27 17:19 UTC]** Caso Lulinha ganha capítulo internacional: MP da Espanha analisa denúncia sobre empresa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/caso-lulinha-ganha-capitulo-internacional-mp-da-espanha-analisa-denuncia-sobre-empresa/)_
 
+- **[2026-08-31 10:15 UTC]** Espanha acusa Rússia e Israel de desinformação após onda migratória em Ceuta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/espanha-acusa-russia-e-israel-de-desinformacao-apos-onda-migratoria-em-ceuta.shtml)_
+
+- **[2026-08-26 16:32 UTC]** Mulher trans acreana morre após infarto na Espanha e família tenta trazer corpo para o Brasil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/mulher-trans-acreana-morre-apos-infarto-na-espanha-e-familia-tenta-trazer-corpo-para-o-brasil.ghtml)_
+
+- **[2026-08-27 22:36 UTC]** Brasileira encontrada na Espanha após mais de 50 dias sem contato não quer falar com a família e irmã lamenta: ‘Não posso controlar’
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/brasileira-encontrada-na-espanha-apos-mais-de-50-dias-sem-contato-nao-quer-falar-com-a-familia-e-irma-lamenta-nao-posso-controlar.ghtml)_
+
+- **[2026-08-27 19:58 UTC]** Brasileira desaparecida na Espanha é encontrada, diz família
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/brasileira-desaparecida-na-espanha-e-encontrada-diz-familia.ghtml)_
+
+- **[2026-09-01 10:39 UTC]** Calor foi responsável por 2.149 mortes na Espanha no mês passado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/calor-foi-responsavel-por-2149-mortes-na-espanha-no-mes-passado)_
+
+- **[2026-09-03 09:30 UTC]** Crise migratória em Ceuta provoca atos em várias cidades da Espanha e amplia pressão sobre Sánchez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/crise-migratoria-em-ceuta-provoca-atos-em-varias-cidades-da-espanha-e-amplia-pressao-sobre-sanchez.shtml)_
+
+- **[2026-09-03 17:00 UTC]** 1926: Assim como Brasil, Espanha fica sem vaga fixa na Liga das Nações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-assim-como-brasil-espanha-fica-sem-vaga-fixa-na-liga-das-nacoes.shtml)_
+
+- **[2026-09-05 10:02 UTC]** Chacina de Pioz: tio de assassino de família da PB morta na Espanha diz que perdoa sobrinho e cobra justiça por suposto auxílio
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/chacina-de-pioz-tio-de-assassino-de-familia-da-pb-morta-na-espanha-diz-que-perdoa-sobrinho-e-cobra-justica-por-suposto-auxilio.ghtml)_
+
+- **[2026-09-07 00:43 UTC]** Condomínio de luxo de Lulinha na Espanha tem spa e tirolesa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/condominio-de-luxo-de-lulinha-na-espanha-tem-spa-e-tirolesa.shtml)_
+
+- **[2026-09-07 12:31 UTC]** Chacina de Pioz: jovem que denunciou troca de mensagens entre acusados relembra o crime que deixou família da PB morta na Espanha
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/chacina-de-pioz-jovem-que-denunciou-troca-de-mensagens-entre-acusados-relembra-o-crime-que-deixou-familia-da-pb-morta-na-espanha.ghtml)_
+
+- **[2026-09-07 16:29 UTC]** Coco de roda paraibano ganha palcos na Europa em projeto que leva cultura popular a Espanha e Portugal
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/coco-de-roda-paraibano-ganha-palcos-na-europa-em-projeto-que-leva-cultura-popular-a-espanha-e-portugal.ghtml)_
+
+- **[2026-09-11 16:23 UTC]** Final da Copa do Mundo de 2030 vira batalha entre Marrocos e Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/final-da-copa-do-mundo-de-2030-vira-batalha-entre-marrocos-e-espanha.shtml)_
+

@@ -11,3 +11,204 @@
 - **[2026-08-26 00:50 UTC]** Ações de Dino contra rivais no Maranhão fazem sua atuação no STF ser questionada
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-de-dino-contra-rivais-no-maranhao-fazem-sua-atuacao-no-stf-ser-questionada/)_
 
+- **[2026-08-31 00:53 UTC]** Canetada de Dino pode travar investigação sobre Lulinha e enfraquecer Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/canetada-dino-fragmentar-investigacao-lulinha-enfraquecer-mendonca/)_
+
+- **[2026-09-01 19:03 UTC]** Brandão recorre ao STF contra decisão de Toffoli sobre inquérito aberto por Dino
+  _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/brandao-recorre-ao-stf-contra-decisao-de-toffoli-sobre-inquerito-aberto-por-dino.ghtml)_
+
+- **[2026-09-04 10:36 UTC]** Dino diz que 'STF é maior que qualquer um que o integra' após escalada da tensão entre Moraes e Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/dino-diz-que-stf-e-maior-que-qualquer-um-que-o-integra-apos-escalada-da-tensa-entre-moraes-e-mendonca.shtml)_
+
+- **[2026-09-04 11:24 UTC]** Dino reconhece crise no STF e defende “seguir julgando”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-reconhece-crise-no-stf-e-defende-seguir-julgando/)_
+
+- **[2026-09-04 18:12 UTC]** Gonet vira alvo de procedimento em conselho que ele mesmo preside; irmão de Dino é o vice-presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-vira-alvo-de-procedimento-em-conselho-que-ele-mesmo-preside/)_
+
+- **[2026-09-06 14:27 UTC]** Dino questiona promessa de fim de inquérito das fake news, sem citar Fachin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/sem-citar-fachin-dino-questiona-promessa-de-fim-de-inquerito-das-fake-news.shtml)_
+
+- **[2026-09-06 17:36 UTC]** Dino defende decisões monocráticas do STF e questiona pressão por fim de inquéritos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-defende-decisoes-monocraticas-do-stf-e-questiona-pressao-por-fim-de-inqueritos/)_
+
+- **[2026-09-09 09:25 UTC]** Dino determina reintegração de Andrei Rodrigues no comando da PF
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-determina-reintegracao-de-andrei-rodrigues-no-comando-da-pf)_
+
+- **[2026-09-09 10:17 UTC]** Dino determina reintegração de Andrei Rodrigues ao comando da PF
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/dino-determina-reintegracao-de-andrei-rodrigues-ao-comando-da-pf)_
+
+- **[2026-09-09 14:29 UTC]** Dino diz que juízes devem evitar vídeos que alimentem comícios: 'Recato deve ser ainda maior em tempos eleitorais'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-diz-que-juizes-devem-evitar-videos-que-alimentem-propagandas-e-comicios-recato-deve-ser-ainda-maior-em-tempos-eleitorais.ghtml)_
+
+- **[2026-09-09 14:28 UTC]** Dino determina 'código único' para rastrear emendas e dá 30 dias para estados informarem sobre medidas corretivas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-determina-codigo-unico-para-rastrear-emendas-e-da-30-dias-para-estados-informarem-sobre-medidas-corretivas.ghtml)_
+
+- **[2026-09-09 13:46 UTC]** STF cancela sessão do plenário em meio a crise entre Dino, Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/stf-cancela-sessao-em-meio-a-crise-envolvendo-dino-moraes-e-mendonca.ghtml)_
+
+- **[2026-09-09 13:33 UTC]** Dino cita impacto em investigação do filme 'Dark Horse' ao reconduzir chefe da PF; entenda o caso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-cita-impacto-em-investigacao-do-filme-dark-horse-ao-reconduzir-chefe-da-pf-entenda-o-caso.ghtml)_
+
+- **[2026-09-09 12:58 UTC]** Veja o que disseram os presidenciáveis sobre a decisão de Dino que devolveu Andrei à direção-geral da PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/09/presidenciaveis-decisao-dino-andrei-direcao-pf.ghtml)_
+
+- **[2026-09-09 12:37 UTC]** Reintegração de diretor da PF: veja os principais argumentos de Dino para reverter decisão de Mendonça sobre Andrei Rodrigues
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/reintegracao-de-diretor-da-pf-veja-os-principais-argumentos-de-dino-para-reverter-decisao-de-mendonca-sobre-andrei-rodrigues.ghtml)_
+
+- **[2026-09-09 11:18 UTC]** Fachin cancela sessão do STF após Dino reintegrar Andrei ao comando da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/fachin-cancela-sessao-do-stf-apos-dino-reintegrar-andrei-ao-comando-da-pf.shtml)_
+
+- **[2026-09-09 09:02 UTC]** Dino reconduz diretor-geral da PF no cargo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dino-reintegra-diretor-geral-da-pf-no-cargo.shtml)_
+
+- **[2026-09-09 08:59 UTC]** Dino reverte decisão de Mendonça e reintegra Andrei Rodrigues ao comando da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-reintegra-andrei-rodrigues-no-comando-da-pf.shtml)_
+
+- **[2026-09-09 14:52 UTC]** Novo contesta Dino e diz que decisão expõe problemas no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-contesta-decisao-de-dino-e-diz-que-decisao-expoe-problemas-do-stf/)_
+
+- **[2026-09-09 14:17 UTC]** Fachin cancela sessão do plenário do STF em meio à crise entre Moraes, Mendonça e Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-cancela-sessao-plenario-stf-meio-a-crise/)_
+
+- **[2026-09-09 13:18 UTC]** Andrei usou caso Dark Horse para direcionar pedido de reintegração a Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-usou-caso-dark-horse-para-direcionar-pedido-de-reintegracao-a-dino/)_
+
+- **[2026-09-09 13:07 UTC]** Dino acusa Mendonça de “divergências” com PF e encontro com Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-acusa-mendonca-divergencias-pf-encontro-vorcaro/)_
+
+- **[2026-09-09 13:08 UTC]** Dino reintegra diretor-geral da PF afastado por Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-reintegra-diretor-geral-pf-afastado-mendonca/)_
+
+- **[2026-09-09 16:39 UTC]** Impasse no STF: por que a decisão de Dino que reconduziu chefe da PF é a que está valendo? Entenda o conflito
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/impasse-no-stf-por-que-a-decisao-de-dino-que-reconduziu-chefe-da-pf-e-a-que-esta-valendo-entenda-o-conflito.ghtml)_
+
+- **[2026-09-09 15:09 UTC]** Guerra de liminares no STF: ministros ligam para Fachin e cobram providências; Mendonça vê ilegalidade em decisão de Dino
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/guerra-de-liminares-eleva-pressao-sobre-fachin-por-anuncio-de-medida-concreta-para-conter-crise-master-no-stf.ghtml)_
+
+- **[2026-09-09 14:28 UTC]** Dino exige código único para emendas e dá 30 dias para estados informarem sobre transparência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/dino-determina-codigo-unico-para-rastrear-emendas-e-da-30-dias-para-estados-informarem-sobre-medidas-corretivas.ghtml)_
+
+- **[2026-09-09 14:33 UTC]** Flávio Bolsonaro critica decisão de Dino no STF e diz que Lula quer vencer no tapetão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-critica-decisao-de-dino-no-stf-e-diz-que-lula-quer-vencer-no-tapetao.shtml)_
+
+- **[2026-09-09 12:36 UTC]** Dino cita encontro de Mendonça e Vorcaro e questiona se colega age como 'juiz de si mesmo'; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-cita-encontro-de-mendonca-e-vorcaro-e-questiona-se-colega-age-como-juiz-de-si-mesmo-entenda.shtml)_
+
+- **[2026-09-09 12:22 UTC]** Mendonça procura Fachin e vê decisão de Dino como ilegal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mendonca-procura-fachin-e-ve-decisao-de-dino-como-ilegal.shtml)_
+
+- **[2026-09-09 11:04 UTC]** Andrei Rodrigues reúne equipe e volta a comandar PF após decisão de Dino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/andrei-rodrigues-deve-voltar-ao-trabalho-na-pf-ainda-nesta-quarta-9.shtml)_
+
+- **[2026-09-09 09:02 UTC]** Dino reconduz Andrei Rodrigues, diretor-geral da PF, no cargo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dino-reintegra-diretor-geral-da-pf-no-cargo.shtml)_
+
+- **[2026-09-09 18:06 UTC]** Novo tenta devolver a Mendonça disputa sobre Andrei após derrubada de Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-tenta-devolver-a-mendonca-disputa-sobre-andrei-apos-derrubada-de-dino/)_
+
+- **[2026-09-09 18:01 UTC]** Decisão de Dino para blindar cúpula da PF tem falhas graves e atropela Mendonça e Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/decisao-dino-blindar-cupula-pf-falhas-graves-atropela-mendonca-fachin/)_
+
+- **[2026-09-09 15:54 UTC]** Dino endurece regras e determina código de rastreio de emendas parlamentares
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-endurece-regras-determina-codigo-rastreio-emendas-parlamentares/)_
+
+- **[2026-09-09 18:28 UTC]** Dino reintegra Andrei à direção da PF; Lula pede quebra de sigilo do Master e Flávio acusa ministro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-09 20:02 UTC]** Fachin suspende decisão de Mendonça que afastou Andrei Rodrigues da PF e decisão de Dino que reintegrou diretor
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/fachin-suspende-decisao-de-mendonca-que-afastou-andrei-rodrigues-da-policia-federal.ghtml)_
+
+- **[2026-09-09 17:22 UTC]** PL vai explorar contra-ataque de Dino a Mendonça para argumentar que Lula interfere em investigações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pl-vai-explorar-contra-ataque-de-dino-a-mendonca-para-argumentar-que-lula-interfere-em-investigacoes.shtml)_
+
+- **[2026-09-09 17:06 UTC]** Fachin suspende decisões de Mendonça e Dino sobre chefia da PF e tira Moraes do inquérito das fake news
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-decisoes-de-dino-e-mendonca-sobre-chefia-da-pf-e-investigacoes-sobre-ministros.shtml)_
+
+- **[2026-09-09 20:29 UTC]** Fachin suspende decisões de Mendonça e Dino sobre diretor da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-suspende-decisoes-de-mendonca-e-dino-sobre-diretor-da-pf/)_
+
+- **[2026-09-09 18:26 UTC]** “O Brasil está sem presidente, virou várzea”, diz Flávio após Dino reintegrar chefe da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-brasil-esta-sem-presidente-virou-varzea-diz-flavio-pos-dino-reintegrar-chefe-da-pf/)_
+
+- **[2026-09-09 19:01 UTC]** Fachin suspende decisões de Mendonça e Dino no caso Andrei Rodrigues
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-suspende-decisoes-de-mendonca-e-dino-no-caso-andrei-rodrigues)_
+
+- **[2026-09-09 23:13 UTC]** Fachin tenta retomar controle do STF, freia Mendonça e Dino e impõe revés a Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/fachin-controle-stf-medonca-dino-moraes.ghtml)_
+
+- **[2026-09-09 19:56 UTC]** Decisões de Dino e de Mendonça sobre chefe da PF anuladas por Fachin tinham hierarquia? Entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decisoes-de-dino-e-de-mendonca-sobre-chefe-da-pf-anuladas-por-fachin-tinham-hierarquia-entenda.shtml)_
+
+- **[2026-09-09 18:48 UTC]** Fachin diz que decisões de Mendonça e Dino sobre a PF representam 'grave lesão à ordem pública'; leia íntegra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-diz-que-decisoes-de-mendonca-e-dino-sobre-a-pf-representam-grave-lesao-a-ordem-publica-leia-integra.shtml)_
+
+- **[2026-09-09 17:06 UTC]** Fachin tira Moraes do inquérito das fake news e suspende decisões de Mendonça e Dino sobre chefia da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-decisoes-de-dino-e-mendonca-sobre-chefia-da-pf-e-investigacoes-sobre-ministros.shtml)_
+
+- **[2026-09-09 22:06 UTC]** Como a crise entre Mendonça e a PF se agravou no governo Lula e envolveu Moraes, Dino e Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-crise-entre-mendonca-e-a-pf-se-agravou-no-governo-lula-e-envolveu-moraes-dino-e-fachin/)_
+
+- **[2026-09-09 20:51 UTC]** PT pede a Dino e Mendonça a quebra dos sigilos do caso Master no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pt-pede-a-dino-e-mendonca-a-quebra-dos-sigilos-do-caso-master-no-stf.shtml)_
+
+- **[2026-09-09 20:48 UTC]** Decisão de Dino é manobra jurídica questionável que sucede erros de Mendonça, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decisao-de-dino-e-manobra-juridica-questionavel-que-sucede-erros-de-mendonca-dizem-especialistas.shtml)_
+
+- **[2026-09-10 00:47 UTC]** Escândalo Moraes sai do foco com ajuda de Dino e Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/escandalo-moraes-sai-do-foco-com-ajuda-de-dino-e-fachin/)_
+
+- **[2026-09-10 00:07 UTC]** Em meio à crise institucional, Dino consagra sua imagem de soldado de Lula no STF
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/silvio-ribas/em-meio-a-crise-institucional-dino-consagra-sua-imagem-de-soldado-de-lula-no-stf/)_
+
+- **[2026-09-10 03:54 UTC]** Mendonça, Moraes, Dino e Fachin: o STF em rota de colisão - O Assunto #1801
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/10/mendonca-moraes-dino-e-fachin-o-stf-em-rota-de-colisao-o-assunto-1801.ghtml)_
+
+- **[2026-09-10 01:26 UTC]** Fachin suspende ordens de Mendonça e Dino sobre o comando da Polícia Federal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-suspende-ordens-de-mendonca-e-dino-sobre-o-comando-da-policia-federal/)_
+
+- **[2026-09-10 10:52 UTC]** PF faz operação sobre filme Dark Horse autorizada por Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-faz-operacao-sobre-filme-dark-horse-autorizada-por-dino/)_
+
+- **[2026-09-10 13:53 UTC]** Dino proíbe Mario Frias de sair do país e ter contato com outros investigados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml)_
+
+- **[2026-09-10 12:22 UTC]** Dino proíbe Mário Frias de sair do país e critica fuga de parlamentares investigados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-proibe-mario-frias-de-sair-do-pais-e-critica-evasao-internacional-de-parlamentares-investigados.shtml)_
+
+- **[2026-09-10 11:24 UTC]** Ofensiva de Dino enterra trégua proposta por Fachin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ofensiva-de-dino-enterra-tregua-proposta-por-fachin.shtml)_
+
+- **[2026-09-10 14:40 UTC]** Oposição pressiona Senado por impeachment de Dino após operação contra Frias
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-pressiona-senado-por-impeachment-de-dino-apos-operacao-contra-frias/)_
+
+- **[2026-09-10 13:44 UTC]** Flávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-campanha-setembro-2026-roraima.ghtml)_
+
+- **[2026-09-10 13:48 UTC]** Dino cita risco de evasão e proíbe deputado Mario Frias de deixar país
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-cita-risco-de-evasao-e-proibe-deputado-mario-frias-de-deixar-pais)_
+
+- **[2026-09-10 16:03 UTC]** Caso 'Dark Horse': veja argumentos de Dino para puxar apuração de SP contra Mario Frias para STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-veja-argumentos-de-dino-para-puxar-apuracao-de-sp-contra-mario-frias-para-o-stf.ghtml)_
+
+- **[2026-09-10 13:53 UTC]** Caso 'Dark Horse': Dino proíbe Mario Frias de sair do país e ter contato com outros investigados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml)_
+
+- **[2026-09-10 17:59 UTC]** Dino diz haver indícios de desvio de recursos por Frias a organizações ligadas a “Dark Horse”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-indicios-desvio-recursos-frias-dark-horse/)_
+
+- **[2026-09-10 19:50 UTC]** Dino convoca audiência pública sobre responsabilização de parlamentares por emendas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/dino-convoca-audiencia-publica-sobre-responsabilizacao-de-parlamentares-por-emendas/)_
+
+- **[2026-09-10 20:26 UTC]** Flávio diz que operação sobre 'Dark Horse' é tentativa de golpe e fala em acionar Fachin contra Dino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-diz-que-operacao-sobre-dark-horse-e-tentativa-de-golpe-e-fala-em-acionar-fachin-contra-dino.shtml)_
+
+- **[2026-09-10 23:00 UTC]** Operação da PF com aval de Dino põe 'Dark Horse' e Mario Frias no alvo em meio a crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/operacao-da-pf-com-aval-de-dino-poe-dark-horse-e-mario-frias-no-alvo-em-meio-a-crise-no-stf.shtml)_
+
+- **[2026-09-11 17:23 UTC]** Dino leva ao plenário presencial do STF julgamento sobre alteração na Lei da Ficha Limpa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/dino-leva-ao-plenario-presencial-do-stf-julgamento-sobre-alteracao-na-lei-da-ficha-limpa.ghtml)_
+
+- **[2026-09-11 18:18 UTC]** Por que o caso “Dark Horse” está dividido entre Dino e Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dark-horse-stf-dino-mendonca/)_
+

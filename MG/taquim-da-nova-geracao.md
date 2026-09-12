@@ -20,3 +20,48 @@
 - **[2026-08-29 22:47 UTC]** Recorde de Piu pode inspirar nova geração do atletismo, dizem dirigentes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/recorde-de-piu-pode-inspirar-nova-geracao-do-atletismo-dizem-dirigentes.shtml)_
 
+- **[2026-08-29 07:01 UTC]** Energia de telhado: geração distribuída avança e desafia o equilíbrio do sistema elétrico
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/29/energia-de-telhado-geracao-distribuida-avanca-e-desafia-o-equilibrio-do-sistema-eletrico.ghtml)_
+
+- **[2026-08-31 04:00 UTC]** Na onda dos vapes, geração Z fuma mais e pode pressionar gastos com saúde nas próximas décadas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/na-onda-dos-vapes-geracao-z-fuma-mais-e-pode-pressionar-gastos-com-saude-nas-proximas-decadas.shtml)_
+
+- **[2018-07-21 21:50 UTC]** Uberlândia e Uberaba têm saldo negativo na geração de empregos em junho
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/triangulo-mineiro/concursos-e-emprego/noticia/2018/07/21/uberlandia-e-uberaba-tem-saldo-negativo-na-geracao-de-empregos-em-junho.ghtml)_
+
+- **[2026-08-31 22:25 UTC]** Eleições 2026: Fábio do PSD diz que pretende ampliar programas de geração de empregos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-fabio-do-psd-diz-que-pretende-ampliar-programas-de-geracao-de-emprego-em-sergipe.ghtml)_
+
+- **[2026-09-01 11:00 UTC]** Caged: AC mantém saldo positivo pelo 6º mês seguido, mas julho tem 2ª menor geração de empregos no ano
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/caged-ac-mantem-saldo-positivo-pelo-6o-mes-seguido-mas-julho-tem-2a-menor-geracao-de-empregos-no-ano.ghtml)_
+
+- **[2026-09-01 17:14 UTC]** Geração de energia solar ultrapassa carvão em capacidade instalada na China pela 1ª vez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/geracao-de-energia-solar-ultrapassa-carvao-em-capacidade-instalada-na-china-pela-1a-vez.shtml)_
+
+- **[2026-09-01 19:21 UTC]** Democracia disfuncional e geração distribuída
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/jerson-kelman/2026/09/democracia-disfuncional-e-geracao-distribuida.shtml)_
+
+- **[2026-09-02 19:08 UTC]** Lucas Ribeiro defende expansão de áreas industriais e geração de empregos na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/02/lucas-ribeiro-defende-expansao-de-areas-industriais-e-geracao-de-empregos-na-paraiba.ghtml)_
+
+- **[2026-09-05 15:26 UTC]** Dário Barbosa participa de reunião com apoiadores em Natal e defende geração de emprego e renda
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/05/dario-barbosa-participa-de-reuniao-com-apoiadores-em-natal-e-defende-geracao-de-emprego-e-renda.ghtml)_
+
+- **[2026-09-07 05:00 UTC]** Aos 30 anos, geração acompanhada desde o nascimento tem alta da obesidade e dos transtornos mentais comuns, diz pesquisa no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/aos-30-anos-geracao-acompanhada-desde-o-nascimento-tem-alta-da-obesidade-e-dos-transtornos-mentais-comuns-diz-pesquisa-no-rs.ghtml)_
+
+- **[2026-09-08 18:23 UTC]** Aneel propõe ampliar controle sobre geração distribuída de energia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/aneel-propoe-ampliar-controle-sobre-geracao-distribuida-de-energia.shtml)_
+
+- **[2026-09-09 21:03 UTC]** Eleições 2026: Omar Aziz participa de entrevista e defende desenvolvimento sustentável para geração de empregos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-plano-de-governo-de-omar-aziz-defende-zoneamento-ecologico-e-assistencia-tecnica.ghtml)_
+
+- **[2026-09-10 09:06 UTC]** Eleições 2026: saiba quais são as propostas dos candidatos ao governo da Paraíba para geração de emprego
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-saiba-quais-sao-as-propostas-dos-candidatos-ao-governo-da-paraiba-para-geracao-de-emprego.ghtml)_
+
+- **[2026-09-10 10:28 UTC]** Jovem cria plataforma para ajudar nova geração de eleitores nas urnas
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/jovem-cria-plataforma-para-ajudar-nova-geracao-de-eleitores-nas-urnas)_
+
+- **[2026-09-11 12:15 UTC]** Alok aposta na geração Z para manter a pista viva no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/alok-aposta-na-geracao-z-para-manter-a-pista-viva-no-rock-in-rio.shtml)_
+

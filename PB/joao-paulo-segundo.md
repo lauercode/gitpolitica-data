@@ -104,3 +104,129 @@
 - **[2026-08-30 16:21 UTC]** 'Fui sequestrada pela Coreia do Norte e forçada a casar com um soldado americano'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zwzrlprjo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-31 15:45 UTC]** Alan Rick promete melhorias em mobilidade urbana durante caminhada no Segundo Distrito de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/alan-rick-promete-melhorias-em-mobilidade-urbana-durante-caminhada-no-segundo-distrito-de-rio-branco.ghtml)_
+
+- **[2026-08-29 22:56 UTC]** Amapá lidera crescimento proporcional de emprego formal no país, segundo Caged
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/29/amapa-lidera-crescimento-proporcional-de-emprego-formal-no-pais-segundo-caged.ghtml)_
+
+- **[2026-08-27 14:34 UTC]** Praga da vassoura-de-bruxa atinge 15 dos 16 municípios do Amapá, segundo Diagro
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/praga-da-vassoura-de-bruxa-atinge-15-dos-16-municipios-do-amapa-segundo-diagro.ghtml)_
+
+- **[2026-08-21 07:01 UTC]** Qualidade e densidade do petróleo vão definir próximos passos de exploração na costa do Amapá, segundo Petrobras
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/21/qualidade-e-densidade-do-petroleo-vao-definir-proximos-passos-de-exploracao-na-costa-do-amapa-segundo-petrobras.ghtml)_
+
+- **[2026-08-31 20:01 UTC]** Manaus marca 37,3ºC e atinge novo recorde de temperatura no ano, segundo Inmet
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/manaus-marca-373oc-e-atinge-novo-recorde-de-temperatura-no-ano-segundo-inmet.ghtml)_
+
+- **[2018-07-10 14:50 UTC]** Mesmo em isolamento, Geddel mantém indisciplina, segundo presídio; juíza cobra investigação sobre remédios em cela
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/blog/andreia-sadi/post/2018/07/10/mesmo-em-isolamento-geddel-mantem-indisciplina-juiza-cobra-investigacao-sobre-remedios-em-cela.ghtml)_
+
+- **[2018-03-07 22:08 UTC]** CNH Social tem 16 mil inscritos no 1º dia, segundo o Detran-ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/cnh-social-tem-16-mil-inscritos-no-1-dia-segundo-o-detran-es.ghtml)_
+
+- **[2017-04-10 18:21 UTC]** PT de Campo Grande tem segundo turno entre grupos de Zeca e Biffi
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/pt-de-campo-grande-tem-segundo-turno-entre-grupos-de-zeca-e-biffi.ghtml)_
+
+- **[2018-07-18 12:35 UTC]** Falha geológica pode ter causado tremor em Poços de Caldas, segundo UnB
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/2018/07/18/falha-geologica-pode-ter-causado-tremor-em-pocos-de-caldas-segundo-unb.ghtml)_
+
+- **[2018-04-26 18:30 UTC]** Surdos unilaterais podem ser considerados Pessoas Com Deficiência, segundo um projeto de lei
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/mao-na-roda/post/surdos-unilaterais-podem-ser-considerados-pessoas-com-deficiencia-segundo-um-projeto-de-l.html)_
+
+- **[2018-07-11 16:51 UTC]** IFPE divulga listão de aprovados no  vestibular do segundo semestre de 2018
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/educacao/noticia/ifpe-divulga-listao-de-aprovados-no-vestibular-do-segundo-semestre-de-2018.ghtml)_
+
+- **[2026-08-21 20:18 UTC]** Homem é preso por homicídio em Porto Velho; segundo suspeito é procurado
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/21/homem-e-preso-por-homicidio-em-porto-velho-segundo-suspeito-e-procurado.ghtml)_
+
+- **[2026-09-01 09:13 UTC]** PIB do Brasil cresce 0,5% no segundo trimestre, mostra IBGE
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge)_
+
+- **[2026-09-01 09:01 UTC]** PIB do Brasil desacelera e cresce 0,5% no segundo trimestre; consumo recua sob juros altos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pib-do-brasil-desacelera-a-05-no-segundo-trimestre.shtml)_
+
+- **[2026-09-01 13:01 UTC]** PIB brasileiro tem 5º maior crescimento no segundo trimestre
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-brasileiro-tem-5o-maior-crescimento-no-segundo-trimestre)_
+
+- **[2026-09-01 12:33 UTC]** PIB do Brasil cresce 0,5% no segundo trimestre de 2026
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-de-2026)_
+
+- **[2026-09-01 18:23 UTC]** Esposa de Moraes tinha segundo contrato com empresa de Vorcaro; banqueiro tentou pagar R$ 50 mi com aeronaves
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/esposa-de-moraes-tinha-segundo-contrato-com-empresa-de-vorcaro-banqueiro-tentou-pagar-r-50-mi-com-aeronaves.ghtml)_
+
+- **[2026-09-01 17:49 UTC]** A primeira pesquisa a testar segundo turno com Augusto Cury
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/primeira-pesquisa-a-testar-segundo-turno-com-augusto-cury/)_
+
+- **[2026-09-01 20:38 UTC]** Manaus marca 37,6ºC e bate recorde de temperatura pelo segundo dia consecutivo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/manaus-marca-376oc-e-bate-recorde-de-temperatura-pelo-segundo-dia-consecutivo.ghtml)_
+
+- **[2026-09-01 18:23 UTC]** PF diz que esposa de Moraes tinha segundo contrato com empresa de Vorcaro, o que ela nega; banqueiro tentou pagar R$ 50 mi com aeronaves
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/esposa-de-moraes-tinha-segundo-contrato-com-empresa-de-vorcaro-banqueiro-tentou-pagar-r-50-mi-com-aeronaves.ghtml)_
+
+- **[2026-09-02 03:00 UTC]** Contratos milionários, experiências de luxo e viagem a Londres: o que Vorcaro ofereceu a Moraes e sua família, segundo a PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/que-vorcaro-ofereceu-a-moraes-e-sua-familia-segundo-a-pf.ghtml)_
+
+- **[2026-09-02 11:52 UTC]** INFOGRÁFICO: veja mensagens que Vorcaro mandou a número atribuído a Moraes antes de ser preso, segundo PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/infografico-mensagens-vorcaro-moraes-segundo-pf.ghtml)_
+
+- **[2026-09-02 15:56 UTC]** Alemanha registra segundo ato de sabotagem em semana de eleições decisivas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/alemanha-registra-segundo-ato-de-sabotagem-em-semana-de-eleicoes-decisivas.shtml)_
+
+- **[2026-09-02 17:14 UTC]** Viagens, jato e helicóptero: o que Vorcaro ofereceu a Alexandre de Moraes, segundo PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/viagens-jato-e-helicoptero-o-que-vorcaro-ofereceu-a-alexandre-de-moraes-segundo-pf.shtml)_
+
+- **[2026-09-03 00:01 UTC]** SP e RJ têm a pior percepção de melhoria da educação em 4 anos, segundo pesquisa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/sp-e-rj-tem-a-pior-percepcao-de-melhoria-da-educacao-em-4-anos-segundo-pesquisa.shtml)_
+
+- **[2026-09-03 04:00 UTC]** 85% das notas fiscais estão adaptadas à reforma tributária, segundo a Receita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/85-das-notas-fiscais-estao-adaptadas-a-reforma-tributaria-segundo-a-receita.shtml)_
+
+- **[2026-08-10 18:14 UTC]** 'Fino', dinheiro e coragem: como apps exploram 'provas de masculinidade' dos entregadores, segundo sociólogo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cd0mx921jyeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-04 07:00 UTC]** Rock in Rio 2026: os melhores e os piores dias segundo a astrologia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/rock-in-rio-2026-os-melhores-e-os-piores-dias-segundo-a-astrologia.shtml)_
+
+- **[2026-09-04 18:38 UTC]** Alcolumbre considera votar fim da 6x1 antes do segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/alcolumbre-considera-votar-fim-da-6x1-antes-do-segundo-turno.shtml)_
+
+- **[2026-09-06 05:00 UTC]** RS é o estado com mais indecisos na eleição para presidente, segundo a Quaest
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/06/rs-e-o-estado-com-mais-indecisos-na-eleicao-para-presidente-segundo-a-quaest.ghtml)_
+
+- **[2026-09-07 10:38 UTC]** Frio marca início do feriado de 7 de Setembro no Paraná, com temperaturas abaixo de 0°C, segundo o Simepar; veja a previsão
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/07/frio-feriado-parana-tempo.ghtml)_
+
+- **[2026-09-07 14:15 UTC]** Augusto Cury diz que é o pesadelo de Lula e promete “aposentar” o petista se chegar ao segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-diz-que-e-o-pesadelo-de-lula-e-promete-aposentar-o-petista-se-chegar-ao-segundo-turno/)_
+
+- **[2026-09-08 11:45 UTC]** Quais países da América Latina têm educação melhor do que o Brasil, segundo o ranking Pisa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/quais-paises-da-america-latina-tem-educacao-melhor-do-que-o-brasil-segundo-o-ranking-pisa.shtml)_
+
+- **[2026-09-09 10:01 UTC]** Lula e Flávio Bolsonaro empatam no primeiro e no segundo turno, diz pesquisa Meio/Ideia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-e-flavio-bolsonaro-empatam-no-primeiro-e-no-segundo-turno-diz-pesquisa-meioideia.shtml)_
+
+- **[2026-09-09 12:28 UTC]** Professores mantêm greve em Sergipe e ocupam sede da Secretaria da Educação pelo segundo dia
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/professores-mantem-greve-em-sergipe-e-ocupam-sede-da-secretaria-da-educacao-pelo-segundo-dia.ghtml)_
+
+- **[2026-09-09 18:19 UTC]** Houthis atacam cidades do sul da Arábia Saudita pelo segundo dia consecutivo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/houthis-atacam-cidades-do-sul-da-arabia-saudita-pelo-segundo-dia-consecutivo.shtml)_
+
+- **[2026-09-10 13:30 UTC]** Lula x Rubio? EUA não parabenizam Brasil pelo 7 de Setembro pelo segundo ano seguido
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/lula-x-rubio-eua-nao-parabenizam-brasil-7-setembro-segundo-ano-seguido/)_
+
+- **[2026-09-10 15:24 UTC]** Faturamento da indústria cai 2% em julho, segundo CNI
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/faturamento-da-industria-cai-2-em-julho-segundo-cni)_
+
+- **[2026-09-10 17:48 UTC]** Fachin cancela, pelo segundo dia consecutivo, sessão plenária do STF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-cancela-pelo-segundo-dia-consecutivo-sessao-plenaria-do-stf)_
+
+- **[2026-09-11 12:42 UTC]** Júri de acusados de envolvimento na morte de comerciante em Aracaju entra no segundo dia
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/juri-de-acusados-de-envolvimento-na-morte-de-comerciante-em-aracaju-entra-no-segundo-dia.ghtml)_
+
+- **[2026-09-11 20:11 UTC]** Datafolha no DF: veja as intenções de voto para o segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/11/datafolha-df-governador-segundo-turno-11-setembro.ghtml)_
+
+- **[2026-09-11 19:14 UTC]** Master 'NUNCA deixará de ser o SEU banco', disse ex-presidente do BRB a Vorcaro, segundo relatório da PF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/noticia/2026/09/11/o-master-nunca-deixara-de-ser-o-seu-banco-disse-ex-presidente-do-brb-a-vorcaro-segundo-relatorio-da-pf.ghtml)_
+

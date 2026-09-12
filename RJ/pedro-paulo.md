@@ -353,3 +353,30 @@
 - **[2026-08-30 12:00 UTC]** Viadutos de acesso à zona leste devem ser demolidos após correção de tombamento no centro histórico de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/viadutos-de-acesso-a-zona-leste-devem-ser-demolidos-apos-correcao-de-tombamento-no-centro-historico-de-sp.shtml)_
 
+- **[2026-08-24 22:50 UTC]** Quaest em AL: 56% aprovam e 28% desaprovam governo de Paulo Dantas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/24/quaest-al-avaliacao-governo-24-agosto.ghtml)_
+
+- **[2018-02-09 22:20 UTC]** JN embarca na nave espacial do carnavalesco Paulo Barros
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/jornal-nacional/noticia/2018/02/jn-embarca-na-nave-espacial-do-carnavalesco-paulo-barros.html)_
+
+- **[2026-08-25 22:25 UTC]** Quaest para o Senado no TO: Eduardo Gomes, 14%; Gaguim, 13%; Paulo Mourão, 9%; Alexandre Guimarães, 8%
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-senado-25-de-agosto.ghtml)_
+
+- **[2026-09-01 14:28 UTC]** Vorcaro disse a diretor do BC que Alexandre de Moraes daria 'aperto no Paulo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/vorcaro-disse-a-diretor-do-bc-que-alexandre-de-moraes-daria-aperto-no-paulo.shtml)_
+
+- **[2026-09-07 15:30 UTC]** Tive que ir relembrando como fazer, diz Paulo Vilhena sobre retorno às novelas após oito anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/tive-que-ir-relembrando-como-fazer-diz-paulo-vilhena-sobre-retorno-as-novelas-apos-oito-anos.shtml)_
+
+- **[2026-09-08 11:05 UTC]** Após sucesso de 'Pablo e Luisão', Globo muda programa de Paulo Vieira para as terças-feiras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/apos-sucesso-de-pablo-e-luisao-globo-muda-programa-de-paulo-vieira-para-as-tercas-feiras.shtml)_
+
+- **[2026-09-08 16:39 UTC]** Paulo Miklos anuncia show em SP de seu álbum solo, com covers de 'Evidências' e 'Saudosa Maloca'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/09/paulo-miklos-anuncia-show-em-sp-de-seu-album-solo-com-covers-de-evidencias-e-saudosa-maloca.shtml)_
+
+- **[2026-09-10 06:05 UTC]** OAB exige que Paulo Gonet deixe investigação sobre Alexandre de Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-exige-que-paulo-gonet-deixe-investigacao-sobre-alexandre-de-moraes-no-stf/)_
+
+- **[2026-09-11 20:12 UTC]** Datafolha para o Senado no RJ: Benedita, 18%; Carlos Jordy, 10%; Carlos Portinho, 10%; Pedro Paulo, 7%; Marcelo Crivella, 7%; Mônica Benício, 6%
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/11/datafolha-no-rj-senado-11-setembro.ghtml)_
+

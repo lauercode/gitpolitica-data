@@ -44,3 +44,15 @@
 - **[2026-08-23 03:00 UTC]** Forças partidárias: o que esperar das eleições deste ano?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/forcas-partidarias-o-que-esperar-das-eleicoes-deste-ano.ghtml)_
 
+- **[2026-09-03 18:01 UTC]** Cury foi conselheiro de Marina Silva quando ela disputou a Presidência pela primeira vez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cury-foi-conselheiro-de-marina-silva-quando-ela-disputou-a-presidencia-pela-primeira-vez.shtml)_
+
+- **[2026-09-04 19:57 UTC]** Marina Silva defende fim de emendas impositivas e diz que recursos deveriam priorizar transformação ecológica
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/04/marina-silva-defende-fim-de-emendas-impositivas-e-diz-que-recursos-deveriam-priorizar-transformacao-ecologica.ghtml)_
+
+- **[2026-09-08 20:05 UTC]** Quaest para o Senado em SP: Marina Silva, 14%; Derrite, 14%; Simone Tebet, 12%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/08/quaest-sp-senado-8-setembro.ghtml)_
+
+- **[2026-09-11 20:04 UTC]** Datafolha para o Senado em SP: Marina Silva, 13%; Simone Tebet, 13%; André do Prado, 11% e Derrite, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/11/datafolha-sp-senado-11-setembro.ghtml)_
+

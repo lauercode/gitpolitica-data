@@ -29,3 +29,186 @@
 - **[2026-08-30 10:55 UTC]** O país que enfrenta a escassez de água com sistemas hídricos abandonados há centenas de anos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c78064pyzdzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-31 12:10 UTC]** Governo Lula exige água gratuita em grandes eventos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-lula-exige-agua-gratuita-em-grandes-eventos.shtml)_
+
+- **[2026-08-31 17:01 UTC]** Após queda do sistema Cantareira para 33% em agosto, Tarcísio descarta rodízio ou racionamento de água em SP durante estiagem
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/08/31/apos-queda-do-sistema-cantareira-para-33percent-em-agosto-tarcisio-descarta-rodizio-ou-racionamento-de-agua-em-sp-durante-estiagem.ghtml)_
+
+- **[2026-08-31 12:10 UTC]** Governo Lula exigirá água gratuita em grandes eventos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-lula-exige-agua-gratuita-em-grandes-eventos.shtml)_
+
+- **[2026-08-27 17:00 UTC]** Abastecimento de água deve ser paralisado para manutenção em estação de tratamento de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/abastecimento-de-agua-deve-ser-paralisado-para-manutencao-em-estacao-de-tratamento-de-rio-branco.ghtml)_
+
+- **[2026-08-28 19:26 UTC]** Falta de água: manutenção afeta bairros de Maceió e Rio Largo; veja locais
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/28/falta-de-agua-manutencao-afeta-bairros-de-maceio-e-rio-largo-veja-locais.ghtml)_
+
+- **[2026-08-17 11:10 UTC]** PM é baleado na cabeça por policial de folga após discussão em Água Preta
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/pe/caruaru-regiao/noticia/2026/08/17/pm-e-baleado-na-cabeca-por-policial-de-folga-apos-discussao-em-agua-preta.ghtml)_
+
+- **[2026-08-17 10:32 UTC]** Manutenção em redes de captação pode deixar conjuntos de Rio Largo e 20 bairros de Maceió sem água
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/17/manutencao-em-redes-de-captacao-pode-deixar-conjuntos-de-rio-largo-e-20-bairros-de-maceio-sem-agua.ghtml)_
+
+- **[2026-08-28 14:24 UTC]** Mais de 20 bairros terão fornecimento de água interrompido em Macapá; veja lista
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/mais-de-20-bairros-terao-fornecimento-de-agua-interrompido-em-macapa-veja-lista.ghtml)_
+
+- **[2026-08-27 08:05 UTC]** Casal do AP cruza América do Sul de moto e encara frio nos Andes: 'água congelou nos recipientes'
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/casal-do-ap-cruza-america-do-sul-de-moto-e-encara-frio-nos-andes-agua-congelou-nos-recipientes.ghtml)_
+
+- **[2026-08-31 13:43 UTC]** Vazamento de água causa interdição de faixa da Avenida Rodrigo Otávio, em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/vazamento-de-agua-interdita-faixa-da-avenida-rodrigo-otavio-em-manaus.ghtml)_
+
+- **[2026-08-28 16:49 UTC]** Homem fica pendurado dentro de caixa d’água por 40 minutos em Manaus; veja resgate
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/homem-fica-pendurado-dentro-de-caixa-dagua-por-40-minutos-em-manaus-veja-resgate.ghtml)_
+
+- **[2017-08-25 22:18 UTC]** Vídeo feito em maio mostra passageiros de lancha em pânico após água entrar em embarcação na Bahia
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/video-feito-em-maio-mostra-passageiros-de-lancha-em-panico-apos-agua-entrar-em-embarcacao-na-bahia.ghtml)_
+
+- **[2018-01-16 21:04 UTC]** Entrevista G1: Um ano de racionamento de água
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/df/distrito-federal/ao-vivo/entrevista-g1-df-um-ano-de-racionamento-de-agua.ghtml)_
+
+- **[2017-08-02 11:19 UTC]** Após vazamento em adutora, corte de água é antecipado na Asa Norte, DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-vazamento-em-adutora-corte-de-agua-e-antecipado-na-asa-norte-df.ghtml)_
+
+- **[2017-03-25 14:48 UTC]** Descontos na conta de água para quem economizou em 2016 beneficiam mais de 500 mil moradores do DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/descontos-na-conta-de-agua-para-quem-economizou-em-2016-beneficiam-mais-de-500-mil-moradores-do-df.ghtml)_
+
+- **[2018-07-13 21:33 UTC]** Conta de água no ES tem reajuste de 3,89% autorizado a partir de agosto
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/conta-de-agua-no-es-tem-reajuste-de-389-autorizado-a-partir-de-agosto.ghtml)_
+
+- **[2026-08-31 17:40 UTC]** Parada programada da Caema afeta abastecimento de água em bairros de São Luís nesta terça-feira (1º)
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/31/parada-programada-da-caema-afeta-abastecimento-de-agua-em-bairros-de-sao-luis-nesta-terca-feira-1o.ghtml)_
+
+- **[2018-07-07 16:58 UTC]** Com investimentos de R$ 675 milhões fábrica de MDF, em Água Clara, chega para 'brigar' com gigantes do setor
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/com-investimentos-de-r-675-milhoes-fabrica-de-mdf-em-agua-clara-chega-para-brigar-com-gigantes-do-setor.ghtml)_
+
+- **[2026-08-27 18:13 UTC]** Água quente pode dar caspa? Descubra e aprenda a tratar o problema
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/08/27/agua-quente-pode-dar-caspa-descubra-e-aprenda-a-tratar-o-problema.ghtml)_
+
+- **[2026-08-27 12:27 UTC]** Redes de água e energia elétrica chegam a mais ruas do Jardim Israelense
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/municipio-de-araucaria/araucaria-noticias/noticia/2026/08/27/redes-de-agua-e-energia-eletrica-chegam-a-mais-ruas-do-jardim-israelense.ghtml)_
+
+- **[2026-08-31 15:16 UTC]** Bebê de 1 ano morre após ser encontrado dentro de balde com água no interior do RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/31/bebe-morte-encontrado-balde-agua-rn.ghtml)_
+
+- **[2026-08-29 00:32 UTC]** VÍDEO: Caixa d'água despenca de prédio abandonado e fica suspensa em fios no Centro de Porto Alegre após ventania
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/video-caixa-dagua-despenca-predio-abandonado-fios-centro-porto-alegre-ventania.ghtml)_
+
+- **[2026-08-29 14:41 UTC]** Bois são abandonados sem água e comida na fronteira em Roraima e motorista é multado em R$ 37 mil
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/bois-sao-abandonados-sem-agua-e-comida-na-fronteira-em-roraima-e-motorista-e-multado-em-r-37-mil.ghtml)_
+
+- **[2026-08-27 13:15 UTC]** Condenado por estuprar vizinha de 12 anos após vítima pedir água é preso em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/27/condenado-por-estuprar-vizinha-de-12-anos-apos-vitima-pedir-agua-e-preso-em-boa-vista.ghtml)_
+
+- **[2026-08-28 19:11 UTC]** VÍDEO: 'onda' de água e lama invade loja e assusta funcionários após adutora romper em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/onda-invade-loja-assusta-funcionarios-adutora-romper-sc.ghtml)_
+
+- **[2026-08-27 19:54 UTC]** Litros de água jorram para o alto na rua após rompimento de adutora na Grande Florianópolis; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/litros-agua-jorram-alto-rua-rompimento-adutora-sao-jose-video.ghtml)_
+
+- **[2026-08-24 19:39 UTC]** Rompimento de adutora interrompe abastecimento de água em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/rompimento-de-adutora-interrompe-abastecimento-de-agua-em-nossa-senhora-do-socorro.ghtml)_
+
+- **[2026-08-31 13:51 UTC]** Moradora chama atenção ao oferecer água a cavalos durante cavalgada no TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/31/moradora-chama-atencao-ao-oferecer-agua-a-cavalos-durante-cavalgada-no-to-video.ghtml)_
+
+- **[2026-08-26 11:00 UTC]** MPTO aponta falhas no fornecimento de água em Araguaína e pede R$ 1 milhão em danos morais coletivos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/mpto-aponta-falhas-no-fornecimento-de-agua-em-araguaina-e-pede-r-1-milhao-em-danos-morais-coletivos.ghtml)_
+
+- **[2026-08-31 19:17 UTC]** Lula assina decretos para combater cambistas digitais e exigir água gratuita em shows
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/lula-assina-decretos-para-combater-cambistas-digitais-e-exigir-agua-gratuita-em-shows.shtml)_
+
+- **[2026-09-01 03:00 UTC]** Água gratuita, freio ao cambismo e taxa visível: veja o que muda nos ingressos com novo decreto sobre shows
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/agua-gratuita-freio-ao-cambismo-e-taxa-visivel-veja-o-que-muda-nos-ingressos-com-novo-decreto-sobre-shows.ghtml)_
+
+- **[2026-09-01 05:00 UTC]** Cientistas usam 'impressão digital' da água para mapear alterações nas chuvas da amazônia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/cientistas-usam-impressao-digital-da-agua-para-mapear-alteracoes-nas-chuvas-da-amazonia.shtml)_
+
+- **[2026-09-01 09:40 UTC]** Novas regras para venda de ingressos e acesso à água em eventos
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/novas-regras-para-venda-de-ingressos-e-acesso-agua-em-eventos)_
+
+- **[2026-09-01 18:33 UTC]** Mulher é presa suspeita de falsificar documentos para contratar serviços de água, luz e internet em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/01/mulher-e-presa-suspeita-de-falsificar-documentos-para-contratar-servicos-de-agua-luz-e-internet-em-manaus.ghtml)_
+
+- **[2026-09-01 16:01 UTC]** Jovem morre após ser esfaqueada em Água Doce do Maranhão; adolescente supeito do crime foi apreendido
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/jovem-morre-apos-ser-esfaqueada-em-agua-doce-do-maranhao-adolescente-supeito-do-crime-foi-apreendido.ghtml)_
+
+- **[2026-09-01 18:56 UTC]** Sabesp mantém redução noturna da pressão da água em 8 horas em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sabesp-mantem-reducao-noturna-da-pressao-da-agua-em-8-horas-em-sao-paulo.shtml)_
+
+- **[2026-09-02 11:59 UTC]** Jovem morta com 21 facadas após deixar escola é sepultada em Água Doce do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/jovem-morta-a-facadas-apos-deixar-escola-e-sepultada-em-agua-doce-do-maranhao.ghtml)_
+
+- **[2026-09-01 16:01 UTC]** Jovem morre após ser esfaqueada em Água Doce do Maranhão; adolescente suspeito do crime foi apreendido
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/jovem-morre-apos-ser-esfaqueada-em-agua-doce-do-maranhao-adolescente-supeito-do-crime-foi-apreendido.ghtml)_
+
+- **[2026-09-02 12:21 UTC]** Anvisa interdita água mineral da marca Vitoriosa por conter coliformes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-interdita-agua-mineral-da-marca-vitoriosa-por-conter-coliformes)_
+
+- **[2026-09-02 11:59 UTC]** Jovem morta com 21 facadas é sepultada em Água Doce do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/02/jovem-morta-a-facadas-apos-deixar-escola-e-sepultada-em-agua-doce-do-maranhao.ghtml)_
+
+- **[2026-09-02 18:02 UTC]** Anvisa interdita lote de água mineral Vitoriosa após detectar coliformes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anvisa-interdita-lote-de-agua-mineral-vitoriosa-apos-detectar-coliformes.shtml)_
+
+- **[2026-09-02 17:59 UTC]** Água invadiu túnel e precisei correr por 20 minutos, diz trabalhador nepalês que sobreviveu à enchente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/agua-invadiu-tunel-e-precisei-correr-por-20-minutos-diz-trabalhador-nepales-que-sobreviveu-a-enchente.shtml)_
+
+- **[2026-09-02 20:38 UTC]** Anvisa determina interdição de água mineral sem gás da marca Vitoriosa
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/anvisa-determina-interdicao-da-agua-mineral-sem-gas-da-marca-vitoriosa)_
+
+- **[2026-09-03 09:00 UTC]** Lagoa conhecida como ‘Espelho d’Água’ encanta pelas belezas naturais no interior do TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/lagoa-conhecida-como-espelho-dagua-encanta-pelas-belezas-naturais-no-interior-do-to-video.ghtml)_
+
+- **[2026-09-03 12:56 UTC]** Rio Tietê fica com a água escura na região de Salto (SP)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/rio-tiete-fica-com-a-agua-escura-na-regiao-de-salto-sp.shtml)_
+
+- **[2026-09-03 22:30 UTC]** Araceli Lemos promete rever contrato com concessionária de água e criar nova companhia estadual, se for eleita no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/03/araceli-lemos-promete-rever-contrato-com-concessionaria-de-agua-e-criar-nova-companhia-estadual-se-for-eleita-no-para.ghtml)_
+
+- **[2026-09-04 00:40 UTC]** Polícia encontra punhal que teria sido usado no assassinato da adolescente Bruna Loiola em Água Doce
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/policia-encontra-punhal-que-teria-sido-usado-no-assassinato-da-adolescente-bruna-loiola-em-agua-doce.ghtml)_
+
+- **[2026-09-04 11:30 UTC]** Moradores fazem abaixo-assinado para cobrar fim da falta de água em bairro e escola de Uiramutã
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/04/moradores-fazem-abaixo-assinado-para-cobrar-fim-da-falta-de-agua-em-bairro-e-escola-de-uiramuta.ghtml)_
+
+- **[2026-09-04 15:55 UTC]** Para driblar calor intenso, professor coloca barra de gelo em caixa d’água no Acre; veja VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/para-driblar-calor-intenso-professor-coloca-barra-de-gelo-em-caixa-dagua-no-acre-veja-video.ghtml)_
+
+- **[2026-09-05 04:00 UTC]** ANP quer licitar área onde agricultor achou petróleo ao buscar água no Ceará
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anp-quer-licitar-area-onde-agricultor-achou-petroleo-ao-buscar-agua-no-ceara.shtml)_
+
+- **[2026-09-05 19:40 UTC]** ‘Muito gratificante’, diz brigadista que resgatou filhote de veado de incêndio e deu água ao animal; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/muito-gratificante-diz-brigadista-que-resgatou-filhote-de-veado-de-incendio-e-deu-agua-ao-animal-video.ghtml)_
+
+- **[2026-09-06 12:28 UTC]** Sem luz, água, nem transporte: as frustrações da minha vida em Cuba e seus apagões
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c74ekv4emn9o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-08 19:25 UTC]** Rompimento de adutora afeta abastecimento de água em bairro de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/rompimento-de-adutora-afeta-abastecimento-de-agua-em-bairro-de-rio-branco.ghtml)_
+
+- **[2026-09-09 00:31 UTC]** Well Macedo, do PSTU, propõe reestatizar a Cosanpa e tarifa zero de água no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/08/well-macedo-do-pstu-propoe-reestatizar-a-cosanpa-e-tarifa-zero-de-agua-no-para.ghtml)_
+
+- **[2026-09-09 12:21 UTC]** Indígenas denunciam contaminação na água que abastece aldeia no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/indigenas-denunciam-contaminacao-na-agua-que-abastece-aldeia-no-to.ghtml)_
+
+- **[2026-09-09 20:36 UTC]** Abastecimento de água em Nossa Senhora do Socorro é comprometido após rompimento de adutora
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/abastecimento-de-agua-em-nossa-senhora-do-socorro-e-comprometido-apos-rompimento-de-adutora.ghtml)_
+
+- **[2026-09-10 00:35 UTC]** Hana Ghassan promete ampliar saneamento e cobrar metas de concessionária de água no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/09/hana-ghassan-promete-ampliar-saneamento-e-cobrar-metas-de-concessionaria-de-agua-no-para.ghtml)_
+
+- **[2026-09-09 20:36 UTC]** Abastecimento de água na Grande Aracaju é comprometido após rompimento de adutora
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/abastecimento-de-agua-em-nossa-senhora-do-socorro-e-comprometido-apos-rompimento-de-adutora.ghtml)_
+
+- **[2026-09-11 17:05 UTC]** Moradores usam aspirador de pó e até a boca para sugar água da tubulação por falhas no abastecimento em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/moradores-aspirador-po-sugar-agua-tubulacao-sem-abastecimento-palhoca.ghtml)_
+
+- **[2026-09-11 20:05 UTC]** VÍDEOS flagram carros arrastados e supermercado 'debaixo d'água' durante temporal em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/videos-carros-arrastados-supermercado-debaixo-dagua-emporal-joacaba.ghtml)_
+
+- **[2026-09-11 21:36 UTC]** Justiça suspende reajuste de 5,52% na tarifa de água em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/11/justica-suspende-reajuste-de-552percent-na-tarifa-de-agua-em-manaus.ghtml)_
+

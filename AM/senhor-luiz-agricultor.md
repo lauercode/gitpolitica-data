@@ -5,3 +5,15 @@
 
 ## Histórico
 
+- **[2026-09-03 09:00 UTC]** Agricultor é indiciado por não socorrer jovem que morreu em acidente de moto no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
+
+- **[2026-09-05 04:00 UTC]** ANP quer licitar área onde agricultor achou petróleo ao buscar água no Ceará
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/anp-quer-licitar-area-onde-agricultor-achou-petroleo-ao-buscar-agua-no-ceara.shtml)_
+
+- **[2026-09-07 13:44 UTC]** Agricultor atropelado por advogado em saída de feira agropecuária recebe alta no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/agricultor-atropelado-por-advogado-em-saida-de-feira-agropecuaria-recebe-alta-no-acre.ghtml)_
+
+- **[2026-09-09 19:56 UTC]** Polícia conclui inquérito e indicia sete PMs por morte de agricultor a tiros dentro de casa no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/policia-conclui-inquerito-indicia-pms-morte-agricultor-tiros-casa-pelotas-rs.ghtml)_
+

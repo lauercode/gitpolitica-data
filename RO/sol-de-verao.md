@@ -8,3 +8,21 @@
 - **[2026-08-27 13:15 UTC]** Sumô adota medidas para enfrentar o calor intenso do verão japonês
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/sumo-adota-medidas-para-enfrentar-o-calor-intenso-do-verao-japones.shtml)_
 
+- **[2017-12-18 04:59 UTC]** Festival de Verão de Salvador 2017
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/festival-de-verao/2017/ao-vivo.ghtml)_
+
+- **[2026-08-27 21:09 UTC]** Vestibular de Verão Udesc 2027 abre mais de 900 vagas; veja cursos, locais de prova e mais
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/vestibular-verao-udesc-2027-mais-900-vagas.ghtml)_
+
+- **[2026-09-02 03:00 UTC]** Aeroporto de Florianópolis terá voo direto para Assunção, no Paraguai, no verão; veja o que se sabe
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/aeroporto-de-florianopolis-tera-voo-direto-para-assuncao-no-paraguai-no-verao-veja-o-que-se-sabe.ghtml)_
+
+- **[2026-09-03 10:00 UTC]** Calor extremo no verão francês antecipa colheita de uvas em Champanhe
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/09/calor-extremo-no-verao-frances-antecipa-colheita-de-uvas-em-champanhe.shtml)_
+
+- **[2026-09-09 09:00 UTC]** Club Vittar, projeto de Pabllo Vittar como DJ, anuncia temporada de verão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/club-vittar-projeto-de-pabllo-vittar-como-dj-anuncia-temporada-de-verao.shtml)_
+
+- **[2026-09-09 16:54 UTC]** Estados Unidos tiveram verão mais quente em 132 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/estados-unidos-tiveram-verao-mais-quente-em-132-anos.shtml)_
+

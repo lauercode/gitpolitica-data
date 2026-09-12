@@ -17,3 +17,69 @@
 - **[2026-08-29 16:43 UTC]** Após ação contra Discord, Justiça marca audiência entre plataforma e governo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/apos-acao-contra-discord-justica-marca-audiencia-entre-plataforma-e-governo/)_
 
+- **[2026-08-30 12:30 UTC]** Por que o risco de AVC aumenta após picada de cobra? Estudo investiga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/por-que-o-risco-de-avc-aumenta-apos-picada-de-cobra-estudo-investiga.shtml)_
+
+- **[2026-08-22 16:46 UTC]** Após 10 meses, caminhada cobra Justiça por mulher esquartejada pelo vizinho no interior do AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/22/apos-10-meses-caminhada-cobra-justica-por-mulher-esquartejada-pelo-vizinho-no-interior-do-ap.ghtml)_
+
+- **[2018-07-10 14:50 UTC]** Mesmo em isolamento, Geddel mantém indisciplina, segundo presídio; juíza cobra investigação sobre remédios em cela
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/politica/blog/andreia-sadi/post/2018/07/10/mesmo-em-isolamento-geddel-mantem-indisciplina-juiza-cobra-investigacao-sobre-remedios-em-cela.ghtml)_
+
+- **[2026-08-31 19:27 UTC]** Justiça de SP devolve pedido sobre produtora de 'Dark Horse' e cobra provas da polícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/justica-de-sp-devolve-pedido-sobre-produtora-de-dark-horse-e-cobra-provas-da-policia.shtml)_
+
+- **[2026-09-01 19:25 UTC]** OAB cobra investigação “rigorosa” sobre relação de Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oab-cobra-investigacao-rigorosa-sobre-relacao-de-vorcaro-e-moraes/)_
+
+- **[2026-09-02 16:07 UTC]** Flávio sobe à tribuna do Senado e cobra impeachment de Moraes imediatamente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-sobe-a-tribuna-do-senado-e-cobra-impeachment-de-moraes-imediatamente/)_
+
+- **[2026-09-03 09:00 UTC]** Mãe de jovem assassinado por empresário na saída de motel cobra Justiça quatro anos depois: 'Um pedaço de mim morreu'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/mae-de-jovem-assassinado-por-empresario-na-saida-de-motel-cobra-justica-quatro-anos-depois-um-pedaco-de-mim-morreu.ghtml)_
+
+- **[2026-09-03 15:39 UTC]** Osmar Terra critica lobby da cannabis e cobra Congresso após caso envolvendo Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/osmar-terra-critica-lobby-cannabis-cobra-congresso-caso-envolvendo-lulinha/)_
+
+- **[2026-09-03 19:40 UTC]** Osmar Terra denuncia lobby da maconha e cobra apuração sobre Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/osmar-terra-denuncia-lobby-da-maconha-e-cobra-apuracao-sobre-lulinha/)_
+
+- **[2026-09-03 20:45 UTC]** Lula diz que todos devem ser investigados e cobra PGR e STF por resolução de caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-todos-devem-ser-investigados-e-cobra-pgr-e-stf-por-resolucao-de-caso-master.shtml)_
+
+- **[2026-09-05 10:02 UTC]** Chacina de Pioz: tio de assassino de família da PB morta na Espanha diz que perdoa sobrinho e cobra justiça por suposto auxílio
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/05/chacina-de-pioz-tio-de-assassino-de-familia-da-pb-morta-na-espanha-diz-que-perdoa-sobrinho-e-cobra-justica-por-suposto-auxilio.ghtml)_
+
+- **[2026-09-05 17:16 UTC]** Ator de 'Quem Ama Cuida' cobra segurança no Rock in Rio e aponta homofobia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ator-de-quem-ama-cuida-cobra-seguranca-no-rock-in-rio-e-aponta-homofobia.shtml)_
+
+- **[2026-09-06 18:00 UTC]** MPF reforça pedido do governo federal e cobra medidas urgentes do Discord
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mpf-reforca-pedido-do-governo-federal-e-cobra-medidas-urgentes-do-discord.shtml)_
+
+- **[2026-09-07 15:31 UTC]** Em ato no Rio, Cury manda abraço para Mendonça e cobra investigação do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-ato-no-rio-cury-manda-abraco-para-mendonca-e-cobra-investigacao-ao-stf-ninguem-deve-ser-poupado.shtml)_
+
+- **[2026-09-09 00:52 UTC]** Associação de delegados critica ordem de Mendonça contra diretor da PF e cobra análise do plenário
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/associacao-de-delegados-critica-ordem-de-mendonca-contra-diretor-da-pf-e-cobra-analise-do-plenario/)_
+
+- **[2026-09-09 11:55 UTC]** AGU cobra YouTube sobre remoção de vídeos com falsos médicos de IA
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/agu-cobra-youtube-sobre-remocao-de-videos-com-falsos-medicos-de-ia)_
+
+- **[2026-09-09 14:42 UTC]** Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml)_
+
+- **[2026-09-10 02:58 UTC]** Temer diz que STF está acima de disputas individuais e cobra solução rápida para crise
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/temer-diz-que-stf-esta-acima-de-disputas-individuais-e-cobra-solucao-rapida-para-crise/)_
+
+- **[2026-09-11 00:48 UTC]** CNBB cobra solução da crise no STF pelo plenário e diz que “ninguém está acima da lei”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cnbb-cobra-solucao-da-crise-no-stf-pelo-plenario-e-diz-que-ninguem-esta-acima-da-lei/)_
+
+- **[2026-09-10 23:00 UTC]** Observatório do STF cobra de Fachin proteção à corte e critica ministros que querem influenciar eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/observatorio-do-stf-cobra-de-fachin-protecao-a-corte-e-critica-ministros-que-querem-influenciar-eleicao.shtml)_
+
+- **[2026-09-11 13:11 UTC]** CNBB cobra esclarecimentos sobre a crise no STF e diz que ninguém está acima da lei: 'Justiça sem privilégios'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/11/cnbb-cobra-esclarecimentos-sobre-a-crise-no-stf-e-diz-que-ninguem-esta-acima-da-lei-justica-sem-privilegios.ghtml)_
+
+- **[2026-09-11 17:37 UTC]** PGR cobra de Fachin fim do sigilo de todos os documentos do Caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-cobra-de-fachin-fim-do-sigilo-de-todos-os-documentos-do-caso-master/)_
+

@@ -5,3 +5,21 @@
 
 ## Histórico
 
+- **[2026-08-28 19:18 UTC]** Luz, câmera, ação: estudantes começam a gravar curtas sobre meio ambiente durante o Pipoca em Cena em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/luz-camera-acao-estudantes-comecam-a-gravar-curtas-sobre-meio-ambiente-durante-o-pipoca-em-cena-em-manaus.ghtml)_
+
+- **[2026-08-26 17:58 UTC]** Pipoca em Cena volta a Manaus e inicia oficinas de audiovisual com estudantes da rede pública
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/08/26/pipoca-em-cena-volta-a-manaus-e-inicia-oficinas-de-audiovisual-com-estudantes-da-rede-publica.ghtml)_
+
+- **[2026-09-02 13:14 UTC]** Pipoca em Cena: curtas produzidos por estudantes se preparam para chegar às telas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/pipoca-em-cena-curtas-produzidos-por-estudantes-se-preparam-para-chegar-as-telas.ghtml)_
+
+- **[2026-09-02 20:07 UTC]** 'Um lugar muito lindo': estudantes do Pipoca em Cena mergulham na história do Teatro Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/um-lugar-muito-lindo-estudantes-do-pipoca-em-cena-mergulham-na-historia-do-teatro-amazonas.ghtml)_
+
+- **[2026-09-10 00:55 UTC]** 'Deu pra dar aquela emoção': estudantes exibem filmes produzidos no Pipoca em Cena
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/deu-pra-dar-aquela-emocao-estudantes-exibem-filmes-produzidos-no-pipoca-em-cena.ghtml)_
+
+- **[2026-09-11 20:35 UTC]** Pipoca em Cena: curtas produzidos por alunos da Zona Oeste de Manaus chegam ao público
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/11/pipoca-em-cena-curtas-produzidos-por-alunos-da-zona-oeste-de-manaus-chegam-ao-publico.ghtml)_
+

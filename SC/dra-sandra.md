@@ -8,3 +8,18 @@
 - **[2026-08-29 17:56 UTC]** Elisa Annenberg celebra Dia da Visibilidade Lésbica com nova foto ao lado da namorada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/elisa-annenberg-celebra-dia-da-visibilidade-lesbica-com-nova-foto-ao-lado-da-namorada.shtml)_
 
+- **[2026-08-26 17:38 UTC]** Sandra Sá é confirmada no Fecant em Altamira, no Pará; inscrições vão até 30 de agosto
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/sandra-sa-e-confirmada-no-fecant-em-altamira-no-para.ghtml)_
+
+- **[2026-09-05 15:30 UTC]** 'Nos conhecemos muitas vidas atrás', diz Nicole Kidman sobre Sandra Bullock
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/nos-conhecemos-muitas-vidas-atras-diz-nicole-kidman-sobre-sandra-bullock.shtml)_
+
+- **[2026-09-09 23:00 UTC]** Nicole Kidman e Sandra Bullock voltam a ser bruxas em 'Da Magia à Sedução: Feitiço de Amor'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/09/nicole-kidman-e-sandra-bullock-voltam-a-ser-bruxas-em-da-magia-a-seducao-feitico-de-amor.shtml)_
+
+- **[2026-09-10 09:08 UTC]** 'Da Magia à Sedução: Feitiço de Amor', com Sandra Bullock, estreia nos cinemas da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/10/da-magia-a-seducao-feitico-de-amor-com-sandra-bullock-estreia-nos-cinemas-da-paraiba.ghtml)_
+
+- **[2026-09-11 17:05 UTC]** Grupo Tapa estreia 'Filumena Marturano' com Sandra Corveloni
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/grupo-tapa-estreia-filumena-marturano-com-sandra-corveloni.shtml)_
+

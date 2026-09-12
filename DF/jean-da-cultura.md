@@ -11,3 +11,69 @@
 - **[2026-08-30 14:30 UTC]** O avanço da educação étnico-racial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2026/08/o-avanco-da-educacao-etnico-racial.shtml)_
 
+- **[2026-08-22 17:31 UTC]** Primeiro Festival Internacional de Cultura de Maceió será realizado em setembro; veja datas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/22/primeiro-festival-internacional-de-cultura-da-cidade-sera-realizado-em-setembro-veja-datas.ghtml)_
+
+- **[2026-08-30 16:04 UTC]** Do carimbó ao hip-hop, Afro Maré celebra a cultura negra em Mosqueiro
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/30/festival-afro-mare-estreia-em-mosqueiro-com-carimbo-tecnobrega-hip-hop-e-culturas-de-terreiro.ghtml)_
+
+- **[2026-08-31 14:10 UTC]** Temperos da terra: os sabores que preservam a cultura do campo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/fag-centro-universitario-city-farm/noticia/2026/08/31/temperos-da-terra-os-sabores-que-preservam-a-cultura-do-campo.ghtml)_
+
+- **[2018-07-11 12:18 UTC]** Carnaval 2019: União da Ilha vai mostrar o Ceará na visão de poetas; Beija-Flor quer aproximar a cultura e educação
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/rio-de-janeiro/carnaval/2019/noticia/uniao-da-ilha-vai-mostrar-o-ceara-na-visao-de-poetas-e-beija-flor-quer-aproximar-a-cultura-e-educacao-neste-carnaval.ghtml)_
+
+- **[2018-04-06 07:38 UTC]** Festival de cultura japonesa acontece neste final de semana no Memorial da América Latina
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-cultura-japonesa-acontece-neste-final-de-semana-no-memorial-da-america-latina.html)_
+
+- **[2026-09-02 01:06 UTC]** Câmara aprova criação do novo Plano Nacional de Cultura
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301964-camara-aprova-criacao-do-novo-plano-nacional-de-cultura)_
+
+- **[2026-09-01 23:37 UTC]** Câmara aprova Plano Nacional de Cultura, que prevê financiamento descentralizado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/camara-aprova-plano-nacional-de-cultura-que-preve-financiamento-descentralizado.shtml)_
+
+- **[2026-09-02 20:00 UTC]** RJ: Cultura nos Territórios abre inscrições para 260 oficinas
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/rj-cultura-nos-territorios-abre-inscricoes-para-260-oficinas)_
+
+- **[2026-09-03 15:05 UTC]** Lavagem de Madeleine exalta cultura afro-brasileira em Paris
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/lavagem-de-madeleine-exalta-cultura-afro-brasileira-em-paris)_
+
+- **[2026-09-04 09:00 UTC]** Corrida de canoa e subida no açaizeiro: jogos escolares valorizam cultura ribeirinha em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/04/corrida-de-canoa-e-subida-no-acaizeiro-jogos-escolares-valorizam-cultura-ribeirinha-em-belem.ghtml)_
+
+- **[2026-09-04 12:36 UTC]** Festival da Cultura Japonesa de Salvador começa nesta sexta-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/festival-da-cultura-japonesa-de-salvador-comeca-nesta-sexta-feira)_
+
+- **[2026-09-04 11:17 UTC]** Morre o diretor Tony Gatlif, que explorou a cultura cigana nos cinemas, aos 77
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/morre-o-diretor-tony-gatlif-que-explorou-a-cultura-cigana-nos-cinemas-aos-77.shtml)_
+
+- **[2026-09-05 16:21 UTC]** Maestro Chico Pinheiro, referência da cultura popular maranhense, morre aos 71 anos
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/05/maestro-chico-pinheiro-referencia-na-musica-maranhense-morre-aos-71-anos.ghtml)_
+
+- **[2026-09-06 23:00 UTC]** Exposição grátis sobre a cultura coreana explica as origens do k-pop em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/exposicao-gratis-sobre-a-cultura-coreana-explica-as-origens-do-k-pop-em-sp.shtml)_
+
+- **[2026-09-07 16:29 UTC]** Coco de roda paraibano ganha palcos na Europa em projeto que leva cultura popular a Espanha e Portugal
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/coco-de-roda-paraibano-ganha-palcos-na-europa-em-projeto-que-leva-cultura-popular-a-espanha-e-portugal.ghtml)_
+
+- **[2026-09-08 16:28 UTC]** Mortes: Fortaleceu resistência da cultura negra em Curitiba
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-fortaleceu-resistencia-da-cultura-negra-em-curitiba.shtml)_
+
+- **[2026-09-09 13:00 UTC]** András Schiff vai ao Cultura Artística e revê o clássico com o seu piano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/andras-schiff-vai-ao-cultura-artistica-e-reve-o-classico-com-o-seu-piano.shtml)_
+
+- **[2026-09-10 22:41 UTC]** Eleições 2026: Valmir de Francisquinho diz que Sergipe precisa ter lei de incentivo à cultura
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-valmir-de-francisquinho-diz-que-sergipe-precisa-ter-lei-de-incentivo-a-cultura.ghtml)_
+
+- **[2026-09-10 22:40 UTC]** Eleições 2026: Fábio diz que pretende intensificar investimentos em cultura
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-fabio-diz-que-pretende-intensificar-investimentos-em-cultura.ghtml)_
+
+- **[2026-09-11 15:35 UTC]** Terras indígenas representam preservação e cultura para o Cerrado
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/terras-indigenas-representam-preservacao-e-cultura-para-o-cerrado)_
+
+- **[2026-09-11 17:00 UTC]** O futuro incerto do Ministério da Cultura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/09/o-futuro-incerto-do-ministerio-da-cultura.shtml)_
+
+- **[2026-09-11 22:57 UTC]** Eleições 2026: Ricardo Marques diz que investimentos em cultura devem ser descentralizados
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-ricardo-marques-diz-que-investimentos-em-cultura-devem-ser-descentralizados.ghtml)_
+

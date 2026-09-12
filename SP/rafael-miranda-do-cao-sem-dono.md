@@ -26,3 +26,36 @@
 - **[2026-08-30 10:00 UTC]** Dono da Troma diz que Hollywood tenta destruir produtora há 50 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/dono-da-troma-diz-que-hollywood-tenta-destruir-produtora-ha-50-anos.shtml)_
 
+- **[2026-08-31 11:57 UTC]** Dono do Pão de Açúcar diz que Justiça estipulou prazo para MP-SP apresentar provas sobre retirada de credores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/dono-do-pao-de-acucar-diz-que-justica-estipulou-prazo-para-mp-sp-apresentar-provas-sobre-retirada-de-credores.shtml)_
+
+- **[2017-09-05 16:32 UTC]** Homem é preso suspeito de ser dono de 'disque droga' na Bahia
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/homem-e-preso-suspeito-de-chefiar-disque-droga-na-bahia.ghtml)_
+
+- **[2026-08-30 14:44 UTC]** Homem é condenado a 20 anos de prisão por matar dono de bar dentro do próprio estabelecimento em Imperatriz
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/08/30/homem-e-condenado-a-20-anos-de-prisao-por-matar-dono-de-bar-dentro-do-proprio-estabelecimento-em-imperatriz.ghtml)_
+
+- **[2018-07-09 10:25 UTC]** Galo vira atração ao passear no teto de carro no interior de SP: 'É um filho que tenho', diz dono
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/galo-vira-atracao-ao-passear-no-teto-de-carro-no-interior-de-sp-e-um-filho-que-tenho-diz-dono.ghtml)_
+
+- **[2026-09-01 17:50 UTC]** Relatório da PF sobre mensagens de Vorcaro aponta vários encontros do dono do Master com Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-sobre-mensagens-de-vorcaro-aponta-varios-encontros-do-dono-do-master-com-moraes.ghtml)_
+
+- **[2026-09-02 17:34 UTC]** Ex-dono da Reag fecha acordo de delação premiada com a PGR com foco em Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ex-dono-da-reag-fecha-acordo-de-delacao-premiada-com-a-pgr-com-foco-em-vorcaro.shtml)_
+
+- **[2026-09-02 19:30 UTC]** Ex-dono da Reag reuniu filhos para contar sobre delação e disse que tentaria preservá-los
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/ex-dono-da-reag-reuniu-filhos-para-contar-sobre-delacao-e-disse-que-tentaria-preserva-los.shtml)_
+
+- **[2026-09-05 15:35 UTC]** Dono de açougue é morto a tiros ao chegar para abrir estabelecimento em Davinópolis, no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/09/05/dono-de-acougue-e-morto-a-tiros-no-proprio-estabelecimento-em-davinopolis-no-ma.ghtml)_
+
+- **[2026-09-05 23:00 UTC]** Explode no Brasil o número de fundos que podem ocultar o dono do dinheiro, como no Master e na Carbono Oculto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/explode-no-brasil-o-numero-de-fundos-que-podem-ocultar-o-dono-do-dinheiro-como-no-master-e-na-carbono-oculto.shtml)_
+
+- **[2026-09-09 23:00 UTC]** Ex-dono da Reag relata propinas de Vorcaro para autoridades públicas em delação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ex-dono-da-reag-relata-propinas-de-vorcaro-para-autoridades-publicas-em-delacao.shtml)_
+
+- **[2026-09-11 20:46 UTC]** PF suspeita que Toffoli seja dono de dinheiro de Vorcaro depositado em paraíso fiscal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-suspeita-que-toffoli-mantenha-dinheiro-de-vorcaro-em-paraiso-fiscal/)_
+

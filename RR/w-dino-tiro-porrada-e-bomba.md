@@ -14,3 +14,21 @@
 - **[2026-08-29 23:00 UTC]** Renan Santos e sua bomba atômica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/renan-santos-e-sua-bomba-atomica.shtml)_
 
+- **[2026-08-31 21:48 UTC]** Não vai cair sozinha: a “bomba-relógio” Roberta Luchsinger
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/nao-vai-cair-sozinha-a-bomba-relogio-roberta-luchsinger/)_
+
+- **[2026-09-02 08:45 UTC]** 'Bomba atômica' e 'terremoto político': o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml)_
+
+- **[2026-09-02 11:47 UTC]** Imprensa internacional chama escândalo envolvendo Moraes de “bomba atômica”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/imprensa-internacional-chama-escandalo-envolvendo-moraes-bomba-atomica/)_
+
+- **[2026-09-02 18:39 UTC]** Justiça condena seis por plano de atentado a bomba do PCC descoberto em presídio federal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-condena-seis-por-plano-de-atentado-a-bomba-do-pcc-descoberto-em-presidio-federal.shtml)_
+
+- **[2026-09-02 16:49 UTC]** Tribunal de Malta absolve magnata acusado de encomendar assassinato de jornalista morta por bomba
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/tribunal-de-malta-absolve-magnata-acusado-de-encomendar-assassinato-de-jornalista-morta-por-bomba.shtml)_
+
+- **[2026-09-11 17:00 UTC]** 1926: Mussolini sai ileso de atentado a bomba; polícia prende anarquista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-mussolini-sai-ileso-de-atentado-a-bomba-policia-prende-anarquista.shtml)_
+

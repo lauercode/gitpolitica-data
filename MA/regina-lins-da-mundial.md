@@ -35,3 +35,48 @@
 - **[2026-08-29 22:47 UTC]** Recorde de Piu pode inspirar nova geração do atletismo, dizem dirigentes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/recorde-de-piu-pode-inspirar-nova-geracao-do-atletismo-dizem-dirigentes.shtml)_
 
+- **[2026-08-30 17:15 UTC]** Miss capixaba destronada já sabia de gravidez antes de mundial, revela exame
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/08/miss-capixaba-destronada-ja-sabia-de-gravidez-antes-de-mundial-revela-exame.shtml)_
+
+- **[2026-08-30 15:42 UTC]** Brasil conquista mais quatro medalhas no Mundial de Canoagem e Paracanoagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/brasil-conquista-mais-quatro-medalhas-no-mundial-de-canoagem-e-paracanoagem.shtml)_
+
+- **[2017-10-09 18:22 UTC]** Estudantes do DF embarcam para mundial de profissões técnicas nos Emirados Árabes
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/estudantes-do-df-embarcam-para-mundial-de-profissoes-tecnicas-nos-emirados-arabes.ghtml)_
+
+- **[2018-06-07 01:09 UTC]** Croácia x França: saiba quando será a final da Copa do Mundo 2018 e outras perguntas e respostas sobre o Mundial
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/mundo/noticia/perguntas-e-respostas-sobre-a-copa-do-mundo-de-2018-na-russia.ghtml)_
+
+- **[2026-08-31 19:00 UTC]** Aos 19 anos, José Antônio Santos é campeão mundial de bocha em Seul
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/aos-19-anos-jose-antonio-santos-e-campeao-mundial-de-bocha-em-seul)_
+
+- **[2026-09-01 11:03 UTC]** Miss Cosmo: Paranaense vence estreia do concurso no Brasil e vai para mundial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/miss-cosmo-paranaense-vence-estreia-do-concurso-no-brasil-e-vai-para-mundial.shtml)_
+
+- **[2026-09-02 11:30 UTC]** As engrenagens da ordem mundial dos EUA estão se soltando
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2026/09/as-engrenagens-da-ordem-mundial-dos-eua-estao-se-soltando.shtml)_
+
+- **[2026-09-04 11:20 UTC]** China será concorrente do Brasil no mercado mundial de frango, diz Rabobank
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/china-sera-concorrente-do-brasil-no-mercado-mundial-de-frango-diz-rabobank.shtml)_
+
+- **[2026-09-04 19:32 UTC]** WSL exclui etapa de Abu Dhabi do circuito mundial de surfe deste ano
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/wsl-exclui-etapa-de-abu-dhabi-do-circuito-mundial-de-surfe-deste-ano)_
+
+- **[2026-09-07 21:35 UTC]** Professor do RS dá aula por 80 horas seguidas e supera recorde mundial da Índia
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/professor-rs-da-aula-80-horas-supera-recorde-mundial.ghtml)_
+
+- **[2026-09-07 20:17 UTC]** Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas)_
+
+- **[2026-09-08 17:35 UTC]** Seleção feminina derrota Canadá e avança às oitavas do Mundial Sub-20
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/selecao-feminina-derrota-canada-e-avanca-oitavas-do-mundial-sub-20)_
+
+- **[2026-09-10 15:30 UTC]** Pela 1ª vez, França tem vitórias consecutivas em mundial de misters; Brasil não se classifica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/pela-1a-vez-franca-tem-vitorias-consecutivas-em-mundial-de-misters-brasil-nao-se-classifica.shtml)_
+
+- **[2026-09-10 19:58 UTC]** Brasil continua sem vitória no mundial de basquete em cadeira de rodas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-continua-sem-vitoria-no-mundial-de-basquete-em-cadeira-de-rodas)_
+
+- **[2026-09-11 17:34 UTC]** Santos e Vasco perto do Mundial de Clubes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sandromacedo/2026/09/santos-e-vasco-perto-do-mundial-de-clubes.shtml)_
+

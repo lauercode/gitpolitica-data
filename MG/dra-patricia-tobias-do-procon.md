@@ -5,3 +5,18 @@
 
 ## Histórico
 
+- **[2026-08-28 11:45 UTC]** Preço da botija de 13 quilos cai para R$ 120 em Manaus, aponta Procon
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/preco-da-botija-de-13-quilos-cai-para-r-120-em-manaus-aponta-procon.ghtml)_
+
+- **[2026-09-01 18:20 UTC]** MP-Procon autua seis postos de combustíveis por irregularidades no Brejo da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/mp-procon-autua-seis-postos-de-combustiveis-por-irregularidades-no-brejo-da-paraiba.ghtml)_
+
+- **[2026-09-05 19:36 UTC]** Procon pesquisa preços em churrascarias de Aracaju: prato para dois vai de R$ 75 a R$ 120
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/05/procon-pesquisa-precos-em-churrascarias-de-aracaju.ghtml)_
+
+- **[2026-09-08 18:45 UTC]** Procon Natal realiza feirão para renegociar dívidas na Zona Norte; veja como participar
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/procon-natal-realiza-feirao-para-renegociar-dividas-na-zona-norte-veja-como-participar.ghtml)_
+
+- **[2026-09-09 20:05 UTC]** Gasolina comum tem preço médio de R$ 6,94 em Natal, aponta Procon
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/09/gasolina-comum-tem-preco-medio-de-r-694-em-natal-aponta-procon.ghtml)_
+

@@ -26,3 +26,33 @@
 - **[2026-08-29 17:57 UTC]** Primeiro programa eleitoral no rádio e TV tem ataques entre Lula e Flávio; Caiado e Cury completam exibição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-programa-eleitoral-radio-ataques-lula-flavio/)_
 
+- **[2026-08-27 22:23 UTC]** Quaest em GO: Ronaldo Caiado, 32%; Flávio Bolsonaro, 27%; Lula, 20%; Renan Santos; 2%; Romeu Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/27/quaest-go-presidente-27-agosto.ghtml)_
+
+- **[2026-08-27 22:19 UTC]** Quaest na BA: Lula, 50%; Flávio Bolsonaro, 17%; Ronaldo Caiado, 4%; Augusto Cury, 4%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/27/quaest-ba-presidente-27-agosto.ghtml)_
+
+- **[2026-08-25 23:01 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 32%; Ronaldo Caiado, 7%; Renan Santos; 3%
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/quaest-to-presidente-25-agosto.ghtml)_
+
+- **[2026-09-04 04:00 UTC]** Ronaldo Caiado participa de sabatina da Folha/UOL nesta sexta (4)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ronaldo-caiado-participa-de-sabatina-da-folhauol-nesta-sexta-4.shtml)_
+
+- **[2026-09-04 15:47 UTC]** Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-presidente-4-setembro.ghtml)_
+
+- **[2026-09-05 15:20 UTC]** Ronaldo Caiado, candidato do PSD à Presidência da República, visita a Expointer durante agenda no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/ronaldo-caiado-candidato-presidencia-republica-visita-rs-expointer.ghtml)_
+
+- **[2026-09-05 15:20 UTC]** Ronaldo Caiado defende fim do sigilo nos inquéritos do STF em meio à crise entre Moraes e Mendonça
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/ronaldo-caiado-candidato-presidencia-republica-visita-rs-expointer.ghtml)_
+
+- **[2026-09-10 17:44 UTC]** Ronaldo Caiado é internado em hospital de SP para tratar faringite aguda
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/ronaldo-caiado-e-internado-em-hospital-de-sp-para-tratar-faringite-aguda.ghtml)_
+
+- **[2026-09-10 16:17 UTC]** Ronaldo Caiado é internado em São Paulo com faringite aguda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ronaldo-caiado-e-internado-em-sao-paulo-com-faringite-aguda.shtml)_
+
+- **[2026-09-11 11:26 UTC]** Internado em SP, Ronaldo Caiado recebe diagnóstico de pneumonia
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/internado-em-sp-ronaldo-caiado-recebe-diagnostico-de-pneumonia)_
+

@@ -11,3 +11,36 @@
 - **[2026-08-29 07:00 UTC]** Sem fruta, macaco-prego vira caçador tal como ancestrais humanos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/08/sem-fruta-macaco-prego-vira-cacador-tal-como-ancestrais-humanos.shtml)_
 
+- **[2026-08-31 21:09 UTC]** 'Quase perdi a boca': mulher tem necrose após receber PMMA sem saber em SC; empresária é condenada
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-necrose-pmma-sem-saber-sc-empresaria-condenada.ghtml)_
+
+- **[2026-09-02 14:43 UTC]** Sessão da 6x1 tem choro de senadores, lembrança de pai morto e bate-boca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/sessao-da-6x1-tem-choro-de-senadores-lembranca-de-pai-morto-e-bate-boca.shtml)_
+
+- **[2026-09-05 23:45 UTC]** Como proteger as boas bactérias da sua boca
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c780ev8nvyqo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-06 13:11 UTC]** Extrema direita lidera eleição estadual na Alemanha, aponta boca de urna
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/extrema-direita-lidera-eleicao-estadual-na-alemanha-aponta-boca-de-urna.shtml)_
+
+- **[2026-09-06 16:44 UTC]** Pesquisas de boca de urna apontam grande vitória da direita radical em Estado da Alemanha
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-07 23:10 UTC]** São Paulo embala e quer encarar o Boca com força máxima pela Sul-Americana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/sao-paulo-embala-e-quer-encarar-o-boca-com-forca-maxima-pela-sul-americana.shtml)_
+
+- **[2026-09-08 23:27 UTC]** Boca abre vantagem mínima sobre São Paulo nas quartas de final da Sul-Americana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/boca-abre-vantagem-minima-sobre-sao-paulo-nas-quartas-de-final-da-sul-americana.shtml)_
+
+- **[2026-09-09 06:45 UTC]** Ex-Palmeiras marca e São Paulo perde do Boca Juniors na Sul-Americana
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ex-palmeiras-marca-e-sao-paulo-perde-do-boca-juniors-na-sul-americana)_
+
+- **[2026-09-10 12:54 UTC]** Ciro e Elmano batem boca e apontam dedos em debate no Ceará
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ceara/ciro-e-elmano-batem-boca-e-apontam-dedos-em-debate-no-ceara/)_
+
+- **[2026-09-10 13:01 UTC]** 'Baixa o dedinho'; debate no Ceará entre Ciro e Elmano viraliza após bate-boca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/baixa-o-dedinho-debate-no-ceara-entre-ciro-e-elmano-viraliza-apos-bate-boca.shtml)_
+
+- **[2026-09-11 17:05 UTC]** Moradores usam aspirador de pó e até a boca para sugar água da tubulação por falhas no abastecimento em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/moradores-aspirador-po-sugar-agua-tubulacao-sem-abastecimento-palhoca.ghtml)_
+

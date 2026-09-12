@@ -17,3 +17,12 @@
 - **[2026-08-28 17:55 UTC]** Eleição 2026: quais são as propostas dos candidatos a presidente?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-02 06:00 UTC]** Datação de sítio que mudou ideia sobre presença de humanos nas Américas volta ao debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/datacao-de-sitio-que-mudou-ideia-sobre-presenca-de-humanos-nas-americas-volta-ao-debate.shtml)_
+
+- **[2026-09-03 06:00 UTC]** Startup diz ter gerado cães incapazes de gerar reações alérgicas em humanos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/startup-diz-ter-gerado-caes-incapazes-de-gerar-reacoes-alergicas-em-humanos.shtml)_
+
+- **[2026-09-11 19:17 UTC]** Entenda tratamento que Lito Sousa vai fazer; teste em humanos começa em breve, diz farmacêutica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/entenda-tratamento-que-lito-sousa-vai-fazer-teste-em-humanos-comeca-em-breve-diz-farmaceutica.shtml)_
+

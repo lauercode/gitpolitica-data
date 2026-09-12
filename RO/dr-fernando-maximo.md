@@ -23,3 +23,12 @@
 - **[2026-08-23 07:00 UTC]** Entenda como julgamento no STF sobre a Ficha Limpa pode afetar as eleições no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/23/entenda-como-julgamento-no-stf-sobre-a-ficha-limpa-pode-afetar-as-eleicoes-no-df.ghtml)_
 
+- **[2026-08-31 17:03 UTC]** Projeto garante valor máximo de insalubridade para coveiros, sepultadores e catadores de lixo
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300436-projeto-garante-valor-maximo-de-insalubridade-para-coveiros-sepultadores-e-catadores-de-lixo)_
+
+- **[2026-08-25 22:37 UTC]** Quaest para o Senado em Rondônia: Máximo, 17%; Cristina, 11%; Sheid, 11%; Mariana, 10%
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/25/quaest-ro-senado-25-de-agosto.ghtml)_
+
+- **[2026-09-04 14:02 UTC]** Candidato ao Senado, Dr. Fernando Máximo chama de 'falácia' intoxicação por mercúrio atribuída ao garimpo
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/04/candidato-ao-senado-dr-fernando-maximo-e-entrevistado-no-bom-dia-rondonia.ghtml)_
+

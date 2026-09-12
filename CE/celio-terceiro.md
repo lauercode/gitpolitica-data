@@ -17,3 +17,24 @@
 - **[2026-08-27 20:20 UTC]** SK Hynix iniciará produção de chips de IA nos EUA em 2029 e prevê crise de memória até 2030
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/sk-hynix-iniciara-producao-de-chips-de-ia-nos-eua-em-2029-e-preve-crise-de-memoria-ate-2030.shtml)_
 
+- **[2018-05-02 19:51 UTC]** Toyota abre mais de 800 vagas com criação do terceiro turno em Sorocaba e Porto Feliz
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/toyota-abre-mais-de-800-vagas-com-criacao-do-terceiro-turno-em-sorocaba-e-porto-feliz.ghtml)_
+
+- **[2026-09-02 18:54 UTC]** Pressionada pela BYD, GM segura terceiro lugar nas vendas de automóveis em agosto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/09/pressionada-pela-byd-gm-segura-terceiro-lugar-nas-vendas-de-automoveis-em-agosto.shtml)_
+
+- **[2026-09-03 16:28 UTC]** Buscas por menino de 4 anos que caiu de embarcação em rio no Acre chegam ao terceiro dia
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/buscas-por-menino-de-4-anos-que-caiu-de-embarcacao-em-rio-no-acre-chegam-ao-terceiro-dia.ghtml)_
+
+- **[2026-09-03 23:05 UTC]** Revista em presídio do RJ localiza 30 celulares com presos do Terceiro Comando Puro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/revista-em-presidio-do-rj-localiza-30-celulares-com-presos-do-terceiro-comando-puro.shtml)_
+
+- **[2026-09-03 23:05 UTC]** Terceiro primeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/09/terceiro-primeiro.shtml)_
+
+- **[2026-09-04 14:31 UTC]** Evento reúne especialistas para debater captação de recursos no terceiro setor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/09/evento-reune-especialistas-para-debater-captacao-de-recursos-no-terceiro-setor.shtml)_
+
+- **[2026-09-05 17:00 UTC]** Motéis apostam em chef e terceiro hóspede grátis para atrair clientes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/moteis-apostam-em-chef-e-terceiro-hospede-gratis-para-atrair-clientes.shtml)_
+

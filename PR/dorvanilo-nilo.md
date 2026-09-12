@@ -11,3 +11,6 @@
 - **[2026-08-25 22:23 UTC]** Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/clyely5exwro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 12:28 UTC]** Brasil registra quatro casos de febre do Nilo Ocidental
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/brasil-registra-quatro-casos-de-febre-do-nilo-ocidental)_
+

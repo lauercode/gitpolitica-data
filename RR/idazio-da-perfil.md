@@ -14,3 +14,21 @@
 - **[2026-08-30 13:33 UTC]** Sorridente e com mensagem religiosa, Maduro aparece em fotos na prisão nos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/sorridente-e-com-mensagem-religiosa-maduro-aparece-em-fotos-na-prisao-nos-eua.shtml)_
 
+- **[2017-07-10 18:59 UTC]** Conheça o perfil do motociclista goiano
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/conheca-o-perfil-do-motociclista-goiano.html)_
+
+- **[2026-09-02 07:01 UTC]** Caminhoneiro confundido com criança pela PM já teve perfil na web banido com alerta de 'segurança infantil'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/caminhoneiro-confundido-crianca-pm-perfil-banido-plataforma-seguranca-infantil.ghtml)_
+
+- **[2026-09-05 06:00 UTC]** John Ternus assume cargo de CEO da Apple com perfil discreto e desafio de renovar produtos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/john-ternus-assume-cargo-de-ceo-da-apple-com-perfil-discreto-e-desafio-de-renovar-produtos.shtml)_
+
+- **[2026-09-09 07:00 UTC]** Quaest em MG: Flávio Bolsonaro aparece numericamente à frente de Lula no 2º turno; veja números por perfil do eleitorado
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/09/quaest-em-mg-flavio-bolsonaro-aparece-numericamente-a-frente-de-lula-no-2o-turno-veja-numeros-por-perfil-do-eleitorado.ghtml)_
+
+- **[2026-09-11 13:08 UTC]** No X, perfil reconstitui ataques de 11/9 tuíte a tuíte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/no-x-perfil-reconstitui-ataques-de-119-tuite-a-tuite.shtml)_
+
+- **[2026-09-11 18:28 UTC]** TRE-MG apura elo entre perfil de Nikolas e conta que difundiu relatório falsamente atribuído à PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/tre-mg-apura-elo-entre-perfil-de-nikolas-e-conta-que-difundiu-relatorio-falsamente-atribuido-a-pf.shtml)_
+

@@ -14,3 +14,18 @@
 - **[2026-08-29 23:00 UTC]** Candidato veterinário quer extinguir CLT e propõe 'Meu Botox, Minha Vida'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidato-veterinario-quer-extinguir-clt-e-propoe-meu-botox-minha-vida.shtml)_
 
+- **[2026-08-31 19:59 UTC]** Toffoli suspende campanha de candidato do Democrata à Presidência da República
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/toffoli-suspende-campanha-de-candidato-do-democrata-a-presidencia-da-republica/)_
+
+- **[2026-08-31 21:19 UTC]** Democrata muda chapa e lança Ruth Reis como candidata ao governo do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/31/democrata-muda-chapa-e-lanca-ruth-reis-como-candidata-ao-governo-do-para.ghtml)_
+
+- **[2026-08-28 20:56 UTC]** Eleições 2026: veja as propostas de José Moita (Democrata) ao governo do PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-veja-as-propostas-de-jose-moita-democrata-ao-governo-do-pa.ghtml)_
+
+- **[2026-09-07 20:53 UTC]** Democrata inscreve nova chapa para disputar o governo do TO com Siqueira Campos Jr. e Capitão Osmar
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/07/democrata-inscreve-nova-chapa-para-disputar-o-governo-do-to-com-siqueira-campos-jr-e-capitao-osmar.ghtml)_
+
+- **[2026-09-10 09:22 UTC]** Pressão de Trump faz Jimmy Kimmel cancelar entrevista com democrata na televisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/pressao-de-trump-faz-jimmy-kimmel-cancelar-entrevista-com-democrata-na-televisao.shtml)_
+

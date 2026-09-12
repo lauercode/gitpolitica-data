@@ -26,3 +26,66 @@
 - **[2026-08-30 06:00 UTC]** 'Precisamos nos arriscar mais na ciência', diz Hugo Aguilaniu, que se prepara para deixar o Serrapilheira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/precisamos-nos-arriscar-mais-na-ciencia-diz-hugo-aguilaniu-que-se-prepara-para-deixar-o-serrapilheira.shtml)_
 
+- **[2026-08-31 18:02 UTC]** Instituto Vladimir Herzog alerta Fachin sobre interferência dos EUA em eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/instituto-vladimir-herzog-alerta-fachin-sobre-interferencia-dos-eua-em-eleicao.shtml)_
+
+- **[2018-07-10 18:53 UTC]** Instituto divulga vagas de estágio para a Grande Vitória e interior do ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/educacao/noticia/instituto-divulga-vagas-de-estagio-para-a-grande-vitoria-e-interior-do-es.ghtml)_
+
+- **[2026-08-26 20:48 UTC]** Cícero Lucena visita instituto de acolhimento de pessoas com TEA e fala em interiorizar serviços na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/26/cicero-lucena-visita-instituto-acolhimento-pessoas-tea-interiorizar-servicos-na-pb.ghtml)_
+
+- **[2026-08-30 18:14 UTC]** Instituto oferta 100 vagas em curso gratuito de inglês em Roraima; veja como se inscrever
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/30/instituto-oferta-100-vagas-em-curso-gratuito-de-ingles-em-roraima-veja-como-se-inscrever.ghtml)_
+
+- **[2026-09-02 10:00 UTC]** Instituto Bora nasce para impactar pessoas e movimentar R$ 810 mi em renda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/09/instituto-bora-nasce-para-impactar-pessoas-e-movimentar-r-810-mi-em-renda.shtml)_
+
+- **[2026-09-02 22:00 UTC]** Instituto Maria da Penha pede à PGR federalização do caso Mari Ferrer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/instituto-maria-da-penha-pede-a-pgr-federalizacao-do-caso-mari-ferrer.shtml)_
+
+- **[2026-09-03 12:32 UTC]** André Mendonça deixa sociedade em instituto privado e diz que nunca teve lucro com a entidade
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/andre-mendonca-deixa-sociedade-em-instituto-privado-e-diz-que-entidade-sera-transformada-em-organizacao-sem-fins-lucrativos.ghtml)_
+
+- **[2026-09-03 08:46 UTC]** Mendonça decide deixar sociedade em instituto privado que virou alvo de questionamentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mendonca-decide-deixar-sociedade-em-instituto-privado-que.shtml)_
+
+- **[2026-09-03 12:48 UTC]** Mendonça diz que deixará sociedade no Instituto Iter
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-que-deixara-sociedade-no-instituto-iter)_
+
+- **[2026-09-03 13:14 UTC]** André Mendonça afirma que deixará sociedade do Instituto Iter
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/andre-mendonca-afirma-que-deixara-sociedade-do-instituto-iter)_
+
+- **[2026-09-03 14:07 UTC]** Mendonça decide deixar sociedade de instituto jurídico privado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-decide-deixar-sociedade-instituto-juridico-privado/)_
+
+- **[2026-09-03 23:00 UTC]** Instituto do qual Mendonça se afastou recebeu R$ 11,5 milhões de órgãos públicos sem licitação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/instituto-do-qual-mendonca-se-afastou-recebeu-r-115-milhoes-de-orgaos-publicos-sem-licitacao.shtml)_
+
+- **[2026-09-05 14:00 UTC]** Focamos no futuro financeiro do Instituto Inhotim, diz diretora-presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/focamos-no-futuro-financeiro-do-instituto-inhotim-diz-diretora-presidente.shtml)_
+
+- **[2026-09-05 14:29 UTC]** Conselheiro de instituto ligado ao padre Júlio Lancellotti é suspeito de tentativa de latrocínio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/conselheiro-de-instituto-ligado-ao-padre-julio-lancellotti-e-suspeito-de-tentativa-de-latrocinio.shtml)_
+
+- **[2026-09-09 10:39 UTC]** Presidente do Smithsonian deixará cargo após choques entre instituto e Casa Branca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/presidente-do-smithsonian-deixara-cargo-apos-choques-entre-instituto-e-casa-branca.shtml)_
+
+- **[2026-09-09 15:46 UTC]** Instituto Barla afirma que alíquota de 12% sobre exportação de petróleo atinge elo errado da cadeia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/instituto-barla-afirma-que-aliquota-de-12-sobre-exportacao-de-petroleo-atinge-elo-errado-da-cadeia.shtml)_
+
+- **[2026-09-10 16:21 UTC]** Instituto de produtora de ‘Dark Horse’ usou emendas de Mario Frias para comprar quimonos, uniformes e tatames não entregues para projeto esportivo em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/emendas-mario-frias-instituto-karina-gama-projetos-investigados-pf-cgu.ghtml)_
+
+- **[2026-09-10 17:11 UTC]** Instituto Santos Dumont abre inscrições para Feira de Ciências em Macaíba; veja como participar
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/10/instituto-santos-dumont-abre-inscricoes-para-feira-de-ciencias-em-macaiba-veja-como-participar.ghtml)_
+
+- **[2026-09-10 19:24 UTC]** Instituto e produtora de 'Dark Horse' enviaram R$ 100 mil a entidade evangélica, aponta PF em investigação sobre desvio de emendas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/opercao-dark-horse-envios-entidade-evangelica.ghtml)_
+
+- **[2026-09-10 22:22 UTC]** PF diz que produtora de 'Dark Horse' que recebeu emendas de Frias pagou R$ 300 mil a instituto que funcionava em loja de roupas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-diz-que-produtora-de-dark-horse-que-recebeu-emendas-de-frias-pagou-r-300-mil-a-instituto-que-funcionava-em-loja-de-roupas.ghtml)_
+
+- **[2026-09-11 17:05 UTC]** Deputado do PT pede quebra de sigilo de instituto fundado por Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/deputado-do-pt-pede-quebra-de-sigilo-de-instituto-fundado-por-mendonca.shtml)_
+

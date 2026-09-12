@@ -35,3 +35,24 @@
 - **[2026-08-23 17:06 UTC]** Convenções que já não decidem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/08/convencoes-que-ja-nao-decidem.shtml)_
 
+- **[2026-08-31 17:16 UTC]** Cleitinho Azevedo propõe IPVA para aviões e revisão de pedágios em MG
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/cleitinho-defende-cobrar-ipva-de-avioes-e-rever-contratos-de-pedagio-em-mg.ghtml)_
+
+- **[2026-09-04 13:00 UTC]** Cleitinho aposta em agendas no interior e mobilização digital como estratégia de campanha em MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cleitinho-aposta-em-agendas-no-interior-e-mobilizacao-digital-como-estrategia-de-campanha-em-mg.shtml)_
+
+- **[2026-09-08 20:05 UTC]** Quaest em MG: Cleitinho, 32%; Patrus, 11%; Kalil, 11%; Simões, 8%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-governador-8-setembro.ghtml)_
+
+- **[2026-09-08 17:57 UTC]** Quaest: Cleitinho lidera com 32% em Minas Gerais; Patrus, Kalil e Simões disputam 2º lugar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-cleitinho-lidera-com-32-em-minas-gerais-patrus-kalil-e-simoes-disputam-2o-lugar.shtml)_
+
+- **[2026-09-11 20:08 UTC]** Datafolha em MG, 2º turno: Cleitinho lidera em todos os cenários da disputa ao governo
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-governo-mg-segundo-turno-11-setembro.ghtml)_
+
+- **[2026-09-11 20:05 UTC]** Datafolha em MG: Cleitinho, 37%; Patrus, 13%; Kalil, 11%; Simões, 4; Roscoe, 4%; Gabriel, 4%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-mg-governador-11-setembro.ghtml)_
+
+- **[2026-09-11 17:12 UTC]** Datafolha: Cleitinho mantém liderança em MG com 37%; Patrus tem 13%, Kalil, 11%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-cletinho-tem-37-e-mantem-lideranca-em-corrida-pelo-governo-de-mg.shtml)_
+

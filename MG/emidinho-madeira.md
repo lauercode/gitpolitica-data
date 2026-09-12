@@ -14,3 +14,21 @@
 - **[2026-08-30 05:00 UTC]** Governo de Mato Grosso tenta mudar acordo para permitir uso de madeira nativa em usina de biodiesel
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/governo-de-mato-grosso-tenta-mudar-acordo-para-permitir-uso-de-madeira-nativa-em-usina-de-biodiesel.shtml)_
 
+- **[2026-08-22 12:00 UTC]** Operação fecha garimpos e apreende R$ 19 milhões em madeira e materiais no AP e PA
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/22/operacao-fecha-garimpos-e-apreende-r-19-milhoes-em-madeira-e-materiais-no-ap-e-pa.ghtml)_
+
+- **[2026-08-27 16:17 UTC]** PF destrói 10 dragas de garimpo ilegal no rio Madeira em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/27/pf-destroi-dragas-de-garimpo-ilegal-no-rio-madeira-em-porto-velho.ghtml)_
+
+- **[2026-08-26 12:37 UTC]** PF destrói acampamento de extração ilegal de madeira em Terra Indígena de RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/26/pf-destroi-acampamento-de-extracao-ilegal-de-madeira-em-terra-indigena-de-ro.ghtml)_
+
+- **[2026-09-01 13:59 UTC]** VÍDEO: incêndio destrói casa de madeira na Zona Norte de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/01/video-incendio-destroi-casa-de-madeira-na-zona-norte-de-macapa.ghtml)_
+
+- **[2026-09-03 19:35 UTC]** PF destrói 15 dragas durante operação contra garimpo ilegal no rio Madeira em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/03/pf-destroi-15-dragas-durante-operacao-contra-garimpo-ilegal-no-rio-madeira-em-ro.ghtml)_
+
+- **[2026-09-11 10:59 UTC]** Jovem é apreendido suspeito de violentar homem com pedaço de madeira em AL; vítima morreu
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/jovem-e-apreendido-suspeito-de-violentar-homem-com-pedaco-de-madeira-em-al-vitima-morreu.ghtml)_
+

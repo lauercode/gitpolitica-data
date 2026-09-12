@@ -17,3 +17,87 @@
 - **[2026-08-29 19:42 UTC]** Mistérios e segredos de textos medievais revelados graças à IA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-26 17:53 UTC]** Motociclista que teve pé amputado ao colidir com carro recebe alta no Acre; amigos pedem ajuda
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/motociclista-que-teve-pe-amputado-ao-colidir-com-carro-passou-por-cirurgia-no-acre.ghtml)_
+
+- **[2026-08-27 23:47 UTC]** Coleta de DNA ajuda na identificação de pessoas desaparecidas no Amapá; saiba como participar
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/coleta-de-dna-ajuda-na-identificacao-de-pessoas-desaparecidas-no-amapa-saiba-como-participar.ghtml)_
+
+- **[2017-10-15 17:23 UTC]** Missionário cearense contrai doença na Guiné-Bissau e família quer ajuda para transferência
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/missionario-cearense-contrai-doenca-na-guine-bissau-e-familia-quer-ajuda-para-transferencia.ghtml)_
+
+- **[2017-05-09 18:09 UTC]** Mãe pede ajuda para encontrar filho que sumiu há 10 anos
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/mae-pede-ajuda-para-encontrar-filho-que-sumiu-ha-10-anos.ghtml)_
+
+- **[2026-08-28 20:54 UTC]** Após ex descumprir medida protetiva, mulher pediu ajuda a PMs, que o liberaram e disseram que 'nada poderia ser feito'; vítima foi baleada dias depois
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/medida-protetiva-ajuda-dias-antes-de-feminicidio.ghtml)_
+
+- **[2018-05-14 06:53 UTC]** Mutirão para construção de casas pode ser realizado em Fernando de Noronha com ajuda da Adra
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/mutirao-para-construcao-de-casas-pode-ser-realizado-em-fernando-de-noronha-com-ajuda-da-adra.html)_
+
+- **[2026-08-28 15:57 UTC]** Menino de 11 anos caminha 7 km para pedir ajuda após suposta agressão da mãe
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/menino-de-11-anos-caminha-7-quilometros-para-pedir-ajuda-apos-suposta-agressao-da-mae.ghtml)_
+
+- **[2026-08-28 15:02 UTC]** 'Ele dizia 'tia, me ajuda'': vizinha relata tentativa de salvar menino morto após ser atingido por árvore em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/vizinha-menino-casa-poa-arvore-temporal.ghtml)_
+
+- **[2026-08-28 20:10 UTC]** Mulher vai parar debaixo de ônibus após acidente e é resgatada com ajuda de pedestres no TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/mulher-vai-parar-debaixo-de-onibus-apos-acidente-e-e-resgatada-com-ajuda-de-pedestres-no-to-video.ghtml)_
+
+- **[2026-09-01 19:32 UTC]** Uso de tecnologia no campo ajuda agricultores na tomada de decisão em tempo real
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/riquezas-da-inovacao/noticia/2026/09/01/uso-de-tecnologia-no-campo-ajuda-agricultores-na-tomada-de-decisao-em-tempo-real.ghtml)_
+
+- **[2026-09-02 12:22 UTC]** Linha “Mais mobilidade” ajuda motorista a ampliar atuação na estrada
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/02/linha-mais-mobilidade-ajuda-motorista-a-ampliar-atuacao-na-estrada.ghtml)_
+
+- **[2026-09-02 18:54 UTC]** Brasileiro investigado diz que teve ajuda de consulado para fugir dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/brasileiro-investigado-diz-que-teve-ajuda-de-consulado-para-fugir-dos-eua.shtml)_
+
+- **[2026-09-03 09:34 UTC]** Nikolas pediu ajuda a Vorcaro para liberar minério, e banqueiro afirmou bancar voos dele, diz site
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/nikolas-pediu-ajuda-a-vorcaro-para-liberar-minerio-e-banqueiro-afirmou-bancar-voos-dele-diz-site.shtml)_
+
+- **[2026-09-03 12:46 UTC]** Em áudio, Nikolas pede ajuda a Vorcaro para liberar ativo de minério
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/em-audio-nikolas-pede-ajuda-vorcaro-para-liberar-ativo-de-minerio)_
+
+- **[2026-09-03 19:16 UTC]** Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zvgr7pr1o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-04 16:25 UTC]** Mulher que foi espancada pelo marido no PR e pediu para filho filmar a violência postou vídeo nas redes sociais para pedir ajuda
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/04/mulher-que-foi-espancada-pelo-marido-no-pr-e-pediu-para-filho-filmar-a-violencia-postou-video-nas-redes-sociais-para-pedir-ajuda.ghtml)_
+
+- **[2026-09-05 15:00 UTC]** Cão farejador ajuda polícia a apreender 90 kg de pasta base de cocaína em embarcação no interior do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/cao-farejador-ajuda-policia-a-apreender-90-kg-de-pasta-base-de-cocaina-em-embarcacao-no-interior-do-amazonas.ghtml)_
+
+- **[2026-09-06 10:48 UTC]** Ataques israelenses matam quatro no sul do Líbano; presidente pede ajuda dos EUA para conter escalada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ataques-israelenses-matam-quatro-no-sul-do-libano-presidente-pede-ajuda-dos-eua-para-conter-escalada.shtml)_
+
+- **[2026-09-06 10:48 UTC]** Ataques israelenses matam sete no sul do Líbano; presidente pede ajuda dos EUA para conter escalada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ataques-israelenses-matam-quatro-no-sul-do-libano-presidente-pede-ajuda-dos-eua-para-conter-escalada.shtml)_
+
+- **[2026-09-06 20:52 UTC]** Botafogo segura Palmeiras e ajuda Flamengo, novo líder do Brasileirão
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/botafogo-segura-palmeiras-e-ajuda-flamengo-novo-lider-do-brasileirao)_
+
+- **[2026-09-07 11:50 UTC]** Moradores pedem ajuda para combater incêndio que ameaça casas e plantações em Manacapuru, no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/07/moradores-pedem-ajuda-para-combater-incendio-que-ameaca-casas-e-plantacoes-em-manacapuru-no-am.ghtml)_
+
+- **[2026-09-08 20:14 UTC]** Como a locação de tecnologia ajuda empresas a crescer com mais economia
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/amazon-copy/noticia/2026/09/08/como-a-locacao-de-tecnologia-ajuda-empresas-a-crescer-com-mais-economia.ghtml)_
+
+- **[2026-09-09 16:37 UTC]** 'Por favor, me ajuda': adolescente usa carta para contar à professora que pais eram pagos para permitir que tio a estuprasse, no PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/por-favor-me-ajuda-adolescente-usa-carta-para-contar-a-professora-que-pais-eram-pagos-para-permitir-que-tio-a-estuprasse-no-pr.ghtml)_
+
+- **[2026-09-09 20:20 UTC]** Documento de maternidade ajuda filho a encontrar a mãe biológica após quase 40 anos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/documento-de-maternidade-ajuda-filho-a-encontrar-a-mae-biologica-apos-quase-40-anos-em-sergipe.ghtml)_
+
+- **[2026-09-09 16:37 UTC]** 'Por favor, me ajuda': adolescente usa carta para contar à professora que pais eram pagos para permitirem que cunhado a estuprasse, no PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/por-favor-me-ajuda-adolescente-usa-carta-para-contar-a-professora-que-pais-eram-pagos-para-permitir-que-tio-a-estuprasse-no-pr.ghtml)_
+
+- **[2026-09-10 00:47 UTC]** Escândalo Moraes sai do foco com ajuda de Dino e Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/escandalo-moraes-sai-do-foco-com-ajuda-de-dino-e-fachin/)_
+
+- **[2026-09-10 16:02 UTC]** Cofundador da Anthropic prevê que PIB dos EUA pode crescer 15% em 2030 com ajuda da IA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/cofundador-da-anthropic-preve-que-pib-dos-eua-pode-crescer-15-em-2030-com-ajuda-da-ia.shtml)_
+
+- **[2026-09-11 20:37 UTC]** Deputados britânicos rejeitam legalização da ajuda para morrer na Inglaterra e País de Gales
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/deputados-britanicos-rejeitam-legalizacao-da-ajuda-para-morrer-na-inglaterra-e-pais-de-gales.shtml)_
+

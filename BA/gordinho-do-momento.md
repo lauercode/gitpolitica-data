@@ -20,3 +20,63 @@
 - **[2026-08-29 18:15 UTC]** Breve história das reviravoltas no mês final da eleição para presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/breve-historia-das-reviravoltas-no-mes-final-da-eleicao-para-presidente.shtml)_
 
+- **[2026-08-31 14:32 UTC]** Homens são agredidos por PMs em feira no interior do Acre; VÍDEO mostra momento
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/homens-sao-agredidos-por-pms-em-feira-no-interior-do-acre-video-mostra-momento.ghtml)_
+
+- **[2026-08-26 19:07 UTC]** Escolher um vinho é escolher o momento que ele vai acompanhar
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/08/26/escolher-um-vinho-e-escolher-o-momento-que-ele-vai-acompanhar.ghtml)_
+
+- **[2017-10-26 15:36 UTC]** Mãe de menina baleada na Rocinha diz que não viu o momento em que a filha foi atingida
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/mae-de-menina-baleada-na-rocinha-diz-que-nao-viu-o-momento-em-que-a-filha-foi-atingida.ghtml)_
+
+- **[2026-08-29 19:28 UTC]** Barco de pesca naufraga no litoral do RS e momento é registrado em VÍDEO; todos conseguiram se salvar
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/barco-de-pesca-naufraga-no-litoral-do-rs.ghtml)_
+
+- **[2026-08-30 18:17 UTC]** Henrique canta com fã mirim e inspira nas redes sociais: 'Momento inesquecível'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/henrique-canta-com-fa-mirim-e-inspira-nas-redes-sociais-momento-inesquecivel.ghtml)_
+
+- **[2026-08-24 19:06 UTC]** Drone da TV Anhanguera flagra momento em que motociclista tenta fazer gato e cai em avenida de Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/drone-da-tv-anhanguera-flagra-momento-em-que-motociclista-tenta-fazer-gato-e-cai-em-avenida-de-palmas.ghtml)_
+
+- **[2026-09-01 09:56 UTC]** Câmera de segurança flagra momento em que motorista atropela e mata ciclista em João Pessoa; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/camera-de-seguranca-flagra-momento-em-que-motorista-atropela-e-mata-ciclista-em-joao-pessoa-video.ghtml)_
+
+- **[2026-09-02 21:01 UTC]** Veja o momento em que cavalo desgovernado é controlado por menina de 12 anos no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/veja-o-momento-em-que-cavalo-desgovernado-e-controlado-por-menina-de-12-anos-no-rs.ghtml)_
+
+- **[2026-09-02 21:42 UTC]** Casal morto a tiros dentro de casa em SC estava dormindo no momento do crime, diz polícia
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/casal-morto-tiros-casa-sc-dormindo-crime-diz-policia.ghtml)_
+
+- **[2026-09-03 18:43 UTC]** VÍDEO mostra momento do acidente que matou músico Diego Sanches a caminho de show em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/video-acidente-morte-musico-porto-alegre.ghtml)_
+
+- **[2026-09-04 22:10 UTC]** Professora que viralizou ao cuidar de criança durante aula diz que mãe teve que trancar curso: ‘Por um momento’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/professora-que-viralizou-ao-cuidar-de-crianca-durante-aula-diz-que-mae-teve-que-trancar-curso-por-um-momento.ghtml)_
+
+- **[2026-09-08 15:42 UTC]** VÍDEO: Mãe e filha dançam juntas em hospital para comemorar avanço de tratamento e momento emocionante é flagrado por médica e viraliza
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/video-mae-e-filha-dancam-juntas-em-hospital.ghtml)_
+
+- **[2026-09-09 14:28 UTC]** Alto da Glória ganha nova perspectiva em momento de valorização urbana
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/gadens-incorporadora/noticia/2026/09/09/alto-da-gloria-ganha-nova-perspectiva-em-momento-de-valorizacao-urbana.ghtml)_
+
+- **[2026-09-09 15:18 UTC]** 'Sonhei com esse momento todos os dias', afirma o novo Papai Noel do Natal Luz de Gramado
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/novo-papai-noel-do-natal-luz-de-gramado.ghtml)_
+
+- **[2026-09-09 18:38 UTC]** FAVOO fortalece a formação cidadã por meio do Momento Cívico
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/cooperativa-educacional-de-vilhena-favoo-divulga-novidades-e-programacao-de-2026/noticia/2026/09/09/favoo-fortalece-a-formacao-cidada-por-meio-do-momento-civico.ghtml)_
+
+- **[2026-09-10 04:01 UTC]** 'Momento mais triste da vida': o relato da mulher que denunciou o namorado por transmissão intencional de HIV em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/10/momento-mais-triste-da-vida-o-relato-da-mulher-que-denunciou-o-namorado-por-transmissao-intencional-de-hiv-em-ro.ghtml)_
+
+- **[2026-09-10 14:35 UTC]** Considerado melhor show do Rock in Rio, Jota Quest foi 'batizado' por Tim Maia em festival no RS nos anos 1990; veja VÍDEO do momento
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/jota-quest-batizado-tim-maia-festival-rs.ghtml)_
+
+- **[2026-09-10 11:59 UTC]** Após alta, mãe de jovem com síndrome rara que viralizou dançando em hospital celebra momento: 'Como se estivesse dando os primeiros passos'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/apos-alta-mae-de-jovem-com-sindrome-rara-que-viralizou-dancando-em-hospital-celebra-momento-como-se-estivesse-dando-os-primeiros-passos.ghtml)_
+
+- **[2026-09-11 15:29 UTC]** VÍDEO: veja o momento exato das explosões em restaurante de Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/11/video-veja-o-momento-exato-das-explosoes-em-restaurante-de-belem.ghtml)_
+
+- **[2026-09-11 04:00 UTC]** Sobrevivente brasileiro do 11 de Setembro lembra momento do atentado: 'Se tivesse caído na minha direção, eu teria morrido'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/historia-brasileiro-sobreviveu-primeira-torre-atingida-11-de-setembro.ghtml)_
+

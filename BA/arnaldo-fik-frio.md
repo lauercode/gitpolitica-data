@@ -5,3 +5,78 @@
 
 ## Histórico
 
+- **[2026-08-27 08:05 UTC]** Casal do AP cruza América do Sul de moto e encara frio nos Andes: 'água congelou nos recipientes'
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/27/casal-do-ap-cruza-america-do-sul-de-moto-e-encara-frio-nos-andes-agua-congelou-nos-recipientes.ghtml)_
+
+- **[2018-07-08 10:20 UTC]** Após início de inverno quente, frio chega a MS e semana começa com temperaturas abaixo de 10°C
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/apos-inicio-de-inverno-quente-frio-chega-a-ms-e-semana-comeca-com-temperaturas-abaixo-de-10c.ghtml)_
+
+- **[2018-04-27 17:15 UTC]** Espante o frio com um delicioso caldo de legumes; confira a receita
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/simone-mendes/post/espante-o-frio-com-um-delicioso-caldo-de-legumes-confira-receita.html)_
+
+- **[2026-08-28 09:10 UTC]** 'Van Gogh & Impressionistas', Caminhos do Frio e mais: 'Qual a Boa?' do fim de semana, 28, 29 e 30 de agosto na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/musica/noticia/2026/08/28/van-gogh-and-impressionistas-caminhos-do-frio-e-mais-qual-a-boa-do-fim-de-semana-28-29-e-30-de-agosto-na-pb.ghtml)_
+
+- **[2026-09-01 14:08 UTC]** Previsão do tempo para o Paraná: após tempestades e formação de ciclone, destaque será o frio e a possibilidade de geadas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/previsao-do-tempo-para-o-parana-apos-tempestades-e-formacao-de-ciclone-destaque-sera-o-frio-e-a-possibilidade-de-geadas.ghtml)_
+
+- **[2026-09-02 09:17 UTC]** Rota Cultural Caminhos do Frio 2026 chega ao fim com programação em Alagoa Nova a partir desta quarta (2)
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/rota-cultural-caminhos-do-frio-2026-chega-ao-fim-com-programacao-em-alagoa-nova-a-partir-desta-quarta-2.ghtml)_
+
+- **[2026-09-03 05:00 UTC]** Feriado de 7 de Setembro deve ser frio e chuvoso em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/feriado-de-7-de-setembro-deve-ser-frio-e-chuvoso-em-sao-paulo.shtml)_
+
+- **[2026-09-04 05:00 UTC]** Sexta (4) é o último dia de calor em São Paulo antes da chegada do frio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sexta-4-e-o-ultimo-dia-de-calor-em-sao-paulo-antes-da-chegada-do-frio.shtml)_
+
+- **[2026-09-04 16:26 UTC]** CPM 22, Caminhos do Frio e mais: 'Qual a Boa?' do fim de semana, 4, 5 e 6 de setembro na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/musica/noticia/2026/09/04/cpm-22-caminhos-do-frio-e-mais-qual-a-boa-do-fim-de-semana-4-5-e-6-de-setembro-na-pb.ghtml)_
+
+- **[2026-09-04 19:37 UTC]** Neve no feriadão? SC terá frio de até -8°C, geada ampla e chance de chuva congelada
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/neve-no-feriadao-sc-tera-frio-de-ate-8c.ghtml)_
+
+- **[2026-09-04 20:33 UTC]** Fim de semana será marcado por frio e geada em diferentes regiões no RS; mínima pode chegar a 0°C
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/04/fim-de-semana-marcado-por-frio-geada-no-rs-minima-0c.ghtml)_
+
+- **[2026-09-04 19:02 UTC]** Feriado da Independência vem com frio e alerta de tempestades
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/feriado-da-independencia-vem-com-frio-e-alerta-de-tempestades)_
+
+- **[2026-09-05 09:37 UTC]** São Paulo amanhece com chuva, frio e lentidão às vésperas do feriado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sao-paulo-amanhece-com-chuva-frio-e-lentidao-as-vesperas-do-feriado.shtml)_
+
+- **[2026-09-05 16:13 UTC]** Paraná terá chuva no fim de semana e frio no feriado de 7 de setembro; confira previsão do tempo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/05/parana-tera-chuva-no-fim-de-semana.ghtml)_
+
+- **[2026-09-06 18:05 UTC]** Frio deve continuar em São Paulo em feriado de 7 de Setembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/frio-deve-continuar-em-sao-paulo-em-feriado-de-7-de-setembro.shtml)_
+
+- **[2026-09-06 19:20 UTC]** Frio intenso segue na noite deste domingo e manhã de segunda em SC, com chance de neve
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/frio-intenso-domingo-e-manha-segunda-neve-sc.ghtml)_
+
+- **[2026-09-06 20:04 UTC]** Neva na Serra Gaúcha neste domingo (6); frio também atinge o Sudeste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/neva-na-serra-gaucha-neste-domingo-6-frio-tambem-atinge-o-sudeste.shtml)_
+
+- **[2026-09-06 20:04 UTC]** Frio atinge Sul e Sudeste, e neva na Serra Gaúcha; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/neva-na-serra-gaucha-neste-domingo-6-frio-tambem-atinge-o-sudeste.shtml)_
+
+- **[2026-09-07 03:00 UTC]** Semana começa com frio intenso e chance de neve na madrugada de segunda no RS; veja a previsão
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/semana-comeca-com-frio-intenso-e-chance-de-neve-na-madrugada-de-segunda-no-rs-veja-a-previsao.ghtml)_
+
+- **[2026-09-07 05:00 UTC]** Feriado de 7 de Setembro deve ter frio e chuva em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/feriado-de-7-de-setembro-deve-ter-frio-e-chuva-em-sao-paulo.shtml)_
+
+- **[2026-09-07 10:38 UTC]** Frio marca início do feriado de 7 de Setembro no Paraná, com temperaturas abaixo de 0°C, segundo o Simepar; veja a previsão
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/07/frio-feriado-parana-tempo.ghtml)_
+
+- **[2026-09-07 11:31 UTC]** Frio intenso no RS: após neve, estado tem amanhecer congelante com mínima de -3,8°C
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/frio-neve-chuva-congelada-serra-rs.ghtml)_
+
+- **[2026-09-07 10:21 UTC]** Feriado começa com frio, geada e temperaturas negativas na Serra de SC; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/gelou-feriado-frio-temperaturas-negativas-serra-santa-catarina.ghtml)_
+
+- **[2026-09-07 18:06 UTC]** Desfiles de 7 de Setembro reúnem milhares de pessoas no RS apesar do frio
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/desfiles-de-7-de-setembro-reunem-milhares-de-pessoas-no-rs-apesar-do-frio.ghtml)_
+
+- **[2026-09-08 08:30 UTC]** Frente fria traz chuva, frio intenso e risco de geada no país
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/frente-fria-traz-chuva-frio-intenso-e-risco-de-geada-no-pais)_
+

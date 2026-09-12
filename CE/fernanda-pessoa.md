@@ -95,3 +95,419 @@
 - **[2026-08-30 04:00 UTC]** Política virou refém da realidade distorcida das redes sociais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml)_
 
+- **[2026-08-31 11:49 UTC]** Polícia prende suspeito de ataque a tiros que matou uma pessoa em rave na Suíça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/policia-prende-suspeito-de-ataque-a-tiros-que-matou-uma-pessoa-em-rave-na-suica.shtml)_
+
+- **[2026-08-31 11:29 UTC]** Enchente no Grand Canyon, nos EUA, mata uma pessoa e deixa 15 desaparecidas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/enchente-no-grand-canyon-nos-eua-mata-uma-pessoa-e-deixa-15-desaparecidas.shtml)_
+
+- **[2026-08-30 16:47 UTC]** Capotamento na viagem de Laranjal do Jari a Macapá deixa uma pessoa morta e três feridas
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/30/capotamento-na-viagem-de-laranjal-do-jari-a-macapa-deixa-uma-pessoa-morta-e-duas-feridas.ghtml)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2018-07-20 01:13 UTC]** Morador é indenizado no ES após descobrir que imóvel que comprou foi alugado para outra pessoa
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/2018/07/20/morador-e-indenizado-no-es-apos-descobrir-que-imovel-que-comprou-foi-alugado-para-outra-pessoa.ghtml)_
+
+- **[2018-07-11 18:13 UTC]** Motorista de carro perde controle, bate em traseira de caminhão parado; acidente deixa uma pessoa morta na GO-080, em Nerópolis
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/video-mostra-batida-que-deixou-homem-morto-e-outras-tres-pessoas-feridas-na-go-080-em-neropolis.ghtml)_
+
+- **[2017-04-02 20:33 UTC]** Bombeiros procuram por pessoa que se afogou em lago de Nerópolis, GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/bombeiros-procuram-por-pessoa-que-se-afogou-em-lago-de-neropolis-go.html)_
+
+- **[2018-07-17 14:15 UTC]** Caminhões batem de frente em MS e uma pessoa fica presa às ferragens
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/caminhoes-batem-de-frente-em-ms-e-pelo-menos-uma-pessoa-fica-presa-as-ferragens.ghtml)_
+
+- **[2018-04-19 16:59 UTC]** Pessoa com deficiência poderá usar FGTS para aquisição de próteses e órteses
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/minas-gerais/triangulo-mineiro/blog/mao-na-roda/post/pessoa-com-deficiencia-podera-usar-fgts-para-aquisicao-de-proteses-e-orteses.html)_
+
+- **[2026-08-27 19:04 UTC]** Homem é preso após vídeo mostrar tortura contra pessoa em situação de vulnerabilidade no Brejo da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/27/homem-e-preso-apos-video-mostrar-tortura-contra-pessoa-em-situacao-de-rua-no-brejo-da-pb.ghtml)_
+
+- **[2026-08-28 06:00 UTC]** 'Praticamente excluída', diz delegado sobre a possibilidade de outra pessoa envolvida na morte de família em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/possibilidade-de-outra-pessoa-morte-de-familia-em-curitiba.ghtml)_
+
+- **[2026-08-22 14:35 UTC]** Acidente entre moto e caminhão deixa uma pessoa morta na BR-304, em Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/22/acidente-entre-moto-e-caminhao-deixa-uma-pessoa-morta-na-br-304-em-mossoro.ghtml)_
+
+- **[2026-08-30 09:00 UTC]** Com rebanho de 11,6 milhões, Tocantins tem quase oito cabeças de gado por pessoa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/com-rebanho-de-116-milhoes-tocantins-tem-quase-oito-cabecas-de-gado-por-pessoa.ghtml)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2026-09-02 09:20 UTC]** Paraíba é o 3º estado com maior qualidade de crédito para pessoa física no país, aponta ranking de competitividade
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/paraiba-e-o-3o-estado-com-maior-qualidade-de-credito-para-pessoa-fisica-no-pais-aponta-ranking-de-competitividade.ghtml)_
+
+- **[2026-09-02 13:24 UTC]** Por que uma pessoa pode ser 'loira' ou 'loura'? Ou isso é 'cousa de doudo'?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/caetano-w-galindo/2026/09/por-que-uma-pessoa-pode-ser-loira-ou-loura-ou-isso-e-cousa-de-doudo.shtml)_
+
+- **[2026-09-02 12:48 UTC]** 'Qualquer outra pessoa estaria presa', diz Capitão Alberto Neto sobre Moraes em sabatina
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/qualquer-outra-pessoa-estaria-presa-diz-capitao-alberto-neto-sobre-moraes-em-sabatina.ghtml)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2026-09-02 17:26 UTC]** Justiça condena pessoa no Pará por venda de vídeos na internet com tortura e morte de animais
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/justica-condena-uma-pessoa-no-para-por-venda-de-videos-na-internet-com-tortura-e-morte-de-animais.ghtml)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2026-09-07 11:01 UTC]** Acidente envolvendo dois carros deixa uma pessoa morta no sul do Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/07/acidente-envolvendo-dois-carros-deixa-uma-pessoa-morta-no-sul-do-amapa.ghtml)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2026-09-07 20:00 UTC]** Natália Lage e Emilio Orciollo Netto estrelam peça sobre Fernando Pessoa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/natalia-lage-e-emilio-orciollo-netto-estrelam-peca-sobre-fernando-pessoa.shtml)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2026-09-09 21:36 UTC]** Ônibus de transporte de pacientes sofre acidente na PA-151, deixa feridos e uma pessoa presa às ferragens
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/onibus-de-transporte-de-pacientes-sofre-acidente-na-pa-151-deixa-feridos-e-uma-pessoa-presa-as-ferragens.ghtml)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2026-09-09 21:36 UTC]** Ônibus que transportava pacientes de Belém para Cametá sofre acidente, deixa feridos e uma pessoa presa às ferragens
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/onibus-de-transporte-de-pacientes-sofre-acidente-na-pa-151-deixa-feridos-e-uma-pessoa-presa-as-ferragens.ghtml)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+
+- **[2017-07-12 18:20 UTC]** Hospital Santa Izabel oferece cuidado 
+direcionado às necessidades de cada pessoa
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
+

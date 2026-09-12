@@ -17,3 +17,42 @@
 - **[2026-08-27 21:15 UTC]** Lula 3 não entendeu que Lula 4 depende de muito mais do que emprego e renda melhores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/lula-3-nao-entendeu-que-lula-4-depende-de-muito-mais-do-que-emprego-e-renda-melhores.shtml)_
 
+- **[2026-08-28 11:55 UTC]** Servidor da SSP avança sinal vermelho com caminhonete descaracterizada e bate em motociclista que morre em Manaus; VÍDEO
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/28/caminhonete-avanca-sinal-vermelho-e-bate-em-motociclista-que-morre-em-manaus-video.ghtml)_
+
+- **[2017-04-09 09:24 UTC]** Motorista 'fura' sinal vermelho, colide e foge em Campo Grande
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/2017/04/motorista-fura-sinal-vermelho-colide-e-foge-em-campo-grande.html)_
+
+- **[2026-08-29 10:26 UTC]** Moradores e turistas recebem alerta vermelho durante temporal com granizo na Serra Gaúcha; mais de 100 casas ficam destelhadas
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/aviso-tempestade-celulares-serra-gaucha-canela-gramado.ghtml)_
+
+- **[2026-08-29 21:09 UTC]** Moto avança sinal vermelho, é atingida por carro e dois ficam feridos em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/moto-avanca-sinal-vermelho-e-atingida-por-carro-e-dois-ficam-feridos-em-boa-vista.ghtml)_
+
+- **[2026-09-09 16:42 UTC]** Paraná tem 265 cidades sob alerta vermelho de tempestade; veja lista
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/alerta-vermelho-parana-tempestade.ghtml)_
+
+- **[2026-09-10 12:07 UTC]** Até quando vão as chuvas no Paraná? Estado está sob alerta vermelho de tempestades severas com chances de tornados e granizo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/10/ate-quando-vao-as-chuvas-no-parana-estado-esta-sob-alerta-vermelho-de-tempestades-severas-com-chances-de-tornados-e-granizo.ghtml)_
+
+- **[2026-09-09 16:42 UTC]** Paraná tem 312 cidades sob alerta vermelho de tempestade após atualização do Inmet; veja lista
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/alerta-vermelho-parana-tempestade.ghtml)_
+
+- **[2026-09-10 15:20 UTC]** SC entra em alerta vermelho para tempestades com ventos acima de 100 km/h e queda de granizo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/sc-alerta-vermelho-tempestades-ventos-acima-de-100-quilometros-granizo.ghtml)_
+
+- **[2026-09-11 08:29 UTC]** Aliados do Irã avançam no mar Vermelho; oleoduto saudita pega fogo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aliados-do-ira-avancam-no-mar-vermelho-oleoduto-saudita-pega-fogo.shtml)_
+
+- **[2026-09-11 08:29 UTC]** Rebeldes pró-Irã tomam costa do mar Vermelho no Iêmen
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aliados-do-ira-avancam-no-mar-vermelho-oleoduto-saudita-pega-fogo.shtml)_
+
+- **[2026-09-11 13:35 UTC]** Paraná tem apenas três cidades fora do alerta vermelho de tempestade; veja quais
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/alerta-vermelho-de-tempestade-parana.ghtml)_
+
+- **[2026-09-11 16:18 UTC]** Após alerta vermelho de tempestades e tornados, como fica o tempo no Paraná? Veja previsão
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/apos-alerta-vermelho-de-tempestades-e-tornados-como-fica-o-tempo-no-parana-veja-previsao.ghtml)_
+
+- **[2026-09-11 17:53 UTC]** Ciclone extratropical deixa região Sul do país em alerta vermelho
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/ciclone-extratropical-deixa-regiao-sul-do-pais-em-alerta-vermelho)_
+

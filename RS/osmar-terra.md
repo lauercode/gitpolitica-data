@@ -41,3 +41,72 @@
 - **[2026-08-30 12:00 UTC]** Podemos em breve ter a tecnologia necessária para alcançar outros sistemas estelares
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/podemos-em-breve-ter-a-tecnologia-necessaria-para-alcancar-outros-sistemas-estelares.shtml)_
 
+- **[2018-07-17 23:37 UTC]** Tremor de terra é registrado em Poços de Caldas; magnitude foi de 2.2, diz UNB
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/unb-confirma-tremor-de-terra-de-magnitude-22-em-pocos-de-caldas-mg.ghtml)_
+
+- **[2026-08-26 18:04 UTC]** TRF1 barra decisão que fragilizava proteção de terra indígena sob invasão no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/26/trf1-barra-decisao-que-ameacava-protecao-de-terra-indigena-sob-invasao-no-para.ghtml)_
+
+- **[2026-08-25 15:31 UTC]** Incêndio atinge Terra Indígena Apyterewa, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/25/incendio-atinge-terra-indigena-apyterewa-no-para.ghtml)_
+
+- **[2026-08-31 14:10 UTC]** Temperos da terra: os sabores que preservam a cultura do campo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/fag-centro-universitario-city-farm/noticia/2026/08/31/temperos-da-terra-os-sabores-que-preservam-a-cultura-do-campo.ghtml)_
+
+- **[2026-08-26 12:37 UTC]** PF destrói acampamento de extração ilegal de madeira em Terra Indígena de RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/26/pf-destroi-acampamento-de-extracao-ilegal-de-madeira-em-terra-indigena-de-ro.ghtml)_
+
+- **[2026-08-29 16:59 UTC]** Dupla é presa por retirar carga de droga de avião que caiu na Terra Yanomami após sair da Venezuela
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/dupla-e-presa-por-retirar-carga-de-droga-de-aviao-que-caiu-na-terra-yanomami-apos-sair-da-venezuela.ghtml)_
+
+- **[2026-08-26 09:00 UTC]** MPF pede condenação de ex-servidores da Funai e garimpeiros por esquema de propina em ouro na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/mpf-pede-condenacao-de-ex-servidores-da-funai-e-garimpeiros-por-esquema-de-propina-em-ouro-na-terra-yanomami.ghtml)_
+
+- **[2026-08-25 18:32 UTC]** Galinheiro usado para esconder mais de 100 kg de cocaína e maconha debaixo da terra é descoberto em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/25/galinheiro-esconder-100-kg-cocaina-maconha-descoberto-sc.ghtml)_
+
+- **[2026-08-21 22:07 UTC]** Tremor de terra é registrado no interior de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/tremor-de-terra-e-registrado-no-interior-de-sergipe.ghtml)_
+
+- **[2026-08-31 22:14 UTC]** Empresário, mineradora e mais oito viram réus por garimpo ilegal de ouro e cassiterita na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/31/empresario-mineradora-e-mais-oito-viram-reus-por-garimpo-ilegal-de-ouro-e-cassiterita-na-terra-yanomami.ghtml)_
+
+- **[2026-09-01 15:50 UTC]** Meu Ceará é terra da educação e do roubo misterioso de calcinhas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/socorro-acioli/2026/09/meu-ceara-e-terra-da-educacao-e-do-roubo-misterioso-de-calcinhas.shtml)_
+
+- **[2026-09-02 18:45 UTC]** Justiça mantém demarcação de terra indígena de 1,1 milhão de hectares entre MT e PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/mt/mato-grosso/noticia/2026/09/02/justica-mantem-demarcacao-de-terra-indigena-de-11-milhao-de-hectares-entre-mt-e-pa.ghtml)_
+
+- **[2026-09-03 15:39 UTC]** Osmar Terra critica lobby da cannabis e cobra Congresso após caso envolvendo Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/osmar-terra-critica-lobby-cannabis-cobra-congresso-caso-envolvendo-lulinha/)_
+
+- **[2026-09-03 19:40 UTC]** Osmar Terra denuncia lobby da maconha e cobra apuração sobre Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/osmar-terra-denuncia-lobby-da-maconha-e-cobra-apuracao-sobre-lulinha/)_
+
+- **[2026-09-05 07:00 UTC]** Brasil testa 'laboratório espacial' que vai a 100 km de altitude e volta à Terra de paraquedas
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/brasil-testa-laboratorio-espacial-que-vai-a-100-km-de-altitude-e-volta-a-terra-de-paraquedas.ghtml)_
+
+- **[2026-09-05 07:00 UTC]** Quem conhece a própria terra sente nos ossos a crise climática
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/09/quem-conhece-a-propria-terra-sente-nos-ossos-a-crise-climatica.shtml)_
+
+- **[2026-09-06 16:10 UTC]** Tremor de terra de magnitude 3,7 é registrado na região sul do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/tremor-de-terra-de-magnitude-37-e-registrado-na-regiao-sul-do-tocantins.ghtml)_
+
+- **[2026-09-07 20:00 UTC]** Grito dos Excluídos pede direito à terra, moradia e fim do feminicídio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/grito-dos-excluidos-pede-direito-terra-moradia-e-fim-do-feminicidio)_
+
+- **[2026-09-09 13:37 UTC]** Tocantins teve 34 tremores de terra nos últimos 30 anos; veja cidades com mais registros
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/tocantins-teve-34-tremores-de-terras-nos-ultimos-30-anos-veja-cidades-com-mais-registros.ghtml)_
+
+- **[2026-09-09 21:55 UTC]** Trabalhadores resgatados em fazenda dormiam em chão de terra e sem proteção contra animais no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/trabalhadores-resgatados-de-situacao-analoga-a-escravidao-dormiam-em-chao-de-terra-e-sem-protecao-contra-animais-no-para.ghtml)_
+
+- **[2026-09-09 21:33 UTC]** MPF investiga empresa Voare por queda de helicóptero que matou dois indígenas na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/09/mpf-investiga-empresa-voare-por-queda-de-helicoptero-que-matou-dois-indigenas-na-terra-yanomami.ghtml)_
+
+- **[2026-09-10 20:11 UTC]** MPF dá 30 dias para governo federal comprar remédio contra bicho-de-pé para Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/mpf-da-30-dias-para-governo-federal-comprar-remedio-contra-bicho-de-pe-para-terra-yanomami.ghtml)_
+
+- **[2026-09-11 17:34 UTC]** Deslizamento de terra destrói casas em Campo Bom, no RS; moradores não estavam no local
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/deslizamento-de-terra-destroi-casas-em-campo-bom.ghtml)_
+

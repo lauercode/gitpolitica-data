@@ -11,3 +11,27 @@
 - **[2026-08-29 12:00 UTC]** Salada embalada é segura? Entenda como alimento pode ser contaminado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/salada-embalada-e-segura-entenda-como-alimento-pode-ser-contaminado.shtml)_
 
+- **[2017-10-30 16:45 UTC]** Mãe de aluno que atirou contra colegas guardava a arma em local seguro, diz advogada
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/mae-de-aluno-que-atirou-contra-colegas-presta-depoimento-em-goiania.ghtml)_
+
+- **[2026-08-30 13:52 UTC]** 'Quero que o seguro agrícola avance': Zema comenta questões do setor em feira do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/30/zema-feira-agro-do-rs.ghtml)_
+
+- **[2026-09-03 12:48 UTC]** Correr com carrinho é mais seguro para pais, indica estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/maternar/2026/09/correr-com-carrinho-e-mais-seguro-para-pais-indica-estudo.shtml)_
+
+- **[2026-09-03 21:56 UTC]** Senado aprova novas regras para seguro rural
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/senado-aprova-novas-regras-para-seguro-rural.shtml)_
+
+- **[2026-09-09 17:40 UTC]** Demitidos das Casas Bahia não conseguem receber rescisão, FGTS e seguro-desemprego, diz entidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/demitidos-das-casas-bahia-nao-conseguem-receber-rescisao-fgts-e-seguro-desemprego-diz-entidade.shtml)_
+
+- **[2026-09-09 19:00 UTC]** Akad afirma ter chegado R$ 1,5 milhão em prêmios com seguro para cirurgiões plásticos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/akad-afirma-ter-chegado-r-15-milhao-em-premios-com-seguro-para-cirurgioes-plasticos.shtml)_
+
+- **[2026-09-09 17:40 UTC]** Demitidos da Casas Bahia não conseguem receber rescisão, FGTS e seguro-desemprego, diz entidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/demitidos-das-casas-bahia-nao-conseguem-receber-rescisao-fgts-e-seguro-desemprego-diz-entidade.shtml)_
+
+- **[2026-09-10 04:15 UTC]** Corregedoria de SP investiga mudança em morte ligada a seguro de R$ 85 mi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corregedoria-de-sp-investiga-mudanca-em-morte-ligada-a-seguro-de-r-85-mi.shtml)_
+

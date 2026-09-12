@@ -23,3 +23,48 @@
 - **[2026-08-30 14:00 UTC]** O prompt morreu: agora são 'loops' e 'graphs'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/08/o-prompt-morreu-agora-sao-loops-e-graphs.shtml)_
 
+- **[2026-08-31 19:42 UTC]** Após eliminação precoce no US Open, o futuro de Djokovic se ensombra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/apos-eliminacao-precoce-no-us-open-o-futuro-de-djokovic-se-ensombra.shtml)_
+
+- **[2026-09-01 20:35 UTC]** Cresol participa do Concred e debate o futuro do cooperativismo no campo e na cidade
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/01/cresol-participa-do-concred-e-debate-o-futuro-do-cooperativismo-no-campo-e-na-cidade.ghtml)_
+
+- **[2026-09-01 18:35 UTC]** Einstein afasta Lottenberg do conselho após anúncio como futuro ministro de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/einstein-afasta-lottenberg-do-conselho-apos-anuncio-como-futuro-ministro-de-flavio.shtml)_
+
+- **[2026-09-02 04:20 UTC]** As mensagens de Vorcaro a Moraes e o futuro do Caso Master no Supremo - O Assunto #1796
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/02/as-mensagens-de-vorcaro-a-moraes-e-o-futuro-do-caso-master-no-supremo-o-assunto-1796.ghtml)_
+
+- **[2026-09-02 15:14 UTC]** Como escândalo entre Moraes e Vorcaro ameaça futuro do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-escandalo-entre-moraes-e-vorcaro-ameaca-futuro-do-stf/)_
+
+- **[2026-09-03 12:53 UTC]** Lei do Combustível do Futuro impulsiona investimentos, avaliam debatedores
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302402-lei-do-combustivel-do-futuro-impulsiona-investimentos-avaliam-debatedores)_
+
+- **[2026-09-04 10:37 UTC]** Durigan diz que reforma da Previdência não está em discussão agora, mas admite debate futuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/durigan-diz-que-reforma-da-previdencia-nao-esta-em-discussao-agora-mas-admite-debate-futuro.shtml)_
+
+- **[2026-09-05 14:00 UTC]** Focamos no futuro financeiro do Instituto Inhotim, diz diretora-presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/focamos-no-futuro-financeiro-do-instituto-inhotim-diz-diretora-presidente.shtml)_
+
+- **[2026-09-07 17:52 UTC]** Festival reúne jovens para debater preservação ambiental em Rio Branco: 'Futuro sem devastação da natureza'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/festival-em-rio-branco-reune-jovens-para-debater-preservacao-ambiental-futuro-sem-devastacao-da-natureza.ghtml)_
+
+- **[2026-09-09 15:30 UTC]** Em Veneza, 'Musk', documentário ambicioso, faz público temer pelo futuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/em-veneza-musk-documentario-ambicioso-faz-publico-temer-pelo-futuro.shtml)_
+
+- **[2026-09-09 22:40 UTC]** Harry Styles deixa futuro da carreira em aberto: 'Não sei o que vem para mim'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/09/harry-styles-deixa-futuro-da-carreira-em-aberto-nao-sei-o-que-vem-para-mim.shtml)_
+
+- **[2026-09-10 14:31 UTC]** Com déficit projetado de professores, educação gaúcha busca soluções para o futuro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/10/educacao-gaucha-busca-solucoes-para-o-futuro.ghtml)_
+
+- **[2026-09-10 16:59 UTC]** Trainees da Folha simulam cirurgia robótica e exploram futuro da medicina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/09/trainees-da-folha-simulam-cirurgia-robotica-e-exploram-futuro-da-medicina.shtml)_
+
+- **[2026-09-11 12:58 UTC]** TSE julga candidatura presidencial de Marçal e define futuro político de empresário
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-julga-candidatura-pablo-marcal/)_
+
+- **[2026-09-11 17:00 UTC]** O futuro incerto do Ministério da Cultura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/09/o-futuro-incerto-do-ministerio-da-cultura.shtml)_
+

@@ -17,3 +17,45 @@
 - **[2026-08-30 04:00 UTC]** Política virou refém da realidade distorcida das redes sociais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml)_
 
+- **[2026-08-30 15:47 UTC]** Confusão entre direita e esquerda em ato na Paulista acaba na delegacia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/confusao-entre-direita-e-esquerda-em-ato-na-paulista-acaba-na-delegacia.shtml)_
+
+- **[2026-08-30 21:09 UTC]** Protesto pelo fim da escala 6×1 termina em confusão entre direita e esquerda em SP
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/protesto-pelo-fim-da-escala-6x1-termina-em-confusao-entre-direita-e-esquerda-em-sp/)_
+
+- **[2026-08-31 19:51 UTC]** Augusto Cury é de direita ou de esquerda?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-direita-ou-esquerda/)_
+
+- **[2026-09-01 16:52 UTC]** Espancamento na UFRJ expõe a intolerância de esquerda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/09/espancamento-na-ufrj-expoe-a-intolerancia-de-esquerda.shtml)_
+
+- **[2026-09-02 14:57 UTC]** Quaest: 60% não veem Flávio Bolsonaro como melhor candidato da direita; 46% não consideram Lula melhor nome da esquerda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-melhor-candidato-flavio-bolsonaro-lula-2-setembro.ghtml)_
+
+- **[2026-09-03 04:00 UTC]** 'Socialista champagne' é a nova esperança da esquerda para eleição na França
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/socialista-champagne-e-a-nova-esperanca-da-esquerda-para-eleicao-na-franca.shtml)_
+
+- **[2026-09-04 10:51 UTC]** Adversários veem Tebet muito 'azulzinha' e querem reforçar aliança dela com a esquerda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/adversarios-veem-tebet-muito-azulzinha-e-querem-reforcar-alianca-dela-com-a-esquerda.shtml)_
+
+- **[2026-09-05 04:00 UTC]** Esquerda chegou atrasada na comunicação digital e é 'cringe', diz Jones Manoel
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/esquerda-chegou-atrasada-na-comunicacao-digital-e-e-cringe-diz-jones-manoel.shtml)_
+
+- **[2026-09-06 22:44 UTC]** TRE-MG manda site de esquerda tirar do ar reportagens sobre Nikolas chamando Vorcaro de “lindão”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-manda-icl-tirar-do-ar-reportagens-sobre-nikolas-chamando-vorcaro-de-lindao/)_
+
+- **[2026-09-06 22:00 UTC]** Direita e esquerda premiam o corporativismo policial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/direita-e-esquerda-premiam-o-corporativismo-policial.shtml)_
+
+- **[2026-09-06 23:00 UTC]** Novo e PL são as siglas mais à direita; PSTU e UP, as mais à esquerda, mostra GPS Partidário 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/novo-e-pl-sao-as-siglas-mais-a-direita-pstu-e-up-as-mais-a-esquerda-mostra-gps-partidario-2026.shtml)_
+
+- **[2026-09-08 20:28 UTC]** Parlamentares da esquerda repudiam afastamento de diretor da PF por Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/parlamentares-esquerda-repudiam-afastamento-diretor-pf-mendonca/)_
+
+- **[2026-09-08 22:06 UTC]** Zema diz que Mendonça não cometeu excesso e que esquerda e direita se omitem em caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/zema-diz-que-mendonca-nao-cometeu-excesso-e-que-esquerda-e-direita-se-omitem-em-caso-master.shtml)_
+
+- **[2026-09-10 13:57 UTC]** Evangélicos de esquerda pedem que Mendonça retire sigilo do caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/evangelicos-de-esquerda-pedem-que-mendonca-retire-sigilo-do-caso-master-e-falam-em-vazamentos-seletivos/)_
+

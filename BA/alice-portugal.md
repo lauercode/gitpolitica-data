@@ -17,3 +17,27 @@
 - **[2026-08-29 22:26 UTC]** O dia em que Portugal “assinou o divórcio” com o Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/brasil/portugal-reconheceu-independencia-brasil-tres-anos-depois/)_
 
+- **[2026-08-31 15:38 UTC]** Portugal substituirá Elevador da Glória após acidente; empresa lançará concurso para novo projeto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/portugal-substituira-elevador-da-gloria-apos-acidente-empresa-lancara-concurso-para-novo-projeto.shtml)_
+
+- **[2026-09-01 12:00 UTC]** Cidades do Alentejo, em Portugal, unem passado e presente com relíquias que desafiam o tempo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/cidades-do-alentejo-em-portugal-unem-passado-e-presente-com-reliquias-que-desafiam-o-tempo.shtml)_
+
+- **[2026-09-01 13:44 UTC]** Festival em Tiradentes celebra laços da cozinha mineira com Portugal
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/festival-de-tiradentes-celebra-lacos-da-cozinha-mineira-com-portugal)_
+
+- **[2026-09-04 15:48 UTC]** Portugal divulga que abriu negociações com Air France-KLM e Lufthansa para privatização da TAP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/portugal-divulga-que-abriu-negociacoes-com-air-france-klm-e-lufthansa-para-privatizacao-da-tap.shtml)_
+
+- **[2026-09-04 22:32 UTC]** Fafá de Belém lança projeto em Portugal e destaca impacto econômico do Círio de Nazaré no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/04/fafa-de-belem-lanca-projeto-em-portugal-e-destaca-impacto-economico-do-cirio-de-nazare-no-para.ghtml)_
+
+- **[2026-09-07 08:58 UTC]** Dia da independência do Brasil: a mulher que assinou separação de Portugal e foi a primeira a governar o país
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c93v9l32r3ko?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-07 16:29 UTC]** Coco de roda paraibano ganha palcos na Europa em projeto que leva cultura popular a Espanha e Portugal
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/coco-de-roda-paraibano-ganha-palcos-na-europa-em-projeto-que-leva-cultura-popular-a-espanha-e-portugal.ghtml)_
+
+- **[2026-09-11 02:24 UTC]** SIC anuncia em Portugal remake de 'Avenida Brasil' para 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/sic-anuncia-em-portugal-remake-de-avenida-brasil-para-2027.shtml)_
+

@@ -23,3 +23,243 @@
 - **[2026-08-29 19:42 UTC]** Mistérios e segredos de textos medievais revelados graças à IA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss)_
 
+- **[2017-09-08 10:47 UTC]** Após briga em grupo de mensagens, policial mata vizinho a tiros no DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-briga-em-grupo-de-mensagens-policial-mata-vizinho-a-tiros-no-df.ghtml)_
+
+- **[2018-07-18 01:08 UTC]** Aluna vai prestar serviços à comunidade no ES após ofender professora em app de mensagens
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/aluna-vai-prestar-servicos-a-comunidade-no-es-apos-ofender-professora-em-app-de-mensagens.ghtml)_
+
+- **[2026-09-01 17:50 UTC]** Relatório da PF sobre mensagens de Vorcaro aponta vários encontros do dono do Master com Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/relatorio-da-pf-sobre-mensagens-de-vorcaro-aponta-varios-encontros-do-dono-do-master-com-moraes.ghtml)_
+
+- **[2026-09-01 17:45 UTC]** Mensagens revelam tratativas de Vorcaro para custeio de viagens de Andrei e Gonet a Londres
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mensagens-revelam-tratativas-para-custeio-de-viagens-a-londres.ghtml)_
+
+- **[2026-09-01 17:06 UTC]** Vorcaro enviou 5 mensagens de visualização única a contato atribuído a Moraes na véspera de prisão, diz PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/mensagens-daniel-vorcaro-alexandre-de-moraes-relatorio-pf.ghtml)_
+
+- **[2026-09-01 15:07 UTC]** Moraes palpitou, aprovou textos e vetou convidados de fórum organizado por Vorcaro, dizem mensagens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/moraes-palpitou-aprovou-textos-e-vetou-convidados-de-forum-organizado-por-vorcaro-dizem-mensagens.shtml)_
+
+- **[2026-09-01 14:50 UTC]** Mendonça pede a Fachin sessão do STF para discutir mensagens entre Vorcaro e Moraes apontadas pela PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-pede-a-fachin-sessao-do-stf-para-discutir-mensagens-entre-vorcaro-e-moraes-apontadas-pela-pf.shtml)_
+
+- **[2026-09-01 14:22 UTC]** Moraes e Vorcaro se encontraram pelo menos seis vezes, indicam mensagens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/moraes-e-vorcaro-se-encontraram-pelo-menos-seis-vezes-indicam-mensagens.shtml)_
+
+- **[2026-09-01 18:37 UTC]** Moraes no caso Master: o que mostram as mensagens entre o ministro do STF e Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-01 21:20 UTC]** PF aponta que Vorcaro mandou ao menos 28 mensagens a telefone atribuído a Moraes na semana em que foi preso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/pf-aponta-que-vorcaro-mandou-mensagens-a-telefone-atribuido-a-moraes-na-semana-em-que-foi-preso.ghtml)_
+
+- **[2026-09-01 20:05 UTC]** Como PF recuperou mensagens de Vorcaro a Moraes mesmo com visualização única
+  _fonte: [G1 - Política:](https://g1.globo.com/tecnologia/noticia/2026/09/01/mensagens-visualizacao-unica-vorcaro-moraes.ghtml)_
+
+- **[2026-09-01 18:25 UTC]** Entenda como a PF ligou mensagens de Vorcaro no WhatsApp a Moraes, mesmo com visualização única
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/entenda-como-a-pf-ligou-mensagens-de-vorcaro-no-whatsapp-a-moraes-mesmo-com-visualizacao-unica.shtml)_
+
+- **[2026-09-01 17:37 UTC]** Ex-ministro de Bolsonaro intermediou contato entre Vorcaro e Moraes: 'dá tempo de tomar um whisky', mostram mensagens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ex-ministro-de-bolsonaro-intermediou-contato-entre-vorcaro-e-moraes-da-tempo-de-tomar-um-whisky-mostram-mensagens.shtml)_
+
+- **[2026-09-01 17:32 UTC]** Mensagens de Vorcaro citam Moraes, Gonet e chefe da PF; entenda o caso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-vorcaro-citam-moraes-gonet-e-chefe-da-pf-entenda-o-caso.shtml)_
+
+- **[2026-09-01 16:47 UTC]** OAB defende 'apuração rigorosa' após revelações de mensagens de Vorcaro para Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/oab-defende-apuracao-rigorosa-apos-revelacoes-de-mensagens-de-vorcaro-para-moraes.shtml)_
+
+- **[2026-09-01 14:14 UTC]** Flávio, Zema e Caiado cobram afastamento de Moraes do STF após mensagens de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-moraes-nao-tem-condicoes-de-continuar-no-stf-apos-mensagens-com-vorcaro.shtml)_
+
+- **[2026-09-01 23:21 UTC]** Mendonça deve liberar caso de mensagens entre Moraes e Vorcaro para plenário do STF na semana que vem
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/01/mendonca-deve-liberar-caso-de-mensagens-entre-moraes-e-vorcaro-na-semana-que-vem.ghtml)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insisitir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-01 20:06 UTC]** Mensagens indicam ação de Vorcaro para mudar reportagens no Brazil Journal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-indicam-acao-de-vorcaro-para-mudar-reportagens-no-brazil-journal.shtml)_
+
+- **[2026-09-01 18:31 UTC]** 'Clima tenso no STF': Memes já se despedem de Moraes após revelação de mensagens com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/clima-tenso-no-stf-memes-ja-se-despedem-de-moraes-apos-revelacao-de-mensagens-com-vorcaro.shtml)_
+
+- **[2026-09-01 16:47 UTC]** OAB defende 'apuração rigorosa' após revelações de mensagens de Vorcaro a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/oab-defende-apuracao-rigorosa-apos-revelacoes-de-mensagens-de-vorcaro-para-moraes.shtml)_
+
+- **[2026-09-01 21:31 UTC]** Mensagens sugerem encontro de Moraes com Vorcaro um dia antes da prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-sugerem-encontro-de-moraes-com-vorcaro-um-dia-antes-da-prisao/)_
+
+- **[2026-09-01 23:25 UTC]** Moraes no caso Master: o que mostram as mensagens atribuídas ao ministro do STF e Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr5024ngz39o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-01 23:00 UTC]** Mensagens em poder da PF expõem elos e indicam atuação de Moraes a favor de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-em-poder-da-pf-expoem-elos-e-indicam-atuacao-de-moraes-a-favor-de-vorcaro.shtml)_
+
+- **[2026-09-01 21:38 UTC]** Leia íntegra de documento da PF com mensagens de Vorcaro sobre Moraes, Gonet e chefe da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/leia-integra-de-documento-da-pf-com-mensagens-de-vorcaro-sobre-moraes-gonet-e-chefe-da-pf.shtml)_
+
+- **[2026-09-02 00:53 UTC]** 19 mensagens que mostram carinho de Vorcaro com Moraes e Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/gratidao-da-minha-vida-mensagens-mostram-carinho-de-vorcaro-com-moraes-e-gonet/)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-02 04:01 UTC]** Polícia Federal revela mensagens de gratidão e luxo entre Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-revela-mensagens-de-gratidao-e-luxo-entre-vorcaro-e-moraes/)_
+
+- **[2026-09-02 03:07 UTC]** A “trilha do print”: Como a PF reconstruiu o envio de mensagens secretas entre Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-pf-reconstruiu-o-envio-de-mensagens-secretas-entre-vorcaro-e-moraes/)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-02 05:00 UTC]** Podcast analisa impacto de mensagens que expõem relação de Moraes e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-analisa-impacto-de-mensagens-que-expoem-relacao-de-moraes-e-vorcaro.shtml)_
+
+- **[2026-09-02 11:52 UTC]** INFOGRÁFICO: veja mensagens que Vorcaro mandou a número atribuído a Moraes antes de ser preso, segundo PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/infografico-mensagens-vorcaro-moraes-segundo-pf.ghtml)_
+
+- **[2026-09-02 10:28 UTC]** Mensagens de Moraes podem indicar tráfico de influência e obstrução à Justiça, avaliam advogados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/02/mensagens-de-moraes-vorcaro.ghtml)_
+
+- **[2026-09-02 08:45 UTC]** 'Bomba atômica' e 'terremoto político': o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/09/02/bomba-atomica-e-terremoto-politico-o-que-imprensa-internacional-disse-sobre-mensagens-entre-vorcaro-e-moraes.ghtml)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-02 16:30 UTC]** STF faz hoje a primeira sessão após revelação de mensagens de Vorcaro para Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-02 14:01 UTC]** Fachin reconhece crise de mensagens entre Moraes e Vorcaro e diz que tomará providências
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-reconhece-crise-mensagens-moraes-vorcaro-tomara-providencias/)_
+
+- **[2026-09-02 03:07 UTC]** A “trilha do print”: como a PF reconstruiu o envio de mensagens secretas entre Vorcaro e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-pf-reconstruiu-o-envio-de-mensagens-secretas-entre-vorcaro-e-moraes/)_
+
+- **[2026-09-02 17:37 UTC]** STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-02 15:34 UTC]** Com Moraes e Mendonça lado a lado, STF ignora caso Master em 1ª sessão após novas mensagens de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/com-moraes-e-mendonca-lado-a-lado-stf-ignora-caso-master-em-1a-sessao-apos-novas-mensagens-de-vorcaro.shtml)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-02 17:27 UTC]** Entenda o que pode acontecer com Moraes após revelação de mensagens com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-pode-acontecer-com-moraes-apos-revelacao-de-mensagens-com-vorcaro.shtml)_
+
+- **[2026-09-02 20:59 UTC]** Mensagens de Vorcaro apontam crimes comuns e de responsabilidade de Moraes e Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-de-vorcaro-apontam-crimes-comuns-e-de-responsabilidade-de-moraes-e-gonet/)_
+
+- **[2026-09-02 21:03 UTC]** Moraes e Mendonça ficam lado a lado na primeira sessão do STF após crise das mensagens
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-e-mendonca-ficam-lado-a-lado-na-primeira-sessao-do-stf-apos-crise-das-mensagens/)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-03 00:12 UTC]** O que Moraes já disse sobre as mensagens de Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-moraes-ja-disse-sobre-as-mensagens-de-vorcaro/)_
+
+- **[2026-09-02 23:07 UTC]** Gilmar Mendes visitou Lula no dia em que Mendonça tirou sigilo de mensagens para Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-visitou-lula-no-dia-em-que-mendonca-tirou-sigilo-de-mensagens-para-moraes/)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-02 23:00 UTC]** Mensagens para Moraes abrem margem para investigação de suspeita de corrupção e advocacia administrativa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-para-moraes-abrem-margem-para-investigacao-de-suspeita-de-corrupcao-e-advocacia-administrativa.shtml)_
+
+- **[2026-09-03 01:00 UTC]** Mensagens de ex-banqueiro sugerem crimes de Moraes e Gonet em relatório da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-de-ex-banqueiro-sugerem-crimes-de-moraes-e-gonet-em-relatorio-da-pf/)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-03 05:00 UTC]** Podcast discute primeiras reações e impactos de crise das mensagens entre Vorcaro e Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-discute-primeiras-reacoes-e-impactos-de-crise-das-mensagens-entre-vorcaro-e-moraes.shtml)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-03 08:00 UTC]** Se não der em nada, vamos para a rua, diz fundador da Petz após mensagens de Vorcaro a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/se-nao-der-em-nada-vamos-para-a-rua-diz-fundador-da-petz-apos-mensagens-de-vorcaro-a-moraes.shtml)_
+
+- **[2026-09-03 12:38 UTC]** Mensagens mostram conversas entre Daniel Vorcaro e Nikolas Ferreira
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/mensagens-mostram-conversas-entre-daniel-vorcaro-e-nikolas-ferreira)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-01 23:11 UTC]** Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que 
+plenário do STF analise mensagens entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-03 16:07 UTC]** Mensagens com Vorcaro mostram que Alexandre não é mais Xandão; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mensagens-com-vorcaro-mostram-que-alexandre-nao-e-mais-xandao-veja-video.shtml)_
+
+- **[2026-09-03 15:10 UTC]** 'Nikolas peleleco'; deputado é ironizado nas redes após troca de mensagens com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/nikolas-peleleco-deputado-e-ironizado-nas-redes-apos-troca-de-mensagens-com-vorcaro.shtml)_
+
+- **[2026-09-04 03:00 UTC]** Nikolas e Vorcaro: ouça ÁUDIO, leia transcrição e veja o que ex-deputado falou sobre as mensagens
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml)_
+
+- **[2026-09-04 03:00 UTC]** Nikolas e Vorcaro: ouça ÁUDIO, leia transcrição e veja o que deputado falou sobre as mensagens
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml)_
+
+- **[2026-09-04 03:00 UTC]** Nikolas Ferreira e Daniel Vorcaro: ouça ÁUDIO, leia transcrição e veja o que deputado falou sobre mensagens
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml)_
+
+- **[2026-09-04 10:06 UTC]** Empresários discutem novo manifesto para pressionar STF após mensagens de Vorcaro e Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresarios-discutem-novo-manifesto-para-pressionar-stf-apos-mensagens-de-vorcaro-e-moraes.shtml)_
+
+- **[2026-09-04 14:01 UTC]** Conselho Superior do MPF abre procedimento para analisar citações a Gonet em mensagens atribuídas a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/conselho-superior-do-mpf-abre-procedimento-para-analisar-citacoes-a-paulo-gonet-em-mensagens-atribuidas-a-daniel-vorcaro.ghtml)_
+
+- **[2026-09-04 23:17 UTC]** PGR investigará relatório da PF que revelou mensagens de Vorcaro a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pgr-investigara-relatorio-da-pf-que-revelou-mensagens-de-vorcaro-a-moraes.shtml)_
+
+- **[2026-09-05 00:32 UTC]** Caso Master: o que pode acontecer com Moraes após supostas mensagens que revelam sua ligação com Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz0z10j4rd7o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-06 18:35 UTC]** Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/06/mendonca-libera-para-plenario-do-stf-caso-de-mensagens-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-07 12:31 UTC]** Chacina de Pioz: jovem que denunciou troca de mensagens entre acusados relembra o crime que deixou família da PB morta na Espanha
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/07/chacina-de-pioz-jovem-que-denunciou-troca-de-mensagens-entre-acusados-relembra-o-crime-que-deixou-familia-da-pb-morta-na-espanha.ghtml)_
+
+- **[2026-09-08 17:57 UTC]** Quem é Andrei Rodrigues, da PF, e como ele aparece nas mensagens de Vorcaro e na guerra Moraes-Mendonça
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckg8exwg94jo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-11 08:15 UTC]** Assessoria informal, grupo de mensagens, cobrança de pagamento: PF detalha relação de Vorcaro com servidores do BC
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/assessoria-informal-grupo-de-mensagens-cobranca-de-pagamento-pf-detalha-relacao-de-vorcaro-com-servidores-do-bc.ghtml)_
+
+- **[2026-09-11 08:44 UTC]** Quem é quem nas mensagens que desencadearam a maior crise da história do STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c7708dpmmg7o?at_medium=RSS&at_campaign=rss)_
+

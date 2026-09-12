@@ -17,3 +17,78 @@
 - **[2026-08-24 18:36 UTC]** Justiça Eleitoral realiza campanha de combate ao assédio de eleitores no trabalho
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1299833-justica-eleitoral-realiza-campanha-de-combate-ao-assedio-de-eleitores-no-trabalho)_
 
+- **[2026-08-28 07:00 UTC]** Candidatos ao Senado por SP ignoram regulação de redes ao propor combate à violência contra a mulher
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/28/candidatos-ao-senado-por-sp-ignoram-regulacao-de-redes-ao-propor-combate-a-violencia-contra-a-mulher.ghtml)_
+
+- **[2026-08-31 15:13 UTC]** Comissão debate uso de tecnologias no combate à violência contra mulheres; participe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301225-comissao-debate-uso-de-tecnologias-no-combate-a-violencia-contra-mulheres-participe)_
+
+- **[2026-08-21 14:33 UTC]** Amapá reforça combate a queimadas com operação especial durante período de estiagem
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/21/amapa-reforca-combate-a-queimadas-com-operacao-especial-durante-periodo-de-estiagem.ghtml)_
+
+- **[2026-08-29 23:58 UTC]** Eleições 2026: David Almeida participa de evento com jovens em Manaus e fala sobre necessidade de combate à queima de lixo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/29/eleicoes-2026-david-almeida-participa-de-evento-com-jovens-em-manaus-e-fala-sobre-necessidade-de-combate-a-queima-de-lixo.ghtml)_
+
+- **[2018-05-17 10:39 UTC]** Operação de combate à pornografia infantil prende 251 pessoas no país
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/df/distrito-federal/noticia/operacao-de-combate-a-exploracao-sexual-infantil-cumpre-578-mandados-no-df-e-em-24-estados.ghtml)_
+
+- **[2017-03-21 07:08 UTC]** PF combate em GO, DF e mais três estados fraudes bancárias na web
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/goias/noticia/2017/03/pf-combate-crimes-ciberneticos-em-goias-df-e-mais-tres-estados.html)_
+
+- **[2017-03-17 06:41 UTC]** Polícia Federal deflagra operação de combate a venda ilegal de carnes
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/pr/parana/noticia/2017/03/policia-federal-deflagra-operacao-de-combate-venda-ilegal-de-carnes.html)_
+
+- **[2026-08-27 20:31 UTC]** Maranhense morre em combate na guerra entre Ucrânia e Rússia, diz família
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/27/maranhense-morre-em-combate-na-guerra-entre-ucrania-e-russia-diz-familia.ghtml)_
+
+- **[2017-08-29 10:57 UTC]** Ação da PF combate grupo suspeito de comprar drogas de traficante brasileiro preso no Paraguai
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/acao-da-pf-combate-grupo-suspeito-de-comprar-drogas-de-traficante-brasileiro-preso-no-paraguai.ghtml)_
+
+- **[2026-08-28 13:54 UTC]** Dia de combate ao escalpelamento tem programação em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/dia-de-combate-ao-escalpelamento-tem-programacao-na-grande-belem.ghtml)_
+
+- **[2026-08-25 22:33 UTC]** Eleições 2026 no RS: Juliana Brizola diz que vai priorizar combate à violência contra a mulher
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-no-rs-juliana-brizola-diz-que-vai-priorizar-combate-a-violencia-contra-a-mulher.ghtml)_
+
+- **[2026-08-31 23:57 UTC]** Câmara aprova prazo maior para empresa deduzir doações a entidades de combate ao câncer
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301494-camara-aprova-prazo-maior-para-empresa-deduzir-doacoes-a-entidades-de-combate-ao-cancer)_
+
+- **[2026-09-01 01:59 UTC]** Eleições 2026: Professora Maria do Carmo se reúne com apoiadoras e fala sobre combate à violência contra a mulher
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-professora-maria-do-carmo-se-reune-com-apoiadoras-e-fala-sobre-combate-a-violencia-contra-a-mulher.ghtml)_
+
+- **[2026-09-01 23:57 UTC]** Comissão aprova relatório que propõe criação de Agência Antimáfia e combate a prejuízo com pirataria
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301895-comissao-aprova-relatorio-que-propoe-criacao-de-agencia-antimafia-e-combate-a-prejuizo-com-pirataria)_
+
+- **[2026-09-03 08:17 UTC]** Procurador defende asfixia financeira no combate ao crime organizado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/procurador-defende-asfixia-financeira-no-combate-ao-crime-organizado)_
+
+- **[2026-09-03 18:28 UTC]** PRF inicia Operação Independência com foco no combate à embriaguez ao volante nas rodovias
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/03/prf-inicia-operacao-independencia-com-foco-no-combate-a-embriaguez-ao-volante-nas-rodovias.ghtml)_
+
+- **[2026-09-04 12:09 UTC]** PF combate fraudes em registros de CACs no RJ e Espírito Santo
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/pf-combate-fraudes-em-registros-de-cacs-no-rio-e-espirito-santo)_
+
+- **[2026-09-04 22:03 UTC]** Combate a incêndio que destruiu mercado no Acre acaba após 10h e famílias são retiradas da região
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/combate-a-incendio-que-destruiu-mercado-em-rio-branco-acaba-apos-9h-e-familias-sao-retiradas-da-regiao.ghtml)_
+
+- **[2026-09-06 06:49 UTC]** Corrupção, defesa da democracia, combate ao crime: Quaest mostra o que mais pesa na escolha do eleitor
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/06/corrupcao-defesa-da-democracia-combate-ao-crime-quaest-mostra-o-que-mais-pesa-na-escolha-do-eleitor.ghtml)_
+
+- **[2026-09-06 21:26 UTC]** Genética de morcegos pode revolucionar combate ao câncer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/genetica-de-morcegos-pode-revolucionar-combate-ao-cancer.shtml)_
+
+- **[2026-09-07 06:31 UTC]** Sete de setembro: soberania, Copa e combate ao feminicídio serão temas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/sete-de-setembro-soberania-copa-e-combate-ao-feminicidio-serao-temas)_
+
+- **[2026-09-09 12:08 UTC]** Comissão aprova destinação de recursos públicos para combate a crimes financeiros virtuais
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302915-comissao-aprova-destinacao-de-recursos-publicos-para-combate-a-crimes-financeiros-virtuais)_
+
+- **[2026-09-09 16:53 UTC]** Hospitais no interior e combate às filas: veja as principais propostas dos candidatos ao governo do AM para saúde
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/hospitais-no-interior-e-combate-as-filas-veja-as-principais-propostas-dos-candidatos-ao-governo-do-am-para-saude.ghtml)_
+
+- **[2026-09-10 19:13 UTC]** Operação de combate a roubo de celular em SP teve cães farejadores, campanas e perícias digitais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-de-combate-a-roubo-de-celular-em-sp-teve-caes-farejadores-campanas-e-pericias-digitais.shtml)_
+
+- **[2026-09-11 15:01 UTC]** Projeto prevê uso de recursos do Fundo Social no combate à malária na Amazônia Legal
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304022-projeto-preve-uso-de-recursos-do-fundo-social-no-combate-a-malaria-na-amazonia-legal)_
+

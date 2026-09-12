@@ -5,3 +5,36 @@
 
 ## Histórico
 
+- **[2026-08-29 23:58 UTC]** Eleições 2026: David Almeida participa de evento com jovens em Manaus e fala sobre necessidade de combate à queima de lixo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/29/eleicoes-2026-david-almeida-participa-de-evento-com-jovens-em-manaus-e-fala-sobre-necessidade-de-combate-a-queima-de-lixo.ghtml)_
+
+- **[2026-08-29 01:36 UTC]** Eleições 2026: David Almeida concede entrevista a programa de TV e promete dobrar valor do Auxílio Estadual
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-david-almeida-concede-entrevista-a-programa-de-tv-e-promete-dobrar-valor-do-auxilio-estadual.ghtml)_
+
+- **[2026-08-27 21:01 UTC]** Eleições 2026: David Almeida se reúne com apoiadores em feira de Manaus e afirma que pretende zerar fila do SisReg
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-david-almeida-se-reune-com-apoiadores-em-feira-de-manaus-e-afirma-que-pretende-zerar-fila-do-sisreg.ghtml)_
+
+- **[2026-09-01 02:05 UTC]** Eleições 2026: David Almeida participa de caminhada e promete recuperar rodovias e ramais no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-david-almeida-participa-de-caminhada-e-promete-recuperar-rodovias-e-ramais-no-amazonas.ghtml)_
+
+- **[2026-09-02 02:22 UTC]** Eleições 2026: David Almeida visita feirantes em Manaus e diz que vai aumentar vagas em escolas de tempo integral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-david-almeida-visita-feirantes-em-manaus-e-diz-que-vai-aumentar-vagas-em-escolas-de-tempo-integral.ghtml)_
+
+- **[2026-09-04 02:17 UTC]** Eleições 2026: David Almeida participa de reunião partidária e promete acabar com déficit de habitações no estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-david-almeida-participa-de-reuniao-partidaria-e-promete-acabar-com-deficit-de-habitacoes-no-estado.ghtml)_
+
+- **[2026-09-04 15:12 UTC]** Eleições 2026: David Almeida participa de caminhada em Manaus e apresenta propostas para pequenos negócios
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-david-almeida-participa-de-caminhada-em-manaus-e-apresenta-propostas-para-pequenos-negocios.ghtml)_
+
+- **[2026-09-08 20:18 UTC]** Eleições 2026: David Almeida participa de entrevista em Manaus e propõe produção sem queimadas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-david-almeida-participa-de-entrevista-em-manaus-e-propoe-producao-sem-queimadas.ghtml)_
+
+- **[2026-09-10 00:19 UTC]** Eleições 2026: David Almeida participa de entrevista e propõe programa de asfaltamento de vias no interior
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-programa-de-asfaltamento-de-vias-no-interior.ghtml)_
+
+- **[2026-09-10 18:08 UTC]** Eleições 2026: David Almeida participa de entrevista e defende investimento em tecnologia policial
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-david-almeida-participa-de-entrevista-e-defende-investimento-em-tecnologia-policial.ghtml)_
+
+- **[2026-09-11 22:51 UTC]** Ministério Público Eleitoral defende que PF ouça David Almeida em investigação sobre suposta compra de votos em 2024
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/11/ministerio-publico-eleitoral-defende-que-pf-ouca-david-almeida-em-investigacao-sobre-suposta-compra-de-votos-em-2024.ghtml)_
+

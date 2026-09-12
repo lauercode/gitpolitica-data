@@ -8,3 +8,51 @@
 - **[2026-08-30 14:30 UTC]** A mãe e a filha detidas pelo ICE em hospital após sofrerem acidente de carro: 'Socorro, por favor, socorro!'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cp8411evl10o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-08-28 10:37 UTC]** Indígena morre atropelado na MA-328; motorista é atacado e tem carro incendiado ao tentar prestar socorro
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/28/indigena-morre-atropelado-na-ma-328-motorista-e-atacado-e-tem-carro-incendiado-ao-tentar-prestar-socorro.ghtml)_
+
+- **[2026-08-29 06:00 UTC]** 'Eu tinha medo por causa da minha filha', diz mulher que usou prontuário de hospital do Paraná para escrever pedido de socorro e denunciar marido
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/29/relato-mulher-que-usou-prontuario-de-hospital-do-parana.ghtml)_
+
+- **[2026-08-28 17:31 UTC]** Seu couro cabeludo está pedindo socorro? Reconheça os sinais
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/h2o-evolution-h2o-evolution-tudo-comeca-na-cabeca/noticia/2026/08/28/seu-couro-cabeludo-esta-pedindo-socorro-reconheca-os-sinais.ghtml)_
+
+- **[2026-08-27 17:22 UTC]** Mulher usa prontuário de hospital do Paraná para escrever pedido de socorro e denunciar marido: 'Não deixe entrar'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/27/mulher-ajuda-hospital-parana.ghtml)_
+
+- **[2026-08-24 19:39 UTC]** Rompimento de adutora interrompe abastecimento de água em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/rompimento-de-adutora-interrompe-abastecimento-de-agua-em-nossa-senhora-do-socorro.ghtml)_
+
+- **[2026-08-24 10:33 UTC]** Criança de 7 anos com autismo é resgatada após desaparecer em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/crianca-de-7-anos-com-autismo-e-resgatada-apos-desaparecer-em-nossa-senhora-do-socorro.ghtml)_
+
+- **[2026-09-02 15:20 UTC]** Polícia investiga agressões entre profissional da saúde e acompanhante de paciente em pronto-socorro de Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/02/policia-investiga-agressoes-entre-profissional-da-saude-e-acompanhante-de-paciente-em-pronto-socorro-de-belem.ghtml)_
+
+- **[2026-09-03 09:00 UTC]** Condutor é indiciado por omissão de socorro em acidente que matou motociclista no AC
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
+
+- **[2026-09-03 14:56 UTC]** Homem é esfaqueado após treino e corre de volta para academia para pedir socorro em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/homem-esfaqueado-treino-corre-academia-pedir-socorro-sc.ghtml)_
+
+- **[2026-09-04 16:14 UTC]** Vaca é resgatada após atolar em área de mangue em Nossa Senhora do Socorro
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/04/vaca-e-resgatada-apos-atolar-em-area-de-mangue-em-nossa-senhora-do-socorro.ghtml)_
+
+- **[2026-09-04 21:55 UTC]** Homem é preso após companheira pedir socorro por bilhetes enviados pelo filho a escola na Bahia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/homem-e-preso-apos-companheira-pedir-socorro-por-bilhetes-enviados-pelo-filho-a-escola-na-bahia.shtml)_
+
+- **[2026-09-05 14:25 UTC]** Adolescente morre após ter moto atingida por caminhonete e motorista foge sem prestar socorro em Rorianópolis
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/05/adolescente-morre-apos-ter-moto-atingida-por-caminhonete-e-motorista-foge-sem-prestar-socorro-em-rorianopolis.ghtml)_
+
+- **[2026-09-08 11:42 UTC]** Mulher mantida em cárcere por 8 dias pede socorro escondido pelo celular e é resgatada no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/08/mulher-mantida-carcere-socorro-celular-resgatada.ghtml)_
+
+- **[2026-09-09 20:36 UTC]** Abastecimento de água em Nossa Senhora do Socorro é comprometido após rompimento de adutora
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/abastecimento-de-agua-em-nossa-senhora-do-socorro-e-comprometido-apos-rompimento-de-adutora.ghtml)_
+
+- **[2026-09-10 11:24 UTC]** Fux dá 15 dias para governo Lula, Banco Central e FGC se manifestarem sobre socorro ao BRB
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fux-da-15-dias-para-governo-lula-banco-central-e-fgc-se-manifestarem-sobre-socorro-ao-brb.shtml)_
+
+- **[2026-09-11 20:04 UTC]** Lula diz que socorro na enchente do RS será padrão para 'qualquer desastre' no Brasil
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-diz-que-socorro-na-enchente-do-rs-sera-padrao-para-qualquer-desastre-no-brasil.ghtml)_
+

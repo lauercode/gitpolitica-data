@@ -11,3 +11,51 @@
 - **[2026-08-29 22:37 UTC]** Lito Sousa diz confiar em tratamento: 'Vou ser o primeiro a controlar essa doença no mundo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/lito-sousa-diz-confiar-em-tratamento-vou-ser-o-primeiro-a-controlar-essa-doenca-no-mundo.shtml)_
 
+- **[2018-07-09 22:33 UTC]** Piloto de MT que está desaparecido há 15 dias foi contratado para levar avião para o Tocantins, diz família
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/mt/mato-grosso/noticia/piloto-de-mt-que-esta-desaparecido-ha-15-dias-foi-contratado-para-levar-aviao-para-o-tocantins-diz-familia.ghtml)_
+
+- **[2017-07-27 16:25 UTC]** Piloto Consciente, o 1º Passeio Motociclístico de Goiás mobiliza mais de 300 pessoas.
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/piloto-consciente-o-1-passeio-motociclistico-de-goias-mobiliza-mais-de-300-pessoas_.html)_
+
+- **[2017-07-14 11:30 UTC]** Conheça o percurso do Piloto Consciente – 1º Passeio Motociclístico de Goiás
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/conheca-o-percurso-do-piloto-consciente-1-passeio-motociclistico-de-goias.html)_
+
+- **[2017-07-10 19:04 UTC]** DETRAN Goiás realiza 1ª edição do projeto Piloto Consciente
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/especial-publicitario/detran-goias/piloto-consciente/noticia/2017/07/detran-goias-realiza-1-edicao-do-projeto-piloto-consciente.html)_
+
+- **[2026-08-31 18:16 UTC]** ‘Pista escorregadia’, diz piloto de avião da Latam que foi parar na lama após pouso no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/aviao-pista-parana.ghtml)_
+
+- **[2026-08-26 03:00 UTC]** Após deixar respirador, piloto de asa-delta volta a ser intubado; homem sofreu queda em acidente no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/respirador-piloto-asa-delta-volta-intubado-homem-queda-acidente-rs.ghtml)_
+
+- **[2026-08-25 13:43 UTC]** Piloto de asa-delta sai do coma após acidente durante voo no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/25/piloto-asa-delta-sai-coma-acidente-sapiranga.ghtml)_
+
+- **[2026-09-01 14:42 UTC]** Cíntia Chagas confirma namoro com o piloto Rubens Barrichello
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/cintia-chagas-confirma-namoro-com-o-piloto-rubens-barrichello.shtml)_
+
+- **[2026-09-01 22:12 UTC]** Rubens Barrichello: relembre a trajetória pessoal e profissional do piloto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rubens-barrichello-relembre-a-trajetoria-pessoal-e-profissional-do-piloto.shtml)_
+
+- **[2026-09-02 06:00 UTC]** Piloto que caiu com asa-delta segue internado 10 dias após o acidente
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/piloto-que-caiu-com-asa-delta-segue-internado-10-dias-apos-o-acidente.ghtml)_
+
+- **[2026-09-05 16:52 UTC]** Anvisa aprova importação de remédio experimental para piloto Lito
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-importacao-de-remedio-experimental-para-piloto-lito)_
+
+- **[2026-09-06 01:16 UTC]** Piloto resgata colega de carro em chamas após acidente em prova no China GT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/piloto-resgata-colega-de-carro-em-chamas-apos-acidente-em-prova-no-china-gt.shtml)_
+
+- **[2026-09-07 16:42 UTC]** Piloto e influenciador Lito Sousa ganha homenagem em parque temático de Gramado
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/piloto-e-influenciador-lito-sousa-ganha-homenagem-em-parque-tematico-de-gramado.ghtml)_
+
+- **[2026-09-07 18:32 UTC]** Homem morre em acidente de paraglider no mesmo local em que piloto de asa-delta caiu há duas semanas no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/acidente-paraglider-sapiranga.ghtml)_
+
+- **[2026-09-08 14:45 UTC]** Piloto de asa-delta que sofreu acidente há duas semanas sai do coma, respira sem aparelhos e deve ter alta da UTI 'em breve', diz hospital
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/piloto-de-asa-delta-que-sofreu-acidente-ha-duas-semanas-sai-do-coma-respira-sem-aparelhos-e-deve-ter-alta-da-uti-em-breve-diz-hospital.ghtml)_
+
+- **[2026-09-09 18:23 UTC]** Piloto de paramotor fica preso em árvore ao tentar passar por fenda na Serra do Corvo Branco; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/piloto-paramotor-preso-arvore-fenda-serra-do-corvo-branco-video.ghtml)_
+

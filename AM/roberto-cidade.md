@@ -50,3 +50,156 @@
 - **[2026-08-29 22:02 UTC]** Respiração quadrada: como funciona um dos 'truques mais poderosos' para controlar o estresse
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/respiracao-quadrada-como-funciona-um-dos-truques-mais-poderosos-para-controlar-o-estresse.shtml)_
 
+- **[2026-08-30 13:38 UTC]** Flávio Bolsonaro quer retomar obras de Angra 3 e resorts na cidade fluminense
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-retomar-obras-angra-3-resorts-cidade-fluminense/)_
+
+- **[2026-08-21 12:06 UTC]** Operação apreende quase 110 kg de explosivos dentro de imóvel na Cidade Universitária, em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/21/operacao-apreende-quase-110-kg-de-explosivos-dentro-de-imovel-na-cidade-universitaria-em-maceio.ghtml)_
+
+- **[2026-08-31 21:49 UTC]** Eleições 2026: Roberto Cidade participa de entrevista e defende continuidade de programas de moradia no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-roberto-cidade-participa-de-entrevista-e-defende-continuidade-de-programas-de-moradia-no-am.ghtml)_
+
+- **[2026-08-29 17:07 UTC]** Eleições 2026: Roberto Cidade participa de caminhada e propõe ampliar 'Paredão' para todo o estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/29/eleicoes-2026-roberto-cidade-participa-de-caminhada-e-propoe-ampliar-paredao-para-todo-o-estado.ghtml)_
+
+- **[2026-08-29 02:05 UTC]** Eleições 2026: Roberto Cidade visita obras em maternidade e apresenta propostas para educação
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-roberto-cidade-visita-obras-em-maternidade-e-apresenta-propostas-para-educacao.ghtml)_
+
+- **[2017-08-18 21:19 UTC]** Vídeo de nuvem em forma de 'flecha vermelha' viraliza e chama atenção em cidade do interior da Bahia
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/video-de-nuvem-em-forma-de-flecha-vermelha-viraliza-e-chama-atencao-em-cidade-do-interior-da-bahia.ghtml)_
+
+- **[2026-08-28 11:22 UTC]** Bolão do Paraná acerta a quina da Mega-Sena; veja a cidade e valor
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/28/bolao-do-parana-acerta-a-quina-da-mega.ghtml)_
+
+- **[2026-08-29 12:06 UTC]** Granizo destelha mais de 1,6 mil casas no RS; cidade do Norte do estado tem 60% da área atingida
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/granizo-atinge-rs-danifica-casas-tres-palmeiras.ghtml)_
+
+- **[2026-08-28 18:45 UTC]** Jaraguá do Sul começa a planejar como será a cidade em 2076
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/prefeitura-municipal-de-jaragua-do-sul/noticia/2026/08/28/jaragua-do-sul-comeca-a-planejar-como-sera-a-cidade-em-2076.ghtml)_
+
+- **[2018-04-25 09:26 UTC]** Birigui, a cidade dos calçados e do biribol
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/blog/do-mundo-para-o-interior-paulista-por-valeria-foz/post/birigui-cidade-dos-calcados-e-do-biribol.html)_
+
+- **[2026-08-27 15:29 UTC]** Polícia Civil faz operação contra desvio de recursos públicos em cidade no TO e bloqueia mais de R$ 2 milhões
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/policia-civil-faz-operacao-contra-desvio-de-recursos-publicos-em-cidade-no-to-e-bloqueia-mais-de-r-2-milhoes.ghtml)_
+
+- **[2026-09-01 00:46 UTC]** Mais de duas toneladas de drogas são apreendidas pela polícia em casa na Cidade das Luzes, em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/mais-de-duas-toneladas-de-drogas-sao-apreendidas-pela-policia-em-casa-na-cidade-das-luzes-em-manaus.ghtml)_
+
+- **[2026-09-01 04:15 UTC]** Cidade de SP tem alta nas ocorrências de roubo e furto de veículos pesados, mostra levantamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cidade-de-sp-tem-alta-nas-ocorrencias-de-roubo-e-furto-de-veiculos-pesados-mostra-levantamento.shtml)_
+
+- **[2026-09-01 08:00 UTC]** Cidade de SC conclui maior alargamento de praias do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cidade-de-santa-catarina-amplia-88-km-de-praias-e-conclui-maior-obra-de-alargamento-de-orla-no-brasil.shtml)_
+
+- **[2026-09-01 06:01 UTC]** Ventos de até 70 km/h causam estragos em cidade no interior de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/capital-paulista-tem-alerta-para-alagamentos-em-todas-as-regioes.shtml)_
+
+- **[2026-09-01 13:46 UTC]** Eleições 2026: Roberto Cidade participa de entrevista e propõe reforçar segurança na Tríplice Fronteira
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-roberto-cidade-participa-de-entrevista-e-propoe-reforcar-seguranca-na-triplice-fronteira.ghtml)_
+
+- **[2026-09-01 11:22 UTC]** Justiça suspende gratificações de até 50% para servidores em cidade do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/01/justica-suspende-gratificacoes-de-ate-50percent-para-servidores-em-cidade-do-tocantins.ghtml)_
+
+- **[2026-09-01 20:35 UTC]** Cresol participa do Concred e debate o futuro do cooperativismo no campo e na cidade
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/01/cresol-participa-do-concred-e-debate-o-futuro-do-cooperativismo-no-campo-e-na-cidade.ghtml)_
+
+- **[2026-09-02 01:43 UTC]** Câmara aprova criação de rota turística da fé em Cidade Ocidental (GO)
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302015-camara-aprova-criacao-de-rota-turistica-da-fe-em-cidade-ocidental-go)_
+
+- **[2026-09-02 07:50 UTC]** A cidade vista de um degrau
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/09/a-cidade-vista-de-um-degrau.shtml)_
+
+- **[2026-09-02 20:48 UTC]** Pattaya, a 'cidade do pecado' onde 5 mil militares americanos desembarcaram após oito meses em alto mar
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-02 21:03 UTC]** Tornado é confirmado em cidade de SC que teve árvores arrancadas pela raiz
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/tornado-confirmado-campo-ere.ghtml)_
+
+- **[2026-09-02 23:00 UTC]** Chicago: o que fazer na cidade que se reconstruiu para o alto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/chicago-o-que-fazer-na-cidade-que-se-reconstruiu-para-o-alto.shtml)_
+
+- **[2026-09-03 02:23 UTC]** Eleições 2026: Roberto Cidade realiza comício na Zona Oeste de Manaus e promete ampliar ações de inteligência
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-roberto-cidade-realiza-comicio-na-zona-oeste-de-manaus-e-promete-ampliar-acoes-de-inteligencia.ghtml)_
+
+- **[2026-09-03 12:38 UTC]** Governo Federal autoriza verba de R$ 174 mil para cidade afetada por chuvas, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/governo-federal-autoriza-verba-de-r-174-mil-para-cidade-afetada-por-chuvas-na-pb.ghtml)_
+
+- **[2026-09-03 17:04 UTC]** Investigação apura desvios de doações para vítimas de tornado que destruiu 90% de cidade do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/03/investigacao-apura-desvios-de-doacoes-para-vitimas-de-tornado-que-destruiu-90percent-de-cidade-do-parana.ghtml)_
+
+- **[2026-09-02 20:48 UTC]** Pattaya, a 'cidade do pecado' da Tailândia onde milhares de militares americanos desembarcaram após 8 meses em alto mar
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-03 14:15 UTC]** Pattaya, a 'cidade do pecado' onde 5.000 militares americanos desembarcaram após oito meses em alto mar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/pattaya-a-cidade-do-pecado-onde-5-mil-militares-americanos-desembarcaram-apos-oito-meses-em-alto-mar.shtml)_
+
+- **[2026-09-04 10:43 UTC]** Aposta paranaense acerta a quina da Mega-Sena e prêmio principal acumula em R$ 48 milhões; veja a cidade
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/04/aposta-paranaense-quina-mega-sena.ghtml)_
+
+- **[2026-09-04 19:19 UTC]** Cidade do AC recebe mais de R$ 1,7 milhão do governo federal para ações de proteção
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/cidade-do-ac-recebe-mais-de-r-17-milhao-do-governo-federal-para-acoes-de-protecao.ghtml)_
+
+- **[2026-09-05 00:25 UTC]** Eleições 2026: Roberto Cidade faz carreata em Tabatinga e promete expandir Polo Industrial de Manaus para a rodovia AM-010
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-roberto-cidade-faz-carreata-em-tabatinga-e-promete-expandir-polo-industrial-de-manaus-para-a-rodovia-am-010.ghtml)_
+
+- **[2026-09-05 04:00 UTC]** Edwin Luisi encara estreia de peça em São Paulo como reencontro com a sua cidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/edwin-luisi-encara-estreia-de-peca-em-sao-paulo-como-reencontro-com-a-sua-cidade.shtml)_
+
+- **[2026-09-05 14:25 UTC]** Idosa é morta por touro de rodeio após animal fugir durante festa de aniversário de cidade do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/05/idosa-morta-touro-barbosa-ferraz-parana.ghtml)_
+
+- **[2026-09-05 20:30 UTC]** Primeira princesa de cidade de SC morre atropelada por carro desgovernado em saída de festa
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/05/primeira-princesa-de-cidade-de-sc-morre-atropelada.ghtml)_
+
+- **[2026-09-06 14:58 UTC]** Mulher morta por touro de rodeio no Paraná estava na cidade para visitar amigas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/06/amigas-idosa-morta-touro-parana.ghtml)_
+
+- **[2026-09-06 19:58 UTC]** Antes de se apresentar no Rock in Rio, Ne-Yo curte balada no centro da cidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/antes-de-se-apresentar-no-rock-in-rio-ne-yo-curte-balada-no-centro-da-cidade.shtml)_
+
+- **[2026-09-07 08:54 UTC]** Convivência da cidade e vida selvagem é tema do Caminhos da Reportagem
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/convivencia-da-cidade-e-vida-selvagem-e-tema-do-caminhos-da-reportagem)_
+
+- **[2026-09-08 10:00 UTC]** Ideb: Cidade isolada é única a não atingir meta de alfabetização nos anos iniciais do ensino fundamental no AC
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/ideb-cidade-isolada-e-unica-a-nao-atingir-meta-de-alfabetizacao-nos-anos-iniciais-do-ensino-fundamental-no-ac.ghtml)_
+
+- **[2026-09-08 13:13 UTC]** Cidade cenográfica abandonada de 'O Tempo e o Vento' passa por revitalização para receber turistas; veja como está o local
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/cidade-cenografica-abandonada-de-o-tempo-e-o-vento-passa-por-revitalizacao-para-receber-turistas-veja-como-esta-o-local.ghtml)_
+
+- **[2026-09-08 21:34 UTC]** Cidade do Acre recebe mais de R$ 1,2 milhão para ações de proteção durante seca
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/cidade-do-ac-recebe-mais-de-r-12-milhao-do-governo-federal-para-acoes-de-protecao-durante-seca.ghtml)_
+
+- **[2026-09-09 04:00 UTC]** Escolas ribeirinhas de cidade do Amazonas ganham banheiros e estrutura sustentável
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/escolas-ribeirinhas-de-cidade-do-amazonas-ganham-banheiros-e-estrutura-sustentavel.shtml)_
+
+- **[2026-09-09 06:00 UTC]** Por que o sol 'muda de lugar' em Curitiba ao longo do ano? Entenda como a latitude da cidade afeta casas, apartamentos e até o varal de roupas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/por-que-o-sol-muda-de-lugar-em-curitiba-ao-longo-do-ano-entenda-como-a-latitude-da-cidade-afeta-casas-apartamentos-e-ate-o-varal-de-roupas.ghtml)_
+
+- **[2026-09-09 11:25 UTC]** O Estatuto da Cidade fez 25 anos, e agora?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/o-estatuto-da-cidade-fez-25-anos-e-agora.shtml)_
+
+- **[2026-09-09 10:36 UTC]** A um número do prêmio principal, aposta do Paraná fatura R$ 34 mil na Mega-Sena; veja cidade
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/aposta-parana-quina-mega-sena.ghtml)_
+
+- **[2026-09-10 01:56 UTC]** Eleições 2026: Roberto Cidade faz caminhada em Manaus e propõe aumentar brigadistas para combater queimadas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-roberto-cidade-faz-caminhada-em-manaus-e-propoe-aumentar-brigadistas-para-combater-queimadas.ghtml)_
+
+- **[2026-09-10 16:13 UTC]** Cidade do interior paulista registra ventos de quase 90 km/h; Defesa Civil prepara gabinete de crise
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cidade-do-interior-paulista-registra-ventos-de-quase-90-kmh-defesa-civil-prepara-gabinete-de-crise.shtml)_
+
+- **[2026-09-10 22:56 UTC]** Eleições 2026: Roberto Cidade participa de caminhada e defende políticas para conscientização ambiental
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-roberto-cidade-participa-de-caminhada-e-defende-politicas-para-conscientizacao-ambiental.ghtml)_
+
+- **[2026-09-11 08:30 UTC]** Rock in Rio 2026: Joelma, Viviane Batidão, Félix Robatto e Zaynara levam o 'molho paraense' à Cidade do Rock
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/11/rock-in-rio-2026-joelma-viviane-batidao-felix-robatto-e-zaynara-levam-o-molho-paraense-a-cidade-do-rock.ghtml)_
+
+- **[2026-09-11 09:41 UTC]** Cidade de São Paulo confirma dois novos casos de sarampo; estado vai a 32
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/cidade-de-sao-paulo-confirma-dois-novos-casos-de-sarampo-estado-vai-a-32.shtml)_
+
+- **[2026-09-11 17:40 UTC]** Eleições 2026: Roberto Cidade defende incentivos fiscais e novas matrizes econômicas para o Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-roberto-cidade-defende-incentivos-fiscais-e-novas-matrizes-economicas-para-o-amazonas.ghtml)_
+
+- **[2026-09-11 17:09 UTC]** Justiça manda cidade no Sertão da Paraíba mudar nome de avenida em alusão à ditadura militar
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/justica-manda-cidade-no-sertao-da-paraiba-mudar-nome-de-avenida-em-alusao-a-ditadura-militar.ghtml)_
+

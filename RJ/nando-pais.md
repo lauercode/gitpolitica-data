@@ -29,3 +29,51 @@
 - **[2026-08-30 08:00 UTC]** Socos e canivetes em sala
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/socos-e-canivetes-em-sala.shtml)_
 
+- **[2017-07-13 11:47 UTC]** Viroses infantis exigem atenção redobrada dos pais
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/viroses-infantis-exigem-atencao-redobrada-dos-pais.html)_
+
+- **[2018-07-17 20:18 UTC]** É estável o quadro de saúde da menina do ES que perdeu os pais em acidente de carro na BR-060
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/e-estavel-o-quadro-de-saude-da-menina-do-es-que-perdeu-os-pais-em-acidente-de-carro-na-br-060.ghtml)_
+
+- **[2018-07-16 16:41 UTC]** Menina do ES que perdeu pais em acidente continua em estado grave em MS
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/menina-do-es-que-perdeu-pais-em-acidente-continua-em-estado-grave-em-ms.ghtml)_
+
+- **[2017-07-06 11:40 UTC]** Projeto Saber Viver realiza Encontro de Pais em Barra do Riacho
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/fibria/a-floresta-sob-um-novo-prisma/noticia/2017/07/projeto-saber-viver-realiza-encontro-de-pais-em-barra-do-riacho.html)_
+
+- **[2018-07-11 21:45 UTC]** Mãe biológica pega filha na casa dos pais adotivos em MS, foge para MT e é procurada pela polícia
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mt/mato-grosso/noticia/mae-biologica-retira-crianca-da-casa-dos-pais-adotivos-em-ms-foge-para-mt-e-e-procurada-pela-policia.ghtml)_
+
+- **[2026-08-27 14:08 UTC]** Pais são presos suspeitos de vender bebê de 5 meses por R$ 15 mil e entregá-lo no Paraguai
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/27/pais-sao-presos-suspeitos-de-vender-bebe.ghtml)_
+
+- **[2026-09-03 12:48 UTC]** Correr com carrinho é mais seguro para pais, indica estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/maternar/2026/09/correr-com-carrinho-e-mais-seguro-para-pais-indica-estudo.shtml)_
+
+- **[2026-09-03 15:53 UTC]** Socorristas são filmados acalmando pais que perderam filha de 7 anos em acidente de carro no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/03/samu-acalma-pais-acidente-parana.ghtml)_
+
+- **[2026-09-05 03:00 UTC]** 'Impossível não se colocar no lugar do outro com tanto sofrimento', diz socorrista filmada acalmando pais que perderam filha no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/05/impossivel-nao-se-colocar-no-lugar-do-outro-com-tanto-sofrimento-diz-socorrista-filmada-acalmando-pais-que-perderam-filha-no-parana.ghtml)_
+
+- **[2026-09-05 09:00 UTC]** Pais que expulsaram adolescente após revelar orientação sexual precisam apagar posts discriminatórios, além de pagar indenização
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/05/pais-expulsaram-adolescente-orientacao-sexual-apagar-posts-discriminatorios.ghtml)_
+
+- **[2026-09-05 16:10 UTC]** Justiça condena pais a indenizar filho expulso por orientação sexual
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-condena-pais-indenizar-filho-expulso-por-orientacao-sexual)_
+
+- **[2026-09-07 16:58 UTC]** Socorrista filmada acalmando pais que perderam filha no Paraná considera que atitude devia 'ser o comum' entre as pessoas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/07/socorristas-video-acidente-pais-parana.ghtml)_
+
+- **[2026-09-09 16:37 UTC]** 'Por favor, me ajuda': adolescente usa carta para contar à professora que pais eram pagos para permitir que tio a estuprasse, no PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/por-favor-me-ajuda-adolescente-usa-carta-para-contar-a-professora-que-pais-eram-pagos-para-permitir-que-tio-a-estuprasse-no-pr.ghtml)_
+
+- **[2026-09-09 16:48 UTC]** Pais vão poder acompanhar ao vivo viagens de adolescentes no Uber
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/pais-vao-poder-acompanhar-ao-vivo-viagens-de-adolescentes-no-uber.shtml)_
+
+- **[2026-09-09 16:37 UTC]** 'Por favor, me ajuda': adolescente usa carta para contar à professora que pais eram pagos para permitirem que cunhado a estuprasse, no PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/por-favor-me-ajuda-adolescente-usa-carta-para-contar-a-professora-que-pais-eram-pagos-para-permitir-que-tio-a-estuprasse-no-pr.ghtml)_
+
+- **[2026-09-10 15:55 UTC]** Pais de adolescente que eram pagos para permitir que cunhado a estuprasse usavam dinheiro para comprar drogas, diz polícia do PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/10/pais-de-adolescente-que-eram-pagos-para-permitir-que-cunhado-a-estuprasse-usavam-dinheiro-para-comprar-drogas-diz-policia-do-pr.ghtml)_
+

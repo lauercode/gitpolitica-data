@@ -110,3 +110,141 @@
 - **[2026-08-29 17:57 UTC]** Primeiro programa eleitoral no rádio e TV tem ataques entre Lula e Flávio; Caiado e Cury completam exibição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/primeiro-programa-eleitoral-radio-ataques-lula-flavio/)_
 
+- **[2026-08-30 01:47 UTC]** Cury propõe ministério da IA, drones contra feminicídios e treinar embaixadores para serem influencers
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/entrevista-augusto-cury-ministerio-da-ia-drones-contra-feminicidios.ghtml)_
+
+- **[2026-08-30 00:19 UTC]** Cury promete cortar até 10 ministérios, mas não diz quais, e nega conflito ao defender telemedicina no SUS e ser ligado a empresa da área
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/augusto-cury-entrevista-globo.ghtml)_
+
+- **[2026-08-31 13:13 UTC]** Caiado e Renan reagem a avanço de Cury com indiretas sobre inexperiência e 'eleitor despolitizado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/caiado-e-renan-reagem-a-avanco-de-cury-com-indiretas-sobre-inexperiencia-e-eleitor-despolitizado.shtml)_
+
+- **[2026-08-31 16:50 UTC]** Coordenador da campanha do PT reage à alta de Cury nas pesquisas e pede que parem de falar dele
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/coordenador-da-campanha-do-pt-reage-a-alta-de-cury-nas-pesquisas-e-pede-que-parem-de-falar-dele/)_
+
+- **[2026-08-31 19:08 UTC]** Lula e Flávio Bolsonaro veem Cury atrair voto antissistema e chance de despontar como terceira via
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-e-flavio-bolsonaro-veem-cury-se-firmar-como-terceira-via-com-eleitores-insatisfeitos-e-antissistema.shtml)_
+
+- **[2026-08-31 23:19 UTC]** Crescimento de Cury entre cristãos atrapalha Flávio e Renan
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/08/crescimento-de-cury-entre-cristaos-atrapalha-flavio-e-renan.shtml)_
+
+- **[2026-08-31 23:00 UTC]** Cury inunda redes sociais com influenciadores, dispara em pesquisa e levanta suspeita entre adversários
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/cury-inunda-redes-sociais-com-influenciadores-dispara-em-pesquisa-e-levanta-suspeita-entre-adversarios.shtml)_
+
+- **[2026-09-01 11:24 UTC]** Cury sacode a poeira da disputa engessada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/cury-sacode-a-poeira-da-disputa-engessada.shtml)_
+
+- **[2026-09-01 12:37 UTC]** Cury é a terceira via que veio para ficar?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/cury-e-a-terceira-via-que-veio-para-ficar.shtml)_
+
+- **[2026-09-01 12:03 UTC]** Cury cita em plano de governo doutorado em psicologia que não fez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cury-cita-em-plano-de-governo-doutorado-em-psicologia-que-nao-fez.shtml)_
+
+- **[2026-09-01 18:30 UTC]** Flávio pede saída de Moraes, Zema defende prisão e Cury propõe mandato no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-saida-de-moraes-zema-defende-prisao-e-cury-propoe-mandato-no-stf/)_
+
+- **[2026-09-01 22:34 UTC]** Flávio e Caiado pedem saída de Moraes, Zema defende prisão e Cury propõe mandato no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-saida-de-moraes-zema-defende-prisao-e-cury-propoe-mandato-no-stf/)_
+
+- **[2026-09-02 13:16 UTC]** Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-presidente-2-setembro.ghtml)_
+
+- **[2026-09-02 10:21 UTC]** Quaest: Lula tem 37%, e Flávio Bolsonaro, 30% no primeiro turno; Cury chega a 10%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-lula-tem-37-e-flavio-bolsonaro-30-no-primeiro-turno-cury-chega-a-10.shtml)_
+
+- **[2026-09-02 15:53 UTC]** Quaest: Cury se isola em 3º lugar e dobra potencial de voto; veja números
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/quaest-veja-o-desempenho-de-augusto-cury-por-segmentos-do-eleitorado.ghtml)_
+
+- **[2026-09-02 18:00 UTC]** Tucanos se aproximam de Cury e o veem como alternativa de centro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tucanos-se-aproximam-de-cury-e-o-veem-como-alternativa-de-centro.shtml)_
+
+- **[2026-09-03 03:01 UTC]** Cury avança, Lula e Flávio empatam no 2º turno: 10 pontos da nova Quaest
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/10-pontos-da-nova-pesquisa-quaest.ghtml)_
+
+- **[2026-09-03 06:00 UTC]** Mesmo com avanço de Cury nas pesquisas, adversários evitam partir para o enfrentamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mesmo-com-avanco-de-cury-nas-pesquisas-adversarios-evitam-partir-para-o-enfrentamento.shtml)_
+
+- **[2026-09-03 08:40 UTC]** Após Quaest, Cury se firma em 3º lugar e Lula e Flávio aparecem empatados no 2º turno: como está a intenção de voto para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-03 11:33 UTC]** Caso Vorcaro-Moraes pode alimentar onda antipolítica e favorecer Cury e Renan Santos nas eleições 2026, diz cientista política
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cn5d2grd55zo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-03 15:25 UTC]** Em evento na Assembleia de Deus, Cury nega ter pedido votos e diz já ser próximo de evangélicos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-evento-na-assembleia-de-deus-cury-nega-ter-pedido-votos-e-diz-ja-ser-proximo-de-evangelicos.shtml)_
+
+- **[2026-09-03 22:02 UTC]** Datafolha, 1º turno: Lula, 38%; Flávio Bolsonaro, 33%; Cury, 8%; Caiado, 4%; Renan, 3%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-presidente-3-setembro.ghtml)_
+
+- **[2026-09-03 20:05 UTC]** Cury defende fim de mandato vitalício no STF, com trocas a cada 8 anos
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/03/cury-defende-fim-de-mandato-vitalicio-no-stf-com-trocas-a-cada-8-anos.ghtml)_
+
+- **[2026-09-03 19:05 UTC]** Datafolha: Lula tem 38% e Flávio Bolsonaro, 33% no 1º turno; Cury vai a 8%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-38-e-flavio-bolsonaro-33-no-1o-turno-cury-vai-a-8.shtml)_
+
+- **[2026-09-03 18:01 UTC]** Cury foi conselheiro de Marina Silva quando ela disputou a Presidência pela primeira vez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cury-foi-conselheiro-de-marina-silva-quando-ela-disputou-a-presidencia-pela-primeira-vez.shtml)_
+
+- **[2026-09-04 00:17 UTC]** Datafolha: Lula mantém dianteira entre nordestinos, e Flávio entre sulistas; Cury avança entre jovens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-mantem-dianteira-entre-nordestinos-e-flavio-entre-sulistas-cury-avanca-entre-jovens.shtml)_
+
+- **[2026-09-03 23:00 UTC]** Campanha de Lula busca ponte com Cury e tenta evitar que ele se alie a Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-busca-ponte-com-cury-e-tenta-evitar-que-ele-se-alie-a-flavio.shtml)_
+
+- **[2026-09-03 22:04 UTC]** Datafolha: Campanha zera efeito 'Dark Horse' e Cury finca bandeira no eleitor de centro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-zera-efeito-dark-horse-e-cury-finca-bandeira-no-eleitor-de-centro.shtml)_
+
+- **[2026-09-05 12:00 UTC]** Três Poderes: Cury é o vencedor da semana e Moraes, o perdedor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tres-poderes-cury-e-o-vencedor-da-semana-e-moraes-o-perdedor.shtml)_
+
+- **[2026-09-05 13:35 UTC]** João Amoêdo vê Cury em alta, critica silêncio do Supremo no caso Moraes e ainda não define voto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpzy7lggo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-05 16:43 UTC]** João Amoêdo vê Cury crescendo mais, critica silêncio do Supremo no caso Moraes e ainda não define voto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c87vpzy7lggo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-05 22:00 UTC]** Com alta de Cury, Datafolha traz más notícias para Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/com-alta-de-cury-datafolha-traz-mas-noticias-para-lula.shtml)_
+
+- **[2026-09-07 14:26 UTC]** Cury faz ato em Copacabana, promete financiar 10 milhões de microempresas em favelas e manda ‘abraço muito especial’ a Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/07/augusto-cury-faz-ato-na-praia-de-copacabana.ghtml)_
+
+- **[2026-09-07 14:40 UTC]** Paulinho da Força declara voto a Cury: 'não aguento mais essa polarização'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/paulinho-da-forca-declara-voto-a-cury-nao-aguento-mais-essa-polarizacao.shtml)_
+
+- **[2026-09-07 21:01 UTC]** Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml)_
+
+- **[2026-09-07 14:26 UTC]** Em ato em Copacabana, Cury cobra investigação do STF e manda ‘abraço especial’ a André Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/07/augusto-cury-faz-ato-na-praia-de-copacabana.ghtml)_
+
+- **[2026-09-07 15:31 UTC]** Em ato no Rio, Cury manda abraço para Mendonça e cobra investigação do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-ato-no-rio-cury-manda-abraco-para-mendonca-e-cobra-investigacao-ao-stf-ninguem-deve-ser-poupado.shtml)_
+
+- **[2026-09-07 23:00 UTC]** Alta de Cury reflete desgaste com Lula e Flávio, mas falta de propostas é entrave, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alta-de-cury-reflete-desgaste-com-lula-e-flavio-mas-falta-de-propostas-e-entrave-dizem-especialistas.shtml)_
+
+- **[2026-09-08 11:23 UTC]** Pesquisas para presidente: Como Lula, Flávio Bolsonaro e Cury aparecem no Agregador de Pesquisas eleitorais da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-08 20:36 UTC]** Quaest em PE: Lula, 51%; Flávio, 21%; Cury, 6%; Caiado, 2%; Renan, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/08/quaest-presidencial-em-pe.ghtml)_
+
+- **[2026-09-08 20:12 UTC]** Quaest no DF: Flávio, 31%; Lula, 28%; Caiado, 12%; Cury, 8%; Zema, 2%; Renan, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/08/quaest-df-presidente-8-setembro.ghtml)_
+
+- **[2026-09-08 20:05 UTC]** Quaest em MG: Lula, 31%; Flávio Bolsonaro, 27%; Cury, 8%;  Zema, 6%; Caiado, 3%; Renan, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/quaest-mg-presidente-8-setembro.ghtml)_
+
+- **[2026-09-08 20:05 UTC]** Quaest em SP: Flávio Bolsonaro, 31%, Lula, 30%; Cury, 8%; Caiado, 4%; Renan, 2%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/08/quaest-sp-presidente-8-setembro.ghtml)_
+
+- **[2026-09-09 04:00 UTC]** Avante tenta sustentar alta de Cury para ampliar bancada e avalia mais financiamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avante-tenta-sustentar-alta-de-cury-para-ampliar-bancada-e-avalia-mais-financiamento.shtml)_
+
+- **[2026-09-10 12:00 UTC]** Anúncios pró-Cury ferem legislação eleitoral com impulsionamento irregular
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/anuncios-pro-cury-ferem-legislacao-eleitoral-com-impulsionamento-irregular.shtml)_
+
+- **[2026-09-11 21:39 UTC]** Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 35%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-presidente-11-setembro.ghtml)_
+

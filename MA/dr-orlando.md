@@ -11,3 +11,6 @@
 - **[2026-08-27 14:38 UTC]** Orlando Bloom deixa filme às vésperas do início das filmagens
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/08/orlando-bloom-deixa-filme-as-vesperas-do-inicio-das-filmagens.shtml)_
 
+- **[2018-02-23 09:17 UTC]** Orlando – Chegada, aluguel de carro e acomodação
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/blog/do-mundo-para-o-interior-paulista-por-valeria-foz/post/orlando-chegada-aluguel-de-carro-e-acomodacao.html)_
+

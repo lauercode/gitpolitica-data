@@ -5,3 +5,45 @@
 
 ## Histórico
 
+- **[2026-08-28 22:27 UTC]** Eleições 2026 em SC: João Rodrigues acompanha desfile cívico e encontra apoiadores no Norte
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-em-sc-joao-rodrigues-acompanha-desfile-civico-e-encontra-apoiadores-no-norte.ghtml)_
+
+- **[2026-08-27 22:39 UTC]** Eleições 2026 em SC: João Rodrigues visita obras e participa de caminhadas no Vale do Itajaí
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/27/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-e-participa-de-caminhadas-no-vale-do-itajai.ghtml)_
+
+- **[2026-08-26 21:44 UTC]** Eleições 2026 em SC: João Rodrigues faz caminhada e se reúne com apoiadores em Joinville
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-em-sc-joao-rodrigues-faz-caminhada-e-se-reune-com-apoiadores-em-joinville.ghtml)_
+
+- **[2026-08-25 22:17 UTC]** Eleições 2026 em SC: João Rodrigues faz caminhada em Joinville e reúne com entidades comerciais
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-em-sc-joao-rodrigues-campanha-24-agosto.ghtml)_
+
+- **[2026-08-31 22:21 UTC]** Eleições 2026 em SC: João Rodrigues visita instituições de saúde e de apoio a autistas em Joinville
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-em-sc-joao-rodrigues-visita-instituicoes-de-saude-e-de-apoio-a-autistas-em-joinville.ghtml)_
+
+- **[2026-09-01 22:32 UTC]** Eleições 2026 em SC: João Rodrigues visita moradores e áreas afetadas por fortes chuvas em Biguaçu
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-em-sc-joao-rodrigues-visita-moradores-e-areas-afetadas-por-fortes-chuvas-em-biguacu.ghtml)_
+
+- **[2026-09-02 22:05 UTC]** Eleições 2026 em SC: João Rodrigues acompanha desfile de aniversário de Blumenau
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-em-sc-joao-rodrigues-acompanha-desfile-de-aniversario-de-blumenau.ghtml)_
+
+- **[2026-09-03 22:39 UTC]** Eleições 2026 em SC: João Rodrigues participa de caminhadas na Grande Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-em-sc-joao-rodrigues-participa-de-caminhadas-na-grande-florianopolis.ghtml)_
+
+- **[2026-09-04 22:40 UTC]** Eleições 2026 em SC: João Rodrigues participa de entrevistas e caminha com apoiadores
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-em-sc-joao-rodrigues-participa-de-entrevistas-e-caminha-com-apoiadores.ghtml)_
+
+- **[2026-09-07 22:42 UTC]** Eleições 2026 em SC: João Rodrigues ouve reivindicações de moradores em Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-em-sc-joao-rodrigues-ouve-reivindicacoes-de-moradores-em-florianopolis.ghtml)_
+
+- **[2026-09-08 22:44 UTC]** Eleições 2026 em SC: João Rodrigues visita obras na BR-282 e participa de sabatina com entidades do estado
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-na-br-282-e-participa-de-sabatina-com-entidades-do-estado.ghtml)_
+
+- **[2026-09-09 22:40 UTC]** Eleições 2026 em SC: João Rodrigues reúne com empresários em Blumenau e participa de sabatina em Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-em-sc-joao-rodrigues-reune-com-empresarios-em-blumenau-e-participa-de-sabatina-em-florianopolis.ghtml)_
+
+- **[2026-09-10 22:24 UTC]** Eleições 2026 em SC: João Rodrigues participa de caminhada e bandeiraço em São Joaquim, na Serra
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-joao-rodrigues-participa-de-caminhada-e-bandeiraco-em-sao-joaquim-na-serra.ghtml)_
+
+- **[2026-09-11 22:46 UTC]** Eleições 2026 em SC: João Rodrigues conversa com trabalhadores do setor de móveis e colchões
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-em-sc-joao-rodrigues-conversa-com-trabalhadores-do-setor-de-moveis-e-colchoes.ghtml)_
+

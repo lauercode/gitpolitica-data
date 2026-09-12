@@ -86,3 +86,360 @@
 - **[2026-08-30 13:00 UTC]** Famoso Quem: atriz aparece em foto ainda bebê; adivinhe quem é
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/famoso-quem-atriz-aparece-em-foto-ainda-bebe-adivinhe-quem-e.shtml)_
 
+- **[2026-08-28 14:24 UTC]** Quem é Roberta Luchsinger, lobista investigada por tráfico de influência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/quem-e-roberta-luchsinger-lobista-investigada.ghtml)_
+
+- **[2026-08-31 04:00 UTC]** Restituição do IR cai na conta nesta segunda (31); veja quem recebe no quarto e último lote
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/restituicao-do-ir-cai-na-conta-nesta-segunda-31-veja-quem-recebe-no-quarto-e-ultimo-lote.shtml)_
+
+- **[2026-08-30 23:00 UTC]** 'Voto em quem defende a democracia e a Amazônia', diz líder comunitária do Amapá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2026/08/voto-em-quem-defende-a-democracia-e-a-amazonia-diz-lider-comunitaria-do-amapa.shtml)_
+
+- **[2026-08-30 23:00 UTC]** Quem age como fascista na UFRJ?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lygia-maria/2026/08/quem-age-como-fascista-na-ufrj.shtml)_
+
+- **[2026-08-30 23:00 UTC]** Quem está ocupado o tempo todo se torna cego para o mistério do mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/08/quem-esta-ocupado-o-tempo-todo-se-torna-cego-para-o-misterio-do-mundo.shtml)_
+
+- **[2026-08-31 08:48 UTC]** Quem está à frente nas pesquisas para a eleição presidencial: veja o agregador de pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-31 15:40 UTC]** Quem foi a astrônoma Nancy Grace Roman, que dá nome a novo telescópio da Nasa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/quem-foi-a-astronoma-nancy-grace-roman-que-da-nome-a-novo-telescopio-da-nasa.shtml)_
+
+- **[2026-08-31 17:14 UTC]** Augusto Cury chega a 3º lugar: quem está à frente na intenção de voto para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-31 18:00 UTC]** Quem é a influenciadora gaúcha que namora David Corrêa, jogador de futebol alvo de investigações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/quem-e-a-influenciadora-gaucha-que-namora-david-correa-jogador-de-futebol-alvo-de-investigacoes.shtml)_
+
+- **[2026-08-29 14:25 UTC]** Quem era Cássio de Holanda Tavares, defensor público que morreu aos 49 anos em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/quem-era-cassio-de-holanda-tavares-defensor-publico-que-morreu-aos-49-anos-em-rio-branco.ghtml)_
+
+- **[2026-08-29 11:01 UTC]** Unidades de saúde em Rio Branco oferecem tratamento para quem quer parar de fumar; saiba mais
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/unidades-de-saude-em-rio-branco-oferecem-tratamento-para-quem-quer-parar-de-fumar-saiba-mais.ghtml)_
+
+- **[2026-08-19 20:50 UTC]** Quem era a advogada morta ao passear com cachorro em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/19/quem-era-a-advogada-morta-ao-passear-com-cachorro-em-maceio.ghtml)_
+
+- **[2017-03-25 14:48 UTC]** Descontos na conta de água para quem economizou em 2016 beneficiam mais de 500 mil moradores do DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/descontos-na-conta-de-agua-para-quem-economizou-em-2016-beneficiam-mais-de-500-mil-moradores-do-df.ghtml)_
+
+- **[2026-08-29 10:00 UTC]** Caso Yasmin Macêdo: 'nada do que foi dito muda a verdade sobre quem ela era', diz mãe em carta aberta
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/caso-yasmin-macedo-nada-do-que-foi-dito-muda-a-verdade-sobre-quem-ela-era-diz-mae-em-carta-aberta.ghtml)_
+
+- **[2026-08-28 15:55 UTC]** Próximas desde a infância: quem eram as primas que tiveram as ossadas identificadas 4 meses após o assassinato no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/28/primas-desaparecidas-assassinadas-no-parana-quem-eram.ghtml)_
+
+- **[2026-08-28 13:40 UTC]** Médica, engenheiro e estudante: quem era família encontrada morta em apartamento no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/08/28/quem-era-familia-encontrada-morta-em-apartamento-no-parana.ghtml)_
+
+- **[2017-10-17 12:25 UTC]** Polícia diz ter pista de quem é o bandido atendido em ambulância sequestrada no Rio
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/delegado-ja-tem-um-suspeito-que-pode-ter-sido-atendido-por-ambulancia-sequestrada-na-mare.ghtml)_
+
+- **[2026-08-25 19:24 UTC]** Moto Tartaruga: corrida no RN em que vence quem chega por último viraliza
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/25/moto-tartaruga-corrida-no-rn-em-que-vence-quem-chega-por-ultimo-viraliza.ghtml)_
+
+- **[2026-08-21 12:43 UTC]** Mutirão de Aprendizagem oferece qualificação profissional para jovens em Natal; veja quem pode participar
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/21/mutirao-de-aprendizagem-oferece-qualificacao-profissional-para-jovens-em-natal-veja-quem-pode-participar.ghtml)_
+
+- **[2026-08-25 17:34 UTC]** Atriz de 'Quem Ama Cuida' prepara chimarrão pela 1ª vez após visita ao RS e comemora resultado: 'Arrasei, guria'; VÍDEO
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/25/atriz-prepara-chimarrao-pela-1a-vez-apos-visita-ao-rs-e-comemora-resultado-arrasei-guria-video.ghtml)_
+
+- **[2026-08-25 19:05 UTC]** Conta de luz terá redução de 10,63% em Rondônia; veja quem é beneficiado
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/25/conta-de-luz-tera-reducao-em-rondonia.ghtml)_
+
+- **[2026-08-26 20:39 UTC]** Roubo de R$ 800 mil e ouro em Roraima: veja como foi e quem são policiais e suspeitos envolvidos
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/26/roubo-de-r-800-mil-e-ouro-em-roraima-veja-como-foi-e-quem-sao-policiais-e-suspeitos-envolvidos.ghtml)_
+
+- **[2026-08-28 17:24 UTC]** Quem é o ‘Rei do Ovo’, que entrou para o top 10 bilionários do Brasil e vendia picolé na praia em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/quem-e-rei-do-ovo-que-entrou-para-top-10-de-bilionarios-brasil.ghtml)_
+
+- **[2026-08-28 11:21 UTC]** Luana Lopes Lara, da Kalshi, é a bilionária mais jovem a construir a própria fortuna; veja quem é
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/economia/noticia/2026/08/28/luana-lopes-lara-da-kalshi-e-a-bilionaria-mais-jovem-do-brasil-a-construir-a-propria-fortuna-veja-quem-e.ghtml)_
+
+- **[2026-08-28 03:00 UTC]** CNH categoria C, trabalho pesado e 'cara' de 10 anos: quem é o caminhoneiro que confundiu a PM em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/quem-caminhoneiro-confundiu-pm-crianca-sc.ghtml)_
+
+- **[2026-08-27 14:10 UTC]** Quem é o motorista que devolveu R$ 131 milhões recebidos por engano e faz planos caso consiga recompensa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/quem-e-o-motorista-que-devolveu-r-131-milhoes-recebidos-por-engano-e-faz-planos-caso-consiga-recompensa.ghtml)_
+
+- **[2026-08-27 10:28 UTC]** Quem era Thalita Tavares, ex-apresentadora do Globo Esporte TO que morreu vítima de câncer
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/27/quem-era-thalita-tavares-ex-apresentadora-do-globo-esporte-to-que-morreu-vitima-de-cancer.ghtml)_
+
+- **[2026-08-26 10:29 UTC]** Trabalhador e apegado à família: quem era o adolescente que morreu afogado em praia de Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/trabalhador-e-apegado-a-familia-quem-era-o-adolescente-que-morreu-afogado-em-praia-de-palmas.ghtml)_
+
+- **[2026-09-01 02:33 UTC]** Quem é Duane Davis, declarado culpado pelo assassinato do rapper Tupac Shakur há 30 anos (e o papel de um livro na condenação)
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4g79xy0y8xo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-01 07:01 UTC]** Servidora da Câmara e fisioterapeuta: quem eram as filhas de candidato a deputado por SC que morreram no PR
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/quem-eram-filhas-candidato-deputado-sc-morreram-pr.ghtml)_
+
+- **[2026-09-01 18:19 UTC]** Quem é Viviane Barci de Moraes, mulher do ministro e citada nas investigações do Banco Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/quem-e-viviane-barci-de-moraes-mulher-do-ministro-e-citada-nas-investigacoes-do-banco-master.ghtml)_
+
+- **[2026-09-01 14:30 UTC]** Delator de irregularidades na compra de vacinas da Covid é quem mais doou para própria campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/delator-de-irregularidades-na-compra-de-vacinas-da-covid-e-quem-mais-doou-para-propria-campanha.shtml)_
+
+- **[2026-09-01 17:18 UTC]** Quem é Cíntia Chagas, nova namorada de Rubens Barrichello
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/quem-e-cintia-chagas-nova-namorada-de-rubens-barrichello.shtml)_
+
+- **[2026-09-01 23:28 UTC]** Quem é Ciro Soares, advogado que aparece em relatório da PF como ponte entre Vorcaro e Gonet
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/quem-e-ciro-soares.ghtml)_
+
+- **[2026-09-02 10:58 UTC]** Quais crimes podem ser investigados e quem pode processar e julgar um ministro do STF? Entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/quais-crimes-podem-ser-investigados-e-quem-pode-processar-e-julgar-um-ministro-do-stf-entenda.ghtml)_
+
+- **[2026-09-02 09:00 UTC]** Donos de flutuantes adotam estratégias e se preparam para seca no AM: 'É o rio quem determina quando precisamos parar'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/02/donos-de-flutuantes-adotam-estrategias-e-se-preparam-para-seca-no-am-e-o-rio-quem-determina-quando-precisamos-parar.ghtml)_
+
+- **[2026-09-02 16:01 UTC]** Projeto prevê descontos em tarifas para quem fizer coleta seletiva
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301684-projeto-preve-descontos-em-tarifas-para-quem-fizer-coleta-seletiva)_
+
+- **[2026-09-02 11:51 UTC]** Quem são os quatro filhos de Gracindo Júnior; três seguiram carreira na TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/quem-sao-os-quatro-filhos-de-gracindo-junior-tres-seguiram-carreira-na-tv.shtml)_
+
+- **[2026-09-02 16:47 UTC]** Equipe de 'Quem Ama Cuida' reclama de horário tardio após queixas de telespectadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/equipe-de-quem-ama-cuida-reclama-de-horario-tardio-apos-queixas-de-telespectadores.shtml)_
+
+- **[2026-09-02 20:46 UTC]** Quem faz a curadoria das suas compras? A escolha certa vale mais do que muitas opções
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/09/02/quem-faz-a-curadoria-das-suas-compras-a-escolha-certa-vale-mais-do-que-muitas-opcoes.ghtml)_
+
+- **[2026-09-03 03:00 UTC]** Ex-jogador da base do Grêmio e investigado por golpe do PIX: quem é o suspeito preso no RJ por se passar por técnico do clube gaúcho
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/ex-jogador-base-gremio-investigado-golpe-pix-quem-e-o-suspeito-preso-no-rj-tecnico-clube.ghtml)_
+
+- **[2026-09-03 14:17 UTC]** 'Quem Ama Cuida': Pedro se preocupa com a condicional de Adriana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466791)_
+
+- **[2026-09-03 11:27 UTC]** Quem é Mauricio Quadrado, da Trustee, e qual a relação do empresário com o Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/quem-e-mauricio-quadrado-da-trustee-e-qual-a-relacao-do-empresario-com-o-master.shtml)_
+
+- **[2026-09-03 14:37 UTC]** Quem ganha e quem perde com o fim da “taxa das blusinhas”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/taxa-das-blusinhas-quem-ganha-perde-fim-imposto/)_
+
+- **[2026-09-03 16:45 UTC]** Viúva, sem filhos e reservada: quem era a mulher encontrada morta em casa após pelo menos um ano em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/viuva-sem-filhos-e-reservada-quem-era-a-mulher-encontrada-morta-em-casa-apos-pelo-menos-um-ano-em-joao-pessoa.ghtml)_
+
+- **[2026-09-03 16:37 UTC]** Mortes: Nordestina fazia da casa no Tatuapé abrigo para quem chegasse
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-nordestina-fazia-da-casa-no-tatuape-abrigo-para-quem-chegasse.shtml)_
+
+- **[2026-09-03 15:02 UTC]** Veja quem chamou Daniel Vorcaro de 'irmão' e quem foi chamado da mesma forma pelo ex-banqueiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-quem-chamou-daniel-vorcaro-de-irmao-e-quem-foi-chamado-da-mesma-forma-pelo-ex-banqueiro.shtml)_
+
+- **[2026-09-03 18:08 UTC]** Supremo derruba tese do TST e limita acesso a Justiça do Trabalho gratuita a quem ganha até R$ 5.000
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fachin-vota-por-ampliar-justica-do-trabalho-gratuita-e-gilmar-mendes-quer-limitar.shtml)_
+
+- **[2026-09-03 18:08 UTC]** Supremo derruba tese do TST e limita acesso à Justiça do Trabalho gratuita a quem ganha até R$ 5.000
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fachin-vota-por-ampliar-justica-do-trabalho-gratuita-e-gilmar-mendes-quer-limitar.shtml)_
+
+- **[2026-09-03 23:02 UTC]** 'Quem Ama Cuida': Adriana arma flagrante e faz Ademir perder Dora de vez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/quem-ama-cuida-adriana-arma-flagrante-e-faz-ademir-perder-dora-de-vez.shtml)_
+
+- **[2026-09-03 23:00 UTC]** Renato Góes posa caracterizado como filho desaparecido de Arthur em 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/renato-goes-posa-caracterizado-como-filho-desaparecido-de-arthur-em-quem-ama-cuida.shtml)_
+
+- **[2026-09-04 11:56 UTC]** STF garante Justiça gratuita para quem ganha até R$ 5 mil por mês
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/stf-garante-justica-gratuita-para-quem-ganha-ate-r-5-mil-por-mes)_
+
+- **[2026-09-04 15:52 UTC]** Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-04 15:07 UTC]** Quem é Billy Barratt, novo Voldemort de 'Harry Potter'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/quem-e-billy-barratt-novo-voldemort-de-harry-potter.shtml)_
+
+- **[2026-09-04 23:16 UTC]** Rock in Rio 2026: Otaviano Costa fala sobre cenas quentes de Flávia Alessandra em Quem Ama Cuida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-otaviano-costa-fala-sobre-cenas-quentes-de-flavia-alessandra-em-quem-ama-cuida.shtml)_
+
+- **[2026-09-04 17:36 UTC]** Rock in Rio inaugura cercadinho mais caro e mira quem quer evitar filas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/rock-in-rio-comeca-com-show-esvaziado-e-inaugura-cercadinho-mais-caro.shtml)_
+
+- **[2026-09-05 09:00 UTC]** João Victor Gonçalves, ator de 'Quem Ama Cuida', é hostilizado na rua
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/joao-victor-goncalves-ator-de-quem-ama-cuida-e-hostilizado-na-rua.shtml)_
+
+- **[2026-09-05 07:00 UTC]** Quem conhece a própria terra sente nos ossos a crise climática
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/09/quem-conhece-a-propria-terra-sente-nos-ossos-a-crise-climatica.shtml)_
+
+- **[2026-09-05 09:50 UTC]** 'Quem Ama Cuida' é reclassificada pelo governo por causa de violência e trama de Ulisses
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/quem-ama-cuida-e-reclassificada-pelo-governo-por-causa-de-violencia-e-trama-de-ulisses.shtml)_
+
+- **[2026-09-05 12:46 UTC]** Quem era a jovem assassinada pelo ex-companheiro em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/quem-era-a-jovem-assassinada-pelo-ex-companheiro-em-palmas.ghtml)_
+
+- **[2026-09-05 13:03 UTC]** Ministério Público vai investigar ação de hostilidade contra ator de 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/ministerio-publico-vai-investigar-acao-de-hostilidade-contra-ator-de-quem-ama-cuida.shtml)_
+
+- **[2026-09-05 15:56 UTC]** Famosos apoiam ator de "Quem Ama Cuida" após denunciar ataque no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/famosos-apoiam-ator-de-quem-ama-cuida-apos-denunciar-ataque-no-rock-in-rio.shtml)_
+
+- **[2026-09-05 17:16 UTC]** Ator de 'Quem Ama Cuida' cobra segurança no Rock in Rio e aponta homofobia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ator-de-quem-ama-cuida-cobra-seguranca-no-rock-in-rio-e-aponta-homofobia.shtml)_
+
+- **[2026-09-05 21:11 UTC]** Alegre e divertida: quem era a empresária esposa de ex-secretário de Saúde do TO que morreu em acidente na TO-070
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/05/alegre-e-divertida-quem-era-a-empresaria-esposa-de-ex-secretario-de-saude-do-to-que-morreu-em-acidente-na-to-070.ghtml)_
+
+- **[2026-09-05 15:56 UTC]** Famosos apoiam ator de 'Quem Ama Cuida' após denunciar ataque no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/famosos-apoiam-ator-de-quem-ama-cuida-apos-denunciar-ataque-no-rock-in-rio.shtml)_
+
+- **[2026-09-06 06:00 UTC]** 'Cheia de atitude': Quem é a menina de 12 anos que controlou cavalo desgovernado no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/06/quem-e-a-menina-de-12-anos-que-controlou-cavalo-desgovernado-no-rs.ghtml)_
+
+- **[2026-09-06 10:12 UTC]** Quem é Alejandro Betancourt, o polêmico bilionário por trás do acordo de petróleo entre EUA e Venezuela
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c23x42j85zxo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-06 13:00 UTC]** Quem é a nova Miss Mundo? Conheça a dominicana Joheirry Mola
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/quem-e-a-nova-miss-mundo-conheca-a-dominicana-joheirry-mola.shtml)_
+
+- **[2026-09-06 18:36 UTC]** Quem é a mulher que estudou com Henrique e refez foto com o cantor 13 anos depois
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/quem-e-a-mulher-que-estudou-com-henrique-e-refez-foto-com-o-cantor-13-anos-depois.ghtml)_
+
+- **[2026-09-07 04:00 UTC]** Quem ganha com a crise do Supremo?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/quem-ganha-com-a-crise-do-supremo.shtml)_
+
+- **[2026-09-07 12:18 UTC]** Polícia do Rio intima streamer que hostilizou ator de 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/policia-do-rio-intima-streamer-que-hostilizou-ator-de-quem-ama-cuida.shtml)_
+
+- **[2026-09-07 15:16 UTC]** Mulher tem orelha cortada com faca após companheiro perguntar 'para quem ela estava se arrumando' no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/07/mulher-atacada-companheiro-parana.ghtml)_
+
+- **[2026-09-07 16:37 UTC]** Polícia abre inquérito e intima streamer que hostilizou ator de 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/policia-abre-inquerito-e-intima-streamer-que-hostilizou-ator-de-quem-ama-cuida.shtml)_
+
+- **[2026-09-07 20:52 UTC]** Tragédia em Capanema: quem eram as quatro vítimas da mesma família que morreram em incêndio
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/07/tragedia-em-capanema-quem-eram-as-quatro-vitimas-da-mesma-familia-que-morreram-em-incendio.ghtml)_
+
+- **[2026-09-07 23:00 UTC]** Quem disse que eu quero fazer a coisa certa?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/09/quem-disse-que-eu-quero-fazer-a-coisa-certa.shtml)_
+
+- **[2026-09-07 22:35 UTC]** Renato Góes rejeita possível mal-estar com Tata Werneck em 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/renato-goes-rejeita-possivel-mal-estar-com-tata-werneck-em-quem-ama-cuida.shtml)_
+
+- **[2026-09-08 00:41 UTC]** Claudio Lottenberg: quem é o “Posto Ipiranga” de Flávio para a Saúde
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/claudio-lottenberg-quem-e-posto-ipiranga-de-flavio-para-saude/)_
+
+- **[2026-09-08 13:05 UTC]** Quem é Andrei Rodrigues, diretor-geral da PF afastado por decisão de André Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/08/quem-e-andrei-rodrigues-diretor-geral-da-pf-afastado-por-decisao-de-andre-mendonca.ghtml)_
+
+- **[2026-09-08 12:26 UTC]** Quem é Andrei Rodrigues, diretor-geral da PF afastado por ordem de Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quem-e-andrei-rodrigues-diretor-geral-da-pf-afastado-por-ordem-de-mendonca.shtml)_
+
+- **[2026-09-08 12:00 UTC]** Por que quem já tem tanto ainda quer mais?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/09/por-que-quem-ja-tem-tanto-ainda-quer-mais.shtml)_
+
+- **[2026-09-08 16:02 UTC]** Careiro tem saque calamidade do FGTS liberado; veja quem pode receber
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/09/08/careiro-tem-saque-calamidade-do-fgts-liberado-veja-quem-pode-receber.ghtml)_
+
+- **[2026-09-08 13:50 UTC]** Cabo do Exército e empresário: quem são as vítimas atingidas por caminhão-tanque na Linha Verde, em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/08/vitimas-acidente-linha-verde-curitiba.ghtml)_
+
+- **[2026-09-08 16:09 UTC]** Novo bispo de Porto Nacional é escolhido pelo papa Leão XIV; veja quem é
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/novo-bispo-de-porto-nacional-e-escolhido-pelo-papa-leao-xiv-veja-quem-e.ghtml)_
+
+- **[2026-09-08 15:55 UTC]** Quem tem coragem de defender as mulheres (além de nós mesmas)?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joanna-moura/2026/09/quem-tem-coragem-de-defender-as-mulheres-alem-de-nos-mesmas.shtml)_
+
+- **[2026-09-08 17:57 UTC]** Quem é Andrei Rodrigues, da PF, e como ele aparece nas mensagens de Vorcaro e na guerra Moraes-Mendonça
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckg8exwg94jo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-08 18:55 UTC]** Quem são os diretores da PF que colocaram os cargos à disposição após afastamento de Andrei Rodrigues
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cp30ez2zgl2o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-08 19:56 UTC]** Educador físico, servidor municipal e jogador amador: quem era homem morto a tiros no Agreste da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/08/educador-fisico-servidor-municipal-e-jogador-amador-quem-era-homem-morto-a-tiros-no-agreste-da-paraiba.ghtml)_
+
+- **[2026-09-08 19:59 UTC]** Apaixonada por viagens, mãe amorosa: quem era a médica encontrada morta em apartamento do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/08/quem-era-a-medica-encontrada-morta-em-apartamento-do-parana.ghtml)_
+
+- **[2026-09-08 19:38 UTC]** Quem é William Murad, que assumiu interinamente comando da PF após afastamento de diretor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quem-e-william-murad-que-assumiu-interinamente-comando-da-pf-apos-afastamento-de-diretor.shtml)_
+
+- **[2026-09-08 20:40 UTC]** 'Quem Ama Cuida': Ademir flagra Dora na cama com André; veja fotos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/quem-ama-cuida-ademir-flagra-dora-na-cama-com-andre-veja-fotos.shtml)_
+
+- **[2026-09-09 03:00 UTC]** 2ª doutora mais jovem do Brasil e sonho de ser professora: quem é a estudante impedida de assumir vaga em concurso público
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quem-e-professora-impedida-assumir-concurso-doenca-ifrs-rs.ghtml)_
+
+- **[2026-09-09 12:00 UTC]** Com 'trairagem', Adriana entrega a coroa de vítima a Dora em 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/thiagostivaletti/2026/09/com-trairagem-adriana-entrega-a-coroa-de-vitima-a-dora-em-quem-ama-cuida.shtml)_
+
+- **[2026-09-09 11:33 UTC]** Secretário do Tesouro dos EUA desafia quem apostar contra o iene: 'Agora, a banca sou eu'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/secretario-do-tesouro-dos-eua-desafia-quem-apostar-contra-o-iene-agora-a-banca-sou-eu.shtml)_
+
+- **[2026-09-09 13:31 UTC]** Quem foi Zélia Amador, professora emérita da UFPA e referência na luta antirracista na Amazônia
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/09/quem-foi-zelia-amador-professora-emerita-da-ufpa-e-referencia-na-luta-antirracista-na-amazonia.ghtml)_
+
+- **[2026-09-09 13:28 UTC]** Lula pede quebra completa de sigilo do caso Master "doa a quem doer"
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lula-pede-quebra-completa-de-sigilo-do-caso-master-doa-quem-doer)_
+
+- **[2026-09-09 12:59 UTC]** Ator de 'Quem Ama Cuida' ganha 400 mil seguidores após ataques por look no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/ator-de-quem-ama-cuida-ganha-400-mil-seguidores-apos-ataques-por-look-no-rock-in-rio.shtml)_
+
+- **[2026-09-09 17:05 UTC]** Quem é o empresário que doou R$ 500 mil para Lula e R$ 500 mil para Flávio Bolsonaro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/09/erasmo-battistella-doacoes-lula-flavio.ghtml)_
+
+- **[2026-09-09 14:58 UTC]** Adolescente de 12 anos foi quem dirigiu carro 0 km flagrado em alta velocidade após furto em SC, diz PM
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/adolescente-12-anos-suspeito-dirigir-carro-apos-furto-sc-diz-pm.ghtml)_
+
+- **[2026-09-09 16:46 UTC]** Ameaça a Cássio e um veterano no Coritiba; quem são os goleiros convocados por Ancelotti
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/ameaca-a-cassio-e-um-veterano-no-coritiba-quem-sao-os-goleiros-convocados-por-ancelotti.shtml)_
+
+- **[2026-09-09 22:09 UTC]** Após guerra de liminares do STF, ministro da Justiça diz que PF busca a verdade “doa a quem doer”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-guerra-de-liminares-do-stf-ministro-da-justica-diz-que-pf-busca-a-verdade-doa-a-quem-doer/)_
+
+- **[2026-09-09 21:49 UTC]** Quem era o vereador que morreu esmagado por carga de 1 tonelada de batatas em SC: 'Adeus, meu melhor amigo'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/09/quem-era-vereador-esmagado-batatas-nivaldo-magagnin.ghtml)_
+
+- **[2026-09-10 03:00 UTC]** Eleições 2026: veja quem são os candidatos a presidente, governador, senador e deputados em todo o Brasil
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-veja-quem-sao-os-candidatos-a-presidente-governador-senador-e-deputados-em-todo-o-brasil.ghtml)_
+
+- **[2026-09-10 03:00 UTC]** VÍDEO: Quem é obrigado a votar?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/10/quem-e-obrigado-a-votar.ghtml)_
+
+- **[2026-09-10 10:13 UTC]** Quem é Mario Frias, ator que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml)_
+
+- **[2026-09-10 06:00 UTC]** Globo aumenta publicidade de 'Quem Ama Cuida' para tentar conter queda de ibope
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/globo-aumenta-publicidade-de-quem-ama-cuida-para-tentar-conter-queda-de-ibope.shtml)_
+
+- **[2026-09-10 10:13 UTC]** Quem é Mario Frias, ator de 'Malhação' que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml)_
+
+- **[2026-09-10 13:03 UTC]** Quem é Mario Frias, alvo da PF em operação que investiga suspeita de desvio de emendas e o financiamento de 'Dark Horse'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c4gv7ww9p4do?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-10 20:13 UTC]** Quem é Vanderlei Natividade, alvo da PF e tesoureiro da ONG de Karina Gama que movimentou R$ 83 milhões
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-vanderlei-natividade-alvo-da-pf-e-tesoureiro-da-ong-de-karina-gama-que-movimentou-r-83-milhoes.ghtml)_
+
+- **[2026-09-10 19:25 UTC]** UFS abre inscrições para mais de 650 vagas ociosas em cursos de graduação presenciais; veja quem pode participar
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/10/ufs-abre-inscricoes-para-mais-de-650-vagas-ociosas-em-cursos-de-graduacao-presenciais-veja-quem-pode-participar.ghtml)_
+
+- **[2026-09-10 19:55 UTC]** Suely será ofendida por Ademir ao relatar assédio no tribunal em 'Quem Ama Cuida'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/suely-sera-ofendida-por-ademir-ao-relatar-assedio-no-tribunal-em-quem-ama-cuida.shtml)_
+
+- **[2026-09-10 18:47 UTC]** 'Quem Ama Cuida': Ademir e Adriana trocam ameaças
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466806)_
+
+- **[2026-09-10 18:32 UTC]** Conselho de trânsito proíbe agentes da SPTrans de multar quem invade corredor e faixa de ônibus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/conselho-de-transito-proibe-agentes-da-sptrans-de-multar-quem-invade-corredor-e-faixa-de-onibus.shtml)_
+
+- **[2026-09-10 22:06 UTC]** Quem é Antônio Carlos Freixo Júnior, o “Mineiro”, operador financeiro de Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-antonio-carlos-freixo-junior-o-mineiro-operador-financeiro-de-vorcaro/)_
+
+- **[2026-09-11 08:44 UTC]** Quem é quem nas mensagens que desencadearam a maior crise da história do STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c7708dpmmg7o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-11 11:34 UTC]** Quem era a família que morreu soterrada enquanto dormia após barranco desabar em cima de casa durante temporal, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/quem-era-a-familia-que-morreu-soterrada-enquanto-dormia-apos-barranco-desabar-em-cima-de-casa-durante-temporal-no-parana.ghtml)_
+
+- **[2026-09-11 12:07 UTC]** Quem é médica condenada por dar falsos diagnósticos de câncer de pele e solicitar cirurgias desnecessárias no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/quem-e-medica-condenada-por-falsos-diagnosticos.ghtml)_
+
+- **[2026-09-09 03:00 UTC]** Doutora antes dos 25 anos e sonho de ser professora: quem é a estudante impedida de assumir vaga em concurso público
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/09/quem-e-professora-impedida-assumir-concurso-doenca-ifrs-rs.ghtml)_
+
+- **[2026-09-11 19:19 UTC]** Quem é Karina da Gama, produtora de “Dark Horse” investigada pela PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-karina-da-gama-produtora-de-dark-horse-investigada-pela-pf/)_
+
+- **[2026-09-11 19:06 UTC]** Maioria dos deputados em exercício busca a reeleição, mas cresce o número de quem concorre a outros cargos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304085-maioria-dos-deputados-em-exercicio-busca-a-reeleicao-mas-cresce-o-numero-de-quem-concorre-a-outros-cargos)_
+

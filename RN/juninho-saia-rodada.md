@@ -14,3 +14,24 @@
 - **[2026-08-30 08:31 UTC]** Sabatinas: Globo anuncia que Renata Lo Prete substitui Tralli e Renata Vasconcellos se houver 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/08/sabatinas-globo-anuncia-que-renata-lo-prete-substitui-tralli-e-renata-vasconcellos-se-houver-2o-turno.shtml)_
 
+- **[2026-08-31 17:36 UTC]** Rodada do Brasileirão termina nesta segunda-feira com Remo e Coritiba
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-08/rodada-do-brasileirao-termina-nesta-segunda-feira-com-remo-e-coritiba)_
+
+- **[2026-08-31 23:25 UTC]** De virada, Coritiba vence Remo no fim da 25ª rodada do Brasileirão
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/de-virada-coritiba-vence-remo-no-fim-da-25a-rodada-do-brasileirao)_
+
+- **[2026-09-01 14:14 UTC]** Empresa de Donald Trump Jr. lidera rodada de US$ 1 bi da Polymarket
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresa-de-donald-trump-jr-lidera-rodada-de-us-1-bi-da-polymarket.shtml)_
+
+- **[2026-09-02 19:02 UTC]** Faria Lima aguarda nova rodada de investigações após delação de fundador da Reag
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/faria-lima-aguarda-nova-rodada-de-investigacoes-apos-delacao-de-fundador-da-reag.shtml)_
+
+- **[2026-09-05 18:51 UTC]** Bahia abre 26ª rodada do Brasileirão com triunfo sobre o Bragantino
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/bahia-abre-26a-rodada-do-brasileirao-com-triunfo-sobre-o-bragantino)_
+
+- **[2026-09-07 16:53 UTC]** Brasileirão encerra 26ª rodada nesta segunda com Vitória e Grêmio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-09/brasileirao-encerra-26a-rodada-nesta-segunda-com-vitoria-e-gremio)_
+
+- **[2026-09-10 22:57 UTC]** Fachin faz nova rodada de consultas internas e alas do STF discutem cenários para relatório sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/fachin-faz-nova-rodada-de-consultas-internas-e-alas-do-stf-discutem-cenarios-para-relatorio-sobre-moraes.ghtml)_
+

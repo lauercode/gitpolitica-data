@@ -14,3 +14,15 @@
 - **[2026-08-29 20:05 UTC]** Não é só Lula: lobista amiga de Lulinha tem fotos com outras autoridades e ministros do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fotos-roberta-luchsinger-autoridades-ministros-stf/)_
 
+- **[2026-09-04 20:42 UTC]** Esposa de ex-secretário morreu em acidente na TO-070 enquanto viajava com a família para Goiânia, diz amiga
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/esposa-de-ex-secretario-que-morreu-em-acidente-viajava-com-a-familia-para-goiania-diz-amiga.ghtml)_
+
+- **[2026-09-04 23:42 UTC]** ‘Como uma despedida’, diz amiga sobre visita de esposa de ex-secretário morta em acidente na TO-070
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/04/como-uma-despedida-diz-amiga-sobre-visita-de-esposa-de-ex-secretario-morta-em-acidente-na-to-070.ghtml)_
+
+- **[2026-09-09 15:31 UTC]** Advogado do Paraná se torna réu por estupro de adolescente e importunação sexual de amiga dela dentro de carro
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/09/advogado-parana-reu-estupro-adolescente-importunacao-sexual-amiga.ghtml)_
+
+- **[2026-09-11 14:24 UTC]** 'Alegre e atenciosa', diz amiga de mulher morta a tiros na frente de casa em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/alegre-e-atenciosa-diz-amiga-de-mulher-morta-a-tiros-na-frente-de-casa-em-rio-branco.ghtml)_
+

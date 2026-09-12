@@ -14,3 +14,33 @@
 - **[2026-08-30 04:00 UTC]** Tirar gordura do corpo e colocar no rosto pode rejuvenescer? Veja riscos e benefícios do nanofat
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/tirar-gordura-do-corpo-e-colocar-no-rosto-pode-rejuvenescer-veja-riscos-e-beneficios-do-nanofat.shtml)_
 
+- **[2026-08-28 21:18 UTC]** Projeto cria regras para publicidade de anabolizantes e exige alertas sobre riscos à saúde
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1299853-projeto-cria-regras-para-publicidade-de-anabolizantes-e-exige-alertas-sobre-riscos-a-saude)_
+
+- **[2026-08-28 18:29 UTC]** Empresas que não inovam podem enfrentar riscos? Entenda os desafios
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/riquezas-da-inovacao/noticia/2026/08/28/empresas-que-nao-inovam-podem-enfrentar-riscos-entenda-os-desafios.ghtml)_
+
+- **[2026-09-01 13:10 UTC]** Harmonização do bumbum fica popular com famosas; saiba os riscos do procedimento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/harmonizacao-do-bumbum-fica-popular-com-famosas-saiba-os-riscos-do-procedimento.shtml)_
+
+- **[2026-09-05 17:17 UTC]** Putin nega que convocação esteja a caminho, mas russos não querem correr riscos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/putin-nega-que-convocacao-esteja-a-caminho-mas-russos-nao-querem-correr-riscos.shtml)_
+
+- **[2026-09-06 07:00 UTC]** Comunidades ribeirinhas no PA temem explosões para abrir hidrovia no Pedral do Lourenção; cientistas apontam riscos
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/06/comunidades-ribeirinhas-no-pa-temem-explosoes-para-abrir-hidrovia-no-pedral-do-lourencao-cientistas-apontam-riscos.ghtml)_
+
+- **[2026-09-06 11:00 UTC]** Ibama recomenda análise de riscos do El Niño em licenças de hidrelétricas, portos e linhas de transmissão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/ibama-recomenda-analise-de-riscos-do-el-nino-em-licencas-de-hidreletricas-portos-e-linhas-de-transmissao.shtml)_
+
+- **[2026-09-06 18:01 UTC]** Líder da oposição não assina pedido de impeachment de Moraes e alega riscos de nulidade
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lider-da-oposicao-nao-assina-pedido-de-impeachment-de-moraes-e-alega-riscos-de-nulidade/)_
+
+- **[2026-09-10 16:46 UTC]** FMI diz que economia global resiste à guerra, mas riscos seguem elevados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fmi-diz-que-economia-global-resiste-a-guerra-mas-riscos-seguem-elevados.shtml)_
+
+- **[2026-09-11 07:28 UTC]** Dia do Cerrado: Guimarães Rosa denunciou riscos ao bioma, diz bióloga
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/dia-do-cerrado-guimaraes-rosa-denunciou-riscos-ao-bioma-diz-biologa)_
+
+- **[2026-09-11 12:01 UTC]** Influenciador morre após aumento peniano com ácido hialurônico na Tailândia; entenda os riscos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/influenciador-morre-apos-aumento-peniano-com-acido-hialuronico-na-tailandia-entenda-os-riscos.shtml)_
+

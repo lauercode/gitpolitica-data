@@ -23,3 +23,474 @@
 - **[2026-08-27 22:35 UTC]** Quaest no AC: 58% aprovam e 24% desaprovam governo de Mailza Assis
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-no-ac-58percent-aprovam-e-24percent-desaprovam-governo-de-mailza-assis.ghtml)_
 
+- **[2026-08-31 21:01 UTC]** Policial penal afastado suspeito de facilitar fuga de detento é preso com outros dois homens no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/policial-penal-afastado-suspeito-de-facilitar-fuga-de-detento-e-preso-com-outros-dois-homens-no-acre.ghtml)_
+
+- **[2026-08-31 20:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-acre.ghtml)_
+
+- **[2026-08-31 20:03 UTC]** Eleições 2026: veja todos os candidatos ao governo do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-do-acre.ghtml)_
+
+- **[2026-08-31 19:53 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 31 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-31-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-31 19:46 UTC]** Mais de 60 seções eleitorais têm local de votação alterado no Acre; veja cidades afetadas
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/mais-de-60-secoes-eleitorais-tem-local-de-votacao-alterado-no-acre-veja-cidades-afetadas.ghtml)_
+
+- **[2026-08-31 19:23 UTC]** Eleições 2026: veja todos os candidatos ao Senado pelo Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-senado-pelo-acre.ghtml)_
+
+- **[2026-08-31 16:09 UTC]** Caso Géssica: PMs são pronunciados a júri popular após quase 3 anos de morte de enfermeira no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/caso-gessica-pms-sao-pronunciados-a-juri-popular-apos-quase-3-anos-de-morte-de-enfermeira-no-acre.ghtml)_
+
+- **[2026-08-31 14:32 UTC]** Homens são agredidos por PMs em feira no interior do Acre; VÍDEO mostra momento
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/homens-sao-agredidos-por-pms-em-feira-no-interior-do-acre-video-mostra-momento.ghtml)_
+
+- **[2026-08-31 13:00 UTC]** Três em cada 10 mulheres do Acre reconhecem ter vivido violência doméstica, aponta pesquisa
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/tres-em-cada-10-mulheres-do-acre-reconhecem-ter-vivido-violencia-domestica-aponta-pesquisa.ghtml)_
+
+- **[2026-08-31 12:55 UTC]** Assessor especial da Casa Civil é exonerado após ser preso por acidente que matou três no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/assessor-especial-da-casa-civil-e-exonerado-apos-ser-preso-por-acidente-que-matou-tres-no-acre.ghtml)_
+
+- **[2026-08-30 20:36 UTC]** VÍDEO mostra preso por colisão que deixou 3 mortos bebendo em feira agropecuária no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/suspeito-de-causar-colisao-que-deixou-3-mortos-em-rodovia-e-assessor-especial-do-governo-do-ac.ghtml)_
+
+- **[2026-08-30 17:49 UTC]** Colisão entre carro e motocicletas deixa três mortos na BR-364, no interior do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/colisao-entre-carro-e-motocicletas-deixa-tres-mortos-na-br-364-no-interior-do-acre.ghtml)_
+
+- **[2026-08-30 16:49 UTC]** VÍDEOS: Jornal do Acre 2ª Edição deste sábado, 29 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-deste-sabado-29-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-30 15:12 UTC]** População do Acre ultrapassa 887 mil pessoas, estima IBGE
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/populacao-do-acre-ultrapassa-887-mil-pessoas-estima-ibge.ghtml)_
+
+- **[2026-08-30 13:00 UTC]** Acre tem três cidades entre as que mais desmataram em julho, aponta Imazon
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/acre-tem-tres-cidades-entre-as-que-mais-desmataram-em-julho-aponta-imazon.ghtml)_
+
+- **[2026-08-30 12:37 UTC]** VÍDEOS: Amazônia Agro - Acre deste domingo, 30 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-amazonia-agro-acre-deste-domingo-30-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-30 09:00 UTC]** Mais de mil candidatos devem fazer concurso do IBGE neste domingo (30) no Acre; veja horários
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/30/mais-de-mil-candidatos-devem-fazer-concurso-do-ibge-neste-domingo-30-no-acre-veja-horarios.ghtml)_
+
+- **[2026-08-29 20:17 UTC]** VÍDEOS: Jornal do Acre 1ª edição deste sábado, 29 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-deste-sabado-29-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-29 19:20 UTC]** Tapioca com mais de 1 metro de diâmetro vence concurso do Festival da Farinha no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/tapioca-com-mais-de-1-metro-de-diametro-vence-concurso-do-festival-da-farinha-no-acre-video.ghtml)_
+
+- **[2026-08-29 17:11 UTC]** Área de mata pega fogo próximo a cemitério no interior do Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/area-de-mata-pega-fogo-proximo-a-cemiterio-no-interior-do-acre.ghtml)_
+
+- **[2026-08-29 13:00 UTC]** TSE aprova envio de forças federais para reforçar segurança das eleições no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/29/tse-aprova-envio-de-forcas-federais-para-reforcar-seguranca-das-eleicoes-no-acre.ghtml)_
+
+- **[2026-08-29 08:00 UTC]** Expedição de fuscas deve cruzar BR-319 e percorrer mais de 4 mil km entre Acre e Roraima: 'Propósito'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/29/expedicao-de-fuscas-deve-cruzar-br-319-e-percorrer-mais-de-4-mil-km-entre-acre-e-roraima-proposito.ghtml)_
+
+- **[2026-08-29 00:10 UTC]** VÍDEO: Caminhoneiro é preso pela PRF após dirigir embriagado em zigue-zague no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/video-caminhoneiro-e-preso-pela-prf-apos-dirigir-embriagado-em-zigue-zague-no-acre.ghtml)_
+
+- **[2026-08-29 00:03 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 28 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-28-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-28 21:01 UTC]** Renda per capita fica acima de R$ 3,1 mil no Acre, 3ª maior da região Norte
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/renda-per-capita-fica-acima-de-r-31-mil-no-acre-no-3-trimestre-crescimento-e-de-9.ghtml)_
+
+- **[2026-08-28 19:41 UTC]** Bajaj chega ao Acre: Tecnologia, desempenho e personalidade sobre duas rodas
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/benn-bajaj/noticia/2026/08/28/bajaj-chega-ao-acre-tecnologia-desempenho-e-personalidade-sobre-duas-rodas.ghtml)_
+
+- **[2026-08-28 19:40 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 28 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-28-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-28 19:24 UTC]** Modelo de gestão do AraSuper atrai grandes redes varejistas ao Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/arasuper/noticia/2026/08/28/modelo-de-gestao-do-arasuper-atrai-grandes-redes-varejistas-ao-acre.ghtml)_
+
+- **[2026-08-28 16:41 UTC]** Eclipse lunar parcial: veja fotos do fenômeno no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/eclipse-lunar-parcial-veja-fotos-do-fenomeno-no-acre.ghtml)_
+
+- **[2026-08-28 15:31 UTC]** Festival da Farinha: Mandioca de mais de 30 kg e raiz com quase 4 metros vencem concurso no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/festival-da-farinha-mandioca-de-mais-de-30-kg-e-raiz-com-quase-4-metros-vencem-concurso-no-interior-do-ac.ghtml)_
+
+- **[2026-08-28 13:30 UTC]** Morre Cássio de Holanda Tavares, defensor público do Acre, aos 49 anos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/28/morre-cassio-de-holanda-tavares-defensor-publico-do-acre-aos-49-anos.ghtml)_
+
+- **[2026-08-28 00:42 UTC]** Prolongamento de ponte sobre o Rio Tarauacá é concluído após 6 anos de obras no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/prolongamento-de-ponte-sobre-o-rio-tarauaca-e-concluido-apos-6-anos-de-obras-no-acre.ghtml)_
+
+- **[2026-08-28 00:40 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 27 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-27-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-28 00:02 UTC]** Homem de 36 anos é encontrado morto no quintal de casa no Acre; suspeita é de mal súbito
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/homem-de-36-anos-e-encontrado-morto-no-quintal-de-casa-no-acre-suspeita-e-de-mal-subito.ghtml)_
+
+- **[2026-08-27 20:01 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 27 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-27-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-27 18:06 UTC]** Acre volta a ter voos direto para Rondônia após seis anos; nº de viagens para SP aumentam
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/27/acre-volta-a-ter-voos-direto-para-rondonia-apos-seis-anos-no-de-viagens-para-sp-aumentam.ghtml)_
+
+- **[2026-08-27 01:24 UTC]** Apagão deixa 5 municípios do Acre sem energia elétrica
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/apagao-e-registrado-no-interior-do-acre.ghtml)_
+
+- **[2026-08-27 00:06 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 26 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-26-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-26 23:07 UTC]** Justiça do Acre mantém pena de devolução de R$ 4,6 mil por ex-vereador, mas reduz punições
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/justica-do-acre-mantem-pena-de-devolucao-de-r-46-mil-por-ex-vereador-mas-reduz-punicoes.ghtml)_
+
+- **[2026-08-26 21:36 UTC]** Estudante que representou o Acre no Programa Jovem Senador 2026 fala de experiência no DF: 'Responsabilidade'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/estudante-que-representou-o-acre-no-programa-jovem-senador-2026-fala-de-experiencia-no-df-responsabilidade.ghtml)_
+
+- **[2026-08-26 20:57 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quarta-feira, 26 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quarta-feira-26-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-26 17:53 UTC]** Motociclista que teve pé amputado ao colidir com carro recebe alta no Acre; amigos pedem ajuda
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/motociclista-que-teve-pe-amputado-ao-colidir-com-carro-passou-por-cirurgia-no-acre.ghtml)_
+
+- **[2026-08-26 14:57 UTC]** Indígena tira certidão de nascimento tardia aos 19 anos no Acre: 'Quero estudar', diz
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/indigena-tira-certidao-de-nascimento-tardia-aos-19-anos-no-acre-quero-estudar-diz.ghtml)_
+
+- **[2026-08-26 13:32 UTC]** Mais de 370 kg de skunk são apreendidos dentro de embarcação no Acre; cinco fogem
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/26/policia-apreende-mais-de-370-kg-de-skunk-em-embarcacao-em-ramal-de-rio-branco-cinco-fogem.ghtml)_
+
+- **[2026-08-26 00:29 UTC]** g1 Acre e CBN Rio Branco conquistam 1º lugar no Prêmio Sebrae de Jornalismo 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/g1-acre-e-cbn-rio-branco-conquistam-1o-lugar-no-premio-sebrae-de-jornalismo-2026.ghtml)_
+
+- **[2026-08-25 23:38 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 25 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-25-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-25 22:10 UTC]** Conta de luz tem redução de mais de 5% no Acre a partir desta quarta-feira; Veja quem é beneficiado
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/conta-de-luz-tem-reducao-de-mais-de-5percent-no-acre-a-partir-desta-quarta-feira-veja-quem-e-beneficiado.ghtml)_
+
+- **[2026-08-25 21:06 UTC]** Motociclista tem pé direito amputado durante colisão com carro no Acre; Veja VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/video-motociclista-tem-pe-amputado-durante-colisao-com-carro-no-acre.ghtml)_
+
+- **[2026-08-25 19:44 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 25 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-terca-feira-25-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-25 18:04 UTC]** VÍDEO: Em oito meses, quase 300 celulares foram apreendidos em presídio do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/video-em-oito-meses-quase-300-celulares-foram-apreendidos-em-presidio-do-acre.ghtml)_
+
+- **[2026-08-25 09:00 UTC]** Diarista sofre cortes no rosto e pescoço por linha de cerol ao andar de moto no Acre: 'Nasci de novo'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/25/diarista-sofre-cortes-no-rosto-e-pescoco-por-linha-de-pipa-ao-andar-de-moto-no-ac-nasci-de-novo.ghtml)_
+
+- **[2026-08-25 00:09 UTC]** Policial penal é afastado do cargo por 60 dias após preso fugir durante escolta no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/24/policial-penal-e-afastado-do-cargo-por-60-dias-apos-preso-fugir-durante-escolta-no-acre.ghtml)_
+
+- **[2026-08-24 23:21 UTC]** Acre registra mais de 20 denúncias em oito dias no app Pardal do TSE; entenda
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/24/acre-registra-mais-de-20-denuncias-em-oito-dias-no-app-pardal-do-tse-entenda.ghtml)_
+
+- **[2026-08-24 23:02 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 24 de agosto fde 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-24-de-agosto-fde-2026.ghtml)_
+
+- **[2026-08-24 22:10 UTC]** Mulher de 60 anos foi morta com fio de telefone por causa de R$ 800 e celular no Acre, diz polícia
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/24/mulher-de-60-anos-foi-morta-com-fio-de-telefone-por-causa-de-r-800-e-celular-no-acre-diz-policia.ghtml)_
+
+- **[2026-08-24 20:47 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 24 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-24-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-24 17:59 UTC]** VÍDEO: Pastor alemão é resgatado pela polícia após fugir de casa e ser vendido no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/24/video-pastor-alemao-e-resgatado-pela-policia-apos-fugir-de-casa-e-ser-vendido-no-acre.ghtml)_
+
+- **[2026-08-31 23:39 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 31 de agosto de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-31-de-agosto-de-2026.ghtml)_
+
+- **[2026-08-31 23:08 UTC]** Eleições 2026: veja como foi a agenda dos candidatos ao governo do Acre nesta segunda-feira (31)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-como-foi-a-agenda-dos-candidatos-ao-governo-do-acre-nesta-segunda-feira-31.ghtml)_
+
+- **[2026-09-01 10:00 UTC]** O que se sabe sobre acidente que matou três pessoas em saída de festa no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/o-que-se-sabe-sobre-acidente-que-matou-tres-pessoas-em-saida-de-festa-no-acre.ghtml)_
+
+- **[2026-09-01 08:03 UTC]** Junto há seis anos, trisal do Acre comemora chegada de bebê e anuncia que espera uma menina
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/junto-ha-seis-anos-trisal-do-acre-comemora-chegada-de-bebe-e-anuncia-que-espera-uma-menina.ghtml)_
+
+- **[2026-09-01 08:03 UTC]** Junto há seis anos, trisal do Acre anuncia gravidez e revela que espera uma menina
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/junto-ha-seis-anos-trisal-do-acre-comemora-chegada-de-bebe-e-anuncia-que-espera-uma-menina.ghtml)_
+
+- **[2026-09-01 17:28 UTC]** Homem que matou a ex na frente da filha tem pena aumentada para mais de 58 anos no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/homem-que-matou-a-ex-na-frente-da-filha-tem-pena-aumentada-no-acre.ghtml)_
+
+- **[2026-09-01 17:26 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-acre.ghtml)_
+
+- **[2026-09-01 17:02 UTC]** Grupo Rede Amazônica celebra 54 anos com missa no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/grupo-rede-amazonica-celebra-54-anos-com-missa-no-acre.ghtml)_
+
+- **[2026-09-01 16:26 UTC]** VÍDEO: Carro passa direto em passarela e cai dentro de córrego no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/video-carro-passa-direto-em-passarela-e-cai-dentro-de-corrego-no-acre.ghtml)_
+
+- **[2026-09-01 20:51 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 1º de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-terca-feira-1-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-02 00:04 UTC]** Veja como foi o dia de campanha dos candidatos ao governo do Acre nesta terça-feira (1º)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/01/veja-como-foi-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-terca-feira-1o.ghtml)_
+
+- **[2026-09-02 10:00 UTC]** Do Legislativo ao governo: como os partidos distribuem as candidaturas de mulheres no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/02/do-legislativo-ao-governo-como-os-partidos-distribuem-as-candidaturas-de-mulheres-no-acre.ghtml)_
+
+- **[2026-09-02 10:00 UTC]** Acre tem alta de mais de 760% nos focos de queimadas em agosto, aponta Inpe
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/acre-tem-alta-de-mais-de-760percent-nos-focos-de-queimadas-em-agosto-aponta-inpe.ghtml)_
+
+- **[2026-09-02 16:30 UTC]** CNH Social: Mulheres vítimas de violência doméstica são convocadas para matrícula no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/cnh-social-mulheres-vitimas-de-violencia-domestica-sao-convocadas-para-matricula-no-acre.ghtml)_
+
+- **[2026-09-02 15:07 UTC]** Menino de 4 anos cai de embarcação e desaparece em rio no interior do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/menino-de-4-anos-cai-de-embarcacao-e-desaparece-em-rio-no-interior-do-acre.ghtml)_
+
+- **[2026-09-02 18:10 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 1º de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-1-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-02 17:47 UTC]** Incêndios de grandes proporções atingem áreas de vegetação no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/incendios-de-grandes-proporcoes-atingem-areas-de-vegetacao-no-acre.ghtml)_
+
+- **[2026-09-02 21:00 UTC]** Mulher é achada morta dentro de banheiro de apartamento no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/corpos-sao-achados-esquartejados-dentro-de-sacos-plasticos-em-apartamento-no-acre.ghtml)_
+
+- **[2026-09-02 20:04 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quarta-feira, 2 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quarta-feira-2-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-03 00:13 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta quarta-feira (2)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/02/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quinta-feira-3.ghtml)_
+
+- **[2026-09-02 22:55 UTC]** Autorizações para queima controlada são suspensas devido emergência ambiental no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/02/autorizacoes-para-queima-controlada-sao-suspensas-devido-emergencia-ambiental-no-acre.ghtml)_
+
+- **[2026-09-02 22:42 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 2 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-2-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-03 13:36 UTC]** Músico é encontrado morto dentro de casa no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/musico-e-encontrado-morto-dentro-de-casa-no-acre.ghtml)_
+
+- **[2026-09-03 13:00 UTC]** Festival inspirado em carta de Chico Mendes aos jovens lança programação no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/festival-inspirado-em-carta-de-chico-mendes-aos-jovens-lanca-programacao-no-acre.ghtml)_
+
+- **[2026-09-03 16:28 UTC]** Buscas por menino de 4 anos que caiu de embarcação em rio no Acre chegam ao terceiro dia
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/buscas-por-menino-de-4-anos-que-caiu-de-embarcacao-em-rio-no-acre-chegam-ao-terceiro-dia.ghtml)_
+
+- **[2026-09-03 09:00 UTC]** Agricultor é indiciado por não socorrer jovem que morreu em acidente de moto no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/condutor-e-indiciado-por-omissao-de-socorro-em-acidente-que-matou-motociclista-no-ac.ghtml)_
+
+- **[2026-09-03 15:15 UTC]** Suspeito de degolar jovem no Acre foi condenado por assassinar esposa grávida em Roraima há 8 anos
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/ac/acre/noticia/2026/09/03/suspeito-de-matar-jovem-em-apartamento-no-ac-foi-condenado-por-assassinar-esposa-gravida-em-roraima.ghtml)_
+
+- **[2026-09-03 20:37 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 3 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-3-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-03 20:13 UTC]** TCE vê gasto acima do limite e barra nomeação de comissionados e cargos de confiança no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/tce-ve-gasto-acima-do-limite-e-barra-nomeacao-de-comissionados-e-cargos-de-confianca-no-acre.ghtml)_
+
+- **[2026-09-03 23:43 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta quinta-feira (3)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/03/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quinta-feira-3.ghtml)_
+
+- **[2026-09-03 23:07 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 3 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-3-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-03 23:03 UTC]** VÍDEO: 'Homem-Aranha' é furtado em frente a estúdio de tatuagem no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/03/video-homem-aranha-e-furtado-em-frente-a-estudio-de-tatuagem-no-acre.ghtml)_
+
+- **[2026-09-04 08:00 UTC]** Mãe e irmã de homem torturado por PMs devem ganhar R$ 45 mil de indenização no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/mae-e-irma-de-homem-torturado-por-pms-devem-ganhar-r-45-mil-de-indenizacao-no-acre.ghtml)_
+
+- **[2026-09-04 15:55 UTC]** Para driblar calor intenso, professor coloca barra de gelo em caixa d’água no Acre; veja VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/para-driblar-calor-intenso-professor-coloca-barra-de-gelo-em-caixa-dagua-no-acre-veja-video.ghtml)_
+
+- **[2026-09-04 14:59 UTC]** Filme produzido por jovens indígenas retrata relação de mulheres com espaço sagrado no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/filme-produzido-por-jovens-indigenas-retrata-relacao-de-mulheres-com-espaco-sagrado-no-acre.ghtml)_
+
+- **[2026-09-04 19:31 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 4 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-4-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-04 19:58 UTC]** Caso Maria Ramona: o que se sabe sobre assassinato de jovem em apartamento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/caso-maria-ramona-o-que-se-sabe-sobre-assassinato-de-jovem-em-apartamento-no-acre.ghtml)_
+
+- **[2026-09-04 16:32 UTC]** Família de motociclista morto após acidente na BR-364 chega ao Acre para funeral: 'Estamos desolados'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/familia-de-motociclista-morto-apos-acidente-na-br-364-chega-ao-ac-para-funeral-estamos-desolados.ghtml)_
+
+- **[2026-09-04 23:34 UTC]** VÍDEO: Médicos retiram bateria de lítio do estômago de criança de 1 ano e 9 meses no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/video-medicos-retiram-bateria-de-litio-do-estomago-de-crianca-no-acre.ghtml)_
+
+- **[2026-09-04 23:32 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 4 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-4-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-04 22:03 UTC]** Combate a incêndio que destruiu mercado no Acre acaba após 10h e famílias são retiradas da região
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/combate-a-incendio-que-destruiu-mercado-em-rio-branco-acaba-apos-9h-e-familias-sao-retiradas-da-regiao.ghtml)_
+
+- **[2026-09-05 00:56 UTC]** Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta sexta-feira (4)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/04/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-sexta-feira-4.ghtml)_
+
+- **[2026-09-05 14:21 UTC]** Escombros seguem em rio três meses após queda de ponte de R$ 36 milhões no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/escombros-seguem-em-rio-tres-meses-apos-queda-de-ponte-no-acre.ghtml)_
+
+- **[2026-09-05 15:47 UTC]** Casas próximas a comércio que pegou fogo no Acre passam por vistorias da Defesa Civil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/casas-proximas-a-comercio-que-pegou-fogo-no-acre-passam-por-vistorias-da-defesa-civil.ghtml)_
+
+- **[2026-09-05 10:00 UTC]** MPF tenta reverter decisão e pede retirada de homenagens ligadas à ditadura em espaços no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/05/mpf-tenta-reverter-decisao-e-pede-retirada-de-homenagens-ligadas-a-ditadura-em-espacos-no-ac.ghtml)_
+
+- **[2026-09-05 21:24 UTC]** VÍDEOS: Jornal do Acre 1ª edição deste sábado, 5 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-deste-sabado-5-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-06 09:00 UTC]** Da cozinha de casa, confeiteira do Acre fatura R$ 1,5 mil com morango cravejado: 'Clientela aumentou'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/da-cozinha-de-casa-confeiteira-do-acre-fatura-r-15-mil-com-morango-cravejado-clientela-aumentou.ghtml)_
+
+- **[2026-09-06 14:22 UTC]** VÍDEOS: Amazônia Agro - Acre deste domingo, 6 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-amazonia-agro-acre-deste-domingo-6-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-06 14:21 UTC]** VÍDEOS: Jornal do Acre 2ª edição deste sábado, 5 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-deste-sabado-5-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-06 20:46 UTC]** Inmet emite alerta amarelo para chuvas e queda de temperaturas no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/inmet-emite-alerta-amarelo-de-chuvas-e-queda-de-temperaturas-no-acre.ghtml)_
+
+- **[2026-09-07 16:58 UTC]** Ônibus com estudantes e professores tomba em rodovia no Acre; não há feridos graves
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/onibus-com-estudantes-e-professores-tomba-em-rodovia-do-acre.ghtml)_
+
+- **[2026-09-07 15:48 UTC]** Buscas por menino de 4 anos que caiu de embarcação são encerradas no interior do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/buscas-por-menino-de-4-anos-que-caiu-de-embarcacao-sao-encerradas-no-interior-do-acre.ghtml)_
+
+- **[2026-09-07 14:05 UTC]** Homem é preso suspeito de abuso sexual após atrair menina de 5 anos com picolé no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/homem-e-preso-suspeito-de-abuso-sexual-apos-atrair-menina-de-5-anos-com-picole-no-acre.ghtml)_
+
+- **[2026-09-07 13:44 UTC]** Agricultor atropelado por advogado em saída de feira agropecuária recebe alta no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/agricultor-atropelado-por-advogado-em-saida-de-feira-agropecuaria-recebe-alta-no-acre.ghtml)_
+
+- **[2026-09-07 20:40 UTC]** Mecânico acusado de matar homem a tiros no Canal da Maternidade vai a júri no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/mecanico-acusado-de-matar-homem-a-tiros-no-canal-da-maternidade-vai-a-juri-no-acre.ghtml)_
+
+- **[2026-09-07 20:09 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta segunda-feira, 7 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-7-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-07 19:35 UTC]** Eleições 2026: Eduardo Velloso disputa vaga no Senado com foco em saúde e fortalecimento do agro no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-eduardo-velloso-disputa-vaga-no-senado-com-foco-em-saude-e-fortalecimento-do-agro-no-acre.ghtml)_
+
+- **[2026-09-07 16:58 UTC]** Ônibus com estudantes e professores tomba em rodovia no Acre; aluna machucou o braço
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/onibus-com-estudantes-e-professores-tomba-em-rodovia-do-acre.ghtml)_
+
+- **[2026-09-07 23:01 UTC]** Grito dos Excluídos faz defesa de moradia e valorização dos direitos das mulheres no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/grito-dos-excluidos-faz-defesa-de-moradia-e-valorizacao-dos-direitos-das-mulheres-no-acre.ghtml)_
+
+- **[2026-09-08 00:53 UTC]** Desfile de 7 de Setembro reúne multidão no Centro da capital do Acre; VÍDEOS
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/desfile-de-7-de-setembro-reune-multidao-no-centro-da-capital-do-acre-videos.ghtml)_
+
+- **[2026-09-08 00:10 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 7 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-7-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-03 00:13 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta segunda-feira (7)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/02/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quinta-feira-3.ghtml)_
+
+- **[2026-09-08 15:18 UTC]** Motociclista de 50 anos morre após bater em traseira de carreta estacionada no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/motociclista-de-50-anos-morre-apos-bater-em-traseira-de-carreta-estacionada-no-acre.ghtml)_
+
+- **[2026-09-08 14:30 UTC]** Detento abre buraco em cela e é pego ao tentar fugir de presídio pela 2ª vez no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/detento-abre-buraco-em-cela-e-e-pego-ao-tentar-fugir-de-presidio-pela-2a-vez-no-acre.ghtml)_
+
+- **[2026-09-08 19:50 UTC]** Thor Dantas propõe comprar alimentos de produtores do Acre para melhorar merenda escolar
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/thor-dantas-propoe-comprar-alimentos-de-produtores-do-acre-para-melhorar-merenda-escolar.ghtml)_
+
+- **[2026-09-08 19:33 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 8 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-terca-feira-8-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-08 17:29 UTC]** Em visita a fábricas, Tião Bocalom defende ambiente favorável para atrair empresas ao Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/em-visita-a-fabricas-tiao-bocalom-defende-ambiente-favoravel-para-atrair-empresas-ao-acre.ghtml)_
+
+- **[2026-09-08 21:34 UTC]** Cidade do Acre recebe mais de R$ 1,2 milhão para ações de proteção durante seca
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/cidade-do-ac-recebe-mais-de-r-12-milhao-do-governo-federal-para-acoes-de-protecao-durante-seca.ghtml)_
+
+- **[2026-09-09 00:39 UTC]** Homem é esfaqueado e morre à espera de transporte aéreo para atendimento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/homem-e-esfaqueado-e-morre-a-espera-de-transporte-aereo-para-atendimento-no-acre.ghtml)_
+
+- **[2026-09-09 00:03 UTC]** Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta terça-feira (8)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-terca-feira-8.ghtml)_
+
+- **[2026-09-08 23:33 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 8 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-8-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-08 23:21 UTC]** VÍDEO: Caminhão com 80 porcos tomba após falha mecânica em rodovia do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/video-caminhao-com-porcos-tomba-apos-falha-mecanica-em-rodovia-do-acre.ghtml)_
+
+- **[2026-09-09 10:00 UTC]** Mulher é condenada a mais de 25 anos de prisão por mandar matar adolescente no Acre em 2019
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/mulher-e-condenada-a-mais-de-25-anos-de-prisao-por-mandar-matar-adolescente-no-acre-em-2019.ghtml)_
+
+- **[2026-09-09 14:05 UTC]** Mãe e padrasto são presos suspeitos de espancar e matar menino de 3 anos no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/mae-e-padrasto-sao-presos-suspeitos-de-espancar-e-matar-menino-de-3-anos-no-interior-do-acre.ghtml)_
+
+- **[2026-09-09 18:02 UTC]** Caso Maria Ramona: Escola onde vítima de feminicídio estudava faz passeata e pede justiça no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/caso-maria-ramona-escola-onde-vitima-estudava-faz-passeata-contra-feminicidio-no-acre.ghtml)_
+
+- **[2026-09-09 17:09 UTC]** Idosa de 77 anos morre após sofrer mal súbito em clínica de fisioterapia no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/idosa-de-77-anos-morre-apos-sofrer-mal-subito-em-clinica-de-fisioterapia-no-acre.ghtml)_
+
+- **[2026-09-09 20:09 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quarta-feira, 9 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quarta-feira-9-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-09 23:11 UTC]** Polícia investiga legítima defesa em morte de homem na zona rural de município do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/policia-investiga-legitima-defesa-em-morte-de-homem-na-zona-rural-de-municipio-do-acre.ghtml)_
+
+- **[2026-09-09 22:56 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quarta-feira, 9 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quarta-feira-9-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-10 00:32 UTC]** Indígenas do Acre não precisam apresentar RG e CPF para acesso ao Tratamento Fora de Domicílio, diz MPF
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/indigenas-do-acre-nao-precisam-apresentar-rg-e-cpf-para-acesso-ao-tratamento-fora-de-domicilio-diz-mpf.ghtml)_
+
+- **[2026-09-09 23:58 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta quarta-feira (9)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quarta-feira-9.ghtml)_
+
+- **[2026-09-10 09:00 UTC]** Trabalhador é resgatado de condição análoga à escravidão após um ano em fazenda de gado no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/trabalhador-e-resgatado-de-condicao-analoga-a-escravidao-apos-um-ano-em-fazenda-de-gado-no-acre.ghtml)_
+
+- **[2026-09-10 10:00 UTC]** MPF no Acre recomenda revisão legal da ayahuasca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/virada-psicodelica/2026/09/mpf-no-acre-recomenda-revisao-legal-da-ayahuasca.shtml)_
+
+- **[2026-09-10 17:42 UTC]** Mais de 100 profissionais devem atuar na segurança da 20ª Parada do Orgulho LGBT+ no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/mais-de-100-profissionais-devem-atuar-na-seguranca-da-20a-parada-do-orgulho-lgbt-no-acre.ghtml)_
+
+- **[2026-09-10 20:48 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta quinta-feira, 10 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-10-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-10 20:40 UTC]** VÍDEO: Indígenas encontram sucuri de mais de 2 metros durante banho em açude no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/video-indigenas-encontram-sucuri-estimada-em-2-metros-em-acude-no-acre.ghtml)_
+
+- **[2026-09-10 19:27 UTC]** Thor Dantas defende fortalecimento do cooperativismo para ampliar produção e exportações do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/10/thor-dantas-defende-fortalecimento-do-cooperativismo-para-ampliar-producao-e-exportacoes-do-acre.ghtml)_
+
+- **[2026-09-10 21:55 UTC]** Nova CNH: Acre aparece entre estados com maiores aumentos de emissão
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/nova-cnh-acre-aparece-entre-estados-com-maiores-aumentos-de-emissao.ghtml)_
+
+- **[2026-09-11 00:10 UTC]** Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta quinta-feira (10)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/10/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quinta-feira-10.ghtml)_
+
+- **[2026-09-10 23:50 UTC]** Atração da Parada LGBT+ no Acre, Gaby Amarantos chama fãs para show: 'A mamãe vai chegar'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/10/atracao-da-parada-lgbt-no-acre-gaby-amarantos-chama-fas-para-show-a-mamae-vai-chegar.ghtml)_
+
+- **[2026-09-10 23:50 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 10 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-10-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-11 11:00 UTC]** Professor do Acre lança livro sobre teatro e saberes da floresta na Bienal do Livro em SP: 'Riqueza cultural'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/professor-do-acre-lanca-livro-sobre-teatro-e-saberes-da-floresta-na-bienal-do-livro-em-sp-riqueza-cultural.ghtml)_
+
+- **[2026-09-11 09:00 UTC]** Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml)_
+
+- **[2026-09-11 12:00 UTC]** Com apoio de até R$ 300 mil, edital abre inscrições para ONGs e coletivos de periferias no Acre; VEJA
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/com-apoio-de-ate-r-300-mil-edital-abre-inscricoes-para-ongs-e-coletivos-de-periferias-no-acre-veja.ghtml)_
+
+- **[2026-09-11 18:17 UTC]** Autor de 'Café com Deus Pai' faz primeiro encontro da nova turnê no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/autor-de-cafe-com-deus-pai-faz-primeiro-encontro-da-nova-turne-no-acre.ghtml)_
+
+- **[2026-09-11 16:30 UTC]** VÍDEO: Comércio que pegou fogo é alvo de invasão e furto após reinauguração em novo ponto no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/video-comercio-que-pegou-fogo-e-alvo-de-invasao-e-furto-apos-reinauguracao-em-novo-ponto-no-acre.ghtml)_
+
+- **[2026-09-11 20:06 UTC]** Caseiro de fazenda atravessa rio de trator durante estiagem intensa no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caseiro-de-fazenda-atravessa-rio-de-trator-durante-estiagem-intensa-no-acre-video.ghtml)_
+
+- **[2026-09-11 23:30 UTC]** Confira o dia de campanha dos candidatos ao governo do Acre nesta sexta-feira (11)
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/11/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-sexta-feira-11.ghtml)_
+
+- **[2026-09-11 23:01 UTC]** VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 11 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-11-de-setembro-de-2026.ghtml)_
+
+- **[2026-09-11 22:40 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 11 de setembro de 2026
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-11-de-setembro-de-2026.ghtml)_
+

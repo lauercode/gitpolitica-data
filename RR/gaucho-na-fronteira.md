@@ -32,3 +32,30 @@
 - **[2026-08-30 09:41 UTC]** Mortes no Nepal e na China chegam a quase 800, e autoridades fazem alertas sobre mudanças climáticas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mortes-no-nepal-e-na-china-chegam-a-quase-800-e-autoridades-fazem-alertas-sobre-mudancas-climaticas.shtml)_
 
+- **[2026-08-30 15:54 UTC]** Servidores do INSS pedem inclusão em MP para receber adicional de fronteira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/servidores-do-inss-pedem-inclusao-em-mp-para-receber-adicional-de-fronteira.shtml)_
+
+- **[2026-08-31 14:13 UTC]** Operação entre Brasil e Peru destrói quatro laboratórios clandestinos de drogas na fronteira do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/operacao-entre-brasil-e-peru-destroi-quatro-laboratorios-clandestinos-de-drogas-na-fronteira-do-amazonas.ghtml)_
+
+- **[2026-08-29 14:41 UTC]** Bois são abandonados sem água e comida na fronteira em Roraima e motorista é multado em R$ 37 mil
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/29/bois-sao-abandonados-sem-agua-e-comida-na-fronteira-em-roraima-e-motorista-e-multado-em-r-37-mil.ghtml)_
+
+- **[2026-09-01 11:47 UTC]** PF mira grupo por transporte clandestino de migrantes na fronteira entre Guiana e Brasil
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/01/pf-mira-grupo-que-atua-no-transporte-clandestino-de-migrantes-na-fronteira-entre-guiana-e-brasil.ghtml)_
+
+- **[2026-09-01 18:19 UTC]** Os minutos que antecederam a avalanche de lama na fronteira entre Nepal e China
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy4zvlyxjl7o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-01 23:59 UTC]** Comissão mista aprova aumento da indenização paga a servidores de fronteira
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301901-comissao-mista-aprova-aumento-da-indenizacao-paga-a-servidores-de-fronteira)_
+
+- **[2026-09-02 19:46 UTC]** Deputados iniciam votações do dia e analisam criação da Universidade Federal da Fronteira Norte; acompanhe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302284-deputados-iniciam-votacoes-do-dia-e-analisam-criacao-da-universidade-federal-da-fronteira-norte-acompanhe)_
+
+- **[2026-09-08 15:40 UTC]** Petecão defende reforço da segurança na fronteira e explica crescimento do patrimônio durante mandatos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/08/petecao-defende-reforco-da-seguranca-na-fronteira-e-explica-crescimento-do-patrimonio-durante-mandatos.ghtml)_
+
+- **[2026-09-11 01:39 UTC]** Amazonas confirma três casos de sarampo em Tabatinga, na fronteira com Peru e Colômbia
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/10/amazonas-confirma-tres-casos-de-sarampo-em-tabatinga-na-fronteira-com-peru-e-colombia.ghtml)_
+

@@ -20,3 +20,42 @@
 - **[2026-08-30 06:08 UTC]** Islândia recusa em plebiscito retomar negociações de adesão à União Europeia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/islandia-recusa-retomar-negociacoes-com-a-uniao-europeia-diz-tv.shtml)_
 
+- **[2018-02-27 09:40 UTC]** Ivete Sangalo confirma participação no Rock In Rio Lisboa em junho
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/musica/noticia/ivete-sangalo-confirma-participacao-no-rock-in-rio-lisboa-em-junho.ghtml)_
+
+- **[2017-06-28 11:44 UTC]** Fórum pede mais participação da agricultura familiar na alimentação escolar.
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/prefeitura-de-cachoeiro-de-itapemirim/festa-de-cachoeiro/noticia/2017/06/forum-pede-mais-participacao-da-agricultura-familiar-na-alimentacao-escolar-.html)_
+
+- **[2026-08-28 16:52 UTC]** 'A gente que gosta do esporte não mede esforços para estar aqui', diz Wesley Safadão sobre participação na Vaquejada de Lagarto
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/28/a-gente-que-gosta-do-esporte-nao-mede-esforcos-para-estar-aqui-diz-wesley-safadao-sobre-participacao-na-vaquejada-de-lagarto.ghtml)_
+
+- **[2026-08-31 23:30 UTC]** Suspeito de participação na morte de jovem torturado e executado com tiros é preso em Parauapebas, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/31/suspeito-de-participacao-na-morte-de-jovem-torturado-e-executado-com-tiros-e-preso-em-parauapebas-no-para.ghtml)_
+
+- **[2026-09-01 18:22 UTC]** Projeto proíbe participação de crianças e adolescentes em atividades esportivas de alto risco
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1300094-projeto-proibe-participacao-de-criancas-e-adolescentes-em-atividades-esportivas-de-alto-risco)_
+
+- **[2026-09-01 19:38 UTC]** Toffoli libera campanha digital de Renan Santos, repasses de recursos e participação em debates
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/01/toffoli-libera-campanha-digital-de-renan-santos.ghtml)_
+
+- **[2026-09-03 19:30 UTC]** Gil do Vigor lê poema de Gregório de Matos em participação em peça no Sesc Belenzinho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gil-do-vigor-le-poema-de-gregorio-de-matos-em-participacao-em-peca-no-sesc-belenzinho.shtml)_
+
+- **[2026-09-07 20:59 UTC]** Suspeitos de torturar jovem que caiu do 14º andar no PR são soltos após laudo descartar participação direta na queda
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/07/suspeitos-soltos-queda-morte-londrina.ghtml)_
+
+- **[2026-09-07 23:59 UTC]** Rock in Rio 2026: 'Sou perna de pau', diz Junno Andrade sobre participação na Dança dos Famosos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-sou-perna-de-pau-diz-junno-andrade-sobre-participacao-na-danca-dos-famosos.shtml)_
+
+- **[2026-09-08 18:07 UTC]** TVs cancelam debates após Lula, Flávio Bolsonaro e Tarcísio não confirmarem participação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tvs-cancelam-debates-apos-lula-flavio-bolsonaro-e-tarcisio-nao-confirmarem-participacao.shtml)_
+
+- **[2026-09-09 16:58 UTC]** Cresol consolida participação estratégica na rede de negócios da Expointer
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/cresol/guia-de-solucoes-financeiras/noticia/2026/09/09/cresol-consolida-participacao-estrategica-na-rede-de-negocios-da-expointer.ghtml)_
+
+- **[2026-09-09 21:06 UTC]** Eleições 2026: Delegado André David e André Moura cancelam participação em entrevista na FM Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-cancelamento-entrevista-fm-sergipe.ghtml)_
+
+- **[2026-09-11 15:41 UTC]** Eleições 2026: Eduardo Amorim e Rogério Carvalho cancelam participação em entrevista na FM Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/candidatos-ao-senado-cancelam-entrevista-fm-sergipe.ghtml)_
+

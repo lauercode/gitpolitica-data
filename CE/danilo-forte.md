@@ -44,3 +44,78 @@
 - **[2026-08-29 23:00 UTC]** Renda do trabalhador se aproxima do salário mínimo em sete estados do Nordeste, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/renda-do-trabalhador-se-aproxima-do-salario-minimo-em-sete-estados-do-nordeste-diz-estudo.shtml)_
 
+- **[2026-08-30 15:34 UTC]** Defesa Civil emite alerta para chuva, raios, vento forte e granizo na Grande São Paulo neste domingo (30)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/defesa-civil-emite-alerta-para-chuva-raios-vento-forte-e-granizo-na-grande-sao-paulo-neste-domingo-30.shtml)_
+
+- **[2017-07-14 18:56 UTC]** Moradores ficam 'ilhados' após chuva forte alagar rua no recôncavo da Bahia; vídeo
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/noticia/rua-alaga-e-moradores-ficam-ilhados-apos-chuva-forte-em-muritiba-na-bahia-video.ghtml)_
+
+- **[2026-08-31 11:30 UTC]** 316 cidades do Paraná têm alerta para chuva forte, granizo e ventos de até 60 km/h; confira quais
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/31/cidades-do-parana-tem-alerta.ghtml)_
+
+- **[2018-07-17 21:17 UTC]** Homem é baleado após tentativa de assalto a carro-forte em Caruaru
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/homem-e-baleado-apos-tentativa-de-assalto-a-carro-forte-em-caruaru.ghtml)_
+
+- **[2026-08-31 11:20 UTC]** VÍDEO: Câmera frontal registra batida forte que matou motorista no Noroeste do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/31/video-camera-frontal-registra-batida-noroeste-rs.ghtml)_
+
+- **[2026-08-28 03:00 UTC]** RS terá mais três dias de chuva forte, granizo e rajadas de vento, aponta previsão; confira
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/28/rs-dias-chuva-forte-granizo-rajadas-vento-aponta-previsao-confira.ghtml)_
+
+- **[2026-08-26 11:32 UTC]** Polícia Civil faz operação em cinco estados contra chefes de quadrilha com forte atuação no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/operacao-policia-civil-faccao-rs-cinco-estados.ghtml)_
+
+- **[2026-08-18 22:37 UTC]** Vídeo: Estrutura metálica é arrastada com vento forte durante chuva em Cujubim, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/18/video-estrutura-metalica-e-arrastada-com-vento-forte-durante-chuva-em-cujubim-ro.ghtml)_
+
+- **[2026-08-31 10:11 UTC]** Cidades de SC voltam a registrar estragos provocados por chuva forte e granizo
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/cidades-estragos-chuva-forte-e-granizo.ghtml)_
+
+- **[2026-09-01 15:30 UTC]** É forte, mas submissa, diz Rayssa Bratillieri sobre Salma, de 'A Nobreza do Amor'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/e-forte-mas-submissa-diz-rayssa-bratillieri-sobre-salma-de-a-nobreza-do-amor.shtml)_
+
+- **[2026-09-02 20:03 UTC]** Probabilidade de o El Niño ser muito forte neste trimestre é de 90%
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/probabilidade-de-o-el-nino-ser-muito-forte-neste-trimestre-e-de-90)_
+
+- **[2026-09-03 08:42 UTC]** ONU prevê El Niño "muito forte" com duração até fevereiro de 2027
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-preve-el-nino-muito-forte-com-duracao-ate-fevereiro-de-2027)_
+
+- **[2026-09-03 22:58 UTC]** Acidente entre carro-forte e veículo de escolta deixa motorista ferido, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/acidente-entre-carro-forte-e-veiculo-de-escolta-deixa-motorista-ferido-em-joao-pessoa.ghtml)_
+
+- **[2026-09-04 10:12 UTC]** Dólar abre em alta com mercado de trabalho forte nos EUA e cenário eleitoral no radar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-alta-com-mercado-de-trabalho-forte-nos-eua-e-cenario-eleitoral-no-radar.shtml)_
+
+- **[2026-09-04 10:12 UTC]** Dólar e Bolsa sobem com mercado de trabalho forte nos EUA e cenário eleitoral no radar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-alta-com-mercado-de-trabalho-forte-nos-eua-e-cenario-eleitoral-no-radar.shtml)_
+
+- **[2026-09-04 10:12 UTC]** Dólar sobe com mercado de trabalho forte nos EUA e cenário eleitoral; Bolsa ronda a estabilidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-alta-com-mercado-de-trabalho-forte-nos-eua-e-cenario-eleitoral-no-radar.shtml)_
+
+- **[2026-09-05 05:00 UTC]** Defesa Civil alerta para chuva forte em São Paulo neste sábado (5)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/defesa-civil-alerta-para-chuva-forte-em-sao-paulo-neste-sabado-5.shtml)_
+
+- **[2026-09-06 22:11 UTC]** João Gordo faz show no Rock in Rio para público esvaziado e sob forte chuva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/joao-gordo-faz-show-no-rock-in-rio-para-publico-esvaziado-e-sob-forte-chuva.shtml)_
+
+- **[2026-09-09 05:00 UTC]** Defesa Civil alerta para chuva forte quarta (9) e quinta (10) em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/defesa-civil-alerta-para-chuva-forte-quarta-9-e-quinta-10-em-sao-paulo.shtml)_
+
+- **[2026-09-10 10:40 UTC]** Chance de El Niño muito forte a partir de setembro sobe para 97%, diz agência dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/chance-de-el-nino-muito-forte-a-partir-de-setembro-sobe-para-97-diz-agencia-dos-eua.shtml)_
+
+- **[2026-09-10 19:17 UTC]** Forte, corajosa, leal: amigos e colegas homenageiam advogada que morreu em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/forte-corajosa-leal-amigos-e-colegas-homenageiam-advogada-que-morreu-em-boa-vista.ghtml)_
+
+- **[2026-09-10 19:15 UTC]** El Niño faz açúcar ter forte alta no mercado interno e externo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/09/el-nino-faz-acucar-ter-forte-alta-no-mercado-interno-e-externo.shtml)_
+
+- **[2026-09-11 05:00 UTC]** Sexta (11) tem previsão de chuva forte e risco de tornado no centro-sul de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sexta-11-tem-previsao-de-chuva-forte-e-risco-de-tornado-no-centro-sul-de-sao-paulo.shtml)_
+
+- **[2026-09-11 15:55 UTC]** Fim de semana na capital paulista terá chuva forte e rajadas de vento
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/fim-de-semana-na-capital-paulista-tera-chuva-forte-e-rajadas-de-vento)_
+
+- **[2026-09-11 15:38 UTC]** Probabilidade do El Niño ser muito forte passa de 90%
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/probabilidade-do-el-nino-ser-muito-forte-passa-de-90)_
+

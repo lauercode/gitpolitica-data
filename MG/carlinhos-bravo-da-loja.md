@@ -8,3 +8,51 @@
 - **[2026-08-29 18:49 UTC]** A pequena cidade escocesa que procura migrantes para estancar a queda da população
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/a-pequena-cidade-escocesa-que-procura-migrantes-para-estancar-a-queda-da-populacao.shtml)_
 
+- **[2026-08-28 17:56 UTC]** Trio armado invade e assalta loja de eletrodomésticos em Macapá; VÍDEO
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/28/trio-armado-invade-e-assalta-loja-de-eletrodomesticos-em-macapa-video.ghtml)_
+
+- **[2017-06-22 16:08 UTC]** Nascer Bem auxilia empreendedora a abrir loja de presentes de sucesso
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/06/nascer-bem-auxilia-empreendedora-abrir-loja-de-presentes-de-sucesso_.html)_
+
+- **[2026-08-28 20:00 UTC]** Funcionário é suspeito de furtar loja onde trabalhava e polícia recupera dinheiro e joias no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/funcionario-e-suspeito-de-furtar-loja-onde-trabalhava-e-policia-recupera-dinheiro-e-joias-no-para.ghtml)_
+
+- **[2026-08-28 19:11 UTC]** VÍDEO: 'onda' de água e lama invade loja e assusta funcionários após adutora romper em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/onda-invade-loja-assusta-funcionarios-adutora-romper-sc.ghtml)_
+
+- **[2026-08-30 00:59 UTC]** Criminosos invadem loja de construção, arrancam bebedouro e causam alagamento no TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/criminosos-invadem-loja-de-construcao-levam-bebedouro-e-causam-alagamentovideo.ghtml)_
+
+- **[2026-09-01 18:08 UTC]** Criminosos invadem sala-cofre e furtam armas de fogo em loja em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/criminosos-invadem-sala-cofre-furtam-armas-fogo-loja-sc.ghtml)_
+
+- **[2026-09-01 20:05 UTC]** Noivas relatam caos e atrasos em loja de vestidos de São Paulo às vésperas de casamentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/noivas-relatam-caos-e-atrasos-em-loja-de-vestidos-de-sao-paulo-as-vesperas-de-casamentos.shtml)_
+
+- **[2026-09-02 17:21 UTC]** Loja de autopeças é atingida por incêndio em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/02/incendio-atinge-loja-de-autopecas-em-boa-vista.ghtml)_
+
+- **[2026-09-04 12:00 UTC]** Eu lido com sonhos, diz vendedora que viralizou ao mostrar trabalho em loja de vestidos de noiva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/eu-lido-com-sonhos-diz-vendedora-que-viralizou-ao-mostrar-trabalho-em-loja-de-vestidos-de-noiva.shtml)_
+
+- **[2026-09-05 21:54 UTC]** VÍDEO: motorista embriagado invade loja de roupas infantis no Paraná, destrói vitrine e foge a pé
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/05/motorista-embriagado-invade-loja.ghtml)_
+
+- **[2026-09-06 14:00 UTC]** Loja de eletrônicos é condenada após vender celular de 256 GB e entregar versão de 128 GB no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/06/loja-eletronicos-condenada-apos-vender-celular-entregar-versao-diferente.ghtml)_
+
+- **[2026-09-07 15:42 UTC]** VÍDEO: Incêndio destrói loja de açaí em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/07/video-incendio-destroi-loja-de-acai-em-porto-velho.ghtml)_
+
+- **[2026-09-09 17:15 UTC]** Apple sobe preços de iPhones após lançamentos e retira três modelos da loja oficial; veja valores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/apple-sobe-precos-de-iphones-apos-lancamentos-e-retira-tres-modelos-da-loja-oficial-veja-valores.shtml)_
+
+- **[2026-09-10 22:22 UTC]** PF diz que produtora de 'Dark Horse' que recebeu emendas de Frias pagou R$ 300 mil a instituto que funcionava em loja de roupas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-diz-que-produtora-de-dark-horse-que-recebeu-emendas-de-frias-pagou-r-300-mil-a-instituto-que-funcionava-em-loja-de-roupas.ghtml)_
+
+- **[2026-09-10 23:00 UTC]** Empresa que intermediou recurso a produtora de 'Dark Horse' funciona em loja de noivas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/empresa-que-intermediou-recurso-a-produtora-de-dark-horse-funciona-em-loja-de-noivas.shtml)_
+
+- **[2026-09-11 13:17 UTC]** Fãs lotam loja oficial do Stray Kids horas antes do show no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/k-cultura/2026/09/fas-lotam-loja-oficial-do-stray-kids-horas-antes-do-show-no-rock-in-rio.shtml)_
+

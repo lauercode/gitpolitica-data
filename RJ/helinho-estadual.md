@@ -20,3 +20,126 @@
 - **[2026-08-27 22:35 UTC]** Quaest no AC: 58% aprovam e 24% desaprovam governo de Mailza Assis
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/27/quaest-no-ac-58percent-aprovam-e-24percent-desaprovam-governo-de-mailza-assis.ghtml)_
 
+- **[2026-08-30 03:00 UTC]** VÍDEO: Qual a diferença entre deputado estadual e federal?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/30/video-a-diferenca-entre-deputado-estadual-e-federal.ghtml)_
+
+- **[2026-08-31 03:01 UTC]** Eleições 2026: O que faz um deputado estadual?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-o-que-faz-um-deputado-estadual.ghtml)_
+
+- **[2026-08-28 17:30 UTC]** Horário eleitoral começa no MA com destaque para apoio de Lula, gestão estadual e Prefeitura de São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/28/horario-eleitoral-gratuito-na-tv-comeca-no-maranhao.ghtml)_
+
+- **[2026-08-31 12:25 UTC]** Jovem morre após colisão de moto com carro em rodovia estadual, no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/jovem-morre-apos-colisao-de-moto-com-carro-em-rodovia-estadual-no-sertao-da-paraiba.ghtml)_
+
+- **[2026-08-31 18:35 UTC]** Filhas de candidato a deputado estadual por SC morrem em acidente de carro no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/filhas-candidato-deputado-estadual-morrem-acidente-carro-parana.ghtml)_
+
+- **[2026-08-26 21:01 UTC]** Professor investigado por suspeita de estupro de vulnerável contra alunas de 8 anos em escola estadual é preso no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/professor-preso-investigado-suspeita-estupro-alunas-escola-estadual-cachoeirinha-rs.ghtml)_
+
+- **[2026-08-26 16:24 UTC]** Professor é investigado por suspeita de estupro de vulnerável contra alunas de 8 anos em escola estadual do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/26/policia-investiga-professor-suspeito-estupro-cachoeirinha.ghtml)_
+
+- **[2026-08-26 13:22 UTC]** Professores da rede estadual iniciam  paralisação de 48 horas em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/26/professores-da-rede-estadual-iniciam-paralisacao-de-48-horas-em-sergipe.ghtml)_
+
+- **[2026-09-01 17:26 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-acre.ghtml)_
+
+- **[2026-09-01 20:00 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-amapa.ghtml)_
+
+- **[2026-09-01 19:56 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-amazonas.ghtml)_
+
+- **[2026-09-01 20:24 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-maranhao.ghtml)_
+
+- **[2026-09-01 20:33 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-para.ghtml)_
+
+- **[2026-09-01 20:35 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-na-paraiba.ghtml)_
+
+- **[2026-09-01 20:40 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Paraná — de J a Z
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-parana-de-j-a-z.ghtml)_
+
+- **[2026-09-01 20:38 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Paraná — de A a J
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-parana-de-a-a-j.ghtml)_
+
+- **[2026-09-01 20:46 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Rio Grande do Norte
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-rio-grande-do-norte.ghtml)_
+
+- **[2026-09-01 20:51 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Rio Grande do Sul — de J a Z
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-rio-grande-do-sul-de-j-a-z.ghtml)_
+
+- **[2026-09-01 20:50 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Rio Grande do Sul — de A a J
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-rio-grande-do-sul-de-a-a-j.ghtml)_
+
+- **[2026-09-01 20:47 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-rondonia.ghtml)_
+
+- **[2026-09-01 20:49 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-roraima.ghtml)_
+
+- **[2026-09-01 20:52 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-santa-catarina.ghtml)_
+
+- **[2026-09-01 20:53 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-sergipe.ghtml)_
+
+- **[2026-09-01 21:20 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-no-tocantins.ghtml)_
+
+- **[2026-09-01 21:32 UTC]** Eleições 2026: veja todos os candidatos a deputado estadual em Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-estadual-em-alagoas.ghtml)_
+
+- **[2026-09-02 07:32 UTC]** TRE-RJ cassa registro da candidatura do deputado estadual Val Ceasa
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tre-rj-cassa-registro-da-candidatura-do-deputado-estadual-val-ceasa)_
+
+- **[2026-09-03 09:01 UTC]** Plano de governo: Du Pereira promete painel público, escritório estadual de projetos e diagnóstico das rodovias
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-du-pereira-promete-painel-publico-escritorio-estadual-de-projetos-e-diagnostico-das-rodovias.ghtml)_
+
+- **[2026-09-03 07:50 UTC]** Eleições: entenda o papel dos deputados federal e estadual
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/eleicoes-entenda-o-papel-dos-deputados-federal-e-estadual)_
+
+- **[2026-09-03 15:05 UTC]** Márcio Jambo promete em sabatina enxugar máquina pública e criar banco estadual em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/noticia/2026/09/03/marcio-jambo-promete-em-sabatina-enxugar-maquina-publica-e-criar-banco-estadual-em-al.ghtml)_
+
+- **[2026-09-03 22:30 UTC]** Araceli Lemos promete rever contrato com concessionária de água e criar nova companhia estadual, se for eleita no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/03/araceli-lemos-promete-rever-contrato-com-concessionaria-de-agua-e-criar-nova-companhia-estadual-se-for-eleita-no-para.ghtml)_
+
+- **[2026-09-06 13:11 UTC]** Extrema direita lidera eleição estadual na Alemanha, aponta boca de urna
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/extrema-direita-lidera-eleicao-estadual-na-alemanha-aponta-boca-de-urna.shtml)_
+
+- **[2026-09-06 13:11 UTC]** Extrema direita vence eleição estadual na Alemanha, mas terá que negociar maioria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/extrema-direita-lidera-eleicao-estadual-na-alemanha-aponta-boca-de-urna.shtml)_
+
+- **[2026-09-07 01:08 UTC]** Direita radical na Alemanha caminha para vitória estadual inédita desde a 2ª Guerra Mundial
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-07 07:04 UTC]** Direita radical na Alemanha tem vitória estadual inédita desde a 2ª Guerra Mundial, mas não consegue maioria para formar governo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-07 07:58 UTC]** Alemanha: partido de extrema direita tem vitória estadual histórica
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/alemanha-partido-de-extrema-direita-tem-vitoria-estadual-historica)_
+
+- **[2026-09-07 22:40 UTC]** Eleições 2026: Fábio diz que vai implantar universidade estadual
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-fabio-diz-que-vai-implantar-universidade-estadual-e-reformar-escolas.ghtml)_
+
+- **[2026-09-08 17:26 UTC]** TRE-RJ veta candidatura de deputado estadual do PT por suspeita de vínculo com o crime organizado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tre-rj-veta-candidatura-de-deputado-estadual-do-pt-por-suspeita-de-vinculo-com-o-crime-organizado.shtml)_
+
+- **[2026-09-09 13:54 UTC]** Renan Filho propõe criar 5 mil casas e pagar até R$ 1 mil para alunos da rede estadual
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/09/renan-filho-propoe-criacao-de-5-mil-casas-e-pagamento-de-ate-r-1-mil-para-alunos-da-rede-estadual.ghtml)_
+
+- **[2026-09-09 12:58 UTC]** Assessor de deputada estadual é alvo de mandado em operação da PF contra crimes eleitorais em RR
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/09/pf-cumpre-mandado-de-busca-e-apreensao-durante-operacao-contra-crimes-eleitorais-em-roraima.ghtml)_
+
+- **[2026-09-11 14:51 UTC]** TRE do Rio veta candidatura de Garotinho ao governo estadual
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tre-do-rio-indefere-candidatura-de-garotinho-ao-governo-estadual.shtml)_
+
+- **[2026-09-11 18:51 UTC]** TRE-PB barra candidatura de Dinho Dowsley a deputado estadual
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/tre-pb-barra-candidatura-de-dinho-dowsley-a-deputado-estadual.ghtml)_
+

@@ -5,3 +5,18 @@
 
 ## Histórico
 
+- **[2026-08-29 15:14 UTC]** Jovem morre após suposto tiro acidental ao manusear arma com namorada em Rosário, no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/29/jovem-morre-apos-suposto-tiro-acidental-ao-manusear-arma-com-namorada-em-rosario-no-ma.ghtml)_
+
+- **[2026-08-26 11:14 UTC]** Operação contra organização criminosa termina com suspeito preso e dois baleados em Rosário
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/26/homem-e-preso-e-dois-sao-baleados-em-operacao-contra-suspeitos-de-organizacao-criminosa-em-rosario.ghtml)_
+
+- **[2026-09-01 12:42 UTC]** Homem é preso suspeito de tentativa de homicídio com golpes de faca em Rosário
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/01/homem-e-preso-suspeito-de-tentativa-de-homicidio-com-golpes-de-faca-em-rosario.ghtml)_
+
+- **[2026-09-02 21:18 UTC]** Cerâmica de Rosário transforma tradição centenária em patrimônio reconhecido nacionalmente
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/vem-ver-pequeno/noticia/2026/09/02/ceramica-de-rosario-transforma-tradicao-centenaria-em-patrimonio-reconhecido-nacionalmente.ghtml)_
+
+- **[2026-09-11 14:42 UTC]** Senai-MA abre 100 vagas para cursos gratuitos em Rosário; veja como se inscrever
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/11/senai-ma-abre-100-vagas-para-cursos-gratuitos-em-rosario-veja-como-se-inscrever.ghtml)_
+

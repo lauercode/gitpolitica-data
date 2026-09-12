@@ -29,3 +29,18 @@
 - **[2026-08-27 12:36 UTC]** Goleiro Vozinha estreia no Colo-Colo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/goleiro-vozinha-estreia-no-colo-colo.shtml)_
 
+- **[2026-09-02 10:00 UTC]** Criamos uma inteligência artificial verde para prever chuvas intensas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2026/09/criamos-uma-inteligencia-artificial-verde-para-prever-chuvas-intensas.shtml)_
+
+- **[2026-09-02 10:00 UTC]** Substâncias presentes em uva, café e chá verde favorecem a microbiota
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/substancias-presentes-em-uva-cafe-e-cha-verde-favorecem-a-microbiota.shtml)_
+
+- **[2026-09-02 16:16 UTC]** Ossada humana é encontrada após queimada em área verde de Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/ossada-humana-e-encontrada-apos-queimada-em-area-verde-de-palmas.ghtml)_
+
+- **[2026-09-03 16:45 UTC]** Governo de SP suspende leilão de área verde de 10 mil m² após protesto de moradores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/governo-de-sp-suspende-leilao-de-area-verde-de-10-mil-m2-apos-protesto-de-moradores.shtml)_
+
+- **[2026-09-04 08:00 UTC]** Legado de Chico Mendes impulsiona empreendedorismo verde no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/legado-de-chico-mendes-impulsiona-empreendedorismo-verde-no-brasil.shtml)_
+

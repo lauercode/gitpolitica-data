@@ -8,3 +8,33 @@
 - **[2026-08-27 06:00 UTC]** Jair Renan Bolsonaro tem desconto de R$ 4.500 no salário por faltar a sessões na Câmara de Balneário Camboriú
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/jair-renan-bolsonaro-tem-desconto-de-r-4500-no-salario-por-faltar-a-sessoes-na-camara-de-balneario-camboriu.shtml)_
 
+- **[2026-08-26 21:45 UTC]** Eleições 2026 em SC: Marcus Sodré se reúne com apoiadores e distribui panfletos em Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-em-sc-marcus-sodre-se-reune-com-apoiadores-balneario-camboriu.ghtml)_
+
+- **[2026-08-30 23:06 UTC]** Homem é morto a tiros em balneário de Palmas na presença da esposa e dos filhos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/30/homem-e-morto-a-tiros-em-balneario-de-palmas-na-presenca-da-esposa-e-dos-filhos.ghtml)_
+
+- **[2026-09-02 12:02 UTC]** Médico é esfaqueado por ex de enfermeira em estacionamento de hospital de Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/medico-esfaqueado-ex-enfermeira-estacionamento-hospital-balneario-camboriu.ghtml)_
+
+- **[2026-09-02 22:05 UTC]** Eleições 2026 em SC: Marcelo Brigadeiro debate com eleitores em Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-em-sc-marcelo-brigadeiro-debate-com-eleitores-em-balneario-camboriu.ghtml)_
+
+- **[2026-09-03 17:21 UTC]** VÍDEO: mulher prende cão em grade de casa e abandona filhote durante caminhada em Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/video-mulher-cao-grade-casa-abandona-filhote-balneario-camboriu.ghtml)_
+
+- **[2026-09-04 09:50 UTC]** Mega-Sena: Aposta de Balneário Camboriú fica a um número de faturar prêmio de R$ 48 milhões
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/04/mega-sena-aposta-balneario-camboriu-quase-vence-premio-milionario.ghtml)_
+
+- **[2026-09-06 16:03 UTC]** Adolescente morre afogado em balneário de Santa Luzia d'Oeste, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/06/adolescente-morre-afogado-em-balneario-de-santa-luzia-doeste-ro.ghtml)_
+
+- **[2026-09-06 17:38 UTC]** VÍDEO: cachorro cai na galeria de macrodrenagem da praia alargada de Balneário Camboriú e resgate mobiliza bombeiros
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/video-cachorro-cai-galeria-macrodrenagem-praia-alargada-balneario-camboriu.ghtml)_
+
+- **[2026-09-08 03:00 UTC]** Morre cachorro que caiu em galeria de macrodrenagem da praia alargada de Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/08/morre-cachorro-caiu-macrodrenagem-praia-balneario-camboriu.ghtml)_
+
+- **[2026-09-08 22:42 UTC]** Eleições 2026 em SC: Jorginho Mello visita feira de construção civil em Balneário Camboriú
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-jorginho-mello-visita-feira-de-construcao-civil-em-balneario-camboriu.ghtml)_
+

@@ -14,3 +14,33 @@
 - **[2026-08-24 19:18 UTC]** Flávio propõe a Tarcísio pacto de um mandato só
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/08/24/flavio-propoe-a-tarcisio-pacto-de-um-mandato-so.ghtml)_
 
+- **[2026-08-27 22:36 UTC]** Quaest para o Senado em SE: Delegado André David, 11%; Rogério Carvalho, 11%; André Moura, 9%; Delegado Alessandro, 8%
+  _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/27/quaest-para-o-senado-em-se-delegado-andre-david-11percent-rogerio-carvalho-11percent-andre-moura-9percent-delegado-alessandro-8percent.ghtml)_
+
+- **[2017-11-10 17:49 UTC]** Aliado de Rogério 157, traficante Cachorrão era ‘cérebro’ da facção, diz delegado
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rio-de-janeiro/noticia/aliado-de-rogerio-157-traficante-cachorrao-era-cerebro-da-faccao-diz-delegado.ghtml)_
+
+- **[2026-08-25 22:34 UTC]** Quaest em RO: Marcos Rogério, 24%; Adailton Fúria, 21%; Expedito Netto, 10%; Hildon Chaves, 10%
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/08/25/quaest-ro-governador-25-de-agosto.ghtml)_
+
+- **[2026-08-21 20:28 UTC]** Rogério Miranda declara R$ 7,4 milhões em bens na disputa ao Senado por Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/21/rogerio-miranda-declara-r-74-milhoes-em-bens-na-disputa-ao-senado-por-roraima.ghtml)_
+
+- **[2026-09-01 13:42 UTC]** Rogério Valença, ex-vocalista da banda Calcinha Preta, morre aos 55 anos
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/01/morre-o-cantor-rogerio-valenca-ex-vocalista-da-calcinha-preta-aos-55-anos.ghtml)_
+
+- **[2026-09-02 11:38 UTC]** Marido de Rogério Valença faz homenagem ao cantor nas redes sociais
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/02/companheiro-de-rogerio-valenca-faz-homenagem-ao-cantor-nas-redes-sociais.ghtml)_
+
+- **[2026-09-02 14:07 UTC]** Rogério Valença, ex-vocalista da banda Calcinha Preta, é sepultado em Garanhuns (PE)
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/02/rogerio-valenca-ex-vocalista-da-banda-calcinha-preta-e-sepultado-em-garanhuns-pe.ghtml)_
+
+- **[2026-09-07 23:46 UTC]** Homem joga ovo em Rogério Marinho durante manifestação em Natal e é conduzido à delegacia
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/07/homem-joga-ovo-em-rogerio-marinho-durante-manifestacao-em-natal-e-e-conduzido-a-delegacia.ghtml)_
+
+- **[2026-09-07 22:07 UTC]** Candidato ao Senado, Rogério Miranda critica classe política de Roraima: 'pessoas fracas'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-rogerio-miranda-critica-classe-politica-de-roraima-pessoas-fracas.ghtml)_
+
+- **[2026-09-11 15:41 UTC]** Eleições 2026: Eduardo Amorim e Rogério Carvalho cancelam participação em entrevista na FM Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/candidatos-ao-senado-cancelam-entrevista-fm-sergipe.ghtml)_
+

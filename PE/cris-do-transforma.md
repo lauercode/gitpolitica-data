@@ -11,3 +11,39 @@
 - **[2026-08-27 15:31 UTC]** Programa da Novo Nordisk vira política pública em Campinas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/programa-da-novo-nordisk-vira-politica-publica-em-campinas.shtml)_
 
+- **[2026-08-31 20:28 UTC]** De migrante a líder comunitária: jornalista venezuelana transforma experiência de recomeço em apoio a famílias no Mauazinho
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/08/31/de-migrante-a-lider-comunitaria-jornalista-venezuelana-transforma-experiencia-de-recomeco-em-apoio-a-familias-no-mauazinho.ghtml)_
+
+- **[2026-08-26 21:33 UTC]** BernoTech: tecnologia para todos transforma a experiência em estética em Cacoal
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/tatty-berno-clinica/noticia/2026/08/26/bernotech-tecnologia-para-todos-transforma-a-experiencia-em-estetica-em-cacoal.ghtml)_
+
+- **[2026-08-29 09:30 UTC]** Cerrado do Tocantins floresce em meio à seca e transforma paisagem de Palmas; entenda
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/29/cerrado-do-tocantins-floresce-em-meio-a-seca-e-transforma-paisagem-de-palmas-entenda.ghtml)_
+
+- **[2026-09-01 20:26 UTC]** Da lavoura à pecuária, cooperado CrediSIS transforma desafios em conquistas
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/credisis/credisis-nos-somos-cooperativa/noticia/2026/09/01/da-lavoura-a-pecuaria-cooperado-credisis-transforma-desafios-em-conquistas.ghtml)_
+
+- **[2026-09-02 21:47 UTC]** Dia C reúne parceiros e transforma cooperação em serviços para a comunidade
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/cooperativa-educacional-de-vilhena-favoo-divulga-novidades-e-programacao-de-2026/noticia/2026/09/02/dia-c-reune-parceiros-e-transforma-cooperacao-em-servicos-para-a-comunidade.ghtml)_
+
+- **[2026-09-07 04:00 UTC]** Rede de acordos transforma Nvidia em banco central da inteligência artificial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/rede-de-acordos-transforma-nvidia-em-banco-central-da-inteligencia-artificial.shtml)_
+
+- **[2026-09-08 19:52 UTC]** Como a comunicação digital transforma a experiência do consumidor
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/amazon-copy/noticia/2026/09/08/como-a-comunicacao-digital-transforma-a-experiencia-do-consumidor.ghtml)_
+
+- **[2026-09-09 18:30 UTC]** Guardião da Constituição, STF transforma sua crise em grande projeto de poder
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/09/guardiao-da-constituicao-stf-transforma-sua-crise-em-grande-projeto-de-poder.shtml)_
+
+- **[2026-09-10 04:00 UTC]** Narcisismo conversacional transforma diálogo em monólogo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/narcisismo-conversacional-transforma-dialogo-em-monologo.shtml)_
+
+- **[2026-09-10 08:00 UTC]** Conectar capitais transforma territórios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/conectar-capitais-transforma-territorios.shtml)_
+
+- **[2026-09-10 07:47 UTC]** Operação mira esquema que transforma celulares roubados em produtos para revenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-mira-esquema-que-transforma-celulares-roubados-em-produtos-para-revenda.shtml)_
+
+- **[2026-09-11 15:42 UTC]** Justiça federal transforma TH Joias e mais cinco em réus por esquema com o CV no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-federal-transforma-th-joias-e-mais-cinco-em-reus-por-esquema-com-o-cv-no-rio.shtml)_
+

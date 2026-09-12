@@ -17,3 +17,21 @@
 - **[2026-08-30 14:02 UTC]** Propostas para frear STF se multiplicam no Congresso, mas travam sob Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/propostas-para-frear-stf-se-multiplicam-no-congresso-mas-travam-sob-alcolumbre/)_
 
+- **[2026-09-01 16:36 UTC]** Festival de Veneza começa com filmes que descortinam tensões do mundo atual
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/festival-de-veneza-comeca-com-filmes-que-descortinam-tensoes-do-mundo-atual.shtml)_
+
+- **[2026-09-03 03:14 UTC]** Vorcaro diz que proposta de delação se resume a pessoas do 'atual governo', sem citar financiamento de 'Dark Horse' e envolvimento com políticos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/03/vorcaro-diz-que-proposta-de-delacao-se-resume-a-pessoas-do-atual-governo-sem-citar-financiamento-de-dark-horse-e-envolvimento-com-politicos.ghtml)_
+
+- **[2026-09-06 15:30 UTC]** Batom vermelho continua atual no trabalho, mas pede ajustes de tom
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/batom-vermelho-continua-atual-no-trabalho-mas-pede-ajustes-de-tom.shtml)_
+
+- **[2026-09-07 23:00 UTC]** Estudiosos deveriam ter previsto a crise democrática atual, diz cientista política americana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/estudiosos-deveriam-ter-previsto-a-crise-democratica-atual-diz-cientista-politica-americana.shtml)_
+
+- **[2026-09-08 12:31 UTC]** Marcelo Queiroga, candidato a senador pela Paraíba, diz ser contra o fim da escala 6x1 e a favor da legislação atual sobre aborto
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/marcelo-queiroga-candidato-a-senador-pela-paraiba-diz-ser-contra-o-fim-da-escala-6x1-a-favor-legislacao-atual-aborto.ghtml)_
+
+- **[2026-09-09 04:00 UTC]** MAM de São Paulo reabre com espaços renovados e comunicação visual atual
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/mam-de-sao-paulo-reabre-com-espacos-renovados-e-comunicacao-visual-atual.shtml)_
+

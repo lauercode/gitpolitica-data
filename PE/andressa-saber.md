@@ -26,3 +26,24 @@
 - **[2026-08-30 04:00 UTC]** Tirar gordura do corpo e colocar no rosto pode rejuvenescer? Veja riscos e benefícios do nanofat
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/tirar-gordura-do-corpo-e-colocar-no-rosto-pode-rejuvenescer-veja-riscos-e-beneficios-do-nanofat.shtml)_
 
+- **[2026-08-31 15:24 UTC]** Brasileiro tem dificuldade em saber seus direitos, aponta pesquisa
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/brasileiro-tem-dificuldade-em-saber-seus-direitos-aponta-pesquisa)_
+
+- **[2017-07-12 18:29 UTC]** Neurologista reforça importância de saber prevenir o AVC e controlar fatores de risco
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/neurologista-reforca-importancia-de-saber-prevenir-o-avc-e-controlar-fatores-de-risco-.html)_
+
+- **[2026-08-31 21:09 UTC]** 'Quase perdi a boca': mulher tem necrose após receber PMMA sem saber em SC; empresária é condenada
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/mulher-necrose-pmma-sem-saber-sc-empresaria-condenada.ghtml)_
+
+- **[2026-08-27 16:14 UTC]** Bancário de SP desaparecido após deixar hostel em Florianópolis: o que se sabe e o que falta saber
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/bancario-de-sp-desaparecido-em-florianopolis-o-que-falta-saber.ghtml)_
+
+- **[2026-09-05 22:00 UTC]** O direito de saber sobre o caso Master antes de votar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-direito-de-saber-sobre-o-caso-master-antes-de-votar.shtml)_
+
+- **[2026-09-10 17:53 UTC]** Tudo o que você precisa saber antes de ir às urnas em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tudo-o-que-voce-precisa-saber-antes-de-ir-as-urnas-em-2026.shtml)_
+
+- **[2026-09-11 07:00 UTC]** Crianças e adolescente furtam carro e dirigem por Florianópolis: o que se sabe e o que falta saber
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/criancas-adolescente-furtam-carro-dirigem-florianopolis-o-que-se-sabe-o-que-falta-saber.ghtml)_
+

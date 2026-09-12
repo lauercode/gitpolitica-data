@@ -8,3 +8,24 @@
 - **[2026-08-27 10:44 UTC]** Consórcio Rota Mogiana assina com governo de SP concessão de rodovias com investimentos de R$ 9,4 bi
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/consorcio-rota-mogiana-assina-com-governo-de-sp-concessao-de-rodovias-com-investimentos-de-r-94-bi.shtml)_
 
+- **[2026-08-31 21:43 UTC]** Programação da Rota Cultural Raízes do Brejo 2026, na PB, é divulgada
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/programacao-da-rota-cultural-raizes-do-brejo-2026-na-pb-e-divulgada.ghtml)_
+
+- **[2026-08-31 23:00 UTC]** Dívida a 82,5% do PIB acende sinal de alerta para correção de rota após as eleições, dizem economistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/divida-a-825-do-pib-acende-sinal-de-alerta-para-correcao-de-rota-apos-as-eleicoes-dizem-economistas.shtml)_
+
+- **[2026-09-02 01:43 UTC]** Câmara aprova criação de rota turística da fé em Cidade Ocidental (GO)
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302015-camara-aprova-criacao-de-rota-turistica-da-fe-em-cidade-ocidental-go)_
+
+- **[2026-09-02 09:17 UTC]** Rota Cultural Caminhos do Frio 2026 chega ao fim com programação em Alagoa Nova a partir desta quarta (2)
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/rota-cultural-caminhos-do-frio-2026-chega-ao-fim-com-programacao-em-alagoa-nova-a-partir-desta-quarta-2.ghtml)_
+
+- **[2026-09-10 03:54 UTC]** Mendonça, Moraes, Dino e Fachin: o STF em rota de colisão - O Assunto #1801
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/10/mendonca-moraes-dino-e-fachin-o-stf-em-rota-de-colisao-o-assunto-1801.ghtml)_
+
+- **[2026-09-10 09:20 UTC]** Rota do celular roubado em SP inclui rua Guaianases, região da 25 de Março e Shopping Mundo Oriental, diz Promotoria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/rota-do-celular-roubado-em-sp-inclui-rua-guaianases-regiao-da-25-de-marco-e-shopping-mundo-oriental-diz-promotoria.shtml)_
+
+- **[2026-09-11 12:13 UTC]** Entenda por que o Tocantins pode entrar na rota do urânio brasileiro
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/entenda-por-que-o-tocantins-pode-entrar-na-rota-do-uranio-brasileiro.ghtml)_
+

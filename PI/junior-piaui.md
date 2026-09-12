@@ -11,3 +11,24 @@
 - **[2026-08-29 23:00 UTC]** Ninguém quer falar de clima, nem o candidato à Presidência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/giovana-madalosso/2026/08/ninguem-quer-falar-de-clima-nem-o-candidato-a-presidencia.shtml)_
 
+- **[2018-07-11 00:02 UTC]** Artesãos do Piauí levam joias de opala, pedra semipreciosa rara, para a Fenearte
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/pernambuco/fenearte/2018/noticia/artesaos-do-piaui-levam-joias-de-opala-pedra-semipreciosa-rara-para-a-fenearte.ghtml)_
+
+- **[2026-09-02 21:48 UTC]** Avô é preso sob suspeita de espancar neta após tentar estuprá-la no Piauí
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/avo-e-preso-sob-suspeita-de-espancar-neta-apos-tentar-estupra-la-no-piaui.shtml)_
+
+- **[2026-09-04 14:00 UTC]** Lula planeja ato de campanha no Piauí e contraria expectativa de Ciro Nogueira por neutralidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-planeja-ato-de-campanha-no-piaui-e-contraria-expectativa-de-ciro-nogueira-por-neutralidade.shtml)_
+
+- **[2026-09-08 13:45 UTC]** Incêndio atinge vegetação da região de Picos, no Piauí
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/incendio-atinge-vegetacao-da-regiao-de-picos-no-piaui)_
+
+- **[2026-09-08 15:36 UTC]** Corpo de criança é encontrado após suposto afogamento no Rio Parnaíba, entre o Piauí e o Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/pi/piaui/noticia/2026/09/08/corpo-encontrado-rio.ghtml)_
+
+- **[2026-09-09 03:00 UTC]** Lula silencia sobre afastamento de Andrei; presidente cumpre agenda no Piauí nesta quarta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-silencia-sobre-afastamento-de-andrei-presidente-cumpre-agenda-no-piaui-nesta-quarta.ghtml)_
+
+- **[2026-09-10 18:22 UTC]** EDP entrega no Piauí seu maior projeto de transmissão no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/edp-entrega-no-piaui-seu-maior-projeto-de-transmissao-no-brasil.shtml)_
+

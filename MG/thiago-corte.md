@@ -20,3 +20,63 @@
 - **[2026-08-30 01:27 UTC]** Augusto Cury defende taxação de 52% sobre bets, corte de ministérios e secretaria de IA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/augusto-cury-defende-taxacao-de-52-sobre-bets-corte-de-ministerios-e-secretaria-de-ia/)_
 
+- **[2026-08-30 16:00 UTC]** O bobo da corte e o freio nos dentes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/08/o-bobo-da-corte-e-o-freio-nos-dentes.shtml)_
+
+- **[2017-08-02 11:19 UTC]** Após vazamento em adutora, corte de água é antecipado na Asa Norte, DF
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/apos-vazamento-em-adutora-corte-de-agua-e-antecipado-na-asa-norte-df.ghtml)_
+
+- **[2026-09-01 13:05 UTC]** Novo pedido de Mendonça explicita guerra no STF e coloca Master no centro da disputa de poder na Corte
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/01/caso-master-stf.ghtml)_
+
+- **[2026-09-01 12:07 UTC]** Candidata ao Senado, Teresa Surita apoia impeachments no STF e diz que Corte 'ultrapassou limites'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/candidata-ao-senado-teresa-surita-apoia-impeachments-no-stf-e-diz-que-corte-ultrapassou-limites.ghtml)_
+
+- **[2026-09-01 22:01 UTC]** Governo do DF aciona STF contra lei federal que pode gerar corte bilionário no Fundo Constitucional
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/09/01/governo-do-df-aciona-stf-e-diz-que-lei-sancionada-por-lula-que-pode-ter-impacto-bilionario-no-fundo-constitucional-entenda.ghtml)_
+
+- **[2026-09-02 12:01 UTC]** Caso Master arrasta Supremo para o centro da crise e expõe impasse sobre resposta da Corte
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/02/caso-master-supremo-crise-resposta.ghtml)_
+
+- **[2026-09-02 20:00 UTC]** Casas Bahia pede proteção contra corte de mais contratos essenciais e cita ameaça de fornecedores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/casas-bahia-pede-protecao-contra-corte-de-mais-contratos-essenciais-e-cita-ameaca-de-fornecedores.shtml)_
+
+- **[2026-09-03 18:27 UTC]** Consórcio suspende obras de restaurante no Trianon após Promotoria questionar corte de árvores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/consorcio-suspende-obras-de-restaurante-no-trianon-apos-promotoria-questionar-corte-de-arvores.shtml)_
+
+- **[2026-09-03 21:20 UTC]** Conselho da Volkswagen aprova reestruturação, confirmando corte de até 100 mil empregos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/conselho-da-volkswagen-aprova-reestruturacao-confirmando-corte-de-ate-100-mil-empregos.shtml)_
+
+- **[2026-09-04 21:51 UTC]** Caiado propõe idade mínima de 60 anos para ministros do Supremo e quarentena para ex-integrantes da Corte
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/04/caiado-propoe-idade-minima-de-60-anos-para-ministros-do-supremo-e-quarentena-para-ex-integrantes-da-corte.ghtml)_
+
+- **[2026-09-07 08:09 UTC]** Jaguar Land Rover anuncia corte de 4.000 empregos nos próximos dois anos para reduzir custos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/jaguar-land-rover-anuncia-corte-de-4000-empregos-nos-proximos-dois-anos-para-reduzir-custos.shtml)_
+
+- **[2026-09-07 23:57 UTC]** Ex-presidentes do STF pedem ação de Fachin e falam em 'mais aguda crise' da corte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ex-presidentes-do-stf-pedem-acao-de-fachin-e-falam-em-mais-aguda-crise-da-corte.shtml)_
+
+- **[2026-09-09 04:03 UTC]** Crise no STF reflete politização da corte e problema estrutural, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/crise-no-stf-reflete-politizacao-da-corte-e-problema-estrutural-dizem-especialistas.shtml)_
+
+- **[2026-09-09 17:09 UTC]** Crise no STF pode antecipar dupla indicada por Bolsonaro no comando da Corte
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-pode-antecipar-dupla-indicada-por-bolsonaro-no-comando-da-corte/)_
+
+- **[2026-09-10 03:00 UTC]** 'Zelar pela integridade da Corte': Fachin envia recados em meio à crise no STF; veja o que pode acontecer
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/zelar-pela-integridade-da-corte-fachin-envia-recados-em-meio-a-crise-no-stf-veja-o-que-pode-acontecer.ghtml)_
+
+- **[2026-09-10 13:19 UTC]** Moraes cancela pronunciamento no STF após crise na Corte
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/moraes-cancela-pronunciamento-no-stf-apos-crise-na-corte)_
+
+- **[2026-09-10 16:34 UTC]** PT defenderá mandato para ministros do STF após crise na corte pressionar campanha de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pt-defendera-mandato-para-ministros-do-stf-apos-crise-na-corte-pressionar-campanha-de-lula.shtml)_
+
+- **[2026-09-10 23:00 UTC]** Observatório do STF cobra de Fachin proteção à corte e critica ministros que querem influenciar eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/observatorio-do-stf-cobra-de-fachin-protecao-a-corte-e-critica-ministros-que-querem-influenciar-eleicao.shtml)_
+
+- **[2026-09-11 12:00 UTC]** Flávio Bolsonaro faz inflexão no discurso sobre STF e fala em proteger corte, mas mantém contradições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-faz-inflexao-no-discurso-sobre-stf-e-fala-em-proteger-corte-mas-mantem-contradicoes.shtml)_
+
+- **[2026-09-11 13:59 UTC]** Deflação do IPCA reforça expectativa de novo corte de juros na próxima reunião do Copom
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/deflacao-do-ipca-reforca-expectativa-de-novo-corte-de-juros-na-proxima-reuniao-do-copom.shtml)_
+

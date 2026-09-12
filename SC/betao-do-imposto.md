@@ -26,3 +26,51 @@
 - **[2026-08-28 10:52 UTC]** Justiça barra imposto de 12% sobre petróleo, mas governo anuncia prorrogação horas depois
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/justica-barra-imposto-de-12-mas-governo-anuncia-prorrogacao-horas-depois/)_
 
+- **[2026-08-31 04:00 UTC]** Não entrou no último lote do Imposto de Renda 2026? Veja o que fazer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/nao-entrou-no-ultimo-lote-do-imposto-de-renda-2026-veja-o-que-fazer.shtml)_
+
+- **[2026-08-28 08:55 UTC]** Wilson Grassi propõe Imposto Único Federal de 2% em plano de governo
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-08/wilson-grassi-propoe-imposto-unico-federal-de-2-em-plano-de-governo)_
+
+- **[2026-08-31 21:24 UTC]** Bebidas alcoólicas, refrigerantes e cigarros: governo inclui 'imposto do pecado' no orçamento de 2027
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/para-taxar-cigarros-bebidas-alcoolicas-e-refrigerantes-governo-inclui-imposto-do-pecado-no-orcamento-de-2027.ghtml)_
+
+- **[2026-08-31 17:35 UTC]** Restituição do Imposto de Renda: Receita libera R$ 18,7 milhões em Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/31/restituicao-do-ir-receita-libera-r-187-milhoes-em-alagoas.ghtml)_
+
+- **[2026-08-26 17:32 UTC]** Imposto de Renda 2026: 4º lote de restituição vai pagar R$ 4,4 milhões no AP; saiba como receber
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/08/26/imposto-de-renda-2026-4o-lote-de-restituicao-vai-pagar-r-44-milhoes-no-ap-saiba-como-receber.ghtml)_
+
+- **[2026-08-24 17:54 UTC]** Imposto de Renda 2026: 4º lote vai liberar R$ 13 milhões em Sergipe; veja como consultar
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/24/imposto-de-renda-2026-4o-lote-vai-liberar-r-13-milhoes-em-sergipe-veja-como-consultar.ghtml)_
+
+- **[2026-08-31 20:50 UTC]** Arrecadação com ‘imposto do pecado’ deve chegar a R$ 41,9 bi em 2027
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-com-imposto-do-pecado-deve-chegar-r-419-bi-em-2027)_
+
+- **[2026-09-01 03:00 UTC]** Orçamento 2027: salário mínimo, previsão de contas no azul, reajuste limitado a servidores e 'imposto do pecado'; veja destaques do projeto
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/01/orcamento-2027-salario-minimo-previsao-de-contas-no-azul-reajuste-limitado-a-servidores-e-imposto-do-pecado-veja-destaques-do-projeto.ghtml)_
+
+- **[2026-09-01 11:05 UTC]** Governo reverte decisão que suspendia imposto de exportação do petróleo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-reverte-decisao-que-suspendia-imposto-de-exportacao-do-petroleo.shtml)_
+
+- **[2026-09-01 15:57 UTC]** Projeto prevê cálculo separado de aposentadoria e salário para o Imposto de Renda
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301311-projeto-preve-calculo-separado-de-aposentadoria-e-salario-para-o-imposto-de-renda)_
+
+- **[2026-09-01 13:13 UTC]** TRF libera imposto de 12% sobre exportação de petróleo
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/trf-libera-imposto-de-12-sobre-exportacao-de-petroleo)_
+
+- **[2026-09-01 18:24 UTC]** Desembargador mantém cobrança de imposto de exportação de petróleo
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/desembargador-mantem-cobranca-de-imposto-de-exportacao-de-petroleo)_
+
+- **[2026-09-02 06:00 UTC]** Famílias poderão concluir inventário em cartório sem pagar imposto sobre herança, diz CNJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/familias-poderao-concluir-inventario-em-cartorio-sem-pagar-imposto-sobre-heranca-diz-cnj.shtml)_
+
+- **[2026-09-02 13:10 UTC]** 'Taxa das blusinhas': comissão analisa relatório para acabar com imposto; Motta convoca sessão para votar MP nesta quarta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/fim-da-taxa-das-blusinhas-comissao-comeca-analise-de-relatorio.ghtml)_
+
+- **[2026-09-03 21:11 UTC]** Taxa das blusinhas: calculadora do g1 mostra quanto você pagaria com ou sem o imposto
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/03/calculadora-do-g1-taxa-das-blusinhas.ghtml)_
+
+- **[2026-09-04 16:11 UTC]** Eleições 2026 no PR: Requião Filho propõe zerar imposto de pequenas e microempresas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-requiao-filho.ghtml)_
+

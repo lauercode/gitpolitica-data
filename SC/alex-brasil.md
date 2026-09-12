@@ -5,3 +5,18 @@
 
 ## Histórico
 
+- **[2026-08-30 08:00 UTC]** O que é e o que faz a WEG, 'fábrica de bilionários' de SC que tem 5 herdeiros como os mais jovens do Brasil
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/30/weg-fabrica-bilionarios-sc-5-herdeiros-mais-jovens-brasil.ghtml)_
+
+- **[2026-08-28 17:24 UTC]** Quem é o ‘Rei do Ovo’, que entrou para o top 10 bilionários do Brasil e vendia picolé na praia em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/quem-e-rei-do-ovo-que-entrou-para-top-10-de-bilionarios-brasil.ghtml)_
+
+- **[2026-08-28 15:44 UTC]** Fábrica fundada em SC produziu bilionária mais jovem do mundo e domina o top 5 de 'super ricos' do Brasil abaixo dos 30 anos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/28/fabrica-de-sc-produziu-bilionaria-mais-jovem-do-mundo.ghtml)_
+
+- **[2026-09-01 08:00 UTC]** Cidade de SC conclui maior alargamento de praias do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/cidade-de-santa-catarina-amplia-88-km-de-praias-e-conclui-maior-obra-de-alargamento-de-orla-no-brasil.shtml)_
+
+- **[2026-09-07 21:26 UTC]** Cuca de 202 metros e 1,6 tonelada feita em SC quebra recorde de maior do Brasil
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/07/cuca-202-metros-tonelada-quebra-recorde-maior-brasil-blumenau.ghtml)_
+

@@ -5,3 +5,75 @@
 
 ## Histórico
 
+- **[2026-08-17 23:12 UTC]** Bombeiros buscam mulher que desapareceu após embarcação virar no Rio São Francisco em Sergipe
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/se/sergipe/noticia/2026/08/17/bombeiros-buscam-mulher-que-desapareceu-apos-embarcacao-virar-no-rio-sao-francisco-em-sergipe.ghtml)_
+
+- **[2017-10-24 18:35 UTC]** Incêndio no Parque Ecológico de Águas Claras, no  DF, mobiliza 36 bombeiros
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/incendio-no-parque-ecologico-de-aguas-claras-no-df-mobiliza-30-bombeiros.ghtml)_
+
+- **[2017-04-02 20:33 UTC]** Bombeiros procuram por pessoa que se afogou em lago de Nerópolis, GO
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/2017/04/bombeiros-procuram-por-pessoa-que-se-afogou-em-lago-de-neropolis-go.html)_
+
+- **[2017-07-21 19:44 UTC]** Bombeiros dão dicas para prevenir incêndios florestais durante tempo seco em MS
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/bombeiros-dao-dicas-para-prevenir-incendios-florestais-durante-tempo-seco-em-ms.ghtml)_
+
+- **[2026-08-28 12:57 UTC]** Bombeiros quebram para-prisas para resgatar motorista após carro capotar em acidente em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/28/bombeiros-quebram-para-prisas-para-resgatar-motorista-apos-acidente-em-belem.ghtml)_
+
+- **[2026-08-24 22:50 UTC]** Adolescente morre afogado enquanto nadava em praia de Palmas, dizem bombeiros
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/24/adolescente-morre-afogado-enquanto-nadava-em-praia-de-palmas-dizem-bombeiros.ghtml)_
+
+- **[2026-09-01 23:39 UTC]** Câmara aprova projeto que facilita acesso à aposentadoria integral por PMs e bombeiros
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/camara-aprova-projeto-que-facilita-acesso-a-aposentadoria-integral-por-pms-e-bombeiros.ghtml)_
+
+- **[2026-09-01 22:01 UTC]** Câmara aprova projeto que reduz tempo de trabalho militar de PMs e bombeiros para aposentadoria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-aprova-projeto-que-reduz-tempo-de-trabalho-militar-de-pms-e-bombeiros-para-aposentadoria.shtml)_
+
+- **[2026-09-02 00:04 UTC]** Comissão aprova aumento de limite anual para admissão de bombeiros no DF
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301785-comissao-aprova-aumento-de-limite-anual-para-admissao-de-bombeiros-no-df)_
+
+- **[2026-09-01 22:58 UTC]** Câmara aprova novas regras para contagem do tempo de serviço por PMs e bombeiros
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1301898-camara-aprova-novas-regras-para-contagem-do-tempo-de-servico-por-pms-e-bombeiros)_
+
+- **[2026-09-02 03:00 UTC]** 'Tentaram retornar, mas condição estava extrema', dizem bombeiros sobre turistas que ficaram 40 horas desaparecidos em cânion no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/02/tentaram-retornar-condicao-extrema-bombeiros-turistas-40-horas-desaparecidos-canion-rs.ghtml)_
+
+- **[2026-09-02 15:18 UTC]** Defeito em ventilador teria provocado incêndio que deixou idoso morto em Patos, diz Corpo de Bombeiros
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/02/defeito-em-ventilador-teria-provocado-incendio-que-deixou-idoso-morto-em-patos-diz-corpo-de-bombeiros.ghtml)_
+
+- **[2026-09-03 00:15 UTC]** VÍDEO: cachorra recebe oxigênio de bombeiros após ser resgatada de incêndio em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/video-cachorra-oxigenio-bombeiros-resgatada-incendio-laguna.ghtml)_
+
+- **[2026-09-03 11:36 UTC]** Incêndio atinge casa em Imperatriz, no MA; bombeiros controlam chamas
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/09/03/incendio-atinge-casa-em-imperatriz-no-ma-bombeiros-controlam-chamas.ghtml)_
+
+- **[2026-09-06 10:00 UTC]** Repórter mergulha com bombeiros e acompanha treinamento em veículos submersos em lago no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/06/reporter-mergulha-com-bombeiros-e-acompanha-treinamento-em-veiculos-submersos-em-lago-no-to.ghtml)_
+
+- **[2026-09-06 17:38 UTC]** VÍDEO: cachorro cai na galeria de macrodrenagem da praia alargada de Balneário Camboriú e resgate mobiliza bombeiros
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/06/video-cachorro-cai-galeria-macrodrenagem-praia-alargada-balneario-camboriu.ghtml)_
+
+- **[2026-09-08 09:00 UTC]** Perícia de incêndio em comércio de Rio Branco deve ser concluída em 30 dias, diz Bombeiros
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/08/pericia-de-incendio-em-comercio-de-rio-branco-deve-ser-concluida-em-30-dias-diz-bombeiro.ghtml)_
+
+- **[2026-09-08 15:13 UTC]** Égua cai em fossa e fica presa por oito horas antes de ser resgatada por bombeiros em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/08/egua-cai-em-fossa-e-fica-presa-por-oito-horas-antes-de-ser-resgatada-por-bombeiros-em-ro.ghtml)_
+
+- **[2026-09-08 18:32 UTC]** Concursos PM e Bombeiros AL reabrem inscrições; veja cronograma
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/08/concursos-pm-e-bombeiros-al-reabrem-inscricoes-veja-cronograma.ghtml)_
+
+- **[2026-09-08 23:29 UTC]** Eleições 2026: Professora Maria do Carmo promete ampliar efetivo de bombeiros para combater queimadas no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-professora-maria-do-carmo-promete-ampliar-efetivo-de-bombeiros-para-combater-queimadas-no-am.ghtml)_
+
+- **[2026-09-09 16:59 UTC]** Corpo encontrado em mata de João Pessoa é de jovem desaparecida, confirmam Bombeiros
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/09/corpo-encontrado-em-mata-de-joao-pessoa-e-de-jovem-desaparecida-diz-corpo-de-bombeiros.ghtml)_
+
+- **[2026-09-09 19:42 UTC]** Árvore cai sobre carrinho de lanches em Macapá; Bombeiros orientam como pedir vistoria
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/09/arvore-cai-sobre-carrinho-de-lanches-em-macapa-bombeiros-orientam-como-pedir-vistoria.ghtml)_
+
+- **[2026-09-10 14:33 UTC]** Bombeiros publicam regras para instalação de carregadores de carros elétricos no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/10/bombeiros-publicam-regras-para-instalacao-de-carregadores-de-carros-eletricos-no-to.ghtml)_
+
+- **[2026-09-11 11:30 UTC]** Restaurante explode em Belém; bombeiros suspeitam de vazamento de gás
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/11/restaurante-explode-em-belem-bombeiros-suspeitam-de-vazamento-de-gas.ghtml)_
+

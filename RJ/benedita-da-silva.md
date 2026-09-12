@@ -11,3 +11,6 @@
 - **[2026-08-29 21:00 UTC]** 'Imaginem se cada um decidir resolver conflitos com violência?', diz leitora sobre casos de linchamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/imaginem-se-cada-um-decidir-resolver-conflitos-com-violencia-diz-leitora-sobre-casos-de-linchamento.shtml)_
 
+- **[2026-09-11 17:27 UTC]** Datafolha: Benedita da Silva (PT) lidera com 18% disputa ao Senado no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-benedita-da-silva-lidera-com-18-disputa-ao-senado-no-rio.shtml)_
+

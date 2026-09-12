@@ -11,3 +11,24 @@
 - **[2026-08-29 06:00 UTC]** Como será o show de Péricles no Rock in Rio, com tributo à black music da Motown
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/como-sera-o-show-de-pericles-no-rock-in-rio-com-tributo-a-black-music-da-motown.shtml)_
 
+- **[2026-08-24 15:57 UTC]** Amigos fazem cortejo de bicicleta em homenagem a ciclista atropelada em RO: 'Deixou um legado', diz amigo
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/amigos-fazem-cortejo-de-bicicleta-em-homenagem-a-ciclista-atropelada-em-ro-deixou-um-legado-diz-amigo.ghtml)_
+
+- **[2026-09-02 17:40 UTC]** O legado de Alexei Bueno, o poeta que fez da literatura sua profissão de fé
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/09/o-legado-de-alexei-bueno-o-poeta-que-fez-da-literatura-sua-profissao-de-fe.shtml)_
+
+- **[2026-09-04 08:00 UTC]** Legado de Chico Mendes impulsiona empreendedorismo verde no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/legado-de-chico-mendes-impulsiona-empreendedorismo-verde-no-brasil.shtml)_
+
+- **[2026-09-07 16:12 UTC]** Mortes: Tinha a curiosidade como método e a ciência como norte e legado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-tinha-a-curiosidade-como-metodo-e-a-ciencia-como-norte-e-legado.shtml)_
+
+- **[2026-09-08 18:34 UTC]** Me Leva Festival Belém: Belo, Pixote e O Legado fazem show no domingo, 13, no Mangueirão
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/08/me-leva-festival-belem-belo-pixote-e-o-legado-fazem-show-no-domingo-13-no-mangueirao.ghtml)_
+
+- **[2026-09-09 08:02 UTC]** 90 anos Rádio Nacional: o legado do Repórter Esso no radiojornalismo
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/90-anos-radio-nacional-o-legado-do-reporter-esso-no-radiojornalismo)_
+
+- **[2026-09-09 16:44 UTC]** Mortes: Antropólogo deixa um legado ao Brasil e aos seus povos originários
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-antropologo-deixa-um-legado-ao-brasil-e-aos-seus-povos-originarios.shtml)_
+

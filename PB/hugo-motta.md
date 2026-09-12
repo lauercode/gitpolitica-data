@@ -23,3 +23,12 @@
 - **[2026-08-26 12:38 UTC]** Presidente da Câmara destaca transparência e pluralidade como pilares da democracia
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1300276-presidente-da-camara-destaca-transparencia-e-pluralidade-como-pilares-da-democracia)_
 
+- **[2026-09-01 01:05 UTC]** Lula sela pacto com Hugo Motta e Alcolumbre para destravar projetos no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-sela-pacto-com-hugo-motta-e-alcolumbre-para-destravar-projetos-no-congresso/)_
+
+- **[2026-09-03 19:40 UTC]** Hugo Motta destaca aumento do poder de compra da população com fim da "taxa das blusinhas"
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302672-hugo-motta-destaca-aumento-do-poder-de-compra-da-populacao-com-fim-da-taxa-das-blusinhas)_
+
+- **[2026-09-07 13:33 UTC]** Desfile de 7 de Setembro em Brasília reúne Lula, Fachin, Alcolumbre e Hugo Motta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/desfile-de-7-de-setembro-em-brasilia-reune-lula-fachin-alcolumbre-e-hugo-motta/)_
+

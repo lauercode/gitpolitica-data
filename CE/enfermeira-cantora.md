@@ -26,3 +26,24 @@
 - **[2026-08-29 20:11 UTC]** Zélia Duncan relembra afastamento de Rita Lee: 'Tristeza que vou levar pra sempre'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/08/zelia-duncan-relembra-afastamento-de-rita-lee-tristeza-que-vou-levar-pra-sempre.shtml)_
 
+- **[2018-07-10 16:28 UTC]** Claudia Leitte lança canção inédita no dia em que completa 38 anos; cantora fez produção musical do novo single
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/musica/noticia/claudia-leitte-lanca-cancao-inedita-no-do-dia-em-que-completa-38-anos-cantora-fez-producao-musical-do-novo-single.ghtml)_
+
+- **[2026-08-21 19:24 UTC]** Cantora Liene Show relata importunação sexual durante apresentação em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/21/cantora-liene-show-relata-importunacao-sexual-durante-apresentacao-em-sergipe.ghtml)_
+
+- **[2026-09-03 15:30 UTC]** Cantora de death metal e miss com alopecia estão no elenco do Miss Mundo 2026 ; veja fotos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/cantora-de-death-metal-e-miss-com-alopecia-estao-no-elenco-do-miss-mundo-2026-veja-fotos.shtml)_
+
+- **[2026-09-05 21:11 UTC]** VÍDEO: Fã de Joelma surpreende em dança no palco e emoldura dinheiro recebido da cantora no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/05/video-fa-de-joelma-surpreende-em-danca-no-palco-e-emoldura-dinheiro-recebido-da-cantora-no-am.ghtml)_
+
+- **[2026-09-07 10:30 UTC]** Cantora Yasmin Santos afirma ter sido vítima de assalto; 'Estouraram o vidro e pegaram o celular'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/cantora-yasmin-santos-afirma-ter-sido-vitima-de-assalto-estouraram-o-vidro-e-pegaram-o-celular.shtml)_
+
+- **[2026-09-08 19:12 UTC]** 'Não nos importamos com cabelo arrumado', diz cantora que registrou chuva em congresso evangélico no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/nao-nos-importamos-com-cabelo-arrumado-diz-cantora-que-registrou-congresso-evangelico-atingido-por-chuva-no-to.ghtml)_
+
+- **[2026-09-08 20:00 UTC]** Malu Galli estreia como cantora em tributo a Luiz Melodia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/malu-galli-estreia-como-cantora-em-tributo-a-luiz-melodia.shtml)_
+

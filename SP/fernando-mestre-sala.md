@@ -14,3 +14,27 @@
 - **[2026-08-30 11:47 UTC]** Laura Dern vai entregar Leão de Ouro a George Clooney no Festival de Cinema de Veneza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/laura-dern-vai-entregar-leao-de-ouro-a-george-clooney-no-festival-de-cinema-de-veneza.shtml)_
 
+- **[2026-08-31 15:00 UTC]** Parceria de 'Sala Verde' retorna com absoluto fracasso cômico em 'Idiotas'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/parceria-de-sala-verde-retorna-com-absoluto-fracasso-comico-em-idiotas.shtml)_
+
+- **[2017-08-10 15:39 UTC]** Conheça histórias de pai e filho que dividem a mesma sala de aula
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/noticia/2017/08/conheca-historias-de-pai-e-filho-que-dividem-mesma-sala-de-aula-3.html)_
+
+- **[2017-10-23 14:12 UTC]** Estudante baleada dentro de sala de aula deixa UTI e segue tratamento na enfermaria de hospital em Goiânia
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/goias/noticia/estudante-baleada-dentro-de-sala-de-aula-deixa-uti-e-segue-tratamento-na-enfermaria-de-hospital-em-goiania.ghtml)_
+
+- **[2026-09-01 18:08 UTC]** Criminosos invadem sala-cofre e furtam armas de fogo em loja em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/01/criminosos-invadem-sala-cofre-furtam-armas-fogo-loja-sc.ghtml)_
+
+- **[2026-09-05 23:51 UTC]** 'Sem peso do ego', Luiza Possi grava disco gospel na Sala São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/evangelicos/2026/09/sem-peso-do-ego-luiza-possi-grava-disco-gospel-na-sala-sao-paulo.shtml)_
+
+- **[2026-09-08 23:00 UTC]** Blue Note abre nova sala para ampliar programação de shows e receber eventos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/09/blue-note-abre-nova-sala-para-ampliar-programacao-de-shows-e-receber-eventos.shtml)_
+
+- **[2026-09-09 17:50 UTC]** FECOIMP 2026 terá primeira Sala Sensorial para ampliar inclusão na feira
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/especial-publicitario/associacao-comercial-industrial-e-servicos-de-imperatriz-fecoimp-2026-aqui-vira-negocio/noticia/2026/09/09/fecoimp-2026-tera-primeira-sala-sensorial-para-ampliar-inclusao-na-feira.ghtml)_
+
+- **[2026-09-11 06:46 UTC]** Sala de Concerto, da Rádio MEC, apresenta ópera Vênus e Adônis
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/sala-de-concerto-da-radio-mec-apresenta-opera-venus-e-adonis)_
+

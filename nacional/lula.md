@@ -947,3 +947,24 @@
 - **[2026-08-29 22:00 UTC]** Nunca me viu? Fotos da lobista expõem mentira de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunca-me-viu-fotos-da-lobista-expoem-mentira-de-lula/)_
 
+- **[2026-08-28 10:00 UTC]** Roberta Luchsinger diz que pediu apoio a Marcola, mas não pagou, e que Lulinha é amigo antes de Lula ser presidente
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/28/roberta-luchsinger-diz-que-pediu-apoio-a-marcola-mas-nao-pagou-e-que-lulinha-e-amigo-antes-de-lula-ser-presidente.ghtml)_
+
+- **[2026-08-27 19:45 UTC]** PEC da 6×1 une interesses eleitorais de Lula e dos presidentes do Congresso
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/pec-da-6x1-une-interesses-eleitorais-de-lula-e-dos-presidentes-do-congresso/)_
+
+- **[2026-09-03 22:39 UTC]** Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-04 23:43 UTC]** TSE autoriza pronunciamento de Lula sobre 7 de setembro; presidente dirá que Brasil 'não é colônia' e defenderá soberania
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/tse-autoriza-pronunciamento-de-lula-sobre-7-de-setembro-presidente-dira-que-brasil-nao-e-colonia-e-defendera-soberania.ghtml)_
+
+- **[2026-09-08 15:54 UTC]** Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-09 03:00 UTC]** Lula silencia sobre afastamento de Andrei; presidente cumpre agenda no Piauí nesta quarta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/lula-silencia-sobre-afastamento-de-andrei-presidente-cumpre-agenda-no-piaui-nesta-quarta.ghtml)_
+
+- **[2026-09-10 15:41 UTC]** Presidente Lula sanciona lei que acaba com "taxa das blusinhas"
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-sanciona-lei-que-acaba-com-taxa-das-blusinhas)_
+

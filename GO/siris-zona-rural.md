@@ -8,3 +8,66 @@
 - **[2026-08-27 03:04 UTC]** Conselheira tutelar trans é encontrada morta em área rural de MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/conselheira-tutelar-trans-e-encontrada-morta-em-area-rural-de-mg.shtml)_
 
+- **[2026-08-28 11:09 UTC]** Criminosos matam produtor rural após fazerem motorista refém e invadirem casa no Sertão de AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/28/criminosos-matam-produtor-rural-apos-fazerem-motorista-refem-e-invadirem-casa-no-sertao-de-al.ghtml)_
+
+- **[2018-07-15 10:17 UTC]** Polícia investiga morte de mulher encontrada em estrada rural de MS com facada na nuca
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/sul-e-leste/noticia/policia-investiga-morte-de-mulher-encontrada-em-estrada-rural-de-ms-com-facada-na-nuca.ghtml)_
+
+- **[2017-08-08 22:21 UTC]** Incêndio atinge fazendas e produtor rural é hospitalizado com queimaduras em MS
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/noticia/incendio-atinge-fazendas-e-produtor-rural-e-hospitalizado-com-queimaduras-em-ms.ghtml)_
+
+- **[2018-07-20 15:53 UTC]** Morador de zona rural pedala 16 km para tratamento de hemodiálise em MG
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/sul-de-minas/noticia/2018/07/20/morador-de-zona-rural-pedala-16-km-para-tratamento-de-hemodialise-em-mg.ghtml)_
+
+- **[2026-08-25 15:22 UTC]** Incêndio atinge duas casas em comunidade quilombola na zona rural de Moju, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/25/incendio-atinge-duas-casas-em-comunidade-quilombola-na-zona-rural-de-moju-no-para.ghtml)_
+
+- **[2018-07-16 20:28 UTC]** Homem morre após cair de asa-delta na zona rural de Riacho das Almas
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/homem-morre-apos-cair-de-asa-delta-na-zona-rural-de-riacho-das-almas.ghtml)_
+
+- **[2026-08-28 15:08 UTC]** Homem é espancado e preso após estuprar e esfaquear adolescente na zona rural de Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/28/homem-e-espancado-e-preso-apos-estuprar-e-esfaquear-adolescente-na-zona-rural-de-boa-vista.ghtml)_
+
+- **[2026-08-25 21:32 UTC]** Ônibus escolar com 10 crianças cai em ribanceira de 10 metros em área rural de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/25/onibus-escolar-criancas-cai-ribanceira-area-rural-sc.ghtml)_
+
+- **[2026-09-01 22:19 UTC]** Soldado Sampaio fala em garantir trafegabilidade para escoamento da produção rural em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/soldado-sampaio-fala-em-garantir-trafegabilidade-para-escoamento-da-producao-rural-em-roraima.ghtml)_
+
+- **[2026-09-02 19:19 UTC]** Homem é morto a tiros na zona rural de São Francisco do Guaporé, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/02/homem-e-morto-a-tiros-na-zona-rural-de-sao-francisco-do-guapore-ro.ghtml)_
+
+- **[2026-09-03 14:10 UTC]** Alambique roubado de engenho é encontrado dentro de carro abandonado na zona rural de Ceará-Mirim
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/alambique-roubado-de-engenho-e-encontrado-dentro-de-carro-abandonado-na-zona-rural-de-ceara-mirim.ghtml)_
+
+- **[2026-09-03 21:56 UTC]** Senado aprova novas regras para seguro rural
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/senado-aprova-novas-regras-para-seguro-rural.shtml)_
+
+- **[2026-09-04 19:15 UTC]** Cícero Lucena defende assistência rural para famílias da agricultura familiar na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/04/cicero-lucena-defende-assistencia-rural-para-familias-da-agricultura-familiar-na-paraiba.ghtml)_
+
+- **[2026-09-07 11:26 UTC]** Irmãos são encontrados mortos a tiros ao lado de moto na zona rural de Aldeias Altas
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/07/dois-irmaos-sao-encontrados-mortos-a-tiros-ao-lado-de-moto-na-zona-rural-de-aldeias-altas.ghtml)_
+
+- **[2026-09-08 11:17 UTC]** Jovem morre após acidente de moto na zona rural de Presidente Dutra
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/jovem-morre-apos-acidente-de-moto-na-zona-rural-de-presidente-dutra.ghtml)_
+
+- **[2026-09-09 10:22 UTC]** Vítima e suspeito morrem após tentativa de roubo de espingarda na zona rural de Aldeias Altas
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/09/vitima-e-suspeito-morrem-apos-tentativa-de-roubo-de-espingarda-na-zona-rural-de-aldeias-altas.ghtml)_
+
+- **[2026-09-09 23:11 UTC]** Polícia investiga legítima defesa em morte de homem na zona rural de município do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/09/policia-investiga-legitima-defesa-em-morte-de-homem-na-zona-rural-de-municipio-do-acre.ghtml)_
+
+- **[2026-09-10 15:03 UTC]** Com apoio da prefeitura, colheita de milho inicia na zona rural de Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/prefeitura-de-boa-vista/boa-vista-a-capital-modelo-da-amazonia/noticia/2026/09/10/com-apoio-da-prefeitura-colheita-de-milho-inicia-na-zona-rural-de-boa-vista.ghtml)_
+
+- **[2026-09-10 16:52 UTC]** Homem é preso em flagrante suspeito de provocar incêndio em área rural de Porto Grande, no AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/10/homem-e-preso-em-flagrante-suspeito-de-provocar-incendio-em-area-rural-de-porto-grande-no-ap.ghtml)_
+
+- **[2026-09-10 16:52 UTC]** Pai e filho são baleados dentro de casa na zona rural de Buriti
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/10/pai-e-filho-sao-baleados-dentro-de-casa-na-zona-rural-de-buriti.ghtml)_
+
+- **[2026-09-10 19:38 UTC]** Queda de avião mata três pessoas em área rural de Mato Grosso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/queda-de-aviao-mata-tres-pessoas-em-area-rural-de-mato-grosso.shtml)_
+

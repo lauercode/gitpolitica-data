@@ -23,3 +23,24 @@
 - **[2026-08-29 15:35 UTC]** Candidato pela 4ª vez pelo PCO, Rui Costa Pimenta defende armar população e dissolver PM
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidato-pela-4a-vez-pelo-pco-rui-costa-pimenta-defende-armar-populacao-e-dissolver-pm.shtml)_
 
+- **[2026-08-25 18:47 UTC]** Curso gratuito de Libras promove inclusão e acessibilidade em Pimenta Bueno
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/08/25/curso-gratuito-de-libras-promove-inclusao-e-acessibilidade-em-pimenta-bueno.ghtml)_
+
+- **[2026-09-04 00:12 UTC]** Guarda Municipal usa spray de pimenta contra mulher durante blitz em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/03/guarda-municipal-usa-spray-de-pimenta-contra-mulher-durante-blitz-em-belem.ghtml)_
+
+- **[2026-09-04 10:00 UTC]** Paula Pimenta quer atrair jovens com série do universo de 'Fazendo Meu Filme'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/paula-pimenta-quer-atrair-jovens-com-serie-do-universo-de-fazendo-meu-filme.shtml)_
+
+- **[2026-09-04 19:42 UTC]** Mulher morre após batida frontal entre motocicleta e carro na BR-364 em Pimenta Bueno, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/04/mulher-morre-apos-batida-frontal-entre-motocicleta-e-carro-na-br-364-em-pimenta-bueno-ro.ghtml)_
+
+- **[2026-09-05 05:00 UTC]** Calor extremo ameaça a capital da pimenta do Paquistão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/calor-extremo-ameaca-a-capital-da-pimenta-do-paquistao.shtml)_
+
+- **[2026-09-06 19:06 UTC]** VÍDEO: Confusão entre PM e apoiadores termina com spray de pimenta e xingamentos em delegacia no PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/06/video-confusao-entre-pm-e-apoiadores-termina-com-spray-de-pimenta-e-xingamentos-em-delegacia-no-pa.ghtml)_
+
+- **[2026-09-06 19:06 UTC]** VÍDEO: Confusão entre PM e apoiadores de Dr. Daniel termina com spray de pimenta e xingamentos na delegacia no PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/06/video-confusao-entre-pm-e-apoiadores-termina-com-spray-de-pimenta-e-xingamentos-em-delegacia-no-pa.ghtml)_
+

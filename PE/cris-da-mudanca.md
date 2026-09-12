@@ -32,3 +32,69 @@
 - **[2026-08-29 18:55 UTC]** Michelle Obama diz não sentir falta das filhas após saída de casa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/michelle-obama-diz-nao-sentir-falta-das-filhas-apos-saida-de-casa.shtml)_
 
+- **[2026-08-31 17:05 UTC]** Bancos e seguradoras se preparam para maior mudança na previdência alemã em 20 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/bancos-e-seguradoras-se-preparam-para-maior-mudanca-na-previdencia-alema-em-20-anos.shtml)_
+
+- **[2026-08-31 20:32 UTC]** Renan Calheiros critica JHC e defende mudança no Bolsa Família em primeira sabatina
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/31/renan-calheiros-critica-jhc-e-defende-mudanca-no-bolsa-familia-em-primeira-sabatina.ghtml)_
+
+- **[2026-08-28 20:34 UTC]** Renan Filho aposta em ‘fazer história de novo’ e JHC fala em mudança no primeiro guia eleitoral em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-aposta-em-fazer-historia-de-novo-e-jhc-fala-em-mudanca-no-primeiro-guia-eleitoral-em-al.ghtml)_
+
+- **[2026-08-29 00:55 UTC]** Mudança, trajetória e promessas: como foi 1° dia de propaganda eleitoral na TV dos candidatos ao governo do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/28/mudanca-trajetoria-e-promessas-como-foi-1-dia-de-propaganda-eleitoral-na-tv-dos-candidatos-ao-governo-do-am.ghtml)_
+
+- **[2017-06-13 16:08 UTC]** Mudança faz Escolas Parques funcionarem no improviso, denuncia conselho
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/mudanca-faz-escolas-parques-funcionarem-no-improviso-denuncia-conselho.ghtml)_
+
+- **[2026-08-31 12:03 UTC]** Veneziano, candidato ao Senado pela Paraíba, defende mudança da escala 6x1 e fala em transparência de emendas impositivas
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/31/veneziano-candidato-senado-paraiba-mudanca-escala-6x1-transparencia-emendas-impositivas.ghtml)_
+
+- **[2026-09-02 01:53 UTC]** Câmara aprova mudança em cargos na Justiça do Trabalho de Goiás
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302021-camara-aprova-mudanca-em-cargos-na-justica-do-trabalho-de-goias)_
+
+- **[2026-09-02 14:29 UTC]** SBT faz nova mudança após saída do diretor de jornalismo no Rio de Janeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-faz-nova-mudanca-apos-saida-do-diretor-de-jornalismo-no-rio-de-janeiro.shtml)_
+
+- **[2026-09-02 17:10 UTC]** Lenilda Luna defende em sabatina desmilitarização da PM e mudança na formação de policiais em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/lenilda-luna-defende-em-sabatina-desmilitarizacao-da-pm-e-mudanca-na-formacao-de-policiais-em-al.ghtml)_
+
+- **[2026-09-03 17:00 UTC]** Ministério Público tenta barrar 974 candidatos pelo país, e mudança na ficha limpa amplia incerteza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ministerio-publico-tenta-barrar-974-candidatos-pelo-pais-e-mudanca-na-ficha-limpa-amplia-incerteza.shtml)_
+
+- **[2026-09-03 21:22 UTC]** Eleições 2026 no PR: Sandro Alex fala sobre preparar o estado para mudança de ICMS para IBS, aprovada na reforma tributária
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-no-pr-agenda-sandro-alex-3-setembro.ghtml)_
+
+- **[2026-09-03 23:12 UTC]** Globo demite três executivos após erros da Copa, na maior mudança da década em sua direção
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/gglobo-demite-tres-executivos-apos-erros-da-copa-na-maior-mudanca-da-decada-em-sua-direcao.shtml)_
+
+- **[2026-09-04 10:29 UTC]** STF fixa R$ 5 mil como parâmetro para Justiça gratuita; entenda a mudança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-fixa-5-mil-como-parametro-para-justica-gratuita-entenda-a-mudanca/)_
+
+- **[2026-09-07 10:17 UTC]** Combater poluição e mudança climática pode elevar PIB global em 2,8% até 2035, diz ONU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/combater-poluicao-e-mudanca-climatica-pode-elevar-pib-global-em-28-ate-2035-diz-onu.shtml)_
+
+- **[2026-09-07 16:58 UTC]** Flávio Bolsonaro chama 8 de janeiro de farsa, diz que STF não é Alexandre de Moraes e que 'povo quer mudança' em ato na Paulista
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/flavio-bolsonaro-avenida-paulista.ghtml)_
+
+- **[2026-09-08 21:33 UTC]** Mendonça manda soltar suspeitos de desvios no INSS em meio a discussões sobre mudança de relator no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/mendonca-manda-soltar-suspeitos-de-desvios-no-inss-em-meio-a-discussoes-sobre-mudanca-de-relator-no-stf.shtml)_
+
+- **[2026-09-09 16:29 UTC]** Alan Rick promete mudança no governo e diz que saúde será prioridade se eleito
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/alan-rick-promete-mudanca-no-governo-e-diz-que-saude-sera-prioridade-se-eleito.ghtml)_
+
+- **[2026-09-10 04:15 UTC]** Corregedoria de SP investiga mudança em morte ligada a seguro de R$ 85 mi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corregedoria-de-sp-investiga-mudanca-em-morte-ligada-a-seguro-de-r-85-mi.shtml)_
+
+- **[2026-09-10 15:00 UTC]** Canetas para emagrecer exigem mudança de hábitos para manter efeito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/canetas-para-emagrecer-exigem-mudanca-de-habitos-para-manter-efeito.shtml)_
+
+- **[2026-09-10 23:00 UTC]** Cheiro de Nova York, 25 anos após o 11 de Setembro, é o da mudança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/cheiro-de-nova-york-25-anos-apos-o-11-de-setembro-e-o-da-mudanca.shtml)_
+
+- **[2026-09-11 13:41 UTC]** Vorcaro acionou ex-diretor do BC, seu 'anjo na vida', contra mudança em fundo de pensão, mostra PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/vorcaro-acionou-ex-diretor-do-bc-seu-anjo-na-vida-contra-mudanca-em-fundo-de-pensao-mostra-pf.shtml)_
+
+- **[2026-09-11 17:57 UTC]** Desconfianças em série levaram comitê a trocar escritório do caso Mariana, mudança que vai à Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/desconfiancas-em-serie-levaram-comite-a-trocar-escritorio-do-caso-mariana-mudanca-que-vai-a-justica.shtml)_
+

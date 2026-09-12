@@ -8,3 +8,42 @@
 - **[2026-08-24 20:32 UTC]** Quaest: Renan Filho tem 42% contra 40% de JHC em Alagoas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/quaest-renan-filho-tem-42-contra-40-de-jhc-em-alagoas.shtml)_
 
+- **[2026-08-28 22:37 UTC]** Renan Filho destaca obras de infraestrutura, saúde e educação durante agenda em Arapiraca
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-destaca-obras-de-infraestrutura-saude-e-educacao-durante-agenda-em-arapiraca.ghtml)_
+
+- **[2026-08-28 20:34 UTC]** Renan Filho aposta em ‘fazer história de novo’ e JHC fala em mudança no primeiro guia eleitoral em AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/28/renan-filho-aposta-em-fazer-historia-de-novo-e-jhc-fala-em-mudanca-no-primeiro-guia-eleitoral-em-al.ghtml)_
+
+- **[2026-08-26 20:40 UTC]** Agenda em AL: Renan Filho faz adesivaço e JHC visita hospital
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/26/agenda-em-al-renan-filho-faz-adesivaco-e-jhc-visita-hospital.ghtml)_
+
+- **[2026-08-25 23:09 UTC]** Entrevistas, comício e caminhada: veja a agenda de Renan Filho nesta terça-feira
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/25/entrevistas-comicio-e-caminhada-veja-a-agenda-de-renan-filho-nesta-terca-feira.ghtml)_
+
+- **[2026-08-24 22:26 UTC]** Quaest em AL: Renan Filho tem 42%; e JHC, 40%
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/24/quaest-al-governador-24-agosto.ghtml)_
+
+- **[2026-08-24 19:33 UTC]** Eleições 2026: veja as propostas de Renan Filho ao governo de Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-veja-as-propostas-de-renan-filho-ao-governo-de-alagoas.ghtml)_
+
+- **[2026-08-20 20:29 UTC]** Primeiras doações: JHC recebe R$ 200 mil do sogro e Renan Filho doa R$ 100 mil à própria campanha
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/20/primeiras-doacoes-jhc-recebe-r-200-mil-do-sogro-e-renan-filho-coloca-r-100-mil-na-propria-campanha.ghtml)_
+
+- **[2026-08-17 19:27 UTC]** JHC, Renan Filho, Alfredo Gaspar: entenda as reviravoltas nas chapas em Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/17/jhc-renan-filho-alfredo-gaspar-entenda-as-reviravoltas-nas-chapas-em-alagoas.ghtml)_
+
+- **[2026-08-16 17:18 UTC]** Eleições 2026: veja a agenda de Renan Filho neste domingo (16)
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/16/eleicoes-2026-veja-a-agenda-de-renan-filho-neste-domingo-16.ghtml)_
+
+- **[2026-08-31 23:02 UTC]** Eleições 2026 em AL: Renan Filho se reúne com representantes do turismo e prefeitos
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-em-al-renan-filho-se-reune-com-representantes-do-turismo-e-prefeitos.ghtml)_
+
+- **[2026-09-04 14:28 UTC]** Renan Filho promete em sabatina 80 Clínicas da Família e novos hospitais em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/04/renan-filho-promete-em-sabatina-construir-80-clinicas-da-familia-e-novos-hospitais-em-maceio.ghtml)_
+
+- **[2026-09-09 13:54 UTC]** Renan Filho propõe criar 5 mil casas e pagar até R$ 1 mil para alunos da rede estadual
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/09/renan-filho-propoe-criacao-de-5-mil-casas-e-pagamento-de-ate-r-1-mil-para-alunos-da-rede-estadual.ghtml)_
+
+- **[2026-09-11 22:05 UTC]** Renan Filho faz campanha no Litoral Sul; JHC não divulga agenda nesta sexta
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/11/renan-filho-faz-campanha-no-litoral-sul-jhc-nao-divulga-agenda-nesta-sexta.ghtml)_
+

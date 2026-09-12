@@ -14,3 +14,18 @@
 - **[2026-08-30 11:47 UTC]** Laura Dern vai entregar Leão de Ouro a George Clooney no Festival de Cinema de Veneza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/laura-dern-vai-entregar-leao-de-ouro-a-george-clooney-no-festival-de-cinema-de-veneza.shtml)_
 
+- **[2026-09-02 15:40 UTC]** Festival de Cinema de Veneza começa hoje; Brasil disputa Leão de Ouro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/festival-de-cinema-de-veneza-comeca-hoje-brasil-disputa-leao-de-ouro)_
+
+- **[2026-09-02 18:14 UTC]** George Clooney recebe Leão de Ouro e critica autoritarismo político hoje
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/george-clooney-recebe-leao-de-ouro-e-critica-autoritarismo-politico-hoje.shtml)_
+
+- **[2026-09-08 16:09 UTC]** Novo bispo de Porto Nacional é escolhido pelo papa Leão XIV; veja quem é
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/novo-bispo-de-porto-nacional-e-escolhido-pelo-papa-leao-xiv-veja-quem-e.ghtml)_
+
+- **[2026-09-11 05:00 UTC]** Mico-leão-da-cara-preta é vacinado contra febre amarela em iniciativa inédita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/mico-leao-da-cara-preta-e-vacinado-contra-febre-amarela-em-iniciativa-inedita.shtml)_
+
+- **[2026-09-11 15:12 UTC]** Filme brasileiro 'London' vence o prêmio Leão Queer no Festival de Veneza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/filme-brasileiro-london-vence-o-premio-leao-queer-no-festival-de-veneza.shtml)_
+

@@ -11,3 +11,15 @@
 - **[2026-08-24 17:37 UTC]** Erika Hilton ataca Renan depois de ser chamada de “mulher muito grande”: “Fome de carguinho”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/erika-hilton-defende-escala-6x1-depois-de-ser-chamada-de-mulher-grande-por-renan-fome-de-carguinho/)_
 
+- **[2026-09-01 19:00 UTC]** Erika Hilton pede investigação contra PL por manobra de R$ 31 milhões de fundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/erika-hilton-pede-investigacao-contra-pl-por-manobra-de-r-31-milhoes-de-fundo.shtml)_
+
+- **[2026-09-02 12:40 UTC]** Justiça manda PL informar se pagou Bolsonaro após prisão em ação de Erika Hilton
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-manda-pl-informar-se-pagou-bolsonaro-apos-prisao-de-erika-hilton/)_
+
+- **[2026-09-03 14:15 UTC]** Erika Hilton entra na Justiça contra Ratinho pela segunda vez por transfobia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/erika-hilton-entra-na-justica-contra-ratinho-pela-segunda-vez-por-transfobia.shtml)_
+
+- **[2026-09-07 18:46 UTC]** Candidato ao Senado, Hilton Xavier defende regularização da produção: 'beneficiar sociedade'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-hilton-xavier-defende-regularizacao-da-producao-beneficiar-sociedade.ghtml)_
+

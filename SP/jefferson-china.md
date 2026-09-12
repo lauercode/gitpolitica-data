@@ -38,3 +38,57 @@
 - **[2026-08-30 09:00 UTC]** Missão chinesa Chang'e-7 ao polo lunar fica para 2027
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mensageiro-sideral/2026/08/missao-chinesa-change-7-ao-polo-lunar-fica-para-2027.shtml)_
 
+- **[2026-08-31 02:56 UTC]** Mortes no Nepal e China sobem para 919; 4.793 estão desaparecidos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/mortes-no-nepal-e-china-sobem-para-919-4793-estao-desaparecidos.shtml)_
+
+- **[2026-08-31 15:16 UTC]** Novo CEO da Apple, John Ternus terá de lidar com IA e relação com a China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/novo-ceo-da-apple-john-ternus-tera-de-lidar-com-ia-e-relacao-com-a-china.shtml)_
+
+- **[2026-09-01 06:29 UTC]** Avalanche entre Nepal e China deixou mais de 1.000 mortos; número de desaparecidos ultrapassa 4.000
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/avalanche-entre-nepal-e-china-deixou-mais-de-1000-mortos-numero-de-desaparecidos-ultrapassa-4000.shtml)_
+
+- **[2026-09-01 18:19 UTC]** Os minutos que antecederam a avalanche de lama na fronteira entre Nepal e China
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy4zvlyxjl7o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-01 17:14 UTC]** Geração de energia solar ultrapassa carvão em capacidade instalada na China pela 1ª vez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/geracao-de-energia-solar-ultrapassa-carvao-em-capacidade-instalada-na-china-pela-1a-vez.shtml)_
+
+- **[2026-09-01 16:41 UTC]** Acordo de petróleo com Venezuela dá aos EUA segurança energética e reduz espaço de China e Rússia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acordo-de-petroleo-com-venezuela-da-aos-eua-seguranca-energetica-e-reduz-espaco-de-china-e-russia.shtml)_
+
+- **[2026-09-01 15:44 UTC]** China prepara cúpula entre Xi, Trump e Putin, diz Rússia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/china-prepara-cupula-entre-xi-trump-e-putin-diz-russia.shtml)_
+
+- **[2026-09-04 13:36 UTC]** Ação de Trump sobre petróleo venezuelano ameaça dívida bilionária com a China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acao-de-trump-sobre-petroleo-venezuelano-ameaca-divida-bilionaria-com-a-china.shtml)_
+
+- **[2026-09-04 11:20 UTC]** China será concorrente do Brasil no mercado mundial de frango, diz Rabobank
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/china-sera-concorrente-do-brasil-no-mercado-mundial-de-frango-diz-rabobank.shtml)_
+
+- **[2026-09-04 15:59 UTC]** Exportação brasileira de carne bovina perde força em agosto com redução de vendas à China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/exportacao-brasileira-de-carne-bovina-perde-forca-em-agosto-com-reducao-de-vendas-a-china.shtml)_
+
+- **[2026-09-04 23:00 UTC]** China começa a regular atendimento ao consumidor feito por IA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/09/china-comeca-a-regular-atendimento-ao-consumidor-feito-por-ia.shtml)_
+
+- **[2026-09-06 01:16 UTC]** Piloto resgata colega de carro em chamas após acidente em prova no China GT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/piloto-resgata-colega-de-carro-em-chamas-apos-acidente-em-prova-no-china-gt.shtml)_
+
+- **[2026-09-07 06:00 UTC]** China se esforça para promover robôs humanoides, mas demanda real ainda é pequena
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/china-se-esforca-para-promover-robos-humanoides-mas-demanda-real-ainda-e-pequena.shtml)_
+
+- **[2026-09-09 14:00 UTC]** Brasil vê China como potencial compradora de créditos de carbono
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/brasil-ve-china-como-potencial-compradora-de-creditos-de-carbono.shtml)_
+
+- **[2026-09-09 13:02 UTC]** Tour de Rubio reforça ofensiva dos EUA contra a China na América Latina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/tour-de-rubio-reforca-ofensiva-dos-eua-contra-a-china-na-america-latina.shtml)_
+
+- **[2026-09-10 10:53 UTC]** China acelera internacionalização do yuan e amplia liquidez fora do país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/china-acelera-internacionalizacao-do-yuan-e-amplia-liquidez-fora-do-pais.shtml)_
+
+- **[2026-09-10 18:21 UTC]** Incêndio em navio deixa 25 mortos no China
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/incendio-em-navio-deixa-25-mortos-no-china)_
+
+- **[2026-09-11 04:00 UTC]** Tarifas não conterão China, que tem como impulso concorrência interna acirrada, diz economista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/tarifas-nao-conterao-china-que-tem-como-impulso-concorrencia-interna-acirrada-diz-economista.shtml)_
+

@@ -53,3 +53,222 @@
 - **[2026-08-30 13:55 UTC]** Petróleo da Venezuela será usado para reabastecer reservas dos EUA, diz Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/petroleo-da-venezuela-sera-usado-para-reabastecer-reservas-dos-eua-diz-trump.shtml)_
 
+- **[2026-08-30 23:00 UTC]** Governo Lula retoma negociação com Trump e teme que tarifaço se torne permanente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/governo-lula-retoma-negociacao-com-trump-e-teme-que-tarifaco-se-torne-permanente.shtml)_
+
+- **[2026-08-31 11:05 UTC]** Após conversa entre Lula e Trump, Brasil e EUA iniciam nesta segunda nova fase de negociações sobre o tarifaço
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/08/31/apos-conversa-de-lula-e-trump-representantes-de-brasil-e-eua-iniciam-nova-fase-de-negociacoes-do-tarifaco.ghtml)_
+
+- **[2026-08-31 10:06 UTC]** Trump recebe banqueiro André Esteves nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/trump-recebe-banqueiro-andre-esteves-nos-eua.shtml)_
+
+- **[2026-08-31 10:00 UTC]** Como é a PokémonXP, feira que mistura euforia, filas e escapismo na era Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/como-e-a-pokemonxp-feira-que-mistura-euforia-filas-e-escapismo-na-era-trump.shtml)_
+
+- **[2026-08-31 06:43 UTC]** Trump publica vídeo de IA com ataque à ilha de Kharg; Irã nega e chama publicação de 'risível'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/trump-publica-video-de-ia-sobre-ataque-a-ilha-de-kharg-ira-nega-e-chama-publicacao-de-risivel.shtml)_
+
+- **[2026-08-31 08:53 UTC]** Por que acordo de Trump para assumir 'controle' do petróleo da Venezuela está sendo criticado
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz0zl3ng740o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-08-31 15:11 UTC]** Kalshi multa e bane George Santos por apostar na própria ausência em discurso de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/kalshi-multa-e-bane-george-santos-por-aposta-em-discurso-de-trump.shtml)_
+
+- **[2026-08-31 14:52 UTC]** Carne bovina americana terá preferência em prisões, hospitais e escolas; veja medidas do pacote de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/carne-bovina-americana-tera-preferencia-em-prisoes-hospitais-e-escolas-veja-medidas-do-pacote-de-trump.shtml)_
+
+- **[2026-08-31 18:25 UTC]** Suprema Corte libera construção de salão de festas de Trump na Casa Branca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/suprema-corte-libera-construcao-de-salao-de-festas-de-trump-na-casa-branca.shtml)_
+
+- **[2026-08-31 18:06 UTC]** Negociação está em novo cenário e Trump orientou a favor de buscar acordo com o Brasil, diz ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/negociacao-esta-em-novo-cenario-e-trump-orientou-a-favor-de-buscar-acordo-com-o-brasil-diz-ministro.shtml)_
+
+- **[2026-08-31 20:35 UTC]** Trump diz estar revisando posição dos EUA sobre soberania das Malvinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/trump-diz-estar-revisando-posicao-dos-eua-sobre-soberania-das-malvinas.shtml)_
+
+- **[2026-09-01 00:56 UTC]** Joesley Batista influenciou Trump em medidas para conter preço da carne nos EUA, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/joesley-batista-influenciou-trump-em-medidas-para-conter-preco-da-carne-nos-eua-diz-jornal.shtml)_
+
+- **[2026-09-01 05:00 UTC]** Podcast analisa o avanço de Trump sobre o petróleo da Venezuela
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-analisa-o-avanco-de-trump-sobre-o-petroleo-da-venezuela.shtml)_
+
+- **[2026-09-01 11:33 UTC]** Acordo de Trump sobre petróleo da Venezuela reacende temor de neocolonialismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acordo-de-trump-sobre-petroleo-da-venezuela-reacende-temor-de-neocolonialismo.shtml)_
+
+- **[2026-09-01 14:26 UTC]** EUA fazem novo ataque contra o Irã após ameaças de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eua-fazem-novo-ataque-contra-o-ira-apos-ameacas-de-trump.shtml)_
+
+- **[2026-09-01 15:44 UTC]** China prepara cúpula entre Xi, Trump e Putin, diz Rússia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/china-prepara-cupula-entre-xi-trump-e-putin-diz-russia.shtml)_
+
+- **[2026-09-01 14:26 UTC]** Trump diz que acordos de paz com Irã não valem nada, e EUA atacam sul do país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eua-fazem-novo-ataque-contra-o-ira-apos-ameacas-de-trump.shtml)_
+
+- **[2026-09-01 20:33 UTC]** Advogado de Trump chama de “inacreditáveis” novas revelações sobre Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-de-trump-chama-de-inacreditaveis-novas-revelacoes-sobre-moraes-e-vorcaro/)_
+
+- **[2026-09-01 18:35 UTC]** Escapada secreta de Trump no avião Air Force One vira documentário na Netflix
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/escapada-secreta-de-trump-no-aviao-air-force-one-vira-documentario-na-netflix.shtml)_
+
+- **[2026-09-02 01:55 UTC]** Aliado de Trump publica montagem de Moraes com Banco Master e diz que ministro “está com sérios problemas”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/aliado-de-trump-publica-montagem-de-moraes-com-banco-master-e-diz-que-ministro-esta-com-serios-problemas/)_
+
+- **[2026-09-02 13:19 UTC]** Trump propõe mudar nome do estreito de Hormuz para estreito de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-propoe-mudar-nome-do-estreito-de-hormuz-para-estreito-de-trump.shtml)_
+
+- **[2026-09-02 16:30 UTC]** Aliados de Trump encomendam pesquisa e veem empate técnico entre Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-trump-encomendam-pesquisa-e-veem-empate-tecnico-entre-lula-e-flavio.shtml)_
+
+- **[2026-09-02 16:14 UTC]** Sem nomear Lula, Trump diz ter boa relação com o Brasil e cita influência dos EUA em eleições na América Latina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/sem-nomear-lula-trump-diz-ter-boa-relacao-com-o-brasil-e-cita-influencia-dos-eua-em-eleicoes-na-america-latina.shtml)_
+
+- **[2026-09-02 15:11 UTC]** Tesouro dos EUA emite moeda de US$ 1 com rosto de Trump; veja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/tesouro-dos-eua-emite-moeda-de-us-1-com-rosto-de-trump-veja.shtml)_
+
+- **[2026-09-02 17:31 UTC]** Trump e Delcy afirmam que Venezuela ainda não está pronta para nova eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-e-delcy-afirmam-que-venezuela-ainda-nao-esta-pronta-para-nova-eleicao.shtml)_
+
+- **[2026-09-02 20:09 UTC]** Juíza nos EUA suspende novo decreto de Trump que restringe cidadania
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiza-nos-eua-suspende-novo-decreto-de-trump-que-restringe-cidadania.shtml)_
+
+- **[2026-09-02 19:36 UTC]** Trump comemora saída de Harry e Meghan dos Estados Unidos: 'Eu não era fã'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/trump-comemora-saida-de-harry-e-meghan-dos-estados-unidos-eu-nao-era-fa.shtml)_
+
+- **[2026-09-03 09:00 UTC]** Associações médicas dos EUA publicam recomendações de vacinas ante ofensiva de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/associacoes-medicas-dos-eua-publicam-recomendacoes-de-vacinas-ante-ofensiva-de-trump.shtml)_
+
+- **[2026-09-03 12:32 UTC]** Trump tenta baixar preço da carne e desagrada pecuaristas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-tenta-baixar-preco-da-carne-e-desagrada-pecuaristas.shtml)_
+
+- **[2026-09-03 12:32 UTC]** Trump tenta baixar preço da carne e desagrada a pecuaristas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-tenta-baixar-preco-da-carne-e-desagrada-pecuaristas.shtml)_
+
+- **[2026-09-03 19:24 UTC]** Não sei, pergunte aos iranianos, diz vice de Trump sobre fim da guerra no Irã
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/nao-sei-pergunte-aos-iranianos-diz-vice-de-trump-sobre-fim-da-guerra-no-ira.shtml)_
+
+- **[2026-09-03 19:49 UTC]** Avião sobrevoa Paramount com faixa que alfineta relação do CEO com Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/aviao-sobrevoa-paramount-com-faixa-que-alfineta-relacao-do-ceo-com-trump.shtml)_
+
+- **[2026-09-03 22:19 UTC]** Trump pede a Suprema Corte poder para restringir voto por correio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-pede-a-suprema-corte-pode-para-restringir-voto-por-correio.shtml)_
+
+- **[2026-09-04 13:36 UTC]** Ação de Trump sobre petróleo venezuelano ameaça dívida bilionária com a China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acao-de-trump-sobre-petroleo-venezuelano-ameaca-divida-bilionaria-com-a-china.shtml)_
+
+- **[2026-09-04 19:08 UTC]** Lula afirma ter dito a Trump que Brasil não aceita 'ingerência de ninguém nas eleições'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/lula-afirma-ter-dito-a-trump-que-brasil-nao-aceita-ingerencia-de-ninguem-nas-eleicoes.ghtml)_
+
+- **[2026-09-04 18:27 UTC]** Trump amplia influência na América Latina com petróleo e ataques
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-amplia-influencia-na-america-latina-com-petroleo-e-ataques.shtml)_
+
+- **[2026-09-04 18:23 UTC]** Trump assina decretos para facilitar proteção de rebanhos e processamento de carne por pecuaristas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-assina-decretos-para-facilitar-protecao-de-rebanhos-e-processamento-de-carne-por-pecuaristas.shtml)_
+
+- **[2026-09-04 17:22 UTC]** Trump retoma negociações e diz ter plano para paz na Ucrânia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-retoma-negociacoes-e-diz-ter-plano-para-paz-na-ucrania.shtml)_
+
+- **[2026-09-04 20:13 UTC]** Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-afirma-ter-dito-a-trump-que-brasil-nao-aceita-interferencia-nas-eleicoes/)_
+
+- **[2026-09-04 19:16 UTC]** Trump diz que guerra no Irã é 'fichinha' para os EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-diz-que-guerra-no-ira-e-fichinha-para-os-eua.shtml)_
+
+- **[2026-09-04 22:00 UTC]** Trump e Venezuela fazem acordo esdrúxulo por petróleo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/trump-e-venezuela-fazem-acordo-esdruxulo-por-petroleo.shtml)_
+
+- **[2026-09-05 12:37 UTC]** Trump faz aliança improvável com o chavismo visando petróleo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/09/trump-da-guinada-ideologica-ao-fazer-alianca-com-o-chavismo.shtml)_
+
+- **[2026-09-05 17:32 UTC]** 'EUA em primeiro lugar': como Trump troca diplomacia por aliados políticos e tensiona a relação com o Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cd9w5yk7wxdo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-05 20:00 UTC]** Rock in Rio: 'Dane-se o Trump', diz influenciadora após visto americano sair com gênero masculino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-dane-se-o-trump-diz-influenciadora-apos-visto-americano-sair-com-genero-masculino.shtml)_
+
+- **[2026-09-05 23:00 UTC]** É justo rir do comentarista de extrema direita deportado por Trump?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/09/e-justo-rir-do-comentarista-de-extrema-direita-deportado-por-trump.shtml)_
+
+- **[2026-09-06 08:44 UTC]** Enviados de Trump chegam a Kiev para negociar fim da guerra após reunião com Putin em Moscou
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/enviados-de-trump-chegam-a-kiev-para-negociar-fim-da-guerra-apos-reuniao-com-putin-em-moscou.shtml)_
+
+- **[2026-09-06 11:48 UTC]** Países islâmicos afirmam que planos de Israel para expulsão de Gaza ameaçam paz apoiada por Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/paises-islamicos-afirmam-que-planos-de-israel-para-expulsao-de-gaza-ameacam-paz-apoiada-por-trump.shtml)_
+
+- **[2026-09-06 14:18 UTC]** Aprovação de Trump cai para 33%, menor nível já registrado em pesquisa do Financial Times
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/aprovacao-de-trump-cai-para-33-menor-nivel-ja-registrado-em-pesquisa-do-financial-times.shtml)_
+
+- **[2026-09-06 23:43 UTC]** Lula faz discurso de soberania com recados a Trump na véspera do 7 de setembro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-faz-discurso-de-soberania-cheio-de-recados-a-trump-na-vespera-do-7-de-setembro/)_
+
+- **[2026-09-07 14:27 UTC]** Trump cogita rebatizar Novo México de Nova América e provoca reação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-cogita-rebatizar-novo-mexico-de-nova-america-e-provoca-reacao.shtml)_
+
+- **[2026-09-07 17:26 UTC]** Trump diz que canadense Bombardier só poderá vender nos EUA se fabricar no país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-diz-que-canadense-bombardier-so-podera-vender-nos-eua-se-fabricar-no-pais.shtml)_
+
+- **[2026-09-07 23:00 UTC]** Economia e Trump em baixa pressionam republicanos a 2 meses das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/economia-e-trump-em-baixa-pressionam-republicanos-a-2-meses-das-eleicoes.shtml)_
+
+- **[2026-09-08 13:02 UTC]** Fim da guerra vai restaurar laços EUA-Rússia, diz Trump a Putin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/fim-da-guerra-vai-restaurar-lacos-eua-russia-diz-trump-a-putin.shtml)_
+
+- **[2026-09-08 09:45 UTC]** Trump publica mapa que inclui Canadá, México e Groenlândia sob bandeira dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-publica-mapa-que-inclui-canada-mexico-e-groenlandia-sob-bandeira-dos-eua.shtml)_
+
+- **[2026-09-08 18:59 UTC]** Possível uniforme de força espacial de Trump gera comparação com farda nazista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/possivel-uniforme-de-forca-espacial-de-trump-gera-comparacao-com-farda-nazista.shtml)_
+
+- **[2026-09-09 01:57 UTC]** 'South Park' satiriza Trump e muda nome para 'South America'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/south-park-satiriza-trump-e-muda-nome-para-south-america.shtml)_
+
+- **[2026-09-08 23:12 UTC]** Trump proíbe importação de laticínios, bebidas alcoólicas e motocicletas do Canadá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trump-proibe-importacao-de-laticinios-bebidas-alcoolicas-e-motocicletas-do-canada.shtml)_
+
+- **[2026-09-09 09:27 UTC]** Trump celebra vitória da extrema direita na Alemanha, e ligação com Merz é adiada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-celebra-vitoria-da-extrema-direita-na-alemanha-e-ligacao-com-merz-e-adiada.shtml)_
+
+- **[2026-09-09 15:15 UTC]** Milei surfa em aceno de Trump e agora quer Malvinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/milei-surfa-em-aceno-de-trump-e-agora-quer-malvinas.shtml)_
+
+- **[2026-09-09 15:05 UTC]** Trump dá US$ 45 mil de presente a assessora apelidada de 'impressora humana'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-da-us-45-mil-de-presente-a-assessora-apelidada-de-impressora-humana.shtml)_
+
+- **[2026-09-09 17:24 UTC]** Trump diz que guerra no Irã terminará logo após eleição de meio de mandato nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-diz-que-guerra-no-ira-terminara-logo-apos-eleicao-de-meio-de-mandato-nos-eua.shtml)_
+
+- **[2026-09-09 23:08 UTC]** Trump ataca democratas e repete discursos de comício em convenção republicana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-ataca-democratas-e-repete-discursos-de-comicio-em-convencao-republicana.shtml)_
+
+- **[2026-09-10 08:00 UTC]** Gatorade troca corantes artificiais por naturais nos EUA após pressão do governo Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/gatorade-troca-corantes-artificiais-por-naturais-nos-eua-apos-pressao-do-governo-trump.shtml)_
+
+- **[2026-09-10 06:00 UTC]** Canadá atrai cientistas que querem deixar ciência dos EUA sob Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/canada-atrai-cientistas-que-querem-deixar-ciencia-dos-eua-sob-trump.shtml)_
+
+- **[2026-09-09 23:08 UTC]** Trump promete dar R$ 25 mil a cada americano caso os republicanos vençam as eleições de novembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-ataca-democratas-e-repete-discursos-de-comicio-em-convencao-republicana.shtml)_
+
+- **[2026-09-10 09:31 UTC]** Trump promete US$ 5 mil a cada americano se vencer eleições
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/trump-promete-us-5-mil-cada-americano-se-vencer-eleicoes)_
+
+- **[2026-09-10 09:22 UTC]** Pressão de Trump faz Jimmy Kimmel cancelar entrevista com democrata na televisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/pressao-de-trump-faz-jimmy-kimmel-cancelar-entrevista-com-democrata-na-televisao.shtml)_
+
+- **[2026-09-10 08:59 UTC]** FMI descartou crítico de tarifas de Trump para ser economista-chefe, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/fmi-descartou-critico-de-tarifas-de-trump-para-ser-economista-chefe-diz-jornal.shtml)_
+
+- **[2026-09-10 11:43 UTC]** 4 pontos da fala de Trump em evento eleitoral: 'US$ 5 mil para cada americano' e guerra do Irã vai acabar 'após eleição'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crl6587p7n2o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-10 16:57 UTC]** Em busca de votos, Trump tenta reciclar velha promessa de dinheiro grátis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/em-busca-de-votos-trump-tenta-reciclar-velha-promessa-de-dinheiro-gratis.shtml)_
+
+- **[2026-09-11 12:06 UTC]** Trump usa ato de 25 anos do 11 de Setembro para defender guerra no Irã
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-usa-ato-de-25-anos-do-11-de-setembro-para-defender-guerra-no-ira.shtml)_
+
+- **[2026-09-11 10:00 UTC]** Flávio Bolsonaro almeja grande pátria transnacional liderada por Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2026/09/flavio-bolsonaro-almeja-grande-patria-transnacional-liderada-por-trump.shtml)_
+
+- **[2026-09-11 09:00 UTC]** Para bolsonaristas, Mendonça vale mais que Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/09/para-bolsonaristas-mendonca-vale-mais-que-trump.shtml)_
+

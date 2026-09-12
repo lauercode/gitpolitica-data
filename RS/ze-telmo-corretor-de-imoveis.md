@@ -5,3 +5,39 @@
 
 ## Histórico
 
+- **[2018-07-17 16:01 UTC]** Corretor de imóveis suspeito de estelionato em Araxá é preso pela Polícia Civil no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/mg/triangulo-mineiro/noticia/corretor-de-imoveis-suspeito-de-estelionato-em-araxa-e-preso-pela-policia-civil-no-es.ghtml)_
+
+- **[2018-07-16 10:52 UTC]** Imóveis do Minha Casa, Minha Vida quase prontos deixam de ser entregues no ES
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/imoveis-do-minha-casa-minha-vida-quase-prontos-deixam-de-ser-entregues-no-es.ghtml)_
+
+- **[2026-08-25 16:00 UTC]** Marquise desaba sobre poste e deixa 54 imóveis sem energia na Zona Norte de Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/25/marquise-desaba-sobre-poste-e-deixa-54-imoveis-sem-energia-na-zona-norte-de-natal.ghtml)_
+
+- **[2018-07-10 12:12 UTC]** Advogado explica como funcionam as leis que protegem locatários de imóveis comerciais
+  _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/advogado-explica-como-funcionam-as-leis-que-protegem-locatarios-de-imoveis-comerciais.ghtml)_
+
+- **[2026-09-01 12:24 UTC]** Tempestades deixam 180 mil imóveis sem luz no Paraná; 84 mil permanecem sem energia nesta terça (1º)
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/tempestades-deixam-imoveis-sem-luz-sem-energia-no-parana.ghtml)_
+
+- **[2026-09-01 12:24 UTC]** Tempestades deixam 180 mil imóveis sem luz no Paraná; 7,5 mil permanecem sem energia há dois dias
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/01/tempestades-deixam-imoveis-sem-luz-sem-energia-no-parana.ghtml)_
+
+- **[2026-09-03 21:04 UTC]** PF descreve gastos de Claudio Castro com caviar, adega e imóveis em inquérito sobre Refit
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pf-descreve-gastos-de-claudio-castro-com-caviar-adega-e-imoveis-em-inquerito-sobre-refit.shtml)_
+
+- **[2026-09-09 16:10 UTC]** Ministério Público pede demolição de imóveis construídos no meio de rua há mais de 25 anos em Araguaína
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/09/ministerio-publico-pede-demolicao-de-imoveis-construidos-em-rua-ha-mais-de-25-anos-em-araguaina.ghtml)_
+
+- **[2026-09-11 11:20 UTC]** Casa é interditada após desabamento, granizo danifica imóveis e comunidades ficam isoladas durante temporais no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/11/desabamento-granizo-estragos-parana.ghtml)_
+
+- **[2026-09-11 13:15 UTC]** Imóveis vão a leilão no Tocantins com lances a partir de R$ 150 mil; veja opções
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/imoveis-vao-a-leilao-no-tocantins-com-lances-a-partir-de-r-150-mil-veja-opcoes.ghtml)_
+
+- **[2026-09-11 16:40 UTC]** Ventania deixa mais de 100 mil imóveis sem luz na Grande São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/ventania-deixa-mais-de-100-mil-imoveis-sem-luz-na-grande-sao-paulo.shtml)_
+
+- **[2026-09-11 16:40 UTC]** Ventania passa de 80 km/h e deixa mais de 120 mil imóveis sem luz na Grande São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/ventania-deixa-mais-de-100-mil-imoveis-sem-luz-na-grande-sao-paulo.shtml)_
+

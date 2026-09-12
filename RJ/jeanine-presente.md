@@ -8,3 +8,27 @@
 - **[2026-08-29 11:00 UTC]** A maior de todas as pragas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/08/a-maior-de-todas-as-pragas.shtml)_
 
+- **[2026-08-28 15:05 UTC]** Dentista do TO reencontra ex-RBD após 14 anos e entrega presente de capim dourado
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/28/dentista-do-to-reencontra-ex-rbd-apos-14-anos-e-entrega-presente-de-capim-dourado.ghtml)_
+
+- **[2026-09-01 12:00 UTC]** Cidades do Alentejo, em Portugal, unem passado e presente com relíquias que desafiam o tempo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/cidades-do-alentejo-em-portugal-unem-passado-e-presente-com-reliquias-que-desafiam-o-tempo.shtml)_
+
+- **[2026-09-04 01:36 UTC]** Mendonça apresenta notas de ternos para rebater suspeita de presente de Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-apresenta-notas-de-ternos-para-rebater-suspeita-de-presente-de-vorcaro/)_
+
+- **[2026-09-07 21:17 UTC]** Paixão por Marina Sena faz fãs enfrentarem horas de espera e até corrida por presente em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/paixao-por-marina-sena-faz-fas-enfrentarem-horas-de-espera-e-ate-corrida-por-presente-em-palmas.ghtml)_
+
+- **[2026-09-09 15:05 UTC]** Trump dá US$ 45 mil de presente a assessora apelidada de 'impressora humana'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-da-us-45-mil-de-presente-a-assessora-apelidada-de-impressora-humana.shtml)_
+
+- **[2026-09-10 07:00 UTC]** No dia do aniversário de 67 anos, morador de SC reencontra irmãs que não via há mais de 50 anos: 'presente de Deus'; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/aniversario-reencontra-irmas-que-nao-via-ha-mais-de-50-anos.ghtml)_
+
+- **[2026-09-10 07:00 UTC]** No aniversário de 67 anos, catarinense reencontra irmãs que não via há mais de 50 anos: 'Presente de Deus'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/aniversario-reencontra-irmas-que-nao-via-ha-mais-de-50-anos.ghtml)_
+
+- **[2026-09-10 07:00 UTC]** No dia do aniversário, idoso reencontra irmãs que não via há mais de 50 anos: 'Presente de Deus'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/aniversario-reencontra-irmas-que-nao-via-ha-mais-de-50-anos.ghtml)_
+

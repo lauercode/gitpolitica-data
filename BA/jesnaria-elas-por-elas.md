@@ -17,3 +17,15 @@
 - **[2026-08-30 08:00 UTC]** Temos que falar de sexo, diz Luisa Arraes, protagonista de filme de humor em motel
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/08/temos-que-falar-de-sexo-diz-luisa-arraes-protagonista-de-filme-de-humor-em-motel.shtml)_
 
+- **[2017-07-26 08:20 UTC]** No dia dedicado a elas, vovós do DF contam como estão mais ativas e conectadas
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/no-dia-dedicado-a-elas-vovos-do-df-contam-como-estao-mais-ativas-e-conectadas.ghtml)_
+
+- **[2017-05-17 16:45 UTC]** Empreendedorismo feminino: agora é que são elas
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/sebrae/crescendo-com-o-sebrae/noticia/2017/05/empreendedorismo-feminino-agora-e-que-sao-elas.html)_
+
+- **[2026-08-31 23:00 UTC]** Eles preferem mulheres mais velhas; elas não acreditam
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/08/eles-preferem-mulheres-mais-velhas-elas-nao-acreditam.shtml)_
+
+- **[2026-09-09 17:23 UTC]** Elas conseguiram celebrar o primeiro casamento homossexual na Bolívia, um país onde ele não é legalizado
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c86x0d1gveyo?at_medium=RSS&at_campaign=rss)_
+

@@ -284,3 +284,105 @@
 - **[2026-08-30 11:08 UTC]** Mega-Sena 3051 acumula e premiação pode chegar a R$ 36 milhões na terça (1º)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-o-resultado-do-concurso-3051-da-mega-sena-sorteado-neste-domingo-30.shtml)_
 
+- **[2026-08-30 03:00 UTC]** VÍDEO: Qual a diferença entre deputado estadual e federal?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/08/30/video-a-diferenca-entre-deputado-estadual-e-federal.ghtml)_
+
+- **[2026-08-26 21:32 UTC]** Tarcísio cobra governo federal por corrupção e diz que Flávio já se explicou sobre Dark Horse
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/republica/tarcisio-cobra-governo-federal-por-corrupcao-e-diz-que-flavio-ja-se-explicou-sobre-dark-horse/)_
+
+- **[2026-08-30 20:38 UTC]** Líder da facção criminosa Cartel do Sul é encontrado morto em penitenciária federal de Brasília
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/30/lider-da-faccao-criminosa-cartel-do-sul-e-encontrado-morto-em-penitenciaria-federal-de-brasilia.ghtml)_
+
+- **[2026-08-31 20:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-acre.ghtml)_
+
+- **[2026-08-31 20:56 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-alagoas.ghtml)_
+
+- **[2026-08-31 21:14 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-amapa.ghtml)_
+
+- **[2026-08-31 21:07 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-amazonas.ghtml)_
+
+- **[2026-08-27 20:45 UTC]** Garimpo ilegal no Pará: operação federal flagra extração de ouro sob linhas de transmissão
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/27/garimpo-ilegal-no-para-operacao-federal-flagra-extracao-de-ouro-sob-linhas-de-transmissao.ghtml)_
+
+- **[2018-07-17 10:14 UTC]** Filho de deputado federal fica ferido e duas pessoas morrem em acidente em Bezerros
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/filho-de-deputado-federal-fica-ferido-e-duas-pessoas-morrem-em-acidente-em-bezerros.ghtml)_
+
+- **[2026-09-01 16:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-tocantins.ghtml)_
+
+- **[2026-09-01 20:25 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-maranhao.ghtml)_
+
+- **[2026-09-01 21:17 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-para.ghtml)_
+
+- **[2026-09-01 21:29 UTC]** Eleições 2026: veja todos os candidatos a deputado federal na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-na-paraiba.ghtml)_
+
+- **[2026-09-01 21:25 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-parana.ghtml)_
+
+- **[2026-09-01 21:21 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Rio Grande do Norte
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-rio-grande-do-norte.ghtml)_
+
+- **[2026-09-01 20:18 UTC]** Eleições 2026: veja todos os candidatos a deputado federal no Rio Grande do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-no-rio-grande-do-sul.ghtml)_
+
+- **[2026-09-01 20:44 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-rondonia.ghtml)_
+
+- **[2026-09-01 20:35 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-roraima.ghtml)_
+
+- **[2026-09-01 19:55 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-santa-catarina.ghtml)_
+
+- **[2026-09-01 19:26 UTC]** Eleições 2026: veja todos os candidatos a deputado federal em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/01/eleicoes-2026-veja-todos-os-candidatos-a-deputado-federal-em-sergipe.ghtml)_
+
+- **[2026-09-01 22:01 UTC]** Governo do DF aciona STF contra lei federal que pode gerar corte bilionário no Fundo Constitucional
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/09/01/governo-do-df-aciona-stf-e-diz-que-lei-sancionada-por-lula-que-pode-ter-impacto-bilionario-no-fundo-constitucional-entenda.ghtml)_
+
+- **[2026-09-02 20:11 UTC]** Câmara aprova criação de universidade federal em Oiapoque (AP)
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1302294-camara-aprova-criacao-de-universidade-federal-em-oiapoque-ap)_
+
+- **[2026-09-02 18:39 UTC]** Justiça condena seis por plano de atentado a bomba do PCC descoberto em presídio federal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-condena-seis-por-plano-de-atentado-a-bomba-do-pcc-descoberto-em-presidio-federal.shtml)_
+
+- **[2026-09-03 03:01 UTC]** Eleições 2026: O que faz um deputado federal?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-o-que-faz-um-deputado-federal.ghtml)_
+
+- **[2026-09-03 07:50 UTC]** Eleições: entenda o papel dos deputados federal e estadual
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/eleicoes-entenda-o-papel-dos-deputados-federal-e-estadual)_
+
+- **[2026-09-03 16:16 UTC]** Professor de universidade federal é investigado por suspeita de racismo após enviar e-mail para colegas no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/professor-de-universidade-federal-e-investigado-por-suspeita-de-racismo-apos-enviar-e-mail-para-colegas-no-rs.ghtml)_
+
+- **[2026-09-03 21:43 UTC]** Equipe de campanha de ex-prefeito e candidato a deputado federal sofre acidente no Uiramutã
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/03/equipe-de-campanha-de-ex-prefeito-e-candidato-a-deputado-federal-sofre-acidente-no-uiramuta.ghtml)_
+
+- **[2026-09-03 22:22 UTC]** Eleições 2026: Fábio diz que pretende construir unidades habitacionais em parceria com o governo federal
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-fabio-diz-que-pretende-construir-unidades-habitacionais-em-parceria-com-o-governo-federal.ghtml)_
+
+- **[2026-09-04 00:12 UTC]** Daniel Vorcaro denuncia ameaças e pressão para omitir nomes do governo federal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/daniel-vorcaro-denuncia-ameacas-e-pressao-para-omitir-nomes-do-governo-federal/)_
+
+- **[2026-09-04 14:27 UTC]** É #FAKE que norma do governo federal proíbe uso de estribos em caminhões de coleta de lixo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/04/e-fake-que-norma-do-governo-federal-proibe-uso-de-estribos-em-caminhoes-de-coleta-de-lixo.ghtml)_
+
+- **[2026-09-04 19:19 UTC]** Cidade do AC recebe mais de R$ 1,7 milhão do governo federal para ações de proteção
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/cidade-do-ac-recebe-mais-de-r-17-milhao-do-governo-federal-para-acoes-de-protecao.ghtml)_
+
+- **[2026-09-06 18:00 UTC]** MPF reforça pedido do governo federal e cobra medidas urgentes do Discord
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mpf-reforca-pedido-do-governo-federal-e-cobra-medidas-urgentes-do-discord.shtml)_
+
+- **[2026-09-10 20:11 UTC]** MPF dá 30 dias para governo federal comprar remédio contra bicho-de-pé para Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/mpf-da-30-dias-para-governo-federal-comprar-remedio-contra-bicho-de-pe-para-terra-yanomami.ghtml)_
+
+- **[2026-09-11 03:00 UTC]** Deputado estadual, deputado federal e senador: quantos serão eleitos em 2026 e quantos votos são necessários?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/deputado-estadual-deputado-federal-e-senador-quantos-serao-eleitos-em-2026-e-quantos-votos-sao-necessarios.ghtml)_
+

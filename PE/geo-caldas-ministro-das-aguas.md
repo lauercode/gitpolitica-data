@@ -8,3 +8,27 @@
 - **[2026-08-29 13:00 UTC]** Livro perturbador narra a 'banalidade do mal' em naufrágio de imigrantes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/livro-perturbador-narra-a-banalidade-do-mal-em-naufragio-de-imigrantes.shtml)_
 
+- **[2017-10-24 18:35 UTC]** Incêndio no Parque Ecológico de Águas Claras, no  DF, mobiliza 36 bombeiros
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/incendio-no-parque-ecologico-de-aguas-claras-no-df-mobiliza-30-bombeiros.ghtml)_
+
+- **[2017-07-06 11:14 UTC]** Espírito das Águas
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/fibria/a-floresta-sob-um-novo-prisma/noticia/2017/07/espirito-das-aguas.html)_
+
+- **[2018-07-23 13:49 UTC]** Filho estupra mãe na frente da irmã mais nova em Águas Belas, PE
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pe/caruaru-regiao/noticia/2018/07/23/filho-estupra-mae-na-frente-da-irma-mais-nova-em-aguas-belas-pe.ghtml)_
+
+- **[2026-09-03 13:41 UTC]** 'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2q5nl0pg3o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-06 14:04 UTC]** Arcon determina suspensão de cobranças e reativações de cadastros sem vistoria da Águas do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/06/arcon-determina-suspensao-de-cobrancas-e-reativacoes-de-cadastros-sem-vistoria-da-aguas-do-para.ghtml)_
+
+- **[2026-09-09 23:00 UTC]** Parque das Águas é a estrela de São Lourenço, no sul de Minas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/parque-das-aguas-e-a-estrela-de-sao-lourenco-no-sul-de-minas.shtml)_
+
+- **[2026-09-09 22:56 UTC]** Caldas, no sul de Minas, encanta pelas águas e pela natureza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/caldas-no-sul-de-minas-encanta-pelas-aguas-e-pela-natureza.shtml)_
+
+- **[2026-09-10 19:17 UTC]** Águas de Manaus lança programa sobre descarte correto de óleo de cozinha
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/especial-publicitario/aguas-de-manaus/aguas-de-manaus/noticia/2026/09/10/aguas-de-manaus-lanca-programa-sobre-descarte-correto-de-oleo-de-cozinha.ghtml)_
+

@@ -5,3 +5,51 @@
 
 ## Histórico
 
+- **[2018-07-16 23:03 UTC]** Ladrão empurra ciclista no meio da BR-060 para roubar bicicleta e vítima é atropelada, em Anápolis
+  _fonte: [G1 - Regiões: Goiás](https://g1.globo.com/go/goias/transito/noticia/ladrao-empurra-ciclista-no-meio-da-br-060-para-roubar-bicicleta-e-vitima-e-atropelada-em-anapolis.ghtml)_
+
+- **[2026-08-31 14:34 UTC]** Suspeitos de assaltar ciclista em rua do Jardim Oceania, em João Pessoa, são presos
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/31/suspeitos-de-assaltar-ciclista-em-rua-do-jardim-oceana-em-joao-pessoa-sao-presos.ghtml)_
+
+- **[2026-08-30 16:29 UTC]** Ciclista é assaltado em rua do Jardim Oceania, em João Pessoa; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/30/ciclista-e-assaltado-em-rua-do-jardim-oceania-em-joao-pessoa-video.ghtml)_
+
+- **[2026-08-30 12:02 UTC]** Ciclista morre após ser atropelado enquanto tentava atravessar via na faixa de pedestres, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/30/ciclista-morre-apos-ser-atropelado-enquanto-tentava-atravessar-via-na-faixa-de-pedestres-em-joao-pessoa.ghtml)_
+
+- **[2026-08-28 19:35 UTC]** Motorista que atropelou e matou ciclista em Porto Velho é indiciado por seis crimes
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/28/motorista-que-atropelou-e-matou-ciclista-em-porto-velho-e-indiciado-por-seis-crimes.ghtml)_
+
+- **[2026-08-24 20:58 UTC]** Justiça decreta prisão preventiva de motorista que atropelou e matou ciclista em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/justica-decreta-prisao-preventiva-de-motorista-que-atropelou-e-matou-ciclista-em-porto-velho.ghtml)_
+
+- **[2026-08-24 15:57 UTC]** Amigos fazem cortejo de bicicleta em homenagem a ciclista atropelada em RO: 'Deixou um legado', diz amigo
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/24/amigos-fazem-cortejo-de-bicicleta-em-homenagem-a-ciclista-atropelada-em-ro-deixou-um-legado-diz-amigo.ghtml)_
+
+- **[2026-08-23 17:29 UTC]** Motorista com sinais de embriaguez é preso após matar ciclista atropelada em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/08/23/motorista-e-preso-apos-matar-ciclista-atropelada-em-porto-velho.ghtml)_
+
+- **[2026-08-31 14:18 UTC]** Ciclista morre após ser atingido por carro em Mucajaí
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/31/ciclista-morre-apos-ser-atingido-por-carro-em-mucajai.ghtml)_
+
+- **[2026-08-30 21:25 UTC]** Ciclista morre após batida com carro em Nossa Senhora das Dores
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/08/30/ciclista-morre-apos-batida-com-carro-em-sergipe.ghtml)_
+
+- **[2026-09-01 09:56 UTC]** Câmera de segurança flagra momento em que motorista atropela e mata ciclista em João Pessoa; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/camera-de-seguranca-flagra-momento-em-que-motorista-atropela-e-mata-ciclista-em-joao-pessoa-video.ghtml)_
+
+- **[2026-09-01 17:46 UTC]** Família de ciclista atropelado em João Pessoa relembra rotina da vítima e lamentam morte: ‘Eu estou sofrendo’, diz mãe
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/familia-de-ciclista-atropelado-em-joao-pessoa-relembra-rotina-da-vitima-e-lamentam-morte.ghtml)_
+
+- **[2026-09-01 17:46 UTC]** Família de ciclista atropelado em João Pessoa relembra rotina da vítima e lamenta morte: ‘Eu estou sofrendo’, diz mãe
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/01/familia-de-ciclista-atropelado-em-joao-pessoa-relembra-rotina-da-vitima-e-lamentam-morte.ghtml)_
+
+- **[2026-09-04 16:06 UTC]** Ciclista de 45 anos é atropelado e morto em São Vicente, no litoral de SP; polícia pede prisão de suspeito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/ciclista-de-45-anos-e-atropelado-e-morto-em-sao-vicente-no-litoral-de-sp-policia-pede-prisao-de-suspeito.shtml)_
+
+- **[2026-09-08 11:43 UTC]** Polícia do Rio indicia 13 sob suspeita de envolvimento no caso do ciclista linchado em Copacabana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-do-rio-indicia-13-sob-suspeita-de-envolvimento-no-caso-do-ciclista-linchado-em-copacabana.shtml)_
+
+- **[2026-09-10 13:36 UTC]** MPRJ denuncia cinco pessoas por morte de ciclista em Copacabana
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mprj-denuncia-cinco-pessoas-por-morte-de-ciclista-em-copacabana)_
+

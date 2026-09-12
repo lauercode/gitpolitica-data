@@ -5,3 +5,15 @@
 
 ## Histórico
 
+- **[2018-05-04 09:22 UTC]** Agenda Cultural: Safadão, Saulo, Ponto de Equilíbrio e The Fevers são destaques no fim de semana
+  _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/ba/bahia/noticia/agenda-cultural-safadao-saulo-ponto-de-equilibrio-e-the-fevers-sao-destaques-no-fim-de-semana.ghtml)_
+
+- **[2026-08-28 23:47 UTC]** Eleições 2026: saiba como foi o dia do candidato Saulo Arcangeli ao governo do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/28/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-saulo-arcangeli-ao-governo-do-maranhao.ghtml)_
+
+- **[2026-08-28 13:21 UTC]** Veja o plano de governo de Saulo Arcangeli (PSTU), candidato ao governo do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/28/veja-o-plano-de-governo-de-saulo-arcangeli-pstu-candidato-ao-governo-do-maranhao.ghtml)_
+
+- **[2026-09-05 23:24 UTC]** Eleições 2026: saiba como foi o dia do candidato Saulo Arcageli ao governo do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/05/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-saulo-arcageli-ao-governo-do-maranhao.ghtml)_
+

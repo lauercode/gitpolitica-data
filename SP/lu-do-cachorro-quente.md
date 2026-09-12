@@ -11,3 +11,15 @@
 - **[2026-08-30 05:00 UTC]** Tempo em SP continua abafado com sol entre nuvens neste domingo (30)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/tempo-em-sp-continua-abafado-com-sol-entre-nuvens-neste-domingo-30.shtml)_
 
+- **[2018-07-08 10:20 UTC]** Após início de inverno quente, frio chega a MS e semana começa com temperaturas abaixo de 10°C
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/apos-inicio-de-inverno-quente-frio-chega-a-ms-e-semana-comeca-com-temperaturas-abaixo-de-10c.ghtml)_
+
+- **[2026-09-09 16:54 UTC]** Estados Unidos tiveram verão mais quente em 132 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/estados-unidos-tiveram-verao-mais-quente-em-132-anos.shtml)_
+
+- **[2026-09-09 23:00 UTC]** Agosto iguala recorde de mês mais quente da história, diz Copernicus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/agosto-iguala-recorde-de-mes-mais-quente-da-historia-diz-copernicus.shtml)_
+
+- **[2026-09-10 13:17 UTC]** Cachorro-quente, o lanche com latidos regionais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/nacao-churrasqueira/2026/09/cachorro-quente-o-lanche-com-latidos-regionais.shtml)_
+

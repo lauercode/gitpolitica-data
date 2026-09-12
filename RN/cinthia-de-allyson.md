@@ -5,3 +5,30 @@
 
 ## Histórico
 
+- **[2026-08-26 19:39 UTC]** Allyson Bezerra (União Brasil) faz caminhada no Alecrim e defende terceira ponte para mobilidade em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/08/26/allyson-bezerra-uniao-brasil-faz-caminhada-no-alecrim-e-defende-terceira-ponte-para-mobilidade-em-natal.ghtml)_
+
+- **[2026-08-24 22:29 UTC]** Quaest no RN: Allyson, 25%; Cadu de Lula, 21%; Álvaro Dias, 19%
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/08/24/quaest-rn-governador-24-de-agosto.ghtml)_
+
+- **[2026-09-03 19:38 UTC]** Allyson Bezerra destaca propostas para mobilidade urbana em Natal e Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/03/allyson-bezerra-destaca-propostas-para-mobilidade-urbana-em-natal-e-mossoro.ghtml)_
+
+- **[2026-09-04 19:37 UTC]** Allyson apresenta propostas para a saúde durante visita a hospital em Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/04/alysson-apresenta-propostas-para-a-saude-durante-visita-a-hospital-em-mossoro.ghtml)_
+
+- **[2026-09-07 21:26 UTC]** Allyson Bezerra faz carreata na Zona Norte de Natal e promete fortalecer Hospital Santa Catarina
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/07/allyson-bezerra-faz-carreata-na-zona-norte-de-natal-e-promete-fortalecer-hospital-santa-catarina.ghtml)_
+
+- **[2026-09-08 19:50 UTC]** Allyson Bezerra apresenta propostas para pessoas com deficiência e TEA
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/08/allyson-bezerra-apresenta-propostas-para-pessoas-com-deficiencia-e-tea.ghtml)_
+
+- **[2026-09-09 21:45 UTC]** Allyson Bezerra defende convocação de aprovados em concursos da segurança no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/09/allyson-bezerra-defende-convocacao-de-aprovados-em-concursos-da-seguranca-no-rn.ghtml)_
+
+- **[2026-09-10 21:41 UTC]** Allyson Bezerra faz carreata em Natal e apresenta proposta para capacitar jovens
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/10/allyson-bezerra-faz-carreata-em-natal-e-apresenta-proposta-para-capacitar-jovens.ghtml)_
+
+- **[2026-09-11 21:13 UTC]** Allyson Bezerra propõe mudanças no licenciamento ambiental em sabatina com empresários
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/11/allyson-bezerra-propoe-mudancas-no-licenciamento-ambiental-em-sabatina-com-empresarios.ghtml)_
+

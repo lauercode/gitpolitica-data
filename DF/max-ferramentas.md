@@ -17,3 +17,12 @@
 - **[2026-08-29 07:00 UTC]** Com IA, livros escritos por humanos podem se tornar 'produtos premium'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/com-ia-livros-escritos-por-humanos-podem-se-tornar-produtos-premium.shtml)_
 
+- **[2026-08-26 09:00 UTC]** É pit stop de Fórmula 1? Borracheiro surpreende pela rapidez ao encaixar pneus sem ferramentas; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/08/26/e-pit-stop-de-formula-1-borracheiro-surpreende-pela-rapidez-ao-encaixar-pneus-sem-ferramentas-video.ghtml)_
+
+- **[2026-09-09 07:54 UTC]** Fachin sob pressão e 'sem ferramentas': por que presidente do STF não consegue debelar crise às vésperas de eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-09 17:28 UTC]** Quais países têm os melhores resultados em ferramentas computacionais no Pisa 2025?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/quais-paises-tem-os-melhores-resultados-em-ferramentas-computacionais-no-pisa-2025.shtml)_
+

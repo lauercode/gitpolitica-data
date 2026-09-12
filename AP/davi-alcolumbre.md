@@ -77,3 +77,132 @@
 - **[2026-08-30 14:02 UTC]** Propostas para frear STF se multiplicam no Congresso, mas travam sob Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/propostas-para-frear-stf-se-multiplicam-no-congresso-mas-travam-sob-alcolumbre/)_
 
+- **[2026-08-30 03:00 UTC]** Eleições nos estados e comando do Congresso: o que está por trás da reaproximação de Lula com Alcolumbre e Motta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/30/eleicoes-nos-estados-e-comando-do-congresso-o-que-esta-por-tras-da-reaproximacao-de-lula-com-alcolumbre-e-motta.ghtml)_
+
+- **[2026-08-31 13:48 UTC]** Alcolumbre quer indicar Pacheco ao TCU sem sabatina e com aprovação em plenário até quarta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/alcolumbre-quer-indicar-pacheco-ao-tcu-sem-sabatina-e-com-aprovacao-em-plenario-ate-quarta.shtml)_
+
+- **[2026-09-01 01:33 UTC]** Alcolumbre indica Rodrigo Pacheco para vaga no TCU após saída de Bruno Dantas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/08/31/alcolumbre-indica-pacheco-para-vaga-no-tcu-apos-saida-de-bruno-dantas.ghtml)_
+
+- **[2026-08-31 22:21 UTC]** Alcolumbre indica Pacheco para vaga aberta no TCU com saída de Bruno Dantas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/alcolumbre-indica-pacheco-para-vaga-aberta-no-tcu-com-saida-de-bruno-dantas.shtml)_
+
+- **[2026-09-01 01:05 UTC]** Lula sela pacto com Hugo Motta e Alcolumbre para destravar projetos no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-sela-pacto-com-hugo-motta-e-alcolumbre-para-destravar-projetos-no-congresso/)_
+
+- **[2026-09-01 10:18 UTC]** Governo tenta driblar resistência de Alcolumbre para votar fim da escala 6x1 até 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-tenta-driblar-resistencia-de-alcolumbre-para-votar-fim-da-escala-6x1-ate-2o-turno.shtml)_
+
+- **[2026-09-01 09:23 UTC]** Alcolumbre oficializa indicação de Pacheco para o TCU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/alcolumbre-oficializa-indicacao-de-pacheco-para-o-tcu.shtml)_
+
+- **[2026-09-01 18:09 UTC]** Oposição cobra impeachment de Moraes, mas vê resistência de Alcolumbre e centrão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/oposicao-cobra-impeachment-de-moraes-mas-ve-resistencia-de-alcolumbre-e-centrao.shtml)_
+
+- **[2026-09-01 16:57 UTC]** Alcolumbre descarta dar andamento a novos pedidos de impeachment de Moraes e deve aguardar STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/alcolumbre-descarta-dar-andamento-a-novos-pedidos-de-impeachment-de-moraes-e-deve-aguardar-stf.shtml)_
+
+- **[2026-09-01 20:11 UTC]** Oposição articula impeachment de Moraes no Congresso e fala em colocar Alcolumbre sob pressão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-articula-impeachment-de-moraes-e-fala-em-colocar-alcolumbre-sob-pressao/)_
+
+- **[2026-09-02 00:25 UTC]** 'Isso não é normal', diz Alcolumbre sobre os 109 pedidos de impeachment contra ministro do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/01/isso-nao-e-normal-diz-alcolumbre-sobre-os-109-pedidos-de-impeachment-contra-ministro-do-stf.ghtml)_
+
+- **[2026-09-01 21:03 UTC]** Alcolumbre diz que quantidade de pedidos de impeachment do STF não é normal e não responde sobre Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-diz-que-quantidade-de-pedidos-de-impeachment-do-stf-nao-e-normal-e-nao-responde-sobre-moraes.shtml)_
+
+- **[2026-09-02 01:59 UTC]** Alcolumbre sinaliza que não pautará impeachment de Moraes e cita 109 pedidos contra STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-sinaliza-que-nao-pautara-impeachment-de-moraes-109-pedidos-contra-stf/)_
+
+- **[2026-09-02 17:45 UTC]** Oposição cobra Alcolumbre e diz querer investigação individualizada de autoridades para preservar instituições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/oposicao-cobra-alcolumbre-e-diz-querer-investigacao-individualizada-de-autoridades-para-preservar-instituicoes.ghtml)_
+
+- **[2026-09-02 22:43 UTC]** Alcolumbre diz que pedido de 'R$ 130 milhões' para filme é esquecido: 'Agora o culpado só é o Moraes'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/02/alcolumbre-diz-que-tem-sofrido-agressoes-e-r-130-milhoes-de-filme-sao-esquecidos-agora-o-culpado-sou-eu-e-o-ministro-moraes.ghtml)_
+
+- **[2026-09-02 19:41 UTC]** Alcolumbre cita dinheiro para 'Dark Horse' para responder à pressão por impeachment de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-cita-dinheiro-para-dark-horse-para-responder-a-pressao-por-impeachment-de-moraes.shtml)_
+
+- **[2026-09-02 19:38 UTC]** Governistas pressionam por fim da 6x1, mas evitam ataques a Alcolumbre após retomada de relação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governistas-pressionam-por-fim-da-6x1-mas-evitam-ataques-a-alcolumbre-apos-retomada-de-relacao.shtml)_
+
+- **[2026-09-03 00:05 UTC]** Lei dá à Mesa do Senado, e não a Alcolumbre, poder sobre pedido de impeachment
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/lei-da-a-mesa-do-senado-e-nao-a-alcolumbre-poder-sobre-pedido-de-impeachment/)_
+
+- **[2026-09-03 01:18 UTC]** Alcolumbre reage à pressão por impeachment de Moraes e alfineta Flávio por filme de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-reage-a-pressao-por-impeachment-de-moraes-e-alfineta-flavio-por-filme-de-bolsonaro/)_
+
+- **[2026-09-03 04:00 UTC]** Alcolumbre frustra governo Lula e deixa fim da 6x1 para depois do 1º turno da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/alcolumbre-frustra-governo-lula-e-deixa-fim-da-6x1-para-depois-do-1o-turno-da-eleicao.shtml)_
+
+- **[2026-09-03 13:10 UTC]** Para blindar Moraes, Alcolumbre manda recado para Flávio em tom de ameaça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/03/para-blindar-moraes-alcolumbre-manda-recado-para-flavio-em-tom-de-ameaca.ghtml)_
+
+- **[2026-09-03 11:40 UTC]** Alcolumbre frustra planos de Lula e adia votação do fim da 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-frustra-planos-de-lula-e-adia-votacao-do-fim-da-6x1/)_
+
+- **[2026-09-03 21:06 UTC]** Fim da 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/03/fim-da-6x1-alcolumbre-indica-que-proposta-que-reduz-jornada-de-trabalho-sera-votada-apos-as-eleicoes.ghtml)_
+
+- **[2026-09-03 22:04 UTC]** Sob pressão por Moraes, Alcolumbre reclama de ataques de colegas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sob-pressao-alcolumbre-diz-que-colegas-o-atacam-para-ganhar-voto/)_
+
+- **[2026-09-03 20:33 UTC]** Viana pede afastamento de Alcolumbre por não pautar impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/viana-pede-afastamento-de-alcolumbre-por-nao-pautar-impeachment-de-moraes/)_
+
+- **[2026-09-04 03:00 UTC]** Em relatório, PF indica assimetria em ações de Mendonça contra políticos e vê Alcolumbre como 'provável alvo estratégico'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/04/em-relatorio-pf-indica-assimetria-em-acoes-de-mendonca-contra-politicos-e-ve-alcolumbre-como-provavel-alvo-estrategico.ghtml)_
+
+- **[2026-09-04 02:34 UTC]** PF diz que Alcolumbre seria alvo de Mendonça em plano para recompor forças no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-diz-que-alcolumbre-seria-alvo-de-mendonca-em-plano-para-recompor-forcas-no-stf/)_
+
+- **[2026-09-04 19:14 UTC]** A senadores, Alcolumbre sinaliza abertura de processo de impeachment cruzado de Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/04/a-senadores-alcolumbre-sinaliza-abertura-de-processo-de-impeachment-cruzado-de-moraes-e-mendonca.ghtml)_
+
+- **[2026-09-04 15:54 UTC]** Alcolumbre e Moraes buscam autoproteção, diz Flávio Bolsonaro em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-e-moraes-buscam-autoprotecao-diz-flavio-bolsonaro-em-sp.shtml)_
+
+- **[2026-09-04 19:14 UTC]** Alcolumbre sinaliza que Mendonça também será alvo em caso de abertura de impeachment contra Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/09/04/a-senadores-alcolumbre-sinaliza-abertura-de-processo-de-impeachment-cruzado-de-moraes-e-mendonca.ghtml)_
+
+- **[2026-09-04 18:38 UTC]** Alcolumbre considera votar fim da 6x1 antes do segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/alcolumbre-considera-votar-fim-da-6x1-antes-do-segundo-turno.shtml)_
+
+- **[2026-09-05 13:32 UTC]** Flávio diz que Alcolumbre blinda Moraes e trava impeachment
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-diz-que-alcolumbre-blinda-moraes-e-trava-impeachment/)_
+
+- **[2026-09-07 10:29 UTC]** Lula participa de 7 de setembro com Motta, Alcolumbre e Fachin; evento terá recados sobre soberania e violência contra a mulher
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/lula-participa-de-desfile-de-7-de-setembro-com-recados-a-soberania-nacional-e-ao-enfrentamento-a-violencia-contra-mulheres.ghtml)_
+
+- **[2026-09-07 12:44 UTC]** Ato em Brasília reúne manifestantes em defesa do impeachment de Moraes e contra Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-em-brasilia-reune-manifestantes-em-defesa-do-impeachment-de-moraes-e-contra-alcolumbre/)_
+
+- **[2026-09-07 10:29 UTC]** Lula participa de 7 de setembro com Fachin, Alcolumbre e Motta; evento tem soberania como tema
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/07/lula-participa-de-desfile-de-7-de-setembro-com-recados-a-soberania-nacional-e-ao-enfrentamento-a-violencia-contra-mulheres.ghtml)_
+
+- **[2026-09-07 09:56 UTC]** Lula reúne Fachin, Alcolumbre e Motta em 7 de Setembro com gritos do público pelo fim da escala 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-reune-fachin-alcolumbre-e-motta-em-7-de-setembro-com-gritos-do-publico-pelo-fim-da-escala-6x1.shtml)_
+
+- **[2026-09-07 13:33 UTC]** Desfile de 7 de Setembro em Brasília reúne Lula, Fachin, Alcolumbre e Hugo Motta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/desfile-de-7-de-setembro-em-brasilia-reune-lula-fachin-alcolumbre-e-hugo-motta/)_
+
+- **[2026-09-07 12:44 UTC]** Atos em Brasília reúnem manifestantes em defesa do impeachment de Moraes e contra Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-em-brasilia-reune-manifestantes-em-defesa-do-impeachment-de-moraes-e-contra-alcolumbre/)_
+
+- **[2026-09-07 23:00 UTC]** Senadores admitem chance de impeachment no STF e veem Alcolumbre à espera das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/senadores-admitem-chance-de-impeachment-no-stf-e-veem-alcolumbre-a-espera-das-eleicoes.shtml)_
+
+- **[2026-09-08 23:18 UTC]** Senador pede impeachment de Moraes, prisão do diretor da PF e afastamento de Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-pede-impeachment-de-moraes-prisao-do-diretor-da-pf-e-afastamento-de-alcolumbre/)_
+
+- **[2026-09-10 20:50 UTC]** Crise no STF e protestos aumentam pressão sobre Alcolumbre pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-e-protestos-aumentam-pressao-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
+
+- **[2026-09-11 00:51 UTC]** Oposição senatorial intensifica cobrança sobre Alcolumbre pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
+
+- **[2026-09-11 00:51 UTC]** Senadores da oposição intensificam cobrança sobre Alcolumbre pelo impeachment de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
+

@@ -17,3 +17,27 @@
 - **[2026-08-30 12:00 UTC]** Correr faz mal aos joelhos? Tire dúvidas sobre a atividade física
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/correr-faz-mal-aos-joelhos-tire-duvidas-sobre-a-atividade-fisica.shtml)_
 
+- **[2026-08-29 10:00 UTC]** Caso Yasmin Macêdo: 'nada do que foi dito muda a verdade sobre quem ela era', diz mãe em carta aberta
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/08/29/caso-yasmin-macedo-nada-do-que-foi-dito-muda-a-verdade-sobre-quem-ela-era-diz-mae-em-carta-aberta.ghtml)_
+
+- **[2018-07-18 19:23 UTC]** Foi aprovada lei que proíbe rebocar veículos em blitz? Não é verdade!
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/e-ou-nao-e/noticia/2018/07/18/foi-aprovada-lei-que-proibe-rebocar-veiculos-em-blitze-nao-e-verdade.ghtml)_
+
+- **[2018-07-12 14:33 UTC]** Tigres escaparam do RioZoo? Não é verdade!
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/e-ou-nao-e/noticia/tigres-escaparam-do-riozoo-nao-e-verdade.ghtml)_
+
+- **[2026-09-06 21:00 UTC]** Audiência da Comissão Nacional Indígena da Verdade é marcada para 17 de novembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/audiencia-da-comissao-nacional-indigena-da-verdade-e-marcada-para-17-de-novembro.shtml)_
+
+- **[2026-09-07 08:29 UTC]** Guia Alimentar completa 20 anos de incentivo à comida de verdade
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/guia-alimentar-completa-20-anos-de-incentivo-comida-de-verdade)_
+
+- **[2026-09-08 14:16 UTC]** "Verdade prevalecerá", diz número 2 da PF após afastamento de Andrei
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/verdade-prevalecera-diz-numero-2-da-pf-apos-afastamento-de-andrei)_
+
+- **[2026-09-09 08:45 UTC]** Comissão da Verdade Indígena será tema de audiência na Câmara
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/comissao-da-verdade-indigena-sera-tema-de-audiencia-na-camara)_
+
+- **[2026-09-09 22:09 UTC]** Após guerra de liminares do STF, ministro da Justiça diz que PF busca a verdade “doa a quem doer”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-guerra-de-liminares-do-stf-ministro-da-justica-diz-que-pf-busca-a-verdade-doa-a-quem-doer/)_
+

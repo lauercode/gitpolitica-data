@@ -11,3 +11,27 @@
 - **[2026-08-30 09:30 UTC]** Miss que foi destronada após revelar gravidez é internada no Espírito Santo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/miss-que-foi-destronada-apos-revelar-gravidez-e-internada-no-espirito-santo.shtml)_
 
+- **[2026-08-30 17:15 UTC]** Miss capixaba destronada já sabia de gravidez antes de mundial, revela exame
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/08/miss-capixaba-destronada-ja-sabia-de-gravidez-antes-de-mundial-revela-exame.shtml)_
+
+- **[2026-08-31 14:00 UTC]** Após quase 40 anos, SBT volta a transmitir final do Miss Mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/08/apos-quase-40-anos-sbt-volta-a-transmitir-final-do-miss-mundo.shtml)_
+
+- **[2026-09-01 11:03 UTC]** Miss Cosmo: Paranaense vence estreia do concurso no Brasil e vai para mundial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/miss-cosmo-paranaense-vence-estreia-do-concurso-no-brasil-e-vai-para-mundial.shtml)_
+
+- **[2026-09-03 13:14 UTC]** Miss morre aos 42 anos em SC e filho revela um dos últimos pedidos dela: 'Toquei no piano do hospital'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/03/miss-morre-42-anos-sc-filho-revela-um-dos-ultimos-pedidos.ghtml)_
+
+- **[2026-09-03 15:30 UTC]** Cantora de death metal e miss com alopecia estão no elenco do Miss Mundo 2026 ; veja fotos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/cantora-de-death-metal-e-miss-com-alopecia-estao-no-elenco-do-miss-mundo-2026-veja-fotos.shtml)_
+
+- **[2026-09-05 16:27 UTC]** Miss Mundo 2026: República Dominicana vence pela 2ª vez; Brasil é Top 12
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/miss-mundo-2026-republica-dominicana-vence-pela-2a-vez-brasil-e-top-12.shtml)_
+
+- **[2026-09-06 13:00 UTC]** Quem é a nova Miss Mundo? Conheça a dominicana Joheirry Mola
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/quem-e-a-nova-miss-mundo-conheca-a-dominicana-joheirry-mola.shtml)_
+
+- **[2026-09-09 15:59 UTC]** Com problemas cardíacos, Miss Áustria morre aos 22 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/09/com-problemas-cardiacos-miss-austria-morre-aos-22-anos.shtml)_
+

@@ -8,3 +8,12 @@
 - **[2026-08-29 04:00 UTC]** Ney Matogrosso, com turnê aos 85, diz que idade não é obstáculo e rebate Xuxa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/ney-matogrosso-com-turne-aos-85-diz-que-idade-nao-e-obstaculo-e-rebate-xuxa.shtml)_
 
+- **[2026-09-03 19:15 UTC]** Boni conta o que aconteceu com as cartas enviadas para Xuxa na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/boni-conta-o-que-aconteceu-com-as-cartas-enviadas-para-xuxa-na-globo.shtml)_
+
+- **[2026-09-03 19:15 UTC]** Boni diz que vendeu cartas enviadas a Xuxa na Globo para reciclagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/boni-conta-o-que-aconteceu-com-as-cartas-enviadas-para-xuxa-na-globo.shtml)_
+
+- **[2026-09-07 15:12 UTC]** Candidato do Mobiliza ao Senado pelo AM, Xuxa do Amazonas propõe descentralizar saúde
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/candidato-do-mobiliza-ao-senado-pelo-am-xuxa-do-amazonas-propoe-descentralizar-saude.ghtml)_
+

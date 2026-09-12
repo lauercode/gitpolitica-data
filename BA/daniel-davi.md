@@ -20,3 +20,15 @@
 - **[2026-08-30 14:02 UTC]** Propostas para frear STF se multiplicam no Congresso, mas travam sob Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/propostas-para-frear-stf-se-multiplicam-no-congresso-mas-travam-sob-alcolumbre/)_
 
+- **[2026-08-24 22:36 UTC]** Quaest para o Senado em AL: Arthur Lira, 20%; Renan, 18%; Marina JHC, 15%; Davi Davino, 10%; Dr. Wanderley, 5%
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/24/quaest-al-senado-24-agosto.ghtml)_
+
+- **[2018-03-23 17:08 UTC]** Campo Grande tem Bruninho e Davi, teatro com Mônica Martelli e DJ Vinne no fim de semana
+  _fonte: [G1 - Regiões: Mato Grosso](https://g1.globo.com/mato-grosso-do-sul/noticia/campo-grande-tem-bruninho-e-davi-teatro-com-monica-martelli-e-dj-vinne-no-fim-de-semana.ghtml)_
+
+- **[2026-09-02 19:39 UTC]** Davi Davino defende tarifa zero e reforma administrativa
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/02/davi-davino-defende-tarifa-zero-e-reforma-administrativa.ghtml)_
+
+- **[2026-09-05 20:00 UTC]** Lagosta, camarão e decoração de R$ 240 mil: veja fotos do casamento de Davi Brito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/lagosta-camarao-e-decoracao-de-r-240-mil-veja-fotos-do-casamento-de-davi-brito.shtml)_
+

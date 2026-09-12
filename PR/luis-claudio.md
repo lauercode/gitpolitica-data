@@ -14,3 +14,18 @@
 - **[2026-08-29 19:03 UTC]** Candidatos ajeitam a maquiagem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/08/candidatos-ajeitam-a-maquiagem.shtml)_
 
+- **[2026-09-02 00:24 UTC]** Presidente do Conselho do Einstein, Claudio Lottenberg é afastado do cargo durante o período eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/01/presidente-do-conselho-do-einstein-claudio-lottenberg-e-afastado-do-cargo-durante-o-periodo-eleitoral.ghtml)_
+
+- **[2026-09-03 07:38 UTC]** 'É a maior crise do STF': Gonet deveria se afastar do caso Master e Moraes precisa ser investigado, afirma ex-PGR Claudio Fonteles
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2zgjg308ko?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-03 21:04 UTC]** PF descreve gastos de Claudio Castro com caviar, adega e imóveis em inquérito sobre Refit
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pf-descreve-gastos-de-claudio-castro-com-caviar-adega-e-imoveis-em-inquerito-sobre-refit.shtml)_
+
+- **[2026-09-08 00:41 UTC]** Claudio Lottenberg: quem é o “Posto Ipiranga” de Flávio para a Saúde
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/claudio-lottenberg-quem-e-posto-ipiranga-de-flavio-para-saude/)_
+
+- **[2026-09-10 10:55 UTC]** Morre aos 93 anos Claudio Carsughi, figura marcante do jornalismo esportivo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/morre-aos-93-anos-claudio-carsughi-figura-marcante-do-jornalismo-esportivo.shtml)_
+

@@ -35,3 +35,57 @@
 - **[2026-08-30 05:00 UTC]** Tempo em SP continua abafado com sol entre nuvens neste domingo (30)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/tempo-em-sp-continua-abafado-com-sol-entre-nuvens-neste-domingo-30.shtml)_
 
+- **[2026-08-31 19:10 UTC]** Rio Acre fica abaixo de 2 metros pela 3ª vez em 2026 na capital
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/rio-acre-fica-abaixo-de-2-metros-pela-3a-vez-em-2026-na-capital.ghtml)_
+
+- **[2026-08-26 14:42 UTC]** Veja o que abre e fecha em Maceió durante feriado de Nossa Senhora dos Prazeres, padroeira da capital
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/08/26/veja-o-que-abre-e-fecha-em-maceio-durante-feriado-de-nossa-senhora-dos-prazeres-padroeira-da-capital.ghtml)_
+
+- **[2026-08-29 00:06 UTC]** No 1º guia eleitoral do AP, Dr. Furlan destaca obras na capital e Clécio Luís aposta em histórias de eleitores
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/28/no-1o-guia-eleitoral-do-ap-dr-furlan-destaca-gestao-na-capital-e-clecio-luis-aposta-em-historias-de-eleitores.ghtml)_
+
+- **[2017-04-21 08:00 UTC]** As outras 'Brasílias': veja como seria a capital dos concorrentes de Lucio Costa
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/as-outras-brasilias-veja-como-seria-a-capital-dos-concorrentes-de-lucio-costa.ghtml)_
+
+- **[2017-04-18 16:12 UTC]** Brasília é a capital que mais consome frutas e verduras, aponta ministério
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/brasilia-e-a-capital-que-mais-consome-frutas-e-verduras-aponta-ministerio-da-saude.ghtml)_
+
+- **[2026-08-29 19:26 UTC]** João Pessoa é a capital do Nordeste com maior crescimento populacional, aponta IBGE
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/08/29/joao-pessoa-e-capital-do-nordeste-com-maior-crescimento-populacional-aponta-ibge.ghtml)_
+
+- **[2026-08-31 19:55 UTC]** Homicídios e roubos caem em SP em julho; estupros aumentam na capital e no estado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/homicidios-e-roubos-caem-em-sp-em-julho-estupros-aumentam-na-capital-e-no-estado.shtml)_
+
+- **[2026-09-01 06:01 UTC]** Capital paulista tem alerta para alagamentos na madrugada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/capital-paulista-tem-alerta-para-alagamentos-em-todas-as-regioes.shtml)_
+
+- **[2026-09-03 13:45 UTC]** Déficit comercial dos EUA cresce 24,4% em julho, com recorde nas importações de bens de capital
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/deficit-comercial-dos-eua-cresce-244-em-julho-com-recorde-nas-importacoes-de-bens-de-capital.shtml)_
+
+- **[2026-09-05 01:02 UTC]** Com falhas no som, Capital Inicial canta com Dado Villa-Lobos no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/com-falhas-no-som-capital-inicial-canta-com-dado-villa-lobos-no-rock-in-rio.shtml)_
+
+- **[2026-09-05 05:00 UTC]** Calor extremo ameaça a capital da pimenta do Paquistão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/calor-extremo-ameaca-a-capital-da-pimenta-do-paquistao.shtml)_
+
+- **[2026-09-06 19:12 UTC]** Mais de 90% da chuva de agosto caiu em apenas dois dias na capital, diz Defesa Civil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/06/mais-de-90percent-da-chuva-de-agosto-caiu-em-apenas-dois-dias-na-capital-diz-defesa-civil.ghtml)_
+
+- **[2026-09-07 11:16 UTC]** Morango cravejado: na Capital do Doce, sucesso de vendas faz produtores buscarem até forno industrial para aumentar produção
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/07/morango-cravejado-na-capital-do-doce-sucesso-de-vendas-faz-produtores-buscarem-ate-forno-industrial-para-aumentar-producao.ghtml)_
+
+- **[2026-09-08 00:53 UTC]** Desfile de 7 de Setembro reúne multidão no Centro da capital do Acre; VÍDEOS
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/07/desfile-de-7-de-setembro-reune-multidao-no-centro-da-capital-do-acre-videos.ghtml)_
+
+- **[2026-09-08 10:06 UTC]** São Luís completa 414 anos; veja o antes e depois de pontos históricos da capital
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/sao-luis-completa-414-anos-veja-o-antes-e-depois-de-pontos-historicos-da-capital.ghtml)_
+
+- **[2026-09-08 10:04 UTC]** São Luís 414 anos: como a capital maranhense virou a ‘Jamaica Brasileira’
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/08/sao-luis-414-anos-como-a-capital-maranhense-virou-a-jamaica-brasileira.ghtml)_
+
+- **[2026-09-08 23:00 UTC]** Aperto de regras do BC para capital de bancos entra no radar para conter endividamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/aperto-de-regras-do-bc-para-capital-de-bancos-entra-no-radar-para-conter-endividamento.shtml)_
+
+- **[2026-09-11 15:55 UTC]** Fim de semana na capital paulista terá chuva forte e rajadas de vento
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/fim-de-semana-na-capital-paulista-tera-chuva-forte-e-rajadas-de-vento)_
+

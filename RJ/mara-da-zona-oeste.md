@@ -17,3 +17,30 @@
 - **[2026-08-30 11:00 UTC]** Interior ganha impulso com agro, e produtividade do Brasil muda de endereço
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/agro-impulsiona-interior-e-faz-produtividade-do-brasil-mudar-de-endereco.shtml)_
 
+- **[2018-07-12 20:59 UTC]** ES entra na Justiça para barrar investimento em ferrovia no Centro-Oeste
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/noticia/es-entra-na-justica-para-barrar-investimento-em-ferrovia-no-centro-oeste.ghtml)_
+
+- **[2017-07-06 11:54 UTC]** Empresa de tecnologia de MS é a 4ª melhor para trabalhar no Centro-Oeste
+  _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/digix/noticia/2017/07/empresa-de-tecnologia-de-ms-e-4-melhor-para-trabalhar-no-centro-oeste.html)_
+
+- **[2018-05-28 12:47 UTC]** Manifestações chegam ao 8º dia no Centro-Oeste de MG e serviços essenciais seguem afetados
+  _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/mg/centro-oeste/noticia/manifestacoes-chegam-ao-8-dia-no-centro-oeste-de-mg-e-servicos-essenciais-seguem-afetados.ghtml)_
+
+- **[2026-09-02 08:16 UTC]** Quarta-feira é de chuvas no Sudeste, Centro-Oeste e sul do Nordeste
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/quarta-feira-e-de-chuvas-no-sudeste-centro-oeste-e-sul-do-nordeste)_
+
+- **[2026-09-03 08:05 UTC]** Frente fria leva chuva ao Centro-Oeste e parte do Norte do país
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/frente-fria-leva-chuva-ao-centro-oeste-e-parte-do-norte-do-pais)_
+
+- **[2026-09-03 08:05 UTC]** Frente fria leva chuva ao Sudeste e parte do Centro-Oeste
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/frente-fria-leva-chuva-ao-sudeste-e-parte-do-centro-oeste)_
+
+- **[2026-09-05 12:30 UTC]** No céu das lavouras: drones transformam o agro do Oeste do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/fag-centro-universitario-city-farm/noticia/2026/09/05/no-ceu-das-lavouras-drones-transformam-o-agro-do-oeste-do-parana.ghtml)_
+
+- **[2026-09-06 16:03 UTC]** Adolescente morre afogado em balneário de Santa Luzia d'Oeste, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/06/adolescente-morre-afogado-em-balneario-de-santa-luzia-doeste-ro.ghtml)_
+
+- **[2026-09-10 13:48 UTC]** Homem de 54 anos é preso sob suspeita de estuprar adolescente por três dias na zona oeste do RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/homem-de-54-anos-e-preso-sob-suspeita-de-estuprar-adolescente-por-tres-dias-na-zona-oeste-do-rj.shtml)_
+

@@ -23,3 +23,63 @@
 - **[2026-08-30 11:08 UTC]** O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/o-plano-bilionario-da-china-para-fazer-uma-nova-revolucao-industrial-com-milhoes-de-robos.shtml)_
 
+- **[2018-07-10 16:44 UTC]** Menino que perdeu a mãe, o pai e os irmãos em acidente na BR-080 segue  internado e ainda não sabe sobre mortes, diz tia
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/go/goias/transito/noticia/menino-que-perdeu-a-mae-o-pai-e-os-irmaos-em-acidente-na-br-080-segue-internado-e-ainda-nao-sabe-sobre-mortes-diz-tia.ghtml)_
+
+- **[2026-08-24 09:00 UTC]** O que se sabe sobre influenciador e investigador presos por roubo de R$ 800 mil e ouro em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/o-que-se-sabe-sobre-influenciador-e-investigador-presos-por-roubo-de-r-800-mil-e-ouro-em-roraima.ghtml)_
+
+- **[2026-08-27 16:14 UTC]** Bancário de SP desaparecido após deixar hostel em Florianópolis: o que se sabe e o que falta saber
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/bancario-de-sp-desaparecido-em-florianopolis-o-que-falta-saber.ghtml)_
+
+- **[2026-09-01 10:00 UTC]** O que se sabe sobre acidente que matou três pessoas em saída de festa no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/01/o-que-se-sabe-sobre-acidente-que-matou-tres-pessoas-em-saida-de-festa-no-acre.ghtml)_
+
+- **[2026-09-01 10:40 UTC]** O que já se sabe sobre o desaparecimento de quatro turistas em cânion do RS; todos foram encontrados com vida
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/01/turistas-desaparecem-trilha-canion-morrinhos-sul.ghtml)_
+
+- **[2026-09-02 03:00 UTC]** Aeroporto de Florianópolis terá voo direto para Assunção, no Paraguai, no verão; veja o que se sabe
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/02/aeroporto-de-florianopolis-tera-voo-direto-para-assuncao-no-paraguai-no-verao-veja-o-que-se-sabe.ghtml)_
+
+- **[2026-09-02 17:37 UTC]** Perseguição e 'ameaças espirituais': veja o que se sabe sobre o líder religioso que responde por 19 crimes
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/02/perseguicao-e-ameacas-espirituais-veja-o-que-se-sabe-sobre-o-lider-religioso-que-responde-por-19-crimes.ghtml)_
+
+- **[2026-09-03 21:14 UTC]** O que se sabe sobre acidente que matou músico Diego Sanches a caminho de show em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/03/o-que-se-sabe-sobre-acidente-que-matou-musico-diego-sanches-a-caminho-de-show-em-porto-alegre.ghtml)_
+
+- **[2026-09-04 19:58 UTC]** Caso Maria Ramona: o que se sabe sobre assassinato de jovem em apartamento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/04/caso-maria-ramona-o-que-se-sabe-sobre-assassinato-de-jovem-em-apartamento-no-acre.ghtml)_
+
+- **[2026-09-05 12:00 UTC]** O que se sabe sobre explosão na Bolívia que deixou ao menos 2 mortos e 81 feridos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-06 04:00 UTC]** O que se sabe sobre o potencial anti-inflamatório das canetas emagrecedoras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/o-que-se-sabe-sobre-o-potencial-anti-inflamatorio-das-canetas-emagrecedoras.shtml)_
+
+- **[2026-09-05 12:00 UTC]** O que se sabe sobre explosão na Bolívia que deixou ao menos 3 mortos e 81 feridos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-07 18:40 UTC]** Jovem morta pelo ex-companheiro no TO foi atraída com promessa de divisão de bens; veja o que se sabe
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/07/jovem-morta-pelo-ex-companheiro-no-to-foi-atraida-com-promessa-de-divisao-de-bens-veja-o-que-se-sabe.ghtml)_
+
+- **[2026-09-07 19:32 UTC]** Pessoas continuam entrando em bueiros de Nova York e ninguém sabe por quê
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/pessoas-continuam-entrando-em-bueiros-de-nova-york-e-ninguem-sabe-por-que.shtml)_
+
+- **[2026-09-09 03:00 UTC]** Médica morta no Paraná e marido preso por feminicídio: o que se sabe e o que falta esclarecer sobre o caso
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/09/medica-morta-no-parana-e-marido-preso-por-feminicidio-o-que-se-sabe-e-o-que-falta-esclarecer-sobre-o-caso.ghtml)_
+
+- **[2026-09-09 19:39 UTC]** Recursos para 'Dark Horse', malas para dinheiro vivo e repasses nas Bahamas: o que se sabe da delação de empresário ligado a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/09/recursos-para-dark-horse-malas-para-dinheiro-vivo-e-repasses-nas-bahamas-o-que-se-sabe-da-delacao-de-empresario-ligado-a-vorcaro.ghtml)_
+
+- **[2026-09-10 18:46 UTC]** Entenda o que se sabe sobre o caso 'Dark Horse' e a relação com o Banco Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-se-sabe-sobre-o-caso-dark-horse-e-a-relacao-com-o-banco-master.shtml)_
+
+- **[2026-09-11 07:00 UTC]** Crianças e adolescente furtam carro e dirigem por Florianópolis: o que se sabe e o que falta saber
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/criancas-adolescente-furtam-carro-dirigem-florianopolis-o-que-se-sabe-o-que-falta-saber.ghtml)_
+
+- **[2026-09-11 09:00 UTC]** Caso Davi Lucas: O que se sabe sobre menino de 3 anos que morreu com sinais de espancamento no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/caso-davi-lucas-o-que-se-sabe-sobre-menino-de-3-anos-que-morreu-com-sinais-de-espancamento-no-acre.ghtml)_
+
+- **[2026-09-11 23:43 UTC]** Mendonça libera sigilo de inquérito sobre 'Dark Horse' e outros processos no STF; o que se sabe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss)_
+
