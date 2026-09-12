@@ -23,3 +23,6 @@
 - **[2026-09-12 00:08 UTC]** Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-12 01:27 UTC]** O que diz inquérito sobre relação de Jaques Wagner com Banco Master e Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz6znw0ev0vo?at_medium=RSS&at_campaign=rss)_
+
