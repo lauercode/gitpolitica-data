@@ -44,3 +44,6 @@
 - **[2026-09-10 22:24 UTC]** Eleições 2026 em SC: João Rodrigues participa de caminhada e bandeiraço em São Joaquim, na Serra
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-joao-rodrigues-participa-de-caminhada-e-bandeiraco-em-sao-joaquim-na-serra.ghtml)_
 
+- **[2026-09-11 22:46 UTC]** Eleições 2026 em SC: João Rodrigues conversa com trabalhadores do setor de móveis e colchões
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-em-sc-joao-rodrigues-conversa-com-trabalhadores-do-setor-de-moveis-e-colchoes.ghtml)_
+
