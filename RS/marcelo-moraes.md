@@ -1550,3 +1550,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 18:01 UTC]** Sessão do STF que decidirá sobre investigação contra Moraes terá segurança reforçada
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sessao-do-stf-que-decidira-sobre-investigacao-contra-moraes-tera-seguranca-reforcada/)_
 
+- **[2026-09-12 17:32 UTC]** Em ato no RJ, Flávio Bolsonaro ataca Moraes e diz que fim do sigilo do caso Master terá 'impacto zero'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/em-ato-no-rj-flavio-bolsonaro-ataca-moraes-e-diz-que-fim-do-sigilo-do-caso-master-tera-impacto-zero.ghtml)_
+
