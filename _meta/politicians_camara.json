@@ -760,7 +760,8 @@
     "role": "Deputado(a) Federal (PB)",
     "party": "PL",
     "aliases": [
-      "Cabo Gilberto Silva"
+      "Cabo Gilberto Silva",
+      "Silva"
     ],
     "camara_id": 220574
   },
@@ -781,7 +782,8 @@
     "role": "Deputado(a) Federal (AM)",
     "party": "PL",
     "aliases": [
-      "Capitão Alberto Neto"
+      "Capitão Alberto Neto",
+      "Neto"
     ],
     "camara_id": 204572
   },
@@ -1354,7 +1356,8 @@
     "role": "Deputado(a) Federal (GO)",
     "party": "PT",
     "aliases": [
-      "Delegada Adriana Accorsi"
+      "Delegada Adriana Accorsi",
+      "Accorsi"
     ],
     "camara_id": 220565
   },
@@ -1384,7 +1387,8 @@
     "role": "Deputado(a) Federal (SP)",
     "party": "PODE",
     "aliases": [
-      "Delegado Bruno Lima"
+      "Delegado Bruno Lima",
+      "Lima"
     ],
     "camara_id": 220642
   },
@@ -1404,7 +1408,8 @@
     "role": "Deputado(a) Federal (SP)",
     "party": "UNIÃO",
     "aliases": [
-      "Delegado da Cunha"
+      "Delegado da Cunha",
+      "Cunha"
     ],
     "camara_id": 220649
   },
@@ -1414,7 +1419,8 @@
     "role": "Deputado(a) Federal (PA)",
     "party": "PL",
     "aliases": [
-      "Delegado Éder Mauro"
+      "Delegado Éder Mauro",
+      "Mauro"
     ],
     "camara_id": 178908
   },
@@ -1424,7 +1430,8 @@
     "role": "Deputado(a) Federal (AL)",
     "party": "PP",
     "aliases": [
-      "Delegado Fabio Costa"
+      "Delegado Fabio Costa",
+      "Costa"
     ],
     "camara_id": 220583
   },
@@ -1434,7 +1441,8 @@
     "role": "Deputado(a) Federal (MG)",
     "party": "UNIÃO",
     "aliases": [
-      "Delegado Marcelo Freitas"
+      "Delegado Marcelo Freitas",
+      "Freitas"
     ],
     "camara_id": 204512
   },
@@ -1444,7 +1452,8 @@
     "role": "Deputado(a) Federal (PR)",
     "party": "UNIÃO",
     "aliases": [
-      "Delegado Matheus Laiola"
+      "Delegado Matheus Laiola",
+      "Laiola"
     ],
     "camara_id": 220701
   },
@@ -1464,7 +1473,8 @@
     "role": "Deputado(a) Federal (SP)",
     "party": "PL",
     "aliases": [
-      "Delegado Paulo Bilynskyj"
+      "Delegado Paulo Bilynskyj",
+      "Bilynskyj"
     ],
     "camara_id": 220654
   },
@@ -1615,8 +1625,7 @@
     "role": "Deputado(a) Federal (RJ)",
     "party": "PL",
     "aliases": [
-      "Dr Flávio",
-      "Flávio"
+      "Dr Flávio"
     ],
     "camara_id": 227991
   },
@@ -1856,8 +1865,7 @@
     "role": "Deputado(a) Federal (RJ)",
     "party": "PCdoB",
     "aliases": [
-      "Enfermeira Rejane",
-      "Rejane"
+      "Enfermeira Rejane"
     ],
     "camara_id": 230765
   },
@@ -4183,7 +4191,8 @@
     "role": "Deputado(a) Federal (RJ)",
     "party": "PSOL",
     "aliases": [
-      "Pastor Henrique Vieira"
+      "Pastor Henrique Vieira",
+      "Vieira"
     ],
     "camara_id": 220615
   },
@@ -4193,7 +4202,8 @@
     "role": "Deputado(a) Federal (BA)",
     "party": "AVANTE",
     "aliases": [
-      "Pastor Sargento Isidório"
+      "Pastor Sargento Isidório",
+      "Isidório"
     ],
     "camara_id": 204553
   },
@@ -4507,7 +4517,8 @@
     "role": "Deputado(a) Federal (SP)",
     "party": "PSOL",
     "aliases": [
-      "Professora Luciene Cavalcante"
+      "Professora Luciene Cavalcante",
+      "Cavalcante"
     ],
     "camara_id": 221338
   },
