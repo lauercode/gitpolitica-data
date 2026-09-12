@@ -32,3 +32,6 @@
 - **[2026-09-12 14:54 UTC]** Apartamento, aviões e Taylor Swift: O esquema e as trocas entre Jaques Wagner e cúpula do Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apartamento-avioes-e-taylor-swift-o-esquema-e-as-trocas-entre-jaques-wagner-e-cupula-do-master/)_
 
+- **[2026-09-12 15:39 UTC]** Caso Master: Mendonça bloqueou R$ 5,9 milhões em bens de Jaques Wagner
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/caso-master-mendona-bloqueou-r-59-milhes-em-bens-de-jaques-wagner.ghtml)_
+
