@@ -38,3 +38,6 @@
 - **[2026-09-12 18:55 UTC]** Polícia Federal aponta indícios de corrupção entre Jaques Wagner e Banco Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-aponta-indicios-de-corrupcao-entre-jaques-wagner-e-banco-master/)_
 
+- **[2026-09-12 21:27 UTC]** PF diz que suspeitos usaram linguagem cifrada em negociação de apartamento para Jaques Wagner
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pf-diz-que-suspeitos-usaram-linguagem-cifrada-em-negociao-de-apartamento-para-jaques-wagner.ghtml)_
+
