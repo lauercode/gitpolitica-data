@@ -47,3 +47,6 @@
 - **[2026-09-11 21:07 UTC]** TSE forma maioria para rejeitar registro de candidatura de Pablo Marçal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/tse-forma-maioria-para-rejeitar-registro-de-candidatura-de-pablo-maral.ghtml)_
 
+- **[2026-09-12 03:00 UTC]** Datafolha 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião no cenário sem Pablo Marçal
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/12/datafolha-1o-turno-11-setembro-recortes-cenario1.ghtml)_
+
