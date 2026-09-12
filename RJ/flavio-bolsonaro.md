@@ -1073,3 +1073,6 @@
 - **[2026-09-12 00:28 UTC]** Defesa de Flávio fez 4 pedidos seguidos para caso 'Dark Horse' ficar com Mendonça em vez de Dino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/defesa-de-flavio-fez-4-pedidos-seguidos-para-caso-dark-horse-ficar-com-mendonca-em-vez-de-dino.shtml)_
 
+- **[2026-09-12 06:47 UTC]** Defesa de Flávio tentou 4 vezes tirar de Dino investigação sobre "Dark Horse"
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/defesa-de-flvio-tentou-4-vezes-tirar-de-dino-investigao-sobre-dark-horse.ghtml)_
+
