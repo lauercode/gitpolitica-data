@@ -1505,3 +1505,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 00:28 UTC]** Possível interferência de Moraes pode ter contribuído para maior rombo bancário do Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/moraes-vorcaro-banco-master/)_
 
+- **[2026-09-11 22:01 UTC]** Gilmar sugere que Fachin assuma casos sobre Moraes e Mendonça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/gilmar-sugere-que-fachin-assuma-casos-sobre-moraes-e-mendonca.ghtml)_
+
