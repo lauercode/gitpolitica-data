@@ -29,3 +29,6 @@
 - **[2026-09-11 23:01 UTC]** Mendonça tira sigilo de investigações sobre 'Dark Horse', Ciro Nogueira, Jaques Wagner e Claudio Castro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/mendonca-atende-pgr-e-tira-sigilo-de-investigacoes-de-dark-horse-ciro-nogueira-e-claudio-castro.ghtml)_
 
+- **[2026-09-12 14:54 UTC]** Apartamento, aviões e Taylor Swift: O esquema e as trocas entre Jaques Wagner e cúpula do Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apartamento-avioes-e-taylor-swift-o-esquema-e-as-trocas-entre-jaques-wagner-e-cupula-do-master/)_
+
