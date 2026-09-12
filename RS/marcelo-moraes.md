@@ -1499,3 +1499,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 20:51 UTC]** Gilmar Mendes pede que Fachin unifique petições de Moraes e Mendonça
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/gilmar-mendes-pede-que-fachin-unifique-peticoes-de-moraes-e-mendonca)_
 
+- **[2026-09-12 01:32 UTC]** Escritório de esposa de Moraes assinou contrato milionário com o Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/escritorio-de-esposa-de-moraes-assinou-contrato-milionario-com-o-banco-master/)_
+
