@@ -128,3 +128,6 @@
 - **[2026-09-11 20:48 UTC]** Professor é preso no Amapá suspeito de aliciar menores em esquema de tráfico de drogas
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/11/professor-e-preso-no-amapa-suspeito-de-aliciar-menores-em-esquema-de-trafico-de-drogas.ghtml)_
 
+- **[2026-09-11 23:10 UTC]** TRF-5 condena professor de SE por constrangimento e importunação sexual contra estudantes adolescentes
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/trf-5-condena-professor-de-se-por-constrangimento-e-importunacao-sexual-contra-estudantes-adolescentes.ghtml)_
+
