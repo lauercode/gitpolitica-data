@@ -1559,3 +1559,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 16:33 UTC]** Datafolha: 34% querem o afastamento de Moraes e 37%, o de Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-34-querem-o-afastamento-de-moraes-e-37-o-de-mendonca.shtml)_
 
+- **[2026-09-12 15:52 UTC]** Flávio e Moraes ganham apoios de quem tem memória e ideias seletivas sobre democracia e república
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/flavio-e-moraes-ganham-apoios-de-quem-tem-memoria-e-ideias-seletivas-sobre-democracia-e-republica.shtml)_
+
