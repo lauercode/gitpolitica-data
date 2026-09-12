@@ -254,3 +254,6 @@
 - **[2026-09-11 22:00 UTC]** Cury cobra que análise do STF sobre Moraes seja televisionada
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/cury-cobra-que-analise-do-stf-sobre-moraes-seja-televisionada.ghtml)_
 
+- **[2026-09-12 11:48 UTC]** Lula, Caiado, Cury e Zema reagem à quebra de sigilo das investigações do Caso Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/lula-caiado-cury-e-zema-reagem-quebra-de-sigilo-das-investigaes-do-caso-master.ghtml)_
+
