@@ -1541,3 +1541,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 14:25 UTC]** Fachin nega pedido de Moraes para julgamento conjunto com Mendonça
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/fachin-nega-julgamento-conjunto-de-moraes-e-mendonca.ghtml)_
 
+- **[2026-09-12 13:26 UTC]** Flávio e Moraes receberam a mesma grana do mesmo esquema
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/09/flavio-e-moraes-receberam-a-mesma-grana-do-mesmo-esquema.shtml)_
+
