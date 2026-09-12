@@ -1130,3 +1130,6 @@
 - **[2026-09-12 13:57 UTC]** Campanha de Lula faz força-tarefa após queda de sigilo do Master e deve incluir novos ataques a Flávio no horário eleitoral
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/campanha-de-lula-faz-fora-tarefa-aps-queda-de-sigilo-do-master-e-deve-incluir-novos-ataques-a-flvio-no-horrio-eleitoral.ghtml)_
 
+- **[2026-09-12 10:25 UTC]** Flávio Bolsonaro investigado: veja o que documentos do caso Master revelam até agora
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/quebra-de-sigilo-expoe-flavio-bolsonaro-investigado-entenda.ghtml)_
+
