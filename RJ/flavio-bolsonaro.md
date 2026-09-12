@@ -1022,3 +1022,6 @@
 - **[2026-09-11 15:01 UTC]** PGR atende à PF para investigar propostas de Flávio e Frias no Congresso de interesse do Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-atende-pf-investigar-propostas-flavio-frias-congresso-interesse-master/)_
 
+- **[2026-09-11 13:26 UTC]** Lula perdeu a vantagem sobre Flávio no 2º turno, dizem pesquisas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/lula-perdeu-vantagem-sobre-flavio-segundo-turno-pesquisas-eleitorais-presidente/)_
+
