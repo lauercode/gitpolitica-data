@@ -1493,3 +1493,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 20:29 UTC]** STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-gilmar-mendes-sugere-adiar-sessao-sobre-conduta-de-moraes)_
 
+- **[2026-09-11 21:11 UTC]** STF: Moraes e Mendonça trocam farpas em mensagens enviadas a Fachin
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-moraes-e-mendonca-trocam-farpas-em-mensagens-enviadas-fachin)_
+
