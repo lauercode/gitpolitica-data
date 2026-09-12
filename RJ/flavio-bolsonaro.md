@@ -1160,3 +1160,6 @@
 - **[2026-09-12 16:29 UTC]** Cachê de Jim Caviezel como Bolsonaro próximo ao de Joaquin Phoenix em 'Coringa': os valores pedidos por Flávio a Vorcaro para fazer 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/cache-de-jim-caviezel-como-bolsonaro-proximo-ao-de-joaquin-phoenix-em-coringa-os-valores-pedidos-por-flavio-a-vorcaro-para-fazer-dark-horse.shtml)_
 
+- **[2026-09-12 15:52 UTC]** Flávio e Moraes ganham apoios de quem tem memória e ideias seletivas sobre democracia e república
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/flavio-e-moraes-ganham-apoios-de-quem-tem-memoria-e-ideias-seletivas-sobre-democracia-e-republica.shtml)_
+
