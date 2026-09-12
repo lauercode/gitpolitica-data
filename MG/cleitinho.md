@@ -56,3 +56,6 @@
 - **[2026-09-11 17:12 UTC]** Datafolha: Cleitinho mantém liderança em MG com 37%; Patrus tem 13%, Kalil, 11%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-cletinho-tem-37-e-mantem-lideranca-em-corrida-pelo-governo-de-mg.shtml)_
 
+- **[2026-09-11 20:47 UTC]** Datafolha: Cleitinho tem 37%, Patrus tem 13% e Kalil, 11% na disputa ao governo de MG
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/datafolha-cleitinho-tem-37percent-patrus-tem-13percent-e-kalil-11percent-na-disputa-ao-governo-de-mg.ghtml)_
+
