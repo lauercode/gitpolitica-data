@@ -1082,3 +1082,6 @@
 - **[2026-09-12 04:21 UTC]** Relatório da PF sobre “Dark Horse” mostra mensagens de Flávio cobrando Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/relatrio-da-pf-sobre-dark-horse-mostra-mensagens-de-flvio-cobrando-vorcaro.ghtml)_
 
+- **[2026-09-12 08:00 UTC]** Campanha de Lula dirá na TV que Flávio Bolsonaro não pode combater crime por ter relação com investigados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-lula-dira-na-tv-que-flavio-bolsonaro-nao-pode-combater-crime-por-ter-relacao-com-investigados.shtml)_
+
