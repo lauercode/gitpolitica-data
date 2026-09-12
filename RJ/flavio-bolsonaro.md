@@ -1067,3 +1067,6 @@
 - **[2026-09-11 21:37 UTC]** Recrutador de influenciadores para Vorcaro disse que também trabalhava com redes sociais de Flávio, aponta PF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/recrutador-de-influenciadores-para-vorcaro-disse-que-tambm-trabalhava-com-redes-sociais-de-flvio-aponta-pf.ghtml)_
 
+- **[2026-09-12 06:16 UTC]** Defesa de Flávio Bolsonaro tentou quatro vezes redirecionar de Dino para Mendonça investigação sobre 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/defesa-de-flavio-bolsonaro-tentou-quatro-vezes-redirecionar-de-dino-para-mendonca-investigacao-sobre-filme.ghtml)_
+
