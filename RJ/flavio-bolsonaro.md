@@ -1046,3 +1046,6 @@
 - **[2026-09-12 00:50 UTC]** 6 perguntas para entender inquérito contra Flávio Bolsonaro — e o que falta ser esclarecido
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2018-05-07 06:51 UTC]** Flávio Canto participa de atividades do Tamar em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/flavio-canto-participa-de-atividades-do-tamar-em-fernando-de-noronha.html)_
+
