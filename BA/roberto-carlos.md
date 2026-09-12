@@ -11,3 +11,6 @@
 - **[2026-09-10 15:00 UTC]** Michel Teló mistura tribos em disco que vai de Só Pra Contrariar a Roberto Carlos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/michel-telo-mistura-tribos-em-disco-que-vai-de-so-pra-contrariar-a-roberto-carlos.shtml)_
 
+- **[2026-09-11 23:20 UTC]** Companhia de dança apresenta músicas de Roberto Carlos e espetáculo infantil no Mormaço
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/companhia-de-danca-apresenta-musicas-de-roberto-carlos-e-espetaculo-infantil-no-mormaco.ghtml)_
+
