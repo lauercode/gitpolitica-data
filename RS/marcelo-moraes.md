@@ -1502,3 +1502,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 01:32 UTC]** Escritório de esposa de Moraes assinou contrato milionário com o Banco Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/escritorio-de-esposa-de-moraes-assinou-contrato-milionario-com-o-banco-master/)_
 
+- **[2026-09-12 00:28 UTC]** Possível interferência de Moraes pode ter contribuído para maior rombo bancário do Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/moraes-vorcaro-banco-master/)_
+
