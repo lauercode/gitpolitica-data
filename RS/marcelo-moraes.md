@@ -1535,3 +1535,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 12:31 UTC]** Resumo da semana: crise no STF explode, Moraes enfrenta protestos, investigação da OAB e pressão dos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/resumo-da-semana-crise-no-stf-explode-moraes-enfrenta-protestos-investigacao-da-oab-e-pressao-dos-eua/)_
 
+- **[2026-09-12 15:25 UTC]** Fachin decide que julgará Moraes e Mendonça separadamente e marca nova sessão para 23 de setembro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyz1e26921o?at_medium=RSS&at_campaign=rss)_
+
