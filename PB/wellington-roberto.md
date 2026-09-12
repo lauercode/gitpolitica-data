@@ -68,3 +68,6 @@
 - **[2026-09-11 17:40 UTC]** Eleições 2026: Roberto Cidade defende incentivos fiscais e novas matrizes econômicas para o Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-roberto-cidade-defende-incentivos-fiscais-e-novas-matrizes-economicas-para-o-amazonas.ghtml)_
 
+- **[2026-09-11 23:20 UTC]** Companhia de dança apresenta músicas de Roberto Carlos e espetáculo infantil no Mormaço
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/companhia-de-danca-apresenta-musicas-de-roberto-carlos-e-espetaculo-infantil-no-mormaco.ghtml)_
+
