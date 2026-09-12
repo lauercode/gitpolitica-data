@@ -1058,3 +1058,6 @@
 - **[2026-09-12 01:01 UTC]** Análise: Pesquisa com Lula e Flávio estáveis demonstra campanha presidencial de baixa intensidade
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/analise-pesquisa-com-lula-e-flavio-estaveis-demonstra-campanha-presidencial-de-baixa-intensidade.ghtml)_
 
+- **[2026-09-12 00:07 UTC]** Coordenador de Flávio pede a Fachin fim do sigilo dos inquéritos das Fake News e das fraudes no INSS
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/coordenador-de-flvio-pede-a-fachin-fim-do-sigilo-dos-inquritos-das-fake-news-e-das-fraudes-no-inss.ghtml)_
+
