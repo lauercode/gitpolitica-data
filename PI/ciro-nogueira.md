@@ -26,3 +26,6 @@
 - **[2026-09-12 18:13 UTC]** PF encontrou na churrasqueira de Ciro Nogueira rascunho com nomes de parlamentares e valores
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pf-encontrou-na-churrasqueira-de-ciro-nogueira-rascunho-com-nomes-de-parlamentares-e-valores.ghtml)_
 
+- **[2026-09-12 16:52 UTC]** PF diz que Vorcaro pagou mais de R$ 500 mil em viagens de Ciro Nogueira
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pf-diz-que-vorcaro-pagou-mais-de-r-500-mil-em-viagens-de-ciro-nogueira.ghtml)_
+
