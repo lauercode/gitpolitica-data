@@ -1070,3 +1070,6 @@
 - **[2026-09-12 06:16 UTC]** Defesa de Flávio Bolsonaro tentou quatro vezes redirecionar de Dino para Mendonça investigação sobre 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/defesa-de-flavio-bolsonaro-tentou-quatro-vezes-redirecionar-de-dino-para-mendonca-investigacao-sobre-filme.ghtml)_
 
+- **[2026-09-12 00:28 UTC]** Defesa de Flávio fez 4 pedidos seguidos para caso 'Dark Horse' ficar com Mendonça em vez de Dino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/defesa-de-flavio-fez-4-pedidos-seguidos-para-caso-dark-horse-ficar-com-mendonca-em-vez-de-dino.shtml)_
+
