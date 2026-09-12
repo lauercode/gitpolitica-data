@@ -1064,3 +1064,6 @@
 - **[2026-09-11 21:44 UTC]** Datafolha: Lula tem 46% e Flávio marca 44% no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/datafolha-lula-tem-39percent-das-intencoes-de-voto-e-flavio-35percent-no-primeiro-turno.ghtml)_
 
+- **[2026-09-11 21:37 UTC]** Recrutador de influenciadores para Vorcaro disse que também trabalhava com redes sociais de Flávio, aponta PF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/recrutador-de-influenciadores-para-vorcaro-disse-que-tambm-trabalhava-com-redes-sociais-de-flvio-aponta-pf.ghtml)_
+
