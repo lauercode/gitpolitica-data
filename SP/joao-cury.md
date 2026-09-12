@@ -251,3 +251,6 @@
 - **[2026-09-11 20:48 UTC]** Após ascensão nas pesquisas, Cury muda QG para área nobre de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/apos-ascensao-nas-pesquisas-cury-muda-qg-para-area-nobre-de-sp.shtml)_
 
+- **[2026-09-11 22:00 UTC]** Cury cobra que análise do STF sobre Moraes seja televisionada
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/cury-cobra-que-analise-do-stf-sobre-moraes-seja-televisionada.ghtml)_
+
