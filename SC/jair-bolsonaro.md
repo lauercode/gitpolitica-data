@@ -23,3 +23,6 @@
 - **[2026-09-11 03:30 UTC]** 'Dark Horse': as emendas parlamentares e o filme sobre Jair Bolsonaro - O Assunto #1802
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/11/dark-horse-as-emendas-parlamentares-e-o-filme-sobre-jair-bolsonaro-o-assunto-1802.ghtml)_
 
+- **[2026-09-12 06:46 UTC]** Perucas, figurino, hospedagens: veja gastos de 'Dark Horse', filme sobre Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/perucas-figurino-hospedagens-veja-gastos-de-dark-horse-filme-sobre-jair-bolsonaro.ghtml)_
+
