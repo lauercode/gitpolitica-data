@@ -140,3 +140,6 @@
 - **[2026-09-12 05:17 UTC]** Produtora de 'Dark Horse' pagou faturas de cartão de crédito de Mário Frias, mostram investigações
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/produtora-de-dark-horse-pagou-faturas-de-cartao-de-credito-de-mario-frias-mostram-investigacoes.ghtml)_
 
+- **[2026-09-12 12:00 UTC]** Três Poderes: Fachin é o vencedor da semana e Mário Frias, o perdedor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tres-poderes-fachin-e-o-vencedor-da-semana-e-mario-frias-o-perdedor.shtml)_
+
