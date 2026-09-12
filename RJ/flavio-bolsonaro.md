@@ -1166,3 +1166,6 @@
 - **[2026-09-12 15:24 UTC]** 'Graças a Deus o sigilo foi afastado', diz Flávio, que pede liberação de inquérito de Lulinha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gracas-a-deus-o-sigilo-foi-afastado-diz-flavio-que-pede-liberacao-de-inquerito-de-lulinha.shtml)_
 
+- **[2026-09-12 18:41 UTC]** Flávio Bolsonaro cobra investigações sobre Lula, Master e INSS
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-cobra-investigacoes-sobre-lula-master-e-inss/)_
+
