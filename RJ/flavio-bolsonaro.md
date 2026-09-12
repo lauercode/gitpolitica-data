@@ -1115,3 +1115,6 @@
 - **[2026-09-12 14:07 UTC]** Como Lula vem perdendo apoio no Nordeste no confronto com Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/como-lula-vem-perdendo-apoio-no-nordeste-no-confronto-com-flavio-bolsonaro/)_
 
+- **[2026-09-12 13:48 UTC]** Michelle contesta decisão de Moraes sobre visitas a Bolsonaro e diz que campanha ao Senado foi prejudicada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-contesta-decisao-de-moraes-sobre-visitas-a-bolsonaro/)_
+
