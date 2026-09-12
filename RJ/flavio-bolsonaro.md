@@ -1106,3 +1106,6 @@
 - **[2026-09-12 12:28 UTC]** Quebra de sigilo revela cobrança de Flávio por filme Dark Horse
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/quebra-de-sigilo-revela-cobranca-de-flavio-por-filme-dark-horse)_
 
+- **[2026-09-12 13:22 UTC]** PF lista série de contatos e encontros entre Flávio Bolsonaro e Vorcaro; veja cronologia
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/pf-lista-serie-de-contatos-e-encontros-entre-flavio-bolsonaro-e-vorcaro-veja-cronologia.ghtml)_
+
