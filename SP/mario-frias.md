@@ -134,3 +134,6 @@
 - **[2026-09-11 15:49 UTC]** Especialistas apontam erros jurídicos em decisão de Flávio Dino contra Mário Frias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/especialistas-apontam-erros-juridicos-em-decisao-de-flavio-dino-contra-mario-frias/)_
 
+- **[2026-09-12 04:47 UTC]** Produtora de 'Dark Horse' pagou ao menos quatro faturas de cartão de crédito de Mário Frias durante produção do filme
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/produtora-de-dark-horse-pagou-ao-menos-quatro-faturas-de-cartao-de-credito-de-mario-frias-durante-producao-do-filme.ghtml)_
+
