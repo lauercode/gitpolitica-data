@@ -14,3 +14,6 @@
 - **[2026-09-11 23:40 UTC]** Mendonça derruba sigilo do caso Dark Horse e dos que envolvem Ciro Nogueira e Jaques Wagner
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-derruba-sigilo-do-caso-dark-horse-e-dos-que-envolvem-ciro-nogueira-e-jaques-wagner/)_
 
+- **[2026-09-11 20:00 UTC]** Mendonça retira sigilo de investigações que envolvem 'Dark Horse', Flávio, Jaques Wagner e Ciro Nogueira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-retira-sigilo-da-investigacao-sobre-dark-horse-e-outros-processos-do-caso-master.shtml)_
+
