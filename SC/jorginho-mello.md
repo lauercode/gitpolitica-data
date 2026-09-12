@@ -44,3 +44,6 @@
 - **[2026-09-10 22:25 UTC]** Eleições 2026 em SC: Jorginho Mello visita obras e reúne com apoiadores no Vale do Itajaí
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-jorginho-mello-visita-obras-e-reune-com-apoiadores-no-vale-do-itajai.ghtml)_
 
+- **[2026-09-11 22:40 UTC]** Eleições 2026 em SC: Jorginho Mello almoça com aliados e lideranças políticas em Curitibanos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-em-sc-jorginho-mello-almoca-com-aliados-e-liderancas-politicas-em-curitibanos.ghtml)_
+
