@@ -1085,3 +1085,6 @@
 - **[2026-09-12 08:00 UTC]** Campanha de Lula dirá na TV que Flávio Bolsonaro não pode combater crime por ter relação com investigados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-lula-dira-na-tv-que-flavio-bolsonaro-nao-pode-combater-crime-por-ter-relacao-com-investigados.shtml)_
 
+- **[2026-09-12 10:53 UTC]** Flávio Bolsonaro e 'Dark Horse': 6 perguntas para entender inquérito — e o que falta ser esclarecido
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss)_
+
