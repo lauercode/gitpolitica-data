@@ -1172,3 +1172,6 @@
 - **[2026-09-12 21:49 UTC]** Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/os-numeros-milionarios-de-dark-horse-que-flavio-bolsonaro-prometeu-a-vorcaro-cache-de-oppenheimer-bilheteria-da-zendaya.ghtml)_
 
+- **[2026-09-12 20:57 UTC]** Datafolha no DF: Flávio Bolsonaro, 40%; Lula, 32%; Caiado; 8%; Cury, 6%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/12/datafolha-no-df-flavio-bolsonaro-40percent-lula-32percent-caiado-8percent-renan-3percent-zema-1percent-cury-6percent.ghtml)_
+
