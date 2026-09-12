@@ -26,3 +26,6 @@
 - **[2026-09-12 01:27 UTC]** O que diz inquérito sobre relação de Jaques Wagner com Banco Master e Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz6znw0ev0vo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-11 23:01 UTC]** Mendonça tira sigilo de investigações sobre 'Dark Horse', Ciro Nogueira, Jaques Wagner e Claudio Castro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/mendonca-atende-pgr-e-tira-sigilo-de-investigacoes-de-dark-horse-ciro-nogueira-e-claudio-castro.ghtml)_
+
