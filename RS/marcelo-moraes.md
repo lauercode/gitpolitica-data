@@ -1514,3 +1514,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 21:17 UTC]** Mendonça diz que já liberou arquivos possíveis do caso Master, e Moraes vê atuação política de ministro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/mendonca-rebate-moraes-e-diz-que-documentos-do-master-que-podem-ficar-publicos-ja-estao-disponiveis.ghtml)_
 
+- **[2026-09-12 03:38 UTC]** Alexandre de Moraes tenta mudar pauta do STF para investigar André Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-tenta-mudar-pauta-do-stf-para-investigar-andre-mendonca/)_
+
