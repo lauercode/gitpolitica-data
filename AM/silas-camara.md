@@ -986,3 +986,6 @@ direitos
 - **[2026-09-11 23:04 UTC]** Concurso da Câmara de Rio Branco abre inscrições; salários chegam a R$ 6 mil
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/concurso-da-camara-de-rio-branco-abre-inscricoes-salarios-chegam-a-r-6-mil.ghtml)_
 
+- **[2026-09-12 16:47 UTC]** PF encontrou lista intitulada 'Câmara', com 'nomes' de deputados e 'valores', na churrasqueira de Ciro Nogueira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/pf-encontrou-lista-intitulada-camara-com-nomes-de-deputados-e-valores-na-churrasqueira-de-ciro-nogueira.ghtml)_
+
