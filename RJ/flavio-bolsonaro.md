@@ -1061,3 +1061,6 @@
 - **[2026-09-12 00:07 UTC]** Coordenador de Flávio pede a Fachin fim do sigilo dos inquéritos das Fake News e das fraudes no INSS
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/coordenador-de-flvio-pede-a-fachin-fim-do-sigilo-dos-inquritos-das-fake-news-e-das-fraudes-no-inss.ghtml)_
 
+- **[2026-09-11 21:44 UTC]** Datafolha: Lula tem 46% e Flávio marca 44% no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/datafolha-lula-tem-39percent-das-intencoes-de-voto-e-flavio-35percent-no-primeiro-turno.ghtml)_
+
