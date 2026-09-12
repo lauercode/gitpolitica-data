@@ -1538,3 +1538,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 15:25 UTC]** Fachin decide que julgará Moraes e Mendonça separadamente e marca nova sessão para 23 de setembro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyz1e26921o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-12 14:25 UTC]** Fachin nega pedido de Moraes para julgamento conjunto com Mendonça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/fachin-nega-julgamento-conjunto-de-moraes-e-mendonca.ghtml)_
+
