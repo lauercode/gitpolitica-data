@@ -1088,3 +1088,6 @@
 - **[2026-09-12 10:53 UTC]** Flávio Bolsonaro e 'Dark Horse': 6 perguntas para entender inquérito — e o que falta ser esclarecido
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-12 11:00 UTC]** Livro: Brasileira finalista do Booker Prize retorna com romance de ‘folk horror’; desigualdades de Bolsonaro a Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/eu-e/noticia/2026/09/12/livro-brasileira-finalista-do-booker-prize-retorna-com-romance-de-folk-horror-desigualdades-de-bolsonaro-a-lula.ghtml)_
+
