@@ -1496,3 +1496,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 21:11 UTC]** STF: Moraes e Mendonça trocam farpas em mensagens enviadas a Fachin
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-moraes-e-mendonca-trocam-farpas-em-mensagens-enviadas-fachin)_
 
+- **[2026-09-11 20:51 UTC]** Gilmar Mendes pede que Fachin unifique petições de Moraes e Mendonça
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/gilmar-mendes-pede-que-fachin-unifique-peticoes-de-moraes-e-mendonca)_
+
