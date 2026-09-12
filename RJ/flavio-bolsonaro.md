@@ -1136,3 +1136,6 @@
 - **[2026-09-12 12:36 UTC]** Defesa de Flávio Bolsonaro tentou levar caso Dark Horse a Mendonça
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/defesa-de-flavio-bolsonaro-tentou-levar-caso-dark-horse-mendonca)_
 
+- **[2026-09-12 12:28 UTC]** Atualização: Quebra de sigilo revela cobrança de Flávio por Dark Horse
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/quebra-de-sigilo-revela-cobranca-de-flavio-por-filme-dark-horse)_
+
