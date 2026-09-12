@@ -41,3 +41,6 @@
 - **[2026-09-11 20:53 UTC]** Cícero Lucena defende ampliar segurança hídrica e produção agrícola no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/11/cicero-lucena-defende-ampliar-seguranca-hidrica-e-producao-agricola-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-09-12 18:34 UTC]** TVs Cabo Branco e Paraíba entrevistam Cícero Lucena, Efraim Filho e Lucas Ribeiro; veja como vai ser
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/12/tvs-cabo-branco-e-paraiba-entrevistam-candidatos-governo-veja-como-vai-ser.ghtml)_
+
