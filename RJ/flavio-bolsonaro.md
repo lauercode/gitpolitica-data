@@ -1127,3 +1127,6 @@
 - **[2026-09-12 15:06 UTC]** Lula e Flávio Bolsonaro voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-12 13:57 UTC]** Campanha de Lula faz força-tarefa após queda de sigilo do Master e deve incluir novos ataques a Flávio no horário eleitoral
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/campanha-de-lula-faz-fora-tarefa-aps-queda-de-sigilo-do-master-e-deve-incluir-novos-ataques-a-flvio-no-horrio-eleitoral.ghtml)_
+
