@@ -1013,3 +1013,6 @@
 - **[2026-09-11 18:01 UTC]** Crescimento de Flávio muda o humor da eleição e preocupa Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/crescimento-de-flavio-muda-humor-da-eleicao-preocupa-lula-pesquisas-presidente/)_
 
+- **[2026-09-11 16:39 UTC]** Flávio reage à investigação da PF e elogia a atuação de Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-reage-a-investigacao-da-pf-e-elogia-a-atuacao-de-mendonca-no-stf/)_
+
