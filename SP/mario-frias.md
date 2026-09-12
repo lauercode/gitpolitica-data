@@ -137,3 +137,6 @@
 - **[2026-09-12 04:47 UTC]** Produtora de 'Dark Horse' pagou ao menos quatro faturas de cartão de crédito de Mário Frias durante produção do filme
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/produtora-de-dark-horse-pagou-ao-menos-quatro-faturas-de-cartao-de-credito-de-mario-frias-durante-producao-do-filme.ghtml)_
 
+- **[2026-09-12 05:17 UTC]** Produtora de 'Dark Horse' pagou faturas de cartão de crédito de Mário Frias, mostram investigações
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/produtora-de-dark-horse-pagou-faturas-de-cartao-de-credito-de-mario-frias-mostram-investigacoes.ghtml)_
+
