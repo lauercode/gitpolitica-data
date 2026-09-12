@@ -1169,3 +1169,6 @@
 - **[2026-09-12 18:41 UTC]** Flávio Bolsonaro cobra investigações sobre Lula, Master e INSS
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-cobra-investigacoes-sobre-lula-master-e-inss/)_
 
+- **[2026-09-12 21:49 UTC]** Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/os-numeros-milionarios-de-dark-horse-que-flavio-bolsonaro-prometeu-a-vorcaro-cache-de-oppenheimer-bilheteria-da-zendaya.ghtml)_
+
