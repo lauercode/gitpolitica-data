@@ -32,3 +32,6 @@
 - **[2026-09-11 17:51 UTC]** Lucas Ribeiro defende ampliação do passe livre estudantil para universitários na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/11/lucas-ribeiro-defende-ampliacao-do-passe-livre-estudantil-para-universitarios-na-paraiba.ghtml)_
 
+- **[2026-09-12 18:34 UTC]** TVs Cabo Branco e Paraíba entrevistam Cícero Lucena, Efraim Filho e Lucas Ribeiro; veja como vai ser
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/12/tvs-cabo-branco-e-paraiba-entrevistam-candidatos-governo-veja-como-vai-ser.ghtml)_
+
