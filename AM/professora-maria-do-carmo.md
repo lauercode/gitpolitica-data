@@ -41,3 +41,6 @@
 - **[2026-09-09 16:24 UTC]** Eleições 2026: Professora Maria do Carmo defende integração de rios e estradas para garantir logística no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/eleicoes-2026-professora-maria-do-carmo-defende-integracao-de-rios-e-estradas-para-garantir-logistica-no-am.ghtml)_
 
+- **[2026-09-12 00:28 UTC]** Eleições 2026: Professora Maria do Carmo participa de evento com apoiadores e defende participação das mulheres na política
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-professora-maria-do-carmo-participa-de-evento-com-apoiadores-e-defende-participacao-das-mulheres-na-politica.ghtml)_
+
