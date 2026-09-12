@@ -1556,3 +1556,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 20:22 UTC]** Datafolha: 34% dizem que Moraes deveria ser afastado; 28% defendem impeachment
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/datafolha-moraes-impeachment.ghtml)_
 
+- **[2026-09-12 16:33 UTC]** Datafolha: 34% querem o afastamento de Moraes e 37%, o de Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-34-querem-o-afastamento-de-moraes-e-37-o-de-mendonca.shtml)_
+
