@@ -1091,3 +1091,6 @@
 - **[2026-09-12 11:00 UTC]** Livro: Brasileira finalista do Booker Prize retorna com romance de ‘folk horror’; desigualdades de Bolsonaro a Lula
   _fonte: [Valor Econômico](https://valor.globo.com/eu-e/noticia/2026/09/12/livro-brasileira-finalista-do-booker-prize-retorna-com-romance-de-folk-horror-desigualdades-de-bolsonaro-a-lula.ghtml)_
 
+- **[2026-09-12 10:25 UTC]** Quebra de sigilo expõe Flávio Bolsonaro investigado; entenda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/quebra-de-sigilo-expoe-flavio-bolsonaro-investigado-entenda.ghtml)_
+
