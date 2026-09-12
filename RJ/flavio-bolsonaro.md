@@ -1001,3 +1001,6 @@
 - **[2026-09-11 23:35 UTC]** Datafolha: Aliados de Lula e de Flávio Bolsonaro falam em estabilidade na eleição apesar da crise no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-aliados-de-lula-e-de-flavio-bolsonaro-falam-em-estabilidade-na-eleicao-apesar-da-crise-no-stf.shtml)_
 
+- **[2026-09-11 23:26 UTC]** Datafolha: Lula lidera entre mais pobres e Flávio, nas demais faixas de renda; veja pesquisa por segmentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-lidera-entre-mais-pobres-e-flavio-nas-demais-faixas-de-renda-veja-pesquisa-por-segmentos.shtml)_
+
