@@ -1151,3 +1151,6 @@
 - **[2026-09-12 20:02 UTC]** Datafolha em MG: Lula, 37%; Flávio 35%, Cury, 5%; Zema, 5%; Caiado, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/12/datafolha-mg-presidente-12-setembro.ghtml)_
 
+- **[2026-09-12 20:00 UTC]** Datafolha em SP: Flávio Bolsonaro, 35%; Lula, 33%; Cury, 7%; Renan, 6%; Caiado, 4%; Samara, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/12/datafolha-sp-presidente-12-setembro.ghtml)_
+
