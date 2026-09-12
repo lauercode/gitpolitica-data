@@ -1097,3 +1097,6 @@
 - **[2026-09-12 09:59 UTC]** Quebra de sigilo do Master expõe Flávio investigado e gera troca de ataques no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/quebra-de-sigilo-do-master-expoe-flavio-investigado-e-gera-troca-de-ataques-no-stf.ghtml)_
 
+- **[2026-09-12 06:47 UTC]** Defesa de Flávio tentou 4 vezes tirar de Dino investigação sobre 'Dark Horse'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/defesa-de-flvio-tentou-4-vezes-tirar-de-dino-investigao-sobre-dark-horse.ghtml)_
+
