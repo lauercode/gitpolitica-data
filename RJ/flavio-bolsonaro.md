@@ -1139,3 +1139,6 @@
 - **[2026-09-12 12:28 UTC]** Atualização: Quebra de sigilo revela cobrança de Flávio por Dark Horse
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/quebra-de-sigilo-revela-cobranca-de-flavio-por-filme-dark-horse)_
 
+- **[2026-09-12 13:26 UTC]** Flávio e Moraes receberam a mesma grana do mesmo esquema
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/09/flavio-e-moraes-receberam-a-mesma-grana-do-mesmo-esquema.shtml)_
+
