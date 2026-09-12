@@ -32,3 +32,6 @@
 - **[2026-09-11 17:14 UTC]** Datafolha: Raquel Lyra tem 47% para Governo de Pernambuco ante 42% de João Campos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-raquel-lyra-tem-47-para-governo-de-pernambuco-ante-42-de-joao-campos.shtml)_
 
+- **[2026-09-11 20:34 UTC]** Datafolha: Raquel Lyra tem 47% das e João Campos, 42% na disputa ao governo de Pernambuco
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/datafolha-raquel-lyra-tem-47percent-das-e-joao-campos-42percent-na-disputa-ao-governo-de-pernambuco.ghtml)_
+
