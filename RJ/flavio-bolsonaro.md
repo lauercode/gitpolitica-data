@@ -1004,3 +1004,6 @@
 - **[2026-09-11 23:26 UTC]** Datafolha: Lula lidera entre mais pobres e Flávio, nas demais faixas de renda; veja pesquisa por segmentos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-lidera-entre-mais-pobres-e-flavio-nas-demais-faixas-de-renda-veja-pesquisa-por-segmentos.shtml)_
 
+- **[2026-09-11 23:00 UTC]** Quebra de sigilo do Master expõe Flávio Bolsonaro investigado e gera nova troca de ataques no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quebra-de-sigilo-do-master-expoe-flavio-bolsonaro-investigado-e-gera-nova-troca-de-ataques-no-stf.shtml)_
+
