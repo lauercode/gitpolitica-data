@@ -74,3 +74,6 @@
 - **[2026-09-11 17:00 UTC]** O futuro incerto do Ministério da Cultura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/09/o-futuro-incerto-do-ministerio-da-cultura.shtml)_
 
+- **[2026-09-11 22:57 UTC]** Eleições 2026: Ricardo Marques diz que investimentos em cultura devem ser descentralizados
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-ricardo-marques-diz-que-investimentos-em-cultura-devem-ser-descentralizados.ghtml)_
+
