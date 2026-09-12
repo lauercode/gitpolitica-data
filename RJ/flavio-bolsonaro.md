@@ -1037,3 +1037,6 @@
 - **[2026-09-10 20:07 UTC]** Flávio Dino aponta indícios de desvios em emendas parlamentares de Mário Frias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-aponta-indicios-de-desvios-em-emendas-parlamentares-de-mario-frias/)_
 
+- **[2026-09-10 18:08 UTC]** “Nenhuma armação vai nos parar”, diz Flávio após operação do caso Dark Horse
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nenhuma-armacao-vai-nos-parar-diz-flavio-apos-operacao-do-caso-dark-horse/)_
+
