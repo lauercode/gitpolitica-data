@@ -20,3 +20,6 @@
 - **[2026-09-11 23:01 UTC]** Mendonça tira sigilo de investigações sobre 'Dark Horse', Ciro Nogueira, Jaques Wagner e Claudio Castro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/mendonca-atende-pgr-e-tira-sigilo-de-investigacoes-de-dark-horse-ciro-nogueira-e-claudio-castro.ghtml)_
 
+- **[2026-09-12 16:47 UTC]** PF encontrou lista intitulada 'Câmara', com 'nomes' de deputados e 'valores', na churrasqueira de Ciro Nogueira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/pf-encontrou-lista-intitulada-camara-com-nomes-de-deputados-e-valores-na-churrasqueira-de-ciro-nogueira.ghtml)_
+
