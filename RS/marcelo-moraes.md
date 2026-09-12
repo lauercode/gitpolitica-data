@@ -1490,3 +1490,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 23:34 UTC]** Gilmar pede a Fachin para adiar sessão sobre Moraes e incluir relatório sobre Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-pede-a-fachin-para-adiar-sessao-sobre-moraes-e-incluir-relatorio-sobre-mendonca/)_
 
+- **[2026-09-11 20:29 UTC]** STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-gilmar-mendes-sugere-adiar-sessao-sobre-conduta-de-moraes)_
+
