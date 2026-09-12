@@ -1511,3 +1511,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 22:00 UTC]** Cury cobra que análise do STF sobre Moraes seja televisionada
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/cury-cobra-que-analise-do-stf-sobre-moraes-seja-televisionada.ghtml)_
 
+- **[2026-09-11 21:17 UTC]** Mendonça diz que já liberou arquivos possíveis do caso Master, e Moraes vê atuação política de ministro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/mendonca-rebate-moraes-e-diz-que-documentos-do-master-que-podem-ficar-publicos-ja-estao-disponiveis.ghtml)_
+
