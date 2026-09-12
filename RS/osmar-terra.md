@@ -110,3 +110,6 @@
 - **[2026-09-11 17:34 UTC]** Deslizamento de terra destrói casas em Campo Bom, no RS; moradores não estavam no local
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/deslizamento-de-terra-destroi-casas-em-campo-bom.ghtml)_
 
+- **[2026-09-12 18:14 UTC]** MPF cobra R$ 1,7 bilhão em indenização de empresário e mineradora por garimpo ilegal na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/12/mpf-cobra-r-17-bilhao-em-indenizacao-de-empresario-e-mineradora-por-garimpo-ilegal-na-terra-yanomami.ghtml)_
+
