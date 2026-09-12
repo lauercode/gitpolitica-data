@@ -29,3 +29,6 @@
 - **[2026-09-12 16:52 UTC]** PF diz que Vorcaro pagou mais de R$ 500 mil em viagens de Ciro Nogueira
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pf-diz-que-vorcaro-pagou-mais-de-r-500-mil-em-viagens-de-ciro-nogueira.ghtml)_
 
+- **[2026-09-12 18:02 UTC]** PF encontra na churrasqueira de Ciro Nogueira lista de deputados e fala em prováveis valores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-encontra-na-churrasqueira-de-ciro-nogueira-lista-de-deputados-e-fala-em-provaveis-valores.shtml)_
+
