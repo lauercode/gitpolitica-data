@@ -1103,3 +1103,6 @@
 - **[2026-09-12 11:48 UTC]** PF aponta cobranças de Flávio a Vorcaro por filme Dark Horse
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pf-aponta-cobrancas-de-flavio-vorcaro-por-filme-dark-horse)_
 
+- **[2026-09-12 12:28 UTC]** Quebra de sigilo revela cobrança de Flávio por filme Dark Horse
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/quebra-de-sigilo-revela-cobranca-de-flavio-por-filme-dark-horse)_
+
