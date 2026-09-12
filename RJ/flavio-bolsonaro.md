@@ -1133,3 +1133,6 @@
 - **[2026-09-12 10:25 UTC]** Flávio Bolsonaro investigado: veja o que documentos do caso Master revelam até agora
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/quebra-de-sigilo-expoe-flavio-bolsonaro-investigado-entenda.ghtml)_
 
+- **[2026-09-12 12:36 UTC]** Defesa de Flávio Bolsonaro tentou levar caso Dark Horse a Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/defesa-de-flavio-bolsonaro-tentou-levar-caso-dark-horse-mendonca)_
+
