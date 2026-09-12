@@ -1055,3 +1055,6 @@
 - **[2026-09-10 13:44 UTC]** Flávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-campanha-setembro-2026-roraima.ghtml)_
 
+- **[2026-09-12 01:01 UTC]** Análise: Pesquisa com Lula e Flávio estáveis demonstra campanha presidencial de baixa intensidade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/analise-pesquisa-com-lula-e-flavio-estaveis-demonstra-campanha-presidencial-de-baixa-intensidade.ghtml)_
+
