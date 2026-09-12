@@ -1112,3 +1112,6 @@
 - **[2026-09-12 08:00 UTC]** Campanha de Lula usará caso Master contra Flávio Bolsonaro em programa de TV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-lula-dira-na-tv-que-flavio-bolsonaro-nao-pode-combater-crime-por-ter-relacao-com-investigados.shtml)_
 
+- **[2026-09-12 14:07 UTC]** Como Lula vem perdendo apoio no Nordeste no confronto com Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/como-lula-vem-perdendo-apoio-no-nordeste-no-confronto-com-flavio-bolsonaro/)_
+
