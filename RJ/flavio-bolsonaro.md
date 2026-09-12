@@ -1094,3 +1094,6 @@
 - **[2026-09-12 10:25 UTC]** Quebra de sigilo expõe Flávio Bolsonaro investigado; entenda
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/quebra-de-sigilo-expoe-flavio-bolsonaro-investigado-entenda.ghtml)_
 
+- **[2026-09-12 09:59 UTC]** Quebra de sigilo do Master expõe Flávio investigado e gera troca de ataques no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/quebra-de-sigilo-do-master-expoe-flavio-investigado-e-gera-troca-de-ataques-no-stf.ghtml)_
+
