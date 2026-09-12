@@ -1517,3 +1517,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 03:38 UTC]** Alexandre de Moraes tenta mudar pauta do STF para investigar André Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-tenta-mudar-pauta-do-stf-para-investigar-andre-mendonca/)_
 
+- **[2026-09-12 14:15 UTC]** Fachin nega julgar Moraes e Mendonça juntos e marca sessão do relator do Master para 23 de setembro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/fachin-mantem-sessao-extraordinaria-para-peticao-de-mendonca-e-rejeita-julgamento-simultaneo-com-processo-de-moraes.ghtml)_
+
