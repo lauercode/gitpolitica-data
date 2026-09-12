@@ -1157,3 +1157,6 @@
 - **[2026-09-12 17:20 UTC]** Flávio lidera com 47% ante 42% de Lula em SP, aponta Datafolha; MG tem empate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-lidera-com-47-ante-42-de-lula-em-sp-aponta-datafolha-mg-tem-empate.shtml)_
 
+- **[2026-09-12 16:29 UTC]** Cachê de Jim Caviezel como Bolsonaro próximo ao de Joaquin Phoenix em 'Coringa': os valores pedidos por Flávio a Vorcaro para fazer 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/cache-de-jim-caviezel-como-bolsonaro-proximo-ao-de-joaquin-phoenix-em-coringa-os-valores-pedidos-por-flavio-a-vorcaro-para-fazer-dark-horse.shtml)_
+
