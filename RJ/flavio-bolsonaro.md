@@ -1019,3 +1019,6 @@
 - **[2026-09-11 15:49 UTC]** Especialistas apontam erros jurídicos em decisão de Flávio Dino contra Mário Frias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/especialistas-apontam-erros-juridicos-em-decisao-de-flavio-dino-contra-mario-frias/)_
 
+- **[2026-09-11 15:01 UTC]** PGR atende à PF para investigar propostas de Flávio e Frias no Congresso de interesse do Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-atende-pf-investigar-propostas-flavio-frias-congresso-interesse-master/)_
+
