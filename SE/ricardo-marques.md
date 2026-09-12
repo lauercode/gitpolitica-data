@@ -17,3 +17,6 @@
 - **[2026-09-08 22:49 UTC]** Eleições 2026: Ricardo Marques diz que pretende promover a alfabetização na idade certa
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-ricardo-marques-diz-que-pretende-promover-a-alfabetizacao-na-idade-certa.ghtml)_
 
+- **[2026-09-11 22:57 UTC]** Eleições 2026: Ricardo Marques diz que investimentos em cultura devem ser descentralizados
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-ricardo-marques-diz-que-investimentos-em-cultura-devem-ser-descentralizados.ghtml)_
+
