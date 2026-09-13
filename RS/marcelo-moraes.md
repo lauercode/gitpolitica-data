@@ -1583,3 +1583,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 00:42 UTC]** Fachin assume relatoria de investigação sobre suspeitas de crimes de Moraes e Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-assume-relatoria-de-investigacao-sobre-crimes-de-moraes-e-vorcaro/)_
 
+- **[2026-09-13 00:10 UTC]** Lula ensaia “largar a mão” de Moraes, mas teme consequências
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ensaia-largar-a-mao-de-moraes-mas-teme-consequencias/)_
+
