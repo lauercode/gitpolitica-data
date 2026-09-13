@@ -1613,3 +1613,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 09:00 UTC]** Ala pró-Moraes reage, mas Fachin mantém julgamento sobre mensagens com Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/ala-pro-moraes-reage-mas-fachin-mantem-julgamento-sobre-mensagens-com-vorcaro.ghtml)_
 
+- **[2026-09-13 15:34 UTC]** Sem citar Moraes, PF questiona quem é ‘Andrei’ e ‘Paulo’ em mensagem enviada por Vorcaro ao ministro
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/13/sem-citar-moraes-pf-questiona-quem-andrei-e-paulo-em-mensagem-enviada-por-vorcaro-ao-ministro.ghtml)_
+
