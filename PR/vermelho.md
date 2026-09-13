@@ -56,3 +56,6 @@
 - **[2026-09-11 17:53 UTC]** Ciclone extratropical deixa região Sul do país em alerta vermelho
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/ciclone-extratropical-deixa-regiao-sul-do-pais-em-alerta-vermelho)_
 
+- **[2026-09-13 10:39 UTC]** Guerra no mar Vermelho ameaça 4% do petróleo do mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/guerra-no-mar-vermelho-ameaca-4-do-petroleo-do-mundo.shtml)_
+
