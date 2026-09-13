@@ -1190,3 +1190,6 @@
 - **[2026-09-13 23:11 UTC]** Lula faz 'live' com apoiadores no Alvorada; em 2022, TSE proibiu Bolsonaro de promover própria campanha no palácio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/lula-faz-live-com-apoiadores-no-alvorada-em-2022-tse-proibiu-bolsonaro-de-promover-propria-campanha-no-palacio.ghtml)_
 
+- **[2026-09-13 22:56 UTC]** Crise no STF reorganiza debate digital entre Lula e Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/crise-stf-reorganiza-debate-digital-entre-lula-flavio-bolsonaro/)_
+
