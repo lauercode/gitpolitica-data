@@ -1196,3 +1196,6 @@
 - **[2026-09-13 23:09 UTC]** Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento de 'Dark Horse'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-13 20:40 UTC]** Análise: Ao expor suspeita sobre o PCC, Dino desafia Mendonça e expõe Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/analise-ao-expor-suspeita-sobre-o-pcc-dino-desafia-mendonca-e-vulnerabiliza-flavio-bolsonaro.ghtml)_
+
