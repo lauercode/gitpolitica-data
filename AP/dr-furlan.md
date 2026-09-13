@@ -68,3 +68,6 @@
 - **[2026-09-12 22:41 UTC]** Dr. Furlan participa de reunião em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/12/dr-furlan-participa-de-reuniao-em-macapa.ghtml)_
 
+- **[2026-09-13 20:00 UTC]** Dr. Furlan participa de reuniões e visitas a comunidades indígenas em Oiapoque
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/13/dr-furlan-participa-de-reunioes-e-visitas-a-comunidades-indigenas-em-oiapoque.ghtml)_
+
