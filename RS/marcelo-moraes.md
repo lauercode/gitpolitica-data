@@ -1634,3 +1634,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 22:56 UTC]** Moraes pede levantamento de sigilo de processo sob relatoria de Mendonça antes de julgamento
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-pede-levantamento-de-sigilo-de-processo-sob-relatoria-de-mendonca-antes-de-julgamento/)_
 
+- **[2026-09-13 22:12 UTC]** Moraes pede retirada de sigilo de peça do caso Master antes de julgamento na terça-feira
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/moraes-pede-retirada-de-sigilo-de-pea-do-caso-master-antes-de-julgamento-na-tera-feira.ghtml)_
+
