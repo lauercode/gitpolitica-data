@@ -1619,3 +1619,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 20:37 UTC]** Em depoimento, Vorcaro diz não lembrar destinatário de mensagem que, segundo PF, era Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/em-depoimento-vorcaro-diz-nao-lembrar-destinatario-de-mensagem-que-segundo-pf-era-moraes.ghtml)_
 
+- **[2026-09-13 20:35 UTC]** Ministro Edson Fachin avoca petições sobre Alexandre de Moraes e Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-edson-fachin-avoca-peticoes-sobre-alexandre-de-moraes-e-banco-master/)_
+
