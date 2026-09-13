@@ -239,3 +239,6 @@
 - **[2026-09-11 16:56 UTC]** Renan Santos diz que campanha 2026 é 'a mais estranha' que já viu desde 2010
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/renan-santos-sabatina-uol-folha.ghtml)_
 
+- **[2026-09-13 00:33 UTC]** Renan Santos critica bolsonarismo em SC e defende pena de 30 anos para assalto à mão armada
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/12/renan-santos-agenda-joinville-santa-catarina.ghtml)_
+
