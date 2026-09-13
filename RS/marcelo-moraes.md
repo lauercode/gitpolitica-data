@@ -1628,3 +1628,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 22:07 UTC]** Moraes pede nova quebra de sigilo sobre Master antes de sessão desta terça; Fachin aciona PGR
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/moraes-pede-nova-quebra-de-sigilo-sobre-master-antes-de-sessao-desta-terca-fachin-aciona-pgr.ghtml)_
 
+- **[2026-09-13 18:29 UTC]** Moraes pede a Fachin retirada de sigilo de dados sobre rede de pagamentos do Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-pede-a-fachin-retirada-de-sigilo-de-dados-sobre-rede-de-pagamentos-do-master.shtml)_
+
