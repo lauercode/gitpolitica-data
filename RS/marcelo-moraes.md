@@ -1607,3 +1607,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 23:00 UTC]** Moraes versus Mendonça é o problema mais simples na crise geral do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/09/moraes-versus-mendonca-e-o-problema-mais-simples-na-crise-geral-do-stf.shtml)_
 
+- **[2026-09-13 07:00 UTC]** Crise Master no STF: ala de Moraes deve apontar falhas processuais para tentar barrar investigação contra o ministro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/crise-master-no-stf-ala-de-moraes-deve-apontar-falhas-processuais-para-tentar-barrar-investigacao-contra-o-ministro.ghtml)_
+
