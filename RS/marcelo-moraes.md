@@ -1625,3 +1625,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 20:12 UTC]** Agenda de política: STF analisa nesta terça-feira relatório da PF sobre mensagens entre Vorcaro e Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/agenda-de-poltica-stf-analisa-nesta-tera-feira-relatrio-da-pf-sobre-mensagens-entre-vorcaro-e-moraes.ghtml)_
 
+- **[2026-09-13 22:07 UTC]** Moraes pede nova quebra de sigilo sobre Master antes de sessão desta terça; Fachin aciona PGR
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/moraes-pede-nova-quebra-de-sigilo-sobre-master-antes-de-sessao-desta-terca-fachin-aciona-pgr.ghtml)_
+
