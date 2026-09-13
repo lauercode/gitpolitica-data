@@ -149,3 +149,6 @@
 - **[2026-09-13 14:56 UTC]** Mario Frias diz que não há crime em patrocínio do Master a Dark Horse
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-diz-que-nao-ha-crime-em-patrocinio-do-master-a-dark-horse/)_
 
+- **[2026-09-13 16:30 UTC]** 'Dark Horse': ao retirar sigilo de investigação, Dino cita suspeita de que Frias liderou esquema criminoso de desvios
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/dark-horse-ao-retirar-sigilo-de-investigacao-dino-cita-suspeita-de-que-frias-liderou-esquema-criminoso-de-desvios.ghtml)_
+
