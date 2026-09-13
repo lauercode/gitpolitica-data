@@ -71,3 +71,6 @@
 - **[2026-09-11 23:20 UTC]** Companhia de dança apresenta músicas de Roberto Carlos e espetáculo infantil no Mormaço
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/companhia-de-danca-apresenta-musicas-de-roberto-carlos-e-espetaculo-infantil-no-mormaco.ghtml)_
 
+- **[2026-09-12 23:03 UTC]** Roberto Medina bobeou, brinca Ana Paula Renault sobre ausência de Bob Sinclar no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-roberto-medina-bobeou-brinca-ana-paula-renault-sobre-ausencia-de-bob-sinclar.shtml)_
+
