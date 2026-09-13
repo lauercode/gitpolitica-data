@@ -1604,3 +1604,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 23:00 UTC]** Ministros aliados de Moraes cogitam alegar suspeição de Kassio e Fux devido a elo de filhos com o Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ministros-aliados-de-moraes-cogitam-alegar-suspeicao-de-kassio-e-fux-devido-a-elo-de-filhos-com-o-master.shtml)_
 
+- **[2026-09-12 23:00 UTC]** Moraes versus Mendonça é o problema mais simples na crise geral do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/09/moraes-versus-mendonca-e-o-problema-mais-simples-na-crise-geral-do-stf.shtml)_
+
