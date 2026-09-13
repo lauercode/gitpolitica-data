@@ -1580,3 +1580,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 20:49 UTC]** Fachin afasta Mendonça de caso contra Moraes e manda parar apurações de Master e INSS
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-tira-de-mendonca-relatoria-de-caso-moraes-e-abre-caminho-para-assumir-inqueritos-do-master-e-inss.shtml)_
 
+- **[2026-09-13 00:42 UTC]** Fachin assume relatoria de investigação sobre suspeitas de crimes de Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-assume-relatoria-de-investigacao-sobre-crimes-de-moraes-e-vorcaro/)_
+
