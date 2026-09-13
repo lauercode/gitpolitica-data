@@ -1622,3 +1622,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 20:35 UTC]** Ministro Edson Fachin avoca petições sobre Alexandre de Moraes e Banco Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-edson-fachin-avoca-peticoes-sobre-alexandre-de-moraes-e-banco-master/)_
 
+- **[2026-09-13 20:12 UTC]** Agenda de política: STF analisa nesta terça-feira relatório da PF sobre mensagens entre Vorcaro e Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/agenda-de-poltica-stf-analisa-nesta-tera-feira-relatrio-da-pf-sobre-mensagens-entre-vorcaro-e-moraes.ghtml)_
+
