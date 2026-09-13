@@ -1184,3 +1184,6 @@
 - **[2026-09-13 20:51 UTC]** Flávio Dino determina quebra de sigilo fiscal de produtora de 'Dark Horse'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/flavio-dino-determina-quebra-de-sigilo-fiscal-de-produtora-de-dark-horse.ghtml)_
 
+- **[2026-09-13 20:40 UTC]** Análise: Ao expor suspeita sobre o PCC, Dino desafia Mendonça e vulnerabiliza Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/analise-ao-expor-suspeita-sobre-o-pcc-dino-desafia-mendonca-e-vulnerabiliza-flavio-bolsonaro.ghtml)_
+
