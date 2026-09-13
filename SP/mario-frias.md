@@ -155,3 +155,6 @@
 - **[2026-09-13 11:01 UTC]** Dino tira sigilo de investigação em SP sobre produtora de 'Dark Horse' e que envolve Mario Frias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-tira-sigilo-de-investigacao-da-policia-de-sao-paulo-sobre-produtora-de-dark-horse.shtml)_
 
+- **[2026-09-13 16:22 UTC]** Dino aponta indícios de liderança de Mário Frias em desvio de emendas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-aponta-indicios-de-lideranca-de-mario-frias-em-desvio-de-emendas)_
+
