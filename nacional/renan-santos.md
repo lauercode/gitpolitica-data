@@ -242,3 +242,6 @@
 - **[2026-09-13 00:33 UTC]** Renan Santos critica bolsonarismo em SC e defende pena de 30 anos para assalto à mão armada
   _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/12/renan-santos-agenda-joinville-santa-catarina.ghtml)_
 
+- **[2026-09-13 14:32 UTC]** Ascensão de Cury e posição antissistema de Renan Santos isolam ex-governadores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ascensao-de-cury-e-posicao-antissistema-de-renan-santos-isolam-ex-governadores/)_
+
