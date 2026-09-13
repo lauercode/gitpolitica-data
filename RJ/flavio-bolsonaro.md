@@ -1175,3 +1175,6 @@
 - **[2026-09-12 20:57 UTC]** Datafolha no DF: Flávio Bolsonaro, 40%; Lula, 32%; Caiado; 8%; Cury, 6%; Renan, 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/12/datafolha-no-df-flavio-bolsonaro-40percent-lula-32percent-caiado-8percent-renan-3percent-zema-1percent-cury-6percent.ghtml)_
 
+- **[2026-09-13 00:22 UTC]** Na TV, Lula cita caso Master e diz que PF não tinha liberdade com família Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/na-tv-lula-cita-caso-master-e-diz-que-pf-no-tinha-liberdade-com-famlia-bolsonaro.ghtml)_
+
