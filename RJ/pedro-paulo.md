@@ -380,3 +380,6 @@
 - **[2026-09-11 20:12 UTC]** Datafolha para o Senado no RJ: Benedita, 18%; Carlos Jordy, 10%; Carlos Portinho, 10%; Pedro Paulo, 7%; Marcelo Crivella, 7%; Mônica Benício, 6%
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/11/datafolha-no-rj-senado-11-setembro.ghtml)_
 
+- **[2026-09-13 15:34 UTC]** Sem citar Moraes, PF questiona quem é ‘Andrei’ e ‘Paulo’ em mensagem enviada por Vorcaro ao ministro
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/13/sem-citar-moraes-pf-questiona-quem-andrei-e-paulo-em-mensagem-enviada-por-vorcaro-ao-ministro.ghtml)_
+
