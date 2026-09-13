@@ -1610,3 +1610,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 07:00 UTC]** Crise Master no STF: ala de Moraes deve apontar falhas processuais para tentar barrar investigação contra o ministro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/crise-master-no-stf-ala-de-moraes-deve-apontar-falhas-processuais-para-tentar-barrar-investigacao-contra-o-ministro.ghtml)_
 
+- **[2026-09-13 09:00 UTC]** Ala pró-Moraes reage, mas Fachin mantém julgamento sobre mensagens com Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/ala-pro-moraes-reage-mas-fachin-mantem-julgamento-sobre-mensagens-com-vorcaro.ghtml)_
+
