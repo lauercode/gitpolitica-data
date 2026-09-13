@@ -1592,3 +1592,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 23:50 UTC]** Fachin assume caso das mensagens de Vorcaro a Moraes e pede processos do Master e INSS
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/fachin-assume-caso-das-mensagens-de-vorcaro-a-moraes-e-pede-processos-do-master-e-inss.ghtml)_
 
+- **[2026-09-12 23:12 UTC]** Mendonça envia processo sobre Moraes à presidência do STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/mendona-envia-processo-sobre-moraes-presidncia-do-stf.ghtml)_
+
