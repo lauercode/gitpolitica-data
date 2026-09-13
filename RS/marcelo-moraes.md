@@ -1601,3 +1601,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 22:30 UTC]** Fachin vira relator de investigação sobre relação de Moraes e Vorcaro
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-vira-relator-de-investigacao-sobre-relacao-de-moraes-e-vorcaro)_
 
+- **[2026-09-12 23:00 UTC]** Ministros aliados de Moraes cogitam alegar suspeição de Kassio e Fux devido a elo de filhos com o Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ministros-aliados-de-moraes-cogitam-alegar-suspeicao-de-kassio-e-fux-devido-a-elo-de-filhos-com-o-master.shtml)_
+
