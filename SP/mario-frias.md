@@ -143,3 +143,6 @@
 - **[2026-09-12 12:00 UTC]** Três Poderes: Fachin é o vencedor da semana e Mário Frias, o perdedor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tres-poderes-fachin-e-o-vencedor-da-semana-e-mario-frias-o-perdedor.shtml)_
 
+- **[2026-09-13 13:43 UTC]** Dark Horse: Dino levanta sigilo de investigação que cita Mário Frias, aponta indícios de irregularidades e menciona possível elo com PCC
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/dark-horse-dino-levanta-sigilo-de-investigacao-que-cita-mario-frias-aponta-indicios-de-irregularidades-e-menciona-possivel-elo-com-pcc.ghtml)_
+
