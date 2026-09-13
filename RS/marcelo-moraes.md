@@ -1595,3 +1595,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 23:12 UTC]** Mendonça envia processo sobre Moraes à presidência do STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/mendona-envia-processo-sobre-moraes-presidncia-do-stf.ghtml)_
 
+- **[2026-09-12 22:14 UTC]** Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-stf-assume-relatoria-do-processo-sobre-moraes-e-vorcaro)_
+
