@@ -1589,3 +1589,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 00:43 UTC]** Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyz5xkdvndo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-12 23:50 UTC]** Fachin assume caso das mensagens de Vorcaro a Moraes e pede processos do Master e INSS
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/fachin-assume-caso-das-mensagens-de-vorcaro-a-moraes-e-pede-processos-do-master-e-inss.ghtml)_
+
