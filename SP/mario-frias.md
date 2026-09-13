@@ -152,3 +152,6 @@
 - **[2026-09-13 16:30 UTC]** 'Dark Horse': ao retirar sigilo de investigação, Dino cita suspeita de que Frias liderou esquema criminoso de desvios
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/dark-horse-ao-retirar-sigilo-de-investigacao-dino-cita-suspeita-de-que-frias-liderou-esquema-criminoso-de-desvios.ghtml)_
 
+- **[2026-09-13 11:01 UTC]** Dino tira sigilo de investigação em SP sobre produtora de 'Dark Horse' e que envolve Mario Frias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-tira-sigilo-de-investigacao-da-policia-de-sao-paulo-sobre-produtora-de-dark-horse.shtml)_
+
