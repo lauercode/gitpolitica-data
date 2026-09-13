@@ -146,3 +146,6 @@
 - **[2026-09-13 13:43 UTC]** Dark Horse: Dino levanta sigilo de investigação que cita Mário Frias, aponta indícios de irregularidades e menciona possível elo com PCC
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/dark-horse-dino-levanta-sigilo-de-investigacao-que-cita-mario-frias-aponta-indicios-de-irregularidades-e-menciona-possivel-elo-com-pcc.ghtml)_
 
+- **[2026-09-13 14:56 UTC]** Mario Frias diz que não há crime em patrocínio do Master a Dark Horse
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-diz-que-nao-ha-crime-em-patrocinio-do-master-a-dark-horse/)_
+
