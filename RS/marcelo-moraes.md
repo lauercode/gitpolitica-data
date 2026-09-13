@@ -1574,3 +1574,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 21:05 UTC]** Pedidos de vista em sessão do STF sobre Moraes serão respondidos com antecipação de votos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pedidos-de-vista-em-sessao-do-stf-sobre-moraes-serao-respondidos-com-antecipacao-de-votos.ghtml)_
 
+- **[2026-09-12 23:23 UTC]** Fachin assume relatoria da discussão sobre suposta relação entre Moraes e Vorcaro e remete à presidência do STF investigações sobre INSS e Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/fachin-assume-relatoria-de-discussao-sobre-suposta-relacao-entre-moraes-e-vorcaro.ghtml)_
+
