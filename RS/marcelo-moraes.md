@@ -1598,3 +1598,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-12 22:14 UTC]** Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-stf-assume-relatoria-do-processo-sobre-moraes-e-vorcaro)_
 
+- **[2026-09-12 22:30 UTC]** Fachin vira relator de investigação sobre relação de Moraes e Vorcaro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-vira-relator-de-investigacao-sobre-relacao-de-moraes-e-vorcaro)_
+
