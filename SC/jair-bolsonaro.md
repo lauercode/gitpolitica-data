@@ -29,3 +29,6 @@
 - **[2026-09-12 03:34 UTC]** 'Dark Horse': produtor dos EUA de filme sobre Jair Bolsonaro diz que só entrega documentos à PF com ordem da Justiça americana
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/dark-horse-produtor-dos-eua-de-filme-sobre-jair-bolsonaro-diz-que-so-entrega-documentos-a-pf-com-ordem-da-justica-americana.ghtml)_
 
+- **[2026-09-13 12:00 UTC]** Jair Bolsonaro ainda é citado por 2% dos eleitores, segundo Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/jair-bolsonaro-ainda-e-citado-por-2-dos-eleitores-segundo-datafolha.shtml)_
+
