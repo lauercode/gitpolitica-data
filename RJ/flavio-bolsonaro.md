@@ -1178,3 +1178,6 @@
 - **[2026-09-13 00:22 UTC]** Na TV, Lula cita caso Master e diz que PF não tinha liberdade com família Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/na-tv-lula-cita-caso-master-e-diz-que-pf-no-tinha-liberdade-com-famlia-bolsonaro.ghtml)_
 
+- **[2026-09-13 14:20 UTC]** Flávio Dino retira sigilo de investigações sobre desvio de emendas parlamentares para o filme de Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/flvio-dino-retira-sigilo-de-investigaes-sobre-desvio-de-emendas-parlamentares-para-o-filme-de-bolsonaro.ghtml)_
+
