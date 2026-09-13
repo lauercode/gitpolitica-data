@@ -1616,3 +1616,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 15:34 UTC]** Sem citar Moraes, PF questiona quem é ‘Andrei’ e ‘Paulo’ em mensagem enviada por Vorcaro ao ministro
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/13/sem-citar-moraes-pf-questiona-quem-andrei-e-paulo-em-mensagem-enviada-por-vorcaro-ao-ministro.ghtml)_
 
+- **[2026-09-13 20:37 UTC]** Em depoimento, Vorcaro diz não lembrar destinatário de mensagem que, segundo PF, era Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/em-depoimento-vorcaro-diz-nao-lembrar-destinatario-de-mensagem-que-segundo-pf-era-moraes.ghtml)_
+
