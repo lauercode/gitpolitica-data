@@ -1193,3 +1193,6 @@
 - **[2026-09-13 22:56 UTC]** Crise no STF reorganiza debate digital entre Lula e Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/crise-stf-reorganiza-debate-digital-entre-lula-flavio-bolsonaro/)_
 
+- **[2026-09-13 23:09 UTC]** Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento de 'Dark Horse'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss)_
+
