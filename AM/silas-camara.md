@@ -989,3 +989,6 @@ direitos
 - **[2026-09-12 16:47 UTC]** PF encontrou lista intitulada 'Câmara', com 'nomes' de deputados e 'valores', na churrasqueira de Ciro Nogueira
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/pf-encontrou-lista-intitulada-camara-com-nomes-de-deputados-e-valores-na-churrasqueira-de-ciro-nogueira.ghtml)_
 
+- **[2026-09-12 23:00 UTC]** Foragida da Justiça brasileira, Carla Zambelli ajuda a comandar campanha da mãe à Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/foragida-da-justica-brasileira-carla-zambelli-ajuda-a-comandar-campanha-da-mae-a-camara.shtml)_
+
