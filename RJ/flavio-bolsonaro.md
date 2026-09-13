@@ -1187,3 +1187,6 @@
 - **[2026-09-13 20:40 UTC]** Análise: Ao expor suspeita sobre o PCC, Dino desafia Mendonça e vulnerabiliza Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/analise-ao-expor-suspeita-sobre-o-pcc-dino-desafia-mendonca-e-vulnerabiliza-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-13 23:11 UTC]** Lula faz 'live' com apoiadores no Alvorada; em 2022, TSE proibiu Bolsonaro de promover própria campanha no palácio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/lula-faz-live-com-apoiadores-no-alvorada-em-2022-tse-proibiu-bolsonaro-de-promover-propria-campanha-no-palacio.ghtml)_
+
