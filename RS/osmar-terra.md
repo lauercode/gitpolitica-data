@@ -113,3 +113,6 @@
 - **[2026-09-12 18:14 UTC]** MPF cobra R$ 1,7 bilhão em indenização de empresário e mineradora por garimpo ilegal na Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/12/mpf-cobra-r-17-bilhao-em-indenizacao-de-empresario-e-mineradora-por-garimpo-ilegal-na-terra-yanomami.ghtml)_
 
+- **[2026-09-13 20:19 UTC]** Círios reúnem milhares de fiéis em Tomé-Açu, Terra Alta e Cachoeira do Arari, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/13/cirios-reunem-milhares-de-fieis-em-tome-acu-e-terra-alta-no-para.ghtml)_
+
