@@ -1586,3 +1586,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 00:10 UTC]** Lula ensaia “largar a mão” de Moraes, mas teme consequências
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ensaia-largar-a-mao-de-moraes-mas-teme-consequencias/)_
 
+- **[2026-09-13 00:43 UTC]** Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyz5xkdvndo?at_medium=RSS&at_campaign=rss)_
+
