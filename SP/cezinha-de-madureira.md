@@ -56,3 +56,6 @@
 - **[2026-09-14 16:57 UTC]** 'Tu vais fazer mais um' disse advogada a Cezinha de Madureira sobre indicação de Messias
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/tu-vais-fazer-mais-um-disse-advogada-a-cezinha-de-madureira-sobre-indicacao-de-messias.ghtml)_
 
+- **[2026-09-14 16:27 UTC]** PF cita atuação de Cezinha de Madureira em processos relatados por Fachin e Nunes Marques
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/pf-cita-atuao-de-cezinha-de-madureira-em-processos-relatados-por-fachin-e-nunes-marques.ghtml)_
+
