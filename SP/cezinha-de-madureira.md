@@ -62,3 +62,6 @@
 - **[2026-09-14 21:12 UTC]** Cezinha de Madureira emprega na Câmara sargento expulso da PM suspeito de envolvimento com PCC
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/cezinha-de-madureira-emprega-na-camara-sargento-expulso-da-pm-suspeito-de-envolvimento-com-pcc.ghtml)_
 
+- **[2026-09-14 20:10 UTC]** Polícia Federal investiga Cezinha de Madureira por negociar influência no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-cezinha-de-madureira-por-negociar-influencia-no-stf/)_
+
