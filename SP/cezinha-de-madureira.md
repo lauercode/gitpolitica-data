@@ -14,3 +14,6 @@
 - **[2026-09-14 08:02 UTC]** PF faz operação contra Cezinha de Madureira, aliado de ministro André Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-faz-operacao-contra-cezinha-madureira-aliado-de-ministro-andre-mendonca.shtml)_
 
+- **[2026-09-14 13:00 UTC]** PF mira Cezinha de Madureira por suspeita de tráfico de influência em tribunais superiores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-deputado-cezinha-de-madureira-suspeita-trafico-influencia/)_
+
