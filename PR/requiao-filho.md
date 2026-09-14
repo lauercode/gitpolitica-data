@@ -38,3 +38,6 @@
 - **[2026-09-11 19:12 UTC]** Eleições 2026: Requião Filho diz que parte da malha ferroviária do Paraná está abandonada e que pretende 'retomar estradas de ferro'
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-requiao-filho-diz-que-parte-da-malha-ferroviaria-do-parana-esta-abandonada-e-que-pretende-retomar-estradas-de-ferro.ghtml)_
 
+- **[2026-09-14 16:58 UTC]** Eleições 2026 no Paraná: Requião Filho visita hospital e encontra apoiadores na Grande Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-requiao-filho-visita-hospital-e-encontra-apoiadores.ghtml)_
+
