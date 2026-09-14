@@ -1754,3 +1754,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 19:19 UTC]** Conselheiro da OAB-PR cobra reação mais dura contra Moraes e critica decisão da presidência
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/conselheiro-oab-pr-cobra-reacao-mais-dura-contra-moraes/)_
 
+- **[2026-09-14 21:30 UTC]** Flávio Bolsonaro sobre Moraes: 'Não é possível que fique impune e continue participando de julgamentos'
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/14/flavio-bolsonaro-sobre-moraes-nao-e-possivel-que-fique-impune-e-continue-participando-de-julgamentos.ghtml)_
+
