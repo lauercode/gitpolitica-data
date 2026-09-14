@@ -1643,3 +1643,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 01:03 UTC]** Supremo tem a chance de recuperar credibilidade com investigação contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/supremo-tem-a-chance-de-recuperar-credibilidade-com-investigacao-contra-moraes/)_
 
+- **[2026-09-14 03:00 UTC]** Ministros do STF discutem se Moraes e Mendonça devem participar de julgamento na terça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/ministros-do-stf-discutem-se-moraes-e-mendonca-devem-participar-de-julgamento-na-terca.ghtml)_
+
