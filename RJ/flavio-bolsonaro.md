@@ -1241,3 +1241,6 @@
 - **[2026-09-14 12:28 UTC]** Juros e real têm leve melhora logo após Quaest mostrar Flávio à frente de Lula no 2º turno, mas voltam a piorar
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/14/juros-futuros-sobem-de-olho-em-corrida-eleitoral-crise-no-stf-e-escalada-do-petroleo.ghtml)_
 
+- **[2026-09-14 14:58 UTC]** Quaest: entre eleitores independentes, Flávio Bolsonaro tem 36% contra 26% de Lula no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-flavio-lula-2-turno-independentes-14-setembro.ghtml)_
+
