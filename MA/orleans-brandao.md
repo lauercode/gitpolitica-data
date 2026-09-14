@@ -17,3 +17,6 @@
 - **[2026-09-14 17:42 UTC]** Orleans Brandão promete zerar IPVA para motoristas de aplicativo e melhorar sistema de ferry-boats
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/14/orleans-brandao-promete-zerar-ipva-para-motoristas-de-aplicativo-melhorar-sistema-de-ferry-boats-e-ampliar-regularizacao-fundiaria.ghtml)_
 
+- **[2026-09-14 14:30 UTC]** Orleans Brandão (MDB) é entrevistado no JM1; assista
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-maranhao-no-jm1.ghtml)_
+
