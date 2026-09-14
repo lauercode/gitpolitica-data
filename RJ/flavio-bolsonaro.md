@@ -1232,3 +1232,6 @@
 - **[2026-09-14 08:42 UTC]** BTG/Nexus: Lula tem 42%, e Flávio Bolsonaro, 37% no primeiro turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-lula-tem-42-e-flavio-bolsonaro-37-no-primeiro-turno.shtml)_
 
+- **[2026-09-14 13:14 UTC]** Juiz rejeita ação de Bolsonaro contra Janones por acusação de mandar matar Lula e Alckmin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiz-rejeita-acao-de-bolsonaro-contra-janones-por-acusacao-de-mandar-matar-lula-e-alckmin/)_
+
