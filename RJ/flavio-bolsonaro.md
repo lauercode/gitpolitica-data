@@ -1295,3 +1295,6 @@
 - **[2026-09-14 22:30 UTC]** Queda de sigilo sobre caso ‘Dark Horse’ não gera novo desgaste para Flávio, avaliam aliados
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/queda-de-sigilo-sobre-caso-dark-horse-no-gera-novo-desgaste-para-flvio-avaliam-aliados.ghtml)_
 
+- **[2026-09-14 19:46 UTC]** Em Belém, Flávio defende afastamento de Moraes e tenta atrelar magistrado a Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/em-belem-flavio-defende-afastamento-de-moraes-e-tenta-atrelar-magistrado-a-lula.ghtml)_
+
