@@ -1214,3 +1214,6 @@
 - **[2026-09-14 08:00 UTC]** Crise muda estratégia de Lula e Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/14/crise-muda-estrategia-de-lula-e-flavio.ghtml)_
 
+- **[2026-09-14 13:43 UTC]** Quaest: transferência de votos de eleitores de Cury, Renan e Caiado favorece Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-transferencia-votos-flavio-segundo-turno.ghtml)_
+
