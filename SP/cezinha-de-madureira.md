@@ -26,3 +26,6 @@
 - **[2026-09-14 13:51 UTC]** PF: deputado Cezinha de Madureira negociava acesso a ministros do STF
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pf-deputado-cezinha-de-madureira-negociava-acesso-ministros-do-stf)_
 
+- **[2026-09-14 13:34 UTC]** Deputado Cezinha de Madureira dizia ter contato direto com ministros
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/deputado-cezinha-de-madureira-dizia-ter-contato-direto-com-ministros)_
+
