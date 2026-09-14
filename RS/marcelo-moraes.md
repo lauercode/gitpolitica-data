@@ -1706,3 +1706,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 18:36 UTC]** Por que Cármen Lúcia e Fachin devem ser cruciais para o futuro de Alexandre de Moraes no STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c33krrv86r2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-14 19:00 UTC]** Que horas é o julgamento sobre Moraes no STF? Saiba horário e onde assistir
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/que-horas-e-o-julgamento-sobre-moraes-no-stf-saiba-horario-e-onde-assistir.ghtml)_
+
