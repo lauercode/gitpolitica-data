@@ -1283,3 +1283,6 @@
 - **[2026-09-14 19:48 UTC]** Decisão de Flávio Dino diz que Valéria Rodrigues, esposa de Cezinha, estava com mala de R$ 510 mil apreendida em Congonhas
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/decisao-de-flavio-dino-diz-que-valeria-rodrigues-esposa-de-cezinha-estava-com-mala-de-r-510-mil-apreendida-em-congonhas.ghtml)_
 
+- **[2026-09-14 19:24 UTC]** Organograma apreendido pela polícia de SP mostra o nome 'Mário' ao lado das palavras 'sócio' e 'Go Up USA', produtora de filme sobre Bolsonaro nos EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/organograma-apreendido-pela-policia-de-sp-mostra-o-nome-mario-ao-lado-das-palavras-socio-e-go-up-produtora-de-filme-sobre-bolsonaro-nos-eua.ghtml)_
+
