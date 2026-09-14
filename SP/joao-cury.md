@@ -281,3 +281,6 @@
 - **[2026-09-14 13:16 UTC]** Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 31%; Cury, 7%; Renan, 4%; Caiado, 4%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-pesquisa-presidente-primeiro-turno-14-setembro.ghtml)_
 
+- **[2026-09-14 13:37 UTC]** Cury declara apoio a André Mendonça e publica “não vote em quem está na agenda do Vorcaro”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cury-declara-apoio-a-andre-mendonca-e-publica-nao-vote-em-quem-esta-na-agenda-do-vorcaro/)_
+
