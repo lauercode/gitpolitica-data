@@ -1673,3 +1673,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 13:21 UTC]** Julgamento sobre Moraes no STF: como deve ser a sessão de terça e o que ainda é dúvida
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-julgamento-moraes.ghtml)_
 
+- **[2026-09-14 12:46 UTC]** Grupo de Moraes no STF atua para evitar abertura de investigação contra colega, avaliam juristas e ex-ministros do Supremo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/grupo-de-moraes-no-stf-atua-para-evitar-abertura-de-investigacao-contra-colega-avaliam-juristas-e-ex-ministros-do-stf.ghtml)_
+
