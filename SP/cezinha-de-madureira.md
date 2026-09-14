@@ -20,3 +20,6 @@
 - **[2026-09-14 13:27 UTC]** Quem é Cezinha de Madureira, deputado federal do PL alvo da Polícia Federal
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c98r633vr87go?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-14 11:41 UTC]** Deputado Cezinha Madureira é alvo de operação da PF por suspeita de tráfico de influência no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/pf-faz-operacao-contra-cezinha-madureira-por-suspeita-de-trafico-de-influencia-no-stf.ghtml)_
+
