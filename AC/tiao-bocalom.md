@@ -11,3 +11,6 @@
 - **[2026-09-10 16:08 UTC]** Tião Bocalom defende produção local para reduzir dependência de recursos de Brasília
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/10/tiao-bocalom-defende-producao-local-para-reduzir-dependencia-de-recursos-de-brasilia.ghtml)_
 
+- **[2026-09-14 16:31 UTC]** Tião Bocalom (PSDB) não comparece à sabatina do JAC1 e entrevista é cancelada
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/jornal-do-acre-1-edicao-entrevista-candidatos-ao-governo-do-estado.ghtml)_
+
