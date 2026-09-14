@@ -1724,3 +1724,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 21:17 UTC]** Quaest: 37% avaliam que Mendonça age de forma correta na crise do STF; 16% defendem Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/quaest-parte-defende-mendonca-age-de-forma-correta-na-crise-do-stf.ghtml)_
 
+- **[2026-09-14 20:53 UTC]** STF analisa nesta terça se abre investigação contra Moraes por mensagens com Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
+
