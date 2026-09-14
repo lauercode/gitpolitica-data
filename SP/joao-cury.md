@@ -275,3 +275,6 @@
 - **[2026-09-14 13:43 UTC]** Quaest: transferência de votos de eleitores de Cury, Renan e Caiado favorece Flávio Bolsonaro no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-transferencia-votos-flavio-segundo-turno.ghtml)_
 
+- **[2026-09-14 13:21 UTC]** Quaest: entre eleitores de Cury, 25% escolhem Lula e 41%, Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-eleitores-cury-lula-flavio-segundo-turno-setembro.ghtml)_
+
