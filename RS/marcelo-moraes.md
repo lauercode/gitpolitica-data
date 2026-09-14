@@ -1727,3 +1727,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 20:53 UTC]** STF analisa nesta terça se abre investigação contra Moraes por mensagens com Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
 
+- **[2026-09-14 13:21 UTC]** STF divulga rito da sessão que vai analisar relatório da PF que mostra suposta relação de Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-julgamento-moraes.ghtml)_
+
