@@ -1658,3 +1658,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 01:36 UTC]** Julgamento de Moraes provoca ofensiva de ministros do STF por acesso ao celular de Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/julgamento-de-moraes-provoca-ofensiva-de-ministros-do-stf-por-acesso-ao-celular-de-vorcaro/)_
 
+- **[2026-09-14 08:00 UTC]** A situação de Moraes e o dever da elite
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/coluna/a-situacao-de-moraes-e-o-dever-da-elite.ghtml)_
+
