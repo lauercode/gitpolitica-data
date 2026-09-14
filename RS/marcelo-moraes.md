@@ -1739,3 +1739,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 21:21 UTC]** Eduardo Bolsonaro terá reuniões em Washington para tratar de sanções contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eduardo-bolsonaro-tera-reunioes-em-washington-para-tratar-de-sancoes-contra-moraes/)_
 
+- **[2026-09-14 21:19 UTC]** Gonet escolhe para grupo de trabalho subprocurador que trabalha com Moraes na USP
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-escolhe-subprocurador-que-trabalha-com-moraes-na-usp/)_
+
