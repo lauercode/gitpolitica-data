@@ -1229,3 +1229,6 @@
 - **[2026-09-14 13:16 UTC]** Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 31%; Cury, 7%; Renan, 4%; Caiado, 4%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-pesquisa-presidente-primeiro-turno-14-setembro.ghtml)_
 
+- **[2026-09-14 08:42 UTC]** BTG/Nexus: Lula tem 42%, e Flávio Bolsonaro, 37% no primeiro turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-lula-tem-42-e-flavio-bolsonaro-37-no-primeiro-turno.shtml)_
+
