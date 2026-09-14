@@ -1697,3 +1697,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 10:05 UTC]** PF entrega conteúdo do celular de Vorcaro aos gabinetes de Zanin, Gilmar e Moraes no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/integra-de-celular-de-vorcaro-chega-a-gabinete-de-zanin-que-analisa-conteudo.shtml)_
 
+- **[2026-09-14 19:03 UTC]** Acompanhe ao vivo: STF decide se Alexandre de Moraes será investigado no caso Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acompanhe-ao-vivo-stf-decide-se-alexandre-de-moraes-sera-investigado-no-caso-vorcaro/)_
+
