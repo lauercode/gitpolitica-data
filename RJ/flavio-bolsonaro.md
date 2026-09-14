@@ -1235,3 +1235,6 @@
 - **[2026-09-14 13:14 UTC]** Juiz rejeita ação de Bolsonaro contra Janones por acusação de mandar matar Lula e Alckmin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiz-rejeita-acao-de-bolsonaro-contra-janones-por-acusacao-de-mandar-matar-lula-e-alckmin/)_
 
+- **[2026-09-14 13:17 UTC]** Pesquisa Quaest: Flávio aparece numericamente à frente de Lula no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/pesquisa-quaest-flavio-aparece-numericamente-a-frente-de-lula-no-2o-turno.ghtml)_
+
