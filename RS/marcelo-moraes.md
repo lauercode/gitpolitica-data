@@ -1745,3 +1745,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 20:25 UTC]** Moraes na mira: como seria investigar um ministro do Supremo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-na-mira-como-seria-investigar-um-ministro-do-supremo/)_
 
+- **[2026-09-14 20:25 UTC]** Aliados de Alexandre de Moraes buscam estratégias para evitar julgamento no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aliados-de-alexandre-de-moraes-buscam-estrategias-para-evitar-julgamento-no-stf/)_
+
