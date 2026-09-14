@@ -14,3 +14,6 @@
 - **[2026-09-09 18:56 UTC]** Mailza Assis diz que pretende ouvir demandas da população para definir políticas públicas se reeleita
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/09/mailza-assis-diz-que-pretende-ouvir-demandas-da-populacao-para-definir-politicas-publicas-se-reeleita.ghtml)_
 
+- **[2026-09-14 19:33 UTC]** Mailza Assis inaugura casa de campanha e diz que espaço será ponto de contato com comunidades
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/14/mailza-assis-inaugura-casa-de-campanha-e-diz-que-espaco-sera-ponto-de-contato-com-comunidades.ghtml)_
+
