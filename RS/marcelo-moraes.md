@@ -1694,3 +1694,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 13:21 UTC]** Julgamento sobre Moraes no STF: como deve ser a sessão desta terça e o que ainda é dúvida
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-julgamento-moraes.ghtml)_
 
+- **[2026-09-14 10:05 UTC]** PF entrega conteúdo do celular de Vorcaro aos gabinetes de Zanin, Gilmar e Moraes no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/integra-de-celular-de-vorcaro-chega-a-gabinete-de-zanin-que-analisa-conteudo.shtml)_
+
