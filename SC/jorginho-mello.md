@@ -50,3 +50,6 @@
 - **[2026-09-14 11:47 UTC]** Às 11h45: Jornal do Almoço entrevista Jorginho Mello, candidato ao governo de SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/entrevista-candidatos-governo-de-sc-jorginho-mello.ghtml)_
 
+- **[2026-09-14 16:39 UTC]** Entrevista na NSC: Jorginho Mello defende parcerias público-privadas para o saneamento básico e prepara retomada das câmeras corporais da polícia
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/14/entrevista-na-nsc-jorginho-mello-governo-santa-catarina.ghtml)_
+
