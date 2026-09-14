@@ -1259,3 +1259,6 @@
 - **[2026-09-14 10:53 UTC]** Quaest: Flávio marca 42%, e Lula, 40% no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-flavio-marca-42-e-lula-40-no-2o-turno.shtml)_
 
+- **[2026-09-14 15:30 UTC]** Qual a chance de Flávio Bolsonaro vencer no primeiro turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/qual-a-chance-de-flavio-bolsonaro-vencer-no-primeiro-turno/)_
+
