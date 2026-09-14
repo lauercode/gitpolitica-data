@@ -1640,3 +1640,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 22:00 UTC]** Casos de Moraes e Mendonça não podem ser misturados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/casos-de-moraes-e-mendonca-nao-podem-ser-misturados.shtml)_
 
+- **[2026-09-14 01:03 UTC]** Supremo tem a chance de recuperar credibilidade com investigação contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/supremo-tem-a-chance-de-recuperar-credibilidade-com-investigacao-contra-moraes/)_
+
