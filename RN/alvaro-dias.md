@@ -20,3 +20,6 @@
 - **[2026-09-14 16:40 UTC]** Candidato ao Governo do RN, Álvaro Dias promete aumentar arrecadação e ampliar Walfredo Gurgel; veja entrevista
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/14/entrevista-governo-do-rn-alvaro-dias.ghtml)_
 
+- **[2026-09-14 19:34 UTC]** Álvaro Dias propõe interiorização da indústria e do turismo no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/14/alvaro-dias-propoe-interiorizacao-da-industria-e-do-turismo-no-rn.ghtml)_
+
