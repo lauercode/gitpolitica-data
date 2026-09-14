@@ -1712,3 +1712,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 14:12 UTC]** A nova pesquisa Datafolha para presidente após julgamento de Moraes no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/a-nova-pesquisa-datafolha-para-presidente-apos-julgamento-de-moraes-no-stf.ghtml)_
 
+- **[2026-09-14 16:33 UTC]** STF define rito de sessão que analisará conversas de  Moraes e Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-define-rito-de-sessao-que-analisara-conversas-de-moraes-e-vorcaro)_
+
