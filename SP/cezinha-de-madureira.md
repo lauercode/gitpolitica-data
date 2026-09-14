@@ -41,3 +41,6 @@
 - **[2026-09-14 12:49 UTC]** Pedido da PF sobre Cezinha de Madureira cita 'comercialização de influência' junto a STF, STJ e TSE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pedido-da-pf-sobre-cezinha-de-madureira-cita-comercializacao-de-influencia-junto-a-stf-stj-e-tse.shtml)_
 
+- **[2026-09-14 12:28 UTC]** Dino cita honorários de R$ 1 milhão e despachos de Cezinha de Madureira com ministros do STF em decisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dino-cita-honorarios-de-r-1-milhao-e-despachos-de-cezinha-de-madureira-com-ministros-do-stf-em-decisao.shtml)_
+
