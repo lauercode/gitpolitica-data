@@ -1703,3 +1703,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 17:04 UTC]** Mendonça derruba sigilo de informações financeiras do caso Master após pressão de Moraes e PGR
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-derruba-sigilo-de-processo-sobre-pagamentos-de-vorcaro/)_
 
+- **[2026-09-14 18:36 UTC]** Por que Cármen Lúcia e Fachin devem ser cruciais para o futuro de Alexandre de Moraes no STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c33krrv86r2o?at_medium=RSS&at_campaign=rss)_
+
