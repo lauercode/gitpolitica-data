@@ -29,3 +29,6 @@
 - **[2026-09-11 00:48 UTC]** Eleições 2026 no RS: Cesar Pontes diz educação 'não deve ser transformado em negócio que vise lucro'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-no-rs-cesar-pontes-diz-educacao-nao-deve-ser-transformado-em-negocio-que-vise-lucro.ghtml)_
 
+- **[2026-09-14 14:49 UTC]** Cesar Camargo Mariano celebra aniversário no palco em shows na região serrana do Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musica-em-letras/2026/09/cesar-camargo-mariano-celebra-aniversario-no-palco-em-shows-na-regiao-serrana-do-rio.shtml)_
+
