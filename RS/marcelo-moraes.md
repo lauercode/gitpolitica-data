@@ -1742,3 +1742,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 21:19 UTC]** Gonet escolhe para grupo de trabalho subprocurador que trabalha com Moraes na USP
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-escolhe-subprocurador-que-trabalha-com-moraes-na-usp/)_
 
+- **[2026-09-14 20:25 UTC]** Moraes na mira: como seria investigar um ministro do Supremo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-na-mira-como-seria-investigar-um-ministro-do-supremo/)_
+
