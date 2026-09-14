@@ -203,3 +203,6 @@
 - **[2026-09-11 17:09 UTC]** Justiça manda cidade no Sertão da Paraíba mudar nome de avenida em alusão à ditadura militar
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/justica-manda-cidade-no-sertao-da-paraiba-mudar-nome-de-avenida-em-alusao-a-ditadura-militar.ghtml)_
 
+- **[2026-09-14 21:19 UTC]** Eleições 2026: Roberto Cidade participa de encontro com empresários e defende novas matrizes econômicas para o interior
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-roberto-cidade-participa-de-encontro-com-empresarios-e-defende-novas-matrizes-economicas-para-o-interior.ghtml)_
+
