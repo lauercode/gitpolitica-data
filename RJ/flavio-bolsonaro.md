@@ -1274,3 +1274,6 @@
 - **[2026-09-14 16:12 UTC]** Campanha de Flávio está ‘aliviada’ com liberação de inquéritos do Master, diz coordenadora econômica
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/campanha-de-flavio-esta-aliviada-com-liberacao-de-inqueritos-do-master-diz-coordenadora-economica.ghtml)_
 
+- **[2026-09-14 15:47 UTC]** Análise: Flávio Bolsonaro é favorito, mas pesquisa indica que eleição não está decidida
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/flavio-bolsonaro-e-favorito-mas-pesquisa-indica-que-eleicao-nao-esta-decidida.ghtml)_
+
