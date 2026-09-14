@@ -1217,3 +1217,6 @@
 - **[2026-09-14 13:43 UTC]** Quaest: transferência de votos de eleitores de Cury, Renan e Caiado favorece Flávio Bolsonaro no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-transferencia-votos-flavio-segundo-turno.ghtml)_
 
+- **[2026-09-14 13:33 UTC]** 2º turno entre Lula e Flávio Bolsonaro: veja números da Quaest por posicionamento político, região, sexo, faixa etária, escolaridade, renda e religião
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/2-turno-lula-e-flavio-bolsonaro-quaest-segmentos.ghtml)_
+
