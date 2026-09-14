@@ -1667,3 +1667,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 08:00 UTC]** Caso Master aprofunda tensão no STF às vésperas de julgamento de Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/14/caso-master-aprofunda-tensao-no-stf-as-vesperas-de-julgamento-de-moraes.ghtml)_
 
+- **[2026-09-14 07:40 UTC]** STF decide se abre investigação contra Moraes nesta terça (15)
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-decide-se-abre-investigacao-contra-moraes-nesta-terca-15)_
+
