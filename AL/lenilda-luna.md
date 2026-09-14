@@ -14,3 +14,6 @@
 - **[2026-09-02 17:10 UTC]** Lenilda Luna defende em sabatina desmilitarização da PM e mudança na formação de policiais em AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/02/lenilda-luna-defende-em-sabatina-desmilitarizacao-da-pm-e-mudanca-na-formacao-de-policiais-em-al.ghtml)_
 
+- **[2026-09-14 17:54 UTC]** Lenilda Luna promete priorizar população de baixa renda e fortalecer SUS em Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/14/lenilda-luna-promete-priorizar-populacao-de-baixa-renda-e-fortalecer-sus-em-alagoas.ghtml)_
+
