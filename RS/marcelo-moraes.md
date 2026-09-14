@@ -1730,3 +1730,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 13:21 UTC]** STF divulga rito da sessão que vai analisar relatório da PF que mostra suposta relação de Vorcaro e Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-julgamento-moraes.ghtml)_
 
+- **[2026-09-14 17:48 UTC]** FGV Direito SP reúne professores e alunos para acompanhar sessão do STF sobre Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/fgv-direito-sp-reune-professores-e-alunos-para-acompanhar-sessao-do-stf-sobre-moraes.shtml)_
+
