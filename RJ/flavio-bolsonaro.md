@@ -1211,3 +1211,6 @@
 - **[2026-09-14 08:00 UTC]** Crise no STF muda estratégia eleitoral de Lula e Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/crise-no-stf-muda-estrategia-eleitoral-de-lula-e-flavio.ghtml)_
 
+- **[2026-09-14 08:00 UTC]** Crise muda estratégia de Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/14/crise-muda-estrategia-de-lula-e-flavio.ghtml)_
+
