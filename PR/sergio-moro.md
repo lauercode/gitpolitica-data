@@ -56,3 +56,6 @@
 - **[2026-09-14 16:58 UTC]** Eleições 2026 no Paraná: Sergio Moro participa de entrevista ao vivo na RPC, em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-sergio-moro-entrevista.ghtml)_
 
+- **[2026-09-14 16:14 UTC]** Sergio Moro promete criar ‘Agência Estadual de Combate à Corrupção’ no Paraná e diz que vai participar de debate na TV
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/sergio-moro-entrevista-rpc.ghtml)_
+
