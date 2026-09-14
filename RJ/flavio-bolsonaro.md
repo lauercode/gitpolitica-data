@@ -1262,3 +1262,6 @@
 - **[2026-09-14 15:30 UTC]** Qual a chance de Flávio Bolsonaro vencer no primeiro turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/qual-a-chance-de-flavio-bolsonaro-vencer-no-primeiro-turno/)_
 
+- **[2026-09-14 18:30 UTC]** Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
