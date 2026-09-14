@@ -1649,3 +1649,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 23:00 UTC]** Sessão sobre crise no STF tem rito incerto, artilharia montada entre Moraes e Mendonça e risco de obstrução
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/sessao-sobre-crise-no-stf-tem-rito-incerto-artilharia-montada-entre-moraes-e-mendonca-e-risco-de-obstrucao.shtml)_
 
+- **[2026-09-13 18:08 UTC]** Zanin e Gilmar cobram acesso à íntegra de celular de Vorcaro, e STF tem embate antes de julgar Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/zanin-ordena-acesso-a-integra-de-celular-de-vorcaro-e-diz-nao-haver-hierarquia-entre-ministros-do-stf.shtml)_
+
