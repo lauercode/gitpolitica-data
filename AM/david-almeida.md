@@ -41,3 +41,6 @@
 - **[2026-09-13 01:53 UTC]** Eleições 2026: David Almeida participa de reunião com apoiadores na Zona Leste de Manaus e fala sobre fortalecer eventos culturais no estado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/12/eleicoes-2026-david-almeida-participa-de-reuniao-com-apoiadores-na-zona-leste-de-manaus-e-fala-sobre-fortalecer-eventos-culturais-no-estado.ghtml)_
 
+- **[2026-09-14 21:38 UTC]** Eleições 2026: David Almeida participa de entrevista e propõe transformar Manaus em sede de grandes eventos esportivos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-transformar-manaus-em-sede-de-grandes-eventos-esportivos.ghtml)_
+
