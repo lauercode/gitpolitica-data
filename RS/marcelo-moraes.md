@@ -1721,3 +1721,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 19:05 UTC]** STF define rito de sessão que analisará suposta ligação Moraes-Vorcaro
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-define-rito-de-sessao-que-analisara-suposta-ligacao-moraes-vorcaro)_
 
+- **[2026-09-14 21:17 UTC]** Quaest: 37% avaliam que Mendonça age de forma correta na crise do STF; 16% defendem Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/quaest-parte-defende-mendonca-age-de-forma-correta-na-crise-do-stf.ghtml)_
+
