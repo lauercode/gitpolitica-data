@@ -1763,3 +1763,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 19:46 UTC]** Em Belém, Flávio defende afastamento de Moraes e tenta atrelar magistrado a Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/em-belem-flavio-defende-afastamento-de-moraes-e-tenta-atrelar-magistrado-a-lula.ghtml)_
 
+- **[2026-09-14 19:00 UTC]** Que horas é o julgamento de Moraes no STF? Saiba horário e onde assistir
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/que-horas-e-o-julgamento-sobre-moraes-no-stf-saiba-horario-e-onde-assistir.ghtml)_
+
