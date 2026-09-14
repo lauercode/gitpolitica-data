@@ -161,3 +161,6 @@
 - **[2026-09-14 18:29 UTC]** Mario Frias protesta contra exposição de operação da PF: “Assassinato de reputação”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-protesta-contra-exposicao-de-operacao-da-pf-assassinato-de-reputacao/)_
 
+- **[2026-09-14 20:03 UTC]** “Atorzinho da Malhação” e líder de cartas na Globo: veja trajetória de Mario Frias antes da política
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/atorzinho-da-malhacao-e-lider-de-cartas-na-globo-saiba-quem-e-mario-frias/)_
+
