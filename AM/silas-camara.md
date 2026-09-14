@@ -992,3 +992,6 @@ direitos
 - **[2026-09-12 23:00 UTC]** Foragida da Justiça brasileira, Carla Zambelli ajuda a comandar campanha da mãe à Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/foragida-da-justica-brasileira-carla-zambelli-ajuda-a-comandar-campanha-da-mae-a-camara.shtml)_
 
+- **[2026-09-14 21:12 UTC]** Cezinha de Madureira emprega na Câmara sargento expulso da PM suspeito de envolvimento com PCC
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/cezinha-de-madureira-emprega-na-camara-sargento-expulso-da-pm-suspeito-de-envolvimento-com-pcc.ghtml)_
+
