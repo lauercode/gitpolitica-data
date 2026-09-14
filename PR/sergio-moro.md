@@ -59,3 +59,6 @@
 - **[2026-09-14 16:14 UTC]** Sergio Moro promete criar ‘Agência Estadual de Combate à Corrupção’ no Paraná e diz que vai participar de debate na TV
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/sergio-moro-entrevista-rpc.ghtml)_
 
+- **[2026-09-14 15:46 UTC]** Sérgio Moro (PL) é entrevistado no Meio-Dia Paraná; ASSISTA
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/ao-vivo-entrevistas-candidatos-governo-parana.ghtml)_
+
