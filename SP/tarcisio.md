@@ -35,3 +35,6 @@
 - **[2026-09-11 20:10 UTC]** Datafolha: Tarcísio tem 49% e Haddad, 29% na disputa ao governo de SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/datafolha-tarcisio-tem-49percent-e-haddad-tem-29percent-na-disputa-ao-governo-de-sp.ghtml)_
 
+- **[2026-09-14 22:25 UTC]** SP1 entrevista Tarcísio de Freitas nesta terça
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/sp1-entrevista-tarcisio.ghtml)_
+
