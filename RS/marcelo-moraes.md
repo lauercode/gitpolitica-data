@@ -1670,3 +1670,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 07:40 UTC]** STF decide se abre investigação contra Moraes nesta terça (15)
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-decide-se-abre-investigacao-contra-moraes-nesta-terca-15)_
 
+- **[2026-09-14 13:21 UTC]** Julgamento sobre Moraes no STF: como deve ser a sessão de terça e o que ainda é dúvida
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-julgamento-moraes.ghtml)_
+
