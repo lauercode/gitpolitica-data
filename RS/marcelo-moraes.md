@@ -1736,3 +1736,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 17:09 UTC]** Fachin divulga rito genérico e será o 1º a votar em sessão histórica do STF sobre Vorcaro e Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-define-como-sera-a-sessao-inedita-que-vai-julgar-futuro-de-moraes.shtml)_
 
+- **[2026-09-14 21:21 UTC]** Eduardo Bolsonaro terá reuniões em Washington para tratar de sanções contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eduardo-bolsonaro-tera-reunioes-em-washington-para-tratar-de-sancoes-contra-moraes/)_
+
