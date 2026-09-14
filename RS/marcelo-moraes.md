@@ -1688,3 +1688,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 13:35 UTC]** Segurança vai ser reforçada em julgamento de Moraes no STF
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/seguranca-vai-ser-reforcada-em-julgamento-de-moraes-no-stf)_
 
+- **[2026-09-14 15:36 UTC]** PF diz que entregou cópias dos dados extraídos do celular de Vorcaro a Moraes, Zanin e Gilmar Mendes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/pf-diz-que-entregou-copias-dos-dados-extraidos-do-celular-de-vorcaro-a-moraes-zanin-e-gilmar-mendes.ghtml)_
+
