@@ -47,3 +47,6 @@
 - **[2026-09-11 22:40 UTC]** Eleições 2026 em SC: Jorginho Mello almoça com aliados e lideranças políticas em Curitibanos
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-em-sc-jorginho-mello-almoca-com-aliados-e-liderancas-politicas-em-curitibanos.ghtml)_
 
+- **[2026-09-14 11:47 UTC]** Às 11h45: Jornal do Almoço entrevista Jorginho Mello, candidato ao governo de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/entrevista-candidatos-governo-de-sc-jorginho-mello.ghtml)_
+
