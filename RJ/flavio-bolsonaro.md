@@ -1280,3 +1280,6 @@
 - **[2026-09-14 14:17 UTC]** Flávio consolida vantagem entre independentes e abre distância sobre Lula no Sudeste, diz diretor da Quaest
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/flavio-consolida-vantagem-entre-independentes-e-abre-distancia-sobre-lula-no-sudeste-diz-diretor-da-quaest.ghtml)_
 
+- **[2026-09-14 19:48 UTC]** Decisão de Flávio Dino diz que Valéria Rodrigues, esposa de Cezinha, estava com mala de R$ 510 mil apreendida em Congonhas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/decisao-de-flavio-dino-diz-que-valeria-rodrigues-esposa-de-cezinha-estava-com-mala-de-r-510-mil-apreendida-em-congonhas.ghtml)_
+
