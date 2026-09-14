@@ -11,3 +11,6 @@
 - **[2026-09-08 22:39 UTC]** Eleições 2026 em SC: Professor Marcus Sodré discute demandas dos trabalhadores da Celesc
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-professor-marcus-sodre-discute-demandas-dos-trabalhadores-da-celesc.ghtml)_
 
+- **[2026-09-14 22:31 UTC]** Eleições 2026 em SC: Professor Marcus Sodré panfleta na Udesc e concede entrevista à NSC TV
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-em-sc-professor-marcus-sodre-panfleta-na-udesc-e-concede-entrevista-a-nsc-tv.ghtml)_
+
