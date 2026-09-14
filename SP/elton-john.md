@@ -26,3 +26,6 @@
 - **[2026-09-09 15:46 UTC]** Por que Elton John utilizou cadeira de rodas ao sair do Rio de Janeiro?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/por-que-elton-john-utilizou-cadeira-de-rodas-ao-sair-do-rio-de-janeiro.shtml)_
 
+- **[2026-09-14 14:14 UTC]** Morre Bob Mackie, estilista que vestiu Madonna e Elton John, aos 87 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/morre-bob-mackie-estilista-que-vestiu-madonna-e-elton-john-aos-87-anos.shtml)_
+
