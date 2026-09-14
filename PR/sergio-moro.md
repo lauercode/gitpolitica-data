@@ -53,3 +53,6 @@
 - **[2026-09-11 19:14 UTC]** Eleições 2026 no PR: Sergio Moro diz que quer criar agência anticorrupção no estado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-no-pr-sergio-moro-11-setembro.ghtml)_
 
+- **[2026-09-14 16:58 UTC]** Eleições 2026 no Paraná: Sergio Moro participa de entrevista ao vivo na RPC, em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-sergio-moro-entrevista.ghtml)_
+
