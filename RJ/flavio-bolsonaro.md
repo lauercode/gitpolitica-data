@@ -1238,3 +1238,6 @@
 - **[2026-09-14 13:17 UTC]** Pesquisa Quaest: Flávio aparece numericamente à frente de Lula no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/pesquisa-quaest-flavio-aparece-numericamente-a-frente-de-lula-no-2o-turno.ghtml)_
 
+- **[2026-09-14 12:28 UTC]** Juros e real têm leve melhora logo após Quaest mostrar Flávio à frente de Lula no 2º turno, mas voltam a piorar
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/14/juros-futuros-sobem-de-olho-em-corrida-eleitoral-crise-no-stf-e-escalada-do-petroleo.ghtml)_
+
