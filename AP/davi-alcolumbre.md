@@ -206,3 +206,6 @@
 - **[2026-09-11 00:51 UTC]** Senadores da oposição intensificam cobrança sobre Alcolumbre pelo impeachment de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
 
+- **[2026-09-14 21:26 UTC]** Oposição critica “covardia” e propõe regra para reduzir poder de Alcolumbre sobre impeachment
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-critica-covardia-e-propoe-regra-para-reduzir-poder-de-alcolumbre-sobre-impeachment/)_
+
