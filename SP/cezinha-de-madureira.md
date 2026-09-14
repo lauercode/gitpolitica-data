@@ -29,3 +29,6 @@
 - **[2026-09-14 13:34 UTC]** Deputado Cezinha de Madureira dizia ter contato direto com ministros
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/deputado-cezinha-de-madureira-dizia-ter-contato-direto-com-ministros)_
 
+- **[2026-09-14 12:16 UTC]** PF faz operação contra deputado Cezinha de Madureira e esposa
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/pf-faz-operacao-contra-deputado-cezinha-de-madureira-e-esposa)_
+
