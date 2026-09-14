@@ -1208,3 +1208,6 @@
 - **[2026-09-14 04:06 UTC]** Mensagens tentam associar Flávio Bolsonaro ao PCC
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/mensagens-tentam-associar-flavio-bolsonaro-ao-pcc.shtml)_
 
+- **[2026-09-14 08:00 UTC]** Crise no STF muda estratégia eleitoral de Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/crise-no-stf-muda-estrategia-eleitoral-de-lula-e-flavio.ghtml)_
+
