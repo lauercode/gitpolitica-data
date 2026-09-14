@@ -1757,3 +1757,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 21:30 UTC]** Flávio Bolsonaro sobre Moraes: 'Não é possível que fique impune e continue participando de julgamentos'
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/14/flavio-bolsonaro-sobre-moraes-nao-e-possivel-que-fique-impune-e-continue-participando-de-julgamentos.ghtml)_
 
+- **[2026-09-14 19:55 UTC]** Saiba como será a sessão de julgamento de Alexandre de Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/saiba-como-sera-a-sessao-de-julgamento-de-alexandre-de-moraes-no-stf.ghtml)_
+
