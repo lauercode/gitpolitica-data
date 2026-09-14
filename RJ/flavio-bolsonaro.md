@@ -1247,3 +1247,6 @@
 - **[2026-09-14 14:09 UTC]** Quaest: 44% têm mais medo de reeleição de Lula; 42%, da volta da família Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-medo-reeleicao-lula-volta-familia-bolsonaro.ghtml)_
 
+- **[2026-09-14 15:01 UTC]** Haddad diz que nunca esteve com Vorcaro e vincula ex-banqueiro a Tarcísio e aliados de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-nunca-esteve-com-vorcaro-e-vincula-ex-banqueiro-a-tarcisio-e-aliados-de-bolsonaro.shtml)_
+
