@@ -1664,3 +1664,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 08:00 UTC]** Julgamento sobre Moraes no STF tem incertezas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/julgamento-sobre-moraes-no-stf-tem-incertezas.ghtml)_
 
+- **[2026-09-14 08:00 UTC]** Caso Master aprofunda tensão no STF às vésperas de julgamento de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/14/caso-master-aprofunda-tensao-no-stf-as-vesperas-de-julgamento-de-moraes.ghtml)_
+
