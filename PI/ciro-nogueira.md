@@ -32,3 +32,6 @@
 - **[2026-09-12 18:02 UTC]** PF encontra na churrasqueira de Ciro Nogueira lista de deputados e fala em prováveis valores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pf-encontra-na-churrasqueira-de-ciro-nogueira-lista-de-deputados-e-fala-em-provaveis-valores.shtml)_
 
+- **[2026-09-14 10:00 UTC]** Ciro Nogueira oferece terreno de valor contestado para tentar reaver jatinho, BMW e R$ 10 mi bloqueados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ciro-nogueira-oferece-terreno-de-valor-contestado-para-tentar-reaver-jatinho-bmw-e-r-10-mi-bloqueados.shtml)_
+
