@@ -1682,3 +1682,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 12:19 UTC]** PGR concorda com Moraes e pede queda de sigilo de processo sobre pagamentos de Vorcaro a entidades
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-concorda-com-moraes-e-pede-derrubada-de-processo-sobre-pagamento-de-vorcaro-a-entidades/)_
 
+- **[2026-09-14 08:00 UTC]** Participação de Moraes, Mendonça e Toffoli é incerta em julgamento no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/julgamento-sobre-moraes-no-stf-tem-incertezas.ghtml)_
+
