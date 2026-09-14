@@ -23,3 +23,6 @@
 - **[2026-09-14 11:41 UTC]** Deputado Cezinha Madureira é alvo de operação da PF por suspeita de tráfico de influência no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/pf-faz-operacao-contra-cezinha-madureira-por-suspeita-de-trafico-de-influencia-no-stf.ghtml)_
 
+- **[2026-09-14 13:51 UTC]** PF: deputado Cezinha de Madureira negociava acesso a ministros do STF
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pf-deputado-cezinha-de-madureira-negociava-acesso-ministros-do-stf)_
+
