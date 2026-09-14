@@ -29,3 +29,6 @@
 - **[2026-09-08 19:05 UTC]** TRE derruba liminar e libera Arthur Henrique a fazer campanha em comércios de Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/08/tre-derruba-liminar-e-libera-arthur-henrique-a-fazer-campanha-em-comercios-de-roraima.ghtml)_
 
+- **[2026-09-14 16:49 UTC]** Candidato ao governo, Arthur Henrique propõe obras em estradas e pontes de concreto
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/14/candidato-ao-governo-arthur-henrique-propoe-obras-em-estradas-e-pontes-de-concreto.ghtml)_
+
