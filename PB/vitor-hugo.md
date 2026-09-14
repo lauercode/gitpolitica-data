@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-09-14 14:25 UTC]** TRE-PB barra candidatura de Vitor Hugo a deputado estadual
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/14/tre-pb-barra-candidatura-de-vitor-hugo-a-deputado-estadual.ghtml)_
+
