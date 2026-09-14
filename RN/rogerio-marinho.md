@@ -11,3 +11,6 @@
 - **[2026-09-07 23:46 UTC]** Homem joga ovo em Rogério Marinho durante manifestação em Natal e é conduzido à delegacia
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/07/homem-joga-ovo-em-rogerio-marinho-durante-manifestacao-em-natal-e-e-conduzido-a-delegacia.ghtml)_
 
+- **[2026-09-14 20:12 UTC]** Exclusividade de Alcolumbre em pautar impeachment tem servido como blindagem, diz Rogério Marinho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/exclusividade-de-alcolumbre-em-pautar-impeachment-tem-servido-como-blindagem-diz-rogerio-marinho.ghtml)_
+
