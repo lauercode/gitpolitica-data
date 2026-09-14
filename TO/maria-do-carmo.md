@@ -47,3 +47,6 @@
 - **[2026-09-10 18:47 UTC]** Eleições 2026: Maria do Carmo grava programa eleitoral e defende convocação de aprovados da PM no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-maria-do-carmo-grava-programa-eleitoral-e-defende-convocacao-de-aprovados-da-pm-no-am.ghtml)_
 
+- **[2026-09-14 17:29 UTC]** Em sabatina, Maria do Carmo diz que governo do AM deve se preparar para seca e cheia e questiona relação com crise climática
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/em-sabatina-maria-do-carmo-diz-que-governo-do-am-deve-se-preparar-para-seca-e-cheia-e-questiona-relacao-com-crise-climatica.ghtml)_
+
