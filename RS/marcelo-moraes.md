@@ -1652,3 +1652,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 18:08 UTC]** Zanin e Gilmar cobram acesso à íntegra de celular de Vorcaro, e STF tem embate antes de julgar Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/zanin-ordena-acesso-a-integra-de-celular-de-vorcaro-e-diz-nao-haver-hierarquia-entre-ministros-do-stf.shtml)_
 
+- **[2026-09-14 05:04 UTC]** STF analisa investigação contra o ministro Alexandre de Moraes nesta terça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-analisa-investigacao-contra-o-ministro-alexandre-de-moraes-nesta-terca/)_
+
