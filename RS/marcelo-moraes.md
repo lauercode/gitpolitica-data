@@ -1685,3 +1685,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 08:00 UTC]** Participação de Moraes, Mendonça e Toffoli é incerta em julgamento no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/julgamento-sobre-moraes-no-stf-tem-incertezas.ghtml)_
 
+- **[2026-09-14 13:35 UTC]** Segurança vai ser reforçada em julgamento de Moraes no STF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/seguranca-vai-ser-reforcada-em-julgamento-de-moraes-no-stf)_
+
