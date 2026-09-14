@@ -1277,3 +1277,6 @@
 - **[2026-09-14 15:47 UTC]** Análise: Flávio Bolsonaro é favorito, mas pesquisa indica que eleição não está decidida
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/flavio-bolsonaro-e-favorito-mas-pesquisa-indica-que-eleicao-nao-esta-decidida.ghtml)_
 
+- **[2026-09-14 14:17 UTC]** Flávio consolida vantagem entre independentes e abre distância sobre Lula no Sudeste, diz diretor da Quaest
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/flavio-consolida-vantagem-entre-independentes-e-abre-distancia-sobre-lula-no-sudeste-diz-diretor-da-quaest.ghtml)_
+
