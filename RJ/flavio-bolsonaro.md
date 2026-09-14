@@ -1199,3 +1199,6 @@
 - **[2026-09-13 20:40 UTC]** Análise: Ao expor suspeita sobre o PCC, Dino desafia Mendonça e expõe Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/analise-ao-expor-suspeita-sobre-o-pcc-dino-desafia-mendonca-e-vulnerabiliza-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-13 23:00 UTC]** Como Lula e Flávio Bolsonaro querem atrair dinheiro?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/09/como-lula-e-flavio-bolsonaro-querem-atrair-dinheiro.shtml)_
+
