@@ -1220,3 +1220,6 @@
 - **[2026-09-14 13:33 UTC]** 2º turno entre Lula e Flávio Bolsonaro: veja números da Quaest por posicionamento político, região, sexo, faixa etária, escolaridade, renda e religião
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/2-turno-lula-e-flavio-bolsonaro-quaest-segmentos.ghtml)_
 
+- **[2026-09-14 13:21 UTC]** Quaest: entre eleitores de Cury, 25% escolhem Lula e 41%, Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-eleitores-cury-lula-flavio-segundo-turno-setembro.ghtml)_
+
