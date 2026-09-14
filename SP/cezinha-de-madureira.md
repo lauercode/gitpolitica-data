@@ -59,3 +59,6 @@
 - **[2026-09-14 16:27 UTC]** PF cita atuação de Cezinha de Madureira em processos relatados por Fachin e Nunes Marques
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/pf-cita-atuao-de-cezinha-de-madureira-em-processos-relatados-por-fachin-e-nunes-marques.ghtml)_
 
+- **[2026-09-14 21:12 UTC]** Cezinha de Madureira emprega na Câmara sargento expulso da PM suspeito de envolvimento com PCC
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/cezinha-de-madureira-emprega-na-camara-sargento-expulso-da-pm-suspeito-de-envolvimento-com-pcc.ghtml)_
+
