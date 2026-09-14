@@ -1655,3 +1655,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 05:04 UTC]** STF analisa investigação contra o ministro Alexandre de Moraes nesta terça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-analisa-investigacao-contra-o-ministro-alexandre-de-moraes-nesta-terca/)_
 
+- **[2026-09-14 01:36 UTC]** Julgamento de Moraes provoca ofensiva de ministros do STF por acesso ao celular de Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/julgamento-de-moraes-provoca-ofensiva-de-ministros-do-stf-por-acesso-ao-celular-de-vorcaro/)_
+
