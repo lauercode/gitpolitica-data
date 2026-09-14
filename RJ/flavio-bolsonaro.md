@@ -1244,3 +1244,6 @@
 - **[2026-09-14 14:58 UTC]** Quaest: entre eleitores independentes, Flávio Bolsonaro tem 36% contra 26% de Lula no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-flavio-lula-2-turno-independentes-14-setembro.ghtml)_
 
+- **[2026-09-14 14:09 UTC]** Quaest: 44% têm mais medo de reeleição de Lula; 42%, da volta da família Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-medo-reeleicao-lula-volta-familia-bolsonaro.ghtml)_
+
