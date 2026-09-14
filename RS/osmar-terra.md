@@ -116,3 +116,6 @@
 - **[2026-09-13 20:19 UTC]** Círios reúnem milhares de fiéis em Tomé-Açu, Terra Alta e Cachoeira do Arari, no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/13/cirios-reunem-milhares-de-fieis-em-tome-acu-e-terra-alta-no-para.ghtml)_
 
+- **[2026-09-14 12:37 UTC]** Incêndio destrói padaria e casa no bairro da Terra Firme, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/14/incendio-destroi-padaria-e-casa-no-bairro-da-terra-firme-em-belem.ghtml)_
+
