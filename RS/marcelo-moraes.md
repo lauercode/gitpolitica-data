@@ -1718,3 +1718,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 16:22 UTC]** STF confirma transmissão pela internet de sessão sobre Moraes
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-confirma-transmissao-pela-internet-de-sessao-sobre-moraes)_
 
+- **[2026-09-14 19:05 UTC]** STF define rito de sessão que analisará suposta ligação Moraes-Vorcaro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-define-rito-de-sessao-que-analisara-suposta-ligacao-moraes-vorcaro)_
+
