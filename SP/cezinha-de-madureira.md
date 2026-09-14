@@ -68,3 +68,6 @@
 - **[2026-09-14 19:40 UTC]** Dino puxa para o STF investigação sobre R$ 510 mil apreendidos com ex-esposa de Cezinha de Madureira
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/dino-puxa-para-o-stf-investigao-sobre-r-510-mil-apreendidos-com-esposa-de-cezinha-de-madureira.ghtml)_
 
+- **[2026-09-14 17:21 UTC]** Ex-esposa de Cezinha de Madureira negociou R$ 2 milhões por êxito em processo no STF, aponta PF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/esposa-de-cezinha-de-madureira-negociou-r-2-milhoes-por-exito-em-processo-no-stf-aponta-pf.ghtml)_
+
