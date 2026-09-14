@@ -17,3 +17,6 @@
 - **[2026-09-10 19:59 UTC]** Álvaro Dias apresenta plano para contas do Estado em sabatina com empresários
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/10/alvaro-dias-apresenta-plano-para-contas-do-estado-em-sabatina-com-empresarios.ghtml)_
 
+- **[2026-09-14 16:40 UTC]** Candidato ao Governo do RN, Álvaro Dias promete aumentar arrecadação e ampliar Walfredo Gurgel; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/14/entrevista-governo-do-rn-alvaro-dias.ghtml)_
+
