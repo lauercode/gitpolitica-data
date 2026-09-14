@@ -1205,3 +1205,6 @@
 - **[2026-09-13 23:00 UTC]** Esquerda avança sobre pauta gamer e disputa espaço antes ligado à direita e Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/esquerda-avanca-sobre-pauta-gamer-e-disputa-espaco-antes-ligado-a-direita-e-bolsonaro.shtml)_
 
+- **[2026-09-14 04:06 UTC]** Mensagens tentam associar Flávio Bolsonaro ao PCC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/mensagens-tentam-associar-flavio-bolsonaro-ao-pcc.shtml)_
+
