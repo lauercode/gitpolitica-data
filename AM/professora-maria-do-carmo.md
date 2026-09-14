@@ -44,3 +44,6 @@
 - **[2026-09-12 00:28 UTC]** Eleições 2026: Professora Maria do Carmo participa de evento com apoiadores e defende participação das mulheres na política
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-professora-maria-do-carmo-participa-de-evento-com-apoiadores-e-defende-participacao-das-mulheres-na-politica.ghtml)_
 
+- **[2026-09-14 21:51 UTC]** Eleições 2026: Professora Maria do Carmo defende ‘revigorar’ Zona Franca de Manaus e ampliar economia do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-professora-maria-do-carmo-defende-revigorar-zona-franca-de-manaus-e-ampliar-economia-do-amazonas.ghtml)_
+
