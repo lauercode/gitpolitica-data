@@ -65,3 +65,6 @@
 - **[2026-09-11 19:13 UTC]** Eleições 2026 no PR: Sandro Alex se reúne com empresários, visita Santa Casa e se encontra com apoiadores
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-sandro-alex.ghtml)_
 
+- **[2026-09-13 23:00 UTC]** Após descobrir doença rara e tumor, Alex Escobar voltará à Globo gradualmente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/apos-descobrir-doenca-rara-e-tumor-alex-escobar-voltara-a-globo-gradualmente.shtml)_
+
