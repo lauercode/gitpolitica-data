@@ -119,3 +119,6 @@
 - **[2026-09-14 12:37 UTC]** Incêndio destrói padaria e casa no bairro da Terra Firme, em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/14/incendio-destroi-padaria-e-casa-no-bairro-da-terra-firme-em-belem.ghtml)_
 
+- **[2026-09-14 09:00 UTC]** Entenda como funciona o esquema bilionário de garimpo ilegal de ouro e cassiterita na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/14/entenda-como-funciona-o-esquema-bilionario-de-garimpo-ilegal-de-ouro-e-cassiterita-na-terra-yanomami.ghtml)_
+
