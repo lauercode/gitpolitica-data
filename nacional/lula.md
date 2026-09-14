@@ -968,3 +968,6 @@
 - **[2026-09-10 15:41 UTC]** Presidente Lula sanciona lei que acaba com "taxa das blusinhas"
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-sanciona-lei-que-acaba-com-taxa-das-blusinhas)_
 
+- **[2026-09-14 18:30 UTC]** Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
