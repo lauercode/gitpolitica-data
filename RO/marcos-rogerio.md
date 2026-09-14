@@ -44,3 +44,6 @@
 - **[2026-09-11 15:41 UTC]** Eleições 2026: Eduardo Amorim e Rogério Carvalho cancelam participação em entrevista na FM Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/candidatos-ao-senado-cancelam-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-14 17:42 UTC]** Candidato ao governo de RO, Marcos Rogério (PL) promete construir hospital de traumas com verba do Detran
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/14/entrevista-com-o-candidato-ao-governo-de-ro-marcos-rogerio-no-jro1.ghtml)_
+
