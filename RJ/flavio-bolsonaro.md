@@ -1265,3 +1265,6 @@
 - **[2026-09-14 18:30 UTC]** Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-14 18:11 UTC]** Contrariando militância, PT seguirá atacando Flávio, mas não quer ‘abaixar o nível’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/contrariando-militncia-pt-seguir-atacando-flvio-mas-no-quer-abaixar-o-nvel.ghtml)_
+
