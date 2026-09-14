@@ -383,3 +383,6 @@
 - **[2026-09-13 15:34 UTC]** Sem citar Moraes, PF questiona quem é ‘Andrei’ e ‘Paulo’ em mensagem enviada por Vorcaro ao ministro
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/13/sem-citar-moraes-pf-questiona-quem-andrei-e-paulo-em-mensagem-enviada-por-vorcaro-ao-ministro.ghtml)_
 
+- **[2026-09-14 21:32 UTC]** NEXP 2026 discute IA, automação e eficiência em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/14/nexp-2026-discute-ia-automacao-e-eficiencia-em-sao-paulo-2.ghtml)_
+
