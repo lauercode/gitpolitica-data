@@ -1268,3 +1268,6 @@
 - **[2026-09-14 18:11 UTC]** Contrariando militância, PT seguirá atacando Flávio, mas não quer ‘abaixar o nível’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/contrariando-militncia-pt-seguir-atacando-flvio-mas-no-quer-abaixar-o-nvel.ghtml)_
 
+- **[2026-09-14 16:20 UTC]** Flávio Bolsonaro cresce entre eleitores do Sudeste, mulheres e católicos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/flvio-bolsonaro-cresce-entre-eleitores-do-sudeste-mulheres-e-catlicos.ghtml)_
+
