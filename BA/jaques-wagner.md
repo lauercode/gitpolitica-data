@@ -41,3 +41,6 @@
 - **[2026-09-12 21:27 UTC]** PF diz que suspeitos usaram linguagem cifrada em negociação de apartamento para Jaques Wagner
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pf-diz-que-suspeitos-usaram-linguagem-cifrada-em-negociao-de-apartamento-para-jaques-wagner.ghtml)_
 
+- **[2026-09-14 14:03 UTC]** Interlocutor de Jaques Wagner na Bahia teria articulado fraude do Master com o BRB, diz PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/interlocutor-wagner-bahia-articulado-fraude-master-brb/)_
+
