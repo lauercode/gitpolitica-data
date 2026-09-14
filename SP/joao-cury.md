@@ -272,3 +272,6 @@
 - **[2026-09-13 14:32 UTC]** Ascensão de Cury e posição antissistema de Renan Santos isolam ex-governadores
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ascensao-de-cury-e-posicao-antissistema-de-renan-santos-isolam-ex-governadores/)_
 
+- **[2026-09-14 13:43 UTC]** Quaest: transferência de votos de eleitores de Cury, Renan e Caiado favorece Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-transferencia-votos-flavio-segundo-turno.ghtml)_
+
