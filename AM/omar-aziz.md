@@ -56,3 +56,6 @@
 - **[2026-09-11 17:58 UTC]** Eleições 2026: Omar Aziz defende incentivos para micro e pequenas empresas e estágio remunerado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-omar-aziz-defende-incentivos-para-micro-e-pequenas-empresas-e-estagio-remunerado.ghtml)_
 
+- **[2026-09-14 20:59 UTC]** Eleições 2026: Omar Aziz se reúne com lideranças da indústria e promete políticas de incentivo à geração de empregos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-omar-aziz-se-reune-com-liderancas-da-industria-e-promete-politicas-de-incentivo-a-geracao-de-empregos.ghtml)_
+
