@@ -32,3 +32,6 @@
 - **[2026-09-14 12:16 UTC]** PF faz operação contra deputado Cezinha de Madureira e esposa
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/pf-faz-operacao-contra-deputado-cezinha-de-madureira-e-esposa)_
 
+- **[2026-09-14 15:10 UTC]** Cezinha de Madureira nega irregularidade e pede apuração 'com distância' de período eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cezinha-nega-irregularidade-e-diz-que-buscas-deveriam-ser-conduzidas-com-distancia-de-periodo-eleitoral.shtml)_
+
