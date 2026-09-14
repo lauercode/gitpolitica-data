@@ -1748,3 +1748,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 20:25 UTC]** Aliados de Alexandre de Moraes buscam estratégias para evitar julgamento no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aliados-de-alexandre-de-moraes-buscam-estrategias-para-evitar-julgamento-no-stf/)_
 
+- **[2026-09-14 21:57 UTC]** STF define regras para sessão que decidirá sobre investigação contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-define-regras-para-sessao-que-decidira-sobre-investigacao-contra-moraes/)_
+
