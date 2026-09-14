@@ -245,3 +245,6 @@
 - **[2026-09-13 14:32 UTC]** Ascensão de Cury e posição antissistema de Renan Santos isolam ex-governadores
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ascensao-de-cury-e-posicao-antissistema-de-renan-santos-isolam-ex-governadores/)_
 
+- **[2026-09-14 17:59 UTC]** Renan Santos fará ‘tour’ por Estados do Sul e Sudeste na reta final de campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/renan-santos-fara-tour-por-estados-do-sul-e-sudeste-na-reta-final-de-campanha.ghtml)_
+
