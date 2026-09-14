@@ -17,3 +17,6 @@
 - **[2026-09-14 13:00 UTC]** PF mira Cezinha de Madureira por suspeita de tráfico de influência em tribunais superiores
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-deputado-cezinha-de-madureira-suspeita-trafico-influencia/)_
 
+- **[2026-09-14 13:27 UTC]** Quem é Cezinha de Madureira, deputado federal do PL alvo da Polícia Federal
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c98r633vr87go?at_medium=RSS&at_campaign=rss)_
+
