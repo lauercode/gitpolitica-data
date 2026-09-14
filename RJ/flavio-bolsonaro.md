@@ -1292,3 +1292,6 @@
 - **[2026-09-14 21:30 UTC]** Flávio Bolsonaro sobre Moraes: 'Não é possível que fique impune e continue participando de julgamentos'
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/14/flavio-bolsonaro-sobre-moraes-nao-e-possivel-que-fique-impune-e-continue-participando-de-julgamentos.ghtml)_
 
+- **[2026-09-14 22:30 UTC]** Queda de sigilo sobre caso ‘Dark Horse’ não gera novo desgaste para Flávio, avaliam aliados
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/queda-de-sigilo-sobre-caso-dark-horse-no-gera-novo-desgaste-para-flvio-avaliam-aliados.ghtml)_
+
