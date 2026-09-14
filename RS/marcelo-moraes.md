@@ -1661,3 +1661,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 08:00 UTC]** A situação de Moraes e o dever da elite
   _fonte: [Valor Econômico](https://valor.globo.com/politica/coluna/a-situacao-de-moraes-e-o-dever-da-elite.ghtml)_
 
+- **[2026-09-14 08:00 UTC]** Julgamento sobre Moraes no STF tem incertezas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/julgamento-sobre-moraes-no-stf-tem-incertezas.ghtml)_
+
