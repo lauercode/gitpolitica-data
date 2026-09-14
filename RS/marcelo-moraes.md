@@ -1637,3 +1637,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-13 22:12 UTC]** Moraes pede retirada de sigilo de peça do caso Master antes de julgamento na terça-feira
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/moraes-pede-retirada-de-sigilo-de-pea-do-caso-master-antes-de-julgamento-na-tera-feira.ghtml)_
 
+- **[2026-09-13 22:00 UTC]** Casos de Moraes e Mendonça não podem ser misturados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/casos-de-moraes-e-mendonca-nao-podem-ser-misturados.shtml)_
+
