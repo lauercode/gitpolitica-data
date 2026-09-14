@@ -53,3 +53,6 @@
 - **[2026-09-14 17:21 UTC]** Esposa de Cezinha de Madureira negociou R$ 2 milhões por êxito em processo no STF, aponta PF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/esposa-de-cezinha-de-madureira-negociou-r-2-milhoes-por-exito-em-processo-no-stf-aponta-pf.ghtml)_
 
+- **[2026-09-14 16:57 UTC]** 'Tu vais fazer mais um' disse advogada a Cezinha de Madureira sobre indicação de Messias
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/tu-vais-fazer-mais-um-disse-advogada-a-cezinha-de-madureira-sobre-indicacao-de-messias.ghtml)_
+
