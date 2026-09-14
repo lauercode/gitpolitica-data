@@ -38,3 +38,6 @@
 - **[2026-09-12 18:34 UTC]** TVs Cabo Branco e Paraíba entrevistam Cícero Lucena, Efraim Filho e Lucas Ribeiro; veja como vai ser
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/12/tvs-cabo-branco-e-paraiba-entrevistam-candidatos-governo-veja-como-vai-ser.ghtml)_
 
+- **[2026-09-14 15:50 UTC]** Efraim Filho, candidato ao governo da Paraíba, promete concurso para PM e redução do ICMS
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/14/efraim-filho-candidato-governo-paraiba-promete-concurso-da-pm-e-reducao-do-icms.ghtml)_
+
