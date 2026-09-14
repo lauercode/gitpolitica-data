@@ -29,3 +29,6 @@
 - **[2026-09-13 15:33 UTC]** Vôlei feminino brasileiro garante vaga nas Olimpíadas de Los Angeles
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/volei-feminino-brasileiro-garante-vaga-nas-olimpiadas-de-los-angeles.shtml)_
 
+- **[2026-09-14 20:22 UTC]** Vôlei, futsal e balé: o esporte faz parte da formação de crianças e adolescentes
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/especial-publicitario/conecta-smart-school-educacao-de-qualidade/noticia/2026/09/14/volei-futsal-e-bale-o-esporte-faz-parte-da-formacao-de-criancas-e-adolescentes.ghtml)_
+
