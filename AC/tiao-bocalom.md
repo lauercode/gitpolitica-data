@@ -14,3 +14,6 @@
 - **[2026-09-14 16:31 UTC]** Tião Bocalom (PSDB) não comparece à sabatina do JAC1 e entrevista é cancelada
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/jornal-do-acre-1-edicao-entrevista-candidatos-ao-governo-do-estado.ghtml)_
 
+- **[2026-09-14 15:46 UTC]** Plano de governo de Tião Bocalom prioriza agronegócio, prevê UPA 24h no interior e promete levar alunos para Nasa; VEJA detalhes
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/14/plano-de-governo-de-tiao-bocalom-prioriza-agronegocio-preve-upa-24h-no-interior-e-promete-levar-alunos-para-nasa-veja-detalhes.ghtml)_
+
