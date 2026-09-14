@@ -209,3 +209,6 @@
 - **[2026-09-14 21:26 UTC]** Oposição critica “covardia” e propõe regra para reduzir poder de Alcolumbre sobre impeachment
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-critica-covardia-e-propoe-regra-para-reduzir-poder-de-alcolumbre-sobre-impeachment/)_
 
+- **[2026-09-14 20:12 UTC]** Exclusividade de Alcolumbre em pautar impeachment tem servido como blindagem, diz Rogério Marinho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/exclusividade-de-alcolumbre-em-pautar-impeachment-tem-servido-como-blindagem-diz-rogerio-marinho.ghtml)_
+
