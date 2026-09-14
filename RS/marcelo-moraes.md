@@ -1679,3 +1679,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 08:57 UTC]** PGR concorda com Moraes e pede retirada de sigilo de dados sobre rede de pagamentos do Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pgr-concorda-com-moraes-e-pede-retirada-de-sigilo-de-dados-sobre-rede-de-pagamentos-do-master.shtml)_
 
+- **[2026-09-14 12:19 UTC]** PGR concorda com Moraes e pede queda de sigilo de processo sobre pagamentos de Vorcaro a entidades
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-concorda-com-moraes-e-pede-derrubada-de-processo-sobre-pagamento-de-vorcaro-a-entidades/)_
+
