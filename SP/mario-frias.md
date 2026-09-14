@@ -158,3 +158,6 @@
 - **[2026-09-13 16:22 UTC]** Dino aponta indícios de liderança de Mário Frias em desvio de emendas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-aponta-indicios-de-lideranca-de-mario-frias-em-desvio-de-emendas)_
 
+- **[2026-09-14 18:29 UTC]** Mario Frias protesta contra exposição de operação da PF: “Assassinato de reputação”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-protesta-contra-exposicao-de-operacao-da-pf-assassinato-de-reputacao/)_
+
