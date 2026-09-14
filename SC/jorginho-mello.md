@@ -53,3 +53,6 @@
 - **[2026-09-14 16:39 UTC]** Entrevista na NSC: Jorginho Mello defende parcerias público-privadas para o saneamento básico e prepara retomada das câmeras corporais da polícia
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/14/entrevista-na-nsc-jorginho-mello-governo-santa-catarina.ghtml)_
 
+- **[2026-09-14 16:12 UTC]** Jorginho Mello (PL) é entrevistado no Jornal do Almoço; VEJA TRECHOS
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/playlist/jorginho-mello-pl-e-entrevistado-no-jornal-do-almoco-veja-trechos.ghtml)_
+
