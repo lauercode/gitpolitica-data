@@ -1223,3 +1223,6 @@
 - **[2026-09-14 13:21 UTC]** Quaest: entre eleitores de Cury, 25% escolhem Lula e 41%, Flávio Bolsonaro no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-eleitores-cury-lula-flavio-segundo-turno-setembro.ghtml)_
 
+- **[2026-09-14 13:16 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 40%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-2-turno-setembro.ghtml)_
+
