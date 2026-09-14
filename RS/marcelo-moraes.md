@@ -1751,3 +1751,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 21:57 UTC]** STF define regras para sessão que decidirá sobre investigação contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-define-regras-para-sessao-que-decidira-sobre-investigacao-contra-moraes/)_
 
+- **[2026-09-14 19:19 UTC]** Conselheiro da OAB-PR cobra reação mais dura contra Moraes e critica decisão da presidência
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/conselheiro-oab-pr-cobra-reacao-mais-dura-contra-moraes/)_
+
