@@ -1700,3 +1700,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 19:03 UTC]** Acompanhe ao vivo: STF decide se Alexandre de Moraes será investigado no caso Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acompanhe-ao-vivo-stf-decide-se-alexandre-de-moraes-sera-investigado-no-caso-vorcaro/)_
 
+- **[2026-09-14 17:04 UTC]** Mendonça derruba sigilo de informações financeiras do caso Master após pressão de Moraes e PGR
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-derruba-sigilo-de-processo-sobre-pagamentos-de-vorcaro/)_
+
