@@ -1253,3 +1253,6 @@
 - **[2026-09-14 13:00 UTC]** Estudos do Conselho da Fiesp, chefiado por Campos Neto, embasam propostas de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/estudos-do-conselho-da-fiesp-chefiado-por-campos-neto-embasam-propostas-de-flavio-bolsonaro.shtml)_
 
+- **[2026-09-14 11:10 UTC]** Cezinha de Madureira juntou Mendonça e Vorcaro, andou de moto com Bolsonaro e tirou foto com Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cezinha-de-madureira-juntou-mendonca-e-vorcaro-andou-de-moto-com-bolsonaro-e-tirou-foto-com-lula.shtml)_
+
