@@ -131,3 +131,6 @@
 - **[2026-09-10 19:38 UTC]** Queda de avião mata três pessoas em área rural de Mato Grosso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/queda-de-aviao-mata-tres-pessoas-em-area-rural-de-mato-grosso.shtml)_
 
+- **[2026-09-14 16:39 UTC]** Motorista de ônibus é agredido com coronhada durante assalto na Estrada da Mata, na Grande São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/14/motorista-de-onibus-e-agredido-com-coronhada-durante-assalto-na-estrada-da-mata-na-grande-sao-luis.ghtml)_
+
