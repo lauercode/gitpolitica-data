@@ -1250,3 +1250,6 @@
 - **[2026-09-14 15:01 UTC]** Haddad diz que nunca esteve com Vorcaro e vincula ex-banqueiro a Tarcísio e aliados de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-nunca-esteve-com-vorcaro-e-vincula-ex-banqueiro-a-tarcisio-e-aliados-de-bolsonaro.shtml)_
 
+- **[2026-09-14 13:00 UTC]** Estudos do Conselho da Fiesp, chefiado por Campos Neto, embasam propostas de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/estudos-do-conselho-da-fiesp-chefiado-por-campos-neto-embasam-propostas-de-flavio-bolsonaro.shtml)_
+
