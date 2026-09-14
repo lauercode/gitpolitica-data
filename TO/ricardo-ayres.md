@@ -23,3 +23,6 @@
 - **[2026-09-11 22:57 UTC]** Eleições 2026: Ricardo Marques diz que investimentos em cultura devem ser descentralizados
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-ricardo-marques-diz-que-investimentos-em-cultura-devem-ser-descentralizados.ghtml)_
 
+- **[2026-09-14 18:51 UTC]** Ricardo Marques (PL) é o entrevistado do SE2 nesta segunda-feira (14)
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/ao-vivo/tvsergipe-entrevista-candidatos-sergipe.ghtml)_
+
