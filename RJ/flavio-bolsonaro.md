@@ -1376,3 +1376,6 @@
 - **[2026-09-15 22:34 UTC]** Flávio Dino suspende julgamento sobre investigação contra Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-sobre-investigacao-contra-alexandre-de-moraes/)_
 
+- **[2026-09-15 19:02 UTC]** STF suspende sessão sobre relação de Vorcaro e Moraes após pedido de vista de Flávio Dino
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
+
