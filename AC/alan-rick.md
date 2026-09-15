@@ -17,3 +17,6 @@
 - **[2026-09-11 19:05 UTC]** Alan Rick defende apoio a comerciantes e produtores para fortalecer economia local
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/11/alan-rick-defende-apoio-a-comerciantes-e-produtores-para-fortalecer-economia-local.ghtml)_
 
+- **[2026-09-14 22:45 UTC]** Alan Rick promete diálogo do governo com setor privado sobre tributos no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/14/alan-rick-promete-dialogo-do-governo-com-setor-privado-sobre-tributos-no-acre.ghtml)_
+
