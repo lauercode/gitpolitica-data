@@ -1790,3 +1790,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 04:16 UTC]** 'Inconstitucional e ilegal', diz Moraes sobre investigação de Mendonça; ministro nega favorecimento a Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-se-manifesta-pela-1a-vez-sobre-mensagens-de-vorcaro-e-nega-irregularidades.ghtml)_
 
+- **[2026-09-15 03:00 UTC]** Brasília vive clima de 'Fla x Flu' pré-julgamento de Moraes no STF: ministros tentaram adiar sessão, sem sucesso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/15/brasilia-tensao-julgamento-moraes-stf.ghtml)_
+
