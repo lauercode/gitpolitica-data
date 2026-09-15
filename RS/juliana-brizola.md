@@ -14,3 +14,6 @@
 - **[2026-09-07 22:28 UTC]** Eleições 2026 no RS: Juliana Brizola defende subsídio para o transporte escolar
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-no-rs-juliana-brizola-defende-subsidio-para-o-transporte-escolar.ghtml)_
 
+- **[2026-09-14 23:36 UTC]** Eleições 2026 no RS: Juliana Brizola defende 'resgatar ferrovias e potencializar hidrovias'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-no-rs-juliana-brizola-defende-resgatar-ferrovias-e-potencializar-hidrovias.ghtml)_
+
