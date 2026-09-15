@@ -2126,3 +2126,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:54 UTC]** Fachin defende independência do STF em abertura de julgamento sobre Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-defende-independencia-do-stf-em-abertura-de-julgamento-sobre-moraes/)_
 
+- **[2026-09-15 17:37 UTC]** STF deixará acusações contra Moraes de lado e julgará sorteio de relator após intervalo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-deixara-acusacoes-contra-moraes-de-lado-e-julgara-sorteio-de-relator-apos-intervalo/)_
+
