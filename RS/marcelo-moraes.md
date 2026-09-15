@@ -1931,3 +1931,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 13:02 UTC]** Gonet chega ao STF para julgamento sobre Moraes após ser alvo de dúvidas sobre presença
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/gonet-chega-ao-stf-para-acompanhar-julgamento.ghtml)_
 
+- **[2026-09-15 12:40 UTC]** Julgamento no STF: o que pesa contra Moraes e o que o ministro diz em sua defesa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/julgamento-no-stf-o-que-pesa-contra-moraes-e-o-que-o-ministro-diz-em-sua-defesa.ghtml)_
+
