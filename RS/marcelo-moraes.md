@@ -1832,3 +1832,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 03:40 UTC]** Moraes vê vingança em investigação de Mendonça e diz que “tentativa de golpe não se encerrou”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-acusa-mendonca-de-atuacao-politica-e-pede-extincao-imediata-de-investigacao/)_
 
+- **[2026-09-15 02:50 UTC]** STF faz sessão histórica para tentar investigar Moraes sob forte oposição de aliados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-faz-sessao-historica-para-tentar-investigar-moraes-sob-forte-oposicao-de-aliados/)_
+
