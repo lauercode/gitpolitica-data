@@ -2147,3 +2147,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 19:02 UTC]** Dino pede vista e adia julgamento de Moraes no STF; Fux e Cármen Lúcia vão antecipar votos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
 
+- **[2026-09-15 18:01 UTC]** Juntar casos de Moraes e Mendonça abre risco de 'contaminação', sugere especialista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/juntar-casos-de-moraes-e-mendona-abre-risco-de-contaminao-sugere-especialista.ghtml)_
+
