@@ -20,3 +20,6 @@
 - **[2026-09-14 14:30 UTC]** Orleans Brandão (MDB) é entrevistado no JM1; assista
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-maranhao-no-jm1.ghtml)_
 
+- **[2026-09-14 23:30 UTC]** Orleans Brandão propõe manter equilíbrio fiscal e ampliar geração de emprego e renda no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/14/orleans-brandao-propoe-manter-equilibrio-fiscal-e-ampliar-geracao-de-emprego-e-renda-no-ma.ghtml)_
+
