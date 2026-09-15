@@ -1976,3 +1976,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:04 UTC]** Fachin e Dino batem boca em julgamento de Moraes no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-e-dino-batem-boca-em-julgamento-de-moraes-no-stf/)_
 
+- **[2026-09-15 14:33 UTC]** Nunes Marques e Toffoli não julgarão caso Moraes-Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-se-declara-impedido-de-julgar-caso-moraes-vorcaro/)_
+
