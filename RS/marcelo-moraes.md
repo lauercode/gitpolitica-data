@@ -2165,3 +2165,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:31 UTC]** Caiado considera que STF está em 'fase procrastinatória' e pede abertura de investigação contra Alexandre de Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/caiado-considera-que-stf-esta-em-fase-procrastinatoria-e-pede-abertura-de-investigacao-contra-alexandre-de-moraes.ghtml)_
 
+- **[2026-09-15 21:14 UTC]** 'Profunda consternação e tristeza': Cármen Lúcia pede desculpas ao povo brasileiro em julgamento sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/carmen-lucia-diz-estar-em-estado-de-profunda-consternacao-e-tristeza.ghtml)_
+
