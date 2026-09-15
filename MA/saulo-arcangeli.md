@@ -14,3 +14,6 @@
 - **[2026-09-15 11:21 UTC]** Saulo Arcangeli participa de entrevista do JMTV1 nesta terça-feira; saiba como assistir
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/15/saulo-arcangeli-participa-de-entrevista-do-jmtv1-nesta-terca-feira-saiba-como-assistir.ghtml)_
 
+- **[2026-09-15 17:35 UTC]** Saulo Arcangeli promete criar conselhos populares, estatizar a saúde e implantar tarifa zero no transporte público
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/15/saulo-arcangeli-promete-criar-conselhos-populares-estatizar-a-saude-e-implantar-tarifa-zero-no-transporte-publico.ghtml)_
+
