@@ -26,3 +26,6 @@
 - **[2026-09-10 22:41 UTC]** Eleições 2026: Valmir de Francisquinho diz que Sergipe precisa ter lei de incentivo à cultura
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-valmir-de-francisquinho-diz-que-sergipe-precisa-ter-lei-de-incentivo-a-cultura.ghtml)_
 
+- **[2026-09-15 18:24 UTC]** Valmir de Francisquinho será o entrevistado do SE2 desta terça-feira
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/ao-vivo/tvsergipe-entrevista-candidatos-sergipe.ghtml)_
+
