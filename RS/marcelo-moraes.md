@@ -2027,3 +2027,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:20 UTC]** Flávio, Caiado, Zema e Renan Santos reagem a julgamento de Moraes no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/candidatos-a-presidencia-reagem-a-julgamento-de-moraes-no-stf.ghtml)_
 
+- **[2026-09-15 14:48 UTC]** Fachin e Dino ensaiam bate-boca em sessão do STF sobre Moraes; veja o vídeo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/fachin-e-dino-ensaiam-bate-boca-em-sessao-do-stf-sobre-moraes-veja-o-video.ghtml)_
+
