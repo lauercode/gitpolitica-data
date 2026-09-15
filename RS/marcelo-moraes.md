@@ -2096,3 +2096,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 20:50 UTC]** Mendonça cita compra de terno para defender apuração contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-cita-compra-de-terno-para-defender-apuracao-contra-moraes/)_
 
+- **[2026-09-15 20:31 UTC]** Moraes vota em seu próprio julgamento e diz que não pode ser investigado sem pedido da PGR
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-argumenta-que-nao-pode-ser-investigado-por-falta-de-pedido-da-pgr-vai-votar-o-que/)_
+
