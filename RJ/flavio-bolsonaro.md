@@ -1307,3 +1307,6 @@
 - **[2026-09-14 20:06 UTC]** Flávio Bolsonaro diz que STF tem obrigação de investigar Moraes e defende afastamento de ministro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-stf-tem-obrigacao-de-investigar-moraes-e-defende-afastamento-de-ministro.shtml)_
 
+- **[2026-09-15 00:48 UTC]** Flávio defende afastamento de Moraes e diz que terça será “vital” para o Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-defende-afastamento-de-moraes-e-diz-que-terca-sera-vital-para-o-brasil/)_
+
