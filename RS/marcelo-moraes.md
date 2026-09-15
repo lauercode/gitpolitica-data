@@ -2057,3 +2057,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 16:24 UTC]** Dino e Zanin votam para julgar Moraes e Mendonça na mesma sessão
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-e-zanin-votam-para-julgar-moraes-e-mendonca-na-mesma-sessao)_
 
+- **[2026-09-15 15:36 UTC]** STF: plenário vai decidir se julgará Moraes e Mendonça simultaneamente
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-plenario-vai-decidir-se-julgara-moraes-e-mendonca-simultaneamente)_
+
