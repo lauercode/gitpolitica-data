@@ -1844,3 +1844,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 07:53 UTC]** Moraes chama relatório de Mendonça de ilegal e inconstitucional
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/moraes-chama-relatorio-de-mendonca-de-ilegal-e-inconstitucional)_
 
+- **[2026-09-15 07:00 UTC]** STF decide hoje se abre investigação formal contra Alexandre de Moraes
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-decide-hoje-se-abre-investigacao-formal-contra-alexandre-de-moraes)_
+
