@@ -1298,3 +1298,6 @@
 - **[2026-09-14 19:46 UTC]** Em Belém, Flávio defende afastamento de Moraes e tenta atrelar magistrado a Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/em-belem-flavio-defende-afastamento-de-moraes-e-tenta-atrelar-magistrado-a-lula.ghtml)_
 
+- **[2026-09-14 21:26 UTC]** Flávio e PL lideram uso indevido de IA, diz observatório
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-e-pl-lideram-uso-indevido-de-ia-diz-observatorio)_
+
