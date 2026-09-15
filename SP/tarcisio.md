@@ -38,3 +38,6 @@
 - **[2026-09-14 22:25 UTC]** SP1 entrevista Tarcísio de Freitas nesta terça
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/sp1-entrevista-tarcisio.ghtml)_
 
+- **[2026-09-15 15:42 UTC]** Tarcísio promete 10 novos presídios, relativiza resultado pior na educação de SP e atribui falta d’água e acidentes a aceleração de obras
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/15/tarcisio-entrevista-sp1.ghtml)_
+
