@@ -1310,3 +1310,6 @@
 - **[2026-09-15 00:48 UTC]** Flávio defende afastamento de Moraes e diz que terça será “vital” para o Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-defende-afastamento-de-moraes-e-diz-que-terca-sera-vital-para-o-brasil/)_
 
+- **[2026-09-14 22:33 UTC]** Flávio Bolsonaro aciona STF por investigação contra filho de Sarney após relato de Karina Gama
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-aciona-stf-por-investigacao-contra-filho-de-sarney-por-delacao-de-karina-gama/)_
+
