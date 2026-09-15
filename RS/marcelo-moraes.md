@@ -2123,3 +2123,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 18:10 UTC]** Assista aos embates do julgamento no STF que define o futuro de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/assista-aos-momentos-mais-tensos-no-julgamento-do-stf-que-define-futuro-de-moraes/)_
 
+- **[2026-09-15 17:54 UTC]** Fachin defende independência do STF em abertura de julgamento sobre Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-defende-independencia-do-stf-em-abertura-de-julgamento-sobre-moraes/)_
+
