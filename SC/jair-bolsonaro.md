@@ -32,3 +32,6 @@
 - **[2026-09-13 12:00 UTC]** Jair Bolsonaro ainda é citado por 2% dos eleitores, segundo Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/jair-bolsonaro-ainda-e-citado-por-2-dos-eleitores-segundo-datafolha.shtml)_
 
+- **[2026-09-15 08:00 UTC]** Como o PCC aparece nas investigações sobre a produtora de Dark Horse, filme sobre a vida de Jair Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq8r63m878y1o?at_medium=RSS&at_campaign=rss)_
+
