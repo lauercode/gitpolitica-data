@@ -50,3 +50,6 @@
 - **[2026-09-14 22:26 UTC]** Eleições 2026 em SC: João Rodrigues conversa com eleitores em feira de Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-em-sc-joao-rodrigues-conversa-com-eleitores-em-feira-de-florianopolis.ghtml)_
 
+- **[2026-09-15 17:10 UTC]** Jornal do Almoço entrevista João Rodrigues, candidato ao governo de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/entrevista-candidatos-de-sc-joao-rodrigues.ghtml)_
+
