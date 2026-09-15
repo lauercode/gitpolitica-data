@@ -2060,3 +2060,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:36 UTC]** STF: plenário vai decidir se julgará Moraes e Mendonça simultaneamente
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-plenario-vai-decidir-se-julgara-moraes-e-mendonca-simultaneamente)_
 
+- **[2026-09-15 14:26 UTC]** Moraes acusa Mendonça de querer incluir seu nome em delação de Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-acusa-mendonca-de-querer-incluir-seu-nome-em-delacao-de-vorcaro)_
+
