@@ -47,3 +47,6 @@
 - **[2026-09-11 22:05 UTC]** Renan Filho faz campanha no Litoral Sul; JHC não divulga agenda nesta sexta
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/11/renan-filho-faz-campanha-no-litoral-sul-jhc-nao-divulga-agenda-nesta-sexta.ghtml)_
 
+- **[2026-09-14 23:11 UTC]** Renan Filho faz carreata em Arapiraca e JHC participa de sabatina em Maceió nesta segunda (14)
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/14/renan-filho-faz-carreata-em-arapiraca-e-jhc-participa-de-sabatina-em-maceio-nesta-segunda-14.ghtml)_
+
