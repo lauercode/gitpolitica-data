@@ -71,3 +71,6 @@
 - **[2026-09-14 16:58 UTC]** Eleições 2026 no Paraná: Sandro Alex se reúne com lideranças de instituições de Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-sandro-alex-se-reune-com-liderancas.ghtml)_
 
+- **[2026-09-15 17:04 UTC]** Eleições 2026 no Paraná: Sandro Alex participa de entrevista ao vivo na RPC, em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-no-parana-agenda-15-de-setembro-sandro-alex.ghtml)_
+
