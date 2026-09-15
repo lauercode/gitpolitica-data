@@ -2141,3 +2141,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 20:47 UTC]** Mendonça vota para manter separados julgamento sobre Moraes e pedido de investigação contra ele: 'não são coisas comparáveis'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/mendonca-vota-para-manter-separados-julgamento-sobre-moraes-e-pedido-de-investigacao-contra-ele.ghtml)_
 
+- **[2026-09-15 20:03 UTC]** Alexandre de Moraes diz que Fachin deu tratamento diferente a ele e a Mendonça em processos no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-pede-equidade-nos-pedidos-de-investigacao-contra-ele-e-contra-andre-mendonca.ghtml)_
+
