@@ -2171,3 +2171,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:10 UTC]** Relatório sobre Moraes: STF tem discussão sobre 'avocatória', nulidade e Fachin ter puxado caso para si
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/relatorio-sobre-moraes-stf-tem-discussao-sobre-rito-nulidade-e-fachin-ter-puxado-caso-para-si.ghtml)_
 
+- **[2026-09-15 18:35 UTC]** Após pedido de vista, STF interrompe sessão sem definir se junta ou mantém separados casos de Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/na-retomada-de-julgamento-fachin-vota-para-rejeitar-pedido-para-adiar-julgamento-de-moraes-e-de-analisar-caso-com-o-de-mendonca.ghtml)_
+
