@@ -14,3 +14,6 @@
 - **[2026-09-07 16:23 UTC]** Augusto Cury é analfabeto político, e Flávio errou ao insistir com Vorcaro por filme, diz Malafaia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/augusto-cury-e-analfabeto-politico-e-flavio-errou-ao-insistir-com-vorcaro-por-filme-diz-malafaia.shtml)_
 
+- **[2026-09-14 20:44 UTC]** Malafaia acusa Fachin de atuar contra Mendonça no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/malafaia-acusa-fachin-de-atuar-contra-mendonca-no-stf.shtml)_
+
