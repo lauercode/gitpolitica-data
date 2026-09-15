@@ -62,3 +62,6 @@
 - **[2026-09-15 18:36 UTC]** Eleições 2026: Omar Aziz defende revisão de contratos terceirizados para reduzir gastos do governo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-omar-aziz-defende-revisao-de-contratos-terceirizados-para-reduzir-gastos-do-governo.ghtml)_
 
+- **[2026-09-15 17:38 UTC]** Em sabatina, Omar Aziz defende fim da escala 6x1 e diz que empresariado sabe que redução da jornada é necessária
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/em-sabatina-omar-aziz-defende-fim-da-escala-6x1-e-diz-que-empresariado-sabe-que-reducao-da-jornada-e-necessaria.ghtml)_
+
