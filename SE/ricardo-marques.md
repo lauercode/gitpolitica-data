@@ -23,3 +23,6 @@
 - **[2026-09-14 18:51 UTC]** Ricardo Marques (PL) é o entrevistado do SE2 nesta segunda-feira (14)
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/ao-vivo/tvsergipe-entrevista-candidatos-sergipe.ghtml)_
 
+- **[2026-09-14 23:14 UTC]** Candidato ao governo de SE, Ricardo Marques diz que pretende reduzir filas de hospitais e criar teto para arrecadação tributária
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/14/ricardo-marques-entrevista-se2.ghtml)_
+
