@@ -1766,3 +1766,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 19:00 UTC]** Que horas é o julgamento de Moraes no STF? Saiba horário e onde assistir
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/que-horas-e-o-julgamento-sobre-moraes-no-stf-saiba-horario-e-onde-assistir.ghtml)_
 
+- **[2026-09-14 21:38 UTC]** Oposição dribla Alcolumbre e marca sessão de comissão para usar como palanque contra Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/oposicao-dribla-alcolumbre-e-marca-sessao-de-comissao-para-usar-como-palanque-contra-moraes.shtml)_
+
