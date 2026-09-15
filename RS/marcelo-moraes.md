@@ -1874,3 +1874,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 10:01 UTC]** Moraes diz que Mendonça promoveu investigação 'ilegal' e nega favorecimento a Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-diz-que-mendona-promoveu-investigao-ilegal-e-nega-favorecimento-a-vorcaro.ghtml)_
 
+- **[2026-09-15 08:00 UTC]** Em sessão inédita, STF começa a julgar relatório da PF com diálogos entre Vorcaro e Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/em-sessao-inedita-stf-comeca-a-julgar-relatorio-da-pf-com-dialogos-entre-vorcaro-e-moraes.ghtml)_
+
