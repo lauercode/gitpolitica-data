@@ -23,3 +23,6 @@
 - **[2026-09-15 16:59 UTC]** Candidato ao governo, Soldado Sampaio quer combater violência doméstica com apoio de igrejas e ampliar benefícios sociais
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/15/candidato-ao-governo-soldado-sampaio-quer-combater-violencia-domestica-com-apoio-de-igrejas-e-ampliar-beneficios-sociais.ghtml)_
 
+- **[2026-09-15 15:04 UTC]** Soldado Sampaio é entrevistado no Jornal de Roraima 1ª edição
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/ao-vivo/entrevista-com-os-candidatos-ao-governo-de-roraima-na-rede-amazonica.ghtml)_
+
