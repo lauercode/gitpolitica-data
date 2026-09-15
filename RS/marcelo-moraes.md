@@ -1892,3 +1892,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 16:25 UTC]** VÍDEOS: veja embates entre ministros do STF na sessão que analisa se Moraes será investigado no Caso Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/video-embates-ministros-stf.ghtml)_
 
+- **[2026-09-15 15:58 UTC]** Dino cita vídeo de Fábio Porchat e música de Chico César em julgamento do STF sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/dino-cita-video-de-fabio-porchat-e-musica-de-chico-cesar-em-julgamento-do-stf-sobre-moraes.ghtml)_
+
