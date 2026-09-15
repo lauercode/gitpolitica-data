@@ -1331,3 +1331,6 @@
 - **[2026-09-15 08:00 UTC]** Quaest: Flávio supera Lula numericamente no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/15/quaest-flavio-supera-lula-numericamente-no-2o-turno.ghtml)_
 
+- **[2026-09-15 09:00 UTC]** Após desentendimentos, Michelle, Nikolas e Tarcísio entram na campanha de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/apos-desentendimentos-michelle-nikolas-e-tarcisio-entram-na-campanha-de-flavio-bolsonaro.ghtml)_
+
