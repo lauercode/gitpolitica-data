@@ -17,3 +17,6 @@
 - **[2026-09-14 19:33 UTC]** Mailza Assis inaugura casa de campanha e diz que espaço será ponto de contato com comunidades
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/14/mailza-assis-inaugura-casa-de-campanha-e-diz-que-espaco-sera-ponto-de-contato-com-comunidades.ghtml)_
 
+- **[2026-09-15 22:44 UTC]** TRE investiga ato da campanha de Mailza Assis com presidente do Detran e outros servidores públicos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/15/ato-da-campanha-de-mailza-assis-com-presidente-do-detran-e-outros-servidores-publicos-e-investigado.ghtml)_
+
