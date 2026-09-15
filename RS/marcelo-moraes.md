@@ -1991,3 +1991,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 13:13 UTC]** Moraes aponta relatório da PF como parte de interferência estrangeira nas eleições de 2026
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/moraes-aponta-relatorio-da-pf-como-parte-de-interferencia-estrangeira-nas-eleicoes-de-2026/)_
 
+- **[2026-09-15 15:42 UTC]** Acompanhe ao vivo: STF julga se Alexandre de Moraes será investigado no caso Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acompanhe-ao-vivo-stf-decide-se-alexandre-de-moraes-sera-investigado-no-caso-vorcaro/)_
+
