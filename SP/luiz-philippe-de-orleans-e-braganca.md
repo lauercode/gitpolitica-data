@@ -14,3 +14,6 @@
 - **[2026-09-10 21:29 UTC]** Homem morre em acidente de trabalho no município de Bragança, nordeste do Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/homem-morre-em-acidente-de-trabalho-no-municipio-de-braganca-nordeste-do-para.ghtml)_
 
+- **[2026-09-14 23:39 UTC]** Frentista é morto a pauladas durante assalto em posto de combustíveis em Bragança, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/14/frentista-e-morto-a-pauladas-durante-assalto-em-posto-de-combustiveis-em-braganca-no-para.ghtml)_
+
