@@ -17,3 +17,6 @@
 - **[2026-09-14 23:36 UTC]** Eleições 2026 no RS: Gabriel Souza diz que quer 'ampliar a força da Agergs'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-no-rs-gabriel-souza-diz-que-quer-ampliar-a-forca-da-agergs.ghtml)_
 
+- **[2026-09-15 15:52 UTC]** Gabriel Souza (MDB) promete zerar fila do SUS no primeiro ano de governo em entrevista à RBS TV
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/15/gabriel-souza-mdb-entrevista-rbs-tv.ghtml)_
+
