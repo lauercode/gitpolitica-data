@@ -20,3 +20,6 @@
 - **[2026-09-11 23:26 UTC]** Eleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial em visita a Aparecida de Goiânia
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-11ghtml.ghtml)_
 
+- **[2026-09-15 00:00 UTC]** Eleições 2026: Marconi Perillo fala de criação de 'Vapt Vupt' da saúde durante caminhada em Goiânia
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-agenda-de-marconi-perillo-de-segunda-feira-14.ghtml)_
+
