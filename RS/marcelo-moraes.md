@@ -2186,3 +2186,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 23:18 UTC]** Rixa entre Gilmar e Mendonça adia decisão sobre investigação contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rixa-entre-gilmar-e-mendonca-adia-decisao-sobre-investigacao-contra-moraes/)_
 
+- **[2026-09-15 21:22 UTC]** Cármen Lúcia se diz “envergonhada” e “triste” por momento do STF no julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/carmen-lucia-se-diz-envergonhada-e-triste-por-momento-do-stf-no-julgamento-de-moraes/)_
+
