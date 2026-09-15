@@ -2075,3 +2075,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 20:49 UTC]** Moraes diz que não 'houve monitoramento algum' do ministro Mendonça em relatório de inteligência
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-diz-que-nao-houve-monitoramento-algum-do-ministro-mendonca-em-relatorio-de-inteligencia.ghtml)_
 
+- **[2026-09-15 18:35 UTC]** Gilmar, Dino, Zanin e Moraes defendem análise conjunta de casos de ministros; Fachin e Mendonça votam para manter separados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/na-retomada-de-julgamento-fachin-vota-para-rejeitar-pedido-para-adiar-julgamento-de-moraes-e-de-analisar-caso-com-o-de-mendonca.ghtml)_
+
