@@ -2189,3 +2189,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:22 UTC]** Cármen Lúcia se diz “envergonhada” e “triste” por momento do STF no julgamento de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/carmen-lucia-se-diz-envergonhada-e-triste-por-momento-do-stf-no-julgamento-de-moraes/)_
 
+- **[2026-09-15 22:03 UTC]** STF encerra sessão com pedido de vista de Dino e sem definir se une casos Moraes e Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-julgamento-moraes-stf-dialogos-vorcaro-mendonca/)_
+
