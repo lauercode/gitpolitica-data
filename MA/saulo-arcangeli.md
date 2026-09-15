@@ -11,3 +11,6 @@
 - **[2026-08-28 13:21 UTC]** Veja o plano de governo de Saulo Arcangeli (PSTU), candidato ao governo do Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/28/veja-o-plano-de-governo-de-saulo-arcangeli-pstu-candidato-ao-governo-do-maranhao.ghtml)_
 
+- **[2026-09-15 11:21 UTC]** Saulo Arcangeli participa de entrevista do JMTV1 nesta terça-feira; saiba como assistir
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/15/saulo-arcangeli-participa-de-entrevista-do-jmtv1-nesta-terca-feira-saiba-como-assistir.ghtml)_
+
