@@ -1940,3 +1940,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 13:52 UTC]** Moraes acusa Mendonça de usar PF para incluí-lo em delação, e ministro rebate: 'É mentira!'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-acusa-mendonca-de-usar-pf-para-inclui-lo-em-delacao-e-ministro-rebate-e-mentira.shtml)_
 
+- **[2026-09-15 13:06 UTC]** Lula ignora julgamento sobre Moraes no STF em cerimônia no Planalto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-ignora-caso-moraes-no-stf-em-cerimonia-no-planalto.shtml)_
+
