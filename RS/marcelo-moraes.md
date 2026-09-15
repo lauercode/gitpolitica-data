@@ -2066,3 +2066,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:54 UTC]** Supremo tem placar de 4 a 2 para manter casos Moraes e Mendonça juntos
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/supremo-tem-placar-de-4-2-para-manter-casos-moraes-e-mendonca-juntos)_
 
+- **[2026-09-15 15:04 UTC]** STF tem manhã de conflitos em sessão sobre relação de Moraes e Vorcaro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-tem-manha-de-conflitos-em-sessao-sobre-relacao-de-moraes-e-vorcaro)_
+
