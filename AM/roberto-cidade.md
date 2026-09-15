@@ -206,3 +206,6 @@
 - **[2026-09-14 21:19 UTC]** Eleições 2026: Roberto Cidade participa de encontro com empresários e defende novas matrizes econômicas para o interior
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-roberto-cidade-participa-de-encontro-com-empresarios-e-defende-novas-matrizes-economicas-para-o-interior.ghtml)_
 
+- **[2026-09-15 21:56 UTC]** Eleições 2026: Roberto Cidade participa de caminhada e apresenta projeto Mãe Solo Protegida
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-roberto-cidade-participa-de-caminhada-e-apresenta-projeto-mae-solo-protegida.ghtml)_
+
