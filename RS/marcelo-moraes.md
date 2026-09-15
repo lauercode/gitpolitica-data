@@ -1796,3 +1796,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 03:00 UTC]** Moraes, Vorcaro, Mendonça, Fachin, Gonet: relembre os principais personagens da crise Master do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-vorcaro-mendonca-fachin-gonet-relembre-os-principais-personagens-da-crise-master-do-stf.ghtml)_
 
+- **[2026-09-15 03:00 UTC]** Veja como será a sessão do STF sobre relatório da PF com mensagens trocadas entre Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/veja-como-sera-a-sessao-do-stf-sobre-relatorio-da-pf-com-mensagens-trocadas-entre-vorcaro-e-moraes.ghtml)_
+
