@@ -2105,3 +2105,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 19:57 UTC]** Dino abraça Fachin e Moraes não olha para Mendonça: os bastidores da sessão do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-abraca-fachin-e-moraes-nao-olha-para-mendonca-os-bastidores-da-sessao-do-stf/)_
 
+- **[2026-09-15 19:43 UTC]** Álibi eleitoral disfarça recuo de Nunes Marques e pode dar maioria para Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alibi-eleitoral-disfarca-recuo-de-nunes-marques-e-pode-dar-maioria-para-moraes/)_
+
