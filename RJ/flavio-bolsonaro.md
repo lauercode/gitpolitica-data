@@ -1355,3 +1355,6 @@
 - **[2026-09-15 21:00 UTC]** O que é pedido de vista, solicitado por Flávio Dino? Entenda a regra
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/o-que-e-pedido-de-vista.ghtml)_
 
+- **[2026-09-15 19:42 UTC]** Crise no STF afeta estratégias de Lula e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/crise-no-stf-estrategias-de-lula-e-flavio-bolsonaro.ghtml)_
+
