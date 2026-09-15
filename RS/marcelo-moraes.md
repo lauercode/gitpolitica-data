@@ -1850,3 +1850,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 12:05 UTC]** LOGO MAIS: STF analisa nesta terça se abre investigação contra Moraes por mensagens com Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
 
+- **[2026-09-15 04:16 UTC]** Moraes chama de 'inconstitucional e ilegal' investigação de Mendonça e nega ter favorecido Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-se-manifesta-pela-1a-vez-sobre-mensagens-de-vorcaro-e-nega-irregularidades.ghtml)_
+
