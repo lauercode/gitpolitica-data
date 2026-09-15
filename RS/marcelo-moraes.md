@@ -1772,3 +1772,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 21:36 UTC]** Gonet deve participar de sessão do STF que analisará relatório sobre Moraes e negar elo com Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gonet-deve-participar-de-sessao-do-stf-que-analisara-relatorio-sobre-moraes-e-negar-elo-com-vorcaro.shtml)_
 
+- **[2026-09-14 21:20 UTC]** Para leitor, Alexandre de Moraes, André Mendonça e Paulo Gonet deveriam se afastar de seus cargos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/para-leitor-alexandre-de-moraes-andre-mendonca-e-paulo-gonet-deveriam-se-afastar-de-seus-cargos.shtml)_
+
