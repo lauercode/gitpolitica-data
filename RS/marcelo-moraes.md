@@ -1970,3 +1970,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:12 UTC]** Moraes e Gilmar atacam Mendonça e alegam atuação política dele no caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-e-mendonca-batem-boca-por-atuacao-da-pf-e-investigacao-do-master/)_
 
+- **[2026-09-15 15:35 UTC]** Dino pede que julgamento de Moraes seja transferido para sessão com Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-julgamento-moraes-transferido-sessao-com-mendonca/)_
+
