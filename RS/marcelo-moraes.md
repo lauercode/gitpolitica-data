@@ -1919,3 +1919,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:05 UTC]** Vídeos: Sessão do STF que vai analisar relatório da PF sobre relação entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/politico/playlist/videos-sessao-do-stf-que-vai-analisar-relatorio-da-pf-sobre-relacao-entre-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-15 13:44 UTC]** Veja frases dos ministros do STF na sessão sobre mensagens de Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/falas-ministros-stf.ghtml)_
+
