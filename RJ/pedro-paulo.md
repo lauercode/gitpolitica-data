@@ -395,3 +395,6 @@
 - **[2026-09-15 16:30 UTC]** Nubank lidera ranking de bancos principais no estado de São Paulo, aponta estudo
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/09/15/nubank-lidera-ranking-de-bancos-principais-no-estado-de-sao-paulo-aponta-estudo-1.ghtml)_
 
+- **[2026-09-15 19:38 UTC]** Paulo Mais Negócios revela o perfil do comprador de luxo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/15/paulo-mais-negocios-revela-o-perfil-do-comprador-de-luxo-1.ghtml)_
+
