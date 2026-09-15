@@ -2162,3 +2162,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:47 UTC]** STF: placar fica em 4 a 3 para julgar separadas petições de Moraes e Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
 
+- **[2026-09-15 21:31 UTC]** Caiado considera que STF está em 'fase procrastinatória' e pede abertura de investigação contra Alexandre de Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/caiado-considera-que-stf-esta-em-fase-procrastinatoria-e-pede-abertura-de-investigacao-contra-alexandre-de-moraes.ghtml)_
+
