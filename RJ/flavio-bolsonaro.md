@@ -1370,3 +1370,6 @@
 - **[2026-09-15 18:51 UTC]** Flávio fala de crise no STF em propaganda eleitoral com vídeo em formato de 'pronunciamento'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-fala-de-crise-no-stf-em-propaganda-eleitoral-com-video-em-formato-de-pronunciamento.shtml)_
 
+- **[2026-09-15 23:27 UTC]** Flávio aposta em “efeito Moraes” e em crise do STF para desgastar Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-efeito-moraes-e-em-crise-do-stf-para-desgastar-lula/)_
+
