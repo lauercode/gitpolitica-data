@@ -59,3 +59,6 @@
 - **[2026-09-14 20:59 UTC]** Eleições 2026: Omar Aziz se reúne com lideranças da indústria e promete políticas de incentivo à geração de empregos
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-omar-aziz-se-reune-com-liderancas-da-industria-e-promete-politicas-de-incentivo-a-geracao-de-empregos.ghtml)_
 
+- **[2026-09-15 18:36 UTC]** Eleições 2026: Omar Aziz defende revisão de contratos terceirizados para reduzir gastos do governo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-omar-aziz-defende-revisao-de-contratos-terceirizados-para-reduzir-gastos-do-governo.ghtml)_
+
