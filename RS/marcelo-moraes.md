@@ -1868,3 +1868,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 10:45 UTC]** Julgamento de Moraes no STF: acompanhe ao vivo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/ao-vivo/2026/09/15/julgamento-alexandre-de-moraes-stf-ao-vivo.ghtml)_
 
+- **[2026-09-15 10:32 UTC]** Moraes nega favorecimento a Vorcaro e chama investigação determinada por Mendonça de 'fraude' e 'vingança'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-nega-favorecimento-a-vorcaro-e-chama-investigacao-determinada-por-mendonca-de-fraude.ghtml)_
+
