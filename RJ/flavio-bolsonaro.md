@@ -1364,3 +1364,6 @@
 - **[2026-09-15 20:52 UTC]** Bastidores: Aliados de Flávio veem julgamento no Supremo ‘ruim’ para Lula independentemente do desfecho
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/bastidores-aliados-de-flavio-veem-julgamento-no-supremo-ruim-para-lula-independentemente-do-desfecho.ghtml)_
 
+- **[2026-09-15 18:05 UTC]** Flávio Dino pede vista de julgamento sobre Moraes e Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/flavio-dino-pede-vista-de-julgamento-sobre-moraes-e-mendonca)_
+
