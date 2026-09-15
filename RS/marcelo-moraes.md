@@ -1997,3 +1997,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:36 UTC]** STF voltará às 15h para votar caso Moraes-Vorcaro: Moraes e Mendonça se enfrentaram com bate-boca; ‘Tenho testemunhas' e 'É mentira'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 15:14 UTC]** Por que Kassio Nunes Marques se declarou impedido de analisar futuro de Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmx2zlpklk6yo?at_medium=RSS&at_campaign=rss)_
+
