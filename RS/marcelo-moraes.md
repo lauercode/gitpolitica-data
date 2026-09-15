@@ -2144,3 +2144,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 20:03 UTC]** Alexandre de Moraes diz que Fachin deu tratamento diferente a ele e a Mendonça em processos no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-pede-equidade-nos-pedidos-de-investigacao-contra-ele-e-contra-andre-mendonca.ghtml)_
 
+- **[2026-09-15 19:02 UTC]** Dino pede vista e adia julgamento de Moraes no STF; Fux e Cármen Lúcia vão antecipar votos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
+
