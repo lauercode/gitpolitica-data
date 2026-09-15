@@ -1373,3 +1373,6 @@
 - **[2026-09-15 23:27 UTC]** Flávio aposta em “efeito Moraes” e em crise do STF para desgastar Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-efeito-moraes-e-em-crise-do-stf-para-desgastar-lula/)_
 
+- **[2026-09-15 22:34 UTC]** Flávio Dino suspende julgamento sobre investigação contra Alexandre de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-sobre-investigacao-contra-alexandre-de-moraes/)_
+
