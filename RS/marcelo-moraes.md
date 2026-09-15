@@ -1910,3 +1910,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:28 UTC]** Avocatória, suspeição e questão de ordem: o que significam termos citados na sessão do STF sobre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/glossario-termos-juridicos-sessao-stf.ghtml)_
 
+- **[2026-09-15 14:27 UTC]** Kassio Nunes Marques se declara impedido em julgamento sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/kassio-nunes-marques-se-declara-impedido-em-julgamento-sobre-moraes.ghtml)_
+
