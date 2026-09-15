@@ -1913,3 +1913,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:27 UTC]** Kassio Nunes Marques se declara impedido em julgamento sobre Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/kassio-nunes-marques-se-declara-impedido-em-julgamento-sobre-moraes.ghtml)_
 
+- **[2026-09-15 14:16 UTC]** Moraes e Mendonça participam lado a lado de sessão do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-e-mendonca-participam-lado-a-lado-de-sessao-do-stf.ghtml)_
+
