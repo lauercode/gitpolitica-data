@@ -2006,3 +2006,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:41 UTC]** Mendonça explica ao STF ordem para identificar pessoas em relatório da PF que cita Alexandre de Moraes
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx1l6znz98g8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 12:31 UTC]** A defesa de Alexandre de Moraes antes da sessão no STF que definirá seu futuro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckr5074jnn90o?at_medium=RSS&at_campaign=rss)_
+
