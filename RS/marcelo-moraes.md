@@ -2150,3 +2150,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 18:01 UTC]** Juntar casos de Moraes e Mendonça abre risco de 'contaminação', sugere especialista
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/juntar-casos-de-moraes-e-mendona-abre-risco-de-contaminao-sugere-especialista.ghtml)_
 
+- **[2026-09-15 18:05 UTC]** Flávio Dino pede vista de julgamento sobre Moraes e Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/flavio-dino-pede-vista-de-julgamento-sobre-moraes-e-mendonca)_
+
