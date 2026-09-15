@@ -47,3 +47,6 @@
 - **[2026-09-14 21:51 UTC]** Eleições 2026: Professora Maria do Carmo defende ‘revigorar’ Zona Franca de Manaus e ampliar economia do Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-professora-maria-do-carmo-defende-revigorar-zona-franca-de-manaus-e-ampliar-economia-do-amazonas.ghtml)_
 
+- **[2026-09-15 20:51 UTC]** Eleições 2026: Professora Maria do Carmo propõe interiorização dos setores da indústria para elevar renda
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-professora-maria-do-carmo-propoe-interiorizacao-dos-setores-da-industria-para-elevar-renda.ghtml)_
+
