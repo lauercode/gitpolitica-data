@@ -2177,3 +2177,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 18:32 UTC]** Fachin suspende sessão no STF com ministros rachados e sem decidir sobre análise de casos Moraes e Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-sessao-no-stf-com-ministros-rachados-e-sem-decidir-sobre-analise-de-casos-moraes-e-mendonca.shtml)_
 
+- **[2026-09-15 23:27 UTC]** Flávio aposta em “efeito Moraes” e em crise do STF para desgastar Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-efeito-moraes-e-em-crise-do-stf-para-desgastar-lula/)_
+
