@@ -2207,3 +2207,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:53 UTC]** 'Supremo provocou mal-estar cívico', diz Cármen Lúcia ao votar para manter julgamento de Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/carmen-lucia-vota-para-manter-julgamento-sobre-moraes.ghtml)_
 
+- **[2026-09-15 21:35 UTC]** O que é pedido de vista, feito por Dino no julgamento sobre Moraes no STF? Entenda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/o-que-e-pedido-de-vista-feito-por-dino-no-julgamento-sobre-moraes-no-stf-entenda.ghtml)_
+
