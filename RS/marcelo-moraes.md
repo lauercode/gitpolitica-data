@@ -2183,3 +2183,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 22:34 UTC]** Flávio Dino suspende julgamento sobre investigação contra Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-sobre-investigacao-contra-alexandre-de-moraes/)_
 
+- **[2026-09-15 23:18 UTC]** Rixa entre Gilmar e Mendonça adia decisão sobre investigação contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rixa-entre-gilmar-e-mendonca-adia-decisao-sobre-investigacao-contra-moraes/)_
+
