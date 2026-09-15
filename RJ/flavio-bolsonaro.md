@@ -1304,3 +1304,6 @@
 - **[2026-09-14 19:48 UTC]** Decisão de Flávio Dino diz que advogada estava com mala de R$ 510 mil apreendida em Congonhas
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/decisao-de-flavio-dino-diz-que-valeria-rodrigues-esposa-de-cezinha-estava-com-mala-de-r-510-mil-apreendida-em-congonhas.ghtml)_
 
+- **[2026-09-14 20:06 UTC]** Flávio Bolsonaro diz que STF tem obrigação de investigar Moraes e defende afastamento de ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-stf-tem-obrigacao-de-investigar-moraes-e-defende-afastamento-de-ministro.shtml)_
+
