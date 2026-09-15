@@ -56,3 +56,6 @@
 - **[2026-09-14 16:12 UTC]** Jorginho Mello (PL) é entrevistado no Jornal do Almoço; VEJA TRECHOS
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/playlist/jorginho-mello-pl-e-entrevistado-no-jornal-do-almoco-veja-trechos.ghtml)_
 
+- **[2026-09-15 23:19 UTC]** Eleições 2026 em SC: Jorginho Mello reúne com líderes religiosos, representantes de escolas de samba e motofrentistas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-em-sc-jorginho-mello-reune-com-lideres-religiosos-representantes-de-escolas-de-samba-e-motofrentistas.ghtml)_
+
