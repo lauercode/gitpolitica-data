@@ -995,3 +995,6 @@ direitos
 - **[2026-09-14 21:12 UTC]** Cezinha de Madureira emprega na Câmara sargento expulso da PM suspeito de envolvimento com PCC
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/cezinha-de-madureira-emprega-na-camara-sargento-expulso-da-pm-suspeito-de-envolvimento-com-pcc.ghtml)_
 
+- **[2026-09-15 20:13 UTC]** Câmara de Aracaju aprova prorrogação da redução de imposto no transporte coletivo
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/15/camara-de-aracaju-aprova-prorrogacao-da-reducao-de-imposto-no-transporte-coletivo.ghtml)_
+
