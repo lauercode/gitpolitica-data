@@ -1835,3 +1835,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 02:50 UTC]** STF faz sessão histórica para tentar investigar Moraes sob forte oposição de aliados
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-faz-sessao-historica-para-tentar-investigar-moraes-sob-forte-oposicao-de-aliados/)_
 
+- **[2026-09-15 08:38 UTC]** "Inconstitucional e ilegal", diz Moraes sobre investigação de Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/inconstitucional-e-ilegal-diz-moraes-sobre-investigacao-de-mendonca)_
+
