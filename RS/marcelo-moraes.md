@@ -1904,3 +1904,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:51 UTC]** Candidatos a presidente comentam sessão do STF que analisa se Moraes será investigado no Caso Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/candidatos-a-presidente-stf.ghtml)_
 
+- **[2026-09-15 14:32 UTC]** Toffoli e Nunes Marques decidem não participar de julgamento que pode abrir investigação sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/toffoli-se-declara-impedido-e-decide-nao-participar-de-julgamento-que-pode-abrir-investigacao-sobre-moraes.ghtml)_
+
