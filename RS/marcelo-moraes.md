@@ -2156,3 +2156,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:37 UTC]** Mendonça acompanha Fachin e vota por julgamento separado de Moraes
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-acompanha-fachin-e-vota-por-julgamento-separado-de-moraes)_
 
+- **[2026-09-15 19:41 UTC]** Ministro Flávio Dino pede vista do julgamento sobre Moraes e Mendonça
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/ministro-flavio-dino-pede-vista-do-julgamento-sobre-moraes-e-mendonca)_
+
