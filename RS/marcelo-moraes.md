@@ -1784,3 +1784,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 00:48 UTC]** Flávio defende afastamento de Moraes e diz que terça será “vital” para o Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-defende-afastamento-de-moraes-e-diz-que-terca-sera-vital-para-o-brasil/)_
 
+- **[2026-09-15 00:20 UTC]** STF concede a Moraes “foro privilegiado dentro do foro privilegiado”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/stf-moraes-foro-privilegiado-dentro-do-foro-privilegiado/)_
+
