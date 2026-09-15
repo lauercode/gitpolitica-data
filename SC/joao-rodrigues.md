@@ -56,3 +56,6 @@
 - **[2026-09-15 16:39 UTC]** Entrevista na NSC: João Rodrigues defende uso de tornozeleira eletrônica para agressores de mulheres e privatização do saneamento básico
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/15/entrevista-na-nsc-joao-rodrigues.ghtml)_
 
+- **[2026-09-15 18:36 UTC]** João Rodrigues (PSD) é entrevistado no Jornal do Almoço; VEJA TRECHOS
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/edicao/2026/09/15/joao-rodrigues-psd-e-entrevistado-no-jornal-do-almoco-veja-trechos.ghtml)_
+
