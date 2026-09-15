@@ -1886,3 +1886,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 11:01 UTC]** STF: começa sessão que analisa investigação contra Alexandre de Moraes
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-comeca-sessao-que-analisa-investigacao-contra-alexandre-de-moraes)_
 
+- **[2026-09-15 17:00 UTC]** STF suspende sessão que analisa relatório da PF sobre relação entre Moraes e Vorcaro; ministros voltam às 15h
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
+
