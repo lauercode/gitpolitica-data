@@ -1349,3 +1349,6 @@
 - **[2026-09-15 15:20 UTC]** Flávio, Caiado, Zema e Renan Santos reagem a julgamento de Moraes no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/candidatos-a-presidencia-reagem-a-julgamento-de-moraes-no-stf.ghtml)_
 
+- **[2026-09-15 13:05 UTC]** Flávio Bolsonaro diz que Lula dividiu poder com Moraes e deixou Brasil ‘sem presidente’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/flvio-bolsonaro-diz-que-lula-dividiu-poder-com-moraes-e-deixou-brasil-sem-presidente.ghtml)_
+
