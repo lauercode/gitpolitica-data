@@ -1895,3 +1895,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:58 UTC]** Dino cita vídeo de Fábio Porchat e música de Chico César em julgamento do STF sobre Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/dino-cita-video-de-fabio-porchat-e-musica-de-chico-cesar-em-julgamento-do-stf-sobre-moraes.ghtml)_
 
+- **[2026-09-15 15:28 UTC]** Moraes e Mendonça batem boca em sessão do STF sobre crise Master na Corte: 'Quem tem medo da PF?'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-e-andre-mendonca-batem-boca-em-sessao-do-stf.ghtml)_
+
