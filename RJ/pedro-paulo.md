@@ -404,3 +404,6 @@
 - **[2026-09-15 23:15 UTC]** Documentos do caso Master expõem embate entre André Mendonça e Paulo Gonet
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/documentos-do-caso-master-expoem-embate-entre-andre-mendonca-e-paulo-gonet/)_
 
+- **[2026-09-15 21:05 UTC]** Paulo Gonet nega proximidade com Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/paulo-gonet-nega-proximidade-com-vorcaro.ghtml)_
+
