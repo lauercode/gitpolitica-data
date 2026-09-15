@@ -2138,3 +2138,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:50 UTC]** Kássio Nunes se declara impedido de participar de sessão sobre caso Moraes-Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/programmes/p0p9r7fp?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 20:47 UTC]** Mendonça vota para manter separados julgamento sobre Moraes e pedido de investigação contra ele: 'não são coisas comparáveis'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/mendonca-vota-para-manter-separados-julgamento-sobre-moraes-e-pedido-de-investigacao-contra-ele.ghtml)_
+
