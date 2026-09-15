@@ -1367,3 +1367,6 @@
 - **[2026-09-15 18:05 UTC]** Flávio Dino pede vista de julgamento sobre Moraes e Mendonça
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/flavio-dino-pede-vista-de-julgamento-sobre-moraes-e-mendonca)_
 
+- **[2026-09-15 18:51 UTC]** Flávio fala de crise no STF em propaganda eleitoral com vídeo em formato de 'pronunciamento'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-fala-de-crise-no-stf-em-propaganda-eleitoral-com-video-em-formato-de-pronunciamento.shtml)_
+
