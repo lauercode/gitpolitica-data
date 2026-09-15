@@ -41,3 +41,6 @@
 - **[2026-09-11 02:24 UTC]** SIC anuncia em Portugal remake de 'Avenida Brasil' para 2027
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/sic-anuncia-em-portugal-remake-de-avenida-brasil-para-2027.shtml)_
 
+- **[2026-09-14 22:37 UTC]** Número de brasileiros que pedem apoio para deixar Portugal cresce 52% no primeiro semestre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/numero-de-brasileiros-que-pedem-apoio-para-deixar-portugal-cresce-52-no-primeiro-semestre.shtml)_
+
