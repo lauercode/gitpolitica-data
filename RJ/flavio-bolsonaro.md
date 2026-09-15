@@ -1337,3 +1337,6 @@
 - **[2026-09-15 15:12 UTC]** Flávio pede ao TSE que proíba Lula de fazer lives no Alvorada nas eleições; PT diz que só utilizou equipamentos de campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/flavio-pede-ao-tse-que-proiba-lula-de-fazer-lives-no-alvorada-nas-eleicoes-pt-diz-que-so-utilizou-equipamentos-de-campanha.ghtml)_
 
+- **[2026-09-15 10:26 UTC]** Flávio Bolsonaro associa governo Lula a Moraes e ignora 'Dark Horse' em dia de sessão no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-associa-governo-lula-a-moraes-e-ignora-dark-horse-em-dia-de-sessao-no-stf.shtml)_
+
