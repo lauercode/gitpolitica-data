@@ -1952,3 +1952,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 10:26 UTC]** Flávio Bolsonaro associa governo Lula a Moraes e ignora 'Dark Horse' em dia de sessão no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-associa-governo-lula-a-moraes-e-ignora-dark-horse-em-dia-de-sessao-no-stf.shtml)_
 
+- **[2026-09-15 09:36 UTC]** Aliado de Trump publica imagem de IA de Moraes com tornozeleira eletrônica e provoca: 'tick tock'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/aliado-de-trump-publica-imagem-de-ia-de-moraes-tornozeleira-eletronica-e-provoca-tick-tock.shtml)_
+
