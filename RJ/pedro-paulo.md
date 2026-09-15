@@ -386,3 +386,6 @@
 - **[2026-09-14 21:32 UTC]** NEXP 2026 discute IA, automação e eficiência em São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/14/nexp-2026-discute-ia-automacao-e-eficiencia-em-sao-paulo-2.ghtml)_
 
+- **[2026-09-14 21:20 UTC]** Para leitor, Alexandre de Moraes, André Mendonça e Paulo Gonet deveriam se afastar de seus cargos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/para-leitor-alexandre-de-moraes-andre-mendonca-e-paulo-gonet-deveriam-se-afastar-de-seus-cargos.shtml)_
+
