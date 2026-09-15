@@ -1985,3 +1985,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 13:52 UTC]** Fachin inicia julgamento de Moraes citando 8 de janeiro e elogiando ministros
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-inicia-julgamento-de-moraes-citando-8-de-janeiro-e-elogiando-ministros/)_
 
+- **[2026-09-15 13:29 UTC]** Juristas católicos cobram transparência do STF no julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juristas-catolicos-cobram-transparencia-do-stf-no-julgamento-de-moraes/)_
+
