@@ -11,3 +11,6 @@
 - **[2026-09-12 23:12 UTC]** Reginaldo Lima propõe tratamento de esgoto e combate à grilagem no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/12/reginaldo-lima-propoe-tratamento-de-esgoto-e-combate-a-grilagem-no-maranhao.ghtml)_
 
+- **[2026-09-14 23:57 UTC]** Reginaldo Lima propõe romper com o ajuste fiscal e taxar grandes fortunas no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/14/reginaldo-lima-propoe-romper-com-o-ajuste-fiscal-e-taxar-grandes-fortunas-no-maranhao.ghtml)_
+
