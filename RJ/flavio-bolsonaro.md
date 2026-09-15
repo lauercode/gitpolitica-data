@@ -1316,3 +1316,6 @@
 - **[2026-09-15 03:00 UTC]** Quaest: Flávio Bolsonaro ganha terreno no eleitorado feminino; desaprovação de Lula supera aprovação pela 1ª vez entre mulheres
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/15/quaest-voto-mulheres-flavio-bolsonaro-lula.ghtml)_
 
+- **[2026-09-15 03:00 UTC]** Quaest, 2º turno: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/15/quaest-2o-turno-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml)_
+
