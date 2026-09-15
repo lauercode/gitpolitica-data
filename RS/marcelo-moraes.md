@@ -2111,3 +2111,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 19:12 UTC]** Imprensa internacional repercute julgamento no STF sobre abertura de investigação contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/imprensa-internacional-repercute-julgamento-no-stf-sobre-abertura-de-investigacao-contra-moraes/)_
 
+- **[2026-09-15 18:36 UTC]** Nikolas convoca ato nas ruas para próxima sessão do STF sobre Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/nikolas-convoca-ato-nas-ruas-para-proxima-sessao-do-stf-sobre-moraes/)_
+
