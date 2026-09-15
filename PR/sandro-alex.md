@@ -74,3 +74,6 @@
 - **[2026-09-15 17:04 UTC]** Eleições 2026 no Paraná: Sandro Alex participa de entrevista ao vivo na RPC, em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-no-parana-agenda-15-de-setembro-sandro-alex.ghtml)_
 
+- **[2026-09-15 16:14 UTC]** Sandro Alex promete melhorias na Copel, privatizada no governo Ratinho Junior, e diz que planeja grande projeto para contenção de enchentes
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/sandro-alex-entrevista-rpc.ghtml)_
+
