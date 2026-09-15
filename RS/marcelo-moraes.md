@@ -1799,3 +1799,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 03:00 UTC]** Veja como será a sessão do STF sobre relatório da PF com mensagens trocadas entre Vorcaro e Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/veja-como-sera-a-sessao-do-stf-sobre-relatorio-da-pf-com-mensagens-trocadas-entre-vorcaro-e-moraes.ghtml)_
 
+- **[2026-09-15 03:00 UTC]** Do Banco Master ao plenário do STF: entenda o histórico da crise e o que esperar do julgamento sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/do-banco-master-ao-plenario-do-stf-entenda-o-historico-da-crise-e-o-que-esperar-do-julgamento-sobre-moraes.ghtml)_
+
