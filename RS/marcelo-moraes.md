@@ -1958,3 +1958,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:31 UTC]** Alexandre de Moraes X André Mendonça: o que diz a petição de defesa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-x-andre-mendonca-o-que-diz-a-peticao-de-defesa/)_
 
+- **[2026-09-15 16:48 UTC]** Ministros manobram para substituir relator e fazer julgamento conjunto de Moraes e Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministros-manobram-para-substituir-relator-e-fazer-julgamento-conjunto-de-moraes-e-mendonca/)_
+
