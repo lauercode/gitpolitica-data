@@ -2120,3 +2120,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 18:21 UTC]** Supremo Tribunal Federal decide se investiga relação de Moraes com ex-banqueiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-decide-se-investiga-relacao-de-moraes-com-ex-banqueiro/)_
 
+- **[2026-09-15 18:10 UTC]** Assista aos embates do julgamento no STF que define o futuro de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/assista-aos-momentos-mais-tensos-no-julgamento-do-stf-que-define-futuro-de-moraes/)_
+
