@@ -1979,3 +1979,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:33 UTC]** Nunes Marques e Toffoli não julgarão caso Moraes-Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-se-declara-impedido-de-julgar-caso-moraes-vorcaro/)_
 
+- **[2026-09-15 14:20 UTC]** Seis frases de Alexandre de Moraes que envelheceram mal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/6-frases-alexandre-de-moraes-que-envelheceram-mal/)_
+
