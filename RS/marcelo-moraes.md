@@ -1967,3 +1967,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:37 UTC]** Manifestantes levam “montanha de dinheiro” em protesto contra Moraes em Brasília; veja fotos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/manifestantes-levam-montanha-de-dinheiro-em-protesto-contra-moraes-em-brasilia-veja-fotos/)_
 
+- **[2026-09-15 17:12 UTC]** Moraes e Gilmar atacam Mendonça e alegam atuação política dele no caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-e-mendonca-batem-boca-por-atuacao-da-pf-e-investigacao-do-master/)_
+
