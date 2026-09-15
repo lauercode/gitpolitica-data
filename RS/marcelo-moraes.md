@@ -2159,3 +2159,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 19:41 UTC]** Ministro Flávio Dino pede vista do julgamento sobre Moraes e Mendonça
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/ministro-flavio-dino-pede-vista-do-julgamento-sobre-moraes-e-mendonca)_
 
+- **[2026-09-15 21:47 UTC]** STF: placar fica em 4 a 3 para julgar separadas petições de Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
+
