@@ -2087,3 +2087,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 16:43 UTC]** 'Até a máfia tem ética': Veja frases marcantes da sessão do STF que discute futuro de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-frases-marcantes-da-sessao-do-stf-que-discute-futuro-de-alexandre-de-moraes.shtml)_
 
+- **[2026-09-15 14:55 UTC]** Presença de delegado da PF em gabinete de Moraes foi questionada em julgamento de golpe
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/presenca-de-delegado-da-pf-em-gabinete-de-moraes-foi-questionada-em-julgamento-de-golpe.shtml)_
+
