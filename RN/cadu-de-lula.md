@@ -38,3 +38,6 @@
 - **[2026-09-14 19:25 UTC]** Cadu de Lula grava programa eleitoral e apresenta propostas para turismo e segurança
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/14/cadu-de-lula-grava-programa-eleitoral-e-apresenta-propostas-para-turismo-e-seguranca.ghtml)_
 
+- **[2026-09-15 17:09 UTC]** Candidato ao Governo do RN, Cadu de Lula promete reduzir fila de cirurgias e aumentar investimento em saúde; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/15/entrevista-governo-do-rn-cadu-de-lula.ghtml)_
+
