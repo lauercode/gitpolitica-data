@@ -44,3 +44,6 @@
 - **[2026-09-14 21:38 UTC]** Eleições 2026: David Almeida participa de entrevista e propõe transformar Manaus em sede de grandes eventos esportivos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-transformar-manaus-em-sede-de-grandes-eventos-esportivos.ghtml)_
 
+- **[2026-09-15 19:29 UTC]** Eleições 2026: David Almeida participa de entrevista e defende união política para manter Zona Franca
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-david-almeida-participa-de-entrevista-e-defende-uniao-politica-para-manter-zona-franca.ghtml)_
+
