@@ -1358,3 +1358,6 @@
 - **[2026-09-15 19:42 UTC]** Crise no STF afeta estratégias de Lula e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/crise-no-stf-estrategias-de-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-15 16:23 UTC]** 'Vossa Excelência viu o vídeo do Porchat?', perguntou Flávio Dino ao ministro Edson Fachin
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/programmes/p0p9rd89?at_medium=RSS&at_campaign=rss)_
+
