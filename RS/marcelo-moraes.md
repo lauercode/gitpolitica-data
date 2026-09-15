@@ -1787,3 +1787,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 00:20 UTC]** STF concede a Moraes “foro privilegiado dentro do foro privilegiado”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/stf-moraes-foro-privilegiado-dentro-do-foro-privilegiado/)_
 
+- **[2026-09-15 04:16 UTC]** 'Inconstitucional e ilegal', diz Moraes sobre investigação de Mendonça; ministro nega favorecimento a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-se-manifesta-pela-1a-vez-sobre-mensagens-de-vorcaro-e-nega-irregularidades.ghtml)_
+
