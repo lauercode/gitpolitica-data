@@ -11,3 +11,6 @@
 - **[2026-09-12 14:39 UTC]** VÍDEO: torcedor cai de arquibancada superior do Couto Pereira durante jogo em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/12/video-torcedor-queda-couto-pereira-curitiba.ghtml)_
 
+- **[2026-09-15 15:35 UTC]** Homem que caiu de arquibancada do Couto Pereira em Curitiba relatou à polícia que estava sobre grade para não pisar em poça d'água; VÍDEO
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/15/homem-queda-arquibancada-curitiba-video.ghtml)_
+
