@@ -77,3 +77,6 @@
 - **[2026-09-15 16:14 UTC]** Sandro Alex promete melhorias na Copel, privatizada no governo Ratinho Junior, e diz que planeja grande projeto para contenção de enchentes
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/sandro-alex-entrevista-rpc.ghtml)_
 
+- **[2026-09-15 15:44 UTC]** Sandro Alex (PSD) é entrevistado no Meio-Dia Paraná; ASSISTA
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/ao-vivo-entrevistas-candidatos-governo-parana.ghtml)_
+
