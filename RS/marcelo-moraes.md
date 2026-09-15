@@ -2174,3 +2174,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 18:35 UTC]** Após pedido de vista, STF interrompe sessão sem definir se junta ou mantém separados casos de Moraes e Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/na-retomada-de-julgamento-fachin-vota-para-rejeitar-pedido-para-adiar-julgamento-de-moraes-e-de-analisar-caso-com-o-de-mendonca.ghtml)_
 
+- **[2026-09-15 18:32 UTC]** Fachin suspende sessão no STF com ministros rachados e sem decidir sobre análise de casos Moraes e Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-sessao-no-stf-com-ministros-rachados-e-sem-decidir-sobre-analise-de-casos-moraes-e-mendonca.shtml)_
+
