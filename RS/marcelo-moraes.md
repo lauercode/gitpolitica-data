@@ -1838,3 +1838,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 08:38 UTC]** "Inconstitucional e ilegal", diz Moraes sobre investigação de Mendonça
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/inconstitucional-e-ilegal-diz-moraes-sobre-investigacao-de-mendonca)_
 
+- **[2026-09-15 07:19 UTC]** STF faz nesta manhã sessão que analisará conversas de Moraes e Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-faz-nesta-manha-sessao-que-analisara-conversas-de-moraes-e-vorcaro)_
+
