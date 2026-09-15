@@ -2045,3 +2045,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 12:59 UTC]** STF reforça segurança e faz cerco inédito para julgamento sobre Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-reforca-seguranca-e-faz-cerco-inedito-para-julgamento-de-moraes.ghtml)_
 
+- **[2026-09-15 12:41 UTC]** Análise: Moraes pode se safar e derrotar Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/analise-moraes-pode-se-safar-e-derrotar-lula.ghtml)_
+
