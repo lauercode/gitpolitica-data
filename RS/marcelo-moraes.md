@@ -1820,3 +1820,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 23:00 UTC]** Mensagens antes de prisão e encontros com Vorcaro: veja o que pesa contra Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-antes-de-prisao-e-encontros-com-vorcaro-veja-o-que-pesa-contra-moraes.shtml)_
 
+- **[2026-09-14 23:00 UTC]** Campanha de Flávio Bolsonaro vê 'ganha-ganha' em sessão do STF sobre Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-bolsonaro-ve-ganha-ganha-em-sessao-do-stf-sobre-moraes.shtml)_
+
