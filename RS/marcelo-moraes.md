@@ -2102,3 +2102,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 20:06 UTC]** Dino sai em defesa de Moraes e diz que STF não pode seguir “tribunal do Facebook”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-sai-em-defesa-de-moraes-e-diz-que-stf-nao-pode-seguir-tribunal-do-facebook/)_
 
+- **[2026-09-15 19:57 UTC]** Dino abraça Fachin e Moraes não olha para Mendonça: os bastidores da sessão do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-abraca-fachin-e-moraes-nao-olha-para-mendonca-os-bastidores-da-sessao-do-stf/)_
+
