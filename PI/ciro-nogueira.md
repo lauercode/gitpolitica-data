@@ -35,3 +35,6 @@
 - **[2026-09-14 10:00 UTC]** Ciro Nogueira oferece terreno de valor contestado para tentar reaver jatinho, BMW e R$ 10 mi bloqueados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ciro-nogueira-oferece-terreno-de-valor-contestado-para-tentar-reaver-jatinho-bmw-e-r-10-mi-bloqueados.shtml)_
 
+- **[2026-09-15 23:19 UTC]** Organizações pedem investigação sobre possível relação entre Ciro Nogueira e deputados citados em  papel achado em churrasqueira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/organizacoes-pedem-investigacao-sobre-possivel-relacao-entre-ciro-nogueira-e-deputados-citados-em-papel-achado-em-churrasqueira.ghtml)_
+
