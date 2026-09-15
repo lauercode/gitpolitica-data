@@ -1841,3 +1841,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 07:19 UTC]** STF faz nesta manhã sessão que analisará conversas de Moraes e Vorcaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-faz-nesta-manha-sessao-que-analisara-conversas-de-moraes-e-vorcaro)_
 
+- **[2026-09-15 07:53 UTC]** Moraes chama relatório de Mendonça de ilegal e inconstitucional
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/moraes-chama-relatorio-de-mendonca-de-ilegal-e-inconstitucional)_
+
