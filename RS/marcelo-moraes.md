@@ -2114,3 +2114,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 18:36 UTC]** Nikolas convoca ato nas ruas para próxima sessão do STF sobre Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/nikolas-convoca-ato-nas-ruas-para-proxima-sessao-do-stf-sobre-moraes/)_
 
+- **[2026-09-15 21:03 UTC]** Mendonça e Fux acompanham Fachin e votam contra unir casos de ministros; Dino, Zanin e Moraes divergem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-julgamento-moraes-stf-dialogos-vorcaro-mendonca/)_
+
