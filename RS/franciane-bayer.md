@@ -11,3 +11,6 @@
 - **[2026-09-10 07:00 UTC]** Bayer aposta em remédio não hormonal para menopausa no Brasil, afirma executivo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bayer-aposta-em-remedio-nao-hormonal-para-menopausa-no-brasil-afirma-executivo.shtml)_
 
+- **[2026-09-15 19:20 UTC]** Bayer e Solar Coca-Cola abrem programas de trainee
+  _fonte: [Valor Econômico](https://valor.globo.com/carreira/empregos-oportunidades/post/2026/09/bayer-e-solar-coca-cola-abrem-programas-de-trainee.ghtml)_
+
