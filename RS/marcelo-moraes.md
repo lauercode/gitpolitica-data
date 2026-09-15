@@ -2084,3 +2084,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:44 UTC]** Moraes se defende, questiona Fachin e reclama de prazo diferente dado a Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-se-defende-questiona-fachin-e-reclama-de-prazo-diferente-dado-a-mendonca.shtml)_
 
+- **[2026-09-15 16:43 UTC]** 'Até a máfia tem ética': Veja frases marcantes da sessão do STF que discute futuro de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-frases-marcantes-da-sessao-do-stf-que-discute-futuro-de-alexandre-de-moraes.shtml)_
+
