@@ -1871,3 +1871,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 10:32 UTC]** Moraes nega favorecimento a Vorcaro e chama investigação determinada por Mendonça de 'fraude' e 'vingança'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-nega-favorecimento-a-vorcaro-e-chama-investigacao-determinada-por-mendonca-de-fraude.ghtml)_
 
+- **[2026-09-15 10:01 UTC]** Moraes diz que Mendonça promoveu investigação 'ilegal' e nega favorecimento a Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-diz-que-mendona-promoveu-investigao-ilegal-e-nega-favorecimento-a-vorcaro.ghtml)_
+
