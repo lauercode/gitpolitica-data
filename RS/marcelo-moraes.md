@@ -1928,3 +1928,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 13:05 UTC]** AO VIVO: STF analisa troca de mensagens entre Alexandre de Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/ao-vivo-stf-analisa-troca-de-mensagens-entre-alexandre-de-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-15 13:02 UTC]** Gonet chega ao STF para julgamento sobre Moraes após ser alvo de dúvidas sobre presença
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/gonet-chega-ao-stf-para-acompanhar-julgamento.ghtml)_
+
