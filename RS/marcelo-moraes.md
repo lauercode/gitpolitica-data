@@ -2063,3 +2063,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:26 UTC]** Moraes acusa Mendonça de querer incluir seu nome em delação de Vorcaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-acusa-mendonca-de-querer-incluir-seu-nome-em-delacao-de-vorcaro)_
 
+- **[2026-09-15 17:54 UTC]** Supremo tem placar de 4 a 2 para manter casos Moraes e Mendonça juntos
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/supremo-tem-placar-de-4-2-para-manter-casos-moraes-e-mendonca-juntos)_
+
