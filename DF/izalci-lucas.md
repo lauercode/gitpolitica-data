@@ -68,3 +68,6 @@
 - **[2026-09-11 17:51 UTC]** Lucas Ribeiro defende ampliação do passe livre estudantil para universitários na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/11/lucas-ribeiro-defende-ampliacao-do-passe-livre-estudantil-para-universitarios-na-paraiba.ghtml)_
 
+- **[2026-09-15 00:14 UTC]** A Fazenda 18: Lucas Bissoli, ex-BBB, é confirmado no reality show
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-lucas-bissoli-ex-bbb-e-confirmado-no-reality-show.shtml)_
+
