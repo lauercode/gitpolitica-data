@@ -398,3 +398,6 @@
 - **[2026-09-15 19:38 UTC]** Paulo Mais Negócios revela o perfil do comprador de luxo
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/15/paulo-mais-negocios-revela-o-perfil-do-comprador-de-luxo-1.ghtml)_
 
+- **[2026-09-15 18:33 UTC]** Paulo Gonet nega proximidade com Daniel Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/paulo-gonet-nega-proximidade-com-daniel-vorcaro)_
+
