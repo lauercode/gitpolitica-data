@@ -1826,3 +1826,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 23:00 UTC]** Posição de Zanin e Moraes agora destoa de atuação em trama golpista e inquérito das fake news
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/posicao-de-zanin-e-moraes-agora-destoa-de-atuacao-em-trama-golpista-e-inquerito-das-fake-news.shtml)_
 
+- **[2026-09-15 05:43 UTC]** STF analisa abertura de inquérito contra Alexandre de Moraes nesta terça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-analisa-abertura-de-inquerito-contra-alexandre-de-moraes-nesta-terca/)_
+
