@@ -2090,3 +2090,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:55 UTC]** Presença de delegado da PF em gabinete de Moraes foi questionada em julgamento de golpe
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/presenca-de-delegado-da-pf-em-gabinete-de-moraes-foi-questionada-em-julgamento-de-golpe.shtml)_
 
+- **[2026-09-15 21:01 UTC]** Dino adia julgamento de Moraes em meio a bate-boca entre ministros
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-adia-julgamento-de-moraes-em-meio-a-bate-boca-entre-ministros/)_
+
