@@ -122,3 +122,6 @@
 - **[2026-09-14 09:00 UTC]** Entenda como funciona o esquema bilionário de garimpo ilegal de ouro e cassiterita na Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/14/entenda-como-funciona-o-esquema-bilionario-de-garimpo-ilegal-de-ouro-e-cassiterita-na-terra-yanomami.ghtml)_
 
+- **[2026-09-15 14:17 UTC]** VÍDEO: Brasil lança foguete com 'laboratório espacial' que vai a 100 km de altitude e prevê volta à Terra de paraquedas
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/15/video-brasil-lanca-foguete-teste-laboratorio-espacial.ghtml)_
+
