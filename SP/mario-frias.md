@@ -164,3 +164,6 @@
 - **[2026-09-14 20:03 UTC]** “Atorzinho da Malhação” e líder de cartas na Globo: veja trajetória de Mario Frias antes da política
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/atorzinho-da-malhacao-e-lider-de-cartas-na-globo-saiba-quem-e-mario-frias/)_
 
+- **[2026-09-14 20:03 UTC]** “Atorzinho da Malhação” e líder de cartas na Globo: conheça trajetória de Mario Frias antes da política
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/atorzinho-da-malhacao-e-lider-de-cartas-na-globo-saiba-quem-e-mario-frias/)_
+
