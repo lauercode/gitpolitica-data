@@ -1301,3 +1301,6 @@
 - **[2026-09-14 21:26 UTC]** Flávio e PL lideram uso indevido de IA, diz observatório
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-e-pl-lideram-uso-indevido-de-ia-diz-observatorio)_
 
+- **[2026-09-14 19:48 UTC]** Decisão de Flávio Dino diz que advogada estava com mala de R$ 510 mil apreendida em Congonhas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/decisao-de-flavio-dino-diz-que-valeria-rodrigues-esposa-de-cezinha-estava-com-mala-de-r-510-mil-apreendida-em-congonhas.ghtml)_
+
