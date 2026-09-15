@@ -1964,3 +1964,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 16:23 UTC]** Petição reúne assinaturas a favor da investigação de Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/peticao-reune-assinaturas-a-favor-da-investigacao-de-alexandre-de-moraes/)_
 
+- **[2026-09-15 15:37 UTC]** Manifestantes levam “montanha de dinheiro” em protesto contra Moraes em Brasília; veja fotos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/manifestantes-levam-montanha-de-dinheiro-em-protesto-contra-moraes-em-brasilia-veja-fotos/)_
+
