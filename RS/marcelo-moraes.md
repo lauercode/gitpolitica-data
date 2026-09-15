@@ -1805,3 +1805,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 02:00 UTC]** STF chega dividido a julgamento sobre Moraes; seis ministros têm posições mais consolidadas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-chega-dividido-a-julgamento-sobre-moraes-seis-ministros-tem-posicoes-mais-consolidadas.ghtml)_
 
+- **[2026-09-15 00:10 UTC]** Moraes chama relatório apresentado por Mendonça de farsa e diz que é vingança após condenações na trama golpista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-diz-que-relatorio-apresentado-por-mendonca-e-farsa-e-vinganca-de-aliados-de-condenados-pela-trama-golpista.shtml)_
+
