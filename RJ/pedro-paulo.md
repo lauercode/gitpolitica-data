@@ -401,3 +401,6 @@
 - **[2026-09-15 18:33 UTC]** Paulo Gonet nega proximidade com Daniel Vorcaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/paulo-gonet-nega-proximidade-com-daniel-vorcaro)_
 
+- **[2026-09-15 23:15 UTC]** Documentos do caso Master expõem embate entre André Mendonça e Paulo Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/documentos-do-caso-master-expoem-embate-entre-andre-mendonca-e-paulo-gonet/)_
+
