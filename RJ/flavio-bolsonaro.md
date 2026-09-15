@@ -1340,3 +1340,6 @@
 - **[2026-09-15 10:26 UTC]** Flávio Bolsonaro associa governo Lula a Moraes e ignora 'Dark Horse' em dia de sessão no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-associa-governo-lula-a-moraes-e-ignora-dark-horse-em-dia-de-sessao-no-stf.shtml)_
 
+- **[2026-09-15 16:46 UTC]** Grupo ligado a Zema e Flávio protesta na Esplanada enquanto ocorre julgamento no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/grupo-ligado-a-zema-e-flavio-protesta-na-esplanada-enquanto-ocorre-julgamento-no-stf.ghtml)_
+
