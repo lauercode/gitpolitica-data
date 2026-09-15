@@ -1955,3 +1955,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 09:36 UTC]** Aliado de Trump publica imagem de IA de Moraes com tornozeleira eletrônica e provoca: 'tick tock'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/aliado-de-trump-publica-imagem-de-ia-de-moraes-tornozeleira-eletronica-e-provoca-tick-tock.shtml)_
 
+- **[2026-09-15 17:31 UTC]** Alexandre de Moraes X André Mendonça: o que diz a petição de defesa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-x-andre-mendonca-o-que-diz-a-peticao-de-defesa/)_
+
