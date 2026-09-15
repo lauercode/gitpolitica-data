@@ -1943,3 +1943,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 13:06 UTC]** Lula ignora julgamento sobre Moraes no STF em cerimônia no Planalto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-ignora-caso-moraes-no-stf-em-cerimonia-no-planalto.shtml)_
 
+- **[2026-09-15 10:49 UTC]** Kassio e Toffoli se declaram suspeitos e não votarão em sessão sobre Moraes no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/kassio-avalia-nao-votar-em-sessao-sobre-moraes-apos-mensagens-de-vorcaro-citarem-filho.shtml)_
+
