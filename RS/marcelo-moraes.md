@@ -2132,3 +2132,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:07 UTC]** Dino pede vista, mas Fachin convida Fux e Cármen a votar ainda hoje; placar está 4x3 para adiar julgamento de Moraes, siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 20:37 UTC]** Os bate-bocas entre ministros na sessão sobre caso Moraes-Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4gv32zgljeo?at_medium=RSS&at_campaign=rss)_
+
