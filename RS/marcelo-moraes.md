@@ -1802,3 +1802,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 03:00 UTC]** Do Banco Master ao plenário do STF: entenda o histórico da crise e o que esperar do julgamento sobre Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/do-banco-master-ao-plenario-do-stf-entenda-o-historico-da-crise-e-o-que-esperar-do-julgamento-sobre-moraes.ghtml)_
 
+- **[2026-09-15 02:00 UTC]** STF chega dividido a julgamento sobre Moraes; seis ministros têm posições mais consolidadas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-chega-dividido-a-julgamento-sobre-moraes-seis-ministros-tem-posicoes-mais-consolidadas.ghtml)_
+
