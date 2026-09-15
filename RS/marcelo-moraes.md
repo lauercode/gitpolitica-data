@@ -1847,3 +1847,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 07:00 UTC]** STF decide hoje se abre investigação formal contra Alexandre de Moraes
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-decide-hoje-se-abre-investigacao-formal-contra-alexandre-de-moraes)_
 
+- **[2026-09-15 12:05 UTC]** LOGO MAIS: STF analisa nesta terça se abre investigação contra Moraes por mensagens com Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
+
