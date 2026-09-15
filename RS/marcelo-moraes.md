@@ -2210,3 +2210,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:35 UTC]** O que é pedido de vista, feito por Dino no julgamento sobre Moraes no STF? Entenda
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/o-que-e-pedido-de-vista-feito-por-dino-no-julgamento-sobre-moraes-no-stf-entenda.ghtml)_
 
+- **[2026-09-15 19:02 UTC]** STF suspende sessão sobre relação de Vorcaro e Moraes após pedido de vista de Flávio Dino
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
+
