@@ -17,3 +17,6 @@
 - **[2026-09-15 17:35 UTC]** Saulo Arcangeli promete criar conselhos populares, estatizar a saúde e implantar tarifa zero no transporte público
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/15/saulo-arcangeli-promete-criar-conselhos-populares-estatizar-a-saude-e-implantar-tarifa-zero-no-transporte-publico.ghtml)_
 
+- **[2026-09-15 15:48 UTC]** Saulo Arcangeli (PSTU) é entrevistado no JM1; assista
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-maranhao-no-jm1.ghtml)_
+
