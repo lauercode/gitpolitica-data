@@ -1934,3 +1934,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 12:40 UTC]** Julgamento no STF: o que pesa contra Moraes e o que o ministro diz em sua defesa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/julgamento-no-stf-o-que-pesa-contra-moraes-e-o-que-o-ministro-diz-em-sua-defesa.ghtml)_
 
+- **[2026-09-15 03:00 UTC]** Que horas e como será a sessão do STF sobre mensagens trocadas entre Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/veja-como-sera-a-sessao-do-stf-sobre-relatorio-da-pf-com-mensagens-trocadas-entre-vorcaro-e-moraes.ghtml)_
+
