@@ -1361,3 +1361,6 @@
 - **[2026-09-15 16:23 UTC]** 'Vossa Excelência viu o vídeo do Porchat?', perguntou Flávio Dino ao ministro Edson Fachin
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/programmes/p0p9rd89?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 20:52 UTC]** Bastidores: Aliados de Flávio veem julgamento no Supremo ‘ruim’ para Lula independentemente do desfecho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/bastidores-aliados-de-flavio-veem-julgamento-no-supremo-ruim-para-lula-independentemente-do-desfecho.ghtml)_
+
