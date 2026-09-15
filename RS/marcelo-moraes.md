@@ -1907,3 +1907,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:32 UTC]** Toffoli e Nunes Marques decidem não participar de julgamento que pode abrir investigação sobre Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/toffoli-se-declara-impedido-e-decide-nao-participar-de-julgamento-que-pode-abrir-investigacao-sobre-moraes.ghtml)_
 
+- **[2026-09-15 14:28 UTC]** Avocatória, suspeição e questão de ordem: o que significam termos citados na sessão do STF sobre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/glossario-termos-juridicos-sessao-stf.ghtml)_
+
