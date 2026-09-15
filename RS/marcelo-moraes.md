@@ -1925,3 +1925,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 13:38 UTC]** Ministros fora do julgamento, bate-boca e debate sobre juntar acusações contra Moraes e Mendonça: como foi a sessão do STF até agora
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/ao-abrir-sessao-fachin-diz-que-stf-atravessa-periodo-dificil-da-historia-e-nao-julga-pessoas-mas-fatos.ghtml)_
 
+- **[2026-09-15 13:05 UTC]** AO VIVO: STF analisa troca de mensagens entre Alexandre de Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/ao-vivo-stf-analisa-troca-de-mensagens-entre-alexandre-de-moraes-e-vorcaro.ghtml)_
+
