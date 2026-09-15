@@ -1808,3 +1808,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 00:10 UTC]** Moraes chama relatório apresentado por Mendonça de farsa e diz que é vingança após condenações na trama golpista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-diz-que-relatorio-apresentado-por-mendonca-e-farsa-e-vinganca-de-aliados-de-condenados-pela-trama-golpista.shtml)_
 
+- **[2026-09-14 23:00 UTC]** Entenda como será a sessão no STF sobre Moraes e Vorcaro e as indefinições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-como-sera-a-sessao-no-stf-sobre-moraes-e-vorcaro-e-as-indefinicoes.shtml)_
+
