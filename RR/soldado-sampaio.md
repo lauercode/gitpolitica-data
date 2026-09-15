@@ -20,3 +20,6 @@
 - **[2026-09-09 15:19 UTC]** TRE multa Soldado Sampaio em R$ 5 mil por propaganda antecipada durante convenção em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/09/tre-multa-soldado-sampaio-em-r-5-mil-por-propaganda-antecipada-durante-convencao-em-roraima.ghtml)_
 
+- **[2026-09-15 16:59 UTC]** Candidato ao governo, Soldado Sampaio quer combater violência doméstica com apoio de igrejas e ampliar benefícios sociais
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/15/candidato-ao-governo-soldado-sampaio-quer-combater-violencia-domestica-com-apoio-de-igrejas-e-ampliar-beneficios-sociais.ghtml)_
+
