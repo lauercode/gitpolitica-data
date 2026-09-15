@@ -41,3 +41,6 @@
 - **[2026-09-14 16:58 UTC]** Eleições 2026 no Paraná: Requião Filho visita hospital e encontra apoiadores na Grande Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-requiao-filho-visita-hospital-e-encontra-apoiadores.ghtml)_
 
+- **[2026-09-15 17:04 UTC]** Eleições 2026 no Paraná: Requião Filho participa de sabatinas, entrevistas e palestra de filósofa, em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-no-parana-requiao-filho-participa-de-sabatinas-entrevistas-e-palestra-de-filosofa-em-curitiba.ghtml)_
+
