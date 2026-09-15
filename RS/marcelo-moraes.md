@@ -1994,3 +1994,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:42 UTC]** Acompanhe ao vivo: STF julga se Alexandre de Moraes será investigado no caso Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acompanhe-ao-vivo-stf-decide-se-alexandre-de-moraes-sera-investigado-no-caso-vorcaro/)_
 
+- **[2026-09-15 17:36 UTC]** STF voltará às 15h para votar caso Moraes-Vorcaro: Moraes e Mendonça se enfrentaram com bate-boca; ‘Tenho testemunhas' e 'É mentira'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
+
