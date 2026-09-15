@@ -2033,3 +2033,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:48 UTC]** Nunes Marques e Toffoli não devem votar em julgamento sobre Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/nunes-marques-se-declara-impedido-em-julgamento-sobre-moraes.ghtml)_
 
+- **[2026-09-15 14:04 UTC]** STF abre sessão sobre Moraes com bate-boca entre Fachin e Dino e impedimento de ministros
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-nao-se-julgam-pessoas-julgam-se-fatos-e-questoes-juridicas-diz-fachin.ghtml)_
+
