@@ -1319,3 +1319,6 @@
 - **[2026-09-15 03:00 UTC]** Quaest, 2º turno: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/15/quaest-2o-turno-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml)_
 
+- **[2026-09-14 23:00 UTC]** IA vira marqueteira de candidatos nanicos e entra nas propagandas de Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ia-vira-marqueteira-de-candidatos-nanicos-e-entra-nas-propagandas-de-lula-e-flavio.shtml)_
+
