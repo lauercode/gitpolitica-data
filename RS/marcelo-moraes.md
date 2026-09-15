@@ -1988,3 +1988,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 13:29 UTC]** Juristas católicos cobram transparência do STF no julgamento de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juristas-catolicos-cobram-transparencia-do-stf-no-julgamento-de-moraes/)_
 
+- **[2026-09-15 13:13 UTC]** Moraes aponta relatório da PF como parte de interferência estrangeira nas eleições de 2026
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/moraes-aponta-relatorio-da-pf-como-parte-de-interferencia-estrangeira-nas-eleicoes-de-2026/)_
+
