@@ -2195,3 +2195,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 23:38 UTC]** Dino pede vista, e STF adia análise do caso Moraes; veja como foi o julgamento
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 22:57 UTC]** 'Pode chorar': os bate-bocas entre ministros na sessão sobre caso Moraes-Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4gv32zgljeo?at_medium=RSS&at_campaign=rss)_
+
