@@ -1937,3 +1937,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 03:00 UTC]** Que horas e como será a sessão do STF sobre mensagens trocadas entre Vorcaro e Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/veja-como-sera-a-sessao-do-stf-sobre-relatorio-da-pf-com-mensagens-trocadas-entre-vorcaro-e-moraes.ghtml)_
 
+- **[2026-09-15 13:52 UTC]** Moraes acusa Mendonça de usar PF para incluí-lo em delação, e ministro rebate: 'É mentira!'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-acusa-mendonca-de-usar-pf-para-inclui-lo-em-delacao-e-ministro-rebate-e-mentira.shtml)_
+
