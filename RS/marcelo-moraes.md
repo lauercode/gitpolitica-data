@@ -1898,3 +1898,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:28 UTC]** Moraes e Mendonça batem boca em sessão do STF sobre crise Master na Corte: 'Quem tem medo da PF?'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-e-andre-mendonca-batem-boca-em-sessao-do-stf.ghtml)_
 
+- **[2026-09-15 15:21 UTC]** Dino pede adiamento de julgamento sobre Moraes; ministro sugere análise conjunta na sessão sobre Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/dino-pede-que-julgamento-de-relatorio-sobre-moraes-seja-feito-em-conjunto-com-sessao-sobre-mendonca-no-dia-23-de-setembro.ghtml)_
+
