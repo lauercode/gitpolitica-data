@@ -1901,3 +1901,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:21 UTC]** Dino pede adiamento de julgamento sobre Moraes; ministro sugere análise conjunta na sessão sobre Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/dino-pede-que-julgamento-de-relatorio-sobre-moraes-seja-feito-em-conjunto-com-sessao-sobre-mendonca-no-dia-23-de-setembro.ghtml)_
 
+- **[2026-09-15 14:51 UTC]** Candidatos a presidente comentam sessão do STF que analisa se Moraes será investigado no Caso Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/candidatos-a-presidente-stf.ghtml)_
+
