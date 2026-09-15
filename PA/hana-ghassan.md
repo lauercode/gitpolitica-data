@@ -32,3 +32,6 @@
 - **[2026-09-11 22:57 UTC]** Hana Ghassan propõe construir mais 40 Usinas da Paz e descentralizar atendimento de saúde no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/11/hana-ghassan-propoe-construir-mais-40-usinas-da-paz-e-descentralizar-atendimento-de-saude-no-para.ghtml)_
 
+- **[2026-09-15 01:25 UTC]** Hana Ghassan propõe intercâmbio para alunos da rede pública e bolsa-estágio no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/14/hana-ghassan-propoe-intercambio-para-alunos-da-rede-publica-e-bolsa-estagio-no-para.ghtml)_
+
