@@ -1865,3 +1865,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 12:29 UTC]** STF: Nunes Marques e Fux são dúvida em julgamento sobre citações a Moraes e podem se declarar impedidos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-nunes-marques-e-fux-so-dvida-em-julgamento-sobre-citaes-a-moraes-e-podem-se-declarar-impedidos.ghtml)_
 
+- **[2026-09-15 10:45 UTC]** Julgamento de Moraes no STF: acompanhe ao vivo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/ao-vivo/2026/09/15/julgamento-alexandre-de-moraes-stf-ao-vivo.ghtml)_
+
