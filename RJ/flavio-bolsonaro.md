@@ -1334,3 +1334,6 @@
 - **[2026-09-15 09:00 UTC]** Após desentendimentos, Michelle, Nikolas e Tarcísio entram na campanha de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/apos-desentendimentos-michelle-nikolas-e-tarcisio-entram-na-campanha-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-15 15:12 UTC]** Flávio pede ao TSE que proíba Lula de fazer lives no Alvorada nas eleições; PT diz que só utilizou equipamentos de campanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/flavio-pede-ao-tse-que-proiba-lula-de-fazer-lives-no-alvorada-nas-eleicoes-pt-diz-que-so-utilizou-equipamentos-de-campanha.ghtml)_
+
