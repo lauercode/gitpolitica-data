@@ -2078,3 +2078,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 18:35 UTC]** Gilmar, Dino, Zanin e Moraes defendem análise conjunta de casos de ministros; Fachin e Mendonça votam para manter separados
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/na-retomada-de-julgamento-fachin-vota-para-rejeitar-pedido-para-adiar-julgamento-de-moraes-e-de-analisar-caso-com-o-de-mendonca.ghtml)_
 
+- **[2026-09-15 15:21 UTC]** Gilmar acolhe sugestão de Dino e propõe adiar sessão sobre Moraes; ministros querem análise conjunta com situação de Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/dino-pede-que-julgamento-de-relatorio-sobre-moraes-seja-feito-em-conjunto-com-sessao-sobre-mendonca-no-dia-23-de-setembro.ghtml)_
+
