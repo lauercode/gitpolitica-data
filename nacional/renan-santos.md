@@ -248,3 +248,6 @@
 - **[2026-09-14 17:59 UTC]** Renan Santos fará ‘tour’ por Estados do Sul e Sudeste na reta final de campanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/renan-santos-fara-tour-por-estados-do-sul-e-sudeste-na-reta-final-de-campanha.ghtml)_
 
+- **[2026-09-15 15:20 UTC]** Flávio, Caiado, Zema e Renan Santos reagem a julgamento de Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/candidatos-a-presidencia-reagem-a-julgamento-de-moraes-no-stf.ghtml)_
+
