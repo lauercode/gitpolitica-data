@@ -2198,3 +2198,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 22:57 UTC]** 'Pode chorar': os bate-bocas entre ministros na sessão sobre caso Moraes-Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4gv32zgljeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 16:50 UTC]** Moraes ataca Mendonça no STF: 'Quem tem medo da Polícia Federal?'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq9v9xm48zrro?at_medium=RSS&at_campaign=rss)_
+
