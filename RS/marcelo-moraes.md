@@ -2093,3 +2093,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:01 UTC]** Dino adia julgamento de Moraes em meio a bate-boca entre ministros
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-adia-julgamento-de-moraes-em-meio-a-bate-boca-entre-ministros/)_
 
+- **[2026-09-15 20:50 UTC]** Mendonça cita compra de terno para defender apuração contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-cita-compra-de-terno-para-defender-apuracao-contra-moraes/)_
+
