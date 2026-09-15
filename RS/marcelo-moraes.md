@@ -2051,3 +2051,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:25 UTC]** Zanin: não dá para investigar Moraes sem julgar atos de Mendonça
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-nao-da-para-investigar-moraes-sem-julgar-atos-de-mendonca)_
 
+- **[2026-09-15 17:22 UTC]** Moraes defende que seu julgamento seja em conjunto com o de Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-defende-que-seu-julgamento-seja-em-conjunto-com-o-de-mendonca)_
+
