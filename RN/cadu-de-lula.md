@@ -41,3 +41,6 @@
 - **[2026-09-15 17:09 UTC]** Candidato ao Governo do RN, Cadu de Lula promete reduzir fila de cirurgias e aumentar investimento em saúde; veja entrevista
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/15/entrevista-governo-do-rn-cadu-de-lula.ghtml)_
 
+- **[2026-09-15 20:11 UTC]** Cadu de Lula destaca propostas para segurança, educação e equilíbrio fiscal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/15/cadu-de-lula-destaca-propostas-para-seguranca-educacao-e-equilibrio-fiscal.ghtml)_
+
