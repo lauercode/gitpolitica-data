@@ -23,3 +23,6 @@
 - **[2026-09-03 11:07 UTC]** Senador da base de Lula assina pedido de impeachment contra Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-da-base-de-lula-assina-pedido-de-impeachment-contra-alexandre-de-moraes/)_
 
+- **[2026-09-15 12:05 UTC]** Candidata ao Senado, Samanda de Lula fala em combate ao feminicídio e enfrentamento às bets; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/15/entrevista-senado-rn-samanda-de-lula.ghtml)_
+
