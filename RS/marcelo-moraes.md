@@ -2204,3 +2204,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 22:09 UTC]** Fachin encerra sessão do STF, que tem 4x3 para votar caso de Moraes separadamente; veja como foi
   _fonte: [Valor Econômico](https://valor.globo.com/politica/ao-vivo/2026/09/15/julgamento-alexandre-de-moraes-stf-ao-vivo.ghtml)_
 
+- **[2026-09-15 21:53 UTC]** 'Supremo provocou mal-estar cívico', diz Cármen Lúcia ao votar para manter julgamento de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/carmen-lucia-vota-para-manter-julgamento-sobre-moraes.ghtml)_
+
