@@ -2201,3 +2201,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 16:50 UTC]** Moraes ataca Mendonça no STF: 'Quem tem medo da Polícia Federal?'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq9v9xm48zrro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 22:09 UTC]** Fachin encerra sessão do STF, que tem 4x3 para votar caso de Moraes separadamente; veja como foi
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/ao-vivo/2026/09/15/julgamento-alexandre-de-moraes-stf-ao-vivo.ghtml)_
+
