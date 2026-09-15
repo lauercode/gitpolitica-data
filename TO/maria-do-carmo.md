@@ -50,3 +50,6 @@
 - **[2026-09-14 17:29 UTC]** Em sabatina, Maria do Carmo diz que governo do AM deve se preparar para seca e cheia e questiona relação com crise climática
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/em-sabatina-maria-do-carmo-diz-que-governo-do-am-deve-se-preparar-para-seca-e-cheia-e-questiona-relacao-com-crise-climatica.ghtml)_
 
+- **[2026-09-15 10:33 UTC]** Acesso do Complexo Viário Maria do Carmo em Aracaju será alterado
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/15/acesso-do-complexo-viario-maria-do-carmo-em-aracaju-sera-alterado.ghtml)_
+
