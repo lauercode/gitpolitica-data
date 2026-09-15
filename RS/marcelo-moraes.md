@@ -1922,3 +1922,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 13:44 UTC]** Veja frases dos ministros do STF na sessão sobre mensagens de Vorcaro e Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/falas-ministros-stf.ghtml)_
 
+- **[2026-09-15 13:38 UTC]** Ministros fora do julgamento, bate-boca e debate sobre juntar acusações contra Moraes e Mendonça: como foi a sessão do STF até agora
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/ao-abrir-sessao-fachin-diz-que-stf-atravessa-periodo-dificil-da-historia-e-nao-julga-pessoas-mas-fatos.ghtml)_
+
