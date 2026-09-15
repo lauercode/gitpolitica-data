@@ -2129,3 +2129,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:37 UTC]** STF deixará acusações contra Moraes de lado e julgará sorteio de relator após intervalo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-deixara-acusacoes-contra-moraes-de-lado-e-julgara-sorteio-de-relator-apos-intervalo/)_
 
+- **[2026-09-15 21:07 UTC]** Dino pede vista, mas Fachin convida Fux e Cármen a votar ainda hoje; placar está 4x3 para adiar julgamento de Moraes, siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
+
