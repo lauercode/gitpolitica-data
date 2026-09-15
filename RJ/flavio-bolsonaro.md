@@ -1313,3 +1313,6 @@
 - **[2026-09-14 22:33 UTC]** Flávio Bolsonaro aciona STF por investigação contra filho de Sarney após relato de Karina Gama
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-aciona-stf-por-investigacao-contra-filho-de-sarney-por-delacao-de-karina-gama/)_
 
+- **[2026-09-15 03:00 UTC]** Quaest: Flávio Bolsonaro ganha terreno no eleitorado feminino; desaprovação de Lula supera aprovação pela 1ª vez entre mulheres
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/15/quaest-voto-mulheres-flavio-bolsonaro-lula.ghtml)_
+
