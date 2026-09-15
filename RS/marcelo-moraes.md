@@ -1946,3 +1946,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 10:49 UTC]** Kassio e Toffoli se declaram suspeitos e não votarão em sessão sobre Moraes no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/kassio-avalia-nao-votar-em-sessao-sobre-moraes-apos-mensagens-de-vorcaro-citarem-filho.shtml)_
 
+- **[2026-09-15 10:44 UTC]** Mendonça reage a Moraes e diz que não há irregularidade em relatório da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-reage-a-moraes-e-diz-que-nao-ha-irregularidade-em-relatorio-da-pf.shtml)_
+
