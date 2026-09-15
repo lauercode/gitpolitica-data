@@ -2024,3 +2024,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:29 UTC]** STF: Dino critica Fachin por ter avocado relatoria de casos do Master, propõe redistribuição e adiamento de julgamento sobre Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-dino-critica-fachin-por-ter-avocado-relatoria-de-casos-do-master-prope-redistribuio-e-adiamento-de-julgamento-sobre-moraes.ghtml)_
 
+- **[2026-09-15 15:20 UTC]** Flávio, Caiado, Zema e Renan Santos reagem a julgamento de Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/candidatos-a-presidencia-reagem-a-julgamento-de-moraes-no-stf.ghtml)_
+
