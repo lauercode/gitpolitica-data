@@ -1775,3 +1775,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 21:20 UTC]** Para leitor, Alexandre de Moraes, André Mendonça e Paulo Gonet deveriam se afastar de seus cargos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/para-leitor-alexandre-de-moraes-andre-mendonca-e-paulo-gonet-deveriam-se-afastar-de-seus-cargos.shtml)_
 
+- **[2026-09-14 20:39 UTC]** Supremo precisa investigar Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/supremo-precisa-investigar-moraes.shtml)_
+
