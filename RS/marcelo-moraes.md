@@ -1973,3 +1973,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 15:35 UTC]** Dino pede que julgamento de Moraes seja transferido para sessão com Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-julgamento-moraes-transferido-sessao-com-mendonca/)_
 
+- **[2026-09-15 15:04 UTC]** Fachin e Dino batem boca em julgamento de Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-e-dino-batem-boca-em-julgamento-de-moraes-no-stf/)_
+
