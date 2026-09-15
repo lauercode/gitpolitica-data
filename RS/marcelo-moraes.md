@@ -1883,3 +1883,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 11:40 UTC]** André Mendonça rebate Moraes e nega ilegalidade em relatório
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/andre-mendonca-rebate-moraes-e-nega-ilegalidade-em-relatorio)_
 
+- **[2026-09-15 11:01 UTC]** STF: começa sessão que analisa investigação contra Alexandre de Moraes
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-comeca-sessao-que-analisa-investigacao-contra-alexandre-de-moraes)_
+
