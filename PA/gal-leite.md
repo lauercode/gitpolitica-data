@@ -17,3 +17,6 @@
 - **[2026-09-09 00:40 UTC]** Gal Leite, da UP, quer integrar secretarias para qualificar mulheres e combater violência no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/08/gal-da-up-quer-integrar-secretarias-para-qualificar-mulheres-e-combater-violencia-no-para.ghtml)_
 
+- **[2026-09-15 23:08 UTC]** Gal Leite propõe reestatizar serviços de água e esgoto no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/15/gal-leite-propoe-reestatizar-servicos-de-agua-e-esgoto-no-para.ghtml)_
+
