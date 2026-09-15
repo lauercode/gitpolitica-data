@@ -2048,3 +2048,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 12:41 UTC]** Análise: Moraes pode se safar e derrotar Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/analise-moraes-pode-se-safar-e-derrotar-lula.ghtml)_
 
+- **[2026-09-15 17:25 UTC]** Zanin: não dá para investigar Moraes sem julgar atos de Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-nao-da-para-investigar-moraes-sem-julgar-atos-de-mendonca)_
+
