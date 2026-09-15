@@ -1862,3 +1862,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 11:18 UTC]** Empresário ligado a Vorcaro pede suspeição de Mendonça antes de julgamento de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/empresario-ligado-vorcaro-suspeicao-mendonca-antes-julgamento/)_
 
+- **[2026-09-15 12:29 UTC]** STF: Nunes Marques e Fux são dúvida em julgamento sobre citações a Moraes e podem se declarar impedidos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-nunes-marques-e-fux-so-dvida-em-julgamento-sobre-citaes-a-moraes-e-podem-se-declarar-impedidos.ghtml)_
+
