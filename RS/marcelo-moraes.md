@@ -1961,3 +1961,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 16:48 UTC]** Ministros manobram para substituir relator e fazer julgamento conjunto de Moraes e Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministros-manobram-para-substituir-relator-e-fazer-julgamento-conjunto-de-moraes-e-mendonca/)_
 
+- **[2026-09-15 16:23 UTC]** Petição reúne assinaturas a favor da investigação de Alexandre de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/peticao-reune-assinaturas-a-favor-da-investigacao-de-alexandre-de-moraes/)_
+
