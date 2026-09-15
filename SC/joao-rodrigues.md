@@ -53,3 +53,6 @@
 - **[2026-09-15 17:10 UTC]** Jornal do Almoço entrevista João Rodrigues, candidato ao governo de SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/entrevista-candidatos-de-sc-joao-rodrigues.ghtml)_
 
+- **[2026-09-15 16:39 UTC]** Entrevista na NSC: João Rodrigues defende uso de tornozeleira eletrônica para agressores de mulheres e privatização do saneamento básico
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/15/entrevista-na-nsc-joao-rodrigues.ghtml)_
+
