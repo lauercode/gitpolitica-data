@@ -29,3 +29,6 @@
 - **[2026-09-15 18:24 UTC]** Valmir de Francisquinho será o entrevistado do SE2 desta terça-feira
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/ao-vivo/tvsergipe-entrevista-candidatos-sergipe.ghtml)_
 
+- **[2026-09-15 23:11 UTC]** Candidato ao governo de SE, Valmir de Francisquinho diz que foi inocentado de processo e que vai baixar tarifa de ônibus para R$ 3
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/15/valmir-de-francisquinho-entrevista-se2.ghtml)_
+
