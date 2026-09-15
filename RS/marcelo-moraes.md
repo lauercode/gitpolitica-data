@@ -2168,3 +2168,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:14 UTC]** 'Profunda consternação e tristeza': Cármen Lúcia pede desculpas ao povo brasileiro em julgamento sobre Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/carmen-lucia-diz-estar-em-estado-de-profunda-consternacao-e-tristeza.ghtml)_
 
+- **[2026-09-15 21:10 UTC]** Relatório sobre Moraes: STF tem discussão sobre 'avocatória', nulidade e Fachin ter puxado caso para si
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/relatorio-sobre-moraes-stf-tem-discussao-sobre-rito-nulidade-e-fachin-ter-puxado-caso-para-si.ghtml)_
+
