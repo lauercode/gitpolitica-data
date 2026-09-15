@@ -2135,3 +2135,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 20:37 UTC]** Os bate-bocas entre ministros na sessão sobre caso Moraes-Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4gv32zgljeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 15:50 UTC]** Kássio Nunes se declara impedido de participar de sessão sobre caso Moraes-Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/programmes/p0p9r7fp?at_medium=RSS&at_campaign=rss)_
+
