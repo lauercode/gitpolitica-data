@@ -1949,3 +1949,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 10:44 UTC]** Mendonça reage a Moraes e diz que não há irregularidade em relatório da PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-reage-a-moraes-e-diz-que-nao-ha-irregularidade-em-relatorio-da-pf.shtml)_
 
+- **[2026-09-15 10:26 UTC]** Flávio Bolsonaro associa governo Lula a Moraes e ignora 'Dark Horse' em dia de sessão no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-associa-governo-lula-a-moraes-e-ignora-dark-horse-em-dia-de-sessao-no-stf.shtml)_
+
