@@ -2072,3 +2072,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:04 UTC]** Plenário do STF analisa relatório da PF sobre relação entre Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
 
+- **[2026-09-15 20:49 UTC]** Moraes diz que não 'houve monitoramento algum' do ministro Mendonça em relatório de inteligência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-diz-que-nao-houve-monitoramento-algum-do-ministro-mendonca-em-relatorio-de-inteligencia.ghtml)_
+
