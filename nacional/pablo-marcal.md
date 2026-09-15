@@ -56,3 +56,6 @@
 - **[2026-09-12 11:00 UTC]** TSE rejeita por unanimidade candidatura de Pablo Marçal à presidência
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/tse-rejeita-por-unanimidade-candidatura-de-pablo-marcal-presidencia)_
 
+- **[2026-09-15 16:50 UTC]** Após TSE barrar Pablo Marçal, PRTB quer Leonardo Avalanche como candidato à presidência; troca tem voto favorável de relatora
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/15/prtb-anuncia-avalanche-como-substituto-de-marcal-na-corrida-presidencial-troca-ja-tem-voto-favoravel-de-relatora-no-tse.ghtml)_
+
