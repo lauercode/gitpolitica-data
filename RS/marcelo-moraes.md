@@ -1889,3 +1889,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 17:00 UTC]** STF suspende sessão que analisa relatório da PF sobre relação entre Moraes e Vorcaro; ministros voltam às 15h
   _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
 
+- **[2026-09-15 16:25 UTC]** VÍDEOS: veja embates entre ministros do STF na sessão que analisa se Moraes será investigado no Caso Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/video-embates-ministros-stf.ghtml)_
+
