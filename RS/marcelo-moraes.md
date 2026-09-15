@@ -1823,3 +1823,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 23:00 UTC]** Campanha de Flávio Bolsonaro vê 'ganha-ganha' em sessão do STF sobre Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-bolsonaro-ve-ganha-ganha-em-sessao-do-stf-sobre-moraes.shtml)_
 
+- **[2026-09-14 23:00 UTC]** Posição de Zanin e Moraes agora destoa de atuação em trama golpista e inquérito das fake news
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/posicao-de-zanin-e-moraes-agora-destoa-de-atuacao-em-trama-golpista-e-inquerito-das-fake-news.shtml)_
+
