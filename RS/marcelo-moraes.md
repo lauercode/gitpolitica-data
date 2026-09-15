@@ -2009,3 +2009,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 12:31 UTC]** A defesa de Alexandre de Moraes antes da sessão no STF que definirá seu futuro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckr5074jnn90o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 16:33 UTC]** Apoiadores de Zema e Flávio protestam contra STF, Moraes e Lula durante sessão
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/apoiadores-de-zema-e-flavio-protestam-contra-stf-moraes-e-lula-durante-sessao.ghtml)_
+
