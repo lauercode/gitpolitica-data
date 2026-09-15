@@ -2018,3 +2018,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 16:06 UTC]** Leitura de relatório e bate-boca entre ministros: como foi a primeira parte da sessão do STF para julgar Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/leitura-de-relatorio-e-bate-boca-entre-ministros-como-foi-a-primeira-etapa-da-sessao-do-stf-para-julgar-moraes.ghtml)_
 
+- **[2026-09-15 15:49 UTC]** Moraes e Mendonça sobem o tom; ministro pede julgamento conjunto e ameaça chamar testemunhas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-e-mendonca-sobem-o-tom-ministro-pede-julgamento-conjunto-e-ameaca-chamar-testemunhas.ghtml)_
+
