@@ -2036,3 +2036,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:04 UTC]** STF abre sessão sobre Moraes com bate-boca entre Fachin e Dino e impedimento de ministros
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-nao-se-julgam-pessoas-julgam-se-fatos-e-questoes-juridicas-diz-fachin.ghtml)_
 
+- **[2026-09-15 13:19 UTC]** STF: Mendonça nega irregularidades em relatório que identifica Moraes como destinatário de mensagens de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-mendonca-nega-irregularidades-em-relatorio-que-identifica-moraes-como-destinatario-de-mensagens-de-vorcaro.ghtml)_
+
