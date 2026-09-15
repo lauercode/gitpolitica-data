@@ -1814,3 +1814,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-14 23:00 UTC]** Veja a cronologia das decisões do STF às vésperas de sessão sobre Moraes e Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-a-cronologia-das-decisoes-do-stf-as-vesperas-de-sessao-sobre-moraes-e-vorcaro.shtml)_
 
+- **[2026-09-14 23:00 UTC]** STF faz sessão inédita que pode definir futuro de Moraes sem sinal de trégua entre ministros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-faz-sessao-inedita-que-pode-definir-futuro-de-moraes-sem-sinal-de-tregua-entre-ministros.shtml)_
+
