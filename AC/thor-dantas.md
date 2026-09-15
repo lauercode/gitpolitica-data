@@ -11,3 +11,6 @@
 - **[2026-09-10 19:27 UTC]** Thor Dantas defende fortalecimento do cooperativismo para ampliar produção e exportações do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/10/thor-dantas-defende-fortalecimento-do-cooperativismo-para-ampliar-producao-e-exportacoes-do-acre.ghtml)_
 
+- **[2026-09-15 21:05 UTC]** Thor Dantas promete reduzir filas na saúde nos primeiros 100 dias e ‘pente fino’ em obras paralisadas; Veja plano
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/15/thor-dantas-promete-reduzir-filas-na-saude-nos-primeiros-100-dias-e-pente-fino-em-obras-paralisadas-veja-plano.ghtml)_
+
