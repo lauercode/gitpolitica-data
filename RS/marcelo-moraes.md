@@ -1856,3 +1856,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 06:00 UTC]** Governo acredita que decisão firme do STF sobre Moraes reduz margem para intervenção dos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governo-acredita-que-decisao-firme-do-stf-sobre-moraes-reduz-margem-para-intervencao-dos-eua.shtml)_
 
+- **[2026-09-15 11:45 UTC]** Moraes afirma que PF tratou notas do iPhone de Vorcaro como mensagens de WhatsApp
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-afirma-que-pf-tratou-notas-do-iphone-de-vorcaro-como-mensagens-de-whatsapp/)_
+
