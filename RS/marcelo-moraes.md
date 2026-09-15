@@ -1916,3 +1916,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 14:16 UTC]** Moraes e Mendonça participam lado a lado de sessão do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-e-mendonca-participam-lado-a-lado-de-sessao-do-stf.ghtml)_
 
+- **[2026-09-15 14:05 UTC]** Vídeos: Sessão do STF que vai analisar relatório da PF sobre relação entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/politico/playlist/videos-sessao-do-stf-que-vai-analisar-relatorio-da-pf-sobre-relacao-entre-moraes-e-vorcaro.ghtml)_
+
