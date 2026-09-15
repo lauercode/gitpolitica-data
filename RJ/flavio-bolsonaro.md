@@ -1346,3 +1346,6 @@
 - **[2026-09-15 16:33 UTC]** Apoiadores de Zema e Flávio protestam contra STF, Moraes e Lula durante sessão
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/apoiadores-de-zema-e-flavio-protestam-contra-stf-moraes-e-lula-durante-sessao.ghtml)_
 
+- **[2026-09-15 15:20 UTC]** Flávio, Caiado, Zema e Renan Santos reagem a julgamento de Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/candidatos-a-presidencia-reagem-a-julgamento-de-moraes-no-stf.ghtml)_
+
