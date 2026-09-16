@@ -14,3 +14,6 @@
 - **[2026-09-12 20:29 UTC]** Datafolha em PE: Lula, 55%; Flávio Bolsonaro, 24%; Cury, 4%; Renan, 2%; Caiado; 2%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/12/datafolha-pe-presidente-setembro.ghtml)_
 
+- **[2026-09-16 19:42 UTC]** Flávio faz campanha no CE, PE e BA e tenta reduzir vantagem de Lula no Nordeste
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/flvio-faz-campanha-no-ce-pe-e-ba-e-tenta-reduzir-vantagem-de-lula-no-nordeste.ghtml)_
+
