@@ -2321,3 +2321,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 13:14 UTC]** Crise no STF: Lula diz que não é responsável por Moraes e que 'quem cometeu delito tem que pagar'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/crise-no-stf-lula-diz-que-quem-cometeu-erro-tem-que-pagar.ghtml)_
 
+- **[2026-09-16 11:02 UTC]** Ala de Moraes se articula para espalhar crise, expor cinturão de Vorcaro e disputa controle das investigações
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/16/ala-de-moraes-se-articula-para-espalhar-crise-expor-cinturao-de-vorcaro-e-disputa-controle-das-investigacoes.ghtml)_
+
