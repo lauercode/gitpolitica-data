@@ -2297,3 +2297,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 06:11 UTC]** STF suspende análise sobre investigação de Moraes após pedido de vista
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-suspende-analise-sobre-investigacao-de-moraes-apos-pedido-de-vista/)_
 
+- **[2026-09-16 05:11 UTC]** Ministros do STF suspendem decisão sobre investigação contra Moraes no plenário
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministros-do-stf-suspendem-decisao-sobre-investigacao-contra-moraes-no-plenario/)_
+
