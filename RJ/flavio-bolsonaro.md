@@ -1391,3 +1391,6 @@
 - **[2026-09-15 23:00 UTC]** Lula lidera em estados do Nordeste, e Flávio Bolsonaro avança no Sul e Centro-Oeste
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-lidera-em-estados-do-nordeste-e-flavio-bolsonaro-avanca-no-sul-e-centro-oeste.shtml)_
 
+- **[2026-09-15 23:00 UTC]** Flávio Bolsonaro cresceu e o PT tenta acordar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/flavio-bolsonaro-cresceu-e-o-pt-tenta-acordar.shtml)_
+
