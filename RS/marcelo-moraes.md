@@ -2315,3 +2315,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 08:00 UTC]** Lula defende apuração, e oposição tenta ligá-lo a Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/16/lula-defende-apuracao-e-oposicao-tenta-liga-lo-a-moraes.ghtml)_
 
+- **[2026-09-16 08:00 UTC]** Dino pede vista, e STF suspende sessão sem decidir se Moraes deve ser investigado
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/16/dino-pede-vista-e-stf-suspende-sessao-sem-decidir-se-moraes-deve-ser-investigado.ghtml)_
+
