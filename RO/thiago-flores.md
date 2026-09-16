@@ -11,3 +11,6 @@
 - **[2026-09-08 09:00 UTC]** Pai entrega buquê de flores à filha na escola e encanta internautas; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/08/pai-entrega-buque-de-flores-a-filha-na-escola-e-encanta-internautas-video.ghtml)_
 
+- **[2026-09-16 19:23 UTC]** Festa de Flores e Morangos aumenta fluxo de visitantes
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/16/festa-de-flores-e-morangos-aumenta-fluxo-de-visitantes-1.ghtml)_
+
