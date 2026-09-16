@@ -2366,3 +2366,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 14:54 UTC]** Lula tenta se afastar de Moraes, mas diz que ministro prestou “grandes serviços” à democracia
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-tenta-se-distanciar-crise-moraes-diz-que-nao-o-indicou-a-corte/)_
 
+- **[2026-09-16 07:50 UTC]** Flávio Dino no STF: qual foi seu papel no julgamento de Moraes e por que pediu vista
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss)_
+
