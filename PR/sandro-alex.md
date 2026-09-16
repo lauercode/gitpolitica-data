@@ -83,3 +83,6 @@
 - **[2026-09-16 13:28 UTC]** Governador Ratinho Junior se licencia do cargo nesta quinta-feira (17) para se dedicar à campanha de Sandro Alex
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/ratinho-junior-licenca-campanha.ghtml)_
 
+- **[2026-09-16 16:42 UTC]** Eleições 2026 no Paraná: Sandro Alex inaugura comitê em Maringá, participa de carreata e sabatina
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-sandro-alex.ghtml)_
+
