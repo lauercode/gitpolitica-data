@@ -14,3 +14,6 @@
 - **[2026-09-16 11:06 UTC]** Roberto Rocha participa de entrevista do JMTV1 nesta quarta-feira; saiba como assistir
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/16/roberto-rocha-participa-de-entrevista-do-jmtv1-nesta-quarta-feira-saiba-como-assistir.ghtml)_
 
+- **[2026-09-16 18:08 UTC]** Roberto Rocha defende redução da estrutura do governo, critica ICMS e propõe foco em infraestrutura no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/16/roberto-rocha-defende-reducao-da-estrutura-do-governo-critica-icms-e-propoe-foco-em-infraestrutura-no-ma.ghtml)_
+
