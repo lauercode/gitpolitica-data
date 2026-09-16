@@ -1442,3 +1442,6 @@
 - **[2026-09-16 14:32 UTC]** Flávio Bolsonaro endurece críticas e diz que 'sem ministros do Lula no Supremo, a democracia vive'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-endurece-criticas-e-diz-que-sem-ministros-do-lula-no-supremo-a-democracia-vive.shtml)_
 
+- **[2026-09-16 12:00 UTC]** TRE usa 'rachadinha' para vetar ex-deputado citado no mesmo relatório de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tre-usa-rachadinha-para-vetar-ex-deputado-citado-no-mesmo-relatorio-de-flavio-bolsonaro.shtml)_
+
