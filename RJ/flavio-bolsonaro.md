@@ -1430,3 +1430,6 @@
 - **[2026-09-16 14:01 UTC]** Lula ataca Flávio com fotos da pandemia e diz “se o pai fez isso, imagine o filho”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ataca-flavio-com-fotos-da-pandemia-e-diz-se-o-pai-fez-isso-imagine-o-filho/)_
 
+- **[2026-09-16 14:11 UTC]** Lula diz que Flávio tem 'raiva' e 'bronca' de Moraes porque ministro mandou prender Bolsonaro: 'é o pavor dele'
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/16/lula-diz-que-flavio-tem-raiva-e-bronca-de-moraes-porque-ministro-mandou-prender-bolsonaro-e-o-pavor-dele.ghtml)_
+
