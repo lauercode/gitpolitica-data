@@ -2396,3 +2396,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 18:25 UTC]** Alcolumbre se torna alvo de campanhas eleitorais em meio a julgamento de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alcolumbre-alvo-campanhas-eleitorais/)_
 
+- **[2026-09-16 19:09 UTC]** Moraes falta ao começo da primeira sessão do STF após julgamento com bate-boca
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-gilmar-faltam-primeira-sessao-stf-apos-julgamento-com-bate-boca/)_
+
