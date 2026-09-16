@@ -2240,3 +2240,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 22:25 UTC]** Dino lidera reação de grupo pró-Moraes, que tenta ganhar tempo e mira Fachin
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-lidera-reacao-de-grupo-pro-moraes-que-tenta-ganhar-tempo-e-mira-fachin.shtml)_
 
+- **[2026-09-15 21:55 UTC]** Veja, meme a meme, como foi a sessão do STF sobre investigação de Alexandre de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/veja-meme-a-meme-como-foi-a-sessao-do-stf-sobre-investigacao-de-alexandre-de-moraes.shtml)_
+
