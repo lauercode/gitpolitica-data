@@ -2351,3 +2351,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 11:02 UTC]** Ala de Moraes se articula para espalhar crise, expor cinturão de Vorcaro e disputar controle das investigações
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/16/ala-de-moraes-se-articula-para-espalhar-crise-expor-cinturao-de-vorcaro-e-disputa-controle-das-investigacoes.ghtml)_
 
+- **[2026-09-16 15:02 UTC]** STF realiza primeiro julgamento após sessão sobre Moraes marcada por embates
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/stf-realiza-primeiro-julgamento-apos-sessao-sobre-moraes-marcada-por-embates.shtml)_
+
