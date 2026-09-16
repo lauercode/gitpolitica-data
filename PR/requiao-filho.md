@@ -44,3 +44,6 @@
 - **[2026-09-15 17:04 UTC]** Eleições 2026 no Paraná: Requião Filho participa de sabatinas, entrevistas e palestra de filósofa, em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-no-parana-requiao-filho-participa-de-sabatinas-entrevistas-e-palestra-de-filosofa-em-curitiba.ghtml)_
 
+- **[2026-09-16 07:00 UTC]** Requião Filho aciona Justiça Eleitoral após emissora cancelar debate no Paraná
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/requiao-filho-aciona-justica-eleitoral-apos-emissora-cancelar-debate-no-parana.shtml)_
+
