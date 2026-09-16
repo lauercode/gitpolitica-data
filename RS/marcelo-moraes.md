@@ -2252,3 +2252,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:00 UTC]** Campanha de Flávio quer impedir Moraes de assumir STF, mas se divide quanto a estratégia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-quer-impedir-moraes-de-assumir-stf-mas-se-divide-quanto-a-estrategia.shtml)_
 
+- **[2026-09-15 20:42 UTC]** Torcida petista por Moraes custará a eleição de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/torcida-petista-por-moraes-custara-a-eleicao-de-lula.shtml)_
+
