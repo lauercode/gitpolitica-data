@@ -1448,3 +1448,6 @@
 - **[2026-09-16 17:57 UTC]** Lula ataca Flávio e chama filme sobre Bolsonaro de “mequetrefe”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-ataca-flavio-chama-filme-sobre-bolsonaro-mequetrefe/)_
 
+- **[2026-09-16 14:33 UTC]** Eduardo Bolsonaro vê risco a Mendonça caso Flávio não seja eleito: “irão tentar prender”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-bolsonaro-ve-risco-a-mendonca-caso-flavio-nao-seja-eleito/)_
+
