@@ -1385,3 +1385,6 @@
 - **[2026-09-16 03:00 UTC]** Flávio Dino pede vista no STF: o que acontece agora e quando julgamento será retomado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/flavio-dino-pede-vista-no-stf-o-que-acontece-agora-e-quando-julgamento-sera-retomado.ghtml)_
 
+- **[2026-09-16 00:28 UTC]** Em dia de julgamento no STF, Flávio Bolsonaro liga Lula a Moraes, e presidente explora investigação contra senador em horário eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/em-dia-de-julgamento-no-stf-flavio-bolsonaro-liga-lula-a-moraes-e-presidente-explora-investigacao-contra-senador.ghtml)_
+
