@@ -1457,3 +1457,6 @@
 - **[2026-09-16 16:49 UTC]** Candidato ao Governo do RN, Rodrigo de Bolsonaro promete criar banco e contratar 17 mil agentes de segurança; veja entrevista
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/16/candidato-ao-governo-do-rn-rodrigo-de-bolsonaro-promete-criar-banco-e-contratar-17-mil-agentes-de-seguranca-veja-entrevista.ghtml)_
 
+- **[2026-09-16 16:14 UTC]** Pesquisa Quaest: Lula é visto como desonesto por 49% e Flávio Bolsonaro, por 42%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/pesquisa-quaest-lula-e-visto-como-desonesto-por-49percent-e-flavio-bolsonaro-por-42percent.ghtml)_
+
