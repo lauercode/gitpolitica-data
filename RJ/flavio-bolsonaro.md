@@ -1436,3 +1436,6 @@
 - **[2026-09-16 11:20 UTC]** Sem Ciro, Flávio faz campanha no Ceará e tenta reduzir vantagem de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/sem-ciro-flvio-faz-campanha-no-cear-e-tenta-reduzir-vantagem-de-lula.ghtml)_
 
+- **[2026-09-16 18:05 UTC]** Crise mais aguda do STF ocorre um ano após Corte condenar Bolsonaro e aliados por tentativa de golpe
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/crise-mais-aguda-do-stf-ocorre-um-ano-apos-corte-condenar-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml)_
+
