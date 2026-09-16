@@ -1397,3 +1397,6 @@
 - **[2026-09-15 22:31 UTC]** Lula tenta se afastar de STF e Moraes, e Flávio Bolsonaro busca carimbar crise no governo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-se-afastar-de-stf-e-moraes-e-flavio-bolsonaro-busca-carimbar-crise-no-governo.shtml)_
 
+- **[2026-09-15 22:30 UTC]** Flávio é inexperiente e herdeiro de visão golpista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/flavio-e-inexperiente-e-herdeiro-de-visao-golpista.shtml)_
+
