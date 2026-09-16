@@ -2363,3 +2363,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 16:18 UTC]** Atuação de Dino para melar julgamento de Moraes cola imagem de Lula ao escândalo do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/atuacao-dino-melar-julgamento-moraes-cola-imagem-lula-escandalo-stf/)_
 
+- **[2026-09-16 14:54 UTC]** Lula tenta se afastar de Moraes, mas diz que ministro prestou “grandes serviços” à democracia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-tenta-se-distanciar-crise-moraes-diz-que-nao-o-indicou-a-corte/)_
+
