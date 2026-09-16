@@ -2372,3 +2372,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 15:17 UTC]** STF: como votou cada ministro no julgamento de Alexandre de Moraes e como ficou o placar
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9rk3r6lylmpo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 18:21 UTC]** STF adia julgamento do caso Moraes; veja como foi a sessão e o resultado da votação
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
+
