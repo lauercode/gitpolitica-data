@@ -1403,3 +1403,6 @@
 - **[2026-09-15 21:00 UTC]** Campanha de Flávio quer impedir Moraes de assumir STF, mas se divide quanto a estratégia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-quer-impedir-moraes-de-assumir-stf-mas-se-divide-quanto-a-estrategia.shtml)_
 
+- **[2026-09-16 03:44 UTC]** Flávio Dino solicita investigação contra André Mendonça por suposta ligação com banqueiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-solicita-investigacao-contra-andre-mendonca-por-suposta-ligacao-com-banqueiro/)_
+
