@@ -2303,3 +2303,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 05:00 UTC]** Podcast analisa pedido de vista de Dino e falta de definição sobre Moraes em sessão do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-analisa-pedido-de-vista-de-dino-e-falta-de-definicao-sobre-moraes-em-sessao-do-stf.shtml)_
 
+- **[2026-09-15 20:17 UTC]** Fachin e Mendonça votam contra adiar julgamento; Dino, Zanin e Moraes divergem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-julgamento-moraes-stf-dialogos-vorcaro-mendonca/)_
+
