@@ -2318,3 +2318,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 08:00 UTC]** Dino pede vista, e STF suspende sessão sem decidir se Moraes deve ser investigado
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/16/dino-pede-vista-e-stf-suspende-sessao-sem-decidir-se-moraes-deve-ser-investigado.ghtml)_
 
+- **[2026-09-16 13:14 UTC]** Crise no STF: Lula diz que não é responsável por Moraes e que 'quem cometeu delito tem que pagar'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/crise-no-stf-lula-diz-que-quem-cometeu-erro-tem-que-pagar.ghtml)_
+
