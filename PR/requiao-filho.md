@@ -53,3 +53,6 @@
 - **[2026-09-16 16:41 UTC]** Eleições 2026 no Paraná: Requião Filho participa de entrevista ao vivo na RPC, em Curitiba, e de agenda em Toledo
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-parana-requiao-filho.ghtml)_
 
+- **[2026-09-16 15:44 UTC]** Requião Filho (PDT) é entrevistado no Meio-Dia Paraná; ASSISTA
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/ao-vivo-entrevistas-candidatos-governo-parana.ghtml)_
+
