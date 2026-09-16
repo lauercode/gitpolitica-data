@@ -2273,3 +2273,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 00:09 UTC]** Possível empate entre ministros gera impasse sobre abertura de inquérito contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/possivel-empate-ministros-impasse-abertura-inquerito-moraes/)_
 
+- **[2026-09-15 23:44 UTC]** Nunes Marques alega impedimento e desfalca julgamento sobre Alexandre de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-alega-impedimento-e-desfalca-julgamento-sobre-alexandre-de-moraes/)_
+
