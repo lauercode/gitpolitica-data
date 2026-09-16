@@ -2333,3 +2333,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 10:21 UTC]** Lula diz que Flávio tem 'bronca' com Moraes por julgamento do 8/1 e que ministro prestou serviço à democracia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-flavio-tem-bronca-com-moraes-por-julgamento-do-81-e-que-ministro-prestou-servico-a-democracia.shtml)_
 
+- **[2026-09-15 22:51 UTC]** O que pode acontecer nos casos de Moraes e Mendonça após pedido de vista? Veja perguntas e respostas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-tem-incertezas-sobre-proximos-passos-dos-casos-moraes-e-mendonca-entenda.shtml)_
+
