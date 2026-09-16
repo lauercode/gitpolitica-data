@@ -56,3 +56,6 @@
 - **[2026-09-16 15:44 UTC]** Requião Filho (PDT) é entrevistado no Meio-Dia Paraná; ASSISTA
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/ao-vivo-entrevistas-candidatos-governo-parana.ghtml)_
 
+- **[2026-09-16 19:30 UTC]** Requião Filho defende aliança com o PT e nega loteamento de eventual governo no Paraná
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/requiao-filho-defende-alianca-com-o-pt-e-nega-loteamento-de-eventual-governo-no-parana/)_
+
