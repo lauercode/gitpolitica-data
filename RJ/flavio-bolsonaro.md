@@ -1418,3 +1418,6 @@
 - **[2026-09-16 04:00 UTC]** Justiça condena Marabraz por pressionar funcionário a votar em Bolsonaro em 2022
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/justica-condena-marabraz-por-pressionar-funcionario-a-votar-em-bolsonaro-em-2022.shtml)_
 
+- **[2026-09-16 08:39 UTC]** Lula e Flávio Bolsonaro aparecem empatados no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
