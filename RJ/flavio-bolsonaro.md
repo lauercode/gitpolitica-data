@@ -1481,3 +1481,6 @@
 - **[2026-09-16 20:19 UTC]** Flávio Dino suspende julgamento de Moraes e associa governo Lula ao caso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-de-moraes-e-associa-governo-lula-ao-caso/)_
 
+- **[2026-09-16 19:42 UTC]** Flávio faz campanha no CE, PE e BA e tenta reduzir vantagem de Lula no Nordeste
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/flvio-faz-campanha-no-ce-pe-e-ba-e-tenta-reduzir-vantagem-de-lula-no-nordeste.ghtml)_
+
