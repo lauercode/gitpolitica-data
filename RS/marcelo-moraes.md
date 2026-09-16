@@ -2276,3 +2276,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 23:44 UTC]** Nunes Marques alega impedimento e desfalca julgamento sobre Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-alega-impedimento-e-desfalca-julgamento-sobre-alexandre-de-moraes/)_
 
+- **[2026-09-16 02:46 UTC]** STF não decide sobre Alexandre de Moraes e crise se prolonga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss)_
+
