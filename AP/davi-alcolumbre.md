@@ -215,3 +215,6 @@
 - **[2026-09-14 21:38 UTC]** Oposição dribla Alcolumbre e marca sessão de comissão para usar como palanque contra Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/oposicao-dribla-alcolumbre-e-marca-sessao-de-comissao-para-usar-como-palanque-contra-moraes.shtml)_
 
+- **[2026-09-16 18:25 UTC]** Alcolumbre se torna alvo de campanhas eleitorais em meio a julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alcolumbre-alvo-campanhas-eleitorais/)_
+
