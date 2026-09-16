@@ -2345,3 +2345,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 14:11 UTC]** Lula diz que Flávio tem 'raiva' e 'bronca' de Moraes porque ministro mandou prender Bolsonaro: 'é o pavor dele'
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/16/lula-diz-que-flavio-tem-raiva-e-bronca-de-moraes-porque-ministro-mandou-prender-bolsonaro-e-o-pavor-dele.ghtml)_
 
+- **[2026-09-16 17:55 UTC]** STF se reúne um dia após julgamento sobre Moraes; ASSISTA
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-sessao-apos-julgamento-sobre-moraes.ghtml)_
+
