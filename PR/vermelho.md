@@ -65,3 +65,6 @@
 - **[2026-09-15 18:29 UTC]** Alanis Guillen fala sobre virar vampira no 2º ano de 'Vermelho Sangue': 'Entregue a tudo de novo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/alanis-guillen-fala-sobre-virar-vampira-no-2o-ano-de-vermelho-sangue-entregue-a-tudo-de-novo.shtml)_
 
+- **[2026-09-16 09:37 UTC]** Sauditas bombardeiam o Iêmen; houthis atacam porto no mar Vermelho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/sauditas-bombardeiam-o-iemen-houthis-atacam-porto-no-mar-vermelho.shtml)_
+
