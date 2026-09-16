@@ -1379,3 +1379,6 @@
 - **[2026-09-15 19:02 UTC]** STF suspende sessão sobre relação de Vorcaro e Moraes após pedido de vista de Flávio Dino
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
 
+- **[2026-09-14 21:26 UTC]** Flávio e PL lideram uso de conteúdos feitos por IA, diz observatório
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-e-pl-lideram-uso-de-conteudos-feitos-por-IA-diz-observat%C3%B3rio)_
+
