@@ -2255,3 +2255,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 20:42 UTC]** Torcida petista por Moraes custará a eleição de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/torcida-petista-por-moraes-custara-a-eleicao-de-lula.shtml)_
 
+- **[2026-09-15 18:32 UTC]** Dino pede vista, e sessão no STF é suspensa com ministros rachados sobre casos Moraes e Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-sessao-no-stf-com-ministros-rachados-e-sem-decidir-sobre-analise-de-casos-moraes-e-mendonca.shtml)_
+
