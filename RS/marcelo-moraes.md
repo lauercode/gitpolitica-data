@@ -2306,3 +2306,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 20:17 UTC]** Fachin e Mendonça votam contra adiar julgamento; Dino, Zanin e Moraes divergem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-julgamento-moraes-stf-dialogos-vorcaro-mendonca/)_
 
+- **[2026-09-16 08:21 UTC]** Quem venceu primeiro embate da batalha entre Moraes e Mendonça no STF? O que dizem os analistas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss)_
+
