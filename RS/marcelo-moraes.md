@@ -2309,3 +2309,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 08:21 UTC]** Quem venceu primeiro embate da batalha entre Moraes e Mendonça no STF? O que dizem os analistas
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-15 23:51 UTC]** Moraes e Mendonça deveriam ser impedidos de votar? Juristas respondem perguntas de leitores da BBC sobre sessão histórica do STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwkgvk44l5jeo?at_medium=RSS&at_campaign=rss)_
+
