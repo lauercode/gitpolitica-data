@@ -1466,3 +1466,6 @@
 - **[2026-09-16 14:34 UTC]** A nova pesquisa Quaest para presidente que vai testar o movimento de alta de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/a-nova-pesquisa-quaest-para-presidente-que-vai-testar-o-movimento-de-alta-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-16 14:11 UTC]** Flávio tem que explicar cadê os R$ 130 milhões que pegou do Vorcaro para o filme sobre Bolsonaro, diz Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/lula-diz-que-flavio-tem-raiva-e-bronca-de-moraes-porque-ministro-mandou-prender-bolsonaro-e-o-pavor-dele.ghtml)_
+
