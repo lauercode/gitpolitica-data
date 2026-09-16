@@ -2378,3 +2378,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 15:43 UTC]** STF retoma sessões após suspensão de casos Moraes e Mendonça
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-retoma-sesoes-apos-suspensao-de-casos-moraes-e-mendonca)_
 
+- **[2026-09-16 17:44 UTC]** Campanha de Flávio vai aumentar ataques a Dino e equipará-los às críticas feitas a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-vai-aumentar-ataques-a-dino-e-equiparar-as-criticas-feitas-a-moraes.shtml)_
+
