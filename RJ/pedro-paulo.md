@@ -410,3 +410,6 @@
 - **[2026-09-16 12:19 UTC]** LEAP Solutions conquista dois prêmios no ranking GPTW e fica entre as melhores empresas para trabalhar em São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/16/leap-solutions-conquista-dois-premios-no-ranking-gptw-e-fica-entre-as-melhores-empresas-para-trabalhar-em-sao-paulo-1.ghtml)_
 
+- **[2026-09-16 12:10 UTC]** testfy apresenta teste para SIBO durante congresso sobre eixo intestino-cérebro em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/16/testfy-apresenta-teste-para-sibo-durante-congresso-sobre-eixo-intestinocerebro-em-sao-paulo-1.ghtml)_
+
