@@ -2294,3 +2294,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 07:00 UTC]** Impasse em sessão do STF sobre Moraes pode adiar análise sobre a condução de Mendonça do caso Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/impasse-em-sessao-do-stf-sobre-moraes-pode-adiar-analise-sobre-a-conducao-de-mendonca-do-caso-master.ghtml)_
 
+- **[2026-09-16 06:11 UTC]** STF suspende análise sobre investigação de Moraes após pedido de vista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-suspende-analise-sobre-investigacao-de-moraes-apos-pedido-de-vista/)_
+
