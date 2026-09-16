@@ -50,3 +50,6 @@
 - **[2026-09-14 23:11 UTC]** Renan Filho faz carreata em Arapiraca e JHC participa de sabatina em Maceió nesta segunda (14)
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/14/renan-filho-faz-carreata-em-arapiraca-e-jhc-participa-de-sabatina-em-maceio-nesta-segunda-14.ghtml)_
 
+- **[2026-09-16 16:31 UTC]** Renan Filho promete hospitais do câncer e de trauma, 80 clínicas da família e concurso anual
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/16/renan-filho-promete-hospitais-do-cancer-e-de-trauma-80-clinicas-da-familia-e-concurso-anual.ghtml)_
+
