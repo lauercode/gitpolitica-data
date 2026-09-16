@@ -1478,3 +1478,6 @@
 - **[2026-09-16 17:23 UTC]** Divergências do programa de governo de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/09/divergencias-do-programa-de-governo-de-flavio-bolsonaro.shtml)_
 
+- **[2026-09-16 20:19 UTC]** Flávio Dino suspende julgamento de Moraes e associa governo Lula ao caso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-de-moraes-e-associa-governo-lula-ao-caso/)_
+
