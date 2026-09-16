@@ -11,3 +11,6 @@
 - **[2026-09-16 00:35 UTC]** Roberto Rocha propõe digitalizar gestão pública e reduzir gastos do governo no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/15/roberto-rocha-propoe-digitalizar-gestao-publica-e-reduzir-gastos-do-governo-no-maranhao.ghtml)_
 
+- **[2026-09-16 11:06 UTC]** Roberto Rocha participa de entrevista do JMTV1 nesta quarta-feira; saiba como assistir
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/16/roberto-rocha-participa-de-entrevista-do-jmtv1-nesta-quarta-feira-saiba-como-assistir.ghtml)_
+
