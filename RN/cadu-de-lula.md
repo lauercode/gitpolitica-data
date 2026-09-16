@@ -44,3 +44,6 @@
 - **[2026-09-15 20:11 UTC]** Cadu de Lula destaca propostas para segurança, educação e equilíbrio fiscal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/15/cadu-de-lula-destaca-propostas-para-seguranca-educacao-e-equilibrio-fiscal.ghtml)_
 
+- **[2026-09-16 20:09 UTC]** Cadu de Lula visita assentamento em Natal e apresenta propostas para habitação
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/16/cadu-de-lula-visita-assentamento-em-natal-e-apresenta-propostas-para-habitacao.ghtml)_
+
