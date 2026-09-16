@@ -2264,3 +2264,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 02:20 UTC]** 7 dúvidas que o caótico julgamento de Moraes deixou abertas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/7-duvidas-que-o-caotico-julgamento-de-moraes-deixou-abertas/)_
 
+- **[2026-09-16 01:10 UTC]** Gilmar e Dino sabotam julgamento com tumulto e subterfúgios para blindar Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-e-dino-sabotam-julgamento-com-tumulto-e-subterfugios-para-blindar-moraes/)_
+
