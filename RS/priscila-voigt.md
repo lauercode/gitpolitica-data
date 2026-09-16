@@ -14,3 +14,6 @@
 - **[2026-09-08 22:16 UTC]** Eleições 2026 no RS: Priscila Voigt defende 'educação 100% pública, gratuita e de qualidade'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-no-rs-priscila-voigt-defende-educacao-100percent-publica-gratuita-e-de-qualidade.ghtml)_
 
+- **[2026-09-16 00:20 UTC]** Eleições 2026 no RS: Priscila Voigt diz que vai 'acabar com pedágio e concessões nas rodovias'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-no-rs-priscila-voigt-diz-que-vai-acabar-com-pedagio-e-concessoes-nas-rodovias.ghtml)_
+
