@@ -17,3 +17,6 @@
 - **[2026-09-11 17:20 UTC]** Datafolha: Marina, Tebet, André do Prado e Derrite empatam na disputa pelo Senado em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-marina-tebet-andre-do-prado-e-derrite-empatam-na-disputa-pelo-senado-em-sp.shtml)_
 
+- **[2026-09-16 01:23 UTC]** TRE-SP multa Ricardo Salles em R$ 5 mil por informações falsas contra André do Prado e manda retirar vídeos com ataques
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/15/tre-sp-multa-ricardo-salles-em-r-5-mil-por-informacoes-falsas-contra-andre-do-prado-e-manda-retirar-videos-com-ataques.ghtml)_
+
