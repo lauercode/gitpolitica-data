@@ -1439,3 +1439,6 @@
 - **[2026-09-16 18:05 UTC]** Crise mais aguda do STF ocorre um ano após Corte condenar Bolsonaro e aliados por tentativa de golpe
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/crise-mais-aguda-do-stf-ocorre-um-ano-apos-corte-condenar-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml)_
 
+- **[2026-09-16 14:32 UTC]** Flávio Bolsonaro endurece críticas e diz que 'sem ministros do Lula no Supremo, a democracia vive'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-endurece-criticas-e-diz-que-sem-ministros-do-lula-no-supremo-a-democracia-vive.shtml)_
+
