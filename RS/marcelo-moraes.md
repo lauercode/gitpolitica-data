@@ -2222,3 +2222,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 03:00 UTC]** Bate-bocas, pedido de vista e indefinição: veja em 10 pontos como foi a sessão do STF sobre o caso Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/bate-bocas-pedido-de-vista-e-indefinicao-veja-em-10-pontos-como-foi-a-sessao-do-stf-sobre-o-caso-moraes.ghtml)_
 
+- **[2026-09-16 03:00 UTC]** Pedido de vista trava julgamento no STF antes de analisar se Moraes deve ser investigado; entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/pedido-de-vista-trava-julgamento-no-stf-antes-de-analisar-se-moraes-deve-ser-investigado-entenda.ghtml)_
+
