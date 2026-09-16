@@ -20,3 +20,6 @@
 - **[2026-09-14 22:45 UTC]** Alan Rick promete diálogo do governo com setor privado sobre tributos no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/14/alan-rick-promete-dialogo-do-governo-com-setor-privado-sobre-tributos-no-acre.ghtml)_
 
+- **[2026-09-16 17:04 UTC]** Alan Rick (Republicanos) é entrevistado no JAC1
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/jornal-do-acre-1-edicao-entrevista-candidatos-ao-governo-do-estado.ghtml)_
+
