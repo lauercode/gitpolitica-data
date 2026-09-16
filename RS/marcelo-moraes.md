@@ -2375,3 +2375,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 18:21 UTC]** STF adia julgamento do caso Moraes; veja como foi a sessão e o resultado da votação
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 15:43 UTC]** STF retoma sessões após suspensão de casos Moraes e Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-retoma-sesoes-apos-suspensao-de-casos-moraes-e-mendonca)_
+
