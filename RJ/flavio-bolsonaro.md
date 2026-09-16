@@ -1415,3 +1415,6 @@
 - **[2026-09-16 01:29 UTC]** Articuladores da campanha de Flávio falam em ‘decepção’ com atuação de Nunes Marques
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/articuladores-da-campanha-de-flavio-falam-em-decepcao-com-atuacao-de-nunes-marques.ghtml)_
 
+- **[2026-09-16 04:00 UTC]** Justiça condena Marabraz por pressionar funcionário a votar em Bolsonaro em 2022
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/justica-condena-marabraz-por-pressionar-funcionario-a-votar-em-bolsonaro-em-2022.shtml)_
+
