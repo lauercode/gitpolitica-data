@@ -284,3 +284,6 @@
 - **[2026-09-14 13:37 UTC]** Cury declara apoio a André Mendonça e publica “não vote em quem está na agenda do Vorcaro”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cury-declara-apoio-a-andre-mendonca-e-publica-nao-vote-em-quem-esta-na-agenda-do-vorcaro/)_
 
+- **[2026-09-16 13:00 UTC]** Em livro, Cury se compara a Jesus, Lincoln e Luther King como 'sonhador' que contribuiu com humanidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-livro-cury-se-compara-a-jesus-lincoln-e-luther-king-como-sonhador-que-contribuiu-com-humanidade.shtml)_
+
