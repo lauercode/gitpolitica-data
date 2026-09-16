@@ -20,3 +20,6 @@
 - **[2026-09-11 12:28 UTC]** Brasil registra quatro casos de febre do Nilo Ocidental
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/brasil-registra-quatro-casos-de-febre-do-nilo-ocidental)_
 
+- **[2026-09-16 17:04 UTC]** Procurador de Justiça aposentado Nilo Figueiredo Maia morre ao 79 anos no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/16/procurador-de-justica-aposentado-nilo-figueiredo-maia-morre-no-acre.ghtml)_
+
