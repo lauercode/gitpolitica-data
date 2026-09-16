@@ -125,3 +125,6 @@
 - **[2026-09-15 14:17 UTC]** VÍDEO: Brasil lança foguete com 'laboratório espacial' que vai a 100 km de altitude e prevê volta à Terra de paraquedas
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/15/video-brasil-lanca-foguete-teste-laboratorio-espacial.ghtml)_
 
+- **[2026-09-16 13:30 UTC]** O diamante raro que pode contar a história das profundezas da Terra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2026/09/o-diamante-raro-que-pode-contar-a-historia-das-profundezas-da-terra.shtml)_
+
