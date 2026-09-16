@@ -11,3 +11,6 @@
 - **[2026-09-16 15:03 UTC]** Quem são Adail Pinheiro e Adail Filho, principais alvos de operação da PF que investiga corrupção e lavagem de dinheiro
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/16/quem-sao-os-principais-alvos-da-operacao-da-pf-que-apura-suspeitas-de-corrupcao-e-lavagem-de-dinheiro.ghtml)_
 
+- **[2026-09-16 18:42 UTC]** PF apreende quase R$ 1 milhão em espécie, dólares, euros, carros e joias em operação que mira deputado federal Adail Filho
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/16/pf-apreende-quase-r-1-milhao-em-especie-dolares-euros-carros-e-joias-em-operacao-que-mira-deputado-federal-adail-filho.ghtml)_
+
