@@ -2285,3 +2285,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 00:05 UTC]** O que é pedido de vista e o que acontece agora no caso Alexandre de Moraes?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqj9xr3y2j2mo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 01:35 UTC]** Votar em Lula é votar em Moraes, diz Flávio Bolsonaro em evento em Fortaleza
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/15/votar-em-lula-votar-em-moraes-diz-flvio-em-evento-em-fortaleza.ghtml)_
+
