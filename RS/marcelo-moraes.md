@@ -2243,3 +2243,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:55 UTC]** Veja, meme a meme, como foi a sessão do STF sobre investigação de Alexandre de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/veja-meme-a-meme-como-foi-a-sessao-do-stf-sobre-investigacao-de-alexandre-de-moraes.shtml)_
 
+- **[2026-09-15 21:46 UTC]** Regimento do STF prevê voto de Fachin para desempate, mas há dúvida sobre aplicação em caso Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/regimento-do-stf-preve-que-voto-de-fachin-pode-desempatar-julgamentos-mas-ha-duvida-sobre-aplicacao-em-caso-moraes.shtml)_
+
