@@ -50,3 +50,6 @@
 - **[2026-09-16 16:57 UTC]** Requião Filho defende auditoria na Copel e fim das escolas cívico-militares no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/requiao-filho-entrevista-rpc.ghtml)_
 
+- **[2026-09-16 16:41 UTC]** Eleições 2026 no Paraná: Requião Filho participa de entrevista ao vivo na RPC, em Curitiba, e de agenda em Toledo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-parana-requiao-filho.ghtml)_
+
