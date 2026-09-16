@@ -2213,3 +2213,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 19:02 UTC]** STF suspende sessão sobre relação de Vorcaro e Moraes após pedido de vista de Flávio Dino
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
 
+- **[2026-09-15 20:37 UTC]** Entenda: STF encerra sessão sem definir casos sobre Moraes e Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/entenda-stf-encerra-sessao-sem-definir-casos-sobre-moraes-e-mendonca)_
+
