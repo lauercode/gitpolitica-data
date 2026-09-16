@@ -2231,3 +2231,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 23:00 UTC]** Relatoria de Fachin e tese de grupo pró-Moraes em sessão do STF são questionadas por especialistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/relatoria-de-fachin-e-tese-de-grupo-pro-moraes-em-sessao-do-stf-sao-questionadas-por-especialistas.shtml)_
 
+- **[2026-09-15 22:51 UTC]** STF tem incertezas sobre próximos passos dos casos Moraes e Mendonça; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-tem-incertezas-sobre-proximos-passos-dos-casos-moraes-e-mendonca-entenda.shtml)_
+
