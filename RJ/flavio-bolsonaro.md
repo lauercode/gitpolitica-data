@@ -1412,3 +1412,6 @@
 - **[2026-09-16 01:35 UTC]** Votar em Lula é votar em Moraes, diz Flávio Bolsonaro em evento em Fortaleza
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/15/votar-em-lula-votar-em-moraes-diz-flvio-em-evento-em-fortaleza.ghtml)_
 
+- **[2026-09-16 01:29 UTC]** Articuladores da campanha de Flávio falam em ‘decepção’ com atuação de Nunes Marques
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/articuladores-da-campanha-de-flavio-falam-em-decepcao-com-atuacao-de-nunes-marques.ghtml)_
+
