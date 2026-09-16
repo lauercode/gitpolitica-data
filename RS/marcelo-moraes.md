@@ -2234,3 +2234,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 22:51 UTC]** STF tem incertezas sobre próximos passos dos casos Moraes e Mendonça; entenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-tem-incertezas-sobre-proximos-passos-dos-casos-moraes-e-mendonca-entenda.shtml)_
 
+- **[2026-09-15 22:31 UTC]** Lula tenta se afastar de STF e Moraes, e Flávio Bolsonaro busca carimbar crise no governo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-se-afastar-de-stf-e-moraes-e-flavio-bolsonaro-busca-carimbar-crise-no-governo.shtml)_
+
