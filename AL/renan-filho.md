@@ -53,3 +53,6 @@
 - **[2026-09-16 16:31 UTC]** Renan Filho promete hospitais do câncer e de trauma, 80 clínicas da família e concurso anual
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/16/renan-filho-promete-hospitais-do-cancer-e-de-trauma-80-clinicas-da-familia-e-concurso-anual.ghtml)_
 
+- **[2026-09-16 15:45 UTC]** Renan Filho (MDB) é entrevistado no AB1; assista
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/ao-vivo/confira-as-entrevistas-com-os-candidatos-ao-governo-de-alagoas-no-ab1.ghtml)_
+
