@@ -1445,3 +1445,6 @@
 - **[2026-09-16 12:00 UTC]** TRE usa 'rachadinha' para vetar ex-deputado citado no mesmo relatório de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tre-usa-rachadinha-para-vetar-ex-deputado-citado-no-mesmo-relatorio-de-flavio-bolsonaro.shtml)_
 
+- **[2026-09-16 17:57 UTC]** Lula ataca Flávio e chama filme sobre Bolsonaro de “mequetrefe”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-ataca-flavio-chama-filme-sobre-bolsonaro-mequetrefe/)_
+
