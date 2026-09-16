@@ -2228,3 +2228,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 00:28 UTC]** Em dia de julgamento no STF, Flávio Bolsonaro liga Lula a Moraes, e presidente explora investigação contra senador em horário eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/em-dia-de-julgamento-no-stf-flavio-bolsonaro-liga-lula-a-moraes-e-presidente-explora-investigacao-contra-senador.ghtml)_
 
+- **[2026-09-15 23:00 UTC]** Relatoria de Fachin e tese de grupo pró-Moraes em sessão do STF são questionadas por especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/relatoria-de-fachin-e-tese-de-grupo-pro-moraes-em-sessao-do-stf-sao-questionadas-por-especialistas.shtml)_
+
