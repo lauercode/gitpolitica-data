@@ -1004,3 +1004,6 @@ direitos
 - **[2026-09-16 13:51 UTC]** Câmara dos EUA aprova pela 3ª vez resolução para encerrar guerra com Irã
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/16/camara-dos-eua-aprova-pela-3a-vez-resolucao-para-encerrar-guerra-com-ira.ghtml)_
 
+- **[2026-09-16 16:10 UTC]** Diretor de Comunicação da Câmara ressalta desafio de aproximar o Legislativo do cidadão
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1305022-diretor-de-comunicacao-da-camara-ressalta-desafio-de-aproximar-o-legislativo-do-cidadao)_
+
