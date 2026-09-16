@@ -17,3 +17,6 @@
 - **[2026-09-16 18:08 UTC]** Roberto Rocha defende redução da estrutura do governo, critica ICMS e propõe foco em infraestrutura no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/16/roberto-rocha-defende-reducao-da-estrutura-do-governo-critica-icms-e-propoe-foco-em-infraestrutura-no-ma.ghtml)_
 
+- **[2026-09-16 14:35 UTC]** Roberto Rocha é entrevistado no JM1; assista
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-maranhao-no-jm1.ghtml)_
+
