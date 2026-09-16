@@ -65,3 +65,6 @@
 - **[2026-09-15 17:04 UTC]** Eleições 2026 no Paraná: Sergio Moro cumpre agenda em Ponta Grossa e participa de sabatina em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-no-parana-agenda-15-de-setembro-sergio-moro.ghtml)_
 
+- **[2026-09-16 16:43 UTC]** Eleições 2026 no Paraná: Sergio Moro visita hospital em Curitiba e concede entrevista à rádio
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/eleicoes-parana-sergio-moro.ghtml)_
+
