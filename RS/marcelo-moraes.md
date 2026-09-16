@@ -2327,3 +2327,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 10:24 UTC]** Vitória momentânea de Moraes e Fachin acuado: o saldo da sessão do STF sobre caso Moraes-Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/16/saldo-da-sessao-do-stf-sobre-caso-moraes-vorcaro.ghtml)_
 
+- **[2026-09-16 10:37 UTC]** Como funcionam os drones com câmera térmica usados em julgamento de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/como-funcionam-os-drones-com-camera-termica-usados-em-julgamento-de-moraes.shtml)_
+
