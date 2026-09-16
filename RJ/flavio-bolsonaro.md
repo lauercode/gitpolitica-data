@@ -1382,3 +1382,6 @@
 - **[2026-09-14 21:26 UTC]** Flávio e PL lideram uso de conteúdos feitos por IA, diz observatório
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-e-pl-lideram-uso-de-conteudos-feitos-por-IA-diz-observat%C3%B3rio)_
 
+- **[2026-09-16 03:00 UTC]** Flávio Dino pede vista no STF: o que acontece agora e quando julgamento será retomado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/flavio-dino-pede-vista-no-stf-o-que-acontece-agora-e-quando-julgamento-sera-retomado.ghtml)_
+
