@@ -2267,3 +2267,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 01:10 UTC]** Gilmar e Dino sabotam julgamento com tumulto e subterfúgios para blindar Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-e-dino-sabotam-julgamento-com-tumulto-e-subterfugios-para-blindar-moraes/)_
 
+- **[2026-09-16 00:41 UTC]** Senadores defendem reforma do Judiciário após pedido de vista em julgamento de Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senadores-defendem-reforma-do-judiciario-apos-pedido-de-vista-em-julgamento-de-moraes-no-stf/)_
+
