@@ -2249,3 +2249,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 21:15 UTC]** Veja como votou cada ministro do STF em sessão sobre Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-como-votou-cada-ministro-do-stf-em-sessao-sobre-moraes.shtml)_
 
+- **[2026-09-15 21:00 UTC]** Campanha de Flávio quer impedir Moraes de assumir STF, mas se divide quanto a estratégia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-quer-impedir-moraes-de-assumir-stf-mas-se-divide-quanto-a-estrategia.shtml)_
+
