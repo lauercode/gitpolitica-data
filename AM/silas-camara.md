@@ -998,3 +998,6 @@ direitos
 - **[2026-09-15 20:13 UTC]** Câmara de Aracaju aprova prorrogação da redução de imposto no transporte coletivo
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/15/camara-de-aracaju-aprova-prorrogacao-da-reducao-de-imposto-no-transporte-coletivo.ghtml)_
 
+- **[2026-09-16 11:18 UTC]** Câmara de Candeias do Jamari, RO, abre concurso com salários de até R$ 3,5 mil; veja como se inscrever
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/16/camara-de-candeias-do-jamari-ro-abre-processo-seletivo-com-salarios-de-ate-r-35-mil-veja-como-se-inscrever.ghtml)_
+
