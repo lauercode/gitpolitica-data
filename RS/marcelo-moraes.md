@@ -2216,3 +2216,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 20:37 UTC]** Entenda: STF encerra sessão sem definir casos sobre Moraes e Mendonça
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/entenda-stf-encerra-sessao-sem-definir-casos-sobre-moraes-e-mendonca)_
 
+- **[2026-09-15 22:03 UTC]** Sessão do STF termina sem definir processos de Moraes e Mendonça
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/sessao-do-stf-termina-sem-definir-processos-de-moraes-e-mendonca)_
+
