@@ -2390,3 +2390,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 21:21 UTC]** Eduardo Bolsonaro se reúne com membros do governo Trump e pede sanções contra Moraes, Gilmar e Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eduardo-bolsonaro-se-reune-com-membros-do-governo-trump-e-pede-sancoes-contra-moraes-gilmar-e-dino/)_
 
+- **[2026-09-16 20:19 UTC]** Flávio Dino suspende julgamento de Moraes e associa governo Lula ao caso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-de-moraes-e-associa-governo-lula-ao-caso/)_
+
