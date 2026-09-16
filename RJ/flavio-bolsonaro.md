@@ -1406,3 +1406,6 @@
 - **[2026-09-16 03:44 UTC]** Flávio Dino solicita investigação contra André Mendonça por suposta ligação com banqueiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-solicita-investigacao-contra-andre-mendonca-por-suposta-ligacao-com-banqueiro/)_
 
+- **[2026-09-16 01:04 UTC]** Flávio Dino: 'Há mensagens dos ministros Fux, Kassio e André. Onde vamos parar?'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmq8j47dky0wo?at_medium=RSS&at_campaign=rss)_
+
