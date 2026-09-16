@@ -1421,3 +1421,6 @@
 - **[2026-09-16 08:39 UTC]** Lula e Flávio Bolsonaro aparecem empatados no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 12:38 UTC]** Quaest: 49% não consideram Lula honesto; 42% dizem o mesmo sobre Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/16/quaest-honestidade-candidatos-presidencia.ghtml)_
+
