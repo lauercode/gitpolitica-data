@@ -23,3 +23,6 @@
 - **[2026-09-16 17:04 UTC]** Alan Rick (Republicanos) é entrevistado no JAC1
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/jornal-do-acre-1-edicao-entrevista-candidatos-ao-governo-do-estado.ghtml)_
 
+- **[2026-09-16 16:11 UTC]** Alan Rick promete regionalizar saúde, fortalecer agricultura familiar e criar mais delegacias da mulher; VEJA plano
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/16/alan-rick-promete-regionalizar-saude-fortalecer-agricultura-familiar-e-criar-mais-delegacias-da-mulher-veja-plano.ghtml)_
+
