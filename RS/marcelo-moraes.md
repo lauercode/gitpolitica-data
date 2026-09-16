@@ -2360,3 +2360,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 13:00 UTC]** STF perde oportunidade, e omissão sobre Moraes pode influir na eleição, dizem especialistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ministro-so-reclama-de-decisao-monocratica-quando-e-do-outro-diz-especialista.shtml)_
 
+- **[2026-09-16 16:18 UTC]** Atuação de Dino para melar julgamento de Moraes cola imagem de Lula ao escândalo do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/atuacao-dino-melar-julgamento-moraes-cola-imagem-lula-escandalo-stf/)_
+
