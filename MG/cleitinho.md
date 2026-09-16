@@ -59,3 +59,6 @@
 - **[2026-09-11 20:47 UTC]** Datafolha: Cleitinho tem 37%, Patrus tem 13% e Kalil, 11% na disputa ao governo de MG
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/datafolha-cleitinho-tem-37percent-patrus-tem-13percent-e-kalil-11percent-na-disputa-ao-governo-de-mg.ghtml)_
 
+- **[2026-09-16 06:00 UTC]** Cleitinho é carregado nos ombros em evento por deputado investigado por fraude no INSS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cleitinho-e-carregado-nos-ombros-em-evento-por-deputado-investigado-por-fraude-no-inss.shtml)_
+
