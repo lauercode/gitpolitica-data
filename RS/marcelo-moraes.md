@@ -2354,3 +2354,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 15:02 UTC]** STF realiza primeiro julgamento após sessão sobre Moraes marcada por embates
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/stf-realiza-primeiro-julgamento-apos-sessao-sobre-moraes-marcada-por-embates.shtml)_
 
+- **[2026-09-16 13:23 UTC]** Alexandre de Moraes seria derrotado no STF, mas 'explosão' de Nunes Marques reverteu o quadro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/alexandre-de-moraes-seria-derrotado-no-stf-mas-explosao-de-nunes-marques-reverteu-o-quadro.shtml)_
+
