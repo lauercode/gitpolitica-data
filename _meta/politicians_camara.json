@@ -2330,6 +2330,17 @@
     "camara_id": 74270
   },
   {
+    "slug": "gilmar-machado",
+    "name": "Gilmar Machado",
+    "role": "Deputado(a) Federal (MG)",
+    "party": "PT",
+    "aliases": [
+      "Gilmar Machado",
+      "Machado"
+    ],
+    "camara_id": 74581
+  },
+  {
     "slug": "gilson-daniel",
     "name": "Gilson Daniel",
     "role": "Deputado(a) Federal (ES)",
