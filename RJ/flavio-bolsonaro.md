@@ -1427,3 +1427,6 @@
 - **[2026-09-16 10:21 UTC]** Lula diz que Flávio tem 'bronca' com Moraes por julgamento do 8/1 e que ministro prestou serviço à democracia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-flavio-tem-bronca-com-moraes-por-julgamento-do-81-e-que-ministro-prestou-servico-a-democracia.shtml)_
 
+- **[2026-09-16 14:01 UTC]** Lula ataca Flávio com fotos da pandemia e diz “se o pai fez isso, imagine o filho”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ataca-flavio-com-fotos-da-pandemia-e-diz-se-o-pai-fez-isso-imagine-o-filho/)_
+
