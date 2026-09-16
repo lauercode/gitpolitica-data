@@ -2384,3 +2384,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 17:36 UTC]** Entenda por que Moraes e Mendonça votaram sobre investigação, mas Nunes Marques e Toffoli não
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-por-que-moraes-e-mendonca-votaram-sobre-investigacao-mas-nunes-marques-e-toffoli-nao.shtml)_
 
+- **[2026-09-16 15:20 UTC]** Vídeo compila bate-bocas entre ministros em sessão sobre Moraes no STF; assista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/video-compila-bate-bocas-entre-ministros-em-sessao-sobre-moraes-no-stf-assista.shtml)_
+
