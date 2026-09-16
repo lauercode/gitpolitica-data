@@ -1451,3 +1451,6 @@
 - **[2026-09-16 14:33 UTC]** Eduardo Bolsonaro vê risco a Mendonça caso Flávio não seja eleito: “irão tentar prender”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-bolsonaro-ve-risco-a-mendonca-caso-flavio-nao-seja-eleito/)_
 
+- **[2026-09-16 07:50 UTC]** Flávio Dino no STF: qual foi seu papel no julgamento de Moraes e por que pediu vista
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss)_
+
