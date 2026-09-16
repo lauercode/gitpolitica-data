@@ -2369,3 +2369,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 07:50 UTC]** Flávio Dino no STF: qual foi seu papel no julgamento de Moraes e por que pediu vista
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 15:17 UTC]** STF: como votou cada ministro no julgamento de Alexandre de Moraes e como ficou o placar
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9rk3r6lylmpo?at_medium=RSS&at_campaign=rss)_
+
