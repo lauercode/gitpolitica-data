@@ -1409,3 +1409,6 @@
 - **[2026-09-16 01:04 UTC]** Flávio Dino: 'Há mensagens dos ministros Fux, Kassio e André. Onde vamos parar?'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmq8j47dky0wo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 01:35 UTC]** Votar em Lula é votar em Moraes, diz Flávio Bolsonaro em evento em Fortaleza
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/15/votar-em-lula-votar-em-moraes-diz-flvio-em-evento-em-fortaleza.ghtml)_
+
