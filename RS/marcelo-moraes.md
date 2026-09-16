@@ -2219,3 +2219,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 22:03 UTC]** Sessão do STF termina sem definir processos de Moraes e Mendonça
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/sessao-do-stf-termina-sem-definir-processos-de-moraes-e-mendonca)_
 
+- **[2026-09-16 03:00 UTC]** Bate-bocas, pedido de vista e indefinição: veja em 10 pontos como foi a sessão do STF sobre o caso Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/bate-bocas-pedido-de-vista-e-indefinicao-veja-em-10-pontos-como-foi-a-sessao-do-stf-sobre-o-caso-moraes.ghtml)_
+
