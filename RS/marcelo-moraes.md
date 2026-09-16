@@ -2399,3 +2399,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 19:09 UTC]** Moraes falta ao começo da primeira sessão do STF após julgamento com bate-boca
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-gilmar-faltam-primeira-sessao-stf-apos-julgamento-com-bate-boca/)_
 
+- **[2026-09-16 18:47 UTC]** Por que julgamento do caso Moraes no STF pode ser retomado só em 2027
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss)_
+
