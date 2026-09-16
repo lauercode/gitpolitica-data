@@ -1001,3 +1001,6 @@ direitos
 - **[2026-09-16 11:18 UTC]** Câmara de Candeias do Jamari, RO, abre concurso com salários de até R$ 3,5 mil; veja como se inscrever
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/16/camara-de-candeias-do-jamari-ro-abre-processo-seletivo-com-salarios-de-ate-r-35-mil-veja-como-se-inscrever.ghtml)_
 
+- **[2026-09-16 13:51 UTC]** Câmara dos EUA aprova pela 3ª vez resolução para encerrar guerra com Irã
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/16/camara-dos-eua-aprova-pela-3a-vez-resolucao-para-encerrar-guerra-com-ira.ghtml)_
+
