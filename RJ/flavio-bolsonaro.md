@@ -1469,3 +1469,6 @@
 - **[2026-09-16 14:11 UTC]** Flávio tem que explicar cadê os R$ 130 milhões que pegou do Vorcaro para o filme sobre Bolsonaro, diz Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/lula-diz-que-flavio-tem-raiva-e-bronca-de-moraes-porque-ministro-mandou-prender-bolsonaro-e-o-pavor-dele.ghtml)_
 
+- **[2026-09-16 17:58 UTC]** Ratinho Jr tira licença para ajudar aliado, sobe o tom contra Moro e acena a Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ratinho-jr-tira-licenca-para-ajudar-aliado-sobe-o-tom-contra-moro-e-acena-a-bolsonaro.shtml)_
+
