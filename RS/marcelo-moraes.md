@@ -2393,3 +2393,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 20:19 UTC]** Flávio Dino suspende julgamento de Moraes e associa governo Lula ao caso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-de-moraes-e-associa-governo-lula-ao-caso/)_
 
+- **[2026-09-16 18:25 UTC]** Alcolumbre se torna alvo de campanhas eleitorais em meio a julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alcolumbre-alvo-campanhas-eleitorais/)_
+
