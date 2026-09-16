@@ -2357,3 +2357,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 13:23 UTC]** Alexandre de Moraes seria derrotado no STF, mas 'explosão' de Nunes Marques reverteu o quadro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/alexandre-de-moraes-seria-derrotado-no-stf-mas-explosao-de-nunes-marques-reverteu-o-quadro.shtml)_
 
+- **[2026-09-16 13:00 UTC]** STF perde oportunidade, e omissão sobre Moraes pode influir na eleição, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ministro-so-reclama-de-decisao-monocratica-quando-e-do-outro-diz-especialista.shtml)_
+
