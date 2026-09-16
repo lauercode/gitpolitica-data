@@ -1472,3 +1472,6 @@
 - **[2026-09-16 17:58 UTC]** Ratinho Jr tira licença para ajudar aliado, sobe o tom contra Moro e acena a Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ratinho-jr-tira-licenca-para-ajudar-aliado-sobe-o-tom-contra-moro-e-acena-a-bolsonaro.shtml)_
 
+- **[2026-09-16 17:44 UTC]** Campanha de Flávio vai aumentar ataques a Dino e equipará-los às críticas feitas a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-vai-aumentar-ataques-a-dino-e-equiparar-as-criticas-feitas-a-moraes.shtml)_
+
