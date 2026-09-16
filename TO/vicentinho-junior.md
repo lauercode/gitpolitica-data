@@ -11,3 +11,6 @@
 - **[2026-09-03 09:01 UTC]** Plano de governo: Vicentinho Júnior propõe investimento industrial, integração regional e proteção às mulheres
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-vicentinho-junior-propoe-investimento-industrial-integracao-regional-e-protecao-as-mulheres.ghtml)_
 
+- **[2026-09-16 16:14 UTC]** Vicentinho Júnior promete novos hospitais, 50 escolas e ampliação de cirurgias eletivas no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/16/vicentinho-junior-promete-novos-hospitais-50-escolas-e-ampliacao-de-cirurgias-eletivas-no-tocantins.ghtml)_
+
