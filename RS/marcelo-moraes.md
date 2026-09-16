@@ -2312,3 +2312,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-15 23:51 UTC]** Moraes e Mendonça deveriam ser impedidos de votar? Juristas respondem perguntas de leitores da BBC sobre sessão histórica do STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwkgvk44l5jeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 08:00 UTC]** Lula defende apuração, e oposição tenta ligá-lo a Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/16/lula-defende-apuracao-e-oposicao-tenta-liga-lo-a-moraes.ghtml)_
+
