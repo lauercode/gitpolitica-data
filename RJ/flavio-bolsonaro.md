@@ -1463,3 +1463,6 @@
 - **[2026-09-16 15:50 UTC]** Ciro desconversa sobre ausência em palanque de Flávio e diz que 'todos são bem-vindos' no Ceará
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/ciro-desconversa-sobre-ausencia-em-palanque-de-flavio-e-diz-que-todos-sao-bem-vindos-no-ceara.ghtml)_
 
+- **[2026-09-16 14:34 UTC]** A nova pesquisa Quaest para presidente que vai testar o movimento de alta de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/a-nova-pesquisa-quaest-para-presidente-que-vai-testar-o-movimento-de-alta-de-flavio-bolsonaro.ghtml)_
+
