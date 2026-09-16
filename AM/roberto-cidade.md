@@ -209,3 +209,6 @@
 - **[2026-09-15 21:56 UTC]** Eleições 2026: Roberto Cidade participa de caminhada e apresenta projeto Mãe Solo Protegida
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-roberto-cidade-participa-de-caminhada-e-apresenta-projeto-mae-solo-protegida.ghtml)_
 
+- **[2026-09-16 16:41 UTC]** Em sabatina, Roberto Cidade afirma que determinou o fim de contratos da família com o Estado e classifica vínculo como 'imoral'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/em-sabatina-roberto-cidade-afirma-que-determinou-o-fim-de-contratos-da-familia-com-o-estado-e-classifica-vinculo-como-imoral.ghtml)_
+
