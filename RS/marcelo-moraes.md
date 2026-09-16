@@ -2270,3 +2270,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 00:41 UTC]** Senadores defendem reforma do Judiciário após pedido de vista em julgamento de Moraes no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senadores-defendem-reforma-do-judiciario-apos-pedido-de-vista-em-julgamento-de-moraes-no-stf/)_
 
+- **[2026-09-16 00:09 UTC]** Possível empate entre ministros gera impasse sobre abertura de inquérito contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/possivel-empate-ministros-impasse-abertura-inquerito-moraes/)_
+
