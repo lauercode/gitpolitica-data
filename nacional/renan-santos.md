@@ -251,3 +251,6 @@
 - **[2026-09-15 15:20 UTC]** Flávio, Caiado, Zema e Renan Santos reagem a julgamento de Moraes no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/candidatos-a-presidencia-reagem-a-julgamento-de-moraes-no-stf.ghtml)_
 
+- **[2026-09-16 15:08 UTC]** Coordenadora de campanha de Renan Santos aciona Senado contra Dias Toffoli
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/coordenadora-de-campanha-de-renan-santos-aciona-senado-contra-dias-toffoli.shtml)_
+
