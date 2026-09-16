@@ -17,3 +17,6 @@
 - **[2026-09-15 20:21 UTC]** Em mensagem, Vorcaro diz que Celina Leão 'não ficou de fora' de operação entre BRB e Master
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/09/15/em-mensagem-vorcaro-diz-que-celina-leao-nao-ficou-de-fora-de-operacao-entre-brb-e-master.ghtml)_
 
+- **[2026-09-16 12:45 UTC]** Em sabatina, Arruda ataca gestão de Celina Leão e prega corte de gastos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/candidato-ao-governo-do-df-jose-roberto-arruda-participa-de-sabatina-do-valor-o-globo-e-cbn-acompanhe.ghtml)_
+
