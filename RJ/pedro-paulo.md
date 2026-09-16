@@ -407,3 +407,6 @@
 - **[2026-09-15 21:05 UTC]** Paulo Gonet nega proximidade com Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/paulo-gonet-nega-proximidade-com-vorcaro.ghtml)_
 
+- **[2026-09-16 12:19 UTC]** LEAP Solutions conquista dois prêmios no ranking GPTW e fica entre as melhores empresas para trabalhar em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/16/leap-solutions-conquista-dois-premios-no-ranking-gptw-e-fica-entre-as-melhores-empresas-para-trabalhar-em-sao-paulo-1.ghtml)_
+
