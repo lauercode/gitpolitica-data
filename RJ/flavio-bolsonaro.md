@@ -1454,3 +1454,6 @@
 - **[2026-09-16 07:50 UTC]** Flávio Dino no STF: qual foi seu papel no julgamento de Moraes e por que pediu vista
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 16:49 UTC]** Candidato ao Governo do RN, Rodrigo de Bolsonaro promete criar banco e contratar 17 mil agentes de segurança; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/16/candidato-ao-governo-do-rn-rodrigo-de-bolsonaro-promete-criar-banco-e-contratar-17-mil-agentes-de-seguranca-veja-entrevista.ghtml)_
+
