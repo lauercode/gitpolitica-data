@@ -80,3 +80,6 @@
 - **[2026-09-15 15:44 UTC]** Sandro Alex (PSD) é entrevistado no Meio-Dia Paraná; ASSISTA
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/ao-vivo-entrevistas-candidatos-governo-parana.ghtml)_
 
+- **[2026-09-16 13:28 UTC]** Governador Ratinho Junior se licencia do cargo nesta quinta-feira (17) para se dedicar à campanha de Sandro Alex
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/ratinho-junior-licenca-campanha.ghtml)_
+
