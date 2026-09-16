@@ -1433,3 +1433,6 @@
 - **[2026-09-16 14:11 UTC]** Lula diz que Flávio tem 'raiva' e 'bronca' de Moraes porque ministro mandou prender Bolsonaro: 'é o pavor dele'
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/16/lula-diz-que-flavio-tem-raiva-e-bronca-de-moraes-porque-ministro-mandou-prender-bolsonaro-e-o-pavor-dele.ghtml)_
 
+- **[2026-09-16 11:20 UTC]** Sem Ciro, Flávio faz campanha no Ceará e tenta reduzir vantagem de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/sem-ciro-flvio-faz-campanha-no-cear-e-tenta-reduzir-vantagem-de-lula.ghtml)_
+
