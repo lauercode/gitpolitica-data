@@ -68,3 +68,6 @@
 - **[2026-09-16 09:37 UTC]** Sauditas bombardeiam o Iêmen; houthis atacam porto no mar Vermelho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/sauditas-bombardeiam-o-iemen-houthis-atacam-porto-no-mar-vermelho.shtml)_
 
+- **[2026-09-16 15:30 UTC]** Criadoras de 'Vermelho Sangue' celebram poder feminino na série: 'Pusemos a mulher no centro'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/criadoras-de-vermelho-sangue-celebram-poder-feminino-na-serie-pusemos-a-mulher-no-centro.shtml)_
+
