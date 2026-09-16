@@ -1424,3 +1424,6 @@
 - **[2026-09-16 12:38 UTC]** Quaest: 49% não consideram Lula honesto; 42% dizem o mesmo sobre Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/16/quaest-honestidade-candidatos-presidencia.ghtml)_
 
+- **[2026-09-16 10:21 UTC]** Lula diz que Flávio tem 'bronca' com Moraes por julgamento do 8/1 e que ministro prestou serviço à democracia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-flavio-tem-bronca-com-moraes-por-julgamento-do-81-e-que-ministro-prestou-servico-a-democracia.shtml)_
+
