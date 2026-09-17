@@ -1010,3 +1010,6 @@ direitos
 - **[2026-09-16 23:00 UTC]** Câmara de Deputados dos EUA aprova projeto de lei para conter impacto de data centers na conta de luz
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/camara-de-deputados-dos-eua-aprova-projeto-de-lei-para-conter-impacto-de-data-centers-na-conta-de-luz.shtml)_
 
+- **[2026-09-17 00:31 UTC]** Câmara dos EUA aprova projeto sobre impacto econômico dos data centers
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/16/camara-dos-eua-aprova-projeto-sobre-impacto-economico-dos-data-centers.ghtml)_
+
