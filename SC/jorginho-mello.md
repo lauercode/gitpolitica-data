@@ -59,3 +59,6 @@
 - **[2026-09-15 23:19 UTC]** Eleições 2026 em SC: Jorginho Mello reúne com líderes religiosos, representantes de escolas de samba e motofrentistas
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-em-sc-jorginho-mello-reune-com-lideres-religiosos-representantes-de-escolas-de-samba-e-motofrentistas.ghtml)_
 
+- **[2026-09-16 22:25 UTC]** Eleições 2026 em SC: Jorginho Mello participa de reunião com lideranças femininas do partido
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-em-sc-jorginho-mello-participa-de-reuniao-com-liderancas-femininas-do-partido.ghtml)_
+
