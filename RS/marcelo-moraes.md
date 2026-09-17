@@ -2423,3 +2423,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 22:03 UTC]** Entenda o que está acontecendo no STF — e os próximos passos do processo contra Moraes e Mendonça
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/16/entenda-o-que-esta-acontecendo-no-stf-e-os-proximos-passos-a-partir-de-agora.ghtml)_
 
+- **[2026-09-17 03:00 UTC]** Crise no STF: campanha de Lula defende 'virar a página' da disputa entre Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/17/crise-no-stf-campanha-de-lula-defende-virar-a-pagina-da-disputa-entre-moraes-e-mendonca.ghtml)_
+
