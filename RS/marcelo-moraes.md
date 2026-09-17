@@ -2456,3 +2456,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 15:03 UTC]** Caiado chama Flávio de 'kinder ovo' e associa Lula a Alexandre de Moraes: 'Vorcaro comprou os dois lados'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/caiado-chama-flavio-de-kinder-ovo-e-associa-lula-a-alexandre-de-moraes-vorcaro-comprou-os-dois-lados.ghtml)_
 
+- **[2026-09-17 18:54 UTC]** Lula diz que julgamento sobre Alexandre de Moraes e André Mendonça deveriam ser feitos juntos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/lula-diz-que-julgamento-sobre-alexandre-de-moraes-e-andre-mendonca-deveriam-ser-feitos-juntos.ghtml)_
+
