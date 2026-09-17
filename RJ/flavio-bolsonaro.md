@@ -1556,3 +1556,6 @@
 - **[2026-09-17 16:42 UTC]** Renan Santos acusa reajuste de Lula no Bolsa Família de compra de votos e critica Flávio por defender benefício
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-acusa-reajuste-de-lula-no-bolsa-familia-de-compra-de-votos-e-critica-flavio-por-defender-beneficio/)_
 
+- **[2026-09-17 15:43 UTC]** Onde Flávio Bolsonaro avançou para ultrapassar numericamente Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/onde-flavio-bolsonaro-avancou-para-ultrapassar-numericamente-lula-pesquisa-quaest/)_
+
