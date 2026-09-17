@@ -1499,3 +1499,6 @@
 - **[2026-09-16 23:00 UTC]** PL turbina candidatos ao Senado após Bolsonaro mirar STF e repassa quase o dobro que PT
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pl-turbina-candidatos-ao-senado-apos-bolsonaro-mirar-stf-e-repassa-quase-o-dobro-que-pt.shtml)_
 
+- **[2026-09-17 07:33 UTC]** Lula x Flávio Bolsonaro: 5 fatores que podem definir eventual segundo turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss)_
+
