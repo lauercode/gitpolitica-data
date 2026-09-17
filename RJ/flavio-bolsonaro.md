@@ -1523,3 +1523,6 @@
 - **[2026-09-17 09:40 UTC]** 'Não se reduz juros na canetada', diz Marcelo Kayath, cotado para Fazenda sob Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/nao-se-reduz-juros-na-canetada-diz-marcelo-kayath-cotado-para-fazenda-sob-flavio-bolsonaro.shtml)_
 
+- **[2026-09-17 10:25 UTC]** “De dia mostra a bandeira nacional e de noite vai ficar de quatro para os EUA”, diz Lula sobre irmãos Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/de-dia-mostra-a-bandeira-nacional-e-de-noite-vai-ficar-de-quatro-para-os-eua-diz-lula-sobre-eduardo-e-flavio-bolsonaro/)_
+
