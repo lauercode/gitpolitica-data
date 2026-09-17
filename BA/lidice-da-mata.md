@@ -137,3 +137,6 @@
 - **[2026-09-17 09:00 UTC]** Vanessa da Mata, Flávio Andrade e Bonde do Gra Gra: veja agenda cultural do fim de semana em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/o-que-fazer-em-natal-e-regiao/noticia/2026/09/17/vanessa-da-mata-flavio-andrade-e-bonde-do-gra-gra-veja-agenda-cultural-do-fim-de-semana-em-natal.ghtml)_
 
+- **[2026-09-17 08:02 UTC]** Festival Tempero Bahia leva sabores da Mata Atlântica às mesas
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/festival-tempero-bahia-leva-sabores-da-mata-atlantica-mesas)_
+
