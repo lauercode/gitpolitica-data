@@ -1517,3 +1517,6 @@
 - **[2026-09-17 11:39 UTC]** Campanha de Lula pede direito de resposta ao TSE após 'pronunciamento' de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-pede-direito-de-resposta-ao-tse-apos-pronunciamento-de-flavio.shtml)_
 
+- **[2026-09-17 11:10 UTC]** Campanha de Lula vai culpar Bolsonaro por preços de alimentos e prometer limite maior para MEI
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-vai-culpar-bolsonaro-por-precos-de-alimentos-e-prometer-limite-maior-para-mei.shtml)_
+
