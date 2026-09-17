@@ -2444,3 +2444,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 14:46 UTC]** André Mendonça tem aprovação maior que Alexandre de Moraes em pesquisa do PoderData
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-tem-aprovacao-maior-que-alexandre-de-moraes-em-pesquisa-do-poderdata/)_
 
+- **[2026-09-17 13:56 UTC]** Crise no STF chega a Washington: Moraes, Gilmar e Dino na mira dos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-chega-a-washington-moraes-gilmar-e-dino-na-mira-dos-eua/)_
+
