@@ -1529,3 +1529,6 @@
 - **[2026-09-17 15:03 UTC]** Caiado chama Flávio de 'kinder ovo' e associa Lula a Alexandre de Moraes: 'Vorcaro comprou os dois lados'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/caiado-chama-flavio-de-kinder-ovo-e-associa-lula-a-alexandre-de-moraes-vorcaro-comprou-os-dois-lados.ghtml)_
 
+- **[2026-09-17 10:37 UTC]** Flávio Bolsonaro entra na reta final da campanha com foco na região Sudeste
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/flvio-bolsonaro-entra-na-reta-final-da-campanha-com-foco-na-regio-sudeste.ghtml)_
+
