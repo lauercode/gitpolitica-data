@@ -1538,3 +1538,6 @@
 - **[2026-09-17 15:53 UTC]** Caiado diz que Vorcaro 'comprou' Lula e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/17/caiado-comenta-master-stf.ghtml)_
 
+- **[2026-09-17 14:13 UTC]** Flávio Bolsonaro segura facão falso e defende castração química de estupradores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-segura-facao-falso-e-defende-castracao-quimica-de-estupradores.shtml)_
+
