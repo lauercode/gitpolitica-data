@@ -23,3 +23,6 @@
 - **[2026-09-14 19:34 UTC]** Álvaro Dias propõe interiorização da indústria e do turismo no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/14/alvaro-dias-propoe-interiorizacao-da-industria-e-do-turismo-no-rn.ghtml)_
 
+- **[2026-09-17 20:32 UTC]** Álvaro Dias promete construir novo hospital regional em Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/17/alvaro-dias-promete-construir-novo-hospital-regional-em-mossoro.ghtml)_
+
