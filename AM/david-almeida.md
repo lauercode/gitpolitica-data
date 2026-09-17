@@ -47,3 +47,6 @@
 - **[2026-09-15 19:29 UTC]** Eleições 2026: David Almeida participa de entrevista e defende união política para manter Zona Franca
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-david-almeida-participa-de-entrevista-e-defende-uniao-politica-para-manter-zona-franca.ghtml)_
 
+- **[2026-09-17 01:18 UTC]** Eleições 2026: David Almeida realiza caminhada em Parintins e promete fortalecer setor primário no estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-david-almeida-realiza-caminhada-em-parintins-e-promete-fortalecer-setor-primario-no-estado.ghtml)_
+
