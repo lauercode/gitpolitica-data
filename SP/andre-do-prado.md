@@ -23,3 +23,6 @@
 - **[2026-09-15 20:48 UTC]** TRE-SP manda Salles retirar vídeos com acusações contra André do Prado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tre-sp-manda-salles-retirar-videos-com-acusacoes-contra-prado.shtml)_
 
+- **[2026-09-16 21:01 UTC]** Justiça Eleitoral proíbe propaganda de André do Prado que usa imagem de Tarcísio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/justica-eleitoral-proibe-propaganda-de-andre-do-prado-que-usa-imagem-de-tarcisio.shtml)_
+
