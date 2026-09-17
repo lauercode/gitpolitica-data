@@ -1007,3 +1007,6 @@ direitos
 - **[2026-09-16 16:10 UTC]** Diretor de Comunicação da Câmara ressalta desafio de aproximar o Legislativo do cidadão
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1305022-diretor-de-comunicacao-da-camara-ressalta-desafio-de-aproximar-o-legislativo-do-cidadao)_
 
+- **[2026-09-16 23:00 UTC]** Câmara de Deputados dos EUA aprova projeto de lei para conter impacto de data centers na conta de luz
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/camara-de-deputados-dos-eua-aprova-projeto-de-lei-para-conter-impacto-de-data-centers-na-conta-de-luz.shtml)_
+
