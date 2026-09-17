@@ -2450,3 +2450,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 10:56 UTC]** Deputado dos EUA cobra OEA sobre Moraes e proximidade de observador eleitoral com Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/deputado-eua-cobra-oea-moraes-proximidade-observador-eleitoral-lula/)_
 
+- **[2026-09-17 10:21 UTC]** Moraes cobra explicações por fiscalização de deputado à cadeia de Filipe Martins
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-cobra-explicacoes-por-fiscalizacao-de-deputado-a-cadeia-de-filipe-martins/)_
+
