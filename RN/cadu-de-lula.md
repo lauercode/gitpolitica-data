@@ -56,3 +56,6 @@
 - **[2026-09-17 17:54 UTC]** Lula chama governadora do DF de cínica e diz que não dará dinheiro para o BRB
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-governadora-df-cinica-nao-dara-dinheiro-brb/)_
 
+- **[2026-09-17 21:21 UTC]** Cadu de Lula participa de agenda do MPRN e promete avanço na transparência do governo
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/17/cadu-de-lula-participa-de-agenda-do-mprn-e-promete-avanco-na-transparencia-do-governo.ghtml)_
+
