@@ -2438,3 +2438,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 09:27 UTC]** Flávio cola Lula a Moraes e foca em Nordeste
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/flavio-cola-lula-a-moraes-e-foca-em-nordeste.ghtml)_
 
+- **[2026-09-17 15:05 UTC]** Nunes Marques sofreu pressão em múltiplas frentes antes de se afastar do julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-sofreu-pressao-em-multiplas-frentes-antes-de-se-afastar-do-julgamento-de-moraes/)_
+
