@@ -263,3 +263,6 @@
 - **[2026-09-17 16:42 UTC]** Renan Santos acusa reajuste de Lula no Bolsa Família de compra de votos e critica Flávio por defender benefício
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-acusa-reajuste-de-lula-no-bolsa-familia-de-compra-de-votos-e-critica-flavio-por-defender-beneficio/)_
 
+- **[2026-09-17 17:25 UTC]** Renan Santos classifica como ‘crime’ aumento do Bolsa Família
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/renan-santos-classifica-como-crime-aumento-do-bolsa-familia.ghtml)_
+
