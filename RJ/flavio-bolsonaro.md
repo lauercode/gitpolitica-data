@@ -1535,3 +1535,6 @@
 - **[2026-09-17 17:42 UTC]** Flávio Bolsonaro e Michelle aparecem juntos em propaganda eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/propaganda-de-flavio-bolsonaro-com-michelle-e-exibida-no-horario-eleitoral-nesta-quinta-17.ghtml)_
 
+- **[2026-09-17 15:53 UTC]** Caiado diz que Vorcaro 'comprou' Lula e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/17/caiado-comenta-master-stf.ghtml)_
+
