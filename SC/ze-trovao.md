@@ -11,3 +11,6 @@
 - **[2026-09-01 18:47 UTC]** Randy Quaid critica Anne Hathaway em sequência de 'Dias de Trovão'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/randy-quaid-critica-anne-hathaway-em-sequencia-de-dias-de-trovao.shtml)_
 
+- **[2026-09-17 20:13 UTC]** Zé Trovão (PL-SC), aliado de Flávio Bolsonaro, vai ao TSE contra reajuste do Bolsa Família; Mendonça vai ser o relator
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-do-bolsa-familia-mendonca-vai-ser-o-relator.ghtml)_
+
