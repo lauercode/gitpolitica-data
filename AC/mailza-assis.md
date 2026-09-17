@@ -20,3 +20,6 @@
 - **[2026-09-15 22:44 UTC]** TRE investiga ato da campanha de Mailza Assis com presidente do Detran e outros servidores públicos
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/15/ato-da-campanha-de-mailza-assis-com-presidente-do-detran-e-outros-servidores-publicos-e-investigado.ghtml)_
 
+- **[2026-09-17 18:42 UTC]** Mailza Assis diz que se considera 'votada' como vice, defende chapa feminina e promete combater corrupção
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/17/mailza-assis-diz-que-se-considera-votada-como-vice-defende-chapa-feminina-e-promete-combater-corrupcao.ghtml)_
+
