@@ -1565,3 +1565,6 @@
 - **[2026-09-17 17:17 UTC]** Na Bahia, Flávio Bolsonaro diz que reajuste do Bolsa Família é ‘ato de desespero’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/na-bahia-flvio-bolsonaro-diz-que-reajuste-do-bolsa-famlia-ato-de-desespero.ghtml)_
 
+- **[2026-09-17 22:04 UTC]** Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 36%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-presidente-17-setembro.ghtml)_
+
