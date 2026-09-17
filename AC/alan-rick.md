@@ -26,3 +26,6 @@
 - **[2026-09-16 16:11 UTC]** Alan Rick promete regionalizar saúde, fortalecer agricultura familiar e criar mais delegacias da mulher; VEJA plano
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/16/alan-rick-promete-regionalizar-saude-fortalecer-agricultura-familiar-e-criar-mais-delegacias-da-mulher-veja-plano.ghtml)_
 
+- **[2026-09-16 22:17 UTC]** Alan Rick promete saúde regionalizada, investimentos privados no saneamento e regularização fundiária
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/16/alan-rick-promete-saude-regionalizada-investimentos-privados-no-saneamento-e-regularizacao-fundiaria.ghtml)_
+
