@@ -35,3 +35,6 @@
 - **[2026-09-15 08:00 UTC]** Como o PCC aparece nas investigações sobre a produtora de Dark Horse, filme sobre a vida de Jair Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq8r63m878y1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 22:23 UTC]** Liminar do TSE restabelece proibição de uso de imagem de Jair Bolsonaro em propaganda eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/09/16/liminar-do-tse-restabelece-proibicao-de-uso-de-imagem-de-jair-bolsonaro-em-propaganda-eleitoral.ghtml)_
+
