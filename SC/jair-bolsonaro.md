@@ -38,3 +38,6 @@
 - **[2026-09-16 22:23 UTC]** Liminar do TSE restabelece proibição de uso de imagem de Jair Bolsonaro em propaganda eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/09/16/liminar-do-tse-restabelece-proibicao-de-uso-de-imagem-de-jair-bolsonaro-em-propaganda-eleitoral.ghtml)_
 
+- **[2026-09-16 22:19 UTC]** TSE proíbe uso da imagem de Jair Bolsonaro em santinhos de candidatos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-proibe-uso-da-imagem-de-jair-bolsonaro-em-santinhos-de-candidatos.shtml)_
+
