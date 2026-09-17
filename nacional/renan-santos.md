@@ -257,3 +257,6 @@
 - **[2026-09-16 21:41 UTC]** No Paraná, Renan Santos critica 'super shows' com cachês milionários e diz que Brasil deve exportar 'lifestyle'
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/16/renan-santos-critica-super-shows-parana.ghtml)_
 
+- **[2026-09-17 17:08 UTC]** Em SC, Renan Santos diz que acionará o TSE contra aumento do Bolsa Família em período eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/em-sc-renan-santos-diz-que-acionara-o-tse-contra-aumento-do-bolsa-familia-em-periodo-eleitoral.ghtml)_
+
