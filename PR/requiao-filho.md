@@ -59,3 +59,6 @@
 - **[2026-09-16 19:30 UTC]** Requião Filho defende aliança com o PT e nega loteamento de eventual governo no Paraná
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/requiao-filho-defende-alianca-com-o-pt-e-nega-loteamento-de-eventual-governo-no-parana/)_
 
+- **[2026-09-17 17:33 UTC]** Eleições 2026 no Paraná: Requião Filho se reúne com professores em Foz do Iguaçu
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-agenda-requiao-filho-17-setembro.ghtml)_
+
