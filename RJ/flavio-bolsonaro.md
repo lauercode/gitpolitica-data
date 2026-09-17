@@ -1589,3 +1589,6 @@
 - **[2026-09-17 20:35 UTC]** Lula x Flávio Bolsonaro: os 5 grupos de eleitores que podem definir a eleição, segundo pesquisas
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-17 22:08 UTC]** Datafolha: Lula tem 46% e Flávio, 44% no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/datafolha-lula-tem-46percent-e-flavio-44percent-no-segundo-turno.ghtml)_
+
