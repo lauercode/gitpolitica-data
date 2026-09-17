@@ -2453,3 +2453,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 10:21 UTC]** Moraes cobra explicações por fiscalização de deputado à cadeia de Filipe Martins
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-cobra-explicacoes-por-fiscalizacao-de-deputado-a-cadeia-de-filipe-martins/)_
 
+- **[2026-09-17 15:03 UTC]** Caiado chama Flávio de 'kinder ovo' e associa Lula a Alexandre de Moraes: 'Vorcaro comprou os dois lados'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/caiado-chama-flavio-de-kinder-ovo-e-associa-lula-a-alexandre-de-moraes-vorcaro-comprou-os-dois-lados.ghtml)_
+
