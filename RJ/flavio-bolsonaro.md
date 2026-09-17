@@ -1544,3 +1544,6 @@
 - **[2026-09-17 13:30 UTC]** Documentário sobre Bolsonaro recebeu dinheiro de produtora de 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/documentario-sobre-bolsonaro-recebeu-dinheiro-de-produtora-de-dark-horse.shtml)_
 
+- **[2026-09-17 13:17 UTC]** Flávio Bolsonaro nega ter recebido ajuda de Trump após documento dos EUA ligar tarifaço à eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-nega-ter-recebido-ajuda-de-trump-apos-documento-dos-eua-ligar-tarifaco-a-eleicao.shtml)_
+
