@@ -1532,3 +1532,6 @@
 - **[2026-09-17 10:37 UTC]** Flávio Bolsonaro entra na reta final da campanha com foco na região Sudeste
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/flvio-bolsonaro-entra-na-reta-final-da-campanha-com-foco-na-regio-sudeste.ghtml)_
 
+- **[2026-09-17 17:42 UTC]** Flávio Bolsonaro e Michelle aparecem juntos em propaganda eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/propaganda-de-flavio-bolsonaro-com-michelle-e-exibida-no-horario-eleitoral-nesta-quinta-17.ghtml)_
+
