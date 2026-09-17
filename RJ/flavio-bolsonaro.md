@@ -1586,3 +1586,6 @@
 - **[2026-09-17 16:47 UTC]** Zé Trovão, aliado de Flávio Bolsonaro, vai ao TSE contra reajuste no Bolsa Família e Mendonça será relator
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-no-bolsa-familia-e-mendonca-sera-relator.shtml)_
 
+- **[2026-09-17 20:35 UTC]** Lula x Flávio Bolsonaro: os 5 grupos de eleitores que podem definir a eleição, segundo pesquisas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss)_
+
