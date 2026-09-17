@@ -1505,3 +1505,6 @@
 - **[2026-09-17 08:00 UTC]** Kassab vê potencial de a crise do Supremo impactar as candidaturas de Lula e Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/kassab-ve-potencial-de-a-crise-do-supremo-impactar-as-candidaturas-de-lula-e-flavio.ghtml)_
 
+- **[2026-09-17 09:00 UTC]** Vanessa da Mata, Flávio Andrade e Bonde do Gra Gra: veja agenda cultural do fim de semana em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/o-que-fazer-em-natal-e-regiao/noticia/2026/09/17/vanessa-da-mata-flavio-andrade-e-bonde-do-gra-gra-veja-agenda-cultural-do-fim-de-semana-em-natal.ghtml)_
+
