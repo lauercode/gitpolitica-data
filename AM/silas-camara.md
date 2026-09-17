@@ -1016,3 +1016,6 @@ direitos
 - **[2026-09-17 06:36 UTC]** Operação do Ministério Público mira Milton Leite, ex-presidente da Câmara de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-do-ministerio-publico-mira-milton-leite-ex-presidente-da-camara-de-sao-paulo.shtml)_
 
+- **[2026-09-17 14:19 UTC]** Câmara dos EUA aprova projeto de sanções à Rússia; texto segue para aval de Trump
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/17/cmara-dos-eua-aprova-projeto-de-sanes-rssia-texto-segue-para-sano-de-trump.ghtml)_
+
