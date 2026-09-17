@@ -1019,3 +1019,6 @@ direitos
 - **[2026-09-17 14:19 UTC]** Câmara dos EUA aprova projeto de sanções à Rússia; texto segue para aval de Trump
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/17/cmara-dos-eua-aprova-projeto-de-sanes-rssia-texto-segue-para-sano-de-trump.ghtml)_
 
+- **[2026-09-17 15:54 UTC]** Ex-vereador Milton Leite presidiu a Câmara de São Paulo 6 vezes e ficou 27 anos como parlamentar
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/ex-vereador-milton-leite-presidiu-a-camara-6-vezes-e-ficou-27-anos-como-parlamentar.ghtml)_
+
