@@ -2417,3 +2417,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 23:58 UTC]** Julgamento de Moraes expõe “degradação” do STF, diz Transparência Internacional
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/julgamento-de-moraes-expoe-degradacao-do-stf-diz-transparencia-internacional/)_
 
+- **[2026-09-16 22:23 UTC]** Em comício no Recife, Flávio Bolsonaro diz que Lula 'deve seu mandato' a Alexandre de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/em-comicio-no-recife-flavio-bolsonaro-diz-que-lula-deve-seu-mandato-a-alexandre-de-moraes.ghtml)_
+
