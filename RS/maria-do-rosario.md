@@ -20,3 +20,6 @@
 - **[2026-09-11 14:42 UTC]** Senai-MA abre 100 vagas para cursos gratuitos em Rosário; veja como se inscrever
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/11/senai-ma-abre-100-vagas-para-cursos-gratuitos-em-rosario-veja-como-se-inscrever.ghtml)_
 
+- **[2026-09-17 15:23 UTC]** Três homens são presos suspeitos de assassinato motivado por dívida de R$ 30 mil em Pedro do Rosário, no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/17/tres-homens-sao-presos-suspeitos-de-latrocinio-motivado-por-divida-de-r-30-mil-em-pedro-do-rosario-no-ma.ghtml)_
+
