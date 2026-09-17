@@ -59,3 +59,6 @@
 - **[2026-09-15 18:36 UTC]** João Rodrigues (PSD) é entrevistado no Jornal do Almoço; VEJA TRECHOS
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/edicao/2026/09/15/joao-rodrigues-psd-e-entrevistado-no-jornal-do-almoco-veja-trechos.ghtml)_
 
+- **[2026-09-16 22:25 UTC]** Eleições 2026 em SC: João Rodrigues visita hospital e cumprimenta trabalhadores
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-em-sc-joao-rodrigues-visita-hospital-e-cumprimenta-trabalhadores.ghtml)_
+
