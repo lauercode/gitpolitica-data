@@ -23,3 +23,6 @@
 - **[2026-09-17 18:42 UTC]** Mailza Assis diz que se considera 'votada' como vice, defende chapa feminina e promete combater corrupção
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/17/mailza-assis-diz-que-se-considera-votada-como-vice-defende-chapa-feminina-e-promete-combater-corrupcao.ghtml)_
 
+- **[2026-09-17 16:18 UTC]** Mailza Assis promete focar na educação integral, ampliar telessaúde e melhorar ramais; Veja plano
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/17/mailza-assis-promete-focar-na-educacao-integral-ampliar-telessaude-e-melhorar-ramais-veja-plano.ghtml)_
+
