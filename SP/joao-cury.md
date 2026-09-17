@@ -287,3 +287,6 @@
 - **[2026-09-16 13:00 UTC]** Em livro, Cury se compara a Jesus, Lincoln e Luther King como 'sonhador' que contribuiu com humanidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-livro-cury-se-compara-a-jesus-lincoln-e-luther-king-como-sonhador-que-contribuiu-com-humanidade.shtml)_
 
+- **[2026-09-17 06:00 UTC]** Candidatos do partido de Cury em SP reclamam de falta de repasse do fundo eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidatos-do-partido-de-cury-em-sp-reclamam-de-falta-de-repasse-do-fundo-eleitoral.shtml)_
+
