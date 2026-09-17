@@ -2447,3 +2447,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 13:56 UTC]** Crise no STF chega a Washington: Moraes, Gilmar e Dino na mira dos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-chega-a-washington-moraes-gilmar-e-dino-na-mira-dos-eua/)_
 
+- **[2026-09-17 10:56 UTC]** Deputado dos EUA cobra OEA sobre Moraes e proximidade de observador eleitoral com Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/deputado-eua-cobra-oea-moraes-proximidade-observador-eleitoral-lula/)_
+
