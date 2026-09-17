@@ -254,3 +254,6 @@
 - **[2026-09-16 15:08 UTC]** Coordenadora de campanha de Renan Santos aciona Senado contra Dias Toffoli
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/coordenadora-de-campanha-de-renan-santos-aciona-senado-contra-dias-toffoli.shtml)_
 
+- **[2026-09-16 21:41 UTC]** No Paraná, Renan Santos critica 'super shows' com cachês milionários e diz que Brasil deve exportar 'lifestyle'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/16/renan-santos-critica-super-shows-parana.ghtml)_
+
