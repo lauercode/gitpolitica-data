@@ -1553,3 +1553,6 @@
 - **[2026-09-17 18:05 UTC]** Flávio Bolsonaro chama reajuste do Bolsa Família de ato de desespero do Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-chama-reajuste-do-bolsa-familia-de-ato-de-desespero-do-lula/)_
 
+- **[2026-09-17 16:42 UTC]** Renan Santos acusa reajuste de Lula no Bolsa Família de compra de votos e critica Flávio por defender benefício
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-acusa-reajuste-de-lula-no-bolsa-familia-de-compra-de-votos-e-critica-flavio-por-defender-beneficio/)_
+
