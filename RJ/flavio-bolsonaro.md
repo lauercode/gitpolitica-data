@@ -1502,3 +1502,6 @@
 - **[2026-09-17 07:33 UTC]** Lula x Flávio Bolsonaro: 5 fatores que podem definir eventual segundo turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-17 08:00 UTC]** Kassab vê potencial de a crise do Supremo impactar as candidaturas de Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/kassab-ve-potencial-de-a-crise-do-supremo-impactar-as-candidaturas-de-lula-e-flavio.ghtml)_
+
