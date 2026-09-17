@@ -1514,3 +1514,6 @@
 - **[2026-09-17 13:07 UTC]** Lula muda estratégia de campanha e passa a confrontar diretamente Flávio Bolsonaro: 'Quem vota em Flávio vota em Vorcaro'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/17/lula-muda-estrategia-de-campanha-e-passa-a-confrontar-diretamente-flavio-bolsonaro-quem-vota-em-flavio-vota-em-vorcaro.ghtml)_
 
+- **[2026-09-17 11:39 UTC]** Campanha de Lula pede direito de resposta ao TSE após 'pronunciamento' de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-pede-direito-de-resposta-ao-tse-apos-pronunciamento-de-flavio.shtml)_
+
