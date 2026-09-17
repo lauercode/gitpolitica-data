@@ -17,3 +17,6 @@
 - **[2026-09-17 01:00 UTC]** Reginaldo Lima propõe mais investimentos em saneamento e Caema estatal
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/16/reginaldo-lima-propoe-mais-investimentos-em-saneamento-e-caema-estatal.ghtml)_
 
+- **[2026-09-17 15:09 UTC]** Entrevista com candidatos ao governo do Maranhão: Reginaldo Lima cancela participação no JMTV 1ª edição
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/17/entrevista-com-candidatos-ao-governo-do-maranhao-reginaldo-lima-cancela-participacao-no-jmtv-1a-edicao.ghtml)_
+
