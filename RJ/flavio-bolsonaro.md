@@ -1520,3 +1520,6 @@
 - **[2026-09-17 11:10 UTC]** Campanha de Lula vai culpar Bolsonaro por preços de alimentos e prometer limite maior para MEI
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-vai-culpar-bolsonaro-por-precos-de-alimentos-e-prometer-limite-maior-para-mei.shtml)_
 
+- **[2026-09-17 09:40 UTC]** 'Não se reduz juros na canetada', diz Marcelo Kayath, cotado para Fazenda sob Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/nao-se-reduz-juros-na-canetada-diz-marcelo-kayath-cotado-para-fazenda-sob-flavio-bolsonaro.shtml)_
+
