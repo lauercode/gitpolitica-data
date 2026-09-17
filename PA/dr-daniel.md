@@ -20,3 +20,6 @@
 - **[2026-09-17 03:15 UTC]** Dr. Daniel propõe criar programa para financiar reformas em templos religiosos no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/17/dr-daniel-propoe-criar-programa-para-financiar-reformas-em-templos-religiosos-no-para.ghtml)_
 
+- **[2026-09-17 17:04 UTC]** Correção: Dr. Daniel promete construir hospitais e policlínicas no PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/17/correcao-dr-daniel-promete-construir-hospitais-e-policlinicas-no-pa.ghtml)_
+
