@@ -50,3 +50,6 @@
 - **[2026-09-17 01:18 UTC]** Eleições 2026: David Almeida realiza caminhada em Parintins e promete fortalecer setor primário no estado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-david-almeida-realiza-caminhada-em-parintins-e-promete-fortalecer-setor-primario-no-estado.ghtml)_
 
+- **[2026-09-17 16:58 UTC]** Em sabatina, David Almeida critica falta de hospitais na rede estadual e promete zerar fila do SisReg
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/17/em-sabatina-david-almeida-critica-falta-de-hospitais-na-rede-estadual-e-promete-zerar-fila-do-sisreg.ghtml)_
+
