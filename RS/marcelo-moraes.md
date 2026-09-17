@@ -2405,3 +2405,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 19:54 UTC]** Moraes vota para igualar tempo de licenças-maternidade e adotante
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-vota-para-igualar-tempo-de-licencas-maternidade-e-adotante)_
 
+- **[2026-09-16 21:55 UTC]** Moraes vota para igualar licença maternidade de mães biológica e adotivas; julgamento é suspenso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/moraes-vota-para-igualar-licenca-maternidade-de-maes-biologica-e-adotivas-julgamento-e-suspenso.ghtml)_
+
