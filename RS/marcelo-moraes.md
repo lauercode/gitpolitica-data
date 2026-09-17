@@ -2459,3 +2459,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 18:54 UTC]** Lula diz que julgamento sobre Alexandre de Moraes e André Mendonça deveriam ser feitos juntos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/lula-diz-que-julgamento-sobre-alexandre-de-moraes-e-andre-mendonca-deveriam-ser-feitos-juntos.ghtml)_
 
+- **[2026-09-17 15:46 UTC]** Fachin desmarca sessão do STF que analisaria pedido de Moraes contra Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-desmarca-sessao-stf-analisaria-pedido-moraes-contra-mendonca/)_
+
