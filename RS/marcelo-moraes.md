@@ -2411,3 +2411,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 19:32 UTC]** Padrinho de Moraes no STF, Temer se encontra com aliados de Mendonça em SP e busca atenuar crise
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/padrinho-de-moraes-no-stf-temer-se-encontra-com-aliados-de-mendonca-em-sp-e-busca-atenuar-crise.shtml)_
 
+- **[2026-09-16 18:41 UTC]** Deputado americano cita Moraes e pede ação da OEA sobre liberdade de expressão no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/deputado-americano-cita-moraes-e-pede-acao-da-oea-sobre-liberdade-de-expressao-no-brasil.shtml)_
+
