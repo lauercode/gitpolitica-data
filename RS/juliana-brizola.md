@@ -17,3 +17,6 @@
 - **[2026-09-14 23:36 UTC]** Eleições 2026 no RS: Juliana Brizola defende 'resgatar ferrovias e potencializar hidrovias'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-no-rs-juliana-brizola-defende-resgatar-ferrovias-e-potencializar-hidrovias.ghtml)_
 
+- **[2026-09-17 15:53 UTC]** Juliana Brizola (PDT) defende escola de tempo integral com esporte, cultura e atendimento de saúde em entrevista à RBS TV
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/17/juliana-brizola-pdt-entrevista-rbs-tv.ghtml)_
+
