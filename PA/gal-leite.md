@@ -20,3 +20,6 @@
 - **[2026-09-15 23:08 UTC]** Gal Leite propõe reestatizar serviços de água e esgoto no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/15/gal-leite-propoe-reestatizar-servicos-de-agua-e-esgoto-no-para.ghtml)_
 
+- **[2026-09-17 17:06 UTC]** Veja trechos da entrevista com Gal Leite, candidata ao governo do Pará pela UP
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/playlist/veja-trechos-da-entrevista-com-gal-leite-candidata-ao-governo-do-para-pela-up.ghtml)_
+
