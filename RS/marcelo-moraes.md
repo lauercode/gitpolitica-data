@@ -2426,3 +2426,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 03:00 UTC]** Crise no STF: campanha de Lula defende 'virar a página' da disputa entre Moraes e Mendonça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/17/crise-no-stf-campanha-de-lula-defende-virar-a-pagina-da-disputa-entre-moraes-e-mendonca.ghtml)_
 
+- **[2026-09-16 23:00 UTC]** Dino apontou em ofício impedimento de Moraes, que tem voto criticado por especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-apontou-em-oficio-impedimento-de-moraes-que-tem-voto-criticado-por-especialistas.shtml)_
+
