@@ -20,3 +20,6 @@
 - **[2026-09-07 11:16 UTC]** Atos do 7 de Setembro em Salvador têm ACM Neto e Flávio Bolsonaro na mesma bandeira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/atos-do-7-de-setembro-em-salvador-tem-acm-neto-e-flavio-bolsonaro-na-mesma-bandeira.shtml)_
 
+- **[2026-09-17 13:27 UTC]** Nunes Marques nega pedido da PF para realizar busca contra ACM Neto dentro de investigação sobre desvio de emendas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/nunes-marques-nega-pedido-da-pf-para-realizar-busca-contra-acm-neto-dentro-de-investigacao-sobre-desvio-de-emendas.ghtml)_
+
