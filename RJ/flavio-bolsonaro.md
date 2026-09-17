@@ -1547,3 +1547,6 @@
 - **[2026-09-17 13:17 UTC]** Flávio Bolsonaro nega ter recebido ajuda de Trump após documento dos EUA ligar tarifaço à eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-nega-ter-recebido-ajuda-de-trump-apos-documento-dos-eua-ligar-tarifaco-a-eleicao.shtml)_
 
+- **[2026-09-17 13:00 UTC]** Flávio Bolsonaro usou apartamento de advogado investigado por fraudes no INSS, diz revista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-usou-apartamento-de-advogado-investigado-por-fraudes-no-inss-diz-revista.shtml)_
+
