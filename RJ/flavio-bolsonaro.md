@@ -1580,3 +1580,6 @@
 - **[2026-09-17 19:05 UTC]** Datafolha: Lula e Flávio Bolsonaro empatam em 1º e 2º turnos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-1o-e-2o-turnos.shtml)_
 
+- **[2026-09-17 18:54 UTC]** Lula já pediu inegibilidade de Bolsonaro por ter aumentado Bolsa Família nas eleições de 2022
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-ja-pediu-inegibilidade-de-bolsonaro-por-ter-aumentado-bolsa-familia-nas-eleicoes-de-2022.shtml)_
+
