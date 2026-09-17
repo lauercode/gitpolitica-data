@@ -53,3 +53,6 @@
 - **[2026-09-17 02:12 UTC]** Lula chama governadora do DF de cínica e diz que governo não dará dinheiro ao BRB
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/16/lula-chama-governadora-do-df-de-cinica-e-diz-que-governo-nao-dara-dinheiro-ao-brb.ghtml)_
 
+- **[2026-09-17 17:54 UTC]** Lula chama governadora do DF de cínica e diz que não dará dinheiro para o BRB
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-governadora-df-cinica-nao-dara-dinheiro-brb/)_
+
