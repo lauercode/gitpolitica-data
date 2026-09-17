@@ -134,3 +134,6 @@
 - **[2026-09-14 16:39 UTC]** Motorista de ônibus é agredido com coronhada durante assalto na Estrada da Mata, na Grande São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/14/motorista-de-onibus-e-agredido-com-coronhada-durante-assalto-na-estrada-da-mata-na-grande-sao-luis.ghtml)_
 
+- **[2026-09-17 09:00 UTC]** Vanessa da Mata, Flávio Andrade e Bonde do Gra Gra: veja agenda cultural do fim de semana em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/o-que-fazer-em-natal-e-regiao/noticia/2026/09/17/vanessa-da-mata-flavio-andrade-e-bonde-do-gra-gra-veja-agenda-cultural-do-fim-de-semana-em-natal.ghtml)_
+
