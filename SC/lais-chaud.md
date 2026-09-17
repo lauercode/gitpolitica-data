@@ -14,3 +14,6 @@
 - **[2026-09-10 22:27 UTC]** Eleições 2026 em SC: Laís Chaud conversa com movimento de mulheres e panfleta em Joinville
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-lais-chaud-conversa-com-movimento-de-mulheres-e-panfleta-em-joinville.ghtml)_
 
+- **[2026-09-17 16:00 UTC]** Entrevista na NSC: Laís Chaud aposta em mobilização popular para governar e maior reforço no combate à violência contra a mulher
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/entrevista-na-nsc-lais-chaud.ghtml)_
+
