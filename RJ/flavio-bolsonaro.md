@@ -1598,3 +1598,6 @@
 - **[2026-09-17 21:21 UTC]** Barclays vê ‘ciclo virtuoso’ nos juros e no câmbio com eventual vitória de Flávio, mas alerta para exageros
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/17/barclays-preve-ciclo-virtuoso-nos-juros-e-no-cambio-com-eventual-vitoria-de-flavio-mas-alerta-para-exageros.ghtml)_
 
+- **[2026-09-17 20:20 UTC]** Análise: Uso de precedente de Bolsonaro no reajuste do BF não é justificativa, mas alerta
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/analise-uso-de-precedente-de-bolsonaro-no-reajuste-do-bf-nao-e-justificativa-mas-alerta.ghtml)_
+
