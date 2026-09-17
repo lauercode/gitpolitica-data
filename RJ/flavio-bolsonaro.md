@@ -1541,3 +1541,6 @@
 - **[2026-09-17 14:13 UTC]** Flávio Bolsonaro segura facão falso e defende castração química de estupradores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-segura-facao-falso-e-defende-castracao-quimica-de-estupradores.shtml)_
 
+- **[2026-09-17 13:30 UTC]** Documentário sobre Bolsonaro recebeu dinheiro de produtora de 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/documentario-sobre-bolsonaro-recebeu-dinheiro-de-produtora-de-dark-horse.shtml)_
+
