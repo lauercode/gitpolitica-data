@@ -1592,3 +1592,6 @@
 - **[2026-09-17 22:08 UTC]** Datafolha: Lula tem 46% e Flávio, 44% no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/datafolha-lula-tem-46percent-e-flavio-44percent-no-segundo-turno.ghtml)_
 
+- **[2026-09-17 21:57 UTC]** Campanha de Flávio vê reajuste do Bolsa Família como ‘armadilha’ e descarta judicialização
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/campanha-de-flvio-v-reajuste-do-bolsa-famlia-como-armadilha-e-descarta-judicializao.ghtml)_
+
