@@ -1595,3 +1595,6 @@
 - **[2026-09-17 21:57 UTC]** Campanha de Flávio vê reajuste do Bolsa Família como ‘armadilha’ e descarta judicialização
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/campanha-de-flvio-v-reajuste-do-bolsa-famlia-como-armadilha-e-descarta-judicializao.ghtml)_
 
+- **[2026-09-17 21:21 UTC]** Barclays vê ‘ciclo virtuoso’ nos juros e no câmbio com eventual vitória de Flávio, mas alerta para exageros
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/17/barclays-preve-ciclo-virtuoso-nos-juros-e-no-cambio-com-eventual-vitoria-de-flavio-mas-alerta-para-exageros.ghtml)_
+
