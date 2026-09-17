@@ -260,3 +260,6 @@
 - **[2026-09-17 17:08 UTC]** Em SC, Renan Santos diz que acionará o TSE contra aumento do Bolsa Família em período eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/em-sc-renan-santos-diz-que-acionara-o-tse-contra-aumento-do-bolsa-familia-em-periodo-eleitoral.ghtml)_
 
+- **[2026-09-17 16:42 UTC]** Renan Santos acusa reajuste de Lula no Bolsa Família de compra de votos e critica Flávio por defender benefício
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-acusa-reajuste-de-lula-no-bolsa-familia-de-compra-de-votos-e-critica-flavio-por-defender-beneficio/)_
+
