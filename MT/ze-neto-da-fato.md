@@ -62,3 +62,6 @@
 - **[2026-09-16 08:30 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de São Paulo no SP1
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/16/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-sao-paulo-no-sp1.ghtml)_
 
+- **[2026-09-17 08:20 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo do Rio de Janeiro no RJ1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/17/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-do-rio-de-janeiro-no-rj1.ghtml)_
+
