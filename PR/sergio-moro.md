@@ -68,3 +68,6 @@
 - **[2026-09-16 16:43 UTC]** Eleições 2026 no Paraná: Sergio Moro visita hospital em Curitiba e concede entrevista à rádio
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/eleicoes-parana-sergio-moro.ghtml)_
 
+- **[2026-09-17 17:33 UTC]** Eleições 2026 no Paraná: Sergio Moro faz carreata em seis cidades da Região Metropolitana de Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-no-parana-agenda-sergio-moro-17-setembro.ghtml)_
+
