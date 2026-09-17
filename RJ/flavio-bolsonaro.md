@@ -1574,3 +1574,6 @@
 - **[2026-09-17 19:15 UTC]** Datafolha: Flávio Bolsonaro e Lula são rejeitados por 47% dos eleitores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-e-lula-sao-rejeitados-por-47-dos-eleitores.shtml)_
 
+- **[2026-09-17 19:13 UTC]** Mendonça rejeita pedido de aliado de Flávio Bolsonaro para barrar reajuste no Bolsa Família
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/mendonca-rejeita-pedido-de-aliado-de-flavio-bolsonaro-para-barrar-reajuste-no-bolsa-familia.shtml)_
+
