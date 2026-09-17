@@ -1526,3 +1526,6 @@
 - **[2026-09-17 10:25 UTC]** “De dia mostra a bandeira nacional e de noite vai ficar de quatro para os EUA”, diz Lula sobre irmãos Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/de-dia-mostra-a-bandeira-nacional-e-de-noite-vai-ficar-de-quatro-para-os-eua-diz-lula-sobre-eduardo-e-flavio-bolsonaro/)_
 
+- **[2026-09-17 15:03 UTC]** Caiado chama Flávio de 'kinder ovo' e associa Lula a Alexandre de Moraes: 'Vorcaro comprou os dois lados'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/caiado-chama-flavio-de-kinder-ovo-e-associa-lula-a-alexandre-de-moraes-vorcaro-comprou-os-dois-lados.ghtml)_
+
