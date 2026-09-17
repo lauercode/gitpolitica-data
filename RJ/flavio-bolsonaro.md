@@ -1562,3 +1562,6 @@
 - **[2026-09-17 16:53 UTC]** Lula x Flávio Bolsonaro: pesquisas mostram 5 grupos de eleitores que podem definir eventual 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-17 17:17 UTC]** Na Bahia, Flávio Bolsonaro diz que reajuste do Bolsa Família é ‘ato de desespero’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/na-bahia-flvio-bolsonaro-diz-que-reajuste-do-bolsa-famlia-ato-de-desespero.ghtml)_
+
