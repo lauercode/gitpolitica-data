@@ -53,3 +53,6 @@
 - **[2026-09-16 13:56 UTC]** Eleições 2026: Professora Maria do Carmo defende revitalização do Centro Histórico para impulsionar turismo e economia em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-professora-maria-do-carmo-defende-revitalizacao-do-centro-historico-para-impulsionar-turismo-e-economia-em-manaus.ghtml)_
 
+- **[2026-09-17 21:18 UTC]** Eleições 2026: Professora Maria do Carmo se reúne com representantes do comércio e apresenta propostas para geração de renda
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-professora-maria-do-carmo-se-reune-com-representantes-do-comercio-e-apresenta-propostas-para-geracao-de-renda.ghtml)_
+
