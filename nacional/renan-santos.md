@@ -266,3 +266,6 @@
 - **[2026-09-17 17:25 UTC]** Renan Santos classifica como ‘crime’ aumento do Bolsa Família
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/renan-santos-classifica-como-crime-aumento-do-bolsa-familia.ghtml)_
 
+- **[2026-09-17 21:53 UTC]** Renan Santos aborda Bolsa Família, feminicídios e pacto federativo em caravana no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/17/renan-santos-caravana-rs.ghtml)_
+
