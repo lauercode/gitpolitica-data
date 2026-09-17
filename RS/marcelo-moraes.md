@@ -2429,3 +2429,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 23:00 UTC]** Dino apontou em ofício impedimento de Moraes, que tem voto criticado por especialistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-apontou-em-oficio-impedimento-de-moraes-que-tem-voto-criticado-por-especialistas.shtml)_
 
+- **[2026-09-16 22:31 UTC]** Defesa de Moraes fala em vícios no processo e diz que não houve favorecimento ao Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-mira-vicio-processual-e-falta-de-ato-de-oficio-a-favor-do-master-como-estrategia-de-defesa.shtml)_
+
