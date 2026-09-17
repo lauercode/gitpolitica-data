@@ -1568,3 +1568,6 @@
 - **[2026-09-17 22:04 UTC]** Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 36%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-presidente-17-setembro.ghtml)_
 
+- **[2026-09-17 20:13 UTC]** Zé Trovão (PL-SC), aliado de Flávio Bolsonaro, vai ao TSE contra reajuste do Bolsa Família; Mendonça vai ser o relator
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-do-bolsa-familia-mendonca-vai-ser-o-relator.ghtml)_
+
