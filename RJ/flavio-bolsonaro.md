@@ -1511,3 +1511,6 @@
 - **[2026-09-17 09:27 UTC]** Flávio cola Lula a Moraes e foca em Nordeste
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/flavio-cola-lula-a-moraes-e-foca-em-nordeste.ghtml)_
 
+- **[2026-09-17 13:07 UTC]** Lula muda estratégia de campanha e passa a confrontar diretamente Flávio Bolsonaro: 'Quem vota em Flávio vota em Vorcaro'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/17/lula-muda-estrategia-de-campanha-e-passa-a-confrontar-diretamente-flavio-bolsonaro-quem-vota-em-flavio-vota-em-vorcaro.ghtml)_
+
