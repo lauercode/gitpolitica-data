@@ -47,3 +47,6 @@
 - **[2026-09-16 20:09 UTC]** Cadu de Lula visita assentamento em Natal e apresenta propostas para habitação
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/16/cadu-de-lula-visita-assentamento-em-natal-e-apresenta-propostas-para-habitacao.ghtml)_
 
+- **[2026-09-16 22:03 UTC]** Lula chama governadora do DF de cínica e diz que governo federal não vai dar dinheiro para o BRB
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/lula-chama-governadora-do-df-de-cinica-e-diz-que-governo-federal-nao-vai-dar-dinheiro-para-o-brb.shtml)_
+
