@@ -14,3 +14,6 @@
 - **[2026-09-16 18:42 UTC]** PF apreende quase R$ 1 milhão em espécie, dólares, euros, carros e joias em operação que mira deputado federal Adail Filho
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/16/pf-apreende-quase-r-1-milhao-em-especie-dolares-euros-carros-e-joias-em-operacao-que-mira-deputado-federal-adail-filho.ghtml)_
 
+- **[2026-09-16 22:31 UTC]** Entenda como funciona o esquema investigado pela PF que mira deputado Adail Filho e prefeito Adail Pinheiro no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/16/entenda-como-funciona-o-esquema-investigado-pela-pf-que-mira-deputado-adail-filho-e-prefeito-adail-pinheiro-no-am.ghtml)_
+
