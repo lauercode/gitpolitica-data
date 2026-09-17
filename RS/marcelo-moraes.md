@@ -2468,3 +2468,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 17:59 UTC]** Para Lula, é melhor que falem de Bolsa Família do que de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/para-lula-e-melhor-que-falem-de-bolsa-familia-do-que-de-moraes.shtml)_
 
+- **[2026-09-17 17:53 UTC]** Kassio pede à PF acesso à íntegra de diálogos de Vorcaro já entregue a Zanin, Gilmar, Moraes, Mendonça e Fux
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/kassio-pede-a-pf-acesso-a-integra-de-dialogos-de-vorcaro-ja-entregue-a-zanin-gilmar-e-moraes.shtml)_
+
