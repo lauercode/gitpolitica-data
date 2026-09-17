@@ -65,3 +65,6 @@
 - **[2026-09-15 17:38 UTC]** Em sabatina, Omar Aziz defende fim da escala 6x1 e diz que empresariado sabe que redução da jornada é necessária
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/em-sabatina-omar-aziz-defende-fim-da-escala-6x1-e-diz-que-empresariado-sabe-que-reducao-da-jornada-e-necessaria.ghtml)_
 
+- **[2026-09-17 00:56 UTC]** Eleições 2026: Omar Aziz participa de entrevista em Manaus e promete reduzir fila do SisReg
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-omar-aziz-participa-de-entrevista-em-manaus-e-promete-reduzir-fila-do-sisreg.ghtml)_
+
