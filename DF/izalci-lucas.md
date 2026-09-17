@@ -71,3 +71,6 @@
 - **[2026-09-15 00:14 UTC]** A Fazenda 18: Lucas Bissoli, ex-BBB, é confirmado no reality show
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-lucas-bissoli-ex-bbb-e-confirmado-no-reality-show.shtml)_
 
+- **[2026-09-17 18:38 UTC]** Artista maranhense Lucas Maciel apresenta novo EP inspirado no reggae e na cultura musical de São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/cultura/noticia/2026/09/17/artista-maranhense-lucas-maciel-apresenta-novo-ep-inspirado-no-reggae-e-na-cultura-musical-de-sao-luis.ghtml)_
+
