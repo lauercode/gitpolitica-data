@@ -14,3 +14,6 @@
 - **[2026-08-27 22:18 UTC]** Quaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/27/quaest-go-27-de-agosto.ghtml)_
 
+- **[2026-09-17 00:13 UTC]** Eleições 2026: Daniel Vilela promete uso de tecnologia e aumento da atuação de bombeiros no controle de queimadas
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-agenda-de-daniel-vilela-de-quarta-feira-16.ghtml)_
+
