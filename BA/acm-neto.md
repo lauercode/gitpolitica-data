@@ -23,3 +23,6 @@
 - **[2026-09-17 13:27 UTC]** Nunes Marques nega pedido da PF para realizar busca contra ACM Neto dentro de investigação sobre desvio de emendas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/nunes-marques-nega-pedido-da-pf-para-realizar-busca-contra-acm-neto-dentro-de-investigacao-sobre-desvio-de-emendas.ghtml)_
 
+- **[2026-09-17 08:06 UTC]** Kassio nega busca sobre ACM Neto em operação da PF que apura suspeita de fraude em licitação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/kassio-nega-busca-em-acm-neto-em-operacao-da-pf-sobre-fraudes-em-licitacoes.shtml)_
+
