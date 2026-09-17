@@ -1496,3 +1496,6 @@
 - **[2026-09-17 00:45 UTC]** 'De dia mostra a bandeira nacional e de noite vai ficar de quatro para os EUA', diz Lula sobre Eduardo e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/lula-critica-eduardo-e-flavio-bolsonaro-de-dia-mostra-a-bandeira-nacional-e-de-noite-vai-ficar-de-quatro-para-os-estados-unidos.ghtml)_
 
+- **[2026-09-16 23:00 UTC]** PL turbina candidatos ao Senado após Bolsonaro mirar STF e repassa quase o dobro que PT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pl-turbina-candidatos-ao-senado-apos-bolsonaro-mirar-stf-e-repassa-quase-o-dobro-que-pt.shtml)_
+
