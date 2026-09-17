@@ -14,3 +14,6 @@
 - **[2026-09-12 20:14 UTC]** Pedro Coutinho promete diálogo com municípios para impulsionar turismo na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/12/pedro-coutinho-promete-dialogo-com-municipios-para-impulsionar-turismo-na-paraiba.ghtml)_
 
+- **[2026-09-17 16:34 UTC]** Pedro Coutinho, candidato ao governo da Paraíba, diz que vai valorizar professores e fomentar cultura estadual
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/17/pedro-coutinho-candidato-ao-governo-da-paraiba-diz-que-vai-valorizar-professores-e-fomentar-cultura-estadual.ghtml)_
+
