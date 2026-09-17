@@ -2441,3 +2441,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-17 15:05 UTC]** Nunes Marques sofreu pressão em múltiplas frentes antes de se afastar do julgamento de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-sofreu-pressao-em-multiplas-frentes-antes-de-se-afastar-do-julgamento-de-moraes/)_
 
+- **[2026-09-17 14:46 UTC]** André Mendonça tem aprovação maior que Alexandre de Moraes em pesquisa do PoderData
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-tem-aprovacao-maior-que-alexandre-de-moraes-em-pesquisa-do-poderdata/)_
+
