@@ -23,3 +23,6 @@
 - **[2026-09-17 17:06 UTC]** Veja trechos da entrevista com Gal Leite, candidata ao governo do Pará pela UP
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/playlist/veja-trechos-da-entrevista-com-gal-leite-candidata-ao-governo-do-para-pela-up.ghtml)_
 
+- **[2026-09-17 16:09 UTC]** Gal Leite (UP) propõe reestatização de serviços e contratação local para habitação no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/17/gal-leite-up-propoe-reestatizacao-de-servicos-e-contratacao-local-para-habitacao-no-para.ghtml)_
+
