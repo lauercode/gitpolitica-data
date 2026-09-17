@@ -11,3 +11,6 @@
 - **[2026-09-11 17:31 UTC]** Datafolha: Michelle Bolsonaro (PL) e Leila do Vôlei (PDT) lideram disputa ao Senado pelo DF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-michelle-bolsonaro-e-leila-do-volei-lideram-disputa-ao-senado-pelo-df.shtml)_
 
+- **[2026-09-17 12:00 UTC]** Michelle Bolsonaro substitui Jair como cabo eleitoral, e candidatos fazem romaria até Brasília por vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/michelle-bolsonaro-substitui-jair-como-cabo-eleitoral-e-candidatos-fazem-romaria-ate-brasilia-por-video.shtml)_
+
