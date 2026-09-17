@@ -2420,3 +2420,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 22:23 UTC]** Em comício no Recife, Flávio Bolsonaro diz que Lula 'deve seu mandato' a Alexandre de Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/em-comicio-no-recife-flavio-bolsonaro-diz-que-lula-deve-seu-mandato-a-alexandre-de-moraes.ghtml)_
 
+- **[2026-09-16 22:03 UTC]** Entenda o que está acontecendo no STF — e os próximos passos do processo contra Moraes e Mendonça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/16/entenda-o-que-esta-acontecendo-no-stf-e-os-proximos-passos-a-partir-de-agora.ghtml)_
+
