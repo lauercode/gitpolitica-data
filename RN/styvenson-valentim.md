@@ -11,3 +11,6 @@
 - **[2026-09-16 12:41 UTC]** Candidato ao Senado, Styvenson Valentim defende transparência em fila do SUS e diz apoiar fim da escala 6x1
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/16/entrevista-candidato-senado-styvenson-valentim.ghtml)_
 
+- **[2026-09-16 12:41 UTC]** Candidato ao Senado, Styvenson Valentim defende transparência em fila do SUS e diz apoiar fim da escala 6x1; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/16/entrevista-candidato-senado-styvenson-valentim.ghtml)_
+
