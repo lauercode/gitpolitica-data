@@ -2402,3 +2402,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-16 18:47 UTC]** Por que julgamento do caso Moraes no STF pode ser retomado só em 2027
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-16 19:54 UTC]** Moraes vota para igualar tempo de licenças-maternidade e adotante
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-vota-para-igualar-tempo-de-licencas-maternidade-e-adotante)_
+
