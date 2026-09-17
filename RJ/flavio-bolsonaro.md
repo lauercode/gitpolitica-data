@@ -1559,3 +1559,6 @@
 - **[2026-09-17 15:43 UTC]** Onde Flávio Bolsonaro avançou para ultrapassar numericamente Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/onde-flavio-bolsonaro-avancou-para-ultrapassar-numericamente-lula-pesquisa-quaest/)_
 
+- **[2026-09-17 16:53 UTC]** Lula x Flávio Bolsonaro: pesquisas mostram 5 grupos de eleitores que podem definir eventual 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss)_
+
