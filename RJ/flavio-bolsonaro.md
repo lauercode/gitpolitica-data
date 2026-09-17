@@ -1571,3 +1571,6 @@
 - **[2026-09-17 20:13 UTC]** Zé Trovão (PL-SC), aliado de Flávio Bolsonaro, vai ao TSE contra reajuste do Bolsa Família; Mendonça vai ser o relator
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-do-bolsa-familia-mendonca-vai-ser-o-relator.ghtml)_
 
+- **[2026-09-17 19:15 UTC]** Datafolha: Flávio Bolsonaro e Lula são rejeitados por 47% dos eleitores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-e-lula-sao-rejeitados-por-47-dos-eleitores.shtml)_
+
