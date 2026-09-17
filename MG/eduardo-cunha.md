@@ -14,3 +14,6 @@
 - **[2026-09-16 23:12 UTC]** Justiça eleitoral rejeita recurso de Eduardo Cunha e mantém veto à candidatura
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/justica-eleitoral-rejeita-recurso-de-eduardo-cunha-e-mantem-impugnacao-a-candidatura.ghtml)_
 
+- **[2026-09-17 13:28 UTC]** Investigação da Lava Jato contra Eduardo Cunha chega às mãos de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/investigacao-da-lava-jato-contra-eduardo-cunha-chega-as-maos-de-mendonca/)_
+
