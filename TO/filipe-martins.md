@@ -35,3 +35,6 @@
 - **[2026-09-06 12:54 UTC]** Flávio visita Filipe Martins na prisão e acusa Moraes de comandar “gabinete da perseguição”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-visita-filipe-martins-na-prisao-e-acusa-moraes-de-comandar-gabinete-da-perseguicao/)_
 
+- **[2026-09-17 10:21 UTC]** Moraes cobra explicações por fiscalização de deputado à cadeia de Filipe Martins
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-cobra-explicacoes-por-fiscalizacao-de-deputado-a-cadeia-de-filipe-martins/)_
+
