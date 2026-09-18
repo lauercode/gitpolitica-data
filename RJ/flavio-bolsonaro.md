@@ -1646,3 +1646,6 @@
 - **[2026-09-18 00:31 UTC]** Em live, Flávio Bolsonaro diz que vai criar site para recrutar 'fiscais de urna'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-bolsonaro-fiscais-urna.ghtml)_
 
+- **[2026-09-18 00:01 UTC]** Datafolha: Lula e Flávio Bolsonaro vão intensificar campanha por voto útil para tentar vencer no 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-vao-intensificar-campanha-por-voto-util-para-tentar-vencer-no-1o-turno.shtml)_
+
