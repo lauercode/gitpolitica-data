@@ -1691,3 +1691,6 @@
 - **[2026-09-18 15:25 UTC]** Lula diz que Bolsonaro transformou Vorcaro de 'zé ninguém' em banqueiro e culpa ex-presidente por escândalo do Banco Master
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/18/lula-diz-que-bolsonaro-transformou-vorcaro-de-ze-ninguem-em-banqueiro-e-culpa-ex-presidente-por-escandalo-do-banco-master.ghtml)_
 
+- **[2026-09-18 16:31 UTC]** PT acionará Justiça para investigar rede no Instagram que impulsionaria Flávio contra regra do TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pt-acionara-justica-para-investigar-rede-no-instagram-que-impulsionaria-flavio-contra-regra-do-tse.shtml)_
+
