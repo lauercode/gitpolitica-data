@@ -41,3 +41,6 @@
 - **[2026-09-15 15:42 UTC]** Tarcísio promete 10 novos presídios, relativiza resultado pior na educação de SP e atribui falta d’água e acidentes a aceleração de obras
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/15/tarcisio-entrevista-sp1.ghtml)_
 
+- **[2026-09-18 22:08 UTC]** Nova pesquisa Quaest em SP mede disputa entre Tarcísio e Haddad a duas semanas da eleição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/nova-pesquisa-quaest-em-sp-mede-disputa-entre-tarcisio-e-haddad-a-duas-semanas-da-eleicao.ghtml)_
+
