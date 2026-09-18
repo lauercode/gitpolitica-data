@@ -1652,3 +1652,6 @@
 - **[2026-09-17 23:00 UTC]** Lula reclama de atuação de Flávio Dino em sessão sobre Alexandre de Moraes no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-reclama-de-atuacao-de-flavio-dino-em-sessao-sobre-alexandre-de-moraes-no-stf.shtml)_
 
+- **[2026-09-17 22:54 UTC]** Datafolha: Lula tem 39% e Flávio Bolsonaro, 29% entre jovens; veja pesquisa por segmentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-39-e-flavio-bolsonaro-29-entre-jovens-veja-pesquisa-por-segmentos.shtml)_
+
