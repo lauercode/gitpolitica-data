@@ -2486,3 +2486,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-18 12:15 UTC]** Ex-ministra do STJ diz que investigação contra Moraes vai implodir a República e pode prejudicar as eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/ex-ministra-do-stj-diz-que-investigacao-contra-moraes-vai-implodir-a-republica-e-pode-prejudicar-as-eleicoes.shtml)_
 
+- **[2026-09-18 17:29 UTC]** 'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss)_
+
