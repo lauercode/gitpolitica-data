@@ -62,3 +62,6 @@
 - **[2026-09-16 06:00 UTC]** Cleitinho é carregado nos ombros em evento por deputado investigado por fraude no INSS
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cleitinho-e-carregado-nos-ombros-em-evento-por-deputado-investigado-por-fraude-no-inss.shtml)_
 
+- **[2026-09-18 17:13 UTC]** Cleitinho declara gratidão a Euclydes Pettersen, mas diz que aliado terá que pagar se for culpado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/cleitinho-declara-gratidao-a-euclydes-pettersen-mas-diz-que-aliado-tera-que-pagar-se-for-culpado.ghtml)_
+
