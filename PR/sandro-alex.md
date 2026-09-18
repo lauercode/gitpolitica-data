@@ -89,3 +89,6 @@
 - **[2026-09-17 17:33 UTC]** Eleições 2026 no Paraná: Sandro Alex faz reunião com prefeitos do Oeste do estado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-agenda-sandro-alex-17-setembro.ghtml)_
 
+- **[2026-09-18 13:59 UTC]** Eleições 2026 no Paraná: Sandro Alex participa de encontro com lideranças em Foz do Iguaçu e carreata por quatro cidades
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-no-parana-sandro-alex-encontro-carreata.ghtml)_
+
