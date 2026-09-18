@@ -11,3 +11,6 @@
 - **[2026-09-12 20:00 UTC]** Datafolha em SP: Flávio Bolsonaro, 35%; Lula, 33%; Cury, 7%; Renan, 6%; Caiado, 4%; Samara, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/12/datafolha-sp-presidente-12-setembro.ghtml)_
 
+- **[2026-09-18 17:30 UTC]** Campanha de Lula inaugura espaço em SP e busca recrutar voluntários e mobilizar jovens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-inaugura-espaco-em-sp-e-busca-recrutar-voluntarios-e-mobilizar-jovens.shtml)_
+
