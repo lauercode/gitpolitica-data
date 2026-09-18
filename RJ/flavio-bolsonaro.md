@@ -1628,3 +1628,6 @@
 - **[2026-09-17 19:57 UTC]** Flávio Bolsonaro diz que governo Lula aumenta Bolsa Família por desespero
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml)_
 
+- **[2026-09-17 19:55 UTC]** Bolsonaro também ampliou benefícios em ano eleitoral; STF invalidou parte da medida em 2024
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bolsonaro-tambem-ampliou-beneficios-em-ano-eleitoral-stf-invalidou-parte-da-medida-em-2024.shtml)_
+
