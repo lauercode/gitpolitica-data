@@ -1661,3 +1661,6 @@
 - **[2026-09-17 19:57 UTC]** Flávio Bolsonaro diz que Lula aumenta Bolsa Família por desespero e quer comprar voto dos pobres
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml)_
 
+- **[2026-09-18 01:11 UTC]** 'Não quero ser comparado com o Flávio porque ele não é ninguém, quero ser comparado ao pai dele', diz Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/nao-quero-ser-comparado-com-o-flavio-porque-ele-nao-e-ninguem-quero-ser-comparado-ao-pai-dele-diz-lula.ghtml)_
+
