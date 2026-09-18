@@ -1706,3 +1706,6 @@
 - **[2026-09-18 22:30 UTC]** Nova pesquisa Quaest no CE mede 'temor político' entre mais um mandato de Lula e volta dos Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/nova-pesquisa-quaest-no-ce-mede-temor-politico-entre-mais-um-mandato-de-lula-e-volta-dos-bolsonaro.ghtml)_
 
+- **[2026-09-18 22:29 UTC]** Tebet critica Flávio Bolsonaro e Derrite em comício
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/tebet-critica-flavio-bolsonaro-e-derrite-em-comicio.ghtml)_
+
