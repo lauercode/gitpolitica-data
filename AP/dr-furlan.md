@@ -86,3 +86,6 @@
 - **[2026-09-18 18:46 UTC]** Dr. Furlan diz que meta é buscar parcerias para pavimentar a BR-156
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/18/dr-furlan-diz-que-meta-e-buscar-parcerias-para-pavimentar-a-br-156.ghtml)_
 
+- **[2026-09-18 21:26 UTC]** Dr. Furlan participa de bandeirada e reuniões em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/18/dr-furlan-participa-de-bandeirada-e-reunioes-em-macapa.ghtml)_
+
