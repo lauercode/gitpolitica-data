@@ -218,3 +218,6 @@
 - **[2026-09-16 18:25 UTC]** Alcolumbre se torna alvo de campanhas eleitorais em meio a julgamento de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alcolumbre-alvo-campanhas-eleitorais/)_
 
+- **[2026-09-17 23:00 UTC]** Alcolumbre usa poder em Brasília para tentar evitar derrota política no Amapá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-usa-poder-em-brasilia-para-tentar-evitar-derrota-politica-no-amapa.shtml)_
+
