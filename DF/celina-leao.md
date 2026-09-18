@@ -23,3 +23,6 @@
 - **[2026-09-18 12:16 UTC]** Celina Leão acusa Lula de “crime” por falas sobre o BRB e promete acionar a CVM
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/candidata-a-reeleicao-no-df-celina-leao-participa-de-sabatina-do-valor-o-globo-e-cbn-acompanhe.ghtml)_
 
+- **[2026-09-18 12:16 UTC]** Celina Leão diz que Lula cometeu “crime” contra o BRB e promete acionar a CVM
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/candidata-a-reeleicao-no-df-celina-leao-participa-de-sabatina-do-valor-o-globo-e-cbn-acompanhe.ghtml)_
+
