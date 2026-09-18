@@ -29,3 +29,6 @@
 - **[2026-09-11 15:12 UTC]** Filme brasileiro 'London' vence o prêmio Leão Queer no Festival de Veneza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/filme-brasileiro-london-vence-o-premio-leao-queer-no-festival-de-veneza.shtml)_
 
+- **[2026-09-18 14:11 UTC]** Leão Serva lança livro sobre guerras, política e redes sociais em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/leao-serva-lanca-livro-sobre-guerras-politica-e-redes-sociais-em-sp.shtml)_
+
