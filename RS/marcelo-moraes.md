@@ -2483,3 +2483,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-18 15:08 UTC]** EUA e soberania voltam a ser tema de campanha de Lula; Eduardo Bolsonaro trabalha por novas sanções contra Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/18/eua-e-soberania-voltam-a-ser-tema-de-campanha-de-lula-eduardo-bolsonaro-trabalha-por-novas-sancoes-contra-moraes.ghtml)_
 
+- **[2026-09-18 12:15 UTC]** Ex-ministra do STJ diz que investigação contra Moraes vai implodir a República e pode prejudicar as eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/ex-ministra-do-stj-diz-que-investigacao-contra-moraes-vai-implodir-a-republica-e-pode-prejudicar-as-eleicoes.shtml)_
+
