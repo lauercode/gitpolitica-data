@@ -1688,3 +1688,6 @@
 - **[2026-09-18 16:00 UTC]** Lula foi contra reajuste do “Auxílio Brasil” de Bolsonaro meses antes da eleição de 2022
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-contra-reajuste-auxilio-brasil-bolsonaro-2022/)_
 
+- **[2026-09-18 15:25 UTC]** Lula diz que Bolsonaro transformou Vorcaro de 'zé ninguém' em banqueiro e culpa ex-presidente por escândalo do Banco Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/18/lula-diz-que-bolsonaro-transformou-vorcaro-de-ze-ninguem-em-banqueiro-e-culpa-ex-presidente-por-escandalo-do-banco-master.ghtml)_
+
