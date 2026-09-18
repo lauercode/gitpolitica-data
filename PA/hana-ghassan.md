@@ -38,3 +38,6 @@
 - **[2026-09-18 14:47 UTC]** Em instantes: Entrevista AO VIVO com Hana Ghassan, candidata ao governo do Pará pelo MDB
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-para-no-jl1.ghtml)_
 
+- **[2026-09-18 15:35 UTC]** Veja trechos da entrevista com Hana Ghassan, candidata ao governo do Pará pelo MDB
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/playlist/veja-trechos-da-entrevista-com-hana-ghassan-candidata-ao-governo-do-para-pelo-mdb.ghtml)_
+
