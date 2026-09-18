@@ -1667,3 +1667,6 @@
 - **[2026-09-18 07:15 UTC]** Flávio Bolsonaro propõe enxugar Estado e endurecer ações de segurança
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-bolsonaro-propoe-enxugar-estado-e-endurecer-acoes-de-seguranca)_
 
+- **[2026-09-18 10:42 UTC]** Flávio Bolsonaro anuncia recrutamento para fiscalizar urnas eletrônicas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-anuncia-recrutamento-para-fiscalizar-urnas-eletronicas/)_
+
