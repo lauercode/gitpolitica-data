@@ -1601,3 +1601,6 @@
 - **[2026-09-17 20:20 UTC]** Análise: Uso de precedente de Bolsonaro no reajuste do BF não é justificativa, mas alerta
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/analise-uso-de-precedente-de-bolsonaro-no-reajuste-do-bf-nao-e-justificativa-mas-alerta.ghtml)_
 
+- **[2026-09-18 00:31 UTC]** Flávio Bolsonaro diz que vai recrutar 'fiscais de urna' para evitar que 'pessoas mal-intencionadas votem no lugar de outras'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-bolsonaro-fiscais-urna.ghtml)_
+
