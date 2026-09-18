@@ -17,3 +17,6 @@
 - **[2026-09-15 12:00 UTC]** Fábio Faria agrava crise no SBT, mas Patricia Abravanel é quem vira alvo nas redes sociais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/09/fabio-faria-agrava-crise-no-sbt-mas-patricia-abravanel-e-quem-vira-alvo-nas-redes-sociais.shtml)_
 
+- **[2026-09-18 10:03 UTC]** Fábio Faria processa Rodrigo Bocardi por acusação sobre Banco Master em saída do SBT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/fabio-faria-processa-rodrigo-bocardi-por-acusacao-sobre-banco-master-em-saida-do-sbt.shtml)_
+
