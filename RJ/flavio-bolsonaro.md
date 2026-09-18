@@ -1643,3 +1643,6 @@
 - **[2026-09-18 03:00 UTC]** Entenda se o governo pode reajustar benefício social em ano eleitoral e diferenças de aumentos de Lula e Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/entenda-se-o-governo-pode-reajustar-beneficio-social-em-ano-eleitoral-e-diferencas-de-aumentos-de-lula-e-bolsonaro.ghtml)_
 
+- **[2026-09-18 00:31 UTC]** Em live, Flávio Bolsonaro diz que vai criar site para recrutar 'fiscais de urna'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-bolsonaro-fiscais-urna.ghtml)_
+
