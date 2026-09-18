@@ -1700,3 +1700,6 @@
 - **[2026-09-18 22:16 UTC]** Datafolha: 38% dizem que crise no STF prejudica Lula e 31% afirmam que prejudica Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-crise-no-stf-e-campanha-eleitoral.ghtml)_
 
+- **[2026-09-18 19:19 UTC]** Datafolha: 38% citam Lula como prejudicado por crise no STF, e 31% apontam Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-38-citam-lula-como-prejudicado-por-crise-no-stf-e-31-apontam-flavio-bolsonaro.shtml)_
+
