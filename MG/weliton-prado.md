@@ -32,3 +32,6 @@
 - **[2026-09-11 17:20 UTC]** Datafolha: Marina, Tebet, André do Prado e Derrite empatam na disputa pelo Senado em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-marina-tebet-andre-do-prado-e-derrite-empatam-na-disputa-pelo-senado-em-sp.shtml)_
 
+- **[2026-09-17 23:00 UTC]** Candidato ao Senado pelo PL, Prado elogiou Milton Leite e disse que ele é exemplo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidato-ao-senado-pelo-pl-prado-elogiou-milton-leite-e-disse-que-ele-e-exemplo.shtml)_
+
