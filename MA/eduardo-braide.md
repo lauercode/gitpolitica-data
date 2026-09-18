@@ -23,3 +23,6 @@
 - **[2026-09-18 14:49 UTC]** Eduardo Braide é entrevistado no JM1; assista
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-maranhao-no-jm1.ghtml)_
 
+- **[2026-09-18 17:42 UTC]** Eduardo Braide destaca atuação no Hospital da Criança, propõe reduzir ICMS e extinguir secretarias no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/18/eduardo-braide-destaca-atuacao-no-hospital-da-crianca-propoe-reduzir-icms-e-extinguir-secretarias-no-ma.ghtml)_
+
