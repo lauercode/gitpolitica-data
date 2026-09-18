@@ -1676,3 +1676,6 @@
 - **[2026-09-18 08:00 UTC]** É #FAKE áudio de Flávio Dino dizendo que objetivo do governo federal é 'arruinar economia'
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/18/e-fake-audio-de-flavio-dino-dizendo-que-objetivo-do-governo-federal-e-arruinar-economia.ghtml)_
 
+- **[2026-09-18 11:43 UTC]** Lula diz que crise na STF respinga na eleição e culpa Bolsonaro pelo caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-crise-na-stf-respinga-na-eleicao-e-culpa-bolsonaro-pelo-caso-master.shtml)_
+
