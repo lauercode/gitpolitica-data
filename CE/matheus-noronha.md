@@ -131,3 +131,6 @@
 - **[2026-09-18 09:00 UTC]** Cantor do TO leva 57 convidados para casamento paradisíaco à beira-mar em Fernando de Noronha com show famoso; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/18/cantor-do-to-leva-57-convidados-para-casamento-paradisiaco-a-beira-mar-em-fernando-de-noronha-com-show-famoso-video.ghtml)_
 
+- **[2026-09-18 09:00 UTC]** Cantor e dentista impressionam a web com casamento paradisíaco em Fernando de Noronha; veja detalhes
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/18/cantor-do-to-leva-57-convidados-para-casamento-paradisiaco-a-beira-mar-em-fernando-de-noronha-com-show-famoso-video.ghtml)_
+
