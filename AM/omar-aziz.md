@@ -68,3 +68,6 @@
 - **[2026-09-17 00:56 UTC]** Eleições 2026: Omar Aziz participa de entrevista em Manaus e promete reduzir fila do SisReg
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-omar-aziz-participa-de-entrevista-em-manaus-e-promete-reduzir-fila-do-sisreg.ghtml)_
 
+- **[2026-09-17 22:57 UTC]** Eleições 2026: Omar Aziz participa de sabatina e afirma que vai construir sete hospitais no interior do estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-omar-aziz-participa-de-sabatina-e-afirma-que-vai-construir-sete-hospitais-no-interior-do-estado.ghtml)_
+
