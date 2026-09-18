@@ -1658,3 +1658,6 @@
 - **[2026-09-17 22:00 UTC]** 'Bolsonaro fez a mesma coisa; é o jogo das eleições', diz leitor sobre reajuste do Bolsa Família
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/bolsonaro-fez-a-mesma-coisa-e-o-jogo-das-eleicoes-diz-leitor-sobre-reajuste-do-bolsa-familia.shtml)_
 
+- **[2026-09-17 19:57 UTC]** Flávio Bolsonaro diz que Lula aumenta Bolsa Família por desespero e quer comprar voto dos pobres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml)_
+
