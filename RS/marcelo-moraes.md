@@ -2477,3 +2477,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-18 00:52 UTC]** Novo pede que Moraes seja impedido de votar em processo no qual é alvo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-pede-que-moraes-seja-impedido-de-votar-em-processo-no-qual-e-alvo/)_
 
+- **[2026-09-18 00:50 UTC]** Moraes lançará STF em crise inédita se assumir presidência sem esclarecer acusações
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-stf-crise-inedita-presidencia-esclarecer-acusacoes/)_
+
