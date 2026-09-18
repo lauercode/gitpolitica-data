@@ -281,3 +281,6 @@
 - **[2026-09-18 09:37 UTC]** Renan Santos pede que TSE suspenda reajuste do Bolsa Família assinado por Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/renan-santos-pede-que-tse-suspenda-reajuste-do-bolsa-familia-assinado-por-lula.shtml)_
 
+- **[2026-09-18 13:54 UTC]** Renan Santos e Caiado cancelam participação em debate do “Inteligência Ltda”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-e-caiado-cancelam-participacao-em-debate-do-inteligencia-ltda/)_
+
