@@ -17,3 +17,6 @@
 - **[2018-07-14 16:09 UTC]** Presidente do STF dá 30 dias para que investigação sobre Aécio seja concluída
   _fonte: [G1 - Regiões: Minas Gerais](https://g1.globo.com/politica/operacao-lava-jato/noticia/presidente-do-stf-da-30-dias-para-que-investigacao-sobre-aecio-seja-concluida.ghtml)_
 
+- **[2026-09-18 07:30 UTC]** Fim da escala 6x1 e de privatizações são prioridades de Hertz Dias
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/fim-da-escala-6x1-e-de-privatizacoes-sao-prioridades-de-hertz-dias)_
+
