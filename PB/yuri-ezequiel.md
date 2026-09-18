@@ -14,3 +14,6 @@
 - **[2026-09-12 19:46 UTC]** Yuri Ezequiel propõe estímulo ao desenvolvimento industrial a partir de empresas públicas e mudança na política de isenção fiscal na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/12/yuri-ezequiel-propoe-estimulo-ao-desenvolvimento-industrial-a-partir-de-empresas-publicas-e-mudanca-na-politica-de-isencao-fiscal-na-paraiba.ghtml)_
 
+- **[2026-09-18 16:31 UTC]** Yuri Ezequiel, candidato ao governo da Paraíba, defende maior presença pública no turismo e melhora no atendimento básico da saúde
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/yuri-ezequiel-candidato-governo-da-paraiba-maior-presenca-publica-turismo-atendimento-basico-saude.ghtml)_
+
