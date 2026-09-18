@@ -20,3 +20,6 @@
 - **[2026-09-18 10:00 UTC]** Eduardo Braide participa de entrevista do JMTV1 nesta sexta-feira; saiba como assistir
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/18/eduardo-braide-participa-de-entrevista-do-jmtv1-nesta-sexta-feira-saiba-como-assistir.ghtml)_
 
+- **[2026-09-18 14:49 UTC]** Eduardo Braide é entrevistado no JM1; assista
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-maranhao-no-jm1.ghtml)_
+
