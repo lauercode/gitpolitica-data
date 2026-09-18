@@ -1634,3 +1634,6 @@
 - **[2026-09-17 19:49 UTC]** Datafolha: Lula tem 53% entre beneficiários do Bolsa Família, e Flávio Bolsonaro, 28%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-53-entre-beneficiarios-do-bolsa-familia-e-flavio-bolsonaro-28.shtml)_
 
+- **[2026-09-18 00:27 UTC]** Na TV, Lula mostra Flávio investigado e senador diz que petista colocou brasileiro 'na mira do crime'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/na-tv-lula-mostra-flavio-investigado-e-senador-diz-que-petista-colocou-brasileiro-na-mira-do-crime.ghtml)_
+
