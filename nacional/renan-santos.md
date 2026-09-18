@@ -275,3 +275,6 @@
 - **[2026-09-18 02:15 UTC]** Renan Santos entra com ação no TSE contra reajuste no Bolsa Família anunciado por Lula
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/17/renan-santos-entra-com-ao-no-tse-contra-reajuste-no-bolsa-famlia-anunciado-por-lula.ghtml)_
 
+- **[2026-09-18 08:00 UTC]** Equipe de Renan Santos quer Previdência com gatilho de idade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/equipe-de-renan-santos-quer-previdencia-com-gatilho-de-idade.ghtml)_
+
