@@ -68,3 +68,6 @@
 - **[2026-09-18 08:00 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de Pernambuco no NE1
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/18/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-pernambuco-no-ne1.ghtml)_
 
+- **[2026-09-18 18:12 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo do Distrito Federal no DF1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/18/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-do-distrito-federal-no-df1.ghtml)_
+
