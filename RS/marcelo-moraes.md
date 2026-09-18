@@ -2480,3 +2480,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-18 00:50 UTC]** Moraes lançará STF em crise inédita se assumir presidência sem esclarecer acusações
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-stf-crise-inedita-presidencia-esclarecer-acusacoes/)_
 
+- **[2026-09-18 15:08 UTC]** EUA e soberania voltam a ser tema de campanha de Lula; Eduardo Bolsonaro trabalha por novas sanções contra Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/18/eua-e-soberania-voltam-a-ser-tema-de-campanha-de-lula-eduardo-bolsonaro-trabalha-por-novas-sancoes-contra-moraes.ghtml)_
+
