@@ -14,3 +14,6 @@
 - **[2026-09-04 15:43 UTC]** Quaest no Ceará: 49% aprovam e 38% desaprovam governo de Elmano de Freitas
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-avaliacao-governo-4-setembro.ghtml)_
 
+- **[2026-09-18 16:47 UTC]** Datafolha: Ciro Gomes tem 47% e Elmano de Freitas, 40%, no Ceará
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-ciro-gomes-tem-47-e-elmano-de-freitas-40-no-ceara.shtml)_
+
