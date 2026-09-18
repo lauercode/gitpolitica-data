@@ -65,3 +65,6 @@
 - **[2026-09-17 22:19 UTC]** Eleições 2026 em SC: João Rodrigues  participa de evento com empresários
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-em-sc-joao-rodrigues-participa-de-evento-com-empresarios.ghtml)_
 
+- **[2026-09-18 22:27 UTC]** Eleições 2026 em SC: João Rodrigues reúne com integrantes da Fiesc e firma compromisso de não aumentar impostos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-em-sc-joao-rodrigues-reune-com-integrantes-da-fiesc-e-firma-compromisso-de-nao-aumentar-impostos.ghtml)_
+
