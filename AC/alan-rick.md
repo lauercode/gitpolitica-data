@@ -29,3 +29,6 @@
 - **[2026-09-16 22:17 UTC]** Alan Rick promete saúde regionalizada, investimentos privados no saneamento e regularização fundiária
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/16/alan-rick-promete-saude-regionalizada-investimentos-privados-no-saneamento-e-regularizacao-fundiaria.ghtml)_
 
+- **[2026-09-18 15:15 UTC]** Alan Rick propõe parcerias com prefeituras para tornar mercados mais atrativos no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/18/alan-rick-propoe-parcerias-com-prefeituras-para-tornar-mercados-mais-atrativos-no-acre.ghtml)_
+
