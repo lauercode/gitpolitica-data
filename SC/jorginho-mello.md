@@ -62,3 +62,6 @@
 - **[2026-09-16 22:25 UTC]** Eleições 2026 em SC: Jorginho Mello participa de reunião com lideranças femininas do partido
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-em-sc-jorginho-mello-participa-de-reuniao-com-liderancas-femininas-do-partido.ghtml)_
 
+- **[2026-09-17 22:19 UTC]** Eleições 2026 em SC: Jorginho Mello reúne com lideranças empresariais e representantes do agronegócio
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-em-sc-jorginho-mello-reune-com-liderancas-empresariais-e-representantes-do-agronegocio.ghtml)_
+
