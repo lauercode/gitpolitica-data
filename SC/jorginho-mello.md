@@ -65,3 +65,6 @@
 - **[2026-09-17 22:19 UTC]** Eleições 2026 em SC: Jorginho Mello reúne com lideranças empresariais e representantes do agronegócio
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-em-sc-jorginho-mello-reune-com-liderancas-empresariais-e-representantes-do-agronegocio.ghtml)_
 
+- **[2026-09-18 22:24 UTC]** Eleições 2026 em SC: Jorginho Mello reúne com integrantes da Fiesc e firma compromisso de não aumentar impostos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-em-sc-jorginho-mello-reune-com-integrantes-da-fiesc-e-firma-compromisso-de-nao-aumentar-impostos.ghtml)_
+
