@@ -128,3 +128,6 @@
 - **[2026-09-11 18:19 UTC]** Operação mira quadrilha que fraudava sites de hotéis para aplicar golpes em Fernando de Noronha
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pe/pernambuco/noticia/2026/09/11/operacao-antillia-fernando-de-noronha.ghtml)_
 
+- **[2026-09-18 09:00 UTC]** Cantor do TO leva 57 convidados para casamento paradisíaco à beira-mar em Fernando de Noronha com show famoso; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/18/cantor-do-to-leva-57-convidados-para-casamento-paradisiaco-a-beira-mar-em-fernando-de-noronha-com-show-famoso-video.ghtml)_
+
