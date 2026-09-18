@@ -23,3 +23,6 @@
 - **[2026-09-11 20:34 UTC]** Datafolha: Raquel Lyra tem 47% das e João Campos, 42% na disputa ao governo de Pernambuco
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/datafolha-raquel-lyra-tem-47percent-das-e-joao-campos-42percent-na-disputa-ao-governo-de-pernambuco.ghtml)_
 
+- **[2026-09-18 14:19 UTC]** Lula vai a Pernambuco para ampliar vantagem no Nordeste e impulsionar João Campos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-vai-a-pernambuco-para-ampliar-vantagem-no-nordeste-e-impulsionar-joao-campos.shtml)_
+
