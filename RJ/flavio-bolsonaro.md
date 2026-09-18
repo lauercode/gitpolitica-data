@@ -1673,3 +1673,6 @@
 - **[2026-09-18 13:33 UTC]** Lula diz que Flávio tem ligação com milicianos e que Master virou banco no governo Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/lula-diz-que-flavio-tem-ligacao-com-milicianos-e-que-master-virou-banco-no-governo-bolsonaro.ghtml)_
 
+- **[2026-09-18 08:00 UTC]** É #FAKE áudio de Flávio Dino dizendo que objetivo do governo federal é 'arruinar economia'
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/18/e-fake-audio-de-flavio-dino-dizendo-que-objetivo-do-governo-federal-e-arruinar-economia.ghtml)_
+
