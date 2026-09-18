@@ -71,3 +71,6 @@
 - **[2026-09-16 15:30 UTC]** Criadoras de 'Vermelho Sangue' celebram poder feminino na série: 'Pusemos a mulher no centro'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/criadoras-de-vermelho-sangue-celebram-poder-feminino-na-serie-pusemos-a-mulher-no-centro.shtml)_
 
+- **[2026-09-18 09:05 UTC]** Leticia Vieira e Pedro Alves vão a estreia de 'Vermelho Sangue' em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/leticia-vieira-e-pedro-alves-vao-a-estreia-de-vermelho-sangue-em-sp.shtml)_
+
