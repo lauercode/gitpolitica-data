@@ -20,3 +20,6 @@
 - **[2026-09-11 21:02 UTC]** Bancada Feminista do PSOL pede na Justiça que Meta exclua perfis associados aos 'red pill'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/bancada-feminista-do-psol-pede-na-justica-que-meta-exclua-perfis-associados-aos-red-pill.shtml)_
 
+- **[2026-09-17 19:27 UTC]** Tarcísio aciona Justiça contra críticas de candidatos do PSOL nas redes sociais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/tarcisio-aciona-justica-contra-criticas-de-candidatos-do-psol-nas-redes-sociais.shtml)_
+
