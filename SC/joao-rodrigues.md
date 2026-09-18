@@ -62,3 +62,6 @@
 - **[2026-09-16 22:25 UTC]** Eleições 2026 em SC: João Rodrigues visita hospital e cumprimenta trabalhadores
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-em-sc-joao-rodrigues-visita-hospital-e-cumprimenta-trabalhadores.ghtml)_
 
+- **[2026-09-17 22:19 UTC]** Eleições 2026 em SC: João Rodrigues  participa de evento com empresários
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-em-sc-joao-rodrigues-participa-de-evento-com-empresarios.ghtml)_
+
