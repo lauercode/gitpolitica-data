@@ -1640,3 +1640,6 @@
 - **[2026-09-17 22:08 UTC]** Lula e Flávio têm empate técnico no 1º e 2º turnos a 17 dias da eleição, diz Datafolha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/datafolha-lula-tem-46percent-e-flavio-44percent-no-segundo-turno.ghtml)_
 
+- **[2026-09-18 03:00 UTC]** Entenda se o governo pode reajustar benefício social em ano eleitoral e diferenças de aumentos de Lula e Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/entenda-se-o-governo-pode-reajustar-beneficio-social-em-ano-eleitoral-e-diferencas-de-aumentos-de-lula-e-bolsonaro.ghtml)_
+
