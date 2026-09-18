@@ -1622,3 +1622,6 @@
 - **[2026-09-17 20:54 UTC]** Flávio Bolsonaro repete Jair e diz que vai recrutar apoiadores para fiscalizar urnas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-repete-jair-e-diz-que-vai-recrutar-apoiadores-para-fiscalizar-urnas.shtml)_
 
+- **[2026-09-17 19:57 UTC]** Campanha de Flávio Bolsonaro mantém liderança em doações eleitorais e recebe 17% mais que Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-bolsonaro-mantem-lideranca-em-doacoes-eleitorais-e-recebe-17-mais-que-lula.shtml)_
+
