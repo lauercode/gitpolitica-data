@@ -26,3 +26,6 @@
 - **[2026-09-15 12:05 UTC]** Candidata ao Senado, Samanda de Lula fala em combate ao feminicídio e enfrentamento às bets; veja entrevista
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/15/entrevista-senado-rn-samanda-de-lula.ghtml)_
 
+- **[2026-09-18 00:27 UTC]** Na TV, Lula mostra Flávio investigado e senador diz que petista colocou brasileiro 'na mira do crime'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/na-tv-lula-mostra-flavio-investigado-e-senador-diz-que-petista-colocou-brasileiro-na-mira-do-crime.ghtml)_
+
