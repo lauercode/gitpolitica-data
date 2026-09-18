@@ -41,3 +41,6 @@
 - **[2026-09-14 15:50 UTC]** Efraim Filho, candidato ao governo da Paraíba, promete concurso para PM e redução do ICMS
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/14/efraim-filho-candidato-governo-paraiba-promete-concurso-da-pm-e-reducao-do-icms.ghtml)_
 
+- **[2026-09-18 21:44 UTC]** Efraim Filho defende redução de impostos e implementação da lei de liberdade econômica na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/efraim-filho-defende-reducao-de-impostos-e-implementacao-da-lei-de-liberdade-economica-na-paraiba.ghtml)_
+
