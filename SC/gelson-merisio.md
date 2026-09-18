@@ -17,3 +17,6 @@
 - **[2026-09-18 16:37 UTC]** Entrevista na NSC: Gelson Merísio prevê convocação de policiais da reserva para suprir déficit de efetivo e propõe incentivos fiscais específicos por regiões do estado
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/18/entrevista-na-nsc-gelson-merisio.ghtml)_
 
+- **[2026-09-18 18:23 UTC]** Gelson Merísio (PSB) é entrevistado no Jornal do Almoço; VEJA TRECHOS
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/playlist/gelson-merisio-psb-e-entrevistado-no-jornal-do-almoco-veja-trechos.ghtml)_
+
