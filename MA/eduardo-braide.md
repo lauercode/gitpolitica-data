@@ -17,3 +17,6 @@
 - **[2026-09-18 01:32 UTC]** Eduardo Braide propõe ampliar investimentos em saneamento básico no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/17/eduardo-braide-propoe-ampliar-investimentos-em-saneamento-basico-no-maranhao.ghtml)_
 
+- **[2026-09-18 10:00 UTC]** Eduardo Braide participa de entrevista do JMTV1 nesta sexta-feira; saiba como assistir
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/18/eduardo-braide-participa-de-entrevista-do-jmtv1-nesta-sexta-feira-saiba-como-assistir.ghtml)_
+
