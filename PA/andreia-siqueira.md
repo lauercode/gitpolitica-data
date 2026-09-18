@@ -14,3 +14,6 @@
 - **[2026-09-10 17:15 UTC]** Plano de governo: Siqueira Campos Jr. propõe criar condições para o desenvolvimento regional
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/10/plano-de-governo-siqueira-campos-jr-propoe-criar-condicoes-para-o-desenvolvimento-regional.ghtml)_
 
+- **[2026-09-18 21:12 UTC]** Siqueira Campos Júnior promete criar programa para educação e esporte e reforçar a segurança
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/18/siqueira-campos-junior-promete-criar-programa-para-educacao-e-esporte-e-reforcar-a-seguranca.ghtml)_
+
