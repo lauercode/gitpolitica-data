@@ -47,3 +47,6 @@
 - **[2026-09-15 15:42 UTC]** Cícero Lucena, candidato ao governo da Paraíba, diz que vai revogar PPP da Cagepa e descentralizar serviços de saúde
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/15/cicero-lucena-candidato-ao-governo-da-paraiba-diz-que-vai-revogar-ppp-da-cagepa-e-descentralizar-servicos-de-saude.ghtml)_
 
+- **[2026-09-18 21:41 UTC]** Cícero Lucena promete aumento de efetivo policial e mais tecnologia para forças de segurança pública na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/cicero-lucena-promete-aumento-de-contingente-e-maior-tecnologia-para-forcas-de-seguranca-publica-na-paraiba.ghtml)_
+
