@@ -80,3 +80,6 @@
 - **[2026-09-17 20:41 UTC]** Julgamento que pode levar à inelegibilidade de Dr. Furlan é adiado no TSE
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/17/julgamento-que-pode-levar-a-inelegibilidade-de-dr-furlan-e-adiado-no-tse.ghtml)_
 
+- **[2026-09-17 23:01 UTC]** Dr. Furlan concede entrevistas e participa de reuniões em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/17/dr-furlan-concede-entrevistas-e-participa-de-reunioes-em-macapa.ghtml)_
+
