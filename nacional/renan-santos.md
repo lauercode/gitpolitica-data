@@ -272,3 +272,6 @@
 - **[2026-09-18 00:38 UTC]** Renan Santos aciona TSE contra reajuste do Bolsa Família
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/renan-santos-aciona-tse-contra-reajuste-do-bolsa-familia.ghtml)_
 
+- **[2026-09-18 02:15 UTC]** Renan Santos entra com ação no TSE contra reajuste no Bolsa Família anunciado por Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/17/renan-santos-entra-com-ao-no-tse-contra-reajuste-no-bolsa-famlia-anunciado-por-lula.ghtml)_
+
