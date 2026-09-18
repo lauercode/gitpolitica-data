@@ -1655,3 +1655,6 @@
 - **[2026-09-17 22:54 UTC]** Datafolha: Lula tem 39% e Flávio Bolsonaro, 29% entre jovens; veja pesquisa por segmentos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-39-e-flavio-bolsonaro-29-entre-jovens-veja-pesquisa-por-segmentos.shtml)_
 
+- **[2026-09-17 22:00 UTC]** 'Bolsonaro fez a mesma coisa; é o jogo das eleições', diz leitor sobre reajuste do Bolsa Família
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/bolsonaro-fez-a-mesma-coisa-e-o-jogo-das-eleicoes-diz-leitor-sobre-reajuste-do-bolsa-familia.shtml)_
+
