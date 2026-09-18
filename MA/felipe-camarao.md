@@ -20,3 +20,6 @@
 - **[2026-09-15 23:57 UTC]** Felipe Camarão propõe melhorar arrecadação tributária e reduzir gastos públicos no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/15/felipe-camarao-propoe-melhorar-arrecadacao-tributaria-e-reduzir-gastos-publicos-no-maranhao.ghtml)_
 
+- **[2026-09-18 01:57 UTC]** Felipe Camarão defende fortalecimento da Caema e investimentos em saneamento básico
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/17/felipe-camarao-defende-fortalecimento-da-caema-e-investimentos-em-saneamento-basico.ghtml)_
+
