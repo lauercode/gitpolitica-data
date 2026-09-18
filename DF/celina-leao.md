@@ -20,3 +20,6 @@
 - **[2026-09-16 12:45 UTC]** Em sabatina, Arruda ataca gestão de Celina Leão e prega corte de gastos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/candidato-ao-governo-do-df-jose-roberto-arruda-participa-de-sabatina-do-valor-o-globo-e-cbn-acompanhe.ghtml)_
 
+- **[2026-09-18 12:16 UTC]** Celina Leão acusa Lula de “crime” por falas sobre o BRB e promete acionar a CVM
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/candidata-a-reeleicao-no-df-celina-leao-participa-de-sabatina-do-valor-o-globo-e-cbn-acompanhe.ghtml)_
+
