@@ -1664,3 +1664,6 @@
 - **[2026-09-18 01:11 UTC]** 'Não quero ser comparado com o Flávio porque ele não é ninguém, quero ser comparado ao pai dele', diz Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/nao-quero-ser-comparado-com-o-flavio-porque-ele-nao-e-ninguem-quero-ser-comparado-ao-pai-dele-diz-lula.ghtml)_
 
+- **[2026-09-18 07:15 UTC]** Flávio Bolsonaro propõe enxugar Estado e endurecer ações de segurança
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-bolsonaro-propoe-enxugar-estado-e-endurecer-acoes-de-seguranca)_
+
