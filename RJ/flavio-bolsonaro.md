@@ -1610,3 +1610,6 @@
 - **[2026-09-17 23:22 UTC]** Datafolha: Lula tem 53% entre eleitores que recebem Bolsa Família, e Flávio Bolsonaro, 28%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/datafolha-bolsa-familia.ghtml)_
 
+- **[2026-09-17 22:44 UTC]** Datafolha aponta empate triplo entre Lula e Flávio Bolsonaro; entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-17-setembro-lula-flavio-bolsonaro-1-turno-2-turno-rejeicao.ghtml)_
+
