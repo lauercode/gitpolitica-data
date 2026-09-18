@@ -1703,3 +1703,6 @@
 - **[2026-09-18 19:19 UTC]** Datafolha: 38% citam Lula como prejudicado por crise no STF, e 31% apontam Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-38-citam-lula-como-prejudicado-por-crise-no-stf-e-31-apontam-flavio-bolsonaro.shtml)_
 
+- **[2026-09-18 22:30 UTC]** Nova pesquisa Quaest no CE mede 'temor político' entre mais um mandato de Lula e volta dos Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/nova-pesquisa-quaest-no-ce-mede-temor-politico-entre-mais-um-mandato-de-lula-e-volta-dos-bolsonaro.ghtml)_
+
