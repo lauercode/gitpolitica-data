@@ -1682,3 +1682,6 @@
 - **[2026-09-18 13:39 UTC]** Bolsonaro foi terrorista ao tentar dar golpe, diz Lula em crítica a Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/bolsonaro-foi-terrorista-ao-tentar-dar-golpe-diz-lula-em-critica-a-trump.shtml)_
 
+- **[2026-09-18 11:43 UTC]** Lula diz que crise no STF respinga na eleição e culpa Bolsonaro pelo caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-crise-na-stf-respinga-na-eleicao-e-culpa-bolsonaro-pelo-caso-master.shtml)_
+
