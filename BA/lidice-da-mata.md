@@ -140,3 +140,6 @@
 - **[2026-09-17 08:02 UTC]** Festival Tempero Bahia leva sabores da Mata Atlântica às mesas
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/festival-tempero-bahia-leva-sabores-da-mata-atlantica-mesas)_
 
+- **[2026-09-18 09:16 UTC]** Vanessa da Mata, Mombojó e mais: 'Qual a Boa?' do fim de semana, 18, 19 e 20 de setembro, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/musica/noticia/2026/09/18/vanessa-da-mata-mombojo-e-mais-qual-a-boa-do-fim-de-semana-18-19-e-20-de-setembro-na-pb.ghtml)_
+
