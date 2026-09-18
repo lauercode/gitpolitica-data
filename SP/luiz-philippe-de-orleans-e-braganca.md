@@ -17,3 +17,6 @@
 - **[2026-09-14 23:39 UTC]** Frentista é morto a pauladas durante assalto em posto de combustíveis em Bragança, no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/14/frentista-e-morto-a-pauladas-durante-assalto-em-posto-de-combustiveis-em-braganca-no-para.ghtml)_
 
+- **[2026-09-18 15:12 UTC]** Educação digital em escolas de Bragança (PA) será exibida em Nova York
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-09/educacao-digital-em-escolas-de-braganca-pa-sera-exibida-em-nova-york)_
+
