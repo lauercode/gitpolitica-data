@@ -83,3 +83,6 @@
 - **[2026-09-17 23:01 UTC]** Dr. Furlan concede entrevistas e participa de reuniões em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/17/dr-furlan-concede-entrevistas-e-participa-de-reunioes-em-macapa.ghtml)_
 
+- **[2026-09-18 18:46 UTC]** Dr. Furlan diz que meta é buscar parcerias para pavimentar a BR-156
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/18/dr-furlan-diz-que-meta-e-buscar-parcerias-para-pavimentar-a-br-156.ghtml)_
+
