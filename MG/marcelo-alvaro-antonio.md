@@ -38,3 +38,6 @@
 - **[2026-09-10 22:06 UTC]** Quem é Antônio Carlos Freixo Júnior, o “Mineiro”, operador financeiro de Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-antonio-carlos-freixo-junior-o-mineiro-operador-financeiro-de-vorcaro/)_
 
+- **[2026-09-18 12:38 UTC]** Vaticano define dom Antônio Fontinele como novo bispo da Diocese de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/18/papa-leao-xiv-nomeia-dom-antonio-fontinele-como-bispo-de-rio-branco.ghtml)_
+
