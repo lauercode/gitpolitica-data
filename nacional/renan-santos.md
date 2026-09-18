@@ -269,3 +269,6 @@
 - **[2026-09-17 21:53 UTC]** Renan Santos aborda Bolsa Família, feminicídios e pacto federativo em caravana no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/17/renan-santos-caravana-rs.ghtml)_
 
+- **[2026-09-18 00:38 UTC]** Renan Santos aciona TSE contra reajuste do Bolsa Família
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/renan-santos-aciona-tse-contra-reajuste-do-bolsa-familia.ghtml)_
+
