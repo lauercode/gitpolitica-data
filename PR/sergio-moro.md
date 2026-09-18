@@ -71,3 +71,6 @@
 - **[2026-09-17 17:33 UTC]** Eleições 2026 no Paraná: Sergio Moro faz carreata em seis cidades da Região Metropolitana de Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-no-parana-agenda-sergio-moro-17-setembro.ghtml)_
 
+- **[2026-09-18 14:03 UTC]** Eleições 2026 no Paraná: Sergio Moro concede entrevistas, participa de sabatinas e reuniões
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-no-parana-sergio-moro-entrevistas-sabatinas.ghtml)_
+
