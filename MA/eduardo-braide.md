@@ -14,3 +14,6 @@
 - **[2026-09-16 00:20 UTC]** Eduardo Braide propõe recuperar estradas e ampliar hospitais regionais no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/15/eduardo-braide-propoe-recuperar-estradas-e-ampliar-hospitais-regionais-no-maranhao.ghtml)_
 
+- **[2026-09-18 01:32 UTC]** Eduardo Braide propõe ampliar investimentos em saneamento básico no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/17/eduardo-braide-propoe-ampliar-investimentos-em-saneamento-basico-no-maranhao.ghtml)_
+
