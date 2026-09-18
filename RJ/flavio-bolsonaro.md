@@ -1619,3 +1619,6 @@
 - **[2026-09-17 21:06 UTC]** Datafolha: Lula ainda escapa de crise no STF, e Flávio tem sua melhor fase
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-ainda-escapa-de-crise-no-stf-e-flavio-tem-sua-melhor-fase.shtml)_
 
+- **[2026-09-17 20:54 UTC]** Flávio Bolsonaro repete Jair e diz que vai recrutar apoiadores para fiscalizar urnas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-repete-jair-e-diz-que-vai-recrutar-apoiadores-para-fiscalizar-urnas.shtml)_
+
