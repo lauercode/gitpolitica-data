@@ -35,3 +35,6 @@
 - **[2026-09-15 01:25 UTC]** Hana Ghassan propõe intercâmbio para alunos da rede pública e bolsa-estágio no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/14/hana-ghassan-propoe-intercambio-para-alunos-da-rede-publica-e-bolsa-estagio-no-para.ghtml)_
 
+- **[2026-09-18 14:47 UTC]** Em instantes: Entrevista AO VIVO com Hana Ghassan, candidata ao governo do Pará pelo MDB
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-para-no-jl1.ghtml)_
+
