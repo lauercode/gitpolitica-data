@@ -59,3 +59,6 @@
 - **[2026-09-17 21:21 UTC]** Cadu de Lula participa de agenda do MPRN e promete avanço na transparência do governo
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/17/cadu-de-lula-participa-de-agenda-do-mprn-e-promete-avanco-na-transparencia-do-governo.ghtml)_
 
+- **[2026-09-18 20:02 UTC]** Cadu de Lula cita saúde, assistência social e infraestrutura entre prioridades de governo
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/18/cadu-de-lula-cita-saude-assistencia-social-e-infraestrutura-entre-prioridades-de-governo.ghtml)_
+
