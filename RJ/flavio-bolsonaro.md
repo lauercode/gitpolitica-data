@@ -1607,3 +1607,6 @@
 - **[2026-09-17 23:54 UTC]** Flávio Bolsonaro diz que não autorizou ação de Zé Trovão contra reajuste do Bolsa Família: 'Não concordo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-diz-que-nao-autorizou-acao-de-ze-trovao-contra-reajuste-do-bolsa-familia-nao-concordo.ghtml)_
 
+- **[2026-09-17 23:22 UTC]** Datafolha: Lula tem 53% entre eleitores que recebem Bolsa Família, e Flávio Bolsonaro, 28%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/datafolha-bolsa-familia.ghtml)_
+
