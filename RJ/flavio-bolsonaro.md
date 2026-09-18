@@ -1631,3 +1631,6 @@
 - **[2026-09-17 19:55 UTC]** Bolsonaro também ampliou benefícios em ano eleitoral; STF invalidou parte da medida em 2024
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bolsonaro-tambem-ampliou-beneficios-em-ano-eleitoral-stf-invalidou-parte-da-medida-em-2024.shtml)_
 
+- **[2026-09-17 19:49 UTC]** Datafolha: Lula tem 53% entre beneficiários do Bolsa Família, e Flávio Bolsonaro, 28%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-53-entre-beneficiarios-do-bolsa-familia-e-flavio-bolsonaro-28.shtml)_
+
