@@ -287,3 +287,6 @@
 - **[2026-09-18 14:59 UTC]** Renan Santos quer FGTS como poupança para aposentadoria de trabalhadores, diz Kim Kataguiri
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml)_
 
+- **[2026-09-18 19:25 UTC]** No RS, Renan Santos critica Centrão e direita por ligação com Vorcaro e promete 'transformar favelas em cidades'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/18/renan-santos-caravana-rs-gramado.ghtml)_
+
