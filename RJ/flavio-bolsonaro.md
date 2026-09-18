@@ -1670,3 +1670,6 @@
 - **[2026-09-18 10:42 UTC]** Flávio Bolsonaro anuncia recrutamento para fiscalizar urnas eletrônicas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-anuncia-recrutamento-para-fiscalizar-urnas-eletronicas/)_
 
+- **[2026-09-18 13:33 UTC]** Lula diz que Flávio tem ligação com milicianos e que Master virou banco no governo Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/lula-diz-que-flavio-tem-ligacao-com-milicianos-e-que-master-virou-banco-no-governo-bolsonaro.ghtml)_
+
