@@ -38,3 +38,6 @@
 - **[2026-09-16 15:43 UTC]** Lucas Ribeiro, candidato ao governo da Paraíba, promete diminuir analfabetismo e pobreza no estado
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/16/lucas-ribeiro-candidato-ao-governo-da-paraiba-promete-diminuir-analfabetismo-e-pobreza-no-estado.ghtml)_
 
+- **[2026-09-18 22:25 UTC]** Lucas Ribeiro defende continuidade de políticas voltadas para o setor do agronegócio na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/lucas-ribeiro-fala-em-geracao-de-emprego-e-renda-no-setor-do-agronegocio-na-paraiba.ghtml)_
+
