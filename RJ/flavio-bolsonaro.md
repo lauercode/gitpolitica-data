@@ -1637,3 +1637,6 @@
 - **[2026-09-18 00:27 UTC]** Na TV, Lula mostra Flávio investigado e senador diz que petista colocou brasileiro 'na mira do crime'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/na-tv-lula-mostra-flavio-investigado-e-senador-diz-que-petista-colocou-brasileiro-na-mira-do-crime.ghtml)_
 
+- **[2026-09-17 22:08 UTC]** Lula e Flávio têm empate técnico no 1º e 2º turnos a 17 dias da eleição, diz Datafolha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/datafolha-lula-tem-46percent-e-flavio-44percent-no-segundo-turno.ghtml)_
+
