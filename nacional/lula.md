@@ -974,3 +974,6 @@
 - **[2026-09-15 13:05 UTC]** Flávio Bolsonaro diz que Lula dividiu poder com Moraes e deixou Brasil ‘sem presidente’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/flvio-bolsonaro-diz-que-lula-dividiu-poder-com-moraes-e-deixou-brasil-sem-presidente.ghtml)_
 
+- **[2026-09-18 08:00 UTC]** Presidente Lula diz descartar demandas americanas para eleição
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/18/presidente-lula-diz-descartar-demandas-americanas-para-eleicao.ghtml)_
+
