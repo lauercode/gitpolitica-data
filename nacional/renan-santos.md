@@ -284,3 +284,6 @@
 - **[2026-09-18 13:54 UTC]** Renan Santos e Caiado cancelam participação em debate do “Inteligência Ltda”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-e-caiado-cancelam-participacao-em-debate-do-inteligencia-ltda/)_
 
+- **[2026-09-18 14:59 UTC]** Renan Santos quer FGTS como poupança para aposentadoria de trabalhadores, diz Kim Kataguiri
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml)_
+
