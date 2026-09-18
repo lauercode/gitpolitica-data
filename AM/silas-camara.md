@@ -1022,3 +1022,6 @@ direitos
 - **[2026-09-17 15:54 UTC]** Ex-vereador Milton Leite presidiu a Câmara de São Paulo 6 vezes e ficou 27 anos como parlamentar
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/ex-vereador-milton-leite-presidiu-a-camara-6-vezes-e-ficou-27-anos-como-parlamentar.ghtml)_
 
+- **[2026-09-18 19:19 UTC]** Inscrições do concurso público da Câmara Municipal de Nossa Senhora das Dores são prorrogadas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/18/inscricoes-do-concurso-publico-da-camara-municipal-de-nossa-senhora-das-dores-sao-prorrogadas.ghtml)_
+
