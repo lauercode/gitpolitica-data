@@ -1685,3 +1685,6 @@
 - **[2026-09-18 11:43 UTC]** Lula diz que crise no STF respinga na eleição e culpa Bolsonaro pelo caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-crise-na-stf-respinga-na-eleicao-e-culpa-bolsonaro-pelo-caso-master.shtml)_
 
+- **[2026-09-18 16:00 UTC]** Lula foi contra reajuste do “Auxílio Brasil” de Bolsonaro meses antes da eleição de 2022
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-contra-reajuste-auxilio-brasil-bolsonaro-2022/)_
+
