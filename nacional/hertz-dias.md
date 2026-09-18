@@ -20,3 +20,6 @@
 - **[2026-09-18 07:30 UTC]** Fim da escala 6x1 e de privatizações são prioridades de Hertz Dias
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/fim-da-escala-6x1-e-de-privatizacoes-sao-prioridades-de-hertz-dias)_
 
+- **[2026-09-18 07:30 UTC]** Fim da escala 6x1 e de privatizações é prioridade de Hertz Dias
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/fim-da-escala-6x1-e-de-privatizacoes-e-prioridade-de-hertz-dias)_
+
