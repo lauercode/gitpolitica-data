@@ -1697,3 +1697,6 @@
 - **[2026-09-18 16:00 UTC]** Lula criticou reajuste do “Auxílio Brasil” de Bolsonaro meses antes da eleição de 2022
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-contra-reajuste-auxilio-brasil-bolsonaro-2022/)_
 
+- **[2026-09-18 22:16 UTC]** Datafolha: 38% dizem que crise no STF prejudica Lula e 31% afirmam que prejudica Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-crise-no-stf-e-campanha-eleitoral.ghtml)_
+
