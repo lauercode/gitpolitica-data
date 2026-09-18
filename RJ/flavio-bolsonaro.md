@@ -1613,3 +1613,6 @@
 - **[2026-09-17 22:44 UTC]** Datafolha aponta empate triplo entre Lula e Flávio Bolsonaro; entenda
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-17-setembro-lula-flavio-bolsonaro-1-turno-2-turno-rejeicao.ghtml)_
 
+- **[2026-09-17 22:28 UTC]** Datafolha: Lula e Flávio Bolsonaro empatam na rejeição, com 47% cada um
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-rejeicao-lula-flavio-17-setembro.ghtml)_
+
