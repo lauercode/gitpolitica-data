@@ -1025,3 +1025,6 @@ direitos
 - **[2026-09-18 19:19 UTC]** Inscrições do concurso público da Câmara Municipal de Nossa Senhora das Dores são prorrogadas
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/18/inscricoes-do-concurso-publico-da-camara-municipal-de-nossa-senhora-das-dores-sao-prorrogadas.ghtml)_
 
+- **[2026-09-19 17:10 UTC]** Câmara de Rio Branco abre concurso para procurador com salário de quase R$ 20 mil; Veja edital
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/19/camara-de-rio-branco-abre-concurso-para-procurador-com-salario-de-quase-r-20-mil-veja-edital.ghtml)_
+
