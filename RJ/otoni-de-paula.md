@@ -35,3 +35,6 @@
 - **[2026-09-10 09:40 UTC]** Marina Lima critica Paula Burlamaqui por fala sobre envelhecimento: 'Me dá pena'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/marina-lima-critica-paula-burlamaqui-por-fala-sobre-envelhecimento-me-da-pena.shtml)_
 
+- **[2026-09-19 11:33 UTC]** Paula Pimenta diz que antes tinha 'preocupação zero' com diversidade em seus livros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/paula-pimenta-diz-que-antes-tinha-preocupacao-zero-com-diversidade-em-seus-livros.shtml)_
+
