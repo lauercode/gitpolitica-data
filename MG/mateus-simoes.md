@@ -17,3 +17,6 @@
 - **[2026-09-11 20:05 UTC]** Datafolha em MG: 38% desaprovam trabalho de Simões como governador, e 37% aprovam
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-avaliacao-governo-mg-11-setembro.ghtml)_
 
+- **[2026-09-19 18:12 UTC]** Mateus Simões promete passe livre para estudantes e melhorias na segurança
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/19/mateus-simes-promete-passe-livre-para-estudantes-e-melhorias-na-segurana.ghtml)_
+
