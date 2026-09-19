@@ -296,3 +296,6 @@
 - **[2026-09-18 04:02 UTC]** Hackers usam sites de Cury e do PT para alavancar bets e conteúdo sobre prostituição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/hackers-usam-sites-de-cury-e-do-pt-para-alavancar-bets-e-conteudo-sobre-prostituicao.shtml)_
 
+- **[2026-09-19 16:42 UTC]** Cury diz que 'suplicou' a Fachin para STF concluir julgamento em uma semana
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/19/cury-diz-que-suplicou-a-fachin-para-stf-concluir-julgamento-em-uma-semana.ghtml)_
+
