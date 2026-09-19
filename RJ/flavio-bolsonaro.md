@@ -1739,3 +1739,6 @@
 - **[2026-09-19 18:21 UTC]** Lula e Flávio fazem comícios simultâneos em SC, reduto do bolsonarismo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/lula-flavio-comicios-sc-reduto-do-bolsonarismo.ghtml)_
 
+- **[2026-09-19 17:16 UTC]** Lula faz campanha em reduto do bolsonarismo, diz que Flávio quer tirar o pai da cadeia e prega fim das bets
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/lula-faz-campanha-em-sc-estado-onde-bolsonaro-teve-69percent-dos-votos-em-2022-e-prega-fim-das-bets.ghtml)_
+
