@@ -1718,3 +1718,6 @@
 - **[2026-09-18 22:00 UTC]** Datafolha mostra eleitorado fiel a Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/datafolha-mostra-eleitorado-fiel-a-lula-e-flavio.shtml)_
 
+- **[2026-09-19 06:00 UTC]** Filho de Covas declara apoio a Lula e diz que Flávio é muito pior que o pai
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/filho-de-covas-declara-apoio-a-lula-e-diz-que-flavio-e-muito-pior-que-o-pai.shtml)_
+
