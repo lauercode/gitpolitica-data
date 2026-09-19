@@ -1751,3 +1751,6 @@
 - **[2026-09-19 17:54 UTC]** Flávio diz que Lula tentou 'comprar voto dos mais pobres' e promete 'tesouraço' na economia
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/19/flavio-diz-que-lula-tentou-comprar-voto-dos-mais-pobres-e-promete-tesouraco-na-economia.ghtml)_
 
+- **[2026-09-19 16:21 UTC]** Flávio Bolsonaro diz que Lula tenta comprar os pobres e aumentou Bolsa Família por desespero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-lula-tenta-comprar-os-pobres-e-aumentou-bolsa-familia-por-desespero.shtml)_
+
