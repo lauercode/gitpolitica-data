@@ -17,3 +17,6 @@
 - **[2026-09-18 16:31 UTC]** Yuri Ezequiel, candidato ao governo da Paraíba, defende maior presença pública no turismo e melhora no atendimento básico da saúde
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/yuri-ezequiel-candidato-governo-da-paraiba-maior-presenca-publica-turismo-atendimento-basico-saude.ghtml)_
 
+- **[2026-09-19 20:54 UTC]** Yuri Ezequiel defende aumento de hospitais vinculados ao SUS na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/19/yuri-ezequiel-defende-aumento-de-hospitais-vinculados-ao-sus-na-paraiba.ghtml)_
+
