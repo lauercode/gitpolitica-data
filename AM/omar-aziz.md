@@ -71,3 +71,6 @@
 - **[2026-09-17 22:57 UTC]** Eleições 2026: Omar Aziz participa de sabatina e afirma que vai construir sete hospitais no interior do estado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-omar-aziz-participa-de-sabatina-e-afirma-que-vai-construir-sete-hospitais-no-interior-do-estado.ghtml)_
 
+- **[2026-09-19 00:54 UTC]** Eleições 2026: Omar Aziz grava programa eleitoral e promete investir na formação de mão de obra para Zona Franca de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-omar-aziz-grava-programa-eleitoral-e-promete-investir-na-formacao-de-mao-de-obra-para-zona-franca-de-manaus.ghtml)_
+
