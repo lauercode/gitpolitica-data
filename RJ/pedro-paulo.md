@@ -416,3 +416,6 @@
 - **[2026-09-19 14:16 UTC]** Foto no telefone de Daniel Vorcaro mostra Paulo Gonet fumando charuto com ex-banqueiro em Londres
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/foto-no-telefone-de-daniel-vorcaro-mostra-paulo-gonet-fumando-charuto-com-ex-banqueiro-em-londres-veja-imagem.ghtml)_
 
+- **[2026-09-19 17:15 UTC]** Foto comprometedora desmente versão de Paulo Gonet sobre banqueiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/foto-comprometedora-desmente-versao-de-paulo-gonet-sobre-banqueiro/)_
+
