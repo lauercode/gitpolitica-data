@@ -1712,3 +1712,6 @@
 - **[2026-09-18 21:53 UTC]** Nova pesquisa Quaest no RJ testa apoios de Lula e Flávio Bolsonaro ao governo nas eleições 2026
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/nova-pesquisa-quaest-no-rj-testa-apoios-de-lula-e-flavio-bolsonaro-ao-governo-em-2026.ghtml)_
 
+- **[2026-09-18 23:00 UTC]** Flávio Bolsonaro usa Comissão de Segurança como vitrine eleitoral, mas faltou a 72% das sessões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-usa-comissao-de-seguranca-como-vitrine-eleitoral-mas-faltou-a-72-das-sessoes.shtml)_
+
