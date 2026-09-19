@@ -2492,3 +2492,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-19 12:31 UTC]** Resumo da semana: EUA avaliam novas sanções contra Moraes e ministros do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/resumo-da-semana-eua-avaliam-novas-sancoes-contra-moraes-e-ministros-do-stf/)_
 
+- **[2026-09-19 18:00 UTC]** PT votou em bloco contra indicação de Moraes em 2017 e reclamou de sua atitude militante
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pt-votou-em-bloco-contra-indicacao-de-moraes-em-2017-e-reclamou-de-sua-atitude-militante.shtml)_
+
