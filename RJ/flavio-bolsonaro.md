@@ -1745,3 +1745,6 @@
 - **[2026-09-19 15:00 UTC]** Lula e Flávio vão concentrar agendas de campanha no Nordeste e Sudeste na reta final
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-e-flavio-vao-concentrar-agendas-de-campanha-no-nordeste-e-sudeste-na-reta-final.shtml)_
 
+- **[2026-09-19 18:52 UTC]** Lula diz querer vencer eleição para “manter Bolsonaro na cadeia”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-diz-querer-vencer-eleicao-para-manter-bolsonaro-na-cadeia/)_
+
