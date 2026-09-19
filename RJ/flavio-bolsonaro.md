@@ -1721,3 +1721,6 @@
 - **[2026-09-19 06:00 UTC]** Filho de Covas declara apoio a Lula e diz que Flávio é muito pior que o pai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/filho-de-covas-declara-apoio-a-lula-e-diz-que-flavio-e-muito-pior-que-o-pai.shtml)_
 
+- **[2026-09-19 12:16 UTC]** Flávio Bolsonaro e outros candidatos de direita usam foto de Gonet para atacar Lula e STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-outros-candidatos-de-direita-usam-foto-de-gonet-para-atacar-lula-e-stf.shtml)_
+
