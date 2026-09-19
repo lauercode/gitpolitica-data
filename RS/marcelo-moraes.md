@@ -2489,3 +2489,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-18 17:29 UTC]** 'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-19 12:31 UTC]** Resumo da semana: EUA avaliam novas sanções contra Moraes e ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/resumo-da-semana-eua-avaliam-novas-sancoes-contra-moraes-e-ministros-do-stf/)_
+
