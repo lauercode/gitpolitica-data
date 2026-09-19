@@ -44,3 +44,6 @@
 - **[2026-09-19 02:44 UTC]** Sem Dr. Daniel e Hana Ghassan em debate, Araceli Lemos defende cancelamento da concessão de água no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/18/sem-dr-daniel-e-hana-ghassan-em-debate-araceli-lemos-defende-cancelamento-da-concessao-de-agua-no-para.ghtml)_
 
+- **[2026-09-18 23:29 UTC]** Hana Ghassan propõe criar auxílio financeiro e capacitação para mulheres vítimas de violência no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/18/hana-ghassan-propoe-criar-auxilio-financeiro-e-capacitacao-para-mulheres-vitimas-de-violencia-no-para.ghtml)_
+
