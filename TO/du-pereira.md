@@ -8,3 +8,6 @@
 - **[2026-09-03 09:01 UTC]** Plano de governo: Du Pereira promete painel público, escritório estadual de projetos e diagnóstico das rodovias
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/03/plano-de-governo-du-pereira-promete-painel-publico-escritorio-estadual-de-projetos-e-diagnostico-das-rodovias.ghtml)_
 
+- **[2026-09-19 17:20 UTC]** Du Pereira promete mudanças na saúde e aponta infraestrutura e educação como áreas defasadas no TO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/19/du-pereira-promete-mudancas-na-saude-e-aponta-infraestrutura-e-educacao-como-areas-defasadas-no-to.ghtml)_
+
