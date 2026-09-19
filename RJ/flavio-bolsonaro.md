@@ -1733,3 +1733,6 @@
 - **[2026-09-19 15:20 UTC]** Datafolha: No Ceará, Lula tem 54% e Flávio, 26%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/19/datafolha-no-cear-lula-tem-54-pontos-percentuais-e-flvio-26.ghtml)_
 
+- **[2026-09-19 18:26 UTC]** TSE aceita ação de Flávio Bolsonaro contra Lula e Alckmin por desfile de escola de samba
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/tse-aceita-acao-de-flavio-bolsonaro-contra-lula-e-alckmin-por-desfile-de-escola-de-samba.ghtml)_
+
