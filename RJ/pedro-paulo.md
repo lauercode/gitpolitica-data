@@ -413,3 +413,6 @@
 - **[2026-09-16 12:10 UTC]** testfy apresenta teste para SIBO durante congresso sobre eixo intestino-cérebro em São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/16/testfy-apresenta-teste-para-sibo-durante-congresso-sobre-eixo-intestinocerebro-em-sao-paulo-1.ghtml)_
 
+- **[2026-09-19 14:16 UTC]** Foto no telefone de Daniel Vorcaro mostra Paulo Gonet fumando charuto com ex-banqueiro em Londres
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/foto-no-telefone-de-daniel-vorcaro-mostra-paulo-gonet-fumando-charuto-com-ex-banqueiro-em-londres-veja-imagem.ghtml)_
+
