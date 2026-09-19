@@ -1730,3 +1730,6 @@
 - **[2026-09-19 13:06 UTC]** As pesquisas que confirmam o crescimento de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/as-pesquisas-que-confirmam-crescimento-flavio-bolsonaro/)_
 
+- **[2026-09-19 15:20 UTC]** Datafolha: No Ceará, Lula tem 54% e Flávio, 26%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/19/datafolha-no-cear-lula-tem-54-pontos-percentuais-e-flvio-26.ghtml)_
+
