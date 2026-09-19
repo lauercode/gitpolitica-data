@@ -1748,3 +1748,6 @@
 - **[2026-09-19 18:52 UTC]** Lula diz querer vencer eleição para “manter Bolsonaro na cadeia”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-diz-querer-vencer-eleicao-para-manter-bolsonaro-na-cadeia/)_
 
+- **[2026-09-19 17:54 UTC]** Flávio diz que Lula tentou 'comprar voto dos mais pobres' e promete 'tesouraço' na economia
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/19/flavio-diz-que-lula-tentou-comprar-voto-dos-mais-pobres-e-promete-tesouraco-na-economia.ghtml)_
+
