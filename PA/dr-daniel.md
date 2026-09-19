@@ -23,3 +23,6 @@
 - **[2026-09-17 17:04 UTC]** Correção: Dr. Daniel promete construir hospitais e policlínicas no PA
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/17/correcao-dr-daniel-promete-construir-hospitais-e-policlinicas-no-pa.ghtml)_
 
+- **[2026-09-19 02:44 UTC]** Sem Dr. Daniel e Hana Ghassan em debate, Araceli Lemos defende cancelamento da concessão de água no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/18/sem-dr-daniel-e-hana-ghassan-em-debate-araceli-lemos-defende-cancelamento-da-concessao-de-agua-no-para.ghtml)_
+
