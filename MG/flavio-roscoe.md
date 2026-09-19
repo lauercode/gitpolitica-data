@@ -11,3 +11,6 @@
 - **[2026-09-14 17:25 UTC]** Quadro é de deterioração das instituições, diz Flávio Roscoe sobre crise no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/quadro-de-deteriorao-das-instituies-diz-flvio-roscoe-sobre-crise-no-stf.ghtml)_
 
+- **[2026-09-19 15:18 UTC]** Flávio Roscoe suspende campanha com quadro de pneumonia e bronquiolite
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/19/flvio-roscoe-suspende-campanha-com-quadro-de-pneumonia-e-bronquiolite.ghtml)_
+
