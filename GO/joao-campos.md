@@ -26,3 +26,6 @@
 - **[2026-09-18 14:19 UTC]** Lula vai a Pernambuco para ampliar vantagem no Nordeste e impulsionar João Campos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-vai-a-pernambuco-para-ampliar-vantagem-no-nordeste-e-impulsionar-joao-campos.shtml)_
 
+- **[2026-09-18 22:01 UTC]** Militantes de Raquel Lyra e João Campos brigam antes de debate em Caruaru
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/militantes-de-raquel-lyra-e-joao-campos-brigam-antes-de-debate-em-caruaru.shtml)_
+
