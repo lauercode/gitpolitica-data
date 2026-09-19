@@ -1727,3 +1727,6 @@
 - **[2026-09-19 14:19 UTC]** Flávio Bolsonaro reage a foto de Gonet com Vorcaro: “rindo da cara do povo sofrido”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-reage-a-foto-de-gonet-com-vorcaro-rindo-da-cara-do-povo-sofrido/)_
 
+- **[2026-09-19 13:06 UTC]** As pesquisas que confirmam o crescimento de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/as-pesquisas-que-confirmam-crescimento-flavio-bolsonaro/)_
+
