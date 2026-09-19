@@ -1736,3 +1736,6 @@
 - **[2026-09-19 18:26 UTC]** TSE aceita ação de Flávio Bolsonaro contra Lula e Alckmin por desfile de escola de samba
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/tse-aceita-acao-de-flavio-bolsonaro-contra-lula-e-alckmin-por-desfile-de-escola-de-samba.ghtml)_
 
+- **[2026-09-19 18:21 UTC]** Lula e Flávio fazem comícios simultâneos em SC, reduto do bolsonarismo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/lula-flavio-comicios-sc-reduto-do-bolsonarismo.ghtml)_
+
