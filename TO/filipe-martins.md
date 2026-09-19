@@ -38,3 +38,6 @@
 - **[2026-09-17 10:21 UTC]** Moraes cobra explicações por fiscalização de deputado à cadeia de Filipe Martins
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-cobra-explicacoes-por-fiscalizacao-de-deputado-a-cadeia-de-filipe-martins/)_
 
+- **[2026-09-18 23:03 UTC]** Indústria do livro está doente e descontos enganam leitores, diz Martins Fontes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/09/industria-do-livro-esta-doente-e-descontos-enganam-leitores-diz-martins-fontes.shtml)_
+
