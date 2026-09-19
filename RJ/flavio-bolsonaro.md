@@ -1742,3 +1742,6 @@
 - **[2026-09-19 17:16 UTC]** Lula faz campanha em reduto do bolsonarismo, diz que Flávio quer tirar o pai da cadeia e prega fim das bets
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/lula-faz-campanha-em-sc-estado-onde-bolsonaro-teve-69percent-dos-votos-em-2022-e-prega-fim-das-bets.ghtml)_
 
+- **[2026-09-19 15:00 UTC]** Lula e Flávio vão concentrar agendas de campanha no Nordeste e Sudeste na reta final
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-e-flavio-vao-concentrar-agendas-de-campanha-no-nordeste-e-sudeste-na-reta-final.shtml)_
+
