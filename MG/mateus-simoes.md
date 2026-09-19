@@ -20,3 +20,6 @@
 - **[2026-09-19 18:12 UTC]** Mateus Simões promete passe livre para estudantes e melhorias na segurança
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/19/mateus-simes-promete-passe-livre-para-estudantes-e-melhorias-na-segurana.ghtml)_
 
+- **[2026-09-19 18:03 UTC]** Mateus Simões defende maior objetividade nos processos de licenciamento ambiental
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/19/mateus-simes-defende-maior-objetividade-nos-processos-de-licenciamento-ambiental.ghtml)_
+
