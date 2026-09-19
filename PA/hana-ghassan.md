@@ -41,3 +41,6 @@
 - **[2026-09-18 15:35 UTC]** Veja trechos da entrevista com Hana Ghassan, candidata ao governo do Pará pelo MDB
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/playlist/veja-trechos-da-entrevista-com-hana-ghassan-candidata-ao-governo-do-para-pelo-mdb.ghtml)_
 
+- **[2026-09-19 02:44 UTC]** Sem Dr. Daniel e Hana Ghassan em debate, Araceli Lemos defende cancelamento da concessão de água no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/18/sem-dr-daniel-e-hana-ghassan-em-debate-araceli-lemos-defende-cancelamento-da-concessao-de-agua-no-para.ghtml)_
+
