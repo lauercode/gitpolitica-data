@@ -290,3 +290,6 @@
 - **[2026-09-18 19:25 UTC]** No RS, Renan Santos critica Centrão e direita por ligação com Vorcaro e promete 'transformar favelas em cidades'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/18/renan-santos-caravana-rs-gramado.ghtml)_
 
+- **[2026-09-19 15:54 UTC]** Renan Santos defende 'militarizar o Brasil' contra o crime organizado e chama disputa presidencial de 'eleição da desistência'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/19/candidato-presidencia-renan-santos-campanha-rs.ghtml)_
+
