@@ -44,3 +44,6 @@
 - **[2026-09-06 19:06 UTC]** VÍDEO: Confusão entre PM e apoiadores de Dr. Daniel termina com spray de pimenta e xingamentos na delegacia no PA
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/06/video-confusao-entre-pm-e-apoiadores-termina-com-spray-de-pimenta-e-xingamentos-em-delegacia-no-pa.ghtml)_
 
+- **[2026-09-19 11:33 UTC]** Paula Pimenta diz que antes tinha 'preocupação zero' com diversidade em seus livros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/paula-pimenta-diz-que-antes-tinha-preocupacao-zero-com-diversidade-em-seus-livros.shtml)_
+
