@@ -26,3 +26,6 @@
 - **[2026-09-17 01:06 UTC]** Orleans Brandão propõe ampliar saneamento e ações para melhorar praias de São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/16/orleans-brandao-propoe-ampliar-saneamento-e-acoes-para-melhorar-praias-de-sao-luis.ghtml)_
 
+- **[2026-09-19 00:39 UTC]** Orleans Brandão propõe concluir Avenida Metropolitana e ampliar transporte metropolitano em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/18/orleans-brandao-propoe-concluir-avenida-metropolitana-e-ampliar-transporte-metropolitano-em-sao-luis.ghtml)_
+
