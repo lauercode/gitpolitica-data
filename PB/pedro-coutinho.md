@@ -17,3 +17,6 @@
 - **[2026-09-17 16:34 UTC]** Pedro Coutinho, candidato ao governo da Paraíba, diz que vai valorizar professores e fomentar cultura estadual
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/17/pedro-coutinho-candidato-ao-governo-da-paraiba-diz-que-vai-valorizar-professores-e-fomentar-cultura-estadual.ghtml)_
 
+- **[2026-09-19 21:51 UTC]** Pedro Coutinho diz que vai sanear 100% das cidades da Região Metropolitana de João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/19/pedro-coutinho-diz-que-vai-sanear-100percent-das-cidades-da-regiao-metropolitana-de-joao-pessoa.ghtml)_
+
