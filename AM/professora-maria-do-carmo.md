@@ -56,3 +56,6 @@
 - **[2026-09-17 21:18 UTC]** Eleições 2026: Professora Maria do Carmo se reúne com representantes do comércio e apresenta propostas para geração de renda
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-professora-maria-do-carmo-se-reune-com-representantes-do-comercio-e-apresenta-propostas-para-geracao-de-renda.ghtml)_
 
+- **[2026-09-19 22:02 UTC]** Eleições 2026: Professora Maria do Carmo promete fortalecer cultura e ampliar vagas no Liceu de Parintins
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/19/eleicoes-2026-professora-maria-do-carmo-promete-fortalecer-cultura-e-ampliar-vagas-no-liceu-de-parintins.ghtml)_
+
