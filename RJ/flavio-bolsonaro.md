@@ -1757,3 +1757,6 @@
 - **[2026-09-19 23:14 UTC]** Campanha de Lula pede para TSE suspender plataforma de vídeos de Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/campanha-de-lula-pede-para-tse-suspender-plataforma-de-videos-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-20 10:30 UTC]** TSE aceita abrir ação de Flávio Bolsonaro contra Lula por desfile no Carnaval do Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-aceita-abrir-acao-de-flavio-bolsonaro-contra-lula-por-desfile-no-carnaval-do-rio.shtml)_
+
