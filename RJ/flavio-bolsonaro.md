@@ -1766,3 +1766,6 @@
 - **[2026-09-20 12:20 UTC]** Como o aumento de etanol na gasolina entrou no debate eleitoral entre Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/09/como-o-aumento-de-etanol-na-gasolina-entrou-no-debate-eleitoral-entre-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-09-20 15:24 UTC]** Campanha de Lula aciona TSE contra suposto uso de perfis para impulsionar conteúdo de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-aciona-tse-contra-suposto-uso-de-perfis-para-impulsionar-conteudo-de-flavio.shtml)_
+
