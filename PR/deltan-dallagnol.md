@@ -23,3 +23,6 @@
 - **[2026-09-09 09:21 UTC]** TRE-PR valida candidatura de Deltan Dallagnol ao Senado; decisão final pode caber ao TSE
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/candidatura-deltan-dallgnol.ghtml)_
 
+- **[2026-09-20 01:20 UTC]** TSE suspende repasse de recursos e atos de campanha de Deltan Dallagnol
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/tse-suspende-repasse-de-recursos-e-atos-de-campanha-de-deltan-dallagnol.ghtml)_
+
