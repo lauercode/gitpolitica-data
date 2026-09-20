@@ -2498,3 +2498,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 03:00 UTC]** Julgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/20/julgamento-sobre-moraes-deixa-questoes-em-aberto-no-stf-entenda-o-que-ainda-precisa-ser-definido.ghtml)_
 
+- **[2026-09-20 13:34 UTC]** Vídeo mostra Moraes e Viviane desembarcando de jatinho ligado a Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/video-mostra-moraes-e-viviane-desembarcango-de-jatinho-ligado-a-vorcaro/)_
+
