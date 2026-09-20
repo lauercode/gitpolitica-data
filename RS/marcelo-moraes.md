@@ -2504,3 +2504,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 13:16 UTC]** Vídeo mostra Moraes e esposa desembarcando de jatinho de empresa de Vorcaro, aponta jornal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/20/vdeo-mostra-moraes-e-esposa-desembarcando-de-jatinho-de-empresa-de-vorcaro-aponta-jornal.ghtml)_
 
+- **[2026-09-20 17:05 UTC]** Vídeo mostra Moraes desembarcando de jatinho de empresa de Vorcaro; avião foi apontado pela PF como pagamento ao escritório da esposa do ministro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/20/video-mostra-moraes-desembarcando-de-jatinho-de-empresa-de-vorcaro-aviao-foi-apontado-pela-pf-como-pagamento-ao-escritorio-da-esposa-do-ministro.ghtml)_
+
