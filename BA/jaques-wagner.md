@@ -47,3 +47,6 @@
 - **[2026-09-20 17:30 UTC]** Governador da Bahia usou helicóptero que foi disponibilizado por ex-sócio do Master a Wagner
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governador-da-bahia-usou-helicoptero-que-foi-disponibilizado-por-ex-socio-do-master-a-wagner.shtml)_
 
+- **[2026-09-20 17:30 UTC]** Governador da BA usou helicóptero disponibilizado por ex-sócio do Master a Wagner para voo em 2023
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governador-da-bahia-usou-helicoptero-que-foi-disponibilizado-por-ex-socio-do-master-a-wagner.shtml)_
+
