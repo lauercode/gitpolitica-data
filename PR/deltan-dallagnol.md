@@ -29,3 +29,6 @@
 - **[2026-09-20 01:00 UTC]** TSE suspende candidatura de Deltan Dallagnol ao Senado pelo Paraná
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-suspende-candidatura-de-deltan-dallagnol-ao-senado-pelo-parana.shtml)_
 
+- **[2026-09-20 01:00 UTC]** TSE suspende campanha de Deltan Dallagnol ao Senado pelo Paraná; ex-procurador vai recorrer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-suspende-campanha-de-deltan-dallagnol-ao-senado-pelo-parana-ex-procurador-vai-recorrer.shtml)_
+
