@@ -2519,3 +2519,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 17:05 UTC]** Vídeo mostra Moraes e esposa saindo de jatinho de empresa de Vorcaro em 2025; escritório Barci de Moraes nega irregularidade
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/20/video-mostra-moraes-desembarcando-de-jatinho-de-empresa-de-vorcaro-aviao-foi-apontado-pela-pf-como-pagamento-ao-escritorio-da-esposa-do-ministro.ghtml)_
 
+- **[2026-09-20 16:40 UTC]** Jato de Vorcaro em que Moraes viajou transporta até 14 passageiros; conheça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/jato-de-vorcaro-em-que-moraes-viajou-transporta-ate-14-passageiros-conheca.shtml)_
+
