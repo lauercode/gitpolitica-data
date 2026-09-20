@@ -2528,3 +2528,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 18:38 UTC]** Veja cronologia da relação de Moraes e Vorcaro até a prisão de ex-banqueiro, segundo mensagens
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-cronologia-da-relacao-de-moraes-e-vorcaro-ate-a-prisao-de-ex-banqueiro-segundo-mensagens.shtml)_
 
+- **[2026-09-20 21:03 UTC]** Escritório da esposa de Moraes nega vínculo pessoal com Vorcaro em viagem de jatinho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/20/escritorio-da-esposa-de-moraes-nega-vinculo-pessoal-com-vorcaro-em-viagem-de-jatinho.ghtml)_
+
