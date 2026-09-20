@@ -14,3 +14,6 @@
 - **[2026-09-18 19:15 UTC]** Malu Mader, Caetano Veloso, Paulinho da Viola e outros artistas declaram voto a Lula em vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/malu-mader-caetano-veloso-paulinho-da-viola-e-outros-artistas-declaram-voto-a-lula-em-video.shtml)_
 
+- **[2026-09-20 15:02 UTC]** Caetano Vilela honra ópera 'Don Carlo' com luzes e vozes soberbas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/caetano-vilela-honra-opera-don-carlo-com-luzes-e-vozes-soberbas.shtml)_
+
