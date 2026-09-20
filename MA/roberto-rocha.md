@@ -20,3 +20,6 @@
 - **[2026-09-16 14:35 UTC]** Roberto Rocha é entrevistado no JM1; assista
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-maranhao-no-jm1.ghtml)_
 
+- **[2026-09-19 23:35 UTC]** Roberto Rocha destaca obras de infraestrutura e fala em investimentos para rodovias, ferrovias e portos no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/19/roberto-rocha-destaca-obras-de-infraestrutura-e-fala-em-investimentos-para-rodovias-ferrovias-e-portos-no-ma.ghtml)_
+
