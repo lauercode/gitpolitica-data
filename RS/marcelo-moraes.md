@@ -2501,3 +2501,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 13:34 UTC]** Vídeo mostra Moraes e Viviane desembarcando de jatinho ligado a Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/video-mostra-moraes-e-viviane-desembarcango-de-jatinho-ligado-a-vorcaro/)_
 
+- **[2026-09-20 13:16 UTC]** Vídeo mostra Moraes e esposa desembarcando de jatinho de empresa de Vorcaro, aponta jornal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/20/vdeo-mostra-moraes-e-esposa-desembarcando-de-jatinho-de-empresa-de-vorcaro-aponta-jornal.ghtml)_
+
