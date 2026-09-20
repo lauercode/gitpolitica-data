@@ -2516,3 +2516,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 14:04 UTC]** Mulher de Moraes nega vínculo pessoal com Vorcaro em viagem de jatinho
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mulher-de-moraes-nega-vinculo-em-viagem-de-jatinho-ligado-vorcaro)_
 
+- **[2026-09-20 17:05 UTC]** Vídeo mostra Moraes e esposa saindo de jatinho de empresa de Vorcaro em 2025; escritório Barci de Moraes nega irregularidade
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/20/video-mostra-moraes-desembarcando-de-jatinho-de-empresa-de-vorcaro-aviao-foi-apontado-pela-pf-como-pagamento-ao-escritorio-da-esposa-do-ministro.ghtml)_
+
