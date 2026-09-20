@@ -977,3 +977,6 @@
 - **[2026-09-18 08:00 UTC]** Presidente Lula diz descartar demandas americanas para eleição
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/18/presidente-lula-diz-descartar-demandas-americanas-para-eleicao.ghtml)_
 
+- **[2026-09-20 13:34 UTC]** Indústria de bets usa valores invesidos com publicidade e patrocínio contra ofensiva do presidente Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/industria-de-bets-usa-valores-invesidos-com-publicidade-e-patrocinio-contra-ofensiva-do-presidente-lula.shtml)_
+
