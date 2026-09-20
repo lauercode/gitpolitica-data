@@ -2525,3 +2525,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 19:54 UTC]** Escritório de esposa de Moraes confirma voos em jatinho ligado a Vorcaro após vídeo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/escritorio-esposa-moraes-confirma-voos-jatinho-vorcaro-video/)_
 
+- **[2026-09-20 18:38 UTC]** Veja cronologia da relação de Moraes e Vorcaro até a prisão de ex-banqueiro, segundo mensagens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-cronologia-da-relacao-de-moraes-e-vorcaro-ate-a-prisao-de-ex-banqueiro-segundo-mensagens.shtml)_
+
