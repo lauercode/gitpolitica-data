@@ -1763,3 +1763,6 @@
 - **[2026-09-20 13:28 UTC]** No Ceará, Justiça Eleitoral determina perda de 47 minutos na propaganda de Elmano por associar Ciro a Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/20/no-cear-justia-eleitoral-determina-perda-de-47-minutos-na-propaganda-de-elmano-por-associar-ciro-a-bolsonaro.ghtml)_
 
+- **[2026-09-20 12:20 UTC]** Como o aumento de etanol na gasolina entrou no debate eleitoral entre Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/09/como-o-aumento-de-etanol-na-gasolina-entrou-no-debate-eleitoral-entre-lula-e-flavio-bolsonaro.shtml)_
+
