@@ -1769,3 +1769,6 @@
 - **[2026-09-20 15:24 UTC]** Campanha de Lula aciona TSE contra suposto uso de perfis para impulsionar conteúdo de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-aciona-tse-contra-suposto-uso-de-perfis-para-impulsionar-conteudo-de-flavio.shtml)_
 
+- **[2026-09-20 22:24 UTC]** Campanha de Lula pede cassação do registro da chapa de Flávio Bolsonaro por uso irregular do Instagram
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/20/campanha-de-lula-pede-cassao-do-registro-da-chapa-de-flvio-bolsonaro-por-uso-irregular-do-instagram.ghtml)_
+
