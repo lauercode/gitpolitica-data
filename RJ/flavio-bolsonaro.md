@@ -1760,3 +1760,6 @@
 - **[2026-09-20 10:30 UTC]** TSE aceita abrir ação de Flávio Bolsonaro contra Lula por desfile no Carnaval do Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-aceita-abrir-acao-de-flavio-bolsonaro-contra-lula-por-desfile-no-carnaval-do-rio.shtml)_
 
+- **[2026-09-20 13:28 UTC]** No Ceará, Justiça Eleitoral determina perda de 47 minutos na propaganda de Elmano por associar Ciro a Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/20/no-cear-justia-eleitoral-determina-perda-de-47-minutos-na-propaganda-de-elmano-por-associar-ciro-a-bolsonaro.ghtml)_
+
