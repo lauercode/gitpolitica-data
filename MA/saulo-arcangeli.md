@@ -20,3 +20,6 @@
 - **[2026-09-15 15:48 UTC]** Saulo Arcangeli (PSTU) é entrevistado no JM1; assista
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/entrevistas-com-os-candidatos-ao-governo-do-maranhao-no-jm1.ghtml)_
 
+- **[2026-09-20 00:12 UTC]** Saulo Arcangeli defende tarifa zero e criação de companhia estadual de transporte público no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/19/saulo-arcangeli-defende-tarifa-zero-e-criacao-de-companhia-estadual-de-transporte-publico-no-ma.ghtml)_
+
