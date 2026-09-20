@@ -137,3 +137,6 @@
 - **[2026-09-19 22:18 UTC]** Trump anuncia "Força-Tarefa de IA" e "Czar" para impulsionar a tecnologia
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/19/trump-anuncia-fora-tarefa-de-ia-e-czar-para-impulsionar-a-tecnologia.ghtml)_
 
+- **[2026-09-19 22:18 UTC]** Trump anuncia 'Força-Tarefa de IA' e 'Czar' para impulsionar a tecnologia
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/19/trump-anuncia-fora-tarefa-de-ia-e-czar-para-impulsionar-a-tecnologia.ghtml)_
+
