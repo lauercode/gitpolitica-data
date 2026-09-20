@@ -26,3 +26,6 @@
 - **[2026-09-18 17:42 UTC]** Eduardo Braide destaca atuação no Hospital da Criança, propõe reduzir ICMS e extinguir secretarias no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/18/eduardo-braide-destaca-atuacao-no-hospital-da-crianca-propoe-reduzir-icms-e-extinguir-secretarias-no-ma.ghtml)_
 
+- **[2026-09-19 23:17 UTC]** Eduardo Braide promete ampliar obras de mobilidade e criar anéis viários em cidades do MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/19/eduardo-braide-promete-ampliar-obras-de-mobilidade-e-criar-aneis-viarios-em-cidades-do-ma.ghtml)_
+
