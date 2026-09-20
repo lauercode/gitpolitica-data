@@ -2522,3 +2522,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 16:40 UTC]** Jato de Vorcaro em que Moraes viajou transporta até 14 passageiros; conheça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/jato-de-vorcaro-em-que-moraes-viajou-transporta-ate-14-passageiros-conheca.shtml)_
 
+- **[2026-09-20 19:54 UTC]** Escritório de esposa de Moraes confirma voos em jatinho ligado a Vorcaro após vídeo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/escritorio-esposa-moraes-confirma-voos-jatinho-vorcaro-video/)_
+
