@@ -23,3 +23,6 @@
 - **[2026-09-18 01:57 UTC]** Felipe Camarão defende fortalecimento da Caema e investimentos em saneamento básico
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/17/felipe-camarao-defende-fortalecimento-da-caema-e-investimentos-em-saneamento-basico.ghtml)_
 
+- **[2026-09-19 23:26 UTC]** Felipe Camarão propõe investir em transporte interurbano e criar passe livre estudantil no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/19/felipe-camarao-propoe-investir-em-transporte-interurbano-e-criar-passe-livre-estudantil-no-ma.ghtml)_
+
