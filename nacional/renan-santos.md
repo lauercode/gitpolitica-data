@@ -293,3 +293,6 @@
 - **[2026-09-19 15:54 UTC]** Renan Santos defende 'militarizar o Brasil' contra o crime organizado e chama disputa presidencial de 'eleição da desistência'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/19/candidato-presidencia-renan-santos-campanha-rs.ghtml)_
 
+- **[2026-09-20 15:41 UTC]** Renan Santos fala em 'cinismo' de eleitores que apoiam Valdemar após protestos anticorrupção
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/20/renan-santos-campanha-sc-setembro.ghtml)_
+
