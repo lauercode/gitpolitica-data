@@ -2495,3 +2495,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-19 18:00 UTC]** PT votou em bloco contra indicação de Moraes em 2017 e reclamou de sua atitude militante
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pt-votou-em-bloco-contra-indicacao-de-moraes-em-2017-e-reclamou-de-sua-atitude-militante.shtml)_
 
+- **[2026-09-20 03:00 UTC]** Julgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/20/julgamento-sobre-moraes-deixa-questoes-em-aberto-no-stf-entenda-o-que-ainda-precisa-ser-definido.ghtml)_
+
