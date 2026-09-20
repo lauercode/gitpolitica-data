@@ -1754,3 +1754,6 @@
 - **[2026-09-19 16:21 UTC]** Flávio Bolsonaro diz que Lula tenta comprar os pobres e aumentou Bolsa Família por desespero
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-lula-tenta-comprar-os-pobres-e-aumentou-bolsa-familia-por-desespero.shtml)_
 
+- **[2026-09-19 23:14 UTC]** Campanha de Lula pede para TSE suspender plataforma de vídeos de Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/campanha-de-lula-pede-para-tse-suspender-plataforma-de-videos-de-flavio-bolsonaro.ghtml)_
+
