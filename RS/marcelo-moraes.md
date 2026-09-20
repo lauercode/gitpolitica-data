@@ -2513,3 +2513,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 14:33 UTC]** Vorcaro abriu mão de jatinho para manter voo de Moraes: “Não deixe de atender Barci”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-abriu-mao-de-jatinho-para-manter-voo-de-moraes/)_
 
+- **[2026-09-20 14:04 UTC]** Mulher de Moraes nega vínculo pessoal com Vorcaro em viagem de jatinho
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mulher-de-moraes-nega-vinculo-em-viagem-de-jatinho-ligado-vorcaro)_
+
