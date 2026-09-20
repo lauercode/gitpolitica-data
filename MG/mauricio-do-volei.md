@@ -32,3 +32,6 @@
 - **[2026-09-14 20:22 UTC]** Vôlei, futsal e balé: o esporte faz parte da formação de crianças e adolescentes
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/especial-publicitario/conecta-smart-school-educacao-de-qualidade/noticia/2026/09/14/volei-futsal-e-bale-o-esporte-faz-parte-da-formacao-de-criancas-e-adolescentes.ghtml)_
 
+- **[2026-09-20 14:03 UTC]** Vôlei: Brasil vence Sul-Americano e está na Olimpíada 2028
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/volei-brasil-vence-sul-americano-e-esta-na-olimpiada-2028)_
+
