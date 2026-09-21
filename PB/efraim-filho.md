@@ -44,3 +44,6 @@
 - **[2026-09-18 21:44 UTC]** Efraim Filho defende redução de impostos e implementação da lei de liberdade econômica na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/efraim-filho-defende-reducao-de-impostos-e-implementacao-da-lei-de-liberdade-economica-na-paraiba.ghtml)_
 
+- **[2026-09-21 20:48 UTC]** Efraim Filho defende programa de estágio para facilitar entrada de jovens no mercado de trabalho na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/efraim-filho-defende-programa-de-estagio-para-facilitar-entrada-de-jovens-no-mercado-de-trabalho-na-paraiba.ghtml)_
+
