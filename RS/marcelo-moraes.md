@@ -2585,3 +2585,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 22:48 UTC]** Moraes se declara impedido de julgar processo que envolve sua esposa, Viviane Barci
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-de-julgar-processo-que-envolve-sua-esposa-viviane-barci.ghtml)_
 
+- **[2026-09-21 20:10 UTC]** Três deputados europeus pedem à UE ações contra Alexandre de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/elastic/noticia/2026/09/21/tres-deputados-europeus-pedem-a-ue-acoes-contra-moraes-e-monitoramento-das-eleicoes-no-brasil.ghtml)_
+
