@@ -1805,3 +1805,6 @@
 - **[2026-09-21 14:34 UTC]** Folha inicia série de entrevistas sobre educação; Flávio e Cury não escalam porta-vozes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/folha-inicia-serie-de-entrevistas-sobre-educacao-flavio-e-cury-nao-escalam-porta-vozes.shtml)_
 
+- **[2026-09-21 14:27 UTC]** Flávio mira em voto dos eleitores de adversários e tenta decidir eleição no 1º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-voto-util-primeiro-turno/)_
+
