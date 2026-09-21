@@ -50,3 +50,6 @@
 - **[2026-09-18 21:41 UTC]** Cícero Lucena promete aumento de efetivo policial e mais tecnologia para forças de segurança pública na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/cicero-lucena-promete-aumento-de-contingente-e-maior-tecnologia-para-forcas-de-seguranca-publica-na-paraiba.ghtml)_
 
+- **[2026-09-21 20:33 UTC]** Cícero Lucena propõe comitê de crise para combater crime organizado na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/cicero-lucena-propoe-comite-de-crise-para-combater-crime-organizado-na-paraiba.ghtml)_
+
