@@ -2561,3 +2561,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 13:24 UTC]** 'Homens tóxicos' e 'medinho de Moraes': veja frases marcantes do debate Folha/UOL ao Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/homens-toxicos-e-medinho-de-moraes-veja-frases-marcantes-do-debate-folhauol-ao-senado.shtml)_
 
+- **[2026-09-21 18:09 UTC]** Eurodeputados pedem à UE que analise sanções contra Moraes e monitore eleição no Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eurodeputados-pedem-ue-analise-sancoes-contra-moraes-monitore-eleicao-brasil/)_
+
