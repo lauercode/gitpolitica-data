@@ -26,3 +26,6 @@
 - **[2026-09-19 23:26 UTC]** Felipe Camarão propõe investir em transporte interurbano e criar passe livre estudantil no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/19/felipe-camarao-propoe-investir-em-transporte-interurbano-e-criar-passe-livre-estudantil-no-ma.ghtml)_
 
+- **[2026-09-21 11:33 UTC]** Felipe Camarão participa de entrevista do JMTV1 nesta segunda-feira; saiba como assistir
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/felipe-camarao-participa-de-entrevista-do-jmtv1-nesta-segunda-feira-saiba-como-assistir.ghtml)_
+
