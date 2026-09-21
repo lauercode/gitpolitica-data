@@ -986,3 +986,6 @@
 - **[2026-09-21 15:15 UTC]** Nova pesquisa Datafolha para presidente põe Lula e Flávio Bolsonaro à prova e testa crise do STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-para-presidente-poe-lula-e-flavio-bolsonaro-a-prova-e-testa-crise-do-stf.ghtml)_
 
+- **[2026-09-21 18:24 UTC]** Nos EUA, presidente Lula tem encontro com prefeito de Nova York
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/nos-eua-presidente-lula-tem-encontro-com-prefeito-de-nova-york)_
+
