@@ -1778,3 +1778,6 @@
 - **[2026-09-20 21:17 UTC]** PT vai ao TSE por suspensão de site com 'TV 24 h' de Flávio Bolsonaro por propaganda irregular
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/pt-vai-ao-tse-por-suspensao-de-site-com-tv-24-h-de-flavio-bolsonaro-por-propaganda-irregular.shtml)_
 
+- **[2026-09-21 05:00 UTC]** Podcast: a reta final da corrida eleitoral e as preocupações de Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-a-reta-final-da-corrida-eleitoral-e-as-preocupacoes-de-lula-e-flavio-bolsonaro.shtml)_
+
