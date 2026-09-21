@@ -1784,3 +1784,6 @@
 - **[2026-09-21 08:00 UTC]** Flávio Bolsonaro ganhou; e agora?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/coluna/flavio-bolsonaro-ganhou-e-agora.ghtml)_
 
+- **[2026-09-21 08:00 UTC]** Flávio evita embate, mas direita aposta em pauta anti-STF no Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/flavio-evita-embate-mas-direita-aposta-em-pauta-anti-stf-no-senado.ghtml)_
+
