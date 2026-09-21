@@ -20,3 +20,6 @@
 - **[2026-09-17 15:53 UTC]** Juliana Brizola (PDT) defende escola de tempo integral com esporte, cultura e atendimento de saúde em entrevista à RBS TV
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/17/juliana-brizola-pdt-entrevista-rbs-tv.ghtml)_
 
+- **[2026-09-21 20:33 UTC]** Pesquisa Quaest no RS mede novo capítulo do duelo entre Juliana Brizola e Luciano Zucco
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/pesquisa-quaest-no-rs-mede-novo-capitulo-do-duelo-entre-juliana-brizola-e-luciano-zucco.ghtml)_
+
