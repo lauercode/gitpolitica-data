@@ -2552,3 +2552,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 11:37 UTC]** Deltan Dallagnol associa ministro do TSE a Moraes e diz que vai recorrer de suspensão da campanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/deltan-dallagnol-associa-ministro-do-tse-a-moraes-e-diz-que-vai-recorrer-de-suspensao-da-campanha.ghtml)_
 
+- **[2026-09-21 13:37 UTC]** Moraes é relator de processo que cita esposa, Vorcaro e filho de Lula
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/moraes-e-relator-de-processo-que-cita-esposa-vorcaro-e-filho-de-lula)_
+
