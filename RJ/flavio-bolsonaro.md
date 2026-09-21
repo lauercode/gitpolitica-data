@@ -1838,3 +1838,6 @@
 - **[2026-09-21 21:19 UTC]** PF encontra mensagens em que assessor de Brazão cobra emenda de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/pf-encontra-mensagens-em-que-assessor-de-brazao-cobra-emenda-de-flavio-dois-dias-antes-de-ser-preso.ghtml)_
 
+- **[2026-09-21 21:17 UTC]** Quaest: Lula e Flávio empatam no primeiro e segundo turnos, a 13 dias da eleição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/quaest-flavio-tem-42percent-e-lula-41percent-no-segundo-turno.ghtml)_
+
