@@ -1781,3 +1781,6 @@
 - **[2026-09-21 05:00 UTC]** Podcast: a reta final da corrida eleitoral e as preocupações de Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-a-reta-final-da-corrida-eleitoral-e-as-preocupacoes-de-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-09-21 08:00 UTC]** Flávio Bolsonaro ganhou; e agora?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/coluna/flavio-bolsonaro-ganhou-e-agora.ghtml)_
+
