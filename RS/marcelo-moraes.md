@@ -2546,3 +2546,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 14:17 UTC]** Novo vídeo contradiz versão de Moraes sobre voo em avião ligado a Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-video-contradiz-versao-de-moraes-sobre-voo-em-aviao-ligado-a-vorcaro/)_
 
+- **[2026-09-21 10:33 UTC]** Moraes desembarcou de jatinho para evento no Rio e criticou autocontenção citada por Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-desembarcou-de-jatinho-para-evento-no-rio-e-criticou-fala-de-mendonca-sobre-autocontencao/)_
+
