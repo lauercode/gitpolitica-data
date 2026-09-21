@@ -44,3 +44,6 @@
 - **[2026-09-21 20:57 UTC]** TSE forma maioria para manter suspensão da campanha de Deltan Dallagnol
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tse-forma-maioria-para-manter-suspensao-da-campanha-de-deltan-dallagnol/)_
 
+- **[2026-09-21 22:21 UTC]** TSE forma maioria para manter decisão que suspende campanha de Deltan Dallagnol
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/tse-forma-maioria-para-manter-decisao-que-suspende-campanha-de-deltan-dallagnol.ghtml)_
+
