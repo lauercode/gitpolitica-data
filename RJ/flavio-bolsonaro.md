@@ -1793,3 +1793,6 @@
 - **[2026-09-21 10:05 UTC]** André Singer lança em São Paulo livro sobre legado político de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/andre-singer-lanca-em-sao-paulo-livro-sobre-legado-politico-de-bolsonaro.shtml)_
 
+- **[2026-09-21 09:00 UTC]** Pesquisa Palver mostra Flávio com 42% e Lula com 41% no primeiro turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pesquisa-palver-mostra-flavio-com-42-e-lula-com-41-no-primeiro-turno.shtml)_
+
