@@ -23,3 +23,6 @@
 - **[2026-09-19 18:03 UTC]** Mateus Simões defende maior objetividade nos processos de licenciamento ambiental
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/19/mateus-simes-defende-maior-objetividade-nos-processos-de-licenciamento-ambiental.ghtml)_
 
+- **[2026-09-21 20:04 UTC]** Ausentes de debate, Cleitinho, Patrus e Kalil são atacados por Mateus Simões e Gabriel Azevedo, em MG
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/ausentes-de-debate-cleitinho-patrus-e-kalil-sao-atacados-por-mateus-simoes-e-gabriel-azevedo-em-mg.ghtml)_
+
