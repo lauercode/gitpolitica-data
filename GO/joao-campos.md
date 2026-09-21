@@ -29,3 +29,6 @@
 - **[2026-09-18 22:01 UTC]** Militantes de Raquel Lyra e João Campos brigam antes de debate em Caruaru
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/militantes-de-raquel-lyra-e-joao-campos-brigam-antes-de-debate-em-caruaru.shtml)_
 
+- **[2026-09-21 17:38 UTC]** Nova pesquisa Datafolha em PE testa duelo entre Raquel Lyra e João Campos em disputa acirrada
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-em-pe-testa-duelo-entre-raquel-lyra-e-joao-campos-em-disputa-acirrada.ghtml)_
+
