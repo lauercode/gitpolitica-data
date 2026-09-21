@@ -2534,3 +2534,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 23:16 UTC]** Por que mensagens escritas por Moraes a Vorcaro podem não ser recuperáveis
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/por-que-mensagens-escritas-por-moraes-a-vorcaro-podem-nao-ser-recuperaveis/)_
 
+- **[2026-09-21 03:16 UTC]** Polícia Federal enfrenta obstáculos técnicos para recuperar mensagens de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-enfrenta-obstaculos-tecnicos-para-recuperar-mensagens-de-moraes/)_
+
