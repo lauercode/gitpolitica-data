@@ -1832,3 +1832,6 @@
 - **[2026-09-21 18:22 UTC]** Quaest: Lula tem 37%, e Flávio Bolsonaro, 33% no 1º turno; candidatos empatam no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-lula-tem-37-e-flavio-bolsonaro-33-no-1o-turno-candidatos-empatam-no-2o-turno.shtml)_
 
+- **[2026-09-21 18:05 UTC]** Assessora de Flávio Bolsonaro negociou liberação de emendas com miliciano condenado no caso Marielle
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/assessora-de-flavio-bolsonaro-negociou-liberacao-de-emendas-com-miliciano-condenado-no-caso-marielle.shtml)_
+
