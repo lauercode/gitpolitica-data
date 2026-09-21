@@ -2549,3 +2549,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 10:33 UTC]** Moraes desembarcou de jatinho para evento no Rio e criticou autocontenção citada por Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-desembarcou-de-jatinho-para-evento-no-rio-e-criticou-fala-de-mendonca-sobre-autocontencao/)_
 
+- **[2026-09-21 11:37 UTC]** Deltan Dallagnol associa ministro do TSE a Moraes e diz que vai recorrer de suspensão da campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/deltan-dallagnol-associa-ministro-do-tse-a-moraes-e-diz-que-vai-recorrer-de-suspensao-da-campanha.ghtml)_
+
