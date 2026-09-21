@@ -980,3 +980,6 @@
 - **[2026-09-20 13:34 UTC]** Indústria de bets usa valores invesidos com publicidade e patrocínio contra ofensiva do presidente Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/industria-de-bets-usa-valores-invesidos-com-publicidade-e-patrocinio-contra-ofensiva-do-presidente-lula.shtml)_
 
+- **[2026-09-20 21:24 UTC]** Lula marca encontros com Bernie Sanders, Mamdani e presidente do Uruguai em NY
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/lula-marca-encontros-com-bernie-sanders-mamdani-e-presidente-do-uruguai-em-ny.shtml)_
+
