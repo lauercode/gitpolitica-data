@@ -41,3 +41,6 @@
 - **[2026-09-21 18:26 UTC]** TSE forma maioria para manter suspensa campanha de Deltan Dallagnol ao Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-forma-maioria-para-manter-suspensa-campanha-de-deltan-dallagnol-ao-senado.shtml)_
 
+- **[2026-09-21 20:57 UTC]** TSE forma maioria para manter suspensão da campanha de Deltan Dallagnol
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tse-forma-maioria-para-manter-suspensao-da-campanha-de-deltan-dallagnol/)_
+
