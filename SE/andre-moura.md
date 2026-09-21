@@ -11,3 +11,6 @@
 - **[2026-09-09 21:06 UTC]** Eleições 2026: Delegado André David e André Moura cancelam participação em entrevista na FM Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-cancelamento-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-21 15:25 UTC]** André Moura, candidato ao Senado por Sergipe é alvo de bloqueio judicial  de até R$ 5 milhões em bens
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/21/andre-moura-candidato-ao-senado-por-sergipe-e-alvo-de-determinacao-judicial-no-rj-para-bloqueio-de-bens.ghtml)_
+
