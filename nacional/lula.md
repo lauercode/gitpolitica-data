@@ -989,3 +989,6 @@
 - **[2026-09-21 18:24 UTC]** Nos EUA, presidente Lula tem encontro com prefeito de Nova York
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/nos-eua-presidente-lula-tem-encontro-com-prefeito-de-nova-york)_
 
+- **[2026-09-21 17:53 UTC]** Na reta final, campanha de Lula reforça atos de rua e presença do presidente nos estados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/na-reta-final-campanha-de-lula-reforca-atos-de-rua-e-presenca-do-presidente-nos-estados.shtml)_
+
