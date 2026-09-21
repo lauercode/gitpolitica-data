@@ -14,3 +14,6 @@
 - **[2026-09-19 15:18 UTC]** Flávio Roscoe suspende campanha com quadro de pneumonia e bronquiolite
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/19/flvio-roscoe-suspende-campanha-com-quadro-de-pneumonia-e-bronquiolite.ghtml)_
 
+- **[2026-09-21 16:11 UTC]** Com pneumonia, Flávio Roscoe testa positivo para covid-19
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/com-pneumonia-flvio-roscoe-testa-positivo-para-covid-19.ghtml)_
+
