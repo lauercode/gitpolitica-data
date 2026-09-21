@@ -35,3 +35,6 @@
 - **[2026-09-21 19:08 UTC]** Helicóptero com Rick, da dupla com Renner, desaparece durante voo em SC
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/helicoptero-com-rick-da-dupla-com-renner-desaparece-durante-voo-em-sc.shtml)_
 
+- **[2026-09-21 23:01 UTC]** Empresa dona de helicóptero em que Rick estava em SC divulga nota sobre caso
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/empresa-dona-de-helicoptero-em-que-rick-estava-em-sc-divulga-nota-sobre-caso.ghtml)_
+
