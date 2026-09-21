@@ -1787,3 +1787,6 @@
 - **[2026-09-21 08:00 UTC]** Flávio evita embate, mas direita aposta em pauta anti-STF no Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/flavio-evita-embate-mas-direita-aposta-em-pauta-anti-stf-no-senado.ghtml)_
 
+- **[2026-09-21 13:47 UTC]** Datafolha: veja os segmentos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/datafolha-17-set-segmentos.ghtml)_
+
