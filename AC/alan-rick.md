@@ -47,3 +47,6 @@
 - **[2026-09-21 22:17 UTC]** Helicóptero perdeu comunicação, diz assessoria de Rick sobre aeronave desaparecida
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/helicoptero-perdeu-comunicacao-diz-assessoria-rick-sobre-aeronave-desaparecida.ghtml)_
 
+- **[2026-09-21 22:08 UTC]** Em post mais recente, Rick mostra encontro com empresário em aeroporto
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/em-post-mais-recente-rick-mostra-encontro-com-empresario-em-aeroporto.ghtml)_
+
