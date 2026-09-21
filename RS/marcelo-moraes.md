@@ -2531,3 +2531,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-20 21:03 UTC]** Escritório da esposa de Moraes nega vínculo pessoal com Vorcaro em viagem de jatinho
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/20/escritorio-da-esposa-de-moraes-nega-vinculo-pessoal-com-vorcaro-em-viagem-de-jatinho.ghtml)_
 
+- **[2026-09-20 23:16 UTC]** Por que mensagens escritas por Moraes a Vorcaro podem não ser recuperáveis
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/por-que-mensagens-escritas-por-moraes-a-vorcaro-podem-nao-ser-recuperaveis/)_
+
