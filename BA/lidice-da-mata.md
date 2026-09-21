@@ -143,3 +143,6 @@
 - **[2026-09-18 09:16 UTC]** Vanessa da Mata, Mombojó e mais: 'Qual a Boa?' do fim de semana, 18, 19 e 20 de setembro, na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/musica/noticia/2026/09/18/vanessa-da-mata-mombojo-e-mais-qual-a-boa-do-fim-de-semana-18-19-e-20-de-setembro-na-pb.ghtml)_
 
+- **[2026-09-21 07:52 UTC]** Agricultura ganha 11 milhões de hectares em 41 anos na Mata Atlântica
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/agricultura-ganha-11-milhoes-de-hectares-em-41-anos-na-mata-atlantica)_
+
