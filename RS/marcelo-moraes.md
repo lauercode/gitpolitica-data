@@ -2582,3 +2582,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 21:53 UTC]** Corrupção “nas alturas”: Moraes e esposa no jato de Vorcaro
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/corrupcao-nas-alturas-moraes-e-o-jato-de-vorcaro/)_
 
+- **[2026-09-21 22:48 UTC]** Moraes se declara impedido de julgar processo que envolve sua esposa, Viviane Barci
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-de-julgar-processo-que-envolve-sua-esposa-viviane-barci.ghtml)_
+
