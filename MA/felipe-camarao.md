@@ -29,3 +29,6 @@
 - **[2026-09-21 11:33 UTC]** Felipe Camarão participa de entrevista do JMTV1 nesta segunda-feira; saiba como assistir
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/felipe-camarao-participa-de-entrevista-do-jmtv1-nesta-segunda-feira-saiba-como-assistir.ghtml)_
 
+- **[2026-09-21 17:59 UTC]** Felipe Camarão propõe retomar Escola Digna, ampliar Patrulha Maria da Penha e criar calendário cultural no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/felipe-camarao-propoe-retomar-escola-digna-ampliar-patrulha-maria-da-penha-e-criar-calendario-cultural-no-ma.ghtml)_
+
