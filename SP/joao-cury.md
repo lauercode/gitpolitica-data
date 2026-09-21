@@ -299,3 +299,6 @@
 - **[2026-09-19 16:42 UTC]** Cury diz que 'suplicou' a Fachin para STF concluir julgamento em uma semana
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/19/cury-diz-que-suplicou-a-fachin-para-stf-concluir-julgamento-em-uma-semana.ghtml)_
 
+- **[2026-09-21 14:34 UTC]** Folha inicia série de entrevistas sobre educação; Flávio e Cury não escalam porta-vozes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/folha-inicia-serie-de-entrevistas-sobre-educacao-flavio-e-cury-nao-escalam-porta-vozes.shtml)_
+
