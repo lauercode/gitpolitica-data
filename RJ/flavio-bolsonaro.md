@@ -1811,3 +1811,6 @@
 - **[2026-09-21 17:44 UTC]** Ação do PT contra Flávio Bolsonaro pode gerar suspensão de perfis nas redes sociais, dizem especialistas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/acao-do-pt-contra-flavio-bolsonaro-pode-gerar-suspensao-de-perfis-nas-redes-sociais-dizem-especialistas.ghtml)_
 
+- **[2026-09-21 17:17 UTC]** Disputa mais apertada entre Lula e Flávio faz bolsa brasileira romper padrão eleitoral, aponta J.P. Morgan
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/21/disputa-mais-apertada-entre-lula-e-flvio-faz-bolsa-brasileira-romper-padro-eleitoral-aponta-jp-morgan.ghtml)_
+
