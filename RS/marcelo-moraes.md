@@ -2570,3 +2570,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 14:53 UTC]** Moraes manda STF enviar provas do caso das joias sauditas à Receita
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-manda-stf-enviar-provas-do-caso-das-joias-sauditas-a-receita/)_
 
+- **[2026-09-21 19:06 UTC]** Moraes se declara impedido em ação sobre ida de sua esposa ao Senado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-se-declara-impedido-em-acao-sobre-ida-de-sua-esposa-ao-senado)_
+
