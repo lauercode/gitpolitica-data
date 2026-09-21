@@ -44,3 +44,6 @@
 - **[2026-09-18 22:08 UTC]** Nova pesquisa Quaest em SP mede disputa entre Tarcísio e Haddad a duas semanas da eleição
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/nova-pesquisa-quaest-em-sp-mede-disputa-entre-tarcisio-e-haddad-a-duas-semanas-da-eleicao.ghtml)_
 
+- **[2026-09-21 18:55 UTC]** Haddad defende revisão de contratos em SP e critica Tarcísio por falta a debate
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/haddad-defende-revisao-de-contratos-em-sp-e-critica-tarcisio-por-falta-a-debate.ghtml)_
+
