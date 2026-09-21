@@ -59,3 +59,6 @@
 - **[2026-09-19 22:02 UTC]** Eleições 2026: Professora Maria do Carmo promete fortalecer cultura e ampliar vagas no Liceu de Parintins
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/19/eleicoes-2026-professora-maria-do-carmo-promete-fortalecer-cultura-e-ampliar-vagas-no-liceu-de-parintins.ghtml)_
 
+- **[2026-09-21 13:24 UTC]** Eleições 2026: Professora Maria do Carmo defende reestruturação da educação e revisão de contratos da Seduc
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-professora-maria-do-carmo-defende-reestruturacao-da-educacao-e-revisao-de-contratos-da-seduc.ghtml)_
+
