@@ -26,3 +26,6 @@
 - **[2026-09-19 02:44 UTC]** Sem Dr. Daniel e Hana Ghassan em debate, Araceli Lemos defende cancelamento da concessão de água no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/18/sem-dr-daniel-e-hana-ghassan-em-debate-araceli-lemos-defende-cancelamento-da-concessao-de-agua-no-para.ghtml)_
 
+- **[2026-09-21 15:40 UTC]** Dr. Daniel promete romper contrato de saneamento e zerar IPVA de motoristas de aplicativo no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/21/dr-daniel-propoe-romper-contrato-com-a-aguas-do-para-e-zerar-ipva-para-motoristas-de-aplicativo.ghtml)_
+
