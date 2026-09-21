@@ -1808,3 +1808,6 @@
 - **[2026-09-21 14:27 UTC]** Flávio mira em voto dos eleitores de adversários e tenta decidir eleição no 1º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-voto-util-primeiro-turno/)_
 
+- **[2026-09-21 17:44 UTC]** Ação do PT contra Flávio Bolsonaro pode gerar suspensão de perfis nas redes sociais, dizem especialistas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/acao-do-pt-contra-flavio-bolsonaro-pode-gerar-suspensao-de-perfis-nas-redes-sociais-dizem-especialistas.ghtml)_
+
