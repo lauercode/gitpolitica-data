@@ -47,3 +47,6 @@
 - **[2026-09-19 11:33 UTC]** Paula Pimenta diz que antes tinha 'preocupação zero' com diversidade em seus livros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/paula-pimenta-diz-que-antes-tinha-preocupacao-zero-com-diversidade-em-seus-livros.shtml)_
 
+- **[2026-09-21 11:13 UTC]** Paulo Pimenta (PT) propõe tornar Compra Assistida programa permanente para famílias atingidas por desastres, em entrevista à RBS TV
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/21/paulo-pimenta-pt-entrevista-rbs-tv.ghtml)_
+
