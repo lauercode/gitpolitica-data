@@ -2564,3 +2564,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 18:09 UTC]** Eurodeputados pedem à UE que analise sanções contra Moraes e monitore eleição no Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eurodeputados-pedem-ue-analise-sancoes-contra-moraes-monitore-eleicao-brasil/)_
 
+- **[2026-09-21 17:36 UTC]** Moraes se torna relator de ação que envolve sua esposa, Vorcaro e Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-relator-acao-envolve-esposa-vorcaro-e-lulinha/)_
+
