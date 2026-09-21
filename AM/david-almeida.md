@@ -56,3 +56,6 @@
 - **[2026-09-17 22:06 UTC]** Polícia Federal tem aval da Justiça Eleitoral para ouvir David Almeida em investigação sobre compra de votos em 2024
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/17/policia-federal-tem-aval-da-justica-eleitoral-para-ouvir-david-almeida-em-investigacao-sobre-compra-de-votos-em-2024.ghtml)_
 
+- **[2026-09-21 22:21 UTC]** Eleições 2026: David Almeida participa de caminhada e promete ampliar turismo no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-david-almeida-participa-de-caminhada-e-promete-ampliar-turismo-no-amazonas.ghtml)_
+
