@@ -29,3 +29,6 @@
 - **[2026-09-18 00:27 UTC]** Na TV, Lula mostra Flávio investigado e senador diz que petista colocou brasileiro 'na mira do crime'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/na-tv-lula-mostra-flavio-investigado-e-senador-diz-que-petista-colocou-brasileiro-na-mira-do-crime.ghtml)_
 
+- **[2026-09-21 12:31 UTC]** Lula encontra senador e prefeito de Nova York socialistas em viagem aos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-encontra-senador-prefeito-nova-york-socialistas-viagem-eua/)_
+
