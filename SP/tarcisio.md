@@ -47,3 +47,6 @@
 - **[2026-09-21 18:55 UTC]** Haddad defende revisão de contratos em SP e critica Tarcísio por falta a debate
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/haddad-defende-revisao-de-contratos-em-sp-e-critica-tarcisio-por-falta-a-debate.ghtml)_
 
+- **[2026-09-21 15:23 UTC]** Nova pesquisa Datafolha em SP testa vantagem de 20 pontos de Tarcísio contra Haddad
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-em-sp-testa-vantagem-de-20-pontos-de-tarcisio-contra-haddad.ghtml)_
+
