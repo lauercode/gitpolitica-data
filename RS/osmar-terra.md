@@ -128,3 +128,6 @@
 - **[2026-09-16 13:30 UTC]** O diamante raro que pode contar a história das profundezas da Terra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2026/09/o-diamante-raro-que-pode-contar-a-historia-das-profundezas-da-terra.shtml)_
 
+- **[2026-09-21 12:46 UTC]** Mulher é morta a tiros dentro de bar no bairro da Terra Firme, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/21/mulher-e-morta-a-tiros-dentro-de-bar-no-bairro-da-terra-firme-em-belem.ghtml)_
+
