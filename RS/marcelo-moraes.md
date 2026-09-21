@@ -2555,3 +2555,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 13:37 UTC]** Moraes é relator de processo que cita esposa, Vorcaro e filho de Lula
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/moraes-e-relator-de-processo-que-cita-esposa-vorcaro-e-filho-de-lula)_
 
+- **[2026-09-21 16:07 UTC]** Moraes é sorteado relator de ação sobre visitas de própria esposa e Vorcaro a senadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-e-sorteado-relator-de-acao-sobre-visitas-de-propria-esposa-e-vorcaro-a-senadores.shtml)_
+
