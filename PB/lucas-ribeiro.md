@@ -41,3 +41,6 @@
 - **[2026-09-18 22:25 UTC]** Lucas Ribeiro defende continuidade de políticas voltadas para o setor do agronegócio na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/lucas-ribeiro-fala-em-geracao-de-emprego-e-renda-no-setor-do-agronegocio-na-paraiba.ghtml)_
 
+- **[2026-09-21 19:12 UTC]** Lucas Ribeiro defende mobilidade urbana e cita novos projetos para cidades da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/lucas-ribeiro-candidato-ao-governo-da-pb-defende-projetos-de-mobilidade-em-cidades-do-estado.ghtml)_
+
