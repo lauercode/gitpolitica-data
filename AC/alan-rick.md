@@ -41,3 +41,6 @@
 - **[2026-09-21 22:42 UTC]** Bell 430 com capacidade para 7 passageiros: conheça o helicóptero que desapareceu com o cantor Rick
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/helicoptero-bell-430.ghtml)_
 
+- **[2026-09-21 22:21 UTC]** Dois anos antes de helicóptero desaparecer, Rick, da dupla com Renner, sofreu acidente de carro em SC; relembre
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/rick-da-dupla-com-renner-acidente-em-sc.ghtml)_
+
