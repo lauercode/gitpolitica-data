@@ -302,3 +302,6 @@
 - **[2026-09-21 14:34 UTC]** Folha inicia série de entrevistas sobre educação; Flávio e Cury não escalam porta-vozes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/folha-inicia-serie-de-entrevistas-sobre-educacao-flavio-e-cury-nao-escalam-porta-vozes.shtml)_
 
+- **[2026-09-21 21:05 UTC]** Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 33%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-presidente-1o-turno-21-setembro.ghtml)_
+
