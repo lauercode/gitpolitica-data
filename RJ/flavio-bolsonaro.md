@@ -1835,3 +1835,6 @@
 - **[2026-09-21 18:05 UTC]** Assessora de Flávio Bolsonaro negociou liberação de emendas com miliciano condenado no caso Marielle
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/assessora-de-flavio-bolsonaro-negociou-liberacao-de-emendas-com-miliciano-condenado-no-caso-marielle.shtml)_
 
+- **[2026-09-21 21:19 UTC]** PF encontra mensagens em que assessor de Brazão cobra emenda de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/pf-encontra-mensagens-em-que-assessor-de-brazao-cobra-emenda-de-flavio-dois-dias-antes-de-ser-preso.ghtml)_
+
