@@ -32,3 +32,6 @@
 - **[2026-09-18 15:15 UTC]** Alan Rick propõe parcerias com prefeituras para tornar mercados mais atrativos no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/18/alan-rick-propoe-parcerias-com-prefeituras-para-tornar-mercados-mais-atrativos-no-acre.ghtml)_
 
+- **[2026-09-21 19:08 UTC]** Helicóptero com Rick, da dupla com Renner, desaparece durante voo em SC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/helicoptero-com-rick-da-dupla-com-renner-desaparece-durante-voo-em-sc.shtml)_
+
