@@ -1814,3 +1814,6 @@
 - **[2026-09-21 17:17 UTC]** Disputa mais apertada entre Lula e Flávio faz bolsa brasileira romper padrão eleitoral, aponta J.P. Morgan
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/21/disputa-mais-apertada-entre-lula-e-flvio-faz-bolsa-brasileira-romper-padro-eleitoral-aponta-jp-morgan.ghtml)_
 
+- **[2026-09-21 15:15 UTC]** Nova pesquisa Datafolha para presidente põe Lula e Flávio Bolsonaro à prova e testa crise do STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-para-presidente-poe-lula-e-flavio-bolsonaro-a-prova-e-testa-crise-do-stf.ghtml)_
+
