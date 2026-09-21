@@ -32,3 +32,6 @@
 - **[2026-09-20 01:00 UTC]** TSE suspende campanha de Deltan Dallagnol ao Senado pelo Paraná; ex-procurador vai recorrer
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-suspende-campanha-de-deltan-dallagnol-ao-senado-pelo-parana-ex-procurador-vai-recorrer.shtml)_
 
+- **[2026-09-21 03:00 UTC]** Deltan Dallagnol está impedido de fazer campanha e usar fundo partidário até julgamento do TSE sobre inelegibilidade; entenda
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/deltan-dallagnol-esta-impedido-de-fazer-campanha-e-usar-fundo-partidario-ate-julgamento-do-tse-sobre-inelegibilidade-entenda.ghtml)_
+
