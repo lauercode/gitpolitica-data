@@ -44,3 +44,6 @@
 - **[2026-09-21 22:21 UTC]** Dois anos antes de helicóptero desaparecer, Rick, da dupla com Renner, sofreu acidente de carro em SC; relembre
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/rick-da-dupla-com-renner-acidente-em-sc.ghtml)_
 
+- **[2026-09-21 22:17 UTC]** Helicóptero perdeu comunicação, diz assessoria de Rick sobre aeronave desaparecida
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/helicoptero-perdeu-comunicacao-diz-assessoria-rick-sobre-aeronave-desaparecida.ghtml)_
+
