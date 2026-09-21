@@ -1790,3 +1790,6 @@
 - **[2026-09-21 13:47 UTC]** Datafolha: veja os segmentos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/datafolha-17-set-segmentos.ghtml)_
 
+- **[2026-09-21 10:05 UTC]** André Singer lança em São Paulo livro sobre legado político de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/andre-singer-lanca-em-sao-paulo-livro-sobre-legado-politico-de-bolsonaro.shtml)_
+
