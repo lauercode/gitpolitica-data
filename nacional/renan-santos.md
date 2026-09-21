@@ -296,3 +296,6 @@
 - **[2026-09-20 15:41 UTC]** Renan Santos fala em 'cinismo' de eleitores que apoiam Valdemar após protestos anticorrupção
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/20/renan-santos-campanha-sc-setembro.ghtml)_
 
+- **[2026-09-21 10:43 UTC]** Renan Santos faz campanha em Curitiba e critica aumento do Bolsa Família: 'Compra de voto'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/renan-campanha-setembro-curitiba.ghtml)_
+
