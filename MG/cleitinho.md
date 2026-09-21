@@ -68,3 +68,6 @@
 - **[2026-09-21 17:33 UTC]** Nova pesquisa Datafolha em MG testa se Cleitinho vai ampliar vantagem contra rivais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-em-mg-testa-se-cleitinho-vai-ampliar-vantagem-contra-rivais.ghtml)_
 
+- **[2026-09-21 20:04 UTC]** Ausentes de debate, Cleitinho, Patrus e Kalil são atacados por Mateus Simões e Gabriel Azevedo, em MG
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/ausentes-de-debate-cleitinho-patrus-e-kalil-sao-atacados-por-mateus-simoes-e-gabriel-azevedo-em-mg.ghtml)_
+
