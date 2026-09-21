@@ -2540,3 +2540,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 08:00 UTC]** Vídeo registra Moraes e esposa em jatinho de Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/video-registra-moraes-e-esposa-em-jatinho-de-vorcaro.ghtml)_
 
+- **[2026-09-21 12:44 UTC]** Ex-ministros defendem que STF deve apurar relação de Vorcaro e Moraes, após vídeo de jatinho
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/21/apos-video-de-jatinho-ex-ministros-voltam-a-defender-que-stf-deve-apurar-relacao-de-vorcaro-e-moraes.ghtml)_
+
