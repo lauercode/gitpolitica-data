@@ -1796,3 +1796,6 @@
 - **[2026-09-21 09:00 UTC]** Pesquisa Palver mostra Flávio com 42% e Lula com 41% no primeiro turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pesquisa-palver-mostra-flavio-com-42-e-lula-com-41-no-primeiro-turno.shtml)_
 
+- **[2026-09-21 07:59 UTC]** BTG/Nexus: Lula e Flávio Bolsonaro mantêm empate técnico no primeiro e no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-lula-e-flavio-bolsonaro-mantem-empate-tecnico-no-primeiro-e-no-segundo-turno.shtml)_
+
