@@ -1775,3 +1775,6 @@
 - **[2026-09-20 22:00 UTC]** Campanha de Flávio Bolsonaro lança talk show com convidados como Cris Arcangeli
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/campanha-de-flavio-bolsonaro-lanca-talk-show-com-convidados-como-cris-arcangeli.shtml)_
 
+- **[2026-09-20 21:17 UTC]** PT vai ao TSE por suspensão de site com 'TV 24 h' de Flávio Bolsonaro por propaganda irregular
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/pt-vai-ao-tse-por-suspensao-de-site-com-tv-24-h-de-flavio-bolsonaro-por-propaganda-irregular.shtml)_
+
