@@ -146,3 +146,6 @@
 - **[2026-09-21 07:52 UTC]** Agricultura ganha 11 milhões de hectares em 41 anos na Mata Atlântica
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/agricultura-ganha-11-milhoes-de-hectares-em-41-anos-na-mata-atlantica)_
 
+- **[2026-09-21 17:14 UTC]** Um quarto da Mata Atlântica é de vegetação secundária, diz MapBiomas
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/um-quarto-da-mata-atlantica-e-de-vegetacao-secundaria-diz-mapbiomas)_
+
