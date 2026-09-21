@@ -1817,3 +1817,6 @@
 - **[2026-09-21 15:15 UTC]** Nova pesquisa Datafolha para presidente põe Lula e Flávio Bolsonaro à prova e testa crise do STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-para-presidente-poe-lula-e-flavio-bolsonaro-a-prova-e-testa-crise-do-stf.ghtml)_
 
+- **[2026-09-21 21:51 UTC]** Quaest: rejeição a Flávio Bolsonaro é de 56%; Lula tem 55%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-rejeicao-21-setembro.ghtml)_
+
