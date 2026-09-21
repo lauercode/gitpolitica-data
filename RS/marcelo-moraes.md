@@ -2543,3 +2543,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 12:44 UTC]** Ex-ministros defendem que STF deve apurar relação de Vorcaro e Moraes, após vídeo de jatinho
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/21/apos-video-de-jatinho-ex-ministros-voltam-a-defender-que-stf-deve-apurar-relacao-de-vorcaro-e-moraes.ghtml)_
 
+- **[2026-09-21 14:17 UTC]** Novo vídeo contradiz versão de Moraes sobre voo em avião ligado a Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-video-contradiz-versao-de-moraes-sobre-voo-em-aviao-ligado-a-vorcaro/)_
+
