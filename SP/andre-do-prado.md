@@ -26,3 +26,6 @@
 - **[2026-09-16 21:01 UTC]** Justiça Eleitoral proíbe propaganda de André do Prado que usa imagem de Tarcísio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/justica-eleitoral-proibe-propaganda-de-andre-do-prado-que-usa-imagem-de-tarcisio.shtml)_
 
+- **[2026-09-21 10:31 UTC]** Debate da Folha/UOL ao Senado começa com embate entre Salles e André do Prado por vaga à direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/debate-da-folhauol-ao-senado-comeca-com-embate-entre-salles-e-andre-do-prado-por-vaga-a-direita.shtml)_
+
