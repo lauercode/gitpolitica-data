@@ -2537,3 +2537,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 03:16 UTC]** Polícia Federal enfrenta obstáculos técnicos para recuperar mensagens de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-enfrenta-obstaculos-tecnicos-para-recuperar-mensagens-de-moraes/)_
 
+- **[2026-09-21 08:00 UTC]** Vídeo registra Moraes e esposa em jatinho de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/video-registra-moraes-e-esposa-em-jatinho-de-vorcaro.ghtml)_
+
