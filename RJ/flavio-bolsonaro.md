@@ -1799,3 +1799,6 @@
 - **[2026-09-21 07:59 UTC]** BTG/Nexus: Lula e Flávio Bolsonaro mantêm empate técnico no primeiro e no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-lula-e-flavio-bolsonaro-mantem-empate-tecnico-no-primeiro-e-no-segundo-turno.shtml)_
 
+- **[2026-09-21 13:17 UTC]** Musk reage a Flávio ultrapassando Lula em plataforma de previsão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/musk-reage-flavio-ultrapassando-lula-plataforma-previsao/)_
+
