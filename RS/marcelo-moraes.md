@@ -2576,3 +2576,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 16:07 UTC]** Moraes se declara impedido para atuar em ação sobre visitas de própria esposa e Vorcaro a senadores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-e-sorteado-relator-de-acao-sobre-visitas-de-propria-esposa-e-vorcaro-a-senadores.shtml)_
 
+- **[2026-09-21 22:33 UTC]** Moraes se declara impedido em ação que envolve sua esposa, Vorcaro e Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-se-declara-impedido-em-acao-que-envolve-sua-esposa-vorcaro-e-lulinha/)_
+
