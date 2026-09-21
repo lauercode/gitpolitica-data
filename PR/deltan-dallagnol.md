@@ -35,3 +35,6 @@
 - **[2026-09-21 03:00 UTC]** Deltan Dallagnol está impedido de fazer campanha e usar fundo partidário até julgamento do TSE sobre inelegibilidade; entenda
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/deltan-dallagnol-esta-impedido-de-fazer-campanha-e-usar-fundo-partidario-ate-julgamento-do-tse-sobre-inelegibilidade-entenda.ghtml)_
 
+- **[2026-09-21 11:37 UTC]** Deltan Dallagnol associa ministro do TSE a Moraes e diz que vai recorrer de suspensão da campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/deltan-dallagnol-associa-ministro-do-tse-a-moraes-e-diz-que-vai-recorrer-de-suspensao-da-campanha.ghtml)_
+
