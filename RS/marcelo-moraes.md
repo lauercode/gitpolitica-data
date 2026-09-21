@@ -2567,3 +2567,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 17:36 UTC]** Moraes se torna relator de ação que envolve sua esposa, Vorcaro e Lulinha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-relator-acao-envolve-esposa-vorcaro-e-lulinha/)_
 
+- **[2026-09-21 14:53 UTC]** Moraes manda STF enviar provas do caso das joias sauditas à Receita
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-manda-stf-enviar-provas-do-caso-das-joias-sauditas-a-receita/)_
+
