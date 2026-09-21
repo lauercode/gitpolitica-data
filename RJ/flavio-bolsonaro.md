@@ -1802,3 +1802,6 @@
 - **[2026-09-21 13:17 UTC]** Musk reage a Flávio ultrapassando Lula em plataforma de previsão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/musk-reage-flavio-ultrapassando-lula-plataforma-previsao/)_
 
+- **[2026-09-21 14:34 UTC]** Folha inicia série de entrevistas sobre educação; Flávio e Cury não escalam porta-vozes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/folha-inicia-serie-de-entrevistas-sobre-educacao-flavio-e-cury-nao-escalam-porta-vozes.shtml)_
+
