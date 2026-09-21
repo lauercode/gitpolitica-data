@@ -1823,3 +1823,6 @@
 - **[2026-09-21 21:25 UTC]** Quaest: cai parcela que diz que caso Master afeta 'todos'; 21% citam família Bolsonaro; 16%, o STF; e 11%, o governo Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-impactos-do-caso-master-e-crise-no-stf.ghtml)_
 
+- **[2026-09-21 21:05 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-presidente-2o-turno-21-setembro.ghtml)_
+
