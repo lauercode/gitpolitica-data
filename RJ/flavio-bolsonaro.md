@@ -1772,3 +1772,6 @@
 - **[2026-09-20 22:24 UTC]** Campanha de Lula pede cassação do registro da chapa de Flávio Bolsonaro por uso irregular do Instagram
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/20/campanha-de-lula-pede-cassao-do-registro-da-chapa-de-flvio-bolsonaro-por-uso-irregular-do-instagram.ghtml)_
 
+- **[2026-09-20 22:00 UTC]** Campanha de Flávio Bolsonaro lança talk show com convidados como Cris Arcangeli
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/campanha-de-flavio-bolsonaro-lanca-talk-show-com-convidados-como-cris-arcangeli.shtml)_
+
