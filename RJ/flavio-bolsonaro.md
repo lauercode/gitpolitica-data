@@ -1841,3 +1841,6 @@
 - **[2026-09-21 21:17 UTC]** Quaest: Lula e Flávio empatam no primeiro e segundo turnos, a 13 dias da eleição
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/quaest-flavio-tem-42percent-e-lula-41percent-no-segundo-turno.ghtml)_
 
+- **[2026-09-21 20:40 UTC]** Flávio Dino mantém proibição de publicidade de bets em bens públicos de MG
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/flavio-dino-mantem-proibicao-de-publicidade-de-bets-em-bens-publicos-de-mg.ghtml)_
+
