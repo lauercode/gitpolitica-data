@@ -74,3 +74,6 @@
 - **[2026-09-18 14:03 UTC]** Eleições 2026 no Paraná: Sergio Moro concede entrevistas, participa de sabatinas e reuniões
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-no-parana-sergio-moro-entrevistas-sabatinas.ghtml)_
 
+- **[2026-09-21 15:29 UTC]** Eleições 2026 no Paraná: Sergio Moro promove caminhada em Curitiba e se dedica a gravações de horário eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/-sergio-moro-promove-caminhada.ghtml)_
+
