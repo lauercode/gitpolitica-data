@@ -62,3 +62,6 @@
 - **[2026-09-18 20:02 UTC]** Cadu de Lula cita saúde, assistência social e infraestrutura entre prioridades de governo
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/18/cadu-de-lula-cita-saude-assistencia-social-e-infraestrutura-entre-prioridades-de-governo.ghtml)_
 
+- **[2026-09-21 15:53 UTC]** PT parte para cima de governadora do DF após crítica ao governo Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-parte-para-cima-governadora-df-apos-critica-governo-lula/)_
+
