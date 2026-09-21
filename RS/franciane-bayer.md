@@ -14,3 +14,6 @@
 - **[2026-09-15 19:20 UTC]** Bayer e Solar Coca-Cola abrem programas de trainee
   _fonte: [Valor Econômico](https://valor.globo.com/carreira/empregos-oportunidades/post/2026/09/bayer-e-solar-coca-cola-abrem-programas-de-trainee.ghtml)_
 
+- **[2026-09-21 13:08 UTC]** Bayer vende direitos do medicamento oncológico Stivarga à Gruenenthal por até 375 milhões de euros
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/09/21/bayer-vende-direitos-do-medicamento-oncolgico-stivarga-gruenenthal-por-at-375-milhes-de-euros.ghtml)_
+
