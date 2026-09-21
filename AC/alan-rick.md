@@ -50,3 +50,6 @@
 - **[2026-09-21 22:08 UTC]** Em post mais recente, Rick mostra encontro com empresário em aeroporto
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/em-post-mais-recente-rick-mostra-encontro-com-empresario-em-aeroporto.ghtml)_
 
+- **[2026-09-21 21:22 UTC]** Assessoria diz que Rick está em helicóptero que desapareceu em SC; FAB faz buscas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/buscas-queda-helicoptero-sc.ghtml)_
+
