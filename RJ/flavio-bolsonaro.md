@@ -1820,3 +1820,6 @@
 - **[2026-09-21 21:51 UTC]** Quaest: rejeição a Flávio Bolsonaro é de 56%; Lula tem 55%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-rejeicao-21-setembro.ghtml)_
 
+- **[2026-09-21 21:25 UTC]** Quaest: cai parcela que diz que caso Master afeta 'todos'; 21% citam família Bolsonaro; 16%, o STF; e 11%, o governo Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-impactos-do-caso-master-e-crise-no-stf.ghtml)_
+
