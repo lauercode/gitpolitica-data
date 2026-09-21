@@ -65,3 +65,6 @@
 - **[2026-09-18 17:13 UTC]** Cleitinho declara gratidão a Euclydes Pettersen, mas diz que aliado terá que pagar se for culpado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/cleitinho-declara-gratidao-a-euclydes-pettersen-mas-diz-que-aliado-tera-que-pagar-se-for-culpado.ghtml)_
 
+- **[2026-09-21 17:33 UTC]** Nova pesquisa Datafolha em MG testa se Cleitinho vai ampliar vantagem contra rivais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-em-mg-testa-se-cleitinho-vai-ampliar-vantagem-contra-rivais.ghtml)_
+
