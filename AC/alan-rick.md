@@ -38,3 +38,6 @@
 - **[2026-09-21 23:01 UTC]** Empresa dona de helicóptero em que Rick estava em SC divulga nota sobre caso
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/empresa-dona-de-helicoptero-em-que-rick-estava-em-sc-divulga-nota-sobre-caso.ghtml)_
 
+- **[2026-09-21 22:42 UTC]** Bell 430 com capacidade para 7 passageiros: conheça o helicóptero que desapareceu com o cantor Rick
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/helicoptero-bell-430.ghtml)_
+
