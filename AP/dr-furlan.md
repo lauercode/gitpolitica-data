@@ -92,3 +92,6 @@
 - **[2026-09-19 21:33 UTC]** Dr. Furlan faz caminhada em Macapá e participa de bandeirada em Santana
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/19/dr-furlan-faz-caminhada-em-macapa-e-participa-de-bandeirada-em-santana.ghtml)_
 
+- **[2026-09-21 20:59 UTC]** Dr. Furlan participa de visitas e reuniões em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/21/dr-furlan-participa-de-visitas-e-reunioes-em-macapa.ghtml)_
+
