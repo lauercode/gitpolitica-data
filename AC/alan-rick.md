@@ -308,3 +308,6 @@
 - **[2026-09-22 18:31 UTC]** Estado onde Rick nasceu, Tocantins decreta luto oficial de três dias
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/governador-lamenta-morte-de-rick-e-decreta-luto-de-tres-dias-no-tocantins.ghtml)_
 
+- **[2026-09-22 16:40 UTC]** Tia falou sobre fé em entrevista momentos antes de saber da morte de Rick: 'Entrego nas mãos do Senhor'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/tia-falou-sobre-fe-em-entrevista-momentos-antes-de-saber-da-morte-de-rick-entrego-nas-maos-do-senhor.ghtml)_
+
