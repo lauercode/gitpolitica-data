@@ -1910,3 +1910,6 @@
 - **[2026-09-22 18:30 UTC]** Damares homenageia Rick com resgate de vídeo em que sertanejo faz Bolsonaro chorar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-homenageia-rick-com-video-em-que-sertanejo-canta-para-bolsonaro/)_
 
+- **[2026-09-22 20:24 UTC]** Flávio diz no Maranhão que Dino faz perseguição política no STF e no Estado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/flvio-diz-no-maranho-que-dino-faz-perseguio-poltica-no-stf-e-no-estado.ghtml)_
+
