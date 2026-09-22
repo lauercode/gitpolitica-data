@@ -278,3 +278,6 @@
 - **[2026-09-22 13:17 UTC]** Ana Castela, Daniel e outros artistas lamentam morte de Rick Sollo após queda de helicóptero
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/milton-neves-ana-castela-e-outros-artistas-lamentam-morte-de-rick-sollo-apos-queda-de-helicoptero.shtml)_
 
+- **[2026-09-22 18:30 UTC]** Damares homenageia Rick com resgate de vídeo em que sertanejo faz Bolsonaro chorar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-homenageia-rick-com-video-em-que-sertanejo-canta-para-bolsonaro/)_
+
