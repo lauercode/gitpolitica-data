@@ -2624,3 +2624,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 17:38 UTC]** Fux é sorteado relator de ação que Moraes se declarou impedido sobre esposa, Vorcaro e Lulinha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-sorteado-relator-acao-moraes-se-declarou-impedido/)_
 
+- **[2026-09-22 17:13 UTC]** Moraes na mira da Europa: eurodeputados pedem sanções e fiscalização das eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-na-mira-da-europa-eurodeputados-pedem-sancoes-e-fiscalizacao-das-eleicoes/)_
+
