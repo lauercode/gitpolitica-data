@@ -83,3 +83,6 @@
 - **[2026-09-21 23:27 UTC]** 'Todo mundo preocupado', diz primo de Rick após aeronave em que cantor estava desaparecer em SC
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/21/todo-mundo-preocupado-diz-primo-de-rick-apos-aeronave-em-que-cantor-estava-desaparecer-em-sc.ghtml)_
 
+- **[2026-09-22 04:00 UTC]** Renner pede orações após desaparecimento de helicóptero com Rick
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/renner-pede-oracoes-apos-desaparecimento-de-helicoptero-com-rick.shtml)_
+
