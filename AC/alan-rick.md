@@ -140,3 +140,6 @@
 - **[2026-09-22 11:26 UTC]** Primo de Rick diz que aguardava cantor para gravar videoclipe antes de aeronave desaparecer em SC
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/primo-de-rick-diz-que-aguardava-cantor-para-gravar-videoclipe-antes-de-aeronave-desaparecer-em-sc.ghtml)_
 
+- **[2026-09-22 13:03 UTC]** Bombeiros encontram helicóptero com corpo do cantor Rick
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bombeiros-encontram-helicoptero-com-corpo-do-cantor-rick)_
+
