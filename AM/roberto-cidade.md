@@ -212,3 +212,6 @@
 - **[2026-09-16 16:41 UTC]** Em sabatina, Roberto Cidade afirma que determinou o fim de contratos da família com o Estado e classifica vínculo como 'imoral'
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/em-sabatina-roberto-cidade-afirma-que-determinou-o-fim-de-contratos-da-familia-com-o-estado-e-classifica-vinculo-como-imoral.ghtml)_
 
+- **[2026-09-22 13:17 UTC]** MPE pede cassação de Roberto Cidade e Serafim Corrêa por suposta promoção eleitoral com benefícios públicos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/22/mpe-pede-cassacao-de-roberto-cidade-e-serafim-correa-por-suposta-promocao-eleitoral-com-beneficios-publicos.ghtml)_
+
