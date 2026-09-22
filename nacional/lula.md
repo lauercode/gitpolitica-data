@@ -992,3 +992,6 @@
 - **[2026-09-21 17:53 UTC]** Na reta final, campanha de Lula reforça atos de rua e presença do presidente nos estados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/na-reta-final-campanha-de-lula-reforca-atos-de-rua-e-presenca-do-presidente-nos-estados.shtml)_
 
+- **[2026-09-22 16:30 UTC]** De Lula 1 a Lula 3: o que permaneceu, o que mudou e o que surgiu nos discursos do presidente na ONU
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/lula-discursos-onu.ghtml)_
+
