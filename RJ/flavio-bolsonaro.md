@@ -1853,3 +1853,6 @@
 - **[2026-09-22 01:34 UTC]** Renan Santos diz que não apoiará Flávio Bolsonaro em eventual segundo turno: ‘Bandido’
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/21/renan-santos-diz-que-no-apoiar-flvio-bolsonaro-em-eventual-segundo-turno-bandido.ghtml)_
 
+- **[2026-09-21 23:10 UTC]** Flávio diz que terá relação ‘pragmática’ com a China, se eleito
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/flvio-bolsonaro-diz-que-ter-relao-pragmtica-economicamente-com-a-china-se-eleito.ghtml)_
+
