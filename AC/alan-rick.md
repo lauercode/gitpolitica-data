@@ -212,3 +212,6 @@
 - **[2026-09-22 14:43 UTC]** Veja a cronologia do desaparecimento do helicóptero com Rick, empresário, videomaker e piloto até a localização dos destroços
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/cronologia-desaparecimento-helicoptero-rick-cantor-empresario-videomaker-piloto.ghtml)_
 
+- **[2026-09-22 14:11 UTC]** Helicóptero com cantor Rick desaparece: infográfico mostra ponto de partida, últimos locais onde foram emitidos sinais e destino da aeronave
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-com-cantor-rick-desaparece-infografico.ghtml)_
+
