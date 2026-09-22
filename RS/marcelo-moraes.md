@@ -2651,3 +2651,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 19:41 UTC]** Nikolas convoca ato contra Moraes em Rondônia
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-convoca-ato-contra-moraes-em-rondonia/)_
 
+- **[2026-09-22 17:56 UTC]** Casamento do filho de Alexandre de Moraes terá reforço policial em São Paulo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/casamento-do-filho-de-alexandre-de-moraes-tera-reforco-policial-em-sao-paulo/)_
+
