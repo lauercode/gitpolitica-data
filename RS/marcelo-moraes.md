@@ -2591,3 +2591,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 20:27 UTC]** Moraes se declara impedido em ação sobre visitas da esposa ao Senado
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/moraes-se-declara-impedido-em-acao-sobre-visitas-da-esposa-ao-senado)_
 
+- **[2026-09-21 23:46 UTC]** Moraes se declara impedido para atuar em ação que pede informações ao Senado sobre visitas de sua esposa e de Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-para-atuar-em-acao-que-pede-informacoes-ao-senado-sobre-visitas-de-sua-esposa-e-de-vorcaro.ghtml)_
+
