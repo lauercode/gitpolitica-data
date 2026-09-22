@@ -2600,3 +2600,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 23:40 UTC]** Direita se divide sobre convocar ou não protestos nas ruas contra Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/direita-se-divide-sobre-convocar-ou-nao-protestos-nas-ruas-contra-moraes/)_
 
+- **[2026-09-21 22:48 UTC]** Alexandre de Moraes declara-se impedido de relatar ação contra esposa
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-de-julgar-processo-que-envolve-sua-esposa-viviane-barci.ghtml)_
+
