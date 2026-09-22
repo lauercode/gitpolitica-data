@@ -188,3 +188,6 @@
 - **[2026-09-22 16:53 UTC]** FAB fez sobrevoo de 13 horas para encontrar destroços de helicóptero com cantor Rick e outras 4 pessoas
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/fab-sobrevoo-helicoptero-cantor-rick.ghtml)_
 
+- **[2026-09-22 16:53 UTC]** 'Nossos grandes amigos', diz empresa dona de helicóptero com cantor Rick que caiu e deixou 5 mortos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/nossos-grandes-amigos-diz-empresa-dona-helicoptero-cantor-rick-queda-mortos.ghtml)_
+
