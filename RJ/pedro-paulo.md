@@ -428,3 +428,6 @@
 - **[2026-09-22 20:57 UTC]** São Paulo lidera absorção de escritórios entre principais mercados da América Latina no 2o trimestre
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/22/sao-paulo-lidera-absorcao-de-escritorios-entre-principais-mercados-da-america-latina-no-2o-trimestre-1.ghtml)_
 
+- **[2026-09-22 20:50 UTC]** Solví fecha acordo de R$ 115 milhões para adquirir Amplitec e Essencial no interior de São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/22/solvi-fecha-acordo-de-r-115-milhoes-para-adquirir-amplitec-e-essencial-no-interior-de-sao-paulo-1.ghtml)_
+
