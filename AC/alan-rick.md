@@ -239,3 +239,6 @@
 - **[2026-09-22 16:21 UTC]** Antes de conquistar o público com a música sertaneja, Rick iniciou a carreira ao lado da irmã
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/antes-de-conquistar-o-publico-com-a-musica-sertaneja-rick-iniciou-a-carreira-ao-lado-da-irma.ghtml)_
 
+- **[2026-09-22 16:04 UTC]** Origem simples no Tocantins sempre foi lembrada por Rick em entrevistas: 'Nasci na roça'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/origem-simples-no-tocantins-sempre-foi-lembrada-por-rick-em-entrevistas-nasci-na-roca.ghtml)_
+
