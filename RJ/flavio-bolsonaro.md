@@ -1850,3 +1850,6 @@
 - **[2026-09-22 00:17 UTC]** Flávio Bolsonaro cumpre agenda com motocarreata e ato de campanha em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/21/flavio-bolsonaro-campanha-setembro-rn.ghtml)_
 
+- **[2026-09-22 01:34 UTC]** Renan Santos diz que não apoiará Flávio Bolsonaro em eventual segundo turno: ‘Bandido’
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/21/renan-santos-diz-que-no-apoiar-flvio-bolsonaro-em-eventual-segundo-turno-bandido.ghtml)_
+
