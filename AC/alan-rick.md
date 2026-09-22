@@ -302,3 +302,6 @@
 - **[2026-09-22 21:04 UTC]** Henrique e Juliano lamentam morte de Rick: 'Um dos maiores pilares'
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/henrique-and-juliano-lamentam-morte-de-rick-um-dos-maiores-pilares.ghtml)_
 
+- **[2026-09-22 20:00 UTC]** Rick visitou igreja e relembrou relação com padre que está em processo de beatificação no TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/rick-visitou-igreja-e-relembrou-relacao-com-padre-que-esta-em-processo-de-beatificacao-no-to-video.ghtml)_
+
