@@ -74,3 +74,6 @@
 - **[2026-09-21 20:19 UTC]** Quem é Rick, cantor que estava em helicóptero desaparecido em SC
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/quem-e-rick-cantor-que-estava-em-helicoptero-desaparecido-em-sc.shtml)_
 
+- **[2026-09-22 01:10 UTC]** Helicóptero com cantor Rick e empresário Bruno Avelar desaparece em Santa Catarina: o que se sabe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss)_
+
