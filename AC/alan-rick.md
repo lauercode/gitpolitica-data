@@ -77,3 +77,6 @@
 - **[2026-09-22 01:10 UTC]** Helicóptero com cantor Rick e empresário Bruno Avelar desaparece em Santa Catarina: o que se sabe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-21 23:01 UTC]** Dona de helicóptero em que Rick estava diz que aeronave foi emprestada ao cantor e confirma desaparecimento
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/empresa-dona-de-helicoptero-em-que-rick-estava-em-sc-divulga-nota-sobre-caso.ghtml)_
+
