@@ -2648,3 +2648,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 20:45 UTC]** Mendonça enfrenta Moraes, critica “arapongagem” e pede acesso integral ao inquérito das fake news
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-enfrenta-moraes-critica-arapongagem-e-pede-acesso-integral-ao-inquerito-das-fake-news/)_
 
+- **[2026-09-22 19:41 UTC]** Nikolas convoca ato contra Moraes em Rondônia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-convoca-ato-contra-moraes-em-rondonia/)_
+
