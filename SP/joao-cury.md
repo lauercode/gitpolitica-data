@@ -311,3 +311,6 @@
 - **[2026-09-21 23:53 UTC]** 'Torcendo para que nada tenha acontecido', diz Cury após conselheiro de campanha desaparecer a bordo de helicóptero com cantor Rick
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/augusto-cury-conselheiro-campanha-helicoptero-desaparecido.ghtml)_
 
+- **[2026-09-22 12:21 UTC]** Cury fará pente-fino e grosso nos gastos, mas mexer em regras da Previdência é inaceitável, diz Hauly
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/cury-fara-pente-fino-e-grosso-nos-gastos-mas-mexer-em-regras-da-previdencia-e-inaceitavel-diz-hauly.shtml)_
+
