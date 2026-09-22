@@ -185,3 +185,6 @@
 - **[2026-09-22 16:54 UTC]** Helicóptero com cantor Rick é encontrado; não há sobreviventes
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
 
+- **[2026-09-22 16:53 UTC]** FAB fez sobrevoo de 13 horas para encontrar destroços de helicóptero com cantor Rick e outras 4 pessoas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/fab-sobrevoo-helicoptero-cantor-rick.ghtml)_
+
