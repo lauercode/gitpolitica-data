@@ -995,3 +995,6 @@
 - **[2026-09-22 16:30 UTC]** De Lula 1 a Lula 3: o que permaneceu, o que mudou e o que surgiu nos discursos do presidente na ONU
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/lula-discursos-onu.ghtml)_
 
+- **[2026-09-22 16:38 UTC]** Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
