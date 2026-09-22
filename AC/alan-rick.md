@@ -164,3 +164,6 @@
 - **[2026-09-22 12:59 UTC]** Rick, ao lado de Renner, fez lives solidárias na pandemia com mais de 5,3 milhões de visualizações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rick-ao-lado-de-renner-fez-lives-solidarias-na-pandemia-com-mais-de-53-milhoes-de-visualizacoes.shtml)_
 
+- **[2026-09-22 12:49 UTC]** Lembre os maiores hits de Rick e Renner, como 'Ela É Demais' e 'Nos Bares da Cidade'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/lembre-os-maiores-hits-de-rick-e-renner-como-ela-e-demais-e-nos-bares-da-cidade.shtml)_
+
