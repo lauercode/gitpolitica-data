@@ -1844,3 +1844,6 @@
 - **[2026-09-21 20:40 UTC]** Flávio Dino mantém proibição de publicidade de bets em bens públicos de MG
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/flavio-dino-mantem-proibicao-de-publicidade-de-bets-em-bens-publicos-de-mg.ghtml)_
 
+- **[2026-09-22 01:02 UTC]** Michelle protesta contra proibição de mostrar  Bolsonaro em propaganda eleitoral
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-protesta-contra-proibicao-de-mostrar-bolsonaro-em-propaganda-eleitoral/)_
+
