@@ -2642,3 +2642,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 14:46 UTC]** Fux vai relatar ação sobre idas da esposa de Moraes ao Senado
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fux-vai-relatar-acao-sobre-idas-da-esposa-de-moraes-ao-senado)_
 
+- **[2026-09-22 20:50 UTC]** Bateu o desespero: ascensão de Flávio Bolsonaro assombra Moraes e seus aliados no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/renan-ramalho/bateu-o-desespero-ascensao-de-flavio-bolsonaro-assombra-moraes-e-seus-aliados-no-stf/)_
+
