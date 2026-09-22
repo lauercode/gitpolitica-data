@@ -1913,3 +1913,6 @@
 - **[2026-09-22 20:24 UTC]** Flávio diz no Maranhão que Dino faz perseguição política no STF e no Estado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/flvio-diz-no-maranho-que-dino-faz-perseguio-poltica-no-stf-e-no-estado.ghtml)_
 
+- **[2026-09-22 19:41 UTC]** Tarcísio grava com Flávio e fala em 'entrar com potência' no 2º turno da campanha presidencial
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tarcsio-grava-com-flvio-e-fala-em-entrar-com-potncia-no-2-turno-da-campanha-presidencial.ghtml)_
+
