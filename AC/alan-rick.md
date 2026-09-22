@@ -203,3 +203,6 @@
 - **[2026-09-22 15:46 UTC]** VÍDEO: música 'Filha' marcou o último show de Rick, da dupla com Renner, em festa de 15 anos em MT
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/mt/mato-grosso/noticia/2026/09/22/video-musica-filha-marcou-o-ultimo-show-de-rick-da-dupla-com-renner-em-festa-de-15-anos-em-mt.ghtml)_
 
+- **[2026-09-22 15:43 UTC]** Veja vídeo dos destroços do helicóptero que levava o cantor Rick e mais quatro
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/veja-video-dos-destrocos-do-helicoptero-que-levava-o-cantor-rick-e-mais-quatro.ghtml)_
+
