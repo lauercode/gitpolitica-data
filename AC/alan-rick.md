@@ -254,3 +254,6 @@
 - **[2026-09-22 15:32 UTC]** Infância na roça do Tocantins e início da carreira: Rick falou sobre suas origens ao Fantástico; veja VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/infancia-na-roca-e-inicio-da-carreira-rick-falou-sobre-suas-origens-ao-fantastico-veja-video.ghtml)_
 
+- **[2026-09-22 15:56 UTC]** Bombeiros encontram destroços de helicóptero do cantor Rick em SC; não há sobreviventes
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/22/bombeiros-encontram-destrocos-de-helicoptero-do-cantor-rick-em-sc-nao-ha-sobreviventes.ghtml)_
+
