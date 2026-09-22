@@ -419,3 +419,6 @@
 - **[2026-09-19 17:15 UTC]** Foto comprometedora desmente versão de Paulo Gonet sobre banqueiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/foto-comprometedora-desmente-versao-de-paulo-gonet-sobre-banqueiro/)_
 
+- **[2026-09-22 13:04 UTC]** Catho reúne 10 empresas em mutirão gratuito com vagas para PcD em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/22/catho-reune-10-empresas-em-mutirao-gratuito-com-vagas-para-pcd-em-sao-paulo-1.ghtml)_
+
