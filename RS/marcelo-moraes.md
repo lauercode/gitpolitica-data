@@ -2630,3 +2630,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 14:59 UTC]** Moraes acusa Mendonça de ilícitos praticados pelo próprio Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-acusa-mendonca-de-ilicitos-praticados-pelo-proprio-moraes/)_
 
+- **[2026-09-22 13:53 UTC]** Mendonça se manifesta sobre acusações de Moraes: 'Denunciação caluniosa e abuso de autoridade'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw1l6yv2lmzpo?at_medium=RSS&at_campaign=rss)_
+
