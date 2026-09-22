@@ -29,3 +29,6 @@
 - **[2026-09-19 23:17 UTC]** Eduardo Braide promete ampliar obras de mobilidade e criar anéis viários em cidades do MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/19/eduardo-braide-promete-ampliar-obras-de-mobilidade-e-criar-aneis-viarios-em-cidades-do-ma.ghtml)_
 
+- **[2026-09-21 23:57 UTC]** Eduardo Braide apresenta propostas para juventude e fala em gerar empregos e ampliar tecnologia no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/eduardo-braide-apresenta-propostas-para-juventude-e-fala-em-gerar-empregos-e-ampliar-tecnologia-no-ma.ghtml)_
+
