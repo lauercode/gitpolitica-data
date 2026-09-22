@@ -425,3 +425,6 @@
 - **[2026-09-22 13:37 UTC]** Amazon quer Paulo Andrade, da Globo, como novo narrador titular do streaming
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/amazon-quer-paulo-andrade-da-globo-como-novo-narrador-titular-do-streaming.shtml)_
 
+- **[2026-09-22 20:57 UTC]** São Paulo lidera absorção de escritórios entre principais mercados da América Latina no 2o trimestre
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/22/sao-paulo-lidera-absorcao-de-escritorios-entre-principais-mercados-da-america-latina-no-2o-trimestre-1.ghtml)_
+
