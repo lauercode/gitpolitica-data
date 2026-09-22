@@ -422,3 +422,6 @@
 - **[2026-09-22 13:04 UTC]** Catho reúne 10 empresas em mutirão gratuito com vagas para PcD em São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/22/catho-reune-10-empresas-em-mutirao-gratuito-com-vagas-para-pcd-em-sao-paulo-1.ghtml)_
 
+- **[2026-09-22 13:37 UTC]** Amazon quer Paulo Andrade, da Globo, como novo narrador titular do streaming
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/amazon-quer-paulo-andrade-da-globo-como-novo-narrador-titular-do-streaming.shtml)_
+
