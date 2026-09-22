@@ -29,3 +29,6 @@
 - **[2026-09-14 23:14 UTC]** Candidato ao governo de SE, Ricardo Marques diz que pretende reduzir filas de hospitais e criar teto para arrecadação tributária
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/14/ricardo-marques-entrevista-se2.ghtml)_
 
+- **[2026-09-22 22:51 UTC]** Eleições 2026: Ricardo Marques diz que vai reduzir filas na saúde e ofertar serviço com especialistas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-ricardo-marques-diz-que-vai-reduzir-filas-na-saude-e-ofertar-servico-com-especialistas.ghtml)_
+
