@@ -266,3 +266,6 @@
 - **[2026-09-22 15:50 UTC]** Corpos do cantor Rick e das outras vítimas são retirados de helicóptero em mata de cidade catarinense
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corpos-do-cantor-rick-e-das-outras-vitimas-sao-retirados-de-helicoptero-em-mata-de-cidade-catarinense.shtml)_
 
+- **[2026-09-22 15:46 UTC]** Bruno Avelar gravou mensagem para o filho horas antes do acidente de helicóptero com Rick
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/bruno-avelar-gravou-mensagem-para-o-filho-horas-antes-do-acidente-de-helicoptero-com-rick.shtml)_
+
