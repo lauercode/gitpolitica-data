@@ -305,3 +305,6 @@
 - **[2026-09-21 21:05 UTC]** Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 33%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-presidente-1o-turno-21-setembro.ghtml)_
 
+- **[2026-09-22 00:31 UTC]** Em evento com jovens influenciadores, Cury promete 'revolucionar' turismo, educação, medicina e agricultura
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/21/em-evento-com-jovens-influenciadores-cury-promete-revolucionar-turismo-educacao-medicina-e-agricultura.ghtml)_
+
