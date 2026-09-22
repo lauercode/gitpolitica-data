@@ -143,3 +143,6 @@
 - **[2026-09-22 13:03 UTC]** Bombeiros encontram helicóptero com corpo do cantor Rick
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bombeiros-encontram-helicoptero-com-corpo-do-cantor-rick)_
 
+- **[2026-09-22 13:42 UTC]** Mortes do cantor Rick e de mais quatro pessoas são confirmadas em SC
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/morte-de-cantor-rick-e-mais-quatro-pessoas-e-confirmada-em-sc)_
+
