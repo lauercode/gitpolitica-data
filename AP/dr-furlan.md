@@ -95,3 +95,6 @@
 - **[2026-09-21 20:59 UTC]** Dr. Furlan participa de visitas e reuniões em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/21/dr-furlan-participa-de-visitas-e-reunioes-em-macapa.ghtml)_
 
+- **[2026-09-22 21:14 UTC]** Dr. Furlan participa de reuniões e faz visitas nas zonas Sul e Norte de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/22/dr-furlan-participa-de-reunioes-e-faz-visitas-nas-zonas-sul-e-norte-de-macapa.ghtml)_
+
