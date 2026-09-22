@@ -287,3 +287,6 @@
 - **[2026-09-22 20:16 UTC]** Corpos do cantor Rick e outros 4 mortos em queda de helicóptero em SC são retirados com ajuda de cordas
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/corpos-de-mortos-em-queda-de-helicoptero-em-sc-sao-retirados-com-ajuda-de-cordas.ghtml)_
 
+- **[2026-09-22 18:50 UTC]** Veja quem eram o piloto e o copiloto do helicóptero que caiu com o cantor Rick  em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/quem-sao-piloto-copiloto-helicoptero-caiu-cantor-rick-sc.ghtml)_
+
