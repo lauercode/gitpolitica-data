@@ -260,3 +260,6 @@
 - **[2026-09-22 16:01 UTC]** Helicóptero que transportava o cantor Rick estava regular, diz Anac
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/helicoptero-que-transportava-o-cantor-rick-estava-regular-diz-anac)_
 
+- **[2026-09-22 17:23 UTC]** Quem são os filhos de Rick e como foi a longa história de amor do cantor com a esposa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/quem-sao-os-filhos-de-rick-e-como-foi-a-longa-historia-de-amor-do-cantor-com-a-esposa.shtml)_
+
