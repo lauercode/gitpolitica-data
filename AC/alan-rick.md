@@ -317,3 +317,6 @@
 - **[2026-09-22 22:09 UTC]** Cantor sertanejo do Acre relembra inspiração em Rick e Renner ao longo da carreira: 'Legado fica'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/22/cantor-sertanejo-do-acre-relembra-inspiracao-em-rick-e-renner-ao-longo-da-carreira-legado-fica.ghtml)_
 
+- **[2026-09-22 23:14 UTC]** Corpos de Rick e outros 4 mortos em queda de helicóptero chegam ao IML; acompanhe a cobertura
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
+
