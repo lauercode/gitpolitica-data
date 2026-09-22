@@ -26,3 +26,6 @@
 - **[2026-09-18 11:29 UTC]** Manuela D'Ávila (PSOL) propõe aluguel social para mulheres sob risco de feminicídio em entrevista à RBS TV
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/18/manuela-davila-psol-propoe-aluguel-social-para-mulheres-sob-risco-de-feminicidio-em-entrevista-a-rbs-tv.ghtml)_
 
+- **[2026-09-22 10:38 UTC]** Candidatos do PSOL distribuem panfletos sem Lula, Haddad, Tebet e Marina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidatos-do-psol-distribuem-panfletos-sem-lula-haddad-tebet-e-marina.shtml)_
+
