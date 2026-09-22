@@ -248,3 +248,6 @@
 - **[2026-09-22 15:38 UTC]** Rick relembrou raízes musicais e revela influência de ritmos do Tocantins em sucessos: ‘Consegui trazer algumas coisas’
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/rick-relembra-raizes-musicais-e-revela-influencia-de-ritmos-do-tocantins-em-sucessos-de-rick-and-renner-consegui-trazer-algumas-coisas.ghtml)_
 
+- **[2026-09-22 15:35 UTC]** Antes de Rick & Renner, cantor formou dupla com a irmã aos 10 anos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/antes-de-rick-and-renner-cantor-formou-dupla-com-a-irma-aos-10-anos.ghtml)_
+
