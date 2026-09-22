@@ -1877,3 +1877,6 @@
 - **[2026-09-22 09:35 UTC]** Protesto em Nova York projeta Flávio Bolsonaro entregando faixa presidencial a Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/protesto-em-nova-york-projeta-flavio-bolsonaro-entregando-faixa-presidencial-a-trump.shtml)_
 
+- **[2026-09-22 10:45 UTC]** Campanha de Flávio Bolsonaro aposta em sentimento 'anti-Lula e anti-STF' na reta final da campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/campanha-de-flavio-bolsonaro-aposta-em-sentimento-anti-lula-e-anti-stf-na-reta-final-da-campanha.ghtml)_
+
