@@ -1934,3 +1934,6 @@
 - **[2026-09-22 23:03 UTC]** Caiado diz que Lula e Flávio 'correm' de debates
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/caiado-diz-que-lula-e-flavio-correm-de-debates.ghtml)_
 
+- **[2026-09-22 22:21 UTC]** TRE-CE impõe perda de 76 minutos de propaganda de Elmano por associar Ciro a Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tre-ce-impe-perda-de-76-minutos-de-propaganda-de-elmano-por-associar-ciro-a-bolsonaro.ghtml)_
+
