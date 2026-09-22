@@ -107,3 +107,6 @@
 - **[2026-09-22 09:29 UTC]** Esposa de empresário que estava com Rick em helicóptero desaparecido diz crer em milagre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/esposa-de-empresario-que-estava-com-rick-em-helicoptero-desaparecido-diz-crer-em-milagre.shtml)_
 
+- **[2026-09-22 08:00 UTC]** Bombeiros e FAB reforçam buscas por helicóptero com cantor Rick na serra de SC; drone térmico é usado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/bombeiros-e-fab-reforcam-buscas-por-helicoptero-com-cantor-rick-na-serra-de-sc-drone-termico-e-usado.shtml)_
+
