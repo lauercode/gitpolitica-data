@@ -173,3 +173,6 @@
 - **[2026-09-22 11:00 UTC]** Rick Sollo: o desfecho trágico que ninguém queria
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/09/rick-sollo-a-angustia-e-a-esperanca-em-busca-de-noticias.shtml)_
 
+- **[2026-09-22 16:09 UTC]** Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss)_
+
