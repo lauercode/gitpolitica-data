@@ -65,3 +65,6 @@
 - **[2026-09-21 15:53 UTC]** PT parte para cima de governadora do DF após crítica ao governo Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-parte-para-cima-governadora-df-apos-critica-governo-lula/)_
 
+- **[2026-09-22 21:54 UTC]** Cadu de Lula defende ampliação da Patrulha Maria da Penha no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/22/cadu-de-lula-defende-ampliacao-da-patrulha-maria-da-penha-no-rn.ghtml)_
+
