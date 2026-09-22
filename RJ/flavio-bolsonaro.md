@@ -1886,3 +1886,6 @@
 - **[2026-09-22 14:13 UTC]** Flávio e Lula faltam ao debate do Flow e viram alvos de ataques sobre o Bolsa Família e o caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-e-lula-faltam-ao-debate-do-flow-e-viram-alvos-de-ataques-sobre-o-bolsa-familia-e-o-caso-master/)_
 
+- **[2026-09-22 16:38 UTC]** Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
