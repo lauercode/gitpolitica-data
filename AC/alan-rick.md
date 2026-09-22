@@ -320,3 +320,6 @@
 - **[2026-09-22 23:14 UTC]** Corpos de Rick e outros 4 mortos em queda de helicóptero chegam ao IML; acompanhe a cobertura
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
 
+- **[2026-09-22 21:29 UTC]** FOTOS mostram local onde helicóptero com cantor Rick e mais quatro ocupantes caiu em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/fotos-local-helicoptero-cantor-rick-mais-quatro-ocupantes-caiu-sc.ghtml)_
+
