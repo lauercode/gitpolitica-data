@@ -215,3 +215,6 @@
 - **[2026-09-22 13:17 UTC]** MPE pede cassação de Roberto Cidade e Serafim Corrêa por suposta promoção eleitoral com benefícios públicos
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/22/mpe-pede-cassacao-de-roberto-cidade-e-serafim-correa-por-suposta-promocao-eleitoral-com-beneficios-publicos.ghtml)_
 
+- **[2026-09-22 22:12 UTC]** Funcionários da Aadesam foram procurados por supostos integrantes da campanha de Roberto Cidade, diz MPE
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/22/funcionarios-da-aadesam-foram-procurados-por-supostos-integrantes-da-campanha-a-reeleicao-de-roberto-cidade-diz-mpe.ghtml)_
+
