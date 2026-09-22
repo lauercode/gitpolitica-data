@@ -2612,3 +2612,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 13:15 UTC]** Mendonça pede investigação de Moraes por abuso de autoridade e denunciação caluniosa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-pede-investigacao-de-moraes-por-abuso-de-autoridade-e-denunciacao-caluniosa/)_
 
+- **[2026-09-22 12:48 UTC]** Mendonça rebate argumentos de Moraes e pede que colega seja investigado por abuso de autoridade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/22/mendonca-rebate-argumentos-de-moraes-e-pede-que-colega-seja-investigado-por-abuso-de-moraes.ghtml)_
+
