@@ -227,3 +227,6 @@
 - **[2026-09-22 07:26 UTC]** Buscas por helicóptero que desapareceu em SC com cantor Rick usou drone térmico
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/buscas-por-helicoptero-seguem-com-drone-termico.ghtml)_
 
+- **[2026-09-22 17:00 UTC]** Morte de Rick: cantor nasceu no Tocantins e foi secretário de governo
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/morte-de-rick-cantor-nasceu-no-tocantins-e-foi-secretario-de-governo.ghtml)_
+
