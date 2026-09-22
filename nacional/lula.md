@@ -998,3 +998,6 @@
 - **[2026-09-22 16:38 UTC]** Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-22 14:45 UTC]** Veja aqui a íntegra do discurso do presidente Lula na ONU
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/22/veja-aqui-a-ntegra-do-discurso-do-presidente-lula-na-onu.ghtml)_
+
