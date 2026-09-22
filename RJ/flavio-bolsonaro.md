@@ -1871,3 +1871,6 @@
 - **[2026-09-21 23:00 UTC]** Lula é visto como favorito para 54% dos brasileiros; Flávio empata entre homens e evangélicos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lula-e-visto-como-favorito-para-54-dos-brasileiros-flavio-empata-entre-homens-e-evangelicos.shtml)_
 
+- **[2026-09-22 08:00 UTC]** Flávio tem 42% e Lula, 41% no 2º turno, diz Quaest
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/22/flavio-tem-42-e-lula-41-no-2o-turno-diz-quaest.ghtml)_
+
