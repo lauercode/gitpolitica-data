@@ -50,3 +50,6 @@
 - **[2026-09-22 22:23 UTC]** Quaest na PB: Lucas Ribeiro, 49%; Efraim Filho, 16%; Cícero Lucena, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-pb-governador-22-setembro.ghtml)_
 
+- **[2026-09-22 19:40 UTC]** Lucas Ribeiro segue líder na disputa ao Governo da Paraíba, mostra pesquisa Quaest
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lucas-ribeiro-segue-lider-na-disputa-ao-governo-da-paraiba-mostra-pesquisa-quaest.shtml)_
+
