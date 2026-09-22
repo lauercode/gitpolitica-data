@@ -59,3 +59,6 @@
 - **[2026-09-21 21:40 UTC]** Helicóptero que levava cantor Rick desaparece em Santa Catarina
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/helicoptero-que-levava-cantor-rick-desaparece-em-santa-catarina)_
 
+- **[2026-09-21 23:53 UTC]** 'Torcendo para que nada tenha acontecido', diz Cury após conselheiro de campanha desaparecer a bordo de helicóptero com cantor Rick
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/augusto-cury-conselheiro-campanha-helicoptero-desaparecido.ghtml)_
+
