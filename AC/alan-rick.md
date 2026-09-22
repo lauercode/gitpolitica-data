@@ -224,3 +224,6 @@
 - **[2026-09-22 10:45 UTC]** Morre cantor Rick: saiba quem são as vítimas do helicóptero que caiu em Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/quem-sao-os-passageiros-de-helicoptero-que-desapareceu-em-sc-com-cantor-rick-e-empresario.ghtml)_
 
+- **[2026-09-22 07:26 UTC]** Buscas por helicóptero que desapareceu em SC com cantor Rick usou drone térmico
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/buscas-por-helicoptero-seguem-com-drone-termico.ghtml)_
+
