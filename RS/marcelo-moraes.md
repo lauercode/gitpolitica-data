@@ -2627,3 +2627,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 17:13 UTC]** Moraes na mira da Europa: eurodeputados pedem sanções e fiscalização das eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-na-mira-da-europa-eurodeputados-pedem-sancoes-e-fiscalizacao-das-eleicoes/)_
 
+- **[2026-09-22 14:59 UTC]** Moraes acusa Mendonça de ilícitos praticados pelo próprio Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-acusa-mendonca-de-ilicitos-praticados-pelo-proprio-moraes/)_
+
