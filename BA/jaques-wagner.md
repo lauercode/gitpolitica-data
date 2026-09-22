@@ -53,3 +53,6 @@
 - **[2026-09-22 00:34 UTC]** TRE-BA tira do ar site com simulação de Whatsapp de Vorcaro a pedido de Jaques Wagner
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tre-ba-tira-do-ar-site-com-simulacao-de-whatsapp-de-vorcaro-a-pedido-de-jaques-wagner/)_
 
+- **[2026-09-22 12:56 UTC]** Campanha de Jaques Wagner vai à Justiça e derruba site que exibia mensagens de Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr3wj2jljej0o?at_medium=RSS&at_campaign=rss)_
+
