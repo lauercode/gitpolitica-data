@@ -1859,3 +1859,6 @@
 - **[2026-09-21 21:17 UTC]** Quaest: Flávio empata com Lula no primeiro e segundo turnos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/quaest-flavio-tem-42percent-e-lula-41percent-no-segundo-turno.ghtml)_
 
+- **[2026-09-22 04:01 UTC]** Flávio Bolsonaro destinou emenda a miliciano condenado no caso Marielle; veja prints de conversa com assessora do senador
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/flavio-bolsonaro-destinou-emenda-a-miliciano-condenado-por-morte-de-marielle-veja-prints-de-conversa-com-assessora-do-senador.ghtml)_
+
