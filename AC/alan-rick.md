@@ -80,3 +80,6 @@
 - **[2026-09-21 23:01 UTC]** Dona de helicóptero em que Rick estava diz que aeronave foi emprestada ao cantor e confirma desaparecimento
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/empresa-dona-de-helicoptero-em-que-rick-estava-em-sc-divulga-nota-sobre-caso.ghtml)_
 
+- **[2026-09-21 23:27 UTC]** 'Todo mundo preocupado', diz primo de Rick após aeronave em que cantor estava desaparecer em SC
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/21/todo-mundo-preocupado-diz-primo-de-rick-apos-aeronave-em-que-cantor-estava-desaparecer-em-sc.ghtml)_
+
