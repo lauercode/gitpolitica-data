@@ -62,3 +62,6 @@
 - **[2026-09-21 23:53 UTC]** 'Torcendo para que nada tenha acontecido', diz Cury após conselheiro de campanha desaparecer a bordo de helicóptero com cantor Rick
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/augusto-cury-conselheiro-campanha-helicoptero-desaparecido.ghtml)_
 
+- **[2026-09-21 22:41 UTC]** Helicóptero desaparecido com Rick leva até sete pessoas e custa cerca de R$ 10 milhões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/helicoptero-desaparecido-com-rick-leva-ate-sete-pessoas-e-custa-cerca-de-r-10-milhoes.shtml)_
+
