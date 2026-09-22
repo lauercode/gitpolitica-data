@@ -200,3 +200,6 @@
 - **[2026-09-22 16:02 UTC]** Rick fez último show em Campo Grande antes de morrer em queda de helicóptero; VÍDEO
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/22/video-mostra-ultimo-show-de-rick-em-ms-antes-de-morte-em-queda-de-helicoptero.ghtml)_
 
+- **[2026-09-22 15:46 UTC]** VÍDEO: música 'Filha' marcou o último show de Rick, da dupla com Renner, em festa de 15 anos em MT
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/mt/mato-grosso/noticia/2026/09/22/video-musica-filha-marcou-o-ultimo-show-de-rick-da-dupla-com-renner-em-festa-de-15-anos-em-mt.ghtml)_
+
