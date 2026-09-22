@@ -59,3 +59,6 @@
 - **[2026-09-21 22:21 UTC]** Eleições 2026: David Almeida participa de caminhada e promete ampliar turismo no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-david-almeida-participa-de-caminhada-e-promete-ampliar-turismo-no-amazonas.ghtml)_
 
+- **[2026-09-22 22:46 UTC]** Eleições 2026: David Almeida promete ampliar geração de emprego e renda no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-david-almeida-promete-ampliar-geracao-de-emprego-e-renda-no-amazonas.ghtml)_
+
