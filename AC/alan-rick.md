@@ -113,3 +113,6 @@
 - **[2026-09-22 11:14 UTC]** Quem é Rick, da dupla Rick & Renner, e como ele ajudou a renovar o sertanejo com letras bem-humoradas e sensuais
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-22 12:34 UTC]** Helicóptero que desapareceu com cantor Rick: buscas são feitas em Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
+
