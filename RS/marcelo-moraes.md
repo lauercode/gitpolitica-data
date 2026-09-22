@@ -2594,3 +2594,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 23:46 UTC]** Moraes se declara impedido para atuar em ação que pede informações ao Senado sobre visitas de sua esposa e de Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-para-atuar-em-acao-que-pede-informacoes-ao-senado-sobre-visitas-de-sua-esposa-e-de-vorcaro.ghtml)_
 
+- **[2026-09-21 21:30 UTC]** A relação de Moraes com Vorcaro diz algo sobre a trama golpista?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/09/a-relacao-de-moraes-com-vorcaro-diz-algo-sobre-a-trama-golpista.shtml)_
+
