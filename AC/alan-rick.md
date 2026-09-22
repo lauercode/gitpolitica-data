@@ -56,3 +56,6 @@
 - **[2026-09-21 20:03 UTC]** FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc)_
 
+- **[2026-09-21 21:40 UTC]** Helicóptero que levava cantor Rick desaparece em Santa Catarina
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/helicoptero-que-levava-cantor-rick-desaparece-em-santa-catarina)_
+
