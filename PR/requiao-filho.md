@@ -65,3 +65,6 @@
 - **[2026-09-18 13:53 UTC]** Eleições 2026 no Paraná: Requião Filho encontra apoiadores, participa de entrevista e debate
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-no-parana-requiao-filho-encontro-debate.ghtml)_
 
+- **[2026-09-22 14:42 UTC]** Eleições 2026 no Paraná: Requião Filho concede entrevistas e se reúne com sindicalistas da Copel no Norte do estado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-no-parana-requiao-filho-entrevistas-encontros.ghtml)_
+
