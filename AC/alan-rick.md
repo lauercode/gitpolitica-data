@@ -242,3 +242,6 @@
 - **[2026-09-22 16:04 UTC]** Origem simples no Tocantins sempre foi lembrada por Rick em entrevistas: 'Nasci na roça'
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/origem-simples-no-tocantins-sempre-foi-lembrada-por-rick-em-entrevistas-nasci-na-roca.ghtml)_
 
+- **[2026-09-22 15:38 UTC]** ‘Despertei pra música ouvindo meu pai’: Rick comentou influência do pai na carreira
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/despertei-pra-musica-ouvindo-meu-pai-rick-comenta-influencia-do-pai-na-carreira.ghtml)_
+
