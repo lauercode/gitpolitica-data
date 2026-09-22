@@ -68,3 +68,6 @@
 - **[2026-09-21 22:36 UTC]** Quem é Bruno Avelar, amigo de Neymar que estava em voo que sumiu com cantor Rick
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/quem-e-bruno-avelar-amigo-de-neymar-que-estava-em-voo-que-sumiu-com-cantor-rick.shtml)_
 
+- **[2026-09-21 21:32 UTC]** Rick, da dupla com Renner, postou vídeo de viagem aérea horas antes de sumir em voo; assista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rick-da-dupla-com-renner-postou-video-de-viagem-aerea-horas-antes-de-sumir-em-voo-assista.shtml)_
+
