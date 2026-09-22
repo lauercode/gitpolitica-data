@@ -1874,3 +1874,6 @@
 - **[2026-09-22 08:00 UTC]** Flávio tem 42% e Lula, 41% no 2º turno, diz Quaest
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/22/flavio-tem-42-e-lula-41-no-2o-turno-diz-quaest.ghtml)_
 
+- **[2026-09-22 09:35 UTC]** Protesto em Nova York projeta Flávio Bolsonaro entregando faixa presidencial a Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/protesto-em-nova-york-projeta-flavio-bolsonaro-entregando-faixa-presidencial-a-trump.shtml)_
+
