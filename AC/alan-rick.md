@@ -137,3 +137,6 @@
 - **[2026-09-22 12:26 UTC]** Conheça cidade no TO em que Rick, da dupla com Renner, foi criado
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/conheca-cidade-no-to-em-que-rick-da-dupla-com-renner-foi-criado.ghtml)_
 
+- **[2026-09-22 11:26 UTC]** Primo de Rick diz que aguardava cantor para gravar videoclipe antes de aeronave desaparecer em SC
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/primo-de-rick-diz-que-aguardava-cantor-para-gravar-videoclipe-antes-de-aeronave-desaparecer-em-sc.ghtml)_
+
