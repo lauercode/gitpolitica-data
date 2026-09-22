@@ -47,3 +47,6 @@
 - **[2026-09-22 22:28 UTC]** Quaest na Paraíba: 64% aprovam e 16% desaprovam governo de Lucas Ribeiro (PP)
   _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-paraiba-avaliacao-governo-22-setembro.ghtml)_
 
+- **[2026-09-22 22:23 UTC]** Quaest na PB: Lucas Ribeiro, 49%; Efraim Filho, 16%; Cícero Lucena, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-pb-governador-22-setembro.ghtml)_
+
