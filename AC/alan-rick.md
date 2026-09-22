@@ -167,3 +167,6 @@
 - **[2026-09-22 12:49 UTC]** Lembre os maiores hits de Rick e Renner, como 'Ela É Demais' e 'Nos Bares da Cidade'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/lembre-os-maiores-hits-de-rick-e-renner-como-ela-e-demais-e-nos-bares-da-cidade.shtml)_
 
+- **[2026-09-22 12:34 UTC]** Helicóptero do cantor Rick é encontrado em Santa Catarina; bombeiros dizem que não há sobreviventes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/bombeiros-encontram-destrocos-de-helicoptero-do-cantor-rick-em-santa-catarina.shtml)_
+
