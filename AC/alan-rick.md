@@ -209,3 +209,6 @@
 - **[2026-09-22 15:32 UTC]** Rick, da dupla com Renner, morre em queda de helicóptero em SC; relembre a trajetória do cantor
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/to/tocantins/noticia/2026/09/22/cantor-rick-da-dupla-com-renner-morre.ghtml)_
 
+- **[2026-09-22 14:43 UTC]** Veja a cronologia do desaparecimento do helicóptero com Rick, empresário, videomaker e piloto até a localização dos destroços
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/cronologia-desaparecimento-helicoptero-rick-cantor-empresario-videomaker-piloto.ghtml)_
+
