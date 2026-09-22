@@ -146,3 +146,6 @@
 - **[2026-09-22 13:42 UTC]** Mortes do cantor Rick e de mais quatro pessoas são confirmadas em SC
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/morte-de-cantor-rick-e-mais-quatro-pessoas-e-confirmada-em-sc)_
 
+- **[2026-09-22 14:30 UTC]** Rick, da dupla com Renner, tinha uma mansão de nove quartos e propriedade nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rick-da-dupla-com-renner-tinha-uma-mansao-de-nove-quartos-e-propriedade-nos-eua.shtml)_
+
