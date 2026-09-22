@@ -1889,3 +1889,6 @@
 - **[2026-09-22 16:38 UTC]** Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-22 14:43 UTC]** Flávio Bolsonaro cumpre agenda de campanha com motocarreata e comício em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/22/flavio-campanha-setembro-maranhao.ghtml)_
+
