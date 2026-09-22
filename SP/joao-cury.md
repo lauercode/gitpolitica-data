@@ -308,3 +308,6 @@
 - **[2026-09-22 00:31 UTC]** Em evento com jovens influenciadores, Cury promete 'revolucionar' turismo, educação, medicina e agricultura
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/21/em-evento-com-jovens-influenciadores-cury-promete-revolucionar-turismo-educacao-medicina-e-agricultura.ghtml)_
 
+- **[2026-09-21 23:53 UTC]** 'Torcendo para que nada tenha acontecido', diz Cury após conselheiro de campanha desaparecer a bordo de helicóptero com cantor Rick
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/augusto-cury-conselheiro-campanha-helicoptero-desaparecido.ghtml)_
+
