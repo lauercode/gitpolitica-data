@@ -1883,3 +1883,6 @@
 - **[2026-09-22 11:09 UTC]** TSE abre investigação sobre rede de collabs ligada a Flávio Bolsonaro no Instagram
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/tse-abre-investigacao-sobre-rede-de-collabs-ligada-a-flavio-bolsonaro-no-instagram.shtml)_
 
+- **[2026-09-22 14:13 UTC]** Flávio e Lula faltam ao debate do Flow e viram alvos de ataques sobre o Bolsa Família e o caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-e-lula-faltam-ao-debate-do-flow-e-viram-alvos-de-ataques-sobre-o-bolsa-familia-e-o-caso-master/)_
+
