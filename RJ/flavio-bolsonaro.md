@@ -1931,3 +1931,6 @@
 - **[2026-09-22 23:08 UTC]** TSE pede informações ao Facebook e Shopee sobre uso irregular de perfis para impulsionar campanha de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tse-pede-informaes-de-facebook-e-shopee-sobre-uso-irregular-de-perfis-para-impulsionar-campanha-de-flvio.ghtml)_
 
+- **[2026-09-22 23:03 UTC]** Caiado diz que Lula e Flávio 'correm' de debates
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/caiado-diz-que-lula-e-flavio-correm-de-debates.ghtml)_
+
