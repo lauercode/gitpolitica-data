@@ -197,3 +197,6 @@
 - **[2026-09-22 16:14 UTC]** Bombeiros avaliam terreno para retirar corpos de destroços de helicóptero com cantor Rick em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/bombeiros-avaliam-terreno-para-retirar-corpos-de-destrocos-de-helicoptero-com-cantor-rick-em-sc.ghtml)_
 
+- **[2026-09-22 16:02 UTC]** Rick fez último show em Campo Grande antes de morrer em queda de helicóptero; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/22/video-mostra-ultimo-show-de-rick-em-ms-antes-de-morte-em-queda-de-helicoptero.ghtml)_
+
