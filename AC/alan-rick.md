@@ -251,3 +251,6 @@
 - **[2026-09-22 15:35 UTC]** Antes de Rick & Renner, cantor formou dupla com a irmã aos 10 anos
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/antes-de-rick-and-renner-cantor-formou-dupla-com-a-irma-aos-10-anos.ghtml)_
 
+- **[2026-09-22 15:32 UTC]** Infância na roça do Tocantins e início da carreira: Rick falou sobre suas origens ao Fantástico; veja VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/infancia-na-roca-e-inicio-da-carreira-rick-falou-sobre-suas-origens-ao-fantastico-veja-video.ghtml)_
+
