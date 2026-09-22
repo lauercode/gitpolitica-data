@@ -95,3 +95,6 @@
 - **[2026-09-22 03:30 UTC]** 'Ninguém conseguiu contato', diz primo de Rick após helicóptero com o cantor desaparecer
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/ninguem-conseguiu-contato-diz-primo-de-rick-apos-helicoptero-com-o-cantor-desaparecer.ghtml)_
 
+- **[2026-09-22 08:06 UTC]** Buscas por helicóptero com cantor Rick continuam nesta terça-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/buscas-por-helicoptero-com-cantor-rick-continuam-nesta-terca-feira)_
+
