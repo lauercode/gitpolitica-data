@@ -101,3 +101,6 @@
 - **[2026-09-22 09:49 UTC]** Quem é Rick, da dupla Rick e Renner, e como ele ajudou a renovar o sertanejo com letras bem-humoradas e sensuais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/quem-e-rick-da-dupla-rick-e-renner-e-como-ele-ajudou-a-renovar-o-sertanejo-com-letras-bem-humoradas-e-sensuais.shtml)_
 
+- **[2026-09-22 09:29 UTC]** Perfil de Rick e Renner nas redes diz que todos seguem unidos e com esperança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/perfil-de-rick-e-renner-nas-redes-diz-que-todos-seguem-unidos-e-com-esperanca.shtml)_
+
