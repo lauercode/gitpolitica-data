@@ -182,3 +182,6 @@
 - **[2026-09-22 17:27 UTC]** Sócio do cantor Rick foi convidado para voo em helicóptero que caiu em SC, mas decidiu viajar de carro
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/socio-cantor-rick-convidado-voo-helicoptero-decidiu-viajar-carro.ghtml)_
 
+- **[2026-09-22 16:54 UTC]** Helicóptero com cantor Rick é encontrado; não há sobreviventes
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
+
