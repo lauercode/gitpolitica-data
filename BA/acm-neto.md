@@ -38,3 +38,6 @@
 - **[2026-09-21 20:05 UTC]** Nova pesquisa Quaest na BA testa impacto de Nunes Marques na disputa Jerônimo e ACM Neto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-quaest-na-ba-testa-impacto-de-nunes-marques-na-disputa-jeronimo-e-acm-neto.ghtml)_
 
+- **[2026-09-21 18:07 UTC]** PF identifica 232 chamadas entre ACM Neto e o ‘Rei do Lixo’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/pf-identifica-232-chamadas-entre-acm-neto-e-jos-marcos-de-moura-indiciado-por-fraudes.ghtml)_
+
