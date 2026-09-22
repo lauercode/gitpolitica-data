@@ -14,3 +14,6 @@
 - **[2026-09-22 13:37 UTC]** Ptolomeu IV: Ex-governador Gladson Camelí é alvo de operação da PF no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/22/ex-governador-gladson-cameli-e-alvo-de-operacao-da-pf-em-rio-branco.ghtml)_
 
+- **[2026-09-22 13:37 UTC]** Ptolomeu IV: Ex-governador Gladson Camelí é alvo de operação no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/22/ex-governador-gladson-cameli-e-alvo-de-operacao-da-pf-em-rio-branco.ghtml)_
+
