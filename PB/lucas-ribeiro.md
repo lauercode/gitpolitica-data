@@ -44,3 +44,6 @@
 - **[2026-09-21 19:12 UTC]** Lucas Ribeiro defende mobilidade urbana e cita novos projetos para cidades da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/lucas-ribeiro-candidato-ao-governo-da-pb-defende-projetos-de-mobilidade-em-cidades-do-estado.ghtml)_
 
+- **[2026-09-22 22:28 UTC]** Quaest na Paraíba: 64% aprovam e 16% desaprovam governo de Lucas Ribeiro (PP)
+  _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-paraiba-avaliacao-governo-22-setembro.ghtml)_
+
