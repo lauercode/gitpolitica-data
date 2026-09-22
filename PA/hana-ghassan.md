@@ -47,3 +47,6 @@
 - **[2026-09-18 23:29 UTC]** Hana Ghassan propõe criar auxílio financeiro e capacitação para mulheres vítimas de violência no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/18/hana-ghassan-propoe-criar-auxilio-financeiro-e-capacitacao-para-mulheres-vitimas-de-violencia-no-para.ghtml)_
 
+- **[2026-09-21 23:18 UTC]** Hana Ghassan propõe dar transparência para a fila da saúde no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/21/hana-ghassan-propoe-dar-transparencia-para-a-fila-da-saude-no-para.ghtml)_
+
