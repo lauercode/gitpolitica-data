@@ -1892,3 +1892,6 @@
 - **[2026-09-22 14:43 UTC]** Flávio Bolsonaro cumpre agenda de campanha com motocarreata e comício em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/22/flavio-campanha-setembro-maranhao.ghtml)_
 
+- **[2026-09-22 18:04 UTC]** TSE aceita ação do PT que pede investigação de suposta rede de collabs para promover Flávio Bolsonaro no Instagram
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/tse-aceita-acao-do-pt-que-pede-investigacao-de-suposta-rede-de-collabs-para-promover-flavio-bolsonaro-no-instagram.ghtml)_
+
