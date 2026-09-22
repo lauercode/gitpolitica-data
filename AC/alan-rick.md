@@ -92,3 +92,6 @@
 - **[2026-09-22 03:01 UTC]** Helicóptero com Rick e empresário desaparece em SC: o que se sabe e o que falta saber
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-com-rick-e-empresario-desaparece-em-sc-o-que-se-sabe-e-o-que-falta-saber.ghtml)_
 
+- **[2026-09-22 03:30 UTC]** 'Ninguém conseguiu contato', diz primo de Rick após helicóptero com o cantor desaparecer
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/ninguem-conseguiu-contato-diz-primo-de-rick-apos-helicoptero-com-o-cantor-desaparecer.ghtml)_
+
