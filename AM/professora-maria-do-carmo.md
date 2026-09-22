@@ -62,3 +62,6 @@
 - **[2026-09-21 13:24 UTC]** Eleições 2026: Professora Maria do Carmo defende reestruturação da educação e revisão de contratos da Seduc
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-professora-maria-do-carmo-defende-reestruturacao-da-educacao-e-revisao-de-contratos-da-seduc.ghtml)_
 
+- **[2026-09-22 21:13 UTC]** Eleições 2026: Professora Maria do Carmo promete manter benefícios sociais e investir na agricultura familiar contra a pobreza
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-professora-maria-do-carmo-promete-manter-beneficios-sociais-e-investir-na-agricultura-familiar-contra-a-pobreza.ghtml)_
+
