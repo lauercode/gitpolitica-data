@@ -230,3 +230,6 @@
 - **[2026-09-22 17:00 UTC]** Morte de Rick: cantor nasceu no Tocantins e foi secretário de governo
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/morte-de-rick-cantor-nasceu-no-tocantins-e-foi-secretario-de-governo.ghtml)_
 
+- **[2026-09-22 16:40 UTC]** Tia falou sobre fé em entrevista momentos antes de saber da morte de Rick: ‘entrego nas mãos do Senhor’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/tia-falou-sobre-fe-em-entrevista-momentos-antes-de-saber-da-morte-de-rick-entrego-nas-maos-do-senhor.ghtml)_
+
