@@ -1901,3 +1901,6 @@
 - **[2026-09-22 16:17 UTC]** Flávio Bolsonaro ataca Dino em reduto de ministro do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-ataca-dino-em-reduto-de-ministro-do-stf.shtml)_
 
+- **[2026-09-22 15:07 UTC]** Aliados de Flávio reclamam que Michelle não entrou de vez na campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-flavio-reclamam-que-michelle-nao-entrou-de-vez-na-campanha.shtml)_
+
