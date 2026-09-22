@@ -293,3 +293,6 @@
 - **[2026-09-22 16:42 UTC]** Conheça o helicóptero que caiu com o cantor Rick em SC; Bell 430 tinha capacidade para 7 passageiros
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/conheca-helicoptero-bell-430-cantor-rick.ghtml)_
 
+- **[2026-09-22 15:46 UTC]** VÍDEO: música 'Filha' marcou o último show de Rick, da dupla com Renner, em festa de 15 anos no MT
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/mt/mato-grosso/noticia/2026/09/22/video-musica-filha-marcou-o-ultimo-show-de-rick-da-dupla-com-renner-em-festa-de-15-anos-em-mt.ghtml)_
+
