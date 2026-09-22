@@ -194,3 +194,6 @@
 - **[2026-09-22 16:42 UTC]** Conheça era o helicóptero que caiu com o cantor Rick em SC? Bell 430 tinha capacidade para 7 passageiros
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/conheca-helicoptero-bell-430-cantor-rick.ghtml)_
 
+- **[2026-09-22 16:14 UTC]** Bombeiros avaliam terreno para retirar corpos de destroços de helicóptero com cantor Rick em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/bombeiros-avaliam-terreno-para-retirar-corpos-de-destrocos-de-helicoptero-com-cantor-rick-em-sc.ghtml)_
+
