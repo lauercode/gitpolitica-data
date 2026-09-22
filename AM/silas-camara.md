@@ -1037,3 +1037,6 @@ direitos
 - **[2026-09-22 03:04 UTC]** Câmara de Parnamirim amplia serviços e oportunidades para a população
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/especial-publicitario/camara-municipal-de-parnamirim/noticia/2026/09/22/camara-de-parnamirim-amplia-servicos-e-oportunidades-para-a-populacao.ghtml)_
 
+- **[2026-09-22 10:45 UTC]** Vereador do ES é condenado a indenizar comerciante após chamá-lo de 'corno' durante reunião na Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/noticia/2026/09/22/vereador-e-condenado-a-indenizar-comerciante-apos-chama-lo-de-corno-durante-reuniao-no-es.ghtml)_
+
