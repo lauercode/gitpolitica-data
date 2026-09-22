@@ -23,3 +23,6 @@
 - **[2026-09-21 20:33 UTC]** Pesquisa Quaest no RS mede novo capítulo do duelo entre Juliana Brizola e Luciano Zucco
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/pesquisa-quaest-no-rs-mede-novo-capitulo-do-duelo-entre-juliana-brizola-e-luciano-zucco.ghtml)_
 
+- **[2026-09-22 01:04 UTC]** Eleições 2026 no RS: Juliana Brizola diz que 'turismo traz dinheiro para a economia'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-no-rs-juliana-brizola-diz-que-turismo-traz-dinheiro-para-a-economia.ghtml)_
+
