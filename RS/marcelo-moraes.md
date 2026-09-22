@@ -2609,3 +2609,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 09:39 UTC]** Mendonça pede arquivamento de denúncia contra ele e sugere que Moraes deveria ser investigado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-pede-arquivamento-de-denuncia-contra-ele-e-sugere-que-moraes-deveria-ser-investigado.shtml)_
 
+- **[2026-09-22 13:15 UTC]** Mendonça pede investigação de Moraes por abuso de autoridade e denunciação caluniosa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-pede-investigacao-de-moraes-por-abuso-de-autoridade-e-denunciacao-caluniosa/)_
+
