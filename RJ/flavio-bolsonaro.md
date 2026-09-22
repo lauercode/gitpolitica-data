@@ -1856,3 +1856,6 @@
 - **[2026-09-21 23:10 UTC]** Flávio diz que terá relação ‘pragmática’ com a China, se eleito
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/flvio-bolsonaro-diz-que-ter-relao-pragmtica-economicamente-com-a-china-se-eleito.ghtml)_
 
+- **[2026-09-21 21:17 UTC]** Quaest: Flávio empata com Lula no primeiro e segundo turnos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/quaest-flavio-tem-42percent-e-lula-41percent-no-segundo-turno.ghtml)_
+
