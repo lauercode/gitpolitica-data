@@ -281,3 +281,6 @@
 - **[2026-09-22 18:30 UTC]** Damares homenageia Rick com resgate de vídeo em que sertanejo faz Bolsonaro chorar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-homenageia-rick-com-video-em-que-sertanejo-canta-para-bolsonaro/)_
 
+- **[2026-09-22 21:02 UTC]** Rick compôs música para as vítimas da enchente do RS em 2024
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/22/rick-compos-musica-para-as-vitimas-da-enchente-do-rs-em-2024.ghtml)_
+
