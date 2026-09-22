@@ -218,3 +218,6 @@
 - **[2026-09-22 13:36 UTC]** Entre mata fechada e planície: como é a região onde helicóptero com cantor Rick desapareceu em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/mata-fechada-planicie-regiao-onde-helicoptero-com-cantor-rick-desapareceu.ghtml)_
 
+- **[2026-09-22 13:26 UTC]** Esposa do cantor Rick volta ao Brasil para acompanhar buscas: 'Surgirá um testemunho'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/pop-arte/noticia/2026/09/22/esposa-do-cantor-rick-volta-ao-brasil-para-acompanhar-buscas-por-helicoptero-desaparecido.ghtml)_
+
