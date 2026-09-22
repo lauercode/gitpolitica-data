@@ -1898,3 +1898,6 @@
 - **[2026-09-22 17:52 UTC]** Flávio Bolsonaro e Lula trocam críticas e focam em preço dos alimentos em propaganda eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/flavio-bolsonaro-e-lula-trocam-criticas-e-focam-em-preco-dos-alimentos-em-propaganda-eleitoral.ghtml)_
 
+- **[2026-09-22 16:17 UTC]** Flávio Bolsonaro ataca Dino em reduto de ministro do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-ataca-dino-em-reduto-de-ministro-do-stf.shtml)_
+
