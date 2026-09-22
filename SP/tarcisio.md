@@ -50,3 +50,6 @@
 - **[2026-09-21 15:23 UTC]** Nova pesquisa Datafolha em SP testa vantagem de 20 pontos de Tarcísio contra Haddad
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-em-sp-testa-vantagem-de-20-pontos-de-tarcisio-contra-haddad.ghtml)_
 
+- **[2026-09-22 07:00 UTC]** Tarcísio já gastou 88% do teto permitido para campanha ao governo de SP; Haddad, 46%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/22/tarcisio-ja-gastou-88percent-do-teto-permitido-para-campanha-ao-governo-de-sp-haddad-46percent.ghtml)_
+
