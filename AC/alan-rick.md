@@ -122,3 +122,6 @@
 - **[2026-09-22 11:08 UTC]** Bombeiros usam cruzamento de sinal de celulares para tentar localizar helicóptero com cantor Rick em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/bombeiros-usam-cruzamento-celulares-tentar-localizar-helicoptero-cantor-rick-sc.ghtml)_
 
+- **[2026-09-22 10:45 UTC]** Quem são os passageiros de helicóptero que desapareceu em SC com cantor Rick e empresário
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/quem-sao-os-passageiros-de-helicoptero-que-desapareceu-em-sc-com-cantor-rick-e-empresario.ghtml)_
+
