@@ -1895,3 +1895,6 @@
 - **[2026-09-22 18:04 UTC]** TSE aceita ação do PT que pede investigação de suposta rede de collabs para promover Flávio Bolsonaro no Instagram
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/tse-aceita-acao-do-pt-que-pede-investigacao-de-suposta-rede-de-collabs-para-promover-flavio-bolsonaro-no-instagram.ghtml)_
 
+- **[2026-09-22 17:52 UTC]** Flávio Bolsonaro e Lula trocam críticas e focam em preço dos alimentos em propaganda eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/flavio-bolsonaro-e-lula-trocam-criticas-e-focam-em-preco-dos-alimentos-em-propaganda-eleitoral.ghtml)_
+
