@@ -236,3 +236,6 @@
 - **[2026-09-22 16:39 UTC]** Rick fez parceria musical com primos no TO e tinham plano de gravar DVD em Goiânia
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/rick-fez-parceria-musical-com-primos-no-to-e-tinham-plano-de-gravar-dvd-em-goiania.ghtml)_
 
+- **[2026-09-22 16:21 UTC]** Antes de conquistar o público com a música sertaneja, Rick iniciou a carreira ao lado da irmã
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/antes-de-conquistar-o-publico-com-a-musica-sertaneja-rick-iniciou-a-carreira-ao-lado-da-irma.ghtml)_
+
