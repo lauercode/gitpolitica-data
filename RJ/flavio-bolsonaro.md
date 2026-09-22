@@ -1928,3 +1928,6 @@
 - **[2026-09-22 16:17 UTC]** Flávio ataca Dino em reduto de ministro do STF e provoca Justiça Eleitoral com quadro de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-ataca-dino-em-reduto-de-ministro-do-stf.shtml)_
 
+- **[2026-09-22 23:08 UTC]** TSE pede informações ao Facebook e Shopee sobre uso irregular de perfis para impulsionar campanha de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tse-pede-informaes-de-facebook-e-shopee-sobre-uso-irregular-de-perfis-para-impulsionar-campanha-de-flvio.ghtml)_
+
