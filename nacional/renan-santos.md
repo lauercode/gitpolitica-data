@@ -299,3 +299,6 @@
 - **[2026-09-21 10:43 UTC]** Renan Santos faz campanha em Curitiba e critica aumento do Bolsa Família: 'Compra de voto'
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/renan-campanha-setembro-curitiba.ghtml)_
 
+- **[2026-09-22 01:34 UTC]** Renan Santos diz que não apoiará Flávio Bolsonaro em eventual segundo turno: ‘Bandido’
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/21/renan-santos-diz-que-no-apoiar-flvio-bolsonaro-em-eventual-segundo-turno-bandido.ghtml)_
+
