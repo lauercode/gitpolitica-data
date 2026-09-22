@@ -284,3 +284,6 @@
 - **[2026-09-22 21:02 UTC]** Rick compôs música para as vítimas da enchente do RS em 2024
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/22/rick-compos-musica-para-as-vitimas-da-enchente-do-rs-em-2024.ghtml)_
 
+- **[2026-09-22 20:16 UTC]** Corpos do cantor Rick e outros 4 mortos em queda de helicóptero em SC são retirados com ajuda de cordas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/corpos-de-mortos-em-queda-de-helicoptero-em-sc-sao-retirados-com-ajuda-de-cordas.ghtml)_
+
