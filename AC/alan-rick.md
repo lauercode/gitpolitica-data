@@ -314,3 +314,6 @@
 - **[2026-09-22 16:39 UTC]** Rick e primos do TO fizeram parceria musical e planejavam gravar DVD em Goiânia
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/rick-fez-parceria-musical-com-primos-no-to-e-tinham-plano-de-gravar-dvd-em-goiania.ghtml)_
 
+- **[2026-09-22 22:09 UTC]** Cantor sertanejo do Acre relembra inspiração em Rick e Renner ao longo da carreira: 'Legado fica'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/22/cantor-sertanejo-do-acre-relembra-inspiracao-em-rick-e-renner-ao-longo-da-carreira-legado-fica.ghtml)_
+
