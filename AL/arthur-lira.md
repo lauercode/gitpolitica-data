@@ -14,3 +14,6 @@
 - **[2026-09-01 18:27 UTC]** Em primeira sabatina, Arthur Lira diz que fim da 6x1 pode gerar desemprego
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/01/em-primeira-sabatina-arthur-lira-diz-que-fim-da-6x1-pode-gerar-desemprego.ghtml)_
 
+- **[2026-09-22 17:15 UTC]** Arthur Elias convoca seleção feminina para amistosos contra Argentina
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/arthur-elias-convoca-selecao-feminina-para-amistosos-contra-argentina)_
+
