@@ -2588,3 +2588,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 20:10 UTC]** Três deputados europeus pedem à UE ações contra Alexandre de Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/elastic/noticia/2026/09/21/tres-deputados-europeus-pedem-a-ue-acoes-contra-moraes-e-monitoramento-das-eleicoes-no-brasil.ghtml)_
 
+- **[2026-09-21 20:27 UTC]** Moraes se declara impedido em ação sobre visitas da esposa ao Senado
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/moraes-se-declara-impedido-em-acao-sobre-visitas-da-esposa-ao-senado)_
+
