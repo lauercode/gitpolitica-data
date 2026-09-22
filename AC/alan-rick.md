@@ -323,3 +323,6 @@
 - **[2026-09-22 21:29 UTC]** FOTOS mostram local onde helicóptero com cantor Rick e mais quatro ocupantes caiu em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/fotos-local-helicoptero-cantor-rick-mais-quatro-ocupantes-caiu-sc.ghtml)_
 
+- **[2026-09-22 22:41 UTC]** Padre em processo de beatificação abençoou Rick e previu que ele viveria da música, diz ministra da eucaristia
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/padre-em-processo-de-beatificacao-abencoou-rick-e-previu-que-ele-viveria-da-musica-diz-ministra-da-eucaristia.ghtml)_
+
