@@ -2645,3 +2645,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 20:50 UTC]** Bateu o desespero: ascensão de Flávio Bolsonaro assombra Moraes e seus aliados no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/renan-ramalho/bateu-o-desespero-ascensao-de-flavio-bolsonaro-assombra-moraes-e-seus-aliados-no-stf/)_
 
+- **[2026-09-22 20:45 UTC]** Mendonça enfrenta Moraes, critica “arapongagem” e pede acesso integral ao inquérito das fake news
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-enfrenta-moraes-critica-arapongagem-e-pede-acesso-integral-ao-inquerito-das-fake-news/)_
+
