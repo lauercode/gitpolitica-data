@@ -116,3 +116,6 @@
 - **[2026-09-22 12:34 UTC]** Helicóptero que desapareceu com cantor Rick: buscas são feitas em Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
 
+- **[2026-09-22 11:38 UTC]** Videomaker publicou imagens de dentro de helicóptero desaparecido com o cantor Rick e empresário
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/videomaker-imagens-dentro-helicoptero-desaparecido-cantor-rick.ghtml)_
+
