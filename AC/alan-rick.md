@@ -257,3 +257,6 @@
 - **[2026-09-22 15:56 UTC]** Bombeiros encontram destroços de helicóptero do cantor Rick em SC; não há sobreviventes
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/22/bombeiros-encontram-destrocos-de-helicoptero-do-cantor-rick-em-sc-nao-ha-sobreviventes.ghtml)_
 
+- **[2026-09-22 16:01 UTC]** Helicóptero que transportava o cantor Rick estava regular, diz Anac
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/helicoptero-que-transportava-o-cantor-rick-estava-regular-diz-anac)_
+
