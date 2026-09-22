@@ -2618,3 +2618,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 12:16 UTC]** Mendonça diz que Moraes distorceu relatórios da PF e pede investigação por abuso de autoridade
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/mendonca-moraes.ghtml)_
 
+- **[2026-09-22 11:42 UTC]** Casamento do filho de Moraes terá fala do escritor Gabriel Chalita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/casamento-do-filho-de-moraes-tera-fala-do-escritor-gabriel-chalita.shtml)_
+
