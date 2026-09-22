@@ -2597,3 +2597,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 21:30 UTC]** A relação de Moraes com Vorcaro diz algo sobre a trama golpista?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/09/a-relacao-de-moraes-com-vorcaro-diz-algo-sobre-a-trama-golpista.shtml)_
 
+- **[2026-09-21 23:40 UTC]** Direita se divide sobre convocar ou não protestos nas ruas contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/direita-se-divide-sobre-convocar-ou-nao-protestos-nas-ruas-contra-moraes/)_
+
