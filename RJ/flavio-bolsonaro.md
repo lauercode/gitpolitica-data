@@ -1868,3 +1868,6 @@
 - **[2026-09-22 04:00 UTC]** Flávio esbarra em polêmicas de Bolsonaro e ignora 'Dark Horse' ao explorar crise no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-esbarra-em-polemicas-de-bolsonaro-e-ignora-dark-horse-ao-explorar-crise-no-stf.shtml)_
 
+- **[2026-09-21 23:00 UTC]** Lula é visto como favorito para 54% dos brasileiros; Flávio empata entre homens e evangélicos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lula-e-visto-como-favorito-para-54-dos-brasileiros-flavio-empata-entre-homens-e-evangelicos.shtml)_
+
