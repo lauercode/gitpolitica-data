@@ -1880,3 +1880,6 @@
 - **[2026-09-22 10:45 UTC]** Campanha de Flávio Bolsonaro aposta em sentimento 'anti-Lula e anti-STF' na reta final da campanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/campanha-de-flavio-bolsonaro-aposta-em-sentimento-anti-lula-e-anti-stf-na-reta-final-da-campanha.ghtml)_
 
+- **[2026-09-22 11:09 UTC]** TSE abre investigação sobre rede de collabs ligada a Flávio Bolsonaro no Instagram
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/tse-abre-investigacao-sobre-rede-de-collabs-ligada-a-flavio-bolsonaro-no-instagram.shtml)_
+
