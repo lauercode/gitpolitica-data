@@ -275,3 +275,6 @@
 - **[2026-09-22 14:48 UTC]** Por que Renner não estava no helicóptero com Rick? Entenda viagem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/por-que-renner-nao-estava-no-helicoptero-com-rick-entenda-viagem.shtml)_
 
+- **[2026-09-22 13:17 UTC]** Ana Castela, Daniel e outros artistas lamentam morte de Rick Sollo após queda de helicóptero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/milton-neves-ana-castela-e-outros-artistas-lamentam-morte-de-rick-sollo-apos-queda-de-helicoptero.shtml)_
+
