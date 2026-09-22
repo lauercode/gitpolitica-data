@@ -305,3 +305,6 @@
 - **[2026-09-22 20:00 UTC]** Rick visitou igreja e relembrou relação com padre que está em processo de beatificação no TO; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/rick-visitou-igreja-e-relembrou-relacao-com-padre-que-esta-em-processo-de-beatificacao-no-to-video.ghtml)_
 
+- **[2026-09-22 18:31 UTC]** Estado onde Rick nasceu, Tocantins decreta luto oficial de três dias
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/governador-lamenta-morte-de-rick-e-decreta-luto-de-tres-dias-no-tocantins.ghtml)_
+
