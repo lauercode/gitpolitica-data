@@ -2621,3 +2621,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 11:42 UTC]** Casamento do filho de Moraes terá fala do escritor Gabriel Chalita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/casamento-do-filho-de-moraes-tera-fala-do-escritor-gabriel-chalita.shtml)_
 
+- **[2026-09-22 17:38 UTC]** Fux é sorteado relator de ação que Moraes se declarou impedido sobre esposa, Vorcaro e Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-sorteado-relator-acao-moraes-se-declarou-impedido/)_
+
