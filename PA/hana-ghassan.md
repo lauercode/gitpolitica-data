@@ -50,3 +50,6 @@
 - **[2026-09-21 23:18 UTC]** Hana Ghassan propõe dar transparência para a fila da saúde no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/21/hana-ghassan-propoe-dar-transparencia-para-a-fila-da-saude-no-para.ghtml)_
 
+- **[2026-09-22 17:53 UTC]** Nova pesquisa Quaest no Pará mede impacto de ordem do TRE para suspensão de conta de Hana Ghassan
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/nova-pesquisa-quaest-no-para-mede-impacto-da-suspensao-da-conta-de-hana-ghassan.ghtml)_
+
