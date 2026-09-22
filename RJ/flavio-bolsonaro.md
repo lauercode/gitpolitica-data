@@ -1916,3 +1916,6 @@
 - **[2026-09-22 19:41 UTC]** Tarcísio grava com Flávio e fala em 'entrar com potência' no 2º turno da campanha presidencial
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tarcsio-grava-com-flvio-e-fala-em-entrar-com-potncia-no-2-turno-da-campanha-presidencial.ghtml)_
 
+- **[2026-09-22 22:31 UTC]** Quaest na Paraíba: Lula, 54%; Flávio Bolsonaro, 23%
+  _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-paraiba-presidente-22-setembro.ghtml)_
+
