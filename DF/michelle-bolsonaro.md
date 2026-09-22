@@ -17,3 +17,6 @@
 - **[2026-09-22 20:33 UTC]** Com enxaqueca, Michelle Bolsonaro é internada em Brasília sem previsão de alta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/com-enxaqueca-michelle-bolsonaro-e-internada-em-brasilia-sem-previsao-de-alta.shtml)_
 
+- **[2026-09-22 22:54 UTC]** Michelle Bolsonaro é internada em Brasília por crise de enxaqueca
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/22/michelle-bolsonaro-e-internada-em-brasilia-por-crise-de-enxaqueca.ghtml)_
+
