@@ -1862,3 +1862,6 @@
 - **[2026-09-22 04:01 UTC]** Flávio Bolsonaro destinou emenda a miliciano condenado no caso Marielle; veja prints de conversa com assessora do senador
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/flavio-bolsonaro-destinou-emenda-a-miliciano-condenado-por-morte-de-marielle-veja-prints-de-conversa-com-assessora-do-senador.ghtml)_
 
+- **[2026-09-22 03:00 UTC]** Lula deve reforçar agenda social e tentar tirar foco da crise no STF na reta final do 1º turno; Flávio mira Sudeste e aposta no voto útil
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/lula-flavio-estrategias-reta-final-campanha.ghtml)_
+
