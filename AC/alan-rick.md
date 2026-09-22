@@ -176,3 +176,6 @@
 - **[2026-09-22 16:09 UTC]** Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-22 16:50 UTC]** Morre cantor sertanejo Rick em acidente de helicóptero que matou outras 4 pessoas; o que se sabe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss)_
+
