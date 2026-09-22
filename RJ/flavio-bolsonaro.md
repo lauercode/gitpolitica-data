@@ -1847,3 +1847,6 @@
 - **[2026-09-22 01:02 UTC]** Michelle protesta contra proibição de mostrar  Bolsonaro em propaganda eleitoral
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-protesta-contra-proibicao-de-mostrar-bolsonaro-em-propaganda-eleitoral/)_
 
+- **[2026-09-22 00:17 UTC]** Flávio Bolsonaro cumpre agenda com motocarreata e ato de campanha em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/21/flavio-bolsonaro-campanha-setembro-rn.ghtml)_
+
