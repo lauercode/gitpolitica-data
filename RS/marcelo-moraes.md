@@ -2636,3 +2636,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 12:48 UTC]** Mendonça rebate acusações de Moraes e pede que colega seja investigado por abuso de autoridade
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/22/mendonca-rebate-argumentos-de-moraes-e-pede-que-colega-seja-investigado-por-abuso-de-moraes.ghtml)_
 
+- **[2026-09-22 15:38 UTC]** Mendonça acusa Moraes de direcionar investigação no STF
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-acusa-moraes-de-direcionar-investigacao-no-stf)_
+
