@@ -2606,3 +2606,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 12:16 UTC]** Mendonça diz que Moraes distorceu teor de relatórios da PF e pede arquivamento de investigação
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/mendonca-moraes.ghtml)_
 
+- **[2026-09-22 09:39 UTC]** Mendonça pede arquivamento de denúncia contra ele e sugere que Moraes deveria ser investigado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-pede-arquivamento-de-denuncia-contra-ele-e-sugere-que-moraes-deveria-ser-investigado.shtml)_
+
