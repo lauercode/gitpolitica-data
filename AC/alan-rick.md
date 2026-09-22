@@ -191,3 +191,6 @@
 - **[2026-09-22 16:53 UTC]** 'Nossos grandes amigos', diz empresa dona de helicóptero com cantor Rick que caiu e deixou 5 mortos
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/nossos-grandes-amigos-diz-empresa-dona-helicoptero-cantor-rick-queda-mortos.ghtml)_
 
+- **[2026-09-22 16:42 UTC]** Conheça era o helicóptero que caiu com o cantor Rick em SC? Bell 430 tinha capacidade para 7 passageiros
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/conheca-helicoptero-bell-430-cantor-rick.ghtml)_
+
