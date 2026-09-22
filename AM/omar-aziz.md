@@ -74,3 +74,6 @@
 - **[2026-09-19 00:54 UTC]** Eleições 2026: Omar Aziz grava programa eleitoral e promete investir na formação de mão de obra para Zona Franca de Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-omar-aziz-grava-programa-eleitoral-e-promete-investir-na-formacao-de-mao-de-obra-para-zona-franca-de-manaus.ghtml)_
 
+- **[2026-09-22 22:50 UTC]** Eleições 2026: Omar Aziz promete ampliar regularização fundiária e usar concreto em estradas vicinais do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-omar-aziz-promete-ampliar-regularizacao-fundiaria-e-usar-concreto-em-estradas-vicinais-do-amazonas.ghtml)_
+
