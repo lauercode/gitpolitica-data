@@ -2654,3 +2654,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 17:56 UTC]** Casamento do filho de Alexandre de Moraes terá reforço policial em São Paulo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/casamento-do-filho-de-alexandre-de-moraes-tera-reforco-policial-em-sao-paulo/)_
 
+- **[2026-09-22 17:56 UTC]** Fux é sorteado relator de ação contra Viviane Barci, após Moraes se declarar impedido
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/22/fux-e-sorteado-relator-de-acao-contra-viviane-barci-apos-moraes-se-declarar-impedido.ghtml)_
+
