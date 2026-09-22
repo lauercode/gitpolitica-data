@@ -71,3 +71,6 @@
 - **[2026-09-21 21:32 UTC]** Rick, da dupla com Renner, postou vídeo de viagem aérea horas antes de sumir em voo; assista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rick-da-dupla-com-renner-postou-video-de-viagem-aerea-horas-antes-de-sumir-em-voo-assista.shtml)_
 
+- **[2026-09-21 20:19 UTC]** Quem é Rick, cantor que estava em helicóptero desaparecido em SC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/quem-e-rick-cantor-que-estava-em-helicoptero-desaparecido-em-sc.shtml)_
+
