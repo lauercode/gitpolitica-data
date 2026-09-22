@@ -215,3 +215,6 @@
 - **[2026-09-22 14:11 UTC]** Helicóptero com cantor Rick desaparece: infográfico mostra ponto de partida, últimos locais onde foram emitidos sinais e destino da aeronave
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-com-cantor-rick-desaparece-infografico.ghtml)_
 
+- **[2026-09-22 13:36 UTC]** Entre mata fechada e planície: como é a região onde helicóptero com cantor Rick desapareceu em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/mata-fechada-planicie-regiao-onde-helicoptero-com-cantor-rick-desapareceu.ghtml)_
+
