@@ -50,3 +50,6 @@
 - **[2026-09-14 20:12 UTC]** Exclusividade de Alcolumbre em pautar impeachment tem servido como blindagem, diz Rogério Marinho
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/exclusividade-de-alcolumbre-em-pautar-impeachment-tem-servido-como-blindagem-diz-rogerio-marinho.ghtml)_
 
+- **[2026-09-22 18:34 UTC]** Rogério Marinho propõe reforma judiciária para limitar poderes de ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-propoe-reforma-judiciaria-para-limitar-poderes-de-ministros-do-stf/)_
+
