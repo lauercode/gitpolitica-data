@@ -104,3 +104,6 @@
 - **[2026-09-22 09:29 UTC]** Perfil de Rick e Renner nas redes diz que todos seguem unidos e com esperança
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/perfil-de-rick-e-renner-nas-redes-diz-que-todos-seguem-unidos-e-com-esperanca.shtml)_
 
+- **[2026-09-22 09:29 UTC]** Esposa de empresário que estava com Rick em helicóptero desaparecido diz crer em milagre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/esposa-de-empresario-que-estava-com-rick-em-helicoptero-desaparecido-diz-crer-em-milagre.shtml)_
+
