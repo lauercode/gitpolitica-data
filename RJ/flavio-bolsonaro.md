@@ -1919,3 +1919,6 @@
 - **[2026-09-22 22:31 UTC]** Quaest na Paraíba: Lula, 54%; Flávio Bolsonaro, 23%
   _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-paraiba-presidente-22-setembro.ghtml)_
 
+- **[2026-09-22 20:24 UTC]** Em novo vídeo, Caiado cobra explicações de Flávio sobre dinheiro de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/em-novo-video-caiado-cobra-explicacoes-de-flavio-sobre-dinheiro-de-vorcaro.shtml)_
+
