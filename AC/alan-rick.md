@@ -65,3 +65,6 @@
 - **[2026-09-21 22:41 UTC]** Helicóptero desaparecido com Rick leva até sete pessoas e custa cerca de R$ 10 milhões
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/helicoptero-desaparecido-com-rick-leva-ate-sete-pessoas-e-custa-cerca-de-r-10-milhoes.shtml)_
 
+- **[2026-09-21 22:36 UTC]** Quem é Bruno Avelar, amigo de Neymar que estava em voo que sumiu com cantor Rick
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/quem-e-bruno-avelar-amigo-de-neymar-que-estava-em-voo-que-sumiu-com-cantor-rick.shtml)_
+
