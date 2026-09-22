@@ -128,3 +128,6 @@
 - **[2026-09-22 10:31 UTC]** Helicóptero que desapareceu com cantor Rick está com situação regular e certificação válida até 2027
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-desapareceu-cantor-rick-esta-situacao-regular-certificacao-valida-2027.ghtml)_
 
+- **[2026-09-22 07:26 UTC]** Buscas por helicóptero que desapareceu em SC com cantor Rick seguem com drone térmico
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/buscas-por-helicoptero-seguem-com-drone-termico.ghtml)_
+
