@@ -134,3 +134,6 @@
 - **[2026-09-22 13:11 UTC]** Nascido em cidade do TO, Rick mantém laços com o estado e propriedade em Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/nascido-em-cidade-do-to-rick-mantem-lacos-com-o-estado-e-propriedade-em-palmas.ghtml)_
 
+- **[2026-09-22 12:26 UTC]** Conheça cidade no TO em que Rick, da dupla com Renner, foi criado
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/conheca-cidade-no-to-em-que-rick-da-dupla-com-renner-foi-criado.ghtml)_
+
