@@ -245,3 +245,6 @@
 - **[2026-09-22 15:38 UTC]** ‘Despertei pra música ouvindo meu pai’: Rick comentou influência do pai na carreira
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/despertei-pra-musica-ouvindo-meu-pai-rick-comenta-influencia-do-pai-na-carreira.ghtml)_
 
+- **[2026-09-22 15:38 UTC]** Rick relembrou raízes musicais e revela influência de ritmos do Tocantins em sucessos: ‘Consegui trazer algumas coisas’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/rick-relembra-raizes-musicais-e-revela-influencia-de-ritmos-do-tocantins-em-sucessos-de-rick-and-renner-consegui-trazer-algumas-coisas.ghtml)_
+
