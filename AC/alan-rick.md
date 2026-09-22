@@ -119,3 +119,6 @@
 - **[2026-09-22 11:38 UTC]** Videomaker publicou imagens de dentro de helicóptero desaparecido com o cantor Rick e empresário
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/videomaker-imagens-dentro-helicoptero-desaparecido-cantor-rick.ghtml)_
 
+- **[2026-09-22 11:08 UTC]** Bombeiros usam cruzamento de sinal de celulares para tentar localizar helicóptero com cantor Rick em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/bombeiros-usam-cruzamento-celulares-tentar-localizar-helicoptero-cantor-rick-sc.ghtml)_
+
