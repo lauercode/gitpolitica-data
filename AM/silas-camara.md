@@ -1031,3 +1031,6 @@ direitos
 - **[2026-09-21 14:30 UTC]** Câmara reduz pela metade jornada de trabalho presencial de servidores durante período eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/camara-reduz-pela-metade-jornada-de-trabalho-presencial-de-servidores-durante-periodo-eleitoral.shtml)_
 
+- **[2026-09-21 20:05 UTC]** Prisão de Milton Leite abre caminho para aliado de Nunes presidir a Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/prisao-de-milton-leite-abre-caminho-para-aliado-de-nunes-presidir-a-camara.shtml)_
+
