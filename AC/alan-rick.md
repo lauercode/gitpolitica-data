@@ -299,3 +299,6 @@
 - **[2026-09-22 14:11 UTC]** INFOGRÁFICO mostra trajeto do helicóptero do cantor Rick, área de buscas e vítimas do acidente
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-com-cantor-rick-desaparece-infografico.ghtml)_
 
+- **[2026-09-22 21:04 UTC]** Henrique e Juliano lamentam morte de Rick: 'Um dos maiores pilares'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/henrique-and-juliano-lamentam-morte-de-rick-um-dos-maiores-pilares.ghtml)_
+
