@@ -161,3 +161,6 @@
 - **[2026-09-22 13:09 UTC]** Rick revelou lado produtor em programa na Globo e rejeitou falar com o Pânico na TV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/rick-revelou-lado-produtor-em-programa-na-globo-e-rejeitou-falar-com-o-panico-na-tv.shtml)_
 
+- **[2026-09-22 12:59 UTC]** Rick, ao lado de Renner, fez lives solidárias na pandemia com mais de 5,3 milhões de visualizações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rick-ao-lado-de-renner-fez-lives-solidarias-na-pandemia-com-mais-de-53-milhoes-de-visualizacoes.shtml)_
+
