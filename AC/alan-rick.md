@@ -290,3 +290,6 @@
 - **[2026-09-22 18:50 UTC]** Veja quem eram o piloto e o copiloto do helicóptero que caiu com o cantor Rick  em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/quem-sao-piloto-copiloto-helicoptero-caiu-cantor-rick-sc.ghtml)_
 
+- **[2026-09-22 16:42 UTC]** Conheça o helicóptero que caiu com o cantor Rick em SC; Bell 430 tinha capacidade para 7 passageiros
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/conheca-helicoptero-bell-430-cantor-rick.ghtml)_
+
