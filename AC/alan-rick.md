@@ -149,3 +149,6 @@
 - **[2026-09-22 14:30 UTC]** Rick, da dupla com Renner, tinha uma mansão de nove quartos e propriedade nos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rick-da-dupla-com-renner-tinha-uma-mansao-de-nove-quartos-e-propriedade-nos-eua.shtml)_
 
+- **[2026-09-22 14:04 UTC]** Rick Sollo, Cristiano Araújo e Marília Mendonça morreram em acidentes; relembre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/rick-sollo-cristiano-araujo-e-marilia-mendonca-morreram-em-acidentes-relembre.shtml)_
+
