@@ -2633,3 +2633,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 13:53 UTC]** Mendonça se manifesta sobre acusações de Moraes: 'Denunciação caluniosa e abuso de autoridade'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw1l6yv2lmzpo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-22 12:48 UTC]** Mendonça rebate acusações de Moraes e pede que colega seja investigado por abuso de autoridade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/22/mendonca-rebate-argumentos-de-moraes-e-pede-que-colega-seja-investigado-por-abuso-de-moraes.ghtml)_
+
