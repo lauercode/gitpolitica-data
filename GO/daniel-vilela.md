@@ -20,3 +20,6 @@
 - **[2026-09-19 00:00 UTC]** Eleições 2026: Daniel Vilela promete aumento no número de câmeras de monitoramento com uso de Inteligência Artificial
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-agenda-de-daniel-vilela-de-sexta-feira-18.ghtml)_
 
+- **[2026-09-22 00:28 UTC]** Eleições 2026: Daniel Vilela fala em investimentos para o agro em visita ao sudoeste de Goiás
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-agenda-de-daniel-vilela-de-segunda-feira-21.ghtml)_
+
