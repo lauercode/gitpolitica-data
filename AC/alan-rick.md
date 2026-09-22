@@ -170,3 +170,6 @@
 - **[2026-09-22 12:34 UTC]** Helicóptero do cantor Rick é encontrado em Santa Catarina; bombeiros dizem que não há sobreviventes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/bombeiros-encontram-destrocos-de-helicoptero-do-cantor-rick-em-santa-catarina.shtml)_
 
+- **[2026-09-22 11:00 UTC]** Rick Sollo: o desfecho trágico que ninguém queria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/09/rick-sollo-a-angustia-e-a-esperanca-em-busca-de-noticias.shtml)_
+
