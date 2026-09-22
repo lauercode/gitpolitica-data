@@ -1865,3 +1865,6 @@
 - **[2026-09-22 03:00 UTC]** Lula deve reforçar agenda social e tentar tirar foco da crise no STF na reta final do 1º turno; Flávio mira Sudeste e aposta no voto útil
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/lula-flavio-estrategias-reta-final-campanha.ghtml)_
 
+- **[2026-09-22 04:00 UTC]** Flávio esbarra em polêmicas de Bolsonaro e ignora 'Dark Horse' ao explorar crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-esbarra-em-polemicas-de-bolsonaro-e-ignora-dark-horse-ao-explorar-crise-no-stf.shtml)_
+
