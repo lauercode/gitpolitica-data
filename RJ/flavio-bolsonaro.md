@@ -1925,3 +1925,6 @@
 - **[2026-09-22 18:37 UTC]** 47% das mulheres chefes de família dizem votar em Lula; 27%, em Flávio, diz Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/47-das-mulheres-chefes-de-familia-dizem-votar-em-lula-27-em-flavio-diz-datafolha.shtml)_
 
+- **[2026-09-22 16:17 UTC]** Flávio ataca Dino em reduto de ministro do STF e provoca Justiça Eleitoral com quadro de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-ataca-dino-em-reduto-de-ministro-do-stf.shtml)_
+
