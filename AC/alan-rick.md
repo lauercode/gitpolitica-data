@@ -221,3 +221,6 @@
 - **[2026-09-22 13:26 UTC]** Esposa do cantor Rick volta ao Brasil para acompanhar buscas: 'Surgirá um testemunho'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/pop-arte/noticia/2026/09/22/esposa-do-cantor-rick-volta-ao-brasil-para-acompanhar-buscas-por-helicoptero-desaparecido.ghtml)_
 
+- **[2026-09-22 10:45 UTC]** Morre cantor Rick: saiba quem são as vítimas do helicóptero que caiu em Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/quem-sao-os-passageiros-de-helicoptero-que-desapareceu-em-sc-com-cantor-rick-e-empresario.ghtml)_
+
