@@ -179,3 +179,6 @@
 - **[2026-09-22 16:50 UTC]** Morre cantor sertanejo Rick em acidente de helicóptero que matou outras 4 pessoas; o que se sabe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-22 17:27 UTC]** Sócio do cantor Rick foi convidado para voo em helicóptero que caiu em SC, mas decidiu viajar de carro
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/socio-cantor-rick-convidado-voo-helicoptero-decidiu-viajar-carro.ghtml)_
+
