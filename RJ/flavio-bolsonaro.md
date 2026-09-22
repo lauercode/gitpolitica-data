@@ -1904,3 +1904,6 @@
 - **[2026-09-22 15:07 UTC]** Aliados de Flávio reclamam que Michelle não entrou de vez na campanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-flavio-reclamam-que-michelle-nao-entrou-de-vez-na-campanha.shtml)_
 
+- **[2026-09-22 20:50 UTC]** Bateu o desespero: ascensão de Flávio Bolsonaro assombra Moraes e seus aliados no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/renan-ramalho/bateu-o-desespero-ascensao-de-flavio-bolsonaro-assombra-moraes-e-seus-aliados-no-stf/)_
+
