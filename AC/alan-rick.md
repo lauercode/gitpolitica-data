@@ -152,3 +152,6 @@
 - **[2026-09-22 14:04 UTC]** Rick Sollo, Cristiano Araújo e Marília Mendonça morreram em acidentes; relembre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/rick-sollo-cristiano-araujo-e-marilia-mendonca-morreram-em-acidentes-relembre.shtml)_
 
+- **[2026-09-22 13:38 UTC]** Local da queda de helicóptero de Rick é de difícil acesso e exige caminhada de 3 horas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/local-da-queda-de-helicoptero-de-rick-e-de-dificil-acesso-e-exige-caminhada-de-3-horas.shtml)_
+
