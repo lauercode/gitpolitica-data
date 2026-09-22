@@ -20,3 +20,6 @@
 - **[2026-09-15 15:52 UTC]** Gabriel Souza (MDB) promete zerar fila do SUS no primeiro ano de governo em entrevista à RBS TV
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/15/gabriel-souza-mdb-entrevista-rbs-tv.ghtml)_
 
+- **[2026-09-22 01:04 UTC]** Eleições 2026 no RS: Gabriel Souza defende 'desburocratização' para 'não atrapalhar o empreendedor'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-no-rs-gabriel-souza-defende-desburocratizacao-para-nao-atrapalhar-o-empreendedor.ghtml)_
+
