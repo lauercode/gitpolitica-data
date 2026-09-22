@@ -2603,3 +2603,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-21 22:48 UTC]** Alexandre de Moraes declara-se impedido de relatar ação contra esposa
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-de-julgar-processo-que-envolve-sua-esposa-viviane-barci.ghtml)_
 
+- **[2026-09-22 12:16 UTC]** Mendonça diz que Moraes distorceu teor de relatórios da PF e pede arquivamento de investigação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/mendonca-moraes.ghtml)_
+
