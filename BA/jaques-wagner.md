@@ -50,3 +50,6 @@
 - **[2026-09-20 17:30 UTC]** Governador da BA usou helicóptero disponibilizado por ex-sócio do Master a Wagner para voo em 2023
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governador-da-bahia-usou-helicoptero-que-foi-disponibilizado-por-ex-socio-do-master-a-wagner.shtml)_
 
+- **[2026-09-22 00:34 UTC]** TRE-BA tira do ar site com simulação de Whatsapp de Vorcaro a pedido de Jaques Wagner
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tre-ba-tira-do-ar-site-com-simulacao-de-whatsapp-de-vorcaro-a-pedido-de-jaques-wagner/)_
+
