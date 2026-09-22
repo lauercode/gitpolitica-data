@@ -53,3 +53,6 @@
 - **[2026-09-21 20:33 UTC]** Cícero Lucena propõe comitê de crise para combater crime organizado na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/cicero-lucena-propoe-comite-de-crise-para-combater-crime-organizado-na-paraiba.ghtml)_
 
+- **[2026-09-22 22:23 UTC]** Quaest na PB: Lucas Ribeiro, 49%; Efraim Filho, 16%; Cícero Lucena, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-pb-governador-22-setembro.ghtml)_
+
