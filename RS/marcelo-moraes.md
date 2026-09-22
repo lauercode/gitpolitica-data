@@ -2639,3 +2639,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 15:38 UTC]** Mendonça acusa Moraes de direcionar investigação no STF
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-acusa-moraes-de-direcionar-investigacao-no-stf)_
 
+- **[2026-09-22 14:46 UTC]** Fux vai relatar ação sobre idas da esposa de Moraes ao Senado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fux-vai-relatar-acao-sobre-idas-da-esposa-de-moraes-ao-senado)_
+
