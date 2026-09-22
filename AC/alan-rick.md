@@ -86,3 +86,6 @@
 - **[2026-09-22 04:00 UTC]** Renner pede orações após desaparecimento de helicóptero com Rick
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/renner-pede-oracoes-apos-desaparecimento-de-helicoptero-com-rick.shtml)_
 
+- **[2026-09-22 07:26 UTC]** Buscas por helicóptero desaparecido com cantor Rick e empresário seguem com drone térmico em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/buscas-por-helicoptero-seguem-com-drone-termico.ghtml)_
+
