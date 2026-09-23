@@ -332,3 +332,6 @@
 - **[2026-09-23 03:00 UTC]** Queda de helicóptero que matou cantor Rick e outros 4 em SC será investigada em duas frentes; veja o que se sabe
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/queda-helicoptero-matou-cantor-rick-investigada-duas-frentes.ghtml)_
 
+- **[2026-09-23 07:00 UTC]** Conheça o hit que Rick gravaria em videoclipe com o primo antes de aeronave cair em SC
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/conheca-o-hit-que-rick-gravaria-em-videoclipe-com-o-primo-antes-de-aeronave-cair-em-sc.ghtml)_
+
