@@ -2681,3 +2681,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-23 15:05 UTC]** Mentiras de Moraes aumentam constrangimento público de aliados
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/mentiras-de-moraes-aumentam-constrangimento-publico-de-aliados/)_
 
+- **[2026-09-23 14:45 UTC]** Quem é Walfrido Warde, que fez proposta “matadora” para livrar Moraes da Magnitsky
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/walfrido-warde-proposta-matadora-livrar-moraes-magnitsky/)_
+
