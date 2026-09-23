@@ -410,3 +410,6 @@
 - **[2026-09-23 20:56 UTC]** Músicas de Rick & Renner são as mais pedidas em telemensagem no Acre: 'É o sonho de todo pai', diz empresário
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/23/musicas-de-rick-and-renner-sao-as-mais-pedidas-em-telemensagem-no-acre-e-o-sonho-de-todo-pai-diz-empresario.ghtml)_
 
+- **[2026-09-23 18:48 UTC]** Voo baixo, mau tempo ou colisão: especialistas analisam o que pode ter provocado queda de helicóptero com cantor Rick em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/especialistas-analisam-que-pode-ter-provocado-queda-helicoptero-cantor-rick-sc.ghtml)_
+
