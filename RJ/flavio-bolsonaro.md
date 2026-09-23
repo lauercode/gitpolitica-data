@@ -2021,3 +2021,6 @@
 - **[2026-09-23 14:40 UTC]** Tarcísio pede 'voto útil' em Flávio Bolsonaro, critica Lula e ironiza Janja
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/23/tarcisio-pede-voto-util-em-flavio-bolsonaro-critica-lula-e-ironiza-janja.ghtml)_
 
+- **[2026-09-23 21:49 UTC]** Flávio Bolsonaro pede ao STF apuração sobre suposta relação de Lula com Daniel Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-noticia-crime-lula-vorcaro.ghtml)_
+
