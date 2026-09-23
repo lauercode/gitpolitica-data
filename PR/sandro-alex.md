@@ -98,3 +98,6 @@
 - **[2026-09-22 14:46 UTC]** Eleições 2026 no Paraná: Sandro Alex visita Ceasa, participa de sabatinas e encontros com empresários
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-no-parana-sandro-alex-visita-ceasa-participa-de-sabatinas.ghtml)_
 
+- **[2026-09-23 14:40 UTC]** Eleições 2026 no Paraná: Sandro Alex agenda série de carreatas pelo norte do estado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-parana-sandro-alex-agenda-23-de-setembro.ghtml)_
+
