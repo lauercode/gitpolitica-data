@@ -386,3 +386,6 @@
 - **[2026-09-23 17:31 UTC]** 'Agressor de mulher não terá espaço no meu governo', diz Alan Rick em sabatina na CBN Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/23/entrevista-alan-rick-cbn-rio-branco.ghtml)_
 
+- **[2026-09-23 16:31 UTC]** Vídeos registram decolagem de avião com Rick no interior de SP antes de tragédia com helicóptero no sul
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/23/videos-registram-decolagem-de-aviao-com-rick-no-interior-de-sp-antes-de-tragedia-com-helicoptero-no-sul.ghtml)_
+
