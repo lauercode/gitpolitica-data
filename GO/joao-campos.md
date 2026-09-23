@@ -32,3 +32,6 @@
 - **[2026-09-21 17:38 UTC]** Nova pesquisa Datafolha em PE testa duelo entre Raquel Lyra e João Campos em disputa acirrada
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-em-pe-testa-duelo-entre-raquel-lyra-e-joao-campos-em-disputa-acirrada.ghtml)_
 
+- **[2026-09-23 20:25 UTC]** Quaest em PE: no 2º turno, Raquel Lyra tem 43%, e João Campos, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/23/quaest-em-pe-2-turno-23-setembro.ghtml)_
+
