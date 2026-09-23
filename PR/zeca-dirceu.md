@@ -14,3 +14,6 @@
 - **[2026-09-16 18:02 UTC]** Lula pede votos para Dirceu e chama retorno de ex-ministro cassado no mensalão de reparação histórica
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/lula-pede-votos-para-dirceu-e-chama-retorno-de-ex-ministro-cassado-no-mensalao-de-reparacao-historica/)_
 
+- **[2026-09-23 20:45 UTC]** Lula festeja Dirceu nas urnas enquanto Palocci continua banido após delatar o PT
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-festeja-dirceu-nas-urnas-enquanto-palocci-continua-banido-apos-delatar-o-pt/)_
+
