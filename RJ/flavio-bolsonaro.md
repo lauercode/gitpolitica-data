@@ -1991,3 +1991,6 @@
 - **[2026-09-23 14:16 UTC]** Flávio Bolsonaro reúne Tarcísio e outros aliados em live dias após campanha de Lula pedir suspensão de canal no TSE
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-live.ghtml)_
 
+- **[2026-09-23 15:12 UTC]** Campanha de Flávio aciona TSE por discurso de Lula na Assembleia Geral da ONU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-flavio-aciona-tse-por-discurso-de-lula-na-assembleia-geral-da-onu.shtml)_
+
