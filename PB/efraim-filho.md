@@ -50,3 +50,6 @@
 - **[2026-09-22 22:23 UTC]** Quaest na PB: Lucas Ribeiro, 49%; Efraim Filho, 16%; Cícero Lucena, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-pb-governador-22-setembro.ghtml)_
 
+- **[2026-09-23 20:57 UTC]** Efraim Filho defende incentivos ao turismo na Paraíba e construção de via costeira no Litoral Sul
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/efraim-filho-defende-incentivos-ao-turismo-na-paraiba-e-construcao-de-via-costeira-no-litoral-sul.ghtml)_
+
