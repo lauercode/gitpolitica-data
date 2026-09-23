@@ -380,3 +380,6 @@
 - **[2026-09-23 11:37 UTC]** Quem são os filhos de Rick e como foi o casamento de mais de 40 anos do cantor
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/quem-e-a-familia-de-rick.ghtml)_
 
+- **[2026-09-23 11:53 UTC]** Cenipa investiga causa da queda do helicóptero que matou cantor Rick
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/cenipa-investiga-causa-da-queda-do-helicoptero-que-matou-cantor-rick)_
+
