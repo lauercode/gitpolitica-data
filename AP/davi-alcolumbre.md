@@ -224,3 +224,6 @@
 - **[2026-09-22 23:20 UTC]** Zanin é sorteado relator de pedido para obrigar Alcolumbre a instalar CPI do Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-e-sorteado-relator-de-pedido-para-obrigar-alcolumbre-a-instalar-cpi-do-master/)_
 
+- **[2026-09-23 10:44 UTC]** Zanin nega liminar para obrigar Alcolumbre a pautar CPI sobre Moraes, Toffoli e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-lega-liminar-para-obrigar-alcolumbre-a-pautar-cpi-sobre-moraes-toffoli-e-vorcaro/)_
+
