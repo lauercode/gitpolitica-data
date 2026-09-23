@@ -230,3 +230,6 @@
 - **[2026-09-23 15:00 UTC]** Fux manda Alcolumbre se manifestar sobre idas de esposa de Moraes e Vorcaro a gabinetes do Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fux-manda-alcolumbre-se-manifestar-sobre-acessos-de-esposa-de-moraes-e-vorcaro-a-gabinetes-do-senado.shtml)_
 
+- **[2026-09-23 15:00 UTC]** Fux manda Alcolumbre se manifestar sobre idas de esposa de Moraes, Vorcaro e Lulinha ao Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fux-manda-alcolumbre-se-manifestar-sobre-acessos-de-esposa-de-moraes-e-vorcaro-a-gabinetes-do-senado.shtml)_
+
