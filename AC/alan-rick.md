@@ -398,3 +398,6 @@
 - **[2026-09-23 12:06 UTC]** Corpo de piloto de helicóptero que caiu com cantor Rick é velado em SP
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/23/corpo-de-piloto-de-helicoptero-que-caiu-com-cantor-rick-sera-velado-em-sp.ghtml)_
 
+- **[2026-09-23 14:31 UTC]** Nascimento, infância e cargo no governo: as raízes de Rick com o Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/nascimento-infancia-e-cargo-no-governo-as-raizes-de-rick-com-o-tocantins.ghtml)_
+
