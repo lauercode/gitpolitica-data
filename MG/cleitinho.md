@@ -71,3 +71,6 @@
 - **[2026-09-21 20:04 UTC]** Ausentes de debate, Cleitinho, Patrus e Kalil são atacados por Mateus Simões e Gabriel Azevedo, em MG
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/ausentes-de-debate-cleitinho-patrus-e-kalil-sao-atacados-por-mateus-simoes-e-gabriel-azevedo-em-mg.ghtml)_
 
+- **[2026-09-23 11:48 UTC]** Tarcísio pede votos para Cleitinho em vídeo e reforça aliança em MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-pede-votos-para-cleitinho-em-video-e-reforca-alianca-em-mg.shtml)_
+
