@@ -2012,3 +2012,6 @@
 - **[2026-09-23 15:28 UTC]** Record cancela debate presidencial após desistência de Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/record-cancela-debate-presidencial-apos-desistencia-de-lula-e-flavio/)_
 
+- **[2026-09-23 16:53 UTC]** Caiado critica ausência de Lula e Flávio em debates e diz que ambos vão 'afrouxar' regras para soltar Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/caiado-critica-ausencia-de-lula-e-flavio-em-debates-e-diz-que-ambos-vao-afrouxar-regras-para-soltar-vorcaro.ghtml)_
+
