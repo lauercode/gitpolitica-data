@@ -350,3 +350,6 @@
 - **[2026-09-23 10:25 UTC]** Só peço que siga cuidando de mim, diz mulher de Rick ao lamentar morte do cantor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/so-peco-que-siga-cuidando-de-mim-diz-mulher-de-rick-ao-lamentar-morte-do-cantor.shtml)_
 
+- **[2026-09-23 09:07 UTC]** Corpo do cantor Rick será velado e enterrado em Sorocaba nesta quinta-feira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/corpo-do-cantor-rick-sera-velado-e-enterrado-em-sorocaba-nesta-quinta-feira.shtml)_
+
