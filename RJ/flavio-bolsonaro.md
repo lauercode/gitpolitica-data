@@ -2030,3 +2030,6 @@
 - **[2026-09-23 20:17 UTC]** Quaest no DF: Flávio, 33%; Lula, 32%; Caiado, 8%; Cury, 7%; Renan, 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-presidente-23-setembro.ghtml)_
 
+- **[2026-09-23 20:05 UTC]** Quaest em SP: Flávio Bolsonaro, 34%; Lula, 31%; Cury, 7%; Caiado, 4%; Renan; 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/quaest-sp-presidente-23-setembro.ghtml)_
+
