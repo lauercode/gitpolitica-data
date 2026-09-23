@@ -1988,3 +1988,6 @@
 - **[2026-09-23 14:20 UTC]** Flávio Bolsonaro espera sair na frente no primeiro turno para atrair apoio do Centrão
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/23/flavio-bolsonaro-espera-sair-na-frente-no-primeiro-turno-para-atrair-apoio-do-centrao.ghtml)_
 
+- **[2026-09-23 14:16 UTC]** Flávio Bolsonaro reúne Tarcísio e outros aliados em live dias após campanha de Lula pedir suspensão de canal no TSE
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-live.ghtml)_
+
