@@ -338,3 +338,6 @@
 - **[2026-09-23 08:00 UTC]** Queda de helicóptero em SC mata cantor Rick e empresário
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/23/queda-de-helicoptero-em-sc-mata-cantor-rick-e-empresario.ghtml)_
 
+- **[2026-09-23 09:11 UTC]** Acompanhe a cobertura sobre a morte do cantor Rick e outras 4 pessoas em queda de helicóptero em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
+
