@@ -2669,3 +2669,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-22 23:00 UTC]** Kassio enfrenta pressão no STF, e grupo pró-Moraes quer mantê-lo fora de julgamentos sobre Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/kassio-enfrenta-pressao-no-stf-e-grupo-pro-moraes-quer-mante-lo-fora-de-julgamentos-sobre-vorcaro.shtml)_
 
+- **[2026-09-23 08:00 UTC]** STF: Mendonça refuta acusações e pede investigação contra Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/23/stf-mendonca-refuta-acusacoes-e-pede-investigacao-contra-moraes.ghtml)_
+
