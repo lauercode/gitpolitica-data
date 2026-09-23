@@ -2684,3 +2684,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-23 14:45 UTC]** Quem é Walfrido Warde, que fez proposta “matadora” para livrar Moraes da Magnitsky
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/walfrido-warde-proposta-matadora-livrar-moraes-magnitsky/)_
 
+- **[2026-09-23 18:41 UTC]** Fux dá 10 dias para Senado se manifestar em ação que pede informações sobre visitas de esposa de Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/23/fux-da-10-dias-para-senado-se-manifestar-em-acao-que-pede-informacoes-sobre-visitas-de-esposa-de-moraes-e-vorcaro.ghtml)_
+
