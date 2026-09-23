@@ -359,3 +359,6 @@
 - **[2026-09-23 13:24 UTC]** Como versão em pagode de 'Ela É Demais', sucesso de Rick & Renner, ganhou o Brasil e apresentou hit para novas gerações
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/23/como-versao-em-pagode-de-ela-e-demais-sucesso-de-rick-and-renner-ganhou-o-brasil-e-apresentou-hit-para-novas-geracoes.ghtml)_
 
+- **[2026-09-23 12:06 UTC]** Corpo de piloto de helicóptero que caiu com cantor Rick será velado em SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/23/corpo-de-piloto-de-helicoptero-que-caiu-com-cantor-rick-sera-velado-em-sp.ghtml)_
+
