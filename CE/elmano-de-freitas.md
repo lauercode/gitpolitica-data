@@ -29,3 +29,6 @@
 - **[2026-09-23 13:08 UTC]** Quaest: Ciro Gomes tem 43% e Elmano de Freitas, 41%, no Ceará
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-ciro-gomes-tem-43-e-elmano-de-freitas-41-no-ceara.shtml)_
 
+- **[2026-09-23 16:24 UTC]** Quaest: Ciro e Elmano de Freitas estão em empate técnico em disputa pelo governo do Ceará
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quaest-ciro-e-elmano-de-freitas-esto-em-empate-tcnico-em-disputa-pelo-governo-do-cear.ghtml)_
+
