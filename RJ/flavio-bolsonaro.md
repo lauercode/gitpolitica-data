@@ -2009,3 +2009,6 @@
 - **[2026-09-23 16:57 UTC]** Flávio defende bets, promete fim do “Tigrinho” e culpa Lula por expansão dos jogos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-defende-bets-promete-fim-do-tigrinho-e-culpa-lula-por-expansao-dos-jogos/)_
 
+- **[2026-09-23 15:28 UTC]** Record cancela debate presidencial após desistência de Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/record-cancela-debate-presidencial-apos-desistencia-de-lula-e-flavio/)_
+
