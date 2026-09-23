@@ -1940,3 +1940,6 @@
 - **[2026-09-23 03:00 UTC]** A 11 dias da eleição, Lula aposta em medidas contra bets e 'Dark Horse'; Flávio mira em voto útil e crise no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/23/a-11-dias-da-eleicao-lula-aposta-em-medidas-contra-bets-e-dark-horse-flavio-mira-em-voto-util-e-crise-no-stf.ghtml)_
 
+- **[2026-09-22 22:21 UTC]** Influenciadores trumpistas divulgam propaganda paga a favor de Flávio Bolsonaro e de empresa de apostas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/influenciadores-trumpistas-divulgam-propaganda-paga-a-favor-de-flavio-bolsonaro-e-de-empresa-de-apostas.shtml)_
+
