@@ -56,3 +56,6 @@
 - **[2026-09-11 11:26 UTC]** Internado em SP, Ronaldo Caiado recebe diagnóstico de pneumonia
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/internado-em-sp-ronaldo-caiado-recebe-diagnostico-de-pneumonia)_
 
+- **[2026-09-23 15:54 UTC]** Quaest no Ceará: Lula, 55%; Flávio Bolsonaro, 23%; Augusto Cury, 5%; Renan Santos, 3%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-presidente-23-setembro.ghtml)_
+
