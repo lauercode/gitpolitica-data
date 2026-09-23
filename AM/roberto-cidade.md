@@ -218,3 +218,6 @@
 - **[2026-09-22 22:12 UTC]** Funcionários da Aadesam foram procurados por supostos integrantes da campanha de Roberto Cidade, diz MPE
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/22/funcionarios-da-aadesam-foram-procurados-por-supostos-integrantes-da-campanha-a-reeleicao-de-roberto-cidade-diz-mpe.ghtml)_
 
+- **[2026-09-23 00:55 UTC]** Eleições 2026: Roberto Cidade promete dobrar auxílio estadual para mães e pais no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-roberto-cidade-promete-dobrar-auxilio-estadual-para-maes-e-pais-no-amazonas.ghtml)_
+
