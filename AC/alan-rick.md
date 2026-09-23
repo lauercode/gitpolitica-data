@@ -347,3 +347,6 @@
 - **[2026-09-23 10:48 UTC]** Corpo de empresário que estava no helicóptero com Rick será velado em Belo Horizonte
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corpo-de-empresario-que-estava-no-helicoptero-com-rick-sera-velado-em-belo-horizonte.shtml)_
 
+- **[2026-09-23 10:25 UTC]** Só peço que siga cuidando de mim, diz mulher de Rick ao lamentar morte do cantor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/so-peco-que-siga-cuidando-de-mim-diz-mulher-de-rick-ao-lamentar-morte-do-cantor.shtml)_
+
