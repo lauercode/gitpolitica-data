@@ -353,3 +353,6 @@
 - **[2026-09-23 09:07 UTC]** Corpo do cantor Rick será velado e enterrado em Sorocaba nesta quinta-feira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/corpo-do-cantor-rick-sera-velado-e-enterrado-em-sorocaba-nesta-quinta-feira.shtml)_
 
+- **[2026-09-22 22:14 UTC]** Como Rick, da dupla Rick & Renner, ajudou a renovar o sertanejo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss)_
+
