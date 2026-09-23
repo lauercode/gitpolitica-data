@@ -1937,3 +1937,6 @@
 - **[2026-09-22 22:21 UTC]** TRE-CE impõe perda de 76 minutos de propaganda de Elmano por associar Ciro a Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tre-ce-impe-perda-de-76-minutos-de-propaganda-de-elmano-por-associar-ciro-a-bolsonaro.ghtml)_
 
+- **[2026-09-23 03:00 UTC]** A 11 dias da eleição, Lula aposta em medidas contra bets e 'Dark Horse'; Flávio mira em voto útil e crise no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/23/a-11-dias-da-eleicao-lula-aposta-em-medidas-contra-bets-e-dark-horse-flavio-mira-em-voto-util-e-crise-no-stf.ghtml)_
+
