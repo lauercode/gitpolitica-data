@@ -311,3 +311,6 @@
 - **[2026-09-23 14:27 UTC]** Renan Santos acusa Flávio Bolsonaro de receber apoio de perfis estrangeiros no X
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/missao-acusa-flavio-bolsonaro-de-receber-apoio-de-perfis-estrangeiros-no-x.shtml)_
 
+- **[2026-09-23 18:05 UTC]** Se Lula for reeleito, não haverá enfrentamento ao crime organizado, diz Renan Santos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/se-lula-for-reeleito-nao-havera-enfrentamento-ao-crime-organizado-diz-renan-santos.ghtml)_
+
