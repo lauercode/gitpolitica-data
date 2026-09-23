@@ -131,3 +131,6 @@
 - **[2026-09-21 12:46 UTC]** Mulher é morta a tiros dentro de bar no bairro da Terra Firme, em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/21/mulher-e-morta-a-tiros-dentro-de-bar-no-bairro-da-terra-firme-em-belem.ghtml)_
 
+- **[2026-09-23 06:00 UTC]** Terra indígena no PA tem 50 dias seguidos de queimadas; MPF cobra órgãos com urgência
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/23/terra-indigena-no-pa-tem-50-dias-seguidos-de-queimadas-mpf-cobra-orgaos-com-urgencia.ghtml)_
+
