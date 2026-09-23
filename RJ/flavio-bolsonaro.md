@@ -2006,3 +2006,6 @@
 - **[2026-09-23 17:35 UTC]** Lula leva vítimas de bets à propaganda eleitoral e Flávio chama petista de “pai do Tigrinho”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-leva-vitimas-de-bets-a-propaganda-eleitoral-e-flavio-chama-petista-de-pai-do-tigrinho/)_
 
+- **[2026-09-23 16:57 UTC]** Flávio defende bets, promete fim do “Tigrinho” e culpa Lula por expansão dos jogos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-defende-bets-promete-fim-do-tigrinho-e-culpa-lula-por-expansao-dos-jogos/)_
+
