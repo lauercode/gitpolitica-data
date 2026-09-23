@@ -227,3 +227,6 @@
 - **[2026-09-23 10:44 UTC]** Zanin nega liminar para obrigar Alcolumbre a pautar CPI sobre Moraes, Toffoli e Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-lega-liminar-para-obrigar-alcolumbre-a-pautar-cpi-sobre-moraes-toffoli-e-vorcaro/)_
 
+- **[2026-09-23 15:00 UTC]** Fux manda Alcolumbre se manifestar sobre idas de esposa de Moraes e Vorcaro a gabinetes do Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fux-manda-alcolumbre-se-manifestar-sobre-acessos-de-esposa-de-moraes-e-vorcaro-a-gabinetes-do-senado.shtml)_
+
