@@ -2048,3 +2048,6 @@
 - **[2026-09-23 19:13 UTC]** Missão aciona no TSE contra Flávio por suspeita de interferência estrangeira em campanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/missao-aciona-no-tse-contra-flavio-por-suspeita-de-interferencia-estrangeira-em-campanha.ghtml)_
 
+- **[2026-09-23 19:05 UTC]** Flávio rebate Lula sobre bets e chama PT de ‘Partido do Tigrinho’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flvio-rebate-lula-sobre-bets-e-chama-pt-de-partido-do-tigrinho.ghtml)_
+
