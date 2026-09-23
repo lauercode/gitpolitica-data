@@ -38,3 +38,6 @@
 - **[2026-09-23 20:05 UTC]** Quaest em Pernambuco: Raquel Lyra, 41%; João Campos, 39%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/23/quaest-em-pe-1-turno-23-setembro.ghtml)_
 
+- **[2026-09-23 17:38 UTC]** Quaest: Raquel Lyra tem 41%, e João Campos, 39%, em Pernambuco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-raquel-lyra-tem-41-e-joao-campos-39-em-pernambuco.shtml)_
+
