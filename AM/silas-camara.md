@@ -1043,3 +1043,6 @@ direitos
 - **[2026-09-23 11:49 UTC]** Jornalista é agredido por pastor dentro da Câmara de Vereadores de Palmas; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/jornalista-e-agredido-dentro-da-camara-de-vereadores-de-palmas.ghtml)_
 
+- **[2026-09-23 16:21 UTC]** Federação União-PP tende a apoiar Flávio no segundo turno e projeta maior bancada da Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/federao-unio-pp-tende-a-apoiar-flvio-no-segundo-turno-e-projeta-maior-bancada-da-cmara.ghtml)_
+
