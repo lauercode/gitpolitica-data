@@ -26,3 +26,6 @@
 - **[2026-09-17 20:32 UTC]** Álvaro Dias promete construir novo hospital regional em Mossoró
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/17/alvaro-dias-promete-construir-novo-hospital-regional-em-mossoro.ghtml)_
 
+- **[2026-09-23 19:00 UTC]** Álvaro Dias defende medidas para atrair empresas e investimentos para o RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/23/alvaro-dias-defende-medidas-para-atrair-empresas-e-investimentos-para-o-rn.ghtml)_
+
