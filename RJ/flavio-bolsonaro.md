@@ -2039,3 +2039,6 @@
 - **[2026-09-23 20:34 UTC]** Quaest na Paraíba: 59% têm mais medo da volta da família Bolsonaro ao governo; 29% da reeleição de Lula
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/quaest-paraiba-medo-volta-familia-bolsonaro-reeleicao-lula.ghtml)_
 
+- **[2026-09-23 21:57 UTC]** Flávio Bolsonaro apresenta ao STF notícia-crime contra Lula por mensagens de advogado a Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/23/flavio-bolsonaro-apresenta-ao-stf-noticia-crime-contra-lula-por-mensagens-de-advogado-a-vorcaro.ghtml)_
+
