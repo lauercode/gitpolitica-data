@@ -329,3 +329,6 @@
 - **[2026-09-23 03:00 UTC]** O que se sabe sobre acidente de helicóptero que matou o cantor Rick e outras 4 pessoas em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/o-que-se-sabe-sobre-acidente-de-helicoptero-que-matou-o-cantor-rick-e-outras-4-pessoas-em-sc.ghtml)_
 
+- **[2026-09-23 03:00 UTC]** Queda de helicóptero que matou cantor Rick e outros 4 em SC será investigada em duas frentes; veja o que se sabe
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/queda-helicoptero-matou-cantor-rick-investigada-duas-frentes.ghtml)_
+
