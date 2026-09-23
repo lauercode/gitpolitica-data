@@ -56,3 +56,6 @@
 - **[2026-09-22 12:56 UTC]** Campanha de Jaques Wagner vai à Justiça e derruba site que exibia mensagens de Daniel Vorcaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr3wj2jljej0o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-23 18:16 UTC]** Simulador do WhatsApp de Vorcaro volta ao ar após coligação de Jaques Wagner desistir da ação
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/simulador-do-whatsapp-de-vorcaro-volta-ao-ar-apos-coligacao-de-jaques-wagner-desistir-de-acao/)_
+
