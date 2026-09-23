@@ -1976,3 +1976,6 @@
 - **[2026-09-23 09:46 UTC]** Tarcísio grava com Flávio e diz querer ver Bolsonaro subir a rampa do Planalto com o filho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-grava-com-flavio-e-diz-querer-ver-bolsonaro-subir-a-rampa-do-planalto-com-o-filho.shtml)_
 
+- **[2026-09-23 13:26 UTC]** Flávio Bolsonaro aciona TSE para impedir Lula de usar discurso na ONU em campanha eleitoral
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flavio-bolsonaro-vai-ao-tse-para-impedir-lula-de-usar-discurso-na-onu-em-campanha-eleitoral.ghtml)_
+
