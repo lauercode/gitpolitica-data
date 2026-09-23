@@ -1943,3 +1943,6 @@
 - **[2026-09-22 22:21 UTC]** Influenciadores trumpistas divulgam propaganda paga a favor de Flávio Bolsonaro e de empresa de apostas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/influenciadores-trumpistas-divulgam-propaganda-paga-a-favor-de-flavio-bolsonaro-e-de-empresa-de-apostas.shtml)_
 
+- **[2026-09-22 22:00 UTC]** O Bolsonaro mais perigoso pode ser o mais moderado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-bolsonaro-mais-perigoso-pode-ser-o-mais-moderado.shtml)_
+
