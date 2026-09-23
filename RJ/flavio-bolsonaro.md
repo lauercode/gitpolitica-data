@@ -1958,3 +1958,6 @@
 - **[2026-09-23 04:32 UTC]** Flávio Dino concentra investigações e pode ampliar poder sobre o Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-concentra-investigacoes-e-pode-ampliar-poder-sobre-o-congresso/)_
 
+- **[2026-09-23 04:50 UTC]** Apelo do voto útil em Flávio esbarra na rejeição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/09/apelo-do-voto-util-em-flavio-esbarra-na-rejeicao.ghtml)_
+
