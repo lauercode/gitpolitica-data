@@ -341,3 +341,6 @@
 - **[2026-09-23 09:11 UTC]** Acompanhe a cobertura sobre a morte do cantor Rick e outras 4 pessoas em queda de helicóptero em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
 
+- **[2026-09-23 09:00 UTC]** Veja fotos raras de Rick com familiares e amigos no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/veja-fotos-raras-de-rick-com-familiares-e-amigos-no-interior-do-tocantins.ghtml)_
+
