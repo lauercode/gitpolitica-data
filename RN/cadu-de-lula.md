@@ -68,3 +68,6 @@
 - **[2026-09-22 21:54 UTC]** Cadu de Lula defende ampliação da Patrulha Maria da Penha no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/22/cadu-de-lula-defende-ampliacao-da-patrulha-maria-da-penha-no-rn.ghtml)_
 
+- **[2026-09-23 19:01 UTC]** Cadu de Lula apresenta propostas para fortalecer turismo durante sabatina com setor hoteleiro
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/23/cadu-de-lula-apresenta-propostas-para-fortalecer-turismo-durante-sabatina-com-setor-hoteleiro.ghtml)_
+
