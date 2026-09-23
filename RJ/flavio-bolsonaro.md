@@ -1979,3 +1979,6 @@
 - **[2026-09-23 13:26 UTC]** Flávio Bolsonaro aciona TSE para impedir Lula de usar discurso na ONU em campanha eleitoral
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flavio-bolsonaro-vai-ao-tse-para-impedir-lula-de-usar-discurso-na-onu-em-campanha-eleitoral.ghtml)_
 
+- **[2026-09-23 09:00 UTC]** Quais partidos apoiam Lula e quais apoiam Flávio Bolsonaro?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quais-partidos-apoiam-lula-e-flavio-flavio-bolsonaro.ghtml)_
+
