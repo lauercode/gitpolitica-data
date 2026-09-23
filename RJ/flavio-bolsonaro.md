@@ -2024,3 +2024,6 @@
 - **[2026-09-23 21:49 UTC]** Flávio Bolsonaro pede ao STF apuração sobre suposta relação de Lula com Daniel Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-noticia-crime-lula-vorcaro.ghtml)_
 
+- **[2026-09-23 20:23 UTC]** Quaest em PE: Lula, 54%; Flávio, 21%; Cury, 5%; Renan, 2%; Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/23/quaest-pe-presidente-23-de-setembro.ghtml)_
+
