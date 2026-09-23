@@ -1982,3 +1982,6 @@
 - **[2026-09-23 09:00 UTC]** Quais partidos apoiam Lula e quais apoiam Flávio Bolsonaro?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quais-partidos-apoiam-lula-e-flavio-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-23 15:54 UTC]** Quaest no Ceará: Lula, 55%; Flávio Bolsonaro, 23%; Augusto Cury, 5%; Renan Santos, 3%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-presidente-23-setembro.ghtml)_
+
