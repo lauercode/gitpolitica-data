@@ -1040,3 +1040,6 @@ direitos
 - **[2026-09-22 10:45 UTC]** Vereador do ES é condenado a indenizar comerciante após chamá-lo de 'corno' durante reunião na Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/noticia/2026/09/22/vereador-e-condenado-a-indenizar-comerciante-apos-chama-lo-de-corno-durante-reuniao-no-es.ghtml)_
 
+- **[2026-09-23 11:49 UTC]** Jornalista é agredido por pastor dentro da Câmara de Vereadores de Palmas; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/jornalista-e-agredido-dentro-da-camara-de-vereadores-de-palmas.ghtml)_
+
