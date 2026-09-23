@@ -26,3 +26,6 @@
 - **[2026-09-21 20:04 UTC]** Ausentes de debate, Cleitinho, Patrus e Kalil são atacados por Mateus Simões e Gabriel Azevedo, em MG
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/ausentes-de-debate-cleitinho-patrus-e-kalil-sao-atacados-por-mateus-simoes-e-gabriel-azevedo-em-mg.ghtml)_
 
+- **[2026-09-23 13:31 UTC]** Candidato à reeleição em Minas Gerais, Mateus Simões participa de sabatina do Valor, O Globo e CBN; acompanhe
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/candidato-a-reeleicao-em-minas-gerais-mateus-simoes-participa-de-sabatina-do-valor-o-globo-e-cbn-acompanhe.ghtml)_
+
