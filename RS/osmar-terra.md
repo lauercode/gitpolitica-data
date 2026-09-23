@@ -137,3 +137,6 @@
 - **[2026-09-23 13:10 UTC]** Alexandre Pires é alvo da PF em operação que investiga venda ilegal de cassiterita da Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/23/alexandre-pires-pf-operacao-terra-yanomami.ghtml)_
 
+- **[2026-09-23 16:51 UTC]** Entenda o que liga Alexandre Pires à investigação da PF sobre venda ilegal de cassiterita da Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/23/entenda-o-que-liga-alexandre-pires-a-investigacao-da-pf-sobre-venda-ilegal-de-cassiterita-da-terra-yanomami.ghtml)_
+
