@@ -17,3 +17,6 @@
 - **[2026-09-18 16:47 UTC]** Datafolha: Ciro Gomes tem 47% e Elmano de Freitas, 40%, no Ceará
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-ciro-gomes-tem-47-e-elmano-de-freitas-40-no-ceara.shtml)_
 
+- **[2026-09-23 00:52 UTC]** TSE suspende decisão que tiraria 76 minutos da propaganda de Elmano de Freitas (PT) no Ceará
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tse-suspende-decisao-que-tiraria-76-minutos-da-propaganda-de-elmano-de-freitas-pt-no-ceara.ghtml)_
+
