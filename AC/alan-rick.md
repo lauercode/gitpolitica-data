@@ -395,3 +395,6 @@
 - **[2026-09-23 14:27 UTC]** Morte do cantor Rick: localização enviada por piloto a sobrinho ajudou a encontrar local de destroços de helicóptero
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/localizacao-enviada-piloto-a-sobrinho-guiou-local-de-destrocos-queda-helicoptero.ghtml)_
 
+- **[2026-09-23 12:06 UTC]** Corpo de piloto de helicóptero que caiu com cantor Rick é velado em SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/23/corpo-de-piloto-de-helicoptero-que-caiu-com-cantor-rick-sera-velado-em-sp.ghtml)_
+
