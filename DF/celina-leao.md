@@ -32,3 +32,6 @@
 - **[2026-09-23 20:14 UTC]** Quaest no DF: 47% aprovam e 39% desaprovam governo de Celina Leão (PP)
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-avaliacao-governo-23-setembro.ghtml)_
 
+- **[2026-09-23 18:13 UTC]** Quaest: Celina Leão lidera ao Governo do DF com 33%; Grass tem 21% e Arruda, 17%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-celina-leao-lidera-ao-governo-do-df-com-33-grass-tem-21-e-arruda-17.shtml)_
+
