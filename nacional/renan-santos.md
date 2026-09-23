@@ -302,3 +302,6 @@
 - **[2026-09-22 01:34 UTC]** Renan Santos diz que não apoiará Flávio Bolsonaro em eventual segundo turno: ‘Bandido’
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/21/renan-santos-diz-que-no-apoiar-flvio-bolsonaro-em-eventual-segundo-turno-bandido.ghtml)_
 
+- **[2026-09-23 11:42 UTC]** Renan Santos vê risco de interferência dos EUA nas eleições brasileiras
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-ve-risco-de-interferencia-dos-eua-nas-eleicoes-brasileiras/)_
+
