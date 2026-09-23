@@ -20,3 +20,6 @@
 - **[2026-09-23 00:52 UTC]** TSE suspende decisão que tiraria 76 minutos da propaganda de Elmano de Freitas (PT) no Ceará
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tse-suspende-decisao-que-tiraria-76-minutos-da-propaganda-de-elmano-de-freitas-pt-no-ceara.ghtml)_
 
+- **[2026-09-23 15:53 UTC]** Quaest no Ceará: 56% aprovam e 36% desaprovam governo de Elmano de Freitas
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-avaliacao-governo-22-setembro.ghtml)_
+
