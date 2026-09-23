@@ -2036,3 +2036,6 @@
 - **[2026-09-23 18:30 UTC]** Aliado de Nunes diz que Flávio foi desrespeitoso ao dizer que prefeito pode ser atendido em hospital veterinário
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliado-de-nunes-diz-que-flavio-foi-desrespeitoso-ao-dizer-que-prefeito-pode-ser-atendido-em-hospital-veterinario.shtml)_
 
+- **[2026-09-23 20:34 UTC]** Quaest na Paraíba: 59% têm mais medo da volta da família Bolsonaro ao governo; 29% da reeleição de Lula
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/quaest-paraiba-medo-volta-familia-bolsonaro-reeleicao-lula.ghtml)_
+
