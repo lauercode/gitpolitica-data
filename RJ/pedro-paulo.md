@@ -431,3 +431,6 @@
 - **[2026-09-22 20:50 UTC]** Solví fecha acordo de R$ 115 milhões para adquirir Amplitec e Essencial no interior de São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/22/solvi-fecha-acordo-de-r-115-milhoes-para-adquirir-amplitec-e-essencial-no-interior-de-sao-paulo-1.ghtml)_
 
+- **[2026-09-23 10:54 UTC]** Paulo Betti vende imóvel com projeto de Niemeyer que pertenceu a Darcy Ribeiro por R$ 485 mil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/paulo-betti-vende-imovel-com-projeto-de-niemeyer-que-pertenceu-a-darcy-ribeiro-por-r-485-mil.shtml)_
+
