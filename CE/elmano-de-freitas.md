@@ -23,3 +23,6 @@
 - **[2026-09-23 15:53 UTC]** Quaest no Ceará: 56% aprovam e 36% desaprovam governo de Elmano de Freitas
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-avaliacao-governo-22-setembro.ghtml)_
 
+- **[2026-09-23 15:42 UTC]** Quaest no Ceará: Ciro Gomes, 43%; Elmano de Freitas, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-governador-23-setembro.ghtml)_
+
