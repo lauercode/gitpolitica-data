@@ -26,3 +26,6 @@
 - **[2026-09-17 16:09 UTC]** Gal Leite (UP) propõe reestatização de serviços e contratação local para habitação no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/17/gal-leite-up-propoe-reestatizacao-de-servicos-e-contratacao-local-para-habitacao-no-para.ghtml)_
 
+- **[2026-09-23 02:34 UTC]** Gal Leite propõe que políticos utilizem o SUS e defende fim das 'OSs' na saúde pública do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/22/gal-leite-propoe-que-politicos-utilizem-o-sus-e-defende-fim-das-oss-na-saude-publica-do-para.ghtml)_
+
