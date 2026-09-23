@@ -2687,3 +2687,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-23 18:41 UTC]** Fux dá 10 dias para Senado se manifestar em ação que pede informações sobre visitas de esposa de Moraes e Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/23/fux-da-10-dias-para-senado-se-manifestar-em-acao-que-pede-informacoes-sobre-visitas-de-esposa-de-moraes-e-vorcaro.ghtml)_
 
+- **[2026-09-23 19:00 UTC]** Novo pede à USP abertura de processo disciplinar contra Moraes por envolvimento com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/novo-pede-a-usp-abertura-de-processo-disciplinar-contra-moraes-por-envolvimento-com-vorcaro.shtml)_
+
