@@ -365,3 +365,6 @@
 - **[2026-09-23 10:30 UTC]** Corpo do cantor Rick vai ser velado e enterrado em Sorocaba, SP
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/23/corpo-do-cantor-rick-vai-ser-enterrado-em-sorocaba.ghtml)_
 
+- **[2026-09-23 09:36 UTC]** Corpos do cantor Rick e de outras 4 vítimas de queda de helicóptero são liberados após papiloscopia em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/corpos-cantor-rick-vitimas-queda-helicoptero-liberados-iml-sc.ghtml)_
+
