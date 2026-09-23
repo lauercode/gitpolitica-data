@@ -1961,3 +1961,6 @@
 - **[2026-09-23 04:50 UTC]** Apelo do voto útil em Flávio esbarra na rejeição
   _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/09/apelo-do-voto-util-em-flavio-esbarra-na-rejeicao.ghtml)_
 
+- **[2026-09-23 09:00 UTC]** Quais partidos apoiam Lula e Flávio Flávio Bolsonaro?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quais-partidos-apoiam-lula-e-flavio-flavio-bolsonaro.ghtml)_
+
