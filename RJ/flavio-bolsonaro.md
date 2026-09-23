@@ -2018,3 +2018,6 @@
 - **[2026-09-23 16:21 UTC]** Federação União-PP tende a apoiar Flávio no segundo turno e projeta maior bancada da Câmara
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/federao-unio-pp-tende-a-apoiar-flvio-no-segundo-turno-e-projeta-maior-bancada-da-cmara.ghtml)_
 
+- **[2026-09-23 14:40 UTC]** Tarcísio pede 'voto útil' em Flávio Bolsonaro, critica Lula e ironiza Janja
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/23/tarcisio-pede-voto-util-em-flavio-bolsonaro-critica-lula-e-ironiza-janja.ghtml)_
+
