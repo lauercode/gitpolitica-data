@@ -368,3 +368,6 @@
 - **[2026-09-23 09:36 UTC]** Corpos do cantor Rick e de outras 4 vítimas de queda de helicóptero são liberados após papiloscopia em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/corpos-cantor-rick-vitimas-queda-helicoptero-liberados-iml-sc.ghtml)_
 
+- **[2026-09-22 07:26 UTC]** Buscas por helicóptero que desapareceu em SC com cantor Rick usaram drone térmico
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/buscas-por-helicoptero-seguem-com-drone-termico.ghtml)_
+
