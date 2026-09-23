@@ -362,3 +362,6 @@
 - **[2026-09-23 12:06 UTC]** Corpo de piloto de helicóptero que caiu com cantor Rick será velado em SP
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/23/corpo-de-piloto-de-helicoptero-que-caiu-com-cantor-rick-sera-velado-em-sp.ghtml)_
 
+- **[2026-09-23 10:30 UTC]** Corpo do cantor Rick vai ser velado e enterrado em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/23/corpo-do-cantor-rick-vai-ser-enterrado-em-sorocaba.ghtml)_
+
