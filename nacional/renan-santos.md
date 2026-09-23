@@ -305,3 +305,6 @@
 - **[2026-09-23 11:42 UTC]** Renan Santos vê risco de interferência dos EUA nas eleições brasileiras
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-ve-risco-de-interferencia-dos-eua-nas-eleicoes-brasileiras/)_
 
+- **[2026-09-23 15:54 UTC]** Quaest no Ceará: Lula, 55%; Flávio Bolsonaro, 23%; Augusto Cury, 5%; Renan Santos, 3%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-presidente-23-setembro.ghtml)_
+
