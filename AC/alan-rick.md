@@ -374,3 +374,6 @@
 - **[2026-09-23 14:08 UTC]** João Lucas, do hit 'Eu Quero Tchu, Eu Quero Tcha', relembra aproximação com Rick
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/joao-lucas-do-hit-eu-quero-tchu-eu-quero-tcha-relembra-aproximacao-com-rick.ghtml)_
 
+- **[2026-09-23 12:49 UTC]** Quem era Rick antes da fama? Cantor nasceu na 'roça' e aprendeu a cantar na Folia de Reis
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/quem-era-rick-antes-da-fama-cantor-nasceu-na-roca-e-aprendeu-a-cantar-na-folia-de-reis.ghtml)_
+
