@@ -356,3 +356,6 @@
 - **[2026-09-22 22:14 UTC]** Como Rick, da dupla Rick & Renner, ajudou a renovar o sertanejo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-23 13:24 UTC]** Como versão em pagode de 'Ela É Demais', sucesso de Rick & Renner, ganhou o Brasil e apresentou hit para novas gerações
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/23/como-versao-em-pagode-de-ela-e-demais-sucesso-de-rick-and-renner-ganhou-o-brasil-e-apresentou-hit-para-novas-geracoes.ghtml)_
+
