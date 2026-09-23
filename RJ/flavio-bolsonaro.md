@@ -1994,3 +1994,6 @@
 - **[2026-09-23 15:12 UTC]** Campanha de Flávio aciona TSE por discurso de Lula na Assembleia Geral da ONU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-flavio-aciona-tse-por-discurso-de-lula-na-assembleia-geral-da-onu.shtml)_
 
+- **[2026-09-23 14:27 UTC]** Renan Santos acusa Flávio Bolsonaro de receber apoio de perfis estrangeiros no X
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/missao-acusa-flavio-bolsonaro-de-receber-apoio-de-perfis-estrangeiros-no-x.shtml)_
+
