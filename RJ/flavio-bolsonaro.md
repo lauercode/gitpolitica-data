@@ -1949,3 +1949,6 @@
 - **[2026-09-22 19:34 UTC]** Culpa pelas bets tem as digitais de Lula e de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/culpa-pelas-bets-tem-as-digitais-de-lula-e-de-bolsonaro.shtml)_
 
+- **[2026-09-23 01:17 UTC]** Na reta final para o 1º turno, Flávio explora endividamento e Lula, o combate às bets
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/na-reta-final-para-o-1o-turno-flavio-explora-endividamento-e-lula-o-combate-as-bets.ghtml)_
+
