@@ -389,3 +389,6 @@
 - **[2026-09-23 16:31 UTC]** Vídeos registram decolagem de avião com Rick no interior de SP antes de tragédia com helicóptero no sul
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/23/videos-registram-decolagem-de-aviao-com-rick-no-interior-de-sp-antes-de-tragedia-com-helicoptero-no-sul.ghtml)_
 
+- **[2026-09-23 16:09 UTC]** Drones e scanner 3D: como perícia vai reconstruir acidente com helicóptero que matou cantor Rick e mais 4 em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/drones-scanner-3d-pericia-acidente-helicoptero-matou-cantor-rick-mais-4-sc.ghtml)_
+
