@@ -68,3 +68,6 @@
 - **[2026-09-02 19:10 UTC]** Câmara aprova Pacheco para o TCU e indicação será promulgada pelo Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/camara-aprova-pacheco-tcu-indicacao-sera-promulgada-congresso/)_
 
+- **[2026-09-23 21:02 UTC]** Pacheco toma posse como ministro do TCU no dia 30, em cerimônia restrita
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/23/pacheco-toma-posse-como-ministro-do-tcu-no-dia-30-em-cerimnia-restrita.ghtml)_
+
