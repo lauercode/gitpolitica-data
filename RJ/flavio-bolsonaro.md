@@ -1952,3 +1952,6 @@
 - **[2026-09-23 01:17 UTC]** Na reta final para o 1º turno, Flávio explora endividamento e Lula, o combate às bets
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/na-reta-final-para-o-1o-turno-flavio-explora-endividamento-e-lula-o-combate-as-bets.ghtml)_
 
+- **[2026-09-23 04:00 UTC]** Datafolha: Flávio Bolsonaro atrai mais eleitores de Zema, Renan, Caiado e Cury em 2º turno contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-atrai-mais-eleitores-de-zema-renan-caiado-e-cury-em-2o-turno-contra-lula.shtml)_
+
