@@ -47,3 +47,6 @@
 - **[2026-09-19 06:00 UTC]** Gaúchos criam espaço para celebrar cultura do RS em Portugal, marcam festa de 20 de setembro e esperam receber até 700 pessoas
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/19/gauchos-criam-espaco-para-celebrar-cultura-do-rs-em-portugal-marcam-festa-de-20-de-setembro-e-esperam-receber-ate-700-pessoas.ghtml)_
 
+- **[2026-09-23 14:39 UTC]** Lei das burcas, proposta pela ultradireita, começa a valer em Portugal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/lei-das-burcas-proposta-pela-ultradireita-comeca-a-valer-em-portugal.shtml)_
+
