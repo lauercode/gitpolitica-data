@@ -1967,3 +1967,6 @@
 - **[2026-09-23 14:16 UTC]** Flávio Bolsonaro reúne aliados em 'superlive' dias após campanha de Lula pedir suspensão de sua TV Celular no TSE
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-live.ghtml)_
 
+- **[2026-09-23 11:45 UTC]** A pedido de Flávio Bolsonaro, Nunes Marques manda tirar do ar vídeo em que Lula fala do caso Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/tse-nunes-marques-video-lula-caso-master.ghtml)_
+
