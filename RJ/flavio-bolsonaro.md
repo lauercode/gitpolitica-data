@@ -2042,3 +2042,6 @@
 - **[2026-09-23 21:57 UTC]** Flávio Bolsonaro apresenta ao STF notícia-crime contra Lula por mensagens de advogado a Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/23/flavio-bolsonaro-apresenta-ao-stf-noticia-crime-contra-lula-por-mensagens-de-advogado-a-vorcaro.ghtml)_
 
+- **[2026-09-23 19:29 UTC]** Lula e Flávio voltam a Minas Gerais na reta final de campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/lula-e-flvio-voltam-a-minas-gerais-na-reta-final-de-campanha.ghtml)_
+
