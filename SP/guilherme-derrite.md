@@ -35,3 +35,6 @@
 - **[2026-09-18 22:29 UTC]** Tebet critica Flávio Bolsonaro e Derrite em comício
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/tebet-critica-flavio-bolsonaro-e-derrite-em-comicio.ghtml)_
 
+- **[2026-09-23 20:04 UTC]** Quaest para o Senado em SP: Derrite, 16%; Marina Silva, 13%; Simone Tebet, 12% e André do Prado, 8%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/quaest-sp-senado-23-setembro.ghtml)_
+
