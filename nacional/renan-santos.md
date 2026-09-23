@@ -308,3 +308,6 @@
 - **[2026-09-23 15:54 UTC]** Quaest no Ceará: Lula, 55%; Flávio Bolsonaro, 23%; Augusto Cury, 5%; Renan Santos, 3%; Ronaldo Caiado, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-presidente-23-setembro.ghtml)_
 
+- **[2026-09-23 14:27 UTC]** Renan Santos acusa Flávio Bolsonaro de receber apoio de perfis estrangeiros no X
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/missao-acusa-flavio-bolsonaro-de-receber-apoio-de-perfis-estrangeiros-no-x.shtml)_
+
