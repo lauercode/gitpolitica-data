@@ -20,3 +20,6 @@
 - **[2026-09-11 20:44 UTC]** Datafolha: No RJ, Eduardo Paes tem 43%; Douglas Ruas, 25%; e Garotinho, 10%
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/11/datafolha-no-rj-eduardo-paes-tem-43-pontos-percentuais-douglas-ruas-25-e-garotinho-10.ghtml)_
 
+- **[2026-09-23 17:45 UTC]** Quaest: Eduardo Paes lidera no Rio com 36%, seguido por Douglas Ruas, com 23%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-eduardo-paes-lidera-no-rio-com-36-seguido-por-douglas-ruas-com-23.shtml)_
+
