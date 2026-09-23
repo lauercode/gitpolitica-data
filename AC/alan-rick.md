@@ -377,3 +377,6 @@
 - **[2026-09-23 12:49 UTC]** Quem era Rick antes da fama? Cantor nasceu na 'roça' e aprendeu a cantar na Folia de Reis
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/quem-era-rick-antes-da-fama-cantor-nasceu-na-roca-e-aprendeu-a-cantar-na-folia-de-reis.ghtml)_
 
+- **[2026-09-23 11:37 UTC]** Quem são os filhos de Rick e como foi o casamento de mais de 40 anos do cantor
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/quem-e-a-familia-de-rick.ghtml)_
+
