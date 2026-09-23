@@ -2690,3 +2690,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-23 19:00 UTC]** Novo pede à USP abertura de processo disciplinar contra Moraes por envolvimento com Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/novo-pede-a-usp-abertura-de-processo-disciplinar-contra-moraes-por-envolvimento-com-vorcaro.shtml)_
 
+- **[2026-09-23 15:00 UTC]** Fux manda Alcolumbre se manifestar sobre idas de esposa de Moraes, Vorcaro e Lulinha ao Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fux-manda-alcolumbre-se-manifestar-sobre-acessos-de-esposa-de-moraes-e-vorcaro-a-gabinetes-do-senado.shtml)_
+
