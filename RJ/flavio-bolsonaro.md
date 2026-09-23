@@ -2003,3 +2003,6 @@
 - **[2026-09-23 11:28 UTC]** Sem Lula e Flávio Bolsonaro, Record decide cancelar debate presidencial do 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sem-lula-e-flavio-bolsonaro-record-decide-cancelar-debate-presidencial-do-1o-turno.shtml)_
 
+- **[2026-09-23 17:35 UTC]** Lula leva vítimas de bets à propaganda eleitoral e Flávio chama petista de “pai do Tigrinho”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-leva-vitimas-de-bets-a-propaganda-eleitoral-e-flavio-chama-petista-de-pai-do-tigrinho/)_
+
