@@ -383,3 +383,6 @@
 - **[2026-09-23 11:53 UTC]** Cenipa investiga causa da queda do helicóptero que matou cantor Rick
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/cenipa-investiga-causa-da-queda-do-helicoptero-que-matou-cantor-rick)_
 
+- **[2026-09-23 17:31 UTC]** 'Agressor de mulher não terá espaço no meu governo', diz Alan Rick em sabatina na CBN Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/23/entrevista-alan-rick-cbn-rio-branco.ghtml)_
+
