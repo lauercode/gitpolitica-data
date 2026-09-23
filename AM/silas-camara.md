@@ -1046,3 +1046,6 @@ direitos
 - **[2026-09-23 16:21 UTC]** Federação União-PP tende a apoiar Flávio no segundo turno e projeta maior bancada da Câmara
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/federao-unio-pp-tende-a-apoiar-flvio-no-segundo-turno-e-projeta-maior-bancada-da-cmara.ghtml)_
 
+- **[2026-09-23 18:38 UTC]** Câmara de SP aprova projeto para proibir propaganda de bets em eventos esportivos na cidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-de-sp-aprova-projeto-para-proibir-propaganda-de-bets-em-eventos-esportivos-na-cidade.shtml)_
+
