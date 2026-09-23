@@ -1964,3 +1964,6 @@
 - **[2026-09-23 09:00 UTC]** Quais partidos apoiam Lula e Flávio Flávio Bolsonaro?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quais-partidos-apoiam-lula-e-flavio-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-23 14:16 UTC]** Flávio Bolsonaro reúne aliados em 'superlive' dias após campanha de Lula pedir suspensão de sua TV Celular no TSE
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-live.ghtml)_
+
