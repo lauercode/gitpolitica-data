@@ -326,3 +326,6 @@
 - **[2026-09-22 22:41 UTC]** Padre em processo de beatificação abençoou Rick e previu que ele viveria da música, diz ministra da eucaristia
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/padre-em-processo-de-beatificacao-abencoou-rick-e-previu-que-ele-viveria-da-musica-diz-ministra-da-eucaristia.ghtml)_
 
+- **[2026-09-23 03:00 UTC]** O que se sabe sobre acidente de helicóptero que matou o cantor Rick e outras 4 pessoas em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/o-que-se-sabe-sobre-acidente-de-helicoptero-que-matou-o-cantor-rick-e-outras-4-pessoas-em-sc.ghtml)_
+
