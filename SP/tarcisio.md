@@ -53,3 +53,6 @@
 - **[2026-09-22 07:00 UTC]** Tarcísio já gastou 88% do teto permitido para campanha ao governo de SP; Haddad, 46%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/22/tarcisio-ja-gastou-88percent-do-teto-permitido-para-campanha-ao-governo-de-sp-haddad-46percent.ghtml)_
 
+- **[2026-09-23 20:35 UTC]** Quaest em SP: 58% aprovam e 25% desaprovam governo de Tarcísio de Freitas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/quaest-em-sp-58percent-aprovam-e-25percent-desaprovam-governo-de-tarcisio-de-freitas.ghtml)_
+
