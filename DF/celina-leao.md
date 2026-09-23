@@ -29,3 +29,6 @@
 - **[2026-09-18 22:16 UTC]** Nova pesquisa Quaest no DF testará liderança de Celina Leão no DF e briga pelo 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/nova-pesquisa-quaest-no-df-testara-lideranca-de-celina-leao-no-df-e-briga-pelo-2o-turno.ghtml)_
 
+- **[2026-09-23 20:14 UTC]** Quaest no DF: 47% aprovam e 39% desaprovam governo de Celina Leão (PP)
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-avaliacao-governo-23-setembro.ghtml)_
+
