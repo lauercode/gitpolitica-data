@@ -80,3 +80,6 @@
 - **[2026-09-22 14:49 UTC]** Eleições 2026 no Paraná: Sergio Moro foca agenda em Curitiba, com entrevistas e reunião com sindicato
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-no-parana-sergio-moro-entrevistas-e-reuniao.ghtml)_
 
+- **[2026-09-23 14:40 UTC]** Eleições 2026 no Paraná: Sergio Moro participa de gravação de conteúdo de campanha
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-parana-sergio-moro-agenda-23-de-setembro.ghtml)_
+
