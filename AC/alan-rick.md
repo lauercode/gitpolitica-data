@@ -335,3 +335,6 @@
 - **[2026-09-23 07:00 UTC]** Conheça o hit que Rick gravaria em videoclipe com o primo antes de aeronave cair em SC
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/conheca-o-hit-que-rick-gravaria-em-videoclipe-com-o-primo-antes-de-aeronave-cair-em-sc.ghtml)_
 
+- **[2026-09-23 08:00 UTC]** Queda de helicóptero em SC mata cantor Rick e empresário
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/23/queda-de-helicoptero-em-sc-mata-cantor-rick-e-empresario.ghtml)_
+
