@@ -59,3 +59,6 @@
 - **[2026-09-23 15:54 UTC]** Quaest no Ceará: Lula, 55%; Flávio Bolsonaro, 23%; Augusto Cury, 5%; Renan Santos, 3%; Ronaldo Caiado, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-presidente-23-setembro.ghtml)_
 
+- **[2026-09-23 22:35 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 35%; Ronaldo Caiado, 7%; Augusto Cury, 4%; Renan Santos; 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/23/quaest-to-presidente-23-setembro.ghtml)_
+
