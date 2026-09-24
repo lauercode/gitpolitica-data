@@ -86,3 +86,6 @@
 - **[2026-09-24 15:07 UTC]** Quaest no Paraná: Sergio Moro, 36%; Requião Filho, 20%; Sandro Alex, 20%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-no-parana-pesquisa-setembro.ghtml)_
 
+- **[2026-09-24 12:32 UTC]** Eleições 2026 no Paraná: Sergio Moro cumpre agenda em Foz do Iguaçu com carreata, entrevistas e encontros
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-no-parana-sergio-moro-cumpre-agenda-em-foz-do-iguacu.ghtml)_
+
