@@ -2228,3 +2228,6 @@
 - **[2026-09-24 22:53 UTC]** Quaest em RO: Flávio Bolsonaro, 53%; Lula, 19%; Augusto Cury, 4%; Ronaldo Caiado, 3%; Renan Santos, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-presidente-24-de-setembro.ghtml)_
 
+- **[2026-09-24 22:36 UTC]** Quaest em GO: Flávio Bolsonaro, 33%; Lula, 27%; Ronaldo Caiado, 23%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-em-go-presidente-24-setembro.ghtml)_
+
