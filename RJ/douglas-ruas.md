@@ -20,3 +20,6 @@
 - **[2026-09-23 20:40 UTC]** Quaest: No RJ, Paes tem 36%; Douglas Ruas tem 23% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quaest-no-rj-paes-tem-36-pontos-percentuais-douglas-ruas-tem-23-no-primeiro-turno.ghtml)_
 
+- **[2026-09-24 21:50 UTC]** Datafolha: No RJ, Paes lidera com 43% das intenções de voto; Douglas Ruas tem 30%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-no-rj-paes-lidera-com-43-pontos-percentuais-das-intenes-de-voto-douglas-ruas-tem-30.ghtml)_
+
