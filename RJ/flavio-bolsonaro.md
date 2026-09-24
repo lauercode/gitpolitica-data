@@ -2084,3 +2084,6 @@
 - **[2026-09-24 02:44 UTC]** PT recorre a ação ligada ao setor de mineração para pedir que Dino investigue Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-recorre-a-acao-ligada-ao-setor-de-mineracao-para-pedir-que-dino-investigue-flavio/)_
 
+- **[2026-09-24 02:54 UTC]** Campanhas de Lula e Renan vão à Justiça contra Flávio por suposta interferência dos EUA na eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanhas-de-lula-e-renan-vao-a-justica-contra-flavio-por-suposta-interferencia-dos-eua-na-eleicao/)_
+
