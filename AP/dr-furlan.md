@@ -104,3 +104,6 @@
 - **[2026-09-24 09:00 UTC]** Plano de governo: Dr. Furlan propõe criar um Amapá moderno, sustentável e competitivo
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/plano-de-governo-dr-furlan-propoe-criar-um-amapa-moderno-sustentavel-e-competitivo.ghtml)_
 
+- **[2026-09-24 16:19 UTC]** TSE suspende julgamento de candidatura de Dr. Furlan ao governo do Amapá
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/tse-suspende-julgamento-de-candidatura-de-dr-furlan-ao-governo-do-amapa.ghtml)_
+
