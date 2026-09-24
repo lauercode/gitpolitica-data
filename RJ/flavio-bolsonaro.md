@@ -2099,3 +2099,6 @@
 - **[2026-09-24 09:49 UTC]** Flávio Bolsonaro e Lula voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-24 04:51 UTC]** Flávio Bolsonaro voltou dos EUA com a família e advogado em jato de Vorcaro que foi usado por Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/flvio-bolsonaro-viajou-dos-eua-ao-brasil-em-2025-em-jato-de-vorcaro-diz-revista.ghtml)_
+
