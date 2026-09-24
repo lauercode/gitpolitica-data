@@ -53,3 +53,6 @@
 - **[2026-09-22 19:40 UTC]** Lucas Ribeiro segue líder na disputa ao Governo da Paraíba, mostra pesquisa Quaest
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lucas-ribeiro-segue-lider-na-disputa-ao-governo-da-paraiba-mostra-pesquisa-quaest.shtml)_
 
+- **[2026-09-23 22:29 UTC]** Lucas Ribeiro defende ampliar o combate ao crime organizado na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/lucas-ribeiro-diz-querer-ampliar-combate-ao-crime-organizado-na-paraiba.ghtml)_
+
