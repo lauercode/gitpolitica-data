@@ -29,3 +29,6 @@
 - **[2026-09-10 22:06 UTC]** Quem é Antônio Carlos Freixo Júnior, o “Mineiro”, operador financeiro de Vorcaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-antonio-carlos-freixo-junior-o-mineiro-operador-financeiro-de-vorcaro/)_
 
+- **[2026-09-24 13:25 UTC]** Quem é 'Mineiro', alvo da 3ª fase da Carbono Oculto também investigado pela Operação Compliance Zero
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/24/quem-mineiro-alvo-da-3-fase-da-carbono-oculto-tambm-investigado-pela-operao-compliance-zero.ghtml)_
+
