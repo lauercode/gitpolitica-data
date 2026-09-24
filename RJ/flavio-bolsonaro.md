@@ -2162,3 +2162,6 @@
 - **[2026-09-24 15:22 UTC]** A tentativa de “golpe” do PT contra Flávio
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/sem-rodeios/a-tentativa-de-golpe-do-pt-contra-flavio/)_
 
+- **[2026-09-24 16:25 UTC]** Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss)_
+
