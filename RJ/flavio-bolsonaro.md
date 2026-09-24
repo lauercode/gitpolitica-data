@@ -2156,3 +2156,6 @@
 - **[2026-09-24 15:51 UTC]** Defesa de Bolsonaro pede suspensão da pena a Nunes Marques
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-bolsonaro-pede-suspensao-pena-a-nunes-marques/)_
 
+- **[2026-09-24 16:24 UTC]** Flávio viajou em avião ligado a Vorcaro; senador diz que era de seu amigo advogado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-viajou-aviao-ligado-vorcaro-senador-amigo-advogado/)_
+
