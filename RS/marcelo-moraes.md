@@ -2702,3 +2702,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-24 04:51 UTC]** Flávio Bolsonaro voltou dos EUA com a família e advogado em jato de Vorcaro que foi usado por Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/flvio-bolsonaro-viajou-dos-eua-ao-brasil-em-2025-em-jato-de-vorcaro-diz-revista.ghtml)_
 
+- **[2026-09-24 12:00 UTC]** Neto do empresário Antônio Ermírio de Moraes doa para campanha de parente de Maluf
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/neto-do-empresario-antonio-ermirio-doa-para-campanha-de-parente-de-maluf.shtml)_
+
