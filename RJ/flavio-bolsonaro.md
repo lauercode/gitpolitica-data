@@ -2210,3 +2210,6 @@
 - **[2026-09-24 19:09 UTC]** Quaest: No Ceará, Lula tem 54% e Flávio, 23% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/quaest-no-ceara-lula-tem-54percent-e-flavio-23percent-no-primeiro-turno.ghtml)_
 
+- **[2026-09-24 19:09 UTC]** Flávio Bolsonaro usou jatinho de Vorcaro em troca de ‘favores e afagos’, diz Renan Santos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flvio-bolsonaro-usou-jatinho-de-vorcaro-em-troca-de-favores-e-afagos-diz-renan-santos.ghtml)_
+
