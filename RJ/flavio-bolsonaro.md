@@ -2177,3 +2177,6 @@
 - **[2026-09-24 15:10 UTC]** Flávio Bolsonaro ironiza voo em jato de Vorcaro e associa aeronave a Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flavio-bolsonaro-ironiza-voo-em-jato-de-vorcaro-e-associa-aeronave-a-moraes.ghtml)_
 
+- **[2026-09-24 15:18 UTC]** Trama golpista: defesa de Bolsonaro desiste de suspensão da pena
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/trama-golpista-defesa-de-bolsonaro-desiste-de-suspensao-da-pena)_
+
