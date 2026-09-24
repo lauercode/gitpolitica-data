@@ -50,3 +50,6 @@
 - **[2026-09-22 00:45 UTC]** TSE mantém suspensão da campanha de Deltan Dallagnol; Mendonça e Nunes Marques divergem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tse-forma-maioria-para-manter-suspensao-da-campanha-de-deltan-dallagnol/)_
 
+- **[2026-09-24 10:19 UTC]** TRE-PR mantém candidatura de Deltan Dallagnol ao Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tre-pr-mantem-candidatura-de-deltan-dallagnol-ao-senado/)_
+
