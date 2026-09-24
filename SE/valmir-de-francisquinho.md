@@ -32,3 +32,6 @@
 - **[2026-09-15 23:11 UTC]** Candidato ao governo de SE, Valmir de Francisquinho diz que foi inocentado de processo e que vai baixar tarifa de ônibus para R$ 3
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/15/valmir-de-francisquinho-entrevista-se2.ghtml)_
 
+- **[2026-09-24 22:24 UTC]** Quaest em SE: Fábio, 43%; Valmir de Francisquinho, 34%
+  _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-governador-24-setembro.ghtml)_
+
