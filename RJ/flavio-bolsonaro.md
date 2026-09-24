@@ -2189,3 +2189,6 @@
 - **[2026-09-24 15:04 UTC]** Nunes diz que não se ofendeu por Flávio ter sugerido que ele seja atendido em hospital veterinário
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/nunes-diz-que-nao-se-ofendeu-por-flavio-ter-sugerido-que-seja-atendido-por-hospital-veterinario.shtml)_
 
+- **[2026-09-24 10:56 UTC]** Empresário ligado ao caso Master e a filme de Bolsonaro ganhou 570 vezes na loteria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/quem-e-freixo-operador-de-vorcaro-apontado-como-peca-chave-nos-casos-master-e-dark-horse.shtml)_
+
