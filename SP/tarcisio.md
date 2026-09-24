@@ -65,3 +65,6 @@
 - **[2026-09-23 20:17 UTC]** Quaest: Em SP, Tarcísio tem 44% e Haddad marca 27% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quaest-em-sp-tarcsio-tem-44-pontos-percentuais-e-haddad-marca-27-no-primeiro-turno.ghtml)_
 
+- **[2026-09-24 21:10 UTC]** Datafolha em SP: Tarcísio, 50%; Haddad, 30%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/24/datafolha-sp-governador-24-setembro.ghtml)_
+
