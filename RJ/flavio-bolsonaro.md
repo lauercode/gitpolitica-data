@@ -2267,3 +2267,6 @@
 - **[2026-09-24 18:30 UTC]** PP de SP articula apoio do partido a Flávio no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pp-de-sp-articula-apoio-do-partido-a-flavio-no-segundo-turno.shtml)_
 
+- **[2026-09-24 18:02 UTC]** Deputado do PT pede que STF apure viagem de Flávio em jato ligado a Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/deputado-do-pt-pede-que-stf-apure-viagem-de-flavio-em-jato-ligado-a-vorcaro.shtml)_
+
