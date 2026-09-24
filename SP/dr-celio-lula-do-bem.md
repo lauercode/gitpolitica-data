@@ -17,3 +17,6 @@
 - **[2026-09-23 20:05 UTC]** Quaest em SP: Flávio Bolsonaro, 34%; Lula, 31%; Cury, 7%; Caiado, 4%; Renan; 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/quaest-sp-presidente-23-setembro.ghtml)_
 
+- **[2026-09-24 19:35 UTC]** Lula vai anunciar proibição de bets nesta sexta em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/lula-pretende-anunciar-proibicao-de-bets-nesta-sexta-em-sp.shtml)_
+
