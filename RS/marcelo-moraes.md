@@ -2696,3 +2696,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-23 19:02 UTC]** Fux manda Senado fornecer informações sobre visitas de Vorcaro, esposa de Moraes, Lulinha e Frei Chico
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/23/fux-manda-senado-fornecer-informacoes-sobre-visitas-de-vorcaro-esposa-de-moraes-lulinha-e-frei-chico.ghtml)_
 
+- **[2026-09-24 00:45 UTC]** Falhas de Moraes permitem a Fachin arquivar acusações contra Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/falhas-de-moraes-permitem-a-fachin-arquivar-acusacoes-contra-mendonca-no-stf/)_
+
