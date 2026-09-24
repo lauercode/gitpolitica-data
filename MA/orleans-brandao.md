@@ -32,3 +32,6 @@
 - **[2026-09-22 23:25 UTC]** Orleans Brandão cumpre agenda em Vila Nova dos Martírios e apresenta propostas para a juventude
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/22/orleans-brandao-cumpre-agenda-em-vila-nova-dos-martirios-e-apresenta-propostas-para-a-juventude.ghtml)_
 
+- **[2026-09-24 22:54 UTC]** Orleans Brandão propõe atrair indústrias e ampliar geração de emprego e renda no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/24/orleans-brandao-propoe-atrair-industrias-e-ampliar-geracao-de-emprego-e-renda-no-ma.ghtml)_
+
