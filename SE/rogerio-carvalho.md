@@ -17,3 +17,6 @@
 - **[2026-09-11 15:41 UTC]** Eleições 2026: Eduardo Amorim e Rogério Carvalho cancelam participação em entrevista na FM Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/candidatos-ao-senado-cancelam-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-24 22:26 UTC]** Quaest para o Senado em SE: André Moura, 12%; Delegado André David, 11%; Rogério Carvalho, 10%; Delegado Alessandro, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-senado-24-setembro.ghtml)_
+
