@@ -65,3 +65,6 @@
 - **[2026-09-24 21:13 UTC]** Datafolha: 50% avaliam gestão Raquel Lyra como positiva e 19%, como negativa
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/24/datafolha-pe-avaliacao-governadora-24-de-setembro.ghtml)_
 
+- **[2026-09-24 21:11 UTC]** Datafolha em PE: Raquel Lyra, 48%; João Campos, 44%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/24/datafolha-governo-pe-24-de-setembro.ghtml)_
+
