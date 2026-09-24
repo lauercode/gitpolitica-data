@@ -23,3 +23,6 @@
 - **[2026-09-15 00:00 UTC]** Eleições 2026: Marconi Perillo fala de criação de 'Vapt Vupt' da saúde durante caminhada em Goiânia
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-agenda-de-marconi-perillo-de-segunda-feira-14.ghtml)_
 
+- **[2026-09-24 22:27 UTC]** Quaest em GO: Daniel Vilela, 42%; Marconi Perillo, 19%; Wilder Morais, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-em-go-governador-24-setembro.ghtml)_
+
