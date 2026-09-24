@@ -1001,3 +1001,6 @@
 - **[2026-09-22 14:45 UTC]** Veja aqui a íntegra do discurso do presidente Lula na ONU
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/22/veja-aqui-a-ntegra-do-discurso-do-presidente-lula-na-onu.ghtml)_
 
+- **[2026-09-24 00:47 UTC]** Lula compara discurso na ONU ao de Trump e diz que presidente dos EUA fala como se estivesse 'ameaçando todo mundo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/lula-compara-discurso-na-onu-ao-de-trump-e-diz-que-presidente-dos-eua-fala-como-se-estivesse-ameacando-todo-mundo.ghtml)_
+
