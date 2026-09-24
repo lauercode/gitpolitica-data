@@ -26,3 +26,6 @@
 - **[2026-09-24 00:49 UTC]** Eleições 2026: Daniel Vilela propõe investimentos em qualificação de mão de obra para o mercado digital
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-agenda-de-daniel-vilela-de-quarta-feira-23.ghtml)_
 
+- **[2026-09-24 22:28 UTC]** Quaest em GO: 68% aprovam e 10% desaprovam governo de Daniel Vilela
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-go-avaliacao-governo-24-setembro.ghtml)_
+
