@@ -224,3 +224,6 @@
 - **[2026-09-24 22:25 UTC]** Quaest no AM: 45% aprovam e 34% desaprovam governo de Roberto Cidade
   _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-avaliacao-governo-24-setembro.ghtml)_
 
+- **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
+
