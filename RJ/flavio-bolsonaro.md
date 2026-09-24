@@ -2069,3 +2069,6 @@
 - **[2026-09-23 23:55 UTC]** PT pede ao STF investigação sobre possível interferência estrangeira nas eleições para favorecer Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/pt-pede-ao-stf-investigao-sobre-possvel-interferncia-estrangeira-nas-eleies-para-favorecer-flvio.ghtml)_
 
+- **[2026-09-23 23:25 UTC]** Flávio critica fala de Lula na ONU e diz que foi ‘vexame internacional’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flvio-critica-fala-de-lula-na-onu-e-diz-que-foi-vexame-internacional.ghtml)_
+
