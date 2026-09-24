@@ -101,3 +101,6 @@
 - **[2026-09-23 21:49 UTC]** Dr. Furlan participa de carreata, visitas e reuniões em Laranjal do Jari, no Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/23/dr-furlan-participa-de-carreata-visitas-e-reunioes-em-laranjal-do-jari-no-amapa.ghtml)_
 
+- **[2026-09-24 09:00 UTC]** Plano de governo: Dr. Furlan propõe criar um Amapá moderno, sustentável e competitivo
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/plano-de-governo-dr-furlan-propoe-criar-um-amapa-moderno-sustentavel-e-competitivo.ghtml)_
+
