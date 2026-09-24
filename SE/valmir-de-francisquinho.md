@@ -38,3 +38,6 @@
 - **[2026-09-24 19:44 UTC]** Quaest: Fábio Mitidieri lidera com 43%, e Valmir de Francisquinho tem 34% em Sergipe
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-fabio-mitidieri-lidera-com-43-e-valmir-de-francisquinho-tem-34-em-sergipe.shtml)_
 
+- **[2026-09-24 23:08 UTC]** Eleições 2026: Valmir de Francisquinho fala sobre rede de proteção à mulher e valorização das forças de segurança
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-valmir-de-francisquinho-fala-sobre-rede-de-protecao-a-mulher-e-valorizacao-das-forcas-de-seguranca.ghtml)_
+
