@@ -329,3 +329,6 @@
 - **[2026-09-23 20:05 UTC]** Quaest em SP: Flávio Bolsonaro, 34%; Lula, 31%; Cury, 7%; Caiado, 4%; Renan; 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/quaest-sp-presidente-23-setembro.ghtml)_
 
+- **[2026-09-24 17:11 UTC]** Quaest no Paraná: Flávio, 40%; Lula, 26%; Cury, 5%; Caiado, 4%; Renan, 4%; e Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-parana-presidente-24-setembro.ghtml)_
+
