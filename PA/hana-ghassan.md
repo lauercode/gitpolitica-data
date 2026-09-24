@@ -53,3 +53,6 @@
 - **[2026-09-22 17:53 UTC]** Nova pesquisa Quaest no Pará mede impacto de ordem do TRE para suspensão de conta de Hana Ghassan
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/nova-pesquisa-quaest-no-para-mede-impacto-da-suspensao-da-conta-de-hana-ghassan.ghtml)_
 
+- **[2026-09-23 23:36 UTC]** Hana Ghassan propõe qualificar a cadeia produtiva do turismo para atrair investimentos no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/23/hana-ghassan-propoe-qualificar-a-cadeia-produtiva-do-turismo-para-atrair-investimentos-no-para.ghtml)_
+
