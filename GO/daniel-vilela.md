@@ -29,3 +29,6 @@
 - **[2026-09-24 22:28 UTC]** Quaest em GO: 68% aprovam e 10% desaprovam governo de Daniel Vilela
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-go-avaliacao-governo-24-setembro.ghtml)_
 
+- **[2026-09-24 22:27 UTC]** Quaest em GO: Daniel Vilela, 42%; Marconi Perillo, 19%; Wilder Morais, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-em-go-governador-24-setembro.ghtml)_
+
