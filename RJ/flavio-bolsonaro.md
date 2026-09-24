@@ -2081,3 +2081,6 @@
 - **[2026-09-23 21:50 UTC]** Avanço de Flávio Bolsonaro faz Lula reavaliar estratégia, e presidente deve ir a debate da Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml)_
 
+- **[2026-09-24 02:44 UTC]** PT recorre a ação ligada ao setor de mineração para pedir que Dino investigue Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-recorre-a-acao-ligada-ao-setor-de-mineracao-para-pedir-que-dino-investigue-flavio/)_
+
