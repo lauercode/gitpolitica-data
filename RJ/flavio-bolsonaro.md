@@ -2096,3 +2096,6 @@
 - **[2026-09-24 04:00 UTC]** Flávio Bolsonaro procura União-PP, que avalia apoio no 2º turno com garantia para Alcolumbre no Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-procura-uniao-pp-que-avalia-apoio-no-2o-turno-com-garantia-para-alcolumbre-no-senado.shtml)_
 
+- **[2026-09-24 09:49 UTC]** Flávio Bolsonaro e Lula voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
