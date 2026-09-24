@@ -2105,3 +2105,6 @@
 - **[2026-09-24 12:59 UTC]** Flávio usou jatinho ligado a Vorcaro em viagem em 2025, diz revista
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-usou-jatinho-ligado-vorcaro-em-viagem-em-2025-diz-revista)_
 
+- **[2026-09-24 12:23 UTC]** STF: defesa de Bolsonaro pede suspensão do cumprimento da pena
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-defesa-de-bolsonaro-pede-suspensao-do-cumprimento-da-pena)_
+
