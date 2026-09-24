@@ -461,3 +461,6 @@
 - **[2026-09-24 13:11 UTC]** Velório do Rick: fãs se reúnem na frente de cemitério em Sorocaba para última despedida
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/velorio-do-rick-fas-se-reunem-na-frente-de-cemiterio-em-sorocaba-para-ultima-despedida.ghtml)_
 
+- **[2026-09-24 09:16 UTC]** Em cerimônia fechada, corpo do cantor Rick é velado e sepultado nesta quinta-feira em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/em-cerimonia-fechada-corpo-do-cantor-rick-sera-velado-e-sepultado-nesta-quinta-feira-em-sorocaba-sp.ghtml)_
+
