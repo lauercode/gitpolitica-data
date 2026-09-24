@@ -110,3 +110,6 @@
 - **[2026-09-24 19:31 UTC]** Toffoli defende barrar candidatura de Dr. Furlan ao governo do AP; decisão é adiada por pedido de vista
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/24/toffoli-defende-barrar-candidatura-de-dr-furlan-ao-governo-do-ap-decisao-e-adiada-por-pedido-de-vista.ghtml)_
 
+- **[2026-09-24 19:55 UTC]** Quaest: Dr. Furlan lidera disputa no Amapá com 53%, ante 40% de Clécio Luís
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-dr-furlan-lidera-disputa-no-amapa-com-53-ante-40-de-clecio-luis.shtml)_
+
