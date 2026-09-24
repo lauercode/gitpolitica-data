@@ -2123,3 +2123,6 @@
 - **[2026-09-24 13:10 UTC]** Flávio Bolsonaro viajou em 2025 em avião de Vorcaro e de advogado investigado no caso INSS
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/24/flavio-bolsonaro-viajou-em-2025-em-aviao-ligado-a-vorcaro-e-advogado-investigado-por-desvios-no-inss.ghtml)_
 
+- **[2026-09-24 13:04 UTC]** Defesa de Bolsonaro desiste de pedido para suspender pena no caso da trama golpista
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/defesa-de-bolsonaro-pede-suspensao-da-pena-no-caso-da-trama-golpista.ghtml)_
+
