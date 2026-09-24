@@ -2222,3 +2222,6 @@
 - **[2026-09-24 17:22 UTC]** Na TV, Flávio diz que Lula é 'pai do tigrinho' e petista associa senador ao crime organizado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/na-tv-flvio-diz-que-lula-pai-do-tigrinho-e-petista-associa-senador-ao-crime-organizado.ghtml)_
 
+- **[2026-09-24 17:19 UTC]** Nova pesquisa Quaest testa impacto de revelação de voo de Flávio Bolsonaro em jatinho de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/nova-pesquisa-quaest-testa-impacto-de-revelacao-de-voo-de-flavio-bolsonaro-em-jatinho-de-vorcaro.ghtml)_
+
