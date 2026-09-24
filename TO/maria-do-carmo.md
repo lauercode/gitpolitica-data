@@ -53,3 +53,6 @@
 - **[2026-09-15 10:33 UTC]** Acesso do Complexo Viário Maria do Carmo em Aracaju será alterado
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/15/acesso-do-complexo-viario-maria-do-carmo-em-aracaju-sera-alterado.ghtml)_
 
+- **[2026-09-24 19:42 UTC]** Quaest: Aziz tem 29% e Maria do Carmo e Cidade estão empatados tecnicamente no Amazonas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-aziz-tem-29-e-maria-do-carmo-e-cidade-estao-empatados-tecnicamente-no-amazonas.shtml)_
+
