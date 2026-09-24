@@ -2192,3 +2192,6 @@
 - **[2026-09-24 10:56 UTC]** Empresário ligado ao caso Master e a filme de Bolsonaro ganhou 570 vezes na loteria
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/quem-e-freixo-operador-de-vorcaro-apontado-como-peca-chave-nos-casos-master-e-dark-horse.shtml)_
 
+- **[2026-09-24 19:04 UTC]** Flávio Bolsonaro tentou ligar para Vorcaro nos 4 dias antes da prisão do banqueiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tentou-ligar-vorcaro-4-dias-antes-prisao-banqueiro/)_
+
