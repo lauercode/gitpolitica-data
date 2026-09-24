@@ -452,3 +452,6 @@
 - **[2026-09-24 14:36 UTC]** Amigos da música se despedem de Rick no velório em Sorocaba, SP
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/amigos-da-musica-se-despedem-de-rick-no-velorio-em-sorocaba-sp.ghtml)_
 
+- **[2026-09-24 14:03 UTC]** Músicos e familiares chegam com ônibus da banda de Rick e Renner ao velório de Rick em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/musicos-e-familiares-chegam-com-onibus-da-banda-de-rick-e-renner-ao-velorio-de-rick-em-sorocaba-sp.ghtml)_
+
