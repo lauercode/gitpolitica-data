@@ -2051,3 +2051,6 @@
 - **[2026-09-23 19:05 UTC]** Flávio rebate Lula sobre bets e chama PT de ‘Partido do Tigrinho’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flvio-rebate-lula-sobre-bets-e-chama-pt-de-partido-do-tigrinho.ghtml)_
 
+- **[2026-09-23 23:37 UTC]** Flávio Bolsonaro defende novo programa contra dívidas dos brasileiros e critica ausência do Brasil no Escudo das Américas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-live-dividas.ghtml)_
+
