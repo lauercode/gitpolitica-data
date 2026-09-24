@@ -2165,3 +2165,6 @@
 - **[2026-09-24 16:25 UTC]** Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-24 16:12 UTC]** Stuhlberger considera ‘razoável’ chance de 60% de vitória de Flávio e prevê ‘porrada’ na bolsa
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/24/stuhlberger-considera-razovel-chance-de-60-pontos-percentuais-de-vitria-de-flvio-e-prev-porrada-na-bolsa.ghtml)_
+
