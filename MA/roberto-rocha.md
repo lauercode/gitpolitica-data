@@ -23,3 +23,6 @@
 - **[2026-09-19 23:35 UTC]** Roberto Rocha destaca obras de infraestrutura e fala em investimentos para rodovias, ferrovias e portos no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/19/roberto-rocha-destaca-obras-de-infraestrutura-e-fala-em-investimentos-para-rodovias-ferrovias-e-portos-no-ma.ghtml)_
 
+- **[2026-09-24 00:58 UTC]** Roberto Rocha defende industrialização do Maranhão e distribuição da riqueza produzida no estado
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/23/roberto-rocha-defende-industrializacao-do-maranhao-e-distribuicao-da-riqueza-produzida-no-estado.ghtml)_
+
