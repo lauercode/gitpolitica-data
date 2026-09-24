@@ -326,3 +326,6 @@
 - **[2026-09-24 22:02 UTC]** Quaest na BA: Lula, 58%; Flávio Bolsonaro, 23%; Augusto Cury, 4%; Ronaldo Caiado, 2%; Renan Santos, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-bahia-presidente-24-setembro.ghtml)_
 
+- **[2026-09-24 21:46 UTC]** Renan Santos quer mudar divisão de recursos entre estados: 'Vamos premiar quem vai bem e punir quem vai mal'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/24/renan-santos-quer-mudar-divisao-de-recursos-entre-estados-vamos-premiar-quem-vai-bem-e-punir-quem-vai-mal.ghtml)_
+
