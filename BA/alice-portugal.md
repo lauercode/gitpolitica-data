@@ -50,3 +50,6 @@
 - **[2026-09-23 14:39 UTC]** Lei das burcas, proposta pela ultradireita, começa a valer em Portugal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/lei-das-burcas-proposta-pela-ultradireita-comeca-a-valer-em-portugal.shtml)_
 
+- **[2026-09-23 20:27 UTC]** Cornucópia de sabores em Portugal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/zecacamargo/2026/09/cornucopia-de-sabores-em-portugal.shtml)_
+
