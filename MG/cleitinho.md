@@ -83,3 +83,6 @@
 - **[2026-09-24 18:11 UTC]** Datafolha: Cleitinho vai a 40% em MG no 1º turno, ante 15% de Patrus e 9% de Kalil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-cleitinho-vai-a-40-em-mg-no-1o-turno-ante-15-de-patrus-e-9-de-kalil.shtml)_
 
+- **[2026-09-24 21:35 UTC]** Datafolha: Em MG, Cleitinho tem 40%; Patrus, 15% e Kalil, 9% no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-em-mg-cleitinho-tem-40-pontos-percentuais-patrus-15-e-kalil-9-no-primeiro-turno.ghtml)_
+
