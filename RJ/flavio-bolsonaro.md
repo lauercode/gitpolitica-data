@@ -2288,3 +2288,6 @@
 - **[2026-09-24 20:19 UTC]** Análise: Operação da PF sugere que, ao pedir dinheiro a Vorcaro, Flávio Bolsonaro ajudou crime organizado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/analise-operacao-da-pf-sugere-que-ao-pedir-dinheiro-a-vorcaro-flavio-bolsonaro-ajudou-crime-organizado.ghtml)_
 
+- **[2026-09-24 19:55 UTC]** Aliados de Flávio Bolsonaro minimizam efeitos de novas revelações sobre Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/bastidores-aliados-de-flavio-minimizam-efeitos-de-novas-revelacoes-sobre-vorcaro.ghtml)_
+
