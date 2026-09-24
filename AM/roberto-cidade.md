@@ -221,3 +221,6 @@
 - **[2026-09-23 00:55 UTC]** Eleições 2026: Roberto Cidade promete dobrar auxílio estadual para mães e pais no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-roberto-cidade-promete-dobrar-auxilio-estadual-para-maes-e-pais-no-amazonas.ghtml)_
 
+- **[2026-09-24 22:25 UTC]** Quaest no AM: 45% aprovam e 34% desaprovam governo de Roberto Cidade
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-avaliacao-governo-24-setembro.ghtml)_
+
