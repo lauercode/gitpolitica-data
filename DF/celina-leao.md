@@ -38,3 +38,6 @@
 - **[2026-09-24 21:18 UTC]** Datafolha no DF: 27% avaliam gestão Celina Leão como positiva e 30%, como negativa
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/24/datafolha-df-avaliacao-governo-celina-24-setembro.ghtml)_
 
+- **[2026-09-24 21:14 UTC]** Datafolha no DF: Celina Leão, 42%; Leandro Grass, 23%; Paula Belmonte, 7%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/24/datafolha-df-governador-25-setembro.ghtml)_
+
