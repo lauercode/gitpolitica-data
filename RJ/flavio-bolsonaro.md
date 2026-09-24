@@ -2108,3 +2108,6 @@
 - **[2026-09-24 12:23 UTC]** STF: defesa de Bolsonaro pede suspensão do cumprimento da pena
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-defesa-de-bolsonaro-pede-suspensao-do-cumprimento-da-pena)_
 
+- **[2026-09-24 13:38 UTC]** Flávio Bolsonaro viajou em avião de Vorcaro em 2025
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/flavio-bolsonaro-viajou-em-aviao-de-vorcaro-em-2025)_
+
