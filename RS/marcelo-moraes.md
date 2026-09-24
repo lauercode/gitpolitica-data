@@ -2711,3 +2711,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-24 15:10 UTC]** Flávio Bolsonaro ironiza voo em jato de Vorcaro e associa aeronave a Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flavio-bolsonaro-ironiza-voo-em-jato-de-vorcaro-e-associa-aeronave-a-moraes.ghtml)_
 
+- **[2026-09-24 17:11 UTC]** FOTOS: veja como é avião de Vorcaro usado por Flávio Bolsonaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/fotos-veja-como-e-aviao-de-vorcaro-usado-por-flavio-bolsonaro-e-moraes.ghtml)_
+
