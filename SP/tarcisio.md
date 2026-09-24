@@ -68,3 +68,6 @@
 - **[2026-09-24 21:10 UTC]** Datafolha em SP: Tarcísio, 50%; Haddad, 30%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/24/datafolha-sp-governador-24-setembro.ghtml)_
 
+- **[2026-09-24 18:06 UTC]** Datafolha: Tarcísio tem 50%, contra 30% de Haddad, e poderia vencer em 1º turno em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-tarcisio-tem-50-contra-30-de-haddad-e-poderia-vencer-em-1o-turno-em-sp.shtml)_
+
