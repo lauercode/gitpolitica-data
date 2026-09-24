@@ -2204,3 +2204,6 @@
 - **[2026-09-24 17:58 UTC]** Lula endurece discurso sobre bets; Flávio critica regulamentação atual, mas defende aposta esportiva
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c64g7d8m9m8vo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-24 19:55 UTC]** Bastidores: Aliados de Flávio minimizam efeitos de novas revelações sobre Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/bastidores-aliados-de-flavio-minimizam-efeitos-de-novas-revelacoes-sobre-vorcaro.ghtml)_
+
