@@ -2141,3 +2141,6 @@
 - **[2026-09-24 10:20 UTC]** Defesa de Bolsonaro desiste de pedido a Kassio de suspensão de pena da trama golpista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/defesa-de-bolsonaro-pede-a-kassio-suspensao-de-pena-da-trama-golpista.shtml)_
 
+- **[2026-09-24 08:56 UTC]** TSE manda Instagram retirar vídeo que associa Flávio Bolsonaro ao Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-manda-instagram-retirar-video-que-associa-flavio-bolsonaro-ao-master.shtml)_
+
