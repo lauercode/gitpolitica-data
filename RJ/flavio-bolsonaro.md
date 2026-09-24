@@ -2153,3 +2153,6 @@
 - **[2026-09-24 14:49 UTC]** Foto de Bolsonaro pode ser usada em campanha? Entenda a disputa na Justiça Eleitoral
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/foto-de-bolsonaro-pode-ser-usada-em-campanha-entenda-disputa-justica-eleitoral/)_
 
+- **[2026-09-24 15:51 UTC]** Defesa de Bolsonaro pede suspensão da pena a Nunes Marques
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-bolsonaro-pede-suspensao-pena-a-nunes-marques/)_
+
