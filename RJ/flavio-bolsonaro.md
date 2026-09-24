@@ -2135,3 +2135,6 @@
 - **[2026-09-24 10:56 UTC]** Quem é Antonio Freixo, apontado como peça-chave no Master e no financiamento no filme de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/quem-e-freixo-operador-de-vorcaro-apontado-como-peca-chave-nos-casos-master-e-dark-horse.shtml)_
 
+- **[2026-09-24 10:34 UTC]** Empresa que financiou filme de Bolsonaro recebia dinheiro do crime organizado, segundo ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/durigan-diz-que-recurso-do-filme-dark-horse-sobre-bolsonaro-pode-ser-de-lavagem-de-dinheiro.shtml)_
+
