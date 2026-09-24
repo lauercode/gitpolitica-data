@@ -2285,3 +2285,6 @@
 - **[2026-09-24 21:23 UTC]** Flávio Bolsonaro tentou ligar para Vorcaro nos dias anteriores à prisão de ex-banqueiro, diz PF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/flvio-bolsonaro-tentou-ligar-para-vorcaro-quatro-dias-antes-da-priso-de-ex-banqueiro-diz-pf.ghtml)_
 
+- **[2026-09-24 20:19 UTC]** Análise: Operação da PF sugere que, ao pedir dinheiro a Vorcaro, Flávio Bolsonaro ajudou crime organizado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/analise-operacao-da-pf-sugere-que-ao-pedir-dinheiro-a-vorcaro-flavio-bolsonaro-ajudou-crime-organizado.ghtml)_
+
