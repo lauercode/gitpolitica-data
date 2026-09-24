@@ -2246,3 +2246,6 @@
 - **[2026-09-24 22:14 UTC]** Quaest no AM: Lula, 38%; Flávio Bolsonaro, 32%
   _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-presidente-24-setembro.ghtml)_
 
+- **[2026-09-24 22:02 UTC]** Quaest na BA: Lula, 58%; Flávio Bolsonaro, 23%; Augusto Cury, 4%; Ronaldo Caiado, 2%; Renan Santos, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-bahia-presidente-24-setembro.ghtml)_
+
