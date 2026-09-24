@@ -2111,3 +2111,6 @@
 - **[2026-09-24 13:38 UTC]** Flávio Bolsonaro viajou em avião de Vorcaro em 2025
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/flavio-bolsonaro-viajou-em-aviao-de-vorcaro-em-2025)_
 
+- **[2026-09-24 15:22 UTC]** Empresa que movimentou recursos de filme sobre Bolsonaro recebeu dinheiro do crime organizado, diz ministro da Fazenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/tudo-indica-que-recursos-que-financiaram-filme-dark-horse-pode-vir-do-crime-organizado-diz-ministro-da-fazenda.ghtml)_
+
