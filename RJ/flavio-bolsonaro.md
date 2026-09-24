@@ -2072,3 +2072,6 @@
 - **[2026-09-23 23:25 UTC]** Flávio critica fala de Lula na ONU e diz que foi ‘vexame internacional’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flvio-critica-fala-de-lula-na-onu-e-diz-que-foi-vexame-internacional.ghtml)_
 
+- **[2026-09-24 03:00 UTC]** Quaest no DF: 46% temem novo mandato de Lula, e 39%, volta da família Bolsonaro ao poder
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/24/quaest-no-df-46percent-temem-novo-mandato-de-lula-e-39percent-volta-da-familia-bolsonaro-ao-poder.ghtml)_
+
