@@ -44,3 +44,6 @@
 - **[2026-09-23 20:25 UTC]** Quaest: Em PE, Raquel Lyra tem 41% e João Campos 39% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quaest-em-pe-raquel-lyra-tem-41-pontos-percentuais-e-joo-campos-39-no-primeiro-turno.ghtml)_
 
+- **[2026-09-24 21:15 UTC]** Datafolha em Pernambuco: Raquel Lyra tem 51% no 2º turno e João Campos, 45%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/24/datafolha-pe-2-turno-24-de-setembro.ghtml)_
+
