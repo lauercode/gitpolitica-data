@@ -83,3 +83,6 @@
 - **[2026-09-23 14:40 UTC]** Eleições 2026 no Paraná: Sergio Moro participa de gravação de conteúdo de campanha
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-parana-sergio-moro-agenda-23-de-setembro.ghtml)_
 
+- **[2026-09-24 15:07 UTC]** Quaest no Paraná: Sergio Moro, 36%; Requião Filho, 20%; Sandro Alex, 20%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-no-parana-pesquisa-setembro.ghtml)_
+
