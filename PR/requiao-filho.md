@@ -71,3 +71,6 @@
 - **[2026-09-23 14:40 UTC]** Eleições 2026 no Paraná: Requião Filho concede entrevistas e se reúne com empresários no norte do estado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-parana-requiao-filho-agenda-23-de-setembro.ghtml)_
 
+- **[2026-09-24 15:07 UTC]** Quaest no Paraná: Sergio Moro, 36%; Requião Filho, 20%; Sandro Alex, 20%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-no-parana-pesquisa-setembro.ghtml)_
+
