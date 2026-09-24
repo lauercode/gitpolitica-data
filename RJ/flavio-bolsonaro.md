@@ -2258,3 +2258,6 @@
 - **[2026-09-24 21:41 UTC]** Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml)_
 
+- **[2026-09-24 18:40 UTC]** Datafolha: Lula e Flávio Bolsonaro empatam em rejeição com 45%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-rejeicao-com-45.shtml)_
+
