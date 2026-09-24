@@ -2132,3 +2132,6 @@
 - **[2026-09-24 12:09 UTC]** Campanha de Flávio aciona TSE contra Lula e Alckmin por uso da máquina pública
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-aciona-tse-contra-lula-e-alckmin-por-uso-da-maquina-publica.shtml)_
 
+- **[2026-09-24 10:56 UTC]** Quem é Antonio Freixo, apontado como peça-chave no Master e no financiamento no filme de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/quem-e-freixo-operador-de-vorcaro-apontado-como-peca-chave-nos-casos-master-e-dark-horse.shtml)_
+
