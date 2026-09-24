@@ -14,3 +14,6 @@
 - **[2026-09-24 14:52 UTC]** Ex-deputado Jalser Renier é alvo da PF em operação contra lavagem de dinheiro em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/24/pf-operacao-ex-deputado-jalser-renier-boa-vista.ghtml)_
 
+- **[2026-09-24 23:01 UTC]** VÍDEO: Esposa e apoiadores de Jalser Renier oram e cantam 'Aquilo que parecia impossível' em frente à PF após prisão em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/24/video-esposa-e-apoiadores-de-jalser-renier-oram-e-cantam-aquilo-que-parecia-impossivel-em-frente-a-pf-apos-prisao-em-boa-vista.ghtml)_
+
