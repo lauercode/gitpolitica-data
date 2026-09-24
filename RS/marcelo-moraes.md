@@ -2708,3 +2708,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-24 16:12 UTC]** Escândalo de Moraes com Vorcaro 'energizou' a direita brasileira perto da eleição e 'eclipsou' caso Dark Horse, diz NYT
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6wyzm3yp9yxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-24 15:10 UTC]** Flávio Bolsonaro ironiza voo em jato de Vorcaro e associa aeronave a Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flavio-bolsonaro-ironiza-voo-em-jato-de-vorcaro-e-associa-aeronave-a-moraes.ghtml)_
+
