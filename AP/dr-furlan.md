@@ -107,3 +107,6 @@
 - **[2026-09-24 16:19 UTC]** TSE suspende julgamento de candidatura de Dr. Furlan ao governo do Amapá
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/tse-suspende-julgamento-de-candidatura-de-dr-furlan-ao-governo-do-amapa.ghtml)_
 
+- **[2026-09-24 19:31 UTC]** Toffoli defende barrar candidatura de Dr. Furlan ao governo do AP; decisão é adiada por pedido de vista
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/24/toffoli-defende-barrar-candidatura-de-dr-furlan-ao-governo-do-ap-decisao-e-adiada-por-pedido-de-vista.ghtml)_
+
