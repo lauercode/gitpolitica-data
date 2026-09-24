@@ -2216,3 +2216,6 @@
 - **[2026-09-24 18:32 UTC]** Viagem de Flávio em jato de Vorcaro é aposta da campanha de Lula para reforçar ligação do senador com ex-banqueiro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/viagem-de-flvio-em-jato-de-vorcaro-aposta-da-campanha-de-lula-para-reforar-ligao-do-senador-com-ex-banqueiro.ghtml)_
 
+- **[2026-09-24 17:40 UTC]** Em ato no Rio, Lula associa Flávio a milícia, escândalos do INSS e Banco Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/em-ato-no-rio-lula-associa-flavio-a-milicia-escandalos-do-inss-e-banco-master.ghtml)_
+
