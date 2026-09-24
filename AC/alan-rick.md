@@ -443,3 +443,6 @@
 - **[2026-09-24 09:28 UTC]** Velório de Rick, da dupla com Renner, tem presença de Zezé Di Camargo e sertanejos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/corpo-de-rick-da-dupla-com-renner-comeca-a-ser-velado-em-sorocaba-em-sao-paulo.shtml)_
 
+- **[2026-09-24 15:50 UTC]** Na despedida, Zezé Di Camargo relembra início da carreira de Rick e ajuda a amigo: 'Quem fez o sucesso dele foi ele'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/na-despedida-zeze-di-camargo-relembra-inicio-da-carreira-de-rick-e-ajuda-a-amigo-quem-fez-o-sucesso-dele-foi-ele.ghtml)_
+
