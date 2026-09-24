@@ -2147,3 +2147,6 @@
 - **[2026-09-24 07:14 UTC]** Nova fase da Carbono Oculto mira executivo ligado ao Master e a financiamento de filme de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/executivo-do-banco-genial-e-alvo-de-3a-fase-da-operacao-carbono-oculto.shtml)_
 
+- **[2026-09-24 16:24 UTC]** Defesa de Bolsonaro desiste de pedir suspensão da pena de prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-bolsonaro-desiste-pedir-suspensao-pena-de-prisao/)_
+
