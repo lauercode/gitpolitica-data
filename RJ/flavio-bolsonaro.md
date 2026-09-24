@@ -2201,3 +2201,6 @@
 - **[2026-09-24 19:00 UTC]** Viagens internacionais e jatinho de Vorcaro: os vínculos de Flávio Bolsonaro com Willer Tomaz, alvo da PF no escândalo do INSS
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3lyr54g8yero?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-24 17:58 UTC]** Lula endurece discurso sobre bets; Flávio critica regulamentação atual, mas defende aposta esportiva
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c64g7d8m9m8vo?at_medium=RSS&at_campaign=rss)_
+
