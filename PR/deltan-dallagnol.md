@@ -53,3 +53,6 @@
 - **[2026-09-24 10:19 UTC]** TRE-PR mantém candidatura de Deltan Dallagnol ao Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tre-pr-mantem-candidatura-de-deltan-dallagnol-ao-senado/)_
 
+- **[2026-09-24 16:28 UTC]** Quaest no Paraná para o Senado: Alexandre Curi, 14%; Deltan Dallagnol, 11%; Filipe Barros, 11%; e Gleisi, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-parana-senador-24-setembro.ghtml)_
+
