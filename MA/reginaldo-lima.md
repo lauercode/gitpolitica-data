@@ -26,3 +26,6 @@
 - **[2026-09-17 11:45 UTC]** Reginaldo Lima participa de entrevista do JMTV1 nesta quinta-feira; saiba como assistir
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/17/reginaldo-lima-participa-de-entrevista-do-jmtv1-nesta-quinta-feira-saiba-como-assistir.ghtml)_
 
+- **[2026-09-24 22:30 UTC]** Reginaldo Lima propõe criar indústrias geridas pelo estado para desenvolver economia do MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/24/reginaldo-lima-propoe-criar-industrias-geridas-pelo-estado-para-desenvolver-economia-do-ma.ghtml)_
+
