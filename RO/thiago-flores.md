@@ -17,3 +17,6 @@
 - **[2026-09-23 23:17 UTC]** Festa de Flores e Morangos encerra neste fim de semana
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/23/festa-de-flores-e-morangos-encerra-neste-fim-de-semana-1.ghtml)_
 
+- **[2026-09-24 21:08 UTC]** Feira de Flores de Holambra tem mais de 200 espécies a partir de R$ 5 em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/24/feira-de-flores-de-holambra-tem-mais-de-200-especies-a-partir-de-r-5-em-maceio.ghtml)_
+
