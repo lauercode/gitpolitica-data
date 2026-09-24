@@ -14,3 +14,6 @@
 - **[2026-09-16 19:23 UTC]** Festa de Flores e Morangos aumenta fluxo de visitantes
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/16/festa-de-flores-e-morangos-aumenta-fluxo-de-visitantes-1.ghtml)_
 
+- **[2026-09-23 23:17 UTC]** Festa de Flores e Morangos encerra neste fim de semana
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/23/festa-de-flores-e-morangos-encerra-neste-fim-de-semana-1.ghtml)_
+
