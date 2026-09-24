@@ -314,3 +314,6 @@
 - **[2026-09-23 18:05 UTC]** Se Lula for reeleito, não haverá enfrentamento ao crime organizado, diz Renan Santos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/se-lula-for-reeleito-nao-havera-enfrentamento-ao-crime-organizado-diz-renan-santos.ghtml)_
 
+- **[2026-09-23 22:35 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 35%; Ronaldo Caiado, 7%; Augusto Cury, 4%; Renan Santos; 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/23/quaest-to-presidente-23-setembro.ghtml)_
+
