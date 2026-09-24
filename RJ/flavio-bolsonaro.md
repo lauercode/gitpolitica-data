@@ -2198,3 +2198,6 @@
 - **[2026-09-24 18:22 UTC]** Lula ataca Flávio Bolsonaro e diz que “não cabe miliciano” no Palácio do Planalto
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ataca-flavio-bolsonaro-nao-cabe-miliciano-palacio-do-planalto/)_
 
+- **[2026-09-24 19:00 UTC]** Viagens internacionais e jatinho de Vorcaro: os vínculos de Flávio Bolsonaro com Willer Tomaz, alvo da PF no escândalo do INSS
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3lyr54g8yero?at_medium=RSS&at_campaign=rss)_
+
