@@ -2090,3 +2090,6 @@
 - **[2026-09-24 01:41 UTC]** Flávio propõe fim do regime de partilha do petróleo e detalha programa contra endividamento
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flavio-propoe-fim-do-regime-de-partilha-do-petroleo-e-detalha-programa-contra-endividamento.ghtml)_
 
+- **[2026-09-24 07:00 UTC]** Quaest em MG: 41% temem volta da família Bolsonaro, e 40% temem mais um mandato de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/24/quaest-em-mg-41percent-temem-volta-da-familia-bolsonaro-e-40percent-temem-mais-um-mandato-de-lula.ghtml)_
+
