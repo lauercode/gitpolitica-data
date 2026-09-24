@@ -2243,3 +2243,6 @@
 - **[2026-09-24 22:20 UTC]** Quaest em SC: Flávio Bolsonaro, 50%; Lula, 23%; Augusto Cury, 5%; Renan, 3%; Caiado, 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-presidente-24-setembro.ghtml)_
 
+- **[2026-09-24 22:14 UTC]** Quaest no AM: Lula, 38%; Flávio Bolsonaro, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-presidente-24-setembro.ghtml)_
+
