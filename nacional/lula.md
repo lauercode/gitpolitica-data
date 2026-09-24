@@ -1004,3 +1004,6 @@
 - **[2026-09-24 00:47 UTC]** Lula compara discurso na ONU ao de Trump e diz que presidente dos EUA fala como se estivesse 'ameaçando todo mundo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/lula-compara-discurso-na-onu-ao-de-trump-e-diz-que-presidente-dos-eua-fala-como-se-estivesse-ameacando-todo-mundo.ghtml)_
 
+- **[2026-09-23 21:50 UTC]** Avanço de Flávio Bolsonaro faz Lula reavaliar estratégia, e presidente deve ir a debate da Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml)_
+
