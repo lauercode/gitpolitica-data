@@ -446,3 +446,6 @@
 - **[2026-09-24 15:50 UTC]** Na despedida, Zezé Di Camargo relembra início da carreira de Rick e ajuda a amigo: 'Quem fez o sucesso dele foi ele'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/na-despedida-zeze-di-camargo-relembra-inicio-da-carreira-de-rick-e-ajuda-a-amigo-quem-fez-o-sucesso-dele-foi-ele.ghtml)_
 
+- **[2026-09-24 15:05 UTC]** Marrone, da dupla com Bruno, lamenta morte de Rick e lembra de acidente de helicóptero que sofreu: 'Já passei por isso em minha vida'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/marrone-velorio-rick-em-sorocaba.ghtml)_
+
