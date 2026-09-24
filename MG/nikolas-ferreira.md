@@ -35,3 +35,6 @@
 - **[2026-09-10 08:00 UTC]** É #FAKE foto de relatório da PF dizendo não ver crime em conversas de Nikolas Ferreira com Vorcaro; imagem foi criada com IA
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/10/e-fake-foto-de-relatorio-da-pf-dizendo-nao-ver-crime-em-conversas-de-nikolas-ferreira-com-vorcaro-imagem-foi-criada-com-ia.ghtml)_
 
+- **[2026-09-24 22:20 UTC]** Flávio Bolsonaro faz evento em Teófilo Otoni com Nikolas Ferreira
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flvio-bolsonaro-faz-evento-em-tefilo-otoni-com-nikolas-ferreira.ghtml)_
+
