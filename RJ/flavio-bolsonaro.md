@@ -2180,3 +2180,6 @@
 - **[2026-09-24 15:18 UTC]** Trama golpista: defesa de Bolsonaro desiste de suspensão da pena
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/trama-golpista-defesa-de-bolsonaro-desiste-de-suspensao-da-pena)_
 
+- **[2026-09-24 17:11 UTC]** FOTOS: veja como é avião de Vorcaro usado por Flávio Bolsonaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/fotos-veja-como-e-aviao-de-vorcaro-usado-por-flavio-bolsonaro-e-moraes.ghtml)_
+
