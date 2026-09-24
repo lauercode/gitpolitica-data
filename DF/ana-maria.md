@@ -14,3 +14,6 @@
 - **[2026-09-23 17:48 UTC]** Áudio vaza durante programa de Ana Maria Braga e viraliza nas redes: 'Adora uma palhaçada'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/audio-vaza-durante-programa-de-ana-maria-braga-e-viraliza-nas-redes-adora-uma-palhacada.shtml)_
 
+- **[2026-09-24 12:15 UTC]** Flup 2026 celebra mulheres negras com Ana Maria Gonçalves e Djamila Ribeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/flup-2026-celebra-as-mulheres-negras-com-ana-maria-goncalves-e-djamila-ribeiro.shtml)_
+
