@@ -71,3 +71,6 @@
 - **[2026-09-22 03:48 UTC]** Jorginho Mello reassume governo de SC após chuvas e tsunami meteorológico atingirem o estado
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/jorginho-mello-reassume-governo-de-sc-apos-chuvas-e-tsunami-meteorologico-atingirem-o-estado.ghtml)_
 
+- **[2026-09-24 22:15 UTC]** Quaest em SC: 73% aprovam e 17% desaprovam governo de Jorginho Mello
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-avaliacao-governo-24-setembro.ghtml)_
+
