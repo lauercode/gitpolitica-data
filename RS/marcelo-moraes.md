@@ -2699,3 +2699,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-24 00:45 UTC]** Falhas de Moraes permitem a Fachin arquivar acusações contra Mendonça no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/falhas-de-moraes-permitem-a-fachin-arquivar-acusacoes-contra-mendonca-no-stf/)_
 
+- **[2026-09-24 04:51 UTC]** Flávio Bolsonaro voltou dos EUA com a família e advogado em jato de Vorcaro que foi usado por Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/flvio-bolsonaro-viajou-dos-eua-ao-brasil-em-2025-em-jato-de-vorcaro-diz-revista.ghtml)_
+
