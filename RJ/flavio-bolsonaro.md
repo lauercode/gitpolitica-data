@@ -2234,3 +2234,6 @@
 - **[2026-09-24 22:27 UTC]** Quaest em Sergipe: Lula, 54%; Flávio Bolsonaro, 26%
   _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-presidente-24-setembro.ghtml)_
 
+- **[2026-09-24 22:22 UTC]** Quaest no RS: Flávio Bolsonaro, 35%; Lula, 31%
+  _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/24/quaest-rs-presidente-24-setembro.ghtml)_
+
