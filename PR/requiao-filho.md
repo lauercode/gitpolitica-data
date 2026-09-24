@@ -77,3 +77,6 @@
 - **[2026-09-24 12:40 UTC]** Quaest: Moro segue na liderança no Paraná, com 36%; Requião Filho e Sandro Alex estão empatados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-moro-segue-na-lideranca-no-parana-com-36-requiao-filho-e-sandro-alex-estao-empatados.shtml)_
 
+- **[2026-09-24 12:32 UTC]** Eleições 2026 no Paraná: Requião Filho concentra agenda entre entrevistas, sabatina e reuniões
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-no-parana-requiao-filho-entrevistas-sabatina-e-reunioes.ghtml)_
+
