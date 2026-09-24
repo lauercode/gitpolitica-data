@@ -470,3 +470,6 @@
 - **[2026-09-24 20:08 UTC]** Renner deixa enterro do parceiro Rick e acena para fãs na saída do cemitério em Sorocaba, SP
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/renner-deixa-enterro-do-parceiro-rick-e-acena-para-fas-na-saida-do-cemiterio-em-sorocaba-sp.ghtml)_
 
+- **[2026-09-24 19:12 UTC]** Rick é enterrado em cerimônia restrita para amigos e família em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/rick-enterro-sorocaba.ghtml)_
+
