@@ -59,3 +59,6 @@
 - **[2026-09-24 16:07 UTC]** Justiça eleitoral manda Deltan Dallagnol desativar Instagram ou remover propaganda da rede social
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/justica-eleitoral-manda-deltan-dallagnol-desativar-instagram-ou-remover-propaganda-da-rede-social.shtml)_
 
+- **[2026-09-24 19:56 UTC]** TRE-PR manda Deltan Dallagnol desativar Instagram ou remover propaganda
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tre-pr-manda-deltan-dallagnol-desativar-instagram-ou-remover-propaganda/)_
+
