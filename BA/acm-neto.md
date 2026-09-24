@@ -44,3 +44,6 @@
 - **[2026-09-24 22:16 UTC]** Quaest na BA: ACM Neto, 42%; Jerônimo Rodrigues, 40%
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-ba-governador-24-setembro.ghtml)_
 
+- **[2026-09-24 19:26 UTC]** Quaest: ACM Neto e Jerônimo seguem em empate técnico na Bahia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-acm-neto-e-jeronimo-seguem-em-empate-tecnico-na-bahia.shtml)_
+
