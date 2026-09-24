@@ -14,3 +14,6 @@
 - **[2026-09-11 23:20 UTC]** Companhia de dança apresenta músicas de Roberto Carlos e espetáculo infantil no Mormaço
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/companhia-de-danca-apresenta-musicas-de-roberto-carlos-e-espetaculo-infantil-no-mormaco.ghtml)_
 
+- **[2026-09-24 19:35 UTC]** Roberto Carlos faz show no Acre pela 1ª vez; VEJA valores e como comprar ingressos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/24/roberto-carlos-faz-show-no-acre-pela-1a-vez-veja-valores-e-como-comprar-ingressos.ghtml)_
+
