@@ -2171,3 +2171,6 @@
 - **[2026-09-24 16:11 UTC]** Defesa de Bolsonaro recua e desiste de pedir suspensão de sua pena ao STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/defesa-de-bolsonaro-recua-e-desiste-de-pedir-suspenso-de-sua-pena-ao-stf.ghtml)_
 
+- **[2026-09-24 15:44 UTC]** Bolsonaro pede suspensão de pena a Nunes Marques enquanto aguarda revisão da condenação no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/bolsonaro-pede-suspenso-de-pena-a-nunes-marques-enquanto-aguarda-reviso-da-condenao-no-stf.ghtml)_
+
