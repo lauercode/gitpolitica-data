@@ -2195,3 +2195,6 @@
 - **[2026-09-24 19:04 UTC]** Flávio Bolsonaro tentou ligar para Vorcaro nos 4 dias antes da prisão do banqueiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tentou-ligar-vorcaro-4-dias-antes-prisao-banqueiro/)_
 
+- **[2026-09-24 18:22 UTC]** Lula ataca Flávio Bolsonaro e diz que “não cabe miliciano” no Palácio do Planalto
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ataca-flavio-bolsonaro-nao-cabe-miliciano-palacio-do-planalto/)_
+
