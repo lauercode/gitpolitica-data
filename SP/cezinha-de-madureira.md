@@ -71,3 +71,6 @@
 - **[2026-09-14 17:21 UTC]** Ex-esposa de Cezinha de Madureira negociou R$ 2 milhões por êxito em processo no STF, aponta PF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/esposa-de-cezinha-de-madureira-negociou-r-2-milhoes-por-exito-em-processo-no-stf-aponta-pf.ghtml)_
 
+- **[2026-09-23 19:24 UTC]** Cezinha de Madureira fez contrato para comprar 4% de instituto de André Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/cezinha-de-madureira-fez-contrato-para-comprar-4-de-instituto-de-andre-mendonca.shtml)_
+
