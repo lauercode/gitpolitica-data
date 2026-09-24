@@ -140,3 +140,6 @@
 - **[2026-09-23 16:51 UTC]** Entenda o que liga Alexandre Pires à investigação da PF sobre venda ilegal de cassiterita da Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/23/entenda-o-que-liga-alexandre-pires-a-investigacao-da-pf-sobre-venda-ilegal-de-cassiterita-da-terra-yanomami.ghtml)_
 
+- **[2026-09-24 19:15 UTC]** Google e SpaceX estão testando IA em órbita; rede elétrica na Terra não consegue acompanhar
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/09/24/google-e-spacex-estao-testando-ia-em-orbita-rede-eletrica-na-terra-nao-consegue-acompanhar.ghtml)_
+
