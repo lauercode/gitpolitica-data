@@ -2219,3 +2219,6 @@
 - **[2026-09-24 17:40 UTC]** Em ato no Rio, Lula associa Flávio a milícia, escândalos do INSS e Banco Master
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/em-ato-no-rio-lula-associa-flavio-a-milicia-escandalos-do-inss-e-banco-master.ghtml)_
 
+- **[2026-09-24 17:22 UTC]** Na TV, Flávio diz que Lula é 'pai do tigrinho' e petista associa senador ao crime organizado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/na-tv-flvio-diz-que-lula-pai-do-tigrinho-e-petista-associa-senador-ao-crime-organizado.ghtml)_
+
