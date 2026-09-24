@@ -2273,3 +2273,6 @@
 - **[2026-09-24 23:00 UTC]** The Economist chama Lula de “esquerdista caduco” e Flávio de “nepo baby”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/the-economist-chama-lula-de-esquerdista-caduco-e-flavio-de-nepo-baby/)_
 
+- **[2026-09-24 22:53 UTC]** Campanha de Flávio Bolsonaro aciona TSE e acusa Lula de fazer promoção eleitoral em eventos oficiais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/campanha-de-flavio-bolsonaro-aciona-tse-e-acusa-lula-de-fazer-promocao-eleitoral-em-eventos-oficiais.ghtml)_
+
