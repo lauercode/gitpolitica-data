@@ -464,3 +464,6 @@
 - **[2026-09-24 09:16 UTC]** Em cerimônia fechada, corpo do cantor Rick é velado e sepultado nesta quinta-feira em Sorocaba, SP
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/em-cerimonia-fechada-corpo-do-cantor-rick-sera-velado-e-sepultado-nesta-quinta-feira-em-sorocaba-sp.ghtml)_
 
+- **[2026-09-24 12:54 UTC]** 'Meu Tocantins': conheça música escrita por Rick em homenagem ao estado natal
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/24/meu-tocantins-conheca-musica-escrita-por-rick-em-homenagem-ao-estado-natal.ghtml)_
+
