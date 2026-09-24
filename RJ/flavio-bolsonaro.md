@@ -2075,3 +2075,6 @@
 - **[2026-09-24 03:00 UTC]** Quaest no DF: 46% temem novo mandato de Lula, e 39%, volta da família Bolsonaro ao poder
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/24/quaest-no-df-46percent-temem-novo-mandato-de-lula-e-39percent-volta-da-familia-bolsonaro-ao-poder.ghtml)_
 
+- **[2026-09-24 00:11 UTC]** Flávio Bolsonaro viajou dos EUA ao Brasil em 2025 em jato de Vorcaro, diz revista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-viajou-dos-eua-ao-brasil-em-2025-em-jato-de-vorcaro-diz-revista.shtml)_
+
