@@ -2252,3 +2252,6 @@
 - **[2026-09-24 21:48 UTC]** Datafolha: Lula e Flávio Bolsonaro empatam na rejeição, com 45% cada um
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-rejeicao-lula-flavio-24-setembro.ghtml)_
 
+- **[2026-09-24 21:41 UTC]** Datafolha, 2º turno: Lula, 47%; Flávio Bolsonaro, 45%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-segundo-turno-24-setembro.ghtml)_
+
