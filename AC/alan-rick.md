@@ -419,3 +419,6 @@
 - **[2026-09-23 23:12 UTC]** Caixa-preta de helicóptero que caiu e causou morte de cantor Rick e mais 4 é localizada
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/caixa-preta-helicoptero-caiu-morte-rick-localizada.ghtml)_
 
+- **[2026-09-23 21:19 UTC]** Cenipa recupera caixa-preta de helicóptero que levava cantor Rick
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cenipa-recupera-caixa-preta-de-helicoptero-que-levava-cantor-rick)_
+
