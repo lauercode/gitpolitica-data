@@ -2186,3 +2186,6 @@
 - **[2026-09-24 17:11 UTC]** Quaest no Paraná: Flávio, 40%; Lula, 26%; Cury, 5%; Caiado, 4%; Renan, 4%; e Zema, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-parana-presidente-24-setembro.ghtml)_
 
+- **[2026-09-24 15:04 UTC]** Nunes diz que não se ofendeu por Flávio ter sugerido que ele seja atendido em hospital veterinário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/nunes-diz-que-nao-se-ofendeu-por-flavio-ter-sugerido-que-seja-atendido-por-hospital-veterinario.shtml)_
+
