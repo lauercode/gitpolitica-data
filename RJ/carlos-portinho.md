@@ -14,3 +14,6 @@
 - **[2026-09-11 20:12 UTC]** Datafolha para o Senado no RJ: Benedita, 18%; Carlos Jordy, 10%; Carlos Portinho, 10%; Pedro Paulo, 7%; Marcelo Crivella, 7%; Mônica Benício, 6%
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/11/datafolha-no-rj-senado-11-setembro.ghtml)_
 
+- **[2026-09-24 08:00 UTC]** Portinho prega anistia e defende reforma do STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/portinho-prega-anistia-e-defende-reforma-do-stf.ghtml)_
+
