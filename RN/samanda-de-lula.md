@@ -32,3 +32,6 @@
 - **[2026-09-21 12:31 UTC]** Lula encontra senador e prefeito de Nova York socialistas em viagem aos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-encontra-senador-prefeito-nova-york-socialistas-viagem-eua/)_
 
+- **[2026-09-24 18:32 UTC]** Viagem de Flávio em jato de Vorcaro é aposta da campanha de Lula para reforçar ligação do senador com ex-banqueiro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/viagem-de-flvio-em-jato-de-vorcaro-aposta-da-campanha-de-lula-para-reforar-ligao-do-senador-com-ex-banqueiro.ghtml)_
+
