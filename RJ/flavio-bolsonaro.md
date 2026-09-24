@@ -2183,3 +2183,6 @@
 - **[2026-09-24 17:11 UTC]** FOTOS: veja como é avião de Vorcaro usado por Flávio Bolsonaro e Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/fotos-veja-como-e-aviao-de-vorcaro-usado-por-flavio-bolsonaro-e-moraes.ghtml)_
 
+- **[2026-09-24 17:11 UTC]** Quaest no Paraná: Flávio, 40%; Lula, 26%; Cury, 5%; Caiado, 4%; Renan, 4%; e Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-parana-presidente-24-setembro.ghtml)_
+
