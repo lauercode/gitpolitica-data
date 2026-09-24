@@ -2237,3 +2237,6 @@
 - **[2026-09-24 22:22 UTC]** Quaest no RS: Flávio Bolsonaro, 35%; Lula, 31%
   _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/24/quaest-rs-presidente-24-setembro.ghtml)_
 
+- **[2026-09-24 22:22 UTC]** Quaest no Amapá: Lula, 42%; Flávio Bolsonaro, 35%
+  _fonte: [G1 - Política:](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/quaest-no-amapa-lula-42percent-flavio-bolsonaro-35percent.ghtml)_
+
