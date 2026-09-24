@@ -2102,3 +2102,6 @@
 - **[2026-09-24 04:51 UTC]** Flávio Bolsonaro voltou dos EUA com a família e advogado em jato de Vorcaro que foi usado por Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/flvio-bolsonaro-viajou-dos-eua-ao-brasil-em-2025-em-jato-de-vorcaro-diz-revista.ghtml)_
 
+- **[2026-09-24 12:59 UTC]** Flávio usou jatinho ligado a Vorcaro em viagem em 2025, diz revista
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-usou-jatinho-ligado-vorcaro-em-viagem-em-2025-diz-revista)_
+
