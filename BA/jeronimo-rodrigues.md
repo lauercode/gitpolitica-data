@@ -14,3 +14,6 @@
 - **[2026-09-13 23:00 UTC]** Contas da Bahia pioram sob Jerônimo Rodrigues (PT), mas investimentos aumentam
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/contas-da-bahia-pioram-sob-jeronimo-rodrigues-pt-mas-investimentos-aumentam.shtml)_
 
+- **[2026-09-24 22:16 UTC]** Quaest na BA: 56% aprovam governo de Jerônimo Rodrigues, e 35% desaprovam
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-ba-avaliacao-governo-24-setembro.ghtml)_
+
