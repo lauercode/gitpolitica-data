@@ -35,3 +35,6 @@
 - **[2026-09-24 21:11 UTC]** Datafolha para o Senado em SP:  Marina Silva, 15%; Simone Tebet, 14%, Derrite, 12%; André do Prado, 12%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/24/senado-sp-senado-24-setembro.ghtml)_
 
+- **[2026-09-24 18:25 UTC]** Datafolha: Marina, Tebet, André do Prado e Derrite mantêm empate na disputa pelo Senado em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-marina-tebet-andre-do-prado-e-derrite-mantem-empate-na-disputa-pelo-senado-em-sp.shtml)_
+
