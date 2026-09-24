@@ -2207,3 +2207,6 @@
 - **[2026-09-24 19:55 UTC]** Bastidores: Aliados de Flávio minimizam efeitos de novas revelações sobre Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/bastidores-aliados-de-flavio-minimizam-efeitos-de-novas-revelacoes-sobre-vorcaro.ghtml)_
 
+- **[2026-09-24 19:09 UTC]** Quaest: No Ceará, Lula tem 54% e Flávio, 23% no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/quaest-no-ceara-lula-tem-54percent-e-flavio-23percent-no-primeiro-turno.ghtml)_
+
