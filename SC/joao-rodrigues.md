@@ -68,3 +68,6 @@
 - **[2026-09-18 22:27 UTC]** Eleições 2026 em SC: João Rodrigues reúne com integrantes da Fiesc e firma compromisso de não aumentar impostos
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-em-sc-joao-rodrigues-reune-com-integrantes-da-fiesc-e-firma-compromisso-de-nao-aumentar-impostos.ghtml)_
 
+- **[2026-09-24 22:08 UTC]** Quaest em SC: Jorginho Mello, 54%; João Rodrigues, 13%; Gelson Merísio, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-governador-24-setembro.ghtml)_
+
