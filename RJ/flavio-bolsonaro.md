@@ -2057,3 +2057,6 @@
 - **[2026-09-23 22:35 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 35%; Ronaldo Caiado, 7%; Augusto Cury, 4%; Renan Santos; 2%
   _fonte: [G1 - Política:](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/23/quaest-to-presidente-23-setembro.ghtml)_
 
+- **[2026-09-23 21:49 UTC]** Flávio Bolsonaro apresenta notícia-crime sobre Lula por mensagens de advogado a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-noticia-crime-lula-vorcaro.ghtml)_
+
