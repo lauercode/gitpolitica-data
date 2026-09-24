@@ -236,3 +236,6 @@
 - **[2026-09-23 18:56 UTC]** Fux dá 10 dias para Alcolumbre se manifestar sobre visitas de citados no Master ao Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-da-10-dias-para-alcolumbre-se-manifestar-sobre-visitas-de-citados-no-master-ao-senado/)_
 
+- **[2026-09-23 19:14 UTC]** Davi Alcolumbre tem 10 dias para se manifestar sobre visitas ao Senado
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/davi-alcolumbre-tem-10-dias-para-se-manifestar-sobre-visitas-ao-senado)_
+
