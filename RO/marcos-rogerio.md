@@ -56,3 +56,6 @@
 - **[2026-09-24 22:29 UTC]** Quaest em RO: Marcos Rogério, 37%; Adailton Furia, 21%; Hildon Chaves, 9%; Expedito Netto, 6%
   _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-governador-24-de-setembro.ghtml)_
 
+- **[2026-09-24 20:09 UTC]** Quaest: Marcos Rogério lidera disputa em Rondônia com 37%, ante 21% de Adailton Fúria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-marcos-rogerio-lidera-disputa-em-rondonia-com-37-ante-21-de-adailton-furia.shtml)_
+
