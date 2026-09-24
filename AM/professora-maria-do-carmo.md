@@ -71,3 +71,6 @@
 - **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
   _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
 
+- **[2026-09-24 20:18 UTC]** Eleições 2026: Professora Maria do Carmo propõe atuação conjunta entre forças de segurança e judiciário
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-professora-maria-do-carmo-propoe-atuacao-conjunta-entre-forcas-de-seguranca-e-judiciario.ghtml)_
+
