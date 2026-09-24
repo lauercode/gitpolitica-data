@@ -80,3 +80,6 @@
 - **[2026-09-24 12:27 UTC]** Kalil vincula dono do Banco Master ao governo de MG, ataca Cleitinho e promete corte radical de isenções
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/alexandre-kalil-participa-da-serie-de-sabatinas-do-valor-o-globo-e-cbn-com-os-candidatos-ao-governo-de-minas-acompanhe.ghtml)_
 
+- **[2026-09-24 18:11 UTC]** Datafolha: Cleitinho vai a 40% em MG no 1º turno, ante 15% de Patrus e 9% de Kalil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-cleitinho-vai-a-40-em-mg-no-1o-turno-ante-15-de-patrus-e-9-de-kalil.shtml)_
+
