@@ -35,3 +35,6 @@
 - **[2026-09-24 22:24 UTC]** Quaest em SE: Fábio, 43%; Valmir de Francisquinho, 34%
   _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-governador-24-setembro.ghtml)_
 
+- **[2026-09-24 19:44 UTC]** Quaest: Fábio Mitidieri lidera com 43%, e Valmir de Francisquinho tem 34% em Sergipe
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-fabio-mitidieri-lidera-com-43-e-valmir-de-francisquinho-tem-34-em-sergipe.shtml)_
+
