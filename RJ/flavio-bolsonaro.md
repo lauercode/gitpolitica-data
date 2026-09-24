@@ -2087,3 +2087,6 @@
 - **[2026-09-24 02:54 UTC]** Campanhas de Lula e Renan vão à Justiça contra Flávio por suposta interferência dos EUA na eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanhas-de-lula-e-renan-vao-a-justica-contra-flavio-por-suposta-interferencia-dos-eua-na-eleicao/)_
 
+- **[2026-09-24 01:41 UTC]** Flávio propõe fim do regime de partilha do petróleo e detalha programa contra endividamento
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flavio-propoe-fim-do-regime-de-partilha-do-petroleo-e-detalha-programa-contra-endividamento.ghtml)_
+
