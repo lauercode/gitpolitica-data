@@ -32,3 +32,6 @@
 - **[2026-09-24 22:27 UTC]** Quaest em GO: Daniel Vilela, 42%; Marconi Perillo, 19%; Wilder Morais, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-em-go-governador-24-setembro.ghtml)_
 
+- **[2026-09-24 19:53 UTC]** Quaest: Daniel Vilela segue na liderança da disputa ao Governo de Goiás
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-daniel-vilela-segue-na-lideranca-da-disputa-ao-governo-de-goias.shtml)_
+
