@@ -2129,3 +2129,6 @@
 - **[2026-09-24 13:42 UTC]** Pedido de suspensão de pena de Bolsonaro racha equipe de defesa, e advogado deixa o caso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pedido-de-suspensao-de-pena-de-bolsonaro-racha-equipe-de-defesa-e-advogado-deixa-o-caso.shtml)_
 
+- **[2026-09-24 12:09 UTC]** Campanha de Flávio aciona TSE contra Lula e Alckmin por uso da máquina pública
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-aciona-tse-contra-lula-e-alckmin-por-uso-da-maquina-publica.shtml)_
+
