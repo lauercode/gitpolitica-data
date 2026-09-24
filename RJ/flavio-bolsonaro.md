@@ -2264,3 +2264,6 @@
 - **[2026-09-24 18:37 UTC]** Datafolha: Lula tem 40% e Flávio Bolsonaro, 36% em 1º turno; rivais empatam em 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-40-e-flavio-bolsonaro-36-em-1o-turno-rivais-empatam-em-2o-turno.shtml)_
 
+- **[2026-09-24 18:30 UTC]** PP de SP articula apoio do partido a Flávio no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pp-de-sp-articula-apoio-do-partido-a-flavio-no-segundo-turno.shtml)_
+
