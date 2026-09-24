@@ -17,3 +17,6 @@
 - **[2026-09-24 23:01 UTC]** VÍDEO: Esposa e apoiadores de Jalser Renier oram e cantam 'Aquilo que parecia impossível' em frente à PF após prisão em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/24/video-esposa-e-apoiadores-de-jalser-renier-oram-e-cantam-aquilo-que-parecia-impossivel-em-frente-a-pf-apos-prisao-em-boa-vista.ghtml)_
 
+- **[2026-09-24 21:39 UTC]** Jalser Renier é preso pela PF por suspeita de compra de votos e associação criminosa em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/24/jalser-renier-preso-pf-crime-eleitoral-boa-vista-2026.ghtml)_
+
