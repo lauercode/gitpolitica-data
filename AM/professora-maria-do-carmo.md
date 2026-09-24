@@ -65,3 +65,6 @@
 - **[2026-09-22 21:13 UTC]** Eleições 2026: Professora Maria do Carmo promete manter benefícios sociais e investir na agricultura familiar contra a pobreza
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-professora-maria-do-carmo-promete-manter-beneficios-sociais-e-investir-na-agricultura-familiar-contra-a-pobreza.ghtml)_
 
+- **[2026-09-24 00:54 UTC]** Eleições 2026: Professora Maria do Carmo promete investir no turismo para gerar renda no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-professora-maria-do-carmo-promete-investir-no-turismo-para-gerar-renda-no-amazonas.ghtml)_
+
