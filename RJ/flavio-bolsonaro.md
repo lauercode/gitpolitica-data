@@ -2270,3 +2270,6 @@
 - **[2026-09-24 18:02 UTC]** Deputado do PT pede que STF apure viagem de Flávio em jato ligado a Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/deputado-do-pt-pede-que-stf-apure-viagem-de-flavio-em-jato-ligado-a-vorcaro.shtml)_
 
+- **[2026-09-24 23:00 UTC]** The Economist chama Lula de “esquerdista caduco” e Flávio de “nepo baby”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/the-economist-chama-lula-de-esquerdista-caduco-e-flavio-de-nepo-baby/)_
+
