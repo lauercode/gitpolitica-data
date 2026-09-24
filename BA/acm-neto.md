@@ -41,3 +41,6 @@
 - **[2026-09-21 18:07 UTC]** PF identifica 232 chamadas entre ACM Neto e o ‘Rei do Lixo’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/pf-identifica-232-chamadas-entre-acm-neto-e-jos-marcos-de-moura-indiciado-por-fraudes.ghtml)_
 
+- **[2026-09-24 22:16 UTC]** Quaest na BA: ACM Neto, 42%; Jerônimo Rodrigues, 40%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-ba-governador-24-setembro.ghtml)_
+
