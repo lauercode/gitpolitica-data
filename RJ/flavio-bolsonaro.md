@@ -2276,3 +2276,6 @@
 - **[2026-09-24 22:53 UTC]** Campanha de Flávio Bolsonaro aciona TSE e acusa Lula de fazer promoção eleitoral em eventos oficiais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/campanha-de-flavio-bolsonaro-aciona-tse-e-acusa-lula-de-fazer-promocao-eleitoral-em-eventos-oficiais.ghtml)_
 
+- **[2026-09-24 22:20 UTC]** Flávio Bolsonaro faz evento em Teófilo Otoni com Nikolas Ferreira
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flvio-bolsonaro-faz-evento-em-tefilo-otoni-com-nikolas-ferreira.ghtml)_
+
