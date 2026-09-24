@@ -440,3 +440,6 @@
 - **[2026-09-24 10:05 UTC]** FAB encontra caixa-preta de helicóptero que caiu em Santa Catarina e matou o cantor Rick e outros 4
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/fab-encontra-caixa-preta-de-helicoptero-que-caiu-em-sc-e-matou-o-cantor-rick-e-outros-4.shtml)_
 
+- **[2026-09-24 09:28 UTC]** Velório de Rick, da dupla com Renner, tem presença de Zezé Di Camargo e sertanejos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/corpo-de-rick-da-dupla-com-renner-comeca-a-ser-velado-em-sorocaba-em-sao-paulo.shtml)_
+
