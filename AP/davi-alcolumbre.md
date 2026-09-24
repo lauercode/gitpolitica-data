@@ -239,3 +239,6 @@
 - **[2026-09-23 19:14 UTC]** Davi Alcolumbre tem 10 dias para se manifestar sobre visitas ao Senado
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/davi-alcolumbre-tem-10-dias-para-se-manifestar-sobre-visitas-ao-senado)_
 
+- **[2026-09-24 04:00 UTC]** Flávio Bolsonaro procura União-PP, que avalia apoio no 2º turno com garantia para Alcolumbre no Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-procura-uniao-pp-que-avalia-apoio-no-2o-turno-com-garantia-para-alcolumbre-no-senado.shtml)_
+
