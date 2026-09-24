@@ -35,3 +35,6 @@
 - **[2026-09-24 18:32 UTC]** Viagem de Flávio em jato de Vorcaro é aposta da campanha de Lula para reforçar ligação do senador com ex-banqueiro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/viagem-de-flvio-em-jato-de-vorcaro-aposta-da-campanha-de-lula-para-reforar-ligao-do-senador-com-ex-banqueiro.ghtml)_
 
+- **[2026-09-24 17:22 UTC]** Na TV, Flávio diz que Lula é 'pai do tigrinho' e petista associa senador ao crime organizado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/na-tv-flvio-diz-que-lula-pai-do-tigrinho-e-petista-associa-senador-ao-crime-organizado.ghtml)_
+
