@@ -2144,3 +2144,6 @@
 - **[2026-09-24 08:56 UTC]** TSE manda Instagram retirar vídeo que associa Flávio Bolsonaro ao Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-manda-instagram-retirar-video-que-associa-flavio-bolsonaro-ao-master.shtml)_
 
+- **[2026-09-24 07:14 UTC]** Nova fase da Carbono Oculto mira executivo ligado ao Master e a financiamento de filme de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/executivo-do-banco-genial-e-alvo-de-3a-fase-da-operacao-carbono-oculto.shtml)_
+
