@@ -431,3 +431,6 @@
 - **[2026-09-24 07:00 UTC]** Rick teve passagem rápida pelo governo do TO e escreveu carta ao deixar o cargo; relembre
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/24/rick-teve-passagem-rapida-pelo-governo-do-to-e-escreveu-carta-ao-deixar-o-cargo.ghtml)_
 
+- **[2026-09-24 09:16 UTC]** Em cerimônia fechada, corpo do cantor Rick será velado e sepultado nesta quinta-feira em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/em-cerimonia-fechada-corpo-do-cantor-rick-sera-velado-e-sepultado-nesta-quinta-feira-em-sorocaba-sp.ghtml)_
+
