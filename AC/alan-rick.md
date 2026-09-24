@@ -467,3 +467,6 @@
 - **[2026-09-24 12:54 UTC]** 'Meu Tocantins': conheça música escrita por Rick em homenagem ao estado natal
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/24/meu-tocantins-conheca-musica-escrita-por-rick-em-homenagem-ao-estado-natal.ghtml)_
 
+- **[2026-09-24 20:08 UTC]** Renner deixa enterro do parceiro Rick e acena para fãs na saída do cemitério em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/renner-deixa-enterro-do-parceiro-rick-e-acena-para-fas-na-saida-do-cemiterio-em-sorocaba-sp.ghtml)_
+
