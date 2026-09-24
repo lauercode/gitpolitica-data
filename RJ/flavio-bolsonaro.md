@@ -2279,3 +2279,6 @@
 - **[2026-09-24 22:20 UTC]** Flávio Bolsonaro faz evento em Teófilo Otoni com Nikolas Ferreira
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flvio-bolsonaro-faz-evento-em-tefilo-otoni-com-nikolas-ferreira.ghtml)_
 
+- **[2026-09-24 21:43 UTC]** Datafolha: Lula tem 47% e Flávio, 45% no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-lula-tem-40percent-e-flavio-36percent-das-intencoes-de-voto-no-primeiro-turno.ghtml)_
+
