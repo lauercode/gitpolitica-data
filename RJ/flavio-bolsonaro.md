@@ -2066,3 +2066,6 @@
 - **[2026-09-23 19:36 UTC]** Flávio Bolsonaro, investigado no caso 'Dark Horse', pede que Mendonça apure relação entre Lula e Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-investigado-no-caso-dark-horse-pede-que-mendonca-apure-relacao-entre-lula-e-vorcaro.shtml)_
 
+- **[2026-09-23 23:55 UTC]** PT pede ao STF investigação sobre possível interferência estrangeira nas eleições para favorecer Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/pt-pede-ao-stf-investigao-sobre-possvel-interferncia-estrangeira-nas-eleies-para-favorecer-flvio.ghtml)_
+
