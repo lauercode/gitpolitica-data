@@ -71,3 +71,6 @@
 - **[2026-09-24 18:06 UTC]** Datafolha: Tarcísio tem 50%, contra 30% de Haddad, e poderia vencer em 1º turno em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-tarcisio-tem-50-contra-30-de-haddad-e-poderia-vencer-em-1o-turno-em-sp.shtml)_
 
+- **[2026-09-24 21:33 UTC]** Datafolha: Em SP, Tarcísio tem 50% das intenções de voto, contra 30% de Haddad, e pode vencer em 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-em-sp-tarcsio-tem-50-pontos-percentuais-das-intenes-de-voto-contra-30-de-haddad-e-pode-vencer-em-1-turno.ghtml)_
+
