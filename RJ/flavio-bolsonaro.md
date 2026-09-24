@@ -2150,3 +2150,6 @@
 - **[2026-09-24 16:24 UTC]** Defesa de Bolsonaro desiste de pedir suspensão da pena de prisão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-bolsonaro-desiste-pedir-suspensao-pena-de-prisao/)_
 
+- **[2026-09-24 14:49 UTC]** Foto de Bolsonaro pode ser usada em campanha? Entenda a disputa na Justiça Eleitoral
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/foto-de-bolsonaro-pode-ser-usada-em-campanha-entenda-disputa-justica-eleitoral/)_
+
