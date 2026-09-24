@@ -1013,3 +1013,6 @@
 - **[2026-09-24 14:35 UTC]** Lula diz que ‘amigo de presidente é o povo, não é Vorcaro, dono do Banco Master’
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/lula-diz-que-amigo-de-presidente-e-o-povo-nao-e-vorcaro-dono-do-banco-master.ghtml)_
 
+- **[2026-09-24 16:25 UTC]** Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss)_
+
