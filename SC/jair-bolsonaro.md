@@ -41,3 +41,6 @@
 - **[2026-09-16 22:19 UTC]** TSE proíbe uso da imagem de Jair Bolsonaro em santinhos de candidatos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-proibe-uso-da-imagem-de-jair-bolsonaro-em-santinhos-de-candidatos.shtml)_
 
+- **[2026-09-24 20:00 UTC]** Censuras da Justiça Eleitoral à imagem de Jair Bolsonaro ferem a liberdade de expressão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/censuras-da-justica-eleitoral-a-imagem-de-jair-bolsonaro-ferem-a-liberdade-de-expressao/)_
+
