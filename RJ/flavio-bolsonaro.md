@@ -2282,3 +2282,6 @@
 - **[2026-09-24 21:43 UTC]** Datafolha: Lula tem 47% e Flávio, 45% no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-lula-tem-40percent-e-flavio-36percent-das-intencoes-de-voto-no-primeiro-turno.ghtml)_
 
+- **[2026-09-24 21:23 UTC]** Flávio Bolsonaro tentou ligar para Vorcaro nos dias anteriores à prisão de ex-banqueiro, diz PF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/flvio-bolsonaro-tentou-ligar-para-vorcaro-quatro-dias-antes-da-priso-de-ex-banqueiro-diz-pf.ghtml)_
+
