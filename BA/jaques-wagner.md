@@ -59,3 +59,6 @@
 - **[2026-09-23 18:16 UTC]** Simulador do WhatsApp de Vorcaro volta ao ar após coligação de Jaques Wagner desistir da ação
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/simulador-do-whatsapp-de-vorcaro-volta-ao-ar-apos-coligacao-de-jaques-wagner-desistir-de-acao/)_
 
+- **[2026-09-24 22:15 UTC]** Quaest para o Senado na BA: Rui Costa, 23%; Jaques Wagner, 17%; João Roma, 11%; Angelo Coronel, 9%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-bahia-senado-24-setembro.ghtml)_
+
