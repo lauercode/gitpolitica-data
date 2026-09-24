@@ -1055,3 +1055,6 @@ direitos
 - **[2026-09-23 18:38 UTC]** Câmara de SP aprova em 1º turno projeto para proibir propaganda de bets em eventos esportivos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-de-sp-aprova-projeto-para-proibir-propaganda-de-bets-em-eventos-esportivos-na-cidade.shtml)_
 
+- **[2026-09-24 04:00 UTC]** Receita, BC e Câmara dos Deputados têm concursos previstos; veja vagas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/receita-bc-e-camara-dos-deputados-tem-concursos-previstos-veja-vagas.shtml)_
+
