@@ -53,3 +53,6 @@
 - **[2026-09-22 18:34 UTC]** Rogério Marinho propõe reforma judiciária para limitar poderes de ministros do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-propoe-reforma-judiciaria-para-limitar-poderes-de-ministros-do-stf/)_
 
+- **[2026-09-24 22:29 UTC]** Quaest em RO: Marcos Rogério, 37%; Adailton Furia, 21%; Hildon Chaves, 9%; Expedito Netto, 6%
+  _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-governador-24-de-setembro.ghtml)_
+
