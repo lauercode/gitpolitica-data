@@ -2231,3 +2231,6 @@
 - **[2026-09-24 22:36 UTC]** Quaest em GO: Flávio Bolsonaro, 33%; Lula, 27%; Ronaldo Caiado, 23%
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-em-go-presidente-24-setembro.ghtml)_
 
+- **[2026-09-24 22:27 UTC]** Quaest em Sergipe: Lula, 54%; Flávio Bolsonaro, 26%
+  _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-presidente-24-setembro.ghtml)_
+
