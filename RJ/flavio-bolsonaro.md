@@ -2063,3 +2063,6 @@
 - **[2026-09-23 20:54 UTC]** Na reta final de propaganda na TV, Flávio se diz alvo de ataques, e Lula mira governo Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/na-reta-final-de-propaganda-na-tv-flavio-se-diz-alvo-de-ataques-e-lula-mira-governo-bolsonaro.shtml)_
 
+- **[2026-09-23 19:36 UTC]** Flávio Bolsonaro, investigado no caso 'Dark Horse', pede que Mendonça apure relação entre Lula e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-investigado-no-caso-dark-horse-pede-que-mendonca-apure-relacao-entre-lula-e-vorcaro.shtml)_
+
