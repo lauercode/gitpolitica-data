@@ -14,3 +14,6 @@
 - **[2026-09-15 21:05 UTC]** Thor Dantas promete reduzir filas na saúde nos primeiros 100 dias e ‘pente fino’ em obras paralisadas; Veja plano
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/15/thor-dantas-promete-reduzir-filas-na-saude-nos-primeiros-100-dias-e-pente-fino-em-obras-paralisadas-veja-plano.ghtml)_
 
+- **[2026-09-24 10:00 UTC]** Thor Dantas disputa Governo do Acre com foco em habitação e retomada de investimentos em infraestrutura
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/24/thor-dantas-disputa-governo-do-acre-com-foco-em-habitacao-e-retomada-de-investimentos-em-infraestrutura.ghtml)_
+
