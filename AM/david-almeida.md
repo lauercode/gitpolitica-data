@@ -65,3 +65,6 @@
 - **[2026-09-23 14:36 UTC]** Eleições 2026: David Almeida apresenta proposta de avenida para ligar zonas Norte e Sul de Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-david-almeida-apresenta-proposta-de-avenida-para-ligar-zonas-norte-e-sul-de-manaus.ghtml)_
 
+- **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
+
