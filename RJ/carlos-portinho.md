@@ -17,3 +17,6 @@
 - **[2026-09-24 08:00 UTC]** Portinho prega anistia e defende reforma do STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/portinho-prega-anistia-e-defende-reforma-do-stf.ghtml)_
 
+- **[2026-09-24 22:05 UTC]** Datafolha: No Rio, Benedita lidera disputa para o Senado com 19%; Jordy  e Portinho têm 12% cada
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-no-rio-benedita-lidera-disputa-para-o-senado-com-19percent-jordy-e-portinho-tem-12percent-cada.ghtml)_
+
