@@ -77,3 +77,6 @@
 - **[2026-09-23 20:28 UTC]** Quaest: Em MG, Cleitinho tem 37%; Patrus tem 16% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quaest-em-mg-cleitinho-tem-37-pontos-percentuais-patrus-tem-16-no-primeiro-turno.ghtml)_
 
+- **[2026-09-24 12:27 UTC]** Kalil vincula dono do Banco Master ao governo de MG, ataca Cleitinho e promete corte radical de isenções
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/alexandre-kalil-participa-da-serie-de-sabatinas-do-valor-o-globo-e-cbn-com-os-candidatos-ao-governo-de-minas-acompanhe.ghtml)_
+
