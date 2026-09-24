@@ -449,3 +449,6 @@
 - **[2026-09-24 15:05 UTC]** Marrone, da dupla com Bruno, lamenta morte de Rick e lembra de acidente de helicóptero que sofreu: 'Já passei por isso em minha vida'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/marrone-velorio-rick-em-sorocaba.ghtml)_
 
+- **[2026-09-24 14:36 UTC]** Amigos da música se despedem de Rick no velório em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/amigos-da-musica-se-despedem-de-rick-no-velorio-em-sorocaba-sp.ghtml)_
+
