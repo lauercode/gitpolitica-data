@@ -2093,3 +2093,6 @@
 - **[2026-09-24 07:00 UTC]** Quaest em MG: 41% temem volta da família Bolsonaro, e 40% temem mais um mandato de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/24/quaest-em-mg-41percent-temem-volta-da-familia-bolsonaro-e-40percent-temem-mais-um-mandato-de-lula.ghtml)_
 
+- **[2026-09-24 04:00 UTC]** Flávio Bolsonaro procura União-PP, que avalia apoio no 2º turno com garantia para Alcolumbre no Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-procura-uniao-pp-que-avalia-apoio-no-2o-turno-com-garantia-para-alcolumbre-no-senado.shtml)_
+
