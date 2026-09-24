@@ -53,3 +53,6 @@
 - **[2026-09-24 18:09 UTC]** Datafolha: Raquel Lyra tem 48% ante 44% de João Campos para o Governo de Pernambuco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-raquel-lyra-tem-48-ante-44-de-joao-campos-para-o-governo-de-pernambuco.shtml)_
 
+- **[2026-09-24 21:43 UTC]** Datafolha: Em PE, Raquel Lyra tem 48%; João Campos tem 44% no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-em-pe-raquel-lyra-tem-48-pontos-percentuais-joo-campos-tem-44-no-primeiro-turno.ghtml)_
+
