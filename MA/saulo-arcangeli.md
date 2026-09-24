@@ -26,3 +26,6 @@
 - **[2026-09-22 00:09 UTC]** Saulo Arcangeli defende ampliar acesso à educação e criar oportunidades para jovens no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/21/saulo-arcangeli-defende-ampliar-acesso-a-educacao-e-criar-oportunidades-para-jovens-no-ma.ghtml)_
 
+- **[2026-09-24 00:51 UTC]** Saulo Arcangeli propõe obras públicas e incentivo à agricultura familiar para gerar empregos
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/23/saulo-arcangeli-propoe-obras-publicas-e-incentivo-a-agricultura-familiar-para-gerar-empregos.ghtml)_
+
