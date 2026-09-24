@@ -320,3 +320,6 @@
 - **[2026-09-24 19:09 UTC]** Flávio Bolsonaro usou jatinho de Vorcaro em troca de ‘favores e afagos’, diz Renan Santos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flvio-bolsonaro-usou-jatinho-de-vorcaro-em-troca-de-favores-e-afagos-diz-renan-santos.ghtml)_
 
+- **[2026-09-24 22:53 UTC]** Quaest em RO: Flávio Bolsonaro, 53%; Lula, 19%; Augusto Cury, 4%; Ronaldo Caiado, 3%; Renan Santos, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-presidente-24-de-setembro.ghtml)_
+
