@@ -434,3 +434,6 @@
 - **[2026-09-24 09:16 UTC]** Em cerimônia fechada, corpo do cantor Rick será velado e sepultado nesta quinta-feira em Sorocaba, SP
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/em-cerimonia-fechada-corpo-do-cantor-rick-sera-velado-e-sepultado-nesta-quinta-feira-em-sorocaba-sp.ghtml)_
 
+- **[2026-09-24 11:13 UTC]** Corpo do cantor Rick é velado em Sorocaba
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/corpo-do-cantor-rick-e-velado-em-sorocaba)_
+
