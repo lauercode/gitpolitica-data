@@ -458,3 +458,6 @@
 - **[2026-09-24 13:43 UTC]** Morte do cantor Rick: empresa é autorizada a iniciar retirada de destroços de helicóptero
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/24/morte-cantor-rick-empresa-autorizada-procedimentos-retirada-destrocos-helicoptero-sc.ghtml)_
 
+- **[2026-09-24 13:11 UTC]** Velório do Rick: fãs se reúnem na frente de cemitério em Sorocaba para última despedida
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/velorio-do-rick-fas-se-reunem-na-frente-de-cemiterio-em-sorocaba-para-ultima-despedida.ghtml)_
+
