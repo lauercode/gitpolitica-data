@@ -2174,3 +2174,6 @@
 - **[2026-09-24 15:44 UTC]** Bolsonaro pede suspensão de pena a Nunes Marques enquanto aguarda revisão da condenação no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/bolsonaro-pede-suspenso-de-pena-a-nunes-marques-enquanto-aguarda-reviso-da-condenao-no-stf.ghtml)_
 
+- **[2026-09-24 15:10 UTC]** Flávio Bolsonaro ironiza voo em jato de Vorcaro e associa aeronave a Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flavio-bolsonaro-ironiza-voo-em-jato-de-vorcaro-e-associa-aeronave-a-moraes.ghtml)_
+
