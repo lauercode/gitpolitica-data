@@ -473,3 +473,6 @@
 - **[2026-09-24 19:12 UTC]** Rick é enterrado em cerimônia restrita para amigos e família em Sorocaba, SP
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/rick-enterro-sorocaba.ghtml)_
 
+- **[2026-09-24 07:00 UTC]** Rick teve passagem rápida pelo governo do TO e escreveu carta sobre saída do cargo; relembre
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/24/rick-teve-passagem-rapida-pelo-governo-do-to-e-escreveu-carta-ao-deixar-o-cargo.ghtml)_
+
