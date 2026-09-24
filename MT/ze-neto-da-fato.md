@@ -74,3 +74,6 @@
 - **[2026-09-22 08:00 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de Minas Gerais no MG1
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/22/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-minas-gerais-no-mg1.ghtml)_
 
+- **[2026-09-24 19:14 UTC]** Veja o que é #FATO ou #FAKE nos debates de candidatos ao Senado pelo Rio de Janeiro no g1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/24/veja-o-que-e-fato-ou-fake-nos-debates-de-candidatos-ao-senado-pelo-rio-de-janeiro-no-g1.ghtml)_
+
