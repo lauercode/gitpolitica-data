@@ -17,3 +17,6 @@
 - **[2026-09-24 22:16 UTC]** Quaest na BA: 56% aprovam governo de Jerônimo Rodrigues, e 35% desaprovam
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-ba-avaliacao-governo-24-setembro.ghtml)_
 
+- **[2026-09-24 22:16 UTC]** Quaest na BA: ACM Neto, 42%; Jerônimo Rodrigues, 40%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-ba-governador-24-setembro.ghtml)_
+
