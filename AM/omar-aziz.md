@@ -77,3 +77,6 @@
 - **[2026-09-22 22:50 UTC]** Eleições 2026: Omar Aziz promete ampliar regularização fundiária e usar concreto em estradas vicinais do Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-omar-aziz-promete-ampliar-regularizacao-fundiaria-e-usar-concreto-em-estradas-vicinais-do-amazonas.ghtml)_
 
+- **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
+
