@@ -77,3 +77,6 @@
 - **[2026-09-24 19:14 UTC]** Veja o que é #FATO ou #FAKE nos debates de candidatos ao Senado pelo Rio de Janeiro no g1
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/24/veja-o-que-e-fato-ou-fake-nos-debates-de-candidatos-ao-senado-pelo-rio-de-janeiro-no-g1.ghtml)_
 
+- **[2026-09-25 20:40 UTC]** É #FATO: Voto nas eleições de 2026 vale como prova de vida automática para o INSS
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/25/e-fato-voto-nas-eleicoes-de-2026-vale-como-prova-de-vida-automatica-para-o-inss.ghtml)_
+
