@@ -17,3 +17,6 @@
 - **[2026-09-10 16:25 UTC]** 'Dark Horse': Além de Frias, Marcos Pollon e Bia Kicis também enviaram emendas para ONGs ligadas a produtora; recursos não foram pagos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/alem-de-mario-frias-marcos-pollon-e-bia-kicis-tambem-assinaram-emendas-para-ongs-ligadas-a-produtora-recursos-nao-foram-pagos.ghtml)_
 
+- **[2026-09-25 16:46 UTC]** Candidato do Novo é multado pela Justiça após impulsionar críticas contra Michelle Bolsonaro e Bia Kicis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidato-do-novo-e-multado-pela-justica-apos-impulsionar-criticas-contra-michelle-bolsonaro-e-bia-kicis.shtml)_
+
