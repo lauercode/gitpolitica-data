@@ -23,3 +23,6 @@
 - **[2026-09-25 13:06 UTC]** Ciro Gomes jantou com Vorcaro para falar de precatórios e diz que não se convenceu com explicações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/ciro-gomes-jantou-com-vorcaro-e-diz-que-nao-se-convenceu-com-defesa-de-precatorios.shtml)_
 
+- **[2026-09-25 16:42 UTC]** Datafolha: Ciro Gomes tem 44% e Elmano de Freitas, 43%, no Ceará
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-ciro-gomes-tem-44-e-elmano-de-freitas-43-no-ceara.shtml)_
+
