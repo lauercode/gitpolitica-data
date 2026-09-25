@@ -140,3 +140,6 @@
 - **[2026-09-19 22:18 UTC]** Trump anuncia 'Força-Tarefa de IA' e 'Czar' para impulsionar a tecnologia
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/19/trump-anuncia-fora-tarefa-de-ia-e-czar-para-impulsionar-a-tecnologia.ghtml)_
 
+- **[2026-09-25 17:25 UTC]** Força-tarefa em Cametá, no PA, combate queimadas e monitora qualidade do ar
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/25/forca-tarefa-em-cameta-no-pa-combate-queimadas-e-monitora-qualidade-do-ar.ghtml)_
+
