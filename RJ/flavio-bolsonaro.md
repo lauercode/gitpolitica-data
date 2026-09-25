@@ -2306,3 +2306,6 @@
 - **[2026-09-24 21:43 UTC]** Datafolha: Lula e Flávio Bolsonaro estão em empate técnico no primeiro e segundo turnos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-lula-tem-40percent-e-flavio-36percent-das-intencoes-de-voto-no-primeiro-turno.ghtml)_
 
+- **[2026-09-25 04:00 UTC]** Flávio Bolsonaro explora crise no STF e se desvia de propostas econômicas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-explora-crise-no-stf-e-se-desvia-de-propostas-economicas.shtml)_
+
