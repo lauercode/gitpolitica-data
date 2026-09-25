@@ -2345,3 +2345,6 @@
 - **[2026-09-25 13:36 UTC]** Lula defende fim de bets em ato eleitoral, associa Bolsonaros a Vorcaro e chama Flávio de traidor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-defende-fim-de-bets-em-ato-eleitoral-associa-bolsonaros-a-vorcaro-e-chama-flavio-de-traidor.shtml)_
 
+- **[2026-09-25 12:30 UTC]** Fé une mulheres, e 46% das evangélicas preferem Flávio Bolsonaro enquanto 26% votam em Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fe-une-mulheres-e-46-das-evangelicas-preferem-flavio-bolsonaro-enquanto-26-votam-em-lula.shtml)_
+
