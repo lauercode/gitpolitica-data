@@ -2384,3 +2384,6 @@
 - **[2026-09-25 16:13 UTC]** Disputa entre Flávio e Lula ganha ares de guerra espiritual com notícia falsa sobre Nossa Senhora Aparecida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/disputa-entre-flavio-e-lula-ganha-ares-de-guerra-espiritual-com-boato-sobre-nossa-senhora-aparecida.shtml)_
 
+- **[2026-09-25 16:11 UTC]** Alckmin explora boato sobre Flávio, acirra disputa religiosa e diz que Lula conserva 'tradições católicas'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alckmin-acirra-disputa-religiosa-com-flavio-bolsonaro-e-diz-que-lula-conserva-tradicoes-catolicas.shtml)_
+
