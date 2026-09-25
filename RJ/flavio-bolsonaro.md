@@ -2357,3 +2357,6 @@
 - **[2026-09-25 16:02 UTC]** Por que polêmica sobre Nossa Senhora Aparecida entrou na disputa entre Flávio Bolsonaro e Lula pela Presidência
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-25 15:06 UTC]** Flávio Bolsonaro volta a parecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
