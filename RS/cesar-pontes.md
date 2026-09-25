@@ -20,3 +20,6 @@
 - **[2026-09-18 00:36 UTC]** Eleições 2026 no RS: Cesar Pontes recomenda voto em deputados que atendam os interesses de suas regiões
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-no-rs-cesar-pontes-recomenda-voto-em-deputados-que-atendam-os-interesses-de-suas-regioes.ghtml)_
 
+- **[2026-09-25 00:52 UTC]** Eleições 2026 no RS: Cesar Pontes defende revisão do pacto federativo
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-no-rs-cesar-pontes-defende-revisao-do-pacto-federativo.ghtml)_
+
