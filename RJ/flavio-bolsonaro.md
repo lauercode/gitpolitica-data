@@ -2381,3 +2381,6 @@
 - **[2026-09-25 16:42 UTC]** Flávio Bolsonaro dá dinheiro aos 'peixes' da milícia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/09/flavio-bolsonaro-da-dinheiro-aos-peixes-da-milicia.shtml)_
 
+- **[2026-09-25 16:13 UTC]** Disputa entre Flávio e Lula ganha ares de guerra espiritual com notícia falsa sobre Nossa Senhora Aparecida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/disputa-entre-flavio-e-lula-ganha-ares-de-guerra-espiritual-com-boato-sobre-nossa-senhora-aparecida.shtml)_
+
