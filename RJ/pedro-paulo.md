@@ -437,3 +437,6 @@
 - **[2026-09-25 03:55 UTC]** Conselho Superior do Ministério Público analisa conduta de Paulo Gonet
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/conselho-superior-do-ministerio-publico-analisa-conduta-de-paulo-gonet/)_
 
+- **[2026-09-25 08:00 UTC]** ‘Me autointitulo radical de centro’, diz Pedro Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/me-autointitulo-radical-de-centro-diz-pedro-paulo.ghtml)_
+
