@@ -2390,3 +2390,6 @@
 - **[2026-09-25 15:27 UTC]** Fake news sobre Flávio e Nossa Senhora Aparecida circula entre católicos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-toniol/2026/09/fake-news-sobre-flavio-e-nossa-senhora-aparecida-circula-entre-catolicos.shtml)_
 
+- **[2026-09-25 12:30 UTC]** Fé une mulheres, e 46% das evangélicas preferem Flávio Bolsonaro, enquanto 26% votam em Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fe-une-mulheres-e-46-das-evangelicas-preferem-flavio-bolsonaro-enquanto-26-votam-em-lula.shtml)_
+
