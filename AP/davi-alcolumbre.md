@@ -245,3 +245,6 @@
 - **[2026-09-24 13:30 UTC]** Toffoli vota para tirar adversário de Alcolumbre de eleição do Amapá; Mendonça interrompe julgamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/toffoli-vota-para-tirar-adversario-de-alcolumbre-de-eleicao-do-amapa-mendonca-interrompe-julgamento.shtml)_
 
+- **[2026-09-24 20:42 UTC]** Mensagens apontam relação de proximidade entre Alcolumbre e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-apontam-relacao-de-proximidade-entre-alcolumbre-e-vorcaro.shtml)_
+
