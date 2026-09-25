@@ -2303,3 +2303,6 @@
 - **[2026-09-25 00:02 UTC]** Flávio Bolsonaro fala em 'arrancada' no primeiro turno e diz que receberá a faixa de presidente do pai
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flavio-bolsonaro-fala-em-arrancada-no-primeiro-turno-e-diz-que-recebera-a-faixa-de-presidente-do-pai.ghtml)_
 
+- **[2026-09-24 21:43 UTC]** Datafolha: Lula e Flávio Bolsonaro estão em empate técnico no primeiro e segundo turnos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-lula-tem-40percent-e-flavio-36percent-das-intencoes-de-voto-no-primeiro-turno.ghtml)_
+
