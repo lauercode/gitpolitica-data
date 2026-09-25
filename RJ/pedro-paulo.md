@@ -449,3 +449,6 @@
 - **[2026-09-25 13:32 UTC]** Ao vivo: MPF decide se investiga Paulo Gonet por relação com Vorcaro e Banco Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ao-vivo-mpf-decide-se-investiga-paulo-gonet-por-relacao-com-vorcaro-e-banco-master/)_
 
+- **[2026-09-25 17:17 UTC]** Após quase 40 anos, disco inédito de Paulo André Barata é lançado em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/25/apos-quase-40-anos-disco-inedito-de-paulo-andre-barata-e-lancado-em-belem.ghtml)_
+
