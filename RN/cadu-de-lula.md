@@ -74,3 +74,6 @@
 - **[2026-09-24 20:37 UTC]** Cadu de Lula defende mais desenvolvimento e emprego para a Zona Oeste de Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/24/cadu-de-lula-defende-mais-desenvolvimento-e-emprego-para-a-zona-oeste-de-natal.ghtml)_
 
+- **[2026-09-25 20:08 UTC]** Cadu de Lula propõe obras no camelódromo e melhorias na drenagem do Alecrim
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/cadu-de-lula-propoe-obras-no-camelodromo-e-melhorias-na-drenagem-do-alecrim.ghtml)_
+
