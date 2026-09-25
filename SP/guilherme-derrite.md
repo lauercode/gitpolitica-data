@@ -44,3 +44,6 @@
 - **[2026-09-24 18:25 UTC]** Datafolha: Marina, Tebet, André do Prado e Derrite mantêm empate na disputa pelo Senado em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-marina-tebet-andre-do-prado-e-derrite-mantem-empate-na-disputa-pelo-senado-em-sp.shtml)_
 
+- **[2026-09-25 15:30 UTC]** Guilherme Derrite e André do Prado não comparecem a debate do g1 entre candidatos ao Senado por São Paulo
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/25/guilherme-derrite-e-andre-do-prado-nao-comparecem-a-debate-do-g1-entre-candidatos-ao-senado-por-sao-paulo.ghtml)_
+
