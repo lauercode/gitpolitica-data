@@ -458,3 +458,6 @@
 - **[2026-09-25 13:25 UTC]** Conselho do MPF inicia sessão que decidirá se Paulo Gonet será investigado em caso envolvendo Master
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/conselho-do-mpf-inicia-sesso-que-decidir-se-paulo-gonet-ser-investigado-em-caso-envolvendo-master.ghtml)_
 
+- **[2026-09-25 15:18 UTC]** ESPN renova contratos com Luciano Amaral, Paulo Calçade e Alex Tseng até 2028
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/espn-renova-contratos-com-luciano-amaral-paulo-calcade-e-alex-tseng-ate-2028.shtml)_
+
