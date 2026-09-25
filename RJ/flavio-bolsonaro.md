@@ -2369,3 +2369,6 @@
 - **[2026-09-25 17:43 UTC]** Aliada católica deve gravar vídeo com Flávio para desmentir boato sobre padroeira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliada-catolica-deve-gravar-video-com-flavio-para-desmentir-boato-sobre-padroeira.shtml)_
 
+- **[2026-09-25 17:17 UTC]** Flávio Bolsonaro deve ir a debate da Globo após Lula indicar presença
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-deve-ir-a-debate-da-globo-apos-lula-indicar-presenca.shtml)_
+
