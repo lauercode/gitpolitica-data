@@ -2339,3 +2339,6 @@
 - **[2026-09-25 08:42 UTC]** O que Lula e Flávio Bolsonaro já disseram sobre bets
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjdx57p941kyo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-25 13:55 UTC]** Flávio Bolsonaro diz que veto a bets é hipócrita, chama Lula de pai do tigrinho e elogia amigo alvo da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-veto-a-bets-e-hipocrita-chama-lula-de-pai-do-tigrinho-e-elogia-amigo-alvo-da-pf.shtml)_
+
