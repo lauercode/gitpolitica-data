@@ -47,3 +47,6 @@
 - **[2026-09-24 21:41 UTC]** Datafolha: No DF, Celina Leão tem 42% das intenções de voto e Grass, 23%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-no-df-celina-leao-tem-42percent-das-intencoes-de-voto-e-grass-23percent.ghtml)_
 
+- **[2026-09-24 18:11 UTC]** Datafolha: Celina Leão (PP) lidera com 42% ao Governo do DF no cenário sem Arruda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-celina-leao-pp-lidera-com-37-das-intencoes-ao-governo-do-df.shtml)_
+
