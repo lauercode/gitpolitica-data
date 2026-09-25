@@ -83,3 +83,6 @@
 - **[2026-09-24 16:20 UTC]** Quaest: No Paraná, Sergio Moro tem 36%; Requião Filho e Sandro Alex empatam com 20%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/quaest-no-paran-sergio-moro-tem-36-pontos-percentuais-requio-filho-e-sandro-alex-empatam-com-20.ghtml)_
 
+- **[2026-09-25 16:14 UTC]** Eleições 2026 no Paraná: Requião Filho concede entrevistas e participa de reuniões e evento de campanha
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-no-parana-requiao-filho-concede-entrevistas-e-participa-de-reunioes-e-evento-de-campanha.ghtml)_
+
