@@ -443,3 +443,6 @@
 - **[2026-09-25 09:22 UTC]** Conselho do MPF decide hoje se abre investigação contra Paulo Gonet
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/conselho-do-mpf-decide-hoje-se-abre-investigacao-contra-paulo-gonet)_
 
+- **[2026-09-25 16:07 UTC]** Suspeição de Paulo Gonet pode comprometer provas do Caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/suspeicao-de-paulo-gonet-pode-comprometer-provas-do-caso-master/)_
+
