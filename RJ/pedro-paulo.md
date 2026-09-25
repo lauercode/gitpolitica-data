@@ -455,3 +455,6 @@
 - **[2026-09-25 14:10 UTC]** Conselho do MPF tem três votos para Paulo Gonet seguir à frente do caso Master
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/mpf-relator-defende-em-voto-que-gonet-siga-a-frente-do-caso-master.ghtml)_
 
+- **[2026-09-25 13:25 UTC]** Conselho do MPF inicia sessão que decidirá se Paulo Gonet será investigado em caso envolvendo Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/conselho-do-mpf-inicia-sesso-que-decidir-se-paulo-gonet-ser-investigado-em-caso-envolvendo-master.ghtml)_
+
