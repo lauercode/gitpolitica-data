@@ -1061,3 +1061,6 @@ direitos
 - **[2026-09-24 12:09 UTC]** Nunes diz que sancionará projeto que veta propaganda de bets em SP se medida for aprovada na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/nunes-diz-que-sancionara-projeto-que-veta-propaganda-de-bets-em-sp-se-medida-for-aprovada-na-camara.shtml)_
 
+- **[2026-09-25 12:37 UTC]** Um em cada três candidatos à Câmara se declara preto ou pardo, mas é considerado branco, diz estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/um-em-cada-tres-candidatos-a-camara-se-declara-preto-ou-pardo-mas-e-considerado-branco-diz-estudo.shtml)_
+
