@@ -2330,3 +2330,6 @@
 - **[2026-09-25 08:00 UTC]** ‘Lideranças do Bolsonaro fazem a campanha de Ciro’, acusa Elmano
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/liderancas-do-bolsonaro-fazem-a-campanha-de-ciro-acusa-elmano.ghtml)_
 
+- **[2026-09-25 08:00 UTC]** No Datafolha, Lula tem 47% e Flávio, 45%
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/25/no-datafolha-lula-tem-47-e-flavio-45.ghtml)_
+
