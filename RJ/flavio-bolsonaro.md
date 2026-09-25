@@ -2315,3 +2315,6 @@
 - **[2026-09-24 23:19 UTC]** Datafolha: Campanha de Lula vê alívio, e equipe de Flávio Bolsonaro mantém aposta em voto útil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-alivio-e-equipe-de-flavio-bolsonaro-mantem-aposta-em-voto-util.shtml)_
 
+- **[2026-09-24 23:00 UTC]** Campanha de Lula diz que veto às bets pega Flávio no contrapé
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-diz-que-veto-as-bets-pega-flavio-no-contrape.shtml)_
+
