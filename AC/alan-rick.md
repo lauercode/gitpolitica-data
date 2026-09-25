@@ -491,3 +491,6 @@
 - **[2026-09-25 15:29 UTC]** Viúva do cantor Rick publica carta para agradecer carinho de fãs e amigos após funeral: 'Seguirá eternamente no coração de todos'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/25/carta-viuva-do-rick-enterro-em-sorocaba.ghtml)_
 
+- **[2026-09-25 13:12 UTC]** Irmão de Rick se emociona ao lembrar momentos com o cantor: 'Eu prefiro falar do Gê'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/25/irmao-de-rick-se-emociona-ao-lembrar-momentos-com-o-cantor-eu-prefiro-falar-do-ge.ghtml)_
+
