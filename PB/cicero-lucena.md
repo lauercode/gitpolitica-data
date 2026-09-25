@@ -59,3 +59,6 @@
 - **[2026-09-23 18:16 UTC]** Cícero Lucena defende ampliação de serviços de saúde e segurança para mulheres na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/cicero-lucena-defende-ampliacao-de-servicos-de-saude-e-seguranca-para-mulheres-na-paraiba.ghtml)_
 
+- **[2026-09-25 20:59 UTC]** Cícero Lucena defende descentralização do atendimento a pessoas com deficiência na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/25/cicero-lucena-defende-descentralizacao-do-atendimento-a-pessoas-com-deficiencia-na-paraiba.ghtml)_
+
