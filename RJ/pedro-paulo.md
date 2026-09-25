@@ -446,3 +446,6 @@
 - **[2026-09-25 16:07 UTC]** Suspeição de Paulo Gonet pode comprometer provas do Caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/suspeicao-de-paulo-gonet-pode-comprometer-provas-do-caso-master/)_
 
+- **[2026-09-25 13:32 UTC]** Ao vivo: MPF decide se investiga Paulo Gonet por relação com Vorcaro e Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ao-vivo-mpf-decide-se-investiga-paulo-gonet-por-relacao-com-vorcaro-e-banco-master/)_
+
