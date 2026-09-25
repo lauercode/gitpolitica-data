@@ -2297,3 +2297,6 @@
 - **[2026-09-24 20:38 UTC]** Entre Lula e Flávio, Brasil dá as costas ao futuro, e Renan é candidato mais adequado, diz The Economist
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entre-lula-e-flavio-brasil-da-as-costas-ao-futuro-e-renan-e-candidato-mais-adequado-diz-the-economist.shtml)_
 
+- **[2026-09-25 00:00 UTC]** Marinho chama Messias de “militante do PT” após provocação a Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marinho-chama-messias-de-militante-do-pt-apos-provocacao-a-flavio/)_
+
