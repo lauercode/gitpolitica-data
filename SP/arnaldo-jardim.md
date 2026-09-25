@@ -41,3 +41,6 @@
 - **[2026-09-14 18:57 UTC]** Moradores enfrentam enchente há três dias no Jardim Pantanal, zona leste de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/moradores-enfrentam-enchente-ha-tres-dias-no-jardim-pantanal-zona-leste-de-sao-paulo.shtml)_
 
+- **[2026-09-25 18:01 UTC]** Jardim Botânico de Florianópolis celebra 10 anos com inauguração do Jardim Japonês
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/prefeitura-municipal-de-florianopolis/florianopolis-uma-cidade-para-todos/noticia/2026/09/25/jardim-botanico-de-florianopolis-celebra-10-anos-com-inauguracao-do-jardim-japones.ghtml)_
+
