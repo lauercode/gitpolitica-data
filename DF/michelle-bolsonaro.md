@@ -23,3 +23,6 @@
 - **[2026-09-24 18:18 UTC]** Datafolha: Michelle Bolsonaro (22%) e Leila do Vôlei (19%) lideram disputa ao Senado pelo DF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-michelle-bolsonaro-22-e-leila-do-volei-19-lideram-disputa-ao-senado-pelo-df.shtml)_
 
+- **[2026-09-25 16:46 UTC]** Candidato do Novo é multado pela Justiça após impulsionar críticas contra Michelle Bolsonaro e Bia Kicis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidato-do-novo-e-multado-pela-justica-apos-impulsionar-criticas-contra-michelle-bolsonaro-e-bia-kicis.shtml)_
+
