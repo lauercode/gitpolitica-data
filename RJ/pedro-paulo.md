@@ -452,3 +452,6 @@
 - **[2026-09-25 17:17 UTC]** Após quase 40 anos, disco inédito de Paulo André Barata é lançado em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/25/apos-quase-40-anos-disco-inedito-de-paulo-andre-barata-e-lancado-em-belem.ghtml)_
 
+- **[2026-09-25 14:10 UTC]** Conselho do MPF tem três votos para Paulo Gonet seguir à frente do caso Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/mpf-relator-defende-em-voto-que-gonet-siga-a-frente-do-caso-master.ghtml)_
+
