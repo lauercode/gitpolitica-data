@@ -20,3 +20,6 @@
 - **[2026-09-25 16:46 UTC]** Candidato do Novo é multado pela Justiça após impulsionar críticas contra Michelle Bolsonaro e Bia Kicis
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidato-do-novo-e-multado-pela-justica-apos-impulsionar-criticas-contra-michelle-bolsonaro-e-bia-kicis.shtml)_
 
+- **[2026-09-25 15:30 UTC]** PSOL pede investigação de Bia Kicis após investigado da PF fazer publicidade com nome Bia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/psol-pede-investigacao-de-bia-kicis-apos-investigado-da-pf-fazer-publicidade-com-nome-bia.shtml)_
+
