@@ -32,3 +32,6 @@
 - **[2026-09-14 14:49 UTC]** Cesar Camargo Mariano celebra aniversário no palco em shows na região serrana do Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musica-em-letras/2026/09/cesar-camargo-mariano-celebra-aniversario-no-palco-em-shows-na-regiao-serrana-do-rio.shtml)_
 
+- **[2026-09-25 17:55 UTC]** Susana Werner e Júlio César deixam Portugal e vendem imóveis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/susana-werner-e-julio-cesar-deixam-portugal-e-vendem-imoveis.shtml)_
+
