@@ -2333,3 +2333,6 @@
 - **[2026-09-25 08:00 UTC]** No Datafolha, Lula tem 47% e Flávio, 45%
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/25/no-datafolha-lula-tem-47-e-flavio-45.ghtml)_
 
+- **[2026-09-25 08:00 UTC]** Voo em jatinho de Vorcaro devolve Flávio à berlinda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/voo-em-jatinho-de-vorcaro-devolve-flavio-a-berlinda.ghtml)_
+
