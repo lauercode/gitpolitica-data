@@ -2714,3 +2714,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-24 17:11 UTC]** FOTOS: veja como é avião de Vorcaro usado por Flávio Bolsonaro e Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/fotos-veja-como-e-aviao-de-vorcaro-usado-por-flavio-bolsonaro-e-moraes.ghtml)_
 
+- **[2026-09-25 09:25 UTC]** Os 70 anos da 1ª parceria entre Tom Jobim e Vinicius de Moraes que mudou a MPB e rendeu até Oscar
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm5y5eqdgg84o?at_medium=RSS&at_campaign=rss)_
+
