@@ -2372,3 +2372,6 @@
 - **[2026-09-25 17:17 UTC]** Flávio Bolsonaro deve ir a debate da Globo após Lula indicar presença
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-deve-ir-a-debate-da-globo-apos-lula-indicar-presenca.shtml)_
 
+- **[2026-09-25 16:59 UTC]** TSE restabelece decisão que permite uso de imagem de Bolsonaro em santinhos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-restabelece-decisao-que-permite-uso-de-imagem-de-bolsonaro-em-santinhos.shtml)_
+
