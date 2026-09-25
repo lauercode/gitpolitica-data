@@ -119,3 +119,6 @@
 - **[2026-09-25 16:14 UTC]** Eleições 2026 no Paraná: Sandro Alex vai às ruas em carreatas em Londrina e Maringá
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/25/agenda-campanha-sandro-alex-carreatas-londrina-maringa-25-setembro.ghtml)_
 
+- **[2026-09-25 15:18 UTC]** ESPN renova contratos com Luciano Amaral, Paulo Calçade e Alex Tseng até 2028
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/espn-renova-contratos-com-luciano-amaral-paulo-calcade-e-alex-tseng-ate-2028.shtml)_
+
