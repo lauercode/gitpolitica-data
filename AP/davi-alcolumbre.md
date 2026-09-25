@@ -251,3 +251,6 @@
 - **[2026-09-25 01:41 UTC]** “Fala meu amor”: mensagens apontam proximidade entre Alcolumbre e Vorcaro; senador alega intimidação
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-apontam-proximidade-entre-alcolumbre-e-vorcaro-senador-alega-intimidacao/)_
 
+- **[2026-09-25 05:42 UTC]** Davi Alcolumbre nega irregularidades após revelação de mensagens com banqueiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/davi-alcolumbre-nega-irregularidades-apos-revelacao-de-mensagens-com-banqueiro/)_
+
