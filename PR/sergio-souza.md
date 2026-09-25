@@ -14,3 +14,6 @@
 - **[2026-09-17 08:03 UTC]** José de Souza Martins: Assombrações eleitorais
   _fonte: [Valor Econômico](https://valor.globo.com/eu-e/coluna/jose-de-souza-martins-assombracoes-eleitorais.ghtml)_
 
+- **[2026-09-25 08:00 UTC]** José de Souza Martins: Macunaíma no poder
+  _fonte: [Valor Econômico](https://valor.globo.com/eu-e/coluna/jose-de-souza-martins-macunaima-no-poder.ghtml)_
+
