@@ -17,3 +17,6 @@
 - **[2026-09-22 17:15 UTC]** Arthur Elias convoca seleção feminina para amistosos contra Argentina
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/arthur-elias-convoca-selecao-feminina-para-amistosos-contra-argentina)_
 
+- **[2026-09-25 21:11 UTC]** Quaest para o Senado em AL: Marina JHC, 20%; Arthur Lira, 20%; Renan, 17%
+  _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-senado-25-setembro.ghtml)_
+
