@@ -227,3 +227,6 @@
 - **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
   _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
 
+- **[2026-09-25 01:45 UTC]** Juíza rejeita pedido de Roberto Cidade para anular parecer do MPE que pede cassação de registro de candidatura
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/24/juiza-rejeita-pedido-de-roberto-cidade-para-anular-parecer-do-mpe-que-pede-cassacao-de-registro-de-candidatura.ghtml)_
+
