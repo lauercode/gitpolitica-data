@@ -116,3 +116,6 @@
 - **[2026-09-24 16:20 UTC]** Quaest: No Paraná, Sergio Moro tem 36%; Requião Filho e Sandro Alex empatam com 20%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/quaest-no-paran-sergio-moro-tem-36-pontos-percentuais-requio-filho-e-sandro-alex-empatam-com-20.ghtml)_
 
+- **[2026-09-25 16:14 UTC]** Eleições 2026 no Paraná: Sandro Alex vai às ruas em carreatas em Londrina e Maringá
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/25/agenda-campanha-sandro-alex-carreatas-londrina-maringa-25-setembro.ghtml)_
+
