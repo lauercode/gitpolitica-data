@@ -2324,3 +2324,6 @@
 - **[2026-09-25 05:00 UTC]** Podcast: os novos desdobramentos do caso Master para Flávio Bolsonaro e Nunes Marques
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-os-novos-desdobramentos-do-caso-master-para-flavio-bolsonaro-e-nunes-marques.shtml)_
 
+- **[2026-09-25 08:00 UTC]** Ligação de Flávio a caso Master volta à tona com voo em jato de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/25/ligacao-de-flavio-a-caso-master-volta-a-tona-com-voo-em-jato-de-vorcaro.ghtml)_
+
