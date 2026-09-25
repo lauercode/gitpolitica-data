@@ -2309,3 +2309,6 @@
 - **[2026-09-25 04:00 UTC]** Flávio Bolsonaro explora crise no STF e se desvia de propostas econômicas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-explora-crise-no-stf-e-se-desvia-de-propostas-economicas.shtml)_
 
+- **[2026-09-25 00:56 UTC]** Datafolha: Lula e Flávio têm 38% no interior; petista lidera nas regiões metropolitanas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-tem-38-no-interior-petista-lidera-nas-regioes-metropolitanas.shtml)_
+
