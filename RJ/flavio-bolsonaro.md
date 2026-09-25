@@ -2327,3 +2327,6 @@
 - **[2026-09-25 08:00 UTC]** Ligação de Flávio a caso Master volta à tona com voo em jato de Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/25/ligacao-de-flavio-a-caso-master-volta-a-tona-com-voo-em-jato-de-vorcaro.ghtml)_
 
+- **[2026-09-25 08:00 UTC]** ‘Lideranças do Bolsonaro fazem a campanha de Ciro’, acusa Elmano
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/liderancas-do-bolsonaro-fazem-a-campanha-de-ciro-acusa-elmano.ghtml)_
+
