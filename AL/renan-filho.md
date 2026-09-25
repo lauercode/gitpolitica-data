@@ -56,3 +56,6 @@
 - **[2026-09-16 15:45 UTC]** Renan Filho (MDB) é entrevistado no AB1; assista
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/ao-vivo/confira-as-entrevistas-com-os-candidatos-ao-governo-de-alagoas-no-ab1.ghtml)_
 
+- **[2026-09-25 20:57 UTC]** Quaest em AL: JHC tem 43%; e Renan Filho, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-governador-25-setembro.ghtml)_
+
