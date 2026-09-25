@@ -53,3 +53,6 @@
 - **[2026-09-23 20:57 UTC]** Efraim Filho defende incentivos ao turismo na Paraíba e construção de via costeira no Litoral Sul
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/efraim-filho-defende-incentivos-ao-turismo-na-paraiba-e-construcao-de-via-costeira-no-litoral-sul.ghtml)_
 
+- **[2026-09-25 21:03 UTC]** Efraim Filho defende uso de hospitais filantrópicos para ampliar atendimento pelo SUS na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/25/efraim-filho-defende-uso-de-hospitais-filantropicos-para-ampliar-atendimento-pelo-sus-na-paraiba.ghtml)_
+
