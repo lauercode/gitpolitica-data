@@ -2354,3 +2354,6 @@
 - **[2026-09-25 16:51 UTC]** Bets no Brasil: o papel dos governos Temer, Bolsonaro e Lula no mercado de apostas
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-25 16:02 UTC]** Por que polêmica sobre Nossa Senhora Aparecida entrou na disputa entre Flávio Bolsonaro e Lula pela Presidência
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss)_
+
