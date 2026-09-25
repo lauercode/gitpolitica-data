@@ -29,3 +29,6 @@
 - **[2026-09-23 15:08 UTC]** Mailza Assis defende apoio a pescadores e diz que pretende fortalecer geração de emprego no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/23/mailza-assis-defende-apoio-a-pescadores-e-diz-que-pretende-fortalecer-geracao-de-emprego-no-acre.ghtml)_
 
+- **[2026-09-25 19:14 UTC]** 'Cada pessoa responde por seu ato', diz Mailza Assis sobre condenação de ex-governador do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/cada-pessoa-responde-por-seu-ato-diz-mailza-assis-sobre-condenacao-de-ex-governador-do-acre.ghtml)_
+
