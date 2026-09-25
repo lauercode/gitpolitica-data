@@ -482,3 +482,6 @@
 - **[2026-09-24 22:46 UTC]** Renner fala pela primeira vez após morte de Rick: 'O show não pode parar'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/renner-fala-pela-primeira-vez-apos-morte-de-rick-o-show-nao-pode-parar.shtml)_
 
+- **[2026-09-25 04:00 UTC]** O que caixa-preta de helicóptero pode dizer sobre queda que resultou na morte do cantor Rick e mais 4
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/25/o-que-caixa-preta-helicoptero-pode-dizer-sobre-queda-rick.ghtml)_
+
