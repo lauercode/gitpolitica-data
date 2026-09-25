@@ -2363,3 +2363,6 @@
 - **[2026-09-25 17:09 UTC]** Flávio diz que voou em jatinho de Willer, e não de Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/flavio-diz-que-voou-em-jatinho-de-willer-e-nao-de-vorcaro.ghtml)_
 
+- **[2026-09-25 17:55 UTC]** Coligação de Lula aciona TSE contra Flávio Bolsonaro por anúncios pagos com ataques ao PT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/coligacao-de-lula-aciona-tse-contra-flavio-bolsonaro-por-anuncios-pagos-com-ataques-ao-pt.shtml)_
+
