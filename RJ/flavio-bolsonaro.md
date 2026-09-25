@@ -2360,3 +2360,6 @@
 - **[2026-09-25 15:06 UTC]** Flávio Bolsonaro volta a parecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-25 17:09 UTC]** Flávio diz que voou em jatinho de Willer, e não de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/flavio-diz-que-voou-em-jatinho-de-willer-e-nao-de-vorcaro.ghtml)_
+
