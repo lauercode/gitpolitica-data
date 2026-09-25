@@ -479,3 +479,6 @@
 - **[2026-09-24 21:29 UTC]** Colega de trabalho relembra como relação com Rick se transformou em amizade: 'Um homem simples'
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/24/colega-de-trabalho-relembra-como-relacao-com-rick-se-transformou-em-amizade.ghtml)_
 
+- **[2026-09-24 22:46 UTC]** Renner fala pela primeira vez após morte de Rick: 'O show não pode parar'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/renner-fala-pela-primeira-vez-apos-morte-de-rick-o-show-nao-pode-parar.shtml)_
+
