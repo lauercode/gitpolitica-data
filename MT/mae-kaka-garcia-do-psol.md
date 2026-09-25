@@ -32,3 +32,6 @@
 - **[2026-09-24 22:22 UTC]** Quaest no RS para o Senado: Manuela d'Ávila (PSOL), 14%; Marcel van Hattem (Novo), 11%; Pimenta (PT), 10%; Sanderson (PL), 10%; Rigotto (MDB), 9%
   _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/24/quaest-rs-senado-24-setembro.ghtml)_
 
+- **[2026-09-25 15:30 UTC]** PSOL pede investigação de Bia Kicis após investigado da PF fazer publicidade com nome Bia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/psol-pede-investigacao-de-bia-kicis-apos-investigado-da-pf-fazer-publicidade-com-nome-bia.shtml)_
+
