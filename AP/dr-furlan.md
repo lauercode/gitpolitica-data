@@ -113,3 +113,6 @@
 - **[2026-09-24 19:55 UTC]** Quaest: Dr. Furlan lidera disputa no Amapá com 53%, ante 40% de Clécio Luís
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-dr-furlan-lidera-disputa-no-amapa-com-53-ante-40-de-clecio-luis.shtml)_
 
+- **[2026-09-24 23:34 UTC]** Dr. Furlan participa de carreata em Oiapoque
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/dr-furlan-participa-de-carreata-em-oiapoque.ghtml)_
+
