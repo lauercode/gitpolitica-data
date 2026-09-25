@@ -494,3 +494,6 @@
 - **[2026-09-25 13:12 UTC]** Irmão de Rick se emociona ao lembrar momentos com o cantor: 'Eu prefiro falar do Gê'
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/25/irmao-de-rick-se-emociona-ao-lembrar-momentos-com-o-cantor-eu-prefiro-falar-do-ge.ghtml)_
 
+- **[2026-09-25 16:55 UTC]** Roberta Miranda critica aumento de seguidores de Rick após morte: 'Chega a ser cruel'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/roberta-miranda-critica-aumento-de-seguidores-de-rick-apos-morte-chega-a-ser-cruel.shtml)_
+
