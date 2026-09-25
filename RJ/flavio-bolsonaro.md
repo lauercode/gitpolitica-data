@@ -2321,3 +2321,6 @@
 - **[2026-09-25 02:58 UTC]** Defesa de Flávio pede que Fachin suspenda investigações e acusa PT de “escolher” relatores
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-flavio-pede-que-fachin-suspenda-investigacoes-e-acusa-pt-de-escolher-relatores/)_
 
+- **[2026-09-25 05:00 UTC]** Podcast: os novos desdobramentos do caso Master para Flávio Bolsonaro e Nunes Marques
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-os-novos-desdobramentos-do-caso-master-para-flavio-bolsonaro-e-nunes-marques.shtml)_
+
