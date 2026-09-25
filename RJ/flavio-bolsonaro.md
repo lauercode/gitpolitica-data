@@ -2336,3 +2336,6 @@
 - **[2026-09-25 08:00 UTC]** Voo em jatinho de Vorcaro devolve Flávio à berlinda
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/voo-em-jatinho-de-vorcaro-devolve-flavio-a-berlinda.ghtml)_
 
+- **[2026-09-25 08:42 UTC]** O que Lula e Flávio Bolsonaro já disseram sobre bets
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjdx57p941kyo?at_medium=RSS&at_campaign=rss)_
+
