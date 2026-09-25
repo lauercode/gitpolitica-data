@@ -2300,3 +2300,6 @@
 - **[2026-09-25 00:00 UTC]** Marinho chama Messias de “militante do PT” após provocação a Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marinho-chama-messias-de-militante-do-pt-apos-provocacao-a-flavio/)_
 
+- **[2026-09-25 00:02 UTC]** Flávio Bolsonaro fala em 'arrancada' no primeiro turno e diz que receberá a faixa de presidente do pai
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flavio-bolsonaro-fala-em-arrancada-no-primeiro-turno-e-diz-que-recebera-a-faixa-de-presidente-do-pai.ghtml)_
+
