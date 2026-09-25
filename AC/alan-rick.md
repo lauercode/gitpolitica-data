@@ -485,3 +485,6 @@
 - **[2026-09-25 04:00 UTC]** O que caixa-preta de helicóptero pode dizer sobre queda que resultou na morte do cantor Rick e mais 4
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/25/o-que-caixa-preta-helicoptero-pode-dizer-sobre-queda-rick.ghtml)_
 
+- **[2026-09-25 03:00 UTC]** Como será a retirada do helicóptero que caiu em SC e matou cantor Rick e outras 4 pessoas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/25/como-sera-retirada-helicoptero-caiu-sc-matou-rick-outras-4-pessoas.ghtml)_
+
