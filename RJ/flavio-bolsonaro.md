@@ -2294,3 +2294,6 @@
 - **[2026-09-24 22:24 UTC]** Lula tinha 14 pontos de vantagem para Bolsonaro em 2022 a 10 dias da eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tinha-14-pontos-de-vantagem-para-bolsonaro-em-2022-a-10-dias-da-eleicao.shtml)_
 
+- **[2026-09-24 20:38 UTC]** Entre Lula e Flávio, Brasil dá as costas ao futuro, e Renan é candidato mais adequado, diz The Economist
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entre-lula-e-flavio-brasil-da-as-costas-ao-futuro-e-renan-e-candidato-mais-adequado-diz-the-economist.shtml)_
+
