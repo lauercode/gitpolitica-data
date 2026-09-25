@@ -2348,3 +2348,6 @@
 - **[2026-09-25 12:30 UTC]** Fé une mulheres, e 46% das evangélicas preferem Flávio Bolsonaro enquanto 26% votam em Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fe-une-mulheres-e-46-das-evangelicas-preferem-flavio-bolsonaro-enquanto-26-votam-em-lula.shtml)_
 
+- **[2026-09-25 12:20 UTC]** Ex-deputado que apresentou projeto para retirar título de padroeira do Brasil foi assessor de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/ex-deputado-que-apresentou-projeto-para-retirar-titulo-de-padroeira-do-brasil-foi-assessor-de-bolsonaro.shtml)_
+
