@@ -2291,3 +2291,6 @@
 - **[2026-09-24 19:55 UTC]** Aliados de Flávio Bolsonaro minimizam efeitos de novas revelações sobre Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/bastidores-aliados-de-flavio-minimizam-efeitos-de-novas-revelacoes-sobre-vorcaro.ghtml)_
 
+- **[2026-09-24 22:24 UTC]** Lula tinha 14 pontos de vantagem para Bolsonaro em 2022 a 10 dias da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tinha-14-pontos-de-vantagem-para-bolsonaro-em-2022-a-10-dias-da-eleicao.shtml)_
+
