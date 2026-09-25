@@ -74,3 +74,6 @@
 - **[2026-09-18 09:05 UTC]** Leticia Vieira e Pedro Alves vão a estreia de 'Vermelho Sangue' em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/leticia-vieira-e-pedro-alves-vao-a-estreia-de-vermelho-sangue-em-sp.shtml)_
 
+- **[2026-09-25 15:45 UTC]** França enviará tropas à Arábia Saudita para proteger infraestrutura de energia no mar Vermelho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/franca-enviara-tropas-a-arabia-saudita-para-proteger-infraestrutura-de-energia-no-mar-vermelho.shtml)_
+
