@@ -2318,3 +2318,6 @@
 - **[2026-09-24 23:00 UTC]** Campanha de Lula diz que veto às bets pega Flávio no contrapé
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-diz-que-veto-as-bets-pega-flavio-no-contrape.shtml)_
 
+- **[2026-09-25 02:58 UTC]** Defesa de Flávio pede que Fachin suspenda investigações e acusa PT de “escolher” relatores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-flavio-pede-que-fachin-suspenda-investigacoes-e-acusa-pt-de-escolher-relatores/)_
+
