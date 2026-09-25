@@ -488,3 +488,6 @@
 - **[2026-09-25 03:00 UTC]** Como será a retirada do helicóptero que caiu em SC e matou cantor Rick e outras 4 pessoas
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/25/como-sera-retirada-helicoptero-caiu-sc-matou-rick-outras-4-pessoas.ghtml)_
 
+- **[2026-09-25 15:29 UTC]** Viúva do cantor Rick publica carta para agradecer carinho de fãs e amigos após funeral: 'Seguirá eternamente no coração de todos'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/25/carta-viuva-do-rick-enterro-em-sorocaba.ghtml)_
+
