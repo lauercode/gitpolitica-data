@@ -329,3 +329,6 @@
 - **[2026-09-24 21:46 UTC]** Renan Santos quer mudar divisão de recursos entre estados: 'Vamos premiar quem vai bem e punir quem vai mal'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/24/renan-santos-quer-mudar-divisao-de-recursos-entre-estados-vamos-premiar-quem-vai-bem-e-punir-quem-vai-mal.ghtml)_
 
+- **[2026-09-25 13:55 UTC]** De olho no maior colégio eleitoral do Nordeste, Renan Santos agenda ato em Salvador
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/de-olho-no-maior-colegio-eleitoral-do-nordeste-renan-santos-agenda-ato-em-salvador.ghtml)_
+
