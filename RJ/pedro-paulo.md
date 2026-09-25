@@ -440,3 +440,6 @@
 - **[2026-09-25 08:00 UTC]** ‘Me autointitulo radical de centro’, diz Pedro Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/me-autointitulo-radical-de-centro-diz-pedro-paulo.ghtml)_
 
+- **[2026-09-25 09:22 UTC]** Conselho do MPF decide hoje se abre investigação contra Paulo Gonet
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/conselho-do-mpf-decide-hoje-se-abre-investigacao-contra-paulo-gonet)_
+
