@@ -56,3 +56,6 @@
 - **[2026-09-24 21:43 UTC]** Datafolha: Em PE, Raquel Lyra tem 48%; João Campos tem 44% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-em-pe-raquel-lyra-tem-48-pontos-percentuais-joo-campos-tem-44-no-primeiro-turno.ghtml)_
 
+- **[2026-09-25 13:33 UTC]** Lula faz ato ao lado de João Campos no Recife
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/lula-faz-ato-ao-lado-de-joao-campos-no-recife.ghtml)_
+
