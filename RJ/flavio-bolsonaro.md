@@ -2378,3 +2378,6 @@
 - **[2026-09-25 16:56 UTC]** Janja publica foto de Lula com Nossa Senhora após desgaste de Flávio com boato sobre santa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/janja-publica-foto-de-lula-com-nossa-senhora-apos-desgaste-de-flavio-com-boato-sobre-santa.shtml)_
 
+- **[2026-09-25 16:42 UTC]** Flávio Bolsonaro dá dinheiro aos 'peixes' da milícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/09/flavio-bolsonaro-da-dinheiro-aos-peixes-da-milicia.shtml)_
+
