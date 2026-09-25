@@ -434,3 +434,6 @@
 - **[2026-09-23 10:54 UTC]** Paulo Betti vende imóvel com projeto de Niemeyer que pertenceu a Darcy Ribeiro por R$ 485 mil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/paulo-betti-vende-imovel-com-projeto-de-niemeyer-que-pertenceu-a-darcy-ribeiro-por-r-485-mil.shtml)_
 
+- **[2026-09-25 03:55 UTC]** Conselho Superior do Ministério Público analisa conduta de Paulo Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/conselho-superior-do-ministerio-publico-analisa-conduta-de-paulo-gonet/)_
+
