@@ -2312,3 +2312,6 @@
 - **[2026-09-25 00:56 UTC]** Datafolha: Lula e Flávio têm 38% no interior; petista lidera nas regiões metropolitanas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-tem-38-no-interior-petista-lidera-nas-regioes-metropolitanas.shtml)_
 
+- **[2026-09-24 23:19 UTC]** Datafolha: Campanha de Lula vê alívio, e equipe de Flávio Bolsonaro mantém aposta em voto útil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-alivio-e-equipe-de-flavio-bolsonaro-mantem-aposta-em-voto-util.shtml)_
+
