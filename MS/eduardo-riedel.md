@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-09-25 22:18 UTC]** Quaest em MS: 73% aprovam e 10% desaprovam governo de Eduardo Riedel
+  _fonte: [G1 - Política:](https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/25/quaest-mato-grosso-do-sul-avaliacao-governo-25-setembro.ghtml)_
+
