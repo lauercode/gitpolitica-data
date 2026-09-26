@@ -347,3 +347,6 @@
 - **[2026-09-26 18:00 UTC]** Renan Santos prepara protesto na Globo se ficar fora do debate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/renan-santos-prepara-protesto-na-globo-se-ficar-fora-do-debate.shtml)_
 
+- **[2026-09-26 22:33 UTC]** Quaest no Pará: Lula, 40%; Flávio Bolsonaro, 35%; Augusto Cury, 7%; Renan Santos, 2%; Ronaldo Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml)_
+
