@@ -38,3 +38,6 @@
 - **[2026-09-24 01:05 UTC]** Felipe Camarão defende geração de empregos e redução da desigualdade no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/23/felipe-camarao-defende-geracao-de-empregos-e-reducao-da-desigualdade-no-maranhao.ghtml)_
 
+- **[2026-09-25 23:44 UTC]** Felipe Camarão apresenta propostas para mulheres, idosos e outros grupos vulneráveis
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/felipe-camarao-apresenta-propostas-para-mulheres-idosos-e-outros-grupos-vulneraveis.ghtml)_
+
