@@ -20,3 +20,6 @@
 - **[2026-09-19 20:54 UTC]** Yuri Ezequiel defende aumento de hospitais vinculados ao SUS na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/19/yuri-ezequiel-defende-aumento-de-hospitais-vinculados-ao-sus-na-paraiba.ghtml)_
 
+- **[2026-09-26 20:00 UTC]** Yuri Ezequiel, candidato ao governo da Paraíba, propõe salário mínimo regional para a Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/26/yuri-ezequiel-candidato-ao-governo-da-paraiba-propoe-salario-minimo-regional-para-a-paraiba.ghtml)_
+
