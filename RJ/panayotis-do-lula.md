@@ -11,3 +11,6 @@
 - **[2026-09-23 23:28 UTC]** Ato de Lula com artistas no RJ tem apelos contra bets, ataque a Trump e vaia a aliado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ato-de-lula-com-artistas-no-rj-tem-apelos-contra-bets-ataque-a-trump-e-vaia-a-aliado.shtml)_
 
+- **[2026-09-25 21:38 UTC]** Datafolha no RJ: Flávio Bolsonaro, 44%; Lula, 38%; Cury, Renan e Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/25/datafolha-no-rj-presidencia-25-setembro.ghtml)_
+
