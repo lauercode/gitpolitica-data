@@ -35,3 +35,6 @@
 - **[2026-09-25 22:24 UTC]** Quaest em Roraima: Arthur Henrique, 57%; Soldado Sampaio, 32%
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-governador-25-setembro.ghtml)_
 
+- **[2026-09-25 19:57 UTC]** Quaest: Arthur Henrique (PL) tem 57%, ante 32% de Soldado Sampaio (Republicanos) em Roraima
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-arthur-henrique-tem-57-ante-32-de-soldado-sampaio-em-roraima.shtml)_
+
