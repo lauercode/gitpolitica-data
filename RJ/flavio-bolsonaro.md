@@ -2474,3 +2474,6 @@
 - **[2026-09-26 00:12 UTC]** Como as bets entraram nas campanhas de Flávio e Lula na reta final do 1º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-as-bets-entraram-nas-campanhas-de-flavio-e-lula-na-reta-final-do-1o-turno/)_
 
+- **[2026-09-26 11:00 UTC]** Preços da picanha seguem em alta em Lula 3, mas sobem menos que no governo Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/precos-da-picanha-seguem-em-alta-em-lula-3-mas-sobem-menos-que-no-governo-bolsonaro.shtml)_
+
