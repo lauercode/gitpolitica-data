@@ -29,3 +29,6 @@
 - **[2026-09-24 00:51 UTC]** Saulo Arcangeli propõe obras públicas e incentivo à agricultura familiar para gerar empregos
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/23/saulo-arcangeli-propoe-obras-publicas-e-incentivo-a-agricultura-familiar-para-gerar-empregos.ghtml)_
 
+- **[2026-09-25 23:55 UTC]** Saulo Arcangeli propõe fortalecer atendimento a grupos vulneráveis no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/saulo-arcangeli-propoe-fortalecer-atendimento-a-grupos-vulneraveis-no-maranhao.ghtml)_
+
