@@ -497,3 +497,6 @@
 - **[2026-09-25 16:55 UTC]** Roberta Miranda critica aumento de seguidores de Rick após morte: 'Chega a ser cruel'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/roberta-miranda-critica-aumento-de-seguidores-de-rick-apos-morte-chega-a-ser-cruel.shtml)_
 
+- **[2026-09-26 07:00 UTC]** Helicóptero com cantor Rick e outros 4 a bordo caiu às 11h35, um minuto após emitir último sinal, estima FAB
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/26/helicoptero-cantor-rick-bordo-caiu-11h35-um-minuto-apos-ultimo-sinal-estima-fab.ghtml)_
+
