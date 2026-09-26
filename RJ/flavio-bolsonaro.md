@@ -2459,3 +2459,6 @@
 - **[2026-09-25 22:05 UTC]** Flávio chama veto às bets de 'estelionato eleitoral' e acusa Lula de oportunismo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/flavio-chama-veto-as-bets-de-estelionato-eleitoral-e-acusa-lula-de-oportunismo.ghtml)_
 
+- **[2026-09-26 03:00 UTC]** Datafolha, 2º turno: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/26/datafolha-24-set-segmentos.ghtml)_
+
