@@ -23,3 +23,6 @@
 - **[2026-09-22 21:54 UTC]** Cadu de Lula defende ampliação da Patrulha Maria da Penha no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/22/cadu-de-lula-defende-ampliacao-da-patrulha-maria-da-penha-no-rn.ghtml)_
 
+- **[2026-09-25 23:29 UTC]** Braide defende ampliar Patrulha Maria da Penha e criar ações para idosos e pessoas com deficiência
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/braide-defende-ampliar-patrulha-maria-da-penha-e-criar-acoes-para-idosos-e-pessoas-com-deficiencia.ghtml)_
+
