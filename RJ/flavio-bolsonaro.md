@@ -2465,3 +2465,6 @@
 - **[2026-09-25 23:00 UTC]** Campanha de Flávio Bolsonaro vê estrago com notícia falsa sobre Nossa Senhora e tenta conter danos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-bolsonaro-ve-estrago-com-noticia-falsa-sobre-nossa-senhora-e-tenta-conter-danos.shtml)_
 
+- **[2026-09-25 23:00 UTC]** A ciranda não explicada do candidato Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/09/a-ciranda-nao-explicada-do-candidato-flavio-bolsonaro.shtml)_
+
