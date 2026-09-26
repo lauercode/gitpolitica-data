@@ -341,3 +341,6 @@
 - **[2026-09-25 22:15 UTC]** Quaest em MT: Flávio Bolsonaro, 50%; Lula, 25%; Augusto Cury, 5%; Ronaldo Caiado, 4%; Renan Santos, 1%; Romeu Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/25/quaest-mt-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 23:46 UTC]** Renan Santos defende reforma da previdência atrelada à reforma trabalhista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/renan-santos-defende-reforma-da-previdncia-atrelada-reforma-trabalhista.ghtml)_
+
