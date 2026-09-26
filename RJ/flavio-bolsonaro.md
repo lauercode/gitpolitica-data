@@ -2411,3 +2411,6 @@
 - **[2026-09-25 22:27 UTC]** Quaest no RN: Lula, 52%; Flávio Bolsonaro, 25%; Augusto Cury, 6%; Renan Santos, 2%; Caiado, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 22:18 UTC]** Quaest em MS: Flávio Bolsonaro, 42%; Lula, 27%; Caiado, 4%; Cury, 4%; Renan Santos, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/25/quaest-mato-grosso-do-sul-presidente-25-setembro.ghtml)_
+
