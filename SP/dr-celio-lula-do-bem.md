@@ -23,3 +23,6 @@
 - **[2026-09-25 21:38 UTC]** Datafolha em SP: Flávio Bolsonaro, 38%; Lula, 33%; Cury, 7%; Caiado, 5%; Renan, 4%; Zema, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/25/datafolha-sp-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 21:25 UTC]** Empresários encontram Lula em SP e esperam ouvir mais compromisso com questão fiscal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/lula-encontra-empresarios-em-evento-em-sao-paulo-apos-proibir-bets.shtml)_
+
