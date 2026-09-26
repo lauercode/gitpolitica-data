@@ -356,3 +356,6 @@
 - **[2026-09-25 21:38 UTC]** Datafolha no DF: Flávio, 41%; Lula, 34%; Caiado; 9%; Cury, 4%; Renan, 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-df-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 21:37 UTC]** Datafolha em MG: Lula, 39%; Flávio Bolsonaro, 37%; Cury, 5%; Zema, 4%; Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/25/datafolha-mg-presidente-25-setembro.ghtml)_
+
