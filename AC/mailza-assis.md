@@ -32,3 +32,6 @@
 - **[2026-09-25 19:14 UTC]** 'Cada pessoa responde por seu ato', diz Mailza Assis sobre condenação de ex-governador do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/cada-pessoa-responde-por-seu-ato-diz-mailza-assis-sobre-condenacao-de-ex-governador-do-acre.ghtml)_
 
+- **[2026-09-25 22:28 UTC]** Quaest no AC: 61% aprovam e 23% desaprovam governo de Mailza Assis
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/quaest-ac-avaliacao-governo-25-setembro.ghtml)_
+
