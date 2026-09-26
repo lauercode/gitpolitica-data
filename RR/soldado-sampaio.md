@@ -29,3 +29,6 @@
 - **[2026-09-25 22:30 UTC]** Quaest em Roraima: 54% aprovam e 27% desaprovam governo de Soldado Sampaio
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-governador-25-de-setembro.ghtml)_
 
+- **[2026-09-25 22:24 UTC]** Quaest em Roraima: Arthur Henrique, 57%; Soldado Sampaio, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-governador-25-setembro.ghtml)_
+
