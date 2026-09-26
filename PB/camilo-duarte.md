@@ -8,3 +8,6 @@
 - **[2026-09-19 15:23 UTC]** Camilo Duarte, candidato ao governo da Paraíba, defende ampliação da rede de saúde e redução de analfabetismo
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/19/camilo-duarte-candidato-ao-governo-da-paraiba-defende-ampliacao-da-rede-de-saude-e-reducao-de-analfabetismo.ghtml)_
 
+- **[2026-09-26 20:32 UTC]** Camilo Duarte, candidato ao governo da Paraíba, defende aumento do salário mínimo
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/26/camilo-duarte-candidato-ao-governo-da-paraiba-defende-aumento-do-salario-minimo.ghtml)_
+
