@@ -1019,3 +1019,6 @@
 - **[2026-09-25 15:06 UTC]** Flávio Bolsonaro volta a parecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-25 20:24 UTC]** Presidente Lula assina MP que proíbe as Bets no Brasil
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-assina-mp-que-proibe-bets-no-brasil)_
+
