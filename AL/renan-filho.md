@@ -59,3 +59,6 @@
 - **[2026-09-25 20:57 UTC]** Quaest em AL: JHC tem 43%; e Renan Filho, 41%
   _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-governador-25-setembro.ghtml)_
 
+- **[2026-09-25 18:31 UTC]** Quaest: JHC tem 43% e Renan Filho, 41%, em Alagoas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-jhc-tem-43-e-renan-filho-41-em-alagoas.shtml)_
+
