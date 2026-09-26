@@ -338,3 +338,6 @@
 - **[2026-09-25 22:42 UTC]** Quaest no AC: Flávio, 50%; Lula, 24%; Cury, 4%; Caiado, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/quaest-ac-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 22:18 UTC]** Quaest em MS: Flávio Bolsonaro, 42%; Lula, 27%; Caiado, 4%; Cury, 4%; Renan Santos, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/25/quaest-mato-grosso-do-sul-presidente-25-setembro.ghtml)_
+
