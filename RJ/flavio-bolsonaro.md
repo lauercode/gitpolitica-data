@@ -2444,3 +2444,6 @@
 - **[2026-09-25 18:54 UTC]** Notícia falsa sobre Nossa Senhora Aparecida viraliza nas redes com críticas a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/noticia-falsa-sobre-nossa-senhora-aparecida-viraliza-nas-redes-com-criticas-a-flavio-bolsonaro.shtml)_
 
+- **[2026-09-25 18:28 UTC]** Datafolha: Flávio Bolsonaro lidera em SP e RJ, Lula fica à frente em PE, e MG tem empate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-lidera-em-sp-e-rj-lula-fica-a-frente-em-pe-e-mg-tem-empate.shtml)_
+
