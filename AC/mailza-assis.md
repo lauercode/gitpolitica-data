@@ -35,3 +35,6 @@
 - **[2026-09-25 22:28 UTC]** Quaest no AC: 61% aprovam e 23% desaprovam governo de Mailza Assis
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/quaest-ac-avaliacao-governo-25-setembro.ghtml)_
 
+- **[2026-09-25 19:47 UTC]** Quaest: Mailza Assis (PP), com 36%, lidera disputa ao Governo do Acre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-mailza-assis-pp-com-36-lidera-disputa-ao-governo-do-acre.shtml)_
+
