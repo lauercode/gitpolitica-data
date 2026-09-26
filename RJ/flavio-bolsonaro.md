@@ -2492,3 +2492,6 @@
 - **[2026-09-26 15:00 UTC]** Se Flávio Bolsonaro for eleito, Brasil vai virar Venezuela
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/09/se-flavio-bolsonaro-for-eleito-brasil-vai-virar-venezuela.shtml)_
 
+- **[2026-09-26 13:31 UTC]** Lula tenta ligar Flávio Bolsonaro a escândalos e diz que Vorcaro corrompeu o país com orgia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-ligar-flavio-bolsonaro-a-escandalos-e-diz-que-vorcaro-corrompeu-o-pais-com-orgia.shtml)_
+
