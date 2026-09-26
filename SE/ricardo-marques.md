@@ -29,3 +29,6 @@
 - **[2026-09-22 22:51 UTC]** Eleições 2026: Ricardo Marques diz que vai reduzir filas na saúde e ofertar serviço com especialistas
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-ricardo-marques-diz-que-vai-reduzir-filas-na-saude-e-ofertar-servico-com-especialistas.ghtml)_
 
+- **[2026-09-25 23:16 UTC]** Eleições 2026: Ricardo Marques fala sobre 'Protege Mulher' e melhorias para policiais
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-ricardo-marques-fala-sobre-protege-mulher-e-melhorias-para-policiais.ghtml)_
+
