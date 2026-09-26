@@ -38,3 +38,6 @@
 - **[2026-09-25 22:26 UTC]** Quaest no Maranhão: Eduardo Braide, 46%; Orleans Brandão, 27%
   _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/quaest-no-maranhao-25-setembro.ghtml)_
 
+- **[2026-09-26 23:06 UTC]** Orleans Brandão apresenta propostas para ampliar políticas de inclusão no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/26/orleans-brandao-apresenta-propostas-para-ampliar-politicas-de-inclusao-no-maranhao.ghtml)_
+
