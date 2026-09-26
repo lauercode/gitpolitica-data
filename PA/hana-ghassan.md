@@ -62,3 +62,6 @@
 - **[2026-09-26 22:35 UTC]** Quaest no Pará: 47% aprovam e 25% desaprovam governo de Hana Ghassan (MDB)
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-avaliacao-governo-26-setembro.ghtml)_
 
+- **[2026-09-26 22:32 UTC]** Quaest no Pará: Dr Daniel, 41%; Hana Ghassan, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-governo-26-setembro.ghtml)_
+
