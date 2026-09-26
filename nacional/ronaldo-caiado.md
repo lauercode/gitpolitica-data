@@ -71,3 +71,6 @@
 - **[2026-09-24 22:02 UTC]** Quaest na BA: Lula, 58%; Flávio Bolsonaro, 23%; Augusto Cury, 4%; Ronaldo Caiado, 2%; Renan Santos, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-bahia-presidente-24-setembro.ghtml)_
 
+- **[2026-09-25 22:15 UTC]** Quaest em MT: Flávio Bolsonaro, 50%; Lula, 25%; Augusto Cury, 5%; Ronaldo Caiado, 4%; Renan Santos, 1%; Romeu Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/25/quaest-mt-presidente-25-setembro.ghtml)_
+
