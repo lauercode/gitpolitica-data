@@ -2441,3 +2441,6 @@
 - **[2026-09-25 19:23 UTC]** André Mendonça determina que redes sociais derrubem notícia falsa sobre Flávio Bolsonaro e Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/andre-mendonca-determina-que-redes-sociais-derrubem-noticia-falsa-sobre-flavio-bolsonaro-e-nossa-senhora.shtml)_
 
+- **[2026-09-25 18:54 UTC]** Notícia falsa sobre Nossa Senhora Aparecida viraliza nas redes com críticas a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/noticia-falsa-sobre-nossa-senhora-aparecida-viraliza-nas-redes-com-criticas-a-flavio-bolsonaro.shtml)_
+
