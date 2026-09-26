@@ -506,3 +506,6 @@
 - **[2026-09-26 13:48 UTC]** Irmão de Rick relembra declaração de fã sobre hit da dupla em telefonema: ‘A música me salvou’
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/26/irmao-de-rick-relembra-declaracao-de-fa-sobre-hit-da-dupla-em-telefonema-a-musica-me-salvou.ghtml)_
 
+- **[2026-09-26 15:27 UTC]** Helicóptero de Rick caiu 11 minutos após horário previsto para pouso, estima FAB
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/helicoptero-de-rick-caiu-11-minutos-apos-horario-previsto-para-pouso-estima-fab.shtml)_
+
