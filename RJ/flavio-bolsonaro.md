@@ -2420,3 +2420,6 @@
 - **[2026-09-25 22:11 UTC]** Quaest no ES: Flávio Bolsonaro, 37%; Lula, 31%; Cury, 5%
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/25/quaest-espirito-santo-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 21:39 UTC]** Quaest em AL: Lula, 44%; Flávio Bolsonaro, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-presidente-de-25-de-setembro.ghtml)_
+
