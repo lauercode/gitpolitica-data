@@ -116,3 +116,6 @@
 - **[2026-09-24 23:34 UTC]** Dr. Furlan participa de carreata em Oiapoque
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/dr-furlan-participa-de-carreata-em-oiapoque.ghtml)_
 
+- **[2026-09-25 22:12 UTC]** Dr. Furlan visita bairros e participa de reunião em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/25/dr-furlan-visita-bairros-e-participa-de-reuniao-em-macapa.ghtml)_
+
