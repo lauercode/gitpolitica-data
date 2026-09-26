@@ -2402,3 +2402,6 @@
 - **[2026-09-25 22:42 UTC]** Quaest no AC: Flávio, 50%; Lula, 24%; Cury, 4%; Caiado, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/quaest-ac-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 22:32 UTC]** Quaest em Roraima: Flávio Bolsonaro, 59%; Lula, 20%
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-presidente-25-de-setembro.ghtml)_
+
