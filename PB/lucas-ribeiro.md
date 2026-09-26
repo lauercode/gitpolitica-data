@@ -56,3 +56,6 @@
 - **[2026-09-23 22:29 UTC]** Lucas Ribeiro defende ampliar o combate ao crime organizado na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/lucas-ribeiro-diz-querer-ampliar-combate-ao-crime-organizado-na-paraiba.ghtml)_
 
+- **[2026-09-25 21:22 UTC]** Lucas Ribeiro promete fazer Centro de Convenções no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/25/lucas-ribeiro-promete-fazer-centro-de-convecoes-no-sertao-da-paraiba.ghtml)_
+
