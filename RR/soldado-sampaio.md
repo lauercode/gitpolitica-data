@@ -26,3 +26,6 @@
 - **[2026-09-15 15:04 UTC]** Soldado Sampaio é entrevistado no Jornal de Roraima 1ª edição
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/ao-vivo/entrevista-com-os-candidatos-ao-governo-de-roraima-na-rede-amazonica.ghtml)_
 
+- **[2026-09-25 22:30 UTC]** Quaest em Roraima: 54% aprovam e 27% desaprovam governo de Soldado Sampaio
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-governador-25-de-setembro.ghtml)_
+
