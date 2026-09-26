@@ -344,3 +344,6 @@
 - **[2026-09-25 23:46 UTC]** Renan Santos defende reforma da previdência atrelada à reforma trabalhista
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/renan-santos-defende-reforma-da-previdncia-atrelada-reforma-trabalhista.ghtml)_
 
+- **[2026-09-26 18:00 UTC]** Renan Santos prepara protesto na Globo se ficar fora do debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/renan-santos-prepara-protesto-na-globo-se-ficar-fora-do-debate.shtml)_
+
