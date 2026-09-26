@@ -56,3 +56,6 @@
 - **[2026-09-23 23:36 UTC]** Hana Ghassan propõe qualificar a cadeia produtiva do turismo para atrair investimentos no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/23/hana-ghassan-propoe-qualificar-a-cadeia-produtiva-do-turismo-para-atrair-investimentos-no-para.ghtml)_
 
+- **[2026-09-25 23:23 UTC]** Hana Ghassan propõe ampliar uso de câmeras e drones na segurança pública do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/25/hana-ghassan-propoe-ampliar-uso-de-cameras-e-drones-na-seguranca-publica-do-para.ghtml)_
+
