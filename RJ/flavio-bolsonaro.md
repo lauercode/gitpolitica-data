@@ -2498,3 +2498,6 @@
 - **[2026-09-26 16:54 UTC]** 'Um clã tão radical quanto disfuncional': o que diz a reportagem de capa do Financial Times sobre a família Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-26 15:39 UTC]** Em carreata, Flávio Bolsonaro diz que Lula ‘está desesperado’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/26/em-carreata-flvio-bolsonaro-diz-que-lula-est-desesperado.ghtml)_
+
