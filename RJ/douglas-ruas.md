@@ -23,3 +23,6 @@
 - **[2026-09-24 21:50 UTC]** Datafolha: No RJ, Paes lidera com 43% das intenções de voto; Douglas Ruas tem 30%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-no-rj-paes-lidera-com-43-pontos-percentuais-das-intenes-de-voto-douglas-ruas-tem-30.ghtml)_
 
+- **[2026-09-26 20:01 UTC]** Paes dosa campanha com Lula, e Douglas Ruas recorre até a Vini Jr. para atrair bolsonaristas no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/paes-dosa-campanha-com-lula-e-douglas-ruas-recorre-ate-a-vini-jr-para-atrair-bolsonaristas-no-rj.shtml)_
+
