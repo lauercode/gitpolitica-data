@@ -143,3 +143,6 @@
 - **[2026-09-24 19:15 UTC]** Google e SpaceX estão testando IA em órbita; rede elétrica na Terra não consegue acompanhar
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/09/24/google-e-spacex-estao-testando-ia-em-orbita-rede-eletrica-na-terra-nao-consegue-acompanhar.ghtml)_
 
+- **[2026-09-25 19:21 UTC]** A destruição na Terra Indígena Ituna-Itatá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/txai-surui/2026/09/a-destruicao-na-terra-indigena-ituna-itata.shtml)_
+
