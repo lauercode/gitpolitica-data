@@ -2504,3 +2504,6 @@
 - **[2026-09-26 14:39 UTC]** Em São Paulo, Lula defende fim da jornada 6x1 e das bets e vincula Flávio a Vorcaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/26/em-so-paulo-lula-defende-fim-da-jornada-6x1-e-das-bets.ghtml)_
 
+- **[2026-09-26 20:59 UTC]** Campanha de Flávio reage para conter impacto de fake news sobre Nossa Senhora
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/campanha-flavio-trabalha-conter-crise-gerada-fake-news-nossa-senhora/)_
+
