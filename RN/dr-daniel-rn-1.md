@@ -14,3 +14,6 @@
 - **[2026-09-21 16:38 UTC]** Veja trechos da entrevista com Dr Daniel, candidata ao governo do Pará pelo Podemos
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/playlist/veja-trechos-da-entrevista-com-dr-daniel-candidata-ao-governo-do-para-pelo-podemos.ghtml)_
 
+- **[2026-09-26 22:32 UTC]** Quaest no Pará: Dr Daniel, 41%; Hana Ghassan, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-governo-26-setembro.ghtml)_
+
