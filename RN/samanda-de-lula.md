@@ -38,3 +38,6 @@
 - **[2026-09-24 17:22 UTC]** Na TV, Flávio diz que Lula é 'pai do tigrinho' e petista associa senador ao crime organizado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/na-tv-flvio-diz-que-lula-pai-do-tigrinho-e-petista-associa-senador-ao-crime-organizado.ghtml)_
 
+- **[2026-09-25 22:26 UTC]** Quaest para o Senado no RN: Styvenson Valentim, 19%; Zenaide Maia, 12%; Coronel Hélio, 9%; Samanda de Lula, 9%; Rafael Motta, 7%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-senado-25-setembro.ghtml)_
+
