@@ -2480,3 +2480,6 @@
 - **[2026-09-26 10:22 UTC]** Campanha de Flávio diz que Lula reage à pressão sobre endividamento com fim de bets e minimiza ganho eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-diz-que-lula-reage-a-pressao-sobre-endividamento-com-fim-de-bets-e-minimiza-ganho-eleitoral.shtml)_
 
+- **[2026-09-26 08:11 UTC]** Flávio fala sobre volta do pai em evento: 'Quem quer ver o Bolsonaro aqui no ano que vem dá um grito'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-fala-sobre-volta-do-pai-em-evento-quem-quer-ver-o-bolsonaro-aqui-no-ano-que-vem-da-um-grito.shtml)_
+
