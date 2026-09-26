@@ -500,3 +500,6 @@
 - **[2026-09-26 07:00 UTC]** Helicóptero com cantor Rick e outros 4 a bordo caiu às 11h35, um minuto após emitir último sinal, estima FAB
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/26/helicoptero-cantor-rick-bordo-caiu-11h35-um-minuto-apos-ultimo-sinal-estima-fab.ghtml)_
 
+- **[2026-09-26 06:18 UTC]** Zezé Di Camargo diz que Rick está no 'lado direito de Deus' e que torce por Brasil à direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/zeze-di-camargo-diz-que-rick-esta-no-lado-direito-de-deus-e-que-torce-por-brasil-a-direita.shtml)_
+
