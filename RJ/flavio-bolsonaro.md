@@ -2456,3 +2456,6 @@
 - **[2026-09-25 22:21 UTC]** Mendonça manda derrubar posts sobre Flávio retirar Nossa Senhora Aparecida como Padroeira
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-tirar-posts-sobre-flavio-retirar-nossa-senhora-aparecida-como-padroeira/)_
 
+- **[2026-09-25 22:05 UTC]** Flávio chama veto às bets de 'estelionato eleitoral' e acusa Lula de oportunismo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/flavio-chama-veto-as-bets-de-estelionato-eleitoral-e-acusa-lula-de-oportunismo.ghtml)_
+
