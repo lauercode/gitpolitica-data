@@ -32,3 +32,6 @@
 - **[2026-09-25 22:55 UTC]** Jão encanta e confunde fãs em show teatral de nova turnê, com Erika Hilton
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/jao-encanta-e-confunde-fas-em-show-teatral-de-nova-turne-com-erika-hilton.shtml)_
 
+- **[2026-09-26 02:23 UTC]** SBT perde recurso e exibe resposta de Erika Hilton no Ratinho antes das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-perde-recurso-e-exibe-resposta-de-erika-hilton-no-ratinho-antes-das-eleicoes.shtml)_
+
