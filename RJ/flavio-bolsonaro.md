@@ -2405,3 +2405,6 @@
 - **[2026-09-25 22:32 UTC]** Quaest em Roraima: Flávio Bolsonaro, 59%; Lula, 20%
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-presidente-25-de-setembro.ghtml)_
 
+- **[2026-09-25 22:31 UTC]** Datafolha: Flávio Bolsonaro lidera em SP, RJ e DF; Lula fica à frente em PE; e MG tem empate técnico
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/25/datafolha-presidente-estados-25-setembro.ghtml)_
+
