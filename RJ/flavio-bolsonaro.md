@@ -2396,3 +2396,6 @@
 - **[2026-09-25 22:53 UTC]** Flávio Bolsonaro chama proibição das bets de oportunismo de Lula e 'estelionato eleitoral'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/flavio-bolsonaro-chama-proibicao-das-bets-de-oportunismo-de-lula-e-estelionato-eleitoral.ghtml)_
 
+- **[2026-09-25 22:48 UTC]** Quaest no MA: Lula, 59%; Flávio Bolsonaro, 22%
+  _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/quaest-ma-presidente-25-setembro.ghtml)_
+
