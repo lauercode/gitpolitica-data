@@ -77,3 +77,6 @@
 - **[2026-09-25 20:08 UTC]** Cadu de Lula propõe obras no camelódromo e melhorias na drenagem do Alecrim
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/cadu-de-lula-propoe-obras-no-camelodromo-e-melhorias-na-drenagem-do-alecrim.ghtml)_
 
+- **[2026-09-25 22:24 UTC]** Quaest no RN: Allyson, 39%; Cadu de Lula, 21%; Álvaro Dias, 18%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-governador-25-setembro.ghtml)_
+
