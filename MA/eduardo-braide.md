@@ -35,3 +35,6 @@
 - **[2026-09-25 22:26 UTC]** Quaest no Maranhão: Eduardo Braide, 46%; Orleans Brandão, 27%
   _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/quaest-no-maranhao-25-setembro.ghtml)_
 
+- **[2026-09-25 20:06 UTC]** Quaest: Eduardo Braide (PSD), com 46%, lidera disputa no Maranhão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-eduardo-braide-psd-com-46-lidera-disputa-no-maranhao.shtml)_
+
