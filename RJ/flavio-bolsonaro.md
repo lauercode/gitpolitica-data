@@ -2495,3 +2495,6 @@
 - **[2026-09-26 13:31 UTC]** Lula tenta ligar Flávio Bolsonaro a escândalos e diz que Vorcaro corrompeu o país com orgia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-ligar-flavio-bolsonaro-a-escandalos-e-diz-que-vorcaro-corrompeu-o-pais-com-orgia.shtml)_
 
+- **[2026-09-26 16:54 UTC]** 'Um clã tão radical quanto disfuncional': o que diz a reportagem de capa do Financial Times sobre a família Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss)_
+
