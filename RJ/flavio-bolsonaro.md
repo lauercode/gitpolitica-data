@@ -2423,3 +2423,6 @@
 - **[2026-09-25 21:39 UTC]** Quaest em AL: Lula, 44%; Flávio Bolsonaro, 32%
   _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-presidente-de-25-de-setembro.ghtml)_
 
+- **[2026-09-25 21:39 UTC]** Datafolha em PE: Lula, 60%; Flávio Bolsonaro, 24%; Cury, 3%; Renan, 2%; Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/25/datafolha-pe-presidente-25-setembro.ghtml)_
+
