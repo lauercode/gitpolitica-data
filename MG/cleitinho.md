@@ -86,3 +86,6 @@
 - **[2026-09-24 21:35 UTC]** Datafolha: Em MG, Cleitinho tem 40%; Patrus, 15% e Kalil, 9% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-em-mg-cleitinho-tem-40-pontos-percentuais-patrus-15-e-kalil-9-no-primeiro-turno.ghtml)_
 
+- **[2026-09-25 21:36 UTC]** Nova pesquisa Quaest em MG testa Cleitinho, Kalil, Mateus Simões e Patrus a cinco dias do 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/nova-pesquisa-quaest-em-mg-testa-cleitinho-kalil-mateus-simoes-e-patrus-a-cinco-dias-do-1o-turno.ghtml)_
+
