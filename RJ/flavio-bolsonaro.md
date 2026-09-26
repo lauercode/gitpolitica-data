@@ -2486,3 +2486,6 @@
 - **[2026-09-26 12:57 UTC]** De Bolsa Família a bets, Lula procura “bala de prata” contra ascensão de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/de-bolsa-familia-a-bets-lula-procura-bala-de-prata-contra-ascensao-de-flavio/)_
 
+- **[2026-09-26 17:43 UTC]** 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/em-todo-escandalo-ele-tem-algum-amigo-diz-haddad-sobre-flavio-bolsonaro-apos-caminhada-com-lula-em-sp.ghtml)_
+
