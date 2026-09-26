@@ -2510,3 +2510,6 @@
 - **[2026-09-26 16:54 UTC]** 'Um clã tão radical quanto disfuncional', diz reportagem de capa do Financial Times sobre a família Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-26 00:45 UTC]** O papel dos governos Temer, Bolsonaro e Lula no mercado de apostas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss)_
+
