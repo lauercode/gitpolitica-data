@@ -32,3 +32,6 @@
 - **[2026-09-21 23:05 UTC]** Dr. Daniel promete romper contrato com a Águas do Pará e zerar IPVA para taxistas e motoristas de aplicativo
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/21/dr-daniel-promete-romper-contrato-com-a-aguas-do-para-e-zerar-ipva-para-taxistas-e-motoristas-de-aplicativo.ghtml)_
 
+- **[2026-09-26 00:04 UTC]** Dr. Daniel propõe interligar inteligência policial e criar programa 'Na Ativa' para reforçar segurança no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/25/dr-daniel-propoe-interligar-inteligencia-policial-e-criar-programa-na-ativa-para-reforcar-seguranca-no-para.ghtml)_
+
