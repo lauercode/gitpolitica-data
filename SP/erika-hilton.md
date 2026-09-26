@@ -29,3 +29,6 @@
 - **[2026-09-22 14:03 UTC]** TRE manda derrubar vídeo de humorista que chama Erika Hilton de 'homem vestido de mulher'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/tre-manda-derrubar-video-de-humorista-que-chama-erika-hilton-de-homem-vestido-de-mulher.shtml)_
 
+- **[2026-09-25 22:55 UTC]** Jão encanta e confunde fãs em show teatral de nova turnê, com Erika Hilton
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/jao-encanta-e-confunde-fas-em-show-teatral-de-nova-turne-com-erika-hilton.shtml)_
+
