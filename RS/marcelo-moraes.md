@@ -2720,3 +2720,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-25 22:57 UTC]** Zanin e Moraes votam para multar advogado em primeiro caso de prompt injection no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-e-moraes-votam-para-multar-advogado-em-primeiro-caso-de-prompt-injection-no-stf/)_
 
+- **[2026-09-25 23:00 UTC]** Dino deve devolver relatório sobre Moraes a julgamento após 2º turno, dizem aliados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-deve-devolver-relatorio-sobre-moraes-a-julgamento-apos-2o-turno-dizem-aliados.shtml)_
+
