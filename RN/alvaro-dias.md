@@ -32,3 +32,6 @@
 - **[2026-09-25 20:12 UTC]** Álvaro Dias apresenta propostas para saúde em programa eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/alvaro-dias-apresenta-propostas-para-saude-em-programa-eleitoral.ghtml)_
 
+- **[2026-09-25 22:24 UTC]** Quaest no RN: Allyson, 39%; Cadu de Lula, 21%; Álvaro Dias, 18%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-governador-25-setembro.ghtml)_
+
