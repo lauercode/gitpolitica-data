@@ -350,3 +350,6 @@
 - **[2026-09-25 21:38 UTC]** Datafolha no RJ: Flávio Bolsonaro, 44%; Lula, 38%; Cury, Renan e Caiado, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/25/datafolha-no-rj-presidencia-25-setembro.ghtml)_
 
+- **[2026-09-25 21:38 UTC]** Datafolha em SP: Flávio Bolsonaro, 38%; Lula, 33%; Cury, 7%; Caiado, 5%; Renan, 4%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/25/datafolha-sp-presidente-25-setembro.ghtml)_
+
