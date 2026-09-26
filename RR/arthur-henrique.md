@@ -32,3 +32,6 @@
 - **[2026-09-14 16:49 UTC]** Candidato ao governo, Arthur Henrique propõe obras em estradas e pontes de concreto
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/14/candidato-ao-governo-arthur-henrique-propoe-obras-em-estradas-e-pontes-de-concreto.ghtml)_
 
+- **[2026-09-25 22:24 UTC]** Quaest em Roraima: Arthur Henrique, 57%; Soldado Sampaio, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-governador-25-setembro.ghtml)_
+
