@@ -2453,3 +2453,6 @@
 - **[2026-09-25 16:11 UTC]** Alckmin explora notícia falsa sobre Flávio, acirra disputa religiosa e diz que Lula conserva 'tradições católicas'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alckmin-acirra-disputa-religiosa-com-flavio-bolsonaro-e-diz-que-lula-conserva-tradicoes-catolicas.shtml)_
 
+- **[2026-09-25 22:21 UTC]** Mendonça manda derrubar posts sobre Flávio retirar Nossa Senhora Aparecida como Padroeira
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-tirar-posts-sobre-flavio-retirar-nossa-senhora-aparecida-como-padroeira/)_
+
