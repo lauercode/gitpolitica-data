@@ -2513,3 +2513,6 @@
 - **[2026-09-26 00:45 UTC]** O papel dos governos Temer, Bolsonaro e Lula no mercado de apostas
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-26 22:33 UTC]** Quaest no Pará: Lula, 40%; Flávio Bolsonaro, 35%; Augusto Cury, 7%; Renan Santos, 2%; Ronaldo Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml)_
+
