@@ -332,3 +332,6 @@
 - **[2026-09-25 13:55 UTC]** De olho no maior colégio eleitoral do Nordeste, Renan Santos agenda ato em Salvador
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/de-olho-no-maior-colegio-eleitoral-do-nordeste-renan-santos-agenda-ato-em-salvador.ghtml)_
 
+- **[2026-09-25 22:27 UTC]** Quaest no RN: Lula, 52%; Flávio Bolsonaro, 25%; Augusto Cury, 6%; Renan Santos, 2%; Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-presidente-25-setembro.ghtml)_
+
