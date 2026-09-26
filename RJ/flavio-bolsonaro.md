@@ -2438,3 +2438,6 @@
 - **[2026-09-25 21:37 UTC]** Datafolha em MG: Lula, 39%; Flávio Bolsonaro, 37%; Cury, 5%; Zema, 4%; Caiado, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/25/datafolha-mg-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 19:23 UTC]** André Mendonça determina que redes sociais derrubem notícia falsa sobre Flávio Bolsonaro e Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/andre-mendonca-determina-que-redes-sociais-derrubem-noticia-falsa-sobre-flavio-bolsonaro-e-nossa-senhora.shtml)_
+
