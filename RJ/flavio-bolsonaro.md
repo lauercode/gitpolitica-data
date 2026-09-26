@@ -2501,3 +2501,6 @@
 - **[2026-09-26 15:39 UTC]** Em carreata, Flávio Bolsonaro diz que Lula ‘está desesperado’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/26/em-carreata-flvio-bolsonaro-diz-que-lula-est-desesperado.ghtml)_
 
+- **[2026-09-26 14:39 UTC]** Em São Paulo, Lula defende fim da jornada 6x1 e das bets e vincula Flávio a Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/26/em-so-paulo-lula-defende-fim-da-jornada-6x1-e-das-bets.ghtml)_
+
