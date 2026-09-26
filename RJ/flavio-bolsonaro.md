@@ -2516,3 +2516,6 @@
 - **[2026-09-26 22:33 UTC]** Quaest no Pará: Lula, 40%; Flávio Bolsonaro, 35%; Augusto Cury, 7%; Renan Santos, 2%; Ronaldo Caiado, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml)_
 
+- **[2026-09-26 18:47 UTC]** Flávio Bolsonaro volta a chamar Lula de 'pai do Tigrinho' após MP que proíbe bets
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-volta-a-chamar-lula-de-pai-do-tigrinho-apos-mp-que-proibe-bets.shtml)_
+
