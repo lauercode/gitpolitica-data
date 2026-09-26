@@ -17,3 +17,6 @@
 - **[2026-09-20 15:02 UTC]** Caetano Vilela honra ópera 'Don Carlo' com luzes e vozes soberbas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/caetano-vilela-honra-opera-don-carlo-com-luzes-e-vozes-soberbas.shtml)_
 
+- **[2026-09-26 04:00 UTC]** 'Nova direita nasceu porque ninguém mais aguentava Caetano Veloso', diz cineasta Josias Teófilo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/nova-direita-nasceu-porque-ninguem-mais-aguentava-caetano-veloso-diz-cineasta-josias-teofilo.shtml)_
+
