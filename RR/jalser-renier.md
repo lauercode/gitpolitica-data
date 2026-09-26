@@ -20,3 +20,6 @@
 - **[2026-09-24 21:39 UTC]** Jalser Renier é preso pela PF por suspeita de compra de votos e associação criminosa em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/24/jalser-renier-preso-pf-crime-eleitoral-boa-vista-2026.ghtml)_
 
+- **[2026-09-25 22:43 UTC]** Jalser Renier deixa presídio após audiência de custódia em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/jalser-renier-e-solto-apos-audiencia-de-custodia-em-boa-vista.ghtml)_
+
