@@ -26,3 +26,6 @@
 - **[2026-09-24 14:40 UTC]** Quaest em PE: 59% temem volta dos Bolsonaro ao poder; 27% receiam mais um mandato de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/24/quaest-o-que-da-mais-medo-em-pe-23-de-setembro.ghtml)_
 
+- **[2026-09-25 20:24 UTC]** Presidente Lula assina MP que proíbe as Bets no Brasil
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-assina-mp-que-proibe-bets-no-brasil)_
+
