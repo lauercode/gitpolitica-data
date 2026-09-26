@@ -2468,3 +2468,6 @@
 - **[2026-09-25 23:00 UTC]** A ciranda não explicada do candidato Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/09/a-ciranda-nao-explicada-do-candidato-flavio-bolsonaro.shtml)_
 
+- **[2026-09-26 00:13 UTC]** Voto útil ganha força na disputa entre Lula e Flávio mesmo quando a matemática não muda
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/voto-util-reta-final-lula-flavio/)_
+
