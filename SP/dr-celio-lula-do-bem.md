@@ -26,3 +26,6 @@
 - **[2026-09-25 21:25 UTC]** Empresários encontram Lula em SP e esperam ouvir mais compromisso com questão fiscal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/lula-encontra-empresarios-em-evento-em-sao-paulo-apos-proibir-bets.shtml)_
 
+- **[2026-09-26 17:43 UTC]** 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/em-todo-escandalo-ele-tem-algum-amigo-diz-haddad-sobre-flavio-bolsonaro-apos-caminhada-com-lula-em-sp.ghtml)_
+
