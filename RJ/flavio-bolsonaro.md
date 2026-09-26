@@ -2471,3 +2471,6 @@
 - **[2026-09-26 00:13 UTC]** Voto útil ganha força na disputa entre Lula e Flávio mesmo quando a matemática não muda
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/voto-util-reta-final-lula-flavio/)_
 
+- **[2026-09-26 00:12 UTC]** Como as bets entraram nas campanhas de Flávio e Lula na reta final do 1º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-as-bets-entraram-nas-campanhas-de-flavio-e-lula-na-reta-final-do-1o-turno/)_
+
