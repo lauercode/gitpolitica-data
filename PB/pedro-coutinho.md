@@ -20,3 +20,6 @@
 - **[2026-09-19 21:51 UTC]** Pedro Coutinho diz que vai sanear 100% das cidades da Região Metropolitana de João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/19/pedro-coutinho-diz-que-vai-sanear-100percent-das-cidades-da-regiao-metropolitana-de-joao-pessoa.ghtml)_
 
+- **[2026-09-26 20:15 UTC]** Pedro Coutinho, candidato ao governo da Paraíba, propõe investimentos em infraestrutura para João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/26/pedro-coutinho-candidato-ao-governo-da-paraiba-propoe-investimentos-em-infraestrutura-para-joao-pessoa.ghtml)_
+
