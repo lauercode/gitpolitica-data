@@ -1067,3 +1067,6 @@ direitos
 - **[2026-09-25 18:53 UTC]** Câmara de Marechal Floriano cassa mandato do prefeito Lidiney Gobbi após denúncias de fraudes em licitações
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/noticia/2026/09/25/camara-de-marechal-floriano-cassa-mandato-do-prefeito-lidiney-gobbi-apos-denuncias-de-fraudes-em-licitacoes.ghtml)_
 
+- **[2026-09-26 04:51 UTC]** Federação União Brasil/PP tende a crescer na Câmara e PL a cair, segundo DIAP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/09/federacao-uniao-brasilpp-tende-a-crescer-na-camara-e-pl-a-cair-segundo-diap.ghtml)_
+
