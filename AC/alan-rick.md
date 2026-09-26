@@ -503,3 +503,6 @@
 - **[2026-09-26 06:18 UTC]** Zezé Di Camargo diz que Rick está no 'lado direito de Deus' e que torce por Brasil à direita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/zeze-di-camargo-diz-que-rick-esta-no-lado-direito-de-deus-e-que-torce-por-brasil-a-direita.shtml)_
 
+- **[2026-09-26 13:48 UTC]** Irmão de Rick relembra declaração de fã sobre hit da dupla em telefonema: ‘A música me salvou’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/26/irmao-de-rick-relembra-declaracao-de-fa-sobre-hit-da-dupla-em-telefonema-a-musica-me-salvou.ghtml)_
+
