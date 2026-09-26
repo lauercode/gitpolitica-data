@@ -341,3 +341,6 @@
 - **[2026-09-25 22:18 UTC]** Quaest em MS: Flávio Bolsonaro, 42%; Lula, 27%; Caiado, 4%; Cury, 4%; Renan Santos, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/25/quaest-mato-grosso-do-sul-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 22:11 UTC]** Quaest no ES: Flávio Bolsonaro, 37%; Lula, 31%; Cury, 5%
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/25/quaest-espirito-santo-presidente-25-setembro.ghtml)_
+
