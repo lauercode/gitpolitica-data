@@ -2483,3 +2483,6 @@
 - **[2026-09-26 08:11 UTC]** Flávio fala sobre volta do pai em evento: 'Quem quer ver o Bolsonaro aqui no ano que vem dá um grito'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-fala-sobre-volta-do-pai-em-evento-quem-quer-ver-o-bolsonaro-aqui-no-ano-que-vem-da-um-grito.shtml)_
 
+- **[2026-09-26 12:57 UTC]** De Bolsa Família a bets, Lula procura “bala de prata” contra ascensão de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/de-bolsa-familia-a-bets-lula-procura-bala-de-prata-contra-ascensao-de-flavio/)_
+
