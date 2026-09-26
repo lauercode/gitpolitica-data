@@ -2477,3 +2477,6 @@
 - **[2026-09-26 11:00 UTC]** Preços da picanha seguem em alta em Lula 3, mas sobem menos que no governo Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/precos-da-picanha-seguem-em-alta-em-lula-3-mas-sobem-menos-que-no-governo-bolsonaro.shtml)_
 
+- **[2026-09-26 10:22 UTC]** Campanha de Flávio diz que Lula reage à pressão sobre endividamento com fim de bets e minimiza ganho eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-diz-que-lula-reage-a-pressao-sobre-endividamento-com-fim-de-bets-e-minimiza-ganho-eleitoral.shtml)_
+
