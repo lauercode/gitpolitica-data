@@ -32,3 +32,6 @@
 - **[2026-09-21 23:57 UTC]** Eduardo Braide apresenta propostas para juventude e fala em gerar empregos e ampliar tecnologia no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/eduardo-braide-apresenta-propostas-para-juventude-e-fala-em-gerar-empregos-e-ampliar-tecnologia-no-ma.ghtml)_
 
+- **[2026-09-25 22:26 UTC]** Quaest no Maranhão: Eduardo Braide, 46%; Orleans Brandão, 27%
+  _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/quaest-no-maranhao-25-setembro.ghtml)_
+
