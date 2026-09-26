@@ -32,3 +32,6 @@
 - **[2026-09-24 21:13 UTC]** Datafolha em MG: 41% aprovam, e 33% desaprovam governo de Mateus Simões
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/24/datafolha-mg-avaliacao-governo-24-setembro.ghtml)_
 
+- **[2026-09-25 21:36 UTC]** Nova pesquisa Quaest em MG testa Cleitinho, Kalil, Mateus Simões e Patrus a cinco dias do 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/nova-pesquisa-quaest-em-mg-testa-cleitinho-kalil-mateus-simoes-e-patrus-a-cinco-dias-do-1o-turno.ghtml)_
+
