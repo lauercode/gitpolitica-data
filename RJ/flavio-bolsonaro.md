@@ -2507,3 +2507,6 @@
 - **[2026-09-26 20:59 UTC]** Campanha de Flávio reage para conter impacto de fake news sobre Nossa Senhora
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/campanha-flavio-trabalha-conter-crise-gerada-fake-news-nossa-senhora/)_
 
+- **[2026-09-26 16:54 UTC]** 'Um clã tão radical quanto disfuncional', diz reportagem de capa do Financial Times sobre a família Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss)_
+
