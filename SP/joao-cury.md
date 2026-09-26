@@ -344,3 +344,6 @@
 - **[2026-09-25 22:11 UTC]** Quaest no ES: Flávio Bolsonaro, 37%; Lula, 31%; Cury, 5%
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/25/quaest-espirito-santo-presidente-25-setembro.ghtml)_
 
+- **[2026-09-25 21:39 UTC]** Datafolha em PE: Lula, 60%; Flávio Bolsonaro, 24%; Cury, 3%; Renan, 2%; Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/25/datafolha-pe-presidente-25-setembro.ghtml)_
+
