@@ -122,3 +122,6 @@
 - **[2026-09-26 21:40 UTC]** Dr. Furlan visita bairros e participa de plenária em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/26/dr-furlan-visita-bairros-e-participa-de-plenaria-em-macapa.ghtml)_
 
+- **[2026-09-27 19:42 UTC]** Dr. Furlan visita bairros e conjuntos habitacionais de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/27/dr-furlan-visita-bairros-e-habitacionais-de-macapa.ghtml)_
+
