@@ -17,3 +17,6 @@
 - **[2026-09-22 18:34 UTC]** Rogério Marinho propõe reforma judiciária para limitar poderes de ministros do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-propoe-reforma-judiciaria-para-limitar-poderes-de-ministros-do-stf/)_
 
+- **[2026-09-27 19:56 UTC]** Rogério Marinho acusa Dino de atropelar decisão de Mendonça sobre Nossa Senhora para favorecer Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-acusa-dino-de-atropelar-decisao-de-mendonca-sobre-nossa-senhora-para-favorecer-lula/)_
+
