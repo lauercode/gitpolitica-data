@@ -2531,3 +2531,6 @@
 - **[2026-09-27 15:41 UTC]** Flávio Dino determina volta de posts sobre Nossa Senhora Aparecida
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/flavio-dino-determina-volta-de-posts-sobre-nossa-senhora-aparecida)_
 
+- **[2026-09-27 14:37 UTC]** Em Aracaju, Flávio Bolsonaro diz que Lula tem dois filhos: "Lulinha e o tigrinho"
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml)_
+
