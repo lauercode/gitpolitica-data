@@ -59,3 +59,6 @@
 - **[2026-09-24 20:09 UTC]** Quaest: Marcos Rogério lidera disputa em Rondônia com 37%, ante 21% de Adailton Fúria
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-marcos-rogerio-lidera-disputa-em-rondonia-com-37-ante-21-de-adailton-furia.shtml)_
 
+- **[2026-09-27 19:56 UTC]** Rogério Marinho acusa Dino de atropelar decisão de Mendonça sobre Nossa Senhora para favorecer Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-acusa-dino-de-atropelar-decisao-de-mendonca-sobre-nossa-senhora-para-favorecer-lula/)_
+
