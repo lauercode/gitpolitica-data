@@ -20,3 +20,6 @@
 - **[2026-09-24 18:22 UTC]** Datafolha: Senado em Pernambuco tem Marília Arraes (PDT) com 19% e Humberto Costa (PT) com 17%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-senado-em-pernambuco-tem-marilia-arraes-pdt-com-19-e-humberto-costa-pt-com-17.shtml)_
 
+- **[2026-09-27 06:00 UTC]** Candidato em PE, neto de Arraes e sobrinho de Alceu opta por usar sobrenome Valença na urna
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidato-em-pe-neto-de-arraes-e-sobrinho-de-alceu-opta-por-usar-sobrenome-valenca-na-urna.shtml)_
+
