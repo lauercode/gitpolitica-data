@@ -62,3 +62,6 @@
 - **[2026-09-25 18:31 UTC]** Quaest: JHC tem 43% e Renan Filho, 41%, em Alagoas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-jhc-tem-43-e-renan-filho-41-em-alagoas.shtml)_
 
+- **[2026-09-27 15:15 UTC]** Justiça Eleitoral retira perfil de Renan Filho em rede social, mas nova decisão determina retomada
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/27/justica-eleitoral-retira-perfil-de-renan-filho-em-redes-social-mas-nova-decisao-determina-retomada.ghtml)_
+
