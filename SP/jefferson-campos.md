@@ -11,3 +11,6 @@
 - **[2026-09-23 11:20 UTC]** Petrobras usa resíduo do etanol para fabricar asfalto em São José dos Campos (SP)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/09/petrobras-usa-residuo-do-etanol-para-fabricar-asfalto-em-sao-jose-dos-campos-sp.shtml)_
 
+- **[2026-09-27 14:30 UTC]** Dignidade e Luta: exposição em SP celebra Laudelina de Campos Mello
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2026-09/dignidade-e-luta-exposicao-em-sp-celebra-laudelina-de-campos-mello)_
+
