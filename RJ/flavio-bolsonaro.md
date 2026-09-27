@@ -2528,3 +2528,6 @@
 - **[2026-09-27 11:05 UTC]** Disputa entre Lula e Flávio leva investidor a buscar proteção da carteira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/disputa-entre-lula-e-flavio-leva-investidor-a-buscar-protecao-da-carteira.shtml)_
 
+- **[2026-09-27 15:41 UTC]** Flávio Dino determina volta de posts sobre Nossa Senhora Aparecida
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/flavio-dino-determina-volta-de-posts-sobre-nossa-senhora-aparecida)_
+
