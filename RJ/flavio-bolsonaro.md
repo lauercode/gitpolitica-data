@@ -2525,3 +2525,6 @@
 - **[2026-09-26 21:21 UTC]** Flávio pede prisão de funcionário do Planalto por repostagens sobre Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-pede-prisao-de-funcionario-do-planalto-por-repostagens-sobre-nossa-senhora.shtml)_
 
+- **[2026-09-27 11:05 UTC]** Disputa entre Lula e Flávio leva investidor a buscar proteção da carteira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/disputa-entre-lula-e-flavio-leva-investidor-a-buscar-protecao-da-carteira.shtml)_
+
