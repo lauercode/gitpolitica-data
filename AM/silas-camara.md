@@ -1070,3 +1070,6 @@ direitos
 - **[2026-09-26 04:51 UTC]** Federação União Brasil/PP tende a crescer na Câmara e PL a cair, segundo DIAP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/09/federacao-uniao-brasilpp-tende-a-crescer-na-camara-e-pl-a-cair-segundo-diap.ghtml)_
 
+- **[2026-09-26 23:00 UTC]** Câmara dos Deputados concentra funções que moldam leis, gastos e fiscalização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/camara-dos-deputados-concentra-funcoes-que-moldam-leis-gastos-e-fiscalizacao.shtml)_
+
