@@ -62,3 +62,6 @@
 - **[2026-09-27 18:50 UTC]** Luana Piovani ironiza ida de Rico Melquiades a Portugal: 'É uma ameaça'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/luana-piovani-ironiza-ida-de-rico-melquiades-a-portugal-e-uma-ameaca.shtml)_
 
+- **[2026-09-27 21:13 UTC]** Evento sobre migração da UFRR reúne pesquisadores da Noruega, Holanda, Portugal e França
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/27/evento-sobre-migracao-da-ufrr-reune-pesquisadores-da-noruega-holanda-portugal-e-franca.ghtml)_
+
