@@ -2540,3 +2540,6 @@
 - **[2026-09-27 15:20 UTC]** Flávio Bolsonaro cumpre agenda com motocarreata em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/27/flavio-bolsaro-agenda-sergipe.ghtml)_
 
+- **[2026-09-27 16:34 UTC]** TSE suspende jingle da campanha de Lula que associava Flávio Bolsonaro a suspeitas de corrupção
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/27/tse-suspende-jingle-da-campanha-de-lula-que-associava-flvio-bolsonaro-a-suspeitas-de-corrupo.ghtml)_
+
