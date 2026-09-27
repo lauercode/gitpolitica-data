@@ -2537,3 +2537,6 @@
 - **[2026-09-27 13:18 UTC]** Dino anula decisão do TSE e libera publicação sobre Nossa Senhora que causou dano a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-anula-decisao-do-tse-e-libera-publicacao-sobre-nossa-senhora-que-causou-dano-a-flavio-bolsonaro.shtml)_
 
+- **[2026-09-27 15:20 UTC]** Flávio Bolsonaro cumpre agenda com motocarreata em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/27/flavio-bolsaro-agenda-sergipe.ghtml)_
+
