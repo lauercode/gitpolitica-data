@@ -2552,3 +2552,6 @@
 - **[2026-09-27 22:27 UTC]** Flávio diz que irá ao debate na Globo, o último antes do 1º turno; Lula não está confirmado
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-27 21:53 UTC]** Flávio Bolsonaro confirma ida ao debate da Globo mesmo que Lula não compareça
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/27/flavio-bolsonaro-confirma-ida-ao-debate-da-globo-mesmo-que-lula-nao-compareca.ghtml)_
+
