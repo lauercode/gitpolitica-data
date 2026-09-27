@@ -350,3 +350,6 @@
 - **[2026-09-26 22:33 UTC]** Quaest no Pará: Lula, 40%; Flávio Bolsonaro, 35%; Augusto Cury, 7%; Renan Santos, 2%; Ronaldo Caiado, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml)_
 
+- **[2026-09-27 19:02 UTC]** Caiado e Renan Santos criticam veto de Lula às bets e veem manobra eleitoral
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/27/caiado-e-renan-santos-criticam-veto-de-lula-s-bets-e-veem-manobra-eleitoral.ghtml)_
+
