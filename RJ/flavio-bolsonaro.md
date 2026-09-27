@@ -2522,3 +2522,6 @@
 - **[2026-09-26 22:31 UTC]** Criador de Dilma Bolada nega autoria de fake news sobre Flávio e Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/criador-de-dilma-bolada-nega-autoria-de-fake-news-sobre-flavio-e-nossa-senhora.shtml)_
 
+- **[2026-09-26 21:21 UTC]** Flávio pede prisão de funcionário do Planalto por repostagens sobre Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-pede-prisao-de-funcionario-do-planalto-por-repostagens-sobre-nossa-senhora.shtml)_
+
