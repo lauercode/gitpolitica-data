@@ -512,3 +512,6 @@
 - **[2026-09-27 17:09 UTC]** ‘Foi um professor’, diz primo ao relembrar que Rick o ajudaria em trabalho musical
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/27/foi-um-professor-diz-primo-ao-relembrar-que-rick-o-ajudaria-em-trabalho-musical.ghtml)_
 
+- **[2026-09-27 17:09 UTC]** ‘Um professor’, diz primo ao relembrar que Rick o ajudaria na produção de clipe
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/27/foi-um-professor-diz-primo-ao-relembrar-que-rick-o-ajudaria-em-trabalho-musical.ghtml)_
+
