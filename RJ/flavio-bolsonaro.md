@@ -2534,3 +2534,6 @@
 - **[2026-09-27 14:37 UTC]** Em Aracaju, Flávio Bolsonaro diz que Lula tem dois filhos: "Lulinha e o tigrinho"
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml)_
 
+- **[2026-09-27 13:18 UTC]** Dino anula decisão do TSE e libera publicação sobre Nossa Senhora que causou dano a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-anula-decisao-do-tse-e-libera-publicacao-sobre-nossa-senhora-que-causou-dano-a-flavio-bolsonaro.shtml)_
+
