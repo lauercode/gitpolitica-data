@@ -2627,3 +2627,6 @@
 - **[2026-09-28 15:16 UTC]** Flávio recorre a Fux para derrubar post sobre Nossa Senhora Aparecida
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/flavio-recorre-fux-para-derrubar-post-sobre-nossa-senhora-aparecida)_
 
+- **[2026-09-28 14:39 UTC]** VÍDEO: Gerador de carro de som pega fogo em ato de campanha de Flávio Bolsonaro em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/gerador-de-carro-de-som-pega-fogo-em-ato-de-campanha-de-flavio-bolsonaro-em-sp.ghtml)_
+
