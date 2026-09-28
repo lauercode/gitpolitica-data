@@ -65,3 +65,6 @@
 - **[2026-09-28 18:23 UTC]** Kristen Stewart e Wagner Moura estrelam novo longa dirigido por Olivier Assayas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/kristen-stewart-e-wagner-moura-estrelam-novo-longa-dirigido-por-olivier-assayas.shtml)_
 
+- **[2026-09-28 17:50 UTC]** Wagner Moura divulga vídeo de apoio Lula e diz ser 'por tudo o que ele significa'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/wagner-moura-diz-que-voto-em-lula-e-por-tudo-o-que-ele-significa.shtml)_
+
