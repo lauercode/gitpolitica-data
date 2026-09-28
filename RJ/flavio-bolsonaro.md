@@ -2597,3 +2597,6 @@
 - **[2026-09-28 11:10 UTC]** Lula aposta em pacote de bondades, e Flávio Bolsonaro busca 'voto útil' na reta final a disputa presidencial
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/28/lula-aposta-em-pacote-de-bondades-e-flavio-bolsonaro-busca-voto-util-na-reta-final-a-disputa-presidencial.ghtml)_
 
+- **[2026-09-28 10:54 UTC]** Quaest: Lula tem 39%, e Flávio Bolsonaro, 34% no 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-lula-tem-39-e-flavio-bolsonaro-34-no-1o-turno.shtml)_
+
