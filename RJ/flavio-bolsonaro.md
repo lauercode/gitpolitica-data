@@ -2555,3 +2555,6 @@
 - **[2026-09-27 21:53 UTC]** Flávio Bolsonaro confirma ida ao debate da Globo mesmo que Lula não compareça
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/27/flavio-bolsonaro-confirma-ida-ao-debate-da-globo-mesmo-que-lula-nao-compareca.ghtml)_
 
+- **[2026-09-27 22:08 UTC]** Lula diz que não sabe se polêmica envolvendo Flávio Bolsonaro e Nossa Senhora é notícia falsa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-nao-sabe-se-polemica-envolvendo-flavio-bolsonaro-e-nossa-senhora-e-noticia-falsa.shtml)_
+
