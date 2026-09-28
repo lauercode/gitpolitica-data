@@ -23,3 +23,6 @@
 - **[2026-09-11 19:19 UTC]** Quem é Karina da Gama, produtora de “Dark Horse” investigada pela PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quem-e-karina-da-gama-produtora-de-dark-horse-investigada-pela-pf/)_
 
+- **[2026-09-14 22:08 UTC]** Eletricista diz que 'emprestou os dados' para ser tesoureiro da ONG de Karina da Gama, que movimentou R$ 83 milhões, mas nunca exerceu a função
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/eletricista-diz-que-emprestou-os-dados-para-ser-tesoureiro-de-ong-de-karina-da-gama-mas-nunca-exerceu-a-funcao.ghtml)_
+

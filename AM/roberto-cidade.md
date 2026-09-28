@@ -203,3 +203,30 @@
 - **[2026-09-11 17:09 UTC]** Justiça manda cidade no Sertão da Paraíba mudar nome de avenida em alusão à ditadura militar
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/11/justica-manda-cidade-no-sertao-da-paraiba-mudar-nome-de-avenida-em-alusao-a-ditadura-militar.ghtml)_
 
+- **[2026-09-14 21:19 UTC]** Eleições 2026: Roberto Cidade participa de encontro com empresários e defende novas matrizes econômicas para o interior
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-roberto-cidade-participa-de-encontro-com-empresarios-e-defende-novas-matrizes-economicas-para-o-interior.ghtml)_
+
+- **[2026-09-15 21:56 UTC]** Eleições 2026: Roberto Cidade participa de caminhada e apresenta projeto Mãe Solo Protegida
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-roberto-cidade-participa-de-caminhada-e-apresenta-projeto-mae-solo-protegida.ghtml)_
+
+- **[2026-09-16 16:41 UTC]** Em sabatina, Roberto Cidade afirma que determinou o fim de contratos da família com o Estado e classifica vínculo como 'imoral'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/em-sabatina-roberto-cidade-afirma-que-determinou-o-fim-de-contratos-da-familia-com-o-estado-e-classifica-vinculo-como-imoral.ghtml)_
+
+- **[2026-09-22 13:17 UTC]** MPE pede cassação de Roberto Cidade e Serafim Corrêa por suposta promoção eleitoral com benefícios públicos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/22/mpe-pede-cassacao-de-roberto-cidade-e-serafim-correa-por-suposta-promocao-eleitoral-com-beneficios-publicos.ghtml)_
+
+- **[2026-09-22 22:12 UTC]** Funcionários da Aadesam foram procurados por supostos integrantes da campanha de Roberto Cidade, diz MPE
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/22/funcionarios-da-aadesam-foram-procurados-por-supostos-integrantes-da-campanha-a-reeleicao-de-roberto-cidade-diz-mpe.ghtml)_
+
+- **[2026-09-23 00:55 UTC]** Eleições 2026: Roberto Cidade promete dobrar auxílio estadual para mães e pais no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-roberto-cidade-promete-dobrar-auxilio-estadual-para-maes-e-pais-no-amazonas.ghtml)_
+
+- **[2026-09-24 22:25 UTC]** Quaest no AM: 45% aprovam e 34% desaprovam governo de Roberto Cidade
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-avaliacao-governo-24-setembro.ghtml)_
+
+- **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
+
+- **[2026-09-25 01:45 UTC]** Juíza rejeita pedido de Roberto Cidade para anular parecer do MPE que pede cassação de registro de candidatura
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/24/juiza-rejeita-pedido-de-roberto-cidade-para-anular-parecer-do-mpe-que-pede-cassacao-de-registro-de-candidatura.ghtml)_
+

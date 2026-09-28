@@ -56,3 +56,24 @@
 - **[2026-09-11 11:26 UTC]** Internado em SP, Ronaldo Caiado recebe diagnóstico de pneumonia
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/internado-em-sp-ronaldo-caiado-recebe-diagnostico-de-pneumonia)_
 
+- **[2026-09-23 15:54 UTC]** Quaest no Ceará: Lula, 55%; Flávio Bolsonaro, 23%; Augusto Cury, 5%; Renan Santos, 3%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-presidente-23-setembro.ghtml)_
+
+- **[2026-09-23 22:35 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 35%; Ronaldo Caiado, 7%; Augusto Cury, 4%; Renan Santos; 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/23/quaest-to-presidente-23-setembro.ghtml)_
+
+- **[2026-09-24 22:53 UTC]** Quaest em RO: Flávio Bolsonaro, 53%; Lula, 19%; Augusto Cury, 4%; Ronaldo Caiado, 3%; Renan Santos, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-presidente-24-de-setembro.ghtml)_
+
+- **[2026-09-24 22:36 UTC]** Quaest em GO: Flávio Bolsonaro, 33%; Lula, 27%; Ronaldo Caiado, 23%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-em-go-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 22:02 UTC]** Quaest na BA: Lula, 58%; Flávio Bolsonaro, 23%; Augusto Cury, 4%; Ronaldo Caiado, 2%; Renan Santos, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-bahia-presidente-24-setembro.ghtml)_
+
+- **[2026-09-25 22:15 UTC]** Quaest em MT: Flávio Bolsonaro, 50%; Lula, 25%; Augusto Cury, 5%; Ronaldo Caiado, 4%; Renan Santos, 1%; Romeu Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/25/quaest-mt-presidente-25-setembro.ghtml)_
+
+- **[2026-09-26 22:33 UTC]** Quaest no Pará: Lula, 40%; Flávio Bolsonaro, 35%; Augusto Cury, 7%; Renan Santos, 2%; Ronaldo Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml)_
+

@@ -35,3 +35,12 @@
 - **[2026-09-10 09:40 UTC]** Marina Lima critica Paula Burlamaqui por fala sobre envelhecimento: 'Me dá pena'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/marina-lima-critica-paula-burlamaqui-por-fala-sobre-envelhecimento-me-da-pena.shtml)_
 
+- **[2026-09-19 11:33 UTC]** Paula Pimenta diz que antes tinha 'preocupação zero' com diversidade em seus livros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/paula-pimenta-diz-que-antes-tinha-preocupacao-zero-com-diversidade-em-seus-livros.shtml)_
+
+- **[2026-09-22 17:00 UTC]** Paula Lima e Gui Ventura participam da festa de 30 anos da Raça Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/paula-lima-e-gui-ventura-participam-da-festa-de-30-anos-da-raca-brasil.shtml)_
+
+- **[2026-09-25 15:39 UTC]** Queda no banho pode causar lesões graves, como ocorreu com Paula Burlamaqui; saiba como prevenir
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/queda-no-banho-pode-causar-lesoes-graves-como-ocorreu-com-paula-burlamaqui-saiba-como-prevenir.shtml)_
+

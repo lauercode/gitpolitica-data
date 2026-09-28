@@ -65,3 +65,63 @@
 - **[2026-09-11 23:12 UTC]** Dr. Furlan participa de carreata e caminhada em Calçoene
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/11/dr-furlan-participa-de-carreata-e-caminhada-em-calcoene.ghtml)_
 
+- **[2026-09-12 22:41 UTC]** Dr. Furlan participa de reunião em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/12/dr-furlan-participa-de-reuniao-em-macapa.ghtml)_
+
+- **[2026-09-13 20:00 UTC]** Dr. Furlan participa de reuniões e visitas a comunidades indígenas em Oiapoque
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/13/dr-furlan-participa-de-reunioes-e-visitas-a-comunidades-indigenas-em-oiapoque.ghtml)_
+
+- **[2026-09-14 23:39 UTC]** Dr. Furlan participa de caminhada e plenária em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/14/dr-furlan-participa-de-caminhada-e-plenaria-em-macapa.ghtml)_
+
+- **[2026-09-16 23:19 UTC]** Dr. Furlan participa de caminhada no bairro do Perpétuo Socorro, em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/16/dr-furlan-participa-de-caminhada-no-bairro-do-perpetuo-socorro-em-macapa.ghtml)_
+
+- **[2026-09-17 20:41 UTC]** Julgamento que pode levar à inelegibilidade de Dr. Furlan é adiado no TSE
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/17/julgamento-que-pode-levar-a-inelegibilidade-de-dr-furlan-e-adiado-no-tse.ghtml)_
+
+- **[2026-09-17 23:01 UTC]** Dr. Furlan concede entrevistas e participa de reuniões em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/17/dr-furlan-concede-entrevistas-e-participa-de-reunioes-em-macapa.ghtml)_
+
+- **[2026-09-18 18:46 UTC]** Dr. Furlan diz que meta é buscar parcerias para pavimentar a BR-156
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/18/dr-furlan-diz-que-meta-e-buscar-parcerias-para-pavimentar-a-br-156.ghtml)_
+
+- **[2026-09-18 21:26 UTC]** Dr. Furlan participa de bandeirada e reuniões em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/18/dr-furlan-participa-de-bandeirada-e-reunioes-em-macapa.ghtml)_
+
+- **[2026-09-19 21:33 UTC]** Dr. Furlan faz caminhada em Macapá e participa de bandeirada em Santana
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/19/dr-furlan-faz-caminhada-em-macapa-e-participa-de-bandeirada-em-santana.ghtml)_
+
+- **[2026-09-21 20:59 UTC]** Dr. Furlan participa de visitas e reuniões em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/21/dr-furlan-participa-de-visitas-e-reunioes-em-macapa.ghtml)_
+
+- **[2026-09-22 21:14 UTC]** Dr. Furlan participa de reuniões e faz visitas nas zonas Sul e Norte de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/22/dr-furlan-participa-de-reunioes-e-faz-visitas-nas-zonas-sul-e-norte-de-macapa.ghtml)_
+
+- **[2026-09-23 21:49 UTC]** Dr. Furlan participa de carreata, visitas e reuniões em Laranjal do Jari, no Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/23/dr-furlan-participa-de-carreata-visitas-e-reunioes-em-laranjal-do-jari-no-amapa.ghtml)_
+
+- **[2026-09-24 09:00 UTC]** Plano de governo: Dr. Furlan propõe criar um Amapá moderno, sustentável e competitivo
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/plano-de-governo-dr-furlan-propoe-criar-um-amapa-moderno-sustentavel-e-competitivo.ghtml)_
+
+- **[2026-09-24 16:19 UTC]** TSE suspende julgamento de candidatura de Dr. Furlan ao governo do Amapá
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/tse-suspende-julgamento-de-candidatura-de-dr-furlan-ao-governo-do-amapa.ghtml)_
+
+- **[2026-09-24 19:31 UTC]** Toffoli defende barrar candidatura de Dr. Furlan ao governo do AP; decisão é adiada por pedido de vista
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/09/24/toffoli-defende-barrar-candidatura-de-dr-furlan-ao-governo-do-ap-decisao-e-adiada-por-pedido-de-vista.ghtml)_
+
+- **[2026-09-24 19:55 UTC]** Quaest: Dr. Furlan lidera disputa no Amapá com 53%, ante 40% de Clécio Luís
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-dr-furlan-lidera-disputa-no-amapa-com-53-ante-40-de-clecio-luis.shtml)_
+
+- **[2026-09-24 23:34 UTC]** Dr. Furlan participa de carreata em Oiapoque
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/dr-furlan-participa-de-carreata-em-oiapoque.ghtml)_
+
+- **[2026-09-25 22:12 UTC]** Dr. Furlan visita bairros e participa de reunião em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/25/dr-furlan-visita-bairros-e-participa-de-reuniao-em-macapa.ghtml)_
+
+- **[2026-09-26 21:40 UTC]** Dr. Furlan visita bairros e participa de plenária em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/26/dr-furlan-visita-bairros-e-participa-de-plenaria-em-macapa.ghtml)_
+
+- **[2026-09-27 19:42 UTC]** Dr. Furlan visita bairros e conjuntos habitacionais de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/27/dr-furlan-visita-bairros-e-habitacionais-de-macapa.ghtml)_
+

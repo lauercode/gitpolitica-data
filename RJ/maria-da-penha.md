@@ -17,3 +17,12 @@
 - **[2026-09-11 21:50 UTC]** Justiça Eleitoral concede medida protetiva da Maria da Penha a candidata no RN em caso inédito no país, diz MP
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/11/justica-eleitoral-concede-medida-protetiva-da-maria-da-penha-a-candidata-no-rn-em-caso-inedito-no-pais-diz-mp.ghtml)_
 
+- **[2026-09-21 17:59 UTC]** Felipe Camarão propõe retomar Escola Digna, ampliar Patrulha Maria da Penha e criar calendário cultural no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/21/felipe-camarao-propoe-retomar-escola-digna-ampliar-patrulha-maria-da-penha-e-criar-calendario-cultural-no-ma.ghtml)_
+
+- **[2026-09-22 21:54 UTC]** Cadu de Lula defende ampliação da Patrulha Maria da Penha no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/22/cadu-de-lula-defende-ampliacao-da-patrulha-maria-da-penha-no-rn.ghtml)_
+
+- **[2026-09-25 23:29 UTC]** Braide defende ampliar Patrulha Maria da Penha e criar ações para idosos e pessoas com deficiência
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/braide-defende-ampliar-patrulha-maria-da-penha-e-criar-acoes-para-idosos-e-pessoas-com-deficiencia.ghtml)_
+

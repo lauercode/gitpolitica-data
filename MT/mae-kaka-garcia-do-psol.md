@@ -17,3 +17,21 @@
 - **[2026-09-10 22:35 UTC]** Deputados de PSOL e Rede pedem cassação do mandato de Mario Frias por caso 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/deputados-de-psol-e-rede-pedem-cassacao-do-mandato-de-mario-frias-por-caso-dark-horse.shtml)_
 
+- **[2026-09-11 21:02 UTC]** Bancada Feminista do PSOL pede na Justiça que Meta exclua perfis associados aos 'red pill'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/bancada-feminista-do-psol-pede-na-justica-que-meta-exclua-perfis-associados-aos-red-pill.shtml)_
+
+- **[2026-09-17 19:27 UTC]** Tarcísio aciona Justiça contra críticas de candidatos do PSOL nas redes sociais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/tarcisio-aciona-justica-contra-criticas-de-candidatos-do-psol-nas-redes-sociais.shtml)_
+
+- **[2026-09-18 11:29 UTC]** Manuela D'Ávila (PSOL) propõe aluguel social para mulheres sob risco de feminicídio em entrevista à RBS TV
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/18/manuela-davila-psol-propoe-aluguel-social-para-mulheres-sob-risco-de-feminicidio-em-entrevista-a-rbs-tv.ghtml)_
+
+- **[2026-09-22 10:38 UTC]** Candidatos do PSOL distribuem panfletos sem Lula, Haddad, Tebet e Marina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidatos-do-psol-distribuem-panfletos-sem-lula-haddad-tebet-e-marina.shtml)_
+
+- **[2026-09-24 22:22 UTC]** Quaest no RS para o Senado: Manuela d'Ávila (PSOL), 14%; Marcel van Hattem (Novo), 11%; Pimenta (PT), 10%; Sanderson (PL), 10%; Rigotto (MDB), 9%
+  _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/24/quaest-rs-senado-24-setembro.ghtml)_
+
+- **[2026-09-25 15:30 UTC]** PSOL pede investigação de Bia Kicis após investigado da PF fazer publicidade com nome Bia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/psol-pede-investigacao-de-bia-kicis-apos-investigado-da-pf-fazer-publicidade-com-nome-bia.shtml)_
+

@@ -11,3 +11,6 @@
 - **[2026-09-02 22:05 UTC]** Eleições 2026 em SC: Marcelo Brigadeiro debate com eleitores em Balneário Camboriú
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-em-sc-marcelo-brigadeiro-debate-com-eleitores-em-balneario-camboriu.ghtml)_
 
+- **[2026-09-17 16:00 UTC]** Entrevista na NSC: Marcelo Brigadeiro prevê aumento do efetivo das polícias e detalha proposta para reduzir população em situação de rua
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/entrevista-na-nsc-marcelo-brigadeiro.ghtml)_
+

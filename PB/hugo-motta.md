@@ -32,3 +32,6 @@
 - **[2026-09-07 13:33 UTC]** Desfile de 7 de Setembro em Brasília reúne Lula, Fachin, Alcolumbre e Hugo Motta
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/desfile-de-7-de-setembro-em-brasilia-reune-lula-fachin-alcolumbre-e-hugo-motta/)_
 
+- **[2026-09-24 13:04 UTC]** Neutralidade dá condições de centrão compor próximo governo, diz Hugo Motta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/neutralidade-da-condicoes-de-centrao-compor-proximo-governo-diz-hugo-motta.shtml)_
+

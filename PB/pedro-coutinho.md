@@ -11,3 +11,15 @@
 - **[2026-09-05 20:14 UTC]** Pedro Coutinho promete deixar Paraíba livre de facções e defende polo industrial em Lucena
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/05/pedro-coutinho-promete-deixar-paraiba-livre-de-faccoes-e-defende-polo-industrial-em-lucena.ghtml)_
 
+- **[2026-09-12 20:14 UTC]** Pedro Coutinho promete diálogo com municípios para impulsionar turismo na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/12/pedro-coutinho-promete-dialogo-com-municipios-para-impulsionar-turismo-na-paraiba.ghtml)_
+
+- **[2026-09-17 16:34 UTC]** Pedro Coutinho, candidato ao governo da Paraíba, diz que vai valorizar professores e fomentar cultura estadual
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/17/pedro-coutinho-candidato-ao-governo-da-paraiba-diz-que-vai-valorizar-professores-e-fomentar-cultura-estadual.ghtml)_
+
+- **[2026-09-19 21:51 UTC]** Pedro Coutinho diz que vai sanear 100% das cidades da Região Metropolitana de João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/19/pedro-coutinho-diz-que-vai-sanear-100percent-das-cidades-da-regiao-metropolitana-de-joao-pessoa.ghtml)_
+
+- **[2026-09-26 20:15 UTC]** Pedro Coutinho, candidato ao governo da Paraíba, propõe investimentos em infraestrutura para João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/26/pedro-coutinho-candidato-ao-governo-da-paraiba-propoe-investimentos-em-infraestrutura-para-joao-pessoa.ghtml)_
+

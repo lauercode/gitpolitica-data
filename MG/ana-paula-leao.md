@@ -29,3 +29,12 @@
 - **[2026-09-11 15:12 UTC]** Filme brasileiro 'London' vence o prêmio Leão Queer no Festival de Veneza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/filme-brasileiro-london-vence-o-premio-leao-queer-no-festival-de-veneza.shtml)_
 
+- **[2026-09-18 14:11 UTC]** Leão Serva lança livro sobre guerras, política e redes sociais em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/leao-serva-lanca-livro-sobre-guerras-politica-e-redes-sociais-em-sp.shtml)_
+
+- **[2026-09-20 23:00 UTC]** Leão Serva lembra em livro histórias 'no meio do turbilhão'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/leao-serva-lembra-em-livro-historias-no-meio-do-turbilhao.shtml)_
+
+- **[2026-09-21 23:00 UTC]** Viagem do papa Leão 14 à América do Sul inclui reuniões com povos da Amazônia e visita a prisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/viagem-do-papa-leao-14-a-america-do-sul-inclui-reunioes-com-povos-da-amazonia-e-visita-a-prisao.shtml)_
+

@@ -239,3 +239,117 @@
 - **[2026-09-11 16:56 UTC]** Renan Santos diz que campanha 2026 é 'a mais estranha' que já viu desde 2010
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/renan-santos-sabatina-uol-folha.ghtml)_
 
+- **[2026-09-13 00:33 UTC]** Renan Santos critica bolsonarismo em SC e defende pena de 30 anos para assalto à mão armada
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/12/renan-santos-agenda-joinville-santa-catarina.ghtml)_
+
+- **[2026-09-13 14:32 UTC]** Ascensão de Cury e posição antissistema de Renan Santos isolam ex-governadores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ascensao-de-cury-e-posicao-antissistema-de-renan-santos-isolam-ex-governadores/)_
+
+- **[2026-09-14 17:59 UTC]** Renan Santos fará ‘tour’ por Estados do Sul e Sudeste na reta final de campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/renan-santos-fara-tour-por-estados-do-sul-e-sudeste-na-reta-final-de-campanha.ghtml)_
+
+- **[2026-09-15 15:20 UTC]** Flávio, Caiado, Zema e Renan Santos reagem a julgamento de Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/candidatos-a-presidencia-reagem-a-julgamento-de-moraes-no-stf.ghtml)_
+
+- **[2026-09-16 15:08 UTC]** Coordenadora de campanha de Renan Santos aciona Senado contra Dias Toffoli
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/coordenadora-de-campanha-de-renan-santos-aciona-senado-contra-dias-toffoli.shtml)_
+
+- **[2026-09-16 21:41 UTC]** No Paraná, Renan Santos critica 'super shows' com cachês milionários e diz que Brasil deve exportar 'lifestyle'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/09/16/renan-santos-critica-super-shows-parana.ghtml)_
+
+- **[2026-09-17 17:08 UTC]** Em SC, Renan Santos diz que acionará o TSE contra aumento do Bolsa Família em período eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/em-sc-renan-santos-diz-que-acionara-o-tse-contra-aumento-do-bolsa-familia-em-periodo-eleitoral.ghtml)_
+
+- **[2026-09-17 16:42 UTC]** Renan Santos acusa reajuste de Lula no Bolsa Família de compra de votos e critica Flávio por defender benefício
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-acusa-reajuste-de-lula-no-bolsa-familia-de-compra-de-votos-e-critica-flavio-por-defender-beneficio/)_
+
+- **[2026-09-17 17:25 UTC]** Renan Santos classifica como ‘crime’ aumento do Bolsa Família
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/renan-santos-classifica-como-crime-aumento-do-bolsa-familia.ghtml)_
+
+- **[2026-09-17 21:53 UTC]** Renan Santos aborda Bolsa Família, feminicídios e pacto federativo em caravana no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/17/renan-santos-caravana-rs.ghtml)_
+
+- **[2026-09-18 00:38 UTC]** Renan Santos aciona TSE contra reajuste do Bolsa Família
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/renan-santos-aciona-tse-contra-reajuste-do-bolsa-familia.ghtml)_
+
+- **[2026-09-18 02:15 UTC]** Renan Santos entra com ação no TSE contra reajuste no Bolsa Família anunciado por Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/17/renan-santos-entra-com-ao-no-tse-contra-reajuste-no-bolsa-famlia-anunciado-por-lula.ghtml)_
+
+- **[2026-09-18 08:00 UTC]** Equipe de Renan Santos quer Previdência com gatilho de idade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/equipe-de-renan-santos-quer-previdencia-com-gatilho-de-idade.ghtml)_
+
+- **[2026-09-18 09:37 UTC]** Renan Santos pede que TSE suspenda reajuste do Bolsa Família assinado por Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/renan-santos-pede-que-tse-suspenda-reajuste-do-bolsa-familia-assinado-por-lula.shtml)_
+
+- **[2026-09-18 13:54 UTC]** Renan Santos e Caiado cancelam participação em debate do “Inteligência Ltda”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-e-caiado-cancelam-participacao-em-debate-do-inteligencia-ltda/)_
+
+- **[2026-09-18 14:59 UTC]** Renan Santos quer FGTS como poupança para aposentadoria de trabalhadores, diz Kim Kataguiri
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/renan-santos-quer-fgts-como-poupanca-para-aposentadoria-de-trabalhadores-diz-kim-kataguiri.shtml)_
+
+- **[2026-09-18 19:25 UTC]** No RS, Renan Santos critica Centrão e direita por ligação com Vorcaro e promete 'transformar favelas em cidades'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/18/renan-santos-caravana-rs-gramado.ghtml)_
+
+- **[2026-09-19 15:54 UTC]** Renan Santos defende 'militarizar o Brasil' contra o crime organizado e chama disputa presidencial de 'eleição da desistência'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/19/candidato-presidencia-renan-santos-campanha-rs.ghtml)_
+
+- **[2026-09-20 15:41 UTC]** Renan Santos fala em 'cinismo' de eleitores que apoiam Valdemar após protestos anticorrupção
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/20/renan-santos-campanha-sc-setembro.ghtml)_
+
+- **[2026-09-21 10:43 UTC]** Renan Santos faz campanha em Curitiba e critica aumento do Bolsa Família: 'Compra de voto'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/renan-campanha-setembro-curitiba.ghtml)_
+
+- **[2026-09-22 01:34 UTC]** Renan Santos diz que não apoiará Flávio Bolsonaro em eventual segundo turno: ‘Bandido’
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/21/renan-santos-diz-que-no-apoiar-flvio-bolsonaro-em-eventual-segundo-turno-bandido.ghtml)_
+
+- **[2026-09-23 11:42 UTC]** Renan Santos vê risco de interferência dos EUA nas eleições brasileiras
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-ve-risco-de-interferencia-dos-eua-nas-eleicoes-brasileiras/)_
+
+- **[2026-09-23 15:54 UTC]** Quaest no Ceará: Lula, 55%; Flávio Bolsonaro, 23%; Augusto Cury, 5%; Renan Santos, 3%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-presidente-23-setembro.ghtml)_
+
+- **[2026-09-23 14:27 UTC]** Renan Santos acusa Flávio Bolsonaro de receber apoio de perfis estrangeiros no X
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/missao-acusa-flavio-bolsonaro-de-receber-apoio-de-perfis-estrangeiros-no-x.shtml)_
+
+- **[2026-09-23 18:05 UTC]** Se Lula for reeleito, não haverá enfrentamento ao crime organizado, diz Renan Santos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/se-lula-for-reeleito-nao-havera-enfrentamento-ao-crime-organizado-diz-renan-santos.ghtml)_
+
+- **[2026-09-23 22:35 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 35%; Ronaldo Caiado, 7%; Augusto Cury, 4%; Renan Santos; 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/23/quaest-to-presidente-23-setembro.ghtml)_
+
+- **[2026-09-24 19:09 UTC]** Flávio Bolsonaro usou jatinho de Vorcaro em troca de ‘favores e afagos’, diz Renan Santos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flvio-bolsonaro-usou-jatinho-de-vorcaro-em-troca-de-favores-e-afagos-diz-renan-santos.ghtml)_
+
+- **[2026-09-24 22:53 UTC]** Quaest em RO: Flávio Bolsonaro, 53%; Lula, 19%; Augusto Cury, 4%; Ronaldo Caiado, 3%; Renan Santos, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-presidente-24-de-setembro.ghtml)_
+
+- **[2026-09-24 22:02 UTC]** Quaest na BA: Lula, 58%; Flávio Bolsonaro, 23%; Augusto Cury, 4%; Ronaldo Caiado, 2%; Renan Santos, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-bahia-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 21:46 UTC]** Renan Santos quer mudar divisão de recursos entre estados: 'Vamos premiar quem vai bem e punir quem vai mal'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/24/renan-santos-quer-mudar-divisao-de-recursos-entre-estados-vamos-premiar-quem-vai-bem-e-punir-quem-vai-mal.ghtml)_
+
+- **[2026-09-25 13:55 UTC]** De olho no maior colégio eleitoral do Nordeste, Renan Santos agenda ato em Salvador
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/de-olho-no-maior-colegio-eleitoral-do-nordeste-renan-santos-agenda-ato-em-salvador.ghtml)_
+
+- **[2026-09-25 22:27 UTC]** Quaest no RN: Lula, 52%; Flávio Bolsonaro, 25%; Augusto Cury, 6%; Renan Santos, 2%; Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 22:18 UTC]** Quaest em MS: Flávio Bolsonaro, 42%; Lula, 27%; Caiado, 4%; Cury, 4%; Renan Santos, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/25/quaest-mato-grosso-do-sul-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 22:15 UTC]** Quaest em MT: Flávio Bolsonaro, 50%; Lula, 25%; Augusto Cury, 5%; Ronaldo Caiado, 4%; Renan Santos, 1%; Romeu Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/25/quaest-mt-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 23:46 UTC]** Renan Santos defende reforma da previdência atrelada à reforma trabalhista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/renan-santos-defende-reforma-da-previdncia-atrelada-reforma-trabalhista.ghtml)_
+
+- **[2026-09-26 18:00 UTC]** Renan Santos prepara protesto na Globo se ficar fora do debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/renan-santos-prepara-protesto-na-globo-se-ficar-fora-do-debate.shtml)_
+
+- **[2026-09-26 22:33 UTC]** Quaest no Pará: Lula, 40%; Flávio Bolsonaro, 35%; Augusto Cury, 7%; Renan Santos, 2%; Ronaldo Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml)_
+
+- **[2026-09-27 19:02 UTC]** Caiado e Renan Santos criticam veto de Lula às bets e veem manobra eleitoral
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/27/caiado-e-renan-santos-criticam-veto-de-lula-s-bets-e-veem-manobra-eleitoral.ghtml)_
+

@@ -185,3 +185,6 @@
 - **[2026-09-11 11:34 UTC]** Quem era a família que morreu soterrada enquanto dormia após barranco desabar em cima de casa durante temporal, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/quem-era-a-familia-que-morreu-soterrada-enquanto-dormia-apos-barranco-desabar-em-cima-de-casa-durante-temporal-no-parana.ghtml)_
 
+- **[2026-09-15 17:05 UTC]** A viva voz de quem já morreu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauriciostycer/2026/09/a-viva-voz-de-quem-ja-morreu.shtml)_
+

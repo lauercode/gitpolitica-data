@@ -23,3 +23,21 @@
 - **[2026-09-03 11:07 UTC]** Senador da base de Lula assina pedido de impeachment contra Alexandre de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-da-base-de-lula-assina-pedido-de-impeachment-contra-alexandre-de-moraes/)_
 
+- **[2026-09-15 12:05 UTC]** Candidata ao Senado, Samanda de Lula fala em combate ao feminicídio e enfrentamento às bets; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/15/entrevista-senado-rn-samanda-de-lula.ghtml)_
+
+- **[2026-09-18 00:27 UTC]** Na TV, Lula mostra Flávio investigado e senador diz que petista colocou brasileiro 'na mira do crime'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/na-tv-lula-mostra-flavio-investigado-e-senador-diz-que-petista-colocou-brasileiro-na-mira-do-crime.ghtml)_
+
+- **[2026-09-21 12:31 UTC]** Lula encontra senador e prefeito de Nova York socialistas em viagem aos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-encontra-senador-prefeito-nova-york-socialistas-viagem-eua/)_
+
+- **[2026-09-24 18:32 UTC]** Viagem de Flávio em jato de Vorcaro é aposta da campanha de Lula para reforçar ligação do senador com ex-banqueiro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/viagem-de-flvio-em-jato-de-vorcaro-aposta-da-campanha-de-lula-para-reforar-ligao-do-senador-com-ex-banqueiro.ghtml)_
+
+- **[2026-09-24 17:22 UTC]** Na TV, Flávio diz que Lula é 'pai do tigrinho' e petista associa senador ao crime organizado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/na-tv-flvio-diz-que-lula-pai-do-tigrinho-e-petista-associa-senador-ao-crime-organizado.ghtml)_
+
+- **[2026-09-25 22:26 UTC]** Quaest para o Senado no RN: Styvenson Valentim, 19%; Zenaide Maia, 12%; Coronel Hélio, 9%; Samanda de Lula, 9%; Rafael Motta, 7%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-senado-25-setembro.ghtml)_
+

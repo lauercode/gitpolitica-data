@@ -41,3 +41,27 @@
 - **[2026-09-11 02:24 UTC]** SIC anuncia em Portugal remake de 'Avenida Brasil' para 2027
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/sic-anuncia-em-portugal-remake-de-avenida-brasil-para-2027.shtml)_
 
+- **[2026-09-14 22:37 UTC]** Número de brasileiros que pedem apoio para deixar Portugal cresce 52% no primeiro semestre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/numero-de-brasileiros-que-pedem-apoio-para-deixar-portugal-cresce-52-no-primeiro-semestre.shtml)_
+
+- **[2026-09-19 06:00 UTC]** Gaúchos criam espaço para celebrar cultura do RS em Portugal, marcam festa de 20 de setembro e esperam receber até 700 pessoas
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/19/gauchos-criam-espaco-para-celebrar-cultura-do-rs-em-portugal-marcam-festa-de-20-de-setembro-e-esperam-receber-ate-700-pessoas.ghtml)_
+
+- **[2026-09-23 14:39 UTC]** Lei das burcas, proposta pela ultradireita, começa a valer em Portugal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/lei-das-burcas-proposta-pela-ultradireita-comeca-a-valer-em-portugal.shtml)_
+
+- **[2026-09-23 20:27 UTC]** Cornucópia de sabores em Portugal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/zecacamargo/2026/09/cornucopia-de-sabores-em-portugal.shtml)_
+
+- **[2026-09-25 17:55 UTC]** Susana Werner e Júlio César deixam Portugal e vendem imóveis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/susana-werner-e-julio-cesar-deixam-portugal-e-vendem-imoveis.shtml)_
+
+- **[2026-09-26 04:00 UTC]** Fernando Lemos exorciza as ditaduras em Portugal e no Brasil com o surrealismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/fernando-lemos-exorciza-as-ditaduras-em-portugal-e-no-brasil-com-o-surrealismo.shtml)_
+
+- **[2026-09-27 18:50 UTC]** Luana Piovani ironiza ida de Rico Melquiades a Portugal: 'É uma ameaça'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/luana-piovani-ironiza-ida-de-rico-melquiades-a-portugal-e-uma-ameaca.shtml)_
+
+- **[2026-09-27 21:13 UTC]** Evento sobre migração da UFRR reúne pesquisadores da Noruega, Holanda, Portugal e França
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/27/evento-sobre-migracao-da-ufrr-reune-pesquisadores-da-noruega-holanda-portugal-e-franca.ghtml)_
+

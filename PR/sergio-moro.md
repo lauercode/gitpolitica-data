@@ -53,3 +53,45 @@
 - **[2026-09-11 19:14 UTC]** Eleições 2026 no PR: Sergio Moro diz que quer criar agência anticorrupção no estado
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-no-pr-sergio-moro-11-setembro.ghtml)_
 
+- **[2026-09-14 16:58 UTC]** Eleições 2026 no Paraná: Sergio Moro participa de entrevista ao vivo na RPC, em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-sergio-moro-entrevista.ghtml)_
+
+- **[2026-09-14 16:14 UTC]** Sergio Moro promete criar ‘Agência Estadual de Combate à Corrupção’ no Paraná e diz que vai participar de debate na TV
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/sergio-moro-entrevista-rpc.ghtml)_
+
+- **[2026-09-14 15:46 UTC]** Sérgio Moro (PL) é entrevistado no Meio-Dia Paraná; ASSISTA
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/ao-vivo-entrevistas-candidatos-governo-parana.ghtml)_
+
+- **[2026-09-15 17:04 UTC]** Eleições 2026 no Paraná: Sergio Moro cumpre agenda em Ponta Grossa e participa de sabatina em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-no-parana-agenda-15-de-setembro-sergio-moro.ghtml)_
+
+- **[2026-09-16 16:43 UTC]** Eleições 2026 no Paraná: Sergio Moro visita hospital em Curitiba e concede entrevista à rádio
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/eleicoes-parana-sergio-moro.ghtml)_
+
+- **[2026-09-17 17:33 UTC]** Eleições 2026 no Paraná: Sergio Moro faz carreata em seis cidades da Região Metropolitana de Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-no-parana-agenda-sergio-moro-17-setembro.ghtml)_
+
+- **[2026-09-18 14:03 UTC]** Eleições 2026 no Paraná: Sergio Moro concede entrevistas, participa de sabatinas e reuniões
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-no-parana-sergio-moro-entrevistas-sabatinas.ghtml)_
+
+- **[2026-09-21 15:29 UTC]** Eleições 2026 no Paraná: Sergio Moro promove caminhada em Curitiba e se dedica a gravações de horário eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/-sergio-moro-promove-caminhada.ghtml)_
+
+- **[2026-09-22 14:49 UTC]** Eleições 2026 no Paraná: Sergio Moro foca agenda em Curitiba, com entrevistas e reunião com sindicato
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-no-parana-sergio-moro-entrevistas-e-reuniao.ghtml)_
+
+- **[2026-09-23 14:40 UTC]** Eleições 2026 no Paraná: Sergio Moro participa de gravação de conteúdo de campanha
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-parana-sergio-moro-agenda-23-de-setembro.ghtml)_
+
+- **[2026-09-24 15:07 UTC]** Quaest no Paraná: Sergio Moro, 36%; Requião Filho, 20%; Sandro Alex, 20%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-no-parana-pesquisa-setembro.ghtml)_
+
+- **[2026-09-24 12:32 UTC]** Eleições 2026 no Paraná: Sergio Moro cumpre agenda em Foz do Iguaçu com carreata, entrevistas e encontros
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-no-parana-sergio-moro-cumpre-agenda-em-foz-do-iguacu.ghtml)_
+
+- **[2026-09-24 16:20 UTC]** Quaest: No Paraná, Sergio Moro tem 36%; Requião Filho e Sandro Alex empatam com 20%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/quaest-no-paran-sergio-moro-tem-36-pontos-percentuais-requio-filho-e-sandro-alex-empatam-com-20.ghtml)_
+
+- **[2026-09-25 16:14 UTC]** Eleições 2026 no Paraná: Sergio Moro participa de carreata e se reúne com associações e sindicatos
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/25/agenda-campanha-sergio-moro-carreatas-reunioes-25-setembro.ghtml)_
+

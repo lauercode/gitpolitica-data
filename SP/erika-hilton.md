@@ -23,3 +23,15 @@
 - **[2026-09-07 18:46 UTC]** Candidato ao Senado, Hilton Xavier defende regularização da produção: 'beneficiar sociedade'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-hilton-xavier-defende-regularizacao-da-producao-beneficiar-sociedade.ghtml)_
 
+- **[2026-09-15 12:25 UTC]** SBT perde recurso e vai exibir resposta de Erika Hilton no Ratinho antes das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-perde-recurso-e-vai-exibir-resposta-de-erika-hilton-no-ratinho-antes-das-eleicoes.shtml)_
+
+- **[2026-09-22 14:03 UTC]** TRE manda derrubar vídeo de humorista que chama Erika Hilton de 'homem vestido de mulher'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/tre-manda-derrubar-video-de-humorista-que-chama-erika-hilton-de-homem-vestido-de-mulher.shtml)_
+
+- **[2026-09-25 22:55 UTC]** Jão encanta e confunde fãs em show teatral de nova turnê, com Erika Hilton
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/jao-encanta-e-confunde-fas-em-show-teatral-de-nova-turne-com-erika-hilton.shtml)_
+
+- **[2026-09-26 02:23 UTC]** SBT perde recurso e exibe resposta de Erika Hilton no Ratinho antes das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-perde-recurso-e-exibe-resposta-de-erika-hilton-no-ratinho-antes-das-eleicoes.shtml)_
+

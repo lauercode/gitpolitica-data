@@ -134,3 +134,12 @@
 - **[2026-09-10 13:29 UTC]** Estupro coletivo é investigado após mulher relatar ter sido colocada à força em carro por 4 homens em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/10/estupro-coletivo-mulher-colocada-dentro-de-carro-criciuma.ghtml)_
 
+- **[2026-09-19 22:18 UTC]** Trump anuncia "Força-Tarefa de IA" e "Czar" para impulsionar a tecnologia
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/19/trump-anuncia-fora-tarefa-de-ia-e-czar-para-impulsionar-a-tecnologia.ghtml)_
+
+- **[2026-09-19 22:18 UTC]** Trump anuncia 'Força-Tarefa de IA' e 'Czar' para impulsionar a tecnologia
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/19/trump-anuncia-fora-tarefa-de-ia-e-czar-para-impulsionar-a-tecnologia.ghtml)_
+
+- **[2026-09-25 17:25 UTC]** Força-tarefa em Cametá, no PA, combate queimadas e monitora qualidade do ar
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/25/forca-tarefa-em-cameta-no-pa-combate-queimadas-e-monitora-qualidade-do-ar.ghtml)_
+

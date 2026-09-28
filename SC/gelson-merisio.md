@@ -11,3 +11,15 @@
 - **[2026-09-08 22:53 UTC]** Eleições 2026 em SC: Gelson Merísio  participa de evento em Xanxerê
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-gelson-merisio-participa-de-evento-em-xanxere.ghtml)_
 
+- **[2026-09-18 14:42 UTC]** Jornal do Almoço entrevista Gelson Merísio, candidato ao governo de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/entrevista-candidatos-de-sc-gelson-merisio.ghtml)_
+
+- **[2026-09-18 16:37 UTC]** Entrevista na NSC: Gelson Merísio prevê convocação de policiais da reserva para suprir déficit de efetivo e propõe incentivos fiscais específicos por regiões do estado
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/18/entrevista-na-nsc-gelson-merisio.ghtml)_
+
+- **[2026-09-18 18:23 UTC]** Gelson Merísio (PSB) é entrevistado no Jornal do Almoço; VEJA TRECHOS
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/playlist/gelson-merisio-psb-e-entrevistado-no-jornal-do-almoco-veja-trechos.ghtml)_
+
+- **[2026-09-24 22:08 UTC]** Quaest em SC: Jorginho Mello, 54%; João Rodrigues, 13%; Gelson Merísio, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-governador-24-setembro.ghtml)_
+

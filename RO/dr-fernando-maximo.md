@@ -32,3 +32,9 @@
 - **[2026-09-04 14:02 UTC]** Candidato ao Senado, Dr. Fernando Máximo chama de 'falácia' intoxicação por mercúrio atribuída ao garimpo
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/04/candidato-ao-senado-dr-fernando-maximo-e-entrevistado-no-bom-dia-rondonia.ghtml)_
 
+- **[2026-09-17 06:00 UTC]** 'Máximo que o computador fazia': analista de sistema explica limitação tecnológica que deu origem ao 'Pilili' da urna eletrônica
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/17/computador-analista-de-sistema-explica-limitacao-tecnologica-origem-ao-pilili-da-urna-eletronica.ghtml)_
+
+- **[2026-09-24 23:13 UTC]** Quaest para o Senado em RO: Máximo, 18%; Cristina, 16%; Mariana, 11%; Sheid, 8%
+  _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-senado-24-de-setembro.ghtml)_
+

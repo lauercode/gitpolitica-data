@@ -11,3 +11,6 @@
 - **[2026-09-04 19:42 UTC]** Mulher morre após batida frontal entre motocicleta e carro na BR-364 em Pimenta Bueno, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/04/mulher-morre-apos-batida-frontal-entre-motocicleta-e-carro-na-br-364-em-pimenta-bueno-ro.ghtml)_
 
+- **[2026-09-19 08:30 UTC]** Rui Costa Pimenta quer ampliar direitos trabalhistas e verbas da saúde
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rui-costa-pimenta-quer-ampliar-direitos-trabalhistas-e-verbas-da-saude)_
+

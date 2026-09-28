@@ -17,3 +17,6 @@
 - **[2026-08-30 08:00 UTC]** 'Parque da Nasa' na Serra Gaúcha transmite lançamento do telescópio Nancy Grace Roman neste domingo
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/30/parque-da-nasa-na-serra-gaucha-transmite-lancamento-do-telescopio-nancy-grace-roman-neste-domingo.ghtml)_
 
+- **[2026-09-21 15:40 UTC]** Segunda edição do hackathon da NASA em Vilhena está com inscrições abertas
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credisul/noticia/2026/09/21/segunda-edicao-do-hackathon-da-nasa-em-vilhena-esta-com-inscricoes-abertas.ghtml)_
+

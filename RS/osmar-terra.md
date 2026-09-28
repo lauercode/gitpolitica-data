@@ -110,3 +110,39 @@
 - **[2026-09-11 17:34 UTC]** Deslizamento de terra destrói casas em Campo Bom, no RS; moradores não estavam no local
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/deslizamento-de-terra-destroi-casas-em-campo-bom.ghtml)_
 
+- **[2026-09-12 18:14 UTC]** MPF cobra R$ 1,7 bilhão em indenização de empresário e mineradora por garimpo ilegal na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/12/mpf-cobra-r-17-bilhao-em-indenizacao-de-empresario-e-mineradora-por-garimpo-ilegal-na-terra-yanomami.ghtml)_
+
+- **[2026-09-13 20:19 UTC]** Círios reúnem milhares de fiéis em Tomé-Açu, Terra Alta e Cachoeira do Arari, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/13/cirios-reunem-milhares-de-fieis-em-tome-acu-e-terra-alta-no-para.ghtml)_
+
+- **[2026-09-14 12:37 UTC]** Incêndio destrói padaria e casa no bairro da Terra Firme, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/14/incendio-destroi-padaria-e-casa-no-bairro-da-terra-firme-em-belem.ghtml)_
+
+- **[2026-09-14 09:00 UTC]** Entenda como funciona o esquema bilionário de garimpo ilegal de ouro e cassiterita na Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/14/entenda-como-funciona-o-esquema-bilionario-de-garimpo-ilegal-de-ouro-e-cassiterita-na-terra-yanomami.ghtml)_
+
+- **[2026-09-15 14:17 UTC]** VÍDEO: Brasil lança foguete com 'laboratório espacial' que vai a 100 km de altitude e prevê volta à Terra de paraquedas
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/15/video-brasil-lanca-foguete-teste-laboratorio-espacial.ghtml)_
+
+- **[2026-09-16 13:30 UTC]** O diamante raro que pode contar a história das profundezas da Terra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2026/09/o-diamante-raro-que-pode-contar-a-historia-das-profundezas-da-terra.shtml)_
+
+- **[2026-09-21 12:46 UTC]** Mulher é morta a tiros dentro de bar no bairro da Terra Firme, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/21/mulher-e-morta-a-tiros-dentro-de-bar-no-bairro-da-terra-firme-em-belem.ghtml)_
+
+- **[2026-09-23 06:00 UTC]** Terra indígena no PA tem 50 dias seguidos de queimadas; MPF cobra órgãos com urgência
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/23/terra-indigena-no-pa-tem-50-dias-seguidos-de-queimadas-mpf-cobra-orgaos-com-urgencia.ghtml)_
+
+- **[2026-09-23 13:10 UTC]** Alexandre Pires é alvo da PF em operação que investiga venda ilegal de cassiterita da Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/23/alexandre-pires-pf-operacao-terra-yanomami.ghtml)_
+
+- **[2026-09-23 16:51 UTC]** Entenda o que liga Alexandre Pires à investigação da PF sobre venda ilegal de cassiterita da Terra Yanomami
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/23/entenda-o-que-liga-alexandre-pires-a-investigacao-da-pf-sobre-venda-ilegal-de-cassiterita-da-terra-yanomami.ghtml)_
+
+- **[2026-09-24 19:15 UTC]** Google e SpaceX estão testando IA em órbita; rede elétrica na Terra não consegue acompanhar
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/09/24/google-e-spacex-estao-testando-ia-em-orbita-rede-eletrica-na-terra-nao-consegue-acompanhar.ghtml)_
+
+- **[2026-09-25 19:21 UTC]** A destruição na Terra Indígena Ituna-Itatá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/txai-surui/2026/09/a-destruicao-na-terra-indigena-ituna-itata.shtml)_
+

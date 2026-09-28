@@ -386,3 +386,6 @@
 - **[2026-09-11 03:00 UTC]** Deputado estadual, deputado federal e senador: quantos serão eleitos em 2026 e quantos votos são necessários?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/deputado-estadual-deputado-federal-e-senador-quantos-serao-eleitos-em-2026-e-quantos-votos-sao-necessarios.ghtml)_
 
+- **[2026-09-16 08:45 UTC]** Bolsas asiáticas fecham em alta antes de decisão do Federal Reserve
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/16/bolsas-asiaticas-fecham-em-alta-antes-de-decisao-do-federal-reserve.ghtml)_
+

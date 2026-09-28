@@ -47,3 +47,27 @@
 - **[2026-09-11 22:46 UTC]** Eleições 2026 em SC: João Rodrigues conversa com trabalhadores do setor de móveis e colchões
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-em-sc-joao-rodrigues-conversa-com-trabalhadores-do-setor-de-moveis-e-colchoes.ghtml)_
 
+- **[2026-09-14 22:26 UTC]** Eleições 2026 em SC: João Rodrigues conversa com eleitores em feira de Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-em-sc-joao-rodrigues-conversa-com-eleitores-em-feira-de-florianopolis.ghtml)_
+
+- **[2026-09-15 17:10 UTC]** Jornal do Almoço entrevista João Rodrigues, candidato ao governo de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/entrevista-candidatos-de-sc-joao-rodrigues.ghtml)_
+
+- **[2026-09-15 16:39 UTC]** Entrevista na NSC: João Rodrigues defende uso de tornozeleira eletrônica para agressores de mulheres e privatização do saneamento básico
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/15/entrevista-na-nsc-joao-rodrigues.ghtml)_
+
+- **[2026-09-15 18:36 UTC]** João Rodrigues (PSD) é entrevistado no Jornal do Almoço; VEJA TRECHOS
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/edicao/2026/09/15/joao-rodrigues-psd-e-entrevistado-no-jornal-do-almoco-veja-trechos.ghtml)_
+
+- **[2026-09-16 22:25 UTC]** Eleições 2026 em SC: João Rodrigues visita hospital e cumprimenta trabalhadores
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-em-sc-joao-rodrigues-visita-hospital-e-cumprimenta-trabalhadores.ghtml)_
+
+- **[2026-09-17 22:19 UTC]** Eleições 2026 em SC: João Rodrigues  participa de evento com empresários
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-em-sc-joao-rodrigues-participa-de-evento-com-empresarios.ghtml)_
+
+- **[2026-09-18 22:27 UTC]** Eleições 2026 em SC: João Rodrigues reúne com integrantes da Fiesc e firma compromisso de não aumentar impostos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-em-sc-joao-rodrigues-reune-com-integrantes-da-fiesc-e-firma-compromisso-de-nao-aumentar-impostos.ghtml)_
+
+- **[2026-09-24 22:08 UTC]** Quaest em SC: Jorginho Mello, 54%; João Rodrigues, 13%; Gelson Merísio, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-governador-24-setembro.ghtml)_
+

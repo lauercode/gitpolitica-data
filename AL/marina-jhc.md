@@ -11,3 +11,6 @@
 - **[2026-09-03 20:55 UTC]** Ronaldo Lessa renuncia à suplência de Marina JHC no Senado
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/03/ronaldo-lessa-renuncia-a-suplencia-de-marina-jhc-no-senado.ghtml)_
 
+- **[2026-09-25 21:11 UTC]** Quaest para o Senado em AL: Marina JHC, 20%; Arthur Lira, 20%; Renan, 17%
+  _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-senado-25-setembro.ghtml)_
+

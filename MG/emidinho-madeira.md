@@ -32,3 +32,6 @@
 - **[2026-09-11 10:59 UTC]** Jovem é apreendido suspeito de violentar homem com pedaço de madeira em AL; vítima morreu
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/jovem-e-apreendido-suspeito-de-violentar-homem-com-pedaco-de-madeira-em-al-vitima-morreu.ghtml)_
 
+- **[2026-09-15 14:36 UTC]** Vinho do Porto X vinho Madeira: descubra as diferenças!
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/09/15/vinho-do-porto-x-vinho-madeira-descubra-as-diferencas.ghtml)_
+

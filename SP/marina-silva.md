@@ -56,3 +56,15 @@
 - **[2026-09-11 20:04 UTC]** Datafolha para o Senado em SP: Marina Silva, 13%; Simone Tebet, 13%; André do Prado, 11% e Derrite, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/11/datafolha-sp-senado-11-setembro.ghtml)_
 
+- **[2026-09-16 19:00 UTC]** MP pede à PF investigação sobre abordagem a Marina Silva em ato para mulheres em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mp-pede-a-pf-investigacao-sobre-abordagem-a-marina-silva-em-ato-para-mulheres-em-sp.shtml)_
+
+- **[2026-09-23 20:04 UTC]** Quaest para o Senado em SP: Derrite, 16%; Marina Silva, 13%; Simone Tebet, 12% e André do Prado, 8%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/quaest-sp-senado-23-setembro.ghtml)_
+
+- **[2026-09-23 16:52 UTC]** Campanha de Marina Silva reclama de repasse menor da Rede em meio a briga no partido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-marina-silva-reclama-de-repasse-menor-da-rede-em-meio-a-briga-no-partido.shtml)_
+
+- **[2026-09-24 21:11 UTC]** Datafolha para o Senado em SP:  Marina Silva, 15%; Simone Tebet, 14%, Derrite, 12%; André do Prado, 12%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/24/senado-sp-senado-24-setembro.ghtml)_
+

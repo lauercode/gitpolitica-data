@@ -38,3 +38,33 @@
 - **[2026-09-11 22:51 UTC]** Ministério Público Eleitoral defende que PF ouça David Almeida em investigação sobre suposta compra de votos em 2024
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/11/ministerio-publico-eleitoral-defende-que-pf-ouca-david-almeida-em-investigacao-sobre-suposta-compra-de-votos-em-2024.ghtml)_
 
+- **[2026-09-13 01:53 UTC]** Eleições 2026: David Almeida participa de reunião com apoiadores na Zona Leste de Manaus e fala sobre fortalecer eventos culturais no estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/12/eleicoes-2026-david-almeida-participa-de-reuniao-com-apoiadores-na-zona-leste-de-manaus-e-fala-sobre-fortalecer-eventos-culturais-no-estado.ghtml)_
+
+- **[2026-09-14 21:38 UTC]** Eleições 2026: David Almeida participa de entrevista e propõe transformar Manaus em sede de grandes eventos esportivos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-transformar-manaus-em-sede-de-grandes-eventos-esportivos.ghtml)_
+
+- **[2026-09-15 19:29 UTC]** Eleições 2026: David Almeida participa de entrevista e defende união política para manter Zona Franca
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-david-almeida-participa-de-entrevista-e-defende-uniao-politica-para-manter-zona-franca.ghtml)_
+
+- **[2026-09-17 01:18 UTC]** Eleições 2026: David Almeida realiza caminhada em Parintins e promete fortalecer setor primário no estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-david-almeida-realiza-caminhada-em-parintins-e-promete-fortalecer-setor-primario-no-estado.ghtml)_
+
+- **[2026-09-17 16:58 UTC]** Em sabatina, David Almeida critica falta de hospitais na rede estadual e promete zerar fila do SisReg
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/17/em-sabatina-david-almeida-critica-falta-de-hospitais-na-rede-estadual-e-promete-zerar-fila-do-sisreg.ghtml)_
+
+- **[2026-09-17 22:06 UTC]** Polícia Federal tem aval da Justiça Eleitoral para ouvir David Almeida em investigação sobre compra de votos em 2024
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/17/policia-federal-tem-aval-da-justica-eleitoral-para-ouvir-david-almeida-em-investigacao-sobre-compra-de-votos-em-2024.ghtml)_
+
+- **[2026-09-21 22:21 UTC]** Eleições 2026: David Almeida participa de caminhada e promete ampliar turismo no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-david-almeida-participa-de-caminhada-e-promete-ampliar-turismo-no-amazonas.ghtml)_
+
+- **[2026-09-22 22:46 UTC]** Eleições 2026: David Almeida promete ampliar geração de emprego e renda no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-david-almeida-promete-ampliar-geracao-de-emprego-e-renda-no-amazonas.ghtml)_
+
+- **[2026-09-23 14:36 UTC]** Eleições 2026: David Almeida apresenta proposta de avenida para ligar zonas Norte e Sul de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-david-almeida-apresenta-proposta-de-avenida-para-ligar-zonas-norte-e-sul-de-manaus.ghtml)_
+
+- **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
+

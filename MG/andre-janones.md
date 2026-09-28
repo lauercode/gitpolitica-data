@@ -20,3 +20,6 @@
 - **[2026-09-06 20:20 UTC]** Janones publica falso direito de resposta sobre Nikolas e engana parlamentares
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/janones-publica-falso-direito-de-resposta-para-nikolas-e-engana-parlamentares/)_
 
+- **[2026-09-14 13:14 UTC]** Juiz rejeita ação de Bolsonaro contra Janones por acusação de mandar matar Lula e Alckmin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiz-rejeita-acao-de-bolsonaro-contra-janones-por-acusacao-de-mandar-matar-lula-e-alckmin/)_
+

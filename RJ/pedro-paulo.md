@@ -380,3 +380,84 @@
 - **[2026-09-11 20:12 UTC]** Datafolha para o Senado no RJ: Benedita, 18%; Carlos Jordy, 10%; Carlos Portinho, 10%; Pedro Paulo, 7%; Marcelo Crivella, 7%; Mônica Benício, 6%
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/11/datafolha-no-rj-senado-11-setembro.ghtml)_
 
+- **[2026-09-13 15:34 UTC]** Sem citar Moraes, PF questiona quem é ‘Andrei’ e ‘Paulo’ em mensagem enviada por Vorcaro ao ministro
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/13/sem-citar-moraes-pf-questiona-quem-andrei-e-paulo-em-mensagem-enviada-por-vorcaro-ao-ministro.ghtml)_
+
+- **[2026-09-14 21:32 UTC]** NEXP 2026 discute IA, automação e eficiência em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/14/nexp-2026-discute-ia-automacao-e-eficiencia-em-sao-paulo-2.ghtml)_
+
+- **[2026-09-14 21:20 UTC]** Para leitor, Alexandre de Moraes, André Mendonça e Paulo Gonet deveriam se afastar de seus cargos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/para-leitor-alexandre-de-moraes-andre-mendonca-e-paulo-gonet-deveriam-se-afastar-de-seus-cargos.shtml)_
+
+- **[2026-09-15 11:00 UTC]** Peça no Teatro Renault transforma Paulo Gustavo em memória coletiva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mise-en-scene/2026/09/peca-no-teatro-renault-transforma-paulo-gustavo-em-memoria-coletiva.shtml)_
+
+- **[2026-09-15 16:30 UTC]** Nubank lidera ranking de bancos principais no estado de São Paulo, aponta estudo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/09/15/nubank-lidera-ranking-de-bancos-principais-no-estado-de-sao-paulo-aponta-estudo-1.ghtml)_
+
+- **[2026-09-15 19:38 UTC]** Paulo Mais Negócios revela o perfil do comprador de luxo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/15/paulo-mais-negocios-revela-o-perfil-do-comprador-de-luxo-1.ghtml)_
+
+- **[2026-09-15 18:33 UTC]** Paulo Gonet nega proximidade com Daniel Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/paulo-gonet-nega-proximidade-com-daniel-vorcaro)_
+
+- **[2026-09-15 23:15 UTC]** Documentos do caso Master expõem embate entre André Mendonça e Paulo Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/documentos-do-caso-master-expoem-embate-entre-andre-mendonca-e-paulo-gonet/)_
+
+- **[2026-09-15 21:05 UTC]** Paulo Gonet nega proximidade com Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/paulo-gonet-nega-proximidade-com-vorcaro.ghtml)_
+
+- **[2026-09-16 12:19 UTC]** LEAP Solutions conquista dois prêmios no ranking GPTW e fica entre as melhores empresas para trabalhar em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/16/leap-solutions-conquista-dois-premios-no-ranking-gptw-e-fica-entre-as-melhores-empresas-para-trabalhar-em-sao-paulo-1.ghtml)_
+
+- **[2026-09-16 12:10 UTC]** testfy apresenta teste para SIBO durante congresso sobre eixo intestino-cérebro em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/16/testfy-apresenta-teste-para-sibo-durante-congresso-sobre-eixo-intestinocerebro-em-sao-paulo-1.ghtml)_
+
+- **[2026-09-19 14:16 UTC]** Foto no telefone de Daniel Vorcaro mostra Paulo Gonet fumando charuto com ex-banqueiro em Londres
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/foto-no-telefone-de-daniel-vorcaro-mostra-paulo-gonet-fumando-charuto-com-ex-banqueiro-em-londres-veja-imagem.ghtml)_
+
+- **[2026-09-19 17:15 UTC]** Foto comprometedora desmente versão de Paulo Gonet sobre banqueiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/foto-comprometedora-desmente-versao-de-paulo-gonet-sobre-banqueiro/)_
+
+- **[2026-09-22 13:04 UTC]** Catho reúne 10 empresas em mutirão gratuito com vagas para PcD em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/22/catho-reune-10-empresas-em-mutirao-gratuito-com-vagas-para-pcd-em-sao-paulo-1.ghtml)_
+
+- **[2026-09-22 13:37 UTC]** Amazon quer Paulo Andrade, da Globo, como novo narrador titular do streaming
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/amazon-quer-paulo-andrade-da-globo-como-novo-narrador-titular-do-streaming.shtml)_
+
+- **[2026-09-22 20:57 UTC]** São Paulo lidera absorção de escritórios entre principais mercados da América Latina no 2o trimestre
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/22/sao-paulo-lidera-absorcao-de-escritorios-entre-principais-mercados-da-america-latina-no-2o-trimestre-1.ghtml)_
+
+- **[2026-09-22 20:50 UTC]** Solví fecha acordo de R$ 115 milhões para adquirir Amplitec e Essencial no interior de São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/09/22/solvi-fecha-acordo-de-r-115-milhoes-para-adquirir-amplitec-e-essencial-no-interior-de-sao-paulo-1.ghtml)_
+
+- **[2026-09-23 10:54 UTC]** Paulo Betti vende imóvel com projeto de Niemeyer que pertenceu a Darcy Ribeiro por R$ 485 mil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/paulo-betti-vende-imovel-com-projeto-de-niemeyer-que-pertenceu-a-darcy-ribeiro-por-r-485-mil.shtml)_
+
+- **[2026-09-25 03:55 UTC]** Conselho Superior do Ministério Público analisa conduta de Paulo Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/conselho-superior-do-ministerio-publico-analisa-conduta-de-paulo-gonet/)_
+
+- **[2026-09-25 08:00 UTC]** ‘Me autointitulo radical de centro’, diz Pedro Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/me-autointitulo-radical-de-centro-diz-pedro-paulo.ghtml)_
+
+- **[2026-09-25 09:22 UTC]** Conselho do MPF decide hoje se abre investigação contra Paulo Gonet
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/conselho-do-mpf-decide-hoje-se-abre-investigacao-contra-paulo-gonet)_
+
+- **[2026-09-25 16:07 UTC]** Suspeição de Paulo Gonet pode comprometer provas do Caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/suspeicao-de-paulo-gonet-pode-comprometer-provas-do-caso-master/)_
+
+- **[2026-09-25 13:32 UTC]** Ao vivo: MPF decide se investiga Paulo Gonet por relação com Vorcaro e Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ao-vivo-mpf-decide-se-investiga-paulo-gonet-por-relacao-com-vorcaro-e-banco-master/)_
+
+- **[2026-09-25 17:17 UTC]** Após quase 40 anos, disco inédito de Paulo André Barata é lançado em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/25/apos-quase-40-anos-disco-inedito-de-paulo-andre-barata-e-lancado-em-belem.ghtml)_
+
+- **[2026-09-25 14:10 UTC]** Conselho do MPF tem três votos para Paulo Gonet seguir à frente do caso Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/mpf-relator-defende-em-voto-que-gonet-siga-a-frente-do-caso-master.ghtml)_
+
+- **[2026-09-25 13:25 UTC]** Conselho do MPF inicia sessão que decidirá se Paulo Gonet será investigado em caso envolvendo Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/conselho-do-mpf-inicia-sesso-que-decidir-se-paulo-gonet-ser-investigado-em-caso-envolvendo-master.ghtml)_
+
+- **[2026-09-25 15:18 UTC]** ESPN renova contratos com Luciano Amaral, Paulo Calçade e Alex Tseng até 2028
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/espn-renova-contratos-com-luciano-amaral-paulo-calcade-e-alex-tseng-ate-2028.shtml)_
+

@@ -32,3 +32,30 @@
 - **[2026-09-11 17:51 UTC]** Lucas Ribeiro defende ampliação do passe livre estudantil para universitários na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/11/lucas-ribeiro-defende-ampliacao-do-passe-livre-estudantil-para-universitarios-na-paraiba.ghtml)_
 
+- **[2026-09-12 18:34 UTC]** TVs Cabo Branco e Paraíba entrevistam Cícero Lucena, Efraim Filho e Lucas Ribeiro; veja como vai ser
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/12/tvs-cabo-branco-e-paraiba-entrevistam-candidatos-governo-veja-como-vai-ser.ghtml)_
+
+- **[2026-09-16 15:43 UTC]** Lucas Ribeiro, candidato ao governo da Paraíba, promete diminuir analfabetismo e pobreza no estado
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/16/lucas-ribeiro-candidato-ao-governo-da-paraiba-promete-diminuir-analfabetismo-e-pobreza-no-estado.ghtml)_
+
+- **[2026-09-18 22:25 UTC]** Lucas Ribeiro defende continuidade de políticas voltadas para o setor do agronegócio na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/18/lucas-ribeiro-fala-em-geracao-de-emprego-e-renda-no-setor-do-agronegocio-na-paraiba.ghtml)_
+
+- **[2026-09-21 19:12 UTC]** Lucas Ribeiro defende mobilidade urbana e cita novos projetos para cidades da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/21/lucas-ribeiro-candidato-ao-governo-da-pb-defende-projetos-de-mobilidade-em-cidades-do-estado.ghtml)_
+
+- **[2026-09-22 22:28 UTC]** Quaest na Paraíba: 64% aprovam e 16% desaprovam governo de Lucas Ribeiro (PP)
+  _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-paraiba-avaliacao-governo-22-setembro.ghtml)_
+
+- **[2026-09-22 22:23 UTC]** Quaest na PB: Lucas Ribeiro, 49%; Efraim Filho, 16%; Cícero Lucena, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-pb-governador-22-setembro.ghtml)_
+
+- **[2026-09-22 19:40 UTC]** Lucas Ribeiro segue líder na disputa ao Governo da Paraíba, mostra pesquisa Quaest
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lucas-ribeiro-segue-lider-na-disputa-ao-governo-da-paraiba-mostra-pesquisa-quaest.shtml)_
+
+- **[2026-09-23 22:29 UTC]** Lucas Ribeiro defende ampliar o combate ao crime organizado na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/lucas-ribeiro-diz-querer-ampliar-combate-ao-crime-organizado-na-paraiba.ghtml)_
+
+- **[2026-09-25 21:22 UTC]** Lucas Ribeiro promete fazer Centro de Convenções no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/25/lucas-ribeiro-promete-fazer-centro-de-convecoes-no-sertao-da-paraiba.ghtml)_
+

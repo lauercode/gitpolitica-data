@@ -17,3 +17,6 @@
 - **[2018-07-14 16:11 UTC]** Conheça a dupla Marcello e Fabiano, finalista do Brasília Independente 2018
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/df/distrito-federal/noticia/conheca-a-dupla-marcello-e-fabiano-finalista-do-brasilia-independente-2018.ghtml)_
 
+- **[2026-09-17 22:18 UTC]** Defesa de Fabiano Zettel questiona falta de relator no STF para pedir liberdade
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-fabiano-zettel-questiona-falta-de-relator-no-stf-para-pedir-liberdade/)_
+

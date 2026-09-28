@@ -995,3 +995,1563 @@
 - **[2026-09-11 15:11 UTC]** Investigado em inquérito no STF sobre financiamento de 'Dark Horse', Flávio Bolsonaro diz que é 'positivo tirar o sigilo de tudo'
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/flavio-bolsonaro-campanha-setembro-2026-amazonas.ghtml)_
 
+- **[2026-09-10 18:44 UTC]** Augusto Cury diz que pode apoiar Flávio no 2º turno se ele 'provar que não tem corrupção' em Dark Horse
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/augusto-cury-diz-que-pode-apoiar-flavio-no-2o-turno-se-ele-provar-que-nao-tem-corrupcao-em-dark-horse.ghtml)_
+
+- **[2026-09-11 23:35 UTC]** Datafolha: Aliados de Lula e de Flávio Bolsonaro falam em estabilidade na eleição apesar da crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-aliados-de-lula-e-de-flavio-bolsonaro-falam-em-estabilidade-na-eleicao-apesar-da-crise-no-stf.shtml)_
+
+- **[2026-09-11 23:26 UTC]** Datafolha: Lula lidera entre mais pobres e Flávio, nas demais faixas de renda; veja pesquisa por segmentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-lidera-entre-mais-pobres-e-flavio-nas-demais-faixas-de-renda-veja-pesquisa-por-segmentos.shtml)_
+
+- **[2026-09-11 23:00 UTC]** Quebra de sigilo do Master expõe Flávio Bolsonaro investigado e gera nova troca de ataques no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quebra-de-sigilo-do-master-expoe-flavio-bolsonaro-investigado-e-gera-nova-troca-de-ataques-no-stf.shtml)_
+
+- **[2026-09-11 20:00 UTC]** Mendonça retira sigilo de investigações que envolvem 'Dark Horse', Flávio, Jaques Wagner e Ciro Nogueira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-retira-sigilo-da-investigacao-sobre-dark-horse-e-outros-processos-do-caso-master.shtml)_
+
+- **[2026-09-11 18:01 UTC]** Crescimento de Flávio muda o humor da eleição e preocupa Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/crescimento-de-flavio-muda-humor-da-eleicao-preocupa-lula-pesquisas-presidente/)_
+
+- **[2026-09-11 16:39 UTC]** Flávio reage à investigação da PF e elogia a atuação de Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-reage-a-investigacao-da-pf-e-elogia-a-atuacao-de-mendonca-no-stf/)_
+
+- **[2026-09-11 15:49 UTC]** Especialistas apontam erros jurídicos em decisão de Flávio Dino contra Mário Frias
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/especialistas-apontam-erros-juridicos-em-decisao-de-flavio-dino-contra-mario-frias/)_
+
+- **[2026-09-11 15:01 UTC]** PGR atende à PF para investigar propostas de Flávio e Frias no Congresso de interesse do Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-atende-pf-investigar-propostas-flavio-frias-congresso-interesse-master/)_
+
+- **[2026-09-11 13:26 UTC]** Lula perdeu a vantagem sobre Flávio no 2º turno, dizem pesquisas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/lula-perdeu-vantagem-sobre-flavio-segundo-turno-pesquisas-eleitorais-presidente/)_
+
+- **[2026-09-11 12:22 UTC]** Flávio nega dinheiro público em Dark Horse antes de investigação autorizada por Mendonça ser revelada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-nega-dinheiro-publico-em-dark-horse-antes-de-investigacao-autorizada-por-mendonca-ser-revelada/)_
+
+- **[2026-09-11 11:49 UTC]** Decisão de Flávio Dino em ação contra Mário Frias tem falhas graves e punições extensas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/decisao-de-flavio-dino-em-acao-contra-mario-frias-tem-falhas-graves-e-punicoes-extensas/)_
+
+- **[2026-09-10 23:47 UTC]** Governadores decididos no 1º turno ameaçam mobilização de eleitores de Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governadores-decididos-no-1o-turno-ameacam-mobilizacao-de-eleitores-de-lula-e-flavio/)_
+
+- **[2026-09-10 20:07 UTC]** Flávio Dino aponta indícios de desvios em emendas parlamentares de Mário Frias
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-aponta-indicios-de-desvios-em-emendas-parlamentares-de-mario-frias/)_
+
+- **[2026-09-10 18:08 UTC]** “Nenhuma armação vai nos parar”, diz Flávio após operação do caso Dark Horse
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nenhuma-armacao-vai-nos-parar-diz-flavio-apos-operacao-do-caso-dark-horse/)_
+
+- **[2026-09-12 00:08 UTC]** Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-12 00:50 UTC]** 6 perguntas para entender inquérito contra Flávio Bolsonaro — e o que falta ser esclarecido
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2018-05-07 06:51 UTC]** Flávio Canto participa de atividades do Tamar em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/flavio-canto-participa-de-atividades-do-tamar-em-fernando-de-noronha.html)_
+
+- **[2026-09-12 01:39 UTC]** No RS, Lula vincula Vorcaro a Bolsonaro e diz que combateu fraude no Master: 'No meu mandato, ele virou prisioneiro'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-bolsonaro-vorcaro-master-rs.ghtml)_
+
+- **[2026-09-10 13:44 UTC]** Flávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-campanha-setembro-2026-roraima.ghtml)_
+
+- **[2026-09-12 01:01 UTC]** Análise: Pesquisa com Lula e Flávio estáveis demonstra campanha presidencial de baixa intensidade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/analise-pesquisa-com-lula-e-flavio-estaveis-demonstra-campanha-presidencial-de-baixa-intensidade.ghtml)_
+
+- **[2026-09-12 00:07 UTC]** Coordenador de Flávio pede a Fachin fim do sigilo dos inquéritos das Fake News e das fraudes no INSS
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/coordenador-de-flvio-pede-a-fachin-fim-do-sigilo-dos-inquritos-das-fake-news-e-das-fraudes-no-inss.ghtml)_
+
+- **[2026-09-11 21:44 UTC]** Datafolha: Lula tem 46% e Flávio marca 44% no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/datafolha-lula-tem-39percent-das-intencoes-de-voto-e-flavio-35percent-no-primeiro-turno.ghtml)_
+
+- **[2026-09-11 21:37 UTC]** Recrutador de influenciadores para Vorcaro disse que também trabalhava com redes sociais de Flávio, aponta PF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/recrutador-de-influenciadores-para-vorcaro-disse-que-tambm-trabalhava-com-redes-sociais-de-flvio-aponta-pf.ghtml)_
+
+- **[2026-09-12 06:16 UTC]** Defesa de Flávio Bolsonaro tentou quatro vezes redirecionar de Dino para Mendonça investigação sobre 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/defesa-de-flavio-bolsonaro-tentou-quatro-vezes-redirecionar-de-dino-para-mendonca-investigacao-sobre-filme.ghtml)_
+
+- **[2026-09-12 00:28 UTC]** Defesa de Flávio fez 4 pedidos seguidos para caso 'Dark Horse' ficar com Mendonça em vez de Dino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/defesa-de-flavio-fez-4-pedidos-seguidos-para-caso-dark-horse-ficar-com-mendonca-em-vez-de-dino.shtml)_
+
+- **[2026-09-12 06:47 UTC]** Defesa de Flávio tentou 4 vezes tirar de Dino investigação sobre "Dark Horse"
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/defesa-de-flvio-tentou-4-vezes-tirar-de-dino-investigao-sobre-dark-horse.ghtml)_
+
+- **[2026-09-12 05:02 UTC]** PF citou Flávio como "interlocutor direto" de Vorcaro para justificar abertura de investigação
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pf-citou-flvio-como-interlocutor-direto-de-vorcaro-para-justificar-abertura-de-investigao.ghtml)_
+
+- **[2026-09-12 04:21 UTC]** Relatório da PF sobre “Dark Horse” mostra mensagens de Flávio cobrando Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/relatrio-da-pf-sobre-dark-horse-mostra-mensagens-de-flvio-cobrando-vorcaro.ghtml)_
+
+- **[2026-09-12 08:00 UTC]** Campanha de Lula dirá na TV que Flávio Bolsonaro não pode combater crime por ter relação com investigados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-lula-dira-na-tv-que-flavio-bolsonaro-nao-pode-combater-crime-por-ter-relacao-com-investigados.shtml)_
+
+- **[2026-09-12 10:53 UTC]** Flávio Bolsonaro e 'Dark Horse': 6 perguntas para entender inquérito — e o que falta ser esclarecido
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-12 11:00 UTC]** Livro: Brasileira finalista do Booker Prize retorna com romance de ‘folk horror’; desigualdades de Bolsonaro a Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/eu-e/noticia/2026/09/12/livro-brasileira-finalista-do-booker-prize-retorna-com-romance-de-folk-horror-desigualdades-de-bolsonaro-a-lula.ghtml)_
+
+- **[2026-09-12 10:25 UTC]** Quebra de sigilo expõe Flávio Bolsonaro investigado; entenda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/quebra-de-sigilo-expoe-flavio-bolsonaro-investigado-entenda.ghtml)_
+
+- **[2026-09-12 09:59 UTC]** Quebra de sigilo do Master expõe Flávio investigado e gera troca de ataques no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/quebra-de-sigilo-do-master-expoe-flavio-investigado-e-gera-troca-de-ataques-no-stf.ghtml)_
+
+- **[2026-09-12 06:47 UTC]** Defesa de Flávio tentou 4 vezes tirar de Dino investigação sobre 'Dark Horse'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/defesa-de-flvio-tentou-4-vezes-tirar-de-dino-investigao-sobre-dark-horse.ghtml)_
+
+- **[2026-09-12 11:48 UTC]** PF aponta cobranças de Flávio a Vorcaro por filme Dark Horse
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pf-aponta-cobrancas-de-flavio-vorcaro-por-filme-dark-horse)_
+
+- **[2026-09-12 12:28 UTC]** Quebra de sigilo revela cobrança de Flávio por filme Dark Horse
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/quebra-de-sigilo-revela-cobranca-de-flavio-por-filme-dark-horse)_
+
+- **[2026-09-12 13:22 UTC]** PF lista série de contatos e encontros entre Flávio Bolsonaro e Vorcaro; veja cronologia
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/pf-lista-serie-de-contatos-e-encontros-entre-flavio-bolsonaro-e-vorcaro-veja-cronologia.ghtml)_
+
+- **[2026-09-12 08:00 UTC]** Campanha de Lula usará caso Master contra Flávio Bolsonaro em programa de TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-lula-dira-na-tv-que-flavio-bolsonaro-nao-pode-combater-crime-por-ter-relacao-com-investigados.shtml)_
+
+- **[2026-09-12 14:07 UTC]** Como Lula vem perdendo apoio no Nordeste no confronto com Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/como-lula-vem-perdendo-apoio-no-nordeste-no-confronto-com-flavio-bolsonaro/)_
+
+- **[2026-09-12 13:48 UTC]** Michelle contesta decisão de Moraes sobre visitas a Bolsonaro e diz que campanha ao Senado foi prejudicada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-contesta-decisao-de-moraes-sobre-visitas-a-bolsonaro/)_
+
+- **[2026-09-12 13:07 UTC]** Defesa de Flávio pediu quatro vezes para transferir investigação de Dark Horse de Dino para Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-flavio-pediu-quatro-vezes-para-transferir-investigacao-de-dark-horse-de-dino-para-mendonca/)_
+
+- **[2026-09-12 13:56 UTC]** Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito — e o que falta ser esclarecido
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-12 15:06 UTC]** Lula e Flávio Bolsonaro voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-12 13:57 UTC]** Campanha de Lula faz força-tarefa após queda de sigilo do Master e deve incluir novos ataques a Flávio no horário eleitoral
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/campanha-de-lula-faz-fora-tarefa-aps-queda-de-sigilo-do-master-e-deve-incluir-novos-ataques-a-flvio-no-horrio-eleitoral.ghtml)_
+
+- **[2026-09-12 10:25 UTC]** Flávio Bolsonaro investigado: veja o que documentos do caso Master revelam até agora
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/quebra-de-sigilo-expoe-flavio-bolsonaro-investigado-entenda.ghtml)_
+
+- **[2026-09-12 12:36 UTC]** Defesa de Flávio Bolsonaro tentou levar caso Dark Horse a Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/defesa-de-flavio-bolsonaro-tentou-levar-caso-dark-horse-mendonca)_
+
+- **[2026-09-12 12:28 UTC]** Atualização: Quebra de sigilo revela cobrança de Flávio por Dark Horse
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/quebra-de-sigilo-revela-cobranca-de-flavio-por-filme-dark-horse)_
+
+- **[2026-09-12 13:26 UTC]** Flávio e Moraes receberam a mesma grana do mesmo esquema
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/09/flavio-e-moraes-receberam-a-mesma-grana-do-mesmo-esquema.shtml)_
+
+- **[2026-09-12 17:32 UTC]** Em ato no RJ, Flávio Bolsonaro ataca Moraes e diz que fim do sigilo do caso Master terá 'impacto zero'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/em-ato-no-rj-flavio-bolsonaro-ataca-moraes-e-diz-que-fim-do-sigilo-do-caso-master-tera-impacto-zero.ghtml)_
+
+- **[2026-09-12 20:29 UTC]** Datafolha em PE: Lula, 55%; Flávio Bolsonaro, 24%; Cury, 4%; Renan, 2%; Caiado; 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/12/datafolha-pe-presidente-setembro.ghtml)_
+
+- **[2026-09-12 20:02 UTC]** Datafolha em MG: Lula, 37%; Flávio 35%, Cury, 5%; Zema, 5%; Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/12/datafolha-mg-presidente-12-setembro.ghtml)_
+
+- **[2026-09-12 20:00 UTC]** Datafolha em SP: Flávio Bolsonaro, 35%; Lula, 33%; Cury, 7%; Renan, 6%; Caiado, 4%; Samara, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/12/datafolha-sp-presidente-12-setembro.ghtml)_
+
+- **[2026-09-12 17:20 UTC]** Flávio lidera com 47% ante 42% de Lula em SP, aponta Datafolha; MG tem empate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-lidera-com-47-ante-42-de-lula-em-sp-aponta-datafolha-mg-tem-empate.shtml)_
+
+- **[2026-09-12 16:29 UTC]** Cachê de Jim Caviezel como Bolsonaro próximo ao de Joaquin Phoenix em 'Coringa': os valores pedidos por Flávio a Vorcaro para fazer 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/cache-de-jim-caviezel-como-bolsonaro-proximo-ao-de-joaquin-phoenix-em-coringa-os-valores-pedidos-por-flavio-a-vorcaro-para-fazer-dark-horse.shtml)_
+
+- **[2026-09-12 15:52 UTC]** Flávio e Moraes ganham apoios de quem tem memória e ideias seletivas sobre democracia e república
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/flavio-e-moraes-ganham-apoios-de-quem-tem-memoria-e-ideias-seletivas-sobre-democracia-e-republica.shtml)_
+
+- **[2026-09-12 15:24 UTC]** 'Graças a Deus o sigilo foi afastado', diz Flávio, que pede liberação de inquérito de Lulinha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gracas-a-deus-o-sigilo-foi-afastado-diz-flavio-que-pede-liberacao-de-inquerito-de-lulinha.shtml)_
+
+- **[2026-09-12 18:41 UTC]** Flávio Bolsonaro cobra investigações sobre Lula, Master e INSS
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-cobra-investigacoes-sobre-lula-master-e-inss/)_
+
+- **[2026-09-12 21:49 UTC]** Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/os-numeros-milionarios-de-dark-horse-que-flavio-bolsonaro-prometeu-a-vorcaro-cache-de-oppenheimer-bilheteria-da-zendaya.ghtml)_
+
+- **[2026-09-12 20:57 UTC]** Datafolha no DF: Flávio Bolsonaro, 40%; Lula, 32%; Caiado; 8%; Cury, 6%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/12/datafolha-no-df-flavio-bolsonaro-40percent-lula-32percent-caiado-8percent-renan-3percent-zema-1percent-cury-6percent.ghtml)_
+
+- **[2026-09-13 00:22 UTC]** Na TV, Lula cita caso Master e diz que PF não tinha liberdade com família Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/na-tv-lula-cita-caso-master-e-diz-que-pf-no-tinha-liberdade-com-famlia-bolsonaro.ghtml)_
+
+- **[2026-09-13 14:20 UTC]** Flávio Dino retira sigilo de investigações sobre desvio de emendas parlamentares para o filme de Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/flvio-dino-retira-sigilo-de-investigaes-sobre-desvio-de-emendas-parlamentares-para-o-filme-de-bolsonaro.ghtml)_
+
+- **[2026-09-13 20:51 UTC]** Flávio Dino determina quebra de sigilo fiscal de produtora de 'Dark Horse'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/flavio-dino-determina-quebra-de-sigilo-fiscal-de-produtora-de-dark-horse.ghtml)_
+
+- **[2026-09-13 20:40 UTC]** Análise: Ao expor suspeita sobre o PCC, Dino desafia Mendonça e vulnerabiliza Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/analise-ao-expor-suspeita-sobre-o-pcc-dino-desafia-mendonca-e-vulnerabiliza-flavio-bolsonaro.ghtml)_
+
+- **[2026-09-13 23:11 UTC]** Lula faz 'live' com apoiadores no Alvorada; em 2022, TSE proibiu Bolsonaro de promover própria campanha no palácio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/lula-faz-live-com-apoiadores-no-alvorada-em-2022-tse-proibiu-bolsonaro-de-promover-propria-campanha-no-palacio.ghtml)_
+
+- **[2026-09-13 22:56 UTC]** Crise no STF reorganiza debate digital entre Lula e Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/crise-stf-reorganiza-debate-digital-entre-lula-flavio-bolsonaro/)_
+
+- **[2026-09-13 23:09 UTC]** Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento de 'Dark Horse'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-13 20:40 UTC]** Análise: Ao expor suspeita sobre o PCC, Dino desafia Mendonça e expõe Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/analise-ao-expor-suspeita-sobre-o-pcc-dino-desafia-mendonca-e-vulnerabiliza-flavio-bolsonaro.ghtml)_
+
+- **[2026-09-13 23:00 UTC]** Como Lula e Flávio Bolsonaro querem atrair dinheiro?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/09/como-lula-e-flavio-bolsonaro-querem-atrair-dinheiro.shtml)_
+
+- **[2026-09-13 23:00 UTC]** Esquerda avança sobre pauta gamer e disputa espaço antes ligado à direita e Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/esquerda-avanca-sobre-pauta-gamer-e-disputa-espaco-antes-ligado-a-direita-e-bolsonaro.shtml)_
+
+- **[2026-09-14 04:06 UTC]** Mensagens tentam associar Flávio Bolsonaro ao PCC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/mensagens-tentam-associar-flavio-bolsonaro-ao-pcc.shtml)_
+
+- **[2026-09-14 08:00 UTC]** Crise no STF muda estratégia eleitoral de Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/crise-no-stf-muda-estrategia-eleitoral-de-lula-e-flavio.ghtml)_
+
+- **[2026-09-14 08:00 UTC]** Crise muda estratégia de Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/14/crise-muda-estrategia-de-lula-e-flavio.ghtml)_
+
+- **[2026-09-14 13:43 UTC]** Quaest: transferência de votos de eleitores de Cury, Renan e Caiado favorece Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-transferencia-votos-flavio-segundo-turno.ghtml)_
+
+- **[2026-09-14 13:33 UTC]** 2º turno entre Lula e Flávio Bolsonaro: veja números da Quaest por posicionamento político, região, sexo, faixa etária, escolaridade, renda e religião
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/2-turno-lula-e-flavio-bolsonaro-quaest-segmentos.ghtml)_
+
+- **[2026-09-14 13:21 UTC]** Quaest: entre eleitores de Cury, 25% escolhem Lula e 41%, Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-eleitores-cury-lula-flavio-segundo-turno-setembro.ghtml)_
+
+- **[2026-09-14 13:16 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 40%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-2-turno-setembro.ghtml)_
+
+- **[2026-09-14 13:16 UTC]** Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 31%; Cury, 7%; Renan, 4%; Caiado, 4%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-pesquisa-presidente-primeiro-turno-14-setembro.ghtml)_
+
+- **[2026-09-14 08:42 UTC]** BTG/Nexus: Lula tem 42%, e Flávio Bolsonaro, 37% no primeiro turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-lula-tem-42-e-flavio-bolsonaro-37-no-primeiro-turno.shtml)_
+
+- **[2026-09-14 13:14 UTC]** Juiz rejeita ação de Bolsonaro contra Janones por acusação de mandar matar Lula e Alckmin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiz-rejeita-acao-de-bolsonaro-contra-janones-por-acusacao-de-mandar-matar-lula-e-alckmin/)_
+
+- **[2026-09-14 13:17 UTC]** Pesquisa Quaest: Flávio aparece numericamente à frente de Lula no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/pesquisa-quaest-flavio-aparece-numericamente-a-frente-de-lula-no-2o-turno.ghtml)_
+
+- **[2026-09-14 12:28 UTC]** Juros e real têm leve melhora logo após Quaest mostrar Flávio à frente de Lula no 2º turno, mas voltam a piorar
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/14/juros-futuros-sobem-de-olho-em-corrida-eleitoral-crise-no-stf-e-escalada-do-petroleo.ghtml)_
+
+- **[2026-09-14 14:58 UTC]** Quaest: entre eleitores independentes, Flávio Bolsonaro tem 36% contra 26% de Lula no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-flavio-lula-2-turno-independentes-14-setembro.ghtml)_
+
+- **[2026-09-14 14:09 UTC]** Quaest: 44% têm mais medo de reeleição de Lula; 42%, da volta da família Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-medo-reeleicao-lula-volta-familia-bolsonaro.ghtml)_
+
+- **[2026-09-14 15:01 UTC]** Haddad diz que nunca esteve com Vorcaro e vincula ex-banqueiro a Tarcísio e aliados de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-nunca-esteve-com-vorcaro-e-vincula-ex-banqueiro-a-tarcisio-e-aliados-de-bolsonaro.shtml)_
+
+- **[2026-09-14 13:00 UTC]** Estudos do Conselho da Fiesp, chefiado por Campos Neto, embasam propostas de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/estudos-do-conselho-da-fiesp-chefiado-por-campos-neto-embasam-propostas-de-flavio-bolsonaro.shtml)_
+
+- **[2026-09-14 11:10 UTC]** Cezinha de Madureira juntou Mendonça e Vorcaro, andou de moto com Bolsonaro e tirou foto com Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cezinha-de-madureira-juntou-mendonca-e-vorcaro-andou-de-moto-com-bolsonaro-e-tirou-foto-com-lula.shtml)_
+
+- **[2026-09-14 10:53 UTC]** Quaest: Flávio marca 42%, e Lula, 40% no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-flavio-marca-42-e-lula-40-no-2o-turno.shtml)_
+
+- **[2026-09-14 15:30 UTC]** Qual a chance de Flávio Bolsonaro vencer no primeiro turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/qual-a-chance-de-flavio-bolsonaro-vencer-no-primeiro-turno/)_
+
+- **[2026-09-14 18:30 UTC]** Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-14 18:11 UTC]** Contrariando militância, PT seguirá atacando Flávio, mas não quer ‘abaixar o nível’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/contrariando-militncia-pt-seguir-atacando-flvio-mas-no-quer-abaixar-o-nvel.ghtml)_
+
+- **[2026-09-14 16:20 UTC]** Flávio Bolsonaro cresce entre eleitores do Sudeste, mulheres e católicos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/flvio-bolsonaro-cresce-entre-eleitores-do-sudeste-mulheres-e-catlicos.ghtml)_
+
+- **[2026-09-14 16:12 UTC]** Campanha de Flávio está ‘aliviada’ com liberação de inquéritos do Master, diz coordenadora econômica
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/campanha-de-flavio-esta-aliviada-com-liberacao-de-inqueritos-do-master-diz-coordenadora-economica.ghtml)_
+
+- **[2026-09-14 15:47 UTC]** Análise: Flávio Bolsonaro é favorito, mas pesquisa indica que eleição não está decidida
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/flavio-bolsonaro-e-favorito-mas-pesquisa-indica-que-eleicao-nao-esta-decidida.ghtml)_
+
+- **[2026-09-14 14:17 UTC]** Flávio consolida vantagem entre independentes e abre distância sobre Lula no Sudeste, diz diretor da Quaest
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/flavio-consolida-vantagem-entre-independentes-e-abre-distancia-sobre-lula-no-sudeste-diz-diretor-da-quaest.ghtml)_
+
+- **[2026-09-14 19:48 UTC]** Decisão de Flávio Dino diz que Valéria Rodrigues, esposa de Cezinha, estava com mala de R$ 510 mil apreendida em Congonhas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/decisao-de-flavio-dino-diz-que-valeria-rodrigues-esposa-de-cezinha-estava-com-mala-de-r-510-mil-apreendida-em-congonhas.ghtml)_
+
+- **[2026-09-14 19:24 UTC]** Organograma apreendido pela polícia de SP mostra o nome 'Mário' ao lado das palavras 'sócio' e 'Go Up USA', produtora de filme sobre Bolsonaro nos EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/organograma-apreendido-pela-policia-de-sp-mostra-o-nome-mario-ao-lado-das-palavras-socio-e-go-up-produtora-de-filme-sobre-bolsonaro-nos-eua.ghtml)_
+
+- **[2026-09-14 19:23 UTC]** 'Milei é um ótimo exemplo', diz assessora econômica de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/milei-e-um-otimo-exemplo-diz-assessora-economica-de-flavio-bolsonaro.shtml)_
+
+- **[2026-09-14 21:30 UTC]** Flávio Bolsonaro sobre Moraes: 'Não é possível que fique impune e continue participando de julgamentos'
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/14/flavio-bolsonaro-sobre-moraes-nao-e-possivel-que-fique-impune-e-continue-participando-de-julgamentos.ghtml)_
+
+- **[2026-09-14 22:30 UTC]** Queda de sigilo sobre caso ‘Dark Horse’ não gera novo desgaste para Flávio, avaliam aliados
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/queda-de-sigilo-sobre-caso-dark-horse-no-gera-novo-desgaste-para-flvio-avaliam-aliados.ghtml)_
+
+- **[2026-09-14 19:46 UTC]** Em Belém, Flávio defende afastamento de Moraes e tenta atrelar magistrado a Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/em-belem-flavio-defende-afastamento-de-moraes-e-tenta-atrelar-magistrado-a-lula.ghtml)_
+
+- **[2026-09-14 21:26 UTC]** Flávio e PL lideram uso indevido de IA, diz observatório
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-e-pl-lideram-uso-indevido-de-ia-diz-observatorio)_
+
+- **[2026-09-14 19:48 UTC]** Decisão de Flávio Dino diz que advogada estava com mala de R$ 510 mil apreendida em Congonhas
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/decisao-de-flavio-dino-diz-que-valeria-rodrigues-esposa-de-cezinha-estava-com-mala-de-r-510-mil-apreendida-em-congonhas.ghtml)_
+
+- **[2026-09-14 20:06 UTC]** Flávio Bolsonaro diz que STF tem obrigação de investigar Moraes e defende afastamento de ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-stf-tem-obrigacao-de-investigar-moraes-e-defende-afastamento-de-ministro.shtml)_
+
+- **[2026-09-15 00:48 UTC]** Flávio defende afastamento de Moraes e diz que terça será “vital” para o Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-defende-afastamento-de-moraes-e-diz-que-terca-sera-vital-para-o-brasil/)_
+
+- **[2026-09-14 22:33 UTC]** Flávio Bolsonaro aciona STF por investigação contra filho de Sarney após relato de Karina Gama
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-aciona-stf-por-investigacao-contra-filho-de-sarney-por-delacao-de-karina-gama/)_
+
+- **[2026-09-15 03:00 UTC]** Quaest: Flávio Bolsonaro ganha terreno no eleitorado feminino; desaprovação de Lula supera aprovação pela 1ª vez entre mulheres
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/15/quaest-voto-mulheres-flavio-bolsonaro-lula.ghtml)_
+
+- **[2026-09-15 03:00 UTC]** Quaest, 2º turno: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/15/quaest-2o-turno-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml)_
+
+- **[2026-09-14 23:00 UTC]** IA vira marqueteira de candidatos nanicos e entra nas propagandas de Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ia-vira-marqueteira-de-candidatos-nanicos-e-entra-nas-propagandas-de-lula-e-flavio.shtml)_
+
+- **[2026-09-14 23:00 UTC]** Campanha de Flávio Bolsonaro vê 'ganha-ganha' em sessão do STF sobre Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-bolsonaro-ve-ganha-ganha-em-sessao-do-stf-sobre-moraes.shtml)_
+
+- **[2026-09-15 04:00 UTC]** Eleição no Pará tem aceno ao agro, impacto por suposto vídeo íntimo e Lula e Flávio Bolsonaro em segundo plano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/eleicao-no-para-tem-aceno-ao-agro-impacto-por-suposto-video-intimo-e-lula-e-flavio-bolsonaro-em-segundo-plano.shtml)_
+
+- **[2026-09-15 08:00 UTC]** Quaest: Flávio supera Lula numericamente no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/15/quaest-flavio-supera-lula-numericamente-no-2o-turno.ghtml)_
+
+- **[2026-09-15 09:00 UTC]** Após desentendimentos, Michelle, Nikolas e Tarcísio entram na campanha de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/apos-desentendimentos-michelle-nikolas-e-tarcisio-entram-na-campanha-de-flavio-bolsonaro.ghtml)_
+
+- **[2026-09-15 15:12 UTC]** Flávio pede ao TSE que proíba Lula de fazer lives no Alvorada nas eleições; PT diz que só utilizou equipamentos de campanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/flavio-pede-ao-tse-que-proiba-lula-de-fazer-lives-no-alvorada-nas-eleicoes-pt-diz-que-so-utilizou-equipamentos-de-campanha.ghtml)_
+
+- **[2026-09-15 10:26 UTC]** Flávio Bolsonaro associa governo Lula a Moraes e ignora 'Dark Horse' em dia de sessão no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-associa-governo-lula-a-moraes-e-ignora-dark-horse-em-dia-de-sessao-no-stf.shtml)_
+
+- **[2026-09-15 16:46 UTC]** Grupo ligado a Zema e Flávio protesta na Esplanada enquanto ocorre julgamento no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/grupo-ligado-a-zema-e-flavio-protesta-na-esplanada-enquanto-ocorre-julgamento-no-stf.ghtml)_
+
+- **[2026-09-15 16:33 UTC]** Apoiadores de Zema e Flávio protestam contra STF, Moraes e Lula durante sessão
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/apoiadores-de-zema-e-flavio-protestam-contra-stf-moraes-e-lula-durante-sessao.ghtml)_
+
+- **[2026-09-15 15:20 UTC]** Flávio, Caiado, Zema e Renan Santos reagem a julgamento de Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/candidatos-a-presidencia-reagem-a-julgamento-de-moraes-no-stf.ghtml)_
+
+- **[2026-09-15 13:05 UTC]** Flávio Bolsonaro diz que Lula dividiu poder com Moraes e deixou Brasil ‘sem presidente’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/flvio-bolsonaro-diz-que-lula-dividiu-poder-com-moraes-e-deixou-brasil-sem-presidente.ghtml)_
+
+- **[2026-09-15 21:00 UTC]** O que é pedido de vista, solicitado por Flávio Dino? Entenda a regra
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/o-que-e-pedido-de-vista.ghtml)_
+
+- **[2026-09-15 19:42 UTC]** Crise no STF afeta estratégias de Lula e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/crise-no-stf-estrategias-de-lula-e-flavio-bolsonaro.ghtml)_
+
+- **[2026-09-15 16:23 UTC]** 'Vossa Excelência viu o vídeo do Porchat?', perguntou Flávio Dino ao ministro Edson Fachin
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/programmes/p0p9rd89?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 20:52 UTC]** Bastidores: Aliados de Flávio veem julgamento no Supremo ‘ruim’ para Lula independentemente do desfecho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/bastidores-aliados-de-flavio-veem-julgamento-no-supremo-ruim-para-lula-independentemente-do-desfecho.ghtml)_
+
+- **[2026-09-15 18:05 UTC]** Flávio Dino pede vista de julgamento sobre Moraes e Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/flavio-dino-pede-vista-de-julgamento-sobre-moraes-e-mendonca)_
+
+- **[2026-09-15 18:51 UTC]** Flávio fala de crise no STF em propaganda eleitoral com vídeo em formato de 'pronunciamento'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-fala-de-crise-no-stf-em-propaganda-eleitoral-com-video-em-formato-de-pronunciamento.shtml)_
+
+- **[2026-09-15 23:27 UTC]** Flávio aposta em “efeito Moraes” e em crise do STF para desgastar Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-efeito-moraes-e-em-crise-do-stf-para-desgastar-lula/)_
+
+- **[2026-09-15 22:34 UTC]** Flávio Dino suspende julgamento sobre investigação contra Alexandre de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-sobre-investigacao-contra-alexandre-de-moraes/)_
+
+- **[2026-09-15 19:02 UTC]** STF suspende sessão sobre relação de Vorcaro e Moraes após pedido de vista de Flávio Dino
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
+
+- **[2026-09-14 21:26 UTC]** Flávio e PL lideram uso de conteúdos feitos por IA, diz observatório
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-e-pl-lideram-uso-de-conteudos-feitos-por-IA-diz-observat%C3%B3rio)_
+
+- **[2026-09-16 03:00 UTC]** Flávio Dino pede vista no STF: o que acontece agora e quando julgamento será retomado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/flavio-dino-pede-vista-no-stf-o-que-acontece-agora-e-quando-julgamento-sera-retomado.ghtml)_
+
+- **[2026-09-16 00:28 UTC]** Em dia de julgamento no STF, Flávio Bolsonaro liga Lula a Moraes, e presidente explora investigação contra senador em horário eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/em-dia-de-julgamento-no-stf-flavio-bolsonaro-liga-lula-a-moraes-e-presidente-explora-investigacao-contra-senador.ghtml)_
+
+- **[2026-09-15 23:00 UTC]** Lula lidera em estados do Nordeste, e Flávio Bolsonaro avança no Sul e Centro-Oeste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-lidera-em-estados-do-nordeste-e-flavio-bolsonaro-avanca-no-sul-e-centro-oeste.shtml)_
+
+- **[2026-09-15 23:00 UTC]** Flávio Bolsonaro cresceu e o PT tenta acordar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/flavio-bolsonaro-cresceu-e-o-pt-tenta-acordar.shtml)_
+
+- **[2026-09-15 22:31 UTC]** Lula tenta se afastar de STF e Moraes, e Flávio Bolsonaro busca carimbar crise no governo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-se-afastar-de-stf-e-moraes-e-flavio-bolsonaro-busca-carimbar-crise-no-governo.shtml)_
+
+- **[2026-09-15 22:30 UTC]** Flávio é inexperiente e herdeiro de visão golpista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/flavio-e-inexperiente-e-herdeiro-de-visao-golpista.shtml)_
+
+- **[2026-09-15 21:00 UTC]** Campanha de Flávio quer impedir Moraes de assumir STF, mas se divide quanto a estratégia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-quer-impedir-moraes-de-assumir-stf-mas-se-divide-quanto-a-estrategia.shtml)_
+
+- **[2026-09-16 03:44 UTC]** Flávio Dino solicita investigação contra André Mendonça por suposta ligação com banqueiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-solicita-investigacao-contra-andre-mendonca-por-suposta-ligacao-com-banqueiro/)_
+
+- **[2026-09-16 01:04 UTC]** Flávio Dino: 'Há mensagens dos ministros Fux, Kassio e André. Onde vamos parar?'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmq8j47dky0wo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 01:35 UTC]** Votar em Lula é votar em Moraes, diz Flávio Bolsonaro em evento em Fortaleza
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/15/votar-em-lula-votar-em-moraes-diz-flvio-em-evento-em-fortaleza.ghtml)_
+
+- **[2026-09-16 01:29 UTC]** Articuladores da campanha de Flávio falam em ‘decepção’ com atuação de Nunes Marques
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/articuladores-da-campanha-de-flavio-falam-em-decepcao-com-atuacao-de-nunes-marques.ghtml)_
+
+- **[2026-09-16 04:00 UTC]** Justiça condena Marabraz por pressionar funcionário a votar em Bolsonaro em 2022
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/justica-condena-marabraz-por-pressionar-funcionario-a-votar-em-bolsonaro-em-2022.shtml)_
+
+- **[2026-09-16 08:39 UTC]** Lula e Flávio Bolsonaro aparecem empatados no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 12:38 UTC]** Quaest: 49% não consideram Lula honesto; 42% dizem o mesmo sobre Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/16/quaest-honestidade-candidatos-presidencia.ghtml)_
+
+- **[2026-09-16 10:21 UTC]** Lula diz que Flávio tem 'bronca' com Moraes por julgamento do 8/1 e que ministro prestou serviço à democracia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-flavio-tem-bronca-com-moraes-por-julgamento-do-81-e-que-ministro-prestou-servico-a-democracia.shtml)_
+
+- **[2026-09-16 14:01 UTC]** Lula ataca Flávio com fotos da pandemia e diz “se o pai fez isso, imagine o filho”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ataca-flavio-com-fotos-da-pandemia-e-diz-se-o-pai-fez-isso-imagine-o-filho/)_
+
+- **[2026-09-16 14:11 UTC]** Lula diz que Flávio tem 'raiva' e 'bronca' de Moraes porque ministro mandou prender Bolsonaro: 'é o pavor dele'
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/16/lula-diz-que-flavio-tem-raiva-e-bronca-de-moraes-porque-ministro-mandou-prender-bolsonaro-e-o-pavor-dele.ghtml)_
+
+- **[2026-09-16 11:20 UTC]** Sem Ciro, Flávio faz campanha no Ceará e tenta reduzir vantagem de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/sem-ciro-flvio-faz-campanha-no-cear-e-tenta-reduzir-vantagem-de-lula.ghtml)_
+
+- **[2026-09-16 18:05 UTC]** Crise mais aguda do STF ocorre um ano após Corte condenar Bolsonaro e aliados por tentativa de golpe
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/crise-mais-aguda-do-stf-ocorre-um-ano-apos-corte-condenar-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml)_
+
+- **[2026-09-16 14:32 UTC]** Flávio Bolsonaro endurece críticas e diz que 'sem ministros do Lula no Supremo, a democracia vive'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-endurece-criticas-e-diz-que-sem-ministros-do-lula-no-supremo-a-democracia-vive.shtml)_
+
+- **[2026-09-16 12:00 UTC]** TRE usa 'rachadinha' para vetar ex-deputado citado no mesmo relatório de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tre-usa-rachadinha-para-vetar-ex-deputado-citado-no-mesmo-relatorio-de-flavio-bolsonaro.shtml)_
+
+- **[2026-09-16 17:57 UTC]** Lula ataca Flávio e chama filme sobre Bolsonaro de “mequetrefe”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-ataca-flavio-chama-filme-sobre-bolsonaro-mequetrefe/)_
+
+- **[2026-09-16 14:33 UTC]** Eduardo Bolsonaro vê risco a Mendonça caso Flávio não seja eleito: “irão tentar prender”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-bolsonaro-ve-risco-a-mendonca-caso-flavio-nao-seja-eleito/)_
+
+- **[2026-09-16 07:50 UTC]** Flávio Dino no STF: qual foi seu papel no julgamento de Moraes e por que pediu vista
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 16:49 UTC]** Candidato ao Governo do RN, Rodrigo de Bolsonaro promete criar banco e contratar 17 mil agentes de segurança; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/16/candidato-ao-governo-do-rn-rodrigo-de-bolsonaro-promete-criar-banco-e-contratar-17-mil-agentes-de-seguranca-veja-entrevista.ghtml)_
+
+- **[2026-09-16 16:14 UTC]** Pesquisa Quaest: Lula é visto como desonesto por 49% e Flávio Bolsonaro, por 42%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/pesquisa-quaest-lula-e-visto-como-desonesto-por-49percent-e-flavio-bolsonaro-por-42percent.ghtml)_
+
+- **[2026-09-16 15:50 UTC]** Ciro desconversa sobre ausência em palanque de Flávio e diz que 'todos são bem-vindos' no Ceará
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/ciro-desconversa-sobre-ausencia-em-palanque-de-flavio-e-diz-que-todos-sao-bem-vindos-no-ceara.ghtml)_
+
+- **[2026-09-16 14:34 UTC]** A nova pesquisa Quaest para presidente que vai testar o movimento de alta de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/a-nova-pesquisa-quaest-para-presidente-que-vai-testar-o-movimento-de-alta-de-flavio-bolsonaro.ghtml)_
+
+- **[2026-09-16 14:11 UTC]** Flávio tem que explicar cadê os R$ 130 milhões que pegou do Vorcaro para o filme sobre Bolsonaro, diz Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/lula-diz-que-flavio-tem-raiva-e-bronca-de-moraes-porque-ministro-mandou-prender-bolsonaro-e-o-pavor-dele.ghtml)_
+
+- **[2026-09-16 17:58 UTC]** Ratinho Jr tira licença para ajudar aliado, sobe o tom contra Moro e acena a Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ratinho-jr-tira-licenca-para-ajudar-aliado-sobe-o-tom-contra-moro-e-acena-a-bolsonaro.shtml)_
+
+- **[2026-09-16 17:44 UTC]** Campanha de Flávio vai aumentar ataques a Dino e equipará-los às críticas feitas a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-vai-aumentar-ataques-a-dino-e-equiparar-as-criticas-feitas-a-moraes.shtml)_
+
+- **[2026-09-16 17:23 UTC]** Divergências do programa de governo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/09/divergencias-do-programa-de-governo-de-flavio-bolsonaro.shtml)_
+
+- **[2026-09-16 20:19 UTC]** Flávio Dino suspende julgamento de Moraes e associa governo Lula ao caso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-de-moraes-e-associa-governo-lula-ao-caso/)_
+
+- **[2026-09-16 19:42 UTC]** Flávio faz campanha no CE, PE e BA e tenta reduzir vantagem de Lula no Nordeste
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/flvio-faz-campanha-no-ce-pe-e-ba-e-tenta-reduzir-vantagem-de-lula-no-nordeste.ghtml)_
+
+- **[2026-09-16 21:00 UTC]** Lula, Flávio, dívidas impagáveis e o ciclone econômico previsto para 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/lula-flavio-dividas-impagaveis-e-o-ciclone-economico-previsto-para-2027.shtml)_
+
+- **[2026-09-16 18:51 UTC]** Campanha de Flávio aponta ganho de 8,7 milhões de seguidores nas redes em 1 ano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-aponta-ganho-de-87-milhoes-de-seguidores-nas-redes-em-1-ano.shtml)_
+
+- **[2026-09-16 22:23 UTC]** Em comício no Recife, Flávio Bolsonaro diz que Lula 'deve seu mandato' a Alexandre de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/em-comicio-no-recife-flavio-bolsonaro-diz-que-lula-deve-seu-mandato-a-alexandre-de-moraes.ghtml)_
+
+- **[2026-09-17 00:45 UTC]** 'De dia mostra a bandeira nacional e de noite vai ficar de quatro para os EUA', diz Lula sobre Eduardo e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/lula-critica-eduardo-e-flavio-bolsonaro-de-dia-mostra-a-bandeira-nacional-e-de-noite-vai-ficar-de-quatro-para-os-estados-unidos.ghtml)_
+
+- **[2026-09-16 23:00 UTC]** PL turbina candidatos ao Senado após Bolsonaro mirar STF e repassa quase o dobro que PT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pl-turbina-candidatos-ao-senado-apos-bolsonaro-mirar-stf-e-repassa-quase-o-dobro-que-pt.shtml)_
+
+- **[2026-09-17 07:33 UTC]** Lula x Flávio Bolsonaro: 5 fatores que podem definir eventual segundo turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-17 08:00 UTC]** Kassab vê potencial de a crise do Supremo impactar as candidaturas de Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/kassab-ve-potencial-de-a-crise-do-supremo-impactar-as-candidaturas-de-lula-e-flavio.ghtml)_
+
+- **[2026-09-17 09:00 UTC]** Vanessa da Mata, Flávio Andrade e Bonde do Gra Gra: veja agenda cultural do fim de semana em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/o-que-fazer-em-natal-e-regiao/noticia/2026/09/17/vanessa-da-mata-flavio-andrade-e-bonde-do-gra-gra-veja-agenda-cultural-do-fim-de-semana-em-natal.ghtml)_
+
+- **[2026-09-17 09:27 UTC]** Flávio cola Lula a Moraes e foca em Nordeste
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/flavio-cola-lula-a-moraes-e-foca-em-nordeste.ghtml)_
+
+- **[2026-09-17 13:07 UTC]** Lula muda estratégia de campanha e passa a confrontar diretamente Flávio Bolsonaro: 'Quem vota em Flávio vota em Vorcaro'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/17/lula-muda-estrategia-de-campanha-e-passa-a-confrontar-diretamente-flavio-bolsonaro-quem-vota-em-flavio-vota-em-vorcaro.ghtml)_
+
+- **[2026-09-17 11:39 UTC]** Campanha de Lula pede direito de resposta ao TSE após 'pronunciamento' de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-pede-direito-de-resposta-ao-tse-apos-pronunciamento-de-flavio.shtml)_
+
+- **[2026-09-17 11:10 UTC]** Campanha de Lula vai culpar Bolsonaro por preços de alimentos e prometer limite maior para MEI
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-vai-culpar-bolsonaro-por-precos-de-alimentos-e-prometer-limite-maior-para-mei.shtml)_
+
+- **[2026-09-17 09:40 UTC]** 'Não se reduz juros na canetada', diz Marcelo Kayath, cotado para Fazenda sob Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/nao-se-reduz-juros-na-canetada-diz-marcelo-kayath-cotado-para-fazenda-sob-flavio-bolsonaro.shtml)_
+
+- **[2026-09-17 10:25 UTC]** “De dia mostra a bandeira nacional e de noite vai ficar de quatro para os EUA”, diz Lula sobre irmãos Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/de-dia-mostra-a-bandeira-nacional-e-de-noite-vai-ficar-de-quatro-para-os-eua-diz-lula-sobre-eduardo-e-flavio-bolsonaro/)_
+
+- **[2026-09-17 15:03 UTC]** Caiado chama Flávio de 'kinder ovo' e associa Lula a Alexandre de Moraes: 'Vorcaro comprou os dois lados'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/caiado-chama-flavio-de-kinder-ovo-e-associa-lula-a-alexandre-de-moraes-vorcaro-comprou-os-dois-lados.ghtml)_
+
+- **[2026-09-17 10:37 UTC]** Flávio Bolsonaro entra na reta final da campanha com foco na região Sudeste
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/flvio-bolsonaro-entra-na-reta-final-da-campanha-com-foco-na-regio-sudeste.ghtml)_
+
+- **[2026-09-17 17:42 UTC]** Flávio Bolsonaro e Michelle aparecem juntos em propaganda eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/propaganda-de-flavio-bolsonaro-com-michelle-e-exibida-no-horario-eleitoral-nesta-quinta-17.ghtml)_
+
+- **[2026-09-17 15:53 UTC]** Caiado diz que Vorcaro 'comprou' Lula e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/17/caiado-comenta-master-stf.ghtml)_
+
+- **[2026-09-17 14:13 UTC]** Flávio Bolsonaro segura facão falso e defende castração química de estupradores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-segura-facao-falso-e-defende-castracao-quimica-de-estupradores.shtml)_
+
+- **[2026-09-17 13:30 UTC]** Documentário sobre Bolsonaro recebeu dinheiro de produtora de 'Dark Horse'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/documentario-sobre-bolsonaro-recebeu-dinheiro-de-produtora-de-dark-horse.shtml)_
+
+- **[2026-09-17 13:17 UTC]** Flávio Bolsonaro nega ter recebido ajuda de Trump após documento dos EUA ligar tarifaço à eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-nega-ter-recebido-ajuda-de-trump-apos-documento-dos-eua-ligar-tarifaco-a-eleicao.shtml)_
+
+- **[2026-09-17 13:00 UTC]** Flávio Bolsonaro usou apartamento de advogado investigado por fraudes no INSS, diz revista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-usou-apartamento-de-advogado-investigado-por-fraudes-no-inss-diz-revista.shtml)_
+
+- **[2026-09-17 18:05 UTC]** Flávio Bolsonaro chama reajuste do Bolsa Família de ato de desespero do Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-chama-reajuste-do-bolsa-familia-de-ato-de-desespero-do-lula/)_
+
+- **[2026-09-17 16:42 UTC]** Renan Santos acusa reajuste de Lula no Bolsa Família de compra de votos e critica Flávio por defender benefício
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-acusa-reajuste-de-lula-no-bolsa-familia-de-compra-de-votos-e-critica-flavio-por-defender-beneficio/)_
+
+- **[2026-09-17 15:43 UTC]** Onde Flávio Bolsonaro avançou para ultrapassar numericamente Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/onde-flavio-bolsonaro-avancou-para-ultrapassar-numericamente-lula-pesquisa-quaest/)_
+
+- **[2026-09-17 16:53 UTC]** Lula x Flávio Bolsonaro: pesquisas mostram 5 grupos de eleitores que podem definir eventual 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-17 17:17 UTC]** Na Bahia, Flávio Bolsonaro diz que reajuste do Bolsa Família é ‘ato de desespero’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/na-bahia-flvio-bolsonaro-diz-que-reajuste-do-bolsa-famlia-ato-de-desespero.ghtml)_
+
+- **[2026-09-17 22:04 UTC]** Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 36%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-presidente-17-setembro.ghtml)_
+
+- **[2026-09-17 20:13 UTC]** Zé Trovão (PL-SC), aliado de Flávio Bolsonaro, vai ao TSE contra reajuste do Bolsa Família; Mendonça vai ser o relator
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-do-bolsa-familia-mendonca-vai-ser-o-relator.ghtml)_
+
+- **[2026-09-17 19:15 UTC]** Datafolha: Flávio Bolsonaro e Lula são rejeitados por 47% dos eleitores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-e-lula-sao-rejeitados-por-47-dos-eleitores.shtml)_
+
+- **[2026-09-17 19:13 UTC]** Mendonça rejeita pedido de aliado de Flávio Bolsonaro para barrar reajuste no Bolsa Família
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/mendonca-rejeita-pedido-de-aliado-de-flavio-bolsonaro-para-barrar-reajuste-no-bolsa-familia.shtml)_
+
+- **[2026-09-17 19:05 UTC]** Datafolha: Lula e Flávio Bolsonaro empatam em 1º e 2º turnos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-1o-e-2o-turnos.shtml)_
+
+- **[2026-09-17 18:54 UTC]** Lula já pediu inegibilidade de Bolsonaro por ter aumentado Bolsa Família nas eleições de 2022
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-ja-pediu-inegibilidade-de-bolsonaro-por-ter-aumentado-bolsa-familia-nas-eleicoes-de-2022.shtml)_
+
+- **[2026-09-17 16:47 UTC]** Zé Trovão, aliado de Flávio Bolsonaro, vai ao TSE contra reajuste no Bolsa Família e Mendonça será relator
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-no-bolsa-familia-e-mendonca-sera-relator.shtml)_
+
+- **[2026-09-17 20:35 UTC]** Lula x Flávio Bolsonaro: os 5 grupos de eleitores que podem definir a eleição, segundo pesquisas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-17 22:08 UTC]** Datafolha: Lula tem 46% e Flávio, 44% no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/datafolha-lula-tem-46percent-e-flavio-44percent-no-segundo-turno.ghtml)_
+
+- **[2026-09-17 21:57 UTC]** Campanha de Flávio vê reajuste do Bolsa Família como ‘armadilha’ e descarta judicialização
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/campanha-de-flvio-v-reajuste-do-bolsa-famlia-como-armadilha-e-descarta-judicializao.ghtml)_
+
+- **[2026-09-17 21:21 UTC]** Barclays vê ‘ciclo virtuoso’ nos juros e no câmbio com eventual vitória de Flávio, mas alerta para exageros
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/17/barclays-preve-ciclo-virtuoso-nos-juros-e-no-cambio-com-eventual-vitoria-de-flavio-mas-alerta-para-exageros.ghtml)_
+
+- **[2026-09-17 20:20 UTC]** Análise: Uso de precedente de Bolsonaro no reajuste do BF não é justificativa, mas alerta
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/analise-uso-de-precedente-de-bolsonaro-no-reajuste-do-bf-nao-e-justificativa-mas-alerta.ghtml)_
+
+- **[2026-09-18 00:31 UTC]** Flávio Bolsonaro diz que vai recrutar 'fiscais de urna' para evitar que 'pessoas mal-intencionadas votem no lugar de outras'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-bolsonaro-fiscais-urna.ghtml)_
+
+- **[2026-09-17 23:54 UTC]** Flávio Bolsonaro diz que não autorizou ação de Zé Trovão contra reajuste do Bolsa Família: 'Não concordo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-diz-que-nao-autorizou-acao-de-ze-trovao-contra-reajuste-do-bolsa-familia-nao-concordo.ghtml)_
+
+- **[2026-09-17 23:22 UTC]** Datafolha: Lula tem 53% entre eleitores que recebem Bolsa Família, e Flávio Bolsonaro, 28%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/datafolha-bolsa-familia.ghtml)_
+
+- **[2026-09-17 22:44 UTC]** Datafolha aponta empate triplo entre Lula e Flávio Bolsonaro; entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-17-setembro-lula-flavio-bolsonaro-1-turno-2-turno-rejeicao.ghtml)_
+
+- **[2026-09-17 22:28 UTC]** Datafolha: Lula e Flávio Bolsonaro empatam na rejeição, com 47% cada um
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-rejeicao-lula-flavio-17-setembro.ghtml)_
+
+- **[2026-09-17 21:06 UTC]** Datafolha: Lula ainda escapa de crise no STF, e Flávio tem sua melhor fase
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-ainda-escapa-de-crise-no-stf-e-flavio-tem-sua-melhor-fase.shtml)_
+
+- **[2026-09-17 20:54 UTC]** Flávio Bolsonaro repete Jair e diz que vai recrutar apoiadores para fiscalizar urnas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-repete-jair-e-diz-que-vai-recrutar-apoiadores-para-fiscalizar-urnas.shtml)_
+
+- **[2026-09-17 19:57 UTC]** Campanha de Flávio Bolsonaro mantém liderança em doações eleitorais e recebe 17% mais que Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-bolsonaro-mantem-lideranca-em-doacoes-eleitorais-e-recebe-17-mais-que-lula.shtml)_
+
+- **[2026-09-17 19:57 UTC]** Flávio Bolsonaro diz que governo Lula aumenta Bolsa Família por desespero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml)_
+
+- **[2026-09-17 19:55 UTC]** Bolsonaro também ampliou benefícios em ano eleitoral; STF invalidou parte da medida em 2024
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bolsonaro-tambem-ampliou-beneficios-em-ano-eleitoral-stf-invalidou-parte-da-medida-em-2024.shtml)_
+
+- **[2026-09-17 19:49 UTC]** Datafolha: Lula tem 53% entre beneficiários do Bolsa Família, e Flávio Bolsonaro, 28%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-53-entre-beneficiarios-do-bolsa-familia-e-flavio-bolsonaro-28.shtml)_
+
+- **[2026-09-18 00:27 UTC]** Na TV, Lula mostra Flávio investigado e senador diz que petista colocou brasileiro 'na mira do crime'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/na-tv-lula-mostra-flavio-investigado-e-senador-diz-que-petista-colocou-brasileiro-na-mira-do-crime.ghtml)_
+
+- **[2026-09-17 22:08 UTC]** Lula e Flávio têm empate técnico no 1º e 2º turnos a 17 dias da eleição, diz Datafolha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/datafolha-lula-tem-46percent-e-flavio-44percent-no-segundo-turno.ghtml)_
+
+- **[2026-09-18 03:00 UTC]** Entenda se o governo pode reajustar benefício social em ano eleitoral e diferenças de aumentos de Lula e Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/entenda-se-o-governo-pode-reajustar-beneficio-social-em-ano-eleitoral-e-diferencas-de-aumentos-de-lula-e-bolsonaro.ghtml)_
+
+- **[2026-09-18 00:31 UTC]** Em live, Flávio Bolsonaro diz que vai criar site para recrutar 'fiscais de urna'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-bolsonaro-fiscais-urna.ghtml)_
+
+- **[2026-09-18 00:01 UTC]** Datafolha: Lula e Flávio Bolsonaro vão intensificar campanha por voto útil para tentar vencer no 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-vao-intensificar-campanha-por-voto-util-para-tentar-vencer-no-1o-turno.shtml)_
+
+- **[2026-09-17 23:00 UTC]** Lula reclama de atuação de Flávio Dino em sessão sobre Alexandre de Moraes no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-reclama-de-atuacao-de-flavio-dino-em-sessao-sobre-alexandre-de-moraes-no-stf.shtml)_
+
+- **[2026-09-17 22:54 UTC]** Datafolha: Lula tem 39% e Flávio Bolsonaro, 29% entre jovens; veja pesquisa por segmentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-39-e-flavio-bolsonaro-29-entre-jovens-veja-pesquisa-por-segmentos.shtml)_
+
+- **[2026-09-17 22:00 UTC]** 'Bolsonaro fez a mesma coisa; é o jogo das eleições', diz leitor sobre reajuste do Bolsa Família
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/bolsonaro-fez-a-mesma-coisa-e-o-jogo-das-eleicoes-diz-leitor-sobre-reajuste-do-bolsa-familia.shtml)_
+
+- **[2026-09-17 19:57 UTC]** Flávio Bolsonaro diz que Lula aumenta Bolsa Família por desespero e quer comprar voto dos pobres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml)_
+
+- **[2026-09-18 01:11 UTC]** 'Não quero ser comparado com o Flávio porque ele não é ninguém, quero ser comparado ao pai dele', diz Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/nao-quero-ser-comparado-com-o-flavio-porque-ele-nao-e-ninguem-quero-ser-comparado-ao-pai-dele-diz-lula.ghtml)_
+
+- **[2026-09-18 07:15 UTC]** Flávio Bolsonaro propõe enxugar Estado e endurecer ações de segurança
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-bolsonaro-propoe-enxugar-estado-e-endurecer-acoes-de-seguranca)_
+
+- **[2026-09-18 10:42 UTC]** Flávio Bolsonaro anuncia recrutamento para fiscalizar urnas eletrônicas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-anuncia-recrutamento-para-fiscalizar-urnas-eletronicas/)_
+
+- **[2026-09-18 13:33 UTC]** Lula diz que Flávio tem ligação com milicianos e que Master virou banco no governo Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/lula-diz-que-flavio-tem-ligacao-com-milicianos-e-que-master-virou-banco-no-governo-bolsonaro.ghtml)_
+
+- **[2026-09-18 08:00 UTC]** É #FAKE áudio de Flávio Dino dizendo que objetivo do governo federal é 'arruinar economia'
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/18/e-fake-audio-de-flavio-dino-dizendo-que-objetivo-do-governo-federal-e-arruinar-economia.ghtml)_
+
+- **[2026-09-18 11:43 UTC]** Lula diz que crise na STF respinga na eleição e culpa Bolsonaro pelo caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-crise-na-stf-respinga-na-eleicao-e-culpa-bolsonaro-pelo-caso-master.shtml)_
+
+- **[2026-09-18 13:39 UTC]** Bolsonaro foi terrorista ao tentar dar golpe, diz Lula em crítica a Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/bolsonaro-foi-terrorista-ao-tentar-dar-golpe-diz-lula-em-critica-a-trump.shtml)_
+
+- **[2026-09-18 11:43 UTC]** Lula diz que crise no STF respinga na eleição e culpa Bolsonaro pelo caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-crise-na-stf-respinga-na-eleicao-e-culpa-bolsonaro-pelo-caso-master.shtml)_
+
+- **[2026-09-18 16:00 UTC]** Lula foi contra reajuste do “Auxílio Brasil” de Bolsonaro meses antes da eleição de 2022
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-contra-reajuste-auxilio-brasil-bolsonaro-2022/)_
+
+- **[2026-09-18 15:25 UTC]** Lula diz que Bolsonaro transformou Vorcaro de 'zé ninguém' em banqueiro e culpa ex-presidente por escândalo do Banco Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/18/lula-diz-que-bolsonaro-transformou-vorcaro-de-ze-ninguem-em-banqueiro-e-culpa-ex-presidente-por-escandalo-do-banco-master.ghtml)_
+
+- **[2026-09-18 16:31 UTC]** PT acionará Justiça para investigar rede no Instagram que impulsionaria Flávio contra regra do TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pt-acionara-justica-para-investigar-rede-no-instagram-que-impulsionaria-flavio-contra-regra-do-tse.shtml)_
+
+- **[2026-09-18 16:00 UTC]** Lula criticou reajuste do “Auxílio Brasil” de Bolsonaro meses antes da eleição de 2022
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-contra-reajuste-auxilio-brasil-bolsonaro-2022/)_
+
+- **[2026-09-18 22:16 UTC]** Datafolha: 38% dizem que crise no STF prejudica Lula e 31% afirmam que prejudica Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-crise-no-stf-e-campanha-eleitoral.ghtml)_
+
+- **[2026-09-18 19:19 UTC]** Datafolha: 38% citam Lula como prejudicado por crise no STF, e 31% apontam Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-38-citam-lula-como-prejudicado-por-crise-no-stf-e-31-apontam-flavio-bolsonaro.shtml)_
+
+- **[2026-09-18 22:30 UTC]** Nova pesquisa Quaest no CE mede 'temor político' entre mais um mandato de Lula e volta dos Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/nova-pesquisa-quaest-no-ce-mede-temor-politico-entre-mais-um-mandato-de-lula-e-volta-dos-bolsonaro.ghtml)_
+
+- **[2026-09-18 22:29 UTC]** Tebet critica Flávio Bolsonaro e Derrite em comício
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/tebet-critica-flavio-bolsonaro-e-derrite-em-comicio.ghtml)_
+
+- **[2026-09-18 21:53 UTC]** Nova pesquisa Quaest no RJ testa apoios de Lula e Flávio Bolsonaro ao governo nas eleições 2026
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/nova-pesquisa-quaest-no-rj-testa-apoios-de-lula-e-flavio-bolsonaro-ao-governo-em-2026.ghtml)_
+
+- **[2026-09-18 23:00 UTC]** Flávio Bolsonaro usa Comissão de Segurança como vitrine eleitoral, mas faltou a 72% das sessões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-usa-comissao-de-seguranca-como-vitrine-eleitoral-mas-faltou-a-72-das-sessoes.shtml)_
+
+- **[2026-09-18 22:00 UTC]** Datafolha mostra eleitorado fiel a Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/datafolha-mostra-eleitorado-fiel-a-lula-e-flavio.shtml)_
+
+- **[2026-09-19 06:00 UTC]** Filho de Covas declara apoio a Lula e diz que Flávio é muito pior que o pai
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/filho-de-covas-declara-apoio-a-lula-e-diz-que-flavio-e-muito-pior-que-o-pai.shtml)_
+
+- **[2026-09-19 12:16 UTC]** Flávio Bolsonaro e outros candidatos de direita usam foto de Gonet para atacar Lula e STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-outros-candidatos-de-direita-usam-foto-de-gonet-para-atacar-lula-e-stf.shtml)_
+
+- **[2026-09-19 14:19 UTC]** Flávio Bolsonaro reage a foto de Gonet com Vorcaro: “rindo da cara do povo sofrido”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-reage-a-foto-de-gonet-com-vorcaro-rindo-da-cara-do-povo-sofrido/)_
+
+- **[2026-09-19 13:06 UTC]** As pesquisas que confirmam o crescimento de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/as-pesquisas-que-confirmam-crescimento-flavio-bolsonaro/)_
+
+- **[2026-09-19 15:20 UTC]** Datafolha: No Ceará, Lula tem 54% e Flávio, 26%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/19/datafolha-no-cear-lula-tem-54-pontos-percentuais-e-flvio-26.ghtml)_
+
+- **[2026-09-19 18:26 UTC]** TSE aceita ação de Flávio Bolsonaro contra Lula e Alckmin por desfile de escola de samba
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/tse-aceita-acao-de-flavio-bolsonaro-contra-lula-e-alckmin-por-desfile-de-escola-de-samba.ghtml)_
+
+- **[2026-09-19 18:21 UTC]** Lula e Flávio fazem comícios simultâneos em SC, reduto do bolsonarismo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/lula-flavio-comicios-sc-reduto-do-bolsonarismo.ghtml)_
+
+- **[2026-09-19 17:16 UTC]** Lula faz campanha em reduto do bolsonarismo, diz que Flávio quer tirar o pai da cadeia e prega fim das bets
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/lula-faz-campanha-em-sc-estado-onde-bolsonaro-teve-69percent-dos-votos-em-2022-e-prega-fim-das-bets.ghtml)_
+
+- **[2026-09-19 15:00 UTC]** Lula e Flávio vão concentrar agendas de campanha no Nordeste e Sudeste na reta final
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-e-flavio-vao-concentrar-agendas-de-campanha-no-nordeste-e-sudeste-na-reta-final.shtml)_
+
+- **[2026-09-19 18:52 UTC]** Lula diz querer vencer eleição para “manter Bolsonaro na cadeia”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-diz-querer-vencer-eleicao-para-manter-bolsonaro-na-cadeia/)_
+
+- **[2026-09-19 17:54 UTC]** Flávio diz que Lula tentou 'comprar voto dos mais pobres' e promete 'tesouraço' na economia
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/19/flavio-diz-que-lula-tentou-comprar-voto-dos-mais-pobres-e-promete-tesouraco-na-economia.ghtml)_
+
+- **[2026-09-19 16:21 UTC]** Flávio Bolsonaro diz que Lula tenta comprar os pobres e aumentou Bolsa Família por desespero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-lula-tenta-comprar-os-pobres-e-aumentou-bolsa-familia-por-desespero.shtml)_
+
+- **[2026-09-19 23:14 UTC]** Campanha de Lula pede para TSE suspender plataforma de vídeos de Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/campanha-de-lula-pede-para-tse-suspender-plataforma-de-videos-de-flavio-bolsonaro.ghtml)_
+
+- **[2026-09-20 10:30 UTC]** TSE aceita abrir ação de Flávio Bolsonaro contra Lula por desfile no Carnaval do Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-aceita-abrir-acao-de-flavio-bolsonaro-contra-lula-por-desfile-no-carnaval-do-rio.shtml)_
+
+- **[2026-09-20 13:28 UTC]** No Ceará, Justiça Eleitoral determina perda de 47 minutos na propaganda de Elmano por associar Ciro a Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/20/no-cear-justia-eleitoral-determina-perda-de-47-minutos-na-propaganda-de-elmano-por-associar-ciro-a-bolsonaro.ghtml)_
+
+- **[2026-09-20 12:20 UTC]** Como o aumento de etanol na gasolina entrou no debate eleitoral entre Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/09/como-o-aumento-de-etanol-na-gasolina-entrou-no-debate-eleitoral-entre-lula-e-flavio-bolsonaro.shtml)_
+
+- **[2026-09-20 15:24 UTC]** Campanha de Lula aciona TSE contra suposto uso de perfis para impulsionar conteúdo de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-aciona-tse-contra-suposto-uso-de-perfis-para-impulsionar-conteudo-de-flavio.shtml)_
+
+- **[2026-09-20 22:24 UTC]** Campanha de Lula pede cassação do registro da chapa de Flávio Bolsonaro por uso irregular do Instagram
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/20/campanha-de-lula-pede-cassao-do-registro-da-chapa-de-flvio-bolsonaro-por-uso-irregular-do-instagram.ghtml)_
+
+- **[2026-09-20 22:00 UTC]** Campanha de Flávio Bolsonaro lança talk show com convidados como Cris Arcangeli
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/campanha-de-flavio-bolsonaro-lanca-talk-show-com-convidados-como-cris-arcangeli.shtml)_
+
+- **[2026-09-20 21:17 UTC]** PT vai ao TSE por suspensão de site com 'TV 24 h' de Flávio Bolsonaro por propaganda irregular
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/pt-vai-ao-tse-por-suspensao-de-site-com-tv-24-h-de-flavio-bolsonaro-por-propaganda-irregular.shtml)_
+
+- **[2026-09-21 05:00 UTC]** Podcast: a reta final da corrida eleitoral e as preocupações de Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-a-reta-final-da-corrida-eleitoral-e-as-preocupacoes-de-lula-e-flavio-bolsonaro.shtml)_
+
+- **[2026-09-21 08:00 UTC]** Flávio Bolsonaro ganhou; e agora?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/coluna/flavio-bolsonaro-ganhou-e-agora.ghtml)_
+
+- **[2026-09-21 08:00 UTC]** Flávio evita embate, mas direita aposta em pauta anti-STF no Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/flavio-evita-embate-mas-direita-aposta-em-pauta-anti-stf-no-senado.ghtml)_
+
+- **[2026-09-21 13:47 UTC]** Datafolha: veja os segmentos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/datafolha-17-set-segmentos.ghtml)_
+
+- **[2026-09-21 10:05 UTC]** André Singer lança em São Paulo livro sobre legado político de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/andre-singer-lanca-em-sao-paulo-livro-sobre-legado-politico-de-bolsonaro.shtml)_
+
+- **[2026-09-21 09:00 UTC]** Pesquisa Palver mostra Flávio com 42% e Lula com 41% no primeiro turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pesquisa-palver-mostra-flavio-com-42-e-lula-com-41-no-primeiro-turno.shtml)_
+
+- **[2026-09-21 07:59 UTC]** BTG/Nexus: Lula e Flávio Bolsonaro mantêm empate técnico no primeiro e no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-lula-e-flavio-bolsonaro-mantem-empate-tecnico-no-primeiro-e-no-segundo-turno.shtml)_
+
+- **[2026-09-21 13:17 UTC]** Musk reage a Flávio ultrapassando Lula em plataforma de previsão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/musk-reage-flavio-ultrapassando-lula-plataforma-previsao/)_
+
+- **[2026-09-21 14:34 UTC]** Folha inicia série de entrevistas sobre educação; Flávio e Cury não escalam porta-vozes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/folha-inicia-serie-de-entrevistas-sobre-educacao-flavio-e-cury-nao-escalam-porta-vozes.shtml)_
+
+- **[2026-09-21 14:27 UTC]** Flávio mira em voto dos eleitores de adversários e tenta decidir eleição no 1º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-voto-util-primeiro-turno/)_
+
+- **[2026-09-21 17:44 UTC]** Ação do PT contra Flávio Bolsonaro pode gerar suspensão de perfis nas redes sociais, dizem especialistas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/acao-do-pt-contra-flavio-bolsonaro-pode-gerar-suspensao-de-perfis-nas-redes-sociais-dizem-especialistas.ghtml)_
+
+- **[2026-09-21 17:17 UTC]** Disputa mais apertada entre Lula e Flávio faz bolsa brasileira romper padrão eleitoral, aponta J.P. Morgan
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/21/disputa-mais-apertada-entre-lula-e-flvio-faz-bolsa-brasileira-romper-padro-eleitoral-aponta-jp-morgan.ghtml)_
+
+- **[2026-09-21 15:15 UTC]** Nova pesquisa Datafolha para presidente põe Lula e Flávio Bolsonaro à prova e testa crise do STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-para-presidente-poe-lula-e-flavio-bolsonaro-a-prova-e-testa-crise-do-stf.ghtml)_
+
+- **[2026-09-21 21:51 UTC]** Quaest: rejeição a Flávio Bolsonaro é de 56%; Lula tem 55%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-rejeicao-21-setembro.ghtml)_
+
+- **[2026-09-21 21:25 UTC]** Quaest: cai parcela que diz que caso Master afeta 'todos'; 21% citam família Bolsonaro; 16%, o STF; e 11%, o governo Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-impactos-do-caso-master-e-crise-no-stf.ghtml)_
+
+- **[2026-09-21 21:05 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-presidente-2o-turno-21-setembro.ghtml)_
+
+- **[2026-09-21 21:05 UTC]** Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 33%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-presidente-1o-turno-21-setembro.ghtml)_
+
+- **[2026-09-21 18:22 UTC]** Quaest: Lula tem 37%, e Flávio Bolsonaro, 33% no 1º turno; candidatos empatam no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-lula-tem-37-e-flavio-bolsonaro-33-no-1o-turno-candidatos-empatam-no-2o-turno.shtml)_
+
+- **[2026-09-21 18:05 UTC]** Assessora de Flávio Bolsonaro negociou liberação de emendas com miliciano condenado no caso Marielle
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/assessora-de-flavio-bolsonaro-negociou-liberacao-de-emendas-com-miliciano-condenado-no-caso-marielle.shtml)_
+
+- **[2026-09-21 21:19 UTC]** PF encontra mensagens em que assessor de Brazão cobra emenda de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/pf-encontra-mensagens-em-que-assessor-de-brazao-cobra-emenda-de-flavio-dois-dias-antes-de-ser-preso.ghtml)_
+
+- **[2026-09-21 21:17 UTC]** Quaest: Lula e Flávio empatam no primeiro e segundo turnos, a 13 dias da eleição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/quaest-flavio-tem-42percent-e-lula-41percent-no-segundo-turno.ghtml)_
+
+- **[2026-09-21 20:40 UTC]** Flávio Dino mantém proibição de publicidade de bets em bens públicos de MG
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/flavio-dino-mantem-proibicao-de-publicidade-de-bets-em-bens-publicos-de-mg.ghtml)_
+
+- **[2026-09-22 01:02 UTC]** Michelle protesta contra proibição de mostrar  Bolsonaro em propaganda eleitoral
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-protesta-contra-proibicao-de-mostrar-bolsonaro-em-propaganda-eleitoral/)_
+
+- **[2026-09-22 00:17 UTC]** Flávio Bolsonaro cumpre agenda com motocarreata e ato de campanha em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/21/flavio-bolsonaro-campanha-setembro-rn.ghtml)_
+
+- **[2026-09-22 01:34 UTC]** Renan Santos diz que não apoiará Flávio Bolsonaro em eventual segundo turno: ‘Bandido’
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/21/renan-santos-diz-que-no-apoiar-flvio-bolsonaro-em-eventual-segundo-turno-bandido.ghtml)_
+
+- **[2026-09-21 23:10 UTC]** Flávio diz que terá relação ‘pragmática’ com a China, se eleito
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/flvio-bolsonaro-diz-que-ter-relao-pragmtica-economicamente-com-a-china-se-eleito.ghtml)_
+
+- **[2026-09-21 21:17 UTC]** Quaest: Flávio empata com Lula no primeiro e segundo turnos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/quaest-flavio-tem-42percent-e-lula-41percent-no-segundo-turno.ghtml)_
+
+- **[2026-09-22 04:01 UTC]** Flávio Bolsonaro destinou emenda a miliciano condenado no caso Marielle; veja prints de conversa com assessora do senador
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/flavio-bolsonaro-destinou-emenda-a-miliciano-condenado-por-morte-de-marielle-veja-prints-de-conversa-com-assessora-do-senador.ghtml)_
+
+- **[2026-09-22 03:00 UTC]** Lula deve reforçar agenda social e tentar tirar foco da crise no STF na reta final do 1º turno; Flávio mira Sudeste e aposta no voto útil
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/lula-flavio-estrategias-reta-final-campanha.ghtml)_
+
+- **[2026-09-22 04:00 UTC]** Flávio esbarra em polêmicas de Bolsonaro e ignora 'Dark Horse' ao explorar crise no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-esbarra-em-polemicas-de-bolsonaro-e-ignora-dark-horse-ao-explorar-crise-no-stf.shtml)_
+
+- **[2026-09-21 23:00 UTC]** Lula é visto como favorito para 54% dos brasileiros; Flávio empata entre homens e evangélicos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lula-e-visto-como-favorito-para-54-dos-brasileiros-flavio-empata-entre-homens-e-evangelicos.shtml)_
+
+- **[2026-09-22 08:00 UTC]** Flávio tem 42% e Lula, 41% no 2º turno, diz Quaest
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/22/flavio-tem-42-e-lula-41-no-2o-turno-diz-quaest.ghtml)_
+
+- **[2026-09-22 09:35 UTC]** Protesto em Nova York projeta Flávio Bolsonaro entregando faixa presidencial a Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/protesto-em-nova-york-projeta-flavio-bolsonaro-entregando-faixa-presidencial-a-trump.shtml)_
+
+- **[2026-09-22 10:45 UTC]** Campanha de Flávio Bolsonaro aposta em sentimento 'anti-Lula e anti-STF' na reta final da campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/campanha-de-flavio-bolsonaro-aposta-em-sentimento-anti-lula-e-anti-stf-na-reta-final-da-campanha.ghtml)_
+
+- **[2026-09-22 11:09 UTC]** TSE abre investigação sobre rede de collabs ligada a Flávio Bolsonaro no Instagram
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/tse-abre-investigacao-sobre-rede-de-collabs-ligada-a-flavio-bolsonaro-no-instagram.shtml)_
+
+- **[2026-09-22 14:13 UTC]** Flávio e Lula faltam ao debate do Flow e viram alvos de ataques sobre o Bolsa Família e o caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-e-lula-faltam-ao-debate-do-flow-e-viram-alvos-de-ataques-sobre-o-bolsa-familia-e-o-caso-master/)_
+
+- **[2026-09-22 16:38 UTC]** Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-22 14:43 UTC]** Flávio Bolsonaro cumpre agenda de campanha com motocarreata e comício em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/22/flavio-campanha-setembro-maranhao.ghtml)_
+
+- **[2026-09-22 18:04 UTC]** TSE aceita ação do PT que pede investigação de suposta rede de collabs para promover Flávio Bolsonaro no Instagram
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/tse-aceita-acao-do-pt-que-pede-investigacao-de-suposta-rede-de-collabs-para-promover-flavio-bolsonaro-no-instagram.ghtml)_
+
+- **[2026-09-22 17:52 UTC]** Flávio Bolsonaro e Lula trocam críticas e focam em preço dos alimentos em propaganda eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/22/flavio-bolsonaro-e-lula-trocam-criticas-e-focam-em-preco-dos-alimentos-em-propaganda-eleitoral.ghtml)_
+
+- **[2026-09-22 16:17 UTC]** Flávio Bolsonaro ataca Dino em reduto de ministro do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-ataca-dino-em-reduto-de-ministro-do-stf.shtml)_
+
+- **[2026-09-22 15:07 UTC]** Aliados de Flávio reclamam que Michelle não entrou de vez na campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-flavio-reclamam-que-michelle-nao-entrou-de-vez-na-campanha.shtml)_
+
+- **[2026-09-22 20:50 UTC]** Bateu o desespero: ascensão de Flávio Bolsonaro assombra Moraes e seus aliados no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/renan-ramalho/bateu-o-desespero-ascensao-de-flavio-bolsonaro-assombra-moraes-e-seus-aliados-no-stf/)_
+
+- **[2026-09-22 18:30 UTC]** Damares homenageia Rick com resgate de vídeo em que sertanejo faz Bolsonaro chorar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-homenageia-rick-com-video-em-que-sertanejo-canta-para-bolsonaro/)_
+
+- **[2026-09-22 20:24 UTC]** Flávio diz no Maranhão que Dino faz perseguição política no STF e no Estado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/flvio-diz-no-maranho-que-dino-faz-perseguio-poltica-no-stf-e-no-estado.ghtml)_
+
+- **[2026-09-22 19:41 UTC]** Tarcísio grava com Flávio e fala em 'entrar com potência' no 2º turno da campanha presidencial
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tarcsio-grava-com-flvio-e-fala-em-entrar-com-potncia-no-2-turno-da-campanha-presidencial.ghtml)_
+
+- **[2026-09-22 22:31 UTC]** Quaest na Paraíba: Lula, 54%; Flávio Bolsonaro, 23%
+  _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-paraiba-presidente-22-setembro.ghtml)_
+
+- **[2026-09-22 20:24 UTC]** Em novo vídeo, Caiado cobra explicações de Flávio sobre dinheiro de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/em-novo-video-caiado-cobra-explicacoes-de-flavio-sobre-dinheiro-de-vorcaro.shtml)_
+
+- **[2026-09-22 18:37 UTC]** 47% das mulheres chefes de família dizem votar em Lula; 27%, em Flávio, diz Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/47-das-mulheres-chefes-de-familia-dizem-votar-em-lula-27-em-flavio-diz-datafolha.shtml)_
+
+- **[2026-09-22 16:17 UTC]** Flávio ataca Dino em reduto de ministro do STF e provoca Justiça Eleitoral com quadro de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-ataca-dino-em-reduto-de-ministro-do-stf.shtml)_
+
+- **[2026-09-22 23:08 UTC]** TSE pede informações ao Facebook e Shopee sobre uso irregular de perfis para impulsionar campanha de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tse-pede-informaes-de-facebook-e-shopee-sobre-uso-irregular-de-perfis-para-impulsionar-campanha-de-flvio.ghtml)_
+
+- **[2026-09-22 23:03 UTC]** Caiado diz que Lula e Flávio 'correm' de debates
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/caiado-diz-que-lula-e-flavio-correm-de-debates.ghtml)_
+
+- **[2026-09-22 22:21 UTC]** TRE-CE impõe perda de 76 minutos de propaganda de Elmano por associar Ciro a Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/tre-ce-impe-perda-de-76-minutos-de-propaganda-de-elmano-por-associar-ciro-a-bolsonaro.ghtml)_
+
+- **[2026-09-23 03:00 UTC]** A 11 dias da eleição, Lula aposta em medidas contra bets e 'Dark Horse'; Flávio mira em voto útil e crise no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/23/a-11-dias-da-eleicao-lula-aposta-em-medidas-contra-bets-e-dark-horse-flavio-mira-em-voto-util-e-crise-no-stf.ghtml)_
+
+- **[2026-09-22 22:21 UTC]** Influenciadores trumpistas divulgam propaganda paga a favor de Flávio Bolsonaro e de empresa de apostas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/influenciadores-trumpistas-divulgam-propaganda-paga-a-favor-de-flavio-bolsonaro-e-de-empresa-de-apostas.shtml)_
+
+- **[2026-09-22 22:00 UTC]** O Bolsonaro mais perigoso pode ser o mais moderado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-bolsonaro-mais-perigoso-pode-ser-o-mais-moderado.shtml)_
+
+- **[2026-09-22 19:34 UTC]** Culpa pelas bets tem as digitais de Lula e de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/culpa-pelas-bets-tem-as-digitais-de-lula-e-de-bolsonaro.shtml)_
+
+- **[2026-09-23 01:17 UTC]** Na reta final para o 1º turno, Flávio explora endividamento e Lula, o combate às bets
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/na-reta-final-para-o-1o-turno-flavio-explora-endividamento-e-lula-o-combate-as-bets.ghtml)_
+
+- **[2026-09-23 04:00 UTC]** Datafolha: Flávio Bolsonaro atrai mais eleitores de Zema, Renan, Caiado e Cury em 2º turno contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-atrai-mais-eleitores-de-zema-renan-caiado-e-cury-em-2o-turno-contra-lula.shtml)_
+
+- **[2026-09-23 04:32 UTC]** Flávio Dino concentra investigações e pode ampliar poder sobre o Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-concentra-investigacoes-e-pode-ampliar-poder-sobre-o-congresso/)_
+
+- **[2026-09-23 04:50 UTC]** Apelo do voto útil em Flávio esbarra na rejeição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/09/apelo-do-voto-util-em-flavio-esbarra-na-rejeicao.ghtml)_
+
+- **[2026-09-23 09:00 UTC]** Quais partidos apoiam Lula e Flávio Flávio Bolsonaro?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quais-partidos-apoiam-lula-e-flavio-flavio-bolsonaro.ghtml)_
+
+- **[2026-09-23 14:16 UTC]** Flávio Bolsonaro reúne aliados em 'superlive' dias após campanha de Lula pedir suspensão de sua TV Celular no TSE
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-live.ghtml)_
+
+- **[2026-09-23 11:45 UTC]** A pedido de Flávio Bolsonaro, Nunes Marques manda tirar do ar vídeo em que Lula fala do caso Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/tse-nunes-marques-video-lula-caso-master.ghtml)_
+
+- **[2026-09-23 10:00 UTC]** Safári, Flávio Bolsonaro e a fraude do INSS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/romulo-saraiva/2026/09/safari-flavio-bolsonaro-e-a-fraude-do-inss.shtml)_
+
+- **[2026-09-23 09:46 UTC]** Tarcísio grava com Flávio e diz querer ver Bolsonaro subir a rampa do Planalto com o filho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-grava-com-flavio-e-diz-querer-ver-bolsonaro-subir-a-rampa-do-planalto-com-o-filho.shtml)_
+
+- **[2026-09-23 13:26 UTC]** Flávio Bolsonaro aciona TSE para impedir Lula de usar discurso na ONU em campanha eleitoral
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flavio-bolsonaro-vai-ao-tse-para-impedir-lula-de-usar-discurso-na-onu-em-campanha-eleitoral.ghtml)_
+
+- **[2026-09-23 09:00 UTC]** Quais partidos apoiam Lula e quais apoiam Flávio Bolsonaro?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quais-partidos-apoiam-lula-e-flavio-flavio-bolsonaro.ghtml)_
+
+- **[2026-09-23 15:54 UTC]** Quaest no Ceará: Lula, 55%; Flávio Bolsonaro, 23%; Augusto Cury, 5%; Renan Santos, 3%; Ronaldo Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-presidente-23-setembro.ghtml)_
+
+- **[2026-09-23 14:20 UTC]** Flávio Bolsonaro espera sair na frente no primeiro turno para atrair apoio do Centrão
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/23/flavio-bolsonaro-espera-sair-na-frente-no-primeiro-turno-para-atrair-apoio-do-centrao.ghtml)_
+
+- **[2026-09-23 14:16 UTC]** Flávio Bolsonaro reúne Tarcísio e outros aliados em live dias após campanha de Lula pedir suspensão de canal no TSE
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-live.ghtml)_
+
+- **[2026-09-23 15:12 UTC]** Campanha de Flávio aciona TSE por discurso de Lula na Assembleia Geral da ONU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-flavio-aciona-tse-por-discurso-de-lula-na-assembleia-geral-da-onu.shtml)_
+
+- **[2026-09-23 14:27 UTC]** Renan Santos acusa Flávio Bolsonaro de receber apoio de perfis estrangeiros no X
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/missao-acusa-flavio-bolsonaro-de-receber-apoio-de-perfis-estrangeiros-no-x.shtml)_
+
+- **[2026-09-23 13:00 UTC]** Ida de Flávio Bolsonaro a igrejas evangélicas testa lei eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ida-de-flavio-bolsonaro-a-igrejas-evangelicas-testa-lei-eleitoral.shtml)_
+
+- **[2026-09-23 11:28 UTC]** Sem Lula e Flávio Bolsonaro, Record decide cancelar debate presidencial do 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sem-lula-e-flavio-bolsonaro-record-decide-cancelar-debate-presidencial-do-1o-turno.shtml)_
+
+- **[2026-09-23 17:35 UTC]** Lula leva vítimas de bets à propaganda eleitoral e Flávio chama petista de “pai do Tigrinho”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-leva-vitimas-de-bets-a-propaganda-eleitoral-e-flavio-chama-petista-de-pai-do-tigrinho/)_
+
+- **[2026-09-23 16:57 UTC]** Flávio defende bets, promete fim do “Tigrinho” e culpa Lula por expansão dos jogos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-defende-bets-promete-fim-do-tigrinho-e-culpa-lula-por-expansao-dos-jogos/)_
+
+- **[2026-09-23 15:28 UTC]** Record cancela debate presidencial após desistência de Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/record-cancela-debate-presidencial-apos-desistencia-de-lula-e-flavio/)_
+
+- **[2026-09-23 16:53 UTC]** Caiado critica ausência de Lula e Flávio em debates e diz que ambos vão 'afrouxar' regras para soltar Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/caiado-critica-ausencia-de-lula-e-flavio-em-debates-e-diz-que-ambos-vao-afrouxar-regras-para-soltar-vorcaro.ghtml)_
+
+- **[2026-09-23 16:21 UTC]** Federação União-PP tende a apoiar Flávio no segundo turno e projeta maior bancada da Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/federao-unio-pp-tende-a-apoiar-flvio-no-segundo-turno-e-projeta-maior-bancada-da-cmara.ghtml)_
+
+- **[2026-09-23 14:40 UTC]** Tarcísio pede 'voto útil' em Flávio Bolsonaro, critica Lula e ironiza Janja
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/23/tarcisio-pede-voto-util-em-flavio-bolsonaro-critica-lula-e-ironiza-janja.ghtml)_
+
+- **[2026-09-23 21:49 UTC]** Flávio Bolsonaro pede ao STF apuração sobre suposta relação de Lula com Daniel Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-noticia-crime-lula-vorcaro.ghtml)_
+
+- **[2026-09-23 20:23 UTC]** Quaest em PE: Lula, 54%; Flávio, 21%; Cury, 5%; Renan, 2%; Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/23/quaest-pe-presidente-23-de-setembro.ghtml)_
+
+- **[2026-09-23 20:17 UTC]** Quaest no DF: Flávio, 33%; Lula, 32%; Caiado, 8%; Cury, 7%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-presidente-23-setembro.ghtml)_
+
+- **[2026-09-23 20:05 UTC]** Quaest em SP: Flávio Bolsonaro, 34%; Lula, 31%; Cury, 7%; Caiado, 4%; Renan; 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/quaest-sp-presidente-23-setembro.ghtml)_
+
+- **[2026-09-23 18:30 UTC]** Aliado de Nunes diz que Flávio foi desrespeitoso ao dizer que prefeito pode ser atendido em hospital veterinário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliado-de-nunes-diz-que-flavio-foi-desrespeitoso-ao-dizer-que-prefeito-pode-ser-atendido-em-hospital-veterinario.shtml)_
+
+- **[2026-09-23 20:34 UTC]** Quaest na Paraíba: 59% têm mais medo da volta da família Bolsonaro ao governo; 29% da reeleição de Lula
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/quaest-paraiba-medo-volta-familia-bolsonaro-reeleicao-lula.ghtml)_
+
+- **[2026-09-23 21:57 UTC]** Flávio Bolsonaro apresenta ao STF notícia-crime contra Lula por mensagens de advogado a Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/23/flavio-bolsonaro-apresenta-ao-stf-noticia-crime-contra-lula-por-mensagens-de-advogado-a-vorcaro.ghtml)_
+
+- **[2026-09-23 19:29 UTC]** Lula e Flávio voltam a Minas Gerais na reta final de campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/lula-e-flvio-voltam-a-minas-gerais-na-reta-final-de-campanha.ghtml)_
+
+- **[2026-09-23 19:13 UTC]** Missão aciona no TSE contra Flávio por suspeita de interferência estrangeira em campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/missao-aciona-no-tse-contra-flavio-por-suspeita-de-interferencia-estrangeira-em-campanha.ghtml)_
+
+- **[2026-09-23 19:05 UTC]** Flávio rebate Lula sobre bets e chama PT de ‘Partido do Tigrinho’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flvio-rebate-lula-sobre-bets-e-chama-pt-de-partido-do-tigrinho.ghtml)_
+
+- **[2026-09-23 23:37 UTC]** Flávio Bolsonaro defende novo programa contra dívidas dos brasileiros e critica ausência do Brasil no Escudo das Américas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-live-dividas.ghtml)_
+
+- **[2026-09-23 22:35 UTC]** Quaest no TO: Lula, 37%; Flávio Bolsonaro, 35%; Ronaldo Caiado, 7%; Augusto Cury, 4%; Renan Santos; 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/23/quaest-to-presidente-23-setembro.ghtml)_
+
+- **[2026-09-23 21:49 UTC]** Flávio Bolsonaro apresenta notícia-crime sobre Lula por mensagens de advogado a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/flavio-bolsonaro-noticia-crime-lula-vorcaro.ghtml)_
+
+- **[2026-09-23 20:54 UTC]** Na reta final de propaganda na TV, Flávio se diz alvo de ataques, e Lula mira governo Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/na-reta-final-de-propaganda-na-tv-flavio-se-diz-alvo-de-ataques-e-lula-mira-governo-bolsonaro.shtml)_
+
+- **[2026-09-23 19:36 UTC]** Flávio Bolsonaro, investigado no caso 'Dark Horse', pede que Mendonça apure relação entre Lula e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-investigado-no-caso-dark-horse-pede-que-mendonca-apure-relacao-entre-lula-e-vorcaro.shtml)_
+
+- **[2026-09-23 23:55 UTC]** PT pede ao STF investigação sobre possível interferência estrangeira nas eleições para favorecer Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/pt-pede-ao-stf-investigao-sobre-possvel-interferncia-estrangeira-nas-eleies-para-favorecer-flvio.ghtml)_
+
+- **[2026-09-23 23:25 UTC]** Flávio critica fala de Lula na ONU e diz que foi ‘vexame internacional’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flvio-critica-fala-de-lula-na-onu-e-diz-que-foi-vexame-internacional.ghtml)_
+
+- **[2026-09-24 03:00 UTC]** Quaest no DF: 46% temem novo mandato de Lula, e 39%, volta da família Bolsonaro ao poder
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/24/quaest-no-df-46percent-temem-novo-mandato-de-lula-e-39percent-volta-da-familia-bolsonaro-ao-poder.ghtml)_
+
+- **[2026-09-24 00:11 UTC]** Flávio Bolsonaro viajou dos EUA ao Brasil em 2025 em jato de Vorcaro, diz revista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-viajou-dos-eua-ao-brasil-em-2025-em-jato-de-vorcaro-diz-revista.shtml)_
+
+- **[2026-09-23 21:50 UTC]** Avanço de Flávio Bolsonaro faz Lula reavaliar estratégia, e presidente deve ir a debate da Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml)_
+
+- **[2026-09-24 02:44 UTC]** PT recorre a ação ligada ao setor de mineração para pedir que Dino investigue Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-recorre-a-acao-ligada-ao-setor-de-mineracao-para-pedir-que-dino-investigue-flavio/)_
+
+- **[2026-09-24 02:54 UTC]** Campanhas de Lula e Renan vão à Justiça contra Flávio por suposta interferência dos EUA na eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanhas-de-lula-e-renan-vao-a-justica-contra-flavio-por-suposta-interferencia-dos-eua-na-eleicao/)_
+
+- **[2026-09-24 01:41 UTC]** Flávio propõe fim do regime de partilha do petróleo e detalha programa contra endividamento
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/flavio-propoe-fim-do-regime-de-partilha-do-petroleo-e-detalha-programa-contra-endividamento.ghtml)_
+
+- **[2026-09-24 07:00 UTC]** Quaest em MG: 41% temem volta da família Bolsonaro, e 40% temem mais um mandato de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/24/quaest-em-mg-41percent-temem-volta-da-familia-bolsonaro-e-40percent-temem-mais-um-mandato-de-lula.ghtml)_
+
+- **[2026-09-24 04:00 UTC]** Flávio Bolsonaro procura União-PP, que avalia apoio no 2º turno com garantia para Alcolumbre no Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-procura-uniao-pp-que-avalia-apoio-no-2o-turno-com-garantia-para-alcolumbre-no-senado.shtml)_
+
+- **[2026-09-24 09:49 UTC]** Flávio Bolsonaro e Lula voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-24 04:51 UTC]** Flávio Bolsonaro voltou dos EUA com a família e advogado em jato de Vorcaro que foi usado por Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/flvio-bolsonaro-viajou-dos-eua-ao-brasil-em-2025-em-jato-de-vorcaro-diz-revista.ghtml)_
+
+- **[2026-09-24 12:59 UTC]** Flávio usou jatinho ligado a Vorcaro em viagem em 2025, diz revista
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/flavio-usou-jatinho-ligado-vorcaro-em-viagem-em-2025-diz-revista)_
+
+- **[2026-09-24 12:23 UTC]** STF: defesa de Bolsonaro pede suspensão do cumprimento da pena
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-defesa-de-bolsonaro-pede-suspensao-do-cumprimento-da-pena)_
+
+- **[2026-09-24 13:38 UTC]** Flávio Bolsonaro viajou em avião de Vorcaro em 2025
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/flavio-bolsonaro-viajou-em-aviao-de-vorcaro-em-2025)_
+
+- **[2026-09-24 15:22 UTC]** Empresa que movimentou recursos de filme sobre Bolsonaro recebeu dinheiro do crime organizado, diz ministro da Fazenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/tudo-indica-que-recursos-que-financiaram-filme-dark-horse-pode-vir-do-crime-organizado-diz-ministro-da-fazenda.ghtml)_
+
+- **[2026-09-24 14:40 UTC]** Quaest em PE: 59% temem volta dos Bolsonaro ao poder; 27% receiam mais um mandato de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/24/quaest-o-que-da-mais-medo-em-pe-23-de-setembro.ghtml)_
+
+- **[2026-09-24 14:30 UTC]** Quem é Willer Tomaz, advogado investigado pela PF que viajou com Flávio em jatinho ligado a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/quem-e-willer-tomaz-advogado-investigado-pela-pf-que-viajou-com-flavio-em-jatinho-ligado-a-vorcaro.ghtml)_
+
+- **[2026-09-24 13:10 UTC]** Flávio Bolsonaro viajou em 2025 em avião de Vorcaro e de advogado investigado no caso INSS
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/09/24/flavio-bolsonaro-viajou-em-2025-em-aviao-ligado-a-vorcaro-e-advogado-investigado-por-desvios-no-inss.ghtml)_
+
+- **[2026-09-24 13:04 UTC]** Defesa de Bolsonaro desiste de pedido para suspender pena no caso da trama golpista
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/defesa-de-bolsonaro-pede-suspensao-da-pena-no-caso-da-trama-golpista.ghtml)_
+
+- **[2026-09-24 13:42 UTC]** Pedido de suspensão de pena de Bolsonaro racha equipe de defesa, e advogado deixa o caso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pedido-de-suspensao-de-pena-de-bolsonaro-racha-equipe-de-defesa-e-advogado-deixa-o-caso.shtml)_
+
+- **[2026-09-24 12:09 UTC]** Campanha de Flávio aciona TSE contra Lula e Alckmin por uso da máquina pública
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-aciona-tse-contra-lula-e-alckmin-por-uso-da-maquina-publica.shtml)_
+
+- **[2026-09-24 10:56 UTC]** Quem é Antonio Freixo, apontado como peça-chave no Master e no financiamento no filme de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/quem-e-freixo-operador-de-vorcaro-apontado-como-peca-chave-nos-casos-master-e-dark-horse.shtml)_
+
+- **[2026-09-24 10:34 UTC]** Empresa que financiou filme de Bolsonaro recebia dinheiro do crime organizado, segundo ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/durigan-diz-que-recurso-do-filme-dark-horse-sobre-bolsonaro-pode-ser-de-lavagem-de-dinheiro.shtml)_
+
+- **[2026-09-24 10:20 UTC]** Defesa de Bolsonaro desiste de pedido a Kassio de suspensão de pena da trama golpista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/defesa-de-bolsonaro-pede-a-kassio-suspensao-de-pena-da-trama-golpista.shtml)_
+
+- **[2026-09-24 08:56 UTC]** TSE manda Instagram retirar vídeo que associa Flávio Bolsonaro ao Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-manda-instagram-retirar-video-que-associa-flavio-bolsonaro-ao-master.shtml)_
+
+- **[2026-09-24 07:14 UTC]** Nova fase da Carbono Oculto mira executivo ligado ao Master e a financiamento de filme de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/executivo-do-banco-genial-e-alvo-de-3a-fase-da-operacao-carbono-oculto.shtml)_
+
+- **[2026-09-24 16:24 UTC]** Defesa de Bolsonaro desiste de pedir suspensão da pena de prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-bolsonaro-desiste-pedir-suspensao-pena-de-prisao/)_
+
+- **[2026-09-24 14:49 UTC]** Foto de Bolsonaro pode ser usada em campanha? Entenda a disputa na Justiça Eleitoral
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/foto-de-bolsonaro-pode-ser-usada-em-campanha-entenda-disputa-justica-eleitoral/)_
+
+- **[2026-09-24 15:51 UTC]** Defesa de Bolsonaro pede suspensão da pena a Nunes Marques
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-bolsonaro-pede-suspensao-pena-a-nunes-marques/)_
+
+- **[2026-09-24 16:24 UTC]** Flávio viajou em avião ligado a Vorcaro; senador diz que era de seu amigo advogado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-viajou-aviao-ligado-vorcaro-senador-amigo-advogado/)_
+
+- **[2026-09-24 15:22 UTC]** A tentativa de “golpe” do PT contra Flávio
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/sem-rodeios/a-tentativa-de-golpe-do-pt-contra-flavio/)_
+
+- **[2026-09-24 16:25 UTC]** Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-24 16:12 UTC]** Stuhlberger considera ‘razoável’ chance de 60% de vitória de Flávio e prevê ‘porrada’ na bolsa
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/24/stuhlberger-considera-razovel-chance-de-60-pontos-percentuais-de-vitria-de-flvio-e-prev-porrada-na-bolsa.ghtml)_
+
+- **[2026-09-24 16:11 UTC]** Defesa de Bolsonaro recua e desiste de pedir suspensão de sua pena ao STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/defesa-de-bolsonaro-recua-e-desiste-de-pedir-suspenso-de-sua-pena-ao-stf.ghtml)_
+
+- **[2026-09-24 15:44 UTC]** Bolsonaro pede suspensão de pena a Nunes Marques enquanto aguarda revisão da condenação no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/bolsonaro-pede-suspenso-de-pena-a-nunes-marques-enquanto-aguarda-reviso-da-condenao-no-stf.ghtml)_
+
+- **[2026-09-24 15:10 UTC]** Flávio Bolsonaro ironiza voo em jato de Vorcaro e associa aeronave a Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flavio-bolsonaro-ironiza-voo-em-jato-de-vorcaro-e-associa-aeronave-a-moraes.ghtml)_
+
+- **[2026-09-24 15:18 UTC]** Trama golpista: defesa de Bolsonaro desiste de suspensão da pena
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/trama-golpista-defesa-de-bolsonaro-desiste-de-suspensao-da-pena)_
+
+- **[2026-09-24 17:11 UTC]** FOTOS: veja como é avião de Vorcaro usado por Flávio Bolsonaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/fotos-veja-como-e-aviao-de-vorcaro-usado-por-flavio-bolsonaro-e-moraes.ghtml)_
+
+- **[2026-09-24 17:11 UTC]** Quaest no Paraná: Flávio, 40%; Lula, 26%; Cury, 5%; Caiado, 4%; Renan, 4%; e Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-parana-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 15:04 UTC]** Nunes diz que não se ofendeu por Flávio ter sugerido que ele seja atendido em hospital veterinário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/nunes-diz-que-nao-se-ofendeu-por-flavio-ter-sugerido-que-seja-atendido-por-hospital-veterinario.shtml)_
+
+- **[2026-09-24 10:56 UTC]** Empresário ligado ao caso Master e a filme de Bolsonaro ganhou 570 vezes na loteria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/quem-e-freixo-operador-de-vorcaro-apontado-como-peca-chave-nos-casos-master-e-dark-horse.shtml)_
+
+- **[2026-09-24 19:04 UTC]** Flávio Bolsonaro tentou ligar para Vorcaro nos 4 dias antes da prisão do banqueiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tentou-ligar-vorcaro-4-dias-antes-prisao-banqueiro/)_
+
+- **[2026-09-24 18:22 UTC]** Lula ataca Flávio Bolsonaro e diz que “não cabe miliciano” no Palácio do Planalto
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ataca-flavio-bolsonaro-nao-cabe-miliciano-palacio-do-planalto/)_
+
+- **[2026-09-24 19:00 UTC]** Viagens internacionais e jatinho de Vorcaro: os vínculos de Flávio Bolsonaro com Willer Tomaz, alvo da PF no escândalo do INSS
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3lyr54g8yero?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-24 17:58 UTC]** Lula endurece discurso sobre bets; Flávio critica regulamentação atual, mas defende aposta esportiva
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c64g7d8m9m8vo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-24 19:55 UTC]** Bastidores: Aliados de Flávio minimizam efeitos de novas revelações sobre Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/bastidores-aliados-de-flavio-minimizam-efeitos-de-novas-revelacoes-sobre-vorcaro.ghtml)_
+
+- **[2026-09-24 19:09 UTC]** Quaest: No Ceará, Lula tem 54% e Flávio, 23% no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/quaest-no-ceara-lula-tem-54percent-e-flavio-23percent-no-primeiro-turno.ghtml)_
+
+- **[2026-09-24 19:09 UTC]** Flávio Bolsonaro usou jatinho de Vorcaro em troca de ‘favores e afagos’, diz Renan Santos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flvio-bolsonaro-usou-jatinho-de-vorcaro-em-troca-de-favores-e-afagos-diz-renan-santos.ghtml)_
+
+- **[2026-09-24 18:32 UTC]** Viagem de Flávio em jato de Vorcaro é aposta da campanha de Lula para reforçar ligação do senador com ex-banqueiro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/viagem-de-flvio-em-jato-de-vorcaro-aposta-da-campanha-de-lula-para-reforar-ligao-do-senador-com-ex-banqueiro.ghtml)_
+
+- **[2026-09-24 17:40 UTC]** Em ato no Rio, Lula associa Flávio a milícia, escândalos do INSS e Banco Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/em-ato-no-rio-lula-associa-flavio-a-milicia-escandalos-do-inss-e-banco-master.ghtml)_
+
+- **[2026-09-24 17:22 UTC]** Na TV, Flávio diz que Lula é 'pai do tigrinho' e petista associa senador ao crime organizado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/na-tv-flvio-diz-que-lula-pai-do-tigrinho-e-petista-associa-senador-ao-crime-organizado.ghtml)_
+
+- **[2026-09-24 17:19 UTC]** Nova pesquisa Quaest testa impacto de revelação de voo de Flávio Bolsonaro em jatinho de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/nova-pesquisa-quaest-testa-impacto-de-revelacao-de-voo-de-flavio-bolsonaro-em-jatinho-de-vorcaro.ghtml)_
+
+- **[2026-09-24 22:53 UTC]** Quaest em RO: Flávio Bolsonaro, 53%; Lula, 19%; Augusto Cury, 4%; Ronaldo Caiado, 3%; Renan Santos, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-presidente-24-de-setembro.ghtml)_
+
+- **[2026-09-24 22:36 UTC]** Quaest em GO: Flávio Bolsonaro, 33%; Lula, 27%; Ronaldo Caiado, 23%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/quaest-em-go-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 22:27 UTC]** Quaest em Sergipe: Lula, 54%; Flávio Bolsonaro, 26%
+  _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 22:22 UTC]** Quaest no RS: Flávio Bolsonaro, 35%; Lula, 31%
+  _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/24/quaest-rs-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 22:22 UTC]** Quaest no Amapá: Lula, 42%; Flávio Bolsonaro, 35%
+  _fonte: [G1 - Política:](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/quaest-no-amapa-lula-42percent-flavio-bolsonaro-35percent.ghtml)_
+
+- **[2026-09-24 22:20 UTC]** Quaest em SC: Flávio Bolsonaro, 50%; Lula, 23%; Augusto Cury, 5%; Renan, 3%; Caiado, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 22:14 UTC]** Quaest no AM: Lula, 38%; Flávio Bolsonaro, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 22:02 UTC]** Quaest na BA: Lula, 58%; Flávio Bolsonaro, 23%; Augusto Cury, 4%; Ronaldo Caiado, 2%; Renan Santos, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-bahia-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 21:48 UTC]** Datafolha: Lula e Flávio Bolsonaro empatam na rejeição, com 45% cada um
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-rejeicao-lula-flavio-24-setembro.ghtml)_
+
+- **[2026-09-24 21:41 UTC]** Datafolha, 2º turno: Lula, 47%; Flávio Bolsonaro, 45%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-segundo-turno-24-setembro.ghtml)_
+
+- **[2026-09-24 21:41 UTC]** Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 18:40 UTC]** Datafolha: Lula e Flávio Bolsonaro empatam em rejeição com 45%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-rejeicao-com-45.shtml)_
+
+- **[2026-09-24 18:37 UTC]** Datafolha: Lula tem 40% e Flávio Bolsonaro, 36% em 1º turno; rivais empatam em 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-40-e-flavio-bolsonaro-36-em-1o-turno-rivais-empatam-em-2o-turno.shtml)_
+
+- **[2026-09-24 18:30 UTC]** PP de SP articula apoio do partido a Flávio no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pp-de-sp-articula-apoio-do-partido-a-flavio-no-segundo-turno.shtml)_
+
+- **[2026-09-24 18:02 UTC]** Deputado do PT pede que STF apure viagem de Flávio em jato ligado a Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/deputado-do-pt-pede-que-stf-apure-viagem-de-flavio-em-jato-ligado-a-vorcaro.shtml)_
+
+- **[2026-09-24 23:00 UTC]** The Economist chama Lula de “esquerdista caduco” e Flávio de “nepo baby”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/the-economist-chama-lula-de-esquerdista-caduco-e-flavio-de-nepo-baby/)_
+
+- **[2026-09-24 22:53 UTC]** Campanha de Flávio Bolsonaro aciona TSE e acusa Lula de fazer promoção eleitoral em eventos oficiais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/campanha-de-flavio-bolsonaro-aciona-tse-e-acusa-lula-de-fazer-promocao-eleitoral-em-eventos-oficiais.ghtml)_
+
+- **[2026-09-24 22:20 UTC]** Flávio Bolsonaro faz evento em Teófilo Otoni com Nikolas Ferreira
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flvio-bolsonaro-faz-evento-em-tefilo-otoni-com-nikolas-ferreira.ghtml)_
+
+- **[2026-09-24 21:43 UTC]** Datafolha: Lula tem 47% e Flávio, 45% no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-lula-tem-40percent-e-flavio-36percent-das-intencoes-de-voto-no-primeiro-turno.ghtml)_
+
+- **[2026-09-24 21:23 UTC]** Flávio Bolsonaro tentou ligar para Vorcaro nos dias anteriores à prisão de ex-banqueiro, diz PF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/flvio-bolsonaro-tentou-ligar-para-vorcaro-quatro-dias-antes-da-priso-de-ex-banqueiro-diz-pf.ghtml)_
+
+- **[2026-09-24 20:19 UTC]** Análise: Operação da PF sugere que, ao pedir dinheiro a Vorcaro, Flávio Bolsonaro ajudou crime organizado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/analise-operacao-da-pf-sugere-que-ao-pedir-dinheiro-a-vorcaro-flavio-bolsonaro-ajudou-crime-organizado.ghtml)_
+
+- **[2026-09-24 19:55 UTC]** Aliados de Flávio Bolsonaro minimizam efeitos de novas revelações sobre Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/bastidores-aliados-de-flavio-minimizam-efeitos-de-novas-revelacoes-sobre-vorcaro.ghtml)_
+
+- **[2026-09-24 22:24 UTC]** Lula tinha 14 pontos de vantagem para Bolsonaro em 2022 a 10 dias da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tinha-14-pontos-de-vantagem-para-bolsonaro-em-2022-a-10-dias-da-eleicao.shtml)_
+
+- **[2026-09-24 20:38 UTC]** Entre Lula e Flávio, Brasil dá as costas ao futuro, e Renan é candidato mais adequado, diz The Economist
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entre-lula-e-flavio-brasil-da-as-costas-ao-futuro-e-renan-e-candidato-mais-adequado-diz-the-economist.shtml)_
+
+- **[2026-09-25 00:00 UTC]** Marinho chama Messias de “militante do PT” após provocação a Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marinho-chama-messias-de-militante-do-pt-apos-provocacao-a-flavio/)_
+
+- **[2026-09-25 00:02 UTC]** Flávio Bolsonaro fala em 'arrancada' no primeiro turno e diz que receberá a faixa de presidente do pai
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flavio-bolsonaro-fala-em-arrancada-no-primeiro-turno-e-diz-que-recebera-a-faixa-de-presidente-do-pai.ghtml)_
+
+- **[2026-09-24 21:43 UTC]** Datafolha: Lula e Flávio Bolsonaro estão em empate técnico no primeiro e segundo turnos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-lula-tem-40percent-e-flavio-36percent-das-intencoes-de-voto-no-primeiro-turno.ghtml)_
+
+- **[2026-09-25 04:00 UTC]** Flávio Bolsonaro explora crise no STF e se desvia de propostas econômicas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-explora-crise-no-stf-e-se-desvia-de-propostas-economicas.shtml)_
+
+- **[2026-09-25 00:56 UTC]** Datafolha: Lula e Flávio têm 38% no interior; petista lidera nas regiões metropolitanas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-tem-38-no-interior-petista-lidera-nas-regioes-metropolitanas.shtml)_
+
+- **[2026-09-24 23:19 UTC]** Datafolha: Campanha de Lula vê alívio, e equipe de Flávio Bolsonaro mantém aposta em voto útil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-alivio-e-equipe-de-flavio-bolsonaro-mantem-aposta-em-voto-util.shtml)_
+
+- **[2026-09-24 23:00 UTC]** Campanha de Lula diz que veto às bets pega Flávio no contrapé
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-diz-que-veto-as-bets-pega-flavio-no-contrape.shtml)_
+
+- **[2026-09-25 02:58 UTC]** Defesa de Flávio pede que Fachin suspenda investigações e acusa PT de “escolher” relatores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-flavio-pede-que-fachin-suspenda-investigacoes-e-acusa-pt-de-escolher-relatores/)_
+
+- **[2026-09-25 05:00 UTC]** Podcast: os novos desdobramentos do caso Master para Flávio Bolsonaro e Nunes Marques
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-os-novos-desdobramentos-do-caso-master-para-flavio-bolsonaro-e-nunes-marques.shtml)_
+
+- **[2026-09-25 08:00 UTC]** Ligação de Flávio a caso Master volta à tona com voo em jato de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/25/ligacao-de-flavio-a-caso-master-volta-a-tona-com-voo-em-jato-de-vorcaro.ghtml)_
+
+- **[2026-09-25 08:00 UTC]** ‘Lideranças do Bolsonaro fazem a campanha de Ciro’, acusa Elmano
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/liderancas-do-bolsonaro-fazem-a-campanha-de-ciro-acusa-elmano.ghtml)_
+
+- **[2026-09-25 08:00 UTC]** No Datafolha, Lula tem 47% e Flávio, 45%
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/25/no-datafolha-lula-tem-47-e-flavio-45.ghtml)_
+
+- **[2026-09-25 08:00 UTC]** Voo em jatinho de Vorcaro devolve Flávio à berlinda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/voo-em-jatinho-de-vorcaro-devolve-flavio-a-berlinda.ghtml)_
+
+- **[2026-09-25 08:42 UTC]** O que Lula e Flávio Bolsonaro já disseram sobre bets
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjdx57p941kyo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-25 13:55 UTC]** Flávio Bolsonaro diz que veto a bets é hipócrita, chama Lula de pai do tigrinho e elogia amigo alvo da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-veto-a-bets-e-hipocrita-chama-lula-de-pai-do-tigrinho-e-elogia-amigo-alvo-da-pf.shtml)_
+
+- **[2026-09-25 13:36 UTC]** Lula defende fim de bets em ato eleitoral, associa Bolsonaros a Vorcaro e chama Flávio de traidor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-defende-fim-de-bets-em-ato-eleitoral-associa-bolsonaros-a-vorcaro-e-chama-flavio-de-traidor.shtml)_
+
+- **[2026-09-25 12:30 UTC]** Fé une mulheres, e 46% das evangélicas preferem Flávio Bolsonaro enquanto 26% votam em Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fe-une-mulheres-e-46-das-evangelicas-preferem-flavio-bolsonaro-enquanto-26-votam-em-lula.shtml)_
+
+- **[2026-09-25 12:20 UTC]** Ex-deputado que apresentou projeto para retirar título de padroeira do Brasil foi assessor de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/ex-deputado-que-apresentou-projeto-para-retirar-titulo-de-padroeira-do-brasil-foi-assessor-de-bolsonaro.shtml)_
+
+- **[2026-09-25 16:51 UTC]** Bets no Brasil: o papel dos governos Temer, Bolsonaro e Lula no mercado de apostas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-25 16:02 UTC]** Por que polêmica sobre Nossa Senhora Aparecida entrou na disputa entre Flávio Bolsonaro e Lula pela Presidência
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-25 15:06 UTC]** Flávio Bolsonaro volta a parecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-25 17:09 UTC]** Flávio diz que voou em jatinho de Willer, e não de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/flavio-diz-que-voou-em-jatinho-de-willer-e-nao-de-vorcaro.ghtml)_
+
+- **[2026-09-25 17:55 UTC]** Coligação de Lula aciona TSE contra Flávio Bolsonaro por anúncios pagos com ataques ao PT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/coligacao-de-lula-aciona-tse-contra-flavio-bolsonaro-por-anuncios-pagos-com-ataques-ao-pt.shtml)_
+
+- **[2026-09-25 17:43 UTC]** Aliada católica deve gravar vídeo com Flávio para desmentir boato sobre padroeira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliada-catolica-deve-gravar-video-com-flavio-para-desmentir-boato-sobre-padroeira.shtml)_
+
+- **[2026-09-25 17:17 UTC]** Flávio Bolsonaro deve ir a debate da Globo após Lula indicar presença
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-deve-ir-a-debate-da-globo-apos-lula-indicar-presenca.shtml)_
+
+- **[2026-09-25 16:59 UTC]** TSE restabelece decisão que permite uso de imagem de Bolsonaro em santinhos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-restabelece-decisao-que-permite-uso-de-imagem-de-bolsonaro-em-santinhos.shtml)_
+
+- **[2026-09-25 16:56 UTC]** Janja publica foto de Lula com Nossa Senhora após desgaste de Flávio com boato sobre santa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/janja-publica-foto-de-lula-com-nossa-senhora-apos-desgaste-de-flavio-com-boato-sobre-santa.shtml)_
+
+- **[2026-09-25 16:42 UTC]** Flávio Bolsonaro dá dinheiro aos 'peixes' da milícia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/09/flavio-bolsonaro-da-dinheiro-aos-peixes-da-milicia.shtml)_
+
+- **[2026-09-25 16:13 UTC]** Disputa entre Flávio e Lula ganha ares de guerra espiritual com notícia falsa sobre Nossa Senhora Aparecida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/disputa-entre-flavio-e-lula-ganha-ares-de-guerra-espiritual-com-boato-sobre-nossa-senhora-aparecida.shtml)_
+
+- **[2026-09-25 16:11 UTC]** Alckmin explora boato sobre Flávio, acirra disputa religiosa e diz que Lula conserva 'tradições católicas'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alckmin-acirra-disputa-religiosa-com-flavio-bolsonaro-e-diz-que-lula-conserva-tradicoes-catolicas.shtml)_
+
+- **[2026-09-25 15:27 UTC]** Fake news sobre Flávio e Nossa Senhora Aparecida circula entre católicos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-toniol/2026/09/fake-news-sobre-flavio-e-nossa-senhora-aparecida-circula-entre-catolicos.shtml)_
+
+- **[2026-09-25 12:30 UTC]** Fé une mulheres, e 46% das evangélicas preferem Flávio Bolsonaro, enquanto 26% votam em Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fe-une-mulheres-e-46-das-evangelicas-preferem-flavio-bolsonaro-enquanto-26-votam-em-lula.shtml)_
+
+- **[2026-09-25 22:53 UTC]** Flávio Bolsonaro chama proibição das bets de oportunismo de Lula e 'estelionato eleitoral'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/flavio-bolsonaro-chama-proibicao-das-bets-de-oportunismo-de-lula-e-estelionato-eleitoral.ghtml)_
+
+- **[2026-09-25 22:48 UTC]** Quaest no MA: Lula, 59%; Flávio Bolsonaro, 22%
+  _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/quaest-ma-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 22:42 UTC]** Quaest no AC: Flávio, 50%; Lula, 24%; Cury, 4%; Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/quaest-ac-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 22:32 UTC]** Quaest em Roraima: Flávio Bolsonaro, 59%; Lula, 20%
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-presidente-25-de-setembro.ghtml)_
+
+- **[2026-09-25 22:31 UTC]** Datafolha: Flávio Bolsonaro lidera em SP, RJ e DF; Lula fica à frente em PE; e MG tem empate técnico
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/25/datafolha-presidente-estados-25-setembro.ghtml)_
+
+- **[2026-09-25 22:27 UTC]** Quaest no RN: Lula, 52%; Flávio Bolsonaro, 25%; Augusto Cury, 6%; Renan Santos, 2%; Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 22:18 UTC]** Quaest em MS: Flávio Bolsonaro, 42%; Lula, 27%; Caiado, 4%; Cury, 4%; Renan Santos, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/25/quaest-mato-grosso-do-sul-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 22:15 UTC]** Quaest em MT: Flávio Bolsonaro, 50%; Lula, 25%; Augusto Cury, 5%; Ronaldo Caiado, 4%; Renan Santos, 1%; Romeu Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/25/quaest-mt-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 22:11 UTC]** Quaest no ES: Flávio Bolsonaro, 37%; Lula, 31%; Cury, 5%
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/25/quaest-espirito-santo-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 21:39 UTC]** Quaest em AL: Lula, 44%; Flávio Bolsonaro, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-presidente-de-25-de-setembro.ghtml)_
+
+- **[2026-09-25 21:39 UTC]** Datafolha em PE: Lula, 60%; Flávio Bolsonaro, 24%; Cury, 3%; Renan, 2%; Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/25/datafolha-pe-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 21:38 UTC]** Datafolha no RJ: Flávio Bolsonaro, 44%; Lula, 38%; Cury, Renan e Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/25/datafolha-no-rj-presidencia-25-setembro.ghtml)_
+
+- **[2026-09-25 21:38 UTC]** Datafolha em SP: Flávio Bolsonaro, 38%; Lula, 33%; Cury, 7%; Caiado, 5%; Renan, 4%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/25/datafolha-sp-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 21:38 UTC]** Datafolha no DF: Flávio, 41%; Lula, 34%; Caiado; 9%; Cury, 4%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-df-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 21:37 UTC]** Datafolha em MG: Lula, 39%; Flávio Bolsonaro, 37%; Cury, 5%; Zema, 4%; Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/25/datafolha-mg-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 19:23 UTC]** André Mendonça determina que redes sociais derrubem notícia falsa sobre Flávio Bolsonaro e Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/andre-mendonca-determina-que-redes-sociais-derrubem-noticia-falsa-sobre-flavio-bolsonaro-e-nossa-senhora.shtml)_
+
+- **[2026-09-25 18:54 UTC]** Notícia falsa sobre Nossa Senhora Aparecida viraliza nas redes com críticas a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/noticia-falsa-sobre-nossa-senhora-aparecida-viraliza-nas-redes-com-criticas-a-flavio-bolsonaro.shtml)_
+
+- **[2026-09-25 18:28 UTC]** Datafolha: Flávio Bolsonaro lidera em SP e RJ, Lula fica à frente em PE, e MG tem empate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-lidera-em-sp-e-rj-lula-fica-a-frente-em-pe-e-mg-tem-empate.shtml)_
+
+- **[2026-09-25 17:43 UTC]** Vídeo mostra Flávio rezando Pai-Nosso ao lado de imagem de Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliada-catolica-deve-gravar-video-com-flavio-para-desmentir-boato-sobre-padroeira.shtml)_
+
+- **[2026-09-25 16:11 UTC]** Alckmin explora notícia falsa sobre Flávio, acirra disputa religiosa e diz que Lula conserva 'tradições católicas'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alckmin-acirra-disputa-religiosa-com-flavio-bolsonaro-e-diz-que-lula-conserva-tradicoes-catolicas.shtml)_
+
+- **[2026-09-25 22:21 UTC]** Mendonça manda derrubar posts sobre Flávio retirar Nossa Senhora Aparecida como Padroeira
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-tirar-posts-sobre-flavio-retirar-nossa-senhora-aparecida-como-padroeira/)_
+
+- **[2026-09-25 22:05 UTC]** Flávio chama veto às bets de 'estelionato eleitoral' e acusa Lula de oportunismo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/flavio-chama-veto-as-bets-de-estelionato-eleitoral-e-acusa-lula-de-oportunismo.ghtml)_
+
+- **[2026-09-26 03:00 UTC]** Datafolha, 2º turno: veja os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/26/datafolha-24-set-segmentos.ghtml)_
+
+- **[2026-09-25 23:00 UTC]** Campanha de Flávio Bolsonaro vê estrago com notícia falsa sobre Nossa Senhora e tenta conter danos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-bolsonaro-ve-estrago-com-noticia-falsa-sobre-nossa-senhora-e-tenta-conter-danos.shtml)_
+
+- **[2026-09-25 23:00 UTC]** A ciranda não explicada do candidato Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/09/a-ciranda-nao-explicada-do-candidato-flavio-bolsonaro.shtml)_
+
+- **[2026-09-26 00:13 UTC]** Voto útil ganha força na disputa entre Lula e Flávio mesmo quando a matemática não muda
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/voto-util-reta-final-lula-flavio/)_
+
+- **[2026-09-26 00:12 UTC]** Como as bets entraram nas campanhas de Flávio e Lula na reta final do 1º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-as-bets-entraram-nas-campanhas-de-flavio-e-lula-na-reta-final-do-1o-turno/)_
+
+- **[2026-09-26 11:00 UTC]** Preços da picanha seguem em alta em Lula 3, mas sobem menos que no governo Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/precos-da-picanha-seguem-em-alta-em-lula-3-mas-sobem-menos-que-no-governo-bolsonaro.shtml)_
+
+- **[2026-09-26 10:22 UTC]** Campanha de Flávio diz que Lula reage à pressão sobre endividamento com fim de bets e minimiza ganho eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-diz-que-lula-reage-a-pressao-sobre-endividamento-com-fim-de-bets-e-minimiza-ganho-eleitoral.shtml)_
+
+- **[2026-09-26 08:11 UTC]** Flávio fala sobre volta do pai em evento: 'Quem quer ver o Bolsonaro aqui no ano que vem dá um grito'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-fala-sobre-volta-do-pai-em-evento-quem-quer-ver-o-bolsonaro-aqui-no-ano-que-vem-da-um-grito.shtml)_
+
+- **[2026-09-26 12:57 UTC]** De Bolsa Família a bets, Lula procura “bala de prata” contra ascensão de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/de-bolsa-familia-a-bets-lula-procura-bala-de-prata-contra-ascensao-de-flavio/)_
+
+- **[2026-09-26 17:43 UTC]** 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/em-todo-escandalo-ele-tem-algum-amigo-diz-haddad-sobre-flavio-bolsonaro-apos-caminhada-com-lula-em-sp.ghtml)_
+
+- **[2026-09-26 15:00 UTC]** Se Flávio Bolsonaro for eleito, Brasil vai virar Venezuela
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/09/se-flavio-bolsonaro-for-eleito-brasil-vai-virar-venezuela.shtml)_
+
+- **[2026-09-26 13:31 UTC]** Lula tenta ligar Flávio Bolsonaro a escândalos e diz que Vorcaro corrompeu o país com orgia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-ligar-flavio-bolsonaro-a-escandalos-e-diz-que-vorcaro-corrompeu-o-pais-com-orgia.shtml)_
+
+- **[2026-09-26 16:54 UTC]** 'Um clã tão radical quanto disfuncional': o que diz a reportagem de capa do Financial Times sobre a família Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-26 15:39 UTC]** Em carreata, Flávio Bolsonaro diz que Lula ‘está desesperado’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/26/em-carreata-flvio-bolsonaro-diz-que-lula-est-desesperado.ghtml)_
+
+- **[2026-09-26 14:39 UTC]** Em São Paulo, Lula defende fim da jornada 6x1 e das bets e vincula Flávio a Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/26/em-so-paulo-lula-defende-fim-da-jornada-6x1-e-das-bets.ghtml)_
+
+- **[2026-09-26 20:59 UTC]** Campanha de Flávio reage para conter impacto de fake news sobre Nossa Senhora
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/campanha-flavio-trabalha-conter-crise-gerada-fake-news-nossa-senhora/)_
+
+- **[2026-09-26 16:54 UTC]** 'Um clã tão radical quanto disfuncional', diz reportagem de capa do Financial Times sobre a família Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-26 00:45 UTC]** O papel dos governos Temer, Bolsonaro e Lula no mercado de apostas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-26 22:33 UTC]** Quaest no Pará: Lula, 40%; Flávio Bolsonaro, 35%; Augusto Cury, 7%; Renan Santos, 2%; Ronaldo Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml)_
+
+- **[2026-09-26 18:47 UTC]** Flávio Bolsonaro volta a chamar Lula de 'pai do Tigrinho' após MP que proíbe bets
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-volta-a-chamar-lula-de-pai-do-tigrinho-apos-mp-que-proibe-bets.shtml)_
+
+- **[2026-09-26 22:31 UTC]** Criador de Dilma Bolada nega autoria de fake news sobre Flávio e Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/criador-de-dilma-bolada-nega-autoria-de-fake-news-sobre-flavio-e-nossa-senhora.shtml)_
+
+- **[2026-09-26 21:21 UTC]** Flávio pede prisão de funcionário do Planalto por repostagens sobre Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-pede-prisao-de-funcionario-do-planalto-por-repostagens-sobre-nossa-senhora.shtml)_
+
+- **[2026-09-27 11:05 UTC]** Disputa entre Lula e Flávio leva investidor a buscar proteção da carteira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/disputa-entre-lula-e-flavio-leva-investidor-a-buscar-protecao-da-carteira.shtml)_
+
+- **[2026-09-27 15:41 UTC]** Flávio Dino determina volta de posts sobre Nossa Senhora Aparecida
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/flavio-dino-determina-volta-de-posts-sobre-nossa-senhora-aparecida)_
+
+- **[2026-09-27 14:37 UTC]** Em Aracaju, Flávio Bolsonaro diz que Lula tem dois filhos: "Lulinha e o tigrinho"
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml)_
+
+- **[2026-09-27 13:18 UTC]** Dino anula decisão do TSE e libera publicação sobre Nossa Senhora que causou dano a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-anula-decisao-do-tse-e-libera-publicacao-sobre-nossa-senhora-que-causou-dano-a-flavio-bolsonaro.shtml)_
+
+- **[2026-09-27 15:20 UTC]** Flávio Bolsonaro cumpre agenda com motocarreata em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/27/flavio-bolsaro-agenda-sergipe.ghtml)_
+
+- **[2026-09-27 16:34 UTC]** TSE suspende jingle da campanha de Lula que associava Flávio Bolsonaro a suspeitas de corrupção
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/27/tse-suspende-jingle-da-campanha-de-lula-que-associava-flvio-bolsonaro-a-suspeitas-de-corrupo.ghtml)_
+
+- **[2026-09-27 16:36 UTC]** Campanha de Flávio acusa Dino de usurpar função do TSE após liberar publicações sobre Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-acusa-dino-de-usurpar-funcao-do-tse-apos-liberar-publicacoes-sobre-nossa-senhora.shtml)_
+
+- **[2026-09-27 14:37 UTC]** Em Aracaju, Flávio Bolsonaro diz que Lula tem dois filhos: 'Lulinha e o tigrinho'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml)_
+
+- **[2026-09-27 22:27 UTC]** Flávio diz que irá ao debate na Globo, o último antes do 1º turno; Lula não está confirmado
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-27 21:53 UTC]** Flávio Bolsonaro confirma ida ao debate da Globo mesmo que Lula não compareça
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/27/flavio-bolsonaro-confirma-ida-ao-debate-da-globo-mesmo-que-lula-nao-compareca.ghtml)_
+

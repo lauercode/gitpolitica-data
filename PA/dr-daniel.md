@@ -17,3 +17,24 @@
 - **[2026-09-06 19:06 UTC]** VÍDEO: Confusão entre PM e apoiadores de Dr. Daniel termina com spray de pimenta e xingamentos na delegacia no PA
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/06/video-confusao-entre-pm-e-apoiadores-termina-com-spray-de-pimenta-e-xingamentos-em-delegacia-no-pa.ghtml)_
 
+- **[2026-09-17 03:15 UTC]** Dr. Daniel propõe criar programa para financiar reformas em templos religiosos no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/17/dr-daniel-propoe-criar-programa-para-financiar-reformas-em-templos-religiosos-no-para.ghtml)_
+
+- **[2026-09-17 17:04 UTC]** Correção: Dr. Daniel promete construir hospitais e policlínicas no PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/17/correcao-dr-daniel-promete-construir-hospitais-e-policlinicas-no-pa.ghtml)_
+
+- **[2026-09-19 02:44 UTC]** Sem Dr. Daniel e Hana Ghassan em debate, Araceli Lemos defende cancelamento da concessão de água no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/18/sem-dr-daniel-e-hana-ghassan-em-debate-araceli-lemos-defende-cancelamento-da-concessao-de-agua-no-para.ghtml)_
+
+- **[2026-09-21 15:40 UTC]** Dr. Daniel promete romper contrato de saneamento e zerar IPVA de motoristas de aplicativo no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/21/dr-daniel-propoe-romper-contrato-com-a-aguas-do-para-e-zerar-ipva-para-motoristas-de-aplicativo.ghtml)_
+
+- **[2026-09-21 23:05 UTC]** Dr. Daniel promete romper contrato com a Águas do Pará e zerar IPVA para taxistas e motoristas de aplicativo
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/21/dr-daniel-promete-romper-contrato-com-a-aguas-do-para-e-zerar-ipva-para-taxistas-e-motoristas-de-aplicativo.ghtml)_
+
+- **[2026-09-26 00:04 UTC]** Dr. Daniel propõe interligar inteligência policial e criar programa 'Na Ativa' para reforçar segurança no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/25/dr-daniel-propoe-interligar-inteligencia-policial-e-criar-programa-na-ativa-para-reforcar-seguranca-no-para.ghtml)_
+
+- **[2026-09-26 20:04 UTC]** Quaest: Dr. Daniel (Podemos), com 41%, quebra sequência de empates técnicos no Pará
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-dr-daniel-podemos-com-41-quebra-sequencia-de-empates-tecnicos-no-para.shtml)_
+

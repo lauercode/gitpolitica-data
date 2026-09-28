@@ -14,3 +14,6 @@
 - **[2026-09-08 12:31 UTC]** Marcelo Queiroga, candidato a senador pela Paraíba, diz ser contra o fim da escala 6x1 e a favor da legislação atual sobre aborto
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/08/marcelo-queiroga-candidato-a-senador-pela-paraiba-diz-ser-contra-o-fim-da-escala-6x1-a-favor-legislacao-atual-aborto.ghtml)_
 
+- **[2026-09-17 13:20 UTC]** Rodrigo de Queiroz Moreira lidera nova fase imobiliária em Macapá
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/09/17/rodrigo-de-queiroz-moreira-lidera-nova-fase-imobiliaria-em-macapa-1.ghtml)_
+

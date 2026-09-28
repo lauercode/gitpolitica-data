@@ -23,3 +23,42 @@
 - **[2026-09-09 09:21 UTC]** TRE-PR valida candidatura de Deltan Dallagnol ao Senado; decisão final pode caber ao TSE
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/09/09/candidatura-deltan-dallgnol.ghtml)_
 
+- **[2026-09-20 01:20 UTC]** TSE suspende repasse de recursos e atos de campanha de Deltan Dallagnol
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/19/tse-suspende-repasse-de-recursos-e-atos-de-campanha-de-deltan-dallagnol.ghtml)_
+
+- **[2026-09-20 01:00 UTC]** TSE suspende candidatura de Deltan Dallagnol ao Senado pelo Paraná
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-suspende-candidatura-de-deltan-dallagnol-ao-senado-pelo-parana.shtml)_
+
+- **[2026-09-20 01:00 UTC]** TSE suspende campanha de Deltan Dallagnol ao Senado pelo Paraná; ex-procurador vai recorrer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-suspende-campanha-de-deltan-dallagnol-ao-senado-pelo-parana-ex-procurador-vai-recorrer.shtml)_
+
+- **[2026-09-21 03:00 UTC]** Deltan Dallagnol está impedido de fazer campanha e usar fundo partidário até julgamento do TSE sobre inelegibilidade; entenda
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/deltan-dallagnol-esta-impedido-de-fazer-campanha-e-usar-fundo-partidario-ate-julgamento-do-tse-sobre-inelegibilidade-entenda.ghtml)_
+
+- **[2026-09-21 11:37 UTC]** Deltan Dallagnol associa ministro do TSE a Moraes e diz que vai recorrer de suspensão da campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/deltan-dallagnol-associa-ministro-do-tse-a-moraes-e-diz-que-vai-recorrer-de-suspensao-da-campanha.ghtml)_
+
+- **[2026-09-21 18:26 UTC]** TSE forma maioria para manter suspensa campanha de Deltan Dallagnol ao Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-forma-maioria-para-manter-suspensa-campanha-de-deltan-dallagnol-ao-senado.shtml)_
+
+- **[2026-09-21 20:57 UTC]** TSE forma maioria para manter suspensão da campanha de Deltan Dallagnol
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tse-forma-maioria-para-manter-suspensao-da-campanha-de-deltan-dallagnol/)_
+
+- **[2026-09-21 22:21 UTC]** TSE forma maioria para manter decisão que suspende campanha de Deltan Dallagnol
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/tse-forma-maioria-para-manter-decisao-que-suspende-campanha-de-deltan-dallagnol.ghtml)_
+
+- **[2026-09-22 00:45 UTC]** TSE mantém suspensão da campanha de Deltan Dallagnol; Mendonça e Nunes Marques divergem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tse-forma-maioria-para-manter-suspensao-da-campanha-de-deltan-dallagnol/)_
+
+- **[2026-09-24 10:19 UTC]** TRE-PR mantém candidatura de Deltan Dallagnol ao Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tre-pr-mantem-candidatura-de-deltan-dallagnol-ao-senado/)_
+
+- **[2026-09-24 16:28 UTC]** Quaest no Paraná para o Senado: Alexandre Curi, 14%; Deltan Dallagnol, 11%; Filipe Barros, 11%; e Gleisi, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-parana-senador-24-setembro.ghtml)_
+
+- **[2026-09-24 16:07 UTC]** Justiça eleitoral manda Deltan Dallagnol desativar Instagram ou remover propaganda da rede social
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/justica-eleitoral-manda-deltan-dallagnol-desativar-instagram-ou-remover-propaganda-da-rede-social.shtml)_
+
+- **[2026-09-24 19:56 UTC]** TRE-PR manda Deltan Dallagnol desativar Instagram ou remover propaganda
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tre-pr-manda-deltan-dallagnol-desativar-instagram-ou-remover-propaganda/)_
+

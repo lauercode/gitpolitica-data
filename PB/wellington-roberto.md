@@ -71,3 +71,9 @@
 - **[2026-09-11 23:20 UTC]** Companhia de dança apresenta músicas de Roberto Carlos e espetáculo infantil no Mormaço
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/companhia-de-danca-apresenta-musicas-de-roberto-carlos-e-espetaculo-infantil-no-mormaco.ghtml)_
 
+- **[2026-09-12 23:03 UTC]** Roberto Medina bobeou, brinca Ana Paula Renault sobre ausência de Bob Sinclar no Rock in Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-roberto-medina-bobeou-brinca-ana-paula-renault-sobre-ausencia-de-bob-sinclar.shtml)_
+
+- **[2026-09-13 23:00 UTC]** 'Avenida Brasil 2' terá Karine Teles e Roberto Bomfim no elenco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/avenida-brasil-2-tera-karine-teles-e-roberto-bomfim-no-elenco.shtml)_
+

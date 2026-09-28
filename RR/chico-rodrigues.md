@@ -14,3 +14,6 @@
 - **[2026-09-09 12:17 UTC]** Chico Rodrigues falta a entrevista com candidatos ao Senado em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/09/chico-rodrigues-falta-a-entrevista-com-candidatos-ao-senado-em-roraima.ghtml)_
 
+- **[2026-09-25 22:27 UTC]** Quaest para o Senado em RR: Teresa Surita, 22%; Nicoletti, 19%; Helena da Asatur, 17%; Chico Rodrigues, 14%
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-senado-25-setembro.ghtml)_
+

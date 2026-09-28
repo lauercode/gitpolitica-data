@@ -56,3 +56,30 @@
 - **[2026-09-11 17:58 UTC]** Eleições 2026: Omar Aziz defende incentivos para micro e pequenas empresas e estágio remunerado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-omar-aziz-defende-incentivos-para-micro-e-pequenas-empresas-e-estagio-remunerado.ghtml)_
 
+- **[2026-09-14 20:59 UTC]** Eleições 2026: Omar Aziz se reúne com lideranças da indústria e promete políticas de incentivo à geração de empregos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-omar-aziz-se-reune-com-liderancas-da-industria-e-promete-politicas-de-incentivo-a-geracao-de-empregos.ghtml)_
+
+- **[2026-09-15 18:36 UTC]** Eleições 2026: Omar Aziz defende revisão de contratos terceirizados para reduzir gastos do governo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-omar-aziz-defende-revisao-de-contratos-terceirizados-para-reduzir-gastos-do-governo.ghtml)_
+
+- **[2026-09-15 17:38 UTC]** Em sabatina, Omar Aziz defende fim da escala 6x1 e diz que empresariado sabe que redução da jornada é necessária
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/em-sabatina-omar-aziz-defende-fim-da-escala-6x1-e-diz-que-empresariado-sabe-que-reducao-da-jornada-e-necessaria.ghtml)_
+
+- **[2026-09-17 00:56 UTC]** Eleições 2026: Omar Aziz participa de entrevista em Manaus e promete reduzir fila do SisReg
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-omar-aziz-participa-de-entrevista-em-manaus-e-promete-reduzir-fila-do-sisreg.ghtml)_
+
+- **[2026-09-17 22:57 UTC]** Eleições 2026: Omar Aziz participa de sabatina e afirma que vai construir sete hospitais no interior do estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-omar-aziz-participa-de-sabatina-e-afirma-que-vai-construir-sete-hospitais-no-interior-do-estado.ghtml)_
+
+- **[2026-09-19 00:54 UTC]** Eleições 2026: Omar Aziz grava programa eleitoral e promete investir na formação de mão de obra para Zona Franca de Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-omar-aziz-grava-programa-eleitoral-e-promete-investir-na-formacao-de-mao-de-obra-para-zona-franca-de-manaus.ghtml)_
+
+- **[2026-09-22 22:50 UTC]** Eleições 2026: Omar Aziz promete ampliar regularização fundiária e usar concreto em estradas vicinais do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-omar-aziz-promete-ampliar-regularizacao-fundiaria-e-usar-concreto-em-estradas-vicinais-do-amazonas.ghtml)_
+
+- **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
+
+- **[2026-09-24 19:42 UTC]** Quaest: Aziz tem 29% e Maria do Carmo e Cidade estão empatados tecnicamente no Amazonas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-aziz-tem-29-e-maria-do-carmo-e-cidade-estao-empatados-tecnicamente-no-amazonas.shtml)_
+

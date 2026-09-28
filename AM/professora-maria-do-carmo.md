@@ -41,3 +41,36 @@
 - **[2026-09-09 16:24 UTC]** Eleições 2026: Professora Maria do Carmo defende integração de rios e estradas para garantir logística no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/09/eleicoes-2026-professora-maria-do-carmo-defende-integracao-de-rios-e-estradas-para-garantir-logistica-no-am.ghtml)_
 
+- **[2026-09-12 00:28 UTC]** Eleições 2026: Professora Maria do Carmo participa de evento com apoiadores e defende participação das mulheres na política
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-professora-maria-do-carmo-participa-de-evento-com-apoiadores-e-defende-participacao-das-mulheres-na-politica.ghtml)_
+
+- **[2026-09-14 21:51 UTC]** Eleições 2026: Professora Maria do Carmo defende ‘revigorar’ Zona Franca de Manaus e ampliar economia do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-professora-maria-do-carmo-defende-revigorar-zona-franca-de-manaus-e-ampliar-economia-do-amazonas.ghtml)_
+
+- **[2026-09-15 20:51 UTC]** Eleições 2026: Professora Maria do Carmo propõe interiorização dos setores da indústria para elevar renda
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-professora-maria-do-carmo-propoe-interiorizacao-dos-setores-da-industria-para-elevar-renda.ghtml)_
+
+- **[2026-09-16 13:56 UTC]** Eleições 2026: Professora Maria do Carmo defende revitalização do Centro Histórico para impulsionar turismo e economia em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-professora-maria-do-carmo-defende-revitalizacao-do-centro-historico-para-impulsionar-turismo-e-economia-em-manaus.ghtml)_
+
+- **[2026-09-17 21:18 UTC]** Eleições 2026: Professora Maria do Carmo se reúne com representantes do comércio e apresenta propostas para geração de renda
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-professora-maria-do-carmo-se-reune-com-representantes-do-comercio-e-apresenta-propostas-para-geracao-de-renda.ghtml)_
+
+- **[2026-09-19 22:02 UTC]** Eleições 2026: Professora Maria do Carmo promete fortalecer cultura e ampliar vagas no Liceu de Parintins
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/19/eleicoes-2026-professora-maria-do-carmo-promete-fortalecer-cultura-e-ampliar-vagas-no-liceu-de-parintins.ghtml)_
+
+- **[2026-09-21 13:24 UTC]** Eleições 2026: Professora Maria do Carmo defende reestruturação da educação e revisão de contratos da Seduc
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-professora-maria-do-carmo-defende-reestruturacao-da-educacao-e-revisao-de-contratos-da-seduc.ghtml)_
+
+- **[2026-09-22 21:13 UTC]** Eleições 2026: Professora Maria do Carmo promete manter benefícios sociais e investir na agricultura familiar contra a pobreza
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-professora-maria-do-carmo-promete-manter-beneficios-sociais-e-investir-na-agricultura-familiar-contra-a-pobreza.ghtml)_
+
+- **[2026-09-24 00:54 UTC]** Eleições 2026: Professora Maria do Carmo promete investir no turismo para gerar renda no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-professora-maria-do-carmo-promete-investir-no-turismo-para-gerar-renda-no-amazonas.ghtml)_
+
+- **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
+
+- **[2026-09-24 20:18 UTC]** Eleições 2026: Professora Maria do Carmo propõe atuação conjunta entre forças de segurança e judiciário
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-professora-maria-do-carmo-propoe-atuacao-conjunta-entre-forcas-de-seguranca-e-judiciario.ghtml)_
+

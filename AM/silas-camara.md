@@ -986,3 +986,90 @@ direitos
 - **[2026-09-11 23:04 UTC]** Concurso da Câmara de Rio Branco abre inscrições; salários chegam a R$ 6 mil
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/11/concurso-da-camara-de-rio-branco-abre-inscricoes-salarios-chegam-a-r-6-mil.ghtml)_
 
+- **[2026-09-12 16:47 UTC]** PF encontrou lista intitulada 'Câmara', com 'nomes' de deputados e 'valores', na churrasqueira de Ciro Nogueira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/pf-encontrou-lista-intitulada-camara-com-nomes-de-deputados-e-valores-na-churrasqueira-de-ciro-nogueira.ghtml)_
+
+- **[2026-09-12 23:00 UTC]** Foragida da Justiça brasileira, Carla Zambelli ajuda a comandar campanha da mãe à Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/foragida-da-justica-brasileira-carla-zambelli-ajuda-a-comandar-campanha-da-mae-a-camara.shtml)_
+
+- **[2026-09-14 21:12 UTC]** Cezinha de Madureira emprega na Câmara sargento expulso da PM suspeito de envolvimento com PCC
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/cezinha-de-madureira-emprega-na-camara-sargento-expulso-da-pm-suspeito-de-envolvimento-com-pcc.ghtml)_
+
+- **[2026-09-15 20:13 UTC]** Câmara de Aracaju aprova prorrogação da redução de imposto no transporte coletivo
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/15/camara-de-aracaju-aprova-prorrogacao-da-reducao-de-imposto-no-transporte-coletivo.ghtml)_
+
+- **[2026-09-16 11:18 UTC]** Câmara de Candeias do Jamari, RO, abre concurso com salários de até R$ 3,5 mil; veja como se inscrever
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/09/16/camara-de-candeias-do-jamari-ro-abre-processo-seletivo-com-salarios-de-ate-r-35-mil-veja-como-se-inscrever.ghtml)_
+
+- **[2026-09-16 13:51 UTC]** Câmara dos EUA aprova pela 3ª vez resolução para encerrar guerra com Irã
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/16/camara-dos-eua-aprova-pela-3a-vez-resolucao-para-encerrar-guerra-com-ira.ghtml)_
+
+- **[2026-09-16 16:10 UTC]** Diretor de Comunicação da Câmara ressalta desafio de aproximar o Legislativo do cidadão
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1305022-diretor-de-comunicacao-da-camara-ressalta-desafio-de-aproximar-o-legislativo-do-cidadao)_
+
+- **[2026-09-16 23:00 UTC]** Câmara de Deputados dos EUA aprova projeto de lei para conter impacto de data centers na conta de luz
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/camara-de-deputados-dos-eua-aprova-projeto-de-lei-para-conter-impacto-de-data-centers-na-conta-de-luz.shtml)_
+
+- **[2026-09-17 00:31 UTC]** Câmara dos EUA aprova projeto sobre impacto econômico dos data centers
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/16/camara-dos-eua-aprova-projeto-sobre-impacto-economico-dos-data-centers.ghtml)_
+
+- **[2026-09-17 06:36 UTC]** Operação do Ministério Público mira Milton Leite, ex-presidente da Câmara de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-do-ministerio-publico-mira-milton-leite-ex-presidente-da-camara-de-sao-paulo.shtml)_
+
+- **[2026-09-17 14:19 UTC]** Câmara dos EUA aprova projeto de sanções à Rússia; texto segue para aval de Trump
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/17/cmara-dos-eua-aprova-projeto-de-sanes-rssia-texto-segue-para-sano-de-trump.ghtml)_
+
+- **[2026-09-17 15:54 UTC]** Ex-vereador Milton Leite presidiu a Câmara de São Paulo 6 vezes e ficou 27 anos como parlamentar
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/ex-vereador-milton-leite-presidiu-a-camara-6-vezes-e-ficou-27-anos-como-parlamentar.ghtml)_
+
+- **[2026-09-18 19:19 UTC]** Inscrições do concurso público da Câmara Municipal de Nossa Senhora das Dores são prorrogadas
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/18/inscricoes-do-concurso-publico-da-camara-municipal-de-nossa-senhora-das-dores-sao-prorrogadas.ghtml)_
+
+- **[2026-09-19 17:10 UTC]** Câmara de Rio Branco abre concurso para procurador com salário de quase R$ 20 mil; Veja edital
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/19/camara-de-rio-branco-abre-concurso-para-procurador-com-salario-de-quase-r-20-mil-veja-edital.ghtml)_
+
+- **[2026-09-21 14:30 UTC]** Câmara reduz pela metade jornada de trabalho presencial de servidores durante período eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/camara-reduz-pela-metade-jornada-de-trabalho-presencial-de-servidores-durante-periodo-eleitoral.shtml)_
+
+- **[2026-09-21 20:05 UTC]** Prisão de Milton Leite abre caminho para aliado de Nunes presidir a Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/prisao-de-milton-leite-abre-caminho-para-aliado-de-nunes-presidir-a-camara.shtml)_
+
+- **[2026-09-22 03:04 UTC]** Câmara de Parnamirim amplia serviços e oportunidades para a população
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/especial-publicitario/camara-municipal-de-parnamirim/noticia/2026/09/22/camara-de-parnamirim-amplia-servicos-e-oportunidades-para-a-populacao.ghtml)_
+
+- **[2026-09-22 10:45 UTC]** Vereador do ES é condenado a indenizar comerciante após chamá-lo de 'corno' durante reunião na Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/noticia/2026/09/22/vereador-e-condenado-a-indenizar-comerciante-apos-chama-lo-de-corno-durante-reuniao-no-es.ghtml)_
+
+- **[2026-09-23 11:49 UTC]** Jornalista é agredido por pastor dentro da Câmara de Vereadores de Palmas; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/jornalista-e-agredido-dentro-da-camara-de-vereadores-de-palmas.ghtml)_
+
+- **[2026-09-23 16:21 UTC]** Federação União-PP tende a apoiar Flávio no segundo turno e projeta maior bancada da Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/federao-unio-pp-tende-a-apoiar-flvio-no-segundo-turno-e-projeta-maior-bancada-da-cmara.ghtml)_
+
+- **[2026-09-23 18:38 UTC]** Câmara de SP aprova projeto para proibir propaganda de bets em eventos esportivos na cidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-de-sp-aprova-projeto-para-proibir-propaganda-de-bets-em-eventos-esportivos-na-cidade.shtml)_
+
+- **[2026-09-23 18:39 UTC]** Justiça suspende eleição da Mesa Diretora da Câmara de São Luís para o biênio 2027-2028
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/23/justica-suspende-eleicao-da-mesa-diretora-da-camara-de-sao-luis-para-o-bienio-2027-2028.ghtml)_
+
+- **[2026-09-23 18:38 UTC]** Câmara de SP aprova em 1º turno projeto para proibir propaganda de bets em eventos esportivos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/camara-de-sp-aprova-projeto-para-proibir-propaganda-de-bets-em-eventos-esportivos-na-cidade.shtml)_
+
+- **[2026-09-24 04:00 UTC]** Receita, BC e Câmara dos Deputados têm concursos previstos; veja vagas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/receita-bc-e-camara-dos-deputados-tem-concursos-previstos-veja-vagas.shtml)_
+
+- **[2026-09-24 12:09 UTC]** Nunes diz que sancionará projeto que veta propaganda de bets em SP se medida for aprovada na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/nunes-diz-que-sancionara-projeto-que-veta-propaganda-de-bets-em-sp-se-medida-for-aprovada-na-camara.shtml)_
+
+- **[2026-09-25 12:37 UTC]** Um em cada três candidatos à Câmara se declara preto ou pardo, mas é considerado branco, diz estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/um-em-cada-tres-candidatos-a-camara-se-declara-preto-ou-pardo-mas-e-considerado-branco-diz-estudo.shtml)_
+
+- **[2026-09-25 18:53 UTC]** Câmara de Marechal Floriano cassa mandato do prefeito Lidiney Gobbi após denúncias de fraudes em licitações
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/noticia/2026/09/25/camara-de-marechal-floriano-cassa-mandato-do-prefeito-lidiney-gobbi-apos-denuncias-de-fraudes-em-licitacoes.ghtml)_
+
+- **[2026-09-26 04:51 UTC]** Federação União Brasil/PP tende a crescer na Câmara e PL a cair, segundo DIAP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/09/federacao-uniao-brasilpp-tende-a-crescer-na-camara-e-pl-a-cair-segundo-diap.ghtml)_
+
+- **[2026-09-26 23:00 UTC]** Câmara dos Deputados concentra funções que moldam leis, gastos e fiscalização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/camara-dos-deputados-concentra-funcoes-que-moldam-leis-gastos-e-fiscalizacao.shtml)_
+

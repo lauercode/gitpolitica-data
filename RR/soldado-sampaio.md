@@ -20,3 +20,18 @@
 - **[2026-09-09 15:19 UTC]** TRE multa Soldado Sampaio em R$ 5 mil por propaganda antecipada durante convenção em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/09/tre-multa-soldado-sampaio-em-r-5-mil-por-propaganda-antecipada-durante-convencao-em-roraima.ghtml)_
 
+- **[2026-09-15 16:59 UTC]** Candidato ao governo, Soldado Sampaio quer combater violência doméstica com apoio de igrejas e ampliar benefícios sociais
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/15/candidato-ao-governo-soldado-sampaio-quer-combater-violencia-domestica-com-apoio-de-igrejas-e-ampliar-beneficios-sociais.ghtml)_
+
+- **[2026-09-15 15:04 UTC]** Soldado Sampaio é entrevistado no Jornal de Roraima 1ª edição
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/ao-vivo/entrevista-com-os-candidatos-ao-governo-de-roraima-na-rede-amazonica.ghtml)_
+
+- **[2026-09-25 22:30 UTC]** Quaest em Roraima: 54% aprovam e 27% desaprovam governo de Soldado Sampaio
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-governador-25-de-setembro.ghtml)_
+
+- **[2026-09-25 22:24 UTC]** Quaest em Roraima: Arthur Henrique, 57%; Soldado Sampaio, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-governador-25-setembro.ghtml)_
+
+- **[2026-09-25 19:57 UTC]** Quaest: Arthur Henrique (PL) tem 57%, ante 32% de Soldado Sampaio (Republicanos) em Roraima
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-arthur-henrique-tem-57-ante-32-de-soldado-sampaio-em-roraima.shtml)_
+

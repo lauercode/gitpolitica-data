@@ -35,3 +35,48 @@
 - **[2026-09-10 23:47 UTC]** Governadores decididos no 1º turno ameaçam mobilização de eleitores de Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governadores-decididos-no-1o-turno-ameacam-mobilizacao-de-eleitores-de-lula-e-flavio/)_
 
+- **[2026-09-14 19:25 UTC]** Cadu de Lula grava programa eleitoral e apresenta propostas para turismo e segurança
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/14/cadu-de-lula-grava-programa-eleitoral-e-apresenta-propostas-para-turismo-e-seguranca.ghtml)_
+
+- **[2026-09-15 17:09 UTC]** Candidato ao Governo do RN, Cadu de Lula promete reduzir fila de cirurgias e aumentar investimento em saúde; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/15/entrevista-governo-do-rn-cadu-de-lula.ghtml)_
+
+- **[2026-09-15 20:11 UTC]** Cadu de Lula destaca propostas para segurança, educação e equilíbrio fiscal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/15/cadu-de-lula-destaca-propostas-para-seguranca-educacao-e-equilibrio-fiscal.ghtml)_
+
+- **[2026-09-16 20:09 UTC]** Cadu de Lula visita assentamento em Natal e apresenta propostas para habitação
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/16/cadu-de-lula-visita-assentamento-em-natal-e-apresenta-propostas-para-habitacao.ghtml)_
+
+- **[2026-09-16 22:03 UTC]** Lula chama governadora do DF de cínica e diz que governo federal não vai dar dinheiro para o BRB
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/lula-chama-governadora-do-df-de-cinica-e-diz-que-governo-federal-nao-vai-dar-dinheiro-para-o-brb.shtml)_
+
+- **[2026-09-17 02:12 UTC]** Lula chama governadora do DF de cínica e diz que governo não dará dinheiro ao BRB
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/16/lula-chama-governadora-do-df-de-cinica-e-diz-que-governo-nao-dara-dinheiro-ao-brb.ghtml)_
+
+- **[2026-09-17 17:54 UTC]** Lula chama governadora do DF de cínica e diz que não dará dinheiro para o BRB
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-governadora-df-cinica-nao-dara-dinheiro-brb/)_
+
+- **[2026-09-17 21:21 UTC]** Cadu de Lula participa de agenda do MPRN e promete avanço na transparência do governo
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/17/cadu-de-lula-participa-de-agenda-do-mprn-e-promete-avanco-na-transparencia-do-governo.ghtml)_
+
+- **[2026-09-18 20:02 UTC]** Cadu de Lula cita saúde, assistência social e infraestrutura entre prioridades de governo
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/18/cadu-de-lula-cita-saude-assistencia-social-e-infraestrutura-entre-prioridades-de-governo.ghtml)_
+
+- **[2026-09-21 15:53 UTC]** PT parte para cima de governadora do DF após crítica ao governo Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-parte-para-cima-governadora-df-apos-critica-governo-lula/)_
+
+- **[2026-09-22 21:54 UTC]** Cadu de Lula defende ampliação da Patrulha Maria da Penha no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/22/cadu-de-lula-defende-ampliacao-da-patrulha-maria-da-penha-no-rn.ghtml)_
+
+- **[2026-09-23 19:01 UTC]** Cadu de Lula apresenta propostas para fortalecer turismo durante sabatina com setor hoteleiro
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/23/cadu-de-lula-apresenta-propostas-para-fortalecer-turismo-durante-sabatina-com-setor-hoteleiro.ghtml)_
+
+- **[2026-09-24 20:37 UTC]** Cadu de Lula defende mais desenvolvimento e emprego para a Zona Oeste de Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/24/cadu-de-lula-defende-mais-desenvolvimento-e-emprego-para-a-zona-oeste-de-natal.ghtml)_
+
+- **[2026-09-25 20:08 UTC]** Cadu de Lula propõe obras no camelódromo e melhorias na drenagem do Alecrim
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/cadu-de-lula-propoe-obras-no-camelodromo-e-melhorias-na-drenagem-do-alecrim.ghtml)_
+
+- **[2026-09-25 22:24 UTC]** Quaest no RN: Allyson, 39%; Cadu de Lula, 21%; Álvaro Dias, 18%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-governador-25-setembro.ghtml)_
+

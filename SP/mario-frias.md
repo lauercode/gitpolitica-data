@@ -134,3 +134,39 @@
 - **[2026-09-11 15:49 UTC]** Especialistas apontam erros jurídicos em decisão de Flávio Dino contra Mário Frias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/especialistas-apontam-erros-juridicos-em-decisao-de-flavio-dino-contra-mario-frias/)_
 
+- **[2026-09-12 04:47 UTC]** Produtora de 'Dark Horse' pagou ao menos quatro faturas de cartão de crédito de Mário Frias durante produção do filme
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/produtora-de-dark-horse-pagou-ao-menos-quatro-faturas-de-cartao-de-credito-de-mario-frias-durante-producao-do-filme.ghtml)_
+
+- **[2026-09-12 05:17 UTC]** Produtora de 'Dark Horse' pagou faturas de cartão de crédito de Mário Frias, mostram investigações
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/produtora-de-dark-horse-pagou-faturas-de-cartao-de-credito-de-mario-frias-mostram-investigacoes.ghtml)_
+
+- **[2026-09-12 12:00 UTC]** Três Poderes: Fachin é o vencedor da semana e Mário Frias, o perdedor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tres-poderes-fachin-e-o-vencedor-da-semana-e-mario-frias-o-perdedor.shtml)_
+
+- **[2026-09-13 13:43 UTC]** Dark Horse: Dino levanta sigilo de investigação que cita Mário Frias, aponta indícios de irregularidades e menciona possível elo com PCC
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/dark-horse-dino-levanta-sigilo-de-investigacao-que-cita-mario-frias-aponta-indicios-de-irregularidades-e-menciona-possivel-elo-com-pcc.ghtml)_
+
+- **[2026-09-13 14:56 UTC]** Mario Frias diz que não há crime em patrocínio do Master a Dark Horse
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-diz-que-nao-ha-crime-em-patrocinio-do-master-a-dark-horse/)_
+
+- **[2026-09-13 16:30 UTC]** 'Dark Horse': ao retirar sigilo de investigação, Dino cita suspeita de que Frias liderou esquema criminoso de desvios
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/dark-horse-ao-retirar-sigilo-de-investigacao-dino-cita-suspeita-de-que-frias-liderou-esquema-criminoso-de-desvios.ghtml)_
+
+- **[2026-09-13 11:01 UTC]** Dino tira sigilo de investigação em SP sobre produtora de 'Dark Horse' e que envolve Mario Frias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-tira-sigilo-de-investigacao-da-policia-de-sao-paulo-sobre-produtora-de-dark-horse.shtml)_
+
+- **[2026-09-13 16:22 UTC]** Dino aponta indícios de liderança de Mário Frias em desvio de emendas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-aponta-indicios-de-lideranca-de-mario-frias-em-desvio-de-emendas)_
+
+- **[2026-09-14 18:29 UTC]** Mario Frias protesta contra exposição de operação da PF: “Assassinato de reputação”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-protesta-contra-exposicao-de-operacao-da-pf-assassinato-de-reputacao/)_
+
+- **[2026-09-14 20:03 UTC]** “Atorzinho da Malhação” e líder de cartas na Globo: veja trajetória de Mario Frias antes da política
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/atorzinho-da-malhacao-e-lider-de-cartas-na-globo-saiba-quem-e-mario-frias/)_
+
+- **[2026-09-14 20:03 UTC]** “Atorzinho da Malhação” e líder de cartas na Globo: conheça trajetória de Mario Frias antes da política
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/atorzinho-da-malhacao-e-lider-de-cartas-na-globo-saiba-quem-e-mario-frias/)_
+
+- **[2026-09-25 04:00 UTC]** Esquema de Mario Frias pode ter envolvido 'Dark Horse', advogados e secretários, diz PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/esquema-de-mario-frias-pode-ter-envolvido-dark-horse-advogados-e-secretarios-diz-pf.shtml)_
+

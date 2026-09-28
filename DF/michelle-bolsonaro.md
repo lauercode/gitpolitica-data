@@ -11,3 +11,18 @@
 - **[2026-09-11 17:31 UTC]** Datafolha: Michelle Bolsonaro (PL) e Leila do Vôlei (PDT) lideram disputa ao Senado pelo DF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-michelle-bolsonaro-e-leila-do-volei-lideram-disputa-ao-senado-pelo-df.shtml)_
 
+- **[2026-09-17 12:00 UTC]** Michelle Bolsonaro substitui Jair como cabo eleitoral, e candidatos fazem romaria até Brasília por vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/michelle-bolsonaro-substitui-jair-como-cabo-eleitoral-e-candidatos-fazem-romaria-ate-brasilia-por-video.shtml)_
+
+- **[2026-09-22 20:33 UTC]** Com enxaqueca, Michelle Bolsonaro é internada em Brasília sem previsão de alta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/com-enxaqueca-michelle-bolsonaro-e-internada-em-brasilia-sem-previsao-de-alta.shtml)_
+
+- **[2026-09-22 22:54 UTC]** Michelle Bolsonaro é internada em Brasília por crise de enxaqueca
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/22/michelle-bolsonaro-e-internada-em-brasilia-por-crise-de-enxaqueca.ghtml)_
+
+- **[2026-09-24 18:18 UTC]** Datafolha: Michelle Bolsonaro (22%) e Leila do Vôlei (19%) lideram disputa ao Senado pelo DF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-michelle-bolsonaro-22-e-leila-do-volei-19-lideram-disputa-ao-senado-pelo-df.shtml)_
+
+- **[2026-09-25 16:46 UTC]** Candidato do Novo é multado pela Justiça após impulsionar críticas contra Michelle Bolsonaro e Bia Kicis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidato-do-novo-e-multado-pela-justica-apos-impulsionar-criticas-contra-michelle-bolsonaro-e-bia-kicis.shtml)_
+

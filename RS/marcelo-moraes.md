@@ -1490,3 +1490,1242 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 23:34 UTC]** Gilmar pede a Fachin para adiar sessão sobre Moraes e incluir relatório sobre Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-pede-a-fachin-para-adiar-sessao-sobre-moraes-e-incluir-relatorio-sobre-mendonca/)_
 
+- **[2026-09-11 20:29 UTC]** STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-gilmar-mendes-sugere-adiar-sessao-sobre-conduta-de-moraes)_
+
+- **[2026-09-11 21:11 UTC]** STF: Moraes e Mendonça trocam farpas em mensagens enviadas a Fachin
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-moraes-e-mendonca-trocam-farpas-em-mensagens-enviadas-fachin)_
+
+- **[2026-09-11 20:51 UTC]** Gilmar Mendes pede que Fachin unifique petições de Moraes e Mendonça
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/gilmar-mendes-pede-que-fachin-unifique-peticoes-de-moraes-e-mendonca)_
+
+- **[2026-09-12 01:32 UTC]** Escritório de esposa de Moraes assinou contrato milionário com o Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/escritorio-de-esposa-de-moraes-assinou-contrato-milionario-com-o-banco-master/)_
+
+- **[2026-09-12 00:28 UTC]** Possível interferência de Moraes pode ter contribuído para maior rombo bancário do Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/moraes-vorcaro-banco-master/)_
+
+- **[2026-09-11 22:01 UTC]** Gilmar sugere que Fachin assuma casos sobre Moraes e Mendonça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/gilmar-sugere-que-fachin-assuma-casos-sobre-moraes-e-mendonca.ghtml)_
+
+- **[2026-09-11 22:00 UTC]** Cury cobra que análise do STF sobre Moraes seja televisionada
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/cury-cobra-que-analise-do-stf-sobre-moraes-seja-televisionada.ghtml)_
+
+- **[2026-09-11 21:17 UTC]** Mendonça diz que já liberou arquivos possíveis do caso Master, e Moraes vê atuação política de ministro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/mendonca-rebate-moraes-e-diz-que-documentos-do-master-que-podem-ficar-publicos-ja-estao-disponiveis.ghtml)_
+
+- **[2026-09-12 03:38 UTC]** Alexandre de Moraes tenta mudar pauta do STF para investigar André Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-tenta-mudar-pauta-do-stf-para-investigar-andre-mendonca/)_
+
+- **[2026-09-12 14:15 UTC]** Fachin nega julgar Moraes e Mendonça juntos e marca sessão do relator do Master para 23 de setembro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/fachin-mantem-sessao-extraordinaria-para-peticao-de-mendonca-e-rejeita-julgamento-simultaneo-com-processo-de-moraes.ghtml)_
+
+- **[2026-09-12 11:43 UTC]** Fachin nega pedido para julgar Mendonça junto com Moraes e marca outra sessão para o dia 23
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-nega-pedido-de-gilmar-e-mantem-apenas-investigacao-contra-moraes-na-pauta-do-stf.shtml)_
+
+- **[2026-09-12 15:05 UTC]** Fachin decide não julgar Moraes e Mendonça juntos; atuação do relator do Master será analisada em 23 de setembro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-decide-nao-julgar-moraes-e-mendonca-juntos-acoes-do-relator-do-master-serao-analisadas-em-23-de-setembro/)_
+
+- **[2026-09-12 14:05 UTC]** Ações de Moraes expõem risco da PF virar uma polícia política protetora do “sistema”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-vira-campo-batalha-ministros-stf-expoe-risco-policia-politica/)_
+
+- **[2026-09-12 13:48 UTC]** Michelle contesta decisão de Moraes sobre visitas a Bolsonaro e diz que campanha ao Senado foi prejudicada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-contesta-decisao-de-moraes-sobre-visitas-a-bolsonaro/)_
+
+- **[2026-09-12 12:31 UTC]** Resumo da semana: crise no STF explode, Moraes enfrenta protestos, investigação da OAB e pressão dos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/resumo-da-semana-crise-no-stf-explode-moraes-enfrenta-protestos-investigacao-da-oab-e-pressao-dos-eua/)_
+
+- **[2026-09-12 15:25 UTC]** Fachin decide que julgará Moraes e Mendonça separadamente e marca nova sessão para 23 de setembro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyz1e26921o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-12 14:25 UTC]** Fachin nega pedido de Moraes para julgamento conjunto com Mendonça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/fachin-nega-julgamento-conjunto-de-moraes-e-mendonca.ghtml)_
+
+- **[2026-09-12 13:26 UTC]** Flávio e Moraes receberam a mesma grana do mesmo esquema
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/09/flavio-e-moraes-receberam-a-mesma-grana-do-mesmo-esquema.shtml)_
+
+- **[2026-09-12 18:06 UTC]** Ações de Moraes na Polícia Federal acendem alerta sobre uso político da corporação
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-de-moraes-na-policia-federal-acendem-alerta-sobre-uso-politico-da-corporacao/)_
+
+- **[2026-09-12 18:01 UTC]** Sessão do STF que decidirá sobre investigação contra Moraes terá segurança reforçada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sessao-do-stf-que-decidira-sobre-investigacao-contra-moraes-tera-seguranca-reforcada/)_
+
+- **[2026-09-12 17:32 UTC]** Em ato no RJ, Flávio Bolsonaro ataca Moraes e diz que fim do sigilo do caso Master terá 'impacto zero'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/em-ato-no-rj-flavio-bolsonaro-ataca-moraes-e-diz-que-fim-do-sigilo-do-caso-master-tera-impacto-zero.ghtml)_
+
+- **[2026-09-12 20:22 UTC]** Datafolha: 34% dizem que Moraes deveria ser afastado; 28% defendem impeachment
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/datafolha-moraes-impeachment.ghtml)_
+
+- **[2026-09-12 16:33 UTC]** Datafolha: 34% querem o afastamento de Moraes e 37%, o de Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-34-querem-o-afastamento-de-moraes-e-37-o-de-mendonca.shtml)_
+
+- **[2026-09-12 15:52 UTC]** Flávio e Moraes ganham apoios de quem tem memória e ideias seletivas sobre democracia e república
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/flavio-e-moraes-ganham-apoios-de-quem-tem-memoria-e-ideias-seletivas-sobre-democracia-e-republica.shtml)_
+
+- **[2026-09-12 19:25 UTC]** Julgamento sobre relação de Moraes com Vorcaro será transmitido pela TV Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/julgamento-sobre-relacao-de-moraes-com-vorcaro-sera-transmitido-pela-tv-justica.shtml)_
+
+- **[2026-09-12 16:33 UTC]** Datafolha: 37% querem o afastamento de Mendonça e 34%, o de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-34-querem-o-afastamento-de-moraes-e-37-o-de-mendonca.shtml)_
+
+- **[2026-09-12 22:48 UTC]** STF confirma transmissão ao vivo de sessão que vai julgar Alexandre de Moraes; veja como assistir
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-transmissao-ao-vivo-sessao-alexandre-de-moraes-veja-como-assistir/)_
+
+- **[2026-09-12 21:05 UTC]** Pedidos de vista em sessão do STF sobre Moraes serão respondidos com antecipação de votos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pedidos-de-vista-em-sessao-do-stf-sobre-moraes-serao-respondidos-com-antecipacao-de-votos.ghtml)_
+
+- **[2026-09-12 23:23 UTC]** Fachin assume relatoria da discussão sobre suposta relação entre Moraes e Vorcaro e remete à presidência do STF investigações sobre INSS e Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/fachin-assume-relatoria-de-discussao-sobre-suposta-relacao-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-12 20:49 UTC]** Fachin afasta Mendonça de caso contra Moraes e manda parar apurações de Master e INSS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-tira-de-mendonca-relatoria-de-caso-moraes-e-abre-caminho-para-assumir-inqueritos-do-master-e-inss.shtml)_
+
+- **[2026-09-13 00:42 UTC]** Fachin assume relatoria de investigação sobre suspeitas de crimes de Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-assume-relatoria-de-investigacao-sobre-crimes-de-moraes-e-vorcaro/)_
+
+- **[2026-09-13 00:10 UTC]** Lula ensaia “largar a mão” de Moraes, mas teme consequências
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ensaia-largar-a-mao-de-moraes-mas-teme-consequencias/)_
+
+- **[2026-09-13 00:43 UTC]** Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwyz5xkdvndo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-12 23:50 UTC]** Fachin assume caso das mensagens de Vorcaro a Moraes e pede processos do Master e INSS
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/fachin-assume-caso-das-mensagens-de-vorcaro-a-moraes-e-pede-processos-do-master-e-inss.ghtml)_
+
+- **[2026-09-12 23:12 UTC]** Mendonça envia processo sobre Moraes à presidência do STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/mendona-envia-processo-sobre-moraes-presidncia-do-stf.ghtml)_
+
+- **[2026-09-12 22:14 UTC]** Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-stf-assume-relatoria-do-processo-sobre-moraes-e-vorcaro)_
+
+- **[2026-09-12 22:30 UTC]** Fachin vira relator de investigação sobre relação de Moraes e Vorcaro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/fachin-vira-relator-de-investigacao-sobre-relacao-de-moraes-e-vorcaro)_
+
+- **[2026-09-12 23:00 UTC]** Ministros aliados de Moraes cogitam alegar suspeição de Kassio e Fux devido a elo de filhos com o Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ministros-aliados-de-moraes-cogitam-alegar-suspeicao-de-kassio-e-fux-devido-a-elo-de-filhos-com-o-master.shtml)_
+
+- **[2026-09-12 23:00 UTC]** Moraes versus Mendonça é o problema mais simples na crise geral do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/09/moraes-versus-mendonca-e-o-problema-mais-simples-na-crise-geral-do-stf.shtml)_
+
+- **[2026-09-13 07:00 UTC]** Crise Master no STF: ala de Moraes deve apontar falhas processuais para tentar barrar investigação contra o ministro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/crise-master-no-stf-ala-de-moraes-deve-apontar-falhas-processuais-para-tentar-barrar-investigacao-contra-o-ministro.ghtml)_
+
+- **[2026-09-13 09:00 UTC]** Ala pró-Moraes reage, mas Fachin mantém julgamento sobre mensagens com Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/ala-pro-moraes-reage-mas-fachin-mantem-julgamento-sobre-mensagens-com-vorcaro.ghtml)_
+
+- **[2026-09-13 15:34 UTC]** Sem citar Moraes, PF questiona quem é ‘Andrei’ e ‘Paulo’ em mensagem enviada por Vorcaro ao ministro
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/13/sem-citar-moraes-pf-questiona-quem-andrei-e-paulo-em-mensagem-enviada-por-vorcaro-ao-ministro.ghtml)_
+
+- **[2026-09-13 20:37 UTC]** Em depoimento, Vorcaro diz não lembrar destinatário de mensagem que, segundo PF, era Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/em-depoimento-vorcaro-diz-nao-lembrar-destinatario-de-mensagem-que-segundo-pf-era-moraes.ghtml)_
+
+- **[2026-09-13 20:35 UTC]** Ministro Edson Fachin avoca petições sobre Alexandre de Moraes e Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-edson-fachin-avoca-peticoes-sobre-alexandre-de-moraes-e-banco-master/)_
+
+- **[2026-09-13 20:12 UTC]** Agenda de política: STF analisa nesta terça-feira relatório da PF sobre mensagens entre Vorcaro e Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/agenda-de-poltica-stf-analisa-nesta-tera-feira-relatrio-da-pf-sobre-mensagens-entre-vorcaro-e-moraes.ghtml)_
+
+- **[2026-09-13 22:07 UTC]** Moraes pede nova quebra de sigilo sobre Master antes de sessão desta terça; Fachin aciona PGR
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/13/moraes-pede-nova-quebra-de-sigilo-sobre-master-antes-de-sessao-desta-terca-fachin-aciona-pgr.ghtml)_
+
+- **[2026-09-13 18:29 UTC]** Moraes pede a Fachin retirada de sigilo de dados sobre rede de pagamentos do Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-pede-a-fachin-retirada-de-sigilo-de-dados-sobre-rede-de-pagamentos-do-master.shtml)_
+
+- **[2026-09-13 22:56 UTC]** Moraes pede levantamento de sigilo de processo sob relatoria de Mendonça antes de julgamento
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-pede-levantamento-de-sigilo-de-processo-sob-relatoria-de-mendonca-antes-de-julgamento/)_
+
+- **[2026-09-13 22:12 UTC]** Moraes pede retirada de sigilo de peça do caso Master antes de julgamento na terça-feira
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/13/moraes-pede-retirada-de-sigilo-de-pea-do-caso-master-antes-de-julgamento-na-tera-feira.ghtml)_
+
+- **[2026-09-13 22:00 UTC]** Casos de Moraes e Mendonça não podem ser misturados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/casos-de-moraes-e-mendonca-nao-podem-ser-misturados.shtml)_
+
+- **[2026-09-14 01:03 UTC]** Supremo tem a chance de recuperar credibilidade com investigação contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/supremo-tem-a-chance-de-recuperar-credibilidade-com-investigacao-contra-moraes/)_
+
+- **[2026-09-14 03:00 UTC]** Ministros do STF discutem se Moraes e Mendonça devem participar de julgamento na terça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/ministros-do-stf-discutem-se-moraes-e-mendonca-devem-participar-de-julgamento-na-terca.ghtml)_
+
+- **[2026-09-13 23:00 UTC]** Sessão sobre crise no STF tem rito incerto, artilharia montada entre Moraes e Mendonça e risco de obstrução
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/sessao-sobre-crise-no-stf-tem-rito-incerto-artilharia-montada-entre-moraes-e-mendonca-e-risco-de-obstrucao.shtml)_
+
+- **[2026-09-13 18:08 UTC]** Zanin e Gilmar cobram acesso à íntegra de celular de Vorcaro, e STF tem embate antes de julgar Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/zanin-ordena-acesso-a-integra-de-celular-de-vorcaro-e-diz-nao-haver-hierarquia-entre-ministros-do-stf.shtml)_
+
+- **[2026-09-14 05:04 UTC]** STF analisa investigação contra o ministro Alexandre de Moraes nesta terça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-analisa-investigacao-contra-o-ministro-alexandre-de-moraes-nesta-terca/)_
+
+- **[2026-09-14 01:36 UTC]** Julgamento de Moraes provoca ofensiva de ministros do STF por acesso ao celular de Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/julgamento-de-moraes-provoca-ofensiva-de-ministros-do-stf-por-acesso-ao-celular-de-vorcaro/)_
+
+- **[2026-09-14 08:00 UTC]** A situação de Moraes e o dever da elite
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/coluna/a-situacao-de-moraes-e-o-dever-da-elite.ghtml)_
+
+- **[2026-09-14 08:00 UTC]** Julgamento sobre Moraes no STF tem incertezas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/julgamento-sobre-moraes-no-stf-tem-incertezas.ghtml)_
+
+- **[2026-09-14 08:00 UTC]** Caso Master aprofunda tensão no STF às vésperas de julgamento de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/14/caso-master-aprofunda-tensao-no-stf-as-vesperas-de-julgamento-de-moraes.ghtml)_
+
+- **[2026-09-14 07:40 UTC]** STF decide se abre investigação contra Moraes nesta terça (15)
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-decide-se-abre-investigacao-contra-moraes-nesta-terca-15)_
+
+- **[2026-09-14 13:21 UTC]** Julgamento sobre Moraes no STF: como deve ser a sessão de terça e o que ainda é dúvida
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-julgamento-moraes.ghtml)_
+
+- **[2026-09-14 12:46 UTC]** Grupo de Moraes no STF atua para evitar abertura de investigação contra colega, avaliam juristas e ex-ministros do Supremo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/grupo-de-moraes-no-stf-atua-para-evitar-abertura-de-investigacao-contra-colega-avaliam-juristas-e-ex-ministros-do-stf.ghtml)_
+
+- **[2026-09-14 08:57 UTC]** PGR concorda com Moraes e pede retirada de sigilo de dados sobre rede de pagamentos do Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pgr-concorda-com-moraes-e-pede-retirada-de-sigilo-de-dados-sobre-rede-de-pagamentos-do-master.shtml)_
+
+- **[2026-09-14 12:19 UTC]** PGR concorda com Moraes e pede queda de sigilo de processo sobre pagamentos de Vorcaro a entidades
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-concorda-com-moraes-e-pede-derrubada-de-processo-sobre-pagamento-de-vorcaro-a-entidades/)_
+
+- **[2026-09-14 08:00 UTC]** Participação de Moraes, Mendonça e Toffoli é incerta em julgamento no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/julgamento-sobre-moraes-no-stf-tem-incertezas.ghtml)_
+
+- **[2026-09-14 13:35 UTC]** Segurança vai ser reforçada em julgamento de Moraes no STF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-09/seguranca-vai-ser-reforcada-em-julgamento-de-moraes-no-stf)_
+
+- **[2026-09-14 15:36 UTC]** PF diz que entregou cópias dos dados extraídos do celular de Vorcaro a Moraes, Zanin e Gilmar Mendes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/pf-diz-que-entregou-copias-dos-dados-extraidos-do-celular-de-vorcaro-a-moraes-zanin-e-gilmar-mendes.ghtml)_
+
+- **[2026-09-14 13:21 UTC]** Julgamento sobre Moraes no STF: como deve ser a sessão desta terça e o que ainda é dúvida
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-julgamento-moraes.ghtml)_
+
+- **[2026-09-14 10:05 UTC]** PF entrega conteúdo do celular de Vorcaro aos gabinetes de Zanin, Gilmar e Moraes no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/integra-de-celular-de-vorcaro-chega-a-gabinete-de-zanin-que-analisa-conteudo.shtml)_
+
+- **[2026-09-14 19:03 UTC]** Acompanhe ao vivo: STF decide se Alexandre de Moraes será investigado no caso Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acompanhe-ao-vivo-stf-decide-se-alexandre-de-moraes-sera-investigado-no-caso-vorcaro/)_
+
+- **[2026-09-14 17:04 UTC]** Mendonça derruba sigilo de informações financeiras do caso Master após pressão de Moraes e PGR
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-derruba-sigilo-de-processo-sobre-pagamentos-de-vorcaro/)_
+
+- **[2026-09-14 18:36 UTC]** Por que Cármen Lúcia e Fachin devem ser cruciais para o futuro de Alexandre de Moraes no STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c33krrv86r2o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-14 19:00 UTC]** Que horas é o julgamento sobre Moraes no STF? Saiba horário e onde assistir
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/que-horas-e-o-julgamento-sobre-moraes-no-stf-saiba-horario-e-onde-assistir.ghtml)_
+
+- **[2026-09-14 14:12 UTC]** A nova pesquisa Datafolha para presidente após julgamento de Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/a-nova-pesquisa-datafolha-para-presidente-apos-julgamento-de-moraes-no-stf.ghtml)_
+
+- **[2026-09-14 16:33 UTC]** STF define rito de sessão que analisará conversas de  Moraes e Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-define-rito-de-sessao-que-analisara-conversas-de-moraes-e-vorcaro)_
+
+- **[2026-09-14 16:22 UTC]** STF confirma transmissão pela internet de sessão sobre Moraes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-confirma-transmissao-pela-internet-de-sessao-sobre-moraes)_
+
+- **[2026-09-14 19:05 UTC]** STF define rito de sessão que analisará suposta ligação Moraes-Vorcaro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-define-rito-de-sessao-que-analisara-suposta-ligacao-moraes-vorcaro)_
+
+- **[2026-09-14 21:17 UTC]** Quaest: 37% avaliam que Mendonça age de forma correta na crise do STF; 16% defendem Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/quaest-parte-defende-mendonca-age-de-forma-correta-na-crise-do-stf.ghtml)_
+
+- **[2026-09-14 20:53 UTC]** STF analisa nesta terça se abre investigação contra Moraes por mensagens com Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
+
+- **[2026-09-14 13:21 UTC]** STF divulga rito da sessão que vai analisar relatório da PF que mostra suposta relação de Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-julgamento-moraes.ghtml)_
+
+- **[2026-09-14 17:48 UTC]** FGV Direito SP reúne professores e alunos para acompanhar sessão do STF sobre Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/fgv-direito-sp-reune-professores-e-alunos-para-acompanhar-sessao-do-stf-sobre-moraes.shtml)_
+
+- **[2026-09-14 17:09 UTC]** Fachin divulga rito genérico e será o 1º a votar em sessão histórica do STF sobre Vorcaro e Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-define-como-sera-a-sessao-inedita-que-vai-julgar-futuro-de-moraes.shtml)_
+
+- **[2026-09-14 21:21 UTC]** Eduardo Bolsonaro terá reuniões em Washington para tratar de sanções contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eduardo-bolsonaro-tera-reunioes-em-washington-para-tratar-de-sancoes-contra-moraes/)_
+
+- **[2026-09-14 21:19 UTC]** Gonet escolhe para grupo de trabalho subprocurador que trabalha com Moraes na USP
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-escolhe-subprocurador-que-trabalha-com-moraes-na-usp/)_
+
+- **[2026-09-14 20:25 UTC]** Moraes na mira: como seria investigar um ministro do Supremo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-na-mira-como-seria-investigar-um-ministro-do-supremo/)_
+
+- **[2026-09-14 20:25 UTC]** Aliados de Alexandre de Moraes buscam estratégias para evitar julgamento no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aliados-de-alexandre-de-moraes-buscam-estrategias-para-evitar-julgamento-no-stf/)_
+
+- **[2026-09-14 21:57 UTC]** STF define regras para sessão que decidirá sobre investigação contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-define-regras-para-sessao-que-decidira-sobre-investigacao-contra-moraes/)_
+
+- **[2026-09-14 19:19 UTC]** Conselheiro da OAB-PR cobra reação mais dura contra Moraes e critica decisão da presidência
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/conselheiro-oab-pr-cobra-reacao-mais-dura-contra-moraes/)_
+
+- **[2026-09-14 21:30 UTC]** Flávio Bolsonaro sobre Moraes: 'Não é possível que fique impune e continue participando de julgamentos'
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/14/flavio-bolsonaro-sobre-moraes-nao-e-possivel-que-fique-impune-e-continue-participando-de-julgamentos.ghtml)_
+
+- **[2026-09-14 19:55 UTC]** Saiba como será a sessão de julgamento de Alexandre de Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/saiba-como-sera-a-sessao-de-julgamento-de-alexandre-de-moraes-no-stf.ghtml)_
+
+- **[2026-09-14 19:46 UTC]** Em Belém, Flávio defende afastamento de Moraes e tenta atrelar magistrado a Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/14/em-belem-flavio-defende-afastamento-de-moraes-e-tenta-atrelar-magistrado-a-lula.ghtml)_
+
+- **[2026-09-14 19:00 UTC]** Que horas é o julgamento de Moraes no STF? Saiba horário e onde assistir
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/que-horas-e-o-julgamento-sobre-moraes-no-stf-saiba-horario-e-onde-assistir.ghtml)_
+
+- **[2026-09-14 21:38 UTC]** Oposição dribla Alcolumbre e marca sessão de comissão para usar como palanque contra Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/oposicao-dribla-alcolumbre-e-marca-sessao-de-comissao-para-usar-como-palanque-contra-moraes.shtml)_
+
+- **[2026-09-14 21:36 UTC]** Gonet deve participar de sessão do STF que analisará relatório sobre Moraes e negar elo com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gonet-deve-participar-de-sessao-do-stf-que-analisara-relatorio-sobre-moraes-e-negar-elo-com-vorcaro.shtml)_
+
+- **[2026-09-14 21:20 UTC]** Para leitor, Alexandre de Moraes, André Mendonça e Paulo Gonet deveriam se afastar de seus cargos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/para-leitor-alexandre-de-moraes-andre-mendonca-e-paulo-gonet-deveriam-se-afastar-de-seus-cargos.shtml)_
+
+- **[2026-09-14 20:39 UTC]** Supremo precisa investigar Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/supremo-precisa-investigar-moraes.shtml)_
+
+- **[2026-09-14 20:06 UTC]** Flávio Bolsonaro diz que STF tem obrigação de investigar Moraes e defende afastamento de ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-stf-tem-obrigacao-de-investigar-moraes-e-defende-afastamento-de-ministro.shtml)_
+
+- **[2026-09-15 00:48 UTC]** Flávio defende afastamento de Moraes e diz que terça será “vital” para o Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-defende-afastamento-de-moraes-e-diz-que-terca-sera-vital-para-o-brasil/)_
+
+- **[2026-09-15 00:20 UTC]** STF concede a Moraes “foro privilegiado dentro do foro privilegiado”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/stf-moraes-foro-privilegiado-dentro-do-foro-privilegiado/)_
+
+- **[2026-09-15 04:16 UTC]** 'Inconstitucional e ilegal', diz Moraes sobre investigação de Mendonça; ministro nega favorecimento a Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-se-manifesta-pela-1a-vez-sobre-mensagens-de-vorcaro-e-nega-irregularidades.ghtml)_
+
+- **[2026-09-15 03:00 UTC]** Brasília vive clima de 'Fla x Flu' pré-julgamento de Moraes no STF: ministros tentaram adiar sessão, sem sucesso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/15/brasilia-tensao-julgamento-moraes-stf.ghtml)_
+
+- **[2026-09-15 03:00 UTC]** Moraes, Vorcaro, Mendonça, Fachin, Gonet: relembre os principais personagens da crise Master do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-vorcaro-mendonca-fachin-gonet-relembre-os-principais-personagens-da-crise-master-do-stf.ghtml)_
+
+- **[2026-09-15 03:00 UTC]** Veja como será a sessão do STF sobre relatório da PF com mensagens trocadas entre Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/veja-como-sera-a-sessao-do-stf-sobre-relatorio-da-pf-com-mensagens-trocadas-entre-vorcaro-e-moraes.ghtml)_
+
+- **[2026-09-15 03:00 UTC]** Do Banco Master ao plenário do STF: entenda o histórico da crise e o que esperar do julgamento sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/do-banco-master-ao-plenario-do-stf-entenda-o-historico-da-crise-e-o-que-esperar-do-julgamento-sobre-moraes.ghtml)_
+
+- **[2026-09-15 02:00 UTC]** STF chega dividido a julgamento sobre Moraes; seis ministros têm posições mais consolidadas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/14/stf-chega-dividido-a-julgamento-sobre-moraes-seis-ministros-tem-posicoes-mais-consolidadas.ghtml)_
+
+- **[2026-09-15 00:10 UTC]** Moraes chama relatório apresentado por Mendonça de farsa e diz que é vingança após condenações na trama golpista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-diz-que-relatorio-apresentado-por-mendonca-e-farsa-e-vinganca-de-aliados-de-condenados-pela-trama-golpista.shtml)_
+
+- **[2026-09-14 23:00 UTC]** Entenda como será a sessão no STF sobre Moraes e Vorcaro e as indefinições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-como-sera-a-sessao-no-stf-sobre-moraes-e-vorcaro-e-as-indefinicoes.shtml)_
+
+- **[2026-09-14 23:00 UTC]** Veja a cronologia das decisões do STF às vésperas de sessão sobre Moraes e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-a-cronologia-das-decisoes-do-stf-as-vesperas-de-sessao-sobre-moraes-e-vorcaro.shtml)_
+
+- **[2026-09-14 23:00 UTC]** STF faz sessão inédita que pode definir futuro de Moraes sem sinal de trégua entre ministros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-faz-sessao-inedita-que-pode-definir-futuro-de-moraes-sem-sinal-de-tregua-entre-ministros.shtml)_
+
+- **[2026-09-14 23:00 UTC]** Mensagens antes de prisão e encontros com Vorcaro: veja o que pesa contra Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-antes-de-prisao-e-encontros-com-vorcaro-veja-o-que-pesa-contra-moraes.shtml)_
+
+- **[2026-09-14 23:00 UTC]** Campanha de Flávio Bolsonaro vê 'ganha-ganha' em sessão do STF sobre Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-bolsonaro-ve-ganha-ganha-em-sessao-do-stf-sobre-moraes.shtml)_
+
+- **[2026-09-14 23:00 UTC]** Posição de Zanin e Moraes agora destoa de atuação em trama golpista e inquérito das fake news
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/posicao-de-zanin-e-moraes-agora-destoa-de-atuacao-em-trama-golpista-e-inquerito-das-fake-news.shtml)_
+
+- **[2026-09-15 05:43 UTC]** STF analisa abertura de inquérito contra Alexandre de Moraes nesta terça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-analisa-abertura-de-inquerito-contra-alexandre-de-moraes-nesta-terca/)_
+
+- **[2026-09-15 03:40 UTC]** Moraes vê vingança em investigação de Mendonça e diz que “tentativa de golpe não se encerrou”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-acusa-mendonca-de-atuacao-politica-e-pede-extincao-imediata-de-investigacao/)_
+
+- **[2026-09-15 02:50 UTC]** STF faz sessão histórica para tentar investigar Moraes sob forte oposição de aliados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-faz-sessao-historica-para-tentar-investigar-moraes-sob-forte-oposicao-de-aliados/)_
+
+- **[2026-09-15 08:38 UTC]** "Inconstitucional e ilegal", diz Moraes sobre investigação de Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/inconstitucional-e-ilegal-diz-moraes-sobre-investigacao-de-mendonca)_
+
+- **[2026-09-15 07:19 UTC]** STF faz nesta manhã sessão que analisará conversas de Moraes e Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-faz-nesta-manha-sessao-que-analisara-conversas-de-moraes-e-vorcaro)_
+
+- **[2026-09-15 07:53 UTC]** Moraes chama relatório de Mendonça de ilegal e inconstitucional
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/moraes-chama-relatorio-de-mendonca-de-ilegal-e-inconstitucional)_
+
+- **[2026-09-15 07:00 UTC]** STF decide hoje se abre investigação formal contra Alexandre de Moraes
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-decide-hoje-se-abre-investigacao-formal-contra-alexandre-de-moraes)_
+
+- **[2026-09-15 12:05 UTC]** LOGO MAIS: STF analisa nesta terça se abre investigação contra Moraes por mensagens com Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
+
+- **[2026-09-15 04:16 UTC]** Moraes chama de 'inconstitucional e ilegal' investigação de Mendonça e nega ter favorecido Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-se-manifesta-pela-1a-vez-sobre-mensagens-de-vorcaro-e-nega-irregularidades.ghtml)_
+
+- **[2026-09-15 06:00 UTC]** Governo acredita que decisão firme do STF sobre Moraes reduz margem para intervenção dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governo-acredita-que-decisao-firme-do-stf-sobre-moraes-reduz-margem-para-intervencao-dos-eua.shtml)_
+
+- **[2026-09-15 11:45 UTC]** Moraes afirma que PF tratou notas do iPhone de Vorcaro como mensagens de WhatsApp
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-afirma-que-pf-tratou-notas-do-iphone-de-vorcaro-como-mensagens-de-whatsapp/)_
+
+- **[2026-09-15 11:18 UTC]** Empresário ligado a Vorcaro pede suspeição de Mendonça antes de julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/empresario-ligado-vorcaro-suspeicao-mendonca-antes-julgamento/)_
+
+- **[2026-09-15 12:29 UTC]** STF: Nunes Marques e Fux são dúvida em julgamento sobre citações a Moraes e podem se declarar impedidos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-nunes-marques-e-fux-so-dvida-em-julgamento-sobre-citaes-a-moraes-e-podem-se-declarar-impedidos.ghtml)_
+
+- **[2026-09-15 10:45 UTC]** Julgamento de Moraes no STF: acompanhe ao vivo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/ao-vivo/2026/09/15/julgamento-alexandre-de-moraes-stf-ao-vivo.ghtml)_
+
+- **[2026-09-15 10:32 UTC]** Moraes nega favorecimento a Vorcaro e chama investigação determinada por Mendonça de 'fraude' e 'vingança'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-nega-favorecimento-a-vorcaro-e-chama-investigacao-determinada-por-mendonca-de-fraude.ghtml)_
+
+- **[2026-09-15 10:01 UTC]** Moraes diz que Mendonça promoveu investigação 'ilegal' e nega favorecimento a Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-diz-que-mendona-promoveu-investigao-ilegal-e-nega-favorecimento-a-vorcaro.ghtml)_
+
+- **[2026-09-15 08:00 UTC]** Em sessão inédita, STF começa a julgar relatório da PF com diálogos entre Vorcaro e Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/em-sessao-inedita-stf-comeca-a-julgar-relatorio-da-pf-com-dialogos-entre-vorcaro-e-moraes.ghtml)_
+
+- **[2026-09-15 08:00 UTC]** Supremo inicia hoje sessão histórica que poderá permitir a investigação de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/15/supremo-inicia-hoje-sessao-historica-que-podera-permitir-a-investigacao-de-moraes.ghtml)_
+
+- **[2026-09-15 11:40 UTC]** André Mendonça rebate Moraes e nega ilegalidade em relatório
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/andre-mendonca-rebate-moraes-e-nega-ilegalidade-em-relatorio)_
+
+- **[2026-09-15 11:01 UTC]** STF: começa sessão que analisa investigação contra Alexandre de Moraes
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-comeca-sessao-que-analisa-investigacao-contra-alexandre-de-moraes)_
+
+- **[2026-09-15 17:00 UTC]** STF suspende sessão que analisa relatório da PF sobre relação entre Moraes e Vorcaro; ministros voltam às 15h
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
+
+- **[2026-09-15 16:25 UTC]** VÍDEOS: veja embates entre ministros do STF na sessão que analisa se Moraes será investigado no Caso Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/video-embates-ministros-stf.ghtml)_
+
+- **[2026-09-15 15:58 UTC]** Dino cita vídeo de Fábio Porchat e música de Chico César em julgamento do STF sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/dino-cita-video-de-fabio-porchat-e-musica-de-chico-cesar-em-julgamento-do-stf-sobre-moraes.ghtml)_
+
+- **[2026-09-15 15:28 UTC]** Moraes e Mendonça batem boca em sessão do STF sobre crise Master na Corte: 'Quem tem medo da PF?'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-e-andre-mendonca-batem-boca-em-sessao-do-stf.ghtml)_
+
+- **[2026-09-15 15:21 UTC]** Dino pede adiamento de julgamento sobre Moraes; ministro sugere análise conjunta na sessão sobre Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/dino-pede-que-julgamento-de-relatorio-sobre-moraes-seja-feito-em-conjunto-com-sessao-sobre-mendonca-no-dia-23-de-setembro.ghtml)_
+
+- **[2026-09-15 14:51 UTC]** Candidatos a presidente comentam sessão do STF que analisa se Moraes será investigado no Caso Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/candidatos-a-presidente-stf.ghtml)_
+
+- **[2026-09-15 14:32 UTC]** Toffoli e Nunes Marques decidem não participar de julgamento que pode abrir investigação sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/toffoli-se-declara-impedido-e-decide-nao-participar-de-julgamento-que-pode-abrir-investigacao-sobre-moraes.ghtml)_
+
+- **[2026-09-15 14:28 UTC]** Avocatória, suspeição e questão de ordem: o que significam termos citados na sessão do STF sobre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/glossario-termos-juridicos-sessao-stf.ghtml)_
+
+- **[2026-09-15 14:27 UTC]** Kassio Nunes Marques se declara impedido em julgamento sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/kassio-nunes-marques-se-declara-impedido-em-julgamento-sobre-moraes.ghtml)_
+
+- **[2026-09-15 14:16 UTC]** Moraes e Mendonça participam lado a lado de sessão do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-e-mendonca-participam-lado-a-lado-de-sessao-do-stf.ghtml)_
+
+- **[2026-09-15 14:05 UTC]** Vídeos: Sessão do STF que vai analisar relatório da PF sobre relação entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/politico/playlist/videos-sessao-do-stf-que-vai-analisar-relatorio-da-pf-sobre-relacao-entre-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-15 13:44 UTC]** Veja frases dos ministros do STF na sessão sobre mensagens de Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/falas-ministros-stf.ghtml)_
+
+- **[2026-09-15 13:38 UTC]** Ministros fora do julgamento, bate-boca e debate sobre juntar acusações contra Moraes e Mendonça: como foi a sessão do STF até agora
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/ao-abrir-sessao-fachin-diz-que-stf-atravessa-periodo-dificil-da-historia-e-nao-julga-pessoas-mas-fatos.ghtml)_
+
+- **[2026-09-15 13:05 UTC]** AO VIVO: STF analisa troca de mensagens entre Alexandre de Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/ao-vivo-stf-analisa-troca-de-mensagens-entre-alexandre-de-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-15 13:02 UTC]** Gonet chega ao STF para julgamento sobre Moraes após ser alvo de dúvidas sobre presença
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/gonet-chega-ao-stf-para-acompanhar-julgamento.ghtml)_
+
+- **[2026-09-15 12:40 UTC]** Julgamento no STF: o que pesa contra Moraes e o que o ministro diz em sua defesa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/julgamento-no-stf-o-que-pesa-contra-moraes-e-o-que-o-ministro-diz-em-sua-defesa.ghtml)_
+
+- **[2026-09-15 03:00 UTC]** Que horas e como será a sessão do STF sobre mensagens trocadas entre Vorcaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/veja-como-sera-a-sessao-do-stf-sobre-relatorio-da-pf-com-mensagens-trocadas-entre-vorcaro-e-moraes.ghtml)_
+
+- **[2026-09-15 13:52 UTC]** Moraes acusa Mendonça de usar PF para incluí-lo em delação, e ministro rebate: 'É mentira!'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-acusa-mendonca-de-usar-pf-para-inclui-lo-em-delacao-e-ministro-rebate-e-mentira.shtml)_
+
+- **[2026-09-15 13:06 UTC]** Lula ignora julgamento sobre Moraes no STF em cerimônia no Planalto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-ignora-caso-moraes-no-stf-em-cerimonia-no-planalto.shtml)_
+
+- **[2026-09-15 10:49 UTC]** Kassio e Toffoli se declaram suspeitos e não votarão em sessão sobre Moraes no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/kassio-avalia-nao-votar-em-sessao-sobre-moraes-apos-mensagens-de-vorcaro-citarem-filho.shtml)_
+
+- **[2026-09-15 10:44 UTC]** Mendonça reage a Moraes e diz que não há irregularidade em relatório da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-reage-a-moraes-e-diz-que-nao-ha-irregularidade-em-relatorio-da-pf.shtml)_
+
+- **[2026-09-15 10:26 UTC]** Flávio Bolsonaro associa governo Lula a Moraes e ignora 'Dark Horse' em dia de sessão no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-associa-governo-lula-a-moraes-e-ignora-dark-horse-em-dia-de-sessao-no-stf.shtml)_
+
+- **[2026-09-15 09:36 UTC]** Aliado de Trump publica imagem de IA de Moraes com tornozeleira eletrônica e provoca: 'tick tock'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/aliado-de-trump-publica-imagem-de-ia-de-moraes-tornozeleira-eletronica-e-provoca-tick-tock.shtml)_
+
+- **[2026-09-15 17:31 UTC]** Alexandre de Moraes X André Mendonça: o que diz a petição de defesa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-x-andre-mendonca-o-que-diz-a-peticao-de-defesa/)_
+
+- **[2026-09-15 16:48 UTC]** Ministros manobram para substituir relator e fazer julgamento conjunto de Moraes e Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministros-manobram-para-substituir-relator-e-fazer-julgamento-conjunto-de-moraes-e-mendonca/)_
+
+- **[2026-09-15 16:23 UTC]** Petição reúne assinaturas a favor da investigação de Alexandre de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/peticao-reune-assinaturas-a-favor-da-investigacao-de-alexandre-de-moraes/)_
+
+- **[2026-09-15 15:37 UTC]** Manifestantes levam “montanha de dinheiro” em protesto contra Moraes em Brasília; veja fotos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/manifestantes-levam-montanha-de-dinheiro-em-protesto-contra-moraes-em-brasilia-veja-fotos/)_
+
+- **[2026-09-15 17:12 UTC]** Moraes e Gilmar atacam Mendonça e alegam atuação política dele no caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-e-mendonca-batem-boca-por-atuacao-da-pf-e-investigacao-do-master/)_
+
+- **[2026-09-15 15:35 UTC]** Dino pede que julgamento de Moraes seja transferido para sessão com Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-julgamento-moraes-transferido-sessao-com-mendonca/)_
+
+- **[2026-09-15 15:04 UTC]** Fachin e Dino batem boca em julgamento de Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-e-dino-batem-boca-em-julgamento-de-moraes-no-stf/)_
+
+- **[2026-09-15 14:33 UTC]** Nunes Marques e Toffoli não julgarão caso Moraes-Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-se-declara-impedido-de-julgar-caso-moraes-vorcaro/)_
+
+- **[2026-09-15 14:20 UTC]** Seis frases de Alexandre de Moraes que envelheceram mal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/6-frases-alexandre-de-moraes-que-envelheceram-mal/)_
+
+- **[2026-09-15 13:52 UTC]** Fachin inicia julgamento de Moraes citando 8 de janeiro e elogiando ministros
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-inicia-julgamento-de-moraes-citando-8-de-janeiro-e-elogiando-ministros/)_
+
+- **[2026-09-15 13:29 UTC]** Juristas católicos cobram transparência do STF no julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juristas-catolicos-cobram-transparencia-do-stf-no-julgamento-de-moraes/)_
+
+- **[2026-09-15 13:13 UTC]** Moraes aponta relatório da PF como parte de interferência estrangeira nas eleições de 2026
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/moraes-aponta-relatorio-da-pf-como-parte-de-interferencia-estrangeira-nas-eleicoes-de-2026/)_
+
+- **[2026-09-15 15:42 UTC]** Acompanhe ao vivo: STF julga se Alexandre de Moraes será investigado no caso Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acompanhe-ao-vivo-stf-decide-se-alexandre-de-moraes-sera-investigado-no-caso-vorcaro/)_
+
+- **[2026-09-15 17:36 UTC]** STF voltará às 15h para votar caso Moraes-Vorcaro: Moraes e Mendonça se enfrentaram com bate-boca; ‘Tenho testemunhas' e 'É mentira'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 15:14 UTC]** Por que Kassio Nunes Marques se declarou impedido de analisar futuro de Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmx2zlpklk6yo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 14:38 UTC]** 'A divergência é legítima, o confronto pessoal não', diz Fachin ao abrir sessão que decide futuro de  Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmy4zqp0vjq1o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 14:41 UTC]** Mendonça explica ao STF ordem para identificar pessoas em relatório da PF que cita Alexandre de Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx1l6znz98g8o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 12:31 UTC]** A defesa de Alexandre de Moraes antes da sessão no STF que definirá seu futuro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckr5074jnn90o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 16:33 UTC]** Apoiadores de Zema e Flávio protestam contra STF, Moraes e Lula durante sessão
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/apoiadores-de-zema-e-flavio-protestam-contra-stf-moraes-e-lula-durante-sessao.ghtml)_
+
+- **[2026-09-15 16:23 UTC]** Sessão do STF tem clima ruim, mensagens de celular e olhares furtivos de Moraes a Mendonça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/sesso-do-stf-tem-clima-ruim-mensagens-de-celular-e-olhares-furtivos-de-moraes-a-mendona.ghtml)_
+
+- **[2026-09-15 16:06 UTC]** Leitura de relatório e bate-boca entre ministros: como foi a primeira parte da sessão do STF para julgar Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/leitura-de-relatorio-e-bate-boca-entre-ministros-como-foi-a-primeira-etapa-da-sessao-do-stf-para-julgar-moraes.ghtml)_
+
+- **[2026-09-15 15:49 UTC]** Moraes e Mendonça sobem o tom; ministro pede julgamento conjunto e ameaça chamar testemunhas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-e-mendonca-sobem-o-tom-ministro-pede-julgamento-conjunto-e-ameaca-chamar-testemunhas.ghtml)_
+
+- **[2026-09-15 15:29 UTC]** STF: Dino critica Fachin por ter avocado relatoria de casos do Master, propõe redistribuição e adiamento de julgamento sobre Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-dino-critica-fachin-por-ter-avocado-relatoria-de-casos-do-master-prope-redistribuio-e-adiamento-de-julgamento-sobre-moraes.ghtml)_
+
+- **[2026-09-15 15:20 UTC]** Flávio, Caiado, Zema e Renan Santos reagem a julgamento de Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/candidatos-a-presidencia-reagem-a-julgamento-de-moraes-no-stf.ghtml)_
+
+- **[2026-09-15 14:48 UTC]** Fachin e Dino ensaiam bate-boca em sessão do STF sobre Moraes; veja o vídeo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/fachin-e-dino-ensaiam-bate-boca-em-sessao-do-stf-sobre-moraes-veja-o-video.ghtml)_
+
+- **[2026-09-15 14:48 UTC]** Nunes Marques e Toffoli não devem votar em julgamento sobre Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/nunes-marques-se-declara-impedido-em-julgamento-sobre-moraes.ghtml)_
+
+- **[2026-09-15 14:04 UTC]** STF abre sessão sobre Moraes com bate-boca entre Fachin e Dino e impedimento de ministros
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-nao-se-julgam-pessoas-julgam-se-fatos-e-questoes-juridicas-diz-fachin.ghtml)_
+
+- **[2026-09-15 13:19 UTC]** STF: Mendonça nega irregularidades em relatório que identifica Moraes como destinatário de mensagens de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-mendonca-nega-irregularidades-em-relatorio-que-identifica-moraes-como-destinatario-de-mensagens-de-vorcaro.ghtml)_
+
+- **[2026-09-15 13:05 UTC]** Flávio Bolsonaro diz que Lula dividiu poder com Moraes e deixou Brasil ‘sem presidente’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/flvio-bolsonaro-diz-que-lula-dividiu-poder-com-moraes-e-deixou-brasil-sem-presidente.ghtml)_
+
+- **[2026-09-15 12:59 UTC]** STF reforça segurança e faz cerco inédito para julgamento sobre Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/stf-reforca-seguranca-e-faz-cerco-inedito-para-julgamento-de-moraes.ghtml)_
+
+- **[2026-09-15 12:41 UTC]** Análise: Moraes pode se safar e derrotar Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/analise-moraes-pode-se-safar-e-derrotar-lula.ghtml)_
+
+- **[2026-09-15 17:25 UTC]** Zanin: não dá para investigar Moraes sem julgar atos de Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-nao-da-para-investigar-moraes-sem-julgar-atos-de-mendonca)_
+
+- **[2026-09-15 17:22 UTC]** Moraes defende que seu julgamento seja em conjunto com o de Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-defende-que-seu-julgamento-seja-em-conjunto-com-o-de-mendonca)_
+
+- **[2026-09-15 16:24 UTC]** Dino e Zanin votam para julgar Moraes e Mendonça na mesma sessão
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-e-zanin-votam-para-julgar-moraes-e-mendonca-na-mesma-sessao)_
+
+- **[2026-09-15 15:36 UTC]** STF: plenário vai decidir se julgará Moraes e Mendonça simultaneamente
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-plenario-vai-decidir-se-julgara-moraes-e-mendonca-simultaneamente)_
+
+- **[2026-09-15 14:26 UTC]** Moraes acusa Mendonça de querer incluir seu nome em delação de Vorcaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-acusa-mendonca-de-querer-incluir-seu-nome-em-delacao-de-vorcaro)_
+
+- **[2026-09-15 17:54 UTC]** Supremo tem placar de 4 a 2 para manter casos Moraes e Mendonça juntos
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/supremo-tem-placar-de-4-2-para-manter-casos-moraes-e-mendonca-juntos)_
+
+- **[2026-09-15 15:04 UTC]** STF tem manhã de conflitos em sessão sobre relação de Moraes e Vorcaro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/stf-tem-manha-de-conflitos-em-sessao-sobre-relacao-de-moraes-e-vorcaro)_
+
+- **[2026-09-15 21:04 UTC]** Plenário do STF analisa relatório da PF sobre relação entre Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
+
+- **[2026-09-15 20:49 UTC]** Moraes diz que não 'houve monitoramento algum' do ministro Mendonça em relatório de inteligência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/moraes-diz-que-nao-houve-monitoramento-algum-do-ministro-mendonca-em-relatorio-de-inteligencia.ghtml)_
+
+- **[2026-09-15 18:35 UTC]** Gilmar, Dino, Zanin e Moraes defendem análise conjunta de casos de ministros; Fachin e Mendonça votam para manter separados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/na-retomada-de-julgamento-fachin-vota-para-rejeitar-pedido-para-adiar-julgamento-de-moraes-e-de-analisar-caso-com-o-de-mendonca.ghtml)_
+
+- **[2026-09-15 15:21 UTC]** Gilmar acolhe sugestão de Dino e propõe adiar sessão sobre Moraes; ministros querem análise conjunta com situação de Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/dino-pede-que-julgamento-de-relatorio-sobre-moraes-seja-feito-em-conjunto-com-sessao-sobre-mendonca-no-dia-23-de-setembro.ghtml)_
+
+- **[2026-09-15 17:44 UTC]** Moraes se defende, questiona Fachin e reclama de prazo diferente dado a Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-se-defende-questiona-fachin-e-reclama-de-prazo-diferente-dado-a-mendonca.shtml)_
+
+- **[2026-09-15 16:43 UTC]** 'Até a máfia tem ética': Veja frases marcantes da sessão do STF que discute futuro de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-frases-marcantes-da-sessao-do-stf-que-discute-futuro-de-alexandre-de-moraes.shtml)_
+
+- **[2026-09-15 14:55 UTC]** Presença de delegado da PF em gabinete de Moraes foi questionada em julgamento de golpe
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/presenca-de-delegado-da-pf-em-gabinete-de-moraes-foi-questionada-em-julgamento-de-golpe.shtml)_
+
+- **[2026-09-15 21:01 UTC]** Dino adia julgamento de Moraes em meio a bate-boca entre ministros
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-adia-julgamento-de-moraes-em-meio-a-bate-boca-entre-ministros/)_
+
+- **[2026-09-15 20:50 UTC]** Mendonça cita compra de terno para defender apuração contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-cita-compra-de-terno-para-defender-apuracao-contra-moraes/)_
+
+- **[2026-09-15 20:31 UTC]** Moraes vota em seu próprio julgamento e diz que não pode ser investigado sem pedido da PGR
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-argumenta-que-nao-pode-ser-investigado-por-falta-de-pedido-da-pgr-vai-votar-o-que/)_
+
+- **[2026-09-15 20:06 UTC]** Dino sai em defesa de Moraes e diz que STF não pode seguir “tribunal do Facebook”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-sai-em-defesa-de-moraes-e-diz-que-stf-nao-pode-seguir-tribunal-do-facebook/)_
+
+- **[2026-09-15 19:57 UTC]** Dino abraça Fachin e Moraes não olha para Mendonça: os bastidores da sessão do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-abraca-fachin-e-moraes-nao-olha-para-mendonca-os-bastidores-da-sessao-do-stf/)_
+
+- **[2026-09-15 19:43 UTC]** Álibi eleitoral disfarça recuo de Nunes Marques e pode dar maioria para Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alibi-eleitoral-disfarca-recuo-de-nunes-marques-e-pode-dar-maioria-para-moraes/)_
+
+- **[2026-09-15 19:12 UTC]** Imprensa internacional repercute julgamento no STF sobre abertura de investigação contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/imprensa-internacional-repercute-julgamento-no-stf-sobre-abertura-de-investigacao-contra-moraes/)_
+
+- **[2026-09-15 18:36 UTC]** Nikolas convoca ato nas ruas para próxima sessão do STF sobre Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/nikolas-convoca-ato-nas-ruas-para-proxima-sessao-do-stf-sobre-moraes/)_
+
+- **[2026-09-15 21:03 UTC]** Mendonça e Fux acompanham Fachin e votam contra unir casos de ministros; Dino, Zanin e Moraes divergem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-julgamento-moraes-stf-dialogos-vorcaro-mendonca/)_
+
+- **[2026-09-15 18:21 UTC]** Supremo Tribunal Federal decide se investiga relação de Moraes com ex-banqueiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-decide-se-investiga-relacao-de-moraes-com-ex-banqueiro/)_
+
+- **[2026-09-15 18:10 UTC]** Assista aos embates do julgamento no STF que define o futuro de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/assista-aos-momentos-mais-tensos-no-julgamento-do-stf-que-define-futuro-de-moraes/)_
+
+- **[2026-09-15 17:54 UTC]** Fachin defende independência do STF em abertura de julgamento sobre Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-defende-independencia-do-stf-em-abertura-de-julgamento-sobre-moraes/)_
+
+- **[2026-09-15 17:37 UTC]** STF deixará acusações contra Moraes de lado e julgará sorteio de relator após intervalo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-deixara-acusacoes-contra-moraes-de-lado-e-julgara-sorteio-de-relator-apos-intervalo/)_
+
+- **[2026-09-15 21:07 UTC]** Dino pede vista, mas Fachin convida Fux e Cármen a votar ainda hoje; placar está 4x3 para adiar julgamento de Moraes, siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 20:37 UTC]** Os bate-bocas entre ministros na sessão sobre caso Moraes-Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4gv32zgljeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 15:50 UTC]** Kássio Nunes se declara impedido de participar de sessão sobre caso Moraes-Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/programmes/p0p9r7fp?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 20:47 UTC]** Mendonça vota para manter separados julgamento sobre Moraes e pedido de investigação contra ele: 'não são coisas comparáveis'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/mendonca-vota-para-manter-separados-julgamento-sobre-moraes-e-pedido-de-investigacao-contra-ele.ghtml)_
+
+- **[2026-09-15 20:03 UTC]** Alexandre de Moraes diz que Fachin deu tratamento diferente a ele e a Mendonça em processos no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/moraes-pede-equidade-nos-pedidos-de-investigacao-contra-ele-e-contra-andre-mendonca.ghtml)_
+
+- **[2026-09-15 19:02 UTC]** Dino pede vista e adia julgamento de Moraes no STF; Fux e Cármen Lúcia vão antecipar votos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
+
+- **[2026-09-15 18:01 UTC]** Juntar casos de Moraes e Mendonça abre risco de 'contaminação', sugere especialista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/juntar-casos-de-moraes-e-mendona-abre-risco-de-contaminao-sugere-especialista.ghtml)_
+
+- **[2026-09-15 18:05 UTC]** Flávio Dino pede vista de julgamento sobre Moraes e Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/flavio-dino-pede-vista-de-julgamento-sobre-moraes-e-mendonca)_
+
+- **[2026-09-15 17:37 UTC]** Mendonça acompanha Fachin e vota por julgamento separado de Moraes
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-acompanha-fachin-e-vota-por-julgamento-separado-de-moraes)_
+
+- **[2026-09-15 19:41 UTC]** Ministro Flávio Dino pede vista do julgamento sobre Moraes e Mendonça
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/ministro-flavio-dino-pede-vista-do-julgamento-sobre-moraes-e-mendonca)_
+
+- **[2026-09-15 21:47 UTC]** STF: placar fica em 4 a 3 para julgar separadas petições de Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml)_
+
+- **[2026-09-15 21:31 UTC]** Caiado considera que STF está em 'fase procrastinatória' e pede abertura de investigação contra Alexandre de Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/caiado-considera-que-stf-esta-em-fase-procrastinatoria-e-pede-abertura-de-investigacao-contra-alexandre-de-moraes.ghtml)_
+
+- **[2026-09-15 21:14 UTC]** 'Profunda consternação e tristeza': Cármen Lúcia pede desculpas ao povo brasileiro em julgamento sobre Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/carmen-lucia-diz-estar-em-estado-de-profunda-consternacao-e-tristeza.ghtml)_
+
+- **[2026-09-15 21:10 UTC]** Relatório sobre Moraes: STF tem discussão sobre 'avocatória', nulidade e Fachin ter puxado caso para si
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/relatorio-sobre-moraes-stf-tem-discussao-sobre-rito-nulidade-e-fachin-ter-puxado-caso-para-si.ghtml)_
+
+- **[2026-09-15 18:35 UTC]** Após pedido de vista, STF interrompe sessão sem definir se junta ou mantém separados casos de Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/na-retomada-de-julgamento-fachin-vota-para-rejeitar-pedido-para-adiar-julgamento-de-moraes-e-de-analisar-caso-com-o-de-mendonca.ghtml)_
+
+- **[2026-09-15 18:32 UTC]** Fachin suspende sessão no STF com ministros rachados e sem decidir sobre análise de casos Moraes e Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-sessao-no-stf-com-ministros-rachados-e-sem-decidir-sobre-analise-de-casos-moraes-e-mendonca.shtml)_
+
+- **[2026-09-15 23:27 UTC]** Flávio aposta em “efeito Moraes” e em crise do STF para desgastar Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-efeito-moraes-e-em-crise-do-stf-para-desgastar-lula/)_
+
+- **[2026-09-15 22:34 UTC]** Flávio Dino suspende julgamento sobre investigação contra Alexandre de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-sobre-investigacao-contra-alexandre-de-moraes/)_
+
+- **[2026-09-15 23:18 UTC]** Rixa entre Gilmar e Mendonça adia decisão sobre investigação contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rixa-entre-gilmar-e-mendonca-adia-decisao-sobre-investigacao-contra-moraes/)_
+
+- **[2026-09-15 21:22 UTC]** Cármen Lúcia se diz “envergonhada” e “triste” por momento do STF no julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/carmen-lucia-se-diz-envergonhada-e-triste-por-momento-do-stf-no-julgamento-de-moraes/)_
+
+- **[2026-09-15 22:03 UTC]** STF encerra sessão com pedido de vista de Dino e sem definir se une casos Moraes e Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-julgamento-moraes-stf-dialogos-vorcaro-mendonca/)_
+
+- **[2026-09-15 23:38 UTC]** Dino pede vista, e STF adia análise do caso Moraes; veja como foi o julgamento
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 22:57 UTC]** 'Pode chorar': os bate-bocas entre ministros na sessão sobre caso Moraes-Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4gv32zgljeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 16:50 UTC]** Moraes ataca Mendonça no STF: 'Quem tem medo da Polícia Federal?'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq9v9xm48zrro?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 22:09 UTC]** Fachin encerra sessão do STF, que tem 4x3 para votar caso de Moraes separadamente; veja como foi
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/ao-vivo/2026/09/15/julgamento-alexandre-de-moraes-stf-ao-vivo.ghtml)_
+
+- **[2026-09-15 21:53 UTC]** 'Supremo provocou mal-estar cívico', diz Cármen Lúcia ao votar para manter julgamento de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/carmen-lucia-vota-para-manter-julgamento-sobre-moraes.ghtml)_
+
+- **[2026-09-15 21:35 UTC]** O que é pedido de vista, feito por Dino no julgamento sobre Moraes no STF? Entenda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/o-que-e-pedido-de-vista-feito-por-dino-no-julgamento-sobre-moraes-no-stf-entenda.ghtml)_
+
+- **[2026-09-15 19:02 UTC]** STF suspende sessão sobre relação de Vorcaro e Moraes após pedido de vista de Flávio Dino
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
+
+- **[2026-09-15 20:37 UTC]** Entenda: STF encerra sessão sem definir casos sobre Moraes e Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/entenda-stf-encerra-sessao-sem-definir-casos-sobre-moraes-e-mendonca)_
+
+- **[2026-09-15 22:03 UTC]** Sessão do STF termina sem definir processos de Moraes e Mendonça
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/sessao-do-stf-termina-sem-definir-processos-de-moraes-e-mendonca)_
+
+- **[2026-09-16 03:00 UTC]** Bate-bocas, pedido de vista e indefinição: veja em 10 pontos como foi a sessão do STF sobre o caso Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/bate-bocas-pedido-de-vista-e-indefinicao-veja-em-10-pontos-como-foi-a-sessao-do-stf-sobre-o-caso-moraes.ghtml)_
+
+- **[2026-09-16 03:00 UTC]** Pedido de vista trava julgamento no STF antes de analisar se Moraes deve ser investigado; entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/pedido-de-vista-trava-julgamento-no-stf-antes-de-analisar-se-moraes-deve-ser-investigado-entenda.ghtml)_
+
+- **[2026-09-16 00:28 UTC]** Em dia de julgamento no STF, Flávio Bolsonaro liga Lula a Moraes, e presidente explora investigação contra senador em horário eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/15/em-dia-de-julgamento-no-stf-flavio-bolsonaro-liga-lula-a-moraes-e-presidente-explora-investigacao-contra-senador.ghtml)_
+
+- **[2026-09-15 23:00 UTC]** Relatoria de Fachin e tese de grupo pró-Moraes em sessão do STF são questionadas por especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/relatoria-de-fachin-e-tese-de-grupo-pro-moraes-em-sessao-do-stf-sao-questionadas-por-especialistas.shtml)_
+
+- **[2026-09-15 22:51 UTC]** STF tem incertezas sobre próximos passos dos casos Moraes e Mendonça; entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-tem-incertezas-sobre-proximos-passos-dos-casos-moraes-e-mendonca-entenda.shtml)_
+
+- **[2026-09-15 22:31 UTC]** Lula tenta se afastar de STF e Moraes, e Flávio Bolsonaro busca carimbar crise no governo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-se-afastar-de-stf-e-moraes-e-flavio-bolsonaro-busca-carimbar-crise-no-governo.shtml)_
+
+- **[2026-09-15 22:25 UTC]** Dino lidera reação de grupo pró-Moraes, que tenta ganhar tempo e mira Fachin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-lidera-reacao-de-grupo-pro-moraes-que-tenta-ganhar-tempo-e-mira-fachin.shtml)_
+
+- **[2026-09-15 21:55 UTC]** Veja, meme a meme, como foi a sessão do STF sobre investigação de Alexandre de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/09/veja-meme-a-meme-como-foi-a-sessao-do-stf-sobre-investigacao-de-alexandre-de-moraes.shtml)_
+
+- **[2026-09-15 21:46 UTC]** Regimento do STF prevê voto de Fachin para desempate, mas há dúvida sobre aplicação em caso Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/regimento-do-stf-preve-que-voto-de-fachin-pode-desempatar-julgamentos-mas-ha-duvida-sobre-aplicacao-em-caso-moraes.shtml)_
+
+- **[2026-09-15 21:15 UTC]** Veja como votou cada ministro do STF em sessão sobre Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-como-votou-cada-ministro-do-stf-em-sessao-sobre-moraes.shtml)_
+
+- **[2026-09-15 21:00 UTC]** Campanha de Flávio quer impedir Moraes de assumir STF, mas se divide quanto a estratégia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-quer-impedir-moraes-de-assumir-stf-mas-se-divide-quanto-a-estrategia.shtml)_
+
+- **[2026-09-15 20:42 UTC]** Torcida petista por Moraes custará a eleição de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/torcida-petista-por-moraes-custara-a-eleicao-de-lula.shtml)_
+
+- **[2026-09-15 18:32 UTC]** Dino pede vista, e sessão no STF é suspensa com ministros rachados sobre casos Moraes e Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-suspende-sessao-no-stf-com-ministros-rachados-e-sem-decidir-sobre-analise-de-casos-moraes-e-mendonca.shtml)_
+
+- **[2026-09-16 04:09 UTC]** Supremo avalia regras de desempate para decidir sobre investigação de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/supremo-avalia-regras-de-desempate-para-decidir-sobre-investigacao-de-moraes/)_
+
+- **[2026-09-16 02:20 UTC]** 7 dúvidas que o caótico julgamento de Moraes deixou abertas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/7-duvidas-que-o-caotico-julgamento-de-moraes-deixou-abertas/)_
+
+- **[2026-09-16 01:10 UTC]** Gilmar e Dino sabotam julgamento com tumulto e subterfúgios para blindar Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-e-dino-sabotam-julgamento-com-tumulto-e-subterfugios-para-blindar-moraes/)_
+
+- **[2026-09-16 00:41 UTC]** Senadores defendem reforma do Judiciário após pedido de vista em julgamento de Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senadores-defendem-reforma-do-judiciario-apos-pedido-de-vista-em-julgamento-de-moraes-no-stf/)_
+
+- **[2026-09-16 00:09 UTC]** Possível empate entre ministros gera impasse sobre abertura de inquérito contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/possivel-empate-ministros-impasse-abertura-inquerito-moraes/)_
+
+- **[2026-09-15 23:44 UTC]** Nunes Marques alega impedimento e desfalca julgamento sobre Alexandre de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-alega-impedimento-e-desfalca-julgamento-sobre-alexandre-de-moraes/)_
+
+- **[2026-09-16 02:46 UTC]** STF não decide sobre Alexandre de Moraes e crise se prolonga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 23:51 UTC]** Moraes e Mendonça deveriam ser impedidos de votar? Juristas respondem perguntas de leitores da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwkgvk44l5jeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 00:05 UTC]** O que é pedido de vista e o que acontece agora no caso Alexandre de Moraes?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqj9xr3y2j2mo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 01:35 UTC]** Votar em Lula é votar em Moraes, diz Flávio Bolsonaro em evento em Fortaleza
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/15/votar-em-lula-votar-em-moraes-diz-flvio-em-evento-em-fortaleza.ghtml)_
+
+- **[2026-09-15 19:02 UTC]** STF suspende sessão sem decidir sobre suspeita de ligação entre Alexandre de Moraes e Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/15/ministros-do-stf-decidem-se-processos-de-moraes-e-mendonca-devem-ser-votados-ao-mesmo-tempo.ghtml)_
+
+- **[2026-09-16 07:00 UTC]** Impasse em sessão do STF sobre Moraes pode adiar análise sobre a condução de Mendonça do caso Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/impasse-em-sessao-do-stf-sobre-moraes-pode-adiar-analise-sobre-a-conducao-de-mendonca-do-caso-master.ghtml)_
+
+- **[2026-09-16 06:11 UTC]** STF suspende análise sobre investigação de Moraes após pedido de vista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-suspende-analise-sobre-investigacao-de-moraes-apos-pedido-de-vista/)_
+
+- **[2026-09-16 05:11 UTC]** Ministros do STF suspendem decisão sobre investigação contra Moraes no plenário
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministros-do-stf-suspendem-decisao-sobre-investigacao-contra-moraes-no-plenario/)_
+
+- **[2026-09-16 05:00 UTC]** Podcast analisa pedido de vista de Dino e falta de definição sobre Moraes em sessão do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-analisa-pedido-de-vista-de-dino-e-falta-de-definicao-sobre-moraes-em-sessao-do-stf.shtml)_
+
+- **[2026-09-15 20:17 UTC]** Fachin e Mendonça votam contra adiar julgamento; Dino, Zanin e Moraes divergem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-julgamento-moraes-stf-dialogos-vorcaro-mendonca/)_
+
+- **[2026-09-16 08:21 UTC]** Quem venceu primeiro embate da batalha entre Moraes e Mendonça no STF? O que dizem os analistas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 23:51 UTC]** Moraes e Mendonça deveriam ser impedidos de votar? Juristas respondem perguntas de leitores da BBC sobre sessão histórica do STF
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwkgvk44l5jeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 08:00 UTC]** Lula defende apuração, e oposição tenta ligá-lo a Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/16/lula-defende-apuracao-e-oposicao-tenta-liga-lo-a-moraes.ghtml)_
+
+- **[2026-09-16 08:00 UTC]** Dino pede vista, e STF suspende sessão sem decidir se Moraes deve ser investigado
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/16/dino-pede-vista-e-stf-suspende-sessao-sem-decidir-se-moraes-deve-ser-investigado.ghtml)_
+
+- **[2026-09-16 13:14 UTC]** Crise no STF: Lula diz que não é responsável por Moraes e que 'quem cometeu delito tem que pagar'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/crise-no-stf-lula-diz-que-quem-cometeu-erro-tem-que-pagar.ghtml)_
+
+- **[2026-09-16 11:02 UTC]** Ala de Moraes se articula para espalhar crise, expor cinturão de Vorcaro e disputa controle das investigações
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/16/ala-de-moraes-se-articula-para-espalhar-crise-expor-cinturao-de-vorcaro-e-disputa-controle-das-investigacoes.ghtml)_
+
+- **[2026-09-16 10:24 UTC]** Vitória momentânea de Moraes e Fachin acuado: o saldo da sessão do STF sobre caso Moraes-Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/16/saldo-da-sessao-do-stf-sobre-caso-moraes-vorcaro.ghtml)_
+
+- **[2026-09-16 10:37 UTC]** Como funcionam os drones com câmera térmica usados em julgamento de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/como-funcionam-os-drones-com-camera-termica-usados-em-julgamento-de-moraes.shtml)_
+
+- **[2026-09-16 10:21 UTC]** Lula diz que Flávio tem 'bronca' com Moraes por julgamento do 8/1 e que ministro prestou serviço à democracia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-flavio-tem-bronca-com-moraes-por-julgamento-do-81-e-que-ministro-prestou-servico-a-democracia.shtml)_
+
+- **[2026-09-15 22:51 UTC]** O que pode acontecer nos casos de Moraes e Mendonça após pedido de vista? Veja perguntas e respostas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-tem-incertezas-sobre-proximos-passos-dos-casos-moraes-e-mendonca-entenda.shtml)_
+
+- **[2026-09-16 11:29 UTC]** Após sessão conturbada, STF retoma pauta com ação relatada por Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-sessao-conturbada-stf-retoma-pauta-com-licenca-maternidade-planos-de-saude-e-parque-estadual/)_
+
+- **[2026-09-16 11:36 UTC]** Deputado federal Adail Filho é alvo de operação da PF autorizada por Alexandre de Moraes; investigação apura suspeitas de corrupção e lavagem de dinheiro
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/16/pf-apura-suspeitas-de-fraudes-em-contratos-publicos-no-amazonas.ghtml)_
+
+- **[2026-09-16 14:11 UTC]** Lula diz que Flávio tem 'raiva' e 'bronca' de Moraes porque ministro mandou prender Bolsonaro: 'é o pavor dele'
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/16/lula-diz-que-flavio-tem-raiva-e-bronca-de-moraes-porque-ministro-mandou-prender-bolsonaro-e-o-pavor-dele.ghtml)_
+
+- **[2026-09-16 17:55 UTC]** STF se reúne um dia após julgamento sobre Moraes; ASSISTA
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/stf-sessao-apos-julgamento-sobre-moraes.ghtml)_
+
+- **[2026-09-16 11:02 UTC]** Ala de Moraes se articula para espalhar crise, expor cinturão de Vorcaro e disputar controle das investigações
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/16/ala-de-moraes-se-articula-para-espalhar-crise-expor-cinturao-de-vorcaro-e-disputa-controle-das-investigacoes.ghtml)_
+
+- **[2026-09-16 15:02 UTC]** STF realiza primeiro julgamento após sessão sobre Moraes marcada por embates
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/stf-realiza-primeiro-julgamento-apos-sessao-sobre-moraes-marcada-por-embates.shtml)_
+
+- **[2026-09-16 13:23 UTC]** Alexandre de Moraes seria derrotado no STF, mas 'explosão' de Nunes Marques reverteu o quadro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/alexandre-de-moraes-seria-derrotado-no-stf-mas-explosao-de-nunes-marques-reverteu-o-quadro.shtml)_
+
+- **[2026-09-16 13:00 UTC]** STF perde oportunidade, e omissão sobre Moraes pode influir na eleição, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ministro-so-reclama-de-decisao-monocratica-quando-e-do-outro-diz-especialista.shtml)_
+
+- **[2026-09-16 16:18 UTC]** Atuação de Dino para melar julgamento de Moraes cola imagem de Lula ao escândalo do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/atuacao-dino-melar-julgamento-moraes-cola-imagem-lula-escandalo-stf/)_
+
+- **[2026-09-16 14:54 UTC]** Lula tenta se afastar de Moraes, mas diz que ministro prestou “grandes serviços” à democracia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-tenta-se-distanciar-crise-moraes-diz-que-nao-o-indicou-a-corte/)_
+
+- **[2026-09-16 07:50 UTC]** Flávio Dino no STF: qual foi seu papel no julgamento de Moraes e por que pediu vista
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 15:17 UTC]** STF: como votou cada ministro no julgamento de Alexandre de Moraes e como ficou o placar
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9rk3r6lylmpo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 18:21 UTC]** STF adia julgamento do caso Moraes; veja como foi a sessão e o resultado da votação
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 15:43 UTC]** STF retoma sessões após suspensão de casos Moraes e Mendonça
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-retoma-sesoes-apos-suspensao-de-casos-moraes-e-mendonca)_
+
+- **[2026-09-16 17:44 UTC]** Campanha de Flávio vai aumentar ataques a Dino e equipará-los às críticas feitas a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-vai-aumentar-ataques-a-dino-e-equiparar-as-criticas-feitas-a-moraes.shtml)_
+
+- **[2026-09-16 17:36 UTC]** Entenda por que Moraes e Mendonça votaram sobre investigação, mas Nunes Marques e Toffoli não
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/entenda-por-que-moraes-e-mendonca-votaram-sobre-investigacao-mas-nunes-marques-e-toffoli-nao.shtml)_
+
+- **[2026-09-16 15:20 UTC]** Vídeo compila bate-bocas entre ministros em sessão sobre Moraes no STF; assista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/video-compila-bate-bocas-entre-ministros-em-sessao-sobre-moraes-no-stf-assista.shtml)_
+
+- **[2026-09-16 21:21 UTC]** Eduardo Bolsonaro se reúne com membros do governo Trump e pede sanções contra Moraes, Gilmar e Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eduardo-bolsonaro-se-reune-com-membros-do-governo-trump-e-pede-sancoes-contra-moraes-gilmar-e-dino/)_
+
+- **[2026-09-16 20:19 UTC]** Flávio Dino suspende julgamento de Moraes e associa governo Lula ao caso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-suspende-julgamento-de-moraes-e-associa-governo-lula-ao-caso/)_
+
+- **[2026-09-16 18:25 UTC]** Alcolumbre se torna alvo de campanhas eleitorais em meio a julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alcolumbre-alvo-campanhas-eleitorais/)_
+
+- **[2026-09-16 19:09 UTC]** Moraes falta ao começo da primeira sessão do STF após julgamento com bate-boca
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-gilmar-faltam-primeira-sessao-stf-apos-julgamento-com-bate-boca/)_
+
+- **[2026-09-16 18:47 UTC]** Por que julgamento do caso Moraes no STF pode ser retomado só em 2027
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 19:54 UTC]** Moraes vota para igualar tempo de licenças-maternidade e adotante
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-vota-para-igualar-tempo-de-licencas-maternidade-e-adotante)_
+
+- **[2026-09-16 21:55 UTC]** Moraes vota para igualar licença maternidade de mães biológica e adotivas; julgamento é suspenso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/16/moraes-vota-para-igualar-licenca-maternidade-de-maes-biologica-e-adotivas-julgamento-e-suspenso.ghtml)_
+
+- **[2026-09-16 19:32 UTC]** Padrinho de Moraes no STF, Temer se encontra com aliados de Mendonça em SP e busca atenuar crise
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/padrinho-de-moraes-no-stf-temer-se-encontra-com-aliados-de-mendonca-em-sp-e-busca-atenuar-crise.shtml)_
+
+- **[2026-09-16 18:41 UTC]** Deputado americano cita Moraes e pede ação da OEA sobre liberdade de expressão no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/deputado-americano-cita-moraes-e-pede-acao-da-oea-sobre-liberdade-de-expressao-no-brasil.shtml)_
+
+- **[2026-09-16 23:58 UTC]** Julgamento de Moraes expõe “degradação” do STF, diz Transparência Internacional
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/julgamento-de-moraes-expoe-degradacao-do-stf-diz-transparencia-internacional/)_
+
+- **[2026-09-16 22:23 UTC]** Em comício no Recife, Flávio Bolsonaro diz que Lula 'deve seu mandato' a Alexandre de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/em-comicio-no-recife-flavio-bolsonaro-diz-que-lula-deve-seu-mandato-a-alexandre-de-moraes.ghtml)_
+
+- **[2026-09-16 22:03 UTC]** Entenda o que está acontecendo no STF — e os próximos passos do processo contra Moraes e Mendonça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/16/entenda-o-que-esta-acontecendo-no-stf-e-os-proximos-passos-a-partir-de-agora.ghtml)_
+
+- **[2026-09-17 03:00 UTC]** Crise no STF: campanha de Lula defende 'virar a página' da disputa entre Moraes e Mendonça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/17/crise-no-stf-campanha-de-lula-defende-virar-a-pagina-da-disputa-entre-moraes-e-mendonca.ghtml)_
+
+- **[2026-09-16 23:00 UTC]** Dino apontou em ofício impedimento de Moraes, que tem voto criticado por especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-apontou-em-oficio-impedimento-de-moraes-que-tem-voto-criticado-por-especialistas.shtml)_
+
+- **[2026-09-16 22:31 UTC]** Defesa de Moraes fala em vícios no processo e diz que não houve favorecimento ao Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-mira-vicio-processual-e-falta-de-ato-de-oficio-a-favor-do-master-como-estrategia-de-defesa.shtml)_
+
+- **[2026-09-17 00:15 UTC]** Campanha de Lula vê erro em pedido de vista de Dino em caso Moraes no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/campanha-de-lula-ve-erro-em-pedido-de-vista-de-dino-em-caso-moraes-no-stf.ghtml)_
+
+- **[2026-09-17 09:27 UTC]** Flávio cola Lula a Moraes e foca em Nordeste
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/flavio-cola-lula-a-moraes-e-foca-em-nordeste.ghtml)_
+
+- **[2026-09-17 15:05 UTC]** Nunes Marques sofreu pressão em múltiplas frentes antes de se afastar do julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-sofreu-pressao-em-multiplas-frentes-antes-de-se-afastar-do-julgamento-de-moraes/)_
+
+- **[2026-09-17 14:46 UTC]** André Mendonça tem aprovação maior que Alexandre de Moraes em pesquisa do PoderData
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andre-mendonca-tem-aprovacao-maior-que-alexandre-de-moraes-em-pesquisa-do-poderdata/)_
+
+- **[2026-09-17 13:56 UTC]** Crise no STF chega a Washington: Moraes, Gilmar e Dino na mira dos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-no-stf-chega-a-washington-moraes-gilmar-e-dino-na-mira-dos-eua/)_
+
+- **[2026-09-17 10:56 UTC]** Deputado dos EUA cobra OEA sobre Moraes e proximidade de observador eleitoral com Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/deputado-eua-cobra-oea-moraes-proximidade-observador-eleitoral-lula/)_
+
+- **[2026-09-17 10:21 UTC]** Moraes cobra explicações por fiscalização de deputado à cadeia de Filipe Martins
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-cobra-explicacoes-por-fiscalizacao-de-deputado-a-cadeia-de-filipe-martins/)_
+
+- **[2026-09-17 15:03 UTC]** Caiado chama Flávio de 'kinder ovo' e associa Lula a Alexandre de Moraes: 'Vorcaro comprou os dois lados'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/caiado-chama-flavio-de-kinder-ovo-e-associa-lula-a-alexandre-de-moraes-vorcaro-comprou-os-dois-lados.ghtml)_
+
+- **[2026-09-17 18:54 UTC]** Lula diz que julgamento sobre Alexandre de Moraes e André Mendonça deveriam ser feitos juntos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/lula-diz-que-julgamento-sobre-alexandre-de-moraes-e-andre-mendonca-deveriam-ser-feitos-juntos.ghtml)_
+
+- **[2026-09-17 15:46 UTC]** Fachin desmarca sessão do STF que analisaria pedido de Moraes contra Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-desmarca-sessao-stf-analisaria-pedido-moraes-contra-mendonca/)_
+
+- **[2026-09-17 18:54 UTC]** Lula defende julgamento conjunto de Moraes e Mendonça e cobra divulgação de informações do caso Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/lula-diz-que-julgamento-sobre-alexandre-de-moraes-e-andre-mendonca-deveriam-ser-feitos-juntos.ghtml)_
+
+- **[2026-09-17 17:59 UTC]** Para Lula, é melhor que falem de Bolsa Família do que de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/para-lula-e-melhor-que-falem-de-bolsa-familia-do-que-de-moraes.shtml)_
+
+- **[2026-09-17 17:53 UTC]** Kassio pede à PF acesso à íntegra de diálogos de Vorcaro já entregue a Zanin, Gilmar, Moraes, Mendonça e Fux
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/kassio-pede-a-pf-acesso-a-integra-de-dialogos-de-vorcaro-ja-entregue-a-zanin-gilmar-e-moraes.shtml)_
+
+- **[2026-09-17 23:00 UTC]** Lula reclama de atuação de Flávio Dino em sessão sobre Alexandre de Moraes no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-reclama-de-atuacao-de-flavio-dino-em-sessao-sobre-alexandre-de-moraes-no-stf.shtml)_
+
+- **[2026-09-18 00:52 UTC]** Novo pede que Moraes seja impedido de votar em processo no qual é alvo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-pede-que-moraes-seja-impedido-de-votar-em-processo-no-qual-e-alvo/)_
+
+- **[2026-09-18 00:50 UTC]** Moraes lançará STF em crise inédita se assumir presidência sem esclarecer acusações
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-stf-crise-inedita-presidencia-esclarecer-acusacoes/)_
+
+- **[2026-09-18 15:08 UTC]** EUA e soberania voltam a ser tema de campanha de Lula; Eduardo Bolsonaro trabalha por novas sanções contra Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/18/eua-e-soberania-voltam-a-ser-tema-de-campanha-de-lula-eduardo-bolsonaro-trabalha-por-novas-sancoes-contra-moraes.ghtml)_
+
+- **[2026-09-18 12:15 UTC]** Ex-ministra do STJ diz que investigação contra Moraes vai implodir a República e pode prejudicar as eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/ex-ministra-do-stj-diz-que-investigacao-contra-moraes-vai-implodir-a-republica-e-pode-prejudicar-as-eleicoes.shtml)_
+
+- **[2026-09-18 17:29 UTC]** 'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-19 12:31 UTC]** Resumo da semana: EUA avaliam novas sanções contra Moraes e ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/resumo-da-semana-eua-avaliam-novas-sancoes-contra-moraes-e-ministros-do-stf/)_
+
+- **[2026-09-19 18:00 UTC]** PT votou em bloco contra indicação de Moraes em 2017 e reclamou de sua atitude militante
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pt-votou-em-bloco-contra-indicacao-de-moraes-em-2017-e-reclamou-de-sua-atitude-militante.shtml)_
+
+- **[2026-09-20 03:00 UTC]** Julgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/20/julgamento-sobre-moraes-deixa-questoes-em-aberto-no-stf-entenda-o-que-ainda-precisa-ser-definido.ghtml)_
+
+- **[2026-09-20 13:34 UTC]** Vídeo mostra Moraes e Viviane desembarcando de jatinho ligado a Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/video-mostra-moraes-e-viviane-desembarcango-de-jatinho-ligado-a-vorcaro/)_
+
+- **[2026-09-20 13:16 UTC]** Vídeo mostra Moraes e esposa desembarcando de jatinho de empresa de Vorcaro, aponta jornal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/20/vdeo-mostra-moraes-e-esposa-desembarcando-de-jatinho-de-empresa-de-vorcaro-aponta-jornal.ghtml)_
+
+- **[2026-09-20 17:05 UTC]** Vídeo mostra Moraes desembarcando de jatinho de empresa de Vorcaro; avião foi apontado pela PF como pagamento ao escritório da esposa do ministro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/20/video-mostra-moraes-desembarcando-de-jatinho-de-empresa-de-vorcaro-aviao-foi-apontado-pela-pf-como-pagamento-ao-escritorio-da-esposa-do-ministro.ghtml)_
+
+- **[2026-09-20 13:22 UTC]** Vídeo registra Alexandre de Moraes saindo de avião de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/video-registra-alexandre-de-moraes-saindo-de-aviao-de-vorcaro.shtml)_
+
+- **[2026-09-20 14:33 UTC]** Vorcaro abriu mão de jatinho para manter voo de Moraes: “Não deixe de atender Barci”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-abriu-mao-de-jatinho-para-manter-voo-de-moraes/)_
+
+- **[2026-09-20 14:04 UTC]** Mulher de Moraes nega vínculo pessoal com Vorcaro em viagem de jatinho
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mulher-de-moraes-nega-vinculo-em-viagem-de-jatinho-ligado-vorcaro)_
+
+- **[2026-09-20 17:05 UTC]** Vídeo mostra Moraes e esposa saindo de jatinho de empresa de Vorcaro em 2025; escritório Barci de Moraes nega irregularidade
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/20/video-mostra-moraes-desembarcando-de-jatinho-de-empresa-de-vorcaro-aviao-foi-apontado-pela-pf-como-pagamento-ao-escritorio-da-esposa-do-ministro.ghtml)_
+
+- **[2026-09-20 16:40 UTC]** Jato de Vorcaro em que Moraes viajou transporta até 14 passageiros; conheça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/jato-de-vorcaro-em-que-moraes-viajou-transporta-ate-14-passageiros-conheca.shtml)_
+
+- **[2026-09-20 19:54 UTC]** Escritório de esposa de Moraes confirma voos em jatinho ligado a Vorcaro após vídeo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/escritorio-esposa-moraes-confirma-voos-jatinho-vorcaro-video/)_
+
+- **[2026-09-20 18:38 UTC]** Veja cronologia da relação de Moraes e Vorcaro até a prisão de ex-banqueiro, segundo mensagens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-cronologia-da-relacao-de-moraes-e-vorcaro-ate-a-prisao-de-ex-banqueiro-segundo-mensagens.shtml)_
+
+- **[2026-09-20 21:03 UTC]** Escritório da esposa de Moraes nega vínculo pessoal com Vorcaro em viagem de jatinho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/20/escritorio-da-esposa-de-moraes-nega-vinculo-pessoal-com-vorcaro-em-viagem-de-jatinho.ghtml)_
+
+- **[2026-09-20 23:16 UTC]** Por que mensagens escritas por Moraes a Vorcaro podem não ser recuperáveis
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/por-que-mensagens-escritas-por-moraes-a-vorcaro-podem-nao-ser-recuperaveis/)_
+
+- **[2026-09-21 03:16 UTC]** Polícia Federal enfrenta obstáculos técnicos para recuperar mensagens de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-enfrenta-obstaculos-tecnicos-para-recuperar-mensagens-de-moraes/)_
+
+- **[2026-09-21 08:00 UTC]** Vídeo registra Moraes e esposa em jatinho de Vorcaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/video-registra-moraes-e-esposa-em-jatinho-de-vorcaro.ghtml)_
+
+- **[2026-09-21 12:44 UTC]** Ex-ministros defendem que STF deve apurar relação de Vorcaro e Moraes, após vídeo de jatinho
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/21/apos-video-de-jatinho-ex-ministros-voltam-a-defender-que-stf-deve-apurar-relacao-de-vorcaro-e-moraes.ghtml)_
+
+- **[2026-09-21 14:17 UTC]** Novo vídeo contradiz versão de Moraes sobre voo em avião ligado a Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-video-contradiz-versao-de-moraes-sobre-voo-em-aviao-ligado-a-vorcaro/)_
+
+- **[2026-09-21 10:33 UTC]** Moraes desembarcou de jatinho para evento no Rio e criticou autocontenção citada por Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-desembarcou-de-jatinho-para-evento-no-rio-e-criticou-fala-de-mendonca-sobre-autocontencao/)_
+
+- **[2026-09-21 11:37 UTC]** Deltan Dallagnol associa ministro do TSE a Moraes e diz que vai recorrer de suspensão da campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/deltan-dallagnol-associa-ministro-do-tse-a-moraes-e-diz-que-vai-recorrer-de-suspensao-da-campanha.ghtml)_
+
+- **[2026-09-21 13:37 UTC]** Moraes é relator de processo que cita esposa, Vorcaro e filho de Lula
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/moraes-e-relator-de-processo-que-cita-esposa-vorcaro-e-filho-de-lula)_
+
+- **[2026-09-21 16:07 UTC]** Moraes é sorteado relator de ação sobre visitas de própria esposa e Vorcaro a senadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-e-sorteado-relator-de-acao-sobre-visitas-de-propria-esposa-e-vorcaro-a-senadores.shtml)_
+
+- **[2026-09-21 13:24 UTC]** 'Homens tóxicos' e 'medinho de Moraes': veja frases marcantes do debate Folha/UOL ao Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/homens-toxicos-e-medinho-de-moraes-veja-frases-marcantes-do-debate-folhauol-ao-senado.shtml)_
+
+- **[2026-09-21 18:09 UTC]** Eurodeputados pedem à UE que analise sanções contra Moraes e monitore eleição no Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/eurodeputados-pedem-ue-analise-sancoes-contra-moraes-monitore-eleicao-brasil/)_
+
+- **[2026-09-21 17:36 UTC]** Moraes se torna relator de ação que envolve sua esposa, Vorcaro e Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-relator-acao-envolve-esposa-vorcaro-e-lulinha/)_
+
+- **[2026-09-21 14:53 UTC]** Moraes manda STF enviar provas do caso das joias sauditas à Receita
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-manda-stf-enviar-provas-do-caso-das-joias-sauditas-a-receita/)_
+
+- **[2026-09-21 19:06 UTC]** Moraes se declara impedido em ação sobre ida de sua esposa ao Senado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-se-declara-impedido-em-acao-sobre-ida-de-sua-esposa-ao-senado)_
+
+- **[2026-09-21 16:07 UTC]** Moraes se declara impedido para atuar em ação sobre visitas de própria esposa e Vorcaro a senadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-e-sorteado-relator-de-acao-sobre-visitas-de-propria-esposa-e-vorcaro-a-senadores.shtml)_
+
+- **[2026-09-21 22:33 UTC]** Moraes se declara impedido em ação que envolve sua esposa, Vorcaro e Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-se-declara-impedido-em-acao-que-envolve-sua-esposa-vorcaro-e-lulinha/)_
+
+- **[2026-09-21 21:53 UTC]** Corrupção “nas alturas”: Moraes e esposa no jato de Vorcaro
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/corrupcao-nas-alturas-moraes-e-o-jato-de-vorcaro/)_
+
+- **[2026-09-21 22:48 UTC]** Moraes se declara impedido de julgar processo que envolve sua esposa, Viviane Barci
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-de-julgar-processo-que-envolve-sua-esposa-viviane-barci.ghtml)_
+
+- **[2026-09-21 20:10 UTC]** Três deputados europeus pedem à UE ações contra Alexandre de Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/elastic/noticia/2026/09/21/tres-deputados-europeus-pedem-a-ue-acoes-contra-moraes-e-monitoramento-das-eleicoes-no-brasil.ghtml)_
+
+- **[2026-09-21 20:27 UTC]** Moraes se declara impedido em ação sobre visitas da esposa ao Senado
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/moraes-se-declara-impedido-em-acao-sobre-visitas-da-esposa-ao-senado)_
+
+- **[2026-09-21 23:46 UTC]** Moraes se declara impedido para atuar em ação que pede informações ao Senado sobre visitas de sua esposa e de Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-para-atuar-em-acao-que-pede-informacoes-ao-senado-sobre-visitas-de-sua-esposa-e-de-vorcaro.ghtml)_
+
+- **[2026-09-21 21:30 UTC]** A relação de Moraes com Vorcaro diz algo sobre a trama golpista?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/09/a-relacao-de-moraes-com-vorcaro-diz-algo-sobre-a-trama-golpista.shtml)_
+
+- **[2026-09-21 23:40 UTC]** Direita se divide sobre convocar ou não protestos nas ruas contra Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/direita-se-divide-sobre-convocar-ou-nao-protestos-nas-ruas-contra-moraes/)_
+
+- **[2026-09-21 22:48 UTC]** Alexandre de Moraes declara-se impedido de relatar ação contra esposa
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-de-julgar-processo-que-envolve-sua-esposa-viviane-barci.ghtml)_
+
+- **[2026-09-22 12:16 UTC]** Mendonça diz que Moraes distorceu teor de relatórios da PF e pede arquivamento de investigação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/mendonca-moraes.ghtml)_
+
+- **[2026-09-22 09:39 UTC]** Mendonça pede arquivamento de denúncia contra ele e sugere que Moraes deveria ser investigado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-pede-arquivamento-de-denuncia-contra-ele-e-sugere-que-moraes-deveria-ser-investigado.shtml)_
+
+- **[2026-09-22 13:15 UTC]** Mendonça pede investigação de Moraes por abuso de autoridade e denunciação caluniosa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-pede-investigacao-de-moraes-por-abuso-de-autoridade-e-denunciacao-caluniosa/)_
+
+- **[2026-09-22 12:48 UTC]** Mendonça rebate argumentos de Moraes e pede que colega seja investigado por abuso de autoridade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/22/mendonca-rebate-argumentos-de-moraes-e-pede-que-colega-seja-investigado-por-abuso-de-moraes.ghtml)_
+
+- **[2026-09-22 12:16 UTC]** Mendonça diz que Moraes distorceu relatórios da PF e pede investigação por abuso de autoridade
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/mendonca-moraes.ghtml)_
+
+- **[2026-09-22 11:42 UTC]** Casamento do filho de Moraes terá fala do escritor Gabriel Chalita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/casamento-do-filho-de-moraes-tera-fala-do-escritor-gabriel-chalita.shtml)_
+
+- **[2026-09-22 17:38 UTC]** Fux é sorteado relator de ação que Moraes se declarou impedido sobre esposa, Vorcaro e Lulinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-sorteado-relator-acao-moraes-se-declarou-impedido/)_
+
+- **[2026-09-22 17:13 UTC]** Moraes na mira da Europa: eurodeputados pedem sanções e fiscalização das eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-na-mira-da-europa-eurodeputados-pedem-sancoes-e-fiscalizacao-das-eleicoes/)_
+
+- **[2026-09-22 14:59 UTC]** Moraes acusa Mendonça de ilícitos praticados pelo próprio Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-acusa-mendonca-de-ilicitos-praticados-pelo-proprio-moraes/)_
+
+- **[2026-09-22 13:53 UTC]** Mendonça se manifesta sobre acusações de Moraes: 'Denunciação caluniosa e abuso de autoridade'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw1l6yv2lmzpo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-22 12:48 UTC]** Mendonça rebate acusações de Moraes e pede que colega seja investigado por abuso de autoridade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/22/mendonca-rebate-argumentos-de-moraes-e-pede-que-colega-seja-investigado-por-abuso-de-moraes.ghtml)_
+
+- **[2026-09-22 15:38 UTC]** Mendonça acusa Moraes de direcionar investigação no STF
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-acusa-moraes-de-direcionar-investigacao-no-stf)_
+
+- **[2026-09-22 14:46 UTC]** Fux vai relatar ação sobre idas da esposa de Moraes ao Senado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fux-vai-relatar-acao-sobre-idas-da-esposa-de-moraes-ao-senado)_
+
+- **[2026-09-22 20:50 UTC]** Bateu o desespero: ascensão de Flávio Bolsonaro assombra Moraes e seus aliados no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/renan-ramalho/bateu-o-desespero-ascensao-de-flavio-bolsonaro-assombra-moraes-e-seus-aliados-no-stf/)_
+
+- **[2026-09-22 20:45 UTC]** Mendonça enfrenta Moraes, critica “arapongagem” e pede acesso integral ao inquérito das fake news
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-enfrenta-moraes-critica-arapongagem-e-pede-acesso-integral-ao-inquerito-das-fake-news/)_
+
+- **[2026-09-22 19:41 UTC]** Nikolas convoca ato contra Moraes em Rondônia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-convoca-ato-contra-moraes-em-rondonia/)_
+
+- **[2026-09-22 17:56 UTC]** Casamento do filho de Alexandre de Moraes terá reforço policial em São Paulo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/casamento-do-filho-de-alexandre-de-moraes-tera-reforco-policial-em-sao-paulo/)_
+
+- **[2026-09-22 17:56 UTC]** Fux é sorteado relator de ação contra Viviane Barci, após Moraes se declarar impedido
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/22/fux-e-sorteado-relator-de-acao-contra-viviane-barci-apos-moraes-se-declarar-impedido.ghtml)_
+
+- **[2026-09-22 20:06 UTC]** Fux é sorteado relator de ação sobre visitas de esposa de Moraes e Vorcaro a senadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/fux-e-sorteado-relator-de-acao-sobre-visitas-de-esposa-de-moraes-e-vorcaro-a-senadores.shtml)_
+
+- **[2026-09-23 02:00 UTC]** Ministros veem pedido de investigação de Mendonça contra Moraes como mais um impasse para crise no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/ministros-veem-pedido-de-investigacao-de-mendonca-contra-moraes-como-mais-um-impasse-para-crise-no-stf.ghtml)_
+
+- **[2026-09-23 00:25 UTC]** Moraes arquiva investigação contra ex-diretores da PRF acusados de tentar impedir deslocamento de eleitores em 2022
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml)_
+
+- **[2026-09-22 23:00 UTC]** Kassio enfrenta pressão no STF, e grupo pró-Moraes quer mantê-lo fora de julgamentos sobre Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/kassio-enfrenta-pressao-no-stf-e-grupo-pro-moraes-quer-mante-lo-fora-de-julgamentos-sobre-vorcaro.shtml)_
+
+- **[2026-09-23 08:00 UTC]** STF: Mendonça refuta acusações e pede investigação contra Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/23/stf-mendonca-refuta-acusacoes-e-pede-investigacao-contra-moraes.ghtml)_
+
+- **[2026-09-23 10:44 UTC]** Zanin nega liminar para obrigar Alcolumbre a pautar CPI sobre Moraes, Toffoli e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-lega-liminar-para-obrigar-alcolumbre-a-pautar-cpi-sobre-moraes-toffoli-e-vorcaro/)_
+
+- **[2026-09-23 15:00 UTC]** Fux manda Alcolumbre se manifestar sobre idas de esposa de Moraes e Vorcaro a gabinetes do Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fux-manda-alcolumbre-se-manifestar-sobre-acessos-de-esposa-de-moraes-e-vorcaro-a-gabinetes-do-senado.shtml)_
+
+- **[2026-09-23 15:05 UTC]** Mentiras de Moraes aumentam constrangimento público de aliados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/mentiras-de-moraes-aumentam-constrangimento-publico-de-aliados/)_
+
+- **[2026-09-23 14:45 UTC]** Quem é Walfrido Warde, que fez proposta “matadora” para livrar Moraes da Magnitsky
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/walfrido-warde-proposta-matadora-livrar-moraes-magnitsky/)_
+
+- **[2026-09-23 18:41 UTC]** Fux dá 10 dias para Senado se manifestar em ação que pede informações sobre visitas de esposa de Moraes e Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/23/fux-da-10-dias-para-senado-se-manifestar-em-acao-que-pede-informacoes-sobre-visitas-de-esposa-de-moraes-e-vorcaro.ghtml)_
+
+- **[2026-09-23 19:00 UTC]** Novo pede à USP abertura de processo disciplinar contra Moraes por envolvimento com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/novo-pede-a-usp-abertura-de-processo-disciplinar-contra-moraes-por-envolvimento-com-vorcaro.shtml)_
+
+- **[2026-09-23 15:00 UTC]** Fux manda Alcolumbre se manifestar sobre idas de esposa de Moraes, Vorcaro e Lulinha ao Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fux-manda-alcolumbre-se-manifestar-sobre-acessos-de-esposa-de-moraes-e-vorcaro-a-gabinetes-do-senado.shtml)_
+
+- **[2026-09-23 19:02 UTC]** Fux manda Senado fornecer informações sobre visitas de Vorcaro, esposa de Moraes, Lulinha e Frei Chico
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/23/fux-manda-senado-fornecer-informacoes-sobre-visitas-de-vorcaro-esposa-de-moraes-lulinha-e-frei-chico.ghtml)_
+
+- **[2026-09-24 00:45 UTC]** Falhas de Moraes permitem a Fachin arquivar acusações contra Mendonça no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/falhas-de-moraes-permitem-a-fachin-arquivar-acusacoes-contra-mendonca-no-stf/)_
+
+- **[2026-09-24 04:51 UTC]** Flávio Bolsonaro voltou dos EUA com a família e advogado em jato de Vorcaro que foi usado por Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/24/flvio-bolsonaro-viajou-dos-eua-ao-brasil-em-2025-em-jato-de-vorcaro-diz-revista.ghtml)_
+
+- **[2026-09-24 12:00 UTC]** Neto do empresário Antônio Ermírio de Moraes doa para campanha de parente de Maluf
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/neto-do-empresario-antonio-ermirio-doa-para-campanha-de-parente-de-maluf.shtml)_
+
+- **[2026-09-24 16:12 UTC]** Escândalo de Moraes com Vorcaro 'energizou' a direita brasileira perto da eleição e 'eclipsou' caso Dark Horse, diz NYT
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6wyzm3yp9yxo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-24 15:10 UTC]** Flávio Bolsonaro ironiza voo em jato de Vorcaro e associa aeronave a Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/flavio-bolsonaro-ironiza-voo-em-jato-de-vorcaro-e-associa-aeronave-a-moraes.ghtml)_
+
+- **[2026-09-24 17:11 UTC]** FOTOS: veja como é avião de Vorcaro usado por Flávio Bolsonaro e Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/fotos-veja-como-e-aviao-de-vorcaro-usado-por-flavio-bolsonaro-e-moraes.ghtml)_
+
+- **[2026-09-25 09:25 UTC]** Os 70 anos da 1ª parceria entre Tom Jobim e Vinicius de Moraes que mudou a MPB e rendeu até Oscar
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm5y5eqdgg84o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-25 22:57 UTC]** Zanin e Moraes votam para multar advogado em primeiro caso de prompt injection no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-e-moraes-votam-para-multar-advogado-em-primeiro-caso-de-prompt-injection-no-stf/)_
+
+- **[2026-09-25 23:00 UTC]** Dino deve devolver relatório sobre Moraes a julgamento após 2º turno, dizem aliados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-deve-devolver-relatorio-sobre-moraes-a-julgamento-apos-2o-turno-dizem-aliados.shtml)_
+
+- **[2026-09-26 12:30 UTC]** Resumo da semana: os mistérios que envolvem as mensagens trocadas entre Moraes e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/resumo-da-semana-os-misterios-que-envolvem-as-mensagens-trocadas-entre-moraes-e-vorcaro-2/)_
+
+- **[2026-09-27 19:43 UTC]** Casamento de filho de Moraes tem forte esquema de segurança em SP e empresário reclama de agressão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/casamento-de-filho-de-moraes-tem-forte-esquema-de-seguranca-em-sp-e-empresario-reclama-de-agressao/)_
+

@@ -56,3 +56,30 @@
 - **[2026-09-11 22:58 UTC]** Veja o que é #FATO e o que é #FAKE no debate de candidatos ao Senado pelo Distrito Federal no g1
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/11/veja-o-que-e-fato-e-o-que-e-fake-no-debate-de-candidatos-ao-senado-pelo-distrito-federal-no-g1.ghtml)_
 
+- **[2026-09-11 23:17 UTC]** Veja o que é #FATO ou #FAKE na sabatina de Eduardo Paes ao Valor, Globo, Extra e CBN
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/veja-o-que-e-fato-ou-fake-na-sabatina-de-eduardo-paes-ao-valor-globo-extra-e-cbn.ghtml)_
+
+- **[2026-09-16 08:30 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de São Paulo no SP1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/16/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-sao-paulo-no-sp1.ghtml)_
+
+- **[2026-09-17 08:20 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo do Rio de Janeiro no RJ1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/17/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-do-rio-de-janeiro-no-rj1.ghtml)_
+
+- **[2026-09-18 08:00 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de Pernambuco no NE1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/18/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-pernambuco-no-ne1.ghtml)_
+
+- **[2026-09-18 18:12 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo do Distrito Federal no DF1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/18/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-do-distrito-federal-no-df1.ghtml)_
+
+- **[2026-09-22 08:00 UTC]** Veja o que é #FATO ou #FAKE nas entrevistas com candidatos ao governo de Minas Gerais no MG1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/22/veja-o-que-e-fato-ou-fake-nas-entrevistas-com-candidatos-ao-governo-de-minas-gerais-no-mg1.ghtml)_
+
+- **[2026-09-24 19:14 UTC]** Veja o que é #FATO ou #FAKE nos debates de candidatos ao Senado pelo Rio de Janeiro no g1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/24/veja-o-que-e-fato-ou-fake-nos-debates-de-candidatos-ao-senado-pelo-rio-de-janeiro-no-g1.ghtml)_
+
+- **[2026-09-25 20:40 UTC]** É #FATO: Voto nas eleições de 2026 vale como prova de vida automática para o INSS
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/25/e-fato-voto-nas-eleicoes-de-2026-vale-como-prova-de-vida-automatica-para-o-inss.ghtml)_
+
+- **[2026-09-26 00:48 UTC]** Veja o que é #FATO ou #FAKE no debate de candidatos ao Senado por São Paulo no g1
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/25/veja-o-que-e-fato-ou-fake-nos-debates-de-candidatos-ao-senado-por-sao-paulo-no-g1.ghtml)_
+

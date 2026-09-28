@@ -17,3 +17,501 @@
 - **[2026-09-11 19:05 UTC]** Alan Rick defende apoio a comerciantes e produtores para fortalecer economia local
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/11/alan-rick-defende-apoio-a-comerciantes-e-produtores-para-fortalecer-economia-local.ghtml)_
 
+- **[2026-09-14 22:45 UTC]** Alan Rick promete diálogo do governo com setor privado sobre tributos no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/14/alan-rick-promete-dialogo-do-governo-com-setor-privado-sobre-tributos-no-acre.ghtml)_
+
+- **[2026-09-16 17:04 UTC]** Alan Rick (Republicanos) é entrevistado no JAC1
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/jornal-do-acre-1-edicao-entrevista-candidatos-ao-governo-do-estado.ghtml)_
+
+- **[2026-09-16 16:11 UTC]** Alan Rick promete regionalizar saúde, fortalecer agricultura familiar e criar mais delegacias da mulher; VEJA plano
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/16/alan-rick-promete-regionalizar-saude-fortalecer-agricultura-familiar-e-criar-mais-delegacias-da-mulher-veja-plano.ghtml)_
+
+- **[2026-09-16 22:17 UTC]** Alan Rick promete saúde regionalizada, investimentos privados no saneamento e regularização fundiária
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/16/alan-rick-promete-saude-regionalizada-investimentos-privados-no-saneamento-e-regularizacao-fundiaria.ghtml)_
+
+- **[2026-09-18 15:15 UTC]** Alan Rick propõe parcerias com prefeituras para tornar mercados mais atrativos no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/18/alan-rick-propoe-parcerias-com-prefeituras-para-tornar-mercados-mais-atrativos-no-acre.ghtml)_
+
+- **[2026-09-21 19:08 UTC]** Helicóptero com Rick, da dupla com Renner, desaparece durante voo em SC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/helicoptero-com-rick-da-dupla-com-renner-desaparece-durante-voo-em-sc.shtml)_
+
+- **[2026-09-21 23:01 UTC]** Empresa dona de helicóptero em que Rick estava em SC divulga nota sobre caso
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/empresa-dona-de-helicoptero-em-que-rick-estava-em-sc-divulga-nota-sobre-caso.ghtml)_
+
+- **[2026-09-21 22:42 UTC]** Bell 430 com capacidade para 7 passageiros: conheça o helicóptero que desapareceu com o cantor Rick
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/helicoptero-bell-430.ghtml)_
+
+- **[2026-09-21 22:21 UTC]** Dois anos antes de helicóptero desaparecer, Rick, da dupla com Renner, sofreu acidente de carro em SC; relembre
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/rick-da-dupla-com-renner-acidente-em-sc.ghtml)_
+
+- **[2026-09-21 22:17 UTC]** Helicóptero perdeu comunicação, diz assessoria de Rick sobre aeronave desaparecida
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/helicoptero-perdeu-comunicacao-diz-assessoria-rick-sobre-aeronave-desaparecida.ghtml)_
+
+- **[2026-09-21 22:08 UTC]** Em post mais recente, Rick mostra encontro com empresário em aeroporto
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/em-post-mais-recente-rick-mostra-encontro-com-empresario-em-aeroporto.ghtml)_
+
+- **[2026-09-21 21:22 UTC]** Assessoria diz que Rick está em helicóptero que desapareceu em SC; FAB faz buscas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/buscas-queda-helicoptero-sc.ghtml)_
+
+- **[2026-09-21 20:03 UTC]** FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc)_
+
+- **[2026-09-21 21:40 UTC]** Helicóptero que levava cantor Rick desaparece em Santa Catarina
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/helicoptero-que-levava-cantor-rick-desaparece-em-santa-catarina)_
+
+- **[2026-09-21 23:53 UTC]** 'Torcendo para que nada tenha acontecido', diz Cury após conselheiro de campanha desaparecer a bordo de helicóptero com cantor Rick
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/augusto-cury-conselheiro-campanha-helicoptero-desaparecido.ghtml)_
+
+- **[2026-09-21 22:41 UTC]** Helicóptero desaparecido com Rick leva até sete pessoas e custa cerca de R$ 10 milhões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/helicoptero-desaparecido-com-rick-leva-ate-sete-pessoas-e-custa-cerca-de-r-10-milhoes.shtml)_
+
+- **[2026-09-21 22:36 UTC]** Quem é Bruno Avelar, amigo de Neymar que estava em voo que sumiu com cantor Rick
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/quem-e-bruno-avelar-amigo-de-neymar-que-estava-em-voo-que-sumiu-com-cantor-rick.shtml)_
+
+- **[2026-09-21 21:32 UTC]** Rick, da dupla com Renner, postou vídeo de viagem aérea horas antes de sumir em voo; assista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rick-da-dupla-com-renner-postou-video-de-viagem-aerea-horas-antes-de-sumir-em-voo-assista.shtml)_
+
+- **[2026-09-21 20:19 UTC]** Quem é Rick, cantor que estava em helicóptero desaparecido em SC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/quem-e-rick-cantor-que-estava-em-helicoptero-desaparecido-em-sc.shtml)_
+
+- **[2026-09-22 01:10 UTC]** Helicóptero com cantor Rick e empresário Bruno Avelar desaparece em Santa Catarina: o que se sabe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-21 23:01 UTC]** Dona de helicóptero em que Rick estava diz que aeronave foi emprestada ao cantor e confirma desaparecimento
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/empresa-dona-de-helicoptero-em-que-rick-estava-em-sc-divulga-nota-sobre-caso.ghtml)_
+
+- **[2026-09-21 23:27 UTC]** 'Todo mundo preocupado', diz primo de Rick após aeronave em que cantor estava desaparecer em SC
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/21/todo-mundo-preocupado-diz-primo-de-rick-apos-aeronave-em-que-cantor-estava-desaparecer-em-sc.ghtml)_
+
+- **[2026-09-22 04:00 UTC]** Renner pede orações após desaparecimento de helicóptero com Rick
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/renner-pede-oracoes-apos-desaparecimento-de-helicoptero-com-rick.shtml)_
+
+- **[2026-09-22 07:26 UTC]** Buscas por helicóptero desaparecido com cantor Rick e empresário seguem com drone térmico em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/buscas-por-helicoptero-seguem-com-drone-termico.ghtml)_
+
+- **[2026-09-22 03:01 UTC]** Helicóptero com Rick e empresário desaparece em SC: o que se sabe e o que falta saber
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-com-rick-e-empresario-desaparece-em-sc-o-que-se-sabe-e-o-que-falta-saber.ghtml)_
+
+- **[2026-09-22 03:30 UTC]** 'Ninguém conseguiu contato', diz primo de Rick após helicóptero com o cantor desaparecer
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/ninguem-conseguiu-contato-diz-primo-de-rick-apos-helicoptero-com-o-cantor-desaparecer.ghtml)_
+
+- **[2026-09-22 08:06 UTC]** Buscas por helicóptero com cantor Rick continuam nesta terça-feira
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/buscas-por-helicoptero-com-cantor-rick-continuam-nesta-terca-feira)_
+
+- **[2026-09-22 09:49 UTC]** Quem é Rick, da dupla Rick e Renner, e como ele ajudou a renovar o sertanejo com letras bem-humoradas e sensuais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/quem-e-rick-da-dupla-rick-e-renner-e-como-ele-ajudou-a-renovar-o-sertanejo-com-letras-bem-humoradas-e-sensuais.shtml)_
+
+- **[2026-09-22 09:29 UTC]** Perfil de Rick e Renner nas redes diz que todos seguem unidos e com esperança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/perfil-de-rick-e-renner-nas-redes-diz-que-todos-seguem-unidos-e-com-esperanca.shtml)_
+
+- **[2026-09-22 09:29 UTC]** Esposa de empresário que estava com Rick em helicóptero desaparecido diz crer em milagre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/esposa-de-empresario-que-estava-com-rick-em-helicoptero-desaparecido-diz-crer-em-milagre.shtml)_
+
+- **[2026-09-22 08:00 UTC]** Bombeiros e FAB reforçam buscas por helicóptero com cantor Rick na serra de SC; drone térmico é usado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/bombeiros-e-fab-reforcam-buscas-por-helicoptero-com-cantor-rick-na-serra-de-sc-drone-termico-e-usado.shtml)_
+
+- **[2026-09-22 11:14 UTC]** Quem é Rick, da dupla Rick & Renner, e como ele ajudou a renovar o sertanejo com letras bem-humoradas e sensuais
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-22 12:34 UTC]** Helicóptero que desapareceu com cantor Rick: buscas são feitas em Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
+
+- **[2026-09-22 11:38 UTC]** Videomaker publicou imagens de dentro de helicóptero desaparecido com o cantor Rick e empresário
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/videomaker-imagens-dentro-helicoptero-desaparecido-cantor-rick.ghtml)_
+
+- **[2026-09-22 11:08 UTC]** Bombeiros usam cruzamento de sinal de celulares para tentar localizar helicóptero com cantor Rick em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/bombeiros-usam-cruzamento-celulares-tentar-localizar-helicoptero-cantor-rick-sc.ghtml)_
+
+- **[2026-09-22 10:45 UTC]** Quem são os passageiros de helicóptero que desapareceu em SC com cantor Rick e empresário
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/quem-sao-os-passageiros-de-helicoptero-que-desapareceu-em-sc-com-cantor-rick-e-empresario.ghtml)_
+
+- **[2026-09-22 10:31 UTC]** Helicóptero que desapareceu com cantor Rick está com situação regular e certificação válida até 2027
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-desapareceu-cantor-rick-esta-situacao-regular-certificacao-valida-2027.ghtml)_
+
+- **[2026-09-22 07:26 UTC]** Buscas por helicóptero que desapareceu em SC com cantor Rick seguem com drone térmico
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/buscas-por-helicoptero-seguem-com-drone-termico.ghtml)_
+
+- **[2026-09-22 13:11 UTC]** Nascido em cidade do TO, Rick mantém laços com o estado e propriedade em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/nascido-em-cidade-do-to-rick-mantem-lacos-com-o-estado-e-propriedade-em-palmas.ghtml)_
+
+- **[2026-09-22 12:26 UTC]** Conheça cidade no TO em que Rick, da dupla com Renner, foi criado
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/conheca-cidade-no-to-em-que-rick-da-dupla-com-renner-foi-criado.ghtml)_
+
+- **[2026-09-22 11:26 UTC]** Primo de Rick diz que aguardava cantor para gravar videoclipe antes de aeronave desaparecer em SC
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/primo-de-rick-diz-que-aguardava-cantor-para-gravar-videoclipe-antes-de-aeronave-desaparecer-em-sc.ghtml)_
+
+- **[2026-09-22 13:03 UTC]** Bombeiros encontram helicóptero com corpo do cantor Rick
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bombeiros-encontram-helicoptero-com-corpo-do-cantor-rick)_
+
+- **[2026-09-22 13:42 UTC]** Mortes do cantor Rick e de mais quatro pessoas são confirmadas em SC
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/morte-de-cantor-rick-e-mais-quatro-pessoas-e-confirmada-em-sc)_
+
+- **[2026-09-22 14:30 UTC]** Rick, da dupla com Renner, tinha uma mansão de nove quartos e propriedade nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rick-da-dupla-com-renner-tinha-uma-mansao-de-nove-quartos-e-propriedade-nos-eua.shtml)_
+
+- **[2026-09-22 14:04 UTC]** Rick Sollo, Cristiano Araújo e Marília Mendonça morreram em acidentes; relembre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/rick-sollo-cristiano-araujo-e-marilia-mendonca-morreram-em-acidentes-relembre.shtml)_
+
+- **[2026-09-22 13:38 UTC]** Local da queda de helicóptero de Rick é de difícil acesso e exige caminhada de 3 horas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/local-da-queda-de-helicoptero-de-rick-e-de-dificil-acesso-e-exige-caminhada-de-3-horas.shtml)_
+
+- **[2026-09-22 13:17 UTC]** Milton Neves, Ana Castela e outros artistas lamentam morte de Rick Sollo após queda de helicóptero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/milton-neves-ana-castela-e-outros-artistas-lamentam-morte-de-rick-sollo-apos-queda-de-helicoptero.shtml)_
+
+- **[2026-09-22 13:09 UTC]** Rick revelou lado produtor em programa na Globo e rejeitou falar com o Pânico na TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/rick-revelou-lado-produtor-em-programa-na-globo-e-rejeitou-falar-com-o-panico-na-tv.shtml)_
+
+- **[2026-09-22 12:59 UTC]** Rick, ao lado de Renner, fez lives solidárias na pandemia com mais de 5,3 milhões de visualizações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rick-ao-lado-de-renner-fez-lives-solidarias-na-pandemia-com-mais-de-53-milhoes-de-visualizacoes.shtml)_
+
+- **[2026-09-22 12:49 UTC]** Lembre os maiores hits de Rick e Renner, como 'Ela É Demais' e 'Nos Bares da Cidade'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/lembre-os-maiores-hits-de-rick-e-renner-como-ela-e-demais-e-nos-bares-da-cidade.shtml)_
+
+- **[2026-09-22 12:34 UTC]** Helicóptero do cantor Rick é encontrado em Santa Catarina; bombeiros dizem que não há sobreviventes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/bombeiros-encontram-destrocos-de-helicoptero-do-cantor-rick-em-santa-catarina.shtml)_
+
+- **[2026-09-22 11:00 UTC]** Rick Sollo: o desfecho trágico que ninguém queria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/09/rick-sollo-a-angustia-e-a-esperanca-em-busca-de-noticias.shtml)_
+
+- **[2026-09-22 16:09 UTC]** Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-22 16:50 UTC]** Morre cantor sertanejo Rick em acidente de helicóptero que matou outras 4 pessoas; o que se sabe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-22 17:27 UTC]** Sócio do cantor Rick foi convidado para voo em helicóptero que caiu em SC, mas decidiu viajar de carro
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/socio-cantor-rick-convidado-voo-helicoptero-decidiu-viajar-carro.ghtml)_
+
+- **[2026-09-22 16:54 UTC]** Helicóptero com cantor Rick é encontrado; não há sobreviventes
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
+
+- **[2026-09-22 16:53 UTC]** FAB fez sobrevoo de 13 horas para encontrar destroços de helicóptero com cantor Rick e outras 4 pessoas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/fab-sobrevoo-helicoptero-cantor-rick.ghtml)_
+
+- **[2026-09-22 16:53 UTC]** 'Nossos grandes amigos', diz empresa dona de helicóptero com cantor Rick que caiu e deixou 5 mortos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/nossos-grandes-amigos-diz-empresa-dona-helicoptero-cantor-rick-queda-mortos.ghtml)_
+
+- **[2026-09-22 16:42 UTC]** Conheça era o helicóptero que caiu com o cantor Rick em SC? Bell 430 tinha capacidade para 7 passageiros
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/conheca-helicoptero-bell-430-cantor-rick.ghtml)_
+
+- **[2026-09-22 16:14 UTC]** Bombeiros avaliam terreno para retirar corpos de destroços de helicóptero com cantor Rick em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/bombeiros-avaliam-terreno-para-retirar-corpos-de-destrocos-de-helicoptero-com-cantor-rick-em-sc.ghtml)_
+
+- **[2026-09-22 16:02 UTC]** Rick fez último show em Campo Grande antes de morrer em queda de helicóptero; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/22/video-mostra-ultimo-show-de-rick-em-ms-antes-de-morte-em-queda-de-helicoptero.ghtml)_
+
+- **[2026-09-22 15:46 UTC]** VÍDEO: música 'Filha' marcou o último show de Rick, da dupla com Renner, em festa de 15 anos em MT
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/mt/mato-grosso/noticia/2026/09/22/video-musica-filha-marcou-o-ultimo-show-de-rick-da-dupla-com-renner-em-festa-de-15-anos-em-mt.ghtml)_
+
+- **[2026-09-22 15:43 UTC]** Veja vídeo dos destroços do helicóptero que levava o cantor Rick e mais quatro
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/veja-video-dos-destrocos-do-helicoptero-que-levava-o-cantor-rick-e-mais-quatro.ghtml)_
+
+- **[2026-09-22 15:32 UTC]** Rick, da dupla com Renner, morre em queda de helicóptero em SC; relembre a trajetória do cantor
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/to/tocantins/noticia/2026/09/22/cantor-rick-da-dupla-com-renner-morre.ghtml)_
+
+- **[2026-09-22 14:43 UTC]** Veja a cronologia do desaparecimento do helicóptero com Rick, empresário, videomaker e piloto até a localização dos destroços
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/cronologia-desaparecimento-helicoptero-rick-cantor-empresario-videomaker-piloto.ghtml)_
+
+- **[2026-09-22 14:11 UTC]** Helicóptero com cantor Rick desaparece: infográfico mostra ponto de partida, últimos locais onde foram emitidos sinais e destino da aeronave
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-com-cantor-rick-desaparece-infografico.ghtml)_
+
+- **[2026-09-22 13:36 UTC]** Entre mata fechada e planície: como é a região onde helicóptero com cantor Rick desapareceu em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/mata-fechada-planicie-regiao-onde-helicoptero-com-cantor-rick-desapareceu.ghtml)_
+
+- **[2026-09-22 13:26 UTC]** Esposa do cantor Rick volta ao Brasil para acompanhar buscas: 'Surgirá um testemunho'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/pop-arte/noticia/2026/09/22/esposa-do-cantor-rick-volta-ao-brasil-para-acompanhar-buscas-por-helicoptero-desaparecido.ghtml)_
+
+- **[2026-09-22 10:45 UTC]** Morre cantor Rick: saiba quem são as vítimas do helicóptero que caiu em Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/quem-sao-os-passageiros-de-helicoptero-que-desapareceu-em-sc-com-cantor-rick-e-empresario.ghtml)_
+
+- **[2026-09-22 07:26 UTC]** Buscas por helicóptero que desapareceu em SC com cantor Rick usou drone térmico
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/buscas-por-helicoptero-seguem-com-drone-termico.ghtml)_
+
+- **[2026-09-22 17:00 UTC]** Morte de Rick: cantor nasceu no Tocantins e foi secretário de governo
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/morte-de-rick-cantor-nasceu-no-tocantins-e-foi-secretario-de-governo.ghtml)_
+
+- **[2026-09-22 16:40 UTC]** Tia falou sobre fé em entrevista momentos antes de saber da morte de Rick: ‘entrego nas mãos do Senhor’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/tia-falou-sobre-fe-em-entrevista-momentos-antes-de-saber-da-morte-de-rick-entrego-nas-maos-do-senhor.ghtml)_
+
+- **[2026-09-22 16:39 UTC]** Rick fez parceria musical com primos no TO e tinham plano de gravar DVD em Goiânia
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/rick-fez-parceria-musical-com-primos-no-to-e-tinham-plano-de-gravar-dvd-em-goiania.ghtml)_
+
+- **[2026-09-22 16:21 UTC]** Antes de conquistar o público com a música sertaneja, Rick iniciou a carreira ao lado da irmã
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/antes-de-conquistar-o-publico-com-a-musica-sertaneja-rick-iniciou-a-carreira-ao-lado-da-irma.ghtml)_
+
+- **[2026-09-22 16:04 UTC]** Origem simples no Tocantins sempre foi lembrada por Rick em entrevistas: 'Nasci na roça'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/origem-simples-no-tocantins-sempre-foi-lembrada-por-rick-em-entrevistas-nasci-na-roca.ghtml)_
+
+- **[2026-09-22 15:38 UTC]** ‘Despertei pra música ouvindo meu pai’: Rick comentou influência do pai na carreira
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/despertei-pra-musica-ouvindo-meu-pai-rick-comenta-influencia-do-pai-na-carreira.ghtml)_
+
+- **[2026-09-22 15:38 UTC]** Rick relembrou raízes musicais e revela influência de ritmos do Tocantins em sucessos: ‘Consegui trazer algumas coisas’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/rick-relembra-raizes-musicais-e-revela-influencia-de-ritmos-do-tocantins-em-sucessos-de-rick-and-renner-consegui-trazer-algumas-coisas.ghtml)_
+
+- **[2026-09-22 15:35 UTC]** Antes de Rick & Renner, cantor formou dupla com a irmã aos 10 anos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/antes-de-rick-and-renner-cantor-formou-dupla-com-a-irma-aos-10-anos.ghtml)_
+
+- **[2026-09-22 15:32 UTC]** Infância na roça do Tocantins e início da carreira: Rick falou sobre suas origens ao Fantástico; veja VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/fantastico/noticia/2026/09/22/infancia-na-roca-e-inicio-da-carreira-rick-falou-sobre-suas-origens-ao-fantastico-veja-video.ghtml)_
+
+- **[2026-09-22 15:56 UTC]** Bombeiros encontram destroços de helicóptero do cantor Rick em SC; não há sobreviventes
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/22/bombeiros-encontram-destrocos-de-helicoptero-do-cantor-rick-em-sc-nao-ha-sobreviventes.ghtml)_
+
+- **[2026-09-22 16:01 UTC]** Helicóptero que transportava o cantor Rick estava regular, diz Anac
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/helicoptero-que-transportava-o-cantor-rick-estava-regular-diz-anac)_
+
+- **[2026-09-22 17:23 UTC]** Quem são os filhos de Rick e como foi a longa história de amor do cantor com a esposa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/quem-sao-os-filhos-de-rick-e-como-foi-a-longa-historia-de-amor-do-cantor-com-a-esposa.shtml)_
+
+- **[2026-09-22 15:50 UTC]** Corpos do cantor Rick e das outras vítimas são retirados de helicóptero em mata de cidade catarinense
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corpos-do-cantor-rick-e-das-outras-vitimas-sao-retirados-de-helicoptero-em-mata-de-cidade-catarinense.shtml)_
+
+- **[2026-09-22 15:46 UTC]** Bruno Avelar gravou mensagem para o filho horas antes do acidente de helicóptero com Rick
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/bruno-avelar-gravou-mensagem-para-o-filho-horas-antes-do-acidente-de-helicoptero-com-rick.shtml)_
+
+- **[2026-09-22 15:15 UTC]** Queda de helicóptero do cantor Rick será investigada pela FAB com peritos de Brasília e Canoas (RS)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/queda-de-helicoptero-do-cantor-rick-sera-investigada-pela-fab-com-peritos-de-brasilia-e-canoas-rs.shtml)_
+
+- **[2026-09-22 14:48 UTC]** Por que Renner não estava no helicóptero com Rick? Entenda viagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/por-que-renner-nao-estava-no-helicoptero-com-rick-entenda-viagem.shtml)_
+
+- **[2026-09-22 13:17 UTC]** Ana Castela, Daniel e outros artistas lamentam morte de Rick Sollo após queda de helicóptero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/milton-neves-ana-castela-e-outros-artistas-lamentam-morte-de-rick-sollo-apos-queda-de-helicoptero.shtml)_
+
+- **[2026-09-22 18:30 UTC]** Damares homenageia Rick com resgate de vídeo em que sertanejo faz Bolsonaro chorar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-homenageia-rick-com-video-em-que-sertanejo-canta-para-bolsonaro/)_
+
+- **[2026-09-22 21:02 UTC]** Rick compôs música para as vítimas da enchente do RS em 2024
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/22/rick-compos-musica-para-as-vitimas-da-enchente-do-rs-em-2024.ghtml)_
+
+- **[2026-09-22 20:16 UTC]** Corpos do cantor Rick e outros 4 mortos em queda de helicóptero em SC são retirados com ajuda de cordas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/corpos-de-mortos-em-queda-de-helicoptero-em-sc-sao-retirados-com-ajuda-de-cordas.ghtml)_
+
+- **[2026-09-22 18:50 UTC]** Veja quem eram o piloto e o copiloto do helicóptero que caiu com o cantor Rick  em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/quem-sao-piloto-copiloto-helicoptero-caiu-cantor-rick-sc.ghtml)_
+
+- **[2026-09-22 16:42 UTC]** Conheça o helicóptero que caiu com o cantor Rick em SC; Bell 430 tinha capacidade para 7 passageiros
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/conheca-helicoptero-bell-430-cantor-rick.ghtml)_
+
+- **[2026-09-22 15:46 UTC]** VÍDEO: música 'Filha' marcou o último show de Rick, da dupla com Renner, em festa de 15 anos no MT
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/mt/mato-grosso/noticia/2026/09/22/video-musica-filha-marcou-o-ultimo-show-de-rick-da-dupla-com-renner-em-festa-de-15-anos-em-mt.ghtml)_
+
+- **[2026-09-22 14:11 UTC]** INFOGRÁFICO mostra trajeto do helicóptero do cantor Rick, área de buscas e vítimas do acidente
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-com-cantor-rick-desaparece-infografico.ghtml)_
+
+- **[2026-09-22 21:04 UTC]** Henrique e Juliano lamentam morte de Rick: 'Um dos maiores pilares'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/henrique-and-juliano-lamentam-morte-de-rick-um-dos-maiores-pilares.ghtml)_
+
+- **[2026-09-22 20:00 UTC]** Rick visitou igreja e relembrou relação com padre que está em processo de beatificação no TO; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/rick-visitou-igreja-e-relembrou-relacao-com-padre-que-esta-em-processo-de-beatificacao-no-to-video.ghtml)_
+
+- **[2026-09-22 18:31 UTC]** Estado onde Rick nasceu, Tocantins decreta luto oficial de três dias
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/governador-lamenta-morte-de-rick-e-decreta-luto-de-tres-dias-no-tocantins.ghtml)_
+
+- **[2026-09-22 16:40 UTC]** Tia falou sobre fé em entrevista momentos antes de saber da morte de Rick: 'Entrego nas mãos do Senhor'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/tia-falou-sobre-fe-em-entrevista-momentos-antes-de-saber-da-morte-de-rick-entrego-nas-maos-do-senhor.ghtml)_
+
+- **[2026-09-22 16:39 UTC]** Rick e primos do TO fizeram parceria musical e planejavam gravar DVD em Goiânia
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/rick-fez-parceria-musical-com-primos-no-to-e-tinham-plano-de-gravar-dvd-em-goiania.ghtml)_
+
+- **[2026-09-22 22:09 UTC]** Cantor sertanejo do Acre relembra inspiração em Rick e Renner ao longo da carreira: 'Legado fica'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/22/cantor-sertanejo-do-acre-relembra-inspiracao-em-rick-e-renner-ao-longo-da-carreira-legado-fica.ghtml)_
+
+- **[2026-09-22 23:14 UTC]** Corpos de Rick e outros 4 mortos em queda de helicóptero chegam ao IML; acompanhe a cobertura
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
+
+- **[2026-09-22 21:29 UTC]** FOTOS mostram local onde helicóptero com cantor Rick e mais quatro ocupantes caiu em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/fotos-local-helicoptero-cantor-rick-mais-quatro-ocupantes-caiu-sc.ghtml)_
+
+- **[2026-09-22 22:41 UTC]** Padre em processo de beatificação abençoou Rick e previu que ele viveria da música, diz ministra da eucaristia
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/22/padre-em-processo-de-beatificacao-abencoou-rick-e-previu-que-ele-viveria-da-musica-diz-ministra-da-eucaristia.ghtml)_
+
+- **[2026-09-23 03:00 UTC]** O que se sabe sobre acidente de helicóptero que matou o cantor Rick e outras 4 pessoas em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/o-que-se-sabe-sobre-acidente-de-helicoptero-que-matou-o-cantor-rick-e-outras-4-pessoas-em-sc.ghtml)_
+
+- **[2026-09-23 03:00 UTC]** Queda de helicóptero que matou cantor Rick e outros 4 em SC será investigada em duas frentes; veja o que se sabe
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/queda-helicoptero-matou-cantor-rick-investigada-duas-frentes.ghtml)_
+
+- **[2026-09-23 07:00 UTC]** Conheça o hit que Rick gravaria em videoclipe com o primo antes de aeronave cair em SC
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/conheca-o-hit-que-rick-gravaria-em-videoclipe-com-o-primo-antes-de-aeronave-cair-em-sc.ghtml)_
+
+- **[2026-09-23 08:00 UTC]** Queda de helicóptero em SC mata cantor Rick e empresário
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/23/queda-de-helicoptero-em-sc-mata-cantor-rick-e-empresario.ghtml)_
+
+- **[2026-09-23 09:11 UTC]** Acompanhe a cobertura sobre a morte do cantor Rick e outras 4 pessoas em queda de helicóptero em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml)_
+
+- **[2026-09-23 09:00 UTC]** Veja fotos raras de Rick com familiares e amigos no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/veja-fotos-raras-de-rick-com-familiares-e-amigos-no-interior-do-tocantins.ghtml)_
+
+- **[2026-09-23 10:48 UTC]** Corpo de empresário que estava no helicóptero com Rick será velado em Belo Horizonte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corpo-de-empresario-que-estava-no-helicoptero-com-rick-sera-velado-em-belo-horizonte.shtml)_
+
+- **[2026-09-23 10:25 UTC]** Só peço que siga cuidando de mim, diz mulher de Rick ao lamentar morte do cantor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/so-peco-que-siga-cuidando-de-mim-diz-mulher-de-rick-ao-lamentar-morte-do-cantor.shtml)_
+
+- **[2026-09-23 09:07 UTC]** Corpo do cantor Rick será velado e enterrado em Sorocaba nesta quinta-feira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/corpo-do-cantor-rick-sera-velado-e-enterrado-em-sorocaba-nesta-quinta-feira.shtml)_
+
+- **[2026-09-22 22:14 UTC]** Como Rick, da dupla Rick & Renner, ajudou a renovar o sertanejo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-23 13:24 UTC]** Como versão em pagode de 'Ela É Demais', sucesso de Rick & Renner, ganhou o Brasil e apresentou hit para novas gerações
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/23/como-versao-em-pagode-de-ela-e-demais-sucesso-de-rick-and-renner-ganhou-o-brasil-e-apresentou-hit-para-novas-geracoes.ghtml)_
+
+- **[2026-09-23 12:06 UTC]** Corpo de piloto de helicóptero que caiu com cantor Rick será velado em SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/23/corpo-de-piloto-de-helicoptero-que-caiu-com-cantor-rick-sera-velado-em-sp.ghtml)_
+
+- **[2026-09-23 10:30 UTC]** Corpo do cantor Rick vai ser velado e enterrado em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/23/corpo-do-cantor-rick-vai-ser-enterrado-em-sorocaba.ghtml)_
+
+- **[2026-09-23 09:36 UTC]** Corpos do cantor Rick e de outras 4 vítimas de queda de helicóptero são liberados após papiloscopia em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/corpos-cantor-rick-vitimas-queda-helicoptero-liberados-iml-sc.ghtml)_
+
+- **[2026-09-22 07:26 UTC]** Buscas por helicóptero que desapareceu em SC com cantor Rick usaram drone térmico
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/buscas-por-helicoptero-seguem-com-drone-termico.ghtml)_
+
+- **[2026-09-23 14:08 UTC]** João Lucas, do hit 'Eu Quero Tchu, Eu Quero Tcha', relembra aproximação com Rick
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/joao-lucas-do-hit-eu-quero-tchu-eu-quero-tcha-relembra-aproximacao-com-rick.ghtml)_
+
+- **[2026-09-23 12:49 UTC]** Quem era Rick antes da fama? Cantor nasceu na 'roça' e aprendeu a cantar na Folia de Reis
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/quem-era-rick-antes-da-fama-cantor-nasceu-na-roca-e-aprendeu-a-cantar-na-folia-de-reis.ghtml)_
+
+- **[2026-09-23 11:37 UTC]** Quem são os filhos de Rick e como foi o casamento de mais de 40 anos do cantor
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/quem-e-a-familia-de-rick.ghtml)_
+
+- **[2026-09-23 11:53 UTC]** Cenipa investiga causa da queda do helicóptero que matou cantor Rick
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/cenipa-investiga-causa-da-queda-do-helicoptero-que-matou-cantor-rick)_
+
+- **[2026-09-23 17:31 UTC]** 'Agressor de mulher não terá espaço no meu governo', diz Alan Rick em sabatina na CBN Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/23/entrevista-alan-rick-cbn-rio-branco.ghtml)_
+
+- **[2026-09-23 16:31 UTC]** Vídeos registram decolagem de avião com Rick no interior de SP antes de tragédia com helicóptero no sul
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/23/videos-registram-decolagem-de-aviao-com-rick-no-interior-de-sp-antes-de-tragedia-com-helicoptero-no-sul.ghtml)_
+
+- **[2026-09-23 16:09 UTC]** Drones e scanner 3D: como perícia vai reconstruir acidente com helicóptero que matou cantor Rick e mais 4 em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/drones-scanner-3d-pericia-acidente-helicoptero-matou-cantor-rick-mais-4-sc.ghtml)_
+
+- **[2026-09-23 14:27 UTC]** Morte do cantor Rick: localização enviada por piloto a sobrinho ajudou a encontrar local de destroços de helicóptero
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/localizacao-enviada-piloto-a-sobrinho-guiou-local-de-destrocos-queda-helicoptero.ghtml)_
+
+- **[2026-09-23 12:06 UTC]** Corpo de piloto de helicóptero que caiu com cantor Rick é velado em SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/23/corpo-de-piloto-de-helicoptero-que-caiu-com-cantor-rick-sera-velado-em-sp.ghtml)_
+
+- **[2026-09-23 14:31 UTC]** Nascimento, infância e cargo no governo: as raízes de Rick com o Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/23/nascimento-infancia-e-cargo-no-governo-as-raizes-de-rick-com-o-tocantins.ghtml)_
+
+- **[2026-09-23 18:57 UTC]** Polícia Civil abre inquérito criminal para investigar queda de helicóptero que matou cantor Rick
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-civil-abre-inquerito-criminal-para-investigar-queda-de-helicoptero-que-matou-cantor-rick.shtml)_
+
+- **[2026-09-23 17:33 UTC]** SBT repreende Marcão do Povo por ligar ao vivo para telefone do cantor Rick
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-repreende-marcao-do-povo-por-ligar-ao-vivo-para-telefone-do-cantor-rick.shtml)_
+
+- **[2026-09-23 20:56 UTC]** Músicas de Rick & Renner são as mais pedidas em telemensagem no Acre: 'É o sonho de todo pai', diz empresário
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/23/musicas-de-rick-and-renner-sao-as-mais-pedidas-em-telemensagem-no-acre-e-o-sonho-de-todo-pai-diz-empresario.ghtml)_
+
+- **[2026-09-23 18:48 UTC]** Voo baixo, mau tempo ou colisão: especialistas analisam o que pode ter provocado queda de helicóptero com cantor Rick em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/especialistas-analisam-que-pode-ter-provocado-queda-helicoptero-cantor-rick-sc.ghtml)_
+
+- **[2026-09-23 12:06 UTC]** Corpo de piloto de helicóptero que caiu com cantor Rick é velado e enterrado em SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/23/corpo-de-piloto-de-helicoptero-que-caiu-com-cantor-rick-sera-velado-em-sp.ghtml)_
+
+- **[2026-09-23 23:12 UTC]** Caixa-preta de helicóptero que caiu e causou morte de cantor Rick e mais 4 é localizada
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/caixa-preta-helicoptero-caiu-morte-rick-localizada.ghtml)_
+
+- **[2026-09-23 21:19 UTC]** Cenipa recupera caixa-preta de helicóptero que levava cantor Rick
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cenipa-recupera-caixa-preta-de-helicoptero-que-levava-cantor-rick)_
+
+- **[2026-09-24 03:00 UTC]** Helicóptero com cantor Rick estava em encosta de mata densa: 'identificamos abertura na vegetação', diz bombeiro
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/24/helicoptero-cantor-rick-encosta-mata-densa-diz-bombeiro.ghtml)_
+
+- **[2026-09-24 00:45 UTC]** VÍDEO mostra trabalho da perícia em local com destroços do helicóptero que caiu com cantor Rick em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/video-pericia-destrocos-helicoptero-caiu-rick-urubici.ghtml)_
+
+- **[2026-09-24 07:00 UTC]** Rick teve passagem rápida pelo governo do TO e escreveu carta ao deixar o cargo; relembre
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/24/rick-teve-passagem-rapida-pelo-governo-do-to-e-escreveu-carta-ao-deixar-o-cargo.ghtml)_
+
+- **[2026-09-24 09:16 UTC]** Em cerimônia fechada, corpo do cantor Rick será velado e sepultado nesta quinta-feira em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/em-cerimonia-fechada-corpo-do-cantor-rick-sera-velado-e-sepultado-nesta-quinta-feira-em-sorocaba-sp.ghtml)_
+
+- **[2026-09-24 11:13 UTC]** Corpo do cantor Rick é velado em Sorocaba
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/corpo-do-cantor-rick-e-velado-em-sorocaba)_
+
+- **[2026-09-24 10:05 UTC]** FAB encontra caixa-preta de helicóptero que caiu em Santa Catarina e matou o cantor Rick e outros 4
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/fab-encontra-caixa-preta-de-helicoptero-que-caiu-em-sc-e-matou-o-cantor-rick-e-outros-4.shtml)_
+
+- **[2026-09-24 09:28 UTC]** Velório de Rick, da dupla com Renner, tem presença de Zezé Di Camargo e sertanejos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/corpo-de-rick-da-dupla-com-renner-comeca-a-ser-velado-em-sorocaba-em-sao-paulo.shtml)_
+
+- **[2026-09-24 15:50 UTC]** Na despedida, Zezé Di Camargo relembra início da carreira de Rick e ajuda a amigo: 'Quem fez o sucesso dele foi ele'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/na-despedida-zeze-di-camargo-relembra-inicio-da-carreira-de-rick-e-ajuda-a-amigo-quem-fez-o-sucesso-dele-foi-ele.ghtml)_
+
+- **[2026-09-24 15:05 UTC]** Marrone, da dupla com Bruno, lamenta morte de Rick e lembra de acidente de helicóptero que sofreu: 'Já passei por isso em minha vida'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/marrone-velorio-rick-em-sorocaba.ghtml)_
+
+- **[2026-09-24 14:36 UTC]** Amigos da música se despedem de Rick no velório em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/amigos-da-musica-se-despedem-de-rick-no-velorio-em-sorocaba-sp.ghtml)_
+
+- **[2026-09-24 14:03 UTC]** Músicos e familiares chegam com ônibus da banda de Rick e Renner ao velório de Rick em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/musicos-e-familiares-chegam-com-onibus-da-banda-de-rick-e-renner-ao-velorio-de-rick-em-sorocaba-sp.ghtml)_
+
+- **[2026-09-24 13:43 UTC]** Morte do cantor Rick: empresa é autorizada a iniciar retirada de destroços de helicóptero
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/24/morte-cantor-rick-empresa-autorizada-procedimentos-retirada-destrocos-helicoptero-sc.ghtml)_
+
+- **[2026-09-24 13:11 UTC]** Velório do Rick: fãs se reúnem na frente de cemitério em Sorocaba para última despedida
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/velorio-do-rick-fas-se-reunem-na-frente-de-cemiterio-em-sorocaba-para-ultima-despedida.ghtml)_
+
+- **[2026-09-24 09:16 UTC]** Em cerimônia fechada, corpo do cantor Rick é velado e sepultado nesta quinta-feira em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/em-cerimonia-fechada-corpo-do-cantor-rick-sera-velado-e-sepultado-nesta-quinta-feira-em-sorocaba-sp.ghtml)_
+
+- **[2026-09-24 12:54 UTC]** 'Meu Tocantins': conheça música escrita por Rick em homenagem ao estado natal
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/24/meu-tocantins-conheca-musica-escrita-por-rick-em-homenagem-ao-estado-natal.ghtml)_
+
+- **[2026-09-24 20:08 UTC]** Renner deixa enterro do parceiro Rick e acena para fãs na saída do cemitério em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/renner-deixa-enterro-do-parceiro-rick-e-acena-para-fas-na-saida-do-cemiterio-em-sorocaba-sp.ghtml)_
+
+- **[2026-09-24 19:12 UTC]** Rick é enterrado em cerimônia restrita para amigos e família em Sorocaba, SP
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/rick-enterro-sorocaba.ghtml)_
+
+- **[2026-09-24 07:00 UTC]** Rick teve passagem rápida pelo governo do TO e escreveu carta sobre saída do cargo; relembre
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/24/rick-teve-passagem-rapida-pelo-governo-do-to-e-escreveu-carta-ao-deixar-o-cargo.ghtml)_
+
+- **[2026-09-24 21:29 UTC]** Colega de trabalho relembra como relação com Rick se transformou em amizade: 'Um homem simples'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/24/colega-de-trabalho-relembra-como-relacao-com-rick-se-transformou-em-amizade.ghtml)_
+
+- **[2026-09-24 22:46 UTC]** Renner fala pela primeira vez após morte de Rick: 'O show não pode parar'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/renner-fala-pela-primeira-vez-apos-morte-de-rick-o-show-nao-pode-parar.shtml)_
+
+- **[2026-09-25 04:00 UTC]** O que caixa-preta de helicóptero pode dizer sobre queda que resultou na morte do cantor Rick e mais 4
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/25/o-que-caixa-preta-helicoptero-pode-dizer-sobre-queda-rick.ghtml)_
+
+- **[2026-09-25 03:00 UTC]** Como será a retirada do helicóptero que caiu em SC e matou cantor Rick e outras 4 pessoas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/25/como-sera-retirada-helicoptero-caiu-sc-matou-rick-outras-4-pessoas.ghtml)_
+
+- **[2026-09-25 15:29 UTC]** Viúva do cantor Rick publica carta para agradecer carinho de fãs e amigos após funeral: 'Seguirá eternamente no coração de todos'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/25/carta-viuva-do-rick-enterro-em-sorocaba.ghtml)_
+
+- **[2026-09-25 13:12 UTC]** Irmão de Rick se emociona ao lembrar momentos com o cantor: 'Eu prefiro falar do Gê'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/25/irmao-de-rick-se-emociona-ao-lembrar-momentos-com-o-cantor-eu-prefiro-falar-do-ge.ghtml)_
+
+- **[2026-09-25 16:55 UTC]** Roberta Miranda critica aumento de seguidores de Rick após morte: 'Chega a ser cruel'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/roberta-miranda-critica-aumento-de-seguidores-de-rick-apos-morte-chega-a-ser-cruel.shtml)_
+
+- **[2026-09-26 07:00 UTC]** Helicóptero com cantor Rick e outros 4 a bordo caiu às 11h35, um minuto após emitir último sinal, estima FAB
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/26/helicoptero-cantor-rick-bordo-caiu-11h35-um-minuto-apos-ultimo-sinal-estima-fab.ghtml)_
+
+- **[2026-09-26 06:18 UTC]** Zezé Di Camargo diz que Rick está no 'lado direito de Deus' e que torce por Brasil à direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/zeze-di-camargo-diz-que-rick-esta-no-lado-direito-de-deus-e-que-torce-por-brasil-a-direita.shtml)_
+
+- **[2026-09-26 13:48 UTC]** Irmão de Rick relembra declaração de fã sobre hit da dupla em telefonema: ‘A música me salvou’
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/26/irmao-de-rick-relembra-declaracao-de-fa-sobre-hit-da-dupla-em-telefonema-a-musica-me-salvou.ghtml)_
+
+- **[2026-09-26 15:27 UTC]** Helicóptero de Rick caiu 11 minutos após horário previsto para pouso, estima FAB
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/helicoptero-de-rick-caiu-11-minutos-apos-horario-previsto-para-pouso-estima-fab.shtml)_
+
+- **[2026-09-27 17:09 UTC]** ‘Foi um professor’, diz primo ao relembrar que Rick o ajudaria em trabalho musical
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/27/foi-um-professor-diz-primo-ao-relembrar-que-rick-o-ajudaria-em-trabalho-musical.ghtml)_
+
+- **[2026-09-27 17:09 UTC]** ‘Um professor’, diz primo ao relembrar que Rick o ajudaria na produção de clipe
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/27/foi-um-professor-diz-primo-ao-relembrar-que-rick-o-ajudaria-em-trabalho-musical.ghtml)_
+

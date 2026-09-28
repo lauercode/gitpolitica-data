@@ -17,3 +17,48 @@
 - **[2026-09-11 23:40 UTC]** Mendonça derruba sigilo do caso Dark Horse e dos que envolvem Ciro Nogueira e Jaques Wagner
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-derruba-sigilo-do-caso-dark-horse-e-dos-que-envolvem-ciro-nogueira-e-jaques-wagner/)_
 
+- **[2026-09-11 20:00 UTC]** Mendonça retira sigilo de investigações que envolvem 'Dark Horse', Flávio, Jaques Wagner e Ciro Nogueira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-retira-sigilo-da-investigacao-sobre-dark-horse-e-outros-processos-do-caso-master.shtml)_
+
+- **[2026-09-12 00:08 UTC]** Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-12 01:27 UTC]** O que diz inquérito sobre relação de Jaques Wagner com Banco Master e Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cz6znw0ev0vo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-11 23:01 UTC]** Mendonça tira sigilo de investigações sobre 'Dark Horse', Ciro Nogueira, Jaques Wagner e Claudio Castro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/11/mendonca-atende-pgr-e-tira-sigilo-de-investigacoes-de-dark-horse-ciro-nogueira-e-claudio-castro.ghtml)_
+
+- **[2026-09-12 14:54 UTC]** Apartamento, aviões e Taylor Swift: O esquema e as trocas entre Jaques Wagner e cúpula do Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apartamento-avioes-e-taylor-swift-o-esquema-e-as-trocas-entre-jaques-wagner-e-cupula-do-master/)_
+
+- **[2026-09-12 15:39 UTC]** Caso Master: Mendonça bloqueou R$ 5,9 milhões em bens de Jaques Wagner
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/caso-master-mendona-bloqueou-r-59-milhes-em-bens-de-jaques-wagner.ghtml)_
+
+- **[2026-09-12 18:55 UTC]** Polícia Federal aponta indícios de corrupção entre Jaques Wagner e Banco Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-aponta-indicios-de-corrupcao-entre-jaques-wagner-e-banco-master/)_
+
+- **[2026-09-12 21:27 UTC]** PF diz que suspeitos usaram linguagem cifrada em negociação de apartamento para Jaques Wagner
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/12/pf-diz-que-suspeitos-usaram-linguagem-cifrada-em-negociao-de-apartamento-para-jaques-wagner.ghtml)_
+
+- **[2026-09-14 14:03 UTC]** Interlocutor de Jaques Wagner na Bahia teria articulado fraude do Master com o BRB, diz PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/interlocutor-wagner-bahia-articulado-fraude-master-brb/)_
+
+- **[2026-09-20 17:30 UTC]** Governador da Bahia usou helicóptero que foi disponibilizado por ex-sócio do Master a Wagner
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governador-da-bahia-usou-helicoptero-que-foi-disponibilizado-por-ex-socio-do-master-a-wagner.shtml)_
+
+- **[2026-09-20 17:30 UTC]** Governador da BA usou helicóptero disponibilizado por ex-sócio do Master a Wagner para voo em 2023
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governador-da-bahia-usou-helicoptero-que-foi-disponibilizado-por-ex-socio-do-master-a-wagner.shtml)_
+
+- **[2026-09-22 00:34 UTC]** TRE-BA tira do ar site com simulação de Whatsapp de Vorcaro a pedido de Jaques Wagner
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tre-ba-tira-do-ar-site-com-simulacao-de-whatsapp-de-vorcaro-a-pedido-de-jaques-wagner/)_
+
+- **[2026-09-22 12:56 UTC]** Campanha de Jaques Wagner vai à Justiça e derruba site que exibia mensagens de Daniel Vorcaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr3wj2jljej0o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-23 18:16 UTC]** Simulador do WhatsApp de Vorcaro volta ao ar após coligação de Jaques Wagner desistir da ação
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/simulador-do-whatsapp-de-vorcaro-volta-ao-ar-apos-coligacao-de-jaques-wagner-desistir-de-acao/)_
+
+- **[2026-09-24 22:15 UTC]** Quaest para o Senado na BA: Rui Costa, 23%; Jaques Wagner, 17%; João Roma, 11%; Angelo Coronel, 9%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-bahia-senado-24-setembro.ghtml)_
+

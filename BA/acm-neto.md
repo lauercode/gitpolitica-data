@@ -20,3 +20,30 @@
 - **[2026-09-07 11:16 UTC]** Atos do 7 de Setembro em Salvador têm ACM Neto e Flávio Bolsonaro na mesma bandeira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/atos-do-7-de-setembro-em-salvador-tem-acm-neto-e-flavio-bolsonaro-na-mesma-bandeira.shtml)_
 
+- **[2026-09-17 13:27 UTC]** Nunes Marques nega pedido da PF para realizar busca contra ACM Neto dentro de investigação sobre desvio de emendas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/17/nunes-marques-nega-pedido-da-pf-para-realizar-busca-contra-acm-neto-dentro-de-investigacao-sobre-desvio-de-emendas.ghtml)_
+
+- **[2026-09-17 08:06 UTC]** Kassio nega busca sobre ACM Neto em operação da PF que apura suspeita de fraude em licitação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/kassio-nega-busca-em-acm-neto-em-operacao-da-pf-sobre-fraudes-em-licitacoes.shtml)_
+
+- **[2026-09-17 11:50 UTC]** Nunes Marques negou pedido da PF de buscas contra ACM Neto
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/17/nunes-marques-negou-pedido-da-pf-de-buscas-contra-acm-neto-em-desvios-de-emendas-parlamentares.ghtml)_
+
+- **[2026-09-17 21:15 UTC]** Decisão de Nunes Marques revolta PT, que chama de 'proteção' a ACM Neto na BA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/17/deciso-de-nunes-marques-revolta-pt-que-chama-de-proteo-a-acm-neto-na-ba.ghtml)_
+
+- **[2026-09-21 18:07 UTC]** PF identifica 232 chamadas entre ACM Neto e José Marcos de Moura, indiciado por fraudes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/pf-identifica-232-chamadas-entre-acm-neto-e-jos-marcos-de-moura-indiciado-por-fraudes.ghtml)_
+
+- **[2026-09-21 20:05 UTC]** Nova pesquisa Quaest na BA testa impacto de Nunes Marques na disputa Jerônimo e ACM Neto
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-quaest-na-ba-testa-impacto-de-nunes-marques-na-disputa-jeronimo-e-acm-neto.ghtml)_
+
+- **[2026-09-21 18:07 UTC]** PF identifica 232 chamadas entre ACM Neto e o ‘Rei do Lixo’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/21/pf-identifica-232-chamadas-entre-acm-neto-e-jos-marcos-de-moura-indiciado-por-fraudes.ghtml)_
+
+- **[2026-09-24 22:16 UTC]** Quaest na BA: ACM Neto, 42%; Jerônimo Rodrigues, 40%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-ba-governador-24-setembro.ghtml)_
+
+- **[2026-09-24 19:26 UTC]** Quaest: ACM Neto e Jerônimo seguem em empate técnico na Bahia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-acm-neto-e-jeronimo-seguem-em-empate-tecnico-na-bahia.shtml)_
+

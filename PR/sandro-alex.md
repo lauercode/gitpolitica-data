@@ -65,3 +65,60 @@
 - **[2026-09-11 19:13 UTC]** Eleições 2026 no PR: Sandro Alex se reúne com empresários, visita Santa Casa e se encontra com apoiadores
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-sandro-alex.ghtml)_
 
+- **[2026-09-13 23:00 UTC]** Após descobrir doença rara e tumor, Alex Escobar voltará à Globo gradualmente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/apos-descobrir-doenca-rara-e-tumor-alex-escobar-voltara-a-globo-gradualmente.shtml)_
+
+- **[2026-09-14 16:58 UTC]** Eleições 2026 no Paraná: Sandro Alex se reúne com lideranças de instituições de Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-sandro-alex-se-reune-com-liderancas.ghtml)_
+
+- **[2026-09-15 17:04 UTC]** Eleições 2026 no Paraná: Sandro Alex participa de entrevista ao vivo na RPC, em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-no-parana-agenda-15-de-setembro-sandro-alex.ghtml)_
+
+- **[2026-09-15 16:14 UTC]** Sandro Alex promete melhorias na Copel, privatizada no governo Ratinho Junior, e diz que planeja grande projeto para contenção de enchentes
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/sandro-alex-entrevista-rpc.ghtml)_
+
+- **[2026-09-15 15:44 UTC]** Sandro Alex (PSD) é entrevistado no Meio-Dia Paraná; ASSISTA
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/ao-vivo-entrevistas-candidatos-governo-parana.ghtml)_
+
+- **[2026-09-16 13:28 UTC]** Governador Ratinho Junior se licencia do cargo nesta quinta-feira (17) para se dedicar à campanha de Sandro Alex
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/ratinho-junior-licenca-campanha.ghtml)_
+
+- **[2026-09-16 16:42 UTC]** Eleições 2026 no Paraná: Sandro Alex inaugura comitê em Maringá, participa de carreata e sabatina
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-sandro-alex.ghtml)_
+
+- **[2026-09-17 17:33 UTC]** Eleições 2026 no Paraná: Sandro Alex faz reunião com prefeitos do Oeste do estado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-agenda-sandro-alex-17-setembro.ghtml)_
+
+- **[2026-09-18 13:59 UTC]** Eleições 2026 no Paraná: Sandro Alex participa de encontro com lideranças em Foz do Iguaçu e carreata por quatro cidades
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-no-parana-sandro-alex-encontro-carreata.ghtml)_
+
+- **[2026-09-21 15:18 UTC]** Eleições 2026 no Paraná: Sandro Alex participa de entrevistas, carreatas e encontro com lideranças
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/21/sandro-alex-participa-de-entrevistas.ghtml)_
+
+- **[2026-09-22 14:46 UTC]** Eleições 2026 no Paraná: Sandro Alex visita Ceasa, participa de sabatinas e encontros com empresários
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-no-parana-sandro-alex-visita-ceasa-participa-de-sabatinas.ghtml)_
+
+- **[2026-09-23 14:40 UTC]** Eleições 2026 no Paraná: Sandro Alex agenda série de carreatas pelo norte do estado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-parana-sandro-alex-agenda-23-de-setembro.ghtml)_
+
+- **[2026-09-23 18:08 UTC]** Alex Atala, chef do D.O.M., estreia curso sobre cozinha brasileira na CasaFolha; assine
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alex-atala-chef-do-dom-estreia-curso-sobre-cozinha-brasileira-na-casafolha-assine.shtml)_
+
+- **[2026-09-24 15:07 UTC]** Quaest no Paraná: Sergio Moro, 36%; Requião Filho, 20%; Sandro Alex, 20%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-no-parana-pesquisa-setembro.ghtml)_
+
+- **[2026-09-24 12:40 UTC]** Quaest: Moro segue na liderança no Paraná, com 36%; Requião Filho e Sandro Alex estão empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-moro-segue-na-lideranca-no-parana-com-36-requiao-filho-e-sandro-alex-estao-empatados.shtml)_
+
+- **[2026-09-24 12:32 UTC]** Eleições 2026 no Paraná: Sandro Alex participa de carreatas com Ratinho Junior pelo Norte Pioneiro
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-no-parana-sandro-alex-participa-de-carreatas-com-ratinho-junior.ghtml)_
+
+- **[2026-09-24 16:20 UTC]** Quaest: No Paraná, Sergio Moro tem 36%; Requião Filho e Sandro Alex empatam com 20%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/quaest-no-paran-sergio-moro-tem-36-pontos-percentuais-requio-filho-e-sandro-alex-empatam-com-20.ghtml)_
+
+- **[2026-09-25 16:14 UTC]** Eleições 2026 no Paraná: Sandro Alex vai às ruas em carreatas em Londrina e Maringá
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/25/agenda-campanha-sandro-alex-carreatas-londrina-maringa-25-setembro.ghtml)_
+
+- **[2026-09-25 15:18 UTC]** ESPN renova contratos com Luciano Amaral, Paulo Calçade e Alex Tseng até 2028
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/espn-renova-contratos-com-luciano-amaral-paulo-calcade-e-alex-tseng-ate-2028.shtml)_
+

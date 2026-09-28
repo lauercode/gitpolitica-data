@@ -131,3 +131,21 @@
 - **[2026-09-10 19:38 UTC]** Queda de avião mata três pessoas em área rural de Mato Grosso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/queda-de-aviao-mata-tres-pessoas-em-area-rural-de-mato-grosso.shtml)_
 
+- **[2026-09-14 16:39 UTC]** Motorista de ônibus é agredido com coronhada durante assalto na Estrada da Mata, na Grande São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/14/motorista-de-onibus-e-agredido-com-coronhada-durante-assalto-na-estrada-da-mata-na-grande-sao-luis.ghtml)_
+
+- **[2026-09-17 09:00 UTC]** Vanessa da Mata, Flávio Andrade e Bonde do Gra Gra: veja agenda cultural do fim de semana em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/o-que-fazer-em-natal-e-regiao/noticia/2026/09/17/vanessa-da-mata-flavio-andrade-e-bonde-do-gra-gra-veja-agenda-cultural-do-fim-de-semana-em-natal.ghtml)_
+
+- **[2026-09-17 08:02 UTC]** Festival Tempero Bahia leva sabores da Mata Atlântica às mesas
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/festival-tempero-bahia-leva-sabores-da-mata-atlantica-mesas)_
+
+- **[2026-09-18 09:16 UTC]** Vanessa da Mata, Mombojó e mais: 'Qual a Boa?' do fim de semana, 18, 19 e 20 de setembro, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/musica/noticia/2026/09/18/vanessa-da-mata-mombojo-e-mais-qual-a-boa-do-fim-de-semana-18-19-e-20-de-setembro-na-pb.ghtml)_
+
+- **[2026-09-21 07:52 UTC]** Agricultura ganha 11 milhões de hectares em 41 anos na Mata Atlântica
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/agricultura-ganha-11-milhoes-de-hectares-em-41-anos-na-mata-atlantica)_
+
+- **[2026-09-21 17:14 UTC]** Um quarto da Mata Atlântica é de vegetação secundária, diz MapBiomas
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/um-quarto-da-mata-atlantica-e-de-vegetacao-secundaria-diz-mapbiomas)_
+

@@ -248,3 +248,114 @@
 - **[2026-09-11 21:39 UTC]** Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 35%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-presidente-11-setembro.ghtml)_
 
+- **[2026-09-11 20:48 UTC]** Após ascensão nas pesquisas, Cury muda QG para área nobre de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/apos-ascensao-nas-pesquisas-cury-muda-qg-para-area-nobre-de-sp.shtml)_
+
+- **[2026-09-11 22:00 UTC]** Cury cobra que análise do STF sobre Moraes seja televisionada
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/cury-cobra-que-analise-do-stf-sobre-moraes-seja-televisionada.ghtml)_
+
+- **[2026-09-12 11:48 UTC]** Lula, Caiado, Cury e Zema reagem à quebra de sigilo das investigações do Caso Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/12/lula-caiado-cury-e-zema-reagem-quebra-de-sigilo-das-investigaes-do-caso-master.ghtml)_
+
+- **[2026-09-12 20:29 UTC]** Datafolha em PE: Lula, 55%; Flávio Bolsonaro, 24%; Cury, 4%; Renan, 2%; Caiado; 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/12/datafolha-pe-presidente-setembro.ghtml)_
+
+- **[2026-09-12 20:02 UTC]** Datafolha em MG: Lula, 37%; Flávio 35%, Cury, 5%; Zema, 5%; Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/12/datafolha-mg-presidente-12-setembro.ghtml)_
+
+- **[2026-09-12 20:00 UTC]** Datafolha em SP: Flávio Bolsonaro, 35%; Lula, 33%; Cury, 7%; Renan, 6%; Caiado, 4%; Samara, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/12/datafolha-sp-presidente-12-setembro.ghtml)_
+
+- **[2026-09-12 20:57 UTC]** Datafolha no DF: Flávio Bolsonaro, 40%; Lula, 32%; Caiado; 8%; Cury, 6%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/12/datafolha-no-df-flavio-bolsonaro-40percent-lula-32percent-caiado-8percent-renan-3percent-zema-1percent-cury-6percent.ghtml)_
+
+- **[2026-09-13 14:32 UTC]** Ascensão de Cury e posição antissistema de Renan Santos isolam ex-governadores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ascensao-de-cury-e-posicao-antissistema-de-renan-santos-isolam-ex-governadores/)_
+
+- **[2026-09-14 13:43 UTC]** Quaest: transferência de votos de eleitores de Cury, Renan e Caiado favorece Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-transferencia-votos-flavio-segundo-turno.ghtml)_
+
+- **[2026-09-14 13:21 UTC]** Quaest: entre eleitores de Cury, 25% escolhem Lula e 41%, Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-eleitores-cury-lula-flavio-segundo-turno-setembro.ghtml)_
+
+- **[2026-09-14 13:16 UTC]** Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 31%; Cury, 7%; Renan, 4%; Caiado, 4%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/14/quaest-pesquisa-presidente-primeiro-turno-14-setembro.ghtml)_
+
+- **[2026-09-14 13:37 UTC]** Cury declara apoio a André Mendonça e publica “não vote em quem está na agenda do Vorcaro”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cury-declara-apoio-a-andre-mendonca-e-publica-nao-vote-em-quem-esta-na-agenda-do-vorcaro/)_
+
+- **[2026-09-16 13:00 UTC]** Em livro, Cury se compara a Jesus, Lincoln e Luther King como 'sonhador' que contribuiu com humanidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-livro-cury-se-compara-a-jesus-lincoln-e-luther-king-como-sonhador-que-contribuiu-com-humanidade.shtml)_
+
+- **[2026-09-17 06:00 UTC]** Candidatos do partido de Cury em SP reclamam de falta de repasse do fundo eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidatos-do-partido-de-cury-em-sp-reclamam-de-falta-de-repasse-do-fundo-eleitoral.shtml)_
+
+- **[2026-09-17 22:04 UTC]** Datafolha, 1º turno: Lula, 39%; Flávio Bolsonaro, 36%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-presidente-17-setembro.ghtml)_
+
+- **[2026-09-18 04:02 UTC]** Hackers usam sites de Cury e do PT para alavancar bets e conteúdo sobre prostituição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/hackers-usam-sites-de-cury-e-do-pt-para-alavancar-bets-e-conteudo-sobre-prostituicao.shtml)_
+
+- **[2026-09-19 16:42 UTC]** Cury diz que 'suplicou' a Fachin para STF concluir julgamento em uma semana
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/19/cury-diz-que-suplicou-a-fachin-para-stf-concluir-julgamento-em-uma-semana.ghtml)_
+
+- **[2026-09-21 14:34 UTC]** Folha inicia série de entrevistas sobre educação; Flávio e Cury não escalam porta-vozes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/folha-inicia-serie-de-entrevistas-sobre-educacao-flavio-e-cury-nao-escalam-porta-vozes.shtml)_
+
+- **[2026-09-21 21:05 UTC]** Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 33%; Cury, 6%; Caiado, 4%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/21/quaest-presidente-1o-turno-21-setembro.ghtml)_
+
+- **[2026-09-22 00:31 UTC]** Em evento com jovens influenciadores, Cury promete 'revolucionar' turismo, educação, medicina e agricultura
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/21/em-evento-com-jovens-influenciadores-cury-promete-revolucionar-turismo-educacao-medicina-e-agricultura.ghtml)_
+
+- **[2026-09-21 23:53 UTC]** 'Torcendo para que nada tenha acontecido', diz Cury após conselheiro de campanha desaparecer a bordo de helicóptero com cantor Rick
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/augusto-cury-conselheiro-campanha-helicoptero-desaparecido.ghtml)_
+
+- **[2026-09-22 12:21 UTC]** Cury fará pente-fino e grosso nos gastos, mas mexer em regras da Previdência é inaceitável, diz Hauly
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/cury-fara-pente-fino-e-grosso-nos-gastos-mas-mexer-em-regras-da-previdencia-e-inaceitavel-diz-hauly.shtml)_
+
+- **[2026-09-23 04:00 UTC]** Datafolha: Flávio Bolsonaro atrai mais eleitores de Zema, Renan, Caiado e Cury em 2º turno contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-atrai-mais-eleitores-de-zema-renan-caiado-e-cury-em-2o-turno-contra-lula.shtml)_
+
+- **[2026-09-23 13:02 UTC]** Aliados de Lula tentam neutralidade do PSD no segundo turno e buscam ponte com Cury
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/aliados-de-lula-tentam-neutralidade-do-psd-no-segundo-turno-e-buscam-ponte-com-cury.shtml)_
+
+- **[2026-09-23 20:23 UTC]** Quaest em PE: Lula, 54%; Flávio, 21%; Cury, 5%; Renan, 2%; Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/23/quaest-pe-presidente-23-de-setembro.ghtml)_
+
+- **[2026-09-23 20:17 UTC]** Quaest no DF: Flávio, 33%; Lula, 32%; Caiado, 8%; Cury, 7%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-presidente-23-setembro.ghtml)_
+
+- **[2026-09-23 20:05 UTC]** Quaest em SP: Flávio Bolsonaro, 34%; Lula, 31%; Cury, 7%; Caiado, 4%; Renan; 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/quaest-sp-presidente-23-setembro.ghtml)_
+
+- **[2026-09-24 17:11 UTC]** Quaest no Paraná: Flávio, 40%; Lula, 26%; Cury, 5%; Caiado, 4%; Renan, 4%; e Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-parana-presidente-24-setembro.ghtml)_
+
+- **[2026-09-24 21:41 UTC]** Datafolha, 1º turno: Lula, 40%; Flávio Bolsonaro, 36%; Cury, 5%; Caiado, 4%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-presidente-24-setembro.ghtml)_
+
+- **[2026-09-25 22:42 UTC]** Quaest no AC: Flávio, 50%; Lula, 24%; Cury, 4%; Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/25/quaest-ac-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 22:18 UTC]** Quaest em MS: Flávio Bolsonaro, 42%; Lula, 27%; Caiado, 4%; Cury, 4%; Renan Santos, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/25/quaest-mato-grosso-do-sul-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 22:11 UTC]** Quaest no ES: Flávio Bolsonaro, 37%; Lula, 31%; Cury, 5%
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/25/quaest-espirito-santo-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 21:39 UTC]** Datafolha em PE: Lula, 60%; Flávio Bolsonaro, 24%; Cury, 3%; Renan, 2%; Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/25/datafolha-pe-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 21:38 UTC]** Datafolha no RJ: Flávio Bolsonaro, 44%; Lula, 38%; Cury, Renan e Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/25/datafolha-no-rj-presidencia-25-setembro.ghtml)_
+
+- **[2026-09-25 21:38 UTC]** Datafolha em SP: Flávio Bolsonaro, 38%; Lula, 33%; Cury, 7%; Caiado, 5%; Renan, 4%; Zema, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/25/datafolha-sp-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 21:38 UTC]** Datafolha no DF: Flávio, 41%; Lula, 34%; Caiado; 9%; Cury, 4%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-df-presidente-25-setembro.ghtml)_
+
+- **[2026-09-25 21:37 UTC]** Datafolha em MG: Lula, 39%; Flávio Bolsonaro, 37%; Cury, 5%; Zema, 4%; Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/25/datafolha-mg-presidente-25-setembro.ghtml)_
+

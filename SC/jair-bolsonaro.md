@@ -23,3 +23,24 @@
 - **[2026-09-11 03:30 UTC]** 'Dark Horse': as emendas parlamentares e o filme sobre Jair Bolsonaro - O Assunto #1802
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/09/11/dark-horse-as-emendas-parlamentares-e-o-filme-sobre-jair-bolsonaro-o-assunto-1802.ghtml)_
 
+- **[2026-09-12 06:46 UTC]** Perucas, figurino, hospedagens: veja gastos de 'Dark Horse', filme sobre Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/perucas-figurino-hospedagens-veja-gastos-de-dark-horse-filme-sobre-jair-bolsonaro.ghtml)_
+
+- **[2026-09-12 03:34 UTC]** 'Dark Horse': produtor dos EUA de filme sobre Jair Bolsonaro diz que só entrega documentos à PF com ordem da Justiça americana
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/12/dark-horse-produtor-dos-eua-de-filme-sobre-jair-bolsonaro-diz-que-so-entrega-documentos-a-pf-com-ordem-da-justica-americana.ghtml)_
+
+- **[2026-09-13 12:00 UTC]** Jair Bolsonaro ainda é citado por 2% dos eleitores, segundo Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/jair-bolsonaro-ainda-e-citado-por-2-dos-eleitores-segundo-datafolha.shtml)_
+
+- **[2026-09-15 08:00 UTC]** Como o PCC aparece nas investigações sobre a produtora de Dark Horse, filme sobre a vida de Jair Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq8r63m878y1o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-16 22:23 UTC]** Liminar do TSE restabelece proibição de uso de imagem de Jair Bolsonaro em propaganda eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/09/16/liminar-do-tse-restabelece-proibicao-de-uso-de-imagem-de-jair-bolsonaro-em-propaganda-eleitoral.ghtml)_
+
+- **[2026-09-16 22:19 UTC]** TSE proíbe uso da imagem de Jair Bolsonaro em santinhos de candidatos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-proibe-uso-da-imagem-de-jair-bolsonaro-em-santinhos-de-candidatos.shtml)_
+
+- **[2026-09-24 20:00 UTC]** Censuras da Justiça Eleitoral à imagem de Jair Bolsonaro ferem a liberdade de expressão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/censuras-da-justica-eleitoral-a-imagem-de-jair-bolsonaro-ferem-a-liberdade-de-expressao/)_
+

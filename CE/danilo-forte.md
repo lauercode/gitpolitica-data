@@ -119,3 +119,6 @@
 - **[2026-09-11 15:38 UTC]** Probabilidade do El Niño ser muito forte passa de 90%
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/probabilidade-do-el-nino-ser-muito-forte-passa-de-90)_
 
+- **[2026-09-26 23:22 UTC]** Forte chuva de granizo com pedras do tamanho da palma da mão atinge o RS e deixa chão branco; VÍDEO
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/26/granizo-temporal-fronteira-oeste-rs-registros-instabilidade-sabado.ghtml)_
+

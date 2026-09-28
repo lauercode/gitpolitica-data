@@ -47,3 +47,36 @@
 - **[2026-09-11 22:40 UTC]** Eleições 2026 em SC: Jorginho Mello almoça com aliados e lideranças políticas em Curitibanos
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-em-sc-jorginho-mello-almoca-com-aliados-e-liderancas-politicas-em-curitibanos.ghtml)_
 
+- **[2026-09-14 11:47 UTC]** Às 11h45: Jornal do Almoço entrevista Jorginho Mello, candidato ao governo de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/entrevista-candidatos-governo-de-sc-jorginho-mello.ghtml)_
+
+- **[2026-09-14 16:39 UTC]** Entrevista na NSC: Jorginho Mello defende parcerias público-privadas para o saneamento básico e prepara retomada das câmeras corporais da polícia
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/14/entrevista-na-nsc-jorginho-mello-governo-santa-catarina.ghtml)_
+
+- **[2026-09-14 16:12 UTC]** Jorginho Mello (PL) é entrevistado no Jornal do Almoço; VEJA TRECHOS
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/playlist/jorginho-mello-pl-e-entrevistado-no-jornal-do-almoco-veja-trechos.ghtml)_
+
+- **[2026-09-15 23:19 UTC]** Eleições 2026 em SC: Jorginho Mello reúne com líderes religiosos, representantes de escolas de samba e motofrentistas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-em-sc-jorginho-mello-reune-com-lideres-religiosos-representantes-de-escolas-de-samba-e-motofrentistas.ghtml)_
+
+- **[2026-09-16 22:25 UTC]** Eleições 2026 em SC: Jorginho Mello participa de reunião com lideranças femininas do partido
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-em-sc-jorginho-mello-participa-de-reuniao-com-liderancas-femininas-do-partido.ghtml)_
+
+- **[2026-09-17 22:19 UTC]** Eleições 2026 em SC: Jorginho Mello reúne com lideranças empresariais e representantes do agronegócio
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-em-sc-jorginho-mello-reune-com-liderancas-empresariais-e-representantes-do-agronegocio.ghtml)_
+
+- **[2026-09-18 22:24 UTC]** Eleições 2026 em SC: Jorginho Mello reúne com integrantes da Fiesc e firma compromisso de não aumentar impostos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-em-sc-jorginho-mello-reune-com-integrantes-da-fiesc-e-firma-compromisso-de-nao-aumentar-impostos.ghtml)_
+
+- **[2026-09-22 03:48 UTC]** Jorginho Mello reassume governo de SC após chuvas e tsunami meteorológico atingirem o estado
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/jorginho-mello-reassume-governo-de-sc-apos-chuvas-e-tsunami-meteorologico-atingirem-o-estado.ghtml)_
+
+- **[2026-09-24 22:15 UTC]** Quaest em SC: 73% aprovam e 17% desaprovam governo de Jorginho Mello
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-avaliacao-governo-24-setembro.ghtml)_
+
+- **[2026-09-24 22:08 UTC]** Quaest em SC: Jorginho Mello, 54%; João Rodrigues, 13%; Gelson Merísio, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-governador-24-setembro.ghtml)_
+
+- **[2026-09-24 19:19 UTC]** Quaest: Jorginho Mello (PL) segue na liderança ao Governo de Santa Catarina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-jorginho-mello-pl-segue-na-lideranca-ao-governo-de-santa-catarina.shtml)_
+

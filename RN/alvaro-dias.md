@@ -17,3 +17,21 @@
 - **[2026-09-10 19:59 UTC]** Álvaro Dias apresenta plano para contas do Estado em sabatina com empresários
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/10/alvaro-dias-apresenta-plano-para-contas-do-estado-em-sabatina-com-empresarios.ghtml)_
 
+- **[2026-09-14 16:40 UTC]** Candidato ao Governo do RN, Álvaro Dias promete aumentar arrecadação e ampliar Walfredo Gurgel; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/14/entrevista-governo-do-rn-alvaro-dias.ghtml)_
+
+- **[2026-09-14 19:34 UTC]** Álvaro Dias propõe interiorização da indústria e do turismo no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/14/alvaro-dias-propoe-interiorizacao-da-industria-e-do-turismo-no-rn.ghtml)_
+
+- **[2026-09-17 20:32 UTC]** Álvaro Dias promete construir novo hospital regional em Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/17/alvaro-dias-promete-construir-novo-hospital-regional-em-mossoro.ghtml)_
+
+- **[2026-09-23 19:00 UTC]** Álvaro Dias defende medidas para atrair empresas e investimentos para o RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/23/alvaro-dias-defende-medidas-para-atrair-empresas-e-investimentos-para-o-rn.ghtml)_
+
+- **[2026-09-25 20:12 UTC]** Álvaro Dias apresenta propostas para saúde em programa eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/alvaro-dias-apresenta-propostas-para-saude-em-programa-eleitoral.ghtml)_
+
+- **[2026-09-25 22:24 UTC]** Quaest no RN: Allyson, 39%; Cadu de Lula, 21%; Álvaro Dias, 18%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-governador-25-setembro.ghtml)_
+

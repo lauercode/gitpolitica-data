@@ -56,3 +56,36 @@
 - **[2026-09-11 17:12 UTC]** Datafolha: Cleitinho mantém liderança em MG com 37%; Patrus tem 13%, Kalil, 11%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-cletinho-tem-37-e-mantem-lideranca-em-corrida-pelo-governo-de-mg.shtml)_
 
+- **[2026-09-11 20:47 UTC]** Datafolha: Cleitinho tem 37%, Patrus tem 13% e Kalil, 11% na disputa ao governo de MG
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/datafolha-cleitinho-tem-37percent-patrus-tem-13percent-e-kalil-11percent-na-disputa-ao-governo-de-mg.ghtml)_
+
+- **[2026-09-16 06:00 UTC]** Cleitinho é carregado nos ombros em evento por deputado investigado por fraude no INSS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cleitinho-e-carregado-nos-ombros-em-evento-por-deputado-investigado-por-fraude-no-inss.shtml)_
+
+- **[2026-09-18 17:13 UTC]** Cleitinho declara gratidão a Euclydes Pettersen, mas diz que aliado terá que pagar se for culpado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/cleitinho-declara-gratidao-a-euclydes-pettersen-mas-diz-que-aliado-tera-que-pagar-se-for-culpado.ghtml)_
+
+- **[2026-09-21 17:33 UTC]** Nova pesquisa Datafolha em MG testa se Cleitinho vai ampliar vantagem contra rivais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-em-mg-testa-se-cleitinho-vai-ampliar-vantagem-contra-rivais.ghtml)_
+
+- **[2026-09-21 20:04 UTC]** Ausentes de debate, Cleitinho, Patrus e Kalil são atacados por Mateus Simões e Gabriel Azevedo, em MG
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/ausentes-de-debate-cleitinho-patrus-e-kalil-sao-atacados-por-mateus-simoes-e-gabriel-azevedo-em-mg.ghtml)_
+
+- **[2026-09-23 11:48 UTC]** Tarcísio pede votos para Cleitinho em vídeo e reforça aliança em MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-pede-votos-para-cleitinho-em-video-e-reforca-alianca-em-mg.shtml)_
+
+- **[2026-09-23 20:28 UTC]** Quaest: Em MG, Cleitinho tem 37%; Patrus tem 16% no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quaest-em-mg-cleitinho-tem-37-pontos-percentuais-patrus-tem-16-no-primeiro-turno.ghtml)_
+
+- **[2026-09-24 12:27 UTC]** Kalil vincula dono do Banco Master ao governo de MG, ataca Cleitinho e promete corte radical de isenções
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/alexandre-kalil-participa-da-serie-de-sabatinas-do-valor-o-globo-e-cbn-com-os-candidatos-ao-governo-de-minas-acompanhe.ghtml)_
+
+- **[2026-09-24 18:11 UTC]** Datafolha: Cleitinho vai a 40% em MG no 1º turno, ante 15% de Patrus e 9% de Kalil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-cleitinho-vai-a-40-em-mg-no-1o-turno-ante-15-de-patrus-e-9-de-kalil.shtml)_
+
+- **[2026-09-24 21:35 UTC]** Datafolha: Em MG, Cleitinho tem 40%; Patrus, 15% e Kalil, 9% no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-em-mg-cleitinho-tem-40-pontos-percentuais-patrus-15-e-kalil-9-no-primeiro-turno.ghtml)_
+
+- **[2026-09-25 21:36 UTC]** Nova pesquisa Quaest em MG testa Cleitinho, Kalil, Mateus Simões e Patrus a cinco dias do 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/nova-pesquisa-quaest-em-mg-testa-cleitinho-kalil-mateus-simoes-e-patrus-a-cinco-dias-do-1o-turno.ghtml)_
+

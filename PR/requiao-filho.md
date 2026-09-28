@@ -38,3 +38,51 @@
 - **[2026-09-11 19:12 UTC]** Eleições 2026: Requião Filho diz que parte da malha ferroviária do Paraná está abandonada e que pretende 'retomar estradas de ferro'
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-requiao-filho-diz-que-parte-da-malha-ferroviaria-do-parana-esta-abandonada-e-que-pretende-retomar-estradas-de-ferro.ghtml)_
 
+- **[2026-09-14 16:58 UTC]** Eleições 2026 no Paraná: Requião Filho visita hospital e encontra apoiadores na Grande Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-requiao-filho-visita-hospital-e-encontra-apoiadores.ghtml)_
+
+- **[2026-09-15 17:04 UTC]** Eleições 2026 no Paraná: Requião Filho participa de sabatinas, entrevistas e palestra de filósofa, em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-no-parana-requiao-filho-participa-de-sabatinas-entrevistas-e-palestra-de-filosofa-em-curitiba.ghtml)_
+
+- **[2026-09-16 07:00 UTC]** Requião Filho aciona Justiça Eleitoral após emissora cancelar debate no Paraná
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/requiao-filho-aciona-justica-eleitoral-apos-emissora-cancelar-debate-no-parana.shtml)_
+
+- **[2026-09-16 16:57 UTC]** Requião Filho defende auditoria na Copel e fim das escolas cívico-militares no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/requiao-filho-entrevista-rpc.ghtml)_
+
+- **[2026-09-16 16:41 UTC]** Eleições 2026 no Paraná: Requião Filho participa de entrevista ao vivo na RPC, em Curitiba, e de agenda em Toledo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-parana-requiao-filho.ghtml)_
+
+- **[2026-09-16 15:44 UTC]** Requião Filho (PDT) é entrevistado no Meio-Dia Paraná; ASSISTA
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/ao-vivo-entrevistas-candidatos-governo-parana.ghtml)_
+
+- **[2026-09-16 19:30 UTC]** Requião Filho defende aliança com o PT e nega loteamento de eventual governo no Paraná
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/requiao-filho-defende-alianca-com-o-pt-e-nega-loteamento-de-eventual-governo-no-parana/)_
+
+- **[2026-09-17 17:33 UTC]** Eleições 2026 no Paraná: Requião Filho se reúne com professores em Foz do Iguaçu
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-agenda-requiao-filho-17-setembro.ghtml)_
+
+- **[2026-09-18 13:53 UTC]** Eleições 2026 no Paraná: Requião Filho encontra apoiadores, participa de entrevista e debate
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-no-parana-requiao-filho-encontro-debate.ghtml)_
+
+- **[2026-09-22 14:42 UTC]** Eleições 2026 no Paraná: Requião Filho concede entrevistas e se reúne com sindicalistas da Copel no Norte do estado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-no-parana-requiao-filho-entrevistas-encontros.ghtml)_
+
+- **[2026-09-23 14:40 UTC]** Eleições 2026 no Paraná: Requião Filho concede entrevistas e se reúne com empresários no norte do estado
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-parana-requiao-filho-agenda-23-de-setembro.ghtml)_
+
+- **[2026-09-24 15:07 UTC]** Quaest no Paraná: Sergio Moro, 36%; Requião Filho, 20%; Sandro Alex, 20%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-no-parana-pesquisa-setembro.ghtml)_
+
+- **[2026-09-24 12:40 UTC]** Quaest: Moro segue na liderança no Paraná, com 36%; Requião Filho e Sandro Alex estão empatados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-moro-segue-na-lideranca-no-parana-com-36-requiao-filho-e-sandro-alex-estao-empatados.shtml)_
+
+- **[2026-09-24 12:32 UTC]** Eleições 2026 no Paraná: Requião Filho concentra agenda entre entrevistas, sabatina e reuniões
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-no-parana-requiao-filho-entrevistas-sabatina-e-reunioes.ghtml)_
+
+- **[2026-09-24 16:20 UTC]** Quaest: No Paraná, Sergio Moro tem 36%; Requião Filho e Sandro Alex empatam com 20%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/quaest-no-paran-sergio-moro-tem-36-pontos-percentuais-requio-filho-e-sandro-alex-empatam-com-20.ghtml)_
+
+- **[2026-09-25 16:14 UTC]** Eleições 2026 no Paraná: Requião Filho concede entrevistas e participa de reuniões e evento de campanha
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-no-parana-requiao-filho-concede-entrevistas-e-participa-de-reunioes-e-evento-de-campanha.ghtml)_
+

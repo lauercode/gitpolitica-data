@@ -47,3 +47,21 @@
 - **[2026-09-11 22:05 UTC]** Renan Filho faz campanha no Litoral Sul; JHC não divulga agenda nesta sexta
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/11/renan-filho-faz-campanha-no-litoral-sul-jhc-nao-divulga-agenda-nesta-sexta.ghtml)_
 
+- **[2026-09-14 23:11 UTC]** Renan Filho faz carreata em Arapiraca e JHC participa de sabatina em Maceió nesta segunda (14)
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/14/renan-filho-faz-carreata-em-arapiraca-e-jhc-participa-de-sabatina-em-maceio-nesta-segunda-14.ghtml)_
+
+- **[2026-09-16 16:31 UTC]** Renan Filho promete hospitais do câncer e de trauma, 80 clínicas da família e concurso anual
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/16/renan-filho-promete-hospitais-do-cancer-e-de-trauma-80-clinicas-da-familia-e-concurso-anual.ghtml)_
+
+- **[2026-09-16 15:45 UTC]** Renan Filho (MDB) é entrevistado no AB1; assista
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/ao-vivo/confira-as-entrevistas-com-os-candidatos-ao-governo-de-alagoas-no-ab1.ghtml)_
+
+- **[2026-09-25 20:57 UTC]** Quaest em AL: JHC tem 43%; e Renan Filho, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-governador-25-setembro.ghtml)_
+
+- **[2026-09-25 18:31 UTC]** Quaest: JHC tem 43% e Renan Filho, 41%, em Alagoas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-jhc-tem-43-e-renan-filho-41-em-alagoas.shtml)_
+
+- **[2026-09-27 15:15 UTC]** Justiça Eleitoral retira perfil de Renan Filho em rede social, mas nova decisão determina retomada
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/27/justica-eleitoral-retira-perfil-de-renan-filho-em-redes-social-mas-nova-decisao-determina-retomada.ghtml)_
+

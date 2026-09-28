@@ -206,3 +206,57 @@
 - **[2026-09-11 00:51 UTC]** Senadores da oposição intensificam cobrança sobre Alcolumbre pelo impeachment de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-senatorial-intensifica-cobranca-sobre-alcolumbre-pelo-impeachment-de-moraes/)_
 
+- **[2026-09-14 21:26 UTC]** Oposição critica “covardia” e propõe regra para reduzir poder de Alcolumbre sobre impeachment
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-critica-covardia-e-propoe-regra-para-reduzir-poder-de-alcolumbre-sobre-impeachment/)_
+
+- **[2026-09-14 20:12 UTC]** Exclusividade de Alcolumbre em pautar impeachment tem servido como blindagem, diz Rogério Marinho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/exclusividade-de-alcolumbre-em-pautar-impeachment-tem-servido-como-blindagem-diz-rogerio-marinho.ghtml)_
+
+- **[2026-09-14 21:38 UTC]** Oposição dribla Alcolumbre e marca sessão de comissão para usar como palanque contra Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/oposicao-dribla-alcolumbre-e-marca-sessao-de-comissao-para-usar-como-palanque-contra-moraes.shtml)_
+
+- **[2026-09-16 18:25 UTC]** Alcolumbre se torna alvo de campanhas eleitorais em meio a julgamento de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alcolumbre-alvo-campanhas-eleitorais/)_
+
+- **[2026-09-17 23:00 UTC]** Alcolumbre usa poder em Brasília para tentar evitar derrota política no Amapá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-usa-poder-em-brasilia-para-tentar-evitar-derrota-politica-no-amapa.shtml)_
+
+- **[2026-09-22 23:20 UTC]** Zanin é sorteado relator de pedido para obrigar Alcolumbre a instalar CPI do Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-e-sorteado-relator-de-pedido-para-obrigar-alcolumbre-a-instalar-cpi-do-master/)_
+
+- **[2026-09-23 10:44 UTC]** Zanin nega liminar para obrigar Alcolumbre a pautar CPI sobre Moraes, Toffoli e Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-lega-liminar-para-obrigar-alcolumbre-a-pautar-cpi-sobre-moraes-toffoli-e-vorcaro/)_
+
+- **[2026-09-23 15:00 UTC]** Fux manda Alcolumbre se manifestar sobre idas de esposa de Moraes e Vorcaro a gabinetes do Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fux-manda-alcolumbre-se-manifestar-sobre-acessos-de-esposa-de-moraes-e-vorcaro-a-gabinetes-do-senado.shtml)_
+
+- **[2026-09-23 15:00 UTC]** Fux manda Alcolumbre se manifestar sobre idas de esposa de Moraes, Vorcaro e Lulinha ao Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fux-manda-alcolumbre-se-manifestar-sobre-acessos-de-esposa-de-moraes-e-vorcaro-a-gabinetes-do-senado.shtml)_
+
+- **[2026-09-23 18:56 UTC]** Fux dá 10 dias para Alcolumbre se manifestar sobre visitas de citados no Master ao Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-da-10-dias-para-alcolumbre-se-manifestar-sobre-visitas-de-citados-no-master-ao-senado/)_
+
+- **[2026-09-23 19:14 UTC]** Davi Alcolumbre tem 10 dias para se manifestar sobre visitas ao Senado
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/davi-alcolumbre-tem-10-dias-para-se-manifestar-sobre-visitas-ao-senado)_
+
+- **[2026-09-24 04:00 UTC]** Flávio Bolsonaro procura União-PP, que avalia apoio no 2º turno com garantia para Alcolumbre no Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-procura-uniao-pp-que-avalia-apoio-no-2o-turno-com-garantia-para-alcolumbre-no-senado.shtml)_
+
+- **[2026-09-24 13:30 UTC]** Toffoli vota para tirar adversário de Alcolumbre de eleição do Amapá; Mendonça interrompe julgamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/toffoli-vota-para-tirar-adversario-de-alcolumbre-de-eleicao-do-amapa-mendonca-interrompe-julgamento.shtml)_
+
+- **[2026-09-24 20:42 UTC]** Mensagens apontam relação de proximidade entre Alcolumbre e Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-apontam-relacao-de-proximidade-entre-alcolumbre-e-vorcaro.shtml)_
+
+- **[2026-09-25 01:41 UTC]** “Fala meu amor”: mensagens apontam proximidade entre Alcolumbre e Vorcaro; senador alega intimidação
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-apontam-proximidade-entre-alcolumbre-e-vorcaro-senador-alega-intimidacao/)_
+
+- **[2026-09-25 05:42 UTC]** Davi Alcolumbre nega irregularidades após revelação de mensagens com banqueiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/davi-alcolumbre-nega-irregularidades-apos-revelacao-de-mensagens-com-banqueiro/)_
+
+- **[2026-09-25 03:11 UTC]** Mensagens encontradas pela PF indicam proximidade entre Alcolumbre e Vorcaro, diz revista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/25/mensagens-encontradas-pela-pf-indicam-proximidade-entre-alcolumbre-e-vorcaro-diz-revista.ghtml)_
+
+- **[2026-09-26 12:00 UTC]** 'Amor' por Vorcaro explica omissão de Alcolumbre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/amor-por-vorcaro-explica-omissao-de-alcolumbre.shtml)_
+

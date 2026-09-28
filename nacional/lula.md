@@ -968,3 +968,57 @@
 - **[2026-09-10 15:41 UTC]** Presidente Lula sanciona lei que acaba com "taxa das blusinhas"
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-sanciona-lei-que-acaba-com-taxa-das-blusinhas)_
 
+- **[2026-09-14 18:30 UTC]** Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-15 13:05 UTC]** Flávio Bolsonaro diz que Lula dividiu poder com Moraes e deixou Brasil ‘sem presidente’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/15/flvio-bolsonaro-diz-que-lula-dividiu-poder-com-moraes-e-deixou-brasil-sem-presidente.ghtml)_
+
+- **[2026-09-18 08:00 UTC]** Presidente Lula diz descartar demandas americanas para eleição
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/18/presidente-lula-diz-descartar-demandas-americanas-para-eleicao.ghtml)_
+
+- **[2026-09-20 13:34 UTC]** Indústria de bets usa valores invesidos com publicidade e patrocínio contra ofensiva do presidente Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/industria-de-bets-usa-valores-invesidos-com-publicidade-e-patrocinio-contra-ofensiva-do-presidente-lula.shtml)_
+
+- **[2026-09-20 21:24 UTC]** Lula marca encontros com Bernie Sanders, Mamdani e presidente do Uruguai em NY
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/lula-marca-encontros-com-bernie-sanders-mamdani-e-presidente-do-uruguai-em-ny.shtml)_
+
+- **[2026-09-21 15:15 UTC]** Nova pesquisa Datafolha para presidente põe Lula e Flávio Bolsonaro à prova e testa crise do STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/21/nova-pesquisa-datafolha-para-presidente-poe-lula-e-flavio-bolsonaro-a-prova-e-testa-crise-do-stf.ghtml)_
+
+- **[2026-09-21 18:24 UTC]** Nos EUA, presidente Lula tem encontro com prefeito de Nova York
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-09/nos-eua-presidente-lula-tem-encontro-com-prefeito-de-nova-york)_
+
+- **[2026-09-21 17:53 UTC]** Na reta final, campanha de Lula reforça atos de rua e presença do presidente nos estados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/na-reta-final-campanha-de-lula-reforca-atos-de-rua-e-presenca-do-presidente-nos-estados.shtml)_
+
+- **[2026-09-22 16:30 UTC]** De Lula 1 a Lula 3: o que permaneceu, o que mudou e o que surgiu nos discursos do presidente na ONU
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/22/lula-discursos-onu.ghtml)_
+
+- **[2026-09-22 16:38 UTC]** Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-22 14:45 UTC]** Veja aqui a íntegra do discurso do presidente Lula na ONU
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/22/veja-aqui-a-ntegra-do-discurso-do-presidente-lula-na-onu.ghtml)_
+
+- **[2026-09-24 00:47 UTC]** Lula compara discurso na ONU ao de Trump e diz que presidente dos EUA fala como se estivesse 'ameaçando todo mundo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/23/lula-compara-discurso-na-onu-ao-de-trump-e-diz-que-presidente-dos-eua-fala-como-se-estivesse-ameacando-todo-mundo.ghtml)_
+
+- **[2026-09-23 21:50 UTC]** Avanço de Flávio Bolsonaro faz Lula reavaliar estratégia, e presidente deve ir a debate da Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml)_
+
+- **[2026-09-24 09:49 UTC]** Flávio Bolsonaro e Lula voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-24 14:35 UTC]** Lula diz que ‘amigo de presidente é o povo, não é Vorcaro, dono do Banco Master’
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/24/lula-diz-que-amigo-de-presidente-e-o-povo-nao-e-vorcaro-dono-do-banco-master.ghtml)_
+
+- **[2026-09-24 16:25 UTC]** Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-25 15:06 UTC]** Flávio Bolsonaro volta a parecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
+- **[2026-09-25 20:24 UTC]** Presidente Lula assina MP que proíbe as Bets no Brasil
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-assina-mp-que-proibe-bets-no-brasil)_
+

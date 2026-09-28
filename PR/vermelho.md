@@ -56,3 +56,24 @@
 - **[2026-09-11 17:53 UTC]** Ciclone extratropical deixa região Sul do país em alerta vermelho
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/ciclone-extratropical-deixa-regiao-sul-do-pais-em-alerta-vermelho)_
 
+- **[2026-09-13 10:39 UTC]** Guerra no mar Vermelho ameaça 4% do petróleo do mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/guerra-no-mar-vermelho-ameaca-4-do-petroleo-do-mundo.shtml)_
+
+- **[2026-09-15 16:14 UTC]** Conflito no Iêmen desloca mais de 100 mil pessoas e agrava crise no mar Vermelho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/conflito-no-iemen-desloca-mais-de-100-mil-pessoas-e-agrava-crise-no-mar-vermelho.shtml)_
+
+- **[2026-09-15 18:29 UTC]** Alanis Guillen fala sobre virar vampira no 2º ano de 'Vermelho Sangue': 'Entregue a tudo de novo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/alanis-guillen-fala-sobre-virar-vampira-no-2o-ano-de-vermelho-sangue-entregue-a-tudo-de-novo.shtml)_
+
+- **[2026-09-16 09:37 UTC]** Sauditas bombardeiam o Iêmen; houthis atacam porto no mar Vermelho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/sauditas-bombardeiam-o-iemen-houthis-atacam-porto-no-mar-vermelho.shtml)_
+
+- **[2026-09-16 15:30 UTC]** Criadoras de 'Vermelho Sangue' celebram poder feminino na série: 'Pusemos a mulher no centro'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/criadoras-de-vermelho-sangue-celebram-poder-feminino-na-serie-pusemos-a-mulher-no-centro.shtml)_
+
+- **[2026-09-18 09:05 UTC]** Leticia Vieira e Pedro Alves vão a estreia de 'Vermelho Sangue' em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/leticia-vieira-e-pedro-alves-vao-a-estreia-de-vermelho-sangue-em-sp.shtml)_
+
+- **[2026-09-25 15:45 UTC]** França enviará tropas à Arábia Saudita para proteger infraestrutura de energia no mar Vermelho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/franca-enviara-tropas-a-arabia-saudita-para-proteger-infraestrutura-de-energia-no-mar-vermelho.shtml)_
+

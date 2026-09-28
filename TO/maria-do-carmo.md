@@ -47,3 +47,12 @@
 - **[2026-09-10 18:47 UTC]** Eleições 2026: Maria do Carmo grava programa eleitoral e defende convocação de aprovados da PM no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-maria-do-carmo-grava-programa-eleitoral-e-defende-convocacao-de-aprovados-da-pm-no-am.ghtml)_
 
+- **[2026-09-14 17:29 UTC]** Em sabatina, Maria do Carmo diz que governo do AM deve se preparar para seca e cheia e questiona relação com crise climática
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/14/em-sabatina-maria-do-carmo-diz-que-governo-do-am-deve-se-preparar-para-seca-e-cheia-e-questiona-relacao-com-crise-climatica.ghtml)_
+
+- **[2026-09-15 10:33 UTC]** Acesso do Complexo Viário Maria do Carmo em Aracaju será alterado
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/15/acesso-do-complexo-viario-maria-do-carmo-em-aracaju-sera-alterado.ghtml)_
+
+- **[2026-09-24 19:42 UTC]** Quaest: Aziz tem 29% e Maria do Carmo e Cidade estão empatados tecnicamente no Amazonas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-aziz-tem-29-e-maria-do-carmo-e-cidade-estao-empatados-tecnicamente-no-amazonas.shtml)_
+

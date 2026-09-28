@@ -44,3 +44,21 @@
 - **[2026-09-11 15:41 UTC]** Eleições 2026: Eduardo Amorim e Rogério Carvalho cancelam participação em entrevista na FM Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/11/candidatos-ao-senado-cancelam-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-09-14 17:42 UTC]** Candidato ao governo de RO, Marcos Rogério (PL) promete construir hospital de traumas com verba do Detran
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/14/entrevista-com-o-candidato-ao-governo-de-ro-marcos-rogerio-no-jro1.ghtml)_
+
+- **[2026-09-14 20:12 UTC]** Exclusividade de Alcolumbre em pautar impeachment tem servido como blindagem, diz Rogério Marinho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/14/exclusividade-de-alcolumbre-em-pautar-impeachment-tem-servido-como-blindagem-diz-rogerio-marinho.ghtml)_
+
+- **[2026-09-22 18:34 UTC]** Rogério Marinho propõe reforma judiciária para limitar poderes de ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-propoe-reforma-judiciaria-para-limitar-poderes-de-ministros-do-stf/)_
+
+- **[2026-09-24 22:29 UTC]** Quaest em RO: Marcos Rogério, 37%; Adailton Furia, 21%; Hildon Chaves, 9%; Expedito Netto, 6%
+  _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-governador-24-de-setembro.ghtml)_
+
+- **[2026-09-24 20:09 UTC]** Quaest: Marcos Rogério lidera disputa em Rondônia com 37%, ante 21% de Adailton Fúria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-marcos-rogerio-lidera-disputa-em-rondonia-com-37-ante-21-de-adailton-furia.shtml)_
+
+- **[2026-09-27 19:56 UTC]** Rogério Marinho acusa Dino de atropelar decisão de Mendonça sobre Nossa Senhora para favorecer Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-acusa-dino-de-atropelar-decisao-de-mendonca-sobre-nossa-senhora-para-favorecer-lula/)_
+

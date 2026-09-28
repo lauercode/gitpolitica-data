@@ -20,3 +20,6 @@
 - **[2026-09-05 17:47 UTC]** “Se arrependimento matasse” diz ex-ministro Marco Aurélio sobre apoio a Moraes no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/se-arrependimento-matasse-diz-ex-ministro-marco-aurelio-sobre-apoio-a-moraes-no-stf/)_
 
+- **[2026-09-11 22:10 UTC]** Marco Aurélio Vasconcelos é eleito  presidente da Cemig
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/09/11/marco-aurelio-vasconcelos-e-eleito-presidente-da-cemig.ghtml)_
+

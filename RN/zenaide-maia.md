@@ -8,3 +8,9 @@
 - **[2026-08-24 22:33 UTC]** Quaest no RN para o Senado: Styvenson Valentim, 16%; Zenaide Maia, 10%; Samanda de Lula, 8%; Rafael Motta, 8%; Coronel Hélio, 5%
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/08/24/quaest-rn-senado-24-de-agosto.ghtml)_
 
+- **[2026-09-18 12:42 UTC]** Candidata ao Senado, Zenaide Maia defende redução de juros em cartões e lei que garante emprego a mulheres vítimas de violência; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/18/entrevista-candidata-senado-zenaide-maia.ghtml)_
+
+- **[2026-09-25 22:26 UTC]** Quaest para o Senado no RN: Styvenson Valentim, 19%; Zenaide Maia, 12%; Coronel Hélio, 9%; Samanda de Lula, 9%; Rafael Motta, 7%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-senado-25-setembro.ghtml)_
+
