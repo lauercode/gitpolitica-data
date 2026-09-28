@@ -38,3 +38,6 @@
 - **[2026-09-21 23:00 UTC]** Viagem do papa Leão 14 à América do Sul inclui reuniões com povos da Amazônia e visita a prisão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/viagem-do-papa-leao-14-a-america-do-sul-inclui-reunioes-com-povos-da-amazonia-e-visita-a-prisao.shtml)_
 
+- **[2026-09-28 08:45 UTC]** Negociadores precisam fazer concessões para encerrar guerra na Ucrânia, diz papa Leão 14
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/negociadores-precisam-fazer-concessoes-para-encerrar-guerra-na-ucrania-diz-papa-leao-14.shtml)_
+
