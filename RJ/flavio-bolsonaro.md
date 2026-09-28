@@ -2675,3 +2675,6 @@
 - **[2026-09-28 20:52 UTC]** Candidato do PSD em Minas, Carlos Viana declara apoio a Flávio Bolsonaro no 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/candidato-do-psd-em-minas-carlos-viana-declara-apoio-a-flvio-bolsonaro-no-1-turno.ghtml)_
 
+- **[2026-09-28 20:02 UTC]** Mesmo com Flávio, Lula não deve ir a debate da TV Globo e intensifica agenda de campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/mesmo-com-flvio-lula-no-deve-ir-a-debate-da-tv-globo-e-intensifica-agenda-de-campanha.ghtml)_
+
