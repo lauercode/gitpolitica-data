@@ -77,3 +77,6 @@
 - **[2026-09-27 12:08 UTC]** Mendonça amplia influência no TCE-SP com aliados indicados por Tarcísio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mendonca-amplia-influencia-no-tce-sp-com-aliados-indicados-por-tarcisio.shtml)_
 
+- **[2026-09-28 08:00 UTC]** Propostas para habitação em SP: Tarcísio renova programas da gestão atual e Haddad propõe Minha Casa Minha Vida estadual
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/propostas-para-habitacao-em-sp-tarcisio-renova-programas-da-gestao-atual-e-haddad-propoe-minha-casa-minha-vida-estadual.ghtml)_
+
