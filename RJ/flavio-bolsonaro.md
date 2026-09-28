@@ -2576,3 +2576,6 @@
 - **[2026-09-28 08:00 UTC]** Disputa pelo Senado em SC mostra quadro difícil para filho de Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/disputa-pelo-senado-em-sc-mostra-quadro-dificil-para-filho-de-bolsonaro.ghtml)_
 
+- **[2026-09-28 08:00 UTC]** Flávio critica veto a bets e diz que irá a debate
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/flavio-critica-veto-a-bets-e-diz-que-ira-a-debate.ghtml)_
+
