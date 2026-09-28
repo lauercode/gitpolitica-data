@@ -2567,3 +2567,6 @@
 - **[2026-09-28 03:32 UTC]** Flávio Bolsonaro acusa CNBB de participar de fake news; bispos dizem que ‘mentira não se combate com mentira’
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/28/flavio-bolsonaro-acusa-cnbb-de-participar-de-fake-news-bispos-dizem-que-mentira-nao-se-combate-com-mentira.ghtml)_
 
+- **[2026-09-28 02:23 UTC]** Flávio Dino anula decisão que censurava postagens sobre Nossa Senhora Aparecida
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-anula-decisao-que-censurava-postagens-sobre-nossa-senhora-aparecida/)_
+
