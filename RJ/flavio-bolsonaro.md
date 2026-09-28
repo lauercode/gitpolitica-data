@@ -2666,3 +2666,6 @@
 - **[2026-09-28 18:12 UTC]** Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-28 16:55 UTC]** Eleições presidenciais: o que as pesquisas diziam sobre Lula x Bolsonaro a uma semana da eleição em 2022 e 2018 — e o que dizem em 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6j4j70y8jdxo?at_medium=RSS&at_campaign=rss)_
+
