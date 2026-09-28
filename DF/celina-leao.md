@@ -50,3 +50,6 @@
 - **[2026-09-24 18:11 UTC]** Datafolha: Celina Leão (PP) lidera com 42% ao Governo do DF no cenário sem Arruda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-celina-leao-pp-lidera-com-37-das-intencoes-ao-governo-do-df.shtml)_
 
+- **[2026-09-28 19:10 UTC]** Nova pesquisa Datafolha no DF mede se Celina Leão liquida eleição já no 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-datafolha-no-df-mede-se-celina-liquida-eleicao-ja-no-1o-turno.ghtml)_
+
