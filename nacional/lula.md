@@ -1022,3 +1022,6 @@
 - **[2026-09-25 20:24 UTC]** Presidente Lula assina MP que proíbe as Bets no Brasil
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/presidente-lula-assina-mp-que-proibe-bets-no-brasil)_
 
+- **[2026-09-27 23:17 UTC]** Lula propõe que indicação para ministro do STF não seja feita só pelo presidente e sugere que conselho tome decisão
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/27/em-entrevista-o-presidente-lula-fala.ghtml)_
+
