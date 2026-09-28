@@ -89,3 +89,6 @@
 - **[2026-09-25 21:36 UTC]** Nova pesquisa Quaest em MG testa Cleitinho, Kalil, Mateus Simões e Patrus a cinco dias do 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/nova-pesquisa-quaest-em-mg-testa-cleitinho-kalil-mateus-simoes-e-patrus-a-cinco-dias-do-1o-turno.ghtml)_
 
+- **[2026-09-28 15:17 UTC]** Nova pesquisa Datafolha em MG testa se Cleitinho liquida eleição no  1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-datafolha-em-mg-testa-se-cleitinho-liquida-eleicao-no-1o-turno.ghtml)_
+
