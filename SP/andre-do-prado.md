@@ -41,3 +41,6 @@
 - **[2026-09-25 15:30 UTC]** Guilherme Derrite e André do Prado não comparecem a debate do g1 entre candidatos ao Senado por São Paulo
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/25/guilherme-derrite-e-andre-do-prado-nao-comparecem-a-debate-do-g1-entre-candidatos-ao-senado-por-sao-paulo.ghtml)_
 
+- **[2026-09-28 11:57 UTC]** Ricardo Salles já afirmou não haver 'hipótese de alguém decente apoiar André do Prado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/salles-ja-afirmou-nao-haver-hipotese-de-alguem-decente-apoiar-andre-do-prado.shtml)_
+
