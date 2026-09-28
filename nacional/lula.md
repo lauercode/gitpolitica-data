@@ -1025,3 +1025,6 @@
 - **[2026-09-27 23:17 UTC]** Lula propõe que indicação para ministro do STF não seja feita só pelo presidente e sugere que conselho tome decisão
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/27/em-entrevista-o-presidente-lula-fala.ghtml)_
 
+- **[2026-09-28 19:05 UTC]** Presidente do PT sinaliza que Lula deve faltar ao debate da TV Globo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/presidente-do-pt-sinaliza-que-lula-deve-faltar-ao-debate-da-tv-globo.ghtml)_
+
