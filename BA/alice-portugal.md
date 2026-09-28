@@ -68,3 +68,6 @@
 - **[2026-09-28 17:00 UTC]** 1926: Militar é promovido após perder o poder em Portugal e ser exilado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-militar-e-promovido-apos-perder-o-poder-em-portugal-e-ser-exilado.shtml)_
 
+- **[2026-09-28 19:26 UTC]** Rico Melquiades volta atrás e diz que não vai mais morar em Portugal: 'Nunca nem pensei nisso'
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/28/rico-melquiades-volta-atras-e-diz-que-nao-vai-mais-morar-em-portugal.ghtml)_
+
