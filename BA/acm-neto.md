@@ -47,3 +47,6 @@
 - **[2026-09-24 19:26 UTC]** Quaest: ACM Neto e Jerônimo seguem em empate técnico na Bahia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-acm-neto-e-jeronimo-seguem-em-empate-tecnico-na-bahia.shtml)_
 
+- **[2026-09-28 17:19 UTC]** Nova pesquisa Quaest na BA testa voto em ACM Neto e Jerônimo após investigação da PF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-quaest-na-ba-testa-se-investigacao-da-pf-influencia-voto-em-acm-neto.ghtml)_
+
