@@ -2651,3 +2651,6 @@
 - **[2026-09-28 14:07 UTC]** O que é a CNBB, entidade católica criticada por Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/o-que-e-a-cnbb-entidade-catolica-criticada-por-flavio-bolsonaro.shtml)_
 
+- **[2026-09-28 14:06 UTC]** Flávio Bolsonaro ergue imagem de Nossa Senhora e acena à CNBB após atribuir fake news à entidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-ergue-imagem-de-nossa-senhora-e-acena-a-cnbb-apos-atribuir-fake-news-a-entidade.shtml)_
+
