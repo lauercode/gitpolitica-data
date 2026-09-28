@@ -17,3 +17,6 @@
 - **[2026-09-17 13:20 UTC]** Rodrigo de Queiroz Moreira lidera nova fase imobiliária em Macapá
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/09/17/rodrigo-de-queiroz-moreira-lidera-nova-fase-imobiliaria-em-macapa-1.ghtml)_
 
+- **[2026-09-28 18:06 UTC]** Rodrigo de Queiroz Moreira investe em projeto híbrido em Macapá
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/09/28/rodrigo-de-queiroz-moreira-investe-em-projeto-hibrido-em-macapa-1.ghtml)_
+
