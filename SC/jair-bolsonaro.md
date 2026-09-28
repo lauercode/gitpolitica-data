@@ -44,3 +44,6 @@
 - **[2026-09-24 20:00 UTC]** Censuras da Justiça Eleitoral à imagem de Jair Bolsonaro ferem a liberdade de expressão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/censuras-da-justica-eleitoral-a-imagem-de-jair-bolsonaro-ferem-a-liberdade-de-expressao/)_
 
+- **[2026-09-28 16:00 UTC]** Secretários do MEC sob Jair Bolsonaro divulgam carta de apoio à reeleição de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/secretarios-do-mec-sob-jair-bolsonaro-divulgam-carta-de-apoio-a-reeleicao-do-lula.shtml)_
+
