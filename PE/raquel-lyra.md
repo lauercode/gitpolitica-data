@@ -77,3 +77,6 @@
 - **[2026-09-25 21:46 UTC]** Nova pesquisa Quaest em PE testa Raquel Lyra e João Campos a cinco dias do 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/nova-quaest-em-pernambuco-testa-raquel-lyra-e-joao-campos-a-cinco-dias-do-1o-turno.ghtml)_
 
+- **[2026-09-27 22:53 UTC]** STF determina retirada da federação PSDB-Cidadania da coligação que apoia Raquel Lyra em Pernambuco
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/27/stf-determina-retirada-da-federao-psdb-cidadania-da-coligao-que-apoia-raquel-lyra-em-pernambuco.ghtml)_
+
