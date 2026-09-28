@@ -2615,3 +2615,6 @@
 - **[2026-09-28 14:52 UTC]** Quaest: Rejeição a Lula oscila de 55% para 54% e a Flávio se mantém em 56%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/quaest-rejeio-a-lula-oscila-de-55-pontos-percentuais-para-54-e-a-flvio-se-mantm-em-56.ghtml)_
 
+- **[2026-09-28 14:30 UTC]** Quaest: Lula amplia vantagem sobre Flávio entre mulheres e beneficiários do Bolsa Família
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/28/quaest-lula-amplia-vantagem-sobre-flvio-entre-mulheres-e-beneficirios-do-bolsa-famlia.ghtml)_
+
