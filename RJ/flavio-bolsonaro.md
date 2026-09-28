@@ -2573,3 +2573,6 @@
 - **[2026-09-28 07:34 UTC]** Por que Lula acusa Trump de tentar interferir na eleição a favor de Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6pvewvn2j79o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-28 08:00 UTC]** Disputa pelo Senado em SC mostra quadro difícil para filho de Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/disputa-pelo-senado-em-sc-mostra-quadro-dificil-para-filho-de-bolsonaro.ghtml)_
+
