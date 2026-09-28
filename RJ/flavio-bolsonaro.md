@@ -2672,3 +2672,6 @@
 - **[2026-09-28 18:40 UTC]** De Aparecida à 'soberania' no altar: esquerda mobiliza catolicismo em apoio a Lula como nunca (e a reação de Flavio Bolsonaro)
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-28 20:52 UTC]** Candidato do PSD em Minas, Carlos Viana declara apoio a Flávio Bolsonaro no 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/candidato-do-psd-em-minas-carlos-viana-declara-apoio-a-flvio-bolsonaro-no-1-turno.ghtml)_
+
