@@ -80,3 +80,6 @@
 - **[2026-09-27 22:53 UTC]** STF determina retirada da federação PSDB-Cidadania da coligação que apoia Raquel Lyra em Pernambuco
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/27/stf-determina-retirada-da-federao-psdb-cidadania-da-coligao-que-apoia-raquel-lyra-em-pernambuco.ghtml)_
 
+- **[2026-09-28 13:20 UTC]** Toffoli vota a favor de Raquel Lyra no TSE, mas muda o próprio entendimento e derruba decisão no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/toffoli-vota-a-favor-de-raquel-lyra-no-tse-mas-muda-o-proprio-entendimento-e-derruba-decisao-no-stf.shtml)_
+
