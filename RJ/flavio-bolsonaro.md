@@ -2594,3 +2594,6 @@
 - **[2026-09-28 13:16 UTC]** Quaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 42%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-2o-turno-28-setembro.ghtml)_
 
+- **[2026-09-28 11:10 UTC]** Lula aposta em pacote de bondades, e Flávio Bolsonaro busca 'voto útil' na reta final a disputa presidencial
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/28/lula-aposta-em-pacote-de-bondades-e-flavio-bolsonaro-busca-voto-util-na-reta-final-a-disputa-presidencial.ghtml)_
+
