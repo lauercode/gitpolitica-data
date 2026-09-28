@@ -359,3 +359,6 @@
 - **[2026-09-25 21:37 UTC]** Datafolha em MG: Lula, 39%; Flávio Bolsonaro, 37%; Cury, 5%; Zema, 4%; Caiado, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/25/datafolha-mg-presidente-25-setembro.ghtml)_
 
+- **[2026-09-28 13:17 UTC]** Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml)_
+
