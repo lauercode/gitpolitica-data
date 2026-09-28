@@ -32,3 +32,6 @@
 - **[2026-09-28 11:26 UTC]** Tebet diz que Salles aderiu ao centrão e que ela é a única candidata de centro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tebet-diz-que-salles-aderiu-ao-centrao-e-que-ela-e-a-unica-candidata-de-centro.shtml)_
 
+- **[2026-09-28 10:29 UTC]** Salles desiste de candidatura ao Senado de São Paulo e apoia Derrite e André do Prado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/salles-desiste-de-candidatura-ao-senado-de-sao-paulo-e-apoia-derrite-e-andre-do-prado.shtml)_
+
