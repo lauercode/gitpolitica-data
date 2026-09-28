@@ -2621,3 +2621,6 @@
 - **[2026-09-28 13:22 UTC]** Pesquisa Quaest: Lula retoma liderança no 1º turno e mantém empate com Flávio no 2º
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/pesquisa-quaest-lula-e-flavio-empatam-com-42percent-no-segundo-turno.ghtml)_
 
+- **[2026-09-28 10:48 UTC]** Candidatos do Novo anunciam apoio a Flávio Bolsonaro no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/candidatos-do-novo-anunciam-apoio-a-flvio-bolsonaro-no-primeiro-turno.ghtml)_
+
