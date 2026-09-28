@@ -2648,3 +2648,6 @@
 - **[2026-09-28 15:09 UTC]** Lula busca evitar desgaste e deve faltar a debate da Globo, adiando embate com Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-busca-evitar-desgaste-e-deve-faltar-a-debate-da-globo-adiando-embate-com-flavio-bolsonaro.shtml)_
 
+- **[2026-09-28 14:07 UTC]** O que é a CNBB, entidade católica criticada por Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/o-que-e-a-cnbb-entidade-catolica-criticada-por-flavio-bolsonaro.shtml)_
+
