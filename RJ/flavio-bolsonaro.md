@@ -2612,3 +2612,6 @@
 - **[2026-09-28 09:44 UTC]** Flávio volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-28 14:52 UTC]** Quaest: Rejeição a Lula oscila de 55% para 54% e a Flávio se mantém em 56%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/quaest-rejeio-a-lula-oscila-de-55-pontos-percentuais-para-54-e-a-flvio-se-mantm-em-56.ghtml)_
+
