@@ -29,3 +29,6 @@
 - **[2026-09-28 11:57 UTC]** Ricardo Salles já afirmou não haver 'hipótese de alguém decente apoiar André do Prado'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/salles-ja-afirmou-nao-haver-hipotese-de-alguem-decente-apoiar-andre-do-prado.shtml)_
 
+- **[2026-09-28 11:26 UTC]** Tebet diz que Salles aderiu ao centrão e que ela é a única candidata de centro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tebet-diz-que-salles-aderiu-ao-centrao-e-que-ela-e-a-unica-candidata-de-centro.shtml)_
+
