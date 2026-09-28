@@ -2564,3 +2564,6 @@
 - **[2026-09-27 23:21 UTC]** Flávio Bolsonaro critica fim das bets e diz que medida pode impactar Copa do Mundo no Brasil
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/27/flvio-bolsonaro-critica-fim-das-bets-e-diz-que-medida-pode-impactar-copa-do-mundo-no-brasil.ghtml)_
 
+- **[2026-09-28 03:32 UTC]** Flávio Bolsonaro acusa CNBB de participar de fake news; bispos dizem que ‘mentira não se combate com mentira’
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/28/flavio-bolsonaro-acusa-cnbb-de-participar-de-fake-news-bispos-dizem-que-mentira-nao-se-combate-com-mentira.ghtml)_
+
