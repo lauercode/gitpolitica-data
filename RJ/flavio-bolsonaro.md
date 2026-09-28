@@ -2669,3 +2669,6 @@
 - **[2026-09-28 16:55 UTC]** Eleições presidenciais: o que as pesquisas diziam sobre Lula x Bolsonaro a uma semana da eleição em 2022 e 2018 — e o que dizem em 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6j4j70y8jdxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-28 18:40 UTC]** De Aparecida à 'soberania' no altar: esquerda mobiliza catolicismo em apoio a Lula como nunca (e a reação de Flavio Bolsonaro)
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss)_
+
