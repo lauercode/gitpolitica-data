@@ -2678,3 +2678,6 @@
 - **[2026-09-28 20:02 UTC]** Mesmo com Flávio, Lula não deve ir a debate da TV Globo e intensifica agenda de campanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/mesmo-com-flvio-lula-no-deve-ir-a-debate-da-tv-globo-e-intensifica-agenda-de-campanha.ghtml)_
 
+- **[2026-09-28 19:11 UTC]** Análise: Ofensiva de anúncios eleitoreiros do governo Lula e campanha negativa contra Flávio começam a surtir efeito
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/analise-ofensiva-de-anuncios-eleitoreiros-do-governo-lula-e-campanha-negativa-contra-flavio-comecam-a-surtir-efeito.ghtml)_
+
