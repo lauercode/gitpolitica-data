@@ -20,3 +20,6 @@
 - **[2026-09-23 21:09 UTC]** Senador Carlos Viana (PL) pede ao STF que determine a instalação do Conselho de Ética do Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/23/senador-carlos-viana-pl-pede-ao-stf-que-determine-a-instalao-do-conselho-de-tica-do-senado.ghtml)_
 
+- **[2026-09-28 20:52 UTC]** Candidato do PSD em Minas, Carlos Viana declara apoio a Flávio Bolsonaro no 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/candidato-do-psd-em-minas-carlos-viana-declara-apoio-a-flvio-bolsonaro-no-1-turno.ghtml)_
+
