@@ -2561,3 +2561,6 @@
 - **[2026-09-27 21:42 UTC]** Em Goiânia, Flávio Bolsonaro acusa CNBB de ajudar PT com fake news
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-goiania-flavio-bolsonaro-acusa-cnbb-de-ajudar-pt-com-fake-news.shtml)_
 
+- **[2026-09-27 23:21 UTC]** Flávio Bolsonaro critica fim das bets e diz que medida pode impactar Copa do Mundo no Brasil
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/27/flvio-bolsonaro-critica-fim-das-bets-e-diz-que-medida-pode-impactar-copa-do-mundo-no-brasil.ghtml)_
+
