@@ -38,3 +38,6 @@
 - **[2026-09-26 20:04 UTC]** Quaest: Dr. Daniel (Podemos), com 41%, quebra sequência de empates técnicos no Pará
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-dr-daniel-podemos-com-41-quebra-sequencia-de-empates-tecnicos-no-para.shtml)_
 
+- **[2026-09-28 20:05 UTC]** Nova pesquisa Quaest no Pará avalia disputa entre Hana Ghassan e Dr. Daniel
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-quaest-no-para-avalia-disputa-entre-hana-ghassan-e-dr-daniel.ghtml)_
+
