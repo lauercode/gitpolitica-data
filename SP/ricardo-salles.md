@@ -41,3 +41,6 @@
 - **[2026-09-28 19:48 UTC]** Ricardo Salles desiste da disputa pelo Senado a 6 dias da votação; entenda o que acontece com os votos
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/ricardo-salles-desiste-da-disputa-pelo-senado-a-6-dias-da-votacao-entenda-o-que-acontece-com-os-votos.ghtml)_
 
+- **[2026-09-28 13:19 UTC]** Marina Silva diz que Salles desrespeita eleitores ao desistir de Senado e que eleição não é vale-tudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/marina-silva-diz-que-salles-desrespeita-eleitores-ao-desistir-de-senado-e-que-eleicao-nao-e-vale-tudo.shtml)_
+
