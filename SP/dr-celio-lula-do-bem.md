@@ -32,3 +32,6 @@
 - **[2026-09-27 18:16 UTC]** Boulos percorre periferias de SP e região metropolitana em uma van para pedir votos a Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/boulos-percorre-periferias-de-sp-e-regiao-metropolitana-em-uma-van-para-pedir-votos-a-lula.shtml)_
 
+- **[2026-09-28 17:39 UTC]** Flávio pede voto útil, critica Lula e diz que Brasil precisa 'mudar rápido' em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/flvio-pede-voto-til-critica-lula-e-diz-que-brasil-precisa-mudar-rpido-em-sp.ghtml)_
+
