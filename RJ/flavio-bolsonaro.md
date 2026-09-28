@@ -2663,3 +2663,6 @@
 - **[2026-09-28 16:41 UTC]** Flávio pede que Fux restabeleça decisão de Mendonça sobre Nossa Senhora derrubada por Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-que-fux-restabeleca-decisao-de-mendonca-sobre-nossa-senhora-derrubada-por-dino/)_
 
+- **[2026-09-28 18:12 UTC]** Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
