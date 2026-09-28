@@ -41,3 +41,6 @@
 - **[2026-09-28 08:45 UTC]** Negociadores precisam fazer concessões para encerrar guerra na Ucrânia, diz papa Leão 14
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/negociadores-precisam-fazer-concessoes-para-encerrar-guerra-na-ucrania-diz-papa-leao-14.shtml)_
 
+- **[2026-09-28 16:21 UTC]** Carlos Maranhão conversa com Pedro Martinelli e Leão Serva sobre fotografia em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/carlos-maranhao-conversa-com-pedro-martinelli-e-leao-serva-sobre-fotografia-em-sp.shtml)_
+
