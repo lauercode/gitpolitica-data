@@ -50,3 +50,6 @@
 - **[2026-09-28 10:29 UTC]** Salles desiste de candidatura ao Senado de São Paulo e apoia Derrite e André do Prado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/salles-desiste-de-candidatura-ao-senado-de-sao-paulo-e-apoia-derrite-e-andre-do-prado.shtml)_
 
+- **[2026-09-28 14:57 UTC]** Ricardo Salles desiste de concorrer ao Senado e apoia Derrite e André do Prado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/ricardo-salles-desiste-de-concorrer-ao-senado-e-apoia-derrite-e-andr-do-prado.ghtml)_
+
