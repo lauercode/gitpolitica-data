@@ -65,3 +65,6 @@
 - **[2026-09-27 21:13 UTC]** Evento sobre migração da UFRR reúne pesquisadores da Noruega, Holanda, Portugal e França
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/27/evento-sobre-migracao-da-ufrr-reune-pesquisadores-da-noruega-holanda-portugal-e-franca.ghtml)_
 
+- **[2026-09-28 17:00 UTC]** 1926: Militar é promovido após perder o poder em Portugal e ser exilado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-militar-e-promovido-apos-perder-o-poder-em-portugal-e-ser-exilado.shtml)_
+
