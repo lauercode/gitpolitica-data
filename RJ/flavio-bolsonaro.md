@@ -2636,3 +2636,6 @@
 - **[2026-09-28 18:25 UTC]** Flávio Bolsonaro é o pior candidato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2026/09/flavio-bolsonaro-e-o-pior-candidato.shtml)_
 
+- **[2026-09-28 16:57 UTC]** Ao atacar CNBB, Flávio Bolsonaro abre mão de disputar o católico indeciso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-toniol/2026/09/ao-atacar-cnbb-flavio-bolsonaro-abre-mao-de-disputar-o-catolico-indeciso.shtml)_
+
