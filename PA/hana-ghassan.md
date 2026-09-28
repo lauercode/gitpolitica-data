@@ -65,3 +65,6 @@
 - **[2026-09-26 22:32 UTC]** Quaest no Pará: Dr Daniel, 41%; Hana Ghassan, 32%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-governo-26-setembro.ghtml)_
 
+- **[2026-09-28 20:05 UTC]** Nova pesquisa Quaest no Pará avalia disputa entre Hana Ghassan e Dr. Daniel
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-quaest-no-para-avalia-disputa-entre-hana-ghassan-e-dr-daniel.ghtml)_
+
