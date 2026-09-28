@@ -32,3 +32,6 @@
 - **[2026-09-24 19:47 UTC]** Quaest: Luciano Zucco tem 29%, ante 23% de Juliana Brizola no Rio Grande do Sul
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-luciano-zucco-tem-29-ante-23-de-juliana-brizola-no-rio-grande-do-sul.shtml)_
 
+- **[2026-09-28 15:11 UTC]** Pesquisa Quaest no RS mede último capítulo do duelo entre Juliana Brizola e Luciano Zucco antes do 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/pesquisa-quaest-no-rs-mede-ultimo-capitulo-do-duelo-entre-juliana-brizola-e-luciano-zucco-antes-do-1o-turno.ghtml)_
+
