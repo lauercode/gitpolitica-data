@@ -2624,3 +2624,6 @@
 - **[2026-09-28 10:48 UTC]** Candidatos do Novo anunciam apoio a Flávio Bolsonaro no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/candidatos-do-novo-anunciam-apoio-a-flvio-bolsonaro-no-primeiro-turno.ghtml)_
 
+- **[2026-09-28 15:16 UTC]** Flávio recorre a Fux para derrubar post sobre Nossa Senhora Aparecida
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/flavio-recorre-fux-para-derrubar-post-sobre-nossa-senhora-aparecida)_
+
