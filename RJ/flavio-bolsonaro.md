@@ -2660,3 +2660,6 @@
 - **[2026-09-28 12:41 UTC]** Flávio Bolsonaro pede a Fux suspensão de decisão de Dino que liberou publicações sobre Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-pede-a-fux-suspensao-de-decisao-de-dino-que-liberou-publicacoes-sobre-nossa-senhora.shtml)_
 
+- **[2026-09-28 16:41 UTC]** Flávio pede que Fux restabeleça decisão de Mendonça sobre Nossa Senhora derrubada por Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-pede-que-fux-restabeleca-decisao-de-mendonca-sobre-nossa-senhora-derrubada-por-dino/)_
+
