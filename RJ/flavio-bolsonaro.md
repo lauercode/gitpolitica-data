@@ -2588,3 +2588,6 @@
 - **[2026-09-28 13:49 UTC]** Quaest: Lula amplia vantagem sobre Flávio Bolsonaro entre mulheres, eleitores de baixa renda, beneficiários do Bolsa Família e católicos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-lula-intencao-voto-perfil-eleitores.ghtml)_
 
+- **[2026-09-28 13:17 UTC]** Quaest, 1º turno: Lula, 39%; Flávio Bolsonaro, 34%; Caiado, 4%; Cury, 4%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/quaest-presidente-1o-turno-28-setembro.ghtml)_
+
