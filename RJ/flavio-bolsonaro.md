@@ -2681,3 +2681,6 @@
 - **[2026-09-28 19:11 UTC]** Análise: Ofensiva de anúncios eleitoreiros do governo Lula e campanha negativa contra Flávio começam a surtir efeito
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/analise-ofensiva-de-anuncios-eleitoreiros-do-governo-lula-e-campanha-negativa-contra-flavio-comecam-a-surtir-efeito.ghtml)_
 
+- **[2026-09-28 17:39 UTC]** Flávio pede voto útil, critica Lula e diz que Brasil precisa 'mudar rápido' em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/flvio-pede-voto-til-critica-lula-e-diz-que-brasil-precisa-mudar-rpido-em-sp.ghtml)_
+
