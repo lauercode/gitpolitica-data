@@ -2606,3 +2606,6 @@
 - **[2026-09-28 10:43 UTC]** Revista de jornal britânico coloca família Bolsonaro na capa e fala em possível retorno ao poder
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/revista-jornal-britanico-coloca-familia-bolsonaro-capa-fala-possivel-retorno-poder/)_
 
+- **[2026-09-28 15:01 UTC]** Nossa Senhora Aparecida: como padroeira entrou na disputa entre Flávio e Lula
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss)_
+
