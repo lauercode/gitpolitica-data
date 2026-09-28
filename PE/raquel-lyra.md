@@ -83,3 +83,6 @@
 - **[2026-09-28 13:20 UTC]** Toffoli vota a favor de Raquel Lyra no TSE, mas muda o próprio entendimento e derruba decisão no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/toffoli-vota-a-favor-de-raquel-lyra-no-tse-mas-muda-o-proprio-entendimento-e-derruba-decisao-no-stf.shtml)_
 
+- **[2026-09-28 20:16 UTC]** Nova pesquisa Datafolha em Pernambuco mede se Raquel Lyra define eleição no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-datafolha-em-pernambuco-mede-disputa-acirrada-entre-raquel-lyra-e-joao-campos.ghtml)_
+
