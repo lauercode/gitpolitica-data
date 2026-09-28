@@ -59,3 +59,6 @@
 - **[2026-09-25 21:22 UTC]** Lucas Ribeiro promete fazer Centro de Convenções no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/25/lucas-ribeiro-promete-fazer-centro-de-convecoes-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-09-28 18:43 UTC]** Lucas Ribeiro defende ampliar ICMS Cultural para imóveis tombados em toda a Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/28/lucas-ribeiro-defende-ampliar-icms-cultural-para-imoveis-tombados-em-toda-a-paraiba.ghtml)_
+
