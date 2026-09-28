@@ -2618,3 +2618,6 @@
 - **[2026-09-28 14:30 UTC]** Quaest: Lula amplia vantagem sobre Flávio entre mulheres e beneficiários do Bolsa Família
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/28/quaest-lula-amplia-vantagem-sobre-flvio-entre-mulheres-e-beneficirios-do-bolsa-famlia.ghtml)_
 
+- **[2026-09-28 13:22 UTC]** Pesquisa Quaest: Lula retoma liderança no 1º turno e mantém empate com Flávio no 2º
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/pesquisa-quaest-lula-e-flavio-empatam-com-42percent-no-segundo-turno.ghtml)_
+
