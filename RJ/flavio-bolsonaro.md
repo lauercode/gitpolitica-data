@@ -2603,3 +2603,6 @@
 - **[2026-09-28 08:33 UTC]** BTG/Nexus: Lula tem 42%, e Flávio Bolsonaro, 37% no 1º turno; 2º turno segue com empate técnico
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/btgnexus-lula-tem-42-e-flavio-bolsonaro-37-no-1o-turno-2o-turno-segue-com-empate-tecnico.shtml)_
 
+- **[2026-09-28 10:43 UTC]** Revista de jornal britânico coloca família Bolsonaro na capa e fala em possível retorno ao poder
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/revista-jornal-britanico-coloca-familia-bolsonaro-capa-fala-possivel-retorno-poder/)_
+
