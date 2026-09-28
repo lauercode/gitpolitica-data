@@ -44,3 +44,6 @@
 - **[2026-09-28 11:57 UTC]** Ricardo Salles já afirmou não haver 'hipótese de alguém decente apoiar André do Prado'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/salles-ja-afirmou-nao-haver-hipotese-de-alguem-decente-apoiar-andre-do-prado.shtml)_
 
+- **[2026-09-28 10:29 UTC]** Salles desiste de candidatura ao Senado de São Paulo e apoia Derrite e André do Prado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/salles-desiste-de-candidatura-ao-senado-de-sao-paulo-e-apoia-derrite-e-andre-do-prado.shtml)_
+
