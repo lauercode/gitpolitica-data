@@ -80,3 +80,6 @@
 - **[2026-09-24 19:19 UTC]** Quaest: Jorginho Mello (PL) segue na liderança ao Governo de Santa Catarina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-jorginho-mello-pl-segue-na-lideranca-ao-governo-de-santa-catarina.shtml)_
 
+- **[2026-09-28 20:11 UTC]** Nova pesquisa Quaest em SC pode mostrar se Jorginho Mello já garante vitória no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-quaest-em-sc-pode-mostrar-se-jorginho-mello-ja-garante-vitoria-no-primeiro-turno.ghtml)_
+
