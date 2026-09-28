@@ -44,3 +44,6 @@
 - **[2026-09-28 13:19 UTC]** Marina Silva diz que Salles desrespeita eleitores ao desistir de Senado e que eleição não é vale-tudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/marina-silva-diz-que-salles-desrespeita-eleitores-ao-desistir-de-senado-e-que-eleicao-nao-e-vale-tudo.shtml)_
 
+- **[2026-09-28 17:46 UTC]** Desistência de Salles ao Senado repercute entre aliados e opositores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/desistencia-de-salles-ao-senado-repercute-entre-aliados-e-opositores/)_
+
