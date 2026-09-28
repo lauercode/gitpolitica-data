@@ -2570,3 +2570,6 @@
 - **[2026-09-28 02:23 UTC]** Flávio Dino anula decisão que censurava postagens sobre Nossa Senhora Aparecida
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-anula-decisao-que-censurava-postagens-sobre-nossa-senhora-aparecida/)_
 
+- **[2026-09-28 07:34 UTC]** Por que Lula acusa Trump de tentar interferir na eleição a favor de Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6pvewvn2j79o?at_medium=RSS&at_campaign=rss)_
+
