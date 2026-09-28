@@ -2609,3 +2609,6 @@
 - **[2026-09-28 15:01 UTC]** Nossa Senhora Aparecida: como padroeira entrou na disputa entre Flávio e Lula
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-28 09:44 UTC]** Flávio volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
