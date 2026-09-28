@@ -2582,3 +2582,6 @@
 - **[2026-09-28 14:39 UTC]** Gerador de carro de som pega fogo em ato de campanha de Flávio Bolsonaro em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/gerador-de-carro-de-som-pega-fogo-em-ato-de-campanha-de-flavio-bolsonaro-em-sp.ghtml)_
 
+- **[2026-09-28 14:05 UTC]** Flávio pede suspensão da decisão que liberou post de humorista sobre padroeira do Brasil; Dino envia caso ao plenário do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/28/defesa-de-flavio-entra-com-recurso-contra-decisao-de-dino.ghtml)_
+
