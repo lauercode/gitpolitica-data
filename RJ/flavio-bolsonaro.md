@@ -2645,3 +2645,6 @@
 - **[2026-09-28 15:52 UTC]** Bispo da CNBB diz que Flávio deve explicar decisão 'perigosa' de decretar que 'Brasil é de Jesus Cristo'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/bispo-da-cnbb-diz-que-flavio-deve-explicar-decisao-perigosa-de-decretar-que-brasil-e-de-jesus-cristo.shtml)_
 
+- **[2026-09-28 15:09 UTC]** Lula busca evitar desgaste e deve faltar a debate da Globo, adiando embate com Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-busca-evitar-desgaste-e-deve-faltar-a-debate-da-globo-adiando-embate-com-flavio-bolsonaro.shtml)_
+
