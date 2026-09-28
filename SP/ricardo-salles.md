@@ -26,3 +26,6 @@
 - **[2026-09-21 10:31 UTC]** Debate da Folha/UOL ao Senado começa com embate entre Salles e André do Prado por vaga à direita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/debate-da-folhauol-ao-senado-comeca-com-embate-entre-salles-e-andre-do-prado-por-vaga-a-direita.shtml)_
 
+- **[2026-09-28 11:57 UTC]** Ricardo Salles já afirmou não haver 'hipótese de alguém decente apoiar André do Prado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/salles-ja-afirmou-nao-haver-hipotese-de-alguem-decente-apoiar-andre-do-prado.shtml)_
+
