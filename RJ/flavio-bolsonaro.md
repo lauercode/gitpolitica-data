@@ -2558,3 +2558,6 @@
 - **[2026-09-27 22:08 UTC]** Lula diz que não sabe se polêmica envolvendo Flávio Bolsonaro e Nossa Senhora é notícia falsa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-nao-sabe-se-polemica-envolvendo-flavio-bolsonaro-e-nossa-senhora-e-noticia-falsa.shtml)_
 
+- **[2026-09-27 21:42 UTC]** Em Goiânia, Flávio Bolsonaro acusa CNBB de ajudar PT com fake news
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-goiania-flavio-bolsonaro-acusa-cnbb-de-ajudar-pt-com-fake-news.shtml)_
+
