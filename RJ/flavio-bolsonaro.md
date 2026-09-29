@@ -2801,3 +2801,6 @@
 - **[2026-09-29 19:12 UTC]** Gilmar Mendes mantém quebra de sigilo de ex-assessora de Flávio em investigação sobre ‘rachadinha’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/29/gilmar-mendes-mantem-quebra-de-sigilo-de-ex-assessora-de-flavio-em-investigacao-sobre-rachadinha.ghtml)_
 
+- **[2026-09-29 20:37 UTC]** Quaest: Flávio lidera no RJ e em SP, e Lula fica à frente em PE; há empate técnico em MG e no DF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-presidente-estados-29-setembro.ghtml)_
+
