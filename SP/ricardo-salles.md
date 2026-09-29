@@ -50,3 +50,6 @@
 - **[2026-09-28 23:00 UTC]** Aliados de Nunes descartam apoio a Salles para sua sucessão em 2028
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-nunes-descartam-apoio-a-salles-para-sua-sucessao-em-2028.shtml)_
 
+- **[2026-09-29 08:00 UTC]** Salles desiste e dá apoio a Derrite e Prado em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/salles-desiste-e-da-apoio-a-derrite-e-prado-em-sao-paulo.ghtml)_
+
