@@ -14,3 +14,6 @@
 - **[2026-09-19 08:30 UTC]** Rui Costa Pimenta quer ampliar direitos trabalhistas e verbas da saúde
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rui-costa-pimenta-quer-ampliar-direitos-trabalhistas-e-verbas-da-saude)_
 
+- **[2026-09-29 17:43 UTC]** Qual é o número de Rui Costa Pimenta, candidato do PCO à Presidência da República
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/qual-e-o-numero-de-rui-costa-pimenta-candidato-do-pco-a-presidencia-da-republica.ghtml)_
+
