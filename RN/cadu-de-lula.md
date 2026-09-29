@@ -80,3 +80,6 @@
 - **[2026-09-25 22:24 UTC]** Quaest no RN: Allyson, 39%; Cadu de Lula, 21%; Álvaro Dias, 18%
   _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-governador-25-setembro.ghtml)_
 
+- **[2026-09-28 21:53 UTC]** Cadu de Lula defende incentivos para atrair investimentos e celeridade no licenciamento ambiental
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/28/cadu-de-lula-defende-incentivos-para-atrair-investimentos-e-celeridade-no-licenciamento-ambiental.ghtml)_
+
