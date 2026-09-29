@@ -89,3 +89,6 @@
 - **[2026-09-29 20:23 UTC]** Quaest em PE: no 2º turno, João Campos e Raquel Lyra empatam, com 44%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-em-pe-2-turno-29-setembro.ghtml)_
 
+- **[2026-09-29 20:14 UTC]** Quaest em PE: 59% aprovam governo de Raquel Lyra, e 33% desaprovam
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-pe-avaliacao-governo-29-setembro.ghtml)_
+
