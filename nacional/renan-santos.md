@@ -353,3 +353,6 @@
 - **[2026-09-27 19:02 UTC]** Caiado e Renan Santos criticam veto de Lula às bets e veem manobra eleitoral
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/27/caiado-e-renan-santos-criticam-veto-de-lula-s-bets-e-veem-manobra-eleitoral.ghtml)_
 
+- **[2026-09-29 00:14 UTC]** Renan Santos afirma que vai 'resolver problema do STF' e defende volta da prisão em 2ª instância
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/28/renan-santos-afirma-que-vai-resolver-problema-do-stf-e-defende-volta-da-prisao-em-2a-instancia.ghtml)_
+
