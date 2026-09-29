@@ -230,3 +230,6 @@
 - **[2026-09-25 01:45 UTC]** Juíza rejeita pedido de Roberto Cidade para anular parecer do MPE que pede cassação de registro de candidatura
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/24/juiza-rejeita-pedido-de-roberto-cidade-para-anular-parecer-do-mpe-que-pede-cassacao-de-registro-de-candidatura.ghtml)_
 
+- **[2026-09-29 02:51 UTC]** Eleições 2026: Roberto Cidade promete ampliar apoio para pessoas com TEA
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-roberto-cidade-promete-ampliar-apoio-para-pessoas-com-tea.ghtml)_
+
