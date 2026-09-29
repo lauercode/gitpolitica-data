@@ -35,3 +35,6 @@
 - **[2026-09-17 23:00 UTC]** Candidato ao Senado pelo PL, Prado elogiou Milton Leite e disse que ele é exemplo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidato-ao-senado-pelo-pl-prado-elogiou-milton-leite-e-disse-que-ele-e-exemplo.shtml)_
 
+- **[2026-09-29 08:00 UTC]** Salles desiste e dá apoio a Derrite e Prado em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/salles-desiste-e-da-apoio-a-derrite-e-prado-em-sao-paulo.ghtml)_
+
