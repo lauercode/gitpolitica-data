@@ -83,3 +83,6 @@
 - **[2026-09-28 21:53 UTC]** Cadu de Lula defende incentivos para atrair investimentos e celeridade no licenciamento ambiental
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/28/cadu-de-lula-defende-incentivos-para-atrair-investimentos-e-celeridade-no-licenciamento-ambiental.ghtml)_
 
+- **[2026-09-29 22:17 UTC]** Cadu de Lula destaca propostas de infraestrutura e se prepara para debate da Inter TV
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/29/cadu-de-lula-destaca-propostas-de-infraestrutura-e-se-prepara-para-debate-da-inter-tv.ghtml)_
+
