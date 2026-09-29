@@ -86,3 +86,6 @@
 - **[2026-09-28 20:16 UTC]** Nova pesquisa Datafolha em Pernambuco mede se Raquel Lyra define eleição no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-datafolha-em-pernambuco-mede-disputa-acirrada-entre-raquel-lyra-e-joao-campos.ghtml)_
 
+- **[2026-09-29 20:23 UTC]** Quaest em PE: no 2º turno, João Campos e Raquel Lyra empatam, com 44%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-em-pe-2-turno-29-setembro.ghtml)_
+
