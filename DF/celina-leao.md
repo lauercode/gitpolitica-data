@@ -65,3 +65,6 @@
 - **[2026-09-29 20:05 UTC]** Quaest no DF: Celina Leão, 39%; Leandro Grass, 23%; Paula Belmonte, 9%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/29/quaest-df-governador-29-setembro.ghtml)_
 
+- **[2026-09-29 17:35 UTC]** Quaest: Celina Leão lidera disputa ao Governo do DF com 39%, e Grass tem 23%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-celina-leao-lidera-disputa-ao-governo-do-df-com-39-e-grass-tem-23.shtml)_
+
