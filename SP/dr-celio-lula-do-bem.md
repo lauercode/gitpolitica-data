@@ -35,3 +35,6 @@
 - **[2026-09-28 17:39 UTC]** Flávio pede voto útil, critica Lula e diz que Brasil precisa 'mudar rápido' em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/flvio-pede-voto-til-critica-lula-e-diz-que-brasil-precisa-mudar-rpido-em-sp.ghtml)_
 
+- **[2026-09-28 19:20 UTC]** Lula mira rejeição a Flávio Bolsonaro em campanha no Norte, Nordeste e SP na reta final do 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-mira-rejeicao-a-flavio-bolsonaro-em-campanha-no-norte-nordeste-e-sp-na-reta-final-do-1o-turno.shtml)_
+
