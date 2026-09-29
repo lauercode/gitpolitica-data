@@ -2729,3 +2729,6 @@
 - **[2026-09-29 04:34 UTC]** Lula e Janja exploram fake news contra Flávio: “Ninguém vai avacalhar com Nossa Senhora”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/enquanto-for-presidente-ninguem-vai-avacalhar-com-nossa-senhora-diz-lula/)_
 
+- **[2026-09-29 04:07 UTC]** Fux enfrenta Dino e restabelece ordem de Mendonça contra posts sobre Flávio e Nossa Senhora
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/fux-enfrenta-dino-e-restabelece-ordem-de-mendonca-sobre-posts-de-nossa-senhora/)_
+
