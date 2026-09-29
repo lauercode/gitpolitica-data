@@ -2702,3 +2702,6 @@
 - **[2026-09-28 19:54 UTC]** Valdemar diz que torce para Zema desistir e apoiar Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/valdemar-diz-que-torce-para-zema-desistir-e-apoiar-flavio-bolsonaro.shtml)_
 
+- **[2026-09-28 19:20 UTC]** Lula mira rejeição a Flávio Bolsonaro em campanha no Norte, Nordeste e SP na reta final do 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-mira-rejeicao-a-flavio-bolsonaro-em-campanha-no-norte-nordeste-e-sp-na-reta-final-do-1o-turno.shtml)_
+
