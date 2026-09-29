@@ -20,3 +20,6 @@
 - **[2026-09-26 04:00 UTC]** 'Nova direita nasceu porque ninguém mais aguentava Caetano Veloso', diz cineasta Josias Teófilo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/nova-direita-nasceu-porque-ninguem-mais-aguentava-caetano-veloso-diz-cineasta-josias-teofilo.shtml)_
 
+- **[2026-09-28 20:28 UTC]** Campanha de Lula usa tom emocional, com música de Caetano, na reta final
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-usa-tom-emocional-com-musica-de-caetano-na-reta-final.shtml)_
+
