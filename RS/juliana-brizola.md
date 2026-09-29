@@ -35,3 +35,6 @@
 - **[2026-09-28 15:11 UTC]** Pesquisa Quaest no RS mede último capítulo do duelo entre Juliana Brizola e Luciano Zucco antes do 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/pesquisa-quaest-no-rs-mede-ultimo-capitulo-do-duelo-entre-juliana-brizola-e-luciano-zucco-antes-do-1o-turno.ghtml)_
 
+- **[2026-09-28 23:19 UTC]** Eleições 2026 no RS: Juliana Brizola promete 'destinar 30% da publicidade' para orientações sobre eventos climáticos
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-no-rs-juliana-brizola-promete-destinar-30percent-da-publicidade-para-orientacoes-sobre-eventos-climaticos.ghtml)_
+
