@@ -2732,3 +2732,6 @@
 - **[2026-09-29 04:07 UTC]** Fux enfrenta Dino e restabelece ordem de Mendonça contra posts sobre Flávio e Nossa Senhora
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/fux-enfrenta-dino-e-restabelece-ordem-de-mendonca-sobre-posts-de-nossa-senhora/)_
 
+- **[2026-09-29 04:38 UTC]** Decisão de Dino contra Flávio reaquece crise no STF e acirra disputa eleitoral
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/decisao-de-dino-contra-flavio-reaquece-crise-no-stf-e-acirra-disputa-eleitoral/)_
+
