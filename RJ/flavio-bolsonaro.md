@@ -2708,3 +2708,6 @@
 - **[2026-09-28 19:20 UTC]** Flávio Bolsonaro mira debate e Sudeste e tenta superar crise de fake news em última semana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-mira-debate-e-sudeste-e-tenta-superar-crise-de-fake-news-em-ultima-semana.shtml)_
 
+- **[2026-09-28 19:04 UTC]** Renan diz que não deve ser chamado pela Globo para debate por causa de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/renan-diz-que-nao-deve-ser-chamado-pela-globo-para-debate-por-causa-de-flavio.shtml)_
+
