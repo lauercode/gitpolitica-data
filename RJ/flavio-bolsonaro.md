@@ -2819,3 +2819,6 @@
 - **[2026-09-29 20:07 UTC]** Flávio Bolsonaro perde mais respondendo fake news sobre Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/09/flavio-bolsonaro-perde-mais-respondendo-fake-news-sobre-nossa-senhora.shtml)_
 
+- **[2026-09-29 18:42 UTC]** Cotada para ministra de Flávio defende vassoura contra 'roubalheira'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cotada-para-ministra-de-flavio-defende-vassoura-contra-roubalheira.shtml)_
+
