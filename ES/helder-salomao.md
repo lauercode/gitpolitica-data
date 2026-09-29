@@ -11,3 +11,6 @@
 - **[2026-09-25 22:11 UTC]** Quaest no ES: Ricardo Ferraço, 33%; Lorenzo Pazolini, 31%; Helder Salomão, 12%
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/25/quaest-espirito-santo-governador-25-setembro.ghtml)_
 
+- **[2026-09-29 11:49 UTC]** Gilmar cobra de Fachin e Salomão reação a irregularidades em precatórios e cita Master
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/29/gilmar-precatorios-stf-stj.ghtml)_
+
