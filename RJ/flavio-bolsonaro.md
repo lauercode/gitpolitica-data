@@ -2828,3 +2828,6 @@
 - **[2026-09-29 16:23 UTC]** Campanha de Flávio associa fala de Lula a estupro de menores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-vai-associar-fala-de-lula-a-estupro-de-menores.shtml)_
 
+- **[2026-09-29 16:19 UTC]** O que muda de Jair Bolsonaro em 2018 para Flávio Bolsonaro em 2026?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/09/o-que-muda-de-jair-bolsonaro-em-2018-para-flavio-em-2026.shtml)_
+
