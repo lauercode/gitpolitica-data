@@ -2765,3 +2765,6 @@
 - **[2026-09-29 07:00 UTC]** Pesquisa Palver mostra Lula e Flávio empatados com 44% no primeiro turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pesquisa-palver-mostra-lula-e-flavio-empatados-com-44-no-primeiro-turno.shtml)_
 
+- **[2026-09-29 08:00 UTC]** Fux acata pedido de Flávio Bolsonaro e cassa decisão de Dino sobre posts de Nossa Senhora Aparecida
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/fux-acata-pedido-da-defesa-de-flavio-e-cassa-decisao-de-dino.ghtml)_
+
