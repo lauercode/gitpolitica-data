@@ -20,3 +20,6 @@
 - **[2026-09-25 21:52 UTC]** Nova pesquisa Quaest no DF testa Celina e Leandro Grass e Arruda a cinco dias do 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/nova-pesquisa-quaest-no-df-testa-celina-e-leandro-grass-e-arruda-a-cinco-dias-do-1o-turno.ghtml)_
 
+- **[2026-09-29 20:41 UTC]** Quaest no DF, 2º turno: Celina Leão, 54%; Leandro Grass, 31%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/29/quaest-df-governador-segundo-turno-29-setembro.ghtml)_
+
