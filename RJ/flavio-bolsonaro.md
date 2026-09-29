@@ -2750,3 +2750,6 @@
 - **[2026-09-29 08:00 UTC]** Fux acata pedido da defesa de Flávio e derruba decisão de Dino
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/29/fux-acata-pedido-da-defesa-de-flavio-e-derruba-decisao-de-dino.ghtml)_
 
+- **[2026-09-29 08:00 UTC]** Segundo turno preocupa petistas; Flávio aposta em voto útil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/segundo-turno-preocupa-petistas-flavio-aposta-em-voto-util.ghtml)_
+
