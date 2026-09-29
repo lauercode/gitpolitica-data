@@ -2762,3 +2762,6 @@
 - **[2026-09-29 10:50 UTC]** 'Decretar Brasil para Cristo' é apenas simbólico, diz Flávio após polêmica de Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decretar-brasil-para-cristo-e-apenas-simbolico-diz-flavio-apos-polemica-de-nossa-senhora.shtml)_
 
+- **[2026-09-29 07:00 UTC]** Pesquisa Palver mostra Lula e Flávio empatados com 44% no primeiro turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pesquisa-palver-mostra-lula-e-flavio-empatados-com-44-no-primeiro-turno.shtml)_
+
