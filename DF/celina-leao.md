@@ -62,3 +62,6 @@
 - **[2026-09-29 20:15 UTC]** Quaest no DF: 51% aprovam e 36% desaprovam governo de Celina Leão (PP)
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/29/quaest-df-avaliacao-governo-29-setembro.ghtml)_
 
+- **[2026-09-29 20:05 UTC]** Quaest no DF: Celina Leão, 39%; Leandro Grass, 23%; Paula Belmonte, 9%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/29/quaest-df-governador-29-setembro.ghtml)_
+
