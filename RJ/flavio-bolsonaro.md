@@ -2804,3 +2804,6 @@
 - **[2026-09-29 20:37 UTC]** Quaest: Flávio lidera no RJ e em SP, e Lula fica à frente em PE; há empate técnico em MG e no DF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-presidente-estados-29-setembro.ghtml)_
 
+- **[2026-09-29 20:20 UTC]** Quaest em PE: Lula, 58%; Flávio, 20%; Cury, 3%; Renan, 2%; Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-presidencial-em-pe-29-de-setembro.ghtml)_
+
