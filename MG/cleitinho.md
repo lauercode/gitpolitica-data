@@ -101,3 +101,6 @@
 - **[2026-09-29 20:05 UTC]** Quaest em MG: Cleitinho, 37%; Patrus, 18%; Kalil, 9%; Simões, 6%; Roscoe, 5%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/quaest-mg-governador-29-setembro.ghtml)_
 
+- **[2026-09-29 17:23 UTC]** Quaest: Cleitinho, com 37%, segue líder na disputa ao Governo de Minas Gerais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-cleitinho-com-37-segue-lider-na-disputa-ao-governo-de-minas-gerais.shtml)_
+
