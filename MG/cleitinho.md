@@ -95,3 +95,6 @@
 - **[2026-09-28 17:26 UTC]** Nova pesquisa Ideia em MG testa Cleitinho, Patrus e Kalil a três dias do 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-ideia-em-mg-testa-cleitinho-patrus-e-kalil-a-tres-dias-do-1o-turno.ghtml)_
 
+- **[2026-09-29 18:48 UTC]** Nova pesquisa Datafolha em MG indica se Cleitinho tem chances de vencer no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/nova-pesquisa-datafolha-em-mg-indica-se-cleitinho-tem-chances-de-vencer-no-primeiro-turno.ghtml)_
+
