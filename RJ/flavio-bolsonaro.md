@@ -2822,3 +2822,6 @@
 - **[2026-09-29 18:42 UTC]** Cotada para ministra de Flávio defende vassoura contra 'roubalheira'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cotada-para-ministra-de-flavio-defende-vassoura-contra-roubalheira.shtml)_
 
+- **[2026-09-29 17:58 UTC]** Vereador pede voto para Tarcísio e Flávio Bolsonaro em encontro de habitação popular e é aplaudido por Ricardo Nunes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/vereador-pede-voto-para-tarcisio-e-flavio-bolsonaro-em-encontro-de-habitacao-popular-e-e-aplaudido-por-ricardo-nunes.shtml)_
+
