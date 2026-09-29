@@ -2816,3 +2816,6 @@
 - **[2026-09-29 20:05 UTC]** Quaest em MG: Lula, 35%; Flávio Bolsonaro, 31%; Cury, 5%; Caiado, Renan e Zema, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/quaest-mg-presidente-29-setembro.ghtml)_
 
+- **[2026-09-29 20:07 UTC]** Flávio Bolsonaro perde mais respondendo fake news sobre Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/09/flavio-bolsonaro-perde-mais-respondendo-fake-news-sobre-nossa-senhora.shtml)_
+
