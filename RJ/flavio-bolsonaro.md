@@ -2834,3 +2834,6 @@
 - **[2026-09-29 15:15 UTC]** Gilmar mantém quebra de sigilo de mulher de miliciano acusada de 'rachadinha' no gabinete de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-mantem-quebra-sigilo-de-mulher-de-miliciano-acusada-de-rachadinha-no-gabinete-de-flavio.shtml)_
 
+- **[2026-09-29 21:15 UTC]** Lula liga para Dino durante evento do governo e Flávio questiona: “Subordinado?”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-liga-para-dino-durante-evento-do-governo-e-flavio-questiona-subordinado/)_
+
