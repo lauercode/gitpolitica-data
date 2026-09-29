@@ -83,3 +83,6 @@
 - **[2026-09-29 20:30 UTC]** Quaest em SP: 56% aprovam e 26% desaprovam governo de Tarcísio
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/quaest-sp-avaliacao-governo-29-setembro.ghtml)_
 
+- **[2026-09-29 20:05 UTC]** Quaest em SP: Tarcísio, 44%; Haddad, 24%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/quaest-em-sp-tarcisio-44percent-haddad-24percent.ghtml)_
+
