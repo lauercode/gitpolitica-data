@@ -77,3 +77,6 @@
 - **[2026-09-26 22:33 UTC]** Quaest no Pará: Lula, 40%; Flávio Bolsonaro, 35%; Augusto Cury, 7%; Renan Santos, 2%; Ronaldo Caiado, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml)_
 
+- **[2026-09-29 17:00 UTC]** Qual é o número de Ronaldo Caiado, candidato do PSD à Presidência da República
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/qual-e-o-numero-de-ronaldo-caiado-candidato-do-psd-a-presidencia-da-republica.ghtml)_
+
