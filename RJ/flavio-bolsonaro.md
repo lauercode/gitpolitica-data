@@ -2831,3 +2831,6 @@
 - **[2026-09-29 16:19 UTC]** O que muda de Jair Bolsonaro em 2018 para Flávio Bolsonaro em 2026?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/09/o-que-muda-de-jair-bolsonaro-em-2018-para-flavio-em-2026.shtml)_
 
+- **[2026-09-29 15:15 UTC]** Gilmar mantém quebra de sigilo de mulher de miliciano acusada de 'rachadinha' no gabinete de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-mantem-quebra-sigilo-de-mulher-de-miliciano-acusada-de-rachadinha-no-gabinete-de-flavio.shtml)_
+
