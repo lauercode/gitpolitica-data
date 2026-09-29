@@ -17,3 +17,6 @@
 - **[2026-09-24 22:05 UTC]** Datafolha: No Rio, Benedita lidera disputa para o Senado com 19%; Jordy  e Portinho têm 12% cada
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/24/datafolha-no-rio-benedita-lidera-disputa-para-o-senado-com-19percent-jordy-e-portinho-tem-12percent-cada.ghtml)_
 
+- **[2026-09-29 08:00 UTC]** Ligação com Bolsonaros é trunfo de Carlos Jordy
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/ligacao-com-bolsonaros-e-trunfo-de-carlos-jordy.ghtml)_
+
