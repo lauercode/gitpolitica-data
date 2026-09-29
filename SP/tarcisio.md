@@ -80,3 +80,6 @@
 - **[2026-09-28 08:00 UTC]** Propostas para habitação em SP: Tarcísio renova programas da gestão atual e Haddad propõe Minha Casa Minha Vida estadual
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/propostas-para-habitacao-em-sp-tarcisio-renova-programas-da-gestao-atual-e-haddad-propoe-minha-casa-minha-vida-estadual.ghtml)_
 
+- **[2026-09-29 20:30 UTC]** Quaest em SP: 56% aprovam e 26% desaprovam governo de Tarcísio
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/quaest-sp-avaliacao-governo-29-setembro.ghtml)_
+
