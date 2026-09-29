@@ -2795,3 +2795,6 @@
 - **[2026-09-29 10:07 UTC]** Dólar e Bolsa caem com novos dados de desemprego e empate entre Lula e Flávio em pesquisa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-queda-nesta-terca-apos-desemprego-apresentar-menor-indice-desde-2012.shtml)_
 
+- **[2026-09-29 14:41 UTC]** Tarcísio diz que pode ajudar campanha de Flávio em outros estados no segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tarcisio-pode-ajudar-flavio-outros-estados-segundo-turno/)_
+
