@@ -365,3 +365,6 @@
 - **[2026-09-29 20:20 UTC]** Quaest em PE: Lula, 58%; Flávio, 20%; Cury, 3%; Renan, 2%; Caiado, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-presidencial-em-pe-29-de-setembro.ghtml)_
 
+- **[2026-09-29 20:13 UTC]** Quaest no DF: Flávio, 38%; Lula, 32%; Caiado, 8%; Cury, 5%; Renan, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/29/quaest-df-presidente-29-setembro.ghtml)_
+
