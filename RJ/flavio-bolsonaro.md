@@ -2684,3 +2684,6 @@
 - **[2026-09-28 17:39 UTC]** Flávio pede voto útil, critica Lula e diz que Brasil precisa 'mudar rápido' em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/flvio-pede-voto-til-critica-lula-e-diz-que-brasil-precisa-mudar-rpido-em-sp.ghtml)_
 
+- **[2026-09-28 20:34 UTC]** Flávio Bolsonaro busca suspender liberação de post sobre Nossa Senhora
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/flavio-bolsonaro-busca-suspender-liberacao-de-post-sobre-nossa-senhora)_
+
