@@ -2696,3 +2696,6 @@
 - **[2026-09-28 21:08 UTC]** 'O que é uma mentira para o filho do pai da mentira?', questiona leitor sobre fake news envolvendo Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/o-que-e-uma-mentira-para-o-filho-do-pai-da-mentira-questiona-leitor-sobre-fake-news-envolvendo-flavio.shtml)_
 
+- **[2026-09-28 20:39 UTC]** Humorista britânico John Oliver faz programa dedicado às eleições no Brasil e diz temer vitória de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/humorista-britanico-john-oliver-faz-programa-dedicado-a-eleicoes-no-brasil-e-diz-temer-vitoria-de-flavio.shtml)_
+
