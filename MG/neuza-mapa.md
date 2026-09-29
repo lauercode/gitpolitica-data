@@ -38,3 +38,6 @@
 - **[2026-09-11 11:02 UTC]** Japão pede alteração em novo mapa da ONU por representação de ilhas disputadas com a Rússia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/japao-pede-alteracao-em-novo-mapa-da-onu-por-representacao-de-ilhas-disputadas-com-a-russia.shtml)_
 
+- **[2026-09-29 18:21 UTC]** Bebê que escapou de creche atravessou rua e percorreu distância equivalente a meio campo de futebol; VEJA MAPA
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/29/bebe-escapou-creche-atravessou-rua-trabalho-mae-mapa-trajeto-sc.ghtml)_
+
