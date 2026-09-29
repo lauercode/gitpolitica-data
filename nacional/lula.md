@@ -1028,3 +1028,6 @@
 - **[2026-09-28 19:05 UTC]** Presidente do PT sinaliza que Lula deve faltar ao debate da TV Globo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/presidente-do-pt-sinaliza-que-lula-deve-faltar-ao-debate-da-tv-globo.ghtml)_
 
+- **[2026-09-28 23:43 UTC]** Lula e Janja exploram fake news sobre Nossa Senhora, e presidente ataca igreja por elo com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-e-janja-exploram-fake-news-sobre-nossa-senhora-e-presidente-ataca-igreja-por-elo-com-vorcaro.shtml)_
+
