@@ -146,3 +146,6 @@
 - **[2026-09-29 12:29 UTC]** Ação da Força Nacional na Amazônia Legal é prorrogada por mais 90 dias
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/acao-da-forca-nacional-na-amazonia-legal-e-prorrogada-por-mais-90-dias)_
 
+- **[2026-09-29 12:25 UTC]** Paulinho da Força pede a Dino afastamento de Kassio e Mendonça de ações sobre propaganda no TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/paulinho-da-forca-pede-a-dino-afastamento-de-kassio-e-mendonca-de-acoes-sobre-propaganda-no-tse.shtml)_
+
