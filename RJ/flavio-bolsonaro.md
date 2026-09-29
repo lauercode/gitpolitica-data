@@ -2789,3 +2789,6 @@
 - **[2026-09-29 15:15 UTC]** Gilmar mantém quebra sigilo de mulher de miliciano acusada de 'rachadinha' no gabinete de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-mantem-quebra-sigilo-de-mulher-de-miliciano-acusada-de-rachadinha-no-gabinete-de-flavio.shtml)_
 
+- **[2026-09-29 12:39 UTC]** Prerrogativas e deputado pedem que MP-RJ reabra caso das rachadinhas de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/prerrogativas-pede-que-mp-rj-reabra-caso-das-rachadinhas-para-investigar-flavio-bolsonaro.shtml)_
+
