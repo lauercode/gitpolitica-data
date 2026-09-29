@@ -2693,3 +2693,6 @@
 - **[2026-09-28 22:00 UTC]** Flávio Dino abusa da toga para reeleger Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/flavio-dino-abusa-da-toga-para-reeleger-lula.shtml)_
 
+- **[2026-09-28 21:08 UTC]** 'O que é uma mentira para o filho do pai da mentira?', questiona leitor sobre fake news envolvendo Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/o-que-e-uma-mentira-para-o-filho-do-pai-da-mentira-questiona-leitor-sobre-fake-news-envolvendo-flavio.shtml)_
+
