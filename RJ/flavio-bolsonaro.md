@@ -2798,3 +2798,6 @@
 - **[2026-09-29 14:41 UTC]** Tarcísio diz que pode ajudar campanha de Flávio em outros estados no segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tarcisio-pode-ajudar-flavio-outros-estados-segundo-turno/)_
 
+- **[2026-09-29 19:12 UTC]** Gilmar Mendes mantém quebra de sigilo de ex-assessora de Flávio em investigação sobre ‘rachadinha’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/29/gilmar-mendes-mantem-quebra-de-sigilo-de-ex-assessora-de-flavio-em-investigacao-sobre-rachadinha.ghtml)_
+
