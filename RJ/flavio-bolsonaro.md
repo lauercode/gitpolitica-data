@@ -2771,3 +2771,6 @@
 - **[2026-09-29 19:06 UTC]** 'Não precisa fazer o L', 'não precisa gostar de mim': Lula e Flávio Bolsonaro buscam votos além de suas bases
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/post/2026/09/29/nao-precisa-fazer-o-l-nao-precisa-gostar-de-mim-lula-e-flavio-bolsonaro-buscam-votos-alem-de-suas-bases.ghtml)_
 
+- **[2026-09-29 17:49 UTC]** Nunes Marques atende a pedido de Flávio e manda tirar do ar fala de Lula que associa 'tribunal eleitoral' a fraudes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/29/nunes-marques-atende-a-pedido-de-flavio-e-manda-tirar-do-ar-fala-de-lula-que-associa-justica-eleitoral-a-fraudes.ghtml)_
+
