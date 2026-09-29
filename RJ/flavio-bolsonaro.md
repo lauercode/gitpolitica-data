@@ -2723,3 +2723,6 @@
 - **[2026-09-29 03:00 UTC]** Quaest: Lula x Flávio tem vaivém entre mulheres, empate técnico no Sudeste e vantagens mantidas em setembro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-lula-x-flavio2-turno-setembro.ghtml)_
 
+- **[2026-09-28 23:14 UTC]** Flávio Bolsonaro compara fake news sobre Nossa Senhora Aparecida a facada no pai
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/flavio-bolsonaro-compara-fake-news-sobre-nossa-senhora-aparecida-a-facada-no-pai.shtml)_
+
