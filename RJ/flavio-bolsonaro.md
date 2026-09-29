@@ -2735,3 +2735,6 @@
 - **[2026-09-29 04:38 UTC]** Decisão de Dino contra Flávio reaquece crise no STF e acirra disputa eleitoral
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/decisao-de-dino-contra-flavio-reaquece-crise-no-stf-e-acirra-disputa-eleitoral/)_
 
+- **[2026-09-29 04:50 UTC]** Por que abstenção alta traz riscos a Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/09/por-que-abstencao-alta-traz-riscos-a-lula-e-flavio.ghtml)_
+
