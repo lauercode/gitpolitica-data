@@ -14,3 +14,6 @@
 - **[2026-09-24 22:13 UTC]** Quaest para o Senado em SC: Carol De Toni, 17%; Carlos Bolsonaro, 16%; Esperidião Amin, 15%; Décio Lima, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-senado-24-setembro.ghtml)_
 
+- **[2026-09-28 23:00 UTC]** Carlos Bolsonaro faz campanha em SC sem ir a debates e vincula promessas a vitória de irmão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carlos-bolsonaro-faz-campanha-em-sc-sem-ir-a-debates-e-vincula-promessas-a-vitoria-de-irmao.shtml)_
+
