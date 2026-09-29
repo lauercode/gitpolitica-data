@@ -26,3 +26,6 @@
 - **[2026-09-29 17:26 UTC]** Quaest: Eduardo Paes lidera no Rio com 34%, seguido por Douglas Ruas, com 25%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-eduardo-paes-lidera-no-rio-com-34-seguido-por-douglas-ruas-com-25.shtml)_
 
+- **[2026-09-29 20:40 UTC]** Quaest: Eduardo Paes tem 34% e Douglas Ruas, 25% na disputa ao governo do RJ
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/quaest-eduardo-paes-tem-34percent-e-douglas-ruas-25percent-na-disputa-ao-governo-do-rj.ghtml)_
+
