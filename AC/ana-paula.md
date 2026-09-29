@@ -17,3 +17,6 @@
 - **[2026-09-14 13:52 UTC]** Joelma no Rock in Rio: Juliano Floss e Ana Paula Renault exaltam energia da cantora e tentam dançar ‘tacacá’
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/14/joelma-no-rock-in-rio-juliano-floss-e-ana-paula-renault-exaltam-energia-da-cantora-e-tentam-dancar-tacaca.ghtml)_
 
+- **[2026-09-28 23:07 UTC]** Ana Paula Renault fala sobre fim da amizade com Milena: 'Quem?'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/ana-paula-renault-fala-sobre-fim-da-amizade-com-milena-quem.shtml)_
+
