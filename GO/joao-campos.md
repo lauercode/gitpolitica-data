@@ -65,3 +65,6 @@
 - **[2026-09-29 20:23 UTC]** Quaest em PE: no 2º turno, João Campos e Raquel Lyra empatam, com 44%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-em-pe-2-turno-29-setembro.ghtml)_
 
+- **[2026-09-29 20:06 UTC]** Quaest em Pernambuco: João Campos e Raquel Lyra empatam numericamente com 42%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-em-pe-1-turno-29-setembro.ghtml)_
+
