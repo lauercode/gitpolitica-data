@@ -20,3 +20,6 @@
 - **[2026-09-24 21:08 UTC]** Feira de Flores de Holambra tem mais de 200 espécies a partir de R$ 5 em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/24/feira-de-flores-de-holambra-tem-mais-de-200-especies-a-partir-de-r-5-em-maceio.ghtml)_
 
+- **[2026-09-29 13:34 UTC]** Primavera traz cores para a casa e inspira Festival de Flores do Ítalo
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/09/29/primavera-traz-cores-para-a-casa-e-inspira-festival-de-flores-do-italo.ghtml)_
+
