@@ -2840,3 +2840,6 @@
 - **[2026-09-29 20:11 UTC]** Flávio aposta em debate da Globo para tentar vencer Lula no 1º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-debate-da-globo-para-tentar-vencer-lula-no-1o-turno/)_
 
+- **[2026-09-29 22:06 UTC]** Quaest: Flávio amplia vantagem sobre Lula em SP; veja o desempenho dos presidenciáveis em 5 Estados
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/quaest-flavio-amplia-vantagem-sobre-lula-em-sp-veja-o-desempenho-dos-presidenciaveis-em-5-estados.ghtml)_
+
