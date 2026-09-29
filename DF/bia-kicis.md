@@ -23,3 +23,6 @@
 - **[2026-09-25 15:30 UTC]** PSOL pede investigação de Bia Kicis após investigado da PF fazer publicidade com nome Bia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/psol-pede-investigacao-de-bia-kicis-apos-investigado-da-pf-fazer-publicidade-com-nome-bia.shtml)_
 
+- **[2026-09-29 15:58 UTC]** Justiça vê propaganda para Bia Kicis em anúncios de loja e manda retirar: 'Bia é moderna'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/justica-ve-propaganda-para-bia-kicis-em-anuncios-de-loja-e-manda-retirar-bia-e-moderna.shtml)_
+
