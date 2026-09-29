@@ -2756,3 +2756,6 @@
 - **[2026-09-29 08:00 UTC]** Flávio foi ao TSE quase 20 vezes para questionar uso da máquina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/flavio-foi-ao-tse-quase-20-vezes-para-questionar-uso-da-maquina.ghtml)_
 
+- **[2026-09-29 08:00 UTC]** Quaest aponta voto útil e empate entre Lula e Flávio no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/29/quaest-aponta-voto-util-e-empate-entre-lula-e-flavio-no-2o-turno.ghtml)_
+
