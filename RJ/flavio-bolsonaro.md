@@ -2759,3 +2759,6 @@
 - **[2026-09-29 08:00 UTC]** Quaest aponta voto útil e empate entre Lula e Flávio no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/09/29/quaest-aponta-voto-util-e-empate-entre-lula-e-flavio-no-2o-turno.ghtml)_
 
+- **[2026-09-29 10:50 UTC]** 'Decretar Brasil para Cristo' é apenas simbólico, diz Flávio após polêmica de Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/decretar-brasil-para-cristo-e-apenas-simbolico-diz-flavio-apos-polemica-de-nossa-senhora.shtml)_
+
