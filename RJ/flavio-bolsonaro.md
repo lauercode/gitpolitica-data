@@ -2777,3 +2777,6 @@
 - **[2026-09-29 17:46 UTC]** Gilmar Mendes mantém quebra de sigilos de ex-assessora de Flávio Bolsonaro em investigação sobre 'rachadinha'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/29/gilmar-mantem-quebra-de-sigilos-de-ex-assessora-de-flavio-bolsonaro-em-investigacao-sobre-rachadinha.ghtml)_
 
+- **[2026-09-29 16:59 UTC]** Qual é o número de Flávio Bolsonaro, candidato do PL à Presidência da República
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/qual-e-o-numero-de-flavio-bolsonaro-candidato-do-pl-a-presidencia-da-republica.ghtml)_
+
