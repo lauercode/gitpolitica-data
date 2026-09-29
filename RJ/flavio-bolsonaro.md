@@ -2780,3 +2780,6 @@
 - **[2026-09-29 16:59 UTC]** Qual é o número de Flávio Bolsonaro, candidato do PL à Presidência da República
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/qual-e-o-numero-de-flavio-bolsonaro-candidato-do-pl-a-presidencia-da-republica.ghtml)_
 
+- **[2026-09-29 16:23 UTC]** Campanha de Flávio vai associar fala de Lula a estupro de menores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-vai-associar-fala-de-lula-a-estupro-de-menores.shtml)_
+
