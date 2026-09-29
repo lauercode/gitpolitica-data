@@ -2717,3 +2717,6 @@
 - **[2026-09-28 22:35 UTC]** De olho em possível rali após eleição, Citi vê Flávio favorito e inicia aposta no real
   _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/09/de-olho-em-possivel-rali-apos-eleicao-citi-ve-flavio-favorito-e-inicia-aposta-no-real.ghtml)_
 
+- **[2026-09-28 21:23 UTC]** Aliados de Flávio Bolsonaro atuam por desistências de candidaturas e convergência da direita
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/aliados-de-flavio-bolsonaro-atuam-por-desistencias-de-candidaturas-e-convergencia-da-direita.ghtml)_
+
