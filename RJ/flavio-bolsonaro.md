@@ -2738,3 +2738,6 @@
 - **[2026-09-29 04:50 UTC]** Por que abstenção alta traz riscos a Lula e Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/09/por-que-abstencao-alta-traz-riscos-a-lula-e-flavio.ghtml)_
 
+- **[2026-09-29 03:46 UTC]** Fux acata pedido da defesa de Flávio e cassa decisão de Dino sobre Nossa Senhora Aparecida
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/29/fux-acata-pedido-da-defesa-de-flvio-e-cassa-deciso-de-dino-sobre-nossa-senhora-aparecida.ghtml)_
+
