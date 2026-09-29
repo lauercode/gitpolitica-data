@@ -41,3 +41,6 @@
 - **[2026-09-26 23:06 UTC]** Orleans Brandão apresenta propostas para ampliar políticas de inclusão no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/26/orleans-brandao-apresenta-propostas-para-ampliar-politicas-de-inclusao-no-maranhao.ghtml)_
 
+- **[2026-09-28 23:18 UTC]** Orleans Brandão propõe aumentar valor do 'Maranhão Livre da Fome' e investir em capacitação profissional
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/28/orleans-brandao-propoe-aumentar-valor-do-maranhao-livre-da-fome-e-investir-em-capacitacao-profissional.ghtml)_
+
