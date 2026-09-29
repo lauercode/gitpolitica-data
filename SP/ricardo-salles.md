@@ -47,3 +47,6 @@
 - **[2026-09-28 17:46 UTC]** Desistência de Salles ao Senado repercute entre aliados e opositores
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/desistencia-de-salles-ao-senado-repercute-entre-aliados-e-opositores/)_
 
+- **[2026-09-28 23:00 UTC]** Aliados de Nunes descartam apoio a Salles para sua sucessão em 2028
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-nunes-descartam-apoio-a-salles-para-sua-sucessao-em-2028.shtml)_
+
