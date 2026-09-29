@@ -356,3 +356,6 @@
 - **[2026-09-29 00:14 UTC]** Renan Santos afirma que vai 'resolver problema do STF' e defende volta da prisão em 2ª instância
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/28/renan-santos-afirma-que-vai-resolver-problema-do-stf-e-defende-volta-da-prisao-em-2a-instancia.ghtml)_
 
+- **[2026-09-29 01:33 UTC]** Gravadora notifica Renan Santos contra uso da música de Cazuza sem autorização em campanha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/gravadora-notifica-renan-contra-uso-da-musica-de-cazuza-sem-autorizacao-em-campanha/)_
+
