@@ -68,3 +68,6 @@
 - **[2026-09-28 20:05 UTC]** Nova pesquisa Quaest no Pará avalia disputa entre Hana Ghassan e Dr. Daniel
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-quaest-no-para-avalia-disputa-entre-hana-ghassan-e-dr-daniel.ghtml)_
 
+- **[2026-09-29 00:19 UTC]** Hana Ghassan defende uso de tecnologia na saúde e mais parcerias público-privadas no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/28/hana-ghassan-defende-uso-de-tecnologia-na-saude-e-mais-parcerias-publico-privadas-no-para.ghtml)_
+
