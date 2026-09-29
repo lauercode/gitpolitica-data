@@ -23,3 +23,6 @@
 - **[2026-09-18 07:30 UTC]** Fim da escala 6x1 e de privatizações é prioridade de Hertz Dias
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/fim-da-escala-6x1-e-de-privatizacoes-e-prioridade-de-hertz-dias)_
 
+- **[2026-09-29 17:20 UTC]** Qual é o número de Hertz Dias, candidato do PSTU à Presidência da República
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/qual-e-o-numero-de-hertz-dias-candidato-do-pstu-a-presidencia-da-republica.ghtml)_
+
