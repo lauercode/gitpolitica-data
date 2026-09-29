@@ -143,3 +143,6 @@
 - **[2026-09-25 17:25 UTC]** Força-tarefa em Cametá, no PA, combate queimadas e monitora qualidade do ar
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/25/forca-tarefa-em-cameta-no-pa-combate-queimadas-e-monitora-qualidade-do-ar.ghtml)_
 
+- **[2026-09-29 12:29 UTC]** Ação da Força Nacional na Amazônia Legal é prorrogada por mais 90 dias
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/acao-da-forca-nacional-na-amazonia-legal-e-prorrogada-por-mais-90-dias)_
+
