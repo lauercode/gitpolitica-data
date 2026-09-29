@@ -2687,3 +2687,6 @@
 - **[2026-09-28 20:34 UTC]** Flávio Bolsonaro busca suspender liberação de post sobre Nossa Senhora
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/flavio-bolsonaro-busca-suspender-liberacao-de-post-sobre-nossa-senhora)_
 
+- **[2026-09-29 00:21 UTC]** 'Posso considerar uma espécie de facada essa fake news em mim', diz Flávio Bolsonaro em podcast católico
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/flavio-bolsonaro-podcast-catolico-nossa-senhora-aparecida.ghtml)_
+
