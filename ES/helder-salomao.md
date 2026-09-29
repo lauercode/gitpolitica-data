@@ -14,3 +14,6 @@
 - **[2026-09-29 11:49 UTC]** Gilmar cobra de Fachin e Salomão reação a irregularidades em precatórios e cita Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/29/gilmar-precatorios-stf-stj.ghtml)_
 
+- **[2026-09-29 17:52 UTC]** Fachin e Salomão respondem a Gilmar com propostas para ampliar controle sobre precatórios
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/29/fachin-e-salomo-respondem-a-gilmar-com-propostas-para-ampliar-controle-sobre-precatrios.ghtml)_
+
