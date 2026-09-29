@@ -2690,3 +2690,6 @@
 - **[2026-09-29 00:21 UTC]** 'Posso considerar uma espécie de facada essa fake news em mim', diz Flávio Bolsonaro em podcast católico
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/flavio-bolsonaro-podcast-catolico-nossa-senhora-aparecida.ghtml)_
 
+- **[2026-09-28 22:00 UTC]** Flávio Dino abusa da toga para reeleger Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/flavio-dino-abusa-da-toga-para-reeleger-lula.shtml)_
+
