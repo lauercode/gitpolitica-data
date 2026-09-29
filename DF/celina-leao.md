@@ -53,3 +53,6 @@
 - **[2026-09-28 19:10 UTC]** Nova pesquisa Datafolha no DF mede se Celina Leão liquida eleição já no 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-datafolha-no-df-mede-se-celina-liquida-eleicao-ja-no-1o-turno.ghtml)_
 
+- **[2026-09-29 17:18 UTC]** Nova pesquisa Datafolha no DF mede chance de vitória de Celina Leão no 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/nova-pesquisa-datafolha-no-df-mede-chance-de-vitoria-de-celina-leao-no-1o-turno.ghtml)_
+
