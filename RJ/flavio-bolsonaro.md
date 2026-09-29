@@ -2843,3 +2843,6 @@
 - **[2026-09-29 22:06 UTC]** Quaest: Flávio amplia vantagem sobre Lula em SP; veja o desempenho dos presidenciáveis em 5 Estados
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/quaest-flavio-amplia-vantagem-sobre-lula-em-sp-veja-o-desempenho-dos-presidenciaveis-em-5-estados.ghtml)_
 
+- **[2026-09-29 21:46 UTC]** Pablo Marçal declara apoio a Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/pablo-marcal-declara-apoio-a-flavio-bolsonaro.ghtml)_
+
