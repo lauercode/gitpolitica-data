@@ -23,3 +23,6 @@
 - **[2026-09-22 01:04 UTC]** Eleições 2026 no RS: Gabriel Souza defende 'desburocratização' para 'não atrapalhar o empreendedor'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-no-rs-gabriel-souza-defende-desburocratizacao-para-nao-atrapalhar-o-empreendedor.ghtml)_
 
+- **[2026-09-28 23:19 UTC]** Eleições 2026 no RS: Gabriel Souza promete 'projetos de retirada de pessoas das zonas de risco' de enchente
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-no-rs-gabriel-souza-promete-projetos-de-retirada-de-pessoas-das-zonas-de-risco-de-enchente.ghtml)_
+
