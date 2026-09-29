@@ -86,3 +86,6 @@
 - **[2026-09-29 20:05 UTC]** Quaest em SP: Tarcísio, 44%; Haddad, 24%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/quaest-em-sp-tarcisio-44percent-haddad-24percent.ghtml)_
 
+- **[2026-09-29 17:27 UTC]** Quaest: Tarcísio tem 44%, contra 24% de Haddad, e poderia vencer em 1º turno em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-tarcisio-tem-44-e-haddad-24-no-1o-turno-para-governo-de-sp.shtml)_
+
