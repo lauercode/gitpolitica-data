@@ -1031,3 +1031,6 @@
 - **[2026-09-28 23:43 UTC]** Lula e Janja exploram fake news sobre Nossa Senhora, e presidente ataca igreja por elo com Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-e-janja-exploram-fake-news-sobre-nossa-senhora-e-presidente-ataca-igreja-por-elo-com-vorcaro.shtml)_
 
+- **[2026-09-29 14:59 UTC]** Lula cita notícia falsa e diz que, enquanto for presidente, Nossa Senhora será padroeira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-cita-noticia-falsa-e-diz-que-enquanto-for-presidente-nossa-senhora-sera-padroeira.shtml)_
+
