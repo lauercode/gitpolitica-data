@@ -2744,3 +2744,6 @@
 - **[2026-09-29 02:28 UTC]** Flávio Bolsonaro diz que escolherá eventual futura equipe ‘melhor’ do que fez seu pai
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/09/28/flvio-bolsonaro-diz-que-escolher-eventual-futura-equipe-melhor-do-que-fez-seu-pai.ghtml)_
 
+- **[2026-09-29 06:00 UTC]** Tarcísio diz que pode ajudar Flávio em outros estados no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tarcisio-diz-que-pode-ajudar-flavio-em-outros-estados-no-2o-turno.shtml)_
+
