@@ -62,3 +62,6 @@
 - **[2026-09-25 20:59 UTC]** Cícero Lucena defende descentralização do atendimento a pessoas com deficiência na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/25/cicero-lucena-defende-descentralizacao-do-atendimento-a-pessoas-com-deficiencia-na-paraiba.ghtml)_
 
+- **[2026-09-28 22:18 UTC]** Cícero Lucena defende ampliação de cursos técnicos pela UEPB para gerar emprego e renda na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/28/cicero-lucena-defende-ampliacao-de-cursos-tecnicos-pela-uepb-para-gerar-emprego-e-renda-na-paraiba.ghtml)_
+
