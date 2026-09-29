@@ -1076,3 +1076,6 @@ direitos
 - **[2026-09-28 21:11 UTC]** Mensagens de Motta com Vorcaro citam 'sociedade' em negócio e discussão sobre projeto de lei na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml)_
 
+- **[2026-09-28 20:07 UTC]** Trump irá discutir equilíbrio entre controle e inovação com líderes de IA, diz presidente da Câmara dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/trump-ira-discutir-equilibrio-entre-controle-e-inovacao-com-lideres-de-ia-diz-presidente-da-camara-dos-eua.shtml)_
+
