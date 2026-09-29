@@ -71,3 +71,6 @@
 - **[2026-09-28 19:26 UTC]** Rico Melquiades volta atrás e diz que não vai mais morar em Portugal: 'Nunca nem pensei nisso'
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/28/rico-melquiades-volta-atras-e-diz-que-nao-vai-mais-morar-em-portugal.ghtml)_
 
+- **[2026-09-29 12:00 UTC]** Influenciador cara de pau, mude pra Portugal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/09/influenciador-cara-de-pau-mude-pra-portugal.shtml)_
+
