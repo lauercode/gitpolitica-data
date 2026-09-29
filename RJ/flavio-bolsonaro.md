@@ -2768,3 +2768,6 @@
 - **[2026-09-29 08:00 UTC]** Fux acata pedido de Flávio Bolsonaro e cassa decisão de Dino sobre posts de Nossa Senhora Aparecida
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/fux-acata-pedido-da-defesa-de-flavio-e-cassa-decisao-de-dino.ghtml)_
 
+- **[2026-09-29 19:06 UTC]** 'Não precisa fazer o L', 'não precisa gostar de mim': Lula e Flávio Bolsonaro buscam votos além de suas bases
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/post/2026/09/29/nao-precisa-fazer-o-l-nao-precisa-gostar-de-mim-lula-e-flavio-bolsonaro-buscam-votos-alem-de-suas-bases.ghtml)_
+
