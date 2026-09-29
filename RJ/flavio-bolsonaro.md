@@ -2699,3 +2699,6 @@
 - **[2026-09-28 20:39 UTC]** Humorista britânico John Oliver faz programa dedicado às eleições no Brasil e diz temer vitória de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/humorista-britanico-john-oliver-faz-programa-dedicado-a-eleicoes-no-brasil-e-diz-temer-vitoria-de-flavio.shtml)_
 
+- **[2026-09-28 19:54 UTC]** Valdemar diz que torce para Zema desistir e apoiar Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/valdemar-diz-que-torce-para-zema-desistir-e-apoiar-flavio-bolsonaro.shtml)_
+
