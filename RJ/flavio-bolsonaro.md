@@ -2720,3 +2720,6 @@
 - **[2026-09-28 21:23 UTC]** Aliados de Flávio Bolsonaro atuam por desistências de candidaturas e convergência da direita
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/aliados-de-flavio-bolsonaro-atuam-por-desistencias-de-candidaturas-e-convergencia-da-direita.ghtml)_
 
+- **[2026-09-29 03:00 UTC]** Quaest: Lula x Flávio tem vaivém entre mulheres, empate técnico no Sudeste e vantagens mantidas em setembro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-lula-x-flavio2-turno-setembro.ghtml)_
+
