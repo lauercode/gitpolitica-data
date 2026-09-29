@@ -17,3 +17,6 @@
 - **[2026-09-26 22:32 UTC]** Quaest no Pará: Dr Daniel, 41%; Hana Ghassan, 32%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-governo-26-setembro.ghtml)_
 
+- **[2026-09-29 01:00 UTC]** Dr Daniel propõe ampliar serviços para idosos e fortalecer hospitais no interior do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/28/dr-daniel-propoe-ampliar-servicos-para-idosos-e-fortalecer-hospitais-no-interior-do-para.ghtml)_
+
