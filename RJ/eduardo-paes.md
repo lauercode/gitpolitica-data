@@ -23,3 +23,6 @@
 - **[2026-09-23 17:45 UTC]** Quaest: Eduardo Paes lidera no Rio com 36%, seguido por Douglas Ruas, com 23%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-eduardo-paes-lidera-no-rio-com-36-seguido-por-douglas-ruas-com-23.shtml)_
 
+- **[2026-09-29 17:26 UTC]** Quaest: Eduardo Paes lidera no Rio com 34%, seguido por Douglas Ruas, com 25%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-eduardo-paes-lidera-no-rio-com-34-seguido-por-douglas-ruas-com-25.shtml)_
+
