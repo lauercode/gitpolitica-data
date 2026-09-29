@@ -26,3 +26,6 @@
 - **[2026-09-24 21:11 UTC]** Datafolha para o Senado em SP:  Marina Silva, 15%; Simone Tebet, 14%, Derrite, 12%; André do Prado, 12%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/24/senado-sp-senado-24-setembro.ghtml)_
 
+- **[2026-09-29 20:47 UTC]** Eduardo Bolsonaro diz que Simone Tebet 'se prostitui' por cargos, e candidata reage: 'covarde'; TRE determina remoção de postagem
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/eduardo-bolsonaro-insinua-que-simone-tebet-se-prostitui-por-cargos-e-candidata-reage-covarde.ghtml)_
+
