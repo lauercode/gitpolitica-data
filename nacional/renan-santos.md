@@ -359,3 +359,6 @@
 - **[2026-09-29 01:33 UTC]** Gravadora notifica Renan Santos contra uso da música de Cazuza sem autorização em campanha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/gravadora-notifica-renan-contra-uso-da-musica-de-cazuza-sem-autorizacao-em-campanha/)_
 
+- **[2026-09-29 17:06 UTC]** Qual é o número de Renan Santos, candidato do Missão à Presidência da República
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/qual-e-o-numero-de-renan-santos-candidato-do-missao-a-presidencia-da-republica.ghtml)_
+
