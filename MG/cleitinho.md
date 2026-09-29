@@ -98,3 +98,6 @@
 - **[2026-09-29 18:48 UTC]** Nova pesquisa Datafolha em MG indica se Cleitinho tem chances de vencer no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/nova-pesquisa-datafolha-em-mg-indica-se-cleitinho-tem-chances-de-vencer-no-primeiro-turno.ghtml)_
 
+- **[2026-09-29 20:05 UTC]** Quaest em MG: Cleitinho, 37%; Patrus, 18%; Kalil, 9%; Simões, 6%; Roscoe, 5%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/quaest-mg-governador-29-setembro.ghtml)_
+
