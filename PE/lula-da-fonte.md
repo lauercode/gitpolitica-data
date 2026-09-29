@@ -32,3 +32,6 @@
 - **[2026-09-25 21:39 UTC]** Datafolha em PE: Lula, 60%; Flávio Bolsonaro, 24%; Cury, 3%; Renan, 2%; Caiado, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/25/datafolha-pe-presidente-25-setembro.ghtml)_
 
+- **[2026-09-29 20:20 UTC]** Quaest em PE: Lula, 58%; Flávio, 20%; Cury, 3%; Renan, 2%; Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-presidencial-em-pe-29-de-setembro.ghtml)_
+
