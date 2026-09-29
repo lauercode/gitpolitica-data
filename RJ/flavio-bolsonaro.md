@@ -2825,3 +2825,6 @@
 - **[2026-09-29 17:58 UTC]** Vereador pede voto para Tarcísio e Flávio Bolsonaro em encontro de habitação popular e é aplaudido por Ricardo Nunes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/vereador-pede-voto-para-tarcisio-e-flavio-bolsonaro-em-encontro-de-habitacao-popular-e-e-aplaudido-por-ricardo-nunes.shtml)_
 
+- **[2026-09-29 16:23 UTC]** Campanha de Flávio associa fala de Lula a estupro de menores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-vai-associar-fala-de-lula-a-estupro-de-menores.shtml)_
+
