@@ -11,3 +11,6 @@
 - **[2026-09-17 08:00 UTC]** Edmilson Costa defende jornada de 30 horas e fim da escala 6x1
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/edmilson-costa-defende-jornada-de-30-horas-e-fim-da-escala-6x1)_
 
+- **[2026-09-29 17:44 UTC]** Qual é o número de Edmilson Costa, candidato do PCB à Presidência da República
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/qual-e-o-numero-de-edmilson-costa-candidato-do-pcb-a-presidencia-da-republica.ghtml)_
+
