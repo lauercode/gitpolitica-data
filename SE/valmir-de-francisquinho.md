@@ -41,3 +41,6 @@
 - **[2026-09-24 23:08 UTC]** Eleições 2026: Valmir de Francisquinho fala sobre rede de proteção à mulher e valorização das forças de segurança
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-valmir-de-francisquinho-fala-sobre-rede-de-protecao-a-mulher-e-valorizacao-das-forcas-de-seguranca.ghtml)_
 
+- **[2026-09-28 22:58 UTC]** Eleições 2026: Valmir de Francisquinho diz que vai priorizar novo hospital na Grande Aracaju e fomento ao empresariado
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-valmir-de-francisquinho-diz-que-vai-priorizar-novo-hospital-na-grande-aracaju-e-fomento-ao-empresariado.ghtml)_
+
