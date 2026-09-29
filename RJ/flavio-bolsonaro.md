@@ -2813,3 +2813,6 @@
 - **[2026-09-29 20:05 UTC]** Quaest em SP: Flávio Bolsonaro, 36%; Lula, 30%; Cury, 5%; Caiado, 4%; Renan, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/quaest-sp-presidente-29-setembro.ghtml)_
 
+- **[2026-09-29 20:05 UTC]** Quaest em MG: Lula, 35%; Flávio Bolsonaro, 31%; Cury, 5%; Caiado, Renan e Zema, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/quaest-mg-presidente-29-setembro.ghtml)_
+
