@@ -68,3 +68,6 @@
 - **[2026-09-24 22:08 UTC]** Quaest no AM: Omar Aziz, 29%; Professora Maria do Carmo, 19%; Roberto Cidade, 18%; David Almeida; 11%
   _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/quaest-am-governador-24-setembro.ghtml)_
 
+- **[2026-09-29 03:04 UTC]** Eleições 2026: David Almeida participa de debate e promete fortalecer a educação no interior do estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-david-almeida-participa-de-debate-e-promete-fortalecer-a-educacao-no-interior-do-estado.ghtml)_
+
