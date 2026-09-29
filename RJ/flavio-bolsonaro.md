@@ -2837,3 +2837,6 @@
 - **[2026-09-29 21:15 UTC]** Lula liga para Dino durante evento do governo e Flávio questiona: “Subordinado?”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-liga-para-dino-durante-evento-do-governo-e-flavio-questiona-subordinado/)_
 
+- **[2026-09-29 20:11 UTC]** Flávio aposta em debate da Globo para tentar vencer Lula no 1º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-aposta-em-debate-da-globo-para-tentar-vencer-lula-no-1o-turno/)_
+
