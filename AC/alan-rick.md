@@ -518,3 +518,6 @@
 - **[2026-09-29 03:01 UTC]** Helicóptero com o cantor Rick e outras 4 pessoas voava em 'espaço aéreo não controlado', diz FAB; entenda o termo
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/29/helicoptero-cantor-rick-voava-espaco-aereo-nao-controlado-diz-fab.ghtml)_
 
+- **[2026-09-29 07:00 UTC]** Sem saber, moradores filmaram helicóptero em que estava Rick instantes antes do acidente: 'Chamou atenção'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/fantastico/noticia/2026/09/29/sem-saber-moradores-filmaram-helicoptero-em-que-estava-rick-instantes-antes-do-acidente-chamou-atencao.ghtml)_
+
