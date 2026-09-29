@@ -2714,3 +2714,6 @@
 - **[2026-09-28 22:12 UTC]** MPE pede bloqueio de perfil de servidor da Secom por fake news sobre Nossa Senhora contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mpe-pede-bloqueio-perfil-de-servidor-da-secom-por-fake-news-nossa-senhora-flavio/)_
 
+- **[2026-09-28 22:35 UTC]** De olho em possível rali após eleição, Citi vê Flávio favorito e inicia aposta no real
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/09/de-olho-em-possivel-rali-apos-eleicao-citi-ve-flavio-favorito-e-inicia-aposta-no-real.ghtml)_
+
