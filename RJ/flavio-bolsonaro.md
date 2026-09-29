@@ -2726,3 +2726,6 @@
 - **[2026-09-28 23:14 UTC]** Flávio Bolsonaro compara fake news sobre Nossa Senhora Aparecida a facada no pai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/flavio-bolsonaro-compara-fake-news-sobre-nossa-senhora-aparecida-a-facada-no-pai.shtml)_
 
+- **[2026-09-29 04:34 UTC]** Lula e Janja exploram fake news contra Flávio: “Ninguém vai avacalhar com Nossa Senhora”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/enquanto-for-presidente-ninguem-vai-avacalhar-com-nossa-senhora-diz-lula/)_
+
