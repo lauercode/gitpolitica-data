@@ -2753,3 +2753,6 @@
 - **[2026-09-29 08:00 UTC]** Segundo turno preocupa petistas; Flávio aposta em voto útil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/segundo-turno-preocupa-petistas-flavio-aposta-em-voto-util.ghtml)_
 
+- **[2026-09-29 08:00 UTC]** Flávio foi ao TSE quase 20 vezes para questionar uso da máquina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/flavio-foi-ao-tse-quase-20-vezes-para-questionar-uso-da-maquina.ghtml)_
+
