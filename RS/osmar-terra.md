@@ -149,3 +149,6 @@
 - **[2026-09-28 20:25 UTC]** Justiça bloqueia mais de R$ 145 milhões de empresas suspeitas de garimpo ilegal na Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/28/justica-bloqueia-mais-de-r-145-milhoes-de-empresas-suspeitas-de-garimpo-ilegal-na-terra-yanomami.ghtml)_
 
+- **[2026-09-29 06:00 UTC]** Vida na Terra teve início há 4,33 bilhões de anos, afirma estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/vida-na-terra-teve-inicio-ha-433-bilhoes-de-anos-afirma-estudo.shtml)_
+
