@@ -2792,3 +2792,6 @@
 - **[2026-09-29 12:39 UTC]** Prerrogativas e deputado pedem que MP-RJ reabra caso das rachadinhas de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/prerrogativas-pede-que-mp-rj-reabra-caso-das-rachadinhas-para-investigar-flavio-bolsonaro.shtml)_
 
+- **[2026-09-29 10:07 UTC]** Dólar e Bolsa caem com novos dados de desemprego e empate entre Lula e Flávio em pesquisa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-queda-nesta-terca-apos-desemprego-apresentar-menor-indice-desde-2012.shtml)_
+
