@@ -2774,3 +2774,6 @@
 - **[2026-09-29 17:49 UTC]** Nunes Marques atende a pedido de Flávio e manda tirar do ar fala de Lula que associa 'tribunal eleitoral' a fraudes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/29/nunes-marques-atende-a-pedido-de-flavio-e-manda-tirar-do-ar-fala-de-lula-que-associa-justica-eleitoral-a-fraudes.ghtml)_
 
+- **[2026-09-29 17:46 UTC]** Gilmar Mendes mantém quebra de sigilos de ex-assessora de Flávio Bolsonaro em investigação sobre 'rachadinha'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/29/gilmar-mantem-quebra-de-sigilos-de-ex-assessora-de-flavio-bolsonaro-em-investigacao-sobre-rachadinha.ghtml)_
+
