@@ -4001,6 +4001,17 @@
     "camara_id": 220617
   },
   {
+    "slug": "murilo-galdino",
+    "name": "Murilo Galdino",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Murilo Galdino",
+      "Galdino"
+    ],
+    "camara_id": 220584
+  },
+  {
     "slug": "natalia-bonavides",
     "name": "Natália Bonavides",
     "role": "Deputado(a) Federal (RN)",
@@ -5323,17 +5334,6 @@
       "Gadêlha"
     ],
     "camara_id": 157130
-  },
-  {
-    "slug": "valdir-trindade",
-    "name": "Valdir Trindade",
-    "role": "Deputado(a) Federal (PB)",
-    "party": "REPUBLICANOS",
-    "aliases": [
-      "Valdir Trindade",
-      "Trindade"
-    ],
-    "camara_id": 236423
   },
   {
     "slug": "valmir-assuncao",
