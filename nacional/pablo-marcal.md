@@ -65,3 +65,6 @@
 - **[2026-09-15 18:18 UTC]** Leonardo Avalanche substitui Pablo Marçal na corrida presidencial
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/leonardo-avalanche-substitui-pablo-marcal-na-corrida-presidencial)_
 
+- **[2026-09-29 21:46 UTC]** Pablo Marçal declara apoio a Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/pablo-marcal-declara-apoio-a-flavio-bolsonaro.ghtml)_
+
