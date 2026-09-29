@@ -71,3 +71,6 @@
 - **[2026-09-23 21:02 UTC]** Pacheco toma posse como ministro do TCU no dia 30, em cerimônia restrita
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/23/pacheco-toma-posse-como-ministro-do-tcu-no-dia-30-em-cerimnia-restrita.ghtml)_
 
+- **[2026-09-29 11:59 UTC]** Lula nomeia Pacheco ao TCU e abre caminho para suplente do PP
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-nomeia-pacheco-para-o-tcu-e-abre-caminho-para-suplente-do-pp/)_
+
