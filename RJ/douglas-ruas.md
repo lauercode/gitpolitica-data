@@ -26,3 +26,6 @@
 - **[2026-09-26 20:01 UTC]** Paes dosa campanha com Lula, e Douglas Ruas recorre até a Vini Jr. para atrair bolsonaristas no RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/paes-dosa-campanha-com-lula-e-douglas-ruas-recorre-ate-a-vini-jr-para-atrair-bolsonaristas-no-rj.shtml)_
 
+- **[2026-09-29 17:26 UTC]** Quaest: Eduardo Paes lidera no Rio com 34%, seguido por Douglas Ruas, com 25%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-eduardo-paes-lidera-no-rio-com-34-seguido-por-douglas-ruas-com-25.shtml)_
+
