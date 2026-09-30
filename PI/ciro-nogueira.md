@@ -41,3 +41,6 @@
 - **[2026-09-29 23:00 UTC]** Ciro Nogueira usa alianças com Bolsonaro e com PT para abafar Banco Master e buscar reeleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ciro-nogueira-usa-aliancas-com-bolsonaro-e-com-pt-para-abafar-banco-master-e-buscar-reeleicao.shtml)_
 
+- **[2026-09-30 19:02 UTC]** Vorcaro tinha grupo com Motta, Ciro Nogueira e Fábio Faria para organizar encontros
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/)_
+
