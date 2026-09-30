@@ -2918,3 +2918,6 @@
 - **[2026-09-30 07:00 UTC]** Lula e Flávio Bolsonaro seguem empatados no 1º e no 2º turno, diz Meio/Ideia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-e-flavio-bolsonaro-seguem-empatados-no-1o-e-no-2o-turno-diz-meioideia.shtml)_
 
+- **[2026-09-30 07:00 UTC]** Polêmica com Nossa Senhora Aparecida desgasta mais Flávio Bolsonaro do que Lula nas redes, diz levantamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/polemica-com-nossa-senhora-aparecida-desgasta-lula-e-flavio-nas-redes-diz-levantamento.shtml)_
+
