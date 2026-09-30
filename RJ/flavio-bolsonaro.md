@@ -2954,3 +2954,6 @@
 - **[2026-09-30 12:30 UTC]** Flávio Bolsonaro vira 'candidato Teflon' e reverte desânimo entre pastores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-vira-candidato-teflon-e-reverte-desanimo-entre-pastores.shtml)_
 
+- **[2026-09-30 18:05 UTC]** Lula confirma que não irá ao debate da TV Globo; Flávio mantém presença
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-confirma-que-nao-ira-ao-debate-da-tv-globo-flavio-mantem-presenca/)_
+
