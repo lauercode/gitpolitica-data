@@ -2930,3 +2930,6 @@
 - **[2026-09-30 19:42 UTC]** 'Dark Horse': PF faz nova perícia em material apreendido pela Polícia Civil de SP por ordem de Flávio Dino
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/30/dark-horse-pf-faz-nova-pericia-em-material-apreendido-pela-policia-civil-de-sp-por-ordem-de-flavio-dino.ghtml)_
 
+- **[2026-09-30 19:20 UTC]** Augusto Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/augusto-cury-entrevista-podcast.ghtml)_
+
