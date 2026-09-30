@@ -68,3 +68,6 @@
 - **[2026-09-30 03:43 UTC]** VÍDEOS: Eleições 2026 - JHC e Renan Filho participam de debate na TV Asa Branca AL
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/edicao/2026/09/30/videos-eleicoes-2026-jhc-e-renan-filho-participam-de-debate-na-tv-asa-branca-al.ghtml)_
 
+- **[2026-09-30 02:22 UTC]** Debate entre JHC e Renan Filho tem acusações sobre corrupção, saúde e obras
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/29/debate-entre-jhc-e-renan-filho-tem-confronto-sobre-hospitais-creches-e-infraestrutura.ghtml)_
+
