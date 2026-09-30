@@ -77,3 +77,6 @@
 - **[2026-09-30 12:10 UTC]** Rodrigo Pacheco toma posse como novo ministro do TCU
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/rodrigo-pacheco-toma-posse-como-novo-ministro-do-tcu)_
 
+- **[2026-09-30 16:31 UTC]** Rodrigo Pacheco toma posse como ministro do TCU
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-toma-posse-como-ministro-do-tcu)_
+
