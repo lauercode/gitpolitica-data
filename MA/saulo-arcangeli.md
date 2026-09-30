@@ -32,3 +32,6 @@
 - **[2026-09-25 23:55 UTC]** Saulo Arcangeli propõe fortalecer atendimento a grupos vulneráveis no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/saulo-arcangeli-propoe-fortalecer-atendimento-a-grupos-vulneraveis-no-maranhao.ghtml)_
 
+- **[2026-09-29 23:40 UTC]** Saulo Arcangeli defende fortalecimento da assistência social para combater a pobreza
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/29/saulo-arcangeli-defende-fortalecimento-da-assistencia-social-para-combater-a-pobreza.ghtml)_
+
