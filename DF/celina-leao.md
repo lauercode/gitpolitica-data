@@ -68,3 +68,6 @@
 - **[2026-09-29 17:35 UTC]** Quaest: Celina Leão lidera disputa ao Governo do DF com 39%, e Grass tem 23%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-celina-leao-lidera-disputa-ao-governo-do-df-com-39-e-grass-tem-23.shtml)_
 
+- **[2026-09-30 13:30 UTC]** Celina Leão falta a debate no DF e vira alvo de acusações sobre BRB e relação com Ibaneis
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/distrito-federal/celina-leao-falta-a-debate-no-df-e-vira-alvo-de-acusacoes-sobre-brb-e-relacao-com-ibaneis/)_
+
