@@ -98,3 +98,6 @@
 - **[2026-09-30 04:41 UTC]** Veja o que disseram Tarcísio e Haddad após debate da Globo para o governo de SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/30/veja-o-que-disseram-tarcisio-e-haddad-apos-debate-da-globo-para-o-governo-de-sp.ghtml)_
 
+- **[2026-09-30 03:10 UTC]** Tarcísio e Haddad nacionalizam debate em SP com ataques sobre infiltração do PCC e CV, saúde e governos Lula e Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/30/tarcisio-e-haddad-nacionalizam-debate-em-sp-com-ataques-sobre-infiltracao-do-pcc-e-cv-saude-e-governos-lula-e-bolsonaro.ghtml)_
+
