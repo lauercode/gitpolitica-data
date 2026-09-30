@@ -98,3 +98,6 @@
 - **[2026-09-28 13:42 UTC]** Eleições 2026 no Paraná: Sergio Moro comparece a missa em homenagem a Dom Pedro Fedalto e faz caminhada
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-no-parana-sergio-moro-comparece-a-missa-caminhada.ghtml)_
 
+- **[2026-09-30 18:12 UTC]** Eleições 2026 no Paraná: Sergio Moro se encontra com lideranças em Almirante Tamandaré, na Região Metropolitana de Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-no-parana-sergio-moro-se-encontra-com-liderancas-em-almirante-tamandare.ghtml)_
+
