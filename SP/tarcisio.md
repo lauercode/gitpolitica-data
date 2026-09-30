@@ -110,3 +110,6 @@
 - **[2026-09-30 00:13 UTC]** Tarcísio e Haddad levam nacionalização a debate em SP e trocam ataques sobre elos com suspeitos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-e-haddad-levam-nacionalizacao-a-debate-em-sp-trocam-acusacoes-sobre-elos-com-suspeitos.shtml)_
 
+- **[2026-09-30 08:00 UTC]** Tarcísio e Eduardo Paes têm vantagem em disputas em SP e Rio, diz Quaest
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/30/tarcisio-e-eduardo-paes-tem-vantagem-em-disputas-em-sp-e-rio-diz-quaest.ghtml)_
+
