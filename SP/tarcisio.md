@@ -95,3 +95,6 @@
 - **[2026-09-30 01:46 UTC]** Segurança e crime organizado pautam início do debate entre Tarcísio e Haddad em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/seguranca-e-crime-organizado-pautam-inicio-do-debate-entre-tarcisio-e-haddad-em-sp.ghtml)_
 
+- **[2026-09-30 04:41 UTC]** Veja o que disseram Tarcísio e Haddad após debate da Globo para o governo de SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/30/veja-o-que-disseram-tarcisio-e-haddad-apos-debate-da-globo-para-o-governo-de-sp.ghtml)_
+
