@@ -152,3 +152,6 @@
 - **[2026-09-30 03:19 UTC]** Paulinho da Força pede que Dino afaste Nunes Marques e Mendonça de ações no TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/solidariedade-pede-que-dino-afaste-nunes-marques-e-mendonca-de-acoes-no-tse/)_
 
+- **[2026-09-30 15:16 UTC]** Aliado de Moraes, Paulinho da Força pede impeachment de Mendonça, Kassio e Fux
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/aliado-de-moraes-paulinho-da-forca-pede-impeachment-de-mendonca-kassio-e-fux.shtml)_
+
