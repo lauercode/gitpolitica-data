@@ -374,3 +374,6 @@
 - **[2026-09-29 20:05 UTC]** Quaest em MG: Lula, 35%; Flávio Bolsonaro, 31%; Cury, 5%; Caiado, Renan e Zema, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/quaest-mg-presidente-29-setembro.ghtml)_
 
+- **[2026-09-30 14:37 UTC]** Lula usa TV para falar de bets e Nossa Senhora enquanto Flávio mira eleitores de Caiado e Cury
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-usa-tv-para-falar-de-bets-e-nossa-senhora-enquanto-flavio-mira-eleitores-de-caiado-e-cury.shtml)_
+
