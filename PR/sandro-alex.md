@@ -125,3 +125,6 @@
 - **[2026-09-28 13:41 UTC]** Eleições 2026 no Paraná: Sandro Alex faz gravações de campanha e se encontra com lideranças em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-no-parana-sandro-alex-faz-gravacoes-de-campanha-econtro-liderancas.ghtml)_
 
+- **[2026-09-30 18:10 UTC]** Eleições 2026 no Paraná: Sandro Alex participa de carreatas e se reúne com representantes da segurança pública
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-no-parana-sandro-alex-participa-de-carreatas-e-se-reune-com-representantes-da-seguranca-publica.ghtml)_
+
