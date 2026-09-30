@@ -86,3 +86,6 @@
 - **[2026-09-29 22:17 UTC]** Cadu de Lula destaca propostas de infraestrutura e se prepara para debate da Inter TV
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/29/cadu-de-lula-destaca-propostas-de-infraestrutura-e-se-prepara-para-debate-da-inter-tv.ghtml)_
 
+- **[2026-09-30 20:08 UTC]** Cadu de Lula promete ampliar videomonitoramento e efetivo policial no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/cadu-de-lula-promete-ampliar-videomonitoramento-e-efetivo-policial-no-rn.ghtml)_
+
