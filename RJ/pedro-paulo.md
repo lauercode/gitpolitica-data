@@ -464,3 +464,6 @@
 - **[2026-09-29 08:00 UTC]** Política industrial do governo Lula foi mais marketing que resultado, diz Paulo Morceiro
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/29/politica-industrial-do-governo-lula-foi-mais-marketing-que-resultado-diz-paulo-morceiro.ghtml)_
 
+- **[2026-09-30 20:05 UTC]** Rede D’Or reúne hospitais mais amados de São Paulo e Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/30/rede-dor-reune-hospitais-mais-amados-de-sao-paulo-e-rio-1.ghtml)_
+
