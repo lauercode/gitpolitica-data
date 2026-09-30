@@ -41,3 +41,6 @@
 - **[2026-09-25 22:26 UTC]** Quaest para o Senado no RN: Styvenson Valentim, 19%; Zenaide Maia, 12%; Coronel Hélio, 9%; Samanda de Lula, 9%; Rafael Motta, 7%
   _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/25/quaest-rn-senado-25-setembro.ghtml)_
 
+- **[2026-09-30 00:44 UTC]** Na TV, Lula explora embate de Flávio com CNBB e senador faz apelo por voto útil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/na-tv-lula-explora-embate-de-flvio-com-cnbb-e-senador-apela-a-voto-til.ghtml)_
+
