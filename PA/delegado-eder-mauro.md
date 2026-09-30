@@ -14,3 +14,6 @@
 - **[2026-09-26 22:38 UTC]** Quaest para o Senado no Pará: Helder, 25%; Delegado Éder Mauro, 15%; Chicão, 15%; Zequinha, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-senado-26-setembro.ghtml)_
 
+- **[2026-09-30 14:52 UTC]** Mauro Vieira e Márcio Elias Rosa estão reunidos com representante dos EUA para discutir tarifaço
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/30/mauro-vieira-e-mrcio-elias-rosa-esto-reunidos-com-representante-dos-eua-para-discutir-tarifao.ghtml)_
+
