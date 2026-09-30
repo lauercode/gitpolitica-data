@@ -77,3 +77,6 @@
 - **[2026-09-29 10:00 UTC]** Fisiculturismo: Veja toda a trajetória de Lucas Garcia, que repetiu o feito de Eduardo Corrêa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musculo/2026/09/fisiculturismo-veja-toda-a-trajetoria-de-lucas-garcia-que-repetiu-o-feito-de-eduardo-correa.shtml)_
 
+- **[2026-09-30 02:40 UTC]** Debate entre candidatos ao governo da Paraíba tem propostas, Lucas como alvo principal de críticas e ‘dobradinha’ de Efraim e Cícero
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/29/debate-candidatos-governo-paraiba-tv-cabo-branco-tv-paraiba.ghtml)_
+
