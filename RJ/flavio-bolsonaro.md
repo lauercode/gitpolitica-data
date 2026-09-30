@@ -2888,3 +2888,6 @@
 - **[2026-09-30 00:56 UTC]** Vínculos com Lula, Flávio Bolsonaro e Cláudio Castro marcam debate entre candidatos no RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/vinculos-com-lula-flavio-bolsonaro-e-claudio-castro-marcam-debate-entre-candidatos-no-rj.shtml)_
 
+- **[2026-09-29 20:07 UTC]** Flávio Bolsonaro perde mais respondendo a fake news sobre Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/09/flavio-bolsonaro-perde-mais-respondendo-fake-news-sobre-nossa-senhora.shtml)_
+
