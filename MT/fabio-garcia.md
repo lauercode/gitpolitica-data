@@ -20,3 +20,6 @@
 - **[2026-09-18 10:03 UTC]** Fábio Faria processa Rodrigo Bocardi por acusação sobre Banco Master em saída do SBT
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/fabio-faria-processa-rodrigo-bocardi-por-acusacao-sobre-banco-master-em-saida-do-sbt.shtml)_
 
+- **[2026-09-30 19:02 UTC]** Vorcaro tinha grupo com Motta, Ciro Nogueira e Fábio Faria para organizar encontros
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/)_
+
