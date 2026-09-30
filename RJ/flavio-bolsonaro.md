@@ -2933,3 +2933,6 @@
 - **[2026-09-30 19:20 UTC]** Augusto Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/augusto-cury-entrevista-podcast.ghtml)_
 
+- **[2026-09-30 16:25 UTC]** Lula diz que Flávio Bolsonaro não tem biografia e 'foi eleito pelo crime organizado'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/lula-diz-que-flavio-bolsonaro-nao-tem-compromisso-e-foi-eleito-pelo-crime-organizado.ghtml)_
+
