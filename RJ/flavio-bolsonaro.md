@@ -2867,3 +2867,6 @@
 - **[2026-09-29 21:01 UTC]** PT explora reportagem que liga Flávio Bolsonaro a garotas de programa e Rolex, e candidato evita responder
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pt-explora-reportagem-que-liga-flavio-bolsonaro-a-garotas-de-programa-e-rolex-e-candidato-evita-responder.shtml)_
 
+- **[2026-09-30 00:44 UTC]** Na TV, Lula explora embate de Flávio com CNBB e senador faz apelo por voto útil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/na-tv-lula-explora-embate-de-flvio-com-cnbb-e-senador-apela-a-voto-til.ghtml)_
+
