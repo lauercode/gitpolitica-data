@@ -74,3 +74,6 @@
 - **[2026-09-29 11:59 UTC]** Lula nomeia Pacheco ao TCU e abre caminho para suplente do PP
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-nomeia-pacheco-para-o-tcu-e-abre-caminho-para-suplente-do-pp/)_
 
+- **[2026-09-30 12:10 UTC]** Rodrigo Pacheco toma posse como novo ministro do TCU
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-09/rodrigo-pacheco-toma-posse-como-novo-ministro-do-tcu)_
+
