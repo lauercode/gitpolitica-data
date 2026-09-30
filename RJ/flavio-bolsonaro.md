@@ -2891,3 +2891,6 @@
 - **[2026-09-29 20:07 UTC]** Flávio Bolsonaro perde mais respondendo a fake news sobre Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/09/flavio-bolsonaro-perde-mais-respondendo-fake-news-sobre-nossa-senhora.shtml)_
 
+- **[2026-09-30 02:16 UTC]** Gilmar mantém quebra de sigilos de ex-assessora de Flávio em investigação sobre “rachadinha”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mantem-quebra-de-sigilos-de-ex-assessora-de-flavio-em-investigacao-sobre-rachadinha/)_
+
