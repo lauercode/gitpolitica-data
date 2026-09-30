@@ -1082,3 +1082,6 @@ direitos
 - **[2026-09-30 14:09 UTC]** PSB aposta em 15 candidatas para eleger bancada 40% feminina na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/psb-aposta-em-15-candidatas-para-eleger-bancada-40-feminina-na-camara.shtml)_
 
+- **[2026-09-30 20:14 UTC]** As 10 principais apostas do PT para a Câmara dos Deputados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/as-10-principais-apostas-do-pt-para-camara-dos-deputados/)_
+
