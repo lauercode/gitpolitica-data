@@ -14,3 +14,6 @@
 - **[2026-09-03 17:03 UTC]** Justiça de SP concede liminar e suspende demissão de delegado Da Cunha da Polícia Civil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-concede-liminar-e-suspende-demissao-de-delegado-da-cunha-da-policia-civil.shtml)_
 
+- **[2026-09-30 15:52 UTC]** TJ mantém suspensa demissão de Da Cunha, delegado da Polícia Civil de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/tj-mantem-suspensa-demissao-de-da-cunha-delegado-da-policia-civil-de-sao-paulo.shtml)_
+
