@@ -44,3 +44,6 @@
 - **[2026-09-29 20:05 UTC]** Mendonça libera publicação de Erika Hilton sobre Nossa Senhora Aparecida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/mendonca-libera-publicacao-de-erika-hilton-sobre-nossa-senhora-aparecida.shtml)_
 
+- **[2026-09-29 21:25 UTC]** Mendonça libera postagem de Erika Hilton sobre Nossa Senhora Aparecida
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-libera-postagem-de-erika-hilton-sobre-nossa-senhora-aparecida)_
+
