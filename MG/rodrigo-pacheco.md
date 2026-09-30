@@ -83,3 +83,6 @@
 - **[2026-09-30 12:57 UTC]** Chegada de Pacheco muda dinâmica de poder no TCU após saída de Dantas e caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/mudanca-no-tcu-deve-gerar-disputa-por-protagonismo-apos-polemica-com-master.shtml)_
 
+- **[2026-09-30 19:09 UTC]** Rodrigo Pacheco toma posse como ministro do TCU nesta quarta-feira
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/30/rodrigo-pacheco-toma-posse-como-ministro-do-tcu-nesta-quarta-feira.ghtml)_
+
