@@ -38,3 +38,6 @@
 - **[2026-09-15 23:19 UTC]** Organizações pedem investigação sobre possível relação entre Ciro Nogueira e deputados citados em  papel achado em churrasqueira
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/15/organizacoes-pedem-investigacao-sobre-possivel-relacao-entre-ciro-nogueira-e-deputados-citados-em-papel-achado-em-churrasqueira.ghtml)_
 
+- **[2026-09-29 23:00 UTC]** Ciro Nogueira usa alianças com Bolsonaro e com PT para abafar Banco Master e buscar reeleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ciro-nogueira-usa-aliancas-com-bolsonaro-e-com-pt-para-abafar-banco-master-e-buscar-reeleicao.shtml)_
+
