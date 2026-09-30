@@ -20,3 +20,6 @@
 - **[2026-09-03 18:50 UTC]** Candidaturas de Arruda, Cunha e Garotinho testam novas regras da Ficha Limpa enquanto STF analisa mudanças na lei
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/lei-ficha-limpa-inelegibilidade-eleicoes-2026.ghtml)_
 
+- **[2026-09-30 15:52 UTC]** TJ mantém suspensa demissão de Da Cunha, delegado da Polícia Civil de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/tj-mantem-suspensa-demissao-de-da-cunha-delegado-da-policia-civil-de-sao-paulo.shtml)_
+
