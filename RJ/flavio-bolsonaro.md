@@ -2960,3 +2960,6 @@
 - **[2026-09-30 19:41 UTC]** Mendonça, Toffoli e Nunes votam por tirar do ar posts que ligam Flávio Bolsonaro a Nossa Senhora; siga julgamento no TSE
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-30 17:24 UTC]** Lula diz que Flávio Bolsonaro não tem biografia e foi eleito com apoio do crime organizado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/30/lula-diz-que-flavio-bolsonaro-nao-tem-biografia-e-foi-eleito-com-apoio-do-crime-organizado.ghtml)_
+
