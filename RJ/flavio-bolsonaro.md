@@ -2900,3 +2900,6 @@
 - **[2026-09-30 13:41 UTC]** Pablo Marçal anuncia apoio a Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pablo-marcal-apoio-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-30 13:37 UTC]** TSE vai limitar decisão de André Mendonça ao que é de fato fake news contra Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/tse-vai-limitar-decisao-de-andre-mendonca-ao-que-e-de-fato-fake-news-contra-flavio-bolsonaro.ghtml)_
+
