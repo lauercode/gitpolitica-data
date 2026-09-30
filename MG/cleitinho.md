@@ -107,3 +107,6 @@
 - **[2026-09-29 20:31 UTC]** Quaest: Em MG, Cleitinho tem 37% e Patrus 18%, no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/quaest-em-mg-cleitinho-tem-37percent-e-patrus-18percent-no-primeiro-turno.ghtml)_
 
+- **[2026-09-30 02:20 UTC]** Cleitinho e Patrus viram alvo no debate em Minas Gerais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cleitinho-e-patrus-viram-alvo-no-debate-em-minas-gerais.shtml)_
+
