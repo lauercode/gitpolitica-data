@@ -2882,3 +2882,6 @@
 - **[2026-09-30 04:00 UTC]** Candidatos à Presidência são vagos na cultura, com plano de Lula maior que o de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/candidatos-a-presidencia-sao-vagos-na-cultura-com-plano-de-lula-maior-que-o-de-flavio.shtml)_
 
+- **[2026-09-30 01:36 UTC]** Lula liga ao vivo para Dino, do STF, e é questionado por Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-liga-ao-vivo-para-dino-do-stf-e-e-questionado-por-flavio-bolsonaro.shtml)_
+
