@@ -2921,3 +2921,6 @@
 - **[2026-09-30 07:00 UTC]** Polêmica com Nossa Senhora Aparecida desgasta mais Flávio Bolsonaro do que Lula nas redes, diz levantamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/polemica-com-nossa-senhora-aparecida-desgasta-lula-e-flavio-nas-redes-diz-levantamento.shtml)_
 
+- **[2026-09-30 15:19 UTC]** Da escolha de Bolsonaro à consolidação na direita: como foi construída a candidatura de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/da-escolha-de-bolsonaro-a-consolidacao-na-direita-como-foi-construida-candidatura-de-flavio/)_
+
