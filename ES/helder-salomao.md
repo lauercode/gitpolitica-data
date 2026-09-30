@@ -17,3 +17,6 @@
 - **[2026-09-29 17:52 UTC]** Fachin e Salomão respondem a Gilmar com propostas para ampliar controle sobre precatórios
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/29/fachin-e-salomo-respondem-a-gilmar-com-propostas-para-ampliar-controle-sobre-precatrios.ghtml)_
 
+- **[2026-09-29 17:52 UTC]** Fachin, do STF, e Salomão, do STJ, apertam controle sobre precatórios
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/29/fachin-e-salomo-respondem-a-gilmar-com-propostas-para-ampliar-controle-sobre-precatrios.ghtml)_
+
