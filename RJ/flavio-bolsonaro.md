@@ -2879,3 +2879,6 @@
 - **[2026-09-30 02:16 UTC]** Flávio e Tarcísio escolhem interior de SP para último ato de campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/29/flavio-e-tarcisio-escolhem-interior-de-sp-para-ultimo-ato-de-campanha.ghtml)_
 
+- **[2026-09-30 04:00 UTC]** Candidatos à Presidência são vagos na cultura, com plano de Lula maior que o de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/candidatos-a-presidencia-sao-vagos-na-cultura-com-plano-de-lula-maior-que-o-de-flavio.shtml)_
+
