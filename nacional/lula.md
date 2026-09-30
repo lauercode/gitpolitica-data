@@ -1037,3 +1037,6 @@
 - **[2026-09-29 19:58 UTC]** É #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixarem o Brasil
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/09/29/e-fake-que-video-mostre-presidente-do-paraguai-agradecendo-a-lula-por-empresas-deixarem-o-brasil.ghtml)_
 
+- **[2026-09-30 00:11 UTC]** Coligação de Lula aciona TSE contra conteúdos que deturpam fala do presidente
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/coligao-de-lula-aciona-tse-contra-contedos-que-deturpam-fala-do-presidente.ghtml)_
+
