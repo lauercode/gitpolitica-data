@@ -104,3 +104,6 @@
 - **[2026-09-30 02:16 UTC]** Flávio e Tarcísio escolhem interior de SP para último ato de campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/29/flavio-e-tarcisio-escolhem-interior-de-sp-para-ultimo-ato-de-campanha.ghtml)_
 
+- **[2026-09-30 02:05 UTC]** VÍDEOS ELEIÇÕES 2026: Tarcísio e Haddad participam de debate para o governo de SP
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-eleicoes-2026-debate-da-globo-para-o-governo-de-sp-1-turno.ghtml)_
+
