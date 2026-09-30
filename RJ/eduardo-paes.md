@@ -29,3 +29,6 @@
 - **[2026-09-29 20:40 UTC]** Quaest: Eduardo Paes tem 34% e Douglas Ruas, 25% na disputa ao governo do RJ
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/quaest-eduardo-paes-tem-34percent-e-douglas-ruas-25percent-na-disputa-ao-governo-do-rj.ghtml)_
 
+- **[2026-09-30 08:00 UTC]** Tarcísio e Eduardo Paes têm vantagem em disputas em SP e Rio, diz Quaest
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/30/tarcisio-e-eduardo-paes-tem-vantagem-em-disputas-em-sp-e-rio-diz-quaest.ghtml)_
+
