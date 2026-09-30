@@ -17,3 +17,6 @@
 - **[2017-07-31 10:50 UTC]** Pioneiro do abstracionismo, Antonio Bandeira ganha exposição individual no Espaço Cultural Unifor
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/07/pioneiro-do-abstracionismo-antonio-bandeira-ganha-exposicao-individual-no-espaco-cultural-unifor.html)_
 
+- **[2026-09-30 14:53 UTC]** Manoel Pioneiro é preso em operação da PF por suspeita de lavagem de dinheiro e crime eleitoral em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/30/manoel-pioneiro-e-preso-em-operacao-da-pf-por-suspeita-de-lavagem-de-dinheiro-e-crime-eleitoral-em-belem.ghtml)_
+
