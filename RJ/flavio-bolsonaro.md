@@ -2855,3 +2855,6 @@
 - **[2026-09-29 23:00 UTC]** Se eleito, Flávio planeja implementar no Itamaraty reforma importada do governo Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/se-eleito-flavio-planeja-implementar-no-itamaraty-reforma-importada-do-governo-trump.shtml)_
 
+- **[2026-09-29 22:29 UTC]** Após depositar R$ 325 mi para apostas, amigo de Flávio pede bloqueio de dinheiro de bet; Justiça nega
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/apos-depositar-r-325-mi-para-apostas-amigo-de-flavio-pede-bloqueio-de-dinheiro-de-bet-justica-nega.shtml)_
+
