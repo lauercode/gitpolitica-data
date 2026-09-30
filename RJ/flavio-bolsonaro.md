@@ -2876,3 +2876,6 @@
 - **[2026-09-30 03:10 UTC]** Tarcísio e Haddad nacionalizam debate em SP com ataques sobre infiltração do PCC e CV, saúde e governos Lula e Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/30/tarcisio-e-haddad-nacionalizam-debate-em-sp-com-ataques-sobre-infiltracao-do-pcc-e-cv-saude-e-governos-lula-e-bolsonaro.ghtml)_
 
+- **[2026-09-30 02:16 UTC]** Flávio e Tarcísio escolhem interior de SP para último ato de campanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/29/flavio-e-tarcisio-escolhem-interior-de-sp-para-ultimo-ato-de-campanha.ghtml)_
+
