@@ -89,3 +89,6 @@
 - **[2026-09-28 13:40 UTC]** Eleições 2026 no Paraná: Requião Filho concede três entrevistas e se reúne com sindicato
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-no-parana-requiao-filho-tres-entrevistas-reuniao.ghtml)_
 
+- **[2026-09-30 18:08 UTC]** Eleições 2026 no Paraná: Requião Filho participa de três carreatas em Curitiba a poucos dias das eleições
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-no-parana-requiao-filho-participa-de-tres-carreatas-em-curitiba.ghtml)_
+
