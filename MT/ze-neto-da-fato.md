@@ -86,3 +86,6 @@
 - **[2026-09-30 17:34 UTC]** Veja o que é #FATO ou #FAKE no debate da Globo com candidatos ao Governo de São Paulo
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/30/veja-o-que-e-fato-ou-fake-no-debate-da-globo-com-candidatos-ao-governo-de-sao-paulo.ghtml)_
 
+- **[2026-09-30 16:34 UTC]** Veja o que é #FATO ou #FAKE no debate da Globo com candidatos ao Governo do Rio de Janeiro
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/30/veja-o-que-e-fato-ou-fake-no-debate-da-globo-com-candidatos-ao-governo-do-rio.ghtml)_
+
