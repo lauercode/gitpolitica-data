@@ -2864,3 +2864,6 @@
 - **[2026-09-29 21:09 UTC]** Mendonça recua e libera post de Erika Hilton associando Flávio Bolsonaro a Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mendonca-recua-e-libera-post-de-erika-hilton-associando-flavio-bolsonaro-a-nossa-senhora.shtml)_
 
+- **[2026-09-29 21:01 UTC]** PT explora reportagem que liga Flávio Bolsonaro a garotas de programa e Rolex, e candidato evita responder
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pt-explora-reportagem-que-liga-flavio-bolsonaro-a-garotas-de-programa-e-rolex-e-candidato-evita-responder.shtml)_
+
