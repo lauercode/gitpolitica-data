@@ -122,3 +122,6 @@
 - **[2026-09-26 23:22 UTC]** Forte chuva de granizo com pedras do tamanho da palma da mão atinge o RS e deixa chão branco; VÍDEO
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/26/granizo-temporal-fronteira-oeste-rs-registros-instabilidade-sabado.ghtml)_
 
+- **[2026-09-30 19:52 UTC]** Forte incêndio atinge área de vegetação no distrito de Cacau Pirera
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/forte-incendio-atinge-area-de-vegetacao-no-distrito-de-cacau-pirera.ghtml)_
+
