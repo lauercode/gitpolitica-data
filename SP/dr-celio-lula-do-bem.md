@@ -47,3 +47,6 @@
 - **[2026-09-29 22:06 UTC]** Quaest: Flávio amplia vantagem sobre Lula em SP; veja o desempenho dos presidenciáveis em 5 Estados
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/quaest-flavio-amplia-vantagem-sobre-lula-em-sp-veja-o-desempenho-dos-presidenciaveis-em-5-estados.ghtml)_
 
+- **[2026-09-30 03:10 UTC]** Tarcísio e Haddad nacionalizam debate em SP com ataques sobre infiltração do PCC e CV, saúde e governos Lula e Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/30/tarcisio-e-haddad-nacionalizam-debate-em-sp-com-ataques-sobre-infiltracao-do-pcc-e-cv-saude-e-governos-lula-e-bolsonaro.ghtml)_
+
