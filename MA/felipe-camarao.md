@@ -41,3 +41,6 @@
 - **[2026-09-25 23:44 UTC]** Felipe Camarão apresenta propostas para mulheres, idosos e outros grupos vulneráveis
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/felipe-camarao-apresenta-propostas-para-mulheres-idosos-e-outros-grupos-vulneraveis.ghtml)_
 
+- **[2026-09-30 00:14 UTC]** Felipe Camarão propõe geração de renda e retomada do Mais IDH contra a pobreza
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/29/felipe-camarao-propoe-geracao-de-renda-e-retomada-do-mais-idh-contra-a-pobreza.ghtml)_
+
