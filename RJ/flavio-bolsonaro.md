@@ -2963,3 +2963,6 @@
 - **[2026-09-30 17:24 UTC]** Lula diz que Flávio Bolsonaro não tem biografia e foi eleito com apoio do crime organizado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/30/lula-diz-que-flavio-bolsonaro-nao-tem-biografia-e-foi-eleito-com-apoio-do-crime-organizado.ghtml)_
 
+- **[2026-09-30 15:38 UTC]** Mercado teme cenário fiscal tanto sob Lula quanto sob Flávio, mostra Natixis
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/30/mercado-teme-cenrio-fiscal-tanto-sob-lula-quanto-sob-flvio-mostra-natixis.ghtml)_
+
