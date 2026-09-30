@@ -2885,3 +2885,6 @@
 - **[2026-09-30 01:36 UTC]** Lula liga ao vivo para Dino, do STF, e é questionado por Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-liga-ao-vivo-para-dino-do-stf-e-e-questionado-por-flavio-bolsonaro.shtml)_
 
+- **[2026-09-30 00:56 UTC]** Vínculos com Lula, Flávio Bolsonaro e Cláudio Castro marcam debate entre candidatos no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/vinculos-com-lula-flavio-bolsonaro-e-claudio-castro-marcam-debate-entre-candidatos-no-rj.shtml)_
+
