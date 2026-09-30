@@ -2846,3 +2846,6 @@
 - **[2026-09-29 21:46 UTC]** Pablo Marçal declara apoio a Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/pablo-marcal-declara-apoio-a-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-29 23:00 UTC]** Golpe de Bolsonaro fracassou também porque ele nunca buscou maioria no Congresso, diz estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/golpe-de-bolsonaro-fracassou-tambem-porque-ele-nunca-buscou-maioria-no-congresso-diz-estudo.shtml)_
+
