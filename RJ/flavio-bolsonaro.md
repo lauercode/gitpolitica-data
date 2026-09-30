@@ -2906,3 +2906,6 @@
 - **[2026-09-30 13:11 UTC]** Flávio Dino manda Polícia Federal investigar onda de ataques a imagens religiosas no país
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/dino-manda-policia-federal-apurar-onda-de-ataques-a-imagens-religiosas.ghtml)_
 
+- **[2026-09-30 10:48 UTC]** Eleições: Lula x Flávio Bolsonaro escancara guerra pelo futuro do poder no STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/30/eleicoes-lula-flavio-stf-poder.ghtml)_
+
