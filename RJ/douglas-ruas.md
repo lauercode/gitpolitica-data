@@ -32,3 +32,6 @@
 - **[2026-09-29 20:40 UTC]** Quaest: Eduardo Paes tem 34% e Douglas Ruas, 25% na disputa ao governo do RJ
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/quaest-eduardo-paes-tem-34percent-e-douglas-ruas-25percent-na-disputa-ao-governo-do-rj.ghtml)_
 
+- **[2026-09-30 12:09 UTC]** Eduardo Paes associa Douglas Ruas a Cláudio Castro e é acusado de “velha política” em debate na Globo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/rio-de-janeiro/eduardo-paes-associa-douglas-ruas-a-claudio-castro-e-e-acusado-de-velha-politica-em-debate-na-globo/)_
+
