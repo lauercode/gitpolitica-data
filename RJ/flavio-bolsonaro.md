@@ -2894,3 +2894,6 @@
 - **[2026-09-30 02:16 UTC]** Gilmar mantém quebra de sigilos de ex-assessora de Flávio em investigação sobre “rachadinha”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mantem-quebra-de-sigilos-de-ex-assessora-de-flavio-em-investigacao-sobre-rachadinha/)_
 
+- **[2026-09-30 08:43 UTC]** Lula e Flávio Bolsonaro voltam a empatar no 2º turno, e distância cai no 1º no Agregador de Pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
