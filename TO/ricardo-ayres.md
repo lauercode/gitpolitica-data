@@ -35,3 +35,6 @@
 - **[2026-09-25 23:16 UTC]** Eleições 2026: Ricardo Marques fala sobre 'Protege Mulher' e melhorias para policiais
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-ricardo-marques-fala-sobre-protege-mulher-e-melhorias-para-policiais.ghtml)_
 
+- **[2026-09-30 17:28 UTC]** TRE-SE homologa renúncia de vice e declara impossibilidade de manutenção da candidatura de Ricardo Marques ao governo
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/tre-ricardo-marques-sergipe.ghtml)_
+
