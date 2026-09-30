@@ -62,3 +62,6 @@
 - **[2026-09-28 18:43 UTC]** Lucas Ribeiro defende ampliar ICMS Cultural para imóveis tombados em toda a Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/28/lucas-ribeiro-defende-ampliar-icms-cultural-para-imoveis-tombados-em-toda-a-paraiba.ghtml)_
 
+- **[2026-09-30 19:59 UTC]** Lucas Ribeiro propõe usar obras e crescimento do turismo para fortalecer construção civil na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/lucas-ribeiro-propoe-usar-obras-e-crescimento-do-turismo-para-fortalecer-construcao-civil-na-pb.ghtml)_
+
