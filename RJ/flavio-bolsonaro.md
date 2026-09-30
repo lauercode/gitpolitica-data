@@ -2936,3 +2936,6 @@
 - **[2026-09-30 16:25 UTC]** Lula diz que Flávio Bolsonaro não tem biografia e 'foi eleito pelo crime organizado'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/lula-diz-que-flavio-bolsonaro-nao-tem-compromisso-e-foi-eleito-pelo-crime-organizado.ghtml)_
 
+- **[2026-09-30 17:11 UTC]** Eduardo Bolsonaro ameaça retaliar diplomatas que 'sabotaram' governo de seu pai caso Flávio seja eleito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eduardo-bolsonaro-ameaca-retaliar-diplomatas-que-sabotaram-governo-de-seu-pai-caso-flavio-seja-eleito.shtml)_
+
