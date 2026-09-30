@@ -74,3 +74,6 @@
 - **[2026-09-29 20:26 UTC]** Quaest: Raquel Lyra e João Campos empatam com 42% no primeiro turno em Pernambuco
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/quaest-em-pe-raquel-lyra-e-joo-campos-empatam-com-42-pontos-percentuais-no-primeiro-turno.ghtml)_
 
+- **[2026-09-30 01:01 UTC]** João Campos e Raquel Lyra fazem embates sobre bets e políticas para mulheres em debate em Pernambuco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/joao-campos-e-raquel-lyra-fazem-embates-sobre-bets-e-politicas-para-mulheres-em-debate-em-pernambuco.shtml)_
+
