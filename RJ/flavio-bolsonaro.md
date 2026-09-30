@@ -2945,3 +2945,6 @@
 - **[2026-09-30 16:44 UTC]** Campanha de Flávio teme ação de Dino sob alegação de interferência externa na eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-teme-acao-de-dino-sob-alegacao-de-interferencia-externa-na-eleicao.shtml)_
 
+- **[2026-09-30 14:37 UTC]** Lula usa TV para falar de bets e Nossa Senhora enquanto Flávio mira eleitores de Caiado e Cury
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-usa-tv-para-falar-de-bets-e-nossa-senhora-enquanto-flavio-mira-eleitores-de-caiado-e-cury.shtml)_
+
