@@ -65,3 +65,6 @@
 - **[2026-09-28 22:18 UTC]** Cícero Lucena defende ampliação de cursos técnicos pela UEPB para gerar emprego e renda na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/28/cicero-lucena-defende-ampliacao-de-cursos-tecnicos-pela-uepb-para-gerar-emprego-e-renda-na-paraiba.ghtml)_
 
+- **[2026-09-30 18:25 UTC]** Campanha de Cícero Lucena aciona Justiça e denuncia suposta compra de votos por meio de plataforma na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/campanha-de-cicero-lucena-aciona-justica-e-denuncia-plataforma-de-compra-de-votos-na-pb.ghtml)_
+
