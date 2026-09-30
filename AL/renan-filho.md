@@ -65,3 +65,6 @@
 - **[2026-09-27 15:15 UTC]** Justiça Eleitoral retira perfil de Renan Filho em rede social, mas nova decisão determina retomada
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/27/justica-eleitoral-retira-perfil-de-renan-filho-em-redes-social-mas-nova-decisao-determina-retomada.ghtml)_
 
+- **[2026-09-30 03:43 UTC]** VÍDEOS: Eleições 2026 - JHC e Renan Filho participam de debate na TV Asa Branca AL
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/edicao/2026/09/30/videos-eleicoes-2026-jhc-e-renan-filho-participam-de-debate-na-tv-asa-branca-al.ghtml)_
+
