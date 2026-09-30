@@ -2957,3 +2957,6 @@
 - **[2026-09-30 18:05 UTC]** Lula confirma que não irá ao debate da TV Globo; Flávio mantém presença
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-confirma-que-nao-ira-ao-debate-da-tv-globo-flavio-mantem-presenca/)_
 
+- **[2026-09-30 19:41 UTC]** Mendonça, Toffoli e Nunes votam por tirar do ar posts que ligam Flávio Bolsonaro a Nossa Senhora; siga julgamento no TSE
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
+
