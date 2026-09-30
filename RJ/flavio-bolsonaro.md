@@ -2924,3 +2924,6 @@
 - **[2026-09-30 15:19 UTC]** Da escolha de Bolsonaro à consolidação na direita: como foi construída a candidatura de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/da-escolha-de-bolsonaro-a-consolidacao-na-direita-como-foi-construida-candidatura-de-flavio/)_
 
+- **[2026-09-30 14:40 UTC]** Mendonça vota por tirar do ar posts que ligam Flávio Bolsonaro a Nossa Senhora; siga julgamento no TSE
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
+
