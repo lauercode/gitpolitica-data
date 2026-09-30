@@ -2909,3 +2909,6 @@
 - **[2026-09-30 10:48 UTC]** Eleições: Lula x Flávio Bolsonaro escancara guerra pelo futuro do poder no STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/30/eleicoes-lula-flavio-stf-poder.ghtml)_
 
+- **[2026-09-30 10:20 UTC]** Flávio e Michelle se aproximaram de bispo que defendeu retirar título de padroeira de Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-e-michelle-se-aproximaram-de-bispo-que-defendeu-retirar-titulo-de-padroeira-de-aparecida.shtml)_
+
