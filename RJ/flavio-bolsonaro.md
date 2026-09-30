@@ -2927,3 +2927,6 @@
 - **[2026-09-30 14:40 UTC]** Mendonça vota por tirar do ar posts que ligam Flávio Bolsonaro a Nossa Senhora; siga julgamento no TSE
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-30 19:42 UTC]** 'Dark Horse': PF faz nova perícia em material apreendido pela Polícia Civil de SP por ordem de Flávio Dino
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/30/dark-horse-pf-faz-nova-pericia-em-material-apreendido-pela-policia-civil-de-sp-por-ordem-de-flavio-dino.ghtml)_
+
