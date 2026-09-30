@@ -23,3 +23,6 @@
 - **[2026-09-14 13:14 UTC]** Juiz rejeita ação de Bolsonaro contra Janones por acusação de mandar matar Lula e Alckmin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiz-rejeita-acao-de-bolsonaro-contra-janones-por-acusacao-de-mandar-matar-lula-e-alckmin/)_
 
+- **[2026-09-30 19:56 UTC]** Janones recruta “soldados” no X para militância digital pela reeleição de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/janones-recruta-soldados-no-x-para-militancia-digital-pela-reeleicao-de-lula/)_
+
