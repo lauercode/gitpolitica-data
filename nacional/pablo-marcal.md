@@ -68,3 +68,6 @@
 - **[2026-09-29 21:46 UTC]** Pablo Marçal declara apoio a Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/pablo-marcal-declara-apoio-a-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-30 13:41 UTC]** Pablo Marçal anuncia apoio a Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pablo-marcal-apoio-flavio-bolsonaro.ghtml)_
+
