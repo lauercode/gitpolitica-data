@@ -2903,3 +2903,6 @@
 - **[2026-09-30 13:37 UTC]** TSE vai limitar decisão de André Mendonça ao que é de fato fake news contra Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/tse-vai-limitar-decisao-de-andre-mendonca-ao-que-e-de-fato-fake-news-contra-flavio-bolsonaro.ghtml)_
 
+- **[2026-09-30 13:11 UTC]** Flávio Dino manda Polícia Federal investigar onda de ataques a imagens religiosas no país
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/dino-manda-policia-federal-apurar-onda-de-ataques-a-imagens-religiosas.ghtml)_
+
