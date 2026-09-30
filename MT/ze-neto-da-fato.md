@@ -83,3 +83,6 @@
 - **[2026-09-26 00:48 UTC]** Veja o que é #FATO ou #FAKE no debate de candidatos ao Senado por São Paulo no g1
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/25/veja-o-que-e-fato-ou-fake-nos-debates-de-candidatos-ao-senado-por-sao-paulo-no-g1.ghtml)_
 
+- **[2026-09-30 17:34 UTC]** Veja o que é #FATO ou #FAKE no debate da Globo com candidatos ao Governo de São Paulo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/30/veja-o-que-e-fato-ou-fake-no-debate-da-globo-com-candidatos-ao-governo-de-sao-paulo.ghtml)_
+
