@@ -23,3 +23,6 @@
 - **[2026-09-26 20:15 UTC]** Pedro Coutinho, candidato ao governo da Paraíba, propõe investimentos em infraestrutura para João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/26/pedro-coutinho-candidato-ao-governo-da-paraiba-propoe-investimentos-em-infraestrutura-para-joao-pessoa.ghtml)_
 
+- **[2026-09-30 03:13 UTC]** Pedro Coutinho, candidato do DC, desiste da disputa pelo governo da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/pedro-coutinho-candidato-do-dc-desiste-da-disputa-pelo-governo-da-paraiba.ghtml)_
+
