@@ -2939,3 +2939,6 @@
 - **[2026-09-30 17:11 UTC]** Eduardo Bolsonaro ameaça retaliar diplomatas que 'sabotaram' governo de seu pai caso Flávio seja eleito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eduardo-bolsonaro-ameaca-retaliar-diplomatas-que-sabotaram-governo-de-seu-pai-caso-flavio-seja-eleito.shtml)_
 
+- **[2026-09-30 16:55 UTC]** Na reta final, Lula e Flávio intensificam campanha em MG; diferença no pleito de 2022 foi de 50 mil votos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/na-reta-final-lula-e-flavio-intensificam-campanha-em-mg-diferenca-de-pleito-em-2022-foi-de-50-mil-votos.shtml)_
+
