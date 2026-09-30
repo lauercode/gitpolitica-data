@@ -20,3 +20,6 @@
 - **[2026-09-23 00:18 UTC]** Eleições 2026 no RS: Priscila Voigt promete 'reestatizar CEEE e Corsan'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-no-rs-priscila-voigt-promete-reestatizar-ceee-e-corsan.ghtml)_
 
+- **[2026-09-29 23:38 UTC]** Eleições 2026 no RS: Priscila Voigt defende 'frentes emergenciais de trabalho' para reconstrução
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-no-rs-priscila-voigt-defende-frentes-emergenciais-de-trabalho-para-reconstrucao.ghtml)_
+
