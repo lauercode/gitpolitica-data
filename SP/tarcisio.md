@@ -92,3 +92,6 @@
 - **[2026-09-29 20:11 UTC]** Quaest: Em SP, Tarcísio tem 44% das intenções de voto e Haddad, 24% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/quaest-em-sp-tarcisio-tem-44percent-das-intencoes-de-voto-e-haddad-24percent-no-primeiro-turno.ghtml)_
 
+- **[2026-09-30 01:46 UTC]** Segurança e crime organizado pautam início do debate entre Tarcísio e Haddad em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/seguranca-e-crime-organizado-pautam-inicio-do-debate-entre-tarcisio-e-haddad-em-sp.ghtml)_
+
