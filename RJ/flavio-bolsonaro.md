@@ -2948,3 +2948,6 @@
 - **[2026-09-30 14:37 UTC]** Lula usa TV para falar de bets e Nossa Senhora enquanto Flávio mira eleitores de Caiado e Cury
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-usa-tv-para-falar-de-bets-e-nossa-senhora-enquanto-flavio-mira-eleitores-de-caiado-e-cury.shtml)_
 
+- **[2026-09-30 14:35 UTC]** Lula diz que dinheiro pedido por Flávio Bolsonaro a Vorcaro bancava Eduardo nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-dinheiro-pedido-por-flavio-bolsonaro-a-vorcaro-bancava-eduardo-nos-eua.shtml)_
+
