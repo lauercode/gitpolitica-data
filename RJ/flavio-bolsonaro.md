@@ -2849,3 +2849,6 @@
 - **[2026-09-29 23:00 UTC]** Golpe de Bolsonaro fracassou também porque ele nunca buscou maioria no Congresso, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/golpe-de-bolsonaro-fracassou-tambem-porque-ele-nunca-buscou-maioria-no-congresso-diz-estudo.shtml)_
 
+- **[2026-09-29 23:00 UTC]** Ciro Nogueira usa alianças com Bolsonaro e com PT para abafar Banco Master e buscar reeleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ciro-nogueira-usa-aliancas-com-bolsonaro-e-com-pt-para-abafar-banco-master-e-buscar-reeleicao.shtml)_
+
