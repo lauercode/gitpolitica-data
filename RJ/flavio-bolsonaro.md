@@ -2873,3 +2873,6 @@
 - **[2026-09-29 19:12 UTC]** Gilmar Mendes mantém quebra de sigilo de ex-assessora de Flávio em investigação sobre 'rachadinha'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/09/29/gilmar-mendes-mantem-quebra-de-sigilo-de-ex-assessora-de-flavio-em-investigacao-sobre-rachadinha.ghtml)_
 
+- **[2026-09-30 03:10 UTC]** Tarcísio e Haddad nacionalizam debate em SP com ataques sobre infiltração do PCC e CV, saúde e governos Lula e Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/30/tarcisio-e-haddad-nacionalizam-debate-em-sp-com-ataques-sobre-infiltracao-do-pcc-e-cv-saude-e-governos-lula-e-bolsonaro.ghtml)_
+
