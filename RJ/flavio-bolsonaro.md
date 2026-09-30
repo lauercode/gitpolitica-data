@@ -2861,3 +2861,6 @@
 - **[2026-09-29 22:22 UTC]** Lula ataca Flávio Bolsonaro e diz que única experiência do adversário é com milicianos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-ataca-flavio-bolsonaro-e-diz-que-unica-experiencia-do-adversario-e-com-milicianos.shtml)_
 
+- **[2026-09-29 21:09 UTC]** Mendonça recua e libera post de Erika Hilton associando Flávio Bolsonaro a Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mendonca-recua-e-libera-post-de-erika-hilton-associando-flavio-bolsonaro-a-nossa-senhora.shtml)_
+
