@@ -41,3 +41,6 @@
 - **[2026-09-29 23:49 UTC]** Eduardo Braide propõe reduzir ICMS e ampliar benefício social para combater a pobreza
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/29/eduardo-braide-propoe-reduzir-icms-e-ampliar-beneficio-social-para-combater-a-pobreza.ghtml)_
 
+- **[2026-10-01 12:43 UTC]** Qual é o número de Eduardo Braide (PSD) para o governo do Maranhão?
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-eduardo-braide-psd-para-o-governo-do-maranhao.ghtml)_
+
