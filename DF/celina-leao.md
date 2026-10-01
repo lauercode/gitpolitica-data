@@ -74,3 +74,6 @@
 - **[2026-10-01 20:07 UTC]** Datafolha no DF: 32% avaliam gestão Celina Leão como positiva e 29%, como negativa
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/01/datafolha-df-avaliacao-governo-celina-1-outubro.ghtml)_
 
+- **[2026-10-01 20:05 UTC]** Datafolha no DF, 2º turno: Celina Leão, 55%; Leandro Grass, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/01/datafolha-df-governador-segundo-turno-1-outubro.ghtml)_
+
