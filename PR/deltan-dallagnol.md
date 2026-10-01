@@ -62,3 +62,6 @@
 - **[2026-09-24 19:56 UTC]** TRE-PR manda Deltan Dallagnol desativar Instagram ou remover propaganda
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/tre-pr-manda-deltan-dallagnol-desativar-instagram-ou-remover-propaganda/)_
 
+- **[2026-10-01 01:46 UTC]** Qual é o número de Deltan Dallagnol (Novo) para o Senado no Paraná?
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-deltan-dallagnol-novo-para-o-senado-no-parana.ghtml)_
+
