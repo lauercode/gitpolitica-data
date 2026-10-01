@@ -3140,3 +3140,6 @@
 - **[2026-10-01 16:30 UTC]** Lula tem mais seguidores, mas Flávio supera em engajamento e alcance nas redes, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-tem-mais-seguidores-mas-flavio-supera-em-engajamento-e-alcance-nas-redes.shtml)_
 
+- **[2026-10-01 23:03 UTC]** Flávio Bolsonaro fala em censura do TSE e desiste de debate da TV Globo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-desiste-de-participar-de-debate-da-tv-globo/)_
+
