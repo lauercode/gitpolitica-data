@@ -65,3 +65,6 @@
 - **[2026-09-30 19:59 UTC]** Lucas Ribeiro propõe usar obras e crescimento do turismo para fortalecer construção civil na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/lucas-ribeiro-propoe-usar-obras-e-crescimento-do-turismo-para-fortalecer-construcao-civil-na-pb.ghtml)_
 
+- **[2026-09-30 21:48 UTC]** Qual é o número de Lucas Ribeiro (PP) para o governo da Paraíba?
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-lucas-ribeiro-pp-para-o-governo-da-paraiba.ghtml)_
+
