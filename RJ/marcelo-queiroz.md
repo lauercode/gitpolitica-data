@@ -20,3 +20,6 @@
 - **[2026-09-28 18:06 UTC]** Rodrigo de Queiroz Moreira investe em projeto híbrido em Macapá
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/09/28/rodrigo-de-queiroz-moreira-investe-em-projeto-hibrido-em-macapa-1.ghtml)_
 
+- **[2026-09-30 21:54 UTC]** Qual é o número de Dr. Marcelo Queiroga (PL) para o Senado na Paraíba?
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-marcelo-queiroga-pl-para-o-senado-na-paraiba.ghtml)_
+
