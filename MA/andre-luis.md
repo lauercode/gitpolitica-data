@@ -17,3 +17,6 @@
 - **[2026-09-22 23:18 UTC]** André Luis visita Fiema e apresenta propostas para ampliar oportunidades de emprego para jovens no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/22/andre-luis-visita-fiema-e-apresenta-propostas-para-ampliar-oportunidades-de-emprego-para-jovens-no-maranhao.ghtml)_
 
+- **[2026-09-30 23:29 UTC]** André Luis visita Ceasa de São Luís e apresenta propostas para produção de alimentos no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/30/andre-luis-visita-ceasa-de-sao-luis-e-apresenta-propostas-para-producao-de-alimentos-no-ma.ghtml)_
+
