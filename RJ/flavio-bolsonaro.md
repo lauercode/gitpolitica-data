@@ -3056,3 +3056,6 @@
 - **[2026-10-01 18:26 UTC]** No último dia de campanha na TV, Lula usa religião e bets contra Flávio Bolsonaro; candidato do PL fala em mudar 'velho sistema'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/ultimo-dia-horario-eleitoral-lula-flavio.ghtml)_
 
+- **[2026-10-01 16:02 UTC]** Fachin nega pedido de suspeição de Dino feito por Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fachin-nega-pedido-de-suspeicao-de-dino-feito-por-flavio-bolsonaro.shtml)_
+
