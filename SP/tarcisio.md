@@ -113,3 +113,6 @@
 - **[2026-09-30 08:00 UTC]** Tarcísio e Eduardo Paes têm vantagem em disputas em SP e Rio, diz Quaest
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/30/tarcisio-e-eduardo-paes-tem-vantagem-em-disputas-em-sp-e-rio-diz-quaest.ghtml)_
 
+- **[2026-10-01 20:05 UTC]** Datafolha: 47% avaliam a gestão Tarcísio como positiva e 21% como negativa em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/datafolha-sp-avaliacao-governo-01-outubro.ghtml)_
+
