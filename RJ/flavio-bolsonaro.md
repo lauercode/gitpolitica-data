@@ -3002,3 +3002,6 @@
 - **[2026-09-30 22:37 UTC]** Campanha de Lula vai explorar reportagens que ligam Flávio Bolsonaro a milícia em peça eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-lula-vai-explorar-reportagens-que-ligam-flavio-bolsonaro-a-milicia-em-peca-eleitoral.shtml)_
 
+- **[2026-09-30 21:11 UTC]** Flávio Bolsonaro pede suspeição de Dino em casos sobre eleições, Lula e o próprio senador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-pede-suspeicao-de-dino-em-casos-sobre-eleicoes-lula-e-o-proprio-senador.shtml)_
+
