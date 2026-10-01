@@ -68,3 +68,6 @@
 - **[2026-10-01 13:05 UTC]** Qual é o número de Bartô Macuxi (PSOL) para o Senado em Roraima?
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-barto-macuxi-psol-para-o-senado-em-roraima.ghtml)_
 
+- **[2026-10-01 13:05 UTC]** Qual é o número de Mario Rocha (PSOL) para o Senado em Roraima?
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-mario-rocha-psol-para-o-senado-em-roraima.ghtml)_
+
