@@ -3095,3 +3095,6 @@
 - **[2026-10-01 12:56 UTC]** O que as pesquisas diziam sobre Lula x Bolsonaro no dia do debate da Globo em 2022 e 2018 — e o que dizem em 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj3v4g4kze7lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-01 02:45 UTC]** O que o TSE decidiu sobre os posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
+
