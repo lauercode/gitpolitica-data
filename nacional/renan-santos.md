@@ -386,3 +386,6 @@
 - **[2026-10-01 19:37 UTC]** Leia íntegra da determinação de Gilmar Mendes para que TV Globo inclua Renan Santos no debate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/gilmar-determina-participacao-de-renan-santos-em-debate-da-tv-globo.shtml)_
 
+- **[2026-10-01 18:21 UTC]** Gilmar Mendes determina que TV Globo inclua Renan Santos no debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/gilmar-mendes-deve-autorizar-que-tv-globo-inclua-renan-santos-no-debate.shtml)_
+
