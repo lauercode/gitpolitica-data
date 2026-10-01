@@ -3047,3 +3047,6 @@
 - **[2026-10-01 12:22 UTC]** Defesa cita novos fatos e pede revisão da condenação de Bolsonaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/defesa-cita-novos-fatos-e-pede-revisao-de-condenacao-de-bolsonaro)_
 
+- **[2026-10-01 12:51 UTC]** Flávio Dino encerra caso sobre Nossa Senhora no STF
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/flavio-dino-encerra-caso-sobre-nossa-senhora-no-stf)_
+
