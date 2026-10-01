@@ -26,3 +26,6 @@
 - **[2026-09-29 15:58 UTC]** Justiça vê propaganda para Bia Kicis em anúncios de loja e manda retirar: 'Bia é moderna'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/justica-ve-propaganda-para-bia-kicis-em-anuncios-de-loja-e-manda-retirar-bia-e-moderna.shtml)_
 
+- **[2026-10-01 17:19 UTC]** Datafolha: Michelle Bolsonaro tem 23% em disputa pelo Senado no DF; Leila do Vôlei e Bia Kicis empatam
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-michelle-bolsonaro-tem-23-ao-senado-no-df-leila-do-volei-e-bia-kicis-empatam.shtml)_
+
