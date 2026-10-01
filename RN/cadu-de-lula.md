@@ -92,3 +92,6 @@
 - **[2026-09-30 21:54 UTC]** Qual é o número de Cadu de Lula (PT) para o governo do Rio Grande do Norte?
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-cadu-de-lula-pt-para-o-governo-do-rio-grande-do-norte.ghtml)_
 
+- **[2026-10-01 11:00 UTC]** Governadora do DF explora antipetismo e mira candidato de Lula na reta final da campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governadora-do-df-explora-antipetismo-e-mira-candidato-de-lula-na-reta-final-da-campanha.shtml)_
+
