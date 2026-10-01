@@ -62,3 +62,6 @@
 - **[2026-09-27 19:56 UTC]** Rogério Marinho acusa Dino de atropelar decisão de Mendonça sobre Nossa Senhora para favorecer Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-acusa-dino-de-atropelar-decisao-de-mendonca-sobre-nossa-senhora-para-favorecer-lula/)_
 
+- **[2026-09-30 22:37 UTC]** Qual é o número de Marcos Rogério (PL) para o governo de Rondônia?
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-marcos-rogerio-pl-para-o-governo-de-rondonia.ghtml)_
+
