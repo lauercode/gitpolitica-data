@@ -56,3 +56,6 @@
 - **[2026-10-01 03:05 UTC]** Qual é o número de Manuela d'Ávila (PSOL) para o Senado no Rio Grande do Sul?
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-manuela-davila-psol-para-o-senado-no-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Afrânio Boppré (PSOL) para o Senado em Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-afranio-boppre-psol-para-o-senado-em-santa-catarina.ghtml)_
+
