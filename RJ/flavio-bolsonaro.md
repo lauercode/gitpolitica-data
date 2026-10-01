@@ -3044,3 +3044,6 @@
 - **[2026-10-01 10:49 UTC]** Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-01 12:22 UTC]** Defesa cita novos fatos e pede revisão da condenação de Bolsonaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/defesa-cita-novos-fatos-e-pede-revisao-de-condenacao-de-bolsonaro)_
+
