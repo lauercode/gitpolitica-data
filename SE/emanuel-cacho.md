@@ -23,3 +23,6 @@
 - **[2026-10-01 01:27 UTC]** Qual é o número de Emanuel Cacho (PSDB) para o governo de Sergipe?
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-emanuel-cacho-psdb-para-o-governo-de-sergipe.ghtml)_
 
+- **[2026-10-01 13:34 UTC]** Emanuel Cacho desiste de candidatura ao governo de Sergipe e declara apoio a Valmir de Francisquinho
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/01/emanuel-cacho-desiste-de-candidatura-ao-governo-de-sergipe-e-declara-apoio-a-valmir-de-francisquinho.ghtml)_
+
