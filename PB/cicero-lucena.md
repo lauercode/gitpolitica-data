@@ -71,3 +71,6 @@
 - **[2026-09-30 22:34 UTC]** Cícero Lucena defende pagamento de bolsas para estudantes com monitoria na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/cicero-lucena-defende-pagamento-de-bolsas-para-estudantes-com-monitoria-na-paraiba.ghtml)_
 
+- **[2026-09-30 21:43 UTC]** Qual é o número de Cícero Lucena (MDB) para o governo da Paraíba?
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-cicero-lucena-mdb-para-o-governo-da-paraiba.ghtml)_
+
