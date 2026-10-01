@@ -71,3 +71,6 @@
 - **[2026-09-29 03:04 UTC]** Eleições 2026: David Almeida participa de debate e promete fortalecer a educação no interior do estado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-david-almeida-participa-de-debate-e-promete-fortalecer-a-educacao-no-interior-do-estado.ghtml)_
 
+- **[2026-10-01 00:50 UTC]** Qual é o número de David Almeida (Avante) para o governo do Amazonas?
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-david-almeida-avante-para-o-governo-do-amazonas.ghtml)_
+
