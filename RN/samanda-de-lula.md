@@ -44,3 +44,6 @@
 - **[2026-09-30 00:44 UTC]** Na TV, Lula explora embate de Flávio com CNBB e senador faz apelo por voto útil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/na-tv-lula-explora-embate-de-flvio-com-cnbb-e-senador-apela-a-voto-til.ghtml)_
 
+- **[2026-09-30 21:41 UTC]** Qual é o número de Samanda de Lula (PT) para o Senado no Rio Grande do Norte?
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-samanda-de-lula-pt-para-o-senado-no-rio-grande-do-norte.ghtml)_
+
