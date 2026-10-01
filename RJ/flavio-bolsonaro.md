@@ -2993,3 +2993,6 @@
 - **[2026-09-30 12:34 UTC]** TSE decide derrubar posts falsos que relacionam Flávio Bolsonaro a caso Nossa Senhora Aparecida
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/mendonca-vota-para-confirmar-decisao-que-tirou-do-ar-posts-sobre-nossa-senhora-aparecida.ghtml)_
 
+- **[2026-09-30 23:00 UTC]** Lula tenta conter abstenção, e Flávio Bolsonaro foca voto útil na reta final da campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-conter-abstencao-e-flavio-bolsonaro-foca-voto-util-na-reta-final-da-campanha.shtml)_
+
