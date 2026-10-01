@@ -20,3 +20,6 @@
 - **[2026-09-25 22:27 UTC]** Quaest para o Senado em RR: Teresa Surita, 22%; Nicoletti, 19%; Helena da Asatur, 17%; Chico Rodrigues, 14%
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/quaest-roraima-senado-25-setembro.ghtml)_
 
+- **[2026-10-01 13:05 UTC]** Qual é o número de Teresa Surita (MDB) para o Senado em Roraima?
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-teresa-surita-mdb-para-o-senado-em-roraima.ghtml)_
+
