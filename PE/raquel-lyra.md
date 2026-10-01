@@ -110,3 +110,6 @@
 - **[2026-10-01 20:08 UTC]** Datafolha em Pernambuco: Raquel Lyra tem 50% no 2º turno e João Campos, 46%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/01/datafolha-pe-2-turno-1-de-outubro.ghtml)_
 
+- **[2026-10-01 20:05 UTC]** Datafolha em PE: Raquel Lyra, 46%; João Campos, 44%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/01/datafolha-governo-pe-1-de-outubro.ghtml)_
+
