@@ -77,3 +77,6 @@
 - **[2026-10-01 12:06 UTC]** Qual é o número de Prof Witer Naves (PSOL) para o governo do Tocantins?
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-prof-witer-naves-psol-para-o-governo-do-tocantins.ghtml)_
 
+- **[2026-10-01 16:22 UTC]** Qual é o número de Conti (PSOL) para o Senado no Pará?
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-conti-psol-para-o-senado-no-para.ghtml)_
+
