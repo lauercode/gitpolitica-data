@@ -23,3 +23,6 @@
 - **[2026-09-27 06:00 UTC]** Candidato em PE, neto de Arraes e sobrinho de Alceu opta por usar sobrenome Valença na urna
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/candidato-em-pe-neto-de-arraes-e-sobrinho-de-alceu-opta-por-usar-sobrenome-valenca-na-urna.shtml)_
 
+- **[2026-10-01 17:30 UTC]** Datafolha: Senado em Pernambuco tem Marília Arraes (PDT) e Humberto Costa (PT) com 19%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-senado-em-pernambuco-tem-marilia-arraes-pdt-e-humberto-costa-pt-com-19.shtml)_
+
