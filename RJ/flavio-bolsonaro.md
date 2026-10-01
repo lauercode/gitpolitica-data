@@ -2966,3 +2966,6 @@
 - **[2026-09-30 15:38 UTC]** Mercado teme cenário fiscal tanto sob Lula quanto sob Flávio, mostra Natixis
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/30/mercado-teme-cenrio-fiscal-tanto-sob-lula-quanto-sob-flvio-mostra-natixis.ghtml)_
 
+- **[2026-09-30 20:43 UTC]** TSE tem 3 a 2 para proibir posts sobre Flávio e Nossa Senhora
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/tse-tem-3-2-para-proibir-posts-sobre-flavio-e-nossa-senhora)_
+
