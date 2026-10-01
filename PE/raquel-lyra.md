@@ -107,3 +107,6 @@
 - **[2026-10-01 20:11 UTC]** Datafolha: 49% avaliam gestão Raquel Lyra como positiva e 20%, como negativa
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/01/datafolha-pe-avaliacao-governadora-1-de-outubro.ghtml)_
 
+- **[2026-10-01 20:08 UTC]** Datafolha em Pernambuco: Raquel Lyra tem 50% no 2º turno e João Campos, 46%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/01/datafolha-pe-2-turno-1-de-outubro.ghtml)_
+
