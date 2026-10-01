@@ -11,3 +11,6 @@
 - **[2026-09-04 18:11 UTC]** Dr. Wanderley propõe 'revolução' no SUS e foca em saúde e mulher
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/04/dr-wanderley-propoe-revolucao-no-sus-e-foca-em-saude-e-mulher.ghtml)_
 
+- **[2026-09-30 21:05 UTC]** Qual é o número de Dr. Wanderley (MDB) para o Senado em Alagoas?
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-wanderley-mdb-para-o-senado-em-alagoas.ghtml)_
+
