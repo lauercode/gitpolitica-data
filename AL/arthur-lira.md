@@ -20,3 +20,6 @@
 - **[2026-09-25 21:11 UTC]** Quaest para o Senado em AL: Marina JHC, 20%; Arthur Lira, 20%; Renan, 17%
   _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-senado-25-setembro.ghtml)_
 
+- **[2026-09-30 21:07 UTC]** Qual é o número de Arthur Lira (PP) para o Senado em Alagoas?
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-arthur-lira-pp-para-o-senado-em-alagoas.ghtml)_
+
