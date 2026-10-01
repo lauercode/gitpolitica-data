@@ -3080,3 +3080,6 @@
 - **[2026-10-01 11:25 UTC]** Defesa de Bolsonaro pede liberdade do ex-presidente com base em sessão sobre Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/defesa-de-bolsonaro-pede-liberdade-do-ex-presidente-com-base-em-sessao-sobre-moraes.shtml)_
 
+- **[2026-10-01 19:09 UTC]** Fachin rejeita pedido de Flávio para afastar Dino de processos sobre ele, Lula e eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-rejeita-pedido-flavio-afastar-dino-processos/)_
+
