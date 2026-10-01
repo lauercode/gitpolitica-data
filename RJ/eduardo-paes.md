@@ -35,3 +35,6 @@
 - **[2026-09-30 12:09 UTC]** Eduardo Paes associa Douglas Ruas a Cláudio Castro e é acusado de “velha política” em debate na Globo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/rio-de-janeiro/eduardo-paes-associa-douglas-ruas-a-claudio-castro-e-e-acusado-de-velha-politica-em-debate-na-globo/)_
 
+- **[2026-10-01 17:11 UTC]** Datafolha: Eduardo Paes (PSD) lidera com 47% das intenções de votos válidos no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eduardo-paes-psd-lidera-com-47-das-intencoes-de-votos-validos-no-rio.shtml)_
+
