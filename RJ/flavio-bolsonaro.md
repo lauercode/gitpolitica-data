@@ -3035,3 +3035,6 @@
 - **[2026-10-01 12:57 UTC]** Defesa de Bolsonaro pede suspensão da pena de prisão; Nunes Marques será relator
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-bolsonaro-retoma-pedido-suspender-pena-prisao/)_
 
+- **[2026-10-01 10:54 UTC]** PF faz nova perícia em material do “Dark Horse” por ordem de Flávio Dino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-nova-pericia-material-dark-horse-por-ordem-de-flavio-dino/)_
+
