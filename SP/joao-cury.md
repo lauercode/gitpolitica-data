@@ -377,3 +377,6 @@
 - **[2026-09-30 14:37 UTC]** Lula usa TV para falar de bets e Nossa Senhora enquanto Flávio mira eleitores de Caiado e Cury
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-usa-tv-para-falar-de-bets-e-nossa-senhora-enquanto-flavio-mira-eleitores-de-caiado-e-cury.shtml)_
 
+- **[2026-10-01 22:05 UTC]** Datafolha: Lula, 42%; Flávio Bolsonaro, 38%; Cury, 4%; Caiado, 3%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/01/datafolha-presidente-1-outubro.ghtml)_
+
