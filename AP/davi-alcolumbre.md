@@ -260,3 +260,6 @@
 - **[2026-09-26 12:00 UTC]** 'Amor' por Vorcaro explica omissão de Alcolumbre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/amor-por-vorcaro-explica-omissao-de-alcolumbre.shtml)_
 
+- **[2026-09-30 20:22 UTC]** Aliado de Alcolumbre, Rodrigo Pacheco toma posse como ministro do TCU
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/aliado-de-alcolumbre-rodrigo-pacheco-toma-posse-como-ministro-do-tcu.ghtml)_
+
