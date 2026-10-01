@@ -3116,3 +3116,6 @@
 - **[2026-10-01 22:05 UTC]** Datafolha: Lula, 42%; Flávio Bolsonaro, 38%; Cury, 4%; Caiado, 3%; Renan, 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/01/datafolha-presidente-1-outubro.ghtml)_
 
+- **[2026-10-01 20:28 UTC]** É #FAKE que Xuxa disse 'não vote nesse homem' em campanha contra Lula; vídeo foi feito em 2022 e tinha crítica a Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/01/e-fake-que-xuxa-disse-nao-vote-nesse-homem-em-campanha-contra-lula-video-foi-feito-em-2022-e-tinha-critica-a-bolsonaro.ghtml)_
+
