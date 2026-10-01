@@ -38,3 +38,6 @@
 - **[2026-09-24 23:13 UTC]** Quaest para o Senado em RO: Máximo, 18%; Cristina, 16%; Mariana, 11%; Sheid, 8%
   _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-senado-24-de-setembro.ghtml)_
 
+- **[2026-09-30 22:19 UTC]** Qual é o número de Dr. Fernando Máximo (PL) para o Senado em Rondônia?
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-fernando-maximo-pl-para-o-senado-em-rondonia.ghtml)_
+
