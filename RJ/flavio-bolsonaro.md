@@ -2984,3 +2984,6 @@
 - **[2026-09-30 21:42 UTC]** Justiça restringe redes sociais de servidor da Secom após posts sobre Flávio e Padroeira
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-restringe-redes-sociais-de-servidor-da-secom-apos-posts-sobre-flavio-e-padroeira/)_
 
+- **[2026-09-30 22:24 UTC]** TSE tem três votos por proibição ampla de posts que ligam Flávio Bolsonaro a Nossa Senhora e dois por restrições mais brandas; siga julgamento
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
+
