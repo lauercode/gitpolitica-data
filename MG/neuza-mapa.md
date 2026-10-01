@@ -41,3 +41,6 @@
 - **[2026-09-29 18:21 UTC]** Bebê que escapou de creche atravessou rua e percorreu distância equivalente a meio campo de futebol; VEJA MAPA
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/29/bebe-escapou-creche-atravessou-rua-trabalho-mae-mapa-trajeto-sc.ghtml)_
 
+- **[2026-09-30 09:39 UTC]** Debate em tempo real, jornada eleitoral, MAPA com resultados: BBC News Brasil faz cobertura especial
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss)_
+
