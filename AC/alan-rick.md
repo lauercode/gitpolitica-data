@@ -524,3 +524,6 @@
 - **[2026-09-30 19:22 UTC]** ‘Para sempre na memória’, desabafa primo de Rick uma semana após a morte do cantor
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/30/para-sempre-na-memoria-desabafa-primo-de-rick-uma-semana-apos-a-morte-do-cantor.ghtml)_
 
+- **[2026-09-30 19:22 UTC]** 'Para sempre na memória', desabafa primo de Rick uma semana após a morte do cantor
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/30/para-sempre-na-memoria-desabafa-primo-de-rick-uma-semana-apos-a-morte-do-cantor.ghtml)_
+
