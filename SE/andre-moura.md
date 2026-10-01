@@ -20,3 +20,6 @@
 - **[2026-09-24 22:26 UTC]** Quaest para o Senado em SE: André Moura, 12%; Delegado André David, 11%; Rogério Carvalho, 10%; Delegado Alessandro, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-senado-24-setembro.ghtml)_
 
+- **[2026-09-30 22:00 UTC]** Qual é o número de André Moura (União) para o Senado em Sergipe?
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-andre-moura-uniao-para-o-senado-em-sergipe.ghtml)_
+
