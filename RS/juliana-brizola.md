@@ -38,3 +38,6 @@
 - **[2026-09-28 23:19 UTC]** Eleições 2026 no RS: Juliana Brizola promete 'destinar 30% da publicidade' para orientações sobre eventos climáticos
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-no-rs-juliana-brizola-promete-destinar-30percent-da-publicidade-para-orientacoes-sobre-eventos-climaticos.ghtml)_
 
+- **[2026-10-01 03:05 UTC]** Qual é o número de Juliana Brizola (PDT) para o governo do Rio Grande do Sul?
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-juliana-brizola-pdt-para-o-governo-do-rio-grande-do-sul.ghtml)_
+
