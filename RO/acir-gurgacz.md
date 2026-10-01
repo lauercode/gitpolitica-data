@@ -11,3 +11,6 @@
 - **[2026-09-03 13:40 UTC]** Candidato ao Senado, Acir Gurgacz diz que sua condenação foi 'uma grande injustiça'
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/03/candidato-ao-senado-acir-gurgacz-e-entrevistado-no-bom-dia-rondonia.ghtml)_
 
+- **[2026-09-30 22:14 UTC]** Qual é o número de Acir Gurgacz (PDT) para o Senado em Rondônia?
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-acir-gurgacz-pdt-para-o-senado-em-rondonia.ghtml)_
+
