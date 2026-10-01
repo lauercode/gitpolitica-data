@@ -678,6 +678,17 @@
     "senado_id": "5207"
   },
   {
+    "slug": "renzo-braz",
+    "name": "Renzo Braz",
+    "role": "Senador(a) (MG)",
+    "party": "PP",
+    "aliases": [
+      "Renzo Braz",
+      "Braz"
+    ],
+    "senado_id": "5257"
+  },
+  {
     "slug": "roberta-acioly",
     "name": "Roberta Acioly",
     "role": "Senador(a) (RR)",
@@ -687,17 +698,6 @@
       "Acioly"
     ],
     "senado_id": "6025"
-  },
-  {
-    "slug": "rodrigo-pacheco",
-    "name": "Rodrigo Pacheco",
-    "role": "Senador(a) (MG)",
-    "party": "PSB",
-    "aliases": [
-      "Rodrigo Pacheco",
-      "Pacheco"
-    ],
-    "senado_id": "5732"
   },
   {
     "slug": "rogerio-marinho",

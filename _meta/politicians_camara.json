@@ -4606,17 +4606,6 @@
     "camara_id": 74084
   },
   {
-    "slug": "raniery-paulino",
-    "name": "Raniery Paulino",
-    "role": "Deputado(a) Federal (PB)",
-    "party": "REPUBLICANOS",
-    "aliases": [
-      "Raniery Paulino",
-      "Paulino"
-    ],
-    "camara_id": 115200
-  },
-  {
     "slug": "reginaldo-lopes",
     "name": "Reginaldo Lopes",
     "role": "Deputado(a) Federal (MG)",
@@ -5464,6 +5453,17 @@
       "Welter"
     ],
     "camara_id": 224333
+  },
+  {
+    "slug": "wilson-santiago",
+    "name": "Wilson Santiago",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Wilson Santiago",
+      "Santiago"
+    ],
+    "camara_id": 74044
   },
   {
     "slug": "yandra-moura",
