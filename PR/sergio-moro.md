@@ -101,3 +101,6 @@
 - **[2026-09-30 18:12 UTC]** Eleições 2026 no Paraná: Sergio Moro se encontra com lideranças em Almirante Tamandaré, na Região Metropolitana de Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-no-parana-sergio-moro-se-encontra-com-liderancas-em-almirante-tamandare.ghtml)_
 
+- **[2026-10-01 00:46 UTC]** Qual é o número de Sergio Moro (PL) para o governo do Paraná?
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-sergio-moro-pl-para-o-governo-do-parana.ghtml)_
+
