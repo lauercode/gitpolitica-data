@@ -14,3 +14,6 @@
 - **[2026-09-23 23:05 UTC]** Quaest: Professora Dorinha lidera disputa ao governo do Tocantins
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/quaest-professora-dorinha-lidera-com-42percent-na-disputa-ao-governo-do-tocantins.ghtml)_
 
+- **[2026-10-01 12:08 UTC]** Qual é o número de Professora Dorinha (União) para o governo do Tocantins?
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-professora-dorinha-uniao-para-o-governo-do-tocantins.ghtml)_
+
