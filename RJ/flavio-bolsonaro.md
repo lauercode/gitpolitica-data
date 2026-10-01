@@ -3098,3 +3098,6 @@
 - **[2026-10-01 02:45 UTC]** O que o TSE decidiu sobre os posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-01 17:17 UTC]** Bolsonaro pede nova revisão no STF para suspender pena e cita fala de Moraes sobre caso Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/01/bolsonaro-pede-nova-reviso-no-stf-para-suspender-pena-e-cita-fala-de-moraes-sobre-caso-master.ghtml)_
+
