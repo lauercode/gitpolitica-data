@@ -104,3 +104,6 @@
 - **[2026-10-01 00:46 UTC]** Qual é o número de Sergio Moro (PL) para o governo do Paraná?
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-sergio-moro-pl-para-o-governo-do-parana.ghtml)_
 
+- **[2026-10-01 14:24 UTC]** Eleições 2026 no Paraná: Sergio Moro concede entrevistas e vai às ruas com apoiadores na Região Metropolitana de Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/01/eleicoes-2026-no-parana-agenda-sergio-moro-1-outubro.ghtml)_
+
