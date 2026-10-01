@@ -44,3 +44,6 @@
 - **[2026-09-28 22:58 UTC]** Eleições 2026: Valmir de Francisquinho diz que vai priorizar novo hospital na Grande Aracaju e fomento ao empresariado
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-valmir-de-francisquinho-diz-que-vai-priorizar-novo-hospital-na-grande-aracaju-e-fomento-ao-empresariado.ghtml)_
 
+- **[2026-10-01 01:28 UTC]** Qual é o número de Valmir de Francisquinho (Republicanos) para o governo de Sergipe?
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-valmir-de-francisquinho-republicanos-para-o-governo-de-sergipe.ghtml)_
+
