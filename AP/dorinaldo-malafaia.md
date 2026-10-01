@@ -17,3 +17,6 @@
 - **[2026-09-14 20:44 UTC]** Malafaia acusa Fachin de atuar contra Mendonça no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/malafaia-acusa-fachin-de-atuar-contra-mendonca-no-stf.shtml)_
 
+- **[2026-10-01 13:55 UTC]** Malafaia perde recurso e é condenado em R$ 25 mil por dizer que Felipe Neto 'perverte crianças'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/malafaia-perde-recurso-e-e-condenado-em-r-25-mil-por-dizer-que-felipe-neto-perverte-criancas.shtml)_
+
