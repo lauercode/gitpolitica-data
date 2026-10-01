@@ -2978,3 +2978,6 @@
 - **[2026-09-30 19:02 UTC]** Rivais na política, Lula e Flávio Bolsonaro fazem escolhas estéticas semelhantes na propaganda da TV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/criticos-veem-novela-faroeste-e-cinema-de-guerra-na-propaganda-eleitoral-de-presidenciaveis.shtml)_
 
+- **[2026-09-30 17:38 UTC]** Justiça proíbe funcionário do Planalto de postar sobre eleições a pedido de Flávio após caso Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/justica-proibe-funcionario-do-planalto-de-postar-sobre-eleicoes-a-pedido-de-flavio-apos-caso-nossa-senhora.shtml)_
+
