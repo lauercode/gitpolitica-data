@@ -11,3 +11,6 @@
 - **[2026-09-27 00:05 UTC]** Eleições 2026: Cabo Daciolo promete investir R$ 2 bilhões no agro e gerar 75 mil empregos no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/26/eleicoes-2026-cabo-daciolo-promete-investir-r-2-bilhoes-no-agro-e-gerar-75-mil-empregos-no-amazonas.ghtml)_
 
+- **[2026-10-01 00:50 UTC]** Qual é o número de Cabo Daciolo (Mobiliza) para o governo do Amazonas?
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-cabo-daciolo-mobiliza-para-o-governo-do-amazonas.ghtml)_
+
