@@ -77,3 +77,6 @@
 - **[2026-09-29 11:39 UTC]** Espanha, Portugal e Luxemburgo pressionam União Europeia por meta de energia renovável para 2040
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/09/espanha-portugal-e-luxemburgo-pressionam-uniao-europeia-por-meta-de-energia-renovavel-para-2040.shtml)_
 
+- **[2026-09-30 19:43 UTC]** Enquanto Espanha bloqueia despejos, Portugal avança com projeto para acelerá-los
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/enquanto-espanha-bloqueia-despejos-portugal-avanca-com-projeto-para-acelera-los.shtml)_
+
