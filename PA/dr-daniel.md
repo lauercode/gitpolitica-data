@@ -41,3 +41,6 @@
 - **[2026-09-28 20:05 UTC]** Nova pesquisa Quaest no Pará avalia disputa entre Hana Ghassan e Dr. Daniel
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-quaest-no-para-avalia-disputa-entre-hana-ghassan-e-dr-daniel.ghtml)_
 
+- **[2026-10-01 15:00 UTC]** Qual é o número de Dr. Daniel (Pode) para o governo do Pará?
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-dr-daniel-pode-para-o-governo-do-para.ghtml)_
+
