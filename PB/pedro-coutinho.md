@@ -26,3 +26,6 @@
 - **[2026-09-30 03:13 UTC]** Pedro Coutinho, candidato do DC, desiste da disputa pelo governo da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/pedro-coutinho-candidato-do-dc-desiste-da-disputa-pelo-governo-da-paraiba.ghtml)_
 
+- **[2026-09-30 22:01 UTC]** Qual é o número de Pedro Coutinho (DC) para o governo da Paraíba?
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-pedro-coutinho-dc-para-o-governo-da-paraiba.ghtml)_
+
