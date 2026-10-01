@@ -47,3 +47,6 @@
 - **[2026-09-30 23:22 UTC]** Orleans Brandão propõe ampliar programas de transferência de renda e segurança alimentar no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/30/orleans-brandao-propoe-ampliar-programas-de-transferencia-de-renda-e-seguranca-alimentar-no-ma.ghtml)_
 
+- **[2026-10-01 12:43 UTC]** Qual é o número de Orleans Brandão (MDB) para o governo do Maranhão?
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-orleans-brandao-mdb-para-o-governo-do-maranhao.ghtml)_
+
