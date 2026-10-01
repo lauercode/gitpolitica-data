@@ -32,3 +32,6 @@
 - **[2026-09-26 23:04 UTC]** Reginaldo Lima defende ampliar políticas de proteção para mulheres no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/26/reginaldo-lima-defende-ampliar-politicas-de-protecao-para-mulheres-no-maranhao.ghtml)_
 
+- **[2026-10-01 12:43 UTC]** Qual é o número de Reginaldo Lima (PCB) para o governo do Maranhão?
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-reginaldo-lima-pcb-para-o-governo-do-maranhao.ghtml)_
+
