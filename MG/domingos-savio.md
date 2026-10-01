@@ -29,3 +29,6 @@
 - **[2026-09-29 20:05 UTC]** Quaest para o Senado em MG: Sávio, 14%; Marília, 13%; Viana, 12%; Aécio, 12%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/quaest-mg-senado-29-setembro.ghtml)_
 
+- **[2026-10-01 17:24 UTC]** Datafolha: Marília Campos tem 13% para o Senado em MG; Viana e Aécio, 11% cada; Sávio, 9%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-marilia-campos-tem-13-para-o-senado-em-mg-viana-e-aecio-11-cada.shtml)_
+
