@@ -17,3 +17,6 @@
 - **[2026-09-28 23:00 UTC]** Carlos Bolsonaro faz campanha em SC sem ir a debates e vincula promessas a vitória de irmão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carlos-bolsonaro-faz-campanha-em-sc-sem-ir-a-debates-e-vincula-promessas-a-vitoria-de-irmao.shtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Carlos Bolsonaro (PL) para o Senado em Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-carlos-bolsonaro-pl-para-o-senado-em-santa-catarina.ghtml)_
+
