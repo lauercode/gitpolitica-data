@@ -83,3 +83,6 @@
 - **[2026-09-28 20:11 UTC]** Nova pesquisa Quaest em SC pode mostrar se Jorginho Mello já garante vitória no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-quaest-em-sc-pode-mostrar-se-jorginho-mello-ja-garante-vitoria-no-primeiro-turno.ghtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Jorginho Mello (PL) para o governo de Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-jorginho-mello-pl-para-o-governo-de-santa-catarina.ghtml)_
+
