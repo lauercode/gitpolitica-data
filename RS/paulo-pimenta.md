@@ -56,3 +56,6 @@
 - **[2026-10-01 03:05 UTC]** Qual é o número de Pimenta (PT) para o Senado no Rio Grande do Sul?
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-pimenta-pt-para-o-senado-no-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-01 23:00 UTC]** Com apoio da Sicoob Credip, alunos de Pimenta Bueno se destacam na ONHB
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credip/sicoob-credip/noticia/2026/10/01/com-apoio-da-sicoob-credip-alunos-de-pimenta-bueno-se-destacam-na-onhb.ghtml)_
+
