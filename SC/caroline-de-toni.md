@@ -11,3 +11,6 @@
 - **[2026-09-25 23:00 UTC]** Biografias de Toni Morrison e Frank Miller vão sair no Brasil em novembro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/09/biografias-de-toni-morrison-e-frank-miller-vao-sair-no-brasil-em-novembro.shtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Carol de Toni (PL) para o Senado em Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-carol-de-toni-pl-para-o-senado-em-santa-catarina.ghtml)_
+
