@@ -2990,3 +2990,6 @@
 - **[2026-09-30 22:43 UTC]** Flávio Bolsonaro confirma participação em debate da TV Globo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/30/flavio-bolsonaro-confirma-participacao-em-debate-da-tv-globo.ghtml)_
 
+- **[2026-09-30 12:34 UTC]** TSE decide derrubar posts falsos que relacionam Flávio Bolsonaro a caso Nossa Senhora Aparecida
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/mendonca-vota-para-confirmar-decisao-que-tirou-do-ar-posts-sobre-nossa-senhora-aparecida.ghtml)_
+
