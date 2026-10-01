@@ -3053,3 +3053,6 @@
 - **[2026-10-01 18:41 UTC]** Fachin rejeita pedido para afastar Dino de processos relacionados a Flávio, Lula e eleições 2026
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/01/fachin-rejeita-pedido-para-afastar-dino-de-processos-relacionados-a-flavio-lula-e-eleicoes-2026.ghtml)_
 
+- **[2026-10-01 18:26 UTC]** No último dia de campanha na TV, Lula usa religião e bets contra Flávio Bolsonaro; candidato do PL fala em mudar 'velho sistema'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/ultimo-dia-horario-eleitoral-lula-flavio.ghtml)_
+
