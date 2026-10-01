@@ -511,3 +511,6 @@ direcionado às necessidades de cada pessoa
 direcionado às necessidades de cada pessoa
   _fonte: [G1 - Regiões: Bahia](https://g1.globo.com/bahia/especial-publicitario/hospital-santa-izabel/noticia/2017/07/hospital-santa-izabel-oferece-cuidado-direcionado-necessidades-de-cada-pessoa.html)_
 
+- **[2026-10-01 06:58 UTC]** Viva Maria: Conheça direitos garantidos pelo Estatuto da Pessoa Idosa
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/viva-maria-estatuto-da-pessoa-idosa)_
+
