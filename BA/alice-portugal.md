@@ -83,3 +83,6 @@
 - **[2026-09-30 20:38 UTC]** Parlamento de Portugal aprova acelerar despejos e acabar com limites aos aluguéis
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/30/parlamento-de-portugal-aprova-acelerar-despejos-e-acabar-com-limites-aos-aluguis.ghtml)_
 
+- **[2026-09-30 21:53 UTC]** Cristiano Ronaldo deixa seleção de Portugal após fala de Jorge Jesus
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/cristiano-ronaldo-deixa-selecao-de-portugal-apos-fala-de-jorge-jesus)_
+
