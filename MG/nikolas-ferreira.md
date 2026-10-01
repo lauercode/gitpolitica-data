@@ -41,3 +41,6 @@
 - **[2026-09-30 17:33 UTC]** TSE manda Nikolas Ferreira apagar publicação que associa fala de Lula a conteúdo sexual envolvendo crianças
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/tse-manda-nikolas-ferreira-apagar-publicacao-que-associa-fala-de-lula-a-conteudo-sexual-envolvendo-criancas.ghtml)_
 
+- **[2026-09-30 20:56 UTC]** TSE manda Nikolas Ferreira apagar vídeo que distorce fala de Lula
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/tse-manda-nikolas-ferreira-apagar-video-que-distorce-fala-de-lula)_
+
