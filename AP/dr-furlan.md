@@ -128,3 +128,6 @@
 - **[2026-09-28 22:03 UTC]** Dr. Furlan participa de bandeirada e visitas em Macapá e Santana
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/28/dr-furlan-participa-de-bandeirada-e-visitas-em-macapa-e-santana.ghtml)_
 
+- **[2026-09-30 22:49 UTC]** Qual é o número de Dr. Furlan (PSD) para o governo do Amapá?
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-furlan-psd-para-o-governo-do-amapa.ghtml)_
+
