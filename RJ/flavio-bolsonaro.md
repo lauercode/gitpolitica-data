@@ -3155,3 +3155,6 @@
 - **[2026-10-01 22:08 UTC]** Datafolha: Lula tem 48% e Flávio Bolsonaro, 45% no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/datafolha-lula-tem-48percent-e-flavio-bolsonaro-45percentpercent-no-primeiro-turno.ghtml)_
 
+- **[2026-10-01 19:12 UTC]** Fachin rejeita pedido de Flávio para afastar Dino de casos ligados a eleições
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/fachin-rejeita-pedido-de-flavio-para-afastar-dino-de-casos-ligados-a-eleicoes.ghtml)_
+
