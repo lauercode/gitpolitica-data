@@ -2987,3 +2987,6 @@
 - **[2026-09-30 22:24 UTC]** TSE tem três votos por proibição ampla de posts que ligam Flávio Bolsonaro a Nossa Senhora e dois por restrições mais brandas; siga julgamento
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-09-30 22:43 UTC]** Flávio Bolsonaro confirma participação em debate da TV Globo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/30/flavio-bolsonaro-confirma-participacao-em-debate-da-tv-globo.ghtml)_
+
