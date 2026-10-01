@@ -38,3 +38,6 @@
 - **[2026-09-30 21:52 UTC]** Qual é o número de Álvaro Dias (PL) para o governo do Rio Grande do Norte?
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-alvaro-dias-pl-para-o-governo-do-rio-grande-do-norte.ghtml)_
 
+- **[2026-09-30 20:30 UTC]** Álvaro Dias reforça promessa de ampliar hospitais Walfredo Gurgel e Tarcísio Maia
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/alvaro-dias-reforca-promessa-de-ampliar-hospitais-walfredo-gurgel-e-tarcisio-maia.ghtml)_
+
