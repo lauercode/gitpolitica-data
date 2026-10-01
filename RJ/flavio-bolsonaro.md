@@ -3089,3 +3089,6 @@
 - **[2026-10-01 08:50 UTC]** Católicos mais com Lula, evangélicos mais com Flávio: o que as pesquisas mostram sobre a batalha do voto e as religiões
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmx2z70jq94wo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-01 16:17 UTC]** Debate da Globo sem Lula: o que pode ajudar ou prejudicar Flávio Bolsonaro?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6lyr7002jx4o?at_medium=RSS&at_campaign=rss)_
+
