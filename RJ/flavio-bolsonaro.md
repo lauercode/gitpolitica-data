@@ -3104,3 +3104,6 @@
 - **[2026-10-01 20:09 UTC]** Fachin rejeita afastar Dino de processos contra Flávio Bolsonaro
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/fachin-rejeita-afastamento-de-dino-de-processos-cotra-flavio-bolsonaro)_
 
+- **[2026-10-01 22:37 UTC]** TSE proíbe cadeira vazia de Lula; Flávio diz que não vai ao debate da Globo; STF decide incluir Renan
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/flavio-bolsonaro-diz-que-nao-ira-ao-debate-da-globo-nesta-quinta.ghtml)_
+
