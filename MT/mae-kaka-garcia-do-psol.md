@@ -50,3 +50,6 @@
 - **[2026-09-30 22:00 UTC]** Qual é o número de Iran Barbosa (PSOL) para o Senado em Sergipe?
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-iran-barbosa-psol-para-o-senado-em-sergipe.ghtml)_
 
+- **[2026-10-01 00:50 UTC]** Qual é o número de Professora Evany (PSOL) para o Senado no Amazonas?
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-professora-evany-psol-para-o-senado-no-amazonas.ghtml)_
+
