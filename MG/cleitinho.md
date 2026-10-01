@@ -110,3 +110,6 @@
 - **[2026-09-30 02:20 UTC]** Cleitinho e Patrus viram alvo no debate em Minas Gerais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cleitinho-e-patrus-viram-alvo-no-debate-em-minas-gerais.shtml)_
 
+- **[2026-10-01 17:12 UTC]** Datafolha: Cleitinho lidera com 49% dos votos válidos em MG ante 20% de Patrus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-cletinho-lidera-com-49-dos-votos-validos-em-mg-ante-20-de-patrus.shtml)_
+
