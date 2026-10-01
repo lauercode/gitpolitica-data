@@ -38,3 +38,6 @@
 - **[2026-09-28 21:18 UTC]** Deputado do PL no Rio ameaça sacar arma contra militantes do PSOL
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/deputado-do-pl-no-rio-ameaca-sacar-arma-contra-militantes-do-psol.shtml)_
 
+- **[2026-09-30 21:53 UTC]** Qual é o número de Professor Roberio Paulino (PSOL) para o governo do Rio Grande do Norte?
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-professor-roberio-paulino-psol-para-o-governo-do-rio-grande-do-norte.ghtml)_
+
