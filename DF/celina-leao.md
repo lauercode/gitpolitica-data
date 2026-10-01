@@ -71,3 +71,6 @@
 - **[2026-09-30 13:30 UTC]** Celina Leão falta a debate no DF e vira alvo de acusações sobre BRB e relação com Ibaneis
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/distrito-federal/celina-leao-falta-a-debate-no-df-e-vira-alvo-de-acusacoes-sobre-brb-e-relacao-com-ibaneis/)_
 
+- **[2026-10-01 20:07 UTC]** Datafolha no DF: 32% avaliam gestão Celina Leão como positiva e 29%, como negativa
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/01/datafolha-df-avaliacao-governo-celina-1-outubro.ghtml)_
+
