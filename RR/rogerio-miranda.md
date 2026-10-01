@@ -11,3 +11,6 @@
 - **[2026-09-07 22:07 UTC]** Candidato ao Senado, Rogério Miranda critica classe política de Roraima: 'pessoas fracas'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-rogerio-miranda-critica-classe-politica-de-roraima-pessoas-fracas.ghtml)_
 
+- **[2026-10-01 13:05 UTC]** Qual é o número de Rogério Miranda (DC) para o Senado em Roraima?
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-rogerio-miranda-dc-para-o-senado-em-roraima.ghtml)_
+
