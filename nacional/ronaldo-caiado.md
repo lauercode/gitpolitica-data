@@ -80,3 +80,6 @@
 - **[2026-09-29 17:00 UTC]** Qual é o número de Ronaldo Caiado, candidato do PSD à Presidência da República
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/qual-e-o-numero-de-ronaldo-caiado-candidato-do-psd-a-presidencia-da-republica.ghtml)_
 
+- **[2026-10-01 15:23 UTC]** Quem é Ronaldo Caiado, o candidato do agronegócio que promete criar uma lei de terrorismo doméstico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-ronaldo-caiado-o-candidato-do-agronegocio-que-promete-criar-uma-lei-de-terrorismo-domestico.shtml)_
+
