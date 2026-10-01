@@ -11,3 +11,6 @@
 - **[2026-09-24 22:13 UTC]** Quaest para o Senado em SC: Carol De Toni, 17%; Carlos Bolsonaro, 16%; Esperidião Amin, 15%; Décio Lima, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-senado-24-setembro.ghtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Esperidião Amin (PP) para o Senado em Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-esperidiao-amin-pp-para-o-senado-em-santa-catarina.ghtml)_
+
