@@ -233,3 +233,6 @@
 - **[2026-09-29 02:51 UTC]** Eleições 2026: Roberto Cidade promete ampliar apoio para pessoas com TEA
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-roberto-cidade-promete-ampliar-apoio-para-pessoas-com-tea.ghtml)_
 
+- **[2026-10-01 00:51 UTC]** Qual é o número de Roberto Cidade (União) para o governo do Amazonas?
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-roberto-cidade-uniao-para-o-governo-do-amazonas.ghtml)_
+
