@@ -14,3 +14,6 @@
 - **[2026-09-24 16:28 UTC]** Quaest no Paraná para o Senado: Alexandre Curi, 14%; Deltan Dallagnol, 11%; Filipe Barros, 11%; e Gleisi, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/24/quaest-parana-senador-24-setembro.ghtml)_
 
+- **[2026-10-01 01:45 UTC]** Qual é o número de Filipe Barros (PL) para o Senado no Paraná?
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-filipe-barros-pl-para-o-senado-no-parana.ghtml)_
+
