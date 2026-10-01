@@ -374,3 +374,6 @@
 - **[2026-10-01 11:48 UTC]** Kassio nega pedido de Renan Santos para ir a debate da Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-nega-pedido-de-renan-santos-para-ir-a-debate-da-globo.shtml)_
 
+- **[2026-10-01 14:11 UTC]** Nunes Marques nega pedido de Renan Santos para participar de debate da Globo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-nega-pedido-renan-santos-participar-debate-globo/)_
+
