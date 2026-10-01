@@ -86,3 +86,6 @@
 - **[2026-09-30 19:09 UTC]** Rodrigo Pacheco toma posse como ministro do TCU nesta quarta-feira
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/09/30/rodrigo-pacheco-toma-posse-como-ministro-do-tcu-nesta-quarta-feira.ghtml)_
 
+- **[2026-09-30 20:22 UTC]** Aliado de Alcolumbre, Rodrigo Pacheco toma posse como ministro do TCU
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/aliado-de-alcolumbre-rodrigo-pacheco-toma-posse-como-ministro-do-tcu.ghtml)_
+
