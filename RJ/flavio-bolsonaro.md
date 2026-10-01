@@ -3146,3 +3146,6 @@
 - **[2026-10-01 23:18 UTC]** Flávio Bolsonaro desiste de ir ao debate da Rede Globo, e Gilmar Mendes determina ida de Renan Santos; acompanhe a cobertura
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c9rk3kjvgy35t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-01 20:35 UTC]** Candidato do PSD ao governo de SC pede voto para Flávio Bolsonaro e diz que Caiado não teve 'viabilidade eleitoral'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/candidato-psd-governo-sc-pede-voto-flavio-bolsonaro-caiado.ghtml)_
+
