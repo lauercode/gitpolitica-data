@@ -3113,3 +3113,6 @@
 - **[2026-10-01 22:05 UTC]** Datafolha, 2º turno: Lula, 48%; Flávio Bolsonaro, 45%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/01/datafolha-presidente-segundo-turno-1-outubro.ghtml)_
 
+- **[2026-10-01 22:05 UTC]** Datafolha: Lula, 42%; Flávio Bolsonaro, 38%; Cury, 4%; Caiado, 3%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/01/datafolha-presidente-1-outubro.ghtml)_
+
