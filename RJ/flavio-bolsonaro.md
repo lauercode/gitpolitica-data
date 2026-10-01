@@ -3086,3 +3086,6 @@
 - **[2026-10-01 14:45 UTC]** O que Lula e aliados disseram quando Bolsonaro faltou ao debate
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/o-que-lula-e-aliados-disseram-quando-bolsonaro-faltou-a-debate/)_
 
+- **[2026-10-01 08:50 UTC]** Católicos mais com Lula, evangélicos mais com Flávio: o que as pesquisas mostram sobre a batalha do voto e as religiões
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmx2z70jq94wo?at_medium=RSS&at_campaign=rss)_
+
