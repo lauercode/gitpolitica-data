@@ -50,3 +50,6 @@
 - **[2026-09-30 03:10 UTC]** Tarcísio e Haddad nacionalizam debate em SP com ataques sobre infiltração do PCC e CV, saúde e governos Lula e Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/30/tarcisio-e-haddad-nacionalizam-debate-em-sp-com-ataques-sobre-infiltracao-do-pcc-e-cv-saude-e-governos-lula-e-bolsonaro.ghtml)_
 
+- **[2026-09-30 19:21 UTC]** Personagem do debate em SP, 'Selo Ouro' do MEC foi criado por governo Lula em 2024
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/personagem-do-debate-em-sp-selo-ouro-do-mec-foi-criado-por-governo-lula-em-2024.shtml)_
+
