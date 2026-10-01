@@ -2996,3 +2996,6 @@
 - **[2026-09-30 23:00 UTC]** Lula tenta conter abstenção, e Flávio Bolsonaro foca voto útil na reta final da campanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-conter-abstencao-e-flavio-bolsonaro-foca-voto-util-na-reta-final-da-campanha.shtml)_
 
+- **[2026-09-30 23:00 UTC]** STF tem precedente para manter investigação sobre Flávio Bolsonaro caso ele seja eleito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-tem-precedente-para-manter-investigacao-sobre-flavio-bolsonaro-caso-ele-seja-eleito.shtml)_
+
