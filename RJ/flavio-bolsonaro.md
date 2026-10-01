@@ -3068,3 +3068,6 @@
 - **[2026-10-01 14:56 UTC]** Empresários ligados ao grupo Rockbridge ajudaram Flávio Bolsonaro com relatórios e consultoria, dizem aliados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/empresarios-ligados-ao-grupo-rockbridge-ajudaram-flavio-bolsonaro-com-relatorios-e-consultoria-dizem-aliados.shtml)_
 
+- **[2026-10-01 13:52 UTC]** Quem é Renan Santos, o líder roqueiro do MBL que ataca Flávio e Lula e tenta ser presidente em 2026; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-renan-santos-o-lider-roqueiro-do-mbl-que-ataca-flavio-e-lula-e-tenta-ser-presidente-em-2026-veja-video.shtml)_
+
