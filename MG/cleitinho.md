@@ -113,3 +113,6 @@
 - **[2026-10-01 17:12 UTC]** Datafolha: Cleitinho lidera com 49% dos votos válidos em MG ante 20% de Patrus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-cletinho-lidera-com-49-dos-votos-validos-em-mg-ante-20-de-patrus.shtml)_
 
+- **[2026-10-01 20:49 UTC]** Datafolha: Em MG, no primeiro turno, Cleitinho tem 40%, Patrus 16% e Kalil 11%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/datafolha-em-mg-no-primeiro-turno-cleitinho-tem-40percent-patrus-16percent-e-kalil-11percent.ghtml)_
+
