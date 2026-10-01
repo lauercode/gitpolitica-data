@@ -473,3 +473,6 @@
 - **[2026-10-01 11:48 UTC]** Paulo Belém renuncia ao cargo de conselheiro na Oncoclínicas e dispara renovação no colegiado
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/01/paulo-belm-renuncia-ao-cargo-de-conselheiro-na-oncoclnicas-e-dispara-renovao-no-colegiado.ghtml)_
 
+- **[2026-10-01 16:16 UTC]** STF suspende afastamento de Paulo Curió, prefeito de Turilândia, investigado por suposto esquema de corrpução
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/01/stf-suspende-afastamento-de-paulo-curio-prefeito-de-turilandia-investigado-por-suposto-esquema-de-corrpucao.ghtml)_
+
