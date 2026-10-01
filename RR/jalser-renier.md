@@ -23,3 +23,6 @@
 - **[2026-09-25 22:43 UTC]** Jalser Renier deixa presídio após audiência de custódia em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/25/jalser-renier-e-solto-apos-audiencia-de-custodia-em-boa-vista.ghtml)_
 
+- **[2026-10-01 12:34 UTC]** Jalser Renier é preso pela PF por compra de votos pela segunda vez em uma semana Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/jalser-renier-e-preso-novamente-pela-pf-em-roraima.ghtml)_
+
