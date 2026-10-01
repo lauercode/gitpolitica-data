@@ -3029,3 +3029,6 @@
 - **[2026-10-01 13:01 UTC]** Defesa de Bolsonaro apresenta nova revisão ao STF e pede suspensão da pena
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/01/defesa-de-bolsonaro-apresenta-nova-revisao-ao-stf-e-pede-suspensao-da-pena.ghtml)_
 
+- **[2026-10-01 07:00 UTC]** Nem Nossa Senhora nem Jesus; Flávio e a manipulação eleitoral da fé
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/nem-nossa-senhora-nem-jesus-flavio-e-a-manipulacao-eleitoral-da-fe.shtml)_
+
