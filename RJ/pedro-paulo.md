@@ -470,3 +470,6 @@
 - **[2026-10-01 13:27 UTC]** Sindicato de cimenteiras comunica morte de presidente, Paulo Camillo Penna
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/01/sindicato-de-cimenteiras-comunica-morte-de-presidente-paulo-camillo-penna.ghtml)_
 
+- **[2026-10-01 11:48 UTC]** Paulo Belém renuncia ao cargo de conselheiro na Oncoclínicas e dispara renovação no colegiado
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/01/paulo-belm-renuncia-ao-cargo-de-conselheiro-na-oncoclnicas-e-dispara-renovao-no-colegiado.ghtml)_
+
