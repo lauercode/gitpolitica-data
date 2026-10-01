@@ -377,3 +377,6 @@
 - **[2026-10-01 14:11 UTC]** Nunes Marques nega pedido de Renan Santos para participar de debate da Globo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-nega-pedido-renan-santos-participar-debate-globo/)_
 
+- **[2026-10-01 16:24 UTC]** Nunes Marques nega pedido para Renan Santos participar de debate e Cármen rejeita ação no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/nunes-marques-nega-pedido-para-renan-santos-participar-de-debate-e-carmen-rejeita-acao-no-stf.ghtml)_
+
