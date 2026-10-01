@@ -3032,3 +3032,6 @@
 - **[2026-10-01 07:00 UTC]** Nem Nossa Senhora nem Jesus; Flávio e a manipulação eleitoral da fé
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/nem-nossa-senhora-nem-jesus-flavio-e-a-manipulacao-eleitoral-da-fe.shtml)_
 
+- **[2026-10-01 12:57 UTC]** Defesa de Bolsonaro pede suspensão da pena de prisão; Nunes Marques será relator
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-bolsonaro-retoma-pedido-suspender-pena-prisao/)_
+
