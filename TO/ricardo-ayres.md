@@ -38,3 +38,6 @@
 - **[2026-09-30 17:28 UTC]** TRE-SE homologa renúncia de vice e declara impossibilidade de manutenção da candidatura de Ricardo Marques ao governo
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/tre-ricardo-marques-sergipe.ghtml)_
 
+- **[2026-10-01 01:55 UTC]** Qual é o número de Ricardo Marques (PL) para o governo de Sergipe?
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-ricardo-marques-pl-para-o-governo-de-sergipe.ghtml)_
+
