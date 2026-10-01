@@ -68,3 +68,6 @@
 - **[2026-09-30 18:25 UTC]** Campanha de Cícero Lucena aciona Justiça e denuncia suposta compra de votos por meio de plataforma na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/campanha-de-cicero-lucena-aciona-justica-e-denuncia-plataforma-de-compra-de-votos-na-pb.ghtml)_
 
+- **[2026-09-30 22:34 UTC]** Cícero Lucena defende pagamento de bolsas para estudantes com monitoria na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/cicero-lucena-defende-pagamento-de-bolsas-para-estudantes-com-monitoria-na-paraiba.ghtml)_
+
