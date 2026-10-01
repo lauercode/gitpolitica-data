@@ -59,3 +59,6 @@
 - **[2026-09-29 20:05 UTC]** Quaest para o Senado em SP: Derrite, 18%; Tebet, 15%; Marina, 15% e André do Prado, 12%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/quaest-sp-senado-29-setembro.ghtml)_
 
+- **[2026-10-01 20:05 UTC]** Datafolha para o Senado em SP: Marina, 16%; André do Prado, 15%, Tebet, 15% e Derrite, 14%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/datafolha-para-o-senado-em-sp-marina-16percent-andre-do-prado-15percent-tebet-15percent-e-derrite-14percent.ghtml)_
+
