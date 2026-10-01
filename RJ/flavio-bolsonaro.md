@@ -3026,3 +3026,6 @@
 - **[2026-10-01 08:00 UTC]** TSE limita o alcance de decisão de Mendonça sobre Flávio e Padroeira
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/01/tse-limita-o-alcance-de-decisao-de-mendonca-sobre-flavio-e-padroeira.ghtml)_
 
+- **[2026-10-01 13:01 UTC]** Defesa de Bolsonaro apresenta nova revisão ao STF e pede suspensão da pena
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/01/defesa-de-bolsonaro-apresenta-nova-revisao-ao-stf-e-pede-suspensao-da-pena.ghtml)_
+
