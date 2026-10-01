@@ -1088,3 +1088,6 @@ direitos
 - **[2026-10-01 04:00 UTC]** Após cassações e prisões, 'petistas raiz' voltam ao jogo eleitoral em busca de vaga na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apos-cassacoes-e-prisoes-petistas-raiz-voltam-ao-jogo-eleitoral-em-busca-de-vaga-na-camara.shtml)_
 
+- **[2026-10-01 16:28 UTC]** Beto Castro é eleito presidente da Câmara de São Luís com 21 votos
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/01/beto-castro-e-eleito-presidente-da-camara-de-sao-luis-com-21-votos.ghtml)_
+
