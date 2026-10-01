@@ -3083,3 +3083,6 @@
 - **[2026-10-01 19:09 UTC]** Fachin rejeita pedido de Flávio para afastar Dino de processos sobre ele, Lula e eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-rejeita-pedido-flavio-afastar-dino-processos/)_
 
+- **[2026-10-01 14:45 UTC]** O que Lula e aliados disseram quando Bolsonaro faltou ao debate
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/o-que-lula-e-aliados-disseram-quando-bolsonaro-faltou-a-debate/)_
+
