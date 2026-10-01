@@ -128,3 +128,6 @@
 - **[2026-09-30 18:10 UTC]** Eleições 2026 no Paraná: Sandro Alex participa de carreatas e se reúne com representantes da segurança pública
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-no-parana-sandro-alex-participa-de-carreatas-e-se-reune-com-representantes-da-seguranca-publica.ghtml)_
 
+- **[2026-10-01 00:46 UTC]** Qual é o número de Sandro Alex (PSD) para o governo do Paraná?
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-sandro-alex-psd-para-o-governo-do-parana.ghtml)_
+
