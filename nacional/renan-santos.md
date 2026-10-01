@@ -383,3 +383,6 @@
 - **[2026-10-01 19:31 UTC]** Renan Santos defende intervenção federal na segurança do estado do Rio de Janeiro
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/01/renan-santos-seguranca-rj.ghtml)_
 
+- **[2026-10-01 19:37 UTC]** Leia íntegra da determinação de Gilmar Mendes para que TV Globo inclua Renan Santos no debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/gilmar-determina-participacao-de-renan-santos-em-debate-da-tv-globo.shtml)_
+
