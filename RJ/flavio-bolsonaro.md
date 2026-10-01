@@ -3011,3 +3011,6 @@
 - **[2026-10-01 02:51 UTC]** TSE tem maioria para remover fake news sobre Flávio e Nossa Senhora, mas ministros divergem quanto ao alcance
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-e-toffoli-seguem-mendonca-cueva-diverge-posts-nossa-senhora-aparecida/)_
 
+- **[2026-10-01 02:45 UTC]** TSE proíbe posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida; Mendonça suaviza voto sobre publicação de Antonio Tabet
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
+
