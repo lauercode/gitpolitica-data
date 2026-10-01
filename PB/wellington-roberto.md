@@ -77,3 +77,6 @@
 - **[2026-09-13 23:00 UTC]** 'Avenida Brasil 2' terá Karine Teles e Roberto Bomfim no elenco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/avenida-brasil-2-tera-karine-teles-e-roberto-bomfim-no-elenco.shtml)_
 
+- **[2026-10-01 00:15 UTC]** Roberto Campos Neto convidou Vorcaro para sua casa enquanto era presidente do BC
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/30/roberto-campos-neto-convidou-vorcaro-para-sua-casa-enquanto-era-presidente-do-bc.ghtml)_
+
