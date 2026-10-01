@@ -44,3 +44,6 @@
 - **[2026-10-01 23:10 UTC]** Após ter candidatura inviabilizada, Ricardo Marques, do PL, declara apoio a Valmir de Francisquinho, do Republicanos, na disputa pelo governo de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/01/ricardo-marques-do-pl-declara-apoio-a-valmir-de-francisquinho-do-republicanos-governo-de-sergipe.ghtml)_
 
+- **[2026-10-01 18:56 UTC]** TSE oficializa nome de Ricardo Marques do PL como 'inapto' para concorrer ao governo de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/01/tse-ricardo-marques-governo-de-sergipe.ghtml)_
+
