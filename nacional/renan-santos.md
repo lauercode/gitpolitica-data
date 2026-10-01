@@ -365,3 +365,6 @@
 - **[2026-09-29 12:30 UTC]** Justiça confirma dívidas de Renan Santos e frustra tentativa de sigilo sobre cobranças de impostos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/justica-confirma-dividas-de-renan-santos-e-frustra-tentativa-de-sigilo-sobre-cobrancas-de-impostos.shtml)_
 
+- **[2026-09-30 18:28 UTC]** Missão aciona Justiça Eleitoral para incluir Renan Santos em debate da Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/missao-aciona-justica-eleitoral-para-incluir-renan-santos-em-debate-da-globo.shtml)_
+
