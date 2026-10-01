@@ -23,3 +23,6 @@
 - **[2026-09-24 22:08 UTC]** Quaest em SC: Jorginho Mello, 54%; João Rodrigues, 13%; Gelson Merísio, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/24/quaest-santa-catarina-governador-24-setembro.ghtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Gelson Merísio (PSB) para o governo de Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-gelson-merisio-psb-para-o-governo-de-santa-catarina.ghtml)_
+
