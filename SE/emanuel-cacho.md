@@ -20,3 +20,6 @@
 - **[2026-09-22 22:49 UTC]** Eleições 2026: Emanuel Cacho diz que pretende zerar filas de cirurgia e construir hospitais
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-emanuel-cacho-diz-que-pretende-zerar-filas-de-cirurgia-e-construir-hospitais.ghtml)_
 
+- **[2026-10-01 01:27 UTC]** Qual é o número de Emanuel Cacho (PSDB) para o governo de Sergipe?
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-emanuel-cacho-psdb-para-o-governo-de-sergipe.ghtml)_
+
