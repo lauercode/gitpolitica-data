@@ -95,3 +95,6 @@
 - **[2026-10-01 01:02 UTC]** Veja o que é #FATO ou #FAKE no debate da Globo com candidatos ao Governo do Distrito Federal
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/30/veja-o-que-e-fato-ou-fake-no-debate-da-globo-com-candidatos-ao-governo-do-distrito-federal.ghtml)_
 
+- **[2026-10-01 00:39 UTC]** Veja o que é #FATO ou #FAKE no debate da Globo com candidatos ao Governo de Minas Gerais
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/30/veja-o-que-e-fato-ou-fake-no-debate-da-globo-com-candidatos-ao-governo-de-minas-gerais.ghtml)_
+
