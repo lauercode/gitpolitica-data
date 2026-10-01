@@ -14,3 +14,6 @@
 - **[2026-09-26 11:35 UTC]** STF condena Eduardo Bolsonaro por difamar deputada Tábata Amaral
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-condena-eduardo-bolsonaro-por-difamar-deputada-tabata-amaral)_
 
+- **[2026-10-01 17:09 UTC]** Tabata Amaral distribui santinhos sem Lula, Alckmin, Tebet e Haddad
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tabata-amaral-distribui-santinhos-sem-lula-alckmin-tebet-e-haddad.shtml)_
+
