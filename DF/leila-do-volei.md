@@ -11,3 +11,6 @@
 - **[2026-09-24 18:18 UTC]** Datafolha: Michelle Bolsonaro (22%) e Leila do Vôlei (19%) lideram disputa ao Senado pelo DF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-michelle-bolsonaro-22-e-leila-do-volei-19-lideram-disputa-ao-senado-pelo-df.shtml)_
 
+- **[2026-10-01 17:19 UTC]** Datafolha: Michelle Bolsonaro tem 23% em disputa pelo Senado no DF; Leila do Vôlei e Bia Kicis empatam
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-michelle-bolsonaro-tem-23-ao-senado-no-df-leila-do-volei-e-bia-kicis-empatam.shtml)_
+
