@@ -11,3 +11,6 @@
 - **[2026-09-23 18:02 UTC]** TRE libera candidatura de Dimas Cassimiro ao governo do MA após nova comprovação de alfabetização
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/23/tre-libera-candidatura-de-dimas-cassimiro-ao-governo-do-ma-apos-nova-comprovacao-de-alfabetizacao.ghtml)_
 
+- **[2026-10-01 12:43 UTC]** Qual é o número de Dimas Cassimiro (PCO) para o governo do Maranhão?
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-dimas-cassimiro-pco-para-o-governo-do-maranhao.ghtml)_
+
