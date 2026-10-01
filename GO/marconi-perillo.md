@@ -29,3 +29,6 @@
 - **[2026-09-26 00:05 UTC]** Eleições 2026: Marconi Perillo fala de investir em transporte público no Entorno do DF
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-25.ghtml)_
 
+- **[2026-10-01 00:41 UTC]** Eleições 2026: Marconi Perillo promete investimento no setor agropecuário para diminuir endividamento de produtores rurais
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-marconi-perillo-promete-investimento-no-setor-agropecuario-para-diminuir-endividamento-de-produtores-rurais.ghtml)_
+
