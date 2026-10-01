@@ -47,3 +47,6 @@
 - **[2026-09-30 21:38 UTC]** Qual é o número de Sandro Pimentel (PSOL) para o Senado no Rio Grande do Norte?
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-sandro-pimentel-psol-para-o-senado-no-rio-grande-do-norte.ghtml)_
 
+- **[2026-09-30 22:00 UTC]** Qual é o número de Iran Barbosa (PSOL) para o Senado em Sergipe?
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-iran-barbosa-psol-para-o-senado-em-sergipe.ghtml)_
+
