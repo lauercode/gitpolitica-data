@@ -3071,3 +3071,6 @@
 - **[2026-10-01 13:52 UTC]** Quem é Renan Santos, o líder roqueiro do MBL que ataca Flávio e Lula e tenta ser presidente em 2026; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-renan-santos-o-lider-roqueiro-do-mbl-que-ataca-flavio-e-lula-e-tenta-ser-presidente-em-2026-veja-video.shtml)_
 
+- **[2026-10-01 13:16 UTC]** O currículo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/o-curriculo-de-flavio-bolsonaro.shtml)_
+
