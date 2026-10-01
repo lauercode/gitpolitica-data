@@ -14,3 +14,6 @@
 - **[2026-09-17 16:00 UTC]** Entrevista na NSC: Marcelo Brigadeiro prevê aumento do efetivo das polícias e detalha proposta para reduzir população em situação de rua
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/entrevista-na-nsc-marcelo-brigadeiro.ghtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Marcelo Brigadeiro (Missão) para o governo de Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-marcelo-brigadeiro-missao-para-o-governo-de-santa-catarina.ghtml)_
+
