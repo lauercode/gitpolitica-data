@@ -2981,3 +2981,6 @@
 - **[2026-09-30 17:38 UTC]** Justiça proíbe funcionário do Planalto de postar sobre eleições a pedido de Flávio após caso Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/justica-proibe-funcionario-do-planalto-de-postar-sobre-eleicoes-a-pedido-de-flavio-apos-caso-nossa-senhora.shtml)_
 
+- **[2026-09-30 21:42 UTC]** Justiça restringe redes sociais de servidor da Secom após posts sobre Flávio e Padroeira
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-restringe-redes-sociais-de-servidor-da-secom-apos-posts-sobre-flavio-e-padroeira/)_
+
