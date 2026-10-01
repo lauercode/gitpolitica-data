@@ -3059,3 +3059,6 @@
 - **[2026-10-01 16:02 UTC]** Fachin nega pedido de suspeição de Dino feito por Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fachin-nega-pedido-de-suspeicao-de-dino-feito-por-flavio-bolsonaro.shtml)_
 
+- **[2026-10-01 15:23 UTC]** Defesa de Tabet diz que ataques de aliados de Flávio são notórios e festeja decisão do TSE sobre Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/defesa-de-antonio-tabet-celebra-vitoria-no-tse-contra-censura-por-post-sobre-nossa-senhora-aparecida.shtml)_
+
