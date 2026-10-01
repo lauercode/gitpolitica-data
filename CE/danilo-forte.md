@@ -125,3 +125,6 @@
 - **[2026-09-30 19:52 UTC]** Forte incêndio atinge área de vegetação no distrito de Cacau Pirera
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/forte-incendio-atinge-area-de-vegetacao-no-distrito-de-cacau-pirera.ghtml)_
 
+- **[2026-09-30 19:52 UTC]** Forte incêndio atinge área de vegetação no distrito de Cacau Pirêra
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/forte-incendio-atinge-area-de-vegetacao-no-distrito-de-cacau-pirera.ghtml)_
+
