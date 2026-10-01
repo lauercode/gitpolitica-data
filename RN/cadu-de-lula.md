@@ -89,3 +89,6 @@
 - **[2026-09-30 20:08 UTC]** Cadu de Lula promete ampliar videomonitoramento e efetivo policial no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/cadu-de-lula-promete-ampliar-videomonitoramento-e-efetivo-policial-no-rn.ghtml)_
 
+- **[2026-09-30 21:54 UTC]** Qual é o número de Cadu de Lula (PT) para o governo do Rio Grande do Norte?
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-cadu-de-lula-pt-para-o-governo-do-rio-grande-do-norte.ghtml)_
+
