@@ -3110,3 +3110,6 @@
 - **[2026-10-01 22:31 UTC]** Datafolha: 23% apontam Flávio Bolsonaro como segunda opção de voto, e 15% citam Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/datafolha-segunda-opcao-de-voto.ghtml)_
 
+- **[2026-10-01 22:05 UTC]** Datafolha, 2º turno: Lula, 48%; Flávio Bolsonaro, 45%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/01/datafolha-presidente-segundo-turno-1-outubro.ghtml)_
+
