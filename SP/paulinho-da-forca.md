@@ -155,3 +155,6 @@
 - **[2026-09-30 15:16 UTC]** Aliado de Moraes, Paulinho da Força pede impeachment de Mendonça, Kassio e Fux
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/aliado-de-moraes-paulinho-da-forca-pede-impeachment-de-mendonca-kassio-e-fux.shtml)_
 
+- **[2026-10-01 00:47 UTC]** Paulinho da Força repete acusações de Moraes e pede impeachment de Mendonça, Fux e Kassio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/paulinho-da-forca-repete-acusacoes-de-moraes-e-pede-impeachment-de-mendonca-fux-e-kassio/)_
+
