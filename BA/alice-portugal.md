@@ -80,3 +80,6 @@
 - **[2026-09-30 19:43 UTC]** Enquanto Espanha bloqueia despejos, Portugal avança com projeto para acelerá-los
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/enquanto-espanha-bloqueia-despejos-portugal-avanca-com-projeto-para-acelera-los.shtml)_
 
+- **[2026-09-30 20:38 UTC]** Parlamento de Portugal aprova acelerar despejos e acabar com limites aos aluguéis
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/09/30/parlamento-de-portugal-aprova-acelerar-despejos-e-acabar-com-limites-aos-aluguis.ghtml)_
+
