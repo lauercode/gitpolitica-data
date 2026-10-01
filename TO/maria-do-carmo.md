@@ -56,3 +56,6 @@
 - **[2026-09-24 19:42 UTC]** Quaest: Aziz tem 29% e Maria do Carmo e Cidade estão empatados tecnicamente no Amazonas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-aziz-tem-29-e-maria-do-carmo-e-cidade-estao-empatados-tecnicamente-no-amazonas.shtml)_
 
+- **[2026-09-30 22:09 UTC]** Eleições 2026: Maria do Carmo promete ampliar delegacias especializadas no combate à violência contra a mulher
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-maria-do-carmo-promete-ampliar-delegacias-especializadas-no-combate-a-violencia-contra-a-mulher.ghtml)_
+
