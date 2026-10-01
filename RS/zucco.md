@@ -17,3 +17,6 @@
 - **[2026-09-08 22:16 UTC]** Eleições 2026 no RS: 'Precisamos fazer um pacto com as prefeituras', diz Zucco sobre educação
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-no-rs-precisamos-fazer-um-pacto-com-as-prefeituras-diz-zucco-sobre-educacao.ghtml)_
 
+- **[2026-10-01 03:05 UTC]** Qual é o número de Zucco (PL) para o governo do Rio Grande do Sul?
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-zucco-pl-para-o-governo-do-rio-grande-do-sul.ghtml)_
+
