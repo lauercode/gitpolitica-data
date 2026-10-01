@@ -3008,3 +3008,6 @@
 - **[2026-10-01 02:47 UTC]** Flávio pede a Fachin suspeição de Dino em ações sobre ele, Lula e eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-pede-a-fachin-suspeicao-de-dino-em-acoes-sobre-ele-lula-e-eleicoes/)_
 
+- **[2026-10-01 02:51 UTC]** TSE tem maioria para remover fake news sobre Flávio e Nossa Senhora, mas ministros divergem quanto ao alcance
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-e-toffoli-seguem-mendonca-cueva-diverge-posts-nossa-senhora-aparecida/)_
+
