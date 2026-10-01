@@ -389,3 +389,6 @@
 - **[2026-10-01 18:21 UTC]** Gilmar Mendes determina que TV Globo inclua Renan Santos no debate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/gilmar-mendes-deve-autorizar-que-tv-globo-inclua-renan-santos-no-debate.shtml)_
 
+- **[2026-10-01 23:18 UTC]** Flávio Bolsonaro desiste de ir ao debate da Rede Globo, e Gilmar Mendes determina ida de Renan Santos; acompanhe a cobertura
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c9rk3kjvgy35t?at_medium=RSS&at_campaign=rss)_
+
