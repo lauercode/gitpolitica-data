@@ -44,3 +44,6 @@
 - **[2026-09-30 20:56 UTC]** TSE manda Nikolas Ferreira apagar vídeo que distorce fala de Lula
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/tse-manda-nikolas-ferreira-apagar-video-que-distorce-fala-de-lula)_
 
+- **[2026-10-01 16:54 UTC]** Guilherme Cortez, do PSOL, quer ser rival de Nikolas Ferreira em Brasília
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/10/guilherme-cortez-do-psol-quer-ser-rival-de-nikolas-ferreira-em-brasilia.shtml)_
+
