@@ -3134,3 +3134,6 @@
 - **[2026-10-01 17:43 UTC]** Lula encerrará campanha na TV com ataque a Flávio Bolsonaro e investida por voto feminino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lula-encerrara-campanha-na-tv-com-ataque-a-flavio-bolsonaro-e-investida-por-voto-feminino.shtml)_
 
+- **[2026-10-01 17:07 UTC]** Eduardo Bolsonaro insinua que será chanceler de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eduardo-bolsonaro-diz-que-brasil-vai-entrar-no-escudo-das-americas-e-transferir-embaixada-para-jerusalem-em-governo-flavio.shtml)_
+
