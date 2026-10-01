@@ -3149,3 +3149,6 @@
 - **[2026-10-01 20:35 UTC]** Candidato do PSD ao governo de SC pede voto para Flávio Bolsonaro e diz que Caiado não teve 'viabilidade eleitoral'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/candidato-psd-governo-sc-pede-voto-flavio-bolsonaro-caiado.ghtml)_
 
+- **[2026-10-01 22:35 UTC]** Flávio Bolsonaro desiste de participar do debate da TV Globo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/flavio-bolsonaro-desiste-de-ir-ao-debate-da-tv-globo.ghtml)_
+
