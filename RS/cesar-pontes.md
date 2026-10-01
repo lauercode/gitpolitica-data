@@ -23,3 +23,6 @@
 - **[2026-09-25 00:52 UTC]** Eleições 2026 no RS: Cesar Pontes defende revisão do pacto federativo
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-no-rs-cesar-pontes-defende-revisao-do-pacto-federativo.ghtml)_
 
+- **[2026-10-01 03:05 UTC]** Qual é o número de Cesar Pontes (PCO) para o governo do Rio Grande do Sul?
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-cesar-pontes-pco-para-o-governo-do-rio-grande-do-sul.ghtml)_
+
