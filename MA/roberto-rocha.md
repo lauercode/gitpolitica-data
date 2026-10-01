@@ -29,3 +29,6 @@
 - **[2026-09-30 00:43 UTC]** Roberto Rocha propõe investir em infraestrutura para combater a pobreza
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/29/roberto-rocha-propoe-investir-em-infraestrutura-para-combater-a-pobreza.ghtml)_
 
+- **[2026-10-01 12:43 UTC]** Qual é o número de Roberto Rocha (PRTB) para o governo do Maranhão?
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-roberto-rocha-prtb-para-o-governo-do-maranhao.ghtml)_
+
