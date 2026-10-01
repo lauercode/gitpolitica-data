@@ -3017,3 +3017,6 @@
 - **[2026-10-01 06:00 UTC]** Flávio promete a entidade judaica visitar Israel logo no início de eventual governo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-promete-a-entidade-judaica-visitar-israel-logo-no-inicio-de-eventual-governo.shtml)_
 
+- **[2026-10-01 05:00 UTC]** Podcast analisa o que guia o voto em Lula e Flávio Bolsonaro por rejeição ou medo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-analisa-o-que-guia-o-voto-em-lula-e-flavio-bolsonaro-por-rejeicao-ou-medo.shtml)_
+
