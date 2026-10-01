@@ -23,3 +23,6 @@
 - **[2026-09-29 23:38 UTC]** Eleições 2026 no RS: Priscila Voigt defende 'frentes emergenciais de trabalho' para reconstrução
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-no-rs-priscila-voigt-defende-frentes-emergenciais-de-trabalho-para-reconstrucao.ghtml)_
 
+- **[2026-10-01 03:05 UTC]** Qual é o número de Priscila Voigt (UP) para o governo do Rio Grande do Sul?
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-priscila-voigt-up-para-o-governo-do-rio-grande-do-sul.ghtml)_
+
