@@ -3119,3 +3119,6 @@
 - **[2026-10-01 20:28 UTC]** É #FAKE que Xuxa disse 'não vote nesse homem' em campanha contra Lula; vídeo foi feito em 2022 e tinha crítica a Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/01/e-fake-que-xuxa-disse-nao-vote-nesse-homem-em-campanha-contra-lula-video-foi-feito-em-2022-e-tinha-critica-a-bolsonaro.ghtml)_
 
+- **[2026-10-01 14:04 UTC]** Lula e Flávio Bolsonaro escolhem estado de São Paulo para último ato de campanha antes do 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/lula-e-flavio-bolsonaro-ultimo-ato-de-campanha.ghtml)_
+
