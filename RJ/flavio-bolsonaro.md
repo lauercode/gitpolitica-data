@@ -3050,3 +3050,6 @@
 - **[2026-10-01 12:51 UTC]** Flávio Dino encerra caso sobre Nossa Senhora no STF
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/flavio-dino-encerra-caso-sobre-nossa-senhora-no-stf)_
 
+- **[2026-10-01 18:41 UTC]** Fachin rejeita pedido para afastar Dino de processos relacionados a Flávio, Lula e eleições 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/01/fachin-rejeita-pedido-para-afastar-dino-de-processos-relacionados-a-flavio-lula-e-eleicoes-2026.ghtml)_
+
