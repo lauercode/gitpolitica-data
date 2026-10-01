@@ -1091,3 +1091,6 @@ direitos
 - **[2026-10-01 16:28 UTC]** Beto Castro é eleito presidente da Câmara de São Luís com 21 votos
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/01/beto-castro-e-eleito-presidente-da-camara-de-sao-luis-com-21-votos.ghtml)_
 
+- **[2026-10-01 21:49 UTC]** MP pede suspensão de eleição antecipada da Câmara de Aparecida, no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/01/mp-pede-suspencao-de-eleicao-antecipada-da-camara-de-aparecida-no-sertao-da-paraiba.ghtml)_
+
