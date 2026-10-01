@@ -3107,3 +3107,6 @@
 - **[2026-10-01 22:37 UTC]** TSE proíbe cadeira vazia de Lula; Flávio diz que não vai ao debate da Globo; STF decide incluir Renan
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/flavio-bolsonaro-diz-que-nao-ira-ao-debate-da-globo-nesta-quinta.ghtml)_
 
+- **[2026-10-01 22:31 UTC]** Datafolha: 23% apontam Flávio Bolsonaro como segunda opção de voto, e 15% citam Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/datafolha-segunda-opcao-de-voto.ghtml)_
+
