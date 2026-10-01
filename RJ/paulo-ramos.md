@@ -11,3 +11,6 @@
 - **[2026-09-17 16:56 UTC]** Suspeito de matar ex-companheira a tiros em Paulo Ramos se apresenta à polícia e é liberado
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/09/17/suspeito-de-matar-ex-companheira-a-tiros-em-paulo-ramos-se-apresenta-a-policia-e-e-liberado.ghtml)_
 
+- **[2026-10-01 18:54 UTC]** Dois réus são absolvidos de tentativa de homicídio e homicídio pelo Tribunal do Júri em Paulo Ramos
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/01/dois-reus-sao-absolvidos-de-tentativa-de-homicidio-e-homicidio-pelo-tribunal-do-juri-em-paulo-ramos.ghtml)_
+
