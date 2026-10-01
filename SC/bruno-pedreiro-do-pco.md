@@ -14,3 +14,6 @@
 - **[2026-09-18 22:37 UTC]** Eleições 2026 em SC: Bruno Pedreiro do PCO cumpre agenda em obra em construção e fala sobre concessão de rodovias
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-em-sc-bruno-pedreiro-do-pco-cumpre-agenda-em-obra-em-construcao-e-fala-sobre-concessao-de-rodovias.ghtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Bruno Pedreiro do Pco (PCO) para o governo de Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-bruno-pedreiro-do-pco-pco-para-o-governo-de-santa-catarina.ghtml)_
+
