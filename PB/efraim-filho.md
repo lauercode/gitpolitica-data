@@ -62,3 +62,6 @@
 - **[2026-09-30 21:47 UTC]** Qual é o número de Efraim Filho (PL) para o governo da Paraíba?
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-efraim-filho-pl-para-o-governo-da-paraiba.ghtml)_
 
+- **[2026-09-30 20:24 UTC]** Efraim Filho defende investimentos no agronegócio e em energias renováveis na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/efraim-filho-defende-investimentos-no-agronegocio-e-em-energias-renovaveis-na-paraiba.ghtml)_
+
