@@ -74,3 +74,6 @@
 - **[2026-09-30 17:28 UTC]** Gilmar Mendes permite que Renan Filho use investigação sobre Banco Master em propaganda contra JHC
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/30/gilmar-mendes-permite-que-renan-filho-use-investigacao-sobre-banco-master-em-propaganda-contra-jhc.ghtml)_
 
+- **[2026-09-30 21:19 UTC]** Qual é o número de Renan Filho (MDB) para o governo de Alagoas?
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-renan-filho-mdb-para-o-governo-de-alagoas.ghtml)_
+
