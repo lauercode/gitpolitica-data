@@ -3014,3 +3014,6 @@
 - **[2026-10-01 02:45 UTC]** TSE proíbe posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida; Mendonça suaviza voto sobre publicação de Antonio Tabet
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-01 06:00 UTC]** Flávio promete a entidade judaica visitar Israel logo no início de eventual governo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-promete-a-entidade-judaica-visitar-israel-logo-no-inicio-de-eventual-governo.shtml)_
+
