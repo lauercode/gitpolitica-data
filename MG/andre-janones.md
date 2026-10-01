@@ -26,3 +26,6 @@
 - **[2026-09-30 19:56 UTC]** Janones recruta “soldados” no X para militância digital pela reeleição de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/janones-recruta-soldados-no-x-para-militancia-digital-pela-reeleicao-de-lula/)_
 
+- **[2026-10-01 12:37 UTC]** Nunes Marques manda à PGR ação de Michelle contra Janones por acusações
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-manda-pgr-acao-michelle-contra-janones-por-acusacoes/)_
+
