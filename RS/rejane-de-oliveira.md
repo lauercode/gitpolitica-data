@@ -20,3 +20,6 @@
 - **[2026-09-23 22:23 UTC]** Eleições 2026 no RS: Rejane de Oliveira diz que 'é preciso tirar o controle da economia do estado das mãos das multinacionais'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-no-rs-rejane-de-oliveira-diz-que-e-preciso-tirar-o-controle-da-economia-do-estado-das-maos-das-multinacionais.ghtml)_
 
+- **[2026-10-01 03:05 UTC]** Qual é o número de Rejane de Oliveira (PSTU) para o governo do Rio Grande do Sul?
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-rejane-de-oliveira-pstu-para-o-governo-do-rio-grande-do-sul.ghtml)_
+
