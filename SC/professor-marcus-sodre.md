@@ -17,3 +17,6 @@
 - **[2026-09-16 13:56 UTC]** Entrevista na NSC: Professor Marcus Sodré defende autodefesa coletiva para mulheres e abrir ferrovias para cargas e transporte de pessoas
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/16/entrevista-na-nsc-professor-marcus-sodre-defende-autodefesa-coletiva-para-mulheres-e-abrir-ferrovias-para-cargas-e-transporte-de-pessoas.ghtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Professor Marcus Sodré (PSTU) para o governo de Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-professor-marcus-sodre-pstu-para-o-governo-de-santa-catarina.ghtml)_
+
