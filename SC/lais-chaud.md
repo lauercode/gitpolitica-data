@@ -17,3 +17,6 @@
 - **[2026-09-17 16:00 UTC]** Entrevista na NSC: Laís Chaud aposta em mobilização popular para governar e maior reforço no combate à violência contra a mulher
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/entrevista-na-nsc-lais-chaud.ghtml)_
 
+- **[2026-10-01 03:00 UTC]** Qual é o número de Laís Chaud (UP) para o governo de Santa Catarina?
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-lais-chaud-up-para-o-governo-de-santa-catarina.ghtml)_
+
