@@ -29,3 +29,6 @@
 - **[2026-10-01 10:54 UTC]** Jalser Renier e mãe dele são alvos da PF por suspeita de compra de votos em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/jalser-renier-e-alvo-da-pf-pela-segunda-vez-em-uma-semana-em-boa-vista.ghtml)_
 
+- **[2026-10-01 12:34 UTC]** Jalser Renier é preso pela PF por compra de votos pela segunda vez em uma semana em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/jalser-renier-e-preso-novamente-pela-pf-em-roraima.ghtml)_
+
