@@ -86,3 +86,6 @@
 - **[2026-09-29 02:30 UTC]** Eleições 2026: Omar Aziz grava propaganda eleitoral e afirma que vai construir aeroportos no estado
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-omar-aziz-grava-propaganda-eleitoral-e-afirma-que-vai-construir-aeroportos-no-estado.ghtml)_
 
+- **[2026-10-01 00:51 UTC]** Qual é o número de Omar Aziz (PSD) para o governo do Amazonas?
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-omar-aziz-psd-para-o-governo-do-amazonas.ghtml)_
+
