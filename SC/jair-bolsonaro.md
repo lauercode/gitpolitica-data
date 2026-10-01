@@ -53,3 +53,6 @@
 - **[2026-09-29 16:19 UTC]** O que muda de Jair Bolsonaro em 2018 para Flávio Bolsonaro em 2026?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/09/o-que-muda-de-jair-bolsonaro-em-2018-para-flavio-em-2026.shtml)_
 
+- **[2026-10-01 17:21 UTC]** Michelle vai acompanhar eleições em casa com Jair Bolsonaro, que está ansioso, segundo relatos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/michelle-vai-acompanhar-eleicoes-em-casa-com-jair-bolsonaro-que-esta-ansioso-segundo-relatos.shtml)_
+
