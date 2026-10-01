@@ -3092,3 +3092,6 @@
 - **[2026-10-01 16:17 UTC]** Debate da Globo sem Lula: o que pode ajudar ou prejudicar Flávio Bolsonaro?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6lyr7002jx4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-01 12:56 UTC]** O que as pesquisas diziam sobre Lula x Bolsonaro no dia do debate da Globo em 2022 e 2018 — e o que dizem em 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj3v4g4kze7lo?at_medium=RSS&at_campaign=rss)_
+
