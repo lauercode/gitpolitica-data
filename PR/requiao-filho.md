@@ -92,3 +92,6 @@
 - **[2026-09-30 18:08 UTC]** Eleições 2026 no Paraná: Requião Filho participa de três carreatas em Curitiba a poucos dias das eleições
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-no-parana-requiao-filho-participa-de-tres-carreatas-em-curitiba.ghtml)_
 
+- **[2026-10-01 00:46 UTC]** Qual é o número de Requião Filho (PDT) para o governo do Paraná?
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-requiao-filho-pdt-para-o-governo-do-parana.ghtml)_
+
