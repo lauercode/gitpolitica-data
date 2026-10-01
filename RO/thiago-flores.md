@@ -23,3 +23,6 @@
 - **[2026-09-29 13:34 UTC]** Primavera traz cores para a casa e inspira Festival de Flores do Ítalo
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/09/29/primavera-traz-cores-para-a-casa-e-inspira-festival-de-flores-do-italo.ghtml)_
 
+- **[2026-09-30 21:27 UTC]** Festa de Flores e Morangos de Atibaia encerra 44a edição
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/30/festa-de-flores-e-morangos-de-atibaia-encerra-44a-edicao-1.ghtml)_
+
