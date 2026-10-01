@@ -20,3 +20,6 @@
 - **[2026-09-23 22:47 UTC]** Eleições 2026: Dr. Helton diz que vai retomar gestão dos hospitais e realizar concurso público para a saúde
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-dr-helton-diz-que-vai-retomar-gestao-dos-hospitais-e-realizar-concurso-publico-para-a-saude.ghtml)_
 
+- **[2026-10-01 01:27 UTC]** Qual é o número de Dr. Helton (PSOL) para o governo de Sergipe?
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-helton-psol-para-o-governo-de-sergipe.ghtml)_
+
