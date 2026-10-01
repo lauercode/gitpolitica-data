@@ -3074,3 +3074,6 @@
 - **[2026-10-01 13:16 UTC]** O currículo de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/o-curriculo-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-01 12:02 UTC]** Lula cita supostas orgias de Flávio em propaganda final na TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-cita-supostas-orgias-de-flavio-em-propaganda-final-na-tv.shtml)_
+
