@@ -3023,3 +3023,6 @@
 - **[2026-10-01 04:00 UTC]** 'Tanto Lula quanto Flávio Bolsonaro geram pouco entusiasmo', diz brasilianista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tanto-lula-quanto-flavio-bolsonaro-geram-pouco-entusiasmo-diz-brasilianista.shtml)_
 
+- **[2026-10-01 08:00 UTC]** TSE limita o alcance de decisão de Mendonça sobre Flávio e Padroeira
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/01/tse-limita-o-alcance-de-decisao-de-mendonca-sobre-flavio-e-padroeira.ghtml)_
+
