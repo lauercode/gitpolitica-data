@@ -104,3 +104,6 @@
 - **[2026-09-30 01:01 UTC]** João Campos e Raquel Lyra fazem embates sobre bets e políticas para mulheres em debate em Pernambuco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/joao-campos-e-raquel-lyra-fazem-embates-sobre-bets-e-politicas-para-mulheres-em-debate-em-pernambuco.shtml)_
 
+- **[2026-10-01 20:11 UTC]** Datafolha: 49% avaliam gestão Raquel Lyra como positiva e 20%, como negativa
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/01/datafolha-pe-avaliacao-governadora-1-de-outubro.ghtml)_
+
