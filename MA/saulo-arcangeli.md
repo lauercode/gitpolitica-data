@@ -35,3 +35,6 @@
 - **[2026-09-29 23:40 UTC]** Saulo Arcangeli defende fortalecimento da assistência social para combater a pobreza
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/29/saulo-arcangeli-defende-fortalecimento-da-assistencia-social-para-combater-a-pobreza.ghtml)_
 
+- **[2026-10-01 12:43 UTC]** Qual é o número de Saulo Arcangeli (PSTU) para o governo do Maranhão?
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-saulo-arcangeli-pstu-para-o-governo-do-maranhao.ghtml)_
+
