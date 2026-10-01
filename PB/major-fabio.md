@@ -11,3 +11,6 @@
 - **[2026-09-22 22:29 UTC]** Quaest para o Senado na PB: João, 28%; Veneziano, 18%; Nabor, 12%; Queiroga, 7%; Major Fábio, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-pb-senado-22-setembro.ghtml)_
 
+- **[2026-09-30 21:49 UTC]** Qual é o número de Major Fábio (Novo) para o Senado na Paraíba?
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-major-fabio-novo-para-o-senado-na-paraiba.ghtml)_
+
