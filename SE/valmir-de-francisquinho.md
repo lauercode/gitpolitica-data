@@ -50,3 +50,6 @@
 - **[2026-10-01 13:34 UTC]** Emanuel Cacho desiste de candidatura ao governo de Sergipe e declara apoio a Valmir de Francisquinho
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/01/emanuel-cacho-desiste-de-candidatura-ao-governo-de-sergipe-e-declara-apoio-a-valmir-de-francisquinho.ghtml)_
 
+- **[2026-10-01 23:10 UTC]** Após ter candidatura inviabilizada, Ricardo Marques, do PL, declara apoio a Valmir de Francisquinho, do Republicanos, na disputa pelo governo de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/01/ricardo-marques-do-pl-declara-apoio-a-valmir-de-francisquinho-do-republicanos-governo-de-sergipe.ghtml)_
+
