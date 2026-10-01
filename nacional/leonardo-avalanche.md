@@ -11,3 +11,6 @@
 - **[2026-09-30 17:59 UTC]** Candidato do PRTB, Leonardo Avalanche desiste de disputar Presidência
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/candidato-do-prtb-leonardo-avalanche-desiste-de-disputar-presidencia)_
 
+- **[2026-09-30 21:05 UTC]** Leonardo Avalanche (PRTB) renuncia à candidatura à Presidência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/leonardo-avalanche-prtb-renuncia-a-candidatura-a-presidencia.ghtml)_
+
