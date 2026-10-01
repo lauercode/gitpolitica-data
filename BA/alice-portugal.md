@@ -86,3 +86,6 @@
 - **[2026-09-30 21:53 UTC]** Cristiano Ronaldo deixa seleção de Portugal após fala de Jorge Jesus
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/cristiano-ronaldo-deixa-selecao-de-portugal-apos-fala-de-jorge-jesus)_
 
+- **[2026-10-01 19:13 UTC]** Portugal vence Dinamarca, e Jesus evita falar sobre saída de Cristiano Ronaldo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/portugal-vence-dinamarca-e-jesus-evita-falar-sobre-saida-de-cristiano-ronaldo.shtml)_
+
