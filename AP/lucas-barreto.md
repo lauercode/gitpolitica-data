@@ -14,3 +14,6 @@
 - **[2026-09-24 21:40 UTC]** Quaest para o Senado no AP: Rayssa Furlan, 28%; Randolfe Rodrigues, 20%; Lucas Barreto, 19%
   _fonte: [G1 - Política:](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/quaest-ap-senado-24-setembro.ghtml)_
 
+- **[2026-09-30 22:25 UTC]** Qual é o número de Lucas Barreto (PSD) para o Senado no Amapá?
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-lucas-barreto-psd-para-o-senado-no-amapa.ghtml)_
+
