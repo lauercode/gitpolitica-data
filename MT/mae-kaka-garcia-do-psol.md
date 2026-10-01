@@ -62,3 +62,6 @@
 - **[2026-10-01 01:27 UTC]** Qual é o número de Dr. Helton (PSOL) para o governo de Sergipe?
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-helton-psol-para-o-governo-de-sergipe.ghtml)_
 
+- **[2026-10-01 12:47 UTC]** Qual é o número de Enilton Rodrigues (PSOL) para o Senado no Maranhão?
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-enilton-rodrigues-psol-para-o-senado-no-maranhao.ghtml)_
+
