@@ -2969,3 +2969,6 @@
 - **[2026-09-30 20:43 UTC]** TSE tem 3 a 2 para proibir posts sobre Flávio e Nossa Senhora
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/tse-tem-3-2-para-proibir-posts-sobre-flavio-e-nossa-senhora)_
 
+- **[2026-09-30 23:19 UTC]** Flávio Bolsonaro pede ao STF que Dino seja afastado de casos envolvendo ele, Lula e eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/flavio-bolsonaro-pede-ao-stf-que-dino-seja-afastado-de-processos-envolvendo-o-parlamentar-lula-e-eleicoes.ghtml)_
+
