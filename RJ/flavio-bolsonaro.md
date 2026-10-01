@@ -3038,3 +3038,6 @@
 - **[2026-10-01 10:54 UTC]** PF faz nova perícia em material do “Dark Horse” por ordem de Flávio Dino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-nova-pericia-material-dark-horse-por-ordem-de-flavio-dino/)_
 
+- **[2026-10-01 12:56 UTC]** Eleições: o que as pesquisas diziam sobre Lula x Bolsonaro no dia do debate da Globo em 2022 e 2018 — e o que dizem em 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj3v4g4kze7lo?at_medium=RSS&at_campaign=rss)_
+
