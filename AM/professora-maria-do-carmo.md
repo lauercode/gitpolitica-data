@@ -74,3 +74,6 @@
 - **[2026-09-24 20:18 UTC]** Eleições 2026: Professora Maria do Carmo propõe atuação conjunta entre forças de segurança e judiciário
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-professora-maria-do-carmo-propoe-atuacao-conjunta-entre-forcas-de-seguranca-e-judiciario.ghtml)_
 
+- **[2026-10-01 00:50 UTC]** Qual é o número de Professora Maria do Carmo (PL) para o governo do Amazonas?
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-professora-maria-do-carmo-pl-para-o-governo-do-amazonas.ghtml)_
+
