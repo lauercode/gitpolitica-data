@@ -53,3 +53,6 @@
 - **[2026-10-01 00:50 UTC]** Qual é o número de Professora Evany (PSOL) para o Senado no Amazonas?
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-professora-evany-psol-para-o-senado-no-amazonas.ghtml)_
 
+- **[2026-10-01 03:05 UTC]** Qual é o número de Manuela d'Ávila (PSOL) para o Senado no Rio Grande do Sul?
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-manuela-davila-psol-para-o-senado-no-rio-grande-do-sul.ghtml)_
+
