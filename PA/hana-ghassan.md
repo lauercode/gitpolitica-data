@@ -71,3 +71,6 @@
 - **[2026-09-29 00:19 UTC]** Hana Ghassan defende uso de tecnologia na saúde e mais parcerias público-privadas no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/28/hana-ghassan-defende-uso-de-tecnologia-na-saude-e-mais-parcerias-publico-privadas-no-para.ghtml)_
 
+- **[2026-10-01 15:00 UTC]** Qual é o número de Hana Ghassan (MDB) para o governo do Pará?
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-hana-ghassan-mdb-para-o-governo-do-para.ghtml)_
+
