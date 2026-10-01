@@ -3125,3 +3125,6 @@
 - **[2026-10-01 19:29 UTC]** Flávio Bolsonaro desiste de ir ao debate da Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-desiste-de-ir-ao-debate-da-globo.shtml)_
 
+- **[2026-10-01 19:07 UTC]** Datafolha: Flávio e Lula seguem sendo os mais rejeitados com 45% cada um
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-e-lula-seguem-sendo-os-mais-rejeitados-com-45-cada.shtml)_
+
