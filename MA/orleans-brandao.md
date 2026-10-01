@@ -44,3 +44,6 @@
 - **[2026-09-28 23:18 UTC]** Orleans Brandão propõe aumentar valor do 'Maranhão Livre da Fome' e investir em capacitação profissional
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/28/orleans-brandao-propoe-aumentar-valor-do-maranhao-livre-da-fome-e-investir-em-capacitacao-profissional.ghtml)_
 
+- **[2026-09-30 23:22 UTC]** Orleans Brandão propõe ampliar programas de transferência de renda e segurança alimentar no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/30/orleans-brandao-propoe-ampliar-programas-de-transferencia-de-renda-e-seguranca-alimentar-no-ma.ghtml)_
+
