@@ -3041,3 +3041,6 @@
 - **[2026-10-01 12:56 UTC]** Eleições: o que as pesquisas diziam sobre Lula x Bolsonaro no dia do debate da Globo em 2022 e 2018 — e o que dizem em 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj3v4g4kze7lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-01 10:49 UTC]** Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
