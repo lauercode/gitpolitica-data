@@ -11,3 +11,6 @@
 - **[2026-09-14 16:01 UTC]** Laurez Moreira promete regionalizar saúde, priorizar vocações dos municípios e combater corrupção no governo
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/14/laurez-moreira-promete-regionalizar-saude-priorizar-vocacoes-dos-municipios-e-combater-corrupcao-no-governo.ghtml)_
 
+- **[2026-10-01 12:03 UTC]** Qual é o número de Laurez Moreira (PSD) para o governo do Tocantins?
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-laurez-moreira-psd-para-o-governo-do-tocantins.ghtml)_
+
