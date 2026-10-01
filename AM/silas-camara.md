@@ -1094,3 +1094,6 @@ direitos
 - **[2026-10-01 21:49 UTC]** MP pede suspensão de eleição antecipada da Câmara de Aparecida, no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/01/mp-pede-suspencao-de-eleicao-antecipada-da-camara-de-aparecida-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-10-01 16:10 UTC]** Isac Silveira é eleito presidente da Câmara Municipal de Aracaju para o biênio 2027–2028
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/01/isac-silveira-e-eleito-presidente-da-camara-municipal-de-aracaju-para-o-bienio-2027-2028.ghtml)_
+
