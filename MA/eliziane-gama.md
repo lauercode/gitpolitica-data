@@ -26,3 +26,6 @@
 - **[2026-09-14 22:08 UTC]** Eletricista diz que 'emprestou os dados' para ser tesoureiro da ONG de Karina da Gama, que movimentou R$ 83 milhões, mas nunca exerceu a função
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/eletricista-diz-que-emprestou-os-dados-para-ser-tesoureiro-de-ong-de-karina-da-gama-mas-nunca-exerceu-a-funcao.ghtml)_
 
+- **[2026-10-01 12:47 UTC]** Qual é o número de Eliziane Gama (PT) para o Senado no Maranhão?
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-eliziane-gama-pt-para-o-senado-no-maranhao.ghtml)_
+
