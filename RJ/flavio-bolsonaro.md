@@ -3101,3 +3101,6 @@
 - **[2026-10-01 17:17 UTC]** Bolsonaro pede nova revisão no STF para suspender pena e cita fala de Moraes sobre caso Master
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/01/bolsonaro-pede-nova-reviso-no-stf-para-suspender-pena-e-cita-fala-de-moraes-sobre-caso-master.ghtml)_
 
+- **[2026-10-01 20:09 UTC]** Fachin rejeita afastar Dino de processos contra Flávio Bolsonaro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/fachin-rejeita-afastamento-de-dino-de-processos-cotra-flavio-bolsonaro)_
+
