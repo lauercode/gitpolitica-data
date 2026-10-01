@@ -20,3 +20,6 @@
 - **[2026-09-30 23:29 UTC]** André Luis visita Ceasa de São Luís e apresenta propostas para produção de alimentos no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/30/andre-luis-visita-ceasa-de-sao-luis-e-apresenta-propostas-para-producao-de-alimentos-no-ma.ghtml)_
 
+- **[2026-10-01 12:43 UTC]** Qual é o número de André Luis (Missão) para o governo do Maranhão?
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-andre-luis-missao-para-o-governo-do-maranhao.ghtml)_
+
