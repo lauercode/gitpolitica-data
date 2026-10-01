@@ -80,3 +80,6 @@
 - **[2026-10-01 20:05 UTC]** Datafolha no DF: Celina Leão, 46%; Leandro Grass, 22%; Paula Belmonte, 9%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/01/datafolha-df-governador-1-outubro.ghtml)_
 
+- **[2026-10-01 17:11 UTC]** Datafolha: Celina Leão lidera no DF com 53% dos votos válidos, ante 26% de Grass
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-celina-leao-lidera-no-df-com-53-dos-votos-validos-ante-26-de-grass.shtml)_
+
