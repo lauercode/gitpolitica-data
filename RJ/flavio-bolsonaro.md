@@ -3152,3 +3152,6 @@
 - **[2026-10-01 22:35 UTC]** Flávio Bolsonaro desiste de participar do debate da TV Globo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/flavio-bolsonaro-desiste-de-ir-ao-debate-da-tv-globo.ghtml)_
 
+- **[2026-10-01 22:08 UTC]** Datafolha: Lula tem 48% e Flávio Bolsonaro, 45% no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/datafolha-lula-tem-48percent-e-flavio-bolsonaro-45percentpercent-no-primeiro-turno.ghtml)_
+
