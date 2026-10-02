@@ -1103,3 +1103,6 @@ direitos
 - **[2026-10-01 14:54 UTC]** Aldo Clemente é eleito presidente da Câmara Municipal de Natal; conheça nova mesa diretora
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/01/novo-presidente-eleito-camara-municipal-natal-mesa-diretora.ghtml)_
 
+- **[2026-10-02 08:00 UTC]** Câmara com baixa renovação e Senado mais à direita
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/camara-com-baixa-renovacao-e-senado-mais-a-direita.ghtml)_
+
