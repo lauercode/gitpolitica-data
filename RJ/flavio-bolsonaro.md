@@ -3218,3 +3218,6 @@
 - **[2026-10-02 12:23 UTC]** Mendonça comunica às plataformas novos critérios para exclusão de posts associando Flávio Bolsonaro à retirada do posto de padroeira de Nossa Senhora
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/02/mendonca-manda-redes-apagarem-posts-associando-flavio-bolsonaro-a-retirada-do-posto-de-padroeira-de-nossa-senhora.ghtml)_
 
+- **[2026-10-02 03:00 UTC]** Datafolha, 2º turno: veja como está a disputa entre Lula e Flávio Bolsonaro nos grupos sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/02/datafolha-lula-x-flavio-bolsonaro-grupos-sociais.ghtml)_
+
