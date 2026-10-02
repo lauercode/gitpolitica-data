@@ -3167,3 +3167,6 @@
 - **[2026-10-01 22:15 UTC]** Milei volta a atacar Lula e apoiar Flávio às vésperas das eleições no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/milei-volta-a-atacar-lula-e-apoiar-flavio-as-vesperas-das-eleicoes-no-brasil.shtml)_
 
+- **[2026-10-01 21:52 UTC]** Datafolha: Lula tem 50% entre católicos, e Flávio, 52% entre evangélicos no 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-50-entre-catolicos-e-flavio-52-entre-evangelicos-no-1o-turno.shtml)_
+
