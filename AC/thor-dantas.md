@@ -17,3 +17,6 @@
 - **[2026-09-24 10:00 UTC]** Thor Dantas disputa Governo do Acre com foco em habitação e retomada de investimentos em infraestrutura
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/24/thor-dantas-disputa-governo-do-acre-com-foco-em-habitacao-e-retomada-de-investimentos-em-infraestrutura.ghtml)_
 
+- **[2026-10-01 14:03 UTC]** Qual é o número de Thor Dantas (PSB) para o governo do Acre?
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-thor-dantas-psb-para-o-governo-do-acre.ghtml)_
+
