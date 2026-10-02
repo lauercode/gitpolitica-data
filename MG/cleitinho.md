@@ -116,3 +116,6 @@
 - **[2026-10-01 20:49 UTC]** Datafolha: Em MG, no primeiro turno, Cleitinho tem 40%, Patrus 16% e Kalil 11%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/datafolha-em-mg-no-primeiro-turno-cleitinho-tem-40percent-patrus-16percent-e-kalil-11percent.ghtml)_
 
+- **[2026-10-02 08:00 UTC]** Com ampla vantagem, Cleitinho deve ir ao segundo turno contra Patrus Ananias
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/com-ampla-vantagem-cleitinho-deve-ir-ao-segundo-turno-contra-patrus-ananias.ghtml)_
+
