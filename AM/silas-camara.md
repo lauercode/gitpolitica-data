@@ -1118,3 +1118,6 @@ direitos
 - **[2026-10-02 08:00 UTC]** Eleição deve resultar em baixa renovação na Câmara e deixar Senado mais à direita
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/camara-com-baixa-renovacao-e-senado-mais-a-direita.ghtml)_
 
+- **[2026-10-02 17:28 UTC]** Câmara e Senado farão checagem de informações para eleitores neste domingo
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1308075-camara-e-senado-farao-checagem-de-informacoes-para-eleitores-neste-domingo)_
+
