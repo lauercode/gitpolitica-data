@@ -3296,3 +3296,6 @@
 - **[2026-10-02 21:20 UTC]** Trump não responde se apoiará Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/trump-no-responde-se-apoiar-flvio-bolsonaro.ghtml)_
 
+- **[2026-10-02 20:02 UTC]** Lula e Flávio Bolsonaro fazem campanha nesta sexta-feira em Minas Gerais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/lula-e-flavio-bolsonaro-fazem-campanha-nesta-sexta-feira-em-minas-gerais.ghtml)_
+
