@@ -26,3 +26,6 @@
 - **[2026-10-01 13:34 UTC]** Emanuel Cacho desiste de candidatura ao governo de Sergipe e declara apoio a Valmir de Francisquinho
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/01/emanuel-cacho-desiste-de-candidatura-ao-governo-de-sergipe-e-declara-apoio-a-valmir-de-francisquinho.ghtml)_
 
+- **[2026-10-02 15:04 UTC]** TSE oficializa renúncia de Emanuel Cacho ao governo de Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/02/tse-oficializa-renuncia-de-emanuel-cacho-ao-governo-de-sergipe.ghtml)_
+
