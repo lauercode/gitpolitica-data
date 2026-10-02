@@ -3233,3 +3233,6 @@
 - **[2026-10-02 15:03 UTC]** Mendonça notifica “X” sobre posts relacionados a Flávio e Nossa Senhora
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-notifica-x-posts-relacionados-flavio-nossa-senhora/)_
 
+- **[2026-10-02 11:23 UTC]** Maior bancada do Congresso, bancada da agropecuária oficializa apoio a Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/maior-bancada-congresso-bancada-agropecuaria-oficializa-apoio-flavio/)_
+
