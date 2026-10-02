@@ -1097,3 +1097,6 @@ direitos
 - **[2026-10-01 16:10 UTC]** Isac Silveira é eleito presidente da Câmara Municipal de Aracaju para o biênio 2027–2028
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/01/isac-silveira-e-eleito-presidente-da-camara-municipal-de-aracaju-para-o-bienio-2027-2028.ghtml)_
 
+- **[2026-10-02 00:30 UTC]** As 10 principais apostas do PL para a Câmara dos Deputados na eleição de domingo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/as-10-principais-apostas-do-pl-para-a-camara-dos-deputados-na-eleicao-de-domingo/)_
+
