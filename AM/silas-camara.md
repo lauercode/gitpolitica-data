@@ -1115,3 +1115,6 @@ direitos
 - **[2026-10-01 23:22 UTC]** Dos 24 deputados estaduais de Roraima, 21 tentam reeleição e um disputa vaga na Câmara em 2026
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/dos-24-deputados-estaduais-de-roraima-21-tentam-reeleicao-e-um-disputa-vaga-na-camara-em-2026.ghtml)_
 
+- **[2026-10-02 08:00 UTC]** Eleição deve resultar em baixa renovação na Câmara e deixar Senado mais à direita
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/camara-com-baixa-renovacao-e-senado-mais-a-direita.ghtml)_
+
