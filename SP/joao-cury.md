@@ -383,3 +383,6 @@
 - **[2026-10-01 21:53 UTC]** Zema, Caiado e Cury atribuem a Lula cancelamento do debate na Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/zema-caiado-e-cury-atribuem-a-lula-cancelamento-do-debate-na-globo.shtml)_
 
+- **[2026-10-02 08:00 UTC]** Cury chegou a 3º lugar, mas não sustentou ganho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/cury-chegou-a-3o-lugar-mas-nao-sustentou-ganho.ghtml)_
+
