@@ -1106,3 +1106,6 @@ direitos
 - **[2026-10-02 08:00 UTC]** Câmara com baixa renovação e Senado mais à direita
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/camara-com-baixa-renovacao-e-senado-mais-a-direita.ghtml)_
 
+- **[2026-10-02 02:16 UTC]** Maioria no eleitorado, minoria no poder: no Paraná, mulheres representam apenas 35% das candidaturas para Assembleia e Câmara dos Deputados
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/01/maioria-no-eleitorado-minoria-no-poder-no-parana-mulheres-representam-apenas-35percent-das-candidaturas-para-assembleia-e-camara-dos-deputados.ghtml)_
+
