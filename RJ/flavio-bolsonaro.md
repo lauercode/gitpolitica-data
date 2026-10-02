@@ -3257,3 +3257,6 @@
 - **[2026-10-02 18:28 UTC]** Edinho Silva nega “bala de prata” do PT contra Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/edinho-silva-nega-bala-de-prata-pt-contra-flavio-bolsonaro/)_
 
+- **[2026-10-02 16:16 UTC]** Distância entre Lula e Flávio Bolsonaro é de 3 pontos no 1º turno no Agregador de Pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
