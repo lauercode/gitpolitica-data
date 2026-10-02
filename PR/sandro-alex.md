@@ -134,3 +134,6 @@
 - **[2026-10-01 14:24 UTC]** Eleições 2026 no Paraná: Sandro Alex faz carreata em Londrina e participa de evento em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/01/eleicoes-2026-no-parana-agenda-sandro-alex-1-outubro.ghtml)_
 
+- **[2026-10-02 13:32 UTC]** Eleições 2026 no Paraná: Sandro Alex visita cidades do Oeste em carreatas e termina o dia em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/02/eleicoes-2026-no-parana-sandro-alex.ghtml)_
+
