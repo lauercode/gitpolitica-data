@@ -41,3 +41,6 @@
 - **[2026-09-28 16:59 UTC]** Em reunião no Polo Moveleiro, Mailza Assis diz que reta final da campanha é 'definitiva'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/28/em-reuniao-no-polo-moveleiro-mailza-assis-diz-que-reta-final-da-campanha-e-definitiva.ghtml)_
 
+- **[2026-10-01 14:02 UTC]** Qual é o número de Mailza Assis (PP) para o governo do Acre?
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-mailza-assis-pp-para-o-governo-do-acre.ghtml)_
+
