@@ -3164,3 +3164,6 @@
 - **[2026-10-01 22:16 UTC]** Fundador da revista piauí questiona apoio empresarial a Flávio Bolsonaro e aponta riscos à democracia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fundador-da-revista-piaui-questiona-apoio-empresarial-a-flavio-bolsonaro-e-aponta-riscos-a-democracia.shtml)_
 
+- **[2026-10-01 22:15 UTC]** Milei volta a atacar Lula e apoiar Flávio às vésperas das eleições no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/milei-volta-a-atacar-lula-e-apoiar-flavio-as-vesperas-das-eleicoes-no-brasil.shtml)_
+
