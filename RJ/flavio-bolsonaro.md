@@ -3200,3 +3200,6 @@
 - **[2026-10-02 00:47 UTC]** Flávio Bolsonaro usa interferência em debate para pedir 'voto de revolta', e campanha de Lula mira indecisos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-usa-interferencia-em-debate-para-pedir-voto-de-revolta-e-campanha-de-lula-mira-indecisos.shtml)_
 
+- **[2026-10-02 08:00 UTC]** Flávio fez campanha marcada por crises e caso ‘Dark Horse’, mas tem candidatura consolidada
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/flavio-fez-campanha-marcada-por-crises-e-caso-dark-horse-mas-tem-candidatura-consolidada.ghtml)_
+
