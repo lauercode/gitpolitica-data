@@ -401,3 +401,6 @@
 - **[2026-10-02 17:31 UTC]** Frejat repudia uso de ‘Bete Balanço’ em campanha, e Renan Santos provoca: “Lide com isso”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/frejat-repudia-uso-de-musica-em-campanha-e-renan-santos-provoca-lide-com-isso/)_
 
+- **[2026-10-02 17:48 UTC]** Renan Santos chama Flávio Bolsonaro para debate em troca de eventual apoio no 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/renan-santos-chama-flavio-bolsonaro-para-debate-em-troca-de-eventual-apoio-no-1o-turno.shtml)_
+
