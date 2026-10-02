@@ -3254,3 +3254,6 @@
 - **[2026-10-02 14:58 UTC]** 'Globo adicionou Renan, Flávio saiu do grupo'; os memes do debate cancelado da emissora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/globo-adicionou-renan-flavio-saiu-do-grupo-os-memes-do-debate-cancelado-da-emissora.shtml)_
 
+- **[2026-10-02 18:28 UTC]** Edinho Silva nega “bala de prata” do PT contra Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/edinho-silva-nega-bala-de-prata-pt-contra-flavio-bolsonaro/)_
+
