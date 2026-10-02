@@ -41,3 +41,6 @@
 - **[2026-09-30 20:30 UTC]** Álvaro Dias reforça promessa de ampliar hospitais Walfredo Gurgel e Tarcísio Maia
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/alvaro-dias-reforca-promessa-de-ampliar-hospitais-walfredo-gurgel-e-tarcisio-maia.ghtml)_
 
+- **[2026-10-02 21:59 UTC]** Álvaro Dias grava conteúdos para redes sociais e faz balanço da campanha
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/02/alvaro-dias-grava-conteudos-para-redes-sociais-e-faz-balanco-da-campanha.ghtml)_
+
