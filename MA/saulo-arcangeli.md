@@ -38,3 +38,6 @@
 - **[2026-10-01 12:43 UTC]** Qual é o número de Saulo Arcangeli (PSTU) para o governo do Maranhão?
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-saulo-arcangeli-pstu-para-o-governo-do-maranhao.ghtml)_
 
+- **[2026-10-01 23:49 UTC]** Saulo Arcangeli defende compras públicas da agricultura familiar para combater fome no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/saulo-arcangeli-defende-compras-publicas-da-agricultura-familiar-para-combater-fome-no-ma.ghtml)_
+
