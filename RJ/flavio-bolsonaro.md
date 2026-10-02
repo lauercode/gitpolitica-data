@@ -3215,3 +3215,6 @@
 - **[2026-10-02 13:16 UTC]** MP Eleitoral pede multa a Lula, Flávio Bolsonaro e outros candidatos por propaganda irregular
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/02/mp-eleitoral-pede-multa-a-lula-flavio-bolsonaro-e-outros-candidatos-por-propaganda-irregular.ghtml)_
 
+- **[2026-10-02 12:23 UTC]** Mendonça comunica às plataformas novos critérios para exclusão de posts associando Flávio Bolsonaro à retirada do posto de padroeira de Nossa Senhora
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/02/mendonca-manda-redes-apagarem-posts-associando-flavio-bolsonaro-a-retirada-do-posto-de-padroeira-de-nossa-senhora.ghtml)_
+
