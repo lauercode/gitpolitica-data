@@ -11,3 +11,6 @@
 - **[2026-09-24 10:00 UTC]** Eudo Raffael disputa Governo do Acre com propostas de parceria com Ufac na saúde e fim da escala 6x1
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/24/eudo-raffael-disputa-governo-do-acre-com-propostas-de-parceria-com-ufac-na-saude-e-fim-da-escala-6x1.ghtml)_
 
+- **[2026-10-01 14:02 UTC]** Qual é o número de Eudo Raffael (PCB) para o governo do Acre?
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-eudo-raffael-pcb-para-o-governo-do-acre.ghtml)_
+
