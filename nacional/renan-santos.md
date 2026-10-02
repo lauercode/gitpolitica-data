@@ -398,3 +398,6 @@
 - **[2026-10-02 12:10 UTC]** Frejat repudia uso de 'Bete Balanço' por Renan Santos; candidato diz que seguirá cantando a faixa e que Cazuza 'era playboy'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/frejat-repudia-uso-desautorizado-de-musica-dele-e-de-cazuza-em-campanha-de-renan-santos.shtml)_
 
+- **[2026-10-02 17:31 UTC]** Frejat repudia uso de ‘Bete Balanço’ em campanha, e Renan Santos provoca: “Lide com isso”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/frejat-repudia-uso-de-musica-em-campanha-e-renan-santos-provoca-lide-com-isso/)_
+
