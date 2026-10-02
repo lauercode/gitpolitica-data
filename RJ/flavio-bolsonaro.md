@@ -3179,3 +3179,6 @@
 - **[2026-10-01 19:29 UTC]** Flávio Bolsonaro chama Lula de 'fujão' e fala em 'censura nas eleições' após desistir de debate na Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-desiste-de-ir-ao-debate-da-globo.shtml)_
 
+- **[2026-10-02 01:27 UTC]** Flávio diz que Lula usou “amigos no Judiciário” para censurar debate
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-diz-que-lula-usou-amigos-no-judiciario-para-censurar-debate/)_
+
