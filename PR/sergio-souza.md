@@ -20,3 +20,6 @@
 - **[2026-10-01 17:00 UTC]** 1926: Cantora brasileira Antonietta de Souza faz sucesso na Europa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/10/1926-cantora-brasileira-antonietta-de-souza-faz-sucesso-na-europa.shtml)_
 
+- **[2026-10-02 08:00 UTC]** José de Souza Martins: Entre biografias e folhas corridas
+  _fonte: [Valor Econômico](https://valor.globo.com/eu-e/coluna/jose-de-souza-martins-entre-biografias-e-folhas-corridas.ghtml)_
+
