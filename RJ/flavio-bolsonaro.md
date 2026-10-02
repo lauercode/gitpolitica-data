@@ -3197,3 +3197,6 @@
 - **[2026-10-02 05:00 UTC]** Em busca de votos, Flávio Bolsonaro promete afrouxar leis ambientais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/em-busca-de-votos-flavio-bolsonaro-promete-afrouxar-leis-ambientais.shtml)_
 
+- **[2026-10-02 00:47 UTC]** Flávio Bolsonaro usa interferência em debate para pedir 'voto de revolta', e campanha de Lula mira indecisos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-usa-interferencia-em-debate-para-pedir-voto-de-revolta-e-campanha-de-lula-mira-indecisos.shtml)_
+
