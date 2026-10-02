@@ -17,3 +17,6 @@
 - **[2026-09-22 13:37 UTC]** Ptolomeu IV: Ex-governador Gladson Camelí é alvo de operação no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/22/ex-governador-gladson-cameli-e-alvo-de-operacao-da-pf-em-rio-branco.ghtml)_
 
+- **[2026-10-01 13:42 UTC]** Qual é o número de Gladson Camelí (PP) para o Senado no Acre?
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-gladson-cameli-pp-para-o-senado-no-acre.ghtml)_
+
