@@ -3284,3 +3284,6 @@
 - **[2026-10-02 22:13 UTC]** Datafolha: Em MG, Lula tem 42% das intenções de voto e Flávio, 36%, no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/datafolha-em-mg-lula-tem-42percent-das-intencoes-de-voto-e-flavio-36percent-no-primeiro-turno.ghtml)_
 
+- **[2026-10-02 22:02 UTC]** Análise: Decisão de Flávio, atribuída à ‘censura’, só aconteceu depois da imposição de Renan no debate
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/analise-decisao-de-flavio-atribuida-a-censura-so-aconteceu-depois-da-imposicao-de-renan-no-debate.ghtml)_
+
