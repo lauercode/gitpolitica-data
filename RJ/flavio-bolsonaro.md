@@ -3239,3 +3239,6 @@
 - **[2026-10-02 10:45 UTC]** Flávio pede investigação ao STF contra deputados do PT
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-pede-investigacao-stf-contra-deputados-pt/)_
 
+- **[2026-10-02 14:04 UTC]** PF investiga financiamento de mansão de Flávio Bolsonaro pelo BRB
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/02/pf-investiga-financiamento-de-manso-de-flvio-bolsonaro-pelo-brb.ghtml)_
+
