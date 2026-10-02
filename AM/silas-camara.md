@@ -1109,3 +1109,6 @@ direitos
 - **[2026-10-02 02:16 UTC]** Maioria no eleitorado, minoria no poder: no Paraná, mulheres representam apenas 35% das candidaturas para Assembleia e Câmara dos Deputados
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/01/maioria-no-eleitorado-minoria-no-poder-no-parana-mulheres-representam-apenas-35percent-das-candidaturas-para-assembleia-e-camara-dos-deputados.ghtml)_
 
+- **[2026-10-02 03:00 UTC]** VÍDEO: por que a eleição de 2026 influencia a escolha dos presidentes da Câmara e do Senado?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/10/02/video-por-que-a-eleicao-de-2026-influencia-a-escolha-dos-presidentes-da-camara-e-do-senado.ghtml)_
+
