@@ -3203,3 +3203,6 @@
 - **[2026-10-02 08:00 UTC]** Flávio fez campanha marcada por crises e caso ‘Dark Horse’, mas tem candidatura consolidada
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/flavio-fez-campanha-marcada-por-crises-e-caso-dark-horse-mas-tem-candidatura-consolidada.ghtml)_
 
+- **[2026-10-02 03:33 UTC]** Live de Flávio frustra meta de visualizações e fica abaixo de audiência de Lula em podcast
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/live-de-flvio-frustra-meta-de-visualizaes-e-fica-abaixo-de-audincia-de-lula-em-podcast.ghtml)_
+
