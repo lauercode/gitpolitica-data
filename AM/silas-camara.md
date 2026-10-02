@@ -1100,3 +1100,6 @@ direitos
 - **[2026-10-02 00:30 UTC]** As 10 principais apostas do PL para a Câmara dos Deputados na eleição de domingo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/as-10-principais-apostas-do-pl-para-a-camara-dos-deputados-na-eleicao-de-domingo/)_
 
+- **[2026-10-01 14:54 UTC]** Aldo Clemente é eleito presidente da Câmara Municipal de Natal; conheça nova mesa diretora
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/01/novo-presidente-eleito-camara-municipal-natal-mesa-diretora.ghtml)_
+
