@@ -3158,3 +3158,6 @@
 - **[2026-10-01 19:12 UTC]** Fachin rejeita pedido de Flávio para afastar Dino de casos ligados a eleições
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/fachin-rejeita-pedido-de-flavio-para-afastar-dino-de-casos-ligados-a-eleicoes.ghtml)_
 
+- **[2026-10-02 00:25 UTC]** Lula diz que Flávio Bolsonaro é 'vira-lata' e mandou irmão aos EUA para falar mal do Brasil
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/lula-diz-que-flavio-bolsonaro-e-vira-lata-e-mandou-irmao-aos-eua-para-falar-mal-do-brasil.ghtml)_
+
