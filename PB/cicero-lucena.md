@@ -77,3 +77,6 @@
 - **[2026-10-02 19:11 UTC]** Cícero Lucena defende investimento em recursos hídricos e financiamento para pequenos agricultores da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/02/cicero-lucena-defende-investimento-em-recursos-hidricos-e-financiamento-para-pequenos-agricultores-da-paraiba.ghtml)_
 
+- **[2026-10-02 10:57 UTC]** Homem é preso em ato de campanha de Cícero Lucena, candidato ao governo da Paraíba, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/02/homem-e-preso-em-ato-de-campanha-de-cicero-lucena-candidato-ao-governo-da-paraiba-em-joao-pessoa.ghtml)_
+
