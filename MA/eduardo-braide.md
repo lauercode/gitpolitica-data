@@ -44,3 +44,6 @@
 - **[2026-10-01 12:43 UTC]** Qual é o número de Eduardo Braide (PSD) para o governo do Maranhão?
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-eduardo-braide-psd-para-o-governo-do-maranhao.ghtml)_
 
+- **[2026-10-01 23:26 UTC]** Eduardo Braide defende incentivo à agricultura familiar para combater insegurança alimentar no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/eduardo-braide-defende-incentivo-a-agricultura-familiar-para-combater-inseguranca-alimentar-no-ma.ghtml)_
+
