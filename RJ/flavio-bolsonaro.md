@@ -3251,3 +3251,6 @@
 - **[2026-10-02 15:30 UTC]** Em livro sobre Bolsonaro, Flávio nega golpe militar, elogia Ustra e questiona urnas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-livro-sobre-bolsonaro-flavio-nega-golpe-militar-elogia-ustra-e-questiona-urnas.shtml)_
 
+- **[2026-10-02 14:58 UTC]** 'Globo adicionou Renan, Flávio saiu do grupo'; os memes do debate cancelado da emissora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/globo-adicionou-renan-flavio-saiu-do-grupo-os-memes-do-debate-cancelado-da-emissora.shtml)_
+
