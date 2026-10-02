@@ -32,3 +32,6 @@
 - **[2026-10-01 12:34 UTC]** Jalser Renier é preso pela PF por compra de votos pela segunda vez em uma semana em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/jalser-renier-e-preso-novamente-pela-pf-em-roraima.ghtml)_
 
+- **[2026-10-02 12:00 UTC]** Planilhas no closet e 'BU' de R$ 500: como PF descobriu esquema de compra de votos de Jalser Renier
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/02/planilhas-no-closet-e-bu-de-r-500-como-pf-descobriu-esquema-de-compra-de-votos-de-jalser-renier.ghtml)_
+
