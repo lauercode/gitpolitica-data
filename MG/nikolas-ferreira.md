@@ -47,3 +47,6 @@
 - **[2026-10-01 16:54 UTC]** Guilherme Cortez, do PSOL, quer ser rival de Nikolas Ferreira em Brasília
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/10/guilherme-cortez-do-psol-quer-ser-rival-de-nikolas-ferreira-em-brasilia.shtml)_
 
+- **[2026-10-02 20:50 UTC]** Por que Nikolas Ferreira enfureceu de vez a campanha eleitoral dos petistas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/por-que-nikolas-ferreira-enfureceu-de-vez-a-campanha-eleitoral-dos-petistas/)_
+
