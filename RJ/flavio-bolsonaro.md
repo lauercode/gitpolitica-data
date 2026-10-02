@@ -3293,3 +3293,6 @@
 - **[2026-10-02 21:40 UTC]** Datafolha: Em SP, Flávio Bolsonaro registra 39% das intenções de voto ante 38% de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/datafolha-em-sp-flvio-bolsonaro-registra-39-pontos-percentuais-das-intenes-de-voto-ante-38-de-lula.ghtml)_
 
+- **[2026-10-02 21:20 UTC]** Trump não responde se apoiará Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/trump-no-responde-se-apoiar-flvio-bolsonaro.ghtml)_
+
