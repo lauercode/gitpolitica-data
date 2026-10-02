@@ -107,3 +107,6 @@
 - **[2026-10-01 14:24 UTC]** Eleições 2026 no Paraná: Sergio Moro concede entrevistas e vai às ruas com apoiadores na Região Metropolitana de Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/01/eleicoes-2026-no-parana-agenda-sergio-moro-1-outubro.ghtml)_
 
+- **[2026-10-02 13:31 UTC]** Eleições 2026 no Paraná: Sergio Moro encontra seguidores e eleitores na Região Metropolitana de Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/02/eleicoes-2026-no-parana-sergio-moro.ghtml)_
+
