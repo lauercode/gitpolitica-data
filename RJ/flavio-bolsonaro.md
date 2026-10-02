@@ -3212,3 +3212,6 @@
 - **[2026-10-02 13:43 UTC]** Lula e Flávio Bolsonaro focam reta final no Sudeste, onde petista avança e anima campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/02/lula-e-flavio-bolsonaro-focam-reta-final-no-sudeste-onde-petista-avanca-e-anima-campanha.ghtml)_
 
+- **[2026-10-02 13:16 UTC]** MP Eleitoral pede multa a Lula, Flávio Bolsonaro e outros candidatos por propaganda irregular
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/02/mp-eleitoral-pede-multa-a-lula-flavio-bolsonaro-e-outros-candidatos-por-propaganda-irregular.ghtml)_
+
