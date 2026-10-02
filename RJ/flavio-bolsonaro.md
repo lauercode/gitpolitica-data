@@ -3188,3 +3188,6 @@
 - **[2026-10-02 00:31 UTC]** Em horário eleitoral, Lula retoma ataques a Flávio e o senador exalta trajetória na campanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/em-horario-eleitoral-lula-retoma-ataques-a-flavio-e-o-senador-exalta-trajetoria-na-campanha.ghtml)_
 
+- **[2026-10-01 22:35 UTC]** Flávio Bolsonaro desiste de participar do debate da TV Globo a menos de duas horas do programa
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/flavio-bolsonaro-desiste-de-ir-ao-debate-da-tv-globo.ghtml)_
+
