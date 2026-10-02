@@ -20,3 +20,6 @@
 - **[2026-09-29 17:52 UTC]** Fachin, do STF, e Salomão, do STJ, apertam controle sobre precatórios
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/29/fachin-e-salomo-respondem-a-gilmar-com-propostas-para-ampliar-controle-sobre-precatrios.ghtml)_
 
+- **[2026-10-02 15:35 UTC]** Salomão faz três eventos da revista Justiça & Cidadania no STJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2026/10/salomao-faz-tres-eventos-da-revista-justica-cidadania-no-stj.shtml)_
+
