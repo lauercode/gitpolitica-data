@@ -266,3 +266,6 @@
 - **[2026-10-02 18:40 UTC]** A dois dias do 1º turno, Alcolumbre decide colocar em pauta tema que foi vitrine da campanha de lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alcolumbre-marca-votacao-da-pec-da-escala-6x1-para-terca-feira-6.shtml)_
 
+- **[2026-10-02 22:23 UTC]** Alcolumbre marca análise da PEC do fim da escala 6×1 para 2 dias após o 1º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/alcolumbre-marca-analise-da-pec-do-fim-da-escala-6x1-para-2-dias-apos-o-1o-turno/)_
+
