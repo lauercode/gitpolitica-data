@@ -149,3 +149,6 @@
 - **[2026-09-21 17:14 UTC]** Um quarto da Mata Atlântica é de vegetação secundária, diz MapBiomas
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/um-quarto-da-mata-atlantica-e-de-vegetacao-secundaria-diz-mapbiomas)_
 
+- **[2026-10-02 10:27 UTC]** Vanessa da Mata, pagode e festa à fantasia: confira a agenda cultural do fim de semana em SE
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/02/confira-a-agenda-cultural-do-fim-de-semana-em-se.ghtml)_
+
