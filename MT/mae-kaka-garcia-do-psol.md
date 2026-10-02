@@ -98,3 +98,6 @@
 - **[2026-10-01 13:42 UTC]** Qual é o número de Professor Inacio Moreira (PSOL) para o Senado no Acre?
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-professor-inacio-moreira-psol-para-o-senado-no-acre.ghtml)_
 
+- **[2026-10-01 23:23 UTC]** Candidatos a deputado federal pelo PSOL no PA; veja quem são e os números
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/01/candidatos-a-deputado-federal-pelo-psol-no-pa-veja-quem-sao-e-os-numeros.ghtml)_
+
