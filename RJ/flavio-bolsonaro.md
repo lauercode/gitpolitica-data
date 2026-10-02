@@ -3227,3 +3227,6 @@
 - **[2026-10-02 11:31 UTC]** Atrás nas pesquisas, Flávio Bolsonaro volta a desacreditar as eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/atras-nas-pesquisas-flavio-bolsonaro-volta-a-desacreditar-as-eleicoes.shtml)_
 
+- **[2026-10-02 09:03 UTC]** Entrevista de Lula no Flow já foi vista por 10 milhões de pessoas, e live de Flávio, por 5 milhões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/entrevista-de-lula-no-flow-ja-foi-vista-por-10-milhoes-de-pessoas-e-live-de-flavio-por-5-milhoes.shtml)_
+
