@@ -17,3 +17,6 @@
 - **[2026-08-17 19:27 UTC]** JHC, Renan Filho, Alfredo Gaspar: entenda as reviravoltas nas chapas em Alagoas
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/17/jhc-renan-filho-alfredo-gaspar-entenda-as-reviravoltas-nas-chapas-em-alagoas.ghtml)_
 
+- **[2026-10-02 08:00 UTC]** Vice inesperado, Gaspar foca ação no NE
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/vice-inesperado-gaspar-foca-acao-no-ne.ghtml)_
+
