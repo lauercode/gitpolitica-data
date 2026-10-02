@@ -3236,3 +3236,6 @@
 - **[2026-10-02 11:23 UTC]** Maior bancada do Congresso, bancada da agropecuária oficializa apoio a Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/maior-bancada-congresso-bancada-agropecuaria-oficializa-apoio-flavio/)_
 
+- **[2026-10-02 10:45 UTC]** Flávio pede investigação ao STF contra deputados do PT
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-pede-investigacao-stf-contra-deputados-pt/)_
+
