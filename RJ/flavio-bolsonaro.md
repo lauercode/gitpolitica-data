@@ -3290,3 +3290,6 @@
 - **[2026-10-02 22:02 UTC]** Datafolha: No RJ, Flávio Bolsonaro tem 45% das intenções de voto e Lula, 38%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/datafolha-no-rj-flvio-bolsonaro-tem-45-pontos-percentuais-das-intenes-de-voto-e-lula-38.ghtml)_
 
+- **[2026-10-02 21:40 UTC]** Datafolha: Em SP, Flávio Bolsonaro registra 39% das intenções de voto ante 38% de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/datafolha-em-sp-flvio-bolsonaro-registra-39-pontos-percentuais-das-intenes-de-voto-ante-38-de-lula.ghtml)_
+
