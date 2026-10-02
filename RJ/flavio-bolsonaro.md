@@ -3176,3 +3176,6 @@
 - **[2026-10-01 20:42 UTC]** TV Globo cancela debate após desistência de Flávio Bolsonaro e ausência de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tv-globo-cancela-debate-apos-desistencia-de-flavio-bolsonaro-e-ausencia-de-lula.shtml)_
 
+- **[2026-10-01 19:29 UTC]** Flávio Bolsonaro chama Lula de 'fujão' e fala em 'censura nas eleições' após desistir de debate na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-desiste-de-ir-ao-debate-da-globo.shtml)_
+
