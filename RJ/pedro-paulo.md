@@ -476,3 +476,6 @@
 - **[2026-10-01 16:16 UTC]** STF suspende afastamento de Paulo Curió, prefeito de Turilândia, investigado por suposto esquema de corrpução
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/01/stf-suspende-afastamento-de-paulo-curio-prefeito-de-turilandia-investigado-por-suposto-esquema-de-corrpucao.ghtml)_
 
+- **[2026-10-01 16:16 UTC]** STF suspende afastamento de Paulo Curió, prefeito de Turilândia investigado por esquema que teria desviado R$ 56 milhões
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/01/stf-suspende-afastamento-de-paulo-curio-prefeito-de-turilandia-investigado-por-suposto-esquema-de-corrpucao.ghtml)_
+
