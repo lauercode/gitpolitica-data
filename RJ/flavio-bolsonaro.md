@@ -3281,3 +3281,6 @@
 - **[2026-10-02 23:45 UTC]** Candidatos de São Paulo pressionam Centrão por apoio a Flávio em eventual 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-sao-paulo-pressionam-centrao-apoio-flavio-eventual-2o-turno/)_
 
+- **[2026-10-02 22:13 UTC]** Datafolha: Em MG, Lula tem 42% das intenções de voto e Flávio, 36%, no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/datafolha-em-mg-lula-tem-42percent-das-intencoes-de-voto-e-flavio-36percent-no-primeiro-turno.ghtml)_
+
