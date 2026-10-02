@@ -3260,3 +3260,6 @@
 - **[2026-10-02 16:16 UTC]** Distância entre Lula e Flávio Bolsonaro é de 3 pontos no 1º turno no Agregador de Pesquisas da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-02 17:35 UTC]** Em ato no Rio, Lula ataca Flávio Bolsonaro e mostra preocupação com abstenção de idosos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/em-ato-no-rio-lula-ataca-flavio-bolsonaro-e-mostra-preocupacao-com-abstencao-de-idosos.ghtml)_
+
