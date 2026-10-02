@@ -3224,3 +3224,6 @@
 - **[2026-10-02 12:01 UTC]** Quem é Flávio Bolsonaro, que busca imagem moderada; assista vídeo especial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-flavio-bolsonaro-que-busca-imagem-moderada-assista-video-especial.shtml)_
 
+- **[2026-10-02 11:31 UTC]** Atrás nas pesquisas, Flávio Bolsonaro volta a desacreditar as eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/atras-nas-pesquisas-flavio-bolsonaro-volta-a-desacreditar-as-eleicoes.shtml)_
+
