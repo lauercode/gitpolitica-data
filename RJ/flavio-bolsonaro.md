@@ -3182,3 +3182,6 @@
 - **[2026-10-02 01:27 UTC]** Flávio diz que Lula usou “amigos no Judiciário” para censurar debate
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-diz-que-lula-usou-amigos-no-judiciario-para-censurar-debate/)_
 
+- **[2026-10-01 23:40 UTC]** Dino pode anular uma eventual vitória de Flávio Bolsonaro nas urnas?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/dino-pode-anular-uma-eventual-vitoria-de-flavio-bolsonaro-nas-urnas/)_
+
