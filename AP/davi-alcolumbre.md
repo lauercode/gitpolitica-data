@@ -263,3 +263,6 @@
 - **[2026-09-30 20:22 UTC]** Aliado de Alcolumbre, Rodrigo Pacheco toma posse como ministro do TCU
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/30/aliado-de-alcolumbre-rodrigo-pacheco-toma-posse-como-ministro-do-tcu.ghtml)_
 
+- **[2026-10-02 18:40 UTC]** A dois dias do 1º turno, Alcolumbre decide colocar em pauta tema que foi vitrine da campanha de lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alcolumbre-marca-votacao-da-pec-da-escala-6x1-para-terca-feira-6.shtml)_
+
