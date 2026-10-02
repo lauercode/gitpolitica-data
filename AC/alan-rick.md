@@ -530,3 +530,6 @@
 - **[2026-10-01 14:03 UTC]** Qual é o número de Alan Rick (Republicanos) para o governo do Acre?
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-alan-rick-republicanos-para-o-governo-do-acre.ghtml)_
 
+- **[2026-10-02 16:12 UTC]** A Fazenda 18: Carol Lekker revela morte de Rick para Adryana após eliminação; entenda a polêmica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-carol-lekker-revela-morte-de-rick-para-adryana-apos-eliminacao-entenda-a-polemica.shtml)_
+
