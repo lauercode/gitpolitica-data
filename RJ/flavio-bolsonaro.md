@@ -3206,3 +3206,6 @@
 - **[2026-10-02 03:33 UTC]** Live de Flávio frustra meta de visualizações e fica abaixo de audiência de Lula em podcast
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/live-de-flvio-frustra-meta-de-visualizaes-e-fica-abaixo-de-audincia-de-lula-em-podcast.ghtml)_
 
+- **[2026-10-02 14:00 UTC]** Preferência por Lula, cautela ao criticar Flávio: como a China (e a imprensa local) vê a eleição no Brasil
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/02/preferencia-por-lula-cautela-ao-criticar-flavio-como-a-china-e-a-imprensa-local-ve-a-eleicao-no-brasil.ghtml)_
+
