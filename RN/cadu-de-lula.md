@@ -95,3 +95,6 @@
 - **[2026-10-01 11:00 UTC]** Governadora do DF explora antipetismo e mira candidato de Lula na reta final da campanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governadora-do-df-explora-antipetismo-e-mira-candidato-de-lula-na-reta-final-da-campanha.shtml)_
 
+- **[2026-10-01 21:16 UTC]** Cadu de Lula promete entregar novo Hospital Metropolitano em Parnamirim
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/01/cadu-de-lula-promete-entregar-novo-hospital-metropolitano-em-parnamirim.ghtml)_
+
