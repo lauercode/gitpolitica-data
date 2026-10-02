@@ -3248,3 +3248,6 @@
 - **[2026-10-02 16:21 UTC]** CNDH pede monitoramento à Comissão Interamericana e cita Flávio Bolsonaro e Nossa Senhora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/cndh-pede-monitoramento-a-comissao-interamericana-e-cita-flavio-bolsonaro-e-nossa-senhora.shtml)_
 
+- **[2026-10-02 15:30 UTC]** Em livro sobre Bolsonaro, Flávio nega golpe militar, elogia Ustra e questiona urnas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-livro-sobre-bolsonaro-flavio-nega-golpe-militar-elogia-ustra-e-questiona-urnas.shtml)_
+
