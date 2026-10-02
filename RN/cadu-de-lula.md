@@ -98,3 +98,6 @@
 - **[2026-10-01 21:16 UTC]** Cadu de Lula promete entregar novo Hospital Metropolitano em Parnamirim
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/01/cadu-de-lula-promete-entregar-novo-hospital-metropolitano-em-parnamirim.ghtml)_
 
+- **[2026-10-02 22:19 UTC]** Cadu de Lula caminha pela Zona Norte de Natal e promete ações contra alagamentos
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/02/cadu-de-lula-caminha-pela-zona-norte-de-natal-e-promete-acoes-contra-alagamentos.ghtml)_
+
