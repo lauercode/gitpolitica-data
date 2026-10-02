@@ -3263,3 +3263,6 @@
 - **[2026-10-02 17:35 UTC]** Em ato no Rio, Lula ataca Flávio Bolsonaro e mostra preocupação com abstenção de idosos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/em-ato-no-rio-lula-ataca-flavio-bolsonaro-e-mostra-preocupacao-com-abstencao-de-idosos.ghtml)_
 
+- **[2026-10-02 19:49 UTC]** Desistência de Flávio serviu de pretexto para Globo cancelar debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/desistencia-de-flavio-serviu-de-pretexto-para-globo-cancelar-debate.shtml)_
+
