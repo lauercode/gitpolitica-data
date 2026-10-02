@@ -1112,3 +1112,6 @@ direitos
 - **[2026-10-02 03:00 UTC]** VÍDEO: por que a eleição de 2026 influencia a escolha dos presidentes da Câmara e do Senado?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/10/02/video-por-que-a-eleicao-de-2026-influencia-a-escolha-dos-presidentes-da-camara-e-do-senado.ghtml)_
 
+- **[2026-10-01 23:22 UTC]** Dos 24 deputados estaduais de Roraima, 21 tentam reeleição e um disputa vaga na Câmara em 2026
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/dos-24-deputados-estaduais-de-roraima-21-tentam-reeleicao-e-um-disputa-vaga-na-camara-em-2026.ghtml)_
+
