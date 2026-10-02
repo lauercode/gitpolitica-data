@@ -3194,3 +3194,6 @@
 - **[2026-10-01 22:08 UTC]** Datafolha: Lula tem 42% e Flávio, 38% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/datafolha-lula-tem-48percent-e-flavio-bolsonaro-45percentpercent-no-primeiro-turno.ghtml)_
 
+- **[2026-10-02 05:00 UTC]** Em busca de votos, Flávio Bolsonaro promete afrouxar leis ambientais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/em-busca-de-votos-flavio-bolsonaro-promete-afrouxar-leis-ambientais.shtml)_
+
