@@ -3170,3 +3170,6 @@
 - **[2026-10-01 21:52 UTC]** Datafolha: Lula tem 50% entre católicos, e Flávio, 52% entre evangélicos no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-50-entre-catolicos-e-flavio-52-entre-evangelicos-no-1o-turno.shtml)_
 
+- **[2026-10-01 20:46 UTC]** Lula e Flávio a ouvirem a palavra debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/lula-e-flavio-a-ouvirem-a-palavra-debate.shtml)_
+
