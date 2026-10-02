@@ -3209,3 +3209,6 @@
 - **[2026-10-02 14:00 UTC]** Preferência por Lula, cautela ao criticar Flávio: como a China (e a imprensa local) vê a eleição no Brasil
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/02/preferencia-por-lula-cautela-ao-criticar-flavio-como-a-china-e-a-imprensa-local-ve-a-eleicao-no-brasil.ghtml)_
 
+- **[2026-10-02 13:43 UTC]** Lula e Flávio Bolsonaro focam reta final no Sudeste, onde petista avança e anima campanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/02/lula-e-flavio-bolsonaro-focam-reta-final-no-sudeste-onde-petista-avanca-e-anima-campanha.ghtml)_
+
