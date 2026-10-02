@@ -71,3 +71,6 @@
 - **[2026-09-30 13:41 UTC]** Pablo Marçal anuncia apoio a Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pablo-marcal-apoio-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-02 20:36 UTC]** Pablo Marçal teve voo internacional de R$ 1 milhão pago por empresa da qual Vorcaro era sócio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/02/pablo-maral-teve-voo-internacional-de-r-1-milho-pago-por-empresa-da-qual-vorcaro-era-scio.ghtml)_
+
