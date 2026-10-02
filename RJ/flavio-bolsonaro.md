@@ -3185,3 +3185,6 @@
 - **[2026-10-01 23:40 UTC]** Dino pode anular uma eventual vitória de Flávio Bolsonaro nas urnas?
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/dino-pode-anular-uma-eventual-vitoria-de-flavio-bolsonaro-nas-urnas/)_
 
+- **[2026-10-02 00:31 UTC]** Em horário eleitoral, Lula retoma ataques a Flávio e o senador exalta trajetória na campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/em-horario-eleitoral-lula-retoma-ataques-a-flavio-e-o-senador-exalta-trajetoria-na-campanha.ghtml)_
+
