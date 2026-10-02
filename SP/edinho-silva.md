@@ -11,3 +11,6 @@
 - **[2026-09-23 23:45 UTC]** Edinho Silva reconhece falhas em  distribuição de materiais de campanha de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/23/edinho-silva-reconhece-falhas-em-distribuicao-de-materiais-de-campanha-de-lula.ghtml)_
 
+- **[2026-10-02 18:28 UTC]** Edinho Silva nega “bala de prata” do PT contra Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/edinho-silva-nega-bala-de-prata-pt-contra-flavio-bolsonaro/)_
+
