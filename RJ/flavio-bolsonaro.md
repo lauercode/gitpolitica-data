@@ -3161,3 +3161,6 @@
 - **[2026-10-02 00:25 UTC]** Lula diz que Flávio Bolsonaro é 'vira-lata' e mandou irmão aos EUA para falar mal do Brasil
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/lula-diz-que-flavio-bolsonaro-e-vira-lata-e-mandou-irmao-aos-eua-para-falar-mal-do-brasil.ghtml)_
 
+- **[2026-10-01 22:16 UTC]** Fundador da revista piauí questiona apoio empresarial a Flávio Bolsonaro e aponta riscos à democracia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fundador-da-revista-piaui-questiona-apoio-empresarial-a-flavio-bolsonaro-e-aponta-riscos-a-democracia.shtml)_
+
