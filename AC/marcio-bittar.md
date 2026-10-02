@@ -11,3 +11,6 @@
 - **[2026-08-31 17:46 UTC]** Márcio Bittar cancela entrevista na Rede Amazônica após discordar de regra sobre uso de itens de campanha
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/08/31/marcio-bittar-cancela-entrevista-na-rede-amazonica-apos-discordar-de-regra-sobre-uso-de-itens-de-campanha.ghtml)_
 
+- **[2026-10-01 13:42 UTC]** Qual é o número de Marcio Bittar (PL) para o Senado no Acre?
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-marcio-bittar-pl-para-o-senado-no-acre.ghtml)_
+
