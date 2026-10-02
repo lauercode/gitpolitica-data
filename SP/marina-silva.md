@@ -71,3 +71,6 @@
 - **[2026-09-28 13:19 UTC]** Marina Silva diz que Salles desrespeita eleitores ao desistir de Senado e que eleição não é vale-tudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/marina-silva-diz-que-salles-desrespeita-eleitores-ao-desistir-de-senado-e-que-eleicao-nao-e-vale-tudo.shtml)_
 
+- **[2026-10-01 20:43 UTC]** Márcio França sugere voto nulo ou 'em um homem' para senador durante ato, e Marina Silva e Tebet rebatem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/marcio-franca-sugere-voto-nulo-ou-em-um-homem-para-senador-durante-ato-e-marina-silva-e-tebet-rebatem.shtml)_
+
