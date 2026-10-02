@@ -35,3 +35,6 @@
 - **[2026-10-02 12:00 UTC]** Planilhas no closet e 'BU' de R$ 500: como PF descobriu esquema de compra de votos de Jalser Renier
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/02/planilhas-no-closet-e-bu-de-r-500-como-pf-descobriu-esquema-de-compra-de-votos-de-jalser-renier.ghtml)_
 
+- **[2026-10-01 20:12 UTC]** FOTO: Jalser Renier veste camisa laranja de presidiário após ser alvo da PF por compra de votos em RR
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/foto-jalser-renier-veste-camisa-laranja-de-presidiario-apos-ser-alvo-da-pf-por-compra-de-votos-em-rr.ghtml)_
+
