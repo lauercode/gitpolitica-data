@@ -3245,3 +3245,6 @@
 - **[2026-10-02 18:32 UTC]** PF investiga empréstimo do BRB a Flávio Bolsonaro para compra de uma mansão avaliada em R$ 6 milhões
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/02/pf-investiga-emprestimo-do-brb-a-flavio-bolsonaro-para-compra-de-uma-mansao-avaliada-em-r-6-milhoes.ghtml)_
 
+- **[2026-10-02 16:21 UTC]** CNDH pede monitoramento à Comissão Interamericana e cita Flávio Bolsonaro e Nossa Senhora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/cndh-pede-monitoramento-a-comissao-interamericana-e-cita-flavio-bolsonaro-e-nossa-senhora.shtml)_
+
