@@ -3230,3 +3230,6 @@
 - **[2026-10-02 09:03 UTC]** Entrevista de Lula no Flow já foi vista por 10 milhões de pessoas, e live de Flávio, por 5 milhões
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/entrevista-de-lula-no-flow-ja-foi-vista-por-10-milhoes-de-pessoas-e-live-de-flavio-por-5-milhoes.shtml)_
 
+- **[2026-10-02 15:03 UTC]** Mendonça notifica “X” sobre posts relacionados a Flávio e Nossa Senhora
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-notifica-x-posts-relacionados-flavio-nossa-senhora/)_
+
