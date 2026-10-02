@@ -101,3 +101,6 @@
 - **[2026-10-01 23:23 UTC]** Candidatos a deputado federal pelo PSOL no PA; veja quem são e os números
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/01/candidatos-a-deputado-federal-pelo-psol-no-pa-veja-quem-sao-e-os-numeros.ghtml)_
 
+- **[2026-10-02 16:56 UTC]** Presidente da federação PSOL-Rede, Juliano Medeiros pede ao Itamaraty expulsão de diplomata dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/presidente-da-federacao-psol-rede-juliano-medeiros-pede-ao-itamaraty-expulsao-de-diplomata-dos-eua.shtml)_
+
