@@ -3269,3 +3269,6 @@
 - **[2026-10-02 18:15 UTC]** Trump evita falar de Flávio Bolsonaro e volta a dizer que está acompanhando 'eleições de perto'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-evita-falar-de-flavio-bolsonaro-e-volta-a-dizer-que-esta-acompanhando-eleicoes-de-perto.shtml)_
 
+- **[2026-10-02 17:48 UTC]** Renan Santos chama Flávio Bolsonaro para debate em troca de eventual apoio no 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/renan-santos-chama-flavio-bolsonaro-para-debate-em-troca-de-eventual-apoio-no-1o-turno.shtml)_
+
