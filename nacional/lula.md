@@ -1043,3 +1043,6 @@
 - **[2026-10-01 13:52 UTC]** Quem é Renan Santos, o líder roqueiro do MBL que ataca Flávio e Lula e tenta ser presidente em 2026; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-renan-santos-o-lider-roqueiro-do-mbl-que-ataca-flavio-e-lula-e-tenta-ser-presidente-em-2026-veja-video.shtml)_
 
+- **[2026-10-02 12:01 UTC]** Quem é Lula hoje, o presidente que tenta chegar ao quarto mandato; assista vídeo especial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-lula-hoje-o-presidente-que-tenta-chegar-ao-quarto-mandato-assista-video-especial.shtml)_
+
