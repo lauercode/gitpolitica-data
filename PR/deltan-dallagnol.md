@@ -65,3 +65,6 @@
 - **[2026-10-01 01:46 UTC]** Qual é o número de Deltan Dallagnol (Novo) para o Senado no Paraná?
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-deltan-dallagnol-novo-para-o-senado-no-parana.ghtml)_
 
+- **[2026-10-02 18:38 UTC]** MPE defende que o TSE mantenha candidatura de Deltan Dallagnol ao Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/02/mpe-defende-que-o-tse-mantenha-candidatura-de-deltan-dallagnol-ao-senado.ghtml)_
+
