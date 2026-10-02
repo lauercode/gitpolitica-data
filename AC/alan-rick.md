@@ -527,3 +527,6 @@
 - **[2026-09-30 19:22 UTC]** 'Para sempre na memória', desabafa primo de Rick uma semana após a morte do cantor
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/30/para-sempre-na-memoria-desabafa-primo-de-rick-uma-semana-apos-a-morte-do-cantor.ghtml)_
 
+- **[2026-10-01 14:03 UTC]** Qual é o número de Alan Rick (Republicanos) para o governo do Acre?
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-alan-rick-republicanos-para-o-governo-do-acre.ghtml)_
+
