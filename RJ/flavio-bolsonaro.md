@@ -3266,3 +3266,6 @@
 - **[2026-10-02 19:49 UTC]** Desistência de Flávio serviu de pretexto para Globo cancelar debate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/desistencia-de-flavio-serviu-de-pretexto-para-globo-cancelar-debate.shtml)_
 
+- **[2026-10-02 18:15 UTC]** Trump evita falar de Flávio Bolsonaro e volta a dizer que está acompanhando 'eleições de perto'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-evita-falar-de-flavio-bolsonaro-e-volta-a-dizer-que-esta-acompanhando-eleicoes-de-perto.shtml)_
+
