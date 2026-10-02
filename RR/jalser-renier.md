@@ -41,3 +41,6 @@
 - **[2026-10-02 20:23 UTC]** Jalser Renier é solto após segunda prisão em uma semana por compra de votos
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/02/jalser-renier-e-solto-apos-segunda-prisao-em-uma-semana-por-compra-de-votos.ghtml)_
 
+- **[2026-10-02 19:54 UTC]** STF nega recurso da Ale-RR e mantém candidatura do ex-deputado Jalser Renier
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/02/stf-nega-recurso-da-ale-rr-e-mantem-candidatura-do-ex-deputado-jalser-renier.ghtml)_
+
