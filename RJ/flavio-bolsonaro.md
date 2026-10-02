@@ -3221,3 +3221,6 @@
 - **[2026-10-02 03:00 UTC]** Datafolha, 2º turno: veja como está a disputa entre Lula e Flávio Bolsonaro nos grupos sociais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/02/datafolha-lula-x-flavio-bolsonaro-grupos-sociais.ghtml)_
 
+- **[2026-10-02 12:01 UTC]** Quem é Flávio Bolsonaro, que busca imagem moderada; assista vídeo especial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-flavio-bolsonaro-que-busca-imagem-moderada-assista-video-especial.shtml)_
+
