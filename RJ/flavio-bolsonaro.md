@@ -3278,3 +3278,6 @@
 - **[2026-10-02 17:12 UTC]** Flávio herege! Unidos por Aparecida!
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2026/10/flavio-herege-unidos-por-aparecida.shtml)_
 
+- **[2026-10-02 23:45 UTC]** Candidatos de São Paulo pressionam Centrão por apoio a Flávio em eventual 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-sao-paulo-pressionam-centrao-apoio-flavio-eventual-2o-turno/)_
+
