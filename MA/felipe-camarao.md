@@ -47,3 +47,6 @@
 - **[2026-10-01 12:43 UTC]** Qual é o número de Felipe Camarão (PT) para o governo do Maranhão?
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-felipe-camarao-pt-para-o-governo-do-maranhao.ghtml)_
 
+- **[2026-10-01 23:35 UTC]** Felipe Camarão defende ampliar restaurantes populares e investir na agricultura familiar no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/felipe-camarao-defende-ampliar-restaurantes-populares-e-investir-na-agricultura-familiar-no-ma.ghtml)_
+
