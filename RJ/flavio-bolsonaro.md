@@ -3272,3 +3272,6 @@
 - **[2026-10-02 17:48 UTC]** Renan Santos chama Flávio Bolsonaro para debate em troca de eventual apoio no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/renan-santos-chama-flavio-bolsonaro-para-debate-em-troca-de-eventual-apoio-no-1o-turno.shtml)_
 
+- **[2026-10-02 17:34 UTC]** Datafolha: Lula lidera em MG e Flávio, no RJ no 1º turno; rivais estão empatados em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-lidera-em-mg-e-flavio-no-rj-no-1o-turno-rivais-estao-empatados-em-sp.shtml)_
+
