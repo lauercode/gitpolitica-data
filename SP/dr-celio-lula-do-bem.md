@@ -53,3 +53,6 @@
 - **[2026-09-30 19:21 UTC]** Personagem do debate em SP, 'Selo Ouro' do MEC foi criado por governo Lula em 2024
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/personagem-do-debate-em-sp-selo-ouro-do-mec-foi-criado-por-governo-lula-em-2024.shtml)_
 
+- **[2026-10-02 21:40 UTC]** Datafolha: Em SP, Flávio Bolsonaro registra 39% das intenções de voto ante 38% de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/datafolha-em-sp-flvio-bolsonaro-registra-39-pontos-percentuais-das-intenes-de-voto-ante-38-de-lula.ghtml)_
+
