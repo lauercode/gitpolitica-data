@@ -269,3 +269,6 @@
 - **[2026-10-02 22:23 UTC]** Alcolumbre marca análise da PEC do fim da escala 6×1 para 2 dias após o 1º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/alcolumbre-marca-analise-da-pec-do-fim-da-escala-6x1-para-2-dias-apos-o-1o-turno/)_
 
+- **[2026-10-02 21:30 UTC]** Alcolumbre pauta discussão do fim da escala 6x1 no plenário para a próxima semana
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/02/alcolumbre-pauta-discussao-do-fim-da-escala-6x1-no-plenario-para-a-proxima-semana.ghtml)_
+
