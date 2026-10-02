@@ -17,3 +17,6 @@
 - **[2026-09-14 15:46 UTC]** Plano de governo de Tião Bocalom prioriza agronegócio, prevê UPA 24h no interior e promete levar alunos para Nasa; VEJA detalhes
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/14/plano-de-governo-de-tiao-bocalom-prioriza-agronegocio-preve-upa-24h-no-interior-e-promete-levar-alunos-para-nasa-veja-detalhes.ghtml)_
 
+- **[2026-10-01 14:03 UTC]** Qual é o número de Tião Bocalom (PSDB) para o governo do Acre?
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-tiao-bocalom-psdb-para-o-governo-do-acre.ghtml)_
+
