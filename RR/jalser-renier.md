@@ -38,3 +38,6 @@
 - **[2026-10-01 20:12 UTC]** FOTO: Jalser Renier veste camisa laranja de presidiário após ser alvo da PF por compra de votos em RR
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/foto-jalser-renier-veste-camisa-laranja-de-presidiario-apos-ser-alvo-da-pf-por-compra-de-votos-em-rr.ghtml)_
 
+- **[2026-10-02 20:23 UTC]** Jalser Renier é solto após segunda prisão em uma semana por compra de votos
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/02/jalser-renier-e-solto-apos-segunda-prisao-em-uma-semana-por-compra-de-votos.ghtml)_
+
