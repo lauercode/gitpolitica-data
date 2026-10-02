@@ -65,3 +65,6 @@
 - **[2026-09-30 20:24 UTC]** Efraim Filho defende investimentos no agronegócio e em energias renováveis na Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/efraim-filho-defende-investimentos-no-agronegocio-e-em-energias-renovaveis-na-paraiba.ghtml)_
 
+- **[2026-10-02 21:29 UTC]** Efraim Filho defende mudança na Paraíba no encerramento da campanha antes do 1º turno
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/02/efraim-filho-defende-mudanca-na-paraiba-no-encerramento-da-campanha-antes-do-1o-turno.ghtml)_
+
