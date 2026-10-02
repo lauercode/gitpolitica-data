@@ -14,3 +14,6 @@
 - **[2026-09-16 17:46 UTC]** Patrus Ananias propõe alongar dívida com União em dez anos e elevar tributação
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/16/patrus-ananias-prope-alongar-dvida-com-unio-em-dez-anos-e-elevar-tributao.ghtml)_
 
+- **[2026-10-02 08:00 UTC]** Com ampla vantagem, Cleitinho deve ir ao segundo turno contra Patrus Ananias
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/com-ampla-vantagem-cleitinho-deve-ir-ao-segundo-turno-contra-patrus-ananias.ghtml)_
+
