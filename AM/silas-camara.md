@@ -1121,3 +1121,6 @@ direitos
 - **[2026-10-02 17:28 UTC]** Câmara e Senado farão checagem de informações para eleitores neste domingo
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1308075-camara-e-senado-farao-checagem-de-informacoes-para-eleitores-neste-domingo)_
 
+- **[2026-10-02 22:27 UTC]** Câmara divulga edital de novo concurso para Analista Legislativo
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1308132-camara-divulga-edital-de-novo-concurso-para-analista-legislativo)_
+
