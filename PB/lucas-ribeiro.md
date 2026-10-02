@@ -68,3 +68,6 @@
 - **[2026-09-30 21:48 UTC]** Qual é o número de Lucas Ribeiro (PP) para o governo da Paraíba?
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-lucas-ribeiro-pp-para-o-governo-da-paraiba.ghtml)_
 
+- **[2026-10-02 18:58 UTC]** Lucas Ribeiro promete continuidade de projeto para fortalecer empreendedorismo na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/02/lucas-ribeiro-promete-continuidade-de-projeto-para-fortalecer-empreendedorismo-na-paraiba.ghtml)_
+
