@@ -3326,3 +3326,6 @@
 - **[2026-10-02 20:18 UTC]** Datafolha no RJ: Flávio, 45%; Lula, 38%; Cury e Renan, 3%; Caiado, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/02/datafolha-no-rj-presidencia-2-outubro.ghtml)_
 
+- **[2026-10-02 23:00 UTC]** Lula e Flávio evitam escolher lado, mas China está no bastidor da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/10/lula-e-flavio-evitam-escolher-lado-mas-china-esta-no-bastidor-da-eleicao.shtml)_
+
