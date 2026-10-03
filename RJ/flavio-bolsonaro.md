@@ -3314,3 +3314,6 @@
 - **[2026-10-02 20:31 UTC]** Datafolha em MG: Lula, 42%; Flávio Bolsonaro, 36%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/02/datafolha-mg-presidente-2-outubro.ghtml)_
 
+- **[2026-10-02 20:22 UTC]** Datafolha em PE: Lula, 61%; Flávio Bolsonaro, 25%; Renan, 3%; Cury, 3%; Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/02/datafolha-pe-presidente-3-de-outubro.ghtml)_
+
