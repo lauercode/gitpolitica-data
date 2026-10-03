@@ -41,3 +41,6 @@
 - **[2026-09-18 23:03 UTC]** Indústria do livro está doente e descontos enganam leitores, diz Martins Fontes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/09/industria-do-livro-esta-doente-e-descontos-enganam-leitores-diz-martins-fontes.shtml)_
 
+- **[2026-10-02 23:00 UTC]** Editoras reagem a críticas de Martins Fontes contra descontos em livros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/editoras-reagem-a-criticas-de-martins-fontes-contra-descontos-em-livros.shtml)_
+
