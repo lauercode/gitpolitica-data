@@ -3317,3 +3317,6 @@
 - **[2026-10-02 20:22 UTC]** Datafolha em PE: Lula, 61%; Flávio Bolsonaro, 25%; Renan, 3%; Cury, 3%; Caiado, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/02/datafolha-pe-presidente-3-de-outubro.ghtml)_
 
+- **[2026-10-02 20:19 UTC]** Datafolha em SP: Flávio Bolsonaro, 39%; Lula, 38%; Cury, 5%; Caiado, 4%; Renan, 4%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/02/datafolha-em-sp-flavio-bolsonaro-39percent-lula-38percent-cury-5percent-caiado-4percent-renan-4percent-zema-1percent.ghtml)_
+
