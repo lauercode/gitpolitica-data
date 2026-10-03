@@ -74,3 +74,6 @@
 - **[2026-10-01 15:00 UTC]** Qual é o número de Hana Ghassan (MDB) para o governo do Pará?
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-hana-ghassan-mdb-para-o-governo-do-para.ghtml)_
 
+- **[2026-10-03 00:02 UTC]** Hana Ghassan propõe construir novos 'Hospitais da Mulher' e criar auxílio para vítimas de violência no PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/02/hana-ghassan-propoe-construir-novos-hospitais-da-mulher-e-criar-auxilio-para-vitimas-de-violencia-no-pa.ghtml)_
+
