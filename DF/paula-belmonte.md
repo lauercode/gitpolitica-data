@@ -14,3 +14,6 @@
 - **[2026-10-01 20:05 UTC]** Datafolha no DF: Celina Leão, 46%; Leandro Grass, 22%; Paula Belmonte, 9%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/01/datafolha-df-governador-1-outubro.ghtml)_
 
+- **[2026-10-03 21:20 UTC]** Datafolha no DF, votos válidos: Celina Leão, 55%; Leandro Grass, 27%; Paula Belmonte, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-governador-3-outubro.ghtml)_
+
