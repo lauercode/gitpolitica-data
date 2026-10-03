@@ -3335,3 +3335,6 @@
 - **[2026-10-02 21:25 UTC]** Faria Lima sabe que as contas de Flávio não fecham
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/faria-lima-sabe-que-as-contas-de-flavio-nao-fecham.shtml)_
 
+- **[2026-10-03 00:18 UTC]** Campanha de Lula lança minidocumentário com 'currículo' de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/campanha-de-lula-lanca-minidocumentario-com-curriculo-de-flavio.ghtml)_
+
