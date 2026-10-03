@@ -3299,3 +3299,6 @@
 - **[2026-10-02 20:02 UTC]** Lula e Flávio Bolsonaro fazem campanha nesta sexta-feira em Minas Gerais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/lula-e-flavio-bolsonaro-fazem-campanha-nesta-sexta-feira-em-minas-gerais.ghtml)_
 
+- **[2026-10-03 03:00 UTC]** Maior região eleitoral do país, Sudeste tem disputa apertada entre Lula e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/maior-regiao-eleitoral-do-pais-sudeste-tem-disputa-apertada-entre-lula-e-flavio-bolsonaro.ghtml)_
+
