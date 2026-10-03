@@ -92,3 +92,6 @@
 - **[2026-10-03 21:22 UTC]** Datafolha em PE, votos válidos: Raquel Lyra, 49%; João Campos, 48%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/datafolha-pe-governador-3-outubro.ghtml)_
 
+- **[2026-10-03 20:35 UTC]** Quaest em Pernambuco, votos válidos:  Raquel Lyra, 52%; João Campos, 47%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/quaest-pe-governador-3-de-outubro.ghtml)_
+
