@@ -17,3 +17,6 @@
 - **[2026-09-23 20:45 UTC]** Lula festeja Dirceu nas urnas enquanto Palocci continua banido após delatar o PT
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-festeja-dirceu-nas-urnas-enquanto-palocci-continua-banido-apos-delatar-o-pt/)_
 
+- **[2026-10-03 17:25 UTC]** Zeca Dirceu pede a Gilmar Mendes para anular votos de Deltan Dallagnol para o Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/zeca-dirceu-pede-a-gilmar-mendes-para-anular-votos-de-deltan-para-o-senado/)_
+
