@@ -3380,3 +3380,6 @@
 - **[2026-10-03 17:08 UTC]** Em último ato, Lula tenta driblar abstenção, critica Flávio e diz estar otimista para vencer no 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/em-ltimo-ato-lula-tenta-driblar-absteno-critica-flvio-e-diz-estar-otimista-para-vencer-no-1-turno.ghtml)_
 
+- **[2026-10-03 17:06 UTC]** Na véspera das eleições, Flávio diz que em eventual governo não indicará ‘comunista ou perseguidor político’ ao STF
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/na-vspera-das-eleies-flvio-diz-que-em-eventual-governo-no-indicar-comunista-ou-perseguidor-poltico-ao-stf.ghtml)_
+
