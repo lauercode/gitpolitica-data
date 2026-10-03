@@ -479,3 +479,6 @@
 - **[2026-10-01 16:16 UTC]** STF suspende afastamento de Paulo Curió, prefeito de Turilândia investigado por esquema que teria desviado R$ 56 milhões
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/01/stf-suspende-afastamento-de-paulo-curio-prefeito-de-turilandia-investigado-por-suposto-esquema-de-corrpucao.ghtml)_
 
+- **[2026-10-03 20:42 UTC]** Quaest para o Senado no RJ, votos totais: Jordy, 17%; Portinho e Benedita, 16% cada; Pedro Paulo, 10%; Crivella, 9%; Monica Benicio, 6%
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/quaest-rj-senado-03-10.ghtml)_
+
