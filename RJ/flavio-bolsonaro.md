@@ -3353,3 +3353,6 @@
 - **[2026-10-03 10:08 UTC]** Victor Fasano declara voto em Flávio Bolsonaro e se dispõe a ajudar a resolver problemas ambientais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/victor-fasano-declara-voto-em-flavio-bolsonaro-e-se-dispoe-a-ajudar-a-resolver-problemas-ambientais.shtml)_
 
+- **[2026-10-03 08:06 UTC]** Disputa Lula x Flávio Bolsonaro causa mal-estar entre artistas e jornalistas na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/disputa-lula-x-flavio-bolsonaro-causa-mal-estar-entre-artistas-e-jornalistas-na-globo.shtml)_
+
