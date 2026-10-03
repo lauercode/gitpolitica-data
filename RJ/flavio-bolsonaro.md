@@ -3359,3 +3359,6 @@
 - **[2026-10-03 08:00 UTC]** Veja empresários que doaram para Jair em 2022, mas não para Flávio Bolsonaro em 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/veja-empresarios-que-doaram-para-jair-em-2022-mas-nao-para-flavio-bolsonaro-em-2026.shtml)_
 
+- **[2026-10-03 07:50 UTC]** Vice de Nunes se descola de Flávio e faz campanhas para candidatos do Novo e padre Kelmon
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/vice-de-nunes-se-descola-de-flavio-e-faz-campanhas-para-candidatos-do-novo-e-padre-kelmon.shtml)_
+
