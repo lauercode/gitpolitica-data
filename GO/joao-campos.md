@@ -98,3 +98,6 @@
 - **[2026-10-03 18:20 UTC]** Datafolha: Raquel Lyra tem 49% dos votos válidos, ante 48% de João Campos em Pernambuco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-raquel-lyra-tem-49-dos-votos-validos-ante-48-de-joao-campos-em-pernambuco.shtml)_
 
+- **[2026-10-03 21:13 UTC]** Quaest: Raquel Lyra tem 52% e ex-prefeito João Campos 47% dos votos válidos em PE
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/03/quaest-raquel-lyra-tem-52-pontos-percentuais-e-ex-prefeito-joo-campos-47-dos-votos-vlidos-em-pe.ghtml)_
+
