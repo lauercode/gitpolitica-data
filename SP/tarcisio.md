@@ -128,3 +128,6 @@
 - **[2026-10-03 20:42 UTC]** Quaest em SP, votos válidos: Tarcísio, 60%; Haddad, 36%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/quaest-sp-governador-3-outubro.ghtml)_
 
+- **[2026-10-03 21:02 UTC]** Quaest: Em SP, Tarcísio tem 60% do votos válidos e Haddad 36% no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/em-sp-tarcsio-tem-60-pontos-percentuais-do-votos-vlidos-e-haddad-36-no-primeiro-turno.ghtml)_
+
