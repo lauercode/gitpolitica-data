@@ -3365,3 +3365,6 @@
 - **[2026-10-03 09:57 UTC]** A influente igreja evangélica que apoiou Jair, mas rejeita Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckz7z7j25g19o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-03 10:18 UTC]** Análise: Lula e Flávio devem ficar longe da maioria no Congresso
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/analise-lula-e-flavio-devem-ficar-distante-da-maioria-no-congresso.ghtml)_
+
