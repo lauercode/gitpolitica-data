@@ -38,3 +38,6 @@
 - **[2026-10-01 17:11 UTC]** Datafolha: Eduardo Paes (PSD) lidera com 47% das intenções de votos válidos no Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eduardo-paes-psd-lidera-com-47-das-intencoes-de-votos-validos-no-rio.shtml)_
 
+- **[2026-10-03 18:22 UTC]** Datafolha: Eduardo Paes lidera com 49% das intenções de votos válidos no RJ sem Garotinho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eduardo-paes-lidera-com-49-das-intencoes-de-votos-validos-no-rj-sem-garotinho.shtml)_
+
