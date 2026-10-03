@@ -3344,3 +3344,6 @@
 - **[2026-10-03 07:00 UTC]** Ao lado de Lula, Haddad faz último ato de campanha na Av. Paulista neste sábado; Tarcísio prioriza interior com Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/ao-lado-de-lula-haddad-faz-ultimo-ato-de-campanha-na-av-paulista-neste-sabado-tarcisio-prioriza-interior-com-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-03 03:49 UTC]** Eleições 2026: Lula mobiliza eleitor mais velho; Flávio aposta em voto útil no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-lula-mobiliza-eleitor-mais-velho-flavio-aposta-em-voto-util-no-1o-turno.ghtml)_
+
