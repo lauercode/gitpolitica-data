@@ -80,3 +80,6 @@
 - **[2026-10-02 10:57 UTC]** Homem é preso em ato de campanha de Cícero Lucena, candidato ao governo da Paraíba, em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/02/homem-e-preso-em-ato-de-campanha-de-cicero-lucena-candidato-ao-governo-da-paraiba-em-joao-pessoa.ghtml)_
 
+- **[2026-10-02 23:50 UTC]** TSE forma maioria para barrar candidatura de Cícero Lucena ao governo da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/02/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba.ghtml)_
+
