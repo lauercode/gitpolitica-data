@@ -122,3 +122,6 @@
 - **[2026-10-01 20:09 UTC]** Datafolha: Tarcísio tem 50% e Haddad, 33% no primeiro turno em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/especial/datafolha-tarcisio-tem-50percent-e-haddad-33percent-no-primeiro-turno-em-sp.ghtml)_
 
+- **[2026-10-03 21:16 UTC]** Datafolha em SP, votos válidos: Tarcísio, 60%; Haddad, 35%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/datafolha-sp-governador-3-outubro.ghtml)_
+
