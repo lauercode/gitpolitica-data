@@ -50,3 +50,6 @@
 - **[2026-09-28 17:19 UTC]** Nova pesquisa Quaest na BA testa voto em ACM Neto e Jerônimo após investigação da PF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/28/nova-pesquisa-quaest-na-ba-testa-se-investigacao-da-pf-influencia-voto-em-acm-neto.ghtml)_
 
+- **[2026-10-03 14:45 UTC]** Gilmar Mendes derruba direitos de resposta de Jerônimo contra vídeos de ACM Neto
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/noticia/2026/10/03/gilmar-mendes-derruba-direitos-de-resposta-de-jeronimo-contra-videos-de-acm-neto.ghtml)_
+
