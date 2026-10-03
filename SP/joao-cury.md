@@ -386,3 +386,6 @@
 - **[2026-10-02 08:00 UTC]** Cury chegou a 3º lugar, mas não sustentou ganho
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/cury-chegou-a-3o-lugar-mas-nao-sustentou-ganho.ghtml)_
 
+- **[2026-10-02 20:22 UTC]** Datafolha em PE: Lula, 61%; Flávio Bolsonaro, 25%; Renan, 3%; Cury, 3%; Caiado, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/02/datafolha-pe-presidente-3-de-outubro.ghtml)_
+
