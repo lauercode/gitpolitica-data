@@ -44,3 +44,6 @@
 - **[2026-09-30 09:39 UTC]** Debate em tempo real, jornada eleitoral, MAPA com resultados: BBC News Brasil faz cobertura especial
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-03 03:00 UTC]** MAPA: Lula e Flávio Bolsonaro concentram campanha em SP, MG e RJ no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/lula-e-flavio-campanha-estados-1-turno.ghtml)_
+
