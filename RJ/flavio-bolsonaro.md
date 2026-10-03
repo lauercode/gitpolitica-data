@@ -3320,3 +3320,6 @@
 - **[2026-10-02 20:19 UTC]** Datafolha em SP: Flávio Bolsonaro, 39%; Lula, 38%; Cury, 5%; Caiado, 4%; Renan, 4%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/02/datafolha-em-sp-flavio-bolsonaro-39percent-lula-38percent-cury-5percent-caiado-4percent-renan-4percent-zema-1percent.ghtml)_
 
+- **[2026-10-02 20:18 UTC]** Datafolha no DF: Flávio, 44%; Lula, 35%; Caiado; 9%; Cury, 3%; Renan, 3%; Zema, 1%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/02/datafolha-df-presidente-2-outubro.ghtml)_
+
