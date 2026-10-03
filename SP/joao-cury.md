@@ -395,3 +395,6 @@
 - **[2026-10-02 20:18 UTC]** Datafolha no DF: Flávio, 44%; Lula, 35%; Caiado; 9%; Cury, 3%; Renan, 3%; Zema, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/02/datafolha-df-presidente-2-outubro.ghtml)_
 
+- **[2026-10-02 20:18 UTC]** Datafolha no RJ: Flávio, 45%; Lula, 38%; Cury e Renan, 3%; Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/02/datafolha-no-rj-presidencia-2-outubro.ghtml)_
+
