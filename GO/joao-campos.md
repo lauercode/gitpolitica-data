@@ -89,3 +89,6 @@
 - **[2026-10-01 20:32 UTC]** Datafolha: em PE, Raquel Lyra tem 46% e João Campos, 44% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/datafolha-raquel-lyra-tem-46percent-e-joao-campos-44percent-em-pernambuco.ghtml)_
 
+- **[2026-10-03 21:22 UTC]** Datafolha em PE, votos válidos: Raquel Lyra, 49%; João Campos, 48%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/datafolha-pe-governador-3-outubro.ghtml)_
+
