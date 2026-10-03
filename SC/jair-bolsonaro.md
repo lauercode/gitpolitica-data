@@ -56,3 +56,6 @@
 - **[2026-10-01 17:21 UTC]** Michelle vai acompanhar eleições em casa com Jair Bolsonaro, que está ansioso, segundo relatos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/michelle-vai-acompanhar-eleicoes-em-casa-com-jair-bolsonaro-que-esta-ansioso-segundo-relatos.shtml)_
 
+- **[2026-10-03 03:00 UTC]** Lula e Jair Bolsonaro são os mais reprovados entre os presidentes que buscaram reeleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/lula-e-jair-bolsonaro-sao-os-mais-reprovados-entre-os-presidentes-que-buscaram-reeleicao.ghtml)_
+
