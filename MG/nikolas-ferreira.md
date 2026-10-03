@@ -50,3 +50,6 @@
 - **[2026-10-02 20:50 UTC]** Por que Nikolas Ferreira enfureceu de vez a campanha eleitoral dos petistas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/por-que-nikolas-ferreira-enfureceu-de-vez-a-campanha-eleitoral-dos-petistas/)_
 
+- **[2026-10-03 16:17 UTC]** Nikolas Ferreira deixa Carlos Bolsonaro, Sergio Moro e Ciro Nogueira fora de indicações de voto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/nikolas-ferreira-deixa-carlos-bolsonaro-sergio-moro-e-ciro-nogueira-fora-de-indicacoes-de-voto.shtml)_
+
