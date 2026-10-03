@@ -275,3 +275,6 @@
 - **[2026-10-02 21:18 UTC]** Fim da escala 6x1: Alcolumbre marca para próxima semana início da discussão da PEC que diminui a jornada de trabalho
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/02/fim-da-escala-6x1-alcolumbre-marca-para-proxima-semana-inicio-da-discussao-da-pec-que-diminui-a-jornada-de-trabalho.ghtml)_
 
+- **[2026-10-02 18:40 UTC]** A dois dias do 1º turno, Alcolumbre decide colocar em pauta a 6x1, tema vitrine da campanha de lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alcolumbre-marca-votacao-da-pec-da-escala-6x1-para-terca-feira-6.shtml)_
+
