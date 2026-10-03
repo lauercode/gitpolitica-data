@@ -62,3 +62,6 @@
 - **[2026-10-03 14:33 UTC]** Ato de Lula e Haddad em SP tem atrito entre organização e PM após impasse sobre local da caminhada
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/ato-de-lula-e-haddad-em-sp-comeca-com-atrito-entre-organizacao-e-pm-apos-impasse-sobre-local-da-caminhada.ghtml)_
 
+- **[2026-10-03 14:51 UTC]** Ato de Lula em SP tem princípio de confusão com a PM
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/ato-de-lula-em-sp-tem-princpio-de-confuso-com-a-pm.ghtml)_
+
