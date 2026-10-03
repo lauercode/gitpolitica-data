@@ -3368,3 +3368,6 @@
 - **[2026-10-03 10:18 UTC]** Análise: Lula e Flávio devem ficar longe da maioria no Congresso
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/analise-lula-e-flavio-devem-ficar-distante-da-maioria-no-congresso.ghtml)_
 
+- **[2026-10-03 15:35 UTC]** Sem citar Flávio, Lula diz que enfrenta 'chefe de quadrilha' e associa adversários ao crime organizado
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/sem-citar-flavio-lula-diz-que-enfrenta-chefe-de-quadrilha-e-associa-adversario-ao-crime-organizado.ghtml)_
+
