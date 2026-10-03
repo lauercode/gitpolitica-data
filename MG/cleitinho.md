@@ -128,3 +128,6 @@
 - **[2026-10-03 18:17 UTC]** Datafolha: Cleitinho lidera com 53% dos votos válidos e pode vencer no 1º turno em Minas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-cleitinho-lidera-com-53-dos-votos-validos-e-pode-vencer-no-1o-turno-em-minas.shtml)_
 
+- **[2026-10-03 21:22 UTC]** Quaest: Em MG, Cleitinho tem 54% dos votos válidos; Patrus tem 23%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-em-mg-cleitinho-tem-54-pontos-percentuais-dos-votos-vlidos-patrus-tem-23.ghtml)_
+
