@@ -20,3 +20,6 @@
 - **[2026-09-30 21:23 UTC]** Qual é o número de Lenilda Luna (UP) para o governo de Alagoas?
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-lenilda-luna-up-para-o-governo-de-alagoas.ghtml)_
 
+- **[2026-10-03 21:12 UTC]** Quaest em Alagoas, votos válidos: Renan Filho, 50%; JHC, 49%; Lenilda Luna 1%
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quaest-alagoas-governador-3-outubro.ghtml)_
+
