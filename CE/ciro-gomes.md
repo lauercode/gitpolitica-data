@@ -29,3 +29,6 @@
 - **[2026-10-02 14:18 UTC]** Gilmar, Toffoli e Zanin revertem decisões do TRE-CE, e candidato do PT terá tempo extra contra Ciro Gomes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/gilmar-toffoli-e-zanin-revertem-decisoes-do-tre-ce-e-candidato-do-pt-tera-tempo-extra-contra-ciro-gomes.shtml)_
 
+- **[2026-10-03 16:21 UTC]** Datafolha: Elmano de Freitas tem 50% em votos válidos no Ceará e Ciro Gomes, 47%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-elmano-de-freitas-tem-50-em-votos-validos-no-ceara-e-ciro-gomes-47.shtml)_
+
