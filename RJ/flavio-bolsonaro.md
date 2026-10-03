@@ -3374,3 +3374,6 @@
 - **[2026-10-03 12:18 UTC]** No último dia de campanha, Flávio Bolsonaro diz que governo Lula capturou STF, PF e Congresso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-reunem-imagens-de-nossa-senhora-a-espera-de-candidato-em-sp.shtml)_
 
+- **[2026-10-03 12:00 UTC]** Bolsonaro tenta eleger três filhos, dois cunhados, irmão, atual e ex-mulher
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bolsonaro-tenta-eleger-tres-filhos-dois-cunhados-irmao-atual-e-ex-mulher.shtml)_
+
