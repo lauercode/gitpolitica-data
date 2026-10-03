@@ -47,3 +47,6 @@
 - **[2026-10-03 13:00 UTC]** Vídeo mostra Ciro Nogueira dançando com Vorcaro nos Alpes franceses, diz revista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/video-mostra-ciro-nogueira-dancando-com-vorcaro-nos-alpes-franceses-diz-revista.shtml)_
 
+- **[2026-10-03 16:17 UTC]** Nikolas Ferreira deixa Carlos Bolsonaro, Sergio Moro e Ciro Nogueira fora de indicações de voto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/nikolas-ferreira-deixa-carlos-bolsonaro-sergio-moro-e-ciro-nogueira-fora-de-indicacoes-de-voto.shtml)_
+
