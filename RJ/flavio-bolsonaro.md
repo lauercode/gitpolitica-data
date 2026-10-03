@@ -3302,3 +3302,6 @@
 - **[2026-10-03 03:00 UTC]** Maior região eleitoral do país, Sudeste tem disputa apertada entre Lula e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/maior-regiao-eleitoral-do-pais-sudeste-tem-disputa-apertada-entre-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-03 03:00 UTC]** MAPA: Lula e Flávio Bolsonaro concentram campanha em SP, MG e RJ no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/lula-e-flavio-campanha-estados-1-turno.ghtml)_
+
