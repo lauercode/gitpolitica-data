@@ -3338,3 +3338,6 @@
 - **[2026-10-03 00:18 UTC]** Campanha de Lula lança minidocumentário com 'currículo' de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/campanha-de-lula-lanca-minidocumentario-com-curriculo-de-flavio.ghtml)_
 
+- **[2026-10-03 04:00 UTC]** Padroeiro de Flávio Bolsonaro é homem, loiro e mora na Casa Branca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/10/padroeiro-de-flavio-bolsonaro-e-homem-loiro-e-mora-na-casa-branca.shtml)_
+
