@@ -3341,3 +3341,6 @@
 - **[2026-10-03 04:00 UTC]** Padroeiro de Flávio Bolsonaro é homem, loiro e mora na Casa Branca
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/10/padroeiro-de-flavio-bolsonaro-e-homem-loiro-e-mora-na-casa-branca.shtml)_
 
+- **[2026-10-03 07:00 UTC]** Ao lado de Lula, Haddad faz último ato de campanha na Av. Paulista neste sábado; Tarcísio prioriza interior com Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/ao-lado-de-lula-haddad-faz-ultimo-ato-de-campanha-na-av-paulista-neste-sabado-tarcisio-prioriza-interior-com-flavio-bolsonaro.ghtml)_
+
