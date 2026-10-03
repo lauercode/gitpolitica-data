@@ -3347,3 +3347,6 @@
 - **[2026-10-03 03:49 UTC]** Eleições 2026: Lula mobiliza eleitor mais velho; Flávio aposta em voto útil no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-lula-mobiliza-eleitor-mais-velho-flavio-aposta-em-voto-util-no-1o-turno.ghtml)_
 
+- **[2026-10-03 09:05 UTC]** Lula e Flávio encerram campanha com foco no Sudeste e ao lado dos candidatos ao governo em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/lula-e-flavio-encerram-campanha-com-foco-no-sudeste-e-ao-lado-dos-candidatos-ao-governo-em-sp.ghtml)_
+
