@@ -89,3 +89,6 @@
 - **[2026-10-01 19:13 UTC]** Portugal vence Dinamarca, e Jesus evita falar sobre saída de Cristiano Ronaldo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/portugal-vence-dinamarca-e-jesus-evita-falar-sobre-saida-de-cristiano-ronaldo.shtml)_
 
+- **[2026-10-03 12:16 UTC]** Procuradoria de Portugal abre investigação sobre uso de base militar pelos EUA na guerra do Irã
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/procuradoria-de-portugal-abre-investigacao-sobre-uso-de-base-militar-pelos-eua-na-guerra-do-ira.shtml)_
+
