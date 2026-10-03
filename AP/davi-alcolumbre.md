@@ -272,3 +272,6 @@
 - **[2026-10-02 21:30 UTC]** Alcolumbre pauta discussão do fim da escala 6x1 no plenário para a próxima semana
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/02/alcolumbre-pauta-discussao-do-fim-da-escala-6x1-no-plenario-para-a-proxima-semana.ghtml)_
 
+- **[2026-10-02 21:18 UTC]** Fim da escala 6x1: Alcolumbre marca para próxima semana início da discussão da PEC que diminui a jornada de trabalho
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/02/fim-da-escala-6x1-alcolumbre-marca-para-proxima-semana-inicio-da-discussao-da-pec-que-diminui-a-jornada-de-trabalho.ghtml)_
+
