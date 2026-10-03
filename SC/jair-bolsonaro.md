@@ -59,3 +59,6 @@
 - **[2026-10-03 03:00 UTC]** Lula e Jair Bolsonaro são os mais reprovados entre os presidentes que buscaram reeleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/lula-e-jair-bolsonaro-sao-os-mais-reprovados-entre-os-presidentes-que-buscaram-reeleicao.ghtml)_
 
+- **[2026-10-02 21:23 UTC]** É #FAKE que Flávio Dino disse ter entrado no STF 'com a missão de destruir Jair Bolsonaro e os filhos'; vídeo foi manipulado com IA
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/02/e-fake-que-flavio-dino-disse-ter-entrado-no-stf-com-a-missao-de-destruir-jair-bolsonaro-e-os-filhos-video-foi-manipulado-com-ia.ghtml)_
+
