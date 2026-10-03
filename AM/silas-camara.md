@@ -1124,3 +1124,6 @@ direitos
 - **[2026-10-02 22:27 UTC]** Câmara divulga edital de novo concurso para Analista Legislativo
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1308132-camara-divulga-edital-de-novo-concurso-para-analista-legislativo)_
 
+- **[2026-10-03 03:00 UTC]** Disputas para Senado e Câmara são estratégicas para os próximos anos do STF e da Presidência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/disputas-para-senado-e-camara-sao-estrategicas-para-os-proximos-anos-do-stf-e-da-presidencia.ghtml)_
+
