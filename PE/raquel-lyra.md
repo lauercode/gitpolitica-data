@@ -122,3 +122,6 @@
 - **[2026-10-02 21:17 UTC]** Fachin manda inquérito que apura existência de gabinete do ódio de Raquel Lyra ao STJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/fachin-manda-inquerito-que-apura-existencia-de-gabinete-do-odio-de-raquel-lyra-ao-stj.shtml)_
 
+- **[2026-10-03 21:22 UTC]** Datafolha em PE, votos válidos: Raquel Lyra, 49%; João Campos, 48%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/datafolha-pe-governador-3-outubro.ghtml)_
+
