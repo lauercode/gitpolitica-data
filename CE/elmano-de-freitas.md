@@ -35,3 +35,6 @@
 - **[2026-09-25 16:42 UTC]** Datafolha: Ciro Gomes tem 44% e Elmano de Freitas, 43%, no Ceará
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-ciro-gomes-tem-44-e-elmano-de-freitas-43-no-ceara.shtml)_
 
+- **[2026-10-03 16:21 UTC]** Datafolha: Elmano de Freitas tem 50% em votos válidos no Ceará e Ciro Gomes, 47%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-elmano-de-freitas-tem-50-em-votos-validos-no-ceara-e-ciro-gomes-47.shtml)_
+
