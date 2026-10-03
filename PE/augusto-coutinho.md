@@ -14,3 +14,6 @@
 - **[2026-09-10 17:00 UTC]** Santos encaminha contratação de Coutinho após pedido de Neymar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/santos-encaminha-contratacao-de-coutinho-apos-pedido-de-neymar.shtml)_
 
+- **[2026-10-02 22:08 UTC]** Santos vira sobre o São Paulo com participação de Coutinho e gols de Gabigol
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/santos-vira-sobre-o-sao-paulo-com-participacao-de-coutinho-e-gols-de-gabigol.shtml)_
+
