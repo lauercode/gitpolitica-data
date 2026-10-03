@@ -119,3 +119,6 @@
 - **[2026-10-02 08:00 UTC]** Com ampla vantagem, Cleitinho deve ir ao segundo turno contra Patrus Ananias
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/com-ampla-vantagem-cleitinho-deve-ir-ao-segundo-turno-contra-patrus-ananias.ghtml)_
 
+- **[2026-10-03 10:09 UTC]** Na reta final das eleições em MG, Cleitinho vira alvo da direita, que recorre ao antipetismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/na-reta-final-das-eleicoes-em-mg-cleitinho-vira-alvo-da-direita-que-recorre-ao-antipetismo.shtml)_
+
