@@ -3332,3 +3332,6 @@
 - **[2026-10-02 21:40 UTC]** 'Estou feliz porque Flávio vai perder e triste porque Lula vai ganhar', diz leitor sobre projeções para MG e RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/estou-feliz-porque-flavio-vai-perder-e-triste-porque-lula-vai-ganhar-diz-leitor-sobre-projecoes-para-mg-e-rj.shtml)_
 
+- **[2026-10-02 21:25 UTC]** Faria Lima sabe que as contas de Flávio não fecham
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/faria-lima-sabe-que-as-contas-de-flavio-nao-fecham.shtml)_
+
