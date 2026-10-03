@@ -278,3 +278,6 @@
 - **[2026-10-02 18:40 UTC]** A dois dias do 1º turno, Alcolumbre decide colocar em pauta a 6x1, tema vitrine da campanha de lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alcolumbre-marca-votacao-da-pec-da-escala-6x1-para-terca-feira-6.shtml)_
 
+- **[2026-10-03 01:31 UTC]** Lula agradece Alcolumbre por pautar PEC sobre fim da escala 6x1
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/02/lula-agradece-alcolumbre-por-pautar-pec-sobre-fim-da-escala-6x1.ghtml)_
+
