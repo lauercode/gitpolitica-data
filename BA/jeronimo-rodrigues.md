@@ -20,3 +20,6 @@
 - **[2026-09-24 22:16 UTC]** Quaest na BA: ACM Neto, 42%; Jerônimo Rodrigues, 40%
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/quaest-ba-governador-24-setembro.ghtml)_
 
+- **[2026-10-03 14:29 UTC]** Gilmar Mendes derruba direito de resposta de Jerônimo Rodrigues
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/gilmar-mendes-derruba-direito-de-resposta-de-jeronimo-rodrigues.ghtml)_
+
