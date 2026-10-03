@@ -20,3 +20,6 @@
 - **[2026-09-29 08:00 UTC]** Ligação com Bolsonaros é trunfo de Carlos Jordy
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/ligacao-com-bolsonaros-e-trunfo-de-carlos-jordy.ghtml)_
 
+- **[2026-10-03 20:42 UTC]** Quaest para o Senado no RJ, votos totais: Jordy, 17%; Portinho e Benedita, 16% cada; Pedro Paulo, 10%; Crivella, 9%; Monica Benicio, 6%
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/quaest-rj-senado-03-10.ghtml)_
+
