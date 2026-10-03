@@ -3308,3 +3308,6 @@
 - **[2026-10-02 21:23 UTC]** É #FAKE que Flávio Dino disse ter entrado no STF 'com a missão de destruir Jair Bolsonaro e os filhos'; vídeo foi manipulado com IA
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/02/e-fake-que-flavio-dino-disse-ter-entrado-no-stf-com-a-missao-de-destruir-jair-bolsonaro-e-os-filhos-video-foi-manipulado-com-ia.ghtml)_
 
+- **[2026-10-02 21:15 UTC]** Datafolha: Lula abre vantagem em MG e cresce em SP, onde empata com Flávio; senador lidera no Rio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/02/datafolha-presidente-mg-sp-rj-df-pe-2-outubro.ghtml)_
+
