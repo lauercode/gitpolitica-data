@@ -3362,3 +3362,6 @@
 - **[2026-10-03 07:50 UTC]** Vice de Nunes se descola de Flávio e faz campanhas para candidatos do Novo e padre Kelmon
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/vice-de-nunes-se-descola-de-flavio-e-faz-campanhas-para-candidatos-do-novo-e-padre-kelmon.shtml)_
 
+- **[2026-10-03 09:57 UTC]** A influente igreja evangélica que apoiou Jair, mas rejeita Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckz7z7j25g19o?at_medium=RSS&at_campaign=rss)_
+
