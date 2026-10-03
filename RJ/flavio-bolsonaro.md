@@ -3395,3 +3395,6 @@
 - **[2026-10-03 20:08 UTC]** "Acabou para o Lula", diz Flávio em segunda carreata na véspera da eleição
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/acabou-para-o-lula-diz-flvio-em-segunda-carreata-na-vspera-da-eleio.ghtml)_
 
+- **[2026-10-03 19:51 UTC]** Podcast Tabuleiro: Lula x Flávio Bolsonaro e a disputa pelo 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/podcast-tabuleiro-lula-x-flavio-bolsonaro-e-a-disputa-pelo-2o-turno.ghtml)_
+
