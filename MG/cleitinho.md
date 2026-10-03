@@ -122,3 +122,6 @@
 - **[2026-10-03 10:09 UTC]** Na reta final das eleições em MG, Cleitinho vira alvo da direita, que recorre ao antipetismo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/na-reta-final-das-eleicoes-em-mg-cleitinho-vira-alvo-da-direita-que-recorre-ao-antipetismo.shtml)_
 
+- **[2026-10-03 20:41 UTC]** Quaest em MG, votos válidos: Cleitinho, 54%; Patrus, 23%; Kalil, 10%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/03/quaest-mg-governador-03-outubro.ghtml)_
+
