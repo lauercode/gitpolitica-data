@@ -3311,3 +3311,6 @@
 - **[2026-10-02 21:15 UTC]** Datafolha: Lula abre vantagem em MG e cresce em SP, onde empata com Flávio; senador lidera no Rio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/02/datafolha-presidente-mg-sp-rj-df-pe-2-outubro.ghtml)_
 
+- **[2026-10-02 20:31 UTC]** Datafolha em MG: Lula, 42%; Flávio Bolsonaro, 36%
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/02/datafolha-mg-presidente-2-outubro.ghtml)_
+
