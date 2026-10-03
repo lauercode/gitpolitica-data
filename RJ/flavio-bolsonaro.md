@@ -3392,3 +3392,6 @@
 - **[2026-10-03 18:00 UTC]** Campanha de Lula espera que segundo turno em Goiás torne mais frágil apoio de Caiado a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-espera-que-segundo-turno-em-goias-minimize-apoio-de-caiado-a-flavio.shtml)_
 
+- **[2026-10-03 20:08 UTC]** "Acabou para o Lula", diz Flávio em segunda carreata na véspera da eleição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/acabou-para-o-lula-diz-flvio-em-segunda-carreata-na-vspera-da-eleio.ghtml)_
+
