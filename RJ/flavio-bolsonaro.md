@@ -3356,3 +3356,6 @@
 - **[2026-10-03 08:06 UTC]** Disputa Lula x Flávio Bolsonaro causa mal-estar entre artistas e jornalistas na Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/disputa-lula-x-flavio-bolsonaro-causa-mal-estar-entre-artistas-e-jornalistas-na-globo.shtml)_
 
+- **[2026-10-03 08:00 UTC]** Veja empresários que doaram para Jair em 2022, mas não para Flávio Bolsonaro em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/veja-empresarios-que-doaram-para-jair-em-2022-mas-nao-para-flavio-bolsonaro-em-2026.shtml)_
+
