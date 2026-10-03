@@ -1046,3 +1046,6 @@
 - **[2026-10-02 12:01 UTC]** Quem é Lula hoje, o presidente que tenta chegar ao quarto mandato; assista vídeo especial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-lula-hoje-o-presidente-que-tenta-chegar-ao-quarto-mandato-assista-video-especial.shtml)_
 
+- **[2026-10-03 03:00 UTC]** Lula e Jair Bolsonaro são os mais reprovados entre os presidentes que buscaram reeleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/lula-e-jair-bolsonaro-sao-os-mais-reprovados-entre-os-presidentes-que-buscaram-reeleicao.ghtml)_
+
