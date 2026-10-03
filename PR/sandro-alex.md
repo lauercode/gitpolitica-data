@@ -137,3 +137,6 @@
 - **[2026-10-02 13:32 UTC]** Eleições 2026 no Paraná: Sandro Alex visita cidades do Oeste em carreatas e termina o dia em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/02/eleicoes-2026-no-parana-sandro-alex.ghtml)_
 
+- **[2026-10-03 08:44 UTC]** Gilmar derruba direito de resposta de Moro e libera propaganda de Sandro Alex sobre aborto
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/03/gilmar-moro-sandro-parana.ghtml)_
+
