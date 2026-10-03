@@ -3350,3 +3350,6 @@
 - **[2026-10-03 09:05 UTC]** Lula e Flávio encerram campanha com foco no Sudeste e ao lado dos candidatos ao governo em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/lula-e-flavio-encerram-campanha-com-foco-no-sudeste-e-ao-lado-dos-candidatos-ao-governo-em-sp.ghtml)_
 
+- **[2026-10-03 10:08 UTC]** Victor Fasano declara voto em Flávio Bolsonaro e se dispõe a ajudar a resolver problemas ambientais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/victor-fasano-declara-voto-em-flavio-bolsonaro-e-se-dispoe-a-ajudar-a-resolver-problemas-ambientais.shtml)_
+
