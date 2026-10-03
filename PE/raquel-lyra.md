@@ -119,3 +119,6 @@
 - **[2026-10-01 20:32 UTC]** Datafolha: em PE, Raquel Lyra tem 46% e João Campos, 44% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/01/datafolha-raquel-lyra-tem-46percent-e-joao-campos-44percent-em-pernambuco.ghtml)_
 
+- **[2026-10-02 21:17 UTC]** Fachin manda inquérito que apura existência de gabinete do ódio de Raquel Lyra ao STJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/fachin-manda-inquerito-que-apura-existencia-de-gabinete-do-odio-de-raquel-lyra-ao-stj.shtml)_
+
