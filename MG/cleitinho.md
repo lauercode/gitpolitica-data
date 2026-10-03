@@ -125,3 +125,6 @@
 - **[2026-10-03 20:41 UTC]** Quaest em MG, votos válidos: Cleitinho, 54%; Patrus, 23%; Kalil, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/03/quaest-mg-governador-03-outubro.ghtml)_
 
+- **[2026-10-03 18:17 UTC]** Datafolha: Cleitinho lidera com 53% dos votos válidos e pode vencer no 1º turno em Minas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-cleitinho-lidera-com-53-dos-votos-validos-e-pode-vencer-no-1o-turno-em-minas.shtml)_
+
