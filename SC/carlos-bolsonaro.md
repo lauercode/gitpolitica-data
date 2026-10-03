@@ -20,3 +20,6 @@
 - **[2026-10-01 03:00 UTC]** Qual é o número de Carlos Bolsonaro (PL) para o Senado em Santa Catarina?
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-carlos-bolsonaro-pl-para-o-senado-em-santa-catarina.ghtml)_
 
+- **[2026-10-03 16:17 UTC]** Nikolas Ferreira deixa Carlos Bolsonaro, Sergio Moro e Ciro Nogueira fora de indicações de voto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/nikolas-ferreira-deixa-carlos-bolsonaro-sergio-moro-e-ciro-nogueira-fora-de-indicacoes-de-voto.shtml)_
+
