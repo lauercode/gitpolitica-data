@@ -65,3 +65,6 @@
 - **[2026-10-03 21:16 UTC]** Datafolha para o Senado em SP: Derrite, 22%; André do Prado, 22%; Marina, 21%; Tebet, 20%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/datafolha-sp-senado-3-outubro.ghtml)_
 
+- **[2026-10-03 20:42 UTC]** Quaest para o Senado em SP, votos válidos: Derrite, 25%; André do Prado, 23% Marina, 22%; Tebet, 22%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/quaest-sp-senado-3-outubro.ghtml)_
+
