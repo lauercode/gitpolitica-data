@@ -68,3 +68,6 @@
 - **[2026-10-02 18:38 UTC]** MPE defende que o TSE mantenha candidatura de Deltan Dallagnol ao Senado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/02/mpe-defende-que-o-tse-mantenha-candidatura-de-deltan-dallagnol-ao-senado.ghtml)_
 
+- **[2026-10-03 17:25 UTC]** Zeca Dirceu pede a Gilmar Mendes para anular votos de Deltan Dallagnol para o Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/zeca-dirceu-pede-a-gilmar-mendes-para-anular-votos-de-deltan-para-o-senado/)_
+
