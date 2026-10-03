@@ -47,3 +47,6 @@
 - **[2026-10-01 23:00 UTC]** As mensagens do papa Leão 14 na França e o recado que ouviu dos jovens
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-greenhalgh/2026/10/as-mensagens-do-papa-leao-14-na-franca-e-o-recado-que-ouviu-dos-jovens.shtml)_
 
+- **[2026-10-02 21:29 UTC]** Artista Jonathas de Andrade entrega camiseta de Lula ao papa Leão 14; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/artista-jonathas-de-andrade-entrega-camiseta-de-lula-ao-papa-leao-14-veja-video.shtml)_
+
