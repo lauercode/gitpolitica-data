@@ -3377,3 +3377,6 @@
 - **[2026-10-03 12:00 UTC]** Bolsonaro tenta eleger três filhos, dois cunhados, irmão, atual e ex-mulher
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bolsonaro-tenta-eleger-tres-filhos-dois-cunhados-irmao-atual-e-ex-mulher.shtml)_
 
+- **[2026-10-03 17:08 UTC]** Em último ato, Lula tenta driblar abstenção, critica Flávio e diz estar otimista para vencer no 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/em-ltimo-ato-lula-tenta-driblar-absteno-critica-flvio-e-diz-estar-otimista-para-vencer-no-1-turno.ghtml)_
+
