@@ -3455,3 +3455,6 @@
 - **[2026-10-04 00:00 UTC]** Eleição tem 158 milhões aptos a votar com disputa acirrada entre Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicao-tem-158-milhoes-aptos-a-votar-com-disputa-acirrada-entre-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-03 23:34 UTC]** Datafolha: Lula lidera entre mais jovens e mais velhos no 1º turno, e Flávio Bolsonaro, entre os mais ricos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-lidera-entre-mais-jovens-e-mais-velhos-no-1o-turno-e-flavio-bolsonaro-entre-os-mais-ricos.shtml)_
+
