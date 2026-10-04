@@ -147,3 +147,6 @@ Isael Munduruku propõe hospitais em calhas de rios e valorização dos professo
 - **[2026-10-01 00:51 UTC]** Qual é o número de Isael Munduruku (Rede) para o governo do Amazonas?
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-isael-munduruku-rede-para-o-governo-do-amazonas.ghtml)_
 
+- **[2026-10-04 15:01 UTC]** Isael Munduruku (Rede) vota em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/isael-munduruku-rede-vota-em-manaus.ghtml)_
+
