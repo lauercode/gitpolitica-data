@@ -146,3 +146,6 @@
 - **[2026-10-04 18:58 UTC]** Raquel Lyra (PSD) derrota João Campos (PSB) e é reeleita em Pernambuco, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/raquel-lyra-psd-derrota-joao-campos-psb-e-e-reeleita-em-pernambuco-projeta-datafolha.shtml)_
 
+- **[2026-10-04 22:22 UTC]** Apuração: Com 50% das urnas apuradas em Pernambuco, Raquel Lyra lidera com 53,3%; João Campos tem 44,4%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-50-pontos-percentuais-das-urnas-apuradas-em-pernambuco-raquel-lyra-lidera-com-533-joo-campos-tem-444.ghtml)_
+
