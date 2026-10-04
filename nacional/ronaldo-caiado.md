@@ -83,3 +83,6 @@
 - **[2026-10-01 15:23 UTC]** Quem é Ronaldo Caiado, o candidato do agronegócio que promete criar uma lei de terrorismo doméstico
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-ronaldo-caiado-o-candidato-do-agronegocio-que-promete-criar-uma-lei-de-terrorismo-domestico.shtml)_
 
+- **[2026-10-03 23:00 UTC]** Ronaldo Caiado encerra campanha no 1º turno sem se consolidar como alternativa a Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ronaldo-caiado-encerra-campanha-no-1o-turno-sem-se-consolidar-como-alternativa-a-lula-e-flavio.shtml)_
+
