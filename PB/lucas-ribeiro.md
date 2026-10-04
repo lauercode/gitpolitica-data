@@ -83,3 +83,6 @@
 - **[2026-10-04 17:59 UTC]** Lucas Ribeiro (PP) é reeleito governador da Paraíba
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lucas-ribeiro-pp-e-reeleito-governador-da-paraiba-projeta-datafolha.shtml)_
 
+- **[2026-10-04 23:00 UTC]** Apuração: Lucas Ribeiro (PP), apoiado por Motta, é reeleito governador da Paraíba
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/04/apurao-lucas-ribeiro-pp-apoiado-por-motta-reeleito-governador-da-paraba.ghtml)_
+
