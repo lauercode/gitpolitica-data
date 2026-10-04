@@ -98,3 +98,6 @@
 - **[2026-10-04 14:43 UTC]** Omar Aziz (PSD) vota em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/omar-aziz-psd-vota-em-manaus.ghtml)_
 
+- **[2026-10-04 19:42 UTC]** Omar Aziz (PSD) e Maria do Carmo (PL) vão disputar 2º turno no Amazonas, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/omar-aziz-psd-e-maria-do-carmo-pl-vao-disputar-2o-turno-no-amazonas-projeta-datafolha.shtml)_
+
