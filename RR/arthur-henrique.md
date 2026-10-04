@@ -47,3 +47,6 @@
 - **[2026-10-04 12:25 UTC]** Candidato ao governo de Roraima, Arthur Henrique vota em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/candidato-ao-governo-de-roraima-arthur-henrique-vota-em-boa-vista.ghtml)_
 
+- **[2026-10-04 20:02 UTC]** Eleições 2026: veja propostas de Arthur Henrique para o governo de Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-veja-propostas-de-arthur-henrique-para-o-governo-de-roraima.ghtml)_
+
