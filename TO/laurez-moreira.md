@@ -14,3 +14,6 @@
 - **[2026-10-01 12:03 UTC]** Qual é o número de Laurez Moreira (PSD) para o governo do Tocantins?
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-laurez-moreira-psd-para-o-governo-do-tocantins.ghtml)_
 
+- **[2026-10-04 17:21 UTC]** Laurez Moreira (PSD) vota em Gurupi
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/laurez-moreira-psd-vota-em-gurupi.ghtml)_
+
