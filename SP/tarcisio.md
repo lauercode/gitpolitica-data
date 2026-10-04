@@ -146,3 +146,6 @@
 - **[2026-10-04 22:42 UTC]** Tarcísio de Freitas é reeleito governador em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-sp.ghtml)_
 
+- **[2026-10-04 22:44 UTC]** Tarcísio de Freitas está matematicamente reeleito em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/tarcisio-de-freitas-esta-matematicamente-reeleito-em-sp.ghtml)_
+
