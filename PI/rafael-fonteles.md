@@ -14,3 +14,6 @@
 - **[2026-10-03 23:19 UTC]** Datafolha no Piauí, votos válidos: Rafael Fonteles, 67%; Joel Rodrigues, 28%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/datafolha-no-piaui-votos-validos-rafael-fonteles-67percent-joel-rodrigues-28percent.ghtml)_
 
+- **[2026-10-04 19:35 UTC]** Piauí reelege Rafael Fonteles como governador no primeiro turno
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/piaui-reelege-rafael-fonteles-como-governador-no-primeiro-turno)_
+
