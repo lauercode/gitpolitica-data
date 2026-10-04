@@ -3446,3 +3446,6 @@
 - **[2026-10-03 18:32 UTC]** Datafolha: Lula tem 45% e Flávio Bolsonaro, 42% em votos válidos, em empate técnico na véspera do 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-45-e-flavio-bolsonaro-42-em-votos-validos-na-vespera-do-1o-turno.shtml)_
 
+- **[2026-10-03 22:35 UTC]** Quaest: Lula tem 40% e Flávio Bolsonaro registra 38% no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-lula-tem-40-pontos-percentuais-e-flvio-bolsonaro-registra-38-no-primeiro-turno.ghtml)_
+
