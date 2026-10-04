@@ -17,3 +17,6 @@
 - **[2026-09-14 16:41 UTC]** TV Globo entrevista Fernando Haddad (PT)
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/tv-globo-entrevista-daqui-a-pouco-fernando-haddad-pt-acompanhe.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Fernando Haddad, candidato a governador de São Paulo em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-fernando-haddad-candidato-a-governador-de-sao-paulo-em-2026.ghtml)_
+
