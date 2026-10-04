@@ -11,3 +11,6 @@
 - **[2026-10-01 13:19 UTC]** Qual é o número de Eli Borges (Republicanos) para o Senado no Tocantins?
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-eli-borges-republicanos-para-o-senado-no-tocantins.ghtml)_
 
+- **[2026-10-04 19:05 UTC]** Eli Borges (Republicanos) vota em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/eli-borges-republicanos-vota-em-palmas.ghtml)_
+
