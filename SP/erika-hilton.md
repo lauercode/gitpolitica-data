@@ -62,3 +62,6 @@
 - **[2026-10-04 20:09 UTC]** Erika Hilton supera 1,4 milhão de votos e se torna mulher mais votada da história para a Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/erika-hilton-supera-14-milhao-de-votos-e-se-torna-mulher-mais-votada-da-historia-para-a-camara.shtml)_
 
+- **[2026-10-04 12:59 UTC]** Ameaça de morte faz Erika Hilton reforçar segurança e votar à tarde: 'Não me impediu de exercer meu direito democrático'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/erika-hilton-recebe-ameaca-de-morte-por-e-mail-no-1o-turno-banho-de-sangue.shtml)_
+
