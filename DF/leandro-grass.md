@@ -41,3 +41,6 @@
 - **[2026-10-04 20:13 UTC]** Celina Leão e Leandro Grass disputam 2° turno para governador do DF
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/celina-leao-e-leandro-grass-disputam-2deg-turno-para-governador-do-df)_
 
+- **[2026-10-04 19:50 UTC]** Celina Leão (PP) e Leandro Grass (PT) vão disputar o 2º turno no DF, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/celina-leao-pp-e-leandro-grass-pt-vao-disputar-o-2o-turno-no-df-projeta-datafolha.shtml)_
+
