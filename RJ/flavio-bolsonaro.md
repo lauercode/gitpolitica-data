@@ -3563,3 +3563,6 @@
 - **[2026-10-04 23:01 UTC]** André do Prado é eleito senador por SP após campanha apoiada por Tarcísio e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/andre-do-prado-e-eleito-senador-por-sp-apos-campanha-apoiada-por-tarcisio-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-04 22:27 UTC]** Com mais de 60% das sessões apuradas no exterior, Lula vence em 59 cidades e Flávio Bolsonaro, em 28
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/com-mais-de-60percent-das-sessoes-apuradas-no-exterior-lula-vence-em-59-cidades-e-flavio-bolsonaro-em-28.ghtml)_
+
