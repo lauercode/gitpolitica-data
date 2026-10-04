@@ -41,3 +41,6 @@
 - **[2026-10-01 23:49 UTC]** Saulo Arcangeli defende compras públicas da agricultura familiar para combater fome no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/saulo-arcangeli-defende-compras-publicas-da-agricultura-familiar-para-combater-fome-no-ma.ghtml)_
 
+- **[2026-10-04 13:49 UTC]** Saulo Arcangeli (PSTU) vota em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/saulo-arcangeli-pstu-vota-em-sao-luis.ghtml)_
+
