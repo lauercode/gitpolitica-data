@@ -134,3 +134,6 @@
 - **[2026-10-03 23:32 UTC]** Quaest: No Amapá, Dr. Furlan tem 53% dos votos válidos e Clécio tem 47%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-no-amap-dr-furlan-tem-53-pontos-percentuais-dos-votos-vlidos-e-clcio-tem-47.ghtml)_
 
+- **[2026-10-04 18:50 UTC]** Dr. Furlan (PSD) derrota grupo de Alcolumbre e é eleito governador do AP, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/dr-furlan-psd-derrota-grupo-de-alcolumbre-e-e-eleito-governador-do-ap-projeta-datafolha.shtml)_
+
