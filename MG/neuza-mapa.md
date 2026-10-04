@@ -47,3 +47,6 @@
 - **[2026-10-03 03:00 UTC]** MAPA: Lula e Flávio Bolsonaro concentram campanha em SP, MG e RJ no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/lula-e-flavio-campanha-estados-1-turno.ghtml)_
 
+- **[2026-10-04 19:15 UTC]** MAPA vai mostrar ao vivo o resultado da apuração para presidente e governador no seu Estado
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss)_
+
