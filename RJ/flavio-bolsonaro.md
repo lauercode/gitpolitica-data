@@ -3590,3 +3590,6 @@
 - **[2026-10-04 22:14 UTC]** Eleições 2026: Lula e Flávio vão ao segundo turno, projeta Datafolha; siga
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/ao-vivo/2026/10/04/eleicoes-2026-ultimas-noticias-votacao-candidatos-neste-domingo.ghtml)_
 
+- **[2026-10-04 20:34 UTC]** Apuração: Com 84,96% das urnas totalizadas, Flávio mantém dianteira com 48,47%; Lula tem 43,49%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-170-pontos-percentuais-das-urnas-totalizadas-flvio-tem-4919-lula-4219-e-cury-308-dos-votos.ghtml)_
+
