@@ -98,3 +98,6 @@
 - **[2026-10-04 13:22 UTC]** Governo de SC: Jorginho Mello (PL) vota em Herval D'Oeste
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/governo-de-sc-jorginho-mello-pl-vota-em-herval-doeste.ghtml)_
 
+- **[2026-10-04 19:18 UTC]** Jorginho Mello é reeleito governador de Santa Catarina em 1° turno
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/jorginho-mello-e-reeleito-governador-de-santa-catarina)_
+
