@@ -3479,3 +3479,6 @@
 - **[2026-10-04 09:00 UTC]** Em sua última disputa, Lula chega ao 1º turno com margem estreita em relação a Flávio e teme avanço do voto útil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/04/em-sua-ultima-disputa-lula-chega-ao-1o-turno-com-margem-estreita-em-relacao-a-flavio-e-teme-avanco-do-voto-util.ghtml)_
 
+- **[2026-10-04 12:19 UTC]** Eleições: Flávio, Lula e Zema já votaram; saem os primeiros resultados da apuração no exterior
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml)_
+
