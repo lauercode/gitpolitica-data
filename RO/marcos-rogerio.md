@@ -68,3 +68,6 @@
 - **[2026-10-03 22:40 UTC]** Quaest em Rondônia, votos válidos: Marcos Rogério, 53%; Adailton Furia, 24%; Hildon Chaves, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/03/quaest-rondonia-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 14:59 UTC]** Candidato ao governo Marcos Rogério do PL vota em Ji-Paraná, RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/04/candidato-ao-governo-marcos-rogerio-do-pl-vota-em-ji-parana-ro.ghtml)_
+
