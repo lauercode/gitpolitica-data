@@ -38,3 +38,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Ciro Gomes, candidato a governador do Ceará em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-ciro-gomes-candidato-a-governador-do-ceara-em-2026.ghtml)_
 
+- **[2026-10-04 19:36 UTC]** Elmano de Freitas (PT) vence Ciro Gomes (PSDB) e é reeleito no Ceará, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/elmano-de-freitas-pt-vence-ciro-gomes-psdb-e-e-reeleito-no-ceara-projeta-datafolha.shtml)_
+
