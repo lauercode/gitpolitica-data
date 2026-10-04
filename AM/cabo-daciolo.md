@@ -14,3 +14,6 @@
 - **[2026-10-01 00:50 UTC]** Qual é o número de Cabo Daciolo (Mobiliza) para o governo do Amazonas?
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-cabo-daciolo-mobiliza-para-o-governo-do-amazonas.ghtml)_
 
+- **[2026-10-04 16:52 UTC]** Cabo Daciolo (Mobiliza) vota em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/cabo-daciolo-mobiliza-vota-em-manaus.ghtml)_
+
