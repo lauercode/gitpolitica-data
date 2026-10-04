@@ -20,3 +20,6 @@
 - **[2026-10-04 13:32 UTC]** Sanderson (PL) vota em Santo Ângelo
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/sanderson-pl-vota-em-santo-angelo.ghtml)_
 
+- **[2026-10-04 22:12 UTC]** Sanderson (PL) e Marcel van Hattem (Novo) são eleitos senadores pelo RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/reultado-senado-rs.ghtml)_
+
