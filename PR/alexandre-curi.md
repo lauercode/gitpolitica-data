@@ -14,3 +14,6 @@
 - **[2026-10-01 01:44 UTC]** Qual é o número de Alexandre Curi (Republicanos) para o Senado no Paraná?
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-alexandre-curi-republicanos-para-o-senado-no-parana.ghtml)_
 
+- **[2026-10-03 22:24 UTC]** Quaest para o Senado no Paraná, votos válidos: Filipe Barros, 25%, Alexandre Curi, 21%; Deltan Dallagnol, 21%; e Gleisi, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/quaest-parana-senado-3-outubro.ghtml)_
+
