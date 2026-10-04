@@ -17,3 +17,6 @@
 - **[2026-10-04 15:51 UTC]** Candidato ao Senado pelo Acre, Márcio Bittar (PL) vota em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/candidato-ao-senado-pelo-acre-marcio-bittar-pl-vota-em-rio-branco.ghtml)_
 
+- **[2026-10-04 22:09 UTC]** Marcio Bittar (PL) e Mara Rocha (Republicanos) são eleitos senadores pelo Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/senado-acre-eleicao.ghtml)_
+
