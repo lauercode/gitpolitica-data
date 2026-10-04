@@ -3452,3 +3452,6 @@
 - **[2026-10-04 00:01 UTC]** Veja trajetória pessoal e política de Flávio Bolsonaro, que disputa a Presidência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-trajetoria-pessoal-e-politica-de-flavio-bolsonaro-que-disputa-a-presidencia.shtml)_
 
+- **[2026-10-04 00:00 UTC]** Eleição tem 158 milhões aptos a votar com disputa acirrada entre Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicao-tem-158-milhoes-aptos-a-votar-com-disputa-acirrada-entre-lula-e-flavio-bolsonaro.shtml)_
+
