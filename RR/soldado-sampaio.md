@@ -44,3 +44,6 @@
 - **[2026-10-04 20:02 UTC]** Eleições 2026: veja propostas de Soldado Sampaio para o governo de Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-veja-propostas-de-soldado-sampaio-para-o-governo-de-roraima.ghtml)_
 
+- **[2026-10-04 14:12 UTC]** Candidato ao governo de Roraima, Soldado Sampaio vota em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/candidato-ao-governo-de-roraima-soldado-sampaio-vota-em-boa-vista.ghtml)_
+
