@@ -80,3 +80,6 @@
 - **[2026-10-01 00:15 UTC]** Roberto Campos Neto convidou Vorcaro para sua casa enquanto era presidente do BC
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/30/roberto-campos-neto-convidou-vorcaro-para-sua-casa-enquanto-era-presidente-do-bc.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Roberto Calasso lança nova luz sobre a Bíblia com detalhes e lacunas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/roberto-calasso-lanca-nova-luz-sobre-a-biblia-com-detalhes-e-lacunas.shtml)_
+
