@@ -3401,3 +3401,6 @@
 - **[2026-10-04 00:05 UTC]** ANÁLISE: Quaest aponta ‘movimento de voto útil de direita’ a favor de Flávio Bolsonaro, diz Felipe Nunes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-felipe-nunes-analise-vespera-eleicao.ghtml)_
 
+- **[2026-10-03 23:29 UTC]** Datafolha, 1º turno - votos válidos: Na véspera da eleição, Flávio Bolsonaro lidera em SP, RJ e DF; Lula, em PE; os dois empatam em MG
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/datafolha-1o-turno-presidente-estados-sp-rj-df-pe-mg-df.ghtml)_
+
