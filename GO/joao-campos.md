@@ -104,3 +104,6 @@
 - **[2026-10-03 22:01 UTC]** Datafolha: Em PE, Raquel Lyra tem 49% dos votos válidos contra 48% de João Campos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/datafolha-em-pe-raquel-lyra-tem-49percent-dos-votos-validos-contra-48percent-de-joao-campos.ghtml)_
 
+- **[2026-10-04 14:06 UTC]** João Campos vota em Recife e diz que sua campanha foi ‘crescente’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/joo-campos-vota-em-recife-e-diz-que-sua-campanha-foi-crescente.ghtml)_
+
