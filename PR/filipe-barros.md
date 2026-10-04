@@ -20,3 +20,6 @@
 - **[2026-10-03 22:24 UTC]** Quaest para o Senado no Paraná, votos válidos: Filipe Barros, 25%, Alexandre Curi, 21%; Deltan Dallagnol, 21%; e Gleisi, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/quaest-parana-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 22:27 UTC]** Filipe Barros (PL) e Deltan Dallagnol (Novo) são eleitos senadores pelo Paraná
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-parana.ghtml)_
+
