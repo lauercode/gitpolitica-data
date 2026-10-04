@@ -74,3 +74,6 @@
 - **[2026-10-01 00:50 UTC]** Qual é o número de David Almeida (Avante) para o governo do Amazonas?
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-david-almeida-avante-para-o-governo-do-amazonas.ghtml)_
 
+- **[2026-10-04 13:30 UTC]** David Almeida (Avante) vota em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/david-almeida-avante-vota-em-manaus.ghtml)_
+
