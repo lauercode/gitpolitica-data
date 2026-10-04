@@ -533,3 +533,6 @@
 - **[2026-10-02 16:12 UTC]** A Fazenda 18: Carol Lekker revela morte de Rick para Adryana após eliminação; entenda a polêmica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-carol-lekker-revela-morte-de-rick-para-adryana-apos-eliminacao-entenda-a-polemica.shtml)_
 
+- **[2026-10-03 23:07 UTC]** Quaest: Mailza Assis lidera corrida no Acre com 41%, contra 37% de Alan Rick
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/quaest-mailza-assis-lidera-corrida-no-acre-com-41-pontos-percentuais-contra-37-de-alan-rick.ghtml)_
+
