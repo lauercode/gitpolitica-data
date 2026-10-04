@@ -41,3 +41,6 @@
 - **[2026-10-03 18:22 UTC]** Datafolha: Eduardo Paes lidera com 49% das intenções de votos válidos no RJ sem Garotinho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eduardo-paes-lidera-com-49-das-intencoes-de-votos-validos-no-rj-sem-garotinho.shtml)_
 
+- **[2026-10-03 18:22 UTC]** Datafolha: Eduardo Paes lidera com 49% em votos válidos no RJ sem Garotinho; Ruas tem 40%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eduardo-paes-lidera-com-49-das-intencoes-de-votos-validos-no-rj-sem-garotinho.shtml)_
+
