@@ -23,3 +23,6 @@
 - **[2026-10-03 18:11 UTC]** Siqueira Campos Júnior desiste de disputar o governo do Tocantins e declara apoio a Professora Dorinha
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/siqueira-campos-junior-desiste-de-disputar-o-governo-do-tocantins-e-declara-apoio-a-professora-dorinha.ghtml)_
 
+- **[2026-10-04 16:26 UTC]** Professora Dorinha (União) vota em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/professora-dorinha-uniao-vota-em-palmas.ghtml)_
+
