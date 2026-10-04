@@ -35,3 +35,6 @@
 - **[2026-10-04 17:00 UTC]** Desafio é atrair atenção do eleitor, diz Gabriel Souza (MDB), vice-governador e candidato no RS
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/desafio-atrair-ateno-do-eleitor-diz-gabriel-souza-mdb-vice-governador-e-candidato-no-rs.ghtml)_
 
+- **[2026-10-04 15:40 UTC]** Gabriel Souza (MDB) vota em Tramandaí
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/gabriel-souza-mdb-vota-em-tramandai.ghtml)_
+
