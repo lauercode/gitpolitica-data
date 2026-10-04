@@ -3419,3 +3419,6 @@
 - **[2026-10-03 22:17 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 44%; Lula 42%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-2o-turno-flavio-bolsonaro-44percent-lula-42percent.ghtml)_
 
+- **[2026-10-03 22:16 UTC]** Quaest, 1º turno - votos válidos: Lula, 46%; Flávio Bolsonaro, 45%; Cury, 3%;  Renan, 3%; Caiado, 3%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-presidente-3-outubro.ghtml)_
+
