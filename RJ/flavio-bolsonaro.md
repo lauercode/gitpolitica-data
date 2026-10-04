@@ -3443,3 +3443,6 @@
 - **[2026-10-03 18:57 UTC]** Bolsonaro nunca mais no poder, p..., diz goleira do São Paulo após título do Brasileirão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/bolsonaro-nunca-mais-no-poder-p-diz-goleira-do-sao-paulo-apos-titulo-do-brasileirao.shtml)_
 
+- **[2026-10-03 18:32 UTC]** Datafolha: Lula tem 45% e Flávio Bolsonaro, 42% em votos válidos, em empate técnico na véspera do 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-45-e-flavio-bolsonaro-42-em-votos-validos-na-vespera-do-1o-turno.shtml)_
+
