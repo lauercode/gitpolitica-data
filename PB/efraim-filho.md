@@ -68,3 +68,6 @@
 - **[2026-10-02 21:29 UTC]** Efraim Filho defende mudança na Paraíba no encerramento da campanha antes do 1º turno
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/02/efraim-filho-defende-mudanca-na-paraiba-no-encerramento-da-campanha-antes-do-1o-turno.ghtml)_
 
+- **[2026-10-03 22:41 UTC]** Quaest na Paraíba, votos válidos: Lucas Ribeiro, 61%; Efraim Filho, 23%; Cícero Lucena, 16%
+  _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/03/quaest-pb-governador-3-outubro.ghtml)_
+
