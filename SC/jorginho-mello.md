@@ -101,3 +101,6 @@
 - **[2026-10-04 19:18 UTC]** Jorginho Mello é reeleito governador de Santa Catarina em 1° turno
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/jorginho-mello-e-reeleito-governador-de-santa-catarina)_
 
+- **[2026-10-04 18:26 UTC]** Jorginho Mello (PL) é reeleito governador de SC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jorginho-mello-pl-e-reeleito-governador-de-sc-projeta-datafolha.shtml)_
+
