@@ -38,3 +38,6 @@
 - **[2026-10-03 20:32 UTC]** Quaest no DF, votos válidos: Celina Leão, 53%; Leandro Grass, 32%; Paula Belmonte, 10%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/quaest-df-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 20:13 UTC]** Celina Leão e Leandro Grass disputam 2° turno para governador do DF
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/celina-leao-e-leandro-grass-disputam-2deg-turno-para-governador-do-df)_
+
