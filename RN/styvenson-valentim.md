@@ -20,3 +20,6 @@
 - **[2026-09-30 21:36 UTC]** Qual é o número de Styvenson Valentim (Pode) para o Senado no Rio Grande do Norte?
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-styvenson-valentim-pode-para-o-senado-no-rio-grande-do-norte.ghtml)_
 
+- **[2026-10-03 22:24 UTC]** Quaest para o Senado no RN, votos válidos: Styvenson Valentim, 27%; Coronel Hélio, 20%; Samanda de Lula, 18%; Zenaide Maia, 17%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/03/quaest-senado-rn-3-outubro.ghtml)_
+
