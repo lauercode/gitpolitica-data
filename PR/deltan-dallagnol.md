@@ -71,3 +71,6 @@
 - **[2026-10-03 17:25 UTC]** Zeca Dirceu pede a Gilmar Mendes para anular votos de Deltan Dallagnol para o Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/zeca-dirceu-pede-a-gilmar-mendes-para-anular-votos-de-deltan-para-o-senado/)_
 
+- **[2026-10-03 22:24 UTC]** Quaest para o Senado no Paraná, votos válidos: Filipe Barros, 25%, Alexandre Curi, 21%; Deltan Dallagnol, 21%; e Gleisi, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/quaest-parana-senado-3-outubro.ghtml)_
+
