@@ -41,3 +41,6 @@
 - **[2026-10-03 22:35 UTC]** Quaest em Roraima, votos válidos: Arthur Henrique 64%; Soldado Sampaio, 34%
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/03/quaest-roraima-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 20:02 UTC]** Eleições 2026: veja propostas de Soldado Sampaio para o governo de Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-veja-propostas-de-soldado-sampaio-para-o-governo-de-roraima.ghtml)_
+
