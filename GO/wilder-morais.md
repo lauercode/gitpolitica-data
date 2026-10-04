@@ -14,3 +14,6 @@
 - **[2026-10-03 22:41 UTC]** Quaest em Goiás, votos válidos: Daniel Vilela (MDB), 57%; Wilder Morais (PL), 20%; e Marconi Perillo (PSDB), 18%
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/03/quaest-estado-governador-3-outubro.ghtml)_
 
+- **[2026-10-03 23:29 UTC]** Quaest: Em Goiás, Daniel Vilela tem 57% dos votos válidos, Wilder Morais, 20%, e Marconi Perillo, 18%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-em-gois-daniel-vilela-tem-57-pontos-percentuais-dos-votos-vlidos-wilder-morais-20-e-marconi-perillo-18.ghtml)_
+
