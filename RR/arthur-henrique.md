@@ -41,3 +41,6 @@
 - **[2026-10-01 15:40 UTC]** Qual é o número de Arthur Henrique (PL) para o governo de Roraima?
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-arthur-henrique-pl-para-o-governo-de-roraima.ghtml)_
 
+- **[2026-10-03 22:35 UTC]** Quaest em Roraima, votos válidos: Arthur Henrique 64%; Soldado Sampaio, 34%
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/03/quaest-roraima-governador-3-outubro.ghtml)_
+
