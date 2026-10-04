@@ -56,3 +56,6 @@
 - **[2026-10-04 12:59 UTC]** Erika Hilton recebe ameaça de morte por e-mail no 1º turno: 'banho de sangue'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/erika-hilton-recebe-ameaca-de-morte-por-e-mail-no-1o-turno-banho-de-sangue.shtml)_
 
+- **[2026-10-04 17:32 UTC]** Erika Hilton recebe ameaça de morte e adia ida às urnas por segurança
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/erika-hilton-recebe-ameaca-de-morte-e-adia-ida-as-urnas-por-seguranca.ghtml)_
+
