@@ -17,3 +17,6 @@
 - **[2026-09-30 21:08 UTC]** Qual é o número de Marina Jhc (PSDB) para o Senado em Alagoas?
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-marina-jhc-psdb-para-o-senado-em-alagoas.ghtml)_
 
+- **[2026-10-04 22:35 UTC]** Apuração: Com 40% das urnas apuradas, Arthur Lira e Marina JHC lideram disputa ao Senado em Alagoas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-40percent-das-urnas-apuradas-arthur-lira-e-marina-jhc-lideram-disputa-ao-senado-em-alagoas.ghtml)_
+
