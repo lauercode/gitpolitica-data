@@ -143,3 +143,6 @@
 - **[2026-10-04 15:46 UTC]** ‘Fizemos tudo o que pudemos’, diz Raquel Lyra após votar em em PE
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/fizemos-tudo-o-que-pudemos-diz-raquel-lyra-aps-votar-em-em-pe.ghtml)_
 
+- **[2026-10-04 18:58 UTC]** Raquel Lyra (PSD) derrota João Campos (PSB) e é reeleita em Pernambuco, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/raquel-lyra-psd-derrota-joao-campos-psb-e-e-reeleita-em-pernambuco-projeta-datafolha.shtml)_
+
