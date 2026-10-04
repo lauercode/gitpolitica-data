@@ -1130,3 +1130,6 @@ direitos
 - **[2026-10-03 15:04 UTC]** Eleição à Câmara ganha prioridade em partidos por acesso a fundos públicos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicao-a-camara-ganha-prioridade-em-partidos-por-acesso-a-fundos-publicos.shtml)_
 
+- **[2026-10-04 03:00 UTC]** Com passagens por Câmara, Senado e pelo governo de Goiás, Ronaldo Caiado tenta pela segunda vez chegar à Presidência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/com-passagens-por-camara-senado-e-pelo-governo-de-goias-ronaldo-caiado-tenta-pela-segunda-vez-chegar-a-presidencia.ghtml)_
+
