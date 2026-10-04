@@ -44,3 +44,6 @@
 - **[2026-10-03 18:22 UTC]** Datafolha: Eduardo Paes lidera com 49% em votos válidos no RJ sem Garotinho; Ruas tem 40%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eduardo-paes-lidera-com-49-das-intencoes-de-votos-validos-no-rj-sem-garotinho.shtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Eduardo Paes, candidato a governador do Rio de Janeiro em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-eduardo-paes-candidato-a-governador-do-rio-de-janeiro-em-2026.ghtml)_
+
