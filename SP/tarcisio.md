@@ -143,3 +143,6 @@
 - **[2026-10-04 23:01 UTC]** André do Prado é eleito senador por SP após campanha apoiada por Tarcísio e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/andre-do-prado-e-eleito-senador-por-sp-apos-campanha-apoiada-por-tarcisio-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-04 22:42 UTC]** Tarcísio de Freitas é reeleito governador em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-sp.ghtml)_
+
