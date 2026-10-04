@@ -416,3 +416,6 @@
 - **[2026-10-04 14:28 UTC]** Renan Santos vota em São Paulo e ataca Flávio: “desqualificado, covarde e burro”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-vota-em-sao-paulo-e-ataca-flavio-desqualificado-covarde-e-burro/)_
 
+- **[2026-10-04 14:17 UTC]** Estratégia de voto útil em Flávio é ‘mentira’ do bolsonarismo, afirma Renan Santos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/estratgia-de-voto-til-em-flvio-mentira-do-bolsonarismo-afirma-renan-santos.ghtml)_
+
