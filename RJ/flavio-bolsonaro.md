@@ -3506,3 +3506,6 @@
 - **[2026-10-04 11:26 UTC]** Lula vence na Nova Zelândia, Coreia do Sul, Malásia, Cingapura e Austrália; Flávio ganha nas Filipinas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/lula-vence-na-nova-zelandia-coreia-do-sul-malasia-cingapura-e-australia-flavio-ganha-nas-filipinas.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Lula vence em mais países, mas Flávio Bolsonaro soma mais votos; acompanhe a apuração no exterior
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml)_
+
