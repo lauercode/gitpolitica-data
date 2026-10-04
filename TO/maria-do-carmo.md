@@ -59,3 +59,6 @@
 - **[2026-09-30 22:09 UTC]** Eleições 2026: Maria do Carmo promete ampliar delegacias especializadas no combate à violência contra a mulher
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-maria-do-carmo-promete-ampliar-delegacias-especializadas-no-combate-a-violencia-contra-a-mulher.ghtml)_
 
+- **[2026-10-04 16:13 UTC]** Omar Aziz, Maria do Carmo e Roberto Cidade já votaram; acompanhe o dia das eleições no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-amazonas.ghtml)_
+
