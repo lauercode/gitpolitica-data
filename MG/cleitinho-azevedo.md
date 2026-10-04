@@ -14,3 +14,6 @@
 - **[2026-09-29 20:05 UTC]** Quaest em MG: Cleitinho Azevedo lidera todas as simulações de 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/quaest-mg-governador-2-turno-29-setembro.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Cleitinho Azevedo, candidato a governador de Minas Gerais em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-cleitinho-azevedo-candidato-a-governador-de-minas-gerais-em-2026.ghtml)_
+
