@@ -53,3 +53,6 @@
 - **[2026-10-03 16:17 UTC]** Nikolas Ferreira deixa Carlos Bolsonaro, Sergio Moro e Ciro Nogueira fora de indicações de voto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/nikolas-ferreira-deixa-carlos-bolsonaro-sergio-moro-e-ciro-nogueira-fora-de-indicacoes-de-voto.shtml)_
 
+- **[2026-10-04 22:54 UTC]** Lucas Pavanato e Nikolas Ferreira superam 2 milhões de votos para deputado federal e batem recorde
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/lucas-pavanato-e-nikolas-ferreira-recorde-votos-deputado-federal.ghtml)_
+
