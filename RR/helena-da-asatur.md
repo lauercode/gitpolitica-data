@@ -23,3 +23,6 @@
 - **[2026-10-03 22:43 UTC]** Quaest para o Senado em Roraima, votos válidos: Nicoletti, 26%; Teresa Surita, 25%; Helena da Asatur, 19%; Chico Rodrigues, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/03/quaest-roraima-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 16:13 UTC]** Marido de candidata ao Senado Helena da Asatur é alvo de operação da PF que investiga R$ 4 milhões apreendidos em RR
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/10/04/marido-de-candidata-ao-senado-helena-da-asatur-e-alvo-de-operacao-da-pf-que-investiga-r-4-milhoes-apreendidos-em-rr.ghtml)_
+
