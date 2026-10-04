@@ -35,3 +35,6 @@
 - **[2026-09-24 13:04 UTC]** Neutralidade dá condições de centrão compor próximo governo, diz Hugo Motta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/neutralidade-da-condicoes-de-centrao-compor-proximo-governo-diz-hugo-motta.shtml)_
 
+- **[2026-10-04 16:10 UTC]** Hugo Motta vota na Paraíba e diz esperar que eleitos façam o necessário para o país avançar
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1308572-hugo-motta-vota-na-paraiba-e-diz-esperar-que-eleitos-facam-o-necessario-para-o-pais-avancar)_
+
