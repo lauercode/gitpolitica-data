@@ -23,3 +23,6 @@
 - **[2026-10-04 08:33 UTC]** Em 'fase paz e amor', Ana Paula Renault pede que fãs não entrem em brigas para defendê-la
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/em-fase-paz-e-amor-ana-paula-renault-pede-que-fas-nao-entrem-em-brigas-para-defende-la.shtml)_
 
+- **[2026-10-04 16:32 UTC]** Com Ana Paula Renault, Blogueirinha lidera na TV paga em estreia no Multishow
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/com-ana-paula-renault-blogueirinha-lidera-na-tv-paga-em-estreia-no-multishow.shtml)_
+
