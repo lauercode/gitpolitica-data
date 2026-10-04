@@ -20,3 +20,6 @@
 - **[2026-10-03 22:38 UTC]** Quaest para o Senado no RS, votos válidos: Sanderson, 25%; Marcel van Hattem, 22%; Manuela d'Ávila, 20%; Pimenta, 18%
   _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/03/quaest-rs-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 15:11 UTC]** Marcel van Hattem (Novo) vota em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/marcel-van-hattem-novo-vota-em-porto-alegre.ghtml)_
+
