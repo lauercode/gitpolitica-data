@@ -236,3 +236,6 @@
 - **[2026-10-01 00:51 UTC]** Qual é o número de Roberto Cidade (União) para o governo do Amazonas?
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-roberto-cidade-uniao-para-o-governo-do-amazonas.ghtml)_
 
+- **[2026-10-03 22:39 UTC]** Quaest no Amazonas, votos válidos: Omar Aziz, 40%; Professora Maria do Carmo, 25%; Roberto Cidade, 24%
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quaest-am-governador-3-outubro.ghtml)_
+
