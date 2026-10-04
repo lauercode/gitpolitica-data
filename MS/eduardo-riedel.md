@@ -20,3 +20,6 @@
 - **[2026-10-04 18:04 UTC]** Eduardo Riedel (PP) é reeleito governador de Mato Grosso do Sul
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-riedel-pp-e-reeleito-governador-de-mato-grosso-do-sul-projeta-datafolha.shtml)_
 
+- **[2026-10-04 21:24 UTC]** Em MS, Eduardo Riedel está matematicamente reeleito para o governo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-5155percent-das-urnas-contabilizadas-eduardo-riedel-tem-6739percent-e-fabio-trad-2296percent-no-ms.ghtml)_
+
