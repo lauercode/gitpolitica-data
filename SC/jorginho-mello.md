@@ -110,3 +110,6 @@
 - **[2026-10-04 22:16 UTC]** Jorginho Mello (PL) é reeleito governador de Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/jorginho-mello-pl-reeleito-governador-de-santa-catarina.ghtml)_
 
+- **[2026-10-04 21:42 UTC]** Atual governador, Jorginho Mello (PL)  se reelege em Santa Catarina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-2743percent-das-urnas-apuradas-atual-governador-jorginho-mello-pl-lidera-com-6377percent.ghtml)_
+
