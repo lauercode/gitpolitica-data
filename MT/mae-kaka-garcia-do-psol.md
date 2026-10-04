@@ -104,3 +104,6 @@
 - **[2026-10-02 16:56 UTC]** Presidente da federação PSOL-Rede, Juliano Medeiros pede ao Itamaraty expulsão de diplomata dos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/presidente-da-federacao-psol-rede-juliano-medeiros-pede-ao-itamaraty-expulsao-de-diplomata-dos-eua.shtml)_
 
+- **[2026-10-04 11:49 UTC]** Professora Evany (PSOL) vota em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/professora-evany-psol-vota-em-manaus.ghtml)_
+
