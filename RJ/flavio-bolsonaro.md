@@ -3431,3 +3431,6 @@
 - **[2026-10-03 20:47 UTC]** Ex-ministro Pedro Parente diz que teve má impressão de Flávio em jantar e que não votará nele
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/ex-ministro-pedro-parente-diz-que-teve-ma-impressao-de-flavio-em-jantar-e-que-nao-votara-nele.shtml)_
 
+- **[2026-10-03 20:36 UTC]** Datafolha: Onda de Flávio Bolsonaro se mantém e desafia Lula já no 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-onda-de-flavio-bolsonaro-se-mantem-e-desafia-lula-ja-no-1o-turno.shtml)_
+
