@@ -404,3 +404,6 @@
 - **[2026-10-02 17:48 UTC]** Renan Santos chama Flávio Bolsonaro para debate em troca de eventual apoio no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/renan-santos-chama-flavio-bolsonaro-para-debate-em-troca-de-eventual-apoio-no-1o-turno.shtml)_
 
+- **[2026-10-03 23:00 UTC]** Em estreia do Missão, Renan Santos fez campanha marcada por ataques e discurso radical
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-estreia-do-missao-renan-santos-fez-campanha-marcada-por-ataques-e-discurso-radical.shtml)_
+
