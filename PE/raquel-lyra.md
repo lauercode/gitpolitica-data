@@ -137,3 +137,6 @@
 - **[2026-10-03 22:01 UTC]** Datafolha: Em PE, Raquel Lyra tem 49% dos votos válidos contra 48% de João Campos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/datafolha-em-pe-raquel-lyra-tem-49percent-dos-votos-validos-contra-48percent-de-joao-campos.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Raquel Lyra, candidata a governadora de Pernambuco em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-raquel-lyra-candidata-a-governadora-de-pernambuco-em-2026.ghtml)_
+
