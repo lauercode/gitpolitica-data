@@ -80,3 +80,6 @@
 - **[2026-10-03 19:42 UTC]** Quaest no Pará, votos válidos: Dr Daniel, 57%; Hana Ghassan, 40%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/03/quaest-no-para-governo-3-outubro.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Hana Ghassan, candidata a governadora do Pará em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-hana-ghassan-candidata-a-governadora-do-para-em-2026.ghtml)_
+
