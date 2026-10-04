@@ -83,3 +83,6 @@
 - **[2026-10-02 23:50 UTC]** TSE forma maioria para barrar candidatura de Cícero Lucena ao governo da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/02/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba.ghtml)_
 
+- **[2026-10-03 22:41 UTC]** Quaest na Paraíba, votos válidos: Lucas Ribeiro, 61%; Efraim Filho, 23%; Cícero Lucena, 16%
+  _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/03/quaest-pb-governador-3-outubro.ghtml)_
+
