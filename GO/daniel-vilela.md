@@ -47,3 +47,6 @@
 - **[2026-10-04 19:32 UTC]** Daniel Vilela é reeleito governador de Goiás no primeiro turno
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/daniel-vilela-e-eleito-governador-de-goias-no-primeiro-turno)_
 
+- **[2026-10-04 19:59 UTC]** Daniel Vilela (MDB) é reeleito governador de Goiás
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/daniel-vilela-mdb-e-reeleito-governador-de-goias-projeta-datafolha.shtml)_
+
