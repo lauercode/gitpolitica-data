@@ -3476,3 +3476,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Flávio Bolsonaro, candidato a presidente em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-flavio-bolsonaro-candidato-a-presidente-em-2026.ghtml)_
 
+- **[2026-10-04 09:00 UTC]** Em sua última disputa, Lula chega ao 1º turno com margem estreita em relação a Flávio e teme avanço do voto útil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/04/em-sua-ultima-disputa-lula-chega-ao-1o-turno-com-margem-estreita-em-relacao-a-flavio-e-teme-avanco-do-voto-util.ghtml)_
+
