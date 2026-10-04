@@ -3578,3 +3578,6 @@
 - **[2026-10-04 19:26 UTC]** Campanha de Flávio fará reunião na 4ª feira e quer dar demonstração de força com eleitos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-fara-reuniao-na-4a-feira-e-quer-dar-demonstracao-de-forca-com-eleitos.shtml)_
 
+- **[2026-10-04 19:07 UTC]** Flávio Bolsonaro e Lula estão no 2º turno, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-estao-no-2o-turno-projeta-datafolha.shtml)_
+
