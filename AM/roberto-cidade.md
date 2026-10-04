@@ -239,3 +239,6 @@
 - **[2026-10-03 22:39 UTC]** Quaest no Amazonas, votos válidos: Omar Aziz, 40%; Professora Maria do Carmo, 25%; Roberto Cidade, 24%
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quaest-am-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 16:13 UTC]** Omar Aziz, Maria do Carmo e Roberto Cidade já votaram; acompanhe o dia das eleições no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-amazonas.ghtml)_
+
