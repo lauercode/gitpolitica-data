@@ -26,3 +26,6 @@
 - **[2026-09-29 17:20 UTC]** Qual é o número de Hertz Dias, candidato do PSTU à Presidência da República
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/qual-e-o-numero-de-hertz-dias-candidato-do-pstu-a-presidencia-da-republica.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Hertz Dias, candidato a presidente em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-hertz-dias-candidato-a-presidente-em-2026.ghtml)_
+
