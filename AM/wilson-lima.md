@@ -20,3 +20,6 @@
 - **[2026-10-03 22:52 UTC]** Quaest para o Senado no Amazonas, votos válidos: Eduardo Braga, 36%; Capitão Alberto Neto, 25%; Plínio Valério, 22%; Wilson Lima, 15%
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quaest-am-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 14:09 UTC]** Wilson Lima (União Brasil) vota em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/wilson-lima-uniao-brasil-vota-em-manaus.ghtml)_
+
