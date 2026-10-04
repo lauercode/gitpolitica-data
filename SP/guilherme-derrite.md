@@ -71,3 +71,6 @@
 - **[2026-10-03 21:16 UTC]** Datafolha para o Senado em SP, votos válidos: Derrite, 22%; André do Prado, 22%; Marina, 21%; Tebet, 20%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/datafolha-sp-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 22:58 UTC]** Guilherme Derrite chega ao Senado após gestão na Segurança de SP marcada por alta da letalidade policial
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/guilherme-derrite-chega-ao-senado-apos-gestao-na-seguranca-de-sp-marcada-por-alta-da-letalidade-policial.ghtml)_
+
