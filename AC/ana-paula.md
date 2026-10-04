@@ -20,3 +20,6 @@
 - **[2026-09-28 23:07 UTC]** Ana Paula Renault fala sobre fim da amizade com Milena: 'Quem?'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/ana-paula-renault-fala-sobre-fim-da-amizade-com-milena-quem.shtml)_
 
+- **[2026-10-04 08:33 UTC]** Em 'fase paz e amor', Ana Paula Renault pede que fãs não entrem em brigas para defendê-la
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/em-fase-paz-e-amor-ana-paula-renault-pede-que-fas-nao-entrem-em-brigas-para-defende-la.shtml)_
+
