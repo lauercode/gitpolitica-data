@@ -119,3 +119,6 @@
 - **[2026-10-03 22:50 UTC]** Quaest: No Paraná, Sérgio Moro tem 43% dos votos válidos, Sandro Alex, 29%, e Requião Filho, 27%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-no-paran-srgio-moro-tem-43-pontos-percentuais-dos-votos-vlidos-sandro-alex-29-e-requio-filho-27.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Sergio Moro, candidato a governador do Paraná em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-sergio-moro-candidato-a-governador-do-parana-em-2026.ghtml)_
+
