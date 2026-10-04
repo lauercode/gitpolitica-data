@@ -95,3 +95,6 @@
 - **[2026-10-04 16:13 UTC]** Omar Aziz, Maria do Carmo e Roberto Cidade já votaram; acompanhe o dia das eleições no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-amazonas.ghtml)_
 
+- **[2026-10-04 14:43 UTC]** Omar Aziz (PSD) vota em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/omar-aziz-psd-vota-em-manaus.ghtml)_
+
