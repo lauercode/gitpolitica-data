@@ -41,3 +41,6 @@
 - **[2026-10-04 18:47 UTC]** Michelle Bolsonaro é hostilizada em seção eleitoral e divulga nota citando Bíblia
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/michelle-bolsonaro-hostilizada-em-seo-eleitoral-e-divulga-nota-citando-bblia.ghtml)_
 
+- **[2026-10-04 19:12 UTC]** Michelle Bolsonaro e Bia Kicis batem recorde de votos ao Senado pelo DF desde a redemocratização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/michelle-bolsonaro-e-bia-kicis-batem-recorde-de-votos-ao-senado-pelo-df-desde-a-redemocratizacao.shtml)_
+
