@@ -47,3 +47,6 @@
 - **[2026-10-03 22:24 UTC]** Quaest no RN, votos válidos: Allyson, 37%; Cadu de Lula, 32%; Álvaro Dias, 29%
   _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/03/quaest-no-rn-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 14:48 UTC]** Álvaro Dias (PL) vota em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/alvaro-dias-pl-vota-em-natal.ghtml)_
+
