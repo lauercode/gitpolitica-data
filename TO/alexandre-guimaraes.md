@@ -20,3 +20,6 @@
 - **[2026-10-04 17:06 UTC]** Alexandre Guimarães (MDB) vota em Araguaína
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/alexandre-guimaraes-mdb-vota-em-araguaina.ghtml)_
 
+- **[2026-10-04 22:38 UTC]** Eduardo Gomes e Alexandre Guimarães são eleitos para o Senado pelo Tocantins
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/eduardo-gomes-e-alexandre-guimares-so-eleitos-para-o-senado-pelo-tocantins.ghtml)_
+
