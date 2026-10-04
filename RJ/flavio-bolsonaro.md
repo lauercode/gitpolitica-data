@@ -3461,3 +3461,6 @@
 - **[2026-10-03 23:00 UTC]** Itamaraty corre perigo se Flávio Bolsonaro subir a rampa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/10/itamaraty-corre-perigo-se-flavio-bolsonaro-subir-a-rampa.shtml)_
 
+- **[2026-10-03 23:00 UTC]** Ronaldo Caiado encerra campanha no 1º turno sem se consolidar como alternativa a Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ronaldo-caiado-encerra-campanha-no-1o-turno-sem-se-consolidar-como-alternativa-a-lula-e-flavio.shtml)_
+
