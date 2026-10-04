@@ -23,3 +23,6 @@
 - **[2026-10-03 19:42 UTC]** Quaest para o Senado no Pará, votos válidos: Helder, 28%; Delegado Éder Mauro, 24%; Chicão, 20%; Zequinha Marinho, 17%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/03/quaest-para-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 21:26 UTC]** Apuração: Helder Barbalho e Delegado Éder Mauro lideram a disputa no Senado pelo Pará
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-helder-barbalho-e-delegado-der-mauro-lideram-a-disputa-no-senado-pelo-par.ghtml)_
+
