@@ -23,3 +23,6 @@
 - **[2026-10-03 14:29 UTC]** Gilmar Mendes derruba direito de resposta de Jerônimo Rodrigues
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/gilmar-mendes-derruba-direito-de-resposta-de-jeronimo-rodrigues.ghtml)_
 
+- **[2026-10-03 22:25 UTC]** Quaest na BA, votos válidos: Jerônimo Rodrigues, 52%; ACM Neto, 48%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/03/quaest-ba-governador-3-outubro.ghtml)_
+
