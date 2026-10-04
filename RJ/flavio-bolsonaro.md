@@ -3440,3 +3440,6 @@
 - **[2026-10-03 19:02 UTC]** Flávio Bolsonaro fecha campanha do 1º turno com carreata em frente a igreja católica no Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-fecha-campanha-do-1-turno-em-carreata-em-frente-a-igreja-catolica-no-rio.shtml)_
 
+- **[2026-10-03 18:57 UTC]** Bolsonaro nunca mais no poder, p..., diz goleira do São Paulo após título do Brasileirão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/bolsonaro-nunca-mais-no-poder-p-diz-goleira-do-sao-paulo-apos-titulo-do-brasileirao.shtml)_
+
