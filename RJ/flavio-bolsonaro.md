@@ -3524,3 +3524,6 @@
 - **[2026-10-04 11:52 UTC]** Flávio Bolsonaro é o primeiro presidenciável a votar e diz acreditar em vitória no primeiro turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-vota-no-rio-e-diz-acreditar-em-vitoria-no-primeiro-turno/)_
 
+- **[2026-10-04 15:33 UTC]** Alfredo Gaspar, candidato a vice-presidência com Flávio Bolsonaro, vota em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/04/alfredo-gaspar-candidato-a-vice-presidencia-com-flavio-bolsonaro-vota-em-maceio.ghtml)_
+
