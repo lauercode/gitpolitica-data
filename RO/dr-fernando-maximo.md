@@ -41,3 +41,6 @@
 - **[2026-09-30 22:19 UTC]** Qual é o número de Dr. Fernando Máximo (PL) para o Senado em Rondônia?
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-fernando-maximo-pl-para-o-senado-em-rondonia.ghtml)_
 
+- **[2026-10-03 22:48 UTC]** Quaest para o Senado em Rondônia, votos válidos: Máximo, 28%; Scheid, 23%; Cristina, 21%; Mariana, 16%
+  _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/03/quaest-rondonia-senado-3-outubro.ghtml)_
+
