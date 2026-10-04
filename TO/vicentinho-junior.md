@@ -29,3 +29,6 @@
 - **[2026-10-04 19:18 UTC]** Dorinha e Vicentinho Junior vão disputar o 2° turno no Tocantins
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/dorinha-e-vicentinho-junior-vao-disputar-o-2deg-turno-no-tocantins)_
 
+- **[2026-10-04 18:27 UTC]** Professora Dorinha (União Brasil) e Vicentinho Júnior (PSDB) vão ao 2º turno no Tocantins
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/professora-dorinha-uniao-brasil-e-vicentinho-junior-psdb-vao-ao-2o-turno-no-tocantins-projeta-datafolha.shtml)_
+
