@@ -41,3 +41,6 @@
 - **[2026-10-04 12:13 UTC]** Douglas Ruas afirma que decisão de anular votos dados a Garotinho é 'manobra' para favorecer Paes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/douglas-ruas-afirma-que-deciso-de-anular-votos-dados-a-garotinho-manobra-para-favorecer-paes.ghtml)_
 
+- **[2026-10-04 15:18 UTC]** Douglas Ruas diz que não há conversas com Garotinho em torno de eventual apoio caso eleição vá para segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/douglas-ruas-diz-que-no-h-conversas-com-garotinho-em-torno-de-eventual-apoio-caso-eleio-v-para-segundo-turno.ghtml)_
+
