@@ -44,3 +44,6 @@
 - **[2026-10-03 22:38 UTC]** Quaest no RS, votos válidos: Zucco, 52%; Juliana Brizola, 35%
   _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/03/quaest-rs-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Juliana Brizola, candidata a governador do Rio Grande do Sul em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-juliana-brizola-candidata-a-governador-do-rio-grande-do-sul-em-2026.ghtml)_
+
