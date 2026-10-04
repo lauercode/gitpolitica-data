@@ -131,3 +131,6 @@
 - **[2026-10-03 21:22 UTC]** Quaest: Em MG, Cleitinho tem 54% dos votos válidos; Patrus tem 23%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-em-mg-cleitinho-tem-54-pontos-percentuais-dos-votos-vlidos-patrus-tem-23.ghtml)_
 
+- **[2026-10-04 16:51 UTC]** Líder nas pesquisas eleitorais em Minas Gerais, Cleitinho vota em Divinópolis
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/lider-nas-pesquisas-eleitorais-em-minas-gerais-cleitinho-vota-em-divinopolis.ghtml)_
+
