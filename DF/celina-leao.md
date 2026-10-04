@@ -92,3 +92,6 @@
 - **[2026-10-03 18:18 UTC]** Datafolha: Celina Leão lidera no DF com 55% dos votos válidos e pode vencer no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-celina-leao-lidera-no-df-com-55-dos-votos-validos-e-pode-vencer-no-1o-turno.shtml)_
 
+- **[2026-10-04 20:13 UTC]** Celina Leão e Leandro Grass disputam 2° turno para governador do DF
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/celina-leao-e-leandro-grass-disputam-2deg-turno-para-governador-do-df)_
+
