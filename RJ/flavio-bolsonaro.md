@@ -3458,3 +3458,6 @@
 - **[2026-10-03 23:34 UTC]** Datafolha: Lula lidera entre mais jovens e mais velhos no 1º turno, e Flávio Bolsonaro, entre os mais ricos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-lidera-entre-mais-jovens-e-mais-velhos-no-1o-turno-e-flavio-bolsonaro-entre-os-mais-ricos.shtml)_
 
+- **[2026-10-03 23:00 UTC]** Itamaraty corre perigo se Flávio Bolsonaro subir a rampa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/10/itamaraty-corre-perigo-se-flavio-bolsonaro-subir-a-rampa.shtml)_
+
