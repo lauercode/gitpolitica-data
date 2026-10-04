@@ -17,3 +17,6 @@
 - **[2026-09-18 21:12 UTC]** Siqueira Campos Júnior promete criar programa para educação e esporte e reforçar a segurança
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/18/siqueira-campos-junior-promete-criar-programa-para-educacao-e-esporte-e-reforcar-a-seguranca.ghtml)_
 
+- **[2026-10-03 18:11 UTC]** Siqueira Campos Júnior desiste de disputar o governo do Tocantins e declara apoio a Professora Dorinha
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/siqueira-campos-junior-desiste-de-disputar-o-governo-do-tocantins-e-declara-apoio-a-professora-dorinha.ghtml)_
+
