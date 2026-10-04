@@ -23,3 +23,6 @@
 - **[2026-10-03 19:42 UTC]** Quaest no Pará, votos válidos: Dr Daniel, 57%; Hana Ghassan, 40%
   _fonte: [G1 - Política:](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/03/quaest-no-para-governo-3-outubro.ghtml)_
 
+- **[2026-10-04 14:52 UTC]** Dr Daniel Santos (Podemos) vota em Ananindeua
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/dr-daniel-santos-podemos-vota-em-belem.ghtml)_
+
