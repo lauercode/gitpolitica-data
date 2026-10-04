@@ -3533,3 +3533,6 @@
 - **[2026-10-04 14:17 UTC]** Estratégia de voto útil em Flávio é ‘mentira’ do bolsonarismo, afirma Renan Santos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/estratgia-de-voto-til-em-flvio-mentira-do-bolsonarismo-afirma-renan-santos.ghtml)_
 
+- **[2026-10-04 13:21 UTC]** Após votar, Lula minimiza empate técnico com Flávio e diz que pesquisa que vale é a de hoje
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/aps-votar-lula-minimiza-empate-tcnico-com-flvio-e-diz-que-pesquisa-que-vale-a-de-hoje.ghtml)_
+
