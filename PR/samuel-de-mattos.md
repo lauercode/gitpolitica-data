@@ -11,3 +11,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Samuel de Mattos, candidato a governador do Paraná em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-samuel-de-mattos-candidato-a-governador-do-parana-em-2026.ghtml)_
 
+- **[2026-10-04 19:20 UTC]** Samuel de Mattos (PSTU) vota em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/samuel-de-mattos-pstu-vota-em-curitiba.ghtml)_
+
