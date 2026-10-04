@@ -110,3 +110,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Requião Filho, candidato a governador do Paraná em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-requiao-filho-candidato-a-governador-do-parana-em-2026.ghtml)_
 
+- **[2026-10-04 12:53 UTC]** Requião Filho (PDT) vota em Curitiba
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/voto-requiao-filho-eleicao.ghtml)_
+
