@@ -35,3 +35,6 @@
 - **[2026-10-04 22:52 UTC]** Aposta do pai, Carlos Bolsonaro é eleito senador 9 meses após mudar domicílio eleitoral para SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/carlos-bolsonaro-eleito-senador-9-meses-apos-mudar-domicilio-eleitoral-sc.ghtml)_
 
+- **[2026-10-04 22:16 UTC]** Carol de Toni (PL) e Carlos Bolsonaro (PL) são eleitos senadores por SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/resultado-votacao-senado-santa-catarina-2026.ghtml)_
+
