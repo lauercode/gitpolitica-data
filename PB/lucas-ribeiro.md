@@ -80,3 +80,6 @@
 - **[2026-10-04 14:13 UTC]** Lucas Ribeiro (PP) vota em Campina Grande, PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/lucas-ribeiro-pp-vota-em-campina-grande-pb.ghtml)_
 
+- **[2026-10-04 17:59 UTC]** Lucas Ribeiro (PP) é reeleito governador da Paraíba
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lucas-ribeiro-pp-e-reeleito-governador-da-paraiba-projeta-datafolha.shtml)_
+
