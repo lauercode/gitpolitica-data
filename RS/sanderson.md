@@ -17,3 +17,6 @@
 - **[2026-10-03 22:38 UTC]** Quaest para o Senado no RS, votos válidos: Sanderson, 25%; Marcel van Hattem, 22%; Manuela d'Ávila, 20%; Pimenta, 18%
   _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/03/quaest-rs-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 13:32 UTC]** Sanderson (PL) vota em Santo Ângelo
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/sanderson-pl-vota-em-santo-angelo.ghtml)_
+
