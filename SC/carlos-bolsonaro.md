@@ -32,3 +32,6 @@
 - **[2026-10-04 11:26 UTC]** Senado por SC: Carlos Bolsonaro (PL) vota em São José, na Grande Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/senado-santa-catarina-carlos-bolsonaro-pl-vota-em-florianopolis.ghtml)_
 
+- **[2026-10-04 22:52 UTC]** Aposta do pai, Carlos Bolsonaro é eleito senador 9 meses após mudar domicílio eleitoral para SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/carlos-bolsonaro-eleito-senador-9-meses-apos-mudar-domicilio-eleitoral-sc.ghtml)_
+
