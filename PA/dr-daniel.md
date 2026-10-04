@@ -53,3 +53,6 @@
 - **[2026-10-04 19:46 UTC]** Dr. Daniel (Podemos) vence candidata dos Barbalho e é eleito governador do Pará, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/dr-daniel-podemos-vence-candidata-dos-barbalho-e-e-eleito-governador-do-para-projeta-datafolha.shtml)_
 
+- **[2026-10-04 21:13 UTC]** Apuração: Com 50% das urnas apuradas, Dr. Daniel lidera disputa pelo governo do Pará
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-20-pontos-percentuais-das-urnas-apuradas-dr-daniel-lidera-disputa-pelo-governo-do-par.ghtml)_
+
