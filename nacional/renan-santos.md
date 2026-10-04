@@ -419,3 +419,6 @@
 - **[2026-10-04 14:17 UTC]** Estratégia de voto útil em Flávio é ‘mentira’ do bolsonarismo, afirma Renan Santos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/estratgia-de-voto-til-em-flvio-mentira-do-bolsonarismo-afirma-renan-santos.ghtml)_
 
+- **[2026-10-04 17:50 UTC]** Renan Santos cancela entrevista em São Paulo neste domingo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-cancela-entrevista-em-sao-paulo-neste-domingo.shtml)_
+
