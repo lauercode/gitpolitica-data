@@ -35,3 +35,6 @@
 - **[2026-10-03 22:30 UTC]** Quaest no Ceará, votos válidos: Elmano de Freitas, 50%; Ciro Gomes, 49%
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/03/quaest-ceara-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Ciro Gomes, candidato a governador do Ceará em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-ciro-gomes-candidato-a-governador-do-ceara-em-2026.ghtml)_
+
