@@ -3407,3 +3407,6 @@
 - **[2026-10-03 23:15 UTC]** Quaest: como votam os eleitores de Caiado, Renan e Cury em um 2º turno entre Lula e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-como-votam-os-eleitores-de-caiado-renan-e-cury-em-um-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-03 22:45 UTC]** Datafolha para presidente em PE, votos válidos: Lula, 65%; Flávio Bolsonaro, 26%; Cury, 3%; Renan, 2%; Caiado, 2%
+  _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/datafolha-pernambuco-presidente-3-de-outubroghtml.ghtml)_
+
