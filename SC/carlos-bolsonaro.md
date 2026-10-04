@@ -29,3 +29,6 @@
 - **[2026-10-04 11:26 UTC]** Carlos Bolsonaro (PL) vota em Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/senado-santa-catarina-carlos-bolsonaro-pl-vota-em-florianopolis.ghtml)_
 
+- **[2026-10-04 11:26 UTC]** Senado por SC: Carlos Bolsonaro (PL) vota em São José, na Grande Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/senado-santa-catarina-carlos-bolsonaro-pl-vota-em-florianopolis.ghtml)_
+
