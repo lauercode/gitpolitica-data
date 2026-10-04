@@ -3518,3 +3518,6 @@
 - **[2026-10-04 12:30 UTC]** Onda antipetista, mais do que entusiasmo por Flávio, inunda igrejas evangélicas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/onda-antipetista-mais-do-que-entusiasmo-por-flavio-inunda-igrejas-evangelicas.shtml)_
 
+- **[2026-10-04 14:28 UTC]** Renan Santos vota em São Paulo e ataca Flávio: “desqualificado, covarde e burro”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-vota-em-sao-paulo-e-ataca-flavio-desqualificado-covarde-e-burro/)_
+
