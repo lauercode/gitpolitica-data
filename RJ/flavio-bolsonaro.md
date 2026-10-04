@@ -3500,3 +3500,6 @@
 - **[2026-10-04 12:01 UTC]** Lula e Flávio Bolsonaro chegam ao 1º turno com 2 pontos de distância no Agregador de Pesquisas da BBC News Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-04 11:57 UTC]** Flávio Bolsonaro vota no Rio e indica que pode ser eleito no 1º turno graças ao voto útil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/flvio-bolsonaro-vota-no-rio-e-indica-que-pode-ser-eleito-no-primeiro-turno-graas-ao-voto-util.ghtml)_
+
