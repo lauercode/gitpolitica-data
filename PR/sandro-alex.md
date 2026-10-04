@@ -152,3 +152,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Sandro Alex, candidato a governador do Paraná em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-sandro-alex-candidato-a-governador-do-parana-em-2026.ghtml)_
 
+- **[2026-10-04 16:19 UTC]** Sandro Alex (PSD) vota em Ponta Grossa
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/sandro-alex-psd-vota-em-ponta-grossa.ghtml)_
+
