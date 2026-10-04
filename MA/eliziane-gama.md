@@ -29,3 +29,6 @@
 - **[2026-10-01 12:47 UTC]** Qual é o número de Eliziane Gama (PT) para o Senado no Maranhão?
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-eliziane-gama-pt-para-o-senado-no-maranhao.ghtml)_
 
+- **[2026-10-03 22:45 UTC]** Quaest para o Senado no Maranhão, votos válidos: Roseana Sarney, 25%; Fufuca, 23%; Lahesio Bonfim, 18%; Eliziane Gama, 16%
+  _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/03/quaest-ma-senado-3-outubro.ghtml)_
+
