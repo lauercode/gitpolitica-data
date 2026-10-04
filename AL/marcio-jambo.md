@@ -17,3 +17,6 @@
 - **[2026-09-30 21:16 UTC]** Qual é o número de Márcio Jambo (Democrata) para o governo de Alagoas?
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-marcio-jambo-democrata-para-o-governo-de-alagoas.ghtml)_
 
+- **[2026-10-04 12:27 UTC]** Márcio Jambo (Democrata) vota em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/04/marcio-jambo-democrata-vota-em-maceio.ghtml)_
+
