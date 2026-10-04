@@ -1136,3 +1136,6 @@ direitos
 - **[2026-10-04 15:14 UTC]** Veículos de comunicação da Câmara e do Senado fazem cobertura integrada das eleições
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1302595-veiculos-de-comunicacao-da-camara-e-do-senado-fazem-cobertura-integrada-das-eleicoes)_
 
+- **[2026-10-04 20:09 UTC]** Erika Hilton supera 1,4 milhão de votos e se torna mulher mais votada da história para a Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/erika-hilton-supera-14-milhao-de-votos-e-se-torna-mulher-mais-votada-da-historia-para-a-camara.shtml)_
+
