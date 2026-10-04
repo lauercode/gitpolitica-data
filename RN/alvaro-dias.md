@@ -44,3 +44,6 @@
 - **[2026-10-02 21:59 UTC]** Álvaro Dias grava conteúdos para redes sociais e faz balanço da campanha
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/02/alvaro-dias-grava-conteudos-para-redes-sociais-e-faz-balanco-da-campanha.ghtml)_
 
+- **[2026-10-03 22:24 UTC]** Quaest no RN, votos válidos: Allyson, 37%; Cadu de Lula, 32%; Álvaro Dias, 29%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/03/quaest-no-rn-governador-3-outubro.ghtml)_
+
