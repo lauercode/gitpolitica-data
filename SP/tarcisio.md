@@ -137,3 +137,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Tarcísio de Freitas, candidato a governador de São Paulo em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-tarcisio-de-freitas-candidato-a-governador-de-sao-paulo-em-2026.ghtml)_
 
+- **[2026-10-04 19:53 UTC]** Tarcísio é reeleito governador de São Paulo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tarcisio-e-reeleito-governador-de-sao-paulo)_
+
