@@ -281,3 +281,6 @@
 - **[2026-10-03 01:31 UTC]** Lula agradece Alcolumbre por pautar PEC sobre fim da escala 6x1
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/02/lula-agradece-alcolumbre-por-pautar-pec-sobre-fim-da-escala-6x1.ghtml)_
 
+- **[2026-10-04 18:50 UTC]** Dr. Furlan (PSD) derrota grupo de Alcolumbre e é eleito governador do AP, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/dr-furlan-psd-derrota-grupo-de-alcolumbre-e-e-eleito-governador-do-ap-projeta-datafolha.shtml)_
+
