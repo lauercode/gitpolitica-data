@@ -77,3 +77,6 @@
 - **[2026-10-03 23:09 UTC]** Quaest: Na PB, Lucas Ribeiro tem 61%, Efraim Filho soma 12% e Cícero Lucena, 16%, no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-na-pb-lucas-ribeiro-tem-61-pontos-percentuais-efraim-filho-soma-12-e-ccero-lucena-16-no-primeiro-turno.ghtml)_
 
+- **[2026-10-04 14:13 UTC]** Lucas Ribeiro (PP) vota em Campina Grande, PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/lucas-ribeiro-pp-vota-em-campina-grande-pb.ghtml)_
+
