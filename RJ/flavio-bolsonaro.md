@@ -3545,3 +3545,6 @@
 - **[2026-10-04 17:46 UTC]** Eleição no exterior: veja países em que Lula ou Flávio Bolsonaro ganharam
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/04/eleicao-no-exterior-veja-paises-em-que-lula-ou-flavio-bolsonaro-ganharam.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Lula lidera votação no exterior e soma mais votos que Flávio Bolsonaro; acompanhe a apuração
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml)_
+
