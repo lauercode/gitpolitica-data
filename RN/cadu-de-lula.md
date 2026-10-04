@@ -107,3 +107,6 @@
 - **[2026-10-03 23:00 UTC]** Campanha de Lula mira Cury e governadores de PSD e MDB no segundo turnos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-mira-cury-e-governadores-de-psd-e-mdb-no-segundo-turnos.shtml)_
 
+- **[2026-10-04 14:39 UTC]** Cadu de Lula (PT) vota em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/cadu-de-lula-pt-vota-em-natal.ghtml)_
+
