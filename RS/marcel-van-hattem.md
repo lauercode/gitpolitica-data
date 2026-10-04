@@ -17,3 +17,6 @@
 - **[2026-10-01 03:05 UTC]** Qual é o número de Marcel van Hattem (Novo) para o Senado no Rio Grande do Sul?
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-marcel-van-hattem-novo-para-o-senado-no-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-03 22:38 UTC]** Quaest para o Senado no RS, votos válidos: Sanderson, 25%; Marcel van Hattem, 22%; Manuela d'Ávila, 20%; Pimenta, 18%
+  _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/03/quaest-rs-senado-3-outubro.ghtml)_
+
