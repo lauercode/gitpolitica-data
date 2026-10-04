@@ -77,3 +77,6 @@
 - **[2026-10-03 20:12 UTC]** TSE indefere candidatura de Deltan Dallagnol ao Senado pelo Paraná
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-indefere-candidatura-de-deltan-dallagnol-ao-senado-pelo-parana.shtml)_
 
+- **[2026-10-03 23:45 UTC]** Ministro do TSE barra candidatura de Deltan Dallagnol ao Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/ministro-do-tse-barra-candidatura-de-deltan-dallagnol-ao-senado.ghtml)_
+
