@@ -44,3 +44,6 @@
 - **[2026-10-04 22:17 UTC]** Zucco (PL) é eleito governador do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/zucco-pl-governador.ghtml)_
 
+- **[2026-10-04 21:29 UTC]** No RS, Zucco (PL) está matematicamente eleito no 1° turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-20-pontos-percentuais-das-urnas-contabilizadas-zucco-tem-60-e-juliana-brizola-295-no-rs.ghtml)_
+
