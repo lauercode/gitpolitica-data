@@ -68,3 +68,6 @@
 - **[2026-10-04 23:01 UTC]** André do Prado é eleito senador por SP após campanha apoiada por Tarcísio e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/andre-do-prado-e-eleito-senador-por-sp-apos-campanha-apoiada-por-tarcisio-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-04 22:31 UTC]** Derrite e André do Prado são eleitos senadores por São Paulo
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/derrite-e-andre-do-prado-sao-eleitos-senadores-por-sao-paulo.ghtml)_
+
