@@ -38,3 +38,6 @@
 - **[2026-10-04 13:30 UTC]** Zucco (PL) vota em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/zucco-pl-vota-em-porto-alegre.ghtml)_
 
+- **[2026-10-04 19:55 UTC]** Zucco é governador mais votado do Rio Grande do Sul desde a redemocratização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/zucco-e-governador-mais-votado-do-rio-grande-do-sul-desde-a-redemocratizacao.shtml)_
+
