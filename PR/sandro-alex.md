@@ -143,3 +143,6 @@
 - **[2026-10-03 14:58 UTC]** Gilmar Mendes derruba direito de resposta de Moro e libera propaganda de Sandro Alex sobre aborto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/gilmar-mendes-derruba-direito-de-resposta-de-moro-e-libera-propaganda-de-sandro-alex-sobre-aborto.ghtml)_
 
+- **[2026-10-03 22:24 UTC]** Quaest no Paraná, votos válidos: Sergio Moro, 43%; Sandro Alex, 29%, Requião Filho, 27%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/quaest-parana-governador-3-outubro.ghtml)_
+
