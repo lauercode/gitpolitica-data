@@ -47,3 +47,6 @@
 - **[2026-10-03 00:04 UTC]** Dr. Daniel propõe romper contrato de água, acabar com pedágios e expandir UTIs no Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/02/dr-daniel-propoe-romper-contrato-de-agua-acabar-com-pedagios-e-expandir-utis-no-para.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Dr. Daniel, candidato a governador do Pará em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-dr-daniel-candidato-a-governador-do-para-em-2026.ghtml)_
+
