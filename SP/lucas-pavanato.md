@@ -14,3 +14,6 @@
 - **[2026-09-25 19:41 UTC]** Folhateen entrevista ao vivo Lucas Pavanato e Luna Zarattini, candidatos a deputado federal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/folhateen-entrevista-ao-vivo-lucas-pavanato-e-luna-zarattini-candidatos-a-deputado-federal.shtml)_
 
+- **[2026-10-04 22:54 UTC]** Lucas Pavanato e Nikolas Ferreira superam 2 milhões de votos para deputado federal e batem recorde
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/lucas-pavanato-e-nikolas-ferreira-recorde-votos-deputado-federal.ghtml)_
+
