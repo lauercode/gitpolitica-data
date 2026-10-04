@@ -32,3 +32,6 @@
 - **[2026-10-01 00:41 UTC]** Eleições 2026: Marconi Perillo promete investimento no setor agropecuário para diminuir endividamento de produtores rurais
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-marconi-perillo-promete-investimento-no-setor-agropecuario-para-diminuir-endividamento-de-produtores-rurais.ghtml)_
 
+- **[2026-10-03 22:41 UTC]** Quaest em Goiás, votos válidos: Daniel Vilela (MDB), 57%; Wilder Morais (PL), 20%; e Marconi Perillo (PSDB), 18%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/03/quaest-estado-governador-3-outubro.ghtml)_
+
