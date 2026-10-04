@@ -3566,3 +3566,6 @@
 - **[2026-10-04 22:27 UTC]** Com mais de 60% das sessões apuradas no exterior, Lula vence em 59 cidades e Flávio Bolsonaro, em 28
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/com-mais-de-60percent-das-sessoes-apuradas-no-exterior-lula-vence-em-59-cidades-e-flavio-bolsonaro-em-28.ghtml)_
 
+- **[2026-10-04 20:07 UTC]** Flávio Bolsonaro fala em garantir liberdade de imprensa caso eleito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-vai-garantir-liberdade-de-imprensa-caso-eleito.shtml)_
+
