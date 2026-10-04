@@ -3542,3 +3542,6 @@
 - **[2026-10-04 17:59 UTC]** Vorcaro e Stefanutto votam na Papuda; Bolsonaro não pode votar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/04/vorcaro-e-stefanutto-votam-na-papuda-bolsonaro-nao-pode-votar.ghtml)_
 
+- **[2026-10-04 17:46 UTC]** Eleição no exterior: veja países em que Lula ou Flávio Bolsonaro ganharam
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/04/eleicao-no-exterior-veja-paises-em-que-lula-ou-flavio-bolsonaro-ganharam.ghtml)_
+
