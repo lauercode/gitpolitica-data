@@ -32,3 +32,6 @@
 - **[2026-10-03 18:32 UTC]** Datafolha: Michelle Bolsonaro lidera com 30% para Senado no DF, e Bia Kicis tem 24%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-michelle-bolsonaro-lidera-com-30-para-senado-no-df-e-bia-kicis-tem-24.shtml)_
 
+- **[2026-10-03 18:32 UTC]** Datafolha: Michelle Bolsonaro tem 30% para Senado no DF, e Bia Kicis marca 24%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-michelle-bolsonaro-lidera-com-30-para-senado-no-df-e-bia-kicis-tem-24.shtml)_
+
