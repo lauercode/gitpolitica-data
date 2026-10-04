@@ -47,3 +47,6 @@
 - **[2026-10-03 23:07 UTC]** Quaest: Mailza Assis lidera corrida no Acre com 41%, contra 37% de Alan Rick
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/quaest-mailza-assis-lidera-corrida-no-acre-com-41-pontos-percentuais-contra-37-de-alan-rick.ghtml)_
 
+- **[2026-10-04 19:38 UTC]** Mailza Assis (PP) e Alan Rick (Republicanos) vão ao 2º turno no Acre, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mailza-assis-pp-e-alan-rick-republicanos-vao-ao-2o-turno-no-acre-projeta-datafolha.shtml)_
+
