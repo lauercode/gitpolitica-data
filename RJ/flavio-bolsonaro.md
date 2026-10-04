@@ -3449,3 +3449,6 @@
 - **[2026-10-03 22:35 UTC]** Quaest: Lula tem 40% e Flávio Bolsonaro registra 38% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-lula-tem-40-pontos-percentuais-e-flvio-bolsonaro-registra-38-no-primeiro-turno.ghtml)_
 
+- **[2026-10-04 00:01 UTC]** Veja trajetória pessoal e política de Flávio Bolsonaro, que disputa a Presidência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-trajetoria-pessoal-e-politica-de-flavio-bolsonaro-que-disputa-a-presidencia.shtml)_
+
