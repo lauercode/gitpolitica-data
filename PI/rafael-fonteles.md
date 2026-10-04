@@ -17,3 +17,6 @@
 - **[2026-10-04 19:35 UTC]** Piauí reelege Rafael Fonteles como governador no primeiro turno
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/piaui-reelege-rafael-fonteles-como-governador-no-primeiro-turno)_
 
+- **[2026-10-04 18:20 UTC]** Rafael Fonteles (PT) é reeleito governador do Piauí, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/rafael-fonteles-pt-e-reeleito-governador-do-piaui-projeta-datafolha.shtml)_
+
