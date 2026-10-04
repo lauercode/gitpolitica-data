@@ -3434,3 +3434,6 @@
 - **[2026-10-03 20:36 UTC]** Datafolha: Onda de Flávio Bolsonaro se mantém e desafia Lula já no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-onda-de-flavio-bolsonaro-se-mantem-e-desafia-lula-ja-no-1o-turno.shtml)_
 
+- **[2026-10-03 19:25 UTC]** Quaest: Lula (46%) e Flávio Bolsonaro (45%) têm empate técnico em votos válidos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-lula-46-e-flavio-bolsonaro-45-tem-empate-tecnico-em-votos-validos.shtml)_
+
