@@ -23,3 +23,6 @@
 - **[2026-10-04 15:11 UTC]** Marcel van Hattem (Novo) vota em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/marcel-van-hattem-novo-vota-em-porto-alegre.ghtml)_
 
+- **[2026-10-04 22:12 UTC]** Sanderson (PL) e Marcel van Hattem (Novo) são eleitos senadores pelo RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/reultado-senado-rs.ghtml)_
+
