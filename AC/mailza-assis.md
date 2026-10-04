@@ -50,3 +50,6 @@
 - **[2026-10-04 19:38 UTC]** Mailza Assis (PP) e Alan Rick (Republicanos) vão ao 2º turno no Acre, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mailza-assis-pp-e-alan-rick-republicanos-vao-ao-2o-turno-no-acre-projeta-datafolha.shtml)_
 
+- **[2026-10-04 21:57 UTC]** Apuração: Com 82,86% das urnas, Mailza Assis (PP) lidera disputa pelo governo do Acre com 49,32% dos votos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-8286percent-das-urnas-mailza-assis-pp-lidera-disputa-pelo-governo-do-acre-com-4932percent-dos-votos.ghtml)_
+
