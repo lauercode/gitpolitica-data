@@ -29,3 +29,6 @@
 - **[2026-09-29 20:47 UTC]** Eduardo Bolsonaro diz que Simone Tebet 'se prostitui' por cargos, e candidata reage: 'covarde'; TRE determina remoção de postagem
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/eduardo-bolsonaro-insinua-que-simone-tebet-se-prostitui-por-cargos-e-candidata-reage-covarde.ghtml)_
 
+- **[2026-10-04 23:01 UTC]** Marina Silva e Simone Tebet perdem disputa pelo Senado em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/marina-silva-e-simone-tebet-perdem-disputa-pelo-senado-em-sp.ghtml)_
+
