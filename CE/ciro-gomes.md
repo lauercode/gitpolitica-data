@@ -41,3 +41,6 @@
 - **[2026-10-04 19:36 UTC]** Elmano de Freitas (PT) vence Ciro Gomes (PSDB) e é reeleito no Ceará, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/elmano-de-freitas-pt-vence-ciro-gomes-psdb-e-e-reeleito-no-ceara-projeta-datafolha.shtml)_
 
+- **[2026-10-04 21:40 UTC]** Apuração: Com 51% das urnas apuradas no Ceará, Elmano tem 52% e Ciro Gomes, 48%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-12percent-das-urnas-apuradas-no-ceara-elmano-lidera-com-51percent-e-ciro-tem-48percent.ghtml)_
+
