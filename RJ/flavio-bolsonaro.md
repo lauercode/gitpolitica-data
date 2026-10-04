@@ -3551,3 +3551,6 @@
 - **[2026-10-04 14:16 UTC]** Lula lidera no exterior na Itália, na China e em Berlim; Flávio vence no Japão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-recebe-5016-dos-votos-validos-e-ganha-em-milao-flavio-recebe-406.shtml)_
 
+- **[2026-10-04 12:01 UTC]** Lula e Flávio chegam ao 1º turno com 2 pontos de distância no Agregador de Pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
