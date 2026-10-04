@@ -38,3 +38,6 @@
 - **[2026-10-04 19:23 UTC]** Com Damares, Michelle e Bia Kicis, DF forma primeira bancada feminina do Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-damares-michelle-e-bia-kicis-df-forma-primeira-bancada-feminina-do-senado.shtml)_
 
+- **[2026-10-04 19:12 UTC]** Michelle Bolsonaro e Bia Kicis batem recorde de votos ao Senado pelo DF desde a redemocratização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/michelle-bolsonaro-e-bia-kicis-batem-recorde-de-votos-ao-senado-pelo-df-desde-a-redemocratizacao.shtml)_
+
