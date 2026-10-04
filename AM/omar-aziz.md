@@ -101,3 +101,6 @@
 - **[2026-10-04 19:42 UTC]** Omar Aziz (PSD) e Maria do Carmo (PL) vão disputar 2º turno no Amazonas, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/omar-aziz-psd-e-maria-do-carmo-pl-vao-disputar-2o-turno-no-amazonas-projeta-datafolha.shtml)_
 
+- **[2026-10-04 21:06 UTC]** Apuração:  No Amazonas, Omar Aziz (PSD) tem 36,19% e Professora Maria do Carmo (PL) tem 30,10%, com 18,28% das urnas apuradas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-no-amazonas-omar-aziz-psd-tem-3619percent-e-professora-maria-do-carmo-pl-tem-3010percent-com-1828percent-das-urnas-apuradas.ghtml)_
+
