@@ -80,3 +80,6 @@
 - **[2026-10-03 23:45 UTC]** Ministro do TSE barra candidatura de Deltan Dallagnol ao Senado
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/ministro-do-tse-barra-candidatura-de-deltan-dallagnol-ao-senado.ghtml)_
 
+- **[2026-10-04 12:26 UTC]** Presidente do TSE suspende decisão de ministro e Deltan Dallagnol segue candidato
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/presidente-do-tse-suspende-deciso-de-ministro-e-deltan-dallagnol-segue-candidato.ghtml)_
+
