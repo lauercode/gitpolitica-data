@@ -3581,3 +3581,6 @@
 - **[2026-10-04 19:07 UTC]** Flávio Bolsonaro e Lula estão no 2º turno, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-estao-no-2o-turno-projeta-datafolha.shtml)_
 
+- **[2026-10-04 23:23 UTC]** Com 90% das urnas apuradas, Flávio Bolsonaro tem 48% e Lula tem 44%; acompanhe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss)_
+
