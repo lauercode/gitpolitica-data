@@ -62,3 +62,6 @@
 - **[2026-10-02 21:23 UTC]** É #FAKE que Flávio Dino disse ter entrado no STF 'com a missão de destruir Jair Bolsonaro e os filhos'; vídeo foi manipulado com IA
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/02/e-fake-que-flavio-dino-disse-ter-entrado-no-stf-com-a-missao-de-destruir-jair-bolsonaro-e-os-filhos-video-foi-manipulado-com-ia.ghtml)_
 
+- **[2026-10-04 15:31 UTC]** Entenda por que Vorcaro e Careca do INSS podem votar, mas Jair Bolsonaro, não
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/entenda-por-que-vorcaro-e-careca-do-inss-podem-votar-mas-jair-bolsonaro-nao.shtml)_
+
