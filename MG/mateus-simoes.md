@@ -41,3 +41,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Mateus Simões, candidato a governador de Minas Gerais em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-mateus-simoes-candidato-a-governador-de-minas-gerais-em-2026.ghtml)_
 
+- **[2026-10-04 20:20 UTC]** Governador de MG e candidato à reeleição, Mateus Simões vota em Belo Horizonte
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/governador-de-mg-e-candidato-reeleio-mateus-simes-vota-em-belo-horizonte.ghtml)_
+
