@@ -26,3 +26,6 @@
 - **[2026-10-03 21:23 UTC]** Datafolha para o Senado no RJ, votos válidos: Benedita, 26%; Portinho, 19%; Jordy, 18%
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/datafolha-rj-senado-3-outubro.ghtml)_
 
+- **[2026-10-03 20:42 UTC]** Quaest para o Senado no RJ, votos válidos: Portinho, 23%; Jordy, 22%; Benedita, 21%
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/quaest-rj-senado-03-10.ghtml)_
+
