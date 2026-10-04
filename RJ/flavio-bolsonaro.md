@@ -3539,3 +3539,6 @@
 - **[2026-10-04 13:07 UTC]** Bolsonaro sai na frente no exterior após votação ser encerrada na Ásia e Oriente Médio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/flavio-bolsonaro-sai-na-frente-nas-eleicoes-no-exterior-apos-votacao-ser-encerrada-na-asia.ghtml)_
 
+- **[2026-10-04 17:59 UTC]** Vorcaro e Stefanutto votam na Papuda; Bolsonaro não pode votar
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/04/vorcaro-e-stefanutto-votam-na-papuda-bolsonaro-nao-pode-votar.ghtml)_
+
