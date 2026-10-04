@@ -23,3 +23,6 @@
 - **[2026-10-02 08:00 UTC]** José de Souza Martins: Entre biografias e folhas corridas
   _fonte: [Valor Econômico](https://valor.globo.com/eu-e/coluna/jose-de-souza-martins-entre-biografias-e-folhas-corridas.ghtml)_
 
+- **[2026-10-03 23:00 UTC]** 'A ficção e a realidade se encontram nesse cinema pornô', diz Caru Alves de Souza, cineasta que fará filme no Cine Dom José
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/a-ficcao-e-a-realidade-se-encontram-nesse-cinema-porno-diz-caru-alves-que-fara-filme-no-cine-dom-jose.shtml)_
+
