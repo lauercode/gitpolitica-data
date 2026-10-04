@@ -44,3 +44,6 @@
 - **[2026-10-01 14:02 UTC]** Qual é o número de Mailza Assis (PP) para o governo do Acre?
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-mailza-assis-pp-para-o-governo-do-acre.ghtml)_
 
+- **[2026-10-03 23:07 UTC]** Quaest: Mailza Assis lidera corrida no Acre com 41%, contra 37% de Alan Rick
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/quaest-mailza-assis-lidera-corrida-no-acre-com-41-pontos-percentuais-contra-37-de-alan-rick.ghtml)_
+
