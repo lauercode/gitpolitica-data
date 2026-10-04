@@ -17,3 +17,6 @@
 - **[2026-09-30 22:40 UTC]** Qual é o número de Expedito Netto (PT) para o governo de Rondônia?
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-expedito-netto-pt-para-o-governo-de-rondonia.ghtml)_
 
+- **[2026-10-04 14:53 UTC]** Candidato ao governo Expedito Netto do PT vota em Porto Velho
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/04/candidato-ao-governo-expedito-netto-do-pt-vota-em-porto-velho.ghtml)_
+
