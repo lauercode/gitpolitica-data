@@ -134,3 +134,6 @@
 - **[2026-10-03 21:13 UTC]** Quaest: Raquel Lyra tem 52% e ex-prefeito João Campos 47% dos votos válidos em PE
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/03/quaest-raquel-lyra-tem-52-pontos-percentuais-e-ex-prefeito-joo-campos-47-dos-votos-vlidos-em-pe.ghtml)_
 
+- **[2026-10-03 22:01 UTC]** Datafolha: Em PE, Raquel Lyra tem 49% dos votos válidos contra 48% de João Campos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/datafolha-em-pe-raquel-lyra-tem-49percent-dos-votos-validos-contra-48percent-de-joao-campos.ghtml)_
+
