@@ -23,3 +23,6 @@
 - **[2026-10-01 01:27 UTC]** Qual é o número de Dr. Helton (PSOL) para o governo de Sergipe?
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dr-helton-psol-para-o-governo-de-sergipe.ghtml)_
 
+- **[2026-10-04 14:12 UTC]** Candidato ao governo de Sergipe, Dr. Helton do PSOL vota em Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/04/candidato-ao-governo-de-sergipe-dr-helton-do-psol-vota-em-aracaju.ghtml)_
+
