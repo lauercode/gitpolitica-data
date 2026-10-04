@@ -101,3 +101,6 @@
 - **[2026-10-02 13:29 UTC]** Eleições 2026 no Paraná: Requião Filho concede entrevista e se reúne com sindicalistas e empresários
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/02/eleicoes-2026-no-parana-requiao-filho.ghtml)_
 
+- **[2026-10-03 22:24 UTC]** Quaest no Paraná, votos válidos: Sergio Moro, 43%; Sandro Alex, 29%, Requião Filho, 27%
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/quaest-parana-governador-3-outubro.ghtml)_
+
