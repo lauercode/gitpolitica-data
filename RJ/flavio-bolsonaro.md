@@ -3536,3 +3536,6 @@
 - **[2026-10-04 13:21 UTC]** Após votar, Lula minimiza empate técnico com Flávio e diz que pesquisa que vale é a de hoje
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/aps-votar-lula-minimiza-empate-tcnico-com-flvio-e-diz-que-pesquisa-que-vale-a-de-hoje.ghtml)_
 
+- **[2026-10-04 13:07 UTC]** Bolsonaro sai na frente no exterior após votação ser encerrada na Ásia e Oriente Médio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/flavio-bolsonaro-sai-na-frente-nas-eleicoes-no-exterior-apos-votacao-ser-encerrada-na-asia.ghtml)_
+
