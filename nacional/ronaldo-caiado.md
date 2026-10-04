@@ -89,3 +89,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Ronaldo Caiado, candidato a presidente em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-ronaldo-caiado-candidato-a-presidente-em-2026.ghtml)_
 
+- **[2026-10-04 03:00 UTC]** Com passagens por Câmara, Senado e pelo governo de Goiás, Ronaldo Caiado tenta pela segunda vez chegar à Presidência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/com-passagens-por-camara-senado-e-pelo-governo-de-goias-ronaldo-caiado-tenta-pela-segunda-vez-chegar-a-presidencia.ghtml)_
+
