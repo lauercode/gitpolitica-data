@@ -23,3 +23,6 @@
 - **[2026-10-04 22:40 UTC]** Carol De Toni é eleita senadora em SC após vencer queda de braço dentro do próprio PL
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/carol-de-toni-senadora-sc-vencer-queda-de-braco-pl.ghtml)_
 
+- **[2026-10-04 22:16 UTC]** Carol de Toni (PL) e Carlos Bolsonaro (PL) são eleitos senadores por SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/resultado-votacao-senado-santa-catarina-2026.ghtml)_
+
