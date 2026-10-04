@@ -158,3 +158,6 @@
 - **[2026-10-01 00:47 UTC]** Paulinho da Força repete acusações de Moraes e pede impeachment de Mendonça, Fux e Kassio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/paulinho-da-forca-repete-acusacoes-de-moraes-e-pede-impeachment-de-mendonca-fux-e-kassio/)_
 
+- **[2026-10-04 11:44 UTC]** Força de Lula trava renovação da esquerda, diz WSJ
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/fora-de-lula-trava-renovao-da-esquerda-diz-wsj.ghtml)_
+
