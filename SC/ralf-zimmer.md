@@ -17,3 +17,6 @@
 - **[2026-10-01 03:00 UTC]** Qual é o número de Ralf Zimmer (PRD) para o governo de Santa Catarina?
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-ralf-zimmer-prd-para-o-governo-de-santa-catarina.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Ralf Zimmer, candidato a governador do Santa Catarina em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-ralf-zimmer-candidato-a-governador-do-santa-catarina-em-2026.ghtml)_
+
