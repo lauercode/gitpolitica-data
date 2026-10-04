@@ -26,3 +26,6 @@
 - **[2026-09-30 21:49 UTC]** Qual é o número de Yuri Ezequiel (UP) para o governo da Paraíba?
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-yuri-ezequiel-up-para-o-governo-da-paraiba.ghtml)_
 
+- **[2026-10-04 14:29 UTC]** Yuri Ezequiel (UP) vota em João Pessoa, PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/yuri-ezequiel-up-vota-em-joao-pessoa-pb.ghtml)_
+
