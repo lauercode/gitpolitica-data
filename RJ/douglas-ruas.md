@@ -35,3 +35,6 @@
 - **[2026-09-30 12:09 UTC]** Eduardo Paes associa Douglas Ruas a Cláudio Castro e é acusado de “velha política” em debate na Globo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/rio-de-janeiro/eduardo-paes-associa-douglas-ruas-a-claudio-castro-e-e-acusado-de-velha-politica-em-debate-na-globo/)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Douglas Ruas, candidato a governador do Rio de Janeiro em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-douglas-ruas-candidato-a-governador-do-rio-de-janeiro-em-2026.ghtml)_
+
