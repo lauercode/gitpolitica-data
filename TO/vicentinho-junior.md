@@ -26,3 +26,6 @@
 - **[2026-10-04 19:11 UTC]** Vicentinho Júnior (PSDB) vota em Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/vicentinho-junior-psdb-vota-em-palmas.ghtml)_
 
+- **[2026-10-04 19:18 UTC]** Dorinha e Vicentinho Junior vão disputar o 2° turno no Tocantins
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/dorinha-e-vicentinho-junior-vao-disputar-o-2deg-turno-no-tocantins)_
+
