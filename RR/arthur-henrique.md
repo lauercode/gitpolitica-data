@@ -53,3 +53,6 @@
 - **[2026-10-04 19:14 UTC]** Arthur Henrique é eleito governador de Roraima no primeiro turno
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/arthur-henrique-e-eleito-governador-de-roraima-no-primeiro-turno)_
 
+- **[2026-10-04 18:36 UTC]** Arthur Henrique (PL) é eleito governador de Roraima
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/arthur-henrique-pl-e-eleito-governador-de-roraima-projeta-datafolha.shtml)_
+
