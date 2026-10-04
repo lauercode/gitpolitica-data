@@ -3398,3 +3398,6 @@
 - **[2026-10-03 19:51 UTC]** Podcast Tabuleiro: Lula x Flávio Bolsonaro e a disputa pelo 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/podcast-tabuleiro-lula-x-flavio-bolsonaro-e-a-disputa-pelo-2o-turno.ghtml)_
 
+- **[2026-10-04 00:05 UTC]** ANÁLISE: Quaest aponta ‘movimento de voto útil de direita’ a favor de Flávio Bolsonaro, diz Felipe Nunes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-felipe-nunes-analise-vespera-eleicao.ghtml)_
+
