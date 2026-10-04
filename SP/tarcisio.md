@@ -131,3 +131,6 @@
 - **[2026-10-03 21:02 UTC]** Quaest: Em SP, Tarcísio tem 60% do votos válidos e Haddad 36% no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/em-sp-tarcsio-tem-60-pontos-percentuais-do-votos-vlidos-e-haddad-36-no-primeiro-turno.ghtml)_
 
+- **[2026-10-03 23:00 UTC]** Tarcísio chega favorito em SP após campanha com marasmo, e Haddad não supera limitações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-chega-favorito-em-sp-apos-campanha-com-marasmo-e-haddad-nao-supera-limitacoes.shtml)_
+
