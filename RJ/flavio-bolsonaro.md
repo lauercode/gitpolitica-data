@@ -3437,3 +3437,6 @@
 - **[2026-10-03 19:25 UTC]** Quaest: Lula (46%) e Flávio Bolsonaro (45%) têm empate técnico em votos válidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-lula-46-e-flavio-bolsonaro-45-tem-empate-tecnico-em-votos-validos.shtml)_
 
+- **[2026-10-03 19:02 UTC]** Flávio Bolsonaro fecha campanha do 1º turno com carreata em frente a igreja católica no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-fecha-campanha-do-1-turno-em-carreata-em-frente-a-igreja-catolica-no-rio.shtml)_
+
