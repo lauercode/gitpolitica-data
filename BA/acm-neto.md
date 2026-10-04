@@ -53,3 +53,6 @@
 - **[2026-10-03 14:45 UTC]** Gilmar Mendes derruba direitos de resposta de Jerônimo contra vídeos de ACM Neto
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/noticia/2026/10/03/gilmar-mendes-derruba-direitos-de-resposta-de-jeronimo-contra-videos-de-acm-neto.ghtml)_
 
+- **[2026-10-03 22:25 UTC]** Quaest na BA, votos válidos: Jerônimo Rodrigues, 52%; ACM Neto, 48%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/03/quaest-ba-governador-3-outubro.ghtml)_
+
