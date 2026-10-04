@@ -38,3 +38,6 @@
 - **[2026-09-26 00:41 UTC]** Eleições 2026: Daniel Vilela promete incentivo a cidades turísticas do estado
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-agenda-de-daniel-vilela-de-sexta-feira-25.ghtml)_
 
+- **[2026-10-03 22:41 UTC]** Quaest em Goiás, votos válidos: Daniel Vilela (MDB), 57%; Wilder Morais (PL), 20%; e Marconi Perillo (PSDB), 18%
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/03/quaest-estado-governador-3-outubro.ghtml)_
+
