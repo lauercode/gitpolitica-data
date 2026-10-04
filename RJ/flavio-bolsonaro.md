@@ -3470,3 +3470,6 @@
 - **[2026-10-03 22:46 UTC]** Datafolha: Lula aposta em mobilização na rua, e Flávio se mostra otimista na reta final
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-aposta-em-mobilizacao-na-rua-e-flavio-se-mostra-otimista-na-reta-final.shtml)_
 
+- **[2026-10-04 00:28 UTC]** Saiba quais personalidades declararam apoio a Flávio e a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/saiba-quais-personalidades-declararam-voto-flavio-e-lula/)_
+
