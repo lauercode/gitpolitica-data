@@ -116,3 +116,6 @@
 - **[2026-10-04 16:12 UTC]** Prof. Witer Naves (PSOL) vota em Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/prof-witer-naves-psol-vota-em-palmas-e-diz-que-candidatura-e-propositiva.ghtml)_
 
+- **[2026-10-04 13:33 UTC]** Manuela d'Ávila (PSOL) vota em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/manuela-davila-psol-vota-em-porto-alegre.ghtml)_
+
