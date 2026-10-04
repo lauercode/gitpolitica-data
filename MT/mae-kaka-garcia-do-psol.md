@@ -110,3 +110,6 @@
 - **[2026-10-04 13:12 UTC]** Araceli Lemos (PSOL) vota em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/04/araceli-lemos-psol-vota-em-belem.ghtml)_
 
+- **[2026-10-04 14:12 UTC]** Candidato ao governo de Sergipe, Dr. Helton do PSOL vota em Aracaju
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/04/candidato-ao-governo-de-sergipe-dr-helton-do-psol-vota-em-aracaju.ghtml)_
+
