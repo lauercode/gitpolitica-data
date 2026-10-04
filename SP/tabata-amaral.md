@@ -20,3 +20,6 @@
 - **[2026-10-04 11:37 UTC]** Mãe de Tabata Amaral é internada em estado grave após acidente em agenda de campanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mae-de-tabata-amaral-e-internada-em-estado-grave-apos-acidente-em-agenda-de-campanha.shtml)_
 
+- **[2026-10-04 14:48 UTC]** Mãe de Tabata Amaral é internada em estado grave após acidente em agenda de campanha da filha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/mae-de-tabata-amaral-e-internada-em-estado-grave-apos-acidente-em-agenda-de-campanha-da-filha.ghtml)_
+
