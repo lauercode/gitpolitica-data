@@ -71,3 +71,6 @@
 - **[2026-10-04 14:59 UTC]** Candidato ao governo Marcos Rogério do PL vota em Ji-Paraná, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/04/candidato-ao-governo-marcos-rogerio-do-pl-vota-em-ji-parana-ro.ghtml)_
 
+- **[2026-10-04 19:21 UTC]** Marcos Rogério é eleito governador de Rondônia no primeiro turno
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/marcos-rogerio-e-eleito-governador-de-rondonia-no-primeiro-turno)_
+
