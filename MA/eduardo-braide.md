@@ -53,3 +53,6 @@
 - **[2026-10-04 12:26 UTC]** Eduardo Braide (PSD) vota em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/eduardo-braide-psd-vota-em-sao-luis.ghtml)_
 
+- **[2026-10-04 19:20 UTC]** Eduardo Braide (PSD) é eleito governador do Maranhão, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-braide-psd-e-eleito-governador-do-maranhao-projeta-datafolha.shtml)_
+
