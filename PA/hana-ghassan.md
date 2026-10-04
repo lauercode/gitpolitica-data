@@ -83,3 +83,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Hana Ghassan, candidata a governadora do Pará em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-hana-ghassan-candidata-a-governadora-do-para-em-2026.ghtml)_
 
+- **[2026-10-04 16:46 UTC]** Hana Ghassan (MDB) vota em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/hana-ghassan-mdb-vota-em-belem.ghtml)_
+
