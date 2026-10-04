@@ -65,3 +65,6 @@
 - **[2026-10-03 21:16 UTC]** Datafolha para o Senado em SP, votos válidos: Derrite, 22%; André do Prado, 22%; Marina, 21%; Tebet, 20%
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/datafolha-sp-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 23:01 UTC]** André do Prado é eleito senador por SP após campanha apoiada por Tarcísio e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/andre-do-prado-e-eleito-senador-por-sp-apos-campanha-apoiada-por-tarcisio-e-flavio-bolsonaro.ghtml)_
+
