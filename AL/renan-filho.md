@@ -83,3 +83,6 @@
 - **[2026-10-03 22:25 UTC]** Quaest: Em Alagoas, Renan Filho tem 50% e JHC, 49% dos votos válidos no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/quaest-em-alagoas-renan-filho-tem-50-pontos-percentuais-e-jhc-49-dos-votos-vlidos-no-primeiro-turno.ghtml)_
 
+- **[2026-10-04 13:00 UTC]** Renan Filho (MDB) vota em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/04/renan-filho-mdb-vota-em-maceio.ghtml)_
+
