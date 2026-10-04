@@ -20,3 +20,6 @@
 - **[2026-10-03 23:27 UTC]** Quaest em Mato Grosso, votos válidos: Otaviano Pivetta, 54%; Wellington Fagundes, 28%, Doutora Natasha, 13%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-em-mato-grosso-votos-validos-otaviano-pivetta-54percent-wellington-fagundes-28percent-doutora-natasha-13percent.ghtml)_
 
+- **[2026-10-04 19:15 UTC]** MT reelege Otaviano Pivetta como governador no primeiro turno
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/MT-reelege-Otaviano-Pivetta-como-governador-no-primeiro-turno)_
+
