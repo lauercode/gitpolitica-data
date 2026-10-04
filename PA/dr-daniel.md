@@ -50,3 +50,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Dr. Daniel, candidato a governador do Pará em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-dr-daniel-candidato-a-governador-do-para-em-2026.ghtml)_
 
+- **[2026-10-04 19:46 UTC]** Dr. Daniel (Podemos) vence candidata dos Barbalho e é eleito governador do Pará, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/dr-daniel-podemos-vence-candidata-dos-barbalho-e-e-eleito-governador-do-para-projeta-datafolha.shtml)_
+
