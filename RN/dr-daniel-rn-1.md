@@ -26,3 +26,6 @@
 - **[2026-10-04 14:52 UTC]** Dr Daniel Santos (Podemos) vota em Ananindeua
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/dr-daniel-santos-podemos-vota-em-belem.ghtml)_
 
+- **[2026-10-04 18:19 UTC]** Presidente de diretório do Podemos, partido de Dr Daniel, é conduzido pela PM à PF em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/presidente-de-diretorio-do-podemos-partido-de-dr-daniel-e-preso-pela-pf-em-local-de-votacao-no-pa.ghtml)_
+
