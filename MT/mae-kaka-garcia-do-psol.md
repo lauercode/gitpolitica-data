@@ -113,3 +113,6 @@
 - **[2026-10-04 14:12 UTC]** Candidato ao governo de Sergipe, Dr. Helton do PSOL vota em Aracaju
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/04/candidato-ao-governo-de-sergipe-dr-helton-do-psol-vota-em-aracaju.ghtml)_
 
+- **[2026-10-04 16:12 UTC]** Prof. Witer Naves (PSOL) vota em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/prof-witer-naves-psol-vota-em-palmas-e-diz-que-candidatura-e-propositiva.ghtml)_
+
