@@ -3509,3 +3509,6 @@
 - **[2026-10-04 04:00 UTC]** Lula vence em mais países, mas Flávio Bolsonaro soma mais votos; acompanhe a apuração no exterior
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml)_
 
+- **[2026-10-04 03:00 UTC]** Flávio Bolsonaro: trajetória do filho de Bolsonaro, candidato à Presidência e investigado pela PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-de-filho-do-ex-presidente-a-candidato-do-pl-a-presidencia-da-republica.ghtml)_
+
