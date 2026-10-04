@@ -3527,3 +3527,6 @@
 - **[2026-10-04 15:33 UTC]** Alfredo Gaspar, candidato a vice-presidência com Flávio Bolsonaro, vota em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/04/alfredo-gaspar-candidato-a-vice-presidencia-com-flavio-bolsonaro-vota-em-maceio.ghtml)_
 
+- **[2026-10-04 16:31 UTC]** Em manhã de primeiro turno, nem Lula e nem Flávio aparecem nas redes sociais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/em-manha-de-primeiro-turno-nem-lula-e-nem-flavio-aparecem-nas-redes-sociais.ghtml)_
+
