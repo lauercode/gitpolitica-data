@@ -23,3 +23,6 @@
 - **[2026-10-03 23:33 UTC]** Quaest: No Amapá, corrida para o Senado tem Rayssa Furlan na frente, com 27% das intenções de voto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/03/quaest-no-amap-corrida-para-o-senado-tem-rayssa-furlan-na-frente-com-27-pontos-percentuais-das-intenes-de-voto.ghtml)_
 
+- **[2026-10-04 16:15 UTC]** Rayssa Furlan (Podemos) vota em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/rayssa-furlan-podemos-vota-em-macapa.ghtml)_
+
