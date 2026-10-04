@@ -3515,3 +3515,6 @@
 - **[2026-10-04 12:56 UTC]** Lula diz que pesquisa que vale é a urna, e Flávio afirma estar confiante em vitória no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-diz-que-pesquisa-que-vale-e-a-urna-e-flavio-afirma-estar-confiante-em-vitoria-no-1o-turno.shtml)_
 
+- **[2026-10-04 12:30 UTC]** Onda antipetista, mais do que entusiasmo por Flávio, inunda igrejas evangélicas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/onda-antipetista-mais-do-que-entusiasmo-por-flavio-inunda-igrejas-evangelicas.shtml)_
+
