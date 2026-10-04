@@ -26,3 +26,6 @@
 - **[2026-10-03 22:35 UTC]** Quaest para o Senado em SC, votos válidos: Carol De Toni, 30%; Carlos Bolsonaro, 24%; Esperidião Amin, 20%; Décio Lima, 12%
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/03/quaest-santa-catarina-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 11:26 UTC]** Carlos Bolsonaro (PL) vota em Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/senado-santa-catarina-carlos-bolsonaro-pl-vota-em-florianopolis.ghtml)_
+
