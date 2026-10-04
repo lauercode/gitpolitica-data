@@ -119,3 +119,6 @@
 - **[2026-10-04 13:33 UTC]** Manuela d'Ávila (PSOL) vota em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/manuela-davila-psol-vota-em-porto-alegre.ghtml)_
 
+- **[2026-10-04 14:43 UTC]** Senado por SC: Afrânio Boppré (PSOL) vota em Florianópolis
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/senado-por-sc-afranio-boppre-psol-vota-em-florianopolis.ghtml)_
+
