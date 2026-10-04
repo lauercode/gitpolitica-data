@@ -17,3 +17,6 @@
 - **[2026-10-03 22:33 UTC]** Quaest em MS, votos válidos: Eduardo Riedel, 67%; Fábio Trad, 23%; e Delcídio Amaral, 4%
   _fonte: [G1 - Política:](https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/03/quaest-mato-grosso-do-sul-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 18:04 UTC]** Eduardo Riedel (PP) é reeleito governador de Mato Grosso do Sul
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-riedel-pp-e-reeleito-governador-de-mato-grosso-do-sul-projeta-datafolha.shtml)_
+
