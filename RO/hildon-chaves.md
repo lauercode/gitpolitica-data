@@ -17,3 +17,6 @@
 - **[2026-09-30 22:41 UTC]** Qual é o número de Hildon Chaves (União) para o governo de Rondônia?
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-hildon-chaves-uniao-para-o-governo-de-rondonia.ghtml)_
 
+- **[2026-10-03 22:40 UTC]** Quaest em Rondônia, votos válidos: Marcos Rogério, 53%; Adailton Furia, 24%; Hildon Chaves, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/03/quaest-rondonia-governador-3-outubro.ghtml)_
+
