@@ -35,3 +35,6 @@
 - **[2026-10-04 18:43 UTC]** VÍDEO: Candidatos ao governo do RS, Juliana Brizola e Zucco trocam abraço ao se encontrarem em Porto Alegre
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/juliana-brizola-zucco-abraco-eleicao-rs.ghtml)_
 
+- **[2026-10-04 13:30 UTC]** Zucco (PL) vota em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/zucco-pl-vota-em-porto-alegre.ghtml)_
+
