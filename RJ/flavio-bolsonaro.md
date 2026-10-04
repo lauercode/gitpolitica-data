@@ -3491,3 +3491,6 @@
 - **[2026-10-04 03:00 UTC]** Flávio Bolsonaro: de filho do ex-presidente a candidato do PL à Presidência da República
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-de-filho-do-ex-presidente-a-candidato-do-pl-a-presidencia-da-republica.ghtml)_
 
+- **[2026-10-04 00:29 UTC]** Quaest e Datafolha apontam disputa acirrada entre Lula e Flávio Bolsonaro na véspera do 1º turno; veja números
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-e-datafolha-vespera-do-1o-turno.ghtml)_
+
