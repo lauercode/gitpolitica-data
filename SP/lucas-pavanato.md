@@ -17,3 +17,6 @@
 - **[2026-10-04 22:54 UTC]** Lucas Pavanato e Nikolas Ferreira superam 2 milhões de votos para deputado federal e batem recorde
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/lucas-pavanato-e-nikolas-ferreira-recorde-votos-deputado-federal.ghtml)_
 
+- **[2026-10-04 19:37 UTC]** Nikolas Ferreira e Lucas Pavanato são os candidatos a deputado federal mais votados da história
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ferreira-e-lucas-pavanato-sao-os-candidatos-a-deputado-federal-mais-votados-da-historia.shtml)_
+
