@@ -26,3 +26,6 @@
 - **[2026-10-03 22:44 UTC]** Quaest para o Senado na Paraíba, votos válidos: João Azevêdo, 35%; Veneziano, 25%; Nabor, 20%; Marcelo Queiroga, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/03/quaest-paraiba-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 13:53 UTC]** Marcelo Queiroga (PL) vota em João Pessoa, PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/marcelo-queiroga-pl-vota-em-joao-pessoa-pb.ghtml)_
+
