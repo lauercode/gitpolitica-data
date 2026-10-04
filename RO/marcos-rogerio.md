@@ -77,3 +77,6 @@
 - **[2026-10-04 18:36 UTC]** Marcos Rogério (PL) é eleito governador de Rondônia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/marcos-rogerio-pl-e-eleito-governador-de-rondonia-projeta-datafolha.shtml)_
 
+- **[2026-10-04 21:08 UTC]** Com 92,95% das urnas apuradas em Rondônia, Marcos Rogério (PL) está eleito governador
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-25-pontos-percentuais-das-urnas-marcos-rogrio-pl-tem-5056-dos-votos-e-lidera-disputa-pelo-governo-de-rondnia.ghtml)_
+
