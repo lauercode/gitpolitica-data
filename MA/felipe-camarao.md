@@ -50,3 +50,6 @@
 - **[2026-10-01 23:35 UTC]** Felipe Camarão defende ampliar restaurantes populares e investir na agricultura familiar no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/felipe-camarao-defende-ampliar-restaurantes-populares-e-investir-na-agricultura-familiar-no-ma.ghtml)_
 
+- **[2026-10-04 17:22 UTC]** Felipe Camarão (PT) vota em São Luís neste domingo (4)
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/felipe-camarao-pt-vota-em-sao-luis-neste-domingo-4.ghtml)_
+
