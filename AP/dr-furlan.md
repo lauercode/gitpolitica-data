@@ -137,3 +137,6 @@
 - **[2026-10-04 18:50 UTC]** Dr. Furlan (PSD) derrota grupo de Alcolumbre e é eleito governador do AP, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/dr-furlan-psd-derrota-grupo-de-alcolumbre-e-e-eleito-governador-do-ap-projeta-datafolha.shtml)_
 
+- **[2026-10-04 22:09 UTC]** Apuração: No Amapá, Dr. Furlan tem 60% e Clécio, 39,7%, com 57% das urnas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-no-amap-dr-furlan-tem-60-pontos-percentuais-e-clcio-397-com-57-das-urnas.ghtml)_
+
