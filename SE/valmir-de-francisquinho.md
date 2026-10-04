@@ -62,3 +62,6 @@
 - **[2026-10-04 15:33 UTC]** Candidato ao governo de Sergipe, Valmir de Francisquinho do Republicanos vota em Itabaiana
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/04/candidato-ao-governo-por-sergipe-valmir-de-francisquinho-do-republicanos-vota-em-itabaiana.ghtml)_
 
+- **[2026-10-04 21:51 UTC]** Apuração: Em Sergipe, Fábio tem 59% e Valmir de Francisquinho, 37%, com 53% das urnas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-em-sergipe-fabio-tem-59percent-e-valmir-de-francisquinho-37percent-com-53percent-das-urnas.ghtml)_
+
