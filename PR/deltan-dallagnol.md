@@ -86,3 +86,6 @@
 - **[2026-10-04 14:54 UTC]** Deltan Dallagnol vota em Curitiba e celebra decisão de Nunes Marques
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/deltan-dallagnol-vota-em-curitiba-e-celebra-decisao-de-nunes-marques/)_
 
+- **[2026-10-04 22:27 UTC]** Filipe Barros (PL) e Deltan Dallagnol (Novo) são eleitos senadores pelo Paraná
+  _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-parana.ghtml)_
+
