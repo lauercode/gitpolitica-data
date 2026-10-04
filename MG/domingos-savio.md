@@ -32,3 +32,6 @@
 - **[2026-10-01 17:24 UTC]** Datafolha: Marília Campos tem 13% para o Senado em MG; Viana e Aécio, 11% cada; Sávio, 9%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-marilia-campos-tem-13-para-o-senado-em-mg-viana-e-aecio-11-cada.shtml)_
 
+- **[2026-10-03 18:38 UTC]** Datafolha: Senado em MG tem Marília com 21%, Viana, 19%, Sávio, 17%, e Aécio, 13%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-senado-em-mg-tem-marilia-com-21-viana-19-savio-17-e-aecio-13.shtml)_
+
