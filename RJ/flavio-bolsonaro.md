@@ -3467,3 +3467,6 @@
 - **[2026-10-03 23:00 UTC]** Flávio Bolsonaro sobrevive a escândalos e se alavanca no STF em eleição para vingar o pai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-sobrevive-a-escandalos-e-se-alavanca-no-stf-em-eleicao-para-vingar-o-pai.shtml)_
 
+- **[2026-10-03 22:46 UTC]** Datafolha: Lula aposta em mobilização na rua, e Flávio se mostra otimista na reta final
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-aposta-em-mobilizacao-na-rua-e-flavio-se-mostra-otimista-na-reta-final.shtml)_
+
