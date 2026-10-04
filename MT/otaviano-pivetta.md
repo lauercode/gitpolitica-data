@@ -26,3 +26,6 @@
 - **[2026-10-04 18:09 UTC]** Otaviano Pivetta (Republicanos) é reeleito governador de Mato Grosso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/otaviano-pivetta-republicanos-e-reeleito-governador-de-mato-grosso-projeta-datafolha.shtml)_
 
+- **[2026-10-04 22:20 UTC]** Em MT, Otaviano Pivetta (Republicanos) é reeleito governador com 60,82% dos votos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/em-mt-otaviano-pivetta-republicanos-e-reeleito-governador-com-6105percent-dos-votos.ghtml)_
+
