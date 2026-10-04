@@ -17,3 +17,6 @@
 - **[2026-10-03 22:51 UTC]** Quaest para o Senado no TO, votos válidos: Eduardo Gomes, 25%; Gaguim, 21%; Alexandre Guimarães, 17%
   _fonte: [G1 - Política:](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/quaest-to-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 16:06 UTC]** Carlos Gaguim (União) vota em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/04/carlos-gaguim-uniao-vota-em-palmas.ghtml)_
+
