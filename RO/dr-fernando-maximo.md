@@ -44,3 +44,6 @@
 - **[2026-10-03 22:48 UTC]** Quaest para o Senado em Rondônia, votos válidos: Máximo, 28%; Scheid, 23%; Cristina, 21%; Mariana, 16%
   _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/03/quaest-rondonia-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 21:17 UTC]** Em Rondônia, Fernando Máximo (PL) e Bruno Scheid (PL) são eleitos senadores
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-27-pontos-percentuais-das-urnas-abertas-em-ro-fernando-mximo-pl-e-bruno-scheid-pl-lideram-disputa-ao-senado.ghtml)_
+
