@@ -152,3 +152,6 @@
 - **[2026-10-02 10:27 UTC]** Vanessa da Mata, pagode e festa à fantasia: confira a agenda cultural do fim de semana em SE
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/02/confira-a-agenda-cultural-do-fim-de-semana-em-se.ghtml)_
 
+- **[2026-10-02 10:27 UTC]** Vanessa da Mata, pagode e festa à fantasia: veja o que fazer em Sergipe neste fim de semana
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/02/confira-a-agenda-cultural-do-fim-de-semana-em-se.ghtml)_
+
