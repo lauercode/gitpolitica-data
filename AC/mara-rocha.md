@@ -11,3 +11,6 @@
 - **[2026-10-01 13:42 UTC]** Qual é o número de Mara Rocha (Republicanos) para o Senado no Acre?
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-mara-rocha-republicanos-para-o-senado-no-acre.ghtml)_
 
+- **[2026-10-04 15:26 UTC]** Mara Rocha (Republicanos) vota em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/mara-rocha-republicanos-vota-em-rio-branco.ghtml)_
+
