@@ -20,3 +20,6 @@
 - **[2026-10-01 13:05 UTC]** Qual é o número de Chico Rodrigues (PSB) para o Senado em Roraima?
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-chico-rodrigues-psb-para-o-senado-em-roraima.ghtml)_
 
+- **[2026-10-03 22:43 UTC]** Quaest para o Senado em Roraima, votos válidos: Nicoletti, 26%; Teresa Surita, 25%; Helena da Asatur, 19%; Chico Rodrigues, 15%
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/03/quaest-roraima-senado-3-outubro.ghtml)_
+
