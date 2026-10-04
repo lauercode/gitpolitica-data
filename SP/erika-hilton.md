@@ -59,3 +59,6 @@
 - **[2026-10-04 17:32 UTC]** Erika Hilton recebe ameaça de morte e adia ida às urnas por segurança
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/erika-hilton-recebe-ameaca-de-morte-e-adia-ida-as-urnas-por-seguranca.ghtml)_
 
+- **[2026-10-04 20:09 UTC]** Erika Hilton supera 1,4 milhão de votos e se torna mulher mais votada da história para a Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/erika-hilton-supera-14-milhao-de-votos-e-se-torna-mulher-mais-votada-da-historia-para-a-camara.shtml)_
+
