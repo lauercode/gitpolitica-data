@@ -86,3 +86,6 @@
 - **[2026-10-04 13:00 UTC]** Renan Filho (MDB) vota em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/04/renan-filho-mdb-vota-em-maceio.ghtml)_
 
+- **[2026-10-03 21:12 UTC]** Quaest em Alagoas, votos válidos: Renan Filho, 50% e JHC, 49%
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quaest-alagoas-governador-3-outubro.ghtml)_
+
