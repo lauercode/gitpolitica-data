@@ -3548,3 +3548,6 @@
 - **[2026-10-04 04:00 UTC]** Lula lidera votação no exterior e soma mais votos que Flávio Bolsonaro; acompanhe a apuração
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml)_
 
+- **[2026-10-04 14:16 UTC]** Lula lidera no exterior na Itália, na China e em Berlim; Flávio vence no Japão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-recebe-5016-dos-votos-validos-e-ganha-em-milao-flavio-recebe-406.shtml)_
+
