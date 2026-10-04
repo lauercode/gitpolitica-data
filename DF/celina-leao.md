@@ -98,3 +98,6 @@
 - **[2026-10-04 19:50 UTC]** Celina Leão (PP) e Leandro Grass (PT) vão disputar o 2º turno no DF, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/celina-leao-pp-e-leandro-grass-pt-vao-disputar-o-2o-turno-no-df-projeta-datafolha.shtml)_
 
+- **[2026-10-04 20:43 UTC]** Apuração: No DF, Celina Leão tem 49,5%, e Leandro Grass, 35%, com 48% das urnas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-no-df-com-20-pontos-percentuais-das-urnas-celina-leo-tem-49-e-leandro-grass-35.ghtml)_
+
