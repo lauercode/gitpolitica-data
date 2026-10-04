@@ -14,3 +14,6 @@
 - **[2026-09-15 14:14 UTC]** Deputada Júlia Zanatta relata tentativa frustrada de acesso ao STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/deputada-defende-investigacao-moraes-reforma-institucional-profunda/)_
 
+- **[2026-10-04 22:03 UTC]** Com mais de 70% das urnas apuradas, Júlia Zanatta (PL) se torna a deputada federal mais votada da história de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/julia-zanatta-pl-deputada-federal-mais-votada-historia-sc.ghtml)_
+
