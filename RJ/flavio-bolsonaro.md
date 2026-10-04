@@ -3569,3 +3569,6 @@
 - **[2026-10-04 20:07 UTC]** Flávio Bolsonaro fala em garantir liberdade de imprensa caso eleito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-vai-garantir-liberdade-de-imprensa-caso-eleito.shtml)_
 
+- **[2026-10-04 19:59 UTC]** Vitória folgada fortalece Tarcísio para 2030 e impõe novo desafio na relação com clã Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vitoria-folgada-fortalece-tarcisio-para-2030-e-impoe-novo-desafio-na-relacao-com-cla-bolsonaro.shtml)_
+
