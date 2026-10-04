@@ -140,3 +140,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Raquel Lyra, candidata a governadora de Pernambuco em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-raquel-lyra-candidata-a-governadora-de-pernambuco-em-2026.ghtml)_
 
+- **[2026-10-04 15:46 UTC]** ‘Fizemos tudo o que pudemos’, diz Raquel Lyra após votar em em PE
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/fizemos-tudo-o-que-pudemos-diz-raquel-lyra-aps-votar-em-em-pe.ghtml)_
+
