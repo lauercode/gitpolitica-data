@@ -26,3 +26,6 @@
 - **[2026-10-01 00:07 UTC]** Eleições 2026 no RS: Rejane de Oliveira propõe que 'classe trabalhadora controle verbas do Funrigs'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-no-rs-rejane-de-oliveira-propoe-que-classe-trabalhadora-controle-verbas-do-funrigs.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Rejane de Oliveira, candidata a governador do Rio Grande do Sul em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-rejane-de-oliveira-candidata-a-governador-do-rio-grande-do-sul-em-2026.ghtml)_
+
