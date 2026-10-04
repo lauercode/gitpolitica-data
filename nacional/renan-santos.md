@@ -413,3 +413,6 @@
 - **[2026-10-04 03:00 UTC]** Empresário e fundador do MBL, Renan Santos estreia em eleições na disputa pela Presidência
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/empresario-e-fundador-do-mbl-renan-santos-estreia-em-eleicoes-na-disputa-pela-presidencia.ghtml)_
 
+- **[2026-10-04 14:28 UTC]** Renan Santos vota em São Paulo e ataca Flávio: “desqualificado, covarde e burro”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-vota-em-sao-paulo-e-ataca-flavio-desqualificado-covarde-e-burro/)_
+
