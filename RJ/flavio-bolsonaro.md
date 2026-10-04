@@ -3428,3 +3428,6 @@
 - **[2026-10-03 21:32 UTC]** Datafolha, 2º turno: Lula, 47%; Flávio Bolsonaro, 46%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/datafolha-presidente-segundo-turno-3-outubro.ghtml)_
 
+- **[2026-10-03 20:47 UTC]** Ex-ministro Pedro Parente diz que teve má impressão de Flávio em jantar e que não votará nele
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/ex-ministro-pedro-parente-diz-que-teve-ma-impressao-de-flavio-em-jantar-e-que-nao-votara-nele.shtml)_
+
