@@ -44,3 +44,6 @@
 - **[2026-10-03 23:29 UTC]** Quaest: Em Goiás, Daniel Vilela tem 57% dos votos válidos, Wilder Morais, 20%, e Marconi Perillo, 18%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-em-gois-daniel-vilela-tem-57-pontos-percentuais-dos-votos-vlidos-wilder-morais-20-e-marconi-perillo-18.ghtml)_
 
+- **[2026-10-04 19:32 UTC]** Daniel Vilela é reeleito governador de Goiás no primeiro turno
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/daniel-vilela-e-eleito-governador-de-goias-no-primeiro-turno)_
+
