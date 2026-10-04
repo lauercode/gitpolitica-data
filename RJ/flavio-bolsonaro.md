@@ -3416,3 +3416,6 @@
 - **[2026-10-03 22:31 UTC]** Datafolha para presidente no DF, votos válidos: Flávio, 49%; Lula, 37%; Caiado, 6%; Cury, 3%; Renan, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-presidente-3-outubro.ghtml)_
 
+- **[2026-10-03 22:17 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 44%; Lula 42%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-2o-turno-flavio-bolsonaro-44percent-lula-42percent.ghtml)_
+
