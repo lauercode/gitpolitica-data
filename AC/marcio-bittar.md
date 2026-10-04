@@ -14,3 +14,6 @@
 - **[2026-10-01 13:42 UTC]** Qual é o número de Marcio Bittar (PL) para o Senado no Acre?
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-marcio-bittar-pl-para-o-senado-no-acre.ghtml)_
 
+- **[2026-10-04 15:51 UTC]** Candidato ao Senado pelo Acre, Márcio Bittar (PL) vota em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/candidato-ao-senado-pelo-acre-marcio-bittar-pl-vota-em-rio-branco.ghtml)_
+
