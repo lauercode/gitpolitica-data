@@ -1133,3 +1133,6 @@ direitos
 - **[2026-10-04 03:00 UTC]** Com passagens por Câmara, Senado e pelo governo de Goiás, Ronaldo Caiado tenta pela segunda vez chegar à Presidência
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/com-passagens-por-camara-senado-e-pelo-governo-de-goias-ronaldo-caiado-tenta-pela-segunda-vez-chegar-a-presidencia.ghtml)_
 
+- **[2026-10-04 15:14 UTC]** Veículos de comunicação da Câmara e do Senado fazem cobertura integrada das eleições
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1302595-veiculos-de-comunicacao-da-camara-e-do-senado-fazem-cobertura-integrada-das-eleicoes)_
+
