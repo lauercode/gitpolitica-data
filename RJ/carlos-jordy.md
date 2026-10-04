@@ -32,3 +32,6 @@
 - **[2026-10-03 18:48 UTC]** Datafolha: Benedita tem 26% para o Senado no RJ; Portinho marca 19%, e Jordy, 18%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-benedita-tem-26-para-o-senado-no-rj-portinho-marca-19-e-jordy-18.shtml)_
 
+- **[2026-10-03 22:24 UTC]** Datafolha: No RJ, Benedita tem 26% dos votos válidos para Senado; Portinho tem 19% e Jordy, 18%
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/datafolha-no-rj-benedita-tem-26-pontos-percentuais-dos-votos-vlidos-para-senado-portinho-tem-19-e-jordy-18.ghtml)_
+
