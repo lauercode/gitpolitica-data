@@ -20,3 +20,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Marcelo Maranata, candidato a governador do Rio Grande do Sul em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-marcelo-maranata-candidato-a-governador-do-rio-grande-do-sul-em-2026.ghtml)_
 
+- **[2026-10-04 18:48 UTC]** Marcelo Maranata (PSDB) vota em Guaíba
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/marcelo-maranata-psdb-vota.ghtml)_
+
