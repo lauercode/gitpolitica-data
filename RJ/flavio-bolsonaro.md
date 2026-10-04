@@ -3584,3 +3584,6 @@
 - **[2026-10-04 23:23 UTC]** Com 90% das urnas apuradas, Flávio Bolsonaro tem 48% e Lula tem 44%; acompanhe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-04 23:04 UTC]** Flávio chega a QG da campanha para acompanhar apuração ao lado de aliados
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/04/flvio-chega-a-qg-da-campanha-para-acompanhar-apurao-ao-lado-de-aliados.ghtml)_
+
