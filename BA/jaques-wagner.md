@@ -68,3 +68,6 @@
 - **[2026-09-28 17:50 UTC]** Wagner Moura divulga vídeo de apoio Lula e diz ser 'por tudo o que ele significa'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/wagner-moura-diz-que-voto-em-lula-e-por-tudo-o-que-ele-significa.shtml)_
 
+- **[2026-10-03 22:25 UTC]** Quaest para o Senado na BA, votos válidos: Rui Costa, 33%; Jaques Wagner, 30%; Angelo Coronel, 18%; João Roma, 17%
+  _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/03/quaest-bahia-senado-3-outubro.ghtml)_
+
