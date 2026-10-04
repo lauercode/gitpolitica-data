@@ -107,3 +107,6 @@
 - **[2026-10-04 11:49 UTC]** Professora Evany (PSOL) vota em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/professora-evany-psol-vota-em-manaus.ghtml)_
 
+- **[2026-10-04 13:12 UTC]** Araceli Lemos (PSOL) vota em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/04/araceli-lemos-psol-vota-em-belem.ghtml)_
+
