@@ -32,3 +32,6 @@
 - **[2026-10-01 12:43 UTC]** Qual é o número de Roberto Rocha (PRTB) para o governo do Maranhão?
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-roberto-rocha-prtb-para-o-governo-do-maranhao.ghtml)_
 
+- **[2026-10-04 19:22 UTC]** Roberto Rocha (PRTB) vota em São Luís neste domingo (4)
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/roberto-rocha-prtb-vota-em-sao-luis-neste-domingo-4.ghtml)_
+
