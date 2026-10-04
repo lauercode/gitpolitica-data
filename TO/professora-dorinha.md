@@ -26,3 +26,6 @@
 - **[2026-10-04 16:26 UTC]** Professora Dorinha (União) vota em Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/professora-dorinha-uniao-vota-em-palmas.ghtml)_
 
+- **[2026-10-04 18:27 UTC]** Professora Dorinha (União Brasil) e Vicentinho Júnior (PSDB) vão ao 2º turno no Tocantins
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/professora-dorinha-uniao-brasil-e-vicentinho-junior-psdb-vao-ao-2o-turno-no-tocantins-projeta-datafolha.shtml)_
+
