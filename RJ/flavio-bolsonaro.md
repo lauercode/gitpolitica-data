@@ -3482,3 +3482,6 @@
 - **[2026-10-04 12:19 UTC]** Eleições: Flávio, Lula e Zema já votaram; saem os primeiros resultados da apuração no exterior
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml)_
 
+- **[2026-10-04 11:18 UTC]** Lula, Flávio Bolsonaro e Zema já votaram; Cury vota em São Paulo e Caiado em Goiás
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/candidatos-a-presidencia-votam.ghtml)_
+
