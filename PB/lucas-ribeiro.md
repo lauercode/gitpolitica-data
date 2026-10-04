@@ -74,3 +74,6 @@
 - **[2026-10-03 22:41 UTC]** Quaest na Paraíba, votos válidos: Lucas Ribeiro, 61%; Efraim Filho, 23%; Cícero Lucena, 16%
   _fonte: [G1 - Política:](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/03/quaest-pb-governador-3-outubro.ghtml)_
 
+- **[2026-10-03 23:09 UTC]** Quaest: Na PB, Lucas Ribeiro tem 61%, Efraim Filho soma 12% e Cícero Lucena, 16%, no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-na-pb-lucas-ribeiro-tem-61-pontos-percentuais-efraim-filho-soma-12-e-ccero-lucena-16-no-primeiro-turno.ghtml)_
+
