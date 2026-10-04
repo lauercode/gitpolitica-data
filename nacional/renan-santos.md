@@ -407,3 +407,6 @@
 - **[2026-10-03 23:00 UTC]** Em estreia do Missão, Renan Santos fez campanha marcada por ataques e discurso radical
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-estreia-do-missao-renan-santos-fez-campanha-marcada-por-ataques-e-discurso-radical.shtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Renan Santos, candidato a presidente em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-renan-santos-candidato-a-presidente-em-2026.ghtml)_
+
