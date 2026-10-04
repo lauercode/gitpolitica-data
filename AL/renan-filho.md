@@ -89,3 +89,6 @@
 - **[2026-10-03 21:12 UTC]** Quaest em Alagoas, votos válidos: Renan Filho, 50% e JHC, 49%
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quaest-alagoas-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 20:13 UTC]** JHC (PSDB) derrota Renan Filho (MDB) e é eleito governador de Alagoas, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jhc-psdb-derrota-renan-filho-mdb-e-e-eleito-governador-de-alagoas-projeta-datafolha.shtml)_
+
