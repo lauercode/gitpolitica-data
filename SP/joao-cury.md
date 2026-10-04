@@ -398,3 +398,6 @@
 - **[2026-10-02 20:18 UTC]** Datafolha no RJ: Flávio, 45%; Lula, 38%; Cury e Renan, 3%; Caiado, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/02/datafolha-no-rj-presidencia-2-outubro.ghtml)_
 
+- **[2026-10-03 23:15 UTC]** Quaest: como votam os eleitores de Caiado, Renan e Cury em um 2º turno entre Lula e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-como-votam-os-eleitores-de-caiado-renan-e-cury-em-um-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml)_
+
