@@ -3497,3 +3497,6 @@
 - **[2026-10-04 08:50 UTC]** Flávio Bolsonaro diz confiar em 'voto de revolta' no primeiro turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-confiar-em-voto-de-revolta-no-primeiro-turno.shtml)_
 
+- **[2026-10-04 12:01 UTC]** Lula e Flávio Bolsonaro chegam ao 1º turno com 2 pontos de distância no Agregador de Pesquisas da BBC News Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
+
