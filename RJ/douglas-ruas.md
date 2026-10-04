@@ -38,3 +38,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Douglas Ruas, candidato a governador do Rio de Janeiro em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-douglas-ruas-candidato-a-governador-do-rio-de-janeiro-em-2026.ghtml)_
 
+- **[2026-10-04 12:13 UTC]** Douglas Ruas afirma que decisão de anular votos dados a Garotinho é 'manobra' para favorecer Paes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/douglas-ruas-afirma-que-deciso-de-anular-votos-dados-a-garotinho-manobra-para-favorecer-paes.ghtml)_
+
