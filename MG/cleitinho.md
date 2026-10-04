@@ -134,3 +134,6 @@
 - **[2026-10-04 16:51 UTC]** Líder nas pesquisas eleitorais em Minas Gerais, Cleitinho vota em Divinópolis
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/lider-nas-pesquisas-eleitorais-em-minas-gerais-cleitinho-vota-em-divinopolis.ghtml)_
 
+- **[2026-10-04 18:46 UTC]** Cleitinho (Republicanos) é eleito governador de Minas Gerais, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cleitinho-republicanos-e-eleito-governador-de-minas-gerais-projeta-datafolha.shtml)_
+
