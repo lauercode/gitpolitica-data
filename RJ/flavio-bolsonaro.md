@@ -3485,3 +3485,6 @@
 - **[2026-10-04 11:18 UTC]** Lula, Flávio Bolsonaro e Zema já votaram; Cury vota em São Paulo e Caiado em Goiás
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/candidatos-a-presidencia-votam.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Austrália, Nova Zelândia, Coreia do Sul e Malásia dão vitória a Lula; Flávio Bolsonaro vence nas Filipinas e Tailândia; acompanhe a apuração no exterior
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml)_
+
