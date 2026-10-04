@@ -74,3 +74,6 @@
 - **[2026-10-03 22:24 UTC]** Quaest para o Senado no Paraná, votos válidos: Filipe Barros, 25%, Alexandre Curi, 21%; Deltan Dallagnol, 21%; e Gleisi, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/quaest-parana-senado-3-outubro.ghtml)_
 
+- **[2026-10-03 20:12 UTC]** TSE indefere candidatura de Deltan Dallagnol ao Senado pelo Paraná
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-indefere-candidatura-de-deltan-dallagnol-ao-senado-pelo-parana.shtml)_
+
