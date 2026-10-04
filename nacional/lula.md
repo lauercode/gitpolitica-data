@@ -1052,3 +1052,6 @@
 - **[2026-10-03 22:31 UTC]** Datafolha para presidente no DF, votos válidos: Flávio, 49%; Lula, 37%; Caiado, 6%; Cury, 3%; Renan, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-presidente-3-outubro.ghtml)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Lula, candidato a presidente em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-lula-candidato-a-presidente-em-2026.ghtml)_
+
