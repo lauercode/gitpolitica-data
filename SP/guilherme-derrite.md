@@ -74,3 +74,6 @@
 - **[2026-10-04 22:58 UTC]** Guilherme Derrite chega ao Senado após gestão na Segurança de SP marcada por alta da letalidade policial
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/guilherme-derrite-chega-ao-senado-apos-gestao-na-seguranca-de-sp-marcada-por-alta-da-letalidade-policial.ghtml)_
 
+- **[2026-10-04 22:31 UTC]** Derrite e André do Prado são eleitos senadores por São Paulo
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/derrite-e-andre-do-prado-sao-eleitos-senadores-por-sao-paulo.ghtml)_
+
