@@ -23,3 +23,6 @@
 - **[2026-10-04 19:15 UTC]** MT reelege Otaviano Pivetta como governador no primeiro turno
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/MT-reelege-Otaviano-Pivetta-como-governador-no-primeiro-turno)_
 
+- **[2026-10-04 18:09 UTC]** Otaviano Pivetta (Republicanos) é reeleito governador de Mato Grosso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/otaviano-pivetta-republicanos-e-reeleito-governador-de-mato-grosso-projeta-datafolha.shtml)_
+
