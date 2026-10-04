@@ -65,3 +65,6 @@
 - **[2026-10-03 14:51 UTC]** Ato de Lula em SP tem princípio de confusão com a PM
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/ato-de-lula-em-sp-tem-princpio-de-confuso-com-a-pm.ghtml)_
 
+- **[2026-10-04 15:20 UTC]** Alckmin vota em SP e diz que “salvamos a democracia” junto de Lula contra “golpe”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alckmin-vota-sp-salvamos-democracia-lula-golpe/)_
+
