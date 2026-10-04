@@ -11,3 +11,6 @@
 - **[2026-09-30 21:53 UTC]** Qual é o número de Dário Barbosa (PSTU) para o governo do Rio Grande do Norte?
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-dario-barbosa-pstu-para-o-governo-do-rio-grande-do-norte.ghtml)_
 
+- **[2026-10-04 15:17 UTC]** Dário Barbosa (PSTU) vota em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/dario-barbosa-pstu-vota-em-natal.ghtml)_
+
