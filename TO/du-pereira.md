@@ -14,3 +14,6 @@
 - **[2026-10-01 11:54 UTC]** Qual é o número de Du Pereira (DC) para o governo do Tocantins?
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-du-pereira-dc-para-o-governo-do-tocantins.ghtml)_
 
+- **[2026-10-04 16:54 UTC]** Du Pereira (DC) vota em Palmas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/04/du-pereira-dc-vota-em-palmas.ghtml)_
+
