@@ -3554,3 +3554,6 @@
 - **[2026-10-04 12:01 UTC]** Lula e Flávio chegam ao 1º turno com 2 pontos de distância no Agregador de Pesquisas da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-04 19:53 UTC]** Ministro do STF Flávio Dino vota em São Luís neste domingo (4)
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/ministro-do-stf-flavio-dino-vota-em-sao-luis-neste-domingo-4.ghtml)_
+
