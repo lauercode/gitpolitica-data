@@ -8,3 +8,6 @@
 - **[2026-09-25 22:14 UTC]** Quaest para o Senado em MT: Mauro Mendes 27%; Janaína Riva 19%; Pedro Taques 9%; Zé Medeiros 9%; Fávaro 8%
   _fonte: [G1 - Política:](https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/25/quaest-mt-senado-25-setembro.ghtml)_
 
+- **[2026-10-04 23:12 UTC]** Em Mato Grosso, Mauro Mendes e Zé Medeiros se elegem para o Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/em-mato-grosso-mauro-mendes-e-ze-medeiros-se-elegem-para-o-senado.ghtml)_
+
