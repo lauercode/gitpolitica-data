@@ -32,3 +32,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Jerônimo Rodrigues, candidato a governador da Bahia em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-jeronimo-rodrigues-candidato-a-governador-da-bahia-em-2026.ghtml)_
 
+- **[2026-10-04 18:57 UTC]** Jerônimo Rodrigues (PT) derrota ACM Neto (União) na Bahia e é reeleito governador, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jeronimo-rodrigues-pt-derrota-acm-neto-uniao-na-bahia-e-e-reeleito-governador-projeta-datafolha.shtml)_
+
