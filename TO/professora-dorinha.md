@@ -20,3 +20,6 @@
 - **[2026-10-03 22:43 UTC]** Quaest no TO, votos válidos: Professora Dorinha, 46%; Vicentinho Júnior, 41%
   _fonte: [G1 - Política:](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/quaest-to-governador-3-outubro.ghtml)_
 
+- **[2026-10-03 18:11 UTC]** Siqueira Campos Júnior desiste de disputar o governo do Tocantins e declara apoio a Professora Dorinha
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/siqueira-campos-junior-desiste-de-disputar-o-governo-do-tocantins-e-declara-apoio-a-professora-dorinha.ghtml)_
+
