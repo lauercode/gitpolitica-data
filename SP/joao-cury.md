@@ -404,3 +404,6 @@
 - **[2026-10-03 22:45 UTC]** Datafolha para presidente em PE, votos válidos: Lula, 65%; Flávio Bolsonaro, 26%; Cury, 3%; Renan, 2%; Caiado, 2%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/03/datafolha-pernambuco-presidente-3-de-outubroghtml.ghtml)_
 
+- **[2026-10-03 22:32 UTC]** Datafolha para presidente em SP, votos válidos: Flávio Bolsonaro, 45%; Lula, 39%; Cury, 5%; Caiado, 5%; Renan, 4%
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/datafolha-sp-presidente-3-outubro.ghtml)_
+
