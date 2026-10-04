@@ -3521,3 +3521,6 @@
 - **[2026-10-04 14:28 UTC]** Renan Santos vota em São Paulo e ataca Flávio: “desqualificado, covarde e burro”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-vota-em-sao-paulo-e-ataca-flavio-desqualificado-covarde-e-burro/)_
 
+- **[2026-10-04 11:52 UTC]** Flávio Bolsonaro é o primeiro presidenciável a votar e diz acreditar em vitória no primeiro turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-vota-no-rio-e-diz-acreditar-em-vitoria-no-primeiro-turno/)_
+
