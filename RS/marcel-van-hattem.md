@@ -26,3 +26,6 @@
 - **[2026-10-04 22:12 UTC]** Sanderson (PL) e Marcel van Hattem (Novo) são eleitos senadores pelo RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/reultado-senado-rs.ghtml)_
 
+- **[2026-10-04 22:42 UTC]** No RS, Sanderson (PL) e Marcel van Hattem (Novo) são eleitos para o Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-rs-sanderson-pl-e-marcel-van-hattem-novo-sao-eleitos-para-o-senado.ghtml)_
+
