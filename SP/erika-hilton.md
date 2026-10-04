@@ -53,3 +53,6 @@
 - **[2026-09-30 00:00 UTC]** Mendonça libera post de Erika Hilton sobre Nossa Senhora, mas mantém cerco a fake news
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-libera-post-de-erika-hilton-sobre-nossa-senhora-mas-mantem-cerco-a-fake-news/)_
 
+- **[2026-10-04 12:59 UTC]** Erika Hilton recebe ameaça de morte por e-mail no 1º turno: 'banho de sangue'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/erika-hilton-recebe-ameaca-de-morte-por-e-mail-no-1o-turno-banho-de-sangue.shtml)_
+
