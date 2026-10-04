@@ -74,3 +74,6 @@
 - **[2026-10-01 20:43 UTC]** Márcio França sugere voto nulo ou 'em um homem' para senador durante ato, e Marina Silva e Tebet rebatem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/marcio-franca-sugere-voto-nulo-ou-em-um-homem-para-senador-durante-ato-e-marina-silva-e-tebet-rebatem.shtml)_
 
+- **[2026-10-04 23:01 UTC]** Marina Silva e Simone Tebet perdem disputa pelo Senado em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/marina-silva-e-simone-tebet-perdem-disputa-pelo-senado-em-sp.ghtml)_
+
