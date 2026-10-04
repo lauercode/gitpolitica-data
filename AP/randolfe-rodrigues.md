@@ -14,3 +14,6 @@
 - **[2026-09-24 21:40 UTC]** Quaest para o Senado no AP: Rayssa Furlan, 28%; Randolfe Rodrigues, 20%; Lucas Barreto, 19%
   _fonte: [G1 - Política:](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/24/quaest-ap-senado-24-setembro.ghtml)_
 
+- **[2026-10-03 22:43 UTC]** Quaest para o Senado no AP, votos válidos: Rayssa Furlan, 30%; Randolfe Rodrigues, 21%; Lucas Barreto 21%
+  _fonte: [G1 - Política:](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quaest-ap-senado-3-outubro.ghtml)_
+
