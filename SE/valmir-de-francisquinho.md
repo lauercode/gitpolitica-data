@@ -56,3 +56,6 @@
 - **[2026-10-01 23:10 UTC]** Após ter candidatura inviabilizada, Ricardo Marques declara apoio a Valmir de Francisquinho na disputa pelo governo de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/01/ricardo-marques-do-pl-declara-apoio-a-valmir-de-francisquinho-do-republicanos-governo-de-sergipe.ghtml)_
 
+- **[2026-10-03 22:41 UTC]** Quaest em Sergipe, votos válidos: Fábio, 55%; Valmir de Francisquinho, 44%
+  _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/03/quaest-se-governador-3-outubro.ghtml)_
+
