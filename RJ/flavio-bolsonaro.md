@@ -3572,3 +3572,6 @@
 - **[2026-10-04 19:59 UTC]** Vitória folgada fortalece Tarcísio para 2030 e impõe novo desafio na relação com clã Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vitoria-folgada-fortalece-tarcisio-para-2030-e-impoe-novo-desafio-na-relacao-com-cla-bolsonaro.shtml)_
 
+- **[2026-10-04 19:47 UTC]** Mercado vê Bolsa em alta e dólar em queda após vantagem de Flávio contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/mercado-ve-bolsa-em-alta-e-dolar-em-queda-apos-vantagem-de-flavio-contra-lula-em-2o-turno.shtml)_
+
