@@ -17,3 +17,6 @@
 - **[2026-10-01 17:09 UTC]** Tabata Amaral distribui santinhos sem Lula, Alckmin, Tebet e Haddad
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tabata-amaral-distribui-santinhos-sem-lula-alckmin-tebet-e-haddad.shtml)_
 
+- **[2026-10-04 11:37 UTC]** Mãe de Tabata Amaral é internada em estado grave após acidente em agenda de campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mae-de-tabata-amaral-e-internada-em-estado-grave-apos-acidente-em-agenda-de-campanha.shtml)_
+
