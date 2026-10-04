@@ -41,3 +41,6 @@
 - **[2026-10-01 03:05 UTC]** Qual é o número de Juliana Brizola (PDT) para o governo do Rio Grande do Sul?
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-juliana-brizola-pdt-para-o-governo-do-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-03 22:38 UTC]** Quaest no RS, votos válidos: Zucco, 52%; Juliana Brizola, 35%
+  _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/03/quaest-rs-governador-3-outubro.ghtml)_
+
