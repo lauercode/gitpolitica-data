@@ -35,3 +35,6 @@
 - **[2026-10-01 12:43 UTC]** Qual é o número de Reginaldo Lima (PCB) para o governo do Maranhão?
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-reginaldo-lima-pcb-para-o-governo-do-maranhao.ghtml)_
 
+- **[2026-10-04 12:45 UTC]** Reginaldo Lima (PCB) vota em Imperatriz
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/reginaldo-lima-pcb-vota-em-imperatriz.ghtml)_
+
