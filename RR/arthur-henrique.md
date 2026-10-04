@@ -50,3 +50,6 @@
 - **[2026-10-04 20:02 UTC]** Eleições 2026: veja propostas de Arthur Henrique para o governo de Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-veja-propostas-de-arthur-henrique-para-o-governo-de-roraima.ghtml)_
 
+- **[2026-10-04 19:14 UTC]** Arthur Henrique é eleito governador de Roraima no primeiro turno
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/arthur-henrique-e-eleito-governador-de-roraima-no-primeiro-turno)_
+
