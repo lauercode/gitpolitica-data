@@ -137,3 +137,6 @@
 - **[2026-10-04 18:46 UTC]** Cleitinho (Republicanos) é eleito governador de Minas Gerais, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cleitinho-republicanos-e-eleito-governador-de-minas-gerais-projeta-datafolha.shtml)_
 
+- **[2026-10-04 21:37 UTC]** Apuração: Com 51,26% das urnas apuradas em MG, Cleitinho tem 53,69%; Patrus tem 26,44%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/com-2164-pontos-percentuais-das-urnas-apuradas-em-mg-cleitinho-tem-4971-patrus-tem-2766.ghtml)_
+
