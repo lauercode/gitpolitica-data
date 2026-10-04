@@ -26,3 +26,6 @@
 - **[2026-10-03 21:12 UTC]** Quaest para o Senado em Alagoas, votos válidos: Marina, 29%; Arthur Lira, 27%; Renan 25%; Davi Davino 9%; Dr. Wanderley 9%
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quaest-alagoas-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 22:35 UTC]** Apuração: Com 40% das urnas apuradas, Arthur Lira e Marina JHC lideram disputa ao Senado em Alagoas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-40percent-das-urnas-apuradas-arthur-lira-e-marina-jhc-lideram-disputa-ao-senado-em-alagoas.ghtml)_
+
