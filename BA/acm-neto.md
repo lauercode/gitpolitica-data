@@ -56,3 +56,6 @@
 - **[2026-10-03 22:25 UTC]** Quaest na BA, votos válidos: Jerônimo Rodrigues, 52%; ACM Neto, 48%
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/03/quaest-ba-governador-3-outubro.ghtml)_
 
+- **[2026-10-03 23:01 UTC]** Quaest: Na Bahia, Jerônimo Rodrigues tem 52% e ACM Neto 48%, em empate técnico
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-na-bahia-jernimo-rodrigues-tem-52-pontos-percentuais-e-acm-neto-48-em-empate-tcnico.ghtml)_
+
