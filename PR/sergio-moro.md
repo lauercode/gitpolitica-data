@@ -125,3 +125,6 @@
 - **[2026-10-04 13:25 UTC]** Sergio Moro (PL) vota em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/voto-sergio-moro-eleicao.ghtml)_
 
+- **[2026-10-04 19:47 UTC]** Sergio Moro (PL) é eleito governador do Paraná, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/sergio-moro-pl-e-eleito-governador-do-parana-projeta-datafolha.shtml)_
+
