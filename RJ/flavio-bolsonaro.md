@@ -3530,3 +3530,6 @@
 - **[2026-10-04 16:31 UTC]** Em manhã de primeiro turno, nem Lula e nem Flávio aparecem nas redes sociais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/em-manha-de-primeiro-turno-nem-lula-e-nem-flavio-aparecem-nas-redes-sociais.ghtml)_
 
+- **[2026-10-04 14:17 UTC]** Estratégia de voto útil em Flávio é ‘mentira’ do bolsonarismo, afirma Renan Santos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/estratgia-de-voto-til-em-flvio-mentira-do-bolsonarismo-afirma-renan-santos.ghtml)_
+
