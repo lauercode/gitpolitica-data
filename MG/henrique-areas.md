@@ -62,3 +62,6 @@
 - **[2026-09-09 19:42 UTC]** Áreas atingidas por fogo em Palmas aumentam 20% comparado com 2025
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-09/areas-atingidas-por-fogo-em-palmas-aumentam-20-comparado-com-2025)_
 
+- **[2026-10-04 04:00 UTC]** Qual é o número de Henrique Áreas, candidato a governador de Minas Gerais em 2026?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-henrique-areas-candidato-a-governador-de-minas-gerais-em-2026.ghtml)_
+
