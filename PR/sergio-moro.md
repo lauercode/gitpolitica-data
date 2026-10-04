@@ -128,3 +128,6 @@
 - **[2026-10-04 19:47 UTC]** Sergio Moro (PL) é eleito governador do Paraná, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/sergio-moro-pl-e-eleito-governador-do-parana-projeta-datafolha.shtml)_
 
+- **[2026-10-04 21:03 UTC]** Apuração: Com 23,04% das urnas contabilizadas, Sergio Moro tem 49,97% e Sandro Alex 24,49% no Paraná
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-2304-pontos-percentuais-das-urnas-contabilizadas-sergio-moro-tem-4997-e-sandro-alex-2449-no-paran.ghtml)_
+
