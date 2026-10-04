@@ -14,3 +14,6 @@
 - **[2026-09-25 19:40 UTC]** Quaest: Eduardo Riedel (PP), com 51%, segue na liderança em Mato Grosso do Sul
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-eduardo-riedel-pp-com-51-segue-na-lideranca-em-mato-grosso-do-sul.shtml)_
 
+- **[2026-10-03 22:33 UTC]** Quaest em MS, votos válidos: Eduardo Riedel, 67%; Fábio Trad, 23%; e Delcídio Amaral, 4%
+  _fonte: [G1 - Política:](https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/03/quaest-mato-grosso-do-sul-governador-3-outubro.ghtml)_
+
