@@ -3587,3 +3587,6 @@
 - **[2026-10-04 23:04 UTC]** Flávio chega a QG da campanha para acompanhar apuração ao lado de aliados
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/04/flvio-chega-a-qg-da-campanha-para-acompanhar-apurao-ao-lado-de-aliados.ghtml)_
 
+- **[2026-10-04 22:14 UTC]** Eleições 2026: Lula e Flávio vão ao segundo turno, projeta Datafolha; siga
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/ao-vivo/2026/10/04/eleicoes-2026-ultimas-noticias-votacao-candidatos-neste-domingo.ghtml)_
+
