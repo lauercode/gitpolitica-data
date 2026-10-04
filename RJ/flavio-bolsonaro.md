@@ -3557,3 +3557,6 @@
 - **[2026-10-04 19:53 UTC]** Ministro do STF Flávio Dino vota em São Luís neste domingo (4)
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/ministro-do-stf-flavio-dino-vota-em-sao-luis-neste-domingo-4.ghtml)_
 
+- **[2026-10-04 13:07 UTC]** Vantagem de Bolsonaro no exterior cai após entrada de votos na Europa
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/flavio-bolsonaro-sai-na-frente-nas-eleicoes-no-exterior-apos-votacao-ser-encerrada-na-asia.ghtml)_
+
