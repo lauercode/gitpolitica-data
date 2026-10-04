@@ -11,3 +11,6 @@
 - **[2026-10-01 13:44 UTC]** Qual é o número de Jorge Viana (PT) para o Senado no Acre?
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-jorge-viana-pt-para-o-senado-no-acre.ghtml)_
 
+- **[2026-10-04 16:26 UTC]** Candidato ao Senado pelo Acre, Jorge Viana (PT) vota neste domingo (4) em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/candidato-ao-senado-pelo-acre-jorge-viana-pt-vota-neste-domingo-4-em-rio-branco.ghtml)_
+
