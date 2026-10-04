@@ -3503,3 +3503,6 @@
 - **[2026-10-04 11:57 UTC]** Flávio Bolsonaro vota no Rio e indica que pode ser eleito no 1º turno graças ao voto útil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/flvio-bolsonaro-vota-no-rio-e-indica-que-pode-ser-eleito-no-primeiro-turno-graas-ao-voto-util.ghtml)_
 
+- **[2026-10-04 11:26 UTC]** Lula vence na Nova Zelândia, Coreia do Sul, Malásia, Cingapura e Austrália; Flávio ganha nas Filipinas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/lula-vence-na-nova-zelandia-coreia-do-sul-malasia-cingapura-e-australia-flavio-ganha-nas-filipinas.ghtml)_
+
