@@ -23,3 +23,6 @@
 - **[2026-10-01 00:07 UTC]** Eleições 2026 no RS: Zucco cita 'remoção de pessoas de áreas de risco' em resposta a enchentes
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-no-rs-zucco-cita-remocao-de-pessoas-de-areas-de-risco-em-resposta-a-enchentes.ghtml)_
 
+- **[2026-10-03 22:38 UTC]** Quaest no RS, votos válidos: Zucco, 52%; Juliana Brizola, 35%
+  _fonte: [G1 - Política:](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/03/quaest-rs-governador-3-outubro.ghtml)_
+
