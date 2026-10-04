@@ -59,3 +59,6 @@
 - **[2026-10-03 22:41 UTC]** Quaest em Sergipe, votos válidos: Fábio, 55%; Valmir de Francisquinho, 44%
   _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/03/quaest-se-governador-3-outubro.ghtml)_
 
+- **[2026-10-04 15:33 UTC]** Candidato ao governo de Sergipe, Valmir de Francisquinho do Republicanos vota em Itabaiana
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/04/candidato-ao-governo-por-sergipe-valmir-de-francisquinho-do-republicanos-vota-em-itabaiana.ghtml)_
+
