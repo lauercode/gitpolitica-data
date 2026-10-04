@@ -47,3 +47,6 @@
 - **[2026-10-01 23:26 UTC]** Eduardo Braide defende incentivo à agricultura familiar para combater insegurança alimentar no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/01/eduardo-braide-defende-incentivo-a-agricultura-familiar-para-combater-inseguranca-alimentar-no-ma.ghtml)_
 
+- **[2026-10-03 23:32 UTC]** Quaest no Maranhão, votos válidos: Eduardo Braide, 52%; Orleans Brandão, 35%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/03/quaest-no-maranhao-votos-validos-eduardo-braide-52percent-orleans-brandao-35percent.ghtml)_
+
