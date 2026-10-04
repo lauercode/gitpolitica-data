@@ -20,3 +20,6 @@
 - **[2026-10-04 17:08 UTC]** Capitão Alberto Neto (PL) vota em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/capitao-alberto-neto-pl-vota-em-manaus.ghtml)_
 
+- **[2026-10-04 21:11 UTC]** Apuração: Com 20,17% das urnas apuradas, Eduardo Braga (MDB) lidera Senado no Amazonas, com 28,75%; Capitão Alberto (PL) tem 27%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-2017percent-das-urnas-apuradas-eduardo-braga-mdb-lidera-senado-no-amazonas-com-2875percent-capitao-alberto-pl-tem-27percent.ghtml)_
+
