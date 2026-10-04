@@ -410,3 +410,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Renan Santos, candidato a presidente em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-renan-santos-candidato-a-presidente-em-2026.ghtml)_
 
+- **[2026-10-04 03:00 UTC]** Empresário e fundador do MBL, Renan Santos estreia em eleições na disputa pela Presidência
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/empresario-e-fundador-do-mbl-renan-santos-estreia-em-eleicoes-na-disputa-pela-presidencia.ghtml)_
+
