@@ -26,3 +26,6 @@
 - **[2026-10-03 22:43 UTC]** Quaest para o Senado em Roraima, votos válidos: Nicoletti, 26%; Teresa Surita, 25%; Helena da Asatur, 19%; Chico Rodrigues, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/03/quaest-roraima-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 22:32 UTC]** Nicoletti (PL) e Teresa Surita (MDB) são eleitos senadores por Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/nicoletti-pl-e-teresa-surita-mdb-sao-eleitos-senadores-por-roraima.ghtml)_
+
