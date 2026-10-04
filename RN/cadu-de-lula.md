@@ -101,3 +101,6 @@
 - **[2026-10-02 22:19 UTC]** Cadu de Lula caminha pela Zona Norte de Natal e promete ações contra alagamentos
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/02/cadu-de-lula-caminha-pela-zona-norte-de-natal-e-promete-acoes-contra-alagamentos.ghtml)_
 
+- **[2026-10-03 22:24 UTC]** Quaest no RN, votos válidos: Allyson, 37%; Cadu de Lula, 32%; Álvaro Dias, 29%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/03/quaest-no-rn-governador-3-outubro.ghtml)_
+
