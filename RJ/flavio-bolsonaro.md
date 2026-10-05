@@ -3830,3 +3830,6 @@
 - **[2026-10-05 15:57 UTC]** Eventual vitória de Flávio reedita e empode­ra eixo de poder do governo Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/eventual-vitoria-de-flavio-reedita-e-empodera-eixo-de-poder-do-governo-bolsonaro.ghtml)_
 
+- **[2026-10-05 14:23 UTC]** Miriam Leitão: Lula teria dificuldades com Congresso mais conservador, e Flávio Bolsonaro teria ‘poder demais’
+  _fonte: [G1 - Política:](https://g1.globo.com/bom-dia-brasil/noticia/2026/10/05/miriam-leitao-lula-teria-dificuldades-com-congresso-mais-conservador-e-flavio-bolsonaro-teria-poder-demais.ghtml)_
+
