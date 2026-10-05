@@ -32,3 +32,6 @@
 - **[2026-09-11 18:28 UTC]** TRE-MG apura elo entre perfil de Nikolas e conta que difundiu relatório falsamente atribuído à PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/tre-mg-apura-elo-entre-perfil-de-nikolas-e-conta-que-difundiu-relatorio-falsamente-atribuido-a-pf.shtml)_
 
+- **[2026-10-05 03:31 UTC]** Eleições 2026: Idazio da Perfil (União Brasil) é eleito deputado estadual por Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-idazio-da-perfil-uniao-brasil-e-eleito-deputado-estadual-por-roraima.ghtml)_
+
