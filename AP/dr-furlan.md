@@ -143,3 +143,6 @@
 - **[2026-10-04 23:14 UTC]** Dr. Furlan (PSD) é eleito governador do Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/dr-furlan-psd-e-eleito-governador-do-ap.ghtml)_
 
+- **[2026-10-04 22:09 UTC]** No Amapá, Dr. Furlan (PSD) está matematicamente eleito governador no 1º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-no-amap-dr-furlan-tem-60-pontos-percentuais-e-clcio-397-com-57-das-urnas.ghtml)_
+
