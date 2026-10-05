@@ -3833,3 +3833,6 @@
 - **[2026-10-05 14:23 UTC]** Miriam Leitão: Lula teria dificuldades com Congresso mais conservador, e Flávio Bolsonaro teria ‘poder demais’
   _fonte: [G1 - Política:](https://g1.globo.com/bom-dia-brasil/noticia/2026/10/05/miriam-leitao-lula-teria-dificuldades-com-congresso-mais-conservador-e-flavio-bolsonaro-teria-poder-demais.ghtml)_
 
+- **[2026-10-05 12:49 UTC]** Flávio Bolsonaro conta com Tarcísio em SP e avanço no Nordeste para vencer no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/05/flavio-bolsonaro-conta-com-tarcisio-em-sp-e-avanco-no-nordeste-para-vencer-no-segundo-turno.ghtml)_
+
