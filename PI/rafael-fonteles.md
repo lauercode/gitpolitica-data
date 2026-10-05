@@ -23,3 +23,6 @@
 - **[2026-10-04 22:47 UTC]** No Piauí, Rafael Fonteles (PT) está reeleito no 1º turno com 70,16% dos votos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-piaui-rafael-fonteles-pt-esta-reeleito-no-1o-turno-com-7016percent-dos-votos.ghtml)_
 
+- **[2026-10-05 16:06 UTC]** Rafael Fonteles, o governador mais votado do país: como matemático 'superdotado' virou uma esperança para PT
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4g53jy8j7do?at_medium=RSS&at_campaign=rss)_
+
