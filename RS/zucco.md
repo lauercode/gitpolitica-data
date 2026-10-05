@@ -50,3 +50,6 @@
 - **[2026-10-04 22:13 UTC]** Zucco é eleito governador do Rio Grande do Sul em 1º turno
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/zucco-e-eleito-governador-do-rio-grande-do-sul-em-1o-turno)_
 
+- **[2026-10-04 23:49 UTC]** 'O que venceu, acima de tudo, foi uma nova esperança, um desejo de prosperidade', diz Zucco (PL), governador eleito do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/zucco-pl-governador-eleito-do-rs.ghtml)_
+
