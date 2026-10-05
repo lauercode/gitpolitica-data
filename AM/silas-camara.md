@@ -1208,3 +1208,6 @@ direitos
 - **[2026-10-05 07:40 UTC]** Resultado das eleições 2026 em Assis Brasil (AC): votação para presidente no Câmara Municipal, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-assis-brasil-ac-votacao-para-presidente-no-camara-municipal-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 16:34 UTC]** Com 109 deputadas eleitas, bancada feminina cresce 21,1% na Câmara
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309285-com-109-deputadas-eleitas-bancada-feminina-cresce-211-na-camara)_
+
