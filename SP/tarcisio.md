@@ -164,3 +164,6 @@
 - **[2026-10-05 08:08 UTC]** Em 85% das cidades em que Lula venceu em SP, eleitores também escolheram Tarcísio
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/em-85percent-das-cidades-em-que-lula-venceu-em-sp-eleitores-tambem-escolheram-tarcisio.ghtml)_
 
+- **[2026-10-05 04:00 UTC]** Com Zucco e Tarcísio, país terá pela primeira vez na democracia 2 governadores oriundos do Exército
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-zucco-e-tarcisio-pais-tera-pela-primeira-vez-na-democracia-2-governadores-oriundos-do-exercito.shtml)_
+
