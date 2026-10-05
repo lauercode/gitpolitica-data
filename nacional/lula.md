@@ -1055,3 +1055,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Lula, candidato a presidente em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-lula-candidato-a-presidente-em-2026.ghtml)_
 
+- **[2026-10-05 02:01 UTC]** Flávio Bolsonaro toma dianteira em Minas Gerais e no Tocantins, onde Lula venceu em 2022; veja como foi a votação para presidente por estado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-toma-dianteira-em-minas-gerais-e-no-tocantins-onde-lula-venceu-em-2022-veja-como-foi-a-votacao-para-presidente-por-estado.ghtml)_
+
