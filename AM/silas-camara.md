@@ -1235,3 +1235,6 @@ direitos
 - **[2026-10-05 12:26 UTC]** Com 121 deputados, PL terá maior bancada da Câmara; veja eleitos por estado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-121-deputados-pl-tera-maior-bancada-da-camara-veja-eleitos-por-estado.shtml)_
 
+- **[2026-10-05 17:59 UTC]** Joana Darc é eleita e Amazonas volta a ter mulher na Câmara após 12 anos
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/joana-darc-e-eleita-e-amazonas-volta-a-ter-mulher-na-camara-apos-12-anos.ghtml)_
+
