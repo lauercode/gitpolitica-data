@@ -14,3 +14,6 @@
 - **[2026-09-29 03:00 UTC]** Alvo da PF, deputado Antônio Doido já jogou celulares pela janela em operação de 2025
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/29/alvo-da-pf-deputado-antonio-doido-ja-jogou-celulares-pela-janela-em-operacao-de-2025.ghtml)_
 
+- **[2026-10-05 03:00 UTC]** Eleições 2026: Antonio Doido (MDB) é eleito deputado federal pelo Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-antonio-doido-mdb-e-eleito-deputado-federal-pelo-para.ghtml)_
+
