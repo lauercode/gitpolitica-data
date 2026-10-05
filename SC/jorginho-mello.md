@@ -122,3 +122,6 @@
 - **[2026-10-04 22:16 UTC]** Jorginho Mello (PL) é reeleito governador de Santa Catarina no 1º turno
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/jorginho-mello-pl-reeleito-governador-de-santa-catarina.ghtml)_
 
+- **[2026-10-05 03:39 UTC]** Jorginho Mello vence no primeiro turno com a maior vantagem sobre segundo colocado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governadores-reeleitos-maior-vantagem-primeiro-turno/)_
+
