@@ -170,3 +170,6 @@
 - **[2026-10-05 08:00 UTC]** Em SP, Tarcísio é reeleito com 62% dos votos
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/05/em-sp-tarcisio-e-reeleito-com-62-dos-votos.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Tarcísio se reelege em SP com 62,65% e emplaca senadores
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/tarcisio-se-reelege-em-sp-com-6265-e-emplaca-senadores.ghtml)_
+
