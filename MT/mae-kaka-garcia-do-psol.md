@@ -128,3 +128,6 @@
 - **[2026-10-05 05:46 UTC]** PSOL/Rede, PDT e outras siglas ficam abaixo da cláusula de barreira na apuração; entenda o que pode mudar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/psolrede-pdt-clausula-de-barreira-eleicoes-2026.ghtml)_
 
+- **[2026-10-05 03:45 UTC]** Eleições 2026: Karen Santos (PSOL) é eleita deputada estadual pelo Rio Grande do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-karen-santos-psol-e-eleita-deputada-estadual-pelo-rio-grande-do-sul.ghtml)_
+
