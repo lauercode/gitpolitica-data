@@ -3701,3 +3701,6 @@
 - **[2026-10-05 00:29 UTC]** Na Faria Lima, Flávio já é visto como presidente
   _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/noticia/2026/10/04/analise-na-faria-lima-flavio-ja-e-visto-como-presidente.ghtml)_
 
+- **[2026-10-05 00:18 UTC]** Eleições 2026: Lula e Flávio Bolsonaro vão ao segundo turno; siga
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/ao-vivo/2026/10/04/eleicoes-2026-ultimas-noticias-votacao-candidatos-neste-domingo.ghtml)_
+
