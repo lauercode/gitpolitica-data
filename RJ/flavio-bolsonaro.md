@@ -3839,3 +3839,6 @@
 - **[2026-10-05 12:21 UTC]** Campanha de Lula subestimou Flávio Bolsonaro e força do antipetismo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/analise-andreia-sadi-resultado-primeiro-turno.ghtml)_
 
+- **[2026-10-05 12:03 UTC]** Flávio Bolsonaro se reúne com Tarcísio e Nikolas para discutir estratégia para o segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/05/flavio-bolsonaro-reune-campanha-para-tracar-estrategia-para-2o-turno.ghtml)_
+
