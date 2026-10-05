@@ -3635,3 +3635,6 @@
 - **[2026-10-04 22:15 UTC]** Empresários dizem que desgastes de Lula e do STF deram vantagem a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/empresarios-afirmam-que-decisoes-do-stf-e-desgaste-do-lulismo-favoreceram-flavio-bolsonaro.shtml)_
 
+- **[2026-10-04 22:00 UTC]** Renan Santos afirma que Brasil será governado pelo 'mais corrupto da família Bolsonaro'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-afirma-que-brasil-sera-governado-pelo-mais-corrupto-da-familia-bolsonaro.shtml)_
+
