@@ -68,3 +68,6 @@
 - **[2026-10-04 23:37 UTC]** Erika Hilton supera 1,5 milhão de votos e se torna a mulher mais votada da história para a Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/erika-hilton-mais-votada-camara-eleicao-2026.ghtml)_
 
+- **[2026-10-05 11:10 UTC]** Erika Hilton é a campeã de votos da bancada feminina
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309197-erika-hilton-e-a-campea-de-votos-da-bancada-feminina)_
+
