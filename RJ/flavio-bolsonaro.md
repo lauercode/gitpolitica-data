@@ -3884,3 +3884,6 @@
 - **[2026-10-05 18:24 UTC]** Cleitinho declara apoio a Flávio Bolsonaro em MG no segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cleitinho-declara-apoio-flavio-bolsonaro-mg-segundo-turno/)_
 
+- **[2026-10-05 17:53 UTC]** Bolsonaro pode ser candidato à presidência em 2030 se Flávio levar 2026, diz Valdemar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonaro-candidato-presidencia-2030-valdemar/)_
+
