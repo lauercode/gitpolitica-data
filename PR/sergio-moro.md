@@ -131,3 +131,6 @@
 - **[2026-10-04 21:03 UTC]** Apuração: Com 23,04% das urnas contabilizadas, Sergio Moro tem 49,97% e Sandro Alex 24,49% no Paraná
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-2304-pontos-percentuais-das-urnas-contabilizadas-sergio-moro-tem-4997-e-sandro-alex-2449-no-paran.ghtml)_
 
+- **[2026-10-05 00:13 UTC]** Sergio Moro (PL) fala em fazer governo 'intolerante contra qualquer espécie de desvio' no primeiro discurso após vitória
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/primeira-declaracao-sergio-moro-eleito-governador-parana.ghtml)_
+
