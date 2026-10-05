@@ -47,3 +47,6 @@
 - **[2026-10-04 20:43 UTC]** Apuração: No DF, Celina Leão tem 49,5%, e Leandro Grass, 35%, com 48% das urnas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-no-df-com-20-pontos-percentuais-das-urnas-celina-leo-tem-49-e-leandro-grass-35.ghtml)_
 
+- **[2026-10-04 22:12 UTC]** Celina Leão e Leandro Grass disputam segundo turno no Distrito Federal
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/celina-leao-e-leandro-grass-disputam-segundo-turno-no-distrito-federal)_
+
