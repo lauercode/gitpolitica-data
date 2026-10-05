@@ -3653,3 +3653,6 @@
 - **[2026-10-04 21:47 UTC]** Flávio Bolsonaro ganha nos EUA com o dobro de votos de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-ganha-nos-eua-com-o-dobro-de-votos-de-lula.shtml)_
 
+- **[2026-10-04 21:44 UTC]** Lula vence na China e em Portugal, e Flávio nos EUA e em Israel; veja voto no exterior
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vence-na-china-e-em-portugal-e-flavio-no-japao-e-em-israel-veja-voto-no-exterior.shtml)_
+
