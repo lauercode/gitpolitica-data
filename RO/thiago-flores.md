@@ -26,3 +26,6 @@
 - **[2026-09-30 21:27 UTC]** Festa de Flores e Morangos de Atibaia encerra 44a edição
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/09/30/festa-de-flores-e-morangos-de-atibaia-encerra-44a-edicao-1.ghtml)_
 
+- **[2026-10-05 01:33 UTC]** Eleições 2026: Thiago Flores (União Brasil) é eleito deputado federal por Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-thiago-flores-uniao-brasil-e-eleito-deputado-federal-por-rondonia.ghtml)_
+
