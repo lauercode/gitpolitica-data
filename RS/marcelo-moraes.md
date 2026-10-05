@@ -2729,3 +2729,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-27 19:43 UTC]** Casamento de filho de Moraes tem forte esquema de segurança em SP e empresário reclama de agressão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/casamento-de-filho-de-moraes-tem-forte-esquema-de-seguranca-em-sp-e-empresario-reclama-de-agressao/)_
 
+- **[2026-10-05 01:39 UTC]** Eleições 2026: Marcelo Moraes (PL) é eleito deputado federal pelo Rio Grande do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-marcelo-moraes-pl-e-eleito-deputado-federal-pelo-rio-grande-do-sul.ghtml)_
+
