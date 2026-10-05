@@ -1193,3 +1193,6 @@ direitos
 - **[2026-10-05 02:50 UTC]** PP elege maior bancada para Alagoas na Câmara, incluindo o mais votado
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1307313-pp-elege-maior-bancada-para-alagoas-na-camara-incluindo-o-mais-votado)_
 
+- **[2026-10-05 08:14 UTC]** Câmara terá 35,7% de deputados federais em primeiro mandato, menor percentual em quatro eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/camara-tera-357percent-de-deputados-federais-em-primeiro-mandato-menor-percentual-em-quatro-eleicoes.ghtml)_
+
