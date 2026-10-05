@@ -38,3 +38,6 @@
 - **[2026-10-04 16:10 UTC]** Hugo Motta vota na Paraíba e diz esperar que eleitos façam o necessário para o país avançar
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1308572-hugo-motta-vota-na-paraiba-e-diz-esperar-que-eleitos-facam-o-necessario-para-o-pais-avancar)_
 
+- **[2026-10-05 02:32 UTC]** Republicanos elege três deputados na Paraíba; Hugo Motta é reeleito
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1307828-republicanos-elege-tres-deputados-na-paraiba-hugo-motta-e-reeleito)_
+
