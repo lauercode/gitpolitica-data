@@ -3611,3 +3611,6 @@
 - **[2026-10-05 00:38 UTC]** Flávio Bolsonaro diz estar 'muito feliz' com resultado do primeiro turno: 'O Brasil quer mudança'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-entrevista-2o-turno.ghtml)_
 
+- **[2026-10-05 00:12 UTC]** Peça-chave na campanha de Flávio Bolsonaro, Fernanda tenta suavizar imagem do marido
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/peca-chave-na-campanha-de-flavio-bolsonaro-fernanda-tenta-suavizar-imagem-do-marido.ghtml)_
+
