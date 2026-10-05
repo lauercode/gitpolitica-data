@@ -20,3 +20,6 @@
 - **[2026-10-01 13:55 UTC]** Malafaia perde recurso e é condenado em R$ 25 mil por dizer que Felipe Neto 'perverte crianças'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/malafaia-perde-recurso-e-e-condenado-em-r-25-mil-por-dizer-que-felipe-neto-perverte-criancas.shtml)_
 
+- **[2026-10-05 01:25 UTC]** Eleições 2026: Dorinaldo Malafaia (PDT) é eleito deputado federal pelo Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-dorinaldo-malafaia-pdt-e-eleito-deputado-federal-pelo-amapa.ghtml)_
+
