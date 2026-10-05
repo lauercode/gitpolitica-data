@@ -65,3 +65,6 @@
 - **[2026-10-04 15:31 UTC]** Entenda por que Vorcaro e Careca do INSS podem votar, mas Jair Bolsonaro, não
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/entenda-por-que-vorcaro-e-careca-do-inss-podem-votar-mas-jair-bolsonaro-nao.shtml)_
 
+- **[2026-10-05 01:38 UTC]** Eleições 2026: Jair Bolsonaro (PL) é eleito deputado federal por Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-jair-bolsonaro-pl-e-eleito-deputado-federal-por-santa-catarina.ghtml)_
+
