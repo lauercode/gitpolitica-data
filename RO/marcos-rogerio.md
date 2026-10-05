@@ -80,3 +80,6 @@
 - **[2026-10-04 21:08 UTC]** Com 92,95% das urnas apuradas em Rondônia, Marcos Rogério (PL) está eleito governador
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-25-pontos-percentuais-das-urnas-marcos-rogrio-pl-tem-5056-dos-votos-e-lidera-disputa-pelo-governo-de-rondnia.ghtml)_
 
+- **[2026-10-05 00:12 UTC]** Marcos Rogério (PL) fala em 'resultado histórico' para Rondônia no primeiro discurso após vitória
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/04/marcos-rogerio-discursa-apos-ser-eleito-governador.ghtml)_
+
