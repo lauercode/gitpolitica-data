@@ -3713,3 +3713,6 @@
 - **[2026-10-05 06:53 UTC]** Lula teve 1,7 milhão de votos a menos em SP, RJ e MG do que em 2022; Flávio, 1,3 milhão a mais que Jair
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/lula-flavio-perdas-e-ganhos-sp-rj-mg.ghtml)_
 
+- **[2026-10-05 05:12 UTC]** Eleições 2026: 11 estados elegeram governadores que apoiaram Flávio Bolsonaro; e 5, aliados de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/governadores-primeiro-turno-apoio-flavio-lula.ghtml)_
+
