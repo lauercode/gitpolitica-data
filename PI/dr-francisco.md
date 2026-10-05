@@ -14,3 +14,6 @@
 - **[2026-09-04 07:02 UTC]** Rádio MEC apresenta tributo ao compositor Francisco Mignone
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/radio-mec-apresenta-tributo-ao-compositor-francisco-mignone)_
 
+- **[2026-10-05 13:09 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Des. Francisco das Chagas Moreira, na 3ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-des-francisco-das-chagas-moreira-na-3a-zona-eleitoral.ghtml)_
+
