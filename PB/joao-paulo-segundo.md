@@ -230,3 +230,6 @@
 - **[2026-09-11 19:14 UTC]** Master 'NUNCA deixará de ser o SEU banco', disse ex-presidente do BRB a Vorcaro, segundo relatório da PF
   _fonte: [G1 - Política:](https://g1.globo.com/df/noticia/2026/09/11/o-master-nunca-deixara-de-ser-o-seu-banco-disse-ex-presidente-do-brb-a-vorcaro-segundo-relatorio-da-pf.ghtml)_
 
+- **[2026-10-05 03:01 UTC]** Eleições 2026: João Paulo Segundo (PP) é eleito deputado estadual pela Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-joao-paulo-segundo-pp-e-eleito-deputado-estadual-pela-paraiba.ghtml)_
+
