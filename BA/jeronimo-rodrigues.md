@@ -38,3 +38,6 @@
 - **[2026-10-05 00:14 UTC]** Na Bahia, Jerônimo Rodrigues está eleito no primeiro turno com 55,29% dos votos
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/04/na-bahia-jeronimo-rodrigues-esta-eleito-no-primeiro-turno-com-5519percent-dos-votos.ghtml)_
 
+- **[2026-10-05 00:34 UTC]** Jerônimo Rodrigues, do PT, é reeleito governador da Bahia
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/jeronimo-rodrigues-e-reeleito-governador-da-bahia)_
+
