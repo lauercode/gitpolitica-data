@@ -3632,3 +3632,6 @@
 - **[2026-10-04 22:40 UTC]** Aliados de Flávio Bolsonaro vencem em 10 estados, e aliados de Lula, em 5
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-bolsonaro-vencem-em-10-estados-e-aliados-de-lula-em-5.shtml)_
 
+- **[2026-10-04 22:15 UTC]** Empresários dizem que desgastes de Lula e do STF deram vantagem a Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/empresarios-afirmam-que-decisoes-do-stf-e-desgaste-do-lulismo-favoreceram-flavio-bolsonaro.shtml)_
+
