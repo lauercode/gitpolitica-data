@@ -17,3 +17,6 @@
 - **[2026-08-29 16:00 UTC]** Mortes: Devota de Menina Izildinha, gostava de dirigir e de visitar sua terra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mortes-devota-de-menina-izildinha-gostava-de-dirigir-e-de-visitar-sua-terra.shtml)_
 
+- **[2026-10-05 11:06 UTC]** Resultado das eleições 2026 em Bujari (AC): votação para presidente na Escola Edmundo Pinto de Almeida Neto, na 9ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bujari-ac-votacao-para-presidente-na-escola-edmundo-pinto-de-almeida-neto-na-9a-zona-eleitoral.ghtml)_
+
