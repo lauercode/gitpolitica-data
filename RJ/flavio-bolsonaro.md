@@ -3725,3 +3725,6 @@
 - **[2026-10-05 04:59 UTC]** Lula venceu Flávio Bolsonaro nos nove estados do Nordeste no 1º turno; veja votação em cada um
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/lula-venceu-flavio-bolsonaro-nos-nove-estados-do-nordeste-no-1o-turno-veja-votacao-em-cada-um.ghtml)_
 
+- **[2026-10-05 04:55 UTC]** As cidades de São Paulo onde Flávio Bolsonaro venceu e onde Lula ficou na frente
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/as-cidades-de-sao-paulo-onde-flavio-bolsonaro-venceu-e-onde-lula-ficou-na-frente.ghtml)_
+
