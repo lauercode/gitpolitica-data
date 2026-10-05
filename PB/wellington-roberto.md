@@ -83,3 +83,6 @@
 - **[2026-10-04 04:00 UTC]** Roberto Calasso lança nova luz sobre a Bíblia com detalhes e lacunas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/roberto-calasso-lanca-nova-luz-sobre-a-biblia-com-detalhes-e-lacunas.shtml)_
 
+- **[2026-10-05 03:09 UTC]** Eleições 2026: Wellington Roberto (PSD) é eleito deputado federal pela Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-wellington-roberto-psd-e-eleito-deputado-federal-pela-paraiba.ghtml)_
+
