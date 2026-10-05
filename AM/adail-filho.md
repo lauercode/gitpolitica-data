@@ -17,3 +17,6 @@
 - **[2026-09-16 22:31 UTC]** Entenda como funciona o esquema investigado pela PF que mira deputado Adail Filho e prefeito Adail Pinheiro no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/16/entenda-como-funciona-o-esquema-investigado-pela-pf-que-mira-deputado-adail-filho-e-prefeito-adail-pinheiro-no-am.ghtml)_
 
+- **[2026-10-05 09:37 UTC]** Eleições 2026: Adail Filho (MDB) é eleito deputado federal pelo Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-adail-filho-mdb-e-eleito-deputado-federal-pelo-amazonas.ghtml)_
+
