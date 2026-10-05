@@ -1250,3 +1250,6 @@ direitos
 - **[2026-10-05 01:24 UTC]** Veja como fica a bancada de Sergipe na Câmara dos Deputados a partir de 2027
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/04/veja-como-fica-a-bancada-de-sergipe-na-camara-dos-deputados-a-partir-de-2027.ghtml)_
 
+- **[2026-10-05 17:42 UTC]** PL tem a maior bancada eleita na Câmara dos Deputados em 2026
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/pl-tem-a-maior-bancada-eleita-na-cmara-dos-deputados-em-2026.ghtml)_
+
