@@ -86,3 +86,6 @@
 - **[2026-10-05 00:20 UTC]** Marcos Rogério é eleito governador de Rondônia em primeiro turno
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/marcos-rogerio-e-eleito-governador-de-rondonia-em-primeiro-turno)_
 
+- **[2026-10-05 15:56 UTC]** Quais desafios Marcos Rogério (PL) terá nos próximos quatro anos como governador de Rondônia
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/05/desafios-de-marcos-rogerio-como-governador-de-rondonia.ghtml)_
+
