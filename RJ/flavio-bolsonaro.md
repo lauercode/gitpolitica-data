@@ -3638,3 +3638,6 @@
 - **[2026-10-04 22:00 UTC]** Renan Santos afirma que Brasil será governado pelo 'mais corrupto da família Bolsonaro'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-afirma-que-brasil-sera-governado-pelo-mais-corrupto-da-familia-bolsonaro.shtml)_
 
+- **[2026-10-04 22:00 UTC]** Flávio e a direita mostram força nas urnas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/flavio-e-a-direita-mostram-forca-nas-urnas.shtml)_
+
