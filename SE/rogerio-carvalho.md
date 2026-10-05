@@ -26,3 +26,6 @@
 - **[2026-10-03 22:47 UTC]** Quaest para o Senado em SE, votos válidos: Delegado André David, 20%; Rogério Carvalho,19%; André Moura, 17%; Delegado Alessandro, 17%
   _fonte: [G1 - Política:](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/03/quaest-se-senado-03-outubro.ghtml)_
 
+- **[2026-10-05 01:31 UTC]** Rogério Carvalho (PT) e Delegado Alessandro (MDB) são eleitos senadores por Sergipe
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/rogerio-carvalho-pt-e-delegado-alessandro-mdb-sao-eleitos-senadores-por-sergipe.ghtml)_
+
