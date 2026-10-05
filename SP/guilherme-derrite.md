@@ -83,3 +83,6 @@
 - **[2026-10-04 22:58 UTC]** Derrite chega ao Senado após gestão na Segurança de SP marcada por alta da letalidade policial e redução de indicadores criminais
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/guilherme-derrite-chega-ao-senado-apos-gestao-na-seguranca-de-sp-marcada-por-alta-da-letalidade-policial.ghtml)_
 
+- **[2026-10-05 03:25 UTC]** Eleito em SP, Guilherme Derrite é o senador mais votado da história
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/eleito-em-sp-guilherme-derrite-e-o-senador-mais-votado-da-historia.ghtml)_
+
