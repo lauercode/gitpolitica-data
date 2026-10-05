@@ -68,3 +68,6 @@
 - **[2026-10-05 01:38 UTC]** Eleições 2026: Jair Bolsonaro (PL) é eleito deputado federal por Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-jair-bolsonaro-pl-e-eleito-deputado-federal-por-santa-catarina.ghtml)_
 
+- **[2026-10-05 00:39 UTC]** Jair Bolsonaro elege dois filhos em Santa Catarina; Flávio tem 66% dos votos para a Presidência no estado
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/jair-bolsonaro-elege-dois-filhos-em-santa-catarina.ghtml)_
+
