@@ -173,3 +173,6 @@
 - **[2026-10-05 08:00 UTC]** Tarcísio se reelege em SP com 62,65% e emplaca senadores
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/tarcisio-se-reelege-em-sp-com-6265-e-emplaca-senadores.ghtml)_
 
+- **[2026-10-05 12:49 UTC]** Flávio Bolsonaro conta com Tarcísio em SP e avanço no Nordeste para vencer no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/05/flavio-bolsonaro-conta-com-tarcisio-em-sp-e-avanco-no-nordeste-para-vencer-no-segundo-turno.ghtml)_
+
