@@ -11,3 +11,6 @@
 - **[2026-10-05 14:45 UTC]** Nilvan Ferreira fala em 'ser o olheiro do cidadão' no primeiro discurso após ser o deputado estadual mais votado na PB nas Eleições 2026
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/nilvan-ferreira-fala-em-ser-o-olheiro-do-cidadao-no-primeiro-discurso-apos-ser-o-deputado-estadual-mais-votado-na-pb-nas-eleicoes-2026.ghtml)_
 
+- **[2026-10-05 12:25 UTC]** Cabo Gilberto e Nilvan Ferreira são os deputados mais votados na Paraíba nas Eleições 2026; veja os eleitos
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/cabo-gilberto-e-nilvan-ferreira-sao-os-deputados-mais-votados-na-paraiba-nas-eleicoes-2026-veja-os-eleitos.ghtml)_
+
