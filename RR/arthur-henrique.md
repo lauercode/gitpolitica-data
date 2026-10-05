@@ -62,3 +62,6 @@
 - **[2026-10-04 22:21 UTC]** Arthur Henrique é eleito governador de Roraima em primeiro turno
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/arthur-henrique-e-eleito-governador-de-roraima-no-primeiro-turno)_
 
+- **[2026-10-05 16:09 UTC]** Governador eleito, Arthur Henrique quer transformar Roraima em rota de exportação: 'fornecer pro mundo'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/05/governador-eleito-arthur-henrique-quer-transformar-roraima-em-rota-de-exportacao-fornecer-pro-mundo.ghtml)_
+
