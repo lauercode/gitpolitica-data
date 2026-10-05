@@ -3605,3 +3605,6 @@
 - **[2026-10-05 00:42 UTC]** Adversários de Flávio Bolsonaro e Lula somam apenas 7,85% dos votos no 1º turno; veja números de 2014, 2018 e 2022
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/adversarios-de-lula-e-flavio-bolsonaro-somam-apenas-785percent-dos-votos-no-1o-turno-veja-numeros-das-eleicoes-de-2014-2018-e-2022.ghtml)_
 
+- **[2026-10-05 00:41 UTC]** Após eleição ir ao segundo turno, Lula diz que votação será 'prova dos nove' e vai derrotar Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/lula-discursa-apos-o-primeiro-turno.ghtml)_
+
