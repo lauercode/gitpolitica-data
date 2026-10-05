@@ -8,3 +8,6 @@
 - **[2026-10-05 03:43 UTC]** Eleições 2026: Dr. Vicente (União Brasil) é eleito deputado estadual por Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-dr-vicente-uniao-brasil-e-eleito-deputado-estadual-por-santa-catarina.ghtml)_
 
+- **[2026-10-05 13:12 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Dr. Vicente de Mendonça Junior, na 3ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-dr-vicente-de-mendonca-junior-na-3a-zona-eleitoral.ghtml)_
+
