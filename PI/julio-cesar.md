@@ -35,3 +35,6 @@
 - **[2026-09-25 17:55 UTC]** Susana Werner e Júlio César deixam Portugal e vendem imóveis
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/susana-werner-e-julio-cesar-deixam-portugal-e-vendem-imoveis.shtml)_
 
+- **[2026-10-04 21:24 UTC]** Marcelo Castro e Júlio César são eleitos ao Senado no Piauí, e Ciro Nogueira é derrotado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/marcelo-castro-e-julio-cesar-sao-eleitos-ao-senado-no-piaui-e-ciro-nogueira-e-derrotado.shtml)_
+
