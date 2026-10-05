@@ -11,3 +11,6 @@
 - **[2026-10-04 22:11 UTC]** Ana Campagnolo (PL) bate o próprio recorde de votos para deputada estadual em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/ana-campagnolo-pl-bate-proprio-recorde-votos-deputada-estadual.ghtml)_
 
+- **[2026-10-05 03:40 UTC]** Eleições 2026: Ana Campagnolo (PL) é eleita deputada estadual por Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-ana-campagnolo-pl-e-eleita-deputada-estadual-por-santa-catarina.ghtml)_
+
