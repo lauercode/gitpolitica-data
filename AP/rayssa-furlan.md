@@ -26,3 +26,6 @@
 - **[2026-10-04 16:15 UTC]** Rayssa Furlan (Podemos) vota em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/rayssa-furlan-podemos-vota-em-macapa.ghtml)_
 
+- **[2026-10-04 23:46 UTC]** Rayssa Furlan (Podemos) e Lucas Barreto (PSD) são eleitos senadores pelo AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/rayssa-furlan-podemos-e-lucas-barreto-psd-sao-eleitos-senadores-pelo-ap.ghtml)_
+
