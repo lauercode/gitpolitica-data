@@ -56,3 +56,6 @@
 - **[2026-10-04 14:38 UTC]** Orleans Brandão (MDB) vota em Colinas
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/orleans-brandao-mdb-vota-em-colinas.ghtml)_
 
+- **[2026-10-05 18:17 UTC]** Orleans Brandão agradece votos e parabeniza Eduardo Braide pela vitória no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/orleans-agradece-votos-e-parabeniza-eduardo-braide-pela-vitoria-no-maranhao.ghtml)_
+
