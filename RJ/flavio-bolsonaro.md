@@ -3734,3 +3734,6 @@
 - **[2026-10-05 03:59 UTC]** Flávio Bolsonaro supera votação do pai em 2022 e 2018 no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-bolsonaro-supera-desempenho-do-pai-nos-primeiros-turnos-de-2022-e-2018-veja-comparativo.ghtml)_
 
+- **[2026-10-05 03:50 UTC]** Veja em quantas cidades Flávio Bolsonaro e Lula venceram em São Paulo, Minas Gerais e Rio de Janeiro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/1-turno-flavio-bolsonaro-lula-cidades-mg-rj-sp.ghtml)_
+
