@@ -17,3 +17,6 @@
 - **[2026-10-04 22:03 UTC]** Com mais de 70% das urnas apuradas, Júlia Zanatta (PL) se torna a deputada federal mais votada da história de SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/julia-zanatta-pl-deputada-federal-mais-votada-historia-sc.ghtml)_
 
+- **[2026-10-05 01:38 UTC]** Eleições 2026: Julia Zanatta (PL) é eleita deputada federal por Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-julia-zanatta-pl-e-eleita-deputada-federal-por-santa-catarina.ghtml)_
+
