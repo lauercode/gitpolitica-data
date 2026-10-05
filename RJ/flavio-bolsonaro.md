@@ -3686,3 +3686,6 @@
 - **[2026-10-05 02:01 UTC]** Tarcísio diz que estará com Flávio 'onde for necessário' do 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/tarcisio-diz-que-estara-com-flavio-onde-for-necessario-do-2o-turno.ghtml)_
 
+- **[2026-10-05 01:58 UTC]** Lula admite desapontamento com resultado do 1º turno, mas desafia Flávio: 'Sou bom no mata-mata'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/lula-admite-desapontamento-com-resultado-do-1-turno-mas-desafia-flvio-sou-bom-no-mata-mata.ghtml)_
+
