@@ -1229,3 +1229,6 @@ direitos
 - **[2026-10-05 13:06 UTC]** PL cresce de 98 para 121 deputados e avança sobre o centrão; esquerda terá 24% da Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-cresce-de-98-para-121-deputados-e-avanca-sobre-o-centrao-esquerda-tera-24-da-camara.shtml)_
 
+- **[2026-10-05 12:55 UTC]** Veja lista dos 513 deputados federais eleitos para a Câmara dos Deputados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-lista-dos-513-deputados-federais-eleitos-para-a-camara-dos-deputados.shtml)_
+
