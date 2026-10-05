@@ -98,3 +98,6 @@
 - **[2026-10-05 08:00 UTC]** Lucas Ribeiro é reeleito na Paraíba com 64% dos votos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/lucas-ribeiro-e-reeleito-na-paraiba-com-64-dos-votos.ghtml)_
 
+- **[2026-10-05 09:49 UTC]** Lucas Ribeiro vence em 215 cidades, incluindo João Pessoa e Campina Grande
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/lucas-ribeiro-vence-em-215-cidades-incluindo-joao-pessoa-e-campina-grande.ghtml)_
+
