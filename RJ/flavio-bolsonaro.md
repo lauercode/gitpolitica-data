@@ -3722,3 +3722,6 @@
 - **[2026-10-05 05:00 UTC]** Flávio Bolsonaro supera 50% dos votos válidos no DF e em 13 estados, e Lula, em 9
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/1-turno-flavio-bolsonaro-lula-estados-maioria.ghtml)_
 
+- **[2026-10-05 04:59 UTC]** Lula venceu Flávio Bolsonaro nos nove estados do Nordeste no 1º turno; veja votação em cada um
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/lula-venceu-flavio-bolsonaro-nos-nove-estados-do-nordeste-no-1o-turno-veja-votacao-em-cada-um.ghtml)_
+
