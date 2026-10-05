@@ -11,3 +11,6 @@
 - **[2026-10-05 08:27 UTC]** Resultado das eleições 2026 em Quebrangulo (AL): votação para presidente no Centro Municipal de Educação Infantil João Paulo Ii, na 28ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-quebrangulo-al-votacao-para-presidente-no-centro-municipal-de-educacao-infantil-joao-paulo-ii-na-28a-zona-eleitoral-1.ghtml)_
 
+- **[2026-10-05 08:26 UTC]** Resultado das eleições 2026 em São José da Tapera (AL): votação para presidente na Escola de 1º e 2º Graus João Paulo Ii, na 51ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-sao-jose-da-tapera-al-votacao-para-presidente-na-escola-de-1o-e-2o-graus-joao-paulo-ii-na-51a-zona-eleitoral.ghtml)_
+
