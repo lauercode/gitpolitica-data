@@ -3764,3 +3764,6 @@
 - **[2026-10-05 00:41 UTC]** Após eleição ir ao segundo turno, Lula diz que acredita na vitória sobre Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/lula-discursa-apos-o-primeiro-turno.ghtml)_
 
+- **[2026-10-05 06:00 UTC]** União Brasil-PP sinaliza apoio a Flávio Bolsonaro no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/uniao-brasil-pp-sinaliza-apoio-a-flavio-bolsonaro-no-2o-turno.shtml)_
+
