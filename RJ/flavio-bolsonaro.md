@@ -3719,3 +3719,6 @@
 - **[2026-10-05 05:06 UTC]** Veja os estados onde Flávio Bolsonaro e Lula abriram as maiores vantagens
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/veja-os-estados-onde-flavio-bolsonaro-e-lula-abriram-as-maiores-vantagens.ghtml)_
 
+- **[2026-10-05 05:00 UTC]** Flávio Bolsonaro supera 50% dos votos válidos no DF e em 13 estados, e Lula, em 9
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/1-turno-flavio-bolsonaro-lula-estados-maioria.ghtml)_
+
