@@ -71,3 +71,6 @@
 - **[2026-10-05 18:17 UTC]** Orleans Brandão agradece votos e parabeniza Eduardo Braide pela vitória no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/orleans-agradece-votos-e-parabeniza-eduardo-braide-pela-vitoria-no-maranhao.ghtml)_
 
+- **[2026-10-05 15:58 UTC]** Governador eleito, Eduardo Braide foi o mais votado em 130 dos 217 municípios do Maranhão; veja lista
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/governador-eleito-eduardo-braide-foi-o-mais-votado-em-130-dos-217-municipios-do-maranhao-veja-lista.ghtml)_
+
