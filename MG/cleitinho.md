@@ -149,3 +149,6 @@
 - **[2026-10-05 18:24 UTC]** Cleitinho declara apoio a Flávio Bolsonaro em MG no segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cleitinho-declara-apoio-flavio-bolsonaro-mg-segundo-turno/)_
 
+- **[2026-10-05 16:34 UTC]** Cleitinho discute nesta semana formação de secretariado para governo de Minas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/cleitinho-discute-nesta-semana-formacao-de-secretariado-para-governo-de-minas.ghtml)_
+
