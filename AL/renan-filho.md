@@ -95,3 +95,6 @@
 - **[2026-10-04 22:01 UTC]** Apuração: Com 40% das urnas apuradas, Renan Filho lidera disputa ao governo em Alagoas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2024/noticia/2026/10/04/com-19percent-das-urnas-apuradas-renan-filho-mdb-lidera-a-disputa-ao-governo-em-alagoas.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Ex-prefeito de Maceió desbanca Renan Filho em Alagoas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/ex-prefeito-de-maceio-desbanca-renan-filho-em-alagoas.ghtml)_
+
