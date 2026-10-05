@@ -53,3 +53,6 @@
 - **[2026-09-29 08:00 UTC]** Salles desiste e dá apoio a Derrite e Prado em São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/salles-desiste-e-da-apoio-a-derrite-e-prado-em-sao-paulo.ghtml)_
 
+- **[2026-10-05 14:30 UTC]** Salles recebe 120 mil votos para senador em SP mesmo após desistir de candidatura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/salles-recebe-120-mil-votos-para-senador-em-sp-mesmo-apos-desistir-de-candidatura.shtml)_
+
