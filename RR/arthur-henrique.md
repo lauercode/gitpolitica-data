@@ -65,3 +65,6 @@
 - **[2026-10-05 16:09 UTC]** Governador eleito, Arthur Henrique quer transformar Roraima em rota de exportação: 'fornecer pro mundo'
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/05/governador-eleito-arthur-henrique-quer-transformar-roraima-em-rota-de-exportacao-fornecer-pro-mundo.ghtml)_
 
+- **[2026-10-05 14:59 UTC]** Arthur Henrique, do PL, é eleito governador de Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/ao-vivo/eleicoes-2026-acompanhe-o-1-turno-em-roraima.ghtml)_
+
