@@ -44,3 +44,6 @@
 - **[2026-09-25 15:39 UTC]** Queda no banho pode causar lesões graves, como ocorreu com Paula Burlamaqui; saiba como prevenir
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/queda-no-banho-pode-causar-lesoes-graves-como-ocorreu-com-paula-burlamaqui-saiba-como-prevenir.shtml)_
 
+- **[2026-10-05 13:12 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Paula Francineth, na 3ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-paula-francineth-na-3a-zona-eleitoral.ghtml)_
+
