@@ -32,3 +32,6 @@
 - **[2026-10-04 21:33 UTC]** Professora Dorinha e Vicentinho Júnior disputam 2º turno pelo governo do Tocantins
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-5271-pontos-percentuais-das-urnas-apuradas-em-tocantins-professora-dorinha-lidera-com-4648-vicentinho-jnior-tem-4279.ghtml)_
 
+- **[2026-10-05 16:16 UTC]** Professora Dorinha (União) vence em 82 cidades do Tocantins; Vicentinho (PSDB), em 56
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/05/professora-dorinha-uniao-vence-em-82-cidades-do-tocantins-vicentinho-psdb-em-56.ghtml)_
+
