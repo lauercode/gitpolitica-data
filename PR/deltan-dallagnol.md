@@ -95,3 +95,6 @@
 - **[2026-10-04 21:01 UTC]** Filipe Barros e Deltan Dallagnol são eleitos para o Senado pelo Paraná
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-1692percent-das-urnas-apuradas-filipe-barros-e-deltan-dallagnol-lideram-disputa-no-senado-pelo-parana.ghtml)_
 
+- **[2026-10-05 01:48 UTC]** Deltan Dallagnol eleito senador pelo Paraná: entenda o vaivém da candidatura e o que pode acontecer após julgamento do TSE
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/deltan-dallagnol-eleito-senador-pelo-parana-entenda-o-vaivem-da-candidatura-e-o-que-pode-acontecer-apos-julgamento-do-tse.ghtml)_
+
