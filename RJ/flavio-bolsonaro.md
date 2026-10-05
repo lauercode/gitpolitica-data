@@ -3776,3 +3776,6 @@
 - **[2026-10-05 04:00 UTC]** Revés no 1º turno força Lula a rever estratégia de campanha contra Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/reves-no-1o-turno-forca-lula-a-rever-estrategia-de-campanha-contra-flavio-bolsonaro.shtml)_
 
+- **[2026-10-05 01:38 UTC]** Flávio lidera onda bolsonarista ao superar o próprio pai e ir ao 2º turno em vantagem contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-lidera-onda-bolsonarista-ao-superar-o-proprio-pai-e-ir-ao-2o-turno-em-vantagem-contra-lula.shtml)_
+
