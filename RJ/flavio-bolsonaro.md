@@ -3641,3 +3641,6 @@
 - **[2026-10-04 22:00 UTC]** Flávio e a direita mostram força nas urnas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/flavio-e-a-direita-mostram-forca-nas-urnas.shtml)_
 
+- **[2026-10-04 21:57 UTC]** Diferença entre Flávio e Lula é a menor da história no 1º turno em eleição presidencial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/diferenca-entre-flavio-e-lula-e-a-menor-da-historia-no-1o-turno-em-eleicao-presidencial.shtml)_
+
