@@ -14,3 +14,6 @@
 - **[2026-09-07 22:29 UTC]** Eleições 2026 no RS: Gabriel Souza promete comprar vagas de ensino técnico e no Sistema S
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-no-rs-gabriel-souza-promete-comprar-vagas-de-ensino-tecnico-e-no-sistema-s.ghtml)_
 
+- **[2026-10-05 01:36 UTC]** Eleições 2026: Rony Gabriel (Podemos) é eleito deputado federal pelo Rio Grande do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-rony-gabriel-podemos-e-eleito-deputado-federal-pelo-rio-grande-do-sul.ghtml)_
+
