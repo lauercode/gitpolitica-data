@@ -65,3 +65,6 @@
 - **[2026-10-04 12:59 UTC]** Ameaça de morte faz Erika Hilton reforçar segurança e votar à tarde: 'Não me impediu de exercer meu direito democrático'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/erika-hilton-recebe-ameaca-de-morte-por-e-mail-no-1o-turno-banho-de-sangue.shtml)_
 
+- **[2026-10-04 23:37 UTC]** Erika Hilton supera 1,5 milhão de votos e se torna a mulher mais votada da história para a Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/erika-hilton-mais-votada-camara-eleicao-2026.ghtml)_
+
