@@ -98,3 +98,6 @@
 - **[2026-10-05 01:48 UTC]** Deltan Dallagnol eleito senador pelo Paraná: entenda o vaivém da candidatura e o que pode acontecer após julgamento do TSE
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/deltan-dallagnol-eleito-senador-pelo-parana-entenda-o-vaivem-da-candidatura-e-o-que-pode-acontecer-apos-julgamento-do-tse.ghtml)_
 
+- **[2026-10-05 01:33 UTC]** O que disseram Filipe Barros e Deltan Dallagnol, senadores eleitos pelo Paraná, após o resultado das eleições
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/o-que-disseram-filipe-barros-e-deltan-dallagnol-senadores-eleitos-pelo-parana-apos-o-resultado-das-eleicoes.ghtml)_
+
