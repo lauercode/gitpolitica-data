@@ -8,3 +8,6 @@
 - **[2026-08-27 04:00 UTC]** Fitas esquecidas em Nashville revelam fase inicial feroz dos Cramps
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/fitas-esquecidas-em-nashville-revelam-fase-inicial-feroz-dos-cramps.shtml)_
 
+- **[2026-10-05 05:18 UTC]** Eleições 2026: Márcio Jerry (PCdoB) é eleito deputado federal pelo Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-marcio-jerry-pcdob-e-eleito-deputado-federal-pelo-maranhao.ghtml)_
+
