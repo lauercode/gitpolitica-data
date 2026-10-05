@@ -1190,3 +1190,6 @@ direitos
 - **[2026-10-05 03:17 UTC]** Federação PT-PCdoB-PV e PL dividem liderança entre eleitos para a Câmara no Rio Grande do Norte
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1307838-federacao-pt-pcdob-pv-e-pl-dividem-lideranca-entre-eleitos-para-a-camara-no-rio-grande-do-norte)_
 
+- **[2026-10-05 02:50 UTC]** PP elege maior bancada para Alagoas na Câmara, incluindo o mais votado
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1307313-pp-elege-maior-bancada-para-alagoas-na-camara-incluindo-o-mais-votado)_
+
