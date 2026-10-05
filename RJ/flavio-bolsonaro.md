@@ -3815,3 +3815,6 @@
 - **[2026-10-05 08:00 UTC]** Flávio surpreende e chega à frente com onda da direita
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/flavio-surpreende-e-chega-a-frente-com-onda-da-direita.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Com onda de direita no país, Flávio lidera e enfrenta Lula no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/05/com-onda-de-direita-no-pais-flavio-lidera-e-enfrenta-lula-no-2o-turno.ghtml)_
+
