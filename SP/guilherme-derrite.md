@@ -80,3 +80,6 @@
 - **[2026-10-04 22:50 UTC]** Guilherme Derrite (PP) e André do Prado (PL) são eleitos senadores por São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/guilherme-derrite-pp-e-andre-do-prado-pl-sao-eleitos-senadores-por-sao-paulo.ghtml)_
 
+- **[2026-10-04 22:58 UTC]** Derrite chega ao Senado após gestão na Segurança de SP marcada por alta da letalidade policial e redução de indicadores criminais
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/guilherme-derrite-chega-ao-senado-apos-gestao-na-seguranca-de-sp-marcada-por-alta-da-letalidade-policial.ghtml)_
+
