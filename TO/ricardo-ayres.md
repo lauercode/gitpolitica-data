@@ -53,3 +53,6 @@
 - **[2026-10-01 23:10 UTC]** Após ter candidatura inviabilizada, Ricardo Marques declara apoio a Valmir de Francisquinho na disputa pelo governo de Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/01/ricardo-marques-do-pl-declara-apoio-a-valmir-de-francisquinho-do-republicanos-governo-de-sergipe.ghtml)_
 
+- **[2026-10-05 01:42 UTC]** Eleições 2026: Ricardo Ayres (Republicanos) é eleito deputado federal pelo Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-ricardo-ayres-republicanos-e-eleito-deputado-federal-pelo-tocantins.ghtml)_
+
