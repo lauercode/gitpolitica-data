@@ -146,3 +146,6 @@
 - **[2026-10-04 22:09 UTC]** No Amapá, Dr. Furlan (PSD) está matematicamente eleito governador no 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-no-amap-dr-furlan-tem-60-pontos-percentuais-e-clcio-397-com-57-das-urnas.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Dr. Furlan derrota candidato de Alcolumbre no Amapá
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/dr-furlan-derrota-candidato-de-alcolumbre-no-amapa.ghtml)_
+
