@@ -287,3 +287,6 @@
 - **[2026-10-05 00:40 UTC]** Derrota de aliados de Davi Alcolumbre no Amapá dificulta reeleição em 2030
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/derrota-de-aliados-de-davi-alcolumbre-no-amapa-dificulta-reeleicao-em-2030.shtml)_
 
+- **[2026-10-05 08:00 UTC]** Onda de direita impõe derrota a caciques; Renan e Alcolumbre são principais vítimas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/onda-de-direita-impoe-derrota-a-caciques-renan-e-alcolumbre-sao-principais-vitimas.ghtml)_
+
