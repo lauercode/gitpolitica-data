@@ -14,3 +14,6 @@
 - **[2026-08-24 22:05 UTC]** Quaest no Paraná: Sergio Moro, 37%; Requião Filho, 21%; Sandro Alex, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/08/24/quaest-pr-governador-24-agosto.ghtml)_
 
+- **[2026-10-05 01:25 UTC]** Eleições 2026: Zé Adriano (PP) é eleito deputado federal pelo Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-ze-adriano-pp-e-eleito-deputado-federal-pelo-acre.ghtml)_
+
