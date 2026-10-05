@@ -17,3 +17,6 @@
 - **[2026-10-05 01:25 UTC]** Eleições 2026: Zé Adriano (PP) é eleito deputado federal pelo Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-ze-adriano-pp-e-eleito-deputado-federal-pelo-acre.ghtml)_
 
+- **[2026-10-05 07:00 UTC]** Saiba quem é Adriano Silva (NOVO), vice-governador eleito em Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/saiba-quem-e-adriano-silva-novo-vice-governador-eleito-em-santa-catarina.ghtml)_
+
