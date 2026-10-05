@@ -146,3 +146,6 @@
 - **[2026-10-05 08:00 UTC]** Cleitinho vence no primeiro turno pedindo voto útil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/cleitinho-vence-no-primeiro-turno-pedindo-voto-util.ghtml)_
 
+- **[2026-10-05 18:24 UTC]** Cleitinho declara apoio a Flávio Bolsonaro em MG no segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cleitinho-declara-apoio-flavio-bolsonaro-mg-segundo-turno/)_
+
