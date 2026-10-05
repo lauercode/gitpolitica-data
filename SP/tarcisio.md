@@ -167,3 +167,6 @@
 - **[2026-10-05 04:00 UTC]** Com Zucco e Tarcísio, país terá pela primeira vez na democracia 2 governadores oriundos do Exército
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-zucco-e-tarcisio-pais-tera-pela-primeira-vez-na-democracia-2-governadores-oriundos-do-exercito.shtml)_
 
+- **[2026-10-05 08:00 UTC]** Em SP, Tarcísio é reeleito com 62% dos votos
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/05/em-sp-tarcisio-e-reeleito-com-62-dos-votos.ghtml)_
+
