@@ -8,3 +8,6 @@
 - **[2026-08-28 09:56 UTC]** Carro cai em buraco em trecho de obra na Avenida Castelo Branco, em São Luís
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/08/28/carro-cai-em-buraco-em-trecho-de-obra-na-avenida-castelo-branco-em-sao-luis.ghtml)_
 
+- **[2026-10-05 07:30 UTC]** Resultado das eleições 2026 em Porto Walter (AC): votação para presidente na Escola Castelo Branco, na 4ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-porto-walter-ac-votacao-para-presidente-na-escola-castelo-branco-na-4a-zona-eleitoral.ghtml)_
+
