@@ -101,3 +101,6 @@
 - **[2026-10-01 00:39 UTC]** Veja o que é #FATO ou #FAKE no debate da Globo com candidatos ao governo de Minas Gerais
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/30/veja-o-que-e-fato-ou-fake-no-debate-da-globo-com-candidatos-ao-governo-de-minas-gerais.ghtml)_
 
+- **[2026-10-05 17:30 UTC]** É #FATO: Problema na rede elétrica atrasou funcionamento de urna em Barra do Mendes, na Bahia
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/05/e-fato-problema-na-rede-eletrica-atrasou-funcionamento-de-urna-em-barra-do-mendes-na-bahia.ghtml)_
+
