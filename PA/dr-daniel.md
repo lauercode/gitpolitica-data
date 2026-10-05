@@ -62,3 +62,6 @@
 - **[2026-10-05 01:21 UTC]** Dr. Daniel (Podemos) diz que 1º ato de governo será rescindir contrato com empresa Águas do Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/dr-daniel-podemos-diz-que-primeiro-ato-de-governo-sera-rescindir-contrato-com-aguas-do-para.ghtml)_
 
+- **[2026-10-05 00:03 UTC]** Dr. Daniel (Podemos) é eleito governador do Pará no primeiro turno
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/dr-daniel-podemos-e-eleito-governador-do-para-no-primeiro-turno.ghtml)_
+
