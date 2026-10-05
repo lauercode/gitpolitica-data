@@ -3827,3 +3827,6 @@
 - **[2026-10-05 16:47 UTC]** Valdemar afirma que Bolsonaro vai participar de eventual governo de Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/valdemar-diz-que-bolsonaro-vai-participar-de-eventual-governo-de-flavio.ghtml)_
 
+- **[2026-10-05 15:57 UTC]** Eventual vitória de Flávio reedita e empode­ra eixo de poder do governo Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/eventual-vitoria-de-flavio-reedita-e-empodera-eixo-de-poder-do-governo-bolsonaro.ghtml)_
+
