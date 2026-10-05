@@ -152,3 +152,6 @@
 - **[2026-10-05 06:00 UTC]** Após vitória nas urnas, veja os desafios que aguardam Dr. Furlan no Governo do Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/05/apos-vitoria-nas-urnas-veja-os-desafios-que-aguardam-dr-furlan-no-governo-do-amapa.ghtml)_
 
+- **[2026-10-05 02:06 UTC]** Dr. Furlan fala em geração de emprego para mudar cenário do Amapá no primeiro discurso após vitória
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/10/04/dr-furlan-fala-em-geracao-de-emprego-para-mudar-cenario-do-amapa-no-primeiro-discurso-apos-vitoria.ghtml)_
+
