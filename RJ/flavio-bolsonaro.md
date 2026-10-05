@@ -3710,3 +3710,6 @@
 - **[2026-10-05 07:23 UTC]** Flávio Bolsonaro compensa vantagem de Lula no Nordeste com margem de votos no Sul e no Sudeste
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-bolsonaro-supera-vantagem-de-lula-no-nordeste-com-margem-no-sul-e-sudeste.ghtml)_
 
+- **[2026-10-05 06:53 UTC]** Lula teve 1,7 milhão de votos a menos em SP, RJ e MG do que em 2022; Flávio, 1,3 milhão a mais que Jair
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/lula-flavio-perdas-e-ganhos-sp-rj-mg.ghtml)_
+
