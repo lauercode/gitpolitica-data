@@ -1211,3 +1211,6 @@ direitos
 - **[2026-10-05 16:34 UTC]** Com 109 deputadas eleitas, bancada feminina cresce 21,1% na Câmara
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309285-com-109-deputadas-eleitas-bancada-feminina-cresce-211-na-camara)_
 
+- **[2026-10-05 14:21 UTC]** Integrantes da Mesa Diretora se elegem para novo mandato na Câmara
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309278-integrantes-da-mesa-diretora-se-elegem-para-novo-mandato-na-camara)_
+
