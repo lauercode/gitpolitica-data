@@ -1181,3 +1181,6 @@ direitos
 - **[2026-10-05 04:45 UTC]** 29 ex-deputados federais são eleitos e voltam à Câmara
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309179-29-ex-deputados-federais-sao-eleitos-e-voltam-a-camara)_
 
+- **[2026-10-05 04:31 UTC]** Taxa de renovação da Câmara dos Deputados fica em 38,7%
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309174-taxa-de-renovacao-da-camara-dos-deputados-fica-em-387)_
+
