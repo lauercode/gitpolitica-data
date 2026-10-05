@@ -1205,3 +1205,6 @@ direitos
 - **[2026-10-05 00:28 UTC]** PL, com Pavanato, amplia deputados de SP na Câmara, com PT e esquerda estagnados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-com-pavanato-amplia-deputados-de-sp-na-camara-com-pt-e-esquerda-estagnados.shtml)_
 
+- **[2026-10-05 07:40 UTC]** Resultado das eleições 2026 em Assis Brasil (AC): votação para presidente no Câmara Municipal, na 6ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-assis-brasil-ac-votacao-para-presidente-no-camara-municipal-na-6a-zona-eleitoral.ghtml)_
+
