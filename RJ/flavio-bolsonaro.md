@@ -3914,3 +3914,6 @@
 - **[2026-10-05 16:47 UTC]** Ibovespa sobe até 9% e vai a inéditos 209 mil pontos com favoritismo de Flávio; dólar derrete para abaixo de R$ 5
   _fonte: [Valor Econômico](https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml)_
 
+- **[2026-10-05 15:14 UTC]** Rali não deve ser passageiro e bolsa pode subir até 45% com provável vitória de Flávio, apontam bancos
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/05/rali-nao-deve-ser-passageiro-e-bolsa-pode-subir-ate-45percent-com-provavel-vitoria-de-flavio-apontam-bancos.ghtml)_
+
