@@ -41,3 +41,6 @@
 - **[2026-09-04 15:43 UTC]** Quaest no Ceará: 49% aprovam e 38% desaprovam governo de Elmano de Freitas
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-avaliacao-governo-4-setembro.ghtml)_
 
+- **[2026-10-05 01:34 UTC]** Eleições 2026: Daniel Freitas (PL) é eleito deputado federal por Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-daniel-freitas-pl-e-eleito-deputado-federal-por-santa-catarina.ghtml)_
+
