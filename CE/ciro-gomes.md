@@ -44,3 +44,6 @@
 - **[2026-10-04 21:40 UTC]** Apuração: Com 51% das urnas apuradas no Ceará, Elmano tem 52% e Ciro Gomes, 48%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-12percent-das-urnas-apuradas-no-ceara-elmano-lidera-com-51percent-e-ciro-tem-48percent.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Elmano, do PT, vence Ciro Gomes e tem mais 4 anos no Ceará
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/elmano-do-pt-vence-ciro-gomes-e-tem-mais-4-anos-no-ceara.ghtml)_
+
