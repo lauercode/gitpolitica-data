@@ -17,3 +17,6 @@
 - **[2026-10-04 21:15 UTC]** Rui Costa e Jaques Wagner, do PT, são eleitos para o Senado na Bahia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/rui-costa-e-jaques-wagner-do-pt-sao-eleitos-para-o-senado-na-bahia.shtml)_
 
+- **[2026-10-05 00:25 UTC]** Rui Costa e Jaques Wagner, ambos do PT,  estão eleitos para o Senado pela Bahia
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/rui-costa-e-jaques-wagner-estao-eleitos-para-o-senado-pela-bahia.ghtml)_
+
