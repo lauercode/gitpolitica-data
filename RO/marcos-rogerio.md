@@ -83,3 +83,6 @@
 - **[2026-10-05 00:12 UTC]** Marcos Rogério (PL) fala em 'resultado histórico' para Rondônia no primeiro discurso após vitória
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/04/marcos-rogerio-discursa-apos-ser-eleito-governador.ghtml)_
 
+- **[2026-10-05 00:20 UTC]** Marcos Rogério é eleito governador de Rondônia em primeiro turno
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/marcos-rogerio-e-eleito-governador-de-rondonia-em-primeiro-turno)_
+
