@@ -38,3 +38,6 @@
 - **[2026-10-04 21:02 UTC]** Carlos Portinho e Carlos Jordy, do PL, são eleitos senadores pelo RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carlos-portinho-e-carlos-jordy-do-pl-sao-eleitos-senadores-pelo-rj.shtml)_
 
+- **[2026-10-05 00:41 UTC]** No RJ, Carlos Portinho e Carlos Jordy, do PL, estão eleitos para o Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-rj-carlos-portinho-e-carlos-jordy-do-pl-estao-eleitos-para-o-senado.ghtml)_
+
