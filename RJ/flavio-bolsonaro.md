@@ -3860,3 +3860,6 @@
 - **[2026-10-05 13:33 UTC]** Apuração de Flávio Bolsonaro teve louvor, funk e gritos de 'presidente'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apuracao-de-flavio-bolsonaro-teve-louvor-funk-e-gritos-de-presidente.shtml)_
 
+- **[2026-10-05 12:39 UTC]** Onda da direita supera a de 2018, fragiliza Lula em estados-chave e impulsiona Flávio no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/onda-da-direita-supera-a-de-2018-fragiliza-lula-em-estados-chave-e-impulsiona-flavio-no-2o-turno.shtml)_
+
