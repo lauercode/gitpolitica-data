@@ -3902,3 +3902,6 @@
 - **[2026-10-05 14:34 UTC]** 1º turno das Eleições: Lula ganha em 165 cidades do RN e Flávio Bolsonaro em duas
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/05/1-turno-eleicoes-lula-flavio-bolsonaro-cidades-rn.ghtml)_
 
+- **[2026-10-05 18:27 UTC]** União Progressista baterá martelo sobre apoio a Flávio Bolsonaro nos próximos dias
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/uniao-progressista-batera-martelo-sobre-apoio-a-flavio-bolsonaro-nos-proximos-dias.ghtml)_
+
