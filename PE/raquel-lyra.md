@@ -152,3 +152,6 @@
 - **[2026-10-04 21:15 UTC]** Reeleita em PE, Raquel Lyra resiste a apoiar Lula no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/reeleita-em-pe-raquel-lyra-resiste-a-apoiar-lula-no-segundo-turno.shtml)_
 
+- **[2026-10-04 22:22 UTC]** Raquel Lyra (PSD) é reeleita em Pernambuco no 1° turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-50-pontos-percentuais-das-urnas-apuradas-em-pernambuco-raquel-lyra-lidera-com-533-joo-campos-tem-444.ghtml)_
+
