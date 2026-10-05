@@ -23,3 +23,6 @@
 - **[2026-10-04 22:38 UTC]** Eduardo Gomes e Alexandre Guimarães são eleitos para o Senado pelo Tocantins
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/eduardo-gomes-e-alexandre-guimares-so-eleitos-para-o-senado-pelo-tocantins.ghtml)_
 
+- **[2026-10-04 21:50 UTC]** Eduardo Gomes (PL) e Alexandre Guimarães (MDB) são eleitos senadores pelo Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/04/resultado-senado-tocantins.ghtml)_
+
