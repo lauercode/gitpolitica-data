@@ -3824,3 +3824,6 @@
 - **[2026-10-05 17:40 UTC]** Flávio x Lula no 2º turno: quem cercou os candidatos em discurso após a apuração?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-x-lula-no-2o-turno-quem-cercou-os-candidatos-em-discurso-apos-a-apuracao.ghtml)_
 
+- **[2026-10-05 16:47 UTC]** Valdemar afirma que Bolsonaro vai participar de eventual governo de Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/valdemar-diz-que-bolsonaro-vai-participar-de-eventual-governo-de-flavio.ghtml)_
+
