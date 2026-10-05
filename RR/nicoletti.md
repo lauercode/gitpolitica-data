@@ -32,3 +32,6 @@
 - **[2026-10-04 23:02 UTC]** Nicoletti (PL) e Teresa Surita (MDB) estão eleitos para o Senado por Roraima
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/nicoletti-pl-e-teresa-surita-mdb-estao-eleitos-para-o-senado-por-roraima.ghtml)_
 
+- **[2026-10-05 12:56 UTC]** Eleito senador por Roraima, Nicoletti promete 50% de emendas para a saúde: 'zerar fila de cirurgias'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/05/eleito-senador-por-roraima-nicoletti-promete-50percent-de-emendas-para-a-saude-zerar-a-fila-de-cirurgias.ghtml)_
+
