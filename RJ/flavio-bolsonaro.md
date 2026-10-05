@@ -3749,3 +3749,6 @@
 - **[2026-10-05 02:35 UTC]** Liderança de Flávio Bolsonaro faz fundo de Ibovespa disparar quase 10% em Tóquio
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/04/lideranca-de-flavio-bolsonaro-faz-fundo-de-ibovespa-disparar-quase-10percent-em-toquio.ghtml)_
 
+- **[2026-10-05 02:27 UTC]** Flávio Bolsonaro lidera em 16 capitais no 1º turno, enquanto Lula vence em 11; veja lista
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-lidera-em-16-capitais-no-1o-turno-enquanto-lula-vence-em-11-veja-lista.ghtml)_
+
