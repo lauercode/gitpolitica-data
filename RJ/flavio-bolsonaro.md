@@ -3881,3 +3881,6 @@
 - **[2026-10-05 08:46 UTC]** Bancada de Flávio no Senado já tem votos e deve esvaziar STF tirando da corte casos criminais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/bancada-de-flavio-no-senado-ja-tem-votos-e-deve-esvaziar-stf-tirando-da-corte-casos-criminais.shtml)_
 
+- **[2026-10-05 18:24 UTC]** Cleitinho declara apoio a Flávio Bolsonaro em MG no segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cleitinho-declara-apoio-flavio-bolsonaro-mg-segundo-turno/)_
+
