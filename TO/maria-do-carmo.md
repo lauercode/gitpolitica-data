@@ -65,3 +65,6 @@
 - **[2026-10-04 19:42 UTC]** Omar Aziz (PSD) e Maria do Carmo (PL) vão disputar 2º turno no Amazonas, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/omar-aziz-psd-e-maria-do-carmo-pl-vao-disputar-2o-turno-no-amazonas-projeta-datafolha.shtml)_
 
+- **[2026-10-05 11:05 UTC]** Resultado das eleições 2026 em Bujari (AC): votação para presidente na Escola Rural Maria do Carmo Ramos, na 9ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bujari-ac-votacao-para-presidente-na-escola-rural-maria-do-carmo-ramos-na-9a-zona-eleitoral.ghtml)_
+
