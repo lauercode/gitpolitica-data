@@ -56,3 +56,6 @@
 - **[2026-10-05 08:00 UTC]** Zucco é eleito para o governo do Rio Grande do Sul
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/zucco-e-eleito-para-o-governo-do-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-05 17:26 UTC]** Zucco fala sobre articulação entre RS, SP, PR e SC para fundo Sul-Sudeste e renegociar dívidas em entrevista à RBS TV
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/05/zucco-articulacao-estados-fundo-sul-sudeste.ghtml)_
+
