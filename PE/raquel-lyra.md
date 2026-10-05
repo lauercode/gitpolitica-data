@@ -158,3 +158,6 @@
 - **[2026-10-05 08:00 UTC]** Raquel Lyra vence João Campos e é reeleita em Pernambuco
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/raquel-lyra-vence-joao-campos-e-e-reeleita-em-pernambuco.ghtml)_
 
+- **[2026-10-05 14:04 UTC]** Reeleita em Pernambuco, Raquel Lyra ficará neutra no 2º turno da eleição presidencial
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/05/reeleita-em-pernambuco-raquel-lyra-ficara-neutra-no-2o-turno-da-eleicao-presidencial.ghtml)_
+
