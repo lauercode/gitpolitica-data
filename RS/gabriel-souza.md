@@ -38,3 +38,6 @@
 - **[2026-10-04 15:40 UTC]** Gabriel Souza (MDB) vota em Tramandaí
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/gabriel-souza-mdb-vota-em-tramandai.ghtml)_
 
+- **[2026-10-05 01:16 UTC]** 'Fomos atropelados pela polarização', diz Gabriel Souza (MDB) após derrota no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/04/gabriel-souza-mdb-apos-derrota-no-rs.ghtml)_
+
