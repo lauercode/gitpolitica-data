@@ -1154,3 +1154,6 @@ direitos
 - **[2026-10-05 00:35 UTC]** Veja como fica a bancada do Amapá na Câmara dos Deputados a partir de 2027
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/veja-como-fica-a-bancada-do-amapa-na-camara-dos-deputados-a-partir-de-2027.ghtml)_
 
+- **[2026-10-05 01:17 UTC]** Veja como fica a bancada do AM na Câmara dos Deputados a partir de 2027
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/veja-como-fica-a-bancada-do-am-na-camara-dos-deputados-a-partir-de-2027.ghtml)_
+
