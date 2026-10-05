@@ -56,3 +56,6 @@
 - **[2026-10-05 00:43 UTC]** 'Vitória está bem próxima', diz Mailza Assis (PP) após avançar ao 2º turno com quase 50% no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/vitoria-esta-bem-proxima-diz-mailza-assis-pp-apos-avancar-ao-2o-turno-no-acre.ghtml)_
 
+- **[2026-10-04 23:46 UTC]** Mailza Assis e Alan Rick vão para o 2º turno no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/mailza-assis-e-alan-rick-vao-para-o-2o-turno-no-acre.ghtml)_
+
