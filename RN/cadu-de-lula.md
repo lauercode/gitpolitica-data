@@ -110,3 +110,6 @@
 - **[2026-10-04 14:39 UTC]** Cadu de Lula (PT) vota em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/cadu-de-lula-pt-vota-em-natal.ghtml)_
 
+- **[2026-10-05 00:21 UTC]** Eleições 2026: O que aconteceu com os candidatos a governador aliados de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-o-que-aconteceu-com-os-candidatos-a-governador-aliados-de-lula.ghtml)_
+
