@@ -65,3 +65,6 @@
 - **[2026-10-04 13:37 UTC]** Pimenta (PT) vota em Santa Maria
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/pimenta-pt-vota-em-santa-maria.ghtml)_
 
+- **[2026-10-05 05:59 UTC]** Resultado das eleições 2026 em Pimenta Bueno (RO): como foi a votação no 1º turno
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-pimenta-bueno-ro-como-foi-a-votacao-no-1o-turno.ghtml)_
+
