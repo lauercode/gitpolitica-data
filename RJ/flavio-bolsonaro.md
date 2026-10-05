@@ -3677,3 +3677,6 @@
 - **[2026-10-05 02:15 UTC]** Flávio diz que eleição 'é o fim da era do PT', e Lula diz que 2º turno mostrará 'fotografia real do Brasil'; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 00:39 UTC]** Jair Bolsonaro elege dois filhos em Santa Catarina; Flávio tem 66% dos votos para a Presidência no estado
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/jair-bolsonaro-elege-dois-filhos-em-santa-catarina.ghtml)_
+
