@@ -47,3 +47,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Eduardo Paes, candidato a governador do Rio de Janeiro em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-eduardo-paes-candidato-a-governador-do-rio-de-janeiro-em-2026.ghtml)_
 
+- **[2026-10-04 21:42 UTC]** Douglas Ruas e Eduardo Paes disputam o 2º turno para o governo do Rio
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/douglas-ruas-e-eduardo-paes-disputam-o-2o-turno-para-o-governo-do-rio)_
+
