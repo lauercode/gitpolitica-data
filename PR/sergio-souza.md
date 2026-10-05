@@ -29,3 +29,6 @@
 - **[2026-10-05 00:05 UTC]** 'O desenho se torna muito difícil para o presidente Lula no 2º turno', diz Creomar de Souza
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62yg06qzx7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 01:51 UTC]** Eleições 2026: Sergio Souza (MDB) é eleito deputado federal pelo Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-sergio-souza-mdb-e-eleito-deputado-federal-pelo-parana.ghtml)_
+
