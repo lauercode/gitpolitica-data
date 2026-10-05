@@ -122,3 +122,6 @@
 - **[2026-10-04 14:43 UTC]** Senado por SC: Afrânio Boppré (PSOL) vota em Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/senado-por-sc-afranio-boppre-psol-vota-em-florianopolis.ghtml)_
 
+- **[2026-10-05 01:39 UTC]** Eleições 2026: Fernanda Melchionna (PSOL) é eleita deputada federal pelo Rio Grande do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-fernanda-melchionna-psol-e-eleita-deputada-federal-pelo-rio-grande-do-sul.ghtml)_
+
