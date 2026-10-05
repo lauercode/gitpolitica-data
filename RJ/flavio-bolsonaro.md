@@ -3875,3 +3875,6 @@
 - **[2026-10-05 10:35 UTC]** Imprensa internacional vê força da direita e cita 'troféu que falta para Trump' após avanço de Flávio sobre Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-ve-forca-da-direita-e-cita-trofeu-que-falta-para-trump-apos-avanco-de-flavio-sobre-lula.shtml)_
 
+- **[2026-10-05 10:23 UTC]** Ibovespa atinge marca inédita de 200 mil pontos com vantagem de Flávio e novo Congresso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/ibovespa-atinge-marca-inedita-de-200-mil-pontos-com-vantagem-de-flavio-e-novo-congresso.shtml)_
+
