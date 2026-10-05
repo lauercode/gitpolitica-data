@@ -3899,3 +3899,6 @@
 - **[2026-10-05 13:46 UTC]** Lula vence em 54 municípios do Amazonas; Flávio Bolsonaro ganha em Manaus e outras 7 cidades
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/lula-vence-em-54-municipios-do-amazonas-flavio-bolsonaro-ganha-em-manaus-e-outras-7-cidades.ghtml)_
 
+- **[2026-10-05 14:34 UTC]** 1º turno das Eleições: Lula ganha em 165 cidades do RN e Flávio Bolsonaro em duas
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/05/1-turno-eleicoes-lula-flavio-bolsonaro-cidades-rn.ghtml)_
+
