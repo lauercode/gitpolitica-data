@@ -3737,3 +3737,6 @@
 - **[2026-10-05 03:50 UTC]** Veja em quantas cidades Flávio Bolsonaro e Lula venceram em São Paulo, Minas Gerais e Rio de Janeiro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/1-turno-flavio-bolsonaro-lula-cidades-mg-rj-sp.ghtml)_
 
+- **[2026-10-05 03:23 UTC]** Flávio Bolsonaro tem 56 milhões de votos, e Lula, 53 milhões; compare com eleições de 2022
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/numero-votos-flavio-bolsonaro-lula-2026-2022.ghtml)_
+
