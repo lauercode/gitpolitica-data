@@ -3908,3 +3908,6 @@
 - **[2026-10-05 17:56 UTC]** Tarcísio se reúne com Flávio para definir prioridades do 2º turno presidencial: 'empenho total'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/tarcisio-se-reune-flavio-para-definir-prioridades-do-2o-turno-presidencial-empenho-total.ghtml)_
 
+- **[2026-10-05 16:49 UTC]** Eduardo Bolsonaro diz que 'não tem nada ganho' e pede mobilização por Flávio no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/eduardo-bolsonaro-diz-que-nao-tem-nada-ganho-e-pede-mobilizacao-por-flavio-no-segundo-turno.ghtml)_
+
