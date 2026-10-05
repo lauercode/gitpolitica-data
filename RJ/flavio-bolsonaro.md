@@ -3911,3 +3911,6 @@
 - **[2026-10-05 16:49 UTC]** Eduardo Bolsonaro diz que 'não tem nada ganho' e pede mobilização por Flávio no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/eduardo-bolsonaro-diz-que-nao-tem-nada-ganho-e-pede-mobilizacao-por-flavio-no-segundo-turno.ghtml)_
 
+- **[2026-10-05 16:47 UTC]** Ibovespa sobe até 9% e vai a inéditos 209 mil pontos com favoritismo de Flávio; dólar derrete para abaixo de R$ 5
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml)_
+
