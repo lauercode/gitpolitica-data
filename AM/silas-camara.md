@@ -1214,3 +1214,6 @@ direitos
 - **[2026-10-05 14:21 UTC]** Integrantes da Mesa Diretora se elegem para novo mandato na Câmara
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309278-integrantes-da-mesa-diretora-se-elegem-para-novo-mandato-na-camara)_
 
+- **[2026-10-05 04:31 UTC]** Taxa de renovação da Câmara dos Deputados fica em 35,67%
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309174-taxa-de-renovacao-da-camara-dos-deputados-fica-em-3567)_
+
