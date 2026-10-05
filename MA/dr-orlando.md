@@ -14,3 +14,6 @@
 - **[2018-02-23 09:17 UTC]** Orlando – Chegada, aluguel de carro e acomodação
   _fonte: [G1 - Regiões: São Paulo](https://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/blog/do-mundo-para-o-interior-paulista-por-valeria-foz/post/orlando-chegada-aluguel-de-carro-e-acomodacao.html)_
 
+- **[2026-10-05 05:14 UTC]** Eleições 2026: Dr. Orlando (PL) é eleito deputado federal pelo Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-dr-orlando-pl-e-eleito-deputado-federal-pelo-maranhao.ghtml)_
+
