@@ -113,3 +113,6 @@
 - **[2026-10-04 22:22 UTC]** Apuração: Com 50% das urnas apuradas em Pernambuco, Raquel Lyra lidera com 53,3%; João Campos tem 44,4%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-50-pontos-percentuais-das-urnas-apuradas-em-pernambuco-raquel-lyra-lidera-com-533-joo-campos-tem-444.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Raquel Lyra vence João Campos e é reeleita em Pernambuco
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/raquel-lyra-vence-joao-campos-e-e-reeleita-em-pernambuco.ghtml)_
+
