@@ -38,3 +38,6 @@
 - **[2026-10-05 09:06 UTC]** Resultado das eleições 2026 em Teotônio Vilela (AL): votação para presidente na Escola Municipal Ivonaldo Santos de Souza, na 34ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-teotonio-vilela-al-votacao-para-presidente-na-escola-municipal-ivonaldo-santos-de-souza-na-34a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 08:59 UTC]** Resultado das eleições 2026 em Campo Alegre (AL): votação para presidente na Escola Felizardo de Souza Lima, na 47ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-campo-alegre-al-votacao-para-presidente-na-escola-felizardo-de-souza-lima-na-47a-zona-eleitoral.ghtml)_
+
