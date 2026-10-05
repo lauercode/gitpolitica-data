@@ -1199,3 +1199,6 @@ direitos
 - **[2026-10-05 00:45 UTC]** Milton Leite elege filho para Câmara mesmo preso por escândalo de ônibus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/milton-leite-elege-filho-para-camara-mesmo-preso-por-escandalo-de-onibus.shtml)_
 
+- **[2026-10-05 00:41 UTC]** José Dirceu e Delúbio fracassam em se eleger à Câmara após prisões e escândalos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jose-dirceu-e-delubio-fracassam-em-se-eleger-a-camara-apos-prisoes-e-escandalos.shtml)_
+
