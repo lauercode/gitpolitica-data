@@ -1148,3 +1148,6 @@ direitos
 - **[2026-10-04 21:48 UTC]** Tiririca perde disputa pela Câmara no Ceará após quatro vitórias consecutivas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tiririca-perde-disputa-pela-camara-no-ceara-apos-quatro-vitorias-consecutivas.shtml)_
 
+- **[2026-10-05 00:23 UTC]** Veja como fica a bancada do Acre na Câmara dos Deputados a partir de 2027
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/veja-como-fica-a-bancada-do-acre-na-camara-dos-deputados-a-partir-de-2027.ghtml)_
+
