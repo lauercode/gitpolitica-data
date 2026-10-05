@@ -1244,3 +1244,6 @@ direitos
 - **[2026-10-05 17:59 UTC]** Resultado da eleição altera quadro de vereadores da Câmara Municipal de Curitiba; veja o que muda
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/eleicao-altera-quadro-de-vereadores-da-camara-municipal-de-curitiba.ghtml)_
 
+- **[2026-10-05 11:58 UTC]** Câmara de Natal terá seis mudanças com saída de vereadores eleitos para outros cargos; veja quem entra
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/05/camara-de-natal-tera-seis-mudancas-com-saida-de-vereadores-eleitos-para-outros-cargos-veja-quem-entra.ghtml)_
+
