@@ -17,3 +17,6 @@
 - **[2026-10-03 18:29 UTC]** Datafolha: Senado em PE tem Marília Arraes (PDT) e Humberto Costa (PT) com 29% dos votos válidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-senado-em-pe-tem-marilia-arraes-pdt-e-humberto-costa-pt-com-29-dos-votos-validos.shtml)_
 
+- **[2026-10-05 00:54 UTC]** Humberto Costa (PT) e Marília Arraes (PDT) são eleitos para o Senado em Pernambuco
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/humberto-costa-pt-e-marilia-arraes-pdt-sao-eleitos-para-o-senado-em-pernambuco.ghtml)_
+
