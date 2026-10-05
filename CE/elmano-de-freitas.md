@@ -47,3 +47,6 @@
 - **[2026-10-04 19:36 UTC]** Elmano de Freitas (PT) vence Ciro Gomes (PSDB) e é reeleito no Ceará, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/elmano-de-freitas-pt-vence-ciro-gomes-psdb-e-e-reeleito-no-ceara-projeta-datafolha.shtml)_
 
+- **[2026-10-05 00:17 UTC]** Elmano de Freitas, do PT, é reeleito governador do Ceará
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/elmano-de-freitas-e-reeleito-governador-do-ceara)_
+
