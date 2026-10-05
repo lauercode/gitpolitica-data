@@ -137,3 +137,6 @@
 - **[2026-10-05 00:21 UTC]** Sérgio Moro, do PL, é eleito em 1º turno como governador do Paraná
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/sergio-moro-do-pl-e-eleito-em-1o-turno-como-governador-do-parana)_
 
+- **[2026-10-05 06:00 UTC]** Veja cinco desafios de Sergio Moro, governador eleito do Paraná, para os próximos quatro anos
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/veja-cinco-desafios-de-sergio-moro-governador-eleito-do-parana-para-os-proximos-quatro-anos.ghtml)_
+
