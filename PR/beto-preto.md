@@ -17,3 +17,6 @@
 - **[2026-08-29 06:00 UTC]** Como será o show de Péricles no Rock in Rio, com tributo à black music da Motown
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/como-sera-o-show-de-pericles-no-rock-in-rio-com-tributo-a-black-music-da-motown.shtml)_
 
+- **[2026-10-05 01:55 UTC]** Eleições 2026: Beto Preto (PSD) é eleito deputado federal pelo Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-beto-preto-psd-e-eleito-deputado-federal-pelo-parana.ghtml)_
+
