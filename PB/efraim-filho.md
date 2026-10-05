@@ -77,3 +77,6 @@
 - **[2026-10-04 12:42 UTC]** Efraim Filho (PL) vota em João Pessoa, PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/efraim-filho-pl-vota-em-joao-pessoa-pb.ghtml)_
 
+- **[2026-10-05 10:13 UTC]** Efraim Filho diz 'vamos respeitar o resultado das urnas' após ficar em segundo lugar na disputa pelo governo da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/efraim-filho-diz-vamos-respeitar-o-resultado-das-urnas-apos-ficar-em-segundo-lugar-no-1o-turno-na-disputa-pelo-governo-da-paraiba.ghtml)_
+
