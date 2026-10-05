@@ -47,3 +47,6 @@
 - **[2026-10-04 20:48 UTC]** Michelle Bolsonaro e Bia Kicis são eleitas senadoras pelo DF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-para-o-senado-do-df-michelle-bolsonaro-tem-29percent-e-bia-kicis-27percent.ghtml)_
 
+- **[2026-10-05 01:52 UTC]** Michelle Bolsonaro comemora eleição ao Senado, mas não menciona Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/michelle-bolsonaro-comemora-eleio-ao-senado-mas-no-menciona-flvio.ghtml)_
+
