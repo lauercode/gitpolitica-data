@@ -62,3 +62,6 @@
 - **[2026-10-04 23:20 UTC]** Lucas Pavanato e Nikolas Ferreira têm votação recorde: veja lista dos 10 deputados mais votados de 2026 até agora
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3y0elvd819lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-04 22:54 UTC]** Nikolas Ferreira  e Lucas Pavanato superam 3 milhões de votos para deputado federal e batem recorde
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/lucas-pavanato-e-nikolas-ferreira-recorde-votos-deputado-federal.ghtml)_
+
