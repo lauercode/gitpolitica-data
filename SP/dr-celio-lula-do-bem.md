@@ -71,3 +71,6 @@
 - **[2026-10-05 09:09 UTC]** Lula perde votos nos maiores colégios eleitorais do país; em SP, queda chega a quase 1 milhão
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/lula-perde-votos-nos-maiores-colegios-eleitorais-do-pais-em-sp-queda-chega-a-quase-1-milhao.ghtml)_
 
+- **[2026-10-05 08:08 UTC]** Em 85% das cidades em que Lula venceu em SP, eleitores também escolheram Tarcísio
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/em-85percent-das-cidades-em-que-lula-venceu-em-sp-eleitores-tambem-escolheram-tarcisio.ghtml)_
+
