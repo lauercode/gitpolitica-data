@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-10-05 14:51 UTC]** Eleições 2026: Prof. Lemos (PT) é eleito deputado estadual pelo Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-prof-lemos-pt-e-eleito-deputado-estadual-pelo-parana.ghtml)_
+
