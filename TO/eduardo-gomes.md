@@ -23,3 +23,6 @@
 - **[2026-10-04 22:38 UTC]** Eduardo Gomes e Alexandre Guimarães são eleitos para o Senado pelo Tocantins
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/eduardo-gomes-e-alexandre-guimares-so-eleitos-para-o-senado-pelo-tocantins.ghtml)_
 
+- **[2026-10-05 13:08 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Eduardo Gomes, na 3ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-eduardo-gomes-na-3a-zona-eleitoral.ghtml)_
+
