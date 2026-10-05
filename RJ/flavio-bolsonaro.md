@@ -3596,3 +3596,6 @@
 - **[2026-10-04 22:02 UTC]** Flávio e Lula se enfrentam no 2º turno da Presidência da República
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-e-lula-se-enfrentam-no-2o-turno-da-presidencia-da-republica)_
 
+- **[2026-10-05 02:01 UTC]** Flávio Bolsonaro toma dianteira em Minas Gerais e no Tocantins, onde Lula venceu em 2022; veja como foi a votação para presidente por estado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-toma-dianteira-em-minas-gerais-e-no-tocantins-onde-lula-venceu-em-2022-veja-como-foi-a-votacao-para-presidente-por-estado.ghtml)_
+
