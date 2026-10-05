@@ -3731,3 +3731,6 @@
 - **[2026-10-05 04:53 UTC]** Javier Milei e Netanyahu parabenizam Flávio Bolsonaro após liderança no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/05/repercussao-lideres-internacionais-eleicao-2026.ghtml)_
 
+- **[2026-10-05 03:59 UTC]** Flávio Bolsonaro supera votação do pai em 2022 e 2018 no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-bolsonaro-supera-desempenho-do-pai-nos-primeiros-turnos-de-2022-e-2018-veja-comparativo.ghtml)_
+
