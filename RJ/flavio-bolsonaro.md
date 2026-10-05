@@ -3806,3 +3806,6 @@
 - **[2026-10-05 02:44 UTC]** Flávio Bolsonaro vence em 8 de 10 cidades chamadas Aparecida após polêmica sobre Nossa Senhora na eleição
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crz65w8963p7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 02:20 UTC]** Lula vence em Porto Alegre com 48,57% dos votos; Flávio Bolsonaro ficou em segundo lugar com 41,86%
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/lula-flavio-bolsonaro-porto-alegre.ghtml)_
+
