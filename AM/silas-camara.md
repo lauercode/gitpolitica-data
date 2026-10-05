@@ -1172,3 +1172,6 @@ direitos
 - **[2026-10-05 00:13 UTC]** Candidatos à Câmara dos Deputados mais bem votados são de partidos de direita e centro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/pl-tem-11-dos-deputados-federais-mais-votados-nos-estados.ghtml)_
 
+- **[2026-10-05 05:32 UTC]** PL sai na frente na eleição da Câmara dos Deputados, com 121 eleitos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309192-pl-sai-na-frente-na-eleicao-da-camara-dos-deputados-com-121-eleitos)_
+
