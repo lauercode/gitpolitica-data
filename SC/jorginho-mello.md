@@ -128,3 +128,6 @@
 - **[2026-10-05 08:00 UTC]** Infraestrutura, segurança e saneamento: os desafios de Jorginho Mello no 2º mandato em SC
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/infraestrutura-seguranca-saneamento-os-desafios-de-jorginho-mello-segundo-mandato.ghtml)_
 
+- **[2026-10-05 07:00 UTC]** Quem é Jorginho Mello (PL), governador reeleito de Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/quem-e-jorginho-mello-pl-governador-reeleito-de-santa-catarina.ghtml)_
+
