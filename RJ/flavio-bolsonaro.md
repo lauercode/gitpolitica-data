@@ -3728,3 +3728,6 @@
 - **[2026-10-05 04:55 UTC]** As cidades de São Paulo onde Flávio Bolsonaro venceu e onde Lula ficou na frente
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/as-cidades-de-sao-paulo-onde-flavio-bolsonaro-venceu-e-onde-lula-ficou-na-frente.ghtml)_
 
+- **[2026-10-05 04:53 UTC]** Javier Milei e Netanyahu parabenizam Flávio Bolsonaro após liderança no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/05/repercussao-lideres-internacionais-eleicao-2026.ghtml)_
+
