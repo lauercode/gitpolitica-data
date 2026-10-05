@@ -3800,3 +3800,6 @@
 - **[2026-10-05 03:13 UTC]** Só um de seis institutos de pesquisa apontava Flávio numericamente à frente de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/um-de-seis-institutos-de-pesquisa-apontava-flavio-numericamente-a-frente-de-lula/)_
 
+- **[2026-10-05 08:58 UTC]** 'Virada surpreendente': como imprensa internacional repercutiu vitória de Flávio Bolsonaro sobre Lula no 1º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckj0l4dgd24lo?at_medium=RSS&at_campaign=rss)_
+
