@@ -3683,3 +3683,6 @@
 - **[2026-10-05 02:08 UTC]** Flávio Bolsonaro diz que 'está decretado o fim da era do PT'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/flavio-bolsonaro-diz-que-esta-decretado-o-fim-da-era-do-pt.ghtml)_
 
+- **[2026-10-05 02:01 UTC]** Tarcísio diz que estará com Flávio 'onde for necessário' do 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/tarcisio-diz-que-estara-com-flavio-onde-for-necessario-do-2o-turno.ghtml)_
+
