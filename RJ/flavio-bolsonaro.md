@@ -3716,3 +3716,6 @@
 - **[2026-10-05 05:12 UTC]** Eleições 2026: 11 estados elegeram governadores que apoiaram Flávio Bolsonaro; e 5, aliados de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/governadores-primeiro-turno-apoio-flavio-lula.ghtml)_
 
+- **[2026-10-05 05:06 UTC]** Veja os estados onde Flávio Bolsonaro e Lula abriram as maiores vantagens
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/veja-os-estados-onde-flavio-bolsonaro-e-lula-abriram-as-maiores-vantagens.ghtml)_
+
