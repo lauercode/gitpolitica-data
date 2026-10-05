@@ -59,3 +59,6 @@
 - **[2026-10-04 21:21 UTC]** Maranhão elege Eduardo Braide governador no primeiro turno
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/maranhao-elege-eduardo-braide-governador-no-primeiro-turno)_
 
+- **[2026-10-05 01:29 UTC]** Eduardo Braide fala em 'começar já a montagem da equipe' na primeira declaração após vitória no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/eduardo-braide-fala-em-comecar-ja-a-montagem-da-equipe-no-primeiro-discurso-apos-vitoria-no-maranhao.ghtml)_
+
