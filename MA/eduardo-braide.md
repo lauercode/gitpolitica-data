@@ -62,3 +62,6 @@
 - **[2026-10-05 01:29 UTC]** Eduardo Braide fala em 'começar já a montagem da equipe' na primeira declaração após vitória no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/eduardo-braide-fala-em-comecar-ja-a-montagem-da-equipe-no-primeiro-discurso-apos-vitoria-no-maranhao.ghtml)_
 
+- **[2026-10-05 01:02 UTC]** Eduardo Braide é eleito para o governo do Maranhão
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/eduardo-braide-e-eleito-para-o-governo-do-maranhao.ghtml)_
+
