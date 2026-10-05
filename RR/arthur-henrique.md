@@ -59,3 +59,6 @@
 - **[2026-10-04 22:22 UTC]** Em Roraima, Arthur Henrique (PL) está eleito no primeiro turno, com 69% dos votos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/em-roraima-arthur-henrique-pl-esta-eleito-no-primeiro-turno-com-69percent-dos-votos.ghtml)_
 
+- **[2026-10-04 22:21 UTC]** Arthur Henrique é eleito governador de Roraima em primeiro turno
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/arthur-henrique-e-eleito-governador-de-roraima-no-primeiro-turno)_
+
