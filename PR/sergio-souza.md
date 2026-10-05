@@ -44,3 +44,6 @@
 - **[2026-10-05 08:55 UTC]** Resultado das eleições 2026 em Chã Preta (AL): votação para presidente na Escola Municipal Clotildes Brandao de Souza, na 28ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-cha-preta-al-votacao-para-presidente-na-escola-municipal-clotildes-brandao-de-souza-na-28a-zona-eleitoral-1.ghtml)_
 
+- **[2026-10-05 07:39 UTC]** Resultado das eleições 2026 em Assis Brasil (AC): votação para presidente na Escola Cariolando de Souza Gomes, Sgl São Francisco, Col. Derretido, na 6ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-assis-brasil-ac-votacao-para-presidente-na-escola-cariolando-de-souza-gomes-sgl-sao-francisco-col-derretido-na-6a-zona-eleitoral.ghtml)_
+
