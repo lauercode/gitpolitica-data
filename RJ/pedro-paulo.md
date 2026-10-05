@@ -482,3 +482,6 @@
 - **[2026-10-03 20:42 UTC]** Quaest para o Senado no RJ, votos totais: Jordy, 17%; Portinho e Benedita, 16% cada; Pedro Paulo, 10%; Crivella, 9%; Monica Benicio, 6%
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/quaest-rj-senado-03-10.ghtml)_
 
+- **[2026-10-05 08:35 UTC]** Resultado das eleições 2026 em Paulo Jacinto (AL): votação para presidente na Escola Municipal 2 de Dezembro, na 28ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-paulo-jacinto-al-votacao-para-presidente-na-escola-municipal-2-de-dezembro-na-28a-zona-eleitoral.ghtml)_
+
