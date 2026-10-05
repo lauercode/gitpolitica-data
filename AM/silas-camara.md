@@ -1196,3 +1196,6 @@ direitos
 - **[2026-10-05 08:14 UTC]** Câmara terá 35,7% de deputados federais em primeiro mandato, menor percentual em quatro eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/camara-tera-357percent-de-deputados-federais-em-primeiro-mandato-menor-percentual-em-quatro-eleicoes.ghtml)_
 
+- **[2026-10-05 00:45 UTC]** Milton Leite elege filho para Câmara mesmo preso por escândalo de ônibus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/milton-leite-elege-filho-para-camara-mesmo-preso-por-escandalo-de-onibus.shtml)_
+
