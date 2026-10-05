@@ -23,3 +23,6 @@
 - **[2026-10-04 23:49 UTC]** Eduardo Braga (MDB) e Plínio Valério (PSDB) são reeleitos senadores pelo AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/resultado-senador-amazonas-eleicoes-2026.ghtml)_
 
+- **[2026-10-05 00:44 UTC]** Eduardo Braga e Plinio Valério vão para o Senado pelo Amazonas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/eduardo-braga-e-plinio-valerio-vao-para-o-senado-pelo-amazonas.ghtml)_
+
