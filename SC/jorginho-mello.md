@@ -113,3 +113,6 @@
 - **[2026-10-04 21:42 UTC]** Atual governador, Jorginho Mello (PL)  se reelege em Santa Catarina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-2743percent-das-urnas-apuradas-atual-governador-jorginho-mello-pl-lidera-com-6377percent.ghtml)_
 
+- **[2026-10-05 02:08 UTC]** Jorginho Mello (PL) é reeleito governador de SC; Carol De Toni e Carlos Bolsonaro vencem no Senado
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-santa-catarina.ghtml)_
+
