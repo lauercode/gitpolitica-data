@@ -35,3 +35,6 @@
 - **[2026-10-03 22:24 UTC]** Datafolha: No RJ, Benedita tem 26% dos votos válidos para Senado; Portinho tem 19% e Jordy, 18%
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/03/datafolha-no-rj-benedita-tem-26-pontos-percentuais-dos-votos-vlidos-para-senado-portinho-tem-19-e-jordy-18.ghtml)_
 
+- **[2026-10-04 21:02 UTC]** Carlos Portinho e Carlos Jordy, do PL, são eleitos senadores pelo RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carlos-portinho-e-carlos-jordy-do-pl-sao-eleitos-senadores-pelo-rj.shtml)_
+
