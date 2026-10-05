@@ -1238,3 +1238,6 @@ direitos
 - **[2026-10-05 17:59 UTC]** Joana Darc é eleita e Amazonas volta a ter mulher na Câmara após 12 anos
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/joana-darc-e-eleita-e-amazonas-volta-a-ter-mulher-na-camara-apos-12-anos.ghtml)_
 
+- **[2026-10-05 12:35 UTC]** Eleições 2026: Paraíba elege uma mulher para a Câmara dos Deputados
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-paraiba-elege-uma-mulher-para-a-camara-dos-deputados.ghtml)_
+
