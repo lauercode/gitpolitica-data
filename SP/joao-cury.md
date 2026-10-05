@@ -428,3 +428,6 @@
 - **[2026-10-05 13:34 UTC]** Terceiro colocado, Cury fala em manter “silêncio” no segundo turno
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/terceiro-colocado-cury-fala-em-manter-silencio-no-segundo-turno)_
 
+- **[2026-10-05 15:09 UTC]** Cury, Renan, Caiado e Zema falam sobre apoio no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/cury-renan-caiado-e-zema-falam-sobre-apoio-no-2o-turno.ghtml)_
+
