@@ -3779,3 +3779,6 @@
 - **[2026-10-05 01:38 UTC]** Flávio lidera onda bolsonarista ao superar o próprio pai e ir ao 2º turno em vantagem contra Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-lidera-onda-bolsonarista-ao-superar-o-proprio-pai-e-ir-ao-2o-turno-em-vantagem-contra-lula.shtml)_
 
+- **[2026-10-05 01:28 UTC]** Flávio Bolsonaro vence no estado de SP, mas perde para Lula na capital paulista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-vence-no-estado-de-sp-mas-perde-para-lula-na-capital-paulista.shtml)_
+
