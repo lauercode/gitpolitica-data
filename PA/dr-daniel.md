@@ -65,3 +65,6 @@
 - **[2026-10-05 00:03 UTC]** Dr. Daniel (Podemos) é eleito governador do Pará no primeiro turno
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/dr-daniel-podemos-e-eleito-governador-do-para-no-primeiro-turno.ghtml)_
 
+- **[2026-10-05 00:58 UTC]** Pará elege Dr. Daniel (Podemos) com 51,36% dos votos válidos
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/para-elege-dr-daniel-podemos-com-5136-dos-votos-validos)_
+
