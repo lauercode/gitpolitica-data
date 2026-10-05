@@ -140,3 +140,6 @@
 - **[2026-10-04 21:37 UTC]** Apuração: Com 51,26% das urnas apuradas em MG, Cleitinho tem 53,69%; Patrus tem 26,44%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/com-2164-pontos-percentuais-das-urnas-apuradas-em-mg-cleitinho-tem-4971-patrus-tem-2766.ghtml)_
 
+- **[2026-10-05 00:25 UTC]** Em Minas Gerais, Cleitinho, do Republicanos, é eleito em 1º turno
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/em-minas-gerais-cleitinho-do-republicanos-e-eleito-em-1o-turno)_
+
