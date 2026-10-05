@@ -3851,3 +3851,6 @@
 - **[2026-10-05 15:00 UTC]** Filme volta a Bolsonaro em 2022 para investigar papel das redes nas eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/filme-volta-a-bolsonaro-em-2022-para-investigar-papel-das-redes-nas-eleicoes.shtml)_
 
+- **[2026-10-05 14:40 UTC]** Para entender a euforia do mercado com Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/para-entender-a-euforia-do-mercado-com-flavio-bolsonaro.shtml)_
+
