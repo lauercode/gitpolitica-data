@@ -17,3 +17,6 @@
 - **[2026-09-08 23:00 UTC]** Peça com Roger Gobeth adapta 'O Alienista', conto de Machado de Assis, em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/09/peca-com-roger-gobeth-adapta-o-alienista-conto-de-machado-de-assis-em-sp.shtml)_
 
+- **[2026-10-05 01:54 UTC]** Eleições 2026: Aliel Machado (PV) é eleito deputado federal pelo Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-aliel-machado-pv-e-eleito-deputado-federal-pelo-parana.ghtml)_
+
