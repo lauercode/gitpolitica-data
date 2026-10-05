@@ -17,3 +17,6 @@
 - **[2026-09-17 13:28 UTC]** Investigação da Lava Jato contra Eduardo Cunha chega às mãos de Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/investigacao-da-lava-jato-contra-eduardo-cunha-chega-as-maos-de-mendonca/)_
 
+- **[2026-10-04 22:14 UTC]** Condenado na Lava Jato, Eduardo Cunha fracassa em voltar à Câmara por MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/condenado-na-lava-jato-eduardo-cunha-fracassa-em-voltar-a-camara-por-mg.shtml)_
+
