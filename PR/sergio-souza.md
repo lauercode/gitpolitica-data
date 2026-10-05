@@ -47,3 +47,6 @@
 - **[2026-10-05 07:39 UTC]** Resultado das eleições 2026 em Assis Brasil (AC): votação para presidente na Escola Cariolando de Souza Gomes, Sgl São Francisco, Col. Derretido, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-assis-brasil-ac-votacao-para-presidente-na-escola-cariolando-de-souza-gomes-sgl-sao-francisco-col-derretido-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 13:12 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Martim Afonso de Souza, na 3ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-martim-afonso-de-souza-na-3a-zona-eleitoral.ghtml)_
+
