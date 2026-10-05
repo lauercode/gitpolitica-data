@@ -3803,3 +3803,6 @@
 - **[2026-10-05 08:58 UTC]** 'Virada surpreendente': como imprensa internacional repercutiu vitória de Flávio Bolsonaro sobre Lula no 1º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckj0l4dgd24lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 02:44 UTC]** Flávio Bolsonaro vence em 8 de 10 cidades chamadas Aparecida após polêmica sobre Nossa Senhora na eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crz65w8963p7o?at_medium=RSS&at_campaign=rss)_
+
