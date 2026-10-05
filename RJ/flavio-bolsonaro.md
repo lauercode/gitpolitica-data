@@ -3680,3 +3680,6 @@
 - **[2026-10-05 00:39 UTC]** Jair Bolsonaro elege dois filhos em Santa Catarina; Flávio tem 66% dos votos para a Presidência no estado
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/jair-bolsonaro-elege-dois-filhos-em-santa-catarina.ghtml)_
 
+- **[2026-10-05 02:08 UTC]** Flávio Bolsonaro diz que 'está decretado o fim da era do PT'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/flavio-bolsonaro-diz-que-esta-decretado-o-fim-da-era-do-pt.ghtml)_
+
