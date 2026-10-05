@@ -89,3 +89,6 @@
 - **[2026-10-05 00:49 UTC]** Professora Maria do Carmo fala em confiança após avançar ao 2º turno no AM: 'Não tinha dúvida de que a gente conseguiria'
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/professora-maria-do-carmo-fala-em-confianca-apos-avancar-ao-2o-turno-no-am-nao-tinha-duvida-de-que-a-gente-conseguiria.ghtml)_
 
+- **[2026-10-05 00:08 UTC]** Omar Aziz e Professora Maria do Carmo vão para o 2° turno no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/omar-aziz-e-professora-maria-do-carmo-vao-para-o-2-turno-no-amazonas.ghtml)_
+
