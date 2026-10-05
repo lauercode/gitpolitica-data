@@ -1184,3 +1184,6 @@ direitos
 - **[2026-10-05 04:31 UTC]** Taxa de renovação da Câmara dos Deputados fica em 38,7%
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309174-taxa-de-renovacao-da-camara-dos-deputados-fica-em-387)_
 
+- **[2026-10-05 04:23 UTC]** Índice de reeleição na Câmara dos Deputados alcança 58,6%
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309168-indice-de-reeleicao-na-camara-dos-deputados-alcanca-586)_
+
