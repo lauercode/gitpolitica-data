@@ -3602,3 +3602,6 @@
 - **[2026-10-05 00:53 UTC]** Michelle, Flávio, Carlos e Renan Bolsonaro: como estes e outros integrantes da família do ex-presidente se saíram nas urnas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/como-a-familia-de-jair-bolsonaro-se-saiu-nas-urnas-e-quem-deles-foi-eleito-michelle-flavio-carlos-renan-e-outros.ghtml)_
 
+- **[2026-10-05 00:42 UTC]** Adversários de Flávio Bolsonaro e Lula somam apenas 7,85% dos votos no 1º turno; veja números de 2014, 2018 e 2022
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/adversarios-de-lula-e-flavio-bolsonaro-somam-apenas-785percent-dos-votos-no-1o-turno-veja-numeros-das-eleicoes-de-2014-2018-e-2022.ghtml)_
+
