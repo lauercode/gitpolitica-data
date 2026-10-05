@@ -158,3 +158,6 @@
 - **[2026-10-04 21:35 UTC]** Tarcísio promete empenho de SP para eleger Flávio Bolsonaro: 'o PT não tem mais nada a oferecer'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-promete-empenho-de-sp-para-eleger-flavio-bolsonaro-que-entra-em-chamada-de-video.shtml)_
 
+- **[2026-10-05 00:37 UTC]** Tarcísio cobra ‘responsabilidade’ de SP para eleger Flávio no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/tarcsio-cobra-responsabilidade-de-sp-para-eleger-flvio-no-2-turno.ghtml)_
+
