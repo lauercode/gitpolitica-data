@@ -23,3 +23,6 @@
 - **[2026-10-05 17:18 UTC]** Resultado das eleições 2026 em Arapiraca (AL): votação para presidente na Escola João Saturnino de Almeida, na 55ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-arapiraca-al-votacao-para-presidente-na-escola-joao-saturnino-de-almeida-na-55a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 17:18 UTC]** Resultado das eleições 2026 em Arapiraca (AL): votação para presidente na Escola de Ensino Fundamental Cleonice Barbosa de Almeida, na 22ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-arapiraca-al-votacao-para-presidente-na-escola-de-ensino-fundamental-cleonice-barbosa-de-almeida-na-22a-zona-eleitoral.ghtml)_
+
