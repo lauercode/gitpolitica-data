@@ -35,3 +35,6 @@
 - **[2026-10-05 04:15 UTC]** Como foram as horas que antecederam a Batalha da Inajar de Souza, que terá julgamento nesta segunda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/como-foram-as-horas-que-antecederam-a-batalha-da-inajar-de-souza-que-tera-julgamento-nesta-segunda.shtml)_
 
+- **[2026-10-05 09:06 UTC]** Resultado das eleições 2026 em Teotônio Vilela (AL): votação para presidente na Escola Municipal Ivonaldo Santos de Souza, na 34ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-teotonio-vilela-al-votacao-para-presidente-na-escola-municipal-ivonaldo-santos-de-souza-na-34a-zona-eleitoral.ghtml)_
+
