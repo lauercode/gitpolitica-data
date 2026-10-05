@@ -20,3 +20,6 @@
 - **[2026-10-05 17:22 UTC]** Resultado das eleições 2026 em Arapiraca (AL): votação para presidente na Escola Professor Luiz Alberto de Melo, na 55ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-arapiraca-al-votacao-para-presidente-na-escola-professor-luiz-alberto-de-melo-na-55a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 13:09 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Almirante Custódio de Melo, na 3ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-almirante-custodio-de-melo-na-3a-zona-eleitoral.ghtml)_
+
