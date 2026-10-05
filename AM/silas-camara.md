@@ -1175,3 +1175,6 @@ direitos
 - **[2026-10-05 05:32 UTC]** PL sai na frente na eleição da Câmara dos Deputados, com 121 eleitos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309192-pl-sai-na-frente-na-eleicao-da-camara-dos-deputados-com-121-eleitos)_
 
+- **[2026-10-05 05:25 UTC]** PL obtém 19 vagas das 70 vagas de São Paulo na Câmara dos Deputados
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1307851-pl-obtem-19-vagas-das-70-vagas-de-sao-paulo-na-camara-dos-deputados)_
+
