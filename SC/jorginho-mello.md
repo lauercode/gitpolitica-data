@@ -125,3 +125,6 @@
 - **[2026-10-05 03:39 UTC]** Jorginho Mello vence no primeiro turno com a maior vantagem sobre segundo colocado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/governadores-reeleitos-maior-vantagem-primeiro-turno/)_
 
+- **[2026-10-05 08:00 UTC]** Infraestrutura, segurança e saneamento: os desafios de Jorginho Mello no 2º mandato em SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/infraestrutura-seguranca-saneamento-os-desafios-de-jorginho-mello-segundo-mandato.ghtml)_
+
