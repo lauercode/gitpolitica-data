@@ -488,3 +488,6 @@
 - **[2026-10-05 08:35 UTC]** Resultado das eleições 2026 em Paulo Jacinto (AL): votação para presidente na Escola Estadual Deputado José Medeiros, na 28ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-paulo-jacinto-al-votacao-para-presidente-na-escola-estadual-deputado-jose-medeiros-na-28a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 08:34 UTC]** Resultado das eleições 2026 em Paulo Jacinto (AL): votação para presidente na Escola de 1 e 2 Graus Souza Barbosa, na 28ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-paulo-jacinto-al-votacao-para-presidente-na-escola-de-1-e-2-graus-souza-barbosa-na-28a-zona-eleitoral.ghtml)_
+
