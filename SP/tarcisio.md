@@ -152,3 +152,6 @@
 - **[2026-10-04 22:31 UTC]** Reeleito em SP, Tarcísio promete mais entregas para o próximo mandato
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/reeleito-em-sp-tarcisio-promete-mais-entregas-para-o-proximo-mandato)_
 
+- **[2026-10-05 00:43 UTC]** Quem é Tarcísio de Freitas, que assume pela segunda vez o governo de SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/quem-e-tarcisio-de-freitas-que-assume-pela-segunda-vez-o-governo-de-sp.ghtml)_
+
