@@ -32,3 +32,6 @@
 - **[2026-10-05 04:10 UTC]** Nikolas Ferreira e Lucas Pavanato são os deputados mais votados da história: veja os 10 no topo da lista
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3y0elvd819lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 15:44 UTC]** Quem é Lucas Pavanato, aliado de Nikolas, que recebeu mais de 3 milhões de votos em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/quem-e-lucas-pavanato-aliado-de-nikolas-que-recebeu-mais-de-3-milhoes-de-votos-em-sao-paulo.ghtml)_
+
