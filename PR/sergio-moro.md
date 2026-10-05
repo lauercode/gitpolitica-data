@@ -134,3 +134,6 @@
 - **[2026-10-05 00:13 UTC]** Sergio Moro (PL) fala em fazer governo 'intolerante contra qualquer espécie de desvio' no primeiro discurso após vitória
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/primeira-declaracao-sergio-moro-eleito-governador-parana.ghtml)_
 
+- **[2026-10-05 00:21 UTC]** Sérgio Moro, do PL, é eleito em 1º turno como governador do Paraná
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/sergio-moro-do-pl-e-eleito-em-1o-turno-como-governador-do-parana)_
+
