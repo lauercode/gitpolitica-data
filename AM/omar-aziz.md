@@ -110,3 +110,6 @@
 - **[2026-10-05 00:08 UTC]** Omar Aziz e Professora Maria do Carmo vão para o 2° turno no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/omar-aziz-e-professora-maria-do-carmo-vao-para-o-2-turno-no-amazonas.ghtml)_
 
+- **[2026-10-05 00:08 UTC]** Omar Aziz (PSD) e Professora Maria do Carmo (PL) vão para o 2° turno no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/omar-aziz-e-professora-maria-do-carmo-vao-para-o-2-turno-no-amazonas.ghtml)_
+
