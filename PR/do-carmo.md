@@ -14,3 +14,6 @@
 - **[2026-10-05 15:33 UTC]** Resultado das eleições 2026 em Olivença (AL): votação para presidente na Escola Adeildo Nepomuceno Marques (Antiga Nossa Senhora do Carmo), na 19ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-olivenca-al-votacao-para-presidente-na-escola-adeildo-nepomuceno-marques-antiga-nossa-senhora-do-carmo-na-19a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 15:02 UTC]** Eleições 2026: do Carmo (Podemos) é eleito deputado estadual pelo Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-do-carmo-podemos-e-eleito-deputado-estadual-pelo-parana.ghtml)_
+
