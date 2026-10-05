@@ -3890,3 +3890,6 @@
 - **[2026-10-05 17:44 UTC]** O que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c933xvxj7dryo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 14:52 UTC]** Lula x Flávio no 2º turno: para onde vão os votos de Cury, Renan e Caiado?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm209062n3wgo?at_medium=RSS&at_campaign=rss)_
+
