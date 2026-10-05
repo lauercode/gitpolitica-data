@@ -3689,3 +3689,6 @@
 - **[2026-10-05 01:58 UTC]** Lula admite desapontamento com resultado do 1º turno, mas desafia Flávio: 'Sou bom no mata-mata'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/lula-admite-desapontamento-com-resultado-do-1-turno-mas-desafia-flvio-sou-bom-no-mata-mata.ghtml)_
 
+- **[2026-10-05 01:52 UTC]** Michelle Bolsonaro comemora eleição ao Senado, mas não menciona Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/michelle-bolsonaro-comemora-eleio-ao-senado-mas-no-menciona-flvio.ghtml)_
+
