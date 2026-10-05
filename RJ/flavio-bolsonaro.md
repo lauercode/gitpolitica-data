@@ -3698,3 +3698,6 @@
 - **[2026-10-05 00:37 UTC]** Tarcísio cobra ‘responsabilidade’ de SP para eleger Flávio no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/tarcsio-cobra-responsabilidade-de-sp-para-eleger-flvio-no-2-turno.ghtml)_
 
+- **[2026-10-05 00:29 UTC]** Na Faria Lima, Flávio já é visto como presidente
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/noticia/2026/10/04/analise-na-faria-lima-flavio-ja-e-visto-como-presidente.ghtml)_
+
