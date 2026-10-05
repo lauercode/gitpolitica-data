@@ -17,3 +17,6 @@
 - **[2026-09-25 19:34 UTC]** Quaest: Ricardo Ferraço (MDB) tem 33%, e Lorenzo Pazolini (Republicanos), 31%, no Espírito Santo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quaest-ricardo-ferraco-tem-33-e-lorenzo-pazolini-31-no-espirito-santo.shtml)_
 
+- **[2026-10-04 22:06 UTC]** Espírito Santo terá 2º turno entre Lorenzo Pazolini e Ricardo Ferraço
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/espirito-santo-tera-2o-turno-entre-lorenzo-pazolini-e-ricardo-ferraco)_
+
