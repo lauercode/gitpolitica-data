@@ -1178,3 +1178,6 @@ direitos
 - **[2026-10-05 05:25 UTC]** PL obtém 19 vagas das 70 vagas de São Paulo na Câmara dos Deputados
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1307851-pl-obtem-19-vagas-das-70-vagas-de-sao-paulo-na-camara-dos-deputados)_
 
+- **[2026-10-05 04:45 UTC]** 29 ex-deputados federais são eleitos e voltam à Câmara
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309179-29-ex-deputados-federais-sao-eleitos-e-voltam-a-camara)_
+
