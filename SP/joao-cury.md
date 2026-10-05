@@ -422,3 +422,6 @@
 - **[2026-10-04 11:18 UTC]** Lula, Flávio Bolsonaro e Zema já votaram; Cury vota em São Paulo e Caiado em Goiás
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/candidatos-a-presidencia-votam.ghtml)_
 
+- **[2026-10-04 23:27 UTC]** Cury, Renan Santos e Caiado não declaram voto no 2º turno e criticam polarização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cury-renan-santos-e-caiado-nao-declaram-voto-no-2o-turno-e-criticam-polarizacao.shtml)_
+
