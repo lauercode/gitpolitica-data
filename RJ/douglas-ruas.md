@@ -47,3 +47,6 @@
 - **[2026-10-04 21:42 UTC]** Douglas Ruas e Eduardo Paes disputam o 2º turno para o governo do Rio
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/douglas-ruas-e-eduardo-paes-disputam-o-2o-turno-para-o-governo-do-rio)_
 
+- **[2026-10-05 00:37 UTC]** Douglas Ruas e Paes vão para o 2º tuno; ASSISTA à apuração
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-rj.ghtml)_
+
