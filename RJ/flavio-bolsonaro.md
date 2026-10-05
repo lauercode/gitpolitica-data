@@ -3872,3 +3872,6 @@
 - **[2026-10-05 12:13 UTC]** Dianteira de Flávio Bolsonaro gera expectativa por ajuste fiscal, mas 'pauta da vingança' pode atrapalhar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dianteira-de-flavio-bolsonaro-gera-expectativa-por-ajuste-fiscal-mas-pauta-da-vinganca-pode-atrapalhar.shtml)_
 
+- **[2026-10-05 10:35 UTC]** Imprensa internacional vê força da direita e cita 'troféu que falta para Trump' após avanço de Flávio sobre Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-ve-forca-da-direita-e-cita-trofeu-que-falta-para-trump-apos-avanco-de-flavio-sobre-lula.shtml)_
+
