@@ -3743,3 +3743,6 @@
 - **[2026-10-05 03:00 UTC]** Flávio Bolsonaro no segundo turno: veja o que o candidato propõe caso seja eleito
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-bolsonaro-no-segundo-turno-veja-o-que-o-candidato-propoe-caso-seja-eleito.ghtml)_
 
+- **[2026-10-05 02:45 UTC]** Veja as 10 cidades onde Lula e Flávio Bolsonaro tiveram os maiores percentuais de votos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/cidades-lula-flavio-bolsonaro-percentuais-de-votos.ghtml)_
+
