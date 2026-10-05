@@ -20,3 +20,6 @@
 - **[2026-10-05 11:06 UTC]** Resultado das eleições 2026 em Bujari (AC): votação para presidente na Escola Edmundo Pinto de Almeida Neto, na 9ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bujari-ac-votacao-para-presidente-na-escola-edmundo-pinto-de-almeida-neto-na-9a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 17:18 UTC]** Resultado das eleições 2026 em Arapiraca (AL): votação para presidente na Escola João Saturnino de Almeida, na 55ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-arapiraca-al-votacao-para-presidente-na-escola-joao-saturnino-de-almeida-na-55a-zona-eleitoral.ghtml)_
+
