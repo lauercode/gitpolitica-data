@@ -3791,3 +3791,6 @@
 - **[2026-10-05 00:11 UTC]** Tarcísio se reúne com Flávio nesta segunda para definir estratégia do 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tarcisio-se-reune-com-flavio-nesta-segunda-para-definir-estrategia-do-2o-turno.shtml)_
 
+- **[2026-10-05 00:01 UTC]** Atritos e falhas marcam campanha de Lula, e líderes falam em mudanças profundas para enfrentar Flávio no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/atritos-e-falhas-marcam-campanha-de-lula-e-lideres-falam-em-mudancas-profundas-para-enfrentar-flavio-no-2o-turno.shtml)_
+
