@@ -32,3 +32,6 @@
 - **[2026-09-11 21:13 UTC]** Allyson Bezerra propõe mudanças no licenciamento ambiental em sabatina com empresários
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/11/allyson-bezerra-propoe-mudancas-no-licenciamento-ambiental-em-sabatina-com-empresarios.ghtml)_
 
+- **[2026-10-05 03:22 UTC]** Eleições 2026: Cinthia de Allyson (União Brasil) é eleita deputada estadual pelo Rio Grande do Norte
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-cinthia-de-allyson-uniao-brasil-e-eleita-deputada-estadual-pelo-rio-grande-do-norte.ghtml)_
+
