@@ -161,3 +161,6 @@
 - **[2026-10-05 00:37 UTC]** Tarcísio cobra ‘responsabilidade’ de SP para eleger Flávio no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/tarcsio-cobra-responsabilidade-de-sp-para-eleger-flvio-no-2-turno.ghtml)_
 
+- **[2026-10-05 08:08 UTC]** Em 85% das cidades em que Lula venceu em SP, eleitores também escolheram Tarcísio
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/em-85percent-das-cidades-em-que-lula-venceu-em-sp-eleitores-tambem-escolheram-tarcisio.ghtml)_
+
