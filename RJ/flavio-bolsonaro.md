@@ -3629,3 +3629,6 @@
 - **[2026-10-04 23:00 UTC]** Lula e Bolsonaro são totens seguidos por um bando de neolíticos furiosos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/10/lula-e-bolsonaro-sao-totens-seguidos-por-um-bando-de-neoliticos-furiosos.shtml)_
 
+- **[2026-10-04 22:40 UTC]** Aliados de Flávio Bolsonaro vencem em 10 estados, e aliados de Lula, em 5
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-bolsonaro-vencem-em-10-estados-e-aliados-de-lula-em-5.shtml)_
+
