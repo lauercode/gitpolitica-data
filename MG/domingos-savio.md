@@ -38,3 +38,6 @@
 - **[2026-10-04 21:14 UTC]** Domingos Sávio, do PL, e Marília Campos, do PT, são eleitos senadores por MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/domingos-savio-do-pl-e-marilia-campos-do-pt-sao-eleitos-senadores-por-mg.shtml)_
 
+- **[2026-10-05 00:36 UTC]** Em MG, Domingos Sávio (PL) e Marília Campos (PT) são eleitos senadores
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/em-mg-domingos-savio-pl-e-marilia-campos-pt-sao-eleitos-senadores.ghtml)_
+
