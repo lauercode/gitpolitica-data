@@ -20,3 +20,6 @@
 - **[2026-10-04 16:12 UTC]** Plínio Valério (PSDB) vota em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/plinio-valerio-psdb-vota-em-manaus.ghtml)_
 
+- **[2026-10-04 23:49 UTC]** Eduardo Braga (MDB) e Plínio Valério (PSDB) são reeleitos senadores pelo AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/resultado-senador-amazonas-eleicoes-2026.ghtml)_
+
