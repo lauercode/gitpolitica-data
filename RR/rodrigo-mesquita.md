@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-10-05 01:36 UTC]** Eleições 2026: Rodrigo Mesquita (Podemos) é eleito deputado federal por Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-rodrigo-mesquita-podemos-e-eleito-deputado-federal-por-roraima.ghtml)_
+
