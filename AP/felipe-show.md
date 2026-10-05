@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-10-05 01:29 UTC]** Eleições 2026: Felipe Show (União Brasil) é eleito deputado federal pelo Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-felipe-show-uniao-brasil-e-eleito-deputado-federal-pelo-amapa.ghtml)_
+
