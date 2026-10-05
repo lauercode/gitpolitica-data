@@ -3740,3 +3740,6 @@
 - **[2026-10-05 03:23 UTC]** Flávio Bolsonaro tem 56 milhões de votos, e Lula, 53 milhões; compare com eleições de 2022
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/numero-votos-flavio-bolsonaro-lula-2026-2022.ghtml)_
 
+- **[2026-10-05 03:00 UTC]** Flávio Bolsonaro no segundo turno: veja o que o candidato propõe caso seja eleito
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-bolsonaro-no-segundo-turno-veja-o-que-o-candidato-propoe-caso-seja-eleito.ghtml)_
+
