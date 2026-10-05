@@ -26,3 +26,6 @@
 - **[2026-10-05 17:18 UTC]** Resultado das eleições 2026 em Arapiraca (AL): votação para presidente na Escola de 1 e 2 Graus Senador Rui Palmeira, na 22ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-arapiraca-al-votacao-para-presidente-na-escola-de-1-e-2-graus-senador-rui-palmeira-na-22a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 13:37 UTC]** Resultado das eleições 2026 em São Miguel dos Campos (AL): votação para presidente na Escola Municipal Rui Palmeira, na 18ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-sao-miguel-dos-campos-al-votacao-para-presidente-na-escola-municipal-rui-palmeira-na-18a-zona-eleitoral.ghtml)_
+
