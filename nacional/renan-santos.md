@@ -434,3 +434,6 @@
 - **[2026-10-04 23:27 UTC]** Cury, Renan Santos e Caiado não declaram voto no 2º turno e criticam polarização
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cury-renan-santos-e-caiado-nao-declaram-voto-no-2o-turno-e-criticam-polarizacao.shtml)_
 
+- **[2026-10-05 18:16 UTC]** Kim Kataguiri diz que não renunciará após Renan Santos ficar abaixo de 3%
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/kim-kataguiri-diz-que-nao-renunciara-apos-renan-santos-ficar-abaixo-de-tres/)_
+
