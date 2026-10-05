@@ -3893,3 +3893,6 @@
 - **[2026-10-05 14:52 UTC]** Lula x Flávio no 2º turno: para onde vão os votos de Cury, Renan e Caiado?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm209062n3wgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 13:40 UTC]** Os gráficos que explicam como Flávio Bolsonaro chegou à frente de Lula no 1º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crq8nx1qq8j4o?at_medium=RSS&at_campaign=rss)_
+
