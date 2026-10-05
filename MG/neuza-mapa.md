@@ -50,3 +50,6 @@
 - **[2026-10-04 19:15 UTC]** MAPA vai mostrar ao vivo o resultado da apuração para presidente e governador no seu Estado
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-04 19:15 UTC]** MAPA mostra o resultado para presidente e governador por Estado e cidade
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss)_
+
