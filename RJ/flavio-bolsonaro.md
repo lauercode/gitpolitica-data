@@ -3752,3 +3752,6 @@
 - **[2026-10-05 02:27 UTC]** Flávio Bolsonaro lidera em 16 capitais no 1º turno, enquanto Lula vence em 11; veja lista
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-lidera-em-16-capitais-no-1o-turno-enquanto-lula-vence-em-11-veja-lista.ghtml)_
 
+- **[2026-10-05 02:21 UTC]** Flávio Bolsonaro lidera no DF e em 14 estados, e Lula, em 12; veja o mapa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-e-lula-estados-mapa.ghtml)_
+
