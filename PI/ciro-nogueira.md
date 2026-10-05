@@ -56,3 +56,6 @@
 - **[2026-10-05 00:51 UTC]** Marcelo Castro e Júlio César serão senadores pelo Piauí; Ciro Nogueira perde cadeira
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/marcelo-castro-e-julio-cesar-serao-senadores-pelo-piaui-ciro-nogueira-perde-cadeira.ghtml)_
 
+- **[2026-10-05 01:35 UTC]** Renan Calheiros, Ciro Nogueira e Randolfe são derrotados e deixam Senado após longa trajetória
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-calheiros-ciro-nogueira-e-randolfe-sao-derrotados-e-deixam-senado-apos-longa-trajetoria.shtml)_
+
