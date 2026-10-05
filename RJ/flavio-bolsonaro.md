@@ -3671,3 +3671,6 @@
 - **[2026-10-05 01:20 UTC]** Flávio impõe revanche a Lula e chega como favorito ao 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-impoe-revanche-a-lula-e-chega-como-favorito-ao-2o-turno/)_
 
+- **[2026-10-05 00:47 UTC]** Flávio Bolsonaro x Lula: os contrastes dos projetos de Brasil que vão para o 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmpwg82gwd2zo?at_medium=RSS&at_campaign=rss)_
+
