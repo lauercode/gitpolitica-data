@@ -1202,3 +1202,6 @@ direitos
 - **[2026-10-05 00:41 UTC]** José Dirceu e Delúbio fracassam em se eleger à Câmara após prisões e escândalos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jose-dirceu-e-delubio-fracassam-em-se-eleger-a-camara-apos-prisoes-e-escandalos.shtml)_
 
+- **[2026-10-05 00:28 UTC]** PL, com Pavanato, amplia deputados de SP na Câmara, com PT e esquerda estagnados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-com-pavanato-amplia-deputados-de-sp-na-camara-com-pt-e-esquerda-estagnados.shtml)_
+
