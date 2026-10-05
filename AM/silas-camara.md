@@ -1226,3 +1226,6 @@ direitos
 - **[2026-10-05 13:30 UTC]** Nove vereadores de SP são eleitos deputados, e composição da Câmara municipal mudará
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/nove-vereadores-de-sp-sao-eleitos-deputados-e-composicao-da-camara-municipal-deve-mudar.shtml)_
 
+- **[2026-10-05 13:06 UTC]** PL cresce de 98 para 121 deputados e avança sobre o centrão; esquerda terá 24% da Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-cresce-de-98-para-121-deputados-e-avanca-sobre-o-centrao-esquerda-tera-24-da-camara.shtml)_
+
