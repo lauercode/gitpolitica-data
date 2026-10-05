@@ -134,3 +134,6 @@
 - **[2026-10-05 03:45 UTC]** Eleições 2026: Matheus Gomes (PSOL) é eleito deputado estadual pelo Rio Grande do Sul
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-matheus-gomes-psol-e-eleito-deputado-estadual-pelo-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-05 03:45 UTC]** Eleições 2026: Luciana Genro (PSOL) é eleita deputada estadual pelo Rio Grande do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-luciana-genro-psol-e-eleita-deputada-estadual-pelo-rio-grande-do-sul.ghtml)_
+
