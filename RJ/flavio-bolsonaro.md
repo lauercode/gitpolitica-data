@@ -3869,3 +3869,6 @@
 - **[2026-10-05 12:17 UTC]** Setor de infraestrutura vê pouca mudança com Lula ou Flávio Bolsonaro e cobra juros menores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/10/setor-de-infraestrutura-ve-pouca-mudanca-com-lula-ou-flavio-bolsonaro-e-cobra-juros-menores.shtml)_
 
+- **[2026-10-05 12:13 UTC]** Dianteira de Flávio Bolsonaro gera expectativa por ajuste fiscal, mas 'pauta da vingança' pode atrapalhar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dianteira-de-flavio-bolsonaro-gera-expectativa-por-ajuste-fiscal-mas-pauta-da-vinganca-pode-atrapalhar.shtml)_
+
