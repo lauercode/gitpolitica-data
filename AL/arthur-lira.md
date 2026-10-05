@@ -38,3 +38,6 @@
 - **[2026-10-04 22:35 UTC]** Arthur Lira e Marina JHC desbancam Renan Calheiros e são eleitos para o Senado em Alagoas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-40percent-das-urnas-apuradas-arthur-lira-e-marina-jhc-lideram-disputa-ao-senado-em-alagoas.ghtml)_
 
+- **[2026-10-05 00:18 UTC]** Aos 20 anos, filho de Arthur Lira será deputado federal mais jovem da história
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aos-20-anos-filho-de-arthur-lira-sera-deputado-federal-mais-jovem-da-historia.shtml)_
+
