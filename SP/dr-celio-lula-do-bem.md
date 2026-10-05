@@ -74,3 +74,6 @@
 - **[2026-10-05 08:08 UTC]** Em 85% das cidades em que Lula venceu em SP, eleitores também escolheram Tarcísio
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/em-85percent-das-cidades-em-que-lula-venceu-em-sp-eleitores-tambem-escolheram-tarcisio.ghtml)_
 
+- **[2026-10-05 01:28 UTC]** Flávio Bolsonaro vence no estado de SP, mas perde para Lula na capital paulista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-vence-no-estado-de-sp-mas-perde-para-lula-na-capital-paulista.shtml)_
+
