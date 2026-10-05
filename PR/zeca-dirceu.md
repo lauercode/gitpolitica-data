@@ -20,3 +20,6 @@
 - **[2026-10-03 17:25 UTC]** Zeca Dirceu pede a Gilmar Mendes para anular votos de Deltan Dallagnol para o Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/zeca-dirceu-pede-a-gilmar-mendes-para-anular-votos-de-deltan-para-o-senado/)_
 
+- **[2026-10-05 01:49 UTC]** Eleições 2026: Zeca Dirceu (PT) é eleito deputado federal pelo Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-zeca-dirceu-pt-e-eleito-deputado-federal-pelo-parana.ghtml)_
+
