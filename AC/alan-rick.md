@@ -539,3 +539,6 @@
 - **[2026-10-04 19:38 UTC]** Mailza Assis (PP) e Alan Rick (Republicanos) vão ao 2º turno no Acre, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mailza-assis-pp-e-alan-rick-republicanos-vao-ao-2o-turno-no-acre-projeta-datafolha.shtml)_
 
+- **[2026-10-05 00:12 UTC]** Alan Rick (Republicanos) diz que deve buscar alianças após avançar ao 2º turno no Acre: 'Diálogo'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/alan-rick-republicanos-diz-que-deve-buscar-aliancas-apos-avancar-ao-2o-turno-no-acre-dialogo.ghtml)_
+
