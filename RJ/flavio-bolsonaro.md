@@ -3644,3 +3644,6 @@
 - **[2026-10-04 21:57 UTC]** Diferença entre Flávio e Lula é a menor da história no 1º turno em eleição presidencial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/diferenca-entre-flavio-e-lula-e-a-menor-da-historia-no-1o-turno-em-eleicao-presidencial.shtml)_
 
+- **[2026-10-04 21:55 UTC]** É o fim da era do PT, diz Flávio Bolsonaro após terminar 1º turno na frente de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/e-o-fim-da-era-do-pt-diz-flavio-bolsonaro-apos-terminar-primeiro-turno-na-frente-de-lula.shtml)_
+
