@@ -35,3 +35,6 @@
 - **[2026-10-03 18:38 UTC]** Datafolha: Senado em MG tem Marília com 21%, Viana, 19%, Sávio, 17%, e Aécio, 13%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-senado-em-mg-tem-marilia-com-21-viana-19-savio-17-e-aecio-13.shtml)_
 
+- **[2026-10-04 21:14 UTC]** Domingos Sávio, do PL, e Marília Campos, do PT, são eleitos senadores por MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/domingos-savio-do-pl-e-marilia-campos-do-pt-sao-eleitos-senadores-por-mg.shtml)_
+
