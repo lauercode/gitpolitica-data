@@ -35,3 +35,6 @@
 - **[2026-10-04 18:57 UTC]** Jerônimo Rodrigues (PT) derrota ACM Neto (União) na Bahia e é reeleito governador, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jeronimo-rodrigues-pt-derrota-acm-neto-uniao-na-bahia-e-e-reeleito-governador-projeta-datafolha.shtml)_
 
+- **[2026-10-05 00:14 UTC]** Na Bahia, Jerônimo Rodrigues está eleito no primeiro turno com 55,29% dos votos
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/04/na-bahia-jeronimo-rodrigues-esta-eleito-no-primeiro-turno-com-5519percent-dos-votos.ghtml)_
+
