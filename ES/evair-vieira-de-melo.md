@@ -17,3 +17,6 @@
 - **[2026-10-05 07:29 UTC]** Resultado das eleições 2026 em Porto Walter (AC): votação para presidente na Escola José de Melo Barreto, na 4ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-porto-walter-ac-votacao-para-presidente-na-escola-jose-de-melo-barreto-na-4a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 17:22 UTC]** Resultado das eleições 2026 em Arapiraca (AL): votação para presidente na Escola Professor Luiz Alberto de Melo, na 55ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-arapiraca-al-votacao-para-presidente-na-escola-professor-luiz-alberto-de-melo-na-55a-zona-eleitoral.ghtml)_
+
