@@ -68,3 +68,6 @@
 - **[2026-10-05 00:52 UTC]** Eduardo Braide é eleito governador do Maranhão em primeiro tuno
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/eduardo-braide-e-eleito-governador-do-maranhao-em-primeiro-tuno)_
 
+- **[2026-10-05 18:17 UTC]** Orleans Brandão agradece votos e parabeniza Eduardo Braide pela vitória no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/orleans-agradece-votos-e-parabeniza-eduardo-braide-pela-vitoria-no-maranhao.ghtml)_
+
