@@ -38,3 +38,6 @@
 - **[2026-10-02 20:22 UTC]** Datafolha em PE: Lula, 61%; Flávio Bolsonaro, 25%; Renan, 3%; Cury, 3%; Caiado, 1%
   _fonte: [G1 - Política:](https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/02/datafolha-pe-presidente-3-de-outubro.ghtml)_
 
+- **[2026-10-04 21:15 UTC]** Reeleita em PE, Raquel Lyra resiste a apoiar Lula no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/reeleita-em-pe-raquel-lyra-resiste-a-apoiar-lula-no-segundo-turno.shtml)_
+
