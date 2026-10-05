@@ -95,3 +95,6 @@
 - **[2026-10-04 21:58 UTC]** Quem é Lucas Ribeiro, governador reeleito da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/quem-e-lucas-ribeiro-reeleito-governador-da-paraiba.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Lucas Ribeiro é reeleito na Paraíba com 64% dos votos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/lucas-ribeiro-e-reeleito-na-paraiba-com-64-dos-votos.ghtml)_
+
