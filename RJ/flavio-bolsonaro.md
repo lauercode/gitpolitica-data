@@ -3863,3 +3863,6 @@
 - **[2026-10-05 12:39 UTC]** Onda da direita supera a de 2018, fragiliza Lula em estados-chave e impulsiona Flávio no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/onda-da-direita-supera-a-de-2018-fragiliza-lula-em-estados-chave-e-impulsiona-flavio-no-2o-turno.shtml)_
 
+- **[2026-10-05 12:30 UTC]** Flávio Bolsonaro vence em 16 capitais e Lula leva 11; veja votos por zona eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-vence-em-16-capitais-e-lula-leva-11-veja-votos-por-zona-eleitoral.shtml)_
+
