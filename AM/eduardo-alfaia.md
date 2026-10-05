@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-10-05 09:42 UTC]** Eleições 2026: Eduardo Alfaia (Avante) é eleito deputado estadual pelo Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-eduardo-alfaia-avante-e-eleito-deputado-estadual-pelo-amazonas.ghtml)_
+
