@@ -71,3 +71,6 @@
 - **[2026-10-05 11:10 UTC]** Erika Hilton é a campeã de votos da bancada feminina
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309197-erika-hilton-e-a-campea-de-votos-da-bancada-feminina)_
 
+- **[2026-10-05 11:42 UTC]** Em ataque transfóbico após eleita, Eduarda Campopiano chama Erika Hilton de 'homem biológico' nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/eduardo-campopiano-faz-ataque-transfobico-a-erika-hilton-nas-redes-apos-ser-eleita-com-votacao-recorde.shtml)_
+
