@@ -20,3 +20,6 @@
 - **[2026-10-03 22:43 UTC]** Quaest para o Senado no AP, votos válidos: Rayssa Furlan, 30%; Randolfe Rodrigues, 21%; Lucas Barreto 21%
   _fonte: [G1 - Política:](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quaest-ap-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 23:46 UTC]** Rayssa Furlan (Podemos) e Lucas Barreto (PSD) são eleitos senadores pelo AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/rayssa-furlan-podemos-e-lucas-barreto-psd-sao-eleitos-senadores-pelo-ap.ghtml)_
+
