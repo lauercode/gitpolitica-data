@@ -3845,3 +3845,6 @@
 - **[2026-10-05 04:53 UTC]** Javier Milei, Netanyahu e Espriella parabenizam Flávio Bolsonaro após liderança no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/05/repercussao-lideres-internacionais-eleicao-2026.ghtml)_
 
+- **[2026-10-05 03:23 UTC]** Flávio Bolsonaro recebe 56 milhões de votos, e Lula, 53 milhões; compare com eleições de 2022
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/numero-votos-flavio-bolsonaro-lula-2026-2022.ghtml)_
+
