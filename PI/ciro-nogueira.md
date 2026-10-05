@@ -50,3 +50,6 @@
 - **[2026-10-03 16:17 UTC]** Nikolas Ferreira deixa Carlos Bolsonaro, Sergio Moro e Ciro Nogueira fora de indicações de voto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/nikolas-ferreira-deixa-carlos-bolsonaro-sergio-moro-e-ciro-nogueira-fora-de-indicacoes-de-voto.shtml)_
 
+- **[2026-10-04 21:24 UTC]** Marcelo Castro e Júlio César são eleitos ao Senado no Piauí, e Ciro Nogueira é derrotado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/marcelo-castro-e-julio-cesar-sao-eleitos-ao-senado-no-piaui-e-ciro-nogueira-e-derrotado.shtml)_
+
