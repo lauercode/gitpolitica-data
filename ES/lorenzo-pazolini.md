@@ -14,3 +14,6 @@
 - **[2026-10-04 22:06 UTC]** Espírito Santo terá 2º turno entre Lorenzo Pazolini e Ricardo Ferraço
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/espirito-santo-tera-2o-turno-entre-lorenzo-pazolini-e-ricardo-ferraco)_
 
+- **[2026-10-04 22:38 UTC]** ES: Lorenzo Pazolini e Ricardo Ferraço disputam segundo turno
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/es-lorenzo-pazolini-e-ricardo-ferraco-disputam-segundo-turno)_
+
