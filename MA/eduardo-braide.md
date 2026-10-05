@@ -56,3 +56,6 @@
 - **[2026-10-04 19:20 UTC]** Eduardo Braide (PSD) é eleito governador do Maranhão, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-braide-psd-e-eleito-governador-do-maranhao-projeta-datafolha.shtml)_
 
+- **[2026-10-04 21:21 UTC]** Maranhão elege Eduardo Braide governador no primeiro turno
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/maranhao-elege-eduardo-braide-governador-no-primeiro-turno)_
+
