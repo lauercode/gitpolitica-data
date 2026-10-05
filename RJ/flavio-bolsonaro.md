@@ -3770,3 +3770,6 @@
 - **[2026-10-05 05:43 UTC]** Netanyahu deseja 'grande' vitória a Flávio Bolsonaro no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/netanyahu-deseja-grande-vitoria-a-flavio-bolsonaro-no-2o-turno.shtml)_
 
+- **[2026-10-05 05:00 UTC]** Podcast analisa domínio bolsonarista e 2º turno entre Flávio Bolsonaro e Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-analisa-dominio-bolsonarista-e-2o-turno-entre-flavio-bolsonaro-e-lula.shtml)_
+
