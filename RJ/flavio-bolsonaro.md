@@ -3818,3 +3818,6 @@
 - **[2026-10-05 08:00 UTC]** Com onda de direita no país, Flávio lidera e enfrenta Lula no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/05/com-onda-de-direita-no-pais-flavio-lidera-e-enfrenta-lula-no-2o-turno.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Lula sai na frente na Europa e Flávio vence no Japão
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/lula-sai-na-frente-na-europa-e-flavio-vence-no-japao.ghtml)_
+
