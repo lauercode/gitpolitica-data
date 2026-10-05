@@ -35,3 +35,6 @@
 - **[2026-10-05 16:16 UTC]** Professora Dorinha (União) vence em 82 cidades do Tocantins; Vicentinho (PSDB), em 56
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/05/professora-dorinha-uniao-vence-em-82-cidades-do-tocantins-vicentinho-psdb-em-56.ghtml)_
 
+- **[2026-10-04 23:39 UTC]** Professora Dorinha (União) diz que vai ajustar campanha após avançar ao 2º turno no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/professora-dorinha-uniao-diz-que-vai-ajustar-campanha-apos-avancar-ao-2o-turno-no-tocantins.ghtml)_
+
