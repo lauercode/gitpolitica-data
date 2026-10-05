@@ -143,3 +143,6 @@
 - **[2026-10-05 00:25 UTC]** Em Minas Gerais, Cleitinho, do Republicanos, é eleito em 1º turno
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/em-minas-gerais-cleitinho-do-republicanos-e-eleito-em-1o-turno)_
 
+- **[2026-10-05 08:00 UTC]** Cleitinho vence no primeiro turno pedindo voto útil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/cleitinho-vence-no-primeiro-turno-pedindo-voto-util.ghtml)_
+
