@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-10-05 03:48 UTC]** Eleições 2026: Marcos Duarte (PRD) é eleito deputado estadual pelo Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-marcos-duarte-prd-e-eleito-deputado-estadual-pelo-tocantins.ghtml)_
+
