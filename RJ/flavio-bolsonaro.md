@@ -3620,3 +3620,6 @@
 - **[2026-10-04 23:57 UTC]** Filho de Bolsonaro e investigado pela PF, Flávio chega ao segundo turno com o objetivo de retomar o legado da família
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/filho-de-bolsonaro-e-investigado-pela-pf-flavio-chega-ao-segundo-turno-com-o-objetivo-de-retomar-o-legado-da-familia.ghtml)_
 
+- **[2026-10-04 23:56 UTC]** Flávio e Lula vão ao segundo turno, e eleição presidencial será decidida dia 25 de outubro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-e-lula-vao-ao-segundo-turno-e-eleicao-presidencial-sera-decidida-dia-25-de-outubro.ghtml)_
+
