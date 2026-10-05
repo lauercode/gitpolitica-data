@@ -32,3 +32,6 @@
 - **[2026-10-05 01:51 UTC]** Eleições 2026: Sergio Souza (MDB) é eleito deputado federal pelo Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-sergio-souza-mdb-e-eleito-deputado-federal-pelo-parana.ghtml)_
 
+- **[2026-10-05 04:15 UTC]** Como foram as horas que antecederam a Batalha da Inajar de Souza, que terá julgamento nesta segunda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/como-foram-as-horas-que-antecederam-a-batalha-da-inajar-de-souza-que-tera-julgamento-nesta-segunda.shtml)_
+
