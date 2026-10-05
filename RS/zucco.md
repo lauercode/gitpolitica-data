@@ -53,3 +53,6 @@
 - **[2026-10-04 23:49 UTC]** 'O que venceu, acima de tudo, foi uma nova esperança, um desejo de prosperidade', diz Zucco (PL), governador eleito do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/zucco-pl-governador-eleito-do-rs.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Zucco é eleito para o governo do Rio Grande do Sul
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/zucco-e-eleito-para-o-governo-do-rio-grande-do-sul.ghtml)_
+
