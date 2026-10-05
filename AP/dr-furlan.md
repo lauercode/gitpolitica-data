@@ -149,3 +149,6 @@
 - **[2026-10-05 08:00 UTC]** Dr. Furlan derrota candidato de Alcolumbre no Amapá
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/dr-furlan-derrota-candidato-de-alcolumbre-no-amapa.ghtml)_
 
+- **[2026-10-05 06:00 UTC]** Após vitória nas urnas, veja os desafios que aguardam Dr. Furlan no Governo do Amapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/05/apos-vitoria-nas-urnas-veja-os-desafios-que-aguardam-dr-furlan-no-governo-do-amapa.ghtml)_
+
