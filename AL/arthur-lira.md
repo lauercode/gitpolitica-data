@@ -32,3 +32,6 @@
 - **[2026-10-04 21:32 UTC]** Arthur Lira e Marina JHC são eleitos ao Senado em AL; Renan Calheiros é derrotado após 4 mandatos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/arthur-lira-e-renata-jhc-sao-eleitos-ao-senado-em-al-renan-calheiros-e-derrotado-apos-4-mandatos.shtml)_
 
+- **[2026-10-05 00:14 UTC]** Arthur Lira (PP) e Marina Candia (PSDB) são eleitos senadores por Alagoas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/04/arthur-lira-pp-e-marina-candia-psdb-sao-eleitos-senadores-por-alagoas.ghtml)_
+
