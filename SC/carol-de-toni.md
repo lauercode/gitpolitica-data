@@ -26,3 +26,6 @@
 - **[2026-10-04 22:58 UTC]** Carol de Toni e Carlos Bolsonaro, ambos do PL, se elegem senadores por SC
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/carol-de-toni-e-carlos-bolsonaro-ambos-do-pl-se-elegem-senadores-por-sc.ghtml)_
 
+- **[2026-10-05 02:08 UTC]** Jorginho Mello (PL) é reeleito governador de SC; Carol De Toni e Carlos Bolsonaro vencem no Senado
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-santa-catarina.ghtml)_
+
