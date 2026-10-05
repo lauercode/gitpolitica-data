@@ -11,3 +11,6 @@
 - **[2026-08-24 22:39 UTC]** Carro fecha motociclista na avenida Carlos Pereira de Melo e causa acidente em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/24/carro-fecha-motociclista-na-avenida-carlos-pereira-de-melo-e-causa-acidente-em-boa-vista.ghtml)_
 
+- **[2026-10-05 08:17 UTC]** Resultado das eleições 2026 em Feliz Deserto (AL): votação para presidente na Escola de 1 e 2 Graus Senador Arnon de Melo, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-feliz-deserto-al-votacao-para-presidente-na-escola-de-1-e-2-graus-senador-arnon-de-melo-na-7a-zona-eleitoral.ghtml)_
+
