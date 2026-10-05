@@ -20,3 +20,6 @@
 - **[2026-10-03 18:11 UTC]** Siqueira Campos Júnior desiste de disputar o governo do Tocantins e declara apoio a Professora Dorinha
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/siqueira-campos-junior-desiste-de-disputar-o-governo-do-tocantins-e-declara-apoio-a-professora-dorinha.ghtml)_
 
+- **[2026-10-05 03:02 UTC]** Eleições 2026: Andréia Siqueira (PSB) é eleita deputada federal pelo Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-andreia-siqueira-psb-e-eleita-deputada-federal-pelo-para.ghtml)_
+
