@@ -86,3 +86,6 @@
 - **[2026-10-04 13:37 UTC]** Governo de SC: João Rodrigues (PSD) vota em Chapecó
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/governo-de-sc-joao-rodrigues-psd-vota-em-chapeco.ghtml)_
 
+- **[2026-10-05 01:19 UTC]** João Rodrigues reconhece vitória de Jorginho em SC e cobra: 'espero que atenda as demandas que eu apontei'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/joao-rodrigues-reconhece-vitoria-jorginho-sc.ghtml)_
+
