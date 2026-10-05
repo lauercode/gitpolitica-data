@@ -119,3 +119,6 @@
 - **[2026-10-05 01:02 UTC]** 'Preparar Santa Catarina para os próximos 30 anos', diz Jorginho Mello após reeleição no 1º turno
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/preparar-santa-catarina-para-os-proximos-30-anos-diz-jorginho-mello.ghtml)_
 
+- **[2026-10-04 22:16 UTC]** Jorginho Mello (PL) é reeleito governador de Santa Catarina no 1º turno
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/jorginho-mello-pl-reeleito-governador-de-santa-catarina.ghtml)_
+
