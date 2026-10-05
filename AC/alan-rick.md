@@ -545,3 +545,6 @@
 - **[2026-10-04 23:46 UTC]** Mailza Assis e Alan Rick vão para o 2º turno no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/mailza-assis-e-alan-rick-vao-para-o-2o-turno-no-acre.ghtml)_
 
+- **[2026-10-05 14:12 UTC]** Motores do helicóptero que caiu com cantor Rick são retirados de área de mata em SC após duas semanas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/05/motores-helicoptero-caiu-cantor-rick-retirados-sc-duas-semanas.ghtml)_
+
