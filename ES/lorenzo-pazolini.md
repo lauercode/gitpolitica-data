@@ -17,3 +17,6 @@
 - **[2026-10-04 22:38 UTC]** ES: Lorenzo Pazolini e Ricardo Ferraço disputam segundo turno
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/es-lorenzo-pazolini-e-ricardo-ferraco-disputam-segundo-turno)_
 
+- **[2026-10-04 23:32 UTC]** No ES, segundo turno será entre Lorenzo Pazolini e Ricardo Ferraço
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-es-segundo-turno-sera-entre-lorenzo-pazolini-e-ricardo-ferraco.ghtml)_
+
