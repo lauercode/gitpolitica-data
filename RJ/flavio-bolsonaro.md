@@ -3842,3 +3842,6 @@
 - **[2026-10-05 12:03 UTC]** Flávio Bolsonaro se reúne com Tarcísio e Nikolas para discutir estratégia para o segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/05/flavio-bolsonaro-reune-campanha-para-tracar-estrategia-para-2o-turno.ghtml)_
 
+- **[2026-10-05 04:53 UTC]** Javier Milei, Netanyahu e Espriella parabenizam Flávio Bolsonaro após liderança no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/05/repercussao-lideres-internacionais-eleicao-2026.ghtml)_
+
