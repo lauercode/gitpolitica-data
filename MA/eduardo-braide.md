@@ -65,3 +65,6 @@
 - **[2026-10-05 01:02 UTC]** Eduardo Braide é eleito para o governo do Maranhão
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/eduardo-braide-e-eleito-para-o-governo-do-maranhao.ghtml)_
 
+- **[2026-10-05 00:52 UTC]** Eduardo Braide é eleito governador do Maranhão em primeiro tuno
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/eduardo-braide-e-eleito-governador-do-maranhao-em-primeiro-tuno)_
+
