@@ -3647,3 +3647,6 @@
 - **[2026-10-04 21:55 UTC]** É o fim da era do PT, diz Flávio Bolsonaro após terminar 1º turno na frente de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/e-o-fim-da-era-do-pt-diz-flavio-bolsonaro-apos-terminar-primeiro-turno-na-frente-de-lula.shtml)_
 
+- **[2026-10-04 21:53 UTC]** Lula fala que resultado inesperado é lição e ataca Flávio Bolsonaro por Master e 'ligações tenebrosas'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-fala-que-resultado-inesperado-e-licao-e-ataca-flavio-bolsonaro-por-master-e-ligacoes-tenebrosas.shtml)_
+
