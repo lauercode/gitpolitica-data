@@ -3896,3 +3896,6 @@
 - **[2026-10-05 13:40 UTC]** Os gráficos que explicam como Flávio Bolsonaro chegou à frente de Lula no 1º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crq8nx1qq8j4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 13:46 UTC]** Lula vence em 54 municípios do Amazonas; Flávio Bolsonaro ganha em Manaus e outras 7 cidades
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/lula-vence-em-54-municipios-do-amazonas-flavio-bolsonaro-ganha-em-manaus-e-outras-7-cidades.ghtml)_
+
