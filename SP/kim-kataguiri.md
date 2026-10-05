@@ -20,3 +20,6 @@
 - **[2026-10-04 23:56 UTC]** Kim Kataguiri renega promessa de renunciar se Renan tivesse 3% dos votos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/kim-karaguiri-renega-promessa-de-renunciar-se-renan-tivesse-3-dos-votos.shtml)_
 
+- **[2026-10-05 18:16 UTC]** Kim Kataguiri diz que não renunciará após Renan Santos ficar abaixo de 3%
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/kim-kataguiri-diz-que-nao-renunciara-apos-renan-santos-ficar-abaixo-de-tres/)_
+
