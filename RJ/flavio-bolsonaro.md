@@ -3812,3 +3812,6 @@
 - **[2026-10-05 08:00 UTC]** ‘Flávio é fenômeno quase tão impressionante quanto o pai’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/flavio-e-fenomeno-quase-tao-impressionante-quanto-o-pai.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Flávio surpreende e chega à frente com onda da direita
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/flavio-surpreende-e-chega-a-frente-com-onda-da-direita.ghtml)_
+
