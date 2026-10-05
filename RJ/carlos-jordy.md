@@ -41,3 +41,6 @@
 - **[2026-10-05 00:41 UTC]** No RJ, Carlos Portinho e Carlos Jordy, do PL, estão eleitos para o Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-rj-carlos-portinho-e-carlos-jordy-do-pl-estao-eleitos-para-o-senado.ghtml)_
 
+- **[2026-10-05 17:52 UTC]** Eleito para o Senado pelo Rio, Jordy vê eleitor descontente com PT e  STF no Estado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/eleito-para-o-senado-pelo-rio-jordy-ve-eleitor-descontente-com-pt-e-stf-no-estado.ghtml)_
+
