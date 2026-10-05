@@ -428,3 +428,6 @@
 - **[2026-10-05 02:07 UTC]** Renan Santos prevê vitória de Flávio e diz que não apoiará ninguém no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-preve-vitoria-de-flavio-e-diz-que-nao-apoiara-ninguem-no-2o-turno/)_
 
+- **[2026-10-05 01:54 UTC]** Renan Santos afirma que Missão só elegerá Kim Kataguiri para a Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/renan-santos-afirma-que-misso-s-eleger-kim-kataguiri-para-a-cmara.ghtml)_
+
