@@ -3797,3 +3797,6 @@
 - **[2026-10-04 23:32 UTC]** Veja se sua cidade ou estado votou mais em Lula ou em Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-se-sua-cidade-ou-estado-votou-mais-em-lula-ou-em-flavio-bolsonaro.shtml)_
 
+- **[2026-10-05 03:13 UTC]** Só um de seis institutos de pesquisa apontava Flávio numericamente à frente de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/um-de-seis-institutos-de-pesquisa-apontava-flavio-numericamente-a-frente-de-lula/)_
+
