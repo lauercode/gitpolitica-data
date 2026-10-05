@@ -3746,3 +3746,6 @@
 - **[2026-10-05 02:45 UTC]** Veja as 10 cidades onde Lula e Flávio Bolsonaro tiveram os maiores percentuais de votos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/cidades-lula-flavio-bolsonaro-percentuais-de-votos.ghtml)_
 
+- **[2026-10-05 02:35 UTC]** Liderança de Flávio Bolsonaro faz fundo de Ibovespa disparar quase 10% em Tóquio
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/04/lideranca-de-flavio-bolsonaro-faz-fundo-de-ibovespa-disparar-quase-10percent-em-toquio.ghtml)_
+
