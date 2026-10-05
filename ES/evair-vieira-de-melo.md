@@ -14,3 +14,6 @@
 - **[2026-10-05 08:17 UTC]** Resultado das eleições 2026 em Feliz Deserto (AL): votação para presidente na Escola de 1 e 2 Graus Senador Arnon de Melo, na 7ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-feliz-deserto-al-votacao-para-presidente-na-escola-de-1-e-2-graus-senador-arnon-de-melo-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 07:29 UTC]** Resultado das eleições 2026 em Porto Walter (AC): votação para presidente na Escola José de Melo Barreto, na 4ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-porto-walter-ac-votacao-para-presidente-na-escola-jose-de-melo-barreto-na-4a-zona-eleitoral.ghtml)_
+
