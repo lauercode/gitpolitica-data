@@ -3707,3 +3707,6 @@
 - **[2026-10-05 08:34 UTC]** MAPAS: veja a geografia do voto que levou Flávio Bolsonaro e Lula ao 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/mapas-flavio-bolsonaro-e-lula-2o-turno.ghtml)_
 
+- **[2026-10-05 07:23 UTC]** Flávio Bolsonaro compensa vantagem de Lula no Nordeste com margem de votos no Sul e no Sudeste
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-bolsonaro-supera-vantagem-de-lula-no-nordeste-com-margem-no-sul-e-sudeste.ghtml)_
+
