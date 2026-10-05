@@ -119,3 +119,6 @@
 - **[2026-10-05 05:12 UTC]** Eleições 2026: 11 estados elegeram governadores que apoiaram Flávio Bolsonaro; e 5, aliados de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/governadores-primeiro-turno-apoio-flavio-lula.ghtml)_
 
+- **[2026-10-05 01:02 UTC]** Ex-ministros de Lula fracassam em eleição para governador e só dois vão ao Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ex-ministros-de-lula-fracassam-em-eleicao-para-governador-e-so-dois-vao-ao-senado.shtml)_
+
