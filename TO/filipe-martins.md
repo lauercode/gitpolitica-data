@@ -44,3 +44,6 @@
 - **[2026-10-02 23:00 UTC]** Editoras reagem a críticas de Martins Fontes contra descontos em livros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/editoras-reagem-a-criticas-de-martins-fontes-contra-descontos-em-livros.shtml)_
 
+- **[2026-10-05 01:44 UTC]** Eleições 2026: Filipe Martins (PL) é eleito deputado federal pelo Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-filipe-martins-pl-e-eleito-deputado-federal-pelo-tocantins.ghtml)_
+
