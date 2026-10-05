@@ -1166,3 +1166,6 @@ direitos
 - **[2026-10-05 00:16 UTC]** Veja como fica a bancada de Rondônia na Câmara dos Deputados a partir de 2027
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/04/veja-como-fica-a-bancada-de-rondonia-na-camara-dos-deputados-a-partir-de-2027.ghtml)_
 
+- **[2026-10-05 01:54 UTC]** Renan Santos afirma que Missão só elegerá Kim Kataguiri para a Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/renan-santos-afirma-que-misso-s-eleger-kim-kataguiri-para-a-cmara.ghtml)_
+
