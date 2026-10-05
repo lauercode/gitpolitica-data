@@ -17,3 +17,6 @@
 - **[2026-09-24 12:15 UTC]** Flup 2026 celebra mulheres negras com Ana Maria Gonçalves e Djamila Ribeiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/flup-2026-celebra-as-mulheres-negras-com-ana-maria-goncalves-e-djamila-ribeiro.shtml)_
 
+- **[2026-10-05 17:46 UTC]** Cozinheiro que fez Ana Maria Braga chorar atua há mais de 10 anos com pessoas em situação de rua em Porto Alegre
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/05/quem-e-julio-ritta-ana-maria-braga.ghtml)_
+
