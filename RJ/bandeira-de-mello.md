@@ -17,3 +17,6 @@
 - **[2026-09-16 15:41 UTC]** Supremo é maior do que todos os seus ministros, diz Celso de Mello
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/supremo-e-maior-do-que-todos-os-seus-ministros-diz-celso-de-mello.shtml)_
 
+- **[2026-10-05 17:18 UTC]** Resultado das eleições 2026 em Arapiraca (AL): votação para presidente na Escola de 1 Grau Fernando Collor de Mello, na 22ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-arapiraca-al-votacao-para-presidente-na-escola-de-1-grau-fernando-collor-de-mello-na-22a-zona-eleitoral.ghtml)_
+
