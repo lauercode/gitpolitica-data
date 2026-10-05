@@ -125,3 +125,6 @@
 - **[2026-10-05 00:16 UTC]** Cadu de Lula (PT) diz que 'coração é só gratidão' após avançar ao 2º turno no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/cadu-de-lula-se-pronuncia-apos-avancar-ao-2o-turno-no-rn.ghtml)_
 
+- **[2026-10-04 23:45 UTC]** Allyson Bezerra e Cadu de Lula vão disputar o 2º turno no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/resultado-governo-do-rn-allyson-e-cadu-de-lula-vao-para-o-2o-turno.ghtml)_
+
