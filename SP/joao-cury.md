@@ -425,3 +425,6 @@
 - **[2026-10-04 23:27 UTC]** Cury, Renan Santos e Caiado não declaram voto no 2º turno e criticam polarização
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cury-renan-santos-e-caiado-nao-declaram-voto-no-2o-turno-e-criticam-polarizacao.shtml)_
 
+- **[2026-10-05 13:34 UTC]** Terceiro colocado, Cury fala em manter “silêncio” no segundo turno
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/terceiro-colocado-cury-fala-em-manter-silencio-no-segundo-turno)_
+
