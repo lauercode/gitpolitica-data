@@ -113,3 +113,6 @@
 - **[2026-10-05 00:21 UTC]** Eleições 2026: O que aconteceu com os candidatos a governador aliados de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-o-que-aconteceu-com-os-candidatos-a-governador-aliados-de-lula.ghtml)_
 
+- **[2026-10-04 23:59 UTC]** No Rio Grande do Norte, Allyson (União) e Cadu de Lula (PT) disputarão 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-rio-grande-do-norte-allyson-uniao-e-cadu-de-lula-pt-disputarao-2o-turno.ghtml)_
+
