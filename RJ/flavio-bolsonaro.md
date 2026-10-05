@@ -3809,3 +3809,6 @@
 - **[2026-10-05 02:20 UTC]** Lula vence em Porto Alegre com 48,57% dos votos; Flávio Bolsonaro ficou em segundo lugar com 41,86%
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/lula-flavio-bolsonaro-porto-alegre.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** ‘Flávio é fenômeno quase tão impressionante quanto o pai’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/flavio-e-fenomeno-quase-tao-impressionante-quanto-o-pai.ghtml)_
+
