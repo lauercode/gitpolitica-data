@@ -59,3 +59,6 @@
 - **[2026-10-05 01:34 UTC]** RESULTADO: Dr. Daniel (Podemos) é eleito governador; Helder e Chicão, ao Senado
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-para.ghtml)_
 
+- **[2026-10-05 01:21 UTC]** Dr. Daniel (Podemos) diz que 1º ato de governo será rescindir contrato com empresa Águas do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/dr-daniel-podemos-diz-que-primeiro-ato-de-governo-sera-rescindir-contrato-com-aguas-do-para.ghtml)_
+
