@@ -26,3 +26,6 @@
 - **[2026-10-03 23:00 UTC]** 'A ficção e a realidade se encontram nesse cinema pornô', diz Caru Alves de Souza, cineasta que fará filme no Cine Dom José
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/a-ficcao-e-a-realidade-se-encontram-nesse-cinema-porno-diz-caru-alves-que-fara-filme-no-cine-dom-jose.shtml)_
 
+- **[2026-10-05 00:05 UTC]** 'O desenho se torna muito difícil para o presidente Lula no 2º turno', diz Creomar de Souza
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62yg06qzx7o?at_medium=RSS&at_campaign=rss)_
+
