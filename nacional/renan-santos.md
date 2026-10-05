@@ -431,3 +431,6 @@
 - **[2026-10-05 01:54 UTC]** Renan Santos afirma que Missão só elegerá Kim Kataguiri para a Câmara
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/renan-santos-afirma-que-misso-s-eleger-kim-kataguiri-para-a-cmara.ghtml)_
 
+- **[2026-10-04 23:27 UTC]** Cury, Renan Santos e Caiado não declaram voto no 2º turno e criticam polarização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cury-renan-santos-e-caiado-nao-declaram-voto-no-2o-turno-e-criticam-polarizacao.shtml)_
+
