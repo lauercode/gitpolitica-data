@@ -3662,3 +3662,6 @@
 - **[2026-10-04 21:32 UTC]** Trump passa o dia sem comentar eleição, e Milei comemora desempenho de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-passa-o-dia-sem-comentar-eleicao-e-milei-comemora-desempenho-de-flavio.shtml)_
 
+- **[2026-10-04 21:28 UTC]** Flávio agora tem tudo para jogar parado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/flavio-agora-tem-tudo-para-jogar-parado.shtml)_
+
