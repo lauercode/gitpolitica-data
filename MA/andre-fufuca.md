@@ -17,3 +17,6 @@
 - **[2026-10-05 00:16 UTC]** Fufuca (PP) e Lahesio Bonfim (NOVO) são eleitos senadores pelo MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/fufuca-pp-e-lahesio-bonfim-novo-sao-eleitos-senadores-pelo-ma.ghtml)_
 
+- **[2026-10-05 00:37 UTC]** No Maranhão, Fufuca (PP) e Lahesio Bonfim (Novo) estão eleitos para o Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-maranhao-fufuca-pp-e-lahesio-bonfim-novo-estao-eleitos-para-o-senado.ghtml)_
+
