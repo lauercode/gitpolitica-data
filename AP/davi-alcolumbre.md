@@ -290,3 +290,6 @@
 - **[2026-10-05 08:00 UTC]** Onda de direita impõe derrota a caciques; Renan e Alcolumbre são principais vítimas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/onda-de-direita-impoe-derrota-a-caciques-renan-e-alcolumbre-sao-principais-vitimas.ghtml)_
 
+- **[2026-10-05 08:00 UTC]** Dr. Furlan derrota candidato de Alcolumbre no Amapá
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/dr-furlan-derrota-candidato-de-alcolumbre-no-amapa.ghtml)_
+
