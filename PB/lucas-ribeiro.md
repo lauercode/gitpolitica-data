@@ -101,3 +101,6 @@
 - **[2026-10-05 09:49 UTC]** Lucas Ribeiro vence em 215 cidades, incluindo João Pessoa e Campina Grande
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/lucas-ribeiro-vence-em-215-cidades-incluindo-joao-pessoa-e-campina-grande.ghtml)_
 
+- **[2026-10-05 16:10 UTC]** Lucas Ribeiro pretende zerar IPVA para motoristas de aplicativo na PB nos primeiros 100 dias de governo
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/05/lucas-ribeiro-pretende-zerar-ipva-para-motoristas-de-aplicativo-na-pb-nos-primeiros-100-dias-de-governo.ghtml)_
+
