@@ -3887,3 +3887,6 @@
 - **[2026-10-05 17:53 UTC]** Bolsonaro pode ser candidato à presidência em 2030 se Flávio levar 2026, diz Valdemar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonaro-candidato-presidencia-2030-valdemar/)_
 
+- **[2026-10-05 17:44 UTC]** O que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c933xvxj7dryo?at_medium=RSS&at_campaign=rss)_
+
