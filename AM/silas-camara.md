@@ -1142,3 +1142,6 @@ direitos
 - **[2026-10-04 23:37 UTC]** Erika Hilton supera 1,5 milhão de votos e se torna a mulher mais votada da história para a Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/erika-hilton-mais-votada-camara-eleicao-2026.ghtml)_
 
+- **[2026-10-04 22:14 UTC]** Condenado na Lava Jato, Eduardo Cunha fracassa em voltar à Câmara por MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/condenado-na-lava-jato-eduardo-cunha-fracassa-em-voltar-a-camara-por-mg.shtml)_
+
