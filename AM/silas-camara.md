@@ -1241,3 +1241,6 @@ direitos
 - **[2026-10-05 12:35 UTC]** Eleições 2026: Paraíba elege uma mulher para a Câmara dos Deputados
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-paraiba-elege-uma-mulher-para-a-camara-dos-deputados.ghtml)_
 
+- **[2026-10-05 17:59 UTC]** Resultado da eleição altera quadro de vereadores da Câmara Municipal de Curitiba; veja o que muda
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/eleicao-altera-quadro-de-vereadores-da-camara-municipal-de-curitiba.ghtml)_
+
