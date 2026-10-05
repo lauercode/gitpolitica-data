@@ -35,3 +35,6 @@
 - **[2026-10-05 00:14 UTC]** Arthur Lira (PP) e Marina Candia (PSDB) são eleitos senadores por Alagoas
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/04/arthur-lira-pp-e-marina-candia-psdb-sao-eleitos-senadores-por-alagoas.ghtml)_
 
+- **[2026-10-04 22:35 UTC]** Arthur Lira e Marina JHC desbancam Renan Calheiros e são eleitos para o Senado em Alagoas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-40percent-das-urnas-apuradas-arthur-lira-e-marina-jhc-lideram-disputa-ao-senado-em-alagoas.ghtml)_
+
