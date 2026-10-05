@@ -3668,3 +3668,6 @@
 - **[2026-10-05 02:07 UTC]** Renan Santos prevê vitória de Flávio e diz que não apoiará ninguém no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-preve-vitoria-de-flavio-e-diz-que-nao-apoiara-ninguem-no-2o-turno/)_
 
+- **[2026-10-05 01:20 UTC]** Flávio impõe revanche a Lula e chega como favorito ao 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-impoe-revanche-a-lula-e-chega-como-favorito-ao-2o-turno/)_
+
