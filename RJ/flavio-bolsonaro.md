@@ -3761,3 +3761,6 @@
 - **[2026-10-05 02:13 UTC]** Eleição 2026: diferença entre Flávio e Lula é a menor da história entre candidatos no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/eleicao-2026-diferenca-entre-flavio-e-lula-e-a-menor-da-historia-no-1o-turno.ghtml)_
 
+- **[2026-10-05 00:41 UTC]** Após eleição ir ao segundo turno, Lula diz que acredita na vitória sobre Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/lula-discursa-apos-o-primeiro-turno.ghtml)_
+
