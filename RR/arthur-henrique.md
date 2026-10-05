@@ -68,3 +68,6 @@
 - **[2026-10-05 14:59 UTC]** Arthur Henrique, do PL, é eleito governador de Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/ao-vivo/eleicoes-2026-acompanhe-o-1-turno-em-roraima.ghtml)_
 
+- **[2026-10-04 23:16 UTC]** Arthur Henrique fala em priorizar saúde e levar atendimentos para o interior ao ser eleito governador de Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/arthur-henrique-fala-em-priorizar-saude-e-levar-atendimentos-para-o-interior-ao-ser-eleito-governador-de-roraima.ghtml)_
+
