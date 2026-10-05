@@ -47,3 +47,6 @@
 - **[2026-10-04 21:29 UTC]** No RS, Zucco (PL) está matematicamente eleito no 1° turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-20-pontos-percentuais-das-urnas-contabilizadas-zucco-tem-60-e-juliana-brizola-295-no-rs.ghtml)_
 
+- **[2026-10-04 22:13 UTC]** Zucco é eleito governador do Rio Grande do Sul em 1º turno
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/zucco-e-eleito-governador-do-rio-grande-do-sul-em-1o-turno)_
+
