@@ -68,3 +68,6 @@
 - **[2026-10-05 00:45 UTC]** Lucas Pavanato e Nikolas Ferreira já são os deputados mais votados da história: veja os 10 no topo da lista até agora
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3y0elvd819lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 04:10 UTC]** Nikolas Ferreira e Lucas Pavanato são os deputados mais votados da história: veja os 10 no topo da lista
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3y0elvd819lo?at_medium=RSS&at_campaign=rss)_
+
