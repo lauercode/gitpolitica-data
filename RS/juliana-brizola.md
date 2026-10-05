@@ -56,3 +56,6 @@
 - **[2026-10-04 17:38 UTC]** ‘Soberana mesmo é a urna’, diz Juliana Brizola sobre pesquisas no RS
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/soberana-mesmo-a-urna-diz-juliana-brizola-sobre-pesquisas-no-rs.ghtml)_
 
+- **[2026-10-05 01:05 UTC]** 'O que for crítica, será crítica, o que for construção, será construção', diz Juliana Brizola (PDT) após derrota no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/04/o-que-for-critica-sera-critica-o-que-for-construcao-sera-construcao-diz-juliana-brizola-pdt-apos-derrota-no-rs.ghtml)_
+
