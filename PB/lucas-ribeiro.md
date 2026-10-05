@@ -86,3 +86,6 @@
 - **[2026-10-04 23:00 UTC]** Apuração: Lucas Ribeiro (PP), apoiado por Motta, é reeleito governador da Paraíba
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/04/apurao-lucas-ribeiro-pp-apoiado-por-motta-reeleito-governador-da-paraba.ghtml)_
 
+- **[2026-10-05 01:03 UTC]** Lucas Ribeiro é o governador mais jovem eleito na Paraíba desde a redemocratização
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/lucas-ribeiro-governador-jovem-eleito-redemocratizacao.ghtml)_
+
