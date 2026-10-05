@@ -1223,3 +1223,6 @@ direitos
 - **[2026-10-05 15:27 UTC]** Bancada feminina bate recorde e é mais de esquerda que total da Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bancada-feminina-bate-recorde-e-e-mais-de-esquerda-que-total-da-camara.shtml)_
 
+- **[2026-10-05 13:30 UTC]** Nove vereadores de SP são eleitos deputados, e composição da Câmara municipal mudará
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/nove-vereadores-de-sp-sao-eleitos-deputados-e-composicao-da-camara-municipal-deve-mudar.shtml)_
+
