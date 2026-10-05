@@ -3836,3 +3836,6 @@
 - **[2026-10-05 12:49 UTC]** Flávio Bolsonaro conta com Tarcísio em SP e avanço no Nordeste para vencer no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/05/flavio-bolsonaro-conta-com-tarcisio-em-sp-e-avanco-no-nordeste-para-vencer-no-segundo-turno.ghtml)_
 
+- **[2026-10-05 12:21 UTC]** Campanha de Lula subestimou Flávio Bolsonaro e força do antipetismo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/analise-andreia-sadi-resultado-primeiro-turno.ghtml)_
+
