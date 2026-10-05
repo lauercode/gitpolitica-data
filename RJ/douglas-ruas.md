@@ -44,3 +44,6 @@
 - **[2026-10-04 15:18 UTC]** Douglas Ruas diz que não há conversas com Garotinho em torno de eventual apoio caso eleição vá para segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/douglas-ruas-diz-que-no-h-conversas-com-garotinho-em-torno-de-eventual-apoio-caso-eleio-v-para-segundo-turno.ghtml)_
 
+- **[2026-10-04 21:42 UTC]** Douglas Ruas e Eduardo Paes disputam o 2º turno para o governo do Rio
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/douglas-ruas-e-eduardo-paes-disputam-o-2o-turno-para-o-governo-do-rio)_
+
