@@ -3758,3 +3758,6 @@
 - **[2026-10-05 02:20 UTC]** Flávio Bolsonaro vence em mais cidades, e Lula domina capitais do Nordeste; veja distribuição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-lula-distribuicao-cidades.ghtml)_
 
+- **[2026-10-05 02:13 UTC]** Eleição 2026: diferença entre Flávio e Lula é a menor da história entre candidatos no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/eleicao-2026-diferenca-entre-flavio-e-lula-e-a-menor-da-historia-no-1o-turno.ghtml)_
+
