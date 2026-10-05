@@ -26,3 +26,6 @@
 - **[2026-10-05 13:08 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Eduardo Gomes, na 3ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-eduardo-gomes-na-3a-zona-eleitoral.ghtml)_
 
+- **[2026-10-04 21:50 UTC]** Eduardo Gomes (PL) e Alexandre Guimarães (MDB) são eleitos senadores pelo Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/04/resultado-senado-tocantins.ghtml)_
+
