@@ -53,3 +53,6 @@
 - **[2026-10-04 21:57 UTC]** Apuração: Com 82,86% das urnas, Mailza Assis (PP) lidera disputa pelo governo do Acre com 49,32% dos votos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-8286percent-das-urnas-mailza-assis-pp-lidera-disputa-pelo-governo-do-acre-com-4932percent-dos-votos.ghtml)_
 
+- **[2026-10-05 00:43 UTC]** 'Vitória está bem próxima', diz Mailza Assis (PP) após avançar ao 2º turno com quase 50% no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/vitoria-esta-bem-proxima-diz-mailza-assis-pp-apos-avancar-ao-2o-turno-no-acre.ghtml)_
+
