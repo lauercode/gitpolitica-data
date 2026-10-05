@@ -3773,3 +3773,6 @@
 - **[2026-10-05 05:00 UTC]** Podcast analisa domínio bolsonarista e 2º turno entre Flávio Bolsonaro e Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-analisa-dominio-bolsonarista-e-2o-turno-entre-flavio-bolsonaro-e-lula.shtml)_
 
+- **[2026-10-05 04:00 UTC]** Revés no 1º turno força Lula a rever estratégia de campanha contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/reves-no-1o-turno-forca-lula-a-rever-estrategia-de-campanha-contra-flavio-bolsonaro.shtml)_
+
