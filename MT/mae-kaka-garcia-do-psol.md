@@ -137,3 +137,6 @@
 - **[2026-10-05 03:45 UTC]** Eleições 2026: Luciana Genro (PSOL) é eleita deputada estadual pelo Rio Grande do Sul
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-luciana-genro-psol-e-eleita-deputada-estadual-pelo-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-05 03:43 UTC]** Eleições 2026: Marquito (PSOL) é eleito deputado estadual por Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-marquito-psol-e-eleito-deputado-estadual-por-santa-catarina.ghtml)_
+
