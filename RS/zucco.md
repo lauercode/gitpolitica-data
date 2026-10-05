@@ -59,3 +59,6 @@
 - **[2026-10-05 17:26 UTC]** Zucco fala sobre articulação entre RS, SP, PR e SC para fundo Sul-Sudeste e renegociar dívidas em entrevista à RBS TV
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/05/zucco-articulacao-estados-fundo-sul-sudeste.ghtml)_
 
+- **[2026-10-05 15:20 UTC]** Zucco (PL), governador eleito do RS, concede entrevista ao vivo na RBS TV
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/ao-vivo/zucco-pl-governador-eleito-do-rs-concede-entrevista-ao-vivo-na-rbs-tv.ghtml)_
+
