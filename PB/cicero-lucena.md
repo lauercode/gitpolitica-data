@@ -92,3 +92,6 @@
 - **[2026-10-04 13:45 UTC]** Cícero Lucena (MDB) vota em João Pessoa, PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/cicero-lucena-mdb-vota-em-joao-pessoa-pb.ghtml)_
 
+- **[2026-10-04 23:47 UTC]** Cícero Lucena (MDB) diz que recebe resultado com ‘serenidade’ após ficar em terceiro lugar no 1º turno na disputa pelo governo da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/cicero-lucena-mdb-diz-que-recebe-resultado-com-serenidade-apos-ficar-em-terceiro-lugar-no-1o-turno-na-disputa-pelo-governo-da-paraiba.ghtml)_
+
