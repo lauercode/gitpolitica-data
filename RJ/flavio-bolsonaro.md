@@ -3785,3 +3785,6 @@
 - **[2026-10-05 00:57 UTC]** Flávio Bolsonaro conquista 714 cidades que tiveram maioria de Lula em 2022
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-conquista-714-cidades-que-tiveram-maioria-de-lula-em-2022.shtml)_
 
+- **[2026-10-05 00:35 UTC]** Flávio tem 2,2 milhões de votos a mais, e Rio Grande do Sul e Minas Gerais viram desafio para Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-tem-22-milhoes-de-votos-a-mais-e-rio-grande-do-sul-e-minas-gerais-viram-desafio-para-petista.shtml)_
+
