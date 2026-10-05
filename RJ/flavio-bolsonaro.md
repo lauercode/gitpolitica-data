@@ -3866,3 +3866,6 @@
 - **[2026-10-05 12:30 UTC]** Flávio Bolsonaro vence em 16 capitais e Lula leva 11; veja votos por zona eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-vence-em-16-capitais-e-lula-leva-11-veja-votos-por-zona-eleitoral.shtml)_
 
+- **[2026-10-05 12:17 UTC]** Setor de infraestrutura vê pouca mudança com Lula ou Flávio Bolsonaro e cobra juros menores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/10/setor-de-infraestrutura-ve-pouca-mudanca-com-lula-ou-flavio-bolsonaro-e-cobra-juros-menores.shtml)_
+
