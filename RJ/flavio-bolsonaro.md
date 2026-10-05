@@ -3854,3 +3854,6 @@
 - **[2026-10-05 14:40 UTC]** Para entender a euforia do mercado com Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/para-entender-a-euforia-do-mercado-com-flavio-bolsonaro.shtml)_
 
+- **[2026-10-05 14:13 UTC]** Lula reforça no 2º turno discurso de que vitória de Flávio fará família Bolsonaro se perpetuar no poder
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-reforca-no-2o-turno-discurso-de-que-vitoria-de-flavio-fara-familia-bolsonaro-se-perpetuar-no-poder.shtml)_
+
