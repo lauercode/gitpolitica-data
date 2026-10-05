@@ -3593,3 +3593,6 @@
 - **[2026-10-04 20:34 UTC]** Apuração: Com 84,96% das urnas totalizadas, Flávio mantém dianteira com 48,47%; Lula tem 43,49%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-com-170-pontos-percentuais-das-urnas-totalizadas-flvio-tem-4919-lula-4219-e-cury-308-dos-votos.ghtml)_
 
+- **[2026-10-04 22:02 UTC]** Flávio e Lula se enfrentam no 2º turno da Presidência da República
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-e-lula-se-enfrentam-no-2o-turno-da-presidencia-da-republica)_
+
