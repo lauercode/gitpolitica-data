@@ -50,3 +50,6 @@
 - **[2026-10-05 00:37 UTC]** Douglas Ruas e Paes vão para o 2º tuno; ASSISTA à apuração
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-rj.ghtml)_
 
+- **[2026-10-05 14:57 UTC]** Garotinho desiste de recurso ao TSE e amplia brecha para eleição de Douglas Ruas no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/garotinho-desiste-de-recurso-ao-tse-e-abre-brecha-para-eleicao-de-douglas-ruas-no-rj.shtml)_
+
