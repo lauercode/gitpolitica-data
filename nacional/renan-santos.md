@@ -425,3 +425,6 @@
 - **[2026-10-04 22:00 UTC]** Renan Santos afirma que Brasil será governado pelo 'mais corrupto da família Bolsonaro'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-afirma-que-brasil-sera-governado-pelo-mais-corrupto-da-familia-bolsonaro.shtml)_
 
+- **[2026-10-05 02:07 UTC]** Renan Santos prevê vitória de Flávio e diz que não apoiará ninguém no 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-preve-vitoria-de-flavio-e-diz-que-nao-apoiara-ninguem-no-2o-turno/)_
+
