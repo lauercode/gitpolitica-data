@@ -1169,3 +1169,6 @@ direitos
 - **[2026-10-05 01:54 UTC]** Renan Santos afirma que Missão só elegerá Kim Kataguiri para a Câmara
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/renan-santos-afirma-que-misso-s-eleger-kim-kataguiri-para-a-cmara.ghtml)_
 
+- **[2026-10-05 00:13 UTC]** Candidatos à Câmara dos Deputados mais bem votados são de partidos de direita e centro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/pl-tem-11-dos-deputados-federais-mais-votados-nos-estados.ghtml)_
+
