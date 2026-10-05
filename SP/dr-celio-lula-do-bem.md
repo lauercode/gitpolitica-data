@@ -68,3 +68,6 @@
 - **[2026-10-04 15:20 UTC]** Alckmin vota em SP e diz que “salvamos a democracia” junto de Lula contra “golpe”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alckmin-vota-sp-salvamos-democracia-lula-golpe/)_
 
+- **[2026-10-05 09:09 UTC]** Lula perde votos nos maiores colégios eleitorais do país; em SP, queda chega a quase 1 milhão
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/lula-perde-votos-nos-maiores-colegios-eleitorais-do-pais-em-sp-queda-chega-a-quase-1-milhao.ghtml)_
+
