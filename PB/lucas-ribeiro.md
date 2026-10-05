@@ -89,3 +89,6 @@
 - **[2026-10-05 01:03 UTC]** Lucas Ribeiro é o governador mais jovem eleito na Paraíba desde a redemocratização
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/lucas-ribeiro-governador-jovem-eleito-redemocratizacao.ghtml)_
 
+- **[2026-10-05 00:15 UTC]** Lucas Ribeiro fala em 'levar o estado ainda mais longe' no primeiro discurso após vitória na Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/lucas-ribeiro-fala-em-levar-o-estado-ainda-mais-longe-no-primeiro-discurso-apos-vitoria-na-paraiba.ghtml)_
+
