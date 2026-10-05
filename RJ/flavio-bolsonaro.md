@@ -3767,3 +3767,6 @@
 - **[2026-10-05 06:00 UTC]** União Brasil-PP sinaliza apoio a Flávio Bolsonaro no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/uniao-brasil-pp-sinaliza-apoio-a-flavio-bolsonaro-no-2o-turno.shtml)_
 
+- **[2026-10-05 05:43 UTC]** Netanyahu deseja 'grande' vitória a Flávio Bolsonaro no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/netanyahu-deseja-grande-vitoria-a-flavio-bolsonaro-no-2o-turno.shtml)_
+
