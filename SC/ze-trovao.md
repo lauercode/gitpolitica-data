@@ -20,3 +20,6 @@
 - **[2026-09-17 23:54 UTC]** Flávio Bolsonaro diz que não autorizou ação de Zé Trovão contra reajuste do Bolsa Família: 'Não concordo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/flavio-diz-que-nao-autorizou-acao-de-ze-trovao-contra-reajuste-do-bolsa-familia-nao-concordo.ghtml)_
 
+- **[2026-10-05 01:38 UTC]** Eleições 2026: Zé Trovão (PL) é eleito deputado federal por Santa Catarina
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-ze-trovao-pl-e-eleito-deputado-federal-por-santa-catarina.ghtml)_
+
