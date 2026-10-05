@@ -17,3 +17,6 @@
 - **[2026-10-04 21:20 UTC]** Renan Calheiros e seu filho saem derrotados nas eleições do Alagoas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-calheiros-e-seu-filho-saem-derrotados-nas-eleicoes-do-alagoas.shtml)_
 
+- **[2026-10-04 22:35 UTC]** Arthur Lira e Marina JHC desbancam Renan Calheiros e são eleitos para o Senado em Alagoas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-com-40percent-das-urnas-apuradas-arthur-lira-e-marina-jhc-lideram-disputa-ao-senado-em-alagoas.ghtml)_
+
