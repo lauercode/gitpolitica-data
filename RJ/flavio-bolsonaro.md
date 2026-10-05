@@ -3674,3 +3674,6 @@
 - **[2026-10-05 00:47 UTC]** Flávio Bolsonaro x Lula: os contrastes dos projetos de Brasil que vão para o 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmpwg82gwd2zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 02:15 UTC]** Flávio diz que eleição 'é o fim da era do PT', e Lula diz que 2º turno mostrará 'fotografia real do Brasil'; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss)_
+
