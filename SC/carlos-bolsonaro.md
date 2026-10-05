@@ -44,3 +44,6 @@
 - **[2026-10-05 02:08 UTC]** Jorginho Mello (PL) é reeleito governador de SC; Carol De Toni e Carlos Bolsonaro vencem no Senado
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-santa-catarina.ghtml)_
 
+- **[2026-10-05 02:46 UTC]** Carlos Bolsonaro conquista Senado por SC e afasta rótulo de forasteiro: 'Sempre estive por perto'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/carlos-bolsonaro-senado-sc-afasta-rotulo-de-forasteiro.ghtml)_
+
