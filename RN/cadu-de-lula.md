@@ -116,3 +116,6 @@
 - **[2026-10-04 23:59 UTC]** No Rio Grande do Norte, Allyson (União) e Cadu de Lula (PT) disputarão 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-rio-grande-do-norte-allyson-uniao-e-cadu-de-lula-pt-disputarao-2o-turno.ghtml)_
 
+- **[2026-10-05 05:12 UTC]** Eleições 2026: 11 estados elegeram governadores que apoiaram Flávio Bolsonaro; e 5, aliados de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/governadores-primeiro-turno-apoio-flavio-lula.ghtml)_
+
