@@ -1058,3 +1058,6 @@
 - **[2026-10-05 02:01 UTC]** Flávio Bolsonaro toma dianteira em Minas Gerais e no Tocantins, onde Lula venceu em 2022; veja como foi a votação para presidente por estado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-toma-dianteira-em-minas-gerais-e-no-tocantins-onde-lula-venceu-em-2022-veja-como-foi-a-votacao-para-presidente-por-estado.ghtml)_
 
+- **[2026-10-05 00:05 UTC]** 'O desenho se torna muito difícil para o presidente Lula no 2º turno', diz Creomar de Souza
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62yg06qzx7o?at_medium=RSS&at_campaign=rss)_
+
