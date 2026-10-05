@@ -50,3 +50,6 @@
 - **[2026-10-03 22:24 UTC]** Quaest para o Senado no RN, votos válidos: Styvenson Valentim, 27%; Coronel Hélio, 20%; Samanda de Lula, 18%; Zenaide Maia, 17%
   _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/03/quaest-senado-rn-3-outubro.ghtml)_
 
+- **[2026-10-05 01:11 UTC]** No RN, Styvenson Valentim e Samanda de Lula são eleitos senadores
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-rn-styvenson-valentim-e-samanda-de-lula-sao-eleitos-senadores.ghtml)_
+
