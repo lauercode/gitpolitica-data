@@ -3755,3 +3755,6 @@
 - **[2026-10-05 02:21 UTC]** Flávio Bolsonaro lidera no DF e em 14 estados, e Lula, em 12; veja o mapa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-e-lula-estados-mapa.ghtml)_
 
+- **[2026-10-05 02:20 UTC]** Flávio Bolsonaro vence em mais cidades, e Lula domina capitais do Nordeste; veja distribuição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-bolsonaro-lula-distribuicao-cidades.ghtml)_
+
