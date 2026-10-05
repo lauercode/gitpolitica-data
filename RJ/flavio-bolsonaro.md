@@ -3614,3 +3614,6 @@
 - **[2026-10-05 00:12 UTC]** Peça-chave na campanha de Flávio Bolsonaro, Fernanda tenta suavizar imagem do marido
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/peca-chave-na-campanha-de-flavio-bolsonaro-fernanda-tenta-suavizar-imagem-do-marido.ghtml)_
 
+- **[2026-10-05 00:06 UTC]** Lula ou Flávio Bolsonaro? Veja quem venceu em cada país e o que mudou em relação a 2022
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/lula-flavio-bolsonaro-eleicao-exterior-2026-2022.ghtml)_
+
