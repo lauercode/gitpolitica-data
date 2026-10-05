@@ -431,3 +431,6 @@
 - **[2026-10-05 15:09 UTC]** Cury, Renan, Caiado e Zema falam sobre apoio no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/cury-renan-caiado-e-zema-falam-sobre-apoio-no-2o-turno.ghtml)_
 
+- **[2026-10-05 14:52 UTC]** Lula x Flávio no 2º turno: para onde vão os votos de Cury, Renan e Caiado?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm209062n3wgo?at_medium=RSS&at_campaign=rss)_
+
