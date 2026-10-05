@@ -26,3 +26,6 @@
 - **[2026-10-02 14:50 UTC]** Mega-Sena 3065: aposta de Rosário do Catete acerta quina e fatura R$ 49,5 mil
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/02/mega-sena-3065-apostas-de-sergipe-acertam-a-quadra-veja-cidades-e-valores.ghtml)_
 
+- **[2026-10-05 01:33 UTC]** Eleições 2026: Maria do Rosario (PT) é eleita deputada federal pelo Rio Grande do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-maria-do-rosario-pt-e-eleita-deputada-federal-pelo-rio-grande-do-sul.ghtml)_
+
