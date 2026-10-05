@@ -122,3 +122,6 @@
 - **[2026-10-05 01:02 UTC]** Ex-ministros de Lula fracassam em eleição para governador e só dois vão ao Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ex-ministros-de-lula-fracassam-em-eleicao-para-governador-e-so-dois-vao-ao-senado.shtml)_
 
+- **[2026-10-05 00:16 UTC]** Cadu de Lula (PT) diz que 'coração é só gratidão' após avançar ao 2º turno no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/cadu-de-lula-se-pronuncia-apos-avancar-ao-2o-turno-no-rn.ghtml)_
+
