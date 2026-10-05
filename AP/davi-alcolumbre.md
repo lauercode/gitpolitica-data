@@ -284,3 +284,6 @@
 - **[2026-10-04 18:50 UTC]** Dr. Furlan (PSD) derrota grupo de Alcolumbre e é eleito governador do AP, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/dr-furlan-psd-derrota-grupo-de-alcolumbre-e-e-eleito-governador-do-ap-projeta-datafolha.shtml)_
 
+- **[2026-10-05 00:40 UTC]** Derrota de aliados de Davi Alcolumbre no Amapá dificulta reeleição em 2030
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/derrota-de-aliados-de-davi-alcolumbre-no-amapa-dificulta-reeleicao-em-2030.shtml)_
+
