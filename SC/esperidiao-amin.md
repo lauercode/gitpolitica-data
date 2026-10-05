@@ -23,3 +23,6 @@
 - **[2026-10-04 11:51 UTC]** Senado por SC: Esperidião Amin (PP) vota em Florianópolis
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/04/senado-santa-catarina-esperidiao-amin-pp-vota-em-florianopolis.ghtml)_
 
+- **[2026-10-05 00:06 UTC]** Derrotado na reeleição ao Senado, Esperidião Amin diz que 'continua torcendo para o sucesso' de SC
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/esperidiao-amin-derrotado-reeleicao-senado-santa-catarina.ghtml)_
+
