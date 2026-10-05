@@ -140,3 +140,6 @@
 - **[2026-10-05 03:43 UTC]** Eleições 2026: Marquito (PSOL) é eleito deputado estadual por Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-marquito-psol-e-eleito-deputado-estadual-por-santa-catarina.ghtml)_
 
+- **[2026-10-05 11:29 UTC]** PSOL, PDT e Missão não superam cláusula de barreira, e só 14 partidos terão propaganda na TV; veja lista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/psol-missao-e-mais-tres-nao-devem-atingir-clausula-de-barreira-veja-lista-de-partidos-e-federacoes.shtml)_
+
