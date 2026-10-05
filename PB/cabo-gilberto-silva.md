@@ -8,3 +8,6 @@
 - **[2026-08-20 13:42 UTC]** Lula viaja com Motta para agenda no RN uma semana após agenda com Alcolumbre no Amapá
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/20/lula-viaja-com-motta-para-agenda-no-rn-uma-semana-apos-agenda-com-alcolumbre-no-amapa.ghtml)_
 
+- **[2026-10-05 03:05 UTC]** Eleições 2026: Cabo Gilberto Silva (PL) é eleito deputado federal pela Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-cabo-gilberto-silva-pl-e-eleito-deputado-federal-pela-paraiba.ghtml)_
+
