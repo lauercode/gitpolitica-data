@@ -158,3 +158,6 @@
 - **[2026-10-03 07:00 UTC]** Terra pode ter se 'inclinado' rapidamente na Era dos Dinossauros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/10/terra-pode-ter-se-inclinado-rapidamente-na-era-dos-dinossauros.shtml)_
 
+- **[2026-10-05 01:39 UTC]** Eleições 2026: Osmar Terra (PL) é eleito deputado federal pelo Rio Grande do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-osmar-terra-pl-e-eleito-deputado-federal-pelo-rio-grande-do-sul.ghtml)_
+
