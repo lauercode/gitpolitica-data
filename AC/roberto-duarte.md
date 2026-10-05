@@ -23,3 +23,6 @@
 - **[2026-08-24 18:27 UTC]** Gabriela Duarte republica influencer bolsonarista: 'Esquerdista da Folha tentou politizar'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/gabriela-duarte-republica-influencer-bolsonarista-esquerdista-da-folha-tentou-politizar.shtml)_
 
+- **[2026-10-05 01:25 UTC]** Eleições 2026: Roberto Duarte (Republicanos) é eleito deputado federal pelo Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-roberto-duarte-republicanos-e-eleito-deputado-federal-pelo-acre.ghtml)_
+
