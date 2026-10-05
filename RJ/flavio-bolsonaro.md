@@ -3905,3 +3905,6 @@
 - **[2026-10-05 18:27 UTC]** União Progressista baterá martelo sobre apoio a Flávio Bolsonaro nos próximos dias
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/uniao-progressista-batera-martelo-sobre-apoio-a-flavio-bolsonaro-nos-proximos-dias.ghtml)_
 
+- **[2026-10-05 17:56 UTC]** Tarcísio se reúne com Flávio para definir prioridades do 2º turno presidencial: 'empenho total'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/tarcisio-se-reune-flavio-para-definir-prioridades-do-2o-turno-presidencial-empenho-total.ghtml)_
+
