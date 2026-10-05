@@ -3695,3 +3695,6 @@
 - **[2026-10-05 00:46 UTC]** Fundo de ações brasileiras dispara mais de 8% na abertura dos negócios no Japão após Flávio surpreender no 1º turno
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/04/fundo-de-acoes-brasileiras-dispara-mais-de-8percent-na-abertura-dos-negocios-no-japao-apos-flavio-surpreender-no-1o-turno.ghtml)_
 
+- **[2026-10-05 00:37 UTC]** Tarcísio cobra ‘responsabilidade’ de SP para eleger Flávio no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/tarcsio-cobra-responsabilidade-de-sp-para-eleger-flvio-no-2-turno.ghtml)_
+
