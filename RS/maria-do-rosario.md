@@ -29,3 +29,6 @@
 - **[2026-10-05 01:33 UTC]** Eleições 2026: Maria do Rosario (PT) é eleita deputada federal pelo Rio Grande do Sul
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-maria-do-rosario-pt-e-eleita-deputada-federal-pelo-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-05 08:15 UTC]** Resultado das eleições 2026 em São José da Laje (AL): votação para presidente na Escola Municipal Maria do Rosário Cavalcante Silva, na 16ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-sao-jose-da-laje-al-votacao-para-presidente-na-escola-municipal-maria-do-rosario-cavalcante-silva-na-16a-zona-eleitoral.ghtml)_
+
