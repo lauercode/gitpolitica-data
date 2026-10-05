@@ -29,3 +29,6 @@
 - **[2026-10-05 02:08 UTC]** Jorginho Mello (PL) é reeleito governador de SC; Carol De Toni e Carlos Bolsonaro vencem no Senado
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-santa-catarina.ghtml)_
 
+- **[2026-10-05 02:31 UTC]** Carol de Toni (PL) se torna a senadora mais votada da história de SC: 'Fomos surpreendidos'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/carol-de-toni-pl-senadora-mais-votada-da-historia-de-sc.ghtml)_
+
