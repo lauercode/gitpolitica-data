@@ -143,3 +143,6 @@
 - **[2026-10-05 11:29 UTC]** PSOL, PDT e Missão não superam cláusula de barreira, e só 14 partidos terão propaganda na TV; veja lista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/psol-missao-e-mais-tres-nao-devem-atingir-clausula-de-barreira-veja-lista-de-partidos-e-federacoes.shtml)_
 
+- **[2026-10-05 14:48 UTC]** Cláusula de barreira atinge esquerda em cheio e deixa PSOL/Rede sem fundo partidário
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ideias/clausula-de-barreira-atinge-esquerda-em-cheio-e-deixa-psol-rede-sem-fundo-partidario/)_
+
