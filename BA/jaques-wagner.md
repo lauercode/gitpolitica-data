@@ -71,3 +71,6 @@
 - **[2026-10-03 22:25 UTC]** Quaest para o Senado na BA, votos válidos: Rui Costa, 33%; Jaques Wagner, 30%; Angelo Coronel, 18%; João Roma, 17%
   _fonte: [G1 - Política:](https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/03/quaest-bahia-senado-3-outubro.ghtml)_
 
+- **[2026-10-04 21:15 UTC]** Rui Costa e Jaques Wagner, do PT, são eleitos para o Senado na Bahia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/rui-costa-e-jaques-wagner-do-pt-sao-eleitos-para-o-senado-na-bahia.shtml)_
+
