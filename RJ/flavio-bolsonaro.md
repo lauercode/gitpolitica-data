@@ -3821,3 +3821,6 @@
 - **[2026-10-05 08:00 UTC]** Lula sai na frente na Europa e Flávio vence no Japão
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/lula-sai-na-frente-na-europa-e-flavio-vence-no-japao.ghtml)_
 
+- **[2026-10-05 17:40 UTC]** Flávio x Lula no 2º turno: quem cercou os candidatos em discurso após a apuração?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-x-lula-no-2o-turno-quem-cercou-os-candidatos-em-discurso-apos-a-apuracao.ghtml)_
+
