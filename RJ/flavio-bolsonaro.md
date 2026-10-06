@@ -4196,3 +4196,6 @@
 - **[2026-10-06 15:43 UTC]** Vitória de Flávio no primeiro turno expõe fraquezas de Lula, diz maior jornal econômico do mundo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/vitoria-flavio-primeiro-turno-expoe-fraquezas-lula-diz-maior-jornal-economico-mundo/)_
 
+- **[2026-10-06 14:36 UTC]** Com vantagem sobre Lula, Flávio mobiliza aliados e busca ampliar base no 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/com-vantagem-sobre-lula-flavio-mobiliza-aliados-busca-ampliar-base-segundo-turno/)_
+
