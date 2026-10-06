@@ -4220,3 +4220,6 @@
 - **[2026-10-06 16:21 UTC]** Derrotado em Minas, Mateus Simões reafirma apoio a Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/derrotado-em-minas-mateus-simoes-reafirma-apoio-a-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-06 15:43 UTC]** Alexandre de Moraes encaminha à PGR pedido de Bolsonaro para receber visita de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/06/alexandre-de-moraes-encaminha-a-pgr-pedido-de-bolsonaro-para-receber-visita-de-flavio.ghtml)_
+
