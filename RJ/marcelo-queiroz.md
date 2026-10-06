@@ -35,3 +35,6 @@
 - **[2026-10-06 08:05 UTC]** Resultado das eleições 2026 em Dom Eliseu (PA): votação para presidente no Emeif Fund. Maçonaria Leonardo Lourenco de Queiroz, na 84ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-dom-eliseu-pa-votacao-para-presidente-no-emeif-fund-maconaria-leonardo-lourenco-de-queiroz-na-84a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:48 UTC]** Resultado das eleições 2026 em Taperoá (PB): votação para presidente na Escola Doutor Adonias de Queiroz Mello, na 27ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-taperoa-pb-votacao-para-presidente-na-escola-doutor-adonias-de-queiroz-mello-na-27a-zona-eleitoral.ghtml)_
+
