@@ -62,3 +62,6 @@
 - **[2026-10-05 15:20 UTC]** Zucco (PL), governador eleito do RS, concede entrevista ao vivo na RBS TV
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/ao-vivo/zucco-pl-governador-eleito-do-rs-concede-entrevista-ao-vivo-na-rbs-tv.ghtml)_
 
+- **[2026-10-06 07:00 UTC]** Zucco vence Juliana Brizola em 475 das 497 cidades do RS; veja mapa
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/zucco-vence-juliana-brizola-em-475-das-497-cidades-do-rs-veja-mapa.ghtml)_
+
