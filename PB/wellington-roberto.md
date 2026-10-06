@@ -86,3 +86,6 @@
 - **[2026-10-05 03:09 UTC]** Eleições 2026: Wellington Roberto (PSD) é eleito deputado federal pela Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-wellington-roberto-psd-e-eleito-deputado-federal-pela-paraiba.ghtml)_
 
+- **[2026-10-05 23:04 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. Prof. Roberto dos Santos Vieira, na 68ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-prof-roberto-dos-santos-vieira-na-68a-zona-eleitoral.ghtml)_
+
