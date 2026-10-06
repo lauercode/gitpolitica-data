@@ -98,3 +98,6 @@
 - **[2026-10-06 04:31 UTC]** Resultado das eleições 2026 em Laranjal do Jari (AP): votação para presidente na Escola Municipal Terezinha Lima Queiroga de Souza, na 7ª zona eleitoral
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-laranjal-do-jari-ap-votacao-para-presidente-na-escola-municipal-terezinha-lima-queiroga-de-souza-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:05 UTC]** Resultado das eleições 2026 em Iranduba (AM): votação para presidente no E. M. Prof. Ervila de Souza Assis, na 56ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-iranduba-am-votacao-para-presidente-no-e-m-prof-ervila-de-souza-assis-na-56a-zona-eleitoral.ghtml)_
+
