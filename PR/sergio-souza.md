@@ -80,3 +80,6 @@
 - **[2026-10-06 04:24 UTC]** Resultado das eleições 2026 em Rio Largo (AL): votação para presidente no Grupo Escolar Dalmario de Souza, na 15ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rio-largo-al-votacao-para-presidente-no-grupo-escolar-dalmario-de-souza-na-15a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:24 UTC]** Resultado das eleições 2026 em Rio Largo (AL): votação para presidente no Grupo Escolar Odilo Alvares de Souza, na 15ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rio-largo-al-votacao-para-presidente-no-grupo-escolar-odilo-alvares-de-souza-na-15a-zona-eleitoral.ghtml)_
+
