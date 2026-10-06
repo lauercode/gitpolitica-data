@@ -17,3 +17,6 @@
 - **[2026-10-06 04:50 UTC]** Resultado das eleições 2026 em Tarauacá (AC): votação para presidente na Escola de Ensino Fundamental Delzuíte Barroso Braga de Araújo, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tarauaca-ac-votacao-para-presidente-na-escola-de-ensino-fundamental-delzuite-barroso-braga-de-araujo-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 06:58 UTC]** Resultado das eleições 2026 em Monte Alegre (PA): votação para presidente no Emef Antônio Pereira de Araújo, na 19ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-monte-alegre-pa-votacao-para-presidente-no-emef-antonio-pereira-de-araujo-na-19a-zona-eleitoral.ghtml)_
+
