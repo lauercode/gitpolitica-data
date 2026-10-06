@@ -26,3 +26,6 @@
 - **[2026-10-06 09:35 UTC]** Resultado das eleições 2026 em Ajuricaba (RS): votação para presidente na Escola Municipal E.F. João Batista de La Salle, na 23ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ajuricaba-rs-votacao-para-presidente-na-escola-municipal-e-f-joao-batista-de-la-salle-na-23a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:42 UTC]** Resultado das eleições 2026 em Serra Branca (PB): votação para presidente na Creche João Batista Albino de Souza, na 58ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-serra-branca-pb-votacao-para-presidente-na-creche-joao-batista-albino-de-souza-na-58a-zona-eleitoral.ghtml)_
+
