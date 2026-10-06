@@ -98,3 +98,6 @@
 - **[2026-10-06 22:44 UTC]** Coordenador de campanha de Flávio, Rogério Marinho é levado a hospital no DF após 'mal-estar'
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/senador-rogerio-marinho-tem-mal-estar-e-e-levado-a-hospital-no-df-apos-evento-com-flavio-em-go.ghtml)_
 
+- **[2026-10-06 23:19 UTC]** Rogério Marinho, coordenador da campanha de Flávio, é levado ao hospital após mal-estar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-coordenador-da-campanha-de-flavio-e-levado-ao-hospital-apos-mal-estar/)_
+
