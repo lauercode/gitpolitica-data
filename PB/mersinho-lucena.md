@@ -11,3 +11,6 @@
 - **[2026-09-29 15:30 UTC]** Casa de vice-prefeito de Lucena, na PB, é alvo de ataque a tiros, diz prefeitura
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/29/casa-de-vice-prefeito-de-lucena-na-pb-e-alvo-de-ataque-a-tiros-diz-prefeitura.ghtml)_
 
+- **[2026-10-06 11:29 UTC]** Resultado das eleições 2026 em Boa Vista (RR): votação para presidente na Escola Estadual Professora Antonia Coelho de Lucena, na 5ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-professora-antonia-coelho-de-lucena-na-5a-zona-eleitoral.ghtml)_
+
