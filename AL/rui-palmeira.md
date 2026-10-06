@@ -29,3 +29,6 @@
 - **[2026-10-05 13:37 UTC]** Resultado das eleições 2026 em São Miguel dos Campos (AL): votação para presidente na Escola Municipal Rui Palmeira, na 18ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-sao-miguel-dos-campos-al-votacao-para-presidente-na-escola-municipal-rui-palmeira-na-18a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 22:14 UTC]** Resultado das eleições 2026 em Senador Rui Palmeira (AL): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-senador-rui-palmeira-al-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
