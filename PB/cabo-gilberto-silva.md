@@ -26,3 +26,6 @@
 - **[2026-10-06 05:22 UTC]** Resultado das eleições 2026 em Santa Rita (PB): votação para presidente no Ciei - Dona Silva - Severina da Silva Santos, na 2ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-rita-pb-votacao-para-presidente-no-ciei-dona-silva-severina-da-silva-santos-na-2a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:53 UTC]** Resultado das eleições 2026 em Umbuzeiro (PB): votação para presidente no Grupo Escolar Municipal Joao Inacio da Silva Catu, na 18ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-umbuzeiro-pb-votacao-para-presidente-no-grupo-escolar-municipal-joao-inacio-da-silva-catu-na-18a-zona-eleitoral.ghtml)_
+
