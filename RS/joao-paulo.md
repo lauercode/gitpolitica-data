@@ -17,3 +17,6 @@
 - **[2026-10-06 17:15 UTC]** Resultado das eleições 2026 em Zé Doca (MA): votação para presidente na Escola Municipal João Paulo I, na 96ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ze-doca-ma-votacao-para-presidente-na-escola-municipal-joao-paulo-i-na-96a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:47 UTC]** Resultado das eleições 2026 em Alto Alegre dos Parecis (RO): votação para presidente no João Paulo I - Escola Municipal, na 19ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alto-alegre-dos-parecis-ro-votacao-para-presidente-no-joao-paulo-i-escola-municipal-na-19a-zona-eleitoral.ghtml)_
+
