@@ -29,3 +29,6 @@
 - **[2026-10-06 07:00 UTC]** Resultado das eleições 2026 em Curitiba (PR): votação para presidente na Escola Municipal Nossa Senhora do Carmo, na 174ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-curitiba-pr-votacao-para-presidente-na-escola-municipal-nossa-senhora-do-carmo-na-174a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:35 UTC]** Resultado das eleições 2026 em Alvorada (RS): votação para presidente no Nossa Senhora do Carmo E.E., na 74ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alvorada-rs-votacao-para-presidente-no-nossa-senhora-do-carmo-e-e-na-74a-zona-eleitoral.ghtml)_
+
