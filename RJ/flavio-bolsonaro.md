@@ -4067,3 +4067,6 @@
 - **[2026-10-06 03:30 UTC]** Flávio Bolsonaro x Lula no 2º turno: discursos e estratégias - O Assunto #1819
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/06/flavio-bolsonaro-x-lula-no-2o-turno-discursos-e-estrategias-o-assunto-1819.ghtml)_
 
+- **[2026-10-06 03:00 UTC]** Flávio ou Lula: crescimento do PL no Congresso pode impor desafio à governabilidade, a depender de quem vença eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/flavio-ou-lula-crescimento-do-pl-no-congresso-pode-impor-desafio-a-governabilidade-a-depender-de-quem-venca-eleicao.ghtml)_
+
