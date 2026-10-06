@@ -4046,3 +4046,6 @@
 - **[2026-10-05 21:03 UTC]** Flávio Bolsonaro vai a Goiânia em busca de apoio de Caiado no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/flavio-bolsonaro-vai-a-goiania-em-busca-de-apoio-de-caiado-no-segundo-turno.ghtml)_
 
+- **[2026-10-05 20:55 UTC]** Flávio Bolsonaro vai a Goiânia amanhã em busca de apoio de Caiado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/flavio-bolsonaro-vai-a-goiania-amanha-em-busca-de-apoio-de-caiado.ghtml)_
+
