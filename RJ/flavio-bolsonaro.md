@@ -4142,3 +4142,6 @@
 - **[2026-10-06 11:32 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Flávio; ministro envia pedido à PGR
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-flavio-apos-resultado-do-primeiro-turno.ghtml)_
 
+- **[2026-10-06 16:22 UTC]** Campanha de Flávio Bolsonaro avalia ir a Aparecida no feriado de 12 de outubro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-flavio-bolsonaro-avalia-ir-a-aparecida-no-feriado-de-12-de-outubro.shtml)_
+
