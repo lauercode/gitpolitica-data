@@ -20,3 +20,6 @@
 - **[2026-09-27 19:56 UTC]** Rogério Marinho acusa Dino de atropelar decisão de Mendonça sobre Nossa Senhora para favorecer Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-acusa-dino-de-atropelar-decisao-de-mendonca-sobre-nossa-senhora-para-favorecer-lula/)_
 
+- **[2026-10-06 17:29 UTC]** Rogério Marinho diz que tratou sobre impeachment de ministros com Fachin
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/06/marinho-diz-que-tratou-sobre-impeachment-de-ministros-com-fachin.ghtml)_
+
