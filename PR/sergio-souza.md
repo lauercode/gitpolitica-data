@@ -101,3 +101,6 @@
 - **[2026-10-06 05:05 UTC]** Resultado das eleições 2026 em Iranduba (AM): votação para presidente no E. M. Prof. Ervila de Souza Assis, na 56ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-iranduba-am-votacao-para-presidente-no-e-m-prof-ervila-de-souza-assis-na-56a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:04 UTC]** Resultado das eleições 2026 em Manaquiri (AM): votação para presidente no E. M. Justiniano Bezerra de Souza, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-manaquiri-am-votacao-para-presidente-no-e-m-justiniano-bezerra-de-souza-na-23a-zona-eleitoral.ghtml)_
+
