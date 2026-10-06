@@ -26,3 +26,6 @@
 - **[2026-10-04 16:32 UTC]** Com Ana Paula Renault, Blogueirinha lidera na TV paga em estreia no Multishow
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/com-ana-paula-renault-blogueirinha-lidera-na-tv-paga-em-estreia-no-multishow.shtml)_
 
+- **[2026-10-06 15:55 UTC]** Resultado das eleições 2026 em Chupinguaia (RO): votação para presidente no Ana Paula Marques - Distrito de Boa Esperança - Escola Municipal, na 8ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-chupinguaia-ro-votacao-para-presidente-no-ana-paula-marques-distrito-de-boa-esperanca-escola-municipal-na-8a-zona-eleitoral.ghtml)_
+
