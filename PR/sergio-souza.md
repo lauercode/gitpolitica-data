@@ -143,3 +143,6 @@
 - **[2026-10-06 09:59 UTC]** Resultado das eleições 2026 em São José de Mipibu (RN): votação para presidente na Escola Municipal Genuíno de Souza Menino, na 7ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-de-mipibu-rn-votacao-para-presidente-na-escola-municipal-genuino-de-souza-menino-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:59 UTC]** Resultado das eleições 2026 em São Gonçalo do Amarante (RN): votação para presidente na Escola Municipal Professora Maria de Lourdes de Souza, na 51ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-goncalo-do-amarante-rn-votacao-para-presidente-na-escola-municipal-professora-maria-de-lourdes-de-souza-na-51a-zona-eleitoral.ghtml)_
+
