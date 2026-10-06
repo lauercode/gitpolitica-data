@@ -26,3 +26,6 @@
 - **[2026-10-06 07:50 UTC]** Resultado das eleições 2026 em Zé Doca (MA): votação para presidente no Ce Prof Francisco de Assis Amorim de Araújo (Bandeirante), na 96ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ze-doca-ma-votacao-para-presidente-no-ce-prof-francisco-de-assis-amorim-de-araujo-bandeirante-na-96a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:51 UTC]** Resultado das eleições 2026 em Várzea (PB): votação para presidente na Creche Municipal Joana de Araújo Morais, na 26ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-varzea-pb-votacao-para-presidente-na-creche-municipal-joana-de-araujo-morais-na-26a-zona-eleitoral.ghtml)_
+
