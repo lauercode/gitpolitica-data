@@ -176,3 +176,6 @@
 - **[2026-10-05 12:49 UTC]** Flávio Bolsonaro conta com Tarcísio em SP e avanço no Nordeste para vencer no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/05/flavio-bolsonaro-conta-com-tarcisio-em-sp-e-avanco-no-nordeste-para-vencer-no-segundo-turno.ghtml)_
 
+- **[2026-10-05 20:07 UTC]** Ao lado de Nikolas Ferreira, Tarcísio diz que vai 'mergulhar de cabeça' na campanha de Flávio Bolsonaro em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/ao-lado-de-nikolas-ferreira-tarcisio-diz-que-vai-mergulhar-de-cabeca-na-campanha-de-flavio-bolsonaro-em-sp.ghtml)_
+
