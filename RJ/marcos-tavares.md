@@ -29,3 +29,6 @@
 - **[2026-10-06 19:03 UTC]** Resultado das eleições 2026 em Tavares (RS): votação para presidente no Emei Vó Angelina Menegatti Costa, na 122ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tavares-rs-votacao-para-presidente-no-emei-vo-angelina-menegatti-costa-na-122a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 19:02 UTC]** Resultado das eleições 2026 em Tavares (RS): votação para presidente no E. M. de 1º Grau Incompleto Onofre Pires, na 122ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tavares-rs-votacao-para-presidente-no-e-m-de-1o-grau-incompleto-onofre-pires-na-122a-zona-eleitoral.ghtml)_
+
