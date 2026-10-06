@@ -4175,3 +4175,6 @@
 - **[2026-10-06 13:01 UTC]** Moraes manda PGR se manifestar sobre pedido de Bolsonaro para liberar visitas de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/moraes-manda-pgr-se-manifestar-sobre-pedido-de-bolsonaro-para-liberar-visitas-de-flavio.shtml)_
 
+- **[2026-10-06 12:40 UTC]** MC Mirella tem show cancelado em casa LGBT após apoio a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/mc-mirella-tem-show-cancelado-em-casa-lgbt-apos-apoio-a-flavio-bolsonaro.shtml)_
+
