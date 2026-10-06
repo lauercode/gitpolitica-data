@@ -35,3 +35,6 @@
 - **[2026-10-06 04:20 UTC]** Resultado das eleições 2026 em Penedo (AL): votação para presidente no Emeb Maria Lucinda de Almeida Peixoto (Antigo Caic), na 13ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-penedo-al-votacao-para-presidente-no-emeb-maria-lucinda-de-almeida-peixoto-antigo-caic-na-13a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:28 UTC]** Resultado das eleições 2026 em Solânea (PB): votação para presidente no Esc. Municipal de Ens. Fundamental Jose A. de Almeida, na 48ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-solanea-pb-votacao-para-presidente-no-esc-municipal-de-ens-fundamental-jose-a-de-almeida-na-48a-zona-eleitoral.ghtml)_
+
