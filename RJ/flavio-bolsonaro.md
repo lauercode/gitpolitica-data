@@ -3974,3 +3974,6 @@
 - **[2026-10-05 18:26 UTC]** Casas de análise projetam alta de até 45% para a Bolsa com vitória de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/casas-de-analise-projetam-alta-de-ate-45-para-a-bolsa-com-vitoria-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-05 18:10 UTC]** Michel Temer anuncia apoio a Flávio Bolsonaro no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/michel-temer-anuncia-apoio-a-flavio-bolsonaro-no-2o-turno.shtml)_
+
