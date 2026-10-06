@@ -161,3 +161,6 @@
 - **[2026-10-05 02:30 UTC]** Eleições 2026: Alex (PL) é eleito deputado estadual pelo Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-alex-pl-e-eleito-deputado-estadual-pelo-amapa.ghtml)_
 
+- **[2026-10-05 19:18 UTC]** BYX anuncia Alex Sander Gonçalves, ex-Pan, como sócio e VP de negócios
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/05/byx-anuncia-alex-sander-gonalves-ex-pan-como-scio-e-vp-de-negcios.ghtml)_
+
