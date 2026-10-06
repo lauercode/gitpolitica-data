@@ -4055,3 +4055,6 @@
 - **[2026-10-05 20:14 UTC]** Ex-presidente Michel Temer declara apoio a Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/ex-presidente-michel-temer-declara-apoio-a-flvio-bolsonaro.ghtml)_
 
+- **[2026-10-05 20:00 UTC]** Defesa de Jair Bolsonaro pede que Alexandre de Moraes autorize visita de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/05/defesa-de-jair-bolsonaro-pede-que-alexandre-de-moraes-autorize-visita-de-flvio.ghtml)_
+
