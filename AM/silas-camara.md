@@ -1271,3 +1271,6 @@ direitos
 - **[2026-10-05 19:01 UTC]** Ana Elisa, deputada mineira eleita com 21 anos, é a mais jovem brasileira na Câmara desde pelo menos 1994
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/ana-elisa-deputada-mineira-eleita-com-21-anos-e-a-mais-jovem-brasileira-na-camara-desde-1994.ghtml)_
 
+- **[2026-10-05 13:56 UTC]** Com 109 mulheres eleitas, Câmara dos Deputados terá maior bancada feminina da história
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/com-108-mulheres-eleitas-camara-dos-deputados-tera-maior-bancada-feminina-da-historia.ghtml)_
+
