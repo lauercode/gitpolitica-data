@@ -182,3 +182,6 @@
 - **[2026-10-06 13:53 UTC]** Resultado das eleições 2026 em Marques de Souza (RS): votação para presidente no Sociedade Cantores Unidos de Linha Bastos, na 29ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-marques-de-souza-rs-votacao-para-presidente-no-sociedade-cantores-unidos-de-linha-bastos-na-29a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 13:52 UTC]** Resultado das eleições 2026 em Marques de Souza (RS): como foi a votação no 1º turno
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-marques-de-souza-rs-como-foi-a-votacao-no-1o-turno.ghtml)_
+
