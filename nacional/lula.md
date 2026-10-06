@@ -1061,3 +1061,6 @@
 - **[2026-10-05 00:05 UTC]** 'O desenho se torna muito difícil para o presidente Lula no 2º turno', diz Creomar de Souza
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62yg06qzx7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 18:52 UTC]** Nova pesquisa Datafolha para presidente no segundo turno testa se eleitor muda voto entre Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/nova-pesquisa-datafolha-para-presidente-no-segundo-turno-testa-se-eleitor-muda-voto-entre-lula-e-flavio.ghtml)_
+
