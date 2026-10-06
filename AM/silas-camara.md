@@ -1325,3 +1325,6 @@ direitos
 - **[2026-10-06 16:46 UTC]** Nikolas, Pavanato, Erika Hilton e outros 30 candidatos 'puxaram' vagas para seus partidos na Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/nikolas-pavanato-erika-hilton-e-outros-30-candidatos-puxaram-vagas-para-seus-partidos-na-camara.ghtml)_
 
+- **[2026-10-05 19:30 UTC]** Câmara Municipal de SP tem dez vereadores eleitos deputados e terá nova composição em 2027
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/camara-municipal-de-sp-tem-nove-vereadores-eleitos-deputados-e-tera-nova-composicao-em-2027.ghtml)_
+
