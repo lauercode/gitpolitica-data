@@ -4205,3 +4205,6 @@
 - **[2026-10-06 15:38 UTC]** Sem mencionar Flávio, Trump diz que 1º turno 'foi uma grande vitória'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crkg7dj193xdo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-06 18:52 UTC]** Lula aposta em ameaça de cortes em programas sociais em ofensiva contra Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/lula-aposta-em-ameaa-de-cortes-em-programas-sociais-em-ofensiva-contra-flvio.ghtml)_
+
