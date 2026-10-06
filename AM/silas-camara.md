@@ -1256,3 +1256,6 @@ direitos
 - **[2026-10-05 18:29 UTC]** Renovação da Câmara federal chegou a 35%; veja nova composição da Casa
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/renovacao-da-camara-federal-chegou-35-veja-nova-composicao-da-casa)_
 
+- **[2026-10-05 18:50 UTC]** Confira o número de reeleitos, deputados de primeiro mandato e ex-deputados que voltam à Câmara
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309398-confira-o-numero-de-reeleitos-deputados-de-primeiro-mandato-e-ex-deputados-que-voltam-a-camara)_
+
