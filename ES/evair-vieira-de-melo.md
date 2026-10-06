@@ -38,3 +38,6 @@
 - **[2026-10-06 07:49 UTC]** Resultado das eleições 2026 em Santa Luzia do Paruá (MA): votação para presidente na Escola Municipal João Militão de Melo, na 80ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-luzia-do-parua-ma-votacao-para-presidente-na-escola-municipal-joao-militao-de-melo-na-80a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:11 UTC]** Resultado das eleições 2026 em Natal (RN): votação para presidente no E. E. Aldo Fernandes de Melo, na 69ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-natal-rn-votacao-para-presidente-no-e-e-aldo-fernandes-de-melo-na-69a-zona-eleitoral.ghtml)_
+
