@@ -35,3 +35,6 @@
 - **[2026-10-06 07:59 UTC]** Resultado das eleições 2026 em Parauapebas (PA): votação para presidente no Emef- Paulo Freire, na 106ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-parauapebas-pa-votacao-para-presidente-no-emef-paulo-freire-na-106a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Alvorada (RS): votação para presidente na Escola Municipal Paulo Freire, na 74ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alvorada-rs-votacao-para-presidente-na-escola-municipal-paulo-freire-na-74a-zona-eleitoral.ghtml)_
+
