@@ -32,3 +32,6 @@
 - **[2026-10-05 22:56 UTC]** Dr Daniel vence em Belém e outras 63 cidades do PA: veja mapa da votação por município
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/05/mapa-da-votacao-para-governador-no-para-veja-os-resultados-por-cidade.ghtml)_
 
+- **[2026-10-06 06:56 UTC]** Resultado das eleições 2026 em Goioerê (PR): votação para presidente na Escola Municipal Dr Daniel Portella, na 92ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-goioere-pr-votacao-para-presidente-na-escola-municipal-dr-daniel-portella-na-92a-zona-eleitoral.ghtml)_
+
