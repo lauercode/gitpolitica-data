@@ -107,3 +107,6 @@
 - **[2026-10-05 11:00 UTC]** Lucas Ribeiro: veja como foi a campanha do governador reeleito na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/lucas-ribeiro-veja-como-foi-a-campanha-do-governador-reeleito-na-pb.ghtml)_
 
+- **[2026-10-05 19:05 UTC]** Lucas Ribeiro, reeleito na PB, diz que quer diálogo com Assembleia Legislativa em novo governo; VÍDEO
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/lucas-ribeiro-reeleito-na-pb-diz-que-quer-dialogo-com-assembleia-legislativa-em-novo-governo-video.ghtml)_
+
