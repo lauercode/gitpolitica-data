@@ -4139,3 +4139,6 @@
 - **[2026-10-06 15:34 UTC]** Flávio diz que vai participar de debates contra Lula no 2º turno: ‘Eu já queria ter participado’
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/flavio-diz-que-vai-participar-de-debates-contra-lula-no-2o-turno-eu-ja-queria-ter-participado.ghtml)_
 
+- **[2026-10-06 11:32 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Flávio; ministro envia pedido à PGR
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-flavio-apos-resultado-do-primeiro-turno.ghtml)_
+
