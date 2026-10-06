@@ -4178,3 +4178,6 @@
 - **[2026-10-06 12:40 UTC]** MC Mirella tem show cancelado em casa LGBT após apoio a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/mc-mirella-tem-show-cancelado-em-casa-lgbt-apos-apoio-a-flavio-bolsonaro.shtml)_
 
+- **[2026-10-06 12:18 UTC]** Tarcísio articula apoio do Republicanos a Flávio Bolsonaro, e Podemos deve anunciar adesão na 5ª
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-se-reune-com-cupula-do-republicanos-e-partido-deve-anunciar-apoio-a-flavio-nos-proximos-dias.shtml)_
+
