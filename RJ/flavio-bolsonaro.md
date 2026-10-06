@@ -3941,3 +3941,6 @@
 - **[2026-10-05 20:58 UTC]** Entidades europeias veem riscos geopolítico, ambiental e comercial se Flávio Bolsonaro vencer
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/entidades-europeias-veem-riscos-geopolitico-ambiental-e-comercial-se-flavio-bolsonaro-vencer.shtml)_
 
+- **[2026-10-05 20:49 UTC]** Vitória de Flávio seria derrota para grandes denominações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/10/vitoria-de-flavio-seria-derrota-para-grandes-denominacoes.shtml)_
+
