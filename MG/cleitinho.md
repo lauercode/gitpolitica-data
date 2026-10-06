@@ -155,3 +155,6 @@
 - **[2026-10-05 22:19 UTC]** Cleitinho reafirma apoio a Flávio Bolsonaro no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/cleitinho-reafirma-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-06 15:02 UTC]** Cleitinho faz procedimentos estéticos um dia após ser eleito governador de MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/cleitinho-faz-procedimentos-esteticos-um-dia-apos-ser-eleito-governador-de-mg.shtml)_
+
