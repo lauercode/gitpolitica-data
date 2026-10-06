@@ -4079,3 +4079,6 @@
 - **[2026-10-06 03:00 UTC]** Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/06/ibovespa-dispara-e-dolar-cai-apos-1o-turno-por-que-a-vantagem-de-flavio-sobre-lula-animou-o-mercado.ghtml)_
 
+- **[2026-10-06 03:00 UTC]** A única cidade no exterior em que Flávio Bolsonaro não ficou entre os dois primeiros
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/06/a-unica-cidade-no-exterior-em-que-flavio-bolsonaro-nao-ficou-entre-os-dois-primeiros.ghtml)_
+
