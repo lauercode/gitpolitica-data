@@ -92,3 +92,6 @@
 - **[2026-10-06 04:35 UTC]** Resultado das eleições 2026 em Santana (AP): votação para presidente no E.M. Professora Maria Ilnah de Souza, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santana-ap-votacao-para-presidente-no-e-m-professora-maria-ilnah-de-souza-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:32 UTC]** Resultado das eleições 2026 em Laranjal do Jari (AP): votação para presidente na Escola Municipal João Queiroga de Souza, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-laranjal-do-jari-ap-votacao-para-presidente-na-escola-municipal-joao-queiroga-de-souza-na-7a-zona-eleitoral.ghtml)_
+
