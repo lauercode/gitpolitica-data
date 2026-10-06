@@ -215,3 +215,6 @@
 - **[2026-10-06 17:42 UTC]** Resultado das eleições 2026 em Serra Branca (PB): votação para presidente na Creche João Batista Albino de Souza, na 58ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-serra-branca-pb-votacao-para-presidente-na-creche-joao-batista-albino-de-souza-na-58a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:42 UTC]** Resultado das eleições 2026 em Sapé (PB): votação para presidente no Esc. Mun. de Ensino Fundamental Emília Cavalcante de Morais (Souza), na 4ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sape-pb-votacao-para-presidente-no-esc-mun-de-ensino-fundamental-emilia-cavalcante-de-morais-souza-na-4a-zona-eleitoral.ghtml)_
+
