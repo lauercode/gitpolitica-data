@@ -4295,3 +4295,6 @@
 - **[2026-10-06 23:11 UTC]** Gilmar arquiva investigação contra vice de Flávio sobre suspeitas de estupro de vulnerável
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/gilmar-arquiva-investigacao-contra-vice-de-flavio-sobre-suspeitas-de-estupro-de-vulneravel.ghtml)_
 
+- **[2026-10-06 23:09 UTC]** Flávio nega haver discussão sobre Bolsonaro fazer parte de eventual governo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flavio-nega-haver-discussao-sobre-bolsonaro-fazer-parte-de-eventual-governo.ghtml)_
+
