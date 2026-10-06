@@ -77,3 +77,6 @@
 - **[2026-10-05 23:50 UTC]** Vitoria histórica da direita nas urnas acua o STF e consagra Jair Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/vitoria-historica-da-direita-nas-urnas-acua-o-stf-e-consagra-jair-bolsonaro/)_
 
+- **[2026-10-05 20:00 UTC]** Defesa de Jair Bolsonaro pede que Alexandre de Moraes autorize visita de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/05/defesa-de-jair-bolsonaro-pede-que-alexandre-de-moraes-autorize-visita-de-flvio.ghtml)_
+
