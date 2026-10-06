@@ -4208,3 +4208,6 @@
 - **[2026-10-06 18:52 UTC]** Lula aposta em ameaça de cortes em programas sociais em ofensiva contra Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/lula-aposta-em-ameaa-de-cortes-em-programas-sociais-em-ofensiva-contra-flvio.ghtml)_
 
+- **[2026-10-06 18:45 UTC]** Flávio Bolsonaro e Lula são contra ou a favor do fim da escala 6x1? Entenda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/escala-6x1-como-flavio-e-lula-se-posicionam-sobre-proposta-de-reducao-de-jornada.ghtml)_
+
