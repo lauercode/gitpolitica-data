@@ -14,3 +14,6 @@
 - **[2026-10-06 22:29 UTC]** Resultado das eleições 2026 em Upanema (RN): votação para presidente na Escola Evangélica Professor José Inácio da Costa, na 49ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-upanema-rn-votacao-para-presidente-na-escola-evangelica-professor-jose-inacio-da-costa-na-49a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 22:12 UTC]** Resultado das eleições 2026 em Paraíso do Tocantins (TO): votação para presidente no Colegio Estadual Professor José Nezio Ramos, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paraiso-do-tocantins-to-votacao-para-presidente-no-colegio-estadual-professor-jose-nezio-ramos-na-7a-zona-eleitoral.ghtml)_
+
