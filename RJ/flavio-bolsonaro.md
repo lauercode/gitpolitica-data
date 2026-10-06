@@ -4043,3 +4043,6 @@
 - **[2026-10-05 21:04 UTC]** Trump afirma que 1º turno foi ‘grande vitória’ para Flávio, mas diz ver ‘eleição muito apertada’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/trump-afirma-que-1-turno-foi-grande-vitria-para-flvio-mas-diz-ver-eleio-muito-apertada.ghtml)_
 
+- **[2026-10-05 21:03 UTC]** Flávio Bolsonaro vai a Goiânia em busca de apoio de Caiado no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/flavio-bolsonaro-vai-a-goiania-em-busca-de-apoio-de-caiado-no-segundo-turno.ghtml)_
+
