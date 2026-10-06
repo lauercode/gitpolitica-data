@@ -1280,3 +1280,6 @@ direitos
 - **[2026-10-05 18:32 UTC]** Câmara terá ao menos 42 congressistas oriundos de forças de segurança, e Senado, 9
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/camara-tera-ao-menos-42-deputados-oriundos-de-forcas-de-seguranca-e-senado-9.shtml)_
 
+- **[2026-10-05 17:20 UTC]** Taxa de sucesso na reeleição fica em 72% na Câmara, mesmo nível de 2002 e abaixo de 2010 e 2014
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/10/o-mito-da-blindagem.shtml)_
+
