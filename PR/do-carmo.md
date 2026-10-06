@@ -38,3 +38,6 @@
 - **[2026-10-06 15:07 UTC]** Resultado das eleições 2026 em Mazagão (AP): votação para presidente na Escola Municipal Professora Lucicarme do Carmo Barreto, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-mazagao-ap-votacao-para-presidente-na-escola-municipal-professora-lucicarme-do-carmo-barreto-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:45 UTC]** Resultado das eleições 2026 em Uarini (AM): votação para presidente no E. M. Rosilda do Carmo de Lima, na 60ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-uarini-am-votacao-para-presidente-no-e-m-rosilda-do-carmo-de-lima-na-60a-zona-eleitoral.ghtml)_
+
