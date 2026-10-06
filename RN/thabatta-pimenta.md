@@ -17,3 +17,6 @@
 - **[2026-10-05 13:24 UTC]** Thabatta Pimenta é a primeira mulher trans eleita deputada federal do Nordeste
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/05/thabatta-pimenta-e-a-primeira-mulher-trans-eleita-deputada-federal-no-rn.ghtml)_
 
+- **[2026-10-06 12:41 UTC]** Quem é Thabatta Pimenta, a primeira deputada federal trans do Nordeste
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/quem-e-thabatta-pimenta-a-primeira-deputada-federal-trans-do-nordeste.ghtml)_
+
