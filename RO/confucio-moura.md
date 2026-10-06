@@ -32,3 +32,6 @@
 - **[2026-10-06 15:23 UTC]** Resultado das eleições 2026 em Rolim de Moura (RO): votação para presidente no Cândido Portinari - Escola Estadual, na 29ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rolim-de-moura-ro-votacao-para-presidente-no-candido-portinari-escola-estadual-na-29a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:23 UTC]** Resultado das eleições 2026 em Rolim de Moura (RO): votação para presidente no Unir - Universidade Federal de Rondônia, na 29ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rolim-de-moura-ro-votacao-para-presidente-no-unir-universidade-federal-de-rondonia-na-29a-zona-eleitoral.ghtml)_
+
