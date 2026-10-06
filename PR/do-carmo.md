@@ -47,3 +47,6 @@
 - **[2026-10-06 21:50 UTC]** Resultado das eleições 2026 em Monte do Carmo (TO): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-monte-do-carmo-to-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 21:49 UTC]** Resultado das eleições 2026 em Monte do Carmo (TO): como foi a votação nos locais de votação da 3ª Zona Eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-monte-do-carmo-to-como-foi-a-votacao-nos-locais-de-votacao-da-3a-zona-eleitoral.ghtml)_
+
