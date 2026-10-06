@@ -29,3 +29,6 @@
 - **[2026-10-06 09:11 UTC]** Resultado das eleições 2026 em Natal (RN): votação para presidente no Cmei Vulpiano Cavalcanti de Araujo, na 69ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-natal-rn-votacao-para-presidente-no-cmei-vulpiano-cavalcanti-de-araujo-na-69a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:14 UTC]** Resultado das eleições 2026 em Joaquim Gomes (AL): votação para presidente no Pre-Escolar Valquiria Marinho de Araujo, na 53ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-joaquim-gomes-al-votacao-para-presidente-no-pre-escolar-valquiria-marinho-de-araujo-na-53a-zona-eleitoral.ghtml)_
+
