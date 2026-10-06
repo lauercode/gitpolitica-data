@@ -29,3 +29,6 @@
 - **[2026-10-06 18:42 UTC]** Resultado das eleições 2026 em Vera Cruz do Oeste (PR): votação para presidente na Escola Rural Municipal Castelo Branco, na 118ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-vera-cruz-do-oeste-pr-votacao-para-presidente-na-escola-rural-municipal-castelo-branco-na-118a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 18:39 UTC]** Resultado das eleições 2026 em Tapira (PR): votação para presidente no Colegio Estadual Presidente Castelo Branco, na 127ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tapira-pr-votacao-para-presidente-no-colegio-estadual-presidente-castelo-branco-na-127a-zona-eleitoral.ghtml)_
+
