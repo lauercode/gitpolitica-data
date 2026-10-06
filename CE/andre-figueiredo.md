@@ -17,3 +17,6 @@
 - **[2026-10-06 15:10 UTC]** Resultado das eleições 2026 em Jordão (AC): votação para presidente na Escola Jairo de Figueiredo Melo, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jordao-ac-votacao-para-presidente-na-escola-jairo-de-figueiredo-melo-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:53 UTC]** Resultado das eleições 2026 em Várzea (PB): votação para presidente no Esc.Mun.Ens.Inf.Fund. Sandoval Rubens de Figueiredo, na 26ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-varzea-pb-votacao-para-presidente-no-esc-mun-ens-inf-fund-sandoval-rubens-de-figueiredo-na-26a-zona-eleitoral.ghtml)_
+
