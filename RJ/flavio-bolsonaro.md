@@ -4100,3 +4100,6 @@
 - **[2026-10-06 01:57 UTC]** Nunes Marques quer julgar anulação da pena de Bolsonaro depois do segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/05/nunes-marques-quer-julgar-anulao-da-pena-de-bolsonaro-depois-do-segundo-turno.ghtml)_
 
+- **[2026-10-06 08:00 UTC]** Flávio busca aliados do Centrão e reforço de Tarcísio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flavio-busca-aliados-do-centrao-e-reforco-de-tarcisio.ghtml)_
+
