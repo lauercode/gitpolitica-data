@@ -4082,3 +4082,6 @@
 - **[2026-10-06 03:00 UTC]** A única cidade no exterior em que Flávio Bolsonaro não ficou entre os dois primeiros
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/06/a-unica-cidade-no-exterior-em-que-flavio-bolsonaro-nao-ficou-entre-os-dois-primeiros.ghtml)_
 
+- **[2026-10-05 23:00 UTC]** Flávio Bolsonaro consolida apoios na direita e no centrão enquanto Lula sobe tom contra STF e mira quem não votou
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-consolida-apoios-na-direita-e-no-centrao-enquanto-lula-sobe-tom-contra-stf-e-mira-quem-nao-votou.shtml)_
+
