@@ -23,3 +23,6 @@
 - **[2026-10-06 08:03 UTC]** Resultado das eleições 2026 em Rurópolis (PA): votação para presidente no Emef João Batista, na 68ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ruropolis-pa-votacao-para-presidente-no-emef-joao-batista-na-68a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:35 UTC]** Resultado das eleições 2026 em Ajuricaba (RS): votação para presidente na Escola Municipal E.F. João Batista de La Salle, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ajuricaba-rs-votacao-para-presidente-na-escola-municipal-e-f-joao-batista-de-la-salle-na-23a-zona-eleitoral.ghtml)_
+
