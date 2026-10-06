@@ -41,3 +41,6 @@
 - **[2026-10-06 13:08 UTC]** Mãe e filho são baleados dentro de casa durante tentativa de homicídio em Rosário
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/06/mae-e-filho-sao-baleados-dentro-de-casa-durante-tentativa-de-homicidio-em-rosario.ghtml)_
 
+- **[2026-10-06 15:31 UTC]** Resultado das eleições 2026 em Alvarães (AM): votação para presidente no E. M. Nossa Senhora do Rosário, na 60ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alvaraes-am-votacao-para-presidente-no-e-m-nossa-senhora-do-rosario-na-60a-zona-eleitoral.ghtml)_
+
