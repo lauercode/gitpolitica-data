@@ -4229,3 +4229,6 @@
 - **[2026-10-06 18:29 UTC]** PGR dá parecer favorável à retomada de visitas de Flávio ao pai
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/pgr-da-parecer-favoravel-retomada-de-visitas-de-flavio-ao-pai)_
 
+- **[2026-10-06 23:11 UTC]** Gilmar Mendes arquiva investigação de estupro contra vice de Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/gilmar-mendes-arquiva-investigacao-de-estupro-contra-vice-de-flavio-bolsonaro.ghtml)_
+
