@@ -14,3 +14,6 @@
 - **[2026-10-01 18:54 UTC]** Dois réus são absolvidos de tentativa de homicídio e homicídio pelo Tribunal do Júri em Paulo Ramos
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/01/dois-reus-sao-absolvidos-de-tentativa-de-homicidio-e-homicidio-pelo-tribunal-do-juri-em-paulo-ramos.ghtml)_
 
+- **[2026-10-05 22:23 UTC]** Resultado das eleições 2026 em Paulo Ramos (MA): como foi a votação no 1º turno
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-paulo-ramos-ma-como-foi-a-votacao-no-1o-turno.ghtml)_
+
