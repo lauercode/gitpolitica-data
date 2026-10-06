@@ -1307,3 +1307,6 @@ direitos
 - **[2026-10-06 04:00 UTC]** Brancos aumentam na Câmara pela primeira vez desde 2014
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/brancos-aumentam-na-camara-pela-primeira-vez-desde-2014.shtml)_
 
+- **[2026-10-06 04:00 UTC]** Fragmentação partidária cai na Câmara, que concentra poder na direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fragmentacao-partidaria-cai-na-camara-que-concentra-poder-na-direita.shtml)_
+
