@@ -4163,3 +4163,6 @@
 - **[2026-10-06 14:33 UTC]** Flávio Bolsonaro diz que vai a debates no segundo turno, após Lula também sinalizar presença
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-vai-a-debates-no-segundo-turno-apos-lula-tambem-sinalizar-presenca.shtml)_
 
+- **[2026-10-06 14:28 UTC]** Deputado próximo a Flávio Bolsonaro defende retomada da política armamentista em eventual governo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/deputado-proximo-a-flavio-bolsonaro-defende-retomada-da-politica-armamentista-em-eventual-governo.shtml)_
+
