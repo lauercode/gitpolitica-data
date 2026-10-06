@@ -548,3 +548,6 @@
 - **[2026-10-05 14:12 UTC]** Motores do helicóptero que caiu com cantor Rick são retirados de área de mata em SC após duas semanas
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/05/motores-helicoptero-caiu-cantor-rick-retirados-sc-duas-semanas.ghtml)_
 
+- **[2026-10-05 20:35 UTC]** Viúva de Rick fala sobre saudade duas semanas após morte do cantor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/viuva-de-rick-fala-sobre-saudade-duas-semanas-apos-morte-do-cantor.shtml)_
+
