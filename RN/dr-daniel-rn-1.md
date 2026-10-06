@@ -29,3 +29,6 @@
 - **[2026-10-04 18:19 UTC]** Presidente de diretório do Podemos, partido de Dr Daniel, é conduzido pela PM à PF em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/presidente-de-diretorio-do-podemos-partido-de-dr-daniel-e-preso-pela-pf-em-local-de-votacao-no-pa.ghtml)_
 
+- **[2026-10-05 22:56 UTC]** Dr Daniel vence em Belém e outras 63 cidades do PA: veja mapa da votação por município
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/05/mapa-da-votacao-para-governador-no-para-veja-os-resultados-por-cidade.ghtml)_
+
