@@ -95,3 +95,6 @@
 - **[2026-10-05 17:37 UTC]** Flávio Bolsonaro irá a Goiás para anúncio de apoio de Ronaldo Caiado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-ira-a-goias-para-anuncio-de-apoio-de-ronaldo-caiado.shtml)_
 
+- **[2026-10-06 20:08 UTC]** Ronaldo Caiado anuncia apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/ronaldo-caiado-anuncia-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml)_
+
