@@ -122,3 +122,6 @@
 - **[2026-10-06 13:46 UTC]** Resultado das eleições 2026 em Santo Antônio da Patrulha (RS): votação para presidente no E. E. E. F. Antônio Carlos, na 46ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santo-antonio-da-patrulha-rs-votacao-para-presidente-no-e-e-e-f-antonio-carlos-na-46a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 21:48 UTC]** Resultado das eleições 2026 em Nova Olinda (TO): votação para presidente no Cemei - Antônio Filemon Gomes, na 31ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nova-olinda-to-votacao-para-presidente-no-cemei-antonio-filemon-gomes-na-31a-zona-eleitoral.ghtml)_
+
