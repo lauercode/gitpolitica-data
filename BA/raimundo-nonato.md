@@ -17,3 +17,6 @@
 - **[2026-10-06 15:17 UTC]** Resultado das eleições 2026 em Pacaraima (RR): votação para presidente na Escola Municipal Raimundo Nonato Leda dos Santos, na 7ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pacaraima-rr-votacao-para-presidente-na-escola-municipal-raimundo-nonato-leda-dos-santos-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 22:29 UTC]** Resultado das eleições 2026 em Rafael Godeiro (RN): votação para presidente na Escola de 1 e 2 Grau Professor Raimundo Nonato de Lima, na 37ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rafael-godeiro-rn-votacao-para-presidente-na-escola-de-1-e-2-grau-professor-raimundo-nonato-de-lima-na-37a-zona-eleitoral.ghtml)_
+
