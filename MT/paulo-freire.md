@@ -50,3 +50,6 @@
 - **[2026-10-06 17:31 UTC]** Resultado das eleições 2026 em Tobias Barreto (SE): votação para presidente no Emef Professor Paulo Freire, na 23ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tobias-barreto-se-votacao-para-presidente-no-emef-professor-paulo-freire-na-23a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 23:22 UTC]** Resultado das eleições 2026 em Abreulândia (TO): votação para presidente na Escola Municipal Paulo Freire, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-abreulandia-to-votacao-para-presidente-na-escola-municipal-paulo-freire-na-7a-zona-eleitoral.ghtml)_
+
