@@ -59,3 +59,6 @@
 - **[2026-10-06 17:13 UTC]** Resultado das eleições 2026 em Santo Antônio (RN): votação para presidente na Escola Municipal Maria Umbelino de Melo, na 13ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santo-antonio-rn-votacao-para-presidente-na-escola-municipal-maria-umbelino-de-melo-na-13a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:29 UTC]** Resultado das eleições 2026 em Siriri (SE): votação para presidente na Escola Municipal Joaquim Soares de Melo, na 5ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-siriri-se-votacao-para-presidente-na-escola-municipal-joaquim-soares-de-melo-na-5a-zona-eleitoral.ghtml)_
+
