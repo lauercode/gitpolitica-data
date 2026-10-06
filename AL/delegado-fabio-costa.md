@@ -11,3 +11,6 @@
 - **[2026-10-05 17:22 UTC]** Resultado das eleições 2026 em Arapiraca (AL): votação para presidente na Escola de Ensino Fundamental Manoel Humberto da Costa, na 55ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-arapiraca-al-votacao-para-presidente-na-escola-de-ensino-fundamental-manoel-humberto-da-costa-na-55a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:23 UTC]** Resultado das eleições 2026 em Pilar (AL): votação para presidente no Esc Mun Jacy da Costa Ayres, na 8ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pilar-al-votacao-para-presidente-no-esc-mun-jacy-da-costa-ayres-na-8a-zona-eleitoral.ghtml)_
+
