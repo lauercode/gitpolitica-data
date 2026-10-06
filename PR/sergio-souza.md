@@ -68,3 +68,6 @@
 - **[2026-10-06 04:55 UTC]** Resultado das eleições 2026 em Senador Guiomard (AC): votação para presidente na Escola Diva Pereira de Souza, na 8ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-guiomard-ac-votacao-para-presidente-na-escola-diva-pereira-de-souza-na-8a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:53 UTC]** Resultado das eleições 2026 em Xapuri (AC): votação para presidente na Escola Municipal Prof. Marta Fernandes de Souza, na 2ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-xapuri-ac-votacao-para-presidente-na-escola-municipal-prof-marta-fernandes-de-souza-na-2a-zona-eleitoral.ghtml)_
+
