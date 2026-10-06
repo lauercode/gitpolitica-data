@@ -11,3 +11,6 @@
 - **[2026-10-06 06:52 UTC]** Resultado das eleições 2026 em Paço do Lumiar (MA): votação para presidente no U.I. Prof. José Maria Ramos Martins - Maiobao, na 93ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paco-do-lumiar-ma-votacao-para-presidente-no-u-i-prof-jose-maria-ramos-martins-maiobao-na-93a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:59 UTC]** Resultado das eleições 2026 em São Gonçalo do Amarante (RN): votação para presidente na Escola Estadual Pe José Maria Biezinger, na 51ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-goncalo-do-amarante-rn-votacao-para-presidente-na-escola-estadual-pe-jose-maria-biezinger-na-51a-zona-eleitoral.ghtml)_
+
