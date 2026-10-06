@@ -26,3 +26,6 @@
 - **[2026-10-05 21:10 UTC]** Resultado das eleições 2026 em Maceió (AL): votação para presidente no E.M. Maria de Lourdes de Melo Pimentel, na 54ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-maceio-al-votacao-para-presidente-no-e-m-maria-de-lourdes-de-melo-pimentel-na-54a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:21 UTC]** Resultado das eleições 2026 em Penedo (AL): votação para presidente no Emeb Vereador Manoel Soares de Melo, na 13ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-penedo-al-votacao-para-presidente-no-emeb-vereador-manoel-soares-de-melo-na-13a-zona-eleitoral.ghtml)_
+
