@@ -35,3 +35,6 @@
 - **[2026-10-06 05:13 UTC]** Resultado das eleições 2026 em Jaru (RO): votação para presidente no Pedro Vieira de Melo - Escola Estadual, na 10ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jaru-ro-votacao-para-presidente-no-pedro-vieira-de-melo-escola-estadual-na-10a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:49 UTC]** Resultado das eleições 2026 em Santa Luzia do Paruá (MA): votação para presidente na Escola Municipal João Militão de Melo, na 80ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-luzia-do-parua-ma-votacao-para-presidente-na-escola-municipal-joao-militao-de-melo-na-80a-zona-eleitoral.ghtml)_
+
