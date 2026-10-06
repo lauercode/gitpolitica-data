@@ -4226,3 +4226,6 @@
 - **[2026-10-06 14:30 UTC]** Com Flávio Bolsonaro forte, Société Générale faz aposta dupla no real
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/06/com-flvio-bolsonaro-forte-socit-gnrale-faz-aposta-dupla-no-real.ghtml)_
 
+- **[2026-10-06 18:29 UTC]** PGR dá parecer favorável à retomada de visitas de Flávio ao pai
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/pgr-da-parecer-favoravel-retomada-de-visitas-de-flavio-ao-pai)_
+
