@@ -20,3 +20,6 @@
 - **[2026-10-06 18:44 UTC]** Resultado das eleições 2026 em Correia Pinto (SC): votação para presidente na Escola Básica Municipal Jornalista Caldas Junior, na 93ª zona eleitoral
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-correia-pinto-sc-votacao-para-presidente-na-escola-basica-municipal-jornalista-caldas-junior-na-93a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 18:44 UTC]** Resultado das eleições 2026 em Correia Pinto (SC): votação para presidente no Grupo Escolar Municipal Vereador Luiz Cláudio Madruga, na 93ª zona eleitoral
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-correia-pinto-sc-votacao-para-presidente-no-grupo-escolar-municipal-vereador-luiz-claudio-madruga-na-93a-zona-eleitoral.ghtml)_
+
