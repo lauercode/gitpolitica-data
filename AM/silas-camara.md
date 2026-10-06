@@ -1298,3 +1298,6 @@ direitos
 - **[2026-10-05 20:30 UTC]** Eleição para deputado estadual deve mudar três cadeiras na Câmara de Rio Branco; confira
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/eleicao-para-deputado-estadual-deve-mudar-tres-cadeiras-na-camara-de-rio-branco-confira.ghtml)_
 
+- **[2026-10-05 23:34 UTC]** Câmara Municipal de Manaus terá seis novos vereadores a partir de 2027; veja quem deve assumir vagas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/camara-municipal-de-manaus-tera-seis-novos-vereadores-a-partir-de-2027-veja-quem-deve-assumir-vagas.ghtml)_
+
