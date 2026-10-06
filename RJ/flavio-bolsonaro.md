@@ -4088,3 +4088,6 @@
 - **[2026-10-06 07:04 UTC]** Trump diz que liderança de Flávio foi 'grande vitória'; veja essa e outras notícias do dia seguinte ao 1º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-06 05:00 UTC]** Flávio Bolsonaro vence Lula em 455 das 497 cidades do RS no 1º turno; veja mapa
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/flavio-bolsonaro-vence-lula-497-cidades-rs-1o-turno-veja-mapa.ghtml)_
+
