@@ -20,3 +20,6 @@
 - **[2026-10-06 08:03 UTC]** Resultado das eleições 2026 em Dom Eliseu (PA): votação para presidente no Emef Rui Barbosa, na 84ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-dom-eliseu-pa-votacao-para-presidente-no-emef-rui-barbosa-na-84a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:05 UTC]** Resultado das eleições 2026 em Timbiras (MA): votação para presidente na Unidade Escolar Rui Barbosa, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-timbiras-ma-votacao-para-presidente-na-unidade-escolar-rui-barbosa-na-7a-zona-eleitoral.ghtml)_
+
