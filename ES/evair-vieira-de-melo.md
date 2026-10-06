@@ -62,3 +62,6 @@
 - **[2026-10-06 17:29 UTC]** Resultado das eleições 2026 em Siriri (SE): votação para presidente na Escola Municipal Joaquim Soares de Melo, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-siriri-se-votacao-para-presidente-na-escola-municipal-joaquim-soares-de-melo-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:28 UTC]** Resultado das eleições 2026 em Siriri (SE): votação para presidente na Escola Municipal Secundino Vieira de Melo, na 5ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-siriri-se-votacao-para-presidente-na-escola-municipal-secundino-vieira-de-melo-na-5a-zona-eleitoral.ghtml)_
+
