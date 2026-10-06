@@ -74,3 +74,6 @@
 - **[2026-10-05 11:42 UTC]** Em ataque transfóbico após eleita, Eduarda Campopiano chama Erika Hilton de 'homem biológico' nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/eduardo-campopiano-faz-ataque-transfobico-a-erika-hilton-nas-redes-apos-ser-eleita-com-votacao-recorde.shtml)_
 
+- **[2026-10-06 16:46 UTC]** Nikolas, Pavanato, Erika Hilton e outros 30 candidatos 'puxaram' vagas para seus partidos na Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/nikolas-pavanato-erika-hilton-e-outros-30-candidatos-puxaram-vagas-para-seus-partidos-na-camara.ghtml)_
+
