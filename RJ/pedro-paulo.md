@@ -500,3 +500,6 @@
 - **[2026-10-05 07:28 UTC]** Resultado das eleições 2026 em Colorado do Oeste (RO): votação para presidente no Paulo de Assis Ribeiro - Colegio, na 8ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-colorado-do-oeste-ro-votacao-para-presidente-no-paulo-de-assis-ribeiro-colegio-na-8a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 22:10 UTC]** Resultado das eleições 2026 em Paulo Jacinto (AL): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-paulo-jacinto-al-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
