@@ -56,3 +56,6 @@
 - **[2026-10-05 19:48 UTC]** Fábio vence em 67 cidades sergipanas e Valmir de Francisquinho em oito; VEJA MAPA
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/05/fabio-vence-em-67-cidades-sergipanas-valmir-de-francisquinho-ganha-em-oito.ghtml)_
 
+- **[2026-10-06 03:00 UTC]** MAPA: Lula perde votos no Nordeste, e Flávio Bolsonaro avança em relação ao pai; veja movimentos estado a estado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/nordeste-lula-flavio-bolsonaro-oscilacao-2022-2026.ghtml)_
+
