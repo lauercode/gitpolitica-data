@@ -56,3 +56,6 @@
 - **[2026-10-06 17:15 UTC]** Resultado das eleições 2026 em Miranda do Norte (MA): votação para presidente no Jardim de Infancia São Francisco, na 109ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-miranda-do-norte-ma-votacao-para-presidente-no-jardim-de-infancia-sao-francisco-na-109a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:46 UTC]** Resultado das eleições 2026 em Sousa (PB): votação para presidente no Emeif Maria Marques - Jardim Brasília, na 35ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sousa-pb-votacao-para-presidente-no-emeif-maria-marques-jardim-brasilia-na-35a-zona-eleitoral.ghtml)_
+
