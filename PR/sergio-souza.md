@@ -116,3 +116,6 @@
 - **[2026-10-06 05:13 UTC]** Resultado das eleições 2026 em Jaru (RO): votação para presidente no Jose de Souza Silva - Escola Municipal, na 10ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jaru-ro-votacao-para-presidente-no-jose-de-souza-silva-escola-municipal-na-10a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:07 UTC]** Resultado das eleições 2026 em Pimenta Bueno (RO): votação para presidente no Luiz Cabral de Souza - Escola Polo Municipal, na 9ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pimenta-bueno-ro-votacao-para-presidente-no-luiz-cabral-de-souza-escola-polo-municipal-na-9a-zona-eleitoral.ghtml)_
+
