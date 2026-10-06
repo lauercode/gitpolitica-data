@@ -251,3 +251,6 @@
 - **[2026-10-06 18:42 UTC]** Resultado das eleições 2026 em Pescaria Brava (SC): votação para presidente na Escola Municipal de Educação Básica Neri Mendonça de Souza, na 20ª zona eleitoral
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pescaria-brava-sc-votacao-para-presidente-na-escola-municipal-de-educacao-basica-neri-mendonca-de-souza-na-20a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:31 UTC]** Resultado das eleições 2026 em Tobias Barreto (SE): votação para presidente no Emef Telma de Souza Almeida, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tobias-barreto-se-votacao-para-presidente-no-emef-telma-de-souza-almeida-na-23a-zona-eleitoral.ghtml)_
+
