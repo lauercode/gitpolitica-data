@@ -4274,3 +4274,6 @@
 - **[2026-10-06 14:28 UTC]** Deputado próximo a Flávio Bolsonaro prevê retomada da política armamentista em eventual governo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/deputado-proximo-a-flavio-bolsonaro-defende-retomada-da-politica-armamentista-em-eventual-governo.shtml)_
 
+- **[2026-10-06 23:19 UTC]** Rogério Marinho, coordenador da campanha de Flávio, é levado ao hospital após mal-estar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-coordenador-da-campanha-de-flavio-e-levado-ao-hospital-apos-mal-estar/)_
+
