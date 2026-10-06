@@ -20,3 +20,6 @@
 - **[2026-10-06 15:47 UTC]** Resultado das eleições 2026 em Alto Alegre dos Parecis (RO): votação para presidente no João Paulo I - Escola Municipal, na 19ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alto-alegre-dos-parecis-ro-votacao-para-presidente-no-joao-paulo-i-escola-municipal-na-19a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:27 UTC]** Resultado das eleições 2026 em Simão Dias (SE): votação para presidente na Escola Municipal Prof. João Paulo de Santana, na 22ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-simao-dias-se-votacao-para-presidente-na-escola-municipal-prof-joao-paulo-de-santana-na-22a-zona-eleitoral.ghtml)_
+
