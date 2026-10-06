@@ -4016,3 +4016,6 @@
 - **[2026-10-05 22:37 UTC]** Roraima garante a Flávio Bolsonaro maior votação percentual do Brasil no 1º turno das Eleições 2026
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/05/roraima-garante-a-flavio-bolsonaro-maior-votacao-percentual-do-brasil.ghtml)_
 
+- **[2026-10-05 19:00 UTC]** Enviado por Bolsonaro, Hélio Lopes fica em 5º lugar e perde eleição para Senado em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/05/enviado-por-bolsonaro-helio-lopes-fica-em-5o-lugar-e-perde-eleicao-para-senado-em-roraima.ghtml)_
+
