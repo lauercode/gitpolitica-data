@@ -44,3 +44,6 @@
 - **[2026-10-06 18:45 UTC]** Resultado das eleições 2026 em Santa Terezinha de Itaipu (PR): votação para presidente na Escola Municipal Nossa Senhora do Carmo, na 147ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-terezinha-de-itaipu-pr-votacao-para-presidente-na-escola-municipal-nossa-senhora-do-carmo-na-147a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 21:50 UTC]** Resultado das eleições 2026 em Monte do Carmo (TO): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-monte-do-carmo-to-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
