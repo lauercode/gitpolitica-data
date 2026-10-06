@@ -4154,3 +4154,6 @@
 - **[2026-10-06 15:05 UTC]** Coordenador da campanha de Flávio quer regra para abrir impeachment de ministros com 49 assinaturas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/coordenador-da-campanha-de-flavio-defende-regra-para-abrir-impeachment-no-senado-com-49-assinaturas.shtml)_
 
+- **[2026-10-06 14:48 UTC]** Flávio Bolsonaro vence Lula em Aparecida por 58% a 32% mesmo depois de disputa religiosa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-bolsonaro-vence-lula-em-aparecida-por-58-a-32-mesmo-depois-de-disputa-religiosa.shtml)_
+
