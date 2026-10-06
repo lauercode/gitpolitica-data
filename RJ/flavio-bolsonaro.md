@@ -4112,3 +4112,6 @@
 - **[2026-10-06 13:16 UTC]** Nunes Marques deve liberar para julgamento pedido de Bolsonaro para anular condenação depois do 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/nunes-marques-deve-liberar-para-julgamento-pedido-de-bolsonaro-para-anular-condenacao-depois-do-2o-turno.ghtml)_
 
+- **[2026-10-06 11:32 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Flávio após resultado do primeiro turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-flavio-apos-resultado-do-primeiro-turno.ghtml)_
+
