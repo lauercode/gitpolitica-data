@@ -218,3 +218,6 @@
 - **[2026-10-06 17:42 UTC]** Resultado das eleições 2026 em Sapé (PB): votação para presidente no Esc. Mun. de Ensino Fundamental Emília Cavalcante de Morais (Souza), na 4ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sape-pb-votacao-para-presidente-no-esc-mun-de-ensino-fundamental-emilia-cavalcante-de-morais-souza-na-4a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 18:39 UTC]** Resultado das eleições 2026 em Nova Aurora (PR): votação para presidente na Escola Estadual Pedro Viriato Parigot de Souza, na 120ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nova-aurora-pr-votacao-para-presidente-na-escola-estadual-pedro-viriato-parigot-de-souza-na-120a-zona-eleitoral.ghtml)_
+
