@@ -206,3 +206,6 @@
 - **[2026-10-06 16:51 UTC]** Resultado das eleições 2026 em Concórdia do Pará (PA): votação para presidente na Creche Prof Rubeni de Souza Lima, na 87ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-concordia-do-para-pa-votacao-para-presidente-na-creche-prof-rubeni-de-souza-lima-na-87a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 16:45 UTC]** Resultado das eleições 2026 em Viseu (PA): votação para presidente no Emef Ana Dutra de Souza Vale, na 14ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-viseu-pa-votacao-para-presidente-no-emef-ana-dutra-de-souza-vale-na-14a-zona-eleitoral.ghtml)_
+
