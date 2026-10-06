@@ -17,3 +17,6 @@
 - **[2026-10-06 13:46 UTC]** Resultado das eleições 2026 em Santiago (RS): votação para presidente no Salao Paroquial da Vila Nova, na 44ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santiago-rs-votacao-para-presidente-no-salao-paroquial-da-vila-nova-na-44a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 13:46 UTC]** Resultado das eleições 2026 em Santiago (RS): votação para presidente na Escola M e F Manoel Abreu, na 44ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santiago-rs-votacao-para-presidente-na-escola-m-e-f-manoel-abreu-na-44a-zona-eleitoral.ghtml)_
+
