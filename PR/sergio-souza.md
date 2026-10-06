@@ -203,3 +203,6 @@
 - **[2026-10-06 16:55 UTC]** Resultado das eleições 2026 em Pacajá (PA): votação para presidente no Emef Cicero de Souza Leite Ii, na 80ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pacaja-pa-votacao-para-presidente-no-emef-cicero-de-souza-leite-ii-na-80a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 16:51 UTC]** Resultado das eleições 2026 em Concórdia do Pará (PA): votação para presidente na Creche Prof Rubeni de Souza Lima, na 87ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-concordia-do-para-pa-votacao-para-presidente-na-creche-prof-rubeni-de-souza-lima-na-87a-zona-eleitoral.ghtml)_
+
