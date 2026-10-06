@@ -4124,3 +4124,6 @@
 - **[2026-10-06 13:53 UTC]** Quem é o ex-peronista que virou a casaca, abandonou Lula e comemorou vitória de Flávio no primeiro turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/perfil-ex-peronista-abandonou-lula-comemorou-vitoria-flavio-primeiro-turno/)_
 
+- **[2026-10-06 12:24 UTC]** Flávio avança para 2º turno com apoio de 10 governadores; Lula tem cinco
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-avanca-segundo-turno-apoio-governadores/)_
+
