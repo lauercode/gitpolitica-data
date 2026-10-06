@@ -128,3 +128,6 @@
 - **[2026-10-04 23:45 UTC]** Allyson Bezerra e Cadu de Lula vão disputar o 2º turno no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/resultado-governo-do-rn-allyson-e-cadu-de-lula-vao-para-o-2o-turno.ghtml)_
 
+- **[2026-10-06 12:24 UTC]** Flávio avança para 2º turno com apoio de 10 governadores; Lula tem cinco
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-avanca-segundo-turno-apoio-governadores/)_
+
