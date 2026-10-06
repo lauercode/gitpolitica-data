@@ -44,3 +44,6 @@
 - **[2026-09-25 18:01 UTC]** Jardim Botânico de Florianópolis celebra 10 anos com inauguração do Jardim Japonês
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/especial-publicitario/prefeitura-municipal-de-florianopolis/florianopolis-uma-cidade-para-todos/noticia/2026/09/25/jardim-botanico-de-florianopolis-celebra-10-anos-com-inauguracao-do-jardim-japones.ghtml)_
 
+- **[2026-10-06 06:51 UTC]** Resultado das eleições 2026 em Palmeirândia (MA): votação para presidente no Jardim de Infancia Pequeno Polegar, na 38ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-palmeirandia-ma-votacao-para-presidente-no-jardim-de-infancia-pequeno-polegar-na-38a-zona-eleitoral.ghtml)_
+
