@@ -65,3 +65,6 @@
 - **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Antônio Prado (RS): votação para presidente no Anexo - Salão da Gruta, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-antonio-prado-rs-votacao-para-presidente-no-anexo-salao-da-gruta-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Antônio Prado (RS): votação para presidente no Cras Fatima (Antiga Escola Caetano Reginato), na 6ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-antonio-prado-rs-votacao-para-presidente-no-cras-fatima-antiga-escola-caetano-reginato-na-6a-zona-eleitoral.ghtml)_
+
