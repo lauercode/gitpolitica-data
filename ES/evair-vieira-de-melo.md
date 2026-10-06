@@ -41,3 +41,6 @@
 - **[2026-10-06 09:11 UTC]** Resultado das eleições 2026 em Natal (RN): votação para presidente no E. E. Aldo Fernandes de Melo, na 69ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-natal-rn-votacao-para-presidente-no-e-e-aldo-fernandes-de-melo-na-69a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:59 UTC]** Resultado das eleições 2026 em São José de Mipibu (RN): votação para presidente no Centro de Educação Rural Maria José de Melo, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-de-mipibu-rn-votacao-para-presidente-no-centro-de-educacao-rural-maria-jose-de-melo-na-7a-zona-eleitoral.ghtml)_
+
