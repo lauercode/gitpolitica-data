@@ -8,3 +8,6 @@
 - **[2026-10-05 05:57 UTC]** Resultado das eleições 2026 em Rolim de Moura (RO): como foi a votação no 1º turno
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-rolim-de-moura-ro-como-foi-a-votacao-no-1o-turno.ghtml)_
 
+- **[2026-10-06 05:18 UTC]** Resultado das eleições 2026 em Alta Floresta d'Oeste (RO): votação para presidente no Ana Nery - Escola Municipal - Distr Rolim de Moura do Guapore, na 17ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alta-floresta-d-oeste-ro-votacao-para-presidente-no-ana-nery-escola-municipal-distr-rolim-de-moura-do-guapore-na-17a-zona-eleitoral.ghtml)_
+
