@@ -83,3 +83,6 @@
 - **[2026-10-06 11:32 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Flávio após resultado do primeiro turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-flavio-apos-resultado-do-primeiro-turno.ghtml)_
 
+- **[2026-10-06 11:32 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Flávio; ministro envia pedido à PGR
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-flavio-apos-resultado-do-primeiro-turno.ghtml)_
+
