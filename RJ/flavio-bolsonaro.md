@@ -4091,3 +4091,6 @@
 - **[2026-10-06 05:00 UTC]** Flávio Bolsonaro vence Lula em 455 das 497 cidades do RS no 1º turno; veja mapa
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/flavio-bolsonaro-vence-lula-497-cidades-rs-1o-turno-veja-mapa.ghtml)_
 
+- **[2026-10-06 04:00 UTC]** Após ser eleito governador do RS, Zucco vai a Brasília para encontro com Flávio Bolsonaro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/apos-ser-eleito-governador-do-rs-zucco-vai-a-brasilia-para-encontro-com-flavio-bolsonaro.ghtml)_
+
