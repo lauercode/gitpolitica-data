@@ -29,3 +29,6 @@
 - **[2026-10-05 01:33 UTC]** Eleições 2026: Thiago Flores (União Brasil) é eleito deputado federal por Rondônia
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-thiago-flores-uniao-brasil-e-eleito-deputado-federal-por-rondonia.ghtml)_
 
+- **[2026-10-05 22:10 UTC]** Resultado das eleições 2026 em Olho d'Água das Flores (AL): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-olho-d-agua-das-flores-al-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
