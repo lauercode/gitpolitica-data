@@ -4148,3 +4148,6 @@
 - **[2026-10-06 15:52 UTC]** Reeleito, governador petista do Piauí pede esforço contra abstenção e crítica à biografia de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/reeleito-governador-petista-do-piaui-pede-esforco-contra-abstencao-e-critica-a-biografia-de-flavio.shtml)_
 
+- **[2026-10-06 15:41 UTC]** Globo adia sabatinas em horário nobre com Lula e Flávio Bolsonaro no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-adia-sabatinas-em-horario-nobre-com-lula-e-flavio-bolsonaro-no-segundo-turno.shtml)_
+
