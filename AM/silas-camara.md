@@ -1319,3 +1319,6 @@ direitos
 - **[2026-10-06 08:00 UTC]** PL elege maior bancada na Câmara desde 1990
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/06/pl-elege-maior-bancada-na-camara-desde-1990.ghtml)_
 
+- **[2026-10-06 13:53 UTC]** Resultado das eleições 2026 em São Martinho (RS): votação para presidente no Câmara Municipal de Vereadores, na 107ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-martinho-rs-votacao-para-presidente-no-camara-municipal-de-vereadores-na-107a-zona-eleitoral.ghtml)_
+
