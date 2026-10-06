@@ -74,3 +74,6 @@
 - **[2026-10-05 20:07 UTC]** Ao lado de Nikolas Ferreira, Tarcísio diz que vai 'mergulhar de cabeça' na campanha de Flávio Bolsonaro em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/ao-lado-de-nikolas-ferreira-tarcisio-diz-que-vai-mergulhar-de-cabeca-na-campanha-de-flavio-bolsonaro-em-sp.ghtml)_
 
+- **[2026-10-05 19:04 UTC]** Quem é Nikolas Ferreira, o deputado federal mais votado do Brasil pela segunda vez
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/quem-e-nikolas-ferreira-o-deputado-federal-mais-votado-do-brasil-pela-segunda-vez.ghtml)_
+
