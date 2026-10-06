@@ -32,3 +32,6 @@
 - **[2026-10-03 22:45 UTC]** Quaest para o Senado no Maranhão, votos válidos: Roseana Sarney, 25%; Fufuca, 23%; Lahesio Bonfim, 18%; Eliziane Gama, 16%
   _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/03/quaest-ma-senado-3-outubro.ghtml)_
 
+- **[2026-10-06 05:19 UTC]** Resultado das eleições 2026 em Alta Floresta d'Oeste (RO): votação para presidente no Proenc - José Basilio da Gama - Escola Municipal, na 17ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alta-floresta-d-oeste-ro-votacao-para-presidente-no-proenc-jose-basilio-da-gama-escola-municipal-na-17a-zona-eleitoral.ghtml)_
+
