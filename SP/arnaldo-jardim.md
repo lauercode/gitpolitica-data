@@ -50,3 +50,6 @@
 - **[2026-10-06 06:57 UTC]** Resultado das eleições 2026 em Jardim Alegre (PR): como foi a votação no 1º turno
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jardim-alegre-pr-como-foi-a-votacao-no-1o-turno.ghtml)_
 
+- **[2026-10-06 06:56 UTC]** Resultado das eleições 2026 em Jardim Olinda (PR): como foi a votação no 1º turno
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jardim-olinda-pr-como-foi-a-votacao-no-1o-turno.ghtml)_
+
