@@ -4247,3 +4247,6 @@
 - **[2026-10-06 19:55 UTC]** PP e União Brasil anunciam apoio a Flávio Bolsonaro no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/pp-e-uniao-brasil-anunciam-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-06 19:32 UTC]** Fim da escala 6x1: Governo quer expor posicionamento de aliados de Flávio e oposição obstrui votação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/fim-da-escala-6x1-governo-quer-expor-posicionamento-de-aliados-de-flavio-e-oposicao-planeja-estrategia.ghtml)_
+
