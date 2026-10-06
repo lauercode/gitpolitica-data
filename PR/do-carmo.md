@@ -23,3 +23,6 @@
 - **[2026-10-05 23:04 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. Nossa Senhora do Carmo, na 68ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-nossa-senhora-do-carmo-na-68a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:28 UTC]** Resultado das eleições 2026 em Traipu (AL): votação para presidente no Grupo Escolar Estadual Professora Maria Avelina do Carmo, na 20ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-traipu-al-votacao-para-presidente-no-grupo-escolar-estadual-professora-maria-avelina-do-carmo-na-20a-zona-eleitoral.ghtml)_
+
