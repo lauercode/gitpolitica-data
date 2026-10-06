@@ -4271,3 +4271,6 @@
 - **[2026-10-06 15:05 UTC]** Coordenador de campanha de Flávio quer facilitar impeachment de ministros, mas nega vingança a Fachin
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/coordenador-da-campanha-de-flavio-defende-regra-para-abrir-impeachment-no-senado-com-49-assinaturas.shtml)_
 
+- **[2026-10-06 14:28 UTC]** Deputado próximo a Flávio Bolsonaro prevê retomada da política armamentista em eventual governo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/deputado-proximo-a-flavio-bolsonaro-defende-retomada-da-politica-armamentista-em-eventual-governo.shtml)_
+
