@@ -179,3 +179,6 @@
 - **[2026-10-05 20:07 UTC]** Ao lado de Nikolas Ferreira, Tarcísio diz que vai 'mergulhar de cabeça' na campanha de Flávio Bolsonaro em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/ao-lado-de-nikolas-ferreira-tarcisio-diz-que-vai-mergulhar-de-cabeca-na-campanha-de-flavio-bolsonaro-em-sp.ghtml)_
 
+- **[2026-10-06 08:00 UTC]** PL avança em SP e Tarcísio terá apoio de 70% da Alesp
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/pl-avanca-em-sp-e-tarcisio-tera-apoio-de-70-da-alesp.ghtml)_
+
