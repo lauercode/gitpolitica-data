@@ -4010,3 +4010,6 @@
 - **[2026-10-05 18:48 UTC]** Como foi o desempenho dos candidatos que apostaram em “Bolsonaro” como nome de urna
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-foi-o-desempenho-dos-candidatos-que-apostaram-em-bolsonaro-como-nome-de-urna/)_
 
+- **[2026-10-06 00:32 UTC]** Trump diz que liderança de Flávio no primeiro turno foi 'grande vitória'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss)_
+
