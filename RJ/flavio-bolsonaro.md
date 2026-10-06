@@ -4085,3 +4085,6 @@
 - **[2026-10-05 23:00 UTC]** Flávio Bolsonaro consolida apoios na direita e no centrão enquanto Lula sobe tom contra STF e mira quem não votou
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-consolida-apoios-na-direita-e-no-centrao-enquanto-lula-sobe-tom-contra-stf-e-mira-quem-nao-votou.shtml)_
 
+- **[2026-10-06 07:04 UTC]** Trump diz que liderança de Flávio foi 'grande vitória'; veja essa e outras notícias do dia seguinte ao 1º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss)_
+
