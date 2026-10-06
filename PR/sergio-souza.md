@@ -53,3 +53,6 @@
 - **[2026-10-05 13:08 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Yeda Henriques de Souza Auzier, na 3ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-yeda-henriques-de-souza-auzier-na-3a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 16:00 UTC]** Briga de torcidas na avenida Inajar de Souza foi 'batalha medieval', diz delegada em júri de corintianos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/briga-de-torcidas-na-avenida-inajar-de-souza-foi-batalha-medieval-diz-delegada-em-juri-de-corintianos.shtml)_
+
