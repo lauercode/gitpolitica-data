@@ -17,3 +17,6 @@
 - **[2026-10-05 01:33 UTC]** Eleições 2026: Carlos Gomes (Republicanos) é eleito deputado federal pelo Rio Grande do Sul
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-carlos-gomes-republicanos-e-eleito-deputado-federal-pelo-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-06 07:48 UTC]** Resultado das eleições 2026 em Arame (MA): votação para presidente no Grupo Escolar Carlos Gomes, na 104ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-arame-ma-votacao-para-presidente-no-grupo-escolar-carlos-gomes-na-104a-zona-eleitoral.ghtml)_
+
