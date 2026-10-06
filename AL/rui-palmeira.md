@@ -32,3 +32,6 @@
 - **[2026-10-05 22:14 UTC]** Resultado das eleições 2026 em Senador Rui Palmeira (AL): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-senador-rui-palmeira-al-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:18 UTC]** Resultado das eleições 2026 em Pão de Açúcar (AL): votação para presidente no Ume Senador Rui Palmeira, na 11ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pao-de-acucar-al-votacao-para-presidente-no-ume-senador-rui-palmeira-na-11a-zona-eleitoral.ghtml)_
+
