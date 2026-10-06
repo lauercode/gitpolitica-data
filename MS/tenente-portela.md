@@ -29,3 +29,6 @@
 - **[2026-10-06 14:06 UTC]** Resultado das eleições 2026 em Tenente Portela (RS): votação para presidente no Emef Ayrton Senna, na 101ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tenente-portela-rs-votacao-para-presidente-no-emef-ayrton-senna-na-101a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 14:06 UTC]** Resultado das eleições 2026 em Tenente Portela (RS): votação para presidente no Centro Pastoral, na 101ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tenente-portela-rs-votacao-para-presidente-no-centro-pastoral-na-101a-zona-eleitoral.ghtml)_
+
