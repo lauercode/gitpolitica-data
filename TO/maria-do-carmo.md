@@ -71,3 +71,6 @@
 - **[2026-10-06 10:06 UTC]** Resultado das eleições 2026 em Touros (RN): votação para presidente na Escola Municipal Maria do Carmo Ribeiro, na 14ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-touros-rn-votacao-para-presidente-na-escola-municipal-maria-do-carmo-ribeiro-na-14a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:23 UTC]** Resultado das eleições 2026 em Santana do Ipanema (AL): votação para presidente na Escola Municipal de Educação Básica Maria do Carmo Oliveira Araújo, na 19ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santana-do-ipanema-al-votacao-para-presidente-na-escola-municipal-de-educacao-basica-maria-do-carmo-oliveira-araujo-na-19a-zona-eleitoral.ghtml)_
+
