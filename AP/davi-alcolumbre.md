@@ -320,3 +320,6 @@
 - **[2026-10-06 16:13 UTC]** Alcolumbre articula com governo tramitação do fim da escala 6x1, mas votação é incerta
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/06/alcolumbre-articula-com-governo-tramitacao-do-fim-da-escala-6x1-mas-votacao-e-incerta.ghtml)_
 
+- **[2026-10-06 17:40 UTC]** Alcolumbre anuncia sessões para discutir e votar fim da escala 6x1
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-anuncia-sessoes-para-discutir-e-votar-fim-da-escala-6x1)_
+
