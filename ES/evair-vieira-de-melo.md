@@ -23,3 +23,6 @@
 - **[2026-10-05 13:09 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Almirante Custódio de Melo, na 3ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-almirante-custodio-de-melo-na-3a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 21:10 UTC]** Resultado das eleições 2026 em Maceió (AL): votação para presidente no E.M. Maria de Lourdes de Melo Pimentel, na 54ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-maceio-al-votacao-para-presidente-no-e-m-maria-de-lourdes-de-melo-pimentel-na-54a-zona-eleitoral.ghtml)_
+
