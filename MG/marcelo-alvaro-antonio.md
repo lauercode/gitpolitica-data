@@ -50,3 +50,6 @@
 - **[2026-10-06 05:26 UTC]** Resultado das eleições 2026 em São José de Piranhas (PB): votação para presidente no E.E.E.I.F. Antônio Gomes Barbosa, na 40ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-de-piranhas-pb-votacao-para-presidente-no-e-e-e-i-f-antonio-gomes-barbosa-na-40a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:25 UTC]** Resultado das eleições 2026 em São José de Piranhas (PB): votação para presidente no E.M.E.I.E.F. Antônio Lacerda Neto, na 40ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-de-piranhas-pb-votacao-para-presidente-no-e-m-e-i-e-f-antonio-lacerda-neto-na-40a-zona-eleitoral.ghtml)_
+
