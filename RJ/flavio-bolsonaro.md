@@ -3968,3 +3968,6 @@
 - **[2026-10-05 19:09 UTC]** Zema declara apoio a Flávio Bolsonaro no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/zema-declara-apoio-a-flavio-bolsonaro-no-2o-turno.shtml)_
 
+- **[2026-10-05 18:42 UTC]** Senado bolsonarista raiz dá pista livre para Flávio ir para cima do STF; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/senado-bolsonarista-raiz-da-pista-livre-para-flavio-ir-para-cima-do-stf-veja-video.shtml)_
+
