@@ -3929,3 +3929,6 @@
 - **[2026-10-05 21:06 UTC]** Ex-vice de Dilma e autor da indicação de Moraes ao STF, Temer declara apoio a Flávio no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/ex-vice-de-dilma-e-autor-da-indicacao-de-moraes-ao-stf-temer-declara-apoio-a-flavio-no-2o-turno.ghtml)_
 
+- **[2026-10-05 20:17 UTC]** Flávio deve ir a Goiânia nesta terça em busca do apoio de Caiado no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-deve-ir-a-goiania-nesta-terca-em-busca-do-apoio-de-caiado-no-2o-turno.ghtml)_
+
