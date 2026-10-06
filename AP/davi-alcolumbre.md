@@ -299,3 +299,6 @@
 - **[2026-10-05 17:46 UTC]** Alcolumbre deve seguir fiel a Lula, apesar de posição pró-Flávio do União
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/alcolumbre-deve-seguir-fiel-a-lula-apesar-de-posicao-pro-flavio-do-uniao.shtml)_
 
+- **[2026-10-05 21:33 UTC]** Com reeleição improvável, Alcolumbre retoma análise da PEC da 6x1 nesta semana
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/05/com-reeleicao-improvavel-alcolumbre-retoma-analise-da-pec-da-6x1-nesta-semana.ghtml)_
+
