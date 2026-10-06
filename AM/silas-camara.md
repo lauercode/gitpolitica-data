@@ -1313,3 +1313,6 @@ direitos
 - **[2026-10-06 04:50 UTC]** Resultado das eleições 2026 em Tarauacá (AC): votação para presidente no Câmara Municipal de Tarauacá, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tarauaca-ac-votacao-para-presidente-no-camara-municipal-de-tarauaca-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 08:00 UTC]** Eleições 2026: bancada feminina do Pará diminui na Câmara dos Deputados
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/eleicoes-2026-bancada-feminina-do-para-diminui-na-camara-dos-deputados.ghtml)_
+
