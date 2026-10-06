@@ -4136,3 +4136,6 @@
 - **[2026-10-06 19:32 UTC]** Fim da escala 6x1: Governo quer expor posicionamento de aliados de Flávio e oposição planeja estratégia
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/fim-da-escala-6x1-governo-quer-expor-posicionamento-de-aliados-de-flavio-e-oposicao-planeja-estrategia.ghtml)_
 
+- **[2026-10-06 15:34 UTC]** Flávio diz que vai participar de debates contra Lula no 2º turno: ‘Eu já queria ter participado’
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/flavio-diz-que-vai-participar-de-debates-contra-lula-no-2o-turno-eu-ja-queria-ter-participado.ghtml)_
+
