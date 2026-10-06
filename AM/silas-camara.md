@@ -1283,3 +1283,6 @@ direitos
 - **[2026-10-05 17:20 UTC]** Taxa de sucesso na reeleição fica em 72% na Câmara, mesmo nível de 2002 e abaixo de 2010 e 2014
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/10/o-mito-da-blindagem.shtml)_
 
+- **[2026-10-05 16:10 UTC]** SP elege seis egressos da Rota, para Senado, Câmara e Assembleia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/sp-elege-seis-egressos-da-rota-para-senado-camara-e-assembleia.shtml)_
+
