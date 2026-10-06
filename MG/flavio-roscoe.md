@@ -20,3 +20,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Flávio Roscoe, candidato a governador de Minas Gerais em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-flavio-roscoe-candidato-a-governador-de-minas-gerais-em-2026.ghtml)_
 
+- **[2026-10-06 17:26 UTC]** Flávio Roscoe é cotado para comandar pasta da indústria em eventual governo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/flavio-roscoe-e-cotado-para-comandar-pasta-da-industria-em-eventual-governo-de-flavio-bolsonaro.shtml)_
+
