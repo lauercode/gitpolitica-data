@@ -4310,3 +4310,6 @@
 - **[2026-10-06 21:17 UTC]** Quando é o primeiro debate entre Lula e Flávio Bolsonaro? Veja data e horário
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/quando-e-o-primeiro-debate-entre-lula-e-flavio-bolsonaro-veja-data-e-horario.ghtml)_
 
+- **[2026-10-06 21:00 UTC]** Federação União Brasil-PP declara apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/federacao-uniao-brasil-pp-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
