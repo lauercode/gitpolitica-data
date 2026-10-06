@@ -14,3 +14,6 @@
 - **[2026-09-26 07:00 UTC]** Candidatura de Hélio Lopes em Roraima: por que partidos buscam ampliar bancadas no Senado com nomes fora de redutos eleitorais
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/26/candidatura-de-helio-lopes-em-roraima-por-que-partidos-buscam-ampliar-bancadas-no-senado-com-nomes-fora-de-redutos-eleitorais.ghtml)_
 
+- **[2026-10-05 19:00 UTC]** Enviado por Bolsonaro, Hélio Lopes fica em 5º lugar e perde eleição para Senado em Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/05/enviado-por-bolsonaro-helio-lopes-fica-em-5o-lugar-e-perde-eleicao-para-senado-em-roraima.ghtml)_
+
