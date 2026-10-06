@@ -41,3 +41,6 @@
 - **[2026-10-06 06:56 UTC]** Resultado das eleições 2026 em Muaná (PA): votação para presidente no Emef José Benedito do Prado Pacheco, na 10ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-muana-pa-votacao-para-presidente-no-emef-jose-benedito-do-prado-pacheco-na-10a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 06:00 UTC]** Estrategistas comemoram votações recorde de Tarcísio, Derrite e Prado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/estrategistas-comemoram-votacoes-recorde-de-tarcisio-derrite-e-prado.shtml)_
+
