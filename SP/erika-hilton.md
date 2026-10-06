@@ -80,3 +80,6 @@
 - **[2026-10-06 14:42 UTC]** Eduarda Campopiano diz que chamar Erika Hilton de 'homem biológico' foi 'manifestação provocativa' nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/eduarda-campopiano-diz-que-chamar-erika-hilton-de-homem-biologico-foi-manifestacao-provocativa-nas-redes.shtml)_
 
+- **[2026-10-06 14:43 UTC]** Juiz condena André Fernandes a pagar R$ 50 mil a Erika Hilton por menções no masculino
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/juiz-condena-andre-fernandes-a-pagar-50-mil-a-erika-hilton-por-mencoes-no-masculino/)_
+
