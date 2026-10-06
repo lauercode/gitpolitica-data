@@ -68,3 +68,6 @@
 - **[2026-10-06 15:07 UTC]** Resultado das eleições 2026 em Iracema (RR): votação para presidente na Escola Estadual Manoel Agostinho de Almeida, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-iracema-rr-votacao-para-presidente-na-escola-estadual-manoel-agostinho-de-almeida-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:31 UTC]** Resultado das eleições 2026 em Tobias Barreto (SE): votação para presidente no Colégio Estadual Profª Maria Lucilene de Almeida Santos, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tobias-barreto-se-votacao-para-presidente-no-colegio-estadual-profa-maria-lucilene-de-almeida-santos-na-23a-zona-eleitoral.ghtml)_
+
