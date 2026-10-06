@@ -1337,3 +1337,6 @@ direitos
 - **[2026-10-06 12:00 UTC]** Indígenas perdem uma cadeira na Câmara e são 0,6% dos deputados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/indigenas-perdem-uma-cadeira-na-camara-e-sao-06-dos-deputados.shtml)_
 
+- **[2026-10-06 15:05 UTC]** Resultado das eleições 2026 em Porto Acre (AC): votação para presidente no Câmara Municipal de Porto Acre, na 1ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-porto-acre-ac-votacao-para-presidente-no-camara-municipal-de-porto-acre-na-1a-zona-eleitoral.ghtml)_
+
