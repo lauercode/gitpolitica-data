@@ -53,3 +53,6 @@
 - **[2026-10-06 22:28 UTC]** Resultado das eleições 2026 em Rio Crespo (RO): votação para presidente no Francisco Mignone - Escola Estadual, na 26ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rio-crespo-ro-votacao-para-presidente-no-francisco-mignone-escola-estadual-na-26a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 22:28 UTC]** Resultado das eleições 2026 em Monte Negro (RO): votação para presidente no Francisco dos Santos - Escola Municipal, na 25ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-monte-negro-ro-votacao-para-presidente-no-francisco-dos-santos-escola-municipal-na-25a-zona-eleitoral.ghtml)_
+
