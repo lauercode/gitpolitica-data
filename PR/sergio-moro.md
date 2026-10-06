@@ -140,3 +140,6 @@
 - **[2026-10-05 06:00 UTC]** Veja cinco desafios de Sergio Moro, governador eleito do Paraná, para os próximos quatro anos
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/veja-cinco-desafios-de-sergio-moro-governador-eleito-do-parana-para-os-proximos-quatro-anos.ghtml)_
 
+- **[2026-10-05 20:41 UTC]** Sergio Moro revela primeiras medidas após a posse, promete cortar secretarias e diz que vai continuar senador até o final do ano
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/sergio-moro-revela-primeiras-medidas-apos-a-posse-promete-cortar-secretarias-e-diz-que-vai-continuar-senador-ate-o-final-do-ano.ghtml)_
+
