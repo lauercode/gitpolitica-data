@@ -4025,3 +4025,6 @@
 - **[2026-10-05 23:01 UTC]** Medley vê rali dos mercados com prazo curto e diz que ‘história pode se repetir’ com Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/05/medley-v-rali-dos-mercados-com-prazo-curto-e-diz-que-histria-pode-se-repetir-com-flvio.ghtml)_
 
+- **[2026-10-05 22:46 UTC]** Coordenador da campanha de Flávio Bolsonaro diz que terá encontro com Edson Fachin
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/coordenador-da-campanha-de-flavio-bolsonaro-diz-que-tera-encontro-com-edson-fachin.ghtml)_
+
