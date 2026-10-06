@@ -23,3 +23,6 @@
 - **[2026-10-06 17:05 UTC]** Resultado das eleições 2026 em Timbiras (MA): votação para presidente na Unidade Escolar Rui Barbosa, na 7ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-timbiras-ma-votacao-para-presidente-na-unidade-escolar-rui-barbosa-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 22:27 UTC]** Resultado das eleições 2026 em Seringueiras (RO): votação para presidente no Rui Barbosa de Oliveira - Escola Estadual, na 35ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-seringueiras-ro-votacao-para-presidente-no-rui-barbosa-de-oliveira-escola-estadual-na-35a-zona-eleitoral.ghtml)_
+
