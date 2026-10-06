@@ -20,3 +20,6 @@
 - **[2026-10-06 04:50 UTC]** Resultado das eleições 2026 em Tarauacá (AC): votação para presidente na Escola Jose Augusto de Araujo, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tarauaca-ac-votacao-para-presidente-na-escola-jose-augusto-de-araujo-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 06:54 UTC]** Resultado das eleições 2026 em Parnarama (MA): votação para presidente na Unidade Integrada Coronel Antonio Pereira de Araujo da Silva, na 36ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-parnarama-ma-votacao-para-presidente-na-unidade-integrada-coronel-antonio-pereira-de-araujo-da-silva-na-36a-zona-eleitoral.ghtml)_
+
