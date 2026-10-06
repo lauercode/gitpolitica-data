@@ -3971,3 +3971,6 @@
 - **[2026-10-05 18:42 UTC]** Senado bolsonarista raiz dá pista livre para Flávio ir para cima do STF; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/senado-bolsonarista-raiz-da-pista-livre-para-flavio-ir-para-cima-do-stf-veja-video.shtml)_
 
+- **[2026-10-05 18:26 UTC]** Casas de análise projetam alta de até 45% para a Bolsa com vitória de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/casas-de-analise-projetam-alta-de-ate-45-para-a-bolsa-com-vitoria-de-flavio-bolsonaro.shtml)_
+
