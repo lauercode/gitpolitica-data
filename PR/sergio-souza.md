@@ -221,3 +221,6 @@
 - **[2026-10-06 18:39 UTC]** Resultado das eleições 2026 em Nova Aurora (PR): votação para presidente na Escola Estadual Pedro Viriato Parigot de Souza, na 120ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nova-aurora-pr-votacao-para-presidente-na-escola-estadual-pedro-viriato-parigot-de-souza-na-120a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 18:39 UTC]** Resultado das eleições 2026 em Pérola (PR): votação para presidente na Escola Municipal Arminda Rodrigues de Souza, na 135ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-perola-pr-votacao-para-presidente-na-escola-municipal-arminda-rodrigues-de-souza-na-135a-zona-eleitoral.ghtml)_
+
