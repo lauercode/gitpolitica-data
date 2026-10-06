@@ -161,3 +161,6 @@
 - **[2026-10-05 14:04 UTC]** Reeleita em Pernambuco, Raquel Lyra ficará neutra no 2º turno da eleição presidencial
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/05/reeleita-em-pernambuco-raquel-lyra-ficara-neutra-no-2o-turno-da-eleicao-presidencial.ghtml)_
 
+- **[2026-10-06 18:41 UTC]** Raquel Lyra diz ser grata a Lula, mas evita declarar apoio no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/06/raquel-lyra-diz-ser-grata-a-lula-mas-evita-declarar-apoio-no-2o-turno.ghtml)_
+
