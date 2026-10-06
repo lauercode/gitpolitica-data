@@ -80,3 +80,6 @@
 - **[2026-10-05 20:00 UTC]** Defesa de Jair Bolsonaro pede que Alexandre de Moraes autorize visita de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/05/defesa-de-jair-bolsonaro-pede-que-alexandre-de-moraes-autorize-visita-de-flvio.ghtml)_
 
+- **[2026-10-06 11:32 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Flávio após resultado do primeiro turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-flavio-apos-resultado-do-primeiro-turno.ghtml)_
+
