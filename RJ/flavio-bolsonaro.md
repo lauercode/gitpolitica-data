@@ -4172,3 +4172,6 @@
 - **[2026-10-06 13:16 UTC]** Flávio Bolsonaro diz que discussão do fim da 6x1 é oportunista e defende remuneração por hora de trabalho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-diz-que-fim-da-escala-6x1-e-oportunismo-de-lula-para-ganhar-votos.shtml)_
 
+- **[2026-10-06 13:01 UTC]** Moraes manda PGR se manifestar sobre pedido de Bolsonaro para liberar visitas de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/moraes-manda-pgr-se-manifestar-sobre-pedido-de-bolsonaro-para-liberar-visitas-de-flavio.shtml)_
+
