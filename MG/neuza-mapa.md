@@ -62,3 +62,6 @@
 - **[2026-10-06 16:43 UTC]** MAPA: veja o resultado das eleições 2026 em Rio Branco por local de votação e seção eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-rio-branco-por-local-de-votacao-e-secao-eleitoral.ghtml)_
 
+- **[2026-10-06 16:48 UTC]** MAPA: veja o resultado das eleições 2026 em Maceió por local de votação e seção eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-maceio-por-local-de-votacao-e-secao-eleitoral.ghtml)_
+
