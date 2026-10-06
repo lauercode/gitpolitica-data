@@ -14,3 +14,6 @@
 - **[2026-10-03 22:38 UTC]** Quaest para o Senado no Ceará, votos válidos: Cid Gomes, 32%; Luizianne Lins, 27%; Capitão Wagner, 26%; Alcides Fernandes, 13%
   _fonte: [G1 - Política:](https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/03/quaest-ceara-senado-3-outubro.ghtml)_
 
+- **[2026-10-06 06:59 UTC]** Resultado das eleições 2026 em Guarapuava (PR): votação para presidente no (Caic)Escola Municipal Capitão Wagner, na 43ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-guarapuava-pr-votacao-para-presidente-no-caic-escola-municipal-capitao-wagner-na-43a-zona-eleitoral.ghtml)_
+
