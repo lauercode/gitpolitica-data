@@ -38,3 +38,6 @@
 - **[2026-10-06 05:28 UTC]** Resultado das eleições 2026 em Solânea (PB): votação para presidente no Esc. Municipal de Ens. Fundamental Jose A. de Almeida, na 48ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-solanea-pb-votacao-para-presidente-no-esc-municipal-de-ens-fundamental-jose-a-de-almeida-na-48a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:18 UTC]** Resultado das eleições 2026 em Alta Floresta d'Oeste (RO): votação para presidente no Tancredo de Almeida Neves - Escola Estadual, na 17ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alta-floresta-d-oeste-ro-votacao-para-presidente-no-tancredo-de-almeida-neves-escola-estadual-na-17a-zona-eleitoral.ghtml)_
+
