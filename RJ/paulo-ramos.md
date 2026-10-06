@@ -38,3 +38,6 @@
 - **[2026-10-06 17:11 UTC]** Resultado das eleições 2026 em Paulo Ramos (MA): votação para presidente na Unidade Escolar José Francisco de Andrade, na 102ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-ramos-ma-votacao-para-presidente-na-unidade-escolar-jose-francisco-de-andrade-na-102a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:11 UTC]** Resultado das eleições 2026 em Paulo Ramos (MA): votação para presidente na Unidade Escolar Educandário da Paz, na 102ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-ramos-ma-votacao-para-presidente-na-unidade-escolar-educandario-da-paz-na-102a-zona-eleitoral.ghtml)_
+
