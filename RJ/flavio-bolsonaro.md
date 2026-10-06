@@ -4106,3 +4106,6 @@
 - **[2026-10-06 08:00 UTC]** Flávio e Lula definem estratégias para o 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/06/flavio-e-lula-definem-estrategias-para-o-2o-turno.ghtml)_
 
+- **[2026-10-06 08:55 UTC]** Lula e Flávio Bolsonaro retomam campanha no 2° turno
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-e-flavio-bolsonaro-retomam-campanha-no-2deg-turno)_
+
