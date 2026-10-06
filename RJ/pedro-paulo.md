@@ -506,3 +506,6 @@
 - **[2026-10-05 23:08 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. Prof. Paulo Graça, na 70ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-prof-paulo-graca-na-70a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:22 UTC]** Resultado das eleições 2026 em Santa Rita (PB): votação para presidente na Escola Mun. de Ens. Fund. Paulo Jorge Rodrigues de Lima, na 2ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-rita-pb-votacao-para-presidente-na-escola-mun-de-ens-fund-paulo-jorge-rodrigues-de-lima-na-2a-zona-eleitoral.ghtml)_
+
