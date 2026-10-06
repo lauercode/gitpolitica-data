@@ -11,3 +11,6 @@
 - **[2026-09-29 14:37 UTC]** Jones Manoel mira Presidência pensando nas crises da geração Z
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/jones-manoel-mira-presidencia-pensando-nas-crises-da-geracao-z.shtml)_
 
+- **[2026-10-06 14:33 UTC]** Quem é Jones Manoel, influenciador comunista eleito deputado que quer participar da campanha digital de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-e-jones-manoel-influenciador-comunista-eleito-deputado-que-quer-participar-da-campanha-digital-de-lula.shtml)_
+
