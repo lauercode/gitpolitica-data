@@ -68,3 +68,6 @@
 - **[2026-10-05 11:05 UTC]** Resultado das eleições 2026 em Bujari (AC): votação para presidente na Escola Rural Maria do Carmo Ramos, na 9ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bujari-ac-votacao-para-presidente-na-escola-rural-maria-do-carmo-ramos-na-9a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 10:06 UTC]** Resultado das eleições 2026 em Touros (RN): votação para presidente na Escola Municipal Maria do Carmo Ribeiro, na 14ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-touros-rn-votacao-para-presidente-na-escola-municipal-maria-do-carmo-ribeiro-na-14a-zona-eleitoral.ghtml)_
+
