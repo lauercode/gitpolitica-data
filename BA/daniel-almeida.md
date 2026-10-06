@@ -29,3 +29,6 @@
 - **[2026-10-05 13:12 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Maria Hayde Chacon de Almeida, na 3ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-maria-hayde-chacon-de-almeida-na-3a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:51 UTC]** Resultado das eleições 2026 em Tarauacá (AC): votação para presidente na Escola de Ensino Fundamental Governador Edmundo Pinto de Almeida, na 5ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tarauaca-ac-votacao-para-presidente-na-escola-de-ensino-fundamental-governador-edmundo-pinto-de-almeida-na-5a-zona-eleitoral.ghtml)_
+
