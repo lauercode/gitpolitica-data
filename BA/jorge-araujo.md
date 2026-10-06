@@ -23,3 +23,6 @@
 - **[2026-10-06 07:51 UTC]** Resultado das eleições 2026 em Zé Doca (MA): votação para presidente na Escola Municipal Antônio de Araújo, na 96ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ze-doca-ma-votacao-para-presidente-na-escola-municipal-antonio-de-araujo-na-96a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:50 UTC]** Resultado das eleições 2026 em Zé Doca (MA): votação para presidente no Ce Prof Francisco de Assis Amorim de Araújo (Bandeirante), na 96ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ze-doca-ma-votacao-para-presidente-no-ce-prof-francisco-de-assis-amorim-de-araujo-bandeirante-na-96a-zona-eleitoral.ghtml)_
+
