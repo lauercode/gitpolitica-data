@@ -4049,3 +4049,6 @@
 - **[2026-10-05 20:55 UTC]** Flávio Bolsonaro vai a Goiânia amanhã em busca de apoio de Caiado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/flavio-bolsonaro-vai-a-goiania-amanha-em-busca-de-apoio-de-caiado.ghtml)_
 
+- **[2026-10-05 20:24 UTC]** Ibovespa encerra acima dos 206 mil pontos pela 1ª vez na história com Flávio à frente de Lula no 1 º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/05/ibovespa-encerra-acima-dos-206-mil-pontos-pela-1a-vez-na-historia-com-flavio-a-frente-de-lula-no-1-o-turno.ghtml)_
+
