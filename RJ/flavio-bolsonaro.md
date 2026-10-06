@@ -3956,3 +3956,6 @@
 - **[2026-10-05 20:32 UTC]** Lula diz carregar 'promiscuidade' do STF na campanha e chama Flávio Bolsonaro de 'cara do sistema'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-diz-carregar-promiscuidade-do-stf-na-campanha-e-chama-flavio-bolsonaro-de-cara-do-sistema.shtml)_
 
+- **[2026-10-05 20:24 UTC]** Kassio quer julgar soltura de Bolsonaro após 2º turno e avalia libertar ex-presidente com liminar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-quer-julgar-soltura-de-bolsonaro-apos-2o-turno-e-avalia-libertar-ex-presidente-com-liminar.shtml)_
+
