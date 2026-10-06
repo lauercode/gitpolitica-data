@@ -4244,3 +4244,6 @@
 - **[2026-10-06 20:29 UTC]** Sem parentesco, só 5 de 29 candidatos que usaram nome de Bolsonaro ou de Lula na urna foram eleitos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/candidatos-nome-bolsonaro-lula-resultado-eleicoes-2026.ghtml)_
 
+- **[2026-10-06 19:55 UTC]** PP e União Brasil anunciam apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/pp-e-uniao-brasil-anunciam-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
