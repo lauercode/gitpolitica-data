@@ -3965,3 +3965,6 @@
 - **[2026-10-05 19:20 UTC]** Secretários de SP e Porto Alegre são cotados para MEC em eventual governo Flávio; federais temem cortes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/secretarios-de-sp-e-porto-alegre-sao-cotados-para-mec-em-eventual-governo-flavio-federais-temem-cortes.shtml)_
 
+- **[2026-10-05 19:09 UTC]** Zema declara apoio a Flávio Bolsonaro no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/zema-declara-apoio-a-flavio-bolsonaro-no-2o-turno.shtml)_
+
