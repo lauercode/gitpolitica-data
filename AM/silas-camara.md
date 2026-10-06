@@ -1334,3 +1334,6 @@ direitos
 - **[2026-10-06 12:30 UTC]** Centrão perde espaço para direita na Câmara, mas ainda será decisivo para governo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/centrao-perde-espaco-para-direita-na-camara-mas-ainda-sera-decisivo-para-governo.shtml)_
 
+- **[2026-10-06 12:00 UTC]** Indígenas perdem uma cadeira na Câmara e são 0,6% dos deputados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/indigenas-perdem-uma-cadeira-na-camara-e-sao-06-dos-deputados.shtml)_
+
