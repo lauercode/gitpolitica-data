@@ -71,3 +71,6 @@
 - **[2026-10-06 04:53 UTC]** Resultado das eleições 2026 em Xapuri (AC): votação para presidente na Escola Municipal Prof. Marta Fernandes de Souza, na 2ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-xapuri-ac-votacao-para-presidente-na-escola-municipal-prof-marta-fernandes-de-souza-na-2a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:26 UTC]** Resultado das eleições 2026 em Rio Largo (AL): votação para presidente na Escola Municipal Teresa Cristina Lins de Souza Costa, na 15ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rio-largo-al-votacao-para-presidente-na-escola-municipal-teresa-cristina-lins-de-souza-costa-na-15a-zona-eleitoral.ghtml)_
+
