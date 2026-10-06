@@ -3932,3 +3932,6 @@
 - **[2026-10-05 20:17 UTC]** Flávio deve ir a Goiânia nesta terça em busca do apoio de Caiado no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-deve-ir-a-goiania-nesta-terca-em-busca-do-apoio-de-caiado-no-2o-turno.ghtml)_
 
+- **[2026-10-05 20:07 UTC]** Ao lado de Nikolas Ferreira, Tarcísio diz que vai 'mergulhar de cabeça' na campanha de Flávio Bolsonaro em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/ao-lado-de-nikolas-ferreira-tarcisio-diz-que-vai-mergulhar-de-cabeca-na-campanha-de-flavio-bolsonaro-em-sp.ghtml)_
+
