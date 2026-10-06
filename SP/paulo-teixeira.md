@@ -14,3 +14,6 @@
 - **[2026-10-06 17:52 UTC]** Resultado das eleições 2026 em Teixeira (PB): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-teixeira-pb-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:51 UTC]** Resultado das eleições 2026 em Teixeira (PB): como foi a votação nos locais de votação da 30ª Zona Eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-teixeira-pb-como-foi-a-votacao-nos-locais-de-votacao-da-30a-zona-eleitoral.ghtml)_
+
