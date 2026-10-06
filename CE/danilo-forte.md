@@ -128,3 +128,6 @@
 - **[2026-09-30 19:52 UTC]** Forte incêndio atinge área de vegetação no distrito de Cacau Pirêra
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/30/forte-incendio-atinge-area-de-vegetacao-no-distrito-de-cacau-pirera.ghtml)_
 
+- **[2026-10-06 11:24 UTC]** Manhã no mercado: Forte alta dos ativos abre espaço para realização, mas otimismo eleitoral pode sustentar rali
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/06/manha-no-mercado-forte-alta-dos-ativos-abre-espaco-para-realizacao-mas-otimismo-eleitoral-pode-sustentar-rali.ghtml)_
+
