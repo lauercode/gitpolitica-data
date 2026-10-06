@@ -4013,3 +4013,6 @@
 - **[2026-10-06 00:32 UTC]** Trump diz que liderança de Flávio no primeiro turno foi 'grande vitória'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 22:37 UTC]** Roraima garante a Flávio Bolsonaro maior votação percentual do Brasil no 1º turno das Eleições 2026
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/05/roraima-garante-a-flavio-bolsonaro-maior-votacao-percentual-do-brasil.ghtml)_
+
