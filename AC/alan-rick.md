@@ -551,3 +551,6 @@
 - **[2026-10-05 20:35 UTC]** Viúva de Rick fala sobre saudade duas semanas após morte do cantor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/viuva-de-rick-fala-sobre-saudade-duas-semanas-apos-morte-do-cantor.shtml)_
 
+- **[2026-10-06 07:00 UTC]** Morte do cantor Rick: investigação busca câmera e celulares que estavam com vítimas no helicóptero para esclarecer acidente
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/06/morte-do-cantor-rick-investigacao-camera-celulares-estavam-vitimas-helicoptero.ghtml)_
+
