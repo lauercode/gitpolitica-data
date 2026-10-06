@@ -4223,3 +4223,6 @@
 - **[2026-10-06 15:43 UTC]** Alexandre de Moraes encaminha à PGR pedido de Bolsonaro para receber visita de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/06/alexandre-de-moraes-encaminha-a-pgr-pedido-de-bolsonaro-para-receber-visita-de-flavio.ghtml)_
 
+- **[2026-10-06 14:30 UTC]** Com Flávio Bolsonaro forte, Société Générale faz aposta dupla no real
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/06/com-flvio-bolsonaro-forte-socit-gnrale-faz-aposta-dupla-no-real.ghtml)_
+
