@@ -4265,3 +4265,6 @@
 - **[2026-10-06 17:26 UTC]** Flávio Roscoe é cotado para comandar pasta da indústria em eventual governo de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/flavio-roscoe-e-cotado-para-comandar-pasta-da-industria-em-eventual-governo-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-06 16:46 UTC]** Flávio Bolsonaro fala em usar maioria no Congresso para mudar a Constituição e 'redemocratizar o país'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caiado-confirma-apoio-a-flavio-bolsonaro-no-2o-turno-em-ato-com-governadores-reeleitos.shtml)_
+
