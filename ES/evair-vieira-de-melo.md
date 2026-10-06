@@ -56,3 +56,6 @@
 - **[2026-10-06 17:24 UTC]** Resultado das eleições 2026 em São Vicente (RN): votação para presidente na Escola Municipal Inacio Felix de Melo, na 21ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-vicente-rn-votacao-para-presidente-na-escola-municipal-inacio-felix-de-melo-na-21a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:13 UTC]** Resultado das eleições 2026 em Santo Antônio (RN): votação para presidente na Escola Municipal Maria Umbelino de Melo, na 13ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santo-antonio-rn-votacao-para-presidente-na-escola-municipal-maria-umbelino-de-melo-na-13a-zona-eleitoral.ghtml)_
+
