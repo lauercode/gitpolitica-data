@@ -3959,3 +3959,6 @@
 - **[2026-10-05 20:24 UTC]** Kassio quer julgar soltura de Bolsonaro após 2º turno e avalia libertar ex-presidente com liminar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-quer-julgar-soltura-de-bolsonaro-apos-2o-turno-e-avalia-libertar-ex-presidente-com-liminar.shtml)_
 
+- **[2026-10-05 19:26 UTC]** Para setores da indústria, Flávio Bolsonaro se esquiva de pauta sobre a China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/para-setores-da-industria-flavio-bolsonaro-se-esquiva-de-pauta-sobre-a-china.shtml)_
+
