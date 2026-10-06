@@ -50,3 +50,6 @@
 - **[2026-10-04 22:12 UTC]** Celina Leão e Leandro Grass disputam segundo turno no Distrito Federal
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/celina-leao-e-leandro-grass-disputam-segundo-turno-no-distrito-federal)_
 
+- **[2026-10-05 20:09 UTC]** Nova pesquisa Datafolha para segundo turno no DF mede distância entre Celina Leão e Leandro Grass
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/nova-pesquisa-datafolha-para-segundo-turno-no-df-mede-distancia-entre-celina-leao-e-leandro-grass.ghtml)_
+
