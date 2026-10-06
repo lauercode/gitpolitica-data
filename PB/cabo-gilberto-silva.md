@@ -20,3 +20,6 @@
 - **[2026-10-06 05:24 UTC]** Resultado das eleições 2026 em São Bento (PB): votação para presidente na Escola Municipal Dr Jarques Lucio da Silva, na 69ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-bento-pb-votacao-para-presidente-na-escola-municipal-dr-jarques-lucio-da-silva-na-69a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:24 UTC]** Resultado das eleições 2026 em São Bento (PB): votação para presidente na Escola Municipal Milton Lúcio da Silva, na 69ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-bento-pb-votacao-para-presidente-na-escola-municipal-milton-lucio-da-silva-na-69a-zona-eleitoral.ghtml)_
+
