@@ -11,3 +11,6 @@
 - **[2026-10-05 03:05 UTC]** Eleições 2026: Cabo Gilberto Silva (PL) é eleito deputado federal pela Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-cabo-gilberto-silva-pl-e-eleito-deputado-federal-pela-paraiba.ghtml)_
 
+- **[2026-10-06 05:27 UTC]** Resultado das eleições 2026 em Sapé (PB): votação para presidente na Creche Flavina Malheiros da Silva, na 4ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sape-pb-votacao-para-presidente-na-creche-flavina-malheiros-da-silva-na-4a-zona-eleitoral.ghtml)_
+
