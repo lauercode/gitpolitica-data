@@ -1253,3 +1253,6 @@ direitos
 - **[2026-10-05 17:42 UTC]** PL tem a maior bancada eleita na Câmara dos Deputados em 2026
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/pl-tem-a-maior-bancada-eleita-na-cmara-dos-deputados-em-2026.ghtml)_
 
+- **[2026-10-05 18:29 UTC]** Renovação da Câmara federal chegou a 35%; veja nova composição da Casa
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/renovacao-da-camara-federal-chegou-35-veja-nova-composicao-da-casa)_
+
