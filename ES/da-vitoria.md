@@ -20,3 +20,6 @@
 - **[2026-08-30 00:19 UTC]** Judô estreia no Spaten Fight com vitória de Rafaela Silva e derrota de Bia Souza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/judo-estreia-no-spaten-fight-com-vitoria-de-rafaela-silva-e-derrota-de-bia-souza.shtml)_
 
+- **[2026-10-05 23:50 UTC]** Vitoria histórica da direita nas urnas acua o STF e consagra Jair Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/vitoria-historica-da-direita-nas-urnas-acua-o-stf-e-consagra-jair-bolsonaro/)_
+
