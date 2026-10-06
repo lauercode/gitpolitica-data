@@ -4253,3 +4253,6 @@
 - **[2026-10-06 20:08 UTC]** Gilmar arquiva pedido de investigação contra vice de Flávio Bolsonaro por suspeita de estupro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/gilmar-arquiva-pedido-de-investigacao-contra-vice-de-flavio-bolsonaro-por-suspeita-de-estupro.shtml)_
 
+- **[2026-10-06 20:02 UTC]** Campanha de Lula buscará apoio de líderes regionais do centrão após Flávio Bolsonaro costurar com partidos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-buscara-apoio-de-lideres-regionais-do-centrao-apos-flavio-bolsonaro-costurar-com-partidos.shtml)_
+
