@@ -4097,3 +4097,6 @@
 - **[2026-10-06 04:41 UTC]** Maior avanço de Flávio foi nos grotões do Nordeste; Lula resiste nas cidades médias
   _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/10/maior-avanco-de-flavio-foi-nos-grotoes-do-nordeste-lula-resiste-nas-cidades-medias.ghtml)_
 
+- **[2026-10-06 01:57 UTC]** Nunes Marques quer julgar anulação da pena de Bolsonaro depois do segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/05/nunes-marques-quer-julgar-anulao-da-pena-de-bolsonaro-depois-do-segundo-turno.ghtml)_
+
