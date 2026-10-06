@@ -23,3 +23,6 @@
 - **[2026-10-06 05:11 UTC]** Resultado das eleições 2026 em Vilhena (RO): votação para presidente no Paulo Freire - Escola Estadual, na 4ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-vilhena-ro-votacao-para-presidente-no-paulo-freire-escola-estadual-na-4a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:53 UTC]** Resultado das eleições 2026 em Zé Doca (MA): votação para presidente na Escola Municipal Paulo Freire, na 96ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ze-doca-ma-votacao-para-presidente-na-escola-municipal-paulo-freire-na-96a-zona-eleitoral.ghtml)_
+
