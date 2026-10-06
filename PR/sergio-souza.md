@@ -248,3 +248,6 @@
 - **[2026-10-06 18:42 UTC]** Resultado das eleições 2026 em Pescaria Brava (SC): votação para presidente no Centro de Educação Infantil Hortêncio Bernardino de Souza - Estiva, na 20ª zona eleitoral
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pescaria-brava-sc-votacao-para-presidente-no-centro-de-educacao-infantil-hortencio-bernardino-de-souza-estiva-na-20a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 18:42 UTC]** Resultado das eleições 2026 em Pescaria Brava (SC): votação para presidente na Escola Municipal de Educação Básica Neri Mendonça de Souza, na 20ª zona eleitoral
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pescaria-brava-sc-votacao-para-presidente-na-escola-municipal-de-educacao-basica-neri-mendonca-de-souza-na-20a-zona-eleitoral.ghtml)_
+
