@@ -4130,3 +4130,6 @@
 - **[2026-10-06 14:16 UTC]** Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-06 12:39 UTC]** Mendonça multa Flávio por impulsionar post negativo contra Lula
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mendonca-multa-flavio-por-impulsionar-post-negativo-contra-lula)_
+
