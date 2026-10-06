@@ -4115,3 +4115,6 @@
 - **[2026-10-06 11:32 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Flávio após resultado do primeiro turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-flavio-apos-resultado-do-primeiro-turno.ghtml)_
 
+- **[2026-10-06 11:14 UTC]** Ressurgimento de Bolsonaro expõe a fraqueza de Lula, diz jornal econômico mais importante do mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/ressurgimento-de-bolsonaro-expoe-a-fraqueza-de-lula-diz-jornal-economico-mais-importante-do-mundo.shtml)_
+
