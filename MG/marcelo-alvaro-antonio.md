@@ -74,3 +74,6 @@
 - **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Antônio Prado (RS): votação para presidente no Salao Paroquial Nossa Senhora da Saude - Via Gta, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-antonio-prado-rs-votacao-para-presidente-no-salao-paroquial-nossa-senhora-da-saude-via-gta-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Antônio Prado (RS): votação para presidente na Creche Criança Feliz (Antigo João Xxiii), na 6ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-antonio-prado-rs-votacao-para-presidente-na-creche-crianca-feliz-antigo-joao-xxiii-na-6a-zona-eleitoral.ghtml)_
+
