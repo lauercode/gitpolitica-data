@@ -4121,3 +4121,6 @@
 - **[2026-10-06 10:02 UTC]** Campanha de Lula vai apostar em medo de fim de programas sociais para aumentar rejeição a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-vai-apostar-em-medo-de-fim-de-programas-sociais-para-aumentar-rejeicao-a-flavio.shtml)_
 
+- **[2026-10-06 13:53 UTC]** Quem é o ex-peronista que virou a casaca, abandonou Lula e comemorou vitória de Flávio no primeiro turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/perfil-ex-peronista-abandonou-lula-comemorou-vitoria-flavio-primeiro-turno/)_
+
