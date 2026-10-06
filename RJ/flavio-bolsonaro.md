@@ -4019,3 +4019,6 @@
 - **[2026-10-05 19:00 UTC]** Enviado por Bolsonaro, Hélio Lopes fica em 5º lugar e perde eleição para Senado em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/05/enviado-por-bolsonaro-helio-lopes-fica-em-5o-lugar-e-perde-eleicao-para-senado-em-roraima.ghtml)_
 
+- **[2026-10-05 19:41 UTC]** Lula (PT) ganha em 84 cidades do TO e Flávio (PL) em 54; Disputa ficou empatada em Crixás do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/05/lula-pt-ganha-em-84-cidades-do-to-e-flavio-pl-em-54-disputa-ficou-empatada-em-crixas-do-tocantins.ghtml)_
+
