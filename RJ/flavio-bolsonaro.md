@@ -4199,3 +4199,6 @@
 - **[2026-10-06 14:36 UTC]** Com vantagem sobre Lula, Flávio mobiliza aliados e busca ampliar base no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/com-vantagem-sobre-lula-flavio-mobiliza-aliados-busca-ampliar-base-segundo-turno/)_
 
+- **[2026-10-06 13:53 UTC]** Quem é o ex-peronista que virou a casaca, abandonou Lula e comemorou liderança de Flávio no primeiro turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/perfil-ex-peronista-abandonou-lula-comemorou-vitoria-flavio-primeiro-turno/)_
+
