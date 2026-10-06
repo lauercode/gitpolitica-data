@@ -14,3 +14,6 @@
 - **[2026-10-05 15:51 UTC]** João Carlos Martins e Gabriel Chalita apresentam 'O Pianista e o Poeta' em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/joao-carlos-martins-e-gabriel-chalita-apresentam-o-pianista-e-o-poeta-em-sp.shtml)_
 
+- **[2026-10-06 15:43 UTC]** Resultado das eleições 2026 em Tabatinga (AM): votação para presidente no C. E. T. I. João Carlos Pereira dos Santos, na 36ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tabatinga-am-votacao-para-presidente-no-c-e-t-i-joao-carlos-pereira-dos-santos-na-36a-zona-eleitoral.ghtml)_
+
