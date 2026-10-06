@@ -11,3 +11,6 @@
 - **[2026-10-06 07:01 UTC]** Resultado das eleições 2026 em Monte Alegre (PA): votação para presidente no Emef São Raimundo Nonato, na 19ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-monte-alegre-pa-votacao-para-presidente-no-emef-sao-raimundo-nonato-na-19a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:07 UTC]** Resultado das eleições 2026 em Viana (MA): votação para presidente na Escola Municipal São Raimundo Nonato, na 20ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-viana-ma-votacao-para-presidente-na-escola-municipal-sao-raimundo-nonato-na-20a-zona-eleitoral.ghtml)_
+
