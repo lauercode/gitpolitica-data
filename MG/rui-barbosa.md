@@ -8,3 +8,6 @@
 - **[2026-10-06 06:50 UTC]** Resultado das eleições 2026 em Senador La Rocque (MA): votação para presidente na Unidade Escolar Rui Barbosa, na 58ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-la-rocque-ma-votacao-para-presidente-na-unidade-escolar-rui-barbosa-na-58a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:51 UTC]** Resultado das eleições 2026 em Zé Doca (MA): votação para presidente na Escola Municipal Rui Barbosa I, na 96ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ze-doca-ma-votacao-para-presidente-na-escola-municipal-rui-barbosa-i-na-96a-zona-eleitoral.ghtml)_
+
