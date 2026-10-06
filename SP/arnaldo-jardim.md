@@ -62,3 +62,6 @@
 - **[2026-10-06 17:23 UTC]** Resultado das eleições 2026 em São Tomé (RN): votação para presidente no Jardim Escola Brincando e Aprendendo, na 19ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-tome-rn-votacao-para-presidente-no-jardim-escola-brincando-e-aprendendo-na-19a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 19:03 UTC]** Resultado das eleições 2026 em Viamão (RS): votação para presidente na Associação Comunitária do Jardim Castelo, na 72ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-viamao-rs-votacao-para-presidente-na-associacao-comunitaria-do-jardim-castelo-na-72a-zona-eleitoral.ghtml)_
+
