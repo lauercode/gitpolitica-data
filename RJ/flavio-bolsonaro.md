@@ -4259,3 +4259,6 @@
 - **[2026-10-06 19:48 UTC]** Lula diz que PL de Flávio Bolsonaro quer atrapalhar votação do fim da escala 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-diz-que-pl-de-flavio-bolsonaro-quer-atrapalhar-votacao-do-fim-da-escala-6x1.shtml)_
 
+- **[2026-10-06 19:40 UTC]** Coordenador da campanha de Flávio Bolsonaro passa mal e é levado ao hospital
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/coordenador-da-campanha-de-flavio-bolsonaro-passa-mal-e-e-levado-ao-hospital.shtml)_
+
