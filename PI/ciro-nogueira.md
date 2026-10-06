@@ -59,3 +59,6 @@
 - **[2026-10-05 01:35 UTC]** Renan Calheiros, Ciro Nogueira e Randolfe são derrotados e deixam Senado após longa trajetória
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-calheiros-ciro-nogueira-e-randolfe-sao-derrotados-e-deixam-senado-apos-longa-trajetoria.shtml)_
 
+- **[2026-10-05 18:03 UTC]** Ciro Nogueira defende apoio do PP a Flávio Bolsonaro no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ciro-nogueira-defende-apoio-do-pp-a-flavio-bolsonaro-no-2o-turno.shtml)_
+
