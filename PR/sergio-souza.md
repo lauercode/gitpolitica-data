@@ -86,3 +86,6 @@
 - **[2026-10-06 04:24 UTC]** Resultado das eleições 2026 em Porto Real do Colégio (AL): votação para presidente na Creche Municipal Maria de Souza Goes, na 37ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-porto-real-do-colegio-al-votacao-para-presidente-na-creche-municipal-maria-de-souza-goes-na-37a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:23 UTC]** Resultado das eleições 2026 em Pilar (AL): votação para presidente no Esc Mun Anísio de Souza - Complexo Prof Petronio Viana, na 8ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pilar-al-votacao-para-presidente-no-esc-mun-anisio-de-souza-complexo-prof-petronio-viana-na-8a-zona-eleitoral.ghtml)_
+
