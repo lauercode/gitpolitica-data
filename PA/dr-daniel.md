@@ -74,3 +74,6 @@
 - **[2026-10-05 04:35 UTC]** RESULTADO: Dr. Daniel (Podemos) é eleito governador; Helder e Chicão, ao Senado; veja como foi o dia de votação
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-para.ghtml)_
 
+- **[2026-10-06 00:05 UTC]** Base aliada de Dr. Daniel elege 5 dos 17 deputados federais do Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/05/base-aliada-de-dr-daniel-elege-5-dos-17-deputados-federais-do-para.ghtml)_
+
