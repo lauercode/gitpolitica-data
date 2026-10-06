@@ -134,3 +134,6 @@
 - **[2026-10-06 09:11 UTC]** Resultado das eleições 2026 em Natal (RN): votação para presidente no Ceep Prof. Djanira Brasilino de Souza, na 69ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-natal-rn-votacao-para-presidente-no-ceep-prof-djanira-brasilino-de-souza-na-69a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Alvorada (RS): votação para presidente na Escola Est de Ens Bas Julio Cesar Ribeiro de Souza, na 124ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alvorada-rs-votacao-para-presidente-na-escola-est-de-ens-bas-julio-cesar-ribeiro-de-souza-na-124a-zona-eleitoral.ghtml)_
+
