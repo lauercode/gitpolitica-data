@@ -17,3 +17,6 @@
 - **[2026-10-06 10:07 UTC]** Resultado das eleições 2026 em Touros (RN): votação para presidente na Escola Municipal Chico Mendes, na 14ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-touros-rn-votacao-para-presidente-na-escola-municipal-chico-mendes-na-14a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:09 UTC]** Resultado das eleições 2026 em Tartarugalzinho (AP): votação para presidente na Escola Estadual Chico Mendes, na 8ª zona eleitoral
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tartarugalzinho-ap-votacao-para-presidente-na-escola-estadual-chico-mendes-na-8a-zona-eleitoral.ghtml)_
+
