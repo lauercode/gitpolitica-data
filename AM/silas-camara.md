@@ -1265,3 +1265,6 @@ direitos
 - **[2026-10-05 22:30 UTC]** Câmara terá 3 deputados federais indígenas a partir de 2027; compare com as eleições anteriores
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-indigenas.ghtml)_
 
+- **[2026-10-05 19:30 UTC]** Câmara Municipal de SP tem nove vereadores eleitos deputados e terá nova composição em 2027
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/camara-municipal-de-sp-tem-nove-vereadores-eleitos-deputados-e-tera-nova-composicao-em-2027.ghtml)_
+
