@@ -11,3 +11,6 @@
 - **[2026-09-19 17:50 UTC]** Brasil se despede de Paulo Teixeira, referência no combate à Aids
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-09/brasil-se-despede-de-paulo-teixeira-referencia-no-combate-aids)_
 
+- **[2026-10-06 17:52 UTC]** Resultado das eleições 2026 em Teixeira (PB): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-teixeira-pb-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
