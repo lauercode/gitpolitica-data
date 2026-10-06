@@ -1301,3 +1301,6 @@ direitos
 - **[2026-10-05 23:34 UTC]** Câmara Municipal de Manaus terá seis novos vereadores a partir de 2027; veja quem deve assumir vagas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/camara-municipal-de-manaus-tera-seis-novos-vereadores-a-partir-de-2027-veja-quem-deve-assumir-vagas.ghtml)_
 
+- **[2026-10-06 03:00 UTC]** Avanço da direita no Congresso desafia Alcolumbre e Motta nas presidências da Câmara e do Senado em 2027
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/avanco-da-direita-no-congresso-desafia-alcolumbre-e-motta-nas-presidencias-da-camara-e-do-senado-em-2027.ghtml)_
+
