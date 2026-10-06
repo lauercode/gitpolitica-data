@@ -3923,3 +3923,6 @@
 - **[2026-10-05 23:41 UTC]** MAPAS: Confira onde Lula perdeu votos e onde Flávio Bolsonaro melhorou em relação ao pai
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/mapa-flavio-lula-oscilacao-votos-2026.ghtml)_
 
+- **[2026-10-05 21:54 UTC]** Zema declara apoio a Flávio Bolsonaro no segundo turno: 'não vou me omitir nem ficar em cima do muro'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/zema-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
