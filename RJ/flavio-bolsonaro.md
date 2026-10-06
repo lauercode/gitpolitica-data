@@ -4313,3 +4313,6 @@
 - **[2026-10-06 21:00 UTC]** Federação União Brasil-PP declara apoio a Flávio Bolsonaro no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/federacao-uniao-brasil-pp-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-06 20:08 UTC]** Ronaldo Caiado anuncia apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/ronaldo-caiado-anuncia-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml)_
+
