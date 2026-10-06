@@ -4022,3 +4022,6 @@
 - **[2026-10-05 19:41 UTC]** Lula (PT) ganha em 84 cidades do TO e Flávio (PL) em 54; Disputa ficou empatada em Crixás do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/05/lula-pt-ganha-em-84-cidades-do-to-e-flavio-pl-em-54-disputa-ficou-empatada-em-crixas-do-tocantins.ghtml)_
 
+- **[2026-10-05 23:01 UTC]** Medley vê rali dos mercados com prazo curto e diz que ‘história pode se repetir’ com Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/05/medley-v-rali-dos-mercados-com-prazo-curto-e-diz-que-histria-pode-se-repetir-com-flvio.ghtml)_
+
