@@ -20,3 +20,6 @@
 - **[2026-10-05 07:00 UTC]** Saiba quem é Adriano Silva (NOVO), vice-governador eleito em Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/saiba-quem-e-adriano-silva-novo-vice-governador-eleito-em-santa-catarina.ghtml)_
 
+- **[2026-10-06 12:52 UTC]** Justiça de AL absolve réu acusado de matar Adriano de Farias em Junqueiro, no interior do estado
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/10/06/justica-de-al-absolve-reu-acusado-de-matar-adriano-de-farias-em-junqueiro-no-interior-do-estado.ghtml)_
+
