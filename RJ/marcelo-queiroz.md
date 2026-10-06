@@ -32,3 +32,6 @@
 - **[2026-10-05 23:04 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. Raul de Queiroz Menezes Veiga, na 68ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-raul-de-queiroz-menezes-veiga-na-68a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 08:05 UTC]** Resultado das eleições 2026 em Dom Eliseu (PA): votação para presidente no Emeif Fund. Maçonaria Leonardo Lourenco de Queiroz, na 84ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-dom-eliseu-pa-votacao-para-presidente-no-emeif-fund-maconaria-leonardo-lourenco-de-queiroz-na-84a-zona-eleitoral.ghtml)_
+
