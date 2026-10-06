@@ -4109,3 +4109,6 @@
 - **[2026-10-06 08:55 UTC]** Lula e Flávio Bolsonaro retomam campanha no 2° turno
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-e-flavio-bolsonaro-retomam-campanha-no-2deg-turno)_
 
+- **[2026-10-06 13:16 UTC]** Nunes Marques deve liberar para julgamento pedido de Bolsonaro para anular condenação depois do 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/nunes-marques-deve-liberar-para-julgamento-pedido-de-bolsonaro-para-anular-condenacao-depois-do-2o-turno.ghtml)_
+
