@@ -17,3 +17,6 @@
 - **[2026-10-06 11:28 UTC]** Resultado das eleições 2026 em Boa Vista (RR): votação para presidente na Escola Estadual Dr. Luiz Rittler Brito de Lucena, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-dr-luiz-rittler-brito-de-lucena-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:28 UTC]** Resultado das eleições 2026 em Severiano Melo (RN): votação para presidente na Escola Municipal Ricardo Sergio de Lucena Melo, na 45ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-severiano-melo-rn-votacao-para-presidente-na-escola-municipal-ricardo-sergio-de-lucena-melo-na-45a-zona-eleitoral.ghtml)_
+
