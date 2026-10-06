@@ -1316,3 +1316,6 @@ direitos
 - **[2026-10-06 08:00 UTC]** Eleições 2026: bancada feminina do Pará diminui na Câmara dos Deputados
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/eleicoes-2026-bancada-feminina-do-para-diminui-na-camara-dos-deputados.ghtml)_
 
+- **[2026-10-06 08:00 UTC]** PL elege maior bancada na Câmara desde 1990
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/06/pl-elege-maior-bancada-na-camara-desde-1990.ghtml)_
+
