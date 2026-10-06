@@ -53,3 +53,6 @@
 - **[2026-10-06 05:25 UTC]** Resultado das eleições 2026 em São José de Piranhas (PB): votação para presidente no E.M.E.I.E.F. Antônio Lacerda Neto, na 40ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-de-piranhas-pb-votacao-para-presidente-no-e-m-e-i-e-f-antonio-lacerda-neto-na-40a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:22 UTC]** Resultado das eleições 2026 em Santa Rita (PB): votação para presidente no Iepaps - Inst. Evangélico. Antônio Petronilo dos Santos, na 2ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-rita-pb-votacao-para-presidente-no-iepaps-inst-evangelico-antonio-petronilo-dos-santos-na-2a-zona-eleitoral.ghtml)_
+
