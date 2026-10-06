@@ -50,3 +50,6 @@
 - **[2026-10-05 01:52 UTC]** Michelle Bolsonaro comemora eleição ao Senado, mas não menciona Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/michelle-bolsonaro-comemora-eleio-ao-senado-mas-no-menciona-flvio.ghtml)_
 
+- **[2026-10-05 20:00 UTC]** Como PL e Michelle Bolsonaro contribuíram com bancada feminina recorde na Câmara
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6d938105009o?at_medium=RSS&at_campaign=rss)_
+
