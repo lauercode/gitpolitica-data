@@ -4202,3 +4202,6 @@
 - **[2026-10-06 13:53 UTC]** Quem é o ex-peronista que virou a casaca, abandonou Lula e comemorou liderança de Flávio no primeiro turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/perfil-ex-peronista-abandonou-lula-comemorou-vitoria-flavio-primeiro-turno/)_
 
+- **[2026-10-06 15:38 UTC]** Sem mencionar Flávio, Trump diz que 1º turno 'foi uma grande vitória'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crkg7dj193xdo?at_medium=RSS&at_campaign=rss)_
+
