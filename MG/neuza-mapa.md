@@ -71,3 +71,6 @@
 - **[2026-10-06 16:59 UTC]** MAPA: veja o resultado das eleições 2026 em Manaus por local de votação e seção eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-manaus-por-local-de-votacao-e-secao-eleitoral.ghtml)_
 
+- **[2026-10-06 16:51 UTC]** MAPA: veja o resultado das eleições 2026 no Pará por local de votação e seção eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-no-para-por-local-de-votacao-e-secao-eleitoral.ghtml)_
+
