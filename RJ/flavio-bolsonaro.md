@@ -4301,3 +4301,6 @@
 - **[2026-10-06 22:59 UTC]** Lula desafia Flávio e diz que 'máscara vai cair' com votação da 6x1
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/lula-desafia-flavio-e-diz-que-mascara-vai-cair-com-votacao-da-6x1.ghtml)_
 
+- **[2026-10-06 21:55 UTC]** Flávio Bolsonaro diz que usará maioria no Congresso para mudar a Constituição Federal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flavio-bolsonaro-diz-que-usara-maioria-no-congresso-para-mudar-a-constituicao-federal.ghtml)_
+
