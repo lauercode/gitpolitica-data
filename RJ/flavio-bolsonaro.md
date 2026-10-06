@@ -4277,3 +4277,6 @@
 - **[2026-10-06 23:19 UTC]** Rogério Marinho, coordenador da campanha de Flávio, é levado ao hospital após mal-estar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-coordenador-da-campanha-de-flavio-e-levado-ao-hospital-apos-mal-estar/)_
 
+- **[2026-10-06 23:20 UTC]** Gilmar arquiva pedido de investigação contra vice de Flávio por suposto estupro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-arquiva-pedido-de-investigacao-contra-vice-de-flavio-por-suposto-estupro/)_
+
