@@ -23,3 +23,6 @@
 - **[2026-10-06 14:14 UTC]** Resultado das eleições 2026 em Canoinhas (SC): votação para presidente na Escola Básica Municipal Presidente Castelo Branco, na 8ª zona eleitoral
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-canoinhas-sc-votacao-para-presidente-na-escola-basica-municipal-presidente-castelo-branco-na-8a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 18:43 UTC]** Resultado das eleições 2026 em Jesuítas (PR): votação para presidente no Colégio Estadual Humberto de Alencar Castelo Branco, na 120ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jesuitas-pr-votacao-para-presidente-no-colegio-estadual-humberto-de-alencar-castelo-branco-na-120a-zona-eleitoral.ghtml)_
+
