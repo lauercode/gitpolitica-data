@@ -59,3 +59,6 @@
 - **[2026-10-05 01:05 UTC]** 'O que for crítica, será crítica, o que for construção, será construção', diz Juliana Brizola (PDT) após derrota no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/04/o-que-for-critica-sera-critica-o-que-for-construcao-sera-construcao-diz-juliana-brizola-pdt-apos-derrota-no-rs.ghtml)_
 
+- **[2026-10-06 07:00 UTC]** Zucco vence Juliana Brizola em 475 das 497 cidades do RS; veja mapa
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/zucco-vence-juliana-brizola-em-475-das-497-cidades-do-rs-veja-mapa.ghtml)_
+
