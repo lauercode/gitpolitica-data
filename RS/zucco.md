@@ -65,3 +65,6 @@
 - **[2026-10-06 07:00 UTC]** Zucco vence Juliana Brizola em 475 das 497 cidades do RS; veja mapa
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/zucco-vence-juliana-brizola-em-475-das-497-cidades-do-rs-veja-mapa.ghtml)_
 
+- **[2026-10-06 04:00 UTC]** Após ser eleito governador do RS, Zucco vai a Brasília para encontro com Flávio Bolsonaro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/apos-ser-eleito-governador-do-rs-zucco-vai-a-brasilia-para-encontro-com-flavio-bolsonaro.ghtml)_
+
