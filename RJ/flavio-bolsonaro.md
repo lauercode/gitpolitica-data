@@ -4169,3 +4169,6 @@
 - **[2026-10-06 13:50 UTC]** Daniella Marques é cotada para comandar área social em eventual governo Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/daniella-marques-e-cotada-para-comandar-area-social-em-eventual-governo-flavio-bolsonaro.shtml)_
 
+- **[2026-10-06 13:16 UTC]** Flávio Bolsonaro diz que discussão do fim da 6x1 é oportunista e defende remuneração por hora de trabalho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-diz-que-fim-da-escala-6x1-e-oportunismo-de-lula-para-ganhar-votos.shtml)_
+
