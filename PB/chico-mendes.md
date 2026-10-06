@@ -11,3 +11,6 @@
 - **[2026-09-04 08:00 UTC]** Legado de Chico Mendes impulsiona empreendedorismo verde no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/legado-de-chico-mendes-impulsiona-empreendedorismo-verde-no-brasil.shtml)_
 
+- **[2026-10-06 08:12 UTC]** Resultado das eleições 2026 em Quedas do Iguaçu (PR): votação para presidente no Colegio Estadual do Campo Chico Mendes, na 163ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-quedas-do-iguacu-pr-votacao-para-presidente-no-colegio-estadual-do-campo-chico-mendes-na-163a-zona-eleitoral.ghtml)_
+
