@@ -1259,3 +1259,6 @@ direitos
 - **[2026-10-05 18:50 UTC]** Confira o número de reeleitos, deputados de primeiro mandato e ex-deputados que voltam à Câmara
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309398-confira-o-numero-de-reeleitos-deputados-de-primeiro-mandato-e-ex-deputados-que-voltam-a-camara)_
 
+- **[2026-10-05 23:48 UTC]** Veja os estados que elegeram mais e menos mulheres para a Câmara e o Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/estados-mulheres-eleitas-2026.ghtml)_
+
