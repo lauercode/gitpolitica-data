@@ -4232,3 +4232,6 @@
 - **[2026-10-06 23:11 UTC]** Gilmar Mendes arquiva investigação de estupro contra vice de Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/gilmar-mendes-arquiva-investigacao-de-estupro-contra-vice-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-06 22:44 UTC]** Coordenador de campanha de Flávio, Rogério Marinho é levado a hospital no DF após 'mal-estar'
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/senador-rogerio-marinho-tem-mal-estar-e-e-levado-a-hospital-no-df-apos-evento-com-flavio-em-go.ghtml)_
+
