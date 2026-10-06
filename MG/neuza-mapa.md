@@ -53,3 +53,6 @@
 - **[2026-10-04 19:15 UTC]** MAPA mostra o resultado para presidente e governador por Estado e cidade
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 19:48 UTC]** Fábio vence em 67 cidades sergipanas e Valmir de Francisquinho em oito; VEJA MAPA
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/05/fabio-vence-em-67-cidades-sergipanas-valmir-de-francisquinho-ganha-em-oito.ghtml)_
+
