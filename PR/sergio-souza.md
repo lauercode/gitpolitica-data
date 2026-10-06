@@ -188,3 +188,6 @@
 - **[2026-10-06 10:12 UTC]** Resultado das eleições 2026 em Nova Mamoré (RO): votação para presidente no Onorina de Souza - Escola Municipal, na 1ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nova-mamore-ro-votacao-para-presidente-no-onorina-de-souza-escola-municipal-na-1a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 11:29 UTC]** Resultado das eleições 2026 em Boa Vista (RR): votação para presidente na Escola Municipal Juslany de Souza Flores, na 5ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-municipal-juslany-de-souza-flores-na-5a-zona-eleitoral.ghtml)_
+
