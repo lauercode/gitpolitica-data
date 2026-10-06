@@ -74,3 +74,6 @@
 - **[2026-10-05 16:53 UTC]** Jair Bolsonaro ‘pode ser forte candidato’ para disputar Presidência em 4 anos, diz Costa Neto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/jair-bolsonaro-pode-ser-forte-candidato-para-disputar-presidncia-em-4-anos-diz-costa-neto.ghtml)_
 
+- **[2026-10-05 23:50 UTC]** Vitoria histórica da direita nas urnas acua o STF e consagra Jair Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/vitoria-historica-da-direita-nas-urnas-acua-o-stf-e-consagra-jair-bolsonaro/)_
+
