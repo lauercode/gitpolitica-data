@@ -50,3 +50,6 @@
 - **[2026-10-04 14:48 UTC]** Álvaro Dias (PL) vota em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/04/alvaro-dias-pl-vota-em-natal.ghtml)_
 
+- **[2026-10-05 19:22 UTC]** Após derrota na eleição para o governo do RN, Álvaro Dias diz que 'a direita cresceu'
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/05/apos-derrota-na-eleicao-para-o-governo-do-rn-alvaro-dias-diz-que-a-direita-cresceu.ghtml)_
+
