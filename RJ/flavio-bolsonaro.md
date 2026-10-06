@@ -4028,3 +4028,6 @@
 - **[2026-10-05 22:46 UTC]** Coordenador da campanha de Flávio Bolsonaro diz que terá encontro com Edson Fachin
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/coordenador-da-campanha-de-flavio-bolsonaro-diz-que-tera-encontro-com-edson-fachin.ghtml)_
 
+- **[2026-10-05 22:30 UTC]** Com críticas ao STF, Zema declara apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/com-crticas-ao-stf-zema-declara-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml)_
+
