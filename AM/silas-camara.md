@@ -1295,3 +1295,6 @@ direitos
 - **[2026-10-05 20:00 UTC]** Como PL e Michelle Bolsonaro contribuíram com bancada feminina recorde na Câmara
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6d938105009o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-05 20:30 UTC]** Eleição para deputado estadual deve mudar três cadeiras na Câmara de Rio Branco; confira
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/eleicao-para-deputado-estadual-deve-mudar-tres-cadeiras-na-camara-de-rio-branco-confira.ghtml)_
+
