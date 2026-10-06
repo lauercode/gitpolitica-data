@@ -11,3 +11,6 @@
 - **[2026-10-05 07:30 UTC]** Resultado das eleições 2026 em Porto Walter (AC): votação para presidente na Escola Castelo Branco, na 4ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-porto-walter-ac-votacao-para-presidente-na-escola-castelo-branco-na-4a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:03 UTC]** Resultado das eleições 2026 em Beruri (AM): votação para presidente no E. M. Castelo Branco, na 54ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-beruri-am-votacao-para-presidente-no-e-m-castelo-branco-na-54a-zona-eleitoral.ghtml)_
+
