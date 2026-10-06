@@ -32,3 +32,6 @@
 - **[2026-10-06 18:39 UTC]** Resultado das eleições 2026 em Tapira (PR): votação para presidente no Colegio Estadual Presidente Castelo Branco, na 127ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tapira-pr-votacao-para-presidente-no-colegio-estadual-presidente-castelo-branco-na-127a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:12 UTC]** Resultado das eleições 2026 em Rorainópolis (RR): votação para presidente na Escola Municipal Professora Eulina Paulina de Oliveira Castelo Branco, na 8ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rorainopolis-rr-votacao-para-presidente-na-escola-municipal-professora-eulina-paulina-de-oliveira-castelo-branco-na-8a-zona-eleitoral.ghtml)_
+
