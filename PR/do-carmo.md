@@ -35,3 +35,6 @@
 - **[2026-10-06 15:24 UTC]** Resultado das eleições 2026 em Traipu (AL): votação para presidente no Ginásio de Esportes da Escola Prof. Avelina do Carmo, na 20ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-traipu-al-votacao-para-presidente-no-ginasio-de-esportes-da-escola-prof-avelina-do-carmo-na-20a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:07 UTC]** Resultado das eleições 2026 em Mazagão (AP): votação para presidente na Escola Municipal Professora Lucicarme do Carmo Barreto, na 5ª zona eleitoral
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-mazagao-ap-votacao-para-presidente-na-escola-municipal-professora-lucicarme-do-carmo-barreto-na-5a-zona-eleitoral.ghtml)_
+
