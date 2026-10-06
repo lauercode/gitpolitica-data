@@ -14,3 +14,6 @@
 - **[2026-10-05 08:38 UTC]** Resultado das eleições 2026 em São Brás (AL): votação para presidente na Escola Municipal José Araujo de Carvalho, na 37ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-sao-bras-al-votacao-para-presidente-na-escola-municipal-jose-araujo-de-carvalho-na-37a-zona-eleitoral-1.ghtml)_
 
+- **[2026-10-05 21:10 UTC]** Resultado das eleições 2026 em Maceió (AL): votação para presidente no E.E. Manoel de Araujo Doria, na 54ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-maceio-al-votacao-para-presidente-no-e-e-manoel-de-araujo-doria-na-54a-zona-eleitoral.ghtml)_
+
