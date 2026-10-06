@@ -1346,3 +1346,6 @@ direitos
 - **[2026-10-06 17:43 UTC]** Resultado das eleições 2026 em São Vicente do Seridó (PB): votação para presidente no Câmara Municipal, na 23ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-vicente-do-serido-pb-votacao-para-presidente-no-camara-municipal-na-23a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 16:44 UTC]** Câmara e Senado vão ter as maiores bancadas femininas da história
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/camara-e-senado-vao-ter-maiores-bancadas-femininas-da-historia)_
+
