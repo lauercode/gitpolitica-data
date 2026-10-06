@@ -4211,3 +4211,6 @@
 - **[2026-10-06 18:45 UTC]** Flávio Bolsonaro e Lula são contra ou a favor do fim da escala 6x1? Entenda
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/escala-6x1-como-flavio-e-lula-se-posicionam-sobre-proposta-de-reducao-de-jornada.ghtml)_
 
+- **[2026-10-06 18:01 UTC]** Flávio critica análise do fim da escala 6x1 durante eleições e chama Lula de 'oportunista'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flavio-diz-que-lula-e-oportunista-ao-defender-aprovacao-de-fim-da-escala-6x1-durante-eleicoes.ghtml)_
+
