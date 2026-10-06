@@ -14,3 +14,6 @@
 - **[2026-10-06 08:12 UTC]** Resultado das eleições 2026 em Quedas do Iguaçu (PR): votação para presidente no Colegio Estadual do Campo Chico Mendes, na 163ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-quedas-do-iguacu-pr-votacao-para-presidente-no-colegio-estadual-do-campo-chico-mendes-na-163a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 10:07 UTC]** Resultado das eleições 2026 em Touros (RN): votação para presidente na Escola Municipal Chico Mendes, na 14ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-touros-rn-votacao-para-presidente-na-escola-municipal-chico-mendes-na-14a-zona-eleitoral.ghtml)_
+
