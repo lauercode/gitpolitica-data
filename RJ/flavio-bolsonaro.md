@@ -4235,3 +4235,6 @@
 - **[2026-10-06 22:44 UTC]** Coordenador de campanha de Flávio, Rogério Marinho é levado a hospital no DF após 'mal-estar'
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/senador-rogerio-marinho-tem-mal-estar-e-e-levado-a-hospital-no-df-apos-evento-com-flavio-em-go.ghtml)_
 
+- **[2026-10-06 22:30 UTC]** Bancada ruralista anuncia apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/bancada-ruralista-anuncia-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
