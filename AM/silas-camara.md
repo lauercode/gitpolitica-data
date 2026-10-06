@@ -1349,3 +1349,6 @@ direitos
 - **[2026-10-06 16:44 UTC]** Câmara e Senado vão ter as maiores bancadas femininas da história
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/camara-e-senado-vao-ter-maiores-bancadas-femininas-da-historia)_
 
+- **[2026-10-06 21:14 UTC]** Eleições 2026: Veja quais partidos ganharam e perderam representantes na Assembleia Legislativa da PB e na Câmara Federal
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/eleicoes-2026-veja-quais-partidos-ganharam-e-perderam-representantes-na-assembleia-legislativa-da-pb-e-na-camara-federal.ghtml)_
+
