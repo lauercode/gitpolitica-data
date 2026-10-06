@@ -50,3 +50,6 @@
 - **[2026-10-06 11:28 UTC]** Resultado das eleições 2026 em Boa Vista (RR): votação para presidente no Colégio Estadual Militarizado Senador Helio da Costa Campos, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-no-colegio-estadual-militarizado-senador-helio-da-costa-campos-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:16 UTC]** Resultado das eleições 2026 em Senador Guiomard (AC): votação para presidente na Escola Aldaci Simoes da Costa, na 8ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-guiomard-ac-votacao-para-presidente-na-escola-aldaci-simoes-da-costa-na-8a-zona-eleitoral.ghtml)_
+
