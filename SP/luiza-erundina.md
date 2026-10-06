@@ -11,3 +11,6 @@
 - **[2026-10-05 13:44 UTC]** Viva Maria: Jacqueline Pitanguy analisa Erundina eleita aos 91 anos
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/viva-maria-jacqueline-pitanguy-analisa-erundina-eleita-aos-91-anos)_
 
+- **[2026-10-06 13:25 UTC]** Com 91 anos, Erundina é a deputada estadual mais velha eleita em 2026
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/com-91-anos-erundina-e-deputada-estadual-mais-velha-eleita-em-2026)_
+
