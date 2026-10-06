@@ -155,3 +155,6 @@
 - **[2026-10-02 10:27 UTC]** Vanessa da Mata, pagode e festa à fantasia: veja o que fazer em Sergipe neste fim de semana
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/02/confira-a-agenda-cultural-do-fim-de-semana-em-se.ghtml)_
 
+- **[2026-10-05 22:08 UTC]** Resultado das eleições 2026 em Mata Grande (AL): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-mata-grande-al-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
