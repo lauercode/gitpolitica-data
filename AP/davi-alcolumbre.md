@@ -296,3 +296,6 @@
 - **[2026-10-05 17:31 UTC]** PL não apoiará recondução de Alcolumbre à presidência do Senado em 2027, diz Costa Neto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/pl-nao-apoiara-reconducao-de-alcolumbre-a-presidencia-do-senado-em-2027-diz-costa-neto.ghtml)_
 
+- **[2026-10-05 17:46 UTC]** Alcolumbre deve seguir fiel a Lula, apesar de posição pró-Flávio do União
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/alcolumbre-deve-seguir-fiel-a-lula-apesar-de-posicao-pro-flavio-do-uniao.shtml)_
+
