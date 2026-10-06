@@ -3953,3 +3953,6 @@
 - **[2026-10-05 20:45 UTC]** Flávio Bolsonaro ganha terreno sobre Lula na periferia de SP; veja mapa de votação por zona eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-ganha-terreno-sobre-lula-na-periferia-de-sp-veja-mapa-de-votacao-por-zona-eleitoral.shtml)_
 
+- **[2026-10-05 20:32 UTC]** Lula diz carregar 'promiscuidade' do STF na campanha e chama Flávio Bolsonaro de 'cara do sistema'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-diz-carregar-promiscuidade-do-stf-na-campanha-e-chama-flavio-bolsonaro-de-cara-do-sistema.shtml)_
+
