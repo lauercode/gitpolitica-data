@@ -56,3 +56,6 @@
 - **[2026-10-06 05:22 UTC]** Resultado das eleições 2026 em Santa Rita (PB): votação para presidente no Iepaps - Inst. Evangélico. Antônio Petronilo dos Santos, na 2ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-rita-pb-votacao-para-presidente-no-iepaps-inst-evangelico-antonio-petronilo-dos-santos-na-2a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Antônio Prado (RS): votação para presidente no Apae - Associação de Pais e Amigos dos Excepcionais, na 6ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-antonio-prado-rs-votacao-para-presidente-no-apae-associacao-de-pais-e-amigos-dos-excepcionais-na-6a-zona-eleitoral.ghtml)_
+
