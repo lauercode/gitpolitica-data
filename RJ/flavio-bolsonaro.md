@@ -4061,3 +4061,6 @@
 - **[2026-10-05 18:52 UTC]** Nova pesquisa Datafolha para presidente no segundo turno testa se eleitor muda voto entre Lula e Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/nova-pesquisa-datafolha-para-presidente-no-segundo-turno-testa-se-eleitor-muda-voto-entre-lula-e-flavio.ghtml)_
 
+- **[2026-10-05 17:31 UTC]** Bolsonaro participará de eventual governo Flávio, diz presidente do PL
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/pl-nao-apoiara-reconducao-de-alcolumbre-a-presidencia-do-senado-em-2027-diz-costa-neto.ghtml)_
+
