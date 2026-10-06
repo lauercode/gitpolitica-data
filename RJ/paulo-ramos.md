@@ -23,3 +23,6 @@
 - **[2026-10-06 17:15 UTC]** Resultado das eleições 2026 em Paulo Ramos (MA): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-ramos-ma-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:12 UTC]** Resultado das eleições 2026 em Paulo Ramos (MA): votação para presidente na Unidade Escolar Ricardo Gomes dos Reis, na 102ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-ramos-ma-votacao-para-presidente-na-unidade-escolar-ricardo-gomes-dos-reis-na-102a-zona-eleitoral.ghtml)_
+
