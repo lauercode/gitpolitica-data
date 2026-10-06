@@ -4187,3 +4187,6 @@
 - **[2026-10-06 19:13 UTC]** Flávio acusa Lula de oportunismo com fim da escala 6×1 e defende proposta flexível
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-acusa-lula-oportunismo-fim-escala-6x1-defende-proposta-flexivel/)_
 
+- **[2026-10-06 17:32 UTC]** Moraes envia à PGR novo pedido de Flávio para visitar Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-envia-a-pgr-novo-pedido-de-flavio-para-visitar-bolsonaro/)_
+
