@@ -32,3 +32,6 @@
 - **[2026-10-06 17:27 UTC]** Resultado das eleições 2026 em Serra Negra do Norte (RN): votação para presidente na Escola Estadual Professor Leomar Batista de Araújo, na 26ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-serra-negra-do-norte-rn-votacao-para-presidente-na-escola-estadual-professor-leomar-batista-de-araujo-na-26a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:06 UTC]** Resultado das eleições 2026 em Iracema (RR): votação para presidente na Escola Estadual José Pereira de Araújo, na 6ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-iracema-rr-votacao-para-presidente-na-escola-estadual-jose-pereira-de-araujo-na-6a-zona-eleitoral.ghtml)_
+
