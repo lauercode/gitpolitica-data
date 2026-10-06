@@ -47,3 +47,6 @@
 - **[2026-10-06 06:51 UTC]** Resultado das eleições 2026 em Palmeirândia (MA): votação para presidente no Jardim de Infancia Pequeno Polegar, na 38ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-palmeirandia-ma-votacao-para-presidente-no-jardim-de-infancia-pequeno-polegar-na-38a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 06:57 UTC]** Resultado das eleições 2026 em Jardim Alegre (PR): como foi a votação no 1º turno
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jardim-alegre-pr-como-foi-a-votacao-no-1o-turno.ghtml)_
+
