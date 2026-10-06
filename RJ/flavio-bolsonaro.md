@@ -4076,3 +4076,6 @@
 - **[2026-10-06 03:00 UTC]** Cidades do Paraguai estão entre as que mais votaram em Flávio Bolsonaro no exterior
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/06/cidades-do-paraguai-estao-entre-as-que-mais-votaram-em-flavio-bolsonaro-no-exterior.ghtml)_
 
+- **[2026-10-06 03:00 UTC]** Ibovespa dispara e dólar cai após 1º turno: por que a vantagem de Flávio sobre Lula animou o mercado
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/06/ibovespa-dispara-e-dolar-cai-apos-1o-turno-por-que-a-vantagem-de-flavio-sobre-lula-animou-o-mercado.ghtml)_
+
