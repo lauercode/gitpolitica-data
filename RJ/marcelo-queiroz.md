@@ -44,3 +44,6 @@
 - **[2026-10-06 17:43 UTC]** Resultado das eleições 2026 em Serra Branca (PB): votação para presidente no Grupo Escolar Ana de Queiroz Torreão, na 58ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-serra-branca-pb-votacao-para-presidente-no-grupo-escolar-ana-de-queiroz-torreao-na-58a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 21:47 UTC]** Resultado das eleições 2026 em Peixe (TO): votação para presidente na Escola Municipal Herculano de Queiroz, na 20ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-peixe-to-votacao-para-presidente-na-escola-municipal-herculano-de-queiroz-na-20a-zona-eleitoral.ghtml)_
+
