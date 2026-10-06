@@ -23,3 +23,6 @@
 - **[2026-10-06 17:49 UTC]** Resultado das eleições 2026 em Tavares (PB): votação para presidente no E. M. Maria Amelia da Conceição, na 34ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tavares-pb-votacao-para-presidente-no-e-m-maria-amelia-da-conceicao-na-34a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 19:04 UTC]** Resultado das eleições 2026 em Tavares (RS): como foi a votação nos locais de votação da 122ª Zona Eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tavares-rs-como-foi-a-votacao-nos-locais-de-votacao-da-122a-zona-eleitoral.ghtml)_
+
