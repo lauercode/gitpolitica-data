@@ -38,3 +38,6 @@
 - **[2026-09-29 08:00 UTC]** Salles desiste e dá apoio a Derrite e Prado em São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/salles-desiste-e-da-apoio-a-derrite-e-prado-em-sao-paulo.ghtml)_
 
+- **[2026-10-06 06:56 UTC]** Resultado das eleições 2026 em Muaná (PA): votação para presidente no Emef José Benedito do Prado Pacheco, na 10ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-muana-pa-votacao-para-presidente-no-emef-jose-benedito-do-prado-pacheco-na-10a-zona-eleitoral.ghtml)_
+
