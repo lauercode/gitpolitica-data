@@ -32,3 +32,6 @@
 - **[2026-10-06 17:11 UTC]** Resultado das eleições 2026 em Paulo Ramos (MA): votação para presidente na Unidade Escolar Feliciano Alves da Silva, na 102ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-ramos-ma-votacao-para-presidente-na-unidade-escolar-feliciano-alves-da-silva-na-102a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:11 UTC]** Resultado das eleições 2026 em Paulo Ramos (MA): votação para presidente na Unidade Escolar Benedito Corrêa do Nascimento, na 102ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-ramos-ma-votacao-para-presidente-na-unidade-escolar-benedito-correa-do-nascimento-na-102a-zona-eleitoral.ghtml)_
+
