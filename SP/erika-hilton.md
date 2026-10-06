@@ -83,3 +83,6 @@
 - **[2026-10-06 14:43 UTC]** Juiz condena André Fernandes a pagar R$ 50 mil a Erika Hilton por menções no masculino
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/juiz-condena-andre-fernandes-a-pagar-50-mil-a-erika-hilton-por-mencoes-no-masculino/)_
 
+- **[2026-10-06 16:54 UTC]** Deputada estadual mais votada em SP é alvo de denúncia após chamar Erika Hilton de ‘homem biológico’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/deputada-estadual-mais-votada-em-sp-e-alvo-de-denuncia-apos-chamar-erika-hilton-de-homem-biologico.ghtml)_
+
