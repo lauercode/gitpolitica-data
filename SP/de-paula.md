@@ -11,3 +11,6 @@
 - **[2026-10-06 15:34 UTC]** Resultado das eleições 2026 em Itamarati (AM): votação para presidente no E. M. de Regime Integral Prof. Magide Teixeira de Paula, na 69ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-itamarati-am-votacao-para-presidente-no-e-m-de-regime-integral-prof-magide-teixeira-de-paula-na-69a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 16:46 UTC]** Resultado das eleições 2026 em Redenção (PA): votação para presidente na Creche Emei Prof Claudio Pereira de Paula, na 59ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-redencao-pa-votacao-para-presidente-na-creche-emei-prof-claudio-pereira-de-paula-na-59a-zona-eleitoral.ghtml)_
+
