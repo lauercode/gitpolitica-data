@@ -4052,3 +4052,6 @@
 - **[2026-10-05 20:24 UTC]** Ibovespa encerra acima dos 206 mil pontos pela 1ª vez na história com Flávio à frente de Lula no 1 º turno
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/05/ibovespa-encerra-acima-dos-206-mil-pontos-pela-1a-vez-na-historia-com-flavio-a-frente-de-lula-no-1-o-turno.ghtml)_
 
+- **[2026-10-05 20:14 UTC]** Ex-presidente Michel Temer declara apoio a Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/ex-presidente-michel-temer-declara-apoio-a-flvio-bolsonaro.ghtml)_
+
