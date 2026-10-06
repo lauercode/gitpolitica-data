@@ -35,3 +35,6 @@
 - **[2026-10-05 15:44 UTC]** Quem é Lucas Pavanato, aliado de Nikolas, que recebeu mais de 3 milhões de votos em São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/quem-e-lucas-pavanato-aliado-de-nikolas-que-recebeu-mais-de-3-milhoes-de-votos-em-sao-paulo.ghtml)_
 
+- **[2026-10-05 17:18 UTC]** Lucas Pavanato diz que vai lutar pelo impeachment de Alexandre de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/10/lucas-pavanato-diz-que-vai-lutar-pelo-impeachment-de-alexandre-de-moraes.shtml)_
+
