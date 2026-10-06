@@ -200,3 +200,6 @@
 - **[2026-10-06 15:05 UTC]** Resultado das eleições 2026 em Capixaba (AC): votação para presidente no Esc Ens Fun Prof Noelia Maria Alves de Souza, na 2ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-capixaba-ac-votacao-para-presidente-no-esc-ens-fun-prof-noelia-maria-alves-de-souza-na-2a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 16:55 UTC]** Resultado das eleições 2026 em Pacajá (PA): votação para presidente no Emef Cicero de Souza Leite Ii, na 80ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pacaja-pa-votacao-para-presidente-no-emef-cicero-de-souza-leite-ii-na-80a-zona-eleitoral.ghtml)_
+
