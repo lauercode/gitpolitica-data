@@ -47,3 +47,6 @@
 - **[2026-10-06 07:49 UTC]** Resultado das eleições 2026 em Santa Luzia do Paruá (MA): votação para presidente na Escola Municipal Bernardo Coelho de Almeida, na 80ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-luzia-do-parua-ma-votacao-para-presidente-na-escola-municipal-bernardo-coelho-de-almeida-na-80a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 11:23 UTC]** Resultado das eleições 2026 em Buritis (RO): votação para presidente no José Américo de Almeida - Escola Municipal, na 34ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-buritis-ro-votacao-para-presidente-no-jose-americo-de-almeida-escola-municipal-na-34a-zona-eleitoral.ghtml)_
+
