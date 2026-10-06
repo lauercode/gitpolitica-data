@@ -65,3 +65,6 @@
 - **[2026-10-04 21:51 UTC]** Apuração: Em Sergipe, Fábio tem 59% e Valmir de Francisquinho, 37%, com 53% das urnas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-em-sergipe-fabio-tem-59percent-e-valmir-de-francisquinho-37percent-com-53percent-das-urnas.ghtml)_
 
+- **[2026-10-05 22:27 UTC]** Após derrota para Fábio, Valmir de Francisquinho parabeniza candidatos eleitos democraticamente
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/05/valmir-de-francisquinho-fala-apos-eleicoes.ghtml)_
+
