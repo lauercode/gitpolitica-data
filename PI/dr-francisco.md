@@ -35,3 +35,6 @@
 - **[2026-10-06 04:33 UTC]** Resultado das eleições 2026 em Santana (AP): votação para presidente no E.E. Francisco de Oliveira Filho (Anauerapucu), na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santana-ap-votacao-para-presidente-no-e-e-francisco-de-oliveira-filho-anauerapucu-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:23 UTC]** Resultado das eleições 2026 em Santa Rita (PB): votação para presidente no Cofrag - Colégio Dr. Francisco Aguiar, na 3ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-rita-pb-votacao-para-presidente-no-cofrag-colegio-dr-francisco-aguiar-na-3a-zona-eleitoral.ghtml)_
+
