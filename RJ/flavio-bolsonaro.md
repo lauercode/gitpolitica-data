@@ -4007,3 +4007,6 @@
 - **[2026-10-05 19:46 UTC]** Defesa de Bolsonaro pede que Moraes libere visita de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-bolsonaro-pede-que-moraes-libere-visita-de-flavio/)_
 
+- **[2026-10-05 18:48 UTC]** Como foi o desempenho dos candidatos que apostaram em “Bolsonaro” como nome de urna
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-foi-o-desempenho-dos-candidatos-que-apostaram-em-bolsonaro-como-nome-de-urna/)_
+
