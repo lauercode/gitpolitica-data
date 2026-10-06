@@ -23,3 +23,6 @@
 - **[2026-10-04 17:15 UTC]** Patrus Ananias enfrenta 2 horas de fila para votar em Belo Horizonte
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/patrus-ananias-enfrenta-2-horas-de-fila-para-votar-em-belo-horizonte.ghtml)_
 
+- **[2026-10-06 05:30 UTC]** Resultado das eleições 2026 em Uiraúna (PB): votação para presidente no E. M. Ananias Alves de Figueiredo, na 53ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-uirauna-pb-votacao-para-presidente-no-e-m-ananias-alves-de-figueiredo-na-53a-zona-eleitoral.ghtml)_
+
