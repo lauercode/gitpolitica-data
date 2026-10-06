@@ -11,3 +11,6 @@
 - **[2026-10-06 04:26 UTC]** Resultado das eleições 2026 em Rio Largo (AL): votação para presidente na Escola Municipal de Ensino F. Professor José Edmilson, na 15ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rio-largo-al-votacao-para-presidente-na-escola-municipal-de-ensino-f-professor-jose-edmilson-na-15a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 22:29 UTC]** Resultado das eleições 2026 em Upanema (RN): votação para presidente na Escola Evangélica Professor José Inácio da Costa, na 49ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-upanema-rn-votacao-para-presidente-na-escola-evangelica-professor-jose-inacio-da-costa-na-49a-zona-eleitoral.ghtml)_
+
