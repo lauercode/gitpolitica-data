@@ -62,3 +62,6 @@
 - **[2026-10-05 23:54 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. Prof Maria Aimê Bezerra de Souza, na 65ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-prof-maria-aime-bezerra-de-souza-na-65a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 23:09 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. E. Raimunda Holanda de Souza, na 70ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-e-raimunda-holanda-de-souza-na-70a-zona-eleitoral.ghtml)_
+
