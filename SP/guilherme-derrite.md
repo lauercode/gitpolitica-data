@@ -86,3 +86,6 @@
 - **[2026-10-05 03:25 UTC]** Eleito em SP, Guilherme Derrite é o senador mais votado da história
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/eleito-em-sp-guilherme-derrite-e-o-senador-mais-votado-da-historia.ghtml)_
 
+- **[2026-10-06 06:00 UTC]** Estrategistas comemoram votações recorde de Tarcísio, Derrite e Prado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/estrategistas-comemoram-votacoes-recorde-de-tarcisio-derrite-e-prado.shtml)_
+
