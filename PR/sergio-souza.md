@@ -83,3 +83,6 @@
 - **[2026-10-06 04:24 UTC]** Resultado das eleições 2026 em Rio Largo (AL): votação para presidente no Grupo Escolar Odilo Alvares de Souza, na 15ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rio-largo-al-votacao-para-presidente-no-grupo-escolar-odilo-alvares-de-souza-na-15a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:24 UTC]** Resultado das eleições 2026 em Porto Real do Colégio (AL): votação para presidente na Creche Municipal Maria de Souza Goes, na 37ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-porto-real-do-colegio-al-votacao-para-presidente-na-creche-municipal-maria-de-souza-goes-na-37a-zona-eleitoral.ghtml)_
+
