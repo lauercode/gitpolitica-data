@@ -47,3 +47,6 @@
 - **[2026-10-06 15:48 UTC]** Resultado das eleições 2026 em Alto Alegre dos Parecis (RO): votação para presidente no Paulo Freire - Escola Municipal, na 19ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alto-alegre-dos-parecis-ro-votacao-para-presidente-no-paulo-freire-escola-municipal-na-19a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:31 UTC]** Resultado das eleições 2026 em Tobias Barreto (SE): votação para presidente no Emef Professor Paulo Freire, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tobias-barreto-se-votacao-para-presidente-no-emef-professor-paulo-freire-na-23a-zona-eleitoral.ghtml)_
+
