@@ -23,3 +23,6 @@
 - **[2026-10-04 14:09 UTC]** Wilson Lima (União Brasil) vota em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/wilson-lima-uniao-brasil-vota-em-manaus.ghtml)_
 
+- **[2026-10-06 20:57 UTC]** Após eleições, conselheiro do TCE-AM faz críticas à gestão do ex-governador Wilson Lima: 'verdadeiras organizações criminosas'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/06/apos-eleicoes-conselheiro-do-tce-am-faz-duras-criticas-a-gestao-do-ex-governador-wilson-lima-verdadeiras-organizacoes-criminosas.ghtml)_
+
