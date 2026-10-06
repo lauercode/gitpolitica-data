@@ -11,3 +11,6 @@
 - **[2026-09-24 18:14 UTC]** Datafolha: Governo Tarcísio tem 46% de avaliação positiva e 21% de negativa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-governo-tarcisio-tem-46-de-avaliacao-positiva-e-21-de-negativa.shtml)_
 
+- **[2026-10-06 12:43 UTC]** Governo Tarcísio abre processo para romper contrato por atraso no BRT do ABC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/governo-tarcisio-abre-processo-para-romper-contrato-por-atraso-no-brt-do-abc.shtml)_
+
