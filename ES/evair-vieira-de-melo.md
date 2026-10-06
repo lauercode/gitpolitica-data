@@ -32,3 +32,6 @@
 - **[2026-10-06 04:36 UTC]** Resultado das eleições 2026 em Santana (AP): votação para presidente na Escola Estadual Denise de Melo Vasconcelos, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santana-ap-votacao-para-presidente-na-escola-estadual-denise-de-melo-vasconcelos-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:13 UTC]** Resultado das eleições 2026 em Jaru (RO): votação para presidente no Pedro Vieira de Melo - Escola Estadual, na 10ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jaru-ro-votacao-para-presidente-no-pedro-vieira-de-melo-escola-estadual-na-10a-zona-eleitoral.ghtml)_
+
