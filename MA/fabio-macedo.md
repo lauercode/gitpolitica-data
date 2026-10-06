@@ -14,3 +14,6 @@
 - **[2026-10-06 17:12 UTC]** Resultado das eleições 2026 em Santana do Matos (RN): votação para presidente na Unidade Xvii Professor Antonio Corsino de Macedo, na 18ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santana-do-matos-rn-votacao-para-presidente-na-unidade-xvii-professor-antonio-corsino-de-macedo-na-18a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:19 UTC]** Resultado das eleições 2026 em São João da Baliza (RR): votação para presidente na Escola Estadual Francisco Ricardo de Macedo, na 4ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-joao-da-baliza-rr-votacao-para-presidente-na-escola-estadual-francisco-ricardo-de-macedo-na-4a-zona-eleitoral.ghtml)_
+
