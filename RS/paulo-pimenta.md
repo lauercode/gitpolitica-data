@@ -86,3 +86,6 @@
 - **[2026-10-06 05:07 UTC]** Resultado das eleições 2026 em Pimenta Bueno (RO): votação para presidente no Aguia Dourada - Escola Municipal, na 9ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pimenta-bueno-ro-votacao-para-presidente-no-aguia-dourada-escola-municipal-na-9a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:07 UTC]** Resultado das eleições 2026 em Pimenta Bueno (RO): votação para presidente no Casa de Detenção de Pimenta Bueno - Sejes-Cdpib, na 9ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pimenta-bueno-ro-votacao-para-presidente-no-casa-de-detencao-de-pimenta-bueno-sejes-cdpib-na-9a-zona-eleitoral.ghtml)_
+
