@@ -512,3 +512,6 @@
 - **[2026-10-06 14:06 UTC]** Resultado das eleições 2026 em Paulo Bento (RS): como foi a votação no 1º turno
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-bento-rs-como-foi-a-votacao-no-1o-turno.ghtml)_
 
+- **[2026-10-06 19:01 UTC]** Resultado das eleições 2026 em Paulo Bento (RS): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-bento-rs-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
