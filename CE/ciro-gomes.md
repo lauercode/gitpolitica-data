@@ -47,3 +47,6 @@
 - **[2026-10-05 08:00 UTC]** Elmano, do PT, vence Ciro Gomes e tem mais 4 anos no Ceará
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/elmano-do-pt-vence-ciro-gomes-e-tem-mais-4-anos-no-ceara.ghtml)_
 
+- **[2026-10-06 19:09 UTC]** Ciro Gomes diz que vai contestar na Justiça derrota na eleição do Ceará e critica STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ciro-gomes-diz-que-vai-contestar-na-justica-derrota-na-eleicao-do-ceara-e-critica-stf.shtml)_
+
