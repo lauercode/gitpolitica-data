@@ -4166,3 +4166,6 @@
 - **[2026-10-06 14:28 UTC]** Deputado próximo a Flávio Bolsonaro defende retomada da política armamentista em eventual governo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/deputado-proximo-a-flavio-bolsonaro-defende-retomada-da-politica-armamentista-em-eventual-governo.shtml)_
 
+- **[2026-10-06 13:50 UTC]** Daniella Marques é cotada para comandar área social em eventual governo Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/daniella-marques-e-cotada-para-comandar-area-social-em-eventual-governo-flavio-bolsonaro.shtml)_
+
