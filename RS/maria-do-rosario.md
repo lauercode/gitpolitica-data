@@ -44,3 +44,6 @@
 - **[2026-10-06 15:31 UTC]** Resultado das eleições 2026 em Alvarães (AM): votação para presidente no E. M. Nossa Senhora do Rosário, na 60ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alvaraes-am-votacao-para-presidente-no-e-m-nossa-senhora-do-rosario-na-60a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 19:02 UTC]** Resultado das eleições 2026 em Cotiporã (RS): votação para presidente no Salão Comunitário N. S. do Rosário, na 88ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-cotipora-rs-votacao-para-presidente-no-salao-comunitario-n-s-do-rosario-na-88a-zona-eleitoral.ghtml)_
+
