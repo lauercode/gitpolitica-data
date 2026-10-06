@@ -3998,3 +3998,6 @@
 - **[2026-10-05 21:00 UTC]** Interior gaúcho concentra 6 das 10 cidades com maior votação de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/maior-votacao-flavio-bolsonaro-cidades-primeiro-turno/)_
 
+- **[2026-10-05 21:40 UTC]** Bolsa bate recorde histórico e dólar despenca após Flávio Bolsonaro liderar 1º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/bolsa-passa-dos-200-mil-pontos-e-dolar-despenca-apos-flavio-bolsonaro-liderar-1o-turno/)_
+
