@@ -4145,3 +4145,6 @@
 - **[2026-10-06 16:22 UTC]** Campanha de Flávio Bolsonaro avalia ir a Aparecida no feriado de 12 de outubro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-flavio-bolsonaro-avalia-ir-a-aparecida-no-feriado-de-12-de-outubro.shtml)_
 
+- **[2026-10-06 15:52 UTC]** Reeleito, governador petista do Piauí pede esforço contra abstenção e crítica à biografia de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/reeleito-governador-petista-do-piaui-pede-esforco-contra-abstencao-e-critica-a-biografia-de-flavio.shtml)_
+
