@@ -41,3 +41,6 @@
 - **[2026-10-06 11:23 UTC]** Resultado das eleições 2026 em Buritis (RO): votação para presidente no Paulo Freire - Escola Municipal, na 34ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-buritis-ro-votacao-para-presidente-no-paulo-freire-escola-municipal-na-34a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 18:45 UTC]** Resultado das eleições 2026 em Sarandi (PR): votação para presidente na Escola Municipal Paulo Freire, na 206ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sarandi-pr-votacao-para-presidente-na-escola-municipal-paulo-freire-na-206a-zona-eleitoral.ghtml)_
+
