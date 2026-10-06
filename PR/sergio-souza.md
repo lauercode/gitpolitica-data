@@ -158,3 +158,6 @@
 - **[2026-10-06 13:53 UTC]** Resultado das eleições 2026 em Marques de Souza (RS): votação para presidente na Escola Estadual Severino José Freiner, na 29ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-marques-de-souza-rs-votacao-para-presidente-na-escola-estadual-severino-jose-freiner-na-29a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 13:53 UTC]** Resultado das eleições 2026 em Marques de Souza (RS): votação para presidente no Bragantino Esporte Clube, na 29ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-marques-de-souza-rs-votacao-para-presidente-no-bragantino-esporte-clube-na-29a-zona-eleitoral.ghtml)_
+
