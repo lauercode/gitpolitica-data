@@ -68,3 +68,6 @@
 - **[2026-10-05 22:27 UTC]** Após derrota para Fábio, Valmir de Francisquinho parabeniza candidatos eleitos democraticamente
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/05/valmir-de-francisquinho-fala-apos-eleicoes.ghtml)_
 
+- **[2026-10-05 19:48 UTC]** Fábio vence em 67 cidades sergipanas e Valmir de Francisquinho em oito; VEJA MAPA
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/05/fabio-vence-em-67-cidades-sergipanas-valmir-de-francisquinho-ganha-em-oito.ghtml)_
+
