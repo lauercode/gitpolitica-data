@@ -14,3 +14,6 @@
 - **[2026-10-06 05:27 UTC]** Resultado das eleições 2026 em Sapé (PB): votação para presidente na Creche Flavina Malheiros da Silva, na 4ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sape-pb-votacao-para-presidente-na-creche-flavina-malheiros-da-silva-na-4a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:25 UTC]** Resultado das eleições 2026 em São Bento (PB): votação para presidente na Escola Municipal André Pedro da Silva, na 69ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-bento-pb-votacao-para-presidente-na-escola-municipal-andre-pedro-da-silva-na-69a-zona-eleitoral.ghtml)_
+
