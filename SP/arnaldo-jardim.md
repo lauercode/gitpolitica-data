@@ -59,3 +59,6 @@
 - **[2026-10-06 17:46 UTC]** Resultado das eleições 2026 em Sousa (PB): votação para presidente no Emeif Maria Marques - Jardim Brasília, na 35ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sousa-pb-votacao-para-presidente-no-emeif-maria-marques-jardim-brasilia-na-35a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:23 UTC]** Resultado das eleições 2026 em São Tomé (RN): votação para presidente no Jardim Escola Brincando e Aprendendo, na 19ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-tome-rn-votacao-para-presidente-no-jardim-escola-brincando-e-aprendendo-na-19a-zona-eleitoral.ghtml)_
+
