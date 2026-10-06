@@ -80,3 +80,6 @@
 - **[2026-10-06 17:23 UTC]** MAPA: veja o resultado das eleições 2026 em Boa Vista por local de votação e seção eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-boa-vista-por-local-de-votacao-e-secao-eleitoral.ghtml)_
 
+- **[2026-10-06 17:20 UTC]** MAPA: veja o resultado das eleições 2026 em Palmas por local de votação e seção eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-palmas-por-local-de-votacao-e-secao-eleitoral.ghtml)_
+
