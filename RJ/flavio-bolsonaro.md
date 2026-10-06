@@ -4262,3 +4262,6 @@
 - **[2026-10-06 19:40 UTC]** Coordenador da campanha de Flávio Bolsonaro passa mal e é levado ao hospital
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/coordenador-da-campanha-de-flavio-bolsonaro-passa-mal-e-e-levado-ao-hospital.shtml)_
 
+- **[2026-10-06 17:26 UTC]** Flávio Roscoe é cotado para comandar pasta da indústria em eventual governo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/flavio-roscoe-e-cotado-para-comandar-pasta-da-industria-em-eventual-governo-de-flavio-bolsonaro.shtml)_
+
