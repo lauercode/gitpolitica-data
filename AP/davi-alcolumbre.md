@@ -317,3 +317,6 @@
 - **[2026-10-06 08:00 UTC]** Resultado das eleições dificulta estratégias de Alcolumbre e Motta
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/resultado-dificulta-estrategias-de-alcolumbre-e-motta.ghtml)_
 
+- **[2026-10-06 16:13 UTC]** Alcolumbre articula com governo tramitação do fim da escala 6x1, mas votação é incerta
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/06/alcolumbre-articula-com-governo-tramitacao-do-fim-da-escala-6x1-mas-votacao-e-incerta.ghtml)_
+
