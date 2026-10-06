@@ -1286,3 +1286,6 @@ direitos
 - **[2026-10-05 16:10 UTC]** SP elege seis egressos da Rota, para Senado, Câmara e Assembleia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/sp-elege-seis-egressos-da-rota-para-senado-camara-e-assembleia.shtml)_
 
+- **[2026-10-05 16:00 UTC]** MST elege 4 deputados para a Câmara, 1 a mais que em 2022, diz movimento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/mst-elege-4-deputados-para-a-camara-1-a-mais-que-em-2022-diz-movimento.shtml)_
+
