@@ -158,3 +158,6 @@
 - **[2026-10-06 15:02 UTC]** Cleitinho faz procedimentos estéticos um dia após ser eleito governador de MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/cleitinho-faz-procedimentos-esteticos-um-dia-apos-ser-eleito-governador-de-mg.shtml)_
 
+- **[2026-10-06 21:36 UTC]** Cleitinho aciona Tribunal de Contas para barrar aumento de pedágio em MG
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/cleitinho-aciona-tribunal-de-contas-para-barrar-aumento-de-pedgio-em-mg.ghtml)_
+
