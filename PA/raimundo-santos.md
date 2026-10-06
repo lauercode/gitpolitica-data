@@ -17,3 +17,6 @@
 - **[2026-10-06 16:49 UTC]** Resultado das eleições 2026 em Medicilândia (PA): votação para presidente no Emef Francisca Gomes dos Santos, na 85ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-medicilandia-pa-votacao-para-presidente-no-emef-francisca-gomes-dos-santos-na-85a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 16:45 UTC]** Resultado das eleições 2026 em Viseu (PA): votação para presidente no Emef Jovita dos Santos Gatinho, na 14ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-viseu-pa-votacao-para-presidente-no-emef-jovita-dos-santos-gatinho-na-14a-zona-eleitoral.ghtml)_
+
