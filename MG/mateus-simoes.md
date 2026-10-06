@@ -47,3 +47,6 @@
 - **[2026-10-06 17:01 UTC]** Mateus Simões se emociona em reunião de transição de governo em MG e diz ter 'medo de destruição'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/mateus-simes-se-emociona-em-reunio-de-transio-de-governo-em-mg-e-diz-ter-medo-de-destruio.ghtml)_
 
+- **[2026-10-06 16:21 UTC]** Derrotado em Minas, Mateus Simões reafirma apoio a Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/derrotado-em-minas-mateus-simoes-reafirma-apoio-a-flavio-bolsonaro.ghtml)_
+
