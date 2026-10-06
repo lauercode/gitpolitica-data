@@ -50,3 +50,6 @@
 - **[2026-10-06 21:49 UTC]** Resultado das eleições 2026 em Monte do Carmo (TO): como foi a votação nos locais de votação da 3ª Zona Eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-monte-do-carmo-to-como-foi-a-votacao-nos-locais-de-votacao-da-3a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 21:48 UTC]** Resultado das eleições 2026 em Monte do Carmo (TO): votação para presidente na Escola Estadual Che Guevara - Antigo Prof. Adonias., na 3ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-monte-do-carmo-to-votacao-para-presidente-na-escola-estadual-che-guevara-antigo-prof-adonias-na-3a-zona-eleitoral.ghtml)_
+
