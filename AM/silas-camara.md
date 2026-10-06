@@ -1340,3 +1340,6 @@ direitos
 - **[2026-10-06 15:05 UTC]** Resultado das eleições 2026 em Porto Acre (AC): votação para presidente no Câmara Municipal de Porto Acre, na 1ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-porto-acre-ac-votacao-para-presidente-no-camara-municipal-de-porto-acre-na-1a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:50 UTC]** Resultado das eleições 2026 em Uiraúna (PB): votação para presidente no Câmara Municipal de Uiraúna-Pb, na 53ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-uirauna-pb-votacao-para-presidente-no-camara-municipal-de-uirauna-pb-na-53a-zona-eleitoral.ghtml)_
+
