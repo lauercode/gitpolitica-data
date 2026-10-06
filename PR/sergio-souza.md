@@ -59,3 +59,6 @@
 - **[2026-10-05 21:10 UTC]** Resultado das eleições 2026 em Maceió (AL): votação para presidente no E.E. Pastor Jose Tavares de Souza, na 54ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-maceio-al-votacao-para-presidente-no-e-e-pastor-jose-tavares-de-souza-na-54a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 23:54 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. Prof Maria Aimê Bezerra de Souza, na 65ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-prof-maria-aime-bezerra-de-souza-na-65a-zona-eleitoral.ghtml)_
+
