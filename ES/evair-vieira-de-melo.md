@@ -50,3 +50,6 @@
 - **[2026-10-06 11:29 UTC]** Resultado das eleições 2026 em Boa Vista (RR): votação para presidente na Escola Estadual Nilo José de Melo, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-nilo-jose-de-melo-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 16:46 UTC]** Resultado das eleições 2026 em Redenção (PA): votação para presidente no Emef Ronan Fidelis de Melo, na 59ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-redencao-pa-votacao-para-presidente-no-emef-ronan-fidelis-de-melo-na-59a-zona-eleitoral.ghtml)_
+
