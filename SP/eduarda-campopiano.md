@@ -20,3 +20,6 @@
 - **[2026-10-06 17:47 UTC]** Ex-baterista do Angra critica Eduarda Campopiano, do PL: 'Tira essa camiseta'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/ex-baterista-do-angra-critica-eduarda-campopiano-do-pl-tira-essa-camiseta.shtml)_
 
+- **[2026-10-06 19:51 UTC]** Quem é Eduarda Campopiano e quais as suas propostas?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/quem-e-eduarda-campopiano-e-quais-as-suas-propostas.ghtml)_
+
