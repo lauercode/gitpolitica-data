@@ -92,3 +92,6 @@
 - **[2026-10-06 15:31 UTC]** Resultado das eleições 2026 em Alto Paraíso (RO): votação para presidente no Rogério da Silva Gonçalves - Escola Municipal, na 25ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alto-paraiso-ro-votacao-para-presidente-no-rogerio-da-silva-goncalves-escola-municipal-na-25a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:29 UTC]** Rogério Marinho diz que tratou sobre impeachment de ministros com Fachin
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/06/marinho-diz-que-tratou-sobre-impeachment-de-ministros-com-fachin.ghtml)_
+
