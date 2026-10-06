@@ -4283,3 +4283,6 @@
 - **[2026-10-06 21:30 UTC]** PGR se manifesta a favor de visita de Flávio a Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-se-manifesta-a-favor-de-visita-de-flavio-a-bolsonaro/)_
 
+- **[2026-10-06 20:35 UTC]** Candidatos derrotados no 1º turno começam a definir apoio a Flávio e Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-derrotados-no-1o-turno-comecam-a-definir-apoio-a-flavio-e-lula/)_
+
