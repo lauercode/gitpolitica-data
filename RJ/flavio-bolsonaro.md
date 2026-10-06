@@ -4289,3 +4289,6 @@
 - **[2026-10-06 21:25 UTC]** O que se sabe e o que falta definir sobre a participação de Lula e Flávio nos debates do 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd93nkj51pgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-06 19:39 UTC]** Filho '04' de Bolsonaro, 'Terror da Tiarinha' e deputados estaduais: os novos eleitos de SC para a Câmara Federal
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/filho-04-de-bolsonaro-terror-da-tiarinha-deputados-estaduais-novos-eleitos-para-camara-federal.ghtml)_
+
