@@ -4238,3 +4238,6 @@
 - **[2026-10-06 22:30 UTC]** Bancada ruralista anuncia apoio a Flávio Bolsonaro no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/bancada-ruralista-anuncia-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-06 20:58 UTC]** PGR concorda com visita de Flávio Bolsonaro ao pai; pedido foi feito pela defesa após primeiro turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/pgr-nao-se-opoe-a-visita-de-flavio-bolsonaro-ao-pai.ghtml)_
+
