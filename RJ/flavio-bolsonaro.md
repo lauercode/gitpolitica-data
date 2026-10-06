@@ -4292,3 +4292,6 @@
 - **[2026-10-06 19:39 UTC]** Filho '04' de Bolsonaro, 'Terror da Tiarinha' e deputados estaduais: os novos eleitos de SC para a Câmara Federal
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/filho-04-de-bolsonaro-terror-da-tiarinha-deputados-estaduais-novos-eleitos-para-camara-federal.ghtml)_
 
+- **[2026-10-06 23:11 UTC]** Gilmar arquiva investigação contra vice de Flávio sobre suspeitas de estupro de vulnerável
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/gilmar-arquiva-investigacao-contra-vice-de-flavio-sobre-suspeitas-de-estupro-de-vulneravel.ghtml)_
+
