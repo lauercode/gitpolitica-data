@@ -137,3 +137,6 @@
 - **[2026-09-19 20:22 UTC]** Cleber e Cauan contam como noiva foi surpreendida pela dupla em casamento em Fernando de Noronha; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/19/cleber-e-cauan-contam-como-noiva-foi-surpreendida-pela-dupla-em-casamento-em-fernando-de-noronha-video.ghtml)_
 
+- **[2026-10-06 09:59 UTC]** Resultado das eleições 2026 em São Gonçalo do Amarante (RN): votação para presidente na Escola Municipal Jonas Escolastico de Noronha, na 51ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-goncalo-do-amarante-rn-votacao-para-presidente-na-escola-municipal-jonas-escolastico-de-noronha-na-51a-zona-eleitoral.ghtml)_
+
