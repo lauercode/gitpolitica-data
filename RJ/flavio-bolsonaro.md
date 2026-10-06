@@ -4304,3 +4304,6 @@
 - **[2026-10-06 21:55 UTC]** Flávio Bolsonaro diz que usará maioria no Congresso para mudar a Constituição Federal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flavio-bolsonaro-diz-que-usara-maioria-no-congresso-para-mudar-a-constituicao-federal.ghtml)_
 
+- **[2026-10-06 21:24 UTC]** PGR se manifesta a favor da retomada de visitas de Flávio a Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/06/pgr-se-manifesta-a-favor-da-retomada-de-visitas-de-flavio-a-bolsonaro.ghtml)_
+
