@@ -4070,3 +4070,6 @@
 - **[2026-10-06 03:00 UTC]** Flávio ou Lula: crescimento do PL no Congresso pode impor desafio à governabilidade, a depender de quem vença eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/flavio-ou-lula-crescimento-do-pl-no-congresso-pode-impor-desafio-a-governabilidade-a-depender-de-quem-venca-eleicao.ghtml)_
 
+- **[2026-10-06 03:00 UTC]** MAPA: Lula perde votos no Nordeste, e Flávio Bolsonaro avança em relação ao pai; veja movimentos estado a estado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/nordeste-lula-flavio-bolsonaro-oscilacao-2022-2026.ghtml)_
+
