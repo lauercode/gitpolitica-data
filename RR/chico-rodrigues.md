@@ -23,3 +23,6 @@
 - **[2026-10-03 22:43 UTC]** Quaest para o Senado em Roraima, votos válidos: Nicoletti, 26%; Teresa Surita, 25%; Helena da Asatur, 19%; Chico Rodrigues, 15%
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/03/quaest-roraima-senado-3-outubro.ghtml)_
 
+- **[2026-10-06 07:59 UTC]** Resultado das eleições 2026 em Pacajá (PA): votação para presidente no Cicero Rodrigues, na 80ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pacaja-pa-votacao-para-presidente-no-cicero-rodrigues-na-80a-zona-eleitoral.ghtml)_
+
