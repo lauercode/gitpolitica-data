@@ -38,3 +38,6 @@
 - **[2026-10-06 17:05 UTC]** Resultado das eleições 2026 em Tasso Fragoso (MA): votação para presidente na Escola Municipal Prof. Ana Alves de Araujo Moraes, na 11ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tasso-fragoso-ma-votacao-para-presidente-na-escola-municipal-prof-ana-alves-de-araujo-moraes-na-11a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:18 UTC]** Resultado das eleições 2026 em São José do Campestre (RN): votação para presidente na Escola Municipal Antonio Matias de Araujo, na 15ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-do-campestre-rn-votacao-para-presidente-na-escola-municipal-antonio-matias-de-araujo-na-15a-zona-eleitoral.ghtml)_
+
