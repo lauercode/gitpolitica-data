@@ -4058,3 +4058,6 @@
 - **[2026-10-05 20:00 UTC]** Defesa de Jair Bolsonaro pede que Alexandre de Moraes autorize visita de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/05/defesa-de-jair-bolsonaro-pede-que-alexandre-de-moraes-autorize-visita-de-flvio.ghtml)_
 
+- **[2026-10-05 18:52 UTC]** Nova pesquisa Datafolha para presidente no segundo turno testa se eleitor muda voto entre Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/nova-pesquisa-datafolha-para-presidente-no-segundo-turno-testa-se-eleitor-muda-voto-entre-lula-e-flavio.ghtml)_
+
