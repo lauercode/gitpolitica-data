@@ -56,3 +56,6 @@
 - **[2026-10-05 20:48 UTC]** Desistência de Garotinho pode garantir eleição de Douglas Ruas no 1º turno, diz especialista
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/desistncia-de-garotinho-pode-garantir-eleio-de-douglas-ruas-no-1-turno-diz-especialista.ghtml)_
 
+- **[2026-10-05 17:38 UTC]** Nacionalização da campanha no Rio impulsionou Douglas Ruas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/direita-se-fortalece-no-rio-aps-avano-do-pl-e-fora-do-bolsonarismo.ghtml)_
+
