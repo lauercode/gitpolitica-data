@@ -29,3 +29,6 @@
 - **[2026-10-06 09:09 UTC]** Resultado das eleições 2026 em Natal (RN): votação para presidente na Escola Municipal Sao Francisco de Assis, na 2ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-natal-rn-votacao-para-presidente-na-escola-municipal-sao-francisco-de-assis-na-2a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:44 UTC]** Resultado das eleições 2026 em Tonantins (AM): votação para presidente no E. M. de São Francisco de Assis, na 47ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tonantins-am-votacao-para-presidente-no-e-m-de-sao-francisco-de-assis-na-47a-zona-eleitoral.ghtml)_
+
