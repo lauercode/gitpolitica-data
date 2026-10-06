@@ -23,3 +23,6 @@
 - **[2026-10-06 08:12 UTC]** Resultado das eleições 2026 em Toledo (PR): votação para presidente na Escola Municipal São Francisco de Assis, na 75ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-toledo-pr-votacao-para-presidente-na-escola-municipal-sao-francisco-de-assis-na-75a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:27 UTC]** Resultado das eleições 2026 em Santa Cruz (RN): votação para presidente na Escola Prof Francisco de Assis Ribeiro, na 16ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-cruz-rn-votacao-para-presidente-na-escola-prof-francisco-de-assis-ribeiro-na-16a-zona-eleitoral.ghtml)_
+
