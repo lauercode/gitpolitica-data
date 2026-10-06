@@ -71,3 +71,6 @@
 - **[2026-10-04 23:16 UTC]** Arthur Henrique fala em priorizar saúde e levar atendimentos para o interior ao ser eleito governador de Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/04/arthur-henrique-fala-em-priorizar-saude-e-levar-atendimentos-para-o-interior-ao-ser-eleito-governador-de-roraima.ghtml)_
 
+- **[2026-10-06 08:00 UTC]** Governador eleito Arthur Henrique ganhou em 13 dos 15 municípios de Roraima
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/governador-eleito-arthur-henrique-ganhou-em-13-dos-15-municipios-de-roraima.ghtml)_
+
