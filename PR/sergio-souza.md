@@ -110,3 +110,6 @@
 - **[2026-10-06 06:56 UTC]** Resultado das eleições 2026 em Curitiba (PR): votação para presidente na Escola Municipal Professor Pedro Viriato Parigot de Souza, na 145ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-curitiba-pr-votacao-para-presidente-na-escola-municipal-professor-pedro-viriato-parigot-de-souza-na-145a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:18 UTC]** Resultado das eleições 2026 em Alta Floresta d'Oeste (RO): votação para presidente no Maria de Souza Pego - Escola Municipal - Distr Nova Geaza, na 17ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alta-floresta-d-oeste-ro-votacao-para-presidente-no-maria-de-souza-pego-escola-municipal-distr-nova-geaza-na-17a-zona-eleitoral.ghtml)_
+
