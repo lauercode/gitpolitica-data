@@ -209,3 +209,6 @@
 - **[2026-10-06 16:45 UTC]** Resultado das eleições 2026 em Viseu (PA): votação para presidente no Emef Ana Dutra de Souza Vale, na 14ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-viseu-pa-votacao-para-presidente-no-emef-ana-dutra-de-souza-vale-na-14a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:52 UTC]** Resultado das eleições 2026 em Umbuzeiro (PB): votação para presidente na Escola Municipal Maria Barbosa de Souza, na 18ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-umbuzeiro-pb-votacao-para-presidente-na-escola-municipal-maria-barbosa-de-souza-na-18a-zona-eleitoral.ghtml)_
+
