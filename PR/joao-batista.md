@@ -17,3 +17,6 @@
 - **[2026-10-06 06:53 UTC]** Resultado das eleições 2026 em Serrano do Maranhão (MA): votação para presidente no C.E.F. São João Batista, na 107ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-serrano-do-maranhao-ma-votacao-para-presidente-no-c-e-f-sao-joao-batista-na-107a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:26 UTC]** Resultado das eleições 2026 em São José de Piranhas (PB): votação para presidente no E.M.E.I.F. João Batista Campos, na 40ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-de-piranhas-pb-votacao-para-presidente-no-e-m-e-i-f-joao-batista-campos-na-40a-zona-eleitoral.ghtml)_
+
