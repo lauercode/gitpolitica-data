@@ -23,3 +23,6 @@
 - **[2026-09-16 17:04 UTC]** Procurador de Justiça aposentado Nilo Figueiredo Maia morre ao 79 anos no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/16/procurador-de-justica-aposentado-nilo-figueiredo-maia-morre-no-acre.ghtml)_
 
+- **[2026-10-06 22:28 UTC]** Resultado das eleições 2026 em Ministro Andreazza (RO): votação para presidente no Nilo Coelho - Escola Estadual, na 11ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ministro-andreazza-ro-votacao-para-presidente-no-nilo-coelho-escola-estadual-na-11a-zona-eleitoral.ghtml)_
+
