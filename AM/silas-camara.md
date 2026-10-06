@@ -1292,3 +1292,6 @@ direitos
 - **[2026-10-05 20:27 UTC]** PL amplia bancada na Câmara e mira mais poder, mas Centrão continua decisivo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pl-amplia-bancada-na-camara-e-mira-mais-poder-mas-centrao-continua-decisivo/)_
 
+- **[2026-10-05 20:00 UTC]** Como PL e Michelle Bolsonaro contribuíram com bancada feminina recorde na Câmara
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6d938105009o?at_medium=RSS&at_campaign=rss)_
+
