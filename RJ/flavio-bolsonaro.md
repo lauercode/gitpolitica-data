@@ -3917,3 +3917,6 @@
 - **[2026-10-05 15:14 UTC]** Rali não deve ser passageiro e bolsa pode subir até 45% com provável vitória de Flávio, apontam bancos
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/05/rali-nao-deve-ser-passageiro-e-bolsa-pode-subir-ate-45percent-com-provavel-vitoria-de-flavio-apontam-bancos.ghtml)_
 
+- **[2026-10-05 16:55 UTC]** Bolsonaro pede liberação de visitas de Flávio na prisão domiciliar
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/bolsonaro-pede-liberacao-de-visitas-de-flavio-na-prisao-domiciliar)_
+
