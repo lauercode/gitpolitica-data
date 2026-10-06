@@ -119,3 +119,6 @@
 - **[2026-10-06 05:07 UTC]** Resultado das eleições 2026 em Pimenta Bueno (RO): votação para presidente no Luiz Cabral de Souza - Escola Polo Municipal, na 9ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pimenta-bueno-ro-votacao-para-presidente-no-luiz-cabral-de-souza-escola-polo-municipal-na-9a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:49 UTC]** Resultado das eleições 2026 em Miranda do Norte (MA): votação para presidente na Unidade Escolar Francisco Carneiro de Souza, na 109ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-miranda-do-norte-ma-votacao-para-presidente-na-unidade-escolar-francisco-carneiro-de-souza-na-109a-zona-eleitoral.ghtml)_
+
