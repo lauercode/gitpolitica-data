@@ -41,3 +41,6 @@
 - **[2026-10-04 21:15 UTC]** Reeleita em PE, Raquel Lyra resiste a apoiar Lula no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/reeleita-em-pe-raquel-lyra-resiste-a-apoiar-lula-no-segundo-turno.shtml)_
 
+- **[2026-10-06 19:39 UTC]** Raquel Lyra nega palanque a Lula em PE no segundo turno da eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/raquel-lyra-nega-palanque-lula-pe-segundo-turno-eleicao/)_
+
