@@ -14,3 +14,6 @@
 - **[2026-10-06 06:52 UTC]** Resultado das eleições 2026 em Paço do Lumiar (MA): votação para presidente no U.E. Rosa Nina (Paulo Freire) - Merces, na 93ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paco-do-lumiar-ma-votacao-para-presidente-no-u-e-rosa-nina-paulo-freire-merces-na-93a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 06:58 UTC]** Resultado das eleições 2026 em Curitiba (PR): votação para presidente na Escola Municipal Paulo Freire, na 145ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-curitiba-pr-votacao-para-presidente-na-escola-municipal-paulo-freire-na-145a-zona-eleitoral.ghtml)_
+
