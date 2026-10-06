@@ -17,3 +17,6 @@
 - **[2026-10-05 05:14 UTC]** Eleições 2026: Dr. Orlando (PL) é eleito deputado federal pelo Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-dr-orlando-pl-e-eleito-deputado-federal-pelo-maranhao.ghtml)_
 
+- **[2026-10-06 10:06 UTC]** Resultado das eleições 2026 em Touros (RN): votação para presidente na Escola Municipal Dr. Orlando Flavio Junqueira Ayres, na 14ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-touros-rn-votacao-para-presidente-na-escola-municipal-dr-orlando-flavio-junqueira-ayres-na-14a-zona-eleitoral.ghtml)_
+
