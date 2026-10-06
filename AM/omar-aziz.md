@@ -116,3 +116,6 @@
 - **[2026-10-06 00:23 UTC]** Prefeito de Manaus, Renato Júnior anuncia apoio a Omar Aziz no 2º turno para governo do Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/prefeito-de-manaus-renato-junior-anuncia-apoio-a-omar-aziz-no-2o-turno-para-governo-do-amazonas.ghtml)_
 
+- **[2026-10-06 22:17 UTC]** Liderado por David Almeida, Avante anuncia apoio a Omar Aziz no segundo turno das Eleições 2026
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/06/liderado-por-david-almeida-avante-anuncia-apoio-a-omar-aziz-no-segundo-turno-das-eleicoes-2026.ghtml)_
+
