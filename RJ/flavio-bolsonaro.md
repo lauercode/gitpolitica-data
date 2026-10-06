@@ -4256,3 +4256,6 @@
 - **[2026-10-06 20:02 UTC]** Campanha de Lula buscará apoio de líderes regionais do centrão após Flávio Bolsonaro costurar com partidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-buscara-apoio-de-lideres-regionais-do-centrao-apos-flavio-bolsonaro-costurar-com-partidos.shtml)_
 
+- **[2026-10-06 19:48 UTC]** Lula diz que PL de Flávio Bolsonaro quer atrapalhar votação do fim da escala 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-diz-que-pl-de-flavio-bolsonaro-quer-atrapalhar-votacao-do-fim-da-escala-6x1.shtml)_
+
