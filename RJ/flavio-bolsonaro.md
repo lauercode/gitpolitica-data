@@ -4241,3 +4241,6 @@
 - **[2026-10-06 20:58 UTC]** PGR concorda com visita de Flávio Bolsonaro ao pai; pedido foi feito pela defesa após primeiro turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/pgr-nao-se-opoe-a-visita-de-flavio-bolsonaro-ao-pai.ghtml)_
 
+- **[2026-10-06 20:29 UTC]** Sem parentesco, só 5 de 29 candidatos que usaram nome de Bolsonaro ou de Lula na urna foram eleitos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/candidatos-nome-bolsonaro-lula-resultado-eleicoes-2026.ghtml)_
+
