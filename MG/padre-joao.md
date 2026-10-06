@@ -74,3 +74,6 @@
 - **[2026-08-24 23:39 UTC]** Quaest em SC: Flávio Bolsonaro, 45%; Lula, 20%; Renan Santos, 4%; Romeu Zema, 3%; Augusto Cury, 3%; Ronaldo Caiado, 3%
   _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/24/quaest-santa-catarina-presidente-24-agosto.ghtml)_
 
+- **[2026-10-06 05:23 UTC]** Resultado das eleições 2026 em Santa Rita (PB): votação para presidente no Esc. Mun. Padre João Félix de Medeiros, na 3ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santa-rita-pb-votacao-para-presidente-no-esc-mun-padre-joao-felix-de-medeiros-na-3a-zona-eleitoral.ghtml)_
+
