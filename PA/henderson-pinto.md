@@ -20,3 +20,6 @@
 - **[2026-10-06 19:01 UTC]** Resultado das eleições 2026 em Pinto Bandeira (RS): votação para presidente no Jose Pansera - Escola, na 8ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pinto-bandeira-rs-votacao-para-presidente-no-jose-pansera-escola-na-8a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 19:01 UTC]** Resultado das eleições 2026 em Pinto Bandeira (RS): votação para presidente no Salão da Linha Brasil, na 8ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pinto-bandeira-rs-votacao-para-presidente-no-salao-da-linha-brasil-na-8a-zona-eleitoral.ghtml)_
+
