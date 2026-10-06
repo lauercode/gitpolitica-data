@@ -4133,3 +4133,6 @@
 - **[2026-10-06 12:39 UTC]** Mendonça multa Flávio por impulsionar post negativo contra Lula
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mendonca-multa-flavio-por-impulsionar-post-negativo-contra-lula)_
 
+- **[2026-10-06 19:32 UTC]** Fim da escala 6x1: Governo quer expor posicionamento de aliados de Flávio e oposição planeja estratégia
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/fim-da-escala-6x1-governo-quer-expor-posicionamento-de-aliados-de-flavio-e-oposicao-planeja-estrategia.ghtml)_
+
