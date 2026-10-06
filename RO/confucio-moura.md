@@ -14,3 +14,6 @@
 - **[2026-10-06 05:18 UTC]** Resultado das eleições 2026 em Rolim de Moura (RO): votação para presidente no Polo Francisca Duran Costa - Escola Municipal, na 29ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rolim-de-moura-ro-votacao-para-presidente-no-polo-francisca-duran-costa-escola-municipal-na-29a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:17 UTC]** Resultado das eleições 2026 em Rolim de Moura (RO): votação para presidente no Ulisses Guimarães - Escola Estadual, na 29ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rolim-de-moura-ro-votacao-para-presidente-no-ulisses-guimaraes-escola-estadual-na-29a-zona-eleitoral.ghtml)_
+
