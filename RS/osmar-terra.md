@@ -161,3 +161,6 @@
 - **[2026-10-05 01:39 UTC]** Eleições 2026: Osmar Terra (PL) é eleito deputado federal pelo Rio Grande do Sul
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-osmar-terra-pl-e-eleito-deputado-federal-pelo-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-06 09:35 UTC]** Resultado das eleições 2026 em Terra de Areia (RS): como foi a votação no 1º turno
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-terra-de-areia-rs-como-foi-a-votacao-no-1o-turno.ghtml)_
+
