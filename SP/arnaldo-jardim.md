@@ -65,3 +65,6 @@
 - **[2026-10-06 19:03 UTC]** Resultado das eleições 2026 em Viamão (RS): votação para presidente na Associação Comunitária do Jardim Castelo, na 72ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-viamao-rs-votacao-para-presidente-na-associacao-comunitaria-do-jardim-castelo-na-72a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:26 UTC]** Resultado das eleições 2026 em Nossa Senhora da Glória (SE): votação para presidente no Jardim de Infância Pequeno Príncipe, na 17ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nossa-senhora-da-gloria-se-votacao-para-presidente-no-jardim-de-infancia-pequeno-principe-na-17a-zona-eleitoral.ghtml)_
+
