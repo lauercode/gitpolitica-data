@@ -23,3 +23,6 @@
 - **[2026-10-06 06:54 UTC]** Resultado das eleições 2026 em Parnarama (MA): votação para presidente na Unidade Integrada Coronel Antonio Pereira de Araujo da Silva, na 36ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-parnarama-ma-votacao-para-presidente-na-unidade-integrada-coronel-antonio-pereira-de-araujo-da-silva-na-36a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 06:58 UTC]** Resultado das eleições 2026 em Curitiba (PR): votação para presidente na Escola Municipal Professora Miracy Rodrigues de Araujo, na 145ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-curitiba-pr-votacao-para-presidente-na-escola-municipal-professora-miracy-rodrigues-de-araujo-na-145a-zona-eleitoral.ghtml)_
+
