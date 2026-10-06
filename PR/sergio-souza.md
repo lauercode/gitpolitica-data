@@ -122,3 +122,6 @@
 - **[2026-10-06 07:49 UTC]** Resultado das eleições 2026 em Miranda do Norte (MA): votação para presidente na Unidade Escolar Francisco Carneiro de Souza, na 109ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-miranda-do-norte-ma-votacao-para-presidente-na-unidade-escolar-francisco-carneiro-de-souza-na-109a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:49 UTC]** Resultado das eleições 2026 em Miranda do Norte (MA): votação para presidente na Unidade Escolar João Carneiro de Souza, na 109ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-miranda-do-norte-ma-votacao-para-presidente-na-unidade-escolar-joao-carneiro-de-souza-na-109a-zona-eleitoral.ghtml)_
+
