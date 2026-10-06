@@ -3920,3 +3920,6 @@
 - **[2026-10-05 16:55 UTC]** Bolsonaro pede liberação de visitas de Flávio na prisão domiciliar
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/bolsonaro-pede-liberacao-de-visitas-de-flavio-na-prisao-domiciliar)_
 
+- **[2026-10-05 23:41 UTC]** MAPAS: Confira onde Lula perdeu votos e onde Flávio Bolsonaro melhorou em relação ao pai
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/mapa-flavio-lula-oscilacao-votos-2026.ghtml)_
+
