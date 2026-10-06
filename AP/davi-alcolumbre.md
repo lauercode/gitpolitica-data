@@ -323,3 +323,6 @@
 - **[2026-10-06 17:40 UTC]** Alcolumbre anuncia sessões para discutir e votar fim da escala 6x1
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-anuncia-sessoes-para-discutir-e-votar-fim-da-escala-6x1)_
 
+- **[2026-10-06 16:50 UTC]** Senado começa a discutir a PEC do fim da 6x1, e Alcolumbre sinaliza votação na próxima semana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/senado-comeca-a-discutir-pec-do-fim-da-6x1-e-governo-tenta-blindar-proposta-de-peso-das-urnas.shtml)_
+
