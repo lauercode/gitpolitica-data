@@ -44,3 +44,6 @@
 - **[2026-09-24 12:00 UTC]** Neto do empresário Antônio Ermírio de Moraes doa para campanha de parente de Maluf
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/neto-do-empresario-antonio-ermirio-doa-para-campanha-de-parente-de-maluf.shtml)_
 
+- **[2026-10-06 05:30 UTC]** Resultado das eleições 2026 em Uiraúna (PB): votação para presidente no E.M.E.I.F Antônio Vieira da Costa, na 53ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-uirauna-pb-votacao-para-presidente-no-e-m-e-i-f-antonio-vieira-da-costa-na-53a-zona-eleitoral.ghtml)_
+
