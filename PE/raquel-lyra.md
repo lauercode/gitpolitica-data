@@ -164,3 +164,6 @@
 - **[2026-10-06 18:41 UTC]** Raquel Lyra diz ser grata a Lula, mas evita declarar apoio no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/06/raquel-lyra-diz-ser-grata-a-lula-mas-evita-declarar-apoio-no-2o-turno.ghtml)_
 
+- **[2026-10-06 19:39 UTC]** Raquel Lyra nega palanque a Lula em PE no segundo turno da eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/raquel-lyra-nega-palanque-lula-pe-segundo-turno-eleicao/)_
+
