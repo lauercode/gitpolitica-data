@@ -4286,3 +4286,6 @@
 - **[2026-10-06 20:35 UTC]** Candidatos derrotados no 1º turno começam a definir apoio a Flávio e Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-derrotados-no-1o-turno-comecam-a-definir-apoio-a-flavio-e-lula/)_
 
+- **[2026-10-06 21:25 UTC]** O que se sabe e o que falta definir sobre a participação de Lula e Flávio nos debates do 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd93nkj51pgo?at_medium=RSS&at_campaign=rss)_
+
