@@ -131,3 +131,6 @@
 - **[2026-10-05 07:00 UTC]** Quem é Jorginho Mello (PL), governador reeleito de Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/05/quem-e-jorginho-mello-pl-governador-reeleito-de-santa-catarina.ghtml)_
 
+- **[2026-10-05 19:10 UTC]** Jorginho Mello só não venceu em 10 das 295 cidades de SC; veja mapa da votação por município
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/05/jorginho-mello-reeleito-cidades-sc-veja-mapa-da-votacao.ghtml)_
+
