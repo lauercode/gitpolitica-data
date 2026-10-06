@@ -434,3 +434,6 @@
 - **[2026-10-05 14:52 UTC]** Lula x Flávio no 2º turno: para onde vão os votos de Cury, Renan e Caiado?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm209062n3wgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-06 19:28 UTC]** Quem herdará os votos de Cury, Renan e Caiado no 2º turno para presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/quem-herda-votos-cury-renan-caiado-segundo-turno-presidente/)_
+
