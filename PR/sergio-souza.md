@@ -128,3 +128,6 @@
 - **[2026-10-06 07:59 UTC]** Resultado das eleições 2026 em Brejo Grande do Araguaia (PA): votação para presidente no Emef Cilira Vieira de Souza, na 57ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brejo-grande-do-araguaia-pa-votacao-para-presidente-no-emef-cilira-vieira-de-souza-na-57a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 08:15 UTC]** Resultado das eleições 2026 em Toledo (PR): votação para presidente na Escola Municipal Tomé de Souza (Distrito de Vila Ipiranga - Rural), na 75ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-toledo-pr-votacao-para-presidente-na-escola-municipal-tome-de-souza-distrito-de-vila-ipiranga-rural-na-75a-zona-eleitoral.ghtml)_
+
