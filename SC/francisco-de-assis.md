@@ -14,3 +14,6 @@
 - **[2026-10-06 06:52 UTC]** Resultado das eleições 2026 em Palmeirândia (MA): votação para presidente no Ueebm Sao Francisco de Assis, na 38ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-palmeirandia-ma-votacao-para-presidente-no-ueebm-sao-francisco-de-assis-na-38a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:52 UTC]** Resultado das eleições 2026 em Zé Doca (MA): votação para presidente na Escola Municipal Sao Francisco de Assis, na 96ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ze-doca-ma-votacao-para-presidente-na-escola-municipal-sao-francisco-de-assis-na-96a-zona-eleitoral.ghtml)_
+
