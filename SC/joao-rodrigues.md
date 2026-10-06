@@ -89,3 +89,6 @@
 - **[2026-10-05 01:19 UTC]** João Rodrigues reconhece vitória de Jorginho em SC e cobra: 'espero que atenda as demandas que eu apontei'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/joao-rodrigues-reconhece-vitoria-jorginho-sc.ghtml)_
 
+- **[2026-10-06 15:19 UTC]** Resultado das eleições 2026 em São Luiz (RR): votação para presidente na Escola Estadual Joao Rodrigues da Silva, na 4ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-luiz-rr-votacao-para-presidente-na-escola-estadual-joao-rodrigues-da-silva-na-4a-zona-eleitoral.ghtml)_
+
