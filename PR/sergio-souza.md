@@ -185,3 +185,6 @@
 - **[2026-10-06 13:52 UTC]** Resultado das eleições 2026 em Marques de Souza (RS): como foi a votação no 1º turno
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-marques-de-souza-rs-como-foi-a-votacao-no-1o-turno.ghtml)_
 
+- **[2026-10-06 10:12 UTC]** Resultado das eleições 2026 em Nova Mamoré (RO): votação para presidente no Onorina de Souza - Escola Municipal, na 1ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nova-mamore-ro-votacao-para-presidente-no-onorina-de-souza-escola-municipal-na-1a-zona-eleitoral.ghtml)_
+
