@@ -1331,3 +1331,6 @@ direitos
 - **[2026-10-06 16:20 UTC]** Nunes manda à Câmara proposta de orçamento para 2027 com investimento recorde
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/nunes-manda-a-camara-proposta-de-orcamento-para-2027-com-investimento-recorde.shtml)_
 
+- **[2026-10-06 12:30 UTC]** Centrão perde espaço para direita na Câmara, mas ainda será decisivo para governo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/centrao-perde-espaco-para-direita-na-camara-mas-ainda-sera-decisivo-para-governo.shtml)_
+
