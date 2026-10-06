@@ -17,3 +17,6 @@
 - **[2026-10-05 21:10 UTC]** Resultado das eleições 2026 em Maceió (AL): votação para presidente no E.E. Manoel de Araujo Doria, na 54ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-maceio-al-votacao-para-presidente-no-e-e-manoel-de-araujo-doria-na-54a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:50 UTC]** Resultado das eleições 2026 em Tarauacá (AC): votação para presidente na Escola Jose Augusto de Araujo, na 5ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tarauaca-ac-votacao-para-presidente-na-escola-jose-augusto-de-araujo-na-5a-zona-eleitoral.ghtml)_
+
