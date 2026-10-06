@@ -4280,3 +4280,6 @@
 - **[2026-10-06 23:20 UTC]** Gilmar arquiva pedido de investigação contra vice de Flávio por suposto estupro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-arquiva-pedido-de-investigacao-contra-vice-de-flavio-por-suposto-estupro/)_
 
+- **[2026-10-06 21:30 UTC]** PGR se manifesta a favor de visita de Flávio a Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-se-manifesta-a-favor-de-visita-de-flavio-a-bolsonaro/)_
+
