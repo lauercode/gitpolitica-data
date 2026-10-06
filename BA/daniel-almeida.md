@@ -56,3 +56,6 @@
 - **[2026-10-06 15:09 UTC]** Resultado das eleições 2026 em Rodrigues Alves (AC): votação para presidente na Escola José Cassimiro de Almeida, na 4ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rodrigues-alves-ac-votacao-para-presidente-na-escola-jose-cassimiro-de-almeida-na-4a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:21 UTC]** Resultado das eleições 2026 em Porto Real do Colégio (AL): votação para presidente na Escola Municipal Pres Tancredo de Almeida Neves, na 37ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-porto-real-do-colegio-al-votacao-para-presidente-na-escola-municipal-pres-tancredo-de-almeida-neves-na-37a-zona-eleitoral.ghtml)_
+
