@@ -4298,3 +4298,6 @@
 - **[2026-10-06 23:09 UTC]** Flávio nega haver discussão sobre Bolsonaro fazer parte de eventual governo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flavio-nega-haver-discussao-sobre-bolsonaro-fazer-parte-de-eventual-governo.ghtml)_
 
+- **[2026-10-06 22:59 UTC]** Lula desafia Flávio e diz que 'máscara vai cair' com votação da 6x1
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/lula-desafia-flavio-e-diz-que-mascara-vai-cair-com-votacao-da-6x1.ghtml)_
+
