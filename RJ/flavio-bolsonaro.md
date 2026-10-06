@@ -4184,3 +4184,6 @@
 - **[2026-10-06 12:00 UTC]** Se eleito, Flávio Bolsonaro poderia perdoar Jair a tempo de ex-presidente subir a rampa com filho? Entenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/se-eleito-flavio-bolsonaro-poderia-perdoar-jair-a-tempo-de-ex-presidente-subir-a-rampa-com-filho-entenda.shtml)_
 
+- **[2026-10-06 19:13 UTC]** Flávio acusa Lula de oportunismo com fim da escala 6×1 e defende proposta flexível
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-acusa-lula-oportunismo-fim-escala-6x1-defende-proposta-flexivel/)_
+
