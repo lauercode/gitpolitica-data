@@ -230,3 +230,6 @@
 - **[2026-10-06 17:28 UTC]** Resultado das eleições 2026 em Senador Elói de Souza (RN): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-eloi-de-souza-rn-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:26 UTC]** Resultado das eleições 2026 em Senador Elói de Souza (RN): como foi a votação nos locais de votação da 5ª Zona Eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-eloi-de-souza-rn-como-foi-a-votacao-nos-locais-de-votacao-da-5a-zona-eleitoral.ghtml)_
+
