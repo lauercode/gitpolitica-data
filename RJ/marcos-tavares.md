@@ -20,3 +20,6 @@
 - **[2026-10-06 17:49 UTC]** Resultado das eleições 2026 em Tavares (PB): votação para presidente na Escola Reunida Padre Tavares, na 34ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tavares-pb-votacao-para-presidente-na-escola-reunida-padre-tavares-na-34a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:49 UTC]** Resultado das eleições 2026 em Tavares (PB): votação para presidente no E. M. Maria Amelia da Conceição, na 34ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tavares-pb-votacao-para-presidente-no-e-m-maria-amelia-da-conceicao-na-34a-zona-eleitoral.ghtml)_
+
