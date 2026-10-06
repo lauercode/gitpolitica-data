@@ -113,3 +113,6 @@
 - **[2026-10-05 00:08 UTC]** Omar Aziz (PSD) e Professora Maria do Carmo (PL) vão para o 2° turno no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/omar-aziz-e-professora-maria-do-carmo-vao-para-o-2-turno-no-amazonas.ghtml)_
 
+- **[2026-10-06 00:23 UTC]** Prefeito de Manaus, Renato Júnior anuncia apoio a Omar Aziz no 2º turno para governo do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/prefeito-de-manaus-renato-junior-anuncia-apoio-a-omar-aziz-no-2o-turno-para-governo-do-amazonas.ghtml)_
+
