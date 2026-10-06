@@ -17,3 +17,6 @@
 - **[2026-10-06 09:11 UTC]** Resultado das eleições 2026 em Natal (RN): votação para presidente no E. E. Prof. Maria de Lourdes Camara Souto, na 69ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-natal-rn-votacao-para-presidente-no-e-e-prof-maria-de-lourdes-camara-souto-na-69a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:27 UTC]** Resultado das eleições 2026 em Simão Dias (SE): votação para presidente na Escola Estadual Maria de Lourdes Silveira Leite, na 22ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-simao-dias-se-votacao-para-presidente-na-escola-estadual-maria-de-lourdes-silveira-leite-na-22a-zona-eleitoral.ghtml)_
+
