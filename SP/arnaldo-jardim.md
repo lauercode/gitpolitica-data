@@ -53,3 +53,6 @@
 - **[2026-10-06 06:56 UTC]** Resultado das eleições 2026 em Jardim Olinda (PR): como foi a votação no 1º turno
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jardim-olinda-pr-como-foi-a-votacao-no-1o-turno.ghtml)_
 
+- **[2026-10-06 17:15 UTC]** Resultado das eleições 2026 em Miranda do Norte (MA): votação para presidente no Jardim de Infancia São Francisco, na 109ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-miranda-do-norte-ma-votacao-para-presidente-no-jardim-de-infancia-sao-francisco-na-109a-zona-eleitoral.ghtml)_
+
