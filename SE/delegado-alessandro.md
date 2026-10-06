@@ -26,3 +26,6 @@
 - **[2026-10-05 01:05 UTC]** No Sergipe, Rogério Carvalho e Delegado Alessandro são eleitos para o Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-sergipe-rogerio-carvalho-e-delegado-alessandro-sao-eleitos-para-o-senado.ghtml)_
 
+- **[2026-10-04 23:31 UTC]** Rogério Carvalho (PT) e Delegado Alessandro (MDB) são reeleitos senadores por Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/04/resultado-senador-por-sergipe-eleicoes-2026.ghtml)_
+
