@@ -47,3 +47,6 @@
 - **[2026-10-06 15:53 UTC]** Resultado das eleições 2026 em São Francisco do Guaporé (RO): votação para presidente no Regina Almeida de Araujo - Escola Municipal, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-francisco-do-guapore-ro-votacao-para-presidente-no-regina-almeida-de-araujo-escola-municipal-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:30 UTC]** Resultado das eleições 2026 em Tobias Barreto (SE): votação para presidente no Emef Jose Roberto de Araujo, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tobias-barreto-se-votacao-para-presidente-no-emef-jose-roberto-de-araujo-na-23a-zona-eleitoral.ghtml)_
+
