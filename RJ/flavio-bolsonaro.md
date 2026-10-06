@@ -4073,3 +4073,6 @@
 - **[2026-10-06 03:00 UTC]** MAPA: Lula perde votos no Nordeste, e Flávio Bolsonaro avança em relação ao pai; veja movimentos estado a estado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/nordeste-lula-flavio-bolsonaro-oscilacao-2022-2026.ghtml)_
 
+- **[2026-10-06 03:00 UTC]** Cidades do Paraguai estão entre as que mais votaram em Flávio Bolsonaro no exterior
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/06/cidades-do-paraguai-estao-entre-as-que-mais-votaram-em-flavio-bolsonaro-no-exterior.ghtml)_
+
