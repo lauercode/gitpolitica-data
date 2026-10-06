@@ -305,3 +305,6 @@
 - **[2026-10-06 03:00 UTC]** Alcolumbre mantém calendário de discussão sobre o fim da escala 6x1, mas votação do texto é incerta
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/alcolumbre-mantem-calendario-de-discussao-sobre-o-fim-da-escala-6x1-mas-votacao-do-texto-e-incerta.ghtml)_
 
+- **[2026-10-06 03:00 UTC]** Avanço da direita no Congresso desafia Alcolumbre e Motta nas presidências da Câmara e do Senado em 2027
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/avanco-da-direita-no-congresso-desafia-alcolumbre-e-motta-nas-presidencias-da-camara-e-do-senado-em-2027.ghtml)_
+
