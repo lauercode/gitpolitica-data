@@ -86,3 +86,6 @@
 - **[2026-10-06 11:32 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Flávio; ministro envia pedido à PGR
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-flavio-apos-resultado-do-primeiro-turno.ghtml)_
 
+- **[2026-10-06 21:31 UTC]** Por que Jair Bolsonaro foi preso? Relembre a prisão do ex-presidente
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/por-que-jair-bolsonaro-foi-preso-relembre-a-prisao-do-ex-presidente.ghtml)_
+
