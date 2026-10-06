@@ -4094,3 +4094,6 @@
 - **[2026-10-06 04:00 UTC]** Após ser eleito governador do RS, Zucco vai a Brasília para encontro com Flávio Bolsonaro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/apos-ser-eleito-governador-do-rs-zucco-vai-a-brasilia-para-encontro-com-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-06 04:41 UTC]** Maior avanço de Flávio foi nos grotões do Nordeste; Lula resiste nas cidades médias
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/10/maior-avanco-de-flavio-foi-nos-grotoes-do-nordeste-lula-resiste-nas-cidades-medias.ghtml)_
+
