@@ -140,3 +140,6 @@
 - **[2026-10-06 09:34 UTC]** Resultado das eleições 2026 em Brochier (RS): votação para presidente no E.M.E.F. Maria de Souza, na 31ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brochier-rs-votacao-para-presidente-no-e-m-e-f-maria-de-souza-na-31a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:59 UTC]** Resultado das eleições 2026 em São José de Mipibu (RN): votação para presidente na Escola Municipal Genuíno de Souza Menino, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-de-mipibu-rn-votacao-para-presidente-na-escola-municipal-genuino-de-souza-menino-na-7a-zona-eleitoral.ghtml)_
+
