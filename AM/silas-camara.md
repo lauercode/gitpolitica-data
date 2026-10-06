@@ -1352,3 +1352,6 @@ direitos
 - **[2026-10-06 21:14 UTC]** Eleições 2026: Veja quais partidos ganharam e perderam representantes na Assembleia Legislativa da PB e na Câmara Federal
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/eleicoes-2026-veja-quais-partidos-ganharam-e-perderam-representantes-na-assembleia-legislativa-da-pb-e-na-camara-federal.ghtml)_
 
+- **[2026-10-06 19:39 UTC]** Filho '04' de Bolsonaro, 'Terror da Tiarinha' e deputados estaduais: os novos eleitos de SC para a Câmara Federal
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/filho-04-de-bolsonaro-terror-da-tiarinha-deputados-estaduais-novos-eleitos-para-camara-federal.ghtml)_
+
