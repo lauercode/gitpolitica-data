@@ -4160,3 +4160,6 @@
 - **[2026-10-06 14:47 UTC]** PP deve anunciar apoio a Flávio quase um ano após Ciro Nogueira dizer que candidato era inviável
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pp-deve-anunciar-apoio-a-flavio-quase-um-ano-apos-ciro-nogueira-dizer-que-candidato-era-inviavel.shtml)_
 
+- **[2026-10-06 14:33 UTC]** Flávio Bolsonaro diz que vai a debates no segundo turno, após Lula também sinalizar presença
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-vai-a-debates-no-segundo-turno-apos-lula-tambem-sinalizar-presenca.shtml)_
+
