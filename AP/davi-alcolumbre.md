@@ -329,3 +329,6 @@
 - **[2026-10-06 20:01 UTC]** Alcolumbre promete sessões para discutir fim da 6×1, mas evita cravar votação
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/alcolumbre-promete-sessoes-discutir-fim-6x1-evita-cravar-votacao/)_
 
+- **[2026-10-06 19:56 UTC]** Alcolumbre descarta votar fim da 6x1 esta semana, mas considera análise na próxima
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/06/alcolumbre-descarta-votar-fim-da-6x1-esta-semana-mas-considera-anlise-na-prxima.ghtml)_
+
