@@ -74,3 +74,6 @@
 - **[2026-10-06 05:08 UTC]** Resultado das eleições 2026 em Pimenta Bueno (RO): votação para presidente no Posto de Saude - Ana Ernestina de Castro Bueno, na 9ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pimenta-bueno-ro-votacao-para-presidente-no-posto-de-saude-ana-ernestina-de-castro-bueno-na-9a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:08 UTC]** Resultado das eleições 2026 em Pimenta Bueno (RO): votação para presidente no Assunta Maria Gianini Favaleça - Escola Municipal, na 9ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pimenta-bueno-ro-votacao-para-presidente-no-assunta-maria-gianini-favaleca-escola-municipal-na-9a-zona-eleitoral.ghtml)_
+
