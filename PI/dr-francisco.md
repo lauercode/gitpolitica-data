@@ -41,3 +41,6 @@
 - **[2026-10-06 06:58 UTC]** Resultado das eleições 2026 em Guarapuava (PR): votação para presidente no Colégio Estadual Profº. Francisco Carneiro Martins, na 43ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-guarapuava-pr-votacao-para-presidente-no-colegio-estadual-profo-francisco-carneiro-martins-na-43a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 08:06 UTC]** Resultado das eleições 2026 em Dom Eliseu (PA): votação para presidente na Escola Presbiteriana - Francisco Soares Emerique, na 84ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-dom-eliseu-pa-votacao-para-presidente-na-escola-presbiteriana-francisco-soares-emerique-na-84a-zona-eleitoral.ghtml)_
+
