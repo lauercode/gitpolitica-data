@@ -14,3 +14,6 @@
 - **[2026-10-06 05:03 UTC]** Resultado das eleições 2026 em Beruri (AM): votação para presidente no E. M. Castelo Branco, na 54ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-beruri-am-votacao-para-presidente-no-e-m-castelo-branco-na-54a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 05:10 UTC]** Resultado das eleições 2026 em Vilhena (RO): votação para presidente no Castelo Branco - Escola Municipal - Setor Industrial, na 4ª zona eleitoral
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-vilhena-ro-votacao-para-presidente-no-castelo-branco-escola-municipal-setor-industrial-na-4a-zona-eleitoral.ghtml)_
+
