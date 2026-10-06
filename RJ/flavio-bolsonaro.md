@@ -4181,3 +4181,6 @@
 - **[2026-10-06 12:18 UTC]** Tarcísio articula apoio do Republicanos a Flávio Bolsonaro, e Podemos deve anunciar adesão na 5ª
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-se-reune-com-cupula-do-republicanos-e-partido-deve-anunciar-apoio-a-flavio-nos-proximos-dias.shtml)_
 
+- **[2026-10-06 12:00 UTC]** Se eleito, Flávio Bolsonaro poderia perdoar Jair a tempo de ex-presidente subir a rampa com filho? Entenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/se-eleito-flavio-bolsonaro-poderia-perdoar-jair-a-tempo-de-ex-presidente-subir-a-rampa-com-filho-entenda.shtml)_
+
