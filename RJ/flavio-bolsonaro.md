@@ -4001,3 +4001,6 @@
 - **[2026-10-05 21:40 UTC]** Bolsa bate recorde histórico e dólar despenca após Flávio Bolsonaro liderar 1º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/bolsa-passa-dos-200-mil-pontos-e-dolar-despenca-apos-flavio-bolsonaro-liderar-1o-turno/)_
 
+- **[2026-10-05 20:19 UTC]** Temer declara apoio a Flávio Bolsonaro no 2º turno contra Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/temer-declara-apoio-a-flavio-bolsonaro-no-2o-turno-contra-lula/)_
+
