@@ -3977,3 +3977,6 @@
 - **[2026-10-05 18:10 UTC]** Michel Temer anuncia apoio a Flávio Bolsonaro no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/michel-temer-anuncia-apoio-a-flavio-bolsonaro-no-2o-turno.shtml)_
 
+- **[2026-10-05 18:03 UTC]** Ciro Nogueira defende apoio do PP a Flávio Bolsonaro no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ciro-nogueira-defende-apoio-do-pp-a-flavio-bolsonaro-no-2o-turno.shtml)_
+
