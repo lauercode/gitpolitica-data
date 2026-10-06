@@ -1268,3 +1268,6 @@ direitos
 - **[2026-10-05 19:30 UTC]** Câmara Municipal de SP tem nove vereadores eleitos deputados e terá nova composição em 2027
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/camara-municipal-de-sp-tem-nove-vereadores-eleitos-deputados-e-tera-nova-composicao-em-2027.ghtml)_
 
+- **[2026-10-05 19:01 UTC]** Ana Elisa, deputada mineira eleita com 21 anos, é a mais jovem brasileira na Câmara desde pelo menos 1994
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/ana-elisa-deputada-mineira-eleita-com-21-anos-e-a-mais-jovem-brasileira-na-camara-desde-1994.ghtml)_
+
