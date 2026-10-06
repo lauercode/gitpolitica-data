@@ -503,3 +503,6 @@
 - **[2026-10-05 22:10 UTC]** Resultado das eleições 2026 em Paulo Jacinto (AL): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-paulo-jacinto-al-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 23:08 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. Prof. Paulo Graça, na 70ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-prof-paulo-graca-na-70a-zona-eleitoral.ghtml)_
+
