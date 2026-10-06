@@ -53,3 +53,6 @@
 - **[2026-10-06 14:17 UTC]** Resultado das eleições 2026 em Chapecó (SC): votação para presidente no Eeb Tancredo de Almeida Neves, na 94ª zona eleitoral
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-chapeco-sc-votacao-para-presidente-no-eeb-tancredo-de-almeida-neves-na-94a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:09 UTC]** Resultado das eleições 2026 em Rodrigues Alves (AC): votação para presidente na Escola José Cassimiro de Almeida, na 4ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rodrigues-alves-ac-votacao-para-presidente-na-escola-jose-cassimiro-de-almeida-na-4a-zona-eleitoral.ghtml)_
+
