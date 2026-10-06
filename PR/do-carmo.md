@@ -26,3 +26,6 @@
 - **[2026-10-06 04:28 UTC]** Resultado das eleições 2026 em Traipu (AL): votação para presidente no Grupo Escolar Estadual Professora Maria Avelina do Carmo, na 20ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-traipu-al-votacao-para-presidente-no-grupo-escolar-estadual-professora-maria-avelina-do-carmo-na-20a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:00 UTC]** Resultado das eleições 2026 em Curitiba (PR): votação para presidente na Escola Municipal Nossa Senhora do Carmo, na 174ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-curitiba-pr-votacao-para-presidente-na-escola-municipal-nossa-senhora-do-carmo-na-174a-zona-eleitoral.ghtml)_
+
