@@ -29,3 +29,6 @@
 - **[2026-10-04 13:53 UTC]** Marcelo Queiroga (PL) vota em João Pessoa, PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/04/marcelo-queiroga-pl-vota-em-joao-pessoa-pb.ghtml)_
 
+- **[2026-10-05 23:04 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. Raul de Queiroz Menezes Veiga, na 68ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-raul-de-queiroz-menezes-veiga-na-68a-zona-eleitoral.ghtml)_
+
