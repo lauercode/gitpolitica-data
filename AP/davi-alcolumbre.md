@@ -308,3 +308,6 @@
 - **[2026-10-06 03:00 UTC]** Avanço da direita no Congresso desafia Alcolumbre e Motta nas presidências da Câmara e do Senado em 2027
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/avanco-da-direita-no-congresso-desafia-alcolumbre-e-motta-nas-presidencias-da-camara-e-do-senado-em-2027.ghtml)_
 
+- **[2026-10-06 08:00 UTC]** Resultado dificulta estratégias de Alcolumbre e Motta
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/resultado-dificulta-estrategias-de-alcolumbre-e-motta.ghtml)_
+
