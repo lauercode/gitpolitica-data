@@ -14,3 +14,6 @@
 - **[2026-10-05 15:51 UTC]** João Carlos Martins e Gabriel Chalita apresentam 'O Pianista e o Poeta' em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/joao-carlos-martins-e-gabriel-chalita-apresentam-o-pianista-e-o-poeta-em-sp.shtml)_
 
+- **[2026-10-06 14:01 UTC]** Resultado das eleições 2026 em Seberi (RS): votação para presidente na Escola de 1º Grau Carlos Martins, na 132ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-seberi-rs-votacao-para-presidente-na-escola-de-1o-grau-carlos-martins-na-132a-zona-eleitoral.ghtml)_
+
