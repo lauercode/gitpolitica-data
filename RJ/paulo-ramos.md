@@ -20,3 +20,6 @@
 - **[2026-10-06 06:54 UTC]** Resultado das eleições 2026 em Parnarama (MA): votação para presidente na Unidade Escolar Doutor Paulo Ramos, na 36ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-parnarama-ma-votacao-para-presidente-na-unidade-escolar-doutor-paulo-ramos-na-36a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:15 UTC]** Resultado das eleições 2026 em Paulo Ramos (MA): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-ramos-ma-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
