@@ -4214,3 +4214,6 @@
 - **[2026-10-06 18:01 UTC]** Flávio critica análise do fim da escala 6x1 durante eleições e chama Lula de 'oportunista'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flavio-diz-que-lula-e-oportunista-ao-defender-aprovacao-de-fim-da-escala-6x1-durante-eleicoes.ghtml)_
 
+- **[2026-10-06 16:35 UTC]** Flávio Bolsonaro diz que participará de debates com Lula no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flavio-bolsonaro-diz-que-participara-de-debates-com-lula-no-segundo-turno.ghtml)_
+
