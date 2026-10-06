@@ -3995,3 +3995,6 @@
 - **[2026-10-05 15:00 UTC]** Filme volta a Bolsonaro em 2018 para investigar papel das redes nas eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/filme-volta-a-bolsonaro-em-2022-para-investigar-papel-das-redes-nas-eleicoes.shtml)_
 
+- **[2026-10-05 21:00 UTC]** Interior gaúcho concentra 6 das 10 cidades com maior votação de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/maior-votacao-flavio-bolsonaro-cidades-primeiro-turno/)_
+
