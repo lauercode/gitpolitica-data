@@ -3962,3 +3962,6 @@
 - **[2026-10-05 19:26 UTC]** Para setores da indústria, Flávio Bolsonaro se esquiva de pauta sobre a China
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/para-setores-da-industria-flavio-bolsonaro-se-esquiva-de-pauta-sobre-a-china.shtml)_
 
+- **[2026-10-05 19:20 UTC]** Secretários de SP e Porto Alegre são cotados para MEC em eventual governo Flávio; federais temem cortes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/secretarios-de-sp-e-porto-alegre-sao-cotados-para-mec-em-eventual-governo-flavio-federais-temem-cortes.shtml)_
+
