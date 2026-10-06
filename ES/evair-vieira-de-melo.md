@@ -29,3 +29,6 @@
 - **[2026-10-06 04:21 UTC]** Resultado das eleições 2026 em Penedo (AL): votação para presidente no Emeb Vereador Manoel Soares de Melo, na 13ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-penedo-al-votacao-para-presidente-no-emeb-vereador-manoel-soares-de-melo-na-13a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:36 UTC]** Resultado das eleições 2026 em Santana (AP): votação para presidente na Escola Estadual Denise de Melo Vasconcelos, na 6ª zona eleitoral
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santana-ap-votacao-para-presidente-na-escola-estadual-denise-de-melo-vasconcelos-na-6a-zona-eleitoral.ghtml)_
+
