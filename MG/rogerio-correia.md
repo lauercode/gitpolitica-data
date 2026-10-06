@@ -29,3 +29,6 @@
 - **[2026-10-06 18:44 UTC]** Resultado das eleições 2026 em Correia Pinto (SC): votação para presidente no Salão da Capela São Pedro, na 93ª zona eleitoral
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-correia-pinto-sc-votacao-para-presidente-no-salao-da-capela-sao-pedro-na-93a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 18:43 UTC]** Resultado das eleições 2026 em Correia Pinto (SC): votação para presidente no Salão de Festas da Igreja São José, na 93ª zona eleitoral
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-correia-pinto-sc-votacao-para-presidente-no-salao-de-festas-da-igreja-sao-jose-na-93a-zona-eleitoral.ghtml)_
+
