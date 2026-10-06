@@ -14,3 +14,6 @@
 - **[2026-10-06 07:49 UTC]** Resultado das eleições 2026 em Arame (MA): votação para presidente no Grupo Rui Barbosa, na 104ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-arame-ma-votacao-para-presidente-no-grupo-rui-barbosa-na-104a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:48 UTC]** Resultado das eleições 2026 em Arame (MA): votação para presidente na Escola Municipal Rui Barbosa, na 104ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-arame-ma-votacao-para-presidente-na-escola-municipal-rui-barbosa-na-104a-zona-eleitoral.ghtml)_
+
