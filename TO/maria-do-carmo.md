@@ -74,3 +74,6 @@
 - **[2026-10-06 15:23 UTC]** Resultado das eleições 2026 em Santana do Ipanema (AL): votação para presidente na Escola Municipal de Educação Básica Maria do Carmo Oliveira Araújo, na 19ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-santana-do-ipanema-al-votacao-para-presidente-na-escola-municipal-de-educacao-basica-maria-do-carmo-oliveira-araujo-na-19a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:48 UTC]** Resultado das eleições 2026 em Tacima (PB): votação para presidente na Escola M.E.F. Maria do Carmo de Sousa Pinheiro, na 20ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tacima-pb-votacao-para-presidente-na-escola-m-e-f-maria-do-carmo-de-sousa-pinheiro-na-20a-zona-eleitoral.ghtml)_
+
