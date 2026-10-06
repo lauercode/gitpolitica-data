@@ -4193,3 +4193,6 @@
 - **[2026-10-06 17:43 UTC]** Marinho diz a Fachin que “não haverá vingança” e nem omissão em governo de Flávio contra o STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marinho-fachin-governo-flavio-nao-fara-vinganca-nem-omissao-stf/)_
 
+- **[2026-10-06 15:43 UTC]** Vitória de Flávio no primeiro turno expõe fraquezas de Lula, diz maior jornal econômico do mundo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/vitoria-flavio-primeiro-turno-expoe-fraquezas-lula-diz-maior-jornal-economico-mundo/)_
+
