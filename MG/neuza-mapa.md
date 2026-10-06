@@ -77,3 +77,6 @@
 - **[2026-10-06 18:59 UTC]** MAPA: veja o resultado das eleições 2026 em Porto Velho por local de votação e seção eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-porto-velho-por-local-de-votacao-e-secao-eleitoral.ghtml)_
 
+- **[2026-10-06 17:23 UTC]** MAPA: veja o resultado das eleições 2026 em Boa Vista por local de votação e seção eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-boa-vista-por-local-de-votacao-e-secao-eleitoral.ghtml)_
+
