@@ -1322,3 +1322,6 @@ direitos
 - **[2026-10-06 13:53 UTC]** Resultado das eleições 2026 em São Martinho (RS): votação para presidente no Câmara Municipal de Vereadores, na 107ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-martinho-rs-votacao-para-presidente-no-camara-municipal-de-vereadores-na-107a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 16:46 UTC]** Nikolas, Pavanato, Erika Hilton e outros 30 candidatos 'puxaram' vagas para seus partidos na Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/nikolas-pavanato-erika-hilton-e-outros-30-candidatos-puxaram-vagas-para-seus-partidos-na-camara.ghtml)_
+
