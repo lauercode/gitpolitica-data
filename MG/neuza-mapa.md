@@ -68,3 +68,6 @@
 - **[2026-10-06 17:27 UTC]** MAPA: veja o resultado das eleições 2026 em Macapá por local de votação e seção eleitoral
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-macapa-por-local-de-votacao-e-secao-eleitoral.ghtml)_
 
+- **[2026-10-06 16:59 UTC]** MAPA: veja o resultado das eleições 2026 em Manaus por local de votação e seção eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-manaus-por-local-de-votacao-e-secao-eleitoral.ghtml)_
+
