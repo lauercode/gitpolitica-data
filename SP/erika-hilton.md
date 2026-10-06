@@ -77,3 +77,6 @@
 - **[2026-10-06 16:46 UTC]** Nikolas, Pavanato, Erika Hilton e outros 30 candidatos 'puxaram' vagas para seus partidos na Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/06/nikolas-pavanato-erika-hilton-e-outros-30-candidatos-puxaram-vagas-para-seus-partidos-na-camara.ghtml)_
 
+- **[2026-10-06 14:42 UTC]** Eduarda Campopiano diz que chamar Erika Hilton de 'homem biológico' foi 'manifestação provocativa' nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/eduarda-campopiano-diz-que-chamar-erika-hilton-de-homem-biologico-foi-manifestacao-provocativa-nas-redes.shtml)_
+
