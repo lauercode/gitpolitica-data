@@ -38,3 +38,6 @@
 - **[2026-10-05 22:20 UTC]** Resultado das eleições 2026 em Rosário (MA): como foi a votação no 1º turno
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-rosario-ma-como-foi-a-votacao-no-1o-turno.ghtml)_
 
+- **[2026-10-06 13:08 UTC]** Mãe e filho são baleados dentro de casa durante tentativa de homicídio em Rosário
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/06/mae-e-filho-sao-baleados-dentro-de-casa-durante-tentativa-de-homicidio-em-rosario.ghtml)_
+
