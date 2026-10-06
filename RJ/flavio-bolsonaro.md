@@ -4103,3 +4103,6 @@
 - **[2026-10-06 08:00 UTC]** Flávio busca aliados do Centrão e reforço de Tarcísio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flavio-busca-aliados-do-centrao-e-reforco-de-tarcisio.ghtml)_
 
+- **[2026-10-06 08:00 UTC]** Flávio e Lula definem estratégias para o 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/06/flavio-e-lula-definem-estrategias-para-o-2o-turno.ghtml)_
+
