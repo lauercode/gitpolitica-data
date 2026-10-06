@@ -47,3 +47,6 @@
 - **[2026-10-06 15:43 UTC]** Resultado das eleições 2026 em Tabatinga (AM): votação para presidente no E. M. Profº Francisco Mendes, na 36ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tabatinga-am-votacao-para-presidente-no-e-m-profo-francisco-mendes-na-36a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:25 UTC]** Resultado das eleições 2026 em Senador Elói de Souza (RN): votação para presidente na Escola Municipal Prof. Francisco Hernesto da Cunha (Cenec), na 5ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-eloi-de-souza-rn-votacao-para-presidente-na-escola-municipal-prof-francisco-hernesto-da-cunha-cenec-na-5a-zona-eleitoral.ghtml)_
+
