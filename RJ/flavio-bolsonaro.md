@@ -4040,3 +4040,6 @@
 - **[2026-10-05 21:13 UTC]** Juros futuros despencam após Flávio sair à frente de Lula no 1° turno
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/05/juros-futuros-despencam-apos-flavio-sair-a-frente-de-lula-no-1-turno.ghtml)_
 
+- **[2026-10-05 21:04 UTC]** Trump afirma que 1º turno foi ‘grande vitória’ para Flávio, mas diz ver ‘eleição muito apertada’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/trump-afirma-que-1-turno-foi-grande-vitria-para-flvio-mas-diz-ver-eleio-muito-apertada.ghtml)_
+
