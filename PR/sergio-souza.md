@@ -245,3 +245,6 @@
 - **[2026-10-06 15:24 UTC]** Resultado das eleições 2026 em Alta Floresta d'Oeste (RO): votação para presidente no Martim Afonso de Souza - Escola Municipal, na 17ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alta-floresta-d-oeste-ro-votacao-para-presidente-no-martim-afonso-de-souza-escola-municipal-na-17a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 18:42 UTC]** Resultado das eleições 2026 em Pescaria Brava (SC): votação para presidente no Centro de Educação Infantil Hortêncio Bernardino de Souza - Estiva, na 20ª zona eleitoral
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pescaria-brava-sc-votacao-para-presidente-no-centro-de-educacao-infantil-hortencio-bernardino-de-souza-estiva-na-20a-zona-eleitoral.ghtml)_
+
