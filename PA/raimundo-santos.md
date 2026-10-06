@@ -11,3 +11,6 @@
 - **[2026-10-06 08:03 UTC]** Resultado das eleições 2026 em Ourilândia do Norte (PA): votação para presidente no Em Jose Cândido dos Santos, na 74ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ourilandia-do-norte-pa-votacao-para-presidente-no-em-jose-candido-dos-santos-na-74a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 07:59 UTC]** Resultado das eleições 2026 em Garrafão do Norte (PA): votação para presidente no Emef Humberto Fernandes dos Santos, na 81ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-garrafao-do-norte-pa-votacao-para-presidente-no-emef-humberto-fernandes-dos-santos-na-81a-zona-eleitoral.ghtml)_
+
