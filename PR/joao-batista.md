@@ -11,3 +11,6 @@
 - **[2026-10-05 11:05 UTC]** Resultado das eleições 2026 em Bujari (AC): votação para presidente na Escola São João Batista, na 9ª zona eleitoral
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bujari-ac-votacao-para-presidente-na-escola-sao-joao-batista-na-9a-zona-eleitoral.ghtml)_
 
+- **[2026-10-05 22:19 UTC]** Resultado das eleições 2026 em São João Batista (MA): como foi a votação no 1º turno
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-sao-joao-batista-ma-como-foi-a-votacao-no-1o-turno.ghtml)_
+
