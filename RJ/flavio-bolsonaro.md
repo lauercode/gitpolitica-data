@@ -3935,3 +3935,6 @@
 - **[2026-10-05 20:07 UTC]** Ao lado de Nikolas Ferreira, Tarcísio diz que vai 'mergulhar de cabeça' na campanha de Flávio Bolsonaro em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/ao-lado-de-nikolas-ferreira-tarcisio-diz-que-vai-mergulhar-de-cabeca-na-campanha-de-flavio-bolsonaro-em-sp.ghtml)_
 
+- **[2026-10-05 19:24 UTC]** Trump vê segundo turno acirrado no Brasil e diz que vitória de Flávio foi 'apertada, mas impressionante'
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/05/trump-diz-que-segundo-turno-das-eleicoes-do-brasil-devem-ser-muito-acirrados.ghtml)_
+
