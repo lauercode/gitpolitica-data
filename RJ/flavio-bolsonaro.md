@@ -4268,3 +4268,6 @@
 - **[2026-10-06 16:46 UTC]** Flávio Bolsonaro fala em usar maioria no Congresso para mudar a Constituição e 'redemocratizar o país'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caiado-confirma-apoio-a-flavio-bolsonaro-no-2o-turno-em-ato-com-governadores-reeleitos.shtml)_
 
+- **[2026-10-06 15:05 UTC]** Coordenador de campanha de Flávio quer facilitar impeachment de ministros, mas nega vingança a Fachin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/coordenador-da-campanha-de-flavio-defende-regra-para-abrir-impeachment-no-senado-com-49-assinaturas.shtml)_
+
