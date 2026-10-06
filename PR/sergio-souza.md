@@ -149,3 +149,6 @@
 - **[2026-10-06 09:59 UTC]** Resultado das eleições 2026 em São José de Mipibu (RN): votação para presidente no E. M. Bernardo de Souza Coutinho, na 7ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-de-mipibu-rn-votacao-para-presidente-no-e-m-bernardo-de-souza-coutinho-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:59 UTC]** Resultado das eleições 2026 em Senador Elói de Souza (RN): como foi a votação no 1º turno
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-eloi-de-souza-rn-como-foi-a-votacao-no-1o-turno.ghtml)_
+
