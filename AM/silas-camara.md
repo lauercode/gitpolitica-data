@@ -1262,3 +1262,6 @@ direitos
 - **[2026-10-05 23:48 UTC]** Veja os estados que elegeram mais e menos mulheres para a Câmara e o Senado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/estados-mulheres-eleitas-2026.ghtml)_
 
+- **[2026-10-05 22:30 UTC]** Câmara terá 3 deputados federais indígenas a partir de 2027; compare com as eleições anteriores
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-indigenas.ghtml)_
+
