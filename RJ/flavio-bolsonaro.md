@@ -4127,3 +4127,6 @@
 - **[2026-10-06 12:24 UTC]** Flávio avança para 2º turno com apoio de 10 governadores; Lula tem cinco
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-avanca-segundo-turno-apoio-governadores/)_
 
+- **[2026-10-06 14:16 UTC]** Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss)_
+
