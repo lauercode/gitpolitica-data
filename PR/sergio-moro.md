@@ -143,3 +143,6 @@
 - **[2026-10-05 20:41 UTC]** Sergio Moro revela primeiras medidas após a posse, promete cortar secretarias e diz que vai continuar senador até o final do ano
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/sergio-moro-revela-primeiras-medidas-apos-a-posse-promete-cortar-secretarias-e-diz-que-vai-continuar-senador-ate-o-final-do-ano.ghtml)_
 
+- **[2026-10-05 18:56 UTC]** Quem é Luis Felipe Cunha, suplente que ocupará a vaga de Sergio Moro no Senado pelo Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/suplente-ocupara-a-vaga-de-sergio-moro-no-senado-pelo-parana.ghtml)_
+
