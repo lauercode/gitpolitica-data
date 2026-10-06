@@ -4031,3 +4031,6 @@
 - **[2026-10-05 22:30 UTC]** Com críticas ao STF, Zema declara apoio a Flávio Bolsonaro no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/com-crticas-ao-stf-zema-declara-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-05 22:23 UTC]** Flávio Bolsonaro quer debater com Lula, afirma coordenador de campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/flavio-bolsonaro-quer-debater-com-lula-afirma-coordenador-de-campanha.ghtml)_
+
