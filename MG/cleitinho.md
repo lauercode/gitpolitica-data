@@ -152,3 +152,6 @@
 - **[2026-10-05 16:34 UTC]** Cleitinho discute nesta semana formação de secretariado para governo de Minas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/cleitinho-discute-nesta-semana-formacao-de-secretariado-para-governo-de-minas.ghtml)_
 
+- **[2026-10-05 22:19 UTC]** Cleitinho reafirma apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/cleitinho-reafirma-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml)_
+
