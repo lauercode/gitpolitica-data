@@ -311,3 +311,6 @@
 - **[2026-10-06 08:00 UTC]** Resultado dificulta estratégias de Alcolumbre e Motta
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/resultado-dificulta-estrategias-de-alcolumbre-e-motta.ghtml)_
 
+- **[2026-10-06 10:14 UTC]** Fim da escala 6x1: Alcolumbre mantém calendário, mas votação é incerta
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/fim-da-escala-6x1-alcolumbre-mantem-calendario-mas-votacao-e-incerta)_
+
