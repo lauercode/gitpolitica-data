@@ -44,3 +44,6 @@
 - **[2026-10-04 20:20 UTC]** Governador de MG e candidato à reeleição, Mateus Simões vota em Belo Horizonte
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/governador-de-mg-e-candidato-reeleio-mateus-simes-vota-em-belo-horizonte.ghtml)_
 
+- **[2026-10-06 17:01 UTC]** Mateus Simões se emociona em reunião de transição de governo em MG e diz ter 'medo de destruição'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/mateus-simes-se-emociona-em-reunio-de-transio-de-governo-em-mg-e-diz-ter-medo-de-destruio.ghtml)_
+
