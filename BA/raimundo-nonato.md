@@ -14,3 +14,6 @@
 - **[2026-10-06 17:07 UTC]** Resultado das eleições 2026 em Viana (MA): votação para presidente na Escola Municipal São Raimundo Nonato, na 20ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-viana-ma-votacao-para-presidente-na-escola-municipal-sao-raimundo-nonato-na-20a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:17 UTC]** Resultado das eleições 2026 em Pacaraima (RR): votação para presidente na Escola Municipal Raimundo Nonato Leda dos Santos, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pacaraima-rr-votacao-para-presidente-na-escola-municipal-raimundo-nonato-leda-dos-santos-na-7a-zona-eleitoral.ghtml)_
+
