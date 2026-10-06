@@ -20,3 +20,6 @@
 - **[2026-10-06 07:50 UTC]** Resultado das eleições 2026 em Zé Doca (MA): votação para presidente no Ce Prof Francisco de Assis Amorim de Araújo (Bandeirante), na 96ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ze-doca-ma-votacao-para-presidente-no-ce-prof-francisco-de-assis-amorim-de-araujo-bandeirante-na-96a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 08:12 UTC]** Resultado das eleições 2026 em Toledo (PR): votação para presidente na Escola Municipal São Francisco de Assis, na 75ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-toledo-pr-votacao-para-presidente-na-escola-municipal-sao-francisco-de-assis-na-75a-zona-eleitoral.ghtml)_
+
