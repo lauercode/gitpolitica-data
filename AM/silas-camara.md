@@ -1274,3 +1274,6 @@ direitos
 - **[2026-10-05 13:56 UTC]** Com 109 mulheres eleitas, Câmara dos Deputados terá maior bancada feminina da história
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/com-108-mulheres-eleitas-camara-dos-deputados-tera-maior-bancada-feminina-da-historia.ghtml)_
 
+- **[2026-10-05 18:41 UTC]** Ex-governadores Roberto Requião (PDT) e Beto Richa (PSDB) não conseguem se eleger à Câmara dos Deputados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ex-governadores-roberto-requiao-pdt-e-beto-richa-psdb-nao-conseguem-se-eleger-a-camara-dos-deputados.shtml)_
+
