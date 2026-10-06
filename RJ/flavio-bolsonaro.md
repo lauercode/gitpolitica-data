@@ -4307,3 +4307,6 @@
 - **[2026-10-06 21:24 UTC]** PGR se manifesta a favor da retomada de visitas de Flávio a Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/06/pgr-se-manifesta-a-favor-da-retomada-de-visitas-de-flavio-a-bolsonaro.ghtml)_
 
+- **[2026-10-06 21:17 UTC]** Quando é o primeiro debate entre Lula e Flávio Bolsonaro? Veja data e horário
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/quando-e-o-primeiro-debate-entre-lula-e-flavio-bolsonaro-veja-data-e-horario.ghtml)_
+
