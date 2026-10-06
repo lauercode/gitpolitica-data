@@ -17,3 +17,6 @@
 - **[2026-10-06 17:47 UTC]** Resultado das eleições 2026 em Soledade (PB): votação para presidente no Salão São Vicente de Paula, na 23ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-soledade-pb-votacao-para-presidente-no-salao-sao-vicente-de-paula-na-23a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 22:12 UTC]** Resultado das eleições 2026 em Paraíso do Tocantins (TO): votação para presidente no Colégio Estadual Idalina de Paula, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paraiso-do-tocantins-to-votacao-para-presidente-no-colegio-estadual-idalina-de-paula-na-7a-zona-eleitoral.ghtml)_
+
