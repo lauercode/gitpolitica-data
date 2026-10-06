@@ -98,3 +98,6 @@
 - **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Antônio Prado (RS): votação para presidente na Escola Estadual Santana, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-antonio-prado-rs-votacao-para-presidente-na-escola-estadual-santana-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Antônio Prado (RS): votação para presidente no Salao Paroquial Linha 2 de Julho - Próximo A Santana, na 6ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-antonio-prado-rs-votacao-para-presidente-no-salao-paroquial-linha-2-de-julho-proximo-a-santana-na-6a-zona-eleitoral.ghtml)_
+
