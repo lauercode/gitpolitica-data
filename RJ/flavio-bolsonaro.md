@@ -3989,3 +3989,6 @@
 - **[2026-10-05 17:37 UTC]** Flávio Bolsonaro irá a Goiás para anúncio de apoio de Ronaldo Caiado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-ira-a-goias-para-anuncio-de-apoio-de-ronaldo-caiado.shtml)_
 
+- **[2026-10-05 17:11 UTC]** 'Grande vitória', diz Trump sobre Flávio Bolsonaro ter ficado à frente no 1º turno da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/grande-vitoria-diz-trump-sobre-flavio-bolsonaro-ter-ficado-a-frente-no-1o-turno-da-eleicao.shtml)_
+
