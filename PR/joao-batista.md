@@ -14,3 +14,6 @@
 - **[2026-10-05 22:19 UTC]** Resultado das eleições 2026 em São João Batista (MA): como foi a votação no 1º turno
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-sao-joao-batista-ma-como-foi-a-votacao-no-1o-turno.ghtml)_
 
+- **[2026-10-06 06:53 UTC]** Resultado das eleições 2026 em Serrano do Maranhão (MA): votação para presidente no C.E.F. São João Batista, na 107ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-serrano-do-maranhao-ma-votacao-para-presidente-no-c-e-f-sao-joao-batista-na-107a-zona-eleitoral.ghtml)_
+
