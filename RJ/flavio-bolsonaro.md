@@ -3947,3 +3947,6 @@
 - **[2026-10-05 20:49 UTC]** Flávio Bolsonaro busca Republicanos para ampliar onda de apoios no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-busca-republicanos-para-ampliar-onda-de-apoios-no-2o-turno.shtml)_
 
+- **[2026-10-05 20:46 UTC]** E o Posto Ipiranga de Flávio?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/e-o-posto-ipiranga-de-flavio.shtml)_
+
