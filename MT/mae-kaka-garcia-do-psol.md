@@ -152,3 +152,6 @@
 - **[2026-10-05 17:10 UTC]** Veja a lista de todos os eleitos pelo PSOL nas eleições 2026
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/veja-a-lista-de-todos-os-eleitos-pelo-psol-nas-eleicoes-2026.ghtml)_
 
+- **[2026-10-05 23:55 UTC]** Por que o PSOL elegeu menos deputados federais que o PT em SP mesmo com mais votos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/por-que-o-psol-elegeu-menos-deputados-federais-que-o-pt-mesmo-com-mais-votos.ghtml)_
+
