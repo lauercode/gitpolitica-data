@@ -29,3 +29,6 @@
 - **[2026-10-04 21:50 UTC]** Eduardo Gomes (PL) e Alexandre Guimarães (MDB) são eleitos senadores pelo Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/04/resultado-senado-tocantins.ghtml)_
 
+- **[2026-10-06 04:54 UTC]** Resultado das eleições 2026 em Senador Guiomard (AC): votação para presidente na Escola Brigadeiro Eduardo Gomes, na 8ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-guiomard-ac-votacao-para-presidente-na-escola-brigadeiro-eduardo-gomes-na-8a-zona-eleitoral.ghtml)_
+
