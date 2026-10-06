@@ -38,3 +38,6 @@
 - **[2026-10-06 17:27 UTC]** Resultado das eleições 2026 em Simão Dias (SE): votação para presidente na Escola Estadual Jose de Carvalho Deda, na 22ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-simao-dias-se-votacao-para-presidente-na-escola-estadual-jose-de-carvalho-deda-na-22a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:27 UTC]** Resultado das eleições 2026 em Simão Dias (SE): votação para presidente na Escola Mun. Des. Gervasio de Carvalho Prata, na 22ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-simao-dias-se-votacao-para-presidente-na-escola-mun-des-gervasio-de-carvalho-prata-na-22a-zona-eleitoral.ghtml)_
+
