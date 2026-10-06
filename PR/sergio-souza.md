@@ -65,3 +65,6 @@
 - **[2026-10-05 23:09 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. E. Raimunda Holanda de Souza, na 70ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-e-raimunda-holanda-de-souza-na-70a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 04:55 UTC]** Resultado das eleições 2026 em Senador Guiomard (AC): votação para presidente na Escola Diva Pereira de Souza, na 8ª zona eleitoral
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-guiomard-ac-votacao-para-presidente-na-escola-diva-pereira-de-souza-na-8a-zona-eleitoral.ghtml)_
+
