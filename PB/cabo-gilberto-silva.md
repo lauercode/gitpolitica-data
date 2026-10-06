@@ -32,3 +32,6 @@
 - **[2026-10-06 17:47 UTC]** Resultado das eleições 2026 em Sumé (PB): votação para presidente no U.M.E.I.E.F. Zélia Braz Vieira da Silva, na 43ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sume-pb-votacao-para-presidente-no-u-m-e-i-e-f-zelia-braz-vieira-da-silva-na-43a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:42 UTC]** Resultado das eleições 2026 em Serra Branca (PB): votação para presidente no Grupo Escolar Manoel Duarte da Silva, na 58ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-serra-branca-pb-votacao-para-presidente-no-grupo-escolar-manoel-duarte-da-silva-na-58a-zona-eleitoral.ghtml)_
+
