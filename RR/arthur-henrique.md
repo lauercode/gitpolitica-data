@@ -74,3 +74,6 @@
 - **[2026-10-06 08:00 UTC]** Governador eleito Arthur Henrique ganhou em 13 dos 15 municípios de Roraima
   _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/governador-eleito-arthur-henrique-ganhou-em-13-dos-15-municipios-de-roraima.ghtml)_
 
+- **[2026-10-06 08:00 UTC]** Governador eleito, Arthur Henrique ganhou em 13 dos 15 municípios de Roraima
+  _fonte: [G1 - Política:](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/governador-eleito-arthur-henrique-ganhou-em-13-dos-15-municipios-de-roraima.ghtml)_
+
