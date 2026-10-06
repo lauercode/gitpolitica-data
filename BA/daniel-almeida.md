@@ -65,3 +65,6 @@
 - **[2026-10-06 15:14 UTC]** Resultado das eleições 2026 em Mucajaí (RR): votação para presidente na Escola Municipal José Germiniano de Almeida, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-mucajai-rr-votacao-para-presidente-na-escola-municipal-jose-germiniano-de-almeida-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 15:07 UTC]** Resultado das eleições 2026 em Iracema (RR): votação para presidente na Escola Estadual Manoel Agostinho de Almeida, na 6ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-iracema-rr-votacao-para-presidente-na-escola-estadual-manoel-agostinho-de-almeida-na-6a-zona-eleitoral.ghtml)_
+
