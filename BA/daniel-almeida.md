@@ -50,3 +50,6 @@
 - **[2026-10-06 11:23 UTC]** Resultado das eleições 2026 em Buritis (RO): votação para presidente no José Américo de Almeida - Escola Municipal, na 34ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-buritis-ro-votacao-para-presidente-no-jose-americo-de-almeida-escola-municipal-na-34a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 14:17 UTC]** Resultado das eleições 2026 em Chapecó (SC): votação para presidente no Eeb Tancredo de Almeida Neves, na 94ª zona eleitoral
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-chapeco-sc-votacao-para-presidente-no-eeb-tancredo-de-almeida-neves-na-94a-zona-eleitoral.ghtml)_
+
