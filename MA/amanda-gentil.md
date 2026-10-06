@@ -11,3 +11,6 @@
 - **[2026-10-05 05:14 UTC]** Eleições 2026: Amanda Gentil (PP) é eleita deputada federal pelo Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-amanda-gentil-pp-e-eleita-deputada-federal-pelo-maranhao.ghtml)_
 
+- **[2026-10-06 09:36 UTC]** Resultado das eleições 2026 em Alvorada (RS): votação para presidente no Gentil Viegas Cardoso E.E., na 74ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-alvorada-rs-votacao-para-presidente-no-gentil-viegas-cardoso-e-e-na-74a-zona-eleitoral.ghtml)_
+
