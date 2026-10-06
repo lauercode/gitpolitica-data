@@ -4064,3 +4064,6 @@
 - **[2026-10-05 17:31 UTC]** Bolsonaro participará de eventual governo Flávio, diz presidente do PL
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/pl-nao-apoiara-reconducao-de-alcolumbre-a-presidencia-do-senado-em-2027-diz-costa-neto.ghtml)_
 
+- **[2026-10-06 03:30 UTC]** Flávio Bolsonaro x Lula no 2º turno: discursos e estratégias - O Assunto #1819
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/06/flavio-bolsonaro-x-lula-no-2o-turno-discursos-e-estrategias-o-assunto-1819.ghtml)_
+
