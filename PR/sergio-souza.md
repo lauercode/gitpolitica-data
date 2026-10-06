@@ -254,3 +254,6 @@
 - **[2026-10-06 17:31 UTC]** Resultado das eleições 2026 em Tobias Barreto (SE): votação para presidente no Emef Telma de Souza Almeida, na 23ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tobias-barreto-se-votacao-para-presidente-no-emef-telma-de-souza-almeida-na-23a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 17:31 UTC]** Resultado das eleições 2026 em Tobias Barreto (SE): votação para presidente no Emef Mariana Macedo de Souza, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tobias-barreto-se-votacao-para-presidente-no-emef-mariana-macedo-de-souza-na-23a-zona-eleitoral.ghtml)_
+
