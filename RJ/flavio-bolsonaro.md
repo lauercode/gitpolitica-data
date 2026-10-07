@@ -4536,3 +4536,6 @@
 - **[2026-10-07 17:21 UTC]** Defendida por Flávio, redução da maioridade penal tramita no Congresso e tem divergência sobre legalidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/defendida-por-flavio-reducao-da-maioridade-penal-tramita-no-congresso-e-tem-divergencia-sobre-legalidade.shtml)_
 
+- **[2026-10-07 17:10 UTC]** Exército vê civil bolsonarista como ministro da Defesa se Flávio vencer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/exercito-ve-bolsonarista-como-ministro-da-defesa-se-flavio-vencer.shtml)_
+
