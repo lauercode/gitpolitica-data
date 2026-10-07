@@ -4545,3 +4545,6 @@
 - **[2026-10-07 16:40 UTC]** Flávio Bolsonaro propõe congelar dívidas das famílias, aos moldes de Desenrola de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-propoe-congelar-dividas-das-familias-aos-moldes-de-desenrola-de-lula.shtml)_
 
+- **[2026-10-07 16:30 UTC]** Maioria do MDB deve anunciar apoio a Flávio na semana que vem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/maioria-dos-diretorios-do-mdb-defende-apoiar-flavio-no-2o-turno-mas-baleia-resiste.shtml)_
+
