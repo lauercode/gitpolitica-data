@@ -4319,3 +4319,6 @@
 - **[2026-10-06 18:45 UTC]** Fim da escala 6x1: como pensam Flávio Bolsonaro e Lula sobre a proposta
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/escala-6x1-como-flavio-e-lula-se-posicionam-sobre-proposta-de-reducao-de-jornada.ghtml)_
 
+- **[2026-10-06 20:34 UTC]** Flávio busca apoio de Caiado e Lula defende fim da 6x1
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-busca-apoio-de-caiado-e-lula-defende-fim-da-6x1)_
+
