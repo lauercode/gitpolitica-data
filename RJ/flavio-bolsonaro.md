@@ -4394,3 +4394,6 @@
 - **[2026-10-07 14:43 UTC]** Após anúncio de Zema, partido Novo também declara apoio a Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/apos-anuncio-de-zema-partido-novo-tambem-declara-apoio-a-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-07 14:25 UTC]** 'Split payment': campanha de Flávio diz que acabará com mecanismo da reforma tributária que busca reduzir sonegação
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/07/reforma-tributaria-flavio-defende-mudancas-e-porta-voz-diz-que-vai-acabar-com-split-payment.ghtml)_
+
