@@ -53,3 +53,6 @@
 - **[2026-10-05 20:00 UTC]** Como PL e Michelle Bolsonaro contribuíram com bancada feminina recorde na Câmara
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6d938105009o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-06 22:32 UTC]** Michelle Bolsonaro articula ida ao Amazonas para impulsionar candidata do PL
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/michelle-bolsonaro-articula-ida-ao-amazonas-para-impulsionar-candidata-do-pl.shtml)_
+
