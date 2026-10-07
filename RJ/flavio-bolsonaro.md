@@ -4587,3 +4587,6 @@
 - **[2026-10-07 18:11 UTC]** Eleições 2026 no AC: Flávio Bolsonaro (PL) vence em 19 municípios e Lula (PT) em 3, no 1º turno
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/07/eleicoes-2026-no-ac-flavio-bolsonaro-pl-vence-em-19-municipios-e-lula-pt-em-3-no-1o-turno.ghtml)_
 
+- **[2026-10-07 22:00 UTC]** Quando é o debate da Globo entre Lula e Flávio Bolsonaro? Veja data
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/quando-e-o-debate-da-globo-entre-lula-e-flavio-bolsonaro-veja-data.ghtml)_
+
