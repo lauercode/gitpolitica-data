@@ -4493,3 +4493,6 @@
 - **[2026-10-07 15:33 UTC]** Análise: Sete dúvidas sobre a conta fiscal de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/07/analise-sete-duvidas-sobre-a-conta-fiscal-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-07 15:28 UTC]** Celina Leão diz que eleição de Flávio Bolsonaro pode dar 'mais fôlego' à recuperação do BRB
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/celina-leao-diz-que-eleicao-de-flavio-bolsonaro-pode-dar-mais-folego-a-recuperacao-do-brb.ghtml)_
+
