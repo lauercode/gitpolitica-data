@@ -32,3 +32,7 @@
 - **[2026-10-06 22:44 UTC]** Coordenador de campanha de Flávio, Rogério Marinho é internado no DF após 'mal-estar'
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/senador-rogerio-marinho-tem-mal-estar-e-e-levado-a-hospital-no-df-apos-evento-com-flavio-em-go.ghtml)_
 
+- **[2026-10-07 17:28 UTC]** Coordenador de campanha de Flávio, Rogério Marinho tem alta após 
+'mal-estar' e internação no DF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
+
