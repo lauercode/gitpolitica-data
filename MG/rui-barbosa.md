@@ -26,3 +26,6 @@
 - **[2026-10-06 22:27 UTC]** Resultado das eleições 2026 em Seringueiras (RO): votação para presidente no Rui Barbosa de Oliveira - Escola Estadual, na 35ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-seringueiras-ro-votacao-para-presidente-no-rui-barbosa-de-oliveira-escola-estadual-na-35a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:08 UTC]** Resultado das eleições 2026 em Redenção (PA): votação para presidente no Emef Rui Barbosa (Rt 1), na 59ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-redencao-pa-votacao-para-presidente-no-emef-rui-barbosa-rt-1-na-59a-zona-eleitoral.ghtml)_
+
