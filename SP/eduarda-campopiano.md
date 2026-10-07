@@ -23,3 +23,6 @@
 - **[2026-10-06 19:51 UTC]** Quem é Eduarda Campopiano e quais as suas propostas?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/quem-e-eduarda-campopiano-e-quais-as-suas-propostas.ghtml)_
 
+- **[2026-10-07 16:55 UTC]** Colega de PL, deputada mais votada no RS critica falas de Eduarda Campopiano sobre feminicídio: 'Uma bobagem'
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/07/pl-deputada-mais-votada-rs-critica-eduarda-campopiano.ghtml)_
+
