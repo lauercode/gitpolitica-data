@@ -14,3 +14,6 @@
 - **[2026-10-05 08:35 UTC]** Resultado das eleições 2026 em Paulo Jacinto (AL): votação para presidente na Escola Estadual Deputado José Medeiros, na 28ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-paulo-jacinto-al-votacao-para-presidente-na-escola-estadual-deputado-jose-medeiros-na-28a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:03 UTC]** Resultado das eleições 2026 em Morros (MA): votação para presidente no E. M. Maria José Medeiros Vieira, na 110ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-morros-ma-votacao-para-presidente-no-e-m-maria-jose-medeiros-vieira-na-110a-zona-eleitoral.ghtml)_
+
