@@ -4496,3 +4496,6 @@
 - **[2026-10-07 15:28 UTC]** Celina Leão diz que eleição de Flávio Bolsonaro pode dar 'mais fôlego' à recuperação do BRB
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/celina-leao-diz-que-eleicao-de-flavio-bolsonaro-pode-dar-mais-folego-a-recuperacao-do-brb.ghtml)_
 
+- **[2026-10-07 15:25 UTC]** Para ministros do STF, revisão criminal de Bolsonaro deve ir direto ao plenário
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/para-ministros-do-stf-revisao-criminal-de-bolsonaro-deve-ir-direto-ao-plenario.ghtml)_
+
