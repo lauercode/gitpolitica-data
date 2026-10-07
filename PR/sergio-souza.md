@@ -278,3 +278,6 @@
 - **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Itaituba (PA): votação para presidente na Escola Benedito Correa de Souza, na 34ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-itaituba-pa-votacao-para-presidente-na-escola-benedito-correa-de-souza-na-34a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Juruti (PA): votação para presidente no Raimundo de Souza Coelho, na 105ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-juruti-pa-votacao-para-presidente-no-raimundo-de-souza-coelho-na-105a-zona-eleitoral.ghtml)_
+
