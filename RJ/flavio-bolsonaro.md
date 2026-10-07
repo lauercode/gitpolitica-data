@@ -4424,3 +4424,6 @@
 - **[2026-10-07 13:21 UTC]** Conheça as posições de Lula e de Flávio sobre proposta para acabar com escala 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/entenda-as-propostas-pelo-fim-da-escala-6x1-de-flavio-bolsonaro-e-lula.shtml)_
 
+- **[2026-10-07 13:05 UTC]** Assessor de Flávio propõe mudanças na Constituição para cortes de até R$ 200 bi e causa ruído na campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/assessor-de-flavio-propoe-mudancas-na-constituicao-para-cortes-de-ate-r-200-bi-e-causa-ruido-na-campanha.shtml)_
+
