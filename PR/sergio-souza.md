@@ -284,3 +284,6 @@
 - **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Emas (PB): votação para presidente na Creche Municipal Angelita Pereira de Souza (Creche Antiga), na 32ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-emas-pb-votacao-para-presidente-na-creche-municipal-angelita-pereira-de-souza-creche-antiga-na-32a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:56 UTC]** Resultado das eleições 2026 em Boa Vista (RR): votação para presidente na Escola Estadual Jesus Nazareno de Souza Cruz, na 1ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-jesus-nazareno-de-souza-cruz-na-1a-zona-eleitoral.ghtml)_
+
