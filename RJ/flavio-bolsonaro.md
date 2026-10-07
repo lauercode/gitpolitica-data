@@ -4331,3 +4331,6 @@
 - **[2026-10-06 23:00 UTC]** Flávio e Lula miram 9 milhões de votos de derrotados e 8 milhões que não votaram no Nordeste
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-e-lula-miram-9-milhoes-de-votos-de-derrotados-e-8-milhoes-que-nao-votaram-no-nordeste.shtml)_
 
+- **[2026-10-06 23:00 UTC]** PSDB tem maioria de diretórios estaduais com posição pró-Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/psdb-tem-maioria-de-diretorios-estaduais-com-posicao-pro-flavio-bolsonaro.shtml)_
+
