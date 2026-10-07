@@ -4379,3 +4379,6 @@
 - **[2026-10-07 08:00 UTC]** Lula muda comunicação e busca associar Flávio a fim de programas sociais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/lula-muda-comunicacao-e-busca-associar-flavio-a-fim-de-programas-sociais.ghtml)_
 
+- **[2026-10-07 08:00 UTC]** Flávio Bolsonaro recebe apoios e fala em ‘mudar a Constituição’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/flavio-bolsonaro-recebe-apoios-e-fala-em-mudar-a-constituicao.ghtml)_
+
