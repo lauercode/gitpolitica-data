@@ -14,3 +14,6 @@
 - **[2026-10-02 18:28 UTC]** Edinho Silva nega “bala de prata” do PT contra Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/edinho-silva-nega-bala-de-prata-pt-contra-flavio-bolsonaro/)_
 
+- **[2026-10-07 14:07 UTC]** Edinho Silva aposta em “confronto de projetos” de Lula contra Flávio neste segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-aposta-confronto-projetos-lula-contra-flavio-neste-segundo-turno/)_
+
