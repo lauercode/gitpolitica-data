@@ -4358,3 +4358,6 @@
 - **[2026-10-07 00:25 UTC]** Ministros do STF que hostilizaram Bolsonaro agora querem negociar com Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/renan-ramalho/ministros-do-stf-que-hostilizaram-bolsonaro-agora-querem-negociar-com-flavio/)_
 
+- **[2026-10-06 23:39 UTC]** Flávio diz que bancada do agro poderá indicar ministro da Agricultura em seu eventual mandato
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flvio-diz-que-bancada-do-agro-poder-indicar-ministro-da-agricultura-em-seu-eventual-mandato.ghtml)_
+
