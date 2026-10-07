@@ -4530,3 +4530,6 @@
 - **[2026-10-07 18:28 UTC]** Flávio Bolsonaro negocia o tribunal dos sobreviventes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/flavio-bolsonaro-negocia-o-tribunal-dos-sobreviventes.shtml)_
 
+- **[2026-10-07 17:32 UTC]** Possível vitória de Flávio Bolsonaro ameaça o futuro do cinema brasileiro, diz Variety
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/10/possivel-vitoria-de-flavio-bolsonaro-ameaca-o-futuro-do-cinema-brasileiro-diz-variety.shtml)_
+
