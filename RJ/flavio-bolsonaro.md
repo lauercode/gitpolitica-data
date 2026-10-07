@@ -4328,3 +4328,6 @@
 - **[2026-10-06 22:44 UTC]** Coordenador de campanha de Flávio, Rogério Marinho é internado no DF após 'mal-estar'
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/senador-rogerio-marinho-tem-mal-estar-e-e-levado-a-hospital-no-df-apos-evento-com-flavio-em-go.ghtml)_
 
+- **[2026-10-06 23:00 UTC]** Flávio e Lula miram 9 milhões de votos de derrotados e 8 milhões que não votaram no Nordeste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-e-lula-miram-9-milhoes-de-votos-de-derrotados-e-8-milhoes-que-nao-votaram-no-nordeste.shtml)_
+
