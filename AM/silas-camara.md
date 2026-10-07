@@ -1373,3 +1373,6 @@ direitos
 - **[2026-10-07 04:00 UTC]** Primeiro deputado cassado por fake news vai à Câmara junto com filho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/primeiro-deputado-cassado-por-fake-news-vai-a-camara-junto-com-filho.shtml)_
 
+- **[2026-10-07 04:00 UTC]** PL quer disputar presidência da Câmara de SP após sair fortalecido de eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/pl-quer-disputar-presidencia-da-camara-de-sp-apos-sair-fortalecido-de-eleicao.shtml)_
+
