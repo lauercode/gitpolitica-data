@@ -1385,3 +1385,6 @@ direitos
 - **[2026-10-07 13:40 UTC]** Qual é a composição da nova Câmara dos Deputados: quem ganhou e quem perdeu espaço nas eleições 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw054z5n04e9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-07 13:40 UTC]** Quem ganhou e quem perdeu espaço com a nova composição da Câmara dos Deputados
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw054z5n04e9o?at_medium=RSS&at_campaign=rss)_
+
