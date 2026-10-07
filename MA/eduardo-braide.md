@@ -74,3 +74,6 @@
 - **[2026-10-05 15:58 UTC]** Governador eleito, Eduardo Braide foi o mais votado em 130 dos 217 municípios do Maranhão; veja lista
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/governador-eleito-eduardo-braide-foi-o-mais-votado-em-130-dos-217-municipios-do-maranhao-veja-lista.ghtml)_
 
+- **[2026-10-07 18:03 UTC]** Eduardo Braide anuncia primeiros nomes da equipe de transição para o Governo do Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/07/eduardo-braide-anuncia-primeiros-nomes-da-equipe-de-transicao-para-o-governo-do-maranhao.ghtml)_
+
