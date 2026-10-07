@@ -4551,3 +4551,6 @@
 - **[2026-10-07 16:00 UTC]** Flávio Bolsonaro sugere que Brasil sob seu governo fará parte do Escudo das Américas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/flavio-bolsonaro-sugere-que-brasil-sob-seu-governo-fara-parte-do-escudo-das-americas.shtml)_
 
+- **[2026-10-07 15:10 UTC]** Kassio confirma análise sobre soltura de Bolsonaro após eleição e fala em levar caso ao plenário do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-confirma-analise-sobre-soltura-de-bolsonaro-apos-eleicao-e-fala-em-levar-caso-ao-plenario-do-stf.shtml)_
+
