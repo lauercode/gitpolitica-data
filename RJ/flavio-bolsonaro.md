@@ -4439,3 +4439,6 @@
 - **[2026-10-07 11:27 UTC]** Como mídia chinesa viu vantagem de Flávio sobre Lula no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/como-midia-chinesa-viu-vantagem-de-flavio-sobre-lula-no-1o-turno.shtml)_
 
+- **[2026-10-07 11:14 UTC]** Candidata derrotada do DC anuncia apoio a Flávio no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/candidata-derrotada-do-dc-anuncia-apoio-a-flavio-no-segundo-turno.shtml)_
+
