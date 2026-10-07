@@ -11,3 +11,6 @@
 - **[2026-10-06 22:37 UTC]** Resultado das eleições 2026 em Pedra Branca do Amapari (AP): votação para presidente na Escola Estadual Maria Helena Cordeiro, na 11ª zona eleitoral
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pedra-branca-do-amapari-ap-votacao-para-presidente-na-escola-estadual-maria-helena-cordeiro-na-11a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:09 UTC]** Resultado das eleições 2026 em Maria Helena (PR): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-maria-helena-pr-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
