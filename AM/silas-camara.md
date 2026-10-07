@@ -1379,3 +1379,6 @@ direitos
 - **[2026-10-07 14:30 UTC]** Motta comemora crescimento da bancada feminina na Câmara
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1309906-motta-comemora-crescimento-da-bancada-feminina-na-camara)_
 
+- **[2026-10-07 14:37 UTC]** Motta ignora força da direita eleita na Câmara e elogia apenas aumento da bancada feminina
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/motta-ignora-direita-eleita-camara-elogia-apenas-aumento-bancada-feminina/)_
+
