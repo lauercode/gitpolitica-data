@@ -4578,3 +4578,6 @@
 - **[2026-10-07 21:44 UTC]** Liberdade para Bolsonaro? Cresce pressão por revisão criminal de ex-presidente
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/liberdade-para-bolsonaro-cresce-pressao-por-revisao-criminal/)_
 
+- **[2026-10-07 16:13 UTC]** O que Flávio Bolsonaro quer mudar na Constituição, caso seja eleito com Congresso mais conservador?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvglw4627kdlo?at_medium=RSS&at_campaign=rss)_
+
