@@ -29,3 +29,6 @@
 - **[2026-10-07 15:39 UTC]** Eduarda Campopiano diz defender voto feminino e que 'derrota bate à porta' da esquerda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/10/eduarda-campopiano-diz-defender-voto-feminino-e-que-derrota-bate-a-porta-da-esquerda.shtml)_
 
+- **[2026-10-06 22:08 UTC]** Eduarda Campopiano erra até a própria cidade em projetos de lei que repetem textos de outros políticos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crwyd10307kjo?at_medium=RSS&at_campaign=rss)_
+
