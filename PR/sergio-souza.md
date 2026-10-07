@@ -263,3 +263,6 @@
 - **[2026-10-06 22:27 UTC]** Resultado das eleições 2026 em Urupá (RO): votação para presidente no Waldemar Higino de Souza - Escola Municipal, na 18ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-urupa-ro-votacao-para-presidente-no-waldemar-higino-de-souza-escola-municipal-na-18a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 21:37 UTC]** Corintiano é condenado a 16 anos pela morte de palmeirense na Batalha da Inajar de Souza, em 2012
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/corintiano-e-condenado-a-16-anos-pela-morte-de-palmeirense-na-batalha-da-inajar-de-souza-em-2012.shtml)_
+
