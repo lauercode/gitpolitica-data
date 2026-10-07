@@ -23,3 +23,6 @@
 - **[2026-10-07 02:09 UTC]** Resultado das eleições 2026 em Couto Magalhães (TO): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-couto-magalhaes-to-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Couto Magalhães (TO): como foi a votação nos locais de votação da 16ª Zona Eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-couto-magalhaes-to-como-foi-a-votacao-nos-locais-de-votacao-da-16a-zona-eleitoral.ghtml)_
+
