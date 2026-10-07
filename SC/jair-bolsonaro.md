@@ -89,3 +89,6 @@
 - **[2026-10-06 21:31 UTC]** Por que Jair Bolsonaro foi preso? Relembre a prisão do ex-presidente
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/por-que-jair-bolsonaro-foi-preso-relembre-a-prisao-do-ex-presidente.ghtml)_
 
+- **[2026-10-07 16:50 UTC]** Ao lado de Michelle, Flávio diz que Jair Bolsonaro passará a faixa presidencial a ele caso seja eleito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-lado-de-michelle-flavio-diz-que-jair-bolsonaro-subira-rampa-na-posse-e-passa-a-faixa-presidencial-a-ele.shtml)_
+
