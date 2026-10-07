@@ -1361,3 +1361,6 @@ direitos
 - **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Magalhães Barata (PA): votação para presidente no Câmara Municipal de Magalhães Barata, na 5ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-magalhaes-barata-pa-votacao-para-presidente-no-camara-municipal-de-magalhaes-barata-na-5a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Puxinanã (PB): votação para presidente no Câmara Municipal de Puxinanã, na 50ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-puxinana-pb-votacao-para-presidente-no-camara-municipal-de-puxinana-na-50a-zona-eleitoral.ghtml)_
+
