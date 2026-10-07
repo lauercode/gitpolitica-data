@@ -275,3 +275,6 @@
 - **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Redenção (PA): votação para presidente no Emef Eva Tome de Souza (Rt 4), na 59ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-redencao-pa-votacao-para-presidente-no-emef-eva-tome-de-souza-rt-4-na-59a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Itaituba (PA): votação para presidente na Escola Benedito Correa de Souza, na 34ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-itaituba-pa-votacao-para-presidente-na-escola-benedito-correa-de-souza-na-34a-zona-eleitoral.ghtml)_
+
