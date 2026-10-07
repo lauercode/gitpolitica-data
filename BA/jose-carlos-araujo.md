@@ -53,3 +53,6 @@
 - **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Marechal Deodoro (AL): votação para presidente na Escola Municipal D. Maria de Araujo Lobo, na 26ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-marechal-deodoro-al-votacao-para-presidente-na-escola-municipal-d-maria-de-araujo-lobo-na-26a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:04 UTC]** Resultado das eleições 2026 em Pocinhos (PB): votação para presidente no Anexo Escola Elizete Pereira de Araujo (Antigo Ipase), na 50ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pocinhos-pb-votacao-para-presidente-no-anexo-escola-elizete-pereira-de-araujo-antigo-ipase-na-50a-zona-eleitoral.ghtml)_
+
