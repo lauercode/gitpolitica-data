@@ -287,3 +287,6 @@
 - **[2026-10-07 01:56 UTC]** Resultado das eleições 2026 em Boa Vista (RR): votação para presidente na Escola Estadual Jesus Nazareno de Souza Cruz, na 1ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-jesus-nazareno-de-souza-cruz-na-1a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Palhoça (SC): votação para presidente na Escola de Educação Básica Professora Maria Clementina de Souza Lopes, na 24ª zona eleitoral
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-palhoca-sc-votacao-para-presidente-na-escola-de-educacao-basica-professora-maria-clementina-de-souza-lopes-na-24a-zona-eleitoral.ghtml)_
+
