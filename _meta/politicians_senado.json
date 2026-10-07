@@ -22,6 +22,17 @@
     "senado_id": "5982"
   },
   {
+    "slug": "ana-paula-lobato",
+    "name": "Ana Paula Lobato",
+    "role": "Senador(a) (MA)",
+    "party": "PSB",
+    "aliases": [
+      "Ana Paula Lobato",
+      "Lobato"
+    ],
+    "senado_id": "6358"
+  },
+  {
     "slug": "angelo-coronel",
     "name": "Angelo Coronel",
     "role": "Senador(a) (BA)",
@@ -459,26 +470,15 @@
     "senado_id": "4811"
   },
   {
-    "slug": "leila-barros",
-    "name": "Leila Barros",
+    "slug": "leany-lemos",
+    "name": "Leany Lemos",
     "role": "Senador(a) (DF)",
-    "party": "PDT",
-    "aliases": [
-      "Leila Barros",
-      "Barros"
-    ],
-    "senado_id": "5979"
-  },
-  {
-    "slug": "lourdinha-pereira",
-    "name": "Lourdinha Pereira",
-    "role": "Senador(a) (MA)",
     "party": "PSB",
     "aliases": [
-      "Lourdinha Pereira",
-      "Pereira"
+      "Leany Lemos",
+      "Lemos"
     ],
-    "senado_id": "6359"
+    "senado_id": "5977"
   },
   {
     "slug": "lucas-barreto",
