@@ -4463,3 +4463,6 @@
 - **[2026-10-07 14:07 UTC]** Edinho Silva aposta em “confronto de projetos” de Lula contra Flávio neste segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-aposta-confronto-projetos-lula-contra-flavio-neste-segundo-turno/)_
 
+- **[2026-10-07 13:46 UTC]** Flávio Bolsonaro diz que maioria no Congresso pode alterar pontos da Constituição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-maioria-congresso-pode-alterar-pontos-constituicao/)_
+
