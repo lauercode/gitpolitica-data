@@ -161,3 +161,6 @@
 - **[2026-10-06 21:36 UTC]** Cleitinho aciona Tribunal de Contas para barrar aumento de pedágio em MG
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/cleitinho-aciona-tribunal-de-contas-para-barrar-aumento-de-pedgio-em-mg.ghtml)_
 
+- **[2026-10-07 21:02 UTC]** Vice de Cleitinho vai coordenar equipe de transição em Minas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/vice-de-cleitinho-vai-coordenar-equipe-de-transicao-em-minas.ghtml)_
+
