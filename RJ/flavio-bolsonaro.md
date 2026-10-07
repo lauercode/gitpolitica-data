@@ -4337,3 +4337,6 @@
 - **[2026-10-06 22:50 UTC]** Flávio Bolsonaro ignora aliança com Milei ao defender produtores de leite contra argentinos e uruguaios
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/flavio-bolsonaro-ignora-alianca-com-milei-ao-defender-produtores-de-leite-contra-argentinos-e-uruguaios.shtml)_
 
+- **[2026-10-06 22:00 UTC]** Pretensão de Kassio de soltar Bolsonaro é um acinte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/pretensao-de-kassio-de-soltar-bolsonaro-e-um-acinte.shtml)_
+
