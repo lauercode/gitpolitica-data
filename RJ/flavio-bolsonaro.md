@@ -4391,3 +4391,6 @@
 - **[2026-10-07 15:27 UTC]** Em novo vídeo, Lula cobra Flávio Bolsonaro sobre escala 6x1: 'Quero saber como vai votar'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/07/escala-6x1-em-novo-video-para-redes-sociais-lula-questiona-quero-saber-como-flavio-vai-votar.ghtml)_
 
+- **[2026-10-07 14:43 UTC]** Após anúncio de Zema, partido Novo também declara apoio a Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/apos-anuncio-de-zema-partido-novo-tambem-declara-apoio-a-flavio-bolsonaro.ghtml)_
+
