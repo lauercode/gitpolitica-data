@@ -4542,3 +4542,6 @@
 - **[2026-10-07 16:50 UTC]** Ao lado de Michelle, Flávio diz que Jair Bolsonaro passará a faixa presidencial a ele caso seja eleito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-lado-de-michelle-flavio-diz-que-jair-bolsonaro-subira-rampa-na-posse-e-passa-a-faixa-presidencial-a-ele.shtml)_
 
+- **[2026-10-07 16:40 UTC]** Flávio Bolsonaro propõe congelar dívidas das famílias, aos moldes de Desenrola de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-propoe-congelar-dividas-das-familias-aos-moldes-de-desenrola-de-lula.shtml)_
+
