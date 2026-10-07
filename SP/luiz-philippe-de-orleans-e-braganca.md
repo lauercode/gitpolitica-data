@@ -23,3 +23,6 @@
 - **[2026-10-07 02:08 UTC]** Resultado das eleições 2026 em Bragança (PA): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-braganca-pa-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Bragança (PA): como foi a votação nos locais de votação da 13ª Zona Eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-braganca-pa-como-foi-a-votacao-nos-locais-de-votacao-da-13a-zona-eleitoral.ghtml)_
+
