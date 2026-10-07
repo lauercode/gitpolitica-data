@@ -56,3 +56,6 @@
 - **[2026-10-06 22:28 UTC]** Resultado das eleições 2026 em Monte Negro (RO): votação para presidente no Francisco dos Santos - Escola Municipal, na 25ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-monte-negro-ro-votacao-para-presidente-no-francisco-dos-santos-escola-municipal-na-25a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:03 UTC]** Resultado das eleições 2026 em Paço do Lumiar (MA): votação para presidente no U.E.B. Francisco Oliveira Dias - Zona Rural, na 93ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paco-do-lumiar-ma-votacao-para-presidente-no-u-e-b-francisco-oliveira-dias-zona-rural-na-93a-zona-eleitoral.ghtml)_
+
