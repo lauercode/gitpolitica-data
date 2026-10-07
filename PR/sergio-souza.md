@@ -272,3 +272,6 @@
 - **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em São Gabriel da Cachoeira (AM): votação para presidente no E. M. Indígena Lilian Ambrósio de Souza, na 19ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-gabriel-da-cachoeira-am-votacao-para-presidente-no-e-m-indigena-lilian-ambrosio-de-souza-na-19a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Redenção (PA): votação para presidente no Emef Eva Tome de Souza (Rt 4), na 59ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-redencao-pa-votacao-para-presidente-no-emef-eva-tome-de-souza-rt-4-na-59a-zona-eleitoral.ghtml)_
+
