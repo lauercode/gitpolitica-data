@@ -4388,3 +4388,6 @@
 - **[2026-10-07 08:00 UTC]** Campanha de Flávio investe em redes sociais o triplo de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/campanha-de-flavio-investe-em-redes-sociais-o-triplo-de-lula.ghtml)_
 
+- **[2026-10-07 15:27 UTC]** Em novo vídeo, Lula cobra Flávio Bolsonaro sobre escala 6x1: 'Quero saber como vai votar'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/07/escala-6x1-em-novo-video-para-redes-sociais-lula-questiona-quero-saber-como-flavio-vai-votar.ghtml)_
+
