@@ -4548,3 +4548,6 @@
 - **[2026-10-07 16:30 UTC]** Maioria do MDB deve anunciar apoio a Flávio na semana que vem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/maioria-dos-diretorios-do-mdb-defende-apoiar-flavio-no-2o-turno-mas-baleia-resiste.shtml)_
 
+- **[2026-10-07 16:00 UTC]** Flávio Bolsonaro sugere que Brasil sob seu governo fará parte do Escudo das Américas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/flavio-bolsonaro-sugere-que-brasil-sob-seu-governo-fara-parte-do-escudo-das-americas.shtml)_
+
