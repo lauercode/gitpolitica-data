@@ -335,3 +335,6 @@
 - **[2026-10-07 17:30 UTC]** Oposição tenta evitar PEC 6x1 antes do 2º turno, mas Alcolumbre diz que votação está mantida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/oposicao-tenta-evitar-pec-6x1-antes-do-2o-turno-mas-alcolumbre-diz-que-votacao-esta-mantida.shtml)_
 
+- **[2026-10-07 20:07 UTC]** Alcolumbre indica que pode votar fim da 6x1 em dois turnos antes da eleição presidencial
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/alcolumbre-indica-que-pode-votar-fim-da-6x1-em-dois-turnos-antes-da-eleio-presidencial.ghtml)_
+
