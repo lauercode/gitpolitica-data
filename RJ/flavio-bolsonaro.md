@@ -4484,3 +4484,6 @@
 - **[2026-10-07 15:51 UTC]** Novo declara apoio a Flávio Bolsonaro no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/novo-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-07 15:45 UTC]** Influencer eleita pelo PT diz que ódio a lulismo não deixa sociedade 'ver quem é Flávio'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/influencer-eleita-pelo-pt-diz-que-odio-a-lulismo-nao-deixa-sociedade-ver-quem-e-flavio.ghtml)_
+
