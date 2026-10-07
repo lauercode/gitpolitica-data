@@ -26,3 +26,6 @@
 - **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Couto Magalhães (TO): como foi a votação nos locais de votação da 16ª Zona Eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-couto-magalhaes-to-como-foi-a-votacao-nos-locais-de-votacao-da-16a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:05 UTC]** Resultado das eleições 2026 em Couto Magalhães (TO): votação para presidente na Escola Estadual Último de Carvalho, na 16ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-couto-magalhaes-to-votacao-para-presidente-na-escola-estadual-ultimo-de-carvalho-na-16a-zona-eleitoral.ghtml)_
+
