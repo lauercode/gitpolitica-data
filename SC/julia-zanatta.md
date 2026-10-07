@@ -20,3 +20,6 @@
 - **[2026-10-05 01:38 UTC]** Eleições 2026: Julia Zanatta (PL) é eleita deputada federal por Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-julia-zanatta-pl-e-eleita-deputada-federal-por-santa-catarina.ghtml)_
 
+- **[2026-10-07 17:29 UTC]** Deputada mais votada da história de SC, Júlia Zanatta explica chicote em comemoração: 'Dar de relho'
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/07/deputada-mais-votada-de-sc-julia-zanatta-explica-chicote-em-comemoracao.ghtml)_
+
