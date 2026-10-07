@@ -4373,3 +4373,6 @@
 - **[2026-10-07 08:02 UTC]** 'Desafio de Flávio é ser presidente de direita normal', avalia economista Samuel Pessôa
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crn8w7jw76djo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-07 09:00 UTC]** O que Flávio Bolsonaro fez em 7 anos como senador? Saiba o que ele apresentou e aprovou
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/o-que-flavio-bolsonaro-fez-em-7-anos-como-senador-saiba-o-que-ele-apresentou-e-aprovou.ghtml)_
+
