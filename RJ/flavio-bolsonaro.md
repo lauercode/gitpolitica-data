@@ -4448,3 +4448,6 @@
 - **[2026-10-07 10:47 UTC]** Coordenador da campanha de Flávio Bolsonaro tem alta do hospital após quadro de gastroenterite
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/coordenador-da-campanha-de-flavio-bolsonaro-tem-alta-do-hospital-apos-quadro-de-gastroenterite.shtml)_
 
+- **[2026-10-07 10:00 UTC]** Como seria o tesouraço de Flávio Bolsonaro no INSS?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/romulo-saraiva/2026/10/como-seria-o-tesouraco-de-flavio-bolsonaro-no-inss.shtml)_
+
