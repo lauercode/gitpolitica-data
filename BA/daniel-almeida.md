@@ -83,3 +83,6 @@
 - **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Taguatinga (TO): votação para presidente no Colegio Estadual Justino de Almeida, na 17ª zona eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-taguatinga-to-votacao-para-presidente-no-colegio-estadual-justino-de-almeida-na-17a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em Itapiratins (TO): votação para presidente no Colegio Estadual Rezende de Almeida, na 33ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-itapiratins-to-votacao-para-presidente-no-colegio-estadual-rezende-de-almeida-na-33a-zona-eleitoral.ghtml)_
+
