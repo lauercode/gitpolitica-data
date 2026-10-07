@@ -131,3 +131,6 @@
 - **[2026-10-06 11:24 UTC]** Manhã no mercado: Forte alta dos ativos abre espaço para realização, mas otimismo eleitoral pode sustentar rali
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/06/manha-no-mercado-forte-alta-dos-ativos-abre-espaco-para-realizacao-mas-otimismo-eleitoral-pode-sustentar-rali.ghtml)_
 
+- **[2026-10-07 16:59 UTC]** Forte gasto com IA prepara investidores para nova temporada de lucros nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/forte-gasto-com-ia-prepara-investidores-para-nova-temporada-de-lucros-nos-eua.shtml)_
+
