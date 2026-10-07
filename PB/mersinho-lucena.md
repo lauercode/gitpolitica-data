@@ -20,3 +20,6 @@
 - **[2026-10-06 17:28 UTC]** Resultado das eleições 2026 em Severiano Melo (RN): votação para presidente na Escola Municipal Ricardo Sergio de Lucena Melo, na 45ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-severiano-melo-rn-votacao-para-presidente-na-escola-municipal-ricardo-sergio-de-lucena-melo-na-45a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em Barra do Corda (MA): votação para presidente no Centro de Ensino Arlindo Ferreira de Lucena, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-barra-do-corda-ma-votacao-para-presidente-no-centro-de-ensino-arlindo-ferreira-de-lucena-na-23a-zona-eleitoral.ghtml)_
+
