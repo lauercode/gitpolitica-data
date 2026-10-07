@@ -4451,3 +4451,6 @@
 - **[2026-10-07 10:00 UTC]** Como seria o tesouraço de Flávio Bolsonaro no INSS?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/romulo-saraiva/2026/10/como-seria-o-tesouraco-de-flavio-bolsonaro-no-inss.shtml)_
 
+- **[2026-10-07 17:00 UTC]** Nunes Marques não analisará revisão criminal de Bolsonaro antes do 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-nao-analisara-revisao-criminal-de-bolsonaro-antes-do-2o-turno/)_
+
