@@ -1364,3 +1364,6 @@ direitos
 - **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Puxinanã (PB): votação para presidente no Câmara Municipal de Puxinanã, na 50ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-puxinana-pb-votacao-para-presidente-no-camara-municipal-de-puxinana-na-50a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 03:00 UTC]** Veja a nova composição da Câmara dos Deputados em gráficos e compare com 2022
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/composicao-camara-dos-deputados-graficos-2026.ghtml)_
+
