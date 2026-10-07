@@ -266,3 +266,6 @@
 - **[2026-10-06 21:37 UTC]** Corintiano é condenado a 16 anos pela morte de palmeirense na Batalha da Inajar de Souza, em 2012
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/corintiano-e-condenado-a-16-anos-pela-morte-de-palmeirense-na-batalha-da-inajar-de-souza-em-2012.shtml)_
 
+- **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Laranjal do Jari (AP): votação para presidente na Escola Estadual Prof. Vanda Maria de Souza Cabete, na 7ª zona eleitoral
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-laranjal-do-jari-ap-votacao-para-presidente-na-escola-estadual-prof-vanda-maria-de-souza-cabete-na-7a-zona-eleitoral.ghtml)_
+
