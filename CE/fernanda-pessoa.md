@@ -514,3 +514,6 @@ direcionado às necessidades de cada pessoa
 - **[2026-10-01 06:58 UTC]** Viva Maria: Conheça direitos garantidos pelo Estatuto da Pessoa Idosa
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/viva-maria-estatuto-da-pessoa-idosa)_
 
+- **[2026-10-07 13:30 UTC]** Unimed João Pessoa está entre os 50 maiores do Brasil
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/10/07/unimed-joao-pessoa-esta-entre-os-50-maiores-do-brasil-1.ghtml)_
+
