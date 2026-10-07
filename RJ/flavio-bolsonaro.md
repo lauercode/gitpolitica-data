@@ -4581,3 +4581,6 @@
 - **[2026-10-07 16:13 UTC]** O que Flávio Bolsonaro quer mudar na Constituição, caso seja eleito com Congresso mais conservador?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvglw4627kdlo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-07 15:22 UTC]** Quais são as propostas de Flávio Bolsonaro e de Lula sobre a escala 6x1
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss)_
+
