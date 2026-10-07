@@ -4539,3 +4539,6 @@
 - **[2026-10-07 17:10 UTC]** Exército vê civil bolsonarista como ministro da Defesa se Flávio vencer
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/exercito-ve-bolsonarista-como-ministro-da-defesa-se-flavio-vencer.shtml)_
 
+- **[2026-10-07 16:50 UTC]** Ao lado de Michelle, Flávio diz que Jair Bolsonaro passará a faixa presidencial a ele caso seja eleito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-lado-de-michelle-flavio-diz-que-jair-bolsonaro-subira-rampa-na-posse-e-passa-a-faixa-presidencial-a-ele.shtml)_
+
