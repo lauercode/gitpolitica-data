@@ -4605,3 +4605,6 @@
 - **[2026-10-07 18:57 UTC]** Plano de Flávio de cortes de R$ 200 bi em PEC da Transição ‘às avessas’ volta a circular na Faria Lima
   _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/10/plano-de-flavio-de-cortes-de-r-200-bi-em-pec-da-transicao-as-avessas-volta-a-circular-na-faria-lima.ghtml)_
 
+- **[2026-10-07 18:02 UTC]** Nunes Marques diz que deve enviar caso de Bolsonaro ao plenário após eleição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/nunes-marques-diz-que-deve-enviar-caso-de-bolsonaro-ao-plenario-apos-eleicao.ghtml)_
+
