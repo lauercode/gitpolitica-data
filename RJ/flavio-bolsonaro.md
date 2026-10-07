@@ -4412,3 +4412,6 @@
 - **[2026-10-07 10:12 UTC]** ANÁLISE: Escala 6x1 vira tema estratégico para Lula e Flávio Bolsonaro no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/07/analise-escala-6x1-vira-tema-estrategico-para-lula-e-flavio-bolsonaro-no-2o-turno.ghtml)_
 
+- **[2026-10-07 14:00 UTC]** Campanha de Flávio paga R$ 271 mil a nove pessoas físicas, incluindo garçom e zelador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-paga-r-271-mil-a-nove-pessoas-fisicas-incluindo-garcom-e-zelador.shtml)_
+
