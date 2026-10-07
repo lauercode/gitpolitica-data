@@ -4505,3 +4505,6 @@
 - **[2026-10-07 14:24 UTC]** Flávio Bolsonaro reforça proposta de usar Caixa para aliviar endividamento de empresas e famílias
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/simples-fato-de-eu-ter-passado-na-frente-do-1o-turno-ja-reduziu-o-juro-futuro-diz-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-07 15:52 UTC]** Lula cobra Flávio Bolsonaro sobre apoio ao fim da escala 6x1
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-cobra-flavio-bolsonaro-sobre-apoio-ao-fim-da-escala-6x1)_
+
