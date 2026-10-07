@@ -59,3 +59,6 @@
 - **[2026-10-07 02:03 UTC]** Resultado das eleições 2026 em Timbaúba dos Batistas (RN): votação para presidente no Grupo Escolar Basilio Batista de Araujo, na 23ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-timbauba-dos-batistas-rn-votacao-para-presidente-no-grupo-escolar-basilio-batista-de-araujo-na-23a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:02 UTC]** Resultado das eleições 2026 em Timbaúba dos Batistas (RN): votação para presidente na Escola Municipal Paulino Batista de Araujo, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-timbauba-dos-batistas-rn-votacao-para-presidente-na-escola-municipal-paulino-batista-de-araujo-na-23a-zona-eleitoral.ghtml)_
+
