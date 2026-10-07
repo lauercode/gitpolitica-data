@@ -4409,3 +4409,6 @@
 - **[2026-10-07 12:27 UTC]** Ministros do STF indicam a Nunes Marques que revisão criminal de Bolsonaro deve ir a plenário
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/fachin-indica-a-nunes-marques-que-revisao-criminal-de-bolsonaro-deve-ir-a-plenario.ghtml)_
 
+- **[2026-10-07 10:12 UTC]** ANÁLISE: Escala 6x1 vira tema estratégico para Lula e Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/07/analise-escala-6x1-vira-tema-estrategico-para-lula-e-flavio-bolsonaro-no-2o-turno.ghtml)_
+
