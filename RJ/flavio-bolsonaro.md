@@ -4514,3 +4514,6 @@
 - **[2026-10-07 16:55 UTC]** Flávio explica mudança na Constituição e Lula cobra fim da escala 6x1
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-explica-mudanca-na-constituicao-e-lula-cobra-fim-da-escala-6x1)_
 
+- **[2026-10-07 18:49 UTC]** Derrotada na disputa à Presidência, candidata do DC, Clariana Barão, declara apoio a Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/07/ex-candidata-a-presidencia-clariana-barao-declara-apoio-a-flavio-bolsonaro-no-2o-turno.ghtml)_
+
