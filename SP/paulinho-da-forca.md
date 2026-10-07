@@ -161,3 +161,6 @@
 - **[2026-10-04 11:44 UTC]** Força de Lula trava renovação da esquerda, diz WSJ
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/fora-de-lula-trava-renovao-da-esquerda-diz-wsj.ghtml)_
 
+- **[2026-10-07 11:46 UTC]** Força-tarefa faz buscas por trabalhador desaparecido há cinco dias em Paragominas, PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/07/forca-tarefa-faz-buscas-por-trabalhador-desaparecido-ha-cinco-dias-em-paragominas-pa.ghtml)_
+
