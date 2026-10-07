@@ -4445,3 +4445,6 @@
 - **[2026-10-07 10:57 UTC]** Flávio diz querer mudar Constituição para reformar lei penal e Judiciário e deixa em aberto ampliar mandato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-diz-que-brasil-nao-vive-democracia-plena-e-que-lula-e-incompativel-com-congresso-eleito.shtml)_
 
+- **[2026-10-07 10:47 UTC]** Coordenador da campanha de Flávio Bolsonaro tem alta do hospital após quadro de gastroenterite
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/coordenador-da-campanha-de-flavio-bolsonaro-tem-alta-do-hospital-apos-quadro-de-gastroenterite.shtml)_
+
