@@ -47,3 +47,6 @@
 - **[2026-10-06 19:02 UTC]** Resultado das eleições 2026 em Cotiporã (RS): votação para presidente no Salão Comunitário N. S. do Rosário, na 88ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-cotipora-rs-votacao-para-presidente-no-salao-comunitario-n-s-do-rosario-na-88a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:04 UTC]** Resultado das eleições 2026 em Bragança (PA): votação para presidente no Eeefm Mário Queiroz do Rosário, na 13ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-braganca-pa-votacao-para-presidente-no-eeefm-mario-queiroz-do-rosario-na-13a-zona-eleitoral.ghtml)_
+
