@@ -4403,3 +4403,6 @@
 - **[2026-10-07 13:15 UTC]** Flávio diz que fala sobre mudar a Constituição 'para redemocratizar o país' se referia à reforma do STF e fim da reeleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-diz-que-proposta-de-mudanca-na-constituicao-inclui-reducao-da-maioridade-penal-e-medidas-contra-o-stf.ghtml)_
 
+- **[2026-10-07 13:07 UTC]** Aliados de Flávio Bolsonaro alertam para risco de discurso sobre mudança na Constituição e clima de 'já ganhou'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/07/aliados-de-flavio-bolsonaro-alertam-para-risco-de-discurso-sobre-mudanca-na-constituicao-e-clima-de-ja-ganhou.ghtml)_
+
