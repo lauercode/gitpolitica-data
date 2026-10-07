@@ -1367,3 +1367,6 @@ direitos
 - **[2026-10-07 03:00 UTC]** Veja a nova composição da Câmara dos Deputados em gráficos e compare com 2022
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/composicao-camara-dos-deputados-graficos-2026.ghtml)_
 
+- **[2026-10-07 03:00 UTC]** Na eleição para a Câmara, famosos dão lugar a 'políticos influencers'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/politicos-influencers-famosos-redes-sociais.ghtml)_
+
