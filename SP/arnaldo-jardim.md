@@ -68,3 +68,6 @@
 - **[2026-10-06 17:26 UTC]** Resultado das eleições 2026 em Nossa Senhora da Glória (SE): votação para presidente no Jardim de Infância Pequeno Príncipe, na 17ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nossa-senhora-da-gloria-se-votacao-para-presidente-no-jardim-de-infancia-pequeno-principe-na-17a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:02 UTC]** Resultado das eleições 2026 em Presidente Juscelino (MA): votação para presidente no Jardim de Infância Pato Donald, na 110ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-presidente-juscelino-ma-votacao-para-presidente-no-jardim-de-infancia-pato-donald-na-110a-zona-eleitoral.ghtml)_
+
