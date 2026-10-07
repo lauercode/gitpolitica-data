@@ -4511,3 +4511,6 @@
 - **[2026-10-07 16:31 UTC]** STF deve julgar revisão da condenação de Bolsonaro após eleições
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-deve-julgar-revisao-da-condenacao-de-bolsonaro-apos-eleicoes)_
 
+- **[2026-10-07 16:55 UTC]** Flávio explica mudança na Constituição e Lula cobra fim da escala 6x1
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-explica-mudanca-na-constituicao-e-lula-cobra-fim-da-escala-6x1)_
+
