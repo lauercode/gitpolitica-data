@@ -4397,3 +4397,6 @@
 - **[2026-10-07 14:25 UTC]** 'Split payment': campanha de Flávio diz que acabará com mecanismo da reforma tributária que busca reduzir sonegação
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/07/reforma-tributaria-flavio-defende-mudancas-e-porta-voz-diz-que-vai-acabar-com-split-payment.ghtml)_
 
+- **[2026-10-07 14:15 UTC]** Flávio diz que, se eleito, usará ‘capital político’ do início do governo para tentar acabar com reeleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/07/flavio-diz-que-se-eleito-usara-capital-politico-do-inicio-do-governo-para-tentar-acabar-com-reeleicao.ghtml)_
+
