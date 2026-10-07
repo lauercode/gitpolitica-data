@@ -23,3 +23,6 @@
 - **[2026-10-05 01:35 UTC]** Renan Calheiros, Ciro Nogueira e Randolfe são derrotados e deixam Senado após longa trajetória
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-calheiros-ciro-nogueira-e-randolfe-sao-derrotados-e-deixam-senado-apos-longa-trajetoria.shtml)_
 
+- **[2026-10-07 18:32 UTC]** Renan Calheiros e mais: veja outros políticos tradicionais de AL que ficam sem mandato após 2026
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/07/renan-calheiros-e-mais-veja-outros-politicos-tradicionais-de-al-que-ficam-sem-mandato-apos-2026.ghtml)_
+
