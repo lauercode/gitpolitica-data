@@ -4436,3 +4436,6 @@
 - **[2026-10-07 11:53 UTC]** Flávio diz que pretende reduzir imposto sobre folha e carga tributária
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-diz-que-pretende-reduzir-imposto-sobre-folha-e-carga-tributaria.shtml)_
 
+- **[2026-10-07 11:27 UTC]** Como mídia chinesa viu vantagem de Flávio sobre Lula no 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/como-midia-chinesa-viu-vantagem-de-flavio-sobre-lula-no-1o-turno.shtml)_
+
