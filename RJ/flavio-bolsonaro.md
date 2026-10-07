@@ -4406,3 +4406,6 @@
 - **[2026-10-07 13:07 UTC]** Aliados de Flávio Bolsonaro alertam para risco de discurso sobre mudança na Constituição e clima de 'já ganhou'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/07/aliados-de-flavio-bolsonaro-alertam-para-risco-de-discurso-sobre-mudanca-na-constituicao-e-clima-de-ja-ganhou.ghtml)_
 
+- **[2026-10-07 12:27 UTC]** Ministros do STF indicam a Nunes Marques que revisão criminal de Bolsonaro deve ir a plenário
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/fachin-indica-a-nunes-marques-que-revisao-criminal-de-bolsonaro-deve-ir-a-plenario.ghtml)_
+
