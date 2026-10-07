@@ -20,3 +20,6 @@
 - **[2026-10-07 02:02 UTC]** Resultado das eleições 2026 em Fagundes (PB): como foi a votação nos locais de votação da 59ª Zona Eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fagundes-pb-como-foi-a-votacao-nos-locais-de-votacao-da-59a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Fagundes (PB): votação para presidente no E.E.E.F. Frei Alberto, na 59ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fagundes-pb-votacao-para-presidente-no-e-e-e-f-frei-alberto-na-59a-zona-eleitoral.ghtml)_
+
