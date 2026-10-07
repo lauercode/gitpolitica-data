@@ -4322,3 +4322,6 @@
 - **[2026-10-06 20:34 UTC]** Flávio busca apoio de Caiado e Lula defende fim da 6x1
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-busca-apoio-de-caiado-e-lula-defende-fim-da-6x1)_
 
+- **[2026-10-06 20:51 UTC]** Flávio Bolsonaro recebe apoio; Lula faz reuniões internas
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-bolsonaro-recebe-apoio-lula-faz-reunioes-internas)_
+
