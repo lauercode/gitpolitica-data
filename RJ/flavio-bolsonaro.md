@@ -4499,3 +4499,6 @@
 - **[2026-10-07 15:25 UTC]** Para ministros do STF, revisão criminal de Bolsonaro deve ir direto ao plenário
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/para-ministros-do-stf-revisao-criminal-de-bolsonaro-deve-ir-direto-ao-plenario.ghtml)_
 
+- **[2026-10-07 14:44 UTC]** Flávio afirma ter 'total respeito à Constituição' após fala sobre mudança repercutir nas redes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/flavio-bolsonato-diz-que-usara-capital-politico-de-presidente-recem-eleito-para-aprovar-pec-do-fim-da-reeleicao.ghtml)_
+
