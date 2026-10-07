@@ -29,3 +29,6 @@
 - **[2026-10-01 12:37 UTC]** Nunes Marques manda à PGR ação de Michelle contra Janones por acusações
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-manda-pgr-acao-michelle-contra-janones-por-acusacoes/)_
 
+- **[2026-10-07 00:01 UTC]** Janones reúne 1 milhão em tropa digital e quer mostrar Lula com mais calçada e menos helicóptero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-reune-1-milhao-em-tropa-digital-e-quer-mostrar-lula-com-mais-calcada-e-menos-helicoptero.shtml)_
+
