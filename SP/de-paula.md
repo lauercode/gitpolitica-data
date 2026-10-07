@@ -20,3 +20,6 @@
 - **[2026-10-06 22:12 UTC]** Resultado das eleições 2026 em Paraíso do Tocantins (TO): votação para presidente no Colégio Estadual Idalina de Paula, na 7ª zona eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paraiso-do-tocantins-to-votacao-para-presidente-no-colegio-estadual-idalina-de-paula-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:16 UTC]** Resultado das eleições 2026 em São Francisco de Paula (RS): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-francisco-de-paula-rs-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
