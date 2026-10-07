@@ -4334,3 +4334,6 @@
 - **[2026-10-06 23:00 UTC]** PSDB tem maioria de diretórios estaduais com posição pró-Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/psdb-tem-maioria-de-diretorios-estaduais-com-posicao-pro-flavio-bolsonaro.shtml)_
 
+- **[2026-10-06 22:50 UTC]** Flávio Bolsonaro ignora aliança com Milei ao defender produtores de leite contra argentinos e uruguaios
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/flavio-bolsonaro-ignora-alianca-com-milei-ao-defender-produtores-de-leite-contra-argentinos-e-uruguaios.shtml)_
+
