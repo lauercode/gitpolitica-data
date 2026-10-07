@@ -44,3 +44,6 @@
 - **[2026-10-07 02:03 UTC]** Resultado das eleições 2026 em Montadas (PB): votação para presidente na Escola Municipal de Ensino Fundamental Erasmo de Araújo Souza, na 50ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-montadas-pb-votacao-para-presidente-na-escola-municipal-de-ensino-fundamental-erasmo-de-araujo-souza-na-50a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:59 UTC]** Resultado das eleições 2026 em Salgado (SE): votação para presidente no Durval Militao de Araújo, E.M., na 31ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-salgado-se-votacao-para-presidente-no-durval-militao-de-araujo-e-m-na-31a-zona-eleitoral.ghtml)_
+
