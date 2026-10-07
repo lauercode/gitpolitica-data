@@ -4400,3 +4400,6 @@
 - **[2026-10-07 14:15 UTC]** Flávio diz que, se eleito, usará ‘capital político’ do início do governo para tentar acabar com reeleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/07/flavio-diz-que-se-eleito-usara-capital-politico-do-inicio-do-governo-para-tentar-acabar-com-reeleicao.ghtml)_
 
+- **[2026-10-07 13:15 UTC]** Flávio diz que fala sobre mudar a Constituição 'para redemocratizar o país' se referia à reforma do STF e fim da reeleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-diz-que-proposta-de-mudanca-na-constituicao-inclui-reducao-da-maioridade-penal-e-medidas-contra-o-stf.ghtml)_
+
