@@ -4433,3 +4433,6 @@
 - **[2026-10-07 12:00 UTC]** Flávio indica retomar agenda armamentista do pai e promete acesso a armas para legítima defesa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/flavio-indica-retomar-agenda-armamentista-do-pai-e-promete-acesso-a-armas-para-legitima-defesa.shtml)_
 
+- **[2026-10-07 11:53 UTC]** Flávio diz que pretende reduzir imposto sobre folha e carga tributária
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-diz-que-pretende-reduzir-imposto-sobre-folha-e-carga-tributaria.shtml)_
+
