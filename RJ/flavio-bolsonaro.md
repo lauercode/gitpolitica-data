@@ -4575,3 +4575,6 @@
 - **[2026-10-07 13:46 UTC]** Flávio diz que maioria no Congresso pode alterar Constituição e cita reforma no Judiciário
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-maioria-congresso-pode-alterar-pontos-constituicao/)_
 
+- **[2026-10-07 21:44 UTC]** Liberdade para Bolsonaro? Cresce pressão por revisão criminal de ex-presidente
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/liberdade-para-bolsonaro-cresce-pressao-por-revisao-criminal/)_
+
