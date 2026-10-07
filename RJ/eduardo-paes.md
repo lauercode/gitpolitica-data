@@ -50,3 +50,6 @@
 - **[2026-10-04 21:42 UTC]** Douglas Ruas e Eduardo Paes disputam o 2º turno para o governo do Rio
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/douglas-ruas-e-eduardo-paes-disputam-o-2o-turno-para-o-governo-do-rio)_
 
+- **[2026-10-07 11:09 UTC]** 'Faço campanha, mas não sou vassalo do Lula', diz Eduardo Paes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/faco-campanha-mas-nao-sou-vassalo-do-lula-diz-eduardo-paes.shtml)_
+
