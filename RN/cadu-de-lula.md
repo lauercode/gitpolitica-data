@@ -131,3 +131,6 @@
 - **[2026-10-06 12:24 UTC]** Flávio avança para 2º turno com apoio de 10 governadores; Lula tem cinco
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-avanca-segundo-turno-apoio-governadores/)_
 
+- **[2026-10-07 21:51 UTC]** Cadu de Lula grava programas para o segundo turno e promete ampliar diálogo com eleitor
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/07/cadu-de-lula-grava-programas-para-o-segundo-turno-e-promete-ampliar-dialogo-com-eleitor.ghtml)_
+
