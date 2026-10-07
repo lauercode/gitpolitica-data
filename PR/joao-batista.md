@@ -32,3 +32,6 @@
 - **[2026-10-06 15:23 UTC]** Resultado das eleições 2026 em Rolim de Moura (RO): votação para presidente no João Batista Dias - Escola Municipal, na 29ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rolim-de-moura-ro-votacao-para-presidente-no-joao-batista-dias-escola-municipal-na-29a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:04 UTC]** Resultado das eleições 2026 em Cametá (PA): votação para presidente no Emeif São João Batista, na 12ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-cameta-pa-votacao-para-presidente-no-emeif-sao-joao-batista-na-12a-zona-eleitoral.ghtml)_
+
