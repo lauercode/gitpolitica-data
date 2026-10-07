@@ -26,3 +26,6 @@
 - **[2026-10-07 02:13 UTC]** Resultado das eleições 2026 em São Francisco de Paula (RS): como foi a votação nos locais de votação da 48ª Zona Eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-francisco-de-paula-rs-como-foi-a-votacao-nos-locais-de-votacao-da-48a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:12 UTC]** Resultado das eleições 2026 em São Francisco de Paula (RS): votação para presidente no Colégio Expressão - Coopeserra, na 48ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-francisco-de-paula-rs-votacao-para-presidente-no-colegio-expressao-coopeserra-na-48a-zona-eleitoral.ghtml)_
+
