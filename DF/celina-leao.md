@@ -113,3 +113,6 @@
 - **[2026-10-07 15:28 UTC]** Celina Leão diz que eleição de Flávio Bolsonaro pode dar 'mais fôlego' à recuperação do BRB
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/celina-leao-diz-que-eleicao-de-flavio-bolsonaro-pode-dar-mais-folego-a-recuperacao-do-brb.ghtml)_
 
+- **[2026-10-07 18:40 UTC]** Nova pesquisa Quaest para segundo turno no DF testa chance de Leandro Grass contra Celina Leão
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/nova-pesquisa-quaest-para-segundo-turno-no-df-testa-chance-de-leandro-grass-contra-celina-leao.ghtml)_
+
