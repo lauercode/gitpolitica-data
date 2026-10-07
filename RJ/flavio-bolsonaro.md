@@ -4418,3 +4418,6 @@
 - **[2026-10-07 13:22 UTC]** Flávio assume o sobrenome ao revelar seu programa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-assume-o-sobrenome-ao-revelar-seu-programa.shtml)_
 
+- **[2026-10-07 13:21 UTC]** PL anabolizado e STF enfraquecido em eventual governo Flávio eliminariam freios impostos a Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-anabolizado-e-stf-enfraquecido-em-eventual-governo-flavio-eliminariam-freios-impostos-a-bolsonaro.shtml)_
+
