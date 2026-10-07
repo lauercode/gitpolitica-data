@@ -4508,3 +4508,6 @@
 - **[2026-10-07 15:52 UTC]** Lula cobra Flávio Bolsonaro sobre apoio ao fim da escala 6x1
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-cobra-flavio-bolsonaro-sobre-apoio-ao-fim-da-escala-6x1)_
 
+- **[2026-10-07 16:31 UTC]** STF deve julgar revisão da condenação de Bolsonaro após eleições
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-deve-julgar-revisao-da-condenacao-de-bolsonaro-apos-eleicoes)_
+
