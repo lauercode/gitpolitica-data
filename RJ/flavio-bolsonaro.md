@@ -4475,3 +4475,6 @@
 - **[2026-10-07 15:22 UTC]** O que Flávio e Lula propõem sobre a  escala 6x1
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-06 21:25 UTC]** Debates no segundo turno: datas, o que se sabe e o que falta definir sobre a participação de Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd93nkj51pgo?at_medium=RSS&at_campaign=rss)_
+
