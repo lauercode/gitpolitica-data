@@ -515,3 +515,6 @@
 - **[2026-10-06 19:01 UTC]** Resultado das eleições 2026 em Paulo Bento (RS): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paulo-bento-rs-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Ponta Grossa (PR): votação para presidente no Asilo São Vicente de Paulo, na 14ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ponta-grossa-pr-votacao-para-presidente-no-asilo-sao-vicente-de-paulo-na-14a-zona-eleitoral.ghtml)_
+
