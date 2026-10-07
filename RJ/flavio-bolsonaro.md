@@ -4569,3 +4569,6 @@
 - **[2026-10-07 19:37 UTC]** Nunes Marques libera vídeos de Flávio sobre envolvimento de Lula e Lulinha com Moraes e INSS
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-libera-videos-flavio-lula-lulinha-moraes-inss/)_
 
+- **[2026-10-07 18:23 UTC]** Fachin consulta PGR e pode arquivar inquérito contra Bolsonaro por falas na pandemia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-consulta-pgr-e-pode-arquivar-inquerito-contra-bolsonaro-por-falar-na-pandemia/)_
+
