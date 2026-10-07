@@ -41,3 +41,6 @@
 - **[2026-10-07 02:04 UTC]** Resultado das eleições 2026 em Pedras de Fogo (PB): votação para presidente na Escola Municipal Severino da Silva Madruga (Corvoada), na 44ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pedras-de-fogo-pb-votacao-para-presidente-na-escola-municipal-severino-da-silva-madruga-corvoada-na-44a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:59 UTC]** Resultado das eleições 2026 em Fagundes (PB): votação para presidente no E.C.I.E.E.F.M. Joana Emilia da Silva, na 59ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fagundes-pb-votacao-para-presidente-no-e-c-i-e-e-f-m-joana-emilia-da-silva-na-59a-zona-eleitoral.ghtml)_
+
