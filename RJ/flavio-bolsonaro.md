@@ -4563,3 +4563,6 @@
 - **[2026-10-07 20:57 UTC]** Moraes manda intimar Bolsonaro sobre multa da Receita Federal no caso das joias
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-manda-intimar-bolsonaro-sobre-multa-da-receita-federal-no-caso-das-joias/)_
 
+- **[2026-10-07 20:55 UTC]** Como Flávio Bolsonaro lidará com o STF e as condenações de Jair, Eduardo e do 8/1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-flavio-bolsonaro-lidara-com-o-stf-e-as-condenacoes-de-jair-eduardo-e-do-8-1/)_
+
