@@ -47,3 +47,6 @@
 - **[2026-10-05 13:12 UTC]** Resultado das eleições 2026 em Itacoatiara (AM): votação para presidente no E. M. Paula Francineth, na 3ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-itacoatiara-am-votacao-para-presidente-no-e-m-paula-francineth-na-3a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. E. Paula Angela Frassinetti, na 31ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-e-paula-angela-frassinetti-na-31a-zona-eleitoral.ghtml)_
+
