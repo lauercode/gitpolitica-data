@@ -4427,3 +4427,6 @@
 - **[2026-10-07 13:05 UTC]** Assessor de Flávio propõe mudanças na Constituição para cortes de até R$ 200 bi e causa ruído na campanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/assessor-de-flavio-propoe-mudancas-na-constituicao-para-cortes-de-ate-r-200-bi-e-causa-ruido-na-campanha.shtml)_
 
+- **[2026-10-07 12:48 UTC]** Flávio Bolsonaro diz que proibição às bets é agressão à segurança jurídica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/flavio-bolsonaro-diz-que-proibicao-as-bets-e-agressao-a-seguranca-juridica.shtml)_
+
