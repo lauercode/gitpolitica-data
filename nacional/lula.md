@@ -1067,3 +1067,6 @@
 - **[2026-10-06 22:49 UTC]** Presidente do PT diz que campanha de Lula procura outros partidos e terá apoio de lideranças regionais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/presidente-do-pt-diz-que-campanha-de-lula-procura-outros-partidos-e-tera-apoio-de-liderancas-regionais.ghtml)_
 
+- **[2026-10-07 16:55 UTC]** Os debates para presidente no 2º turno na TV — se Flávio e Lula aparecerem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/debates-presidente-segundo-turno/)_
+
