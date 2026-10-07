@@ -41,3 +41,6 @@
 - **[2026-10-07 02:05 UTC]** Resultado das eleições 2026 em Pedras de Fogo (PB): votação para presidente no Colegio Municipal Waldecyr Cavalcante de Araújo Pereira, na 44ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pedras-de-fogo-pb-votacao-para-presidente-no-colegio-municipal-waldecyr-cavalcante-de-araujo-pereira-na-44a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:03 UTC]** Resultado das eleições 2026 em Montadas (PB): votação para presidente na Escola Municipal de Ensino Fundamental Erasmo de Araújo Souza, na 50ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-montadas-pb-votacao-para-presidente-na-escola-municipal-de-ensino-fundamental-erasmo-de-araujo-souza-na-50a-zona-eleitoral.ghtml)_
+
