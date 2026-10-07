@@ -68,3 +68,6 @@
 - **[2026-10-07 01:59 UTC]** Resultado das eleições 2026 em Maceió (AL): votação para presidente na Escola Estadual Aurelina Palmeira de Melo, na 3ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-maceio-al-votacao-para-presidente-na-escola-estadual-aurelina-palmeira-de-melo-na-3a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:05 UTC]** Resultado das eleições 2026 em Pilõezinhos (PB): votação para presidente na Escola Municipal de Ensino Fundamental José Alves de Melo, na 47ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-piloezinhos-pb-votacao-para-presidente-na-escola-municipal-de-ensino-fundamental-jose-alves-de-melo-na-47a-zona-eleitoral.ghtml)_
+
