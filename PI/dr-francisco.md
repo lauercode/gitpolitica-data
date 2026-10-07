@@ -59,3 +59,6 @@
 - **[2026-10-07 02:03 UTC]** Resultado das eleições 2026 em Paço do Lumiar (MA): votação para presidente no U.E.B. Francisco Oliveira Dias - Zona Rural, na 93ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paco-do-lumiar-ma-votacao-para-presidente-no-u-e-b-francisco-oliveira-dias-zona-rural-na-93a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Queimadas (PB): votação para presidente no E.C.I.T. Francisco Ernesto do Rêgo (Ernestão), na 59ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-queimadas-pb-votacao-para-presidente-no-e-c-i-t-francisco-ernesto-do-rego-ernestao-na-59a-zona-eleitoral.ghtml)_
+
