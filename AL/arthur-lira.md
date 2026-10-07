@@ -44,3 +44,6 @@
 - **[2026-10-05 19:11 UTC]** Filho de Arthur Lira se torna o mais jovem deputado federal já eleito
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/filho-de-arthur-lira-se-torna-o-mais-jovem-deputado-federal-ja-eleito)_
 
+- **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em Feira Grande (AL): votação para presidente no Grupo Escolar Manoel Leandro de Lira, na 49ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-feira-grande-al-votacao-para-presidente-no-grupo-escolar-manoel-leandro-de-lira-na-49a-zona-eleitoral.ghtml)_
+
