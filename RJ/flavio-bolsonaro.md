@@ -4502,3 +4502,6 @@
 - **[2026-10-07 14:44 UTC]** Flávio afirma ter 'total respeito à Constituição' após fala sobre mudança repercutir nas redes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/flavio-bolsonato-diz-que-usara-capital-politico-de-presidente-recem-eleito-para-aprovar-pec-do-fim-da-reeleicao.ghtml)_
 
+- **[2026-10-07 14:24 UTC]** Flávio Bolsonaro reforça proposta de usar Caixa para aliviar endividamento de empresas e famílias
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/simples-fato-de-eu-ter-passado-na-frente-do-1o-turno-ja-reduziu-o-juro-futuro-diz-flavio-bolsonaro.ghtml)_
+
