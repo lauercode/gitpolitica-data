@@ -4457,3 +4457,6 @@
 - **[2026-10-07 16:55 UTC]** Os debates para presidente no 2º turno na TV — se Flávio e Lula aparecerem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/debates-presidente-segundo-turno/)_
 
+- **[2026-10-07 16:02 UTC]** Novo confirma apoio a Flávio Bolsonaro no segundo turno da eleição presidencial
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/novo-confirma-apoio-flavio-bolsonaro-segundo-turno-eleicao-presidencial/)_
+
