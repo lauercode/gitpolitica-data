@@ -20,3 +20,6 @@
 - **[2026-10-01 17:23 UTC]** Datafolha: Benedita da Silva (PT), com 19%, lidera disputa no Rio pelo Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-benedita-da-silva-pt-lidera-com-19-disputa-ao-senado-no-rio.shtml)_
 
+- **[2026-10-07 17:00 UTC]** Aos 84, Benedita da Silva segue como referência na luta das mulheres negras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/10/aos-84-benedita-da-silva-segue-como-referencia-na-luta-das-mulheres-negras.shtml)_
+
