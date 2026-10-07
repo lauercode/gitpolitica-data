@@ -4560,3 +4560,6 @@
 - **[2026-10-07 14:15 UTC]** Flávio Bolsonaro vai acabar com split payment da reforma tributária, diz Daniella Marques
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-vai-acabar-com-split-payment-da-reforma-tributaria-diz-daniella-marques.shtml)_
 
+- **[2026-10-07 20:57 UTC]** Moraes manda intimar Bolsonaro sobre multa da Receita Federal no caso das joias
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-manda-intimar-bolsonaro-sobre-multa-da-receita-federal-no-caso-das-joias/)_
+
