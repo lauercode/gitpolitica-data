@@ -4572,3 +4572,6 @@
 - **[2026-10-07 18:23 UTC]** Fachin consulta PGR e pode arquivar inquérito contra Bolsonaro por falas na pandemia
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-consulta-pgr-e-pode-arquivar-inquerito-contra-bolsonaro-por-falar-na-pandemia/)_
 
+- **[2026-10-07 13:46 UTC]** Flávio diz que maioria no Congresso pode alterar Constituição e cita reforma no Judiciário
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-maioria-congresso-pode-alterar-pontos-constituicao/)_
+
