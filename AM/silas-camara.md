@@ -1358,3 +1358,6 @@ direitos
 - **[2026-10-07 00:18 UTC]** Petistas envolvidos no Mensalão e Lava Jato: um retorna à Câmara, outros três ficam de fora
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/petistas-envolvidos-no-mensalao-e-lava-jato-um-retorna-a-camara-outros-tres-ficam-de-fora/)_
 
+- **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Magalhães Barata (PA): votação para presidente no Câmara Municipal de Magalhães Barata, na 5ª zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-magalhaes-barata-pa-votacao-para-presidente-no-camara-municipal-de-magalhaes-barata-na-5a-zona-eleitoral.ghtml)_
+
