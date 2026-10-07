@@ -35,3 +35,6 @@
 - **[2026-10-06 15:06 UTC]** Resultado das eleições 2026 em Iracema (RR): votação para presidente na Escola Estadual José Pereira de Araújo, na 6ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-iracema-rr-votacao-para-presidente-na-escola-estadual-jose-pereira-de-araujo-na-6a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Barra de São Miguel (AL): votação para presidente no E.M.E.B. Profª Flora Soares de Araújo, na 26ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-barra-de-sao-miguel-al-votacao-para-presidente-no-e-m-e-b-profa-flora-soares-de-araujo-na-26a-zona-eleitoral.ghtml)_
+
