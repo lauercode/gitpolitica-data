@@ -20,3 +20,6 @@
 - **[2026-10-07 02:12 UTC]** Resultado das eleições 2026 em São José do Norte (RS): votação para presidente no Salão Paroquial da Igreja Santa Rita, na 130ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-do-norte-rs-votacao-para-presidente-no-salao-paroquial-da-igreja-santa-rita-na-130a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:11 UTC]** Resultado das eleições 2026 em São José do Norte (RS): votação para presidente no Sede Social do Liberal Foot-Ball Club, na 130ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-do-norte-rs-votacao-para-presidente-no-sede-social-do-liberal-foot-ball-club-na-130a-zona-eleitoral.ghtml)_
+
