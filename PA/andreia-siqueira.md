@@ -26,3 +26,6 @@
 - **[2026-10-06 11:23 UTC]** Resultado das eleições 2026 em Buritis (RO): votação para presidente no Elvandas Maria de Siqueira - Escola Estadual, na 34ª zona eleitoral
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-buritis-ro-votacao-para-presidente-no-elvandas-maria-de-siqueira-escola-estadual-na-34a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:12 UTC]** Resultado das eleições 2026 em Siqueira Campos (PR): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-siqueira-campos-pr-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
