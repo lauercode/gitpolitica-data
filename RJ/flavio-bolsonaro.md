@@ -4454,3 +4454,6 @@
 - **[2026-10-07 17:00 UTC]** Nunes Marques não analisará revisão criminal de Bolsonaro antes do 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-nao-analisara-revisao-criminal-de-bolsonaro-antes-do-2o-turno/)_
 
+- **[2026-10-07 16:55 UTC]** Os debates para presidente no 2º turno na TV — se Flávio e Lula aparecerem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/debates-presidente-segundo-turno/)_
+
