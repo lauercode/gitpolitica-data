@@ -20,3 +20,6 @@
 - **[2026-10-07 01:59 UTC]** Resultado das eleições 2026 em Mossoró (RN): votação para presidente na Escola Municipal Raimunda Nogueira do Couto, na 33ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-mossoro-rn-votacao-para-presidente-na-escola-municipal-raimunda-nogueira-do-couto-na-33a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:09 UTC]** Resultado das eleições 2026 em Couto Magalhães (TO): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-couto-magalhaes-to-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
