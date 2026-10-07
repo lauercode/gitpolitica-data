@@ -4523,3 +4523,7 @@
 - **[2026-10-07 18:14 UTC]** Oposição tenta adiar votação do fim da escala 6x1: 'Não faz bem para o país', diz coordenador da campanha de Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/07/oposicao-tenta-adiar-votacao-do-fim-da-escala-6x1-nao-faz-bem-para-o-pais-diz-coordenador-da-campanha-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-07 17:28 UTC]** Coordenador de campanha de Flávio, Rogério Marinho tem alta após 
+'mal-estar' e internação no DF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
+
