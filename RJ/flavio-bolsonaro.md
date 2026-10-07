@@ -4367,3 +4367,6 @@
 - **[2026-10-07 00:05 UTC]** Veja em quais países Flávio Bolsonaro e Lula tiveram mais votos no exterior
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-em-quais-paises-flavio-bolsonaro-e-lula-tiveram-mais-votos-no-exterior.shtml)_
 
+- **[2026-10-07 00:02 UTC]** Entenda a disputa entre Lula e Flávio Bolsonaro pelo Brasil em 16 gráficos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/entenda-a-disputa-entre-lula-e-flavio-bolsonaro-pelo-brasil-em-16-graficos.shtml)_
+
