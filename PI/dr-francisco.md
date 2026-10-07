@@ -62,3 +62,6 @@
 - **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Queimadas (PB): votação para presidente no E.C.I.T. Francisco Ernesto do Rêgo (Ernestão), na 59ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-queimadas-pb-votacao-para-presidente-no-e-c-i-t-francisco-ernesto-do-rego-ernestao-na-59a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:02 UTC]** Resultado das eleições 2026 em São Fernando (RN): votação para presidente na Escola Municipal de 1º e 2º Graus Pe. Francisco Rafael Fernandes, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-fernando-rn-votacao-para-presidente-na-escola-municipal-de-1o-e-2o-graus-pe-francisco-rafael-fernandes-na-23a-zona-eleitoral.ghtml)_
+
