@@ -20,3 +20,6 @@
 - **[2026-09-18 15:12 UTC]** Educação digital em escolas de Bragança (PA) será exibida em Nova York
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-09/educacao-digital-em-escolas-de-braganca-pa-sera-exibida-em-nova-york)_
 
+- **[2026-10-07 02:08 UTC]** Resultado das eleições 2026 em Bragança (PA): como foi a votação no seu local de votação; consulte por zona eleitoral
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-braganca-pa-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
+
