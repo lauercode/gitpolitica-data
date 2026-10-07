@@ -65,3 +65,6 @@
 - **[2026-10-04 18:57 UTC]** Jerônimo Rodrigues (PT) derrota ACM Neto (União) na Bahia e é reeleito governador, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jeronimo-rodrigues-pt-derrota-acm-neto-uniao-na-bahia-e-e-reeleito-governador-projeta-datafolha.shtml)_
 
+- **[2026-10-07 14:56 UTC]** ACM Neto anuncia apoio a Flávio Bolsonaro e fala em mobilizar bases na Bahia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/acm-neto-anuncia-apoio-a-flavio-bolsonaro-e-fala-em-mobilizar-bases-na-bahia.shtml)_
+
