@@ -4554,3 +4554,6 @@
 - **[2026-10-07 15:10 UTC]** Kassio confirma análise sobre soltura de Bolsonaro após eleição e fala em levar caso ao plenário do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-confirma-analise-sobre-soltura-de-bolsonaro-apos-eleicao-e-fala-em-levar-caso-ao-plenario-do-stf.shtml)_
 
+- **[2026-10-07 14:56 UTC]** ACM Neto anuncia apoio a Flávio Bolsonaro e fala em mobilizar bases na Bahia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/acm-neto-anuncia-apoio-a-flavio-bolsonaro-e-fala-em-mobilizar-bases-na-bahia.shtml)_
+
