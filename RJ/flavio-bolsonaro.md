@@ -4599,3 +4599,6 @@
 - **[2026-10-07 19:34 UTC]** Análise: Flávio e Lula apostam em renegociação de dívidas de famílias e empresas sem conter seu avanço
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/07/analise-flavio-e-lula-apostam-em-renegociacao-de-dividas-de-familias-e-empresas-sem-conter-seu-avanco.ghtml)_
 
+- **[2026-10-07 19:27 UTC]** ‘Não há mandato para grandes mudanças em eventual governo Flávio, afirma cientista político
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/no-h-mandato-para-grandes-mudanas-em-eventual-governo-flvio-afirma-cientista-poltico.ghtml)_
+
