@@ -38,3 +38,6 @@
 - **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Barra de São Miguel (AL): votação para presidente no E.M.E.B. Profª Flora Soares de Araújo, na 26ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-barra-de-sao-miguel-al-votacao-para-presidente-no-e-m-e-b-profa-flora-soares-de-araujo-na-26a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:05 UTC]** Resultado das eleições 2026 em Pedras de Fogo (PB): votação para presidente no Colegio Municipal Waldecyr Cavalcante de Araújo Pereira, na 44ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pedras-de-fogo-pb-votacao-para-presidente-no-colegio-municipal-waldecyr-cavalcante-de-araujo-pereira-na-44a-zona-eleitoral.ghtml)_
+
