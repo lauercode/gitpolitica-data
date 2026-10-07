@@ -26,3 +26,6 @@
 - **[2026-10-07 16:55 UTC]** Colega de PL, deputada mais votada no RS critica falas de Eduarda Campopiano sobre feminicídio: 'Uma bobagem'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/07/pl-deputada-mais-votada-rs-critica-eduarda-campopiano.ghtml)_
 
+- **[2026-10-07 15:39 UTC]** Eduarda Campopiano diz defender voto feminino e que 'derrota bate à porta' da esquerda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/10/eduarda-campopiano-diz-defender-voto-feminino-e-que-derrota-bate-a-porta-da-esquerda.shtml)_
+
