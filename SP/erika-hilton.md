@@ -86,3 +86,6 @@
 - **[2026-10-06 16:54 UTC]** Deputada estadual mais votada em SP é alvo de denúncia após chamar Erika Hilton de ‘homem biológico’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/deputada-estadual-mais-votada-em-sp-e-alvo-de-denuncia-apos-chamar-erika-hilton-de-homem-biologico.ghtml)_
 
+- **[2026-10-07 11:47 UTC]** Erika Hilton não descarta disputar a Presidência no futuro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/erika-hilton-nao-descarta-disputar-a-presidencia-no-futuro/)_
+
