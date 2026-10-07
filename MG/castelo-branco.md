@@ -35,3 +35,6 @@
 - **[2026-10-06 15:12 UTC]** Resultado das eleições 2026 em Rorainópolis (RR): votação para presidente na Escola Municipal Professora Eulina Paulina de Oliveira Castelo Branco, na 8ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rorainopolis-rr-votacao-para-presidente-na-escola-municipal-professora-eulina-paulina-de-oliveira-castelo-branco-na-8a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:02 UTC]** Resultado das eleições 2026 em Araguaína (TO): votação para presidente no Centro de Ensino Medio Castelo Branco, na 1ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-araguaina-to-votacao-para-presidente-no-centro-de-ensino-medio-castelo-branco-na-1a-zona-eleitoral.ghtml)_
+
