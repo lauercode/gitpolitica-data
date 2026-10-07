@@ -4487,3 +4487,6 @@
 - **[2026-10-07 15:45 UTC]** Influencer eleita pelo PT diz que ódio a lulismo não deixa sociedade 'ver quem é Flávio'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/influencer-eleita-pelo-pt-diz-que-odio-a-lulismo-nao-deixa-sociedade-ver-quem-e-flavio.ghtml)_
 
+- **[2026-10-07 15:40 UTC]** Tarcísio minimiza fala de Flávio Bolsonaro sobre mudar Constituição e faz críticas ao Minha Casa, Minha Vida
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/tarcisio-minimiza-fala-de-flavio-bolsonaro-sobre-mudar-constituicao-e-faz-criticas-ao-minha-casa-minha-vida.ghtml)_
+
