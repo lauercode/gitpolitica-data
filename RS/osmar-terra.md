@@ -164,3 +164,6 @@
 - **[2026-10-06 09:35 UTC]** Resultado das eleições 2026 em Terra de Areia (RS): como foi a votação no 1º turno
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-terra-de-areia-rs-como-foi-a-votacao-no-1o-turno.ghtml)_
 
+- **[2026-10-07 21:43 UTC]** Americanas conclui venda de mais uma loja do Natural da Terra à rede Oba
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/07/americanas-conclui-venda-de-mais-uma-loja-do-natural-da-terra-rede-oba.ghtml)_
+
