@@ -14,3 +14,6 @@
 - **[2026-10-06 22:12 UTC]** Resultado das eleições 2026 em Paraíso do Tocantins (TO): votação para presidente na Escola Estadual Juscelino Kubitschek de Oliveira, na 7ª zona eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paraiso-do-tocantins-to-votacao-para-presidente-na-escola-estadual-juscelino-kubitschek-de-oliveira-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:08 UTC]** Resultado das eleições 2026 em São José (SC): votação para presidente na Escola de Educação Básica Presidente Juscelino Kubitschek, na 84ª zona eleitoral
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-jose-sc-votacao-para-presidente-na-escola-de-educacao-basica-presidente-juscelino-kubitschek-na-84a-zona-eleitoral.ghtml)_
+
