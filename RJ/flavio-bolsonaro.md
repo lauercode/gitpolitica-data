@@ -4517,3 +4517,6 @@
 - **[2026-10-07 18:49 UTC]** Derrotada na disputa à Presidência, candidata do DC, Clariana Barão, declara apoio a Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/07/ex-candidata-a-presidencia-clariana-barao-declara-apoio-a-flavio-bolsonaro-no-2o-turno.ghtml)_
 
+- **[2026-10-07 18:18 UTC]** Nunes Marques libera vídeos de Flávio Bolsonaro que associam Lula a Moraes e Lulinha ao Careca do INSS
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/07/nunes-marques-libera-videos-de-flavio-bolsonaro-que-associam-lula-a-moraes-e-lulinha-ao-careca-do-inss.ghtml)_
+
