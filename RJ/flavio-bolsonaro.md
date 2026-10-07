@@ -4361,3 +4361,6 @@
 - **[2026-10-06 23:39 UTC]** Flávio diz que bancada do agro poderá indicar ministro da Agricultura em seu eventual mandato
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/flvio-diz-que-bancada-do-agro-poder-indicar-ministro-da-agricultura-em-seu-eventual-mandato.ghtml)_
 
+- **[2026-10-07 08:00 UTC]** 'Quanto dura um amor de verão?’: ânimo do mercado com Flávio pode ter prazo de validade, avaliam economistas
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/07/animo-do-mercado-com-flavio-pode-ter-prazo-de-validade-avaliam-economistas.ghtml)_
+
