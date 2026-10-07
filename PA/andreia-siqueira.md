@@ -29,3 +29,6 @@
 - **[2026-10-07 02:12 UTC]** Resultado das eleições 2026 em Siqueira Campos (PR): como foi a votação no seu local de votação; consulte por zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-siqueira-campos-pr-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:09 UTC]** Resultado das eleições 2026 em Siqueira Campos (PR): como foi a votação nos locais de votação da 21ª Zona Eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-siqueira-campos-pr-como-foi-a-votacao-nos-locais-de-votacao-da-21a-zona-eleitoral.ghtml)_
+
