@@ -4349,3 +4349,6 @@
 - **[2026-10-06 21:20 UTC]** Como o Plano Barrabás e mexida na Constituição ameaçam ajuste fiscal de um Bolsonaro 2
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/como-o-plano-barrabas-e-mexida-na-constituicao-ameacam-ajuste-fiscal-de-um-bolsonaro-2.shtml)_
 
+- **[2026-10-06 20:54 UTC]** Flávio quer mudar a Constituição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/flavio-quer-mudar-a-constituicao.shtml)_
+
