@@ -4590,3 +4590,6 @@
 - **[2026-10-07 22:00 UTC]** Quando é o debate da Globo entre Lula e Flávio Bolsonaro? Veja data
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/quando-e-o-debate-da-globo-entre-lula-e-flavio-bolsonaro-veja-data.ghtml)_
 
+- **[2026-10-07 20:29 UTC]** Republicanos apoiará Flávio, em movimento que inclui acordo sobre ministérios e Mesas do Congresso
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/republicanos-apoiara-flavio-em-movimento-que-inclui-acordo-sobre-ministerios-e-mesas-do-congresso.ghtml)_
+
