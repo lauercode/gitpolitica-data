@@ -1382,3 +1382,6 @@ direitos
 - **[2026-10-07 14:37 UTC]** Motta ignora força da direita eleita na Câmara e elogia apenas aumento da bancada feminina
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/motta-ignora-direita-eleita-camara-elogia-apenas-aumento-bancada-feminina/)_
 
+- **[2026-10-07 13:40 UTC]** Qual é a composição da nova Câmara dos Deputados: quem ganhou e quem perdeu espaço nas eleições 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw054z5n04e9o?at_medium=RSS&at_campaign=rss)_
+
