@@ -4442,3 +4442,6 @@
 - **[2026-10-07 11:14 UTC]** Candidata derrotada do DC anuncia apoio a Flávio no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/candidata-derrotada-do-dc-anuncia-apoio-a-flavio-no-segundo-turno.shtml)_
 
+- **[2026-10-07 10:57 UTC]** Flávio diz querer mudar Constituição para reformar lei penal e Judiciário e deixa em aberto ampliar mandato
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-diz-que-brasil-nao-vive-democracia-plena-e-que-lula-e-incompativel-com-congresso-eleito.shtml)_
+
