@@ -134,3 +134,6 @@
 - **[2026-10-07 16:59 UTC]** Forte gasto com IA prepara investidores para nova temporada de lucros nos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/forte-gasto-com-ia-prepara-investidores-para-nova-temporada-de-lucros-nos-eua.shtml)_
 
+- **[2026-10-07 21:52 UTC]** Forte ventania é registrada em Porto Velho durante alerta de tempestade; veja vídeo
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/07/forte-ventania-e-registrada-em-porto-velho-durante-alerta-de-tempestade-veja-video.ghtml)_
+
