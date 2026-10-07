@@ -4355,3 +4355,6 @@
 - **[2026-10-07 02:16 UTC]** TSE define horário eleitoral de Lula e Flávio no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-define-horario-eleitoral-de-lula-e-flavio-no-2o-turno/)_
 
+- **[2026-10-07 00:25 UTC]** Ministros do STF que hostilizaram Bolsonaro agora querem negociar com Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/renan-ramalho/ministros-do-stf-que-hostilizaram-bolsonaro-agora-querem-negociar-com-flavio/)_
+
