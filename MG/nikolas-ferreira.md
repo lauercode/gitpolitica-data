@@ -77,3 +77,6 @@
 - **[2026-10-05 19:04 UTC]** Quem é Nikolas Ferreira, o deputado federal mais votado do Brasil pela segunda vez
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/quem-e-nikolas-ferreira-o-deputado-federal-mais-votado-do-brasil-pela-segunda-vez.ghtml)_
 
+- **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Fagundes (PB): votação para presidente no E.M.E.F. Nila Ferreira, na 59ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fagundes-pb-votacao-para-presidente-no-e-m-e-f-nila-ferreira-na-59a-zona-eleitoral.ghtml)_
+
