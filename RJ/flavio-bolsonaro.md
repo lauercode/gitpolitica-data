@@ -4533,3 +4533,6 @@
 - **[2026-10-07 17:32 UTC]** Possível vitória de Flávio Bolsonaro ameaça o futuro do cinema brasileiro, diz Variety
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/10/possivel-vitoria-de-flavio-bolsonaro-ameaca-o-futuro-do-cinema-brasileiro-diz-variety.shtml)_
 
+- **[2026-10-07 17:21 UTC]** Defendida por Flávio, redução da maioridade penal tramita no Congresso e tem divergência sobre legalidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/defendida-por-flavio-reducao-da-maioridade-penal-tramita-no-congresso-e-tem-divergencia-sobre-legalidade.shtml)_
+
