@@ -164,3 +164,6 @@
 - **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em Boca da Mata (AL): como foi a votação nos locais de votação da 48ª Zona Eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boca-da-mata-al-como-foi-a-votacao-nos-locais-de-votacao-da-48a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Boca da Mata (AL): votação para presidente no Colégio São Mateus, na 48ª zona eleitoral
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boca-da-mata-al-votacao-para-presidente-no-colegio-sao-mateus-na-48a-zona-eleitoral.ghtml)_
+
