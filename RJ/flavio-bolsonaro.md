@@ -4466,3 +4466,6 @@
 - **[2026-10-07 13:46 UTC]** Flávio Bolsonaro diz que maioria no Congresso pode alterar pontos da Constituição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-maioria-congresso-pode-alterar-pontos-constituicao/)_
 
+- **[2026-10-07 13:04 UTC]** Estela Aranha beneficiou Flávio ao proibir púlpito vazio de Lula, avalia marqueteiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/estela-aranha-beneficiou-flavio-ao-proibir-pulpito-vazio-de-lula-avalia-ministro/)_
+
