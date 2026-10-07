@@ -4421,3 +4421,6 @@
 - **[2026-10-07 13:21 UTC]** PL anabolizado e STF enfraquecido em eventual governo Flávio eliminariam freios impostos a Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-anabolizado-e-stf-enfraquecido-em-eventual-governo-flavio-eliminariam-freios-impostos-a-bolsonaro.shtml)_
 
+- **[2026-10-07 13:21 UTC]** Conheça as posições de Lula e de Flávio sobre proposta para acabar com escala 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/entenda-as-propostas-pelo-fim-da-escala-6x1-de-flavio-bolsonaro-e-lula.shtml)_
+
