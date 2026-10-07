@@ -4352,3 +4352,6 @@
 - **[2026-10-06 20:54 UTC]** Flávio quer mudar a Constituição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/flavio-quer-mudar-a-constituicao.shtml)_
 
+- **[2026-10-07 02:16 UTC]** TSE define horário eleitoral de Lula e Flávio no 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-define-horario-eleitoral-de-lula-e-flavio-no-2o-turno/)_
+
