@@ -4566,3 +4566,6 @@
 - **[2026-10-07 20:55 UTC]** Como Flávio Bolsonaro lidará com o STF e as condenações de Jair, Eduardo e do 8/1
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-flavio-bolsonaro-lidara-com-o-stf-e-as-condenacoes-de-jair-eduardo-e-do-8-1/)_
 
+- **[2026-10-07 19:37 UTC]** Nunes Marques libera vídeos de Flávio sobre envolvimento de Lula e Lulinha com Moraes e INSS
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-libera-videos-flavio-lula-lulinha-moraes-inss/)_
+
