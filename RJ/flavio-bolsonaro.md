@@ -4385,3 +4385,6 @@
 - **[2026-10-07 08:00 UTC]** Com maioria no Congresso, Flávio diz que pode mudar a Constituição
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/07/com-maioria-no-congresso-flavio-diz-que-pode-mudar-a-constituicao.ghtml)_
 
+- **[2026-10-07 08:00 UTC]** Campanha de Flávio investe em redes sociais o triplo de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/campanha-de-flavio-investe-em-redes-sociais-o-triplo-de-lula.ghtml)_
+
