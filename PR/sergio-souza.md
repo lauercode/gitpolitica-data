@@ -269,3 +269,6 @@
 - **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Laranjal do Jari (AP): votação para presidente na Escola Estadual Prof. Vanda Maria de Souza Cabete, na 7ª zona eleitoral
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-laranjal-do-jari-ap-votacao-para-presidente-na-escola-estadual-prof-vanda-maria-de-souza-cabete-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em São Gabriel da Cachoeira (AM): votação para presidente no E. M. Indígena Lilian Ambrósio de Souza, na 19ª zona eleitoral
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-gabriel-da-cachoeira-am-votacao-para-presidente-no-e-m-indigena-lilian-ambrosio-de-souza-na-19a-zona-eleitoral.ghtml)_
+
