@@ -110,3 +110,6 @@
 - **[2026-10-06 02:13 UTC]** DF: 26 mil apertaram 22 e anularam votos que poderiam reeleger Celina Leão no 1º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/distrito-federal/df-26-mil-apertaram-22-e-anularam-votos-que-poderiam-reeleger-celina-leao-no-1o-turno/)_
 
+- **[2026-10-07 15:28 UTC]** Celina Leão diz que eleição de Flávio Bolsonaro pode dar 'mais fôlego' à recuperação do BRB
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/celina-leao-diz-que-eleicao-de-flavio-bolsonaro-pode-dar-mais-folego-a-recuperacao-do-brb.ghtml)_
+
