@@ -4376,3 +4376,6 @@
 - **[2026-10-07 09:00 UTC]** O que Flávio Bolsonaro fez em 7 anos como senador? Saiba o que ele apresentou e aprovou
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/o-que-flavio-bolsonaro-fez-em-7-anos-como-senador-saiba-o-que-ele-apresentou-e-aprovou.ghtml)_
 
+- **[2026-10-07 08:00 UTC]** Lula muda comunicação e busca associar Flávio a fim de programas sociais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/lula-muda-comunicacao-e-busca-associar-flavio-a-fim-de-programas-sociais.ghtml)_
+
