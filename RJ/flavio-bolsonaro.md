@@ -4343,3 +4343,6 @@
 - **[2026-10-06 21:40 UTC]** Flávio Bolsonaro diz que fim da reeleição não é para volta do pai à Presidência em 2030
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-fim-da-reeleicao-nao-e-para-volta-do-pai-a-presidencia-em-2030.shtml)_
 
+- **[2026-10-06 21:38 UTC]** Tereza Cristina deve ser ouvida na escolha do chanceler em eventual governo Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tereza-cristina-deve-ser-ouvida-na-escolha-do-chanceler-em-eventual-governo-flavio.shtml)_
+
