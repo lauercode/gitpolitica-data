@@ -59,3 +59,6 @@
 - **[2026-10-05 17:38 UTC]** Nacionalização da campanha no Rio impulsionou Douglas Ruas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/direita-se-fortalece-no-rio-aps-avano-do-pl-e-fora-do-bolsonarismo.ghtml)_
 
+- **[2026-10-07 04:02 UTC]** 'Canetada do TSE foi mortal para Lula e afetou eleições nos estados', diz marqueteiro de Douglas Ruas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/canetada-do-tse-foi-mortal-para-lula-e-afetou-eleicoes-nos-estados-diz-marqueteiro-de-douglas-ruas.shtml)_
+
