@@ -4481,3 +4481,6 @@
 - **[2026-10-07 11:54 UTC]** No Paraná, Flávio Bolsonaro teve 59,91% dos votos no primeiro turno; Lula teve maioria em 49 cidades
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/07/no-parana-flavio-bolsonaro-teve-5991percent-dos-votos-no-primeiro-turno-lula-teve-maioria-em-49-cidades.ghtml)_
 
+- **[2026-10-07 15:51 UTC]** Novo declara apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/novo-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
