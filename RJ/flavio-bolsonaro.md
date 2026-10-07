@@ -4415,3 +4415,6 @@
 - **[2026-10-07 14:00 UTC]** Campanha de Flávio paga R$ 271 mil a nove pessoas físicas, incluindo garçom e zelador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-paga-r-271-mil-a-nove-pessoas-fisicas-incluindo-garcom-e-zelador.shtml)_
 
+- **[2026-10-07 13:22 UTC]** Flávio assume o sobrenome ao revelar seu programa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-assume-o-sobrenome-ao-revelar-seu-programa.shtml)_
+
