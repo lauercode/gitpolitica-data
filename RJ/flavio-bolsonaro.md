@@ -4584,3 +4584,6 @@
 - **[2026-10-07 15:22 UTC]** Quais são as propostas de Flávio Bolsonaro e de Lula sobre a escala 6x1
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-07 18:11 UTC]** Eleições 2026 no AC: Flávio Bolsonaro (PL) vence em 19 municípios e Lula (PT) em 3, no 1º turno
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/07/eleicoes-2026-no-ac-flavio-bolsonaro-pl-vence-em-19-municipios-e-lula-pt-em-3-no-1o-turno.ghtml)_
+
