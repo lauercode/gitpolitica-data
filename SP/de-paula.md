@@ -29,3 +29,6 @@
 - **[2026-10-07 02:12 UTC]** Resultado das eleições 2026 em São Francisco de Paula (RS): votação para presidente no Colégio Expressão - Coopeserra, na 48ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-francisco-de-paula-rs-votacao-para-presidente-no-colegio-expressao-coopeserra-na-48a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Boa Vista (RR): votação para presidente na Escola Estadual São Vicente de Paula., na 1ª zona eleitoral
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-sao-vicente-de-paula-na-1a-zona-eleitoral.ghtml)_
+
