@@ -44,3 +44,6 @@
 - **[2026-10-07 01:59 UTC]** Resultado das eleições 2026 em Fagundes (PB): votação para presidente no E.C.I.E.E.F.M. Joana Emilia da Silva, na 59ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-fagundes-pb-votacao-para-presidente-no-e-c-i-e-e-f-m-joana-emilia-da-silva-na-59a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em Cabedelo (PB): votação para presidente na Escola Munic Pedro Americo da Silva, na 57ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-cabedelo-pb-votacao-para-presidente-na-escola-munic-pedro-americo-da-silva-na-57a-zona-eleitoral.ghtml)_
+
