@@ -77,3 +77,6 @@
 - **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Maceió (AL): votação para presidente no Esc. de Ens. Fund. Prof. Almeida Leite, na 3ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-maceio-al-votacao-para-presidente-no-esc-de-ens-fund-prof-almeida-leite-na-3a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Taguatinga (TO): votação para presidente na Escola Municipal Jose de Almeida, na 17ª zona eleitoral
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-taguatinga-to-votacao-para-presidente-na-escola-municipal-jose-de-almeida-na-17a-zona-eleitoral.ghtml)_
+
