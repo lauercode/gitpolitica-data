@@ -518,3 +518,6 @@
 - **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Ponta Grossa (PR): votação para presidente no Asilo São Vicente de Paulo, na 14ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ponta-grossa-pr-votacao-para-presidente-no-asilo-sao-vicente-de-paulo-na-14a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 18:33 UTC]** BusCo lança rotas de São Paulo para Joinville e Itajaí com operação da Catarinense
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/07/busco-lanca-rotas-de-sao-paulo-para-joinville-e-itajai-com-operacao-da-catarinense-1.ghtml)_
+
