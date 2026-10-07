@@ -17,3 +17,6 @@
 - **[2026-10-07 02:06 UTC]** Resultado das eleições 2026 em Maria Helena (PR): como foi a votação nos locais de votação da 142ª Zona Eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-maria-helena-pr-como-foi-a-votacao-nos-locais-de-votacao-da-142a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:05 UTC]** Resultado das eleições 2026 em Maria Helena (PR): votação para presidente no Colegio Estadual Prof. Leonidia Pacheco - Ens. Fundamental e Medio, na 142ª zona eleitoral
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-maria-helena-pr-votacao-para-presidente-no-colegio-estadual-prof-leonidia-pacheco-ens-fundamental-e-medio-na-142a-zona-eleitoral.ghtml)_
+
