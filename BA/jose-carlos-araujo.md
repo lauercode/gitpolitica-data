@@ -62,3 +62,6 @@
 - **[2026-10-07 02:02 UTC]** Resultado das eleições 2026 em Timbaúba dos Batistas (RN): votação para presidente na Escola Municipal Paulino Batista de Araujo, na 23ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-timbauba-dos-batistas-rn-votacao-para-presidente-na-escola-municipal-paulino-batista-de-araujo-na-23a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Salgado (SE): votação para presidente no Jose Conrado de Araujo, E.E., na 31ª zona eleitoral
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-salgado-se-votacao-para-presidente-no-jose-conrado-de-araujo-e-e-na-31a-zona-eleitoral.ghtml)_
+
