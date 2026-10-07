@@ -20,3 +20,6 @@
 - **[2026-10-06 18:39 UTC]** Resultado das eleições 2026 em Francisco Alves (PR): votação para presidente na Escola Estadual do Bairro Catarinense, na 97ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-francisco-alves-pr-votacao-para-presidente-na-escola-estadual-do-bairro-catarinense-na-97a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Davinópolis (MA): votação para presidente no Centro de Ensino Francisco Alves, na 65ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-davinopolis-ma-votacao-para-presidente-no-centro-de-ensino-francisco-alves-na-65a-zona-eleitoral.ghtml)_
+
