@@ -4478,3 +4478,6 @@
 - **[2026-10-06 21:25 UTC]** Debates no segundo turno: datas, o que se sabe e o que falta definir sobre a participação de Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd93nkj51pgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-07 11:54 UTC]** No Paraná, Flávio Bolsonaro teve 59,91% dos votos no primeiro turno; Lula teve maioria em 49 cidades
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/07/no-parana-flavio-bolsonaro-teve-5991percent-dos-votos-no-primeiro-turno-lula-teve-maioria-em-49-cidades.ghtml)_
+
