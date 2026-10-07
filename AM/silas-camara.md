@@ -1391,3 +1391,6 @@ direitos
 - **[2026-10-07 18:47 UTC]** Juiz assume comando da Prefeitura de Macapá enquanto prefeito interino disputa presidência da Câmara
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/10/07/juiz-assume-comando-da-prefeitura-de-macapa-enquanto-prefeito-interino-disputa-presidencia-da-camara.ghtml)_
 
+- **[2026-10-07 19:48 UTC]** Câmara lança concurso com salário inicial de mais de R$ 30 mil
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/concursos-publicos/post/2026/10/camara-lanca-concurso-com-salario-inicial-de-mais-de-r-30-mil.ghtml)_
+
