@@ -23,3 +23,6 @@
 - **[2026-10-06 17:27 UTC]** Resultado das eleições 2026 em Simão Dias (SE): votação para presidente na Escola Municipal Prof. João Paulo de Santana, na 22ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-simao-dias-se-votacao-para-presidente-na-escola-municipal-prof-joao-paulo-de-santana-na-22a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Nova Olinda do Maranhão (MA): votação para presidente no Centro Educacional João Paulo I, na 80ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nova-olinda-do-maranhao-ma-votacao-para-presidente-no-centro-educacional-joao-paulo-i-na-80a-zona-eleitoral.ghtml)_
+
