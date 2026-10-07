@@ -4370,3 +4370,6 @@
 - **[2026-10-07 00:02 UTC]** Entenda a disputa entre Lula e Flávio Bolsonaro pelo Brasil em 16 gráficos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/entenda-a-disputa-entre-lula-e-flavio-bolsonaro-pelo-brasil-em-16-graficos.shtml)_
 
+- **[2026-10-07 08:02 UTC]** 'Desafio de Flávio é ser presidente de direita normal', avalia economista Samuel Pessôa
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crn8w7jw76djo?at_medium=RSS&at_campaign=rss)_
+
