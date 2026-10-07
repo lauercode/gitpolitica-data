@@ -1388,3 +1388,6 @@ direitos
 - **[2026-10-07 13:40 UTC]** Quem ganhou e quem perdeu espaço com a nova composição da Câmara dos Deputados
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw054z5n04e9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-07 18:47 UTC]** Juiz assume comando da Prefeitura de Macapá enquanto prefeito interino disputa presidência da Câmara
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/10/07/juiz-assume-comando-da-prefeitura-de-macapa-enquanto-prefeito-interino-disputa-presidencia-da-camara.ghtml)_
+
