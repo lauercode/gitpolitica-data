@@ -4469,3 +4469,6 @@
 - **[2026-10-07 13:04 UTC]** Estela Aranha beneficiou Flávio ao proibir púlpito vazio de Lula, avalia marqueteiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/estela-aranha-beneficiou-flavio-ao-proibir-pulpito-vazio-de-lula-avalia-ministro/)_
 
+- **[2026-10-07 16:13 UTC]** O que Flávio Bolsonaro quer mudar na Constituição, caso seja eleito com Congresso mais poderoso e conservador?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvglw4627kdlo?at_medium=RSS&at_campaign=rss)_
+
