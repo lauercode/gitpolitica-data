@@ -56,3 +56,6 @@
 - **[2026-10-07 02:04 UTC]** Resultado das eleições 2026 em Pocinhos (PB): votação para presidente no Anexo Escola Elizete Pereira de Araujo (Antigo Ipase), na 50ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pocinhos-pb-votacao-para-presidente-no-anexo-escola-elizete-pereira-de-araujo-antigo-ipase-na-50a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:03 UTC]** Resultado das eleições 2026 em Timbaúba dos Batistas (RN): votação para presidente no Grupo Escolar Basilio Batista de Araujo, na 23ª zona eleitoral
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-timbauba-dos-batistas-rn-votacao-para-presidente-no-grupo-escolar-basilio-batista-de-araujo-na-23a-zona-eleitoral.ghtml)_
+
