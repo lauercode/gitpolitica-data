@@ -1370,3 +1370,6 @@ direitos
 - **[2026-10-07 03:00 UTC]** Na eleição para a Câmara, famosos dão lugar a 'políticos influencers'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/politicos-influencers-famosos-redes-sociais.ghtml)_
 
+- **[2026-10-07 04:00 UTC]** Primeiro deputado cassado por fake news vai à Câmara junto com filho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/primeiro-deputado-cassado-por-fake-news-vai-a-camara-junto-com-filho.shtml)_
+
