@@ -4490,3 +4490,6 @@
 - **[2026-10-07 15:40 UTC]** Tarcísio minimiza fala de Flávio Bolsonaro sobre mudar Constituição e faz críticas ao Minha Casa, Minha Vida
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/tarcisio-minimiza-fala-de-flavio-bolsonaro-sobre-mudar-constituicao-e-faz-criticas-ao-minha-casa-minha-vida.ghtml)_
 
+- **[2026-10-07 15:33 UTC]** Análise: Sete dúvidas sobre a conta fiscal de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/07/analise-sete-duvidas-sobre-a-conta-fiscal-de-flavio-bolsonaro.ghtml)_
+
