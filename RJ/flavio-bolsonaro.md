@@ -4880,3 +4880,6 @@
 - **[2026-10-08 16:34 UTC]** Quem está à frente nas pesquisas para presidente no 2º turno das Eleições 2026? Veja Lula x Flávio Bolsonaro no agregador da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-08 20:49 UTC]** Décio Oddone, Adriano Pires e Eduardo Pazuello são cotados para Petrobras, caso Flávio seja eleito
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/decio-oddone-adriano-pires-e-eduardo-pazuello-sao-cotados-para-petrobras-caso-flavio-seja-eleito.ghtml)_
+
