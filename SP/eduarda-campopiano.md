@@ -32,3 +32,6 @@
 - **[2026-10-06 22:08 UTC]** Eduarda Campopiano erra até a própria cidade em projetos de lei que repetem textos de outros políticos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crwyd10307kjo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-08 12:43 UTC]** Eduarda Campopiano acusa influenciadora de importunação sexual e quer R$ 20 mil de indenização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduarda-campopiano-acusa-influenciadora-de-importunacao-sexual-e-quer-r-20-mil-de-indenizacao.shtml)_
+
