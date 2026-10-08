@@ -173,3 +173,6 @@
 - **[2026-10-08 15:08 UTC]** Cleitinho diverge da campanha de Flávio e defende fim da escala 6x1 ao declarar apoio ao candidato do PL no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/cleitinho-diverge-da-campanha-de-flavio-e-defende-fim-da-escala-6x1-ao-declarar-apoio-ao-candidato-do-pl-no-2o-turno.ghtml)_
 
+- **[2026-10-08 18:46 UTC]** Cleitinho busca compromisso de Flávio para renegociar dívida de Minas Gerais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/cleitinho-busca-compromisso-de-flavio-para-renegociar-divida-de-minas-gerais.ghtml)_
+
