@@ -4675,3 +4675,6 @@
 - **[2026-10-07 23:34 UTC]** Republicanos anuncia apoio a Flávio Bolsonaro no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/republicanos-anuncia-apoio-a-flavio-bolsonaro-no-2o-turno/)_
 
+- **[2026-10-07 23:44 UTC]** Após aliança com Flávio, Marcos Pereira declara ‘apoio incondicional’ à reeleição de Motta
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/aps-aliana-com-flvio-marcos-pereira-declara-apoio-incondicional-reeleio-de-motta.ghtml)_
+
