@@ -4853,3 +4853,6 @@
 - **[2026-10-08 16:08 UTC]** Flávio defende emendas em reunião fechada com políticos e diz saber 'como é suado conseguir voto'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-defende-emendas-em-reuniao-fechada-com-politicos-e-diz-saber-como-e-suado-conseguir-voto.shtml)_
 
+- **[2026-10-08 15:08 UTC]** Emendas parlamentares de Flávio Bolsonaro pagam empresas acusadas de cartel pela PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/emendas-parlamentares-de-flavio-bolsonaro-pagam-empresas-acusadas-de-cartel-pela-pf.shtml)_
+
