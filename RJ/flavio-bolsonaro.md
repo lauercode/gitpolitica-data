@@ -4889,3 +4889,6 @@
 - **[2026-10-08 19:47 UTC]** Suspensão de direitos políticos impede que Eduardo Bolsonaro participe de eventual governo Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/08/suspensao-de-direitos-politicos-impede-que-eduardo-bolsonaro-participe-de-eventual-governo-flavio.ghtml)_
 
+- **[2026-10-08 19:43 UTC]** Durigan diz que ajuste fiscal de Flávio Bolsonaro é ‘ilusão barata e vazia e mercado está comprando’
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/08/durigan-diz-que-ajuste-fiscal-de-flvio-bolsonaro-iluso-barata-e-vazia-e-mercado-est-comprando.ghtml)_
+
