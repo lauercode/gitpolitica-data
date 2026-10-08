@@ -71,3 +71,6 @@
 - **[2026-10-08 12:38 UTC]** TSE decide anular votos de Garotinho e abre caminho para vitória de Douglas Ruas no RJ
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/tse-julga-candidatura-de-garotinho-em-caso-que-pode-definir-eleicao-do-rj.ghtml)_
 
+- **[2026-10-08 14:01 UTC]** Quem é Douglas Ruas, governador virtualmente eleito do RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-e-douglas-ruas-governador-virtualmente-eleito-do-rj.shtml)_
+
