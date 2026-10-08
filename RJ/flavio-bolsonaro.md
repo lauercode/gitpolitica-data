@@ -4777,3 +4777,6 @@
 - **[2026-10-08 10:00 UTC]** Tarcísio atrela ajustes no secretariado a eventual vitória de Flávio Bolsonaro no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/tarcisio-atrela-ajustes-no-secretariado-a-eventual-vitoria-de-flavio-bolsonaro-no-2o-turno.shtml)_
 
+- **[2026-10-08 09:00 UTC]** Centrão aposta em vitória de Flávio Bolsonaro para liberar bets após segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/centrao-aposta-em-vitoria-de-flavio-bolsonaro-para-liberar-bets-apos-segundo-turno.shtml)_
+
