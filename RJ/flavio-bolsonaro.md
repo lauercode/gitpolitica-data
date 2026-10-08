@@ -4810,3 +4810,6 @@
 - **[2026-10-08 20:17 UTC]** MDB planeja ato para declarar apoio de  16 diretórios estaduais a Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/08/mdb-planeja-ato-para-declarar-apoio-de-diretorios-estaduais-a-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-08 19:40 UTC]** Retomada da propaganda eleitoral terá Flávio Bolsonaro propondo 'mudanças' aos insatisfeitos e Lula defendendo programas sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/volta-da-propaganda-eleitoral-flavio-bolsonaro-e-lula.ghtml)_
+
