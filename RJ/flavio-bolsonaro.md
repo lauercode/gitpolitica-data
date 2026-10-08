@@ -4712,3 +4712,6 @@
 - **[2026-10-08 09:00 UTC]** Quem é Alfredo Gaspar, vice na chapa de Flávio Bolsonaro?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-08 08:00 UTC]** Matemática do ajuste fiscal de Flávio pode ser insuficiente
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/08/matematica-do-ajuste-fiscal-de-flavio-pode-ser-insuficiente.ghtml)_
+
