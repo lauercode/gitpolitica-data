@@ -4654,3 +4654,6 @@
 - **[2026-10-07 22:00 UTC]** Leitora comenta fala de Flávio Bolsonaro sobre mudança na Constituição: 'É uma ditadura anunciada'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/leitora-comenta-fala-de-flavio-bolsonaro-sobre-mudanca-na-constituicao-e-uma-ditadura-anunciada.shtml)_
 
+- **[2026-10-07 22:00 UTC]** Redemocratizar o quê, Flávio Bolsonaro?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/redemocratizar-o-que-flavio-bolsonaro.shtml)_
+
