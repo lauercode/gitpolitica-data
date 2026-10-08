@@ -4819,3 +4819,6 @@
 - **[2026-10-08 17:06 UTC]** Nas redes, Lula celebra Dia do Nordestino e diz que, se Flávio for eleito, cortará Pé-de-Meia e outros programas sociais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/nas-redes-lula-celebra-dia-do-nordestino-e-diz-que-se-flavio-for-eleito-cortara-pe-de-meia-e-outros-programas-sociais.ghtml)_
 
+- **[2026-10-08 13:20 UTC]** Flávio diz querer fim da reeleição e fala em aumentar o próprio mandato com emenda à Constituição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/08/flavio-reforca-que-se-eleito-quer-fim-reeleicao-ja-em-seu-governo.ghtml)_
+
