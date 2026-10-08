@@ -4865,3 +4865,6 @@
 - **[2026-10-08 14:29 UTC]** Renan Santos modula discurso e interage com 'esquerdistas' como contraponto a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-modula-discurso-e-interage-com-esquerdistas-como-contraponto-a-flavio.shtml)_
 
+- **[2026-10-08 14:22 UTC]** Deputadas pedem investigação de site que divulga Flávio Bolsonaro em troca de criptomoedas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputadas-pedem-investigacao-de-site-que-divulga-flavio-bolsonaro-em-troca-de-criptomoedas.shtml)_
+
