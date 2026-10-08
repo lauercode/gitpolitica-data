@@ -4792,3 +4792,6 @@
 - **[2026-10-08 11:53 UTC]** Caso vença, Flávio quer discutir fim da reeleição e união de pleitos
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/coluna-esplanada/caso-venca-flavio-quer-discutir-fim-da-reeleicao-e-uniao-de-pleitos/)_
 
+- **[2026-10-08 13:54 UTC]** Flavio Bolsonaro diz que vai fazer ajuste acima da inflação para aposentadorias
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/flavio-bolsonaro-diz-que-vai-fazer-ajuste-acima-da-inflacao-para-aposentadorias.ghtml)_
+
