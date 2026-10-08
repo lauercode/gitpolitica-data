@@ -4734,3 +4734,6 @@
 - **[2026-10-08 15:57 UTC]** Site oferece criptomoeda a quem divulgar conteúdo que defende voto em Flávio Bolsonaro; lei eleitoral proíbe remuneração por propaganda
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/site-criptomoeda-voto-flavio-bolsonaro-lei-eleitoral.ghtml)_
 
+- **[2026-10-08 15:17 UTC]** Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/08/representante-da-campanha-diz-que-governo-de-flavio-bolsonaro-nao-privatizaria-banco-do-brasil-caixa-e-petrobras.ghtml)_
+
