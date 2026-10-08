@@ -4783,3 +4783,6 @@
 - **[2026-10-08 14:23 UTC]** Ricardo Nunes articula e diz esperar apoio do MDB a Flávio no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ricardo-nunes-articula-e-diz-esperar-apoio-do-mdb-a-flavio-no-segundo-turno/)_
 
+- **[2026-10-08 12:58 UTC]** Lula sobe o tom e cobra Flávio Bolsonaro para votar a favor do fim da escala 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-sobe-tom-cobra-flavio-bolsonaro-votar-a-favor-fim-escala-6x1/)_
+
