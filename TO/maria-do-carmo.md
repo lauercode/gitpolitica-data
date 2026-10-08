@@ -77,3 +77,6 @@
 - **[2026-10-06 17:48 UTC]** Resultado das eleições 2026 em Tacima (PB): votação para presidente na Escola M.E.F. Maria do Carmo de Sousa Pinheiro, na 20ª zona eleitoral
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tacima-pb-votacao-para-presidente-na-escola-m-e-f-maria-do-carmo-de-sousa-pinheiro-na-20a-zona-eleitoral.ghtml)_
 
+- **[2026-10-08 21:04 UTC]** Rede Amazônica define cobertura e entrevistas com Omar Aziz e Maria do Carmo no 2º turno para o governo do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/08/rede-amazonica-define-cobertura-e-entrevistas-com-omar-aziz-e-maria-do-carmo-no-2o-turno-para-o-governo-do-am.ghtml)_
+
