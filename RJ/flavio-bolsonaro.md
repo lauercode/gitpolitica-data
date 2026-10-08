@@ -4728,3 +4728,6 @@
 - **[2026-10-08 09:58 UTC]** Lula reforça campanha nas redes sociais e Flávio amplia apoio político
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-reforca-campanha-nas-redes-sociais-e-flavio-amplia-apoio-politico)_
 
+- **[2026-10-08 16:17 UTC]** Lula perde votos no berço do Fome Zero, no Piauí; Flávio Bolsonaro cresce em reduto bolsonarista no Sul
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/votacao-lula-flavio-bolsonaro-redutos-1-turno-2026.ghtml)_
+
