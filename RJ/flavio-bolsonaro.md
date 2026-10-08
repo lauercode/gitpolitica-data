@@ -4771,3 +4771,6 @@
 - **[2026-10-08 10:28 UTC]** Flávio Bolsonaro defende que, se eleito, fim da reeleição se aplique a seu mandato e fala em veto a Jair
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-defender-que-se-eleito-fim-da-reeleicao-se-aplique-para-seu-mandato.shtml)_
 
+- **[2026-10-08 10:18 UTC]** Podemos confirma apoio a Flávio Bolsonaro, que soma aliança com 5 partidos no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/podemos-confirma-apoio-a-flavio-bolsonaro-que-soma-alianca-com-5-partidos-no-segundo-turno.shtml)_
+
