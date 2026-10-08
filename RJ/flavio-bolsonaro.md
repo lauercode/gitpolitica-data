@@ -4898,3 +4898,6 @@
 - **[2026-10-08 18:46 UTC]** Cleitinho busca compromisso de Flávio para renegociar dívida de Minas Gerais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/cleitinho-busca-compromisso-de-flavio-para-renegociar-divida-de-minas-gerais.ghtml)_
 
+- **[2026-10-08 17:26 UTC]** Campanha de Flávio Bolsonaro já negocia espaços em ministérios
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/em-clima-de-ja-ganhou-campanha-de-flavio-negocia-espacos-na-esplanada-e-calcula-divisao-no-congresso.ghtml)_
+
