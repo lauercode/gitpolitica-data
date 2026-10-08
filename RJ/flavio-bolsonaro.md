@@ -4768,3 +4768,6 @@
 - **[2026-10-08 10:43 UTC]** Flávio gera suspeita ao se propor a redemocratizar o país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/flavio-gera-suspeita-ao-se-propor-a-redemocratizar-o-pais.shtml)_
 
+- **[2026-10-08 10:28 UTC]** Flávio Bolsonaro defende que, se eleito, fim da reeleição se aplique a seu mandato e fala em veto a Jair
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-defender-que-se-eleito-fim-da-reeleicao-se-aplique-para-seu-mandato.shtml)_
+
