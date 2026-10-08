@@ -4756,3 +4756,6 @@
 - **[2026-10-08 13:35 UTC]** Contradições do discurso econômico de Flávio expõem dúvidas no ajuste fiscal prometido pelo candidato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/contradicoes-do-discurso-economico-de-flavio-expoem-duvidas-no-ajuste-fiscal-prometido-pelo-candidato.shtml)_
 
+- **[2026-10-08 13:10 UTC]** Lula diz que plano de ajuste de Flávio Bolsonaro é para 'cortar do sangue do povo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-diz-que-plano-de-ajuste-de-flavio-bolsonaro-e-para-cortar-do-sangue-do-povo.shtml)_
+
