@@ -4678,3 +4678,6 @@
 - **[2026-10-07 23:44 UTC]** Após aliança com Flávio, Marcos Pereira declara ‘apoio incondicional’ à reeleição de Motta
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/aps-aliana-com-flvio-marcos-pereira-declara-apoio-incondicional-reeleio-de-motta.ghtml)_
 
+- **[2026-10-07 22:53 UTC]** Cleitinho confirma apoio a Flávio Bolsonaro no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/cleitinho-confirma-apoio-a-flavio-bolsonaro-no-2o-turno.ghtml)_
+
