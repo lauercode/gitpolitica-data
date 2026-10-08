@@ -4608,3 +4608,6 @@
 - **[2026-10-07 18:02 UTC]** Nunes Marques diz que deve enviar caso de Bolsonaro ao plenário após eleição
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/nunes-marques-diz-que-deve-enviar-caso-de-bolsonaro-ao-plenario-apos-eleicao.ghtml)_
 
+- **[2026-10-07 19:20 UTC]** Flávio Bolsonaro recebe apoio de partidos e fala em mudar Constituição
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-recebe-apoio-de-partidos-e-fala-em-mudar-constituicao)_
+
