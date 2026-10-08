@@ -20,3 +20,6 @@
 - **[2026-10-08 17:47 UTC]** 'Ainda há tempo de a esquerda dominar as redes sociais', diz deputada mineira Ana Elisa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/08/ana-elisa-entrevista-estudio-i.ghtml)_
 
+- **[2026-10-08 16:46 UTC]** Ana Elisa vê ameaça à democracia com Flávio e diz que ódio ao PT influencia eleitor
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/ana-elisa-ve-ameaca-a-democracia-com-flavio-e-diz-que-odio-ao-pt-influencia-eleitor.ghtml)_
+
