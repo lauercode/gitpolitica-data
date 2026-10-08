@@ -26,3 +26,6 @@
 - **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Nova Olinda do Maranhão (MA): votação para presidente no Centro Educacional João Paulo I, na 80ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nova-olinda-do-maranhao-ma-votacao-para-presidente-no-centro-educacional-joao-paulo-i-na-80a-zona-eleitoral.ghtml)_
 
+- **[2026-10-08 19:38 UTC]** Resultado das eleições 2026 em Lagoa Grande do Maranhão (MA): votação para presidente na Escola Municipal João Paulo Ii, na 74ª zona eleitoral
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/08/resultado-das-eleicoes-2026-em-lagoa-grande-do-maranhao-ma-votacao-para-presidente-na-escola-municipal-joao-paulo-ii-na-74a-zona-eleitoral.ghtml)_
+
