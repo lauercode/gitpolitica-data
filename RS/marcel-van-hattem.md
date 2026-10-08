@@ -29,3 +29,6 @@
 - **[2026-10-04 22:42 UTC]** No RS, Sanderson (PL) e Marcel van Hattem (Novo) são eleitos para o Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-rs-sanderson-pl-e-marcel-van-hattem-novo-sao-eleitos-para-o-senado.ghtml)_
 
+- **[2026-10-08 02:49 UTC]** Van Hattem diz a Gilmar que pedirá seu impeachment no Senado em 2027
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/van-hattem-diz-a-gilmar-que-pedira-seu-impeachment-no-senado-em-2027/)_
+
