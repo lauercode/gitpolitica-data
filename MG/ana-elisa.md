@@ -11,3 +11,6 @@
 - **[2026-10-05 19:01 UTC]** Ana Elisa, deputada mineira eleita com 21 anos, é a mais jovem brasileira na Câmara desde pelo menos 1994
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/ana-elisa-deputada-mineira-eleita-com-21-anos-e-a-mais-jovem-brasileira-na-camara-desde-1994.ghtml)_
 
+- **[2026-10-08 13:01 UTC]** Deputada federal eleita Ana Elisa denuncia ameaças durante a campanha
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/deputada-federal-eleita-ana-elisa-denuncia-ameacas-durante-campanha)_
+
