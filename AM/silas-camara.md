@@ -1400,3 +1400,6 @@ direitos
 - **[2026-10-08 16:19 UTC]** Justiça suspende eleição da Mesa Diretora da Câmara de Serra Branca, na PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/08/justica-suspende-eleicao-da-mesa-diretora-da-camara-de-serra-branca-na-pb.ghtml)_
 
+- **[2026-10-08 14:37 UTC]** Câmara de Mossoró anuncia concurso público com 24 vagas e salários de até R$ 8,8 mil; veja como se inscrever
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/08/camara-de-mossoro-anuncia-concurso-publico-com-24-vagas-e-salarios-de-ate-r-88-mil-veja-como-se-inscrever.ghtml)_
+
