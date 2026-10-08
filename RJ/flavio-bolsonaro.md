@@ -4874,3 +4874,6 @@
 - **[2026-10-08 17:30 UTC]** Flávio propõe fim da reeleição com mandato de 5 anos por emenda à Constituição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-fim-reeleicao-mandato-5-anos-emenda-constituicao/)_
 
+- **[2026-10-08 16:54 UTC]** Podemos oficializa apoio a Flávio Bolsonaro no 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/podemos-oficializa-apoio-a-flavio-bolsonaro-no-2o-turno/)_
+
