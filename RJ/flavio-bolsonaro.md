@@ -4871,3 +4871,6 @@
 - **[2026-10-08 18:59 UTC]** Defensor de “fake news”, Janones quer tropa digital de 3 milhões para ajudar Lula contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/janones-milicia-digital-lula/)_
 
+- **[2026-10-08 17:30 UTC]** Flávio propõe fim da reeleição com mandato de 5 anos por emenda à Constituição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-fim-reeleicao-mandato-5-anos-emenda-constituicao/)_
+
