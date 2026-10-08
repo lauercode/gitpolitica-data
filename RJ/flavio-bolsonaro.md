@@ -4706,3 +4706,6 @@
 - **[2026-10-08 00:51 UTC]** Site distribui criptomoedas em troca de divulgação de conteúdo que incentiva voto em Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/site-distribui-criptomoedas-em-troca-de-divulgacao-de-conteudo-que-incentiva-voto-em-flavio-bolsonaro.shtml)_
 
+- **[2026-10-08 08:52 UTC]** O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss)_
+
