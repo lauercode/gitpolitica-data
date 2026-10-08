@@ -4684,3 +4684,6 @@
 - **[2026-10-07 22:38 UTC]** Flávio recebe apoio do Republicanos e do Novo para segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/republicanos-formaliza-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-07 22:06 UTC]** Durigan rebate campanha de Flávio: acabar com split payment 'é favorecer quem frauda'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/durigan-rebate-campanha-de-flavio-acabar-com-split-payment-e-favorecer-quem-frauda.ghtml)_
+
