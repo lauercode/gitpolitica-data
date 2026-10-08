@@ -4669,3 +4669,6 @@
 - **[2026-10-07 19:20 UTC]** Republicanos oficializa apoio a Flávio Bolsonaro no segundo turno da eleição presidencial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/republicanos-oficializa-apoio-a-flavio-bolsonaro-no-segundo-turno-da-eleicao-presidencial.shtml)_
 
+- **[2026-10-08 00:56 UTC]** Flávio Bolsonaro avalia caminhos jurídicos para reverter condenações da família
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-avalia-caminhos-juridicos-para-reverter-condenacoes-da-familia/)_
+
