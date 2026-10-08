@@ -164,3 +164,6 @@
 - **[2026-10-07 21:02 UTC]** Vice de Cleitinho vai coordenar equipe de transição em Minas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/vice-de-cleitinho-vai-coordenar-equipe-de-transicao-em-minas.ghtml)_
 
+- **[2026-10-07 22:53 UTC]** Cleitinho confirma apoio a Flávio Bolsonaro no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/cleitinho-confirma-apoio-a-flavio-bolsonaro-no-2o-turno.ghtml)_
+
