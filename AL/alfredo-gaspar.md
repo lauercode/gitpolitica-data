@@ -23,3 +23,6 @@
 - **[2026-10-04 15:33 UTC]** Alfredo Gaspar, candidato a vice-presidência com Flávio Bolsonaro, vota em Maceió
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/04/alfredo-gaspar-candidato-a-vice-presidencia-com-flavio-bolsonaro-vota-em-maceio.ghtml)_
 
+- **[2026-10-08 09:00 UTC]** Quem é Alfredo Gaspar, vice na chapa de Flávio Bolsonaro?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml)_
+
