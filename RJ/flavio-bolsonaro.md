@@ -4648,3 +4648,6 @@
 - **[2026-10-07 22:19 UTC]** Valdemar volta a admitir que houve discussão para tentativa de golpe no fim do governo Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/valdemar-volta-a-admitir-que-houve-discussao-para-tentativa-de-golpe-no-fim-do-governo-bolsonaro.shtml)_
 
+- **[2026-10-07 22:06 UTC]** Kassio libera propagandas da campanha de Flávio que associam Lula a Moraes, caso INSS e cassinos ilegais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-libera-propagandas-da-campanha-de-flavio-que-associam-lula-a-moraes-caso-inss-e-cassinos-ilegais.shtml)_
+
