@@ -4850,3 +4850,6 @@
 - **[2026-10-08 16:27 UTC]** Autor de impeachment da Dilma e ex-ministro de FHC declara voto em Lula: 'Flávio é precipício'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/autor-de-impeachtment-da-dilma-declara-voto-em-lula-flavio-e-precipicio.shtml)_
 
+- **[2026-10-08 16:08 UTC]** Flávio defende emendas em reunião fechada com políticos e diz saber 'como é suado conseguir voto'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-defende-emendas-em-reuniao-fechada-com-politicos-e-diz-saber-como-e-suado-conseguir-voto.shtml)_
+
