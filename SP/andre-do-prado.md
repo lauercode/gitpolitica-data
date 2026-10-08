@@ -74,3 +74,6 @@
 - **[2026-10-04 22:50 UTC]** Guilherme Derrite (PP) e André do Prado (PL) são eleitos senadores por São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/guilherme-derrite-pp-e-andre-do-prado-pl-sao-eleitos-senadores-por-sao-paulo.ghtml)_
 
+- **[2026-10-08 06:00 UTC]** PL e Republicanos já disputam presidência da Alesp, após saída de André do Prado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pl-e-republicanos-ja-disputam-presidencia-da-alesp-apos-saida-de-andre-do-prado.shtml)_
+
