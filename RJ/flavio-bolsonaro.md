@@ -4789,3 +4789,6 @@
 - **[2026-10-08 12:01 UTC]** Flávio x Lula: as movimentações políticas no início do segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-x-lula-as-movimentacoes-politicas-na-reta-final-do-pleito/)_
 
+- **[2026-10-08 11:53 UTC]** Caso vença, Flávio quer discutir fim da reeleição e união de pleitos
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/coluna-esplanada/caso-venca-flavio-quer-discutir-fim-da-reeleicao-e-uniao-de-pleitos/)_
+
