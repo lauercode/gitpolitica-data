@@ -59,3 +59,6 @@
 - **[2026-10-04 23:46 UTC]** Mailza Assis e Alan Rick vão para o 2º turno no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/mailza-assis-e-alan-rick-vao-para-o-2o-turno-no-acre.ghtml)_
 
+- **[2026-10-08 20:59 UTC]** Nova pesquisa Quaest no Acre para segundo turno mede distância entre Mailza Assis e Alan Rick
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/nova-pesquisa-quaest-no-acre-para-segundo-turno-mede-distancia-entre-mailza-assis-e-alan-rick.ghtml)_
+
