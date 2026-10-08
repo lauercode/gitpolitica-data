@@ -554,3 +554,6 @@
 - **[2026-10-06 07:00 UTC]** Morte do cantor Rick: investigação busca câmera e celulares que estavam com vítimas no helicóptero para esclarecer acidente
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/06/morte-do-cantor-rick-investigacao-camera-celulares-estavam-vitimas-helicoptero.ghtml)_
 
+- **[2026-10-08 16:11 UTC]** Após morte de Rick, Renner anuncia carreira solo e promete preservar repertório da dupla
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/10/apos-morte-de-rick-renner-anuncia-carreira-solo-e-promete-preservar-repertorio-da-dupla.shtml)_
+
