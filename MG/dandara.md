@@ -14,3 +14,6 @@
 - **[2026-10-07 23:26 UTC]** Imagem mostra modelo Dandara Couto quando foi vista pela última vez antes de desaparecer em SP
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sp/sao-paulo/noticia/2026/10/07/imagem-mostra-modelo-dandara-couto-quando-foi-vista-pela-ultima-vez-antes-de-desaparecer-em-sp.ghtml)_
 
+- **[2026-10-08 12:00 UTC]** Dandara Couto foi encontrada. Redes celebram, mas pedem explicações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/10/dandara-couto-foi-encontrada-redes-celebram-mas-pedem-explicacoes.shtml)_
+
