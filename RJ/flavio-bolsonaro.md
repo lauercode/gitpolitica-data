@@ -4627,3 +4627,6 @@
 'mal-estar' e internação no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
 
+- **[2026-10-07 23:00 UTC]** Flávio considera mudar correção da Previdência, da saúde e da educação para obter até R$ 250 bi
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-considera-mudar-correcao-da-previdencia-da-saude-e-da-educacao-para-obter-ate-r-250-bi.shtml)_
+
