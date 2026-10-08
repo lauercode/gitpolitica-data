@@ -4804,3 +4804,6 @@
 - **[2026-10-08 21:41 UTC]** É #FAKE vídeo de Flávio Bolsonaro dizendo que, se eleito, vai cortar 13° e aposentadorias; fala foi manipulada com IA
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/08/e-fake-video-de-flavio-bolsonaro-dizendo-que-se-eleito-vai-cortar-13-e-aposentadorias-fala-foi-manipulada-com-ia.ghtml)_
 
+- **[2026-10-08 21:26 UTC]** Tropa de Flávio Bolsonaro x Exército de Lula: aliados de candidatos mobilizam eleitores nas redes para atrair votos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/flavio-bolsonaro-lula-campanha-redes-sociais.ghtml)_
+
