@@ -4895,3 +4895,6 @@
 - **[2026-10-08 19:15 UTC]** Ministros do STF minimizam declarações de Flávio sobre Constituição e querem aguardar definição da eleição
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/08/ministros-do-stf-minimizam-declaraes-de-flvio-sobre-constituio-e-querem-aguardar-definio-da-eleio.ghtml)_
 
+- **[2026-10-08 18:46 UTC]** Cleitinho busca compromisso de Flávio para renegociar dívida de Minas Gerais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/cleitinho-busca-compromisso-de-flavio-para-renegociar-divida-de-minas-gerais.ghtml)_
+
