@@ -4740,3 +4740,6 @@
 - **[2026-10-08 15:08 UTC]** Cleitinho diverge da campanha de Flávio e defende fim da escala 6x1 ao declarar apoio ao candidato do PL no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/cleitinho-diverge-da-campanha-de-flavio-e-defende-fim-da-escala-6x1-ao-declarar-apoio-ao-candidato-do-pl-no-2o-turno.ghtml)_
 
+- **[2026-10-08 13:40 UTC]** Primeiro Datafolha do 2º turno será termômetro das campanhas, com Flávio esperando aumentar distância para Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/08/primeiro-datafolha-do-2o-turno-sera-termometro-das-campanhas-com-flavio-esperando-aumentar-distancia-para-lula.ghtml)_
+
