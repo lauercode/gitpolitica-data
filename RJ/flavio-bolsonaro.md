@@ -4807,3 +4807,6 @@
 - **[2026-10-08 21:26 UTC]** Tropa de Flávio Bolsonaro x Exército de Lula: aliados de candidatos mobilizam eleitores nas redes para atrair votos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/flavio-bolsonaro-lula-campanha-redes-sociais.ghtml)_
 
+- **[2026-10-08 20:17 UTC]** MDB planeja ato para declarar apoio de  16 diretórios estaduais a Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/08/mdb-planeja-ato-para-declarar-apoio-de-diretorios-estaduais-a-flavio-bolsonaro.ghtml)_
+
