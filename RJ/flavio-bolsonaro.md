@@ -4862,3 +4862,6 @@
 - **[2026-10-08 14:52 UTC]** MDB marca para terça-feira anúncio de apoio a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/mdb-marca-para-terca-feira-anuncio-de-apoio-a-flavio.shtml)_
 
+- **[2026-10-08 14:29 UTC]** Renan Santos modula discurso e interage com 'esquerdistas' como contraponto a Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-modula-discurso-e-interage-com-esquerdistas-como-contraponto-a-flavio.shtml)_
+
