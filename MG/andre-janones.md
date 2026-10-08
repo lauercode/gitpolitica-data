@@ -32,3 +32,6 @@
 - **[2026-10-07 00:01 UTC]** Janones reúne 1 milhão em tropa digital e quer mostrar Lula com mais calçada e menos helicóptero
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-reune-1-milhao-em-tropa-digital-e-quer-mostrar-lula-com-mais-calcada-e-menos-helicoptero.shtml)_
 
+- **[2026-10-08 18:59 UTC]** Defensor de “fake news”, Janones quer tropa digital de 3 milhões para ajudar Lula contra Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/janones-milicia-digital-lula/)_
+
