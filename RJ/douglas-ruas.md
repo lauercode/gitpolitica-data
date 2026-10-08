@@ -74,3 +74,6 @@
 - **[2026-10-08 14:01 UTC]** Quem é Douglas Ruas, governador virtualmente eleito do RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-e-douglas-ruas-governador-virtualmente-eleito-do-rj.shtml)_
 
+- **[2026-10-08 18:28 UTC]** Quem é Douglas Ruas, que deve ser o próximo governador do Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/quem-e-douglas-ruas-que-deve-ser-o-proximo-governador-do-rio.ghtml)_
+
