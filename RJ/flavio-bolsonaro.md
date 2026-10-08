@@ -4725,3 +4725,6 @@
 'mal-estar' e internação no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
 
+- **[2026-10-08 09:58 UTC]** Lula reforça campanha nas redes sociais e Flávio amplia apoio político
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-reforca-campanha-nas-redes-sociais-e-flavio-amplia-apoio-politico)_
+
