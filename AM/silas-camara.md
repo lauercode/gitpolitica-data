@@ -1397,3 +1397,6 @@ direitos
 - **[2026-10-08 00:24 UTC]** Nova bancada do PL deixa Hugo Motta com dias contados na presidência da Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nova-bancada-do-pl-deixa-hugo-motta-com-dias-contados-na-presidencia-da-camara/)_
 
+- **[2026-10-08 16:19 UTC]** Justiça suspende eleição da Mesa Diretora da Câmara de Serra Branca, na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/08/justica-suspende-eleicao-da-mesa-diretora-da-camara-de-serra-branca-na-pb.ghtml)_
+
