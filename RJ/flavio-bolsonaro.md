@@ -4620,3 +4620,6 @@
 - **[2026-10-07 22:51 UTC]** Flávio Bolsonaro volta a falar em 'redemocratizar' o Brasil: 'instituições têm que voltar a ser respeitadas'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-bolsonaro-volta-a-falar-em-redemocratizar-o-brasil-instituicoes-precisam-voltar-a-ser-respeitadas.ghtml)_
 
+- **[2026-10-07 22:22 UTC]** Republicanos declara apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/republicanos-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
