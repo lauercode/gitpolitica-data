@@ -4718,3 +4718,6 @@
 - **[2026-10-08 08:00 UTC]** Flávio defende PEC para reforma do Judiciário
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/08/flavio-defende-pec-para-reforma-do-judiciario.ghtml)_
 
+- **[2026-10-08 04:50 UTC]** Domínio de Flávio entre evangélicos cresceu no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/10/dominio-de-flavio-entre-evangelicos-cresceu-no-primeiro-turno.ghtml)_
+
