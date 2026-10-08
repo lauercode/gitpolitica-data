@@ -4690,3 +4690,6 @@
 - **[2026-10-07 18:02 UTC]** Nunes Marques diz que revisão criminal de Bolsonaro ficará para depois do segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/nunes-marques-diz-que-deve-enviar-caso-de-bolsonaro-ao-plenario-apos-eleicao.ghtml)_
 
+- **[2026-10-08 03:00 UTC]** Em 2 cidades, Flávio Bolsonaro e Lula tiveram o exato mesmo número de votos para presidente no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/votos-flavio-bolsonaro-lula-cidades-empate.ghtml)_
+
