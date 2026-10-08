@@ -80,3 +80,6 @@
 - **[2026-10-05 20:45 UTC]** Flávio Bolsonaro ganha terreno sobre Lula na periferia de SP; veja mapa de votação por zona eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-ganha-terreno-sobre-lula-na-periferia-de-sp-veja-mapa-de-votacao-por-zona-eleitoral.shtml)_
 
+- **[2026-10-08 17:08 UTC]** Campanha de Lula muda comando nos Estados e Haddad assume coordenação em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/08/campanha-de-lula-muda-comando-nos-estados-e-haddad-assume-coordenacao-em-sp.ghtml)_
+
