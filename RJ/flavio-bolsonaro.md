@@ -4693,3 +4693,6 @@
 - **[2026-10-08 03:00 UTC]** Em 2 cidades, Flávio Bolsonaro e Lula tiveram o exato mesmo número de votos para presidente no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/votos-flavio-bolsonaro-lula-cidades-empate.ghtml)_
 
+- **[2026-10-08 03:00 UTC]** Lula perde terreno nas cidades pequenas, enquanto Flávio Bolsonaro avança no interior
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/lula-perde-terreno-nas-cidades-pequenas-enquanto-flavio-bolsonaro-avanca-no-interior.ghtml)_
+
