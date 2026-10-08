@@ -41,3 +41,6 @@
 - **[2026-10-05 02:32 UTC]** Republicanos elege três deputados na Paraíba; Hugo Motta é reeleito
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1307828-republicanos-elege-tres-deputados-na-paraiba-hugo-motta-e-reeleito)_
 
+- **[2026-10-08 00:24 UTC]** Nova bancada do PL deixa Hugo Motta com dias contados na presidência da Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nova-bancada-do-pl-deixa-hugo-motta-com-dias-contados-na-presidencia-da-camara/)_
+
