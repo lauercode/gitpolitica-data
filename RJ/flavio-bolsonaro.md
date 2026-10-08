@@ -4801,3 +4801,6 @@
 - **[2026-10-08 21:41 UTC]** Augusto Cury declara apoio a Flávio Bolsonaro no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/augusto-cury-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-08 21:41 UTC]** É #FAKE vídeo de Flávio Bolsonaro dizendo que, se eleito, vai cortar 13° e aposentadorias; fala foi manipulada com IA
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/08/e-fake-video-de-flavio-bolsonaro-dizendo-que-se-eleito-vai-cortar-13-e-aposentadorias-fala-foi-manipulada-com-ia.ghtml)_
+
