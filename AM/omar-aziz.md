@@ -119,3 +119,6 @@
 - **[2026-10-06 22:17 UTC]** Liderado por David Almeida, Avante anuncia apoio a Omar Aziz no segundo turno das Eleições 2026
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/06/liderado-por-david-almeida-avante-anuncia-apoio-a-omar-aziz-no-segundo-turno-das-eleicoes-2026.ghtml)_
 
+- **[2026-10-08 21:04 UTC]** Rede Amazônica define cobertura e entrevistas com Omar Aziz e Maria do Carmo no 2º turno para o governo do AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/08/rede-amazonica-define-cobertura-e-entrevistas-com-omar-aziz-e-maria-do-carmo-no-2o-turno-para-o-governo-do-am.ghtml)_
+
