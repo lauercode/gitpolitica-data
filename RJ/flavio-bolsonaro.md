@@ -4672,3 +4672,6 @@
 - **[2026-10-08 00:56 UTC]** Flávio Bolsonaro avalia caminhos jurídicos para reverter condenações da família
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-avalia-caminhos-juridicos-para-reverter-condenacoes-da-familia/)_
 
+- **[2026-10-07 23:34 UTC]** Republicanos anuncia apoio a Flávio Bolsonaro no 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/republicanos-anuncia-apoio-a-flavio-bolsonaro-no-2o-turno/)_
+
