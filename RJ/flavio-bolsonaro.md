@@ -4892,3 +4892,6 @@
 - **[2026-10-08 19:43 UTC]** Durigan diz que ajuste fiscal de Flávio Bolsonaro é ‘ilusão barata e vazia e mercado está comprando’
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/08/durigan-diz-que-ajuste-fiscal-de-flvio-bolsonaro-iluso-barata-e-vazia-e-mercado-est-comprando.ghtml)_
 
+- **[2026-10-08 19:15 UTC]** Ministros do STF minimizam declarações de Flávio sobre Constituição e querem aguardar definição da eleição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/08/ministros-do-stf-minimizam-declaraes-de-flvio-sobre-constituio-e-querem-aguardar-definio-da-eleio.ghtml)_
+
