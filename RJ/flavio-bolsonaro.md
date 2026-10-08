@@ -4703,3 +4703,6 @@
 - **[2026-10-08 04:03 UTC]** Flávio Bolsonaro vence em 9 de cada 10 cidades mais afetadas por tarifaço dos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-vence-em-9-de-cada-10-cidades-mais-afetadas-por-tarifaco-dos-eua.shtml)_
 
+- **[2026-10-08 00:51 UTC]** Site distribui criptomoedas em troca de divulgação de conteúdo que incentiva voto em Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/site-distribui-criptomoedas-em-troca-de-divulgacao-de-conteudo-que-incentiva-voto-em-flavio-bolsonaro.shtml)_
+
