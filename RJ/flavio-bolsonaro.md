@@ -4838,3 +4838,6 @@
 - **[2026-10-08 17:35 UTC]** Fux pede acesso a processo de Bolsonaro para analisar supostas irregularidades em atos de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fux-pede-acesso-a-processos-da-trama-golpista-para-analisar-supostas-irregularidades-em-atos-de-moraes.shtml)_
 
+- **[2026-10-08 17:30 UTC]** Governador do PP diz que fará campanha para Lula apesar de apoio do partido a Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governador-do-pp-diz-que-fara-campanha-para-lula-apesar-de-apoio-do-partido-a-flavio.shtml)_
+
