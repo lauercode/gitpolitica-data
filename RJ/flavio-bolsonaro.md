@@ -4856,3 +4856,6 @@
 - **[2026-10-08 15:08 UTC]** Emendas parlamentares de Flávio Bolsonaro pagam empresas acusadas de cartel pela PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/emendas-parlamentares-de-flavio-bolsonaro-pagam-empresas-acusadas-de-cartel-pela-pf.shtml)_
 
+- **[2026-10-08 14:58 UTC]** MDB anunciará apoio a Flávio Bolsonaro na terça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/mdb-anunciara-apoio-a-flavio-bolsonaro-na-terca.shtml)_
+
