@@ -170,3 +170,6 @@
 - **[2026-10-07 22:35 UTC]** 'Não vou declarar apoio a presidente da República', diz Raquel Lyra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nao-vou-declarar-apoio-a-presidente-da-republica-diz-raquel-lyra.shtml)_
 
+- **[2026-10-08 08:00 UTC]** Raquel Lyra nega ressentimento e reafirma neutralidade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/raquel-lyra-nega-ressentimento-e-reafirma-neutralidade.ghtml)_
+
