@@ -4731,3 +4731,6 @@
 - **[2026-10-08 16:17 UTC]** Lula perde votos no berço do Fome Zero, no Piauí; Flávio Bolsonaro cresce em reduto bolsonarista no Sul
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/votacao-lula-flavio-bolsonaro-redutos-1-turno-2026.ghtml)_
 
+- **[2026-10-08 15:57 UTC]** Site oferece criptomoeda a quem divulgar conteúdo que defende voto em Flávio Bolsonaro; lei eleitoral proíbe remuneração por propaganda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/site-criptomoeda-voto-flavio-bolsonaro-lei-eleitoral.ghtml)_
+
