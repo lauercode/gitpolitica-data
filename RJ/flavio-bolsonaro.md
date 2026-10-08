@@ -4614,3 +4614,6 @@
 - **[2026-10-07 19:48 UTC]** Lula e Flávio Bolsonaro dedicam agendas a reuniões em Brasília
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-e-flavio-bolsonaro-dedicam-agenda-reunioes-em-brasilia)_
 
+- **[2026-10-07 21:00 UTC]** STF julgará revisão criminal de Bolsonaro após eleições, diz relator
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/stf-julgara-revisao-criminal-de-bolsonaro-apos-eleicoes-diz-relator)_
+
