@@ -4743,3 +4743,6 @@
 - **[2026-10-08 13:40 UTC]** Primeiro Datafolha do 2º turno será termômetro das campanhas, com Flávio esperando aumentar distância para Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/08/primeiro-datafolha-do-2o-turno-sera-termometro-das-campanhas-com-flavio-esperando-aumentar-distancia-para-lula.ghtml)_
 
+- **[2026-10-08 13:20 UTC]** Flávio diz que quer fim da reeleição e fala em mandato para ele de 5 anos com emenda à Constituição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/08/flavio-reforca-que-se-eleito-quer-fim-reeleicao-ja-em-seu-governo.ghtml)_
+
