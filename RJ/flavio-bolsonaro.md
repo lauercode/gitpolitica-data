@@ -4660,3 +4660,6 @@
 - **[2026-10-07 21:16 UTC]** Imobilismo ou estelionato eleitoral nos programas econômicos de Flávio e Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/imobilismo-ou-estelionato-eleitoral-nos-programas-economicos-de-flavio-e-lula.shtml)_
 
+- **[2026-10-07 20:36 UTC]** Críticas de aliados a Janja se intensificam após Lula terminar primeiro turno atrás de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/criticas-de-aliados-a-janja-se-intensificam-apos-lula-terminar-primeiro-turno-atras-de-flavio-bolsonaro.shtml)_
+
