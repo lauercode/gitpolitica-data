@@ -1412,3 +1412,6 @@ direitos
 - **[2026-10-08 18:04 UTC]** Dia de eleição para presidente da Câmara de Belém tem confusão, portões fechados; justiça suspende votação
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/08/dia-de-eleicao-para-presidente-da-camara-de-belem-tem-confusao-portoes-fechados-justica-suspende-votacao.ghtml)_
 
+- **[2026-10-08 19:47 UTC]** Paraíba elege 10 parlamentares milionários para a Câmara dos Deputados; veja a lista
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/08/paraiba-elege-10-parlamentares-milionarios-para-a-camara-dos-deputados.ghtml)_
+
