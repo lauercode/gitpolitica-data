@@ -4681,3 +4681,6 @@
 - **[2026-10-07 22:53 UTC]** Cleitinho confirma apoio a Flávio Bolsonaro no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/cleitinho-confirma-apoio-a-flavio-bolsonaro-no-2o-turno.ghtml)_
 
+- **[2026-10-07 22:38 UTC]** Flávio recebe apoio do Republicanos e do Novo para segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/republicanos-formaliza-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
