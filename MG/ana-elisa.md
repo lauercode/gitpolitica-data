@@ -17,3 +17,6 @@
 - **[2026-10-08 13:15 UTC]** Ana Elisa: veja curiosidades da influenciadora, a mais jovem deputada eleita em MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/ana-elisa-veja-curiosidades-da-influenciadora-a-mais-jovem-deputada-eleita-em-mg.shtml)_
 
+- **[2026-10-08 17:47 UTC]** 'Ainda há tempo de a esquerda dominar as redes sociais', diz deputada mineira Ana Elisa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/08/ana-elisa-entrevista-estudio-i.ghtml)_
+
