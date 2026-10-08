@@ -104,3 +104,6 @@
 - **[2026-10-05 20:53 UTC]** Deltan Dallagnol e Filipe Barros, eleitos senadores pelo Paraná, propõem 'reforma do Judiciário' e 'impeachment de ministro' em 2027
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/deltan-dallagnol-e-filipe-barros-eleitos-senadores-pelo-parana-propoem-reforma-do-judiciario-e-impeachment-de-ministro-em-2027.ghtml)_
 
+- **[2026-10-07 20:14 UTC]** TSE julga caso Deltan Dallagnol nesta quinta-feira (8) após votação que o coloca no Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-julga-caso-deltan-dallagnol-nesta-quinta-feira-8-apos-votacao-que-o-coloca-no-senado.shtml)_
+
