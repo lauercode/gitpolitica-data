@@ -1073,3 +1073,6 @@
 - **[2026-10-08 03:00 UTC]** Em 2 cidades, Flávio Bolsonaro e Lula tiveram o exato mesmo número de votos para presidente no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/votos-flavio-bolsonaro-lula-cidades-empate.ghtml)_
 
+- **[2026-10-08 20:44 UTC]** Após apelo por 'mais Alckmin', campanha de Lula planeja mais participações de vice-presidente em entrevistas regionais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/apos-apelo-por-mais-alckmin-campanha-de-lula-planeja-mais-participacoes-de-vice-presidente-em-entrevistas-regionais.ghtml)_
+
