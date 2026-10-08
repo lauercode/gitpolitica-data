@@ -167,3 +167,6 @@
 - **[2026-10-06 19:39 UTC]** Raquel Lyra nega palanque a Lula em PE no segundo turno da eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/raquel-lyra-nega-palanque-lula-pe-segundo-turno-eleicao/)_
 
+- **[2026-10-07 22:35 UTC]** 'Não vou declarar apoio a presidente da República', diz Raquel Lyra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nao-vou-declarar-apoio-a-presidente-da-republica-diz-raquel-lyra.shtml)_
+
