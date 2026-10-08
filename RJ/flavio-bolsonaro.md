@@ -4886,3 +4886,6 @@
 - **[2026-10-08 20:21 UTC]** 15 diretórios estaduais do MDB devem anunciar apoio a Flávio Bolsonaro no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/15-diretorios-estaduais-do-mdb-devem-anunciar-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-08 19:47 UTC]** Suspensão de direitos políticos impede que Eduardo Bolsonaro participe de eventual governo Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/08/suspensao-de-direitos-politicos-impede-que-eduardo-bolsonaro-participe-de-eventual-governo-flavio.ghtml)_
+
