@@ -23,3 +23,6 @@
 - **[2026-10-05 01:25 UTC]** Eleições 2026: Dorinaldo Malafaia (PDT) é eleito deputado federal pelo Amapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-dorinaldo-malafaia-pdt-e-eleito-deputado-federal-pelo-amapa.ghtml)_
 
+- **[2026-10-08 13:23 UTC]** Malafaia sobrevive a avalanche eleitoral que vitimou lideranças religiosas e 'elege' 27
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/malafaia-sobrevive-a-avalanche-eleitoral-que-vitimou-liderancas-religiosas-e-elege-27.shtml)_
+
