@@ -4795,3 +4795,6 @@
 - **[2026-10-08 13:54 UTC]** Flavio Bolsonaro diz que vai fazer ajuste acima da inflação para aposentadorias
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/flavio-bolsonaro-diz-que-vai-fazer-ajuste-acima-da-inflacao-para-aposentadorias.ghtml)_
 
+- **[2026-10-08 21:41 UTC]** Datafolha: Flávio Bolsonaro, 49%; Lula, 45%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidente-8-outubro.ghtml)_
+
