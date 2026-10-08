@@ -557,3 +557,6 @@
 - **[2026-10-08 16:11 UTC]** Após morte de Rick, Renner anuncia carreira solo e promete preservar repertório da dupla
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/10/apos-morte-de-rick-renner-anuncia-carreira-solo-e-promete-preservar-repertorio-da-dupla.shtml)_
 
+- **[2026-10-08 20:59 UTC]** Nova pesquisa Quaest no Acre para segundo turno mede distância entre Mailza Assis e Alan Rick
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/nova-pesquisa-quaest-no-acre-para-segundo-turno-mede-distancia-entre-mailza-assis-e-alan-rick.ghtml)_
+
