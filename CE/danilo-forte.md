@@ -137,3 +137,6 @@
 - **[2026-10-07 21:52 UTC]** Forte ventania é registrada em Porto Velho durante alerta de tempestade; veja vídeo
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/07/forte-ventania-e-registrada-em-porto-velho-durante-alerta-de-tempestade-veja-video.ghtml)_
 
+- **[2026-10-08 00:51 UTC]** Forte incêndio atinge casa no bairro Aleixo, em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/07/forte-incendio-atinge-casa-no-bairro-aleixo-em-manaus.ghtml)_
+
