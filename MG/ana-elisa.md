@@ -14,3 +14,6 @@
 - **[2026-10-08 13:01 UTC]** Deputada federal eleita Ana Elisa denuncia ameaças durante a campanha
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/deputada-federal-eleita-ana-elisa-denuncia-ameacas-durante-campanha)_
 
+- **[2026-10-08 13:15 UTC]** Ana Elisa: veja curiosidades da influenciadora, a mais jovem deputada eleita em MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/ana-elisa-veja-curiosidades-da-influenciadora-a-mais-jovem-deputada-eleita-em-mg.shtml)_
+
