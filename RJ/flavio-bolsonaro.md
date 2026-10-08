@@ -4746,3 +4746,6 @@
 - **[2026-10-08 13:20 UTC]** Flávio diz que quer fim da reeleição e fala em mandato para ele de 5 anos com emenda à Constituição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/08/flavio-reforca-que-se-eleito-quer-fim-reeleicao-ja-em-seu-governo.ghtml)_
 
+- **[2026-10-08 13:06 UTC]** Podemos declara apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/podemos-anuncia-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
