@@ -4611,3 +4611,6 @@
 - **[2026-10-07 19:20 UTC]** Flávio Bolsonaro recebe apoio de partidos e fala em mudar Constituição
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-recebe-apoio-de-partidos-e-fala-em-mudar-constituicao)_
 
+- **[2026-10-07 19:48 UTC]** Lula e Flávio Bolsonaro dedicam agendas a reuniões em Brasília
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-e-flavio-bolsonaro-dedicam-agenda-reunioes-em-brasilia)_
+
