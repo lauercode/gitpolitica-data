@@ -4651,3 +4651,6 @@
 - **[2026-10-07 22:06 UTC]** Kassio libera propagandas da campanha de Flávio que associam Lula a Moraes, caso INSS e cassinos ilegais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-libera-propagandas-da-campanha-de-flavio-que-associam-lula-a-moraes-caso-inss-e-cassinos-ilegais.shtml)_
 
+- **[2026-10-07 22:00 UTC]** Leitora comenta fala de Flávio Bolsonaro sobre mudança na Constituição: 'É uma ditadura anunciada'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/leitora-comenta-fala-de-flavio-bolsonaro-sobre-mudanca-na-constituicao-e-uma-ditadura-anunciada.shtml)_
+
