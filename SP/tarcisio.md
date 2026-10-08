@@ -182,3 +182,6 @@
 - **[2026-10-06 08:00 UTC]** PL avança em SP e Tarcísio terá apoio de 70% da Alesp
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/pl-avanca-em-sp-e-tarcisio-tera-apoio-de-70-da-alesp.ghtml)_
 
+- **[2026-10-08 04:00 UTC]** Tarcísio vence na cracolândia em eleição com virada sobre Haddad na capital de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-vence-na-cracolandia-em-eleicao-com-virada-sobre-haddad-na-capital-de-sp.shtml)_
+
