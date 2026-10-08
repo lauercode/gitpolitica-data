@@ -53,3 +53,6 @@
 - **[2026-10-07 11:09 UTC]** 'Faço campanha, mas não sou vassalo do Lula', diz Eduardo Paes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/faco-campanha-mas-nao-sou-vassalo-do-lula-diz-eduardo-paes.shtml)_
 
+- **[2026-10-08 16:44 UTC]** Eduardo Paes recorrerá ao STF contra anulação de votos de Garotinho
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/eduardo-paes-recorrera-ao-stf-contra-anulacao-de-votos-de-garotinho)_
+
