@@ -1406,3 +1406,6 @@ direitos
 - **[2026-10-08 18:25 UTC]** Concurso da Câmara: sorteio define cargos com vagas para indígenas e quilombolas
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310300-concurso-da-camara-sorteio-define-cargos-com-vagas-para-indigenas-e-quilombolas)_
 
+- **[2026-10-08 20:15 UTC]** Vereador Renan Normando, do MDB, é eleito presidente da Câmara Municipal de Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/08/vereador-renan-normando-do-mdb-e-eleito-presidente-da-camara-municipal-de-belem.ghtml)_
+
