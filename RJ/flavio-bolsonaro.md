@@ -4841,3 +4841,6 @@
 - **[2026-10-08 17:30 UTC]** Governador do PP diz que fará campanha para Lula apesar de apoio do partido a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governador-do-pp-diz-que-fara-campanha-para-lula-apesar-de-apoio-do-partido-a-flavio.shtml)_
 
+- **[2026-10-08 16:49 UTC]** Ricardo Nunes reunirá 38 prefeitos da Grande São Paulo para apoio a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ricardo-nunes-reunira-38-prefeitos-da-grande-sao-paulo-para-apoio-a-flavio-bolsonaro.shtml)_
+
