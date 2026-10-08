@@ -1394,3 +1394,6 @@ direitos
 - **[2026-10-07 19:48 UTC]** Câmara lança concurso com salário inicial de mais de R$ 30 mil
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/concursos-publicos/post/2026/10/camara-lanca-concurso-com-salario-inicial-de-mais-de-r-30-mil.ghtml)_
 
+- **[2026-10-08 00:24 UTC]** Nova bancada do PL deixa Hugo Motta com dias contados na presidência da Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nova-bancada-do-pl-deixa-hugo-motta-com-dias-contados-na-presidencia-da-camara/)_
+
