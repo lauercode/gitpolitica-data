@@ -68,3 +68,6 @@
 - **[2026-10-08 15:33 UTC]** Por que Douglas Ruas pode ganhar eleição para governador do Rio quatro dias depois do 1º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-08 12:38 UTC]** TSE decide anular votos de Garotinho e abre caminho para vitória de Douglas Ruas no RJ
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/tse-julga-candidatura-de-garotinho-em-caso-que-pode-definir-eleicao-do-rj.ghtml)_
+
