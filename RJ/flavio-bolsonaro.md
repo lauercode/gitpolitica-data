@@ -4816,3 +4816,6 @@
 - **[2026-10-08 18:03 UTC]** Quantos votos teve Flávio Bolsonaro no primeiro turno?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/quantos-votos-teve-flavio-bolsonaro-no-primeiro-turno.ghtml)_
 
+- **[2026-10-08 17:06 UTC]** Nas redes, Lula celebra Dia do Nordestino e diz que, se Flávio for eleito, cortará Pé-de-Meia e outros programas sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/nas-redes-lula-celebra-dia-do-nordestino-e-diz-que-se-flavio-for-eleito-cortara-pe-de-meia-e-outros-programas-sociais.ghtml)_
+
