@@ -1403,3 +1403,6 @@ direitos
 - **[2026-10-08 14:37 UTC]** Câmara de Mossoró anuncia concurso público com 24 vagas e salários de até R$ 8,8 mil; veja como se inscrever
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/08/camara-de-mossoro-anuncia-concurso-publico-com-24-vagas-e-salarios-de-ate-r-88-mil-veja-como-se-inscrever.ghtml)_
 
+- **[2026-10-08 18:25 UTC]** Concurso da Câmara: sorteio define cargos com vagas para indígenas e quilombolas
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310300-concurso-da-camara-sorteio-define-cargos-com-vagas-para-indigenas-e-quilombolas)_
+
