@@ -56,3 +56,6 @@
 - **[2026-10-08 16:44 UTC]** Eduardo Paes recorrerá ao STF contra anulação de votos de Garotinho
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/eduardo-paes-recorrera-ao-stf-contra-anulacao-de-votos-de-garotinho)_
 
+- **[2026-10-08 14:07 UTC]** Eduardo Paes recorre ao STF contra anulação de votos de Garotinho no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-paes-afirma-que-vai-recorrer-ao-stf-contra-anulacao-de-votos-de-garotinho-no-rj.shtml)_
+
