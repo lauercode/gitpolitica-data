@@ -4749,3 +4749,7 @@
 - **[2026-10-08 13:06 UTC]** Podemos declara apoio a Flávio Bolsonaro no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/podemos-anuncia-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-07 17:28 UTC]** Coordenador de campanha de Flávio, Rogério Marinho tem alta após 
+'mal-estar' e internação no DF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
+
