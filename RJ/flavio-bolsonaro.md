@@ -4813,3 +4813,6 @@
 - **[2026-10-08 19:40 UTC]** Retomada da propaganda eleitoral terá Flávio Bolsonaro propondo 'mudanças' aos insatisfeitos e Lula defendendo programas sociais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/volta-da-propaganda-eleitoral-flavio-bolsonaro-e-lula.ghtml)_
 
+- **[2026-10-08 18:03 UTC]** Quantos votos teve Flávio Bolsonaro no primeiro turno?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/quantos-votos-teve-flavio-bolsonaro-no-primeiro-turno.ghtml)_
+
