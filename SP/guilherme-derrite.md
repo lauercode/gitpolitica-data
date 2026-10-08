@@ -92,3 +92,6 @@
 - **[2026-10-08 13:43 UTC]** Derrite rejeita Alcolumbre e diz que novo presidente do Senado deve priorizar impeachment no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/derrite-rejeita-alcolumbre-e-diz-que-novo-presidente-do-senado-deve-priorizar-impeachment-no-stf/)_
 
+- **[2026-10-08 19:02 UTC]** Derrite defende fim da reeleição para presidente e diz que Congresso pode discutir mandato de até 6 anos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/08/entrevista-estudio-i-derrite.ghtml)_
+
