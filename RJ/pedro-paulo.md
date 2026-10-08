@@ -521,3 +521,6 @@
 - **[2026-10-07 18:33 UTC]** BusCo lança rotas de São Paulo para Joinville e Itajaí com operação da Catarinense
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/07/busco-lanca-rotas-de-sao-paulo-para-joinville-e-itajai-com-operacao-da-catarinense-1.ghtml)_
 
+- **[2026-10-08 10:37 UTC]** Exposição celebra 30 anos da SPFW com Paulo Borges
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/exposicao-celebra-30-anos-da-spfw-com-paulo-borges.shtml)_
+
