@@ -4774,3 +4774,6 @@
 - **[2026-10-08 10:18 UTC]** Podemos confirma apoio a Flávio Bolsonaro, que soma aliança com 5 partidos no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/podemos-confirma-apoio-a-flavio-bolsonaro-que-soma-alianca-com-5-partidos-no-segundo-turno.shtml)_
 
+- **[2026-10-08 10:00 UTC]** Tarcísio atrela ajustes no secretariado a eventual vitória de Flávio Bolsonaro no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/tarcisio-atrela-ajustes-no-secretariado-a-eventual-vitoria-de-flavio-bolsonaro-no-2o-turno.shtml)_
+
