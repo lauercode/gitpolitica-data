@@ -4798,3 +4798,6 @@
 - **[2026-10-08 21:41 UTC]** Datafolha: Flávio Bolsonaro, 49%; Lula, 45%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidente-8-outubro.ghtml)_
 
+- **[2026-10-08 21:41 UTC]** Augusto Cury declara apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/augusto-cury-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
