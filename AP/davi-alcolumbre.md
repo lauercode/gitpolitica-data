@@ -338,3 +338,6 @@
 - **[2026-10-07 20:07 UTC]** Alcolumbre indica que pode votar fim da 6x1 em dois turnos antes da eleição presidencial
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/alcolumbre-indica-que-pode-votar-fim-da-6x1-em-dois-turnos-antes-da-eleio-presidencial.ghtml)_
 
+- **[2026-10-08 13:43 UTC]** Derrite rejeita Alcolumbre e diz que novo presidente do Senado deve priorizar impeachment no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/derrite-rejeita-alcolumbre-e-diz-que-novo-presidente-do-senado-deve-priorizar-impeachment-no-stf/)_
+
