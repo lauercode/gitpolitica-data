@@ -4835,3 +4835,6 @@
 - **[2026-10-08 17:49 UTC]** Mario Frias articula volta ao comando da Cultura em possível governo de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/mario-frias-articula-volta-ao-comando-da-cultura-em-possivel-governo-de-flavio.shtml)_
 
+- **[2026-10-08 17:35 UTC]** Fux pede acesso a processo de Bolsonaro para analisar supostas irregularidades em atos de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fux-pede-acesso-a-processos-da-trama-golpista-para-analisar-supostas-irregularidades-em-atos-de-moraes.shtml)_
+
