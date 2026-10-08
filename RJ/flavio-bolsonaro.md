@@ -4868,3 +4868,6 @@
 - **[2026-10-08 14:22 UTC]** Deputadas pedem investigação de site que divulga Flávio Bolsonaro em troca de criptomoedas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputadas-pedem-investigacao-de-site-que-divulga-flavio-bolsonaro-em-troca-de-criptomoedas.shtml)_
 
+- **[2026-10-08 18:59 UTC]** Defensor de “fake news”, Janones quer tropa digital de 3 milhões para ajudar Lula contra Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/janones-milicia-digital-lula/)_
+
