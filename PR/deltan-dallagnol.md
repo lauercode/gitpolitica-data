@@ -113,3 +113,6 @@
 - **[2026-10-08 13:00 UTC]** TSE adia julgamento sobre candidatura de Deltan Dallagnol, eleito senador no domingo (4)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-adia-julgamento-sobre-candidatura-de-deltan-dallagnol-eleito-senador-no-domingo-4.shtml)_
 
+- **[2026-10-08 12:10 UTC]** Acompanhe ao vivo: TSE julga candidaturas de Deltan Dallagnol e Anthony Garotinho
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acompanhe-ao-vivo-tse-julga-candidaturas-de-deltan-dallagnol-e-anthony-garotinho/)_
+
