@@ -4715,3 +4715,6 @@
 - **[2026-10-08 08:00 UTC]** Matemática do ajuste fiscal de Flávio pode ser insuficiente
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/08/matematica-do-ajuste-fiscal-de-flavio-pode-ser-insuficiente.ghtml)_
 
+- **[2026-10-08 08:00 UTC]** Flávio defende PEC para reforma do Judiciário
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/08/flavio-defende-pec-para-reforma-do-judiciario.ghtml)_
+
