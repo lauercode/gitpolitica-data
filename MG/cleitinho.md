@@ -167,3 +167,6 @@
 - **[2026-10-07 22:53 UTC]** Cleitinho confirma apoio a Flávio Bolsonaro no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/cleitinho-confirma-apoio-a-flavio-bolsonaro-no-2o-turno.ghtml)_
 
+- **[2026-10-07 22:24 UTC]** Tribunal de Contas suspende reajuste de pedágio em Minas a pedido de Cleitinho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/tribunal-de-contas-suspende-reajuste-de-pedagio-em-minas-a-pedido-de-cleitinho.ghtml)_
+
