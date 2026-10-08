@@ -4696,3 +4696,7 @@
 - **[2026-10-08 03:00 UTC]** Lula perde terreno nas cidades pequenas, enquanto Flávio Bolsonaro avança no interior
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/lula-perde-terreno-nas-cidades-pequenas-enquanto-flavio-bolsonaro-avanca-no-interior.ghtml)_
 
+- **[2026-10-07 17:28 UTC]** Coordenador de campanha de Flávio, Rogério Marinho tem alta após 
+'mal-estar' e internação no DF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
+
