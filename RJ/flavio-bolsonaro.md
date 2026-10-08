@@ -4709,3 +4709,6 @@
 - **[2026-10-08 08:52 UTC]** O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-08 09:00 UTC]** Quem é Alfredo Gaspar, vice na chapa de Flávio Bolsonaro?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml)_
+
