@@ -56,3 +56,6 @@
 - **[2026-10-07 18:40 UTC]** Nova pesquisa Quaest para segundo turno no DF testa chance de Leandro Grass contra Celina Leão
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/nova-pesquisa-quaest-para-segundo-turno-no-df-testa-chance-de-leandro-grass-contra-celina-leao.ghtml)_
 
+- **[2026-10-08 21:09 UTC]** Datafolha no DF, 2º turno: Celina Leão, 55%; Leandro Grass, 37%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/datafolha-df-governador-segundo-turno-8-outubro.ghtml)_
+
