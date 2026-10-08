@@ -4832,3 +4832,6 @@
 - **[2026-10-08 18:02 UTC]** Cury acerta apoio à candidatura de Flávio no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/cury-acerta-apoio-a-candidatura-de-flavio-no-segundo-turno.shtml)_
 
+- **[2026-10-08 17:49 UTC]** Mario Frias articula volta ao comando da Cultura em possível governo de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/mario-frias-articula-volta-ao-comando-da-cultura-em-possivel-governo-de-flavio.shtml)_
+
