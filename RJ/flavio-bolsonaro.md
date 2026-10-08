@@ -4780,3 +4780,6 @@
 - **[2026-10-08 09:00 UTC]** Centrão aposta em vitória de Flávio Bolsonaro para liberar bets após segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/centrao-aposta-em-vitoria-de-flavio-bolsonaro-para-liberar-bets-apos-segundo-turno.shtml)_
 
+- **[2026-10-08 14:23 UTC]** Ricardo Nunes articula e diz esperar apoio do MDB a Flávio no 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ricardo-nunes-articula-e-diz-esperar-apoio-do-mdb-a-flavio-no-segundo-turno/)_
+
