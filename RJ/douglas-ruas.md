@@ -65,3 +65,6 @@
 - **[2026-10-08 15:27 UTC]** Douglas Ruas diz que vai aguardar retotalização após 5 a 2 no TSE para anular votos de Garotinho
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/douglas-ruas-tse-votos-garotinho.ghtml)_
 
+- **[2026-10-08 15:33 UTC]** Por que Douglas Ruas pode ganhar eleição para governador do Rio quatro dias depois do 1º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss)_
+
