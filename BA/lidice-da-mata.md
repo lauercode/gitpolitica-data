@@ -167,3 +167,6 @@
 - **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Boca da Mata (AL): votação para presidente no Colégio São Mateus, na 48ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boca-da-mata-al-votacao-para-presidente-no-colegio-sao-mateus-na-48a-zona-eleitoral.ghtml)_
 
+- **[2026-10-08 13:39 UTC]** MP denuncia ex-secretária e empresário por desmatamento de Mata Atlântica para obra de empreendimento na Grande Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/08/mp-denuncia-desmatamento-mata-atlantica-grande-natal.ghtml)_
+
