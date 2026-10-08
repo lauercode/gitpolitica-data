@@ -4877,3 +4877,6 @@
 - **[2026-10-08 16:54 UTC]** Podemos oficializa apoio a Flávio Bolsonaro no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/podemos-oficializa-apoio-a-flavio-bolsonaro-no-2o-turno/)_
 
+- **[2026-10-08 16:34 UTC]** Quem está à frente nas pesquisas para presidente no 2º turno das Eleições 2026? Veja Lula x Flávio Bolsonaro no agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
