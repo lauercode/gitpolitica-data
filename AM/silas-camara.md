@@ -1409,3 +1409,6 @@ direitos
 - **[2026-10-08 20:15 UTC]** Vereador Renan Normando, do MDB, é eleito presidente da Câmara Municipal de Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/08/vereador-renan-normando-do-mdb-e-eleito-presidente-da-camara-municipal-de-belem.ghtml)_
 
+- **[2026-10-08 18:04 UTC]** Dia de eleição para presidente da Câmara de Belém tem confusão, portões fechados; justiça suspende votação
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/08/dia-de-eleicao-para-presidente-da-camara-de-belem-tem-confusao-portoes-fechados-justica-suspende-votacao.ghtml)_
+
