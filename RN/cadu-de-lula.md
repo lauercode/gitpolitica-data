@@ -137,3 +137,6 @@
 - **[2026-10-08 17:30 UTC]** Governador do PP diz que fará campanha para Lula apesar de apoio do partido a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governador-do-pp-diz-que-fara-campanha-para-lula-apesar-de-apoio-do-partido-a-flavio.shtml)_
 
+- **[2026-10-08 20:20 UTC]** Cadu de Lula diz que vai priorizar geração de empregos e saúde nos primeiros 100 dias de eventual governo
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/08/cadu-de-lula-diz-que-vai-priorizar-geracao-de-empregos-e-saude-nos-primeiros-100-dias-de-eventual-governo.ghtml)_
+
