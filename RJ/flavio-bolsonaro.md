@@ -4847,3 +4847,6 @@
 - **[2026-10-08 16:44 UTC]** Advogado ligado a Lula critica apoio do MDB a Flávio e diz que Baleia manchará biografia se isso ocorrer
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/advogado-ligado-a-lula-critica-apoio-do-mdb-a-flavio-e-diz-que-baleia-manchara-biografia-se-isso-ocorrer.shtml)_
 
+- **[2026-10-08 16:27 UTC]** Autor de impeachment da Dilma e ex-ministro de FHC declara voto em Lula: 'Flávio é precipício'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/autor-de-impeachtment-da-dilma-declara-voto-em-lula-flavio-e-precipicio.shtml)_
+
