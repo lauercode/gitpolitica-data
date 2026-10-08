@@ -110,3 +110,6 @@
 - **[2026-10-08 15:36 UTC]** TSE adia julgamento sobre registro de candidatura de Deltan Dallagnol
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/08/tse-adia-julgamento-sobre-registro-de-candidatura-de-deltan-dallagnol.ghtml)_
 
+- **[2026-10-08 13:00 UTC]** TSE adia julgamento sobre candidatura de Deltan Dallagnol, eleito senador no domingo (4)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-adia-julgamento-sobre-candidatura-de-deltan-dallagnol-eleito-senador-no-domingo-4.shtml)_
+
