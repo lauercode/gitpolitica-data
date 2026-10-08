@@ -134,3 +134,6 @@
 - **[2026-10-07 21:51 UTC]** Cadu de Lula grava programas para o segundo turno e promete ampliar diálogo com eleitor
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/07/cadu-de-lula-grava-programas-para-o-segundo-turno-e-promete-ampliar-dialogo-com-eleitor.ghtml)_
 
+- **[2026-10-08 17:30 UTC]** Governador do PP diz que fará campanha para Lula apesar de apoio do partido a Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governador-do-pp-diz-que-fara-campanha-para-lula-apesar-de-apoio-do-partido-a-flavio.shtml)_
+
