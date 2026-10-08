@@ -4687,3 +4687,6 @@
 - **[2026-10-07 22:06 UTC]** Durigan rebate campanha de Flávio: acabar com split payment 'é favorecer quem frauda'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/durigan-rebate-campanha-de-flavio-acabar-com-split-payment-e-favorecer-quem-frauda.ghtml)_
 
+- **[2026-10-07 18:02 UTC]** Nunes Marques diz que revisão criminal de Bolsonaro ficará para depois do segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/nunes-marques-diz-que-deve-enviar-caso-de-bolsonaro-ao-plenario-apos-eleicao.ghtml)_
+
