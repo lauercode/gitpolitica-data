@@ -116,3 +116,6 @@
 - **[2026-10-08 12:10 UTC]** Acompanhe ao vivo: TSE julga candidaturas de Deltan Dallagnol e Anthony Garotinho
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acompanhe-ao-vivo-tse-julga-candidaturas-de-deltan-dallagnol-e-anthony-garotinho/)_
 
+- **[2026-10-08 16:01 UTC]** TSE adia julgamento sobre validade da candidatura de Deltan Dallagnol ao Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/tse-adia-julgamento-sobre-validade-da-candidatura-de-deltan-dallagnol-ao-senado.ghtml)_
+
