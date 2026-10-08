@@ -4645,3 +4645,6 @@
 - **[2026-10-07 22:27 UTC]** Cotado para Fazenda sob Flávio Bolsonaro, Kayath critica ideia de 'Posto Ipiranga'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/cotado-para-fazenda-sob-flavio-bolsonaro-kayath-critica-ideia-de-posto-ipiranga.shtml)_
 
+- **[2026-10-07 22:19 UTC]** Valdemar volta a admitir que houve discussão para tentativa de golpe no fim do governo Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/valdemar-volta-a-admitir-que-houve-discussao-para-tentativa-de-golpe-no-fim-do-governo-bolsonaro.shtml)_
+
