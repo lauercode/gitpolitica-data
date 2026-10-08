@@ -4904,3 +4904,6 @@
 - **[2026-10-08 17:22 UTC]** Com Podemos, Flávio Bolsonaro reúne apoio de cinco partidos para o segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/com-podemos-flavio-bolsonaro-reune-apoio-de-cinco-partidos-para-o-segundo-turno.ghtml)_
 
+- **[2026-10-08 16:46 UTC]** Ana Elisa vê ameaça à democracia com Flávio e diz que ódio ao PT influencia eleitor
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/ana-elisa-ve-ameaca-a-democracia-com-flavio-e-diz-que-odio-ao-pt-influencia-eleitor.ghtml)_
+
