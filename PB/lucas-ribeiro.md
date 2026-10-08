@@ -113,3 +113,6 @@
 - **[2026-10-07 12:05 UTC]** Lucas Ribeiro diz que vai deixar disputas partidárias da campanha para trás: 'minha bandeira é a da Paraíba'
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/07/lucas-ribeiro-diz-que-vai-deixar-disputas-partidarias-da-campanha-para-tras-minha-bandeira-e-a-da-paraiba.ghtml)_
 
+- **[2026-10-08 10:20 UTC]** Lucas Ribeiro: quais serão os desafios do governador da PB nos próximos quatro anos
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/08/lucas-ribeiro-quais-serao-os-desafios-do-governador-da-pb-nos-proximos-quatro-anos.ghtml)_
+
