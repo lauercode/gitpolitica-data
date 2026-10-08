@@ -4786,3 +4786,6 @@
 - **[2026-10-08 12:58 UTC]** Lula sobe o tom e cobra Flávio Bolsonaro para votar a favor do fim da escala 6×1
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-sobe-tom-cobra-flavio-bolsonaro-votar-a-favor-fim-escala-6x1/)_
 
+- **[2026-10-08 12:01 UTC]** Flávio x Lula: as movimentações políticas no início do segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-x-lula-as-movimentacoes-politicas-na-reta-final-do-pleito/)_
+
