@@ -170,3 +170,6 @@
 - **[2026-10-07 22:24 UTC]** Tribunal de Contas suspende reajuste de pedágio em Minas a pedido de Cleitinho
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/07/tribunal-de-contas-suspende-reajuste-de-pedagio-em-minas-a-pedido-de-cleitinho.ghtml)_
 
+- **[2026-10-08 15:08 UTC]** Cleitinho diverge da campanha de Flávio e defende fim da escala 6x1 ao declarar apoio ao candidato do PL no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/cleitinho-diverge-da-campanha-de-flavio-e-defende-fim-da-escala-6x1-ao-declarar-apoio-ao-candidato-do-pl-no-2o-turno.ghtml)_
+
