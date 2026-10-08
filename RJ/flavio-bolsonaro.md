@@ -4844,3 +4844,6 @@
 - **[2026-10-08 16:49 UTC]** Ricardo Nunes reunirá 38 prefeitos da Grande São Paulo para apoio a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ricardo-nunes-reunira-38-prefeitos-da-grande-sao-paulo-para-apoio-a-flavio-bolsonaro.shtml)_
 
+- **[2026-10-08 16:44 UTC]** Advogado ligado a Lula critica apoio do MDB a Flávio e diz que Baleia manchará biografia se isso ocorrer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/advogado-ligado-a-lula-critica-apoio-do-mdb-a-flavio-e-diz-que-baleia-manchara-biografia-se-isso-ocorrer.shtml)_
+
