@@ -4762,3 +4762,6 @@
 - **[2026-10-08 12:50 UTC]** Entenda o reajuste das aposentadorias, auxílios e BPC do INSS, na mira de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/entenda-o-reajuste-das-aposentadorias-auxilios-e-bpc-do-inss-na-mira-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-08 12:24 UTC]** Publicamente, Flávio Bolsonaro defende reajuste de aposentadorias acima da inflação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/publicamente-flavio-bolsonaro-defende-reajuste-de-aposentadorias-acima-da-inflacao.shtml)_
+
