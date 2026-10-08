@@ -4663,3 +4663,6 @@
 - **[2026-10-07 20:36 UTC]** Críticas de aliados a Janja se intensificam após Lula terminar primeiro turno atrás de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/criticas-de-aliados-a-janja-se-intensificam-apos-lula-terminar-primeiro-turno-atras-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-07 19:25 UTC]** Flávio Bolsonaro quer ser novo Sarney?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/flavio-bolsonaro-quer-ser-novo-sarney.shtml)_
+
