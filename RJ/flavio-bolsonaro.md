@@ -4617,3 +4617,6 @@
 - **[2026-10-07 21:00 UTC]** STF julgará revisão criminal de Bolsonaro após eleições, diz relator
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/stf-julgara-revisao-criminal-de-bolsonaro-apos-eleicoes-diz-relator)_
 
+- **[2026-10-07 22:51 UTC]** Flávio Bolsonaro volta a falar em 'redemocratizar' o Brasil: 'instituições têm que voltar a ser respeitadas'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-bolsonaro-volta-a-falar-em-redemocratizar-o-brasil-instituicoes-precisam-voltar-a-ser-respeitadas.ghtml)_
+
