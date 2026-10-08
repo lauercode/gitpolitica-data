@@ -4829,3 +4829,6 @@
 - **[2026-10-08 18:09 UTC]** Lula diz que Flávio Bolsonaro inventa 'lorota' sobre 6x1 e cobra que bancada do PL vote a favor da medida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lula-diz-que-flavio-bolsonaro-inventa-lorota-sobre-6x1-e-cobra-que-bancada-do-pl-vote-a-favor-da-medida.shtml)_
 
+- **[2026-10-08 18:02 UTC]** Cury acerta apoio à candidatura de Flávio no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/cury-acerta-apoio-a-candidatura-de-flavio-no-segundo-turno.shtml)_
+
