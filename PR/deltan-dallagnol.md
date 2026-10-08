@@ -107,3 +107,6 @@
 - **[2026-10-07 20:14 UTC]** TSE julga caso Deltan Dallagnol nesta quinta-feira (8) após votação que o coloca no Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-julga-caso-deltan-dallagnol-nesta-quinta-feira-8-apos-votacao-que-o-coloca-no-senado.shtml)_
 
+- **[2026-10-08 15:36 UTC]** TSE adia julgamento sobre registro de candidatura de Deltan Dallagnol
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/08/tse-adia-julgamento-sobre-registro-de-candidatura-de-deltan-dallagnol.ghtml)_
+
