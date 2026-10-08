@@ -4630,3 +4630,6 @@
 - **[2026-10-07 23:00 UTC]** Flávio considera mudar correção da Previdência, da saúde e da educação para obter até R$ 250 bi
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-considera-mudar-correcao-da-previdencia-da-saude-e-da-educacao-para-obter-ate-r-250-bi.shtml)_
 
+- **[2026-10-07 23:00 UTC]** No corredor da soja, estudante quer ser produtor rural e opta por Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/no-corredor-da-soja-estudante-quer-ser-produtor-rural-e-opta-por-flavio-bolsonaro.shtml)_
+
