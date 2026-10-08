@@ -4883,3 +4883,6 @@
 - **[2026-10-08 20:49 UTC]** Décio Oddone, Adriano Pires e Eduardo Pazuello são cotados para Petrobras, caso Flávio seja eleito
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/decio-oddone-adriano-pires-e-eduardo-pazuello-sao-cotados-para-petrobras-caso-flavio-seja-eleito.ghtml)_
 
+- **[2026-10-08 20:21 UTC]** 15 diretórios estaduais do MDB devem anunciar apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/15-diretorios-estaduais-do-mdb-devem-anunciar-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
