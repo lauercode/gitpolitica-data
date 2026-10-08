@@ -71,3 +71,6 @@
 - **[2026-10-05 19:48 UTC]** Fábio vence em 67 cidades sergipanas e Valmir de Francisquinho em oito; VEJA MAPA
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/05/fabio-vence-em-67-cidades-sergipanas-valmir-de-francisquinho-ganha-em-oito.ghtml)_
 
+- **[2026-10-08 13:08 UTC]** Após derrota ao governo de SE, Valmir de Francisquinho toma posse como secretário-geral de governo de Itabaiana
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/08/valmir-de-francisquinho-toma-posse-como-secretario-geral-de-governo-de-itabaiana.ghtml)_
+
