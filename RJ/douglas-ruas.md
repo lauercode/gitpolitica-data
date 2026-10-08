@@ -62,3 +62,6 @@
 - **[2026-10-07 04:02 UTC]** 'Canetada do TSE foi mortal para Lula e afetou eleições nos estados', diz marqueteiro de Douglas Ruas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/canetada-do-tse-foi-mortal-para-lula-e-afetou-eleicoes-nos-estados-diz-marqueteiro-de-douglas-ruas.shtml)_
 
+- **[2026-10-08 15:27 UTC]** Douglas Ruas diz que vai aguardar retotalização após 5 a 2 no TSE para anular votos de Garotinho
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/douglas-ruas-tse-votos-garotinho.ghtml)_
+
