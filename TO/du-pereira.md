@@ -17,3 +17,6 @@
 - **[2026-10-04 16:54 UTC]** Du Pereira (DC) vota em Palmas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/04/du-pereira-dc-vota-em-palmas.ghtml)_
 
+- **[2026-10-08 20:53 UTC]** Du Pereira confirma apoio a Vicentinho Júnior no 2º turno para governo do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/08/du-pereira-confirma-apoio-a-vicentinho-junior-no-2o-turno-para-governo-do-to.ghtml)_
+
