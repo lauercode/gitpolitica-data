@@ -125,3 +125,6 @@
 - **[2026-10-08 21:25 UTC]** Datafolha: No DF, Celina Leão tem 55% dos votos e Leandro Grass, 37%, no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/datafolha-no-df-celina-leo-tem-55-pontos-percentuais-dos-votos-e-leandro-grass-37-no-segundo-turno.ghtml)_
 
+- **[2026-10-08 18:05 UTC]** Datafolha: Celina Leão lidera disputa de 2º turno contra Grass no DF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-celina-leao-lidera-disputa-de-2o-turno-no-df-com-55-contra-37-de-grass.shtml)_
+
