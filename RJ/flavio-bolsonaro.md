@@ -5079,3 +5079,6 @@
 'mal-estar' e internação no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
 
+- **[2026-10-09 12:21 UTC]** Mendonça e Kassio mandam tirar vídeos em que Lula e Janja falam em corte de ações sociais por Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mendonca-e-kassio-mandam-tirar-videos-em-que-lula-e-janja-falam-em-corte-de-acoes-sociais-por-flavio.shtml)_
+
