@@ -4965,3 +4965,6 @@
 - **[2026-10-08 17:35 UTC]** Fux pede acesso a processo de Bolsonaro e outros condenados da trama golpista para analisar atos de Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fux-pede-acesso-a-processos-da-trama-golpista-para-analisar-supostas-irregularidades-em-atos-de-moraes.shtml)_
 
+- **[2026-10-08 22:04 UTC]** Fux manda liberar inquéritos de Moraes para avaliar ação que pode anular condenação de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-cobra-acesso-integral-aos-inqueritos-das-fake-news-e-das-milicias-digitais/)_
+
