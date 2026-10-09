@@ -4971,3 +4971,6 @@
 - **[2026-10-09 01:36 UTC]** Grupo de dança de crianças africanas que recebeu por vídeo pró-Flávio Bolsonaro apaga material
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjzxl549wr3xo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-08 23:58 UTC]** Ordem do STF para que Eduardo Bolsonaro comece a cumprir pena ‘vai dar em nada’, diz Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/ordem-do-stf-para-que-eduardo-bolsonaro-comece-a-cumprir-pena-vai-dar-em-nada-diz-flavio.ghtml)_
+
