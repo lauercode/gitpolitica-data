@@ -5206,3 +5206,6 @@
 - **[2026-10-09 16:59 UTC]** Na TV, Lula explora discurso do medo e Flávio promete manter benefícios e 'prosperidade'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/na-tv-lula-explora-discurso-do-medo-e-flvio-promete-manter-benefcios-e-prosperidade.ghtml)_
 
+- **[2026-10-09 16:21 UTC]** Douglas Ruas quer trazer políticos que estavam com Paes para campanha de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/douglas-ruas-quer-trazer-politicos-que-estavam-com-paes-para-campanha-de-flavio-bolsonaro.ghtml)_
+
