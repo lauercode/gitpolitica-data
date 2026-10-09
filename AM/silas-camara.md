@@ -1418,3 +1418,6 @@ direitos
 - **[2026-10-09 14:35 UTC]** Câmara terá seis deputados com deficiência em 2027
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310205-camara-tera-seis-deputados-com-deficiencia-em-2027)_
 
+- **[2026-10-09 14:31 UTC]** Consultorias da Câmara e do Senado indicam necessidade de ajustes no projeto do Orçamento para 2027
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310470-consultorias-da-camara-e-do-senado-indicam-necessidade-de-ajustes-no-projeto-do-orcamento-para-2027)_
+
