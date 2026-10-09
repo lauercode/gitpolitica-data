@@ -147,3 +147,6 @@
 'mal-estar' e internação no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
 
+- **[2026-10-09 15:17 UTC]** Marcos Rogério promete plano de combate à violência contra a mulher e anuncia revisão de gastos em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/09/entrevista-marcos-rogerio-bom-dia-rondonia-governador-eleito.ghtml)_
+
