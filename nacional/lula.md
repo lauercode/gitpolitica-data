@@ -1076,3 +1076,6 @@
 - **[2026-10-08 20:44 UTC]** Após apelo por 'mais Alckmin', campanha de Lula planeja mais participações de vice-presidente em entrevistas regionais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/apos-apelo-por-mais-alckmin-campanha-de-lula-planeja-mais-participacoes-de-vice-presidente-em-entrevistas-regionais.ghtml)_
 
+- **[2026-10-09 10:10 UTC]** Em áudio à militância, presidente do PT diz que depoimento de Vorcaro sobre filme de Lula tem viés político
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/em-audio-a-militancia-presidente-do-pt-diz-que-depoimento-de-vorcaro-sobre-filme-de-lula-tem-vies-politico.shtml)_
+
