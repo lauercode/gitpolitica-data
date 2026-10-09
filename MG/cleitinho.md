@@ -179,3 +179,6 @@
 - **[2026-10-09 11:30 UTC]** Aliados de Flávio contam com Cleitinho como cabo eleitoral em MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-de-flavio-contam-com-cleitinho-como-cabo-eleitoral-em-mg.shtml)_
 
+- **[2026-10-09 07:00 UTC]** Indiciado na máfia do INSS negocia cargos no governo Cleitinho para voltar à Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/indiciado-na-mafia-do-inss-negocia-cargos-no-governo-cleitinho-para-voltar-a-camara.shtml)_
+
