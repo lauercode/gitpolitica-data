@@ -5176,3 +5176,6 @@
 - **[2026-10-09 17:08 UTC]** Disputa entre Celina e Grass reproduz no DF a polarização de Lula e Flávio
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/distrito-federal/disputa-entre-celina-e-grass-reproduz-df-polarizacao-lula-flavio/)_
 
+- **[2026-10-09 18:06 UTC]** Grupo de dança de crianças africanas que recebeu por vídeo pró-Flávio Bolsonaro apaga material e pede desculpas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjzxl549wr3xo?at_medium=RSS&at_campaign=rss)_
+
