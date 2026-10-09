@@ -20,3 +20,6 @@
 - **[2026-10-04 14:52 UTC]** Dr Daniel Santos (Podemos) vota em Ananindeua
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/dr-daniel-santos-podemos-vota-em-belem.ghtml)_
 
+- **[2026-10-09 17:28 UTC]** Governador eleito do PA, Daniel Santos anuncia secretário de Meio Ambiente
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/09/governador-eleito-do-pa-daniel-santos-anuncia-secretario-de-meio-ambiente.ghtml)_
+
