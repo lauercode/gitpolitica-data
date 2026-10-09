@@ -5069,3 +5069,6 @@
 - **[2026-10-09 13:25 UTC]** Volta do horário eleitoral: Flávio vai apostar na vida real; Lula, no retorno dos Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/09/volta-do-horario-eleitoral-flavio-bolsonaro-vai-focar-na-vida-real-lula-na-estrategia-do-medo.ghtml)_
 
+- **[2026-10-09 11:36 UTC]** Netanyahu liga para Flávio Bolsonaro e o convida para visitar Israel: 'Renovar a profunda amizade'
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/09/netanyahu-liga-para-flavio-bolsonaro-convida-visitar-israel.ghtml)_
+
