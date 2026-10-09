@@ -5136,3 +5136,6 @@
 - **[2026-10-09 16:27 UTC]** TSE determina que Flávio remova posts que associam Lula a facções criminosas aplica multa de R$ 5 mil
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-determina-remocao-de-posts-que-associam-lula-a-faccoes-criminosas-flavio-e-multado-em-r-5-mil.ghtml)_
 
+- **[2026-10-09 16:19 UTC]** Na volta da propaganda no rádio, Flávio Bolsonaro diz que Brasil escolheu 'mudança' e Lula afirma que Brasil decidirá entre democracia e 'barbárie'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/propaganda-eleitoral-flavio-lula-2-turno.ghtml)_
+
