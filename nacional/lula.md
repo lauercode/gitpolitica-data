@@ -1079,3 +1079,6 @@
 - **[2026-10-09 10:10 UTC]** Em áudio à militância, presidente do PT diz que depoimento de Vorcaro sobre filme de Lula tem viés político
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/em-audio-a-militancia-presidente-do-pt-diz-que-depoimento-de-vorcaro-sobre-filme-de-lula-tem-vies-politico.shtml)_
 
+- **[2026-10-09 16:11 UTC]** Nova pesquisa Quaest para presidente mede 'medo' e 'esperança' de eleitor em Lula e Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/nova-pesquisa-quaest-para-presidente-mede-disputa-voto-a-voto-entre-lula-e-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
