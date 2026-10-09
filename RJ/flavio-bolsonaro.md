@@ -5072,3 +5072,6 @@
 - **[2026-10-09 11:36 UTC]** Netanyahu liga para Flávio Bolsonaro e o convida para visitar Israel: 'Renovar a profunda amizade'
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/09/netanyahu-liga-para-flavio-bolsonaro-convida-visitar-israel.ghtml)_
 
+- **[2026-10-09 10:36 UTC]** TSE manda retirar publicações de Lula, Janja e aliados contra Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-manda-retirar-publicacoes-de-lula-janja-e-aliados-contra-flavio-bolsonaro.ghtml)_
+
