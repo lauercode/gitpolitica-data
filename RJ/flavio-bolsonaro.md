@@ -5029,3 +5029,6 @@
 - **[2026-10-08 23:00 UTC]** Lula deve passar a defender equilíbrio das contas, e campanha apontará furos de Flávio na área fiscal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-deve-passar-a-defender-equilibrio-das-contas-e-campanha-apontara-furos-de-flavio-na-area-fiscal.shtml)_
 
+- **[2026-10-08 22:47 UTC]** Após reação, grupo Hypers Kids Africa promete devolver criptomoedas recebidas por vídeo pró-Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apos-reacao-grupo-hypers-kids-africa-promete-devolver-criptomoedas-recebidas-por-video-pro-flavio-bolsonaro.shtml)_
+
