@@ -1421,3 +1421,6 @@ direitos
 - **[2026-10-09 14:31 UTC]** Consultorias da Câmara e do Senado indicam necessidade de ajustes no projeto do Orçamento para 2027
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310470-consultorias-da-camara-e-do-senado-indicam-necessidade-de-ajustes-no-projeto-do-orcamento-para-2027)_
 
+- **[2026-10-09 07:00 UTC]** Indiciado na máfia do INSS negocia cargos no governo Cleitinho para voltar à Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/indiciado-na-mafia-do-inss-negocia-cargos-no-governo-cleitinho-para-voltar-a-camara.shtml)_
+
