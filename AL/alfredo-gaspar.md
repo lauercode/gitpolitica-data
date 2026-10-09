@@ -26,3 +26,6 @@
 - **[2026-10-08 09:00 UTC]** Quem é Alfredo Gaspar, vice na chapa de Flávio Bolsonaro?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-09 19:21 UTC]** Justiça condena Soraya Thronicke a indenizar Alfredo Gaspar por falsa acusação de estupro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-condena-soraya-thronicke-a-indenizar-alfredo-gaspar-por-falsa-acusacao-de-estupro/)_
+
