@@ -4986,3 +4986,6 @@
 - **[2026-10-08 22:11 UTC]** Equipe de Flávio descarta superministério como o de Paulo Guedes, de Jair Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/equipe-de-flvio-descarta-superministrio-como-o-de-guedes-e-garante-mdic-separado.ghtml)_
 
+- **[2026-10-08 21:43 UTC]** Datafolha: Flávio, com 49%, e Lula, com 45%, têm empate técnico no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/datafolha-flavio-bolsonaro-tem-49percent-dos-votos-e-lula-45percent-no-segundo-turno.ghtml)_
+
