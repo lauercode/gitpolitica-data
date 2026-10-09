@@ -122,3 +122,6 @@
 - **[2026-10-08 21:04 UTC]** Rede Amazônica define cobertura e entrevistas com Omar Aziz e Maria do Carmo no 2º turno para o governo do AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/08/rede-amazonica-define-cobertura-e-entrevistas-com-omar-aziz-e-maria-do-carmo-no-2o-turno-para-o-governo-do-am.ghtml)_
 
+- **[2026-10-08 21:40 UTC]** Nova pesquisa Quaest no Amazonas para segundo turno mede duelo entre Omar Aziz e Professora Maria do Carmo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/nova-pesquisa-quaest-no-amazonas-para-segundo-turno-mede-duelo-entre-omar-aziz-e-professora-maria-do-carmo.ghtml)_
+
