@@ -5048,3 +5048,6 @@
 'mal-estar' e internação no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
 
+- **[2026-10-09 06:00 UTC]** Flávio planeja intensificar agendas de rua após semana dedicada a negociar apoios no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-planeja-intensificar-agendas-de-rua-apos-semana-dedicada-a-negociar-apoios-no-segundo-turno.shtml)_
+
