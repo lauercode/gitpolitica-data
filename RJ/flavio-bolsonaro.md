@@ -5026,3 +5026,6 @@
 - **[2026-10-08 23:00 UTC]** Aliados de Flávio Bolsonaro veem Lottenberg na Saúde como escudo na campanha contra negacionismo de Jair
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/aliados-de-flavio-bolsonaro-veem-lottenberg-como-escudo-na-campanha-contra-negacionismo-de-jair.shtml)_
 
+- **[2026-10-08 23:00 UTC]** Lula deve passar a defender equilíbrio das contas, e campanha apontará furos de Flávio na área fiscal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-deve-passar-a-defender-equilibrio-das-contas-e-campanha-apontara-furos-de-flavio-na-area-fiscal.shtml)_
+
