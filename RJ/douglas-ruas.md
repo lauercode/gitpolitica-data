@@ -80,3 +80,6 @@
 - **[2026-10-08 19:45 UTC]** Douglas Ruas critica judicialização da eleição e se declara governador
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/douglas-ruas-critica-judicializacao-da-eleicao-e-se-declara-governador)_
 
+- **[2026-10-09 04:00 UTC]** Douglas Ruas deve ser declarado governador eleito do RJ sob investigação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/douglas-ruas-deve-ser-declarado-governador-eleito-do-rj-sob-investigacao.shtml)_
+
