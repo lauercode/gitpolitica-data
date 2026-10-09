@@ -5004,3 +5004,7 @@
 - **[2026-10-09 03:00 UTC]** Flávio Bolsonaro fala em acabar com reeleição e aumentar o próprio mandato: entenda como mudança pode ocorrer
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/09/flavio-bolsonaro-fala-em-acabar-com-reeleicao-e-aumentar-o-proprio-mandato-entenda-como-mudanca-pode-ocorrer.ghtml)_
 
+- **[2026-10-07 17:28 UTC]** Coordenador de campanha de Flávio, Rogério Marinho tem alta após 
+'mal-estar' e internação no DF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
+
