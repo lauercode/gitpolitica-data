@@ -185,3 +185,6 @@
 - **[2026-10-08 04:00 UTC]** Tarcísio vence na cracolândia em eleição com virada sobre Haddad na capital de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-vence-na-cracolandia-em-eleicao-com-virada-sobre-haddad-na-capital-de-sp.shtml)_
 
+- **[2026-10-09 10:37 UTC]** Em SP, Tarcísio e Nunes mobilizam aliados por Flávio, enquanto PT recomeça do zero campanha de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-sp-tarcisio-e-nunes-mobilizam-aliados-por-flavio-enquanto-pt-recomeca-do-zero-campanha-de-lula.shtml)_
+
