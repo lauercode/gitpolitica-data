@@ -1424,3 +1424,6 @@ direitos
 - **[2026-10-09 07:00 UTC]** Indiciado na máfia do INSS negocia cargos no governo Cleitinho para voltar à Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/indiciado-na-mafia-do-inss-negocia-cargos-no-governo-cleitinho-para-voltar-a-camara.shtml)_
 
+- **[2026-10-09 13:26 UTC]** Justiça suspende eleição da Mesa Diretora da Câmara de Macapá; novo pleito será em dezembro
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/10/09/justica-suspende-eleicao-da-mesa-diretora-da-camara-de-macapa-novo-pleito-sera-em-dezembro.ghtml)_
+
