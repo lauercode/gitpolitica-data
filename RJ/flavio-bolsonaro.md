@@ -4925,3 +4925,6 @@
 - **[2026-10-08 22:37 UTC]** Datafolha: Flávio comemora mais pontos obtidos do que Lula, que aponta para eleição indefinida
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/08/datafolha-flavio-bolsonaro-comemora-mais-pontos-obtidos-do-que-lula-que-aponta-para-eleicao-indefinida.ghtml)_
 
+- **[2026-10-08 21:57 UTC]** Lula diz que PL e Flávio não querem assumir compromisso com fim da escala 6x1 e defende votação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/lula-diz-que-pl-e-flavio-nao-querem-assumir-compromisso-com-fim-da-escala-6x1-e-defende-votacao.ghtml)_
+
