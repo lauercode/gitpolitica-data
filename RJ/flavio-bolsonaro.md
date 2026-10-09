@@ -5085,3 +5085,6 @@
 - **[2026-10-09 12:04 UTC]** Marcelo Freixo diz que turismo no Brasil bateu recordes com Lula, e que Flávio quer privatizar praias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/10/marcelo-freixo-diz-que-turismo-no-brasil-bateu-recordes-com-lula-e-que-flavio-quer-privatizar-praias.shtml)_
 
+- **[2026-10-09 12:00 UTC]** Flávio Bolsonaro lidera votação no 1º turno nas 10 cidades que mais perderam empregos no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-lidera-votacao-no-1o-turno-nas-10-cidades-que-mais-perderam-empregos-no-brasil.shtml)_
+
