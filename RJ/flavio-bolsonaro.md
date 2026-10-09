@@ -5173,3 +5173,6 @@
 - **[2026-10-09 20:02 UTC]** Governo Lula pretende cortar cargos indicados por partidos que apoiarão Flávio no segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-cortar-cargos-indicados-partidos-apoiarao-flavio-segundo-turno/)_
 
+- **[2026-10-09 17:08 UTC]** Disputa entre Celina e Grass reproduz no DF a polarização de Lula e Flávio
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/distrito-federal/disputa-entre-celina-e-grass-reproduz-df-polarizacao-lula-flavio/)_
+
