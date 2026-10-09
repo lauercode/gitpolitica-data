@@ -41,3 +41,6 @@
 - **[2026-10-08 20:53 UTC]** Du Pereira confirma apoio a Vicentinho Júnior no 2º turno para governo do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/08/du-pereira-confirma-apoio-a-vicentinho-junior-no-2o-turno-para-governo-do-to.ghtml)_
 
+- **[2026-10-08 22:12 UTC]** Laurez Moreira declara apoio a Vicentinho Júnior no 2º turno para governo do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/08/laurez-moreira-declara-apoio-a-vicentinho-junior-no-2o-turno-do-governo-do-tocantins.ghtml)_
+
