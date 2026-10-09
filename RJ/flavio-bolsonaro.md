@@ -5197,3 +5197,6 @@
 - **[2026-10-09 17:29 UTC]** Flávio Bolsonaro ou Lula: o que mostram as pesquisas de intenção de voto no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/flavio-bolsonaro-ou-lula-o-que-mostram-as-pesquisas-de-intencao-de-voto-no-segundo-turno.ghtml)_
 
+- **[2026-10-09 17:25 UTC]** Flávio nega intenção de privatizar bancos públicos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/flvio-nega-inteno-de-privatizar-bancos-pblicos.ghtml)_
+
