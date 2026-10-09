@@ -5170,3 +5170,6 @@
 - **[2026-10-09 12:04 UTC]** Freixo diz que turismo bateu recordes com Lula, e que Flávio quer privatizar praias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/10/marcelo-freixo-diz-que-turismo-no-brasil-bateu-recordes-com-lula-e-que-flavio-quer-privatizar-praias.shtml)_
 
+- **[2026-10-09 20:02 UTC]** Governo Lula pretende cortar cargos indicados por partidos que apoiarão Flávio no segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-cortar-cargos-indicados-partidos-apoiarao-flavio-segundo-turno/)_
+
