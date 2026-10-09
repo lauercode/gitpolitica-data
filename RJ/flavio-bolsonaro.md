@@ -4935,3 +4935,6 @@
 - **[2026-10-08 22:24 UTC]** Estudantes fazem manifestação por Lula e contra Flávio e Moro em Curitiba
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/estudantes-fazem-manifestacao-por-lula-e-contra-flavio-e-moro-em-curitiba.shtml)_
 
+- **[2026-10-08 20:38 UTC]** Flávio Bolsonaro está escondendo o jogo?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/flavio-bolsonaro-esta-escondendo-o-jogo.shtml)_
+
