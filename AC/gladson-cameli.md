@@ -23,3 +23,6 @@
 - **[2026-10-04 14:56 UTC]** Gladson Camelí (Progressistas) vota em Cruzeiro do Sul
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/04/gladson-cameli-progressistas-vota-em-cruzeiro-do-sul.ghtml)_
 
+- **[2026-10-09 10:00 UTC]** Pela 1ª vez em 20 anos, ex-governador Gladson Camelí fica sem mandato eletivo no Acre; VEJA histórico
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/09/pela-1a-vez-em-20-anos-ex-governador-gladson-cameli-fica-sem-mandato-eletivo-no-acre-veja-historico.ghtml)_
+
