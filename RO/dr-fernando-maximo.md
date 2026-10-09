@@ -50,3 +50,6 @@
 - **[2026-10-04 22:09 UTC]** Dr. Fernando Máximo (PL) e Bruno Scheid (PL) são eleitos senadores por Rondônia
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/04/resultado-senado-rondonia.ghtml)_
 
+- **[2026-10-09 19:01 UTC]** Dr. Fernando Máximo, senador eleito por Rondônia, diz que saúde será prioridade no mandato
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/09/entrevista-com-dr-fernando-maximo-senador-eleito-por-rondonia.ghtml)_
+
