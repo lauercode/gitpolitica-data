@@ -5127,3 +5127,6 @@
 - **[2026-10-09 16:11 UTC]** Flávio Bolsonaro diz que vai manter Bolsa Família e Farmácia Popular
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-diz-que-vai-manter-bolsa-familia-e-farmacia-popular)_
 
+- **[2026-10-09 13:48 UTC]** Site que oferecia cripto por apoio a Flávio apaga conteúdo político
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/site-que-oferecia-cripto-por-apoio-flavio-apaga-conteudo-politico)_
+
