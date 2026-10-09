@@ -389,3 +389,6 @@
 - **[2026-09-16 08:45 UTC]** Bolsas asiáticas fecham em alta antes de decisão do Federal Reserve
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/09/16/bolsas-asiaticas-fecham-em-alta-antes-de-decisao-do-federal-reserve.ghtml)_
 
+- **[2026-10-09 08:00 UTC]** Incêndio destrói prédio e pesquisas na Federal de Pernambuco
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/09/incendio-destroi-predio-e-pesquisas-na-federal-de-pernambuco.ghtml)_
+
