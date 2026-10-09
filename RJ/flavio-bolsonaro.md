@@ -5091,3 +5091,6 @@
 - **[2026-10-09 12:00 UTC]** Ex-CEO da CVC diz que turismo precisa de política de Estado e apoia Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/10/ex-ceo-da-cvc-diz-que-turismo-precisa-de-politica-de-estado-e-apoia-flavio-bolsonaro.shtml)_
 
+- **[2026-10-09 11:58 UTC]** Em primeiro ato do 2º turno, Lula cita fascismo, 'assassinos' da pandemia e Master para atacar Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-primeiro-ato-do-2o-turno-lula-cita-fascismo-assassinos-da-pandemia-e-master-para-atacar-flavio.shtml)_
+
