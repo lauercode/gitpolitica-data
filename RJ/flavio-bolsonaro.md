@@ -5215,3 +5215,6 @@
 - **[2026-10-09 16:11 UTC]** Nova pesquisa Quaest para presidente mede 'medo' e 'esperança' de eleitor em Lula e Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/nova-pesquisa-quaest-para-presidente-mede-disputa-voto-a-voto-entre-lula-e-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-09 15:59 UTC]** Setor imobiliário está otimista com possível vitória de Flávio e futuro do Minha Casa, Minha Vida
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/09/setor-imobiliario-esta-otimista-com-possivel-vitoria-de-flavio-e-futuro-do-minha-casa-minha-vida.ghtml)_
+
