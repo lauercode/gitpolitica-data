@@ -79,3 +79,6 @@
 'mal-estar' e internação no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
 
+- **[2026-10-09 19:47 UTC]** Rogério Marinho diz que PL não vai apoiar Allyson após candidato não assumir apoio a Flávio Bolsonaro no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/09/rogerio-marinho-diz-que-pl-nao-vai-apoiar-allyson-apos-candidato-nao-assumir-apoio-a-flavio-bolsonaro-no-rn.ghtml)_
+
