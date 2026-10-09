@@ -83,3 +83,6 @@
 - **[2026-10-05 12:38 UTC]** Resultado das eleições 2026 em Boca do Acre (AM): votação para presidente no E. E. Lucas Pena, na 14ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-boca-do-acre-am-votacao-para-presidente-no-e-e-lucas-pena-na-14a-zona-eleitoral.ghtml)_
 
+- **[2026-10-09 15:20 UTC]** Reality show Duelo de Guitarras destaca perfil de Lucas Moscardini
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/reality-show-duelo-de-guitarras-destaca-perfil-de-lucas-moscardini)_
+
