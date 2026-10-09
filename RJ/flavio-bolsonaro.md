@@ -5032,3 +5032,6 @@
 - **[2026-10-08 22:47 UTC]** Após reação, grupo Hypers Kids Africa promete devolver criptomoedas recebidas por vídeo pró-Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apos-reacao-grupo-hypers-kids-africa-promete-devolver-criptomoedas-recebidas-por-video-pro-flavio-bolsonaro.shtml)_
 
+- **[2026-10-09 01:42 UTC]** Flávio Bolsonaro pede renúncia de Moraes após decisão contra Eduardo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-pede-renuncia-de-moraes-apos-decisao-contra-eduardo/)_
+
