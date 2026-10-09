@@ -5146,3 +5146,6 @@
 'mal-estar' e internação no DF
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
 
+- **[2026-10-09 17:00 UTC]** Grupo Lide, de Doria, fará almoço para Flávio Bolsonaro com 400 empresários a 6 dias da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/grupo-lide-de-doria-fara-almoco-para-flavio-bolsonaro-com-400-empresarios-a-6-dias-da-eleicao.shtml)_
+
