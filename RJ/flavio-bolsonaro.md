@@ -5109,3 +5109,6 @@
 - **[2026-10-09 10:01 UTC]** Na volta da propaganda, Flávio Bolsonaro fala 22 vezes em mudança, e Lula alerta para retrocesso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/na-volta-da-propaganda-flavio-bolsonaro-fala-22-vezes-em-mudanca-e-lula-alerta-para-retrocesso.shtml)_
 
+- **[2026-10-09 10:00 UTC]** Escolha entre Lula e Flávio Bolsonaro é simples: civilização ou barbárie
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2026/10/escolha-entre-lula-e-flavio-bolsonaro-e-simples-civilizacao-ou-barbarie.shtml)_
+
