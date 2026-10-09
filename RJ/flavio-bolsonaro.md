@@ -5063,3 +5063,6 @@
 - **[2026-10-09 10:23 UTC]** Mendonça determina remoção de vídeo de deputados contrários a Flávio
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mendonca-determina-remocao-de-video-de-deputados-contrarios-flavio)_
 
+- **[2026-10-09 10:01 UTC]** Flávio Bolsonaro cumpre agenda no Rio de Janeiro e Lula em Brasília
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-bolsonaro-cumpre-agenda-no-rio-de-janeiro-e-lula-em-brasilia)_
+
