@@ -5212,3 +5212,6 @@
 - **[2026-10-09 16:13 UTC]** Durigan: Inflação em 12 meses até setembro atinge 4,58%, ante 7,17% no governo Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/09/durigan-inflacao-em-12-meses-ate-setembro-atinge-458percent-ante-717percent-no-governo-bolsonaro.ghtml)_
 
+- **[2026-10-09 16:11 UTC]** Nova pesquisa Quaest para presidente mede 'medo' e 'esperança' de eleitor em Lula e Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/nova-pesquisa-quaest-para-presidente-mede-disputa-voto-a-voto-entre-lula-e-flavio-bolsonaro-no-segundo-turno.ghtml)_
+
