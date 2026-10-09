@@ -5014,3 +5014,6 @@
 - **[2026-10-09 00:00 UTC]** Ministério Público e polícia investigam caso de criança com objeto semelhante a arma em ato pró-Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ministerio-publico-e-policia-investigam-caso-de-crianca-com-objeto-semelhante-a-arma-em-ato-pro-flavio.shtml)_
 
+- **[2026-10-08 23:30 UTC]** Datafolha: 2º turno começa com vantagem estreita de Flávio Bolsonaro e caminho longo para Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-2o-turno-comeca-com-vantagem-estreita-de-flavio-bolsonaro-e-caminho-longo-para-lula.shtml)_
+
