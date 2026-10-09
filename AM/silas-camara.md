@@ -1415,3 +1415,6 @@ direitos
 - **[2026-10-08 19:47 UTC]** Paraíba elege 10 parlamentares milionários para a Câmara dos Deputados; veja a lista
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/08/paraiba-elege-10-parlamentares-milionarios-para-a-camara-dos-deputados.ghtml)_
 
+- **[2026-10-09 14:35 UTC]** Câmara terá seis deputados com deficiência em 2027
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310205-camara-tera-seis-deputados-com-deficiencia-em-2027)_
+
