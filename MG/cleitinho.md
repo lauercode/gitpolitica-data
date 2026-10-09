@@ -188,3 +188,6 @@
 - **[2026-10-09 13:56 UTC]** Governador eleito de MG, Cleitinho quer cortar cargos, renegociar dívida com União e descarta privatizar Cemig
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/governador-eleito-de-mg-cleitinho-quer-cortar-cargos-renegociar-divida-com-uniao-e-descarta-privatizar-cemig.ghtml)_
 
+- **[2026-10-09 19:11 UTC]** Irmão de Cleitinho e ex-secretário de Bolsonaro farão parte da equipe de transição em Minas Gerais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/irmao-de-cleitinho-e-ex-secretario-de-bolsonaro-farao-parte-da-equipe-de-transicao-em-minas-gerais.ghtml)_
+
