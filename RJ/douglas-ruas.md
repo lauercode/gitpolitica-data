@@ -86,3 +86,6 @@
 - **[2026-10-09 02:09 UTC]** Por que Douglas Ruas deve se tornar governador do Rio dias depois do 1º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-09 16:21 UTC]** Douglas Ruas quer trazer políticos que estavam com Paes para campanha de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/douglas-ruas-quer-trazer-politicos-que-estavam-com-paes-para-campanha-de-flavio-bolsonaro.ghtml)_
+
