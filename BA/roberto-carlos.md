@@ -17,3 +17,6 @@
 - **[2026-09-24 19:35 UTC]** Roberto Carlos faz show no Acre pela 1ª vez; VEJA valores e como comprar ingressos
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/09/24/roberto-carlos-faz-show-no-acre-pela-1a-vez-veja-valores-e-como-comprar-ingressos.ghtml)_
 
+- **[2026-10-09 15:19 UTC]** Globo define gravação e detalhes do especial de fim de ano de Roberto Carlos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-define-gravacao-e-detalhes-do-especial-de-fim-de-ano-de-roberto-carlos.shtml)_
+
