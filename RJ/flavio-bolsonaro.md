@@ -5124,3 +5124,6 @@
 - **[2026-10-09 14:58 UTC]** Análise: Promessa para saúde amplia incerteza fiscal de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/analise-promessa-para-saude-amplia-incerteza-fiscal-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-09 16:11 UTC]** Flávio Bolsonaro diz que vai manter Bolsa Família e Farmácia Popular
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-diz-que-vai-manter-bolsa-familia-e-farmacia-popular)_
+
