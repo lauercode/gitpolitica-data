@@ -4938,3 +4938,6 @@
 - **[2026-10-08 20:38 UTC]** Flávio Bolsonaro está escondendo o jogo?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/flavio-bolsonaro-esta-escondendo-o-jogo.shtml)_
 
+- **[2026-10-08 20:25 UTC]** Haddad pede votos para Lula em SP e diz que 'está fácil fazer campanha' contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/haddad-pede-votos-para-lula-em-sp-e-diz-que-esta-facil-fazer-campanha-contra-flavio-bolsonaro.shtml)_
+
