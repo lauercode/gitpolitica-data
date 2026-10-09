@@ -5075,3 +5075,7 @@
 - **[2026-10-09 10:36 UTC]** TSE manda retirar publicações de Lula, Janja e aliados contra Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-manda-retirar-publicacoes-de-lula-janja-e-aliados-contra-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-07 17:28 UTC]** Coordenador de campanha de Flávio, Rogério Marinho tem alta após 
+'mal-estar' e internação no DF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
+
