@@ -95,3 +95,6 @@
 - **[2026-10-08 21:24 UTC]** Fux pede acesso a processos contra Jair Bolsonaro no STF
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fux-pede-acesso-processos-contra-jair-bolsonaro-no-stf)_
 
+- **[2026-10-08 22:11 UTC]** Equipe de Flávio descarta superministério como o de Paulo Guedes, de Jair Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/equipe-de-flvio-descarta-superministrio-como-o-de-guedes-e-garante-mdic-separado.ghtml)_
+
