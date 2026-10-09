@@ -4977,3 +4977,6 @@
 - **[2026-10-08 22:41 UTC]** Após Datafolha, Lula diz que sua obrigação é trabalhar para ter mais votos que Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/apos-datafolha-lula-diz-que-sua-obrigacao-e-trabalhar-para-ter-mais-votos-que-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-08 22:36 UTC]** Flávio vai congelar o salário mínimo e cortar recursos da saúde e educação, diz Haddad
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/08/flvio-vai-congelar-o-salrio-mnimo-e-cortar-recursos-da-sade-e-educao-diz-haddad.ghtml)_
+
