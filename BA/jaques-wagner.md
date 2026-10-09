@@ -77,3 +77,6 @@
 - **[2026-10-05 00:25 UTC]** Rui Costa e Jaques Wagner, ambos do PT,  estão eleitos para o Senado pela Bahia
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/rui-costa-e-jaques-wagner-estao-eleitos-para-o-senado-pela-bahia.ghtml)_
 
+- **[2026-10-09 04:00 UTC]** Vorcaro financiou startup de filha de Otto Alencar e negociou obras de arte com aliado de Jaques Wagner
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml)_
+
