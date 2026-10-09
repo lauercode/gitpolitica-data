@@ -5161,3 +5161,6 @@
 - **[2026-10-09 15:23 UTC]** Caixa Econômica vai ser o Itaú da favela, o Bradesco da periferia, diz Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/caixa-economica-vai-ser-o-itau-da-favela-o-bradesco-da-periferia-diz-flavio-bolsonaro.shtml)_
 
+- **[2026-10-09 13:15 UTC]** PT pede cassação de chapa de Flávio por uso de perfil de Marçal para disseminar fake news e propaganda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-pede-cassacao-de-chapa-de-flavio-por-uso-de-perfil-de-marcal-para-disseminar-fake-news-e-propaganda.shtml)_
+
