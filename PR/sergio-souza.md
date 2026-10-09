@@ -290,3 +290,6 @@
 - **[2026-10-07 02:07 UTC]** Resultado das eleições 2026 em Palhoça (SC): votação para presidente na Escola de Educação Básica Professora Maria Clementina de Souza Lopes, na 24ª zona eleitoral
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-palhoca-sc-votacao-para-presidente-na-escola-de-educacao-basica-professora-maria-clementina-de-souza-lopes-na-24a-zona-eleitoral.ghtml)_
 
+- **[2026-10-09 08:00 UTC]** José de Souza Martins:  Fim de época
+  _fonte: [Valor Econômico](https://valor.globo.com/eu-e/coluna/jose-de-souza-martins-fim-de-epoca.ghtml)_
+
