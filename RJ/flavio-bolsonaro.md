@@ -5203,3 +5203,6 @@
 - **[2026-10-09 17:16 UTC]** ‘Nunca vi algo assim’: mercado relata choque com rali pós-Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/09/nunca-vi-algo-assim-mercado-relata-choque-com-rali-pos-flavio.ghtml)_
 
+- **[2026-10-09 16:59 UTC]** Na TV, Lula explora discurso do medo e Flávio promete manter benefícios e 'prosperidade'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/na-tv-lula-explora-discurso-do-medo-e-flvio-promete-manter-benefcios-e-prosperidade.ghtml)_
+
