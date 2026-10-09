@@ -4953,3 +4953,6 @@
 - **[2026-10-08 18:48 UTC]** Datafolha: 25% dos eleitores de Flávio Bolsonaro dizem escolher candidato para derrotar Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-25-dos-eleitores-de-flavio-bolsonaro-dizem-escolher-candidato-para-derrotar-lula.shtml)_
 
+- **[2026-10-08 18:45 UTC]** Datafolha: Flávio Bolsonaro é rejeitado por 43% e Lula, por 46%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-e-rejeitado-por-43-e-lula-por-46.shtml)_
+
