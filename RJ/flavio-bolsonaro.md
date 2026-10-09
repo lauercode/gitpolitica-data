@@ -5200,3 +5200,6 @@
 - **[2026-10-09 17:25 UTC]** Flávio nega intenção de privatizar bancos públicos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/flvio-nega-inteno-de-privatizar-bancos-pblicos.ghtml)_
 
+- **[2026-10-09 17:16 UTC]** ‘Nunca vi algo assim’: mercado relata choque com rali pós-Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/09/nunca-vi-algo-assim-mercado-relata-choque-com-rali-pos-flavio.ghtml)_
+
