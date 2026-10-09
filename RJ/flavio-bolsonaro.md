@@ -5057,3 +5057,6 @@
 - **[2026-10-09 07:10 UTC]** Conheça as propostas de Flávio e Lula para a segurança pública
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/conheca-propostas-de-flavio-e-lula-para-seguranca-publica)_
 
+- **[2026-10-09 11:04 UTC]** TSE: ministros ordenam que Lula e Janja removam vídeos contra Flávio
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-ministros-ordenam-que-lula-e-janja-removam-videos-contra-flavio)_
+
