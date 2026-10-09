@@ -5017,3 +5017,6 @@
 - **[2026-10-08 23:30 UTC]** Datafolha: 2º turno começa com vantagem estreita de Flávio Bolsonaro e caminho longo para Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-2o-turno-comeca-com-vantagem-estreita-de-flavio-bolsonaro-e-caminho-longo-para-lula.shtml)_
 
+- **[2026-10-08 23:00 UTC]** Datafolha: Campanha de Flávio vê Lula estagnado, e aliados do petista torcem por 'efeito Aécio'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-campanha-de-flavio-ve-lula-estagnado-e-aliados-do-petista-torcem-por-efeito-aecio.shtml)_
+
