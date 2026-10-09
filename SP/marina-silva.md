@@ -77,3 +77,6 @@
 - **[2026-10-04 23:01 UTC]** Marina Silva e Simone Tebet perdem disputa pelo Senado em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/marina-silva-e-simone-tebet-perdem-disputa-pelo-senado-em-sp.ghtml)_
 
+- **[2026-10-09 04:00 UTC]** Novo Congresso é submisso a Trump e antiambiental, diz Marina Silva após derrota no Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/novo-congresso-e-submisso-a-trump-e-antiambiental-diz-marina-silva-apos-derrota-no-senado.shtml)_
+
