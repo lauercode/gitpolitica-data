@@ -5051,3 +5051,6 @@
 - **[2026-10-09 06:00 UTC]** Flávio planeja intensificar agendas de rua após semana dedicada a negociar apoios no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-planeja-intensificar-agendas-de-rua-apos-semana-dedicada-a-negociar-apoios-no-segundo-turno.shtml)_
 
+- **[2026-10-09 09:00 UTC]** O que é split payment e por que Flávio Bolsonaro quer acabar com ele?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/o-que-e-split-payment-e-por-que-flavio-bolsonaro-quer-acabar-com-ele.ghtml)_
+
