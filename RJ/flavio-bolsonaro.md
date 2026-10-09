@@ -5188,3 +5188,6 @@
 - **[2026-10-09 19:13 UTC]** Mendonça derruba vídeo de Lula que dizia que Flávio cortaria R$ 200 bi de programas sociais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/mendonca-derruba-video-de-lula-que-dizia-que-flavio-cortaria-r-200-bi-de-programas-sociais.ghtml)_
 
+- **[2026-10-09 19:11 UTC]** Irmão de Cleitinho e ex-secretário de Bolsonaro farão parte da equipe de transição em Minas Gerais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/irmao-de-cleitinho-e-ex-secretario-de-bolsonaro-farao-parte-da-equipe-de-transicao-em-minas-gerais.ghtml)_
+
