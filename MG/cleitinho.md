@@ -182,3 +182,6 @@
 - **[2026-10-09 07:00 UTC]** Indiciado na máfia do INSS negocia cargos no governo Cleitinho para voltar à Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/indiciado-na-mafia-do-inss-negocia-cargos-no-governo-cleitinho-para-voltar-a-camara.shtml)_
 
+- **[2026-10-09 13:41 UTC]** Cleitinho diz que Lula perdeu o primeiro turno para a picanha mais cara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cleitinho-lula-perdeu-primeiro-turno-para-picanha-mais-cara/)_
+
