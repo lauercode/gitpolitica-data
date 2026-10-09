@@ -5118,3 +5118,6 @@
 - **[2026-10-09 11:45 UTC]** Netanyahu conversa com Flávio e pede “renovação da amizade” entre Brasil e Israel
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/netanyahu-conversa-flavio-pede-renovacao-amizade-brasil-israel/)_
 
+- **[2026-10-09 11:25 UTC]** Nova 'guerra às drogas' de Trump aposta em 'militarização' na América Latina: o que muda com Flávio Bolsonaro ou Lula no poder?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck87zdg420nro?at_medium=RSS&at_campaign=rss)_
+
