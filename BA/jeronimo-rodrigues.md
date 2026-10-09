@@ -41,3 +41,6 @@
 - **[2026-10-05 00:34 UTC]** Jerônimo Rodrigues, do PT, é reeleito governador da Bahia
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/jeronimo-rodrigues-e-reeleito-governador-da-bahia)_
 
+- **[2026-10-09 12:30 UTC]** Não houve frustração, mas eleitor exigiu mais de Lula, diz Jerônimo Rodrigues, reeleito na Bahia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nao-houve-frustracao-mas-eleitor-exigiu-mais-de-lula-diz-jeronimo-rodrigues-reeleito-na-bahia.shtml)_
+
