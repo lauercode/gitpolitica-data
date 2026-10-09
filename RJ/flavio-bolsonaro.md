@@ -5054,3 +5054,6 @@
 - **[2026-10-09 09:00 UTC]** O que é split payment e por que Flávio Bolsonaro quer acabar com ele?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/o-que-e-split-payment-e-por-que-flavio-bolsonaro-quer-acabar-com-ele.ghtml)_
 
+- **[2026-10-09 07:10 UTC]** Conheça as propostas de Flávio e Lula para a segurança pública
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/conheca-propostas-de-flavio-e-lula-para-seguranca-publica)_
+
