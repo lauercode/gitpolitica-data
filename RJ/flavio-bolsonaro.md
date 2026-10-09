@@ -5106,3 +5106,6 @@
 - **[2026-10-09 10:03 UTC]** Bolsa sobe com Datafolha mostrando Flávio à frente no 2º turno; dólar cai apesar de IPCA acima do esperado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-com-eleicao-no-radar-e-inflacao-acima-do-esperado.shtml)_
 
+- **[2026-10-09 10:01 UTC]** Na volta da propaganda, Flávio Bolsonaro fala 22 vezes em mudança, e Lula alerta para retrocesso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/na-volta-da-propaganda-flavio-bolsonaro-fala-22-vezes-em-mudanca-e-lula-alerta-para-retrocesso.shtml)_
+
