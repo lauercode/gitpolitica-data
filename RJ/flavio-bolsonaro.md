@@ -4968,3 +4968,6 @@
 - **[2026-10-08 22:04 UTC]** Fux manda liberar inquéritos de Moraes para avaliar ação que pode anular condenação de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fux-cobra-acesso-integral-aos-inqueritos-das-fake-news-e-das-milicias-digitais/)_
 
+- **[2026-10-09 01:36 UTC]** Grupo de dança de crianças africanas que recebeu por vídeo pró-Flávio Bolsonaro apaga material
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjzxl549wr3xo?at_medium=RSS&at_campaign=rss)_
+
