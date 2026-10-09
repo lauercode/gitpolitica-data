@@ -5133,3 +5133,6 @@
 - **[2026-10-09 16:40 UTC]** Na estreia da campanha da TV neste 2º turno, Flávio promete manter programas sociais, e Lula critica cortes no governo Jair Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/primeiro-programa-horario-eleitoral-2-turno-flavio-bolsonaro-lula.ghtml)_
 
+- **[2026-10-09 16:27 UTC]** TSE determina que Flávio remova posts que associam Lula a facções criminosas aplica multa de R$ 5 mil
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-determina-remocao-de-posts-que-associam-lula-a-faccoes-criminosas-flavio-e-multado-em-r-5-mil.ghtml)_
+
