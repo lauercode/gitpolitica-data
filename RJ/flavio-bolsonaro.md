@@ -4992,3 +4992,6 @@
 - **[2026-10-08 21:35 UTC]** Fux pede acesso a inquéritos contra Bolsonaro relatados por Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/08/fux-pede-acesso-a-inqueritos-contra-bolsonaro-relatados-por-alexandre-de-moraes.ghtml)_
 
+- **[2026-10-08 20:49 UTC]** Décio Oddone, Adriano Pires e Eduardo Pazuello são cotados para Petrobras caso Flávio seja eleito
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/decio-oddone-adriano-pires-e-eduardo-pazuello-sao-cotados-para-petrobras-caso-flavio-seja-eleito.ghtml)_
+
