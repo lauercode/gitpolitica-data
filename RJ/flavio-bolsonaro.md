@@ -5082,3 +5082,6 @@
 - **[2026-10-09 12:21 UTC]** Mendonça e Kassio mandam tirar vídeos em que Lula e Janja falam em corte de ações sociais por Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mendonca-e-kassio-mandam-tirar-videos-em-que-lula-e-janja-falam-em-corte-de-acoes-sociais-por-flavio.shtml)_
 
+- **[2026-10-09 12:04 UTC]** Marcelo Freixo diz que turismo no Brasil bateu recordes com Lula, e que Flávio quer privatizar praias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/10/marcelo-freixo-diz-que-turismo-no-brasil-bateu-recordes-com-lula-e-que-flavio-quer-privatizar-praias.shtml)_
+
