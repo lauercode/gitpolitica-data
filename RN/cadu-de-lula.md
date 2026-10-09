@@ -140,3 +140,6 @@
 - **[2026-10-08 20:20 UTC]** Cadu de Lula diz que vai priorizar geração de empregos e saúde nos primeiros 100 dias de eventual governo
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/08/cadu-de-lula-diz-que-vai-priorizar-geracao-de-empregos-e-saude-nos-primeiros-100-dias-de-eventual-governo.ghtml)_
 
+- **[2026-10-08 21:52 UTC]** Nova pesquisa Quaest no Rio Grande do Norte para segundo turno mede disputa acirrada entre Allyson e Cadu de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/nova-pesquisa-quaest-no-rio-grande-do-norte-para-segundo-turno-mede-disputa-acirrada-entre-allyson-e-cadu-de-lula.ghtml)_
+
