@@ -4947,3 +4947,6 @@
 - **[2026-10-08 19:48 UTC]** Na TV, Flávio apostou em custo de vida e violência, e Lula investiu em legado, dizem analistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-apostou-em-custo-de-vida-e-violencia-na-tv-e-lula-investiu-em-legado-dizem-analistas.shtml)_
 
+- **[2026-10-08 19:30 UTC]** Única capital onde Flávio venceu na UE foi Atenas, berço da democracia; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/unica-capital-onde-flavio-venceu-na-uniao-europeia-foi-atenas-berco-da-democracia-veja-video.shtml)_
+
