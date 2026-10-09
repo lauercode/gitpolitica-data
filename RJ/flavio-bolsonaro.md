@@ -4959,3 +4959,6 @@
 - **[2026-10-08 18:40 UTC]** Datafolha: Flávio Bolsonaro tem 52% e Lula, 48% em votos válidos no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-52-e-lula-48-em-votos-validos-no-segundo-turno.shtml)_
 
+- **[2026-10-08 18:09 UTC]** Lula diz que Flávio Bolsonaro inventa 'lorota' sobre 6x1 e cobra da bancada do PL voto a favor da medida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lula-diz-que-flavio-bolsonaro-inventa-lorota-sobre-6x1-e-cobra-que-bancada-do-pl-vote-a-favor-da-medida.shtml)_
+
