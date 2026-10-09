@@ -4941,3 +4941,6 @@
 - **[2026-10-08 20:25 UTC]** Haddad pede votos para Lula em SP e diz que 'está fácil fazer campanha' contra Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/haddad-pede-votos-para-lula-em-sp-e-diz-que-esta-facil-fazer-campanha-contra-flavio-bolsonaro.shtml)_
 
+- **[2026-10-08 19:55 UTC]** Campanha de Lula entrará com ação eleitoral contra Flávio Bolsonaro por esquema de criptomoedas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-entrara-com-acao-eleitoral-contra-flavio-bolsonaro-por-esquema-de-criptomoedas.shtml)_
+
