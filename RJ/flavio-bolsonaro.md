@@ -5194,3 +5194,6 @@
 - **[2026-10-09 18:29 UTC]** Fator zera posição em juros e vê eleição de Flávio já no preço dos ativos
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/09/fator-zera-posicao-em-juros-e-ve-eleicao-de-flavio-ja-no-preco-dos-ativos.ghtml)_
 
+- **[2026-10-09 17:29 UTC]** Flávio Bolsonaro ou Lula: o que mostram as pesquisas de intenção de voto no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/flavio-bolsonaro-ou-lula-o-que-mostram-as-pesquisas-de-intencao-de-voto-no-segundo-turno.ghtml)_
+
