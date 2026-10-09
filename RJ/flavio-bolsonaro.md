@@ -4950,3 +4950,6 @@
 - **[2026-10-08 19:30 UTC]** Única capital onde Flávio venceu na UE foi Atenas, berço da democracia; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/unica-capital-onde-flavio-venceu-na-uniao-europeia-foi-atenas-berco-da-democracia-veja-video.shtml)_
 
+- **[2026-10-08 18:48 UTC]** Datafolha: 25% dos eleitores de Flávio Bolsonaro dizem escolher candidato para derrotar Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-25-dos-eleitores-de-flavio-bolsonaro-dizem-escolher-candidato-para-derrotar-lula.shtml)_
+
