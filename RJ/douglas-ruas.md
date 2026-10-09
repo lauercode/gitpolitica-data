@@ -77,3 +77,6 @@
 - **[2026-10-08 18:28 UTC]** Quem é Douglas Ruas, que deve ser o próximo governador do Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/quem-e-douglas-ruas-que-deve-ser-o-proximo-governador-do-rio.ghtml)_
 
+- **[2026-10-08 19:45 UTC]** Douglas Ruas critica judicialização da eleição e se declara governador
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/douglas-ruas-critica-judicializacao-da-eleicao-e-se-declara-governador)_
+
