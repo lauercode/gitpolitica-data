@@ -32,3 +32,6 @@
 - **[2026-10-09 18:22 UTC]** Ministério da Justiça pede à PF investigação sobre ameaças contra deputada federal eleita Ana Elisa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/09/ministerio-da-justica-pede-a-pf-investigacao-sobre-ameacas-contra-deputada-federal-eleita-ana-elisa.ghtml)_
 
+- **[2026-10-09 18:17 UTC]** Equipe de Ana Elisa acusa Nikolas de fake news e diz que acionará a Justiça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/equipe-de-ana-elisa-acusa-nikolas-de-fake-news-e-diz-que-acionara-a-justica.ghtml)_
+
