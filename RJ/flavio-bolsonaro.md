@@ -4980,3 +4980,6 @@
 - **[2026-10-08 22:36 UTC]** Flávio vai congelar o salário mínimo e cortar recursos da saúde e educação, diz Haddad
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/08/flvio-vai-congelar-o-salrio-mnimo-e-cortar-recursos-da-sade-e-educao-diz-haddad.ghtml)_
 
+- **[2026-10-08 22:28 UTC]** Augusto Cury anuncia apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/augusto-cury-anuncia-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml)_
+
