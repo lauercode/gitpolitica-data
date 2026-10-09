@@ -35,3 +35,6 @@
 - **[2026-09-15 14:36 UTC]** Vinho do Porto X vinho Madeira: descubra as diferenças!
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/09/15/vinho-do-porto-x-vinho-madeira-descubra-as-diferencas.ghtml)_
 
+- **[2026-10-09 05:00 UTC]** Seca do rio Madeira dificulta acesso à água e à escola em comunidades ribeirinhas de RO: 'Hoje não é mais rio'
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/09/seca-do-rio-madeira-dificulta-acesso-a-agua-e-a-escola-em-comunidades-ribeirinhas-de-ro-hoje-nao-e-mais-rio.ghtml)_
+
