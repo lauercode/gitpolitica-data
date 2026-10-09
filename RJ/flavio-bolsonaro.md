@@ -5179,3 +5179,6 @@
 - **[2026-10-09 18:06 UTC]** Grupo de dança de crianças africanas que recebeu por vídeo pró-Flávio Bolsonaro apaga material e pede desculpas
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjzxl549wr3xo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-09 19:47 UTC]** Rogério Marinho diz que PL não vai apoiar Allyson após candidato não assumir apoio a Flávio Bolsonaro no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/09/rogerio-marinho-diz-que-pl-nao-vai-apoiar-allyson-apos-candidato-nao-assumir-apoio-a-flavio-bolsonaro-no-rn.ghtml)_
+
