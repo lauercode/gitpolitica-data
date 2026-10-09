@@ -14,3 +14,6 @@
 - **[2026-10-07 23:44 UTC]** Após aliança com Flávio, Marcos Pereira declara ‘apoio incondicional’ à reeleição de Motta
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/aps-aliana-com-flvio-marcos-pereira-declara-apoio-incondicional-reeleio-de-motta.ghtml)_
 
+- **[2026-10-09 01:41 UTC]** O que Marcos Pereira pediu a Flávio para apoiá-lo no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/o-que-marcos-pereira-pediu-a-flavio-para-apoia-lo-no-segundo-turno.ghtml)_
+
