@@ -4910,3 +4910,6 @@
 - **[2026-10-08 21:10 UTC]** Flávio Bolsonaro recebe apoio de governadores eleitos e Cury
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-recebe-apoios-de-governadores-eleitos-e-cury)_
 
+- **[2026-10-08 20:06 UTC]** Site oferece criptomoedas por posts de apoio a Flávio Bolsonaro
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/site-oferece-criptomoedas-por-posts-de-apoio-flavio-bolsonaro)_
+
