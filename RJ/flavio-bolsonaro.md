@@ -5115,3 +5115,6 @@
 - **[2026-10-09 13:26 UTC]** Mendonça manda Lula excluir vídeo que atribui a Flávio cortes em programas sociais
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-lula-excluir-video-que-atribui-a-flavio-cortes-em-programas-sociais/)_
 
+- **[2026-10-09 11:45 UTC]** Netanyahu conversa com Flávio e pede “renovação da amizade” entre Brasil e Israel
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/netanyahu-conversa-flavio-pede-renovacao-amizade-brasil-israel/)_
+
