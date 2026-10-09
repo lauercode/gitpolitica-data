@@ -140,3 +140,6 @@
 - **[2026-10-08 00:51 UTC]** Forte incêndio atinge casa no bairro Aleixo, em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/07/forte-incendio-atinge-casa-no-bairro-aleixo-em-manaus.ghtml)_
 
+- **[2026-10-09 16:25 UTC]** Forte terremoto sacode o Panamá; operações do canal seguem normalmente
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/forte-terremoto-sacode-o-panama-operacoes-do-canal-seguem-normalmente)_
+
