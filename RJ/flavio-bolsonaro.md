@@ -4962,3 +4962,6 @@
 - **[2026-10-08 18:09 UTC]** Lula diz que Flávio Bolsonaro inventa 'lorota' sobre 6x1 e cobra da bancada do PL voto a favor da medida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lula-diz-que-flavio-bolsonaro-inventa-lorota-sobre-6x1-e-cobra-que-bancada-do-pl-vote-a-favor-da-medida.shtml)_
 
+- **[2026-10-08 17:35 UTC]** Fux pede acesso a processo de Bolsonaro e outros condenados da trama golpista para analisar atos de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fux-pede-acesso-a-processos-da-trama-golpista-para-analisar-supostas-irregularidades-em-atos-de-moraes.shtml)_
+
