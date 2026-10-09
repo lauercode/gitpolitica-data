@@ -5041,3 +5041,6 @@
 - **[2026-10-09 08:00 UTC]** Para Marcos Nobre, Flávio tentará ‘submissão negociada’ aos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/09/para-marcos-nobre-flavio-tentara-submissao-negociada-aos-eua.ghtml)_
 
+- **[2026-10-09 01:41 UTC]** O que Marcos Pereira pediu a Flávio para apoiá-lo no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/o-que-marcos-pereira-pediu-a-flavio-para-apoia-lo-no-segundo-turno.ghtml)_
+
