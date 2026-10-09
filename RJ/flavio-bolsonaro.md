@@ -5130,3 +5130,6 @@
 - **[2026-10-09 13:48 UTC]** Site que oferecia cripto por apoio a Flávio apaga conteúdo político
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/site-que-oferecia-cripto-por-apoio-flavio-apaga-conteudo-politico)_
 
+- **[2026-10-09 16:40 UTC]** Na estreia da campanha da TV neste 2º turno, Flávio promete manter programas sociais, e Lula critica cortes no governo Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/primeiro-programa-horario-eleitoral-2-turno-flavio-bolsonaro-lula.ghtml)_
+
