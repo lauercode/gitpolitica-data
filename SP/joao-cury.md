@@ -440,3 +440,6 @@
 - **[2026-10-08 18:02 UTC]** Cury acerta apoio à candidatura de Flávio no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/cury-acerta-apoio-a-candidatura-de-flavio-no-segundo-turno.shtml)_
 
+- **[2026-10-08 21:10 UTC]** Flávio Bolsonaro recebe apoio de governadores eleitos e Cury
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-recebe-apoios-de-governadores-eleitos-e-cury)_
+
