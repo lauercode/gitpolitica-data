@@ -23,3 +23,6 @@
 - **[2026-10-08 16:46 UTC]** Ana Elisa vê ameaça à democracia com Flávio e diz que ódio ao PT influencia eleitor
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/ana-elisa-ve-ameaca-a-democracia-com-flavio-e-diz-que-odio-ao-pt-influencia-eleitor.ghtml)_
 
+- **[2026-10-08 23:00 UTC]** Vida longa à Ana Elisa e ao debate sobre longevidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2026/10/vida-longa-a-ana-elisa-e-ao-debate-sobre-longevidade.shtml)_
+
