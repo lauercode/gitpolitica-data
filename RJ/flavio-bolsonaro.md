@@ -4919,3 +4919,6 @@
 - **[2026-10-08 23:24 UTC]** Em live, Flávio Bolsonaro mostra vídeos feitos com deepfake de seu rosto e ataca o PT
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/em-live-flavio-bolsonaro-mostra-videos-feitos-com-deepfake-de-seu-rosto-e-ataca-o-pt.ghtml)_
 
+- **[2026-10-08 23:00 UTC]** Flávio Bolsonaro visita arcebispo de Brasília e recebe imagem de Nossa Senhora
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/flavio-bolsonaro-visita-arcebispo-de-brasilia-e-recebe-imagem-de-nossa-senhora.ghtml)_
+
