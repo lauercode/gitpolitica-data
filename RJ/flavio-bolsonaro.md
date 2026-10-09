@@ -5035,3 +5035,6 @@
 - **[2026-10-09 01:42 UTC]** Flávio Bolsonaro pede renúncia de Moraes após decisão contra Eduardo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-pede-renuncia-de-moraes-apos-decisao-contra-eduardo/)_
 
+- **[2026-10-09 08:00 UTC]** Flávio tem 49% dos votos e Lula, 45%, diz Datafolha
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/09/flavio-tem-49-dos-votos-e-lula-45-diz-datafolha.ghtml)_
+
