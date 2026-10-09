@@ -5209,3 +5209,6 @@
 - **[2026-10-09 16:21 UTC]** Douglas Ruas quer trazer políticos que estavam com Paes para campanha de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/douglas-ruas-quer-trazer-politicos-que-estavam-com-paes-para-campanha-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-09 16:13 UTC]** Durigan: Inflação em 12 meses até setembro atinge 4,58%, ante 7,17% no governo Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/09/durigan-inflacao-em-12-meses-ate-setembro-atinge-458percent-ante-717percent-no-governo-bolsonaro.ghtml)_
+
