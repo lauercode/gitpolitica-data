@@ -5001,3 +5001,6 @@
 - **[2026-10-09 03:00 UTC]** Disputa digital: Lula reúne jovens influenciadores eleitos, e aliados de Flávio organizam reação nas redes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/disputa-digital-lula-reune-jovens-influenciadores-eleitos-e-aliados-de-flavio-organizam-reacao-nas-redes.ghtml)_
 
+- **[2026-10-09 03:00 UTC]** Flávio Bolsonaro fala em acabar com reeleição e aumentar o próprio mandato: entenda como mudança pode ocorrer
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/09/flavio-bolsonaro-fala-em-acabar-com-reeleicao-e-aumentar-o-proprio-mandato-entenda-como-mudanca-pode-ocorrer.ghtml)_
+
