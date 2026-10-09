@@ -5149,3 +5149,6 @@
 - **[2026-10-09 17:00 UTC]** Grupo Lide, de Doria, fará almoço para Flávio Bolsonaro com 400 empresários a 6 dias da eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/grupo-lide-de-doria-fara-almoco-para-flavio-bolsonaro-com-400-empresarios-a-6-dias-da-eleicao.shtml)_
 
+- **[2026-10-09 16:13 UTC]** Coordenador de Lula vê como absurda fala sobre pandemia de médico cotado para Saúde por Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/coordenador-de-lula-ve-como-absurda-fala-sobre-pandemia-de-medico-cotado-para-saude-por-flavio-bolsonaro.shtml)_
+
