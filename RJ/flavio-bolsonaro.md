@@ -5152,3 +5152,6 @@
 - **[2026-10-09 16:13 UTC]** Coordenador de Lula vê como absurda fala sobre pandemia de médico cotado para Saúde por Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/coordenador-de-lula-ve-como-absurda-fala-sobre-pandemia-de-medico-cotado-para-saude-por-flavio-bolsonaro.shtml)_
 
+- **[2026-10-09 16:09 UTC]** Torço para que não haja caos institucional se Flávio vencer, diz Kassab
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/torco-para-que-nao-haja-caos-institucional-se-flavio-vencer-diz-kassab.shtml)_
+
