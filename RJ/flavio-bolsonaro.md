@@ -5155,3 +5155,6 @@
 - **[2026-10-09 16:09 UTC]** Torço para que não haja caos institucional se Flávio vencer, diz Kassab
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/torco-para-que-nao-haja-caos-institucional-se-flavio-vencer-diz-kassab.shtml)_
 
+- **[2026-10-09 15:30 UTC]** Esposa de CEO de gigante química doa R$ 1 milhão para candidatura de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/esposa-de-ceo-de-gigante-quimica-doa-r-1-milhao-para-candidatura-de-flavio-bolsonaro.shtml)_
+
