@@ -26,3 +26,6 @@
 - **[2026-10-08 23:00 UTC]** Vida longa à Ana Elisa e ao debate sobre longevidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tatibernardi/2026/10/vida-longa-a-ana-elisa-e-ao-debate-sobre-longevidade.shtml)_
 
+- **[2026-10-09 15:05 UTC]** Ana Elisa desativa conta no X após sofrer ameaças de morte
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ana-elisa-desativa-conta-no-x-apos-sofrer-ameacas-de-morte)_
+
