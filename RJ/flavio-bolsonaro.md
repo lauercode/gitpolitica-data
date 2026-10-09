@@ -4913,3 +4913,6 @@
 - **[2026-10-08 20:06 UTC]** Site oferece criptomoedas por posts de apoio a Flávio Bolsonaro
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/site-oferece-criptomoedas-por-posts-de-apoio-flavio-bolsonaro)_
 
+- **[2026-10-09 00:35 UTC]** Augusto Cury diz que apoio a Flávio Bolsonaro não é 'cheque em branco': 'Iremos cobrar'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/08/cury-diz-que-apoio-a-flavio-bolsonaro-nao-e-cheque-em-branco-eu-e-todo-o-povo-brasileiro-iremos-cobrar.ghtml)_
+
