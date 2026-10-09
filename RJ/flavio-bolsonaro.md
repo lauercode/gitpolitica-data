@@ -5011,3 +5011,6 @@
 - **[2026-10-09 05:00 UTC]** Flávio Bolsonaro promete revisar papel do Ibama, Funai e ICMBio e quer explorar gás de 'fracking'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/flavio-bolsonaro-promete-revisar-papel-do-ibama-funai-e-icmbio-e-quer-explorar-gas-de-fracking.shtml)_
 
+- **[2026-10-09 00:00 UTC]** Ministério Público e polícia investigam caso de criança com objeto semelhante a arma em ato pró-Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ministerio-publico-e-policia-investigam-caso-de-crianca-com-objeto-semelhante-a-arma-em-ato-pro-flavio.shtml)_
+
