@@ -5164,3 +5164,6 @@
 - **[2026-10-09 13:15 UTC]** PT pede cassação de chapa de Flávio por uso de perfil de Marçal para disseminar fake news e propaganda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-pede-cassacao-de-chapa-de-flavio-por-uso-de-perfil-de-marcal-para-disseminar-fake-news-e-propaganda.shtml)_
 
+- **[2026-10-09 12:30 UTC]** Número de militares e policiais eleitos cresce em 2026 e retoma nível recorde atingido com Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mesmo-com-menos-candidatos-numero-de-militares-e-policiais-eleitos-cresce-em-2026.shtml)_
+
