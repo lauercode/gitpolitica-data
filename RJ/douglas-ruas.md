@@ -83,3 +83,6 @@
 - **[2026-10-09 04:00 UTC]** Douglas Ruas deve ser declarado governador eleito do RJ sob investigação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/douglas-ruas-deve-ser-declarado-governador-eleito-do-rj-sob-investigacao.shtml)_
 
+- **[2026-10-09 02:09 UTC]** Por que Douglas Ruas deve se tornar governador do Rio dias depois do 1º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss)_
+
