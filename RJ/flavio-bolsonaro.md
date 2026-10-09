@@ -5158,3 +5158,6 @@
 - **[2026-10-09 15:30 UTC]** Esposa de CEO de gigante química doa R$ 1 milhão para candidatura de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/esposa-de-ceo-de-gigante-quimica-doa-r-1-milhao-para-candidatura-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-09 15:23 UTC]** Caixa Econômica vai ser o Itaú da favela, o Bradesco da periferia, diz Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/caixa-economica-vai-ser-o-itau-da-favela-o-bradesco-da-periferia-diz-flavio-bolsonaro.shtml)_
+
