@@ -29,3 +29,6 @@
 - **[2026-10-09 15:05 UTC]** Ana Elisa desativa conta no X após sofrer ameaças de morte
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ana-elisa-desativa-conta-no-x-apos-sofrer-ameacas-de-morte)_
 
+- **[2026-10-09 18:22 UTC]** Ministério da Justiça pede à PF investigação sobre ameaças contra deputada federal eleita Ana Elisa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/09/ministerio-da-justica-pede-a-pf-investigacao-sobre-ameacas-contra-deputada-federal-eleita-ana-elisa.ghtml)_
+
