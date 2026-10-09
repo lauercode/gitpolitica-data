@@ -80,3 +80,6 @@
 - **[2026-10-05 01:51 UTC]** Eleições 2026: Vermelho (PL) é eleito deputado federal pelo Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-vermelho-pl-e-eleito-deputado-federal-pelo-parana.ghtml)_
 
+- **[2026-10-09 11:32 UTC]** Bianca Comparato vê Nobel de Anne Carson impulsionar turnê de 'Autobiografia do Vermelho'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/bianca-comparato-ve-nobel-de-anne-carson-impulsionar-turne-de-autobiografia-do-vermelho.shtml)_
+
