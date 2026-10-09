@@ -4907,3 +4907,6 @@
 - **[2026-10-08 16:46 UTC]** Ana Elisa vê ameaça à democracia com Flávio e diz que ódio ao PT influencia eleitor
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/ana-elisa-ve-ameaca-a-democracia-com-flavio-e-diz-que-odio-ao-pt-influencia-eleitor.ghtml)_
 
+- **[2026-10-08 21:10 UTC]** Flávio Bolsonaro recebe apoio de governadores eleitos e Cury
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-recebe-apoios-de-governadores-eleitos-e-cury)_
+
