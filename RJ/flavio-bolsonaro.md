@@ -4998,3 +4998,6 @@
 - **[2026-10-09 03:00 UTC]** Violência, corrupção, economia: veja as propostas de Flávio Bolsonaro e de Lula para os temas que mais preocupam os brasileiros
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/propostas-flavio-bolsonaro-lula-eleicoes-2026.ghtml)_
 
+- **[2026-10-09 03:00 UTC]** Disputa digital: Lula reúne jovens influenciadores eleitos, e aliados de Flávio organizam reação nas redes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/disputa-digital-lula-reune-jovens-influenciadores-eleitos-e-aliados-de-flavio-organizam-reacao-nas-redes.ghtml)_
+
