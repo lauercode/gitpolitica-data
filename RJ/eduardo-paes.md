@@ -59,3 +59,6 @@
 - **[2026-10-08 14:07 UTC]** Eduardo Paes recorre ao STF contra anulação de votos de Garotinho no RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-paes-afirma-que-vai-recorrer-ao-stf-contra-anulacao-de-votos-de-garotinho-no-rj.shtml)_
 
+- **[2026-10-08 22:16 UTC]** Zanin será relator da ação de Eduardo Paes que pede realização de segundo turno no Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/zanin-sera-relator-da-acao-de-eduardo-paes-que-pede-realizacao-de-segundo-turno-no-rio.ghtml)_
+
