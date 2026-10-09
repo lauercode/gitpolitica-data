@@ -5060,3 +5060,6 @@
 - **[2026-10-09 11:04 UTC]** TSE: ministros ordenam que Lula e Janja removam vídeos contra Flávio
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-ministros-ordenam-que-lula-e-janja-removam-videos-contra-flavio)_
 
+- **[2026-10-09 10:23 UTC]** Mendonça determina remoção de vídeo de deputados contrários a Flávio
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mendonca-determina-remocao-de-video-de-deputados-contrarios-flavio)_
+
