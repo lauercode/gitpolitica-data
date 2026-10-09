@@ -5112,3 +5112,6 @@
 - **[2026-10-09 10:00 UTC]** Escolha entre Lula e Flávio Bolsonaro é simples: civilização ou barbárie
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2026/10/escolha-entre-lula-e-flavio-bolsonaro-e-simples-civilizacao-ou-barbarie.shtml)_
 
+- **[2026-10-09 13:26 UTC]** Mendonça manda Lula excluir vídeo que atribui a Flávio cortes em programas sociais
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-lula-excluir-video-que-atribui-a-flavio-cortes-em-programas-sociais/)_
+
