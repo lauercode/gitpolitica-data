@@ -4922,3 +4922,6 @@
 - **[2026-10-08 23:00 UTC]** Flávio Bolsonaro visita arcebispo de Brasília e recebe imagem de Nossa Senhora
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/flavio-bolsonaro-visita-arcebispo-de-brasilia-e-recebe-imagem-de-nossa-senhora.ghtml)_
 
+- **[2026-10-08 22:37 UTC]** Datafolha: Flávio comemora mais pontos obtidos do que Lula, que aponta para eleição indefinida
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/08/datafolha-flavio-bolsonaro-comemora-mais-pontos-obtidos-do-que-lula-que-aponta-para-eleicao-indefinida.ghtml)_
+
