@@ -5142,3 +5142,7 @@
 - **[2026-10-09 13:25 UTC]** Na volta do horário eleitoral, Flávio vai focar em endividamento; Lula, na volta da família Bolsonaro ao poder
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/09/volta-do-horario-eleitoral-flavio-bolsonaro-vai-focar-na-vida-real-lula-na-estrategia-do-medo.ghtml)_
 
+- **[2026-10-07 17:28 UTC]** Coordenador de campanha de Flávio, Rogério Marinho tem alta após 
+'mal-estar' e internação no DF
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml)_
+
