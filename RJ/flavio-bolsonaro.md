@@ -5023,3 +5023,6 @@
 - **[2026-10-08 23:00 UTC]** Indicado de Flávio para a Saúde trata atuação de Jair Bolsonaro na pandemia como 'capítulo superado'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/indicado-de-flavio-para-a-saude-trata-atuacao-de-jair-bolsonaro-na-pandemia-como-capitulo-superado.shtml)_
 
+- **[2026-10-08 23:00 UTC]** Aliados de Flávio Bolsonaro veem Lottenberg na Saúde como escudo na campanha contra negacionismo de Jair
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/aliados-de-flavio-bolsonaro-veem-lottenberg-como-escudo-na-campanha-contra-negacionismo-de-jair.shtml)_
+
