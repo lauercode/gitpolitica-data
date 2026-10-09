@@ -4989,3 +4989,6 @@
 - **[2026-10-08 21:43 UTC]** Datafolha: Flávio, com 49%, e Lula, com 45%, têm empate técnico no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/datafolha-flavio-bolsonaro-tem-49percent-dos-votos-e-lula-45percent-no-segundo-turno.ghtml)_
 
+- **[2026-10-08 21:35 UTC]** Fux pede acesso a inquéritos contra Bolsonaro relatados por Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/08/fux-pede-acesso-a-inqueritos-contra-bolsonaro-relatados-por-alexandre-de-moraes.ghtml)_
+
