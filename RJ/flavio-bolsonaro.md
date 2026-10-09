@@ -5020,3 +5020,6 @@
 - **[2026-10-08 23:00 UTC]** Datafolha: Campanha de Flávio vê Lula estagnado, e aliados do petista torcem por 'efeito Aécio'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-campanha-de-flavio-ve-lula-estagnado-e-aliados-do-petista-torcem-por-efeito-aecio.shtml)_
 
+- **[2026-10-08 23:00 UTC]** Indicado de Flávio para a Saúde trata atuação de Jair Bolsonaro na pandemia como 'capítulo superado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/indicado-de-flavio-para-a-saude-trata-atuacao-de-jair-bolsonaro-na-pandemia-como-capitulo-superado.shtml)_
+
