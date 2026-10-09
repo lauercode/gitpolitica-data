@@ -5038,3 +5038,6 @@
 - **[2026-10-09 08:00 UTC]** Flávio tem 49% dos votos e Lula, 45%, diz Datafolha
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/09/flavio-tem-49-dos-votos-e-lula-45-diz-datafolha.ghtml)_
 
+- **[2026-10-09 08:00 UTC]** Para Marcos Nobre, Flávio tentará ‘submissão negociada’ aos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/09/para-marcos-nobre-flavio-tentara-submissao-negociada-aos-eua.ghtml)_
+
