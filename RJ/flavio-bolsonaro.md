@@ -5066,3 +5066,6 @@
 - **[2026-10-09 10:01 UTC]** Flávio Bolsonaro cumpre agenda no Rio de Janeiro e Lula em Brasília
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-bolsonaro-cumpre-agenda-no-rio-de-janeiro-e-lula-em-brasilia)_
 
+- **[2026-10-09 13:25 UTC]** Volta do horário eleitoral: Flávio vai apostar na vida real; Lula, no retorno dos Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/09/volta-do-horario-eleitoral-flavio-bolsonaro-vai-focar-na-vida-real-lula-na-estrategia-do-medo.ghtml)_
+
