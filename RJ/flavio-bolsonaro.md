@@ -4983,3 +4983,6 @@
 - **[2026-10-08 22:28 UTC]** Augusto Cury anuncia apoio a Flávio Bolsonaro no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/augusto-cury-anuncia-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-08 22:11 UTC]** Equipe de Flávio descarta superministério como o de Paulo Guedes, de Jair Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/equipe-de-flvio-descarta-superministrio-como-o-de-guedes-e-garante-mdic-separado.ghtml)_
+
