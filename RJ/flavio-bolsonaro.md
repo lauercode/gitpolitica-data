@@ -5121,3 +5121,6 @@
 - **[2026-10-09 11:25 UTC]** Nova 'guerra às drogas' de Trump aposta em 'militarização' na América Latina: o que muda com Flávio Bolsonaro ou Lula no poder?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck87zdg420nro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-09 14:58 UTC]** Análise: Promessa para saúde amplia incerteza fiscal de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/analise-promessa-para-saude-amplia-incerteza-fiscal-de-flavio-bolsonaro.ghtml)_
+
