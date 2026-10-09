@@ -5097,3 +5097,6 @@
 - **[2026-10-09 11:30 UTC]** Aliados de Flávio contam com Cleitinho como cabo eleitoral em MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-de-flavio-contam-com-cleitinho-como-cabo-eleitoral-em-mg.shtml)_
 
+- **[2026-10-09 11:01 UTC]** O custo do esquecimento de ter um Bolsonaro na Presidência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/o-custo-do-esquecimento-de-ter-um-bolsonaro-na-presidencia.shtml)_
+
