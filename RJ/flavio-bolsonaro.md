@@ -5185,3 +5185,6 @@
 - **[2026-10-09 20:00 UTC]** Campanha de Flávio explora reportagem que associa Vorcaro a Lula; PGR e PF desmentem
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/campanha-de-flavio-explora-reportagem-que-associa-vorcaro-a-lula-pgr-e-pf-desmentem.ghtml)_
 
+- **[2026-10-09 19:13 UTC]** Mendonça derruba vídeo de Lula que dizia que Flávio cortaria R$ 200 bi de programas sociais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/mendonca-derruba-video-de-lula-que-dizia-que-flavio-cortaria-r-200-bi-de-programas-sociais.ghtml)_
+
