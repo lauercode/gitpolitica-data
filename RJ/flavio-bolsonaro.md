@@ -5329,3 +5329,6 @@
 - **[2026-10-10 04:00 UTC]** Flávio Bolsonaro promete novo alívio em dívidas de estados após pedido de governador eleito de MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-promete-novo-alivio-em-dividas-de-estados-apos-pedido-de-governador-eleito-de-mg.shtml)_
 
+- **[2026-10-10 09:00 UTC]** Mailza Assis e Alan Rick exploram aproximação com Flávio Bolsonaro em disputa ao governo do AC: 'Efeito nulo', diz cientista político
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/10/mailza-assis-e-alan-rick-exploram-aproximacao-com-flavio-bolsonaro-em-disputa-ao-governo-do-ac-efeito-nulo-diz-cientista-politico.ghtml)_
+
