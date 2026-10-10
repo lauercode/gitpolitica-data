@@ -35,3 +35,6 @@
 - **[2026-10-08 12:43 UTC]** Eduarda Campopiano acusa influenciadora de importunação sexual e quer R$ 20 mil de indenização
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduarda-campopiano-acusa-influenciadora-de-importunacao-sexual-e-quer-r-20-mil-de-indenizacao.shtml)_
 
+- **[2026-10-10 14:44 UTC]** Crítica de programas de assistência, Eduarda Campopiano tem mãe que recebe benefício
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/critica-de-programas-de-assistencia-eduarda-campopiano-tem-mae-que-recebe-beneficio.shtml)_
+
