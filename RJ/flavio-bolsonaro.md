@@ -5314,3 +5314,6 @@
 - **[2026-10-10 01:46 UTC]** TSE suspende site que oferece criptomoedas por apoio a Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-suspende-site-que-oferece-criptomoedas-por-apoio-a-flavio/)_
 
+- **[2026-10-10 00:35 UTC]** Record cancela debate entre Flávio e Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/record-cancela-debate-entre-flavio-e-lula/)_
+
