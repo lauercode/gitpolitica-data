@@ -347,3 +347,6 @@
 - **[2026-10-09 19:50 UTC]** Alcolumbre marca sessões sobre fim da 6x1 no Senado, e votação será na quarta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alcolumbre-marca-sessoes-sobre-fim-da-6x1-no-senado-e-votacao-pode-ocorrer-na-quinta-15.shtml)_
 
+- **[2026-10-09 22:53 UTC]** Alcolumbre marca votação da PEC do fim da escala 6×1 para próxima quarta (14)
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/alcolumbre-marca-votacao-da-pec-do-fim-da-escala-6x1-para-proxima-quarta-14/)_
+
