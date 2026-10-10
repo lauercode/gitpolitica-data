@@ -5242,3 +5242,6 @@
 - **[2026-10-09 21:23 UTC]** Datafolha no DF, 2º turno: Flávio Bolsonaro, 49%; Lula, 43%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/09/datafolha-df-presidente-segundo-turno-8-outubro.ghtml)_
 
+- **[2026-10-09 21:03 UTC]** Ministra do TSE tira do ar site com esquema de criptomoedas pró-Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ministra-do-tse-tira-do-ar-site-com-esquema-de-criptomoedas-pro-flavio.shtml)_
+
