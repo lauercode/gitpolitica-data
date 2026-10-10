@@ -143,3 +143,6 @@
 - **[2026-10-08 21:52 UTC]** Nova pesquisa Quaest no Rio Grande do Norte para segundo turno mede disputa acirrada entre Allyson e Cadu de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/nova-pesquisa-quaest-no-rio-grande-do-norte-para-segundo-turno-mede-disputa-acirrada-entre-allyson-e-cadu-de-lula.ghtml)_
 
+- **[2026-10-09 22:29 UTC]** Cadu de Lula defende projeto de desenvolvimento e diálogo com a população em caminhada nas Quintas, em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/09/cadu-de-lula-defende-projeto-de-desenvolvimento-e-dialogo-com-a-populacao-em-caminhada-nas-quintas-em-natal.ghtml)_
+
