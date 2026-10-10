@@ -5302,3 +5302,6 @@
 - **[2026-10-09 22:14 UTC]** Anitta declara voto em Lula e critica Flávio Bolsonaro: 'Fui ingênua'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/anitta-declara-voto-em-lula-e-critica-flavio-bolsonaro-fui-ingenua.shtml)_
 
+- **[2026-10-09 22:00 UTC]** Flávio sai na frente no Datafolha e nas alianças
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/flavio-sai-na-frente-no-datafolha-e-nas-aliancas.shtml)_
+
