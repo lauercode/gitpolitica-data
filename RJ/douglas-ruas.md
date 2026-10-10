@@ -98,3 +98,6 @@
 - **[2026-10-10 16:29 UTC]** Após retotalização dos votos, Douglas Ruas tem 50,88% dos votos no RJ
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/apos-retotalizacao-dos-votos-douglas-ruas-tem-5088-dos-votos-no-rj)_
 
+- **[2026-10-10 16:50 UTC]** Retotalização de votos no RJ confirma Douglas Ruas como governador
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/retotalizacao-de-votos-no-rj-confirma-douglas-ruas-como-governador)_
+
