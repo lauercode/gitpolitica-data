@@ -38,3 +38,6 @@
 - **[2026-10-09 22:28 UTC]** Ana Elisa denuncia ataque digital coordenado à Polícia Federal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/ana-elisa-denuncia-ataque-digital-coordenado-polcia-federal.ghtml)_
 
+- **[2026-10-09 21:08 UTC]** Nome forte de Lula para campanha online, deputada eleita Ana Elisa sofre ataques racistas nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nome-forte-de-lula-para-campanha-online-deputada-eleita-ana-elisa-sofre-ataques-racistas-nas-redes.shtml)_
+
