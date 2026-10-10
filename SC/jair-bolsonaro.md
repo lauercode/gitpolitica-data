@@ -107,3 +107,6 @@
 - **[2026-10-10 10:35 UTC]** Como Jair Bolsonaro quase conseguiu em 2022 a virada que Lula almeja no 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw23dnmk9v9po?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-10 15:23 UTC]** VÍDEO: Flávio diz que Jair Bolsonaro colocará a faixa presidencial nele no dia da posse e promete reduzir maioridade penal
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/flavio-bolsonaro-agenda-rj.ghtml)_
+
