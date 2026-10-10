@@ -5221,3 +5221,6 @@
 - **[2026-10-09 16:11 UTC]** Flávio Bolsonaro faz ato no Rio ao lado de Douglas Ruas
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-faz-ato-no-rio-ao-lado-de-douglas-ruas)_
 
+- **[2026-10-09 20:35 UTC]** Edson Fachin manda PF investigar ameaças contra Flávio Dino
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/edson-fachin-manda-pf-investigar-ameacas-contra-flavio-dino)_
+
