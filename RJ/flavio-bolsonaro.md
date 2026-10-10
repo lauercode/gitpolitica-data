@@ -5308,3 +5308,6 @@
 - **[2026-10-09 21:21 UTC]** Lula dramatiza com IA criança levando arma à escola, e Flávio adota tom de eleito na TV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-dramatiza-com-ia-crianca-levando-arma-a-escola-e-flavio-adota-tom-de-eleito-na-tv.shtml)_
 
+- **[2026-10-09 21:03 UTC]** Ministra do TSE manda tirar do ar site com esquema de criptomoedas pró-Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ministra-do-tse-tira-do-ar-site-com-esquema-de-criptomoedas-pro-flavio.shtml)_
+
