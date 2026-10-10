@@ -5275,3 +5275,6 @@
 - **[2026-10-09 21:36 UTC]** TSE manda suspender site que oferece criptomoedas por apoio a Flávio
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-manda-suspender-site-que-oferece-criptomoedas-por-apoio-flavio)_
 
+- **[2026-10-10 01:01 UTC]** Camilo Santana diz que estratégia de campanha é comparar biografias e lembrar população sobre como foi governo Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/09/camilo-santana-campanha-lula-2-turno-comparar-biografias-flavio-bolsonaro.ghtml)_
+
