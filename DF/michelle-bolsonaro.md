@@ -56,3 +56,6 @@
 - **[2026-10-06 22:32 UTC]** Michelle Bolsonaro articula ida ao Amazonas para impulsionar candidata do PL
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/michelle-bolsonaro-articula-ida-ao-amazonas-para-impulsionar-candidata-do-pl.shtml)_
 
+- **[2026-10-10 20:21 UTC]** Quem é a amiga de Michelle Bolsonaro eleita vice-governadora do RJ
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/rio-de-janeiro/quem-e-a-amiga-de-michelle-bolsonaro-e-ex-miss-eleita-vice-governadora-do-rj/)_
+
