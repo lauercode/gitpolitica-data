@@ -5230,3 +5230,6 @@
 - **[2026-10-09 23:48 UTC]** TSE suspende site que oferece criptomoeda a quem divulgar conteúdo que defende voto em Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-suspende-site-que-oferece-criptomoeda-a-quem-divulgar-conteudo-que-defende-voto-em-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-09 23:19 UTC]** Fachin aciona PF após STF identificar ameaças contra Flávio Dino nas redes sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/09/fachin-pf-ameacas-dino.ghtml)_
+
