@@ -104,3 +104,6 @@
 - **[2026-10-10 15:12 UTC]** Douglas Ruas é confirmado como governador eleito do RJ, o mais jovem do estado em 5 décadas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/douglas-ruas-e-confirmado-governador-eleito-do-rj-apos-retotalizacao-de-votos.shtml)_
 
+- **[2026-10-10 18:52 UTC]** Douglas Ruas é eleito governador do Rio em 1º turno após TRE retotalizar votos
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmzxlkzdk592o?at_medium=RSS&at_campaign=rss)_
+
