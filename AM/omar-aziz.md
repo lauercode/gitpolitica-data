@@ -125,3 +125,6 @@
 - **[2026-10-08 21:40 UTC]** Nova pesquisa Quaest no Amazonas para segundo turno mede duelo entre Omar Aziz e Professora Maria do Carmo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/nova-pesquisa-quaest-no-amazonas-para-segundo-turno-mede-duelo-entre-omar-aziz-e-professora-maria-do-carmo.ghtml)_
 
+- **[2026-10-10 01:50 UTC]** Eleições no AM: Omar Aziz reúne prefeitos em evento em Manaus, e Professora Maria do Carmo fala sobre combate às queimadas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/09/eleicoes-no-am-omar-aziz-reune-prefeitos-em-evento-em-manaus-e-professora-maria-do-carmo-fala-sobre-combate-as-queimadas.ghtml)_
+
