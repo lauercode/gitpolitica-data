@@ -5227,3 +5227,6 @@
 - **[2026-10-09 21:02 UTC]** Lula faz caminhada no DF e Flávio se reúne com lideranças no RJ
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-faz-caminhanda-no-df-e-flavio-se-reune-com-liderancas-no-rj)_
 
+- **[2026-10-09 23:48 UTC]** TSE suspende site que oferece criptomoeda a quem divulgar conteúdo que defende voto em Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-suspende-site-que-oferece-criptomoeda-a-quem-divulgar-conteudo-que-defende-voto-em-flavio-bolsonaro.ghtml)_
+
