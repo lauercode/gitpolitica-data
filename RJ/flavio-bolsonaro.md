@@ -5239,3 +5239,6 @@
 - **[2026-10-09 21:53 UTC]** Datafolha: para 78%, é muito importante que Lula e Flávio Bolsonaro participem de debates
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/datafolha-lula-flavio-bolsonaro-debates-9-outubro.ghtml)_
 
+- **[2026-10-09 21:23 UTC]** Datafolha no DF, 2º turno: Flávio Bolsonaro, 49%; Lula, 43%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/09/datafolha-df-presidente-segundo-turno-8-outubro.ghtml)_
+
