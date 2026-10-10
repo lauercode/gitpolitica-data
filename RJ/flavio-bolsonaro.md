@@ -5347,3 +5347,6 @@
 - **[2026-10-10 14:55 UTC]** No RN, Lula diz que 'tesouraço' de Flávio será feito em cima de programas sociais e apela por mobilização de quem não votou no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/10/no-rn-lula-diz-que-tesouraco-de-flavio-sera-feito-em-cima-de-programas-sociais-e-que-candidato-do-pl-beija-a-bandeira-dos-eua.ghtml)_
 
+- **[2026-10-10 14:21 UTC]** Flávio está mentindo sobre teu dinheiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/10/flavio-esta-mentindo-sobre-teu-dinheiro.shtml)_
+
