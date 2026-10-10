@@ -353,3 +353,6 @@
 - **[2026-10-09 22:52 UTC]** Alcolumbre pauta para quarta-feira votação da PEC do fim da escala 6x1
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/09/alcolumbre-pauta-para-quarta-feira-votacao-do-fim-da-escala-6x1.ghtml)_
 
+- **[2026-10-09 21:34 UTC]** Alcolumbre marca votação da PEC pelo fim da 6x1 para quarta-feira
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-pelo-fim-da-6x1-para-quarta-feira)_
+
