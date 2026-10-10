@@ -95,3 +95,6 @@
 - **[2026-10-09 17:55 UTC]** Fernanda Louback, vice de Douglas Ruas, já atuou no Zorra Total e foi Miss Rio de Janeiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/fernanda-louback-vice-de-douglas-ruas-ja-atuou-no-zorra-total-e-foi-miss-rio-de-janeiro.shtml)_
 
+- **[2026-10-10 16:29 UTC]** Após retotalização dos votos, Douglas Ruas tem 50,88% dos votos no RJ
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/apos-retotalizacao-dos-votos-douglas-ruas-tem-5088-dos-votos-no-rj)_
+
