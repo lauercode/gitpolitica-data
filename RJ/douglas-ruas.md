@@ -107,3 +107,6 @@
 - **[2026-10-10 18:52 UTC]** Douglas Ruas é eleito governador do Rio em 1º turno após TRE retotalizar votos
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmzxlkzdk592o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-10 19:35 UTC]** Estudantes protestam após retotalização de votos para governo do Rio, que coloca Douglas Ruas à frente
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/estudantes-protestam-apos-retotalizacao-de-votos-para-governo-do-rio-que-coloca-douglas-ruas-a-frente.ghtml)_
+
