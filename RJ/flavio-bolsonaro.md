@@ -5365,3 +5365,6 @@
 - **[2026-10-10 11:19 UTC]** As propostas de Lula e Flávio Bolsonaro para a Cultura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/as-propostas-de-lula-e-flavio-bolsonaro-para-a-cultura.shtml)_
 
+- **[2026-10-10 17:30 UTC]** Flávio volta a prometer que Jair Bolsonaro vai lhe entregar a faixa presidencial
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-volta-a-prometer-que-jair-bolsonaro-vai-lhe-entregar-a-faixa-presidencial/)_
+
