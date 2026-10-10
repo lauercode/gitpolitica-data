@@ -113,3 +113,6 @@
 - **[2026-10-10 17:30 UTC]** Flávio volta a prometer que Jair Bolsonaro vai lhe entregar a faixa presidencial
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-volta-a-prometer-que-jair-bolsonaro-vai-lhe-entregar-a-faixa-presidencial/)_
 
+- **[2026-10-10 15:07 UTC]** Flávio diz que Jair Bolsonaro vai estar na posse e passar a faixa presidencial
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-diz-que-jair-bolsonaro-vai-estar-na-posse-e-passar-a-faixa-presidencial.ghtml)_
+
