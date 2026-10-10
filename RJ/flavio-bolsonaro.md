@@ -5380,3 +5380,6 @@
 - **[2026-10-10 16:11 UTC]** Lula questiona onde Flávio vai promover corte de gastos: 'Sempre cortam dos pobres'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/lula-questiona-onde-flvio-vai-promover-o-corte-de-gastos-sempre-cortam-dos-pobres.ghtml)_
 
+- **[2026-10-10 15:07 UTC]** Flávio diz que Jair Bolsonaro vai estar na posse e passar a faixa presidencial
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-diz-que-jair-bolsonaro-vai-estar-na-posse-e-passar-a-faixa-presidencial.ghtml)_
+
