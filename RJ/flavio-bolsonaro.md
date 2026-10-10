@@ -5374,3 +5374,6 @@
 - **[2026-10-10 13:08 UTC]** Conheça as propostas de Lula e Flávio Bolsonaro para a Cultura
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3zxjrxjr0gqo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-10 17:27 UTC]** Flávio Bolsonaro reforça agenda com mulheres no Rio e promete ampliar políticas de proteção e inclusão
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-bolsonaro-refora-agenda-com-mulheres-no-rio-e-promete-ampliar-polticas-de-proteo-e-incluso.ghtml)_
+
