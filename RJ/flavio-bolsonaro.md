@@ -5383,3 +5383,6 @@
 - **[2026-10-10 15:07 UTC]** Flávio diz que Jair Bolsonaro vai estar na posse e passar a faixa presidencial
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-diz-que-jair-bolsonaro-vai-estar-na-posse-e-passar-a-faixa-presidencial.ghtml)_
 
+- **[2026-10-10 16:55 UTC]** Flávio liga para Ratinho Jr e acerta apoio de governador a sua candidatura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-liga-para-ratinho-jr-e-acerta-apoio-de-governador-a-sua-candidatura.shtml)_
+
