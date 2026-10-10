@@ -5260,3 +5260,6 @@
 - **[2026-10-09 18:16 UTC]** Datafolha: No Distrito Federal, Flávio tem 54%, e Lula, 46% em votos válidos no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-no-distrito-federal-flavio-tem-54-e-lula-46-em-votos-validos-no-2o-turno.shtml)_
 
+- **[2026-10-09 18:15 UTC]** Lula dispara nas redes após 1º turno e supera Flávio Bolsonaro em engajamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/lula-dispara-nas-redes-apos-1o-turno-e-supera-flavio-bolsonaro-em-engajamento.shtml)_
+
