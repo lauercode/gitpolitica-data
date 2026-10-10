@@ -5284,3 +5284,6 @@
 - **[2026-10-09 23:00 UTC]** Resultado da eleição redefine fila de cotados ao STF com Flávio Bolsonaro ou Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/resultado-da-eleicao-redefine-fila-de-cotados-ao-stf-com-flavio-bolsonaro-ou-lula.shtml)_
 
+- **[2026-10-09 23:00 UTC]** Perfis pró-Flávio no Brasil e no exterior expuseram eleitores de Lula e incentivaram denúncias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/perfis-pro-flavio-no-brasil-e-no-exterior-expuseram-eleitores-de-lula-e-incentivaram-denuncias.shtml)_
+
