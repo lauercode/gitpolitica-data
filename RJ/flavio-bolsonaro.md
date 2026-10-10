@@ -5269,3 +5269,6 @@
 - **[2026-10-09 23:49 UTC]** Flávio amplia frente política e acumula vitórias no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-amplia-frente-politica-e-acumula-vitorias-no-2o-turno/)_
 
+- **[2026-10-09 21:43 UTC]** Record cancela debate entre Flávio Bolsonaro e Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/record-cancela-debate-entre-flavio-bolsonaro-e-lula.ghtml)_
+
