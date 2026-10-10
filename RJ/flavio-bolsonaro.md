@@ -5281,3 +5281,6 @@
 - **[2026-10-10 00:01 UTC]** Grupo de token pró-Flávio briga após prejuízos, cobra compradores e tira política de site até eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/grupo-de-token-pro-flavio-briga-apos-prejuizos-cobra-compradores-e-tira-politica-de-site-ate-eleicao.shtml)_
 
+- **[2026-10-09 23:00 UTC]** Resultado da eleição redefine fila de cotados ao STF com Flávio Bolsonaro ou Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/resultado-da-eleicao-redefine-fila-de-cotados-ao-stf-com-flavio-bolsonaro-ou-lula.shtml)_
+
