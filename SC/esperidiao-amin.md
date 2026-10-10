@@ -29,3 +29,6 @@
 - **[2026-10-08 19:55 UTC]** Amin, Carlos Moisés e Raimundo Colombo: ex-governadores de SC não se elegem em 2026
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/08/amin-moises-colombo-ex-governadores-sc-nao-se-elegem-2026.ghtml)_
 
+- **[2026-10-10 18:20 UTC]** Gilmar Mendes lamenta a derrota de Esperidião Amin para o PL na reeleição ao Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-lamenta-a-derrota-de-esperidiao-amin-para-o-pl-na-reeleicao-ao-senado/)_
+
