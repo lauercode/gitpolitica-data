@@ -344,3 +344,6 @@
 - **[2026-10-09 21:51 UTC]** Alcolumbre pauta votação da PEC que prevê fim da escala 6x1 para a próxima quarta-feira
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/09/alcolumbre-pauta-votacao-de-pec-que-preve-fim-da-escala-6-x-1-para-a-proxima-quarta-feira.ghtml)_
 
+- **[2026-10-09 19:50 UTC]** Alcolumbre marca sessões sobre fim da 6x1 no Senado, e votação será na quarta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alcolumbre-marca-sessoes-sobre-fim-da-6x1-no-senado-e-votacao-pode-ocorrer-na-quinta-15.shtml)_
+
