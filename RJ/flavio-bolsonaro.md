@@ -5251,3 +5251,6 @@
 - **[2026-10-09 20:22 UTC]** Flávio propõe superministério social com Bolsa Família e 'nova mentalidade'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-propoe-superministerio-social-com-bolsa-familia-e-nova-mentalidade.shtml)_
 
+- **[2026-10-09 19:04 UTC]** Datafolha: 43% acham que vida seguirá igual com Lula; eleitor se divide sobre como ficará com Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-43-acham-que-vida-seguira-igual-com-lula-eleitor-se-divide-sobre-como-ficara-com-flavio.shtml)_
+
