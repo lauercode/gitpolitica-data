@@ -5296,3 +5296,6 @@
 - **[2026-10-09 23:00 UTC]** Favoritismo de Flávio Bolsonaro põe em xeque reeleição de Motta e Alcolumbre, e centrão se movimenta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/favoritismo-de-flavio-bolsonaro-poe-em-xeque-reeleicao-de-motta-e-alcolumbre-e-centrao-se-movimenta.shtml)_
 
+- **[2026-10-09 23:00 UTC]** Segundo turno tem guerra judicial com ordens de ministros contra Lula e ação do PT contra Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/segundo-turno-tem-guerra-judicial-com-ordens-de-ministros-contra-lula-e-acao-do-pt-contra-flavio.shtml)_
+
