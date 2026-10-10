@@ -5335,3 +5335,6 @@
 - **[2026-10-10 09:00 UTC]** A única capital da União Europeia onde Flávio Bolsonaro venceu o 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/10/a-unica-capital-da-uniao-europeia-onde-flavio-bolsonaro-venceu-o-1o-turno.ghtml)_
 
+- **[2026-10-10 11:38 UTC]** Ideia de Flávio para aumentar mandato pode ferir cláusula pétrea, dizem especialistas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/ideia-de-flvio-para-aumentar-mandato-pode-ferir-clusula-ptrea-dizem-especialistas.ghtml)_
+
