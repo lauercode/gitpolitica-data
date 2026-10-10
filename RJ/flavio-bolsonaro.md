@@ -5233,3 +5233,6 @@
 - **[2026-10-09 23:19 UTC]** Fachin aciona PF após STF identificar ameaças contra Flávio Dino nas redes sociais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/09/fachin-pf-ameacas-dino.ghtml)_
 
+- **[2026-10-09 22:13 UTC]** Datafolha: 43% esperam que vida fique igual se Lula ganhar; eleitorado se divide sobre eventual governo de Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/09/datafolha-perguntas-carona-9-outubro.ghtml)_
+
