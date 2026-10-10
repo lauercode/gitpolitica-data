@@ -5362,3 +5362,6 @@
 - **[2026-10-10 11:40 UTC]** Para entender o risco de estelionato eleitoral de Flávio Bolsonaro na economia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/para-entender-o-risco-de-estelionato-eleitoral-de-flavio-bolsonaro-na-economia.shtml)_
 
+- **[2026-10-10 11:19 UTC]** As propostas de Lula e Flávio Bolsonaro para a Cultura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/as-propostas-de-lula-e-flavio-bolsonaro-para-a-cultura.shtml)_
+
