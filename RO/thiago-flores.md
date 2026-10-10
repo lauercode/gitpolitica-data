@@ -35,3 +35,6 @@
 - **[2026-10-06 18:40 UTC]** Resultado das eleições 2026 em Xanxerê (SC): votação para presidente no Centro Comunitário de Perau das Flores, na 43ª zona eleitoral
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-xanxere-sc-votacao-para-presidente-no-centro-comunitario-de-perau-das-flores-na-43a-zona-eleitoral.ghtml)_
 
+- **[2026-10-09 23:22 UTC]** Flores, fé e fogos: homenagens marcam traslado para Ananindeua e Marituba no Círio 2026
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/09/flores-fe-e-papeis-coloridos-homenagens-marcam-o-traslado-para-ananindeua-e-marituba-do-cirio-2026.ghtml)_
+
