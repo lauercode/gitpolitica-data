@@ -356,3 +356,6 @@
 - **[2026-10-09 21:34 UTC]** Alcolumbre marca votação da PEC pelo fim da 6x1 para quarta-feira
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-pelo-fim-da-6x1-para-quarta-feira)_
 
+- **[2026-10-09 23:00 UTC]** Favoritismo de Flávio Bolsonaro põe em xeque reeleição de Motta e Alcolumbre, e centrão se movimenta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/favoritismo-de-flavio-bolsonaro-poe-em-xeque-reeleicao-de-motta-e-alcolumbre-e-centrao-se-movimenta.shtml)_
+
