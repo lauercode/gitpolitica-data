@@ -5323,3 +5323,6 @@
 - **[2026-10-10 00:35 UTC]** TSE suspende site que oferece criptomoeda a quem divulgar conteúdo a favor de voto em Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/tse-suspende-site-que-oferece-criptomoeda-a-quem-divulgar-conteudo-a-favor-de-voto-em-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-10 06:00 UTC]** Cotado por Flávio para STF era 'distribuidor' de livros de Ustra entre bolsonaristas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/cotado-por-flavio-para-stf-era-distribuidor-de-livros-de-ustra-entre-bolsonaristas.shtml)_
+
