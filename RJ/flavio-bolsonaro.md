@@ -5377,3 +5377,6 @@
 - **[2026-10-10 17:27 UTC]** Flávio Bolsonaro reforça agenda com mulheres no Rio e promete ampliar políticas de proteção e inclusão
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-bolsonaro-refora-agenda-com-mulheres-no-rio-e-promete-ampliar-polticas-de-proteo-e-incluso.ghtml)_
 
+- **[2026-10-10 16:11 UTC]** Lula questiona onde Flávio vai promover corte de gastos: 'Sempre cortam dos pobres'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/lula-questiona-onde-flvio-vai-promover-o-corte-de-gastos-sempre-cortam-dos-pobres.ghtml)_
+
