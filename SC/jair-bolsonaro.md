@@ -110,3 +110,6 @@
 - **[2026-10-10 15:23 UTC]** VÍDEO: Flávio diz que Jair Bolsonaro colocará a faixa presidencial nele no dia da posse e promete reduzir maioridade penal
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/flavio-bolsonaro-agenda-rj.ghtml)_
 
+- **[2026-10-10 17:30 UTC]** Flávio volta a prometer que Jair Bolsonaro vai lhe entregar a faixa presidencial
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-volta-a-prometer-que-jair-bolsonaro-vai-lhe-entregar-a-faixa-presidencial/)_
+
