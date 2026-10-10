@@ -5224,3 +5224,6 @@
 - **[2026-10-09 20:35 UTC]** Edson Fachin manda PF investigar ameaças contra Flávio Dino
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/edson-fachin-manda-pf-investigar-ameacas-contra-flavio-dino)_
 
+- **[2026-10-09 21:02 UTC]** Lula faz caminhada no DF e Flávio se reúne com lideranças no RJ
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-faz-caminhanda-no-df-e-flavio-se-reune-com-liderancas-no-rj)_
+
