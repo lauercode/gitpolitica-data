@@ -5254,3 +5254,6 @@
 - **[2026-10-09 19:04 UTC]** Datafolha: 43% acham que vida seguirá igual com Lula; eleitor se divide sobre como ficará com Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-43-acham-que-vida-seguira-igual-com-lula-eleitor-se-divide-sobre-como-ficara-com-flavio.shtml)_
 
+- **[2026-10-09 18:43 UTC]** Datafolha: 78% consideram muito importante que Flávio e Lula participem de debates no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-78-consideram-muito-importante-que-flavio-e-lula-participem-de-debates-no-2o-turno.shtml)_
+
