@@ -68,3 +68,6 @@
 - **[2026-10-06 04:00 UTC]** Após ser eleito governador do RS, Zucco vai a Brasília para encontro com Flávio Bolsonaro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/apos-ser-eleito-governador-do-rs-zucco-vai-a-brasilia-para-encontro-com-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-10 13:04 UTC]** O que muda do governo Leite para o governo Zucco no RS? Reunião de transição definiu próximos passos
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/10/governo-leite-zucco-no-rs-reuniao-de-transicao.ghtml)_
+
