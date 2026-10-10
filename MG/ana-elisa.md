@@ -35,3 +35,6 @@
 - **[2026-10-09 18:17 UTC]** Equipe de Ana Elisa acusa Nikolas de fake news e diz que acionará a Justiça
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/equipe-de-ana-elisa-acusa-nikolas-de-fake-news-e-diz-que-acionara-a-justica.ghtml)_
 
+- **[2026-10-09 22:28 UTC]** Ana Elisa denuncia ataque digital coordenado à Polícia Federal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/ana-elisa-denuncia-ataque-digital-coordenado-polcia-federal.ghtml)_
+
