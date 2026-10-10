@@ -5290,3 +5290,6 @@
 - **[2026-10-09 23:00 UTC]** Mobilização online pró-Lula liga alerta na campanha de Flávio Bolsonaro, que contra-ataca
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mobilizacao-online-pro-lula-liga-alerta-na-campanha-de-flavio-bolsonaro-que-contra-ataca.shtml)_
 
+- **[2026-10-09 23:00 UTC]** Trabalharemos para que relação com Brasil avance, diz China sobre eventual eleição de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/trabalharemos-para-que-relacao-com-brasil-avance-diz-china-sobre-eventual-eleicao-de-flavio-bolsonaro.shtml)_
+
