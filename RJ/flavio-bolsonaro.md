@@ -5305,3 +5305,6 @@
 - **[2026-10-09 22:00 UTC]** Flávio sai na frente no Datafolha e nas alianças
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/flavio-sai-na-frente-no-datafolha-e-nas-aliancas.shtml)_
 
+- **[2026-10-09 21:21 UTC]** Lula dramatiza com IA criança levando arma à escola, e Flávio adota tom de eleito na TV
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-dramatiza-com-ia-crianca-levando-arma-a-escola-e-flavio-adota-tom-de-eleito-na-tv.shtml)_
+
