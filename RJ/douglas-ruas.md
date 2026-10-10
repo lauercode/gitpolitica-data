@@ -89,3 +89,6 @@
 - **[2026-10-09 16:21 UTC]** Douglas Ruas quer trazer políticos que estavam com Paes para campanha de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/douglas-ruas-quer-trazer-politicos-que-estavam-com-paes-para-campanha-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-09 16:11 UTC]** Flávio Bolsonaro faz ato no Rio ao lado de Douglas Ruas
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-faz-ato-no-rio-ao-lado-de-douglas-ruas)_
+
