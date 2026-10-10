@@ -98,3 +98,6 @@
 - **[2026-10-06 16:56 UTC]** Cristiano Ronaldo acusa Jorge Jesus de quebrar promessas, mas deixa em aberto retorno à seleção de Portugal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/cristiano-ronaldo-acusa-jorge-jesus-de-quebrar-promessas-mas-deixa-em-aberto-retorno-a-selecao-de-portugal.shtml)_
 
+- **[2026-10-09 20:32 UTC]** Episódio com a seleção de Portugal mostrou um Cristiano Ronaldo desconectado da realidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marina-izidro/2026/10/episodio-com-a-selecao-de-portugal-mostrou-um-cristiano-ronaldo-desconectado-da-realidade.shtml)_
+
