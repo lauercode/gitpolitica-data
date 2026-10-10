@@ -26,3 +26,6 @@
 - **[2026-10-04 21:50 UTC]** Eduardo Gomes (PL) e Alexandre Guimarães (MDB) são eleitos senadores pelo Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/04/resultado-senado-tocantins.ghtml)_
 
+- **[2026-10-10 12:31 UTC]** Resumo da semana: Fux reage a encontro secreto entre Alexandre Moraes e Polícia Federal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/resumo-da-semana-fux-reage-a-encontro-secreto-entre-alexandre-moraes-e-policia-federal/)_
+
