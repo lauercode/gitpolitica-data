@@ -5266,3 +5266,6 @@
 - **[2026-10-09 17:46 UTC]** Record cancela debate após Lula e Flávio Bolsonaro não confirmarem presença
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/record-cancela-debate-apos-lula-e-flavio-bolsonaro-nao-confirmarem-presenca.shtml)_
 
+- **[2026-10-09 23:49 UTC]** Flávio amplia frente política e acumula vitórias no 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-amplia-frente-politica-e-acumula-vitorias-no-2o-turno/)_
+
