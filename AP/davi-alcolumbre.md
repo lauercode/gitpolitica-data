@@ -341,3 +341,6 @@
 - **[2026-10-08 13:43 UTC]** Derrite rejeita Alcolumbre e diz que novo presidente do Senado deve priorizar impeachment no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/derrite-rejeita-alcolumbre-e-diz-que-novo-presidente-do-senado-deve-priorizar-impeachment-no-stf/)_
 
+- **[2026-10-09 21:51 UTC]** Alcolumbre pauta votação da PEC que prevê fim da escala 6x1 para a próxima quarta-feira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/09/alcolumbre-pauta-votacao-de-pec-que-preve-fim-da-escala-6-x-1-para-a-proxima-quarta-feira.ghtml)_
+
