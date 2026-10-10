@@ -116,3 +116,6 @@
 - **[2026-10-10 15:07 UTC]** Flávio diz que Jair Bolsonaro vai estar na posse e passar a faixa presidencial
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-diz-que-jair-bolsonaro-vai-estar-na-posse-e-passar-a-faixa-presidencial.ghtml)_
 
+- **[2026-10-10 15:07 UTC]** Flávio diz que Jair Bolsonaro vai estar em sua posse e passar a faixa presidencial
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-diz-que-jair-bolsonaro-vai-estar-na-posse-e-passar-a-faixa-presidencial.ghtml)_
+
