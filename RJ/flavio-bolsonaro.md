@@ -5359,3 +5359,6 @@
 - **[2026-10-10 12:10 UTC]** Flávio diz que quem calou Bolsonaro será responsável por sua vitória
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-diz-que-quem-calou-bolsonaro-sera-responsavel-por-sua-vitoria.shtml)_
 
+- **[2026-10-10 11:40 UTC]** Para entender o risco de estelionato eleitoral de Flávio Bolsonaro na economia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/para-entender-o-risco-de-estelionato-eleitoral-de-flavio-bolsonaro-na-economia.shtml)_
+
