@@ -5317,3 +5317,6 @@
 - **[2026-10-10 00:35 UTC]** Record cancela debate entre Flávio e Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/record-cancela-debate-entre-flavio-e-lula/)_
 
+- **[2026-10-09 23:55 UTC]** PT aposta no medo de cortes sociais com onda digital de fake news para vencer Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/pt-aposta-no-medo-de-cortes-sociais-com-onda-digital-de-fake-news-para-vencer-flavio/)_
+
