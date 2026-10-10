@@ -5218,3 +5218,6 @@
 - **[2026-10-09 15:59 UTC]** Setor imobiliário está otimista com possível vitória de Flávio e futuro do Minha Casa, Minha Vida
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/09/setor-imobiliario-esta-otimista-com-possivel-vitoria-de-flavio-e-futuro-do-minha-casa-minha-vida.ghtml)_
 
+- **[2026-10-09 16:11 UTC]** Flávio Bolsonaro faz ato no Rio ao lado de Douglas Ruas
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-faz-ato-no-rio-ao-lado-de-douglas-ruas)_
+
