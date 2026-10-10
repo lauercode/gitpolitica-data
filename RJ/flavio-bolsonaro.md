@@ -5389,3 +5389,6 @@
 - **[2026-10-10 15:58 UTC]** Flávio Bolsonaro tem 52,7% dos votos válidos no 2º turno, contra 47,3% de Lula, diz Ipespe
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tem-527-dos-votos-validos-no-2o-turno-contra-473-de-lula-diz-ipespe.shtml)_
 
+- **[2026-10-10 15:07 UTC]** Flávio diz que Jair Bolsonaro vai estar em sua posse e passar a faixa presidencial
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-diz-que-jair-bolsonaro-vai-estar-na-posse-e-passar-a-faixa-presidencial.ghtml)_
+
