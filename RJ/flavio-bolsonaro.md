@@ -5257,3 +5257,6 @@
 - **[2026-10-09 18:43 UTC]** Datafolha: 78% consideram muito importante que Flávio e Lula participem de debates no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-78-consideram-muito-importante-que-flavio-e-lula-participem-de-debates-no-2o-turno.shtml)_
 
+- **[2026-10-09 18:16 UTC]** Datafolha: No Distrito Federal, Flávio tem 54%, e Lula, 46% em votos válidos no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-no-distrito-federal-flavio-tem-54-e-lula-46-em-votos-validos-no-2o-turno.shtml)_
+
