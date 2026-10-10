@@ -80,3 +80,6 @@
 - **[2026-10-09 04:00 UTC]** Vorcaro financiou startup de filha de Otto Alencar e negociou obras de arte com aliado de Jaques Wagner
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml)_
 
+- **[2026-10-10 12:32 UTC]** Wagner Moura e outros votantes brasileiros do Oscar pedem atenção às eleições em carta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/wagner-moura-e-outros-votantes-brasileiros-do-oscar-pedem-atencao-as-eleicoes-em-carta.shtml)_
+
