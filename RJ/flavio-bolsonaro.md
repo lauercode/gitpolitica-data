@@ -5356,3 +5356,6 @@
 - **[2026-10-10 12:18 UTC]** Lula exalta gasolina subsidiada na eleição e sugere que tesouraço de Flávio vai atingir pobres
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-exalta-gasolina-subsidiada-na-eleicao-e-sugere-que-tesouraco-de-flavio-vai-atingir-pobres.shtml)_
 
+- **[2026-10-10 12:10 UTC]** Flávio diz que quem calou Bolsonaro será responsável por sua vitória
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-diz-que-quem-calou-bolsonaro-sera-responsavel-por-sua-vitoria.shtml)_
+
