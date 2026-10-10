@@ -41,3 +41,6 @@
 - **[2026-10-09 21:08 UTC]** Nome forte de Lula para campanha online, deputada eleita Ana Elisa sofre ataques racistas nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nome-forte-de-lula-para-campanha-online-deputada-eleita-ana-elisa-sofre-ataques-racistas-nas-redes.shtml)_
 
+- **[2026-10-10 12:06 UTC]** Após ameaças de morte, deputada eleita Ana Elisa vai receber proteção
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/apos-ameacas-de-morte-deputada-eleita-ana-elisa-vai-receber-protecao)_
+
