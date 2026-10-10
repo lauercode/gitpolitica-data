@@ -5341,3 +5341,6 @@
 - **[2026-10-10 11:10 UTC]** Lula aposta em atos de rua, e Flávio amplia alianças na disputa pelo segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/lula-aposta-em-atos-de-rua-e-flvio-amplia-alianas-na-disputa-pelo-segundo-turno.ghtml)_
 
+- **[2026-10-10 15:23 UTC]** VÍDEO: Flávio diz que Jair Bolsonaro colocará a faixa presidencial nele no dia da posse e promete reduzir maioridade penal
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/flavio-bolsonaro-agenda-rj.ghtml)_
+
