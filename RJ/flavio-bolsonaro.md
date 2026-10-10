@@ -5368,3 +5368,6 @@
 - **[2026-10-10 17:30 UTC]** Flávio volta a prometer que Jair Bolsonaro vai lhe entregar a faixa presidencial
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-volta-a-prometer-que-jair-bolsonaro-vai-lhe-entregar-a-faixa-presidencial/)_
 
+- **[2026-10-10 16:59 UTC]** Lula cobra detalhes do ajuste fiscal de Flávio, que nega cortes em programas sociais
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-cobra-detalhes-do-ajuste-fiscal-de-flavio-que-nega-cortes-em-programas-sociais/)_
+
