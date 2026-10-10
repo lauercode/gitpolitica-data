@@ -5287,3 +5287,6 @@
 - **[2026-10-09 23:00 UTC]** Perfis pró-Flávio no Brasil e no exterior expuseram eleitores de Lula e incentivaram denúncias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/perfis-pro-flavio-no-brasil-e-no-exterior-expuseram-eleitores-de-lula-e-incentivaram-denuncias.shtml)_
 
+- **[2026-10-09 23:00 UTC]** Mobilização online pró-Lula liga alerta na campanha de Flávio Bolsonaro, que contra-ataca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mobilizacao-online-pro-lula-liga-alerta-na-campanha-de-flavio-bolsonaro-que-contra-ataca.shtml)_
+
