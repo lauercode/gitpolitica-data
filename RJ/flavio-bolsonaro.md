@@ -5320,3 +5320,6 @@
 - **[2026-10-09 23:55 UTC]** PT aposta no medo de cortes sociais com onda digital de fake news para vencer Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/pt-aposta-no-medo-de-cortes-sociais-com-onda-digital-de-fake-news-para-vencer-flavio/)_
 
+- **[2026-10-10 00:35 UTC]** TSE suspende site que oferece criptomoeda a quem divulgar conteúdo a favor de voto em Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/tse-suspende-site-que-oferece-criptomoeda-a-quem-divulgar-conteudo-a-favor-de-voto-em-flavio-bolsonaro.ghtml)_
+
