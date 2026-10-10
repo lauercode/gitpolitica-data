@@ -104,3 +104,6 @@
 - **[2026-10-09 16:40 UTC]** Na estreia da campanha da TV neste 2º turno, Flávio promete manter programas sociais, e Lula critica cortes no governo Jair Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/primeiro-programa-horario-eleitoral-2-turno-flavio-bolsonaro-lula.ghtml)_
 
+- **[2026-10-10 10:35 UTC]** Como Jair Bolsonaro quase conseguiu em 2022 a virada que Lula almeja no 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw23dnmk9v9po?at_medium=RSS&at_campaign=rss)_
+
