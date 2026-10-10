@@ -5236,3 +5236,6 @@
 - **[2026-10-09 22:13 UTC]** Datafolha: 43% esperam que vida fique igual se Lula ganhar; eleitorado se divide sobre eventual governo de Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/09/datafolha-perguntas-carona-9-outubro.ghtml)_
 
+- **[2026-10-09 21:53 UTC]** Datafolha: para 78%, é muito importante que Lula e Flávio Bolsonaro participem de debates
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/datafolha-lula-flavio-bolsonaro-debates-9-outubro.ghtml)_
+
