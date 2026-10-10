@@ -5245,3 +5245,6 @@
 - **[2026-10-09 21:03 UTC]** Ministra do TSE tira do ar site com esquema de criptomoedas pró-Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ministra-do-tse-tira-do-ar-site-com-esquema-de-criptomoedas-pro-flavio.shtml)_
 
+- **[2026-10-09 20:25 UTC]** Receita para eleger um Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/10/receita-para-eleger-um-bolsonaro.shtml)_
+
