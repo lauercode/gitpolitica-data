@@ -86,3 +86,6 @@
 - **[2026-10-09 15:20 UTC]** Reality show Duelo de Guitarras destaca perfil de Lucas Moscardini
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/reality-show-duelo-de-guitarras-destaca-perfil-de-lucas-moscardini)_
 
+- **[2026-10-10 04:00 UTC]** Racismo faz com que pessoas negras vivenciem o estresse equivalente a um acidente de carro, diz Lucas Veiga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/racismo-faz-com-que-pessoas-negras-vivenciem-o-estresse-equivalente-a-um-acidente-de-carro-diz-lucas-veiga.shtml)_
+
