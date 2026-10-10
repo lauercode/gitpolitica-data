@@ -5350,3 +5350,6 @@
 - **[2026-10-10 14:21 UTC]** Flávio está mentindo sobre teu dinheiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/10/flavio-esta-mentindo-sobre-teu-dinheiro.shtml)_
 
+- **[2026-10-10 13:40 UTC]** Campanha de Lula acusa dona do Instagram e Facebook de interferir em favor de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-acusa-dona-do-instagram-e-facebook-de-interferir-em-favor-de-flavio-bolsonaro.shtml)_
+
