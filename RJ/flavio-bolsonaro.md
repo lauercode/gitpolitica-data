@@ -5272,3 +5272,6 @@
 - **[2026-10-09 21:43 UTC]** Record cancela debate entre Flávio Bolsonaro e Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/record-cancela-debate-entre-flavio-bolsonaro-e-lula.ghtml)_
 
+- **[2026-10-09 21:36 UTC]** TSE manda suspender site que oferece criptomoedas por apoio a Flávio
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-manda-suspender-site-que-oferece-criptomoedas-por-apoio-flavio)_
+
