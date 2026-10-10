@@ -4098,17 +4098,6 @@
     "camara_id": 178986
   },
   {
-    "slug": "nivaldo-albuquerque",
-    "name": "Nivaldo Albuquerque",
-    "role": "Deputado(a) Federal (AL)",
-    "party": "UNIÃO",
-    "aliases": [
-      "Nivaldo Albuquerque",
-      "Albuquerque"
-    ],
-    "camara_id": 194260
-  },
-  {
     "slug": "olival-marques",
     "name": "Olival Marques",
     "role": "Deputado(a) Federal (PA)",
@@ -4151,6 +4140,16 @@
       "Paula"
     ],
     "camara_id": 204441
+  },
+  {
+    "slug": "padovani",
+    "name": "Padovani",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PP",
+    "aliases": [
+      "Padovani"
+    ],
+    "camara_id": 220706
   },
   {
     "slug": "padre-joao",
@@ -4224,6 +4223,16 @@
       "Ananias"
     ],
     "camara_id": 74160
+  },
+  {
+    "slug": "paulao",
+    "name": "Paulão",
+    "role": "Deputado(a) Federal (AL)",
+    "party": "PT",
+    "aliases": [
+      "Paulão"
+    ],
+    "camara_id": 171617
   },
   {
     "slug": "paulinho-da-forca",
@@ -4997,17 +5006,6 @@
       "Alex"
     ],
     "camara_id": 160621
-  },
-  {
-    "slug": "santin-roveda",
-    "name": "Santin Roveda",
-    "role": "Deputado(a) Federal (PR)",
-    "party": "UNIÃO",
-    "aliases": [
-      "Santin Roveda",
-      "Roveda"
-    ],
-    "camara_id": 236518
   },
   {
     "slug": "sargento-fahur",
