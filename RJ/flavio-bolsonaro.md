@@ -5353,3 +5353,6 @@
 - **[2026-10-10 13:40 UTC]** Campanha de Lula acusa dona do Instagram e Facebook de interferir em favor de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-acusa-dona-do-instagram-e-facebook-de-interferir-em-favor-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-10 12:18 UTC]** Lula exalta gasolina subsidiada na eleição e sugere que tesouraço de Flávio vai atingir pobres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-exalta-gasolina-subsidiada-na-eleicao-e-sugere-que-tesouraco-de-flavio-vai-atingir-pobres.shtml)_
+
