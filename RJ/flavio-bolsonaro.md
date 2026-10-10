@@ -5248,3 +5248,6 @@
 - **[2026-10-09 20:25 UTC]** Receita para eleger um Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/10/receita-para-eleger-um-bolsonaro.shtml)_
 
+- **[2026-10-09 20:22 UTC]** Flávio propõe superministério social com Bolsa Família e 'nova mentalidade'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-propoe-superministerio-social-com-bolsa-familia-e-nova-mentalidade.shtml)_
+
