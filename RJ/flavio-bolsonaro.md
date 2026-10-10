@@ -5371,3 +5371,6 @@
 - **[2026-10-10 16:59 UTC]** Lula cobra detalhes do ajuste fiscal de Flávio, que nega cortes em programas sociais
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-cobra-detalhes-do-ajuste-fiscal-de-flavio-que-nega-cortes-em-programas-sociais/)_
 
+- **[2026-10-10 13:08 UTC]** Conheça as propostas de Lula e Flávio Bolsonaro para a Cultura
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3zxjrxjr0gqo?at_medium=RSS&at_campaign=rss)_
+
