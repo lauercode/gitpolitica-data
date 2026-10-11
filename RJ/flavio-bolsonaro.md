@@ -5521,3 +5521,6 @@
 - **[2026-10-11 15:18 UTC]** Flávio reúne Tarcísio e prefeitos em SP e diz esperar Justiça Eleitoral mais ágil contra fake news
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-reune-tarcisio-e-prefeitos-em-sp-e-diz-esperar-justica-eleitoral-mais-agil-contra-fake-news.shtml)_
 
+- **[2026-10-11 21:36 UTC]** Flávio Bolsonaro pede investigação contra diretor-geral da PF por suposto uso político da corporação
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pede-investigacao-contra-diretor-geral-da-pf-por-suposto-uso-politico-da-corporacao/)_
+
