@@ -44,3 +44,6 @@
 - **[2026-10-10 12:06 UTC]** Após ameaças de morte, deputada eleita Ana Elisa vai receber proteção
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/apos-ameacas-de-morte-deputada-eleita-ana-elisa-vai-receber-protecao)_
 
+- **[2026-10-10 18:58 UTC]** Após ameaças de morte, deputada eleita Ana Elisa receberá proteção
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/apos-ameacas-de-morte-deputada-eleita-ana-elisa-recebera-protecao)_
+
