@@ -5455,3 +5455,6 @@
 - **[2026-10-11 00:40 UTC]** Lula aposta em conquistas sociais e Flávio promete mudanças, para abrir campanha do 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/lula-aposta-em-conquistas-sociais-e-flavio-promete-mudancas-no-inicio-da-campanha-do-2o-turno.ghtml)_
 
+- **[2026-10-11 07:00 UTC]** Ala do STF vê Lei da Dosimetria como alternativa à revisão criminal  de Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/11/ala-do-stf-ve-lei-da-dosimetria-como-alternativa-a-revisao-criminal-de-bolsonaro.ghtml)_
+
