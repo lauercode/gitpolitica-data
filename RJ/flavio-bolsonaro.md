@@ -5464,3 +5464,6 @@
 - **[2026-10-11 12:29 UTC]** TSE suspende propaganda eleitoral de Lula sobre Flávio Bolsonaro e caso Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/11/tse-manda-suspender-propaganda-eleitoral-de-lula-que-diz-que-flavio-bolsonaro-e-investigado-no-caso-master.ghtml)_
 
+- **[2026-10-11 12:53 UTC]** TSE atende Flávio e manda suspender canal do whatsapp Exército do Lula
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-atende-flavio-e-manda-suspender-canal-do-whatsapp-exercito-do-lula)_
+
