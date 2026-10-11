@@ -119,3 +119,6 @@
 - **[2026-10-10 15:07 UTC]** Flávio diz que Jair Bolsonaro vai estar em sua posse e passar a faixa presidencial
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-diz-que-jair-bolsonaro-vai-estar-na-posse-e-passar-a-faixa-presidencial.ghtml)_
 
+- **[2026-10-09 17:00 UTC]** Dos bilhetinhos na prisão ao resultado nas urnas: o papel de Jair Bolsonaro nas eleições 2026
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bilhetinhos-prisao-resultado-urnas-jair-bolsonaro-eleicoes-2026/)_
+
