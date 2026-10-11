@@ -5527,3 +5527,6 @@
 - **[2026-10-11 20:49 UTC]** Campanha de Flávio vê “complacência com fake news” na liberação de canal pró-Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-de-flavio-ve-complacencia-com-fake-news-na-liberacao-de-canal-pro-lula/)_
 
+- **[2026-10-11 21:15 UTC]** Campanha de Flávio Bolsonaro pede investigação de diretor da PF por entrevista no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/campanha-de-flavio-bolsonaro-pede-investigacao-de-diretor-da-pf-por-entrevista-no-primeiro-turno.ghtml)_
+
