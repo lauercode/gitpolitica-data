@@ -5431,3 +5431,6 @@
 - **[2026-10-10 23:30 UTC]** Lula e Flávio terão desafios distintos para governar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/10/lula-e-flavio-terao-desafios-distintos-para-governar.shtml)_
 
+- **[2026-10-10 23:00 UTC]** Com centrão e Faria Lima, 5 grupos já disputam eventual ministério de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-centrao-e-faria-lima-5-grupos-ja-disputam-eventual-ministerio-de-flavio-bolsonaro.shtml)_
+
