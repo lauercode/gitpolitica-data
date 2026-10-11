@@ -5452,3 +5452,6 @@
 - **[2026-10-11 01:04 UTC]** Flávio pede que TSE derrube canal ‘Exército do Lula’ no WhatsApp, e corregedoria quer esclarecimentos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flavio-pede-que-tse-derrube-canal-exercito-do-lula-no-whatsapp-e-corregedoria-quer-esclarecimentos.ghtml)_
 
+- **[2026-10-11 00:40 UTC]** Lula aposta em conquistas sociais e Flávio promete mudanças, para abrir campanha do 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/lula-aposta-em-conquistas-sociais-e-flavio-promete-mudancas-no-inicio-da-campanha-do-2o-turno.ghtml)_
+
