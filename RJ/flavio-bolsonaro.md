@@ -5440,3 +5440,6 @@
 - **[2026-10-10 23:00 UTC]** Vantagem de Flávio nas pesquisas antecipa disputa dentro da campanha por nome para Fazenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/vantagem-de-flavio-nas-pesquisas-antecipa-disputa-dentro-da-campanha-por-nome-para-fazenda.shtml)_
 
+- **[2026-10-10 23:00 UTC]** Flávio quer ampliar mandato, e presidente que ficou 6 anos foi um desastre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/10/flavio-quer-ampliar-mandato-e-presidente-que-ficou-6-anos-foi-um-desastre.shtml)_
+
