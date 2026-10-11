@@ -5395,3 +5395,6 @@
 - **[2026-10-10 20:49 UTC]** Lula faz comício em Natal e Flávio participa de moto-carreata no Rio
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-faz-comicio-em-natal-e-flavio-participa-de-moto-carreata-no-rio)_
 
+- **[2026-10-10 21:00 UTC]** Destruição do ambiente atingirá ponto de não retorno sob Flávio, diz leitora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/destruicao-do-ambiente-atingira-ponto-de-nao-retorno-sob-flavio-diz-leitora.shtml)_
+
