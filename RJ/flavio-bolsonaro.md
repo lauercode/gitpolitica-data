@@ -5410,3 +5410,6 @@
 - **[2026-10-10 18:13 UTC]** Flávio Bolsonaro canta em culto e recebe pedido simulado de voto de líder da Assembleia de Deus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-canta-em-culto-e-recebe-pedido-simulado-de-voto-de-lider-da-assembleia-de-deus.shtml)_
 
+- **[2026-10-10 23:48 UTC]** Flávio reafirma compromisso com o fim da reeleição para reforçar a votação e alianças
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/flavio-reafirma-compromisso-com-o-fim-da-reeleicao-para-reforcar-a-votacao-e-aliancas/)_
+
