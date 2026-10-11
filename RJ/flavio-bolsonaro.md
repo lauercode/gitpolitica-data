@@ -5416,3 +5416,6 @@
 - **[2026-10-10 23:04 UTC]** Após visita, Carlos diz que Bolsonaro está “feliz com o que está acontecendo no Brasil”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-visita-carlos-diz-que-bolsonaro-esta-feliz-com-o-que-esta-acontecendo-no-brasil/)_
 
+- **[2026-10-10 22:29 UTC]** Ratinho Junior declara apoio a Flávio Bolsonaro no 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ratinho-junior-declara-apoio-a-flavio-bolsonaro-no-2o-turno/)_
+
