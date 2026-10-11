@@ -5404,3 +5404,6 @@
 - **[2026-10-10 20:18 UTC]** Flávio exalta Bolsonaro e vê culto falar de voto; Lula mira gasolina subsidiada e tesouraço de rival
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-exalta-bolsonaro-e-ve-culto-falar-de-voto-lula-mira-gasolina-subsidiada-e-tesouraco-de-rival.shtml)_
 
+- **[2026-10-10 18:53 UTC]** Emails indicam que Flávio Bolsonaro dividia conta com suspeito de lavar dinheiro do INSS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/emails-indicam-que-flavio-bolsonaro-dividia-conta-com-suspeito-de-lavar-dinheiro-do-inss.shtml)_
+
