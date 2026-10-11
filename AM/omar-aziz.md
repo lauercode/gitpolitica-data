@@ -128,3 +128,6 @@
 - **[2026-10-10 01:50 UTC]** Eleições no AM: Omar Aziz reúne prefeitos em evento em Manaus, e Professora Maria do Carmo fala sobre combate às queimadas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/09/eleicoes-no-am-omar-aziz-reune-prefeitos-em-evento-em-manaus-e-professora-maria-do-carmo-fala-sobre-combate-as-queimadas.ghtml)_
 
+- **[2026-10-10 22:45 UTC]** Eleições no AM: Omar Aziz defende reforço na merenda escolar, e Professora Maria do Carmo propõe incentivos para a educação
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/10/eleicoes-no-am-omar-aziz-defende-reforco-na-merenda-escolar-e-professora-maria-do-carmo-propoe-incentivos-para-a-educacao.ghtml)_
+
