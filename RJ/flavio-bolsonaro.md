@@ -5467,3 +5467,6 @@
 - **[2026-10-11 12:53 UTC]** TSE atende Flávio e manda suspender canal do whatsapp Exército do Lula
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-atende-flavio-e-manda-suspender-canal-do-whatsapp-exercito-do-lula)_
 
+- **[2026-10-11 12:00 UTC]** Kassio atende Flávio e suspende propaganda do PT que cita caso Master
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-atende-flavio-e-suspende-propaganda-do-pt-que-cita-caso-master)_
+
