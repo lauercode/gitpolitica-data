@@ -5536,3 +5536,6 @@
 - **[2026-10-11 20:08 UTC]** TSE abre investigação sobre Marçal e site que oferecia criptomoedas para promover campanha de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/tse-abre-acao-para-investigar-atuacao-de-pablo-marcal-na-campanha-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-11 18:15 UTC]** Análise: Na largada do 2º turno, Flávio age como se já estivesse eleito e Lula recorre à mobilização da esquerda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/analise-na-largada-do-2o-turno-flavio-age-como-se-ja-estivesse-eleito-e-lula-recorre-a-mobilizacao-da-esquerda.ghtml)_
+
