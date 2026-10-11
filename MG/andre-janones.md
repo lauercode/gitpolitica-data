@@ -56,3 +56,6 @@
 - **[2026-10-11 15:12 UTC]** TSE suspende canal Exército do Lula; Janones denuncia censura
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/tse-suspende-canal-exercito-do-lula-janones-denuncia-censura)_
 
+- **[2026-10-11 15:57 UTC]** Corregedor do TSE derruba censura de Kassio e libera canal pró-Lula criado por Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/corregedor-do-tse-derruba-censura-de-kassio-e-libera-canal-pro-lula-criado-por-janones.shtml)_
+
