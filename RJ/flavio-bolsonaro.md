@@ -5533,3 +5533,6 @@
 - **[2026-10-11 20:29 UTC]** Flávio diz que sofreu 'pré-julgamento' por pedido de dinheiro a Vorcaro para filme sobre Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/flvio-diz-que-sofreu-pr-julgamento-por-pedido-de-dinheiro-a-vorcaro-para-filme-sobre-bolsonaro.ghtml)_
 
+- **[2026-10-11 20:08 UTC]** TSE abre investigação sobre Marçal e site que oferecia criptomoedas para promover campanha de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/tse-abre-acao-para-investigar-atuacao-de-pablo-marcal-na-campanha-de-flavio-bolsonaro.ghtml)_
+
