@@ -116,3 +116,6 @@
 - **[2026-10-10 22:43 UTC]** Eleito governador do Rio, Douglas Ruas diz que segurança pública será prioridade
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/eleito-governador-do-rio-douglas-ruas-diz-que-seguranca-publica-sera-prioridade.ghtml)_
 
+- **[2026-10-10 22:29 UTC]** Quem é Douglas Ruas, o próximo governador do Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/quem-douglas-ruas-o-prximo-governador-do-rio.ghtml)_
+
