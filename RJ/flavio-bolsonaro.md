@@ -5398,3 +5398,6 @@
 - **[2026-10-10 21:00 UTC]** Destruição do ambiente atingirá ponto de não retorno sob Flávio, diz leitora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/destruicao-do-ambiente-atingira-ponto-de-nao-retorno-sob-flavio-diz-leitora.shtml)_
 
+- **[2026-10-10 20:35 UTC]** Flávio Bolsonaro tenta derrubar canal pró-Lula de Janones, e TSE cobra esclarecimentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tenta-derrubar-canal-pro-lula-de-janones-e-tse-cobra-esclarecimentos.shtml)_
+
