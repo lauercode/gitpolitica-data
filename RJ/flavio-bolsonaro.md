@@ -5443,3 +5443,6 @@
 - **[2026-10-10 23:00 UTC]** Flávio quer ampliar mandato, e presidente que ficou 6 anos foi um desastre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/10/flavio-quer-ampliar-mandato-e-presidente-que-ficou-6-anos-foi-um-desastre.shtml)_
 
+- **[2026-10-11 01:18 UTC]** Em evento evangélico, Flávio Bolsonaro diz que Brasil enfrenta “guerra espiritual”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/em-evento-evangelico-flavio-bolsonaro-diz-que-brasil-enfrenta-guerra-espiritual/)_
+
