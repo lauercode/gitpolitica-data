@@ -191,3 +191,6 @@
 - **[2026-10-09 19:11 UTC]** Irmão de Cleitinho e ex-secretário de Bolsonaro farão parte da equipe de transição em Minas Gerais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/irmao-de-cleitinho-e-ex-secretario-de-bolsonaro-farao-parte-da-equipe-de-transicao-em-minas-gerais.ghtml)_
 
+- **[2026-10-11 00:50 UTC]** Cleitinho se explica após críticas por vídeo ao lado de Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-se-explica-apos-criticas-por-video-ao-lado-de-alcolumbre/)_
+
