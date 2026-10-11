@@ -362,3 +362,6 @@
 - **[2026-10-11 00:50 UTC]** Cleitinho se explica após críticas por vídeo ao lado de Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-se-explica-apos-criticas-por-video-ao-lado-de-alcolumbre/)_
 
+- **[2026-10-11 16:08 UTC]** Lula diz que votação do PEC do fim da escala 6x1 antes do segundo turno está ‘conversada’ com Alcolumbre
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-diz-que-votao-do-pec-do-fim-da-escala-6x1-antes-do-segundo-turno-est-conversada-com-alcolumbre.ghtml)_
+
