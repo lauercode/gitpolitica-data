@@ -113,3 +113,6 @@
 - **[2026-10-10 18:24 UTC]** TRE-RJ confirma maioria de votos válidos a Douglas Ruas do PL nas eleições para governo do Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/tre-rj-confirma-maioria-de-votos-vlidos-a-douglas-ruas-do-pl-nas-eleies-para-governo-do-rio.ghtml)_
 
+- **[2026-10-10 22:43 UTC]** Eleito governador do Rio, Douglas Ruas diz que segurança pública será prioridade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/eleito-governador-do-rio-douglas-ruas-diz-que-seguranca-publica-sera-prioridade.ghtml)_
+
