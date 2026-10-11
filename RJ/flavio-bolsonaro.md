@@ -5524,3 +5524,6 @@
 - **[2026-10-11 21:36 UTC]** Flávio Bolsonaro pede investigação contra diretor-geral da PF por suposto uso político da corporação
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pede-investigacao-contra-diretor-geral-da-pf-por-suposto-uso-politico-da-corporacao/)_
 
+- **[2026-10-11 20:49 UTC]** Campanha de Flávio vê “complacência com fake news” na liberação de canal pró-Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-de-flavio-ve-complacencia-com-fake-news-na-liberacao-de-canal-pro-lula/)_
+
