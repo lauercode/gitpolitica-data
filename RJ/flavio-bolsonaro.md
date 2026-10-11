@@ -5425,3 +5425,6 @@
 - **[2026-10-10 23:04 UTC]** Ratinho Jr declara apoio a Flávio Bolsonaro no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/ratinho-jr-declara-apoio-a-flvio-bolsonaro-no-2-turno.ghtml)_
 
+- **[2026-10-10 21:26 UTC]** Em ato evangélico, Flávio Bolsonaro diz que Brasil vive ‘guerra espiritual’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/em-ato-evanglico-flvio-bolsonaro-diz-que-brasil-vive-guerra-espiritual.ghtml)_
+
