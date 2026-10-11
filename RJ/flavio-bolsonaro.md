@@ -5515,3 +5515,6 @@
 - **[2026-10-11 18:12 UTC]** Flávio Bolsonaro pede que diretor-geral da PF seja investigado por suposto benefício ao PT na eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/flavio-bolsonaro-pede-que-diretor-geral-da-pf-seja-investigado-por-suposto-beneficio-ao-pt-na-eleicao.shtml)_
 
+- **[2026-10-11 17:00 UTC]** Tarcísio e Nunes confirmam ato pró-Flávio na Paulista, e prefeito nega disputa de público com Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-e-nunes-confirmam-ato-pro-flavio-na-paulista-e-prefeito-nega-disputa-de-publico-com-lula.shtml)_
+
