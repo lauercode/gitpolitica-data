@@ -23,3 +23,6 @@
 - **[2026-10-02 15:35 UTC]** Salomão faz três eventos da revista Justiça & Cidadania no STJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2026/10/salomao-faz-tres-eventos-da-revista-justica-cidadania-no-stj.shtml)_
 
+- **[2026-10-11 04:00 UTC]** Gramado terá réplica do Templo de Salomão com inauguração prevista para 2027; veja como será
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/11/gramado-tera-replica-do-templo-de-salomao-com-inauguracao-prevista-para-2027-veja-como-sera.ghtml)_
+
