@@ -50,3 +50,6 @@
 - **[2026-10-11 15:55 UTC]** Lula critica presidente do TSE e diz que partido vai pedir explicação sobre bloqueio a canal de Janones
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-critica-presidente-do-tse-e-diz-que-partido-vai-pedir-explicao-sobre-bloqueio-a-canal-de-janones.ghtml)_
 
+- **[2026-10-11 13:21 UTC]** Janones denuncia censura em decisão do TSE contra Exército do Lula
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/janones-denuncia-censura-em-decisao-do-tse-contra-exercito-do-lula)_
+
