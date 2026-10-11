@@ -53,3 +53,6 @@
 - **[2026-10-11 13:21 UTC]** Janones denuncia censura em decisão do TSE contra Exército do Lula
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/janones-denuncia-censura-em-decisao-do-tse-contra-exercito-do-lula)_
 
+- **[2026-10-11 15:12 UTC]** TSE suspende canal Exército do Lula; Janones denuncia censura
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/tse-suspende-canal-exercito-do-lula-janones-denuncia-censura)_
+
