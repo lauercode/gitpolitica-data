@@ -35,3 +35,6 @@
 - **[2026-10-08 18:59 UTC]** Defensor de “fake news”, Janones quer tropa digital de 3 milhões para ajudar Lula contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/janones-milicia-digital-lula/)_
 
+- **[2026-10-10 20:35 UTC]** Flávio Bolsonaro tenta derrubar canal pró-Lula de Janones, e TSE cobra esclarecimentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tenta-derrubar-canal-pro-lula-de-janones-e-tse-cobra-esclarecimentos.shtml)_
+
