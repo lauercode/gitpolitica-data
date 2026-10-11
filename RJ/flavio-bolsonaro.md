@@ -5509,3 +5509,6 @@
 - **[2026-10-11 18:52 UTC]** Flávio Bolsonaro diz que canal da campanha de Lula no WhatsApp faz 'divulgação de mentiras em massa'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-canal-campanha-lula-whatsapp-faz-divulgacao-mentiras.ghtml)_
 
+- **[2026-10-11 16:56 UTC]** Flávio Bolsonaro se reúne com prefeitos de SP e pede mobilização a aliados: 'Não podemos baixar a guarda'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-se-reune-com-prefeitos-de-sp-e-orienta-campanha-nas-cidades-nao-podemos-baixar-a-guarda.ghtml)_
+
