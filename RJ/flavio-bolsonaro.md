@@ -5485,3 +5485,6 @@
 - **[2026-10-11 11:59 UTC]** Kassio atende a pedido de Flávio Bolsonaro e manda censurar canal pró-Lula criado por Janones
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-atende-pedido-de-flavio-bolsonaro-e-manda-suspender-canal-pro-lula-criado-por-janones.shtml)_
 
+- **[2026-10-10 23:00 UTC]** Flávio cria site 'anti-fake news' em que se compromete com ajuste do salário mínimo pela inflação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-cria-site-anti-fake-news-em-que-se-compromete-com-ajuste-do-minimo-pela-inflacao.shtml)_
+
