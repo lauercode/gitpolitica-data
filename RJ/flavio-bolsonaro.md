@@ -5500,3 +5500,6 @@
 - **[2026-10-11 18:02 UTC]** TSE barra anúncios de Lula acusando Flávio de ser contra escala 6x1
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-barra-anuncios-de-lula-acusando-flavio-de-ser-contra-escala-6x1)_
 
+- **[2026-10-11 17:44 UTC]** Lula e Flávio Bolsonaro apresentam propostas em São Paulo
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-e-flavio-bolsonaro-apresentam-propostas-em-sao-paulo)_
+
