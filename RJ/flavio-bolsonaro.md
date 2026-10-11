@@ -5407,3 +5407,6 @@
 - **[2026-10-10 18:53 UTC]** Emails indicam que Flávio Bolsonaro dividia conta com suspeito de lavar dinheiro do INSS
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/emails-indicam-que-flavio-bolsonaro-dividia-conta-com-suspeito-de-lavar-dinheiro-do-inss.shtml)_
 
+- **[2026-10-10 18:13 UTC]** Flávio Bolsonaro canta em culto e recebe pedido simulado de voto de líder da Assembleia de Deus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-canta-em-culto-e-recebe-pedido-simulado-de-voto-de-lider-da-assembleia-de-deus.shtml)_
+
