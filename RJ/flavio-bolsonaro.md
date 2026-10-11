@@ -5530,3 +5530,6 @@
 - **[2026-10-11 21:15 UTC]** Campanha de Flávio Bolsonaro pede investigação de diretor da PF por entrevista no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/campanha-de-flavio-bolsonaro-pede-investigacao-de-diretor-da-pf-por-entrevista-no-primeiro-turno.ghtml)_
 
+- **[2026-10-11 20:29 UTC]** Flávio diz que sofreu 'pré-julgamento' por pedido de dinheiro a Vorcaro para filme sobre Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/flvio-diz-que-sofreu-pr-julgamento-por-pedido-de-dinheiro-a-vorcaro-para-filme-sobre-bolsonaro.ghtml)_
+
