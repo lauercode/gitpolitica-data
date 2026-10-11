@@ -5479,3 +5479,6 @@
 - **[2026-10-11 14:59 UTC]** Interlocutores de Flávio Bolsonaro procuram Gilmar Mendes e discutem relação com STF em caso de vitória
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/11/interlocutores-de-flavio-bolsonaro-procuram-gilmar-mendes.ghtml)_
 
+- **[2026-10-11 12:29 UTC]** TSE suspende propaganda eleitoral de Lula que chama chapa de Flávio de 'dupla de escândalos'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/11/tse-manda-suspender-propaganda-eleitoral-de-lula-que-diz-que-flavio-bolsonaro-e-investigado-no-caso-master.ghtml)_
+
