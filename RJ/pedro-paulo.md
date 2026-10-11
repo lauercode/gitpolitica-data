@@ -527,3 +527,6 @@
 - **[2026-10-09 15:14 UTC]** Champs Open reúne mais de 600 atletas em São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/10/09/champs-open-reune-mais-de-600-atletas-em-sao-paulo-1.ghtml)_
 
+- **[2026-10-11 14:10 UTC]** Musical sobre Paulo Gustavo completa o que a Covid cortou, diz dona Déa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/musical-sobre-paulo-gustavo-completa-o-que-a-covid-cortou-diz-dona-dea.shtml)_
+
