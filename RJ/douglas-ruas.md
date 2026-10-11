@@ -119,3 +119,6 @@
 - **[2026-10-10 22:29 UTC]** Quem é Douglas Ruas, o próximo governador do Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/quem-douglas-ruas-o-prximo-governador-do-rio.ghtml)_
 
+- **[2026-10-10 18:24 UTC]** TRE-RJ confirma Douglas Ruas, do PL,  como governador eleito do Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/tre-rj-confirma-maioria-de-votos-vlidos-a-douglas-ruas-do-pl-nas-eleies-para-governo-do-rio.ghtml)_
+
