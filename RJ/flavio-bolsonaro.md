@@ -5488,3 +5488,6 @@
 - **[2026-10-10 23:00 UTC]** Flávio cria site 'anti-fake news' em que se compromete com ajuste do salário mínimo pela inflação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-cria-site-anti-fake-news-em-que-se-compromete-com-ajuste-do-minimo-pela-inflacao.shtml)_
 
+- **[2026-10-11 14:31 UTC]** Bahia, Ceará e Piauí mantêm hegemonia do PT apesar do avanço de Flávio no Nordeste
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bahia-ceara-e-piaui-mantem-hegemonia-do-pt-apesar-do-avanco-de-flavio-no-nordeste/)_
+
