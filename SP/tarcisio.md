@@ -188,3 +188,6 @@
 - **[2026-10-09 10:37 UTC]** Em SP, Tarcísio e Nunes mobilizam aliados por Flávio, enquanto PT recomeça do zero campanha de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-sp-tarcisio-e-nunes-mobilizam-aliados-por-flavio-enquanto-pt-recomeca-do-zero-campanha-de-lula.shtml)_
 
+- **[2026-10-11 17:09 UTC]** Flávio, Tarcísio e Nunes reúnem prefeitos e vereadores em SP para impulsionar campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/flvio-tarcsio-e-nunes-renem-prefeitos-e-vereadores-em-sp-para-impulsionar-campanha.ghtml)_
+
