@@ -1082,3 +1082,6 @@
 - **[2026-10-09 16:11 UTC]** Nova pesquisa Quaest para presidente mede 'medo' e 'esperança' de eleitor em Lula e Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/nova-pesquisa-quaest-para-presidente-mede-disputa-voto-a-voto-entre-lula-e-flavio-bolsonaro-no-segundo-turno.ghtml)_
 
+- **[2026-10-11 15:55 UTC]** Lula critica presidente do TSE e diz que partido vai pedir explicação sobre bloqueio a canal de Janones
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-critica-presidente-do-tse-e-diz-que-partido-vai-pedir-explicao-sobre-bloqueio-a-canal-de-janones.ghtml)_
+
