@@ -5512,3 +5512,6 @@
 - **[2026-10-11 16:56 UTC]** Flávio Bolsonaro se reúne com prefeitos de SP e pede mobilização a aliados: 'Não podemos baixar a guarda'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-se-reune-com-prefeitos-de-sp-e-orienta-campanha-nas-cidades-nao-podemos-baixar-a-guarda.ghtml)_
 
+- **[2026-10-11 18:12 UTC]** Flávio Bolsonaro pede que diretor-geral da PF seja investigado por suposto benefício ao PT na eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/flavio-bolsonaro-pede-que-diretor-geral-da-pf-seja-investigado-por-suposto-beneficio-ao-pt-na-eleicao.shtml)_
+
