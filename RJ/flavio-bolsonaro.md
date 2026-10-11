@@ -5422,3 +5422,6 @@
 - **[2026-10-10 21:55 UTC]** TSE dá 48h para Meta explicar se trata Lula e Flávio da mesma forma
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-da-48h-para-meta-explicar-se-trata-lula-e-flavio-da-mesma-forma/)_
 
+- **[2026-10-10 23:04 UTC]** Ratinho Jr declara apoio a Flávio Bolsonaro no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/ratinho-jr-declara-apoio-a-flvio-bolsonaro-no-2-turno.ghtml)_
+
