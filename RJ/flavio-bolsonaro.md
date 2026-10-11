@@ -5449,3 +5449,6 @@
 - **[2026-10-11 01:39 UTC]** Ministro do TSE derruba vídeo do vice de Flávio sobre suposto financiamento de Vorcaro a filme de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/ministro-do-tse-derruba-vdeo-do-vice-de-flvio-sobre-suposto-financiamento-de-vorcaro-a-filme-de-lula.ghtml)_
 
+- **[2026-10-11 01:04 UTC]** Flávio pede que TSE derrube canal ‘Exército do Lula’ no WhatsApp, e corregedoria quer esclarecimentos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flavio-pede-que-tse-derrube-canal-exercito-do-lula-no-whatsapp-e-corregedoria-quer-esclarecimentos.ghtml)_
+
