@@ -5494,3 +5494,6 @@
 - **[2026-10-11 17:09 UTC]** Flávio, Tarcísio e Nunes reúnem prefeitos e vereadores em SP para impulsionar campanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/flvio-tarcsio-e-nunes-renem-prefeitos-e-vereadores-em-sp-para-impulsionar-campanha.ghtml)_
 
+- **[2026-10-11 15:31 UTC]** Nunes Marques atende pedido de Flávio Bolsonaro e suspende canal 'Exército do Lula'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/nunes-marques-atende-pedido-de-flvio-e-suspende-canal-do-whatsapp-exrcito-do-lula.ghtml)_
+
