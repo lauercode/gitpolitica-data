@@ -5506,3 +5506,6 @@
 - **[2026-10-11 20:52 UTC]** Mendonça proíbe PT de impulsionar vídeo que dize que Flávio Bolsonaro é contra a escala 6x1
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/11/mendonca-proibe-pt-de-impulsionar-videos-que-dizem-que-flavio-bolsonaro-e-contra-a-escala-6x1.ghtml)_
 
+- **[2026-10-11 18:52 UTC]** Flávio Bolsonaro diz que canal da campanha de Lula no WhatsApp faz 'divulgação de mentiras em massa'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-canal-campanha-lula-whatsapp-faz-divulgacao-mentiras.ghtml)_
+
