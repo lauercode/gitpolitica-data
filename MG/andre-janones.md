@@ -41,3 +41,6 @@
 - **[2026-10-11 13:21 UTC]** Janones denuncia censura em decisão do TSE contra "Exército do Lula"
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/janones-denuncia-censura-em-decisao-do-tse-contra-exercito-do-lula)_
 
+- **[2026-10-11 13:08 UTC]** Lula critica censura de Kassio a canal de Janones e diz desconfiar da Justiça Eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-critica-censura-de-kassio-a-canal-de-janones-e-diz-desconfiar-da-justica-eleitoral.shtml)_
+
