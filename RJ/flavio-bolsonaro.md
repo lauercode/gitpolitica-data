@@ -5497,3 +5497,6 @@
 - **[2026-10-11 15:31 UTC]** Nunes Marques atende pedido de Flávio Bolsonaro e suspende canal 'Exército do Lula'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/nunes-marques-atende-pedido-de-flvio-e-suspende-canal-do-whatsapp-exrcito-do-lula.ghtml)_
 
+- **[2026-10-11 18:02 UTC]** TSE barra anúncios de Lula acusando Flávio de ser contra escala 6x1
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-barra-anuncios-de-lula-acusando-flavio-de-ser-contra-escala-6x1)_
+
