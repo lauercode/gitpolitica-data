@@ -164,3 +164,6 @@
 - **[2026-10-07 11:46 UTC]** Força-tarefa faz buscas por trabalhador desaparecido há cinco dias em Paragominas, PA
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/07/forca-tarefa-faz-buscas-por-trabalhador-desaparecido-ha-cinco-dias-em-paragominas-pa.ghtml)_
 
+- **[2026-10-11 12:10 UTC]** Força-tarefa de SP embarca para combater incêndios florestais no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/sp/sao-paulo/noticia/2026/10/11/forca-tarefa-de-sp-embarca-para-combater-incendios-florestais-no-amazonas.ghtml)_
+
