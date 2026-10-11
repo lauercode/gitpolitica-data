@@ -5392,3 +5392,6 @@
 - **[2026-10-10 15:07 UTC]** Flávio diz que Jair Bolsonaro vai estar em sua posse e passar a faixa presidencial
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/flvio-diz-que-jair-bolsonaro-vai-estar-na-posse-e-passar-a-faixa-presidencial.ghtml)_
 
+- **[2026-10-10 20:49 UTC]** Lula faz comício em Natal e Flávio participa de moto-carreata no Rio
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-faz-comicio-em-natal-e-flavio-participa-de-moto-carreata-no-rio)_
+
