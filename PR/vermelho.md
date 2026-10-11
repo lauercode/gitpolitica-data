@@ -83,3 +83,6 @@
 - **[2026-10-09 11:32 UTC]** Bianca Comparato vê Nobel de Anne Carson impulsionar turnê de 'Autobiografia do Vermelho'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/bianca-comparato-ve-nobel-de-anne-carson-impulsionar-turne-de-autobiografia-do-vermelho.shtml)_
 
+- **[2026-10-11 15:10 UTC]** Globo fecha negócio inédito com a BBC e vende série 'Vermelho Sangue' para Reino Unido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-fecha-negocio-inedito-com-a-bbc-e-vende-serie-vermelho-sangue-para-reino-unido.shtml)_
+
