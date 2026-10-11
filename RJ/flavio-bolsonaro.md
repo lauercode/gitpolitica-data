@@ -5446,3 +5446,6 @@
 - **[2026-10-11 01:18 UTC]** Em evento evangélico, Flávio Bolsonaro diz que Brasil enfrenta “guerra espiritual”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/em-evento-evangelico-flavio-bolsonaro-diz-que-brasil-enfrenta-guerra-espiritual/)_
 
+- **[2026-10-11 01:39 UTC]** Ministro do TSE derruba vídeo do vice de Flávio sobre suposto financiamento de Vorcaro a filme de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/ministro-do-tse-derruba-vdeo-do-vice-de-flvio-sobre-suposto-financiamento-de-vorcaro-a-filme-de-lula.ghtml)_
+
