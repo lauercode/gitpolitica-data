@@ -5473,3 +5473,6 @@
 - **[2026-10-11 16:56 UTC]** Flávio Bolsonaro se reúne com prefeitos em SP e orienta campanha nas cidades: 'Não podemos baixar a guarda'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-se-reune-com-prefeitos-de-sp-e-orienta-campanha-nas-cidades-nao-podemos-baixar-a-guarda.ghtml)_
 
+- **[2026-10-11 15:36 UTC]** Nunes Marques atende a pedido da campanha de Flávio e manda suspender canal 'Exército do Lula'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/nunes-marques-manda-derrubar-canal-exercito-do-lula-nas-redes.ghtml)_
+
