@@ -47,3 +47,6 @@
 - **[2026-10-11 11:59 UTC]** Kassio atende a pedido de Flávio Bolsonaro e manda censurar canal pró-Lula criado por Janones
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-atende-pedido-de-flavio-bolsonaro-e-manda-suspender-canal-pro-lula-criado-por-janones.shtml)_
 
+- **[2026-10-11 15:55 UTC]** Lula critica presidente do TSE e diz que partido vai pedir explicação sobre bloqueio a canal de Janones
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-critica-presidente-do-tse-e-diz-que-partido-vai-pedir-explicao-sobre-bloqueio-a-canal-de-janones.ghtml)_
+
