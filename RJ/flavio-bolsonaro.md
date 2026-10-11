@@ -5503,3 +5503,6 @@
 - **[2026-10-11 17:44 UTC]** Lula e Flávio Bolsonaro apresentam propostas em São Paulo
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-e-flavio-bolsonaro-apresentam-propostas-em-sao-paulo)_
 
+- **[2026-10-11 20:52 UTC]** Mendonça proíbe PT de impulsionar vídeo que dize que Flávio Bolsonaro é contra a escala 6x1
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/11/mendonca-proibe-pt-de-impulsionar-videos-que-dizem-que-flavio-bolsonaro-e-contra-a-escala-6x1.ghtml)_
+
