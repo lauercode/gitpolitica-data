@@ -38,3 +38,6 @@
 - **[2026-10-10 20:35 UTC]** Flávio Bolsonaro tenta derrubar canal pró-Lula de Janones, e TSE cobra esclarecimentos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tenta-derrubar-canal-pro-lula-de-janones-e-tse-cobra-esclarecimentos.shtml)_
 
+- **[2026-10-11 13:21 UTC]** Janones denuncia censura em decisão do TSE contra "Exército do Lula"
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/janones-denuncia-censura-em-decisao-do-tse-contra-exercito-do-lula)_
+
