@@ -11,3 +11,6 @@
 - **[2026-10-10 01:01 UTC]** Camilo Santana diz que estratégia de campanha é comparar biografias e lembrar população sobre como foi governo Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/09/camilo-santana-campanha-lula-2-turno-comparar-biografias-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-11 16:09 UTC]** Camilo Santana diz não ter dúvidas da aprovação do fim da 6x1 no Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/camilo-santana-diz-no-ter-dvidas-da-aprovao-do-fim-da-6x1-no-senado.ghtml)_
+
