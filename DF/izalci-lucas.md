@@ -89,3 +89,6 @@
 - **[2026-10-10 04:00 UTC]** Racismo faz com que pessoas negras vivenciem o estresse equivalente a um acidente de carro, diz Lucas Veiga
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/racismo-faz-com-que-pessoas-negras-vivenciem-o-estresse-equivalente-a-um-acidente-de-carro-diz-lucas-veiga.shtml)_
 
+- **[2026-10-10 23:07 UTC]** Lucas volta, Calleri marca dois e São Paulo derrota o Vitória no Morumbis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/lucas-volta-calleri-marca-dois-e-sao-paulo-derrota-o-vitoria-no-morumbis.shtml)_
+
