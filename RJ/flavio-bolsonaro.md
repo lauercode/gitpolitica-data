@@ -5401,3 +5401,6 @@
 - **[2026-10-10 20:35 UTC]** Flávio Bolsonaro tenta derrubar canal pró-Lula de Janones, e TSE cobra esclarecimentos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tenta-derrubar-canal-pro-lula-de-janones-e-tse-cobra-esclarecimentos.shtml)_
 
+- **[2026-10-10 20:18 UTC]** Flávio exalta Bolsonaro e vê culto falar de voto; Lula mira gasolina subsidiada e tesouraço de rival
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-exalta-bolsonaro-e-ve-culto-falar-de-voto-lula-mira-gasolina-subsidiada-e-tesouraco-de-rival.shtml)_
+
