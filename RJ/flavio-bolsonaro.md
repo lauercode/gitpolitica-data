@@ -5419,3 +5419,6 @@
 - **[2026-10-10 22:29 UTC]** Ratinho Junior declara apoio a Flávio Bolsonaro no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ratinho-junior-declara-apoio-a-flavio-bolsonaro-no-2o-turno/)_
 
+- **[2026-10-10 21:55 UTC]** TSE dá 48h para Meta explicar se trata Lula e Flávio da mesma forma
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-da-48h-para-meta-explicar-se-trata-lula-e-flavio-da-mesma-forma/)_
+
