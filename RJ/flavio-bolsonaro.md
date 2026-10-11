@@ -5491,3 +5491,6 @@
 - **[2026-10-11 14:31 UTC]** Bahia, Ceará e Piauí mantêm hegemonia do PT apesar do avanço de Flávio no Nordeste
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bahia-ceara-e-piaui-mantem-hegemonia-do-pt-apesar-do-avanco-de-flavio-no-nordeste/)_
 
+- **[2026-10-11 17:09 UTC]** Flávio, Tarcísio e Nunes reúnem prefeitos e vereadores em SP para impulsionar campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/flvio-tarcsio-e-nunes-renem-prefeitos-e-vereadores-em-sp-para-impulsionar-campanha.ghtml)_
+
