@@ -5470,3 +5470,6 @@
 - **[2026-10-11 12:00 UTC]** Kassio atende Flávio e suspende propaganda do PT que cita caso Master
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-atende-flavio-e-suspende-propaganda-do-pt-que-cita-caso-master)_
 
+- **[2026-10-11 16:56 UTC]** Flávio Bolsonaro se reúne com prefeitos em SP e orienta campanha nas cidades: 'Não podemos baixar a guarda'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-se-reune-com-prefeitos-de-sp-e-orienta-campanha-nas-cidades-nao-podemos-baixar-a-guarda.ghtml)_
+
