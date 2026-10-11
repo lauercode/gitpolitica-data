@@ -359,3 +359,6 @@
 - **[2026-10-09 23:00 UTC]** Favoritismo de Flávio Bolsonaro põe em xeque reeleição de Motta e Alcolumbre, e centrão se movimenta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/favoritismo-de-flavio-bolsonaro-poe-em-xeque-reeleicao-de-motta-e-alcolumbre-e-centrao-se-movimenta.shtml)_
 
+- **[2026-10-11 00:50 UTC]** Cleitinho se explica após críticas por vídeo ao lado de Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-se-explica-apos-criticas-por-video-ao-lado-de-alcolumbre/)_
+
