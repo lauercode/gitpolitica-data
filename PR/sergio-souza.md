@@ -293,3 +293,6 @@
 - **[2026-10-09 08:00 UTC]** José de Souza Martins:  Fim de época
   _fonte: [Valor Econômico](https://valor.globo.com/eu-e/coluna/jose-de-souza-martins-fim-de-epoca.ghtml)_
 
+- **[2026-10-11 11:11 UTC]** Telma de Souza, ex-prefeita de Santos, morre aos 82 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/telma-de-souza-ex-prefeita-de-santos-morre-aos-82-anos.shtml)_
+
