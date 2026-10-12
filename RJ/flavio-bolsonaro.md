@@ -5632,3 +5632,6 @@
 - **[2026-10-12 15:43 UTC]** Flávio Bolsonaro aparece 4 pontos à frente de Lula na disputa do 2º turno no agregador da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-12 08:16 UTC]** O que Flávio Bolsonaro e Lula propõem sobre concursos públicos e o funcionalismo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6ev3gn2k39zo?at_medium=RSS&at_campaign=rss)_
+
