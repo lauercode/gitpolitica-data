@@ -158,3 +158,6 @@
 - **[2026-10-08 20:20 UTC]** Cláusula de barreira coloca futuro de PSOL e Rede em xeque após eleição de 2026
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/clausula-de-barreira-coloca-futuro-de-psol-e-rede-em-xeque-apos-eleicao-de-2026/)_
 
+- **[2026-10-12 07:00 UTC]** Concentração de votos impede efetividade de 'puxadores de voto' do PSOL e coloca em xeque estratégia eleitoral da esquerda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/concentracao-de-votos-impede-efetividade-de-puxadores-de-voto-do-psol-e-coloca-em-xeque-estrategia-eleitoral-da-esquerda.ghtml)_
+
