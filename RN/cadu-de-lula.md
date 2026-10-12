@@ -146,3 +146,6 @@
 - **[2026-10-09 22:29 UTC]** Cadu de Lula defende projeto de desenvolvimento e diálogo com a população em caminhada nas Quintas, em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/09/cadu-de-lula-defende-projeto-de-desenvolvimento-e-dialogo-com-a-populacao-em-caminhada-nas-quintas-em-natal.ghtml)_
 
+- **[2026-10-12 21:52 UTC]** Cadu de Lula defende obras viárias para integrar regiões e ampliar turismo no RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/12/cadu-de-lula-defende-obras-viarias-para-integrar-regioes-e-ampliar-turismo-no-rn.ghtml)_
+
