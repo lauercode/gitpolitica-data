@@ -5569,3 +5569,6 @@
 - **[2026-10-11 22:35 UTC]** Lula reúne multidão na Paulista, e esquerda replica atos pelo país em busca de onda contra Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-reune-multidao-e-mira-jovens-flavio-mobiliza-aliados-e-fala-em-evitar-ja-ganhou.shtml)_
 
+- **[2026-10-12 08:16 UTC]** O que Flávio Bolsonaro e Lula propõem sobre o funcionalismo público
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6ev3gn2k39zo?at_medium=RSS&at_campaign=rss)_
+
