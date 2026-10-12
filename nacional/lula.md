@@ -1097,3 +1097,6 @@
 - **[2026-10-12 14:23 UTC]** Presidente do TSE marca reunião entre campanhas de Lula e Flávio Bolsonaro amanhã
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/presidente-do-tse-marca-reunio-entre-campanhas-de-lula-e-flvio-bolsonaro-amanh.ghtml)_
 
+- **[2026-10-12 19:34 UTC]** Presidente do TSE não pode ter lado na política, diz Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidente-do-tse-nao-pode-ter-lado-na-politica-diz-lula/)_
+
