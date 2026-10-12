@@ -80,3 +80,6 @@
 - **[2026-10-09 04:00 UTC]** Novo Congresso é submisso a Trump e antiambiental, diz Marina Silva após derrota no Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/novo-congresso-e-submisso-a-trump-e-antiambiental-diz-marina-silva-apos-derrota-no-senado.shtml)_
 
+- **[2026-10-12 15:59 UTC]** Vídeo de Marina Silva denunciando fake news do PT em 2014 volta a circular nas redes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/video-marina-silva-denunciando-fake-news-pt-2014-volta-circular-redes/)_
+
