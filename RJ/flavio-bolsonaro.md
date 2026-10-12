@@ -5689,3 +5689,6 @@
 - **[2026-10-12 19:23 UTC]** Kassio ajuda Flávio ou Lula?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/kassio-ajuda-flavio-ou-lula.shtml)_
 
+- **[2026-10-12 17:32 UTC]** Lula valorizou o salário mínimo, Flávio Bolsonaro vai congelá-lo?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2026/10/lula-valorizou-o-salario-minimo-flavio-bolsonaro-vai-congela-lo.shtml)_
+
