@@ -1088,3 +1088,6 @@
 - **[2026-10-12 13:47 UTC]** 'O que não pode é o presidente da Corte Eleitoral ter lado na política', diz Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/lula-nossa-senhora-aparecida.ghtml)_
 
+- **[2026-10-12 11:15 UTC]** Lula cobra Kassio e diz que presidente do TSE 'não pode ter lado'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-cobra-kassio-e-diz-que-presidente-do-tse-nao-pode-ter-lado.shtml)_
+
