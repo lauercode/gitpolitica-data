@@ -1094,3 +1094,6 @@
 - **[2026-10-12 14:39 UTC]** Lula afirma que presidente do TSE não pode ‘ter lado na política’ e diz estar convencido de vitória no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/lula-afirma-que-presidente-do-tse-no-pode-ter-lado-na-poltica-e-diz-estar-convencido-de-vitria-no-2o-turno.ghtml)_
 
+- **[2026-10-12 14:23 UTC]** Presidente do TSE marca reunião entre campanhas de Lula e Flávio Bolsonaro amanhã
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/presidente-do-tse-marca-reunio-entre-campanhas-de-lula-e-flvio-bolsonaro-amanh.ghtml)_
+
