@@ -26,3 +26,6 @@
 - **[2026-09-25 23:29 UTC]** Braide defende ampliar Patrulha Maria da Penha e criar ações para idosos e pessoas com deficiência
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/braide-defende-ampliar-patrulha-maria-da-penha-e-criar-acoes-para-idosos-e-pessoas-com-deficiencia.ghtml)_
 
+- **[2026-10-11 22:00 UTC]** Lei Maria da Penha também deve proteger quem desafia o poder
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/lei-maria-da-penha-tambem-deve-proteger-quem-desafia-o-poder.shtml)_
+
