@@ -5671,3 +5671,6 @@
 - **[2026-10-12 18:23 UTC]** Kassio atende Flávio e suspende circulação de jornal de sindicato
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-atende-flavio-e-suspende-circulacao-de-jornal-de-sindicato)_
 
+- **[2026-10-12 20:06 UTC]** Quaest no DF, 2º turno: Flávio Bolsonaro, 50%; Lula, 40%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-presidente-segundo-turno-12-outubro.ghtml)_
+
