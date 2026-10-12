@@ -5581,3 +5581,6 @@
 - **[2026-10-12 11:19 UTC]** Moraes autoriza retomada de visitas de Flávio Bolsonaro ao pai
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/moraes-autoriza-retomada-de-visitas-de-flavio-bolsonaro-ao-pai)_
 
+- **[2026-10-12 16:54 UTC]** Programa de Flávio vai ao ar sem áudio e homenageia Nossa Senhora Aparecida; Lula também menciona santa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/programa-de-flavio-homenageia-nossa-senhora-lula-tambem-menciona-santa.ghtml)_
+
