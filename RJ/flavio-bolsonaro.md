@@ -5608,3 +5608,6 @@
 - **[2026-10-12 13:22 UTC]** Militar próximo à campanha de Flávio, Pazuello defende anistia a presos do golpe e a 'quem prendeu'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/militar-proximo-a-campanha-de-flavio-pazuello-defende-anistia-a-presos-do-golpe-e-a-quem-prendeu.shtml)_
 
+- **[2026-10-12 12:30 UTC]** Ministro diz que Lula fará ajuste das contas em 4 anos e vê 'conversa fiada' de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/ministro-diz-que-lula-fara-ajuste-das-contas-em-4-anos-e-ve-conversa-fiada-de-flavio.shtml)_
+
