@@ -62,3 +62,6 @@
 - **[2026-10-12 11:58 UTC]** Área técnica do TSE diz a Kassio não ter achado conteúdo citado por Flávio em canal de Janones
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/area-tecnica-do-tse-diz-a-kassio-nao-ter-achado-conteudo-citado-por-flavio-em-canal-de-janones.shtml)_
 
+- **[2026-10-12 10:24 UTC]** Kassio Nunes manda investigar conteúdo de canal de Janones pró-Lula após censura ser derrubada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-nunes-manda-investigar-conteudo-de-canal-pro-lula-apos-censura-ser-derrubada.shtml)_
+
