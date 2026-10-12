@@ -59,3 +59,6 @@
 - **[2026-10-11 15:57 UTC]** Corregedor do TSE derruba censura de Kassio e libera canal pró-Lula criado por Janones
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/corregedor-do-tse-derruba-censura-de-kassio-e-libera-canal-pro-lula-criado-por-janones.shtml)_
 
+- **[2026-10-12 11:58 UTC]** Área técnica do TSE diz a Kassio não ter achado conteúdo citado por Flávio em canal de Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/area-tecnica-do-tse-diz-a-kassio-nao-ter-achado-conteudo-citado-por-flavio-em-canal-de-janones.shtml)_
+
