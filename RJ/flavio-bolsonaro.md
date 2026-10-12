@@ -5644,3 +5644,6 @@
 - **[2026-10-12 16:18 UTC]** Campanha de Lula acusa Flávio de associar vídeo de usuários de drogas no Chile ao ato petista na Paulista
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/campanha-de-lula-acusa-flavio-de-associar-video-de-usuarios-de-drogas-no-chile-ao-ato-de-lula-na-paulista.ghtml)_
 
+- **[2026-10-12 15:41 UTC]** TSE diz não ter identificado fake news apontadas por Flávio Bolsonaro no canal 'Exército do Lula'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/tse-diz-nao-ter-identificado-fake-news-apontadas-por-flavio-bolsonaro-no-canal-exercito-do-lula.ghtml)_
+
