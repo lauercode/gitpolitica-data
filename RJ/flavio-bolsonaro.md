@@ -5560,3 +5560,6 @@
 - **[2026-10-11 23:00 UTC]** Guerra jurídica no 1º turno teve Nossa Senhora, debate e ao menos 470 ações de Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/guerra-juridica-no-1o-turno-teve-nossa-senhora-debate-e-mais-vitorias-de-lula.shtml)_
 
+- **[2026-10-11 23:00 UTC]** Campanha de Lula aposta em 50% de esperança e 50% de ataque a Flávio na reta final
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-aposta-em-50-de-esperanca-e-50-de-ataque-a-flavio-na-reta-final.shtml)_
+
