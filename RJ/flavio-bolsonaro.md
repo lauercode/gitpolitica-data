@@ -5665,3 +5665,6 @@
 - **[2026-10-12 18:03 UTC]** Flávio Bolsonaro participa de missa na Catedral de Brasília
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-participa-de-missa-na-catedral-de-brasilia-0)_
 
+- **[2026-10-12 15:00 UTC]** Lula quer aumentar incentivos à cultura; Flávio defende patrimônio
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/conheca-propostas-de-flavio-e-lula-para-cultura)_
+
