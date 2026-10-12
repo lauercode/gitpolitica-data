@@ -5692,3 +5692,6 @@
 - **[2026-10-12 17:32 UTC]** Lula valorizou o salário mínimo, Flávio Bolsonaro vai congelá-lo?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2026/10/lula-valorizou-o-salario-minimo-flavio-bolsonaro-vai-congela-lo.shtml)_
 
+- **[2026-10-12 17:29 UTC]** Canal de Flávio faz associação falsa de cocaína a ato pró-Lula, e Tarcísio compartilha imagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/canal-de-flavio-faz-associacao-falsa-de-cocaina-a-ato-pro-lula-e-usa-falas-do-petista-sem-contexto.shtml)_
+
