@@ -5542,3 +5542,6 @@
 - **[2026-10-11 19:46 UTC]** Flávio passa domingo reunido com prefeitos e vereadores de São Paulo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-passa-domingo-reunido-com-prefeitos-e-vereadores-de-sao-paulo)_
 
+- **[2026-10-11 20:52 UTC]** Mendonça proíbe PT de impulsionar vídeo que diz que Flávio Bolsonaro é contra a escala 6x1
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/11/mendonca-proibe-pt-de-impulsionar-videos-que-dizem-que-flavio-bolsonaro-e-contra-a-escala-6x1.ghtml)_
+
