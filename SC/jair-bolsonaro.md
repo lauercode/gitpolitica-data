@@ -128,3 +128,6 @@
 - **[2026-10-12 12:39 UTC]** Moraes autoriza retomada de visitas de Flávio ao ex-presidente Jair Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/moraes-autoriza-retomada-de-visitas-de-flavio-ao-ex-presidente-jair-bolsonaro.ghtml)_
 
+- **[2026-10-12 14:02 UTC]** Por que Alexandre de Moraes decidiu autorizar visitas de Flávio a Jair Bolsonaro após 3 meses de proibição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjly0z0kldqxo?at_medium=RSS&at_campaign=rss)_
+
