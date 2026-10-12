@@ -5641,3 +5641,6 @@
 - **[2026-10-12 16:33 UTC]** Flávio comemora decisão de Moraes e diz que visitará Jair Bolsonaro nesta terça-feira
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/flavio-comemora-decisao-de-moraes-e-diz-que-visitara-jair-bolsonaro-nesta-terca-feira.ghtml)_
 
+- **[2026-10-12 16:18 UTC]** Campanha de Lula acusa Flávio de associar vídeo de usuários de drogas no Chile ao ato petista na Paulista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/campanha-de-lula-acusa-flavio-de-associar-video-de-usuarios-de-drogas-no-chile-ao-ato-de-lula-na-paulista.ghtml)_
+
