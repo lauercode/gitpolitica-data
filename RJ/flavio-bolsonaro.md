@@ -5548,3 +5548,6 @@
 - **[2026-10-12 01:02 UTC]** Mendonça manda PT retirar anúncios e CUT apagar posts contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-pt-retirar-anuncios-e-cut-apagar-posts-contra-flavio/)_
 
+- **[2026-10-11 22:15 UTC]** Lula acusa Flávio Bolsonaro de mentir sobre propostas econômicas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-acusa-flvio-de-mentir-sobre-propostas-econmicas.ghtml)_
+
