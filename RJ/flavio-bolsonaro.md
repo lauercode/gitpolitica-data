@@ -5647,3 +5647,6 @@
 - **[2026-10-12 15:41 UTC]** TSE diz não ter identificado fake news apontadas por Flávio Bolsonaro no canal 'Exército do Lula'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/tse-diz-nao-ter-identificado-fake-news-apontadas-por-flavio-bolsonaro-no-canal-exercito-do-lula.ghtml)_
 
+- **[2026-10-12 14:23 UTC]** Presidente do TSE marca reunião entre campanhas de Lula e Flávio Bolsonaro amanhã
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/presidente-do-tse-marca-reunio-entre-campanhas-de-lula-e-flvio-bolsonaro-amanh.ghtml)_
+
