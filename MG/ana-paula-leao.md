@@ -53,3 +53,6 @@
 - **[2026-10-11 17:51 UTC]** Entenda o que são e os riscos de nódulos pulmonares, como o do papa Leão 14
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/entenda-o-que-sao-e-os-riscos-de-nodulos-pulmonares-como-o-do-papa.shtml)_
 
+- **[2026-10-12 09:48 UTC]** Vaticano diz que Leão 14 será internado na terça (13) para retirar nódulo do pulmão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/vaticano-diz-que-leao-14-sera-internado-na-terca-13-para-retirar-nodulo-do-pulmao.shtml)_
+
