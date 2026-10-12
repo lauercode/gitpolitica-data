@@ -5602,3 +5602,6 @@
 - **[2026-10-12 13:55 UTC]** MDB lulista reage a articulação de alas pró-Flávio Bolsonaro e anunciará apoio ao presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/mdb-lulista-reage-a-articulacao-de-alas-pro-flavio-bolsonaro-e-anunciara-apoio-ao-presidente.shtml)_
 
+- **[2026-10-12 13:53 UTC]** Flávio participa de missa de Nossa Senhora e diz que vai visitar Bolsonaro nesta terça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-participa-de-missa-de-nossa-senhora-e-diz-que-vai-visitar-bolsonaro-nesta-terca.shtml)_
+
