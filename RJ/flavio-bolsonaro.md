@@ -5572,3 +5572,6 @@
 - **[2026-10-12 08:16 UTC]** O que Flávio Bolsonaro e Lula propõem sobre o funcionalismo público
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6ev3gn2k39zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-09 13:33 UTC]** Quem está à frente nas pesquisas do 2º turno? Veja Lula x Flávio Bolsonaro no agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
