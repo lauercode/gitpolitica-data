@@ -5578,3 +5578,6 @@
 - **[2026-10-12 11:38 UTC]** Moraes autoriza Flávio Bolsonaro a visitar o pai, preso em casa
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-autoriza-flavio-bolsonaro-visitar-o-pai-preso-em-casa)_
 
+- **[2026-10-12 11:19 UTC]** Moraes autoriza retomada de visitas de Flávio Bolsonaro ao pai
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/moraes-autoriza-retomada-de-visitas-de-flavio-bolsonaro-ao-pai)_
+
