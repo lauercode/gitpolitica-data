@@ -5557,3 +5557,6 @@
 - **[2026-10-11 23:00 UTC]** Flávio Bolsonaro quer destruir o que faz do Brasil um dos lugares mais maravilhosos do mundo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-quer-destruir-o-que-faz-do-brasil-um-dos-lugares-mais-maravilhosos-do-mundo.shtml)_
 
+- **[2026-10-11 23:00 UTC]** Guerra jurídica no 1º turno teve Nossa Senhora, debate e ao menos 470 ações de Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/guerra-juridica-no-1o-turno-teve-nossa-senhora-debate-e-mais-vitorias-de-lula.shtml)_
+
