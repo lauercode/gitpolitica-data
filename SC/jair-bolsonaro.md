@@ -122,3 +122,6 @@
 - **[2026-10-09 17:00 UTC]** Dos bilhetinhos na prisão ao resultado nas urnas: o papel de Jair Bolsonaro nas eleições 2026
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bilhetinhos-prisao-resultado-urnas-jair-bolsonaro-eleicoes-2026/)_
 
+- **[2026-10-12 15:28 UTC]** Flávio comemora liberação para visitas a Jair Bolsonaro e diz que se encontrará com o pai nesta terça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/flavio-nossa-senhora-aparecida.ghtml)_
+
