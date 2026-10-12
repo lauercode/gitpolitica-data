@@ -5566,3 +5566,6 @@
 - **[2026-10-11 23:00 UTC]** Decisões de Kassio contra Lula e a favor de Flávio incomodam ala do TSE e geram críticas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/decisoes-de-kassio-contra-lula-e-a-favor-de-flavio-incomodam-ala-do-tse-e-geram-criticas.shtml)_
 
+- **[2026-10-11 22:35 UTC]** Lula reúne multidão na Paulista, e esquerda replica atos pelo país em busca de onda contra Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-reune-multidao-e-mira-jovens-flavio-mobiliza-aliados-e-fala-em-evitar-ja-ganhou.shtml)_
+
