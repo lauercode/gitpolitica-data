@@ -5650,3 +5650,6 @@
 - **[2026-10-12 14:23 UTC]** Presidente do TSE marca reunião entre campanhas de Lula e Flávio Bolsonaro amanhã
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/presidente-do-tse-marca-reunio-entre-campanhas-de-lula-e-flvio-bolsonaro-amanh.ghtml)_
 
+- **[2026-10-12 13:07 UTC]** Moraes autoriza Flávio a voltar com visitas a ex-presidente Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/12/moraes-autoriza-flavio-a-voltar-com-visitas-a-ex-presidente-bolsonaro.ghtml)_
+
