@@ -32,3 +32,6 @@
 - **[2026-10-10 18:20 UTC]** Gilmar Mendes lamenta a derrota de Esperidião Amin para o PL na reeleição ao Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-lamenta-a-derrota-de-esperidiao-amin-para-o-pl-na-reeleicao-ao-senado/)_
 
+- **[2026-10-12 17:50 UTC]** Gilmar Mendes lamenta derrota de Esperidião Amin ao Senado e cita 'irracionalidade' de movimentos populares
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/12/gilmar-mendes-lamenta-derrota-de-esperidiao-amin-ao-senado.ghtml)_
+
