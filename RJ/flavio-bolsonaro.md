@@ -5713,3 +5713,6 @@
 - **[2026-10-12 20:07 UTC]** Campanha de Flávio contesta relatório do TSE e acusa canal pró-Lula de “burlar” fiscalização
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-de-flavio-contesta-relatorio-do-tse-e-acusa-canal-pro-lula-de-burlar-fiscalizacao/)_
 
+- **[2026-10-12 19:08 UTC]** 'Exército de Lula' no WhatsApp: TSE não encontra notícias falsas apontadas por campanha de Flavio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwn8dre9yg7no?at_medium=RSS&at_campaign=rss)_
+
