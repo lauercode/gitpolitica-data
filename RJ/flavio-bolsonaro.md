@@ -5653,3 +5653,6 @@
 - **[2026-10-12 13:07 UTC]** Moraes autoriza Flávio a voltar com visitas a ex-presidente Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/12/moraes-autoriza-flavio-a-voltar-com-visitas-a-ex-presidente-bolsonaro.ghtml)_
 
+- **[2026-10-12 12:44 UTC]** Lula e Flávio Bolsonaro participam de cerimônias religiosas para celebrar Dia de Nossa Senhora Aparecida
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/lula-e-flavio-bolsonaro-participam-de-cerimonias-religiosas-para-celebrar-dia-de-nossa-senhora-aparecida.ghtml)_
+
