@@ -89,3 +89,6 @@
 - **[2026-10-08 20:25 UTC]** Haddad pede votos para Lula em SP, e Boulos diz que 'derrotismo é para covardes'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/haddad-pede-votos-para-lula-em-sp-e-diz-que-esta-facil-fazer-campanha-contra-flavio-bolsonaro.shtml)_
 
+- **[2026-10-12 16:57 UTC]** Alckmin fará reunião com prefeitos de SP para ampliar apoio a Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/alckmin-fara-reuniao-com-prefeitos-de-sp-para-ampliar-apoio-a-lula.shtml)_
+
