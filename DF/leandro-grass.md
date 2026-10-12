@@ -65,3 +65,6 @@
 - **[2026-10-08 21:25 UTC]** Datafolha: No DF, Celina Leão tem 55% das intenções de voto e Leandro Grass, 37%, no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/datafolha-no-df-celina-leo-tem-55-pontos-percentuais-dos-votos-e-leandro-grass-37-no-segundo-turno.ghtml)_
 
+- **[2026-10-12 20:03 UTC]** Quaest no DF, segundo turno: Celina Leão, 53%; Leandro Grass, 33%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-governador-segundo-turno-12-outubro.ghtml)_
+
