@@ -5695,3 +5695,6 @@
 - **[2026-10-12 17:29 UTC]** Canal de Flávio faz associação falsa de cocaína a ato pró-Lula, e Tarcísio compartilha imagem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/canal-de-flavio-faz-associacao-falsa-de-cocaina-a-ato-pro-lula-e-usa-falas-do-petista-sem-contexto.shtml)_
 
+- **[2026-10-12 16:30 UTC]** Vorcaro aposta em Flávio para salvar a própria pele
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/vorcaro-aposta-em-flavio-para-salvar-a-propria-pele.shtml)_
+
