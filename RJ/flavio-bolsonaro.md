@@ -5593,3 +5593,6 @@
 - **[2026-10-12 13:55 UTC]** Nova crise no TSE gera insatisfação, opõe Lula e Flávio Bolsonaro e será discutida no lugar certo, o plenário
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/12/nova-crise-no-tse-gera-insatisfacao-opoe-lula-e-flavio-bolsonaro-e-sera-discutida-no-lugar-certo-o-plenario.ghtml)_
 
+- **[2026-10-12 12:39 UTC]** Moraes autoriza retomada de visitas de Flávio ao ex-presidente Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/moraes-autoriza-retomada-de-visitas-de-flavio-ao-ex-presidente-jair-bolsonaro.ghtml)_
+
