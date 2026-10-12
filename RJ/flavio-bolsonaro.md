@@ -5662,3 +5662,6 @@
 - **[2026-10-12 11:14 UTC]** Nas cidades mais impactadas pelo tarifaço dos EUA, Flávio supera Lula nas urnas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/nas-cidades-mais-impactadas-pelo-tarifaco-flavio-supera-lula-nas-urnas.ghtml)_
 
+- **[2026-10-12 18:03 UTC]** Flávio Bolsonaro participa de missa na Catedral de Brasília
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-participa-de-missa-na-catedral-de-brasilia-0)_
+
