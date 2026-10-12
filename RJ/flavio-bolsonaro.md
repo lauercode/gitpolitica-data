@@ -5599,3 +5599,6 @@
 - **[2026-10-12 11:25 UTC]** Dia de Nossa Senhora: Lula participa de missa no Alvorada, e Flávio vai à Catedral de Brasília
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/12/dia-de-nossa-senhora-lula-e-flavio-vao-a-missa-em-brasilia-alckmin-publica-video-rumo-a-aparecida.ghtml)_
 
+- **[2026-10-12 13:55 UTC]** MDB lulista reage a articulação de alas pró-Flávio Bolsonaro e anunciará apoio ao presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/mdb-lulista-reage-a-articulacao-de-alas-pro-flavio-bolsonaro-e-anunciara-apoio-ao-presidente.shtml)_
+
