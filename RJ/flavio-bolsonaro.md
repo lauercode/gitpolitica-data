@@ -5707,3 +5707,6 @@
 - **[2026-10-12 14:35 UTC]** Propaganda de Flávio Bolsonaro na TV é transmitida sem som e candidato reclama
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/propaganda-de-flavio-bolsonaro-na-tv-e-transmitida-sem-som-e-candidato-reclama.shtml)_
 
+- **[2026-10-12 22:13 UTC]** Flávio participa de missa de Nossa Senhora e confirma visita a Bolsonaro nesta terça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-participa-de-missa-de-nossa-senhora-e-confirma-visita-a-bolsonaro-nesta-terca/)_
+
