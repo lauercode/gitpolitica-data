@@ -1091,3 +1091,6 @@
 - **[2026-10-12 11:15 UTC]** Lula cobra Kassio e diz que presidente do TSE 'não pode ter lado'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-cobra-kassio-e-diz-que-presidente-do-tse-nao-pode-ter-lado.shtml)_
 
+- **[2026-10-12 14:39 UTC]** Lula afirma que presidente do TSE não pode ‘ter lado na política’ e diz estar convencido de vitória no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/lula-afirma-que-presidente-do-tse-no-pode-ter-lado-na-poltica-e-diz-estar-convencido-de-vitria-no-2o-turno.ghtml)_
+
