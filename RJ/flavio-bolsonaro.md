@@ -5620,3 +5620,6 @@
 - **[2026-10-12 11:30 UTC]** Lula supera Flávio em popularidade digital, mas senador ainda tem o dobro de visualizações, diz Ativaweb
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/lula-supera-flavio-em-popularidade-digital-mas-senador-ainda-tem-o-dobro-de-visualizacoes-diz-dataweb.shtml)_
 
+- **[2026-10-12 11:07 UTC]** Aval a visita a Bolsonaro se soma a 3 decisões recentes do STF pró-bolsonarismo e 1 contra; lembre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aval-a-visita-a-bolsonaro-se-soma-a-3-decisoes-recentes-do-stf-pro-bolsonarismo-e-1-contra-lembre.shtml)_
+
