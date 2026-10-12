@@ -5623,3 +5623,6 @@
 - **[2026-10-12 11:07 UTC]** Aval a visita a Bolsonaro se soma a 3 decisões recentes do STF pró-bolsonarismo e 1 contra; lembre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aval-a-visita-a-bolsonaro-se-soma-a-3-decisoes-recentes-do-stf-pro-bolsonarismo-e-1-contra-lembre.shtml)_
 
+- **[2026-10-12 10:08 UTC]** Moraes autoriza Flávio Bolsonaro a retomar visitas ao pai e mantém veto a declarações políticas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/moraes-autoriza-flavio-bolsonaro-a-retomar-visitas-ao-pai-e-mantem-veto-a-declaracoes-politicas.shtml)_
+
