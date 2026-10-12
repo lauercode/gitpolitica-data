@@ -5614,3 +5614,6 @@
 - **[2026-10-12 12:25 UTC]** Kassio receberá equipes jurídicas das campanhas após Lula questionar decisões do TSE favoráveis a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-recebera-equipes-juridicas-das-campanhas-apos-lula-questionar-decisoes-do-tse-favoraveis-a-flavio-bolsonaro.shtml)_
 
+- **[2026-10-12 11:58 UTC]** Área técnica do TSE diz a Kassio não ter achado conteúdo citado por Flávio em canal de Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/area-tecnica-do-tse-diz-a-kassio-nao-ter-achado-conteudo-citado-por-flavio-em-canal-de-janones.shtml)_
+
