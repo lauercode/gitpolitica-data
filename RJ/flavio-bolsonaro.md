@@ -5596,3 +5596,6 @@
 - **[2026-10-12 12:39 UTC]** Moraes autoriza retomada de visitas de Flávio ao ex-presidente Jair Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/moraes-autoriza-retomada-de-visitas-de-flavio-ao-ex-presidente-jair-bolsonaro.ghtml)_
 
+- **[2026-10-12 11:25 UTC]** Dia de Nossa Senhora: Lula participa de missa no Alvorada, e Flávio vai à Catedral de Brasília
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/12/dia-de-nossa-senhora-lula-e-flavio-vao-a-missa-em-brasilia-alckmin-publica-video-rumo-a-aparecida.ghtml)_
+
