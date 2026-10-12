@@ -5683,3 +5683,6 @@
 - **[2026-10-12 20:20 UTC]** TSE manda Flávio e aliados removerem vídeo falso sobre uso de cocaína por menina em ato pró-Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-manda-flavio-e-aliados-removerem-video-falso-sobre-uso-de-cocaina-por-menina-em-ato-pro-lula.shtml)_
 
+- **[2026-10-12 19:59 UTC]** Site da Ancine é invadido e exibe xingamentos a Lula e foto de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/site-da-ancine-e-invadido-e-exibe-foto-de-flavio-bolsonaro-e-xingamentos-a-lula.shtml)_
+
