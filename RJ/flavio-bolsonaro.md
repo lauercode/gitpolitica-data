@@ -5716,3 +5716,6 @@
 - **[2026-10-12 19:08 UTC]** 'Exército de Lula' no WhatsApp: TSE não encontra notícias falsas apontadas por campanha de Flavio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwn8dre9yg7no?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-12 19:29 UTC]** Flávio Bolsonaro precisará de equilíbrio em negociações do agro com EUA e China se for eleito, diz senadora
+  _fonte: [Valor Econômico](https://valor.globo.com/agronegocios/noticia/2026/10/12/flavio-bolsonaro-precisara-de-equilibrio-em-negociacoes-do-agro-com-eua-e-china-se-for-eleito-diz-senadora.ghtml)_
+
