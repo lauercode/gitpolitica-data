@@ -5656,3 +5656,6 @@
 - **[2026-10-12 12:44 UTC]** Lula e Flávio Bolsonaro participam de cerimônias religiosas para celebrar Dia de Nossa Senhora Aparecida
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/lula-e-flavio-bolsonaro-participam-de-cerimonias-religiosas-para-celebrar-dia-de-nossa-senhora-aparecida.ghtml)_
 
+- **[2026-10-12 12:12 UTC]** Nova pesquisa Datafolha mede se voto em Lula e Flávio Bolsonaro no 2º turno é por apoio ou rejeição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/nova-pesquisa-datafolha-mede-se-voto-em-lula-e-flavio-bolsonaro-no-2o-turno-e-por-apoio-ou-rejeicao.ghtml)_
+
