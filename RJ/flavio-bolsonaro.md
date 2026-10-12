@@ -5701,3 +5701,6 @@
 - **[2026-10-12 15:41 UTC]** Juliette questiona ligação de Flávio Bolsonaro com bispo que atacou Nossa Senhora Aparecida
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/juliette-questiona-ligacao-de-flavio-bolsonaro-com-bispo-que-atacou-nossa-senhora-aparecida.shtml)_
 
+- **[2026-10-12 14:53 UTC]** 'Anatomia do Caos', que revisita gestão Bolsonaro na pandemia, estreia no YouTube na sexta; veja trecho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/anatomia-do-caos-que-revisita-gestao-bolsonaro-na-pandemia-estreia-no-youtube-na-sexta-veja-trecho.shtml)_
+
