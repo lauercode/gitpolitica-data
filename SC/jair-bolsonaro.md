@@ -131,3 +131,6 @@
 - **[2026-10-12 14:02 UTC]** Por que Alexandre de Moraes decidiu autorizar visitas de Flávio a Jair Bolsonaro após 3 meses de proibição
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjly0z0kldqxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-12 16:33 UTC]** Flávio comemora decisão de Moraes e diz que visitará Jair Bolsonaro nesta terça-feira
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/flavio-comemora-decisao-de-moraes-e-diz-que-visitara-jair-bolsonaro-nesta-terca-feira.ghtml)_
+
