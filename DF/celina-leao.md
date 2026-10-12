@@ -137,3 +137,6 @@
 - **[2026-10-12 20:03 UTC]** Quaest no DF, segundo turno: Celina Leão, 53%; Leandro Grass, 33%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-governador-segundo-turno-12-outubro.ghtml)_
 
+- **[2026-10-12 20:42 UTC]** Quaest: No DF, Celina Leão tem 53% e Leandro Grass, 33%, no segundo turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/quaest-no-df-celina-leo-tem-53-pontos-percentuais-e-leandro-grass-33-no-segundo-turno.ghtml)_
+
