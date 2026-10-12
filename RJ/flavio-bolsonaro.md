@@ -5584,3 +5584,6 @@
 - **[2026-10-12 16:54 UTC]** Programa de Flávio vai ao ar sem áudio e homenageia Nossa Senhora Aparecida; Lula também menciona santa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/programa-de-flavio-homenageia-nossa-senhora-lula-tambem-menciona-santa.ghtml)_
 
+- **[2026-10-12 15:28 UTC]** Flávio comemora liberação para visitas a Jair Bolsonaro e diz que se encontrará com o pai nesta terça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/flavio-nossa-senhora-aparecida.ghtml)_
+
