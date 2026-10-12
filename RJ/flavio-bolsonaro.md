@@ -5590,3 +5590,6 @@
 - **[2026-10-12 14:29 UTC]** Área técnica do TSE diz que não encontrou notícias falsas citadas por Flávio no canal 'Exército do Lula', mas aponta riscos eleitorais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/12/area-tenica-do-tse-nao-encontra-conteudos-falsos-investigados-pela-corte-no-canal-exercito-do-lula-mas-aponta-riscos-eleitorais.ghtml)_
 
+- **[2026-10-12 13:55 UTC]** Nova crise no TSE gera insatisfação, opõe Lula e Flávio Bolsonaro e será discutida no lugar certo, o plenário
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/12/nova-crise-no-tse-gera-insatisfacao-opoe-lula-e-flavio-bolsonaro-e-sera-discutida-no-lugar-certo-o-plenario.ghtml)_
+
