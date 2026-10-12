@@ -5674,3 +5674,6 @@
 - **[2026-10-12 20:06 UTC]** Quaest no DF, 2º turno: Flávio Bolsonaro, 50%; Lula, 40%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-presidente-segundo-turno-12-outubro.ghtml)_
 
+- **[2026-10-12 20:02 UTC]** Nunes Marques proíbe circulação de jornal sindical que compara propostas de Lula e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/12/nunes-marques-proibe-circulacao-de-jornal-sindical-que-compara-propostas-de-lula-e-flavio-bolsonaro.ghtml)_
+
