@@ -5587,3 +5587,6 @@
 - **[2026-10-12 15:28 UTC]** Flávio comemora liberação para visitas a Jair Bolsonaro e diz que se encontrará com o pai nesta terça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/flavio-nossa-senhora-aparecida.ghtml)_
 
+- **[2026-10-12 14:29 UTC]** Área técnica do TSE diz que não encontrou notícias falsas citadas por Flávio no canal 'Exército do Lula', mas aponta riscos eleitorais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/12/area-tenica-do-tse-nao-encontra-conteudos-falsos-investigados-pela-corte-no-canal-exercito-do-lula-mas-aponta-riscos-eleitorais.ghtml)_
+
