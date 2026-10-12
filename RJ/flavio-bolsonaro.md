@@ -5635,3 +5635,6 @@
 - **[2026-10-12 08:16 UTC]** O que Flávio Bolsonaro e Lula propõem sobre concursos públicos e o funcionalismo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6ev3gn2k39zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-12 14:02 UTC]** Por que Alexandre de Moraes decidiu autorizar visitas de Flávio a Jair Bolsonaro após 3 meses de proibição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjly0z0kldqxo?at_medium=RSS&at_campaign=rss)_
+
