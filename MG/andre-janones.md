@@ -65,3 +65,6 @@
 - **[2026-10-12 10:24 UTC]** Kassio Nunes manda investigar conteúdo de canal de Janones pró-Lula após censura ser derrubada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-nunes-manda-investigar-conteudo-de-canal-pro-lula-apos-censura-ser-derrubada.shtml)_
 
+- **[2026-10-12 14:20 UTC]** Kassio censurou canal de WhatsApp de Janones sem documentos que mostrassem fake news
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-censurou-canal-de-whatsapp-de-janones-sem-documentos-que-mostrassem-fake-news.shtml)_
+
