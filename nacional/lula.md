@@ -1085,3 +1085,6 @@
 - **[2026-10-11 15:55 UTC]** Lula critica presidente do TSE e diz que partido vai pedir explicação sobre bloqueio a canal de Janones
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-critica-presidente-do-tse-e-diz-que-partido-vai-pedir-explicao-sobre-bloqueio-a-canal-de-janones.ghtml)_
 
+- **[2026-10-12 13:47 UTC]** 'O que não pode é o presidente da Corte Eleitoral ter lado na política', diz Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/lula-nossa-senhora-aparecida.ghtml)_
+
