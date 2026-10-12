@@ -5698,3 +5698,6 @@
 - **[2026-10-12 16:30 UTC]** Vorcaro aposta em Flávio para salvar a própria pele
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/vorcaro-aposta-em-flavio-para-salvar-a-propria-pele.shtml)_
 
+- **[2026-10-12 15:41 UTC]** Juliette questiona ligação de Flávio Bolsonaro com bispo que atacou Nossa Senhora Aparecida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/juliette-questiona-ligacao-de-flavio-bolsonaro-com-bispo-que-atacou-nossa-senhora-aparecida.shtml)_
+
