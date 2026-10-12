@@ -5710,3 +5710,6 @@
 - **[2026-10-12 22:13 UTC]** Flávio participa de missa de Nossa Senhora e confirma visita a Bolsonaro nesta terça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-participa-de-missa-de-nossa-senhora-e-confirma-visita-a-bolsonaro-nesta-terca/)_
 
+- **[2026-10-12 20:07 UTC]** Campanha de Flávio contesta relatório do TSE e acusa canal pró-Lula de “burlar” fiscalização
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-de-flavio-contesta-relatorio-do-tse-e-acusa-canal-pro-lula-de-burlar-fiscalizacao/)_
+
