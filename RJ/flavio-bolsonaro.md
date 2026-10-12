@@ -5677,3 +5677,6 @@
 - **[2026-10-12 20:02 UTC]** Nunes Marques proíbe circulação de jornal sindical que compara propostas de Lula e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/12/nunes-marques-proibe-circulacao-de-jornal-sindical-que-compara-propostas-de-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-12 16:54 UTC]** Programa de Flávio vai ao ar sem áudio e homenageia Nossa Senhora Aparecida; Lula também menciona padroeira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/programa-de-flavio-homenageia-nossa-senhora-lula-tambem-menciona-santa.ghtml)_
+
