@@ -5575,3 +5575,6 @@
 - **[2026-10-09 13:33 UTC]** Quem está à frente nas pesquisas do 2º turno? Veja Lula x Flávio Bolsonaro no agregador da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-12 11:38 UTC]** Moraes autoriza Flávio Bolsonaro a visitar o pai, preso em casa
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-autoriza-flavio-bolsonaro-visitar-o-pai-preso-em-casa)_
+
