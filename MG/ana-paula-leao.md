@@ -50,3 +50,6 @@
 - **[2026-10-02 21:29 UTC]** Artista Jonathas de Andrade entrega camiseta de Lula ao papa Leão 14; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/artista-jonathas-de-andrade-entrega-camiseta-de-lula-ao-papa-leao-14-veja-video.shtml)_
 
+- **[2026-10-11 17:51 UTC]** Entenda o que são e os riscos de nódulos pulmonares, como o do papa Leão 14
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/entenda-o-que-sao-e-os-riscos-de-nodulos-pulmonares-como-o-do-papa.shtml)_
+
