@@ -1427,3 +1427,6 @@ direitos
 - **[2026-10-09 13:26 UTC]** Justiça suspende eleição da Mesa Diretora da Câmara de Macapá; novo pleito será em dezembro
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/10/09/justica-suspende-eleicao-da-mesa-diretora-da-camara-de-macapa-novo-pleito-sera-em-dezembro.ghtml)_
 
+- **[2026-10-11 23:00 UTC]** Jovens despontam entre mais votados, mas metade da Câmara tem 49 anos ou mais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jovens-despontam-entre-mais-votados-mas-metade-da-camara-tem-49-anos-ou-mais.shtml)_
+
