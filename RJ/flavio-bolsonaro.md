@@ -5668,3 +5668,6 @@
 - **[2026-10-12 15:00 UTC]** Lula quer aumentar incentivos à cultura; Flávio defende patrimônio
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/conheca-propostas-de-flavio-e-lula-para-cultura)_
 
+- **[2026-10-12 18:23 UTC]** Kassio atende Flávio e suspende circulação de jornal de sindicato
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-atende-flavio-e-suspende-circulacao-de-jornal-de-sindicato)_
+
