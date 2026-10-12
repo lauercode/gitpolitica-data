@@ -5551,3 +5551,6 @@
 - **[2026-10-11 22:15 UTC]** Lula acusa Flávio Bolsonaro de mentir sobre propostas econômicas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-acusa-flvio-de-mentir-sobre-propostas-econmicas.ghtml)_
 
+- **[2026-10-12 04:00 UTC]** Indígenas recebem áudios com ameaça de invasão a território se Flávio Bolsonaro ganhar eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/indigenas-recebem-audios-com-ameaca-de-invasao-a-territorio-se-flavio-bolsonaro-ganhar-eleicoes.shtml)_
+
