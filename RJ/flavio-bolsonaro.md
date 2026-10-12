@@ -5545,3 +5545,6 @@
 - **[2026-10-11 20:52 UTC]** Mendonça proíbe PT de impulsionar vídeo que diz que Flávio Bolsonaro é contra a escala 6x1
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/11/mendonca-proibe-pt-de-impulsionar-videos-que-dizem-que-flavio-bolsonaro-e-contra-a-escala-6x1.ghtml)_
 
+- **[2026-10-12 01:02 UTC]** Mendonça manda PT retirar anúncios e CUT apagar posts contra Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-pt-retirar-anuncios-e-cut-apagar-posts-contra-flavio/)_
+
