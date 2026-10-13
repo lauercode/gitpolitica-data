@@ -71,3 +71,6 @@
 - **[2026-10-13 11:19 UTC]** Campanha de Flávio diz ao TSE que Janones deletou 499 mensagens do canal 'Exército do Lula'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/campanha-de-flavio-diz-que-janones-deletou-499-mensagens-do-canal-exercito-do-lula.ghtml)_
 
+- **[2026-10-13 10:34 UTC]** Kassio volta a censurar canal de Janones e diz que Lula pode ser responsabilizado por uso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-volta-a-derrubar-exercito-do-lula-e-diz-que-petista-pode-ser-responsabilizado-por-uso-do-canal.shtml)_
+
