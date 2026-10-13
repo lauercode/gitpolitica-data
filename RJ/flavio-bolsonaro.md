@@ -5938,3 +5938,6 @@
 - **[2026-10-13 21:39 UTC]** Flávio Bolsonaro diz que não deve ir ao debate da TV Band
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-bolsonaro-diz-que-no-deve-ir-ao-debate-da-tv-bandeirantes-no-domingo.ghtml)_
 
+- **[2026-10-13 21:08 UTC]** Flávio critica pacote de Lula para MEI e diz que governo 'quer comprar votos'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flavio-critica-pacote-de-lula-para-mei-e-diz-que-governo-quer-comprar-votos.ghtml)_
+
