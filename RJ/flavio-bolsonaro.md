@@ -5887,3 +5887,6 @@
 - **[2026-10-13 22:14 UTC]** Quaest no RN, 2º turno: Lula, 59%; Flávio Bolsonaro, 33%
   _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/13/quaest-rn-presidente-segundo-turno-13-outubro.ghtml)_
 
+- **[2026-10-13 21:56 UTC]** Mendonça determina a exclusão de propaganda de Lula que aponta cortes em programas sociais em caso de vitória de Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/mendonca-determina-a-exclusao-de-propaganda-de-lula-que-aponta-cortes-em-programas-sociais-em-caso-de-vitoria-de-flavio-bolsonaro.ghtml)_
+
