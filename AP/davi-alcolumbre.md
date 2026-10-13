@@ -374,3 +374,6 @@
 - **[2026-10-13 04:57 UTC]** Alcolumbre tenta aprovar fim da escala 6×1 para manter presidência do Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-tenta-aprovar-fim-da-escala-6x1-para-manter-presidencia-do-senado/)_
 
+- **[2026-10-13 21:25 UTC]** Alcolumbre confirma para esta quarta-feira votação da PEC do fim da escala 6x1
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/13/alcolumbre-confirma-para-esta-quarta-feira-votacao-da-pec-do-fim-da-escala-6x1.ghtml)_
+
