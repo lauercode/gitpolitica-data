@@ -5836,3 +5836,6 @@
 - **[2026-10-13 10:41 UTC]** Flávio Bolsonaro diz que vai votar a favor do fim da escala 6x1, pressionado pela eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-vai-votar-a-favor-do-fim-da-escala-6x1-pressionado-pela-eleicao.shtml)_
 
+- **[2026-10-13 10:08 UTC]** Kassio proíbe distribuição de jornal de sindicato dos petroleiros a pedido de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-proibe-distribuicao-de-jornal-de-sindicato-dos-petroleiros-a-pedido-de-flavio-bolsonaro.shtml)_
+
