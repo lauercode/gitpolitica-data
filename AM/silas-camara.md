@@ -1433,3 +1433,6 @@ direitos
 - **[2026-10-13 15:27 UTC]** Pedro DaLua é reeleito presidente da Câmara de Macapá para o biênio 2027-2028
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/10/13/pedro-dalua-e-reeleito-presidente-da-camara-de-macapa-para-o-bienio-2027-2028.ghtml)_
 
+- **[2026-10-13 17:54 UTC]** Presidente da Câmara de Vereadores assume Prefeitura de Simão Dias após prefeito e vice terem os mandatos cassados
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/13/camara-simao-dias.ghtml)_
+
