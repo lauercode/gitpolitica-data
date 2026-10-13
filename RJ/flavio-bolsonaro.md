@@ -5872,3 +5872,6 @@
 - **[2026-10-13 14:06 UTC]** Flávio Bolsonaro diz que votará pelo fim da escala 6x1 e nega clima de 'já ganhou'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-bolsonaro-diz-que-vai-votar-pelo-fim-da-escala-6-x-1.ghtml)_
 
+- **[2026-10-13 17:14 UTC]** Veja os planos de governo de Flávio e Lula para meio ambiente e clima
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/veja-como-os-planos-de-governo-de-flavio-e-lula-tratam-meio-ambiente)_
+
