@@ -95,3 +95,6 @@
 - **[2026-10-12 23:55 UTC]** TSE manda Flávio remover vídeo que associa usuários de drogas no Chile a ato de Lula em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/tse-manda-flvio-remover-vdeo-que-associa-usurios-de-drogas-no-chile-a-ato-de-lula-em-sp.ghtml)_
 
+- **[2026-10-13 22:38 UTC]** Sob chuva, apoiadores de Lula fazem ato no Largo da Batata, em SP, para mobilizar votos no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/13/sob-chuva-apoiadores-de-lula-fazem-ato-no-largo-da-batata-em-sp-para-mobilizar-votos-no-2o-turno.ghtml)_
+
