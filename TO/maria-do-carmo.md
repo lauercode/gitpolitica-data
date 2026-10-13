@@ -83,3 +83,6 @@
 - **[2026-10-13 00:37 UTC]** Eleições no AM: em entrevistas, Omar Aziz e Maria do Carmo falam sobre redução da fila do SisReg
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/12/eleicoes-no-am-em-entrevistas-omar-aziz-e-maria-do-carmo-falam-sobre-reducao-da-fila-do-sisreg.ghtml)_
 
+- **[2026-10-13 17:08 UTC]** Eleições no AM: Omar Aziz e Maria do Carmo trocam críticas, discutem filas na saúde e escala 6x1 em primeiro debate do 2º turno
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/eleicoes-no-am-omar-aziz-e-maria-do-carmo-trocam-criticas-discutem-filas-na-saude-e-escala-6x1-em-primeiro-debate-do-2o-turno.ghtml)_
+
