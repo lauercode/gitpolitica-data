@@ -62,3 +62,6 @@
 - **[2026-10-13 15:24 UTC]** Cirurgia do papa Leão 14 foi um sucesso, diz Vaticano
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/cirurgia-do-papa-leao-14-foi-um-sucesso-diz-vaticano.shtml)_
 
+- **[2026-10-13 19:05 UTC]** Entenda o adenocarcinoma pulmonar, tipo de câncer diagnosticado no papa Leão 14
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/entenda-o-adenocarcinoma-pulmonar-tipo-de-cancer-diagnosticado-no-papa-leao-14.shtml)_
+
