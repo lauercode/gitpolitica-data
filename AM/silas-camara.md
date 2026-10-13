@@ -1436,3 +1436,6 @@ direitos
 - **[2026-10-13 17:54 UTC]** Presidente da Câmara de Vereadores assume Prefeitura de Simão Dias após prefeito e vice terem os mandatos cassados
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/13/camara-simao-dias.ghtml)_
 
+- **[2026-10-13 21:27 UTC]** Presidente da Câmara espera que deputados eleitos busquem equilíbrio e resultados concretos para o Brasil
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1310996-presidente-da-camara-espera-que-deputados-eleitos-busquem-equilibrio-e-resultados-concretos-para-o-brasil)_
+
