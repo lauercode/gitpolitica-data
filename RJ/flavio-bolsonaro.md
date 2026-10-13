@@ -5842,3 +5842,6 @@
 - **[2026-10-13 10:00 UTC]** Por que é uma má ideia seguir o modelo econômico de Milei, inspiração de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/por-que-e-uma-ma-ideia-seguir-o-modelo-economico-de-milei-inspiracao-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-13 09:59 UTC]** Flávio Bolsonaro visita Jair Bolsonaro em prisão domiciliar pela primeira vez desde julho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/flavio-bolsonaro-visita-jair-bolsonaro-em-prisao-domiciliar-pela-primeira-vez-desde-julho.shtml)_
+
