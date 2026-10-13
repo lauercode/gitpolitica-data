@@ -80,3 +80,6 @@
 - **[2026-10-08 21:04 UTC]** Rede Amazônica define cobertura e entrevistas com Omar Aziz e Maria do Carmo no 2º turno para o governo do AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/08/rede-amazonica-define-cobertura-e-entrevistas-com-omar-aziz-e-maria-do-carmo-no-2o-turno-para-o-governo-do-am.ghtml)_
 
+- **[2026-10-13 00:37 UTC]** Eleições no AM: em entrevistas, Omar Aziz e Maria do Carmo falam sobre redução da fila do SisReg
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/12/eleicoes-no-am-em-entrevistas-omar-aziz-e-maria-do-carmo-falam-sobre-reducao-da-fila-do-sisreg.ghtml)_
+
