@@ -131,3 +131,6 @@
 - **[2026-10-10 22:45 UTC]** Eleições no AM: Omar Aziz defende reforço na merenda escolar, e Professora Maria do Carmo propõe incentivos para a educação
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/10/eleicoes-no-am-omar-aziz-defende-reforco-na-merenda-escolar-e-professora-maria-do-carmo-propoe-incentivos-para-a-educacao.ghtml)_
 
+- **[2026-10-13 00:37 UTC]** Eleições no AM: em entrevistas, Omar Aziz e Maria do Carmo falam sobre redução da fila do SisReg
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/12/eleicoes-no-am-em-entrevistas-omar-aziz-e-maria-do-carmo-falam-sobre-reducao-da-fila-do-sisreg.ghtml)_
+
