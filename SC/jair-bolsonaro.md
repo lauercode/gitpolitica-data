@@ -137,3 +137,6 @@
 - **[2026-10-13 12:44 UTC]** Flávio Bolsonaro faz primeira visita ao ex-presidente Jair Bolsonaro após fim de restrições do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/flavio-bolsonaro-visita-jair-bolsonaro.ghtml)_
 
+- **[2026-10-13 13:30 UTC]** Jair Bolsonaro subirá a rampa com Flávio?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/jair-bolsonaro-subira-a-rampa-com-flavio.shtml)_
+
