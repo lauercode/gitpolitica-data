@@ -5779,3 +5779,6 @@
 - **[2026-10-13 08:00 UTC]** Setor produtivo lista receios sob governos Flávio e Lula
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/13/setor-produtivo-lista-receios-sob-governos-flavio-e-lula.ghtml)_
 
+- **[2026-10-13 08:00 UTC]** Para reduzir rejeição feminina, Michelle terá mais participação na campanha de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/para-reduzir-rejeicao-feminina-michelle-tera-mais-participacao-na-campanha-de-flavio.ghtml)_
+
