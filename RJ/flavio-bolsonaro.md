@@ -5749,3 +5749,6 @@
 - **[2026-10-12 23:48 UTC]** Nunes Marques se reúne com campanhas de Lula e Flávio em meio a críticas ao TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-se-reune-com-campanhas-de-lula-e-flavio-em-meio-a-criticas-ao-tse/)_
 
+- **[2026-10-13 01:52 UTC]** Por que TSE mandou Flávio Bolsonaro apagar vídeo enganoso que associa uso de drogas a ato pró-Lula na Paulista
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c95yngxzd73no?at_medium=RSS&at_campaign=rss)_
+
