@@ -5767,3 +5767,6 @@
 - **[2026-10-13 06:00 UTC]** Plano de Flávio de tirar universidades do MEC gera incerteza sobre financiamento e integração de políticas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/plano-de-flavio-de-tirar-universidades-do-mec-gera-incerteza-sobre-financiamento-e-integracao-de-politicas.shtml)_
 
+- **[2026-10-13 07:44 UTC]** Tanto Lula quanto Flávio vão precisar do apoio de Gilmar Mendes no STF para governar, diz constitucionalista
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5n49my0vz49o?at_medium=RSS&at_campaign=rss)_
+
