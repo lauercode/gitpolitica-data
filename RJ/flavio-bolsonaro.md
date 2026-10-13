@@ -5794,3 +5794,6 @@
 - **[2026-10-13 11:19 UTC]** Campanha de Flávio diz ao TSE que Janones deletou 499 mensagens do canal 'Exército do Lula'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/campanha-de-flavio-diz-que-janones-deletou-499-mensagens-do-canal-exercito-do-lula.ghtml)_
 
+- **[2026-10-13 15:46 UTC]** Lula defende Sul Global; Flávio quer proximidade com EUA e Israel
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/lula-defende-sul-global-flavio-quer-proximidade-com-eua-e-israel)_
+
