@@ -17,3 +17,6 @@
 - **[2026-10-12 17:37 UTC]** 'Gostaria de ser a primeira mulher presidente do Senado', diz Tereza Cristina
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/12/entrevista-estudio-i-senadora-tereza-cristina.ghtml)_
 
+- **[2026-10-13 17:56 UTC]** Tereza Cristina avalia votar a favor do fim da 6x1 após ter sido contra na comissão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tereza-cristina-avalia-votar-a-favor-do-fim-da-6x1-apos-ter-sido-contra-na-comissao.shtml)_
+
