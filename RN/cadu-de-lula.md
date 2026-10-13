@@ -149,3 +149,6 @@
 - **[2026-10-12 21:52 UTC]** Cadu de Lula defende obras viárias para integrar regiões e ampliar turismo no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/12/cadu-de-lula-defende-obras-viarias-para-integrar-regioes-e-ampliar-turismo-no-rn.ghtml)_
 
+- **[2026-10-13 18:58 UTC]** Cadu de Lula visita feira na Zona Oeste de Natal e apresenta propostas para saúde e educação
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/13/cadu-de-lula-visita-feira-na-zona-oeste-de-natal-e-apresenta-propostas-para-saude-e-educacao.ghtml)_
+
