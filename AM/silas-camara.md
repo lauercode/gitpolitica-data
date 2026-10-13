@@ -1445,3 +1445,6 @@ direitos
 - **[2026-10-13 21:47 UTC]** Câmara aprova criação de programa para atenção integral de pessoas com epilepsia
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310896-camara-aprova-criacao-de-programa-para-atencao-integral-de-pessoas-com-epilepsia)_
 
+- **[2026-10-13 21:06 UTC]** Câmara aprova regime de urgência para oito projetos de lei
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310978-camara-aprova-regime-de-urgencia-para-oito-projetos-de-lei)_
+
