@@ -86,3 +86,6 @@
 - **[2026-10-13 17:08 UTC]** Eleições no AM: Omar Aziz e Maria do Carmo trocam críticas, discutem filas na saúde e escala 6x1 em primeiro debate do 2º turno
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/eleicoes-no-am-omar-aziz-e-maria-do-carmo-trocam-criticas-discutem-filas-na-saude-e-escala-6x1-em-primeiro-debate-do-2o-turno.ghtml)_
 
+- **[2026-10-13 19:43 UTC]** Quaest: Omar Aziz (PSD) tem 51%, ante 37% de Maria do Carmo (PL) no Amazonas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-omar-aziz-psd-tem-51-ante-37-de-maria-do-carmo-pl-no-amazonas.shtml)_
+
