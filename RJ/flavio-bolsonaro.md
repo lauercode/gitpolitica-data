@@ -5800,3 +5800,6 @@
 - **[2026-10-13 17:54 UTC]** No horário eleitoral, Lula aborda segurança pública e menciona atos pelo Brasil; Flávio detalha 'Smart Brasil' e programas sociais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/horario-eleitoral-13-outubro-flavio-lula.ghtml)_
 
+- **[2026-10-13 17:32 UTC]** Flávio Bolsonaro x Lula: veja quem os candidatos a presidente derrotados no 1º turno apoiam
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/flavio-bolsonaro-x-lula-veja-quem-os-candidatos-a-presidente-derrotados-no-1o-turno-apoiam.ghtml)_
+
