@@ -44,3 +44,6 @@
 - **[2026-09-04 08:00 UTC]** Legado de Chico Mendes impulsiona empreendedorismo verde no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/legado-de-chico-mendes-impulsiona-empreendedorismo-verde-no-brasil.shtml)_
 
+- **[2026-10-13 08:00 UTC]** Com venda para a Vinci, Verde busca novos caminhos
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/13/com-venda-para-a-vinci-verde-busca-novos-caminhos.ghtml)_
+
