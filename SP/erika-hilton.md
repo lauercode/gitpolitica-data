@@ -89,3 +89,6 @@
 - **[2026-10-07 11:47 UTC]** Erika Hilton não descarta disputar a Presidência no futuro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/erika-hilton-nao-descarta-disputar-a-presidencia-no-futuro/)_
 
+- **[2026-10-12 23:00 UTC]** Erika Hilton diz que PSOL cometeu erro estratégico na campanha e admite chance de sair do partido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/erika-hilton-diz-que-psol-cometeu-erro-estrategico-na-campanha-e-admite-chance-de-sair-do-partido.shtml)_
+
