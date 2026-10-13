@@ -1451,3 +1451,6 @@ direitos
 - **[2026-10-13 17:19 UTC]** Duas federações e três partidos não atingem a cláusula de barreira na eleição para a Câmara
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310849-duas-federacoes-e-tres-partidos-nao-atingem-a-clausula-de-barreira-na-eleicao-para-a-camara)_
 
+- **[2026-10-13 20:58 UTC]** PSD sinaliza apoio à reeleição de Motta ao indicar permanência no bloco que o elegeu presidente da Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/psd-sinaliza-apoio-a-reeleicao-de-motta-ao-indicar-permanencia-no-bloco-que-o-elegeu-presidente-da-camara.ghtml)_
+
