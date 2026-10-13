@@ -5851,3 +5851,6 @@
 - **[2026-10-13 17:52 UTC]** Lula ironiza voto de Flávio a favor do fim da escala 6×1 por “pressão da sociedade”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-ironiza-voto-flavio-fim-escala-6x1-pressao-da-sociedade/)_
 
+- **[2026-10-13 17:15 UTC]** Flávio diz que votará pelo fim da escala 6X1 e defende compensação a empresas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-diz-que-votara-pelo-fim-da-escala-6x1-e-defende-compensacao-a-empresarios/)_
+
