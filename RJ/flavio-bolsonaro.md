@@ -5797,3 +5797,6 @@
 - **[2026-10-13 15:46 UTC]** Lula defende Sul Global; Flávio quer proximidade com EUA e Israel
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/lula-defende-sul-global-flavio-quer-proximidade-com-eua-e-israel)_
 
+- **[2026-10-13 17:54 UTC]** No horário eleitoral, Lula aborda segurança pública e menciona atos pelo Brasil; Flávio detalha 'Smart Brasil' e programas sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/horario-eleitoral-13-outubro-flavio-lula.ghtml)_
+
