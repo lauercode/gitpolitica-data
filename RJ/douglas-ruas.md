@@ -122,3 +122,6 @@
 - **[2026-10-10 18:24 UTC]** TRE-RJ confirma Douglas Ruas, do PL,  como governador eleito do Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/tre-rj-confirma-maioria-de-votos-vlidos-a-douglas-ruas-do-pl-nas-eleies-para-governo-do-rio.ghtml)_
 
+- **[2026-10-13 19:31 UTC]** Vitória de Douglas Ruas no RJ amplia recorde de 21 governadores eleitos no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/eleicoes-2026-governadores-primeiro-turno-recorde.ghtml)_
+
