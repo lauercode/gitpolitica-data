@@ -5755,3 +5755,6 @@
 - **[2026-10-13 02:14 UTC]** Programa eleitoral de Flávio Bolsonaro homenageia Nossa Senhora Aparecida, mas vai ao ar sem áudio
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/12/programa-eleitoral-de-flvio-bolsonaro-homenageia-nossa-senhora-aparecida-mas-vai-ao-ar-sem-udio.ghtml)_
 
+- **[2026-10-12 23:55 UTC]** TSE manda Flávio remover vídeo que associa usuários de drogas no Chile a ato de Lula em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/tse-manda-flvio-remover-vdeo-que-associa-usurios-de-drogas-no-chile-a-ato-de-lula-em-sp.ghtml)_
+
