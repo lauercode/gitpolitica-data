@@ -65,3 +65,6 @@
 - **[2026-10-10 09:00 UTC]** Mailza Assis e Alan Rick exploram aproximação com Flávio Bolsonaro em disputa ao governo do AC: 'Efeito nulo', diz cientista político
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/10/mailza-assis-e-alan-rick-exploram-aproximacao-com-flavio-bolsonaro-em-disputa-ao-governo-do-ac-efeito-nulo-diz-cientista-politico.ghtml)_
 
+- **[2026-10-13 22:16 UTC]** Quaest no AC: 48% avaliam gestão Mailza Assis como positiva e 10%, como negativa
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/quaest-ac-avaliacao-governo-mailza-assis-13-outubro.ghtml)_
+
