@@ -65,3 +65,6 @@
 - **[2026-10-13 19:05 UTC]** Entenda o adenocarcinoma pulmonar, tipo de câncer diagnosticado no papa Leão 14
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/entenda-o-adenocarcinoma-pulmonar-tipo-de-cancer-diagnosticado-no-papa-leao-14.shtml)_
 
+- **[2026-10-13 18:54 UTC]** Irmão do papa Leão 14 também está com câncer e em tratamento, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/irmao-do-papa-leao-14-tambem-esta-com-cancer-e-em-tratamento-diz-jornal.shtml)_
+
