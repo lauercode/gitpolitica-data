@@ -98,3 +98,6 @@
 - **[2026-10-13 22:38 UTC]** Sob chuva, apoiadores de Lula fazem ato no Largo da Batata, em SP, para mobilizar votos no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/13/sob-chuva-apoiadores-de-lula-fazem-ato-no-largo-da-batata-em-sp-para-mobilizar-votos-no-2o-turno.ghtml)_
 
+- **[2026-10-13 23:03 UTC]** Campanha de Lula tenta manter militância mobilizada em SP em ‘ato da virada’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/campanha-de-lula-tenta-manter-militancia-mobilizada-em-sp-em-ato-da-virada.ghtml)_
+
