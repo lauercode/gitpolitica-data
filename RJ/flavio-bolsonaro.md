@@ -5929,3 +5929,6 @@
 - **[2026-10-13 20:22 UTC]** Por que Flávio Bolsonaro voltou atrás sobre o fim da escala 6x1?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjqln6grn1nyo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-13 22:34 UTC]** Quaest no AM, 2º turno: Lula, 47%; Flávio Bolsonaro, 43%
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/quaest-am-presidente-segundo-turno-13-outubro.ghtml)_
+
