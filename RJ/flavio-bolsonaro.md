@@ -5743,3 +5743,6 @@
 - **[2026-10-12 21:00 UTC]** Padilha entregará novas alas em hospital que era associado a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/padilha-entregara-novas-alas-em-hospital-que-era-associado-a-flavio-bolsonaro.shtml)_
 
+- **[2026-10-13 00:53 UTC]** TSE manda Flávio remover vídeo que associa ato pró-Lula a uso de droga no Chile
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-manda-flavio-remover-video-que-associa-ato-pro-lula-a-uso-de-droga-no-chile/)_
+
