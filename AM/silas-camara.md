@@ -1454,3 +1454,6 @@ direitos
 - **[2026-10-13 20:58 UTC]** PSD sinaliza apoio à reeleição de Motta ao indicar permanência no bloco que o elegeu presidente da Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/psd-sinaliza-apoio-a-reeleicao-de-motta-ao-indicar-permanencia-no-bloco-que-o-elegeu-presidente-da-camara.ghtml)_
 
+- **[2026-10-13 21:15 UTC]** Entenda o cenário das eleições na Câmara Municipal de Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/10/13/entenda-o-cenario-das-eleicoes-na-camara-municipal-de-macapa.ghtml)_
+
