@@ -371,3 +371,6 @@
 - **[2026-10-13 00:56 UTC]** PEC 6×1 vira sobrevida de Alcolumbre no comando do Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pec-6x1-vira-sobrevida-de-alcolumbre-no-comando-do-senado/)_
 
+- **[2026-10-13 04:57 UTC]** Alcolumbre tenta aprovar fim da escala 6×1 para manter presidência do Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-tenta-aprovar-fim-da-escala-6x1-para-manter-presidencia-do-senado/)_
+
