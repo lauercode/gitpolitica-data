@@ -5908,3 +5908,6 @@
 - **[2026-10-13 19:32 UTC]** Campanhas de Lula e Flávio Bolsonaro vão tentar consenso para canais de WhatsApp e sugerir proposta ao TSE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-vao-tentar-consenso-para-canais-de-whatsapp-e-sugerir-proposta-ao-tse.shtml)_
 
+- **[2026-10-13 19:32 UTC]** Flávio garante a aliados que, se eleito, vai defender revisão da PEC do fim da 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-garante-a-aliados-que-se-eleito-vai-defender-revisao-da-pec-do-fim-da-6x1.shtml)_
+
