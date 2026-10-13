@@ -5893,3 +5893,6 @@
 - **[2026-10-13 21:42 UTC]** Após ‘guerra’ de decisões chegar ao TSE, Nunes Marques reúne campanhas de Lula e Flávio para tentar reduzir ações
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/apos-guerra-de-decisoes-chegar-ao-tse-nunes-marques-reune-campanhas-de-lula-e-flavio-para-tentar-reduzir-acoes.ghtml)_
 
+- **[2026-10-13 21:29 UTC]** Em evento em que MDB formaliza apoio majoritário a Flávio Bolsonaro, candidato diz que não vai a debate no domingo e avalia o próximo
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/13/em-evento-em-que-mdb-formaliza-apoio-a-flavio-bolsonaro-candidato-diz-que-nao-vai-a-debate-no-domingo-e-avalia-o-proximo.ghtml)_
+
