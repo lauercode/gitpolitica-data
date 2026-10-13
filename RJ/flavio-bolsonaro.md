@@ -5878,3 +5878,6 @@
 - **[2026-10-13 22:20 UTC]** TSE julga processos envolvendo publicações de propaganda eleitoral de Flávio Bolsonaro e Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/tse-julga-processos-propaganda-eleitoral.ghtml)_
 
+- **[2026-10-13 22:17 UTC]** Quaest no AC, 2º turno: Flávio Bolsonaro, 60%; Lula, 28%
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/quaest-ac-presidente-segundo-turno-13-outubro.ghtml)_
+
