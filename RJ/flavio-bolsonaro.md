@@ -5926,3 +5926,6 @@
 - **[2026-10-13 21:24 UTC]** Campanha do PL registra canal da “Tropa do Flávio” após TSE restringir o de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-pl-registra-canal-tropa-do-flavio-apos-tse-restringir-lula/)_
 
+- **[2026-10-13 20:22 UTC]** Por que Flávio Bolsonaro voltou atrás sobre o fim da escala 6x1?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjqln6grn1nyo?at_medium=RSS&at_campaign=rss)_
+
