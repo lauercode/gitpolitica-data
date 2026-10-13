@@ -140,3 +140,6 @@
 - **[2026-10-13 13:30 UTC]** Jair Bolsonaro subirá a rampa com Flávio?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/jair-bolsonaro-subira-a-rampa-com-flavio.shtml)_
 
+- **[2026-10-13 09:59 UTC]** Flávio Bolsonaro visita Jair Bolsonaro em prisão domiciliar pela primeira vez desde julho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/flavio-bolsonaro-visita-jair-bolsonaro-em-prisao-domiciliar-pela-primeira-vez-desde-julho.shtml)_
+
