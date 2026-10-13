@@ -1439,3 +1439,6 @@ direitos
 - **[2026-10-13 21:27 UTC]** Presidente da Câmara espera que deputados eleitos busquem equilíbrio e resultados concretos para o Brasil
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1310996-presidente-da-camara-espera-que-deputados-eleitos-busquem-equilibrio-e-resultados-concretos-para-o-brasil)_
 
+- **[2026-10-13 22:38 UTC]** Câmara pode votar nesta quarta-feira novo regime para socorrer ou liquidar bancos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311037-camara-pode-votar-nesta-quarta-feira-novo-regime-para-socorrer-ou-liquidar-bancos)_
+
