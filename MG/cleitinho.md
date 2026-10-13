@@ -194,3 +194,6 @@
 - **[2026-10-11 00:50 UTC]** Cleitinho se explica após críticas por vídeo ao lado de Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-se-explica-apos-criticas-por-video-ao-lado-de-alcolumbre/)_
 
+- **[2026-10-13 15:32 UTC]** Cleitinho anuncia novos nomes na equipe de transição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/cleitinho-anuncia-novos-nomes-na-equipe-de-transio.ghtml)_
+
