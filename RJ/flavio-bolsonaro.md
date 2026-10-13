@@ -5722,3 +5722,6 @@
 - **[2026-10-12 23:39 UTC]** TSE manda Flávio Bolsonaro apagar vídeo enganoso sobre ato pró-Lula na Paulista; ministro vê 'grave manipulação'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/12/tse-manda-flavio-bolsonaro-apagar-video-enganoso-sobre-manifestacao-pro-lula-na-paulista.ghtml)_
 
+- **[2026-10-12 23:00 UTC]** Programa de Flávio promete 'tesouraço' na censura enquanto pede bloqueio de perfis ligados a Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/programa-de-flavio-promete-tesouraco-na-censura-enquanto-pede-bloqueio-de-perfis-ligados-a-lula.shtml)_
+
