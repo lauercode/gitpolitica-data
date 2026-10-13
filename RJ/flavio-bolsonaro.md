@@ -5890,3 +5890,6 @@
 - **[2026-10-13 21:56 UTC]** Mendonça determina a exclusão de propaganda de Lula que aponta cortes em programas sociais em caso de vitória de Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/mendonca-determina-a-exclusao-de-propaganda-de-lula-que-aponta-cortes-em-programas-sociais-em-caso-de-vitoria-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-13 21:42 UTC]** Após ‘guerra’ de decisões chegar ao TSE, Nunes Marques reúne campanhas de Lula e Flávio para tentar reduzir ações
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/apos-guerra-de-decisoes-chegar-ao-tse-nunes-marques-reune-campanhas-de-lula-e-flavio-para-tentar-reduzir-acoes.ghtml)_
+
