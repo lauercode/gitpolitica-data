@@ -5857,3 +5857,6 @@
 - **[2026-10-13 12:52 UTC]** Justiça mantém multa de R$ 290 mil a Bolsonaro por não usar máscara na pandemia
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-mantem-multa-de-290-mil-a-bolsonaro-por-nao-usar-mascara-na-pandemia/)_
 
+- **[2026-10-13 16:10 UTC]** Flávio Bolsonaro aparece 3 pontos à frente de Lula na disputa do 2º turno no agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
