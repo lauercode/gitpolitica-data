@@ -5809,3 +5809,6 @@
 - **[2026-10-13 12:47 UTC]** MDB vai anunciar apoio majoritário a Flávio Bolsonaro após ato nesta terça, diz presidente do partido
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/mdb-vai-anunciar-apoio-a-flavio-bolsonaro-apos-ato-nesta-terca-diz-presidente-do-partido.ghtml)_
 
+- **[2026-10-13 12:44 UTC]** Flávio Bolsonaro faz primeira visita ao ex-presidente Jair Bolsonaro após fim de restrições do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/flavio-bolsonaro-visita-jair-bolsonaro.ghtml)_
+
