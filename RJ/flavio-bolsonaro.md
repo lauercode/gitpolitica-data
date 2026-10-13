@@ -5923,3 +5923,6 @@
 - **[2026-10-13 21:38 UTC]** MDB oficializa apoio majoritário a Flávio, mas mantém ala favorável a Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mdb-oficializa-apoio-majoritario-a-flavio-mas-mantem-ala-favoravel-a-lula/)_
 
+- **[2026-10-13 21:24 UTC]** Campanha do PL registra canal da “Tropa do Flávio” após TSE restringir o de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-pl-registra-canal-tropa-do-flavio-apos-tse-restringir-lula/)_
+
