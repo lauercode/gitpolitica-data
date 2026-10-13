@@ -5815,3 +5815,6 @@
 - **[2026-10-13 10:15 UTC]** Nunes Marques reúne campanhas de Lula e Flávio Bolsonaro para discutir segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/nunes-marques-reune-campanha-de-lula-e-bolsonaro-nesta-terca-para-discutir-segundo-turno.ghtml)_
 
+- **[2026-10-13 14:00 UTC]** Jovem Pan é acusada de crime eleitoral por divulgar pesquisa interna de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/jovem-pan-e-acusada-de-crime-eleitoral-por-divulgar-pesquisa-interna-de-flavio-bolsonaro.shtml)_
+
