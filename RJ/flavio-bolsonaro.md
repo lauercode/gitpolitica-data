@@ -5875,3 +5875,6 @@
 - **[2026-10-13 17:14 UTC]** Veja os planos de governo de Flávio e Lula para meio ambiente e clima
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/veja-como-os-planos-de-governo-de-flavio-e-lula-tratam-meio-ambiente)_
 
+- **[2026-10-13 22:20 UTC]** TSE julga processos envolvendo publicações de propaganda eleitoral de Flávio Bolsonaro e Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/tse-julga-processos-propaganda-eleitoral.ghtml)_
+
