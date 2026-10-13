@@ -5818,3 +5818,6 @@
 - **[2026-10-13 14:00 UTC]** Jovem Pan é acusada de crime eleitoral por divulgar pesquisa interna de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/jovem-pan-e-acusada-de-crime-eleitoral-por-divulgar-pesquisa-interna-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-13 13:36 UTC]** Flávio prestigia festa de aniversário de Derrite, cotado para ser seu ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-prestigia-festa-de-aniversario-de-derrite-cotado-para-ser-seu-ministro.shtml)_
+
