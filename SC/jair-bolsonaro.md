@@ -134,3 +134,6 @@
 - **[2026-10-12 16:33 UTC]** Flávio comemora decisão de Moraes e diz que visitará Jair Bolsonaro nesta terça-feira
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/flavio-comemora-decisao-de-moraes-e-diz-que-visitara-jair-bolsonaro-nesta-terca-feira.ghtml)_
 
+- **[2026-10-13 12:44 UTC]** Flávio Bolsonaro faz primeira visita ao ex-presidente Jair Bolsonaro após fim de restrições do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/flavio-bolsonaro-visita-jair-bolsonaro.ghtml)_
+
