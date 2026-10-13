@@ -5863,3 +5863,6 @@
 - **[2026-10-13 17:36 UTC]** Procurador que pediu expulsão de Bolsonaro do Exército é condecorado com medalha militar
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/13/procurador-bolsonaro-exercito-medalha.ghtml)_
 
+- **[2026-10-13 18:39 UTC]** Na TV, Lula associa Flávio Bolsonaro a milícias do Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/na-tv-lula-associa-flvio-bolsonaro-a-milcias-do-rio.ghtml)_
+
