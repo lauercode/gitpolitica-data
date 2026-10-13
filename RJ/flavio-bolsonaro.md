@@ -5911,3 +5911,6 @@
 - **[2026-10-13 19:32 UTC]** Flávio garante a aliados que, se eleito, vai defender revisão da PEC do fim da 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-garante-a-aliados-que-se-eleito-vai-defender-revisao-da-pec-do-fim-da-6x1.shtml)_
 
+- **[2026-10-13 18:38 UTC]** Flávio Bolsonaro diz que não irá ao debate na Band, e emissora afirma que púlpito ficará vazio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-nao-ira-ao-debate-na-band-do-2o-turno.shtml)_
+
