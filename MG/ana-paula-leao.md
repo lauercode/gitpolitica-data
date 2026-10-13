@@ -59,3 +59,6 @@
 - **[2026-10-12 16:41 UTC]** Nódulo pulmonar do papa Leão 14 pode ser câncer? Conheça os sintomas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/nodulo-pulmonar-do-papa-leao-14-pode-ser-cancer-conheca-os-sintomas.shtml)_
 
+- **[2026-10-13 15:24 UTC]** Cirurgia do papa Leão 14 foi um sucesso, diz Vaticano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/cirurgia-do-papa-leao-14-foi-um-sucesso-diz-vaticano.shtml)_
+
