@@ -5737,3 +5737,6 @@
 - **[2026-10-12 22:00 UTC]** Nunes Marques insiste em censura pró-Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/nunes-marques-insiste-em-censura-pro-flavio.shtml)_
 
+- **[2026-10-12 21:22 UTC]** Com esse Congresso, quem traz mais risco: Flávio ou Lula?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/com-esse-congresso-quem-traz-mais-risco-flavio-ou-lula.shtml)_
+
