@@ -5752,3 +5752,6 @@
 - **[2026-10-13 01:52 UTC]** Por que TSE mandou Flávio Bolsonaro apagar vídeo enganoso que associa uso de drogas a ato pró-Lula na Paulista
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c95yngxzd73no?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-13 02:14 UTC]** Programa eleitoral de Flávio Bolsonaro homenageia Nossa Senhora Aparecida, mas vai ao ar sem áudio
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/12/programa-eleitoral-de-flvio-bolsonaro-homenageia-nossa-senhora-aparecida-mas-vai-ao-ar-sem-udio.ghtml)_
+
