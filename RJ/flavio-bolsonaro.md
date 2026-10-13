@@ -5803,3 +5803,6 @@
 - **[2026-10-13 17:32 UTC]** Flávio Bolsonaro x Lula: veja quem os candidatos a presidente derrotados no 1º turno apoiam
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/flavio-bolsonaro-x-lula-veja-quem-os-candidatos-a-presidente-derrotados-no-1o-turno-apoiam.ghtml)_
 
+- **[2026-10-13 13:50 UTC]** Crítico da PEC do fim da 6x1, Flávio passa a declarar voto a favor da proposta: 'Vontade da maioria do povo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/critico-da-pec-do-fim-da-6x1-flavio-declara-voto-a-favor-da-proposta-vontade-da-maioria-do-povo.ghtml)_
+
