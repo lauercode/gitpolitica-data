@@ -5812,3 +5812,6 @@
 - **[2026-10-13 12:44 UTC]** Flávio Bolsonaro faz primeira visita ao ex-presidente Jair Bolsonaro após fim de restrições do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/flavio-bolsonaro-visita-jair-bolsonaro.ghtml)_
 
+- **[2026-10-13 10:15 UTC]** Nunes Marques reúne campanhas de Lula e Flávio Bolsonaro para discutir segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/nunes-marques-reune-campanha-de-lula-e-bolsonaro-nesta-terca-para-discutir-segundo-turno.ghtml)_
+
