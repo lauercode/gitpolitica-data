@@ -77,3 +77,6 @@
 - **[2026-10-13 18:38 UTC]** Corregedor eleitoral decidiu a favor de canal de Janones em menos de 4 minutos, relata Kássio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/corregedor-decidiu-a-favor-canal-janones-4-minutos-kassio/)_
 
+- **[2026-10-13 14:17 UTC]** Janones diz que confia no TSE e que 'não vê problema' em pedidos de Nunes Marques sobre 'Exército do Lula'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/janones-diz-que-confia-no-tse-e-que-no-v-problema-em-pedidos-de-nunes-marques-sobre-exrcito-do-lula.ghtml)_
+
