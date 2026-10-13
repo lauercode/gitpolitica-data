@@ -1457,3 +1457,6 @@ direitos
 - **[2026-10-13 21:15 UTC]** Entenda o cenário das eleições na Câmara Municipal de Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/10/13/entenda-o-cenario-das-eleicoes-na-camara-municipal-de-macapa.ghtml)_
 
+- **[2026-10-13 21:45 UTC]** Câmara aprova urgência de projeto que muda rateio de custos para contratação de baterias elétricas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/13/cmara-aprova-urgncia-de-projeto-que-muda-rateio-de-custos-para-contratao-de-baterias-eltricas.ghtml)_
+
