@@ -5719,3 +5719,6 @@
 - **[2026-10-12 19:29 UTC]** Flávio Bolsonaro precisará de equilíbrio em negociações do agro com EUA e China se for eleito, diz senadora
   _fonte: [Valor Econômico](https://valor.globo.com/agronegocios/noticia/2026/10/12/flavio-bolsonaro-precisara-de-equilibrio-em-negociacoes-do-agro-com-eua-e-china-se-for-eleito-diz-senadora.ghtml)_
 
+- **[2026-10-12 23:39 UTC]** TSE manda Flávio Bolsonaro apagar vídeo enganoso sobre ato pró-Lula na Paulista; ministro vê 'grave manipulação'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/12/tse-manda-flavio-bolsonaro-apagar-video-enganoso-sobre-manifestacao-pro-lula-na-paulista.ghtml)_
+
