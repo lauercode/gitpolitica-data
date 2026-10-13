@@ -5758,3 +5758,6 @@
 - **[2026-10-12 23:55 UTC]** TSE manda Flávio remover vídeo que associa usuários de drogas no Chile a ato de Lula em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/tse-manda-flvio-remover-vdeo-que-associa-usurios-de-drogas-no-chile-a-ato-de-lula-em-sp.ghtml)_
 
+- **[2026-10-13 06:51 UTC]** BTG/Nexus: Flávio Bolsonaro tem 52% dos votos válidos, e Lula, 48%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-52-dos-votos-validos-e-lula-48.shtml)_
+
