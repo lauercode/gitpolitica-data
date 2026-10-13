@@ -161,3 +161,6 @@
 - **[2026-10-12 07:00 UTC]** Concentração de votos impede efetividade de 'puxadores de voto' do PSOL e coloca em xeque estratégia eleitoral da esquerda
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/concentracao-de-votos-impede-efetividade-de-puxadores-de-voto-do-psol-e-coloca-em-xeque-estrategia-eleitoral-da-esquerda.ghtml)_
 
+- **[2026-10-12 23:00 UTC]** Erika Hilton diz que PSOL cometeu erro estratégico na campanha e admite chance de sair do partido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/erika-hilton-diz-que-psol-cometeu-erro-estrategico-na-campanha-e-admite-chance-de-sair-do-partido.shtml)_
+
