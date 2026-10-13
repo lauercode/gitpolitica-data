@@ -5845,3 +5845,6 @@
 - **[2026-10-13 09:59 UTC]** Flávio Bolsonaro visita Jair Bolsonaro em prisão domiciliar pela primeira vez desde julho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/flavio-bolsonaro-visita-jair-bolsonaro-em-prisao-domiciliar-pela-primeira-vez-desde-julho.shtml)_
 
+- **[2026-10-13 09:59 UTC]** Dólar sobe com Flávio à frente de Lula em pesquisa; Bolsa cai com realização de lucros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-com-flavio-a-frente-de-lula-em-nova-pesquisa-eleitoral.shtml)_
+
