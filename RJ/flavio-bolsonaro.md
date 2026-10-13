@@ -5899,3 +5899,6 @@
 - **[2026-10-13 20:14 UTC]** Após polêmica com 'Exército do Lula', equipe do PL informa ao TSE canal de WhatsApp 'Tropa do Flávio', que não estava registrado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/apos-polemica-com-exercito-do-lula-equipe-do-pl-diz-que-fara-complemento-para-informar-ao-tse-canal-tropa-do-flavio.ghtml)_
 
+- **[2026-10-13 20:15 UTC]** Campanha de Flávio não assina regras do debate da Globo e não garante presença
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-nao-assina-regras-do-debate-da-globo-e-nao-garante-presenca.shtml)_
+
