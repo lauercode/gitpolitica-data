@@ -155,3 +155,6 @@
 - **[2026-10-13 22:14 UTC]** Quaest no RN, 2º turno: Allyson, 45%; Cadu de Lula, 42%
   _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/13/quaest-rn-governador-segundo-turno-13-outubro.ghtml)_
 
+- **[2026-10-13 19:40 UTC]** Quaest: Allyson Bezerra tem 45%, e Cadu de Lula, 42%, no Rio Grande do Norte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-allyson-bezerra-tem-45-e-cadu-de-lula-42-no-rio-grande-do-norte.shtml)_
+
