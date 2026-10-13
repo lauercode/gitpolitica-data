@@ -5746,3 +5746,6 @@
 - **[2026-10-13 00:53 UTC]** TSE manda Flávio remover vídeo que associa ato pró-Lula a uso de droga no Chile
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-manda-flavio-remover-video-que-associa-ato-pro-lula-a-uso-de-droga-no-chile/)_
 
+- **[2026-10-12 23:48 UTC]** Nunes Marques se reúne com campanhas de Lula e Flávio em meio a críticas ao TSE
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nunes-marques-se-reune-com-campanhas-de-lula-e-flavio-em-meio-a-criticas-ao-tse/)_
+
