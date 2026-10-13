@@ -5785,3 +5785,6 @@
 - **[2026-10-13 10:15 UTC]** Nunes Marques reúne campanhas de Lula e Flávio Bolsonaro nesta terça para discutir segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/nunes-marques-reune-campanha-de-lula-e-bolsonaro-nesta-terca-para-discutir-segundo-turno.ghtml)_
 
+- **[2026-10-13 11:13 UTC]** Sistema da Ancine é invadido e exibe apoio a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sistema-da-ancine-e-invadido-e-exibe-apoio-a-flavio-bolsonaro/)_
+
