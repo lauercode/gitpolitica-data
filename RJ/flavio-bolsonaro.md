@@ -5902,3 +5902,6 @@
 - **[2026-10-13 20:15 UTC]** Campanha de Flávio não assina regras do debate da Globo e não garante presença
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-nao-assina-regras-do-debate-da-globo-e-nao-garante-presenca.shtml)_
 
+- **[2026-10-13 19:50 UTC]** Na TV, Flávio promete rede para crianças com espectro autista, e Lula o associa a milícias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/na-tv-flavio-promete-rede-para-criancas-com-espectro-autista-e-lula-o-associa-a-milicias.shtml)_
+
