@@ -1448,3 +1448,6 @@ direitos
 - **[2026-10-13 21:06 UTC]** Câmara aprova regime de urgência para oito projetos de lei
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310978-camara-aprova-regime-de-urgencia-para-oito-projetos-de-lei)_
 
+- **[2026-10-13 17:19 UTC]** Duas federações e três partidos não atingem a cláusula de barreira na eleição para a Câmara
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310849-duas-federacoes-e-tres-partidos-nao-atingem-a-clausula-de-barreira-na-eleicao-para-a-camara)_
+
