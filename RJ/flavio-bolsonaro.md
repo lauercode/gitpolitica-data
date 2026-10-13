@@ -5731,3 +5731,6 @@
 - **[2026-10-12 23:00 UTC]** CEO da AZ Quest defende que eventual governo Flávio priorize cortes de gastos com aposentados e servidores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/ceo-da-az-quest-defende-que-eventual-governo-flavio-priorize-cortes-de-gastos-com-aposentados-e-servidores.shtml)_
 
+- **[2026-10-12 22:15 UTC]** Flávio e Lula acenam a católicos com Nossa Senhora após polêmica no primeiro turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-e-lula-acenam-a-catolicos-com-nossa-senhora-apos-polemica-no-primeiro-turno.shtml)_
+
