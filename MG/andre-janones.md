@@ -86,3 +86,6 @@
 - **[2026-10-13 19:55 UTC]** Nunes Marques autoriza canal de Janones após registro oficial do PT
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-autoriza-canal-janones-apos-registro-oficial-pt/)_
 
+- **[2026-10-13 21:28 UTC]** Janones relaciona suspensão de 48 horas do ‘Exército do Lula’ com votação do fim da escala 6x1
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/janones-relaciona-suspensao-de-48-horas-do-exercito-do-lula-com-votacao-do-fim-da-6x1.ghtml)_
+
