@@ -5782,3 +5782,6 @@
 - **[2026-10-13 08:00 UTC]** Para reduzir rejeição feminina, Michelle terá mais participação na campanha de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/para-reduzir-rejeicao-feminina-michelle-tera-mais-participacao-na-campanha-de-flavio.ghtml)_
 
+- **[2026-10-13 10:15 UTC]** Nunes Marques reúne campanhas de Lula e Flávio Bolsonaro nesta terça para discutir segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/nunes-marques-reune-campanha-de-lula-e-bolsonaro-nesta-terca-para-discutir-segundo-turno.ghtml)_
+
