@@ -5827,3 +5827,6 @@
 - **[2026-10-13 13:21 UTC]** Raízen pode se beneficiar de eventual governo de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/raizen-pode-se-beneficiar-de-eventual-governo-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-13 12:29 UTC]** Após visita a Jair, Flávio Bolsonaro diz que pai ficou feliz com 1º turno e está otimista com futuro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apos-visita-a-jair-flavio-bolsonaro-diz-que-pai-ficou-feliz-com-1o-turno-e-esta-otimista-com-futuro.shtml)_
+
