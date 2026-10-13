@@ -5824,3 +5824,6 @@
 - **[2026-10-13 13:30 UTC]** Jair Bolsonaro subirá a rampa com Flávio?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/jair-bolsonaro-subira-a-rampa-com-flavio.shtml)_
 
+- **[2026-10-13 13:21 UTC]** Raízen pode se beneficiar de eventual governo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/raizen-pode-se-beneficiar-de-eventual-governo-de-flavio-bolsonaro.shtml)_
+
