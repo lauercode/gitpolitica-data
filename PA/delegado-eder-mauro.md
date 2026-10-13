@@ -26,3 +26,6 @@
 - **[2026-10-04 21:26 UTC]** Apuração: Helder Barbalho e Delegado Éder Mauro lideram a disputa no Senado pelo Pará
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apurao-helder-barbalho-e-delegado-der-mauro-lideram-a-disputa-no-senado-pelo-par.ghtml)_
 
+- **[2026-10-13 15:20 UTC]** Moraes nega pedido de Mauro Cid para palestrar em congresso sobre medicina militar em Abu Dhabi
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/moraes-nega-pedido-de-mauro-cid-pra-palestrar-em-congresso-sobre-medicina-militar-em-abu-dhabi.ghtml)_
+
