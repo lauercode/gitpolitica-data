@@ -53,3 +53,6 @@
 - **[2026-10-07 15:30 UTC]** Quem é a paranaense Paula Assunção, que defende o Brasil no Miss Grand International
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/10/quem-e-a-paranaense-paula-assuncao-que-defende-o-brasil-no-miss-grand-international-2026.shtml)_
 
+- **[2026-10-12 23:00 UTC]** Paula Lima leva caldeirão musical dançante para o Folha Gourmet Festival
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/10/paula-lima-leva-caldeirao-musical-dancante-para-o-folha-gourmet-festival.shtml)_
+
