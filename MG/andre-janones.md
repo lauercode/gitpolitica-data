@@ -74,3 +74,6 @@
 - **[2026-10-13 10:34 UTC]** Kassio volta a censurar canal de Janones e diz que Lula pode ser responsabilizado por uso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-volta-a-derrubar-exercito-do-lula-e-diz-que-petista-pode-ser-responsabilizado-por-uso-do-canal.shtml)_
 
+- **[2026-10-13 18:38 UTC]** Corregedor eleitoral decidiu a favor de canal de Janones em menos de 4 minutos, relata Kássio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/corregedor-decidiu-a-favor-canal-janones-4-minutos-kassio/)_
+
