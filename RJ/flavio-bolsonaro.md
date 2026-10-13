@@ -5848,3 +5848,6 @@
 - **[2026-10-13 09:59 UTC]** Dólar sobe com Flávio à frente de Lula em pesquisa; Bolsa cai com realização de lucros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-com-flavio-a-frente-de-lula-em-nova-pesquisa-eleitoral.shtml)_
 
+- **[2026-10-13 17:52 UTC]** Lula ironiza voto de Flávio a favor do fim da escala 6×1 por “pressão da sociedade”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-ironiza-voto-flavio-fim-escala-6x1-pressao-da-sociedade/)_
+
