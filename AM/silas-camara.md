@@ -1460,3 +1460,6 @@ direitos
 - **[2026-10-13 21:45 UTC]** Câmara aprova urgência de projeto que muda rateio de custos para contratação de baterias elétricas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/13/cmara-aprova-urgncia-de-projeto-que-muda-rateio-de-custos-para-contratao-de-baterias-eltricas.ghtml)_
 
+- **[2026-10-13 20:53 UTC]** Hugo Motta inicia articulações por recondução à presidência da Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/13/hugo-motta-inicia-articulaes-por-reconduo-presidncia-da-cmara.ghtml)_
+
