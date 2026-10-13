@@ -5866,3 +5866,6 @@
 - **[2026-10-13 18:39 UTC]** Na TV, Lula associa Flávio Bolsonaro a milícias do Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/na-tv-lula-associa-flvio-bolsonaro-a-milcias-do-rio.ghtml)_
 
+- **[2026-10-13 16:00 UTC]** Nunes Marques se reúne com campanhas de Flávio e Lula em meio a decisões sobre canal ‘Exército do Lula’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/nunes-marques-se-rene-com-campanhas-de-flvio-e-lula-em-meio-a-decises-sobre-canal-exrcito-do-lula.ghtml)_
+
