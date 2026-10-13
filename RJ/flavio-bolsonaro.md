@@ -5788,3 +5788,6 @@
 - **[2026-10-13 11:13 UTC]** Sistema da Ancine é invadido e exibe apoio a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sistema-da-ancine-e-invadido-e-exibe-apoio-a-flavio-bolsonaro/)_
 
+- **[2026-10-13 10:17 UTC]** Nunes Marques atende a Flávio e suspende circulação de jornal sindical
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-atende-a-flavio-e-suspende-circulacao-de-jornal-sindical/)_
+
