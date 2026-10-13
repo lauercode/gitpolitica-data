@@ -1430,3 +1430,6 @@ direitos
 - **[2026-10-11 23:00 UTC]** Jovens despontam entre mais votados, mas metade da Câmara tem 49 anos ou mais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jovens-despontam-entre-mais-votados-mas-metade-da-camara-tem-49-anos-ou-mais.shtml)_
 
+- **[2026-10-13 15:27 UTC]** Pedro DaLua é reeleito presidente da Câmara de Macapá para o biênio 2027-2028
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/10/13/pedro-dalua-e-reeleito-presidente-da-camara-de-macapa-para-o-bienio-2027-2028.ghtml)_
+
