@@ -566,3 +566,6 @@
 - **[2026-10-12 13:00 UTC]** Poucos conhecem a visão poética da escrita de Jay-Z, diz o produtor Rick Rubin
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/poucos-conhecem-a-visao-poetica-da-escrita-de-jay-z-diz-o-produtor-rick-rubin.shtml)_
 
+- **[2026-10-13 15:32 UTC]** Alan Rick aposta em diálogo com prefeitos para buscar virada no 2º turno no AC: 'Força da máquina é esmagadora'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/alan-rick-aposta-em-dialogo-com-prefeitos-para-buscar-virada-no-2o-turno-no-ac-forca-da-maquina-e-esmagadora.ghtml)_
+
