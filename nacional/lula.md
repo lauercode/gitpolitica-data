@@ -1100,3 +1100,6 @@
 - **[2026-10-12 19:34 UTC]** Presidente do TSE não pode ter lado na política, diz Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidente-do-tse-nao-pode-ter-lado-na-politica-diz-lula/)_
 
+- **[2026-10-13 17:32 UTC]** Flávio Bolsonaro x Lula: veja quem os candidatos a presidente derrotados no 1º turno apoiam
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/flavio-bolsonaro-x-lula-veja-quem-os-candidatos-a-presidente-derrotados-no-1o-turno-apoiam.ghtml)_
+
