@@ -1106,3 +1106,6 @@
 - **[2026-10-13 12:32 UTC]** Presidente do PT admite 'falhas' na campanha de Lula e diz que faltou diálogo com 'frente democrática'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/presidente-do-pt-falhas-campanha-frente-democratica.ghtml)_
 
+- **[2026-10-13 14:52 UTC]** Presidente do PT reconhece ‘falhas’ no diálogo com setores que apoiaram Lula em 2022
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/presidente-do-pt-reconhece-falhas-no-dialogo-com-setores-que-apoiaram-lula-em-2022.ghtml)_
+
