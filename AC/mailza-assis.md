@@ -68,3 +68,6 @@
 - **[2026-10-13 22:16 UTC]** Quaest no AC: 48% avaliam gestão Mailza Assis como positiva e 10%, como negativa
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/quaest-ac-avaliacao-governo-mailza-assis-13-outubro.ghtml)_
 
+- **[2026-10-13 22:15 UTC]** Quaest no AC, 2º turno: Mailza Assis, 49%; Alan Rick, 32%
+  _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/quaest-ac-governador-segundo-turno-13-outubro.ghtml)_
+
