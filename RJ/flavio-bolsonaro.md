@@ -5941,3 +5941,6 @@
 - **[2026-10-13 21:08 UTC]** Flávio critica pacote de Lula para MEI e diz que governo 'quer comprar votos'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flavio-critica-pacote-de-lula-para-mei-e-diz-que-governo-quer-comprar-votos.ghtml)_
 
+- **[2026-10-13 20:24 UTC]** Quando vai ser o debate presidencial entre Lula e Flávio Bolsonaro?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/quando-vai-ser-o-debate-entre-lula-e-flavio-bolsonaro.ghtml)_
+
