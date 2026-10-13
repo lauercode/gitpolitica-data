@@ -5728,3 +5728,6 @@
 - **[2026-10-12 23:00 UTC]** Flávio Bolsonaro supera votos do pai em todas as rendas, e Lula cresce entre mais ricos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-supera-votos-do-pai-em-todas-as-rendas-e-lula-cresce-entre-mais-ricos.shtml)_
 
+- **[2026-10-12 23:00 UTC]** CEO da AZ Quest defende que eventual governo Flávio priorize cortes de gastos com aposentados e servidores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/ceo-da-az-quest-defende-que-eventual-governo-flavio-priorize-cortes-de-gastos-com-aposentados-e-servidores.shtml)_
+
