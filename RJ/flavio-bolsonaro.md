@@ -5917,3 +5917,6 @@
 - **[2026-10-13 18:12 UTC]** MDB declara apoio de maioria de diretórios a Flávio Bolsonaro apesar de racha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mdb-declara-apoio-de-maioria-de-diretorios-a-flavio-bolsonaro-apesar-de-racha.shtml)_
 
+- **[2026-10-13 17:51 UTC]** Campanha de Lula usará recuo de Flávio em fim da 6x1 como sinal de frouxidão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-usara-recuo-de-flavio-em-fim-da-6x1-como-sinal-de-frouxidao.shtml)_
+
