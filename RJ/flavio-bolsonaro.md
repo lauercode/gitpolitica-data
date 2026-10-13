@@ -5905,3 +5905,6 @@
 - **[2026-10-13 19:50 UTC]** Na TV, Flávio promete rede para crianças com espectro autista, e Lula o associa a milícias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/na-tv-flavio-promete-rede-para-criancas-com-espectro-autista-e-lula-o-associa-a-milicias.shtml)_
 
+- **[2026-10-13 19:32 UTC]** Campanhas de Lula e Flávio Bolsonaro vão tentar consenso para canais de WhatsApp e sugerir proposta ao TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-vao-tentar-consenso-para-canais-de-whatsapp-e-sugerir-proposta-ao-tse.shtml)_
+
