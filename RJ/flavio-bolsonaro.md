@@ -5806,3 +5806,6 @@
 - **[2026-10-13 13:50 UTC]** Crítico da PEC do fim da 6x1, Flávio passa a declarar voto a favor da proposta: 'Vontade da maioria do povo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/critico-da-pec-do-fim-da-6x1-flavio-declara-voto-a-favor-da-proposta-vontade-da-maioria-do-povo.ghtml)_
 
+- **[2026-10-13 12:47 UTC]** MDB vai anunciar apoio majoritário a Flávio Bolsonaro após ato nesta terça, diz presidente do partido
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/mdb-vai-anunciar-apoio-a-flavio-bolsonaro-apos-ato-nesta-terca-diz-presidente-do-partido.ghtml)_
+
