@@ -152,3 +152,6 @@
 - **[2026-10-13 18:58 UTC]** Cadu de Lula visita feira na Zona Oeste de Natal e apresenta propostas para saúde e educação
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/13/cadu-de-lula-visita-feira-na-zona-oeste-de-natal-e-apresenta-propostas-para-saude-e-educacao.ghtml)_
 
+- **[2026-10-13 22:14 UTC]** Quaest no RN, 2º turno: Allyson, 45%; Cadu de Lula, 42%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/13/quaest-rn-governador-segundo-turno-13-outubro.ghtml)_
+
