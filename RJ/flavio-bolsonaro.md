@@ -5884,3 +5884,6 @@
 - **[2026-10-13 22:17 UTC]** MDB racha no 2º turno: 16 diretórios apoiam Flávio Bolsonaro e 10 ficam com Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/mdb-racha-no-2o-turno.ghtml)_
 
+- **[2026-10-13 22:14 UTC]** Quaest no RN, 2º turno: Lula, 59%; Flávio Bolsonaro, 33%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/13/quaest-rn-presidente-segundo-turno-13-outubro.ghtml)_
+
