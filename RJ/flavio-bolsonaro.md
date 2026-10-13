@@ -5920,3 +5920,6 @@
 - **[2026-10-13 17:51 UTC]** Campanha de Lula usará recuo de Flávio em fim da 6x1 como sinal de frouxidão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-usara-recuo-de-flavio-em-fim-da-6x1-como-sinal-de-frouxidao.shtml)_
 
+- **[2026-10-13 21:38 UTC]** MDB oficializa apoio majoritário a Flávio, mas mantém ala favorável a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mdb-oficializa-apoio-majoritario-a-flavio-mas-mantem-ala-favoravel-a-lula/)_
+
