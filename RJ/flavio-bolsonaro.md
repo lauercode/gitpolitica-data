@@ -5896,3 +5896,6 @@
 - **[2026-10-13 21:29 UTC]** Em evento em que MDB formaliza apoio majoritário a Flávio Bolsonaro, candidato diz que não vai a debate no domingo e avalia o próximo
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/13/em-evento-em-que-mdb-formaliza-apoio-a-flavio-bolsonaro-candidato-diz-que-nao-vai-a-debate-no-domingo-e-avalia-o-proximo.ghtml)_
 
+- **[2026-10-13 20:14 UTC]** Após polêmica com 'Exército do Lula', equipe do PL informa ao TSE canal de WhatsApp 'Tropa do Flávio', que não estava registrado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/apos-polemica-com-exercito-do-lula-equipe-do-pl-diz-que-fara-complemento-para-informar-ao-tse-canal-tropa-do-flavio.ghtml)_
+
