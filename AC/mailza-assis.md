@@ -71,3 +71,6 @@
 - **[2026-10-13 22:15 UTC]** Quaest no AC, 2º turno: Mailza Assis, 49%; Alan Rick, 32%
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/quaest-ac-governador-segundo-turno-13-outubro.ghtml)_
 
+- **[2026-10-13 19:36 UTC]** Quaest: Mailza Assis (PP) tem 49% no Acre, ante 32% de Alan Rick (Republicanos)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-mailza-assis-pp-tem-49-no-acre-ante-32-de-alan-rick-republicanos.shtml)_
+
