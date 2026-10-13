@@ -80,3 +80,6 @@
 - **[2026-10-13 14:17 UTC]** Janones diz que confia no TSE e que 'não vê problema' em pedidos de Nunes Marques sobre 'Exército do Lula'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/janones-diz-que-confia-no-tse-e-que-no-v-problema-em-pedidos-de-nunes-marques-sobre-exrcito-do-lula.ghtml)_
 
+- **[2026-10-13 17:00 UTC]** 'Que Flávio continue tentando censurar, cresce 1 mi de membros cada vez', diz Janones, sobre grupo 'Exército do Lula'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/que-flavio-continue-tentando-censurar-cresce-1-mi-de-membros-cada-vez-diz-janones-sobre-canal-exercito-do-lula.shtml)_
+
