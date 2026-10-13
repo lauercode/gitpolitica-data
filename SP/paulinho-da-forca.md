@@ -167,3 +167,6 @@
 - **[2026-10-11 12:10 UTC]** Força-tarefa de SP embarca para combater incêndios florestais no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/sp/sao-paulo/noticia/2026/10/11/forca-tarefa-de-sp-embarca-para-combater-incendios-florestais-no-amazonas.ghtml)_
 
+- **[2026-10-13 15:32 UTC]** Alan Rick aposta em diálogo com prefeitos para buscar virada no 2º turno no AC: 'Força da máquina é esmagadora'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/alan-rick-aposta-em-dialogo-com-prefeitos-para-buscar-virada-no-2o-turno-no-ac-forca-da-maquina-e-esmagadora.ghtml)_
+
