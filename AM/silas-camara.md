@@ -1442,3 +1442,6 @@ direitos
 - **[2026-10-13 22:38 UTC]** Câmara pode votar nesta quarta-feira novo regime para socorrer ou liquidar bancos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311037-camara-pode-votar-nesta-quarta-feira-novo-regime-para-socorrer-ou-liquidar-bancos)_
 
+- **[2026-10-13 21:47 UTC]** Câmara aprova criação de programa para atenção integral de pessoas com epilepsia
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1310896-camara-aprova-criacao-de-programa-para-atencao-integral-de-pessoas-com-epilepsia)_
+
