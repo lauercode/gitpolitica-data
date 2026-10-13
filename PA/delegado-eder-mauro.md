@@ -29,3 +29,6 @@
 - **[2026-10-13 15:20 UTC]** Moraes nega pedido de Mauro Cid para palestrar em congresso sobre medicina militar em Abu Dhabi
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/13/moraes-nega-pedido-de-mauro-cid-pra-palestrar-em-congresso-sobre-medicina-militar-em-abu-dhabi.ghtml)_
 
+- **[2026-10-13 20:37 UTC]** Moraes nega pedido de Mauro Cid para viajar ao exterior
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-nega-pedido-mauro-cid-viajar-ao-exterior/)_
+
