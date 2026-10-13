@@ -5932,3 +5932,6 @@
 - **[2026-10-13 22:34 UTC]** Quaest no AM, 2º turno: Lula, 47%; Flávio Bolsonaro, 43%
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/quaest-am-presidente-segundo-turno-13-outubro.ghtml)_
 
+- **[2026-10-13 21:52 UTC]** PT prepara discurso para acusar Flávio de hipocrisia após recuo sobre fim da 6x1
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/pt-prepara-discurso-para-acusar-flvio-de-hipocrisia-aps-recuo-sobre-fim-da-6x1.ghtml)_
+
