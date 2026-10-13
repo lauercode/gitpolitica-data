@@ -83,3 +83,6 @@
 - **[2026-10-13 17:00 UTC]** 'Que Flávio continue tentando censurar, cresce 1 mi de membros cada vez', diz Janones, sobre grupo 'Exército do Lula'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/que-flavio-continue-tentando-censurar-cresce-1-mi-de-membros-cada-vez-diz-janones-sobre-canal-exercito-do-lula.shtml)_
 
+- **[2026-10-13 19:55 UTC]** Nunes Marques autoriza canal de Janones após registro oficial do PT
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-autoriza-canal-janones-apos-registro-oficial-pt/)_
+
