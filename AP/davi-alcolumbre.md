@@ -368,3 +368,6 @@
 - **[2026-10-11 15:55 UTC]** Lula diz que votação do fim da 6x1 antes do segundo turno já está acordada com Alcolumbre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-diz-que-votacao-do-fim-da-6x1-antes-do-segundo-turno-ja-esta-acordada-com-alcolumbre.shtml)_
 
+- **[2026-10-13 00:56 UTC]** PEC 6×1 vira sobrevida de Alcolumbre no comando do Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pec-6x1-vira-sobrevida-de-alcolumbre-no-comando-do-senado/)_
+
