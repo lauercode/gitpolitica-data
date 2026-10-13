@@ -5935,3 +5935,6 @@
 - **[2026-10-13 21:52 UTC]** PT prepara discurso para acusar Flávio de hipocrisia após recuo sobre fim da 6x1
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/pt-prepara-discurso-para-acusar-flvio-de-hipocrisia-aps-recuo-sobre-fim-da-6x1.ghtml)_
 
+- **[2026-10-13 21:39 UTC]** Flávio Bolsonaro diz que não deve ir ao debate da TV Band
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-bolsonaro-diz-que-no-deve-ir-ao-debate-da-tv-bandeirantes-no-domingo.ghtml)_
+
