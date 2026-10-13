@@ -167,3 +167,6 @@
 - **[2026-10-07 21:43 UTC]** Americanas conclui venda de mais uma loja do Natural da Terra à rede Oba
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/07/americanas-conclui-venda-de-mais-uma-loja-do-natural-da-terra-rede-oba.ghtml)_
 
+- **[2026-10-13 18:14 UTC]** Conflitos deixam três mortos na Terra Indígena de Votouro, no Norte do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/13/conflito-terra-indigena-votouro-mortos.ghtml)_
+
