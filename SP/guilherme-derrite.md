@@ -95,3 +95,6 @@
 - **[2026-10-08 19:02 UTC]** Derrite defende fim da reeleição para presidente e diz que Congresso pode discutir mandato de até 6 anos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/08/entrevista-estudio-i-derrite.ghtml)_
 
+- **[2026-10-13 13:36 UTC]** Flávio prestigia festa de aniversário de Derrite, cotado para ser seu ministro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-prestigia-festa-de-aniversario-de-derrite-cotado-para-ser-seu-ministro.shtml)_
+
