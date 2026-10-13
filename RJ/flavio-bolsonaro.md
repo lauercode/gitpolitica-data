@@ -5773,3 +5773,6 @@
 - **[2026-10-13 08:00 UTC]** Abstenção e rejeição desafiam Flávio e Lula na disputa acirrada por votos no 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/abstencao-e-rejeicao-desafiam-flavio-e-lula-na-disputa-acirrada-por-votos-no-2o-turno.ghtml)_
 
+- **[2026-10-13 08:00 UTC]** Novo prioriza Flávio após fiasco de Zema
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/novo-prioriza-flavio-apos-fiasco-de-zema.ghtml)_
+
