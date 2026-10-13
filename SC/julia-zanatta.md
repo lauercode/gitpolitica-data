@@ -23,3 +23,6 @@
 - **[2026-10-07 17:29 UTC]** Deputada mais votada da história de SC, Júlia Zanatta explica chicote em comemoração: 'Dar de relho'
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/07/deputada-mais-votada-de-sc-julia-zanatta-explica-chicote-em-comemoracao.ghtml)_
 
+- **[2026-10-13 15:53 UTC]** Manifestantes açoitam boneco de Zanatta em ato pró-Lula após ela celebrar reeleição com chicote
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/manifestantes-acoitam-boneco-de-zanatta-em-ato-pro-lula-apos-ela-celebrar-reeleicao-com-chicote.shtml)_
+
