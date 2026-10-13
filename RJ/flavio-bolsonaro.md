@@ -5854,3 +5854,6 @@
 - **[2026-10-13 17:15 UTC]** Flávio diz que votará pelo fim da escala 6X1 e defende compensação a empresas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-diz-que-votara-pelo-fim-da-escala-6x1-e-defende-compensacao-a-empresarios/)_
 
+- **[2026-10-13 12:52 UTC]** Justiça mantém multa de R$ 290 mil a Bolsonaro por não usar máscara na pandemia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-mantem-multa-de-290-mil-a-bolsonaro-por-nao-usar-mascara-na-pandemia/)_
+
