@@ -5776,3 +5776,6 @@
 - **[2026-10-13 08:00 UTC]** Novo prioriza Flávio após fiasco de Zema
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/novo-prioriza-flavio-apos-fiasco-de-zema.ghtml)_
 
+- **[2026-10-13 08:00 UTC]** Setor produtivo lista receios sob governos Flávio e Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/13/setor-produtivo-lista-receios-sob-governos-flavio-e-lula.ghtml)_
+
