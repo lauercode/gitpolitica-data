@@ -104,3 +104,6 @@
 - **[2026-10-10 22:45 UTC]** Eleições no AM: Omar Aziz defende reforço na merenda escolar, e Professora Maria do Carmo propõe incentivos para a educação
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/10/eleicoes-no-am-omar-aziz-defende-reforco-na-merenda-escolar-e-professora-maria-do-carmo-propoe-incentivos-para-a-educacao.ghtml)_
 
+- **[2026-10-13 22:33 UTC]** Quaest no AM, 2º turno: Omar Aziz, 51%; Professora Maria do Carmo, 37%
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/quaest-am-governador-segundo-turno-13-outubro.ghtml)_
+
