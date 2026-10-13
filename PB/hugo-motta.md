@@ -44,3 +44,6 @@
 - **[2026-10-08 00:24 UTC]** Nova bancada do PL deixa Hugo Motta com dias contados na presidência da Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nova-bancada-do-pl-deixa-hugo-motta-com-dias-contados-na-presidencia-da-camara/)_
 
+- **[2026-10-13 20:53 UTC]** Hugo Motta inicia articulações por recondução à presidência da Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/13/hugo-motta-inicia-articulaes-por-reconduo-presidncia-da-cmara.ghtml)_
+
