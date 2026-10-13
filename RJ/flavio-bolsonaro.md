@@ -5869,3 +5869,6 @@
 - **[2026-10-13 16:00 UTC]** Nunes Marques se reúne com campanhas de Flávio e Lula em meio a decisões sobre canal ‘Exército do Lula’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/nunes-marques-se-rene-com-campanhas-de-flvio-e-lula-em-meio-a-decises-sobre-canal-exrcito-do-lula.ghtml)_
 
+- **[2026-10-13 14:06 UTC]** Flávio Bolsonaro diz que votará pelo fim da escala 6x1 e nega clima de 'já ganhou'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-bolsonaro-diz-que-vai-votar-pelo-fim-da-escala-6-x-1.ghtml)_
+
