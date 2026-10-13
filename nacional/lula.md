@@ -1109,3 +1109,6 @@
 - **[2026-10-13 14:52 UTC]** Presidente do PT reconhece ‘falhas’ no diálogo com setores que apoiaram Lula em 2022
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/presidente-do-pt-reconhece-falhas-no-dialogo-com-setores-que-apoiaram-lula-em-2022.ghtml)_
 
+- **[2026-10-13 19:49 UTC]** Presidente do TSE autoriza reativação do canal "Exército do Lula"
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/presidente-do-tse-autoriza-reativacao-do-canal-exercito-do-lula)_
+
