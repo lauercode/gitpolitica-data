@@ -5770,3 +5770,6 @@
 - **[2026-10-13 07:44 UTC]** Tanto Lula quanto Flávio vão precisar do apoio de Gilmar Mendes no STF para governar, diz constitucionalista
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c5n49my0vz49o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-13 08:00 UTC]** Abstenção e rejeição desafiam Flávio e Lula na disputa acirrada por votos no 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/abstencao-e-rejeicao-desafiam-flavio-e-lula-na-disputa-acirrada-por-votos-no-2o-turno.ghtml)_
+
