@@ -245,3 +245,6 @@
 - **[2026-10-04 12:45 UTC]** Roberto Cidade (União Brasil) vota em Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/04/roberto-cidade-uniao-brasil-vota-em-manaus.ghtml)_
 
+- **[2026-10-13 22:35 UTC]** Quaest no AM: 39% avaliam gestão Roberto Cidade como regular
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/quaest-am-avaliacao-governo-roberto-cidade-13-outubro.ghtml)_
+
