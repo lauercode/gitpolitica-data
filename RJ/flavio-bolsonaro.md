@@ -5881,3 +5881,6 @@
 - **[2026-10-13 22:17 UTC]** Quaest no AC, 2º turno: Flávio Bolsonaro, 60%; Lula, 28%
   _fonte: [G1 - Política:](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/quaest-ac-presidente-segundo-turno-13-outubro.ghtml)_
 
+- **[2026-10-13 22:17 UTC]** MDB racha no 2º turno: 16 diretórios apoiam Flávio Bolsonaro e 10 ficam com Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/mdb-racha-no-2o-turno.ghtml)_
+
