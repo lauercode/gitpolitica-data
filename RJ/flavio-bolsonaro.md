@@ -5860,3 +5860,6 @@
 - **[2026-10-13 16:10 UTC]** Flávio Bolsonaro aparece 3 pontos à frente de Lula na disputa do 2º turno no agregador da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-13 17:36 UTC]** Procurador que pediu expulsão de Bolsonaro do Exército é condecorado com medalha militar
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/13/procurador-bolsonaro-exercito-medalha.ghtml)_
+
