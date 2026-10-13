@@ -5761,3 +5761,6 @@
 - **[2026-10-13 06:51 UTC]** BTG/Nexus: Flávio Bolsonaro tem 52% dos votos válidos, e Lula, 48%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-52-dos-votos-validos-e-lula-48.shtml)_
 
+- **[2026-10-13 06:00 UTC]** Aliados de Flávio dizem que favorito para vaga no STF é 'conciliador'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-de-flavio-dizem-que-favorito-para-vaga-no-stf-e-conciliador.shtml)_
+
