@@ -5914,3 +5914,6 @@
 - **[2026-10-13 18:38 UTC]** Flávio Bolsonaro diz que não irá ao debate na Band, e emissora afirma que púlpito ficará vazio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-nao-ira-ao-debate-na-band-do-2o-turno.shtml)_
 
+- **[2026-10-13 18:12 UTC]** MDB declara apoio de maioria de diretórios a Flávio Bolsonaro apesar de racha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mdb-declara-apoio-de-maioria-de-diretorios-a-flavio-bolsonaro-apesar-de-racha.shtml)_
+
