@@ -5977,3 +5977,6 @@
 - **[2026-10-13 20:50 UTC]** Tarcísio tinha expectativa de ser candidato a presidente, diz Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-tinha-expectativa-de-ser-candidato-a-presidente-diz-flavio-bolsonaro.shtml)_
 
+- **[2026-10-14 01:26 UTC]** Flávio Bolsonaro quer mais Tarcísios e Danis e menos Haddads
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-mais-tarcisios-menos-haddads/)_
+
