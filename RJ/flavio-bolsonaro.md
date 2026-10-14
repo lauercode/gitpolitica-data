@@ -6097,3 +6097,6 @@
 - **[2026-10-14 11:20 UTC]** Canal de Janones pró-Lula e perfil de Marçal pró-Flávio geram reações distintas no TSE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/canal-de-janones-pro-lula-e-perfil-de-marcal-pro-flavio-geram-reacoes-distintas-no-tse.shtml)_
 
+- **[2026-10-14 10:07 UTC]** Meta AI cria propaganda para Flávio e veta material de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/meta-ai-se-recusa-a-fazer-material-eleitoral-para-lula-mas-cria-para-flavio.shtml)_
+
