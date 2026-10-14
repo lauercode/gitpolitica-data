@@ -6019,3 +6019,6 @@
 - **[2026-10-14 08:00 UTC]** Flávio Bolsonaro passa a apoiar PEC da escala 6x1; Senado vota texto nesta quarta
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-passa-a-apoiar-pec-da-escala-6x1-senado-vota-texto-nesta-quarta.ghtml)_
 
+- **[2026-10-14 08:00 UTC]** Se eleito, Flávio só poderá responder por investigações após fim de mandato
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/se-eleito-flavio-so-podera-responder-por-investigacoes-apos-fim-de-mandato.ghtml)_
+
