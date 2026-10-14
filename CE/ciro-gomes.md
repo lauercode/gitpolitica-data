@@ -50,3 +50,6 @@
 - **[2026-10-06 19:09 UTC]** Ciro Gomes diz que vai contestar na Justiça derrota na eleição do Ceará e critica STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ciro-gomes-diz-que-vai-contestar-na-justica-derrota-na-eleicao-do-ceara-e-critica-stf.shtml)_
 
+- **[2026-10-14 15:56 UTC]** Ciro Gomes pede cassação da chapa de Elmano e nova eleição no Ceará
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ciro-gomes-pede-cassacao-da-chapa-de-elmano-e-nova-eleicao-no-ceara.shtml)_
+
