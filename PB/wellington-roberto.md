@@ -89,3 +89,6 @@
 - **[2026-10-05 23:04 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. Prof. Roberto dos Santos Vieira, na 68ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-prof-roberto-dos-santos-vieira-na-68a-zona-eleitoral.ghtml)_
 
+- **[2026-10-14 04:00 UTC]** Justiça nega a Roberto Setubal pedido para revogar doação milionária de acordo de divórcio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2026/10/justica-nega-a-roberto-setubal-pedido-para-revogar-doacao-milionaria-de-acordo-de-divorcio.shtml)_
+
