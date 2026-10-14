@@ -1487,3 +1487,6 @@ direitos
 - **[2026-10-14 19:26 UTC]** Centrão se antecipa a movimento do PL e reedita aliança para reeleger Hugo Motta presidente da Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/centrao-se-antecipa-a-movimento-do-pl-e-reedita-alianca-para-reeleger-hugo-motta-presidente-da-camara.ghtml)_
 
+- **[2026-10-14 16:51 UTC]** Câmara deve votar nesta quarta (14) perdão de dívidas do MEI e aumento do teto após ação de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/camara-deve-votar-nesta-quarta-14-perdao-de-dividas-do-mei-e-aumento-do-teto-apos-acao-de-lula.shtml)_
+
