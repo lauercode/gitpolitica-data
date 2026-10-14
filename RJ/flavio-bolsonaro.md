@@ -5989,3 +5989,6 @@
 - **[2026-10-13 23:22 UTC]** Flávio diz que Alcolumbre protege o governo Lula e tenta ajudar presidente a se reeleger
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-diz-que-alcolumbre-protege-o-governo-lula-e-tenta-ajudar-presidente-a-se-reeleger.ghtml)_
 
+- **[2026-10-13 21:39 UTC]** Flávio diz que não irá a debate da Band; Lula confirma presença
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-bolsonaro-diz-que-no-deve-ir-ao-debate-da-tv-bandeirantes-no-domingo.ghtml)_
+
