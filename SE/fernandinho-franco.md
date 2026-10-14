@@ -8,3 +8,6 @@
 - **[2026-10-05 03:36 UTC]** Eleições 2026: Fernandinho Franco (PL) é eleito deputado estadual por Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-fernandinho-franco-pl-e-eleito-deputado-estadual-por-sergipe.ghtml)_
 
+- **[2026-10-14 14:51 UTC]** Deputado eleito, Fernandinho Franco defende regionalização de cursos técnicos em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/14/entrevista-bd-se-deputado-estadual.ghtml)_
+
