@@ -386,3 +386,6 @@
 - **[2026-10-14 17:09 UTC]** Alcolumbre diz que votar PEC pelo fim da escala 6x1 exige coragem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alcolumbre-diz-que-votar-pec-pelo-fim-da-escala-6x1-exige-coragem.shtml)_
 
+- **[2026-10-14 15:25 UTC]** Alcolumbre articula pautas pró-Lula e busca voto até do PL para se reeleger presidente do Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-articula-pautas-pro-lula-e-busca-voto-ate-do-pl-para-se-reeleger-presidente-do-senado.shtml)_
+
