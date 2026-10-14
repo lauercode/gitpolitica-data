@@ -6085,3 +6085,6 @@
 - **[2026-10-14 12:52 UTC]** IA da Meta diz ter tomado medidas, mas continua criando imagens sobre Flávio e não sobre Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ia-da-meta-diz-ter-tomado-medidas-mas-continua-criando-imagens-sobre-flavio-e-nao-sobre-lula.shtml)_
 
+- **[2026-10-14 12:30 UTC]** Abstenção alta e grandes cidades desafiam Lula em MG, que deu vantagem a Flávio no 1º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/abstencao-alta-e-grandes-cidades-desafiam-lula-em-mg-que-deu-vantagem-a-flavio-no-1o-turno.shtml)_
+
