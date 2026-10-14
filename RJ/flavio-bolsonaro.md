@@ -6133,3 +6133,6 @@
 - **[2026-10-14 21:22 UTC]** Quaest: 73% dizem que votam em Lula por ele ser o melhor candidato; e 53% votam em Flávio Bolsonaro pelo mesmo motivo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/quaest-motivacao-voto-lula-flavio-primeiro-turno.ghtml)_
 
+- **[2026-10-14 21:05 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 46%; Lula, 44%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-presidente-14-outubro.ghtml)_
+
