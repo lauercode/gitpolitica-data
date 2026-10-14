@@ -1112,3 +1112,6 @@
 - **[2026-10-13 19:49 UTC]** Presidente do TSE autoriza reativação do canal "Exército do Lula"
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/presidente-do-tse-autoriza-reativacao-do-canal-exercito-do-lula)_
 
+- **[2026-10-13 23:22 UTC]** Flávio diz que Alcolumbre protege o governo Lula e tenta ajudar presidente a se reeleger
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-diz-que-alcolumbre-protege-o-governo-lula-e-tenta-ajudar-presidente-a-se-reeleger.ghtml)_
+
