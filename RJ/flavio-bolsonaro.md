@@ -6001,3 +6001,6 @@
 - **[2026-10-13 23:00 UTC]** Apoio do MDB a Flávio fortalece Nunes como sucessor de Tarcísio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/apoio-do-mdb-a-flavio-fortalece-nunes-como-sucessor-de-tarcisio.shtml)_
 
+- **[2026-10-14 04:50 UTC]** Lula, enfim, tenta tirar votos de Flávio ao anunciar pacotes para MEIs
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/10/lula-enfim-tenta-tirar-votos-de-flavio-ao-anunciar-pacotes-para-meis.ghtml)_
+
