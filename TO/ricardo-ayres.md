@@ -71,3 +71,6 @@
 - **[2026-10-14 14:08 UTC]** Ayres Rocha levou o Acre à bancada do Jornal Nacional em edição histórica; relembre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/ayres-rocha-levou-o-acre-a-bancada-do-jornal-nacional-em-edicao-historica-relembre.ghtml)_
 
+- **[2026-10-14 21:09 UTC]** Jéssica Senra lamenta morte de Ayres Rocha: 'Meu parceiro no JN'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/jessica-senra-lamenta-morte-de-ayres-rocha.ghtml)_
+
