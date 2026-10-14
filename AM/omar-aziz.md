@@ -143,3 +143,6 @@
 - **[2026-10-13 22:33 UTC]** Quaest no AM, 2º turno: Omar Aziz, 51%; Professora Maria do Carmo, 37%
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/quaest-am-governador-segundo-turno-13-outubro.ghtml)_
 
+- **[2026-10-13 23:47 UTC]** Eleições no AM: Omar Aziz propõe contratar até 15 mil policiais, e Professora Maria do Carmo defende equipar efetivo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/eleicoes-no-am-omar-aziz-propoe-contratar-ate-15-mil-policiais-e-professora-maria-do-carmo-defende-equipar-efetivo.ghtml)_
+
