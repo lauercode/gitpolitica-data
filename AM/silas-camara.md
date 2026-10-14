@@ -1475,3 +1475,6 @@ direitos
 - **[2026-10-14 12:46 UTC]** Câmara dos Deputados abre concurso com salário de R$ 32 mil; veja cargos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/camara-dos-deputados-abre-concurso-com-salario-de-r-32-mil-veja-cargos.shtml)_
 
+- **[2026-10-14 10:00 UTC]** Motta reage ao PL e procura centrão e esquerda para viabilizar reeleição à presidência da Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/motta-reage-ao-pl-e-procura-centrao-para-viabilizar-reeleicao-na-camara.shtml)_
+
