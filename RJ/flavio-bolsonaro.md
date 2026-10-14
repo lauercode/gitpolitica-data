@@ -5953,3 +5953,6 @@
 - **[2026-10-13 21:43 UTC]** TSE mantém veto a posts que ligam Lula e Flávio ao crime organizado
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-mantem-veto-posts-que-ligam-lula-e-flavio-ao-crime-organizado)_
 
+- **[2026-10-13 20:35 UTC]** Kassio reúne campanhas de Lula e Flávio e alerta para alta de ações
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-reune-campanhas-de-lula-e-flavio-e-alerta-para-alta-de-acoes)_
+
