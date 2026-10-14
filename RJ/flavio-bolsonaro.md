@@ -5947,3 +5947,6 @@
 - **[2026-10-13 20:08 UTC]** Dezesseis dos 27 diretórios do MDB declaram apoio a Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/dezessete-dos-27-diretrios-do-mdb-declaram-apoio-a-flvio-bolsonaro.ghtml)_
 
+- **[2026-10-13 22:15 UTC]** Flávio faz visita ao pai em prisão domiciliar e recebe apoios em SP
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-visita-ao-pai-em-prisao-domiciliar-e-recebe-apoios-em-sp)_
+
