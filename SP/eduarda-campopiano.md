@@ -38,3 +38,6 @@
 - **[2026-10-10 14:44 UTC]** Crítica de programas de assistência, Eduarda Campopiano tem mãe que recebe benefício
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/critica-de-programas-de-assistencia-eduarda-campopiano-tem-mae-que-recebe-beneficio.shtml)_
 
+- **[2026-10-14 20:20 UTC]** De Eduarda Campopiano a Ana Elisa: as estratégias das 18 jovens eleitas para o Legislativo em 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqm24394j9kvo?at_medium=RSS&at_campaign=rss)_
+
