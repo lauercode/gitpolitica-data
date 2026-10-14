@@ -6118,3 +6118,6 @@
 - **[2026-10-14 17:36 UTC]** Debate presidencial da Band: data, horário e onde assistir ao 1º encontro entre Lula e Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/debate-presidencial-da-band-data-horario-e-onde-assistir-ao-1o-encontro-entre-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-14 15:07 UTC]** TSE ordena que Flávio e Nikolas removam vídeo de crianças contra Lula
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-ordena-que-flavio-e-nikolas-removam-video-de-criancas-contra-lula)_
+
