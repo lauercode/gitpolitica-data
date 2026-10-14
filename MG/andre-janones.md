@@ -95,3 +95,6 @@
 - **[2026-10-14 17:21 UTC]** Advogada de Flávio Bolsonaro diz que TSE não identificou fake news no 'Exército do Lula' porque Janones apagou mensagens
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/14/advogada-flavio-bolsonaro-exercito-do-lula-janones.ghtml)_
 
+- **[2026-10-14 15:27 UTC]** Janones pede a Nunes Marques que reconsidere decisão e restabeleça funcionamento do canal 'Exército do Lula'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/janones-pede-a-nunes-marques-que-reconsidere-decisao-e-restabeleca-funcionamento-do-canal-exercito-do-lula.ghtml)_
+
