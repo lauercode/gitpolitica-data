@@ -377,3 +377,6 @@
 - **[2026-10-13 21:25 UTC]** Alcolumbre confirma para esta quarta-feira votação da PEC do fim da escala 6x1
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/13/alcolumbre-confirma-para-esta-quarta-feira-votacao-da-pec-do-fim-da-escala-6x1.ghtml)_
 
+- **[2026-10-13 23:22 UTC]** Flávio diz que Alcolumbre protege o governo Lula e tenta ajudar presidente a se reeleger
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-diz-que-alcolumbre-protege-o-governo-lula-e-tenta-ajudar-presidente-a-se-reeleger.ghtml)_
+
