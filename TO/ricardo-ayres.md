@@ -56,3 +56,6 @@
 - **[2026-10-05 01:42 UTC]** Eleições 2026: Ricardo Ayres (Republicanos) é eleito deputado federal pelo Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-ricardo-ayres-republicanos-e-eleito-deputado-federal-pelo-tocantins.ghtml)_
 
+- **[2026-10-14 12:43 UTC]** Ayres Rocha, ícone do jornalismo acreano, morre aos 62 anos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/morre-ayres-rocha.ghtml)_
+
