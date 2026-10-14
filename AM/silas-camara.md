@@ -1490,3 +1490,6 @@ direitos
 - **[2026-10-14 16:51 UTC]** Câmara deve votar nesta quarta (14) perdão de dívidas do MEI e aumento do teto após ação de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/camara-deve-votar-nesta-quarta-14-perdao-de-dividas-do-mei-e-aumento-do-teto-apos-acao-de-lula.shtml)_
 
+- **[2026-10-14 16:24 UTC]** Bloco do centrão com dez partidos declara apoio à reeleição de Motta na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bloco-do-centrao-com-252-deputados-declara-apoio-a-reeleicao-de-motta-na-camara.shtml)_
+
