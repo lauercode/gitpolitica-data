@@ -6184,3 +6184,6 @@
 - **[2026-10-14 18:34 UTC]** PT acusa Meta de favorecer Flávio Bolsonaro em geração de imagens por IA no WhatsApp
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/pt-acusa-meta-de-favorecer-flavio-bolsonaro-em-geracao-de-imagens-por-ia-no-whatsapp.ghtml)_
 
+- **[2026-10-14 18:15 UTC]** Flávio Bolsonaro quer incluir redução da maioridade penal na PEC da Segurança Pública
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/flavio-bolsonaro-quer-incluir-reducao-da-maioridade-penal-na-pec-da-seguranca-publica.ghtml)_
+
