@@ -6031,3 +6031,6 @@
 - **[2026-10-14 12:10 UTC]** TSE manda tirar do ar vídeo divulgado por Nikolas e Flávio Bolsonaro em que crianças criticam Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/tse-remove-video-nikolas-criancas-pt.ghtml)_
 
+- **[2026-10-14 12:06 UTC]** Flávio Bolsonaro recua e diz que irá ao debate no domingo após Lula confirmar presença
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/apos-dizer-que-nao-iria-a-debate-flavio-bolsonaro-publica-video-afirmando-que-participara-no-domingo.ghtml)_
+
