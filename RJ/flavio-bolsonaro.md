@@ -6073,3 +6073,6 @@
 - **[2026-10-14 17:25 UTC]** Flávio Bolsonaro reexibe programa eleitoral que foi ao ar sem áudio e, em peça inédita, aborda segurança; Lula foca no fim da escala 6x1
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/programa-eleitoral-lula-flavio-14-outubro.ghtml)_
 
+- **[2026-10-14 17:21 UTC]** Advogada de Flávio Bolsonaro diz que TSE não identificou fake news no 'Exército do Lula' porque Janones apagou mensagens
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/14/advogada-flavio-bolsonaro-exercito-do-lula-janones.ghtml)_
+
