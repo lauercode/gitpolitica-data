@@ -6109,3 +6109,6 @@
 - **[2026-10-14 13:26 UTC]** Flávio confirma presença no debate da Band com Lula no próximo domingo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-volta-atras-confirma-presenca-debate-band-com-lula/)_
 
+- **[2026-10-14 13:16 UTC]** TSE manda Nikolas e Flávio excluírem vídeo que usa crianças para criticar Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-manda-nikolas-e-flavio-excluirem-video-que-usa-criancas-para-criticar-lula/)_
+
