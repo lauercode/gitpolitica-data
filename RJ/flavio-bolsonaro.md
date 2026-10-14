@@ -6094,3 +6094,6 @@
 - **[2026-10-14 11:50 UTC]** Campanha de Lula cobra Meta sobre IA que produz propaganda para Flávio e veta material do petista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-cobra-meta-sobre-ia-que-produz-propaganda-para-flavio-e-veta-material-do-petista.shtml)_
 
+- **[2026-10-14 11:20 UTC]** Canal de Janones pró-Lula e perfil de Marçal pró-Flávio geram reações distintas no TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/canal-de-janones-pro-lula-e-perfil-de-marcal-pro-flavio-geram-reacoes-distintas-no-tse.shtml)_
+
