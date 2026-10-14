@@ -83,3 +83,6 @@
 - **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em Jardim do Seridó (RN): votação para presidente no Educandário Imaculada Conceição - Eic, na 23ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-jardim-do-serido-rn-votacao-para-presidente-no-educandario-imaculada-conceicao-eic-na-23a-zona-eleitoral.ghtml)_
 
+- **[2026-10-14 06:00 UTC]** Remoções no Jardim Apurá reacendem impasse sobre moradia em região da zona sul de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/remocoes-no-jardim-apura-reacendem-impasse-sobre-moradia-em-regiao-da-zona-sul-de-sp.shtml)_
+
