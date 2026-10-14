@@ -6112,3 +6112,6 @@
 - **[2026-10-14 13:16 UTC]** TSE manda Nikolas e Flávio excluírem vídeo que usa crianças para criticar Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-manda-nikolas-e-flavio-excluirem-video-que-usa-criancas-para-criticar-lula/)_
 
+- **[2026-10-14 16:05 UTC]** Meta promete mudança em sua IA após acusações de favorecimento a Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4g1exxq8ndo?at_medium=RSS&at_campaign=rss)_
+
