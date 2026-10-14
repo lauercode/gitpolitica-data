@@ -47,3 +47,6 @@
 - **[2026-10-13 20:53 UTC]** Hugo Motta inicia articulações por recondução à presidência da Câmara
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/13/hugo-motta-inicia-articulaes-por-reconduo-presidncia-da-cmara.ghtml)_
 
+- **[2026-10-14 19:26 UTC]** Centrão se antecipa a movimento do PL e reedita aliança para reeleger Hugo Motta presidente da Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/centrao-se-antecipa-a-movimento-do-pl-e-reedita-alianca-para-reeleger-hugo-motta-presidente-da-camara.ghtml)_
+
