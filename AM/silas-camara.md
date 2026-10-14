@@ -1469,3 +1469,6 @@ direitos
 - **[2026-10-14 10:00 UTC]** Motta reage ao PL e procura centrão para viabilizar reeleição à presidência da Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/motta-reage-ao-pl-e-procura-centrao-para-viabilizar-reeleicao-na-camara.shtml)_
 
+- **[2026-10-14 11:23 UTC]** Parte do teto de túnel da Câmara desabou nesta quarta-feira
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira)_
+
