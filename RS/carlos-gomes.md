@@ -26,3 +26,6 @@
 - **[2026-10-06 15:25 UTC]** Resultado das eleições 2026 em União dos Palmares (AL): votação para presidente na Escola Estadual Carlos Gomes de Barros, na 21ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-uniao-dos-palmares-al-votacao-para-presidente-na-escola-estadual-carlos-gomes-de-barros-na-21a-zona-eleitoral.ghtml)_
 
+- **[2026-10-14 19:41 UTC]** Coro Carlos Gomes apresenta nova versão da 'Missa Amazônica' na Igreja de Santo Alexandre, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/14/coro-carlos-gomes-apresenta-nova-versao-da-missa-amazonica-na-igreja-de-santo-alexandre-em-belem.ghtml)_
+
