@@ -5986,3 +5986,6 @@
 - **[2026-10-14 01:29 UTC]** Nunes Marques determina reexibição de programa de Flávio que foi ao ar sem áudio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/nunes-marques-determina-reexibicao-de-programa-de-flavio-que-foi-ao-ar-sem-audio.ghtml)_
 
+- **[2026-10-13 23:22 UTC]** Flávio diz que Alcolumbre protege o governo Lula e tenta ajudar presidente a se reeleger
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-diz-que-alcolumbre-protege-o-governo-lula-e-tenta-ajudar-presidente-a-se-reeleger.ghtml)_
+
