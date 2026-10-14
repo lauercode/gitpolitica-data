@@ -6103,3 +6103,6 @@
 - **[2026-10-14 17:17 UTC]** Flaviômetro monitora atuação de políticos nas redes em apoio a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flaviometro-monitora-atuacao-de-politicos-nas-redes-em-apoio-a-flavio-bolsonaro/)_
 
+- **[2026-10-14 16:02 UTC]** Flávio mobiliza aliados e prepara reação nas ruas a atos pró-Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-mobiliza-aliados-e-prepara-reacao-nas-ruas/)_
+
