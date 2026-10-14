@@ -6181,3 +6181,6 @@
 - **[2026-10-14 20:28 UTC]** Campanha de Lula pede que TSE aplique mesma regra de suspensão temporária a canal ‘Tropa do Flávio’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/campanha-de-lula-pede-que-tse-aplique-mesma-regra-de-suspenso-temporria-a-canal-tropa-do-flvio.ghtml)_
 
+- **[2026-10-14 18:34 UTC]** PT acusa Meta de favorecer Flávio Bolsonaro em geração de imagens por IA no WhatsApp
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/pt-acusa-meta-de-favorecer-flavio-bolsonaro-em-geracao-de-imagens-por-ia-no-whatsapp.ghtml)_
+
