@@ -6139,3 +6139,6 @@
 - **[2026-10-14 20:49 UTC]** Flávio Bolsonaro e aliados querem incluir redução da maioridade penal em PEC da Segurança Pública
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-e-aliados-querem-incluir-reducao-da-maioridade-penal-em-pec-da-seguranca-publica.ghtml)_
 
+- **[2026-10-14 19:17 UTC]** Flávio Bolsonaro vai insistir em votação da PEC das horas trabalhadas depois da eleição, diz líder do PL
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-vai-insistir-em-votacao-da-pec-das-horas-trabalhadas-depois-da-eleicao-diz-lider-do-pl.ghtml)_
+
