@@ -6088,3 +6088,6 @@
 - **[2026-10-14 12:30 UTC]** Abstenção alta e grandes cidades desafiam Lula em MG, que deu vantagem a Flávio no 1º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/abstencao-alta-e-grandes-cidades-desafiam-lula-em-mg-que-deu-vantagem-a-flavio-no-1o-turno.shtml)_
 
+- **[2026-10-14 12:00 UTC]** Lula e Flávio Bolsonaro divergem sobre CLT, sindicatos e jornada de trabalho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-e-flavio-bolsonaro-divergem-sobre-clt-sindicatos-e-jornada-de-trabalho.shtml)_
+
