@@ -5971,3 +5971,6 @@
 - **[2026-10-13 22:05 UTC]** TSE manda Nikolas e Flávio Bolsonaro removerem vídeo com crianças contra Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-manda-nikolas-e-flavio-bolsonaro-removerem-video-com-criancas-contra-lula.shtml)_
 
+- **[2026-10-13 21:16 UTC]** Plano viável de um Bolsonaro 2 depende de mais imposto e de algum estelionato eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/plano-viavel-de-um-bolsonaro-2-depende-de-mais-imposto-e-de-algum-estelionato-eleitoral.shtml)_
+
