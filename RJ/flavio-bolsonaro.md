@@ -5950,3 +5950,6 @@
 - **[2026-10-13 22:15 UTC]** Flávio faz visita ao pai em prisão domiciliar e recebe apoios em SP
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-visita-ao-pai-em-prisao-domiciliar-e-recebe-apoios-em-sp)_
 
+- **[2026-10-13 21:43 UTC]** TSE mantém veto a posts que ligam Lula e Flávio ao crime organizado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-mantem-veto-posts-que-ligam-lula-e-flavio-ao-crime-organizado)_
+
