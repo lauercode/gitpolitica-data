@@ -1478,3 +1478,6 @@ direitos
 - **[2026-10-14 10:00 UTC]** Motta reage ao PL e procura centrão e esquerda para viabilizar reeleição à presidência da Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/motta-reage-ao-pl-e-procura-centrao-para-viabilizar-reeleicao-na-camara.shtml)_
 
+- **[2026-10-14 19:35 UTC]** Partidos de centro da Câmara dos Deputados decidem manter bloco na próxima legislatura
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1311237-partidos-de-centro-da-camara-dos-deputados-decidem-manter-bloco-na-proxima-legislatura)_
+
