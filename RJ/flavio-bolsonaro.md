@@ -6043,3 +6043,6 @@
 - **[2026-10-14 09:10 UTC]** Flávio Bolsonaro volta atrás e agora diz que vai a debate da Band no domingo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-volta-atras-e-agora-diz-que-vai-a-debate-da-band-no-domingo.shtml)_
 
+- **[2026-10-14 09:08 UTC]** Flávio Bolsonaro volta atrás e diz que irá a debate com Lula na Band
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-bolsonaro-volta-atras-e-diz-que-ira-a-debate-com-lula-na-band.shtml)_
+
