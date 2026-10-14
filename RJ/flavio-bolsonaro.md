@@ -5995,3 +5995,6 @@
 - **[2026-10-14 00:10 UTC]** Caetano convoca ato pela democracia no Rio no mesmo dia de manifestação de Flávio na Paulista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caetano-convoca-ato-pela-democracia-no-rio-no-mesmo-dia-de-manifestacao-de-flavio-na-paulista.shtml)_
 
+- **[2026-10-13 23:00 UTC]** Favoritismo amplia cobrança por propostas e Flávio Bolsonaro se esquiva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/favoritismo-amplia-cobranca-por-propostas-e-flavio-bolsonaro-se-esquiva.shtml)_
+
