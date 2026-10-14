@@ -6178,3 +6178,6 @@
 - **[2026-10-14 21:07 UTC]** Quaest: Flávio Bolsonaro tem 46% e Lula, 44% das intenções de voto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/quaest-flavio-tem-46percent-e-lula-44percent-das-intencoes-de-voto.ghtml)_
 
+- **[2026-10-14 20:28 UTC]** Campanha de Lula pede que TSE aplique mesma regra de suspensão temporária a canal ‘Tropa do Flávio’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/campanha-de-lula-pede-que-tse-aplique-mesma-regra-de-suspenso-temporria-a-canal-tropa-do-flvio.ghtml)_
+
