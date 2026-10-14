@@ -1115,3 +1115,6 @@
 - **[2026-10-13 23:22 UTC]** Flávio diz que Alcolumbre protege o governo Lula e tenta ajudar presidente a se reeleger
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-diz-que-alcolumbre-protege-o-governo-lula-e-tenta-ajudar-presidente-a-se-reeleger.ghtml)_
 
+- **[2026-10-14 15:25 UTC]** Alcolumbre articula pautas pró-Lula e busca voto até do PL para se reeleger presidente do Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-articula-pautas-pro-lula-e-busca-voto-ate-do-pl-para-se-reeleger-presidente-do-senado.shtml)_
+
