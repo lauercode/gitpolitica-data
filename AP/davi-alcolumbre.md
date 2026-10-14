@@ -383,3 +383,6 @@
 - **[2026-10-14 19:24 UTC]** Fim da 6x1: Alcolumbre diz que Senado deve votar dois turnos de PEC nesta 4ª, mas evita palpitar placar: 'Última vez deu problema'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/fim-da-6x1-alcolumbre-diz-que-senado-deve-votar-dois-turnos-nesta-quarta-mas-evita-palpite-sobre-placar-ultima-vez-deu-problema.ghtml)_
 
+- **[2026-10-14 17:09 UTC]** Alcolumbre diz que votar PEC pelo fim da escala 6x1 exige coragem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alcolumbre-diz-que-votar-pec-pelo-fim-da-escala-6x1-exige-coragem.shtml)_
+
