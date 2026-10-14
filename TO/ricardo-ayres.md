@@ -59,3 +59,6 @@
 - **[2026-10-14 12:43 UTC]** Ayres Rocha, ícone do jornalismo acreano, morre aos 62 anos
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/morre-ayres-rocha.ghtml)_
 
+- **[2026-10-14 17:38 UTC]** Vereadores de Rio Branco fazem 1 minuto de silêncio pela morte de Ayres Rocha; instituições prestam homenagens
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/vereadores-de-rio-branco-fazem-1-minuto-de-silencio-pela-morte-de-ayres-rocha-instituicoes-prestam-homenagens.ghtml)_
+
