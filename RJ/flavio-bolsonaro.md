@@ -6052,3 +6052,6 @@
 - **[2026-10-14 06:00 UTC]** Vitória de Flávio Bolsonaro pode deixar Donald Trump perto de completar seu mapa da América Latina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/vitoria-de-flavio-bolsonaro-pode-deixar-donald-trump-perto-de-completar-seu-mapa-da-america-latina.shtml)_
 
+- **[2026-10-14 10:46 UTC]** Governo Milei se diz otimista sobre vitória de Flávio e acusa Moraes de oportunismo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/governo-milei-diz-otimista-sobre-vitoria-flavio-acusa-moraes-oportunismo/)_
+
