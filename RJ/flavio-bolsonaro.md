@@ -6148,3 +6148,6 @@
 - **[2026-10-14 17:37 UTC]** Flávio Bolsonaro defende liberação de canal 'Exército do Lula' após PT pedir punição igual para ambos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-bolsonaro-defende-liberacao-de-canal-exercito-do-lula-apos-pt-pedir-punicao-igual-para-ambos.shtml)_
 
+- **[2026-10-14 16:06 UTC]** Líder do PL diz que pagamento por hora será aprovado como alternativa à PEC 6x1 se Flávio for eleito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lider-do-pl-diz-que-pagamento-por-hora-sera-aprovado-como-alternativa-a-pec-6x1-se-flavio-for-eleito.shtml)_
+
