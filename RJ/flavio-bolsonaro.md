@@ -6157,3 +6157,6 @@
 - **[2026-10-14 15:58 UTC]** Veja como será o debate entre Lula e Flávio na Band neste domingo (18)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-como-sera-o-debate-entre-lula-e-flavio-na-band-neste-domingo-18.shtml)_
 
+- **[2026-10-14 15:56 UTC]** Canal de Flávio foi informado ao TSE no mesmo dia em que o de Lula, mas não sofreu suspensão de 48 horas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/canal-de-flavio-foi-informado-ao-tse-no-mesmo-dia-em-que-o-de-lula-mas-nao-sofreu-suspensao-de-48-horas.shtml)_
+
