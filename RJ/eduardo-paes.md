@@ -62,3 +62,6 @@
 - **[2026-10-08 22:16 UTC]** Zanin será relator da ação de Eduardo Paes que pede realização de segundo turno no Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/zanin-sera-relator-da-acao-de-eduardo-paes-que-pede-realizacao-de-segundo-turno-no-rio.ghtml)_
 
+- **[2026-10-14 18:12 UTC]** Eduardo Paes abre nova frente no STF para tentar realização de 2º turno no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-paes-abre-nova-frente-no-stf-para-tentar-realizacao-de-2o-turno-no-rj.shtml)_
+
