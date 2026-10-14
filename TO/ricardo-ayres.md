@@ -74,3 +74,6 @@
 - **[2026-10-14 21:09 UTC]** Jéssica Senra lamenta morte de Ayres Rocha: 'Meu parceiro no JN'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/jessica-senra-lamenta-morte-de-ayres-rocha.ghtml)_
 
+- **[2026-10-14 18:54 UTC]** Última apresentação de Ayres Rocha no JAC2 foi há quase dois anos: 'Missão cumprida'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/ultima-apresentacao-de-ayres-rocha-no-jac2-foi-ha-quase-dois-anos-missao-cumprida.ghtml)_
+
