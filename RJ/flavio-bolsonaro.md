@@ -6013,3 +6013,6 @@
 - **[2026-10-14 07:48 UTC]** Pedro Parente não declara voto, mas vê em Flávio risco de concentração de poder com vitória da direita no Congresso
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-14 08:00 UTC]** A 12 dias da eleição, Lula anuncia pacote para MEIs, e Flávio diz que votará pelo fim da 6x1
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/14/a-12-dias-da-eleicao-lula-anuncia-pacote-para-meis-e-flavio-diz-que-votara-pelo-fim-da-6x1.ghtml)_
+
