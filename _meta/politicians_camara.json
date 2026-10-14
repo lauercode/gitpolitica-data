@@ -2776,6 +2776,17 @@
     "camara_id": 178970
   },
   {
+    "slug": "joao-leao",
+    "name": "João Leão",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "PP",
+    "aliases": [
+      "João Leão",
+      "Leão"
+    ],
+    "camara_id": 74550
+  },
+  {
     "slug": "joao-maia",
     "name": "João Maia",
     "role": "Deputado(a) Federal (RN)",
@@ -2807,17 +2818,6 @@
       "Donizette"
     ],
     "camara_id": 160548
-  },
-  {
-    "slug": "jorge-araujo",
-    "name": "Jorge Araújo",
-    "role": "Deputado(a) Federal (BA)",
-    "party": "PP",
-    "aliases": [
-      "Jorge Araújo",
-      "Araújo"
-    ],
-    "camara_id": 235800
   },
   {
     "slug": "jorge-braz",
@@ -3301,6 +3301,17 @@
     "camara_id": 178931
   },
   {
+    "slug": "luciano-vieira",
+    "name": "Luciano Vieira",
+    "role": "Deputado(a) Federal (RJ)",
+    "party": "PSDB",
+    "aliases": [
+      "Luciano Vieira",
+      "Vieira"
+    ],
+    "camara_id": 220616
+  },
+  {
     "slug": "lucio-mosquini",
     "name": "Lucio Mosquini",
     "role": "Deputado(a) Federal (RO)",
@@ -3626,17 +3637,6 @@
       "Sampaio"
     ],
     "camara_id": 204431
-  },
-  {
-    "slug": "marcos-braz",
-    "name": "Marcos Braz",
-    "role": "Deputado(a) Federal (RJ)",
-    "party": "PSDB",
-    "aliases": [
-      "Marcos Braz",
-      "Braz"
-    ],
-    "camara_id": 236375
   },
   {
     "slug": "marcos-pereira",
