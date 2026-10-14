@@ -5998,3 +5998,6 @@
 - **[2026-10-13 23:00 UTC]** Favoritismo amplia cobrança por propostas e Flávio Bolsonaro se esquiva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/favoritismo-amplia-cobranca-por-propostas-e-flavio-bolsonaro-se-esquiva.shtml)_
 
+- **[2026-10-13 23:00 UTC]** Apoio do MDB a Flávio fortalece Nunes como sucessor de Tarcísio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/apoio-do-mdb-a-flavio-fortalece-nunes-como-sucessor-de-tarcisio.shtml)_
+
