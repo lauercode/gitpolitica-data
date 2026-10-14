@@ -6022,3 +6022,6 @@
 - **[2026-10-14 08:00 UTC]** Se eleito, Flávio só poderá responder por investigações após fim de mandato
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/se-eleito-flavio-so-podera-responder-por-investigacoes-apos-fim-de-mandato.ghtml)_
 
+- **[2026-10-14 09:03 UTC]** Lula e Flávio Bolsonaro cumprem agendas de campanha nesta quarta-feira
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-e-flavio-bolsonaro-cumprem-agendas-de-campanha-nesta-quarta-feira)_
+
