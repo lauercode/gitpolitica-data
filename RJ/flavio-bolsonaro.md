@@ -6091,3 +6091,6 @@
 - **[2026-10-14 12:00 UTC]** Lula e Flávio Bolsonaro divergem sobre CLT, sindicatos e jornada de trabalho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-e-flavio-bolsonaro-divergem-sobre-clt-sindicatos-e-jornada-de-trabalho.shtml)_
 
+- **[2026-10-14 11:50 UTC]** Campanha de Lula cobra Meta sobre IA que produz propaganda para Flávio e veta material do petista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-cobra-meta-sobre-ia-que-produz-propaganda-para-flavio-e-veta-material-do-petista.shtml)_
+
