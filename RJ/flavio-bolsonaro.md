@@ -5959,3 +5959,6 @@
 - **[2026-10-13 21:14 UTC]** Eleições 2026: confira como foi a terça-feira de Flávio e Lula
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/eleicoes-2026-confira-como-foi-terca-feira-de-flavio-e-lula)_
 
+- **[2026-10-14 00:48 UTC]** TSE determina reexibição de propaganda de Flávio Bolsonaro após programa ser veiculado sem áudio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/tse-determina-reexibicao-de-propaganda-de-flavio-bolsonaro-apos-programa-ser-veiculado-sem-audio.ghtml)_
+
