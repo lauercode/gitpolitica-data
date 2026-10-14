@@ -6064,3 +6064,6 @@
 - **[2026-10-14 09:12 UTC]** Quem é o procurador que pediu expulsão de Bolsonaro do Exército e recebeu medalha militar
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/14/procurador-militar-pede-expulsao-bolsonaro-recebe-medalha.ghtml)_
 
+- **[2026-10-14 12:22 UTC]** Flávio Bolsonaro volta atrás e diz que vai ao debate da Band após Lula confirmar presença
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/flavio-bolsonaro-volta-atras-e-diz-que-vai-ao-debate-da-band.ghtml)_
+
