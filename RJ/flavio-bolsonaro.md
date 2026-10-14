@@ -6124,3 +6124,6 @@
 - **[2026-10-14 16:59 UTC]** TSE manda Flávio remover vídeo que usa crianças para atacar Lula
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/tse-manda-flavio-remover-video-que-usa-criancas-para-atacar-lula)_
 
+- **[2026-10-14 21:33 UTC]** Relatório da defesa de Flávio Bolsonaro mostra mensagens que teriam sido apagadas de canal pró-Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/14/relatorio-da-defesa-de-flavio-bolsonaro.ghtml)_
+
