@@ -128,3 +128,6 @@
 - **[2026-10-14 14:51 UTC]** Ricardo Couto oficializa nomes do governo que participarão da equipe de transição para Douglas Ruas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/ricardo-couto-oficializa-nomes-do-governo-que-participaro-da-equipe-de-transio-para-douglas-ruas.ghtml)_
 
+- **[2026-10-14 14:30 UTC]** Douglas Ruas anuncia vice como primeira integrante do secretariado de novo governo do Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/douglas-ruas-anuncia-vice-como-primeira-integrante-do-secretariado-de-governo-no-rio.ghtml)_
+
