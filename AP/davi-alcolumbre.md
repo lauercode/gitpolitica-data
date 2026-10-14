@@ -380,3 +380,6 @@
 - **[2026-10-13 23:22 UTC]** Flávio diz que Alcolumbre protege o governo Lula e tenta ajudar presidente a se reeleger
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-diz-que-alcolumbre-protege-o-governo-lula-e-tenta-ajudar-presidente-a-se-reeleger.ghtml)_
 
+- **[2026-10-14 19:24 UTC]** Fim da 6x1: Alcolumbre diz que Senado deve votar dois turnos de PEC nesta 4ª, mas evita palpitar placar: 'Última vez deu problema'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/fim-da-6x1-alcolumbre-diz-que-senado-deve-votar-dois-turnos-nesta-quarta-mas-evita-palpite-sobre-placar-ultima-vez-deu-problema.ghtml)_
+
