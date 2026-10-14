@@ -6070,3 +6070,6 @@
 - **[2026-10-14 17:33 UTC]** Janones nega ter postado fake news em canal e diz que vai acionar advogada de Flávio Bolsonaro por calúnia
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/14/janones-nega-ter-postado-fake-news-em-canal-e-diz-que-vai-acionar-advogada-de-flavio-bolsonaro-por-calunia.ghtml)_
 
+- **[2026-10-14 17:25 UTC]** Flávio Bolsonaro reexibe programa eleitoral que foi ao ar sem áudio e, em peça inédita, aborda segurança; Lula foca no fim da escala 6x1
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/programa-eleitoral-lula-flavio-14-outubro.ghtml)_
+
