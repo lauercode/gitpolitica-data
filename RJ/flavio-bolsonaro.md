@@ -6010,3 +6010,6 @@
 - **[2026-10-14 05:00 UTC]** No Senado, Flávio Bolsonaro propôs fim de proteção à área onde pai foi multado por pesca ilegal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/no-senado-flavio-bolsonaro-propos-fim-de-protecao-a-area-onde-pai-foi-multado-por-pesca-ilegal.shtml)_
 
+- **[2026-10-14 07:48 UTC]** Pedro Parente não declara voto, mas vê em Flávio risco de concentração de poder com vitória da direita no Congresso
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss)_
+
