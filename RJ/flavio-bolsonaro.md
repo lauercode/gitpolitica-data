@@ -6121,3 +6121,6 @@
 - **[2026-10-14 15:07 UTC]** TSE ordena que Flávio e Nikolas removam vídeo de crianças contra Lula
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-ordena-que-flavio-e-nikolas-removam-video-de-criancas-contra-lula)_
 
+- **[2026-10-14 16:59 UTC]** TSE manda Flávio remover vídeo que usa crianças para atacar Lula
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/tse-manda-flavio-remover-video-que-usa-criancas-para-atacar-lula)_
+
