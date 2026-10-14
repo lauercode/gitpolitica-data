@@ -6160,3 +6160,6 @@
 - **[2026-10-14 15:56 UTC]** Canal de Flávio foi informado ao TSE no mesmo dia em que o de Lula, mas não sofreu suspensão de 48 horas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/canal-de-flavio-foi-informado-ao-tse-no-mesmo-dia-em-que-o-de-lula-mas-nao-sofreu-suspensao-de-48-horas.shtml)_
 
+- **[2026-10-14 20:31 UTC]** Líder do PL promete votar PEC das horas trabalhadas em 2027 se Flávio for eleito
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/lider-do-pl-promete-votar-pec-das-horas-trabalhadas-em-2027-se-flavio-for-eleito/)_
+
