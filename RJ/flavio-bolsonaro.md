@@ -6115,3 +6115,6 @@
 - **[2026-10-14 16:05 UTC]** Meta promete mudança em sua IA após acusações de favorecimento a Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4g1exxq8ndo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-14 17:36 UTC]** Debate presidencial da Band: data, horário e onde assistir ao 1º encontro entre Lula e Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/debate-presidencial-da-band-data-horario-e-onde-assistir-ao-1o-encontro-entre-lula-e-flavio-bolsonaro.ghtml)_
+
