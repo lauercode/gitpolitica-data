@@ -83,3 +83,6 @@
 - **[2026-10-07 18:21 UTC]** Nikolas Ferreira diz que resultado das urnas mostra desgaste da 'política velha'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/07/nikolas-ferreira-diz-que-resultado-das-urnas-mostra-desgaste-da-politica-velha.ghtml)_
 
+- **[2026-10-14 21:31 UTC]** Campanha de Lula aciona TSE contra Meta e questiona alcance de vídeos de Nikolas Ferreira e ferramenta de IA
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/campanha-de-lula-aciona-tse-contra-meta-e-questiona-alcance-de-videos-de-nikolas-e-ferramenta-de-ia.ghtml)_
+
