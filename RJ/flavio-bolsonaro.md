@@ -6166,3 +6166,6 @@
 - **[2026-10-14 19:55 UTC]** Chefe do Ministério Público Militar é condecorado após pedir perda da patente de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/chefe-mp-militar-condecorado-apos-pedir-perda-patente-bolsonaro/)_
 
+- **[2026-10-14 21:02 UTC]** O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Numa cidade do agro, mudei minha mentalidade'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss)_
+
