@@ -158,3 +158,6 @@
 - **[2026-10-13 19:40 UTC]** Quaest: Allyson Bezerra tem 45%, e Cadu de Lula, 42%, no Rio Grande do Norte
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-allyson-bezerra-tem-45-e-cadu-de-lula-42-no-rio-grande-do-norte.shtml)_
 
+- **[2026-10-14 20:31 UTC]** Cadu de Lula promete colocar RN entre os dez melhores do país no Ideb até 2030
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/14/cadu-de-lula-promete-colocar-rn-entre-os-dez-melhores-do-pais-no-ideb-ate-2030.ghtml)_
+
