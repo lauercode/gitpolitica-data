@@ -5992,3 +5992,6 @@
 - **[2026-10-13 21:39 UTC]** Flávio diz que não irá a debate da Band; Lula confirma presença
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-bolsonaro-diz-que-no-deve-ir-ao-debate-da-tv-bandeirantes-no-domingo.ghtml)_
 
+- **[2026-10-14 00:10 UTC]** Caetano convoca ato pela democracia no Rio no mesmo dia de manifestação de Flávio na Paulista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caetano-convoca-ato-pela-democracia-no-rio-no-mesmo-dia-de-manifestacao-de-flavio-na-paulista.shtml)_
+
