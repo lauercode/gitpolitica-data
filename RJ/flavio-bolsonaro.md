@@ -6067,3 +6067,6 @@
 - **[2026-10-14 12:22 UTC]** Flávio Bolsonaro volta atrás e diz que vai ao debate da Band após Lula confirmar presença
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/flavio-bolsonaro-volta-atras-e-diz-que-vai-ao-debate-da-band.ghtml)_
 
+- **[2026-10-14 17:33 UTC]** Janones nega ter postado fake news em canal e diz que vai acionar advogada de Flávio Bolsonaro por calúnia
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/14/janones-nega-ter-postado-fake-news-em-canal-e-diz-que-vai-acionar-advogada-de-flavio-bolsonaro-por-calunia.ghtml)_
+
