@@ -68,3 +68,6 @@
 - **[2026-10-14 15:19 UTC]** Acre decreta luto de três dias pela morte do jornalista Ayres Rocha
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/acre-decreta-luto-de-tres-dias-pela-morte-do-jornalista-ayres-rocha.ghtml)_
 
+- **[2026-10-14 14:08 UTC]** Ayres Rocha levou o Acre à bancada do Jornal Nacional em edição histórica; relembre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/ayres-rocha-levou-o-acre-a-bancada-do-jornal-nacional-em-edicao-historica-relembre.ghtml)_
+
