@@ -6061,3 +6061,6 @@
 - **[2026-10-13 16:10 UTC]** Quem está à frente nas pesquisas? Veja Lula x Flávio Bolsonaro no agregador da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-14 09:12 UTC]** Quem é o procurador que pediu expulsão de Bolsonaro do Exército e recebeu medalha militar
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/14/procurador-militar-pede-expulsao-bolsonaro-recebe-medalha.ghtml)_
+
