@@ -6127,3 +6127,6 @@
 - **[2026-10-14 21:33 UTC]** Relatório da defesa de Flávio Bolsonaro mostra mensagens que teriam sido apagadas de canal pró-Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/14/relatorio-da-defesa-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-14 21:26 UTC]** Quaest: medo de volta dos Bolsonaro empata com medo de reeleição de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-medo-governo-lula-ou-flavio-bolsonaro-14-outubro.ghtml)_
+
