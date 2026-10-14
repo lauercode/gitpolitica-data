@@ -6169,3 +6169,6 @@
 - **[2026-10-14 21:02 UTC]** O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Numa cidade do agro, mudei minha mentalidade'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-14 14:02 UTC]** Ex-ministro de FHC, Pedro Parente não declara voto, mas vê em Flávio risco de concentração de poder com vitória da direita no Congresso
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss)_
+
