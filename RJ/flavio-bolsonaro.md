@@ -5980,3 +5980,6 @@
 - **[2026-10-14 01:26 UTC]** Flávio Bolsonaro quer mais Tarcísios e Danis e menos Haddads
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-mais-tarcisios-menos-haddads/)_
 
+- **[2026-10-13 23:29 UTC]** Mendonça manda Lula excluir posts que associam “tesouraço” de Flávio a cortes sociais
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-lula-excluir-posts-que-associam-tesouraco-de-flavio-a-cortes-sociais/)_
+
