@@ -1466,3 +1466,6 @@ direitos
 - **[2026-10-14 03:00 UTC]** Aliados de Motta fazem contas para mantê-lo na presidência da Câmara e Centrão fala em ‘autopreservação’
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/aliados-de-motta-fazem-contas-para-mante-lo-na-presidencia-da-camara-e-centrao-fala-em-autopreservacao.ghtml)_
 
+- **[2026-10-14 10:00 UTC]** Motta reage ao PL e procura centrão para viabilizar reeleição à presidência da Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/motta-reage-ao-pl-e-procura-centrao-para-viabilizar-reeleicao-na-camara.shtml)_
+
