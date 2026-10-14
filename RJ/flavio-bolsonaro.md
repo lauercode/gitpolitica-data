@@ -6016,3 +6016,6 @@
 - **[2026-10-14 08:00 UTC]** A 12 dias da eleição, Lula anuncia pacote para MEIs, e Flávio diz que votará pelo fim da 6x1
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/14/a-12-dias-da-eleicao-lula-anuncia-pacote-para-meis-e-flavio-diz-que-votara-pelo-fim-da-6x1.ghtml)_
 
+- **[2026-10-14 08:00 UTC]** Flávio Bolsonaro passa a apoiar PEC da escala 6x1; Senado vota texto nesta quarta
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-passa-a-apoiar-pec-da-escala-6x1-senado-vota-texto-nesta-quarta.ghtml)_
+
