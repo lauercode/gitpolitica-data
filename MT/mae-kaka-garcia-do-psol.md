@@ -167,3 +167,6 @@
 - **[2026-10-13 17:28 UTC]** Erika Hilton admite que pode trocar PSOL pelo PT em 2027
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/erika-hilton-admite-que-pode-trocar-psol-pelo-pt-em-2027/)_
 
+- **[2026-10-14 15:45 UTC]** Após críticas de Erika Hilton, presidente do PSOL diz que sempre esteve aberta ao diálogo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/apos-criticas-de-erika-hilton-presidente-do-psol-diz-que-sempre-esteve-aberta-ao-dialogo.shtml)_
+
