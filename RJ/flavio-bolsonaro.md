@@ -6082,3 +6082,6 @@
 - **[2026-10-14 13:05 UTC]** Investigadores devem fatiar caso de Flávio Bolsonaro em 'Dark Horse' e concluir primeiro suspeitas sobre Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/investigadores-avaliam-fatiar-dark-horse-e-so-apurar-caso-de-flavio-apos-concluir-suspeitas-sobre-vorcaro.shtml)_
 
+- **[2026-10-14 12:52 UTC]** IA da Meta diz ter tomado medidas, mas continua criando imagens sobre Flávio e não sobre Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ia-da-meta-diz-ter-tomado-medidas-mas-continua-criando-imagens-sobre-flavio-e-nao-sobre-lula.shtml)_
+
