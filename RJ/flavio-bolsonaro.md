@@ -6058,3 +6058,6 @@
 - **[2026-10-14 07:48 UTC]** Ex-ministro de FHC, Pedro Parente vê em Flávio risco de concentração de poder
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-13 16:10 UTC]** Quem está à frente nas pesquisas? Veja Lula x Flávio Bolsonaro no agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
