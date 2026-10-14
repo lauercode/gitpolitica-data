@@ -1484,3 +1484,6 @@ direitos
 - **[2026-10-14 20:07 UTC]** Câmara inicia votações de hoje com análise de projeto sobre microempreendedor individual; acompanhe
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311239-camara-inicia-votacoes-de-hoje-com-analise-de-projeto-sobre-microempreendedor-individual-acompanhe)_
 
+- **[2026-10-14 19:26 UTC]** Centrão se antecipa a movimento do PL e reedita aliança para reeleger Hugo Motta presidente da Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/centrao-se-antecipa-a-movimento-do-pl-e-reedita-alianca-para-reeleger-hugo-motta-presidente-da-camara.ghtml)_
+
