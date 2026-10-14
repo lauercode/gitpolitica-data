@@ -6076,3 +6076,6 @@
 - **[2026-10-14 17:21 UTC]** Advogada de Flávio Bolsonaro diz que TSE não identificou fake news no 'Exército do Lula' porque Janones apagou mensagens
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/14/advogada-flavio-bolsonaro-exercito-do-lula-janones.ghtml)_
 
+- **[2026-10-14 13:41 UTC]** IA da Meta no WhatsApp cria imagem de 'Flávio 22', mas não de 'Lula 13' e 'Flávio Bolsonaro 22'
+  _fonte: [G1 - Política:](https://g1.globo.com/tecnologia/noticia/2026/10/14/ia-da-meta-no-whatsapp-reluta-em-criar-imagem-de-campanha-de-lula-mas-aceita-pedidos-para-flavio.ghtml)_
+
