@@ -6175,3 +6175,6 @@
 - **[2026-10-14 19:49 UTC]** Flávio Bolsonaro promete 'obras de contenção' contra cheias no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/14/flavio-bolsonaro-porto-alegre.ghtml)_
 
+- **[2026-10-14 21:07 UTC]** Quaest: Flávio Bolsonaro tem 46% e Lula, 44% das intenções de voto
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/quaest-flavio-tem-46percent-e-lula-44percent-das-intencoes-de-voto.ghtml)_
+
