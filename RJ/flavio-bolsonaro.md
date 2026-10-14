@@ -6163,3 +6163,6 @@
 - **[2026-10-14 20:31 UTC]** Líder do PL promete votar PEC das horas trabalhadas em 2027 se Flávio for eleito
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/lider-do-pl-promete-votar-pec-das-horas-trabalhadas-em-2027-se-flavio-for-eleito/)_
 
+- **[2026-10-14 19:55 UTC]** Chefe do Ministério Público Militar é condecorado após pedir perda da patente de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/chefe-mp-militar-condecorado-apos-pedir-perda-patente-bolsonaro/)_
+
