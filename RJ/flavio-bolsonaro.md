@@ -6106,3 +6106,6 @@
 - **[2026-10-14 16:02 UTC]** Flávio mobiliza aliados e prepara reação nas ruas a atos pró-Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-mobiliza-aliados-e-prepara-reacao-nas-ruas/)_
 
+- **[2026-10-14 13:26 UTC]** Flávio confirma presença no debate da Band com Lula no próximo domingo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-volta-atras-confirma-presenca-debate-band-com-lula/)_
+
