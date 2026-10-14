@@ -62,3 +62,6 @@
 - **[2026-10-14 17:38 UTC]** Vereadores de Rio Branco fazem 1 minuto de silêncio pela morte de Ayres Rocha; instituições prestam homenagens
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/vereadores-de-rio-branco-fazem-1-minuto-de-silencio-pela-morte-de-ayres-rocha-instituicoes-prestam-homenagens.ghtml)_
 
+- **[2026-10-14 16:09 UTC]** Ayres Rocha usou a própria história com câncer para incentivar homens a se cuidar
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/ayres-rocha-usou-a-propria-historia-com-cancer-para-incentivar-homens-a-se-cuidar.ghtml)_
+
