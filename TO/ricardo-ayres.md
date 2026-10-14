@@ -65,3 +65,6 @@
 - **[2026-10-14 16:09 UTC]** Ayres Rocha usou a própria história com câncer para incentivar homens a se cuidar
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/ayres-rocha-usou-a-propria-historia-com-cancer-para-incentivar-homens-a-se-cuidar.ghtml)_
 
+- **[2026-10-14 15:19 UTC]** Acre decreta luto de três dias pela morte do jornalista Ayres Rocha
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/acre-decreta-luto-de-tres-dias-pela-morte-do-jornalista-ayres-rocha.ghtml)_
+
