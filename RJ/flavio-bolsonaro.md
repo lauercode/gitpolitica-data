@@ -6136,3 +6136,6 @@
 - **[2026-10-14 21:05 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 46%; Lula, 44%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-presidente-14-outubro.ghtml)_
 
+- **[2026-10-14 20:49 UTC]** Flávio Bolsonaro e aliados querem incluir redução da maioridade penal em PEC da Segurança Pública
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-e-aliados-querem-incluir-reducao-da-maioridade-penal-em-pec-da-seguranca-publica.ghtml)_
+
