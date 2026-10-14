@@ -6007,3 +6007,6 @@
 - **[2026-10-14 02:16 UTC]** TSE estabelece limites para associações de Lula e Flávio ao crime organizado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/tse-estabelece-limites-para-associaes-de-lula-e-flvio-ao-crime-organizado.ghtml)_
 
+- **[2026-10-14 05:00 UTC]** No Senado, Flávio Bolsonaro propôs fim de proteção à área onde pai foi multado por pesca ilegal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/no-senado-flavio-bolsonaro-propos-fim-de-protecao-a-area-onde-pai-foi-multado-por-pesca-ilegal.shtml)_
+
