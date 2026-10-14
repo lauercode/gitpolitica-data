@@ -6025,3 +6025,6 @@
 - **[2026-10-14 09:03 UTC]** Lula e Flávio Bolsonaro cumprem agendas de campanha nesta quarta-feira
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-e-flavio-bolsonaro-cumprem-agendas-de-campanha-nesta-quarta-feira)_
 
+- **[2026-10-14 12:42 UTC]** PEC do fim da escala 6x1: equipe de Lula diz que conversão de Flávio Bolsonaro é falsa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/14/pec-do-fim-da-escala-6x1-equipe-de-lula-diz-que-conversao-de-flavio-bolsonaro-e-falsa.ghtml)_
+
