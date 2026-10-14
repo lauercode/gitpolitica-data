@@ -5965,3 +5965,6 @@
 - **[2026-10-14 00:40 UTC]** TSE derruba propagandas que associam Lula e Flávio Bolsonaro ao crime organizado de forma genérica e fixa limites
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/tse-derruba-propagandas-que-associam-lula-e-flavio-bolsonaro-ao-crime-organizado-de-forma-generica-e-fixa-limites.ghtml)_
 
+- **[2026-10-13 22:35 UTC]** Em disputa por bandeiras rivais, Flávio muda discurso sobre 6x1 e Lula faz aceno a empreendedores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-disputa-por-bandeiras-rivais-flavio-muda-discurso-sobre-6x1-e-lula-faz-aceno-a-empreendedores.shtml)_
+
