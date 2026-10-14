@@ -5983,3 +5983,6 @@
 - **[2026-10-13 23:29 UTC]** Mendonça manda Lula excluir posts que associam “tesouraço” de Flávio a cortes sociais
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-manda-lula-excluir-posts-que-associam-tesouraco-de-flavio-a-cortes-sociais/)_
 
+- **[2026-10-14 01:29 UTC]** Nunes Marques determina reexibição de programa de Flávio que foi ao ar sem áudio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/nunes-marques-determina-reexibicao-de-programa-de-flavio-que-foi-ao-ar-sem-audio.ghtml)_
+
