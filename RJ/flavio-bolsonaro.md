@@ -6142,3 +6142,6 @@
 - **[2026-10-14 19:17 UTC]** Flávio Bolsonaro vai insistir em votação da PEC das horas trabalhadas depois da eleição, diz líder do PL
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-vai-insistir-em-votacao-da-pec-das-horas-trabalhadas-depois-da-eleicao-diz-lider-do-pl.ghtml)_
 
+- **[2026-10-14 18:11 UTC]** Quaest: Flávio Bolsonaro marca 46%, e Lula tem 44% no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-46-e-lula-tem-44-no-2o-turno.shtml)_
+
