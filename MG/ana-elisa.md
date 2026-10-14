@@ -47,3 +47,6 @@
 - **[2026-10-10 18:58 UTC]** Após ameaças de morte, deputada eleita Ana Elisa receberá proteção
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/apos-ameacas-de-morte-deputada-eleita-ana-elisa-recebera-protecao)_
 
+- **[2026-10-14 20:20 UTC]** De Eduarda Campopiano a Ana Elisa: as estratégias das 18 jovens eleitas para o Legislativo em 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqm24394j9kvo?at_medium=RSS&at_campaign=rss)_
+
