@@ -104,3 +104,6 @@
 - **[2026-10-13 20:40 UTC]** Novo ato pró-Lula em SP tem jovens eleitos, Haddad, Tebet e Marina após derrotas no 1° turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/novo-ato-pro-lula-em-sp-tem-jovens-eleitos-haddad-tebet-e-marina-apos-derrotas-no-1-turno.shtml)_
 
+- **[2026-10-13 23:03 UTC]** Ato da campanha de Lula em SP tenta manter militância mobilizada e busca quem não votou no primeiro turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/campanha-de-lula-tenta-manter-militancia-mobilizada-em-sp-em-ato-da-virada.ghtml)_
+
