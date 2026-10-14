@@ -1493,3 +1493,6 @@ direitos
 - **[2026-10-14 16:24 UTC]** Bloco do centrão com dez partidos declara apoio à reeleição de Motta na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bloco-do-centrao-com-252-deputados-declara-apoio-a-reeleicao-de-motta-na-camara.shtml)_
 
+- **[2026-10-14 21:08 UTC]** Motta inicia discussão no Plenário da Câmara de projetos que perdoam dívida do MEI e aumentam limite de faturamento
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/14/motta-inicia-discusso-no-plenrio-da-cmara-de-projetos-que-perdoam-dvida-do-mei-e-aumentam-limite-de-faturamento.ghtml)_
+
