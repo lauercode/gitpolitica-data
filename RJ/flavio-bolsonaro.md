@@ -6040,3 +6040,6 @@
 - **[2026-10-14 10:00 UTC]** Milei será o guru de Flávio Bolsonaro no corte das aposentadorias?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/romulo-saraiva/2026/10/milei-sera-o-guru-de-flavio-bolsonaro-no-corte-das-aposentadorias.shtml)_
 
+- **[2026-10-14 09:10 UTC]** Flávio Bolsonaro volta atrás e agora diz que vai a debate da Band no domingo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-volta-atras-e-agora-diz-que-vai-a-debate-da-band-no-domingo.shtml)_
+
