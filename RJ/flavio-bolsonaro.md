@@ -6046,3 +6046,6 @@
 - **[2026-10-14 09:08 UTC]** Flávio Bolsonaro volta atrás e diz que irá a debate com Lula na Band
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-bolsonaro-volta-atras-e-diz-que-ira-a-debate-com-lula-na-band.shtml)_
 
+- **[2026-10-14 08:40 UTC]** Lula sobe entre os jovens de 16 a 24 anos e Flávio aumenta preferência entre os homens, mostra pesquisa BTG/Nexus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/lula-sobe-entre-os-jovens-de-16-a-24-anos-e-flavio-aumenta-preferencia-entre-os-homens-mostra-pesquisa-btgnexus.shtml)_
+
