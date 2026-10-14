@@ -6004,3 +6004,6 @@
 - **[2026-10-14 04:50 UTC]** Lula, enfim, tenta tirar votos de Flávio ao anunciar pacotes para MEIs
   _fonte: [Valor Econômico](https://valor.globo.com/politica/pergunte-aos-dados/post/2026/10/lula-enfim-tenta-tirar-votos-de-flavio-ao-anunciar-pacotes-para-meis.ghtml)_
 
+- **[2026-10-14 02:16 UTC]** TSE estabelece limites para associações de Lula e Flávio ao crime organizado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/tse-estabelece-limites-para-associaes-de-lula-e-flvio-ao-crime-organizado.ghtml)_
+
