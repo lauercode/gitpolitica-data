@@ -1118,3 +1118,6 @@
 - **[2026-10-14 15:25 UTC]** Alcolumbre articula pautas pró-Lula e busca voto até do PL para se reeleger presidente do Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-articula-pautas-pro-lula-e-busca-voto-ate-do-pl-para-se-reeleger-presidente-do-senado.shtml)_
 
+- **[2026-10-14 20:20 UTC]** Sete erros do Lula 3 que poderão custar o fim da trajetória do presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/sete-erros-do-lula-3-que-poderao-custar-o-fim-da-trajetoria-do-presidente/)_
+
