@@ -170,3 +170,6 @@
 - **[2026-10-13 15:32 UTC]** Alan Rick aposta em diálogo com prefeitos para buscar virada no 2º turno no AC: 'Força da máquina é esmagadora'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/13/alan-rick-aposta-em-dialogo-com-prefeitos-para-buscar-virada-no-2o-turno-no-ac-forca-da-maquina-e-esmagadora.ghtml)_
 
+- **[2026-10-14 14:08 UTC]** Helicóptero da Força Aérea Brasileira assusta moradores com pouso de emergência em plantação de milho, no Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/14/pouso-emergencia-helicoptero-forca-aerea-brasileira-plantacao-parana.ghtml)_
+
