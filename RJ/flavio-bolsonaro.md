@@ -6151,3 +6151,6 @@
 - **[2026-10-14 16:06 UTC]** Líder do PL diz que pagamento por hora será aprovado como alternativa à PEC 6x1 se Flávio for eleito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lider-do-pl-diz-que-pagamento-por-hora-sera-aprovado-como-alternativa-a-pec-6x1-se-flavio-for-eleito.shtml)_
 
+- **[2026-10-14 15:59 UTC]** Aliados de Flávio reagem a carta de Lula aos evangélicos e convocam pastores por 'clamor à nação'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-de-flavio-reagem-a-carta-de-lula-aos-evangelicos-e-convocam-pastores-por-clamor-a-nacao.shtml)_
+
