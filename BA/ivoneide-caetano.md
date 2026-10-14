@@ -26,3 +26,6 @@
 - **[2026-09-30 10:34 UTC]** Facebook remove vídeo que acusava Caetano Veloso de tirar proveito da Lei Rouanet
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/facebook-remove-video-que-acusava-caetano-veloso-de-tirar-proveito-da-lei-rouanet.shtml)_
 
+- **[2026-10-14 00:10 UTC]** Caetano convoca ato pela democracia no Rio no mesmo dia de manifestação de Flávio na Paulista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caetano-convoca-ato-pela-democracia-no-rio-no-mesmo-dia-de-manifestacao-de-flavio-na-paulista.shtml)_
+
