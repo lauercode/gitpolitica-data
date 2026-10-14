@@ -5968,3 +5968,6 @@
 - **[2026-10-13 22:35 UTC]** Em disputa por bandeiras rivais, Flávio muda discurso sobre 6x1 e Lula faz aceno a empreendedores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-disputa-por-bandeiras-rivais-flavio-muda-discurso-sobre-6x1-e-lula-faz-aceno-a-empreendedores.shtml)_
 
+- **[2026-10-13 22:05 UTC]** TSE manda Nikolas e Flávio Bolsonaro removerem vídeo com crianças contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-manda-nikolas-e-flavio-bolsonaro-removerem-video-com-criancas-contra-lula.shtml)_
+
