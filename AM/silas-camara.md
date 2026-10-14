@@ -1472,3 +1472,6 @@ direitos
 - **[2026-10-14 11:23 UTC]** Parte do teto de túnel da Câmara desabou nesta quarta-feira
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira)_
 
+- **[2026-10-14 12:46 UTC]** Câmara dos Deputados abre concurso com salário de R$ 32 mil; veja cargos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/camara-dos-deputados-abre-concurso-com-salario-de-r-32-mil-veja-cargos.shtml)_
+
