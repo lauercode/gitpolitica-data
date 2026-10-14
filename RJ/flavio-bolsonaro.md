@@ -6145,3 +6145,6 @@
 - **[2026-10-14 18:11 UTC]** Quaest: Flávio Bolsonaro marca 46%, e Lula tem 44% no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-46-e-lula-tem-44-no-2o-turno.shtml)_
 
+- **[2026-10-14 17:37 UTC]** Flávio Bolsonaro defende liberação de canal 'Exército do Lula' após PT pedir punição igual para ambos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-bolsonaro-defende-liberacao-de-canal-exercito-do-lula-apos-pt-pedir-punicao-igual-para-ambos.shtml)_
+
