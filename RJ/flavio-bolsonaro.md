@@ -5974,3 +5974,6 @@
 - **[2026-10-13 21:16 UTC]** Plano viável de um Bolsonaro 2 depende de mais imposto e de algum estelionato eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/plano-viavel-de-um-bolsonaro-2-depende-de-mais-imposto-e-de-algum-estelionato-eleitoral.shtml)_
 
+- **[2026-10-13 20:50 UTC]** Tarcísio tinha expectativa de ser candidato a presidente, diz Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-tinha-expectativa-de-ser-candidato-a-presidente-diz-flavio-bolsonaro.shtml)_
+
