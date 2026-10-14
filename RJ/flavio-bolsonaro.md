@@ -5956,3 +5956,6 @@
 - **[2026-10-13 20:35 UTC]** Kassio reúne campanhas de Lula e Flávio e alerta para alta de ações
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-reune-campanhas-de-lula-e-flavio-e-alerta-para-alta-de-acoes)_
 
+- **[2026-10-13 21:14 UTC]** Eleições 2026: confira como foi a terça-feira de Flávio e Lula
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/eleicoes-2026-confira-como-foi-terca-feira-de-flavio-e-lula)_
+
