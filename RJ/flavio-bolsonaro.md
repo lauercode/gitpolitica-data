@@ -6100,3 +6100,6 @@
 - **[2026-10-14 10:07 UTC]** Meta AI cria propaganda para Flávio e veta material de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/meta-ai-se-recusa-a-fazer-material-eleitoral-para-lula-mas-cria-para-flavio.shtml)_
 
+- **[2026-10-14 17:17 UTC]** Flaviômetro monitora atuação de políticos nas redes em apoio a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flaviometro-monitora-atuacao-de-politicos-nas-redes-em-apoio-a-flavio-bolsonaro/)_
+
