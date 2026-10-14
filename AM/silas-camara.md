@@ -1481,3 +1481,6 @@ direitos
 - **[2026-10-14 19:35 UTC]** Partidos de centro da Câmara dos Deputados decidem manter bloco na próxima legislatura
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1311237-partidos-de-centro-da-camara-dos-deputados-decidem-manter-bloco-na-proxima-legislatura)_
 
+- **[2026-10-14 20:07 UTC]** Câmara inicia votações de hoje com análise de projeto sobre microempreendedor individual; acompanhe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311239-camara-inicia-votacoes-de-hoje-com-analise-de-projeto-sobre-microempreendedor-individual-acompanhe)_
+
