@@ -125,3 +125,6 @@
 - **[2026-10-13 19:31 UTC]** Vitória de Douglas Ruas no RJ amplia recorde de 21 governadores eleitos no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/eleicoes-2026-governadores-primeiro-turno-recorde.ghtml)_
 
+- **[2026-10-14 14:51 UTC]** Ricardo Couto oficializa nomes do governo que participarão da equipe de transição para Douglas Ruas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/ricardo-couto-oficializa-nomes-do-governo-que-participaro-da-equipe-de-transio-para-douglas-ruas.ghtml)_
+
