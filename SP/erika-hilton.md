@@ -95,3 +95,6 @@
 - **[2026-10-13 17:28 UTC]** Erika Hilton admite que pode trocar PSOL pelo PT em 2027
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/erika-hilton-admite-que-pode-trocar-psol-pelo-pt-em-2027/)_
 
+- **[2026-10-14 14:01 UTC]** Depois do “Exército de Lula”, Erika Hilton cria seu canal de apoio ao petista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/depois-exercito-lula-erika-hilton-cria-canal-apoio-petista/)_
+
