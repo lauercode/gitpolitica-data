@@ -6172,3 +6172,6 @@
 - **[2026-10-14 14:02 UTC]** Ex-ministro de FHC, Pedro Parente não declara voto, mas vê em Flávio risco de concentração de poder com vitória da direita no Congresso
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-14 19:49 UTC]** Flávio Bolsonaro promete 'obras de contenção' contra cheias no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/14/flavio-bolsonaro-porto-alegre.ghtml)_
+
