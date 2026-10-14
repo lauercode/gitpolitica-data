@@ -6055,3 +6055,6 @@
 - **[2026-10-14 10:46 UTC]** Governo Milei se diz otimista sobre vitória de Flávio e acusa Moraes de oportunismo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/governo-milei-diz-otimista-sobre-vitoria-flavio-acusa-moraes-oportunismo/)_
 
+- **[2026-10-14 07:48 UTC]** Ex-ministro de FHC, Pedro Parente vê em Flávio risco de concentração de poder
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss)_
+
