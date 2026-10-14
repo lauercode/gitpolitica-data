@@ -5962,3 +5962,6 @@
 - **[2026-10-14 00:48 UTC]** TSE determina reexibição de propaganda de Flávio Bolsonaro após programa ser veiculado sem áudio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/tse-determina-reexibicao-de-propaganda-de-flavio-bolsonaro-apos-programa-ser-veiculado-sem-audio.ghtml)_
 
+- **[2026-10-14 00:40 UTC]** TSE derruba propagandas que associam Lula e Flávio Bolsonaro ao crime organizado de forma genérica e fixa limites
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/tse-derruba-propagandas-que-associam-lula-e-flavio-bolsonaro-ao-crime-organizado-de-forma-generica-e-fixa-limites.ghtml)_
+
