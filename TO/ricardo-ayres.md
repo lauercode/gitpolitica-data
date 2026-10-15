@@ -83,3 +83,6 @@
 - **[2026-10-15 01:05 UTC]** 'Professor', brincalhão e influenciador: Como era Ayres Rocha atrás das câmeras
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/professor-brincalhao-e-influenciador-como-era-ayres-rocha-atras-das-cameras.ghtml)_
 
+- **[2026-10-15 13:11 UTC]** Corpo do jornalista Ayres Rocha é enterrado em Rio Branco; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/15/corpo-do-jornalista-ayres-rocha-e-enterrado-em-rio-branco.ghtml)_
+
