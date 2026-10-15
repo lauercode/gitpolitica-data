@@ -6325,3 +6325,6 @@
 - **[2026-10-15 09:51 UTC]** Dólar sobe com empate entre Flávio e Lula; Bolsa cai com avanço do fim da escala 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-com-empate-entre-flavio-e-lula-e-aprovacao-da-escala-6x1-no-radar.shtml)_
 
+- **[2026-10-15 13:57 UTC]** A ofensiva de Lula sobre eleitores de direita contra Flávio no 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ofensiva-de-lula-sobre-eleitores-de-direita-contra-flavio-segundo-turno/)_
+
