@@ -50,3 +50,6 @@
 - **[2026-10-14 20:20 UTC]** De Eduarda Campopiano a Ana Elisa: as estratégias das 18 jovens eleitas para o Legislativo em 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqm24394j9kvo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-14 22:15 UTC]** Justiça Eleitoral manda PF investigar Ana Elisa a pedido de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/justia-eleitoral-manda-pf-investigar-ana-elisa-a-pedido-de-flvio-bolsonaro.ghtml)_
+
