@@ -6211,3 +6211,6 @@
 - **[2026-10-14 19:49 UTC]** Flávio mente sobre escala 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/10/flavio-mente-sobre-escala-6x1.shtml)_
 
+- **[2026-10-14 22:38 UTC]** O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Mudei minha mentalidade'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss)_
+
