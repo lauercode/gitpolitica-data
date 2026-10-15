@@ -1496,3 +1496,6 @@ direitos
 - **[2026-10-14 21:08 UTC]** Motta inicia discussão no Plenário da Câmara de projetos que perdoam dívida do MEI e aumentam limite de faturamento
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/14/motta-inicia-discusso-no-plenrio-da-cmara-de-projetos-que-perdoam-dvida-do-mei-e-aumentam-limite-de-faturamento.ghtml)_
 
+- **[2026-10-14 20:09 UTC]** Câmara aprova aumento no limite de receita bruta do MEI
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/camara-aprova-aumento-no-limite-de-receita-bruta-do-mei)_
+
