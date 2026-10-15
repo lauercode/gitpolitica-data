@@ -6223,3 +6223,6 @@
 - **[2026-10-14 23:50 UTC]** Flávio sabe que 'não tem nada ganho', e não conseguiria governar com Moraes no STF, diz Eduardo Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/flavio-sabe-que-nao-tem-nada-ganho-e-nao-conseguiria-governar-com-moraes-no-stf-diz-eduardo-bolsonaro.ghtml)_
 
+- **[2026-10-14 23:23 UTC]** Campanhas de Lula e Flávio chegam a acordo para reduzir judicialização e cobram tratamento igualitário de 'big techs'
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/14/campanhas-de-lula-e-flavio-chegam-a-acordo-para-reduzir-judicializacao-e-cobram-tratamento-igualitario-de-big-techs.ghtml)_
+
