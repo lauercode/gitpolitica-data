@@ -6367,3 +6367,6 @@
 - **[2026-10-15 13:03 UTC]** Como votaram em Flávio Bolsonaro e Lula as cidades mais e menos eficientes do Brasil; confira a sua
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/como-votaram-em-flavio-bolsonaro-e-lula-as-cidades-mais-e-menos-eficientes-do-brasil-confira-a-sua.shtml)_
 
+- **[2026-10-15 13:00 UTC]** Ministério da Prosperidade proposto por Flávio Bolsonaro tem apelo evangélico e coaching
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ministerio-da-prosperidade-proposto-por-flavio-bolsonaro-tem-apelo-evangelico-e-coaching.shtml)_
+
