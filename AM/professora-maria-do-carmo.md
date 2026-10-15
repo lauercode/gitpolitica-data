@@ -110,3 +110,6 @@
 - **[2026-10-13 23:47 UTC]** Eleições no AM: Omar Aziz propõe contratar até 15 mil policiais, e Professora Maria do Carmo defende equipar efetivo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/eleicoes-no-am-omar-aziz-propoe-contratar-ate-15-mil-policiais-e-professora-maria-do-carmo-defende-equipar-efetivo.ghtml)_
 
+- **[2026-10-15 02:48 UTC]** Eleições no AM: Professora Maria do Carmo promete reduzir a pobreza no estado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/14/eleicoes-no-am-professora-maria-do-carmo-promete-reduzir-a-pobreza-no-estado.ghtml)_
+
