@@ -1526,3 +1526,6 @@ direitos
 - **[2026-10-15 01:08 UTC]** Câmara rejeita parecer sobre projeto de resolução que abria brecha para socorro do BRB pelo FGC
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/14/camara-rejeita-parecer-sobre-projeto-de-resolucao-que-abria-brecha-para-socorro-do-brb-pelo-fgc.ghtml)_
 
+- **[2026-10-15 11:52 UTC]** Câmara pode votar proposta que obriga SUS a aceitar exames da rede privada
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1311362-camara-pode-votar-proposta-que-obriga-sus-a-aceitar-exames-da-rede-privada)_
+
