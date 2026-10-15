@@ -6259,3 +6259,6 @@
 - **[2026-10-14 22:15 UTC]** 'Vamos nos posicionar', diz Flávio Bolsonaro a artistas de direita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/vamos-nos-posicionar-diz-flavio-bolsonaro-a-artistas-de-direita.shtml)_
 
+- **[2026-10-14 22:08 UTC]** Flávio Bolsonaro silencia e vota a distância pelo fim da escala 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-silencia-e-vota-a-distancia-pelo-fim-da-escala-6x1.shtml)_
+
