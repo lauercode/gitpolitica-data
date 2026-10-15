@@ -6307,3 +6307,6 @@
 - **[2026-10-15 13:56 UTC]** 'Tesouraço de Flávio': Mendonça paralisa julgamento após TSE formar maioria para derrubar sua decisão contra vídeo de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/tesouraco-de-flavio-mendonca-paralisa-julgamento-apos-tse-formar-maioria-para-derrubar-sua-decisao-contra-video-de-lula.ghtml)_
 
+- **[2026-10-15 12:51 UTC]** Presidente do TSE se reúne com Meta para tratar de IA que cria imagem 'Flávio 22', mas se recusa a fazer o mesmo com 'Lula 13'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/10/15/presidente-do-tse-se-reune-com-meta-para-tratar-de-ia-que-cria-imagem-flavio-22-mas-se-recusa-a-fazer-o-mesmo-com-lula-13.ghtml)_
+
