@@ -23,3 +23,6 @@
 - **[2026-10-09 17:28 UTC]** Governador eleito do PA, Daniel Santos anuncia secretário de Meio Ambiente
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/09/governador-eleito-do-pa-daniel-santos-anuncia-secretario-de-meio-ambiente.ghtml)_
 
+- **[2026-10-15 21:12 UTC]** Governador eleito do Pará, Daniel Santos anuncia equipe de transição; veja nomes
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/15/governador-eleito-do-para-daniel-santos-anuncia-equipe-de-transicao-veja-nomes.ghtml)_
+
