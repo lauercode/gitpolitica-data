@@ -6433,3 +6433,6 @@
 - **[2026-10-15 21:50 UTC]** Medo de Flávio? A minirreforma do “Centrão” para o Congresso
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/ultima-analise/medo-de-flavio-a-minirreforma-do-centrao-para-o-congresso/)_
 
+- **[2026-10-15 21:34 UTC]** Datafolha: Flávio Bolsonaro tem 47% e Lula, 45% das intenções de voto
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/datafolha-flavio-bolsonaro-tem-47percent-e-lula-45percent-das-intencoes-de-voto.ghtml)_
+
