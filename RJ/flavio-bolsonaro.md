@@ -6382,3 +6382,6 @@
 - **[2026-10-15 16:18 UTC]** Milei critica Lula, apoia Flávio Bolsonaro e faz discurso polêmico em Washington
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/milei-critica-lula-apoia-flavio-bolsonaro-e-faz-discurso-polemico-em-washington/)_
 
+- **[2026-10-15 14:44 UTC]** Por que apoio de Temer a Flávio inflama debate sobre negociação fora dos autos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/por-que-apoio-de-temer-a-flavio-inflama-debate-sobre-negociacao-fora-dos-autos/)_
+
