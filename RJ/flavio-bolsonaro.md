@@ -6352,3 +6352,6 @@
 - **[2026-10-14 19:17 UTC]** Partido de Flávio Bolsonaro vai insistir em votação da PEC das horas trabalhadas depois da eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-vai-insistir-em-votacao-da-pec-das-horas-trabalhadas-depois-da-eleicao-diz-lider-do-pl.ghtml)_
 
+- **[2026-10-15 15:16 UTC]** PL é antiliberal, e dianteira de Flávio reflete insatisfação, diz autor de 'Como as Democracias Morrem'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-e-antiliberal-e-dianteira-de-flavio-reflete-insatisfacao-diz-autor-de-como-as-democracias-morrem.shtml)_
+
