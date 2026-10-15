@@ -1538,3 +1538,6 @@ direitos
 - **[2026-10-15 18:26 UTC]** Câmara aprova MP que torna obrigatória a aprovação em exame para exercer a medicina; acompanhe
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311389-camara-aprova-mp-que-torna-obrigatoria-a-aprovacao-em-exame-para-exercer-a-medicina-acompanhe)_
 
+- **[2026-10-15 18:34 UTC]** 'OAB da Medicina': Câmara aprova medida que prevê obrigatoriedade de três provas durante o curso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-camara-aprova-medida-que-preve-obrigatoriedade-de-tres-provas-durante-o-curso.ghtml)_
+
