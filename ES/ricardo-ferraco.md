@@ -29,3 +29,6 @@
 - **[2026-10-14 21:51 UTC]** Quaest no ES: 45% avaliam gestão Ricardo Ferraço como positiva e 8%, como negativa
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/14/quaest-espirito-santo-avaliacao-governo-ricardo-ferraco-14-outubro.ghtml)_
 
+- **[2026-10-14 21:51 UTC]** Quaest no ES, 2º turno: Lorenzo Pazolini, 47%; Ricardo Ferraço, 38%
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/14/quaest-espirito-santo-governador-segundo-turno-14-outubro.ghtml)_
+
