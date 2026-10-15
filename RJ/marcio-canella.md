@@ -17,3 +17,6 @@
 - **[2026-10-15 17:00 UTC]** Preso hoje pela PF, Márcio Canella é o segundo deputado estadual mais votado no Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/preso-hoje-pela-pf-mrcio-canella-o-segundo-deputado-estadual-mais-votado-no-rio.ghtml)_
 
+- **[2026-10-15 19:59 UTC]** PF cita ligação de Márcio Canella com milícia e acordo com Comando Vermelho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/pf-cita-ligacao-de-marcio-canella-com-milicia-e-acordo-com-comando-vermelho.ghtml)_
+
