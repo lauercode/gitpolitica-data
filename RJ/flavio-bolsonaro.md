@@ -6355,3 +6355,6 @@
 - **[2026-10-15 15:16 UTC]** PL é antiliberal, e dianteira de Flávio reflete insatisfação, diz autor de 'Como as Democracias Morrem'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-e-antiliberal-e-dianteira-de-flavio-reflete-insatisfacao-diz-autor-de-como-as-democracias-morrem.shtml)_
 
+- **[2026-10-15 14:48 UTC]** TSE derruba decisão de Mendonça e barra posts em que Flávio acusa Lula de menosprezar garis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-derruba-decisao-de-mendonca-e-barra-posts-em-que-flavio-acusa-lula-de-menosprezar-garis.shtml)_
+
