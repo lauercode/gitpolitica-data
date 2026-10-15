@@ -407,3 +407,6 @@
 - **[2026-10-15 21:31 UTC]** Alcolumbre tira de pauta a PEC do Segurança
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/15/alcolumbre-tira-de-pauta-a-pec-do-seguranca.ghtml)_
 
+- **[2026-10-15 21:29 UTC]** Alcolumbre diz que vai promulgar fim da 6x1 e aposentadoria especial para agentes comunitários de saúde na sexta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/15/alcolumbre-diz-que-vai-promulgar-fim-da-6x1-e-aposentadoria-especial-para-agentes-comunitarios-de-saude.ghtml)_
+
