@@ -1121,3 +1121,6 @@
 - **[2026-10-14 20:20 UTC]** Sete erros do Lula 3 que poderão custar o fim da trajetória do presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/sete-erros-do-lula-3-que-poderao-custar-o-fim-da-trajetoria-do-presidente/)_
 
+- **[2026-10-15 11:45 UTC]** Valdemar minimiza efeito do fim da 6x1 para Lula e diz que só atende eleitores do presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/valdemar-minimiza-efeito-do-fim-da-6x1-para-lula-e-diz-que-so-atende-eleitores-do-presidente.shtml)_
+
