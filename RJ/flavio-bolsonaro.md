@@ -6328,3 +6328,6 @@
 - **[2026-10-15 13:57 UTC]** A ofensiva de Lula sobre eleitores de direita contra Flávio no 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ofensiva-de-lula-sobre-eleitores-de-direita-contra-flavio-segundo-turno/)_
 
+- **[2026-10-15 12:42 UTC]** Wilson Grassi Júnior anuncia apoio a Flávio Bolsonaro e cobra propostas para causa animal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/wilson-grassi-junior-anuncia-apoio-a-flavio-bolsonaro-e-cobra-propostas-para-causa-animal/)_
+
