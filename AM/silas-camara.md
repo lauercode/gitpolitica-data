@@ -1535,3 +1535,6 @@ direitos
 - **[2026-10-15 08:34 UTC]** Câmara aprova perdão de dívidas e aumento de limites para MEIs
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/camara-aprova-perdao-de-dividas-e-aumento-de-limites-para-meis)_
 
+- **[2026-10-15 18:26 UTC]** Câmara aprova MP que torna obrigatória a aprovação em exame para exercer a medicina; acompanhe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311389-camara-aprova-mp-que-torna-obrigatoria-a-aprovacao-em-exame-para-exercer-a-medicina-acompanhe)_
+
