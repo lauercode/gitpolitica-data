@@ -104,3 +104,6 @@
 - **[2026-10-14 21:03 UTC]** Ato pró-Flávio de alunos do Mackenzie tem clima de festa e coro transfóbico contra Erika Hilton
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-pro-flavio-de-alunos-do-mackenzie-tem-clima-de-festa-e-coro-transfobico-contra-erika-hilton.shtml)_
 
+- **[2026-10-14 23:39 UTC]** Flávio Bolsonaro votou a favor do fim da 6x1 em 'manobra eleitoreira', diz Erika Hilton
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/flavio-bolsonaro-votou-a-favor-do-fim-da-6x1-em-manobra-eleitoreira-diz-erika-hilton.shtml)_
+
