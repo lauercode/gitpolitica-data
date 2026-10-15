@@ -20,3 +20,6 @@
 - **[2026-10-05 00:25 UTC]** Rui Costa e Jaques Wagner, ambos do PT,  estão eleitos para o Senado pela Bahia
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/rui-costa-e-jaques-wagner-estao-eleitos-para-o-senado-pela-bahia.ghtml)_
 
+- **[2026-10-15 20:17 UTC]** Rui Costa diz que governo avalia apoiar revisão da maioridade penal 'em outro momento'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/rui-costa-diz-que-governo-avalia-apoiar-revisao-da-maioridade-penal-em-outro-momento.ghtml)_
+
