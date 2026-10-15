@@ -6283,3 +6283,6 @@
 - **[2026-10-15 06:00 UTC]** Coordenador de Flávio queria votar contra fim da 6x1, mas recuou após pressão do PL
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/coordenador-de-flavio-queria-votar-contra-fim-da-6x1-mas-recuou-apos-pressao-do-pl.shtml)_
 
+- **[2026-10-15 05:00 UTC]** Podcast analisa estratégias de Lula e Flávio Bolsonaro com aprovação da 6x1 e atos de rua
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-analisa-estrategias-de-lula-e-flavio-bolsonaro-com-aprovacao-da-6x1-e-atos-de-rua.shtml)_
+
