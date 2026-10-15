@@ -6298,3 +6298,6 @@
 - **[2026-10-15 08:30 UTC]** Flávio quer escolas militares; Lula propõe ampliar educação integral
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/flavio-quer-escolas-militares-lula-propoe-ampliar-educacao-integral)_
 
+- **[2026-10-15 10:33 UTC]** Campanha de Flávio pede ao TSE retirada de 221 posts e 32 perfis
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/campanha-de-flavio-bolsonaro-pede-ao-tse-retirada-de-221-posts)_
+
