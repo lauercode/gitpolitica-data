@@ -6301,3 +6301,6 @@
 - **[2026-10-15 10:33 UTC]** Campanha de Flávio pede ao TSE retirada de 221 posts e 32 perfis
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/campanha-de-flavio-bolsonaro-pede-ao-tse-retirada-de-221-posts)_
 
+- **[2026-10-15 08:23 UTC]** Lula e Flávio Bolsonaro cumprem agendas a dez dias do 1º turno
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/lula-e-flavio-bolsonaro-cumprem-agendas-dez-dias-do-1o-turno)_
+
