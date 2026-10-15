@@ -6193,3 +6193,6 @@
 - **[2026-10-14 23:29 UTC]** Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL, na sexta (16)
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml)_
 
+- **[2026-10-14 23:25 UTC]** Flávio Bolsonaro foi cadastrado como 'usuário master' em conta bancária de empresa de advogado investigado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-foi-cadastrado-como-usuario-master-em-conta-bancaria-de-empresa-de-advogado-investigado.ghtml)_
+
