@@ -6190,3 +6190,6 @@
 - **[2026-10-14 20:21 UTC]** Lula divulga carta a evangélicos; Flávio faz campanha em Porto Alegre
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-divulga-carta-evangelicos-flavio-faz-campanha-em-porto-alegre)_
 
+- **[2026-10-14 23:29 UTC]** Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL, na sexta (16)
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml)_
+
