@@ -6292,3 +6292,6 @@
 - **[2026-10-15 08:00 UTC]** Flávio vai ao RS e mira vantagem de Lula na capital
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/flavio-vai-ao-rs-e-mira-vantagem-de-lula-na-capital.ghtml)_
 
+- **[2026-10-15 08:00 UTC]** Em empate técnico, Flávio tem 46% e Lula, 44%, aponta Quaest
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/15/em-empate-tecnico-flavio-tem-46-e-lula-44-aponta-quaest.ghtml)_
+
