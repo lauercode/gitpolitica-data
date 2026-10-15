@@ -53,3 +53,6 @@
 - **[2026-10-14 20:42 UTC]** Centrão reúne 10 partidos e declara apoio à reeleição de Hugo Motta em 2027
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/centrao-reune-10-partidos-declara-apoio-reeleicao-hugo-motta-2027/)_
 
+- **[2026-10-14 23:10 UTC]** Hugo Motta destaca aprovação quase unânime de novo limite para enquadramento de MEI
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311316-hugo-motta-destaca-aprovacao-quase-unanime-de-novo-limite-para-enquadramento-de-mei)_
+
