@@ -6187,3 +6187,6 @@
 - **[2026-10-14 18:15 UTC]** Flávio Bolsonaro quer incluir redução da maioridade penal na PEC da Segurança Pública
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/flavio-bolsonaro-quer-incluir-reducao-da-maioridade-penal-na-pec-da-seguranca-publica.ghtml)_
 
+- **[2026-10-14 20:21 UTC]** Lula divulga carta a evangélicos; Flávio faz campanha em Porto Alegre
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-divulga-carta-evangelicos-flavio-faz-campanha-em-porto-alegre)_
+
