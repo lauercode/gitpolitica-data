@@ -6388,3 +6388,6 @@
 - **[2026-10-15 18:02 UTC]** Distância entre Flávio e Lula é de 3 pontos no agregador de pesquisas da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-15 18:03 UTC]** Auditores da Receita sugerem em nota que Flávio Bolsonaro pode interferir no órgão
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/auditores-da-receita-sugerem-em-nota-que-flavio-bolsonaro-pode-interferir-no-orgao.ghtml)_
+
