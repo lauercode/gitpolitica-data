@@ -170,3 +170,6 @@
 - **[2026-10-13 18:14 UTC]** Conflitos deixam três mortos na Terra Indígena de Votouro, no Norte do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/13/conflito-terra-indigena-votouro-mortos.ghtml)_
 
+- **[2026-10-14 20:52 UTC]** MG: principal foco de incêndio em Terra Indígena Maxakali é controlado
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-10/mg-principal-foco-de-incendio-em-terra-indigena-maxakali-e-controlado)_
+
