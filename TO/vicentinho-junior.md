@@ -47,3 +47,6 @@
 - **[2026-10-14 19:32 UTC]** Quaest: Vicentinho Júnior tem 49% no Tocantins, ante 42% de Professora Dorinha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-vicentinho-junior-tem-49-no-tocantins-ante-42-de-professora-dorinha.shtml)_
 
+- **[2026-10-14 22:14 UTC]** Quaest no TO, segundo turno: Vicentinho Júnior, 49%; Professora Dorinha, 42%
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/14/quaest-to-governador-segundo-turno-14-outubro.ghtml)_
+
