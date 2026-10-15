@@ -23,3 +23,6 @@
 - **[2026-10-08 19:38 UTC]** Resultado das eleições 2026 em Lagoa Grande do Maranhão (MA): votação para presidente na Unidade Escolar Maria de Lourdes Oliveira Santos, na 74ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/08/resultado-das-eleicoes-2026-em-lagoa-grande-do-maranhao-ma-votacao-para-presidente-na-unidade-escolar-maria-de-lourdes-oliveira-santos-na-74a-zona-eleitoral.ghtml)_
 
+- **[2026-10-08 19:38 UTC]** Unidade Escolar Maria de Lourdes Oliveira Santos, 74ª zona eleitoral: resultado da votação em Lagoa Grande do Maranhão (MA) no 1º turno
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/08/resultado-das-eleicoes-2026-em-lagoa-grande-do-maranhao-ma-votacao-para-presidente-na-unidade-escolar-maria-de-lourdes-oliveira-santos-na-74a-zona-eleitoral.ghtml)_
+
