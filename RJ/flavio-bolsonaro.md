@@ -6247,3 +6247,6 @@
 - **[2026-10-15 00:51 UTC]** Ausente nas discussões, Flávio Bolsonaro cede a pressão e vota a favor da PEC do fim do 6x1
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/ausente-nas-discussoes-flavio-bolsonaro-cede-a-pressao-e-vota-a-favor-da-pec-do-fim-do-6x1.ghtml)_
 
+- **[2026-10-14 23:39 UTC]** Flávio Bolsonaro votou a favor do fim da 6x1 em 'manobra eleitoreira', diz Erika Hilton
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/flavio-bolsonaro-votou-a-favor-do-fim-da-6x1-em-manobra-eleitoreira-diz-erika-hilton.shtml)_
+
