@@ -6256,3 +6256,6 @@
 - **[2026-10-14 23:00 UTC]** Aliados de Flávio Bolsonaro preparam reação diante de multidão reunida por Lula na Paulista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-bolsonaro-preparam-reacao-diante-de-multidao-reunida-por-lula-na-paulista.shtml)_
 
+- **[2026-10-14 22:15 UTC]** 'Vamos nos posicionar', diz Flávio Bolsonaro a artistas de direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/vamos-nos-posicionar-diz-flavio-bolsonaro-a-artistas-de-direita.shtml)_
+
