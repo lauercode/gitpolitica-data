@@ -77,3 +77,6 @@
 - **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Talismã (TO): votação para presidente na Escola Municipal Adão Gomes de Melo, na 14ª zona eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-talisma-to-votacao-para-presidente-na-escola-municipal-adao-gomes-de-melo-na-14a-zona-eleitoral.ghtml)_
 
+- **[2026-10-15 21:24 UTC]** Prefeitura inicia recapeamento da avenida Mário Homem de Melo
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/especial-publicitario/prefeitura-de-boa-vista/boa-vista-a-capital-modelo-da-amazonia/noticia/2026/10/15/prefeitura-inicia-recapeamento-da-avenida-mario-homem-de-melo.ghtml)_
+
