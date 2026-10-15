@@ -1514,3 +1514,6 @@ direitos
 - **[2026-10-14 23:12 UTC]** Câmara aprova perdão de dívidas do MEI e aumento do teto
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/camara-aprova-perdao-de-dividas-do-mei-e-aumento-do-teto/)_
 
+- **[2026-10-14 23:10 UTC]** Por 461 a 4, Câmara aprova projeto de lei que perdoa dívida do MEI e aumenta limite de faturamento
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/14/por-461-a-4-cmara-aprova-projeto-de-lei-que-perdoa-dvida-do-mei-e-aumenta-limite-de-faturamento.ghtml)_
+
