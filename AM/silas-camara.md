@@ -1517,3 +1517,6 @@ direitos
 - **[2026-10-14 23:10 UTC]** Por 461 a 4, Câmara aprova projeto de lei que perdoa dívida do MEI e aumenta limite de faturamento
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/14/por-461-a-4-cmara-aprova-projeto-de-lei-que-perdoa-dvida-do-mei-e-aumenta-limite-de-faturamento.ghtml)_
 
+- **[2026-10-15 00:29 UTC]** Câmara rejeita criação de novo regime para socorrer ou liquidar bancos
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311331-camara-rejeita-criacao-de-novo-regime-para-socorrer-ou-liquidar-bancos)_
+
