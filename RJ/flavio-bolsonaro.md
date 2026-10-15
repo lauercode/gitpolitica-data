@@ -6331,3 +6331,6 @@
 - **[2026-10-15 12:42 UTC]** Wilson Grassi Júnior anuncia apoio a Flávio Bolsonaro e cobra propostas para causa animal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/wilson-grassi-junior-anuncia-apoio-a-flavio-bolsonaro-e-cobra-propostas-para-causa-animal/)_
 
+- **[2026-10-15 10:37 UTC]** Netanyahu chama Lula de faraó e projeta ir à posse de Flávio no “pequeno país” Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/netanyahu-chama-lula-farao-projeta-ir-posse-flavio-pequeno-pais-brasil/)_
+
