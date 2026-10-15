@@ -56,3 +56,6 @@
 - **[2026-10-14 23:10 UTC]** Hugo Motta destaca aprovação quase unânime de novo limite para enquadramento de MEI
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311316-hugo-motta-destaca-aprovacao-quase-unanime-de-novo-limite-para-enquadramento-de-mei)_
 
+- **[2026-10-15 11:06 UTC]** Hugo Motta comemora aprovação do fim da escala 6x1 no Senado
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311348-hugo-motta-comemora-aprovacao-do-fim-da-escala-6x1-no-senado)_
+
