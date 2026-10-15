@@ -6217,3 +6217,6 @@
 - **[2026-10-14 19:49 UTC]** PEC da Segurança: Flávio Bolsonaro defende redução da maioridade penal para 14 anos em casos de estupro durante agenda no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/14/flavio-bolsonaro-porto-alegre.ghtml)_
 
+- **[2026-10-14 22:15 UTC]** Quaest no TO, 2º turno: Flávio Bolsonaro, 48%; Lula, 42%
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/14/quaest-to-presidente-segundo-turno-14-outubro.ghtml)_
+
