@@ -6430,3 +6430,6 @@
 - **[2026-10-15 18:45 UTC]** Michel Temer sinaliza apoio a Flávio Bolsonaro e gera especulações de acordos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michel-temer-sinaliza-apoio-a-flavio-bolsonaro-e-gera-especulacoes-de-acordos/)_
 
+- **[2026-10-15 21:50 UTC]** Medo de Flávio? A minirreforma do “Centrão” para o Congresso
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/ultima-analise/medo-de-flavio-a-minirreforma-do-centrao-para-o-congresso/)_
+
