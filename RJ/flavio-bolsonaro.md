@@ -6403,3 +6403,6 @@
 - **[2026-10-15 15:51 UTC]** Conheça as propostas de Lula e Flávio para enfrentar a crise climática
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/conheca-propostas-de-lula-e-flavio-para-enfrentar-crise-climatica)_
 
+- **[2026-10-15 21:32 UTC]** Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml)_
+
