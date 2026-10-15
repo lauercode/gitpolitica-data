@@ -6391,3 +6391,6 @@
 - **[2026-10-15 18:03 UTC]** Auditores da Receita sugerem em nota que Flávio Bolsonaro pode interferir no órgão
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/auditores-da-receita-sugerem-em-nota-que-flavio-bolsonaro-pode-interferir-no-orgao.ghtml)_
 
+- **[2026-10-15 17:04 UTC]** Mendonça suspende sessão atrasa liberação de vídeo que associa Flávio a ‘tesouraço’ em programas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/mendonca-suspende-sessao-atrasa-liberacao-de-video-que-associa-flavio-a-tesouraco-em-programas.ghtml)_
+
