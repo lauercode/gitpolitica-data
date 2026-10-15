@@ -1505,3 +1505,6 @@ direitos
 - **[2026-10-14 22:43 UTC]** Câmara aprova projeto que amplia limite do MEI e perdoa dívidas de inadimplentes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/camara-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml)_
 
+- **[2026-10-14 19:52 UTC]** Após apoio do centrão, petistas articulam endosso à reeleição de Motta como presidente da Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/apos-apoio-do-centrao-petistas-articulam-endosso-a-reeleicao-de-hugo-motta-como-presidente-da-camara.shtml)_
+
