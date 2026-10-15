@@ -1520,3 +1520,6 @@ direitos
 - **[2026-10-15 00:29 UTC]** Câmara rejeita criação de novo regime para socorrer ou liquidar bancos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311331-camara-rejeita-criacao-de-novo-regime-para-socorrer-ou-liquidar-bancos)_
 
+- **[2026-10-14 22:23 UTC]** Centrão tenta emplacar socorro a bancos em crise, mas Câmara rejeita proposta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/centrao-tenta-emplacar-socorro-a-bancos-em-crise-mas-camara-rejeita-proposta.shtml)_
+
