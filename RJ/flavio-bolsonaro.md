@@ -6253,3 +6253,6 @@
 - **[2026-10-14 23:00 UTC]** Empresário da Faria Lima vota em Flávio Bolsonaro porque ele tomará medidas impopulares na economia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/empresario-da-faria-lima-vota-em-flavio-bolsonaro-porque-ele-tomara-medidas-impopulares-na-economia.shtml)_
 
+- **[2026-10-14 23:00 UTC]** Aliados de Flávio Bolsonaro preparam reação diante de multidão reunida por Lula na Paulista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-bolsonaro-preparam-reacao-diante-de-multidao-reunida-por-lula-na-paulista.shtml)_
+
