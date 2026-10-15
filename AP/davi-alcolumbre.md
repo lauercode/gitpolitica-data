@@ -401,3 +401,6 @@
 - **[2026-10-15 02:25 UTC]** “Eu não falei que ia dar certo?”, diz Alcolumbre a líder do PT após aprovação do fim da escala 6×1
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eu-nao-falei-que-ia-dar-certo-diz-alcolumbre-a-lider-do-pt-apos-aprovacao-do-fim-da-escala-6x1/)_
 
+- **[2026-10-15 08:34 UTC]** Pacheco volta a ganhar força para o STF depois de Alcolumbre ajudar Lula a aprovar o fim da 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pacheco-ganha-forca-para-o-stf-depois-de-alcolumbre-ajudar-lula-a-aprovar-o-fim-da-6x1.shtml)_
+
