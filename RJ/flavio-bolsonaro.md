@@ -6334,3 +6334,6 @@
 - **[2026-10-15 10:37 UTC]** Netanyahu chama Lula de faraó e projeta ir à posse de Flávio no “pequeno país” Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/netanyahu-chama-lula-farao-projeta-ir-posse-flavio-pequeno-pais-brasil/)_
 
+- **[2026-10-15 09:30 UTC]** Distância entre Flávio e Lula diminui para 2 pontos, mostra agregador de pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
