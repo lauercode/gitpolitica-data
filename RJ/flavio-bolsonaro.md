@@ -6349,3 +6349,6 @@
 - **[2026-10-15 12:51 UTC]** Meta presta esclarecimentos ao TSE após IA criar imagem 'Flávio 22', mas se recusar a fazer o mesmo com 'Lula 13'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/10/15/presidente-do-tse-se-reune-com-meta-para-tratar-de-ia-que-cria-imagem-flavio-22-mas-se-recusa-a-fazer-o-mesmo-com-lula-13.ghtml)_
 
+- **[2026-10-14 19:17 UTC]** Partido de Flávio Bolsonaro vai insistir em votação da PEC das horas trabalhadas depois da eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-vai-insistir-em-votacao-da-pec-das-horas-trabalhadas-depois-da-eleicao-diz-lider-do-pl.ghtml)_
+
