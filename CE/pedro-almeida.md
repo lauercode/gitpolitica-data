@@ -8,3 +8,6 @@
 - **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Itaporanga d'Ajuda (SE): votação para presidente no Pedro Almeida Valadares, E.E., na 31ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-itaporanga-d-ajuda-se-votacao-para-presidente-no-pedro-almeida-valadares-e-e-na-31a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:57 UTC]** PEDRO Almeida Valadares, E.E., 31ª zona eleitoral: resultado da votação em Itaporanga Dajuda (SE) no 1º turno
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-itaporanga-d-ajuda-se-votacao-para-presidente-no-pedro-almeida-valadares-e-e-na-31a-zona-eleitoral.ghtml)_
+
