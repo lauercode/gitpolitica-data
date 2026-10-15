@@ -6427,3 +6427,6 @@
 - **[2026-10-15 14:01 UTC]** Dólar dispara e Bolsa cai com empate técnico entre Flávio e Lula e avanço do fim da escala 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-com-empate-entre-flavio-e-lula-e-aprovacao-da-escala-6x1-no-radar.shtml)_
 
+- **[2026-10-15 18:45 UTC]** Michel Temer sinaliza apoio a Flávio Bolsonaro e gera especulações de acordos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michel-temer-sinaliza-apoio-a-flavio-bolsonaro-e-gera-especulacoes-de-acordos/)_
+
