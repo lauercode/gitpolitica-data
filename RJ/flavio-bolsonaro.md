@@ -6421,3 +6421,6 @@
 - **[2026-10-15 15:49 UTC]** Fim da escala 6x1 dá nó tático em Flávio, que aposta na segurança para contra-atacar; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/fim-da-escala-6x1-da-no-tatico-em-flavio-que-aposta-na-seguranca-para-contra-atacar-veja-video.shtml)_
 
+- **[2026-10-15 14:48 UTC]** TSE derruba decisão de Mendonça e barra posts em que Flávio associa Lula a escândalo do INSS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-derruba-decisao-de-mendonca-e-barra-posts-em-que-flavio-acusa-lula-de-menosprezar-garis.shtml)_
+
