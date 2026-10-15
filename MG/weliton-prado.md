@@ -44,3 +44,6 @@
 - **[2026-10-06 06:00 UTC]** Estrategistas comemoram votações recorde de Tarcísio, Derrite e Prado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/estrategistas-comemoram-votacoes-recorde-de-tarcisio-derrite-e-prado.shtml)_
 
+- **[2026-10-15 16:39 UTC]** PL quer acabar com reeleição na presidência da Alesp e expõe racha por sucessão de Prado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pl-quer-acabar-com-reeleicao-na-presidencia-da-alesp-e-expoe-racha-por-sucessao-de-prado.shtml)_
+
