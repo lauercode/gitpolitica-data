@@ -80,3 +80,6 @@
 - **[2026-10-14 22:31 UTC]** Parentes, amigos e colegas de profissão se despedem de Ayres Rocha: 'Viam como alguém da família'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/parentes-amigos-e-colegas-de-profissao-se-despedem-de-ayres-rocha-viam-como-alguem-da-familia.ghtml)_
 
+- **[2026-10-15 01:05 UTC]** 'Professor', brincalhão e influenciador: Como era Ayres Rocha atrás das câmeras
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/professor-brincalhao-e-influenciador-como-era-ayres-rocha-atras-das-cameras.ghtml)_
+
