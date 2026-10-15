@@ -6235,3 +6235,6 @@
 - **[2026-10-14 22:15 UTC]** Justiça Eleitoral manda PF investigar Ana Elisa a pedido de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/justia-eleitoral-manda-pf-investigar-ana-elisa-a-pedido-de-flvio-bolsonaro.ghtml)_
 
+- **[2026-10-14 22:27 UTC]** Lula reforça compromisso com evangélicos; Flávio recebe apoio no RS
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-reforca-compromisso-com-evangelicos-flavio-recebe-apoio-no-rs)_
+
