@@ -173,3 +173,6 @@
 - **[2026-10-14 14:08 UTC]** Helicóptero da Força Aérea Brasileira assusta moradores com pouso de emergência em plantação de milho, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/14/pouso-emergencia-helicoptero-forca-aerea-brasileira-plantacao-parana.ghtml)_
 
+- **[2026-10-15 13:20 UTC]** Força Aérea Brasileira diz que helicóptero fez 'pouso de segurança' em plantação do PR devido às condições meteorológicas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/15/seguranca-pouso-helicoptero-forca-aerea-brasileira-plantacao-parana.ghtml)_
+
