@@ -161,3 +161,6 @@
 - **[2026-10-14 20:31 UTC]** Cadu de Lula promete colocar RN entre os dez melhores do país no Ideb até 2030
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/14/cadu-de-lula-promete-colocar-rn-entre-os-dez-melhores-do-pais-no-ideb-ate-2030.ghtml)_
 
+- **[2026-10-15 09:00 UTC]** Segurança pública: veja as propostas de Allyson Bezerra e Cadu de Lula para o RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/15/seguranca-publica-veja-as-propostas-de-allyson-bezerra-e-cadu-de-lula-para-o-rn.ghtml)_
+
