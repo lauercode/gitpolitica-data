@@ -302,3 +302,6 @@
 - **[2026-10-07 01:57 UTC]** Escola Estadual Prof. Vanda Maria de Souza Cabete, 7ª zona eleitoral: resultado da votação em Laranjal do Jari (AP) no 1º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-laranjal-do-jari-ap-votacao-para-presidente-na-escola-estadual-prof-vanda-maria-de-souza-cabete-na-7a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:56 UTC]** Escola Estadual Jesus Nazareno de Souza Cruz, 1ª zona eleitoral: resultado da votação em Boa Vista (RR) no 1º turno
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-jesus-nazareno-de-souza-cruz-na-1a-zona-eleitoral.ghtml)_
+
