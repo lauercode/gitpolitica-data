@@ -6277,3 +6277,6 @@
 - **[2026-10-15 01:10 UTC]** Como Flávio Bolsonaro votou na PEC que acaba com a escala 6x1?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/14/como-flavio-bolsonaro-votou-na-pec-que-acaba-com-a-escala-6x1.ghtml)_
 
+- **[2026-10-14 20:28 UTC]** Campanha de Lula pede ao TSE suspensão do 'Tropa do Flávio' no WhatsApp
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/campanha-de-lula-pede-que-tse-aplique-mesma-regra-de-suspenso-temporria-a-canal-tropa-do-flvio.ghtml)_
+
