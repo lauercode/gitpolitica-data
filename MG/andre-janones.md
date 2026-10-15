@@ -104,3 +104,6 @@
 - **[2026-10-14 16:22 UTC]** Kassio se reúne com Janones para discutir 'Exército do Lula' no WhatsApp
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-deve-se-reunir-com-janones-para-discutir-exercito-do-lula-no-whatsapp.shtml)_
 
+- **[2026-10-14 23:11 UTC]** Lula vai comprar celular se canal no WhatsApp chegar a 5 milhões, diz Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vai-comprar-celular-se-canal-no-whatsapp-chegar-a-5-milhoes-diz-janones.shtml)_
+
