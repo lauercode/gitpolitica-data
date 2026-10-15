@@ -6232,3 +6232,6 @@
 - **[2026-10-14 22:28 UTC]** Quaest: Medo da volta da família Bolsonaro empata com medo da reeleição de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/quaest-medo-da-volta-da-familia-bolsonaro-empata-com-medo-da-reeleicao-de-lula.ghtml)_
 
+- **[2026-10-14 22:15 UTC]** Justiça Eleitoral manda PF investigar Ana Elisa a pedido de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/justia-eleitoral-manda-pf-investigar-ana-elisa-a-pedido-de-flvio-bolsonaro.ghtml)_
+
