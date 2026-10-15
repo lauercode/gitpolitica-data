@@ -413,3 +413,6 @@
 - **[2026-10-15 18:48 UTC]** Alcolumbre adia votação da PEC da Segurança após racha no PT e disputa com PL sobre redução da maioridade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/alcolumbre-adia-votacao-da-pec-da-seguranca-apos-racha-no-pt-e-disputa-com-pl-sobre-reducao-da-maioridade.shtml)_
 
+- **[2026-10-15 20:12 UTC]** Alcolumbre confirma para esta quinta-feira votação de projeto que altera teto do MEI
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/alcolumbre-confirma-para-esta-quinta-feira-votacao-de-projeto-que-altera-teto-do-mei.ghtml)_
+
