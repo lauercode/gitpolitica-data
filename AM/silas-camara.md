@@ -1502,3 +1502,6 @@ direitos
 - **[2026-10-14 22:44 UTC]** Câmara aprova novo limite de enquadramento para microempreendedor individual e inclui perdão de dívidas
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311288-camara-aprova-novo-limite-de-enquadramento-para-microempreendedor-individual-e-inclui-perdao-de-dividas)_
 
+- **[2026-10-14 22:43 UTC]** Câmara aprova projeto que amplia limite do MEI e perdoa dívidas de inadimplentes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/camara-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml)_
+
