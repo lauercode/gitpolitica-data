@@ -6289,3 +6289,6 @@
 - **[2026-10-15 09:00 UTC]** Compare o preço da gasolina nos governos Lula e Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/compare-o-preco-da-gasolina-nos-governos-lula-e-bolsonaro.ghtml)_
 
+- **[2026-10-15 08:00 UTC]** Flávio vai ao RS e mira vantagem de Lula na capital
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/flavio-vai-ao-rs-e-mira-vantagem-de-lula-na-capital.ghtml)_
+
