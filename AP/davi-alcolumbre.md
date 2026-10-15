@@ -395,3 +395,6 @@
 - **[2026-10-14 21:28 UTC]** Alcolumbre dobra a aposta para buscar sua reeleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/alcolumbre-dobra-a-aposta-para-buscar-sua-reeleicao.shtml)_
 
+- **[2026-10-15 02:31 UTC]** Alcolumbre prevê votação da PEC da Segurança para esta quinta após rito acelerado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-preve-votacao-da-pec-da-seguranca-para-esta-quinta-apos-rito-acelerado/)_
+
