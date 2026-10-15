@@ -11,3 +11,6 @@
 - **[2026-10-05 03:06 UTC]** Eleições 2026: Júnior Ferrari (PSD) é eleito deputado federal pelo Pará
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-junior-ferrari-psd-e-eleito-deputado-federal-pelo-para.ghtml)_
 
+- **[2026-10-15 17:53 UTC]** Rafa Câmara chega à F1 em 2027 inspirado pela avó e moldado pela Ferrari
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/rafa-camara-chega-a-f1-em-2027-inspirado-pela-avo-e-moldado-pela-ferrari.shtml)_
+
