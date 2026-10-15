@@ -68,3 +68,6 @@
 - **[2026-10-07 02:00 UTC]** Resultado das eleições 2026 em Salgado (SE): votação para presidente no Francisco Barbosa, C.E. (Antigo Raimundo Araujo), na 31ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-salgado-se-votacao-para-presidente-no-francisco-barbosa-c-e-antigo-raimundo-araujo-na-31a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 02:00 UTC]** Francisco Barbosa, C.E. (Antigo Raimundo Araujo), 31ª zona eleitoral: resultado da votação em Salgado (SE) no 1º turno
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-salgado-se-votacao-para-presidente-no-francisco-barbosa-c-e-antigo-raimundo-araujo-na-31a-zona-eleitoral.ghtml)_
+
