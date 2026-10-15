@@ -167,3 +167,6 @@
 - **[2026-10-15 14:24 UTC]** Cadu de Lula é entrevistado no Inter 1
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/entrevista-candidatos-rn-segundo-turno.ghtml)_
 
+- **[2026-10-15 16:56 UTC]** Cadu de Lula (PT) diz que vai construir 3ª ponte em Natal e promete 100% das escolas em tempo integral; veja íntegra
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/15/cadu-de-lula-pt-diz-que-vai-construir-3a-ponte-em-natal-e-promete-100percent-das-escolas-em-tempo-integral-veja-integra.ghtml)_
+
