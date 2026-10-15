@@ -6226,3 +6226,6 @@
 - **[2026-10-14 23:23 UTC]** Campanhas de Lula e Flávio chegam a acordo para reduzir judicialização e cobram tratamento igualitário de 'big techs'
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/14/campanhas-de-lula-e-flavio-chegam-a-acordo-para-reduzir-judicializacao-e-cobram-tratamento-igualitario-de-big-techs.ghtml)_
 
+- **[2026-10-14 23:22 UTC]** PT comemora rejeição maior de Flávio e queda na desaprovação de Lula na pesquisa Quaest
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/pt-comemora-rejeicao-maior-de-flavio-e-queda-na-desaprovacao-de-lula-na-pesquisa-quaest.ghtml)_
+
