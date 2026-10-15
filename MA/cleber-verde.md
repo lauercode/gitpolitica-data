@@ -47,3 +47,6 @@
 - **[2026-10-13 08:00 UTC]** Com venda para a Vinci, Verde busca novos caminhos
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/13/com-venda-para-a-vinci-verde-busca-novos-caminhos.ghtml)_
 
+- **[2026-10-06 22:28 UTC]** COLINA Verde - Escola Estadual, 16ª zona eleitoral: resultado da votação em Corumbiara (RO) no 1º turno
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-corumbiara-ro-votacao-para-presidente-no-colina-verde-escola-estadual-na-16a-zona-eleitoral.ghtml)_
+
