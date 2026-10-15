@@ -6319,3 +6319,6 @@
 - **[2026-10-15 10:21 UTC]** Kassio tira restrições de perfis de políticos eleitos no 1º turno e beneficia Flávio Bolsonaro nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-tira-restricoes-de-perfis-de-politicos-eleitos-no-1o-turno-e-beneficia-flavio-bolsonaro-nas-redes.shtml)_
 
+- **[2026-10-15 10:09 UTC]** Por eleição, Lula e Flávio assumem causas que renegaram
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/por-eleicao-lula-e-flavio-assumem-causas-que-renegaram.shtml)_
+
