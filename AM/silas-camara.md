@@ -1508,3 +1508,6 @@ direitos
 - **[2026-10-14 19:52 UTC]** Após apoio do centrão, petistas articulam endosso à reeleição de Motta como presidente da Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/apos-apoio-do-centrao-petistas-articulam-endosso-a-reeleicao-de-hugo-motta-como-presidente-da-camara.shtml)_
 
+- **[2026-10-14 16:51 UTC]** Câmara aprova aumento do teto de MEI e perdão de R$ 15 bi em dívidas em vitória para Lula a 11 dias do 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/camara-deve-votar-nesta-quarta-14-perdao-de-dividas-do-mei-e-aumento-do-teto-apos-acao-de-lula.shtml)_
+
