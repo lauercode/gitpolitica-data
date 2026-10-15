@@ -6370,3 +6370,6 @@
 - **[2026-10-15 13:00 UTC]** Ministério da Prosperidade proposto por Flávio Bolsonaro tem apelo evangélico e coaching
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ministerio-da-prosperidade-proposto-por-flavio-bolsonaro-tem-apelo-evangelico-e-coaching.shtml)_
 
+- **[2026-10-15 12:30 UTC]** Campanha de Flávio aciona TSE e pede restrições contra 48 perfis, incluindo deputados e Mídia Ninja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-flavio-aciona-tse-e-pede-restricoes-contra-48-perfis-incluindo-deputados-e-midia-ninja.shtml)_
+
