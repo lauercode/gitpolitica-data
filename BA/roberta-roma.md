@@ -17,3 +17,6 @@
 - **[2026-09-23 10:38 UTC]** Coliseu de Roma fecha para o público após morte de trabalhador no monumento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/coliseu-de-roma-fecha-para-o-publico-apos-morte-de-trabalhador-no-monumento.shtml)_
 
+- **[2026-10-15 05:10 UTC]** Papa Leão 14 passa segunda noite tranquila em hospital de Roma
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/papa-leao-14-passa-segunda-noite-tranquila-em-hospital-de-roma.shtml)_
+
