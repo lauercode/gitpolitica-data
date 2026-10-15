@@ -6406,3 +6406,6 @@
 - **[2026-10-15 21:32 UTC]** Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml)_
 
+- **[2026-10-15 18:32 UTC]** Datafolha: 17% dos eleitores de Flávio Bolsonaro dizem votar nele para derrotar Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-17-dos-eleitores-de-flavio-bolsonaro-dizem-votar-nele-para-derrotar-lula.shtml)_
+
