@@ -6343,3 +6343,6 @@
 - **[2026-10-15 13:40 UTC]** Ibovespa tem forte queda com empate técnico entre Flávio e Lula e inflação americana acima do esperado
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/15/ibovespa-cai-com-empate-tecnico-entre-flavio-e-lula-fim-da-6x1-e-inflacao-americana-acim-ado-esperado.ghtml)_
 
+- **[2026-10-15 17:30 UTC]** No horário eleitoral, Lula questiona posição de Flávio sobre fim da escala 6x1; candidato do PL aborda Ministério da Prosperidade
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/horario-eleitoral-14-outubro-presidente.ghtml)_
+
