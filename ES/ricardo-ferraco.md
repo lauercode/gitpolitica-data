@@ -26,3 +26,6 @@
 - **[2026-10-04 23:32 UTC]** No ES, segundo turno será entre Lorenzo Pazolini e Ricardo Ferraço
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/no-es-segundo-turno-sera-entre-lorenzo-pazolini-e-ricardo-ferraco.ghtml)_
 
+- **[2026-10-14 21:51 UTC]** Quaest no ES: 45% avaliam gestão Ricardo Ferraço como positiva e 8%, como negativa
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/14/quaest-espirito-santo-avaliacao-governo-ricardo-ferraco-14-outubro.ghtml)_
+
