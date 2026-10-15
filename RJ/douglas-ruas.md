@@ -131,3 +131,6 @@
 - **[2026-10-14 14:30 UTC]** Douglas Ruas anuncia vice como primeira integrante do secretariado de novo governo do Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/douglas-ruas-anuncia-vice-como-primeira-integrante-do-secretariado-de-governo-no-rio.ghtml)_
 
+- **[2026-10-14 22:45 UTC]** PSD de Paes entra com novo recurso no Supremo para anular vitória de Douglas Ruas no primeiro turno no Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/psd-de-paes-entra-com-novo-recurso-no-supremo-para-anular-vitoria-de-douglas-ruas-no-primeiro-turno-no-rio.ghtml)_
+
