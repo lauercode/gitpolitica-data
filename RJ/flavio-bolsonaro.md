@@ -6295,3 +6295,6 @@
 - **[2026-10-15 08:00 UTC]** Em empate técnico, Flávio tem 46% e Lula, 44%, aponta Quaest
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/15/em-empate-tecnico-flavio-tem-46-e-lula-44-aponta-quaest.ghtml)_
 
+- **[2026-10-15 08:30 UTC]** Flávio quer escolas militares; Lula propõe ampliar educação integral
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/flavio-quer-escolas-militares-lula-propoe-ampliar-educacao-integral)_
+
