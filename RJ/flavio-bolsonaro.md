@@ -6415,3 +6415,6 @@
 - **[2026-10-15 18:30 UTC]** Datafolha: Flávio Bolsonaro tem 51% e Lula, 49% dos votos válidos, um empate técnico
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-um-empate-tecnico.shtml)_
 
+- **[2026-10-15 18:01 UTC]** Campanha de Flávio Bolsonaro pede à Justiça Eleitoral investigação por propaganda sem som
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-flavio-bolsonaro-pede-a-justica-eleitoral-investigacao-por-propaganda-sem-som.shtml)_
+
