@@ -6376,3 +6376,6 @@
 - **[2026-10-15 12:04 UTC]** Indígenas dizem temer retrocesso ambiental em eventual governo Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/avanco-de-flavio-bolsonaro-acende-alerta-de-retrocesso-ambiental-para-lideres-indigenas.shtml)_
 
+- **[2026-10-15 18:25 UTC]** Meta esclarece a Nunes Marques funcionamento de IA sobre Lula e Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/meta-esclarece-nunes-marques-funcionamento-ia-lula-flavio/)_
+
