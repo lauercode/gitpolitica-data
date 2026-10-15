@@ -1511,3 +1511,6 @@ direitos
 - **[2026-10-14 16:51 UTC]** Câmara aprova aumento do teto de MEI e perdão de R$ 15 bi em dívidas em vitória para Lula a 11 dias do 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/camara-deve-votar-nesta-quarta-14-perdao-de-dividas-do-mei-e-aumento-do-teto-apos-acao-de-lula.shtml)_
 
+- **[2026-10-14 23:12 UTC]** Câmara aprova perdão de dívidas do MEI e aumento do teto
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/camara-aprova-perdao-de-dividas-do-mei-e-aumento-do-teto/)_
+
