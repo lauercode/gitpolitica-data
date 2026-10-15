@@ -11,3 +11,6 @@
 - **[2026-10-15 12:05 UTC]** Único senador a votar contra fim da escala 6x1, Hamilton Mourão diz que colegas votaram a favor por 'pressão popular'
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/15/quem-e-hamilton-mourao-senador-do-rs-voto-contra-escala-6-x-1.ghtml)_
 
+- **[2026-10-15 17:41 UTC]** Único senador a votar contra o fim da escala 6x1, Mourão diz que colegas cederam à pressão e nega solidão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/unico-senador-a-votar-contra-o-fim-da-escala-6x1-mourao-diz-que-colegas-cederam-a-pressao-e-nega-solidao.shtml)_
+
