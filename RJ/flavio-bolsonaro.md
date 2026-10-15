@@ -6205,3 +6205,6 @@
 - **[2026-10-14 21:03 UTC]** Ato pró-Flávio de alunos do Mackenzie tem clima de festa e coro transfóbico contra Erika Hilton
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-pro-flavio-de-alunos-do-mackenzie-tem-clima-de-festa-e-coro-transfobico-contra-erika-hilton.shtml)_
 
+- **[2026-10-14 20:27 UTC]** Flávio Bolsonaro faz agenda no RS em dia de votação sobre escala 6x1 e ignora assunto em comício
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-faz-agenda-no-rs-em-dia-de-votacao-sobre-escala-6x1e-ignora-assunto-em-comicio.shtml)_
+
