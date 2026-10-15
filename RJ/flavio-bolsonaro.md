@@ -6379,3 +6379,6 @@
 - **[2026-10-15 18:25 UTC]** Meta esclarece a Nunes Marques funcionamento de IA sobre Lula e Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/meta-esclarece-nunes-marques-funcionamento-ia-lula-flavio/)_
 
+- **[2026-10-15 16:18 UTC]** Milei critica Lula, apoia Flávio Bolsonaro e faz discurso polêmico em Washington
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/milei-critica-lula-apoia-flavio-bolsonaro-e-faz-discurso-polemico-em-washington/)_
+
