@@ -6268,3 +6268,6 @@
 - **[2026-10-14 21:51 UTC]** Kassio antecipa liberação de canal 'Exército do Lula' após PT pedir suspensão de 'Tropa do Flávio'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-antecipa-liberacao-de-canal-exercito-do-lula-apos-pt-pedir-suspensao-de-tropa-do-flavio.shtml)_
 
+- **[2026-10-14 14:02 UTC]** Ex-ministro de FHC não declara voto, mas vê em Flávio risco de concentração de poder
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss)_
+
