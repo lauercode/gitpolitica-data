@@ -77,3 +77,6 @@
 - **[2026-10-14 18:54 UTC]** Última apresentação de Ayres Rocha no JAC2 foi há quase dois anos: 'Missão cumprida'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/ultima-apresentacao-de-ayres-rocha-no-jac2-foi-ha-quase-dois-anos-missao-cumprida.ghtml)_
 
+- **[2026-10-14 22:31 UTC]** Parentes, amigos e colegas de profissão se despedem de Ayres Rocha: 'Viam como alguém da família'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/14/parentes-amigos-e-colegas-de-profissao-se-despedem-de-ayres-rocha-viam-como-alguem-da-familia.ghtml)_
+
