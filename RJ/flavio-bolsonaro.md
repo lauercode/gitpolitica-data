@@ -6241,3 +6241,6 @@
 - **[2026-10-14 21:40 UTC]** Campanha de Flávio aciona TSE contra posts de artistas e parlamentares
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-flavio-aciona-tse-contra-posts-de-artistas-e-deputados)_
 
+- **[2026-10-15 03:00 UTC]** Quaest: 10% dos eleitores de Flávio Bolsonaro no 1º turno decidiram voto no dia da eleição; de Lula, 5%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2016/pesquisas-eleitorais/noticia/2026/10/15/quaest-data-definicao-voto-flavio-bolsonaro-lula.ghtml)_
+
