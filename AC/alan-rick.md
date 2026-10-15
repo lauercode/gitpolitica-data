@@ -575,3 +575,6 @@
 - **[2026-10-13 19:36 UTC]** Quaest: Mailza Assis (PP) tem 49% no Acre, ante 32% de Alan Rick (Republicanos)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-mailza-assis-pp-tem-49-no-acre-ante-32-de-alan-rick-republicanos.shtml)_
 
+- **[2026-10-15 17:25 UTC]** Alan Rick (Republicanos) cancela participação em sabatina do JAC2
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/15/alan-rick-republicanos-cancela-participacao-em-sabatina-do-jac2.ghtml)_
+
