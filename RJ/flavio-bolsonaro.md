@@ -6346,3 +6346,6 @@
 - **[2026-10-15 17:30 UTC]** No horário eleitoral, Lula questiona posição de Flávio sobre fim da escala 6x1; candidato do PL aborda Ministério da Prosperidade
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/horario-eleitoral-14-outubro-presidente.ghtml)_
 
+- **[2026-10-15 12:51 UTC]** Meta presta esclarecimentos ao TSE após IA criar imagem 'Flávio 22', mas se recusar a fazer o mesmo com 'Lula 13'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/camila-bomfim/post/2026/10/15/presidente-do-tse-se-reune-com-meta-para-tratar-de-ia-que-cria-imagem-flavio-22-mas-se-recusa-a-fazer-o-mesmo-com-lula-13.ghtml)_
+
