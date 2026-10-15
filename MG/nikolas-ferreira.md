@@ -86,3 +86,6 @@
 - **[2026-10-14 21:31 UTC]** Campanha de Lula aciona TSE contra Meta e questiona alcance de vídeos de Nikolas Ferreira e ferramenta de IA
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/campanha-de-lula-aciona-tse-contra-meta-e-questiona-alcance-de-videos-de-nikolas-e-ferramenta-de-ia.ghtml)_
 
+- **[2026-10-15 11:30 UTC]** Nikolas Ferreira posta vídeo feito com IA de Flávio Bolsonaro atirando com dois fuzis em piscina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ferreira-posta-video-feito-com-ia-de-flavio-bolsonaro-atirando-com-dois-fuzis-em-piscina.shtml)_
+
