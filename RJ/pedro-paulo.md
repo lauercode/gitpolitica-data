@@ -530,3 +530,6 @@
 - **[2026-10-11 14:10 UTC]** Musical sobre Paulo Gustavo completa o que a Covid cortou, diz dona Déa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/musical-sobre-paulo-gustavo-completa-o-que-a-covid-cortou-diz-dona-dea.shtml)_
 
+- **[2026-10-15 16:10 UTC]** Papa Leão XIV nomeia dom Paulo Andreolli bispo da diocese de Ponta de Pedras, no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/15/papa-leao-xiv-nomeia-dom-paulo-andreolli-bispo-da-diocese-de-ponta-de-pedras-no-para.ghtml)_
+
