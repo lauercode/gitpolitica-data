@@ -6271,3 +6271,6 @@
 - **[2026-10-14 14:02 UTC]** Ex-ministro de FHC não declara voto, mas vê em Flávio risco de concentração de poder
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-15 04:00 UTC]** O que é a medalha concedida ao procurador militar que pediu a expulsão de Bolsonaro do Exército
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/15/o-que-e-a-medalha-concedida-ao-procurador-militar-que-pediu-a-expulsao-de-bolsonaro-do-exercito.ghtml)_
+
