@@ -6340,3 +6340,6 @@
 - **[2026-10-15 13:43 UTC]** O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Com o agro, mudei minha mentalidade'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-15 13:40 UTC]** Ibovespa tem forte queda com empate técnico entre Flávio e Lula e inflação americana acima do esperado
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/15/ibovespa-cai-com-empate-tecnico-entre-flavio-e-lula-fim-da-6x1-e-inflacao-americana-acim-ado-esperado.ghtml)_
+
