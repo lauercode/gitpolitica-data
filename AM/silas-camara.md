@@ -1532,3 +1532,6 @@ direitos
 - **[2026-10-15 13:45 UTC]** Começam hoje as inscrições para concurso de analista legislativo da Câmara dos Deputados
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311427-comecam-hoje-as-inscricoes-para-concurso-de-analista-legislativo-da-camara-dos-deputados)_
 
+- **[2026-10-15 08:34 UTC]** Câmara aprova perdão de dívidas e aumento de limites para MEIs
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/camara-aprova-perdao-de-dividas-e-aumento-de-limites-para-meis)_
+
