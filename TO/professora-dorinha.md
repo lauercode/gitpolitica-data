@@ -44,3 +44,6 @@
 - **[2026-10-14 22:14 UTC]** Quaest no TO, segundo turno: Vicentinho Júnior, 49%; Professora Dorinha, 42%
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/14/quaest-to-governador-segundo-turno-14-outubro.ghtml)_
 
+- **[2026-10-15 21:47 UTC]** Professora Dorinha (União Brasil) é a entrevistada desta quinta-feira (15)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/entrevistas-candidatos-tocantins-segundo-turno.ghtml)_
+
