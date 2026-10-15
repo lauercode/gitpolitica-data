@@ -1544,3 +1544,6 @@ direitos
 - **[2026-10-15 19:37 UTC]** Câmara aprova uso de exames de saúde privados em unidades do SUS
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311598-camara-aprova-uso-de-exames-de-saude-privados-em-unidades-do-sus)_
 
+- **[2026-10-15 19:26 UTC]** Câmara aprova campanha de primeiros socorros contra asfixia
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311618-camara-aprova-campanha-de-primeiros-socorros-contra-asfixia)_
+
