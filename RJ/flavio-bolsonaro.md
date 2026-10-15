@@ -6196,3 +6196,6 @@
 - **[2026-10-14 23:25 UTC]** Flávio Bolsonaro foi cadastrado como 'usuário master' em conta bancária de empresa de advogado investigado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-foi-cadastrado-como-usuario-master-em-conta-bancaria-de-empresa-de-advogado-investigado.ghtml)_
 
+- **[2026-10-14 23:06 UTC]** Campanhas de Lula e Flávio Bolsonaro não chegam a acordo e critérios para registro de canais podem ir a plenário
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/campanhas-de-lula-e-flavio-nao-chegam-a-acordo-e-criterios-para-registros-de-canais-pode-ficar-para-plenario.ghtml)_
+
