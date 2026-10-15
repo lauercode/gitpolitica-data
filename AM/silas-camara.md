@@ -1529,3 +1529,6 @@ direitos
 - **[2026-10-15 11:52 UTC]** Câmara pode votar proposta que obriga SUS a aceitar exames da rede privada
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1311362-camara-pode-votar-proposta-que-obriga-sus-a-aceitar-exames-da-rede-privada)_
 
+- **[2026-10-15 13:45 UTC]** Começam hoje as inscrições para concurso de analista legislativo da Câmara dos Deputados
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311427-comecam-hoje-as-inscricoes-para-concurso-de-analista-legislativo-da-camara-dos-deputados)_
+
