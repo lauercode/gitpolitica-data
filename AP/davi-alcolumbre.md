@@ -398,3 +398,6 @@
 - **[2026-10-15 02:31 UTC]** Alcolumbre prevê votação da PEC da Segurança para esta quinta após rito acelerado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-preve-votacao-da-pec-da-seguranca-para-esta-quinta-apos-rito-acelerado/)_
 
+- **[2026-10-15 02:25 UTC]** “Eu não falei que ia dar certo?”, diz Alcolumbre a líder do PT após aprovação do fim da escala 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eu-nao-falei-que-ia-dar-certo-diz-alcolumbre-a-lider-do-pt-apos-aprovacao-do-fim-da-escala-6x1/)_
+
