@@ -6238,3 +6238,6 @@
 - **[2026-10-14 22:27 UTC]** Lula reforça compromisso com evangélicos; Flávio recebe apoio no RS
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-reforca-compromisso-com-evangelicos-flavio-recebe-apoio-no-rs)_
 
+- **[2026-10-14 21:40 UTC]** Campanha de Flávio aciona TSE contra posts de artistas e parlamentares
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-flavio-aciona-tse-contra-posts-de-artistas-e-deputados)_
+
