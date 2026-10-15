@@ -6202,3 +6202,6 @@
 - **[2026-10-14 21:51 UTC]** Quaest no ES, 2º turno: Flávio Bolsonaro, 51%; Lula, 38%
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/14/quaest-espirito-santo-presidente-segundo-turno-14-outubro.ghtml)_
 
+- **[2026-10-14 21:03 UTC]** Ato pró-Flávio de alunos do Mackenzie tem clima de festa e coro transfóbico contra Erika Hilton
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-pro-flavio-de-alunos-do-mackenzie-tem-clima-de-festa-e-coro-transfobico-contra-erika-hilton.shtml)_
+
