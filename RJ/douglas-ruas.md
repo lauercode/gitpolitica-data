@@ -137,3 +137,6 @@
 - **[2026-10-15 17:27 UTC]** TRE-RJ proclama Douglas Ruas eleito para o governo do Rio de Janeiro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-rj-proclama-douglas-ruas-eleito-para-o-governo-do-rio-de-janeiro)_
 
+- **[2026-10-15 19:21 UTC]** TRE-RJ homologa resultado do Estado e confirma eleição de Douglas Ruas no 1° turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/tre-rj-homologa-resultado-do-estado-e-confirma-eleio-de-douglas-ruas-no-1-turno.ghtml)_
+
