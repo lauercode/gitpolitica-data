@@ -6385,3 +6385,6 @@
 - **[2026-10-15 14:44 UTC]** Por que apoio de Temer a Flávio inflama debate sobre negociação fora dos autos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/por-que-apoio-de-temer-a-flavio-inflama-debate-sobre-negociacao-fora-dos-autos/)_
 
+- **[2026-10-15 18:02 UTC]** Distância entre Flávio e Lula é de 3 pontos no agregador de pesquisas da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
