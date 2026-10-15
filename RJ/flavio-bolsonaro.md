@@ -6316,3 +6316,6 @@
 - **[2026-10-15 11:30 UTC]** Nikolas Ferreira posta vídeo feito com IA de Flávio Bolsonaro atirando com dois fuzis em piscina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ferreira-posta-video-feito-com-ia-de-flavio-bolsonaro-atirando-com-dois-fuzis-em-piscina.shtml)_
 
+- **[2026-10-15 10:21 UTC]** Kassio tira restrições de perfis de políticos eleitos no 1º turno e beneficia Flávio Bolsonaro nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-tira-restricoes-de-perfis-de-politicos-eleitos-no-1o-turno-e-beneficia-flavio-bolsonaro-nas-redes.shtml)_
+
