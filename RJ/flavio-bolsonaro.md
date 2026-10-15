@@ -6364,3 +6364,6 @@
 - **[2026-10-15 13:16 UTC]** Kassio e Mendonça se reúnem com Meta após polêmicas sobre canais e IA que favorece Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-e-mendonca-se-reunem-com-meta-apos-polemicas-sobre-canais-e-ia-que-favorece-flavio.shtml)_
 
+- **[2026-10-15 13:03 UTC]** Como votaram em Flávio Bolsonaro e Lula as cidades mais e menos eficientes do Brasil; confira a sua
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/como-votaram-em-flavio-bolsonaro-e-lula-as-cidades-mais-e-menos-eficientes-do-brasil-confira-a-sua.shtml)_
+
