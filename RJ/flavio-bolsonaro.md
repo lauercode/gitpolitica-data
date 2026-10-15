@@ -6220,3 +6220,6 @@
 - **[2026-10-14 22:15 UTC]** Quaest no TO, 2º turno: Flávio Bolsonaro, 48%; Lula, 42%
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/14/quaest-to-presidente-segundo-turno-14-outubro.ghtml)_
 
+- **[2026-10-14 23:50 UTC]** Flávio sabe que 'não tem nada ganho', e não conseguiria governar com Moraes no STF, diz Eduardo Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/flavio-sabe-que-nao-tem-nada-ganho-e-nao-conseguiria-governar-com-moraes-no-stf-diz-eduardo-bolsonaro.ghtml)_
+
