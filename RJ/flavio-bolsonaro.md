@@ -6424,3 +6424,6 @@
 - **[2026-10-15 14:48 UTC]** TSE derruba decisão de Mendonça e barra posts em que Flávio associa Lula a escândalo do INSS
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-derruba-decisao-de-mendonca-e-barra-posts-em-que-flavio-acusa-lula-de-menosprezar-garis.shtml)_
 
+- **[2026-10-15 14:01 UTC]** Dólar dispara e Bolsa cai com empate técnico entre Flávio e Lula e avanço do fim da escala 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-com-empate-entre-flavio-e-lula-e-aprovacao-da-escala-6x1-no-radar.shtml)_
+
