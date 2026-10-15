@@ -86,3 +86,6 @@
 - **[2026-10-15 13:11 UTC]** Corpo do jornalista Ayres Rocha é enterrado em Rio Branco; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/15/corpo-do-jornalista-ayres-rocha-e-enterrado-em-rio-branco.ghtml)_
 
+- **[2026-10-15 15:03 UTC]** Jornal Nacional homenageia Ayres Rocha, ícone do jornalismo acreano; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/15/jornal-nacional-homenageia-ayres-rocha-icone-do-jornalismo-acreano-video.ghtml)_
+
