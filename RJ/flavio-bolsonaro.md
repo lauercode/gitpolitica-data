@@ -6229,3 +6229,6 @@
 - **[2026-10-14 23:22 UTC]** PT comemora rejeição maior de Flávio e queda na desaprovação de Lula na pesquisa Quaest
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/pt-comemora-rejeicao-maior-de-flavio-e-queda-na-desaprovacao-de-lula-na-pesquisa-quaest.ghtml)_
 
+- **[2026-10-14 22:28 UTC]** Quaest: Medo da volta da família Bolsonaro empata com medo da reeleição de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/quaest-medo-da-volta-da-familia-bolsonaro-empata-com-medo-da-reeleicao-de-lula.ghtml)_
+
