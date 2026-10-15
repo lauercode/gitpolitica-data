@@ -1523,3 +1523,6 @@ direitos
 - **[2026-10-14 22:23 UTC]** Centrão tenta emplacar socorro a bancos em crise, mas Câmara rejeita proposta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/centrao-tenta-emplacar-socorro-a-bancos-em-crise-mas-camara-rejeita-proposta.shtml)_
 
+- **[2026-10-15 01:08 UTC]** Câmara rejeita parecer sobre projeto de resolução que abria brecha para socorro do BRB pelo FGC
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/14/camara-rejeita-parecer-sobre-projeto-de-resolucao-que-abria-brecha-para-socorro-do-brb-pelo-fgc.ghtml)_
+
