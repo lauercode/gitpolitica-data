@@ -6265,3 +6265,6 @@
 - **[2026-10-14 22:00 UTC]** Leitores debatem votação do fim da escala 6x1 e posicionamento de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/leitores-debatem-votacao-do-fim-da-escala-6x1-e-posicionamento-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-14 21:51 UTC]** Kassio antecipa liberação de canal 'Exército do Lula' após PT pedir suspensão de 'Tropa do Flávio'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-antecipa-liberacao-de-canal-exercito-do-lula-apos-pt-pedir-suspensao-de-tropa-do-flavio.shtml)_
+
