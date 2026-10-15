@@ -1541,3 +1541,6 @@ direitos
 - **[2026-10-15 18:34 UTC]** 'OAB da Medicina': Câmara aprova medida que prevê obrigatoriedade de três provas durante o curso
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-camara-aprova-medida-que-preve-obrigatoriedade-de-tres-provas-durante-o-curso.ghtml)_
 
+- **[2026-10-15 19:37 UTC]** Câmara aprova uso de exames de saúde privados em unidades do SUS
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311598-camara-aprova-uso-de-exames-de-saude-privados-em-unidades-do-sus)_
+
