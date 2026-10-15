@@ -6304,3 +6304,6 @@
 - **[2026-10-15 08:23 UTC]** Lula e Flávio Bolsonaro cumprem agendas a dez dias do 1º turno
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/lula-e-flavio-bolsonaro-cumprem-agendas-dez-dias-do-1o-turno)_
 
+- **[2026-10-15 13:56 UTC]** 'Tesouraço de Flávio': Mendonça paralisa julgamento após TSE formar maioria para derrubar sua decisão contra vídeo de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/tesouraco-de-flavio-mendonca-paralisa-julgamento-apos-tse-formar-maioria-para-derrubar-sua-decisao-contra-video-de-lula.ghtml)_
+
