@@ -53,3 +53,6 @@
 - **[2026-10-14 15:56 UTC]** Ciro Gomes pede cassação da chapa de Elmano e nova eleição no Ceará
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ciro-gomes-pede-cassacao-da-chapa-de-elmano-e-nova-eleicao-no-ceara.shtml)_
 
+- **[2026-10-15 14:27 UTC]** Coligação de Ciro Gomes pede cassação da chapa de Elmano e novas eleições no Ceará
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ceara/coligacao-de-ciro-gomes-pede-cassacao-de-elmano-e-novas-eleicoes-no-ceara/)_
+
