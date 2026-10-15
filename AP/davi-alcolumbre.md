@@ -404,3 +404,6 @@
 - **[2026-10-15 08:34 UTC]** Pacheco volta a ganhar força para o STF depois de Alcolumbre ajudar Lula a aprovar o fim da 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pacheco-ganha-forca-para-o-stf-depois-de-alcolumbre-ajudar-lula-a-aprovar-o-fim-da-6x1.shtml)_
 
+- **[2026-10-15 21:31 UTC]** Alcolumbre tira de pauta a PEC do Segurança
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/15/alcolumbre-tira-de-pauta-a-pec-do-seguranca.ghtml)_
+
