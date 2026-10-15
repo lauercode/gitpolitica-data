@@ -6214,3 +6214,6 @@
 - **[2026-10-14 22:38 UTC]** O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Mudei minha mentalidade'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-14 19:49 UTC]** PEC da Segurança: Flávio Bolsonaro defende redução da maioridade penal para 14 anos em casos de estupro durante agenda no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/14/flavio-bolsonaro-porto-alegre.ghtml)_
+
