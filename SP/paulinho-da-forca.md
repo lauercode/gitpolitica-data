@@ -176,3 +176,6 @@
 - **[2026-10-15 13:20 UTC]** Força Aérea Brasileira diz que helicóptero fez 'pouso de segurança' em plantação do PR devido às condições meteorológicas
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/15/seguranca-pouso-helicoptero-forca-aerea-brasileira-plantacao-parana.ghtml)_
 
+- **[2026-10-15 19:51 UTC]** Amazonas ganha reforço de 29 bombeiros e nove viaturas da Força Nacional no combate a incêndios
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/15/amazonas-ganha-reforco-de-29-bombeiros-e-nove-viaturas-da-forca-nacional-no-combate-a-incendios.ghtml)_
+
