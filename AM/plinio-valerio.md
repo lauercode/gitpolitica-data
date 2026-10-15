@@ -26,3 +26,6 @@
 - **[2026-10-05 00:44 UTC]** Eduardo Braga e Plinio Valério vão para o Senado pelo Amazonas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/eduardo-braga-e-plinio-valerio-vao-para-o-senado-pelo-amazonas.ghtml)_
 
+- **[2026-10-14 22:48 UTC]** Plínio Valério anuncia apoio a Omar Aziz no segundo turno das eleições no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/14/plinio-valerio-anuncia-apoio-a-omar-aziz-no-segundo-turno-das-eleicoes-no-amazonas.ghtml)_
+
