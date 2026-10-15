@@ -59,3 +59,6 @@
 - **[2026-10-15 11:06 UTC]** Hugo Motta comemora aprovação do fim da escala 6x1 no Senado
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311348-hugo-motta-comemora-aprovacao-do-fim-da-escala-6x1-no-senado)_
 
+- **[2026-10-15 19:13 UTC]** Hugo Motta afirma que aprovação de MP permitirá avaliação rigorosa e aprimoramento dos cursos de medicina
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311645-hugo-motta-afirma-que-aprovacao-de-mp-permitira-avaliacao-rigorosa-e-aprimoramento-dos-cursos-de-medicina)_
+
