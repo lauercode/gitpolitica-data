@@ -299,3 +299,6 @@
 - **[2026-10-15 08:03 UTC]** José de Souza Martins: A dupla cara do futuro
   _fonte: [Valor Econômico](https://valor.globo.com/eu-e/coluna/jose-de-souza-martins-a-dupla-cara-do-futuro.ghtml)_
 
+- **[2026-10-07 01:57 UTC]** Escola Estadual Prof. Vanda Maria de Souza Cabete, 7ª zona eleitoral: resultado da votação em Laranjal do Jari (AP) no 1º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-laranjal-do-jari-ap-votacao-para-presidente-na-escola-estadual-prof-vanda-maria-de-souza-cabete-na-7a-zona-eleitoral.ghtml)_
+
