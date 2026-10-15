@@ -1499,3 +1499,6 @@ direitos
 - **[2026-10-14 20:09 UTC]** Câmara aprova aumento no limite de receita bruta do MEI
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/camara-aprova-aumento-no-limite-de-receita-bruta-do-mei)_
 
+- **[2026-10-14 22:44 UTC]** Câmara aprova novo limite de enquadramento para microempreendedor individual e inclui perdão de dívidas
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311288-camara-aprova-novo-limite-de-enquadramento-para-microempreendedor-individual-e-inclui-perdao-de-dividas)_
+
