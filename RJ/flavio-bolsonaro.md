@@ -6361,3 +6361,6 @@
 - **[2026-10-15 14:38 UTC]** Netanyahu chama Brasil de país pequeno ao relembrar viagem à posse de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/netanyahu-chama-brasil-de-pais-pequeno-ao-relembrar-viagem-a-posse-de-bolsonaro.shtml)_
 
+- **[2026-10-15 13:16 UTC]** Kassio e Mendonça se reúnem com Meta após polêmicas sobre canais e IA que favorece Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-e-mendonca-se-reunem-com-meta-apos-polemicas-sobre-canais-e-ia-que-favorece-flavio.shtml)_
+
