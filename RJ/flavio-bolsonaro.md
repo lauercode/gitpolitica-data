@@ -6322,3 +6322,6 @@
 - **[2026-10-15 10:09 UTC]** Por eleição, Lula e Flávio assumem causas que renegaram
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/por-eleicao-lula-e-flavio-assumem-causas-que-renegaram.shtml)_
 
+- **[2026-10-15 09:51 UTC]** Dólar sobe com empate entre Flávio e Lula; Bolsa cai com avanço do fim da escala 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-com-empate-entre-flavio-e-lula-e-aprovacao-da-escala-6x1-no-radar.shtml)_
+
