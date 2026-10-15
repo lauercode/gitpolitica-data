@@ -134,3 +134,6 @@
 - **[2026-10-14 22:45 UTC]** PSD de Paes entra com novo recurso no Supremo para anular vitória de Douglas Ruas no primeiro turno no Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/14/psd-de-paes-entra-com-novo-recurso-no-supremo-para-anular-vitoria-de-douglas-ruas-no-primeiro-turno-no-rio.ghtml)_
 
+- **[2026-10-15 17:27 UTC]** TRE-RJ proclama Douglas Ruas eleito para o governo do Rio de Janeiro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-rj-proclama-douglas-ruas-eleito-para-o-governo-do-rio-de-janeiro)_
+
