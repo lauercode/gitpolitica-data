@@ -6337,3 +6337,6 @@
 - **[2026-10-15 09:30 UTC]** Distância entre Flávio e Lula diminui para 2 pontos, mostra agregador de pesquisas da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-15 13:43 UTC]** O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Com o agro, mudei minha mentalidade'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss)_
+
