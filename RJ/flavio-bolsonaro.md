@@ -6373,3 +6373,6 @@
 - **[2026-10-15 12:30 UTC]** Campanha de Flávio aciona TSE e pede restrições contra 48 perfis, incluindo deputados e Mídia Ninja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-flavio-aciona-tse-e-pede-restricoes-contra-48-perfis-incluindo-deputados-e-midia-ninja.shtml)_
 
+- **[2026-10-15 12:04 UTC]** Indígenas dizem temer retrocesso ambiental em eventual governo Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/avanco-de-flavio-bolsonaro-acende-alerta-de-retrocesso-ambiental-para-lideres-indigenas.shtml)_
+
