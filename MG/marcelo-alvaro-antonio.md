@@ -125,3 +125,6 @@
 - **[2026-10-06 21:48 UTC]** Resultado das eleições 2026 em Nova Olinda (TO): votação para presidente no Cemei - Antônio Filemon Gomes, na 31ª zona eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nova-olinda-to-votacao-para-presidente-no-cemei-antonio-filemon-gomes-na-31a-zona-eleitoral.ghtml)_
 
+- **[2026-10-15 01:09 UTC]** Roteiro gratuito sobre Antônio Landi percorre Centro Histórico de Belém neste domingo, 18
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/14/roteiro-gratuito-sobre-antonio-landi-percorre-centro-historico-de-belem-neste-domingo.ghtml)_
+
