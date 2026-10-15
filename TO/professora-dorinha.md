@@ -38,3 +38,6 @@
 - **[2026-10-04 23:39 UTC]** Professora Dorinha (União) diz que vai ajustar campanha após avançar ao 2º turno no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/04/professora-dorinha-uniao-diz-que-vai-ajustar-campanha-apos-avancar-ao-2o-turno-no-tocantins.ghtml)_
 
+- **[2026-10-14 19:32 UTC]** Quaest: Vicentinho Júnior tem 49% no Tocantins, ante 42% de Professora Dorinha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-vicentinho-junior-tem-49-no-tocantins-ante-42-de-professora-dorinha.shtml)_
+
