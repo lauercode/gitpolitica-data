@@ -6400,3 +6400,6 @@
 - **[2026-10-15 18:27 UTC]** Dia do professor: Lula fala em valorização e Flávio em nunca desistir
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/dia-do-professor-lula-fala-em-valorizacao-e-flavio-em-nunca-desistir)_
 
+- **[2026-10-15 15:51 UTC]** Conheça as propostas de Lula e Flávio para enfrentar a crise climática
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/conheca-propostas-de-lula-e-flavio-para-enfrentar-crise-climatica)_
+
