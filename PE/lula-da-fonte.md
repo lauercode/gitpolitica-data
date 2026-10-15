@@ -44,3 +44,6 @@
 - **[2026-10-06 19:39 UTC]** Raquel Lyra nega palanque a Lula em PE no segundo turno da eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/raquel-lyra-nega-palanque-lula-pe-segundo-turno-eleicao/)_
 
+- **[2026-10-15 08:00 UTC]** Campanha de Lula em PE tenta driblar desmonte de palanques estaduais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/campanha-de-lula-em-pe-tenta-driblar-desmonte-de-palanques-estaduais.ghtml)_
+
