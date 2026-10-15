@@ -20,3 +20,6 @@
 - **[2026-10-07 02:05 UTC]** Resultado das eleições 2026 em Maria Helena (PR): votação para presidente no Colegio Estadual Prof. Leonidia Pacheco - Ens. Fundamental e Medio, na 142ª zona eleitoral
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-maria-helena-pr-votacao-para-presidente-no-colegio-estadual-prof-leonidia-pacheco-ens-fundamental-e-medio-na-142a-zona-eleitoral.ghtml)_
 
+- **[2026-10-06 22:37 UTC]** Escola Estadual Maria Helena Cordeiro, 11ª zona eleitoral: resultado da votação em Pedra Branca do Amapari (AP) no 1º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pedra-branca-do-amapari-ap-votacao-para-presidente-na-escola-estadual-maria-helena-cordeiro-na-11a-zona-eleitoral.ghtml)_
+
