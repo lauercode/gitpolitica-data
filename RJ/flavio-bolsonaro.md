@@ -6199,3 +6199,6 @@
 - **[2026-10-14 23:06 UTC]** Campanhas de Lula e Flávio Bolsonaro não chegam a acordo e critérios para registro de canais podem ir a plenário
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/campanhas-de-lula-e-flavio-nao-chegam-a-acordo-e-criterios-para-registros-de-canais-pode-ficar-para-plenario.ghtml)_
 
+- **[2026-10-14 21:51 UTC]** Quaest no ES, 2º turno: Flávio Bolsonaro, 51%; Lula, 38%
+  _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/14/quaest-espirito-santo-presidente-segundo-turno-14-outubro.ghtml)_
+
