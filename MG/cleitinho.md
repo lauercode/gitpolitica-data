@@ -197,3 +197,6 @@
 - **[2026-10-13 15:32 UTC]** Cleitinho anuncia novos nomes na equipe de transição
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/cleitinho-anuncia-novos-nomes-na-equipe-de-transio.ghtml)_
 
+- **[2026-10-15 22:14 UTC]** Cleitinho eleva o tom contra Mateus Simões e diz que fará auditoria no governo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/cleitinho-eleva-o-tom-contra-mateus-simes-e-diz-que-far-auditoria-no-governo.ghtml)_
+
