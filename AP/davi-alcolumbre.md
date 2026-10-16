@@ -440,3 +440,6 @@
 - **[2026-10-16 08:00 UTC]** PT e Alcolumbre se unem por sobrevivência
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/pt-e-alcolumbre-se-unem-por-sobrevivencia.ghtml)_
 
+- **[2026-10-16 13:55 UTC]** Alcolumbre negocia idade mínima para indicação ao STF se Flávio Bolsonaro for eleito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-negocia-idade-minima-para-indicacao-ao-stf-se-flavio-bolsonaro-for-eleito.shtml)_
+
