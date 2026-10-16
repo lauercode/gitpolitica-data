@@ -6607,3 +6607,6 @@
 - **[2026-10-16 16:10 UTC]** Criptomoeda pró-Flávio cai 86% após ações do TSE, e donos anunciam fim uma semana após lançamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/criptomoeda-pro-flavio-cai-86-apos-acoes-do-tse-e-donos-anunciam-fim-uma-semana-apos-lancamento.shtml)_
 
+- **[2026-10-16 15:30 UTC]** Justiça barra entrega de título de cidadão a Flávio Bolsonaro em Salvador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/justica-barra-entrega-de-titulo-de-cidadao-a-flavio-bolsonaro-em-salvador.shtml)_
+
