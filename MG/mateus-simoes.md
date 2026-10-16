@@ -50,3 +50,6 @@
 - **[2026-10-06 16:21 UTC]** Derrotado em Minas, Mateus Simões reafirma apoio a Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/derrotado-em-minas-mateus-simoes-reafirma-apoio-a-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-15 22:14 UTC]** Cleitinho eleva o tom contra Mateus Simões e diz que fará auditoria no governo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/cleitinho-eleva-o-tom-contra-mateus-simes-e-diz-que-far-auditoria-no-governo.ghtml)_
+
