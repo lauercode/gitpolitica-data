@@ -6571,3 +6571,6 @@
 - **[2026-10-16 13:45 UTC]** Cortes orçamentários de Flávio Bolsonaro poupam a classe política
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/cortes-orcamentarios-de-flavio-bolsonaro-poupam-a-classe-politica.shtml)_
 
+- **[2026-10-16 13:15 UTC]** Flávio deve percorrer Paulista em carro aberto em ato no domingo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-deve-percorrer-paulista-em-carro-aberto-em-ato-no-domingo.shtml)_
+
