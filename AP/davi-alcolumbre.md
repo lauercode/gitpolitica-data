@@ -425,3 +425,6 @@
 - **[2026-10-15 21:29 UTC]** Alcolumbre diz que vai promulgar fim da 6x1 e aposentadoria especial para agentes de saúde na sexta
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/15/alcolumbre-diz-que-vai-promulgar-fim-da-6x1-e-aposentadoria-especial-para-agentes-comunitarios-de-saude.ghtml)_
 
+- **[2026-10-15 22:04 UTC]** Alcolumbre retira PEC da Segurança da pauta do Senado após impasse no governo Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-impasse-no-governo-lula-alcolumbre-retira-pec-da-seguranca-da-pauta-do-senado/)_
+
