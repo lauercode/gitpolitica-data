@@ -1565,3 +1565,6 @@ direitos
 - **[2026-10-16 19:24 UTC]** Com salários de até R$ 6 mil, inscrições para concurso da Câmara de Rio Branco são prorrogadas
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/16/com-salarios-de-ate-r-6-mil-inscricoes-para-concurso-da-camara-de-rio-branco-sao-prorrogadas.ghtml)_
 
+- **[2026-10-16 20:40 UTC]** Esmênia veta integralmente nova Lei de Zoneamento de São Luís aprovada pela Câmara
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/10/16/esmenia-veta-integralmente-nova-lei-de-zoneamento-de-sao-luis-aprovada-pela-camara.ghtml)_
+
