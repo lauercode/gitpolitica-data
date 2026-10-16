@@ -6655,3 +6655,6 @@
 - **[2026-10-16 18:26 UTC]** Lula planeja live com Janones durante sabatina de Flávio na Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/lula-planeja-live-com-janones-durante-sabatina-de-flavio-na-globo.shtml)_
 
+- **[2026-10-16 22:58 UTC]** Lula questiona imparcialidade da Globo após encontro de Flávio com direção da emissora
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-questiona-imparcialidade-da-globo-apos-encontro-de-flavio-com-direcao-da-emissora/)_
+
