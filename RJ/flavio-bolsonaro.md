@@ -6661,3 +6661,6 @@
 - **[2026-10-16 22:03 UTC]** Debate na Band no segundo turno: o que esperar do primeiro confronto entre Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-16 22:56 UTC]** Lideranças políticas de Sergipe se mobilizam em apoio a Lula e Flávio no segundo turno
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/16/liderancas-politicas-sergipe-segundo-turno.ghtml)_
+
