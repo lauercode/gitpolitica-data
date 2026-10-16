@@ -431,3 +431,6 @@
 - **[2026-10-15 22:11 UTC]** Alcolumbre diz que promulgação da PEC do fim da jornada 6x1 ocorrerá nesta sexta-feira, pela manhã
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/alcolumbre-diz-que-promulgacao-da-pec-da-jornada-6x1-ocorrera-nesta-sexta-feira-pela-manha.ghtml)_
 
+- **[2026-10-15 21:52 UTC]** Alcolumbre adia votação da PEC da Segurança Pública
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/alcolumbre-adia-votao-da-pec-da-segurana-pblica.ghtml)_
+
