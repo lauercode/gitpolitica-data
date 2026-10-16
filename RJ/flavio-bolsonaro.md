@@ -6508,3 +6508,6 @@
 - **[2026-10-16 08:00 UTC]** Aliados de Flávio minimizam alcance de medidas populares
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/aliados-de-flavio-minimizam-alcance-de-medidas-populares.ghtml)_
 
+- **[2026-10-16 08:00 UTC]** Datafolha: Flávio tem 47% dos votos, e Lula, 45%
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/16/datafolha-flavio-tem-47-dos-votos-e-lula-45.ghtml)_
+
