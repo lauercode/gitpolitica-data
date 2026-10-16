@@ -6442,3 +6442,6 @@
 - **[2026-10-15 19:29 UTC]** TSE atende a Lula e manda Meta dar a ele tratamento igual ao de Flávio sob pena de multa de R$ 500 mil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-atende-lula-e-manda-meta-dar-a-ele-tratamento-igual-ao-de-flavio-sob-de-multa-de-r-500-mil.shtml)_
 
+- **[2026-10-15 22:38 UTC]** Flávio critica proposta de tarifa zero de ônibus de Lula: ‘promessa mirabolante’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/flvio-critica-proposta-de-tarifa-zero-de-nibus-de-lula-promessa-mirabolante.ghtml)_
+
