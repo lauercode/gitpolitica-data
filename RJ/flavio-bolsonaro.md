@@ -6529,3 +6529,6 @@
 - **[2026-10-16 10:02 UTC]** Lula aprofunda campanha do medo contra Flávio Bolsonaro e cita Argentina e áudio de garoto com fome
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-aprofunda-campanha-do-medo-contra-flavio-bolsonaro-e-cita-argentina-e-audio-de-garoto-com-fome.shtml)_
 
+- **[2026-10-16 10:00 UTC]** Flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-votou-contra-projeto-que-suspende-posse-de-arma-de-policial-que-comete-violencia-domestica.shtml)_
+
