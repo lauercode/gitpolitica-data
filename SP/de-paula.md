@@ -32,3 +32,6 @@
 - **[2026-10-07 01:57 UTC]** Resultado das eleições 2026 em Boa Vista (RR): votação para presidente na Escola Estadual São Vicente de Paula., na 1ª zona eleitoral
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-sao-vicente-de-paula-na-1a-zona-eleitoral.ghtml)_
 
+- **[2026-10-07 01:57 UTC]** Escola Estadual São Vicente de Paula., 1ª zona eleitoral: resultado da votação em Boa Vista (RR) no 1º turno
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-sao-vicente-de-paula-na-1a-zona-eleitoral.ghtml)_
+
