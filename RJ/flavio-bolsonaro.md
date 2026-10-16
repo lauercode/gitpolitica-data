@@ -6667,3 +6667,6 @@
 - **[2026-10-16 22:41 UTC]** Em Minas, Lula busca aumentar rejeição a Flávio Bolsonaro e cita risco aos programas sociais
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/em-minas-lula-busca-aumentar-rejeicao-a-flavio-bolsonaro-e-cita-risco-aos-programas-sociais.ghtml)_
 
+- **[2026-10-16 22:27 UTC]** Flávio Bolsonaro concede entrevista à TV Globo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/flavio-bolsonaro-concede-entrevista-a-tv-globo.ghtml)_
+
