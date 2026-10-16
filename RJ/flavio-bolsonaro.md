@@ -6511,3 +6511,6 @@
 - **[2026-10-16 08:00 UTC]** Datafolha: Flávio tem 47% dos votos, e Lula, 45%
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/16/datafolha-flavio-tem-47-dos-votos-e-lula-45.ghtml)_
 
+- **[2026-10-16 08:00 UTC]** PEC de Flávio pode aumentar mandato e levar crise ao STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/pec-de-flavio-pode-aumentar-mandato-e-levar-crise-ao-stf.ghtml)_
+
