@@ -6520,3 +6520,6 @@
 - **[2026-10-16 13:49 UTC]** Datafolha mostra desafios de candidatos: Flávio Bolsonaro tem de evitar mais perda de votos; Lula precisa ganhar eleitores
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/16/datafolha-mostra-desafios-a-candidatos-flavio-bolsonaro-tem-de-evitar-mais-perda-de-votos-lula-precisa-ganhar-eleitores.ghtml)_
 
+- **[2026-10-16 13:20 UTC]** 'Disputa acirrada na reta final': imprensa mundial repercute empate técnico de Flávio Bolsonaro e Lula nas pesquisas
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/16/repercute-internacional-pesquisas-intencao-de-voto-flavio-bolsonaro-lula-2o-turno.ghtml)_
+
