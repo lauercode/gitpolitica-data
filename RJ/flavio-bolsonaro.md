@@ -6595,3 +6595,6 @@
 - **[2026-10-16 18:31 UTC]** Na TV, Flávio Bolsonaro dedica propaganda às mulheres; Lula compara adversário a Milei e critica 'tesouraço'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/tv-propaganda-eleitoral-presidente-16-outubro.ghtml)_
 
+- **[2026-10-16 18:00 UTC]** O que Lula e Flávio Bolsonaro propõem para as mulheres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/o-que-lula-e-flavio-bolsonaro-propoem-para-as-mulheres.shtml)_
+
