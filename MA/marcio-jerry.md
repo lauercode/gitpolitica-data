@@ -11,3 +11,6 @@
 - **[2026-10-05 05:18 UTC]** Eleições 2026: Márcio Jerry (PCdoB) é eleito deputado federal pelo Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-marcio-jerry-pcdob-e-eleito-deputado-federal-pelo-maranhao.ghtml)_
 
+- **[2026-10-15 19:30 UTC]** Jerry Seinfeld ironiza protesto pró-Palestina: 'Vou mandar dinheiro para Israel'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/jerry-seinfeld-ironiza-protesto-pro-palestina-vou-mandar-dinheiro-para-israel.shtml)_
+
