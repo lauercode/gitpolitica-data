@@ -6499,3 +6499,6 @@
 - **[2026-10-16 09:10 UTC]** A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/16/a-crise-global-que-flavio-bolsonaro-ou-lula-terao-de-enfrentar-se-eleitos.ghtml)_
 
+- **[2026-10-16 06:00 UTC]** Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/ex-ministro-de-bolsonaro-weintraub-diz-que-nao-ira-votar-e-cita-suspeitas-de-corrupcao-contra-flavio.shtml)_
+
