@@ -50,3 +50,6 @@
 - **[2026-10-15 23:29 UTC]** Professora Dorinha fala sobre mudanças nas alianças e apresenta propostas na educação e saúde
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/playlist/professora-dorinha-fala-sobre-mudancas-nas-aliancas-e-apresenta-propostas-na-educacao-e-saude.ghtml)_
 
+- **[2026-10-15 22:27 UTC]** Professora Dorinha fala sobre mudanças nas alianças e apresenta propostas para educação, saúde e infraestrutura
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/15/dorinha-promete-duplicar-rodovias-a-partir-de-palmas-e-ampliar-vagas-em-creches-e-saude-no-interior.ghtml)_
+
