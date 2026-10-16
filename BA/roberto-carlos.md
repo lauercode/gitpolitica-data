@@ -20,3 +20,6 @@
 - **[2026-10-09 15:19 UTC]** Globo define gravação e detalhes do especial de fim de ano de Roberto Carlos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-define-gravacao-e-detalhes-do-especial-de-fim-de-ano-de-roberto-carlos.shtml)_
 
+- **[2026-10-16 10:51 UTC]** Record escala Acerte ou Caia! para concorrer com especial de Roberto Carlos na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/record-escala-acerte-ou-caia-para-concorrer-com-especial-de-roberto-carlos-na-globo.shtml)_
+
