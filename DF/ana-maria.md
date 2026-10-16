@@ -26,3 +26,6 @@
 - **[2026-10-13 06:00 UTC]** Com mais Ana Maria Braga, Chef de Alto Nível tenta adaptar receita ao paladar do público
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/com-mais-ana-maria-braga-chef-de-alto-nivel-tenta-adaptar-receita-ao-paladar-do-publico.shtml)_
 
+- **[2026-10-16 19:13 UTC]** Ana Maria Braga revela que já fez aborto: 'Achava que não tinha outro caminho'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/ana-maria-braga-revela-que-ja-fez-aborto-achava-que-nao-tinha-outro-caminho.shtml)_
+
