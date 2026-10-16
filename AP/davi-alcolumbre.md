@@ -434,3 +434,6 @@
 - **[2026-10-15 21:52 UTC]** Alcolumbre adia votação da PEC da Segurança Pública
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/alcolumbre-adia-votao-da-pec-da-segurana-pblica.ghtml)_
 
+- **[2026-10-15 21:09 UTC]** Alcolumbre retira PEC da Segurança Pública da pauta do Senado
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado)_
+
