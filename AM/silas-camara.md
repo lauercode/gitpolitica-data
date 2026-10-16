@@ -1562,3 +1562,6 @@ direitos
 - **[2026-10-16 16:53 UTC]** Câmara vai extinguir escala 6x1 para cerca de 1,7 mil terceirizados, diz Motta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/camara-vai-extinguir-escala-6x1-para-cerca-de-17-mil-terceirizados-diz-motta.shtml)_
 
+- **[2026-10-16 19:24 UTC]** Com salários de até R$ 6 mil, inscrições para concurso da Câmara de Rio Branco são prorrogadas
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/16/com-salarios-de-ate-r-6-mil-inscricoes-para-concurso-da-camara-de-rio-branco-sao-prorrogadas.ghtml)_
+
