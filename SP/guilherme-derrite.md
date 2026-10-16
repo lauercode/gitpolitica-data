@@ -98,3 +98,6 @@
 - **[2026-10-13 13:36 UTC]** Flávio prestigia festa de aniversário de Derrite, cotado para ser seu ministro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-prestigia-festa-de-aniversario-de-derrite-cotado-para-ser-seu-ministro.shtml)_
 
+- **[2026-10-16 18:36 UTC]** Derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-desponta-como-favorito-para-seguranca-publica-em-eventual-governo-flavio-bolsonaro.shtml)_
+
