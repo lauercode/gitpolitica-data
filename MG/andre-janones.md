@@ -107,3 +107,6 @@
 - **[2026-10-14 23:11 UTC]** Lula vai comprar celular se canal no WhatsApp chegar a 5 milhões, diz Janones
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vai-comprar-celular-se-canal-no-whatsapp-chegar-a-5-milhoes-diz-janones.shtml)_
 
+- **[2026-10-16 09:00 UTC]** Quem é André Janones, que está por trás do "Exército do Lula"
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/quem-e-andre-janones-que-esta-por-tras-do-exercito-do-lula.ghtml)_
+
