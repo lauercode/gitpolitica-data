@@ -6640,3 +6640,6 @@
 - **[2026-10-16 20:41 UTC]** Lula diz que Globo está sob suspeição após almoço de Flávio Bolsonaro com direção da emissora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-diz-que-globo-esta-sob-suspeicao-apos-almoco-de-flavio-bolsonaro-com-direcao-da-emissora.shtml)_
 
+- **[2026-10-16 19:30 UTC]** Se eleito, Flávio Bolsonaro levará a milícia ao Planalto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/10/se-eleito-flavio-bolsonaro-levara-a-milicia-ao-planalto.shtml)_
+
