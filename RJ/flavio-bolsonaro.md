@@ -6598,3 +6598,6 @@
 - **[2026-10-16 18:00 UTC]** O que Lula e Flávio Bolsonaro propõem para as mulheres
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/o-que-lula-e-flavio-bolsonaro-propoem-para-as-mulheres.shtml)_
 
+- **[2026-10-16 16:39 UTC]** Lula e Flávio disputam na porrinha!
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2026/10/lula-e-flavio-disputam-na-porrinha.shtml)_
+
