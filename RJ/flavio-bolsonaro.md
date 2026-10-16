@@ -6475,3 +6475,6 @@
 - **[2026-10-15 21:46 UTC]** Vitória ou derrota de Flávio ou Lula depende de 1,2 milhão de votos e 2 debates
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/vitoria-ou-derrota-de-flavio-ou-lula-depende-de-12-milhao-de-votos-e-2-debates.shtml)_
 
+- **[2026-10-15 21:31 UTC]** O sobe e desce de Flávio e Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/o-sobe-e-desce-de-flavio-e-lula.shtml)_
+
