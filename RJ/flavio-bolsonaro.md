@@ -6457,3 +6457,6 @@
 - **[2026-10-16 03:00 UTC]** Datafolha e Quaest mostram empate técnico entre Flávio Bolsonaro e Lula no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/datafolha-e-quaest-2o-turno.ghtml)_
 
+- **[2026-10-15 23:50 UTC]** Datafolha: Aliados de Lula associam empate a ruas e 6x1, e campanha de Flávio vê eleitorado consolidado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-aliados-de-lula-associam-empate-a-ruas-e-6x1-e-campanha-de-flavio-ve-eleitorado-consolidado.shtml)_
+
