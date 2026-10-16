@@ -6535,3 +6535,6 @@
 - **[2026-10-16 09:56 UTC]** Dólar abre em queda com alívio externo; juros futuros sobem com empate entre Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-com-alivio-externo-juros-futuros-sobem-com-empate-entre-lula-e-flavio.shtml)_
 
+- **[2026-10-15 23:00 UTC]** Dona de bet de investigado por fraude do INSS pagou voos de Flávio Bolsonaro na Europa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/bet-de-investigado-por-fraude-do-inss-pagou-voos-de-flavio-bolsonaro-na-europa.shtml)_
+
