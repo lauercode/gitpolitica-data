@@ -6532,3 +6532,6 @@
 - **[2026-10-16 10:00 UTC]** Flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-votou-contra-projeto-que-suspende-posse-de-arma-de-policial-que-comete-violencia-domestica.shtml)_
 
+- **[2026-10-16 09:56 UTC]** Dólar abre em queda com alívio externo; juros futuros sobem com empate entre Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-com-alivio-externo-juros-futuros-sobem-com-empate-entre-lula-e-flavio.shtml)_
+
