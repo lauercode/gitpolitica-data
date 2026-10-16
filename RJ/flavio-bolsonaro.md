@@ -6436,3 +6436,6 @@
 - **[2026-10-15 21:34 UTC]** Datafolha: Flávio Bolsonaro tem 47% e Lula, 45% das intenções de voto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/datafolha-flavio-bolsonaro-tem-47percent-e-lula-45percent-das-intencoes-de-voto.ghtml)_
 
+- **[2026-10-15 22:20 UTC]** Flávio Bolsonaro promete pena de 8 anos para quem rouba celular e pede votos de quem não votou no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/live-flavio-bolsonaro-datafolha-empate-tecnico-lula.ghtml)_
+
