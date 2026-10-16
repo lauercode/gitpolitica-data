@@ -6496,3 +6496,6 @@
 - **[2026-10-15 17:04 UTC]** Análise de ação contra vídeo que associa Flávio a cortes é suspensa
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/mendonca-suspende-sessao-atrasa-liberacao-de-video-que-associa-flavio-a-tesouraco-em-programas.ghtml)_
 
+- **[2026-10-16 09:10 UTC]** A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/16/a-crise-global-que-flavio-bolsonaro-ou-lula-terao-de-enfrentar-se-eleitos.ghtml)_
+
