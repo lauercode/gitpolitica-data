@@ -419,3 +419,6 @@
 - **[2026-10-15 20:10 UTC]** Alcolumbre vai promulgar fim da escala 6x1 nesta sexta
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta)_
 
+- **[2026-10-15 21:31 UTC]** Sem acordo sobre maioridade penal, Alcolumbre tira de pauta a PEC da Segurança
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/15/alcolumbre-tira-de-pauta-a-pec-do-seguranca.ghtml)_
+
