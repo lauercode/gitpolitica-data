@@ -6478,3 +6478,6 @@
 - **[2026-10-15 21:31 UTC]** O sobe e desce de Flávio e Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/o-sobe-e-desce-de-flavio-e-lula.shtml)_
 
+- **[2026-10-16 03:10 UTC]** Cleitinho passa mal após discurso no Senado e cancela ato com Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-passa-mal-apos-discurso-no-senado-e-cancela-ato-com-flavio-bolsonaro/)_
+
