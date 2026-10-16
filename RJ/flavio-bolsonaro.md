@@ -6589,3 +6589,6 @@
 - **[2026-10-16 17:39 UTC]** Na TV, Flávio defende redução de maioridade penal e Lula diz que adversário é ameaça ao fim da escala 6x1
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/na-tv-flavio-defende-reducao-de-maioridade-penal-e-lula-diz-que-adversario-e-ameaca-ao-fim-da-escala-6x1.ghtml)_
 
+- **[2026-10-16 15:20 UTC]** TSE nega pedido da campanha de Flávio para barrar posts de sindicatos
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-nega-pedido-da-campanha-de-flavio-para-barrar-posts-de-sindicatos)_
+
