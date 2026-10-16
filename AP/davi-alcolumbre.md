@@ -428,3 +428,6 @@
 - **[2026-10-15 22:04 UTC]** Alcolumbre retira PEC da Segurança da pauta do Senado após impasse no governo Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-impasse-no-governo-lula-alcolumbre-retira-pec-da-seguranca-da-pauta-do-senado/)_
 
+- **[2026-10-15 22:11 UTC]** Alcolumbre diz que promulgação da PEC do fim da jornada 6x1 ocorrerá nesta sexta-feira, pela manhã
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/alcolumbre-diz-que-promulgacao-da-pec-da-jornada-6x1-ocorrera-nesta-sexta-feira-pela-manha.ghtml)_
+
