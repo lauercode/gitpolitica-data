@@ -6484,3 +6484,6 @@
 - **[2026-10-16 02:58 UTC]** Flávio ironiza guinada da campanha de Lula sobre redução da maioridade penal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-ironiza-guinada-da-campanha-de-lula-sobre-reducao-da-maioridade-penal/)_
 
+- **[2026-10-16 00:02 UTC]** TSE atende campanha petista e impõe regras à Meta para garantir isonomia entre Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-atende-campanha-petista-e-impoe-regras-a-meta-para-garantir-isonomia-entre-lula-e-flavio/)_
+
