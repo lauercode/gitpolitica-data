@@ -53,3 +53,6 @@
 - **[2026-10-16 20:20 UTC]** JA2 faz sabatina com o candidato ao governo do TO no 2º turno, Vicentinho Júnior (PSDB), nesta sexta-feira (16)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/entrevistas-candidatos-tocantins-segundo-turno.ghtml)_
 
+- **[2026-10-16 23:32 UTC]** Vicentinho Júnior (PSDB) participa de entrevista no JA2; veja a íntegra e os temas abordados
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/16/vicentinho-junior-psdb-participa-de-entrevista-no-ja2-veja-a-integra-e-os-temas-abordados.ghtml)_
+
