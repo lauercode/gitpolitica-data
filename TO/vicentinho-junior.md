@@ -56,3 +56,6 @@
 - **[2026-10-16 23:32 UTC]** Vicentinho Júnior (PSDB) participa de entrevista no JA2; veja a íntegra e os temas abordados
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/16/vicentinho-junior-psdb-participa-de-entrevista-no-ja2-veja-a-integra-e-os-temas-abordados.ghtml)_
 
+- **[2026-10-16 23:03 UTC]** Vicentinho Júnior detalha alianças, defende ser ficha limpa e apresenta propostas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/playlist/vicentinho-junior-detalha-aliancas-defende-ser-ficha-limpa-e-apresenta-propostas.ghtml)_
+
