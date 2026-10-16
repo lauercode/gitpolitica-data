@@ -6439,3 +6439,6 @@
 - **[2026-10-15 22:20 UTC]** Flávio Bolsonaro promete pena de 8 anos para quem rouba celular e pede votos de quem não votou no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/live-flavio-bolsonaro-datafolha-empate-tecnico-lula.ghtml)_
 
+- **[2026-10-15 19:29 UTC]** TSE atende a Lula e manda Meta dar a ele tratamento igual ao de Flávio sob pena de multa de R$ 500 mil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-atende-lula-e-manda-meta-dar-a-ele-tratamento-igual-ao-de-flavio-sob-de-multa-de-r-500-mil.shtml)_
+
