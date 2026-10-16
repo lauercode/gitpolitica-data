@@ -6619,3 +6619,6 @@
 - **[2026-10-16 20:00 UTC]** Senador do PL promete dinheiro de emendas a cidades com mais votos em Flávio: especialistas veem indício de crime eleitoral
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4g1888n52eo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-16 20:43 UTC]** Flávio Bolsonaro está mentindo para o mercado ou para as pessoas, diz Durigan
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/16/flavio-bolsonaro-esta-mentindo-para-o-mercado-ou-para-as-pessoas-diz-durigan.ghtml)_
+
