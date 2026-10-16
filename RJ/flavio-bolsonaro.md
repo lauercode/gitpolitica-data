@@ -6601,3 +6601,6 @@
 - **[2026-10-16 16:39 UTC]** Lula e Flávio disputam na porrinha!
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2026/10/lula-e-flavio-disputam-na-porrinha.shtml)_
 
+- **[2026-10-16 16:17 UTC]** Campanha de Lula protesta contra Globo por receber Flávio antes de sabatina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/globo-recebe-flavio-para-almoco-antes-desabatina-e-campanha-de-lula-protesta.shtml)_
+
