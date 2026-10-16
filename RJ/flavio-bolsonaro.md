@@ -6613,3 +6613,6 @@
 - **[2026-10-16 15:11 UTC]** Lula usa fim da 6x1 contra Flávio Bolsonaro durante campanha em MG e dá recado a Cleitinho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-usa-fim-da-6x1-contra-flavio-bolsonaro-durante-campanha-em-mg.shtml)_
 
+- **[2026-10-16 19:48 UTC]** Lula ataca Flávio após promulgação do fim da escala 6×1 em ato em MG
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ataca-flavio-promulgacao-fim-escala-6x1-ato-em-mg/)_
+
