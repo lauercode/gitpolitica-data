@@ -6616,3 +6616,6 @@
 - **[2026-10-16 19:48 UTC]** Lula ataca Flávio após promulgação do fim da escala 6×1 em ato em MG
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-ataca-flavio-promulgacao-fim-escala-6x1-ato-em-mg/)_
 
+- **[2026-10-16 20:00 UTC]** Senador do PL promete dinheiro de emendas a cidades com mais votos em Flávio: especialistas veem indício de crime eleitoral
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4g1888n52eo?at_medium=RSS&at_campaign=rss)_
+
