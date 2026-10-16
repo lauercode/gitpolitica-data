@@ -6586,3 +6586,6 @@
 - **[2026-10-16 17:44 UTC]** Paes volta à campanha em ato com Lula no Rio, e Ruas percorre Estado por Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/paes-volta-a-campanha-em-ato-com-lula-no-rio-e-ruas-percorre-estado-por-flavio.ghtml)_
 
+- **[2026-10-16 17:39 UTC]** Na TV, Flávio defende redução de maioridade penal e Lula diz que adversário é ameaça ao fim da escala 6x1
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/na-tv-flavio-defende-reducao-de-maioridade-penal-e-lula-diz-que-adversario-e-ameaca-ao-fim-da-escala-6x1.ghtml)_
+
