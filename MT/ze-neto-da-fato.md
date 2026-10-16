@@ -104,3 +104,6 @@
 - **[2026-10-05 17:30 UTC]** É #FATO: Problema na rede elétrica atrasou funcionamento de urna em Barra do Mendes, na Bahia
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/05/e-fato-problema-na-rede-eletrica-atrasou-funcionamento-de-urna-em-barra-do-mendes-na-bahia.ghtml)_
 
+- **[2026-10-16 03:23 UTC]** Veja o que é #FATO ou #FAKE na entrevista de Lula à Globo no 2º turno das eleições 2026
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/veja-o-que-e-fato-ou-fake-na-entrevista-de-lula-a-globo-no-2o-turno-das-eleicoes-2026.ghtml)_
+
