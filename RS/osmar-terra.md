@@ -173,3 +173,6 @@
 - **[2026-10-14 20:52 UTC]** MG: principal foco de incêndio em Terra Indígena Maxakali é controlado
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-10/mg-principal-foco-de-incendio-em-terra-indigena-maxakali-e-controlado)_
 
+- **[2026-10-16 19:46 UTC]** Terra Bonita acelera ocupação urbana na zona sul de Londrina
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/harbor-londrina-novos-rumos-imobiliarios/noticia/2026/10/16/terra-bonita-acelera-ocupacao-urbana-na-zona-sul-de-londrina.ghtml)_
+
