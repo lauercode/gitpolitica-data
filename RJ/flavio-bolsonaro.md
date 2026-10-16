@@ -6445,3 +6445,6 @@
 - **[2026-10-15 22:38 UTC]** Flávio critica proposta de tarifa zero de ônibus de Lula: ‘promessa mirabolante’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/flvio-critica-proposta-de-tarifa-zero-de-nibus-de-lula-promessa-mirabolante.ghtml)_
 
+- **[2026-10-15 21:34 UTC]** Datafolha: Flávio Bolsonaro tem 47% e Lula, 45%, e estão em empate técnico
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/datafolha-flavio-bolsonaro-tem-47percent-e-lula-45percent-das-intencoes-de-voto.ghtml)_
+
