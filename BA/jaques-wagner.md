@@ -83,3 +83,6 @@
 - **[2026-10-10 12:32 UTC]** Wagner Moura e outros votantes brasileiros do Oscar pedem atenção às eleições em carta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/wagner-moura-e-outros-votantes-brasileiros-do-oscar-pedem-atencao-as-eleicoes-em-carta.shtml)_
 
+- **[2026-10-16 14:13 UTC]** Wagner Moura critica relação de Flávio Bolsonaro e Trump em vídeo; veja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/wagner-moura-critica-relacao-de-flavio-bolsonaro-e-trump-em-video-veja.shtml)_
+
