@@ -6514,3 +6514,6 @@
 - **[2026-10-16 08:00 UTC]** PEC de Flávio pode aumentar mandato e levar crise ao STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/pec-de-flavio-pode-aumentar-mandato-e-levar-crise-ao-stf.ghtml)_
 
+- **[2026-10-16 08:20 UTC]** Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-lula-e-flavio-divergem-sobre-ajuste-fiscal-e-papel-do-estado)_
+
