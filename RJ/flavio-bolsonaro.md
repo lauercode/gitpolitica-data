@@ -6487,3 +6487,6 @@
 - **[2026-10-16 00:02 UTC]** TSE atende campanha petista e impõe regras à Meta para garantir isonomia entre Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-atende-campanha-petista-e-impoe-regras-a-meta-para-garantir-isonomia-entre-lula-e-flavio/)_
 
+- **[2026-10-16 00:18 UTC]** Flávio grava recado para o pai em Capelinha (MG) e pede gritos de 'volta, Bolsonaro'
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/15/flvio-grava-recado-para-o-pai-em-capelinha-mg-e-pede-gritos-de-volta-bolsonaro.ghtml)_
+
