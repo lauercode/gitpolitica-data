@@ -1553,3 +1553,6 @@ direitos
 - **[2026-10-16 00:05 UTC]** Com apenas 2,8% do total, voto direto na legenda para a Câmara é o menor desde 1998
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-apenas-28-do-total-voto-direto-na-legenda-para-a-camara-e-o-menor-desde-1998.shtml)_
 
+- **[2026-10-16 19:53 UTC]** Motta determina adoção imediata da nova escala de trabalho na Câmara dos Deputados
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311899-motta-determina-adocao-imediata-da-nova-escala-de-trabalho-na-camara-dos-deputados)_
+
