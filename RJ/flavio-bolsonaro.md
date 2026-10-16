@@ -6646,3 +6646,6 @@
 - **[2026-10-16 18:37 UTC]** TSE define regras sobre canais no WhatsApp em campanhas após decisões conflitantes para Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-define-regras-sobre-canais-no-whatsapp-em-campanhas-apos-decisoes-conflitantes-para-lula-e-flavio.shtml)_
 
+- **[2026-10-16 18:36 UTC]** Derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-desponta-como-favorito-para-seguranca-publica-em-eventual-governo-flavio-bolsonaro.shtml)_
+
