@@ -6523,3 +6523,6 @@
 - **[2026-10-16 13:20 UTC]** 'Disputa acirrada na reta final': imprensa mundial repercute empate técnico de Flávio Bolsonaro e Lula nas pesquisas
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/16/repercute-internacional-pesquisas-intencao-de-voto-flavio-bolsonaro-lula-2o-turno.ghtml)_
 
+- **[2026-10-16 10:03 UTC]** Redução da maioridade penal: as diferenças nas propostas de Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-as-diferencas-nas-propostas-de-lula-e-flavio-bolsonaro.shtml)_
+
