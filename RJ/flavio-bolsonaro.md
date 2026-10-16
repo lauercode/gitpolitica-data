@@ -6481,3 +6481,6 @@
 - **[2026-10-16 03:10 UTC]** Cleitinho passa mal após discurso no Senado e cancela ato com Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-passa-mal-apos-discurso-no-senado-e-cancela-ato-com-flavio-bolsonaro/)_
 
+- **[2026-10-16 02:58 UTC]** Flávio ironiza guinada da campanha de Lula sobre redução da maioridade penal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-ironiza-guinada-da-campanha-de-lula-sobre-reducao-da-maioridade-penal/)_
+
