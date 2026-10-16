@@ -6472,3 +6472,6 @@
 - **[2026-10-15 22:00 UTC]** Oportunismo de Flávio se une ao de Lula contra a 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/oportunismo-de-flavio-se-une-ao-de-lula-contra-a-6x1.shtml)_
 
+- **[2026-10-15 21:46 UTC]** Vitória ou derrota de Flávio ou Lula depende de 1,2 milhão de votos e 2 debates
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/vitoria-ou-derrota-de-flavio-ou-lula-depende-de-12-milhao-de-votos-e-2-debates.shtml)_
+
