@@ -86,3 +86,6 @@
 - **[2026-10-11 15:10 UTC]** Globo fecha negócio inédito com a BBC e vende série 'Vermelho Sangue' para Reino Unido
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-fecha-negocio-inedito-com-a-bbc-e-vende-serie-vermelho-sangue-para-reino-unido.shtml)_
 
+- **[2026-10-16 18:19 UTC]** 'Vermelho Sangue': elenco fala sobre drama de lobos e vampiros adolescentes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/10/vermelho-sangue-elenco-fala-sobre-drama-de-lobos-e-vampiros-adolescentes.shtml)_
+
