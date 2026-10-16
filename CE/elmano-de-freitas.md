@@ -50,3 +50,6 @@
 - **[2026-10-05 00:17 UTC]** Elmano de Freitas, do PT, é reeleito governador do Ceará
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/elmano-de-freitas-e-reeleito-governador-do-ceara)_
 
+- **[2026-10-16 04:00 UTC]** 'Esquerda precisa renovar quadros', diz Elmano de Freitas, reeleito no Ceará
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/esquerda-precisa-renovar-quadros-diz-elmano-de-freitas-reeleito-no-ceara.shtml)_
+
