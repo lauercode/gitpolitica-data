@@ -92,3 +92,6 @@
 - **[2026-10-10 23:07 UTC]** Lucas volta, Calleri marca dois e São Paulo derrota o Vitória no Morumbis
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/lucas-volta-calleri-marca-dois-e-sao-paulo-derrota-o-vitoria-no-morumbis.shtml)_
 
+- **[2026-10-16 08:00 UTC]** Documentos levantam dúvida sobre papel de Lucas Kallas na Pincred
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/16/documentos-levantam-duvida-sobre-papel-de-lucas-kallas-na-pincred.ghtml)_
+
