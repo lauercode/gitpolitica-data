@@ -6541,3 +6541,6 @@
 - **[2026-10-16 11:16 UTC]** Justiça eleitoral manda PF investigar Ana Elisa por fake news contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-manda-pf-investigar-ana-elisa-por-fake-news-contra-flavio/)_
 
+- **[2026-10-16 13:07 UTC]** Que horas é a entrevista de Flávio Bolsonaro na Globo? Veja horário e onde assistir
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/que-horas-e-a-entrevista-de-flavio-bolsonaro-na-globo-veja-horario-e-onde-assistir.ghtml)_
+
