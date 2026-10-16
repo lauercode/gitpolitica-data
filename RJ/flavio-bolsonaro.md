@@ -6466,3 +6466,6 @@
 - **[2026-10-15 23:00 UTC]** Bet de investigado por fraude do INSS pagou voos de Flávio Bolsonaro na Europa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/bet-de-investigado-por-fraude-do-inss-pagou-voos-de-flavio-bolsonaro-na-europa.shtml)_
 
+- **[2026-10-15 23:00 UTC]** Sachsida é o favorito de Jair Bolsonaro para comandar Fazenda em eventual governo Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/sachsida-e-o-favorito-de-jair-bolsonaro-para-comandar-fazenda-em-eventual-governo-flavio.shtml)_
+
