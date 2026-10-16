@@ -20,3 +20,6 @@
 - **[2026-10-15 19:59 UTC]** PF cita ligação de Márcio Canella com milícia e acordo com Comando Vermelho
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/pf-cita-ligacao-de-marcio-canella-com-milicia-e-acordo-com-comando-vermelho.ghtml)_
 
+- **[2026-10-16 17:11 UTC]** Justiça mantém prisão de Márcio Canella após audiência de custódia
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/16/justica-mantem-prisao-de-marcio-canella-apos-audiencia-de-custodia.ghtml)_
+
