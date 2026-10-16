@@ -6610,3 +6610,6 @@
 - **[2026-10-16 15:30 UTC]** Justiça barra entrega de título de cidadão a Flávio Bolsonaro em Salvador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/justica-barra-entrega-de-titulo-de-cidadao-a-flavio-bolsonaro-em-salvador.shtml)_
 
+- **[2026-10-16 15:11 UTC]** Lula usa fim da 6x1 contra Flávio Bolsonaro durante campanha em MG e dá recado a Cleitinho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-usa-fim-da-6x1-contra-flavio-bolsonaro-durante-campanha-em-mg.shtml)_
+
