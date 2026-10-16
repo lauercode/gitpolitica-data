@@ -446,3 +446,6 @@
 - **[2026-10-16 12:54 UTC]** Lula chama antigo rompimento com Alcolumbre de 'futrica' e diz que autoritarismo ameaça a democracia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-chama-antigo-rompimento-com-alcolumbre-de-futrica-e-diz-que-autoritarismo-ameaca-a-democracia.shtml)_
 
+- **[2026-10-16 15:44 UTC]** Alcolumbre homenageia Paim no fim da 6x1; entenda motivo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-homenageia-paim-no-fim-da-6x1-entenda-motivo)_
+
