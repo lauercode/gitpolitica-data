@@ -155,3 +155,6 @@
 - **[2026-10-16 23:28 UTC]** VÍDEOS: Omar Aziz é entrevistado no Jornal do Amazonas 2ª edição
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/playlist/videos-omar-aziz-e-entrevistado-no-jornal-do-amazonas-2-edicao.ghtml)_
 
+- **[2026-10-16 22:28 UTC]** Omar Aziz promete construir sete hospitais e criar companhia aérea do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/16/omar-aziz-entrevista-jam2.ghtml)_
+
