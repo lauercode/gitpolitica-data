@@ -6643,3 +6643,6 @@
 - **[2026-10-16 19:30 UTC]** Se eleito, Flávio Bolsonaro levará a milícia ao Planalto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/10/se-eleito-flavio-bolsonaro-levara-a-milicia-ao-planalto.shtml)_
 
+- **[2026-10-16 18:37 UTC]** TSE define regras sobre canais no WhatsApp em campanhas após decisões conflitantes para Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-define-regras-sobre-canais-no-whatsapp-em-campanhas-apos-decisoes-conflitantes-para-lula-e-flavio.shtml)_
+
