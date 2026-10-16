@@ -6553,3 +6553,6 @@
 - **[2026-10-16 13:11 UTC]** TSE manda Flávio Bolsonaro detalhar denúncias de abusos eleitorais
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/tse-manda-flavio-bolsonaro-detalhar-denuncias-de-abusos-eleitorais)_
 
+- **[2026-10-16 16:23 UTC]** Cueva rejeita pedido de Flávio para restringir atuação de sindicatos e estudantes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/cueva-rejeita-pedido-de-flavio-para-restringir-atuacao-de-sindicatos-e-estudantes.ghtml)_
+
