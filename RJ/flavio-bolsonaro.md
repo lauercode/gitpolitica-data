@@ -6577,3 +6577,6 @@
 - **[2026-10-16 12:34 UTC]** Flávio Bolsonaro nega ida a dois eventos do Lide, de João Doria, na mesma semana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/flavio-bolsonaro-nega-ida-a-dois-eventos-do-lide-de-joao-doria-na-mesma-semana.shtml)_
 
+- **[2026-10-16 17:14 UTC]** Moraes autoriza Bolsonaro a receber convidados em aniversário da filha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-bolsonaro-a-receber-convidados-em-aniversario-da-filha/)_
+
