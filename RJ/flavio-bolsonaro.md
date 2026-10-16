@@ -6622,3 +6622,6 @@
 - **[2026-10-16 20:43 UTC]** Flávio Bolsonaro está mentindo para o mercado ou para as pessoas, diz Durigan
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/16/flavio-bolsonaro-esta-mentindo-para-o-mercado-ou-para-as-pessoas-diz-durigan.ghtml)_
 
+- **[2026-10-16 19:11 UTC]** Lula diz que escala 6x1 será retomada se Flávio Bolsonaro ganhar a eleição
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/lula-diz-que-escala-6x1-sera-retomada-se-flavio-bolsonaro-ganhar-a-eleicao.ghtml)_
+
