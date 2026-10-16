@@ -152,3 +152,6 @@
 - **[2026-10-16 19:53 UTC]** JAM2 entrevista Omar Aziz (PSD)
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/entrevista-candidatos-am-segundo-turno.ghtml)_
 
+- **[2026-10-16 23:28 UTC]** VÍDEOS: Omar Aziz é entrevistado no Jornal do Amazonas 2ª edição
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/playlist/videos-omar-aziz-e-entrevistado-no-jornal-do-amazonas-2-edicao.ghtml)_
+
