@@ -47,3 +47,6 @@
 - **[2026-10-15 21:47 UTC]** Professora Dorinha (União Brasil) é a entrevistada desta quinta-feira (15)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/entrevistas-candidatos-tocantins-segundo-turno.ghtml)_
 
+- **[2026-10-15 23:29 UTC]** Professora Dorinha fala sobre mudanças nas alianças e apresenta propostas na educação e saúde
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/playlist/professora-dorinha-fala-sobre-mudancas-nas-aliancas-e-apresenta-propostas-na-educacao-e-saude.ghtml)_
+
