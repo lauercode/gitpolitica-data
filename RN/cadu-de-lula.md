@@ -176,3 +176,6 @@
 - **[2026-10-16 12:57 UTC]** Saúde: veja as propostas de Allyson Bezerra e Cadu de Lula para o RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/16/saude-veja-as-propostas-de-allyson-bezerra-e-cadu-de-lula-para-o-rn.ghtml)_
 
+- **[2026-10-16 20:00 UTC]** Cadu de Lula faz caminhada em Parnamirim e promete obras viárias e conclusão de Hospital Metropolitano
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/16/cadu-de-lula-faz-caminhada-em-parnamirim-e-promete-obras-viarias-e-conclusao-de-hospital-metropolitano.ghtml)_
+
