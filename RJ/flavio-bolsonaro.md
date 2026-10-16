@@ -6460,3 +6460,6 @@
 - **[2026-10-15 23:50 UTC]** Datafolha: Aliados de Lula associam empate a ruas e 6x1, e campanha de Flávio vê eleitorado consolidado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-aliados-de-lula-associam-empate-a-ruas-e-6x1-e-campanha-de-flavio-ve-eleitorado-consolidado.shtml)_
 
+- **[2026-10-15 23:15 UTC]** Datafolha: Flávio tem 59% dos votos válidos entre não alinhados, contra 41% de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-tem-59-dos-votos-validos-entre-nao-alinhados-contra-41-de-lula.shtml)_
+
