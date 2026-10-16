@@ -4355,17 +4355,6 @@
     "camara_id": 74400
   },
   {
-    "slug": "paulo-soares",
-    "name": "Paulo Soares",
-    "role": "Deputado(a) Federal (SP)",
-    "party": "PODE",
-    "aliases": [
-      "Paulo Soares",
-      "Soares"
-    ],
-    "camara_id": 154700
-  },
-  {
     "slug": "paulo-teixeira",
     "name": "Paulo Teixeira",
     "role": "Deputado(a) Federal (SP)",
@@ -4634,6 +4623,17 @@
       "Reimont"
     ],
     "camara_id": 220606
+  },
+  {
+    "slug": "renata-abreu",
+    "name": "Renata Abreu",
+    "role": "Deputado(a) Federal (SP)",
+    "party": "PODE",
+    "aliases": [
+      "Renata Abreu",
+      "Abreu"
+    ],
+    "camara_id": 178989
   },
   {
     "slug": "renilce-nicodemos",
