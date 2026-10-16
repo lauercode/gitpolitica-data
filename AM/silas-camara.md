@@ -1559,3 +1559,6 @@ direitos
 - **[2026-10-16 19:48 UTC]** Com PEC promulgada, Câmara diz que vai aplicar fim da escala 6x1 já na próxima semana
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/10/16/com-pec-promulgada-camara-diz-que-vai-aplicar-fim-da-escala-6x1-ja-a-partir-da-proxima-semana.ghtml)_
 
+- **[2026-10-16 16:53 UTC]** Câmara vai extinguir escala 6x1 para cerca de 1,7 mil terceirizados, diz Motta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/camara-vai-extinguir-escala-6x1-para-cerca-de-17-mil-terceirizados-diz-motta.shtml)_
+
