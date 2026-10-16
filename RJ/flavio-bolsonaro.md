@@ -6538,3 +6538,6 @@
 - **[2026-10-15 23:00 UTC]** Dona de bet de investigado por fraude do INSS pagou voos de Flávio Bolsonaro na Europa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/bet-de-investigado-por-fraude-do-inss-pagou-voos-de-flavio-bolsonaro-na-europa.shtml)_
 
+- **[2026-10-16 11:16 UTC]** Justiça eleitoral manda PF investigar Ana Elisa por fake news contra Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-manda-pf-investigar-ana-elisa-por-fake-news-contra-flavio/)_
+
