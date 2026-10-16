@@ -6574,3 +6574,6 @@
 - **[2026-10-16 13:15 UTC]** Flávio deve percorrer Paulista em carro aberto em ato no domingo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-deve-percorrer-paulista-em-carro-aberto-em-ato-no-domingo.shtml)_
 
+- **[2026-10-16 12:34 UTC]** Flávio Bolsonaro nega ida a dois eventos do Lide, de João Doria, na mesma semana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/flavio-bolsonaro-nega-ida-a-dois-eventos-do-lide-de-joao-doria-na-mesma-semana.shtml)_
+
