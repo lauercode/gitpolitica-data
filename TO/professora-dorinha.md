@@ -53,3 +53,6 @@
 - **[2026-10-15 22:27 UTC]** Professora Dorinha fala sobre mudanças nas alianças e apresenta propostas para educação, saúde e infraestrutura
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/15/dorinha-promete-duplicar-rodovias-a-partir-de-palmas-e-ampliar-vagas-em-creches-e-saude-no-interior.ghtml)_
 
+- **[2026-10-16 00:15 UTC]** Professora Dorinha (União) participa de entrevista no JA2; veja a íntegra e os temas abordados
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/15/professora-dorinha-uniao-participa-de-entrevista-no-ja2-veja-a-integra-e-os-temas-abordados.ghtml)_
+
