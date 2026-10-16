@@ -14,3 +14,6 @@
 - **[2026-10-08 02:01 UTC]** Primeira Turma do STF julgará Oswaldo Eustáquio por suposta associação criminosa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/primeira-turma-do-stf-julgara-oswaldo-eustaquio-por-suposta-associacao-criminosa/)_
 
+- **[2026-10-16 14:14 UTC]** Moraes vota para tornar Oswaldo Eustáquio réu por associação criminosa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/moraes-vota-para-tornar-oswaldo-eustaquio-reu-por-associacao-criminosa.ghtml)_
+
