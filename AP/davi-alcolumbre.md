@@ -449,3 +449,6 @@
 - **[2026-10-16 15:44 UTC]** Alcolumbre homenageia Paim no fim da 6x1; entenda motivo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-homenageia-paim-no-fim-da-6x1-entenda-motivo)_
 
+- **[2026-10-16 20:27 UTC]** Cotado para presidir o Senado, Marinho confronta Alcolumbre sobre PEC da Segurança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cotado-para-presidir-o-senado-marinho-confronta-alcolumbre-sobre-pec-da-seguranca/)_
+
