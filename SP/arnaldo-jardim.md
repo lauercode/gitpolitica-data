@@ -86,3 +86,6 @@
 - **[2026-10-14 06:00 UTC]** Remoções no Jardim Apurá reacendem impasse sobre moradia em região da zona sul de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/remocoes-no-jardim-apura-reacendem-impasse-sobre-moradia-em-regiao-da-zona-sul-de-sp.shtml)_
 
+- **[2026-10-16 03:06 UTC]** Jardim Guedala: a 15 minutos do melhor de São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2026/10/16/jardim-guedala-a-15-minutos-do-melhor-de-sao-paulo.ghtml)_
+
