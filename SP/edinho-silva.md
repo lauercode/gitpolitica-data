@@ -17,3 +17,6 @@
 - **[2026-10-07 14:07 UTC]** Edinho Silva aposta em “confronto de projetos” de Lula contra Flávio neste segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pt-aposta-confronto-projetos-lula-contra-flavio-neste-segundo-turno/)_
 
+- **[2026-10-16 16:11 UTC]** Edinho Silva diz que há espaço para negociar com setores que possam ser afetados pelo fim da escala 6X1
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/16/edinho-silva-diz-que-h-espao-para-negociar-com-setores-que-possam-ser-afetados-pelo-fim-da-escala-6x1.ghtml)_
+
