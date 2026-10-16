@@ -6544,3 +6544,6 @@
 - **[2026-10-16 13:07 UTC]** Que horas é a entrevista de Flávio Bolsonaro na Globo? Veja horário e onde assistir
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/que-horas-e-a-entrevista-de-flavio-bolsonaro-na-globo-veja-horario-e-onde-assistir.ghtml)_
 
+- **[2026-10-16 12:54 UTC]** A ansiedade da Faria Lima às vésperas do debate entre Flávio e Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/10/a-ansiedade-da-faria-lima-as-vesperas-do-debate-entre-flavio-e-lula.ghtml)_
+
