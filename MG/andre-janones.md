@@ -116,3 +116,6 @@
 - **[2026-10-16 20:13 UTC]** Com decisão do TSE, canal de Janones não precisa mais de vínculo com campanha de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/com-deciso-do-tse-canal-de-janones-no-precisa-mais-de-vnculo-com-campanha-de-lula.ghtml)_
 
+- **[2026-10-16 18:26 UTC]** Lula planeja live com Janones durante sabatina de Flávio na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/lula-planeja-live-com-janones-durante-sabatina-de-flavio-na-globo.shtml)_
+
