@@ -173,3 +173,6 @@
 - **[2026-10-15 21:23 UTC]** Cadu de Lula promete adequar RN à Lei de Responsabilidade Fiscal em dois anos
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/15/cadu-de-lula-promete-adequar-rn-a-lei-de-responsabilidade-fiscal-em-dois-anos.ghtml)_
 
+- **[2026-10-16 12:57 UTC]** Saúde: veja as propostas de Allyson Bezerra e Cadu de Lula para o RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/16/saude-veja-as-propostas-de-allyson-bezerra-e-cadu-de-lula-para-o-rn.ghtml)_
+
