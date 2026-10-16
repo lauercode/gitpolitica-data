@@ -6658,3 +6658,6 @@
 - **[2026-10-16 22:58 UTC]** Lula questiona imparcialidade da Globo após encontro de Flávio com direção da emissora
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-questiona-imparcialidade-da-globo-apos-encontro-de-flavio-com-direcao-da-emissora/)_
 
+- **[2026-10-16 22:03 UTC]** Debate na Band no segundo turno: o que esperar do primeiro confronto entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss)_
+
