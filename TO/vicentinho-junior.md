@@ -59,3 +59,6 @@
 - **[2026-10-16 23:03 UTC]** Vicentinho Júnior detalha alianças, defende ser ficha limpa e apresenta propostas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/playlist/vicentinho-junior-detalha-aliancas-defende-ser-ficha-limpa-e-apresenta-propostas.ghtml)_
 
+- **[2026-10-16 22:29 UTC]** Vicentinho Júnior detalha alianças, defende ser ficha limpa e apresenta propostas para saúde e segurança pública
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/16/vicentinho-junior-detalha-aliancas-defende-ser-ficha-limpa-e-apresenta-propostas-para-saude-e-seguranca-publica.ghtml)_
+
