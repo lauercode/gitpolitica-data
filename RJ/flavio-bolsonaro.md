@@ -6493,3 +6493,6 @@
 - **[2026-10-15 18:03 UTC]** Em nota, Sindfisco reage a declarações de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/auditores-da-receita-sugerem-em-nota-que-flavio-bolsonaro-pode-interferir-no-orgao.ghtml)_
 
+- **[2026-10-15 17:04 UTC]** Análise de ação contra vídeo que associa Flávio a cortes é suspensa
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/mendonca-suspende-sessao-atrasa-liberacao-de-video-que-associa-flavio-a-tesouraco-em-programas.ghtml)_
+
