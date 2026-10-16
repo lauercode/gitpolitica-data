@@ -6550,3 +6550,6 @@
 - **[2026-10-16 12:23 UTC]** Juros futuros sobem com acirramento da disputa entre Lula e Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/16/juros-futuros-sobem-com-acirramento-da-disputa-entre-lula-e-flavio.ghtml)_
 
+- **[2026-10-16 13:11 UTC]** TSE manda Flávio Bolsonaro detalhar denúncias de abusos eleitorais
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/tse-manda-flavio-bolsonaro-detalhar-denuncias-de-abusos-eleitorais)_
+
