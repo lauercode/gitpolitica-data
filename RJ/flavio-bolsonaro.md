@@ -6592,3 +6592,6 @@
 - **[2026-10-16 15:20 UTC]** TSE nega pedido da campanha de Flávio para barrar posts de sindicatos
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-nega-pedido-da-campanha-de-flavio-para-barrar-posts-de-sindicatos)_
 
+- **[2026-10-16 18:31 UTC]** Na TV, Flávio Bolsonaro dedica propaganda às mulheres; Lula compara adversário a Milei e critica 'tesouraço'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/tv-propaganda-eleitoral-presidente-16-outubro.ghtml)_
+
