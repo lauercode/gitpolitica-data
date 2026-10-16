@@ -6631,3 +6631,6 @@
 - **[2026-10-16 23:23 UTC]** DAQUI A POUCO: Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml)_
 
+- **[2026-10-16 22:52 UTC]** Flávio Bolsonaro visita sede da Globo no Rio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/flavio-bolsonaro-visita-sede-da-globo-no-rio.ghtml)_
+
