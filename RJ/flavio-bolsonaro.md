@@ -6637,3 +6637,6 @@
 - **[2026-10-16 22:46 UTC]** Corregedor do TSE nega pedido de Flávio Bolsonaro para proibir gravações eleitorais no Planalto e no Alvorada
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/corregedor-do-tse-nega-pedido-de-flavio-bolsonaro-para-proibir-gravacoes-eleitorais-no-planalto-e-no-alvorada.ghtml)_
 
+- **[2026-10-16 20:41 UTC]** Lula diz que Globo está sob suspeição após almoço de Flávio Bolsonaro com direção da emissora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-diz-que-globo-esta-sob-suspeicao-apos-almoco-de-flavio-bolsonaro-com-direcao-da-emissora.shtml)_
+
