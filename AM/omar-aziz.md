@@ -149,3 +149,6 @@
 - **[2026-10-14 22:48 UTC]** Plínio Valério anuncia apoio a Omar Aziz no segundo turno das eleições no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/14/plinio-valerio-anuncia-apoio-a-omar-aziz-no-segundo-turno-das-eleicoes-no-amazonas.ghtml)_
 
+- **[2026-10-16 19:53 UTC]** JAM2 entrevista Omar Aziz (PSD)
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/entrevista-candidatos-am-segundo-turno.ghtml)_
+
