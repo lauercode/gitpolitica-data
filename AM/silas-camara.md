@@ -1556,3 +1556,6 @@ direitos
 - **[2026-10-16 19:53 UTC]** Motta determina adoção imediata da nova escala de trabalho na Câmara dos Deputados
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1311899-motta-determina-adocao-imediata-da-nova-escala-de-trabalho-na-camara-dos-deputados)_
 
+- **[2026-10-16 19:48 UTC]** Com PEC promulgada, Câmara diz que vai aplicar fim da escala 6x1 já na próxima semana
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/10/16/com-pec-promulgada-camara-diz-que-vai-aplicar-fim-da-escala-6x1-ja-a-partir-da-proxima-semana.ghtml)_
+
