@@ -6463,3 +6463,6 @@
 - **[2026-10-15 23:15 UTC]** Datafolha: Flávio tem 59% dos votos válidos entre não alinhados, contra 41% de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-tem-59-dos-votos-validos-entre-nao-alinhados-contra-41-de-lula.shtml)_
 
+- **[2026-10-15 23:00 UTC]** Bet de investigado por fraude do INSS pagou voos de Flávio Bolsonaro na Europa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/bet-de-investigado-por-fraude-do-inss-pagou-voos-de-flavio-bolsonaro-na-europa.shtml)_
+
