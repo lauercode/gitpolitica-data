@@ -44,3 +44,6 @@
 - **[2026-10-04 20:48 UTC]** Michelle Bolsonaro e Bia Kicis são eleitas senadoras pelo DF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/apuracao-para-o-senado-do-df-michelle-bolsonaro-tem-29percent-e-bia-kicis-27percent.ghtml)_
 
+- **[2026-10-16 13:00 UTC]** Se um ministro do STF for impichado, os outros vão se enquadrar, diz Bia Kicis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/se-um-ministro-do-stf-for-impichado-os-outros-vao-se-enquadrar-diz-bia-kicis.shtml)_
+
