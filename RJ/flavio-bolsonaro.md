@@ -6517,3 +6517,6 @@
 - **[2026-10-16 08:20 UTC]** Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-lula-e-flavio-divergem-sobre-ajuste-fiscal-e-papel-do-estado)_
 
+- **[2026-10-16 13:49 UTC]** Datafolha mostra desafios de candidatos: Flávio Bolsonaro tem de evitar mais perda de votos; Lula precisa ganhar eleitores
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/16/datafolha-mostra-desafios-a-candidatos-flavio-bolsonaro-tem-de-evitar-mais-perda-de-votos-lula-precisa-ganhar-eleitores.ghtml)_
+
