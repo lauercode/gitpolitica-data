@@ -113,3 +113,6 @@
 - **[2026-10-16 09:00 UTC]** Quem é André Janones, que está por trás do 'Exército do Lula'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/quem-e-andre-janones-que-esta-por-tras-do-exercito-do-lula.ghtml)_
 
+- **[2026-10-16 20:13 UTC]** Com decisão do TSE, canal de Janones não precisa mais de vínculo com campanha de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/com-deciso-do-tse-canal-de-janones-no-precisa-mais-de-vnculo-com-campanha-de-lula.ghtml)_
+
