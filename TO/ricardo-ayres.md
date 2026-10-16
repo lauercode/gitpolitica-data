@@ -89,3 +89,6 @@
 - **[2026-10-15 15:03 UTC]** Jornal Nacional homenageia Ayres Rocha, ícone do jornalismo acreano; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/15/jornal-nacional-homenageia-ayres-rocha-icone-do-jornalismo-acreano-video.ghtml)_
 
+- **[2026-10-16 16:39 UTC]** 'Amor não termina com a despedida', diz filho de Ayres Rocha ao homenagear jornalista
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/16/amor-nao-termina-com-a-despedida-diz-filho-de-ayres-rocha-ao-homenagear-jornalista.ghtml)_
+
