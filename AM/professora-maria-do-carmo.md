@@ -122,3 +122,6 @@
 - **[2026-10-15 22:24 UTC]** JAM2 entrevista Professora Maria do Carmo (PL)
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/entrevista-candidatos-am-segundo-turno.ghtml)_
 
+- **[2026-10-15 22:23 UTC]** Professora Maria do Carmo promete reforçar bombeiros e defende câmeras corporais para policiais no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/15/professora-maria-do-carmo-entrevista-jam2.ghtml)_
+
