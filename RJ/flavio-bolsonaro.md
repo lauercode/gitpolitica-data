@@ -6451,3 +6451,6 @@
 - **[2026-10-16 03:00 UTC]** Entrevista de Flávio Bolsonaro na Globo: veja quando e onde assistir
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/entrevista-flavio-bolsonaro-na-globo.ghtml)_
 
+- **[2026-10-16 03:00 UTC]** Primeira Turma do STF começa a julgar  nesta sexta denúncia e pode tornar réu blogueiro aliado de Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/primeira-turma-do-stf-comeca-a-julgar-nesta-sexta-denuncia-e-pode-tornar-reu-blogueiro-aliado-de-bolsonaro.ghtml)_
+
