@@ -116,3 +116,6 @@
 - **[2026-10-15 23:30 UTC]** Professora Maria do Carmo participa de entrevista no JAM2; veja ÍNTEGRA e tema por tema
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/15/professora-maria-do-carmo-participa-de-entrevista-no-jam2-veja-integra-e-tema-por-tema.ghtml)_
 
+- **[2026-10-15 23:12 UTC]** VÍDEOS: Professora Maria do Carmo é entrevistada no Jornal do Amazonas 2ª edição
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/playlist/videos-professora-maria-do-carmo-e-entrevistada-no-jornal-do-amazonas-2-edicao.ghtml)_
+
