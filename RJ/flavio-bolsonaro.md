@@ -6526,3 +6526,6 @@
 - **[2026-10-16 10:03 UTC]** Redução da maioridade penal: as diferenças nas propostas de Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-as-diferencas-nas-propostas-de-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-16 10:02 UTC]** Lula aprofunda campanha do medo contra Flávio Bolsonaro e cita Argentina e áudio de garoto com fome
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-aprofunda-campanha-do-medo-contra-flavio-bolsonaro-e-cita-argentina-e-audio-de-garoto-com-fome.shtml)_
+
