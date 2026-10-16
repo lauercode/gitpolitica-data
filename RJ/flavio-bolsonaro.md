@@ -6568,3 +6568,6 @@
 - **[2026-10-16 13:46 UTC]** Fim do 6x1 bate recorde de publicações nas redes e supera veto a bets e condenação de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/fim-do-6x1-bate-recorde-de-publicacoes-nas-redes-e-supera-veto-a-bets-e-condenacao-de-bolsonaro.shtml)_
 
+- **[2026-10-16 13:45 UTC]** Cortes orçamentários de Flávio Bolsonaro poupam a classe política
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/cortes-orcamentarios-de-flavio-bolsonaro-poupam-a-classe-politica.shtml)_
+
