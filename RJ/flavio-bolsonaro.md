@@ -6625,3 +6625,6 @@
 - **[2026-10-16 19:11 UTC]** Lula diz que escala 6x1 será retomada se Flávio Bolsonaro ganhar a eleição
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/lula-diz-que-escala-6x1-sera-retomada-se-flavio-bolsonaro-ganhar-a-eleicao.ghtml)_
 
+- **[2026-10-16 18:58 UTC]** Qual foi a diferença de votos entre Lula e Flávio Bolsonaro no primeiro turno?
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/qual-foi-a-diferenca-de-votos-entre-lula-e-flavio-bolsonaro-no-primeiro-turno.ghtml)_
+
