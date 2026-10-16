@@ -6547,3 +6547,6 @@
 - **[2026-10-16 12:54 UTC]** A ansiedade da Faria Lima às vésperas do debate entre Flávio e Lula
   _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/10/a-ansiedade-da-faria-lima-as-vesperas-do-debate-entre-flavio-e-lula.ghtml)_
 
+- **[2026-10-16 12:23 UTC]** Juros futuros sobem com acirramento da disputa entre Lula e Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/16/juros-futuros-sobem-com-acirramento-da-disputa-entre-lula-e-flavio.ghtml)_
+
