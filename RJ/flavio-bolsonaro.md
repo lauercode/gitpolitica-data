@@ -6664,3 +6664,6 @@
 - **[2026-10-16 22:56 UTC]** Lideranças políticas de Sergipe se mobilizam em apoio a Lula e Flávio no segundo turno
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/16/liderancas-politicas-sergipe-segundo-turno.ghtml)_
 
+- **[2026-10-16 22:41 UTC]** Em Minas, Lula busca aumentar rejeição a Flávio Bolsonaro e cita risco aos programas sociais
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/em-minas-lula-busca-aumentar-rejeicao-a-flavio-bolsonaro-e-cita-risco-aos-programas-sociais.ghtml)_
+
