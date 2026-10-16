@@ -74,3 +74,6 @@
 - **[2026-10-13 19:36 UTC]** Quaest: Mailza Assis (PP) tem 49% no Acre, ante 32% de Alan Rick (Republicanos)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-mailza-assis-pp-tem-49-no-acre-ante-32-de-alan-rick-republicanos.shtml)_
 
+- **[2026-10-16 13:19 UTC]** Mailza Assis (PP) cancela entrevista no JAC2 em sabatina do 2º turno no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/16/mailza-assis-pp-cancela-entrevista-no-jac2-em-sabatina-do-2o-turno-no-acre.ghtml)_
+
