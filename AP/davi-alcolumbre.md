@@ -416,3 +416,6 @@
 - **[2026-10-15 20:12 UTC]** Alcolumbre confirma para esta quinta-feira votação de projeto que altera teto do MEI
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/alcolumbre-confirma-para-esta-quinta-feira-votacao-de-projeto-que-altera-teto-do-mei.ghtml)_
 
+- **[2026-10-15 20:10 UTC]** Alcolumbre vai promulgar fim da escala 6x1 nesta sexta
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta)_
+
