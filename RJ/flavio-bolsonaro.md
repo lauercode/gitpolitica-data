@@ -6628,3 +6628,6 @@
 - **[2026-10-16 18:58 UTC]** Qual foi a diferença de votos entre Lula e Flávio Bolsonaro no primeiro turno?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/qual-foi-a-diferenca-de-votos-entre-lula-e-flavio-bolsonaro-no-primeiro-turno.ghtml)_
 
+- **[2026-10-16 23:23 UTC]** DAQUI A POUCO: Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml)_
+
