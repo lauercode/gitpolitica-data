@@ -107,3 +107,6 @@
 - **[2026-10-13 23:03 UTC]** Ato da campanha de Lula em SP tenta manter militância mobilizada e busca quem não votou no primeiro turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/campanha-de-lula-tenta-manter-militancia-mobilizada-em-sp-em-ato-da-virada.ghtml)_
 
+- **[2026-10-15 21:50 UTC]** Galeria Metrópole em SP restringe acesso após ato pró-Lula marcado em seu entorno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/galeria-metropole-em-sp-restringe-acesso-apos-ato-pro-lula-marcado-em-seu-entorno.shtml)_
+
