@@ -6580,3 +6580,6 @@
 - **[2026-10-16 17:14 UTC]** Moraes autoriza Bolsonaro a receber convidados em aniversário da filha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-autoriza-bolsonaro-a-receber-convidados-em-aniversario-da-filha/)_
 
+- **[2026-10-16 16:07 UTC]** Lula e Flávio Bolsonaro se enfrentam no domingo: veja como será o debate da Band
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-debate-band-segundo-turno/)_
+
