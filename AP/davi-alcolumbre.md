@@ -437,3 +437,6 @@
 - **[2026-10-15 21:09 UTC]** Alcolumbre retira PEC da Segurança Pública da pauta do Senado
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado)_
 
+- **[2026-10-16 08:00 UTC]** PT e Alcolumbre se unem por sobrevivência
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/pt-e-alcolumbre-se-unem-por-sobrevivencia.ghtml)_
+
