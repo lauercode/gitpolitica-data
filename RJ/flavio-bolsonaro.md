@@ -6505,3 +6505,6 @@
 - **[2026-10-16 08:47 UTC]** Distância entre Flávio e Lula é de 2 pontos no agregador de pesquisas da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-16 08:00 UTC]** Aliados de Flávio minimizam alcance de medidas populares
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/aliados-de-flavio-minimizam-alcance-de-medidas-populares.ghtml)_
+
