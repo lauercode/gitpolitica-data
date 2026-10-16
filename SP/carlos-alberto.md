@@ -17,3 +17,6 @@
 - **[2026-10-06 09:59 UTC]** Resultado das eleições 2026 em São Miguel (RN): votação para presidente na Escola Municipal Carlos Alberto Dias do Rego, na 43ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sao-miguel-rn-votacao-para-presidente-na-escola-municipal-carlos-alberto-dias-do-rego-na-43a-zona-eleitoral.ghtml)_
 
+- **[2026-10-16 14:05 UTC]** Carlos Alberto de Nóbrega é internado para investigar infecção viral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/carlos-alberto-de-nobrega-e-internado-para-investigar-infeccao-viral.shtml)_
+
