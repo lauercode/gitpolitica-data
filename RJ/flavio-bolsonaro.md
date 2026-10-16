@@ -6634,3 +6634,6 @@
 - **[2026-10-16 22:52 UTC]** Flávio Bolsonaro visita sede da Globo no Rio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/flavio-bolsonaro-visita-sede-da-globo-no-rio.ghtml)_
 
+- **[2026-10-16 22:46 UTC]** Corregedor do TSE nega pedido de Flávio Bolsonaro para proibir gravações eleitorais no Planalto e no Alvorada
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/corregedor-do-tse-nega-pedido-de-flavio-bolsonaro-para-proibir-gravacoes-eleitorais-no-planalto-e-no-alvorada.ghtml)_
+
