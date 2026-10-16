@@ -50,3 +50,6 @@
 - **[2026-10-14 22:14 UTC]** Quaest no TO, segundo turno: Vicentinho Júnior, 49%; Professora Dorinha, 42%
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/14/quaest-to-governador-segundo-turno-14-outubro.ghtml)_
 
+- **[2026-10-16 20:20 UTC]** JA2 faz sabatina com o candidato ao governo do TO no 2º turno, Vicentinho Júnior (PSDB), nesta sexta-feira (16)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/entrevistas-candidatos-tocantins-segundo-turno.ghtml)_
+
