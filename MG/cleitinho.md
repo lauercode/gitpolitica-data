@@ -200,3 +200,6 @@
 - **[2026-10-15 22:14 UTC]** Cleitinho eleva o tom contra Mateus Simões e diz que fará auditoria no governo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/cleitinho-eleva-o-tom-contra-mateus-simes-e-diz-que-far-auditoria-no-governo.ghtml)_
 
+- **[2026-10-16 03:10 UTC]** Cleitinho passa mal após discurso no Senado e cancela ato com Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-passa-mal-apos-discurso-no-senado-e-cancela-ato-com-flavio-bolsonaro/)_
+
