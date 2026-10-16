@@ -6490,3 +6490,6 @@
 - **[2026-10-16 00:18 UTC]** Flávio grava recado para o pai em Capelinha (MG) e pede gritos de 'volta, Bolsonaro'
   _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/15/flvio-grava-recado-para-o-pai-em-capelinha-mg-e-pede-gritos-de-volta-bolsonaro.ghtml)_
 
+- **[2026-10-15 18:03 UTC]** Em nota, Sindfisco reage a declarações de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/auditores-da-receita-sugerem-em-nota-que-flavio-bolsonaro-pode-interferir-no-orgao.ghtml)_
+
