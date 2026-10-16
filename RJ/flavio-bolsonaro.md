@@ -6649,3 +6649,6 @@
 - **[2026-10-16 18:36 UTC]** Derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-desponta-como-favorito-para-seguranca-publica-em-eventual-governo-flavio-bolsonaro.shtml)_
 
+- **[2026-10-16 18:30 UTC]** Datafolha: Reformas no STF são defendidas pela maioria que vota em Flávio Bolsonaro e em Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-reformas-no-stf-sao-defendidas-pela-maioria-que-vota-em-flavio-bolsonaro-e-em-lula.shtml)_
+
