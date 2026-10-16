@@ -1124,3 +1124,6 @@
 - **[2026-10-15 11:45 UTC]** Valdemar minimiza efeito do fim da 6x1 para Lula e diz que só atende eleitores do presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/valdemar-minimiza-efeito-do-fim-da-6x1-para-lula-e-diz-que-so-atende-eleitores-do-presidente.shtml)_
 
+- **[2026-10-16 02:08 UTC]** Análise: Lula se comporta como presidente e não como candidato e perde chance de virar votos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/analise-lula-se-comporta-como-presidente-e-nao-como-candidato-e-perde-chance-de-virar-votos.ghtml)_
+
