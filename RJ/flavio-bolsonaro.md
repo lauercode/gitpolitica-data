@@ -6778,3 +6778,6 @@
 - **[2026-10-17 09:00 UTC]** No último fim de semana antes do segundo turno, Lula foca em debate e Flávio, na Avenida Paulista
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/17/no-ultimo-fim-de-semana-antes-do-segundo-turno-lula-foca-em-debate-e-flavio-na-avenida-paulista.ghtml)_
 
+- **[2026-10-17 10:27 UTC]** Veja os planos de Flávio e Lula para as cidades e manejo do fogo
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/veja-os-planos-de-flavio-e-lula-para-cidades-e-manejo-do-fogo)_
+
