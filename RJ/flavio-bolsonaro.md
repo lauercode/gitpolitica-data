@@ -6838,3 +6838,6 @@
 - **[2026-10-17 18:05 UTC]** Disputa nas redes: Flávio pede postagem dos preços dos alimentos e PT aposta no verde, amarelo e L de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/disputa-nas-redes-flavio-pede-postagem-dos-precos-dos-alimentos-e-pt-aposta-no-verde-amarelo-e-l-de-lula/)_
 
+- **[2026-10-17 18:47 UTC]** Probabilidade de vitória cai para 75%, mas Flávio segue favorito sobre Lula, diz Eurasia
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/probabilidade-de-vitria-cai-para-75-pontos-percentuais-mas-flvio-segue-favorito-sobre-lula-diz-eurasia.ghtml)_
+
