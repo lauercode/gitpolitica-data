@@ -122,3 +122,6 @@
 - **[2026-10-17 12:39 UTC]** Apoiadores de Lula mobilizam redes usando verde e amarelo após convocação de Janones
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-mobilizam-redes-usando-verde-e-amarelo-apos-convocacao-de-janones.shtml)_
 
+- **[2026-10-17 12:00 UTC]** Três Poderes: Janones é o vencedor da semana e Meta, a perdedora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tres-poderes-janones-e-o-vencedor-da-semana-e-meta-a-perdedora.shtml)_
+
