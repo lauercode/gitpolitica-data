@@ -6739,3 +6739,6 @@
 - **[2026-10-17 00:35 UTC]** Flávio Bolsonaro afirma que vai manter regra de reajuste do salário mínimo e nega rever fim da escala 6x1
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/em-entrevista-a-globo-flavio-diz-que-vai-manter-reajuste-do-minimo-e-nega-desindexar-aposentadorias.ghtml)_
 
+- **[2026-10-17 00:28 UTC]** Apoiadores de Lula fazem panelaço contra Flávio Bolsonaro, que concede entrevista à Globo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/apoiadores-de-lula-fazem-panelaco-contra-flavio-bolsonaro-que-concede-entrevista-a-globo.ghtml)_
+
