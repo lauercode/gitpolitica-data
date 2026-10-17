@@ -146,3 +146,6 @@
 - **[2026-10-15 23:00 UTC]** Sachsida é o favorito de Jair Bolsonaro para comandar Fazenda em eventual governo Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/sachsida-e-o-favorito-de-jair-bolsonaro-para-comandar-fazenda-em-eventual-governo-flavio.shtml)_
 
+- **[2026-10-17 00:47 UTC]** Flávio diz que 'não está no radar' dar cargo para Jair Bolsonaro e nega nomear Eduardo chanceler, se eleito
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/em-entrevista-tv-flvio-nega-que-mudar-constituio-para-permitir-que-jair-bolsonaro-concorra-em-2030.ghtml)_
+
