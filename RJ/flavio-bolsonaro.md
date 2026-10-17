@@ -6745,3 +6745,6 @@
 - **[2026-10-17 00:55 UTC]** Em sabatina, Flávio não explica propostas e faz acusações sem provas
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-sabatina-flavio-nao-explica-propostas-e-faz-acusacoes-sem-provas)_
 
+- **[2026-10-17 07:00 UTC]** Estado 'espelho' do Brasil, MG entra no foco das campanhas de Lula e Flávio Bolsonaro para o 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/17/estado-espelho-do-brasil-mg-entra-no-foco-das-campanhas-de-lula-e-flavio-bolsonaro-para-o-2o-turno.ghtml)_
+
