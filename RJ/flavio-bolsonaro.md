@@ -6805,3 +6805,6 @@
 - **[2026-10-17 12:58 UTC]** Datafolha: eleitores de Flávio dizem votar por mudança, e os de Lula, por proteção social
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitores-de-flavio-dizem-votar-por-mudanca-e-os-de-lula-por-protecao-social.shtml)_
 
+- **[2026-10-17 12:28 UTC]** Lula defende crescimento para ajuste fiscal e Flávio fala em corte de gastos; veja o que disseram nas sabatinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-defende-crescimento-para-ajuste-fiscal-e-flavio-fala-em-corte-de-gastos-veja-o-que-disseram-nas-sabatinas.shtml)_
+
