@@ -1133,3 +1133,6 @@
 - **[2026-10-17 14:39 UTC]** Presidente do PT defende endurecer pena para crime hediondo e diz que Lula criará ministério da Segurança após PEC
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/presidente-do-pt-defende-endurecer-pena-para-crime-hediondo-e-diz-que-lula-criara-ministerio-da-seguranca-apos-pec.shtml)_
 
+- **[2026-10-17 19:15 UTC]** Presidente do PT quer confronto entre Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidente-do-pt-quer-confronto-entre-lula-e-flavio/)_
+
