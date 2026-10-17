@@ -6766,3 +6766,6 @@
 - **[2026-10-17 02:45 UTC]** Flávio Bolsonaro na Globo: o que disse o candidato à Presidência na 2ª entrevista à emissora
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmly0n1qdqr4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-17 03:00 UTC]** Análise: Flávio aposta na comparação com Lula e deixa ajuste fiscal em aberto
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/analise-flavio-aposta-na-comparacao-com-lula-e-deixa-ajuste-fiscal-em-aberto.ghtml)_
+
