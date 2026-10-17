@@ -6760,3 +6760,6 @@
 - **[2026-10-17 04:00 UTC]** Redução da maioridade penal tem apoio de 89% dos eleitores de Flávio e 70% dos que votam em Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-tem-apoio-de-89-dos-eleitores-de-flavio-e-70-dos-que-votam-em-lula.shtml)_
 
+- **[2026-10-17 04:00 UTC]** Debate da Band entre Lula e Flávio terá confronto livre de 30 minutos; veja regras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos-veja-regras.shtml)_
+
