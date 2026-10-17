@@ -110,3 +110,6 @@
 - **[2026-10-15 21:50 UTC]** Galeria Metrópole em SP restringe acesso após ato pró-Lula marcado em seu entorno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/galeria-metropole-em-sp-restringe-acesso-apos-ato-pro-lula-marcado-em-seu-entorno.shtml)_
 
+- **[2026-10-17 13:56 UTC]** Flávio leva aliados à Paulista e Lula mobiliza periferias de SP na reta final da campanha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-leva-aliados-a-paulista-e-lula-mobiliza-periferias-de-sp-na-reta-final-da-campanha/)_
+
