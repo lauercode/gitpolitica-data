@@ -6847,3 +6847,6 @@
 - **[2026-10-17 22:42 UTC]** Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml)_
 
+- **[2026-10-17 20:25 UTC]** Dono de bet publica foto de helicóptero adesivado em apoio a Flávio Bolsonaro: 'Partiu bloquinho'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/dono-de-bet-publica-foto-de-helicoptero-adesivado-em-apoio-a-flavio-bolsonaro-partiu-bloquinho.shtml)_
+
