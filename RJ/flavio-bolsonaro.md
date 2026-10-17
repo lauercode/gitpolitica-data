@@ -6808,3 +6808,6 @@
 - **[2026-10-17 12:28 UTC]** Lula defende crescimento para ajuste fiscal e Flávio fala em corte de gastos; veja o que disseram nas sabatinas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-defende-crescimento-para-ajuste-fiscal-e-flavio-fala-em-corte-de-gastos-veja-o-que-disseram-nas-sabatinas.shtml)_
 
+- **[2026-10-17 14:46 UTC]** Governadores eleitos do Sul fazem motociata e 'jetciata' em apoio a Flávio Bolsonaro, em Florianópolis
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/17/governadores-eleitos-do-sul-motociata-pro-flavio-bolsonaro-florianopolis.ghtml)_
+
