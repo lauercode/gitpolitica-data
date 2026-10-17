@@ -6835,3 +6835,6 @@
 - **[2026-10-17 18:51 UTC]** Cleitinho reafirma apoio a Flávio após aceno de Lula em Minas Gerais
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cleitinho-reafirma-apoio-a-flavio-apos-aceno-de-lula-em-minas-gerais/)_
 
+- **[2026-10-17 18:05 UTC]** Disputa nas redes: Flávio pede postagem dos preços dos alimentos e PT aposta no verde, amarelo e L de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/disputa-nas-redes-flavio-pede-postagem-dos-precos-dos-alimentos-e-pt-aposta-no-verde-amarelo-e-l-de-lula/)_
+
