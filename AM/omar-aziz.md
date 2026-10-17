@@ -158,3 +158,6 @@
 - **[2026-10-16 22:28 UTC]** Omar Aziz promete construir sete hospitais e criar companhia aérea do Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/16/omar-aziz-entrevista-jam2.ghtml)_
 
+- **[2026-10-16 23:45 UTC]** Omar Aziz participa de entrevista no JAM2; veja ÍNTEGRA e tema por tema
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/16/omar-aziz-participa-de-entrevista-no-jam2-veja-integra-e-tema-por-tema.ghtml)_
+
