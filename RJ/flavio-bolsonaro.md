@@ -6682,3 +6682,6 @@
 - **[2026-10-17 00:37 UTC]** VÍDEOS: Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-renata-lo-prete-entrevista-flavio-bolsonaro-candidato-a-presidencia-pelo-pl.ghtml)_
 
+- **[2026-10-17 00:17 UTC]** Flávio Bolsonaro promete manter fim da escala 6x1, diz que só quer um mandato e que se surpreendeu com prisão de aliados no RJ
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-entrevista-globo.ghtml)_
+
