@@ -6799,3 +6799,6 @@
 - **[2026-10-17 16:38 UTC]** Datafolha: eleitores de Flávio dizem buscar mudança; os de Lula, proteção social
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/17/datafolha-eleitores-de-flavio-dizem-buscar-mudanca-os-de-lula-protecao-social.ghtml)_
 
+- **[2026-10-17 13:31 UTC]** Flávio Bolsonaro chama pai de 'professor' em ato com Tarcísio no Espírito Santo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-chama-pai-de-professor-em-ato-com-tarcisio-no-espirito-santo.shtml)_
+
