@@ -6706,3 +6706,6 @@
 - **[2026-10-16 21:26 UTC]** Sabatina de Flávio Bolsonaro na Globo provoca panelaços de apoiadores de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/sabatina-de-flavio-bolsonaro-na-globo-provoca-panelacos-de-apoiadores-de-lula.shtml)_
 
+- **[2026-10-16 20:53 UTC]** Dinheiro pedido por Flávio a Vorcaro para 'Dark Horse' não saiu de patrocínio do Banco Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/dinheiro-pedido-por-flavio-a-vorcaro-para-dark-horse-nao-saiu-de-patrocinio-do-banco-master.shtml)_
+
