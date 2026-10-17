@@ -6733,3 +6733,6 @@
 - **[2026-10-17 01:03 UTC]** Flávio Bolsonaro diz que vai respeitar resultado da eleição, 'independente de qual for'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/flavio-bolsonaro-diz-que-vai-respeitar-resultado-da-eleicao-independente-de-qual-for.ghtml)_
 
+- **[2026-10-17 00:47 UTC]** Flávio diz que 'não está no radar' dar cargo para Jair Bolsonaro e nega nomear Eduardo chanceler, se eleito
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/em-entrevista-tv-flvio-nega-que-mudar-constituio-para-permitir-que-jair-bolsonaro-concorra-em-2030.ghtml)_
+
