@@ -6688,3 +6688,6 @@
 - **[2026-10-16 23:00 UTC]** Agro mira ministérios do Meio Ambiente e de Minas e Energia em eventual governo Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/agro-mira-ministerios-do-meio-ambiente-e-de-minas-e-energia-em-eventual-governo-flavio-bolsonaro.shtml)_
 
+- **[2026-10-16 22:38 UTC]** Tarcísio liga para Flávio e diz que ele brilhou na entrevista à Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tarcisio-liga-para-flavio-e-diz-que-ele-brilhou-na-entrevista-a-globo.shtml)_
+
