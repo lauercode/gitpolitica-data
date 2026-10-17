@@ -107,3 +107,6 @@
 - **[2026-10-14 23:39 UTC]** Flávio Bolsonaro votou a favor do fim da 6x1 em 'manobra eleitoreira', diz Erika Hilton
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/flavio-bolsonaro-votou-a-favor-do-fim-da-6x1-em-manobra-eleitoreira-diz-erika-hilton.shtml)_
 
+- **[2026-10-17 20:36 UTC]** Erika Hilton afirma estar recolhendo assinaturas para instalar CPI das ‘big techs’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/erika-hilton-afirma-estar-recolhendo-assinaturas-para-instalar-cpi-das-big-techs.ghtml)_
+
