@@ -176,3 +176,6 @@
 - **[2026-10-16 19:46 UTC]** Terra Bonita acelera ocupação urbana na zona sul de Londrina
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/harbor-londrina-novos-rumos-imobiliarios/noticia/2026/10/16/terra-bonita-acelera-ocupacao-urbana-na-zona-sul-de-londrina.ghtml)_
 
+- **[2026-10-17 02:34 UTC]** Corregedoria da PM deve apurar conduta de policiais após morte de jovem na Terra Firme, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/16/corregedoria-da-pm-deve-apurar-conduta-de-policiais-apos-morte-de-jovem-na-terra-firme-em-belem.ghtml)_
+
