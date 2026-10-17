@@ -6709,3 +6709,6 @@
 - **[2026-10-16 20:53 UTC]** Dinheiro pedido por Flávio a Vorcaro para 'Dark Horse' não saiu de patrocínio do Banco Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/dinheiro-pedido-por-flavio-a-vorcaro-para-dark-horse-nao-saiu-de-patrocinio-do-banco-master.shtml)_
 
+- **[2026-10-17 01:44 UTC]** Sabatina na Globo: Flávio propõe guerra às facções, fim da reeleição e destaca recordes negativos de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sabatina-na-globo-flavio-propoe-guerra-as-faccoes-fim-da-reeleicao-e-destaca-recordes-negativos-de-lula/)_
+
