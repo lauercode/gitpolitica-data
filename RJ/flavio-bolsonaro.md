@@ -6790,3 +6790,6 @@
 - **[2026-10-17 13:56 UTC]** Flávio leva aliados à Paulista e Lula mobiliza periferias de SP na reta final da campanha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-leva-aliados-a-paulista-e-lula-mobiliza-periferias-de-sp-na-reta-final-da-campanha/)_
 
+- **[2026-10-17 13:35 UTC]** Porteiro é levado à delegacia durante panelaço contra Flávio Bolsonaro em Maceió
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/10/17/porteiro-e-levado-a-delegacia-durante-panelaco-contra-flavio-bolsonaro-em-maceio.ghtml)_
+
