@@ -6727,3 +6727,6 @@
 - **[2026-10-17 01:46 UTC]** Análise: Em entrevista à TV Globo, Flávio Bolsonaro espalha suspeições para fugir de explicações
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/analise-em-entrevista-a-tv-globo-flavio-bolsonaro-espalha-suspeicoes-para-fugir-de-explicacoes.ghtml)_
 
+- **[2026-10-17 01:37 UTC]** Análise: Flávio disputou a condução da entrevista e procurou responder o que quis
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/16/analise-flavio-disputou-a-conducao-da-entrevista-e-procurou-responder-o-que-quis.ghtml)_
+
