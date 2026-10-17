@@ -6721,3 +6721,6 @@
 - **[2026-10-17 02:07 UTC]** Análise: Flávio Bolsonaro se compromete com aquilo que dificilmente conseguirá cumprir
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/analise-flavio-bolsonaro-se-compromete-com-aquilo-que-dificilmente-conseguira-cumprir.ghtml)_
 
+- **[2026-10-17 01:55 UTC]** Análise: Sombra de Jair paira sobre eventual governo Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/analise-sombra-de-jair-paira-sobre-eventual-governo-flavio-bolsonaro.ghtml)_
+
