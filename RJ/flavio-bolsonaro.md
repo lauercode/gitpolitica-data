@@ -6685,3 +6685,6 @@
 - **[2026-10-17 00:17 UTC]** Flávio Bolsonaro promete manter fim da escala 6x1, diz que só quer um mandato e que se surpreendeu com prisão de aliados no RJ
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-entrevista-globo.ghtml)_
 
+- **[2026-10-16 23:00 UTC]** Agro mira ministérios do Meio Ambiente e de Minas e Energia em eventual governo Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/agro-mira-ministerios-do-meio-ambiente-e-de-minas-e-energia-em-eventual-governo-flavio-bolsonaro.shtml)_
+
