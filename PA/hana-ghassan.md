@@ -86,3 +86,6 @@
 - **[2026-10-04 16:46 UTC]** Hana Ghassan (MDB) vota em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/04/hana-ghassan-mdb-vota-em-belem.ghtml)_
 
+- **[2026-10-17 07:00 UTC]** Vitória no Senado e derrota no Governo: por que Helder Barbalho não conseguiu eleger Hana Ghassan no PA
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/17/vitoria-no-senado-e-derrota-no-governo-por-que-helder-barbalho-nao-conseguiu-eleger-hana-ghassan-no-pa.ghtml)_
+
