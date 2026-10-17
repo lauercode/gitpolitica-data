@@ -47,3 +47,6 @@
 - **[2026-10-17 14:41 UTC]** TRE-RR considera ilegal segunda prisão de Jalser Renier nas eleições e mantém liberdade
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/17/tre-rr-considera-ilegal-segunda-prisao-de-jalser-renier-nas-eleicoes-e-mantem-liberdade.ghtml)_
 
+- **[2026-10-17 14:41 UTC]** TRE-RR considera ilegal segunda prisão de Jalser Renier nas eleições e mantém investigação
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/17/tre-rr-considera-ilegal-segunda-prisao-de-jalser-renier-nas-eleicoes-e-mantem-liberdade.ghtml)_
+
