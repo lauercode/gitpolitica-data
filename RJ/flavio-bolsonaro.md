@@ -6751,3 +6751,6 @@
 - **[2026-10-17 03:00 UTC]** ‘Dark Horse’: PF aponta divergência ‘severa’ entre recursos enviados ao exterior e os que retornaram ao Brasil para filme sobre Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/17/dark-horse-pf-aponta-divergencia-severa-entre-recursos-enviados-ao-exterior-e-os-que-retornaram-ao-brasil-para-filme-sobre-bolsonaro.ghtml)_
 
+- **[2026-10-17 03:00 UTC]** Jovens intensificam mobilização para conquistar votos para Lula e Flávio no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/jovens-intensificam-mobilizacao-para-conquistar-votos-para-lula-e-flavio-no-segundo-turno.ghtml)_
+
