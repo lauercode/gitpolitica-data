@@ -6850,3 +6850,6 @@
 - **[2026-10-17 20:25 UTC]** Dono de bet publica foto de helicóptero adesivado em apoio a Flávio Bolsonaro: 'Partiu bloquinho'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/dono-de-bet-publica-foto-de-helicoptero-adesivado-em-apoio-a-flavio-bolsonaro-partiu-bloquinho.shtml)_
 
+- **[2026-10-17 19:01 UTC]** Lula e Flávio Bolsonaro tentam mobilizar eleitores em estados sem 2º turno para governador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-e-flavio-bolsonaro-tentam-mobilizar-eleitores-em-estados-sem-2o-turno-para-governador.shtml)_
+
