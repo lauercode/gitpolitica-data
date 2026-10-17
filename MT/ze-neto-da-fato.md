@@ -107,3 +107,6 @@
 - **[2026-10-16 03:23 UTC]** Veja o que é #FATO ou #FAKE na entrevista de Lula à Globo no 2º turno das eleições 2026
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/veja-o-que-e-fato-ou-fake-na-entrevista-de-lula-a-globo-no-2o-turno-das-eleicoes-2026.ghtml)_
 
+- **[2026-10-17 01:44 UTC]** Veja o que é #FATO ou #FAKE na entrevista de Flávio Bolsonaro à Globo no 2º turno das eleições 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/16/veja-o-que-e-fato-ou-fake-na-entrevista-de-flavio-bolsonaro-a-globo-no-2o-turno-das-eleicoes-2026.ghtml)_
+
