@@ -6844,3 +6844,6 @@
 - **[2026-10-17 18:46 UTC]** Richarlison pede que PF investigue Flávio Bolsonaro por posse de imóvel de luxo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/richarlison-pede-que-pf-investigue-flavio-bolsonaro-por-posse-de-imovel-de-luxo.shtml)_
 
+- **[2026-10-17 22:42 UTC]** Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml)_
+
