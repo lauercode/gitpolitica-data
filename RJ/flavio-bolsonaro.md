@@ -6814,3 +6814,6 @@
 - **[2026-10-17 17:15 UTC]** Lula quer confronto e vai desmascarar Flávio Bolsonaro em debate, diz Edinho
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/17/lula-quer-confronto-e-vai-desmascarar-flavio-bolsonaro-em-debate-diz-edinho.ghtml)_
 
+- **[2026-10-17 19:02 UTC]** STJ abre investigação e exonera servidor suspeito de vazar minutas de decisões a advogado amigo de Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/17/stj-abre-investigacao-e-exonera-servidor-suspeito-de-vazar-minutas-a-advogado-amigo-de-flavio.ghtml)_
+
