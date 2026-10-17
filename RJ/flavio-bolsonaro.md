@@ -6811,3 +6811,6 @@
 - **[2026-10-17 14:46 UTC]** Governadores eleitos do Sul fazem motociata e 'jetciata' em apoio a Flávio Bolsonaro, em Florianópolis
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/17/governadores-eleitos-do-sul-motociata-pro-flavio-bolsonaro-florianopolis.ghtml)_
 
+- **[2026-10-17 17:15 UTC]** Lula quer confronto e vai desmascarar Flávio Bolsonaro em debate, diz Edinho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/17/lula-quer-confronto-e-vai-desmascarar-flavio-bolsonaro-em-debate-diz-edinho.ghtml)_
+
