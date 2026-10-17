@@ -6742,3 +6742,6 @@
 - **[2026-10-17 00:28 UTC]** Apoiadores de Lula fazem panelaço contra Flávio Bolsonaro, que concede entrevista à Globo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/apoiadores-de-lula-fazem-panelaco-contra-flavio-bolsonaro-que-concede-entrevista-a-globo.ghtml)_
 
+- **[2026-10-17 00:55 UTC]** Em sabatina, Flávio não explica propostas e faz acusações sem provas
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-sabatina-flavio-nao-explica-propostas-e-faz-acusacoes-sem-provas)_
+
