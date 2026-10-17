@@ -6715,3 +6715,6 @@
 - **[2026-10-17 00:54 UTC]** TSE nega pedido de Flávio para proibir Lula de gravar no Planalto e no Alvorada
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-nega-pedido-de-flavio-para-proibir-lula-de-gravar-no-planalto-e-no-alvorada/)_
 
+- **[2026-10-16 23:49 UTC]** TSE confirma decisão que mandou Meta garantir igualdade entre Flávio e Lula nas redes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-confirma-decisao-que-mandou-meta-garantir-igualdade-entre-flavio-e-lula-nas-redes/)_
+
