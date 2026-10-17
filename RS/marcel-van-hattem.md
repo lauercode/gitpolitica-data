@@ -32,3 +32,6 @@
 - **[2026-10-08 02:49 UTC]** Van Hattem diz a Gilmar que pedirá seu impeachment no Senado em 2027
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/van-hattem-diz-a-gilmar-que-pedira-seu-impeachment-no-senado-em-2027/)_
 
+- **[2026-10-17 15:10 UTC]** Van Hattem diz que impeachment de Moraes independe do resultado das eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/van-hattem-diz-que-impeachment-de-moraes-independe-do-resultado-das-eleicoes/)_
+
