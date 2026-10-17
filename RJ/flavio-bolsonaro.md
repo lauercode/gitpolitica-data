@@ -6754,3 +6754,6 @@
 - **[2026-10-17 03:00 UTC]** Jovens intensificam mobilização para conquistar votos para Lula e Flávio no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/jovens-intensificam-mobilizacao-para-conquistar-votos-para-lula-e-flavio-no-segundo-turno.ghtml)_
 
+- **[2026-10-17 02:45 UTC]** Flávio Bolsonaro diz que 'contrato não foi cumprido' ao responder por que pediu R$ 134 milhões a Vorcaro para filme que custou R$ 75 milhões
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-entrevista-globo-vorcaro-dark-horse.ghtml)_
+
