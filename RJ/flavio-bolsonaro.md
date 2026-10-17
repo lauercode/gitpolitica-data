@@ -6712,3 +6712,6 @@
 - **[2026-10-17 01:44 UTC]** Sabatina na Globo: Flávio propõe guerra às facções, fim da reeleição e destaca recordes negativos de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/sabatina-na-globo-flavio-propoe-guerra-as-faccoes-fim-da-reeleicao-e-destaca-recordes-negativos-de-lula/)_
 
+- **[2026-10-17 00:54 UTC]** TSE nega pedido de Flávio para proibir Lula de gravar no Planalto e no Alvorada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-nega-pedido-de-flavio-para-proibir-lula-de-gravar-no-planalto-e-no-alvorada/)_
+
