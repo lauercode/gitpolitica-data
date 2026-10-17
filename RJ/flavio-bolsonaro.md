@@ -6832,3 +6832,6 @@
 - **[2026-10-17 19:15 UTC]** Presidente do PT quer confronto entre Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidente-do-pt-quer-confronto-entre-lula-e-flavio/)_
 
+- **[2026-10-17 18:51 UTC]** Cleitinho reafirma apoio a Flávio após aceno de Lula em Minas Gerais
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/cleitinho-reafirma-apoio-a-flavio-apos-aceno-de-lula-em-minas-gerais/)_
+
