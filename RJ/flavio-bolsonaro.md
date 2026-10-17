@@ -6679,3 +6679,6 @@
 - **[2026-10-17 01:20 UTC]** Flávio Bolsonaro diz que 'não está no radar' nomear o pai e que Eduardo não será chanceler em eventual governo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-diz-que-nao-esta-no-radar-nomear-o-pai-e-que-eduardo-nao-sera-chanceler-em-eventual-governo.ghtml)_
 
+- **[2026-10-17 00:37 UTC]** VÍDEOS: Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-renata-lo-prete-entrevista-flavio-bolsonaro-candidato-a-presidencia-pelo-pl.ghtml)_
+
