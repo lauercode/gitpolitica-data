@@ -119,3 +119,6 @@
 - **[2026-10-16 18:26 UTC]** Lula planeja live com Janones durante sabatina de Flávio na Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/lula-planeja-live-com-janones-durante-sabatina-de-flavio-na-globo.shtml)_
 
+- **[2026-10-17 12:39 UTC]** Apoiadores de Lula mobilizam redes usando verde e amarelo após convocação de Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-mobilizam-redes-usando-verde-e-amarelo-apos-convocacao-de-janones.shtml)_
+
