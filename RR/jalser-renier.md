@@ -44,3 +44,6 @@
 - **[2026-10-02 19:54 UTC]** STF nega recurso da Ale-RR e mantém candidatura do ex-deputado Jalser Renier
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/02/stf-nega-recurso-da-ale-rr-e-mantem-candidatura-do-ex-deputado-jalser-renier.ghtml)_
 
+- **[2026-10-17 14:41 UTC]** TRE-RR considera ilegal segunda prisão de Jalser Renier nas eleições e mantém liberdade
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/17/tre-rr-considera-ilegal-segunda-prisao-de-jalser-renier-nas-eleicoes-e-mantem-liberdade.ghtml)_
+
