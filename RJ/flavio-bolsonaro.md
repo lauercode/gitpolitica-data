@@ -6772,3 +6772,6 @@
 - **[2026-10-17 10:00 UTC]** Veja as palavras mais faladas por Flávio Bolsonaro e Lula nas sabatinas à TV Globo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/veja-as-palavras-mais-faladas-por-flavio-bolsonaro-e-lula-nas-sabatinas-a-tv-globo.ghtml)_
 
+- **[2026-10-17 09:00 UTC]** Como linguagem corporal marcou sabatinas de Lula e Flávio; leia análise
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/como-linguagem-corporal-marcou-sabatinas-de-lula-e-flavio-leia-analise.ghtml)_
+
