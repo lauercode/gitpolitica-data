@@ -6820,3 +6820,6 @@
 - **[2026-10-17 17:58 UTC]** Na TV, Flávio Bolsonaro diz ser alvo de fake news, e Lula fala às mulheres
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml)_
 
+- **[2026-10-17 15:35 UTC]** Lula e Flávio vão em desespero rumo ao desempate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/lula-e-flavio-vao-em-desespero-rumo-ao-desempate.shtml)_
+
