@@ -6730,3 +6730,6 @@
 - **[2026-10-17 01:37 UTC]** Análise: Flávio disputou a condução da entrevista e procurou responder o que quis
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/16/analise-flavio-disputou-a-conducao-da-entrevista-e-procurou-responder-o-que-quis.ghtml)_
 
+- **[2026-10-17 01:03 UTC]** Flávio Bolsonaro diz que vai respeitar resultado da eleição, 'independente de qual for'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/flavio-bolsonaro-diz-que-vai-respeitar-resultado-da-eleicao-independente-de-qual-for.ghtml)_
+
