@@ -6670,3 +6670,6 @@
 - **[2026-10-16 22:27 UTC]** Flávio Bolsonaro concede entrevista à TV Globo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/flavio-bolsonaro-concede-entrevista-a-tv-globo.ghtml)_
 
+- **[2026-10-17 02:03 UTC]** Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL; VEJA ÍNTEGRA
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml)_
+
