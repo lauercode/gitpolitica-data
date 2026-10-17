@@ -6763,3 +6763,6 @@
 - **[2026-10-17 04:00 UTC]** Debate da Band entre Lula e Flávio terá confronto livre de 30 minutos; veja regras
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos-veja-regras.shtml)_
 
+- **[2026-10-17 02:45 UTC]** Flávio Bolsonaro na Globo: o que disse o candidato à Presidência na 2ª entrevista à emissora
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmly0n1qdqr4o?at_medium=RSS&at_campaign=rss)_
+
