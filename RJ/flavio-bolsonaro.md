@@ -6775,3 +6775,6 @@
 - **[2026-10-17 09:00 UTC]** Como linguagem corporal marcou sabatinas de Lula e Flávio; leia análise
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/como-linguagem-corporal-marcou-sabatinas-de-lula-e-flavio-leia-analise.ghtml)_
 
+- **[2026-10-17 09:00 UTC]** No último fim de semana antes do segundo turno, Lula foca em debate e Flávio, na Avenida Paulista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/17/no-ultimo-fim-de-semana-antes-do-segundo-turno-lula-foca-em-debate-e-flavio-na-avenida-paulista.ghtml)_
+
