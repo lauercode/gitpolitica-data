@@ -157,3 +157,6 @@
 - **[2026-10-09 19:47 UTC]** Rogério Marinho diz que PL não vai apoiar Allyson após candidato não assumir apoio a Flávio Bolsonaro no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/09/rogerio-marinho-diz-que-pl-nao-vai-apoiar-allyson-apos-candidato-nao-assumir-apoio-a-flavio-bolsonaro-no-rn.ghtml)_
 
+- **[2026-10-17 15:43 UTC]** Marcos Rogério (PL) indica 22 nomes para compor a equipe de transição do governo em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/17/equipe-de-transicao-do-governo-em-ro.ghtml)_
+
