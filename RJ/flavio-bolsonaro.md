@@ -6757,3 +6757,6 @@
 - **[2026-10-17 02:45 UTC]** Flávio Bolsonaro diz que 'contrato não foi cumprido' ao responder por que pediu R$ 134 milhões a Vorcaro para filme que custou R$ 75 milhões
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-entrevista-globo-vorcaro-dark-horse.ghtml)_
 
+- **[2026-10-17 04:00 UTC]** Redução da maioridade penal tem apoio de 89% dos eleitores de Flávio e 70% dos que votam em Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-tem-apoio-de-89-dos-eleitores-de-flavio-e-70-dos-que-votam-em-lula.shtml)_
+
