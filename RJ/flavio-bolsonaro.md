@@ -6724,3 +6724,6 @@
 - **[2026-10-17 01:55 UTC]** Análise: Sombra de Jair paira sobre eventual governo Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/analise-sombra-de-jair-paira-sobre-eventual-governo-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-17 01:46 UTC]** Análise: Em entrevista à TV Globo, Flávio Bolsonaro espalha suspeições para fugir de explicações
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/analise-em-entrevista-a-tv-globo-flavio-bolsonaro-espalha-suspeicoes-para-fugir-de-explicacoes.ghtml)_
+
