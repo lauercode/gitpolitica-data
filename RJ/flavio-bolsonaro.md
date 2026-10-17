@@ -6718,3 +6718,6 @@
 - **[2026-10-16 23:49 UTC]** TSE confirma decisão que mandou Meta garantir igualdade entre Flávio e Lula nas redes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-confirma-decisao-que-mandou-meta-garantir-igualdade-entre-flavio-e-lula-nas-redes/)_
 
+- **[2026-10-17 02:07 UTC]** Análise: Flávio Bolsonaro se compromete com aquilo que dificilmente conseguirá cumprir
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/analise-flavio-bolsonaro-se-compromete-com-aquilo-que-dificilmente-conseguira-cumprir.ghtml)_
+
