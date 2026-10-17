@@ -1127,3 +1127,6 @@
 - **[2026-10-16 02:08 UTC]** Análise: Lula se comporta como presidente e não como candidato e perde chance de virar votos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/analise-lula-se-comporta-como-presidente-e-nao-como-candidato-e-perde-chance-de-virar-votos.ghtml)_
 
+- **[2026-10-17 14:15 UTC]** Aliados avaliam que Lula se comportou como presidente em vez de candidato em sabatina na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-avaliam-que-lula-se-comportou-como-presidente-em-vez-de-candidato-em-sabatina-na-globo.shtml)_
+
