@@ -6673,3 +6673,6 @@
 - **[2026-10-17 02:03 UTC]** Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL; VEJA ÍNTEGRA
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml)_
 
+- **[2026-10-17 01:44 UTC]** Veja o que é #FATO ou #FAKE na entrevista de Flávio Bolsonaro à Globo no 2º turno das eleições 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/16/veja-o-que-e-fato-ou-fake-na-entrevista-de-flavio-bolsonaro-a-globo-no-2o-turno-das-eleicoes-2026.ghtml)_
+
