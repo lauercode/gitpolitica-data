@@ -6700,3 +6700,6 @@
 - **[2026-10-16 22:18 UTC]** TSE confirma decisão que obriga Meta a dar tratamento igual a Lula e Flávio em suas plataformas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-confirma-decisao-que-obriga-meta-a-dar-tratamento-igual-a-lula-e-flavio-em-suas-plataformas.shtml)_
 
+- **[2026-10-16 21:52 UTC]** Flávio Bolsonaro nega Eduardo chanceler e diz que 'não está no radar' nomear Jair
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-nega-eduardo-chanceler-e-diz-que-nao-esta-no-radar-nomear-jair.shtml)_
+
