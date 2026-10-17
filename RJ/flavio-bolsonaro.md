@@ -6703,3 +6703,6 @@
 - **[2026-10-16 21:52 UTC]** Flávio Bolsonaro nega Eduardo chanceler e diz que 'não está no radar' nomear Jair
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-nega-eduardo-chanceler-e-diz-que-nao-esta-no-radar-nomear-jair.shtml)_
 
+- **[2026-10-16 21:26 UTC]** Sabatina de Flávio Bolsonaro na Globo provoca panelaços de apoiadores de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/sabatina-de-flavio-bolsonaro-na-globo-provoca-panelacos-de-apoiadores-de-lula.shtml)_
+
