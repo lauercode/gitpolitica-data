@@ -6817,3 +6817,6 @@
 - **[2026-10-17 19:02 UTC]** STJ abre investigação e exonera servidor suspeito de vazar minutas de decisões a advogado amigo de Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/17/stj-abre-investigacao-e-exonera-servidor-suspeito-de-vazar-minutas-a-advogado-amigo-de-flavio.ghtml)_
 
+- **[2026-10-17 17:58 UTC]** Na TV, Flávio Bolsonaro diz ser alvo de fake news, e Lula fala às mulheres
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml)_
+
