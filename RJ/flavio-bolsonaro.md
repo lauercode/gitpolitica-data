@@ -6694,3 +6694,6 @@
 - **[2026-10-16 22:36 UTC]** Delator diz que Vorcaro omitiu que dinheiro enviado aos EUA iria para filme sobre Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/delator-diz-que-vorcaro-omitiu-que-dinheiro-enviado-aos-eua-iria-para-filme-sobre-bolsonaro.shtml)_
 
+- **[2026-10-16 22:30 UTC]** Flávio Bolsonaro marca 16% menos audiência que Lula em entrevista na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/flavio-bolsonaro-marca-16-menos-audiencia-que-lula-em-entrevista-na-globo.shtml)_
+
