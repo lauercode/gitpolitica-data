@@ -6781,3 +6781,6 @@
 - **[2026-10-17 10:27 UTC]** Veja os planos de Flávio e Lula para as cidades e manejo do fogo
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/veja-os-planos-de-flavio-e-lula-para-cidades-e-manejo-do-fogo)_
 
+- **[2026-10-17 11:29 UTC]** Advogado amigo de Flávio recebeu documentos vazados do STJ e MPF, diz site
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/advogado-amigo-de-flavio-recebeu-documentos-vazados-do-stj-e-mpf-diz-site.shtml)_
+
