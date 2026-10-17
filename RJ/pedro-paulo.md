@@ -536,3 +536,6 @@
 - **[2026-10-15 19:10 UTC]** 42 São Paulo é a 1a em IA no Prêmio Destaque Educação Brasil
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/10/15/42-sao-paulo-e-a-1a-em-ia-no-premio-destaque-educacao-brasil-1.ghtml)_
 
+- **[2026-10-16 22:13 UTC]** Paulo Vieira diz que Globo vetou visita a Lula para 'não levantar dúvidas sobre imparcialidade'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/paulo-vieira-diz-que-globo-vetou-visita-a-lula-para-nao-levantar-duvidas-sobre-imparcialidade.shtml)_
+
