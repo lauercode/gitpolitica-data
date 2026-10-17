@@ -6802,3 +6802,6 @@
 - **[2026-10-17 13:31 UTC]** Flávio Bolsonaro chama pai de 'professor' em ato com Tarcísio no Espírito Santo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-chama-pai-de-professor-em-ato-com-tarcisio-no-espirito-santo.shtml)_
 
+- **[2026-10-17 12:58 UTC]** Datafolha: eleitores de Flávio dizem votar por mudança, e os de Lula, por proteção social
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitores-de-flavio-dizem-votar-por-mudanca-e-os-de-lula-por-protecao-social.shtml)_
+
