@@ -6784,3 +6784,6 @@
 - **[2026-10-17 11:29 UTC]** Advogado amigo de Flávio recebeu documentos vazados do STJ e MPF, diz site
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/advogado-amigo-de-flavio-recebeu-documentos-vazados-do-stj-e-mpf-diz-site.shtml)_
 
+- **[2026-10-17 09:00 UTC]** Eleição de Flávio não garante ajuste fiscal, que precisará de plano imediato, mas efeito gradual, diz Felipe Salto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/eleicao-de-flavio-nao-garante-ajuste-fiscal-que-precisara-de-plano-imediato-mas-efeito-gradual-diz-felipe-salto.shtml)_
+
