@@ -89,3 +89,6 @@
 - **[2026-10-15 11:30 UTC]** Nikolas Ferreira posta vídeo feito com IA de Flávio Bolsonaro atirando com dois fuzis em piscina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ferreira-posta-video-feito-com-ia-de-flavio-bolsonaro-atirando-com-dois-fuzis-em-piscina.shtml)_
 
+- **[2026-10-17 06:00 UTC]** Entidades denunciam Meta ao MPE por alcance atípico de vídeos de Nikolas Ferreira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/entidades-denunciam-meta-ao-mpe-por-alcance-atipico-de-videos-de-nikolas-ferreira.shtml)_
+
