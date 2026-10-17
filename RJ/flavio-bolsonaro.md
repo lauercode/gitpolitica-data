@@ -6691,3 +6691,6 @@
 - **[2026-10-16 22:38 UTC]** Tarcísio liga para Flávio e diz que ele brilhou na entrevista à Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tarcisio-liga-para-flavio-e-diz-que-ele-brilhou-na-entrevista-a-globo.shtml)_
 
+- **[2026-10-16 22:36 UTC]** Delator diz que Vorcaro omitiu que dinheiro enviado aos EUA iria para filme sobre Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/delator-diz-que-vorcaro-omitiu-que-dinheiro-enviado-aos-eua-iria-para-filme-sobre-bolsonaro.shtml)_
+
