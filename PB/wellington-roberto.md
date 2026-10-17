@@ -92,3 +92,6 @@
 - **[2026-10-14 04:00 UTC]** Justiça nega a Roberto Setubal pedido para revogar doação milionária de acordo de divórcio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2026/10/justica-nega-a-roberto-setubal-pedido-para-revogar-doacao-milionaria-de-acordo-de-divorcio.shtml)_
 
+- **[2026-10-17 01:56 UTC]** Medidas tributárias da atual gestão promoveram justiça fiscal e fecharam brechas, diz tributarista Roberto Quiroga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/medidas-tributarias-da-atual-gestao-promoveram-justica-fiscal-e-fecharam-brechas-diz-tributarista-roberto-quiroga.shtml)_
+
