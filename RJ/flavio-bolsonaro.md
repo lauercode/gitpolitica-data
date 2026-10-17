@@ -6829,3 +6829,6 @@
 - **[2026-10-17 14:56 UTC]** Flávio Bolsonaro cobra Meta no TSE e também se diz prejudicado após restrições contra Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-cobra-meta-no-tse-e-tambem-se-diz-prejudicado-apos-restricoes-contra-lula.shtml)_
 
+- **[2026-10-17 19:15 UTC]** Presidente do PT quer confronto entre Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidente-do-pt-quer-confronto-entre-lula-e-flavio/)_
+
