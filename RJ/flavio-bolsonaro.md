@@ -6769,3 +6769,6 @@
 - **[2026-10-17 03:00 UTC]** Análise: Flávio aposta na comparação com Lula e deixa ajuste fiscal em aberto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/analise-flavio-aposta-na-comparacao-com-lula-e-deixa-ajuste-fiscal-em-aberto.ghtml)_
 
+- **[2026-10-17 10:00 UTC]** Veja as palavras mais faladas por Flávio Bolsonaro e Lula nas sabatinas à TV Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/veja-as-palavras-mais-faladas-por-flavio-bolsonaro-e-lula-nas-sabatinas-a-tv-globo.ghtml)_
+
