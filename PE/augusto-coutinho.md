@@ -17,3 +17,6 @@
 - **[2026-10-02 22:08 UTC]** Santos vira sobre o São Paulo com participação de Coutinho e gols de Gabigol
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/santos-vira-sobre-o-sao-paulo-com-participacao-de-coutinho-e-gols-de-gabigol.shtml)_
 
+- **[2026-10-18 18:19 UTC]** Coutinho marca primeiro gol pelo Santos e define virada sobre o Fluminense
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/coutinho-marca-primeiro-gol-pelo-santos-e-define-virada-sobre-o-fluminense.shtml)_
+
