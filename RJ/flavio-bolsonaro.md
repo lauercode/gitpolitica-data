@@ -6946,3 +6946,6 @@
 - **[2026-10-18 20:53 UTC]** Apoiadores de Lula fazem ato em Curitiba neste domingo; no sábado, cidade teve manifestação pró-Flávio Bolsonaro
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/10/18/apoiadores-lula-flavio-bolsonaro-curitiba.ghtml)_
 
+- **[2026-10-18 20:53 UTC]** Grupo Prerrogativas aciona PF para investigar contratação de empresa digital pela campanha de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/grupo-prerrogativas-aciona-pf-para-investigar-contratao-de-empresa-digital-pela-campanha-de-flvio.ghtml)_
+
