@@ -6901,3 +6901,6 @@
 - **[2026-10-18 15:20 UTC]** A uma semana do segundo turno, Flávio reúne milhares de apoiadores na Paulista
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bloquinho-do-22-ato-apoiadores-flavio-paulista/)_
 
+- **[2026-10-18 15:02 UTC]** Flávio e Lula estão empatados no agregador de pesquisas da BBC: veja números
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
