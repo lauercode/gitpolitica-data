@@ -6919,3 +6919,6 @@
 - **[2026-10-18 18:27 UTC]** A uma semana do segundo turno, Flávio reúne apoiadores na Paulista e provoca Lula para o debate
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bloquinho-do-22-ato-apoiadores-flavio-paulista/)_
 
+- **[2026-10-18 17:59 UTC]** USP estima que 71,9 mil pessoas participaram de ato de Flávio na Avenida Paulista
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/18/usp-estima-que-719-mil-pessoas-participaram-de-ato-de-flvio-na-avenida-paulista.ghtml)_
+
