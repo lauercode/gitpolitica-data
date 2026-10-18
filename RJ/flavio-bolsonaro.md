@@ -6916,3 +6916,6 @@
 - **[2026-10-18 11:24 UTC]** Flávio Bolsonaro reúne apoiadores na Paulista em manifestação e fala que o país está 'sem presidente'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-se-reunem-na-paulista-para-manifestacao.shtml)_
 
+- **[2026-10-18 18:27 UTC]** A uma semana do segundo turno, Flávio reúne apoiadores na Paulista e provoca Lula para o debate
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bloquinho-do-22-ato-apoiadores-flavio-paulista/)_
+
