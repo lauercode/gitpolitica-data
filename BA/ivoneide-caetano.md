@@ -32,3 +32,6 @@
 - **[2026-10-17 20:53 UTC]** TSE libera atos com mote de democracia no Rio, convocado por Caetano, Salvador e Porto Alegre, e rejeita vetar shows
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-libera-atos-com-mote-de-democracia-no-rio-convocado-por-caetano-salvador-e-porto-alegre-e-rejeita-vetar-shows.shtml)_
 
+- **[2026-10-18 14:00 UTC]** Caetano Veloso anuncia participação de Sônia Braga em ato pela democracia no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/caetano-veloso-anuncia-participacao-de-sonia-braga-em-ato-pela-democracia-no-rio.shtml)_
+
