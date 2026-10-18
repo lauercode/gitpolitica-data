@@ -6865,3 +6865,6 @@
 - **[2026-10-17 23:00 UTC]** Lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-aumenta-em-5-pontos-vantagem-sobre-flavio-entre-beneficiarios-do-bolsa-familia-diz-datafolha.shtml)_
 
+- **[2026-10-17 23:00 UTC]** Lula ultrapassa Flávio Bolsonaro em índice de popularidade digital após fôlego no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-ultrapassa-flavio-bolsonaro-em-indice-de-popularidade-digital-apos-folego-no-2o-turno.shtml)_
+
