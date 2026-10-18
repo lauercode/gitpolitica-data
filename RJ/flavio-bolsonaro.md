@@ -6943,3 +6943,6 @@
 - **[2026-10-18 20:43 UTC]** Apoiadores realizam ato pró-Flávio no entorno do Açude Velho, em Campina Grande
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/18/apoiadores-realizam-ato-pro-flavio-no-acude-velho-em-campina-grande-pb.ghtml)_
 
+- **[2026-10-18 20:53 UTC]** Apoiadores de Lula fazem ato em Curitiba neste domingo; no sábado, cidade teve manifestação pró-Flávio Bolsonaro
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/10/18/apoiadores-lula-flavio-bolsonaro-curitiba.ghtml)_
+
