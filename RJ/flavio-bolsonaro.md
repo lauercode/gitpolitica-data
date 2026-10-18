@@ -6973,3 +6973,6 @@
 - **[2026-10-18 23:26 UTC]** Começa o debate na Band: Lula e Flávio Bolsonaro têm primeiro embate direto
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-18 23:16 UTC]** Debate na Band: acompanhe ao vivo encontro entre Lula e Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/ao-vivo/2026/10/18/debate-na-band-e-hoje-veja-regras-horario-e-analises-ao-vivo.ghtml)_
+
