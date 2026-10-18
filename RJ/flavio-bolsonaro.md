@@ -6856,3 +6856,6 @@
 - **[2026-10-17 22:16 UTC]** Coligação de Lula aciona PGE e PF para apurar supostas vantagens da Meta à campanha de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/coligao-de-lula-aciona-pge-e-pf-para-apurar-supostas-vantagens-da-meta-campanha-de-flvio-bolsonaro.ghtml)_
 
+- **[2026-10-18 01:06 UTC]** Flávio Bolsonaro faz campanha em Vitória e Salvador; apoiadores realizam atos e carreatas em capitais brasileiras
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/noticia/2026/10/17/flavio-bolsonaro-faz-campanha-em-vitoria-e-salvador-apoiadores-realizam-atos-e-carreatas-em-capitais-brasileiras.ghtml)_
+
