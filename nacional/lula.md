@@ -1136,3 +1136,6 @@
 - **[2026-10-17 19:15 UTC]** Presidente do PT quer confronto entre Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidente-do-pt-quer-confronto-entre-lula-e-flavio/)_
 
+- **[2026-10-17 23:00 UTC]** Flávio Bolsonaro calibra tom para atacar Lula em debate, e presidente quer explicação sobre tesouraço
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-calibra-tom-para-atacar-lula-em-debate-e-presidente-quer-explicacao-sobre-tesouraco.shtml)_
+
