@@ -6970,3 +6970,6 @@
 - **[2026-10-18 21:22 UTC]** Moraes será relator de novo inquérito contra Flávio Bolsonaro no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-sera-relator-de-novo-inquerito-contra-flavio-bolsonaro-no-stf/)_
 
+- **[2026-10-18 23:26 UTC]** Começa o debate na Band: Lula e Flávio Bolsonaro têm primeiro embate direto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss)_
+
