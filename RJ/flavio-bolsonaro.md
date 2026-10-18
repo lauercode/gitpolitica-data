@@ -6937,3 +6937,6 @@
 - **[2026-10-18 21:12 UTC]** Debate na Band: Lula e Flávio Bolsonaro se enfrentam antes do 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-18 18:51 UTC]** Debate Lula x Flávio na Band: horário, data, regras e o que está em jogo no primeiro confronto direto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss)_
+
