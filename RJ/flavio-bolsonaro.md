@@ -6982,3 +6982,6 @@
 - **[2026-10-18 22:44 UTC]** Debate na Band: Flávio fala em 'combater mentira', e Lula diz esperar 'aula de civilidade'; acompanhe
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/debate-band-lula-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-18 22:37 UTC]** Aliados de Flávio dizem que ele deve usar entrevistas de amiga de Lulinha em debate
+  _fonte: [Valor Econômico](https://valor.globo.com/noticia/2026/10/18/aliados-de-flvio-dizem-que-ele-deve-usar-entrevistas-de-amiga-de-lulinha-em-debate.ghtml)_
+
