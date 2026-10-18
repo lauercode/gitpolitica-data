@@ -6940,3 +6940,6 @@
 - **[2026-10-18 18:51 UTC]** Debate Lula x Flávio na Band: horário, data, regras e o que está em jogo no primeiro confronto direto
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-18 20:43 UTC]** Apoiadores realizam ato pró-Flávio no entorno do Açude Velho, em Campina Grande
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/18/apoiadores-realizam-ato-pro-flavio-no-acude-velho-em-campina-grande-pb.ghtml)_
+
