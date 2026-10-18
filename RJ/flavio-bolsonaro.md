@@ -6877,3 +6877,6 @@
 - **[2026-10-18 01:13 UTC]** Flávio Bolsonaro defende aumentar segurança e diz que fará ‘de tudo para o pobre ficar rico’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/flavio-bolsonaro-defende-aumentar-seguranca-e-diz-que-fara-de-tudo-para-o-pobre-ficar-rico.ghtml)_
 
+- **[2026-10-18 03:00 UTC]** Confira o que Flávio Bolsonaro e Lula levaram para a propaganda eleitoral no rádio neste 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/campanha-eleitoral-radio-flavio-bolsonaro-lula.ghtml)_
+
