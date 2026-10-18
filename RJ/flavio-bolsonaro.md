@@ -6928,3 +6928,6 @@
 - **[2026-10-18 17:33 UTC]** Vantagem de Lula sobre os Bolsonaro cai em 98% das cidades do Nordeste
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vantagem-de-lula-sobre-os-bolsonaro-cai-em-98-das-cidades-do-nordeste.shtml)_
 
+- **[2026-10-18 15:52 UTC]** Veja imagens comparando os atos de Lula e Flávio na Paulista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-imagens-comparando-os-atos-de-lula-e-flavio-na-paulista.shtml)_
+
