@@ -6898,3 +6898,6 @@
 - **[2026-10-18 10:00 UTC]** Proposta de Flávio de instalar 1 milhão de câmeras enfrenta diferenças regionais e falta de eficácia comprovada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/proposta-de-flavio-de-instalar-1-milhao-de-cameras-enfrenta-diferencas-regionais-e-falta-de-eficacia-comprovada.shtml)_
 
+- **[2026-10-18 15:20 UTC]** A uma semana do segundo turno, Flávio reúne milhares de apoiadores na Paulista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bloquinho-do-22-ato-apoiadores-flavio-paulista/)_
+
