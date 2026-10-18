@@ -6910,3 +6910,6 @@
 - **[2026-10-18 14:16 UTC]** Lula e Flávio se enfrentam em debate neste domingo, visto como decisivo para o 2º turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/lula-e-flavio-se-enfrentam-em-debate-neste-domingo-visto-como-decisivo-para-o-2o-turno.ghtml)_
 
+- **[2026-10-18 18:02 UTC]** Reta final do 2º turno: Lula aposta em medidas populares para virar, e Flávio quer reforçar que manterá programas sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml)_
+
