@@ -452,3 +452,6 @@
 - **[2026-10-16 20:27 UTC]** Cotado para presidir o Senado, Marinho confronta Alcolumbre sobre PEC da Segurança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cotado-para-presidir-o-senado-marinho-confronta-alcolumbre-sobre-pec-da-seguranca/)_
 
+- **[2026-10-18 03:00 UTC]** Alcolumbre conta votos e traça planos para seguir no comando do Senado em governo de Lula ou de Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml)_
+
