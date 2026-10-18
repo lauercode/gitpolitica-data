@@ -29,3 +29,6 @@
 - **[2026-10-14 00:10 UTC]** Caetano convoca ato pela democracia no Rio no mesmo dia de manifestação de Flávio na Paulista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caetano-convoca-ato-pela-democracia-no-rio-no-mesmo-dia-de-manifestacao-de-flavio-na-paulista.shtml)_
 
+- **[2026-10-17 20:53 UTC]** TSE libera atos com mote de democracia no Rio, convocado por Caetano, Salvador e Porto Alegre, e rejeita vetar shows
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-libera-atos-com-mote-de-democracia-no-rio-convocado-por-caetano-salvador-e-porto-alegre-e-rejeita-vetar-shows.shtml)_
+
