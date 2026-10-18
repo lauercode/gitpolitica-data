@@ -6934,3 +6934,6 @@
 - **[2026-10-18 20:52 UTC]** Ministra do TSE determina que vice de Flávio apague vídeo que associa Lula ao crime organizado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ministra-do-tse-determina-que-vice-de-flavio-apague-video-que-associa-lula-ao-crime-organizado/)_
 
+- **[2026-10-18 21:12 UTC]** Debate na Band: Lula e Flávio Bolsonaro se enfrentam antes do 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss)_
+
