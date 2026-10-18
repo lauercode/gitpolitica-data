@@ -6922,3 +6922,6 @@
 - **[2026-10-18 17:59 UTC]** USP estima que 71,9 mil pessoas participaram de ato de Flávio na Avenida Paulista
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/18/usp-estima-que-719-mil-pessoas-participaram-de-ato-de-flvio-na-avenida-paulista.ghtml)_
 
+- **[2026-10-18 14:52 UTC]** Flávio Bolsonaro participa de ato com apoiadores na Avenida Paulista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/18/flavio-bolsonaro-participa-de-ato-de-bolsonaristas-na-avenida-paulista.ghtml)_
+
