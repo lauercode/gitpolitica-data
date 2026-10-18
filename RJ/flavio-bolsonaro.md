@@ -6889,3 +6889,6 @@
 - **[2026-10-18 06:00 UTC]** Flávio Bolsonaro comemorou exoneração de Garotinho como secretário de Segurança do Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-bolsonaro-comemorou-exoneracao-de-garotinho-como-secretario-de-seguranca-do-rio.shtml)_
 
+- **[2026-10-18 09:10 UTC]** Lula e Flávio disputam as ruas na reta final da campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/lula-e-flavio-disputam-as-ruas-na-reta-final-da-campanha.ghtml)_
+
