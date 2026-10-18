@@ -35,3 +35,6 @@
 - **[2026-10-18 14:00 UTC]** Caetano Veloso anuncia participação de Sônia Braga em ato pela democracia no Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/caetano-veloso-anuncia-participacao-de-sonia-braga-em-ato-pela-democracia-no-rio.shtml)_
 
+- **[2026-10-18 17:34 UTC]** Ato a favor de Lula convocado por Caetano reúne artistas e ocupa orla do Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-a-favor-de-lula-convocado-por-caetano-reune-artistas-e-ocupa-orla-do-rio.shtml)_
+
