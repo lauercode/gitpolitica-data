@@ -6859,3 +6859,6 @@
 - **[2026-10-18 01:06 UTC]** Flávio Bolsonaro faz campanha em Vitória e Salvador; apoiadores realizam atos e carreatas em capitais brasileiras
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/noticia/2026/10/17/flavio-bolsonaro-faz-campanha-em-vitoria-e-salvador-apoiadores-realizam-atos-e-carreatas-em-capitais-brasileiras.ghtml)_
 
+- **[2026-10-17 23:00 UTC]** Flávio Bolsonaro calibra tom para atacar Lula em debate, e presidente quer explicação sobre tesouraço
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-calibra-tom-para-atacar-lula-em-debate-e-presidente-quer-explicacao-sobre-tesouraco.shtml)_
+
