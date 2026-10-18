@@ -6880,3 +6880,6 @@
 - **[2026-10-18 03:00 UTC]** Confira o que Flávio Bolsonaro e Lula levaram para a propaganda eleitoral no rádio neste 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/campanha-eleitoral-radio-flavio-bolsonaro-lula.ghtml)_
 
+- **[2026-10-18 03:00 UTC]** No Instagram, Lula muda o discurso no segundo turno, e Flávio Bolsonaro mantém foco em voto e confronto
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/instagram-lula-flavio-bolsonaro-segundo-turno.ghtml)_
+
