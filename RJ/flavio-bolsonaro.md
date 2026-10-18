@@ -6961,3 +6961,6 @@
 - **[2026-10-18 22:36 UTC]** STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml)_
 
+- **[2026-10-18 19:41 UTC]** Míssil inflável levado a ato de Flávio Bolsonaro em SP pede ataque de Trump no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/missil-inflavel-levado-a-ato-de-flavio-bolsonaro-em-sp-pede-ataque-de-trump-no-brasil.shtml)_
+
