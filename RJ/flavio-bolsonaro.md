@@ -6862,3 +6862,6 @@
 - **[2026-10-17 23:00 UTC]** Flávio Bolsonaro calibra tom para atacar Lula em debate, e presidente quer explicação sobre tesouraço
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-calibra-tom-para-atacar-lula-em-debate-e-presidente-quer-explicacao-sobre-tesouraco.shtml)_
 
+- **[2026-10-17 23:00 UTC]** Lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-aumenta-em-5-pontos-vantagem-sobre-flavio-entre-beneficiarios-do-bolsa-familia-diz-datafolha.shtml)_
+
