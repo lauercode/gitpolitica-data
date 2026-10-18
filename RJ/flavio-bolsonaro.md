@@ -6955,3 +6955,6 @@
 - **[2026-10-18 19:44 UTC]** Campanha de Flávio Bolsonaro realiza manifestação na Paulista
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-bolsonaro-realiza-manifestacao-na-paulista)_
 
+- **[2026-10-18 23:16 UTC]** Lula e Flávio Bolsonaro fazem o primeiro debate
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml)_
+
