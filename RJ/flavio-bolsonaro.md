@@ -6913,3 +6913,6 @@
 - **[2026-10-18 18:02 UTC]** Reta final do 2º turno: Lula aposta em medidas populares para virar, e Flávio quer reforçar que manterá programas sociais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml)_
 
+- **[2026-10-18 11:24 UTC]** Flávio Bolsonaro reúne apoiadores na Paulista em manifestação e fala que o país está 'sem presidente'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-se-reunem-na-paulista-para-manifestacao.shtml)_
+
