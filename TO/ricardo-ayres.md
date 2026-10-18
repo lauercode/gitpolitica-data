@@ -92,3 +92,6 @@
 - **[2026-10-16 16:39 UTC]** 'Amor não termina com a despedida', diz filho de Ayres Rocha ao homenagear jornalista
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/16/amor-nao-termina-com-a-despedida-diz-filho-de-ayres-rocha-ao-homenagear-jornalista.ghtml)_
 
+- **[2026-10-18 11:00 UTC]** Você viu? Morte de Ayres Rocha, detentos seguem foragidos, pesquisa Quaest e mais
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/18/voce-viu-morte-de-ayres-rocha-detentos-seguem-foragidos-pesquisa-quaest-e-mais.ghtml)_
+
