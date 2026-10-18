@@ -6886,3 +6886,6 @@
 - **[2026-10-18 03:00 UTC]** Alcolumbre conta votos e traça planos para seguir no comando do Senado em governo de Lula ou de Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml)_
 
+- **[2026-10-18 06:00 UTC]** Flávio Bolsonaro comemorou exoneração de Garotinho como secretário de Segurança do Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-bolsonaro-comemorou-exoneracao-de-garotinho-como-secretario-de-seguranca-do-rio.shtml)_
+
