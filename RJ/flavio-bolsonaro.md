@@ -6949,3 +6949,6 @@
 - **[2026-10-18 20:53 UTC]** Grupo Prerrogativas aciona PF para investigar contratação de empresa digital pela campanha de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/grupo-prerrogativas-aciona-pf-para-investigar-contratao-de-empresa-digital-pela-campanha-de-flvio.ghtml)_
 
+- **[2026-10-18 19:43 UTC]** Que horas é o debate da Band hoje? Veja horário, regras e como assistir ao confronto de Lula e Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/que-horas-e-o-debate-da-band-entre-lula-e-flavio-bolsonaro-veja-horario-regras-e-como-assistir.ghtml)_
+
