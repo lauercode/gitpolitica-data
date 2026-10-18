@@ -6904,3 +6904,6 @@
 - **[2026-10-18 15:02 UTC]** Flávio e Lula estão empatados no agregador de pesquisas da BBC: veja números
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-18 14:52 UTC]** Flávio Bolsonaro participa de ato de bolsonaristas na Avenida Paulista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/18/flavio-bolsonaro-participa-de-ato-de-bolsonaristas-na-avenida-paulista.ghtml)_
+
