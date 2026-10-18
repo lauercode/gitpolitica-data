@@ -6907,3 +6907,6 @@
 - **[2026-10-18 14:52 UTC]** Flávio Bolsonaro participa de ato de bolsonaristas na Avenida Paulista
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/18/flavio-bolsonaro-participa-de-ato-de-bolsonaristas-na-avenida-paulista.ghtml)_
 
+- **[2026-10-18 14:16 UTC]** Lula e Flávio se enfrentam em debate neste domingo, visto como decisivo para o 2º turno
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/lula-e-flavio-se-enfrentam-em-debate-neste-domingo-visto-como-decisivo-para-o-2o-turno.ghtml)_
+
