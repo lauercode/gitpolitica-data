@@ -6874,3 +6874,6 @@
 - **[2026-10-18 00:37 UTC]** Ato em São Paulo busca consolidar apoio a Flávio na reta final do 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ato-em-sao-paulo-busca-consolidar-apoio-flavio-bolsonaro-reta-final-segundo-turno/)_
 
+- **[2026-10-18 01:13 UTC]** Flávio Bolsonaro defende aumentar segurança e diz que fará ‘de tudo para o pobre ficar rico’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/flavio-bolsonaro-defende-aumentar-seguranca-e-diz-que-fara-de-tudo-para-o-pobre-ficar-rico.ghtml)_
+
