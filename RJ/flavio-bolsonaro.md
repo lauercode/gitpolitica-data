@@ -6958,3 +6958,6 @@
 - **[2026-10-18 23:16 UTC]** Lula e Flávio Bolsonaro fazem o primeiro debate
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml)_
 
+- **[2026-10-18 22:36 UTC]** STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml)_
+
