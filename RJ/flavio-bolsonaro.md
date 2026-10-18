@@ -6979,3 +6979,6 @@
 - **[2026-10-18 23:00 UTC]** Flávio é citado em novo inquérito no STF por lavagem de dinheiro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/18/flvio-citado-em-novo-inqurito-no-stf-por-lavagem-de-dinheiro.ghtml)_
 
+- **[2026-10-18 22:44 UTC]** Debate na Band: Flávio fala em 'combater mentira', e Lula diz esperar 'aula de civilidade'; acompanhe
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/debate-band-lula-flavio-bolsonaro.ghtml)_
+
