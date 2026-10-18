@@ -6931,3 +6931,6 @@
 - **[2026-10-18 15:52 UTC]** Veja imagens comparando os atos de Lula e Flávio na Paulista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-imagens-comparando-os-atos-de-lula-e-flavio-na-paulista.shtml)_
 
+- **[2026-10-18 20:52 UTC]** Ministra do TSE determina que vice de Flávio apague vídeo que associa Lula ao crime organizado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ministra-do-tse-determina-que-vice-de-flavio-apague-video-que-associa-lula-ao-crime-organizado/)_
+
