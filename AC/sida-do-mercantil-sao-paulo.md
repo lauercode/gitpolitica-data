@@ -20,3 +20,6 @@
 - **[2026-10-19 12:57 UTC]** Deputado André Janones é internado com arritmia em São Paulo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/deputado-andre-janones-e-internado-com-arritmia-em-sao-paulo)_
 
+- **[2026-10-19 19:59 UTC]** Justiça Eleitoral altera dois locais de votação em São Paulo no 2º turno; veja endereços
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/19/justica-eleitoral-altera-dois-locais-de-votacao-em-sao-paulo-no-2o-turno-veja-enderecos.ghtml)_
+
