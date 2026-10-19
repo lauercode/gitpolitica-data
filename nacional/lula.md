@@ -1184,3 +1184,6 @@
 - **[2026-10-16 09:10 UTC]** A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/16/a-crise-global-que-flavio-bolsonaro-ou-lula-terao-de-enfrentar-se-eleitos.ghtml)_
 
+- **[2026-10-16 03:00 UTC]** Datafolha e Quaest mostram empate técnico entre Flávio Bolsonaro e Lula no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/datafolha-e-quaest-2o-turno.ghtml)_
+
