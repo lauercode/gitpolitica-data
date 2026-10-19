@@ -1217,3 +1217,6 @@
 - **[2026-10-18 22:57 UTC]** 'O Brasil vai te aposentar' e 'conhece ônibus por literatura': veja frases do debate entre Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/o-brasil-vai-te-aposentar-e-conhece-onibus-por-literatura-veja-frases-do-debate-entre-lula-e-flavio.shtml)_
 
+- **[2026-10-18 22:38 UTC]** Em debate, Lula defende legado econômico, enquanto Flávio destaca custo de vida e dívidas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/em-debate-lula-defende-legado-economico-enquanto-flavio-destaca-custo-de-vida-e-dividas.shtml)_
+
