@@ -125,3 +125,6 @@
 - **[2026-09-11 17:58 UTC]** Ala pró-Moraes articula adiar sessão do STF com pressão para incluir Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ala-pro-moraes-articula-adiar-sessao-do-stf-com-pressao-para-incluir-mendonca.shtml)_
 
+- **[2026-10-19 17:38 UTC]** Filme de ação 'Pressão' e 'Apreensão': o que ver na TV e no streaming nesta terça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/filme-de-acao-pressao-e-apreensao-o-que-ver-na-tv-e-no-streaming-nesta-terca.shtml)_
+
