@@ -1175,3 +1175,6 @@
 - **[2026-10-16 18:31 UTC]** Na TV, Flávio Bolsonaro dedica propaganda às mulheres; Lula compara adversário a Milei e critica 'tesouraço'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/tv-propaganda-eleitoral-presidente-16-outubro.ghtml)_
 
+- **[2026-10-16 13:49 UTC]** Datafolha mostra desafios de candidatos: Flávio Bolsonaro tem de evitar mais perda de votos; Lula precisa ganhar eleitores
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/16/datafolha-mostra-desafios-a-candidatos-flavio-bolsonaro-tem-de-evitar-mais-perda-de-votos-lula-precisa-ganhar-eleitores.ghtml)_
+
