@@ -134,3 +134,6 @@
 - **[2026-10-19 17:25 UTC]** Janones poderá ter alta em 48 horas, diz boletim médico
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/janones-podera-ter-alta-em-48-horas-diz-boletim-medico)_
 
+- **[2026-10-19 12:57 UTC]** Deputado André Janones é internado com arritmia em São Paulo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/deputado-andre-janones-e-internado-com-arritmia-em-sao-paulo)_
+
