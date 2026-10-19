@@ -92,3 +92,6 @@
 - **[2026-09-11 04:00 UTC]** Tarifas não conterão China, que tem como impulso concorrência interna acirrada, diz economista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/tarifas-nao-conterao-china-que-tem-como-impulso-concorrencia-interna-acirrada-diz-economista.shtml)_
 
+- **[2026-10-19 11:01 UTC]** Luisa Stefani e canadense assumem liderança do ranking de duplas após título na China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/luisa-stefani-e-canadense-assumem-lideranca-do-ranking-de-duplas-apos-titulo-na-china.shtml)_
+
