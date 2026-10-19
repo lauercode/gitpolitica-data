@@ -1166,3 +1166,6 @@
 - **[2026-10-17 16:38 UTC]** Datafolha: eleitores de Flávio dizem buscar mudança; os de Lula, proteção social
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/17/datafolha-eleitores-de-flavio-dizem-buscar-mudanca-os-de-lula-protecao-social.ghtml)_
 
+- **[2026-10-17 10:00 UTC]** Veja as palavras mais faladas por Flávio Bolsonaro e Lula nas sabatinas à TV Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/veja-as-palavras-mais-faladas-por-flavio-bolsonaro-e-lula-nas-sabatinas-a-tv-globo.ghtml)_
+
