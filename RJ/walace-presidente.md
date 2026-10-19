@@ -518,3 +518,6 @@
 - **[2026-10-13 11:54 UTC]** Presidente do Palmeiras critica proibição abrupta das bets: “questão de credibilidade”
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/presidente-do-palmeiras-critica-proibicao-abrupta-das-bets-questao-de-credibilidade/)_
 
+- **[2026-10-19 20:16 UTC]** Presidente do PL critica reforma eleitoral articulada pelo centrão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/presidente-do-pl-critica-reforma-eleitoral-articulada-pelo-centrao/)_
+
