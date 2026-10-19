@@ -1139,3 +1139,6 @@
 - **[2026-10-17 23:00 UTC]** Flávio Bolsonaro calibra tom para atacar Lula em debate, e presidente quer explicação sobre tesouraço
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-calibra-tom-para-atacar-lula-em-debate-e-presidente-quer-explicacao-sobre-tesouraco.shtml)_
 
+- **[2026-10-18 23:16 UTC]** No 1º debate, Lula e Flávio Bolsonaro trocam acusações e provocações
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml)_
+
