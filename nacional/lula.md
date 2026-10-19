@@ -1181,3 +1181,6 @@
 - **[2026-10-16 13:20 UTC]** 'Disputa acirrada na reta final': imprensa mundial repercute empate técnico de Flávio Bolsonaro e Lula nas pesquisas
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/16/repercute-internacional-pesquisas-intencao-de-voto-flavio-bolsonaro-lula-2o-turno.ghtml)_
 
+- **[2026-10-16 09:10 UTC]** A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/16/a-crise-global-que-flavio-bolsonaro-ou-lula-terao-de-enfrentar-se-eleitos.ghtml)_
+
