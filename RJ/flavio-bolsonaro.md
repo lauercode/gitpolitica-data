@@ -7078,3 +7078,6 @@
 - **[2026-10-19 13:50 UTC]** Debate expõe contraste entre Lula analógico e Flávio Bolsonaro digital
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/19/debate-expoe-contraste-entre-lula-analogico-e-flavio-bolsonaro-digital.ghtml)_
 
+- **[2026-10-19 13:48 UTC]** Bolsa Família vai ter regra de transição de dois anos, diz coordenadora de campanha de Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-vai-ter-regra-de-transicao-de-dois-anos-diz-coordenadora-de-campanha-de-flavio-bolsonaro.ghtml)_
+
