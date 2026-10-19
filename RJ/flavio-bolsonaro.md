@@ -7114,3 +7114,6 @@
 - **[2026-10-19 06:24 UTC]** BTG/Nexus: Flávio Bolsonaro tem 50,3% dos votos válidos, e Lula, 49,7%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-503-e-lula-497-dos-votos-validos.shtml)_
 
+- **[2026-10-19 15:39 UTC]** O que a campanha de Flávio prepara antes do segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/do-debate-da-globo-aos-atos-de-rua-agenda-final-flavio-bolsonaro-antes-do-segundo-turno/)_
+
