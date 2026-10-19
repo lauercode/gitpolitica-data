@@ -131,3 +131,6 @@
 - **[2026-10-19 13:33 UTC]** Janones convoca militância a inflar buscas negativas contra Flávio durante debate
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/janones-convoca-militancia-inflar-buscas-negativas-contra-flavio-debate/)_
 
+- **[2026-10-19 17:25 UTC]** Janones poderá ter alta em 48 horas, diz boletim médico
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/janones-podera-ter-alta-em-48-horas-diz-boletim-medico)_
+
