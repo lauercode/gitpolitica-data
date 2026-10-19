@@ -23,3 +23,6 @@
 - **[2026-09-09 15:30 UTC]** Em Veneza, 'Musk', documentário ambicioso, faz público temer pelo futuro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/em-veneza-musk-documentario-ambicioso-faz-publico-temer-pelo-futuro.shtml)_
 
+- **[2026-10-19 17:44 UTC]** Anthropic monta fundo de benefício público e Musk promete fazer ações para crianças dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/anthropic-monta-fundo-de-beneficio-publico-e-musk-promete-fazer-acoes-para-criancas-dos-eua.shtml)_
+
