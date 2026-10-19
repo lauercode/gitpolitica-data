@@ -1142,3 +1142,6 @@
 - **[2026-10-18 23:16 UTC]** No 1º debate, Lula e Flávio Bolsonaro trocam acusações e provocações
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml)_
 
+- **[2026-10-18 18:02 UTC]** Reta final do 2º turno: Lula aposta em medidas populares para virar, e Flávio quer reforçar que manterá programas sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml)_
+
