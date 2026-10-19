@@ -443,3 +443,6 @@
 - **[2026-09-11 19:06 UTC]** Maioria dos deputados em exercício busca a reeleição, mas cresce o número de quem concorre a outros cargos
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304085-maioria-dos-deputados-em-exercicio-busca-a-reeleicao-mas-cresce-o-numero-de-quem-concorre-a-outros-cargos)_
 
+- **[2026-10-18 23:00 UTC]** Quem faz o RUF 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://ruf.folha.uol.com.br/2026/noticias/quem-faz-o-ruf-2026.shtml)_
+
