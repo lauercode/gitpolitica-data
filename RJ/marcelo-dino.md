@@ -212,3 +212,6 @@
 - **[2026-09-11 18:18 UTC]** Por que o caso “Dark Horse” está dividido entre Dino e Mendonça no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dark-horse-stf-dino-mendonca/)_
 
+- **[2026-10-19 12:48 UTC]** STF e Congresso articulam poupar Dino em possível onda de impeachments com Senado radicalizado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/stf-e-congresso-articulam-poupar-dino-em-possivel-onda-de-impeachments-com-senado-radicalizado.shtml)_
+
