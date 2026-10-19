@@ -1277,3 +1277,6 @@
 - **[2026-10-19 15:30 UTC]** Diferença entre Lula e Flávio cai de 14,8 para 12,5 pontos entre mulheres, diz BTG/Nexus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/diferenca-entre-lula-e-flavio-cai-de-148-para-125-pontos-entre-mulheres-diz-btgnexus.shtml)_
 
+- **[2026-10-19 15:18 UTC]** 'Caótico' e 'tenso': o que imprensa internacional disse sobre debate entre Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/caotico-e-tenso-o-que-imprensa-internacional-disse-sobre-debate-entre-lula-e-flavio-bolsonaro.shtml)_
+
