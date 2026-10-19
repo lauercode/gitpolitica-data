@@ -56,3 +56,6 @@
 - **[2026-10-12 23:00 UTC]** Paula Lima leva caldeirão musical dançante para o Folha Gourmet Festival
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/10/paula-lima-leva-caldeirao-musical-dancante-para-o-folha-gourmet-festival.shtml)_
 
+- **[2026-10-18 22:05 UTC]** Morre Benito di Paula, cantor símbolo do samba-joia, aos 84 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/morre-benito-di-paula-cantor-simbolo-do-samba-joia-aos-84-anos.shtml)_
+
