@@ -1196,3 +1196,6 @@
 - **[2026-10-15 17:30 UTC]** No horário eleitoral, Lula questiona posição de Flávio sobre fim da escala 6x1; candidato do PL aborda Ministério da Prosperidade
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/horario-eleitoral-14-outubro-presidente.ghtml)_
 
+- **[2026-10-19 04:00 UTC]** Eleições entre Lula e Flávio Bolsonaro mostram racha de artistas e mandachuvas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/10/eleicoes-entre-lula-e-flavio-bolsonaro-mostram-racha-de-artistas-e-mandachuvas.shtml)_
+
