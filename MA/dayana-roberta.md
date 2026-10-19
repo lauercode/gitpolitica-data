@@ -59,3 +59,6 @@
 - **[2026-10-18 15:16 UTC]** Defesa de Lulinha nega irregularidades após declarações de lobista Roberta Luchsinger
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-lulinha-nega-irregularidades-apos-declaracoes-de-lobista-roberta-luchsinger/)_
 
+- **[2026-10-19 13:59 UTC]** Roberta Luchsinger afirma que quer fazer delação e que pode atingir Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/roberta-luchsinger-afirma-que-quer-fazer-delacao-e-que-pode-atingir-lula/)_
+
