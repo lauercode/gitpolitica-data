@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-10-17 18:18 UTC]** Advogado de Trump pede processo de impeachment após voto de Moraes para tornar Eustáquio réu
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-trump-pede-processo-impeachment-apos-voto-moraes-tornar-eustaquio-reu/)_
+
