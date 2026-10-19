@@ -74,3 +74,6 @@
 - **[2026-10-02 20:36 UTC]** Pablo Marçal teve voo internacional de R$ 1 milhão pago por empresa da qual Vorcaro era sócio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/02/pablo-maral-teve-voo-internacional-de-r-1-milho-pago-por-empresa-da-qual-vorcaro-era-scio.ghtml)_
 
+- **[2026-10-19 16:16 UTC]** Marçal e Nikolas orientaram Flávio no debate cochichando com assessora
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/marcal-e-nikolas-orientaram-flavio-no-debate-cochichando-com-assessora.shtml)_
+
