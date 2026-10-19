@@ -35,3 +35,6 @@
 - **[2026-10-17 15:10 UTC]** Van Hattem diz que impeachment de Moraes independe do resultado das eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/van-hattem-diz-que-impeachment-de-moraes-independe-do-resultado-das-eleicoes/)_
 
+- **[2026-10-19 14:18 UTC]** Justiça nega pedido de Lupi para retirar vídeo de Van Hattem sobre fraudes no INSS
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-nega-pedido-de-lupi-para-retirar-video-de-van-hattem-sobre-fraudes-no-inss/)_
+
