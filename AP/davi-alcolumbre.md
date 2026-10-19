@@ -455,3 +455,6 @@
 - **[2026-10-18 03:00 UTC]** Alcolumbre conta votos e traça planos para seguir no comando do Senado em governo de Lula ou de Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml)_
 
+- **[2026-10-19 13:17 UTC]** Alcolumbre adia PEC da Segurança Pública para depois da eleição para evitar disputa sobre maioridade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/alcolumbre-adia-pec-da-seguranca-publica-para-depois-da-eleicao-para-evitar-disputa-sobre-maioridade.shtml)_
+
