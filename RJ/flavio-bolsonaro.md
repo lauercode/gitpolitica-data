@@ -7129,3 +7129,6 @@
 - **[2026-10-19 15:50 UTC]** Lula e Flávio trocam acusações de corrupção e debate da Band termina 'caótico': veja como foi
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-19 10:05 UTC]** Debate Flávio Bolsonaro X Lula na Globo: data, horário e como assistir
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckreyvyvell8o?at_medium=RSS&at_campaign=rss)_
+
