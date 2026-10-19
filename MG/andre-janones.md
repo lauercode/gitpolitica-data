@@ -140,3 +140,6 @@
 - **[2026-10-19 16:54 UTC]** O que causa arritmia cardíaca, que levou Janones à UTI após debate entre Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/o-causa-arritmia-cardiaca-que-levou-janones-a-uti-apos-debate-entre-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 11:24 UTC]** Janones é internado em UTI após debate, e boletim prevê alta 'nas próximas 48 h'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-e-internado-em-uti-com-arritmia-cardiaca-apos-debate-entre-lula-e-flavio-bolsonaro.shtml)_
+
