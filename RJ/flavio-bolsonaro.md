@@ -7042,3 +7042,6 @@
 - **[2026-10-19 00:09 UTC]** Polícia investiga suspeita de explosivos em carro de Flávio, mas ameaça é descartada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/policia-investiga-suspeita-de-explosivos-em-carro-de-flavio-mas-ameaca-e-descartada.shtml)_
 
+- **[2026-10-18 23:52 UTC]** Vorcaro, lobista e filho de Lula viram temas de Lula e Flávio em debate; veja como foi em 10 pontos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vorcaro-lobista-e-filho-de-lula-viram-temas-de-lula-e-flavio-em-debate-veja-como-foi-em-10-pontos.shtml)_
+
