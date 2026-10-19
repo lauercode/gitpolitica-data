@@ -1280,3 +1280,6 @@
 - **[2026-10-19 15:18 UTC]** 'Caótico' e 'tenso': o que imprensa internacional disse sobre debate entre Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/caotico-e-tenso-o-que-imprensa-internacional-disse-sobre-debate-entre-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 14:51 UTC]** Debate da Band com Lula e Flávio chega a 36,2 milhões de visualizações no YouTube
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/debate-da-band-com-lula-e-flavio-chega-a-362-milhoes-de-visualizacoes-no-youtube.shtml)_
+
