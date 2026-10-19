@@ -7147,3 +7147,6 @@
 - **[2026-10-19 16:00 UTC]** O que pesquisas qualitativas dizem sobre Lula e Flávio no debate e como isso vai refletir nas campanhas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/19/o-que-pesquisas-qualitativas-falaram-sobre-lula-e-flavio-no-debate-e-como-isso-vai-refletir-nas-campanhas.ghtml)_
 
+- **[2026-10-19 17:47 UTC]** Flávio Bolsonaro advogou para PM acusado de matar menina de 5 anos no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/flavio-bolsonaro-advogou-para-pm-acusado-de-matar-menina-de-5-anos-no-rio.shtml)_
+
