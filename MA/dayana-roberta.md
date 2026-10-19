@@ -56,3 +56,6 @@
 - **[2026-09-11 11:00 UTC]** Roberta Miranda revela que descobriu não ser filha da mulher que a criou
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/roberta-miranda-revela-que-descobriu-nao-ser-filha-da-mulher-que-a-criou.shtml)_
 
+- **[2026-10-18 15:16 UTC]** Defesa de Lulinha nega irregularidades após declarações de lobista Roberta Luchsinger
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-lulinha-nega-irregularidades-apos-declaracoes-de-lobista-roberta-luchsinger/)_
+
