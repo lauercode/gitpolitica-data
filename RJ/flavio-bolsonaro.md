@@ -7087,3 +7087,6 @@
 - **[2026-10-19 11:44 UTC]** O tabuleiro de Flávio Bolsonaro: os nomes estratégicos que circulam nos bastidores para um eventual governo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/19/o-tabuleiro-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-19 12:42 UTC]** PF faz busca em ex-servidor do STJ suspeito de vazar decisões a amigo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pf-faz-busca-em-ex-servidor-do-stj-suspeito-de-vazar-decisoes-a-amigo-de-flavio-bolsonaro.shtml)_
+
