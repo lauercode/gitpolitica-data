@@ -113,3 +113,6 @@
 - **[2026-09-11 17:30 UTC]** PF afirma que Daniel Vorcaro bancou viagens de luxo para servidores do BC
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-afirma-que-daniel-vorcaro-bancou-viagens-de-luxo-para-servidores-do-bc/)_
 
+- **[2026-10-19 13:45 UTC]** Servidores da Prefeitura de SP são convocados para ato pró-Flávio, e Nunes pede campanha nas redes; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/servidores-da-prefeitura-de-sp-sao-convocados-para-ato-pro-flavio-e-nunes-pede-campanha-nas-redes-veja-video.shtml)_
+
