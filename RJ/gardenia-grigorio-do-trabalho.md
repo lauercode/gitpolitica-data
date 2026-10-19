@@ -263,3 +263,6 @@
 - **[2026-09-11 20:05 UTC]** Datafolha em MG: 38% desaprovam trabalho de Simões como governador, e 37% aprovam
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/11/datafolha-avaliacao-governo-mg-11-setembro.ghtml)_
 
+- **[2026-10-19 08:19 UTC]** Com ação Vida Além do Trabalho, ex-balconista mobilizou trabalhadores
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ex-balconista-de-farmacia-mobilizou-trabalhadores-para-reduzir-jornada)_
+
