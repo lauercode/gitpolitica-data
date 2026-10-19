@@ -11,3 +11,6 @@
 - **[2026-10-18 18:27 UTC]** Após 17 anos afastada, Carol Trentini volta ao Victoria's Secret Fashion Show
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/estilo/2026/10/apos-17-anos-afastada-carol-trentini-volta-ao-victorias-secret-fashion-show.shtml)_
 
+- **[2026-10-19 08:15 UTC]** Kylie Jenner usa sutiã de R$ 250 milhões em desfile da Victoria's Secret; veja destaques
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/estilo/2026/10/kylie-jenner-usa-sutia-de-r-250-milhoes-em-desfile-da-victorias-secret-veja-destaques.shtml)_
+
