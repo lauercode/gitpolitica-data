@@ -7108,3 +7108,6 @@
 - **[2026-10-19 10:26 UTC]** Flávio Bolsonaro repete manobra de Trump em debate ao fazer gestos e expressões atrás de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-repete-manobra-de-trump-em-debate-ao-fazer-gestos-e-expressoes-atras-de-lula.shtml)_
 
+- **[2026-10-19 08:16 UTC]** Espírito obsessor, 'até teu pai', 'Brasil acabou': veja os memes do debate entre Lula e Flávio na Band
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/espirito-obsessor-ate-teu-pai-brasil-acabou-veja-os-memes-do-debate-entre-lula-e-flavio-na-band.shtml)_
+
