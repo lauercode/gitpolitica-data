@@ -7021,3 +7021,6 @@
 - **[2026-10-18 22:44 UTC]** Debate na Band: veja como foi o debate entre Lula e Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/debate-band-lula-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-19 02:13 UTC]** Gate é acionado para checar carro de Flávio Bolsonaro após suspeita de bomba durante debate na Band
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/gate-e-acionado-para-checar-carro-de-flavio-bolsonaro-apos-suspeita-de-bomba-durante-debate-na-band.ghtml)_
+
