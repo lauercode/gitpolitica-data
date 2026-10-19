@@ -1154,3 +1154,6 @@
 - **[2026-10-18 03:00 UTC]** Alcolumbre conta votos e traça planos para seguir no comando do Senado em governo de Lula ou de Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml)_
 
+- **[2026-10-17 22:42 UTC]** Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml)_
+
