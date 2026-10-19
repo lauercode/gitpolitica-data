@@ -1172,3 +1172,6 @@
 - **[2026-10-17 03:00 UTC]** Jovens intensificam mobilização para conquistar votos para Lula e Flávio no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/jovens-intensificam-mobilizacao-para-conquistar-votos-para-lula-e-flavio-no-segundo-turno.ghtml)_
 
+- **[2026-10-16 18:31 UTC]** Na TV, Flávio Bolsonaro dedica propaganda às mulheres; Lula compara adversário a Milei e critica 'tesouraço'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/tv-propaganda-eleitoral-presidente-16-outubro.ghtml)_
+
