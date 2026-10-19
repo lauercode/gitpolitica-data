@@ -7012,3 +7012,6 @@
 - **[2026-10-19 00:30 UTC]** Flávio Bolsonaro: relembre o processo da rachadinha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/flavio-bolsonaro-relembre-o-processo-da-rachadinha.ghtml)_
 
+- **[2026-10-19 00:05 UTC]** R$ 134 milhões: Flávio Bolsonaro pediu dinheiro a Vorcaro para financiar filme Dark Horse
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/r-134-milhoes-flavio-bolsonaro-pediu-dinheiro-a-vorcaro-para-financiar-filme-dark-horse.ghtml)_
+
