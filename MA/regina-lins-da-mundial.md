@@ -80,3 +80,6 @@
 - **[2026-09-11 17:34 UTC]** Santos e Vasco perto do Mundial de Clubes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sandromacedo/2026/09/santos-e-vasco-perto-do-mundial-de-clubes.shtml)_
 
+- **[2026-10-18 17:56 UTC]** Limitada por problema no tornozelo, Rayssa Leal fica em sétimo no Mundial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/limitada-por-problema-no-tornozelo-rayssa-leal-fica-em-setimo-no-mundial.shtml)_
+
