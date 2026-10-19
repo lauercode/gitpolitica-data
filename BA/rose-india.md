@@ -17,3 +17,6 @@
 - **[2026-09-10 10:37 UTC]** Índia sedia Cúpula do Brics no fim de semana
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/india-sedia-cupula-do-brics-no-fim-de-semana)_
 
+- **[2026-10-19 11:08 UTC]** Crise global do açúcar afeta produção e consumo na Índia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/crise-global-do-acucar-afeta-producao-e-consumo-na-india.shtml)_
+
