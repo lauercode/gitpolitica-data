@@ -1229,3 +1229,6 @@
 - **[2026-10-18 21:43 UTC]** Flávio Bolsonaro e Lula trocam acusações de corrupção e envolvem familiares em debate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-trocam-acusacoes-de-corrupcao-e-envolvem-familiares-em-debate.shtml)_
 
+- **[2026-10-19 01:38 UTC]** Em debate, Flávio pergunta sobre Lulinha e Lula chama adversário de “malandro carioca”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-lula-primeiro-debate-presidencial/)_
+
