@@ -14,3 +14,6 @@
 - **[2026-10-11 16:09 UTC]** Camilo Santana diz não ter dúvidas da aprovação do fim da 6x1 no Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/camilo-santana-diz-no-ter-dvidas-da-aprovao-do-fim-da-6x1-no-senado.ghtml)_
 
+- **[2026-10-19 12:46 UTC]** PT fugiu do tema da segurança, e Lula já concordava com redução da maioridade, diz Camilo Santana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-fugiu-do-tema-da-seguranca-e-lula-ja-concordava-com-reducao-da-maioridade-diz-camilo-santana.shtml)_
+
