@@ -71,3 +71,6 @@
 - **[2026-10-12 20:42 UTC]** Quaest: No DF, Celina Leão tem 53% e Leandro Grass, 33%, no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/quaest-no-df-celina-leo-tem-53-pontos-percentuais-e-leandro-grass-33-no-segundo-turno.ghtml)_
 
+- **[2026-10-09 17:08 UTC]** Disputa entre Celina e Grass reproduz no DF a polarização de Lula e Flávio
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/distrito-federal/disputa-entre-celina-e-grass-reproduz-df-polarizacao-lula-flavio/)_
+
