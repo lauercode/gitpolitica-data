@@ -1259,3 +1259,6 @@
 - **[2026-10-19 11:00 UTC]** TSE dá 24 horas para Meta comprovar tratamento igualitário a Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-da-24-horas-para-meta-comprovar-tratamento-igualitario-a-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 06:24 UTC]** BTG/Nexus: Flávio Bolsonaro tem 50,3% dos votos válidos, e Lula, 49,7%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-503-e-lula-497-dos-votos-validos.shtml)_
+
