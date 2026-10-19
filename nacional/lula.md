@@ -1250,3 +1250,6 @@
 - **[2026-10-19 13:50 UTC]** Debate expõe contraste entre Lula analógico e Flávio Bolsonaro digital
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/19/debate-expoe-contraste-entre-lula-analogico-e-flavio-bolsonaro-digital.ghtml)_
 
+- **[2026-10-19 12:54 UTC]** Veja o que é #FATO ou #FAKE nas falas de Flávio Bolsonaro e Lula no debate da Band no 2º turno das eleições 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/19/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-band-no-2o-turno-das-eleicoes-2026.ghtml)_
+
