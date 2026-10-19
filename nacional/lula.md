@@ -1244,3 +1244,6 @@
 - **[2026-10-19 08:38 UTC]** O que Flávio e Lula propõem sobre reajuste do salário mínimo e aposentadorias
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6x2qwd9jx8zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-19 08:07 UTC]** Lula e Flávio fazem primeiro debate das eleições na TV Band
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-flavio-fazem-primeiro-debate-das-eleicoes-na-band)_
+
