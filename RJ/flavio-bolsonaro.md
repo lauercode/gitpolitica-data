@@ -6994,3 +6994,6 @@
 - **[2026-10-18 22:10 UTC]** Bate-boca entre Flávio Bolsonaro e Lula gera calor, não luz
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bate-boca-entre-flavio-bolsonaro-e-lula-gera-calor-nao-luz.shtml)_
 
+- **[2026-10-18 21:57 UTC]** Em debate, Lula defende legado econômico, enquanto Flávio destaca custo de vida e dívidas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/em-debate-lula-defende-legado-economico-enquanto-flavio-destaca-custo-de-vida-e-dividas.shtml)_
+
