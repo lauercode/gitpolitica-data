@@ -1157,3 +1157,6 @@
 - **[2026-10-17 22:42 UTC]** Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml)_
 
+- **[2026-10-17 17:58 UTC]** Na TV, Flávio Bolsonaro diz ser alvo de fake news, e Lula fala às mulheres
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml)_
+
