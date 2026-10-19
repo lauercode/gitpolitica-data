@@ -1190,3 +1190,6 @@
 - **[2026-10-15 22:02 UTC]** Datafolha: Lula é rejeitado por 46%, e Flávio Bolsonaro, por 44%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-rejeicao-15-outubro.ghtml)_
 
+- **[2026-10-15 21:32 UTC]** Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml)_
+
