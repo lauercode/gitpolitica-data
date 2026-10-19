@@ -7111,3 +7111,6 @@
 - **[2026-10-19 08:16 UTC]** Espírito obsessor, 'até teu pai', 'Brasil acabou': veja os memes do debate entre Lula e Flávio na Band
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/espirito-obsessor-ate-teu-pai-brasil-acabou-veja-os-memes-do-debate-entre-lula-e-flavio-na-band.shtml)_
 
+- **[2026-10-19 06:24 UTC]** BTG/Nexus: Flávio Bolsonaro tem 50,3% dos votos válidos, e Lula, 49,7%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-503-e-lula-497-dos-votos-validos.shtml)_
+
