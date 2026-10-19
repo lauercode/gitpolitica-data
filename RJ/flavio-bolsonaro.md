@@ -7015,3 +7015,6 @@
 - **[2026-10-19 00:05 UTC]** R$ 134 milhões: Flávio Bolsonaro pediu dinheiro a Vorcaro para financiar filme Dark Horse
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/r-134-milhoes-flavio-bolsonaro-pediu-dinheiro-a-vorcaro-para-financiar-filme-dark-horse.ghtml)_
 
+- **[2026-10-18 23:35 UTC]** Quem é Roberta Luchsinger, lobista citada em debate entre Lula e Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/quem-e-roberta-luchsinger-citada-em-debate-entre-lula-e-flavio-bolsonaro.ghtml)_
+
