@@ -17,3 +17,6 @@
 - **[2026-09-11 20:51 UTC]** Ferrugem e Jonas Esticado fazem shows gratuitos em Alagoas; veja programação
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/09/11/ferrugem-e-jonas-esticado-fazem-shows-gratuitos-em-alagoas-veja-programacao.ghtml)_
 
+- **[2026-10-19 10:06 UTC]** Arquiteta processa Ferrugem e mulher dele e pede indenização de R$ 50 mil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/arquiteta-processa-ferrugem-e-mulher-dele-e-pede-indenizacao-de-r-50-mil.shtml)_
+
