@@ -98,3 +98,6 @@
 - **[2026-10-17 12:31 UTC]** Resumo da semana: advogado de Trump ataca Alexandre de Moraes e Gilmar Mendes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/resumo-da-semana-advogado-de-trump-ataca-alexandre-de-moraes-e-gilmar-mendes/)_
 
+- **[2026-10-09 00:25 UTC]** Novo Senado pode reduzir votos exigidos por Gilmar em impeachment de ministros
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/republica/novo-senado-pode-reduzir-votos-exigidos-por-gilmar-em-impeachment-de-ministros/)_
+
