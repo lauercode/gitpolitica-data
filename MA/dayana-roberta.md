@@ -62,3 +62,6 @@
 - **[2026-10-19 13:59 UTC]** Roberta Luchsinger afirma que quer fazer delação e que pode atingir Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/roberta-luchsinger-afirma-que-quer-fazer-delacao-e-que-pode-atingir-lula/)_
 
+- **[2026-10-19 18:00 UTC]** Roberta Luchsinger chama Lula de “mentiroso” durante debate da Band
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/roberta-luchsinger-lula-mentiroso-debate-band/)_
+
