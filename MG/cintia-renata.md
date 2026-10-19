@@ -26,3 +26,6 @@
 - **[2026-09-07 23:30 UTC]** Rock in Rio 2026: Renata Sorrah comenta destino de Pérola em 'Por Você'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-renata-sorrah-comenta-destino-de-perola-em-por-voce.shtml)_
 
+- **[2026-10-17 02:03 UTC]** Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL; VEJA ÍNTEGRA
+  _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml)_
+
