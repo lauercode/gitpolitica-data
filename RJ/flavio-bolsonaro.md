@@ -7048,3 +7048,6 @@
 - **[2026-10-18 23:40 UTC]** Grupo pede investigação de Flávio Bolsonaro por posse de imóvel e vê advocacia administrativa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/grupo-pede-investigacao-de-flavio-bolsonaro-por-posse-de-imovel-e-ve-advocacia-administrativa.shtml)_
 
+- **[2026-10-18 23:00 UTC]** Comerciante no Recife vota em Flávio 'porque ele é filho de Bolsonaro'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/comerciante-no-recife-vota-em-flavio-porque-ele-e-filho-de-bolsonaro.shtml)_
+
