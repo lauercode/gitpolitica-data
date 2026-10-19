@@ -449,3 +449,6 @@
 - **[2026-10-09 02:04 UTC]** Quem é Lucas Polese, deputado federal eleito com votação recorde no Espírito Santo
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/espirito-santo/quem-e-lucas-polese-deputado-eleito-com-votacao-recorde-no-espirito-santo/)_
 
+- **[2026-10-19 04:41 UTC]** Quem ganhou e quem perdeu no primeiro debate entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd7qyplwzzpo?at_medium=RSS&at_campaign=rss)_
+
