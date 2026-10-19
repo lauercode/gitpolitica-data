@@ -11,3 +11,6 @@
 - **[2026-09-02 21:47 UTC]** Toffoli libera propaganda digital do candidato a presidente Grassi
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/toffoli-libera-propaganda-digital-do-candidato-presidente-grassi)_
 
+- **[2026-10-15 12:42 UTC]** Wilson Grassi Júnior anuncia apoio a Flávio Bolsonaro e cobra propostas para causa animal
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/wilson-grassi-junior-anuncia-apoio-a-flavio-bolsonaro-e-cobra-propostas-para-causa-animal/)_
+
