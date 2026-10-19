@@ -458,3 +458,6 @@
 - **[2026-10-19 13:17 UTC]** Alcolumbre adia PEC da Segurança Pública para depois da eleição para evitar disputa sobre maioridade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/alcolumbre-adia-pec-da-seguranca-publica-para-depois-da-eleicao-para-evitar-disputa-sobre-maioridade.shtml)_
 
+- **[2026-10-19 19:46 UTC]** Alcolumbre adia votação da PEC da Segurança Pública para depois do 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-adia-votacao-da-pec-da-seguranca-publica-para-depois-do-2o-turno/)_
+
