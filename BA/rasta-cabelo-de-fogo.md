@@ -152,3 +152,6 @@
 - **[2026-09-11 10:26 UTC]** Agenda g1 Sergipe tem Yasmin Sensação, Mikael Santos, Zé Vaqueiro, Fogo na Saia,  circo, teatro e mais
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/11/agenda-g1-sergipe-tem-corrida-do-jegue-de-itabi-festival-do-camarao-concerto-de-k-pop-humor-e-mais.ghtml)_
 
+- **[2026-10-18 23:39 UTC]** A Fazenda 18: Jônatas Faro vence Prova de Fogo, e quatro peões são mandados para a Baia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-jonatas-faro-vence-prova-de-fogo-e-quatro-peoes-sao-mandados-para-a-baia.shtml)_
+
