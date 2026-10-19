@@ -1151,3 +1151,6 @@
 - **[2026-10-18 03:00 UTC]** No Instagram, Lula muda o discurso no segundo turno, e Flávio Bolsonaro mantém foco em voto e confronto
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/instagram-lula-flavio-bolsonaro-segundo-turno.ghtml)_
 
+- **[2026-10-18 03:00 UTC]** Alcolumbre conta votos e traça planos para seguir no comando do Senado em governo de Lula ou de Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml)_
+
