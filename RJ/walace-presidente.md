@@ -512,3 +512,6 @@
 - **[2026-10-13 21:27 UTC]** Presidente da Câmara espera que deputados eleitos busquem equilíbrio e resultados concretos para o Brasil
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1310996-presidente-da-camara-espera-que-deputados-eleitos-busquem-equilibrio-e-resultados-concretos-para-o-brasil)_
 
+- **[2026-10-17 19:15 UTC]** Presidente do PT quer confronto entre Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidente-do-pt-quer-confronto-entre-lula-e-flavio/)_
+
