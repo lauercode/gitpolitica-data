@@ -1202,3 +1202,6 @@
 - **[2026-10-19 01:04 UTC]** Debate entre Lula e Flávio Bolsonaro teve distorções e dados falsos; veja checagem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-entre-lula-e-flavio-bolsonaro-teve-distorcoes-e-dados-falsos-veja-checagem.shtml)_
 
+- **[2026-10-19 00:36 UTC]** Debate de Lula e Flávio Bolsonaro é marcado por Vorcaro e Luchsinger
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/10/debate-de-lula-e-flavio-bolsonaro-e-marcado-por-vorcaro-e-luchsinger.shtml)_
+
