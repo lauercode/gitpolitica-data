@@ -7090,3 +7090,6 @@
 - **[2026-10-19 12:42 UTC]** PF faz busca em ex-servidor do STJ suspeito de vazar decisões a amigo de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pf-faz-busca-em-ex-servidor-do-stj-suspeito-de-vazar-decisoes-a-amigo-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 12:16 UTC]** Parlamentares acusam Ricardo Nunes de convocar servidores para ato de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/parlamentares-acusam-ricardo-nunes-de-convocar-servidores-para-ato-de-flavio-bolsonaro.shtml)_
+
