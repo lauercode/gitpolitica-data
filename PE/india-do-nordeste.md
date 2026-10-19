@@ -65,3 +65,6 @@
 - **[2026-09-11 12:28 UTC]** CE: peças teatrais de todo o Nordeste ocupam ruas de Guaramiranga
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/ce-pecas-teatrais-de-todo-o-nordeste-ocupam-ruas-de-guaramiranga)_
 
+- **[2026-10-18 17:33 UTC]** Vantagem de Lula sobre os Bolsonaro cai em 98% das cidades do Nordeste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vantagem-de-lula-sobre-os-bolsonaro-cai-em-98-das-cidades-do-nordeste.shtml)_
+
