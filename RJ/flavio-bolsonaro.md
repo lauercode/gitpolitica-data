@@ -7168,3 +7168,6 @@
 - **[2026-10-19 15:18 UTC]** 'Caótico' e 'tenso': o que imprensa internacional disse sobre debate entre Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/caotico-e-tenso-o-que-imprensa-internacional-disse-sobre-debate-entre-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 15:07 UTC]** Flávio Bolsonaro critica entraves ambientais e diz que produtor 'vai fazer o que quiser na sua terra'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-critica-entraves-ambientais-e-diz-que-produtor-vai-fazer-o-que-quiser-na-sua-terra.shtml)_
+
