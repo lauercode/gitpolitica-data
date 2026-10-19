@@ -7003,3 +7003,6 @@
 - **[2026-10-19 01:23 UTC]** Em debate, Flávio pergunta sobre Lulinha e Lula chama adversário de “malandro carioca”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-lula-primeiro-debate-presidencial/)_
 
+- **[2026-10-19 01:29 UTC]** Debate da Band: Lula e Flávio trocam acusações sobre corrupção e segurança pública; siga repercussão
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss)_
+
