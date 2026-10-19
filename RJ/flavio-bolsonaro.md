@@ -7009,3 +7009,6 @@
 - **[2026-10-19 01:08 UTC]** Quando será o debate de Lula e Flávio Bolsonaro na Globo? Veja
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/quando-sera-o-debate-de-lula-e-flavio-bolsonaro-na-globo-veja.ghtml)_
 
+- **[2026-10-19 00:30 UTC]** Flávio Bolsonaro: relembre o processo da rachadinha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/flavio-bolsonaro-relembre-o-processo-da-rachadinha.ghtml)_
+
