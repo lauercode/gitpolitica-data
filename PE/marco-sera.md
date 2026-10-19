@@ -188,3 +188,6 @@
 - **[2026-09-11 20:04 UTC]** Lula diz que auxílio na enchente do RS será padrão para 'qualquer desastre' no Brasil
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-diz-que-socorro-na-enchente-do-rs-sera-padrao-para-qualquer-desastre-no-brasil.ghtml)_
 
+- **[2026-10-17 11:00 UTC]** Será que o Brasil precisa de uma nova reforma eleitoral?
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/artigos/sera-que-o-brasil-precisa-de-uma-nova-reforma-eleitoral/)_
+
