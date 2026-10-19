@@ -7144,3 +7144,6 @@
 - **[2026-10-19 16:24 UTC]** Lula expôs Flávio em casos de corrupção, e senador acertou ao deixar petista 'visivelmente irritado', avaliam aliados
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/19/lula-expos-flavio-em-casos-de-corrupcao-e-senador-acertou-ao-deixar-petista-visivelmente-irritado-avaliam-aliados.ghtml)_
 
+- **[2026-10-19 16:00 UTC]** O que pesquisas qualitativas dizem sobre Lula e Flávio no debate e como isso vai refletir nas campanhas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/19/o-que-pesquisas-qualitativas-falaram-sobre-lula-e-flavio-no-debate-e-como-isso-vai-refletir-nas-campanhas.ghtml)_
+
