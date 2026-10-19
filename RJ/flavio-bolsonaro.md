@@ -7018,3 +7018,6 @@
 - **[2026-10-18 23:35 UTC]** Quem é Roberta Luchsinger, lobista citada em debate entre Lula e Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/quem-e-roberta-luchsinger-citada-em-debate-entre-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-18 22:44 UTC]** Debate na Band: veja como foi o debate entre Lula e Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/debate-band-lula-flavio-bolsonaro.ghtml)_
+
