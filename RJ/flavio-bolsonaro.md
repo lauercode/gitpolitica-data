@@ -7123,3 +7123,6 @@
 - **[2026-10-19 13:33 UTC]** Janones convoca militância a inflar buscas negativas contra Flávio durante debate
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/janones-convoca-militancia-inflar-buscas-negativas-contra-flavio-debate/)_
 
+- **[2026-10-19 12:59 UTC]** Advogado de Trump alfineta Lula por fala sobre imunidade de Flávio: “Recado mafioso”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-trump-alfineta-lula-fala-sobre-imunidade-flavio/)_
+
