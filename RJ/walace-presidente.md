@@ -509,3 +509,6 @@
 - **[2026-09-11 19:33 UTC]** Advogados de ex-presidente do INSS preso pedem mesmo tratamento dado por Mendonça a outros acusados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/advogados-de-ex-presidente-do-inss-preso-pedem-mesmo-tratamento-dado-por-mendonca-a-outros-acusados.shtml)_
 
+- **[2026-10-13 21:27 UTC]** Presidente da Câmara espera que deputados eleitos busquem equilíbrio e resultados concretos para o Brasil
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1310996-presidente-da-camara-espera-que-deputados-eleitos-busquem-equilibrio-e-resultados-concretos-para-o-brasil)_
+
