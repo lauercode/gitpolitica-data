@@ -7180,3 +7180,6 @@
 - **[2026-10-19 13:45 UTC]** Servidores da Prefeitura de SP são convocados para ato pró-Flávio, e Nunes pede campanha nas redes; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/servidores-da-prefeitura-de-sp-sao-convocados-para-ato-pro-flavio-e-nunes-pede-campanha-nas-redes-veja-video.shtml)_
 
+- **[2026-10-19 13:18 UTC]** Campanhas de Lula e Flávio Bolsonaro minimizam impacto do debate e avaliam mudanças para o da Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-minimizam-impacto-do-debate-e-avaliam-mudancas-para-o-da-globo.shtml)_
+
