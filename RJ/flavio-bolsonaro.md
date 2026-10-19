@@ -7156,3 +7156,6 @@
 - **[2026-10-19 16:54 UTC]** O que causa arritmia cardíaca, que levou Janones à UTI após debate entre Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/o-causa-arritmia-cardiaca-que-levou-janones-a-uti-apos-debate-entre-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 16:40 UTC]** Flávio Bolsonaro propõe retomar prazo de dois anos para regra de proteção do Bolsa Família
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-propoe-retomar-prazo-de-dois-anos-para-regra-de-protecao-do-bolsa-familia.shtml)_
+
