@@ -62,3 +62,6 @@
 - **[2026-09-11 08:20 UTC]** Flamengo supera Del Valle na altitude pelas quartas da Libertadores
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flamengo-supera-del-valle-na-altitude-pelas-quartas-da-libertadores)_
 
+- **[2026-10-18 20:33 UTC]** Flamengo vence o Bahia por 3 a 0 e retoma a liderança do Brasileiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/flamengo-vence-o-bahia-por-3-a-0-e-retoma-a-lideranca-do-brasileiro.shtml)_
+
