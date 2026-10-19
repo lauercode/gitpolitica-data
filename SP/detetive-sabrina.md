@@ -8,3 +8,6 @@
 - **[2026-09-06 11:30 UTC]** Grávida, Sabrina Sato aposta em pedrinhas coloridas e confirma presença no Carnaval 2027
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/09/gravida-sabrina-sato-aposta-em-pedrinhas-coloridas-e-confirma-presenca-no-carnaval-2027.shtml)_
 
+- **[2026-10-19 12:47 UTC]** Adriana Esteves, Cauã Reymond, Sabrina Sato e César Tralli vão ao Upfront Globo 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/adriana-esteves-caua-reymond-sabrina-sato-e-cesar-tralli-vao-ao-upfront-globo-2027.shtml)_
+
