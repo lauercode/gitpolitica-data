@@ -29,3 +29,6 @@
 - **[2026-10-17 02:03 UTC]** Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL; VEJA ÍNTEGRA
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml)_
 
+- **[2026-10-17 00:37 UTC]** VÍDEOS: Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-renata-lo-prete-entrevista-flavio-bolsonaro-candidato-a-presidencia-pelo-pl.ghtml)_
+
