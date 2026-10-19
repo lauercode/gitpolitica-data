@@ -1271,3 +1271,6 @@
 - **[2026-10-19 18:34 UTC]** GloboNews Debate recebe coordenadores das campanhas de Lula e Flávio Bolsonaro nesta segunda-feira
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/globonews-debate-recebe-coordenadores-das-campanhas-de-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-19 16:00 UTC]** O que pesquisas qualitativas dizem sobre Lula e Flávio no debate e como isso vai refletir nas campanhas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/19/o-que-pesquisas-qualitativas-falaram-sobre-lula-e-flavio-no-debate-e-como-isso-vai-refletir-nas-campanhas.ghtml)_
+
