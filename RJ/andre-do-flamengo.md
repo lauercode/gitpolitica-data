@@ -65,3 +65,6 @@
 - **[2026-10-18 20:33 UTC]** Flamengo vence o Bahia por 3 a 0 e retoma a liderança do Brasileiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/flamengo-vence-o-bahia-por-3-a-0-e-retoma-a-lideranca-do-brasileiro.shtml)_
 
+- **[2026-10-19 10:29 UTC]** Chance de título do Flamengo vai a quase 70% após 31ª rodada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/chance-de-titulo-do-flamengo-vai-a-quase-70-apos-31a-rodada.shtml)_
+
