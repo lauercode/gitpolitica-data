@@ -263,3 +263,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-09-11 08:44 UTC]** Quem é quem nas mensagens que desencadearam a maior crise da história do STF
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c7708dpmmg7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-16 19:16 UTC]** Mensagens mostram festa de Vorcaro para Kassio Nunes Marques com garotas de programa, diz revista
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/mensagens-mostram-festa-de-vorcaro-para-kassio-nunes-marques-com-garotas-de-programa-diz-revista.ghtml)_
+
