@@ -7132,3 +7132,6 @@
 - **[2026-10-19 10:05 UTC]** Debate Flávio Bolsonaro X Lula na Globo: data, horário e como assistir
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckreyvyvell8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-19 20:11 UTC]** Na TV, Flávio Bolsonaro pede 'mobilização total' e Lula aborda o assassinato de Ana Clara, de 5 anos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml)_
+
