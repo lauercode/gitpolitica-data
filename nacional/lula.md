@@ -1211,3 +1211,6 @@
 - **[2026-10-18 23:52 UTC]** Vorcaro, lobista e filho de Lula viram temas de Lula e Flávio em debate; veja como foi em 10 pontos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vorcaro-lobista-e-filho-de-lula-viram-temas-de-lula-e-flavio-em-debate-veja-como-foi-em-10-pontos.shtml)_
 
+- **[2026-10-18 23:00 UTC]** Sem detalhar planos, Flávio e Lula caminham para outro 'estelionato eleitoral' histórico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/sem-detalhar-planos-flavio-e-lula-caminham-para-outro-estelionato-eleitoral-historico.shtml)_
+
