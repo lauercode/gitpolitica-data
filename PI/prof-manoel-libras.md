@@ -20,3 +20,6 @@
 - **[2026-09-03 13:15 UTC]** Apple enfrenta ação de 2 bilhões de libras por regras de rastreamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/apple-enfrenta-acao-de-2-bilhoes-de-libras-por-regras-de-rastreamento.shtml)_
 
+- **[2026-10-19 11:27 UTC]** Marco Nanini é vaiado após pedir para intérprete de Libras sair do palco; veja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/marco-nanini-e-vaiado-apos-interrupcao-de-peca-por-problema-com-interprete-de-libras.shtml)_
+
