@@ -1145,3 +1145,6 @@
 - **[2026-10-18 18:02 UTC]** Reta final do 2º turno: Lula aposta em medidas populares para virar, e Flávio quer reforçar que manterá programas sociais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml)_
 
+- **[2026-10-18 03:00 UTC]** Confira o que Flávio Bolsonaro e Lula levaram para a propaganda eleitoral no rádio neste 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/campanha-eleitoral-radio-flavio-bolsonaro-lula.ghtml)_
+
