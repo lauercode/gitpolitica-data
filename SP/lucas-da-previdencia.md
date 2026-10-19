@@ -44,3 +44,6 @@
 - **[2026-09-11 13:56 UTC]** Tribunal de Contas do Paraná propôs ressarcimento de R$ 4 milhões de previdência municipal aplicados no Master
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/11/caso-master-previdencia-imbituva-investimento-tce.ghtml)_
 
+- **[2026-10-18 10:00 UTC]** É uma questão de tempo: Previdência Social vai quebrar o Brasil
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/artigos/a-previdencia-social-vai-quebrar-o-brasil/)_
+
