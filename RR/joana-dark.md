@@ -344,3 +344,6 @@
 - **[2026-10-17 03:00 UTC]** ‘Dark Horse’: PF aponta divergência ‘severa’ entre recursos enviados ao exterior e os que retornaram ao Brasil para filme sobre Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/17/dark-horse-pf-aponta-divergencia-severa-entre-recursos-enviados-ao-exterior-e-os-que-retornaram-ao-brasil-para-filme-sobre-bolsonaro.ghtml)_
 
+- **[2026-10-17 00:57 UTC]** Empresário que fez repasses a fundo de 'Dark Horse' diz em delação que tentou reaver valores, mas não conseguiu
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/empresario-que-fez-repasses-a-fundo-de-dark-horse-diz-em-delacao-que-tentou-reaver-valores-mas-nao-conseguiu.ghtml)_
+
