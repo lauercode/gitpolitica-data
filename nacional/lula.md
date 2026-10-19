@@ -1199,3 +1199,6 @@
 - **[2026-10-19 04:00 UTC]** Eleições entre Lula e Flávio Bolsonaro mostram racha de artistas e mandachuvas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/10/eleicoes-entre-lula-e-flavio-bolsonaro-mostram-racha-de-artistas-e-mandachuvas.shtml)_
 
+- **[2026-10-19 01:04 UTC]** Debate entre Lula e Flávio Bolsonaro teve distorções e dados falsos; veja checagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-entre-lula-e-flavio-bolsonaro-teve-distorcoes-e-dados-falsos-veja-checagem.shtml)_
+
