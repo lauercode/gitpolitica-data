@@ -7027,3 +7027,6 @@
 - **[2026-10-18 23:16 UTC]** No 1º debate, Lula e Flávio Bolsonaro trocam acusações e provocações
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml)_
 
+- **[2026-10-19 04:00 UTC]** Eleições entre Lula e Flávio Bolsonaro mostram racha de artistas e mandachuvas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/10/eleicoes-entre-lula-e-flavio-bolsonaro-mostram-racha-de-artistas-e-mandachuvas.shtml)_
+
