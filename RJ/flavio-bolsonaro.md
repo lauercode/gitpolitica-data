@@ -7069,3 +7069,6 @@
 - **[2026-10-19 05:00 UTC]** Podcast analisa o saldo do primeiro debate entre Flávio Bolsonaro e Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-analisa-o-saldo-do-primeiro-debate-entre-flavio-bolsonaro-e-lula.shtml)_
 
+- **[2026-10-19 08:38 UTC]** O que Flávio e Lula propõem sobre reajuste do salário mínimo e aposentadorias
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c6x2qwd9jx8zo?at_medium=RSS&at_campaign=rss)_
+
