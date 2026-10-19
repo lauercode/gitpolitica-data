@@ -1193,3 +1193,6 @@
 - **[2026-10-15 21:32 UTC]** Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml)_
 
+- **[2026-10-15 17:30 UTC]** No horário eleitoral, Lula questiona posição de Flávio sobre fim da escala 6x1; candidato do PL aborda Ministério da Prosperidade
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/horario-eleitoral-14-outubro-presidente.ghtml)_
+
