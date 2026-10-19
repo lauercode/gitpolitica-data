@@ -137,3 +137,6 @@
 - **[2026-10-19 12:57 UTC]** Deputado André Janones é internado com arritmia em São Paulo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/deputado-andre-janones-e-internado-com-arritmia-em-sao-paulo)_
 
+- **[2026-10-19 16:54 UTC]** O que causa arritmia cardíaca, que levou Janones à UTI após debate entre Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/o-causa-arritmia-cardiaca-que-levou-janones-a-uti-apos-debate-entre-lula-e-flavio-bolsonaro.shtml)_
+
