@@ -7126,3 +7126,6 @@
 - **[2026-10-19 12:59 UTC]** Advogado de Trump alfineta Lula por fala sobre imunidade de Flávio: “Recado mafioso”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-trump-alfineta-lula-fala-sobre-imunidade-flavio/)_
 
+- **[2026-10-19 15:50 UTC]** Lula e Flávio trocam acusações de corrupção e debate da Band termina 'caótico': veja como foi
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss)_
+
