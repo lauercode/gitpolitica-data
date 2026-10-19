@@ -86,3 +86,6 @@
 - **[2026-10-18 17:15 UTC]** Brasil fica fora de todas as finais masculinas do Mundial de ginástica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/brasil-fica-fora-de-todas-as-finais-masculinas-do-mundial-de-ginastica.shtml)_
 
+- **[2026-10-19 16:30 UTC]** Rebeca Andrade volta a competir no Mundial de Ginástica após três anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/rebeca-andrade-volta-a-competir-no-mundial-de-ginastica-apos-tres-anos.shtml)_
+
