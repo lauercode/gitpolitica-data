@@ -227,3 +227,6 @@
 - **[2026-09-11 05:00 UTC]** Sexta (11) tem previsão de chuva forte e risco de tornado no centro-sul de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sexta-11-tem-previsao-de-chuva-forte-e-risco-de-tornado-no-centro-sul-de-sao-paulo.shtml)_
 
+- **[2026-10-17 22:50 UTC]** Maria do Carmo faz caminhada no Centro de Manaus e apresenta propostas para infraestrutura
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/maria-do-carmo-faz-caminhada-no-centro-de-manaus-e-apresenta-propostas-para-infraestrutura.ghtml)_
+
