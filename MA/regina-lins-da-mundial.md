@@ -83,3 +83,6 @@
 - **[2026-10-18 17:56 UTC]** Limitada por problema no tornozelo, Rayssa Leal fica em sétimo no Mundial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/limitada-por-problema-no-tornozelo-rayssa-leal-fica-em-setimo-no-mundial.shtml)_
 
+- **[2026-10-18 17:15 UTC]** Brasil fica fora de todas as finais masculinas do Mundial de ginástica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/brasil-fica-fora-de-todas-as-finais-masculinas-do-mundial-de-ginastica.shtml)_
+
