@@ -1187,3 +1187,6 @@
 - **[2026-10-16 03:00 UTC]** Datafolha e Quaest mostram empate técnico entre Flávio Bolsonaro e Lula no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/datafolha-e-quaest-2o-turno.ghtml)_
 
+- **[2026-10-15 22:02 UTC]** Datafolha: Lula é rejeitado por 46%, e Flávio Bolsonaro, por 44%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-rejeicao-15-outubro.ghtml)_
+
