@@ -1253,3 +1253,6 @@
 - **[2026-10-19 12:54 UTC]** Veja o que é #FATO ou #FAKE nas falas de Flávio Bolsonaro e Lula no debate da Band no 2º turno das eleições 2026
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/19/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-band-no-2o-turno-das-eleicoes-2026.ghtml)_
 
+- **[2026-10-19 12:00 UTC]** Entidades apontam novos indícios de tratamento desigual da Meta a Lula e Flávio no TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/entidades-apontam-novos-indicios-de-tratamento-desigual-da-meta-a-lula-e-flavio-no-tse.shtml)_
+
