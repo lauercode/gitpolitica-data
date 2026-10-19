@@ -7063,3 +7063,6 @@
 - **[2026-10-18 22:10 UTC]** Bate-boca entre Flávio Bolsonaro e Lula esquece os indecisos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bate-boca-entre-flavio-bolsonaro-e-lula-gera-calor-nao-luz.shtml)_
 
+- **[2026-10-19 04:41 UTC]** Quem ganhou e quem perdeu no primeiro debate entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd7qyplwzzpo?at_medium=RSS&at_campaign=rss)_
+
