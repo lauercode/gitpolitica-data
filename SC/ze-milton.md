@@ -11,3 +11,6 @@
 - **[2026-10-05 01:34 UTC]** Eleições 2026: Zé Milton (PP) é eleito deputado federal por Santa Catarina
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-ze-milton-pp-e-eleito-deputado-federal-por-santa-catarina.ghtml)_
 
+- **[2026-10-18 15:59 UTC]** Milton Leite recebeu políticos e tratou de federação partidária na cadeia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/milton-leite-recebeu-politicos-e-tratou-de-federacao-partidaria-na-cadeia.shtml)_
+
