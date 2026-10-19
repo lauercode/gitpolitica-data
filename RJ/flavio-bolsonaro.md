@@ -7153,3 +7153,6 @@
 - **[2026-10-19 17:40 UTC]** Flávio venceu na linguagem da fé, mas pode ter perdido o crente indeciso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/10/flavio-venceu-na-linguagem-da-fe-mas-pode-ter-perdido-o-crente-indeciso.shtml)_
 
+- **[2026-10-19 16:54 UTC]** O que causa arritmia cardíaca, que levou Janones à UTI após debate entre Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/o-causa-arritmia-cardiaca-que-levou-janones-a-uti-apos-debate-entre-lula-e-flavio-bolsonaro.shtml)_
+
