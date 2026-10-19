@@ -1286,3 +1286,6 @@
 - **[2026-10-19 14:51 UTC]** Debate da gritaria mostra Flávio e Lula mais preocupados em agitar suas bases
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/debate-da-gritaria-mostra-flavio-e-lula-mais-preocupados-em-agitar-suas-bases.shtml)_
 
+- **[2026-10-19 13:18 UTC]** Campanhas de Lula e Flávio Bolsonaro minimizam impacto do debate e avaliam mudanças para o da Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-minimizam-impacto-do-debate-e-avaliam-mudancas-para-o-da-globo.shtml)_
+
