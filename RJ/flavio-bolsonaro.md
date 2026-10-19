@@ -7006,3 +7006,6 @@
 - **[2026-10-19 01:29 UTC]** Debate da Band: Lula e Flávio trocam acusações sobre corrupção e segurança pública; siga repercussão
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-19 01:08 UTC]** Quando será o debate de Lula e Flávio Bolsonaro na Globo? Veja
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/quando-sera-o-debate-de-lula-e-flavio-bolsonaro-na-globo-veja.ghtml)_
+
