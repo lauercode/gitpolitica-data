@@ -7024,3 +7024,6 @@
 - **[2026-10-19 02:13 UTC]** Gate é acionado para checar carro de Flávio Bolsonaro após suspeita de bomba durante debate na Band
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/gate-e-acionado-para-checar-carro-de-flavio-bolsonaro-apos-suspeita-de-bomba-durante-debate-na-band.ghtml)_
 
+- **[2026-10-18 23:16 UTC]** No 1º debate, Lula e Flávio Bolsonaro trocam acusações e provocações
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml)_
+
