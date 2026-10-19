@@ -68,3 +68,6 @@
 - **[2026-10-18 17:33 UTC]** Vantagem de Lula sobre os Bolsonaro cai em 98% das cidades do Nordeste
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vantagem-de-lula-sobre-os-bolsonaro-cai-em-98-das-cidades-do-nordeste.shtml)_
 
+- **[2026-10-11 14:31 UTC]** Bahia, Ceará e Piauí mantêm hegemonia do PT apesar do avanço de Flávio no Nordeste
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/bahia-ceara-e-piaui-mantem-hegemonia-do-pt-apesar-do-avanco-de-flavio-no-nordeste/)_
+
