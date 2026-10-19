@@ -38,3 +38,6 @@
 - **[2026-09-10 22:36 UTC]** Mario Frias diz que operação da PF é “cortina de fumaça” e nega irregularidades
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mario-frias-diz-que-operacao-da-pf-e-cortina-de-fumaca-e-nega-irregularidades/)_
 
+- **[2026-10-17 21:24 UTC]** Fumaça impede voos de aeronaves que combatem incêndios no Amazonas
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/brasil/fumaca-impede-voos-de-aeronaves-que-combatem-incendios-no-amazonas/)_
+
