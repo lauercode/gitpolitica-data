@@ -446,3 +446,6 @@
 - **[2026-10-18 23:00 UTC]** Quem faz o RUF 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://ruf.folha.uol.com.br/2026/noticias/quem-faz-o-ruf-2026.shtml)_
 
+- **[2026-10-09 02:04 UTC]** Quem é Lucas Polese, deputado federal eleito com votação recorde no Espírito Santo
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/espirito-santo/quem-e-lucas-polese-deputado-eleito-com-votacao-recorde-no-espirito-santo/)_
+
