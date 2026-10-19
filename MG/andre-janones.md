@@ -125,3 +125,6 @@
 - **[2026-10-17 12:00 UTC]** Três Poderes: Janones é o vencedor da semana e Meta, a perdedora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tres-poderes-janones-e-o-vencedor-da-semana-e-meta-a-perdedora.shtml)_
 
+- **[2026-10-19 11:24 UTC]** Janones é internado em UTI com arritmia cardíaca após debate entre Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-e-internado-em-uti-com-arritmia-cardiaca-apos-debate-entre-lula-e-flavio-bolsonaro.shtml)_
+
