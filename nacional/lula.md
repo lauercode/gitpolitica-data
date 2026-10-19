@@ -1208,3 +1208,6 @@
 - **[2026-10-19 00:26 UTC]** Lula chama de 'malandro carioca' Flávio Bolsonaro, que se solidariza com 'irmãos' do Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-chama-de-malandro-carioca-flavio-bolsonaro-que-se-solidariza-com-irmaos-do-rio.shtml)_
 
+- **[2026-10-18 23:52 UTC]** Vorcaro, lobista e filho de Lula viram temas de Lula e Flávio em debate; veja como foi em 10 pontos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vorcaro-lobista-e-filho-de-lula-viram-temas-de-lula-e-flavio-em-debate-veja-como-foi-em-10-pontos.shtml)_
+
