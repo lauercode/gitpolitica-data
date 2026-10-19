@@ -452,3 +452,6 @@
 - **[2026-10-19 04:41 UTC]** Quem ganhou e quem perdeu no primeiro debate entre Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd7qyplwzzpo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-18 15:02 UTC]** Quem está à frente nas pesquisas para presidente no 2º turno das Eleições 2026?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
