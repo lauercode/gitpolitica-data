@@ -7105,3 +7105,6 @@
 - **[2026-10-19 11:00 UTC]** TSE dá 24 horas para Meta comprovar tratamento igualitário a Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-da-24-horas-para-meta-comprovar-tratamento-igualitario-a-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 10:26 UTC]** Flávio Bolsonaro repete manobra de Trump em debate ao fazer gestos e expressões atrás de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-repete-manobra-de-trump-em-debate-ao-fazer-gestos-e-expressoes-atras-de-lula.shtml)_
+
