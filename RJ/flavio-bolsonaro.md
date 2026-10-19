@@ -7117,3 +7117,6 @@
 - **[2026-10-19 15:39 UTC]** O que a campanha de Flávio prepara antes do segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/do-debate-da-globo-aos-atos-de-rua-agenda-final-flavio-bolsonaro-antes-do-segundo-turno/)_
 
+- **[2026-10-19 15:22 UTC]** PF mira ex-servidor do STJ suspeito de vazar dados a advogado ligado a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-ex-servidor-stj-suspeito-vazar-dados-advogado-flavio/)_
+
