@@ -515,3 +515,6 @@
 - **[2026-10-17 19:15 UTC]** Presidente do PT quer confronto entre Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidente-do-pt-quer-confronto-entre-lula-e-flavio/)_
 
+- **[2026-10-13 11:54 UTC]** Presidente do Palmeiras critica proibição abrupta das bets: “questão de credibilidade”
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/presidente-do-palmeiras-critica-proibicao-abrupta-das-bets-questao-de-credibilidade/)_
+
