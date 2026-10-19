@@ -7171,3 +7171,6 @@
 - **[2026-10-19 15:07 UTC]** Flávio Bolsonaro critica entraves ambientais e diz que produtor 'vai fazer o que quiser na sua terra'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-critica-entraves-ambientais-e-diz-que-produtor-vai-fazer-o-que-quiser-na-sua-terra.shtml)_
 
+- **[2026-10-19 14:51 UTC]** Debate da Band com Lula e Flávio chega a 36,2 milhões de visualizações no YouTube
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/debate-da-band-com-lula-e-flavio-chega-a-362-milhoes-de-visualizacoes-no-youtube.shtml)_
+
