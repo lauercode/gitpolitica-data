@@ -7120,3 +7120,6 @@
 - **[2026-10-19 15:22 UTC]** PF mira ex-servidor do STJ suspeito de vazar dados a advogado ligado a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-ex-servidor-stj-suspeito-vazar-dados-advogado-flavio/)_
 
+- **[2026-10-19 13:33 UTC]** Janones convoca militância a inflar buscas negativas contra Flávio durante debate
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/janones-convoca-militancia-inflar-buscas-negativas-contra-flavio-debate/)_
+
