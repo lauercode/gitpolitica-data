@@ -11,3 +11,6 @@
 - **[2026-09-02 16:30 UTC]** Johnny Massaro vai estrelar peça inspirada em livro de Ana Suy
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/johnny-massaro-adapta-obra-de-ana-suy-para-teatro-em-sp.shtml)_
 
+- **[2026-10-18 21:00 UTC]** Johnny Hooker vai dublar 'Jim Queen', comédia LGBTQIA+ que estreia no Brasil em novembro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/johnny-hooker-vai-dublar-jim-queen-comedia-lgbtqia-que-estreia-no-brasil-em-novembro.shtml)_
+
