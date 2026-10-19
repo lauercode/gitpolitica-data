@@ -1235,3 +1235,6 @@
 - **[2026-10-18 20:52 UTC]** Ministra do TSE determina que vice de Flávio apague vídeo que associa Lula ao crime organizado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ministra-do-tse-determina-que-vice-de-flavio-apague-video-que-associa-lula-ao-crime-organizado/)_
 
+- **[2026-10-18 15:02 UTC]** Flávio e Lula estão empatados no agregador de pesquisas da BBC: veja números
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
