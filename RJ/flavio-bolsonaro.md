@@ -7075,3 +7075,6 @@
 - **[2026-10-19 08:07 UTC]** Lula e Flávio fazem primeiro debate das eleições na TV Band
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-flavio-fazem-primeiro-debate-das-eleicoes-na-band)_
 
+- **[2026-10-19 13:50 UTC]** Debate expõe contraste entre Lula analógico e Flávio Bolsonaro digital
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/19/debate-expoe-contraste-entre-lula-analogico-e-flavio-bolsonaro-digital.ghtml)_
+
