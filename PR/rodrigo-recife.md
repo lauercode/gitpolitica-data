@@ -47,3 +47,6 @@
 - **[2026-09-03 14:16 UTC]** Festival Internacional de Dança do Recife tem mais de 30 atividades
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-09/festival-internacional-de-danca-do-recife-tem-mais-de-30-atividades)_
 
+- **[2026-10-18 23:00 UTC]** Comerciante no Recife vota em Flávio 'porque ele é filho de Bolsonaro'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/comerciante-no-recife-vota-em-flavio-porque-ele-e-filho-de-bolsonaro.shtml)_
+
