@@ -7186,3 +7186,6 @@
 - **[2026-10-19 12:42 UTC]** PF faz busca contra ex-servidor do STJ suspeito de vazar decisões a amigo de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pf-faz-busca-em-ex-servidor-do-stj-suspeito-de-vazar-decisoes-a-amigo-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 19:21 UTC]** Lula se diz incomodado com preparo de Flávio para o debate da Band
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-incomodado-com-preparo-flavio-debate-band/)_
+
