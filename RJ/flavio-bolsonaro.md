@@ -6988,3 +6988,6 @@
 - **[2026-10-18 21:14 UTC]** Nova pesquisa Datafolha mede efeitos do debate da Band nas intenções de voto em Lula e Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/nova-pesquisa-datafolha-mede-efeitos-do-debate-da-band-na-intencao-de-voto-em-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-18 23:16 UTC]** Lula e Flávio Bolsonaro fazem o primeiro debate do 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml)_
+
