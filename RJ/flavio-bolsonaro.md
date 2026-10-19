@@ -7189,3 +7189,6 @@
 - **[2026-10-19 19:21 UTC]** Lula se diz incomodado com preparo de Flávio para o debate da Band
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-incomodado-com-preparo-flavio-debate-band/)_
 
+- **[2026-10-19 18:29 UTC]** Flávio no debate: a estratégia de presença, intimidação e linguagem corporal que 'imitou' Trump
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvx2872eyk2do?at_medium=RSS&at_campaign=rss)_
+
