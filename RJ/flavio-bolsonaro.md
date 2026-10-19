@@ -7039,3 +7039,6 @@
 - **[2026-10-19 00:26 UTC]** Lula chama de 'malandro carioca' Flávio Bolsonaro, que se solidariza com 'irmãos' do Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-chama-de-malandro-carioca-flavio-bolsonaro-que-se-solidariza-com-irmaos-do-rio.shtml)_
 
+- **[2026-10-19 00:09 UTC]** Polícia investiga suspeita de explosivos em carro de Flávio, mas ameaça é descartada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/policia-investiga-suspeita-de-explosivos-em-carro-de-flavio-mas-ameaca-e-descartada.shtml)_
+
