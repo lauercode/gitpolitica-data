@@ -7150,3 +7150,6 @@
 - **[2026-10-19 17:47 UTC]** Flávio Bolsonaro advogou para PM acusado de matar menina de 5 anos no Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/flavio-bolsonaro-advogou-para-pm-acusado-de-matar-menina-de-5-anos-no-rio.shtml)_
 
+- **[2026-10-19 17:40 UTC]** Flávio venceu na linguagem da fé, mas pode ter perdido o crente indeciso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/10/flavio-venceu-na-linguagem-da-fe-mas-pode-ter-perdido-o-crente-indeciso.shtml)_
+
