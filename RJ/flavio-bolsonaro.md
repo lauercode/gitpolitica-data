@@ -7093,3 +7093,6 @@
 - **[2026-10-19 12:16 UTC]** Parlamentares acusam Ricardo Nunes de convocar servidores para ato de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/parlamentares-acusam-ricardo-nunes-de-convocar-servidores-para-ato-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 12:00 UTC]** Entidades apontam novos indícios de tratamento desigual da Meta a Lula e Flávio no TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/entidades-apontam-novos-indicios-de-tratamento-desigual-da-meta-a-lula-e-flavio-no-tse.shtml)_
+
