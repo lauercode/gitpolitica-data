@@ -7162,3 +7162,6 @@
 - **[2026-10-19 16:16 UTC]** Marçal e Nikolas orientaram Flávio no debate cochichando com assessora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/marcal-e-nikolas-orientaram-flavio-no-debate-cochichando-com-assessora.shtml)_
 
+- **[2026-10-19 15:30 UTC]** Diferença entre Lula e Flávio cai de 14,8 para 12,5 pontos entre mulheres, diz BTG/Nexus
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/diferenca-entre-lula-e-flavio-cai-de-148-para-125-pontos-entre-mulheres-diz-btgnexus.shtml)_
+
