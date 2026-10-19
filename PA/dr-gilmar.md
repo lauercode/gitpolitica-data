@@ -95,3 +95,6 @@
 - **[2026-09-11 23:34 UTC]** Gilmar pede a Fachin para adiar sessão sobre Moraes e incluir relatório sobre Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-pede-a-fachin-para-adiar-sessao-sobre-moraes-e-incluir-relatorio-sobre-mendonca/)_
 
+- **[2026-10-17 12:31 UTC]** Resumo da semana: advogado de Trump ataca Alexandre de Moraes e Gilmar Mendes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/resumo-da-semana-advogado-de-trump-ataca-alexandre-de-moraes-e-gilmar-mendes/)_
+
