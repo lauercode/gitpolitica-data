@@ -95,3 +95,6 @@
 - **[2026-10-16 08:00 UTC]** Documentos levantam dúvida sobre papel de Lucas Kallas na Pincred
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/16/documentos-levantam-duvida-sobre-papel-de-lucas-kallas-na-pincred.ghtml)_
 
+- **[2026-10-18 20:33 UTC]** Gracyanne Barbosa, Lucas Guedez e Junno Andrade disputam repescagem no Dança dos Famosos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/gracyanne-barbosa-lucas-guedez-e-junno-andrade-disputam-repescagem-no-danca-dos-famosos.shtml)_
+
