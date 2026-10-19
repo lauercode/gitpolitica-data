@@ -7054,3 +7054,6 @@
 - **[2026-10-18 23:00 UTC]** Sem detalhar planos, Flávio e Lula caminham para outro 'estelionato eleitoral' histórico
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/sem-detalhar-planos-flavio-e-lula-caminham-para-outro-estelionato-eleitoral-historico.shtml)_
 
+- **[2026-10-18 22:57 UTC]** 'O Brasil vai te aposentar' e 'conhece ônibus por literatura': veja frases do debate entre Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/o-brasil-vai-te-aposentar-e-conhece-onibus-por-literatura-veja-frases-do-debate-entre-lula-e-flavio.shtml)_
+
