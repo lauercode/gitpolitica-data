@@ -1223,3 +1223,6 @@
 - **[2026-10-18 22:27 UTC]** Band consegue maior audiência desde 2022 e vence Globo com debate de Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/band-consegue-maior-audiencia-desde-2022-e-vence-globo-com-debate-de-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-18 22:10 UTC]** Bate-boca entre Flávio Bolsonaro e Lula esquece os indecisos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bate-boca-entre-flavio-bolsonaro-e-lula-gera-calor-nao-luz.shtml)_
+
