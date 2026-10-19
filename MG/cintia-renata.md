@@ -35,3 +35,6 @@
 - **[2026-10-16 02:02 UTC]** Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT; VEJA ÍNTEGRA
   _fonte: [G1 - Política:](https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente-segundo-turno.ghtml)_
 
+- **[2026-10-16 00:33 UTC]** VÍDEOS: Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-renata-lo-prete-entrevista-lula-candidato-a-reeleicao-pelo-pt.ghtml)_
+
