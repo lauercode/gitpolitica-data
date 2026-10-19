@@ -1232,3 +1232,6 @@
 - **[2026-10-19 01:38 UTC]** Em debate, Flávio pergunta sobre Lulinha e Lula chama adversário de “malandro carioca”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-lula-primeiro-debate-presidencial/)_
 
+- **[2026-10-18 20:52 UTC]** Ministra do TSE determina que vice de Flávio apague vídeo que associa Lula ao crime organizado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ministra-do-tse-determina-que-vice-de-flavio-apague-video-que-associa-lula-ao-crime-organizado/)_
+
