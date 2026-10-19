@@ -1265,3 +1265,6 @@
 - **[2026-10-19 15:50 UTC]** Lula e Flávio trocam acusações de corrupção e debate da Band termina 'caótico': veja como foi
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-19 19:13 UTC]** DAQUI A POUCO: Debate na Globonews reúne coordenadores das campanhas de Flávio e Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/globonews-debate-campanhas-flavio-bolsonaro-lula.ghtml)_
+
