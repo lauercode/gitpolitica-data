@@ -7270,3 +7270,6 @@
 - **[2026-10-20 03:51 UTC]** Flávio Bolsonaro enfrenta resistência de parlamentares em fim de mandato
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-enfrenta-resistencia-de-parlamentares-em-fim-de-mandato/)_
 
+- **[2026-10-20 00:25 UTC]** PT assina CPMI para investigar Lulinha e cobra comissão sobre Flávio e Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-assina-cpmi-para-investigar-lulinha-e-cobra-comissao-sobre-flavio-e-master/)_
+
