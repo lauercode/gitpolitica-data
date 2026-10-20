@@ -1340,3 +1340,6 @@
 - **[2026-10-20 13:44 UTC]** TSE: Lula autoriza quebra de sigilo bancário se Flávio fizer o mesmo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-lula-autoriza-quebra-de-sigilo-bancario-se-flavio-fizer-o-mesmo)_
 
+- **[2026-10-20 18:46 UTC]** Na TV, Lula exibe depoimento da mãe de Paulo Gustavo, morto por covid; Flávio Bolsonaro se diz vencedor de debate
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/horario-eleitoral-presidente-20-outubro-lula-flavio-bolsonaro.ghtml)_
+
