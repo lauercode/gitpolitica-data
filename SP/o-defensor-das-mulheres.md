@@ -242,3 +242,6 @@
 - **[2026-09-11 13:54 UTC]** Teresa Surita fala em ampliar políticas públicas para mulheres caso seja eleita senadora por RR
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/11/teresa-surita-fala-em-ampliar-politicas-publicas-para-mulheres-caso-seja-eleita-senadora-por-rr.ghtml)_
 
+- **[2026-10-20 17:00 UTC]** Mulheres são mais inteligentes emocionalmente que homens, e isso é um problema, diz estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/mulheres-sao-mais-inteligentes-emocionalmente-que-homens-e-isso-e-um-problema-diz-estudo.shtml)_
+
