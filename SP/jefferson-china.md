@@ -98,3 +98,6 @@
 - **[2026-10-19 07:22 UTC]** PIB da China acelera a 4,5% no terceiro trimestre impulsionado por alta nas exportações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/pib-da-china-acelera-a-45-no-terceiro-trimestre-impulsionado-por-alta-nas-exportacoes.shtml)_
 
+- **[2026-10-20 07:17 UTC]** Governo Trump veta uso da IA chinesa DeepSeek em agências governamentais; China critica medida
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/governo-trump-veta-uso-da-ia-chinesa-deepseek-em-agencias-governamentais-china-critica-medida.shtml)_
+
