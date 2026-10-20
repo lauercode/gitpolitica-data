@@ -7294,3 +7294,6 @@
 - **[2026-10-20 14:14 UTC]** Lula protocola documento no TSE em que diz que libera a divulgação de sigilos dele e de parentes se Flávio também o fizer
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/lula-protocola-documento-no-tse-em-que-diz-que-libera-a-divulgacao-de-sigilos-dele-e-de-parentes-se-flavio-tambem-o-fizer.ghtml)_
 
+- **[2026-10-20 14:01 UTC]** Flávio promete, se eleito, retomar benefício para eventos encerrado por Lula após suspeitas de irregularidades e alto custo
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml)_
+
