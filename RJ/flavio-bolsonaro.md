@@ -7309,3 +7309,6 @@
 - **[2026-10-20 15:10 UTC]** PF e Moraes ampliam pressão sobre Flávio a poucos dias do 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-e-moraes-ampliam-pressao-sobre-flavio-a-poucos-dias-do-2o-turno/)_
 
+- **[2026-10-20 13:14 UTC]** Lula rebate Flávio sobre “padrão Einstein” em hospitais do SUS
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-rebate-flavio-padrao-einstein-hospitais-sus/)_
+
