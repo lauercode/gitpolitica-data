@@ -1292,3 +1292,6 @@
 - **[2026-10-19 19:21 UTC]** Lula se diz incomodado com preparo de Flávio para o debate da Band
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-incomodado-com-preparo-flavio-debate-band/)_
 
+- **[2026-10-19 22:35 UTC]** Campanha de Lula aciona TSE e diz que Meta continua favorecendo Flávio Bolsonaro nas redes sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/campanha-de-lula-volta-a-acionar-tse-e-diz-que-meta-continua-favorecendo-flavio-bolsonaro-nas-redes.ghtml)_
+
