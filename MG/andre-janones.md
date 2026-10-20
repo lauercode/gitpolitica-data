@@ -152,3 +152,6 @@
 - **[2026-10-20 17:07 UTC]** André Janones recebe alta e deixa hospital em São Paulo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/andre-janones-recebe-alta-e-deixa-hospital-em-sao-paulo)_
 
+- **[2026-10-20 18:18 UTC]** Em evento de Flávio, Marçal dá instruções a influenciadores parecidas com as de Janones a 'Exército'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-evento-de-flavio-marcal-da-instrucoes-a-influenciadores-parecidas-com-as-de-janones-a-exercito.shtml)_
+
