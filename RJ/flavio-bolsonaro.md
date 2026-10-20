@@ -7288,3 +7288,6 @@
 - **[2026-10-19 16:41 UTC]** Quem está à frente nas pesquisas, Lula ou Flávio? Confira no agregador da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-20 14:26 UTC]** Eleições 2026: quem é Alfredo Gaspar, vice na chapa de Flávio Bolsonaro?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml)_
+
