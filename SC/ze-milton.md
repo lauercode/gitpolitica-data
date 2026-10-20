@@ -14,3 +14,6 @@
 - **[2026-10-18 15:59 UTC]** Milton Leite recebeu políticos e tratou de federação partidária na cadeia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/milton-leite-recebeu-politicos-e-tratou-de-federacao-partidaria-na-cadeia.shtml)_
 
+- **[2026-10-20 13:03 UTC]** Milton Leite é transferido para CDP de Guarulhos após denúncias de regalias na prisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/milton-leite-e-transferido-para-cdp-de-guarulhos-apos-denuncias-de-regalias-na-prisao.shtml)_
+
