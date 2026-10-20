@@ -1328,3 +1328,6 @@
 - **[2026-10-20 14:01 UTC]** Flávio promete, se eleito, retomar benefício para eventos encerrado por Lula após suspeitas de irregularidades e alto custo
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml)_
 
+- **[2026-10-20 10:41 UTC]** Como abstenção pode dar vitória a Flávio Bolsonaro ou a Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/como-abstencao-pode-dar-vitoria-a-flavio-bolsonaro-ou-a-lula.shtml)_
+
