@@ -7372,3 +7372,6 @@
 - **[2026-10-20 12:30 UTC]** Flávio quer manter dianteira na reta final com foco no Sudeste e resposta ao PT nas ruas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-quer-manter-dianteira-na-reta-final-com-foco-no-sudeste-e-resposta-ao-pt-nas-ruas.shtml)_
 
+- **[2026-10-20 19:11 UTC]** Alexandre de Moraes assume relatoria de investigação contra Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-assume-relatoria-de-investigacao-contra-flavio-bolsonaro/)_
+
