@@ -7231,3 +7231,6 @@
 - **[2026-10-19 20:14 UTC]** Debate da Band: o que aconteceu no primeiro confronto entre Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crgqw4y4e07vo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-19 22:25 UTC]** Flávio faz motociata no Pará; Lula participa de marcha no RS
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-motociata-no-para-lula-participa-de-marcha-no-rs)_
+
