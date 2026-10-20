@@ -32,3 +32,6 @@
 - **[2026-10-09 22:06 UTC]** Justiça condena Soraya Thronicke a pagar R$ 50 mil a Alfredo Gaspar por acusação de estupro
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/10/09/justica-condena-soraya-thronicke-a-pagar-r-50-mil-a-alfredo-gaspar-por-acusacao-de-estupro.ghtml)_
 
+- **[2026-10-20 14:26 UTC]** Eleições 2026: quem é Alfredo Gaspar, vice na chapa de Flávio Bolsonaro?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml)_
+
