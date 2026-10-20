@@ -38,3 +38,6 @@
 - **[2026-10-20 11:36 UTC]** Falha no Smart Sampa permite acesso a câmeras em São Paulo, diz UOL
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/falha-no-smart-sampa-permite-acesso-a-cameras-em-sao-paulo-diz-uol.shtml)_
 
+- **[2026-10-20 08:00 UTC]** São Paulo puxa locações de galpões logísticos e derruba taxa de vacância do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/sao-paulo-puxa-locacoes-de-galpoes-logisticos-e-derruba-taxa-de-vacancia-do-brasil.shtml)_
+
