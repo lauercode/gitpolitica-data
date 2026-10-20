@@ -7201,3 +7201,6 @@
 - **[2026-10-19 21:20 UTC]** Gastos públicos, Bolsa Família e segurança: coordenadores de Lula e Flávio Bolsonaro discutem estratégias na reta final da eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/globonews-debate-coordenadores-das-campanhas-de-lula-e-flavio-bolsonaro-discutem-estrategias.ghtml)_
 
+- **[2026-10-19 20:40 UTC]** Flávio quer passar a boiada?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/flavio-quer-passar-a-boiada.shtml)_
+
