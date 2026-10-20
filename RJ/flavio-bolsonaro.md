@@ -7369,3 +7369,6 @@
 - **[2026-10-20 12:58 UTC]** Lula e Flávio Bolsonaro confirmam presença e Globo fará debate no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/lula-e-flavio-bolsonaro-confirmam-presenca-e-globo-fara-debate-no-segundo-turno.shtml)_
 
+- **[2026-10-20 12:30 UTC]** Flávio quer manter dianteira na reta final com foco no Sudeste e resposta ao PT nas ruas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-quer-manter-dianteira-na-reta-final-com-foco-no-sudeste-e-resposta-ao-pt-nas-ruas.shtml)_
+
