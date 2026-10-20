@@ -7207,3 +7207,6 @@
 - **[2026-10-19 19:54 UTC]** Janja leva bronca da Band após se manifestar durante fala final de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janja-leva-bronca-da-band-apos-se-manifestar-durante-fala-final-de-flavio.shtml)_
 
+- **[2026-10-19 19:06 UTC]** Campanha de Lula decide pedir cassação de chapa de Flávio por 'manipulação algorítmica' da Meta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-decide-pedir-cassacao-de-chapa-de-flavio-por-manipulacao-algoritmica-da-meta.shtml)_
+
