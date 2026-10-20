@@ -7393,3 +7393,6 @@
 - **[2026-10-20 20:02 UTC]** Escritório de Willer Tomaz, amigo de Flávio Bolsonaro, deve R$ 100 mil à Receita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/escritorio-de-willer-tomaz-amigo-de-flavio-bolsonaro-deve-r-100-mil-a-receita.shtml)_
 
+- **[2026-10-20 19:59 UTC]** Flávio e o amigo de R$ 5 bilhões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/flavio-e-o-amigo-de-r-5-bilhoes.shtml)_
+
