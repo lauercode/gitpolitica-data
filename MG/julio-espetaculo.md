@@ -29,3 +29,6 @@
 - **[2026-09-11 23:20 UTC]** Companhia de dança apresenta músicas de Roberto Carlos e espetáculo infantil no Mormaço
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/11/companhia-de-danca-apresenta-musicas-de-roberto-carlos-e-espetaculo-infantil-no-mormaco.ghtml)_
 
+- **[2026-10-19 19:13 UTC]** Espetáculo 'Feliz Ano Velho' acerta na forma e reabre debate ético
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mise-en-scene/2026/10/espetaculo-feliz-ano-velho-acerta-na-forma-e-reabre-debate-etico.shtml)_
+
