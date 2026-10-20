@@ -20,3 +20,6 @@
 - **[2026-09-10 18:30 UTC]** Conselho de Direitos Humanos cobra revisão ética no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/conselho-de-direitos-humanos-cobra-revisao-etica-no-stf.shtml)_
 
+- **[2026-10-20 13:10 UTC]** Randolfe denuncia Flávio Bolsonaro no Conselho de Ética do Senado por pedido de R$ 134 milhões a Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/randolfe-denuncia-flavio-bolsonaro-no-conselho-de-etica-do-senado-por-pedido-de-r-134-milhoes-a-vorcaro.shtml)_
+
