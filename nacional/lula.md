@@ -1358,3 +1358,6 @@
 - **[2026-10-20 17:45 UTC]** Abaixo-assinado pede que Globo faça checagem de fatos no debate entre Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/abaixo-assinado-pede-que-globo-faca-checagem-de-fatos-no-debate-entre-lula-e-flavio.shtml)_
 
+- **[2026-10-20 22:35 UTC]** Perfis usam mulheres de IA em campanha por Flávio Bolsonaro e Lula para atrair público e até vender conteúdo adulto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmgr8qz1095jo?at_medium=RSS&at_campaign=rss)_
+
