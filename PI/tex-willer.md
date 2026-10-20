@@ -14,3 +14,6 @@
 - **[2026-10-19 22:07 UTC]** Lula oferece fim de sigilos de Janja e Lulinha, e cobra de Flávio Bolsonaro dados de offshore de Willer Tomaz
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-oferece-fim-de-sigilos-de-janja-e-lulinha-e-cobra-de-flavio-bolsonaro-dados-de-offshore-de-willer-tomaz.shtml)_
 
+- **[2026-10-20 14:35 UTC]** Amigo de Flávio, Willer Tomaz movimentou R$ 5 bi em bets e foi maior apostador do Brasil, diz Fazenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/amigo-de-flavio-willer-tomaz-movimentou-r-5-bi-em-bets-e-foi-maior-apostador-do-brasil-diz-fazenda.shtml)_
+
