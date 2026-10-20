@@ -7387,3 +7387,6 @@
 - **[2026-10-20 19:32 UTC]** Abertura de sigilo: Lula protocola no TSE autorização e desafia Flávio; siga as notícias do 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c98rzv56p3g0t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-20 18:46 UTC]** Na TV, Lula exibe depoimento da mãe de Paulo Gustavo, morto por Covid; Flávio Bolsonaro se diz vencedor de debate
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/horario-eleitoral-presidente-20-outubro-lula-flavio-bolsonaro.ghtml)_
+
