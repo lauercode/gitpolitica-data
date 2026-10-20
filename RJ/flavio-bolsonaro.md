@@ -7222,3 +7222,6 @@
 - **[2026-10-19 23:50 UTC]** Bancada em fim de mandato será entrave para Flávio aprovar PEC da Transição no Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bancada-em-fim-de-mandato-sera-entrave-para-flavio-aprovar-pec-da-transicao-no-congresso/)_
 
+- **[2026-10-19 22:09 UTC]** Lula anuncia autorização ao TSE para quebra de sigilos dele e dos filhos e desafia Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-anuncia-autorizacao-ao-tse-para-quebra-de-sigilos-dele-e-dos-filhos-e-desafia-flavio/)_
+
