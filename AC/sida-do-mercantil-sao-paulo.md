@@ -29,3 +29,6 @@
 - **[2026-10-19 20:42 UTC]** Ato em São Paulo cobra neutralidade da Meta nas eleições
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes)_
 
+- **[2026-10-19 19:30 UTC]** Prêmio Vladimir Herzog realiza 48ª edição nesta terça em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/premio-vladimir-herzog-realiza-48a-edicao-nesta-terca-em-sao-paulo.shtml)_
+
