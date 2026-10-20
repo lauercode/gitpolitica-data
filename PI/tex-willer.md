@@ -17,3 +17,6 @@
 - **[2026-10-20 14:35 UTC]** Amigo de Flávio, Willer Tomaz movimentou R$ 5 bi em bets e foi maior apostador do Brasil, diz Fazenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/amigo-de-flavio-willer-tomaz-movimentou-r-5-bi-em-bets-e-foi-maior-apostador-do-brasil-diz-fazenda.shtml)_
 
+- **[2026-10-20 20:02 UTC]** Escritório de Willer Tomaz, amigo de Flávio Bolsonaro, deve R$ 100 mil à Receita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/escritorio-de-willer-tomaz-amigo-de-flavio-bolsonaro-deve-r-100-mil-a-receita.shtml)_
+
