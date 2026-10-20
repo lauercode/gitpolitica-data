@@ -1331,3 +1331,6 @@
 - **[2026-10-20 10:41 UTC]** Como abstenção pode dar vitória a Flávio Bolsonaro ou a Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/como-abstencao-pode-dar-vitoria-a-flavio-bolsonaro-ou-a-lula.shtml)_
 
+- **[2026-10-20 13:14 UTC]** Lula rebate Flávio sobre “padrão Einstein” em hospitais do SUS
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-rebate-flavio-padrao-einstein-hospitais-sus/)_
+
