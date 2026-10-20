@@ -194,3 +194,6 @@
 - **[2026-10-13 19:07 UTC]** Gazeta Agora: Lula lança pacote para MEIs com repasse de R$ 5 mil e perdão de dívidas
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/gazeta-agora/gazeta-agora-lula-lanca-pacote-para-meis-com-repasse-de-r-5-mil-e-perdao-de-dividas/)_
 
+- **[2026-10-20 13:49 UTC]** TV Gazeta promove ex-diretor do SBT para assumir emissora após saída de executiva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/tv-gazeta-promove-ex-diretor-do-sbt-para-assumir-emissora-apos-saida-de-executiva.shtml)_
+
