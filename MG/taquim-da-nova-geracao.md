@@ -65,3 +65,6 @@
 - **[2026-09-11 12:15 UTC]** Alok aposta na geração Z para manter a pista viva no Rock in Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/09/alok-aposta-na-geracao-z-para-manter-a-pista-viva-no-rock-in-rio.shtml)_
 
+- **[2026-10-20 00:39 UTC]** Geração Z: como 10 jovens decidiram em quem votar nas eleições 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr4g197e8l52o?at_medium=RSS&at_campaign=rss)_
+
