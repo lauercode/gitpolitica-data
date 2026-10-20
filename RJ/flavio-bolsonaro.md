@@ -7297,3 +7297,6 @@
 - **[2026-10-20 14:01 UTC]** Flávio promete, se eleito, retomar benefício para eventos encerrado por Lula após suspeitas de irregularidades e alto custo
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml)_
 
+- **[2026-10-20 13:26 UTC]** Flávio vê otimismo na reta final, mas alerta campanha após ruído sobre Bolsa Família
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/20/flavio-ve-otimismo-na-reta-final-mas-alerta-campanha-apos-ruido-sobre-bolsa-familia.ghtml)_
+
