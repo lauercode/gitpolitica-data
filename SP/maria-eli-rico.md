@@ -11,3 +11,6 @@
 - **[2026-08-28 09:00 UTC]** 'Planos de ficar rico.com': inquérito revela grupo de WhatsApp criado para planejar roubo de R$ 800 mil e ouro em Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/08/28/planos-de-ficar-ricocom-inquerito-revela-grupo-de-whatsapp-criado-para-planejar-roubo-de-r-800-mil-e-ouro-em-roraima.ghtml)_
 
+- **[2026-10-20 15:17 UTC]** Convidados se recusam a entrevistar Rico Melquíades e RedeTV! avalia cancelar gravação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/convidados-se-recusam-a-entrevistar-rico-melquiades-e-redetv-avalia-cancelar-gravacao.shtml)_
+
