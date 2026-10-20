@@ -41,3 +41,6 @@
 - **[2026-10-20 08:00 UTC]** São Paulo puxa locações de galpões logísticos e derruba taxa de vacância do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/sao-paulo-puxa-locacoes-de-galpoes-logisticos-e-derruba-taxa-de-vacancia-do-brasil.shtml)_
 
+- **[2026-10-20 14:57 UTC]** Ônibus de São Paulo terão reforço e tarifa zero no domingo de eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/onibus-de-sao-paulo-terao-reforco-e-tarifa-zero-no-domingo-de-eleicao.shtml)_
+
