@@ -47,3 +47,6 @@
 - **[2026-10-20 13:59 UTC]** Soldado da PM se torna ré por morte de mãe de 5 filhos na zona leste de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/soldado-da-pm-se-torna-re-por-morte-de-mae-de-5-filhos-na-zona-leste-de-sao-paulo.shtml)_
 
+- **[2026-10-20 17:07 UTC]** André Janones recebe alta e deixa hospital em São Paulo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/andre-janones-recebe-alta-e-deixa-hospital-em-sao-paulo)_
+
