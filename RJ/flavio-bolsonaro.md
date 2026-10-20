@@ -7252,3 +7252,6 @@
 - **[2026-10-19 23:00 UTC]** Conexão entre Flávio Bolsonaro e milicianos vira munição de Lula; relembre casos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/conexao-entre-flavio-bolsonaro-e-milicianos-vira-municao-de-lula-relembre-casos.shtml)_
 
+- **[2026-10-19 23:00 UTC]** Analistas esperam BNDES mais enxuto em eventual governo Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/analistas-esperam-bndes-mais-enxuto-em-eventual-governo-flavio-bolsonaro.shtml)_
+
