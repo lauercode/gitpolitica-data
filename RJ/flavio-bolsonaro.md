@@ -7327,3 +7327,6 @@
 - **[2026-10-20 18:18 UTC]** Flávio Bolsonaro se reúne com influenciadores em SP, e Marçal orienta evitar críticas a Lula e defende 'vender o medo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/flavio-bolsonaro-reune-influenciadores-evento-marcal.ghtml)_
 
+- **[2026-10-20 17:40 UTC]** Em posts apagados, Flávio Bolsonaro critica Bolsa Família e diz que 'PT perpetua pobreza com bolsa-farelo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/posts-apagados-flavio-bolsonaro.ghtml)_
+
