@@ -7282,3 +7282,6 @@
 - **[2026-10-19 04:56 UTC]** Os momentos mais marcantes do debate entre Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqjdvd8dk29eo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-20 06:00 UTC]** Plano de Flávio Bolsonaro contra demarcações pode travar 286 terras indígenas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/plano-de-flavio-bolsonaro-contra-demarcacoes-pode-travar-286-terras-indigenas.shtml)_
+
