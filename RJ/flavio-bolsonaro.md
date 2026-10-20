@@ -7375,3 +7375,6 @@
 - **[2026-10-20 19:11 UTC]** Alexandre de Moraes assume relatoria de investigação contra Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-assume-relatoria-de-investigacao-contra-flavio-bolsonaro/)_
 
+- **[2026-10-20 18:14 UTC]** Marçal orienta influenciadores pró-Flávio a trocar críticas a Lula por discurso de renovação
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marcal-orienta-aliados-de-flavio-a-trocar-ataques-a-lula-por-discurso-de-renovacao/)_
+
