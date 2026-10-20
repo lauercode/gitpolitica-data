@@ -7228,3 +7228,6 @@
 - **[2026-10-19 21:36 UTC]** Como Flávio Bolsonaro aplicou o 'manual Trump' contra Lula no debate da Band
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvx2872eyk2do?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-19 20:14 UTC]** Debate da Band: o que aconteceu no primeiro confronto entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crgqw4y4e07vo?at_medium=RSS&at_campaign=rss)_
+
