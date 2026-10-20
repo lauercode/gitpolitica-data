@@ -65,3 +65,6 @@
 - **[2026-10-19 18:00 UTC]** Roberta Luchsinger chama Lula de “mentiroso” durante debate da Band
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/roberta-luchsinger-lula-mentiroso-debate-band/)_
 
+- **[2026-10-19 23:20 UTC]** Tráfico de influência e relações com empresários: o que Roberta pode revelar sobre Lula e seu filho
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/trafico-influencia-relacoes-empresarios-roberta-pode-revelar-lula-filho/)_
+
