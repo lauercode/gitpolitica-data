@@ -7351,3 +7351,6 @@
 - **[2026-10-20 15:30 UTC]** Flávio grava vídeo com sertanejos como Gusttavo Lima e Bruno & Marrone em fazenda de GO
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-grava-video-com-sertanejos-como-gusttavo-lima-e-bruno-marrone-em-fazenda-de-go.shtml)_
 
+- **[2026-10-20 15:19 UTC]** Flávio Bolsonaro diz que vai retomar benefício fiscal a eventos criado na pandemia e criticado pelo governo Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-diz-que-vai-retomar-beneficio-fiscal-a-eventos-criado-na-pandemia-e-criticado-pelo-governo-lula.shtml)_
+
