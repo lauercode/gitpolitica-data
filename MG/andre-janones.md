@@ -149,3 +149,6 @@
 - **[2026-10-20 14:25 UTC]** Janones sai do hospital, compara Lula a Messi e diz que petista não precisa usar redes sociais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-sai-do-hospital-compara-lula-a-messi-e-diz-que-petista-nao-precisa-usar-redes-sociais.shtml)_
 
+- **[2026-10-20 17:07 UTC]** André Janones recebe alta e deixa hospital em São Paulo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/andre-janones-recebe-alta-e-deixa-hospital-em-sao-paulo)_
+
