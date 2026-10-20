@@ -1334,3 +1334,6 @@
 - **[2026-10-20 13:14 UTC]** Lula rebate Flávio sobre “padrão Einstein” em hospitais do SUS
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-rebate-flavio-padrao-einstein-hospitais-sus/)_
 
+- **[2026-10-20 12:41 UTC]** O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss)_
+
