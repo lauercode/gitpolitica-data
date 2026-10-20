@@ -11,3 +11,6 @@
 - **[2026-08-31 08:15 UTC]** Isabel Teixeira chora com homenagem da filha e recado de Tatá Werneck: 'Sou diferente da vilã'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/isabel-teixeira-chora-com-homenagem-da-filha-e-recado-de-tata-werneck-sou-diferente-da-vila.shtml)_
 
+- **[2026-10-19 18:10 UTC]** Isabel Teixeira descobre síndrome de Li-Fraumeni após teste genético; entenda a condição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/isabel-teixeira-descobre-sindrome-de-li-fraumeni-apos-teste-genetico-entenda-a-condicao.shtml)_
+
