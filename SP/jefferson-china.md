@@ -104,3 +104,6 @@
 - **[2026-10-20 10:03 UTC]** Brasil vira o segundo maior fornecedor de petróleo à China neste ano
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/brasil-vira-o-segundo-maior-fornecedor-de-petroleo-a-china-neste-ano.shtml)_
 
+- **[2026-10-20 14:45 UTC]** Japão teme ficar sem terras raras por restrições da China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/10/japao-teme-ficar-sem-terras-raras-por-restricoes-da-china.shtml)_
+
