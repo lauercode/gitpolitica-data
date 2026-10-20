@@ -7399,3 +7399,6 @@
 - **[2026-10-20 19:37 UTC]** Flávio disse que quantidade de beneficiários do Bolsa Família era 'para se envergonhar'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-disse-que-quantidade-de-beneficiarios-do-bolsa-familia-era-para-se-envergonhar.shtml)_
 
+- **[2026-10-20 18:18 UTC]** Em evento de Flávio, Marçal dá instruções a influenciadores parecidas com as de Janones a 'Exército'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-evento-de-flavio-marcal-da-instrucoes-a-influenciadores-parecidas-com-as-de-janones-a-exercito.shtml)_
+
