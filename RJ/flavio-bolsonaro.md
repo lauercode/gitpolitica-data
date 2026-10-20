@@ -7240,3 +7240,6 @@
 - **[2026-10-19 23:00 UTC]** Inquérito sobre suspeita de lavagem de Flávio Bolsonaro também investiga Cláudio Castro e Ramagem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/inquerito-sobre-suspeita-de-lavagem-de-flavio-bolsonaro-tambem-investiga-claudio-castro-e-ramagem.shtml)_
 
+- **[2026-10-19 23:00 UTC]** Maiores Assembleias de Deus explicitam apoio a Flávio Bolsonaro, e Universal permanece neutra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/maiores-assembleias-de-deus-explicitam-apoio-a-flavio-bolsonaro-e-universal-permanece-neutra.shtml)_
+
