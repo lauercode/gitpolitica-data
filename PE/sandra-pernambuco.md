@@ -53,3 +53,6 @@
 - **[2026-09-11 17:14 UTC]** Datafolha: Raquel Lyra tem 47% para Governo de Pernambuco ante 42% de João Campos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-raquel-lyra-tem-47-para-governo-de-pernambuco-ante-42-de-joao-campos.shtml)_
 
+- **[2026-10-20 10:00 UTC]** Pernambuco é condenado a indenizar em R$ 30 mil homem preso por homicídio que não cometeu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/pernambuco-e-condenado-a-indenizar-em-r-30-mil-homem-preso-por-homicidio-que-nao-cometeu.shtml)_
+
