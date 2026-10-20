@@ -1307,3 +1307,6 @@
 - **[2026-10-19 18:40 UTC]** Confira as regras do debate entre Lula e Flávio Bolsonaro na Globo na sexta-feira (23)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/confira-as-regras-do-debate-entre-lula-e-flavio-bolsonaro-na-globo-na-sexta-feira-23.shtml)_
 
+- **[2026-10-19 18:19 UTC]** Vantagem de Flávio Bolsonaro sobre Lula nas redes diminui após debate na Band, aponta Datrix
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/debate-da-band-reduz-vantagem-de-flavio-bolsonaro-sobre-lula-nas-redes-aponta-datrix.shtml)_
+
