@@ -7357,3 +7357,6 @@
 - **[2026-10-20 14:35 UTC]** Amigo de Flávio, Willer Tomaz movimentou R$ 5 bi em bets e foi maior apostador do Brasil, diz Fazenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/amigo-de-flavio-willer-tomaz-movimentou-r-5-bi-em-bets-e-foi-maior-apostador-do-brasil-diz-fazenda.shtml)_
 
+- **[2026-10-20 13:23 UTC]** Em meio a polêmica com Flávio Bolsonaro, Richarlison vive indefinição na Inglaterra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/em-meio-a-polemica-com-flavio-bolsonaro-richarlison-vive-indefinicao-na-inglaterra.shtml)_
+
