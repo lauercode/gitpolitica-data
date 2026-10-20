@@ -7330,3 +7330,6 @@
 - **[2026-10-20 17:40 UTC]** Em posts apagados, Flávio Bolsonaro critica Bolsa Família e diz que 'PT perpetua pobreza com bolsa-farelo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/posts-apagados-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-20 16:23 UTC]** A 5 dias do 2º turno, Flávio propõe devolver via PIX parte de gastos com contas e prestações, mas não detalha custos
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/20/a-5-dias-do-segundo-turno-flavio-propoe-devolver-via-pix-parte-de-gastos-com-contas-e-prestacoes-mas-nao-detalha-proposta.ghtml)_
+
