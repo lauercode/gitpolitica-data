@@ -7420,3 +7420,6 @@
 - **[2026-10-20 15:19 UTC]** Flávio Bolsonaro diz que vai retomar benefício fiscal a eventos criado na pandemia e criticado por desvios
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-diz-que-vai-retomar-beneficio-fiscal-a-eventos-criado-na-pandemia-e-criticado-pelo-governo-lula.shtml)_
 
+- **[2026-10-20 15:13 UTC]** Flávio desdenha dos outros, especialmente das mulheres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joanna-moura/2026/10/um-politico-veterano-e-um-macho-escroto-entram-num-debate.shtml)_
+
