@@ -7192,3 +7192,6 @@
 - **[2026-10-19 18:29 UTC]** Flávio no debate: a estratégia de presença, intimidação e linguagem corporal que 'imitou' Trump
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvx2872eyk2do?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-19 22:35 UTC]** Campanha de Lula aciona TSE e diz que Meta continua favorecendo Flávio Bolsonaro nas redes sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/campanha-de-lula-volta-a-acionar-tse-e-diz-que-meta-continua-favorecendo-flavio-bolsonaro-nas-redes.ghtml)_
+
