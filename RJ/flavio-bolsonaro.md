@@ -7279,3 +7279,6 @@
 - **[2026-10-20 03:03 UTC]** Flávio Bolsonaro promete BR-319 e apoio contra queimadas em Manaus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-promete-br-319-e-apoio-contra-queimadas-em-manaus.shtml)_
 
+- **[2026-10-19 04:56 UTC]** Os momentos mais marcantes do debate entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqjdvd8dk29eo?at_medium=RSS&at_campaign=rss)_
+
