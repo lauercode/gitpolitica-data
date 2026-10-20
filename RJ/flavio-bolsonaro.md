@@ -7384,3 +7384,6 @@
 - **[2026-10-20 15:55 UTC]** Lula protocola pedido para abrir sigilos próprio, de filhos e de Janja e cobra Flávio a fazer o mesmo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-pedido-abrir-sigilos-proprio-filhos-janja-cobra-flavio/)_
 
+- **[2026-10-20 19:32 UTC]** Abertura de sigilo: Lula protocola no TSE autorização e desafia Flávio; siga as notícias do 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c98rzv56p3g0t?at_medium=RSS&at_campaign=rss)_
+
