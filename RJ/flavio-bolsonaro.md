@@ -7285,3 +7285,6 @@
 - **[2026-10-20 06:00 UTC]** Plano de Flávio Bolsonaro contra demarcações pode travar 286 terras indígenas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/plano-de-flavio-bolsonaro-contra-demarcacoes-pode-travar-286-terras-indigenas.shtml)_
 
+- **[2026-10-19 16:41 UTC]** Quem está à frente nas pesquisas, Lula ou Flávio? Confira no agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
