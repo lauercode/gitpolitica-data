@@ -7261,3 +7261,6 @@
 - **[2026-10-19 22:07 UTC]** Lula oferece fim de sigilos de Janja e Lulinha, e cobra de Flávio Bolsonaro dados de offshore de Willer Tomaz
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-oferece-fim-de-sigilos-de-janja-e-lulinha-e-cobra-de-flavio-bolsonaro-dados-de-offshore-de-willer-tomaz.shtml)_
 
+- **[2026-10-19 21:32 UTC]** Vitória de Lula ou de Flávio não leva ao mesmo 2030
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/vitoria-de-lula-ou-de-flavio-nao-leva-ao-mesmo-2030.shtml)_
+
