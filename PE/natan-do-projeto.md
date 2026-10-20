@@ -341,3 +341,6 @@
 - **[2026-09-11 20:06 UTC]** Projeto 7 Leituras apresenta 'O Deus da Carnificina', da francesa Yasmina Reza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/projeto-7-leituras-apresenta-o-deus-da-carnificina-da-francesa-yasmina-reza.shtml)_
 
+- **[2026-10-20 10:00 UTC]** Projeto defendido por Flávio vai contra recomendação da ONU para prevenir desvio e tráfico de armas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/projeto-defendido-por-flavio-vai-contra-recomendacao-da-onu-para-prevenir-desvio-e-trafico-de-armas.shtml)_
+
