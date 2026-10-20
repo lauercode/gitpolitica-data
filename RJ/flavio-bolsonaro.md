@@ -7237,3 +7237,6 @@
 - **[2026-10-19 23:00 UTC]** Incrédula com força de Flávio, eleitora de Lula diz que democracia está em jogo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/incredula-com-forca-de-flavio-eleitora-de-lula-diz-que-democracia-esta-em-jogo.shtml)_
 
+- **[2026-10-19 23:00 UTC]** Inquérito sobre suspeita de lavagem de Flávio Bolsonaro também investiga Cláudio Castro e Ramagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/inquerito-sobre-suspeita-de-lavagem-de-flavio-bolsonaro-tambem-investiga-claudio-castro-e-ramagem.shtml)_
+
