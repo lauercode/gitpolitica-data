@@ -7348,3 +7348,6 @@
 - **[2026-10-20 15:31 UTC]** Tarcísio prevê vitória de Flávio com 5 pontos de diferença sobre Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tarcisio-preve-vitoria-de-flavio-com-5-pontos-de-diferenca-sobre-lula.shtml)_
 
+- **[2026-10-20 15:30 UTC]** Flávio grava vídeo com sertanejos como Gusttavo Lima e Bruno & Marrone em fazenda de GO
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-grava-video-com-sertanejos-como-gusttavo-lima-e-bruno-marrone-em-fazenda-de-go.shtml)_
+
