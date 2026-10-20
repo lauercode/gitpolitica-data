@@ -1343,3 +1343,6 @@
 - **[2026-10-20 18:46 UTC]** Na TV, Lula exibe depoimento da mãe de Paulo Gustavo, morto por covid; Flávio Bolsonaro se diz vencedor de debate
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/horario-eleitoral-presidente-20-outubro-lula-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-20 13:02 UTC]** Lula formaliza ao TSE abertura de sigilo caso Flávio Bolsonaro entregue seus dados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lula-formaliza-ao-tse-abertura-de-sigilo-caso-flavio-bolsonaro-entregue-seus-dados.shtml)_
+
