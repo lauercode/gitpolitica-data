@@ -1349,3 +1349,6 @@
 - **[2026-10-20 12:58 UTC]** Lula e Flávio Bolsonaro confirmam presença e Globo fará debate no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/lula-e-flavio-bolsonaro-confirmam-presenca-e-globo-fara-debate-no-segundo-turno.shtml)_
 
+- **[2026-10-20 19:32 UTC]** Abertura de sigilo: Lula protocola no TSE autorização e desafia Flávio; siga as notícias do 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c98rzv56p3g0t?at_medium=RSS&at_campaign=rss)_
+
