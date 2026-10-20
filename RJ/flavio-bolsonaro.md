@@ -7291,3 +7291,6 @@
 - **[2026-10-20 14:26 UTC]** Eleições 2026: quem é Alfredo Gaspar, vice na chapa de Flávio Bolsonaro?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-20 14:14 UTC]** Lula protocola documento no TSE em que diz que libera a divulgação de sigilos dele e de parentes se Flávio também o fizer
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/lula-protocola-documento-no-tse-em-que-diz-que-libera-a-divulgacao-de-sigilos-dele-e-de-parentes-se-flavio-tambem-o-fizer.ghtml)_
+
