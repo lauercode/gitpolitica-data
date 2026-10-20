@@ -17,3 +17,6 @@
 - **[2026-09-10 17:05 UTC]** CGU apontou R$ 2,5 milhões em emendas de Zambelli e Ramagem para produtora de 'Dark Horse'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cgu-apontou-r-25-milhoes-em-emendas-de-zambelli-e-ramagem-para-produtora-de-dark-horse.shtml)_
 
+- **[2026-10-19 23:00 UTC]** Inquérito sobre suspeita de lavagem de Flávio Bolsonaro também investiga Cláudio Castro e Ramagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/inquerito-sobre-suspeita-de-lavagem-de-flavio-bolsonaro-tambem-investiga-claudio-castro-e-ramagem.shtml)_
+
