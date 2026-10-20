@@ -7225,3 +7225,6 @@
 - **[2026-10-19 22:09 UTC]** Lula anuncia autorização ao TSE para quebra de sigilos dele e dos filhos e desafia Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-anuncia-autorizacao-ao-tse-para-quebra-de-sigilos-dele-e-dos-filhos-e-desafia-flavio/)_
 
+- **[2026-10-19 21:36 UTC]** Como Flávio Bolsonaro aplicou o 'manual Trump' contra Lula no debate da Band
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvx2872eyk2do?at_medium=RSS&at_campaign=rss)_
+
