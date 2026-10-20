@@ -458,3 +458,6 @@
 - **[2026-10-19 17:56 UTC]** Após ser dado como morto, Heitor aparece diante da família Brandão em 'Quem Ama Cuida'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/apos-ser-dado-como-morto-heitor-aparece-diante-da-familia-brandao-em-quem-ama-cuida.shtml)_
 
+- **[2026-10-19 16:41 UTC]** Quem está à frente nas pesquisas, Lula ou Flávio? Confira no agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
