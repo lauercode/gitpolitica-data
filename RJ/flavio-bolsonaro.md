@@ -7336,3 +7336,6 @@
 - **[2026-10-20 16:19 UTC]** Entidades criticam Flávio por fala sobre acabar com 'entraves ambientais' para produtor rural fazer 'o que quiser'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/entidades-criticam-flavio-por-fala-sobre-acabar-com-entraves-ambientais-para-produtor-rural-fazer-o-que-quiser.ghtml)_
 
+- **[2026-10-20 14:14 UTC]** Lula protocola documento no TSE e no STF em que diz que libera a divulgação de sigilos dele e de parentes se Flávio também o fizer
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/lula-protocola-documento-no-tse-em-que-diz-que-libera-a-divulgacao-de-sigilos-dele-e-de-parentes-se-flavio-tambem-o-fizer.ghtml)_
+
