@@ -7273,3 +7273,6 @@
 - **[2026-10-20 00:25 UTC]** PT assina CPMI para investigar Lulinha e cobra comissão sobre Flávio e Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-assina-cpmi-para-investigar-lulinha-e-cobra-comissao-sobre-flavio-e-master/)_
 
+- **[2026-10-20 04:00 UTC]** Desempenho de Flávio e desgaste de Gonet antecipam discussão sobre sucessão na PGR
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/desempenho-de-flavio-e-desgaste-de-gonet-antecipam-discussao-sobre-sucessao-na-pgr.shtml)_
+
