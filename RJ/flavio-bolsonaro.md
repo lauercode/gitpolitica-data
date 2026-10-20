@@ -7342,3 +7342,6 @@
 - **[2026-10-20 16:22 UTC]** Derrotado no Paraná, Ratinho Jr pede votos a Flávio Bolsonaro; Greca declara voto em Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/derrotado-no-parana-ratinho-jr-pede-votos-a-flavio-bolsonaro-greca-declara-voto-em-lula.shtml)_
 
+- **[2026-10-20 16:19 UTC]** PT pede CPI contra Flávio Bolsonaro e defende apuração sobre Lulinha em manobra para pressionar oposição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pt-pede-cpi-contra-flavio-bolsonaro-e-defende-apuracao-sobre-lulinha-em-manobra-para-pressionar-oposicao.shtml)_
+
