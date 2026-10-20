@@ -125,3 +125,6 @@
 - **[2026-09-11 18:53 UTC]** A história do 'vestido da vingança', usado pela princesa Diana após confissão de traição do rei Charles 3°, que agora vai a leilão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/estilo/2026/09/a-historia-do-vestido-da-vinganca-usado-pela-princesa-diana-apos-confissao-de-traicao-do-rei-charles-3-que-agora-vai-a-leilao.shtml)_
 
+- **[2026-10-19 23:00 UTC]** Agora a favor de reduzir a idade penal, Lula já disse que proposta era coisa da elite brasileira; relembre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/agora-a-favor-de-reduzir-a-idade-penal-lula-ja-disse-que-proposta-era-coisa-da-elite-brasileira-relembre.shtml)_
+
