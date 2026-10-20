@@ -26,3 +26,6 @@
 - **[2026-10-19 13:00 UTC]** Documentário da Mostra de São Paulo resgata imagens inéditas da União Soviética
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/documentario-da-mostra-de-sao-paulo-resgata-imagens-ineditas-da-uniao-sovietica.shtml)_
 
+- **[2026-10-19 20:42 UTC]** Ato em São Paulo cobra neutralidade da Meta nas eleições
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes)_
+
