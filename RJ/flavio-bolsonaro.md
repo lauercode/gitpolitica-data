@@ -7339,3 +7339,6 @@
 - **[2026-10-20 14:14 UTC]** Lula protocola documento no TSE e no STF em que diz que libera a divulgação de sigilos dele e de parentes se Flávio também o fizer
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/lula-protocola-documento-no-tse-em-que-diz-que-libera-a-divulgacao-de-sigilos-dele-e-de-parentes-se-flavio-tambem-o-fizer.ghtml)_
 
+- **[2026-10-20 16:22 UTC]** Derrotado no Paraná, Ratinho Jr pede votos a Flávio Bolsonaro; Greca declara voto em Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/derrotado-no-parana-ratinho-jr-pede-votos-a-flavio-bolsonaro-greca-declara-voto-em-lula.shtml)_
+
