@@ -1310,3 +1310,6 @@
 - **[2026-10-19 18:19 UTC]** Vantagem de Flávio Bolsonaro sobre Lula nas redes diminui após debate na Band, aponta Datrix
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/debate-da-band-reduz-vantagem-de-flavio-bolsonaro-sobre-lula-nas-redes-aponta-datrix.shtml)_
 
+- **[2026-10-19 20:14 UTC]** Debate da Band: o que aconteceu no primeiro confronto entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crgqw4y4e07vo?at_medium=RSS&at_campaign=rss)_
+
