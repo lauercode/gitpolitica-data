@@ -7312,3 +7312,6 @@
 - **[2026-10-20 13:14 UTC]** Lula rebate Flávio sobre “padrão Einstein” em hospitais do SUS
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-rebate-flavio-padrao-einstein-hospitais-sus/)_
 
+- **[2026-10-20 12:45 UTC]** Convergência Brasil declara apoio a Flávio Bolsonaro e cobra mudança na política fiscal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/convergencia-brasil-declara-apoio-a-flavio-bolsonaro-e-cobra-mudanca-na-politica-fiscal/)_
+
