@@ -7198,3 +7198,6 @@
 - **[2026-10-19 22:25 UTC]** GloboNews Debate reúne coordenadores das campanhas de Flávio e Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/globonews-debate-campanhas-flavio-bolsonaro-lula.ghtml)_
 
+- **[2026-10-19 21:20 UTC]** Gastos públicos, Bolsa Família e segurança: coordenadores de Lula e Flávio Bolsonaro discutem estratégias na reta final da eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/globonews-debate-coordenadores-das-campanhas-de-lula-e-flavio-bolsonaro-discutem-estrategias.ghtml)_
+
