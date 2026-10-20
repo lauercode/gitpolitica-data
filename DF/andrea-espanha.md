@@ -47,3 +47,6 @@
 - **[2026-09-11 16:23 UTC]** Final da Copa do Mundo de 2030 vira batalha entre Marrocos e Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/final-da-copa-do-mundo-de-2030-vira-batalha-entre-marrocos-e-espanha.shtml)_
 
+- **[2026-10-20 17:00 UTC]** 1926: Versão cômica de tourada vira uma grande atração na Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/10/1926-versao-comica-de-tourada-vira-uma-grande-atracao-na-espanha.shtml)_
+
