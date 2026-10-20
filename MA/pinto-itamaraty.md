@@ -17,3 +17,6 @@
 - **[2026-09-03 19:05 UTC]** Itamaraty diz que faltam conversas para devolver canhão da Guerra do Paraguai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/itamaraty-diz-que-faltam-conversas-para-devolver-canhao-da-guerra-do-paraguai.shtml)_
 
+- **[2026-10-20 19:38 UTC]** Milei reproduz mentiras sobre urnas e tenta interferir no processo eleitoral brasileiro, diz Itamaraty
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/milei-reproduz-mentiras-sobre-urnas-e-tenta-interferir-no-processo-brasileiro-diz-itamaraty.ghtml)_
+
