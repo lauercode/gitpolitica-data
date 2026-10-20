@@ -1337,3 +1337,6 @@
 - **[2026-10-20 12:41 UTC]** O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-20 13:44 UTC]** TSE: Lula autoriza quebra de sigilo bancário se Flávio fizer o mesmo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-lula-autoriza-quebra-de-sigilo-bancario-se-flavio-fizer-o-mesmo)_
+
