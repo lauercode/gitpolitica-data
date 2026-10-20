@@ -32,3 +32,6 @@
 - **[2026-10-19 19:30 UTC]** Prêmio Vladimir Herzog realiza 48ª edição nesta terça em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/premio-vladimir-herzog-realiza-48a-edicao-nesta-terca-em-sao-paulo.shtml)_
 
+- **[2026-10-20 05:00 UTC]** São Paulo pode ter garoa e temperatura máxima de 22°C nesta terça (20)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/sao-paulo-pode-ter-garoa-e-temperatura-maxima-de-22c-nesta-terca-20.shtml)_
+
