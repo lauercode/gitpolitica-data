@@ -1355,3 +1355,6 @@
 - **[2026-10-20 18:46 UTC]** Na TV, Lula exibe depoimento da mãe de Paulo Gustavo, morto por Covid; Flávio Bolsonaro se diz vencedor de debate
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/horario-eleitoral-presidente-20-outubro-lula-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-20 17:45 UTC]** Abaixo-assinado pede que Globo faça checagem de fatos no debate entre Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/abaixo-assinado-pede-que-globo-faca-checagem-de-fatos-no-debate-entre-lula-e-flavio.shtml)_
+
