@@ -7306,3 +7306,6 @@
 - **[2026-10-20 10:00 UTC]** Projeto defendido por Flávio vai contra recomendação da ONU para prevenir desvio e tráfico de armas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/projeto-defendido-por-flavio-vai-contra-recomendacao-da-onu-para-prevenir-desvio-e-trafico-de-armas.shtml)_
 
+- **[2026-10-20 15:10 UTC]** PF e Moraes ampliam pressão sobre Flávio a poucos dias do 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-e-moraes-ampliam-pressao-sobre-flavio-a-poucos-dias-do-2o-turno/)_
+
