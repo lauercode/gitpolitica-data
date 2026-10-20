@@ -467,3 +467,6 @@
 - **[2026-10-20 12:23 UTC]** Quem ganhou as eleições de 2026 para senador?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/quem-ganhou-as-eleicoes-de-2026-para-senador.ghtml)_
 
+- **[2026-10-20 12:17 UTC]** Quem era Sahara Ray, affair de Justin Bieber que morreu aos 34 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/quem-era-sahara-ray-affair-de-justin-bieber-que-morreu-aos-34-anos.shtml)_
+
