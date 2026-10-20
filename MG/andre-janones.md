@@ -143,3 +143,6 @@
 - **[2026-10-19 11:24 UTC]** Janones é internado em UTI após debate, e boletim prevê alta 'nas próximas 48 h'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-e-internado-em-uti-com-arritmia-cardiaca-apos-debate-entre-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-19 17:47 UTC]** Mesmo internado, Janones retoma 'Exército de Lula' após 19 horas sem publicações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-janones-internado-exercito-do-lula-fica-parado-a-5-dias-das-eleicoes.shtml)_
+
