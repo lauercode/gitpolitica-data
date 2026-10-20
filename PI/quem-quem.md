@@ -473,3 +473,6 @@
 - **[2026-10-20 10:00 UTC]** Quem não votou no 1º turno pode votar no 2º? Tire essa e outras dúvidas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-nao-votou-no-1o-turno-pode-votar-no-2o-tire-essa-e-outras-duvidas.shtml)_
 
+- **[2026-10-20 16:26 UTC]** Quem deve sair de cena para o espetáculo continuar?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/assim-como-voce/2026/10/quem-deve-sair-de-cena-para-o-espetaculo-continuar.shtml)_
+
