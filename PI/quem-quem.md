@@ -464,3 +464,6 @@
 - **[2026-10-20 12:24 UTC]** Quem são os deputados federais eleitos em 2026?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/quem-sao-os-deputados-federais-eleitos-em-2026.ghtml)_
 
+- **[2026-10-20 12:23 UTC]** Quem ganhou as eleições de 2026 para senador?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/quem-ganhou-as-eleicoes-de-2026-para-senador.ghtml)_
+
