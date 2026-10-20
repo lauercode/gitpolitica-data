@@ -68,3 +68,6 @@
 - **[2026-10-19 23:20 UTC]** Tráfico de influência e relações com empresários: o que Roberta pode revelar sobre Lula e seu filho
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/trafico-influencia-relacoes-empresarios-roberta-pode-revelar-lula-filho/)_
 
+- **[2026-10-20 16:56 UTC]** Roberta Luchsinger decide tirar filhas do Brasil após denúncias sobre Lula em entrevista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/roberta-luchsinger-decide-tirar-filhas-do-brasil-apos-denuncias-sobre-lula-em-entrevista/)_
+
