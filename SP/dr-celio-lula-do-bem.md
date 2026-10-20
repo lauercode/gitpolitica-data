@@ -113,3 +113,6 @@
 - **[2026-10-17 13:56 UTC]** Flávio leva aliados à Paulista e Lula mobiliza periferias de SP na reta final da campanha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-leva-aliados-a-paulista-e-lula-mobiliza-periferias-de-sp-na-reta-final-da-campanha/)_
 
+- **[2026-10-20 01:19 UTC]** Manifestantes pró-Lula fazem protesto em frente à sede da Meta em SP
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/manifestantes-pro-lula-fazem-protesto-em-frente-a-sede-da-meta-em-sp/)_
+
