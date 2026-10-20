@@ -470,3 +470,6 @@
 - **[2026-10-20 12:17 UTC]** Quem era Sahara Ray, affair de Justin Bieber que morreu aos 34 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/quem-era-sahara-ray-affair-de-justin-bieber-que-morreu-aos-34-anos.shtml)_
 
+- **[2026-10-20 10:00 UTC]** Quem não votou no 1º turno pode votar no 2º? Tire essa e outras dúvidas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-nao-votou-no-1o-turno-pode-votar-no-2o-tire-essa-e-outras-duvidas.shtml)_
+
