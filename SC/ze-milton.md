@@ -17,3 +17,6 @@
 - **[2026-10-20 13:03 UTC]** Milton Leite é transferido para CDP de Guarulhos após denúncias de regalias na prisão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/milton-leite-e-transferido-para-cdp-de-guarulhos-apos-denuncias-de-regalias-na-prisao.shtml)_
 
+- **[2026-10-20 17:36 UTC]** Milton Cunha critica Virginia Fonseca como rainha de bateria: 'Ela não tinha samba no pé'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/milton-cunha-critica-virginia-fonseca-como-rainha-de-bateria-ela-nao-tinha-samba-no-pe.shtml)_
+
