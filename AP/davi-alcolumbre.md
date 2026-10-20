@@ -461,3 +461,6 @@
 - **[2026-10-19 19:46 UTC]** Alcolumbre adia votação da PEC da Segurança Pública para depois do 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-adia-votacao-da-pec-da-seguranca-publica-para-depois-do-2o-turno/)_
 
+- **[2026-10-20 01:01 UTC]** Novo Código Civil da esquerda pode ser aprovado no pacote de maldades de Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/novo-codigo-civil-esquerda-votado-senado-atropelo-alcolumbre/)_
+
