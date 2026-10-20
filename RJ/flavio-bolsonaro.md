@@ -7264,3 +7264,6 @@
 - **[2026-10-19 21:32 UTC]** Vitória de Lula ou de Flávio não leva ao mesmo 2030
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/vitoria-de-lula-ou-de-flavio-nao-leva-ao-mesmo-2030.shtml)_
 
+- **[2026-10-19 21:30 UTC]** 'Pior debate presidencial da história brasileira', diz leitor sobre encontro entre Flávio Bolsonaro e Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/pior-debate-presidencial-da-historia-brasileira-diz-leitor-sobre-encontro-entre-flavio-bolsonaro-e-lula.shtml)_
+
