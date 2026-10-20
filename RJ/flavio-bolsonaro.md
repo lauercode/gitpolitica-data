@@ -7381,3 +7381,6 @@
 - **[2026-10-20 18:12 UTC]** Mendonça será relator de pedido de Lula para levantar sigilos dele e de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-relator-pedido-lula-levantar-sigilos-dele-e-flavio/)_
 
+- **[2026-10-20 15:55 UTC]** Lula protocola pedido para abrir sigilos próprio, de filhos e de Janja e cobra Flávio a fazer o mesmo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-pedido-abrir-sigilos-proprio-filhos-janja-cobra-flavio/)_
+
