@@ -89,3 +89,6 @@
 - **[2026-09-11 17:05 UTC]** Deputado do PT pede quebra de sigilo de instituto fundado por Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/deputado-do-pt-pede-quebra-de-sigilo-de-instituto-fundado-por-mendonca.shtml)_
 
+- **[2026-10-19 18:00 UTC]** Quer dormir melhor? Diretora do Instituto do Sono tira dúvidas em live da CasaFolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/quer-dormir-melhor-diretora-do-instituto-do-sono-tira-duvidas-em-live-da-casafolha.shtml)_
+
