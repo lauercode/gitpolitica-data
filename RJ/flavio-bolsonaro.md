@@ -7300,3 +7300,6 @@
 - **[2026-10-20 13:26 UTC]** Flávio vê otimismo na reta final, mas alerta campanha após ruído sobre Bolsa Família
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/20/flavio-ve-otimismo-na-reta-final-mas-alerta-campanha-apos-ruido-sobre-bolsa-familia.ghtml)_
 
+- **[2026-10-20 10:41 UTC]** Como abstenção pode dar vitória a Flávio Bolsonaro ou a Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/como-abstencao-pode-dar-vitoria-a-flavio-bolsonaro-ou-a-lula.shtml)_
+
