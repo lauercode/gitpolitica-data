@@ -11,3 +11,6 @@
 - **[2026-10-20 14:25 UTC]** Ações da Americanas disparam mais de 20% após fim da recuperação judicial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/acoes-da-americanas-disparam-mais-de-20-apos-fim-da-recuperacao-judicial.shtml)_
 
+- **[2026-10-20 14:25 UTC]** Ações da Americanas fecham em alta de 15% após fim da recuperação judicial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/acoes-da-americanas-disparam-mais-de-20-apos-fim-da-recuperacao-judicial.shtml)_
+
