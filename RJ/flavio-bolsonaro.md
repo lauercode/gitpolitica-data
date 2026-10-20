@@ -7249,3 +7249,6 @@
 - **[2026-10-19 23:00 UTC]** Tarcísio teve 5 agendas oficiais e 12 da campanha de Flávio no segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tarcisio-teve-5-agendas-oficiais-e-12-da-campanha-de-flavio-no-segundo-turno.shtml)_
 
+- **[2026-10-19 23:00 UTC]** Conexão entre Flávio Bolsonaro e milicianos vira munição de Lula; relembre casos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/conexao-entre-flavio-bolsonaro-e-milicianos-vira-municao-de-lula-relembre-casos.shtml)_
+
