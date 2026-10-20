@@ -266,3 +266,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-10-16 19:16 UTC]** Mensagens mostram festa de Vorcaro para Kassio Nunes Marques com garotas de programa, diz revista
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/mensagens-mostram-festa-de-vorcaro-para-kassio-nunes-marques-com-garotas-de-programa-diz-revista.ghtml)_
 
+- **[2026-10-20 18:02 UTC]** Mensagens de Vorcaro mostram comparação entre banqueiro e Jeffrey Epstein: 'Jeff tá amador demais'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck4g18721rv2o?at_medium=RSS&at_campaign=rss)_
+
