@@ -7345,3 +7345,6 @@
 - **[2026-10-20 16:19 UTC]** PT pede CPI contra Flávio Bolsonaro e defende apuração sobre Lulinha em manobra para pressionar oposição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pt-pede-cpi-contra-flavio-bolsonaro-e-defende-apuracao-sobre-lulinha-em-manobra-para-pressionar-oposicao.shtml)_
 
+- **[2026-10-20 15:31 UTC]** Tarcísio prevê vitória de Flávio com 5 pontos de diferença sobre Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tarcisio-preve-vitoria-de-flavio-com-5-pontos-de-diferenca-sobre-lula.shtml)_
+
