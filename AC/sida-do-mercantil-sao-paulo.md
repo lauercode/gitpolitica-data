@@ -53,3 +53,6 @@
 - **[2026-10-20 18:32 UTC]** Homem em surto morre após ser contido e algemado por PMs no centro de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/homem-em-surto-morre-apos-ser-contido-e-algemado-por-pms-no-centro-de-sao-paulo.shtml)_
 
+- **[2026-10-20 17:35 UTC]** Boliviano é morto a facada em roubo de celular no Brás, em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/boliviano-e-morto-a-facada-em-roubo-de-celular-no-bras-em-sao-paulo.shtml)_
+
