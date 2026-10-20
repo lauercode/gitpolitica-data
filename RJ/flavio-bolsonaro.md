@@ -7315,3 +7315,6 @@
 - **[2026-10-20 12:45 UTC]** Convergência Brasil declara apoio a Flávio Bolsonaro e cobra mudança na política fiscal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/convergencia-brasil-declara-apoio-a-flavio-bolsonaro-e-cobra-mudanca-na-politica-fiscal/)_
 
+- **[2026-10-20 15:20 UTC]** PT pede cassação da candidatura de Flávio por abuso de poder: as últimas notícias da reta final da eleição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c98rzv56p3g0t?at_medium=RSS&at_campaign=rss)_
+
