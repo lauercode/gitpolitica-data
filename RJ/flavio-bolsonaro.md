@@ -7243,3 +7243,6 @@
 - **[2026-10-19 23:00 UTC]** Maiores Assembleias de Deus explicitam apoio a Flávio Bolsonaro, e Universal permanece neutra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/maiores-assembleias-de-deus-explicitam-apoio-a-flavio-bolsonaro-e-universal-permanece-neutra.shtml)_
 
+- **[2026-10-19 23:00 UTC]** Proposta de voucher para creches de Flávio repete ideia abandonada pelo pai
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/proposta-de-voucher-para-creches-de-flavio-repete-ideia-abandonada-pelo-pai.shtml)_
+
