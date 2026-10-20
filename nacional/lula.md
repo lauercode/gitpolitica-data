@@ -1301,3 +1301,6 @@
 - **[2026-10-19 21:20 UTC]** Gastos públicos, Bolsa Família e segurança: coordenadores de Lula e Flávio Bolsonaro discutem estratégias na reta final da eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/globonews-debate-coordenadores-das-campanhas-de-lula-e-flavio-bolsonaro-discutem-estrategias.ghtml)_
 
+- **[2026-10-19 19:06 UTC]** Campanha de Lula decide pedir cassação de chapa de Flávio por 'manipulação algorítmica' da Meta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-decide-pedir-cassacao-de-chapa-de-flavio-por-manipulacao-algoritmica-da-meta.shtml)_
+
