@@ -7258,3 +7258,6 @@
 - **[2026-10-19 22:41 UTC]** Performance de Flávio Bolsonaro em debate revela inspiração em Marçal, Trump e Jair
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/performance-de-flavio-bolsonaro-em-debate-revela-inspiracao-em-marcal-trump-e-jair.shtml)_
 
+- **[2026-10-19 22:07 UTC]** Lula oferece fim de sigilos de Janja e Lulinha, e cobra de Flávio Bolsonaro dados de offshore de Willer Tomaz
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-oferece-fim-de-sigilos-de-janja-e-lulinha-e-cobra-de-flavio-bolsonaro-dados-de-offshore-de-willer-tomaz.shtml)_
+
