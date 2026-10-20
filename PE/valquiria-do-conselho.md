@@ -104,3 +104,6 @@
 - **[2026-09-11 20:34 UTC]** Conselho de Comunicação Social debate regulação das redes sociais nesta segunda-feira; participe
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1304206-conselho-de-comunicacao-social-debate-regulacao-das-redes-sociais-nesta-segunda-feira-participe)_
 
+- **[2026-10-20 15:53 UTC]** Conselho da Meta aponta falhas 'recorrentes' na moderação de conteúdo eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/tecnologia/noticia/2026/10/20/conselho-da-meta-aponta-falhas-recorrentes-na-moderacao-de-conteudo-eleitoral.ghtml)_
+
