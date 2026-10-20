@@ -1322,3 +1322,6 @@
 - **[2026-10-19 21:30 UTC]** 'Pior debate presidencial da história brasileira', diz leitor sobre encontro entre Flávio Bolsonaro e Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/pior-debate-presidencial-da-historia-brasileira-diz-leitor-sobre-encontro-entre-flavio-bolsonaro-e-lula.shtml)_
 
+- **[2026-10-19 04:56 UTC]** Os momentos mais marcantes do debate entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqjdvd8dk29eo?at_medium=RSS&at_campaign=rss)_
+
