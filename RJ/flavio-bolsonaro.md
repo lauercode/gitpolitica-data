@@ -7267,3 +7267,6 @@
 - **[2026-10-19 21:30 UTC]** 'Pior debate presidencial da história brasileira', diz leitor sobre encontro entre Flávio Bolsonaro e Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/pior-debate-presidencial-da-historia-brasileira-diz-leitor-sobre-encontro-entre-flavio-bolsonaro-e-lula.shtml)_
 
+- **[2026-10-20 03:51 UTC]** Flávio Bolsonaro enfrenta resistência de parlamentares em fim de mandato
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-enfrenta-resistencia-de-parlamentares-em-fim-de-mandato/)_
+
