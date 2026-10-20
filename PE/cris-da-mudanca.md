@@ -98,3 +98,6 @@
 - **[2026-09-11 17:57 UTC]** Desconfianças em série levaram comitê a trocar escritório do caso Mariana, mudança que vai à Justiça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/desconfiancas-em-serie-levaram-comite-a-trocar-escritorio-do-caso-mariana-mudanca-que-vai-a-justica.shtml)_
 
+- **[2026-10-19 23:30 UTC]** Mudança em seções afetou mais de 1,9 mi de eleitores no 1º turno; TSE atualiza locais para 2ª etapa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mudanca-em-secoes-afetou-mais-de-19-mi-de-eleitores-no-1o-turno-tse-atualiza-locais-para-2a-etapa.shtml)_
+
