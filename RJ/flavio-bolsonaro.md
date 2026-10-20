@@ -7324,3 +7324,6 @@
 - **[2026-10-20 18:46 UTC]** Na TV, Lula exibe depoimento da mãe de Paulo Gustavo, morto por covid; Flávio Bolsonaro se diz vencedor de debate
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/horario-eleitoral-presidente-20-outubro-lula-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-20 18:18 UTC]** Flávio Bolsonaro se reúne com influenciadores em SP, e Marçal orienta evitar críticas a Lula e defende 'vender o medo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/flavio-bolsonaro-reune-influenciadores-evento-marcal.ghtml)_
+
