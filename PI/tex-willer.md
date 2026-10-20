@@ -11,3 +11,6 @@
 - **[2026-10-19 13:24 UTC]** PF realiza operação contra ex-servidor do STJ suspeito de vazar informações a Willer Tomaz
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/19/pf-operacao-linceu.ghtml)_
 
+- **[2026-10-19 22:07 UTC]** Lula oferece fim de sigilos de Janja e Lulinha, e cobra de Flávio Bolsonaro dados de offshore de Willer Tomaz
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-oferece-fim-de-sigilos-de-janja-e-lulinha-e-cobra-de-flavio-bolsonaro-dados-de-offshore-de-willer-tomaz.shtml)_
+
