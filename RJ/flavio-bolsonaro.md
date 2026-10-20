@@ -7423,3 +7423,6 @@
 - **[2026-10-20 15:13 UTC]** Flávio desdenha dos outros, especialmente das mulheres
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joanna-moura/2026/10/um-politico-veterano-e-um-macho-escroto-entram-num-debate.shtml)_
 
+- **[2026-10-20 20:10 UTC]** PT pede CPI contra Flávio Bolsonaro e investigação de Lulinha às vésperas do segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-cpi-contra-flavio-bolsonaro-investigacao-lulinha/)_
+
