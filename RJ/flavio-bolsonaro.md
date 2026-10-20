@@ -7204,3 +7204,6 @@
 - **[2026-10-19 20:40 UTC]** Flávio quer passar a boiada?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/flavio-quer-passar-a-boiada.shtml)_
 
+- **[2026-10-19 19:54 UTC]** Janja leva bronca da Band após se manifestar durante fala final de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janja-leva-bronca-da-band-apos-se-manifestar-durante-fala-final-de-flavio.shtml)_
+
