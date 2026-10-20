@@ -1313,3 +1313,6 @@
 - **[2026-10-19 20:14 UTC]** Debate da Band: o que aconteceu no primeiro confronto entre Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/crgqw4y4e07vo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-19 23:00 UTC]** Incrédula com força de Flávio, eleitora de Lula diz que democracia está em jogo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/incredula-com-forca-de-flavio-eleitora-de-lula-diz-que-democracia-esta-em-jogo.shtml)_
+
