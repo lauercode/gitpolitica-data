@@ -7366,3 +7366,6 @@
 - **[2026-10-20 13:02 UTC]** Lula formaliza ao TSE abertura de sigilo caso Flávio Bolsonaro entregue seus dados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lula-formaliza-ao-tse-abertura-de-sigilo-caso-flavio-bolsonaro-entregue-seus-dados.shtml)_
 
+- **[2026-10-20 12:58 UTC]** Lula e Flávio Bolsonaro confirmam presença e Globo fará debate no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/lula-e-flavio-bolsonaro-confirmam-presenca-e-globo-fara-debate-no-segundo-turno.shtml)_
+
