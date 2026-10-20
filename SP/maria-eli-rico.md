@@ -14,3 +14,6 @@
 - **[2026-10-20 15:17 UTC]** Convidados se recusam a entrevistar Rico Melquíades e RedeTV! avalia cancelar gravação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/convidados-se-recusam-a-entrevistar-rico-melquiades-e-redetv-avalia-cancelar-gravacao.shtml)_
 
+- **[2026-10-20 15:17 UTC]** Convidados se recusam a entrevistar Rico Melquiades e RedeTV! avalia cancelar gravação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/convidados-se-recusam-a-entrevistar-rico-melquiades-e-redetv-avalia-cancelar-gravacao.shtml)_
+
