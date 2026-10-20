@@ -7414,3 +7414,6 @@
 - **[2026-10-20 17:40 UTC]** Ex-ministros da Saúde citam pandemia e ameaça ao SUS em manifesto contra Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ex-ministros-da-saude-citam-pandemia-e-veem-ameaca-ao-sus-com-flavio-bolsonaro.shtml)_
 
+- **[2026-10-20 16:55 UTC]** Flávio Bolsonaro apaga posts com críticas ao Bolsa Família
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-apaga-posts-com-criticas-ao-bolsa-familia.shtml)_
+
