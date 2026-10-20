@@ -7426,3 +7426,6 @@
 - **[2026-10-20 20:10 UTC]** PT pede CPI contra Flávio Bolsonaro e investigação de Lulinha às vésperas do segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-cpi-contra-flavio-bolsonaro-investigacao-lulinha/)_
 
+- **[2026-10-20 22:35 UTC]** Perfis usam mulheres de IA em campanha por Flávio Bolsonaro e Lula para atrair público e até vender conteúdo adulto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmgr8qz1095jo?at_medium=RSS&at_campaign=rss)_
+
