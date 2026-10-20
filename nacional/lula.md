@@ -1325,3 +1325,6 @@
 - **[2026-10-19 04:56 UTC]** Os momentos mais marcantes do debate entre Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqjdvd8dk29eo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-20 14:01 UTC]** Flávio promete, se eleito, retomar benefício para eventos encerrado por Lula após suspeitas de irregularidades e alto custo
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml)_
+
