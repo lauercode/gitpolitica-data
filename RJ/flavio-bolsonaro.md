@@ -7405,3 +7405,6 @@
 - **[2026-10-20 18:02 UTC]** Flávio Bolsonaro não consegue dissipar minhas suspeitas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/10/flavio-bolsonaro-nao-consegue-dissipar-minhas-suspeitas.shtml)_
 
+- **[2026-10-20 17:51 UTC]** Advogado investigado teve apoio de Flávio Bolsonaro para fiscalizar juízes no CNJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/advogado-investigado-teve-apoio-de-flavio-bolsonaro-para-fiscalizar-juizes-no-cnj.shtml)_
+
