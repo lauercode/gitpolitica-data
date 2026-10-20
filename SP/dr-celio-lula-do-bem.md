@@ -116,3 +116,6 @@
 - **[2026-10-20 01:19 UTC]** Manifestantes pró-Lula fazem protesto em frente à sede da Meta em SP
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/manifestantes-pro-lula-fazem-protesto-em-frente-a-sede-da-meta-em-sp/)_
 
+- **[2026-10-20 18:18 UTC]** Flávio Bolsonaro se reúne com influenciadores em SP, e Marçal orienta evitar críticas a Lula e defende 'vender o medo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/flavio-bolsonaro-reune-influenciadores-evento-marcal.ghtml)_
+
