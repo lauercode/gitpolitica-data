@@ -50,3 +50,6 @@
 - **[2026-10-18 23:00 UTC]** Comerciante no Recife vota em Flávio 'porque ele é filho de Bolsonaro'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/comerciante-no-recife-vota-em-flavio-porque-ele-e-filho-de-bolsonaro.shtml)_
 
+- **[2026-10-20 12:44 UTC]** Recife abrirá 136 creches no 2º turno para facilitar voto dos pais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/recife-abrira-136-creches-no-2o-turno-para-facilitar-voto-de-maes.shtml)_
+
