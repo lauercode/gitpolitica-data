@@ -11,3 +11,6 @@
 - **[2026-10-19 17:49 UTC]** Deputada pede cassação de Marcelo Aguiar após disparo em casa noturna
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputada-pede-cassacao-de-marcelo-aguiar-apos-disparo-em-casa-noturna.shtml)_
 
+- **[2026-10-19 21:00 UTC]** Após tiro em bar de SP, delegado não requisita exame de embriaguez para deputado Marcelo Aguiar (PL)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/apos-tiro-em-bar-de-sp-delegado-nao-requisita-exame-de-embriaguez-para-deputado-marcelo-aguiar-pl.shtml)_
+
