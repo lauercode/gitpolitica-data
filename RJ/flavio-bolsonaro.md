@@ -7429,3 +7429,6 @@
 - **[2026-10-20 22:35 UTC]** Perfis usam mulheres de IA em campanha por Flávio Bolsonaro e Lula para atrair público e até vender conteúdo adulto
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmgr8qz1095jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-20 22:00 UTC]** Lula confirma PEC da Tarifa Zero; Flávio tem apoio de sertanejos
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-confirma-pec-da-tarifa-zero-flavio-tem-apoio-de-sertanejos)_
+
