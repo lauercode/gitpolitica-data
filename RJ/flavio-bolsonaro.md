@@ -7573,3 +7573,6 @@
 - **[2026-10-21 15:27 UTC]** Estudantes de direita e políticos fazem ato pró-Flávio em frente ao Insper em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/estudantes-de-direita-e-politicos-fazem-ato-pro-flavio-em-frente-ao-insper-em-sp.shtml)_
 
+- **[2026-10-21 15:15 UTC]** Flávio criou frente para acabar com exame da OAB quando deputado; candidato não comenta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-criou-frente-para-acabar-com-exame-da-oab-quando-deputado-candidato-nao-comenta.shtml)_
+
