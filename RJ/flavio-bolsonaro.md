@@ -7498,3 +7498,6 @@
 - **[2026-10-21 13:24 UTC]** Quaest: Flávio Bolsonaro tem 52% de rejeição, e Lula, 47%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-flavio-bolsonaro-lula-rejeicao.ghtml)_
 
+- **[2026-10-21 13:16 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 45%; Lula, 44%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-presidente-21-outubro.ghtml)_
+
