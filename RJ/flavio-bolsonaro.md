@@ -7501,3 +7501,6 @@
 - **[2026-10-21 13:16 UTC]** Quaest, 2º turno: Flávio Bolsonaro, 45%; Lula, 44%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-presidente-21-outubro.ghtml)_
 
+- **[2026-10-21 14:25 UTC]** Richarlison apresenta documentos de compra de propriedade em disputa com Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/richarlison-apresenta-documentos-de-compra-de-propriedade-em-disputa-com-flavio-bolsonaro.shtml)_
+
