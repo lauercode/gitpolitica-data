@@ -7516,3 +7516,6 @@
 - **[2026-10-21 11:26 UTC]** PF investiga se Flávio Bolsonaro é sócio oculto de bet, diz revista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/pf-investiga-se-flavio-bolsonaro-e-socio-oculto-de-bet-diz-revista.shtml)_
 
+- **[2026-10-21 11:00 UTC]** Redução da maioridade penal de Lula exclui tráfico, e a de Flávio pune até jovem de 14 anos na rede social
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-de-lula-exclui-trafico-e-a-de-flavio-pune-ate-jovem-de-14-anos-na-rede-social.shtml)_
+
