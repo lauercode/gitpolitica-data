@@ -1460,3 +1460,6 @@
 - **[2026-10-20 18:12 UTC]** Mendonça será relator de pedido de Lula para levantar sigilos dele e de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-relator-pedido-lula-levantar-sigilos-dele-e-flavio/)_
 
+- **[2026-10-20 13:28 UTC]** Quantos filhos Bolsonaro tem? E quantos filhos Lula tem? Conheça a família dos políticos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quantos-filhos-bolsonaro-e-lula-tem/)_
+
