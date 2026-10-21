@@ -77,3 +77,6 @@
 - **[2026-10-16 13:19 UTC]** Mailza Assis (PP) cancela entrevista no JAC2 em sabatina do 2º turno no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/16/mailza-assis-pp-cancela-entrevista-no-jac2-em-sabatina-do-2o-turno-no-acre.ghtml)_
 
+- **[2026-10-21 08:00 UTC]** Eleitores do Acre escolhem entre Mailza Assis e Alan Rick para governo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-acre-voltam-urnas-no-domingo-para-escolher-entre-mailza-assis-e-alan-rick-para%20governar-estado)_
+
