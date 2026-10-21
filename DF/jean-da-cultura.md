@@ -80,3 +80,6 @@
 - **[2026-10-21 04:00 UTC]** Mario Frias pagou com verba de campanha empresa ligada a ex-servidora de gestão na Cultura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mario-frias-pagou-com-verba-de-campanha-empresa-ligada-a-ex-servidora-de-gestao-na-cultura.shtml)_
 
+- **[2026-10-21 14:02 UTC]** TV Cultura encerra tradição de 37 anos e não entrevista candidatos a presidente no Roda Viva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/tv-cultura-encerra-tradicao-de-37-anos-e-nao-entrevista-candidatos-a-presidente-no-roda-viva.shtml)_
+
