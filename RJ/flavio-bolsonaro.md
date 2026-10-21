@@ -7555,3 +7555,6 @@
 - **[2026-10-21 18:33 UTC]** Mercado segue apostando em Flávio mesmo com incômodo por promessas de campanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/mercado-segue-apostando-em-flavio-mesmo-com-incomodo-por-promessas-de-campanha.shtml)_
 
+- **[2026-10-21 18:30 UTC]** Flávio promete a volta de programa que abriu brechas para lavagem de dinheiro pelo PCC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/flavio-promete-a-volta-de-programa-que-abriu-brechas-para-lavagem-de-dinheiro-pelo-pcc.shtml)_
+
