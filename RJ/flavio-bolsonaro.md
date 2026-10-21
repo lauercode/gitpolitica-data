@@ -7558,3 +7558,6 @@
 - **[2026-10-21 18:30 UTC]** Flávio promete a volta de programa que abriu brechas para lavagem de dinheiro pelo PCC
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/flavio-promete-a-volta-de-programa-que-abriu-brechas-para-lavagem-de-dinheiro-pelo-pcc.shtml)_
 
+- **[2026-10-21 18:12 UTC]** Campanha de Lula diz que aceita abrir sigilo de Marcola caso Flávio Bolsonaro abra o seu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-diz-nao-se-opor-a-condicoes-de-flavio-sobre-sigilo-inclusive-abrir-o-de-marcola.shtml)_
+
