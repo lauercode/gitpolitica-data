@@ -23,3 +23,6 @@
 - **[2026-10-05 18:16 UTC]** Kim Kataguiri diz que não renunciará após Renan Santos ficar abaixo de 3%
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/kim-kataguiri-diz-que-nao-renunciara-apos-renan-santos-ficar-abaixo-de-tres/)_
 
+- **[2026-10-21 11:52 UTC]** Kim Kataguiri propõe lei que proíbe restrição do alcance das redes de candidatos durante eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/kim-kataguiri-propoe-lei-que-proibe-restricao-do-alcance-das-redes-de-candidatos-durante-eleicoes.shtml)_
+
