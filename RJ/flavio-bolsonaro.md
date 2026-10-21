@@ -7507,3 +7507,6 @@
 - **[2026-10-21 13:40 UTC]** Especialistas da ONU cobram Meta por suspeita de tratamento desigual para Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/onu-questiona-meta-por-suspeita-de-tratamento-desigual-para-flavio-bolsonaro.shtml)_
 
+- **[2026-10-21 13:00 UTC]** Lula mira aumento na rejeição de Flávio Bolsonaro na reta final com pressão por abertura de sigilo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-mira-aumento-na-rejeicao-de-flavio-bolsonaro-na-reta-final-com-pressao-por-abertura-de-sigilo.shtml)_
+
