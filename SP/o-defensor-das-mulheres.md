@@ -245,3 +245,6 @@
 - **[2026-10-20 17:00 UTC]** Mulheres são mais inteligentes emocionalmente que homens, e isso é um problema, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/mulheres-sao-mais-inteligentes-emocionalmente-que-homens-e-isso-e-um-problema-diz-estudo.shtml)_
 
+- **[2026-10-21 13:46 UTC]** Mulheres temem mais admitir erros quando homens são maioria na empresa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/mulheres-temem-mais-admitir-erros-quando-homens-sao-maioria-na-empresa.shtml)_
+
