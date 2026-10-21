@@ -1397,3 +1397,6 @@
 - **[2026-10-21 07:00 UTC]** Pesquisa Palver mostra Flávio com 50% e Lula com 48%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pesquisa-palver-mostra-flavio-com-50-e-lula-com-48.shtml)_
 
+- **[2026-10-21 06:00 UTC]** Saiba quais famosos apoiam Lula e Flávio Bolsonaro nas eleições 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/saiba-quais-famosos-apoiam-lula-e-flavio-bolsonaro-nas-eleicoes-2026.shtml)_
+
