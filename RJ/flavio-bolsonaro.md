@@ -7453,3 +7453,6 @@
 - **[2026-10-21 04:00 UTC]** PF localiza menção a servidor alvo da Abin Paralela com amigo de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pf-localiza-mencao-a-servidor-alvo-da-abin-paralela-com-amigo-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-20 23:00 UTC]** Uso de IA, reajuste para servidores, concursos e privatizações colocam Lula e Flávio em lados opostos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/uso-de-ia-reajuste-para-servidores-concursos-e-privatizacoes-colocam-lula-e-flavio-em-lados-opostos.shtml)_
+
