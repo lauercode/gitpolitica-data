@@ -1394,3 +1394,6 @@
 - **[2026-10-21 07:00 UTC]** Flávio Bolsonaro tem 51,1%, e Lula, 48,9% dos votos válidos, e seguem empatados, diz Meio/Ideia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tem-511-e-lula-489-dos-votos-validos-e-seguem-empatados-diz-meioideia.shtml)_
 
+- **[2026-10-21 07:00 UTC]** Pesquisa Palver mostra Flávio com 50% e Lula com 48%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pesquisa-palver-mostra-flavio-com-50-e-lula-com-48.shtml)_
+
