@@ -143,3 +143,6 @@
 - **[2026-10-21 20:07 UTC]** Quaest no DF: 34% avaliam gestão Celina Leão como positiva e 25%, como negativa
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-avaliacao-governo-celina-21-outubro.ghtml)_
 
+- **[2026-10-21 20:04 UTC]** Quaest no DF, 2º turno: Celina Leão, 50%; Leandro Grass, 35%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-governador-segundo-turno-21-outubro.ghtml)_
+
