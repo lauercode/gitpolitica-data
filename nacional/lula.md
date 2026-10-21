@@ -1400,3 +1400,6 @@
 - **[2026-10-21 06:00 UTC]** Saiba quais famosos apoiam Lula e Flávio Bolsonaro nas eleições 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/saiba-quais-famosos-apoiam-lula-e-flavio-bolsonaro-nas-eleicoes-2026.shtml)_
 
+- **[2026-10-21 13:08 UTC]** Pesquisa Quaest, agenda de Flávio e Lula e outras notícias desta quarta-feira; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
+
