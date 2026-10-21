@@ -119,3 +119,6 @@
 - **[2026-10-20 18:18 UTC]** Flávio Bolsonaro se reúne com influenciadores em SP, e Marçal orienta evitar críticas a Lula e defende 'vender o medo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/flavio-bolsonaro-reune-influenciadores-evento-marcal.ghtml)_
 
+- **[2026-10-21 16:57 UTC]** Alunos da Belas Artes marcam protesto em SP após reitor usar email para criticar Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/alunos-da-belas-artes-marcam-protesto-em-sp-apos-reitor-usar-email-para-criticar-lula.shtml)_
+
