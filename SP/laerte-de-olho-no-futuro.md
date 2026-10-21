@@ -68,3 +68,6 @@
 - **[2026-09-11 17:00 UTC]** O futuro incerto do Ministério da Cultura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/09/o-futuro-incerto-do-ministerio-da-cultura.shtml)_
 
+- **[2026-10-21 04:00 UTC]** Futuro do mercado regulado de carbono depende do próximo presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/futuro-do-mercado-regulado-de-carbono-depende-do-proximo-presidente.shtml)_
+
