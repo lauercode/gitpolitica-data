@@ -1364,3 +1364,6 @@
 - **[2026-10-20 22:00 UTC]** Lula confirma PEC da Tarifa Zero; Flávio tem apoio de sertanejos
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-confirma-pec-da-tarifa-zero-flavio-tem-apoio-de-sertanejos)_
 
+- **[2026-10-21 01:43 UTC]** Campanha de Flávio Bolsonaro volta a acionar Nunes Marques diretamente sobre ‘Exército de Lula’; PT contesta pedido
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/20/campanha-flavio-bolsonaro-nunes-marques-exercito-de-lula-pt.ghtml)_
+
