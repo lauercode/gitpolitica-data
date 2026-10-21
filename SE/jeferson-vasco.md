@@ -32,3 +32,6 @@
 - **[2026-09-11 17:34 UTC]** Santos e Vasco perto do Mundial de Clubes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sandromacedo/2026/09/santos-e-vasco-perto-do-mundial-de-clubes.shtml)_
 
+- **[2026-10-20 23:37 UTC]** Goleiro falha no fim, e Vasco cai diante do Boca Juniors no Maracanã
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/goleiro-falha-no-fim-e-vasco-cai-diante-do-boca-juniors-no-maracana.shtml)_
+
