@@ -92,3 +92,6 @@
 - **[2026-10-19 19:04 UTC]** Rebeca Andrade volta ao Mundial após três anos, e Brasil avança a cinco finais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/rebeca-andrade-volta-a-competir-no-mundial-de-ginastica-apos-tres-anos.shtml)_
 
+- **[2026-10-21 16:51 UTC]** Brasil fica em quinto no Mundial e não garante vaga antecipada nos Jogos de LA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/brasil-fica-em-quinto-no-mundial-de-ginastica-e-nao-garante-vaga-antecipada-nos-jogos-de-la-28.shtml)_
+
