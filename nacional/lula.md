@@ -1436,3 +1436,6 @@
 - **[2026-10-21 20:37 UTC]** 'Desafio dos sigilos': veja as diferenças das manifestações de Lula e Flávio sobre divulgação de dados
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/desafio-dos-sigilos-veja-as-diferencas-das-manifestacoes-de-lula-e-flavio-sobre-divulgacao-de-dados.ghtml)_
 
+- **[2026-10-21 20:05 UTC]** Quaest no DF, 2º turno: Flávio Bolsonaro, 50%; Lula, 39%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-presidente-segundo-turno-21-outubro.ghtml)_
+
