@@ -140,3 +140,6 @@
 - **[2026-10-12 20:42 UTC]** Quaest: No DF, Celina Leão tem 53% e Leandro Grass, 33%, no segundo turno
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/quaest-no-df-celina-leo-tem-53-pontos-percentuais-e-leandro-grass-33-no-segundo-turno.ghtml)_
 
+- **[2026-10-21 20:07 UTC]** Quaest no DF: 34% avaliam gestão Celina Leão como positiva e 25%, como negativa
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-avaliacao-governo-celina-21-outubro.ghtml)_
+
