@@ -110,3 +110,6 @@
 - **[2026-10-17 20:36 UTC]** Erika Hilton afirma estar recolhendo assinaturas para instalar CPI das ‘big techs’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/17/erika-hilton-afirma-estar-recolhendo-assinaturas-para-instalar-cpi-das-big-techs.ghtml)_
 
+- **[2026-10-21 18:48 UTC]** MP-SP aponta transfobia de Eduarda Campopiano contra Erika Hilton e pede indenização de R$ 100 mil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mp-sp-aponta-transfobia-de-eduarda-campopiano-contra-erika-hilton-e-pede-indenizacao-de-r-100-mil.shtml)_
+
