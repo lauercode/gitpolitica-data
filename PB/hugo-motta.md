@@ -65,3 +65,6 @@
 - **[2026-10-20 23:33 UTC]** Hugo Motta defende diálogo e respeito entre os Poderes para fortalecer instituições
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1312584-hugo-motta-defende-dialogo-e-respeito-entre-os-poderes-para-fortalecer-instituicoes)_
 
+- **[2026-10-21 03:27 UTC]** Gilmar Mendes e Hugo Motta reforçam defesa das instituições antes do 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/gilmar-mendes-e-hugo-motta-reforcam-defesa-das-instituicoes-antes-do-2o-turno/)_
+
