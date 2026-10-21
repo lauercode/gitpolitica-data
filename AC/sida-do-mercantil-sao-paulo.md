@@ -59,3 +59,6 @@
 - **[2026-10-20 21:41 UTC]** Folha faz debate do filme 'O Outro Lado das Redes', na Mostra de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/folha-faz-debate-do-filme-o-outro-lado-das-redes-na-mostra-de-sao-paulo.shtml)_
 
+- **[2026-10-20 20:42 UTC]** Médico morre em confronto com a Polícia Militar em Catanduva, no interior de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/medico-morre-em-confronto-com-a-policia-militar-em-catanduva-no-interior-de-sao-paulo.shtml)_
+
