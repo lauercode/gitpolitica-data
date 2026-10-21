@@ -1373,3 +1373,6 @@
 - **[2026-10-21 03:00 UTC]** De Bolsa Família à maioridade penal: veja o que Flávio Bolsonaro e Lula mudaram em seus discursos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/de-bolsa-familia-a-maioridade-penal-veja-o-que-flavio-bolsonaro-e-lula-mudaram-em-seus-discursos.ghtml)_
 
+- **[2026-10-20 23:00 UTC]** Uso de IA, reajuste para servidores, concursos e privatizações colocam Lula e Flávio em lados opostos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/uso-de-ia-reajuste-para-servidores-concursos-e-privatizacoes-colocam-lula-e-flavio-em-lados-opostos.shtml)_
+
