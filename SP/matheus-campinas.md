@@ -17,3 +17,6 @@
 - **[2026-09-01 16:27 UTC]** Azul inicia voo entre Boa Vista e Campinas
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/01/azul-inicia-voo-entre-boa-vista-e-campinas.ghtml)_
 
+- **[2026-10-20 23:55 UTC]** Três jovens morrem após carro bater em ônibus durante suposto racha em Campinas (SP)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/tres-jovens-morrem-apos-carro-bater-em-onibus-durante-suposto-racha-em-campinas-sp.shtml)_
+
