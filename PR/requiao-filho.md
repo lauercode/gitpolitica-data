@@ -113,3 +113,6 @@
 - **[2026-10-04 12:53 UTC]** Requião Filho (PDT) vota em Curitiba
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/voto-requiao-filho-eleicao.ghtml)_
 
+- **[2026-10-21 10:41 UTC]** Perfis falsos no Facebook usam nome de Requião Filho para oferecer investimentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/perfis-falsos-no-facebook-usam-nome-de-requiao-filho-para-oferecer-investimentos.shtml)_
+
