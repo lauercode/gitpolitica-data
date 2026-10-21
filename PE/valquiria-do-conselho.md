@@ -113,3 +113,6 @@
 - **[2026-10-20 19:37 UTC]** Conselho da Meta aponta falhas recorrentes na moderação de conteúdo eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/conselho-da-meta-aponta-falhas-recorrentes-na-moderacao-de-conteudo-eleitoral.shtml)_
 
+- **[2026-10-21 01:27 UTC]** Meta é cobrada pelo próprio Conselho de Supervisão por falhas eleitorais; TSE exige igualdade
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/meta-e-cobrada-pelo-proprio-conselho-de-supervisao-por-falhas-eleitorais-tse-exige-igualdade/)_
+
