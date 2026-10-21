@@ -1466,3 +1466,6 @@
 - **[2026-10-21 21:46 UTC]** Flávio dobra a aposta e Lula diz que vai quebrar sigilo de Marcola
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/ultima-analise/flavio-dobra-a-aposta-e-lula-diz-que-vai-quebrar-sigilo-de-marcola/)_
 
+- **[2026-10-19 16:41 UTC]** Quem está à frente nas pesquisas, Lula ou Flávio? Confira no agregador da BBC
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
+
