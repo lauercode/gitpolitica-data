@@ -464,3 +464,6 @@
 - **[2026-10-20 01:01 UTC]** Novo Código Civil da esquerda pode ser aprovado no pacote de maldades de Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/novo-codigo-civil-esquerda-votado-senado-atropelo-alcolumbre/)_
 
+- **[2026-10-21 20:17 UTC]** Governo Lula pressiona Alcolumbre por votação da PEC da Segurança antes do segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-pressiona-alcolumbre-votacao-pec-seguranca/)_
+
