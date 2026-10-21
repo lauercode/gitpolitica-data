@@ -7528,3 +7528,6 @@
 - **[2026-10-21 15:06 UTC]** Revisão da condenação de Bolsonaro pode aproximar STF e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/revisao-da-condenacao-de-bolsonaro-pode-aproximar-stf-e-flavio/)_
 
+- **[2026-10-21 17:41 UTC]** Como Fernanda Bolsonaro ganhou destaque na campanha de Flávio para tentar atrair voto feminino
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmly0lnpn9ewo?at_medium=RSS&at_campaign=rss)_
+
