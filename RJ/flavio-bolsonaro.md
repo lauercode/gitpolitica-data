@@ -7450,3 +7450,6 @@
 - **[2026-10-21 03:00 UTC]** De Bolsa Família à maioridade penal: veja o que Flávio Bolsonaro e Lula mudaram em seus discursos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/de-bolsa-familia-a-maioridade-penal-veja-o-que-flavio-bolsonaro-e-lula-mudaram-em-seus-discursos.ghtml)_
 
+- **[2026-10-21 04:00 UTC]** PF localiza menção a servidor alvo da Abin Paralela com amigo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pf-localiza-mencao-a-servidor-alvo-da-abin-paralela-com-amigo-de-flavio-bolsonaro.shtml)_
+
