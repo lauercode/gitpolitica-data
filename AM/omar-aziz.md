@@ -161,3 +161,6 @@
 - **[2026-10-16 23:45 UTC]** Omar Aziz participa de entrevista no JAM2; veja ÍNTEGRA e tema por tema
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/16/omar-aziz-participa-de-entrevista-no-jam2-veja-integra-e-tema-por-tema.ghtml)_
 
+- **[2026-10-21 08:00 UTC]** No Amazonas, eleitores vão escolher entre Aziz e Maria do Carmo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/no-amazonas-eleitores-vao-escolher-entre-aziz-e-maria-do-carmo)_
+
