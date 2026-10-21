@@ -578,3 +578,6 @@
 - **[2026-10-15 17:25 UTC]** Alan Rick (Republicanos) cancela participação em sabatina do JAC2
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/15/alan-rick-republicanos-cancela-participacao-em-sabatina-do-jac2.ghtml)_
 
+- **[2026-10-21 08:00 UTC]** Eleitores do Acre escolhem entre Mailza Assis e Alan Rick para governo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-acre-voltam-urnas-no-domingo-para-escolher-entre-mailza-assis-e-alan-rick-para%20governar-estado)_
+
