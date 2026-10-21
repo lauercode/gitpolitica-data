@@ -7504,3 +7504,6 @@
 - **[2026-10-21 14:25 UTC]** Richarlison apresenta documentos de compra de propriedade em disputa com Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/richarlison-apresenta-documentos-de-compra-de-propriedade-em-disputa-com-flavio-bolsonaro.shtml)_
 
+- **[2026-10-21 13:40 UTC]** Especialistas da ONU cobram Meta por suspeita de tratamento desigual para Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/onu-questiona-meta-por-suspeita-de-tratamento-desigual-para-flavio-bolsonaro.shtml)_
+
