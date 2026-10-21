@@ -1403,3 +1403,6 @@
 - **[2026-10-21 13:08 UTC]** Pesquisa Quaest, agenda de Flávio e Lula e outras notícias desta quarta-feira; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-21 17:34 UTC]** Na TV, Lula critica 'tesouraço' de Flávio Bolsonaro e exibe depoimento de ex-ministro de Jair; candidato do PL trata de mulheres e relembra debate
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/horario-eleitoral-presidente-21-outubro.ghtml)_
+
