@@ -482,3 +482,6 @@
 - **[2026-10-20 22:00 UTC]** 'Quem não deve não teme': Leitores pedem fim de sigilo sobre dados de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/quem-nao-deve-nao-teme-leitores-pedem-fim-de-sigilo-sobre-dados-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-21 04:00 UTC]** Globo adia beijo gay entre Mau Mau e Felipe em 'Quem Ama Cuida' para depois das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-adia-beijo-gay-entre-mau-mau-e-felipe-em-quem-ama-cuida-para-depois-das-eleicoes.shtml)_
+
