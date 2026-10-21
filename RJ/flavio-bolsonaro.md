@@ -7546,3 +7546,6 @@
 - **[2026-10-21 20:05 UTC]** Quaest no DF, 2º turno: Flávio Bolsonaro, 50%; Lula, 39%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-presidente-segundo-turno-21-outubro.ghtml)_
 
+- **[2026-10-21 19:09 UTC]** Mendonça nega pedido de Flávio para retirar postagens que o chamam de 'mentiroso master' e 'bajulador de Trump'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/mendonca-nega-pedido-de-flavio-para-retirar-postagens-que-o-chamam-de-mentiroso-master-e-bajulador-de-trump.ghtml)_
+
