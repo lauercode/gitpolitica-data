@@ -41,3 +41,6 @@
 - **[2026-09-10 22:27 UTC]** Eleições 2026 em SC: Laís Chaud conversa com movimento de mulheres e panfleta em Joinville
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/10/eleicoes-2026-em-sc-lais-chaud-conversa-com-movimento-de-mulheres-e-panfleta-em-joinville.ghtml)_
 
+- **[2026-10-21 10:54 UTC]** Movimento Vovó Vota defende consciência cidadã contra abstenção
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/movimento-vovo-vota-defende-consciencia-cidada-contra-abstencao)_
+
