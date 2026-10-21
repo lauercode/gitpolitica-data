@@ -77,3 +77,6 @@
 - **[2026-10-21 17:00 UTC]** 1926: Grupo teatral de artistas negros encanta público de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/10/1926-grupo-teatral-de-artistas-negros-encanta-publico-de-sao-paulo.shtml)_
 
+- **[2026-10-21 14:27 UTC]** Entregadores e motoboys fazem motociata pró-Lula no centro de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/entregadores-e-mototoboys-fazem-motociata-pro-lula-no-centro-de-sao-paulo.shtml)_
+
