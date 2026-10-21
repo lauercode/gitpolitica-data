@@ -7444,3 +7444,6 @@
 - **[2026-10-20 20:57 UTC]** Escritório de Flávio Bolsonaro faturou R$ 14 mi enquanto ele exercia mandato de senador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/escritorio-de-flavio-bolsonaro-faturou-r-14-mi-enquanto-ele-exercia-mandato-de-senador.shtml)_
 
+- **[2026-10-20 20:05 UTC]** Doações a Flávio quase triplicam no 2º turno e chegam a 26 vezes o valor recebido por Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/doacoes-a-flavio-quase-triplicam-no-2o-turno-e-chegam-a-26-vezes-o-valor-recebido-por-lula.shtml)_
+
