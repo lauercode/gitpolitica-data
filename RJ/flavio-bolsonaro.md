@@ -7531,3 +7531,6 @@
 - **[2026-10-21 17:41 UTC]** Como Fernanda Bolsonaro ganhou destaque na campanha de Flávio para tentar atrair voto feminino
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmly0lnpn9ewo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-21 18:13 UTC]** Resultado da Quaest, agenda de Flávio e Lula e outras notícias desta quarta-feira; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
+
