@@ -20,3 +20,6 @@
 - **[2026-10-19 11:08 UTC]** Crise global do açúcar afeta produção e consumo na Índia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/crise-global-do-acucar-afeta-producao-e-consumo-na-india.shtml)_
 
+- **[2026-10-20 23:00 UTC]** Importação de máquinas agrícolas sobe 144%, puxada por China e Índia, e sufoca indústria no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/importacao-de-maquinas-agricolas-sobe-144-puxada-por-china-e-india-e-sufoca-industria-no-brasil.shtml)_
+
