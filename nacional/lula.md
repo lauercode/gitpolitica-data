@@ -1376,3 +1376,6 @@
 - **[2026-10-20 23:00 UTC]** Uso de IA, reajuste para servidores, concursos e privatizações colocam Lula e Flávio em lados opostos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/uso-de-ia-reajuste-para-servidores-concursos-e-privatizacoes-colocam-lula-e-flavio-em-lados-opostos.shtml)_
 
+- **[2026-10-20 23:00 UTC]** Lula mantém liderança sobre Flávio Bolsonaro em índice de popularidade digital após debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-mantem-lideranca-sobre-flavio-bolsonaro-em-indice-de-popularidade-digital-apos-debate.shtml)_
+
