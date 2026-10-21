@@ -1427,3 +1427,6 @@
 - **[2026-10-21 17:48 UTC]** Justiça investiga seis nomes importantes da gestão atual do presidente Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-investiga-seis-nomes-importantes-da-gestao-atual-do-presidente-lula/)_
 
+- **[2026-10-21 18:13 UTC]** Resultado da Quaest, agenda de Flávio e Lula e outras notícias desta quarta-feira; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
+
