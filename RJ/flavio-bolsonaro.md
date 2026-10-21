@@ -7525,3 +7525,6 @@
 - **[2026-10-21 18:03 UTC]** Flávio condiciona seus sigilos à abertura de dados de ex-chefe de gabinete e de Janja
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-condiciona-sigilos-abertura-dados-ex-chefe-gabinete-janja/)_
 
+- **[2026-10-21 15:06 UTC]** Revisão da condenação de Bolsonaro pode aproximar STF e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/revisao-da-condenacao-de-bolsonaro-pode-aproximar-stf-e-flavio/)_
+
