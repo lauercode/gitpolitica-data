@@ -11,3 +11,6 @@
 - **[2026-10-21 06:51 UTC]** Mesmo com 'Exército' de Janones, esquerda não se equipara à força digital do bolsonarismo, diz Marcos Nobre
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw99z4pj1mr4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-21 06:51 UTC]** Mesmo com 'Exército' de Janones, esquerda não tem força digital do bolsonarismo, diz Marcos Nobre
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw99z4pj1mr4o?at_medium=RSS&at_campaign=rss)_
+
