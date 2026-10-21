@@ -1406,3 +1406,6 @@
 - **[2026-10-21 17:34 UTC]** Na TV, Lula critica 'tesouraço' de Flávio Bolsonaro e exibe depoimento de ex-ministro de Jair; candidato do PL trata de mulheres e relembra debate
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/horario-eleitoral-presidente-21-outubro.ghtml)_
 
+- **[2026-10-21 17:18 UTC]** Em resposta a 'desafio' de Lula, Flávio impõe condições ao petista para liberar sigilos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/em-resposta-a-desafio-de-lula-flavio-impoe-condicoes-ao-petista-para-liberar-sigilos.ghtml)_
+
