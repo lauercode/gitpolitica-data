@@ -7561,3 +7561,6 @@
 - **[2026-10-21 18:12 UTC]** Campanha de Lula diz que aceita abrir sigilo de Marcola caso Flávio Bolsonaro abra o seu
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-diz-nao-se-opor-a-condicoes-de-flavio-sobre-sigilo-inclusive-abrir-o-de-marcola.shtml)_
 
+- **[2026-10-21 18:03 UTC]** Bet de amigo de Flávio faturou R$ 210 mil em 18 meses, em resultado abaixo do esperado, mostra documento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/bet-de-amigo-de-flavio-faturou-r-210-mil-em-18-meses-em-resultado-abaixo-do-esperado-mostra-documento.shtml)_
+
