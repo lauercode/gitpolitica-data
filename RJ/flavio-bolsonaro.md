@@ -7459,3 +7459,6 @@
 - **[2026-10-20 23:00 UTC]** Lula mantém liderança sobre Flávio Bolsonaro em índice de popularidade digital após debate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-mantem-lideranca-sobre-flavio-bolsonaro-em-indice-de-popularidade-digital-apos-debate.shtml)_
 
+- **[2026-10-21 05:00 UTC]** Podcast discute Bolsa Família e planos de Lula e Flávio Bolsonaro na economia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-discute-bolsa-familia-e-planos-de-lula-e-flavio-bolsonaro-na-economia.shtml)_
+
