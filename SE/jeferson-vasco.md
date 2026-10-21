@@ -35,3 +35,6 @@
 - **[2026-10-20 23:37 UTC]** Goleiro falha no fim, e Vasco cai diante do Boca Juniors no Maracanã
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/goleiro-falha-no-fim-e-vasco-cai-diante-do-boca-juniors-no-maracana.shtml)_
 
+- **[2026-10-21 14:35 UTC]** Celulite facial, que levou à internação do presidente do Vasco, é diferente da estética e exige tratamento rápido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/celulite-facial-que-levou-a-internacao-do-presidente-do-vasco-e-diferente-da-estetica-e-exige-tratamento-rapido.shtml)_
+
