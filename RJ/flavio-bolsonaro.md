@@ -7432,3 +7432,6 @@
 - **[2026-10-20 22:00 UTC]** Lula confirma PEC da Tarifa Zero; Flávio tem apoio de sertanejos
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-confirma-pec-da-tarifa-zero-flavio-tem-apoio-de-sertanejos)_
 
+- **[2026-10-21 01:44 UTC]** PF aponta que Willer Tomaz pagou para retirar do ar notícias que citavam relação com Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/20/pf-aponta-que-willer-tomaz-pagou-para-retirar-do-ar-noticias-que-citavam-relacao-com-flavio-bolsonaro.ghtml)_
+
