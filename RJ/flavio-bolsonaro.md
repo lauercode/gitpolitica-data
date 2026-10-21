@@ -7570,3 +7570,6 @@
 - **[2026-10-21 17:00 UTC]** Em livro sobre o pai, Flávio Bolsonaro defende ditadura e massacre do Carandiru
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/10/em-livro-sobre-o-pai-flavio-bolsonaro-defende-ditadura-e-massacre-do-carandiru.shtml)_
 
+- **[2026-10-21 15:27 UTC]** Estudantes de direita e políticos fazem ato pró-Flávio em frente ao Insper em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/estudantes-de-direita-e-politicos-fazem-ato-pro-flavio-em-frente-ao-insper-em-sp.shtml)_
+
