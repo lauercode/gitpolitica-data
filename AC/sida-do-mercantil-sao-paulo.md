@@ -65,3 +65,6 @@
 - **[2026-10-21 04:15 UTC]** Estudo mostra que distância entre ciclistas e carros fica abaixo do recomendado em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/estudo-mostra-que-distancia-entre-ciclistas-e-carros-fica-abaixo-do-recomendado-em-sao-paulo.shtml)_
 
+- **[2026-10-20 23:00 UTC]** Iron Maiden e BTS trazem turnês a São Paulo; veja agenda de shows na cidade
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/10/iron-maiden-e-bts-trazem-turnes-a-sao-paulo-veja-agenda-de-shows-na-cidade.shtml)_
+
