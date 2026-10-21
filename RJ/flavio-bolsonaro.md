@@ -7483,3 +7483,6 @@
 - **[2026-10-21 06:00 UTC]** Desafio de Lula a Flávio sobre sigilo bancário repete estratégia de Boulos contra Nunes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/desafio-de-lula-a-flavio-sobre-sigilo-bancario-repete-estrategia-de-boulos-contra-nunes.shtml)_
 
+- **[2026-10-21 06:00 UTC]** Saiba quais famosos apoiam Lula e Flávio Bolsonaro nas eleições 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/saiba-quais-famosos-apoiam-lula-e-flavio-bolsonaro-nas-eleicoes-2026.shtml)_
+
