@@ -23,3 +23,6 @@
 - **[2026-09-09 18:38 UTC]** William Bonner fala de timidez na adolescência: 'Não chegava nas meninas, era muito travado'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/william-bonner-fala-de-timidez-na-adolescencia-nao-chegava-nas-meninas-era-muito-travado.shtml)_
 
+- **[2026-10-21 14:15 UTC]** William Bonner faz tatuagem em homenagem aos filhos trigêmeos; veja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/william-bonner-faz-tatuagem-em-homenagem-aos-filhos-trigemeos-veja.shtml)_
+
