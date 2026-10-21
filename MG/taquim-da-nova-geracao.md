@@ -68,3 +68,6 @@
 - **[2026-10-20 00:39 UTC]** Geração Z: como 10 jovens decidiram em quem votar nas eleições 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr4g197e8l52o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-20 20:37 UTC]** Geração Z ocupa praça em Lisboa contra crise da moradia e enfrenta repressão policial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/geracao-z-ocupa-praca-em-lisboa-contra-crise-da-moradia-e-enfrenta-repressao-policial.shtml)_
+
