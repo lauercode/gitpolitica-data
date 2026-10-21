@@ -7537,3 +7537,6 @@
 - **[2026-10-21 17:52 UTC]** Flávio Bolsonaro impõe condições para liberar sigilos
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-impoe-condicoes-para-liberar-sigilos)_
 
+- **[2026-10-21 20:42 UTC]** Campanha diz que Lula não se opõe a condições de Flávio Bolsonaro para quebra de sigilo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-diz-que-lula-nao-se-opoe-a-comdocoes-de-flavio-bolsonaro-para-quebra-de-sigilo.ghtml)_
+
