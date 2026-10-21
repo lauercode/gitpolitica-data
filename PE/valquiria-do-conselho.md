@@ -116,3 +116,6 @@
 - **[2026-10-21 01:27 UTC]** Meta é cobrada pelo próprio Conselho de Supervisão por falhas eleitorais; TSE exige igualdade
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/meta-e-cobrada-pelo-proprio-conselho-de-supervisao-por-falhas-eleitorais-tse-exige-igualdade/)_
 
+- **[2026-10-20 23:19 UTC]** Conselho da Helbor recomenda oferta pública de aquisição da HBR para fechar capital e deixar a B3
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/conselho-da-helbor-recomenda-oferta-publica-de-aquisicao-da-hbr-para-fechar-capital-e-deixar-a-b3.shtml)_
+
