@@ -71,3 +71,6 @@
 - **[2026-10-11 14:31 UTC]** Bahia, Ceará e Piauí mantêm hegemonia do PT apesar do avanço de Flávio no Nordeste
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/bahia-ceara-e-piaui-mantem-hegemonia-do-pt-apesar-do-avanco-de-flavio-no-nordeste/)_
 
+- **[2026-10-20 21:19 UTC]** Nordeste concentra 40% das mudanças nos locais de votação no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nordeste-concentra-40-das-mudancas-nos-locais-de-votacao-no-segundo-turno.shtml)_
+
