@@ -494,3 +494,6 @@
 - **[2026-09-11 22:40 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 11 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-11-de-setembro-de-2026.ghtml)_
 
+- **[2026-10-21 08:00 UTC]** Eleitores do Acre escolhem entre Mailza Assis e Alan Rick para governo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-acre-voltam-urnas-no-domingo-para-escolher-entre-mailza-assis-e-alan-rick-para%20governar-estado)_
+
