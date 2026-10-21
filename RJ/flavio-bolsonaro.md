@@ -7552,3 +7552,6 @@
 - **[2026-10-21 13:43 UTC]** Quaest: 44% temem volta da família Bolsonaro ao poder, e 42%, mais um mandato de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-14-outubro-medo.ghtml)_
 
+- **[2026-10-21 18:33 UTC]** Mercado segue apostando em Flávio mesmo com incômodo por promessas de campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/mercado-segue-apostando-em-flavio-mesmo-com-incomodo-por-promessas-de-campanha.shtml)_
+
