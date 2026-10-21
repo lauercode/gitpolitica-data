@@ -7465,3 +7465,6 @@
 - **[2026-10-20 22:35 UTC]** Perfis usam mulheres de IA em campanha por Flávio e Lula para vender conteúdo adulto
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmgr8qz1095jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-21 03:00 UTC]** Do Bolsa Família à maioridade penal: veja o que Flávio Bolsonaro e Lula mudaram em seus discursos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/de-bolsa-familia-a-maioridade-penal-veja-o-que-flavio-bolsonaro-e-lula-mudaram-em-seus-discursos.ghtml)_
+
