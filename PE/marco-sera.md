@@ -191,3 +191,6 @@
 - **[2026-10-17 11:00 UTC]** Será que o Brasil precisa de uma nova reforma eleitoral?
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/opiniao/artigos/sera-que-o-brasil-precisa-de-uma-nova-reforma-eleitoral/)_
 
+- **[2026-10-21 16:00 UTC]** Será que você ainda tem dúvidas sobre o prazer sexual e as prevenções?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-muller/2026/10/sera-que-voce-ainda-tem-duvidas-sobre-o-prazer-sexual-e-as-prevencoes.shtml)_
+
