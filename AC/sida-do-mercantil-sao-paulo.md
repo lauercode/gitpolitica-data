@@ -62,3 +62,6 @@
 - **[2026-10-20 20:42 UTC]** Médico morre em confronto com a Polícia Militar em Catanduva, no interior de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/medico-morre-em-confronto-com-a-policia-militar-em-catanduva-no-interior-de-sao-paulo.shtml)_
 
+- **[2026-10-21 04:15 UTC]** Estudo mostra que distância entre ciclistas e carros fica abaixo do recomendado em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/estudo-mostra-que-distancia-entre-ciclistas-e-carros-fica-abaixo-do-recomendado-em-sao-paulo.shtml)_
+
