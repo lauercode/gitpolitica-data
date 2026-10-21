@@ -155,3 +155,6 @@
 - **[2026-10-20 18:18 UTC]** Em evento de Flávio, Marçal dá instruções a influenciadores parecidas com as de Janones a 'Exército'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-evento-de-flavio-marcal-da-instrucoes-a-influenciadores-parecidas-com-as-de-janones-a-exercito.shtml)_
 
+- **[2026-10-21 06:51 UTC]** Mesmo com 'Exército' de Janones, esquerda não se equipara à força digital do bolsonarismo, diz Marcos Nobre
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw99z4pj1mr4o?at_medium=RSS&at_campaign=rss)_
+
