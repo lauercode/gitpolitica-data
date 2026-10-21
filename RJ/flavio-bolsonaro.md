@@ -7582,3 +7582,6 @@
 - **[2026-10-20 13:28 UTC]** Quantos filhos Bolsonaro tem? E quantos filhos Lula tem? Conheça a família dos políticos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quantos-filhos-bolsonaro-e-lula-tem/)_
 
+- **[2026-10-21 21:46 UTC]** Flávio dobra a aposta e Lula diz que vai quebrar sigilo de Marcola
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/ultima-analise/flavio-dobra-a-aposta-e-lula-diz-que-vai-quebrar-sigilo-de-marcola/)_
+
