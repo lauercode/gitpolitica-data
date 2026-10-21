@@ -77,3 +77,6 @@
 - **[2026-10-19 16:16 UTC]** Marçal e Nikolas orientaram Flávio no debate cochichando com assessora
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/marcal-e-nikolas-orientaram-flavio-no-debate-cochichando-com-assessora.shtml)_
 
+- **[2026-10-20 18:14 UTC]** Marçal orienta influenciadores pró-Flávio a trocar críticas a Lula por discurso de renovação
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marcal-orienta-aliados-de-flavio-a-trocar-ataques-a-lula-por-discurso-de-renovacao/)_
+
