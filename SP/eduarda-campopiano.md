@@ -41,3 +41,6 @@
 - **[2026-10-14 20:20 UTC]** De Eduarda Campopiano a Ana Elisa: as estratégias das 18 jovens eleitas para o Legislativo em 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqm24394j9kvo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-21 18:48 UTC]** MP-SP aponta transfobia de Eduarda Campopiano contra Erika Hilton e pede indenização de R$ 100 mil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mp-sp-aponta-transfobia-de-eduarda-campopiano-contra-erika-hilton-e-pede-indenizacao-de-r-100-mil.shtml)_
+
