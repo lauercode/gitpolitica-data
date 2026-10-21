@@ -7564,3 +7564,6 @@
 - **[2026-10-21 18:03 UTC]** Bet de amigo de Flávio faturou R$ 210 mil em 18 meses, em resultado abaixo do esperado, mostra documento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/bet-de-amigo-de-flavio-faturou-r-210-mil-em-18-meses-em-resultado-abaixo-do-esperado-mostra-documento.shtml)_
 
+- **[2026-10-21 17:30 UTC]** Alckmin e ex-ministro de Bolsonaro reforçam apelo de Lula na TV a eleitores de direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alckmin-e-santos-cruz-reforcam-apelo-de-lula-na-tv-a-eleitores-de-direita.shtml)_
+
