@@ -98,3 +98,6 @@
 - **[2026-09-11 15:00 UTC]** Alteração no DNA pode explicar progressão de câncer cerebral em jovens
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/alteracao-no-dna-pode-explicar-progressao-de-cancer-cerebral-em-jovens.shtml)_
 
+- **[2026-10-21 16:17 UTC]** Câncer do papa era localizado, e novas terapias não são necessárias, diz boletim médico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/cancer-do-papa-era-localizado-e-novas-terapias-nao-sao-necessarias-diz-boletim-medico.shtml)_
+
