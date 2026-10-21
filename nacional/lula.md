@@ -1424,3 +1424,6 @@
 - **[2026-10-21 10:18 UTC]** Quaest: Flávio Bolsonaro marca 45%, e Lula tem 44% no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-45-e-lula-tem-44-no-2o-turno.shtml)_
 
+- **[2026-10-21 17:48 UTC]** Justiça investiga seis nomes importantes da gestão atual do presidente Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-investiga-seis-nomes-importantes-da-gestao-atual-do-presidente-lula/)_
+
