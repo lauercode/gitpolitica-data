@@ -7513,3 +7513,6 @@
 - **[2026-10-21 12:57 UTC]** Campanha de Flávio minimiza pesquisa Quaest, mas defende resposta mais dura contra 'fake news'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-minimiza-pesquisa-quaest-mas-defende-resposta-mais-dura-contra-fake-news.shtml)_
 
+- **[2026-10-21 11:26 UTC]** PF investiga se Flávio Bolsonaro é sócio oculto de bet, diz revista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/pf-investiga-se-flavio-bolsonaro-e-socio-oculto-de-bet-diz-revista.shtml)_
+
