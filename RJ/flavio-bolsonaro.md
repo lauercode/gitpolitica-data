@@ -7534,3 +7534,6 @@
 - **[2026-10-21 18:13 UTC]** Resultado da Quaest, agenda de Flávio e Lula e outras notícias desta quarta-feira; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-21 17:52 UTC]** Flávio Bolsonaro impõe condições para liberar sigilos
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-impoe-condicoes-para-liberar-sigilos)_
+
