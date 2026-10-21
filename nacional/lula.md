@@ -1442,3 +1442,6 @@
 - **[2026-10-21 13:43 UTC]** Quaest: 44% temem volta da família Bolsonaro ao poder, e 42%, mais um mandato de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-14-outubro-medo.ghtml)_
 
+- **[2026-10-19 20:11 UTC]** Na TV, Flávio Bolsonaro pede 'mobilização total' e Lula aborda o assassinato de Ana Clara, de 5 anos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml)_
+
