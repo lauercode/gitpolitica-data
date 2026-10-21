@@ -485,3 +485,6 @@
 - **[2026-10-21 04:00 UTC]** Globo adia beijo gay entre Mau Mau e Felipe em 'Quem Ama Cuida' para depois das eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-adia-beijo-gay-entre-mau-mau-e-felipe-em-quem-ama-cuida-para-depois-das-eleicoes.shtml)_
 
+- **[2026-10-21 13:05 UTC]** Quem é João Chianca, surfista e irmão de ex-BBB apontado como affair de Paolla Oliveira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/quem-e-joao-chianca-surfista-e-irmao-de-ex-bbb-apontado-como-affair-de-paolla-oliveira.shtml)_
+
