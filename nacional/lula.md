@@ -1421,3 +1421,6 @@
 - **[2026-10-21 11:00 UTC]** Redução da maioridade penal de Lula exclui tráfico, e a de Flávio pune até jovem de 14 anos na rede social
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-de-lula-exclui-trafico-e-a-de-flavio-pune-ate-jovem-de-14-anos-na-rede-social.shtml)_
 
+- **[2026-10-21 10:18 UTC]** Quaest: Flávio Bolsonaro marca 45%, e Lula tem 44% no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-45-e-lula-tem-44-no-2o-turno.shtml)_
+
