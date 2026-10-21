@@ -92,3 +92,6 @@
 - **[2026-10-17 22:50 UTC]** Maria do Carmo faz caminhada no Centro de Manaus e apresenta propostas para infraestrutura
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/maria-do-carmo-faz-caminhada-no-centro-de-manaus-e-apresenta-propostas-para-infraestrutura.ghtml)_
 
+- **[2026-10-21 08:00 UTC]** No Amazonas, eleitores vão escolher entre Aziz e Maria do Carmo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/no-amazonas-eleitores-vao-escolher-entre-aziz-e-maria-do-carmo)_
+
