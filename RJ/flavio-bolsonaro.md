@@ -7549,3 +7549,6 @@
 - **[2026-10-21 19:09 UTC]** Mendonça nega pedido de Flávio para retirar postagens que o chamam de 'mentiroso master' e 'bajulador de Trump'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/mendonca-nega-pedido-de-flavio-para-retirar-postagens-que-o-chamam-de-mentiroso-master-e-bajulador-de-trump.ghtml)_
 
+- **[2026-10-21 13:43 UTC]** Quaest: 44% temem volta da família Bolsonaro ao poder, e 42%, mais um mandato de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-14-outubro-medo.ghtml)_
+
