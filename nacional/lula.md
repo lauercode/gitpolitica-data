@@ -1439,3 +1439,6 @@
 - **[2026-10-21 20:05 UTC]** Quaest no DF, 2º turno: Flávio Bolsonaro, 50%; Lula, 39%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-presidente-segundo-turno-21-outubro.ghtml)_
 
+- **[2026-10-21 13:43 UTC]** Quaest: 44% temem volta da família Bolsonaro ao poder, e 42%, mais um mandato de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-14-outubro-medo.ghtml)_
+
