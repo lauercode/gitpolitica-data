@@ -74,3 +74,6 @@
 - **[2026-10-09 17:08 UTC]** Disputa entre Celina e Grass reproduz no DF a polarização de Lula e Flávio
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/distrito-federal/disputa-entre-celina-e-grass-reproduz-df-polarizacao-lula-flavio/)_
 
+- **[2026-10-21 08:00 UTC]** Eleitores do DF voltam às urnas para escolher entre Celina e Grass
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-df-voltam-urnas-para-escolher-entre-celina-e-grass)_
+
