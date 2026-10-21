@@ -59,3 +59,6 @@
 - **[2026-09-11 20:25 UTC]** 258 indígenas assassinados - a omissão do Estado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/txai-surui/2026/09/258-indigenas-assassinados-a-omissao-do-estado.shtml)_
 
+- **[2026-10-21 05:00 UTC]** Indígenas se preparam para os efeitos do El Niño na amazônia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/indigenas-se-preparam-para-os-efeitos-do-el-nino-na-amazonia.shtml)_
+
