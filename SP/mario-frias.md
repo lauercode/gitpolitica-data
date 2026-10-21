@@ -173,3 +173,6 @@
 - **[2026-10-08 17:49 UTC]** Mario Frias articula volta ao comando da Cultura em possível governo de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/mario-frias-articula-volta-ao-comando-da-cultura-em-possivel-governo-de-flavio.shtml)_
 
+- **[2026-10-21 04:00 UTC]** Mario Frias pagou com verba de campanha empresa ligada a ex-servidora de gestão na Cultura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mario-frias-pagou-com-verba-de-campanha-empresa-ligada-a-ex-servidora-de-gestao-na-cultura.shtml)_
+
