@@ -1451,3 +1451,6 @@
 - **[2026-10-21 17:30 UTC]** Alckmin e ex-ministro de Bolsonaro reforçam apelo de Lula na TV a eleitores de direita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alckmin-e-santos-cruz-reforcam-apelo-de-lula-na-tv-a-eleitores-de-direita.shtml)_
 
+- **[2026-10-21 15:12 UTC]** Flávio Bolsonaro diz que abre sigilo se Lula abrir o de Marcola, e campanha formaliza condição ao TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-abre-sigilo-se-lula-abrir-o-de-marcola-e-critica-ministros-do-stf.shtml)_
+
