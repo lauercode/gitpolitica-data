@@ -50,3 +50,6 @@
 - **[2026-10-20 17:00 UTC]** 1926: Versão cômica de tourada vira uma grande atração na Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/10/1926-versao-comica-de-tourada-vira-uma-grande-atracao-na-espanha.shtml)_
 
+- **[2026-10-21 10:46 UTC]** Milei chama primeiro-ministro da Espanha de ditador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/milei-chama-primeiro-ministro-da-espanha-de-ditador.shtml)_
+
