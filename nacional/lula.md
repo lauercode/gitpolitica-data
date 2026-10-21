@@ -1445,3 +1445,6 @@
 - **[2026-10-19 20:11 UTC]** Na TV, Flávio Bolsonaro pede 'mobilização total' e Lula aborda o assassinato de Ana Clara, de 5 anos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml)_
 
+- **[2026-10-21 18:12 UTC]** Campanha de Lula diz que aceita abrir sigilo de Marcola caso Flávio Bolsonaro abra o seu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-diz-nao-se-opor-a-condicoes-de-flavio-sobre-sigilo-inclusive-abrir-o-de-marcola.shtml)_
+
