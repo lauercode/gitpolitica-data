@@ -272,3 +272,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-10-20 21:15 UTC]** Mensagens de Vorcaro mostram comparação entre ex-banqueiro e Jeffrey Epstein: 'Jeff tá amador demais'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/mensagens-de-vorcaro-mostram-comparacao-entre-ex-banqueiro-e-jeffrey-epstein-jeff-ta-amador-demais.shtml)_
 
+- **[2026-10-20 21:19 UTC]** Mensagens de Vorcaro mostram comparação entre banqueiro e Epstein: 'Jeff tá amador'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck4g18721rv2o?at_medium=RSS&at_campaign=rss)_
+
