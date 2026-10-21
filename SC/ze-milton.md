@@ -20,3 +20,6 @@
 - **[2026-10-20 17:36 UTC]** Milton Cunha critica Virginia Fonseca como rainha de bateria: 'Ela não tinha samba no pé'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/milton-cunha-critica-virginia-fonseca-como-rainha-de-bateria-ela-nao-tinha-samba-no-pe.shtml)_
 
+- **[2026-10-20 23:33 UTC]** Milton Cunha pede desculpas a Pabllo Vittar após fala sobre cantora: 'Erro grosseiro'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/milton-cunha-pede-desculpas-a-pabllo-vittar-apos-fala-sobre-cantora-erro-grosseiro.shtml)_
+
