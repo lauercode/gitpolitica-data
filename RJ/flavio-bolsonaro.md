@@ -7579,3 +7579,6 @@
 - **[2026-10-21 15:12 UTC]** Flávio Bolsonaro diz que abre sigilo se Lula abrir o de Marcola, e campanha formaliza condição ao TSE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-abre-sigilo-se-lula-abrir-o-de-marcola-e-critica-ministros-do-stf.shtml)_
 
+- **[2026-10-20 13:28 UTC]** Quantos filhos Bolsonaro tem? E quantos filhos Lula tem? Conheça a família dos políticos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/quantos-filhos-bolsonaro-e-lula-tem/)_
+
