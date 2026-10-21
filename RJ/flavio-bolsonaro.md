@@ -7438,3 +7438,6 @@
 - **[2026-10-21 01:43 UTC]** Campanha de Flávio Bolsonaro volta a acionar Nunes Marques diretamente sobre ‘Exército de Lula’; PT contesta pedido
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/20/campanha-flavio-bolsonaro-nunes-marques-exercito-de-lula-pt.ghtml)_
 
+- **[2026-10-20 22:00 UTC]** 'Quem não deve não teme': Leitores pedem fim de sigilo sobre dados de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/quem-nao-deve-nao-teme-leitores-pedem-fim-de-sigilo-sobre-dados-de-flavio-bolsonaro.shtml)_
+
