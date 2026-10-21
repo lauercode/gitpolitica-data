@@ -1457,3 +1457,6 @@
 - **[2026-10-20 18:14 UTC]** Marçal orienta influenciadores pró-Flávio a trocar críticas a Lula por discurso de renovação
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marcal-orienta-aliados-de-flavio-a-trocar-ataques-a-lula-por-discurso-de-renovacao/)_
 
+- **[2026-10-20 18:12 UTC]** Mendonça será relator de pedido de Lula para levantar sigilos dele e de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-relator-pedido-lula-levantar-sigilos-dele-e-flavio/)_
+
