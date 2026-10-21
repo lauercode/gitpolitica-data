@@ -56,3 +56,6 @@
 - **[2026-10-20 17:35 UTC]** Boliviano é morto a facada em roubo de celular no Brás, em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/boliviano-e-morto-a-facada-em-roubo-de-celular-no-bras-em-sao-paulo.shtml)_
 
+- **[2026-10-20 21:41 UTC]** Folha faz debate do filme 'O Outro Lado das Redes', na Mostra de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/folha-faz-debate-do-filme-o-outro-lado-das-redes-na-mostra-de-sao-paulo.shtml)_
+
