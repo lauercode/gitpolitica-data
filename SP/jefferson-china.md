@@ -116,3 +116,6 @@
 - **[2026-10-20 23:00 UTC]** Importação de máquinas agrícolas sobe 144%, puxada por China e Índia, e sufoca indústria no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/importacao-de-maquinas-agricolas-sobe-144-puxada-por-china-e-india-e-sufoca-industria-no-brasil.shtml)_
 
+- **[2026-10-21 16:05 UTC]** China amplia produção de baterias no exterior diante de barreiras comerciais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/china-amplia-producao-de-baterias-no-exterior-diante-de-barreiras-comerciais.shtml)_
+
