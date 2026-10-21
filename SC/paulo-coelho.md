@@ -14,3 +14,6 @@
 - **[2026-10-20 16:27 UTC]** Meu encontro com Paulo Coelho e um milagre do Menino Jesus de Praga
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/socorro-acioli/2026/10/meu-encontro-com-paulo-coelho-e-um-milagre-do-menino-jesus-de-praga.shtml)_
 
+- **[2026-10-21 18:08 UTC]** Paulo Coelho e Raí aderem a movimento contra a volta da família Bolsonaro ao poder por defesa dos direitos LGBTQIA+
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/paulo-coelho-e-rai-aderem-a-movimento-contra-a-volta-da-familia-bolsonaro-ao-poder-por-defesa-dos-direitos-lgbtqia.shtml)_
+
