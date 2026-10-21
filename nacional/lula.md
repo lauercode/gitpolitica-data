@@ -1418,3 +1418,6 @@
 - **[2026-10-21 13:00 UTC]** Lula mira aumento na rejeição de Flávio Bolsonaro na reta final com pressão por abertura de sigilo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-mira-aumento-na-rejeicao-de-flavio-bolsonaro-na-reta-final-com-pressao-por-abertura-de-sigilo.shtml)_
 
+- **[2026-10-21 11:00 UTC]** Redução da maioridade penal de Lula exclui tráfico, e a de Flávio pune até jovem de 14 anos na rede social
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-de-lula-exclui-trafico-e-a-de-flavio-pune-ate-jovem-de-14-anos-na-rede-social.shtml)_
+
