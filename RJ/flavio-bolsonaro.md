@@ -7660,3 +7660,6 @@
 - **[2026-10-21 22:25 UTC]** Por que Flávio quer munição sem rastro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/10/por-que-flavio-quer-municao-sem-rastro.shtml)_
 
+- **[2026-10-21 22:00 UTC]** Flávio vai do populismo penal ao incentivo a maus policiais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/flavio-vai-do-populismo-penal-ao-incentivo-a-maus-policiais.shtml)_
+
