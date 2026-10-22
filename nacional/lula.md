@@ -1589,3 +1589,6 @@
 - **[2026-10-22 15:42 UTC]** Flávio disse ter patrimônio de R$ 8,18 milhões, e Lula, R$ 4,77 milhões; veja o que foi declarado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-disse-ter-patrimonio-de-r-818-milhoes-e-lula-r-477-milhoes-veja-o-que-foi-declarado.shtml)_
 
+- **[2026-10-22 15:10 UTC]** Globo terá regra 'antideboche' e proíbe Flávio Bolsonaro de aparecer atrás de Lula em debate
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-cria-regra-antideboche-e-proibe-flavio-bolsonaro-de-aparecer-atras-de-lula-em-debate.shtml)_
+
