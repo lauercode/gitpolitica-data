@@ -7717,3 +7717,6 @@
 - **[2026-10-22 14:52 UTC]** Lula diz ao TSE que não se opõe a liberar sigilos, mas insiste em dados de empresa de amigo de Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/lula-diz-ao-tse-que-nao-se-opoe-a-liberar-sigilos-mas-insiste-em-dados-de-empresa-de-amigo-de-flavio.ghtml)_
 
+- **[2026-10-22 14:46 UTC]** Campanha de Lula intensifica busca de votos entre beneficiários do Bolsa Família que ainda votam em Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/22/campanha-de-lula-intensifica-busca-de-votos-entre-beneficiarios-do-bolsa-familia-que-ainda-votam-em-flavio-bolsonaro.ghtml)_
+
