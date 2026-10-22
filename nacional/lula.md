@@ -1571,3 +1571,6 @@
 - **[2026-10-22 12:41 UTC]** Equipe de Lula entrega ao TSE resposta que aceita desafio de Flávio sobre sigilos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/equipe-lula-entrega-tse-resposta-aceita-desafio-flavio-sigilos/)_
 
+- **[2026-10-22 12:27 UTC]** Lula aposta e Flávio reage: o sigilo e a cartada final do PT
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-aposta-e-flavio-reage-a-quebra-de-sigilo-e-a-cartada-do-pt/)_
+
