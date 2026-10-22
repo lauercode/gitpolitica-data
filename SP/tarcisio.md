@@ -194,3 +194,6 @@
 - **[2026-10-11 15:18 UTC]** Flávio reúne Tarcísio e prefeitos em SP e diz esperar Justiça Eleitoral mais ágil contra fake news
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-reune-tarcisio-e-prefeitos-em-sp-e-diz-esperar-justica-eleitoral-mais-agil-contra-fake-news.shtml)_
 
+- **[2026-10-21 21:44 UTC]** Ato de estudantes de direita em SP tem clima de Carnaval, bebida no gargalo e ligação de Tarcísio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-de-estudantes-de-direita-em-sp-tem-clima-de-carnaval-bebida-no-gargalo-e-ligacao-de-tarcisio.shtml)_
+
