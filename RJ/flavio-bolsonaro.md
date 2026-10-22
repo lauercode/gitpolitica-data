@@ -7762,3 +7762,6 @@
 - **[2026-10-22 14:03 UTC]** Abertura da caixa-preta: Flávio Bolsonaro faz novas exigências a Lula em guerra dos sigilos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/abertura-da-caixa-preta-flavio-bolsonaro-faz-novas-exigencias-a-lula-em-guerra-dos-sigilos/)_
 
+- **[2026-10-22 13:44 UTC]** Alckmin acusa Flávio Bolsonaro de dar desculpas para não abrir sigilos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alckmin-acusa-flavio-bolsonaro-desculpas-para-nao-abrir-sigilos/)_
+
