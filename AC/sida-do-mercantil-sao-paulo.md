@@ -101,3 +101,6 @@
 - **[2026-10-22 10:30 UTC]** Mãe de Mbappé visita escola em São Paulo e faz videochamada com jogador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/mae-de-mbappe-visita-escola-em-sao-paulo-e-faz-videochamada-com-jogador.shtml)_
 
+- **[2026-10-22 10:11 UTC]** Prefeitura de São Paulo mantém multa à Enel em R$ 11,4 milhões por apagões em 2025
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/prefeitura-de-sao-paulo-mantem-multa-a-enel-em-r-114-milhoes-por-apagoes-em-2025.shtml)_
+
