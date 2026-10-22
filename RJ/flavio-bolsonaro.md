@@ -7606,3 +7606,6 @@
 - **[2026-10-21 21:04 UTC]** Tarcísio treinará Flávio Bolsonaro para debate na Globo em tática para diminuir papel de Marçal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-treinara-flavio-bolsonaro-para-debate-na-globo-em-tatica-para-diminuir-papel-de-marcal.shtml)_
 
+- **[2026-10-21 19:30 UTC]** Deputado pede quebra de sigilos de Flávio Bolsonaro e Willer Tomaz
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputado-pede-quebra-de-sigilos-de-flavio-bolsonaro-e-willer-tomaz.shtml)_
+
