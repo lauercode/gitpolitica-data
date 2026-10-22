@@ -347,3 +347,6 @@
 - **[2026-10-21 22:37 UTC]** Projeto em presídio do Paraná ensina artesanato e empreendedorismo a mulheres
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/projeto-em-presidio-do-parana-ensina-artesanato-e-empreendedorismo-a-mulheres.shtml)_
 
+- **[2026-10-22 15:00 UTC]** Projeto limita doações eleitorais de pessoas físicas a dez salários mínimos
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1311996-projeto-limita-doacoes-eleitorais-de-pessoas-fisicas-a-dez-salarios-minimos)_
+
