@@ -1601,3 +1601,6 @@
 - **[2026-10-22 18:22 UTC]** Guerra de sigilos: veja tudo o que Lula e Flávio colocaram nas mãos de Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/guerra-de-sigilos-veja-tudo-o-que-lula-e-flavio-colocaram-nas-maos-de-mendonca/)_
 
+- **[2026-10-22 17:45 UTC]** Lula convoca “Exército” de Janones para live no mesmo horário da de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-convoca-exercito-janones-live-mesmo-horario-de-flavio/)_
+
