@@ -1538,3 +1538,6 @@
 - **[2026-10-22 16:13 UTC]** Campanhas de Lula e Flávio dizem ter acordo para abrir sigilos; TSE ainda precisa autorizar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/22/campanhas-de-lula-e-flavio-dizem-que-entraram-em-acordo-para-abertura-de-sigilostse-ainda-precisa-autorizar.ghtml)_
 
+- **[2026-10-22 13:32 UTC]** Flávio Bolsonaro aceita quebra de sigilo proposta por Lula, e candidatos assinam acordo no TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-aceita-quebra-de-sigilo-proposta-por-lula-e-candidatos-assinam-acordo-no-tse.shtml)_
+
