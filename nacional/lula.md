@@ -1598,3 +1598,6 @@
 - **[2026-10-22 13:59 UTC]** Globo tenta viabilizar checagem em debate Lula x Flávio Bolsonaro, mas não consegue
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-tenta-viabilizar-checagem-em-debate-lula-x-flavio-bolsonaro-mas-nao-consegue.shtml)_
 
+- **[2026-10-22 18:22 UTC]** Guerra de sigilos: veja tudo o que Lula e Flávio colocaram nas mãos de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/guerra-de-sigilos-veja-tudo-o-que-lula-e-flavio-colocaram-nas-maos-de-mendonca/)_
+
