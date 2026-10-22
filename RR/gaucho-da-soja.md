@@ -11,3 +11,6 @@
 - **[2017-05-30 20:00 UTC]** MS exporta 1,7 milhão de toneladas de soja em 2017 e registra recorde histórico
   _fonte: [G1 - Regiões: Mato Grosso do Sul](https://g1.globo.com/mato-grosso-do-sul/especial-publicitario/famasul/noticia/2017/05/ms-exporta-17-milhao-de-toneladas-de-soja-em-2017-e-registra-recorde-historico.html)_
 
+- **[2026-10-22 19:00 UTC]** Soja e bovinos têm os melhores desempenhos no campo neste ano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/10/soja-e-bovinos-tem-os-melhores-desempenhos-no-campo-neste-ano.shtml)_
+
