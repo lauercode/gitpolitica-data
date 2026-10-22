@@ -7651,3 +7651,6 @@
 - **[2026-10-21 23:00 UTC]** Conheça as propostas de Lula e Flávio Bolsonaro para o turismo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/10/conheca-as-propostas-de-lula-e-flavio-bolsonaro-para-o-turismo.shtml)_
 
+- **[2026-10-21 23:00 UTC]** Aliados de Flávio tentam evitar novo 'momento Zambelli' na reta final
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-de-flavio-tentam-evitar-novo-momento-zambelli-na-reta-final.shtml)_
+
