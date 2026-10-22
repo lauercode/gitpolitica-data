@@ -1517,3 +1517,6 @@
 - **[2026-10-22 01:59 UTC]** Flávio amplia exigências para abrir sigilos e cobra dados de aliados de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-amplia-exigencias-para-abrir-sigilos-e-cobra-dados-de-aliados-de-lula/)_
 
+- **[2026-10-22 01:25 UTC]** Flávio e Nikolas dão início à “despetização” do Nordeste para impedir virada de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-e-nikolas-despetizacao-nordeste-impedir-virada-lula-eleicoes-2026/)_
+
