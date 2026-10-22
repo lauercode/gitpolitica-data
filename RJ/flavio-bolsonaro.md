@@ -7822,3 +7822,6 @@
 - **[2026-10-22 16:58 UTC]** Fato ou Fake: reveja as checagens das entrevistas de Flávio Bolsonaro e Lula e do debate da Band
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/22/fato-ou-fake-reveja-as-checagens-das-entrevistas-de-flavio-bolsonaro-e-lula-e-do-debate-da-band.ghtml)_
 
+- **[2026-10-22 20:52 UTC]** Campanha de Lula tenta conter empolgação e a de Flávio mira em 'não errar'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-tenta-conter-empolgacao-e-a-de-flavio-mira-em-nao-errar.shtml)_
+
