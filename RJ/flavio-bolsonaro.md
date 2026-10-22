@@ -7666,3 +7666,6 @@
 - **[2026-10-21 21:36 UTC]** Lula compara desafio do sigilo a Flávio a truco e diz que terá celular para entrar no canal de Janones
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-compara-desafio-do-sigilo-a-flavio-a-truco-e-diz-que-tera-celular-para-entrar-no-canal-de-janones.shtml)_
 
+- **[2026-10-22 02:13 UTC]** Campanha de Lula usa suposto favorecimento da Meta para pedir cassação da chapa de Flávio no TSE
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-de-lula-usa-suposto-favorecimento-da-meta-para-pedir-cassacao-da-chapa-de-flavio-no-tse/)_
+
