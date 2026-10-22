@@ -7615,3 +7615,6 @@
 - **[2026-10-21 18:55 UTC]** Flávio Bolsonaro promete 'cashback' em Pix aos moldes da reforma tributária, mas não detalha custo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-promete-pix-para-devolver-parte-dos-gastos-de-consumidores-mas-nao-detalha-custo.shtml)_
 
+- **[2026-10-21 15:12 UTC]** Flávio Bolsonaro diz que só abre sigilo se Lula abrir o de ex-assessor, e petista afirma aceitar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-abre-sigilo-se-lula-abrir-o-de-marcola-e-critica-ministros-do-stf.shtml)_
+
