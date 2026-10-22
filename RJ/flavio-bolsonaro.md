@@ -7810,3 +7810,6 @@
 - **[2026-10-22 22:05 UTC]** Datafolha, 2º turno: Flávio Bolsonaro tem rejeição de 46%, e Lula, de 45%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-rejeicao-22-outubro.ghtml)_
 
+- **[2026-10-22 22:04 UTC]** Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 46%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-presidente-segundo-turno-22-outubro.ghtml)_
+
