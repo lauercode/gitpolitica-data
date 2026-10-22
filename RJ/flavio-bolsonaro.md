@@ -7837,3 +7837,6 @@
 - **[2026-10-22 19:05 UTC]** Datafolha: Flávio Bolsonaro e Lula empatam com 50% dos votos válidos cada um
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-e-lula-empatam-com-50-dos-votos-validos-cada.shtml)_
 
+- **[2026-10-22 18:51 UTC]** Mendonça diz que Lula e Flávio Bolsonaro podem abrir seus sigilos e que medida independe de aval do TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mendonca-diz-que-lula-e-flavio-bolsonaro-podem-abrir-seus-sigilos-e-que-medida-independe-de-aval-do-tse.shtml)_
+
