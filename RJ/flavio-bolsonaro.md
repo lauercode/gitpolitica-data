@@ -7687,3 +7687,6 @@
 - **[2026-10-22 04:00 UTC]** CNBB defende Constituição e pede intercessão de Nossa Senhora após embate com Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cnbb-defende-constituicao-e-pede-intercessao-de-nossa-senhora-apos-embate-com-flavio-bolsonaro.shtml)_
 
+- **[2026-10-22 04:00 UTC]** Candidatos LGBTs de centro e direita não emplacam nas urnas, e adesão a Flávio não é regra no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/candidatos-lgbts-de-centro-e-direita-nao-emplacam-nas-urnas-e-adesao-a-flavio-nao-e-regra-no-2o-turno.shtml)_
+
