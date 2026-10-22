@@ -11,3 +11,6 @@
 - **[2026-10-19 20:11 UTC]** Na TV, Flávio Bolsonaro pede 'mobilização total' e Lula aborda o assassinato de Ana Clara, de 5 anos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml)_
 
+- **[2026-10-22 18:19 UTC]** Na TV,  Lula fala em risco de cortes em programas sociais e de caso Ana Clara; Flávio Bolsonaro prioriza críticas à economia e propostas para segurança
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/horario-eleitoral-presidente-22-outubro-lula-flavio-bolsonaro.ghtml)_
+
