@@ -95,3 +95,6 @@
 - **[2026-10-22 11:42 UTC]** Cachoeira parece cair do céu em caverna no interior de São Paulo; veja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/cachoeira-parece-cair-do-ceu-em-caverna-no-interior-de-sao-paulo-veja.shtml)_
 
+- **[2026-10-22 11:30 UTC]** Mais um corpo é encontrado na marginal Tietê, em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mais-um-corpo-e-encontrado-na-marginal-tiete-em-sao-paulo.shtml)_
+
