@@ -7846,3 +7846,6 @@
 - **[2026-10-22 21:41 UTC]** Corregedor do TSE nega pedido de Flávio para suspender mensagens do governo Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/corregedor-do-tse-nega-pedido-de-flavio-para-suspender-mensagens-do-governo-lula/)_
 
+- **[2026-10-22 18:22 UTC]** Guerra de sigilos: veja as propostas e condições de Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/guerra-de-sigilos-veja-tudo-o-que-lula-e-flavio-colocaram-nas-maos-de-mendonca/)_
+
