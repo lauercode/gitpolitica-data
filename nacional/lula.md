@@ -1520,3 +1520,6 @@
 - **[2026-10-22 01:25 UTC]** Flávio e Nikolas dão início à “despetização” do Nordeste para impedir virada de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-e-nikolas-despetizacao-nordeste-impedir-virada-lula-eleicoes-2026/)_
 
+- **[2026-10-22 05:56 UTC]** Flávio diz que abrirá sigilos se Marcola fizer o mesmo, e Lula diz aceitar exigências; as notícias eleitorais dessa quarta-feira
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
+
