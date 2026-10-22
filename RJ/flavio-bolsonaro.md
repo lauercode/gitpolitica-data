@@ -7648,3 +7648,6 @@
 - **[2026-10-21 23:00 UTC]** Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bloquinhos-de-nikolas-ganham-escala-nacional-e-dominam-agenda-de-flavio-bolsonaro-no-2o-turno.shtml)_
 
+- **[2026-10-21 23:00 UTC]** Conheça as propostas de Lula e Flávio Bolsonaro para o turismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/10/conheca-as-propostas-de-lula-e-flavio-bolsonaro-para-o-turismo.shtml)_
+
