@@ -110,3 +110,6 @@
 - **[2026-10-22 17:11 UTC]** DPSP, dona da Drogaria São Paulo, aposta em vacinação para atrair visitas e registra 15% de alta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/dpsp-dona-da-drogaria-sao-paulo-aposta-em-vacinacao-para-atrair-visitas-e-registra-15-de-alta.shtml)_
 
+- **[2026-10-22 18:28 UTC]** Tentativa de roubo termina com vítima baleada na cabeça na zona oeste de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/motoqueiro-e-baleado-na-cabeca-durante-roubo-na-zona-oeste-de-sao-paulo.shtml)_
+
