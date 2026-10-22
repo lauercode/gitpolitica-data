@@ -1556,3 +1556,6 @@
 - **[2026-10-22 10:38 UTC]** Campanha de Flávio escala Deltan para analisar dados de sigilos de Lula e pessoas próximas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-escala-deltan-para-analisar-dados-de-sigilos-de-lula-e-pessoas-proximas.shtml)_
 
+- **[2026-10-22 10:00 UTC]** Flávio Bolsonaro promete avanço na educação em temas que Jair esvaziou; Lula quer mais bolsas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/flavio-bolsonaro-promete-avanco-na-educacao-em-temas-que-jair-esvaziou-lula-quer-mais-bolsas.shtml)_
+
