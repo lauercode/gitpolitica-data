@@ -1610,3 +1610,6 @@
 - **[2026-10-22 22:04 UTC]** Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 46%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-presidente-segundo-turno-22-outubro.ghtml)_
 
+- **[2026-10-22 21:40 UTC]** Mendonça diz que Lula e Flávio podem disponibilizar sigilos por conta própria e não cabe ao TSE definir divulgação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/desafio-dos-sigilos-mendonca-diz-que-nao-cabe-ao-tse-definir-o-que-cada-candidato-quer-ou-nao-divulgar.ghtml)_
+
