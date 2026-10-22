@@ -80,3 +80,6 @@
 - **[2026-10-22 01:25 UTC]** Flávio e Nikolas dão início à “despetização” do Nordeste para impedir virada de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-e-nikolas-despetizacao-nordeste-impedir-virada-lula-eleicoes-2026/)_
 
+- **[2026-10-22 14:39 UTC]** Tese examina implicações de rankings na gestão de universidades do Nordeste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://ruf.folha.uol.com.br/2026/noticias/tese-examina-implicacoes-de-rankings-na-gestao-de-universidades-do-nordeste.shtml)_
+
