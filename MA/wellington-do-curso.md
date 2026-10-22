@@ -74,3 +74,6 @@
 - **[2026-09-10 17:04 UTC]** PF aponta que projeto financiado com emenda de Mário Frias pagou R$ 300 mil por curso online com poucos acessos e apura elo com 'Dark Horse'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/09/10/emenda-de-mario-frias-para-curso-online-elo-com-dark-horse.ghtml)_
 
+- **[2026-10-22 18:00 UTC]** Curso gratuito online aborda jornalismo de soluções
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/10/curso-gratuito-online-aborda-jornalismo-de-solucoes.shtml)_
+
