@@ -7639,3 +7639,6 @@
 - **[2026-10-22 00:02 UTC]** Flávio Bolsonaro pede apoio a público LGBTQIA+ em ato no CE e diz que 'serão sempre bem-vindos'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-pede-apoio-a-publico-lgbtqia-em-ato-no-ce-e-diz-que-serao-sempre-bem-vindos.shtml)_
 
+- **[2026-10-21 23:53 UTC]** PF encontra sala secreta para guardar dinheiro em hangar usado por amigo de Flávio Bolsonaro, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/pf-encontra-sala-secreta-para-guardar-dinheiro-em-hangar-usado-por-amigo-de-flavio-bolsonaro-diz-jornal.shtml)_
+
