@@ -491,3 +491,6 @@
 - **[2026-10-21 17:02 UTC]** Quem é Malévola Alves, influencer que ficou detida no Egito acusada de obscenidade e assédio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/quem-e-malevola-alves-influencer-que-ficou-detida-no-egito-acusada-de-obscenidade-e-assedio.shtml)_
 
+- **[2026-10-22 08:05 UTC]** STJ usa 'Quem Ama Cuida' para explicar como a condenação definitiva pode ser revista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/stj-usa-quem-ama-cuida-para-explicar-como-a-condenacao-definitiva-pode-ser-revista.shtml)_
+
