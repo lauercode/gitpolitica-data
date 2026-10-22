@@ -7702,3 +7702,6 @@
 - **[2026-10-22 08:02 UTC]** Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-22 11:38 UTC]** Flávio diz que abrirá sigilos se Marcola fizer o mesmo, e Lula diz aceitar exigências; as notícias eleitorais de quarta-feira
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
+
