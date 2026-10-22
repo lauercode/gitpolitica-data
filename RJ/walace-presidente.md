@@ -521,3 +521,6 @@
 - **[2026-10-19 20:16 UTC]** Presidente do PL critica reforma eleitoral articulada pelo centrão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/presidente-do-pl-critica-reforma-eleitoral-articulada-pelo-centrao/)_
 
+- **[2026-10-21 23:25 UTC]** Presidente do TSE derruba 20 postagens contra Lula e proíbe que Flávio e aliados republiquem conteúdo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/presidente-do-tse-derruba-20-postagens-contra-lula-e-proibe-que-flavio-e-aliados-republiquem-conteudo.ghtml)_
+
