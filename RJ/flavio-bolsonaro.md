@@ -7663,3 +7663,6 @@
 - **[2026-10-21 22:00 UTC]** Flávio vai do populismo penal ao incentivo a maus policiais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/flavio-vai-do-populismo-penal-ao-incentivo-a-maus-policiais.shtml)_
 
+- **[2026-10-21 21:36 UTC]** Lula compara desafio do sigilo a Flávio a truco e diz que terá celular para entrar no canal de Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-compara-desafio-do-sigilo-a-flavio-a-truco-e-diz-que-tera-celular-para-entrar-no-canal-de-janones.shtml)_
+
