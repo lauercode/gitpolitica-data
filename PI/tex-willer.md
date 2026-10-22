@@ -38,3 +38,6 @@
 - **[2026-10-22 08:02 UTC]** Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-22 08:02 UTC]** Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss)_
+
