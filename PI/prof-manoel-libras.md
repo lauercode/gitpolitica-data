@@ -23,3 +23,6 @@
 - **[2026-10-19 11:27 UTC]** Marco Nanini é vaiado após pedir para intérprete de Libras sair do palco; veja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/marco-nanini-e-vaiado-apos-interrupcao-de-peca-por-problema-com-interprete-de-libras.shtml)_
 
+- **[2026-10-21 19:36 UTC]** Marco Nanini pede desculpas após polêmica com intérprete de Libras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/marco-nanini-pede-desculpas-apos-polemica-com-interprete-de-libras.shtml)_
+
