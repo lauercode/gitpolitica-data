@@ -7738,3 +7738,6 @@
 - **[2026-10-22 10:56 UTC]** Campanha de Flávio Bolsonaro escala Deltan Dallagnol para analisar documentos de quebra de sigilo de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/campanha-de-flavio-escala-deltan-dallagnol-para-analisar-documentos-de-quebra-de-sigilo-de-lula.shtml)_
 
+- **[2026-10-22 10:38 UTC]** Campanha de Flávio escala Deltan para analisar dados de sigilos de Lula e pessoas próximas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-escala-deltan-para-analisar-dados-de-sigilos-de-lula-e-pessoas-proximas.shtml)_
+
