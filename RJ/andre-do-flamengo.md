@@ -68,3 +68,6 @@
 - **[2026-10-19 10:29 UTC]** Chance de título do Flamengo vai a quase 70% após 31ª rodada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/chance-de-titulo-do-flamengo-vai-a-quase-70-apos-31a-rodada.shtml)_
 
+- **[2026-10-22 12:00 UTC]** Flávio Bolsonaro sinaliza a presidente do Flamengo dar solução a bets e clubes após proibição de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/flavio-bolsonaro-sinaliza-a-presidente-do-flamengo-dar-solucao-a-bets-e-clubes-apos-proibicao-de-lula.shtml)_
+
