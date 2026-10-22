@@ -7636,3 +7636,6 @@
 - **[2026-10-22 00:36 UTC]** Segurança, economia, saúde; veja propostas de Flávio Bolsonaro e de Lula para governo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/seguranca-economia-saude-veja-propostas-de-flavio-bolsonaro-e-de-lula-para-governo.shtml)_
 
+- **[2026-10-22 00:02 UTC]** Flávio Bolsonaro pede apoio a público LGBTQIA+ em ato no CE e diz que 'serão sempre bem-vindos'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-pede-apoio-a-publico-lgbtqia-em-ato-no-ce-e-diz-que-serao-sempre-bem-vindos.shtml)_
+
