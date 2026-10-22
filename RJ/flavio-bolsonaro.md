@@ -7624,3 +7624,6 @@
 - **[2026-10-21 22:06 UTC]** TSE suspende propaganda de Flávio que associa Lula a “saidinha”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tse-suspende-propaganda-de-flavio-que-associa-lula-a-saidinha/)_
 
+- **[2026-10-22 00:34 UTC]** Flávio diz que abrirá sigilos se Marcola fizer o mesmo, e Lula diz aceitar exigências; siga notícias dessa quarta
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
+
