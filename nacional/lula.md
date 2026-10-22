@@ -1583,3 +1583,6 @@
 - **[2026-10-22 15:33 UTC]** Campanha de Lula apresenta acordo com Flávio para abrir sigilos
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-lula-apresenta-acordo-com-flavio-para-abrir-sigilos)_
 
+- **[2026-10-22 17:21 UTC]** Debate da Globo entre Lula e Flávio terá quatro blocos e restrição a movimentação; veja regras
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-da-globo-entre-lula-e-flavio-tera-quatro-blocos-e-restricao-a-movimentacao-veja-regras.shtml)_
+
