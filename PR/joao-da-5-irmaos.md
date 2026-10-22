@@ -77,3 +77,6 @@
 - **[2026-10-18 23:00 UTC]** Irmãos criam fábrica de IAs para levar eficiência à saúde e evitar erros em hospitais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/10/irmaos-criam-fabrica-de-ias-para-levar-eficiencia-a-saude-e-evitar-erros-em-hospitais.shtml)_
 
+- **[2026-10-22 16:45 UTC]** Irmãos Batista se posicionam em energia nuclear, mesmo sem conclusão de negócio no setor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/irmaos-batista-se-posicionam-em-energia-nuclear-mesmo-sem-conclusao-de-negocio-no-setor.shtml)_
+
