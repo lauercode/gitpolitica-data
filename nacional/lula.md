@@ -1532,3 +1532,6 @@
 - **[2026-10-22 11:38 UTC]** Flávio diz que abrirá sigilos se Marcola fizer o mesmo, e Lula diz aceitar exigências; as notícias eleitorais de quarta-feira
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-22 16:22 UTC]** Lula diz a aliados que Flávio pode escalar Deltan, Moro ou quem quiser para analisar sigilos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/22/lula-diz-a-aliados-que-flavio-pode-escalar-deltan-moro-ou-quem-quiser-para-analisar-sigilos.ghtml)_
+
