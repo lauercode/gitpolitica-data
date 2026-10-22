@@ -7600,3 +7600,6 @@
 - **[2026-10-21 23:15 UTC]** Tarcísio participa por chamada de vídeo de ato de estudantes em apoio a Flávio Bolsonaro em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/21/tarcisio-participa-por-chamada-de-video-de-ato-de-estudantes-em-apoio-a-flavio-bolsonaro-em-sp.ghtml)_
 
+- **[2026-10-21 22:26 UTC]** Quebra de sigilo: Lula diz que Flávio Bolsonaro trucou e que 'não tem nenhuma carta boa, só tem mentira'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/quebra-de-sigilo-lula-diz-que-flavio-trucou-mas-nao-tem-nenhuma-carta-boa-so-tem-mentira.ghtml)_
+
