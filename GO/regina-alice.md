@@ -14,3 +14,6 @@
 - **[2026-09-03 23:00 UTC]** Bienal do Livro destaca nichos literários em ascensão com Alice Oseman e Kelly M., além de escritores de sucesso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/09/bienal-do-livro-destaca-nichos-literarios-em-ascensao-com-alice-oseman-e-kelly-m-alem-de-escritores-de-sucesso.shtml)_
 
+- **[2026-10-22 18:00 UTC]** Alice Wegmann e André Lamoglia vão a jantar da Bvlgari na Pinacoteca de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/alice-wegmann-e-andre-lamoglia-vao-a-jantar-da-bvlgari-na-pinacoteca-de-sp.shtml)_
+
