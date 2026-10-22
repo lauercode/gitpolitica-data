@@ -7795,3 +7795,6 @@
 - **[2026-10-22 15:10 UTC]** Globo terá regra 'antideboche' e proíbe Flávio Bolsonaro de aparecer atrás de Lula em debate
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-cria-regra-antideboche-e-proibe-flavio-bolsonaro-de-aparecer-atras-de-lula-em-debate.shtml)_
 
+- **[2026-10-22 14:09 UTC]** Irmã de Carla Zambelli apoia Lula contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/irma-de-carla-zambelli-apoia-lula-contra-flavio-bolsonaro.shtml)_
+
