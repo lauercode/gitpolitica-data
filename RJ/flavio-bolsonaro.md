@@ -7612,3 +7612,6 @@
 - **[2026-10-21 19:06 UTC]** Último ato de Flávio em São Paulo tem orações, funk eleitoral e pipoca verde e amarela
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ultimo-ato-de-flavio-em-sao-paulo-tem-oracoes-funk-eleitoral-e-pipoca-verde-e-amarela.shtml)_
 
+- **[2026-10-21 18:55 UTC]** Flávio Bolsonaro promete 'cashback' em Pix aos moldes da reforma tributária, mas não detalha custo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-promete-pix-para-devolver-parte-dos-gastos-de-consumidores-mas-nao-detalha-custo.shtml)_
+
