@@ -7798,3 +7798,6 @@
 - **[2026-10-22 14:09 UTC]** Irmã de Carla Zambelli apoia Lula contra Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/irma-de-carla-zambelli-apoia-lula-contra-flavio-bolsonaro.shtml)_
 
+- **[2026-10-22 13:59 UTC]** Globo tenta viabilizar checagem em debate Lula x Flávio Bolsonaro, mas não consegue
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-tenta-viabilizar-checagem-em-debate-lula-x-flavio-bolsonaro-mas-nao-consegue.shtml)_
+
