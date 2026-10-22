@@ -62,3 +62,6 @@
 - **[2026-10-16 22:29 UTC]** Vicentinho Júnior detalha alianças, defende ser ficha limpa e apresenta propostas para saúde e segurança pública
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/16/vicentinho-junior-detalha-aliancas-defende-ser-ficha-limpa-e-apresenta-propostas-para-saude-e-seguranca-publica.ghtml)_
 
+- **[2026-10-22 08:00 UTC]** TO: eleitores escolherão entre Professora Dorinha e Vicentinho Júnior
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-escolherao-entre-professora-dorinha-e-vicentinho-junior)_
+
