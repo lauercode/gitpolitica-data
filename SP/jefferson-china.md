@@ -119,3 +119,6 @@
 - **[2026-10-21 16:05 UTC]** China amplia produção de baterias no exterior diante de barreiras comerciais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/china-amplia-producao-de-baterias-no-exterior-diante-de-barreiras-comerciais.shtml)_
 
+- **[2026-10-22 13:10 UTC]** TSMC busca opções à China para obter terras raras, diz agência
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/tsmc-busca-opcoes-a-china-para-obter-terras-raras-diz-agencia.shtml)_
+
