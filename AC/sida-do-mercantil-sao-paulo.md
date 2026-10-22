@@ -107,3 +107,6 @@
 - **[2026-10-22 17:25 UTC]** Justiça decreta perda de prédio usado pelo PCC para tráfico e prostituição no centro de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/justica-decreta-perda-de-predio-usado-pelo-pcc-para-trafico-e-prostituicao-no-centro-de-sao-paulo.shtml)_
 
+- **[2026-10-22 17:11 UTC]** DPSP, dona da Drogaria São Paulo, aposta em vacinação para atrair visitas e registra 15% de alta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/dpsp-dona-da-drogaria-sao-paulo-aposta-em-vacinacao-para-atrair-visitas-e-registra-15-de-alta.shtml)_
+
