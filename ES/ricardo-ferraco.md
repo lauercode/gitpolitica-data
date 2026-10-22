@@ -32,3 +32,6 @@
 - **[2026-10-14 21:51 UTC]** Quaest no ES, 2º turno: Lorenzo Pazolini, 47%; Ricardo Ferraço, 38%
   _fonte: [G1 - Política:](https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/14/quaest-espirito-santo-governador-segundo-turno-14-outubro.ghtml)_
 
+- **[2026-10-22 08:00 UTC]** Eleitores do ES definem disputa para governo entre Ferraço e Pazolini
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-es-definem-disputa-para-governo-entre-ferraco-e-pazolini)_
+
