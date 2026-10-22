@@ -1508,3 +1508,6 @@
 - **[2026-10-21 23:00 UTC]** O que será do Ministério da Cultura nos possíveis governos de Flávio ou Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/o-que-sera-do-ministerio-da-cultura-nos-possiveis-governos-de-flavio-ou-lula.shtml)_
 
+- **[2026-10-21 21:36 UTC]** Lula compara desafio do sigilo a Flávio a truco e diz que terá celular para entrar no canal de Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-compara-desafio-do-sigilo-a-flavio-a-truco-e-diz-que-tera-celular-para-entrar-no-canal-de-janones.shtml)_
+
