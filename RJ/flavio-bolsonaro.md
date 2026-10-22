@@ -7735,3 +7735,6 @@
 - **[2026-10-22 12:00 UTC]** Flávio Bolsonaro sinaliza a presidente do Flamengo dar solução a bets e clubes após proibição de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/flavio-bolsonaro-sinaliza-a-presidente-do-flamengo-dar-solucao-a-bets-e-clubes-apos-proibicao-de-lula.shtml)_
 
+- **[2026-10-22 10:56 UTC]** Campanha de Flávio Bolsonaro escala Deltan Dallagnol para analisar documentos de quebra de sigilo de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/campanha-de-flavio-escala-deltan-dallagnol-para-analisar-documentos-de-quebra-de-sigilo-de-lula.shtml)_
+
