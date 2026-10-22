@@ -98,3 +98,6 @@
 - **[2026-10-22 11:30 UTC]** Mais um corpo é encontrado na marginal Tietê, em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mais-um-corpo-e-encontrado-na-marginal-tiete-em-sao-paulo.shtml)_
 
+- **[2026-10-22 10:30 UTC]** Mãe de Mbappé visita escola em São Paulo e faz videochamada com jogador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/mae-de-mbappe-visita-escola-em-sao-paulo-e-faz-videochamada-com-jogador.shtml)_
+
