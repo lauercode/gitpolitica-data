@@ -26,3 +26,6 @@
 - **[2026-10-21 14:15 UTC]** William Bonner faz tatuagem em homenagem aos filhos trigêmeos; veja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/william-bonner-faz-tatuagem-em-homenagem-aos-filhos-trigemeos-veja.shtml)_
 
+- **[2026-10-22 13:19 UTC]** William Waack renova contrato com a CNN Brasil e fica na emissora até 2029
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/william-waack-renova-contrato-com-a-cnn-brasil-por-tres-anos.shtml)_
+
