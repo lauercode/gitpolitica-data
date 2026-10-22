@@ -83,3 +83,6 @@
 - **[2026-10-21 14:02 UTC]** TV Cultura encerra tradição de 37 anos e não entrevista candidatos a presidente no Roda Viva
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/tv-cultura-encerra-tradicao-de-37-anos-e-nao-entrevista-candidatos-a-presidente-no-roda-viva.shtml)_
 
+- **[2026-10-21 23:00 UTC]** O que será do Ministério da Cultura nos possíveis governos de Flávio ou Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/o-que-sera-do-ministerio-da-cultura-nos-possiveis-governos-de-flavio-ou-lula.shtml)_
+
