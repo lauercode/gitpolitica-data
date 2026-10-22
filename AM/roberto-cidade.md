@@ -248,3 +248,6 @@
 - **[2026-10-13 22:35 UTC]** Quaest no AM: 39% avaliam gestão Roberto Cidade como regular
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/quaest-am-avaliacao-governo-roberto-cidade-13-outubro.ghtml)_
 
+- **[2026-10-22 05:00 UTC]** Cidade na Itália decide transferir coelhos de cemitério para evitar queixas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/cidade-na-italia-decide-transferir-coelhos-de-cemiterio-para-evitar-queixas.shtml)_
+
