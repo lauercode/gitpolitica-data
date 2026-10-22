@@ -7591,3 +7591,6 @@
 - **[2026-10-22 00:21 UTC]** Campanha de Lula pede cassação da chapa de Flávio Bolsonaro em ação sobre atuação da Meta nas eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-bolsonaro-em-acao-sobre-atuacao-da-meta-nas-eleicoes.ghtml)_
 
+- **[2026-10-21 23:36 UTC]** Entenda polêmica entre Richarlison, Flávio Bolsonaro e Willer Tomaz sobre posse de ilha em Angra
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml)_
+
