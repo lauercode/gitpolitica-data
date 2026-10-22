@@ -7657,3 +7657,6 @@
 - **[2026-10-21 23:00 UTC]** O que será do Ministério da Cultura nos possíveis governos de Flávio ou Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/o-que-sera-do-ministerio-da-cultura-nos-possiveis-governos-de-flavio-ou-lula.shtml)_
 
+- **[2026-10-21 22:25 UTC]** Por que Flávio quer munição sem rastro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/10/por-que-flavio-quer-municao-sem-rastro.shtml)_
+
