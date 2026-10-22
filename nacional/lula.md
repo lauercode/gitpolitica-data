@@ -1496,3 +1496,6 @@
 - **[2026-10-21 22:45 UTC]** Flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-campanha-em-sao-paulo-lula-teve-ato-em-belo-horizonte)_
 
+- **[2026-10-22 03:30 UTC]** Lula x Flávio Bolsonaro: o que diz a pesquisa Quaest sobre o 2º turno - O Assunto #1830
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/22/lula-x-flavio-bolsonaro-o-que-diz-a-pesquisa-quaest-sobre-o-2o-turno-o-assunto-1830.ghtml)_
+
