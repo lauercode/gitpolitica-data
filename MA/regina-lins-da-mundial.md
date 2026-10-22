@@ -95,3 +95,6 @@
 - **[2026-10-21 16:51 UTC]** Brasil fica em quinto no Mundial e não garante vaga antecipada nos Jogos de LA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/brasil-fica-em-quinto-no-mundial-de-ginastica-e-nao-garante-vaga-antecipada-nos-jogos-de-la-28.shtml)_
 
+- **[2026-10-22 13:44 UTC]** EUA sediarão primeiro Mundial de Clubes feminino em 2028
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/eua-sediarao-primeiro-mundial-de-clubes-feminino-em-2028.shtml)_
+
