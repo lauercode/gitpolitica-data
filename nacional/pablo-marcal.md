@@ -80,3 +80,6 @@
 - **[2026-10-20 18:14 UTC]** Marçal orienta influenciadores pró-Flávio a trocar críticas a Lula por discurso de renovação
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/marcal-orienta-aliados-de-flavio-a-trocar-ataques-a-lula-por-discurso-de-renovacao/)_
 
+- **[2026-10-21 21:04 UTC]** Tarcísio treinará Flávio Bolsonaro para debate na Globo em tática para diminuir papel de Marçal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-treinara-flavio-bolsonaro-para-debate-na-globo-em-tatica-para-diminuir-papel-de-marcal.shtml)_
+
