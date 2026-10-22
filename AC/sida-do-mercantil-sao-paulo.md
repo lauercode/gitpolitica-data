@@ -80,3 +80,6 @@
 - **[2026-10-21 14:27 UTC]** Entregadores e motoboys fazem motociata pró-Lula no centro de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/entregadores-e-mototoboys-fazem-motociata-pro-lula-no-centro-de-sao-paulo.shtml)_
 
+- **[2026-10-21 19:06 UTC]** Último ato de Flávio em São Paulo tem orações, funk eleitoral e pipoca verde e amarela
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ultimo-ato-de-flavio-em-sao-paulo-tem-oracoes-funk-eleitoral-e-pipoca-verde-e-amarela.shtml)_
+
