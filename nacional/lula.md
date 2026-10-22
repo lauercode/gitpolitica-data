@@ -1469,3 +1469,6 @@
 - **[2026-10-19 16:41 UTC]** Quem está à frente nas pesquisas, Lula ou Flávio? Confira no agregador da BBC
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-21 19:45 UTC]** Lula aceita proposta de Flávio para quebra de sigilo bancário
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-aceita-proposta-de-flavio-para-quebra-de-sigilo-bancario)_
+
