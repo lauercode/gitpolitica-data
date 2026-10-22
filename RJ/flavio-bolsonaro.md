@@ -7780,3 +7780,6 @@
 - **[2026-10-22 15:33 UTC]** Campanha de Lula apresenta acordo com Flávio para abrir sigilos
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-lula-apresenta-acordo-com-flavio-para-abrir-sigilos)_
 
+- **[2026-10-22 18:19 UTC]** Na TV,  Lula fala em risco de cortes em programas sociais e de caso Ana Clara; Flávio Bolsonaro prioriza críticas à economia e propostas para segurança
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/horario-eleitoral-presidente-22-outubro-lula-flavio-bolsonaro.ghtml)_
+
