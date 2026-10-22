@@ -20,3 +20,6 @@
 - **[2026-10-19 23:00 UTC]** Inquérito sobre suspeita de lavagem de Flávio Bolsonaro também investiga Cláudio Castro e Ramagem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/inquerito-sobre-suspeita-de-lavagem-de-flavio-bolsonaro-tambem-investiga-claudio-castro-e-ramagem.shtml)_
 
+- **[2026-10-22 10:52 UTC]** Departamento da gestão Trump afirma que Ramagem está ilegal nos EUA, diz agência
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/departamento-gestao-trump-afirma-ramagem-esta-ilegal-eua-diz-agencia/)_
+
