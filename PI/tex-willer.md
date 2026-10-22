@@ -41,3 +41,6 @@
 - **[2026-10-22 08:02 UTC]** Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-22 10:00 UTC]** Willer Tomaz, amigo de Flávio Bolsonaro, preferia cassinos online e apostou R$ 1,3 bilhão em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/willer-tomaz-amigo-de-flavio-bolsonaro-preferia-cassinos-online-e-apostou-r-13-bilhao-em-2026.shtml)_
+
