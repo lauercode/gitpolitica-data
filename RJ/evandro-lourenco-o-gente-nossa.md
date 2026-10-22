@@ -56,3 +56,6 @@
 - **[2026-09-09 20:36 UTC]** Abastecimento de água em Nossa Senhora do Socorro é comprometido após rompimento de adutora
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/09/09/abastecimento-de-agua-em-nossa-senhora-do-socorro-e-comprometido-apos-rompimento-de-adutora.ghtml)_
 
+- **[2026-10-22 04:00 UTC]** CNBB defende Constituição e pede intercessão de Nossa Senhora após embate com Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cnbb-defende-constituicao-e-pede-intercessao-de-nossa-senhora-apos-embate-com-flavio-bolsonaro.shtml)_
+
