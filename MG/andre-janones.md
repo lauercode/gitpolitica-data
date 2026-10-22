@@ -161,3 +161,6 @@
 - **[2026-10-21 06:51 UTC]** Mesmo com 'Exército' de Janones, esquerda não tem força digital do bolsonarismo, diz Marcos Nobre
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw99z4pj1mr4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-21 21:36 UTC]** Lula compara desafio do sigilo a Flávio a truco e diz que terá celular para entrar no canal de Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-compara-desafio-do-sigilo-a-flavio-a-truco-e-diz-que-tera-celular-para-entrar-no-canal-de-janones.shtml)_
+
