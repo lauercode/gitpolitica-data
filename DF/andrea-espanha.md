@@ -53,3 +53,6 @@
 - **[2026-10-21 10:46 UTC]** Milei chama primeiro-ministro da Espanha de ditador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/milei-chama-primeiro-ministro-da-espanha-de-ditador.shtml)_
 
+- **[2026-10-22 12:11 UTC]** CazéTV envia equipe à Espanha para transmissão exclusiva de Real Madrid x Barcelona
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/cazetv-envia-equipe-a-espanha-para-transmissao-exclusiva-de-real-madrid-x-barcelona.shtml)_
+
