@@ -7714,3 +7714,6 @@
 - **[2026-10-22 15:38 UTC]** Em São Carlos, Alckmin diz que Flávio Bolsonaro apresentou exigências porque 'não quer abrir sigilo nenhum'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/22/em-sao-carlos-alckmin-diz-que-flavio-bolsonaro-apresentou-exigencias-porque-nao-quer-abrir-sigilo-nenhum.ghtml)_
 
+- **[2026-10-22 14:52 UTC]** Lula diz ao TSE que não se opõe a liberar sigilos, mas insiste em dados de empresa de amigo de Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/lula-diz-ao-tse-que-nao-se-opoe-a-liberar-sigilos-mas-insiste-em-dados-de-empresa-de-amigo-de-flavio.ghtml)_
+
