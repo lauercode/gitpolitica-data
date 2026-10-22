@@ -7744,3 +7744,6 @@
 - **[2026-10-22 10:00 UTC]** Flávio Bolsonaro promete avanço na educação em temas que Jair esvaziou; Lula quer mais bolsas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/flavio-bolsonaro-promete-avanco-na-educacao-em-temas-que-jair-esvaziou-lula-quer-mais-bolsas.shtml)_
 
+- **[2026-10-22 10:00 UTC]** Willer Tomaz, amigo de Flávio Bolsonaro, preferia cassinos online e apostou R$ 1,3 bilhão em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/willer-tomaz-amigo-de-flavio-bolsonaro-preferia-cassinos-online-e-apostou-r-13-bilhao-em-2026.shtml)_
+
