@@ -7603,3 +7603,6 @@
 - **[2026-10-21 22:26 UTC]** Quebra de sigilo: Lula diz que Flávio Bolsonaro trucou e que 'não tem nenhuma carta boa, só tem mentira'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/quebra-de-sigilo-lula-diz-que-flavio-trucou-mas-nao-tem-nenhuma-carta-boa-so-tem-mentira.ghtml)_
 
+- **[2026-10-21 21:04 UTC]** Tarcísio treinará Flávio Bolsonaro para debate na Globo em tática para diminuir papel de Marçal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-treinara-flavio-bolsonaro-para-debate-na-globo-em-tatica-para-diminuir-papel-de-marcal.shtml)_
+
