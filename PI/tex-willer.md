@@ -32,3 +32,6 @@
 - **[2026-10-21 22:31 UTC]** PF apura se Willer Tomaz usou rede de empresas para ocultar valores em negócios de loterias no RJ
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/21/pf-apura-se-willer-tomaz-usou-rede-de-empresas-para-ocultar-valores-em-negocios-de-loterias-no-rj.ghtml)_
 
+- **[2026-10-21 19:30 UTC]** Deputado pede quebra de sigilos de Flávio Bolsonaro e Willer Tomaz
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputado-pede-quebra-de-sigilos-de-flavio-bolsonaro-e-willer-tomaz.shtml)_
+
