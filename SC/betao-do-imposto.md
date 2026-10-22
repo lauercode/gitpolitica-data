@@ -74,3 +74,6 @@
 - **[2026-09-04 16:11 UTC]** Eleições 2026 no PR: Requião Filho propõe zerar imposto de pequenas e microempresas
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-no-pr-requiao-filho.ghtml)_
 
+- **[2026-10-21 23:00 UTC]** 'Imposto do pecado' vai atrasar mais que o esperado e mudará em 2028
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/10/imposto-do-pecado-vai-atrasar-mais-que-o-esperado-e-mudara-em-2028.shtml)_
+
