@@ -347,3 +347,6 @@
 - **[2026-10-17 00:57 UTC]** Empresário que fez repasses a fundo de 'Dark Horse' diz em delação que tentou reaver valores, mas não conseguiu
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/empresario-que-fez-repasses-a-fundo-de-dark-horse-diz-em-delacao-que-tentou-reaver-valores-mas-nao-conseguiu.ghtml)_
 
+- **[2026-10-22 16:32 UTC]** Advogado de ex-marido de produtora de 'Dark Horse' cita hipótese de delação, mas vê discussão precipitada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/advogado-de-ex-marido-de-produtora-de-dark-horse-cita-hipotese-de-delacao-mas-ve-discussao-precipitada.shtml)_
+
