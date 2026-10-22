@@ -86,3 +86,6 @@
 - **[2026-10-22 20:04 UTC]** Datafolha no DF, 2º turno: Celina Leão, 54%; Leandro Grass, 37%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/datafolha-df-governador-segundo-turno-22-outubro.ghtml)_
 
+- **[2026-10-22 17:09 UTC]** Datafolha: Celina Leão mantém liderança no DF com 60% dos votos válidos, contra 40% de Grass
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-celina-leao-mantem-lideranca-no-df.shtml)_
+
