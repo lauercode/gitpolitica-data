@@ -86,3 +86,6 @@
 - **[2026-10-21 22:45 UTC]** Flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-campanha-em-sao-paulo-lula-teve-ato-em-belo-horizonte)_
 
+- **[2026-10-22 05:00 UTC]** Defesa Civil coloca São Paulo em estado de atenção para chuvas até sábado (24)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/defesa-civil-coloca-sao-paulo-em-estado-de-atencao-para-chuvas-ate-sabado-24.shtml)_
+
