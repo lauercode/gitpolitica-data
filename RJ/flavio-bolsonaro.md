@@ -7627,3 +7627,6 @@
 - **[2026-10-22 00:34 UTC]** Flávio diz que abrirá sigilos se Marcola fizer o mesmo, e Lula diz aceitar exigências; siga notícias dessa quarta
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-21 22:45 UTC]** Flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-campanha-em-sao-paulo-lula-teve-ato-em-belo-horizonte)_
+
