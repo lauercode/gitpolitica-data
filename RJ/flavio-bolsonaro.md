@@ -7753,3 +7753,6 @@
 - **[2026-10-22 15:40 UTC]** Equipe de Flávio diz que verificará sigilos de Lula antes de abrir os do senador
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/equipe-flavio-verificara-sigilos-lula-antes-abrir-os-do-senador/)_
 
+- **[2026-10-22 15:38 UTC]** Boulos e Camilo entregam sigilos de Lula ao TSE e desafiam Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/boulos-camilo-entregam-sigilos-lula-tse-desafiam-flavio/)_
+
