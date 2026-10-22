@@ -101,3 +101,6 @@
 - **[2026-10-19 23:30 UTC]** Mudança em seções afetou mais de 1,9 mi de eleitores no 1º turno; TSE atualiza locais para 2ª etapa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mudanca-em-secoes-afetou-mais-de-19-mi-de-eleitores-no-1o-turno-tse-atualiza-locais-para-2a-etapa.shtml)_
 
+- **[2026-10-22 15:00 UTC]** Mudança de hábitos ajuda a diminuir probabilidade de Alzheimer, mesmo com risco genético
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/mudanca-de-habitos-ajuda-a-diminuir-probabilidade-de-alzheimer-mesmo-com-risco-genetico.shtml)_
+
