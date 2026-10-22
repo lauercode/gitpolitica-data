@@ -7732,3 +7732,6 @@
 - **[2026-10-22 13:00 UTC]** Lula estaria de mãos atadas com novo Congresso, e Flávio Bolsonaro não teria vida tão fácil, diz especialista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-estaria-de-maos-atadas-com-novo-congresso-e-flavio-bolsonaro-nao-teria-vida-tao-facil-diz-especialista.shtml)_
 
+- **[2026-10-22 12:00 UTC]** Flávio Bolsonaro sinaliza a presidente do Flamengo dar solução a bets e clubes após proibição de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/flavio-bolsonaro-sinaliza-a-presidente-do-flamengo-dar-solucao-a-bets-e-clubes-apos-proibicao-de-lula.shtml)_
+
