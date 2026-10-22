@@ -7720,3 +7720,6 @@
 - **[2026-10-22 14:46 UTC]** Campanha de Lula intensifica busca de votos entre beneficiários do Bolsa Família que ainda votam em Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/22/campanha-de-lula-intensifica-busca-de-votos-entre-beneficiarios-do-bolsa-familia-que-ainda-votam-em-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-22 13:32 UTC]** Flávio Bolsonaro aceita quebra de sigilo proposta por Lula, e candidatos assinam acordo no TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-aceita-quebra-de-sigilo-proposta-por-lula-e-candidatos-assinam-acordo-no-tse.shtml)_
+
