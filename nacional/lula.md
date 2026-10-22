@@ -1535,3 +1535,6 @@
 - **[2026-10-22 16:22 UTC]** Lula diz a aliados que Flávio pode escalar Deltan, Moro ou quem quiser para analisar sigilos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/22/lula-diz-a-aliados-que-flavio-pode-escalar-deltan-moro-ou-quem-quiser-para-analisar-sigilos.ghtml)_
 
+- **[2026-10-22 16:13 UTC]** Campanhas de Lula e Flávio dizem ter acordo para abrir sigilos; TSE ainda precisa autorizar
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/22/campanhas-de-lula-e-flavio-dizem-que-entraram-em-acordo-para-abertura-de-sigilostse-ainda-precisa-autorizar.ghtml)_
+
