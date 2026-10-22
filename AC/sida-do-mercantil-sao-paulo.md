@@ -89,3 +89,6 @@
 - **[2026-10-22 05:00 UTC]** Defesa Civil coloca São Paulo em estado de atenção para chuvas até sábado (24)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/defesa-civil-coloca-sao-paulo-em-estado-de-atencao-para-chuvas-ate-sabado-24.shtml)_
 
+- **[2026-10-22 07:00 UTC]** São Paulo ganha museu dedicado à memória protestante
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/sao-paulo-ganha-museu-dedicado-a-memoria-protestante.shtml)_
+
