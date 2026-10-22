@@ -467,3 +467,6 @@
 - **[2026-10-21 20:17 UTC]** Governo Lula pressiona Alcolumbre por votação da PEC da Segurança antes do segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-pressiona-alcolumbre-votacao-pec-seguranca/)_
 
+- **[2026-10-22 14:39 UTC]** Jogo de sobrevivência institucional: aliados discutem Alcolumbre no TCU e Pacheco no STF em cenários pós-eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/22/alcolumbre-pacheco-stf-tcu.ghtml)_
+
