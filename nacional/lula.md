@@ -1568,3 +1568,6 @@
 - **[2026-10-22 14:03 UTC]** Abertura da caixa-preta: Flávio Bolsonaro faz novas exigências a Lula em guerra dos sigilos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/abertura-da-caixa-preta-flavio-bolsonaro-faz-novas-exigencias-a-lula-em-guerra-dos-sigilos/)_
 
+- **[2026-10-22 12:41 UTC]** Equipe de Lula entrega ao TSE resposta que aceita desafio de Flávio sobre sigilos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/equipe-lula-entrega-tse-resposta-aceita-desafio-flavio-sigilos/)_
+
