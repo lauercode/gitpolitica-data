@@ -7675,3 +7675,6 @@
 - **[2026-10-22 01:25 UTC]** Flávio e Nikolas dão início à “despetização” do Nordeste para impedir virada de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-e-nikolas-despetizacao-nordeste-impedir-virada-lula-eleicoes-2026/)_
 
+- **[2026-10-22 00:51 UTC]** Flávio sinaliza reforma do Orçamento como um novo “teto de gastos” do governo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/flavio-sinaliza-reforma-do-orcamento-como-um-novo-teto-de-gastos-do-governo/)_
+
