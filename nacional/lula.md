@@ -1541,3 +1541,6 @@
 - **[2026-10-22 13:32 UTC]** Flávio Bolsonaro aceita quebra de sigilo proposta por Lula, e candidatos assinam acordo no TSE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-aceita-quebra-de-sigilo-proposta-por-lula-e-candidatos-assinam-acordo-no-tse.shtml)_
 
+- **[2026-10-22 13:28 UTC]** Debate da Globo entre Lula e Flávio Bolsonaro não terá checagem ao vivo na TV; serviço será feito no g1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/debate-da-globo-entre-lula-e-flavio-bolsonaro-nao-tera-checagem-ao-vivo-na-tv-servico-sera-feito-no-g1.shtml)_
+
