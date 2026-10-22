@@ -1580,3 +1580,6 @@
 - **[2026-10-22 16:26 UTC]** As propostas de Lula e Flávio Bolsonaro sobre CLT e relações trabalhistas
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn8w4q5x9l2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-22 15:33 UTC]** Campanha de Lula apresenta acordo com Flávio para abrir sigilos
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-lula-apresenta-acordo-com-flavio-para-abrir-sigilos)_
+
