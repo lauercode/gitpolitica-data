@@ -1526,3 +1526,6 @@
 - **[2026-10-22 06:00 UTC]** Qual o futuro dos concursos públicos? Veja o que propõem Lula e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/22/qual-o-futuro-dos-concursos-publicos-veja-o-que-propoem-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-22 09:26 UTC]** A batalha de Flávio e Lula pelo voto grisalho: por que eleitores 70+ podem decidir eleição para presidente
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj62yn475xrwo?at_medium=RSS&at_campaign=rss)_
+
