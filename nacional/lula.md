@@ -1622,3 +1622,6 @@
 - **[2026-10-22 20:52 UTC]** Campanha de Lula tenta conter empolgação e a de Flávio mira em 'não errar'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-tenta-conter-empolgacao-e-a-de-flavio-mira-em-nao-errar.shtml)_
 
+- **[2026-10-22 19:06 UTC]** Datafolha: 46% rejeitam só Flávio Bolsonaro, e 45%, só Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-48-rejeitam-lula-e-flavio-bolsonaro.shtml)_
+
