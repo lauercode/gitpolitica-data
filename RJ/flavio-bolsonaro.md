@@ -7597,3 +7597,6 @@
 - **[2026-10-21 23:25 UTC]** Presidente do TSE derruba 20 postagens contra Lula e proíbe que Flávio e aliados republiquem conteúdo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/presidente-do-tse-derruba-20-postagens-contra-lula-e-proibe-que-flavio-e-aliados-republiquem-conteudo.ghtml)_
 
+- **[2026-10-21 23:15 UTC]** Tarcísio participa por chamada de vídeo de ato de estudantes em apoio a Flávio Bolsonaro em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/21/tarcisio-participa-por-chamada-de-video-de-ato-de-estudantes-em-apoio-a-flavio-bolsonaro-em-sp.ghtml)_
+
