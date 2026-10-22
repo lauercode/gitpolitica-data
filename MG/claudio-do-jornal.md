@@ -338,3 +338,6 @@
 - **[2026-09-11 22:40 UTC]** VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 11 de setembro de 2026
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-11-de-setembro-de-2026.ghtml)_
 
+- **[2026-10-21 23:53 UTC]** Jornal vai ao TSE para impedir Meta de excluir conteúdo no Facebook e Instagram
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jornal-vai-ao-tse-para-impedir-meta-de-excluir-conteudo-no-facebook-e-instagram.shtml)_
+
