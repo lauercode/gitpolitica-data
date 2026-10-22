@@ -7807,3 +7807,6 @@
 - **[2026-10-22 17:45 UTC]** Lula convoca “Exército” de Janones para live no mesmo horário da de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-convoca-exercito-janones-live-mesmo-horario-de-flavio/)_
 
+- **[2026-10-22 22:05 UTC]** Datafolha, 2º turno: Flávio Bolsonaro tem rejeição de 46%, e Lula, de 45%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-rejeicao-22-outubro.ghtml)_
+
