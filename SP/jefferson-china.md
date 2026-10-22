@@ -122,3 +122,6 @@
 - **[2026-10-22 13:10 UTC]** TSMC busca opções à China para obter terras raras, diz agência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/tsmc-busca-opcoes-a-china-para-obter-terras-raras-diz-agencia.shtml)_
 
+- **[2026-10-22 12:34 UTC]** Terremoto de magnitude 7 atinge região do Tibete, na China
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/terremoto-de-magnitude-7-atinge-regiao-do-tibete-na-china.shtml)_
+
