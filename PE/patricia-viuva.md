@@ -14,3 +14,6 @@
 - **[2026-09-03 16:45 UTC]** Viúva, sem filhos e reservada: quem era a mulher encontrada morta em casa após pelo menos um ano em João Pessoa
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/09/03/viuva-sem-filhos-e-reservada-quem-era-a-mulher-encontrada-morta-em-casa-apos-pelo-menos-um-ano-em-joao-pessoa.ghtml)_
 
+- **[2026-10-22 09:30 UTC]** Viúva de Rick Sollo desabafa um mês após morte do cantor: 'Já não sou a mesma pessoa'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/viuva-de-rick-sollo-desabafa-um-mes-apos-morte-do-cantor-ja-nao-sou-a-mesma-pessoa.shtml)_
+
