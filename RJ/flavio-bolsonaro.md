@@ -7678,3 +7678,6 @@
 - **[2026-10-22 00:51 UTC]** Flávio sinaliza reforma do Orçamento como um novo “teto de gastos” do governo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/flavio-sinaliza-reforma-do-orcamento-como-um-novo-teto-de-gastos-do-governo/)_
 
+- **[2026-10-22 05:56 UTC]** Flávio diz que abrirá sigilos se Marcola fizer o mesmo, e Lula diz aceitar exigências; as notícias eleitorais dessa quarta-feira
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
+
