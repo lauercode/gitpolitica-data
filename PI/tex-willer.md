@@ -29,3 +29,6 @@
 - **[2026-10-21 23:18 UTC]** PF diz que encontrou sala secreta com máquina de contar dinheiro no hangar de Willer Tomaz; veja imagens
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/21/pf-diz-que-encontrou-sala-secreta-com-maquina-de-contar-dinheiro-no-hangar-de-willer-tomaz-veja-imagens.ghtml)_
 
+- **[2026-10-21 22:31 UTC]** PF apura se Willer Tomaz usou rede de empresas para ocultar valores em negócios de loterias no RJ
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/21/pf-apura-se-willer-tomaz-usou-rede-de-empresas-para-ocultar-valores-em-negocios-de-loterias-no-rj.ghtml)_
+
