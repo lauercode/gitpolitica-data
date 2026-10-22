@@ -95,3 +95,6 @@
 - **[2026-10-18 15:00 UTC]** Votação de 'candidatas do Nikolas Ferreira' surpreende diretório do PL
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/votacao-de-candidatas-do-nikolas-ferreira-surpreende-diretorio-do-pl.shtml)_
 
+- **[2026-10-22 13:53 UTC]** Meta derruba áudio de vídeo de Nikolas Ferreira com música de Rubel por direitos autorais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/meta-derruba-audio-de-video-de-nikolas-ferreira-com-musica-de-rubel-por-direitos-autorais.ghtml)_
+
